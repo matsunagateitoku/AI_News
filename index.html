@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>      
+    <title>People's Daily Brief</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --ink: #1a1209;
+            --paper: #f5f0e8;
+            --aged: #e8e0cc;
+            --accent: #b5000a;
+            --accent-light: #f0e8e8;
+            --rule: #2a1f0f;
+            --muted: #6b5f4a;
+            --section-bg: #eee8d8;
+        }
+
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            background-color: var(--paper);
+            color: var(--ink);
+            font-family: 'Source Serif 4', Georgia, serif;
+            font-size: 15px;
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* ── MASTHEAD ── */
+        .masthead {
+            border-bottom: 3px double var(--rule);
+            padding: 0;
+            background: var(--paper);
+        }
+
+        .masthead-top {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px 24px 8px;
+            border-bottom: 1px solid var(--rule);
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 11px;
+            color: var(--muted);
+            letter-spacing: 0.05em;
+        }
+
+        .masthead-dateline { display: flex; gap: 16px; }
+
+        .masthead-title-wrap {
+            text-align: center;
+            padding: 18px 24px 14px;
+            position: relative;
+        }
+
+        .masthead-rule-top {
+            border: none;
+            border-top: 1px solid var(--rule);
+            margin-bottom: 12px;
+        }
+
+        h1#title {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: clamp(2.4rem, 6vw, 4.2rem);
+            font-weight: 900;
+            letter-spacing: -0.01em;
+            line-height: 1;
+            color: var(--ink);
+        }
+
+        .masthead-sub {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 10px;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: var(--muted);
+            margin-top: 6px;
+        }
+
+        .masthead-rule-bottom {
+            border: none;
+            border-top: 1px solid var(--rule);
+            margin-top: 12px;
+        }
+
+        /* ── NAV ── */
+        nav.main-nav {
+            background: var(--ink);
+            padding: 0 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 0;
+        }
+
+        .nav-links form { margin: 0; }
+
+        .nav-links button {
+            background: none;
+            border: none;
+            border-right: 1px solid rgba(255,255,255,0.1);
+            color: var(--paper);
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 11px;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            padding: 12px 20px;
+            cursor: pointer;
+            transition: background 0.15s, color 0.15s;
+        }
+
+        .nav-links button:hover {
+            background: rgba(255,255,255,0.1);
+        }
+
+        #toggleStyles {
+            background: var(--accent);
+            border: none;
+            color: white;
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 11px;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            padding: 12px 20px;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+
+        #toggleStyles:hover { background: #8a0008; }
+
+        /* ── SECTIONS ── */
+        .sections-wrapper {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 28px 24px 48px;
+            flex: 1;
+        }
+
+        .section-block {
+            margin-bottom: 28px;
+            border: 1px solid rgba(42,31,15,0.2);
+            background: var(--paper);
+            overflow: hidden;
+        }
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px 16px;
+            background: var(--ink);
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .section-header h2 {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 11px;
+            font-weight: 500;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: var(--paper);
+        }
+
+        .section-toggle {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 14px;
+            color: rgba(245,240,232,0.5);
+            transition: transform 0.2s;
+        }
+
+        .section-block.open .section-toggle { transform: rotate(180deg); }
+
+        .section-body {
+            display: none;
+            padding: 16px;
+            border-top: 2px solid var(--accent);
+        }
+
+        .section-block.open .section-body { display: block; }
+
+        /* ── TAB (button grid) ── */
+        .tab {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .tab form { margin: 0; }
+
+        /* ── NEWSPAPER BUTTONS ── */
+        .tab button,
+        .tab button[class] {
+            background: var(--aged);
+            border: 1px solid rgba(42,31,15,0.25);
+            color: var(--ink);
+            font-family: 'Source Serif 4', Georgia, serif;
+            font-size: 12.5px;
+            padding: 5px 12px;
+            cursor: pointer;
+            transition: background 0.12s, border-color 0.12s, color 0.12s;
+            white-space: nowrap;
+            border-radius: 2px;
+        }
+
+        .tab button:hover {
+            background: var(--ink);
+            color: var(--paper);
+            border-color: var(--ink);
+        }
+
+        /* Bias color classes (from data files) */
+        button.red   { border-left: 3px solid #cc2200; }
+        button.blue  { border-left: 3px solid #0044bb; }
+        button.green { border-left: 3px solid #228800; }
+        button.grey, button.gray { border-left: 3px solid #888; }
+        button.yellow { border-left: 3px solid #cc9900; }
+        button.purple { border-left: 3px solid #770099; }
+        button.orange { border-left: 3px solid #dd6600; }
+
+        /* Hidden bias mode */
+        button.no-styles {
+            border-left-color: transparent !important;
+        }
+
+        /* Loading / error */
+        .tab p {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 11px;
+            color: var(--muted);
+            padding: 4px 0;
+        }
+
+        /* ── TWO-COLUMN LAYOUT for sections grid ── */
+        .sections-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .sections-grid .section-block.full-width {
+            grid-column: 1 / -1;
+        }
+
+        @media (max-width: 700px) {
+            .sections-grid { grid-template-columns: 1fr; }
+            .sections-grid .section-block.full-width { grid-column: 1; }
+        }
+
+        /* ── FOOTER ── */
+        footer.footer {
+            background: var(--ink);
+            color: var(--paper);
+            padding: 20px 24px;
+            border-top: 3px double var(--rule);
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .footer-content p,
+        .footer-content a {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 10.5px;
+            letter-spacing: 0.06em;
+            color: rgba(245,240,232,0.6);
+            text-decoration: none;
+        }
+
+        .footer-links {
+            list-style: none;
+            display: flex;
+            gap: 20px;
+        }
+
+        .footer-links a:hover,
+        .social-media a:hover { color: var(--paper); }
+
+        .social-media { display: flex; gap: 16px; }
+
+        /* Bias legend */
+        .bias-legend {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            padding: 8px 16px;
+            border-bottom: 1px solid rgba(42,31,15,0.15);
+            background: var(--section-bg);
+        }
+
+        .bias-legend span {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 10px;
+            letter-spacing: 0.08em;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            color: var(--muted);
+        }
+
+        .legend-dot {
+            width: 8px; height: 8px;
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+    </style>
+</head>
+<body>
+
+<!-- MASTHEAD -->
+<header class="masthead">
+    <div class="masthead-top">
+        <div class="masthead-dateline">
+            <span id="live-date">—</span>
+            <span>EST. 2024</span>
+        </div>
+        <span>Aggregated Intelligence for the Informed Reader</span>
+    </div>
+    <div class="masthead-title-wrap">
+        <hr class="masthead-rule-top">
+        <h1 id="title">People's Daily Brief</h1>
+        <p class="masthead-sub">National · International · Wire · Analysis · Science · Technology</p>
+        <hr class="masthead-rule-bottom">
+    </div>
+</header>
+
+<!-- NAV -->
+<nav class="main-nav">
+    <div class="nav-links">
+        <form action="./pages/Analytics.html" method="get">
+            <button type="submit">Analytics</button>
+        </form>
+        <form action="./pages/References.html" method="get">
+            <button type="submit">References</button>
+        </form>
+        <form action="./pages/about.html" method="get">
+            <button type="submit">About</button>
+        </form>
+    </div>
+    <button id="toggleStyles" onclick="changeButtonText()">Hide Bias</button>
+</nav>
+
+<!-- BIAS LEGEND -->
+<div class="bias-legend" id="biasLegend">
+    <span><span class="legend-dot" style="background:#cc2200"></span>Right-leaning</span>
+    <span><span class="legend-dot" style="background:#0044bb"></span>Left-leaning</span>
+    <span><span class="legend-dot" style="background:#228800"></span>Center</span>
+    <span><span class="legend-dot" style="background:#888"></span>Wire / Neutral</span>
+    <span><span class="legend-dot" style="background:#cc9900"></span>Libertarian</span>
+    <span><span class="legend-dot" style="background:#770099"></span>Foreign State</span>
+    <span style="margin-left:auto; font-size:10px; color:var(--muted)">Click any section header to expand ▾</span>
+</div>
+
+<!-- SECTIONS -->
+<div class="sections-wrapper">
+    <div class="sections-grid">
+
+        <!-- National Newspapers -->
+        <div class="section-block full-width" data-section="nationalPapers">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>National Newspapers</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="nationalPapers"></div>
+            </div>
+        </div>
+
+        <!-- US Newspapers -->
+        <div class="section-block" data-section="localPapers">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>US Newspapers</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="localPapers"></div>
+            </div>
+        </div>
+
+        <!-- Wire Services -->
+        <div class="section-block" data-section="wire">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Wire Services</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="wire"></div>
+            </div>
+        </div>
+
+        <!-- Web News -->
+        <div class="section-block" data-section="web">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Web News</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="web"></div>
+            </div>
+        </div>
+
+        <!-- Political News -->
+        <div class="section-block" data-section="political">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Political News</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="political"></div>
+            </div>
+        </div>
+
+        <!-- TV and Radio News -->
+        <div class="section-block" data-section="TV_Radio">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>TV &amp; Radio News</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="TV_Radio"></div>
+            </div>
+        </div>
+
+        <!-- Magazines -->
+        <div class="section-block" data-section="Magazines">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Magazines</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="Magazines"></div>
+            </div>
+        </div>
+
+        <!-- Finance -->
+        <div class="section-block" data-section="Finance">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Finance</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="Finance"></div>
+            </div>
+        </div>
+
+        <!-- Sports -->
+        <div class="section-block" data-section="Sports">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Sports</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="Sports"></div>
+            </div>
+        </div>
+
+        <!-- Think Tanks -->
+        <div class="section-block" data-section="think_tanks">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Think Tanks</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="think_tanks"></div>
+            </div>
+        </div>
+
+        <!-- International Papers -->
+        <div class="section-block" data-section="International">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>International Papers</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="International"></div>
+            </div>
+        </div>
+
+        <!-- Science -->
+        <div class="section-block" data-section="Science">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Science</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="Science"></div>
+            </div>
+        </div>
+
+        <!-- Technology -->
+        <div class="section-block" data-section="Technology">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Technology</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="Technology"></div>
+            </div>
+        </div>
+
+        <!-- National Security -->
+        <div class="section-block" data-section="National Security">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>National Security</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="National Security"></div>
+            </div>
+        </div>
+
+        <!-- Entertainment -->
+        <div class="section-block" data-section="Entertainment">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Entertainment</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="Entertainment"></div>
+            </div>
+        </div>
+
+        <!-- Propaganda -->
+        <div class="section-block" data-section="Propaganda">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Propaganda</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="Propaganda"></div>
+            </div>
+        </div>
+
+        <!-- CRS Reports -->
+        <div class="section-block">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>CRS Reports</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab">
+                    <form action="https://www.everycrsreport.com/" method="get" target="_blank">
+                        <button class="grey" type="submit">Every CRS Report</button>
+                    </form>
+                    <form action="https://crsreports.congress.gov/" method="get" target="_blank">
+                        <button class="grey" type="submit">CRS Home</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Other Versions -->
+        <div class="section-block">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Other Versions</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab">
+                    <form action="https://matsunagateitoku.github.io/news/website3.html" method="get" target="_blank">
+                        <button class="grey" type="submit">UX Plan for full site</button>
+                    </form>
+                    <form action="https://matsunagateitoku.github.io/news/website4.html" method="get" target="_blank">
+                        <button class="grey" type="submit">Pills for Sites</button>
+                    </form>
+                    <form action="https://matsunagateitoku.github.io/news/wordcloud.html" method="get" target="_blank">
+                        <button class="grey" type="submit">Word Cloud</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </div><!-- /sections-grid -->
+</div><!-- /sections-wrapper -->
+
+<!-- FOOTER -->
+<footer class="footer">
+    <div class="footer-content">
+        <div class="footer-left">
+            <p>&copy; 2024 People's Daily Brief. All rights reserved.</p>
+        </div>
+        <div class="footer-center">
+            <ul class="footer-links">
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Terms of Service</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+        <div class="footer-right">
+            <div class="social-media">
+                <a href="#">Facebook</a>
+                <a href="#">Twitter</a>
+                <a href="#">Instagram</a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script>
+    // Set live date in masthead
+    (function() {
+        const d = new Date();
+        const opts = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+        document.getElementById('live-date').textContent = d.toLocaleDateString('en-US', opts).toUpperCase();
+    })();
+
+    // Toggle section open/close
+    function toggleSection(block) {
+        block.classList.toggle('open');
+    }
+
+    // Auto-open National Newspapers on load
+    document.addEventListener('DOMContentLoaded', () => {
+        const first = document.querySelector('.section-block');
+        if (first) first.classList.add('open');
+    });
+
+    // Load newspapers
+    async function loadNewspapers(sources) {
+        for (const { file, sectionId } of sources) {
+            const container = document.getElementById(sectionId);
+            if (!container) continue;
+            container.innerHTML = '<p>Loading…</p>';
+            try {
+                const response = await fetch(file);
+                if (!response.ok) throw new Error(`Network response was not ok for ${file}`);
+                const newspapers = await response.json();
+                const buttons = newspapers.map(({ name, url, class: buttonClass }) => `
+                    <form action="${url}" method="get" target="_blank" aria-label="${name}">
+                        <button class="${buttonClass}" type="submit">${name}</button>
+                    </form>
+                `).join('');
+                container.innerHTML = buttons;
+            } catch (error) {
+                container.innerHTML = '<p>Error loading sources.</p>';
+                console.error('Fetch error:', error);
+            }
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        const sources = [
+            { file: 'data/national_papers.js', sectionId: 'nationalPapers' },
+            { file: 'data/local_papers.js', sectionId: 'localPapers' },
+            { file: 'data/wire.js', sectionId: 'wire' },
+            { file: 'data/web.js', sectionId: 'web' },
+            { file: 'data/political.js', sectionId: 'political' },
+            { file: 'data/TV_Radio.js', sectionId: 'TV_Radio' },
+            { file: 'data/Magazines.js', sectionId: 'Magazines' },
+            { file: 'data/Finance.js', sectionId: 'Finance' },
+            { file: 'data/Sports.js', sectionId: 'Sports' },
+            { file: 'data/think_tanks.js', sectionId: 'think_tanks' },
+            { file: 'data/international.js', sectionId: 'International' },
+            { file: 'data/Science.js', sectionId: 'Science' },
+            { file: 'data/Tech.js', sectionId: 'Technology' },
+            { file: 'data/Propaganda.js', sectionId: 'Propaganda' },
+            { file: 'data/national_security.js', sectionId: 'National Security' },
+            { file: 'data/Entertainment.js', sectionId: 'Entertainment' }
+        ];
+        loadNewspapers(sources);
+        document.getElementById('toggleStyles').addEventListener('click', toggleStyles);
+    });
+
+    function changeButtonText() {
+        var button = document.getElementById("toggleStyles");
+        button.innerText = button.innerText === "Show Bias" ? "Hide Bias" : "Show Bias";
+        // Also toggle legend visibility
+        document.getElementById('biasLegend').style.display =
+            button.innerText === "Hide Bias" ? 'flex' : 'none';
+    }
+
+    function toggleStyles() {
+        const sections = [
+            'nationalPapers', 'localPapers', 'wire', 'web',
+            'political', 'TV_Radio', 'Magazines', 'Finance',
+            'Sports', 'think_tanks', 'International', 'Overseas',
+            'Science', 'Technology', 'Propaganda', 'National Security', 'Entertainment'
+        ];
+        sections.forEach(sectionId => {
+            const buttons = document.querySelectorAll(`#${CSS.escape(sectionId)} button`);
+            buttons.forEach(button => button.classList.toggle('no-styles'));
+        });
+    }
+</script>
+</body>
+</html>

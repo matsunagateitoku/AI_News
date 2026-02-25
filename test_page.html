@@ -1,0 +1,147 @@
+<script>
+	async function loadNewspapers(sources) {
+		for (const { file, sectionId } of sources) {
+			const container = document.getElementById(sectionId);
+			container.innerHTML = '<p>Loading...</p>'; // Loading indicator
+
+			try {
+				const response = await fetch(file);
+				if (!response.ok) throw new Error(`Network response was not ok for ${file}`);
+
+				const newspapers = await response.json();
+				const buttons = newspapers.map(({ name, url, class: buttonClass }) => `
+					<form action="${url}" method="get" target="_blank" aria-label="${name}">
+						<button class="${buttonClass}" type="submit">${name}</button>
+					</form>
+				`).join('');
+
+				container.innerHTML = buttons;
+			} catch (error) {
+				container.innerHTML = '<p>Error loading newspapers.</p>'; // Error message
+				console.error('There has been a problem with your fetch operation:', error);
+			}
+		}
+	}
+
+function toggleStyles() {
+	const sections = ['nationalPapers', 'localPapers', 'international-section'];
+	sections.forEach(sectionId => {
+		const buttons = document.querySelectorAll(`#${sectionId} button`);
+		buttons.forEach(button => {
+			if (button.classList.contains('no-styles')) {
+				button.classList.remove('no-styles');
+			} else {
+				button.classList.add('no-styles');
+			}
+		});
+	});
+}
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+
+    <title>PDB Simple</title>
+</head>
+
+<body class="bg-gray-100">
+    <header class="bg-green-500 text-white p-4 text-center">
+        <h1 id="title" class="text-2xl font-bold">STDP People's Daily Brief</h1>
+    </header>
+
+    <nav class="bg-white shadow-md">
+        <div class="container mx-auto p-4">
+            <div class="flex space-x-4">
+                <form action="https://www.nytimes.com/" method="get" target="_blank">
+                    <button class="bg-gray-200 hover:bg-gray-300 px-4 py-2 rounded" type="submit">Analytics</button>
+                </form>
+                <form action="https://www.washingtonpost.com/" method="get" target="_blank">
+                    <button class="bg-gray-200 hover:bg-gray-300 px-4 py-2 rounded" type="submit">Washington Post</button>
+                </form>
+                <form action="https://www.wsj.com/" method="get" target="_blank">
+                    <button class="bg-gray-200 hover:bg-gray-300 px-4 py-2 rounded" type="submit">WSJ</button>
+                </form>
+                <form action="https://www.latimes.com/" method="get" target="_blank">
+                    <button class="bg-gray-200 hover:bg-gray-300 px-4 py-2 rounded" type="submit">References</button>
+                </form>
+                <form action="https://www.usatoday.com/" method="get" target="_blank">
+                    <button class="bg-gray-200 hover:bg-gray-300 px-4 py-2 rounded" type="submit">About Us</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <h1 class="text-xl font-semibold mt-4">National Newspapers</h1>
+    <div class="tab">
+        <!-- Other content can go here -->
+    </div>
+
+    <h1 class="text-xl font-semibold mt-4">US Newspapers</h1>
+    <div class="tab">
+        <!-- More content can go here -->
+    </div>
+
+
+
+
+<!-- Example HTML structure -->
+<summary>National Newspapers</summary>
+<div class="tab" id="national-section"></div>
+
+<summary>###################################Local Newspapers</summary>
+<div class="tab" id="local-section"></div>
+<div id="international-section">test</div>
+<div id="local-section"></div>
+
+
+
+</body>
+
+
+
+<script>
+	async function loadNewspapers(sources) {
+		for (const { file, sectionId } of sources) {
+			const container = document.getElementById(sectionId);
+			container.innerHTML = '<p>Loading...</p>'; // Loading indicator
+
+			try {
+				const response = await fetch(file);
+				if (!response.ok) throw new Error(`Network response was not ok for ${file}`);
+
+				const newspapers = await response.json();
+				const buttons = newspapers.map(({ name, url, class: buttonClass }) => `
+					<form action="${url}" method="get" target="_blank" aria-label="${name}">
+						<button class="${buttonClass}" type="submit">${name}</button>
+					</form>
+				`).join('');
+
+				container.innerHTML = buttons;
+			} catch (error) {
+				container.innerHTML = '<p>Error loading newspapers.</p>'; // Error message
+				console.error('There has been a problem with your fetch operation:', error);
+			}
+		}
+	}
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const sources = [
+			{ file: 'data/national_papers.js', sectionId: 'national-section' },
+			{ file: 'data/international_papers.js', sectionId: 'international-section' },
+			{ file: 'data/local_papers.js', sectionId: 'local-section' }
+		];
+		loadNewspapers(sources);
+	});
+</script>
+
+
+
+</html>

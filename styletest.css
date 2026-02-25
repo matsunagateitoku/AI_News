@@ -1,0 +1,335 @@
+/*style for PDB title   */
+
+
+
+/* Style for the toggle button */
+#toggleStyles {
+    background-color: #007bff;   /* Blue background */
+    color: white;                /* White text */
+    border: 2px solid #007bff;   /* Border matches background */
+    padding: 10px 20px;          /* Some padding */
+    font-size: 16px;             /* Font size */
+    border-radius: 5px;          /* Rounded corners */
+    cursor: pointer;            /* Pointer cursor on hover */
+    transition: all 0.3s ease;   /* Smooth transition for background, border, and text color */
+}
+
+/* Hover effect */
+#toggleStyles:hover {
+    background-color: #0056b3;   /* Darker blue on hover */
+    border-color: #0056b3;       /* Darker border on hover */
+    color: white;                /* Keep text white */
+}
+
+/* Focus effect for accessibility */
+#toggleStyles:focus {
+    outline: none;               /* Remove default outline */
+    box-shadow: 0 0 0 4px rgba(38, 143, 255, 0.5); /* Custom focus ring */
+}
+
+/* Active effect (when clicked) */
+#toggleStyles:active {
+    background-color: #004085;   /* Darker blue on click */
+    border-color: #004085;       /* Darker border on click */
+}
+
+.no-styles {
+  background-color: rgb(118, 93, 118) !important;
+  border: none !important;
+  color: whitesmoke!important;
+  padding: 10px 20px !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  margin: 4px 2px !important;
+  cursor: pointer !important;
+  border-radius: 16px !important;
+
+}
+
+
+
+#title {
+	color: white;
+	font-size: 70px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	border-radius: 16px;
+	background-color:DodgerBlue;
+}
+
+#title {
+  font-size: 76px; /* Adjust the size as needed */
+  font-weight: bold; /* Make it bold */
+  color: #aacdf0; /* Dark blue-gray color */
+  text-align: center; /* Center the text */
+  margin: 20px 0; /* Add space above and below */
+  text-transform: uppercase; /* Make text uppercase for emphasis */
+  letter-spacing: 1px; /* Add some space between letters */
+  font-family: 'Arial', sans-serif; /* Choose a font family */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.body {font-family: Arial;}
+/* Style the tab; tab = box around */
+
+.section_title{
+	padding-top: 50px
+}
+
+.tab {
+  overflow: hidden;
+  background-color: #f1f1f1;
+  border: 4px solid #9ea3bb; /* Blue */
+  border-radius: 5px; /* Rounded corners */
+}
+
+summary {
+  margin-top: 20px; /* Adjust the value as needed */
+  font-size: 24px;
+  font-weight: bold;
+  color: #2e2b2b; /* Dark gray */
+  transition: background-color 0.3s;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+  font-family: 'Arial', sans-serif; /* Change to your preferred font */
+}
+
+
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* #grey-national {
+  background-color: purple;
+  border: none;
+  color: whitesmoke;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+} */
+#grey-national:hover {
+	background-color: #272829;
+	color: white;
+}	
+
+* #red-national {
+  background-color: red;
+  border: none;
+  color: whitesmoke;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}	 
+#red-national:hover {
+  background-color: #f49090;
+	color: white;
+}
+
+
+
+/* ~~~~ this is how i should be doing button style. all buttons that start witn */
+button[class^="blue"] {
+  background-color: #0707b5;
+  border: none;
+  color: whitesmoke;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+button[class^="grey"] {
+  background-color: rgb(118, 93, 118);
+  border: none;
+  color: whitesmoke;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+button[class^="red"] {
+  background-color: red;
+  border: none;
+  color: whitesmoke;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}	
+
+button[class^="blue"]:hover {
+	background-color: rgb(85, 82, 241);
+	color: white;
+}
+
+button[class^="red"]:hover {
+	background-color: rgb(247, 111, 111);
+	color: white;
+}
+
+button[class^="grey"]:hover {
+	background-color: rgb(205, 111, 205);
+	color: white;
+}
+
+/* #blue-national {
+  background-color: #0707b5;
+  border: none;
+  color: whitesmoke;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+} */
+/* #blue-national:hover {
+	background-color: #0066ff;
+	color: white;
+} */
+
+/* #grey-local {
+  background-color: purple;
+  border: none;
+  color: whitesmoke;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+} */
+#grey-local:hover {
+	background-color: #272829;
+	color: white;
+}	
+/* #red-local {
+  background-color: red;
+  border: none;
+  color: whitesmoke;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}	 */
+#red-local:hover {
+  background-color: #f49090;
+	color: white;
+}
+
+/* #blue-local {
+  background-color: #0707b5;
+  border: none;
+  color: whitesmoke;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+} */
+/* #blue-local:hover {
+	background-color: #0066ff;
+	color: white;
+} */
+
+
+
+
+
+
+
+/* Footer styles */
+.footer {
+    background-color: DodgerBlue;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.footer-left {
+    font-size: 14px;
+}
+
+.footer-center {
+    flex-grow: 1;
+}
+
+.footer-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.footer-links li {
+    display: inline;
+}
+
+.footer-links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.footer-right .social-media {
+    display: flex;
+    gap: 15px;
+}
+
+.social-icon {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.social-icon:hover {
+    color: #ccc;
+}
+

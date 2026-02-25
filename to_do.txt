@@ -1,0 +1,37 @@
+1 fix buttons on the top of each page
+2 add content to ref page
+3
+
+
+big/hard
+  - add button to "show more"
+  - change the domain name
+- add links to jump to sections
+
+
+easy/small
+  -fix the buttons (home, about us, etc.)
+  improve the header
+ more HTML boilerplate?
+
+  Thoughts
+  - add logo to some sites?
+  - add state flags to papers?
+  - Host at Blue Ocean
+
+Future
+- Add wordcloud 
+- add NER
+- Add map 
+
+
+
+
+
+
+
+
+Done
+ - extract data into JSON 
+ - change html to template literal  
+ -  add a footer 

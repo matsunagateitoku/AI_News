@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>      
+    <title>PDB</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet"> 
+    <link rel="stylesheet" type="text/css" href="styletest.css" /> 
+</head>
+<body>
+<h1 id=title>People's Daily Brief</h1>
+<nav class="bg-white shadow-md">
+  <div class="container mx-auto p-4 flex items-center justify-between">
+
+    <!-- Left side buttons -->
+    <div class="flex space-x-4">
+      <form action="./pages/Analytics.html" method="get">
+        <button class="bg-gray-200 hover:bg-gray-300 px-4 py-2 rounded" type="submit">
+          Analytics
+        </button>
+      </form>
+
+      <form action="./pages/References.html" method="get">
+        <button class="bg-gray-200 hover:bg-gray-300 px-4 py-2 rounded" type="submit">
+          References
+        </button>
+      </form>
+
+      <form action="./pages/about.html" method="get">
+        <button class="bg-gray-200 hover:bg-gray-300 px-4 py-2 rounded" type="submit">
+          About
+        </button>
+      </form>
+    </div>
+
+    <!-- Right side button -->
+    <button
+      id="toggleStyles"
+      onclick="changeButtonText()"
+      class="bg-red-200 hover:bg-red-300 px-4 py-2 rounded"
+    >
+      Hide Bias
+    </button>
+
+  </div>
+</nav>
+
+
+
+
+	<summary>National Newspapers</summary>
+    	<div class="tab" id="nationalPapers"></div>
+
+	<summary>US Newspapers</summary>
+	<div class="tab" id="localPapers"></div>
+
+	<summary>Wire Sevices</summary>
+	<div class="tab" id="wire"></div>
+	
+	<summary>Web News</summary>
+	<div class="tab" id="web"></div>
+
+	<summary>Political News</summary>
+	<div class="tab" id="political"></div>
+
+	<summary>TV and Raido News</summary>
+	<div class="tab" id="TV_Radio"></div>
+
+	<summary>Magazines</summary>
+	<div class="tab" id="Magazines"></div>
+
+	<summary>Finance</summary>
+	<div class="tab" id="Finance"></div>
+		
+	<summary>Sports</summary>
+	<div class="tab" id="Sports"></div>
+
+	<summary>Think Tanks</summary>
+	<div class="tab" id="think_tanks"></div>
+
+	<summary>International Papers</summary>
+	<div class="tab" id="International"></div>
+
+	<summary>Science</summary>
+	<div class="tab" id="Science"></div>
+
+	<summary>Technology</summary>
+	<div class="tab" id="Technology"></div>
+
+	<summary>Propaganda</summary>
+	<div class="tab" id="Propaganda"></div>
+
+	<summary>National Security</summary>
+	<div class="tab" id="National Security"></div>
+
+	<summary>Entertainment</summary>
+	<div class="tab" id="Entertainment"></div>
+
+
+<summary>CRS Reports</summary>
+	<div class="tab">
+	<form action="https://www.everycrsreport.com/" method="get" target="_blank">
+     		<button class=grey type="submit">Every CRS report</button></form>
+	<form action="https://crsreports.congress.gov/" method="get" target="_blank">
+     		<button class=grey type="submit">CRS Home</button></form>
+	</div>
+	
+
+<summary>Other Versions of the site</summary>
+	<div class="tab">
+	<form action="https://matsunagateitoku.github.io/news/website3.html" method="get" target="_blank">
+     		<button class=grey type="submit">UX Plan for full site</button></form>
+	<form action="https://matsunagateitoku.github.io/news/website4.html" method="get" target="_blank">
+     		<button class=grey type="submit">pills for sites</button></form>
+	<form action="https://matsunagateitoku.github.io/news/wordcloud.html" method="get" target="_blank">
+     		<button class=grey type="submit">wordcloud</button></form>
+	</div>
+
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-left">
+                <p>&copy; 2024 People's Daily Brief. All rights reserved.</p>
+            </div>
+            <div class="footer-center">
+                <ul class="footer-links">
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Terms of Service</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-right">
+                <div class="social-media">
+                    <a href="#" class="social-icon">Facebook</a>
+                    <a href="#" class="social-icon">Twitter</a>
+                    <a href="#" class="social-icon">Instagram</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+
+
+<script>
+	// Asynchronous function to load newspapers from multiple sources
+	async function loadNewspapers(sources) {
+		// Iterate over each source object (containing file and sectionId)
+		for (const { file, sectionId } of sources) {
+			// Get the container element where the buttons will be placed by sectionId
+			const container = document.getElementById(sectionId);
+
+			// Show a loading message while the content is being fetched
+			container.innerHTML = '<p>Loading...</p>'; // Loading indicator
+
+			try {
+				// Fetch the file (JSON data) for the current source
+				const response = await fetch(file);
+
+				// Check if the fetch was successful, otherwise throw an error
+				if (!response.ok) throw new Error(`Network response was not ok for ${file}`);
+
+				// Parse the JSON response containing newspapers information
+				const newspapers = await response.json();
+
+				// Generate HTML buttons for each newspaper using map and template literals
+				const buttons = newspapers.map(({ name, url, class: buttonClass }) => `
+					<form action="${url}" method="get" target="_blank" aria-label="${name}">
+						<button class="${buttonClass}" type="submit">${name}</button>
+					</form>
+				`).join(''); // Join the array of form buttons into a single string of HTML
+
+				// Replace the loading message with the generated buttons
+				container.innerHTML = buttons;
+			} catch (error) {
+				// If an error occurs, display an error message
+				container.innerHTML = '<p>Error loading newspapers.</p>'; // Error message
+
+				// Log the error to the console for debugging purposes
+				console.error('There has been a problem with your fetch operation:', error);
+			}
+		}
+	}
+
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const sources = [
+			{ file: 'data/national_papers.js', sectionId: 'nationalPapers' },
+			{ file: 'data/local_papers.js', sectionId: 'localPapers' },
+			{ file: 'data/wire.js', sectionId: 'wire' },
+			{ file: 'data/web.js', sectionId: 'web' },
+			{ file: 'data/political.js', sectionId: 'political' },
+			{ file: 'data/TV_Radio.js', sectionId: 'TV_Radio' },
+			{ file: 'data/Magazines.js', sectionId: 'Magazines' },
+			{ file: 'data/Finance.js', sectionId: 'Finance' },
+			{ file: 'data/Sports.js', sectionId: 'Sports' },
+			{ file: 'data/think_tanks.js', sectionId: 'think_tanks' },
+			{ file: 'data/international.js', sectionId: 'International' },
+			{ file: 'data/Science.js', sectionId: 'Science' },
+			{ file: 'data/Tech.js', sectionId: 'Technology' },
+			{ file: 'data/Propaganda.js', sectionId: 'Propaganda' },
+			{ file: 'data/national_security.js', sectionId: 'National Security' },
+			{ file: 'data/Entertainment.js', sectionId: 'Entertainment' }
+		];
+		loadNewspapers(sources);
+		document.getElementById('toggleStyles').addEventListener('click', toggleStyles);
+	});
+
+
+
+	function changeButtonText() {
+            var button = document.getElementById("toggleStyles");
+            if (button.innerText === "Show Bias") {
+                button.innerText = "Hide Bias";
+            } else {
+                button.innerText = "Show Bias";
+            }
+        }
+
+function toggleStyles() {
+	console.log('Toggling styles');  // Check if the function is being triggered
+	const sections = [
+        	'nationalPapers', 'localPapers', 'wire', 'web', 
+        	'political', 'TV_Radio', 'Magazines', 'Finance', 
+        	'Sports', 'think_tanks', 'International', 'Overseas'
+    ];
+
+    sections.forEach(sectionId => {
+        const buttons = document.querySelectorAll(`#${sectionId} button`);
+	console.log(buttons);  // Check if buttons are being selected
+        buttons.forEach(button => {
+            // Toggle the 'no-styles' class
+            button.classList.toggle('no-styles');
+        });
+    });
+}
+</script>
+</body>
+</html> 
+
