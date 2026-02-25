@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).Finance=[
    {
        "name": "Bloomberg",
        "url": "https://www.bloomberg.com/",
@@ -35,3 +35,4 @@
        "class": "grey"
    }
 ]
+;

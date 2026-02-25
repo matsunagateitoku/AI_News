@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).nationalPapers=[
     {
         "name": "USA Today",
         "url": "https://www.usatoday.com/",
@@ -46,3 +46,4 @@
     }
 ]
 
+;

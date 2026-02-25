@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).localPapers=[
     {
         "region": "Northeast",
         "papers": [
@@ -118,3 +118,4 @@
         ]
     }
 ]
+;

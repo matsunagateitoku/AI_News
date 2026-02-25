@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).Magazines=[
     {
         "name": "Atlantic",
         "url": "https://www.theatlantic.com/",
@@ -50,3 +50,4 @@
         "class": "grey"
     }
 ]
+;

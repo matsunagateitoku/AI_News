@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).web=[
     {
         "name": "Daily Beast",
         "url": "https://www.thedailybeast.com/",
@@ -150,3 +150,4 @@
         "class": "grey"
     }
 ]
+;

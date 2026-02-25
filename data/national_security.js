@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).national_security=[
     {
         "name": "Lawfare",
         "url": "https://www.lawfareblog.com/",
@@ -65,3 +65,4 @@
         "class": "grey"
     }
 ]
+;

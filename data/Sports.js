@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).Sports=[
    {
        "name": "Ringer",
        "url": "https://www.theringer.com/",
@@ -35,3 +35,4 @@
        "class": "grey"
    }
 ]
+;

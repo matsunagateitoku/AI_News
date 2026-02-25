@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).think_tanks=[
    {
        "name": "Pew",
        "url": "https://www.pewresearch.org/",
@@ -85,3 +85,4 @@
        "class": "grey"
    }
 ]
+;

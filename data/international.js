@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).International=[
    {
        "name": "Guardian",
        "url": "https://www.theguardian.com/uk",
@@ -110,3 +110,4 @@
        "class": "grey"
    }
 ]
+;

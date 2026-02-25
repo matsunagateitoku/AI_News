@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).Technology=[
    {
        "name": "Nature",
        "url": "https://www.nature.com/",
@@ -116,3 +116,4 @@
    }
 ]
 
+;

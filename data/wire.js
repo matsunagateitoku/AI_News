@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).wire=[
     {
         "name": "AP",
         "url": "https://apnews.com/",
@@ -20,3 +20,4 @@
         "class": "grey"
     }
 ]
+;

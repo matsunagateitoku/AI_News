@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).Propaganda=[
     {
         "name": "RT (Russia Today)",
         "url": "https://rt.com/",
@@ -75,3 +75,4 @@
         "class": "red-national"
     }
 ]
+;

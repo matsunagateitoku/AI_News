@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).political=[
     {
         "name": "Politico",
         "url": "https://www.politico.com",
@@ -100,3 +100,4 @@
         "class": "grey"
     }
 ]
+;

@@ -637,6 +637,24 @@
     </div>
 </footer>
 
+<!-- Data files (loaded as scripts so the page works without a server) -->
+<script src="data/national_papers.js"></script>
+<script src="data/local_papers.js"></script>
+<script src="data/wire.js"></script>
+<script src="data/web.js"></script>
+<script src="data/political.js"></script>
+<script src="data/TV_Radio.js"></script>
+<script src="data/Magazines.js"></script>
+<script src="data/Finance.js"></script>
+<script src="data/Sports.js"></script>
+<script src="data/think_tanks.js"></script>
+<script src="data/international.js"></script>
+<script src="data/Science.js"></script>
+<script src="data/Tech.js"></script>
+<script src="data/Propaganda.js"></script>
+<script src="data/national_security.js"></script>
+<script src="data/Entertainment.js"></script>
+
 <script>
     // Set live date in masthead
     (function() {
@@ -650,71 +668,49 @@
         block.classList.toggle('open');
     }
 
-    // Open all sections on load
-    document.addEventListener('DOMContentLoaded', () => {
-        document.querySelectorAll('.section-block').forEach(block => block.classList.add('open'));
-    });
+    // Render a section from the pre-loaded window.newsData registry
+    function renderSection(sectionId) {
+        const container = document.getElementById(sectionId);
+        if (!container) return;
+        const data = window.newsData && window.newsData[sectionId];
+        if (!data) { container.innerHTML = '<p>No data.</p>'; return; }
 
-    // Load newspapers
-    async function loadNewspapers(sources) {
-        for (const { file, sectionId } of sources) {
-            const container = document.getElementById(sectionId);
-            if (!container) continue;
-            container.innerHTML = '<p>Loading…</p>';
-            try {
-                const response = await fetch(file);
-                if (!response.ok) throw new Error(`Network response was not ok for ${file}`);
-                const data = await response.json();
-
-                // Regional format: [{region, papers: [{name, state, url, class}]}]
-                if (data.length > 0 && data[0].region) {
-                    container.innerHTML = data.map(({ region, papers }) => `
-                        <div class="region-group">
-                            <div class="region-label">${region}</div>
-                            <div class="region-papers">
-                                ${papers.map(({ name, state, url, class: cls }) => `
-                                    <form action="${url}" method="get" target="_blank" aria-label="${name}">
-                                        <button class="${cls}" type="submit">${name}${state ? ` <span class="state-tag">(${state})</span>` : ''}</button>
-                                    </form>
-                                `).join('')}
-                            </div>
-                        </div>
-                    `).join('');
-                } else {
-                    // Flat format: [{name, url, class}]
-                    container.innerHTML = data.map(({ name, url, class: cls }) => `
-                        <form action="${url}" method="get" target="_blank" aria-label="${name}">
-                            <button class="${cls}" type="submit">${name}</button>
-                        </form>
-                    `).join('');
-                }
-            } catch (error) {
-                container.innerHTML = '<p>Error loading sources.</p>';
-                console.error('Fetch error:', error);
-            }
+        // Regional format: [{region, papers: [{name, state, url, class}]}]
+        if (data.length > 0 && data[0].region) {
+            container.innerHTML = data.map(({ region, papers }) => `
+                <div class="region-group">
+                    <div class="region-label">${region}</div>
+                    <div class="region-papers">
+                        ${papers.map(({ name, state, url, class: cls }) => `
+                            <form action="${url}" method="get" target="_blank" aria-label="${name}">
+                                <button class="${cls}" type="submit">${name}${state ? ` <span class="state-tag">(${state})</span>` : ''}</button>
+                            </form>
+                        `).join('')}
+                    </div>
+                </div>
+            `).join('');
+        } else {
+            // Flat format: [{name, url, class}]
+            container.innerHTML = data.map(({ name, url, class: cls }) => `
+                <form action="${url}" method="get" target="_blank" aria-label="${name}">
+                    <button class="${cls}" type="submit">${name}</button>
+                </form>
+            `).join('');
         }
     }
 
     document.addEventListener('DOMContentLoaded', () => {
-        const sources = [
-            { file: 'data/national_papers.js', sectionId: 'nationalPapers' },
-            { file: 'data/local_papers.js', sectionId: 'localPapers' },
-            { file: 'data/wire.js', sectionId: 'wire' },
-            { file: 'data/web.js', sectionId: 'web' },
-            { file: 'data/political.js', sectionId: 'political' },
-            { file: 'data/TV_Radio.js', sectionId: 'TV_Radio' },
-            { file: 'data/Magazines.js', sectionId: 'Magazines' },
-            { file: 'data/Finance.js', sectionId: 'Finance' },
-            { file: 'data/Sports.js', sectionId: 'Sports' },
-            { file: 'data/think_tanks.js', sectionId: 'think_tanks' },
-            { file: 'data/international.js', sectionId: 'International' },
-            { file: 'data/Science.js', sectionId: 'Science' },
-            { file: 'data/Tech.js', sectionId: 'Technology' },
-            { file: 'data/Propaganda.js', sectionId: 'Propaganda' },
-            { file: 'data/national_security.js', sectionId: 'national_security' },
-            { file: 'data/Entertainment.js', sectionId: 'Entertainment' }
-        ];
-        loadNewspapers(sources);
+        // Open all sections
+        document.querySelectorAll('.section-block').forEach(block => block.classList.add('open'));
+
+        // Render all sections from pre-loaded data
+        [
+            'nationalPapers', 'localPapers', 'wire', 'web',
+            'political', 'TV_Radio', 'Magazines', 'Finance',
+            'Sports', 'think_tanks', 'International',
+            'Science', 'Technology', 'Propaganda', 'national_security', 'Entertainment'
+        ].forEach(renderSection);
+
         document.getElementById('toggleStyles').addEventListener('click', toggleStyles);
     });
 

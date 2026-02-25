@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).Science=[
    {
        "name": "Nature",
        "url": "https://www.nature.com/",
@@ -115,3 +115,4 @@
        "class": "grey"
    }
 ]
+;

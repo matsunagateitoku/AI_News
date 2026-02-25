@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).Entertainment=[
     {
         "name": "AV Club",
         "url": "https://www.avclub.com/",
@@ -100,3 +100,4 @@
         "class": "grey"
     }
 ]
+;

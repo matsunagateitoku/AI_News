@@ -1,4 +1,4 @@
-[
+(window.newsData=window.newsData||{}).TV_Radio=[
     {
         "name": "Fox",
         "url": "https://www.foxnews.com/",
@@ -60,3 +60,4 @@
         "class": "grey"
     }
 ]
+;
