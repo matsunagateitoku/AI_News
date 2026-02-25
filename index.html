@@ -218,14 +218,15 @@
             border-color: var(--ink);
         }
 
-        /* Bias color classes (from data files) */
-        button.red   { border-left: 3px solid #cc2200; }
-        button.blue  { border-left: 3px solid #0044bb; }
-        button.green { border-left: 3px solid #228800; }
-        button.grey, button.gray { border-left: 3px solid #888; }
-        button.yellow { border-left: 3px solid #cc9900; }
-        button.purple { border-left: 3px solid #770099; }
-        button.orange { border-left: 3px solid #dd6600; }
+        /* Bias color classes — prefix match handles blue-national, blue-web, etc. */
+        button[class^="red"]    { border-left: 3px solid #cc2200; }
+        button[class^="blue"]   { border-left: 3px solid #0044bb; }
+        button[class^="green"]  { border-left: 3px solid #228800; }
+        button[class^="grey"],
+        button[class^="gray"]   { border-left: 3px solid #888; }
+        button[class^="yellow"] { border-left: 3px solid #cc9900; }
+        button[class^="purple"] { border-left: 3px solid #770099; }
+        button[class^="orange"] { border-left: 3px solid #dd6600; }
 
         /* Hidden bias mode */
         button.no-styles {
@@ -515,13 +516,13 @@
         </div>
 
         <!-- National Security -->
-        <div class="section-block" data-section="National Security">
+        <div class="section-block" data-section="national_security">
             <div class="section-header" onclick="toggleSection(this.parentElement)">
                 <h2>National Security</h2>
                 <span class="section-toggle">▾</span>
             </div>
             <div class="section-body">
-                <div class="tab" id="National Security"></div>
+                <div class="tab" id="national_security"></div>
             </div>
         </div>
 
@@ -625,10 +626,9 @@
         block.classList.toggle('open');
     }
 
-    // Auto-open National Newspapers on load
+    // Open all sections on load
     document.addEventListener('DOMContentLoaded', () => {
-        const first = document.querySelector('.section-block');
-        if (first) first.classList.add('open');
+        document.querySelectorAll('.section-block').forEach(block => block.classList.add('open'));
     });
 
     // Load newspapers
@@ -670,7 +670,7 @@
             { file: 'data/Science.js', sectionId: 'Science' },
             { file: 'data/Tech.js', sectionId: 'Technology' },
             { file: 'data/Propaganda.js', sectionId: 'Propaganda' },
-            { file: 'data/national_security.js', sectionId: 'National Security' },
+            { file: 'data/national_security.js', sectionId: 'national_security' },
             { file: 'data/Entertainment.js', sectionId: 'Entertainment' }
         ];
         loadNewspapers(sources);
@@ -689,8 +689,8 @@
         const sections = [
             'nationalPapers', 'localPapers', 'wire', 'web',
             'political', 'TV_Radio', 'Magazines', 'Finance',
-            'Sports', 'think_tanks', 'International', 'Overseas',
-            'Science', 'Technology', 'Propaganda', 'National Security', 'Entertainment'
+            'Sports', 'think_tanks', 'International',
+            'Science', 'Technology', 'Propaganda', 'national_security', 'Entertainment'
         ];
         sections.forEach(sectionId => {
             const buttons = document.querySelectorAll(`#${CSS.escape(sectionId)} button`);
