@@ -241,6 +241,30 @@
             padding: 4px 0;
         }
 
+        /* ── REGIONAL GROUPS (US Newspapers) ── */
+        .region-group { width: 100%; margin-bottom: 14px; }
+        .region-group:last-child { margin-bottom: 0; }
+
+        .region-label {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 10px;
+            font-weight: 500;
+            letter-spacing: 0.16em;
+            text-transform: uppercase;
+            color: var(--muted);
+            border-bottom: 1px solid rgba(42,31,15,0.2);
+            padding-bottom: 5px;
+            margin-bottom: 8px;
+        }
+
+        .region-papers { display: flex; flex-wrap: wrap; gap: 6px; }
+
+        .state-tag {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 9px;
+            opacity: 0.55;
+        }
+
         /* ── TWO-COLUMN LAYOUT for sections grid ── */
         .sections-grid {
             display: grid;
@@ -640,13 +664,30 @@
             try {
                 const response = await fetch(file);
                 if (!response.ok) throw new Error(`Network response was not ok for ${file}`);
-                const newspapers = await response.json();
-                const buttons = newspapers.map(({ name, url, class: buttonClass }) => `
-                    <form action="${url}" method="get" target="_blank" aria-label="${name}">
-                        <button class="${buttonClass}" type="submit">${name}</button>
-                    </form>
-                `).join('');
-                container.innerHTML = buttons;
+                const data = await response.json();
+
+                // Regional format: [{region, papers: [{name, state, url, class}]}]
+                if (data.length > 0 && data[0].region) {
+                    container.innerHTML = data.map(({ region, papers }) => `
+                        <div class="region-group">
+                            <div class="region-label">${region}</div>
+                            <div class="region-papers">
+                                ${papers.map(({ name, state, url, class: cls }) => `
+                                    <form action="${url}" method="get" target="_blank" aria-label="${name}">
+                                        <button class="${cls}" type="submit">${name}${state ? ` <span class="state-tag">(${state})</span>` : ''}</button>
+                                    </form>
+                                `).join('')}
+                            </div>
+                        </div>
+                    `).join('');
+                } else {
+                    // Flat format: [{name, url, class}]
+                    container.innerHTML = data.map(({ name, url, class: cls }) => `
+                        <form action="${url}" method="get" target="_blank" aria-label="${name}">
+                            <button class="${cls}" type="submit">${name}</button>
+                        </form>
+                    `).join('');
+                }
             } catch (error) {
                 container.innerHTML = '<p>Error loading sources.</p>';
                 console.error('Fetch error:', error);
