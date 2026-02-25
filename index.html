@@ -590,24 +590,23 @@
             </div>
         </div>
 
-        <!-- Other Versions -->
-        <div class="section-block">
+        <div class="section-block full-width" data-section="collegePapers">
             <div class="section-header" onclick="toggleSection(this.parentElement)">
-                <h2>Other Versions</h2>
+                <h2>College &amp; University Papers</h2>
                 <span class="section-toggle">▾</span>
             </div>
             <div class="section-body">
-                <div class="tab">
-                    <form action="https://matsunagateitoku.github.io/news/website3.html" method="get" target="_blank">
-                        <button class="grey" type="submit">UX Plan for full site</button>
-                    </form>
-                    <form action="https://matsunagateitoku.github.io/news/website4.html" method="get" target="_blank">
-                        <button class="grey" type="submit">Pills for Sites</button>
-                    </form>
-                    <form action="https://matsunagateitoku.github.io/news/wordcloud.html" method="get" target="_blank">
-                        <button class="grey" type="submit">Word Cloud</button>
-                    </form>
-                </div>
+                <div id="collegePapers" class="tab"></div>
+            </div>
+        </div>
+
+        <div class="section-block full-width" data-section="substack">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Substack – News &amp; Politics</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div id="substack" class="tab"></div>
             </div>
         </div>
 
@@ -654,6 +653,8 @@
 <script src="data/Propaganda.js"></script>
 <script src="data/national_security.js"></script>
 <script src="data/Entertainment.js"></script>
+<script src="data/college_papers.js"></script>
+<script src="data/substack.js"></script>
 
 <script>
     // Set live date in masthead
@@ -708,7 +709,8 @@
             'nationalPapers', 'localPapers', 'wire', 'web',
             'political', 'TV_Radio', 'Magazines', 'Finance',
             'Sports', 'think_tanks', 'International',
-            'Science', 'Technology', 'Propaganda', 'national_security', 'Entertainment'
+            'Science', 'Technology', 'Propaganda', 'national_security', 'Entertainment',
+            'collegePapers', 'substack'
         ].forEach(renderSection);
 
         document.getElementById('toggleStyles').addEventListener('click', toggleStyles);
