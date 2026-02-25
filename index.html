@@ -218,18 +218,19 @@
         }
 
         /* Bias color classes — prefix match handles blue-national, blue-web, etc. */
-        button[class^="red"]    { border-left: 3px solid #cc2200; }
-        button[class^="blue"]   { border-left: 3px solid #0044bb; }
-        button[class^="green"]  { border-left: 3px solid #228800; }
+        button[class^="red"]    { border-left: 5px solid #cc2200; background: rgba(204,34,0,0.07); }
+        button[class^="blue"]   { border-left: 5px solid #0044bb; background: rgba(0,68,187,0.07); }
+        button[class^="green"]  { border-left: 5px solid #228800; background: rgba(34,136,0,0.07); }
         button[class^="grey"],
-        button[class^="gray"]   { border-left: 3px solid #888; }
-        button[class^="yellow"] { border-left: 3px solid #cc9900; }
-        button[class^="purple"] { border-left: 3px solid #770099; }
-        button[class^="orange"] { border-left: 3px solid #dd6600; }
+        button[class^="gray"]   { border-left: 5px solid #888; }
+        button[class^="yellow"] { border-left: 5px solid #cc9900; background: rgba(204,153,0,0.07); }
+        button[class^="purple"] { border-left: 5px solid #770099; background: rgba(119,0,153,0.07); }
+        button[class^="orange"] { border-left: 5px solid #dd6600; background: rgba(221,102,0,0.07); }
 
         /* Hidden bias mode */
         button.no-styles {
             border-left-color: transparent !important;
+            background: var(--aged) !important;
         }
 
         /* Loading / error */
@@ -383,7 +384,7 @@
         </div>
 
         <!-- US Newspapers -->
-        <div class="section-block" data-section="localPapers">
+        <div class="section-block full-width" data-section="localPapers">
             <div class="section-header" onclick="toggleSection(this.parentElement)">
                 <h2>US Newspapers</h2>
                 <span class="section-toggle">▾</span>
