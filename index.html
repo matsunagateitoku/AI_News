@@ -678,6 +678,12 @@
         block.classList.toggle('open');
     }
 
+    // Return a DuckDuckGo favicon img tag for a given URL (or school domain override)
+    function faviconImg(url, school) {
+        const domain = school || (() => { try { return new URL(url).hostname; } catch(e) { return null; } })();
+        return domain ? `<img class="school-logo" src="https://icons.duckduckgo.com/ip3/${domain}.ico" alt="">` : '';
+    }
+
     // Render a section from the pre-loaded window.newsData registry
     function renderSection(sectionId) {
         const container = document.getElementById(sectionId);
@@ -693,7 +699,7 @@
                     <div class="region-papers">
                         ${papers.map(({ name, state, url, class: cls }) => `
                             <form action="${url}" method="get" target="_blank" aria-label="${name}">
-                                <button class="${cls}" type="submit">${name}${state ? ` <span class="state-tag">(${state})</span>` : ''}</button>
+                                <button class="${cls}" type="submit">${faviconImg(url)}${name}${state ? ` <span class="state-tag">(${state})</span>` : ''}</button>
                             </form>
                         `).join('')}
                     </div>
@@ -703,7 +709,7 @@
             // Flat format: [{name, url, class, flag?, school?}]
             container.innerHTML = data.map(({ name, url, class: cls, flag, school }) => `
                 <form action="${url}" method="get" target="_blank" aria-label="${name}">
-                    <button class="${cls}" type="submit">${school ? `<img class="school-logo" src="https://icons.duckduckgo.com/ip3/${school}.ico" alt="">` : ''}${flag ? flag + ' ' : ''}${name}</button>
+                    <button class="${cls}" type="submit">${faviconImg(url, school)}${flag ? flag + ' ' : ''}${name}</button>
                 </form>
             `).join('');
         }
