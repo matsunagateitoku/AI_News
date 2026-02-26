@@ -2,6 +2,7 @@
 """
 Scrapes RSS feeds from major national newspapers.
 Computes word frequency and extracts named entities via spaCy.
+Each word and entity carries the URL of the article it first appeared in.
 Writes data/wordcloud.js and data/entities.js for the static site.
 """
 
@@ -37,7 +38,7 @@ RSS_FEEDS = [
 ]
 
 # ---------------------------------------------------------------------------
-# Common English words to exclude from the word cloud
+# Common words to exclude from the word cloud
 # ---------------------------------------------------------------------------
 STOPWORDS = {
     'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for',
@@ -57,63 +58,76 @@ STOPWORDS = {
 
 
 def scrape_feeds():
-    """Fetch all RSS feeds and return a list of headline + summary strings."""
-    texts = []
-    for name, url in RSS_FEEDS:
+    """Fetch all RSS feeds, return list of {text, url, source} dicts."""
+    articles = []
+    for name, feed_url in RSS_FEEDS:
         try:
-            feed = feedparser.parse(url)
+            feed = feedparser.parse(feed_url)
             count = 0
             for entry in feed.entries:
-                title = entry.get('title', '').strip()
+                title   = entry.get('title', '').strip()
                 summary = re.sub(r'<[^>]+>', ' ', entry.get('summary', ''))
+                link    = entry.get('link', '')
                 if title:
-                    texts.append(f"{title}. {summary}")
+                    articles.append({'text': f"{title}. {summary}",
+                                     'url': link, 'source': name})
                     count += 1
             print(f"  ✓ {name}: {count} entries")
         except Exception as exc:
             print(f"  ✗ {name}: {exc}", file=sys.stderr)
-    return texts
+    return articles
 
 
-def word_frequency(texts, top_n=150):
-    """Return [[word, count], ...] sorted by frequency, stopwords excluded."""
-    counter = Counter()
-    for text in texts:
-        for word in re.findall(r"[a-zA-Z']{3,}", text.lower()):
+def word_frequency(articles, top_n=150):
+    """
+    Return [[word, count, url], ...] sorted by frequency.
+    url is the first article the word appeared in.
+    """
+    counter  = Counter()
+    word_url = {}          # word → first article url
+    for art in articles:
+        for word in re.findall(r"[a-zA-Z']{3,}", art['text'].lower()):
             word = word.strip("'")
             if word not in STOPWORDS and len(word) >= 3:
                 counter[word] += 1
-    return [[word, count] for word, count in counter.most_common(top_n)]
+                if word not in word_url:
+                    word_url[word] = art['url']
+    return [[w, c, word_url.get(w, '')] for w, c in counter.most_common(top_n)]
 
 
-def named_entities(texts, top_n=15):
-    """Return top named entities per category using spaCy NER."""
+def named_entities(articles, top_n=15):
+    """
+    Extract named entities using spaCy, processing articles in batches.
+    Returns dict of category → [{name, count, url, source}, ...].
+    """
     print("  Loading spaCy model...")
     nlp = spacy.load("en_core_web_sm")
 
-    # Combine texts; spaCy has a character limit so we cap it
-    combined = " ".join(texts)[:500_000]
-    doc = nlp(combined)
+    LABELS = {"PERSON", "ORG", "GPE", "EVENT"}
+    buckets    = {lbl: Counter() for lbl in LABELS}
+    entity_meta = {}   # normalised name → {url, source} of first occurrence
 
-    buckets = {
-        "PERSON": Counter(),
-        "ORG":    Counter(),
-        "GPE":    Counter(),   # countries, cities, states
-        "EVENT":  Counter(),
-    }
-    for ent in doc.ents:
-        label = ent.label_
-        if label not in buckets:
-            continue
-        name = ent.text.strip()
-        if len(name) < 2:
-            continue
-        # Normalise to title case to merge e.g. "TRUMP" and "Trump"
-        buckets[label][name.title()] += 1
+    texts = [art['text'] for art in articles]
+    metas = articles
+
+    for doc, art in zip(nlp.pipe(texts, batch_size=50, disable=["parser"]), metas):
+        for ent in doc.ents:
+            if ent.label_ not in LABELS:
+                continue
+            name = ent.text.strip().title()
+            if len(name) < 2:
+                continue
+            buckets[ent.label_][name] += 1
+            if name not in entity_meta:
+                entity_meta[name] = {'url': art['url'], 'source': art['source']}
 
     return {
-        label: [{"name": name, "count": ct}
-                for name, ct in counter.most_common(top_n)]
+        label: [
+            {"name": name, "count": ct,
+             "url":    entity_meta.get(name, {}).get('url', ''),
+             "source": entity_meta.get(name, {}).get('source', '')}
+            for name, ct in counter.most_common(top_n)
+        ]
         for label, counter in buckets.items()
     }
 
@@ -122,6 +136,7 @@ def write_js(path, var_name, data):
     os.makedirs(os.path.dirname(os.path.abspath(path)), exist_ok=True)
     with open(path, 'w', encoding='utf-8') as fh:
         fh.write(
+            f"// Auto-generated by scraper/scrape.py — do not edit by hand.\n"
             f"(window.newsData=window.newsData||{{}}).{var_name}="
             f"{json.dumps(data, indent=2, ensure_ascii=False)};\n"
         )
@@ -129,18 +144,17 @@ def write_js(path, var_name, data):
 
 
 if __name__ == '__main__':
-    # Change to repo root so relative paths work from any CWD
     os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
     print("Fetching RSS feeds...")
-    texts = scrape_feeds()
-    print(f"Total: {len(texts)} articles\n")
+    articles = scrape_feeds()
+    print(f"Total: {len(articles)} articles\n")
 
     print("Computing word frequency...")
-    wc_data = word_frequency(texts)
+    wc_data = word_frequency(articles)
 
     print("Extracting named entities...")
-    ent_data = named_entities(texts)
+    ent_data = named_entities(articles)
     ent_data['updated'] = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
 
     print("\nWriting data files...")

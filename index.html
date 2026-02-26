@@ -398,6 +398,13 @@
             padding: 3px 0;
             font-size: 13px;
             border-bottom: 1px solid rgba(42,31,15,0.08);
+            color: var(--ink);
+            text-decoration: none;
+        }
+        a.entity-row:hover {
+            color: var(--accent);
+            background: var(--aged);
+            padding-left: 4px;
         }
         .entity-count {
             font-family: 'IBM Plex Mono', monospace;
@@ -815,9 +822,14 @@
         const h = Math.round(w * 0.42);
         canvas.width  = w;
         canvas.height = h;
+        canvas.style.cursor = 'pointer';
+
+        // Build url lookup: word → article url (3rd element in each entry)
+        const wordUrls = {};
+        data.forEach(([word, , url]) => { if (url) wordUrls[word.toLowerCase()] = url; });
 
         WordCloud(canvas, {
-            list:         data,
+            list:         data.map(([w, c]) => [w, c]),   // wordcloud2 only needs [word, count]
             gridSize:     Math.round(w / 60),
             weightFactor: weight => Math.pow(weight, 0.55) * (w / 100),
             fontFamily:   "'Playfair Display', Georgia, serif",
@@ -825,13 +837,18 @@
             rotateRatio:  0.2,
             backgroundColor: '#e8e0cc',
             minSize:      10,
+            click: item => {
+                const url = wordUrls[item[0].toLowerCase()]
+                    || `https://news.google.com/search?q=${encodeURIComponent(item[0])}`;
+                window.open(url, '_blank');
+            },
         });
 
         const updated = (window.newsData.entities || {}).updated;
         if (updated) {
             const d = new Date(updated);
             document.getElementById('wc-updated').textContent =
-                'Sources: 15 RSS feeds · Updated ' +
+                'Sources: 15 RSS feeds · Click any word to open its article · Updated ' +
                 d.toLocaleDateString('en-US', {month:'short', day:'numeric'}) + ' at ' +
                 d.toLocaleTimeString('en-US', {hour:'2-digit', minute:'2-digit', timeZoneName:'short'});
         }
@@ -855,11 +872,13 @@
             return `
                 <div class="entity-category">
                     <h3>${label}</h3>
-                    ${items.map(({name, count}) => `
-                        <div class="entity-row">
-                            <span>${name}</span>
-                            <span class="entity-count">${count}</span>
-                        </div>
+                    ${items.map(({name, count, url, source}) => {
+                        const inner = `<span>${name}</span><span class="entity-count">${count}</span>`;
+                        return url
+                            ? `<a class="entity-row" href="${url}" target="_blank" title="${source}">${inner}</a>`
+                            : `<div class="entity-row">${inner}</div>`;
+                    }).join('')}
+                </div>`;
                     `).join('')}
                 </div>`;
         }).join('');
