@@ -1,112 +1,323 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News Sites Dashboard</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet"> 
-    <link rel="stylesheet" type="text/css" href="styletest.css" /> 
-</head>
-
-    
+    <title>Analytics – People's Daily Brief</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='4' fill='%231a1209'/><text x='16' y='23' font-family='Georgia,serif' font-weight='700' font-size='13' fill='%23f5f0e8' text-anchor='middle' letter-spacing='0.5'>PDB</text></svg>">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
+        :root {
+            --ink: #1a1209;
+            --paper: #f5f0e8;
+            --aged: #e8e0cc;
+            --accent: #b5000a;
+            --accent-light: #f0e8e8;
+            --rule: #2a1f0f;
+            --muted: #6b5f4a;
+            --section-bg: #eee8d8;
+        }
+
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f6f9;
+            background-color: var(--paper);
+            color: var(--ink);
+            font-family: 'Source Serif 4', Georgia, serif;
+            font-size: 15px;
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
         }
-        .container {
-            margin-top: 30px;
+
+        /* ── MASTHEAD ── */
+        .masthead {
+            border-bottom: 3px double var(--rule);
+            padding: 0;
+            background: var(--paper);
         }
-        .card {
-            margin-bottom: 30px;
+
+        .masthead-top {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px 24px 8px;
+            border-bottom: 1px solid var(--rule);
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 11px;
+            color: var(--muted);
+            letter-spacing: 0.05em;
         }
-        .chart-container {
-            height: 400px;
+
+        .masthead-dateline { display: flex; gap: 16px; }
+
+        .masthead-title-wrap {
+            text-align: center;
+            padding: 18px 24px 14px;
             position: relative;
         }
+
+        .masthead-rule-top {
+            border: none;
+            border-top: 1px solid var(--rule);
+            margin-bottom: 12px;
+        }
+
+        h1#title {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: clamp(2.4rem, 6vw, 4.2rem);
+            font-weight: 900;
+            letter-spacing: -0.01em;
+            line-height: 1;
+            color: var(--ink);
+        }
+
+        .masthead-sub {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 10px;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: var(--muted);
+            margin-top: 6px;
+        }
+
+        .masthead-rule-bottom {
+            border: none;
+            border-top: 1px solid var(--rule);
+            margin-top: 12px;
+        }
+
+        /* ── NAV ── */
+        nav.main-nav {
+            background: var(--ink);
+            padding: 0 24px;
+            display: flex;
+            align-items: center;
+        }
+
+        .nav-links { display: flex; gap: 0; }
+        .nav-links a {
+            display: block;
+            border-right: 1px solid rgba(255,255,255,0.1);
+            color: var(--paper);
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 11px;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            padding: 12px 20px;
+            text-decoration: none;
+            transition: background 0.15s;
+        }
+        .nav-links a:hover { background: rgba(255,255,255,0.1); }
+        .nav-links a.active { background: rgba(255,255,255,0.15); }
+
+        /* ── PAGE CONTENT ── */
+        .page-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 24px 60px;
+            flex: 1;
+        }
+
+        .page-title {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--ink);
+            margin-bottom: 28px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid var(--accent);
+        }
+
+        /* ── CHART GRID ── */
+        .charts-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 24px;
+        }
+
+        @media (max-width: 768px) {
+            .charts-grid { grid-template-columns: 1fr; }
+        }
+
+        .chart-card {
+            border: 1px solid rgba(42,31,15,0.2);
+            background: var(--paper);
+            overflow: hidden;
+        }
+
+        .chart-card-header {
+            display: flex;
+            align-items: center;
+            padding: 10px 16px;
+            background: var(--ink);
+        }
+
+        .chart-card-header h2 {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 11px;
+            font-weight: 500;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: var(--paper);
+        }
+
+        .chart-card-body {
+            padding: 20px;
+            border-top: 2px solid var(--accent);
+        }
+
+        .chart-container {
+            height: 320px;
+            position: relative;
+        }
+
+        /* ── FOOTER ── */
+        .footer {
+            background: var(--ink);
+            color: var(--paper);
+            padding: 20px 24px;
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 10px;
+            letter-spacing: 0.05em;
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .footer-links {
+            list-style: none;
+            display: flex;
+            gap: 20px;
+        }
+
+        .footer-links a, .social-media a {
+            color: rgba(245,240,232,0.6);
+            text-decoration: none;
+        }
+
+        .footer-links a:hover, .social-media a:hover {
+            color: var(--paper);
+        }
+
+        .social-media { display: flex; gap: 16px; }
     </style>
 </head>
 <body>
 
-<h1 id="title">People's Daily Brief</h1>
-<nav class="bg-white shadow-md">
-    <div class="container mx-auto p-4">
-        <div class="flex space-x-4">
-            <a href="../index.html" class="bg-gray-200 hover:bg-gray-300 px-4 py-2 rounded">Home</a>
-            <a href="References.html" class="bg-gray-200 hover:bg-gray-300 px-4 py-2 rounded">References</a>
-            <a href="about.html" class="bg-gray-200 hover:bg-gray-300 px-4 py-2 rounded">About Us</a>
+<!-- MASTHEAD -->
+<header class="masthead">
+    <div class="masthead-top">
+        <div class="masthead-dateline">
+            <span id="live-date">—</span>
+            <span>EST. 2024</span>
         </div>
+        <span>Aggregated Intelligence for the Informed Reader</span>
+    </div>
+    <div class="masthead-title-wrap">
+        <hr class="masthead-rule-top">
+        <h1 id="title">People's Daily Brief</h1>
+        <p class="masthead-sub">National · International · Wire · Analysis · Science · Technology</p>
+        <hr class="masthead-rule-bottom">
+    </div>
+</header>
+
+<!-- NAV -->
+<nav class="main-nav">
+    <div class="nav-links">
+        <a href="../index.html">Home</a>
+        <a href="Analytics.html" class="active">Analytics</a>
+        <a href="References.html">References</a>
+        <a href="about.html">About</a>
     </div>
 </nav>
 
-<div class="container">
-    <div class="row">
-        <!-- Traffic Overview Card -->
-        <div class="col-md-6">
-            <div class="card">
-                <div class="card-header bg-primary text-white">
-                    Traffic Overview
-                </div>
-                <div class="card-body">
-                    <div class="chart-container">
-                        <canvas id="trafficChart"></canvas>
-                    </div>
+<!-- CONTENT -->
+<div class="page-content">
+    <h2 class="page-title">Analytics</h2>
+    <div class="charts-grid">
+
+        <div class="chart-card">
+            <div class="chart-card-header"><h2>Traffic Overview</h2></div>
+            <div class="chart-card-body">
+                <div class="chart-container">
+                    <canvas id="trafficChart"></canvas>
                 </div>
             </div>
         </div>
 
-        <!-- User Engagement Card -->
-        <div class="col-md-6">
-            <div class="card">
-                <div class="card-header bg-info text-white">
-                    User Engagement
-                </div>
-                <div class="card-body">
-                    <div class="chart-container">
-                        <canvas id="engagementChart"></canvas>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="row">
-        <!-- Article Categories Distribution Card -->
-        <div class="col-md-6">
-            <div class="card">
-                <div class="card-header bg-success text-white">
-                    Article Categories Distribution
-                </div>
-                <div class="card-body">
-                    <div class="chart-container">
-                        <canvas id="categoriesChart"></canvas>
-                    </div>
+        <div class="chart-card">
+            <div class="chart-card-header"><h2>User Engagement</h2></div>
+            <div class="chart-card-body">
+                <div class="chart-container">
+                    <canvas id="engagementChart"></canvas>
                 </div>
             </div>
         </div>
 
-        <!-- News Site Comparison Card -->
-        <div class="col-md-6">
-            <div class="card">
-                <div class="card-header bg-warning text-white">
-                    News Site Comparison
-                </div>
-                <div class="card-body">
-                    <div class="chart-container">
-                        <canvas id="comparisonChart"></canvas>
-                    </div>
+        <div class="chart-card">
+            <div class="chart-card-header"><h2>Article Categories Distribution</h2></div>
+            <div class="chart-card-body">
+                <div class="chart-container">
+                    <canvas id="categoriesChart"></canvas>
                 </div>
             </div>
         </div>
+
+        <div class="chart-card">
+            <div class="chart-card-header"><h2>News Site Comparison</h2></div>
+            <div class="chart-card-body">
+                <div class="chart-container">
+                    <canvas id="comparisonChart"></canvas>
+                </div>
+            </div>
+        </div>
+
     </div>
 </div>
 
+<!-- FOOTER -->
+<footer class="footer">
+    <div class="footer-content">
+        <div class="footer-left">
+            <p>&copy; 2024 People's Daily Brief. All rights reserved.</p>
+        </div>
+        <div class="footer-center">
+            <ul class="footer-links">
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Terms of Service</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+        <div class="footer-right">
+            <div class="social-media">
+                <a href="#">Facebook</a>
+                <a href="#">Twitter</a>
+                <a href="#">Instagram</a>
+            </div>
+        </div>
+    </div>
+</footer>
+
 <script>
+    (function() {
+        const d = new Date();
+        const opts = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+        document.getElementById('live-date').textContent = d.toLocaleDateString('en-US', opts).toUpperCase();
+    })();
+
     // Traffic Overview Chart
-    var ctx1 = document.getElementById('trafficChart').getContext('2d');
-    var trafficChart = new Chart(ctx1, {
+    new Chart(document.getElementById('trafficChart').getContext('2d'), {
         type: 'line',
         data: {
             labels: ['January', 'February', 'March', 'April', 'May', 'June'],
@@ -118,14 +329,11 @@
                 tension: 0.1
             }]
         },
-        options: {
-            responsive: true
-        }
+        options: { responsive: true, maintainAspectRatio: false }
     });
 
     // User Engagement Chart
-    var ctx2 = document.getElementById('engagementChart').getContext('2d');
-    var engagementChart = new Chart(ctx2, {
+    new Chart(document.getElementById('engagementChart').getContext('2d'), {
         type: 'bar',
         data: {
             labels: ['News Site 1', 'News Site 2', 'News Site 3', 'News Site 4'],
@@ -137,14 +345,11 @@
                 borderWidth: 1
             }]
         },
-        options: {
-            responsive: true
-        }
+        options: { responsive: true, maintainAspectRatio: false }
     });
 
-    // Article Categories Distribution (Pie Chart)
-    var ctx3 = document.getElementById('categoriesChart').getContext('2d');
-    var categoriesChart = new Chart(ctx3, {
+    // Article Categories Distribution
+    new Chart(document.getElementById('categoriesChart').getContext('2d'), {
         type: 'pie',
         data: {
             labels: ['Politics', 'Technology', 'Sports', 'Entertainment', 'Health'],
@@ -155,43 +360,37 @@
                 borderWidth: 1
             }]
         },
-        options: {
-            responsive: true
-        }
+        options: { responsive: true, maintainAspectRatio: false }
     });
 
-    // News Site Comparison (Radar Chart)
-    var ctx4 = document.getElementById('comparisonChart').getContext('2d');
-    var comparisonChart = new Chart(ctx4, {
+    // News Site Comparison
+    new Chart(document.getElementById('comparisonChart').getContext('2d'), {
         type: 'radar',
         data: {
             labels: ['Traffic', 'User Engagement', 'Article Quality', 'Design', 'Popularity'],
-            datasets: [{
-                label: 'News Site 1',
-                data: [90, 80, 75, 85, 80],
-                backgroundColor: 'rgba(54, 162, 235, 0.2)',
-                borderColor: 'rgba(54, 162, 235, 1)',
-                borderWidth: 1
-            },
-            {
-                label: 'News Site 2',
-                data: [80, 75, 80, 80, 70],
-                backgroundColor: 'rgba(255, 159, 64, 0.2)',
-                borderColor: 'rgba(255, 159, 64, 1)',
-                borderWidth: 1
-            }]
+            datasets: [
+                {
+                    label: 'News Site 1',
+                    data: [90, 80, 75, 85, 80],
+                    backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                    borderColor: 'rgba(54, 162, 235, 1)',
+                    borderWidth: 1
+                },
+                {
+                    label: 'News Site 2',
+                    data: [80, 75, 80, 80, 70],
+                    backgroundColor: 'rgba(255, 159, 64, 0.2)',
+                    borderColor: 'rgba(255, 159, 64, 1)',
+                    borderWidth: 1
+                }
+            ]
         },
         options: {
             responsive: true,
-            scale: {
-                ticks: {
-                    beginAtZero: true,
-                    max: 100
-                }
-            }
+            maintainAspectRatio: false,
+            scales: { r: { beginAtZero: true, max: 100 } }
         }
     });
 </script>
-
 </body>
 </html>
