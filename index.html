@@ -844,9 +844,9 @@
                 <div class="region-group">
                     <div class="region-label">${region}</div>
                     <div class="region-papers">
-                        ${papers.map(({ name, state, url, class: cls }) => `
+                        ${papers.map(({ name, state, url, class: cls, flag }) => `
                             <form action="${url}" method="get" target="_blank" aria-label="${name}">
-                                <button class="${cls}" type="submit">${faviconImg(url)}${name}${state ? ` <span class="state-tag">(${state})</span>` : ''}</button>
+                                <button class="${cls}" type="submit">${faviconImg(url)}${name}${state ? ` <span class="state-tag">(${state})</span>` : ''}${flag ? ' ' + flag : ''}</button>
                             </form>
                         `).join('')}
                     </div>

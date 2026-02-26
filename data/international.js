@@ -1,33 +1,83 @@
 (window.newsData=window.newsData||{}).International=[
-   { "name": "Guardian",                 "url": "https://www.theguardian.com/uk",                "class": "blue",   "flag": "🇬🇧" },
-   { "name": "BBC",                      "url": "https://www.bbc.com/",                          "class": "grey",   "flag": "🇬🇧" },
-   { "name": "The Independent",          "url": "https://www.independent.co.uk/",                "class": "blue",   "flag": "🇬🇧" },
-   { "name": "Daily Mail",               "url": "https://www.dailymail.co.uk/",                  "class": "red",    "flag": "🇬🇧" },
-   { "name": "Globe and Mail",           "url": "https://www.theglobeandmail.com/",              "class": "grey",   "flag": "🇨🇦" },
-   { "name": "Le Monde",                 "url": "https://www.lemonde.fr/en/",                    "class": "grey",   "flag": "🇫🇷" },
-   { "name": "Spiegel",                  "url": "https://www.spiegel.de/international/germany/","class": "grey",   "flag": "🇩🇪" },
-   { "name": "BILD",                     "url": "https://www.bild.de/",                          "class": "red",    "flag": "🇩🇪" },
-   { "name": "Corriere della Sera",      "url": "https://www.corriere.it/english/",              "class": "grey",   "flag": "🇮🇹" },
-   { "name": "El País",                  "url": "https://english.elpais.com/",                   "class": "blue",   "flag": "🇪🇸" },
-   { "name": "Sydney Morning Herald",    "url": "https://www.smh.com.au/",                       "class": "grey",   "flag": "🇦🇺" },
-   { "name": "Japan Times",              "url": "https://www.japantimes.co.jp/",                 "class": "grey",   "flag": "🇯🇵" },
-   { "name": "South China Morning Post", "url": "https://www.scmp.com/",                         "class": "grey",   "flag": "🇭🇰" },
-   { "name": "China Daily",              "url": "https://www.chinadaily.com.cn/",                "class": "grey",   "flag": "🇨🇳" },
-   { "name": "Times of India",           "url": "https://timesofindia.indiatimes.com/us",        "class": "grey",   "flag": "🇮🇳" },
-   { "name": "Dawn",                     "url": "https://www.dawn.com/",                         "class": "grey",   "flag": "🇵🇰" },
-   { "name": "Al Jazeera",              "url": "https://www.aljazeera.com/",                    "class": "grey",   "flag": "🇶🇦" },
-   { "name": "Jakarta Post",             "url": "https://www.thejakartapost.com/",               "class": "grey",   "flag": "🇮🇩" },
-   { "name": "East African",             "url": "https://www.theeastafrican.co.ke/",             "class": "grey",   "flag": "🇰🇪" },
-   { "name": "Tass",                     "url": "https://tass.com/",                             "class": "red",    "flag": "🇷🇺" },
-   { "name": "Moscow Times",             "url": "https://www.themoscowtimes.com/",               "class": "grey",   "flag": "🇷🇺" },
-   { "name": "RT",                       "url": "https://www.rt.com/",                           "class": "red",    "flag": "🇷🇺" },
-   { "name": "Kyiv Independent",         "url": "https://kyivindependent.com/",                  "class": "grey",   "flag": "🇺🇦" },
-   { "name": "Haaretz",                  "url": "https://www.haaretz.com/",                      "class": "blue",   "flag": "🇮🇱" },
-   { "name": "Jerusalem Post",           "url": "https://www.jpost.com/",                        "class": "red",    "flag": "🇮🇱" },
-   { "name": "The Hindu",                "url": "https://www.thehindu.com/",                     "class": "grey",   "flag": "🇮🇳" },
-   { "name": "Straits Times",            "url": "https://www.straitstimes.com/",                 "class": "grey",   "flag": "🇸🇬" },
-   { "name": "O Globo",                  "url": "https://oglobo.globo.com/",                     "class": "grey",   "flag": "🇧🇷" },
-   { "name": "El Universal",             "url": "https://www.eluniversal.com.mx/english/",       "class": "grey",   "flag": "🇲🇽" },
-   { "name": "Mail & Guardian",          "url": "https://mg.co.za/",                             "class": "grey",   "flag": "🇿🇦" },
-   { "name": "Frankfurter Allgemeine",   "url": "https://www.faz.net/aktuell/",                  "class": "grey",   "flag": "🇩🇪" }
+    {
+        "region": "United Kingdom",
+        "papers": [
+            { "name": "Guardian",            "url": "https://www.theguardian.com/uk",       "class": "blue", "flag": "🇬🇧" },
+            { "name": "BBC",                 "url": "https://www.bbc.com/",                 "class": "grey", "flag": "🇬🇧" },
+            { "name": "The Independent",     "url": "https://www.independent.co.uk/",       "class": "blue", "flag": "🇬🇧" },
+            { "name": "Daily Mail",          "url": "https://www.dailymail.co.uk/",         "class": "red",  "flag": "🇬🇧" }
+        ]
+    },
+    {
+        "region": "Europe",
+        "papers": [
+            { "name": "Le Monde",            "url": "https://www.lemonde.fr/en/",                          "class": "grey", "flag": "🇫🇷" },
+            { "name": "Spiegel",             "url": "https://www.spiegel.de/international/germany/",       "class": "grey", "flag": "🇩🇪" },
+            { "name": "BILD",                "url": "https://www.bild.de/",                                "class": "red",  "flag": "🇩🇪" },
+            { "name": "Frankfurter Allg.",   "url": "https://www.faz.net/aktuell/",                        "class": "grey", "flag": "🇩🇪" },
+            { "name": "Corriere della Sera", "url": "https://www.corriere.it/english/",                    "class": "grey", "flag": "🇮🇹" },
+            { "name": "El País",             "url": "https://english.elpais.com/",                         "class": "blue", "flag": "🇪🇸" }
+        ]
+    },
+    {
+        "region": "Eastern Europe & Russia",
+        "papers": [
+            { "name": "Moscow Times",        "url": "https://www.themoscowtimes.com/",      "class": "grey", "flag": "🇷🇺" },
+            { "name": "Tass",                "url": "https://tass.com/",                    "class": "red",  "flag": "🇷🇺" },
+            { "name": "RT",                  "url": "https://www.rt.com/",                  "class": "red",  "flag": "🇷🇺" },
+            { "name": "Kyiv Independent",    "url": "https://kyivindependent.com/",         "class": "grey", "flag": "🇺🇦" }
+        ]
+    },
+    {
+        "region": "Middle East",
+        "papers": [
+            { "name": "Al Jazeera",          "url": "https://www.aljazeera.com/",           "class": "grey", "flag": "🇶🇦" },
+            { "name": "Haaretz",             "url": "https://www.haaretz.com/",             "class": "blue", "flag": "🇮🇱" },
+            { "name": "Jerusalem Post",      "url": "https://www.jpost.com/",               "class": "red",  "flag": "🇮🇱" }
+        ]
+    },
+    {
+        "region": "South Asia",
+        "papers": [
+            { "name": "Times of India",      "url": "https://timesofindia.indiatimes.com/us", "class": "grey", "flag": "🇮🇳" },
+            { "name": "The Hindu",           "url": "https://www.thehindu.com/",              "class": "grey", "flag": "🇮🇳" },
+            { "name": "Dawn",                "url": "https://www.dawn.com/",                  "class": "grey", "flag": "🇵🇰" }
+        ]
+    },
+    {
+        "region": "East & Southeast Asia",
+        "papers": [
+            { "name": "Japan Times",         "url": "https://www.japantimes.co.jp/",        "class": "grey", "flag": "🇯🇵" },
+            { "name": "S. China Morning Post","url": "https://www.scmp.com/",               "class": "grey", "flag": "🇭🇰" },
+            { "name": "China Daily",         "url": "https://www.chinadaily.com.cn/",       "class": "grey", "flag": "🇨🇳" },
+            { "name": "Straits Times",       "url": "https://www.straitstimes.com/",        "class": "grey", "flag": "🇸🇬" },
+            { "name": "Jakarta Post",        "url": "https://www.thejakartapost.com/",      "class": "grey", "flag": "🇮🇩" }
+        ]
+    },
+    {
+        "region": "Oceania",
+        "papers": [
+            { "name": "Sydney Morning Herald","url": "https://www.smh.com.au/",             "class": "grey", "flag": "🇦🇺" }
+        ]
+    },
+    {
+        "region": "Africa",
+        "papers": [
+            { "name": "East African",        "url": "https://www.theeastafrican.co.ke/",    "class": "grey", "flag": "🇰🇪" },
+            { "name": "Mail & Guardian",     "url": "https://mg.co.za/",                    "class": "grey", "flag": "🇿🇦" }
+        ]
+    },
+    {
+        "region": "North America",
+        "papers": [
+            { "name": "Globe and Mail",      "url": "https://www.theglobeandmail.com/",     "class": "grey", "flag": "🇨🇦" }
+        ]
+    },
+    {
+        "region": "Latin America",
+        "papers": [
+            { "name": "O Globo",             "url": "https://oglobo.globo.com/",            "class": "grey", "flag": "🇧🇷" },
+            { "name": "El Universal",        "url": "https://www.eluniversal.com.mx/english/","class": "grey","flag": "🇲🇽" }
+        ]
+    }
 ];
