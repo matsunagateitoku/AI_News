@@ -5,6 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='4' fill='%231a1209'/><rect x='5' y='5' width='22' height='22' rx='2' fill='%23f5f0e8'/><rect x='8' y='8' width='16' height='2.5' rx='1' fill='%231a1209'/><rect x='8' y='12' width='16' height='1.5' rx='1' fill='%231a1209'/><rect x='8' y='15.5' width='10' height='1.5' rx='1' fill='%231a1209'/><rect x='8' y='19' width='16' height='1.5' rx='1' fill='%231a1209'/><rect x='8' y='22.5' width='12' height='1.5' rx='1' fill='%231a1209'/></svg>">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -69,38 +70,8 @@
             font-size: clamp(2.4rem, 6vw, 4.2rem);
             font-weight: 900;
             letter-spacing: -0.01em;
-            line-height: 1.15;
+            line-height: 1;
             color: var(--ink);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 0.2em;
-            flex-wrap: wrap;
-        }
-
-        /*
-         * Crops the "People" word from img/constitution.jpg.
-         * The image is the 800px-wide Wikimedia scan of Constitution page 1.
-         * Tune these four variables until "People" (and just "People") is visible:
-         *   --cw / --ch  : visible crop width / height in px
-         *   --cx / --cy  : how far right / down into the source image to start
-         */
-        h1#title .constitution-people {
-            --img-scale: 800px;  /* rendered width of the full source image */
-            --cw: 520px;         /* crop window width  — shrink to cut off trailing text */
-            --ch: 105px;         /* crop window height — adjust to fit the script ascenders */
-            --cx: 10px;          /* left offset into source image */
-            --cy: 118px;         /* top  offset into source image */
-
-            display: inline-block;
-            width: var(--cw);
-            height: var(--ch);
-            max-width: 55vw;
-            background-image: url('img/constitution.jpg');
-            background-size: var(--img-scale) auto;
-            background-position: calc(-1 * var(--cx)) calc(-1 * var(--cy));
-            background-repeat: no-repeat;
-            vertical-align: middle;
         }
 
         .masthead-sub {
@@ -398,7 +369,7 @@
     </div>
     <div class="masthead-title-wrap">
         <hr class="masthead-rule-top">
-        <h1 id="title"><span class="constitution-people" title="People's"></span>Daily Brief</h1>
+        <h1 id="title">People's Daily Brief</h1>
         <p class="masthead-sub">National · International · Wire · Analysis · Science · Technology</p>
         <hr class="masthead-rule-bottom">
     </div>
