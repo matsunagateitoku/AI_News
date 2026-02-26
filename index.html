@@ -646,6 +646,17 @@
             </div>
         </div>
 
+        <!-- Foreign Language Press -->
+        <div class="section-block" data-section="foreignLanguage">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Foreign Language Press</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="foreignLanguage"></div>
+            </div>
+        </div>
+
         <!-- Science -->
         <div class="section-block" data-section="Science">
             <div class="section-header" onclick="toggleSection(this.parentElement)">
@@ -788,6 +799,7 @@
 <script src="data/Sports.js"></script>
 <script src="data/think_tanks.js"></script>
 <script src="data/international.js"></script>
+<script src="data/foreign_language.js"></script>
 <script src="data/Science.js"></script>
 <script src="data/Tech.js"></script>
 <script src="data/Propaganda.js"></script>
@@ -955,7 +967,7 @@
         [
             'nationalPapers', 'localPapers', 'wire', 'web',
             'political', 'TV_Radio', 'Magazines', 'Finance',
-            'Sports', 'think_tanks', 'International',
+            'Sports', 'think_tanks', 'International', 'foreignLanguage',
             'Science', 'Technology', 'Propaganda', 'national_security', 'Entertainment',
             'collegePapers', 'substack', 'Legal'
         ].forEach(renderSection);
