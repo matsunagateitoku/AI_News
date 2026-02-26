@@ -355,16 +355,28 @@
             flex-shrink: 0;
         }
 
+        /* ── HEADLINES INTELLIGENCE (word cloud + entities side by side) ── */
+        .headlines-row {
+            display: grid;
+            grid-template-columns: 3fr 2fr;
+            gap: 24px;
+            align-items: start;
+        }
+        @media (max-width: 900px) {
+            .headlines-row { grid-template-columns: 1fr; }
+        }
+
         /* ── WORD CLOUD ── */
         #wordcloud-wrap {
             width: 100%;
-            background: var(--aged);
+            background: var(--ink);
             border-radius: 3px;
             overflow: hidden;
             min-height: 200px;
             display: flex;
             align-items: center;
             justify-content: center;
+            box-shadow: inset 0 0 40px rgba(0,0,0,0.3);
         }
         #wordcloud-canvas { display: block; }
         .wc-meta {
@@ -378,43 +390,45 @@
         /* ── ENTITIES ── */
         .entities-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-            gap: 20px;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
         }
         .entity-category h3 {
             font-family: 'IBM Plex Mono', monospace;
             font-size: 10px;
-            letter-spacing: 0.1em;
+            letter-spacing: 0.12em;
             text-transform: uppercase;
-            color: var(--muted);
-            margin-bottom: 8px;
-            padding-bottom: 4px;
-            border-bottom: 2px solid var(--accent);
+            color: var(--paper);
+            background: var(--ink);
+            margin: 0 0 6px;
+            padding: 4px 8px;
+            display: block;
         }
         .entity-row {
             display: flex;
             justify-content: space-between;
             align-items: baseline;
-            padding: 3px 0;
-            font-size: 13px;
+            padding: 4px 6px;
+            font-size: 12.5px;
             border-bottom: 1px solid rgba(42,31,15,0.08);
             color: var(--ink);
             text-decoration: none;
+            transition: background 0.1s, padding-left 0.1s;
         }
         a.entity-row:hover {
             color: var(--accent);
             background: var(--aged);
-            padding-left: 4px;
+            padding-left: 10px;
         }
         .entity-count {
             font-family: 'IBM Plex Mono', monospace;
-            font-size: 10px;
+            font-size: 9.5px;
             color: var(--muted);
-            background: var(--aged);
-            padding: 1px 5px;
+            background: rgba(42,31,15,0.08);
+            padding: 1px 4px;
             border-radius: 2px;
             flex-shrink: 0;
-            margin-left: 8px;
+            margin-left: 6px;
         }
     </style>
 </head>
@@ -468,29 +482,25 @@
 <div class="sections-wrapper">
     <div class="sections-grid">
 
-        <!-- Word Cloud -->
-        <div class="section-block full-width" data-section="wordcloud">
+        <!-- Headlines Intelligence -->
+        <div class="section-block full-width" data-section="headlines">
             <div class="section-header" onclick="toggleSection(this.parentElement)">
-                <h2>Word Cloud — Today's Headlines</h2>
+                <h2>Today's Headlines Intelligence</h2>
                 <span class="section-toggle">▾</span>
             </div>
             <div class="section-body">
-                <div id="wordcloud-wrap">
-                    <canvas id="wordcloud-canvas"></canvas>
+                <div class="headlines-row">
+                    <div class="headlines-wc">
+                        <div id="wordcloud-wrap">
+                            <canvas id="wordcloud-canvas"></canvas>
+                        </div>
+                        <p class="wc-meta" id="wc-updated"></p>
+                    </div>
+                    <div class="headlines-entities">
+                        <div id="entities-grid" class="entities-grid"></div>
+                        <p class="wc-meta" id="entities-updated"></p>
+                    </div>
                 </div>
-                <p class="wc-meta" id="wc-updated"></p>
-            </div>
-        </div>
-
-        <!-- Top Entities -->
-        <div class="section-block full-width" data-section="entities">
-            <div class="section-header" onclick="toggleSection(this.parentElement)">
-                <h2>Top Entities — Today's Headlines</h2>
-                <span class="section-toggle">▾</span>
-            </div>
-            <div class="section-body">
-                <div id="entities-grid" class="entities-grid"></div>
-                <p class="wc-meta" id="entities-updated"></p>
             </div>
         </div>
 
@@ -829,14 +839,22 @@
         data.forEach(([word, , url]) => { if (url) wordUrls[word.toLowerCase()] = url; });
 
         WordCloud(canvas, {
-            list:         data.map(([w, c]) => [w, c]),   // wordcloud2 only needs [word, count]
-            gridSize:     Math.round(w / 60),
-            weightFactor: weight => Math.pow(weight, 0.55) * (w / 100),
-            fontFamily:   "'Playfair Display', Georgia, serif",
-            color:        (word, weight) => weight > 15 ? '#b5000a' : '#1a1209',
-            rotateRatio:  0.2,
-            backgroundColor: '#e8e0cc',
-            minSize:      10,
+            list:            data.map(([w, c]) => [w, c]),
+            gridSize:        Math.round(w / 55),
+            weightFactor:    weight => Math.pow(weight, 0.6) * (w / 90),
+            fontFamily:      "'Playfair Display', Georgia, serif",
+            fontWeight:      'bold',
+            color:           (word, weight) => {
+                if (weight > 40) return '#ff6b6b';   // coral-red  — very high
+                if (weight > 25) return '#ffd93d';   // gold       — high
+                if (weight > 15) return '#ffffff';   // white      — medium-high
+                if (weight > 8)  return '#a8c8e8';   // pale blue  — medium
+                return '#7a9bb5';                    // muted blue — low
+            },
+            rotateRatio:     0.15,
+            backgroundColor: '#1a1209',
+            minSize:         10,
+            hover:           (item) => { canvas.style.cursor = item ? 'pointer' : 'default'; },
             click: item => {
                 const url = wordUrls[item[0].toLowerCase()]
                     || `https://news.google.com/search?q=${encodeURIComponent(item[0])}`;
