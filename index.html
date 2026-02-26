@@ -360,23 +360,37 @@
             display: grid;
             grid-template-columns: 3fr 2fr;
             gap: 24px;
-            align-items: start;
+            align-items: stretch;
+        }
+        .headlines-wc {
+            display: flex;
+            flex-direction: column;
+        }
+        .headlines-entities {
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+        }
+        .headlines-entities .entities-grid {
+            flex: 1;
         }
         @media (max-width: 900px) {
             .headlines-row { grid-template-columns: 1fr; }
+            .headlines-entities { max-height: 500px; }
         }
 
         /* ── WORD CLOUD ── */
         #wordcloud-wrap {
+            flex: 1;
             width: 100%;
             background: var(--ink);
             border-radius: 3px;
             overflow: hidden;
-            min-height: 200px;
+            min-height: 360px;
             display: flex;
             align-items: center;
             justify-content: center;
-            box-shadow: inset 0 0 40px rgba(0,0,0,0.3);
+            box-shadow: inset 0 0 60px rgba(0,0,0,0.5);
         }
         #wordcloud-canvas { display: block; }
         .wc-meta {
@@ -828,8 +842,8 @@
             return;
         }
 
-        const w = wrap.offsetWidth || 800;
-        const h = Math.round(w * 0.42);
+        const w = wrap.offsetWidth  || 800;
+        const h = wrap.offsetHeight || Math.round(w * 0.65);
         canvas.width  = w;
         canvas.height = h;
         canvas.style.cursor = 'pointer';
@@ -840,8 +854,9 @@
 
         WordCloud(canvas, {
             list:            data.map(([w, c]) => [w, c]),
-            gridSize:        Math.round(w / 55),
-            weightFactor:    weight => Math.pow(weight, 0.6) * (w / 90),
+            shape:           'circle',
+            gridSize:        Math.round(w / 90),          // denser grid → more words fit
+            weightFactor:    weight => Math.pow(weight, 0.5) * (w / 130),  // flatter curve → less size gap
             fontFamily:      "'Playfair Display', Georgia, serif",
             fontWeight:      'bold',
             color:           (word, weight) => {
@@ -851,9 +866,12 @@
                 if (weight > 8)  return '#a8c8e8';   // pale blue  — medium
                 return '#7a9bb5';                    // muted blue — low
             },
-            rotateRatio:     0.15,
+            rotateRatio:     0.45,                        // ~half the words rotate
+            rotationSteps:   2,                           // only 0° and 90° — cleaner
             backgroundColor: '#1a1209',
-            minSize:         10,
+            minSize:         8,
+            shrinkToFit:     true,
+            drawOutOfBound:  false,
             hover:           (item) => { canvas.style.cursor = item ? 'pointer' : 'default'; },
             click: item => {
                 const url = wordUrls[item[0].toLowerCase()]
