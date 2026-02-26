@@ -35,16 +35,6 @@
         "class": "red-national"
     },
     {
-        "name": "Frontpages",
-        "url": "https://www.frontpages.com/?/",
-        "class": "grey"
-    },
-    {
-        "name": "Front Page",
-        "url": "https://www.freedomforum.org/todaysfrontpages/#1",
-        "class": "grey"
-    },
-    {
         "name": "New York Post",
         "url": "https://nypost.com/",
         "class": "red-national"
