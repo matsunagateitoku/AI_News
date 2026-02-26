@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&family=Pinyon+Script&display=swap" rel="stylesheet">
     <style>
         :root {
             --ink: #1a1209;
@@ -69,8 +69,18 @@
             font-size: clamp(2.4rem, 6vw, 4.2rem);
             font-weight: 900;
             letter-spacing: -0.01em;
-            line-height: 1;
+            line-height: 1.15;
             color: var(--ink);
+        }
+
+        h1#title .constitution-word {
+            font-family: 'Pinyon Script', cursive;
+            font-size: 1.45em;
+            font-weight: 400;
+            letter-spacing: 0.01em;
+            display: inline-block;
+            vertical-align: baseline;
+            line-height: 0.85;
         }
 
         .masthead-sub {
@@ -368,7 +378,7 @@
     </div>
     <div class="masthead-title-wrap">
         <hr class="masthead-rule-top">
-        <h1 id="title">People's Daily Brief</h1>
+        <h1 id="title"><span class="constitution-word">People's</span> Daily Brief</h1>
         <p class="masthead-sub">National · International · Wire · Analysis · Science · Technology</p>
         <hr class="masthead-rule-bottom">
     </div>
