@@ -3,27 +3,33 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 60,
-      "url": "https://www.theguardian.com/commentisfree/2026/feb/25/trump-state-of-the-union-address-review",
+      "count": 62,
+      "url": "https://www.theguardian.com/world/live/2026/feb/26/us-iran-nuclear-talks-middle-east-latest-news-updates",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 34,
-      "url": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-nuclear-talks.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Iran",
-      "count": 23,
+      "count": 38,
       "url": "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-strike.html",
       "source": "NY Times"
     },
     {
+      "name": "U.S.",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/02/26/world/asia/merz-china-analysis.html",
+      "source": "NY Times"
+    },
+    {
       "name": "California",
-      "count": 19,
+      "count": 14,
       "url": "https://www.theguardian.com/us-news/2026/feb/25/death-valley-wildflowers-superbloom",
       "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 13,
+      "url": "https://www.washingtonpost.com/immigration/2026/02/25/dhs-shooting-death-grand-jury-texas/",
+      "source": "Washington Post"
     },
     {
       "name": "Cuba",
@@ -32,125 +38,193 @@
       "source": "The Guardian"
     },
     {
-      "name": "Minnesota",
+      "name": "New York",
       "count": 12,
+      "url": "https://www.theguardian.com/music/2026/feb/26/cbgb-club-history-omfug-new-york-city-soundtrack-blondie-bowie-iggy-ramones-patti",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Florida",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/02/26/us/cuba-speedboat-florida-shooting-killed.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ukraine",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/02/26/world/europe/ukraine-russia-kharkiv-air-raid-alarms.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Geneva",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Mexico",
+      "count": 10,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "L.A.",
+      "count": 10,
+      "url": "https://www.latimes.com/lifestyle/story/2026-02-26/coffee-confessionals-comedy-therapy-hollywood",
+      "source": "LA Times"
+    },
+    {
+      "name": "Israel",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Minneapolis",
+      "count": 9,
       "url": "https://www.theguardian.com/us-news/2026/feb/25/jd-vance-minnesota-medicaid",
       "source": "The Guardian"
     },
     {
       "name": "London",
-      "count": 11,
+      "count": 8,
       "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/26/the-secret-life-of-a-waitress-my-nine-nightmare-diners-from-flirts-to-complainers",
       "source": "The Guardian"
-    },
+    }
+  ],
+  "ORG": [
     {
-      "name": "New York",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/feb/25/border-patrol-refugee-buffalo",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mexico",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/02/25/world/americas/el-mencho-tapalpa-jalisco-cartel.html",
+      "name": "Trump",
+      "count": 61,
+      "url": "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-strike.html",
       "source": "NY Times"
     },
     {
-      "name": "Texas",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/immigration/2026/02/25/dhs-shooting-death-grand-jury-texas/",
+      "name": "Ai",
+      "count": 22,
+      "url": "https://www.theguardian.com/technology/2026/feb/26/workers-training-ai-to-do-their-jobs",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fbi",
+      "count": 14,
+      "url": "https://www.washingtonpost.com/nation/2026/02/25/fbi-search-los-angeles-schools/",
       "source": "Washington Post"
     },
     {
-      "name": "America",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/feb/25/trump-state-of-the-union-reaction-democrats-republicans",
+      "name": "Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/thefilter-us/2026/feb/24/best-heated-clothes-dryers-airers",
       "source": "The Guardian"
     },
     {
-      "name": "Ukraine",
+      "name": "Gop",
       "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/feb/25/world-ukraine-vladimir-putin-geopolitical-conflict-donald-trump",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/02/26/us/politics/arkansas-primary-sarah-huckabee-sanders-prison.html",
+      "source": "NY Times"
     },
     {
-      "name": "Florida",
+      "name": "State",
       "count": 8,
-      "url": "https://www.theguardian.com/world/2026/feb/25/cuba-says-border-guards-killed-four-gunmen-on-us-registered-speedboat",
+      "url": "https://www.nytimes.com/2026/02/25/us/politics/hillary-clinton-epstein-deposition.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Guardian",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/feb/26/aliya-rahman-sotu-ilhan-omar",
       "source": "The Guardian"
     },
     {
-      "name": "Los Angeles",
-      "count": 7,
-      "url": "https://www.theguardian.com/environment/2026/feb/25/why-food-justice-isnt-being-served-in-america",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
+      "name": "Senate",
       "count": 6,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "url": "https://www.theguardian.com/us-news/2026/feb/26/trump-news-at-a-glance-latest-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ice",
+      "count": 5,
+      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
       "source": "Wall St. Journal"
+    },
+    {
+      "name": "House",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The State Of The Union",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/feb/26/aliya-rahman-sotu-ilhan-omar",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Harvard",
+      "count": 5,
+      "url": "https://www.npr.org/2026/02/26/g-s1-111619/up-first-newsletter-iran-nuclear-talks-harvard-larry-summers-epstein-cuba-ice-polling-locations",
+      "source": "NPR"
+    },
+    {
+      "name": "House Oversight Committee",
+      "count": 5,
+      "url": "https://www.cbsnews.com/video/hillary-clinton-facing-house-oversight-committee-on-epstein-files/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Congress",
+      "count": 4,
+      "url": "https://www.nytimes.com/2026/02/25/us/politics/trump-elections-midterms.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Fifa",
+      "count": 4,
+      "url": "https://www.theguardian.com/football/2026/feb/26/fifa-world-cup-2026-european-football-associations-prize-money-costs-tax-exemptions",
+      "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Trump",
-      "count": 42,
+      "count": 24,
       "url": "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-strike.html",
       "source": "NY Times"
     },
     {
       "name": "Donald Trump",
-      "count": 17,
+      "count": 18,
       "url": "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/",
       "source": "Washington Post"
     },
     {
       "name": "Jeffrey Epstein",
-      "count": 11,
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/02/25/us/politics/hillary-clinton-epstein-deposition.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Hillary Clinton",
+      "count": 10,
       "url": "https://www.nytimes.com/2026/02/25/us/politics/hillary-clinton-epstein-deposition.html",
       "source": "NY Times"
     },
     {
       "name": "Alberto Carvalho",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/02/25/us/fbi-raid-lausd-alberto-carvalho.html",
-      "source": "NY Times"
+      "count": 6,
+      "url": "https://www.washingtonpost.com/nation/2026/02/25/fbi-search-los-angeles-schools/",
+      "source": "Washington Post"
     },
     {
-      "name": "Vance",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/feb/25/jd-vance-minnesota-medicaid",
-      "source": "The Guardian"
+      "name": "Zohran Mamdani",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/02/26/business/media/zohran-mamdani-nyc-mayor-new-york-post.html",
+      "source": "NY Times"
     },
     {
       "name": "Ilhan Omar",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/feb/25/ilhan-omar-guest-arrested-state-union",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Casey Means",
       "count": 5,
-      "url": "https://www.nytimes.com/2026/02/25/us/politics/surgeon-general-casey-means-senate-hearing.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Larry Summers",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/02/25/us/larry-summers-resignation-harvard-epstein.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Marco Rubio",
-      "count": 4,
-      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Omar",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/feb/25/ilhan-omar-guest-arrested-state-union",
+      "url": "https://www.theguardian.com/us-news/2026/feb/26/aliya-rahman-sotu-ilhan-omar",
       "source": "The Guardian"
     },
     {
@@ -160,16 +234,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Jack Hughes",
+      "name": "Cindy Mccain",
       "count": 4,
-      "url": "https://www.foxnews.com/sports/nj-gov-mikie-sherrill-booed-devils-game-honoring-us-olympic-hockey-hero-jack-hughes",
-      "source": "Fox News"
-    },
-    {
-      "name": "Lai",
-      "count": 3,
-      "url": "https://www.nytimes.com/2025/08/27/world/asia/jimmy-lai-trial-what-to-know.html",
-      "source": "NY Times"
+      "url": "https://www.nbcnews.com/politics/politics-news/cindy-mccain-resign-un-world-food-programme-health-john-mccain-rcna260779",
+      "source": "NBC News"
     },
     {
       "name": "Kim Jong Un",
@@ -178,163 +246,89 @@
       "source": "Wall St. Journal"
     },
     {
-      "name": "Jd Vance",
+      "name": "Marco Rubio",
       "count": 3,
-      "url": "https://www.theguardian.com/us-news/2026/feb/25/jd-vance-minnesota-medicaid",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump",
-      "count": 77,
-      "url": "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-strike.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Fbi",
-      "count": 16,
-      "url": "https://www.washingtonpost.com/nation/2026/02/25/fbi-search-los-angeles-schools/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Senate",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/02/25/us/politics/surgeon-general-casey-means-senate-hearing.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Guardian",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/feb/25/larry-summers-resign-harvard",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 10,
-      "url": "https://www.theguardian.com/games/2026/feb/24/anlife-what-does-an-unusual-evolution-simulator-have-to-say-about-ai",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Filter Us",
-      "count": 10,
-      "url": "https://www.theguardian.com/thefilter-us/2026/feb/24/best-heated-clothes-dryers-airers",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ice",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Medicaid",
-      "count": 8,
+      "name": "Hilary Knight",
+      "count": 3,
+      "url": "https://www.theguardian.com/sport/2026/feb/25/distasteful-joke-us-hockey-star-hilary-knight-responds-to-trump-comments-on-womens-team",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Vance",
+      "count": 3,
       "url": "https://www.theguardian.com/us-news/2026/feb/25/jd-vance-minnesota-medicaid",
       "source": "The Guardian"
     },
     {
-      "name": "Congress",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/02/25/us/politics/trump-elections-midterms.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "House",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/feb/25/us-mens-ice-hockey-team-state-of-the-union-trump",
+      "name": "Wu-Tang Clan",
+      "count": 3,
+      "url": "https://www.theguardian.com/music/2026/feb/26/wu-tang-clan-collaborator-oliver-power-grant-death",
       "source": "The Guardian"
     },
     {
-      "name": "Nbc News",
-      "count": 7,
-      "url": "https://www.foxnews.com/us/authorities-preparing-return-home-nancy-guthrie-back-family",
-      "source": "Fox News"
-    },
-    {
-      "name": "The State Of The Union",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/feb/25/trump-state-of-the-union-address-review",
+      "name": "Lawrence",
+      "count": 3,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/feb/26/scrubs-review-daft-gags-volcanic-fury-medical-sitcom",
       "source": "The Guardian"
-    },
-    {
-      "name": "Bbc",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/feb/25/baftas-bbc-n-word-john-davidson-black-disabled-people",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News",
-      "count": 6,
-      "url": "https://www.cbsnews.com/video/marco-rubio-addresses-cubas-killing-4-florida-registered-boat/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The White House",
-      "count": 5,
-      "url": "https://www.cbsnews.com/news/kelly-pannek-u-s-womens-hockey-state-of-the-union-logistical-challenges/",
-      "source": "CBS News"
     }
   ],
   "EVENT": [
     {
       "name": "World Cup",
-      "count": 9,
-      "url": "https://www.theguardian.com/football/2026/feb/25/usmnt-world-cup-players-mauricio-pochettino",
+      "count": 7,
+      "url": "https://www.theguardian.com/football/2026/feb/26/fifa-world-cup-2026-european-football-associations-prize-money-costs-tax-exemptions",
       "source": "The Guardian"
     },
     {
-      "name": "Olympic",
-      "count": 4,
-      "url": "https://www.foxnews.com/sports/nj-gov-mikie-sherrill-booed-devils-game-honoring-us-olympic-hockey-hero-jack-hughes",
-      "source": "Fox News"
+      "name": "The Winter Olympics",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/feb/25/distasteful-joke-us-hockey-star-hilary-knight-responds-to-trump-comments-on-womens-team",
+      "source": "The Guardian"
     },
     {
-      "name": "The Winter Olympics",
-      "count": 3,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/26/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-236",
+      "name": "The Iraq War",
+      "count": 2,
+      "url": "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The War On Terror",
+      "count": 1,
+      "url": "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Summer Olympics",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/feb/26/norway-winter-olympics-message-for-us-all",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/feb/25/usmnt-world-cup-players-mauricio-pochettino",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/feb/26/fifa-world-cup-2026-european-football-associations-prize-money-costs-tax-exemptions",
       "source": "The Guardian"
     },
     {
-      "name": "Super Bowl",
-      "count": 2,
-      "url": "https://www.latimes.com/california/story/2026-02-19/santa-clara-authorities-target-sex-trafficking-ahead-of-world-cup",
-      "source": "LA Times"
-    },
-    {
-      "name": "The 2006 World Cup",
+      "name": "The 11Th Shebelieves Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/feb/25/usmnt-world-cup-players-mauricio-pochettino",
+      "url": "https://www.theguardian.com/football/2026/feb/26/emma-hayes-uswnt-shebelieves-cup",
       "source": "The Guardian"
     },
     {
-      "name": "The 2002 World Cup",
+      "name": "Demon Days",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/feb/25/usmnt-world-cup-players-mauricio-pochettino",
+      "url": "https://www.theguardian.com/music/2026/feb/26/gorillaz-the-mountain-album-review",
       "source": "The Guardian"
     },
     {
-      "name": "First Super Bowl",
+      "name": "The International Musicians Seminar",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/feb/25/art-manteris-sports-gambling-book",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Chicago Bears",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/feb/25/art-manteris-sports-gambling-book",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The 2026 World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/feb/24/world-cup-host-cities-funding-dhs-shutdown",
+      "url": "https://www.theguardian.com/music/2026/feb/26/steven-isserlis-on-the-formidable-gyorgy-kurtag-at-100",
       "source": "The Guardian"
     },
     {
@@ -344,29 +338,11 @@
       "source": "The Guardian"
     },
     {
-      "name": "A Super Bowl",
+      "name": "Mexico World Cup",
       "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-02-19/santa-clara-authorities-target-sex-trafficking-ahead-of-world-cup",
-      "source": "LA Times"
-    },
-    {
-      "name": "Little League World Series",
-      "count": 1,
-      "url": "https://www.npr.org/2026/02/25/nx-s1-5725385/decades-after-being-blocked-from-the-little-league-world-series-a-black-team-is-honored",
-      "source": "NPR"
-    },
-    {
-      "name": "Us Olympic",
-      "count": 1,
-      "url": "https://www.foxnews.com/sports/nj-gov-mikie-sherrill-booed-devils-game-honoring-us-olympic-hockey-hero-jack-hughes",
+      "url": "https://www.foxnews.com/sports/fifa-president-gianni-infantino-has-full-confidence-mexico-world-cup-games-despite-cartel-violence",
       "source": "Fox News"
-    },
-    {
-      "name": "The Vietnam War",
-      "count": 1,
-      "url": "https://thehill.com/homenews/senate/5755647-wickers-appointment-keane-nds/",
-      "source": "The Hill"
     }
   ],
-  "updated": "2026-02-26T07:54:08Z"
+  "updated": "2026-02-26T14:12:31Z"
 };
