@@ -18,6 +18,26 @@
         "name": "Mcclatchy",
         "url": "https://www.mcclatchydc.com/",
         "class": "grey"
+    },
+    {
+        "name": "AFP",
+        "url": "https://www.afp.com/en/news-hub",
+        "class": "grey"
+    },
+    {
+        "name": "UPI",
+        "url": "https://www.upi.com/",
+        "class": "grey"
+    },
+    {
+        "name": "Kyodo News",
+        "url": "https://english.kyodonews.net/",
+        "class": "grey"
+    },
+    {
+        "name": "Yonhap",
+        "url": "https://en.yna.co.kr/",
+        "class": "grey"
     }
 ]
 ;

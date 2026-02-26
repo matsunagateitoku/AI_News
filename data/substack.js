@@ -22,5 +22,10 @@
   {"name":"Reason","url":"https://reason.com/","class":"red"},
   {"name":"The Dispatch","url":"https://thedispatch.com/","class":"red"},
   {"name":"National Review Online","url":"https://www.nationalreview.com/","class":"red"},
-  {"name":"The Bulwark","url":"https://www.thebulwark.com/","class":"red"}
+  {"name":"The Bulwark","url":"https://www.thebulwark.com/","class":"red"},
+  {"name":"Persuasion","url":"https://www.persuasion.community/","class":"grey"},
+  {"name":"Works in Progress","url":"https://www.worksinprogress.news/","class":"grey"},
+  {"name":"Astral Codex Ten","url":"https://www.astralcodexten.com/","class":"grey"},
+  {"name":"Quillette","url":"https://quillette.com/","class":"red"},
+  {"name":"The Honest Broker","url":"https://www.honest-broker.com/","class":"grey"}
 ];

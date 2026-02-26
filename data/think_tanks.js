@@ -83,6 +83,31 @@
        "name": "Every CRS Report",
        "url": "https://www.everycrsreport.com/",
        "class": "grey"
+   },
+   {
+       "name": "AEI",
+       "url": "https://www.aei.org/",
+       "class": "grey"
+   },
+   {
+       "name": "Hoover Institution",
+       "url": "https://www.hoover.org/",
+       "class": "grey"
+   },
+   {
+       "name": "Manhattan Institute",
+       "url": "https://manhattan.institute/",
+       "class": "grey"
+   },
+   {
+       "name": "Brennan Center",
+       "url": "https://www.brennancenter.org/",
+       "class": "grey"
+   },
+   {
+       "name": "Economic Policy Institute",
+       "url": "https://www.epi.org/",
+       "class": "grey"
    }
 ]
 ;

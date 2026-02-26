@@ -20,5 +20,14 @@
    { "name": "East African",             "url": "https://www.theeastafrican.co.ke/",             "class": "grey",   "flag": "🇰🇪" },
    { "name": "Tass",                     "url": "https://tass.com/",                             "class": "red",    "flag": "🇷🇺" },
    { "name": "Moscow Times",             "url": "https://www.themoscowtimes.com/",               "class": "grey",   "flag": "🇷🇺" },
-   { "name": "RT",                       "url": "https://www.rt.com/",                           "class": "red",    "flag": "🇷🇺" }
+   { "name": "RT",                       "url": "https://www.rt.com/",                           "class": "red",    "flag": "🇷🇺" },
+   { "name": "Kyiv Independent",         "url": "https://kyivindependent.com/",                  "class": "grey",   "flag": "🇺🇦" },
+   { "name": "Haaretz",                  "url": "https://www.haaretz.com/",                      "class": "blue",   "flag": "🇮🇱" },
+   { "name": "Jerusalem Post",           "url": "https://www.jpost.com/",                        "class": "red",    "flag": "🇮🇱" },
+   { "name": "The Hindu",                "url": "https://www.thehindu.com/",                     "class": "grey",   "flag": "🇮🇳" },
+   { "name": "Straits Times",            "url": "https://www.straitstimes.com/",                 "class": "grey",   "flag": "🇸🇬" },
+   { "name": "O Globo",                  "url": "https://oglobo.globo.com/",                     "class": "grey",   "flag": "🇧🇷" },
+   { "name": "El Universal",             "url": "https://www.eluniversal.com.mx/english/",       "class": "grey",   "flag": "🇲🇽" },
+   { "name": "Mail & Guardian",          "url": "https://mg.co.za/",                             "class": "grey",   "flag": "🇿🇦" },
+   { "name": "Frankfurter Allgemeine",   "url": "https://www.faz.net/aktuell/",                  "class": "grey",   "flag": "🇩🇪" }
 ];

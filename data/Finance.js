@@ -33,6 +33,26 @@
        "name": "Barrons",
        "url": "https://www.barrons.com/",
        "class": "grey"
+   },
+   {
+       "name": "MarketWatch",
+       "url": "https://www.marketwatch.com/",
+       "class": "grey"
+   },
+   {
+       "name": "Business Insider",
+       "url": "https://www.businessinsider.com/",
+       "class": "grey"
+   },
+   {
+       "name": "Seeking Alpha",
+       "url": "https://seekingalpha.com/",
+       "class": "grey"
+   },
+   {
+       "name": "Morningstar",
+       "url": "https://www.morningstar.com/news",
+       "class": "grey"
    }
 ]
 ;

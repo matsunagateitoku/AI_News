@@ -43,6 +43,26 @@
         "name": "Front Page",
         "url": "https://www.freedomforum.org/todaysfrontpages/#1",
         "class": "grey"
+    },
+    {
+        "name": "New York Post",
+        "url": "https://nypost.com/",
+        "class": "red-national"
+    },
+    {
+        "name": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/",
+        "class": "grey"
+    },
+    {
+        "name": "Boston Globe",
+        "url": "https://www.bostonglobe.com/",
+        "class": "blue-national"
+    },
+    {
+        "name": "Guardian US",
+        "url": "https://www.theguardian.com/us",
+        "class": "blue-national"
     }
 ]
 

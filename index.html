@@ -687,6 +687,17 @@
             </div>
         </div>
 
+        <!-- Legal -->
+        <div class="section-block" data-section="Legal">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Legal</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="Legal"></div>
+            </div>
+        </div>
+
         <!-- Propaganda -->
         <div class="section-block" data-section="Propaganda">
             <div class="section-header" onclick="toggleSection(this.parentElement)">
@@ -781,6 +792,7 @@
 <script src="data/Entertainment.js"></script>
 <script src="data/college_papers.js"></script>
 <script src="data/substack.js"></script>
+<script src="data/Legal.js"></script>
 <script src="data/wordcloud.js"></script>
 <script src="data/entities.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.js"></script>
@@ -942,7 +954,7 @@
             'political', 'TV_Radio', 'Magazines', 'Finance',
             'Sports', 'think_tanks', 'International',
             'Science', 'Technology', 'Propaganda', 'national_security', 'Entertainment',
-            'collegePapers', 'substack'
+            'collegePapers', 'substack', 'Legal'
         ].forEach(renderSection);
 
         // Render analysis sections

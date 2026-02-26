@@ -113,6 +113,21 @@
        "name": "Guardian",
        "url": "https://www.theguardian.com/science",
        "class": "grey"
+   },
+   {
+       "name": "New Scientist",
+       "url": "https://www.newscientist.com/",
+       "class": "grey"
+   },
+   {
+       "name": "NEJM",
+       "url": "https://www.nejm.org/",
+       "class": "grey"
+   },
+   {
+       "name": "The Lancet",
+       "url": "https://www.thelancet.com/",
+       "class": "grey"
    }
 ]
 ;

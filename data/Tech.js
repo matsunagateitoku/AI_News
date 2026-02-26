@@ -1,47 +1,42 @@
 (window.newsData=window.newsData||{}).Technology=[
    {
-       "name": "Nature",
-       "url": "https://www.nature.com/",
+       "name": "The Verge",
+       "url": "https://www.theverge.com/",
        "class": "grey"
    },
    {
-       "name": "Science",
-       "url": "https://www.science.org/",
+       "name": "Ars Technica",
+       "url": "https://arstechnica.com/",
        "class": "grey"
    },
    {
-       "name": "Science Daily",
-       "url": "https://www.sciencedaily.com/",
-       "class": "grey"
-   },
-   {
-       "name": "JAMA",
-       "url": "https://jamanetwork.com/journals/jama",
-       "class": "grey"
-   },
-   {
-       "name": "National Geographic",
-       "url": "https://www.nationalgeographic.com/magazine",
-       "class": "grey"
-   },
-   {
-       "name": "PC Magazine",
-       "url": "",
-       "class": "grey"
-   },
-   {
-       "name": "PC World",
-       "url": "",
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/",
        "class": "grey"
    },
    {
        "name": "WIRED",
-       "url": "",
+       "url": "https://www.wired.com/",
        "class": "grey"
    },
    {
-       "name": "ZD NET",
-       "url": "",
+       "name": "MIT Tech Review",
+       "url": "https://www.technologyreview.com/",
+       "class": "grey"
+   },
+   {
+       "name": "404 Media",
+       "url": "https://www.404media.co/",
+       "class": "grey"
+   },
+   {
+       "name": "The Information",
+       "url": "https://www.theinformation.com/",
+       "class": "grey"
+   },
+   {
+       "name": "Hacker News",
+       "url": "https://news.ycombinator.com/",
        "class": "grey"
    },
    {
@@ -50,33 +45,18 @@
        "class": "grey"
    },
    {
-       "name": "Vanity Fair",
-       "url": "https://www.vanityfair.com/",
+       "name": "ZDNet",
+       "url": "https://www.zdnet.com/",
        "class": "grey"
    },
    {
-       "name": "Atlas Obscura",
-       "url": "https://www.atlasobscura.com/",
+       "name": "PC Magazine",
+       "url": "https://www.pcmag.com/",
        "class": "grey"
    },
    {
-       "name": "Arstechnica",
-       "url": "https://arstechnica.com/",
-       "class": "grey"
-   },
-   {
-       "name": "BBC Science",
-       "url": "https://www.bbc.com/news/science_and_environment",
-       "class": "grey"
-   },
-   {
-       "name": "Chemistry World",
-       "url": "https://www.chemistryworld.com/",
-       "class": "grey"
-   },
-   {
-       "name": "Futurism",
-       "url": "https://futurism.com/",
+       "name": "PC World",
+       "url": "https://www.pcworld.com/",
        "class": "grey"
    },
    {
@@ -85,33 +65,28 @@
        "class": "grey"
    },
    {
-       "name": "NPR Science",
-       "url": "https://www.npr.org/sections/science/",
+       "name": "Futurism",
+       "url": "https://futurism.com/",
        "class": "grey"
    },
    {
-       "name": "Quanta",
-       "url": "https://www.quantamagazine.org/",
+       "name": "BBC Tech",
+       "url": "https://www.bbc.com/news/technology",
        "class": "grey"
    },
    {
-       "name": "Smithsonian",
-       "url": "https://www.smithsonianmag.com/",
+       "name": "Engadget",
+       "url": "https://www.engadget.com/",
        "class": "grey"
    },
    {
-       "name": "Scientific American",
-       "url": "https://www.scientificamerican.com/",
+       "name": "Tom's Hardware",
+       "url": "https://www.tomshardware.com/",
        "class": "grey"
    },
    {
-       "name": "Space",
-       "url": "https://www.space.com/",
-       "class": "grey"
-   },
-   {
-       "name": "Guardian",
-       "url": "https://www.theguardian.com/science",
+       "name": "Platformer",
+       "url": "https://www.platformer.news/",
        "class": "grey"
    }
 ]
