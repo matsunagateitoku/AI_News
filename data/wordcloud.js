@@ -2,98 +2,93 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "continue",
-    126,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/26/the-secret-life-of-a-waitress-my-nine-nightmare-diners-from-flirts-to-complainers"
+    128,
+    "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives"
   ],
   [
     "reading",
-    123,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/26/the-secret-life-of-a-waitress-my-nine-nightmare-diners-from-flirts-to-complainers"
+    126,
+    "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives"
   ],
   [
     "trump",
-    110,
-    "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-strike.html"
-  ],
-  [
-    "state",
-    61,
-    "https://www.nytimes.com/2026/02/25/us/politics/hillary-clinton-epstein-deposition.html"
+    84,
+    "https://www.nytimes.com/2026/02/26/us/denver-mayor-ice-defiance.html"
   ],
   [
     "president",
+    56,
+    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
+  ],
+  [
+    "state",
     55,
-    "https://www.nytimes.com/2026/02/26/world/middleeast/israel-iran-war.html"
+    "https://www.nytimes.com/2026/02/26/us/texas-school-vouchers-child-care-affordability.html"
   ],
   [
     "which",
-    48,
-    "https://www.nytimes.com/2026/02/26/business/media/zohran-mamdani-nyc-mayor-new-york-post.html"
-  ],
-  [
-    "life",
-    45,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/26/the-secret-life-of-a-waitress-my-nine-nightmare-diners-from-flirts-to-complainers"
-  ],
-  [
-    "best",
-    44,
-    "https://www.theguardian.com/us-news/2026/feb/26/brooklyn-bridge-nyc-cleanup"
-  ],
-  [
-    "epstein",
-    43,
-    "https://www.nytimes.com/2026/02/26/podcasts/the-headlines/epstein-files-cuba-us-boat.html"
-  ],
-  [
-    "world",
-    43,
-    "https://www.nytimes.com/2026/02/26/business/world-economic-forum-davos-epstein-brende.html"
+    52,
+    "https://www.nytimes.com/2026/02/26/nyregion/nypd-snowball-arrest-washington-square.html"
   ],
   [
     "like",
-    40,
+    43,
     "https://www.theguardian.com/world/2026/feb/26/any-other-child-would-have-died-the-miraculous-survival-of-nada-itrab"
   ],
   [
-    "some",
-    38,
-    "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-strike.html"
+    "best",
+    42,
+    "https://www.theguardian.com/us-news/2026/feb/26/brooklyn-bridge-nyc-cleanup"
   ],
   [
-    "iran",
-    36,
-    "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-strike.html"
+    "life",
+    41,
+    "https://www.nytimes.com/2026/02/26/world/americas/caracas-venezuela-economy.html"
   ],
   [
     "home",
-    36,
+    38,
     "https://www.washingtonpost.com/nation/2026/02/25/fbi-search-los-angeles-schools/"
   ],
   [
+    "some",
+    37,
+    "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-nuclear-talks.html"
+  ],
+  [
+    "world",
+    36,
+    "https://www.nytimes.com/2026/02/26/business/world-economic-forum-davos-epstein-brende.html"
+  ],
+  [
+    "city",
+    35,
+    "https://www.nytimes.com/2026/02/26/us/denver-mayor-ice-defiance.html"
+  ],
+  [
     "while",
-    34,
-    "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives"
+    35,
+    "https://www.nytimes.com/2026/02/26/nyregion/nypd-snowball-arrest-washington-square.html"
+  ],
+  [
+    "house",
+    32,
+    "https://www.nytimes.com/2026/02/26/nyregion/mamdani-trump-meeting.html"
   ],
   [
     "work",
     32,
-    "https://www.nytimes.com/2026/02/26/world/europe/ukraine-russia-kharkiv-air-raid-alarms.html"
+    "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump"
   ],
   [
-    "before",
-    31,
-    "https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html"
+    "long",
+    30,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "most",
-    31,
-    "https://www.nytimes.com/2026/02/25/world/middleeast/us-consular-services-israeli-settlements.html"
-  ],
-  [
-    "union",
-    31,
-    "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
+    "iran",
+    29,
+    "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-nuclear-talks.html"
   ],
   [
     "four",
@@ -101,49 +96,89 @@
     "https://www.nytimes.com/2026/02/26/us/cuba-speedboat-florida-shooting-killed.html"
   ],
   [
-    "big",
-    28,
-    "https://www.nytimes.com/2026/02/26/podcasts/the-headlines/epstein-files-cuba-us-boat.html"
-  ],
-  [
-    "many",
-    28,
-    "https://www.nytimes.com/2026/02/26/world/europe/ukraine-russia-kharkiv-air-raid-alarms.html"
-  ],
-  [
-    "city",
-    28,
-    "https://www.nytimes.com/2026/02/26/business/media/zohran-mamdani-nyc-mayor-new-york-post.html"
-  ],
-  [
-    "war",
-    27,
-    "https://www.nytimes.com/2026/02/26/world/middleeast/israel-iran-war.html"
-  ],
-  [
-    "former",
-    27,
-    "https://www.nytimes.com/2026/02/25/us/politics/hillary-clinton-epstein-deposition.html"
-  ],
-  [
-    "long",
-    27,
-    "https://www.nytimes.com/2026/02/26/arts/television/late-night-trump-speech.html"
-  ],
-  [
-    "these",
-    25,
+    "before",
+    29,
     "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives"
   ],
   [
+    "news",
+    29,
+    "https://www.theguardian.com/us-news/2026/feb/26/brooklyn-bridge-nyc-cleanup"
+  ],
+  [
+    "thursday",
+    28,
+    "https://www.nytimes.com/2026/02/26/nyregion/mamdani-trump-meeting.html"
+  ],
+  [
+    "week",
+    28,
+    "https://www.theguardian.com/world/live/2026/feb/26/us-iran-nuclear-talks-middle-east-latest-news-updates"
+  ],
+  [
+    "these",
+    27,
+    "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives"
+  ],
+  [
+    "epstein",
+    26,
+    "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
+  ],
+  [
+    "many",
+    26,
+    "https://www.nytimes.com/2026/02/26/magazine/acl-tear-women-girl-sports.html"
+  ],
+  [
+    "york",
+    26,
+    "https://www.washingtonpost.com/nation/2026/02/24/snowball-fight-nyc-mamdani-police/"
+  ],
+  [
     "film",
+    26,
+    "https://www.theguardian.com/film/2026/feb/26/scream-7-review-neve-campbell"
+  ],
+  [
+    "way",
     25,
-    "https://www.theguardian.com/film/2026/feb/26/film-makers-petition-berlinale-director-tricia-tuttle-award-winners-gaza-comments"
+    "https://www.nytimes.com/2026/02/26/business/st-kitts-nevis-destiny-olivier-janssens-crypto-libertarian.html"
   ],
   [
     "old",
+    25,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "most",
+    25,
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/26/the-secret-life-of-a-waitress-my-nine-nightmare-diners-from-flirts-to-complainers"
+  ],
+  [
+    "right",
+    25,
+    "https://www.theguardian.com/us-news/2026/feb/26/wyoming-republican-lawmakers-checks-house-floor"
+  ],
+  [
+    "university",
     24,
-    "https://www.nytimes.com/2026/02/26/technology/personaltech/ai-complicates-old-internet-privacy-risks.html"
+    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
+  ],
+  [
+    "even",
+    24,
+    "https://www.nytimes.com/2026/02/26/magazine/acl-tear-women-girl-sports.html"
+  ],
+  [
+    "political",
+    24,
+    "https://www.nytimes.com/2026/02/26/us/california-governor-democratic-political-machine.html"
+  ],
+  [
+    "big",
+    24,
+    "https://www.nytimes.com/2026/02/26/world/americas/caracas-venezuela-economy.html"
   ],
   [
     "since",
@@ -151,84 +186,69 @@
     "https://www.nytimes.com/2026/02/26/movies/grease-2-michelle-pfeiffer.html"
   ],
   [
-    "women",
-    24,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "day",
-    24,
-    "https://www.theguardian.com/us-news/2026/feb/26/brooklyn-bridge-nyc-cleanup"
-  ],
-  [
-    "even",
-    23,
-    "https://www.nytimes.com/2026/02/26/magazine/acl-tear-women-girl-sports.html"
-  ],
-  [
-    "school",
-    23,
-    "https://www.washingtonpost.com/nation/2026/02/25/fbi-search-los-angeles-schools/"
-  ],
-  [
-    "other",
-    23,
-    "https://www.theguardian.com/world/2026/feb/26/any-other-child-would-have-died-the-miraculous-survival-of-nada-itrab"
-  ],
-  [
-    "things",
-    23,
-    "https://www.theguardian.com/world/2026/feb/26/any-other-child-would-have-died-the-miraculous-survival-of-nada-itrab"
-  ],
-  [
-    "house",
-    23,
-    "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump"
-  ],
-  [
-    "nbsp",
-    23,
-    "https://www.theguardian.com/music/2026/feb/26/cbgb-club-history-omfug-new-york-city-soundtrack-blondie-bowie-iggy-ramones-patti"
-  ],
-  [
-    "week",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/feb/26/friend-killed-reporting-marie-colvin"
-  ],
-  [
     "sign",
-    22,
+    24,
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "nuclear",
-    21,
-    "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-strike.html"
+    "found",
+    23,
+    "https://www.nytimes.com/2026/02/26/business/jeffrey-epstein-joichi-ito-japan.html"
   ],
   [
-    "part",
-    21,
-    "https://www.nytimes.com/2026/02/25/us/politics/patel-fbi-firings-trump-classified-records.html"
+    "war",
+    23,
+    "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-nuclear-talks.html"
   ],
   [
-    "donald",
+    "between",
+    22,
+    "https://www.nytimes.com/2026/02/26/world/middleeast/israel-iran-war.html"
+  ],
+  [
+    "california",
+    22,
+    "https://www.nytimes.com/2026/02/26/us/california-governor-democratic-political-machine.html"
+  ],
+  [
+    "things",
+    22,
+    "https://www.theguardian.com/world/2026/feb/26/any-other-child-would-have-died-the-miraculous-survival-of-nada-itrab"
+  ],
+  [
+    "winter",
+    22,
+    "https://www.theguardian.com/sport/2026/feb/26/brady-tkachuk-decries-white-houses-ai-video-of-him-insulting-canadians-after-us-gold"
+  ],
+  [
+    "tech",
     21,
-    "https://www.nytimes.com/2026/02/25/us/politics/trump-epstein-files.html"
+    "https://www.nytimes.com/2026/02/26/business/jeffrey-epstein-joichi-ito-japan.html"
+  ],
+  [
+    "former",
+    21,
+    "https://www.nytimes.com/2026/02/26/business/world-economic-forum-davos-epstein-brende.html"
   ],
   [
     "him",
     21,
-    "https://www.washingtonpost.com/lifestyle/2026/02/26/doctor-adopts-patient-child-nebraska/"
+    "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-nuclear-talks.html"
   ],
   [
-    "news",
+    "other",
     21,
-    "https://www.theguardian.com/us-news/2026/feb/26/brooklyn-bridge-nyc-cleanup"
+    "https://www.nytimes.com/2026/02/26/nyregion/nypd-snowball-arrest-washington-square.html"
   ],
   [
-    "way",
+    "three",
     21,
-    "https://www.theguardian.com/lifeandstyle/2026/feb/26/you-be-the-judge-way-partner-loads-dishwasher"
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "next",
+    21,
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/26/the-secret-life-of-a-waitress-my-nine-nightmare-diners-from-flirts-to-complainers"
   ],
   [
     "star",
@@ -236,184 +256,169 @@
     "https://www.theguardian.com/film/2026/feb/26/donald-trump-renews-attack-on-robert-de-niro"
   ],
   [
-    "officials",
+    "school",
     20,
-    "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-strike.html"
+    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
   ],
   [
-    "family",
+    "white",
     20,
-    "https://www.nytimes.com/2026/02/26/health/obamacare-health-insurance-rollbacks.html"
+    "https://www.nytimes.com/2026/02/26/nyregion/mamdani-trump-meeting.html"
   ],
   [
-    "political",
+    "day",
     20,
-    "https://www.nytimes.com/2026/02/26/business/media/zohran-mamdani-nyc-mayor-new-york-post.html"
+    "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-nuclear-talks.html"
   ],
   [
-    "under",
-    20,
-    "https://www.nytimes.com/2026/02/25/us/politics/hillary-clinton-epstein-deposition.html"
-  ],
-  [
-    "democrats",
-    20,
-    "https://www.nytimes.com/2026/02/26/opinion/trump-state-union-carterls-mexico.html"
-  ],
-  [
-    "winter",
-    20,
-    "https://www.theguardian.com/sport/2026/feb/25/distasteful-joke-us-hockey-star-hilary-knight-responds-to-trump-comments-on-womens-team"
-  ],
-  [
-    "military",
+    "part",
     19,
-    "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-strike.html"
+    "https://www.nytimes.com/2026/02/26/us/politics/supreme-court-deportation-syrians.html"
   ],
   [
-    "between",
+    "nuclear",
     19,
-    "https://www.nytimes.com/2026/02/26/world/middleeast/israel-iran-war.html"
-  ],
-  [
-    "died",
-    19,
-    "https://www.nytimes.com/2026/02/26/us/cuba-speedboat-florida-shooting-killed.html"
-  ],
-  [
-    "york",
-    19,
-    "https://www.nytimes.com/2026/02/26/business/media/zohran-mamdani-nyc-mayor-new-york-post.html"
-  ],
-  [
-    "man",
-    18,
-    "https://www.nytimes.com/2026/02/26/business/media/zohran-mamdani-nyc-mayor-new-york-post.html"
-  ],
-  [
-    "address",
-    18,
-    "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
-  ],
-  [
-    "top",
-    18,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "team",
-    18,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "any",
-    18,
-    "https://www.theguardian.com/world/2026/feb/26/any-other-child-would-have-died-the-miraculous-survival-of-nada-itrab"
-  ],
-  [
-    "power",
-    17,
-    "https://www.nytimes.com/2026/02/25/us/politics/trump-elections-midterms.html"
-  ],
-  [
-    "talks",
-    17,
-    "https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html"
-  ],
-  [
-    "set",
-    17,
-    "https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html"
-  ],
-  [
-    "district",
-    17,
-    "https://www.washingtonpost.com/nation/2026/02/25/fbi-search-los-angeles-schools/"
-  ],
-  [
-    "investigation",
-    17,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
-  ],
-  [
-    "next",
-    17,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/26/the-secret-life-of-a-waitress-my-nine-nightmare-diners-from-flirts-to-complainers"
-  ],
-  [
-    "tech",
-    17,
-    "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives"
+    "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-nuclear-talks.html"
   ],
   [
     "being",
-    17,
-    "https://www.theguardian.com/lifeandstyle/2026/feb/26/you-be-the-judge-way-partner-loads-dishwasher"
+    19,
+    "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html"
   ],
   [
-    "democratic",
-    17,
-    "https://www.theguardian.com/us-news/2026/feb/26/democrats-bar-ice-employees-civil-service-jobs"
-  ],
-  [
-    "killed",
-    17,
-    "https://www.theguardian.com/world/2026/feb/25/cuba-says-border-guards-killed-four-gunmen-on-us-registered-speedboat"
-  ],
-  [
-    "need",
-    17,
-    "https://www.theguardian.com/science/2026/feb/26/new-glp1-pill-patients-lose-weight-trial"
-  ],
-  [
-    "water",
-    17,
-    "https://www.theguardian.com/environment/2026/feb/26/wave-riders-surf-tourism-save-peru-ancient-reed-boat-fishing-culture"
-  ],
-  [
-    "food",
-    17,
-    "https://www.theguardian.com/environment/2026/feb/25/why-food-justice-isnt-being-served-in-america"
-  ],
-  [
-    "better",
-    17,
-    "https://www.theguardian.com/environment/2026/feb/25/why-food-justice-isnt-being-served-in-america"
-  ],
-  [
-    "republicans",
-    16,
-    "https://www.nytimes.com/2026/02/25/us/politics/trump-elections-midterms.html"
-  ],
-  [
-    "think",
-    16,
-    "https://www.nytimes.com/2026/02/26/technology/personaltech/ai-complicates-old-internet-privacy-risks.html"
-  ],
-  [
-    "right",
-    16,
-    "https://www.nytimes.com/2026/02/25/world/middleeast/us-consular-services-israeli-settlements.html"
-  ],
-  [
-    "country",
-    16,
-    "https://www.washingtonpost.com/immigration/2026/02/25/federal-judge-migrants-deportations-trump-ruling/"
-  ],
-  [
-    "texas",
-    16,
+    "department",
+    19,
     "https://www.washingtonpost.com/immigration/2026/02/25/dhs-shooting-death-grand-jury-texas/"
   ],
   [
-    "much",
-    16,
-    "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
+    "federal",
+    18,
+    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
   ],
   [
-    "months",
+    "ice",
+    18,
+    "https://www.nytimes.com/2026/02/26/us/denver-mayor-ice-defiance.html"
+  ],
+  [
+    "democrats",
+    18,
+    "https://www.nytimes.com/2026/02/26/us/california-governor-democratic-political-machine.html"
+  ],
+  [
+    "texas",
+    18,
+    "https://www.nytimes.com/2026/02/26/us/politics/crenshaw-texas-republicans-maga-trump-primary.html"
+  ],
+  [
+    "women",
+    18,
+    "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html"
+  ],
+  [
+    "social",
+    18,
+    "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives"
+  ],
+  [
+    "newsletter",
+    18,
+    "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump"
+  ],
+  [
+    "show",
+    18,
+    "https://www.theguardian.com/us-news/2026/feb/26/daniel-siad-model-scout-jeffrey-epstein-emails"
+  ],
+  [
+    "actor",
+    18,
+    "https://www.theguardian.com/film/2026/feb/26/scream-7-review-neve-campbell"
+  ],
+  [
+    "quot",
+    18,
+    "https://www.foxnews.com/politics/gop-bill-seeks-block-illegal-immigrants-being-armed-law-enforcement"
+  ],
+  [
+    "top",
+    17,
+    "https://www.nytimes.com/2026/02/26/business/jeffrey-epstein-joichi-ito-japan.html"
+  ],
+  [
+    "officials",
+    17,
+    "https://www.nytimes.com/2026/02/26/business/jeffrey-epstein-joichi-ito-japan.html"
+  ],
+  [
+    "agents",
+    17,
+    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
+  ],
+  [
+    "inside",
+    17,
+    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
+  ],
+  [
+    "columbia",
+    17,
+    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
+  ],
+  [
+    "mayor",
+    17,
+    "https://www.nytimes.com/2026/02/26/us/denver-mayor-ice-defiance.html"
+  ],
+  [
+    "end",
+    17,
+    "https://www.nytimes.com/2026/02/26/us/politics/supreme-court-deportation-syrians.html"
+  ],
+  [
+    "family",
+    17,
+    "https://www.nytimes.com/2026/02/26/health/obamacare-health-insurance-rollbacks.html"
+  ],
+  [
+    "any",
+    17,
+    "https://www.theguardian.com/world/2026/feb/26/any-other-child-would-have-died-the-miraculous-survival-of-nada-itrab"
+  ],
+  [
+    "well",
+    17,
+    "https://www.theguardian.com/world/2026/feb/26/any-other-child-would-have-died-the-miraculous-survival-of-nada-itrab"
+  ],
+  [
+    "season",
+    17,
+    "https://www.theguardian.com/sport/2026/feb/26/chicago-bears-hammond-indiana-stadium-soldier-field-move"
+  ],
+  [
+    "during",
     16,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/02/26/us/denver-mayor-ice-defiance.html"
+  ],
+  [
+    "administration",
+    16,
+    "https://www.nytimes.com/2026/02/26/us/politics/supreme-court-deportation-syrians.html"
+  ],
+  [
+    "health",
+    16,
+    "https://www.nytimes.com/2026/02/26/health/obamacare-health-insurance-rollbacks.html"
+  ],
+  [
+    "police",
+    16,
+    "https://www.nytimes.com/2026/02/26/nyregion/nypd-snowball-arrest-washington-square.html"
+  ],
+  [
+    "union",
+    16,
+    "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
   ],
   [
     "making",
@@ -423,252 +428,312 @@
   [
     "something",
     16,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/26/the-secret-life-of-a-waitress-my-nine-nightmare-diners-from-flirts-to-complainers"
+    "https://www.theguardian.com/us-news/2026/feb/26/brooklyn-bridge-nyc-cleanup"
   ],
   [
-    "social",
+    "meeting",
     16,
+    "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump"
+  ],
+  [
+    "down",
+    16,
+    "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump"
+  ],
+  [
+    "far",
+    16,
+    "https://www.theguardian.com/us-news/2026/feb/26/wyoming-republican-lawmakers-checks-house-floor"
+  ],
+  [
+    "activist",
+    16,
+    "https://www.theguardian.com/us-news/2026/feb/26/wyoming-republican-lawmakers-checks-house-floor"
+  ],
+  [
+    "democratic",
+    16,
+    "https://www.theguardian.com/us-news/2026/feb/26/wyoming-republican-lawmakers-checks-house-floor"
+  ],
+  [
+    "good",
+    16,
+    "https://www.theguardian.com/film/2026/feb/26/george-takei-ive-spent-two-minutes-longer-in-zero-gravity-than-shatner"
+  ],
+  [
+    "better",
+    16,
+    "https://www.theguardian.com/football/2026/feb/26/eric-ramsay-wilfried-nancy-mls-managers-west-brom-celtic"
+  ],
+  [
+    "water",
+    16,
+    "https://www.theguardian.com/environment/2026/feb/26/wave-riders-surf-tourism-save-peru-ancient-reed-boat-fishing-culture"
+  ],
+  [
+    "ties",
+    15,
+    "https://www.nytimes.com/2026/02/26/business/world-economic-forum-davos-epstein-brende.html"
+  ],
+  [
+    "group",
+    15,
+    "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html"
+  ],
+  [
+    "help",
+    15,
+    "https://www.nytimes.com/2026/02/26/us/texas-school-vouchers-child-care-affordability.html"
+  ],
+  [
+    "ever",
+    15,
+    "https://www.nytimes.com/2026/02/26/opinion/trump-state-union-carterls-mexico.html"
+  ],
+  [
+    "think",
+    15,
+    "https://www.washingtonpost.com/lifestyle/2026/02/26/doctor-adopts-patient-child-nebraska/"
+  ],
+  [
+    "become",
+    15,
+    "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
+  ],
+  [
+    "military",
+    15,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "months",
+    15,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "media",
+    15,
     "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives"
   ],
   [
-    "moment",
+    "dead",
     15,
-    "https://www.nytimes.com/2026/02/25/us/politics/trump-elections-midterms.html"
-  ],
-  [
-    "health",
-    15,
-    "https://www.nytimes.com/2026/02/26/health/obamacare-health-insurance-rollbacks.html"
+    "https://www.theguardian.com/culture/2026/feb/26/lily-allens-best-songs-ranked"
   ],
   [
     "those",
     15,
-    "https://www.nytimes.com/2026/02/25/us/politics/patel-fbi-firings-trump-classified-records.html"
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/26/the-secret-life-of-a-waitress-my-nine-nightmare-diners-from-flirts-to-complainers"
   ],
   [
-    "speedboat",
-    15,
-    "https://www.nytimes.com/2026/02/26/us/cuba-speedboat-florida-shooting-killed.html"
-  ],
-  [
-    "second",
-    15,
-    "https://www.washingtonpost.com/nation/2026/02/25/fbi-search-los-angeles-schools/"
-  ],
-  [
-    "police",
-    15,
-    "https://www.washingtonpost.com/nation/2026/02/24/snowball-fight-nyc-mamdani-police/"
-  ],
-  [
-    "real",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "days",
-    15,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "head",
-    15,
-    "https://www.theguardian.com/technology/2026/feb/26/workers-training-ai-to-do-their-jobs"
-  ],
-  [
-    "newsletter",
+    "clinton",
     15,
     "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump"
   ],
   [
-    "men",
+    "don",
     15,
-    "https://www.theguardian.com/sport/2026/feb/25/distasteful-joke-us-hockey-star-hilary-knight-responds-to-trump-comments-on-womens-team"
+    "https://www.theguardian.com/lifeandstyle/2026/feb/26/how-to-stop-picking-pimples"
   ],
   [
-    "living",
+    "away",
     15,
-    "https://www.theguardian.com/world/video/2026/feb/26/israel-is-promised-only-to-the-jewish-people-in-search-of-palestine-episode-2-video"
+    "https://www.theguardian.com/football/2026/feb/26/nwsl-kit-reviews-2026"
   ],
   [
-    "such",
+    "need",
     15,
-    "https://www.theguardian.com/tv-and-radio/2026/feb/26/perfect-for-an-apocalypse-how-the-nuclear-bunker-became-tvs-hottest-property"
+    "https://www.theguardian.com/science/2026/feb/26/new-glp1-pill-patients-lose-weight-trial"
   ],
   [
-    "california",
-    15,
-    "https://www.theguardian.com/us-news/2026/feb/25/death-valley-wildflowers-superbloom"
-  ],
-  [
-    "ukraine",
+    "latest",
     14,
-    "https://www.nytimes.com/2026/02/26/world/europe/ukraine-russia-kharkiv-air-raid-alarms.html"
+    "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
   ],
   [
-    "american",
+    "under",
     14,
-    "https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html"
+    "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
   ],
   [
-    "including",
+    "student",
     14,
-    "https://www.nytimes.com/2026/02/26/technology/chatbots-duty-warn-police.html"
+    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
   ],
   [
-    "few",
+    "mamdani",
     14,
-    "https://www.nytimes.com/2026/02/26/magazine/acl-tear-women-girl-sports.html"
+    "https://www.nytimes.com/2026/02/26/nyregion/mamdani-trump-meeting.html"
   ],
   [
-    "ever",
+    "set",
     14,
-    "https://www.nytimes.com/2026/02/26/opinion/trump-state-union-carterls-mexico.html"
+    "https://www.nytimes.com/2026/02/26/nyregion/mamdani-trump-meeting.html"
   ],
   [
-    "ice",
+    "talks",
     14,
-    "https://www.nytimes.com/2026/02/26/climate/antarcticas-mineral-riches-exposed-as-climate-warms.html"
+    "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-nuclear-talks.html"
   ],
   [
-    "move",
+    "another",
     14,
-    "https://www.nytimes.com/2026/02/25/world/middleeast/us-consular-services-israeli-settlements.html"
+    "https://www.nytimes.com/2026/02/26/world/middleeast/israel-iran-war.html"
   ],
   [
-    "step",
+    "experts",
     14,
-    "https://www.nytimes.com/2026/02/25/world/middleeast/us-consular-services-israeli-settlements.html"
+    "https://www.nytimes.com/2026/02/26/us/ai-videos-children-youtube.html"
   ],
   [
-    "death",
+    "gaza",
     14,
-    "https://www.washingtonpost.com/immigration/2026/02/25/dhs-shooting-death-grand-jury-texas/"
+    "https://www.nytimes.com/2026/02/26/world/middleeast/israeli-agent-smuggling-gaza.html"
   ],
   [
-    "fbi",
+    "security",
     14,
-    "https://www.washingtonpost.com/nation/2026/02/25/fbi-search-los-angeles-schools/"
+    "https://www.nytimes.com/2026/02/26/world/middleeast/israeli-agent-smuggling-gaza.html"
   ],
   [
-    "deal",
+    "country",
     14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.washingtonpost.com/immigration/2026/02/25/federal-judge-migrants-deportations-trump-ruling/"
   ],
   [
-    "across",
+    "donald",
     14,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/26/the-secret-life-of-a-waitress-my-nine-nightmare-diners-from-flirts-to-complainers"
+    "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
   ],
   [
-    "behind",
+    "public",
+    14,
+    "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
+  ],
+  [
+    "days",
+    14,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "high",
     14,
     "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives"
   ],
   [
-    "company",
+    "review",
     14,
-    "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump"
+    "https://www.theguardian.com/film/2026/feb/26/scream-7-review-neve-campbell"
   ],
   [
-    "music",
+    "energy",
     14,
-    "https://www.theguardian.com/music/2026/feb/26/cbgb-club-history-omfug-new-york-city-soundtrack-blondie-bowie-iggy-ramones-patti"
+    "https://www.theguardian.com/film/2026/feb/26/scream-7-review-neve-campbell"
   ],
   [
-    "away",
+    "league",
     14,
-    "https://www.theguardian.com/environment/2026/feb/26/wave-riders-surf-tourism-save-peru-ancient-reed-boat-fishing-culture"
+    "https://www.theguardian.com/sport/2026/feb/26/chicago-bears-hammond-indiana-stadium-soldier-field-move"
   ],
   [
-    "another",
-    13,
-    "https://www.nytimes.com/2026/02/26/world/middleeast/israel-iran-war.html"
+    "buying",
+    14,
+    "https://www.theguardian.com/us-news/2026/feb/26/mortgage-rate-falls"
   ],
   [
-    "files",
+    "led",
     13,
-    "https://www.nytimes.com/2026/02/26/podcasts/the-headlines/epstein-files-cuba-us-boat.html"
-  ],
-  [
-    "americans",
-    13,
-    "https://www.nytimes.com/2026/02/25/us/politics/trump-elections-midterms.html"
-  ],
-  [
-    "federal",
-    13,
-    "https://www.nytimes.com/2026/02/25/us/politics/patel-fbi-firings-trump-classified-records.html"
-  ],
-  [
-    "clinton",
-    13,
-    "https://www.nytimes.com/2026/02/25/us/politics/hillary-clinton-epstein-deposition.html"
-  ],
-  [
-    "jeffrey",
-    13,
-    "https://www.nytimes.com/2026/02/25/us/politics/hillary-clinton-epstein-deposition.html"
-  ],
-  [
-    "show",
-    13,
-    "https://www.nytimes.com/2026/02/26/nyregion/bright-horizons-nyc-child-care.html"
-  ],
-  [
-    "found",
-    13,
-    "https://www.nytimes.com/2026/02/26/nyregion/bright-horizons-nyc-child-care.html"
-  ],
-  [
-    "become",
-    13,
-    "https://www.nytimes.com/2026/02/26/world/asia/australia-bondi-one-nation-immigration.html"
-  ],
-  [
-    "following",
-    13,
-    "https://www.nytimes.com/2026/02/26/movies/grease-2-michelle-pfeiffer.html"
-  ],
-  [
-    "didn",
-    13,
-    "https://www.nytimes.com/2026/02/26/business/dealbook/nvidia-ai-markets.html"
+    "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
   ],
   [
     "government",
     13,
-    "https://www.washingtonpost.com/immigration/2026/02/25/federal-judge-migrants-deportations-trump-ruling/"
+    "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
   ],
   [
-    "fire",
+    "meet",
     13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/02/26/nyregion/mamdani-trump-meeting.html"
   ],
   [
-    "well",
+    "trip",
     13,
-    "https://www.theguardian.com/world/2026/feb/26/any-other-child-would-have-died-the-miraculous-survival-of-nada-itrab"
+    "https://www.nytimes.com/2026/02/26/nyregion/mamdani-trump-meeting.html"
   ],
   [
-    "high",
+    "feel",
     13,
-    "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives"
+    "https://www.nytimes.com/2026/02/26/world/middleeast/israel-iran-war.html"
   ],
   [
-    "during",
+    "nine",
     13,
-    "https://www.theguardian.com/us-news/2026/feb/25/trump-midterm-elections-voting-influence"
+    "https://www.nytimes.com/2026/02/26/us/california-governor-democratic-political-machine.html"
   ],
   [
-    "money",
+    "called",
     13,
-    "https://www.theguardian.com/football/2026/feb/26/fifa-world-cup-2026-european-football-associations-prize-money-costs-tax-exemptions"
+    "https://www.nytimes.com/2026/02/26/nyregion/nypd-snowball-arrest-washington-square.html"
   ],
   [
-    "actor",
+    "often",
     13,
-    "https://www.theguardian.com/music/2026/feb/23/willie-colon-was-an-explosive-energy-source-who-took-salsa-into-the-stratosphere"
+    "https://www.nytimes.com/2026/02/26/us/ai-videos-children-youtube.html"
+  ],
+  [
+    "death",
+    13,
+    "https://www.washingtonpost.com/immigration/2026/02/25/dhs-shooting-death-grand-jury-texas/"
+  ],
+  [
+    "second",
+    13,
+    "https://www.washingtonpost.com/nation/2026/02/25/fbi-search-los-angeles-schools/"
+  ],
+  [
+    "including",
+    13,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "hair",
+    13,
+    "https://www.theguardian.com/us-news/2026/feb/26/brooklyn-bridge-nyc-cleanup"
+  ],
+  [
+    "find",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/feb/26/you-be-the-judge-way-partner-loads-dishwasher"
+  ],
+  [
+    "politics",
+    13,
+    "https://www.theguardian.com/us-news/2026/feb/26/wyoming-republican-lawmakers-checks-house-floor"
+  ],
+  [
+    "case",
+    13,
+    "https://www.theguardian.com/us-news/2026/feb/26/singer-d4vd-teen-death-investigation-los-angeles"
+  ],
+  [
+    "such",
+    13,
+    "https://www.theguardian.com/us-news/2026/feb/26/singer-d4vd-teen-death-investigation-los-angeles"
+  ],
+  [
+    "around",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/feb/26/how-to-stop-picking-pimples"
+  ],
+  [
+    "look",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/feb/26/how-to-stop-picking-pimples"
+  ],
+  [
+    "nbsp",
+    13,
+    "https://www.theguardian.com/music/2026/feb/26/cbgb-club-history-omfug-new-york-city-soundtrack-blondie-bowie-iggy-ramones-patti"
   ],
   [
     "fashion",
@@ -676,78 +741,13 @@
     "https://www.theguardian.com/fashion/2026/feb/25/fast-breaking-fashion-ramadan-becomes-part-of-london-fashion-week"
   ],
   [
-    "feel",
-    12,
-    "https://www.nytimes.com/2026/02/26/world/middleeast/israel-iran-war.html"
+    "apos",
+    13,
+    "https://www.foxnews.com/politics/vance-says-america-cannot-give-power-back-congressional-democrats-following-behavior-sotu"
   ],
   [
-    "battle",
+    "jeffrey",
     12,
-    "https://www.nytimes.com/2026/02/26/podcasts/the-headlines/epstein-files-cuba-us-boat.html"
-  ],
-  [
-    "cuba",
-    12,
-    "https://www.nytimes.com/2026/02/26/podcasts/the-headlines/epstein-files-cuba-us-boat.html"
-  ],
-  [
-    "florida",
-    12,
-    "https://www.nytimes.com/2026/02/26/us/cuba-speedboat-florida-shooting-killed.html"
-  ],
-  [
-    "cuban",
-    12,
-    "https://www.nytimes.com/2026/02/26/us/cuba-speedboat-florida-shooting-killed.html"
-  ],
-  [
-    "look",
-    12,
-    "https://www.nytimes.com/2026/02/26/world/europe/ukraine-russia-kharkiv-air-raid-alarms.html"
-  ],
-  [
-    "pressure",
-    12,
-    "https://www.nytimes.com/2026/02/26/world/europe/ukraine-russia-kharkiv-air-raid-alarms.html"
-  ],
-  [
-    "secretary",
-    12,
-    "https://www.nytimes.com/2026/02/25/us/politics/hillary-clinton-epstein-deposition.html"
-  ],
-  [
-    "ties",
-    12,
-    "https://www.nytimes.com/2026/02/26/business/world-economic-forum-davos-epstein-brende.html"
-  ],
-  [
-    "play",
-    12,
-    "https://www.nytimes.com/2026/02/26/world/asia/merz-china-analysis.html"
-  ],
-  [
-    "today",
-    12,
-    "https://www.nytimes.com/2026/02/26/briefing/the-economy-is-a-feeling.html"
-  ],
-  [
-    "left",
-    12,
-    "https://www.nytimes.com/2026/02/25/world/middleeast/us-consular-services-israeli-settlements.html"
-  ],
-  [
-    "third",
-    12,
-    "https://www.washingtonpost.com/immigration/2026/02/25/federal-judge-migrants-deportations-trump-ruling/"
-  ],
-  [
-    "south",
-    12,
-    "https://www.washingtonpost.com/immigration/2026/02/25/dhs-shooting-death-grand-jury-texas/"
-  ],
-  [
-    "led",
-    12,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/02/26/business/jeffrey-epstein-joichi-ito-japan.html"
   ]
 ];
