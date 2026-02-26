@@ -2,77 +2,92 @@
     {
         "name": "RT (Russia Today)",
         "url": "https://rt.com/",
-        "class": "red-national"
+        "class": "red-national",
+        "flag": "🇷🇺"
     },
     {
         "name": "Sputnik News",
         "url": "https://sputniknews.com/",
-        "class": "red-national"
+        "class": "red-national",
+        "flag": "🇷🇺"
     },
     {
-        "name": "Xinhua News Agency (China)",
+        "name": "Xinhua News Agency",
         "url": "http://www.xinhuanet.com/english/",
-        "class": "red-national"
+        "class": "red-national",
+        "flag": "🇨🇳"
     },
     {
-        "name": "China Daily (China)",
+        "name": "China Daily",
         "url": "http://www.chinadaily.com.cn/",
-        "class": "red-national"
+        "class": "red-national",
+        "flag": "🇨🇳"
     },
     {
-        "name": "Global Times (China)",
+        "name": "Global Times",
         "url": "https://www.globaltimes.cn/",
-        "class": "red-national"
+        "class": "red-national",
+        "flag": "🇨🇳"
     },
     {
-        "name": "KCNA (Korean Central News Agency) (North Korea)",
+        "name": "KCNA",
         "url": "http://kcna.kp/",
-        "class": "red-national"
+        "class": "red-national",
+        "flag": "🇰🇵"
     },
     {
-        "name": "The People's Daily (China)",
+        "name": "People's Daily",
         "url": "http://english.peopledaily.com.cn/",
-        "class": "red-national"
+        "class": "red-national",
+        "flag": "🇨🇳"
     },
     {
-        "name": "CGTN (China Global Television Network)",
+        "name": "CGTN",
         "url": "https://www.cgtn.com/",
-        "class": "red-national"
+        "class": "red-national",
+        "flag": "🇨🇳"
     },
     {
-        "name": "TASS (Russia)",
+        "name": "TASS",
         "url": "https://tass.com/",
-        "class": "red-national"
+        "class": "red-national",
+        "flag": "🇷🇺"
     },
     {
         "name": "Russia Beyond",
         "url": "https://www.rbth.com/",
-        "class": "red-national"
+        "class": "red-national",
+        "flag": "🇷🇺"
     },
     {
-        "name": "The National (UAE)",
+        "name": "The National",
         "url": "https://www.thenationalnews.com/",
-        "class": "red-national"
+        "class": "red-national",
+        "flag": "🇦🇪"
     },
     {
-        "name": "Press TV (Iran)",
+        "name": "Press TV",
         "url": "https://www.presstv.ir/",
-        "class": "red-national"
+        "class": "red-national",
+        "flag": "🇮🇷"
     },
     {
-        "name": "Al Jazeera (Qatar)",
+        "name": "Al Jazeera",
         "url": "https://www.aljazeera.com/",
-        "class": "red-national"
+        "class": "red-national",
+        "flag": "🇶🇦"
     },
     {
-        "name": "Mehr News Agency (Iran)",
+        "name": "Mehr News Agency",
         "url": "https://en.mehrnews.com/",
-        "class": "red-national"
+        "class": "red-national",
+        "flag": "🇮🇷"
     },
     {
         "name": "Iran Daily",
         "url": "http://www.irandaily.ir/",
-        "class": "red-national"
+        "class": "red-national",
+        "flag": "🇮🇷"
     }
 ]
 ;
