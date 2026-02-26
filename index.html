@@ -874,9 +874,9 @@
                     <h3>${label}</h3>
                     ${items.map(({name, count, url, source}) => {
                         const inner = `<span>${name}</span><span class="entity-count">${count}</span>`;
-                        return url
-                            ? `<a class="entity-row" href="${url}" target="_blank" title="${source}">${inner}</a>`
-                            : `<div class="entity-row">${inner}</div>`;
+                        const href = url || `https://news.google.com/search?q=${encodeURIComponent(name)}`;
+                        const title = source || `Search Google News for "${name}"`;
+                        return `<a class="entity-row" href="${href}" target="_blank" title="${title}">${inner}</a>`;
                     }).join('')}
                 </div>`;
                     `).join('')}
