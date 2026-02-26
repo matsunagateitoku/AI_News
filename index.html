@@ -844,7 +844,7 @@
             // Flat format: [{name, url, class, flag?, school?}]
             container.innerHTML = data.map(({ name, url, class: cls, flag, school }) => `
                 <form action="${url}" method="get" target="_blank" aria-label="${name}">
-                    <button class="${cls}" type="submit">${faviconImg(url, school)}${flag ? flag + ' ' : ''}${name}</button>
+                    <button class="${cls}" type="submit">${faviconImg(url, school)}${name}${flag ? ' ' + flag : ''}</button>
                 </form>
             `).join('');
         }
