@@ -354,6 +354,61 @@
             border-radius: 50%;
             flex-shrink: 0;
         }
+
+        /* ── WORD CLOUD ── */
+        #wordcloud-wrap {
+            width: 100%;
+            background: var(--aged);
+            border-radius: 3px;
+            overflow: hidden;
+            min-height: 200px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        #wordcloud-canvas { display: block; }
+        .wc-meta {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 10px;
+            color: var(--muted);
+            text-align: right;
+            margin-top: 6px;
+        }
+
+        /* ── ENTITIES ── */
+        .entities-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 20px;
+        }
+        .entity-category h3 {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 10px;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            color: var(--muted);
+            margin-bottom: 8px;
+            padding-bottom: 4px;
+            border-bottom: 2px solid var(--accent);
+        }
+        .entity-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            padding: 3px 0;
+            font-size: 13px;
+            border-bottom: 1px solid rgba(42,31,15,0.08);
+        }
+        .entity-count {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 10px;
+            color: var(--muted);
+            background: var(--aged);
+            padding: 1px 5px;
+            border-radius: 2px;
+            flex-shrink: 0;
+            margin-left: 8px;
+        }
     </style>
 </head>
 <body>
@@ -405,6 +460,32 @@
 <!-- SECTIONS -->
 <div class="sections-wrapper">
     <div class="sections-grid">
+
+        <!-- Word Cloud -->
+        <div class="section-block full-width" data-section="wordcloud">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Word Cloud — Today's Headlines</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div id="wordcloud-wrap">
+                    <canvas id="wordcloud-canvas"></canvas>
+                </div>
+                <p class="wc-meta" id="wc-updated"></p>
+            </div>
+        </div>
+
+        <!-- Top Entities -->
+        <div class="section-block full-width" data-section="entities">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Top Entities — Today's Headlines</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div id="entities-grid" class="entities-grid"></div>
+                <p class="wc-meta" id="entities-updated"></p>
+            </div>
+        </div>
 
         <!-- National Newspapers -->
         <div class="section-block full-width" data-section="nationalPapers">
@@ -665,6 +746,9 @@
 <script src="data/Entertainment.js"></script>
 <script src="data/college_papers.js"></script>
 <script src="data/substack.js"></script>
+<script src="data/wordcloud.js"></script>
+<script src="data/entities.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.js"></script>
 
 <script>
     // Set live date in masthead
@@ -716,11 +800,84 @@
         }
     }
 
+    function renderWordCloud() {
+        const data = window.newsData && window.newsData.wordcloud;
+        const canvas = document.getElementById('wordcloud-canvas');
+        const wrap   = document.getElementById('wordcloud-wrap');
+        if (!canvas || !wrap) return;
+
+        if (!data || !data.length) {
+            wrap.innerHTML = '<p style="color:var(--muted);font-family:\'IBM Plex Mono\',monospace;font-size:11px;padding:40px">No data yet — run the scraper to populate.</p>';
+            return;
+        }
+
+        const w = wrap.offsetWidth || 800;
+        const h = Math.round(w * 0.42);
+        canvas.width  = w;
+        canvas.height = h;
+
+        WordCloud(canvas, {
+            list:         data,
+            gridSize:     Math.round(w / 60),
+            weightFactor: weight => Math.pow(weight, 0.55) * (w / 100),
+            fontFamily:   "'Playfair Display', Georgia, serif",
+            color:        (word, weight) => weight > 15 ? '#b5000a' : '#1a1209',
+            rotateRatio:  0.2,
+            backgroundColor: '#e8e0cc',
+            minSize:      10,
+        });
+
+        const updated = (window.newsData.entities || {}).updated;
+        if (updated) {
+            const d = new Date(updated);
+            document.getElementById('wc-updated').textContent =
+                'Sources: 15 RSS feeds · Updated ' +
+                d.toLocaleDateString('en-US', {month:'short', day:'numeric'}) + ' at ' +
+                d.toLocaleTimeString('en-US', {hour:'2-digit', minute:'2-digit', timeZoneName:'short'});
+        }
+    }
+
+    function renderEntities() {
+        const data = window.newsData && window.newsData.entities;
+        const grid = document.getElementById('entities-grid');
+        if (!grid) return;
+
+        const LABELS = { PERSON: 'People', ORG: 'Organizations', GPE: 'Places', EVENT: 'Events' };
+
+        if (!data || !Object.keys(data).length) {
+            grid.innerHTML = '<p style="color:var(--muted);font-family:\'IBM Plex Mono\',monospace;font-size:11px">No data yet — run the scraper to populate.</p>';
+            return;
+        }
+
+        grid.innerHTML = Object.entries(LABELS).map(([key, label]) => {
+            const items = data[key] || [];
+            if (!items.length) return '';
+            return `
+                <div class="entity-category">
+                    <h3>${label}</h3>
+                    ${items.map(({name, count}) => `
+                        <div class="entity-row">
+                            <span>${name}</span>
+                            <span class="entity-count">${count}</span>
+                        </div>
+                    `).join('')}
+                </div>`;
+        }).join('');
+
+        if (data.updated) {
+            const d = new Date(data.updated);
+            document.getElementById('entities-updated').textContent =
+                'Updated ' +
+                d.toLocaleDateString('en-US', {month:'short', day:'numeric'}) + ' at ' +
+                d.toLocaleTimeString('en-US', {hour:'2-digit', minute:'2-digit', timeZoneName:'short'});
+        }
+    }
+
     document.addEventListener('DOMContentLoaded', () => {
         // Open all sections
         document.querySelectorAll('.section-block').forEach(block => block.classList.add('open'));
 
-        // Render all sections from pre-loaded data
+        // Render newspaper button sections
         [
             'nationalPapers', 'localPapers', 'wire', 'web',
             'political', 'TV_Radio', 'Magazines', 'Finance',
@@ -728,6 +885,10 @@
             'Science', 'Technology', 'Propaganda', 'national_security', 'Entertainment',
             'collegePapers', 'substack'
         ].forEach(renderSection);
+
+        // Render analysis sections
+        renderWordCloud();
+        renderEntities();
 
         document.getElementById('toggleStyles').addEventListener('click', toggleStyles);
     });

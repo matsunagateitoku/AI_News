@@ -1,0 +1,48 @@
+name: Scrape newspapers
+
+on:
+  # Runs at 7am, 1pm, 7pm, and 1am UTC every day
+  schedule:
+    - cron: '0 7,13,19,1 * * *'
+  # Also allows manual runs from the Actions tab on any branch
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          # Use a PAT if you need to push to a protected branch;
+          # for an unprotected branch the default GITHUB_TOKEN is fine.
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install dependencies
+        run: |
+          pip install -r scraper/requirements.txt
+          python -m spacy download en_core_web_sm
+
+      - name: Run scraper
+        run: python scraper/scrape.py
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/wordcloud.js data/entities.js
+          # Only commit when there are actual changes
+          git diff --staged --quiet || (
+            git commit -m "chore: refresh wordcloud and entity data [skip ci]" &&
+            git push
+          )
