@@ -670,11 +670,16 @@
     }
 
     // Render a section from the pre-loaded window.newsData registry
+    // US sections get the American flag; other sections use per-entry flag field
+    const US_SECTIONS = new Set(['nationalPapers', 'localPapers']);
+
     function renderSection(sectionId) {
         const container = document.getElementById(sectionId);
         if (!container) return;
         const data = window.newsData && window.newsData[sectionId];
         if (!data) { container.innerHTML = '<p>No data.</p>'; return; }
+
+        const usFlag = US_SECTIONS.has(sectionId) ? '🇺🇸' : null;
 
         // Regional format: [{region, papers: [{name, state, url, class}]}]
         if (data.length > 0 && data[0].region) {
@@ -682,21 +687,25 @@
                 <div class="region-group">
                     <div class="region-label">${region}</div>
                     <div class="region-papers">
-                        ${papers.map(({ name, state, url, class: cls }) => `
+                        ${papers.map(({ name, state, url, class: cls, flag }) => {
+                            const f = usFlag || flag || '';
+                            return `
                             <form action="${url}" method="get" target="_blank" aria-label="${name}">
-                                <button class="${cls}" type="submit">${name}${state ? ` <span class="state-tag">(${state})</span>` : ''}</button>
-                            </form>
-                        `).join('')}
+                                <button class="${cls}" type="submit">${f ? f + ' ' : ''}${name}${state ? ` <span class="state-tag">(${state})</span>` : ''}</button>
+                            </form>`;
+                        }).join('')}
                     </div>
                 </div>
             `).join('');
         } else {
-            // Flat format: [{name, url, class}]
-            container.innerHTML = data.map(({ name, url, class: cls }) => `
+            // Flat format: [{name, url, class, flag?}]
+            container.innerHTML = data.map(({ name, url, class: cls, flag }) => {
+                const f = usFlag || flag || '';
+                return `
                 <form action="${url}" method="get" target="_blank" aria-label="${name}">
-                    <button class="${cls}" type="submit">${name}</button>
-                </form>
-            `).join('');
+                    <button class="${cls}" type="submit">${f ? f + ' ' : ''}${name}</button>
+                </form>`;
+            }).join('');
         }
     }
 
