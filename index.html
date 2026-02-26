@@ -227,6 +227,15 @@
         button[class^="purple"] { border-left: 5px solid #770099; background: rgba(119,0,153,0.07); }
         button[class^="orange"] { border-left: 5px solid #dd6600; background: rgba(221,102,0,0.07); }
 
+        /* School logo inside button */
+        .school-logo {
+            width: 16px;
+            height: 16px;
+            vertical-align: middle;
+            margin-right: 5px;
+            border-radius: 2px;
+        }
+
         /* Hidden bias mode */
         button.no-styles {
             border-left-color: transparent !important;
@@ -691,10 +700,10 @@
                 </div>
             `).join('');
         } else {
-            // Flat format: [{name, url, class, flag?}]
-            container.innerHTML = data.map(({ name, url, class: cls, flag }) => `
+            // Flat format: [{name, url, class, flag?, school?}]
+            container.innerHTML = data.map(({ name, url, class: cls, flag, school }) => `
                 <form action="${url}" method="get" target="_blank" aria-label="${name}">
-                    <button class="${cls}" type="submit">${flag ? flag + ' ' : ''}${name}</button>
+                    <button class="${cls}" type="submit">${school ? `<img class="school-logo" src="https://www.google.com/s2/favicons?domain=${school}&sz=32" alt="">` : ''}${flag ? flag + ' ' : ''}${name}</button>
                 </form>
             `).join('');
         }
