@@ -884,7 +884,7 @@
         const wordUrls = {};
         data.forEach(([word, , url]) => { if (url) wordUrls[word.toLowerCase()] = url; });
 
-        // Client-side noise filter (catches words that slip past the scraper stoplist)
+        // Client-side noise filter
         const NOISE = new Set([
             'all','like','former','state','house','federal','city','live','deal',
             'whether','both','later','media','country','star','fashion','weekly',
@@ -902,38 +902,87 @@
             'look','need','want','know','keep','work','tell','help','goes',
             'after','about','could','would','should','their','there','these',
             'those','when','what','more','over','than','them','then','into',
-
         ]);
-        const filtered = data.filter(([w]) => !NOISE.has(w.toLowerCase())).slice(0, 60);
 
-        const maxCount = Math.max(...filtered.map(([, c]) => c));
-        const minCount = Math.min(...filtered.map(([, c]) => c));
+        // Sort largest-first so high-frequency words land at center
+        const filtered = data
+            .filter(([w]) => !NOISE.has(w.toLowerCase()))
+            .slice(0, 60)
+            .sort((a, b) => b[1] - a[1]);
+
+        const maxCount = filtered[0][1];
+        const minCount = filtered[filtered.length - 1][1];
         const range = maxCount - minCount || 1;
 
-        // Seeded daily shuffle so layout is stable within a day but not a sorted list
+        // Seeded daily RNG — stable layout within a day
         let rng = new Date().toDateString().split('').reduce((a, c) => a + c.charCodeAt(0), 0);
         const rand = () => { rng = (rng * 1664525 + 1013904223) >>> 0; return rng / 0xffffffff; };
-        const display = [...filtered];
-        for (let i = display.length - 1; i > 0; i--) {
-            const j = Math.floor(rand() * (i + 1));
-            [display[i], display[j]] = [display[j], display[i]];
-        }
 
-        const words = display.map(([word, count]) => {
+        // Use a canvas only for text measurement
+        const mc = document.createElement('canvas').getContext('2d');
+        const W = Math.max(wrap.offsetWidth || 0, 660);
+        const H = 460;
+        const cx = W / 2, cy = H / 2;
+        const PAD = 6; // minimum gap between words
+
+        const boxes = []; // already-placed bounding boxes
+        const overlaps = (x, y, w, h) => {
+            for (const b of boxes) {
+                if (x < b.x + b.w + PAD && x + w + PAD > b.x &&
+                    y < b.y + b.h + PAD && y + h + PAD > b.y) return true;
+            }
+            return false;
+        };
+
+        const placements = [];
+
+        for (const [word, count] of filtered) {
             const t = (count - minCount) / range;
-            const size = Math.round(10 + t * 42);
+            const size = Math.round(11 + t * 46);
+
+            mc.font = `bold ${size}px 'Playfair Display', Georgia, serif`;
+            const tw = mc.measureText(word).width;
+            const th = size * 1.15;
+
+            // Top ~30% of words stay horizontal; rest have 40% chance to go vertical
+            const isVertical = t < 0.7 && rand() < 0.4;
+            const bw = isVertical ? th : tw;
+            const bh = isVertical ? tw : th;
+
             let color;
             if (count > 40)      color = '#ff6b6b';
             else if (count > 25) color = '#ffd93d';
             else if (count > 15) color = '#ffffff';
             else if (count > 8)  color = '#a8c8e8';
             else                 color = '#7a9bb5';
+
             const href = wordUrls[word.toLowerCase()]
                 || `https://news.google.com/search?q=${encodeURIComponent(word)}`;
-            return `<a href="${href}" target="_blank" title="${count} mentions" style="display:inline-block;margin:3px 6px;font-family:'Playfair Display',Georgia,serif;font-size:${size}px;font-weight:bold;color:${color};text-decoration:none;line-height:1.15;vertical-align:middle;white-space:nowrap">${word}</a>`;
+
+            // Archimedean spiral from center outward
+            let px = cx - bw / 2, py = cy - bh / 2, placed_ok = false;
+            for (let theta = 0; theta < 80 * Math.PI; theta += 0.12) {
+                const r = 2.2 * theta;
+                const x = cx + r * Math.cos(theta) - bw / 2;
+                const y = cy + r * Math.sin(theta) * 0.62 - bh / 2; // 0.62 → elliptical spread
+                if (x < 4 || y < 4 || x + bw > W - 4 || y + bh > H - 4) continue;
+                if (!overlaps(x, y, bw, bh)) { px = x; py = y; placed_ok = true; break; }
+            }
+            if (!placed_ok) continue;
+
+            boxes.push({ x: px, y: py, w: bw, h: bh });
+            placements.push({ word, count, size, color, px, py, bw, bh, isVertical, href, tw });
+        }
+
+        // Render as SVG so words are clickable links
+        const svgWords = placements.map(({ word, count, size, color, px, py, bw, bh, isVertical, href }) => {
+            const wcx = (px + bw / 2).toFixed(1);
+            const wcy = (py + bh / 2).toFixed(1);
+            const rotate = isVertical ? ` transform="rotate(-90,${wcx},${wcy})"` : '';
+            return `<a href="${href}" target="_blank"><text x="${wcx}" y="${wcy}" dy="0.35em" text-anchor="middle" fill="${color}" font-family="'Playfair Display',Georgia,serif" font-size="${size}" font-weight="bold"${rotate} style="cursor:pointer"><title>${count} mentions</title>${word}</text></a>`;
         }).join('');
 
-        wrap.innerHTML = `<div style="padding:18px 20px;background:#1a1209;text-align:center;line-height:1.8;overflow:hidden">${words}</div>`;
+        wrap.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" style="display:block;width:100%;background:#1a1209;border-radius:4px">${svgWords}</svg>`;
 
         const updated = (window.newsData.entities || {}).updated;
         if (updated) {
@@ -993,8 +1042,8 @@
             'collegePapers', 'substack', 'Legal'
         ].forEach(renderSection);
 
-        // Render analysis sections
-        renderWordCloud();
+        // Render analysis sections — wait for fonts so measureText is accurate
+        document.fonts.ready.then(() => renderWordCloud());
         renderEntities();
 
         document.getElementById('toggleStyles').addEventListener('click', toggleStyles);
