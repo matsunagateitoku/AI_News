@@ -891,7 +891,7 @@
 
         const words = display.map(([word, count]) => {
             const t = (count - minCount) / range;
-            const size = Math.round(10 + t * 44);
+            const size = Math.round(10 + t * 42);
             let color;
             if (count > 40)      color = '#ff6b6b';
             else if (count > 25) color = '#ffd93d';
@@ -900,11 +900,10 @@
             else                 color = '#7a9bb5';
             const href = wordUrls[word.toLowerCase()]
                 || `https://news.google.com/search?q=${encodeURIComponent(word)}`;
-            return `<a href="${href}" target="_blank" title="${count} mentions"
-                style="font-family:'Playfair Display',Georgia,serif;font-size:${size}px;font-weight:bold;color:${color};text-decoration:none;line-height:1.2;white-space:nowrap">${word}</a>`;
+            return `<a href="${href}" target="_blank" title="${count} mentions" style="display:inline-block;margin:3px 6px;font-family:'Playfair Display',Georgia,serif;font-size:${size}px;font-weight:bold;color:${color};text-decoration:none;line-height:1.15;vertical-align:middle;white-space:nowrap">${word}</a>`;
         }).join('');
 
-        wrap.innerHTML = `<div style="display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center;align-content:center;justify-content:center;padding:20px;width:100%;box-sizing:border-box;background:#1a1209">${words}</div>`;
+        wrap.innerHTML = `<div style="padding:18px 20px;background:#1a1209;text-align:center;line-height:1.8;overflow:hidden">${words}</div>`;
 
         const updated = (window.newsData.entities || {}).updated;
         if (updated) {
