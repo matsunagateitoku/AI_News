@@ -902,12 +902,14 @@
             'look','need','want','know','keep','work','tell','help','goes',
             'after','about','could','would','should','their','there','these',
             'those','when','what','more','over','than','them','then','into',
+            'won','ahead','meet','instead','always','lost','west','history',
+            'water','scream','towels','boy','record',
         ]);
 
         // Sort largest-first so high-frequency words land at center
         const filtered = data
             .filter(([w]) => !NOISE.has(w.toLowerCase()))
-            .slice(0, 60)
+            .slice(0, 100)
             .sort((a, b) => b[1] - a[1]);
 
         const maxCount = filtered[0][1];
@@ -921,7 +923,7 @@
         // Use a canvas only for text measurement
         const mc = document.createElement('canvas').getContext('2d');
         const W = Math.max(wrap.offsetWidth || 0, 660);
-        const H = 460;
+        const H = 560;
         const cx = W / 2, cy = H / 2;
         const PAD = 6; // minimum gap between words
 
@@ -961,7 +963,7 @@
 
             // Archimedean spiral from center outward
             let px = cx - bw / 2, py = cy - bh / 2, placed_ok = false;
-            for (let theta = 0; theta < 80 * Math.PI; theta += 0.12) {
+            for (let theta = 0; theta < 120 * Math.PI; theta += 0.12) {
                 const r = 2.2 * theta;
                 const x = cx + r * Math.cos(theta) - bw / 2;
                 const y = cy + r * Math.sin(theta) * 0.62 - bh / 2; // 0.62 → elliptical spread
