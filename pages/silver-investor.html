@@ -1,0 +1,1593 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Temporelli Silver — Investor Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #0a0a14;
+    --card: #13132a;
+    --border: #2a2a4a;
+    --silver: #c8c8d4;
+    --silver-light: #e8e8f4;
+    --gold: #d4af37;
+    --green: #00cc88;
+    --red: #ff4757;
+    --text: #e8e8f0;
+    --text2: #888899;
+    --accent: #7b68ee;
+    --accent2: #5a4fcf;
+  }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* ── HEADER ── */
+  header {
+    background: linear-gradient(135deg, #0d0d20 0%, #13132a 50%, #0d0d20 100%);
+    border-bottom: 1px solid var(--border);
+    padding: 18px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    backdrop-filter: blur(12px);
+  }
+  .brand {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .brand-name {
+    font-size: 1.5rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    background: linear-gradient(90deg, #c8c8d4, #ffffff, #c8c8d4, #888899);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    animation: shimmer-brand 4s linear infinite;
+  }
+  @keyframes shimmer-brand {
+    0% { background-position: 0% center; }
+    100% { background-position: 200% center; }
+  }
+  .brand-sub {
+    font-size: 0.62rem;
+    letter-spacing: 0.25em;
+    color: var(--text2);
+    text-transform: uppercase;
+  }
+  .header-price-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    flex: 1;
+    max-width: 320px;
+  }
+  .header-price-label {
+    font-size: 0.65rem;
+    letter-spacing: 0.2em;
+    color: var(--text2);
+    text-transform: uppercase;
+  }
+  .header-price {
+    font-family: 'Courier New', monospace;
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: var(--silver-light);
+    letter-spacing: 0.03em;
+    transition: all 0.3s;
+    text-shadow: 0 0 20px rgba(200, 200, 212, 0.3);
+  }
+  .header-price.shimmer {
+    animation: price-shimmer 0.6s ease-out;
+  }
+  @keyframes price-shimmer {
+    0% { text-shadow: 0 0 0px rgba(200,200,212,0); }
+    40% { text-shadow: 0 0 30px rgba(200,200,212,0.8), 0 0 60px rgba(200,200,212,0.4); }
+    100% { text-shadow: 0 0 20px rgba(200,200,212,0.3); }
+  }
+  .header-change {
+    font-family: monospace;
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+  .header-controls {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 6px;
+  }
+  .refresh-btn {
+    background: linear-gradient(135deg, #2a2a4a, #1e1e3a);
+    border: 1px solid var(--border);
+    color: var(--silver);
+    padding: 8px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.82rem;
+    letter-spacing: 0.05em;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .refresh-btn:hover { border-color: var(--silver); color: var(--silver-light); }
+  .refresh-btn.spinning svg { animation: spin 1s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .last-updated { font-size: 0.65rem; color: var(--text2); }
+
+  /* ── TICKER ── */
+  .ticker-wrap {
+    background: #0d0d20;
+    border-bottom: 1px solid var(--border);
+    overflow: hidden;
+    height: 36px;
+    display: flex;
+    align-items: center;
+  }
+  .ticker-track {
+    display: flex;
+    gap: 0;
+    white-space: nowrap;
+    animation: ticker-scroll 60s linear infinite;
+    will-change: transform;
+  }
+  .ticker-track:hover { animation-play-state: paused; }
+  @keyframes ticker-scroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+  .ticker-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 0 20px;
+    font-size: 0.78rem;
+    font-family: monospace;
+    border-right: 1px solid var(--border);
+  }
+  .ticker-sym { color: var(--silver); font-weight: 700; }
+  .ticker-price { color: var(--text); }
+  .ticker-chg { font-size: 0.72rem; }
+
+  /* ── MAIN ── */
+  .main-wrap { max-width: 1400px; margin: 0 auto; padding: 0 24px 48px; }
+
+  /* ── TABS ── */
+  .tabs-nav {
+    display: flex;
+    gap: 4px;
+    padding: 20px 0 0;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 28px;
+  }
+  .tab-btn {
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    color: var(--text2);
+    padding: 10px 24px;
+    font-size: 0.88rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.2s;
+    margin-bottom: -1px;
+  }
+  .tab-btn:hover { color: var(--text); }
+  .tab-btn.active { color: var(--silver-light); border-bottom-color: var(--silver); }
+  .tab-panel { display: none; animation: fadein 0.25s ease; }
+  .tab-panel.active { display: block; }
+  @keyframes fadein { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+
+  /* ── SECTION TITLE ── */
+  .section-title {
+    font-size: 0.72rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--text2);
+    margin-bottom: 14px;
+    padding-left: 2px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .section-title::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  /* ── CARD GRID ── */
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 14px;
+    margin-bottom: 32px;
+  }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 18px;
+    transition: border-color 0.2s, transform 0.15s;
+    position: relative;
+    overflow: hidden;
+  }
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, rgba(200,200,212,0.3), transparent);
+  }
+  .card:hover { border-color: #3a3a6a; transform: translateY(-2px); }
+  .card.highlight-gold::before { background: linear-gradient(90deg, transparent, rgba(212,175,55,0.5), transparent); }
+  .card.highlight-silver::before { background: linear-gradient(90deg, transparent, rgba(200,200,212,0.6), transparent); }
+  .card.pulse-warning {
+    border-color: var(--gold) !important;
+    animation: pulse-border 2s ease-in-out infinite;
+  }
+  @keyframes pulse-border {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(212,175,55,0); }
+    50% { box-shadow: 0 0 12px 2px rgba(212,175,55,0.25); }
+  }
+  .card-symbol {
+    font-size: 0.68rem;
+    letter-spacing: 0.15em;
+    color: var(--text2);
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .card-name {
+    font-size: 0.82rem;
+    color: var(--text);
+    font-weight: 500;
+    margin-bottom: 10px;
+    line-height: 1.3;
+  }
+  .card-price {
+    font-family: monospace;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--silver-light);
+    letter-spacing: 0.02em;
+    margin-bottom: 4px;
+  }
+  .card-change {
+    font-family: monospace;
+    font-size: 0.8rem;
+    font-weight: 600;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+  }
+  .card-badge {
+    font-size: 0.62rem;
+    padding: 2px 7px;
+    border-radius: 4px;
+    letter-spacing: 0.08em;
+    font-weight: 700;
+    text-transform: uppercase;
+    position: absolute;
+    top: 14px;
+    right: 14px;
+  }
+  .badge-silver { background: rgba(200,200,212,0.15); color: var(--silver-light); }
+  .badge-gold { background: rgba(212,175,55,0.15); color: var(--gold); }
+  .badge-etf { background: rgba(123,104,238,0.15); color: #9b8ef0; }
+  .badge-mining { background: rgba(0,204,136,0.1); color: var(--green); }
+  .pos { color: var(--green); }
+  .neg { color: var(--red); }
+  .neu { color: var(--text2); }
+
+  .skeleton {
+    background: linear-gradient(90deg, #1a1a30 25%, #22223a 50%, #1a1a30 75%);
+    background-size: 200% 100%;
+    animation: skeleton-anim 1.5s ease-in-out infinite;
+    border-radius: 6px;
+    color: transparent !important;
+  }
+  @keyframes skeleton-anim {
+    0% { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+  }
+
+  /* ── CHART ── */
+  .chart-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 22px;
+    margin-bottom: 32px;
+  }
+  .chart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 18px;
+  }
+  .chart-title { font-size: 0.88rem; font-weight: 600; color: var(--text); }
+  .chart-range-btns { display: flex; gap: 4px; }
+  .range-btn {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--text2);
+    padding: 4px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.72rem;
+    transition: all 0.15s;
+  }
+  .range-btn:hover, .range-btn.active { background: #2a2a4a; color: var(--silver-light); border-color: var(--silver); }
+  .chart-wrap { position: relative; height: 260px; }
+
+  /* ── NEWS ── */
+  .news-filters {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  .filter-btn {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--text2);
+    padding: 6px 16px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    transition: all 0.15s;
+  }
+  .filter-btn:hover, .filter-btn.active {
+    background: rgba(200,200,212,0.1);
+    color: var(--silver-light);
+    border-color: var(--silver);
+  }
+  .news-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 16px;
+  }
+  .news-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: border-color 0.2s, transform 0.15s;
+    display: flex;
+    flex-direction: column;
+  }
+  .news-card:hover { border-color: #3a3a6a; transform: translateY(-2px); }
+  .news-img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    background: #1a1a2e;
+  }
+  .news-img-placeholder {
+    width: 100%;
+    height: 160px;
+    background: linear-gradient(135deg, #1a1a2e, #13132a);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5rem;
+    color: var(--border);
+  }
+  .news-body { padding: 16px; flex: 1; display: flex; flex-direction: column; gap: 8px; }
+  .news-meta { display: flex; justify-content: space-between; align-items: center; }
+  .news-source {
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background: rgba(123,104,238,0.15);
+    color: #9b8ef0;
+  }
+  .news-date { font-size: 0.7rem; color: var(--text2); }
+  .news-headline {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text);
+    line-height: 1.4;
+    text-decoration: none;
+    display: block;
+  }
+  .news-headline:hover { color: var(--silver-light); }
+  .news-snippet { font-size: 0.78rem; color: var(--text2); line-height: 1.5; flex: 1; }
+  .news-skeleton { height: 320px; border-radius: 12px; }
+
+  /* ── PORTFOLIO ── */
+  .portfolio-layout {
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 20px;
+  }
+  @media (max-width: 900px) { .portfolio-layout { grid-template-columns: 1fr; } }
+  .add-holding-form {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .form-title { font-size: 0.8rem; letter-spacing: 0.1em; color: var(--text2); text-transform: uppercase; margin-bottom: 16px; }
+  .form-row { display: flex; gap: 10px; flex-wrap: wrap; align-items: flex-end; }
+  .form-group { display: flex; flex-direction: column; gap: 5px; flex: 1; min-width: 120px; }
+  .form-label { font-size: 0.72rem; color: var(--text2); letter-spacing: 0.06em; }
+  .form-input, .form-select {
+    background: #0d0d20;
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 9px 12px;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    outline: none;
+    transition: border-color 0.2s;
+    width: 100%;
+    font-family: inherit;
+  }
+  .form-input:focus, .form-select:focus { border-color: var(--silver); }
+  .form-select option { background: #13132a; }
+  .add-btn {
+    background: linear-gradient(135deg, #2a2a5a, #1e1e44);
+    border: 1px solid var(--silver);
+    color: var(--silver-light);
+    padding: 9px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    font-weight: 600;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+  .add-btn:hover { background: linear-gradient(135deg, #3a3a7a, #2e2e64); }
+
+  .holdings-table-wrap {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  table { width: 100%; border-collapse: collapse; }
+  thead tr { background: #0d0d20; }
+  th {
+    padding: 12px 14px;
+    text-align: right;
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    color: var(--text2);
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  th:first-child { text-align: left; }
+  td {
+    padding: 12px 14px;
+    text-align: right;
+    font-size: 0.82rem;
+    border-top: 1px solid var(--border);
+    font-family: monospace;
+    vertical-align: middle;
+  }
+  td:first-child { text-align: left; font-family: inherit; }
+  tr:hover td { background: rgba(255,255,255,0.02); }
+  .delete-btn {
+    background: none;
+    border: 1px solid #3a2020;
+    color: #cc4455;
+    padding: 3px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.72rem;
+    transition: all 0.15s;
+  }
+  .delete-btn:hover { background: rgba(255,71,87,0.1); border-color: var(--red); color: var(--red); }
+  .portfolio-footer {
+    background: #0d0d20;
+    padding: 12px 14px;
+    display: flex;
+    gap: 32px;
+    justify-content: flex-end;
+    font-size: 0.82rem;
+  }
+  .portfolio-footer span { color: var(--text2); }
+  .portfolio-footer strong { color: var(--text); font-family: monospace; }
+
+  .pie-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+  }
+  .pie-title { font-size: 0.8rem; color: var(--text2); margin-bottom: 14px; letter-spacing: 0.1em; text-transform: uppercase; }
+  .pie-wrap { position: relative; height: 220px; }
+  .empty-portfolio {
+    text-align: center;
+    padding: 48px 24px;
+    color: var(--text2);
+    font-size: 0.88rem;
+  }
+  .empty-portfolio .empty-icon { font-size: 2.5rem; margin-bottom: 12px; opacity: 0.4; }
+
+  /* ── TOOLS ── */
+  .tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 20px;
+  }
+  .tool-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 22px;
+  }
+  .tool-title {
+    font-size: 0.8rem;
+    letter-spacing: 0.12em;
+    color: var(--silver);
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 18px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .tool-title span { font-size: 1.1rem; }
+  .tool-result {
+    background: #0d0d20;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px;
+    margin-top: 14px;
+  }
+  .tool-result-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+    font-size: 0.82rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .tool-result-row:last-child { border-bottom: none; }
+  .tool-result-row .label { color: var(--text2); }
+  .tool-result-row .value { font-family: monospace; color: var(--silver-light); font-weight: 600; }
+
+  .ratio-gauge-wrap {
+    margin: 18px 0;
+    position: relative;
+  }
+  .ratio-bar-bg {
+    height: 20px;
+    border-radius: 10px;
+    background: linear-gradient(90deg, var(--red) 0%, var(--green) 40%, #888899 70%, var(--gold) 100%);
+    position: relative;
+  }
+  .ratio-indicator {
+    position: absolute;
+    top: -4px;
+    width: 28px;
+    height: 28px;
+    background: white;
+    border-radius: 50%;
+    border: 3px solid var(--bg);
+    box-shadow: 0 0 8px rgba(255,255,255,0.3);
+    transform: translateX(-50%);
+    transition: left 0.5s ease;
+  }
+  .ratio-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.65rem;
+    color: var(--text2);
+    margin-top: 6px;
+  }
+  .ratio-big {
+    font-size: 3rem;
+    font-family: monospace;
+    font-weight: 700;
+    text-align: center;
+    color: var(--silver-light);
+    margin-bottom: 4px;
+  }
+  .ratio-interp {
+    text-align: center;
+    font-size: 0.82rem;
+    color: var(--text2);
+    margin-bottom: 14px;
+    line-height: 1.5;
+  }
+  .milestones-table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+  .milestones-table tr { border-bottom: 1px solid var(--border); }
+  .milestones-table tr:last-child { border-bottom: none; }
+  .milestones-table td { padding: 8px 4px; font-size: 0.82rem; }
+  .milestones-table td:last-child { font-family: monospace; text-align: right; color: var(--silver-light); font-weight: 600; }
+  .milestones-table td:first-child { color: var(--text2); }
+
+  /* ── TOASTS ── */
+  .toast-area {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    z-index: 9999;
+  }
+  .toast {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 18px;
+    font-size: 0.82rem;
+    color: var(--text);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    animation: toast-in 0.25s ease;
+    max-width: 300px;
+  }
+  .toast.error { border-color: var(--red); }
+  .toast.success { border-color: var(--green); }
+  @keyframes toast-in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+
+  /* ── LOADING OVERLAY ── */
+  .loading-overlay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+    color: var(--text2);
+    font-size: 0.88rem;
+    gap: 10px;
+  }
+  .spinner {
+    width: 18px; height: 18px;
+    border: 2px solid var(--border);
+    border-top-color: var(--silver);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    display: inline-block;
+  }
+
+  @media (max-width: 700px) {
+    header { padding: 12px 16px; }
+    .header-price { font-size: 1.5rem; }
+    .brand-name { font-size: 1.1rem; }
+    .main-wrap { padding: 0 14px 40px; }
+    .card-grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
+  }
+</style>
+</head>
+<body>
+
+<!-- SITE NAV -->
+<nav style="background:#1a1209;display:flex;align-items:center;padding:0 16px;font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:0.12em;border-bottom:1px solid rgba(255,255,255,0.08);">
+  <a href="../index.html" style="display:block;color:#f5f0e8;text-decoration:none;padding:10px 16px;border-right:1px solid rgba(255,255,255,0.1);text-transform:uppercase;transition:background 0.15s;" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background=''">← PDB Home</a>
+  <a href="Analytics.html" style="display:block;color:#f5f0e8;text-decoration:none;padding:10px 16px;border-right:1px solid rgba(255,255,255,0.1);text-transform:uppercase;transition:background 0.15s;" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background=''">Analytics</a>
+  <a href="References.html" style="display:block;color:#f5f0e8;text-decoration:none;padding:10px 16px;border-right:1px solid rgba(255,255,255,0.1);text-transform:uppercase;transition:background 0.15s;" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background=''">References</a>
+  <a href="about.html" style="display:block;color:#f5f0e8;text-decoration:none;padding:10px 16px;border-right:1px solid rgba(255,255,255,0.1);text-transform:uppercase;transition:background 0.15s;" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background=''">About</a>
+  <a href="silver-investor.html" style="display:block;color:#f5f0e8;text-decoration:none;padding:10px 16px;text-transform:uppercase;background:rgba(255,255,255,0.15);">Silver Investor</a>
+</nav>
+
+<!-- HEADER -->
+<header>
+  <div class="brand">
+    <div class="brand-name">TEMPORELLI SILVER</div>
+    <div class="brand-sub">Investor Dashboard</div>
+  </div>
+  <div class="header-price-block">
+    <div class="header-price-label">Silver Spot (USD/oz)</div>
+    <div class="header-price" id="hdr-price">—</div>
+    <div class="header-change" id="hdr-change">&nbsp;</div>
+  </div>
+  <div class="header-controls">
+    <button class="refresh-btn" id="refresh-btn" onclick="refreshAll()">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/>
+      </svg>
+      Refresh
+    </button>
+    <div class="last-updated" id="last-updated">Not yet loaded</div>
+  </div>
+</header>
+
+<!-- TICKER -->
+<div class="ticker-wrap">
+  <div class="ticker-track" id="ticker-track">
+    <div class="ticker-item"><span class="ticker-sym">LOADING</span><span class="ticker-price">...</span></div>
+  </div>
+</div>
+
+<!-- MAIN -->
+<div class="main-wrap">
+  <!-- TABS NAV -->
+  <nav class="tabs-nav">
+    <button class="tab-btn active" onclick="switchTab('prices')">Prices</button>
+    <button class="tab-btn" onclick="switchTab('news')">News</button>
+    <button class="tab-btn" onclick="switchTab('portfolio')">Portfolio</button>
+    <button class="tab-btn" onclick="switchTab('tools')">Tools</button>
+  </nav>
+
+  <!-- TAB: PRICES -->
+  <div class="tab-panel active" id="tab-prices">
+    <div class="section-title">Precious Metals</div>
+    <div class="card-grid" id="metals-grid">
+      <!-- filled by JS -->
+      <div class="card skeleton" style="height:110px"></div>
+      <div class="card skeleton" style="height:110px"></div>
+      <div class="card skeleton" style="height:110px"></div>
+      <div class="card skeleton" style="height:110px"></div>
+      <div class="card skeleton" style="height:110px"></div>
+      <div class="card skeleton" style="height:110px"></div>
+    </div>
+
+    <div class="chart-card">
+      <div class="chart-header">
+        <div class="chart-title">Silver Price History</div>
+        <div class="chart-range-btns">
+          <button class="range-btn active" onclick="loadChart('1mo',this)">1M</button>
+          <button class="range-btn" onclick="loadChart('3mo',this)">3M</button>
+          <button class="range-btn" onclick="loadChart('6mo',this)">6M</button>
+          <button class="range-btn" onclick="loadChart('1y',this)">1Y</button>
+          <button class="range-btn" onclick="loadChart('5y',this)">5Y</button>
+        </div>
+      </div>
+      <div class="chart-wrap"><canvas id="silver-chart"></canvas></div>
+    </div>
+
+    <div class="section-title">Silver ETFs</div>
+    <div class="card-grid" id="etfs-grid">
+      <div class="card skeleton" style="height:110px"></div>
+      <div class="card skeleton" style="height:110px"></div>
+      <div class="card skeleton" style="height:110px"></div>
+    </div>
+
+    <div class="section-title">Silver Mining Stocks</div>
+    <div class="card-grid" id="mining-grid">
+      <div class="card skeleton" style="height:110px"></div>
+      <div class="card skeleton" style="height:110px"></div>
+      <div class="card skeleton" style="height:110px"></div>
+      <div class="card skeleton" style="height:110px"></div>
+      <div class="card skeleton" style="height:110px"></div>
+      <div class="card skeleton" style="height:110px"></div>
+      <div class="card skeleton" style="height:110px"></div>
+      <div class="card skeleton" style="height:110px"></div>
+    </div>
+  </div>
+
+  <!-- TAB: NEWS -->
+  <div class="tab-panel" id="tab-news">
+    <div class="news-filters">
+      <button class="filter-btn active" onclick="filterNews('all',this)">All</button>
+      <button class="filter-btn" onclick="filterNews('silver',this)">Silver</button>
+      <button class="filter-btn" onclick="filterNews('gold',this)">Gold</button>
+      <button class="filter-btn" onclick="filterNews('mining',this)">Mining</button>
+    </div>
+    <div class="news-grid" id="news-grid">
+      <div class="news-skeleton skeleton"></div>
+      <div class="news-skeleton skeleton"></div>
+      <div class="news-skeleton skeleton"></div>
+      <div class="news-skeleton skeleton"></div>
+      <div class="news-skeleton skeleton"></div>
+      <div class="news-skeleton skeleton"></div>
+    </div>
+  </div>
+
+  <!-- TAB: PORTFOLIO -->
+  <div class="tab-panel" id="tab-portfolio">
+    <div class="add-holding-form">
+      <div class="form-title">Add Holding</div>
+      <div class="form-row">
+        <div class="form-group">
+          <label class="form-label">Type</label>
+          <select class="form-select" id="h-type">
+            <option value="physical_silver">Physical Silver (oz)</option>
+            <option value="physical_gold">Physical Gold (oz)</option>
+            <option value="etf">ETF Shares</option>
+            <option value="stock">Mining Stock</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label class="form-label">Symbol / Name</label>
+          <input class="form-input" id="h-symbol" placeholder="e.g. SLV, WPM, Silver Eagles" />
+        </div>
+        <div class="form-group" style="max-width:120px">
+          <label class="form-label">Quantity</label>
+          <input class="form-input" id="h-qty" type="number" step="any" min="0" placeholder="0" />
+        </div>
+        <div class="form-group" style="max-width:140px">
+          <label class="form-label">Avg Cost (USD)</label>
+          <input class="form-input" id="h-cost" type="number" step="any" min="0" placeholder="0.00" />
+        </div>
+        <button class="add-btn" onclick="addHolding()">+ Add</button>
+      </div>
+    </div>
+    <div class="portfolio-layout">
+      <div>
+        <div class="holdings-table-wrap" id="holdings-wrap">
+          <div class="empty-portfolio" id="empty-portfolio">
+            <div class="empty-icon">⬜</div>
+            <div>No holdings yet. Add your first position above.</div>
+          </div>
+          <table id="holdings-table" style="display:none">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Qty</th>
+                <th>Avg Cost</th>
+                <th>Cur Price</th>
+                <th>Value</th>
+                <th>P&L $</th>
+                <th>P&L %</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody id="holdings-body"></tbody>
+          </table>
+          <div class="portfolio-footer" id="portfolio-footer" style="display:none">
+            <div><span>Cost Basis: </span><strong id="pf-cost">$0.00</strong></div>
+            <div><span>Current Value: </span><strong id="pf-value">$0.00</strong></div>
+            <div><span>Total P&L: </span><strong id="pf-pnl">$0.00</strong></div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="pie-card">
+          <div class="pie-title">Allocation</div>
+          <div class="pie-wrap"><canvas id="pie-chart"></canvas></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- TAB: TOOLS -->
+  <div class="tab-panel" id="tab-tools">
+    <div class="tools-grid">
+
+      <!-- SILVER VALUE CALCULATOR -->
+      <div class="tool-card">
+        <div class="tool-title"><span>⚖</span> Silver Value Calculator</div>
+        <div class="form-group">
+          <label class="form-label">Quantity (troy oz)</label>
+          <input class="form-input" id="calc-oz" type="number" step="any" min="0" placeholder="100" oninput="runCalc()" />
+        </div>
+        <div class="tool-result" id="calc-result">
+          <div class="tool-result-row"><span class="label">Value at spot</span><span class="value" id="calc-spot">—</span></div>
+          <div class="tool-result-row"><span class="label">Value at +10%</span><span class="value" id="calc-up10">—</span></div>
+          <div class="tool-result-row"><span class="label">Value at -10%</span><span class="value" id="calc-dn10">—</span></div>
+          <div class="tool-result-row" style="margin-top:8px;padding-top:8px;border-top:1px solid var(--border)">
+            <span class="label">Oz needed for $10k</span><span class="value" id="calc-10k">—</span>
+          </div>
+          <div class="tool-result-row"><span class="label">Oz needed for $50k</span><span class="value" id="calc-50k">—</span></div>
+          <div class="tool-result-row"><span class="label">Oz needed for $100k</span><span class="value" id="calc-100k">—</span></div>
+        </div>
+      </div>
+
+      <!-- GOLD/SILVER RATIO -->
+      <div class="tool-card">
+        <div class="tool-title"><span>📊</span> Gold/Silver Ratio Tracker</div>
+        <div class="ratio-big" id="tool-ratio">—</div>
+        <div class="ratio-interp" id="ratio-interp">Loading data...</div>
+        <div class="ratio-gauge-wrap">
+          <div class="ratio-bar-bg">
+            <div class="ratio-indicator" id="ratio-indicator" style="left:50%"></div>
+          </div>
+          <div class="ratio-labels">
+            <span>40 (Silver pricey)</span>
+            <span>80</span>
+            <span>120 (Silver cheap)</span>
+          </div>
+        </div>
+        <div class="tool-result">
+          <div class="tool-result-row"><span class="label">Current Ratio</span><span class="value" id="t-ratio-cur">—</span></div>
+          <div class="tool-result-row"><span class="label">Historical Avg</span><span class="value">~47</span></div>
+          <div class="tool-result-row"><span class="label">Silver at Avg Ratio</span><span class="value" id="t-ratio-avg">—</span></div>
+          <div class="tool-result-row"><span class="label">Silver at 1:16 (classic)</span><span class="value" id="t-ratio-16">—</span></div>
+        </div>
+      </div>
+
+      <!-- UNIT CONVERTER -->
+      <div class="tool-card">
+        <div class="tool-title"><span>🔄</span> Oz Unit Converter</div>
+        <div class="form-row" style="margin-bottom:0">
+          <div class="form-group">
+            <label class="form-label">Amount</label>
+            <input class="form-input" id="conv-amt" type="number" step="any" min="0" placeholder="1" oninput="runConverter()" />
+          </div>
+          <div class="form-group" style="max-width:150px">
+            <label class="form-label">Unit</label>
+            <select class="form-select" id="conv-unit" onchange="runConverter()">
+              <option value="ozt">Troy Oz (ozt)</option>
+              <option value="g">Grams (g)</option>
+              <option value="kg">Kilograms (kg)</option>
+              <option value="lb">Pounds (lb)</option>
+            </select>
+          </div>
+        </div>
+        <div class="tool-result" id="conv-result">
+          <div class="tool-result-row"><span class="label">Troy Ounces</span><span class="value" id="conv-ozt">—</span></div>
+          <div class="tool-result-row"><span class="label">Grams</span><span class="value" id="conv-g">—</span></div>
+          <div class="tool-result-row"><span class="label">Kilograms</span><span class="value" id="conv-kg">—</span></div>
+          <div class="tool-result-row"><span class="label">Pounds</span><span class="value" id="conv-lb">—</span></div>
+          <div class="tool-result-row" style="margin-top:8px;padding-top:8px;border-top:1px solid var(--border)">
+            <span class="label">USD Value (spot)</span><span class="value" id="conv-usd">—</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- MILESTONES -->
+      <div class="tool-card">
+        <div class="tool-title"><span>🏆</span> Silver Price Milestones</div>
+        <table class="milestones-table" id="milestones-table">
+          <tr><td>Current Spot</td><td id="ms-spot">—</td></tr>
+          <tr><td>52-Week High</td><td id="ms-high">—</td></tr>
+          <tr><td>52-Week Low</td><td id="ms-low">—</td></tr>
+          <tr><td>All-Time High (Apr 2011)</td><td>$49.82</td></tr>
+          <tr><td>10-Year Avg (est.)</td><td>~$20.00</td></tr>
+          <tr><td>Silver at GSR 47 (hist.)</td><td id="ms-gsr47">—</td></tr>
+          <tr><td>Silver at 1:16 Gold Ratio</td><td id="ms-1to16">—</td></tr>
+        </table>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<!-- TOAST AREA -->
+<div class="toast-area" id="toast-area"></div>
+
+<script>
+// ══════════════════════════════════════════════════
+//  STATE
+// ══════════════════════════════════════════════════
+const SYMBOLS = ['SI=F','GC=F','PL=F','PA=F','HG=F','SLV','PSLV','SIVR','WPM','PAAS','AG','HL','CDE','FSM','MAG','SILV'];
+let quoteCache = {};
+let silverChart = null;
+let pieChart = null;
+let portfolio = JSON.parse(localStorage.getItem('temporelli_portfolio') || '[]');
+let allArticles = [];
+let activeNewsFilter = 'all';
+let refreshTimer = null;
+
+const METAL_DEFS = [
+  { sym:'SI=F',  label:'Silver Spot', name:'Ag · Troy Oz',    badge:'badge-silver', cls:'highlight-silver' },
+  { sym:'GC=F',  label:'Gold Spot',   name:'Au · Troy Oz',    badge:'badge-gold',   cls:'highlight-gold' },
+  { sym:'GSR',   label:'Gold/Silver Ratio', name:'oz Gold per oz Silver', badge:'badge-gold', cls:'' },
+  { sym:'PL=F',  label:'Platinum',    name:'Pt · Troy Oz',    badge:'',             cls:'' },
+  { sym:'PA=F',  label:'Palladium',   name:'Pd · Troy Oz',    badge:'',             cls:'' },
+  { sym:'HG=F',  label:'Copper',      name:'HG · $/lb (×100)', badge:'',            cls:'' },
+];
+const ETF_DEFS = [
+  { sym:'SLV',  name:'iShares Silver Trust',      badge:'badge-etf' },
+  { sym:'PSLV', name:'Sprott Physical Silver',    badge:'badge-etf' },
+  { sym:'SIVR', name:'Aberdeen Silver ETF',       badge:'badge-etf' },
+];
+const MINING_DEFS = [
+  { sym:'WPM',  name:'Wheaton Precious Metals',   badge:'badge-mining' },
+  { sym:'PAAS', name:'Pan American Silver',       badge:'badge-mining' },
+  { sym:'AG',   name:'First Majestic Silver',     badge:'badge-mining' },
+  { sym:'HL',   name:'Hecla Mining',              badge:'badge-mining' },
+  { sym:'CDE',  name:'Coeur Mining',              badge:'badge-mining' },
+  { sym:'FSM',  name:'Fortuna Silver Mines',      badge:'badge-mining' },
+  { sym:'MAG',  name:'MAG Silver Corp',           badge:'badge-mining' },
+  { sym:'SILV', name:'SilverCrest Metals',        badge:'badge-mining' },
+];
+
+// ══════════════════════════════════════════════════
+//  UTILITIES
+// ══════════════════════════════════════════════════
+function fmt(n, dec=2) {
+  if (n==null || isNaN(n)) return '—';
+  return n.toLocaleString('en-US', {minimumFractionDigits:dec, maximumFractionDigits:dec});
+}
+function fmtUSD(n, dec=2) {
+  if (n==null || isNaN(n)) return '—';
+  return '$' + fmt(n, dec);
+}
+function fmtChg(chg, pct) {
+  if (chg==null) return '<span class="neu">—</span>';
+  const cls = chg>=0 ? 'pos' : 'neg';
+  const sign = chg>=0 ? '+' : '';
+  return `<span class="${cls}">${sign}${fmt(chg)} (${sign}${fmt(pct)}%)</span>`;
+}
+function clsChg(v) { return v>0?'pos':v<0?'neg':'neu'; }
+
+function showToast(msg, type='info') {
+  const area = document.getElementById('toast-area');
+  const t = document.createElement('div');
+  t.className = 'toast ' + type;
+  t.textContent = msg;
+  area.appendChild(t);
+  setTimeout(() => { t.style.opacity='0'; t.style.transform='translateY(10px)'; t.style.transition='0.3s'; setTimeout(()=>t.remove(),300); }, 3500);
+}
+
+function switchTab(name) {
+  document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('tab-' + name).classList.add('active');
+  event.target.classList.add('active');
+  if (name === 'portfolio') renderPortfolio();
+  if (name === 'tools') updateTools();
+}
+
+// ══════════════════════════════════════════════════
+//  DATA FETCHING
+// ══════════════════════════════════════════════════
+async function fetchQuotes(symbols) {
+  const url = `https://query1.finance.yahoo.com/v7/finance/quote?symbols=${symbols.join(',')}`;
+  const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+  const resp = await fetch(proxyUrl, {signal: AbortSignal.timeout(15000)});
+  if (!resp.ok) throw new Error('Proxy HTTP ' + resp.status);
+  const data = await resp.json();
+  const parsed = JSON.parse(data.contents);
+  return parsed.quoteResponse.result;
+}
+
+async function fetchChartData(symbol, range='1mo') {
+  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${symbol}?interval=1d&range=${range}`;
+  const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+  const resp = await fetch(proxyUrl, {signal: AbortSignal.timeout(15000)});
+  if (!resp.ok) throw new Error('Chart HTTP ' + resp.status);
+  const data = await resp.json();
+  return JSON.parse(data.contents).chart.result[0];
+}
+
+async function fetchNews() {
+  const feeds = [
+    'https://www.kitco.com/rss/kitco-news.rss',
+    'https://www.mining.com/feed/'
+  ];
+  const results = [];
+  for (const feed of feeds) {
+    try {
+      const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feed)}&count=20`;
+      const resp = await fetch(apiUrl, {signal: AbortSignal.timeout(12000)});
+      const data = await resp.json();
+      if (data.status === 'ok' && data.items) {
+        const source = data.feed.title || 'News';
+        data.items.forEach(item => results.push({...item, source}));
+      }
+    } catch(e) { console.warn('Feed failed:', feed, e); }
+  }
+  results.sort((a,b) => new Date(b.pubDate) - new Date(a.pubDate));
+  return results.slice(0, 30);
+}
+
+// ══════════════════════════════════════════════════
+//  RENDER QUOTES
+// ══════════════════════════════════════════════════
+function renderMetals(quotes) {
+  const bySymbol = {};
+  quotes.forEach(q => bySymbol[q.symbol] = q);
+  const ag = bySymbol['SI=F'];
+  const au = bySymbol['GC=F'];
+  const grid = document.getElementById('metals-grid');
+  let html = '';
+
+  METAL_DEFS.forEach(def => {
+    if (def.sym === 'GSR') {
+      const gsr = (au && ag) ? au.regularMarketPrice / ag.regularMarketPrice : null;
+      const gsrOld = (au && ag) ? (au.regularMarketPrice - au.regularMarketChange) / (ag.regularMarketPrice - ag.regularMarketChange) : null;
+      const gsrChg = (gsr && gsrOld) ? gsr - gsrOld : null;
+      const high = gsr > 80;
+      const low = gsr < 50;
+      const note = high ? '<small style="color:var(--gold);display:block;margin-top:4px;font-size:0.7rem">⚡ &gt;80: Silver historically cheap</small>'
+                 : low  ? '<small style="color:var(--green);display:block;margin-top:4px;font-size:0.7rem">Silver historically expensive</small>'
+                 : '<small style="color:var(--text2);display:block;margin-top:4px;font-size:0.7rem">Near historical range</small>';
+      html += `<div class="card ${def.cls}${high?' pulse-warning':''}">
+        <div class="card-symbol">${def.label}</div>
+        <div class="card-name">${def.name}</div>
+        <div class="card-price">${gsr ? fmt(gsr,1) : '—'}</div>
+        <div class="card-change">${gsrChg!=null ? fmtChg(gsrChg, (gsrChg/gsrOld)*100) : '<span class="neu">—</span>'}</div>
+        ${note}
+      </div>`;
+    } else {
+      const q = bySymbol[def.sym];
+      let price = q ? q.regularMarketPrice : null;
+      let chg = q ? q.regularMarketChange : null;
+      let pct = q ? q.regularMarketChangePercent : null;
+      // Copper is in cents/lb from futures, convert: HG=F is USD/lb * 100 = cents; actually HG=F is $/lb × 100 = ¢
+      // Actually SI=F is $/oz, HG=F is $/lb (already USD)
+      html += `<div class="card ${def.cls}">
+        ${def.badge ? `<span class="card-badge ${def.badge}">${def.label}</span>` : ''}
+        <div class="card-symbol">${def.sym}</div>
+        <div class="card-name">${def.name}</div>
+        <div class="card-price">${price!=null ? '$'+fmt(price) : '—'}</div>
+        <div class="card-change">${fmtChg(chg, pct)}</div>
+      </div>`;
+    }
+  });
+  grid.innerHTML = html;
+}
+
+function renderETFs(quotes) {
+  const bySymbol = {};
+  quotes.forEach(q => bySymbol[q.symbol] = q);
+  const grid = document.getElementById('etfs-grid');
+  let html = '';
+  ETF_DEFS.forEach(def => {
+    const q = bySymbol[def.sym];
+    const price = q ? q.regularMarketPrice : null;
+    const chg = q ? q.regularMarketChange : null;
+    const pct = q ? q.regularMarketChangePercent : null;
+    html += `<div class="card">
+      <span class="card-badge ${def.badge}">ETF</span>
+      <div class="card-symbol">${def.sym}</div>
+      <div class="card-name">${def.name}</div>
+      <div class="card-price">${price!=null ? '$'+fmt(price) : '—'}</div>
+      <div class="card-change">${fmtChg(chg, pct)}</div>
+    </div>`;
+  });
+  grid.innerHTML = html;
+}
+
+function renderMining(quotes) {
+  const bySymbol = {};
+  quotes.forEach(q => bySymbol[q.symbol] = q);
+  const grid = document.getElementById('mining-grid');
+  let html = '';
+  MINING_DEFS.forEach(def => {
+    const q = bySymbol[def.sym];
+    const price = q ? q.regularMarketPrice : null;
+    const chg = q ? q.regularMarketChange : null;
+    const pct = q ? q.regularMarketChangePercent : null;
+    html += `<div class="card">
+      <span class="card-badge ${def.badge}">Mining</span>
+      <div class="card-symbol">${def.sym}</div>
+      <div class="card-name">${def.name}</div>
+      <div class="card-price">${price!=null ? '$'+fmt(price) : '—'}</div>
+      <div class="card-change">${fmtChg(chg, pct)}</div>
+    </div>`;
+  });
+  grid.innerHTML = html;
+}
+
+function updateHeader(quotes) {
+  const q = quotes.find(x => x.symbol === 'SI=F');
+  if (!q) return;
+  const el = document.getElementById('hdr-price');
+  el.textContent = '$' + fmt(q.regularMarketPrice);
+  el.classList.remove('shimmer');
+  void el.offsetWidth;
+  el.classList.add('shimmer');
+  const chgEl = document.getElementById('hdr-change');
+  const sign = q.regularMarketChange >= 0 ? '+' : '';
+  chgEl.innerHTML = `<span class="${clsChg(q.regularMarketChange)}">${sign}${fmt(q.regularMarketChange)} (${sign}${fmt(q.regularMarketChangePercent)}%)</span>`;
+}
+
+function updateTicker(quotes) {
+  const track = document.getElementById('ticker-track');
+  let items = '';
+  const order = ['SI=F','GC=F','PL=F','PA=F','HG=F','SLV','PSLV','SIVR','WPM','PAAS','AG','HL','CDE','FSM','MAG','SILV'];
+  order.forEach(sym => {
+    const q = quotes.find(x => x.symbol === sym);
+    if (!q) return;
+    const sign = q.regularMarketChange >= 0 ? '+' : '';
+    const cls = clsChg(q.regularMarketChange);
+    const lbl = sym.replace('=F','');
+    items += `<div class="ticker-item">
+      <span class="ticker-sym">${lbl}</span>
+      <span class="ticker-price">$${fmt(q.regularMarketPrice)}</span>
+      <span class="ticker-chg ${cls}">${sign}${fmt(q.regularMarketChangePercent)}%</span>
+    </div>`;
+  });
+  // Duplicate for seamless loop
+  track.innerHTML = items + items;
+}
+
+// ══════════════════════════════════════════════════
+//  CHART
+// ══════════════════════════════════════════════════
+let currentRange = '1mo';
+let currentRangeBtn = null;
+
+async function loadChart(range, btn) {
+  currentRange = range;
+  if (currentRangeBtn) currentRangeBtn.classList.remove('active');
+  if (btn) { btn.classList.add('active'); currentRangeBtn = btn; }
+  try {
+    const result = await fetchChartData('SI=F', range);
+    const timestamps = result.timestamp;
+    const closes = result.indicators.quote[0].close;
+    const labels = timestamps.map(ts => {
+      const d = new Date(ts * 1000);
+      return d.toLocaleDateString('en-US', {month:'short', day:'numeric', year: range==='5y'?'2-digit':undefined});
+    });
+    const prices = closes.map((p,i) => ({x: labels[i], y: p ? parseFloat(p.toFixed(4)) : null}));
+    const validPrices = prices.filter(p=>p.y!=null).map(p=>p.y);
+    const minP = Math.min(...validPrices) * 0.995;
+    const maxP = Math.max(...validPrices) * 1.005;
+    const isUp = validPrices[validPrices.length-1] >= validPrices[0];
+    const lineColor = isUp ? '#00cc88' : '#ff4757';
+    const fillColor = isUp ? 'rgba(0,204,136,0.08)' : 'rgba(255,71,87,0.08)';
+
+    const ctx = document.getElementById('silver-chart').getContext('2d');
+    if (silverChart) silverChart.destroy();
+    silverChart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels,
+        datasets: [{
+          label: 'Silver ($/oz)',
+          data: prices.map(p=>p.y),
+          borderColor: lineColor,
+          backgroundColor: fillColor,
+          borderWidth: 2,
+          pointRadius: 0,
+          pointHoverRadius: 4,
+          fill: true,
+          tension: 0.3,
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        interaction: { mode: 'index', intersect: false },
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            backgroundColor: '#13132a',
+            borderColor: '#2a2a4a',
+            borderWidth: 1,
+            titleColor: '#888899',
+            bodyColor: '#e8e8f0',
+            callbacks: {
+              label: ctx => ' $' + fmt(ctx.raw)
+            }
+          }
+        },
+        scales: {
+          x: {
+            ticks: { color: '#888899', maxTicksLimit: 8, font:{size:11} },
+            grid: { color: 'rgba(42,42,74,0.6)' }
+          },
+          y: {
+            ticks: { color: '#888899', font:{size:11}, callback: v => '$' + fmt(v) },
+            grid: { color: 'rgba(42,42,74,0.6)' },
+            min: minP,
+            max: maxP
+          }
+        }
+      }
+    });
+  } catch(e) {
+    console.error('Chart error', e);
+    document.querySelector('.chart-wrap').innerHTML = '<div class="loading-overlay">Could not load chart data — click Refresh to retry</div>';
+  }
+}
+
+// ══════════════════════════════════════════════════
+//  NEWS
+// ══════════════════════════════════════════════════
+function renderNews(articles, filter='all') {
+  const grid = document.getElementById('news-grid');
+  let filtered = articles;
+  if (filter !== 'all') {
+    filtered = articles.filter(a => {
+      const txt = ((a.title||'') + ' ' + (a.description||'')).toLowerCase();
+      if (filter === 'silver') return txt.includes('silver');
+      if (filter === 'gold') return txt.includes('gold');
+      if (filter === 'mining') return txt.includes('mining') || txt.includes('mine') || txt.includes('miner');
+      return true;
+    });
+  }
+  if (!filtered.length) {
+    grid.innerHTML = '<div style="grid-column:1/-1;text-align:center;padding:48px;color:var(--text2)">No articles found for this filter.</div>';
+    return;
+  }
+  let html = '';
+  filtered.slice(0, 20).forEach(a => {
+    const img = (a.thumbnail && a.thumbnail.length > 10) ? `<img class="news-img" src="${a.thumbnail}" onerror="this.parentNode.innerHTML='<div class=news-img-placeholder>📰</div>'" loading="lazy" alt="">` : `<div class="news-img-placeholder">📰</div>`;
+    const date = a.pubDate ? new Date(a.pubDate).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}) : '';
+    const snippet = (a.description || '').replace(/<[^>]*>/g,'').slice(0,140);
+    html += `<div class="news-card">
+      ${img}
+      <div class="news-body">
+        <div class="news-meta">
+          <span class="news-source">${a.source || 'News'}</span>
+          <span class="news-date">${date}</span>
+        </div>
+        <a class="news-headline" href="${a.link||'#'}" target="_blank" rel="noopener">${a.title||'Untitled'}</a>
+        <div class="news-snippet">${snippet}${snippet.length>=140?'…':''}</div>
+      </div>
+    </div>`;
+  });
+  grid.innerHTML = html;
+}
+
+function filterNews(f, btn) {
+  activeNewsFilter = f;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  renderNews(allArticles, f);
+}
+
+// ══════════════════════════════════════════════════
+//  PORTFOLIO
+// ══════════════════════════════════════════════════
+function savePortfolio() {
+  localStorage.setItem('temporelli_portfolio', JSON.stringify(portfolio));
+}
+
+function addHolding() {
+  const type = document.getElementById('h-type').value;
+  const symbol = document.getElementById('h-symbol').value.trim().toUpperCase();
+  const qty = parseFloat(document.getElementById('h-qty').value);
+  const cost = parseFloat(document.getElementById('h-cost').value);
+  if (!symbol || isNaN(qty) || qty <= 0 || isNaN(cost) || cost < 0) {
+    showToast('Please fill in all fields correctly.', 'error');
+    return;
+  }
+  portfolio.push({ id: Date.now(), type, symbol, qty, cost });
+  savePortfolio();
+  renderPortfolio();
+  document.getElementById('h-symbol').value = '';
+  document.getElementById('h-qty').value = '';
+  document.getElementById('h-cost').value = '';
+  showToast('Holding added!', 'success');
+}
+
+function deleteHolding(id) {
+  portfolio = portfolio.filter(h => h.id !== id);
+  savePortfolio();
+  renderPortfolio();
+}
+
+function getCurrentPrice(holding) {
+  const sym = holding.symbol;
+  // Check cache
+  if (quoteCache[sym]) return quoteCache[sym].regularMarketPrice;
+  if (holding.type === 'physical_silver') return quoteCache['SI=F'] ? quoteCache['SI=F'].regularMarketPrice : null;
+  if (holding.type === 'physical_gold') return quoteCache['GC=F'] ? quoteCache['GC=F'].regularMarketPrice : null;
+  return null;
+}
+
+function renderPortfolio() {
+  const empty = document.getElementById('empty-portfolio');
+  const table = document.getElementById('holdings-table');
+  const tbody = document.getElementById('holdings-body');
+  const footer = document.getElementById('portfolio-footer');
+
+  if (!portfolio.length) {
+    empty.style.display = '';
+    table.style.display = 'none';
+    footer.style.display = 'none';
+    renderPie([]);
+    return;
+  }
+  empty.style.display = 'none';
+  table.style.display = '';
+  footer.style.display = '';
+
+  let totalCost = 0, totalValue = 0;
+  let rows = '';
+  const pieData = [];
+
+  portfolio.forEach(h => {
+    const curPrice = getCurrentPrice(h);
+    const costBasis = h.qty * h.cost;
+    const curValue = curPrice != null ? h.qty * curPrice : null;
+    const pnl = curValue != null ? curValue - costBasis : null;
+    const pnlPct = (pnl != null && costBasis > 0) ? (pnl / costBasis) * 100 : null;
+    totalCost += costBasis;
+    if (curValue != null) totalValue += curValue;
+    const pnlCls = pnl != null ? clsChg(pnl) : 'neu';
+    const typeLbl = {physical_silver:'Physical Ag',physical_gold:'Physical Au',etf:'ETF',stock:'Stock'}[h.type] || h.type;
+    pieData.push({ label: h.symbol, value: curValue || costBasis });
+    rows += `<tr>
+      <td><div style="font-weight:600">${h.symbol}</div><div style="font-size:0.7rem;color:var(--text2)">${typeLbl}</div></td>
+      <td>${fmt(h.qty, h.qty % 1 === 0 ? 0 : 4)}</td>
+      <td>${fmtUSD(h.cost)}</td>
+      <td>${curPrice != null ? fmtUSD(curPrice) : '<span style="color:var(--text2)">—</span>'}</td>
+      <td>${curValue != null ? fmtUSD(curValue) : '<span style="color:var(--text2)">—</span>'}</td>
+      <td class="${pnlCls}">${pnl != null ? (pnl>=0?'+':'') + fmtUSD(pnl) : '—'}</td>
+      <td class="${pnlCls}">${pnlPct != null ? (pnlPct>=0?'+':'') + fmt(pnlPct) + '%' : '—'}</td>
+      <td><button class="delete-btn" onclick="deleteHolding(${h.id})">✕</button></td>
+    </tr>`;
+  });
+
+  tbody.innerHTML = rows;
+  const totalPnl = totalValue - totalCost;
+  const pnlCls = clsChg(totalPnl);
+  document.getElementById('pf-cost').textContent = fmtUSD(totalCost);
+  document.getElementById('pf-value').textContent = fmtUSD(totalValue);
+  document.getElementById('pf-pnl').innerHTML = `<span class="${pnlCls}">${totalPnl>=0?'+':''}${fmtUSD(totalPnl)}</span>`;
+  renderPie(pieData);
+}
+
+function renderPie(data) {
+  const canvas = document.getElementById('pie-chart');
+  const ctx = canvas.getContext('2d');
+  if (pieChart) { pieChart.destroy(); pieChart = null; }
+  if (!data.length) { ctx.clearRect(0,0,canvas.width,canvas.height); return; }
+  const colors = ['#7b68ee','#00cc88','#d4af37','#ff4757','#c8c8d4','#ff9f43','#54a0ff','#5f27cd'];
+  pieChart = new Chart(ctx, {
+    type: 'doughnut',
+    data: {
+      labels: data.map(d=>d.label),
+      datasets: [{
+        data: data.map(d=>d.value),
+        backgroundColor: colors.slice(0, data.length),
+        borderColor: '#0a0a14',
+        borderWidth: 3,
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          position: 'bottom',
+          labels: { color: '#888899', font:{size:11}, padding: 10, boxWidth: 12 }
+        },
+        tooltip: {
+          backgroundColor: '#13132a',
+          borderColor: '#2a2a4a',
+          borderWidth: 1,
+          callbacks: {
+            label: ctx => ' ' + ctx.label + ': $' + fmt(ctx.raw)
+          }
+        }
+      }
+    }
+  });
+}
+
+// ══════════════════════════════════════════════════
+//  TOOLS
+// ══════════════════════════════════════════════════
+function updateTools() {
+  const ag = quoteCache['SI=F'];
+  const au = quoteCache['GC=F'];
+  const spot = ag ? ag.regularMarketPrice : null;
+  const goldPrice = au ? au.regularMarketPrice : null;
+
+  // Calculator
+  runCalc();
+
+  // Ratio
+  const gsr = (spot && goldPrice) ? goldPrice / spot : null;
+  const ratioEl = document.getElementById('tool-ratio');
+  const interpEl = document.getElementById('ratio-interp');
+  const indEl = document.getElementById('ratio-indicator');
+  ratioEl.textContent = gsr ? fmt(gsr, 1) : '—';
+  document.getElementById('t-ratio-cur').textContent = gsr ? fmt(gsr, 2) : '—';
+  document.getElementById('t-ratio-avg').textContent = goldPrice ? fmtUSD(goldPrice / 47) : '—';
+  document.getElementById('t-ratio-16').textContent = goldPrice ? fmtUSD(goldPrice / 16) : '—';
+  if (gsr) {
+    // gauge: 40 = 0%, 120 = 100%
+    const pct = Math.max(0, Math.min(100, ((gsr - 40) / 80) * 100));
+    indEl.style.left = pct + '%';
+    if (gsr > 80) interpEl.innerHTML = `<strong style="color:var(--gold)">High Ratio (${fmt(gsr,1)})</strong><br>Silver is historically <em>cheap</em> vs gold. This ratio suggests buying silver may be advantageous.`;
+    else if (gsr < 50) interpEl.innerHTML = `<strong style="color:var(--green)">Low Ratio (${fmt(gsr,1)})</strong><br>Silver is historically <em>expensive</em> vs gold. Consider taking profits or rotating to gold.`;
+    else interpEl.innerHTML = `Ratio of <strong>${fmt(gsr,1)}</strong> is within normal historical range (47–80).<br>Historical average: ~47`;
+  }
+
+  // Milestones
+  document.getElementById('ms-spot').textContent = spot ? fmtUSD(spot) : '—';
+  document.getElementById('ms-high').textContent = ag && ag.fiftyTwoWeekHigh ? fmtUSD(ag.fiftyTwoWeekHigh) : '—';
+  document.getElementById('ms-low').textContent = ag && ag.fiftyTwoWeekLow ? fmtUSD(ag.fiftyTwoWeekLow) : '—';
+  document.getElementById('ms-gsr47').textContent = goldPrice ? fmtUSD(goldPrice / 47) : '—';
+  document.getElementById('ms-1to16').textContent = goldPrice ? fmtUSD(goldPrice / 16) : '—';
+
+  // Converter
+  runConverter();
+}
+
+function runCalc() {
+  const oz = parseFloat(document.getElementById('calc-oz').value);
+  const ag = quoteCache['SI=F'];
+  const spot = ag ? ag.regularMarketPrice : null;
+  if (!spot) { ['calc-spot','calc-up10','calc-dn10','calc-10k','calc-50k','calc-100k'].forEach(id => document.getElementById(id).textContent = 'Loading…'); return; }
+  if (!isNaN(oz) && oz > 0) {
+    document.getElementById('calc-spot').textContent = fmtUSD(oz * spot);
+    document.getElementById('calc-up10').textContent = fmtUSD(oz * spot * 1.1);
+    document.getElementById('calc-dn10').textContent = fmtUSD(oz * spot * 0.9);
+  } else {
+    document.getElementById('calc-spot').textContent = '—';
+    document.getElementById('calc-up10').textContent = '—';
+    document.getElementById('calc-dn10').textContent = '—';
+  }
+  document.getElementById('calc-10k').textContent = fmt(10000/spot, 2) + ' oz';
+  document.getElementById('calc-50k').textContent = fmt(50000/spot, 2) + ' oz';
+  document.getElementById('calc-100k').textContent = fmt(100000/spot, 2) + ' oz';
+}
+
+function runConverter() {
+  const amt = parseFloat(document.getElementById('conv-amt').value);
+  const unit = document.getElementById('conv-unit').value;
+  const ag = quoteCache['SI=F'];
+  const spot = ag ? ag.regularMarketPrice : null;
+  if (isNaN(amt) || amt <= 0) {
+    ['conv-ozt','conv-g','conv-kg','conv-lb','conv-usd'].forEach(id => document.getElementById(id).textContent = '—');
+    return;
+  }
+  // Convert to troy oz
+  const toOzt = { ozt:1, g:0.0321507, kg:32.1507, lb:14.5833 };
+  const ozt = amt * toOzt[unit];
+  document.getElementById('conv-ozt').textContent = fmt(ozt, 4) + ' ozt';
+  document.getElementById('conv-g').textContent = fmt(ozt / 0.0321507, 3) + ' g';
+  document.getElementById('conv-kg').textContent = fmt(ozt / 32.1507, 4) + ' kg';
+  document.getElementById('conv-lb').textContent = fmt(ozt / 14.5833, 4) + ' lb';
+  document.getElementById('conv-usd').textContent = spot ? fmtUSD(ozt * spot) : '—';
+}
+
+// ══════════════════════════════════════════════════
+//  MAIN REFRESH
+// ══════════════════════════════════════════════════
+async function refreshAll() {
+  const btn = document.getElementById('refresh-btn');
+  btn.classList.add('spinning');
+  document.getElementById('last-updated').textContent = 'Loading…';
+  try {
+    const quotes = await fetchQuotes(SYMBOLS);
+    quoteCache = {};
+    quotes.forEach(q => { quoteCache[q.symbol] = q; });
+    updateHeader(quotes);
+    updateTicker(quotes);
+    renderMetals(quotes);
+    renderETFs(quotes);
+    renderMining(quotes);
+    renderPortfolio();
+    updateTools();
+    const now = new Date();
+    document.getElementById('last-updated').textContent = 'Updated ' + now.toLocaleTimeString('en-US', {hour:'2-digit',minute:'2-digit',second:'2-digit'});
+  } catch(e) {
+    console.error('Refresh error', e);
+    showToast('Could not load data — click Refresh to retry', 'error');
+    document.getElementById('last-updated').textContent = 'Error loading data';
+  } finally {
+    btn.classList.remove('spinning');
+  }
+}
+
+async function loadNewsTab() {
+  const grid = document.getElementById('news-grid');
+  grid.innerHTML = '<div class="news-skeleton skeleton"></div>'.repeat(6);
+  try {
+    allArticles = await fetchNews();
+    renderNews(allArticles, activeNewsFilter);
+  } catch(e) {
+    grid.innerHTML = '<div style="grid-column:1/-1;text-align:center;padding:48px;color:var(--text2)">Could not load news — please try again later.</div>';
+  }
+}
+
+// ══════════════════════════════════════════════════
+//  INIT
+// ══════════════════════════════════════════════════
+(async function init() {
+  // Load quotes
+  await refreshAll();
+  // Load chart
+  const firstRangeBtn = document.querySelector('.range-btn.active');
+  currentRangeBtn = firstRangeBtn;
+  await loadChart('1mo', firstRangeBtn);
+  // Load news in background
+  loadNewsTab();
+  // Auto-refresh every 5 minutes
+  if (refreshTimer) clearInterval(refreshTimer);
+  refreshTimer = setInterval(refreshAll, 5 * 60 * 1000);
+})();
+</script>
+</body>
+</html>
