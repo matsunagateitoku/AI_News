@@ -128,6 +128,20 @@ STOPWORDS = {
 
     # Short tokens that pass the 3-char filter but are meaningless
     's', 'n', 't', 're', 've', 'll', 'd',
+
+    # Generic news-article words — frequent but carry no topic signal
+    'all', 'like', 'former', 'state', 'house', 'federal', 'city', 'live',
+    'key', 'set', 'deal', 'plan', 'head', 'face', 'amid', 'amid',
+    'could', 'would', 'said', 'says', 'told', 'tells', 'gets', 'got',
+    'takes', 'makes', 'comes', 'goes', 'puts', 'seen', 'know',
+    'after', 'before', 'when', 'that', 'with', 'from', 'have',
+    'this', 'they', 'been', 'were', 'what', 'their', 'will',
+    'back', 'more', 'just', 'over', 'out', 'about', 'into',
+    'new', 'has', 'his', 'her', 'its', 'the', 'and', 'for',
+    'being', 'every', 'each', 'both', 'whether', 'later', 'often',
+    'become', 'open', 'free', 'run', 'real', 'major', 'official',
+    'officials', 'white', 'public', 'national', 'amid', 'move',
+    'get', 'take', 'make', 'come', 'let', 'put',
 }
 
 
@@ -152,7 +166,7 @@ def scrape_feeds():
     return articles
 
 
-def word_frequency(articles, top_n=150):
+def word_frequency(articles, top_n=75):
     """
     Return [[word, count, url], ...] sorted by frequency.
     url is the first article the word appeared in.
