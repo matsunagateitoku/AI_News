@@ -884,10 +884,30 @@
         const wordUrls = {};
         data.forEach(([word, , url]) => { if (url) wordUrls[word.toLowerCase()] = url; });
 
-        const display = data.slice(0, 75);
-        const maxCount = Math.max(...display.map(([, c]) => c));
-        const minCount = Math.min(...display.map(([, c]) => c));
+        // Client-side noise filter (catches words that slip past the scraper stoplist)
+        const NOISE = new Set([
+            'all','like','former','state','house','federal','city','live','deal',
+            'whether','both','later','media','country','star','fashion','weekly',
+            'leave','hours','love','open','free','run','real','staff','latest',
+            'series','review','team','social','party','case','attack','politics',
+            'political','border','military','union','american','south','north',
+            'food','department','experts','officials','workers','everything',
+            'don','let','put','get','take','make','come','say','set','key',
+        ]);
+        const filtered = data.filter(([w]) => !NOISE.has(w.toLowerCase())).slice(0, 60);
+
+        const maxCount = Math.max(...filtered.map(([, c]) => c));
+        const minCount = Math.min(...filtered.map(([, c]) => c));
         const range = maxCount - minCount || 1;
+
+        // Seeded daily shuffle so layout is stable within a day but not a sorted list
+        let rng = new Date().toDateString().split('').reduce((a, c) => a + c.charCodeAt(0), 0);
+        const rand = () => { rng = (rng * 1664525 + 1013904223) >>> 0; return rng / 0xffffffff; };
+        const display = [...filtered];
+        for (let i = display.length - 1; i > 0; i--) {
+            const j = Math.floor(rand() * (i + 1));
+            [display[i], display[j]] = [display[j], display[i]];
+        }
 
         const words = display.map(([word, count]) => {
             const t = (count - minCount) / range;
