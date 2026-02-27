@@ -169,22 +169,29 @@ def word_frequency(articles, top_n=150):
     return [[w, c, word_url.get(w, '')] for w, c in counter.most_common(top_n)]
 
 
-def named_entities(articles, top_n=15):
+def named_entities(articles, top_n=10):
     """
     Extract named entities using spaCy, processing articles in batches.
     Returns dict of category → [{name, count, url, source}, ...].
+
+    After counting, partial-name variants are merged into their longest
+    canonical form before ranking.  E.g. 'Trump' and 'Donald Trump' both
+    seen in the corpus → all counts roll up into 'Donald Trump'.
+
+    Merge rule (per label bucket): for every pair (long, short) where
+    short's tokens are a prefix OR suffix of long's tokens, redirect
+    short → long and add its count.
     """
     print("  Loading spaCy model...")
     nlp = spacy.load("en_core_web_sm")
 
     LABELS = {"PERSON", "ORG", "GPE", "EVENT"}
-    buckets    = {lbl: Counter() for lbl in LABELS}
+    buckets     = {lbl: Counter() for lbl in LABELS}
     entity_meta = {}   # normalised name → {url, source} of first occurrence
 
     texts = [art['text'] for art in articles]
-    metas = articles
 
-    for doc, art in zip(nlp.pipe(texts, batch_size=50, disable=["parser"]), metas):
+    for doc, art in zip(nlp.pipe(texts, batch_size=50, disable=["parser"]), articles):
         for ent in doc.ents:
             if ent.label_ not in LABELS:
                 continue
@@ -194,6 +201,29 @@ def named_entities(articles, top_n=15):
             buckets[ent.label_][name] += 1
             if name not in entity_meta:
                 entity_meta[name] = {'url': art['url'], 'source': art['source']}
+
+    # ── Disambiguation: merge partial-name variants into canonical form ──
+    for label, counter in buckets.items():
+        # Longest names first → they become the canonical target
+        names = sorted(counter.keys(), key=len, reverse=True)
+        redirects = {}
+        for i, long_name in enumerate(names):
+            long_parts = long_name.lower().split()
+            for short_name in names[i + 1:]:
+                if short_name in redirects:
+                    continue
+                short_parts = short_name.lower().split()
+                if not short_parts:
+                    continue
+                m = len(short_parts)
+                # Accept if short_name is a leading or trailing token-sequence
+                # of long_name (e.g. "Trump" is suffix of "Donald Trump")
+                if m < len(long_parts) and (
+                    long_parts[:m] == short_parts or long_parts[-m:] == short_parts
+                ):
+                    redirects[short_name] = long_name
+        for short_name, canonical in redirects.items():
+            buckets[label][canonical] += buckets[label].pop(short_name, 0)
 
     return {
         label: [
