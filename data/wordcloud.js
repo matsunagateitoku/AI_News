@@ -2,18 +2,23 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    87,
-    "https://www.nytimes.com/2026/02/26/us/politics/trump-minneapolis-ice-immigration.html"
+    86,
+    "https://www.nytimes.com/2026/02/26/us/politics/trump-cuba-regime-change.html"
   ],
   [
     "state",
-    52,
+    49,
     "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
   ],
   [
     "president",
-    50,
+    45,
     "https://www.nytimes.com/2026/02/26/us/trump-investigations-miami-prosecutor.html"
+  ],
+  [
+    "epstein",
+    41,
+    "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
   ],
   [
     "all",
@@ -21,19 +26,19 @@
     "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
   ],
   [
-    "epstein",
-    35,
-    "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
+    "federal",
+    36,
+    "https://www.nytimes.com/2026/02/26/us/minnesota-judge-ice-immigration.html"
   ],
   [
     "city",
-    34,
+    35,
     "https://www.nytimes.com/2026/02/26/nyregion/mamdani-trump-meeting.html"
   ],
   [
     "house",
-    31,
-    "https://www.theguardian.com/world/2026/feb/26/trump-attack-threat-looms-as-nuclear-talks-between-us-and-iran-go-to-wire"
+    30,
+    "https://www.nytimes.com/2026/02/26/nyregion/mamdani-trump-photo-newspapers.html"
   ],
   [
     "like",
@@ -46,29 +51,29 @@
     "https://www.nytimes.com/2026/02/26/business/world-economic-forum-davos-epstein-brende.html"
   ],
   [
-    "war",
-    29,
-    "https://www.nytimes.com/2026/02/26/briefing/us-iran-talks-hillary-clinton-epstein.html"
-  ],
-  [
-    "social",
-    29,
-    "https://www.nytimes.com/2026/02/26/technology/social-media-addiction-testimony.html"
-  ],
-  [
     "iran",
-    27,
+    28,
     "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-talks.html"
   ],
   [
+    "social",
+    27,
+    "https://www.nytimes.com/2026/02/26/technology/social-media-addiction-testimony.html"
+  ],
+  [
     "media",
-    26,
+    25,
     "https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html"
   ],
   [
-    "federal",
-    26,
-    "https://www.nytimes.com/2026/02/26/us/minnesota-judge-ice-immigration.html"
+    "war",
+    25,
+    "https://www.nytimes.com/2026/02/26/briefing/us-iran-talks-hillary-clinton-epstein.html"
+  ],
+  [
+    "talks",
+    24,
+    "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-talks.html"
   ],
   [
     "star",
@@ -82,8 +87,13 @@
   ],
   [
     "york",
-    23,
+    22,
     "https://www.nytimes.com/2026/02/26/nyregion/mamdani-trump-meeting.html"
+  ],
+  [
+    "school",
+    22,
+    "https://www.nytimes.com/2026/02/26/us/los-angeles-school-board-meeting-superintendent-fbi-raid.html"
   ],
   [
     "winter",
@@ -96,27 +106,22 @@
     "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
   ],
   [
-    "latest",
-    20,
-    "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
-  ],
-  [
-    "meeting",
-    20,
-    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
-  ],
-  [
-    "talks",
-    20,
+    "deal",
+    21,
     "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-talks.html"
   ],
   [
-    "offer",
-    20,
-    "https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros"
+    "investigation",
+    21,
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
   ],
   [
-    "department",
+    "anthropic",
+    20,
+    "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html"
+  ],
+  [
+    "latest",
     19,
     "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
   ],
@@ -131,24 +136,14 @@
     "https://www.theguardian.com/us-news/2026/feb/26/salmon-dams-trump-admnistration-oregon-washington"
   ],
   [
-    "film",
-    19,
-    "https://www.theguardian.com/film/2026/feb/26/berlin-film-festival-director-tricia-tuttle-politics-germany-gaza"
-  ],
-  [
-    "tech",
+    "jeffrey",
     18,
     "https://www.nytimes.com/2026/02/26/business/jeffrey-epstein-joichi-ito-japan.html"
   ],
   [
-    "school",
+    "died",
     18,
-    "https://www.nytimes.com/2026/02/26/us/los-angeles-school-board-meeting-superintendent-fbi-raid.html"
-  ],
-  [
-    "deal",
-    18,
-    "https://www.nytimes.com/2026/02/26/briefing/us-iran-talks-hillary-clinton-epstein.html"
+    "https://www.nytimes.com/2026/02/26/us/jesse-jackson-chicago-repose-rainbow-push.html"
   ],
   [
     "country",
@@ -156,19 +151,24 @@
     "https://www.washingtonpost.com/immigration/2026/02/25/federal-judge-migrants-deportations-trump-ruling/"
   ],
   [
-    "health",
+    "offer",
     18,
-    "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump"
+    "https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros"
   ],
   [
-    "ice",
-    17,
-    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
+    "hours",
+    18,
+    "https://www.theguardian.com/us-news/2026/feb/26/columbia-student-detained-federal-agents"
   ],
   [
-    "anthropic",
+    "tech",
     17,
-    "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html"
+    "https://www.nytimes.com/2026/02/26/business/jeffrey-epstein-joichi-ito-japan.html"
+  ],
+  [
+    "military",
+    17,
+    "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-claims-nuclear-weapons.html"
   ],
   [
     "company",
@@ -176,19 +176,39 @@
     "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html"
   ],
   [
-    "white",
+    "video",
     17,
-    "https://www.theguardian.com/world/2026/feb/26/trump-attack-threat-looms-as-nuclear-talks-between-us-and-iran-go-to-wire"
+    "https://www.theguardian.com/sport/2026/feb/26/brady-tkachuk-decries-white-houses-ai-video-of-him-insulting-canadians-after-us-gold"
   ],
   [
-    "energy",
+    "something",
     17,
-    "https://www.theguardian.com/us-news/2026/feb/26/democrats-gas-exports-energy-prices"
+    "https://www.theguardian.com/us-news/2026/feb/26/brooklyn-bridge-nyc-cleanup"
   ],
   [
-    "warner",
+    "film",
+    17,
+    "https://www.theguardian.com/film/2026/feb/26/berlin-film-festival-director-tricia-tuttle-politics-germany-gaza"
+  ],
+  [
+    "department",
     16,
-    "https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html"
+    "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
+  ],
+  [
+    "files",
+    16,
+    "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
+  ],
+  [
+    "ice",
+    16,
+    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
+  ],
+  [
+    "white",
+    16,
+    "https://www.nytimes.com/2026/02/26/nyregion/mamdani-trump-photo-newspapers.html"
   ],
   [
     "nuclear",
@@ -196,39 +216,64 @@
     "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-talks.html"
   ],
   [
-    "security",
+    "pentagon",
     16,
-    "https://www.washingtonpost.com/immigration/2026/02/25/dhs-shooting-death-grand-jury-texas/"
+    "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html"
   ],
   [
-    "investigation",
+    "become",
     16,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+    "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
   ],
   [
-    "democrats",
+    "border",
     16,
-    "https://www.theguardian.com/us-news/2026/feb/26/trump-epstein-files-fbi"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "something",
+    "american",
     16,
-    "https://www.theguardian.com/us-news/2026/feb/26/brooklyn-bridge-nyc-cleanup"
+    "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine"
   ],
   [
-    "netflix",
+    "california",
+    16,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/feb/26/benicia-california-oil-refinery"
+  ],
+  [
+    "health",
+    16,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/feb/26/benicia-california-oil-refinery"
+  ],
+  [
+    "energy",
+    16,
+    "https://www.theguardian.com/us-news/2026/feb/26/democrats-gas-exports-energy-prices"
+  ],
+  [
+    "police",
+    16,
+    "https://www.theguardian.com/australia-news/2026/feb/27/celine-cremer-human-remains-identified-tasmania"
+  ],
+  [
+    "administration",
+    15,
+    "https://www.nytimes.com/2026/02/26/us/politics/trump-cuba-regime-change.html"
+  ],
+  [
+    "warner",
     15,
     "https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html"
   ],
   [
-    "bros",
+    "immigration",
     15,
-    "https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html"
+    "https://www.nytimes.com/2026/02/26/us/minnesota-judge-ice-immigration.html"
   ],
   [
-    "jeffrey",
+    "student",
     15,
-    "https://www.nytimes.com/2026/02/26/business/jeffrey-epstein-joichi-ito-japan.html"
+    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
   ],
   [
     "mamdani",
@@ -236,34 +281,14 @@
     "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
   ],
   [
-    "pentagon",
-    15,
-    "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html"
-  ],
-  [
-    "died",
-    15,
-    "https://www.nytimes.com/2026/02/26/us/jesse-jackson-chicago-repose-rainbow-push.html"
-  ],
-  [
     "case",
     15,
-    "https://www.nytimes.com/2026/02/26/technology/social-media-addiction-testimony.html"
+    "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-claims-nuclear-weapons.html"
   ],
   [
-    "public",
+    "texas",
     15,
-    "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
-  ],
-  [
-    "become",
-    15,
-    "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
-  ],
-  [
-    "military",
-    15,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.washingtonpost.com/immigration/2026/02/25/dhs-shooting-death-grand-jury-texas/"
   ],
   [
     "democratic",
@@ -271,69 +296,44 @@
     "https://www.theguardian.com/us-news/2026/feb/26/tabitha-arnold-tapestries-labor-movement"
   ],
   [
+    "hillary",
+    15,
+    "https://www.theguardian.com/us-news/2026/feb/26/clintons-testify-epstein-files-house"
+  ],
+  [
+    "clinton",
+    15,
+    "https://www.theguardian.com/us-news/2026/feb/26/clintons-testify-epstein-files-house"
+  ],
+  [
     "breaking",
     15,
-    "https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros"
-  ],
-  [
-    "hours",
-    15,
-    "https://www.theguardian.com/us-news/2026/feb/26/columbia-student-detained-federal-agents"
-  ],
-  [
-    "california",
-    15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/feb/26/benicia-california-oil-refinery"
-  ],
-  [
-    "files",
-    14,
-    "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
+    "https://www.theguardian.com/us-news/2026/feb/26/clintons-testify-epstein-files-house"
   ],
   [
     "government",
     14,
-    "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
-  ],
-  [
-    "administration",
-    14,
-    "https://www.nytimes.com/2026/02/26/us/politics/trump-minneapolis-ice-immigration.html"
-  ],
-  [
-    "columbia",
-    14,
-    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
-  ],
-  [
-    "student",
-    14,
-    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
-  ],
-  [
-    "university",
-    14,
-    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
-  ],
-  [
-    "boat",
-    14,
     "https://www.nytimes.com/2026/02/26/world/americas/cuba-gunfight-boat-miami.html"
   ],
   [
-    "texas",
+    "bros",
     14,
-    "https://www.washingtonpost.com/immigration/2026/02/25/dhs-shooting-death-grand-jury-texas/"
+    "https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html"
   ],
   [
-    "least",
+    "judge",
     14,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.nytimes.com/2026/02/26/us/minnesota-judge-ice-immigration.html"
   ],
   [
-    "border",
+    "meeting",
     14,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
+  ],
+  [
+    "actor",
+    14,
+    "https://www.theguardian.com/film/2026/feb/26/george-takei-ive-spent-two-minutes-longer-in-zero-gravity-than-shatner"
   ],
   [
     "review",
@@ -341,19 +341,24 @@
     "https://www.theguardian.com/us-news/2026/feb/26/trump-epstein-files-fbi"
   ],
   [
-    "documents",
+    "killed",
     14,
-    "https://www.theguardian.com/us-news/2026/feb/26/trump-epstein-files-fbi"
+    "https://www.theguardian.com/us-news/2026/feb/26/bird-flu-kills-elephant-seal-pups-california"
   ],
   [
-    "clinton",
-    14,
-    "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump"
+    "questions",
+    13,
+    "https://www.nytimes.com/2026/02/26/world/americas/cuba-gunfight-boat-miami.html"
   ],
   [
-    "video",
-    14,
-    "https://www.theguardian.com/sport/2026/feb/26/brady-tkachuk-decries-white-houses-ai-video-of-him-insulting-canadians-after-us-gold"
+    "boat",
+    13,
+    "https://www.nytimes.com/2026/02/26/world/americas/cuba-gunfight-boat-miami.html"
+  ],
+  [
+    "netflix",
+    13,
+    "https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html"
   ],
   [
     "paramount",
@@ -361,14 +366,9 @@
     "https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html"
   ],
   [
-    "release",
+    "sex",
     13,
-    "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
-  ],
-  [
-    "judge",
-    13,
-    "https://www.nytimes.com/2026/02/26/us/minnesota-judge-ice-immigration.html"
+    "https://www.nytimes.com/2026/02/26/business/world-economic-forum-davos-epstein-brende.html"
   ],
   [
     "court",
@@ -376,22 +376,42 @@
     "https://www.nytimes.com/2026/02/26/us/minnesota-judge-ice-immigration.html"
   ],
   [
+    "columbia",
+    13,
+    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
+  ],
+  [
+    "university",
+    13,
+    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
+  ],
+  [
     "whether",
     13,
     "https://www.nytimes.com/2026/02/26/business/mortgage-rates-30-year.html"
   ],
   [
-    "trial",
+    "district",
     13,
-    "https://www.nytimes.com/2026/02/26/technology/social-media-addiction-testimony.html"
+    "https://www.nytimes.com/2026/02/26/us/los-angeles-school-board-meeting-superintendent-fbi-raid.html"
+  ],
+  [
+    "security",
+    13,
+    "https://www.washingtonpost.com/education/2026/02/26/columbia-university-student-ice-arrest/"
+  ],
+  [
+    "fbi",
+    13,
+    "https://www.washingtonpost.com/nation/2026/02/25/fbi-search-los-angeles-schools/"
+  ],
+  [
+    "public",
+    13,
+    "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
   ],
   [
     "ukrainian",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine"
-  ],
-  [
-    "american",
     13,
     "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine"
   ],
@@ -411,19 +431,29 @@
     "https://www.theguardian.com/lifeandstyle/2026/feb/26/how-to-stop-picking-pimples"
   ],
   [
-    "actor",
+    "email",
     13,
-    "https://www.theguardian.com/film/2026/feb/26/george-takei-ive-spent-two-minutes-longer-in-zero-gravity-than-shatner"
-  ],
-  [
-    "hillary",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump"
+    "https://www.theguardian.com/us-news/2026/feb/26/clintons-testify-epstein-files-house"
   ],
   [
     "politics",
     13,
-    "https://www.theguardian.com/us-news/2026/feb/26/kristi-noem-ice-meeting-delia-ramirez"
+    "https://www.theguardian.com/us-news/2026/feb/26/trump-news-at-a-glance-briefing-latest-updates"
+  ],
+  [
+    "later",
+    13,
+    "https://www.theguardian.com/us-news/2026/feb/26/trump-news-at-a-glance-briefing-latest-updates"
+  ],
+  [
+    "place",
+    13,
+    "https://www.theguardian.com/us-news/2026/feb/26/trump-news-at-a-glance-briefing-latest-updates"
+  ],
+  [
+    "record",
+    13,
+    "https://www.theguardian.com/us-news/2026/feb/25/death-valley-wildflowers-superbloom"
   ],
   [
     "fashion",
@@ -431,7 +461,17 @@
     "https://www.theguardian.com/fashion/2026/feb/25/fast-breaking-fashion-ramadan-becomes-part-of-london-fashion-week"
   ],
   [
+    "senate",
+    13,
+    "https://www.latimes.com/environment/story/2026-02-23/san-francisco-lawmakers-announce-plan-to-break-up-with-pg-e"
+  ],
+  [
     "justice",
+    12,
+    "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
+  ],
+  [
+    "release",
     12,
     "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
   ],
@@ -441,14 +481,24 @@
     "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
   ],
   [
+    "fire",
+    12,
+    "https://www.nytimes.com/2026/02/26/us/politics/trump-minneapolis-ice-immigration.html"
+  ],
+  [
     "office",
     12,
     "https://www.nytimes.com/2026/02/26/us/trump-investigations-miami-prosecutor.html"
   ],
   [
-    "questions",
+    "donald",
     12,
-    "https://www.nytimes.com/2026/02/26/world/americas/cuba-gunfight-boat-miami.html"
+    "https://www.nytimes.com/2026/02/26/nyregion/mamdani-trump-photo-newspapers.html"
+  ],
+  [
+    "attack",
+    12,
+    "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-claims-nuclear-weapons.html"
   ],
   [
     "often",
@@ -456,14 +506,9 @@
     "https://www.nytimes.com/2026/02/26/nyregion/nyc-china-hometown-oklahoma-marijuana.html"
   ],
   [
-    "donald",
+    "nearly",
     12,
-    "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
-  ],
-  [
-    "union",
-    12,
-    "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
+    "https://www.washingtonpost.com/immigration/2026/02/25/dhs-shooting-death-grand-jury-texas/"
   ],
   [
     "gaza",
@@ -471,14 +516,9 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "step",
+    "official",
     12,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "early",
-    12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
     "secretary",
@@ -486,12 +526,12 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "ukraine",
+    "recent",
     12,
-    "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine"
+    "https://www.theguardian.com/us-news/2026/feb/26/tabitha-arnold-tapestries-labor-movement"
   ],
   [
-    "family",
+    "ukraine",
     12,
     "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine"
   ],
@@ -501,39 +541,24 @@
     "https://www.theguardian.com/lifeandstyle/2026/feb/26/how-to-stop-picking-pimples"
   ],
   [
-    "email",
+    "documents",
     12,
-    "https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros"
+    "https://www.theguardian.com/us-news/2026/feb/26/trump-epstein-files-fbi"
+  ],
+  [
+    "democrats",
+    12,
+    "https://www.theguardian.com/us-news/2026/feb/26/trump-epstein-files-fbi"
   ],
   [
     "republican",
     12,
-    "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump"
+    "https://www.theguardian.com/us-news/2026/feb/26/clintons-testify-epstein-files-house"
   ],
   [
-    "national",
+    "guide",
     12,
-    "https://www.theguardian.com/sport/2026/feb/26/brady-tkachuk-decries-white-houses-ai-video-of-him-insulting-canadians-after-us-gold"
-  ],
-  [
-    "law",
-    12,
-    "https://www.theguardian.com/us-news/2026/feb/26/kristi-noem-ice-meeting-delia-ramirez"
-  ],
-  [
-    "killed",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/feb/26/friend-killed-reporting-marie-colvin"
-  ],
-  [
-    "later",
-    12,
-    "https://www.theguardian.com/environment/2026/feb/26/wave-riders-surf-tourism-save-peru-ancient-reed-boat-fishing-culture"
-  ],
-  [
-    "police",
-    12,
-    "https://www.theguardian.com/australia-news/2026/feb/27/celine-cremer-human-remains-identified-tasmania"
+    "https://www.theguardian.com/books/2026/feb/26/the-unfragile-mind-by-gavin-francis-review-a-gps-guide-to-mental-health"
   ],
   [
     "pasta",
@@ -551,44 +576,44 @@
     "https://www.nytimes.com/2026/02/26/business/jeffrey-epstein-joichi-ito-japan.html"
   ],
   [
-    "sex",
+    "los",
     11,
-    "https://www.nytimes.com/2026/02/26/business/world-economic-forum-davos-epstein-brende.html"
+    "https://www.nytimes.com/2026/02/26/us/los-angeles-school-board-meeting-superintendent-fbi-raid.html"
   ],
   [
-    "immigration",
+    "angeles",
     11,
-    "https://www.nytimes.com/2026/02/26/us/minnesota-judge-ice-immigration.html"
+    "https://www.nytimes.com/2026/02/26/us/los-angeles-school-board-meeting-superintendent-fbi-raid.html"
   ],
   [
-    "details",
-    11,
-    "https://www.nytimes.com/2026/02/26/us/kilmar-abrego-garcia-justice-department-trump.html"
-  ],
-  [
-    "started",
+    "trial",
     11,
     "https://www.nytimes.com/2026/02/26/technology/social-media-addiction-testimony.html"
   ],
   [
-    "nearly",
+    "officer",
     11,
     "https://www.washingtonpost.com/immigration/2026/02/25/dhs-shooting-death-grand-jury-texas/"
   ],
   [
-    "began",
+    "largest",
     11,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "https://www.washingtonpost.com/nation/2026/02/25/fbi-search-los-angeles-schools/"
   ],
   [
-    "trump's",
+    "free",
     11,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
   ],
   [
     "team",
     11,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "drug",
+    11,
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
     "both",
@@ -606,9 +631,19 @@
     "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine"
   ],
   [
+    "family",
+    11,
+    "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine"
+  ],
+  [
     "feel",
     11,
     "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine"
+  ],
+  [
+    "live",
+    11,
+    "https://www.theguardian.com/film/2026/feb/26/george-takei-ive-spent-two-minutes-longer-in-zero-gravity-than-shatner"
   ],
   [
     "discovery",
@@ -616,9 +651,9 @@
     "https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros"
   ],
   [
-    "lawmakers",
+    "body",
     11,
-    "https://www.theguardian.com/us-news/2026/feb/26/kristi-noem-ice-meeting-delia-ramirez"
+    "https://www.theguardian.com/us-news/2026/feb/26/melania-trump-un-security-council"
   ],
   [
     "events",
@@ -631,17 +666,7 @@
     "https://www.theguardian.com/film/2026/feb/26/berlin-film-festival-director-tricia-tuttle-politics-germany-gaza"
   ],
   [
-    "league",
-    11,
-    "https://www.theguardian.com/sport/2026/feb/26/chicago-bears-hammond-indiana-stadium-soldier-field-move"
-  ],
-  [
     "money",
-    11,
-    "https://www.theguardian.com/football/2026/feb/26/fifa-world-cup-2026-european-football-associations-prize-money-costs-tax-exemptions"
-  ],
-  [
-    "record",
     11,
     "https://www.theguardian.com/football/2026/feb/26/fifa-world-cup-2026-european-football-associations-prize-money-costs-tax-exemptions"
   ],
@@ -649,6 +674,11 @@
     "buying",
     11,
     "https://www.theguardian.com/us-news/2026/feb/26/mortgage-rate-falls"
+  ],
+  [
+    "law",
+    11,
+    "https://www.theguardian.com/us-news/2026/feb/26/kansas-trans-drivers-license-law-assault-on-rights"
   ],
   [
     "dead",
@@ -666,24 +696,49 @@
     "https://www.theguardian.com/thefilter-us/2026/feb/16/best-winter-boots-men-us"
   ],
   [
-    "senate",
+    "charges",
     11,
-    "https://www.latimes.com/environment/story/2026-02-23/san-francisco-lawmakers-announce-plan-to-break-up-with-pg-e"
+    "https://www.latimes.com/california/story/2026-02-26/narco-terrorism-charges-filed-against-sinaloa-cartel-leaders"
+  ],
+  [
+    "cbs",
+    11,
+    "https://www.cbsnews.com/news/federal-reserve-seeking-to-quash-subpoenas-in-doj-investigation-source-says/"
   ],
   [
     "cuba",
     10,
+    "https://www.nytimes.com/2026/02/26/us/politics/trump-cuba-regime-change.html"
+  ],
+  [
+    "cuban",
+    10,
     "https://www.nytimes.com/2026/02/26/world/americas/cuba-gunfight-boat-miami.html"
   ],
   [
-    "instead",
+    "enforcement",
     10,
-    "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html"
+    "https://www.nytimes.com/2026/02/26/us/minnesota-judge-ice-immigration.html"
   ],
   [
-    "board",
+    "leaders",
+    10,
+    "https://www.nytimes.com/2026/02/26/us/kilmar-abrego-garcia-justice-department-trump.html"
+  ],
+  [
+    "access",
+    10,
+    "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html"
+  ],
+  [
+    "agents",
     10,
     "https://www.nytimes.com/2026/02/26/us/los-angeles-school-board-meeting-superintendent-fbi-raid.html"
+  ],
+  [
+    "decades",
+    10,
+    "https://www.nytimes.com/2026/02/26/us/jesse-jackson-chicago-repose-rainbow-push.html"
   ],
   [
     "ago",
@@ -691,63 +746,8 @@
     "https://www.nytimes.com/2026/02/26/us/jesse-jackson-chicago-repose-rainbow-push.html"
   ],
   [
-    "accused",
-    10,
-    "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html"
-  ],
-  [
     "global",
     10,
     "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html"
-  ],
-  [
-    "south",
-    10,
-    "https://www.washingtonpost.com/immigration/2026/02/25/dhs-shooting-death-grand-jury-texas/"
-  ],
-  [
-    "fbi",
-    10,
-    "https://www.washingtonpost.com/nation/2026/02/25/fbi-search-los-angeles-schools/"
-  ],
-  [
-    "free",
-    10,
-    "https://www.washingtonpost.com/nation/2026/02/25/trump-insults-state-of-the-union/"
-  ],
-  [
-    "real",
-    10,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "attack",
-    10,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "official",
-    10,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "million",
-    10,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "drug",
-    10,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "recent",
-    10,
-    "https://www.theguardian.com/us-news/2026/feb/26/tabitha-arnold-tapestries-labor-movement"
-  ],
-  [
-    "easy",
-    10,
-    "https://www.theguardian.com/thefilter-us/2026/feb/26/poultree-chicken-rod-review"
   ]
 ];

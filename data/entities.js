@@ -3,38 +3,50 @@
   "PERSON": [
     {
       "name": "Melania Trump",
-      "count": 26,
+      "count": 22,
       "url": "https://www.theguardian.com/us-news/2026/feb/26/melania-trump-un-security-council",
       "source": "The Guardian"
     },
     {
       "name": "Jeffrey Epstein",
-      "count": 15,
+      "count": 18,
       "url": "https://www.nytimes.com/2026/02/26/business/jeffrey-epstein-joichi-ito-japan.html",
       "source": "NY Times"
     },
     {
-      "name": "Zohran Mamdani",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Hillary Clinton",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/feb/26/clintons-testify-epstein-files-house",
       "source": "The Guardian"
     },
     {
       "name": "Anthropic",
-      "count": 10,
+      "count": 12,
       "url": "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html",
       "source": "NY Times"
     },
     {
       "name": "Donald Trump ’S",
       "count": 10,
       "url": "https://www.theguardian.com/culture/2026/feb/26/meyers-colbert-kimmel-trump-state-of-the-union",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Alberto Carvalho",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/02/26/us/los-angeles-school-board-meeting-superintendent-fbi-raid.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Brady Tkachuk",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/feb/26/brady-tkachuk-decries-white-houses-ai-video-of-him-insulting-canadians-after-us-gold",
       "source": "The Guardian"
     },
     {
@@ -48,17 +60,67 @@
       "count": 6,
       "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-vindictive-prosecution-tennessee-court/",
       "source": "CBS News"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 62,
+      "url": "https://www.theguardian.com/us-news/2026/feb/26/tabitha-arnold-tapestries-labor-movement",
+      "source": "The Guardian"
     },
     {
-      "name": "Alberto Carvalho",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/02/26/us/los-angeles-school-board-meeting-superintendent-fbi-raid.html",
+      "name": "U.S.",
+      "count": 31,
+      "url": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
       "source": "NY Times"
     },
     {
-      "name": "Yiyun Li",
-      "count": 5,
-      "url": "https://www.theguardian.com/books/2026/feb/26/things-in-nature-merely-grow-by-yiyun-li-audiobook-review-a-deconstruction-of-grief",
+      "name": "Iran",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-talks.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City’S",
+      "count": 17,
+      "url": "https://www.theguardian.com/thefilter-us/2026/feb/15/best-winter-boots-women",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 13,
+      "url": "https://www.washingtonpost.com/immigration/2026/02/25/dhs-shooting-death-grand-jury-texas/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "California",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/feb/26/benicia-california-oil-refinery",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ukraine",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cuba",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/02/26/us/politics/trump-cuba-regime-change.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-02-13/dhs-sweeps-county-businesses-report-losses",
+      "source": "LA Times"
+    },
+    {
+      "name": "Russia",
+      "count": 8,
+      "url": "https://www.theguardian.com/world/2026/feb/27/ukraine-war-briefing-imf-approves-81bn-loan-for-kyiv",
       "source": "The Guardian"
     }
   ],
@@ -71,15 +133,21 @@
     },
     {
       "name": "Ai",
-      "count": 30,
+      "count": 34,
       "url": "https://www.theguardian.com/us-news/2026/feb/26/anthropic-pentagon-claude",
       "source": "The Guardian"
     },
     {
       "name": "Pentagon",
-      "count": 15,
+      "count": 16,
       "url": "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Fbi",
+      "count": 13,
+      "url": "https://www.washingtonpost.com/nation/2026/02/25/fbi-search-los-angeles-schools/",
+      "source": "Washington Post"
     },
     {
       "name": "The Filter Us",
@@ -88,102 +156,34 @@
       "source": "The Guardian"
     },
     {
-      "name": "Warner Bros. Discovery",
-      "count": 12,
-      "url": "https://www.cbsnews.com/news/netflix-warner-paramount-skydance-deal/",
-      "source": "CBS News"
-    },
-    {
       "name": "The White House",
       "count": 11,
-      "url": "https://www.theguardian.com/world/2026/feb/26/trump-attack-threat-looms-as-nuclear-talks-between-us-and-iran-go-to-wire",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/02/26/nyregion/mamdani-trump-photo-newspapers.html",
+      "source": "NY Times"
     },
     {
-      "name": "Fbi",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/nation/2026/02/25/fbi-search-los-angeles-schools/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Netflix",
-      "count": 10,
-      "url": "https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 10,
-      "url": "https://www.foxnews.com/politics/hillary-clinton-comes-out-swinging-after-gop-grilled-her-during-marathon-epstein-deposition",
-      "source": "Fox News"
+      "name": "Warner Bros. Discovery",
+      "count": 11,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-02-26/amid-multibillion-dollar-battle-for-warner-bros-company-loses-252-million",
+      "source": "LA Times"
     },
     {
       "name": "Paramount Skydance’S",
-      "count": 9,
+      "count": 10,
       "url": "https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros",
       "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 60,
-      "url": "https://www.theguardian.com/us-news/2026/feb/26/tabitha-arnold-tapestries-labor-movement",
-      "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 33,
-      "url": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-talks.html",
-      "source": "NY Times"
+      "name": "Cbs News",
+      "count": 10,
+      "url": "https://www.cbsnews.com/news/federal-reserve-seeking-to-quash-subpoenas-in-doj-investigation-source-says/",
+      "source": "CBS News"
     },
     {
-      "name": "Iran",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-talks.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City’S",
-      "count": 17,
-      "url": "https://www.theguardian.com/thefilter-us/2026/feb/15/best-winter-boots-women",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cuba",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/02/26/world/americas/cuba-gunfight-boat-miami.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 12,
-      "url": "https://www.washingtonpost.com/immigration/2026/02/25/dhs-shooting-death-grand-jury-texas/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "California",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/feb/26/benicia-california-oil-refinery",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ukraine",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Russia",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/2026/feb/27/ukraine-war-briefing-imf-approves-81bn-loan-for-kyiv",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A.",
-      "count": 8,
-      "url": "https://www.latimes.com/california/story/2026-02-26/la-schools-face-crisis-amid-investigation-into-carvalho-ai-contract",
-      "source": "LA Times"
+      "name": "Gop",
+      "count": 9,
+      "url": "https://www.foxnews.com/politics/hillary-clinton-comes-out-swinging-after-gop-grilled-her-during-marathon-epstein-deposition",
+      "source": "Fox News"
     }
   ],
   "EVENT": [
@@ -194,15 +194,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Iraq War",
-      "count": 2,
-      "url": "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine",
+      "name": "The Winter Olympics",
+      "count": 3,
+      "url": "https://www.theguardian.com/sport/2026/feb/26/brady-tkachuk-decries-white-houses-ai-video-of-him-insulting-canadians-after-us-gold",
       "source": "The Guardian"
     },
     {
-      "name": "The Winter Olympics",
+      "name": "The Iraq War",
       "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/feb/26/brady-tkachuk-decries-white-houses-ai-video-of-him-insulting-canadians-after-us-gold",
+      "url": "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine",
       "source": "The Guardian"
     },
     {
@@ -236,11 +236,17 @@
       "source": "The Guardian"
     },
     {
-      "name": "Season 3",
+      "name": "Super Bowl",
       "count": 1,
-      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-02-26/adult-swim-smiling-friends-end-season-3",
+      "url": "https://www.latimes.com/delos/story/2026-02-09/decoding-bad-bunnys-triumphantly-puerto-rican-super-bowl-halftime-show",
+      "source": "LA Times"
+    },
+    {
+      "name": "Olympic",
+      "count": 1,
+      "url": "https://www.latimes.com/sports/olympics/story/2026-02-26/alysa-liu-mural-gardena-olympics-gold-medal-figure-skating",
       "source": "LA Times"
     }
   ],
-  "updated": "2026-02-27T01:44:57Z"
+  "updated": "2026-02-27T03:32:02Z"
 };
