@@ -41,19 +41,93 @@ RSS_FEEDS = [
 # Common words to exclude from the word cloud
 # ---------------------------------------------------------------------------
 STOPWORDS = {
+    # Articles, conjunctions, prepositions
     'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for',
-    'of', 'with', 'by', 'from', 'is', 'it', 'its', 'as', 'be', 'are',
-    'was', 'were', 'has', 'have', 'had', 'that', 'this', 'will', 'would',
-    'could', 'should', 'may', 'can', 'do', 'did', 'not', 'no', 'up',
-    'out', 'after', 'over', 'into', 'about', 'more', 'new', 'than',
-    'says', 'said', 'say', 'get', 'their', 'he', 'she', 'his', 'her',
-    'they', 'them', 'we', 'us', 'you', 'your', 'who', 'what', 'how',
-    'when', 'where', 'why', 'all', 'also', 'i', 'me', 'my', 'two',
-    'first', 'last', 'year', 'years', 'time', 'people', 's', 'been',
-    'one', 'just', 'report', 'reports', 'reported', 'amid', 'still',
-    'now', 'back', 'off', 'here', 'there', 'then', 'are', 'our',
-    'make', 'made', 'take', 'taken', 'goes', 'going', 'come', 'coming',
-    'know', 'known', 'see', 'seen', 'use', 'used', 'against', 'plan',
+    'of', 'with', 'by', 'from', 'into', 'onto', 'upon', 'about', 'above',
+    'below', 'between', 'among', 'through', 'during', 'before', 'after',
+    'over', 'under', 'along', 'around', 'off', 'out', 'up', 'down',
+    'without', 'within', 'against', 'across', 'behind', 'beyond', 'since',
+    'until', 'while', 'than', 'per',
+
+    # Pronouns
+    'i', 'me', 'my', 'we', 'us', 'our', 'you', 'your',
+    'he', 'him', 'his', 'she', 'her', 'they', 'them', 'their',
+    'it', 'its', 'this', 'that', 'these', 'those', 'who', 'whom',
+    'which', 'what', 'where', 'when', 'why', 'how',
+
+    # Auxiliary / common verbs
+    'is', 'are', 'was', 'were', 'be', 'been', 'being',
+    'has', 'have', 'had', 'do', 'did', 'does',
+    'will', 'would', 'could', 'should', 'may', 'might', 'can',
+    'shall', 'must', 'need', 'dare',
+    'say', 'said', 'says', 'saying',
+    'get', 'got', 'gets', 'getting',
+    'go', 'goes', 'going', 'went', 'gone',
+    'come', 'comes', 'coming', 'came',
+    'make', 'made', 'makes', 'making',
+    'take', 'took', 'taken', 'takes', 'taking',
+    'know', 'known', 'knows', 'knew', 'knowing',
+    'see', 'seen', 'sees', 'saw', 'seeing',
+    'use', 'used', 'uses', 'using',
+    'give', 'gave', 'given', 'gives',
+    'put', 'puts', 'putting',
+    'let', 'lets', 'letting',
+    'keep', 'kept', 'keeps',
+    'continue', 'continued', 'continues',
+    'call', 'called', 'calls', 'calling',
+    'show', 'showed', 'shown', 'shows',
+    'think', 'thought', 'thinks', 'thinking',
+    'want', 'wants', 'wanted', 'wanting',
+    'find', 'found', 'finds', 'finding',
+    'tell', 'told', 'tells', 'telling',
+    'move', 'moved', 'moves', 'moving',
+    'end', 'ends', 'ended', 'ending',
+    'help', 'helped', 'helps', 'helping',
+    'ask', 'asked', 'asks', 'asking',
+    'hit', 'hits', 'hitting',
+    'look', 'looks', 'looked', 'looking',
+    'turn', 'turns', 'turned', 'turning',
+
+    # Common adjectives / adverbs — too generic for news signal
+    'new', 'old', 'big', 'best', 'good', 'bad', 'great', 'large', 'small',
+    'long', 'short', 'high', 'low', 'right', 'left', 'next', 'last', 'first',
+    'more', 'most', 'much', 'many', 'some', 'any', 'other', 'another',
+    'such', 'same', 'few', 'less', 'even', 'still', 'just', 'only',
+    'also', 'too', 'very', 'well', 'ever', 'never', 'now', 'back',
+    'here', 'there', 'then', 'not', 'no', 'nor', 'so', 'yet',
+    'away', 'better', 'top', 'amid', 'once', 'own',
+
+    # Common nouns — too generic or ubiquitous on news sites
+    'time', 'times', 'year', 'years', 'day', 'days', 'week', 'weeks',
+    'month', 'months', 'home', 'life', 'world', 'way', 'part', 'things',
+    'thing', 'moment', 'age', 'story', 'stories', 'news', 'address',
+    'work', 'stage', 'sign', 'reading', 'man', 'men', 'woman', 'women',
+    'people', 'person', 'group',
+
+    # Cardinal / ordinal numbers (words)
+    'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight',
+    'nine', 'ten', 'second', 'third', 'half',
+
+    # Days of the week
+    'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday',
+
+    # Months
+    'january', 'february', 'march', 'april', 'june', 'july', 'august',
+    'september', 'october', 'november', 'december',
+
+    # Journalistic boilerplate / UI artifacts
+    'report', 'reports', 'reported', 'reporting',
+    'newsletter', 'subscribe', 'read', 'click', 'share', 'follow',
+    'according', 'including', 'amid', 'via',
+
+    # HTML entity fragments that slip through (&amp; → amp, &nbsp; → nbsp, etc.)
+    'nbsp', 'quot', 'apos', 'amp', 'lt', 'gt',
+
+    # Source names that bleed into word counts
+    'guardian',
+
+    # Short tokens that pass the 3-char filter but are meaningless
+    's', 'n', 't', 're', 've', 'll', 'd',
 }
 
 
