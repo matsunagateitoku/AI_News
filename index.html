@@ -884,32 +884,32 @@
         const wordUrls = {};
         data.forEach(([word, , url]) => { if (url) wordUrls[word.toLowerCase()] = url; });
 
-        // Client-side noise filter
+        // Client-side noise filter — generic words that dilute signal
         const NOISE = new Set([
             'all','like','former','state','house','federal','city','live','deal',
             'whether','both','later','media','country','star','fashion','weekly',
             'leave','hours','love','open','free','run','real','staff','latest',
-            'series','review','team','social','party','case','attack','politics',
-            'political','border','military','union','american','south','north',
-            'food','department','experts','officials','workers','everything',
+            'series','review','team','social','case','politics','political',
+            'american','food','department','experts','officials','everything',
             'don','let','put','get','take','make','come','say','set','key',
             'together','place','become','feel','access','questions','protection',
             'nearly','fast','every','actor','bros','pasta','thing','things',
             'something','someone','anyone','everyone','show','shows','time',
             'people','person','year','years','new','now','day','days','back',
             'still','well','even','also','just','much','many','long','big',
-            'start','easy','led','least','part','next','last','first','high',
+            'start','easy','least','part','next','last','first','high',
             'look','need','want','know','keep','work','tell','help','goes',
             'after','about','could','would','should','their','there','these',
             'those','when','what','more','over','than','them','then','into',
-            'won','ahead','meet','instead','always','lost','west','history',
-            'water','scream','towels','boy','record',
+            'won','ahead','meet','instead','always','lost','history',
+            'water','scream','towels','boy','record','filter','laser','album',
+            'led','despite','friends',
         ]);
 
         // Sort largest-first so high-frequency words land at center
         const filtered = data
             .filter(([w]) => !NOISE.has(w.toLowerCase()))
-            .slice(0, 100)
+            .slice(0, 120)
             .sort((a, b) => b[1] - a[1]);
 
         const maxCount = filtered[0][1];
@@ -922,12 +922,12 @@
 
         // Use a canvas only for text measurement
         const mc = document.createElement('canvas').getContext('2d');
-        const W = Math.max(wrap.offsetWidth || 0, 660);
-        const H = 560;
+        const W = Math.max(wrap.offsetWidth || 0, 680);
+        const H = 620;
         const cx = W / 2, cy = H / 2;
-        const PAD = 6; // minimum gap between words
+        const PAD = 5;
 
-        const boxes = []; // already-placed bounding boxes
+        const boxes = [];
         const overlaps = (x, y, w, h) => {
             for (const b of boxes) {
                 if (x < b.x + b.w + PAD && x + w + PAD > b.x &&
@@ -936,55 +936,80 @@
             return false;
         };
 
+        // Absolute count thresholds so one outlier can't collapse the palette
+        const wordColor = count => {
+            if (count > 40) return '#ff5533'; // blazing red   — dominant word(s)
+            if (count > 24) return '#ffcc00'; // amber-gold    — high frequency
+            if (count > 14) return '#f0f0f5'; // near-white    — mid frequency
+            if (count > 10) return '#88b8d8'; // steel blue    — lower
+            return '#5a7a95';                 // muted slate   — tail
+        };
+        const glowFilter = count => {
+            if (count > 40) return ' filter="url(#glow-hot)"';
+            if (count > 24) return ' filter="url(#glow-warm)"';
+            return '';
+        };
+
         const placements = [];
 
         for (const [word, count] of filtered) {
             const t = (count - minCount) / range;
-            const size = Math.round(11 + t * 46);
+            const size = Math.round(13 + Math.sqrt(t) * 62); // sqrt scale: 13–75px, mid-tier stays readable
 
             mc.font = `bold ${size}px 'Playfair Display', Georgia, serif`;
             const tw = mc.measureText(word).width;
             const th = size * 1.15;
 
-            // Top ~30% of words stay horizontal; rest have 40% chance to go vertical
-            const isVertical = t < 0.7 && rand() < 0.4;
+            // Top 30% stay horizontal; smaller words ~45% chance of vertical
+            const isVertical = t < 0.70 && rand() < 0.45;
             const bw = isVertical ? th : tw;
             const bh = isVertical ? tw : th;
-
-            let color;
-            if (count > 40)      color = '#ff6b6b';
-            else if (count > 25) color = '#ffd93d';
-            else if (count > 15) color = '#ffffff';
-            else if (count > 8)  color = '#a8c8e8';
-            else                 color = '#7a9bb5';
 
             const href = wordUrls[word.toLowerCase()]
                 || `https://news.google.com/search?q=${encodeURIComponent(word)}`;
 
-            // Archimedean spiral from center outward
+            // Archimedean spiral from center outward (elliptical: y × 0.60)
             let px = cx - bw / 2, py = cy - bh / 2, placed_ok = false;
-            for (let theta = 0; theta < 120 * Math.PI; theta += 0.12) {
-                const r = 2.2 * theta;
+            for (let theta = 0; theta < 130 * Math.PI; theta += 0.11) {
+                const r = 2.0 * theta;
                 const x = cx + r * Math.cos(theta) - bw / 2;
-                const y = cy + r * Math.sin(theta) * 0.62 - bh / 2; // 0.62 → elliptical spread
-                if (x < 4 || y < 4 || x + bw > W - 4 || y + bh > H - 4) continue;
+                const y = cy + r * Math.sin(theta) * 0.60 - bh / 2;
+                if (x < 6 || y < 6 || x + bw > W - 6 || y + bh > H - 6) continue;
                 if (!overlaps(x, y, bw, bh)) { px = x; py = y; placed_ok = true; break; }
             }
             if (!placed_ok) continue;
 
             boxes.push({ x: px, y: py, w: bw, h: bh });
-            placements.push({ word, count, size, color, px, py, bw, bh, isVertical, href, tw });
+            placements.push({ word, count, t, size, px, py, bw, bh, isVertical, href });
         }
 
-        // Render as SVG so words are clickable links
-        const svgWords = placements.map(({ word, count, size, color, px, py, bw, bh, isVertical, href }) => {
+        // Build SVG with glow filters and radial background
+        const defs = `<defs>
+          <radialGradient id="bg" cx="50%" cy="50%" r="55%">
+            <stop offset="0%" stop-color="#261a0d"/>
+            <stop offset="100%" stop-color="#100c06"/>
+          </radialGradient>
+          <filter id="glow-hot" x="-25%" y="-25%" width="150%" height="150%">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="3.5" result="b"/>
+            <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+          </filter>
+          <filter id="glow-warm" x="-15%" y="-15%" width="130%" height="130%">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="b"/>
+            <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+          </filter>
+        </defs>
+        <rect width="${W}" height="${H}" fill="url(#bg)" rx="4"/>`;
+
+        const svgWords = placements.map(({ word, count, t, size, px, py, bw, bh, isVertical, href }) => {
             const wcx = (px + bw / 2).toFixed(1);
             const wcy = (py + bh / 2).toFixed(1);
             const rotate = isVertical ? ` transform="rotate(-90,${wcx},${wcy})"` : '';
-            return `<a href="${href}" target="_blank"><text x="${wcx}" y="${wcy}" dy="0.35em" text-anchor="middle" fill="${color}" font-family="'Playfair Display',Georgia,serif" font-size="${size}" font-weight="bold"${rotate} style="cursor:pointer"><title>${count} mentions</title>${word}</text></a>`;
+            const glow = glowFilter(count);
+            const color = wordColor(count);
+            return `<a href="${href}" target="_blank"><text x="${wcx}" y="${wcy}" dy="0.35em" text-anchor="middle" fill="${color}" font-family="'Playfair Display',Georgia,serif" font-size="${size}" font-weight="bold"${rotate}${glow} style="cursor:pointer"><title>${count} mentions</title>${word}</text></a>`;
         }).join('');
 
-        wrap.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" style="display:block;width:100%;background:#1a1209;border-radius:4px">${svgWords}</svg>`;
+        wrap.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" style="display:block;width:100%;border-radius:4px">${defs}${svgWords}</svg>`;
 
         const updated = (window.newsData.entities || {}).updated;
         if (updated) {
