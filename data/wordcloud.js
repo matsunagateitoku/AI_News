@@ -2,283 +2,298 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    131,
-    "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
-  ],
-  [
-    "president",
-    71,
-    "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
-  ],
-  [
-    "anthropic",
-    45,
-    "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
-  ],
-  [
-    "war",
-    31,
-    "https://www.nytimes.com/2026/02/27/technology/defense-department-anthropic-ai-safety.html"
-  ],
-  [
-    "company",
-    29,
-    "https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html"
+    144,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
   ],
   [
     "iran",
-    29,
-    "https://www.nytimes.com/2026/02/28/opinion/iran-attack-trump-war.html"
+    90,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
   ],
   [
-    "military",
-    28,
-    "https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html"
-  ],
-  [
-    "ice",
-    26,
-    "https://www.nytimes.com/2026/02/27/us/politics/college-student-honduras-deportation.html"
-  ],
-  [
-    "family",
-    26,
-    "https://www.nytimes.com/2026/02/27/nyregion/myanmar-refugee-buffalo-border-patrol.html"
-  ],
-  [
-    "donald",
-    25,
-    "https://www.nytimes.com/2026/02/28/opinion/iran-attack-trump-war.html"
-  ],
-  [
-    "pentagon",
-    23,
-    "https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html"
-  ],
-  [
-    "defense",
-    21,
-    "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
-  ],
-  [
-    "administration",
-    21,
-    "https://www.nytimes.com/2026/02/27/us/politics/college-student-honduras-deportation.html"
-  ],
-  [
-    "power",
-    20,
-    "https://www.nytimes.com/2026/02/28/world/canada/carney-asia-australia-visit.html"
+    "president",
+    72,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
   ],
   [
     "israel",
-    20,
-    "https://www.nytimes.com/2026/02/27/opinion/israel-american-public-opinion.html"
+    53,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
   ],
   [
-    "secretary",
-    20,
-    "https://www.washingtonpost.com/national-security/2026/02/27/hegseth-scouting-america/"
+    "strikes",
+    48,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-reaction-us-attack-tehran.html"
+  ],
+  [
+    "military",
+    36,
+    "https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html"
+  ],
+  [
+    "war",
+    33,
+    "https://www.nytimes.com/2026/02/28/opinion/iran-attack-trump-war.html"
+  ],
+  [
+    "anthropic",
+    27,
+    "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
   ],
   [
     "american",
-    20,
-    "https://www.theguardian.com/us-news/2026/feb/27/bill-clinton-testimony-jeffrey-epstein-investigation"
+    27,
+    "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump"
   ],
   [
-    "death",
-    20,
-    "https://www.theguardian.com/us-news/2026/feb/27/renee-good-death-trump-administration"
+    "attack",
+    25,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
   ],
   [
-    "intelligence",
-    19,
-    "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
+    "company",
+    24,
+    "https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html"
+  ],
+  [
+    "donald",
+    24,
+    "https://www.nytimes.com/2026/02/28/opinion/iran-attack-trump-war.html"
+  ],
+  [
+    "children",
+    23,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-reaction-us-attack-tehran.html"
+  ],
+  [
+    "ice",
+    23,
+    "https://www.washingtonpost.com/education/2026/02/26/columbia-university-student-ice-arrest/"
   ],
   [
     "north",
-    19,
-    "https://www.nytimes.com/2026/02/27/us/politics/north-carolina-primaries-liberal-challengers.html"
+    22,
+    "https://www.washingtonpost.com/obituaries/2026/02/28/juan-valdez-dead-last-marine-vietnam/"
+  ],
+  [
+    "power",
+    21,
+    "https://www.nytimes.com/2026/02/28/world/canada/carney-asia-australia-visit.html"
   ],
   [
     "love",
-    19,
-    "https://www.theguardian.com/wellness/2026/feb/27/dating-book-app-failure"
+    21,
+    "https://www.theguardian.com/books/2026/feb/28/asako-yuzuki-im-very-far-from-the-ideal-japanese-woman"
   ],
   [
-    "police",
-    19,
-    "https://www.theguardian.com/film/2026/feb/27/new-orleans-police-shia-labeouf"
-  ],
-  [
-    "media",
-    19,
-    "https://www.theguardian.com/world/2026/feb/28/at-least-15-killed-as-cash-laden-military-cargo-plane-crashes-in-bolivia"
-  ],
-  [
-    "stop",
-    18,
-    "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
-  ],
-  [
-    "warner",
-    18,
-    "https://www.nytimes.com/2026/02/27/business/media/david-zaslav-warner-bros-discovery-paramount.html"
-  ],
-  [
-    "bros",
-    18,
-    "https://www.nytimes.com/2026/02/27/business/media/david-zaslav-warner-bros-discovery-paramount.html"
-  ],
-  [
-    "government",
-    18,
-    "https://www.nytimes.com/2026/02/27/opinion/israel-american-public-opinion.html"
-  ],
-  [
-    "team",
-    18,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "social",
+    20,
+    "https://www.theguardian.com/books/2026/feb/28/asako-yuzuki-im-very-far-from-the-ideal-japanese-woman"
   ],
   [
     "winter",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/feb/28/bizarre-exercises-online-influencer-workout-recommend"
+  ],
+  [
+    "government",
+    19,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
+  ],
+  [
+    "team",
+    19,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "history",
     18,
-    "https://www.theguardian.com/sport/2026/feb/27/donald-trump-usa-womens-hockey-team-joke-winter-olympics"
+    "https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health"
   ],
   [
-    "hours",
-    17,
-    "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
+    "full",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/feb/28/political-killing-french-left-quentin-deranque-jean-luc-melenchon"
   ],
   [
-    "clinton",
+    "operations",
+    18,
+    "https://www.theguardian.com/world/2026/feb/28/israel-launches-attack-on-iran-as-explosions-heard-in-tehran"
+  ],
+  [
+    "nuclear",
+    18,
+    "https://www.theguardian.com/world/2026/feb/28/yet-another-mid-talks-attack-jeopardises-chances-of-iran-taking-trump-seriously"
+  ],
+  [
+    "democrats",
+    18,
+    "https://www.theguardian.com/us-news/2026/feb/28/midterms-democrats-house-senate"
+  ],
+  [
+    "media",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/feb/28/trump-paramount-skydance-warner-bros-cnn-netflix"
+  ],
+  [
+    "ceo",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/feb/27/trumps-tariffs-economic-policy-corruption"
+  ],
+  [
+    "political",
     17,
-    "https://www.nytimes.com/2026/02/27/us/politics/bill-clinton-epstein.html"
+    "https://www.nytimes.com/2026/02/28/us/politics/trump-boat-strikes-pentagon.html"
+  ],
+  [
+    "early",
+    17,
+    "https://www.nytimes.com/2026/02/27/arts/music/neil-sedaka-dead.html"
+  ],
+  [
+    "died",
+    17,
+    "https://www.washingtonpost.com/obituaries/2026/02/28/juan-valdez-dead-last-marine-vietnam/"
   ],
   [
     "democratic",
     17,
-    "https://www.nytimes.com/2026/02/27/us/politics/kamala-harris-endorses-jasmine-crockett-texas-senate.html"
+    "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump"
   ],
   [
-    "don",
+    "family",
     17,
-    "https://www.nytimes.com/2026/02/27/us/minnesota-ice-cities-church-indictment.html"
+    "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump"
   ],
   [
-    "paramount",
+    "black",
     17,
-    "https://www.nytimes.com/2026/02/27/business/media/david-zaslav-warner-bros-discovery-paramount.html"
+    "https://www.theguardian.com/lifeandstyle/2026/feb/28/how-dna-test-changed-my-life-ivf-family"
   ],
   [
-    "epstein",
-    16,
-    "https://www.nytimes.com/2026/02/27/us/politics/bill-clinton-epstein.html"
+    "record",
+    17,
+    "https://www.theguardian.com/film/2026/feb/28/baz-luhrmann-interview-elvis"
   ],
   [
-    "died",
+    "tehran",
     16,
-    "https://www.nytimes.com/2026/02/27/arts/music/neil-sedaka-songs.html"
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-reaction-us-attack-tehran.html"
   ],
   [
-    "texas",
+    "states",
     16,
-    "https://www.nytimes.com/2026/02/27/us/politics/kamala-harris-endorses-jasmine-crockett-texas-senate.html"
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
+  ],
+  [
+    "launched",
+    16,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
+  ],
+  [
+    "hours",
+    16,
+    "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
+  ],
+  [
+    "death",
+    16,
+    "https://www.nytimes.com/2026/02/28/insider/times-reporters-mexico-el-mencho-cartels.html"
+  ],
+  [
+    "school",
+    16,
+    "https://www.nytimes.com/2026/02/27/us/lausd-superintendent-alberto-carvalho-fbi.html"
+  ],
+  [
+    "america",
+    16,
+    "https://www.washingtonpost.com/national-security/2026/02/27/hegseth-scouting-america/"
+  ],
+  [
+    "combat",
+    16,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "politics",
     16,
-    "https://www.nytimes.com/2026/02/27/nyregion/columbia-student-ice-influencer.html"
+    "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump"
   ],
   [
-    "country",
+    "ago",
     16,
-    "https://www.nytimes.com/2026/02/28/world/canada/carney-asia-australia-visit.html"
-  ],
-  [
-    "political",
-    16,
-    "https://www.theguardian.com/us-news/2026/feb/27/bill-clinton-testimony-jeffrey-epstein-investigation"
+    "https://www.theguardian.com/world/2026/feb/28/islamic-state-north-east-syria-ahmed-al-sharaa"
   ],
   [
     "court",
     16,
-    "https://www.theguardian.com/us-news/2026/feb/27/trump-tariff-refunds"
+    "https://www.theguardian.com/us-news/2026/feb/28/midterms-democrats-house-senate"
   ],
   [
-    "london",
+    "police",
     16,
-    "https://www.theguardian.com/music/2026/feb/28/manchester-first-brit-awards-olivia-dean"
+    "https://www.theguardian.com/world/2026/feb/28/iron-river-mexico-cartel-violence-trafficked-firearms-us"
   ],
   [
-    "leave",
+    "decision",
     15,
-    "https://www.nytimes.com/2026/02/27/us/lausd-superintendent-alberto-carvalho-fbi.html"
+    "https://www.nytimes.com/2026/02/28/us/politics/trump-boat-strikes-pentagon.html"
   ],
   [
-    "immigration",
+    "country",
     15,
-    "https://www.nytimes.com/2026/02/27/nyregion/columbia-student-ice-influencer.html"
+    "https://www.nytimes.com/2026/02/28/briefing/us-israel-strike-iran.html"
   ],
   [
-    "children",
+    "global",
     15,
-    "https://www.washingtonpost.com/national-security/2026/02/27/hegseth-scouting-america/"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "record",
-    15,
-    "https://www.theguardian.com/music/2026/feb/27/bruno-mars-the-romantic-review-youre-better-off-listening-to-the-songs-hes-blatantly-imitating"
+    "united",
+    14,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
   ],
   [
-    "actor",
-    15,
-    "https://www.theguardian.com/film/2026/feb/27/new-orleans-police-shia-labeouf"
+    "intelligence",
+    14,
+    "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
   ],
   [
-    "star",
-    15,
+    "iranian",
+    14,
+    "https://www.nytimes.com/2026/02/25/opinion/iran-protests-doctors-images.html"
+  ],
+  [
+    "regime",
+    14,
+    "https://www.nytimes.com/2026/02/25/opinion/iran-protests-doctors-images.html"
+  ],
+  [
+    "really",
+    14,
     "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump"
   ],
   [
-    "announced",
-    15,
-    "https://www.theguardian.com/us-news/2026/feb/27/scouting-america-transgender-ban-pentagon"
-  ],
-  [
-    "following",
+    "means",
     14,
-    "https://www.nytimes.com/2026/02/27/us/lausd-superintendent-alberto-carvalho-fbi.html"
-  ],
-  [
-    "early",
-    14,
-    "https://www.nytimes.com/2026/02/27/arts/music/neil-sedaka-dead.html"
-  ],
-  [
-    "released",
-    14,
-    "https://www.nytimes.com/2026/02/27/nyregion/myanmar-refugee-buffalo-border-patrol.html"
-  ],
-  [
-    "ago",
-    14,
-    "https://www.nytimes.com/2026/02/27/business/media/david-zaslav-warner-bros-discovery-paramount.html"
-  ],
-  [
-    "hegseth",
-    14,
-    "https://www.washingtonpost.com/national-security/2026/02/27/hegseth-scouting-america/"
+    "https://www.theguardian.com/books/2026/feb/28/asako-yuzuki-im-very-far-from-the-ideal-japanese-woman"
   ],
   [
     "because",
     14,
-    "https://www.washingtonpost.com/lifestyle/2026/02/26/doctor-adopts-patient-child-nebraska/"
+    "https://www.theguardian.com/world/2026/feb/28/i-live-in-constant-fear-surge-in-giant-sinkholes-threatens-turkeys-farmers"
   ],
   [
-    "weekend",
+    "little",
     14,
-    "https://www.theguardian.com/science/2026/feb/28/living-with-hyperphantasia"
+    "https://www.theguardian.com/commentisfree/2026/feb/28/donald-trump-bombs-iran-war-middle-east"
+  ],
+  [
+    "south",
+    14,
+    "https://www.theguardian.com/world/2026/feb/28/iron-river-mexico-cartel-violence-trafficked-firearms-us"
   ],
   [
     "laundry",
@@ -286,93 +301,78 @@
     "https://www.theguardian.com/thefilter-us/2026/feb/27/12-best-laundry-products-detergent-sprays-hampers"
   ],
   [
-    "weekly",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/feb/27/12-best-laundry-products-detergent-sprays-hampers"
-  ],
-  [
-    "case",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/feb/27/trump-iran-war-iraq-invasion"
-  ],
-  [
-    "ceo",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/feb/27/trumps-tariffs-economic-policy-corruption"
-  ],
-  [
-    "law",
-    14,
-    "https://www.theguardian.com/us-news/2026/feb/27/minnesota-refugees-trump-administration"
-  ],
-  [
-    "risk",
-    14,
-    "https://www.theguardian.com/environment/2026/feb/27/trump-fire-chemical-safety-system-epa"
-  ],
-  [
-    "bill",
+    "lawmakers",
     13,
-    "https://www.nytimes.com/2026/02/27/us/politics/bill-clinton-epstein.html"
+    "https://www.nytimes.com/2026/02/27/us/politics/trump-taiwan-arms-sale.html"
   ],
   [
-    "breaking",
+    "leave",
     13,
-    "https://www.nytimes.com/2026/02/27/arts/music/neil-sedaka-dead.html"
+    "https://www.nytimes.com/2026/02/27/us/lausd-superintendent-alberto-carvalho-fbi.html"
   ],
   [
-    "senate",
+    "following",
     13,
-    "https://www.nytimes.com/2026/02/27/us/politics/kamala-harris-endorses-jasmine-crockett-texas-senate.html"
+    "https://www.nytimes.com/2026/02/27/us/lausd-superintendent-alberto-carvalho-fbi.html"
   ],
   [
-    "spent",
+    "los",
     13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/02/27/us/lausd-superintendent-alberto-carvalho-fbi.html"
   ],
   [
-    "trump's",
+    "angeles",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/02/27/us/lausd-superintendent-alberto-carvalho-fbi.html"
+  ],
+  [
+    "secretary",
+    13,
+    "https://www.washingtonpost.com/national-security/2026/02/27/hegseth-scouting-america/"
+  ],
+  [
+    "security",
+    13,
+    "https://www.washingtonpost.com/education/2026/02/26/columbia-university-student-ice-arrest/"
+  ],
+  [
+    "program",
+    13,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "immigration",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "decades",
     13,
-    "https://www.theguardian.com/wellness/2026/feb/27/dating-book-app-failure"
+    "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump"
   ],
   [
-    "play",
+    "supreme",
     13,
-    "https://www.theguardian.com/science/2026/feb/28/living-with-hyperphantasia"
+    "https://www.theguardian.com/world/2026/feb/28/israel-launches-attack-on-iran-as-explosions-heard-in-tehran"
   ],
   [
-    "nuclear",
+    "washington",
     13,
-    "https://www.theguardian.com/commentisfree/2026/feb/27/trump-iran-war-iraq-invasion"
+    "https://www.theguardian.com/world/2026/feb/28/yet-another-mid-talks-attack-jeopardises-chances-of-iran-taking-trump-seriously"
   ],
   [
-    "fbi",
+    "health",
     13,
-    "https://www.theguardian.com/us-news/2026/feb/27/los-angeles-superintendent-fbi-raid"
+    "https://www.theguardian.com/society/2026/feb/28/anti-vaccine-rhetoric-global-measles-crisis"
   ],
   [
-    "money",
+    "announced",
     13,
-    "https://www.theguardian.com/world/2026/feb/28/at-least-15-killed-as-cash-laden-military-cargo-plane-crashes-in-bolivia"
+    "https://www.theguardian.com/society/2026/feb/28/anti-vaccine-rhetoric-global-measles-crisis"
   ],
   [
-    "energy",
+    "support",
     13,
-    "https://www.theguardian.com/music/2026/feb/28/manchester-first-brit-awards-olivia-dean"
-  ],
-  [
-    "york",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine"
-  ],
-  [
-    "fashion",
-    13,
-    "https://www.theguardian.com/fashion/2026/feb/27/demna-brings-sexy-back-reinvigorate-gucci"
+    "https://www.theguardian.com/world/2026/feb/28/caribbean-countries-pledge-humanitarian-support-for-cuba-amid-rising-tensions-with-us"
   ]
 ];

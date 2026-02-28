@@ -2,201 +2,139 @@
 (window.newsData=window.newsData||{}).entities={
   "GPE": [
     {
+      "name": "Iran",
+      "count": 91,
+      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Us",
-      "count": 74,
-      "url": "https://www.theguardian.com/commentisfree/2026/feb/27/trump-iran-war-iraq-invasion",
+      "count": 84,
+      "url": "https://www.theguardian.com/world/live/2026/feb/28/israel-attacks-iran-as-blasts-heard-in-tehran-live-updates",
       "source": "The Guardian"
     },
     {
-      "name": "Iran",
-      "count": 30,
-      "url": "https://www.nytimes.com/2026/02/28/opinion/iran-attack-trump-war.html",
+      "name": "Israel",
+      "count": 50,
+      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 17,
-      "url": "https://www.washingtonpost.com/national-security/2026/02/27/cbp-drone-us-military-faa-texas/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Israel",
-      "count": 16,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "London",
-      "count": 16,
-      "url": "https://www.theguardian.com/music/2026/feb/28/manchester-first-brit-awards-olivia-dean",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City",
-      "count": 12,
-      "url": "https://www.theguardian.com/film/2026/feb/27/teddies-toys-and-friendship-bracelets-the-film-about-the-empty-bedrooms-of-school-shooting-victims",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/02/27/us/politics/trump-midterms-state-of-the-union.html",
+      "count": 46,
+      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-reaction-us-attack-tehran.html",
       "source": "NY Times"
     },
     {
       "name": "Uk",
-      "count": 10,
-      "url": "https://www.theguardian.com/society/2026/feb/28/researchers-praise-stunning-results-of-new-prostate-cancer-treatment",
+      "count": 19,
+      "url": "https://www.theguardian.com/books/2026/feb/28/asako-yuzuki-im-very-far-from-the-ideal-japanese-woman",
       "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump",
+      "name": "Tehran",
+      "count": 15,
+      "url": "https://www.theguardian.com/world/live/2026/feb/28/israel-attacks-iran-as-blasts-heard-in-tehran-live-updates",
       "source": "The Guardian"
     },
     {
-      "name": "Milan",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/feb/27/tram-derails-and-crashes-into-building-in-milan",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Orders U.S. Agencies To Stop Using Anthropic Ai Tech",
-      "count": 75,
-      "url": "https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Anthropic'S Ai",
-      "count": 36,
-      "url": "https://www.cbsnews.com/news/trump-anthropic-ai-order-federal-agencies/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Pentagon",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/02/27/technology/defense-department-anthropic-ai-safety.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Fbi",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/feb/27/los-angeles-superintendent-fbi-raid",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
+      "name": "London",
       "count": 12,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "url": "https://www.theguardian.com/football/2026/feb/28/arsenal-easy-targets-tiktok-mockery-but-only-they-can-silence-laughter",
       "source": "The Guardian"
     },
     {
-      "name": "Ice",
+      "name": "Los Angeles County",
       "count": 11,
-      "url": "https://www.nytimes.com/2026/02/27/technology/cz-changpeng-zhao-binance-memoir-prison.html",
+      "url": "https://www.latimes.com/california/story/2026-02-27/suit-against-la-county-deputies-involved-in-fight-outside-bar-dismissed",
+      "source": "LA Times"
+    },
+    {
+      "name": "The United States",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html",
       "source": "NY Times"
     },
     {
-      "name": "Paramount Skydance'S",
-      "count": 11,
-      "url": "https://www.cbsnews.com/news/netflix-warner-paramount-skydance-deal/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Warner Bros. Discovery",
+      "name": "Washington Dc",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/02/27/business/media/david-zaslav-warner-bros-discovery-paramount.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The White House",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/feb/27/trump-cuba-regime-change",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cnn",
-      "count": 10,
-      "url": "https://www.theguardian.com/film/2026/feb/27/teddies-toys-and-friendship-bracelets-the-film-about-the-empty-bedrooms-of-school-shooting-victims",
+      "url": "https://www.theguardian.com/sport/2026/feb/27/donald-trump-usa-womens-hockey-team-joke-winter-olympics",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 26,
+      "count": 28,
       "url": "https://www.nytimes.com/2026/02/28/opinion/iran-attack-trump-war.html",
       "source": "NY Times"
     },
     {
       "name": "Donald Trump ’S",
-      "count": 23,
-      "url": "https://www.theguardian.com/us-news/2026/feb/27/trump-coal-plant-air-pollution-rules",
+      "count": 21,
+      "url": "https://www.theguardian.com/us-news/2026/feb/28/midterms-democrats-house-senate",
       "source": "The Guardian"
     },
     {
-      "name": "Anthropic Standoff",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/02/27/technology/defense-department-anthropic-ai-safety.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Bill Clinton",
+      "name": "Anthropic Clash",
       "count": 11,
-      "url": "https://www.nytimes.com/2026/02/27/us/politics/bill-clinton-epstein.html",
+      "url": "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Pete Hegseth",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/feb/27/scouting-america-transgender-ban-pentagon",
-      "source": "The Guardian"
     },
     {
       "name": "Joe Biden",
-      "count": 10,
+      "count": 9,
       "url": "https://www.theguardian.com/us-news/2026/feb/27/trump-voting-machines-midterm-election",
       "source": "The Guardian"
     },
     {
       "name": "Neil Sedaka",
-      "count": 9,
+      "count": 8,
       "url": "https://www.nytimes.com/2026/02/27/arts/music/neil-sedaka-dead.html",
       "source": "NY Times"
     },
     {
-      "name": "Alberto Carvalho",
+      "name": "Zohran Mamdani",
       "count": 8,
-      "url": "https://www.nytimes.com/2026/02/27/us/lausd-superintendent-alberto-carvalho-fbi.html",
-      "source": "NY Times"
+      "url": "https://www.washingtonpost.com/nation/2026/02/27/new-york-rental-ripoff-hearings-mamdani/",
+      "source": "Washington Post"
     },
     {
-      "name": "Jeffrey Epstein",
+      "name": "Pete Hegseth",
       "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/feb/27/bill-clinton-testimony-jeffrey-epstein-investigation",
+      "url": "https://www.theguardian.com/us-news/2026/feb/27/scouting-america-transgender-ban-pentagon",
       "source": "The Guardian"
     },
     {
-      "name": "Renee Good'S",
+      "name": "Dario Amodei",
       "count": 8,
-      "url": "https://www.cbsnews.com/news/renee-goods-dad-i-would-take-those-bullets-a-thousand-times-to-protect-her/",
+      "url": "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-full-transcript/",
       "source": "CBS News"
+    },
+    {
+      "name": "Nancy Guthrie",
+      "count": 6,
+      "url": "https://www.washingtonpost.com/nation/2026/02/27/nancy-guthrie-moms-search-mexico/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Bobby J Brown",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/feb/27/bobby-j-brown-actor-dies-the-wire",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The Winter Olympics",
-      "count": 8,
+      "count": 3,
       "url": "https://www.theguardian.com/sport/2026/feb/27/donald-trump-usa-womens-hockey-team-joke-winter-olympics",
       "source": "The Guardian"
     },
     {
-      "name": "The Iraq War",
-      "count": 3,
-      "url": "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine",
+      "name": "The National Year Of Reading",
+      "count": 2,
+      "url": "https://www.theguardian.com/commentisfree/2026/feb/28/national-year-of-reading-books-joy-story-literature",
       "source": "The Guardian"
     },
     {
@@ -206,9 +144,21 @@
       "source": "The Guardian"
     },
     {
-      "name": "The War On Terror",
+      "name": "The Great British Bake Off",
       "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/feb/26/us-intelligence-iraq-war-ukraine",
+      "url": "https://www.theguardian.com/books/2026/feb/28/asako-yuzuki-im-very-far-from-the-ideal-japanese-woman",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jean-Luc Mélenchon",
+      "count": 1,
+      "url": "https://www.theguardian.com/commentisfree/2026/feb/28/political-killing-french-left-quentin-deranque-jean-luc-melenchon",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran      Analysis",
+      "count": 1,
+      "url": "https://www.theguardian.com/world/live/2026/feb/28/israel-attacks-iran-as-blasts-heard-in-tehran-live-updates",
       "source": "The Guardian"
     },
     {
@@ -224,29 +174,79 @@
       "source": "The Guardian"
     },
     {
+      "name": "Winter Games",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/feb/28/winter-paralympics-walks-tightrope-russia-inclusion-risks-ceremony-boycott",
+      "source": "The Guardian"
+    },
+    {
       "name": "The Super Bowl",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/feb/27/mlb-salary-cap-stoppage-owners",
       "source": "The Guardian"
-    },
-    {
-      "name": "Fa Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/feb/27/josh-sargent-toronto-norwich-city-transfer-usmnt",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai  •   Don’T",
-      "count": 1,
-      "url": "https://www.theguardian.com/games/2026/feb/25/all-change-at-the-head-of-xbox-what-will-this-mean-for-the-future-of-its-games",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Jalisco New Generation",
-      "count": 1,
-      "url": "https://www.latimes.com/world-nation/story/2026-02-27/one-of-men-who-could-replace-el-mencho-is-from-southern-california",
-      "source": "LA Times"
     }
   ],
-  "updated": "2026-02-28T07:32:38Z"
+  "ORG": [
+    {
+      "name": "Trump Orders U.S. Agencies To Stop Using Anthropic Ai Tech",
+      "count": 86,
+      "url": "https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Anthropic'S Ai",
+      "count": 25,
+      "url": "https://www.cbsnews.com/news/trump-anthropic-ai-order-federal-agencies/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Cnn",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/feb/28/trump-paramount-skydance-warner-bros-cnn-netflix",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Congress",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/02/27/us/politics/trump-taiwan-arms-sale.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas Senate",
+      "count": 11,
+      "url": "https://www.politico.com/news/2026/02/27/bannon-texas-senate-maga-00803314",
+      "source": "Politico"
+    },
+    {
+      "name": "Ice",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/education/2026/02/26/columbia-university-student-ice-arrest/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Pentagon",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/feb/27/trump-news-at-a-glance-latest-today",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fbi",
+      "count": 9,
+      "url": "https://www.theguardian.com/games/2026/feb/26/resident-evil-requiem-review-theres-plenty-of-life-in-the-undead-yet",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Netflix Lost Warner",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/02/28/business/media/netflix-lost-warner-maybe-thats-a-good-thing.html",
+      "source": "NY Times"
+    }
+  ],
+  "updated": "2026-02-28T13:40:22Z"
 };
