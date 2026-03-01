@@ -2,28 +2,38 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "iran",
-    182,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
+    201,
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
   ],
   [
     "trump",
-    145,
+    148,
     "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-attack-midterms.html"
   ],
   [
     "strikes",
-    83,
+    84,
     "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
   ],
   [
     "president",
-    67,
+    65,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
+    "israel",
+    59,
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+  ],
+  [
     "khamenei",
-    53,
+    59,
     "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
+  ],
+  [
+    "war",
+    57,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
     "israeli",
@@ -31,23 +41,28 @@
     "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video/"
   ],
   [
-    "israel",
-    49,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
-  ],
-  [
-    "war",
-    49,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
     "supreme",
-    45,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
+    46,
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+  ],
+  [
+    "iranian",
+    44,
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
   ],
   [
     "leader",
+    44,
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+  ],
+  [
+    "ali",
     43,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
+  ],
+  [
+    "ayatollah",
+    42,
     "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
   ],
   [
@@ -56,24 +71,14 @@
     "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
   ],
   [
-    "iranian",
-    40,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
-  ],
-  [
-    "ayatollah",
-    38,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
-  ],
-  [
-    "ali",
-    38,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
-  ],
-  [
     "killed",
     36,
     "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
+  ],
+  [
+    "regime",
+    33,
+    "https://www.nytimes.com/2026/02/28/opinion/khamenei-supreme-leader-iran-dead.html"
   ],
   [
     "donald",
@@ -81,84 +86,69 @@
     "https://www.theguardian.com/commentisfree/2026/feb/28/diversionary-war-trump-wants-to-distract-americans-from-scandals-at-home"
   ],
   [
-    "regime",
-    29,
-    "https://www.nytimes.com/2026/02/28/opinion/khamenei-supreme-leader-iran-dead.html"
-  ],
-  [
-    "country",
-    27,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-khameni-celebrations.html"
-  ],
-  [
     "attack",
-    27,
+    26,
     "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
+  ],
+  [
+    "team",
+    25,
+    "https://www.nytimes.com/2026/02/28/us/politics/kash-patel-girlfriend.html"
   ],
   [
     "death",
     24,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-khameni-celebrations.html"
+    "https://www.nytimes.com/2026/02/28/us/young-girl-water-bottle-la-homicide.html"
   ],
   [
-    "team",
-    24,
-    "https://www.nytimes.com/2026/02/28/us/politics/kash-patel-girlfriend.html"
+    "country",
+    23,
+    "https://www.nytimes.com/2026/02/28/us/politics/supreme-court-voting-rights-act-midterms.html"
   ],
   [
     "strike",
-    23,
-    "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-attack-midterms.html"
-  ],
-  [
-    "tehran",
-    23,
-    "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video/"
-  ],
-  [
-    "children",
-    21,
-    "https://www.washingtonpost.com/national-security/2026/02/27/hegseth-scouting-america/"
-  ],
-  [
-    "middle",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/feb/28/diversionary-war-trump-wants-to-distract-americans-from-scandals-at-home"
-  ],
-  [
-    "american",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/feb/28/diversionary-war-trump-wants-to-distract-americans-from-scandals-at-home"
-  ],
-  [
-    "social",
-    19,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-khameni-celebrations.html"
-  ],
-  [
-    "media",
-    19,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-khameni-celebrations.html"
-  ],
-  [
-    "response",
-    19,
-    "https://www.nytimes.com/2026/02/28/nyregion/columbia-student-ice-arrest.html"
-  ],
-  [
-    "democrats",
-    19,
+    22,
     "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-attack-midterms.html"
   ],
   [
     "change",
-    19,
+    22,
     "https://www.nytimes.com/2026/02/28/opinion/khamenei-supreme-leader-iran-dead.html"
   ],
   [
-    "school",
-    19,
-    "https://www.nytimes.com/2026/02/28/us/young-girl-water-bottle-la-homicide.html"
+    "american",
+    22,
+    "https://www.theguardian.com/commentisfree/2026/feb/28/diversionary-war-trump-wants-to-distract-americans-from-scandals-at-home"
+  ],
+  [
+    "attacks",
+    21,
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+  ],
+  [
+    "states",
+    20,
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+  ],
+  [
+    "operation",
+    20,
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+  ],
+  [
+    "response",
+    20,
+    "https://www.nytimes.com/2026/02/28/nyregion/columbia-student-ice-arrest.html"
+  ],
+  [
+    "children",
+    20,
+    "https://www.washingtonpost.com/national-security/2026/02/27/hegseth-scouting-america/"
+  ],
+  [
+    "middle",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/feb/28/diversionary-war-trump-wants-to-distract-americans-from-scandals-at-home"
   ],
   [
     "police",
@@ -166,64 +156,104 @@
     "https://www.nytimes.com/2026/02/28/us/young-girl-water-bottle-la-homicide.html"
   ],
   [
+    "tehran",
+    19,
+    "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video/"
+  ],
+  [
+    "black",
+    19,
+    "https://www.theguardian.com/lifeandstyle/2026/feb/28/how-dna-test-changed-my-life-ivf-family"
+  ],
+  [
     "history",
     19,
     "https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health"
   ],
   [
-    "security",
-    19,
-    "https://www.theguardian.com/world/2026/feb/28/us-israel-strikes-iran-tehran-response-visual-guide"
-  ],
-  [
-    "attacks",
-    18,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "black",
-    18,
-    "https://www.theguardian.com/lifeandstyle/2026/feb/28/how-dna-test-changed-my-life-ivf-family"
-  ],
-  [
-    "operation",
-    18,
-    "https://www.theguardian.com/us-news/2026/feb/28/trump-attack-iran-opportunity"
-  ],
-  [
-    "iran's",
-    18,
-    "https://www.latimes.com/world-nation/story/2026-02-28/ayatollah-ali-khamenei-death-iran"
-  ],
-  [
-    "campaign",
-    17,
-    "https://www.nytimes.com/2026/02/28/us/politics/wesley-hunt-texas-senate-race-campaign-finance.html"
-  ],
-  [
     "americans",
-    17,
+    18,
     "https://www.nytimes.com/2026/02/28/opinion/khamenei-supreme-leader-iran-dead.html"
+  ],
+  [
+    "east",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/feb/28/diversionary-war-trump-wants-to-distract-americans-from-scandals-at-home"
+  ],
+  [
+    "media",
+    18,
+    "https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports"
   ],
   [
     "united",
     17,
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+  ],
+  [
+    "democrats",
+    17,
+    "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-attack-midterms.html"
+  ],
+  [
+    "north",
+    17,
+    "https://www.washingtonpost.com/obituaries/2026/02/28/juan-valdez-dead-last-marine-vietnam/"
+  ],
+  [
+    "early",
+    17,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "ice",
+    17,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "york",
+    17,
+    "https://www.theguardian.com/us-news/2026/feb/28/new-york-city-rat-population-decline"
+  ],
+  [
+    "winter",
+    17,
+    "https://www.theguardian.com/us-news/2026/feb/28/new-york-city-rat-population-decline"
+  ],
+  [
+    "far",
+    17,
+    "https://www.theguardian.com/us-news/2026/feb/28/trump-attack-iran-opportunity"
+  ],
+  [
+    "social",
+    17,
+    "https://www.theguardian.com/world/2026/feb/28/dubais-famous-fairmont-hotel-in-flames-after-iranian-air-strike"
+  ],
+  [
+    "iran's",
+    17,
+    "https://www.latimes.com/world-nation/story/2026-02-28/ayatollah-ali-khamenei-death-iran"
+  ],
+  [
+    "power",
+    16,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
+  ],
+  [
+    "campaign",
+    16,
+    "https://www.nytimes.com/2026/02/28/us/politics/wesley-hunt-texas-senate-race-campaign-finance.html"
+  ],
+  [
+    "school",
+    16,
+    "https://www.nytimes.com/2026/02/28/us/young-girl-water-bottle-la-homicide.html"
+  ],
+  [
+    "launched",
+    16,
     "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
-  ],
-  [
-    "states",
-    17,
-    "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
-  ],
-  [
-    "east",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/feb/28/diversionary-war-trump-wants-to-distract-americans-from-scandals-at-home"
-  ],
-  [
-    "announced",
-    17,
-    "https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports"
   ],
   [
     "america",
@@ -236,29 +266,19 @@
     "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "global",
+    "administration",
     16,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/commentisfree/2026/feb/28/diversionary-war-trump-wants-to-distract-americans-from-scandals-at-home"
   ],
   [
-    "york",
+    "star",
     16,
-    "https://www.theguardian.com/us-news/2026/feb/28/new-york-city-rat-population-decline"
+    "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump"
   ],
   [
-    "winter",
+    "announced",
     16,
-    "https://www.theguardian.com/us-news/2026/feb/28/new-york-city-rat-population-decline"
-  ],
-  [
-    "full",
-    16,
-    "https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports"
-  ],
-  [
-    "congress",
-    16,
-    "https://www.theguardian.com/us-news/2026/feb/28/khamenei-killing-protests-us"
+    "https://www.theguardian.com/world/2026/feb/28/us-israel-strikes-iran-tehran-response-visual-guide"
   ],
   [
     "support",
@@ -266,9 +286,14 @@
     "https://www.theguardian.com/world/2026/mar/01/ukraine-war-briefing-zelenskyy-says-russia-peace-talks-will-depend-on-situation-in-middle-east"
   ],
   [
-    "power",
+    "game",
+    16,
+    "https://www.theguardian.com/music/2026/feb/27/bruno-mars-the-romantic-review-youre-better-off-listening-to-the-songs-hes-blatantly-imitating"
+  ],
+  [
+    "intelligence",
     15,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
   ],
   [
     "decision",
@@ -276,24 +301,14 @@
     "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-attack-midterms.html"
   ],
   [
-    "died",
-    15,
-    "https://www.nytimes.com/2026/02/28/us/young-girl-water-bottle-la-homicide.html"
-  ],
-  [
-    "north",
-    15,
-    "https://www.washingtonpost.com/obituaries/2026/02/28/juan-valdez-dead-last-marine-vietnam/"
-  ],
-  [
     "inside",
     15,
     "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "early",
+    "global",
     15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "latest",
@@ -301,9 +316,24 @@
     "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "star",
+    "decades",
     15,
     "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump"
+  ],
+  [
+    "politics",
+    15,
+    "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump"
+  ],
+  [
+    "full",
+    15,
+    "https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports"
+  ],
+  [
+    "security",
+    15,
+    "https://www.theguardian.com/world/2026/feb/28/us-israel-strikes-iran-tehran-response-visual-guide"
   ],
   [
     "west",
@@ -311,68 +341,38 @@
     "https://www.theguardian.com/us-news/2026/mar/01/hundreds-of-thousands-of-travellers-stranded-or-diverted-amid-air-space-closures-in-middle-east"
   ],
   [
-    "energy",
+    "really",
     14,
-    "https://www.nytimes.com/2026/02/28/business/germany-geothermal-renewable-energy.html"
+    "https://www.nytimes.com/2026/03/01/world/europe/ukraine-simple-believers.html"
   ],
   [
-    "launched",
+    "outside",
     14,
-    "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
+    "https://www.nytimes.com/2026/02/28/us/politics/wesley-hunt-texas-senate-race-campaign-finance.html"
   ],
   [
-    "ice",
+    "feel",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/02/28/opinion/khamenei-supreme-leader-iran-dead.html"
   ],
   [
-    "foreign",
+    "died",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/02/28/us/young-girl-water-bottle-la-homicide.html"
   ],
   [
-    "dark",
+    "peace",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/feb/28/how-dna-test-changed-my-life-ivf-family"
+    "https://www.washingtonpost.com/obituaries/2026/02/27/colman-mccarthy-dead/"
   ],
   [
-    "decades",
+    "california",
     14,
     "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump"
   ],
   [
-    "joint",
+    "congress",
     14,
-    "https://www.theguardian.com/us-news/2026/feb/28/trump-attack-iran-opportunity"
-  ],
-  [
-    "video",
-    14,
-    "https://www.theguardian.com/us-news/2026/feb/28/trump-iran-analysis-us-foreign-policy-george-bush"
-  ],
-  [
-    "russia",
-    14,
-    "https://www.theguardian.com/world/2026/mar/01/ukraine-war-briefing-zelenskyy-says-russia-peace-talks-will-depend-on-situation-in-middle-east"
-  ],
-  [
-    "love",
-    14,
-    "https://www.theguardian.com/books/2026/feb/28/asako-yuzuki-im-very-far-from-the-ideal-japanese-woman"
-  ],
-  [
-    "london",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/feb/27/growing-pains-industry-has-shown-that-bigger-isnt-always-better"
-  ],
-  [
-    "game",
-    14,
-    "https://www.theguardian.com/music/2026/feb/27/bruno-mars-the-romantic-review-youre-better-off-listening-to-the-songs-hes-blatantly-imitating"
-  ],
-  [
-    "laundry",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/feb/27/12-best-laundry-products-detergent-sprays-hampers"
+    "https://www.theguardian.com/us-news/2026/feb/28/khamenei-killing-protests-us"
   ]
 ];
