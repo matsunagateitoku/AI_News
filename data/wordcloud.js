@@ -2,83 +2,113 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "iran",
-    166,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
+    182,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
   ],
   [
     "trump",
-    141,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
+    145,
+    "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-attack-midterms.html"
   ],
   [
     "strikes",
-    77,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-retaliatory-strikes-region.html"
+    83,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
   ],
   [
     "president",
-    73,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
+    67,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "israel",
-    54,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
-  ],
-  [
-    "military",
-    50,
-    "https://www.washingtonpost.com/national-security/2026/02/27/cbp-drone-us-military-faa-texas/"
-  ],
-  [
-    "attack",
-    41,
-    "https://www.nytimes.com/2026/02/28/briefing/us-israel-strike-iran.html"
+    "khamenei",
+    53,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
   ],
   [
     "israeli",
-    41,
+    51,
     "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video/"
   ],
   [
-    "war",
-    37,
-    "https://www.nytimes.com/2026/02/28/opinion/iran-attack-trump-war.html"
+    "israel",
+    49,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
   ],
   [
-    "donald",
-    35,
-    "https://www.nytimes.com/2026/02/28/opinion/iran-attack-trump-war.html"
+    "war",
+    49,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "supreme",
+    45,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
+  ],
+  [
+    "leader",
+    43,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
+  ],
+  [
+    "military",
+    41,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
   ],
   [
     "iranian",
-    34,
-    "https://www.theguardian.com/world/live/2026/feb/28/israel-attacks-iran-as-blasts-heard-in-tehran-live-updates"
+    40,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
+  ],
+  [
+    "ayatollah",
+    38,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
+  ],
+  [
+    "ali",
+    38,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
+  ],
+  [
+    "killed",
+    36,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
+  ],
+  [
+    "donald",
+    31,
+    "https://www.theguardian.com/commentisfree/2026/feb/28/diversionary-war-trump-wants-to-distract-americans-from-scandals-at-home"
   ],
   [
     "regime",
-    27,
-    "https://www.theguardian.com/us-news/2026/feb/28/trump-unprovoked-attack-on-iran-has-no-mandate-and-no-clear-objective"
-  ],
-  [
-    "social",
-    25,
-    "https://www.theguardian.com/books/2026/feb/28/asako-yuzuki-im-very-far-from-the-ideal-japanese-woman"
+    29,
+    "https://www.nytimes.com/2026/02/28/opinion/khamenei-supreme-leader-iran-dead.html"
   ],
   [
     "country",
-    24,
-    "https://www.nytimes.com/2026/02/28/briefing/us-israel-strike-iran.html"
+    27,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-khameni-celebrations.html"
   ],
   [
-    "children",
-    24,
-    "https://www.washingtonpost.com/national-security/2026/02/27/hegseth-scouting-america/"
+    "attack",
+    27,
+    "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
   ],
   [
-    "american",
+    "death",
     24,
-    "https://www.theguardian.com/us-news/2026/feb/28/trump-unprovoked-attack-on-iran-has-no-mandate-and-no-clear-objective"
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-khameni-celebrations.html"
+  ],
+  [
+    "team",
+    24,
+    "https://www.nytimes.com/2026/02/28/us/politics/kash-patel-girlfriend.html"
+  ],
+  [
+    "strike",
+    23,
+    "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-attack-midterms.html"
   ],
   [
     "tehran",
@@ -86,249 +116,214 @@
     "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video/"
   ],
   [
-    "change",
-    22,
-    "https://www.nytimes.com/2026/02/28/business/warner-bros-paramount-reaction.html"
-  ],
-  [
-    "north",
-    22,
-    "https://www.washingtonpost.com/obituaries/2026/02/28/juan-valdez-dead-last-marine-vietnam/"
-  ],
-  [
-    "history",
+    "children",
     21,
-    "https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health"
+    "https://www.washingtonpost.com/national-security/2026/02/27/hegseth-scouting-america/"
   ],
   [
-    "nuclear",
+    "middle",
     21,
-    "https://www.theguardian.com/world/2026/feb/28/iran-attack-us-political-reaction"
+    "https://www.theguardian.com/commentisfree/2026/feb/28/diversionary-war-trump-wants-to-distract-americans-from-scandals-at-home"
   ],
   [
-    "democrats",
-    21,
-    "https://www.theguardian.com/us-news/2026/feb/28/midterms-democrats-house-senate"
-  ],
-  [
-    "attacks",
+    "american",
     20,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
+    "https://www.theguardian.com/commentisfree/2026/feb/28/diversionary-war-trump-wants-to-distract-americans-from-scandals-at-home"
   ],
   [
-    "congress",
-    20,
-    "https://www.theguardian.com/us-news/2026/feb/28/trump-unprovoked-attack-on-iran-has-no-mandate-and-no-clear-objective"
-  ],
-  [
-    "black",
-    20,
-    "https://www.theguardian.com/lifeandstyle/2026/feb/28/how-dna-test-changed-my-life-ivf-family"
+    "social",
+    19,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-khameni-celebrations.html"
   ],
   [
     "media",
-    20,
-    "https://www.theguardian.com/world/live/2026/feb/28/israel-attacks-iran-as-blasts-heard-in-tehran-live-updates"
-  ],
-  [
-    "joint",
-    20,
-    "https://www.theguardian.com/world/2026/feb/28/us-israel-strikes-iran-tehran-response-visual-guide"
-  ],
-  [
-    "operation",
-    20,
-    "https://www.theguardian.com/world/2026/feb/28/us-israel-strikes-iran-tehran-response-visual-guide"
-  ],
-  [
-    "winter",
-    20,
-    "https://www.theguardian.com/us-news/2026/feb/27/los-angeles-record-high-temperatures"
-  ],
-  [
-    "launched",
     19,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
+    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-khameni-celebrations.html"
   ],
   [
-    "company",
+    "response",
     19,
-    "https://www.nytimes.com/2026/02/28/business/warner-bros-paramount-reaction.html"
+    "https://www.nytimes.com/2026/02/28/nyregion/columbia-student-ice-arrest.html"
   ],
   [
-    "ice",
+    "democrats",
     19,
-    "https://www.washingtonpost.com/education/2026/02/26/columbia-university-student-ice-arrest/"
+    "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-attack-midterms.html"
   ],
   [
-    "far",
+    "change",
     19,
-    "https://www.theguardian.com/us-news/2026/feb/28/trump-unprovoked-attack-on-iran-has-no-mandate-and-no-clear-objective"
+    "https://www.nytimes.com/2026/02/28/opinion/khamenei-supreme-leader-iran-dead.html"
   ],
   [
     "school",
     19,
-    "https://www.theguardian.com/books/2026/feb/28/asako-yuzuki-im-very-far-from-the-ideal-japanese-woman"
+    "https://www.nytimes.com/2026/02/28/us/young-girl-water-bottle-la-homicide.html"
   ],
   [
-    "anthropic",
-    18,
-    "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
+    "police",
+    19,
+    "https://www.nytimes.com/2026/02/28/us/young-girl-water-bottle-la-homicide.html"
   ],
   [
-    "intelligence",
-    18,
-    "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
-  ],
-  [
-    "decision",
-    18,
-    "https://www.nytimes.com/2026/02/28/us/politics/supreme-court-voting-rights-act-midterms.html"
+    "history",
+    19,
+    "https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health"
   ],
   [
     "security",
+    19,
+    "https://www.theguardian.com/world/2026/feb/28/us-israel-strikes-iran-tehran-response-visual-guide"
+  ],
+  [
+    "attacks",
     18,
-    "https://www.washingtonpost.com/education/2026/02/26/columbia-university-student-ice-arrest/"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "response",
-    17,
-    "https://www.nytimes.com/2026/02/28/nyregion/columbia-student-ice-arrest.html"
+    "black",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/feb/28/how-dna-test-changed-my-life-ivf-family"
   ],
   [
-    "latest",
-    17,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "operation",
+    18,
+    "https://www.theguardian.com/us-news/2026/feb/28/trump-attack-iran-opportunity"
   ],
   [
-    "politics",
-    17,
-    "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump"
+    "iran's",
+    18,
+    "https://www.latimes.com/world-nation/story/2026-02-28/ayatollah-ali-khamenei-death-iran"
   ],
   [
-    "full",
+    "campaign",
     17,
-    "https://www.theguardian.com/world/live/2026/feb/28/israel-attacks-iran-as-blasts-heard-in-tehran-live-updates"
+    "https://www.nytimes.com/2026/02/28/us/politics/wesley-hunt-texas-senate-race-campaign-finance.html"
+  ],
+  [
+    "americans",
+    17,
+    "https://www.nytimes.com/2026/02/28/opinion/khamenei-supreme-leader-iran-dead.html"
+  ],
+  [
+    "united",
+    17,
+    "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
+  ],
+  [
+    "states",
+    17,
+    "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
+  ],
+  [
+    "east",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/feb/28/diversionary-war-trump-wants-to-distract-americans-from-scandals-at-home"
   ],
   [
     "announced",
     17,
-    "https://www.theguardian.com/world/2026/feb/28/us-israel-strikes-iran-tehran-response-visual-guide"
+    "https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports"
   ],
   [
-    "power",
-    17,
-    "https://www.theguardian.com/us-news/2026/feb/28/midterms-democrats-house-senate"
-  ],
-  [
-    "following",
-    17,
-    "https://www.theguardian.com/books/2026/feb/27/scholar-seductress-alchemist-who-was-the-real-cleopatra"
-  ],
-  [
-    "several",
+    "america",
     16,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-retaliatory-strikes-region.html"
+    "https://www.washingtonpost.com/national-security/2026/02/27/hegseth-scouting-america/"
   ],
   [
-    "leader",
+    "led",
     16,
-    "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video/"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "trump's",
+    "global",
     16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "democratic",
-    16,
-    "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump"
-  ],
-  [
-    "record",
-    16,
-    "https://www.theguardian.com/world/2026/feb/28/iran-attack-us-political-reaction"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "york",
     16,
-    "https://www.theguardian.com/us-news/2026/feb/28/trump-tariffs-refunds-law-firms"
+    "https://www.theguardian.com/us-news/2026/feb/28/new-york-city-rat-population-decline"
   ],
   [
-    "cbs",
+    "winter",
     16,
-    "https://www.theguardian.com/film/2026/feb/27/teddies-toys-and-friendship-bracelets-the-film-about-the-empty-bedrooms-of-school-shooting-victims"
+    "https://www.theguardian.com/us-news/2026/feb/28/new-york-city-rat-population-decline"
   ],
   [
-    "government",
-    15,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
+    "full",
+    16,
+    "https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports"
   ],
   [
-    "countries",
-    15,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-retaliatory-strikes-region.html"
+    "congress",
+    16,
+    "https://www.theguardian.com/us-news/2026/feb/28/khamenei-killing-protests-us"
   ],
   [
-    "supreme",
+    "support",
+    16,
+    "https://www.theguardian.com/world/2026/mar/01/ukraine-war-briefing-zelenskyy-says-russia-peace-talks-will-depend-on-situation-in-middle-east"
+  ],
+  [
+    "power",
     15,
-    "https://www.nytimes.com/2026/02/28/us/politics/supreme-court-voting-rights-act-midterms.html"
+    "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
+  ],
+  [
+    "decision",
+    15,
+    "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-attack-midterms.html"
   ],
   [
     "died",
     15,
+    "https://www.nytimes.com/2026/02/28/us/young-girl-water-bottle-la-homicide.html"
+  ],
+  [
+    "north",
+    15,
     "https://www.washingtonpost.com/obituaries/2026/02/28/juan-valdez-dead-last-marine-vietnam/"
   ],
   [
-    "fire",
+    "inside",
     15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "administration",
+    "early",
     15,
-    "https://www.theguardian.com/us-news/2026/feb/28/trump-unprovoked-attack-on-iran-has-no-mandate-and-no-clear-objective"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "california",
+    "latest",
+    15,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "star",
     15,
     "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump"
   ],
   [
-    "love",
-    15,
-    "https://www.theguardian.com/books/2026/feb/28/asako-yuzuki-im-very-far-from-the-ideal-japanese-woman"
-  ],
-  [
     "west",
     15,
-    "https://www.theguardian.com/commentisfree/2026/feb/28/donald-trump-bombs-iran-war-middle-east"
+    "https://www.theguardian.com/us-news/2026/mar/01/hundreds-of-thousands-of-travellers-stranded-or-diverted-amid-air-space-closures-in-middle-east"
   ],
   [
-    "police",
-    15,
-    "https://www.theguardian.com/us-news/2026/feb/28/utah-muslim-leader-shooting"
-  ],
-  [
-    "london",
-    15,
-    "https://www.theguardian.com/football/2026/feb/28/arsenal-easy-targets-tiktok-mockery-but-only-they-can-silence-laughter"
-  ],
-  [
-    "states",
+    "energy",
     14,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
+    "https://www.nytimes.com/2026/02/28/business/germany-geothermal-renewable-energy.html"
   ],
   [
-    "team",
+    "launched",
     14,
-    "https://www.nytimes.com/2026/02/28/us/politics/kash-patel-girlfriend.html"
+    "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
   ],
   [
-    "strike",
+    "ice",
     14,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "foreign",
@@ -336,43 +331,48 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "minister",
+    "dark",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/lifeandstyle/2026/feb/28/how-dna-test-changed-my-life-ivf-family"
   ],
   [
-    "star",
+    "decades",
     14,
     "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump"
   ],
   [
-    "food",
+    "joint",
     14,
-    "https://www.theguardian.com/books/2026/feb/28/asako-yuzuki-im-very-far-from-the-ideal-japanese-woman"
+    "https://www.theguardian.com/us-news/2026/feb/28/trump-attack-iran-opportunity"
   ],
   [
-    "morning",
-    14,
-    "https://www.theguardian.com/world/2026/feb/28/children-dead-as-missile-hits-elementary-school-in-southern-iran"
-  ],
-  [
-    "americans",
+    "video",
     14,
     "https://www.theguardian.com/us-news/2026/feb/28/trump-iran-analysis-us-foreign-policy-george-bush"
   ],
   [
-    "little",
+    "russia",
     14,
-    "https://www.theguardian.com/commentisfree/2026/feb/28/donald-trump-bombs-iran-war-middle-east"
+    "https://www.theguardian.com/world/2026/mar/01/ukraine-war-briefing-zelenskyy-says-russia-peace-talks-will-depend-on-situation-in-middle-east"
   ],
   [
-    "support",
+    "love",
     14,
-    "https://www.theguardian.com/world/2026/feb/28/caribbean-countries-pledge-humanitarian-support-for-cuba-amid-rising-tensions-with-us"
+    "https://www.theguardian.com/books/2026/feb/28/asako-yuzuki-im-very-far-from-the-ideal-japanese-woman"
   ],
   [
-    "party",
+    "london",
     14,
-    "https://www.theguardian.com/us-news/2026/feb/28/democrats-midterm-primary-elections"
+    "https://www.theguardian.com/tv-and-radio/2026/feb/27/growing-pains-industry-has-shown-that-bigger-isnt-always-better"
+  ],
+  [
+    "game",
+    14,
+    "https://www.theguardian.com/music/2026/feb/27/bruno-mars-the-romantic-review-youre-better-off-listening-to-the-songs-hes-blatantly-imitating"
+  ],
+  [
+    "laundry",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/feb/27/12-best-laundry-products-detergent-sprays-hampers"
   ]
 ];
