@@ -3,14 +3,20 @@
   "ORG": [
     {
       "name": "Trump Immigration",
-      "count": 84,
+      "count": 74,
       "url": "https://www.politico.com/news/2026/02/20/werder-bremen-cancel-minneapolis-trip-00790720",
       "source": "Politico"
     },
     {
-      "name": "Congress",
+      "name": "Supreme Court'S",
       "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/feb/28/khamenei-killing-protests-us",
+      "url": "https://www.nbcnews.com/world/asia/china-emerges-big-winner-supreme-courts-tariff-ruling-rcna260382",
+      "source": "NBC News"
+    },
+    {
+      "name": "The White House",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/01/heated-rivalry-white-house-hockey",
       "source": "The Guardian"
     },
     {
@@ -20,108 +26,164 @@
       "source": "CBS News"
     },
     {
-      "name": "Supreme Leader’S",
-      "count": 12,
-      "url": "https://www.theguardian.com/world/2026/feb/28/us-israel-strikes-iran-tehran-response-visual-guide",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Filter Us",
-      "count": 12,
+      "count": 11,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
       "name": "Texas Senate",
-      "count": 10,
+      "count": 8,
       "url": "https://www.politico.com/news/2026/02/27/bannon-texas-senate-maga-00803314",
       "source": "Politico"
     },
     {
-      "name": "The White House",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News Special",
-      "count": 8,
-      "url": "https://www.cbsnews.com/video/war-with-iran-cbs-news-special/",
-      "source": "CBS News"
-    },
-    {
       "name": "Nbc News",
-      "count": 8,
+      "count": 7,
       "url": "https://www.nbcnews.com/nightly-news/video/details-on-weapons-used-in-iran-strike-258493509548",
       "source": "NBC News"
     },
     {
-      "name": "Breaking News",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/feb/28/midterms-democrats-house-senate",
+      "name": "Cnn",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/feb/28/trump-paramount-skydance-warner-bros-cnn-netflix",
       "source": "The Guardian"
+    },
+    {
+      "name": "Cbs News Special",
+      "count": 6,
+      "url": "https://www.cbsnews.com/video/war-with-iran-cbs-news-special/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Dhs",
+      "count": 5,
+      "url": "https://www.washingtonpost.com/national-security/2026/02/27/cbp-drone-us-military-faa-texas/",
+      "source": "Washington Post"
     }
   ],
   "GPE": [
     {
       "name": "Iran",
-      "count": 208,
+      "count": 186,
       "url": "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html",
       "source": "NY Times"
     },
     {
       "name": "Us",
-      "count": 123,
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports",
+      "count": 96,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/01/heated-rivalry-white-house-hockey",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 57,
+      "count": 56,
       "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html",
       "source": "NY Times"
     },
     {
       "name": "Israel",
-      "count": 54,
+      "count": 50,
       "url": "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/03/01/us/politics/texas-election-cornyn-paxton-crockett-talarico.html",
       "source": "NY Times"
     },
     {
       "name": "Tehran",
-      "count": 19,
+      "count": 11,
       "url": "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video/",
       "source": "Washington Post"
     },
     {
-      "name": "Uk",
-      "count": 16,
-      "url": "https://www.theguardian.com/commentisfree/2026/feb/27/the-guardian-view-on-trumps-war-on-science-europe-should-pick-up-talent-fleeing-the-us",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Russia",
-      "count": 14,
-      "url": "https://www.theguardian.com/world/2026/mar/01/ukraine-war-briefing-zelenskyy-says-russia-peace-talks-will-depend-on-situation-in-middle-east",
+      "name": "Iraq",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports",
       "source": "The Guardian"
     },
     {
       "name": "London",
-      "count": 14,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/feb/27/growing-pains-industry-has-shown-that-bigger-isnt-always-better",
+      "count": 11,
+      "url": "https://www.theguardian.com/games/2026/mar/01/12m-pokemon-card-sold-auction-trading",
       "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump",
+      "name": "Uk",
+      "count": 9,
+      "url": "https://www.theguardian.com/society/2026/feb/28/researchers-praise-stunning-results-of-new-prostate-cancer-treatment",
       "source": "The Guardian"
     },
     {
-      "name": "The United States",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html",
+      "name": "New York City’S",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/feb/28/new-york-city-rat-population-decline",
+      "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Ayatollah Ali Khamenei",
+      "count": 47,
+      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 25,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/01/trump-promised-no-wars-now-hes-a-bush-style-regime-change-president",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump ’S",
+      "count": 19,
+      "url": "https://www.theguardian.com/us-news/2026/mar/01/trump-us-iran-war-history",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Shia Labeouf",
+      "count": 8,
+      "url": "https://www.theguardian.com/film/2026/mar/01/shia-labeouf-alleged-assaults-homophobic-slurs",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tim Booth’S",
+      "count": 8,
+      "url": "https://www.theguardian.com/music/2026/mar/01/tim-booth-honest-playlist-nina-simone-underworld-don-mclean-patti-smith",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ayatollah Khamenei",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "count": 5,
+      "url": "https://www.washingtonpost.com/nation/2026/02/27/new-york-rental-ripoff-hearings-mamdani/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Joe Biden",
+      "count": 5,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/01/trump-promised-no-wars-now-hes-a-bush-style-regime-change-president",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hilary Knight",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/mar/01/hilary-knight-snl-appearance-trump-joke-jack-hughes-ice-hockey",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Arlo Parks",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/mar/01/arlo-parks-interview-new-album-ambiguous-desire",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
@@ -132,27 +194,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "The World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/feb/28/footballs-rulemakers-to-launch-review-of-var-and-plan-for-vinicius-law",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran     The",
+      "name": "Olympics",
       "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/feb/28/war-on-iran-how-the-us-israeli-bid-for-regime-change-unfolded",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jean-Luc Mélenchon",
-      "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/feb/28/political-killing-french-left-quentin-deranque-jean-luc-melenchon",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Winter Olympics",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/feb/27/donald-trump-usa-womens-hockey-team-joke-winter-olympics",
+      "url": "https://www.theguardian.com/sport/2026/mar/01/hilary-knight-snl-appearance-trump-joke-jack-hughes-ice-hockey",
       "source": "The Guardian"
     },
     {
@@ -160,6 +204,12 @@
       "count": 1,
       "url": "https://www.theguardian.com/games/2026/feb/25/all-change-at-the-head-of-xbox-what-will-this-mean-for-the-future-of-its-games",
       "source": "The Guardian"
+    },
+    {
+      "name": "Black And Asian American",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-02-28/la-city-council-should-expand-to-25-members-charter-reform-commission-says",
+      "source": "LA Times"
     },
     {
       "name": "Operation Epic Fury",
@@ -180,67 +230,5 @@
       "source": "Politico"
     }
   ],
-  "PERSON": [
-    {
-      "name": "Ayatollah Ali Khamenei",
-      "count": 38,
-      "url": "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 29,
-      "url": "https://www.theguardian.com/commentisfree/2026/feb/28/diversionary-war-trump-wants-to-distract-americans-from-scandals-at-home",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump ’S",
-      "count": 24,
-      "url": "https://www.theguardian.com/us-news/2026/feb/28/midterms-democrats-house-senate",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Khamenei     Venezula’S",
-      "count": 16,
-      "url": "https://www.theguardian.com/world/2026/feb/28/strategic-options-iran-retaliate-us-israel-analysis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tim Dowling",
-      "count": 8,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/28/tim-dowling-do-i-look-like-a-man-who-would-buy-stolen-wine",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Volodymyr Zelenskyy",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/mar/01/ukraine-war-briefing-zelenskyy-says-russia-peace-talks-will-depend-on-situation-in-middle-east",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Shia Labeouf",
-      "count": 6,
-      "url": "https://www.theguardian.com/film/2026/feb/27/new-orleans-police-shia-labeouf",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Zohran Mamdani",
-      "count": 5,
-      "url": "https://www.washingtonpost.com/nation/2026/02/27/new-york-rental-ripoff-hearings-mamdani/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Nancy Guthrie",
-      "count": 5,
-      "url": "https://www.washingtonpost.com/nation/2026/02/27/nancy-guthrie-moms-search-mexico/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Joe Biden",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/feb/28/joe-biden-donald-trump-midterm-elections",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-03-01T07:36:25Z"
+  "updated": "2026-03-01T13:42:10Z"
 };
