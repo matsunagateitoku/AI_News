@@ -2,83 +2,103 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "iran",
-    175,
-    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+    173,
+    "https://www.nytimes.com/2026/03/01/world/europe/iran-regime-middle-east-khamenei.html"
   ],
   [
     "trump",
-    120,
-    "https://www.nytimes.com/2026/02/28/us/politics/trump-peace-president-war.html"
-  ],
-  [
-    "strikes",
-    70,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
-  ],
-  [
-    "israel",
-    61,
-    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
-  ],
-  [
-    "president",
-    55,
-    "https://www.nytimes.com/2026/02/28/us/politics/trump-peace-president-war.html"
-  ],
-  [
-    "khamenei",
-    52,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
+    104,
+    "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-public-comments.html"
   ],
   [
     "war",
+    51,
+    "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-public-comments.html"
+  ],
+  [
+    "president",
     49,
-    "https://www.nytimes.com/2026/02/28/us/politics/trump-peace-president-war.html"
+    "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-public-comments.html"
   ],
   [
-    "supreme",
-    43,
-    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+    "strikes",
+    46,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/us-israel-iran-attack-maps.html"
   ],
   [
-    "ayatollah",
-    41,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
-  ],
-  [
-    "leader",
-    40,
-    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+    "khamenei",
+    45,
+    "https://www.nytimes.com/2026/03/01/opinion/iran-khamenei-killed-what-next.html"
   ],
   [
     "killed",
-    40,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
+    43,
+    "https://www.nytimes.com/2026/03/01/us/austin-shooting-bufords-6th-street.html"
   ],
   [
-    "ali",
-    39,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
+    "leader",
+    42,
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+  ],
+  [
+    "israel",
+    41,
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
   ],
   [
     "israeli",
-    37,
-    "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video/"
+    41,
+    "https://www.washingtonpost.com/nation/2026/03/01/iranian-americans-reaction-military-strikes/"
+  ],
+  [
+    "ayatollah",
+    38,
+    "https://www.nytimes.com/2026/03/01/opinion/iran-khamenei-killed-what-next.html"
+  ],
+  [
+    "supreme",
+    35,
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+  ],
+  [
+    "ali",
+    34,
+    "https://www.nytimes.com/2026/03/01/briefing/killing-irans-leader.html"
   ],
   [
     "iranian",
-    34,
+    32,
     "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
   ],
   [
     "military",
-    31,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
+    29,
+    "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-public-comments.html"
   ],
   [
-    "attacks",
+    "operation",
+    28,
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+  ],
+  [
+    "sen",
+    27,
+    "https://www.foxnews.com/media/fetterman-praises-trumps-iran-operation-historic-moment-america-amid-party-divisions"
+  ],
+  [
+    "attack",
     26,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
+  ],
+  [
+    "strike",
+    26,
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+  ],
+  [
+    "middle",
+    25,
+    "https://www.nytimes.com/2026/03/01/world/europe/iran-regime-middle-east-khamenei.html"
   ],
   [
     "texas",
@@ -86,69 +106,74 @@
     "https://www.nytimes.com/2026/03/01/us/politics/texas-election-cornyn-paxton-crockett-talarico.html"
   ],
   [
-    "donald",
+    "nation",
     24,
-    "https://www.theguardian.com/commentisfree/2026/mar/01/trump-promised-no-wars-now-hes-a-bush-style-regime-change-president"
+    "https://www.nytimes.com/2026/02/27/world/africa/nigeria-dangote-refinery.html"
   ],
   [
-    "attack",
-    22,
-    "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
-  ],
-  [
-    "middle",
-    22,
-    "https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports"
-  ],
-  [
-    "police",
-    21,
-    "https://www.nytimes.com/2026/03/01/us/austin-shooting-bufords-6th-street.html"
-  ],
-  [
-    "regime",
-    20,
-    "https://www.nytimes.com/2026/02/28/us/politics/trump-peace-president-war.html"
-  ],
-  [
-    "american",
-    20,
-    "https://www.nytimes.com/2026/02/28/us/politics/trump-peace-president-war.html"
-  ],
-  [
-    "strike",
-    20,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
-  ],
-  [
-    "team",
-    20,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "iran's",
-    20,
-    "https://www.latimes.com/world-nation/story/2026-02-28/ayatollah-ali-khamenei-death-iran"
-  ],
-  [
-    "death",
-    19,
-    "https://www.nytimes.com/2026/03/01/briefing/killing-irans-leader.html"
-  ],
-  [
-    "north",
-    19,
-    "https://www.washingtonpost.com/obituaries/2026/02/28/juan-valdez-dead-last-marine-vietnam/"
+    "school",
+    23,
+    "https://www.theguardian.com/commentisfree/2026/mar/01/trump-and-netanyahus-attack-on-iran-is-an-act-of-aggression"
   ],
   [
     "east",
-    19,
-    "https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports"
+    21,
+    "https://www.nytimes.com/2026/03/01/world/europe/iran-regime-middle-east-khamenei.html"
   ],
   [
-    "york",
+    "states",
+    21,
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+  ],
+  [
+    "american",
+    21,
+    "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-public-comments.html"
+  ],
+  [
+    "donald",
+    21,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/01/saturday-night-live-recap-connor-storrie"
+  ],
+  [
+    "death",
+    20,
+    "https://www.nytimes.com/2026/03/01/briefing/killing-irans-leader.html"
+  ],
+  [
+    "night",
+    19,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/01/saturday-night-live-recap-connor-storrie"
+  ],
+  [
+    "following",
+    19,
+    "https://www.theguardian.com/world/2026/mar/01/people-dead-after-pro-iran-protests-pakistan-iraq"
+  ],
+  [
+    "margaret",
+    19,
+    "https://www.cbsnews.com/news/face-the-nation-full-transcript-03-01-2026/"
+  ],
+  [
+    "body",
     18,
-    "https://www.theguardian.com/commentisfree/2026/mar/01/trump-promised-no-wars-now-hes-a-bush-style-regime-change-president"
+    "https://www.theguardian.com/books/2026/mar/01/christina-applegate-ms-diagnosis-memoir-autobiography"
+  ],
+  [
+    "brennan",
+    18,
+    "https://www.cbsnews.com/news/face-the-nation-full-transcript-03-01-2026/"
+  ],
+  [
+    "tehran",
+    17,
+    "https://www.nytimes.com/2026/02/28/world/middleeast/us-israel-iran-attack-maps.html"
+  ],
+  [
+    "country",
+    17,
+    "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-public-comments.html"
   ],
   [
     "latest",
@@ -156,49 +181,69 @@
     "https://www.nytimes.com/2026/03/01/world/europe/epstein-files-arrests-europe-uk.html"
   ],
   [
+    "democrats",
+    17,
+    "https://www.nytimes.com/2026/03/01/us/politics/texas-election-cornyn-paxton-crockett-talarico.html"
+  ],
+  [
+    "shooting",
+    17,
+    "https://www.nytimes.com/2026/03/01/us/austin-shooting-bufords-6th-street.html"
+  ],
+  [
     "star",
     17,
-    "https://www.theguardian.com/world/2026/feb/28/dubais-famous-fairmont-hotel-in-flames-after-iranian-air-strike"
-  ],
-  [
-    "america",
-    16,
-    "https://www.nytimes.com/2026/02/28/us/politics/trump-peace-president-war.html"
-  ],
-  [
-    "launched",
-    16,
-    "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
-  ],
-  [
-    "school",
-    16,
-    "https://www.theguardian.com/world/2026/mar/01/iran-school-bombing-death-toll-us-israel-strikes"
+    "https://www.theguardian.com/tv-and-radio/2026/mar/01/saturday-night-live-recap-connor-storrie"
   ],
   [
     "media",
+    17,
+    "https://www.theguardian.com/world/2026/mar/01/trump-iran-attack-2020-election-loss"
+  ],
+  [
+    "early",
     16,
-    "https://www.theguardian.com/world/2026/mar/01/iran-school-bombing-death-toll-us-israel-strikes"
+    "https://www.nytimes.com/2026/03/01/us/austin-shooting-bufords-6th-street.html"
   ],
   [
-    "little",
-    15,
-    "https://www.nytimes.com/2026/03/01/us/epstein-justice-department-investigations.html"
+    "democratic",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/mar/01/trump-and-netanyahus-attack-on-iran-is-an-act-of-aggression"
   ],
   [
-    "global",
-    15,
-    "https://www.nytimes.com/2026/02/28/climate/seabed-mining-rulebook-isa-metals-company.html"
+    "social",
+    16,
+    "https://www.theguardian.com/world/2026/mar/01/trump-iran-attack-2020-election-loss"
   ],
   [
-    "following",
+    "regime",
     15,
-    "https://www.theguardian.com/us-news/2026/mar/01/us-contractors-stranded-kuwait"
+    "https://www.nytimes.com/2026/03/01/world/europe/iran-regime-middle-east-khamenei.html"
   ],
   [
-    "body",
+    "leaders",
     15,
-    "https://www.theguardian.com/us-news/2026/feb/28/lil-jon-son-drowned-hallucinogenic-mushrooms"
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+  ],
+  [
+    "intelligence",
+    15,
+    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+  ],
+  [
+    "team",
+    15,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "political",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/01/los-angeles-iranian-community"
+  ],
+  [
+    "something",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/01/journalist-catholic-clergy-abuse-scandal-new-orleans"
   ],
   [
     "don",
@@ -206,54 +251,59 @@
     "https://www.theguardian.com/us-news/2026/mar/01/journalist-catholic-clergy-abuse-scandal-new-orleans"
   ],
   [
-    "leaders",
-    14,
-    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+    "feel",
+    15,
+    "https://www.theguardian.com/books/2026/mar/01/christina-applegate-ms-diagnosis-memoir-autobiography"
   ],
   [
-    "intelligence",
+    "led",
     14,
-    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
+    "https://www.nytimes.com/2026/02/28/world/middleeast/us-israel-iran-attack-maps.html"
   ],
   [
-    "operation",
-    14,
-    "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
-  ],
-  [
-    "change",
-    14,
-    "https://www.nytimes.com/2026/02/28/us/politics/trump-peace-president-war.html"
-  ],
-  [
-    "democrats",
+    "senate",
     14,
     "https://www.nytimes.com/2026/03/01/us/politics/texas-election-cornyn-paxton-crockett-talarico.html"
   ],
   [
-    "early",
+    "campaign",
     14,
-    "https://www.nytimes.com/2026/03/01/us/austin-shooting-bufords-6th-street.html"
+    "https://www.nytimes.com/2026/03/01/opinion/iran-khamenei-killed-what-next.html"
   ],
   [
-    "country",
+    "james",
     14,
-    "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
+    "https://www.theguardian.com/tv-and-radio/2026/mar/01/saturday-night-live-recap-connor-storrie"
   ],
   [
-    "inside",
+    "missile",
     14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.theguardian.com/world/2026/mar/01/us-allies-foes-scrambling-trump-off-guard-iran"
+  ],
+  [
+    "administration",
+    14,
+    "https://www.theguardian.com/world/2026/mar/01/iran-attacks-republican-democrat-reactions"
+  ],
+  [
+    "minutes",
+    14,
+    "https://www.theguardian.com/sport/2026/mar/01/us-half-marathon-championship-ends-in-chaos-as-lead-runners-guided-in-wrong-direction"
+  ],
+  [
+    "son",
+    14,
+    "https://www.theguardian.com/games/2026/mar/01/12m-pokemon-card-sold-auction-trading"
+  ],
+  [
+    "hard",
+    14,
+    "https://www.theguardian.com/business/2026/mar/01/trump-tariffs-business-refund-supreme-court"
   ],
   [
     "winter",
     14,
-    "https://www.theguardian.com/us-news/2026/feb/28/new-york-city-rat-population-decline"
-  ],
-  [
-    "feel",
-    14,
-    "https://www.theguardian.com/books/2026/mar/01/christina-applegate-ms-diagnosis-memoir-autobiography"
+    "https://www.theguardian.com/sport/2026/feb/28/mighty-mathieu-van-der-poel-powers-to-victory-omloop-het-nieuwsblad-cycling"
   ],
   [
     "laundry",
@@ -261,14 +311,14 @@
     "https://www.theguardian.com/thefilter-us/2026/feb/27/12-best-laundry-products-detergent-sprays-hampers"
   ],
   [
-    "states",
+    "killing",
     13,
     "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
   ],
   [
-    "power",
+    "little",
     13,
-    "https://www.nytimes.com/2026/02/28/us/politics/trump-peace-president-war.html"
+    "https://www.nytimes.com/2026/03/01/us/epstein-justice-department-investigations.html"
   ],
   [
     "sex",
@@ -276,103 +326,53 @@
     "https://www.nytimes.com/2026/03/01/world/europe/epstein-files-arrests-europe-uk.html"
   ],
   [
-    "led",
+    "party",
     13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/03/01/us/politics/texas-election-cornyn-paxton-crockett-talarico.html"
   ],
   [
-    "several",
+    "joint",
     13,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.nytimes.com/2026/03/01/us/austin-shooting-bufords-6th-street.html"
   ],
   [
-    "minister",
+    "ice",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "political",
+    "fire",
     13,
-    "https://www.theguardian.com/commentisfree/2026/mar/01/trump-promised-no-wars-now-hes-a-bush-style-regime-change-president"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "hours",
+    "filter",
     13,
-    "https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health"
+    "https://www.theguardian.com/thefilter-us/2026/mar/01/what-readers-bought"
   ],
   [
-    "missile",
-    13,
-    "https://www.theguardian.com/world/2026/mar/01/iran-school-bombing-death-toll-us-israel-strikes"
-  ],
-  [
-    "social",
-    13,
-    "https://www.theguardian.com/world/2026/feb/28/dubais-famous-fairmont-hotel-in-flames-after-iranian-air-strike"
-  ],
-  [
-    "americans",
-    13,
-    "https://www.theguardian.com/us-news/2026/mar/01/trump-us-iran-war-history"
-  ],
-  [
-    "announced",
-    13,
-    "https://www.theguardian.com/us-news/2026/mar/01/hundreds-of-thousands-of-travellers-stranded-or-diverted-amid-air-space-closures-in-middle-east"
-  ],
-  [
-    "game",
-    13,
-    "https://www.theguardian.com/games/2026/mar/01/12m-pokemon-card-sold-auction-trading"
-  ],
-  [
-    "cbs",
-    13,
-    "https://www.theguardian.com/film/2026/feb/27/teddies-toys-and-friendship-bracelets-the-film-about-the-empty-bedrooms-of-school-shooting-victims"
-  ],
-  [
-    "outside",
+    "attacks",
     12,
-    "https://www.nytimes.com/2026/02/28/us/politics/wesley-hunt-texas-senate-race-campaign-finance.html"
+    "https://www.nytimes.com/2026/03/01/briefing/ask-the-morning-attacks-on-iran.html"
   ],
   [
-    "campaign",
-    12,
-    "https://www.nytimes.com/2026/02/28/us/politics/wesley-hunt-texas-senate-race-campaign-finance.html"
-  ],
-  [
-    "shooting",
+    "bar",
     12,
     "https://www.nytimes.com/2026/03/01/us/austin-shooting-bufords-6th-street.html"
   ],
   [
-    "southern",
+    "black",
     12,
     "https://www.nytimes.com/2026/02/28/dining/joe-randall-dead.html"
   ],
   [
-    "near",
+    "americans",
+    12,
+    "https://www.washingtonpost.com/nation/2026/03/01/iranian-americans-reaction-military-strikes/"
+  ],
+  [
+    "outside",
     12,
     "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
-  ],
-  [
-    "response",
-    12,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "history",
-    12,
-    "https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health"
-  ],
-  [
-    "health",
-    12,
-    "https://www.theguardian.com/us-news/2026/mar/01/pregnant-immigrant-children-texas-abortion"
-  ],
-  [
-    "something",
-    12,
-    "https://www.theguardian.com/us-news/2026/mar/01/journalist-catholic-clergy-abuse-scandal-new-orleans"
   ]
 ];
