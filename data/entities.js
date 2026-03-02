@@ -2,96 +2,158 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Immigration",
-      "count": 52,
-      "url": "https://www.politico.com/news/2026/02/20/werder-bremen-cancel-minneapolis-trip-00790720",
-      "source": "Politico"
+      "name": "Trump Administration ’S Immigration And Customs Enforcement",
+      "count": 65,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/02/john-oliver-police-body-cameras",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cbs News",
+      "count": 15,
+      "url": "https://www.cbsnews.com/video/travel-blogger-stuck-at-kuwait-airport-says-the-us-government-is-not-helping/",
+      "source": "CBS News"
     },
     {
       "name": "Ai",
-      "count": 14,
-      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/02/how-to-use-ai-practically",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/02/meta-oversight-board-ai",
       "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/mar/02/iran-attack-plan-what-next",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 10,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/03/02/us/politics/dhs-shutdown-impacts.html",
-      "source": "NY Times"
     },
     {
       "name": "U.S.-Israeli",
-      "count": 8,
+      "count": 12,
       "url": "https://www.washingtonpost.com/nation/2026/03/01/iranian-americans-reaction-military-strikes/",
       "source": "Washington Post"
     },
     {
-      "name": "Hezbollah",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news",
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Supreme Court",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/03/02/us/politics/supreme-court-guns-drugs.html",
+      "name": "Texas Senate",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/03/02/us/elections/cornyn-talarico-texas-senate-money.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Gop Reps",
+      "count": 9,
+      "url": "https://www.cbsnews.com/video/32-face-the-nation/",
+      "source": "CBS News"
     },
     {
       "name": "Pentagon",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
+      "count": 8,
+      "url": "https://www.nytimes.com/2025/11/26/us/trump-boat-strike-videos.html",
       "source": "NY Times"
     },
     {
+      "name": "The White House",
+      "count": 8,
+      "url": "https://www.theguardian.com/world/2026/mar/02/iran-attack-plan-what-next",
+      "source": "The Guardian"
+    },
+    {
       "name": "Guardian News",
-      "count": 7,
+      "count": 8,
       "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Iran",
+      "count": 188,
+      "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Us",
+      "count": 83,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/02/us-trump-iran-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 60,
+      "url": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 35,
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Uk",
+      "count": 22,
+      "url": "https://www.theguardian.com/us-news/2026/mar/02/jeffrey-epstein-uk-us-arrests",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/03/02/us/elections/cornyn-talarico-texas-senate-money.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kuwait",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Tehran",
+      "count": 12,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/02/us-trump-iran-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "North London",
+      "count": 12,
+      "url": "https://www.theguardian.com/football/2026/mar/02/tottenham-hotspur-relegation-premier-league",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "Operation Epic Fury",
-      "count": 4,
+      "count": 5,
       "url": "https://www.theguardian.com/commentisfree/2026/mar/02/us-trump-iran-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/2026/mar/02/iraq-united-arab-emirates-uae-iran-fifa-world-cup-tournament-us-mexico-canada",
       "source": "The Guardian"
     },
     {
       "name": "The U.S.-Israeli War",
       "count": 4,
-      "url": "https://www.cbsnews.com/live-updates/iran-us-war-day-3-american-deaths-israel-gulf-allies-hit-missile-strikes/",
+      "url": "https://www.cbsnews.com/video/travel-blogger-stuck-at-kuwait-airport-says-the-us-government-is-not-helping/",
       "source": "CBS News"
     },
     {
-      "name": "Iran War",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html",
-      "source": "NY Times"
+      "name": "The 2014 World Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/football/2026/mar/02/mls-teenagers-lionel-messi-inter-miami-orlando-city",
+      "source": "The Guardian"
     },
     {
       "name": "War With Iran",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/03/02/podcasts/the-headlines/trump-iran-oil-prices-jump.html",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/03/02/opinion/trump-iran-war-future.html",
       "source": "NY Times"
-    },
-    {
-      "name": "The 2014 World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/mar/02/mls-teenagers-lionel-messi-inter-miami-orlando-city",
-      "source": "The Guardian"
     },
     {
       "name": "The War Expands",
@@ -100,9 +162,15 @@
       "source": "NY Times"
     },
     {
-      "name": "Olympics",
+      "name": "Iran      What",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/mar/01/hilary-knight-snl-appearance-trump-joke-jack-hughes-ice-hockey",
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/02/democrats-to-force-vote-in-congress-to-limit-trumps-war-powers-against-iran-us-politics-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War     The",
+      "count": 1,
+      "url": "https://www.theguardian.com/law/2026/mar/02/legality-us-israel-attacks-iran-uk",
       "source": "The Guardian"
     },
     {
@@ -116,38 +184,32 @@
       "count": 1,
       "url": "https://www.latimes.com/entertainment-arts/awards/story/2026-03-01/sag-awards-2026-red-carpet-actors",
       "source": "LA Times"
-    },
-    {
-      "name": "Operation Desert Storm",
-      "count": 1,
-      "url": "https://www.cbsnews.com/video/030126-cbs-sunday-morning/",
-      "source": "CBS News"
     }
   ],
   "PERSON": [
     {
-      "name": "Ayatollah Ali Khamenei",
-      "count": 19,
-      "url": "https://www.theguardian.com/us-news/2026/mar/02/democrats-divided-iran-trump",
-      "source": "The Guardian"
+      "name": "Donald Trump",
+      "count": 27,
+      "url": "https://www.washingtonpost.com/politics/2026/03/01/donald-trump-black-history-month/",
+      "source": "Washington Post"
     },
     {
       "name": "Donald Trump ’S",
-      "count": 11,
+      "count": 15,
       "url": "https://www.theguardian.com/us-news/2026/mar/02/democrats-divided-iran-trump",
       "source": "The Guardian"
     },
     {
-      "name": "Donald Trump",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/02/us-trump-iran-war",
+      "name": "Keir Starmer",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/2026/mar/02/uk-airbases-us-attack-iran-trump-starmer",
       "source": "The Guardian"
     },
     {
-      "name": "Jesse Jackson",
+      "name": "Ayatollah Ali Khamenei",
       "count": 9,
-      "url": "https://www.nytimes.com/2026/03/02/us/greenville-jesse-jackson.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/us-news/2026/mar/02/democrats-divided-iran-trump",
+      "source": "The Guardian"
     },
     {
       "name": "Pete Hegseth",
@@ -162,15 +224,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "Michael B Jordan",
-      "count": 6,
-      "url": "https://www.theguardian.com/film/2026/mar/02/sag-actor-awards-2026-winners-michael-b-jordan-jessie-buckley-catherine-ohara",
-      "source": "The Guardian"
+      "name": "John Cornyn",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/03/02/us/elections/cornyn-talarico-texas-senate-money.html",
+      "source": "NY Times"
     },
     {
-      "name": "Hilary Knight",
+      "name": "Volodymyr Zelenskyy",
       "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/mar/01/hilary-knight-snl-appearance-trump-joke-jack-hughes-ice-hockey",
+      "url": "https://www.theguardian.com/world/2026/mar/02/ukraine-war-briefing-drone-experts-to-stop-iran-drone-attacks-starmer",
       "source": "The Guardian"
     },
     {
@@ -186,67 +248,5 @@
       "source": "The Guardian"
     }
   ],
-  "GPE": [
-    {
-      "name": "Iran",
-      "count": 161,
-      "url": "https://www.nytimes.com/2026/03/02/world/europe/trump-iran-europe.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Us Consulate",
-      "count": 76,
-      "url": "https://thehill.com/policy/international/5761699-22-killed-more-than-120-wounded-as-protesters-try-to-storm-us-consulate-in-pakistan/",
-      "source": "The Hill"
-    },
-    {
-      "name": "U.S.",
-      "count": 57,
-      "url": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 40,
-      "url": "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Kuwait",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/mar/02/jeffrey-epstein-uk-us-arrests",
-      "source": "The Guardian"
-    },
-    {
-      "name": "London",
-      "count": 14,
-      "url": "https://www.theguardian.com/business/2026/mar/02/middle-east-crisis-oil-prices-inflation-us-iran-interest-rates-growth",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tehran",
-      "count": 12,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/02/us-trump-iran-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Florida",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/mar/02/missing-florida-man-found-mud-rescue",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ukraine",
-      "count": 12,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/01/trump-and-netanyahus-attack-on-iran-is-an-act-of-aggression",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-03-02T14:03:10Z"
+  "updated": "2026-03-02T19:40:09Z"
 };

@@ -2,313 +2,343 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "iran",
-    161,
-    "https://www.nytimes.com/2026/03/02/world/europe/trump-iran-europe.html"
+    189,
+    "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html"
   ],
   [
     "trump",
-    72,
-    "https://www.nytimes.com/2026/03/02/world/europe/trump-iran-europe.html"
+    112,
+    "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html"
   ],
   [
     "war",
-    67,
-    "https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html"
-  ],
-  [
-    "israel",
-    57,
-    "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
+    72,
+    "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html"
   ],
   [
     "strikes",
-    44,
-    "https://www.washingtonpost.com/nation/2026/03/01/iranian-americans-reaction-military-strikes/"
+    60,
+    "https://www.nytimes.com/2025/11/26/us/trump-boat-strike-videos.html"
   ],
   [
     "president",
-    37,
-    "https://www.nytimes.com/2026/03/02/world/europe/trump-iran-europe.html"
+    54,
+    "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html"
   ],
   [
-    "military",
-    34,
-    "https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html"
-  ],
-  [
-    "iranian",
-    32,
-    "https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html"
-  ],
-  [
-    "middle",
-    31,
-    "https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html"
-  ],
-  [
-    "israeli",
-    31,
-    "https://www.washingtonpost.com/nation/2026/03/01/iranian-americans-reaction-military-strikes/"
-  ],
-  [
-    "american",
-    30,
-    "https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html"
-  ],
-  [
-    "killed",
-    30,
-    "https://www.theguardian.com/commentisfree/2026/mar/02/us-trump-iran-war"
-  ],
-  [
-    "east",
-    27,
-    "https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html"
-  ],
-  [
-    "leader",
-    25,
-    "https://www.theguardian.com/world/2026/mar/02/israel-idf-strikes-hezbollah-beirut-lebanon-iran-war"
-  ],
-  [
-    "conflict",
-    24,
+    "israel",
+    49,
     "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
   ],
   [
-    "operation",
-    24,
-    "https://www.theguardian.com/commentisfree/2026/mar/02/us-trump-iran-war"
+    "israeli",
+    44,
+    "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html"
   ],
   [
-    "attack",
+    "iranian",
+    36,
+    "https://www.washingtonpost.com/nation/2026/03/01/iranian-americans-reaction-military-strikes/"
+  ],
+  [
+    "military",
+    32,
+    "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html"
+  ],
+  [
+    "middle",
+    32,
+    "https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html"
+  ],
+  [
+    "attacks",
+    31,
+    "https://www.nytimes.com/2025/11/26/us/trump-boat-strike-videos.html"
+  ],
+  [
+    "texas",
+    29,
+    "https://www.nytimes.com/2026/03/02/us/elections/cornyn-talarico-texas-senate-money.html"
+  ],
+  [
+    "east",
+    28,
+    "https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html"
+  ],
+  [
+    "rice",
+    26,
+    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
+  ],
+  [
+    "american",
     23,
     "https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html"
   ],
   [
-    "supreme",
-    21,
-    "https://www.nytimes.com/2026/03/02/us/politics/supreme-court-guns-drugs.html"
+    "don",
+    23,
+    "https://www.theguardian.com/us-news/live/2026/mar/02/democrats-to-force-vote-in-congress-to-limit-trumps-war-powers-against-iran-us-politics-live"
   ],
   [
-    "little",
-    20,
-    "https://www.nytimes.com/2026/03/02/world/europe/trump-iran-europe.html"
-  ],
-  [
-    "attacks",
-    20,
-    "https://www.nytimes.com/2026/03/02/us/politics/dhs-shutdown-impacts.html"
-  ],
-  [
-    "late",
-    20,
-    "https://www.nytimes.com/2026/03/01/us/jeffrey-epstein-new-mexico-zorro-ranch.html"
+    "killed",
+    22,
+    "https://www.theguardian.com/commentisfree/2026/mar/02/us-trump-iran-war"
   ],
   [
     "states",
-    20,
-    "https://www.nytimes.com/2026/03/02/us/billionaire-boom-takeaways.html"
+    21,
+    "https://www.nytimes.com/2026/03/02/health/hiv-drugs-ryan-white.html"
   ],
   [
-    "school",
-    20,
-    "https://www.theguardian.com/film/2026/mar/02/teacher-putin-primary-school-propoganda-mr-nobody-against-putin-pavel-talankin"
-  ],
-  [
-    "media",
-    20,
-    "https://www.theguardian.com/film/2026/mar/02/teacher-putin-primary-school-propoganda-mr-nobody-against-putin-pavel-talankin"
+    "operation",
+    21,
+    "https://www.theguardian.com/commentisfree/2026/mar/02/us-trump-iran-war"
   ],
   [
     "game",
-    20,
+    21,
     "https://www.theguardian.com/games/2026/mar/02/stardew-valley-at-10-the-anticapitalist-game-that-cures-burnout-and-inspires-queer-art"
+  ],
+  [
+    "thousands",
+    21,
+    "https://www.theguardian.com/games/2026/mar/02/stardew-valley-at-10-the-anticapitalist-game-that-cures-burnout-and-inspires-queer-art"
+  ],
+  [
+    "attack",
+    20,
+    "https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html"
+  ],
+  [
+    "country",
+    20,
+    "https://www.nytimes.com/2026/03/02/us/billionaire-boom-jackson-teton-wyoming.html"
+  ],
+  [
+    "video",
+    19,
+    "https://www.nytimes.com/2025/11/26/us/trump-boat-strike-videos.html"
   ],
   [
     "regime",
     19,
-    "https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html"
+    "https://www.nytimes.com/2026/03/02/opinion/trump-iran-war-future.html"
   ],
   [
-    "country",
+    "conflict",
     19,
-    "https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html"
+    "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/"
   ],
   [
-    "latest",
+    "oil",
     19,
-    "https://www.nytimes.com/2026/03/02/briefing/the-war-expands.html"
+    "https://www.theguardian.com/world/2026/mar/02/iran-strait-hormuz-oil-global-prices-cost-of-living"
   ],
   [
-    "actor",
+    "sleep",
     19,
-    "https://www.nytimes.com/2026/03/01/style/sag-actor-awards-looks-fashion.html"
+    "https://www.theguardian.com/books/2026/mar/01/christina-applegate-ms-diagnosis-memoir-autobiography"
+  ],
+  [
+    "far",
+    18,
+    "https://www.nytimes.com/2026/03/02/nyregion/merchant-iran-plot-assassination-trump.html"
   ],
   [
     "early",
-    19,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "black",
-    19,
-    "https://www.theguardian.com/film/2026/mar/02/why-the-secret-agent-should-win-the-best-picture-oscar"
-  ],
-  [
-    "death",
-    19,
-    "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news"
-  ],
-  [
-    "thousands",
-    19,
-    "https://www.theguardian.com/world/2026/mar/02/flights-cancelled-middle-east-travel-chaos-us-israeli-iran-conflictflights-cancelled-middle-east-travel-chaos-us-israeli-iran-conflict"
-  ],
-  [
-    "don",
     18,
-    "https://www.nytimes.com/2026/03/02/opinion/trump-iran.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "social",
     18,
-    "https://www.theguardian.com/us-news/2026/mar/02/florida-ron-desantis-police-state-legacy"
+    "https://www.theguardian.com/business/2026/mar/02/mcdonalds-ceos-awkward-taste-test"
   ],
   [
-    "star",
+    "cbs",
     18,
-    "https://www.theguardian.com/football/2026/mar/02/mls-teenagers-lionel-messi-inter-miami-orlando-city"
+    "https://www.cbsnews.com/video/travel-blogger-stuck-at-kuwait-airport-says-the-us-government-is-not-helping/"
   ],
   [
-    "united",
+    "food",
     17,
-    "https://www.nytimes.com/2026/03/02/us/billionaire-boom-takeaways.html"
+    "https://www.nytimes.com/2026/03/02/health/kennedy-maha-vaccines.html"
+  ],
+  [
+    "james",
+    17,
+    "https://www.nytimes.com/2026/03/02/us/elections/cornyn-talarico-texas-senate-money.html"
+  ],
+  [
+    "night",
+    17,
+    "https://www.nytimes.com/2026/03/02/nyregion/queens-shooting-gonzalez-foehner.html"
+  ],
+  [
+    "film",
+    17,
+    "https://www.nytimes.com/2026/03/02/movies/wrong-movie-titles.html"
+  ],
+  [
+    "black",
+    17,
+    "https://www.washingtonpost.com/politics/2026/03/01/donald-trump-black-history-month/"
+  ],
+  [
+    "donald",
+    17,
+    "https://www.washingtonpost.com/politics/2026/03/01/donald-trump-black-history-month/"
+  ],
+  [
+    "police",
+    17,
+    "https://www.theguardian.com/global-development/2026/mar/02/el-salvador-bukele-anti-abortion-laws-women-criminalised-obstetric-crisis-miscarriage-rights"
+  ],
+  [
+    "family",
+    17,
+    "https://www.theguardian.com/world/2026/mar/02/carney-modi-meeting-canada-india"
+  ],
+  [
+    "media",
+    17,
+    "https://www.theguardian.com/business/2026/mar/02/mcdonalds-ceos-awkward-taste-test"
+  ],
+  [
+    "little",
+    16,
+    "https://www.nytimes.com/2026/03/02/world/europe/trump-iran-europe.html"
+  ],
+  [
+    "record",
+    16,
+    "https://www.nytimes.com/2026/03/02/us/elections/cornyn-talarico-texas-senate-money.html"
+  ],
+  [
+    "shooting",
+    16,
+    "https://www.nytimes.com/2026/03/02/us/austin-bar-shooting-victims.html"
+  ],
+  [
+    "latest",
+    16,
+    "https://www.nytimes.com/2026/03/02/briefing/the-war-expands.html"
   ],
   [
     "team",
-    17,
+    16,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
+    "bar",
+    16,
+    "https://www.theguardian.com/travel/2026/mar/02/my-search-for-the-perfect-brown-bar-in-amsterdam"
+  ],
+  [
+    "school",
+    16,
+    "https://www.theguardian.com/us-news/2026/feb/27/los-angeles-superintendent-fbi-raid"
+  ],
+  [
     "support",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/mar/02/us-trump-iran-war"
-  ],
-  [
-    "updates",
-    17,
-    "https://www.theguardian.com/world/2026/mar/02/israel-idf-strikes-hezbollah-beirut-lebanon-iran-war"
-  ],
-  [
-    "change",
-    17,
-    "https://www.theguardian.com/world/2026/mar/01/us-allies-foes-scrambling-trump-off-guard-iran"
-  ],
-  [
-    "video",
-    17,
-    "https://www.theguardian.com/games/2026/mar/02/stardew-valley-at-10-the-anticapitalist-game-that-cures-burnout-and-inspires-queer-art"
-  ],
-  [
-    "prices",
-    16,
-    "https://www.nytimes.com/2026/03/02/podcasts/the-headlines/trump-iran-oil-prices-jump.html"
-  ],
-  [
-    "texas",
-    16,
-    "https://www.nytimes.com/2026/03/02/us/politics/supreme-court-guns-drugs.html"
-  ],
-  [
-    "joint",
-    16,
-    "https://www.washingtonpost.com/nation/2026/03/01/iranian-americans-reaction-military-strikes/"
-  ],
-  [
-    "already",
-    16,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "strike",
-    16,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
-  ],
-  [
-    "really",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/02/pete-tong-interview-hearing-loss"
-  ],
-  [
-    "ayatollah",
-    16,
-    "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news"
-  ],
-  [
-    "kuwait",
     15,
-    "https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html"
+    "https://www.nytimes.com/2026/03/02/health/hiv-drugs-ryan-white.html"
+  ],
+  [
+    "united",
+    15,
+    "https://www.nytimes.com/2026/03/02/us/billionaire-boom-takeaways.html"
+  ],
+  [
+    "history",
+    15,
+    "https://www.nytimes.com/2026/03/02/us/elections/cornyn-talarico-texas-senate-money.html"
+  ],
+  [
+    "global",
+    15,
+    "https://www.nytimes.com/2026/03/02/us/politics/trump-tariffs-winners-losers.html"
   ],
   [
     "democrats",
     15,
-    "https://www.nytimes.com/2026/03/02/us/politics/dhs-shutdown-impacts.html"
+    "https://www.nytimes.com/2026/03/02/us/austin-shooting-politics.html"
   ],
   [
-    "jackson",
+    "americans",
     15,
-    "https://www.nytimes.com/2026/03/02/us/billionaire-boom-jackson-teton-wyoming.html"
+    "https://www.washingtonpost.com/nation/2026/03/01/iranian-americans-reaction-military-strikes/"
   ],
   [
-    "democratic",
+    "already",
     15,
-    "https://www.nytimes.com/2026/03/02/us/politics/texas-senate-primaries-personal-attacks.html"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "rights",
+    "least",
     15,
-    "https://www.nytimes.com/2026/03/02/us/greenville-jesse-jackson.html"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "air",
+    "several",
     15,
-    "https://www.nytimes.com/2026/03/02/world/asia/pakistan-afghanistan-bagram-attack.html"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "awards",
+    "late",
     15,
-    "https://www.nytimes.com/2026/03/01/style/sag-actor-awards-looks-fashion.html"
+    "https://www.theguardian.com/us-news/2026/mar/02/jeffrey-epstein-uk-us-arrests"
   ],
   [
-    "film",
+    "operations",
     15,
-    "https://www.theguardian.com/film/2026/mar/02/why-the-secret-agent-should-win-the-best-picture-oscar"
+    "https://www.theguardian.com/us-news/live/2026/mar/02/democrats-to-force-vote-in-congress-to-limit-trumps-war-powers-against-iran-us-politics-live"
   ],
   [
-    "drones",
+    "ahead",
+    15,
+    "https://www.theguardian.com/us-news/live/2026/mar/02/democrats-to-force-vote-in-congress-to-limit-trumps-war-powers-against-iran-us-politics-live"
+  ],
+  [
+    "missiles",
     15,
     "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news"
   ],
   [
-    "khamenei",
+    "body",
     15,
-    "https://www.theguardian.com/world/2026/mar/02/israel-idf-strikes-hezbollah-beirut-lebanon-iran-war"
+    "https://www.theguardian.com/tv-and-radio/2026/mar/02/john-oliver-police-body-cameras"
   ],
   [
-    "night",
+    "prices",
     15,
-    "https://www.theguardian.com/sport/2026/mar/01/hilary-knight-snl-appearance-trump-joke-jack-hughes-ice-hockey"
+    "https://www.theguardian.com/business/nils-pratley-on-finance/2026/mar/02/gas-shock-oil-iran-war-qatari-lng-strait-of-hormuz"
   ],
   [
-    "america",
-    14,
-    "https://www.nytimes.com/2026/03/02/world/europe/trump-iran-europe.html"
+    "energy",
+    15,
+    "https://www.theguardian.com/business/nils-pratley-on-finance/2026/mar/02/gas-shock-oil-iran-war-qatari-lng-strait-of-hormuz"
   ],
   [
-    "oil",
+    "tech",
     14,
-    "https://www.nytimes.com/2026/03/02/podcasts/the-headlines/trump-iran-oil-prices-jump.html"
+    "https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html"
+  ],
+  [
+    "austin",
+    14,
+    "https://www.nytimes.com/2026/03/02/us/austin-bar-shooting-victims.html"
+  ],
+  [
+    "feels",
+    14,
+    "https://www.nytimes.com/2026/03/02/opinion/trump-iran.html"
+  ],
+  [
+    "supreme",
+    14,
+    "https://www.nytimes.com/2026/03/02/us/politics/supreme-court-guns-drugs.html"
   ],
   [
     "law",
@@ -316,63 +346,33 @@
     "https://www.nytimes.com/2026/03/02/us/politics/supreme-court-guns-drugs.html"
   ],
   [
-    "son",
+    "change",
     14,
-    "https://www.nytimes.com/2026/03/02/us/politics/hunter-biden-supreme-court.html"
+    "https://www.washingtonpost.com/climate-environment/2026/03/02/national-parks-signs-censorship-slavery/"
   ],
   [
-    "children",
-    14,
-    "https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html"
-  ],
-  [
-    "love",
-    14,
-    "https://www.theguardian.com/film/2026/mar/02/why-the-secret-agent-should-win-the-best-picture-oscar"
-  ],
-  [
-    "play",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/02/pete-tong-interview-hearing-loss"
-  ],
-  [
-    "missiles",
-    14,
-    "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news"
-  ],
-  [
-    "ali",
-    14,
-    "https://www.theguardian.com/world/2026/mar/02/israel-idf-strikes-hezbollah-beirut-lebanon-iran-war"
-  ],
-  [
-    "london",
-    14,
-    "https://www.theguardian.com/business/2026/mar/02/middle-east-crisis-oil-prices-inflation-us-iran-interest-rates-growth"
-  ],
-  [
-    "police",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/01/texas-bar-shooting"
-  ],
-  [
-    "fashion",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/02/missing-florida-man-found-mud-rescue"
-  ],
-  [
-    "something",
+    "place",
     14,
     "https://www.theguardian.com/global-development/2026/mar/02/el-salvador-bukele-anti-abortion-laws-women-criminalised-obstetric-crisis-miscarriage-rights"
   ],
   [
-    "power",
+    "cup",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/02/florida-ron-desantis-police-state-legacy"
+    "https://www.theguardian.com/football/2026/mar/02/iraq-united-arab-emirates-uae-iran-fifa-world-cup-tournament-us-mexico-canada"
   ],
   [
-    "league",
+    "water",
     14,
-    "https://www.theguardian.com/football/2026/mar/02/premier-league-10-talking-points-from-the-weekend-action"
+    "https://www.theguardian.com/us-news/2026/mar/02/missing-florida-man-found-mud-rescue"
+  ],
+  [
+    "cooker",
+    14,
+    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
+  ],
+  [
+    "leader",
+    13,
+    "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html"
   ]
 ];
