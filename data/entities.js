@@ -2,46 +2,34 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "The World Cup",
-      "count": 5,
-      "url": "https://www.theguardian.com/football/2026/mar/02/iraq-united-arab-emirates-uae-iran-fifa-world-cup-tournament-us-mexico-canada",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Iran War",
+      "name": "Iran War Intensifies",
       "count": 4,
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/mar/02/gas-shock-oil-iran-war-qatari-lng-strait-of-hormuz",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Winter Olympics",
-      "count": 4,
-      "url": "https://www.foxnews.com/sports/aaron-judge-says-team-usa-baseball-fired-up-after-hockey-gold-wants-copy-what-olympic-teams-did",
-      "source": "Fox News"
-    },
-    {
-      "name": "Iran War Expands",
-      "count": 3,
-      "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-administration-troops-iran-war.html",
+      "url": "https://www.nytimes.com/2026/03/03/world/middleeast/stock-markets-iran.html",
       "source": "NY Times"
     },
     {
       "name": "Operation Epic Fury",
       "count": 3,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/02/us-trump-iran-war",
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/03/trump-iran-war-emergency-powers",
       "source": "The Guardian"
     },
     {
-      "name": "The Coming Iranian Revolution",
+      "name": "The Iran War",
       "count": 2,
-      "url": "https://www.nytimes.com/2026/03/03/opinion/iran-revolution-khomeini-shah.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/global-development/2026/mar/03/minab-school-bombing-how-the-worst-mass-casualty-event-of-the-iran-war-unfolded-a-visual-guide",
+      "source": "The Guardian"
     },
     {
-      "name": "Women&Apos;S Asian Cup",
+      "name": "The Asian Cup",
       "count": 2,
-      "url": "https://www.foxnews.com/sports/iranian-womens-soccer-team-refuse-sing-national-anthem-silent-protest-asian-cup",
-      "source": "Fox News"
+      "url": "https://www.theguardian.com/football/2026/mar/03/iran-women-football-team-decline-to-sing-national-anthem-before-asian-cup-tie",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Revolution",
+      "count": 1,
+      "url": "https://www.theguardian.com/books/2026/mar/03/the-last-kings-of-hollywood-by-paul-fischer-review-the-rise-and-reign-of-spielberg-lucas-and-coppola",
+      "source": "The Guardian"
     },
     {
       "name": "Ai  •   Don’T",
@@ -50,115 +38,35 @@
       "source": "The Guardian"
     },
     {
-      "name": "Black And Asian American",
+      "name": "The Dents Du Midi",
       "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-02-28/la-city-council-should-expand-to-25-members-charter-reform-commission-says",
+      "url": "https://www.theguardian.com/travel/2026/mar/03/skiing-switzerland-without-breaking-bank-verbier-la-tzoumaz",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iraq War",
+      "count": 1,
+      "url": "https://www.latimes.com/world-nation/story/2026-03-03/toppling-iraqs-hussein-unleashed-chaos-why-iran-war-poses-similar-risks",
       "source": "LA Times"
     },
     {
-      "name": "The Super Bowl",
+      "name": "The Iran War'S",
       "count": 1,
-      "url": "https://www.foxnews.com/sports/cardi-b-seemingly-takes-aim-ex-patriots-stefon-diggs-during-concert-rant-who-you-playin-with",
-      "source": "Fox News"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Administration ’S Immigration And Customs Enforcement",
-      "count": 74,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/02/john-oliver-police-body-cameras",
-      "source": "The Guardian"
+      "url": "https://www.cbsnews.com/news/dow-futures-stock-market-down-iran-energy-oil/",
+      "source": "CBS News"
     },
     {
-      "name": "Ai",
-      "count": 19,
-      "url": "https://www.theguardian.com/education/ng-interactive/2026/mar/03/cheating-machine-or-powerful-assistant-the-ai-anxieties-of-a-trainee-teacher",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 12,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Supreme Court Sides With Religious Parents, Blocking California’S",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/03/02/us/politics/supreme-court-california-trans-students.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "House Ethics Committee",
-      "count": 10,
-      "url": "https://thehill.com/homenews/house/5764052-mace-ethics-committee-review/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Pentagon",
-      "count": 9,
-      "url": "https://www.theguardian.com/science/audio/2026/mar/03/does-trump-want-to-wage-an-ai-powered-war-podcast",
-      "source": "The Guardian"
-    },
-    {
-      "name": "White House Correspondents' Association",
-      "count": 9,
-      "url": "https://www.foxnews.com/media/trump-accepts-white-house-correspondents-association-dinner-invitation-first-time-president",
-      "source": "Fox News"
-    },
-    {
-      "name": "Hezbollah",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/live/2026/mar/03/us-israel-war-iran-live-updates-attacks-strikes-trump-netanyahu-lebanon-middle-east-latest-news",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Breaking News",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/mar/02/melania-trump-un-children-iran-airstrike",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas Senate",
-      "count": 8,
-      "url": "https://www.cbsnews.com/video/what-voters-want-from-2026-midterms-polling/",
+      "name": "The U.S.-Israeli War",
+      "count": 1,
+      "url": "https://www.cbsnews.com/news/iran-strike-kuwait-officials-question-fortifications/",
       "source": "CBS News"
     }
   ],
   "PERSON": [
     {
-      "name": "Melania Trump",
-      "count": 21,
-      "url": "https://www.theguardian.com/us-news/2026/mar/02/melania-trump-un-children-iran-airstrike",
-      "source": "The Guardian"
-    },
-    {
       "name": "Donald Trump",
-      "count": 12,
-      "url": "https://www.washingtonpost.com/politics/2026/03/01/donald-trump-black-history-month/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Hillary Clinton",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/03/02/us/politics/clinton-bill-hillary-epstein-deposition-video.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Bill Clinton",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/03/02/us/politics/clinton-bill-hillary-epstein-deposition-video.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Jeffrey Epstein",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/mar/02/clintons-epstein-testimony-released",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Clintons",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/03/02/us/politics/clinton-bill-hillary-epstein-deposition-video.html",
+      "count": 38,
+      "url": "https://www.nytimes.com/2026/03/03/opinion/trump-imperialism-america.html",
       "source": "NY Times"
     },
     {
@@ -168,85 +76,177 @@
       "source": "The Guardian"
     },
     {
-      "name": "Oscar",
+      "name": "Clintons",
       "count": 6,
-      "url": "https://www.theguardian.com/books/2026/mar/03/the-last-kings-of-hollywood-by-paul-fischer-review-the-rise-and-reign-of-spielberg-lucas-and-coppola",
+      "url": "https://www.nytimes.com/2026/03/03/podcasts/the-headlines/iran-retaliation-clinton-epstein-testimony.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Hillary Clinton",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/03/02/us/politics/clinton-bill-hillary-epstein-deposition-video.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Joe Rogan",
+      "count": 5,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/03/joe-rogan-podcast-politics-trump",
       "source": "The Guardian"
     },
     {
-      "name": "Marco Rubio",
+      "name": "Jeffrey Epstein",
       "count": 5,
-      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
-      "source": "Wall St. Journal"
+      "url": "https://www.theguardian.com/us-news/2026/mar/02/clintons-epstein-testimony-released",
+      "source": "The Guardian"
     },
     {
-      "name": "Ayatollah Ali Khamenei",
+      "name": "Arlo Parks",
       "count": 5,
-      "url": "https://www.theguardian.com/science/audio/2026/mar/03/does-trump-want-to-wage-an-ai-powered-war-podcast",
+      "url": "https://www.theguardian.com/music/2026/mar/01/arlo-parks-interview-new-album-ambiguous-desire",
       "source": "The Guardian"
+    },
+    {
+      "name": "Masayoshi Takanaka",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/mar/02/masayoshi-takanaka-japanese-guitar-hero-surfing-a-second-wave",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kristi Noem",
+      "count": 5,
+      "url": "https://www.npr.org/2026/03/03/nx-s1-5732788/kristi-noem-judiciary-hearing-homeland-security",
+      "source": "NPR"
+    },
+    {
+      "name": "Ken Paxton",
+      "count": 5,
+      "url": "https://www.foxnews.com/politics/the-right-thing-paxton-cornyn-trade-blows-texas-primary-unite-trumps-iran-strikes",
+      "source": "Fox News"
     }
   ],
   "GPE": [
     {
       "name": "Iran",
-      "count": 159,
-      "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-military-power.html",
+      "count": 150,
+      "url": "https://www.nytimes.com/2026/03/03/world/middleeast/israel-iran-hezbollah.html",
       "source": "NY Times"
     },
     {
-      "name": "Us",
-      "count": 92,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/02/meta-oversight-board-ai",
+      "name": "Us County",
+      "count": 91,
+      "url": "https://www.theguardian.com/us-news/2026/mar/03/minnesota-investigation-us-immigration-officers",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 53,
-      "url": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-tehran-strikes.html",
+      "count": 48,
+      "url": "https://www.nytimes.com/2026/03/03/world/middleeast/israel-iran-hezbollah.html",
       "source": "NY Times"
     },
     {
       "name": "Israel",
-      "count": 45,
-      "url": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-tehran-strikes.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Tehran",
-      "count": 18,
+      "count": 36,
       "url": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-tehran-strikes.html",
       "source": "NY Times"
     },
     {
       "name": "Texas",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/03/02/us/elections/texas-primary-senate-midterms-argument.html",
+      "count": 31,
+      "url": "https://www.nytimes.com/2026/03/03/us/politics/texas-north-carolina-older-democrats.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Tehran",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-tehran-strikes.html",
       "source": "NY Times"
     },
     {
       "name": "Uk",
       "count": 13,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/02/ban-children-social-media-biometic-data-surveilled",
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/03/trump-iran-war-strategy",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 12,
+      "count": 11,
       "url": "https://www.theguardian.com/us-news/2026/mar/02/us-supreme-court-california-trans-students-privacy-law",
       "source": "The Guardian"
     },
     {
-      "name": "America",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/03/02/us/billionaire-boom-jackson-teton-wyoming.html",
+      "name": "China",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/03/03/business/ford-gm-ev-self-driving-cars-china.html",
       "source": "NY Times"
     },
     {
-      "name": "Washington",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/03/03/world/europe/merz-germany-trump-iran-meeting.html",
-      "source": "NY Times"
+      "name": "The North Carolina",
+      "count": 10,
+      "url": "https://www.npr.org/2026/03/03/g-s1-112278/up-first-newsletter-iran-us-israel-middle-east-nc-texas-primaries-kristi-noem-bill-clinton",
+      "source": "NPR"
     }
   ],
-  "updated": "2026-03-03T07:46:19Z"
+  "ORG": [
+    {
+      "name": "Trump Administration Abandons Efforts",
+      "count": 77,
+      "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-executive-orders-law-firms.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ai",
+      "count": 23,
+      "url": "https://www.theguardian.com/education/ng-interactive/2026/mar/03/cheating-machine-or-powerful-assistant-the-ai-anxieties-of-a-trainee-teacher",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 21,
+      "url": "https://www.cbsnews.com/news/melania-trump-un-security-council-world-peace-iran/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Texas Senate",
+      "count": 21,
+      "url": "https://www.nbcnews.com/meet-the-press/video/kornacki-what-to-expect-in-tomorrow-s-texas-s-senate-primary-258565189765",
+      "source": "NBC News"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian News",
+      "count": 10,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/03/03/business/economy/tariffs-small-business-confusion-refunds.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ice",
+      "count": 8,
+      "url": "https://www.washingtonpost.com/investigations/2026/03/03/ice-training-cuts-graduation-rate/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Dhs",
+      "count": 8,
+      "url": "https://www.washingtonpost.com/nation/2026/03/02/subpoenas-free-speech-congress-investigation/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Gop",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/mar/03/texas-primaries-democrats-republicans-trump",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-03-03T14:02:18Z"
 };
