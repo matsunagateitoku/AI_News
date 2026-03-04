@@ -2,88 +2,68 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    120,
-    "https://www.nytimes.com/2026/03/04/us/elections/texas-district-2-primary.html"
+    119,
+    "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
   ],
   [
     "iran",
     107,
-    "https://www.nytimes.com/2026/03/03/world/middleeast/iran-mojtaba-khamenei-successor.html"
-  ],
-  [
-    "texas",
-    90,
-    "https://www.nytimes.com/2026/03/04/us/elections/texas-district-2-primary.html"
+    "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
   ],
   [
     "war",
-    58,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    63,
+    "https://www.nytimes.com/2026/03/04/business/fed-hammack-inflation-interest-rates.html"
   ],
   [
-    "primary",
-    52,
-    "https://www.theguardian.com/us-news/2026/mar/03/texas-primary-election-results"
+    "texas",
+    59,
+    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
   ],
   [
     "senate",
-    51,
-    "https://www.nytimes.com/2026/03/03/us/elections/north-carolina-senate-primary-whatley-cooper.html"
+    48,
+    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
+  ],
+  [
+    "primary",
+    40,
+    "https://www.nytimes.com/2026/03/04/podcasts/the-headlines/trump-iran-texas-primary.html"
   ],
   [
     "president",
-    44,
-    "https://www.nytimes.com/2026/03/04/us/elections/texas-district-2-primary.html"
-  ],
-  [
-    "middle",
-    36,
-    "https://www.theguardian.com/commentisfree/2026/mar/03/trump-iran-war-strategy"
-  ],
-  [
-    "rep",
-    33,
-    "https://www.npr.org/2026/03/04/nx-s1-5734577/north-carolina-election-results-foushee-allam"
-  ],
-  [
-    "runoff",
-    33,
-    "https://www.npr.org/2026/03/03/nx-s1-5734515/texas-primary-election-results-james-talarico-jasmine-crockett-john-cornyn-ken-paxton"
-  ],
-  [
-    "gop",
-    32,
-    "https://www.theguardian.com/commentisfree/2026/mar/03/trump-epstein-files-us-uk-lessons"
+    38,
+    "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
   ],
   [
     "israel",
-    31,
+    38,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "east",
+    "strikes",
+    33,
+    "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
+  ],
+  [
+    "middle",
+    32,
+    "https://www.theguardian.com/music/2026/mar/04/corinne-bailey-rae-if-you-werent-tits-out-for-the-lads-they-called-you-middle-of-the-road"
+  ],
+  [
+    "rep",
     31,
-    "https://www.theguardian.com/commentisfree/2026/mar/03/trump-iran-war-strategy"
+    "https://www.npr.org/2026/03/04/nx-s1-5734577/north-carolina-election-results-foushee-allam"
   ],
   [
-    "republican",
+    "east",
     30,
-    "https://www.nytimes.com/2026/03/04/us/elections/texas-district-2-primary.html"
-  ],
-  [
-    "north",
-    28,
-    "https://www.nytimes.com/2026/03/03/us/elections/north-carolina-senate-primary-whatley-cooper.html"
-  ],
-  [
-    "race",
-    27,
-    "https://www.nytimes.com/2026/03/03/us/elections/north-carolina-senate-primary-whatley-cooper.html"
+    "https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis"
   ],
   [
     "democratic",
-    27,
-    "https://www.theguardian.com/us-news/2026/mar/03/texas-primary-election-results"
+    26,
+    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
   ],
   [
     "rice",
@@ -91,184 +71,189 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "paxton",
-    26,
-    "https://www.npr.org/2026/03/03/nx-s1-5734515/texas-primary-election-results-james-talarico-jasmine-crockett-john-cornyn-ken-paxton"
-  ],
-  [
-    "attack",
+    "runoff",
     25,
-    "https://www.nytimes.com/2026/03/03/us/colin-gray-verdict-apalachee-shooting.html"
-  ],
-  [
-    "election",
-    24,
-    "https://www.nytimes.com/2026/03/04/world/asia/nepal-election-gen-z-what-to-know.html"
-  ],
-  [
-    "killed",
-    24,
-    "https://www.washingtonpost.com/nation/2026/03/03/soldiers-killed-kuwait-drone-attack/"
-  ],
-  [
-    "black",
-    24,
-    "https://www.theguardian.com/culture/2026/mar/03/smithsonian-black-history-museum-exhibit-hbcus"
-  ],
-  [
-    "general",
-    23,
-    "https://www.nytimes.com/2026/03/04/world/asia/china-ai-enthusiasm.html"
+    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
   ],
   [
     "donald",
+    24,
+    "https://www.theguardian.com/world/2026/mar/04/trump-administration-illegal-war-iran-experts"
+  ],
+  [
+    "republican",
     23,
-    "https://www.theguardian.com/commentisfree/2026/mar/03/trump-iran-war-strategy"
+    "https://www.nytimes.com/2026/03/03/us/elections/texas-senate-republican-primary-cornyn-paxton-runoff.html"
   ],
   [
-    "carolina",
-    22,
-    "https://www.nytimes.com/2026/03/03/us/elections/north-carolina-senate-primary-whatley-cooper.html"
-  ],
-  [
-    "court",
-    22,
-    "https://www.nytimes.com/2026/03/03/nyregion/ice-nj-judge-order-immigration.html"
-  ],
-  [
-    "strikes",
-    22,
-    "https://www.nytimes.com/2026/03/03/us/hot-air-balloon-rescue-texas-cell-tower.html"
+    "killed",
+    23,
+    "https://www.washingtonpost.com/nation/2026/03/03/soldiers-killed-kuwait-drone-attack/"
   ],
   [
     "cornyn",
+    22,
+    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
+  ],
+  [
+    "administration",
+    22,
+    "https://www.nytimes.com/2026/03/04/world/americas/cuba-tourism-travel-canada-trump.html"
+  ],
+  [
+    "conflict",
     21,
-    "https://www.npr.org/2026/03/03/nx-s1-5734515/texas-primary-election-results-james-talarico-jasmine-crockett-john-cornyn-ken-paxton"
-  ],
-  [
-    "epstein",
-    20,
-    "https://www.nytimes.com/2026/03/03/us/politics/lutnick-epstein-investigation.html"
-  ],
-  [
-    "win",
-    20,
-    "https://www.theguardian.com/us-news/2026/mar/03/california-governor-democrats-gavin-newsom"
-  ],
-  [
-    "died",
-    19,
-    "https://www.nytimes.com/2026/03/03/world/middleeast/the-4-americans-killed-in-the-iran-war-who-have-been-identified.html"
-  ],
-  [
-    "military",
-    19,
-    "https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html"
-  ],
-  [
-    "secretary",
-    19,
-    "https://www.nytimes.com/2026/03/03/us/politics/lutnick-epstein-investigation.html"
-  ],
-  [
-    "really",
-    19,
-    "https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html"
-  ],
-  [
-    "sleep",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/mar/03/joe-rogan-podcast-politics-trump"
-  ],
-  [
-    "because",
-    19,
-    "https://www.theguardian.com/us-news/2026/mar/03/trump-israel-iran-war"
-  ],
-  [
-    "game",
-    19,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/03/game-of-thrones-film-warner-bros"
+    "https://www.nytimes.com/2026/03/04/briefing/the-goals-of-the-iran-war.html"
   ],
   [
     "american",
-    18,
-    "https://www.nytimes.com/2026/03/03/world/middleeast/the-4-americans-killed-in-the-iran-war-who-have-been-identified.html"
+    21,
+    "https://www.washingtonpost.com/climate-environment/2026/03/02/national-parks-signs-censorship-slavery/"
   ],
   [
-    "company",
-    18,
-    "https://www.nytimes.com/2026/03/03/travel/skiing-gen-z-epic-pass.html"
+    "black",
+    21,
+    "https://www.theguardian.com/artanddesign/2026/mar/04/camera-weapon-gordon-parks-shots-segregation-martin-luther-king"
   ],
   [
-    "members",
-    17,
-    "https://www.nytimes.com/2026/03/03/world/middleeast/the-4-americans-killed-in-the-iran-war-who-have-been-identified.html"
+    "iranian",
+    20,
+    "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
+  ],
+  [
+    "history",
+    20,
+    "https://www.nytimes.com/2026/03/04/podcasts/the-headlines/trump-iran-texas-primary.html"
+  ],
+  [
+    "military",
+    20,
+    "https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html"
   ],
   [
     "democrats",
-    17,
-    "https://www.nytimes.com/2026/03/03/us/elections/north-carolina-senate-primary-whatley-cooper.html"
+    20,
+    "https://www.washingtonpost.com/education/2026/03/04/trump-school-vouchers-democrats/"
   ],
   [
-    "government",
-    17,
-    "https://www.nytimes.com/2026/03/03/business/epstein-japan-ito-resigns.html"
+    "sleep",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/mar/04/shared-bed-debate-pick-a-side"
   ],
   [
-    "attorney",
-    17,
-    "https://www.nytimes.com/2026/03/03/nyregion/columbia-hadden-sexual-assault-investigation.html"
+    "paxton",
+    19,
+    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
   ],
   [
-    "israeli",
-    17,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "talarico",
+    18,
+    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
   ],
   [
-    "strike",
+    "tehran",
+    18,
+    "https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis"
+  ],
+  [
+    "cbs",
+    18,
+    "https://www.theguardian.com/music/2026/mar/03/from-david-bowie-to-fleetwood-mac-and-eric-clapton-mike-vernons-ear-was-invaluable-to-british-pop-and-blues"
+  ],
+  [
+    "race",
+    18,
+    "https://www.latimes.com/california/story/2026-03-03/california-democratic-leader-urges-weak-gubernatorial-hopefuls-to-bow-out"
+  ],
+  [
+    "gop",
+    18,
+    "https://www.latimes.com/california/story/2026-03-03/california-democratic-leader-urges-weak-gubernatorial-hopefuls-to-bow-out"
+  ],
+  [
+    "james",
     17,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
+  ],
+  [
+    "school",
+    17,
+    "https://www.nytimes.com/2026/03/04/us/rfk-jr-medical-school-nutrition.html"
+  ],
+  [
+    "really",
+    17,
+    "https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html"
+  ],
+  [
+    "department",
+    17,
+    "https://www.nytimes.com/2026/03/03/arts/music/live-nation-antitrust-trial.html"
+  ],
+  [
+    "crisis",
+    17,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "film",
     17,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/03/game-of-thrones-film-warner-bros"
+    "https://www.theguardian.com/film/2026/mar/04/why-sinners-should-win-the-best-picture-oscar"
   ],
   [
-    "decision",
+    "food",
     17,
-    "https://www.theguardian.com/sport/2026/mar/03/cardinals-to-release-former-no-1-overall-pick-kyler-murray-with-qb-still-owed-368m"
+    "https://www.theguardian.com/business/2026/mar/04/workers-medicaid-snap-low-pay"
   ],
   [
-    "accused",
+    "government",
     16,
-    "https://www.washingtonpost.com/nation/2026/03/03/colin-gray-father-trial-verdict-school-shooting/"
+    "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
   ],
   [
-    "crisis",
+    "ice",
     16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.washingtonpost.com/investigations/2026/03/03/ice-training-cuts-graduation-rate/"
   ],
   [
-    "don",
+    "died",
     16,
     "https://www.theguardian.com/music/2026/mar/04/corinne-bailey-rae-if-you-werent-tits-out-for-the-lads-they-called-you-middle-of-the-road"
   ],
   [
-    "cbs",
+    "cup",
     16,
-    "https://www.theguardian.com/music/2026/mar/03/from-david-bowie-to-fleetwood-mac-and-eric-clapton-mike-vernons-ear-was-invaluable-to-british-pop-and-blues"
+    "https://www.theguardian.com/football/2026/mar/04/lionel-messi-inter-miami-white-house-visit"
   ],
   [
-    "ken",
+    "little",
     16,
-    "https://www.npr.org/2026/03/03/nx-s1-5734515/texas-primary-election-results-james-talarico-jasmine-crockett-john-cornyn-ken-paxton"
+    "https://www.theguardian.com/commentisfree/2026/mar/04/shared-bed-debate-pick-a-side"
   ],
   [
-    "michael",
+    "israeli",
     15,
-    "https://www.nytimes.com/2026/03/03/us/elections/north-carolina-senate-primary-whatley-cooper.html"
+    "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
+  ],
+  [
+    "secretary",
+    15,
+    "https://www.nytimes.com/2026/03/04/world/middleeast/iran-navy-ship-sri-lanka.html"
+  ],
+  [
+    "crockett",
+    15,
+    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
+  ],
+  [
+    "early",
+    15,
+    "https://www.nytimes.com/2026/03/04/business/fed-hammack-inflation-interest-rates.html"
+  ],
+  [
+    "action",
+    15,
+    "https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html"
   ],
   [
     "country",
@@ -276,103 +261,118 @@
     "https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html"
   ],
   [
-    "committee",
+    "company",
     15,
-    "https://www.nytimes.com/2026/03/03/us/politics/lutnick-epstein-investigation.html"
+    "https://www.nytimes.com/2026/03/04/business/media/paramount-warner-streaming-wars.html"
   ],
   [
-    "ice",
+    "love",
     15,
-    "https://www.nytimes.com/2026/03/03/nyregion/ice-nj-judge-order-immigration.html"
+    "https://www.nytimes.com/2026/03/04/arts/music/ray-barretto-jazz-latin-music.html"
   ],
   [
-    "ukraine",
+    "parents",
     15,
-    "https://www.nytimes.com/2026/03/04/opinion/ukraine-russia-negotiations.html"
+    "https://www.nytimes.com/2026/03/04/arts/music/ray-barretto-jazz-latin-music.html"
   ],
   [
-    "shooting",
+    "states",
     15,
-    "https://www.nytimes.com/2026/03/03/us/colin-gray-verdict-apalachee-shooting.html"
+    "https://www.nytimes.com/2026/03/04/business/single-staircase-apartment-buildings.html"
   ],
   [
-    "administration",
+    "attack",
     15,
-    "https://www.washingtonpost.com/climate-environment/2026/03/02/national-parks-signs-censorship-slavery/"
+    "https://www.washingtonpost.com/nation/2026/03/03/soldiers-killed-kuwait-drone-attack/"
   ],
   [
-    "team",
-    15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "county",
-    15,
-    "https://www.theguardian.com/technology/ng-interactive/2026/mar/03/schools-student-ai-counselor"
-  ],
-  [
-    "hours",
-    15,
-    "https://www.theguardian.com/technology/ng-interactive/2026/mar/03/schools-student-ai-counselor"
-  ],
-  [
-    "party",
-    15,
-    "https://www.theguardian.com/us-news/2026/mar/03/california-governor-democrats-gavin-newsom"
-  ],
-  [
-    "food",
-    15,
-    "https://www.theguardian.com/food/2026/mar/03/why-do-my-potatoes-go-black-after-cooking"
-  ],
-  [
-    "service",
+    "john",
     14,
-    "https://www.nytimes.com/2026/03/03/world/middleeast/the-4-americans-killed-in-the-iran-war-who-have-been-identified.html"
+    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
   ],
   [
-    "conflict",
+    "night",
     14,
-    "https://www.nytimes.com/2026/03/03/world/middleeast/the-4-americans-killed-in-the-iran-war-who-have-been-identified.html"
+    "https://www.nytimes.com/2026/03/03/world/canada/toronto-synagogue-shots-fired.html"
   ],
   [
-    "steve",
+    "don",
     14,
+    "https://www.theguardian.com/music/2026/mar/04/corinne-bailey-rae-if-you-werent-tits-out-for-the-lads-they-called-you-middle-of-the-road"
+  ],
+  [
+    "win",
+    14,
+    "https://www.theguardian.com/film/2026/mar/04/why-sinners-should-win-the-best-picture-oscar"
+  ],
+  [
+    "oscar",
+    14,
+    "https://www.theguardian.com/film/2026/mar/04/why-sinners-should-win-the-best-picture-oscar"
+  ],
+  [
+    "members",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/03/pentagon-us-soldiers-kuwait-strike"
+  ],
+  [
+    "water",
+    14,
+    "https://www.theguardian.com/world/2026/mar/04/us-israel-strikes-iran-nuclear-program-could-backfire"
+  ],
+  [
+    "office",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/04/louisiana-mayor-convicted-rape-16-year-old"
+  ],
+  [
+    "announced",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/03/doj-drop-law-firms-case-trump-executive-orders"
+  ],
+  [
+    "game",
+    14,
+    "https://www.theguardian.com/football/2026/mar/04/saudi-clubs-france-footballers-ligue-1-monaco-rennes-nantes-reims-money"
+  ],
+  [
+    "cooker",
+    14,
+    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
+  ],
+  [
+    "dan",
+    13,
     "https://www.nytimes.com/2026/03/04/us/elections/texas-district-2-primary.html"
   ],
   [
-    "district",
-    14,
-    "https://www.nytimes.com/2026/03/04/us/elections/texas-district-2-primary.html"
+    "soldiers",
+    13,
+    "https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html"
   ],
   [
-    "breaking",
-    14,
-    "https://www.nytimes.com/2026/03/04/us/elections/texas-district-2-primary.html"
+    "political",
+    13,
+    "https://www.nytimes.com/2026/03/04/opinion/paxton-cornyn-texas-senate-primary.html"
   ],
   [
-    "roy",
-    14,
-    "https://www.nytimes.com/2026/03/03/us/elections/north-carolina-senate-primary-whatley-cooper.html"
+    "accused",
+    13,
+    "https://www.nytimes.com/2026/03/03/arts/music/live-nation-antitrust-trial.html"
   ],
   [
-    "school",
-    14,
-    "https://www.nytimes.com/2026/03/03/us/colin-gray-verdict-apalachee-shooting.html"
+    "pressure",
+    13,
+    "https://www.washingtonpost.com/education/2026/03/04/trump-school-vouchers-democrats/"
   ],
   [
-    "campaign",
-    14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "north",
+    13,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "early",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "start",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "strike",
+    13,
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
   ]
 ];
