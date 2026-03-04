@@ -2,68 +2,83 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    119,
-    "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
+    133,
+    "https://www.nytimes.com/video/world/middleeast/100000010747206/how-trump-decided-to-go-to-war.html"
   ],
   [
     "iran",
-    107,
-    "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
+    100,
+    "https://www.nytimes.com/video/world/middleeast/100000010747206/how-trump-decided-to-go-to-war.html"
   ],
   [
     "war",
-    63,
-    "https://www.nytimes.com/2026/03/04/business/fed-hammack-inflation-interest-rates.html"
-  ],
-  [
-    "texas",
-    59,
-    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
-  ],
-  [
-    "senate",
-    48,
-    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
-  ],
-  [
-    "primary",
-    40,
-    "https://www.nytimes.com/2026/03/04/podcasts/the-headlines/trump-iran-texas-primary.html"
+    52,
+    "https://www.nytimes.com/video/world/middleeast/100000010747206/how-trump-decided-to-go-to-war.html"
   ],
   [
     "president",
-    38,
-    "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
+    48,
+    "https://www.nytimes.com/video/world/middleeast/100000010747206/how-trump-decided-to-go-to-war.html"
   ],
   [
-    "israel",
-    38,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "texas",
+    45,
+    "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-elections.html"
   ],
   [
-    "strikes",
-    33,
-    "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
+    "senate",
+    38,
+    "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-elections.html"
+  ],
+  [
+    "american",
+    34,
+    "https://www.nytimes.com/2026/03/03/world/middleeast/us-soldiers-killed-iran-war.html"
   ],
   [
     "middle",
     32,
-    "https://www.theguardian.com/music/2026/mar/04/corinne-bailey-rae-if-you-werent-tits-out-for-the-lads-they-called-you-middle-of-the-road"
-  ],
-  [
-    "rep",
-    31,
-    "https://www.npr.org/2026/03/04/nx-s1-5734577/north-carolina-election-results-foushee-allam"
-  ],
-  [
-    "east",
-    30,
     "https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis"
   ],
   [
-    "democratic",
+    "east",
+    32,
+    "https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis"
+  ],
+  [
+    "israel",
+    30,
+    "https://www.nytimes.com/video/world/middleeast/100000010747206/how-trump-decided-to-go-to-war.html"
+  ],
+  [
+    "strikes",
+    30,
+    "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
+  ],
+  [
+    "primary",
+    28,
+    "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-elections.html"
+  ],
+  [
+    "killed",
+    28,
+    "https://www.washingtonpost.com/nation/2026/03/03/soldiers-killed-kuwait-drone-attack/"
+  ],
+  [
+    "donald",
+    27,
+    "https://www.theguardian.com/commentisfree/2026/mar/04/trump-new-tariffs-economy"
+  ],
+  [
+    "california",
+    27,
+    "https://www.theguardian.com/us-news/2026/mar/04/california-governor-democrats"
+  ],
+  [
+    "democrats",
     26,
-    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
+    "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-elections.html"
   ],
   [
     "rice",
@@ -71,69 +86,54 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "runoff",
+    "rep",
+    26,
+    "https://www.npr.org/2026/03/04/g-s1-112476/tony-gonzales-texas-republican-runoff-ethics"
+  ],
+  [
+    "military",
     25,
-    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
+    "https://www.nytimes.com/video/world/middleeast/100000010747206/how-trump-decided-to-go-to-war.html"
   ],
   [
-    "donald",
-    24,
-    "https://www.theguardian.com/world/2026/mar/04/trump-administration-illegal-war-iran-experts"
+    "democratic",
+    25,
+    "https://www.washingtonpost.com/education/2026/03/04/trump-school-vouchers-democrats/"
   ],
   [
-    "republican",
+    "school",
     23,
-    "https://www.nytimes.com/2026/03/03/us/elections/texas-senate-republican-primary-cornyn-paxton-runoff.html"
-  ],
-  [
-    "killed",
-    23,
-    "https://www.washingtonpost.com/nation/2026/03/03/soldiers-killed-kuwait-drone-attack/"
-  ],
-  [
-    "cornyn",
-    22,
-    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
+    "https://www.nytimes.com/2026/03/04/us/rfk-jr-medical-school-nutrition.html"
   ],
   [
     "administration",
     22,
-    "https://www.nytimes.com/2026/03/04/world/americas/cuba-tourism-travel-canada-trump.html"
+    "https://www.nytimes.com/2026/03/04/us/politics/justice-department-state-bar-associations-lawyers.html"
+  ],
+  [
+    "ice",
+    22,
+    "https://www.washingtonpost.com/investigations/2026/03/03/ice-training-cuts-graduation-rate/"
+  ],
+  [
+    "black",
+    22,
+    "https://www.theguardian.com/artanddesign/2026/mar/04/laboratory-of-lust-exhibition-kunsthaus-zurich-felicien-rops"
   ],
   [
     "conflict",
     21,
-    "https://www.nytimes.com/2026/03/04/briefing/the-goals-of-the-iran-war.html"
+    "https://www.nytimes.com/2026/03/04/world/middleeast/iran-navy-ship-sri-lanka.html"
   ],
   [
-    "american",
+    "secretary",
     21,
-    "https://www.washingtonpost.com/climate-environment/2026/03/02/national-parks-signs-censorship-slavery/"
+    "https://www.nytimes.com/2026/03/04/world/middleeast/iran-navy-ship-sri-lanka.html"
   ],
   [
-    "black",
-    21,
-    "https://www.theguardian.com/artanddesign/2026/mar/04/camera-weapon-gordon-parks-shots-segregation-martin-luther-king"
-  ],
-  [
-    "iranian",
+    "noem",
     20,
-    "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
-  ],
-  [
-    "history",
-    20,
-    "https://www.nytimes.com/2026/03/04/podcasts/the-headlines/trump-iran-texas-primary.html"
-  ],
-  [
-    "military",
-    20,
-    "https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html"
-  ],
-  [
-    "democrats",
-    20,
-    "https://www.washingtonpost.com/education/2026/03/04/trump-school-vouchers-democrats/"
+    "https://www.nytimes.com/2026/03/04/climate/noem-dhs-fema-delays.html"
   ],
   [
     "sleep",
@@ -141,94 +141,124 @@
     "https://www.theguardian.com/commentisfree/2026/mar/04/shared-bed-debate-pick-a-side"
   ],
   [
-    "paxton",
+    "water",
     19,
-    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
-  ],
-  [
-    "talarico",
-    18,
-    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
-  ],
-  [
-    "tehran",
-    18,
-    "https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis"
-  ],
-  [
-    "cbs",
-    18,
-    "https://www.theguardian.com/music/2026/mar/03/from-david-bowie-to-fleetwood-mac-and-eric-clapton-mike-vernons-ear-was-invaluable-to-british-pop-and-blues"
+    "https://www.nytimes.com/2026/03/04/climate/sea-level-underestimated.html"
   ],
   [
     "race",
+    19,
+    "https://www.theguardian.com/us-news/2026/mar/04/california-governor-democrats"
+  ],
+  [
+    "love",
+    19,
+    "https://www.theguardian.com/film/2026/mar/04/likable-characters-oscars-movies"
+  ],
+  [
+    "died",
     18,
-    "https://www.latimes.com/california/story/2026-03-03/california-democratic-leader-urges-weak-gubernatorial-hopefuls-to-bow-out"
+    "https://www.nytimes.com/2026/03/03/world/middleeast/us-soldiers-killed-iran-war.html"
   ],
   [
-    "gop",
+    "attack",
     18,
-    "https://www.latimes.com/california/story/2026-03-03/california-democratic-leader-urges-weak-gubernatorial-hopefuls-to-bow-out"
+    "https://www.washingtonpost.com/nation/2026/03/03/soldiers-killed-kuwait-drone-attack/"
   ],
   [
-    "james",
+    "breaking",
+    18,
+    "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates"
+  ],
+  [
+    "email",
+    18,
+    "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates"
+  ],
+  [
+    "inbox",
+    18,
+    "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates"
+  ],
+  [
+    "company",
+    18,
+    "https://www.theguardian.com/environment/2026/mar/03/syngesta-pesticide-parkinsons"
+  ],
+  [
+    "iranian",
     17,
-    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
+    "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
   ],
   [
-    "school",
+    "members",
     17,
-    "https://www.nytimes.com/2026/03/04/us/rfk-jr-medical-school-nutrition.html"
+    "https://www.nytimes.com/2026/03/03/world/middleeast/us-soldiers-killed-iran-war.html"
   ],
   [
-    "really",
+    "talarico",
     17,
-    "https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html"
+    "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-elections.html"
   ],
   [
-    "department",
-    17,
-    "https://www.nytimes.com/2026/03/03/arts/music/live-nation-antitrust-trial.html"
-  ],
-  [
-    "crisis",
+    "questions",
     17,
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "film",
+    "global",
     17,
-    "https://www.theguardian.com/film/2026/mar/04/why-sinners-should-win-the-best-picture-oscar"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "food",
+    "office",
     17,
-    "https://www.theguardian.com/business/2026/mar/04/workers-medicaid-snap-low-pay"
+    "https://www.theguardian.com/us-news/2026/mar/04/trump-church-protests"
   ],
   [
-    "government",
-    16,
-    "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
+    "party",
+    17,
+    "https://www.theguardian.com/us-news/2026/mar/04/california-governor-democrats"
   ],
   [
-    "ice",
-    16,
-    "https://www.washingtonpost.com/investigations/2026/03/03/ice-training-cuts-graduation-rate/"
+    "music",
+    17,
+    "https://www.theguardian.com/artanddesign/2026/mar/04/geri-halliwell-spice-girls-barbarella-soulla-petrou-best-photograph"
   ],
   [
-    "died",
+    "minnesota",
     16,
-    "https://www.theguardian.com/music/2026/mar/04/corinne-bailey-rae-if-you-werent-tits-out-for-the-lads-they-called-you-middle-of-the-road"
+    "https://www.nytimes.com/2026/03/03/world/middleeast/us-soldiers-killed-iran-war.html"
   ],
   [
-    "cup",
+    "john",
     16,
-    "https://www.theguardian.com/football/2026/mar/04/lionel-messi-inter-miami-white-house-visit"
+    "https://www.nytimes.com/2026/03/04/us/texas-john-cornyn-ken-paxton-senate-runoff.html"
   ],
   [
-    "little",
+    "attorney",
     16,
-    "https://www.theguardian.com/commentisfree/2026/mar/04/shared-bed-debate-pick-a-side"
+    "https://www.nytimes.com/2026/03/04/us/texas-john-cornyn-ken-paxton-senate-runoff.html"
+  ],
+  [
+    "don",
+    16,
+    "https://www.nytimes.com/2026/03/04/movies/oscar-actresses-reality-tv-emma-stone-teyana-taylor.html"
+  ],
+  [
+    "security",
+    16,
+    "https://www.nytimes.com/2026/03/04/technology/intel-senators-china-tools.html"
+  ],
+  [
+    "history",
+    16,
+    "https://www.theguardian.com/news/2026/mar/04/viral-speech-ireland-thomas-gould-colonial-history-caribbean-english"
+  ],
+  [
+    "really",
+    16,
+    "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump"
   ],
   [
     "israeli",
@@ -236,143 +266,113 @@
     "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
   ],
   [
-    "secretary",
+    "strike",
     15,
     "https://www.nytimes.com/2026/03/04/world/middleeast/iran-navy-ship-sri-lanka.html"
   ],
   [
-    "crockett",
+    "james",
     15,
-    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
+    "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-elections.html"
   ],
   [
-    "early",
+    "campaign",
     15,
-    "https://www.nytimes.com/2026/03/04/business/fed-hammack-inflation-interest-rates.html"
+    "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-elections.html"
   ],
   [
-    "action",
+    "general",
     15,
-    "https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html"
+    "https://www.nytimes.com/2026/03/04/us/texas-john-cornyn-ken-paxton-senate-runoff.html"
   ],
   [
-    "country",
+    "department",
     15,
-    "https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html"
+    "https://www.nytimes.com/2026/03/04/us/politics/justice-department-state-bar-associations-lawyers.html"
   ],
   [
-    "company",
+    "started",
     15,
-    "https://www.nytimes.com/2026/03/04/business/media/paramount-warner-streaming-wars.html"
+    "https://www.nytimes.com/2026/03/04/movies/oscar-actresses-reality-tv-emma-stone-teyana-taylor.html"
   ],
   [
-    "love",
+    "immigration",
     15,
-    "https://www.nytimes.com/2026/03/04/arts/music/ray-barretto-jazz-latin-music.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "parents",
+    "relationship",
     15,
-    "https://www.nytimes.com/2026/03/04/arts/music/ray-barretto-jazz-latin-music.html"
+    "https://www.theguardian.com/world/2026/mar/04/starmer-confident-keeping-trump-at-arms-length-over-iran"
   ],
   [
-    "states",
+    "cbs",
     15,
-    "https://www.nytimes.com/2026/03/04/business/single-staircase-apartment-buildings.html"
+    "https://www.theguardian.com/media/2026/mar/04/gayle-king-new-cbs-news-contract"
   ],
   [
-    "attack",
+    "gop",
     15,
-    "https://www.washingtonpost.com/nation/2026/03/03/soldiers-killed-kuwait-drone-attack/"
+    "https://www.npr.org/2026/03/04/g-s1-112476/tony-gonzales-texas-republican-runoff-ethics"
   ],
   [
-    "john",
+    "service",
     14,
-    "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
+    "https://www.nytimes.com/2026/03/03/world/middleeast/us-soldiers-killed-iran-war.html"
   ],
   [
-    "night",
+    "cornyn",
     14,
-    "https://www.nytimes.com/2026/03/03/world/canada/toronto-synagogue-shots-fired.html"
+    "https://www.nytimes.com/2026/03/04/us/texas-john-cornyn-ken-paxton-senate-runoff.html"
   ],
   [
-    "don",
+    "republican",
     14,
-    "https://www.theguardian.com/music/2026/mar/04/corinne-bailey-rae-if-you-werent-tits-out-for-the-lads-they-called-you-middle-of-the-road"
+    "https://www.nytimes.com/2026/03/04/us/texas-john-cornyn-ken-paxton-senate-runoff.html"
   ],
   [
-    "win",
+    "mother",
     14,
-    "https://www.theguardian.com/film/2026/mar/04/why-sinners-should-win-the-best-picture-oscar"
+    "https://www.nytimes.com/2026/03/04/arts/design/andrea-fraser-whitney-biennial-.html"
   ],
   [
-    "oscar",
+    "crisis",
     14,
-    "https://www.theguardian.com/film/2026/mar/04/why-sinners-should-win-the-best-picture-oscar"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "members",
+    "start",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/03/pentagon-us-soldiers-kuwait-strike"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "water",
+    "death",
     14,
-    "https://www.theguardian.com/world/2026/mar/04/us-israel-strikes-iran-nuclear-program-could-backfire"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/04/arthur-snell-interview-geopolitics-climate-crisis-book-elemental"
   ],
   [
-    "office",
+    "media",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/04/louisiana-mayor-convicted-rape-16-year-old"
+    "https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis"
   ],
   [
-    "announced",
+    "alerts",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/03/doj-drop-law-firms-case-trump-executive-orders"
+    "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates"
   ],
   [
-    "game",
+    "updates",
     14,
-    "https://www.theguardian.com/football/2026/mar/04/saudi-clubs-france-footballers-ligue-1-monaco-rennes-nantes-reims-money"
+    "https://www.theguardian.com/world/2026/mar/04/iran-war-us-soldiers-killed-names"
   ],
   [
-    "cooker",
+    "republicans",
     14,
-    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
+    "https://www.theguardian.com/us-news/2026/mar/04/us-israeli-iran-war-senate-vote-congress-prevent-trump"
   ],
   [
-    "dan",
-    13,
-    "https://www.nytimes.com/2026/03/04/us/elections/texas-district-2-primary.html"
-  ],
-  [
-    "soldiers",
-    13,
-    "https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html"
-  ],
-  [
-    "political",
-    13,
-    "https://www.nytimes.com/2026/03/04/opinion/paxton-cornyn-texas-senate-primary.html"
-  ],
-  [
-    "accused",
-    13,
-    "https://www.nytimes.com/2026/03/03/arts/music/live-nation-antitrust-trial.html"
-  ],
-  [
-    "pressure",
-    13,
-    "https://www.washingtonpost.com/education/2026/03/04/trump-school-vouchers-democrats/"
-  ],
-  [
-    "north",
-    13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "strike",
-    13,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+    "tim",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/04/us-israeli-iran-war-senate-vote-congress-prevent-trump"
   ]
 ];
