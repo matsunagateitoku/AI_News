@@ -2,169 +2,151 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
+      "name": "Melania Trump",
+      "count": 25,
+      "url": "https://www.theguardian.com/australia-news/2026/mar/05/australian-pm-albanese-trump-white-house-visit-gold-submarine-gift",
+      "source": "The Guardian"
+    },
+    {
       "name": "Donald Trump ’S",
-      "count": 23,
+      "count": 19,
       "url": "https://www.theguardian.com/culture/2026/mar/04/seth-meyers-recap-trump-iran-war",
       "source": "The Guardian"
     },
     {
-      "name": "Donald Trump",
-      "count": 20,
-      "url": "https://www.theguardian.com/us-news/2026/mar/04/us-israeli-iran-war-senate-vote-congress-prevent-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pete Hegseth",
+      "name": "Tony Gonzales",
       "count": 12,
-      "url": "https://www.nytimes.com/2026/03/04/world/middleeast/iran-navy-ship-sri-lanka.html",
+      "url": "https://www.nytimes.com/2026/03/04/us/politics/luna-censure-gonzales.html",
       "source": "NY Times"
     },
     {
-      "name": "James Talarico",
+      "name": "Lou Holtz",
       "count": 12,
-      "url": "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-elections.html",
+      "url": "https://www.nytimes.com/2026/03/04/sports/football/lou-holtz-dead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Steve Daines",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/03/04/us/elections/steve-daines-out-montana-senate-race.html",
       "source": "NY Times"
     },
     {
       "name": "Ken Paxton",
-      "count": 10,
-      "url": "https://www.nbcnews.com/politics/2026-election/texas-senate-primary-cornyn-paxton-hunt-talarico-crockett-rcna261447",
-      "source": "NBC News"
+      "count": 9,
+      "url": "https://www.politico.com/news/2026/03/04/trump-endorsement-texas-cornyn-paxton-00813475",
+      "source": "Politico"
     },
     {
-      "name": "Tony Gonzales",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/mar/04/tony-gonzales-texas-rep-alleged-affair",
+      "name": "Tim Burchett",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/mar/04/house-subpoena-pam-bondi-epstein-files",
       "source": "The Guardian"
     },
     {
-      "name": "Tim Walz",
-      "count": 9,
-      "url": "https://www.cbsnews.com/video/minnesota-gov-walz-defends-states-actions-during-fraud-testimony/",
-      "source": "CBS News"
+      "name": "Pam Bondi",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/mar/04/house-subpoena-pam-bondi-epstein-files",
+      "source": "The Guardian"
     },
     {
-      "name": "John Cornyn",
-      "count": 9,
-      "url": "https://www.nbcnews.com/politics/2026-election/midterm-primary-takeaways-texas-senate-results-voters-itching-change-s-rcna261449",
-      "source": "NBC News"
+      "name": "Pete Hegseth",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/mar/04/trump-news-at-a-glance-latest-updates",
+      "source": "The Guardian"
     },
     {
-      "name": "Tim Kaine",
-      "count": 8,
+      "name": "Oscar",
+      "count": 7,
+      "url": "https://www.theguardian.com/film/2026/mar/04/likable-characters-oscars-movies",
+      "source": "The Guardian"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Administration ’S",
+      "count": 69,
+      "url": "https://www.theguardian.com/us-news/2026/mar/04/new-york-city-congestion-toll",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The U.S. Senate",
+      "count": 26,
+      "url": "https://www.latimes.com/politics/story/2026-03-04/senate-rejects-resolution-to-limit-hostilities-in-iran",
+      "source": "LA Times"
+    },
+    {
+      "name": "Gop",
+      "count": 16,
+      "url": "https://www.npr.org/2026/03/04/g-s1-112476/tony-gonzales-texas-republican-runoff-ethics",
+      "source": "NPR"
+    },
+    {
+      "name": "Ai  Canada",
+      "count": 14,
+      "url": "https://www.theguardian.com/world/2026/mar/05/canadian-pm-mark-carney-offers-to-team-up-with-australia-as-strategic-cousins-to-push-back-against-dominant-superpowers",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Breaking News",
+      "count": 11,
       "url": "https://www.theguardian.com/us-news/2026/mar/04/us-israeli-iran-war-senate-vote-congress-prevent-trump",
       "source": "The Guardian"
     },
     {
-      "name": "Kristi Noem",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/mar/04/ice-trump-immigration-poll",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Iran",
-      "count": 94,
-      "url": "https://www.nytimes.com/video/world/middleeast/100000010747206/how-trump-decided-to-go-to-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Us",
-      "count": 83,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/04/trump-new-tariffs-economy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 44,
-      "url": "https://www.nytimes.com/2026/03/04/world/middleeast/iran-navy-ship-sri-lanka.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 32,
-      "url": "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-elections.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 29,
-      "url": "https://www.theguardian.com/us-news/2026/mar/04/california-governor-democrats",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 27,
-      "url": "https://www.nytimes.com/video/world/middleeast/100000010747206/how-trump-decided-to-go-to-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Minnesota",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/03/03/world/middleeast/us-soldiers-killed-iran-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Tehran",
+      "name": "House Oversight Committee",
       "count": 11,
-      "url": "https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis",
+      "url": "https://www.nbcnews.com/video/house-oversight-committee-votes-to-subpoena-pam-bondi-over-epstein-files-258715717917",
+      "source": "NBC News"
+    },
+    {
+      "name": "The White House",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/2026/mar/04/starmer-slow-start-war-against-iran-uk-playing-catch-up",
       "source": "The Guardian"
     },
     {
-      "name": "Kuwait",
+      "name": "Pentagon",
       "count": 10,
-      "url": "https://www.washingtonpost.com/nation/2026/03/03/soldiers-killed-kuwait-drone-attack/",
-      "source": "Washington Post"
+      "url": "https://www.theguardian.com/technology/2026/mar/04/sam-altman-openai-pentagon",
+      "source": "The Guardian"
     },
     {
-      "name": "Uk",
-      "count": 9,
-      "url": "https://www.theguardian.com/politics/2026/mar/04/former-nato-commander-defends-keir-starmer-donald-trump",
+      "name": "Cbs News",
+      "count": 10,
+      "url": "https://www.theguardian.com/media/2026/mar/04/gayle-king-new-cbs-news-contract",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 6,
+      "count": 8,
       "url": "https://www.theguardian.com/global-development/2026/mar/03/minab-school-bombing-how-the-worst-mass-casualty-event-of-the-iran-war-unfolded-a-visual-guide",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 3,
+      "count": 4,
       "url": "https://www.theguardian.com/football/2026/mar/04/foxborough-boston-world-cup-stadium-funding-board-meeting",
       "source": "The Guardian"
     },
     {
       "name": "World War Ii",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/03/04/world/middleeast/iran-navy-ship-sri-lanka.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Operation Epic Fury",
-      "count": 2,
-      "url": "https://www.foxnews.com/politics/number-iranian-ballistic-missiles-fired-plunges-since-start-operation-epic-fury",
-      "source": "Fox News"
-    },
-    {
-      "name": "The Iran Conflict",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/03/03/world/middleeast/us-soldiers-killed-iran-war.html",
-      "source": "NY Times"
+      "count": 3,
+      "url": "https://www.cbsnews.com/news/hegseth-caine-iran-war-operations-briefing-2026-03-04/",
+      "source": "CBS News"
     },
     {
       "name": "The Whitney Biennial",
       "count": 1,
       "url": "https://www.nytimes.com/2026/03/04/arts/design/andrea-fraser-whitney-biennial-.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Spring Systems Threaten Days Of Storms Across",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/03/04/weather/severe-storm-forecast-tornado.html",
       "source": "NY Times"
     },
     {
@@ -174,79 +156,91 @@
       "source": "The Guardian"
     },
     {
+      "name": "Revolution",
+      "count": 1,
+      "url": "https://www.theguardian.com/books/2026/mar/03/the-last-kings-of-hollywood-by-paul-fischer-review-the-rise-and-reign-of-spielberg-lucas-and-coppola",
+      "source": "The Guardian"
+    },
+    {
       "name": "Game Boy",
       "count": 1,
       "url": "https://www.theguardian.com/games/2026/mar/04/have-we-reached-peak-pokemon",
       "source": "The Guardian"
     },
     {
-      "name": "Revolution",
+      "name": "Super Bowl",
       "count": 1,
-      "url": "https://www.theguardian.com/books/2026/mar/03/the-last-kings-of-hollywood-by-paul-fischer-review-the-rise-and-reign-of-spielberg-lucas-and-coppola",
-      "source": "The Guardian"
+      "url": "https://www.foxnews.com/sports/patriots-cut-stefon-diggs-despite-productive-1000-yard-season-teams-super-bowl-run",
+      "source": "Fox News"
+    },
+    {
+      "name": "Project 2029'",
+      "count": 1,
+      "url": "https://www.politico.com/video/2026/02/26/senator-slotkin-on-why-dems-need-their-own-project-2029-the-conversation-1934552",
+      "source": "Politico"
     }
   ],
-  "ORG": [
+  "GPE": [
     {
-      "name": "Trump Administration ’S",
-      "count": 72,
-      "url": "https://www.theguardian.com/us-news/2026/mar/04/new-york-city-congestion-toll",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Georgia Senate",
-      "count": 21,
-      "url": "https://thehill.com/homenews/5767287-club-for-growth-mike-collins-georgia-senate/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Ai",
-      "count": 19,
-      "url": "https://www.theguardian.com/technology/2026/mar/04/gemini-chatbot-google-jonathan-gavalas",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 15,
-      "url": "https://www.npr.org/2026/03/04/g-s1-112476/tony-gonzales-texas-republican-runoff-ethics",
-      "source": "NPR"
-    },
-    {
-      "name": "Breaking News",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "House Oversight Committee",
-      "count": 13,
-      "url": "https://www.cbsnews.com/video/minnesota-gov-walz-defends-states-actions-during-fraud-testimony/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Texas Senate Runoff",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/03/04/opinion/paxton-cornyn-texas-senate-primary.html",
+      "name": "Iran",
+      "count": 92,
+      "url": "https://www.nytimes.com/2026/03/04/opinion/trump-iran-liberation.html",
       "source": "NY Times"
     },
     {
-      "name": "The White House",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/feb/28/gavin-newsom-california-governor-democrats-us-presidency-politics-trump",
+      "name": "Us",
+      "count": 77,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/04/trump-new-tariffs-economy",
       "source": "The Guardian"
     },
     {
-      "name": "The Department Of Homeland Security",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/mar/03/kristi-noem-senate-hearing-minnesota-ice-shootings",
+      "name": "U.S.",
+      "count": 35,
+      "url": "https://www.nytimes.com/2026/03/04/us/politics/trump-biden-autopen.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 29,
+      "url": "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-senate.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 26,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Uk",
+      "count": 12,
+      "url": "https://www.theguardian.com/world/2026/mar/04/starmer-slow-start-war-against-iran-uk-playing-catch-up",
       "source": "The Guardian"
     },
     {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "name": "California",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/mar/04/california-governor-democrats",
       "source": "The Guardian"
+    },
+    {
+      "name": "Washington",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/03/04/us/politics/trump-biden-autopen.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Montana",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/03/04/us/elections/steve-daines-out-montana-senate-race.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iraq",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/03/04/opinion/trump-iran-liberation.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-03-04T19:40:58Z"
+  "updated": "2026-03-05T03:31:00Z"
 };
