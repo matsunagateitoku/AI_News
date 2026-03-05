@@ -2,353 +2,358 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    124,
-    "https://www.nytimes.com/2026/03/04/us/politics/trump-national-security.html"
+    114,
+    "https://www.nytimes.com/2026/03/05/us/politics/states-lawsuit-trump-tariffs.html"
   ],
   [
     "iran",
-    111,
-    "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html"
+    89,
+    "https://www.nytimes.com/2026/03/05/us/politics/iran-war-republicans.html"
   ],
   [
     "war",
-    67,
-    "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html"
+    72,
+    "https://www.nytimes.com/2026/03/05/us/politics/iran-war-republicans.html"
   ],
   [
     "president",
-    49,
-    "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html"
+    48,
+    "https://www.nytimes.com/2026/03/05/us/politics/states-lawsuit-trump-tariffs.html"
   ],
   [
     "texas",
-    46,
-    "https://www.nytimes.com/2026/03/04/us/politics/talarico-victory-party.html"
-  ],
-  [
-    "middle",
-    40,
-    "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html"
-  ],
-  [
-    "east",
     39,
-    "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html"
-  ],
-  [
-    "military",
-    34,
-    "https://www.nytimes.com/2026/03/04/world/asia/china-us-technology-trade-military.html"
-  ],
-  [
-    "senate",
-    32,
-    "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html"
-  ],
-  [
-    "rice",
-    28,
-    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
-  ],
-  [
-    "iranian",
-    27,
-    "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html"
-  ],
-  [
-    "american",
-    27,
-    "https://www.nytimes.com/2026/03/04/world/americas/ecuador-trump-drug-gangs-us-military.html"
+    "https://www.nytimes.com/2026/03/04/us/politics/texas-primaries-runoffs-may.html"
   ],
   [
     "israel",
-    26,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    35,
+    "https://www.nytimes.com/2026/03/05/world/middleeast/israel-lebanon-hezbollah.html"
   ],
   [
-    "donald",
-    25,
-    "https://www.theguardian.com/commentisfree/2026/mar/04/trump-new-tariffs-economy"
+    "secretary",
+    32,
+    "https://www.nytimes.com/2026/03/05/us/florida-gop-slurs-group-chat.html"
   ],
   [
-    "killed",
-    24,
-    "https://www.nytimes.com/2026/03/04/us/texas-border-patrol-checkpoint-shooting.html"
-  ],
-  [
-    "primary",
-    23,
-    "https://www.nytimes.com/2026/03/04/us/politics/talarico-victory-party.html"
-  ],
-  [
-    "democrats",
-    23,
-    "https://www.nytimes.com/2026/03/04/us/elections/steve-daines-out-montana-senate-race.html"
-  ],
-  [
-    "general",
-    23,
-    "https://www.nytimes.com/2026/03/04/us/politics/noem-dhs-inspector-general.html"
-  ],
-  [
-    "power",
-    22,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/04/arthur-snell-interview-geopolitics-climate-crisis-book-elemental"
-  ],
-  [
-    "americans",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/mar/04/trump-new-tariffs-economy"
-  ],
-  [
-    "election",
-    21,
-    "https://www.nytimes.com/2026/03/04/us/elections/steve-daines-out-montana-senate-race.html"
-  ],
-  [
-    "minister",
-    21,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "died",
-    21,
-    "https://www.theguardian.com/film/2026/mar/05/at-first-she-couldnt-come-off-the-oxygen-long-enough-the-film-that-gives-marianne-faithfull-one-final-thrilling-performance"
-  ],
-  [
-    "republican",
-    20,
-    "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html"
-  ],
-  [
-    "film",
-    20,
-    "https://www.theguardian.com/film/2026/mar/05/at-first-she-couldnt-come-off-the-oxygen-long-enough-the-film-that-gives-marianne-faithfull-one-final-thrilling-performance"
-  ],
-  [
-    "sleep",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/mar/04/shared-bed-debate-pick-a-side"
-  ],
-  [
-    "democratic",
-    19,
-    "https://www.nytimes.com/2026/03/04/us/politics/talarico-victory-party.html"
-  ],
-  [
-    "gonzales",
-    19,
-    "https://www.nytimes.com/2026/03/04/us/politics/luna-censure-gonzales.html"
-  ],
-  [
-    "school",
-    19,
-    "https://www.nytimes.com/2026/03/03/dining/what-are-your-prom-dinner-plans-we-want-to-hear-from-you.html"
-  ],
-  [
-    "conflict",
-    19,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/04/arthur-snell-interview-geopolitics-climate-crisis-book-elemental"
+    "strikes",
+    31,
+    "https://www.nytimes.com/2026/03/05/us/politics/trump-iran-war-presidential-power.html"
   ],
   [
     "administration",
+    31,
+    "https://www.nytimes.com/2026/03/05/us/the-docket-judge-battle.html"
+  ],
+  [
+    "noem",
+    29,
+    "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates"
+  ],
+  [
+    "senate",
+    28,
+    "https://www.nytimes.com/2026/03/04/us/politics/texas-primaries-runoffs-may.html"
+  ],
+  [
+    "rice",
+    27,
+    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
+  ],
+  [
+    "middle",
+    26,
+    "https://www.nytimes.com/2026/03/05/us/politics/iran-war-republicans.html"
+  ],
+  [
+    "east",
+    26,
+    "https://www.nytimes.com/2026/03/05/us/politics/iran-war-republicans.html"
+  ],
+  [
+    "military",
+    26,
+    "https://www.nytimes.com/2026/03/05/us/politics/trump-iran-war-presidential-power.html"
+  ],
+  [
+    "security",
+    25,
+    "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates"
+  ],
+  [
+    "film",
+    24,
+    "https://www.theguardian.com/film/2026/mar/05/peaky-blinders-the-immortal-man-review-tommy-shelby-returns-for-muddy-bloody-big-screen-showdown"
+  ],
+  [
+    "california",
+    23,
+    "https://www.nytimes.com/2026/03/05/arts/music/britney-spears-arrest.html"
+  ],
+  [
+    "killed",
+    23,
+    "https://www.washingtonpost.com/nation/2026/03/03/soldiers-killed-kuwait-drone-attack/"
+  ],
+  [
+    "primary",
+    22,
+    "https://www.nytimes.com/2026/03/04/us/politics/texas-primaries-runoffs-may.html"
+  ],
+  [
+    "country",
+    22,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "homeland",
+    22,
+    "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates"
+  ],
+  [
+    "kristi",
+    22,
+    "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates"
+  ],
+  [
+    "states",
+    21,
+    "https://www.nytimes.com/2026/03/05/us/politics/states-lawsuit-trump-tariffs.html"
+  ],
+  [
+    "democrats",
+    21,
+    "https://www.washingtonpost.com/nation/2026/03/02/subpoenas-free-speech-congress-investigation/"
+  ],
+  [
+    "israeli",
+    21,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "american",
+    21,
+    "https://www.theguardian.com/world/2026/mar/05/investigation-americans-killed-israeli-settlers-soldiers-west-bank"
+  ],
+  [
+    "black",
+    20,
+    "https://www.nytimes.com/2026/03/05/us/florida-gop-slurs-group-chat.html"
+  ],
+  [
+    "dhs",
+    20,
+    "https://www.washingtonpost.com/nation/2026/03/02/subpoenas-free-speech-congress-investigation/"
+  ],
+  [
+    "because",
+    20,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/05/celebrity-personal-assistants-tiktok"
+  ],
+  [
+    "don",
     19,
-    "https://www.theguardian.com/world/2026/mar/04/us-submarine-torpedo-iran-warship-sri-lanka-coast-pete-hegseth"
+    "https://www.nytimes.com/2026/03/05/us/politics/iran-war-republicans.html"
+  ],
+  [
+    "love",
+    19,
+    "https://www.nytimes.com/2026/03/05/theater/jonathan-groff-just-in-time-broadway.html"
+  ],
+  [
+    "team",
+    19,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "food",
     19,
-    "https://www.theguardian.com/business/2026/mar/05/big-burden-for-farmers-gulf-shipping-crisis-threatens-food-price-shock"
+    "https://www.theguardian.com/commentisfree/2026/mar/05/democrats-rfk-jr-maha-healthy-food"
   ],
   [
-    "republicans",
-    18,
-    "https://www.nytimes.com/2026/03/04/us/politics/luna-censure-gonzales.html"
+    "game",
+    19,
+    "https://www.theguardian.com/football/live/2026/mar/05/tottenham-v-crystal-palace-premier-league-live"
   ],
   [
-    "black",
+    "iranian",
     18,
-    "https://www.theguardian.com/film/2026/mar/04/the-bride-review-jessie-buckley-christian-bale-frankenstein"
+    "https://www.nytimes.com/2026/03/05/world/asia/sri-lanka-iran-navy-war.html"
+  ],
+  [
+    "election",
+    18,
+    "https://www.theguardian.com/us-news/2026/mar/05/trump-justice-department-politicization"
+  ],
+  [
+    "cbs",
+    18,
+    "https://www.theguardian.com/music/2026/mar/03/from-david-bowie-to-fleetwood-mac-and-eric-clapton-mike-vernons-ear-was-invaluable-to-british-pop-and-blues"
   ],
   [
     "water",
     18,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/04/chinamaxxing-influencers-chinese-traditional-medicine"
+    "https://www.theguardian.com/games/2026/mar/05/pokemon-pokopia-review-collectible-creatures-create-their-own-perfect-world"
   ],
   [
-    "south",
-    17,
-    "https://www.nytimes.com/2026/03/04/world/americas/ecuador-trump-drug-gangs-us-military.html"
-  ],
-  [
-    "attack",
-    17,
-    "https://www.washingtonpost.com/nation/2026/03/03/soldiers-killed-kuwait-drone-attack/"
+    "sleep",
+    18,
+    "https://www.theguardian.com/thefilter-us/2025/oct/02/best-sleep-eye-masks-us"
   ],
   [
     "social",
-    16,
-    "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html"
+    17,
+    "https://www.nytimes.com/2026/03/05/us/senator-tim-sheehy-marine-war-protester.html"
   ],
   [
-    "country",
-    16,
-    "https://www.nytimes.com/2026/03/04/us/politics/talarico-victory-party.html"
-  ],
-  [
-    "economy",
-    16,
-    "https://www.nytimes.com/2026/03/04/business/china-gdp-target-2025.html"
-  ],
-  [
-    "party",
-    16,
-    "https://www.nytimes.com/2026/03/04/business/china-gdp-target-2025.html"
-  ],
-  [
-    "case",
-    16,
-    "https://www.nytimes.com/2026/03/04/us/politics/trump-biden-autopen.html"
-  ],
-  [
-    "attorney",
-    16,
-    "https://www.nytimes.com/2026/03/04/us/politics/trump-biden-autopen.html"
-  ],
-  [
-    "company",
-    16,
-    "https://www.nytimes.com/2026/03/04/arts/music/live-nation-trial-barclays-center.html"
-  ],
-  [
-    "global",
-    16,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "love",
-    16,
-    "https://www.theguardian.com/world/2026/mar/05/gen-z-men-baby-boomers-wives-should-obey-husbands"
-  ],
-  [
-    "rep",
-    16,
-    "https://www.npr.org/2026/03/04/g-s1-112476/tony-gonzales-texas-republican-runoff-ethics"
-  ],
-  [
-    "china",
-    15,
-    "https://www.nytimes.com/2026/03/04/world/asia/china-us-technology-trade-military.html"
-  ],
-  [
-    "affair",
-    15,
-    "https://www.nytimes.com/2026/03/04/us/politics/luna-censure-gonzales.html"
-  ],
-  [
-    "late",
-    15,
-    "https://www.nytimes.com/2026/03/05/arts/television/late-night-america-iran.html"
-  ],
-  [
-    "crisis",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "strikes",
-    15,
-    "https://www.theguardian.com/world/2026/mar/05/us-did-not-share-details-with-the-uk-before-attacking-iran-sources-say"
-  ],
-  [
-    "gen",
-    15,
-    "https://www.theguardian.com/world/2026/mar/04/us-interceptors-iranian-drones"
-  ],
-  [
-    "prime",
-    15,
-    "https://www.theguardian.com/world/2026/mar/04/starmer-confident-keeping-trump-at-arms-length-over-iran"
-  ],
-  [
-    "really",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/04/chinamaxxing-influencers-chinese-traditional-medicine"
-  ],
-  [
-    "daines",
-    14,
-    "https://www.nytimes.com/2026/03/04/us/elections/steve-daines-out-montana-senate-race.html"
-  ],
-  [
-    "started",
-    14,
-    "https://www.nytimes.com/2026/03/04/movies/oscar-actresses-reality-tv-emma-stone-teyana-taylor.html"
-  ],
-  [
-    "don",
-    14,
-    "https://www.nytimes.com/2026/03/04/movies/oscar-actresses-reality-tv-emma-stone-teyana-taylor.html"
-  ],
-  [
-    "tony",
-    14,
-    "https://www.nytimes.com/2026/03/04/us/politics/luna-censure-gonzales.html"
+    "past",
+    17,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
     "department",
-    14,
-    "https://www.nytimes.com/2026/03/04/us/politics/trump-biden-autopen.html"
+    17,
+    "https://www.theguardian.com/fashion/2026/mar/05/there-is-no-shame-in-being-vain-the-relentless-rise-of-impossible-male-beauty-standards"
   ],
   [
-    "led",
-    14,
-    "https://www.nytimes.com/2026/03/04/sports/football/lou-holtz-dead.html"
+    "pok",
+    17,
+    "https://www.theguardian.com/games/2026/mar/05/pokemon-pokopia-review-collectible-creatures-create-their-own-perfect-world"
   ],
   [
-    "game",
-    14,
-    "https://www.nytimes.com/2026/03/04/opinion/trump-iran-liberation.html"
+    "mon",
+    17,
+    "https://www.theguardian.com/games/2026/mar/05/pokemon-pokopia-review-collectible-creatures-create-their-own-perfect-world"
   ],
   [
-    "police",
-    14,
-    "https://www.nytimes.com/2026/03/04/us/texas-border-patrol-checkpoint-shooting.html"
+    "rep",
+    17,
+    "https://www.latimes.com/entertainment-arts/story/2026-03-05/britney-spears-arrested-dui-ventura"
   ],
   [
-    "start",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "general",
+    16,
+    "https://www.nytimes.com/2026/03/05/us/politics/states-lawsuit-trump-tariffs.html"
   ],
   [
-    "strike",
-    14,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+    "republican",
+    16,
+    "https://www.nytimes.com/2026/03/04/us/politics/texas-primaries-runoffs-may.html"
   ],
   [
-    "least",
-    14,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "announced",
+    16,
+    "https://www.nytimes.com/2026/03/05/us/rfk-medical-schools-nutrition-curriculum.html"
   ],
   [
-    "california",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/04/california-governor-democrats"
+    "school",
+    16,
+    "https://www.washingtonpost.com/education/2026/03/04/trump-school-vouchers-democrats/"
   ],
   [
-    "young",
-    14,
-    "https://www.theguardian.com/world/2026/mar/05/gen-z-men-baby-boomers-wives-should-obey-husbands"
+    "working",
+    16,
+    "https://www.theguardian.com/film/2026/mar/05/peaky-blinders-the-immortal-man-review-tommy-shelby-returns-for-muddy-bloody-big-screen-showdown"
   ],
   [
-    "service",
-    14,
-    "https://www.theguardian.com/sport/2026/mar/04/lou-holtz-legendary-college-football-coach-and-broadcaster-dies-at-age-of-89"
+    "living",
+    16,
+    "https://www.theguardian.com/world/video/2026/mar/05/gringo-go-home-mexicos-growing-tourism-backlash-video"
   ],
   [
-    "ukraine",
+    "children",
+    16,
+    "https://www.theguardian.com/world/2026/mar/05/inside-tehran-under-attack-photo-essay"
+  ],
+  [
+    "died",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/05/trump-administration-texas-ice-jail"
+  ],
+  [
+    "sen",
+    16,
+    "https://www.latimes.com/politics/story/2026-03-03/padilla-preps-for-trump-trying-to-control-elections-via-emergency-order"
+  ],
+  [
+    "court",
+    15,
+    "https://www.nytimes.com/2026/03/05/us/politics/supreme-court-emergency-docket.html"
+  ],
+  [
+    "government",
+    15,
+    "https://www.nytimes.com/2026/03/05/us/rfk-medical-schools-nutrition-curriculum.html"
+  ],
+  [
+    "democratic",
+    15,
+    "https://www.washingtonpost.com/education/2026/03/04/trump-school-vouchers-democrats/"
+  ],
+  [
+    "review",
+    15,
+    "https://www.theguardian.com/film/2026/mar/05/peaky-blinders-the-immortal-man-review-tommy-shelby-returns-for-muddy-bloody-big-screen-showdown"
+  ],
+  [
+    "southern",
+    15,
+    "https://www.theguardian.com/world/live/2026/mar/05/iran-war-latest-updates-canada-carney-trump-israel-tehran-strikes"
+  ],
+  [
+    "race",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/05/voter-suppression-texas-primaries"
+  ],
+  [
+    "tim",
     14,
-    "https://www.theguardian.com/world/2026/mar/05/ukraine-war-briefing-putin-blames-ukraine-for-sinking-of-tanker-off-coast-of-libya"
+    "https://www.nytimes.com/2026/03/05/us/senator-tim-sheehy-marine-war-protester.html"
+  ],
+  [
+    "video",
+    14,
+    "https://www.nytimes.com/2026/03/05/us/senator-tim-sheehy-marine-war-protester.html"
+  ],
+  [
+    "political",
+    14,
+    "https://www.nytimes.com/2026/03/05/us/politics/iran-war-republicans.html"
+  ],
+  [
+    "south",
+    14,
+    "https://www.nytimes.com/2026/03/05/world/africa/south-africa-ramaphosa-trump-meeting-racist.html"
+  ],
+  [
+    "sex",
+    14,
+    "https://www.nytimes.com/2026/03/05/nyregion/tracy-tutor-oren-alexander-lawsuit.html"
+  ],
+  [
+    "foreign",
+    14,
+    "https://www.nytimes.com/2026/03/05/opinion/iran-us-foreign-policy-curt-mills.html"
+  ],
+  [
+    "gop",
+    14,
+    "https://www.nytimes.com/2026/03/05/us/florida-gop-slurs-group-chat.html"
+  ],
+  [
+    "soldiers",
+    14,
+    "https://www.washingtonpost.com/nation/2026/03/03/soldiers-killed-kuwait-drone-attack/"
+  ],
+  [
+    "international",
+    14,
+    "https://www.theguardian.com/world/video/2026/mar/05/gringo-go-home-mexicos-growing-tourism-backlash-video"
+  ],
+  [
+    "john",
+    14,
+    "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates"
   ],
   [
     "cooker",
@@ -356,23 +361,18 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "win",
+    "global",
     13,
-    "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html"
+    "https://www.nytimes.com/2026/03/05/us/politics/states-lawsuit-trump-tariffs.html"
   ],
   [
-    "media",
+    "north",
     13,
-    "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html"
+    "https://www.nytimes.com/2026/03/05/us/elections/primary-results-incumbents-dems-gop.html"
   ],
   [
-    "steve",
+    "power",
     13,
-    "https://www.nytimes.com/2026/03/04/us/elections/steve-daines-out-montana-senate-race.html"
-  ],
-  [
-    "announced",
-    13,
-    "https://www.nytimes.com/2026/03/04/world/asia/china-us-technology-trade-military.html"
+    "https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html"
   ]
 ];
