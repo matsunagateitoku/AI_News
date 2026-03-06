@@ -2,218 +2,148 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    125,
+    121,
     "https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html"
   ],
   [
     "iran",
-    80,
+    68,
     "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
-  ],
-  [
-    "president",
-    69,
-    "https://www.nytimes.com/2026/03/05/business/india-russian-oil.html"
   ],
   [
     "war",
-    69,
+    52,
     "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
+    "president",
+    45,
+    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
+  ],
+  [
     "noem",
-    41,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
-  ],
-  [
-    "secretary",
-    39,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
-  ],
-  [
-    "israel",
-    33,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    44,
+    "https://www.nytimes.com/2026/03/06/podcasts/the-headlines/kristi-noems-firing-american-billionaires.html"
   ],
   [
     "texas",
-    30,
+    31,
     "https://www.nytimes.com/2026/03/05/us/politics/tony-gonzales-resigns.html"
   ],
   [
-    "military",
-    30,
+    "israel",
+    28,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "middle",
-    29,
-    "https://www.nytimes.com/2026/03/05/business/india-russian-oil.html"
-  ],
-  [
-    "california",
-    29,
-    "https://www.theguardian.com/music/2026/mar/05/britney-spears-arrested-dui"
-  ],
-  [
-    "east",
-    28,
-    "https://www.nytimes.com/2026/03/05/business/india-russian-oil.html"
+    "died",
+    27,
+    "https://www.nytimes.com/2026/03/06/us/jesse-jackson-funeral-chicago.html"
   ],
   [
     "kristi",
-    28,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
-  ],
-  [
-    "democratic",
-    27,
-    "https://www.washingtonpost.com/education/2026/03/04/trump-school-vouchers-democrats/"
+    26,
+    "https://www.nytimes.com/2026/03/06/podcasts/the-headlines/kristi-noems-firing-american-billionaires.html"
   ],
   [
     "rice",
-    27,
+    26,
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "democrats",
-    26,
-    "https://www.nytimes.com/2026/03/05/us/politics/noem-perjury-investigation-blumenthal.html"
-  ],
-  [
-    "security",
-    25,
+    "secretary",
+    24,
     "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
   ],
   [
-    "iranian",
-    24,
-    "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
-  ],
-  [
-    "school",
+    "department",
     23,
-    "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
-  ],
-  [
-    "strikes",
-    23,
-    "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
+    "https://www.nytimes.com/2026/03/05/us/politics/minnesota-kristi-noem-walz.html"
   ],
   [
     "dhs",
-    23,
+    22,
     "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
   ],
   [
-    "party",
-    23,
-    "https://www.nytimes.com/2026/03/05/us/florida-gop-slurs-group-chat.html"
-  ],
-  [
-    "donald",
-    23,
-    "https://www.theguardian.com/world/2026/mar/06/pedro-sanchez-spain-european-leader-take-on-trump"
-  ],
-  [
-    "primary",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/mar/05/kamala-harris-election"
-  ],
-  [
-    "ukraine",
+    "love",
     22,
-    "https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html"
+    "https://www.nytimes.com/2026/03/06/opinion/daryl-hannah-love-story-jfk-jr.html"
   ],
   [
-    "senate",
-    22,
-    "https://www.nytimes.com/2026/03/05/us/politics/trump-fires-noem-gop-split-mullin.html"
-  ],
-  [
-    "american",
-    22,
-    "https://www.nytimes.com/2026/03/06/world/canada/jamil-jivani-canada-conservative-jd-vance.html"
-  ],
-  [
-    "homeland",
+    "iranian",
     21,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
-  ],
-  [
-    "died",
-    21,
-    "https://www.theguardian.com/us-news/2026/mar/05/bernard-lafayette-civil-rights-leader-dies"
-  ],
-  [
-    "killed",
-    19,
     "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
   ],
   [
     "attack",
-    19,
+    21,
     "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
   ],
   [
-    "country",
-    19,
-    "https://www.nytimes.com/2026/03/05/world/americas/us-venezuela-diplomatic-relations.html"
+    "california",
+    21,
+    "https://www.theguardian.com/us-news/2026/mar/06/detainee-died-ice-custody-california"
+  ],
+  [
+    "jobs",
+    20,
+    "https://www.nytimes.com/2026/03/06/business/economy/economy-data-revisions.html"
+  ],
+  [
+    "american",
+    20,
+    "https://www.nytimes.com/2026/03/06/podcasts/the-headlines/kristi-noems-firing-american-billionaires.html"
+  ],
+  [
+    "security",
+    20,
+    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
+  ],
+  [
+    "senate",
+    20,
+    "https://www.nytimes.com/2026/03/05/us/politics/noem-perjury-investigation-blumenthal.html"
+  ],
+  [
+    "political",
+    20,
+    "https://www.nytimes.com/2026/03/05/us/politics/trump-noem-mullin-oklahoma-senate-seat-republicans.html"
+  ],
+  [
+    "leader",
+    20,
+    "https://www.nytimes.com/2026/03/06/us/jesse-jackson-funeral-chicago.html"
+  ],
+  [
+    "ice",
+    20,
+    "https://www.washingtonpost.com/nation/2026/03/05/antifa-trial-ice-terrorist-free-speech/"
+  ],
+  [
+    "donald",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement"
   ],
   [
     "government",
     19,
-    "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html"
-  ],
-  [
-    "announced",
-    19,
-    "https://www.theguardian.com/us-news/2026/mar/05/trump-kristi-noem-homeland-security"
-  ],
-  [
-    "republican",
-    18,
-    "https://www.nytimes.com/2026/03/05/us/politics/tony-gonzales-resigns.html"
-  ],
-  [
-    "israeli",
-    18,
-    "https://www.nytimes.com/2026/03/06/opinion/iran-bombing-america.html"
+    "https://www.nytimes.com/2026/03/06/world/middleeast/lebanon-hezbollah-iran-disarm.html"
   ],
   [
     "campaign",
+    19,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "democrats",
     18,
-    "https://www.nytimes.com/2026/03/06/opinion/iran-bombing-america.html"
+    "https://www.nytimes.com/2026/03/05/us/politics/noem-perjury-investigation-blumenthal.html"
   ],
   [
-    "night",
+    "east",
     18,
-    "https://www.nytimes.com/2026/03/06/arts/television/late-night-kristi-noem-homeland-security.html"
-  ],
-  [
-    "food",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/mar/05/democrats-rfk-jr-maha-healthy-food"
-  ],
-  [
-    "sleep",
-    18,
-    "https://www.theguardian.com/thefilter-us/2025/oct/02/best-sleep-eye-masks-us"
-  ],
-  [
-    "rep",
-    18,
-    "https://www.latimes.com/entertainment-arts/story/2026-03-05/britney-spears-arrested-dui-ventura"
-  ],
-  [
-    "mullin",
-    17,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-markwayne-mullin-trump.html"
-  ],
-  [
-    "department",
-    17,
-    "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html"
+    "https://www.nytimes.com/2026/03/06/nyregion/oyster-farm-long-island-ice-damage.html"
   ],
   [
     "gonzales",
@@ -221,24 +151,14 @@
     "https://www.nytimes.com/2026/03/05/us/politics/tony-gonzales-resigns.html"
   ],
   [
-    "don",
+    "chinese",
     17,
-    "https://www.theguardian.com/us-news/2026/mar/05/voter-suppression-texas-primaries"
+    "https://www.nytimes.com/2026/03/06/world/asia/maotai-china-liquor-capital.html"
   ],
   [
-    "company",
+    "middle",
     17,
-    "https://www.theguardian.com/technology/2026/mar/05/trump-anthropic-ai-pentagon"
-  ],
-  [
-    "hegseth",
-    17,
-    "https://www.theguardian.com/us-news/2026/mar/05/hegseth-latin-america-drug-cartels"
-  ],
-  [
-    "film",
-    17,
-    "https://www.theguardian.com/film/2026/mar/06/paolo-sorrentino-toni-servillo-interview-la-grazia"
+    "https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut"
   ],
   [
     "pok",
@@ -251,128 +171,208 @@
     "https://www.theguardian.com/games/2026/mar/05/pokemon-pokopia-review-collectible-creatures-create-their-own-perfect-world"
   ],
   [
+    "sleep",
+    17,
+    "https://www.theguardian.com/thefilter-us/2025/oct/02/best-sleep-eye-masks-us"
+  ],
+  [
+    "social",
+    16,
+    "https://www.nytimes.com/2026/03/06/business/economy/health-care-hiring-labor-market.html"
+  ],
+  [
     "children",
     16,
     "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
   ],
   [
-    "because",
+    "country",
     16,
-    "https://www.nytimes.com/2026/03/05/us/politics/trump-epstein-interviews-woman-justice-department.html"
-  ],
-  [
-    "anthropic",
-    16,
-    "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html"
-  ],
-  [
-    "led",
-    16,
-    "https://www.nytimes.com/2026/03/05/us/wayne-county-utah-murders-manhunt.html"
-  ],
-  [
-    "team",
-    16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "love",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/06/experience-lost-arm-fastest-drummers-world"
-  ],
-  [
-    "email",
-    16,
-    "https://www.theguardian.com/us-news/2026/mar/05/us-house-war-powers-resolution-vote"
-  ],
-  [
-    "game",
-    16,
-    "https://www.theguardian.com/sport/2026/mar/05/world-baseball-classic-2026"
-  ],
-  [
-    "sen",
-    16,
-    "https://www.latimes.com/world-nation/story/2026-03-05/trump-says-hes-replacing-homeland-security-secretary-noem-with-gop-sen-markwayne-mullin"
-  ],
-  [
-    "russian",
-    15,
-    "https://www.nytimes.com/2026/03/05/business/india-russian-oil.html"
-  ],
-  [
-    "republicans",
-    15,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-markwayne-mullin-trump.html"
-  ],
-  [
-    "investigation",
-    15,
-    "https://www.nytimes.com/2026/03/05/us/politics/lindsey-halligan-investigation-florida-bar.html"
-  ],
-  [
-    "election",
-    15,
-    "https://www.nytimes.com/2026/03/05/us/politics/tony-gonzales-resigns.html"
-  ],
-  [
-    "race",
-    15,
-    "https://www.nytimes.com/2026/03/05/us/politics/steve-daines-montana-senate-alme.html"
-  ],
-  [
-    "court",
-    15,
-    "https://www.nytimes.com/2026/03/05/us/politics/supreme-court-emergency-docket.html"
-  ],
-  [
-    "chinese",
-    15,
-    "https://www.nytimes.com/2026/03/06/world/asia/maotai-china-liquor-capital.html"
-  ],
-  [
-    "social",
-    15,
-    "https://www.nytimes.com/2026/03/05/us/senator-tim-sheehy-marine-war-protester.html"
-  ],
-  [
-    "though",
-    15,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "leader",
-    15,
-    "https://www.theguardian.com/world/2026/mar/06/pedro-sanchez-spain-european-leader-take-on-trump"
-  ],
-  [
-    "russia",
-    14,
-    "https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html"
+    "https://www.nytimes.com/2026/03/06/world/middleeast/lebanon-hezbollah-iran-disarm.html"
   ],
   [
     "conflict",
-    14,
+    16,
     "https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html"
   ],
   [
-    "administration",
-    14,
+    "don",
+    16,
+    "https://www.nytimes.com/2026/03/06/magazine/zohran-mamdani-new-york-rent-landlords.html"
+  ],
+  [
+    "party",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/06/texas-tony-gonzales-reelection"
+  ],
+  [
+    "health",
+    15,
+    "https://www.nytimes.com/2026/03/06/business/economy/health-care-hiring-labor-market.html"
+  ],
+  [
+    "strikes",
+    15,
+    "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
+  ],
+  [
+    "killed",
+    15,
+    "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
+  ],
+  [
+    "homeland",
+    15,
     "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
   ],
   [
-    "senator",
-    14,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-markwayne-mullin-trump.html"
+    "americans",
+    15,
+    "https://www.washingtonpost.com/nation/2026/03/06/americans-immoral-unethical-survey/"
   ],
   [
-    "replace",
-    14,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-markwayne-mullin-trump.html"
+    "military",
+    15,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "pentagon",
+    "past",
+    15,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "film",
+    15,
+    "https://www.theguardian.com/film/2026/mar/06/hamnet-oscars-jessie-buckley-paul-mescal-chloe-zhao"
+  ],
+  [
+    "family",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/06/the-dinosaurs-review-morgan-freemans-narration-is-so-soothing-you-could-use-this-as-a-relaxation-aid"
+  ],
+  [
+    "having",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/mar/06/donald-trump-war-britain-bombing-iran-keir-starmer"
+  ],
+  [
+    "game",
+    15,
+    "https://www.theguardian.com/sport/2026/mar/06/chess-gukesh-bottom-in-prague-as-world-champion-19-struggles-for-form"
+  ],
+  [
+    "democratic",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/05/voter-suppression-texas-primaries"
+  ],
+  [
+    "school",
     14,
-    "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html"
+    "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
+  ],
+  [
+    "following",
+    14,
+    "https://www.nytimes.com/2026/03/06/us/politics/schwartz-trump-pardon-industry.html"
+  ],
+  [
+    "race",
+    14,
+    "https://www.nytimes.com/2026/03/05/us/politics/steve-daines-montana-senate-alme.html"
+  ],
+  [
+    "epstein",
+    14,
+    "https://www.nytimes.com/2026/03/05/us/politics/trump-epstein-interviews-woman-justice-department.html"
+  ],
+  [
+    "media",
+    14,
+    "https://www.nytimes.com/2026/03/06/world/asia/indonesia-social-media-ban.html"
+  ],
+  [
+    "food",
+    14,
+    "https://www.nytimes.com/2026/03/06/nyregion/snap-food-stamps-work-requirements.html"
+  ],
+  [
+    "season",
+    14,
+    "https://www.theguardian.com/sport/2026/mar/06/ohio-high-school-gymnastics-dynasty-23rd-state-title-brecksville-bees"
+  ],
+  [
+    "john",
+    14,
+    "https://www.theguardian.com/film/2026/mar/06/sinners-delroy-lindo-bafta-n-word-controversy"
+  ],
+  [
+    "power",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/mar/06/us-military-grade-weapons-drones-congress"
+  ],
+  [
+    "cooker",
+    14,
+    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
+  ],
+  [
+    "team",
+    13,
+    "https://www.nytimes.com/2026/03/06/us/politics/schwartz-trump-pardon-industry.html"
+  ],
+  [
+    "election",
+    13,
+    "https://www.nytimes.com/2026/03/05/us/politics/tony-gonzales-resigns.html"
+  ],
+  [
+    "republican",
+    13,
+    "https://www.nytimes.com/2026/03/05/us/politics/tony-gonzales-resigns.html"
+  ],
+  [
+    "because",
+    13,
+    "https://www.nytimes.com/2026/03/05/us/politics/trump-epstein-interviews-woman-justice-department.html"
+  ],
+  [
+    "questions",
+    13,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "israeli",
+    13,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "review",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/06/the-dinosaurs-review-morgan-freemans-narration-is-so-soothing-you-could-use-this-as-a-relaxation-aid"
+  ],
+  [
+    "death",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/06/the-dinosaurs-review-morgan-freemans-narration-is-so-soothing-you-could-use-this-as-a-relaxation-aid"
+  ],
+  [
+    "living",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/mar/06/influencers-sold-fantasy-dubai-missile-economic-migrants"
+  ],
+  [
+    "name",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/mar/06/trump-ice-cuban-american"
+  ],
+  [
+    "video",
+    13,
+    "https://www.theguardian.com/games/2026/mar/02/stardew-valley-at-10-the-anticapitalist-game-that-cures-burnout-and-inspires-queer-art"
+  ],
+  [
+    "rep",
+    13,
+    "https://www.latimes.com/entertainment-arts/story/2026-03-05/britney-spears-arrested-dui-ventura"
   ]
 ];
