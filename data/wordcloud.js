@@ -2,22 +2,27 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    142,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
+    125,
+    "https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html"
   ],
   [
     "iran",
-    82,
+    80,
     "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
   ],
   [
-    "war",
-    68,
-    "https://www.nytimes.com/2026/03/05/us/politics/trump-war-powers-iran-house-vote.html"
+    "president",
+    69,
+    "https://www.nytimes.com/2026/03/05/business/india-russian-oil.html"
   ],
   [
-    "president",
-    65,
+    "war",
+    69,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "noem",
+    41,
     "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
   ],
   [
@@ -26,39 +31,39 @@
     "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
   ],
   [
-    "noem",
-    38,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
-  ],
-  [
-    "democrats",
-    30,
-    "https://www.nytimes.com/2026/03/05/us/politics/noem-perjury-investigation-blumenthal.html"
-  ],
-  [
-    "military",
-    29,
-    "https://www.nytimes.com/2026/03/05/us/politics/trump-iran-war-presidential-power.html"
-  ],
-  [
-    "security",
-    28,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
-  ],
-  [
-    "kristi",
-    27,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
-  ],
-  [
-    "iranian",
-    27,
-    "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
+    "israel",
+    33,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "texas",
-    27,
-    "https://www.nytimes.com/2026/03/05/us/politics/house-republicans-gonzales.html"
+    30,
+    "https://www.nytimes.com/2026/03/05/us/politics/tony-gonzales-resigns.html"
+  ],
+  [
+    "military",
+    30,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "middle",
+    29,
+    "https://www.nytimes.com/2026/03/05/business/india-russian-oil.html"
+  ],
+  [
+    "california",
+    29,
+    "https://www.theguardian.com/music/2026/mar/05/britney-spears-arrested-dui"
+  ],
+  [
+    "east",
+    28,
+    "https://www.nytimes.com/2026/03/05/business/india-russian-oil.html"
+  ],
+  [
+    "kristi",
+    28,
+    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
   ],
   [
     "democratic",
@@ -71,54 +76,54 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "israel",
+    "democrats",
     26,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/03/05/us/politics/noem-perjury-investigation-blumenthal.html"
   ],
   [
-    "east",
-    26,
-    "https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut"
-  ],
-  [
-    "dhs",
+    "security",
     25,
     "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
   ],
   [
-    "strikes",
-    25,
+    "iranian",
+    24,
     "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
   ],
   [
-    "middle",
-    25,
-    "https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut"
+    "school",
+    23,
+    "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
   ],
   [
-    "california",
-    24,
-    "https://www.theguardian.com/music/2026/mar/05/britney-spears-arrested-dui"
+    "strikes",
+    23,
+    "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
   ],
   [
-    "homeland",
+    "dhs",
     23,
     "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
   ],
   [
-    "department",
+    "party",
     23,
-    "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html"
+    "https://www.nytimes.com/2026/03/05/us/florida-gop-slurs-group-chat.html"
   ],
   [
     "donald",
     23,
+    "https://www.theguardian.com/world/2026/mar/06/pedro-sanchez-spain-european-leader-take-on-trump"
+  ],
+  [
+    "primary",
+    23,
     "https://www.theguardian.com/commentisfree/2026/mar/05/kamala-harris-election"
   ],
   [
-    "american",
-    23,
-    "https://www.theguardian.com/us-news/2026/mar/05/hegseth-latin-america-drug-cartels"
+    "ukraine",
+    22,
+    "https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html"
   ],
   [
     "senate",
@@ -126,64 +131,69 @@
     "https://www.nytimes.com/2026/03/05/us/politics/trump-fires-noem-gop-split-mullin.html"
   ],
   [
-    "film",
+    "american",
     22,
-    "https://www.theguardian.com/film/2026/mar/05/peaky-blinders-the-immortal-man-review-tommy-shelby-returns-for-muddy-bloody-big-screen-showdown"
+    "https://www.nytimes.com/2026/03/06/world/canada/jamil-jivani-canada-conservative-jd-vance.html"
   ],
   [
-    "administration",
+    "homeland",
     21,
     "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
   ],
   [
+    "died",
+    21,
+    "https://www.theguardian.com/us-news/2026/mar/05/bernard-lafayette-civil-rights-leader-dies"
+  ],
+  [
     "killed",
-    20,
+    19,
     "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
   ],
   [
     "attack",
-    20,
+    19,
     "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
   ],
   [
     "country",
-    20,
-    "https://www.nytimes.com/2026/03/05/us/apalachee-shooting-colt-gray-accountability.html"
-  ],
-  [
-    "primary",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/mar/05/kamala-harris-election"
-  ],
-  [
-    "campaign",
     19,
-    "https://www.nytimes.com/2026/03/05/us/politics/house-republicans-gonzales.html"
+    "https://www.nytimes.com/2026/03/05/world/americas/us-venezuela-diplomatic-relations.html"
+  ],
+  [
+    "government",
+    19,
+    "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html"
+  ],
+  [
+    "announced",
+    19,
+    "https://www.theguardian.com/us-news/2026/mar/05/trump-kristi-noem-homeland-security"
+  ],
+  [
+    "republican",
+    18,
+    "https://www.nytimes.com/2026/03/05/us/politics/tony-gonzales-resigns.html"
   ],
   [
     "israeli",
-    19,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    18,
+    "https://www.nytimes.com/2026/03/06/opinion/iran-bombing-america.html"
   ],
   [
-    "died",
-    19,
-    "https://www.theguardian.com/us-news/2026/mar/05/bernard-lafayette-civil-rights-leader-dies"
+    "campaign",
+    18,
+    "https://www.nytimes.com/2026/03/06/opinion/iran-bombing-america.html"
+  ],
+  [
+    "night",
+    18,
+    "https://www.nytimes.com/2026/03/06/arts/television/late-night-kristi-noem-homeland-security.html"
   ],
   [
     "food",
-    19,
+    18,
     "https://www.theguardian.com/commentisfree/2026/mar/05/democrats-rfk-jr-maha-healthy-food"
-  ],
-  [
-    "children",
-    18,
-    "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
-  ],
-  [
-    "team",
-    18,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "sleep",
@@ -191,34 +201,24 @@
     "https://www.theguardian.com/thefilter-us/2025/oct/02/best-sleep-eye-masks-us"
   ],
   [
-    "school",
-    17,
-    "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
+    "rep",
+    18,
+    "https://www.latimes.com/entertainment-arts/story/2026-03-05/britney-spears-arrested-dui-ventura"
   ],
   [
-    "because",
+    "mullin",
     17,
-    "https://www.nytimes.com/2026/03/05/us/politics/trump-epstein-interviews-woman-justice-department.html"
+    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-markwayne-mullin-trump.html"
   ],
   [
-    "government",
+    "department",
     17,
     "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html"
   ],
   [
-    "love",
+    "gonzales",
     17,
-    "https://www.nytimes.com/2026/03/05/theater/jonathan-groff-just-in-time-broadway.html"
-  ],
-  [
-    "party",
-    17,
-    "https://www.nytimes.com/2026/03/05/us/florida-gop-slurs-group-chat.html"
-  ],
-  [
-    "black",
-    17,
-    "https://www.nytimes.com/2026/03/05/us/florida-gop-slurs-group-chat.html"
+    "https://www.nytimes.com/2026/03/05/us/politics/tony-gonzales-resigns.html"
   ],
   [
     "don",
@@ -226,14 +226,9 @@
     "https://www.theguardian.com/us-news/2026/mar/05/voter-suppression-texas-primaries"
   ],
   [
-    "energy",
+    "company",
     17,
-    "https://www.theguardian.com/commentisfree/2026/mar/05/kamala-harris-election"
-  ],
-  [
-    "announced",
-    17,
-    "https://www.theguardian.com/us-news/2026/mar/05/trump-kristi-noem-homeland-security"
+    "https://www.theguardian.com/technology/2026/mar/05/trump-anthropic-ai-pentagon"
   ],
   [
     "hegseth",
@@ -241,9 +236,9 @@
     "https://www.theguardian.com/us-news/2026/mar/05/hegseth-latin-america-drug-cartels"
   ],
   [
-    "ukraine",
+    "film",
     17,
-    "https://www.theguardian.com/sport/2026/mar/05/seven-countries-to-boycott-paralympics-ceremony-over-flag-flying-russians"
+    "https://www.theguardian.com/film/2026/mar/06/paolo-sorrentino-toni-servillo-interview-la-grazia"
   ],
   [
     "pok",
@@ -256,14 +251,19 @@
     "https://www.theguardian.com/games/2026/mar/05/pokemon-pokopia-review-collectible-creatures-create-their-own-perfect-world"
   ],
   [
-    "social",
+    "children",
     16,
-    "https://www.nytimes.com/2026/03/05/us/senator-tim-sheehy-marine-war-protester.html"
+    "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
   ],
   [
-    "states",
+    "because",
     16,
-    "https://www.nytimes.com/2026/03/05/us/wayne-county-utah-murders-manhunt.html"
+    "https://www.nytimes.com/2026/03/05/us/politics/trump-epstein-interviews-woman-justice-department.html"
+  ],
+  [
+    "anthropic",
+    16,
+    "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html"
   ],
   [
     "led",
@@ -271,24 +271,54 @@
     "https://www.nytimes.com/2026/03/05/us/wayne-county-utah-murders-manhunt.html"
   ],
   [
-    "night",
+    "team",
     16,
-    "https://www.theguardian.com/us-news/2026/mar/05/voter-suppression-texas-primaries"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "mullin",
+    "love",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/06/experience-lost-arm-fastest-drummers-world"
+  ],
+  [
+    "email",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/05/us-house-war-powers-resolution-vote"
+  ],
+  [
+    "game",
+    16,
+    "https://www.theguardian.com/sport/2026/mar/05/world-baseball-classic-2026"
+  ],
+  [
+    "sen",
+    16,
+    "https://www.latimes.com/world-nation/story/2026-03-05/trump-says-hes-replacing-homeland-security-secretary-noem-with-gop-sen-markwayne-mullin"
+  ],
+  [
+    "russian",
     15,
-    "https://www.nytimes.com/2026/03/05/us/politics/trump-fires-noem-gop-split-mullin.html"
+    "https://www.nytimes.com/2026/03/05/business/india-russian-oil.html"
   ],
   [
     "republicans",
     15,
-    "https://www.nytimes.com/2026/03/05/us/politics/trump-war-powers-iran-house-vote.html"
+    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-markwayne-mullin-trump.html"
   ],
   [
-    "leader",
+    "investigation",
     15,
-    "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump/iran-delays-naming-a-new-leader-out-of-security-concerns-officials-say"
+    "https://www.nytimes.com/2026/03/05/us/politics/lindsey-halligan-investigation-florida-bar.html"
+  ],
+  [
+    "election",
+    15,
+    "https://www.nytimes.com/2026/03/05/us/politics/tony-gonzales-resigns.html"
+  ],
+  [
+    "race",
+    15,
+    "https://www.nytimes.com/2026/03/05/us/politics/steve-daines-montana-senate-alme.html"
   ],
   [
     "court",
@@ -296,83 +326,53 @@
     "https://www.nytimes.com/2026/03/05/us/politics/supreme-court-emergency-docket.html"
   ],
   [
-    "region",
+    "chinese",
     15,
-    "https://www.nytimes.com/2026/03/05/us/wayne-county-utah-murders-manhunt.html"
+    "https://www.nytimes.com/2026/03/06/world/asia/maotai-china-liquor-capital.html"
   ],
   [
-    "countries",
+    "social",
     15,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "https://www.nytimes.com/2026/03/05/us/senator-tim-sheehy-marine-war-protester.html"
   ],
   [
-    "past",
+    "though",
     15,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "minister",
+    "leader",
     15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/world/2026/mar/06/pedro-sanchez-spain-european-leader-take-on-trump"
   ],
   [
-    "russian",
-    15,
-    "https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut"
-  ],
-  [
-    "email",
-    15,
-    "https://www.theguardian.com/us-news/2026/mar/05/us-house-war-powers-resolution-vote"
-  ],
-  [
-    "living",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/mar/05/childrens-books-films-better-than-adult"
-  ],
-  [
-    "game",
-    15,
-    "https://www.theguardian.com/sport/2026/mar/05/world-baseball-classic-2026"
-  ],
-  [
-    "iran's",
-    15,
-    "https://www.latimes.com/politics/story/2026-03-05/europe-commits-to-expanding-iran-campaign-as-israel-strikes-southern-lebanon"
-  ],
-  [
-    "investigation",
+    "russia",
     14,
-    "https://www.nytimes.com/2026/03/05/us/politics/lindsey-halligan-investigation-florida-bar.html"
+    "https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html"
   ],
   [
-    "review",
+    "conflict",
     14,
-    "https://www.nytimes.com/2026/03/05/us/politics/lindsey-halligan-investigation-florida-bar.html"
+    "https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html"
   ],
   [
-    "anthropic",
+    "administration",
+    14,
+    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
+  ],
+  [
+    "senator",
+    14,
+    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-markwayne-mullin-trump.html"
+  ],
+  [
+    "replace",
+    14,
+    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-markwayne-mullin-trump.html"
+  ],
+  [
+    "pentagon",
     14,
     "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html"
-  ],
-  [
-    "defense",
-    14,
-    "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html"
-  ],
-  [
-    "again",
-    14,
-    "https://www.nytimes.com/2026/03/05/us/politics/supreme-court-emergency-docket.html"
-  ],
-  [
-    "republican",
-    14,
-    "https://www.nytimes.com/2026/03/05/us/florida-gop-slurs-group-chat.html"
-  ],
-  [
-    "political",
-    14,
-    "https://www.washingtonpost.com/obituaries/2026/03/04/lou-holtz-dead-notre-dame/"
   ]
 ];
