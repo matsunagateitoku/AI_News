@@ -8,16 +8,16 @@
       "source": "NY Times"
     },
     {
-      "name": "Iran War Poses Test For Justice Dept",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-iran-war-doj-dhs-firings.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Fa Cup",
       "count": 2,
       "url": "https://www.theguardian.com/football/2026/mar/06/wolves-liverpool-fa-cup-fifth-round-match-report",
       "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.npr.org/2026/03/06/g-s1-112788/oil-prices-stocks-jobs-report",
+      "source": "NPR"
     },
     {
       "name": "Super Bowl Mvp",
@@ -26,53 +26,65 @@
       "source": "Fox News"
     },
     {
-      "name": "World War Ii",
-      "count": 2,
-      "url": "https://www.nbcnews.com/video/shorts/world-war-ii-veteran-is-celebrated-on-100th-birthday-258817605987",
-      "source": "NBC News"
-    },
-    {
       "name": "The Winter Olympics",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/mar/06/amber-glenn-trump-white-house-olympics-refusal",
       "source": "The Guardian"
     },
     {
-      "name": "Hugo",
+      "name": "The Winter Paralympic Games",
       "count": 1,
-      "url": "https://www.theguardian.com/books/2026/mar/06/the-infamous-gilberts-by-angela-tomaski-review-a-delicious-comfort-read",
+      "url": "https://www.theguardian.com/world/2026/mar/07/ukraine-war-briefing-nationwide-air-alert-issued-after-10-wounded-in-kharkiv-strikes",
       "source": "The Guardian"
     },
     {
-      "name": "Game Freak/Omega Force/Nintendo",
+      "name": "The Islamic Revolution",
       "count": 1,
-      "url": "https://www.theguardian.com/games/2026/mar/05/pokemon-pokopia-review-collectible-creatures-create-their-own-perfect-world",
+      "url": "https://www.theguardian.com/culture/2026/mar/07/my-cultural-awakening-a-rihanna-song-showed-me-how-to-live-as-a-gay-man-in-iran",
       "source": "The Guardian"
     },
     {
-      "name": "Game Boy",
+      "name": "The Israeli Pm’S",
       "count": 1,
-      "url": "https://www.theguardian.com/games/2026/mar/04/have-we-reached-peak-pokemon",
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/07/chaos-failed-state-iran-israel-war-benjamin-netanyahu",
       "source": "The Guardian"
     },
     {
-      "name": "The Chinese Year",
+      "name": "The Spanish Pm’S",
       "count": 1,
-      "url": "https://www.theguardian.com/fashion/2026/mar/05/stella-mccartney-paris-fashion-week-show",
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/07/pedro-sanchez-stance-donald-trump-pragmatic",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pro Bowl",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/mar/06/ravens-trade-maxx-crosby-raiders-two-first-round-picks",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Demands ‘Unconditional Surrender’ From Iran",
-      "count": 67,
-      "url": "https://www.nytimes.com/2026/03/06/briefing/iran-oil-jobs.html",
+      "name": "Trump Demands ‘Unconditional Surrender’",
+      "count": 66,
+      "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html",
       "source": "NY Times"
     },
     {
       "name": "Robust, Reasoning And Responsible Ai",
-      "count": 22,
+      "count": 19,
       "url": "https://www.theguardian.com/commentisfree/2026/mar/06/moltbook-risk-ai-agents-artificial-life",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kristi Noem",
+      "count": 18,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 17,
+      "url": "https://www.theguardian.com/us-news/2026/mar/06/white-house-propaganda-video-characters",
       "source": "The Guardian"
     },
     {
@@ -82,58 +94,108 @@
       "source": "Politico"
     },
     {
-      "name": "Ice",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/nation/2026/03/05/antifa-trial-ice-terrorist-free-speech/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "The White House",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/mar/06/white-house-propaganda-video-characters",
-      "source": "The Guardian"
-    },
-    {
       "name": "Pokémon Firered",
       "count": 13,
       "url": "https://www.theguardian.com/games/2026/mar/04/have-we-reached-peak-pokemon",
       "source": "The Guardian"
     },
     {
-      "name": "Kristi Noem",
+      "name": "Ice",
       "count": 12,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement",
-      "source": "The Guardian"
+      "url": "https://www.washingtonpost.com/nation/2026/03/05/antifa-trial-ice-terrorist-free-speech/",
+      "source": "Washington Post"
     },
     {
       "name": "The Filter Us",
-      "count": 11,
+      "count": 10,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News",
-      "count": 10,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-03-04/gayle-king-signs-new-deal-with-cbs-news",
-      "source": "LA Times"
     },
     {
       "name": "Dhs",
       "count": 8,
       "url": "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement",
       "source": "The Guardian"
+    },
+    {
+      "name": "Breaking News",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/mar/06/justice-department-epstein-files-trump-allegations",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "The Islamic Republic Of Iran",
+      "count": 109,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/07/chaos-failed-state-iran-israel-war-benjamin-netanyahu",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Us",
+      "count": 78,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 64,
+      "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/03/06/us/politics/darrell-issa-california-retire.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/03/06/nyregion/mamdani-rama-wife-israel.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Russia",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-cybersecurity-strategy.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ukraine",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/03/06/world/europe/2026-paralympics-russia-doping-ukraine-boycott.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 14,
+      "url": "https://www.washingtonpost.com/nation/2026/03/05/antifa-trial-ice-terrorist-free-speech/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Tehran",
+      "count": 14,
+      "url": "https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Washington",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/2026/mar/07/ukraine-war-briefing-nationwide-air-alert-issued-after-10-wounded-in-kharkiv-strikes",
+      "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 47,
+      "count": 50,
       "url": "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement",
       "source": "The Guardian"
     },
     {
       "name": "Jesse Jackson",
-      "count": 17,
+      "count": 16,
       "url": "https://www.nytimes.com/2026/03/06/us/jesse-jackson-funeral-chicago.html",
       "source": "NY Times"
     },
@@ -144,22 +206,22 @@
       "source": "NY Times"
     },
     {
-      "name": "Barack Obama",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/mar/06/jesse-jackson-memorial-service-chicago",
-      "source": "The Guardian"
-    },
-    {
       "name": "Joe Biden",
-      "count": 8,
+      "count": 10,
       "url": "https://www.theguardian.com/us-news/2026/mar/06/jesse-jackson-memorial-service-chicago",
       "source": "The Guardian"
     },
     {
-      "name": "Tim Walz",
+      "name": "Tim Dowling",
       "count": 8,
-      "url": "https://www.politico.com/news/2026/02/28/let-him-think-he-won-inside-minnesota-dems-effort-to-fend-off-trumps-immigration-surge-00791438",
-      "source": "Politico"
+      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/07/tim-dowling-its-time-for-my-humiliating-private-tour-with-the-builder",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Harry Styles",
+      "count": 8,
+      "url": "https://www.theguardian.com/music/2026/mar/07/harry-styles-review-netflix-concert-is-a-communal-love-in-with-some-big-pop-moments",
+      "source": "The Guardian"
     },
     {
       "name": "Tony Gonzales",
@@ -175,78 +237,16 @@
     },
     {
       "name": "Darrell Issa",
-      "count": 6,
+      "count": 7,
       "url": "https://www.nytimes.com/2026/03/06/us/politics/darrell-issa-california-retire.html",
       "source": "NY Times"
     },
     {
-      "name": "Keir Starmer",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/06/iran-war-britain-us-israel-keir-starmer-donald-trump-benjamin-netanyahu",
+      "name": "Barack Obama",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/mar/06/jesse-jackson-memorial-service-chicago",
       "source": "The Guardian"
     }
   ],
-  "GPE": [
-    {
-      "name": "Iran",
-      "count": 104,
-      "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Us",
-      "count": 76,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 66,
-      "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/03/06/nyregion/mamdani-rama-wife-israel.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/03/06/us/politics/darrell-issa-california-retire.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Russia",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/03/06/world/europe/2026-paralympics-russia-doping-ukraine-boycott.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 15,
-      "url": "https://www.washingtonpost.com/nation/2026/03/05/antifa-trial-ice-terrorist-free-speech/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Michigan",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/03/06/weather/storm-forecast-missouri-kansas-oklahoma.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Japan",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/03/06/world/canada/carney-takaichi-japan-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Washington Dc",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/06/us-military-grade-weapons-drones-congress",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-03-07T03:19:55Z"
+  "updated": "2026-03-07T07:33:48Z"
 };
