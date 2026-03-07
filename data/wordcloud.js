@@ -2,48 +2,33 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    107,
-    "https://www.nytimes.com/video/us/politics/100000010749958/how-trumps-base-is-reacting-to-his-war-message.html"
+    124,
+    "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html"
   ],
   [
     "iran",
-    85,
-    "https://www.nytimes.com/video/us/politics/100000010749958/how-trumps-base-is-reacting-to-his-war-message.html"
+    106,
+    "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html"
   ],
   [
     "war",
-    67,
-    "https://www.nytimes.com/video/us/politics/100000010749958/how-trumps-base-is-reacting-to-his-war-message.html"
-  ],
-  [
-    "noem",
-    35,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
+    72,
+    "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html"
   ],
   [
     "president",
-    34,
-    "https://www.nytimes.com/2026/03/06/us/politics/trump-iran-war-public-support.html"
+    50,
+    "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html"
   ],
   [
-    "east",
-    31,
-    "https://www.nytimes.com/2026/03/06/business/stocks-jobs-report.html"
+    "noem",
+    30,
+    "https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html"
   ],
   [
-    "texas",
-    29,
-    "https://www.nytimes.com/2026/03/05/us/politics/tony-gonzales-resigns.html"
-  ],
-  [
-    "jobs",
-    27,
-    "https://www.nytimes.com/2026/03/06/business/stocks-jobs-report.html"
-  ],
-  [
-    "middle",
-    27,
-    "https://www.nytimes.com/2026/03/06/business/stocks-jobs-report.html"
+    "military",
+    28,
+    "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html"
   ],
   [
     "rice",
@@ -51,9 +36,9 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "died",
+    "ice",
     24,
-    "https://www.nytimes.com/2026/03/06/us/jesse-jackson-funeral-chicago.html"
+    "https://www.washingtonpost.com/nation/2026/03/05/antifa-trial-ice-terrorist-free-speech/"
   ],
   [
     "donald",
@@ -61,39 +46,34 @@
     "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement"
   ],
   [
-    "department",
-    24,
-    "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement"
+    "jobs",
+    22,
+    "https://www.nytimes.com/2026/03/06/us/politics/talarico-social-media-democrats-jobs-report.html"
   ],
   [
     "california",
-    23,
-    "https://www.nytimes.com/2026/03/05/arts/music/britney-spears-arrest.html"
-  ],
-  [
-    "night",
-    23,
-    "https://www.theguardian.com/world/2026/mar/06/tehran-bombing-iran-night-of-terror"
-  ],
-  [
-    "kristi",
     22,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
+    "https://www.nytimes.com/2026/03/06/us/politics/darrell-issa-california-retire.html"
   ],
   [
-    "secretary",
+    "israel",
     22,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
+    "https://www.nytimes.com/2026/03/06/nyregion/mamdani-rama-wife-israel.html"
   ],
   [
-    "ice",
+    "east",
     22,
-    "https://www.washingtonpost.com/nation/2026/03/05/antifa-trial-ice-terrorist-free-speech/"
+    "https://www.theguardian.com/world/2026/mar/06/us-israel-threaten-major-escalation-airstrikes-iran-lebanon"
   ],
   [
-    "campaign",
+    "security",
     21,
-    "https://www.nytimes.com/2026/03/06/us/politics/trump-iran-war-public-support.html"
+    "https://www.nytimes.com/2026/03/06/us/politics/trump-iran-war-doj-dhs-firings.html"
+  ],
+  [
+    "texas",
+    21,
+    "https://www.nytimes.com/2026/03/06/us/politics/texas-democrats-brandon-herrera-youtube.html"
   ],
   [
     "game",
@@ -101,69 +81,64 @@
     "https://www.theguardian.com/film/2026/mar/06/game-of-thrones-movie-george-rr-martin-targaryens-a-song-of-ice-and-fire"
   ],
   [
-    "film",
+    "middle",
     21,
-    "https://www.theguardian.com/film/2026/mar/06/game-of-thrones-movie-george-rr-martin-targaryens-a-song-of-ice-and-fire"
+    "https://www.theguardian.com/world/2026/mar/06/us-israel-threaten-major-escalation-airstrikes-iran-lebanon"
+  ],
+  [
+    "night",
+    21,
+    "https://www.theguardian.com/world/2026/mar/06/tehran-bombing-iran-night-of-terror"
+  ],
+  [
+    "died",
+    20,
+    "https://www.nytimes.com/2026/03/06/us/jesse-jackson-funeral-chicago.html"
+  ],
+  [
+    "school",
+    20,
+    "https://www.washingtonpost.com/education/2026/03/04/trump-school-vouchers-democrats/"
+  ],
+  [
+    "secretary",
+    20,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "iranian",
+    20,
+    "https://www.theguardian.com/world/2026/mar/06/us-israel-threaten-major-escalation-airstrikes-iran-lebanon"
+  ],
+  [
+    "oil",
+    19,
+    "https://www.nytimes.com/2026/03/06/business/gas-prices-jump.html"
+  ],
+  [
+    "video",
+    19,
+    "https://www.theguardian.com/us-news/2026/mar/06/white-house-propaganda-video-characters"
   ],
   [
     "pok",
-    21,
+    19,
     "https://www.theguardian.com/games/2026/mar/05/pokemon-pokopia-review-collectible-creatures-create-their-own-perfect-world"
   ],
   [
     "mon",
-    21,
+    19,
     "https://www.theguardian.com/games/2026/mar/05/pokemon-pokopia-review-collectible-creatures-create-their-own-perfect-world"
   ],
   [
-    "israel",
-    20,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "conflict",
-    19,
-    "https://www.nytimes.com/2026/03/06/business/stocks-jobs-report.html"
-  ],
-  [
-    "political",
-    19,
-    "https://www.nytimes.com/2026/02/17/us/jesse-jackson-dead.html"
-  ],
-  [
-    "iranian",
-    19,
-    "https://www.theguardian.com/world/2026/mar/06/us-israel-threaten-major-escalation-airstrikes-iran-lebanon"
-  ],
-  [
-    "americans",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/mar/06/us-military-grade-weapons-drones-congress"
-  ],
-  [
-    "military",
+    "kristi",
     18,
-    "https://www.nytimes.com/2026/03/06/us/politics/trump-iran-war-public-support.html"
+    "https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html"
   ],
   [
-    "security",
+    "past",
     18,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
-  ],
-  [
-    "love",
-    18,
-    "https://www.nytimes.com/2026/03/06/opinion/daryl-hannah-love-story-jfk-jr.html"
-  ],
-  [
-    "latest",
-    18,
-    "https://www.nytimes.com/2026/03/06/business/dealbook/axel-springer-telegraph.html"
-  ],
-  [
-    "investigation",
-    18,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+    "https://www.nytimes.com/2026/03/06/us/politics/talarico-social-media-democrats-jobs-report.html"
   ],
   [
     "children",
@@ -171,44 +146,69 @@
     "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement"
   ],
   [
-    "immigration",
+    "department",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement"
+  ],
+  [
+    "conflict",
+    18,
+    "https://www.theguardian.com/world/2026/mar/06/us-israel-threaten-major-escalation-airstrikes-iran-lebanon"
+  ],
+  [
+    "american",
+    18,
+    "https://www.theguardian.com/world/2026/mar/06/iran-venezuela-trump-regime-capture"
+  ],
+  [
+    "jesse",
     17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/03/06/us/jesse-jackson-funeral-chicago.html"
+  ],
+  [
+    "prices",
+    17,
+    "https://www.nytimes.com/2026/03/06/business/gas-prices-jump.html"
+  ],
+  [
+    "democratic",
+    17,
+    "https://www.washingtonpost.com/education/2026/03/04/trump-school-vouchers-democrats/"
+  ],
+  [
+    "film",
+    17,
+    "https://www.theguardian.com/film/2026/mar/06/game-of-thrones-movie-george-rr-martin-targaryens-a-song-of-ice-and-fire"
+  ],
+  [
+    "again",
+    16,
+    "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html"
+  ],
+  [
+    "star",
+    16,
+    "https://www.nytimes.com/2026/03/06/arts/music/britney-spears-arrest-conservatorship.html"
+  ],
+  [
+    "country",
+    16,
+    "https://www.nytimes.com/2026/03/06/world/americas/world-cup-mexico-security-plan.html"
+  ],
+  [
+    "because",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement"
   ],
   [
     "senate",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement"
-  ],
-  [
-    "video",
-    17,
-    "https://www.theguardian.com/us-news/2026/mar/06/white-house-propaganda-video-characters"
-  ],
-  [
-    "dhs",
-    16,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
-  ],
-  [
-    "don",
-    16,
-    "https://www.nytimes.com/2026/03/06/magazine/zohran-mamdani-new-york-rent-landlords.html"
-  ],
-  [
-    "media",
     16,
     "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement"
   ],
   [
-    "company",
+    "love",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/mar/06/spotify-alternative-mp3"
-  ],
-  [
-    "health",
-    16,
-    "https://www.theguardian.com/us-news/2026/mar/06/texas-ice-detention-center-el-paso"
+    "https://www.theguardian.com/tv-and-radio/2026/mar/06/kerry-washington-high-stakes-mystery-imperfect-women"
   ],
   [
     "sleep",
@@ -216,69 +216,109 @@
     "https://www.theguardian.com/thefilter-us/2025/oct/02/best-sleep-eye-masks-us"
   ],
   [
+    "rep",
+    16,
+    "https://www.latimes.com/california/story/2026-03-06/veteran-rep-darrell-issa-decides-not-to-seek-reelection-in-new-democratic-leaning-district-sources-say"
+  ],
+  [
+    "unconditional",
+    15,
+    "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html"
+  ],
+  [
+    "surrender",
+    15,
+    "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html"
+  ],
+  [
+    "campaign",
+    15,
+    "https://www.nytimes.com/2026/03/06/us/politics/trump-iran-war-public-support.html"
+  ],
+  [
+    "jackson",
+    15,
+    "https://www.nytimes.com/2026/03/06/us/jesse-jackson-funeral-chicago.html"
+  ],
+  [
     "democrats",
     15,
-    "https://www.nytimes.com/2026/03/06/business/economy/jobs-report-unemployment-democrats-republicans-midterms.html"
-  ],
-  [
-    "family",
-    15,
-    "https://www.nytimes.com/2026/03/06/style/tom-junod-would-like-to-tell-you-about-his-father.html"
-  ],
-  [
-    "because",
-    15,
-    "https://www.nytimes.com/2026/03/05/us/politics/trump-epstein-interviews-woman-justice-department.html"
-  ],
-  [
-    "country",
-    15,
-    "https://www.washingtonpost.com/nation/2026/03/06/americans-immoral-unethical-survey/"
+    "https://www.nytimes.com/2026/03/06/us/politics/texas-democrats-brandon-herrera-youtube.html"
   ],
   [
     "social",
     15,
-    "https://www.theguardian.com/commentisfree/2026/mar/06/good-riddance-to-kristi-noem-her-replacement-wont-be-an-improvement"
+    "https://www.nytimes.com/2026/03/06/us/politics/talarico-social-media-democrats-jobs-report.html"
   ],
   [
-    "american",
+    "republican",
     15,
-    "https://www.theguardian.com/world/2026/mar/06/iran-venezuela-trump-regime-capture"
+    "https://www.nytimes.com/2026/03/06/us/politics/darrell-issa-california-retire.html"
   ],
   [
-    "homeland",
+    "kennedy",
+    15,
+    "https://www.nytimes.com/2026/03/06/arts/music/kennedy-center-national-symphony-orchestra-leader-quits.html"
+  ],
+  [
+    "center",
+    15,
+    "https://www.nytimes.com/2026/03/06/arts/music/kennedy-center-national-symphony-orchestra-leader-quits.html"
+  ],
+  [
+    "russia",
+    15,
+    "https://www.nytimes.com/2026/03/06/world/europe/2026-paralympics-russia-doping-ukraine-boycott.html"
+  ],
+  [
+    "latest",
+    15,
+    "https://www.nytimes.com/2026/03/06/briefing/iran-oil-jobs.html"
+  ],
+  [
+    "chinese",
+    15,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "don",
+    15,
+    "https://www.theguardian.com/sport/2026/mar/06/ohio-high-school-gymnastics-dynasty-23rd-state-title-brecksville-bees"
+  ],
+  [
+    "company",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/mar/06/spotify-alternative-mp3"
+  ],
+  [
+    "food",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/06/fda-vaccine-chief-ousted-vinay-prasad"
+  ],
+  [
+    "administration",
     14,
-    "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
+    "https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html"
+  ],
+  [
+    "government",
+    14,
+    "https://www.washingtonpost.com/nation/2026/03/05/antifa-trial-ice-terrorist-free-speech/"
+  ],
+  [
+    "released",
+    14,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "team",
     14,
-    "https://www.nytimes.com/2026/03/06/us/politics/schwartz-trump-pardon-industry.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "epstein",
     14,
-    "https://www.nytimes.com/2026/03/05/us/politics/trump-epstein-interviews-woman-justice-department.html"
-  ],
-  [
-    "chinese",
-    14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "past",
-    14,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "strikes",
-    14,
-    "https://www.theguardian.com/world/2026/mar/06/us-israel-threaten-major-escalation-airstrikes-iran-lebanon"
-  ],
-  [
-    "party",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/mar/06/iran-war-britain-us-israel-keir-starmer-donald-trump-benjamin-netanyahu"
+    "https://www.theguardian.com/us-news/2026/mar/06/justice-department-epstein-files-trump-allegations"
   ],
   [
     "cooker",
@@ -286,14 +326,44 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "administration",
+    "investigation",
     13,
-    "https://www.nytimes.com/video/us/politics/100000010749958/how-trumps-base-is-reacting-to-his-war-message.html"
+    "https://www.nytimes.com/2026/03/06/us/politics/lindsey-halligan-florida-bar.html"
   ],
   [
-    "government",
+    "several",
     13,
-    "https://www.washingtonpost.com/nation/2026/03/05/antifa-trial-ice-terrorist-free-speech/"
+    "https://www.nytimes.com/2026/03/06/world/europe/2026-paralympics-russia-doping-ukraine-boycott.html"
+  ],
+  [
+    "family",
+    13,
+    "https://www.nytimes.com/2026/03/06/style/tom-junod-would-like-to-tell-you-about-his-father.html"
+  ],
+  [
+    "business",
+    13,
+    "https://www.nytimes.com/video/us/100000010755999/the-state-of-us-markets.html"
+  ],
+  [
+    "accused",
+    13,
+    "https://www.washingtonpost.com/nation/2026/03/03/colin-gray-father-trial-verdict-school-shooting/"
+  ],
+  [
+    "israeli",
+    13,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "immigration",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "strike",
+    13,
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
   ],
   [
     "filter",
@@ -304,75 +374,5 @@
     "music",
     13,
     "https://www.theguardian.com/thefilter-us/2026/mar/06/spotify-alternative-mp3"
-  ],
-  [
-    "stop",
-    13,
-    "https://www.theguardian.com/world/2026/mar/06/tehran-bombing-iran-night-of-terror"
-  ],
-  [
-    "john",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/06/daryl-hannah-slams-ryan-murphy-jfk-jr-love-story"
-  ],
-  [
-    "food",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/mar/06/trump-ice-cuban-american"
-  ],
-  [
-    "place",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/mar/06/moltbook-risk-ai-agents-artificial-life"
-  ],
-  [
-    "democratic",
-    13,
-    "https://www.theguardian.com/technology/commentisfree/2026/mar/06/the-guardian-view-on-ai-in-war-the-iran-conflict-shows-that-the-paradigm-shift-has-already-begun"
-  ],
-  [
-    "race",
-    13,
-    "https://www.theguardian.com/sport/2026/mar/06/aicher-val-di-fassa-downhill-vonn-shiffrin-world-cup"
-  ],
-  [
-    "book",
-    13,
-    "https://www.theguardian.com/books/2026/mar/06/amazon-pulls-sponsorship-from-paris-book-festival-after-booksellers-association-boycott"
-  ],
-  [
-    "energy",
-    13,
-    "https://www.theguardian.com/music/2026/mar/06/shiva-feshareki-bbc-singers-lucy-goddard-review-divine-feminine-emma-tring-karen-mccarthy-woolf-st-martin-in-the-fields-london"
-  ],
-  [
-    "again",
-    12,
-    "https://www.nytimes.com/2026/03/06/business/aaa-gas-prices.html"
-  ],
-  [
-    "leader",
-    12,
-    "https://www.nytimes.com/2026/03/06/us/jesse-jackson-funeral-chicago.html"
-  ],
-  [
-    "center",
-    12,
-    "https://www.nytimes.com/2026/03/06/arts/music/kennedy-center-national-symphony-orchestra-leader-quits.html"
-  ],
-  [
-    "star",
-    12,
-    "https://www.nytimes.com/2026/03/06/arts/music/britney-spears-arrest-conservatorship.html"
-  ],
-  [
-    "washington",
-    12,
-    "https://www.nytimes.com/2026/03/06/us/politics/potomac-river-poop-sewage-dc.html"
-  ],
-  [
-    "million",
-    12,
-    "https://www.nytimes.com/2026/03/06/business/dealbook/axel-springer-telegraph.html"
   ]
 ];
