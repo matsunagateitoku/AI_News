@@ -2,46 +2,41 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "iran",
-    118,
+    130,
     "https://www.nytimes.com/2026/03/07/us/politics/iran-nuclear-site-uranium-intel.html"
   ],
   [
     "trump",
-    116,
+    122,
     "https://www.nytimes.com/2026/03/07/us/politics/iran-nuclear-site-uranium-intel.html"
   ],
   [
     "war",
-    69,
-    "https://www.nytimes.com/video/world/middleeast/100000010750140/how-the-war-in-iran-is-disrupting-the-worlds-oil.html"
+    78,
+    "https://www.nytimes.com/2026/03/08/us/politics/trump-russia-ukraine-iran-war.html"
   ],
   [
     "president",
-    37,
-    "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html"
+    43,
+    "https://www.nytimes.com/2026/03/07/us/politics/judge-kari-lake-voa-layoffs.html"
   ],
   [
-    "israel",
-    34,
-    "https://www.nytimes.com/video/world/middleeast/100000010750140/how-the-war-in-iran-is-disrupting-the-worlds-oil.html"
+    "secretary",
+    37,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "energy",
+    31,
+    "https://www.theguardian.com/world/2026/mar/08/us-energy-chief-spike-gas-prices"
   ],
   [
     "strikes",
-    33,
-    "https://www.theguardian.com/world/live/2026/mar/08/middle-east-crisis-live-china-warns-world-cannot-return-to-law-of-the-jungle-trump-says-iran-being-decimated"
+    30,
+    "https://www.nytimes.com/2026/03/08/world/middleeast/desalination-plants-iran-bahrain.html"
   ],
   [
     "middle",
-    29,
-    "https://www.theguardian.com/world/live/2026/mar/08/middle-east-crisis-live-china-warns-world-cannot-return-to-law-of-the-jungle-trump-says-iran-being-decimated"
-  ],
-  [
-    "east",
-    29,
-    "https://www.theguardian.com/world/live/2026/mar/08/middle-east-crisis-live-china-warns-world-cannot-return-to-law-of-the-jungle-trump-says-iran-being-decimated"
-  ],
-  [
-    "iranian",
     29,
     "https://www.theguardian.com/world/live/2026/mar/08/middle-east-crisis-live-china-warns-world-cannot-return-to-law-of-the-jungle-trump-says-iran-being-decimated"
   ],
@@ -51,29 +46,39 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "american",
-    26,
-    "https://www.nytimes.com/2026/03/07/world/americas/trump-latin-american-coalition-cartels.html"
+    "iranian",
+    28,
+    "https://www.theguardian.com/world/live/2026/mar/08/middle-east-crisis-live-china-warns-world-cannot-return-to-law-of-the-jungle-trump-says-iran-being-decimated"
   ],
   [
-    "conflict",
+    "east",
+    27,
+    "https://www.theguardian.com/world/live/2026/mar/08/middle-east-crisis-live-china-warns-world-cannot-return-to-law-of-the-jungle-trump-says-iran-being-decimated"
+  ],
+  [
+    "israel",
     25,
-    "https://www.theguardian.com/us-news/2026/mar/08/pete-hegseth-pentagon-trump-iran"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "oil",
-    23,
-    "https://www.nytimes.com/video/world/middleeast/100000010750140/how-the-war-in-iran-is-disrupting-the-worlds-oil.html"
+    "nation",
+    25,
+    "https://www.theguardian.com/football/2026/mar/08/dc-united-inter-miami-mls-lionel-messi"
+  ],
+  [
+    "american",
+    24,
+    "https://www.washingtonpost.com/lifestyle/interactive/2026/american-roadtrip-french-grandmother-arnaud-montagard/"
   ],
   [
     "military",
     23,
-    "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "killed",
-    22,
-    "https://www.washingtonpost.com/immigration/2026/03/07/ruben-martinez-dhs-killing-texas-video/"
+    "sen",
+    23,
+    "https://www.latimes.com/politics/story/2026-03-03/padilla-preps-for-trump-trying-to-control-elections-via-emergency-order"
   ],
   [
     "book",
@@ -81,64 +86,94 @@
     "https://www.washingtonpost.com/obituaries/2026/03/07/paula-doress-worters-our-bodies-ourselves/"
   ],
   [
-    "israeli",
+    "noem",
     22,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "texas",
-    21,
-    "https://www.nytimes.com/2026/03/08/us/teen-mariachi-musicians-detained-ice-texas.html"
-  ],
-  [
-    "sleep",
-    21,
-    "https://www.theguardian.com/thefilter-us/2025/oct/02/best-sleep-eye-masks-us"
-  ],
-  [
-    "children",
-    20,
-    "https://www.theguardian.com/technology/2026/mar/08/chatgpt-driving-rise-in-reports-of-satanic-organised-ritual-abuse-uk-experts-say"
-  ],
-  [
-    "donald",
-    19,
-    "https://www.theguardian.com/us-news/2026/mar/08/pete-hegseth-pentagon-trump-iran"
-  ],
-  [
-    "rise",
-    18,
-    "https://www.nytimes.com/2026/03/08/world/americas/colombia-elections-politicial-violence-kidnapping-assassination.html"
-  ],
-  [
-    "team",
-    18,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "political",
-    18,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/08/political-depression-therapy-trump-era"
-  ],
-  [
-    "police",
-    18,
-    "https://www.theguardian.com/world/2026/mar/08/haiti-immigrant-mexico-tapachula"
-  ],
-  [
-    "love",
-    18,
-    "https://www.theguardian.com/books/2026/mar/08/vladimir-author-julia-may-jonas-were-imprisoned-by-our-obsessions"
+    "https://www.theguardian.com/us-news/2026/mar/08/republican-senator-thom-tillis-stephen-miller"
   ],
   [
     "questions",
-    17,
+    21,
     "https://www.nytimes.com/2026/03/08/opinion/ai-anthropic-claude-pentagon-hegseth-amodei.html"
   ],
   [
+    "killed",
+    21,
+    "https://www.washingtonpost.com/immigration/2026/03/07/ruben-martinez-dhs-killing-texas-video/"
+  ],
+  [
+    "israeli",
+    21,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "oil",
+    21,
+    "https://www.theguardian.com/world/live/2026/mar/08/middle-east-crisis-live-china-warns-world-cannot-return-to-law-of-the-jungle-trump-says-iran-being-decimated"
+  ],
+  [
+    "conflict",
+    21,
+    "https://www.theguardian.com/us-news/2026/mar/08/pete-hegseth-pentagon-trump-iran"
+  ],
+  [
+    "margaret",
+    21,
+    "https://www.cbsnews.com/news/olga-stefanishyna-ukraine-ambassador-to-the-us-face-the-nation-transcript-03-08-2026/"
+  ],
+  [
+    "brennan",
+    21,
+    "https://www.cbsnews.com/news/olga-stefanishyna-ukraine-ambassador-to-the-us-face-the-nation-transcript-03-08-2026/"
+  ],
+  [
+    "love",
+    20,
+    "https://www.theguardian.com/books/2026/mar/08/vladimir-author-julia-may-jonas-were-imprisoned-by-our-obsessions"
+  ],
+  [
+    "political",
+    19,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/08/political-depression-therapy-trump-era"
+  ],
+  [
     "food",
+    19,
+    "https://www.theguardian.com/world/2026/mar/08/dark-like-our-future-iranians-describe-scenes-of-catastrophe-after-tehrans-oil-depots-bombed"
+  ],
+  [
+    "sleep",
+    19,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/09/kindness-strangers-plane-grief-passenger-comfort"
+  ],
+  [
+    "security",
+    18,
+    "https://www.nytimes.com/2026/03/08/climate/bayer-white-phosphate-glyphosate-roundup-trump-executive-order-munition.html"
+  ],
+  [
+    "texas",
     17,
-    "https://www.theguardian.com/us-news/2026/mar/07/fda-food-product-safety-checks-substances"
+    "https://www.nytimes.com/2026/03/08/us/teen-mariachi-musicians-detained-ice-texas.html"
+  ],
+  [
+    "united",
+    17,
+    "https://www.nytimes.com/2026/03/08/us/politics/trump-elections-fulton-county-ballots.html"
+  ],
+  [
+    "police",
+    17,
+    "https://www.nytimes.com/2026/03/07/nyregion/gracie-mansion-protests.html"
+  ],
+  [
+    "health",
+    17,
+    "https://www.theguardian.com/environment/ng-interactive/2026/mar/08/white-abalone-breeding-program-california"
+  ],
+  [
+    "because",
+    17,
+    "https://www.theguardian.com/science/2026/mar/08/stormy-space-weather-messages-aliens"
   ],
   [
     "pok",
@@ -151,79 +186,159 @@
     "https://www.theguardian.com/games/2026/mar/05/pokemon-pokopia-review-collectible-creatures-create-their-own-perfect-world"
   ],
   [
-    "campaign",
+    "government",
     16,
-    "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html"
+    "https://www.nytimes.com/2026/03/07/us/politics/judge-kari-lake-voa-layoffs.html"
   ],
   [
-    "led",
-    16,
-    "https://www.nytimes.com/2026/03/07/nyregion/gracie-mansion-protests.html"
-  ],
-  [
-    "democrats",
+    "school",
     16,
     "https://www.washingtonpost.com/education/2026/03/04/trump-school-vouchers-democrats/"
   ],
   [
-    "region",
-    16,
-    "https://www.theguardian.com/world/ng-interactive/2026/mar/08/us-interference-middle-east-iraq-iran-conflict-legacy-lessons"
-  ],
-  [
-    "game",
-    16,
-    "https://www.theguardian.com/sport/2026/mar/07/jack-draper-begins-indian-wells-title-defence-with-victory-over-roberto-bautista-agut"
-  ],
-  [
-    "living",
-    15,
-    "https://www.nytimes.com/2026/03/08/nyregion/khalil-mahmoud-immigration-columbia.html"
-  ],
-  [
-    "race",
-    15,
-    "https://www.nytimes.com/2026/03/08/us/politics/massie-republicans-trump-iran-war-midterms.html"
-  ],
-  [
-    "video",
-    15,
-    "https://www.washingtonpost.com/immigration/2026/03/07/ruben-martinez-dhs-killing-texas-video/"
-  ],
-  [
-    "family",
-    15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/08/political-depression-therapy-trump-era"
-  ],
-  [
-    "ukraine",
-    15,
-    "https://www.theguardian.com/us-news/2026/mar/08/lev-parnas-ukraine-congress-florida"
-  ],
-  [
-    "health",
-    15,
-    "https://www.theguardian.com/us-news/2026/mar/08/nih-jay-bhattacharya-cdc"
-  ],
-  [
-    "security",
-    14,
-    "https://www.nytimes.com/2026/03/08/climate/bayer-white-phosphate-glyphosate-roundup-trump-executive-order-munition.html"
-  ],
-  [
-    "government",
-    14,
-    "https://www.nytimes.com/2026/03/07/us/politics/judge-kari-lake-voa-layoffs.html"
-  ],
-  [
     "democratic",
-    14,
+    16,
     "https://www.washingtonpost.com/education/2026/03/04/trump-school-vouchers-democrats/"
   ],
   [
     "chinese",
+    16,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "prices",
+    16,
+    "https://www.theguardian.com/world/2026/mar/08/us-energy-chief-spike-gas-prices"
+  ],
+  [
+    "children",
+    16,
+    "https://www.theguardian.com/technology/2026/mar/08/chatgpt-driving-rise-in-reports-of-satanic-organised-ritual-abuse-uk-experts-say"
+  ],
+  [
+    "administration",
+    15,
+    "https://www.nytimes.com/2026/03/07/us/politics/iran-nuclear-site-uranium-intel.html"
+  ],
+  [
+    "agency",
+    15,
+    "https://www.nytimes.com/2026/03/07/us/politics/judge-kari-lake-voa-layoffs.html"
+  ],
+  [
+    "led",
+    15,
+    "https://www.nytimes.com/2026/03/07/nyregion/gracie-mansion-protests.html"
+  ],
+  [
+    "everything",
+    15,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "chris",
+    15,
+    "https://www.theguardian.com/world/2026/mar/08/us-energy-chief-spike-gas-prices"
+  ],
+  [
+    "york",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/08/new-york-city-anti-islam-protest"
+  ],
+  [
+    "don",
+    15,
+    "https://www.theguardian.com/inequality/2026/mar/08/did-baby-boomers-eat-all-pies-john-lanchester-truth-generation-gap"
+  ],
+  [
+    "really",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/08/saturday-night-live-ryan-gosling-host"
+  ],
+  [
+    "party",
+    15,
+    "https://www.theguardian.com/technology/2026/mar/08/block-ai-layoffs-jack-dorsey"
+  ],
+  [
+    "game",
+    15,
+    "https://www.theguardian.com/sport/2026/mar/08/emperor-naruhito-watches-ohtani-and-japan-survive-scare-against-australia-at-world-baseball-classic"
+  ],
+  [
+    "living",
+    14,
+    "https://www.nytimes.com/2026/03/08/nyregion/khalil-mahmoud-immigration-columbia.html"
+  ],
+  [
+    "outside",
+    14,
+    "https://www.nytimes.com/2026/03/08/world/europe/explosion-us-embassy-oslo.html"
+  ],
+  [
+    "video",
+    14,
+    "https://www.washingtonpost.com/immigration/2026/03/07/ruben-martinez-dhs-killing-texas-video/"
+  ],
+  [
+    "dhs",
+    14,
+    "https://www.washingtonpost.com/investigations/2026/03/07/dhs-gop-ice-warehouses/"
+  ],
+  [
+    "crisis",
     14,
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "campaign",
+    14,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "series",
+    14,
+    "https://www.theguardian.com/books/2026/mar/08/vladimir-author-julia-may-jonas-were-imprisoned-by-our-obsessions"
+  ],
+  [
+    "leader",
+    14,
+    "https://www.theguardian.com/world/live/2026/mar/08/middle-east-crisis-live-china-warns-world-cannot-return-to-law-of-the-jungle-trump-says-iran-being-decimated"
+  ],
+  [
+    "hegseth",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/08/pete-hegseth-pentagon-trump-iran"
+  ],
+  [
+    "donald",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/08/pete-hegseth-pentagon-trump-iran"
+  ],
+  [
+    "wright",
+    14,
+    "https://www.theguardian.com/world/2026/mar/08/us-energy-chief-spike-gas-prices"
+  ],
+  [
+    "department",
+    14,
+    "https://www.theguardian.com/world/2026/mar/08/us-energy-chief-spike-gas-prices"
+  ],
+  [
+    "kristi",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/08/republican-senator-thom-tillis-stephen-miller"
+  ],
+  [
+    "ambassador",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/08/lev-parnas-ukraine-congress-florida"
+  ],
+  [
+    "media",
+    14,
+    "https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study"
   ],
   [
     "abuse",
@@ -231,24 +346,14 @@
     "https://www.theguardian.com/technology/2026/mar/08/chatgpt-driving-rise-in-reports-of-satanic-organised-ritual-abuse-uk-experts-say"
   ],
   [
-    "steve",
+    "place",
     14,
-    "https://www.theguardian.com/technology/2026/mar/08/billionaires-tech-oligarchs"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/09/kindness-strangers-plane-grief-passenger-comfort"
   ],
   [
-    "company",
+    "filter",
     14,
-    "https://www.theguardian.com/technology/2026/mar/08/block-ai-layoffs-jack-dorsey"
-  ],
-  [
-    "senate",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/06/kristi-noem-congress-investigation"
-  ],
-  [
-    "weekly",
-    14,
-    "https://www.theguardian.com/business/2026/mar/06/iran-war-pushes-oil-price-above-90-dollars-a-barrel"
+    "https://www.theguardian.com/thefilter-us/2026/mar/08/carolyn-bessette-kennedy-style-tips-90s-wardrobe"
   ],
   [
     "cooker",
@@ -261,118 +366,13 @@
     "https://www.nytimes.com/2026/03/07/us/politics/judge-kari-lake-voa-layoffs.html"
   ],
   [
-    "agency",
+    "states",
     13,
-    "https://www.nytimes.com/2026/03/07/us/politics/judge-kari-lake-voa-layoffs.html"
+    "https://www.nytimes.com/2026/03/08/us/politics/trump-elections-fulton-county-ballots.html"
   ],
   [
-    "near",
-    13,
-    "https://www.nytimes.com/2026/03/07/nyregion/gracie-mansion-protests.html"
-  ],
-  [
-    "crisis",
-    13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "everything",
+    "doing",
     13,
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "strike",
-    13,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
-  ],
-  [
-    "latest",
-    13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "outside",
-    13,
-    "https://www.theguardian.com/culture/2026/mar/08/jack-white-white-stripes-lyrics-selected-writing-book-interview"
-  ],
-  [
-    "york",
-    13,
-    "https://www.theguardian.com/us-news/2026/mar/08/trump-epa-rollbacks-vermont-new-york-climate-suits"
-  ],
-  [
-    "john",
-    13,
-    "https://www.theguardian.com/inequality/2026/mar/08/did-baby-boomers-eat-all-pies-john-lanchester-truth-generation-gap"
-  ],
-  [
-    "buying",
-    13,
-    "https://www.theguardian.com/business/2026/mar/07/trump-russia-sanctions-economy-us-india-putin-europe"
-  ],
-  [
-    "night",
-    13,
-    "https://www.theguardian.com/football/2026/mar/08/iran-women-asian-cup-the-phillipines-elimination-human-rights"
-  ],
-  [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/mar/06/best-ideas-for-supporting-bands-and-artists-you-love"
-  ],
-  [
-    "global",
-    12,
-    "https://www.nytimes.com/video/world/middleeast/100000010750140/how-the-war-in-iran-is-disrupting-the-worlds-oil.html"
-  ],
-  [
-    "states",
-    12,
-    "https://www.nytimes.com/video/world/middleeast/100000010750140/how-the-war-in-iran-is-disrupting-the-worlds-oil.html"
-  ],
-  [
-    "attacks",
-    12,
-    "https://www.nytimes.com/video/world/middleeast/100000010750140/how-the-war-in-iran-is-disrupting-the-worlds-oil.html"
-  ],
-  [
-    "school",
-    12,
-    "https://www.washingtonpost.com/education/2026/03/04/trump-school-vouchers-democrats/"
-  ],
-  [
-    "secretary",
-    12,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "southern",
-    12,
-    "https://www.theguardian.com/world/2026/mar/08/haiti-immigrant-mexico-tapachula"
-  ],
-  [
-    "novel",
-    12,
-    "https://www.theguardian.com/books/2026/mar/08/vladimir-author-julia-may-jonas-were-imprisoned-by-our-obsessions"
-  ],
-  [
-    "leader",
-    12,
-    "https://www.theguardian.com/world/live/2026/mar/08/middle-east-crisis-live-china-warns-world-cannot-return-to-law-of-the-jungle-trump-says-iran-being-decimated"
-  ],
-  [
-    "washington",
-    12,
-    "https://www.theguardian.com/us-news/2026/mar/08/pete-hegseth-pentagon-trump-iran"
-  ],
-  [
-    "prices",
-    12,
-    "https://www.theguardian.com/world/2026/mar/08/us-drivers-oil-prices-iran"
-  ],
-  [
-    "nearly",
-    12,
-    "https://www.theguardian.com/world/2026/mar/08/us-drivers-oil-prices-iran"
   ]
 ];
