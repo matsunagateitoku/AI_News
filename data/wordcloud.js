@@ -2,158 +2,153 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "iran",
-    118,
-    "https://www.nytimes.com/2026/03/07/world/middleeast/iran-president-pezeshkian-gulf-apology-war.html"
+    137,
+    "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html"
   ],
   [
     "trump",
-    116,
-    "https://www.nytimes.com/2026/03/07/us/politics/ice-arrests-slowdown.html"
+    127,
+    "https://www.nytimes.com/2026/03/07/us/politics/trump-dover-dignified-transfer-iran.html"
   ],
   [
     "war",
-    63,
-    "https://www.nytimes.com/2026/03/07/us/politics/economy-midterms-republicans.html"
+    82,
+    "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html"
   ],
   [
     "president",
-    56,
-    "https://www.nytimes.com/2026/03/07/world/middleeast/iran-president-pezeshkian-gulf-apology-war.html"
+    57,
+    "https://www.nytimes.com/2026/03/07/us/politics/trump-dover-dignified-transfer-iran.html"
   ],
   [
     "iranian",
-    38,
-    "https://www.nytimes.com/2026/03/07/world/middleeast/iran-president-pezeshkian-gulf-apology-war.html"
-  ],
-  [
-    "strikes",
-    36,
-    "https://www.nytimes.com/2026/03/07/world/middleeast/iran-president-pezeshkian-gulf-apology-war.html"
+    41,
+    "https://www.nytimes.com/2026/03/07/us/politics/trump-dover-dignified-transfer-iran.html"
   ],
   [
     "middle",
-    31,
+    38,
     "https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week"
   ],
   [
     "east",
-    30,
+    37,
     "https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week"
   ],
   [
+    "killed",
+    34,
+    "https://www.nytimes.com/2026/03/07/us/politics/trump-dover-dignified-transfer-iran.html"
+  ],
+  [
+    "military",
+    32,
+    "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html"
+  ],
+  [
     "israel",
-    28,
-    "https://www.nytimes.com/2026/03/07/opinion/trump-iran-nuclear-weapons-enriched-uranium-war.html"
+    32,
+    "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html"
+  ],
+  [
+    "strikes",
+    32,
+    "https://www.theguardian.com/world/2026/mar/07/us-veterans-iran-war-reaction"
   ],
   [
     "rice",
-    27,
-    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
+    30,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/07/moment-i-knew-shower-robe-handsome"
+  ],
+  [
+    "ukraine",
+    30,
+    "https://www.theguardian.com/world/2026/mar/08/ukraine-war-briefing-zelenskyy-offers-help-to-saudi-crown-prince-on-combatting-iranian-drones"
   ],
   [
     "american",
     26,
-    "https://www.nytimes.com/2026/03/07/business/gasoline-prices.html"
-  ],
-  [
-    "texas",
-    26,
-    "https://www.nytimes.com/2026/03/07/us/politics/how-talarico-won.html"
-  ],
-  [
-    "california",
-    26,
-    "https://www.theguardian.com/us-news/2026/mar/07/democratic-attorneys-general-trump"
-  ],
-  [
-    "love",
-    24,
-    "https://www.nytimes.com/2026/03/07/us/politics/how-talarico-won.html"
+    "https://www.nytimes.com/2026/03/07/world/americas/trump-latin-american-coalition-cartels.html"
   ],
   [
     "conflict",
-    24,
+    26,
     "https://www.theguardian.com/us-news/2026/mar/06/trump-administration-news-updates-today"
   ],
   [
-    "military",
+    "texas",
+    24,
+    "https://www.nytimes.com/2026/03/07/us/politics/how-talarico-won.html"
+  ],
+  [
+    "strike",
     23,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "donald",
-    23,
-    "https://www.theguardian.com/us-news/2026/mar/07/from-peace-president-to-operation-epic-fury-donald-trumps-road-to-war"
-  ],
-  [
-    "ukraine",
-    22,
-    "https://www.nytimes.com/2026/03/07/world/europe/russia-ukraine-kharkiv-zelensky-airstrike.html"
-  ],
-  [
-    "killed",
-    21,
-    "https://www.nytimes.com/video/world/middleeast/100000010750321/how-we-analyzed-the-strike-on-the-iranian-school.html"
-  ],
-  [
-    "administration",
-    21,
-    "https://www.nytimes.com/2026/03/07/us/politics/ice-arrests-slowdown.html"
-  ],
-  [
-    "oil",
-    20,
-    "https://www.nytimes.com/2026/03/07/business/gasoline-prices.html"
-  ],
-  [
-    "food",
-    20,
-    "https://www.theguardian.com/thefilter-us/2026/mar/07/field-company-no-5-chef-skillet-review"
+    "https://www.nytimes.com/2026/03/07/us/politics/trump-dover-dignified-transfer-iran.html"
   ],
   [
     "school",
-    19,
+    23,
     "https://www.nytimes.com/video/world/middleeast/100000010750321/how-we-analyzed-the-strike-on-the-iranian-school.html"
   ],
   [
-    "ice",
-    19,
-    "https://www.nytimes.com/2026/03/07/us/politics/ice-arrests-slowdown.html"
+    "oil",
+    23,
+    "https://www.theguardian.com/us-news/2026/mar/07/handyman-west-texas-escort-podcast"
   ],
   [
-    "book",
-    19,
-    "https://www.washingtonpost.com/obituaries/2026/03/07/paula-doress-worters-our-bodies-ourselves/"
+    "donald",
+    22,
+    "https://www.theguardian.com/us-news/2026/mar/07/from-peace-president-to-operation-epic-fury-donald-trumps-road-to-war"
   ],
   [
-    "latest",
+    "members",
     19,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.nytimes.com/2026/03/07/us/politics/trump-dover-dignified-transfer-iran.html"
   ],
   [
-    "sleep",
+    "campaign",
     19,
-    "https://www.theguardian.com/thefilter-us/2025/oct/02/best-sleep-eye-masks-us"
+    "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html"
   ],
   [
-    "game",
+    "love",
+    19,
+    "https://www.nytimes.com/2026/03/07/us/politics/how-talarico-won.html"
+  ],
+  [
+    "israeli",
+    19,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "service",
     18,
-    "https://www.theguardian.com/football/live/2026/mar/07/wrexham-v-chelsea-fa-cup-fifth-round-live"
+    "https://www.nytimes.com/2026/03/07/us/politics/trump-dover-dignified-transfer-iran.html"
   ],
   [
-    "died",
+    "air",
     18,
-    "https://www.theguardian.com/us-news/2026/mar/06/detainee-died-ice-custody-california"
+    "https://www.nytimes.com/2026/03/07/us/politics/trump-dover-dignified-transfer-iran.html"
   ],
   [
-    "night",
+    "team",
     18,
-    "https://www.theguardian.com/music/2026/mar/05/britney-spears-arrested-dui"
-  ],
-  [
-    "least",
-    17,
     "https://www.nytimes.com/video/world/middleeast/100000010750321/how-we-analyzed-the-strike-on-the-iranian-school.html"
+  ],
+  [
+    "because",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/07/louis-theroux-interview-inside-the-manosphere-2026-documentary"
+  ],
+  [
+    "children",
+    18,
+    "https://www.theguardian.com/film/2026/mar/07/pink-pill-female-viagra-documentary"
+  ],
+  [
+    "california",
+    18,
+    "https://www.theguardian.com/us-news/2026/mar/07/democratic-attorneys-general-trump"
   ],
   [
     "democrats",
@@ -161,24 +156,29 @@
     "https://www.nytimes.com/2026/03/07/us/politics/how-talarico-won.html"
   ],
   [
-    "israeli",
-    17,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "company",
+    "food",
     17,
     "https://www.theguardian.com/thefilter-us/2026/mar/07/field-company-no-5-chef-skillet-review"
   ],
   [
-    "family",
+    "region",
     17,
-    "https://www.theguardian.com/books/2026/mar/07/paul-kutchinsky-egg-obsession-destroy-marriage-family-fortune"
+    "https://www.theguardian.com/us-news/2026/mar/07/handyman-west-texas-escort-podcast"
+  ],
+  [
+    "place",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/mar/06/moltbook-risk-ai-agents-artificial-life"
+  ],
+  [
+    "game",
+    17,
+    "https://www.theguardian.com/football/2026/mar/07/wrexham-chelsea-fa-cup-match-report"
   ],
   [
     "americans",
     17,
-    "https://www.theguardian.com/us-news/2026/mar/06/michigan-tornado-union-city"
+    "https://www.theguardian.com/sport/2026/mar/07/oksana-masters-kendall-gretsch-us-one-two-paralympic-biathlon-sprint"
   ],
   [
     "pok",
@@ -191,14 +191,19 @@
     "https://www.theguardian.com/games/2026/mar/05/pokemon-pokopia-review-collectible-creatures-create-their-own-perfect-world"
   ],
   [
-    "attacks",
+    "book",
     16,
-    "https://www.nytimes.com/2026/03/07/world/middleeast/iran-president-pezeshkian-gulf-apology-war.html"
+    "https://www.washingtonpost.com/obituaries/2026/03/07/paula-doress-worters-our-bodies-ourselves/"
   ],
   [
-    "team",
+    "fire",
     16,
-    "https://www.nytimes.com/video/world/middleeast/100000010750321/how-we-analyzed-the-strike-on-the-iranian-school.html"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "night",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/07/moment-i-knew-shower-robe-handsome"
   ],
   [
     "john",
@@ -206,29 +211,19 @@
     "https://www.theguardian.com/us-news/2026/mar/07/from-peace-president-to-operation-epic-fury-donald-trumps-road-to-war"
   ],
   [
-    "review",
+    "police",
     16,
-    "https://www.theguardian.com/us-news/2026/mar/07/fda-food-product-safety-checks-substances"
+    "https://www.theguardian.com/world/2026/mar/08/ukraine-war-briefing-zelenskyy-offers-help-to-saudi-crown-prince-on-combatting-iranian-drones"
   ],
   [
-    "cbs",
+    "sleep",
     16,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-03-04/gayle-king-signs-new-deal-with-cbs-news"
+    "https://www.theguardian.com/thefilter-us/2025/oct/02/best-sleep-eye-masks-us"
   ],
   [
-    "leaders",
+    "political",
     15,
-    "https://www.nytimes.com/2026/03/07/world/middleeast/iran-president-pezeshkian-gulf-apology-war.html"
-  ],
-  [
-    "campaign",
-    15,
-    "https://www.nytimes.com/2026/03/07/us/politics/how-talarico-won.html"
-  ],
-  [
-    "hard",
-    15,
-    "https://www.nytimes.com/2026/03/06/us/politics/texas-democrats-brandon-herrera-youtube.html"
+    "https://www.nytimes.com/2026/03/07/nyregion/rent-ripoff-hearing-mamdani.html"
   ],
   [
     "chinese",
@@ -236,74 +231,69 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "don",
+    "attack",
     15,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/07/louis-theroux-interview-inside-the-manosphere-2026-documentary"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "because",
+    "everything",
     15,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/07/louis-theroux-interview-inside-the-manosphere-2026-documentary"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "region",
+    "minister",
     15,
-    "https://www.theguardian.com/uk-news/2026/mar/07/uk-preparing-aircraft-carrier-for-possible-middle-east-deployment"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "court",
+    "review",
     15,
-    "https://www.theguardian.com/us-news/2026/mar/07/water-polo-abuse-california-school"
+    "https://www.theguardian.com/us-news/2026/mar/07/fda-food-product-safety-checks-substances"
   ],
   [
     "rise",
     15,
-    "https://www.theguardian.com/news/2026/mar/07/six-great-reads-how-to-pay-rise-catherine-opie-queer-america-influencers-saving-pubs"
+    "https://www.theguardian.com/world/2026/mar/08/ukraine-war-briefing-zelenskyy-offers-help-to-saudi-crown-prince-on-combatting-iranian-drones"
   ],
   [
-    "strike",
+    "living",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/06/children-care-relatives-family-us"
+  ],
+  [
+    "least",
     14,
     "https://www.nytimes.com/video/world/middleeast/100000010750321/how-we-analyzed-the-strike-on-the-iranian-school.html"
   ],
   [
-    "noem",
+    "health",
     14,
-    "https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html"
+    "https://www.nytimes.com/video/world/middleeast/100000010750321/how-we-analyzed-the-strike-on-the-iranian-school.html"
   ],
   [
-    "center",
+    "ice",
     14,
-    "https://www.nytimes.com/2026/03/07/us/politics/how-talarico-won.html"
+    "https://www.washingtonpost.com/investigations/2026/03/07/dhs-gop-ice-warehouses/"
   ],
   [
-    "attack",
+    "attacks",
     14,
-    "https://www.nytimes.com/2026/03/07/world/europe/russia-ukraine-kharkiv-zelensky-airstrike.html"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "democratic",
+    "outside",
     14,
-    "https://www.washingtonpost.com/education/2026/03/04/trump-school-vouchers-democrats/"
+    "https://www.theguardian.com/tv-and-radio/2026/mar/07/louis-theroux-interview-inside-the-manosphere-2026-documentary"
   ],
   [
-    "air",
+    "family",
     14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/books/2026/mar/07/paul-kutchinsky-egg-obsession-destroy-marriage-family-fortune"
   ],
   [
-    "everything",
+    "drones",
     14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "living",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/06/children-care-relatives-family-us"
-  ],
-  [
-    "place",
-    14,
-    "https://www.theguardian.com/sport/2026/mar/07/alysa-liu-withdraws-world-figure-skating-championships-prague"
+    "https://www.theguardian.com/world/2026/mar/08/ukraine-war-briefing-zelenskyy-offers-help-to-saudi-crown-prince-on-combatting-iranian-drones"
   ],
   [
     "film",
@@ -316,39 +306,19 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "health",
-    13,
-    "https://www.nytimes.com/video/world/middleeast/100000010750321/how-we-analyzed-the-strike-on-the-iranian-school.html"
-  ],
-  [
-    "political",
-    13,
-    "https://www.nytimes.com/2026/03/07/world/americas/bolivia-us-relations-trump-paz.html"
-  ],
-  [
     "past",
     13,
-    "https://www.nytimes.com/2026/03/07/world/americas/bolivia-us-relations-trump-paz.html"
+    "https://www.nytimes.com/2026/03/07/dining/rene-redzepi-noma-abuse-allegations.html"
   ],
   [
-    "republican",
+    "led",
+    13,
+    "https://www.nytimes.com/2026/03/07/nyregion/gracie-mansion-protests.html"
+  ],
+  [
+    "dhs",
     13,
     "https://www.washingtonpost.com/investigations/2026/03/07/dhs-gop-ice-warehouses/"
-  ],
-  [
-    "parents",
-    13,
-    "https://www.washingtonpost.com/nation/2026/03/06/iran-relatives-fear-safety-war/"
-  ],
-  [
-    "accused",
-    13,
-    "https://www.washingtonpost.com/nation/2026/03/03/colin-gray-father-trial-verdict-school-shooting/"
-  ],
-  [
-    "medical",
-    13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
     "secretary",
@@ -356,23 +326,53 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
+    "buying",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/mar/06/best-ideas-for-supporting-bands-and-artists-you-love"
+  ],
+  [
+    "filter",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/mar/06/best-ideas-for-supporting-bands-and-artists-you-love"
+  ],
+  [
     "weekly",
     13,
     "https://www.theguardian.com/thefilter-us/2026/mar/07/field-company-no-5-chef-skillet-review"
   ],
   [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/mar/07/field-company-no-5-chef-skillet-review"
-  ],
-  [
-    "buying",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/mar/07/field-company-no-5-chef-skillet-review"
-  ],
-  [
-    "children",
+    "video",
     13,
     "https://www.theguardian.com/film/2026/mar/07/pink-pill-female-viagra-documentary"
+  ],
+  [
+    "security",
+    13,
+    "https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week"
+  ],
+  [
+    "prime",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/07/trump-starmer-iran-criticism"
+  ],
+  [
+    "administration",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/07/democratic-attorneys-general-trump"
+  ],
+  [
+    "russian",
+    13,
+    "https://www.theguardian.com/world/2026/mar/08/ukraine-war-briefing-zelenskyy-offers-help-to-saudi-crown-prince-on-combatting-iranian-drones"
+  ],
+  [
+    "noem",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/mar/07/kristi-noem-pam-bondi-iran-yanar-mohammed-epstein"
+  ],
+  [
+    "cup",
+    13,
+    "https://www.theguardian.com/football/2026/mar/07/wrexham-chelsea-fa-cup-match-report"
   ]
 ];
