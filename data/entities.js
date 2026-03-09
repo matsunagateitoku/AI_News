@@ -3,14 +3,14 @@
   "GPE": [
     {
       "name": "Iran",
-      "count": 136,
+      "count": 139,
       "url": "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html",
       "source": "NY Times"
     },
     {
       "name": "Us",
-      "count": 70,
-      "url": "https://www.theguardian.com/global/commentisfree/2026/mar/08/trump-democracy-oligarchy-policy",
+      "count": 64,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/09/us-israel-war-iran-gulf-monarchies",
       "source": "The Guardian"
     },
     {
@@ -21,14 +21,20 @@
     },
     {
       "name": "Israel",
-      "count": 22,
+      "count": 26,
       "url": "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html",
       "source": "NY Times"
     },
     {
-      "name": "Ukraine",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/mar/08/lev-parnas-ukraine-congress-florida",
+      "name": "Australia",
+      "count": 15,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/09/a-new-start-after-60-career-palaeontologist",
+      "source": "The Guardian"
+    },
+    {
+      "name": "London",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/mar/09/lucia-osborne-crowley-tenacious-traumatic-fight-expose-ghislaine-maxwell-jeffrey-epstein",
       "source": "The Guardian"
     },
     {
@@ -38,48 +44,36 @@
       "source": "Washington Post"
     },
     {
-      "name": "California",
-      "count": 12,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/09/kindness-strangers-plane-grief-passenger-comfort",
-      "source": "The Guardian"
-    },
-    {
       "name": "New York City",
       "count": 12,
       "url": "https://www.cbsnews.com/news/gracie-mansion-protest-smoke-grenades/",
       "source": "CBS News"
     },
     {
-      "name": "Uk",
-      "count": 10,
-      "url": "https://www.theguardian.com/politics/2026/mar/08/starmer-speaks-with-trump-after-president-criticises-lack-of-uk-support-for-iran-strikes",
+      "name": "California",
+      "count": 11,
+      "url": "https://www.theguardian.com/music/2026/mar/09/country-joe-mcdonald-woodstock-star-and-anti-war-singer-dies-aged-84",
       "source": "The Guardian"
     },
     {
-      "name": "Russia",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/mar/09/ukraine-war-briefing-drone-experts-will-be-in-middle-east-in-coming-days-says-zelenskyy",
+      "name": "Beverly Hills",
+      "count": 9,
+      "url": "https://www.theguardian.com/culture/2026/mar/09/rihanna-house-shots-fired-beverly-hills-woman",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "World Cup    Likely",
+      "name": "The Iran War",
       "count": 5,
-      "url": "https://www.theguardian.com/football/2026/mar/08/sergino-dest-usmnt-injury-psv",
+      "url": "https://www.theguardian.com/business/2026/mar/09/iran-war-oil-prices-stagflation-global-economy",
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
-      "count": 5,
-      "url": "https://www.latimes.com/politics/story/2026-03-08/what-is-trumps-true-objective-in-iran-war-u-s-targets-provide-clue",
-      "source": "LA Times"
-    },
-    {
-      "name": "Operation Epic Fury",
-      "count": 3,
-      "url": "https://www.foxnews.com/politics/trump-warns-irans-new-leader-wont-last-long-without-his-approval",
-      "source": "Fox News"
+      "name": "World Cup    Likely",
+      "count": 4,
+      "url": "https://www.theguardian.com/football/2026/mar/08/sergino-dest-usmnt-injury-psv",
+      "source": "The Guardian"
     },
     {
       "name": "The Writers Guild Awards",
@@ -88,16 +82,16 @@
       "source": "LA Times"
     },
     {
+      "name": "Operation Epic Fury",
+      "count": 2,
+      "url": "https://www.nbcnews.com/video/shorts/u-s-service-members-killed-in-operation-epic-fury-named-258678853689",
+      "source": "NBC News"
+    },
+    {
       "name": "The Sports World",
       "count": 1,
       "url": "https://www.nytimes.com/2026/03/08/business/nike-ceo-elliott-hill.html",
       "source": "NY Times"
-    },
-    {
-      "name": "The Vietnam War",
-      "count": 1,
-      "url": "https://www.theguardian.com/music/2026/mar/09/country-joe-mcdonald-woodstock-star-and-anti-war-singer-dies-aged-84",
-      "source": "The Guardian"
     },
     {
       "name": "Gulf War",
@@ -122,20 +116,20 @@
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/mar/07/alysa-liu-withdraws-world-figure-skating-championships-prague",
       "source": "The Guardian"
+    },
+    {
+      "name": "The Vietnam War",
+      "count": 1,
+      "url": "https://www.theguardian.com/music/2026/mar/09/country-joe-mcdonald-woodstock-star-and-anti-war-singer-dies-aged-84",
+      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Allies Clash With",
-      "count": 54,
-      "url": "https://www.nytimes.com/2026/03/08/us/politics/massie-republicans-trump-iran-war-midterms.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Pentagon Ai",
-      "count": 17,
-      "url": "https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military",
-      "source": "NPR"
+      "name": "Trump Fires Department Of Homeland Security",
+      "count": 53,
+      "url": "https://www.foxnews.com/media/why-kristi-noems-firing-took-long-wrecked-dhs-damaged-donald-trump",
+      "source": "Fox News"
     },
     {
       "name": "Supreme Leader",
@@ -145,7 +139,7 @@
     },
     {
       "name": "The White House",
-      "count": 15,
+      "count": 14,
       "url": "https://www.theguardian.com/global/commentisfree/2026/mar/08/trump-democracy-oligarchy-policy",
       "source": "The Guardian"
     },
@@ -156,6 +150,12 @@
       "source": "The Guardian"
     },
     {
+      "name": "Pentagon Ai",
+      "count": 12,
+      "url": "https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military",
+      "source": "NPR"
+    },
+    {
       "name": "Pokémon Firered",
       "count": 11,
       "url": "https://www.theguardian.com/games/2026/mar/04/have-we-reached-peak-pokemon",
@@ -163,58 +163,58 @@
     },
     {
       "name": "Texas Senate",
-      "count": 10,
+      "count": 9,
       "url": "https://www.politico.com/news/2026/03/04/james-talarico-wins-texas-senate-primary-00811090",
       "source": "Politico"
     },
     {
       "name": "Dhs",
-      "count": 9,
+      "count": 8,
       "url": "https://www.washingtonpost.com/investigations/2026/03/07/dhs-gop-ice-warehouses/",
       "source": "Washington Post"
     },
     {
-      "name": "Congress",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/mar/08/lev-parnas-ukraine-congress-florida",
-      "source": "The Guardian"
+      "name": "U.S. Central Command",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/03/08/world/middleeast/american-soldier-killed-iran-war.html",
+      "source": "NY Times"
     },
     {
-      "name": "Kristi Noem",
-      "count": 7,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/08/saturday-night-live-ryan-gosling-host",
+      "name": "Guardian News",
+      "count": 6,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 35,
-      "url": "https://www.theguardian.com/global/commentisfree/2026/mar/08/trump-democracy-oligarchy-policy",
+      "count": 32,
+      "url": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
       "source": "The Guardian"
     },
     {
       "name": "Pete Hegseth",
-      "count": 17,
+      "count": 15,
       "url": "https://www.theguardian.com/tv-and-radio/2026/mar/08/saturday-night-live-ryan-gosling-host",
       "source": "The Guardian"
     },
     {
       "name": "Mojtaba Khamenei",
-      "count": 12,
+      "count": 10,
       "url": "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Rihanna",
+      "count": 7,
+      "url": "https://www.theguardian.com/culture/2026/mar/09/rihanna-house-shots-fired-beverly-hills-woman",
+      "source": "The Guardian"
     },
     {
       "name": "William Shakespeare",
       "count": 7,
       "url": "https://www.theguardian.com/film/2026/mar/06/hamnet-oscars-jessie-buckley-paul-mescal-chloe-zhao",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Carolyn Bessette Kennedy",
-      "count": 6,
-      "url": "https://www.theguardian.com/thefilter-us/2026/mar/08/carolyn-bessette-kennedy-style-tips-90s-wardrobe",
       "source": "The Guardian"
     },
     {
@@ -224,10 +224,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Rihanna",
+      "name": "Carolyn Bessette Kennedy",
       "count": 6,
-      "url": "https://www.latimes.com/california/story/2026-03-08/rihanna-beverly-hills-mansion-is-struck-by-gunfire-source-says",
-      "source": "LA Times"
+      "url": "https://www.theguardian.com/thefilter-us/2026/mar/08/carolyn-bessette-kennedy-style-tips-90s-wardrobe",
+      "source": "The Guardian"
     },
     {
       "name": "Ken Paxton",
@@ -248,5 +248,5 @@
       "source": "Wall St. Journal"
     }
   ],
-  "updated": "2026-03-09T03:36:56Z"
+  "updated": "2026-03-09T07:52:47Z"
 };

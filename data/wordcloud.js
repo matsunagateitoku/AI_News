@@ -2,18 +2,18 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "iran",
-    139,
+    140,
     "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html"
   ],
   [
     "trump",
-    95,
+    90,
     "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html"
   ],
   [
     "war",
-    83,
-    "https://www.nytimes.com/2026/03/08/us/politics/massie-republicans-trump-iran-war-midterms.html"
+    74,
+    "https://www.nytimes.com/2026/03/08/world/middleeast/american-soldier-killed-iran-war.html"
   ],
   [
     "president",
@@ -21,89 +21,84 @@
     "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html"
   ],
   [
-    "leader",
-    36,
-    "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html"
-  ],
-  [
     "iranian",
     32,
     "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html"
   ],
   [
-    "middle",
-    30,
-    "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar"
-  ],
-  [
-    "east",
-    30,
-    "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar"
-  ],
-  [
-    "rice",
-    29,
-    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
-  ],
-  [
-    "killed",
-    26,
-    "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html"
-  ],
-  [
-    "israel",
-    25,
+    "leader",
+    31,
     "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html"
   ],
   [
-    "military",
-    25,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "israel",
+    30,
+    "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html"
   ],
   [
-    "strikes",
-    24,
-    "https://www.theguardian.com/world/2026/mar/08/dark-like-our-future-iranians-describe-scenes-of-catastrophe-after-tehrans-oil-depots-bombed"
+    "killed",
+    28,
+    "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html"
   ],
   [
-    "israeli",
-    23,
-    "https://www.nytimes.com/2026/03/08/opinion/israel-citizen-palestinian-war.html"
+    "east",
+    28,
+    "https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html"
+  ],
+  [
+    "middle",
+    27,
+    "https://www.theguardian.com/commentisfree/2026/mar/09/us-israel-war-iran-gulf-monarchies"
+  ],
+  [
+    "rice",
+    26,
+    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
     "american",
-    22,
+    25,
     "https://www.washingtonpost.com/lifestyle/interactive/2026/american-roadtrip-french-grandmother-arnaud-montagard/"
   ],
   [
     "oil",
+    24,
+    "https://www.theguardian.com/commentisfree/2026/mar/09/us-israel-war-iran-gulf-monarchies"
+  ],
+  [
+    "military",
+    23,
+    "https://www.nytimes.com/2026/03/08/world/middleeast/american-soldier-killed-iran-war.html"
+  ],
+  [
+    "country",
+    23,
+    "https://www.nytimes.com/2026/03/08/arts/music/country-joe-mcdonald-dead.html"
+  ],
+  [
+    "book",
     22,
-    "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar"
+    "https://www.washingtonpost.com/obituaries/2026/03/07/paula-doress-worters-our-bodies-ourselves/"
+  ],
+  [
+    "israeli",
+    22,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
     "conflict",
     22,
-    "https://www.theguardian.com/us-news/2026/mar/08/pete-hegseth-pentagon-trump-iran"
+    "https://www.theguardian.com/business/2026/mar/09/iran-war-oil-prices-stagflation-global-economy"
   ],
   [
-    "khamenei",
-    21,
-    "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html"
+    "strikes",
+    22,
+    "https://www.theguardian.com/world/2026/mar/08/dark-like-our-future-iranians-describe-scenes-of-catastrophe-after-tehrans-oil-depots-bombed"
   ],
   [
-    "book",
-    21,
-    "https://www.washingtonpost.com/obituaries/2026/03/07/paula-doress-worters-our-bodies-ourselves/"
-  ],
-  [
-    "supreme",
+    "video",
     20,
-    "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html"
-  ],
-  [
-    "country",
-    20,
-    "https://www.nytimes.com/2026/03/08/arts/met-opera-peter-gelb-finances.html"
+    "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html"
   ],
   [
     "prices",
@@ -111,69 +106,69 @@
     "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar"
   ],
   [
-    "game",
+    "strike",
     19,
-    "https://www.theguardian.com/sport/2026/mar/08/emperor-naruhito-watches-ohtani-and-japan-survive-scare-against-australia-at-world-baseball-classic"
-  ],
-  [
-    "video",
-    18,
     "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html"
   ],
   [
-    "texas",
-    18,
-    "https://www.washingtonpost.com/immigration/2026/03/07/ruben-martinez-dhs-killing-texas-video/"
-  ],
-  [
-    "secretary",
-    18,
+    "team",
+    19,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "because",
+    "khamenei",
     18,
-    "https://www.theguardian.com/global/commentisfree/2026/mar/08/trump-democracy-oligarchy-policy"
+    "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html"
   ],
   [
-    "hegseth",
+    "sleep",
     18,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/08/saturday-night-live-ryan-gosling-host"
+    "https://www.nytimes.com/2026/03/09/world/canada/mississauga-toronto-ridgeway-immigration.html"
   ],
   [
     "food",
     18,
-    "https://www.theguardian.com/world/2026/mar/08/dark-like-our-future-iranians-describe-scenes-of-catastrophe-after-tehrans-oil-depots-bombed"
+    "https://www.nytimes.com/2026/03/09/world/canada/mississauga-toronto-ridgeway-immigration.html"
   ],
   [
-    "police",
+    "political",
     18,
-    "https://www.theguardian.com/us-news/2026/mar/08/new-york-city-anti-islam-protest"
+    "https://www.nytimes.com/2026/03/09/world/middleeast/turkey-erdogan-mayor-ekrem-imamoglu.html"
   ],
   [
-    "strike",
+    "game",
+    18,
+    "https://www.theguardian.com/sport/2026/mar/08/emperor-naruhito-watches-ohtani-and-japan-survive-scare-against-australia-at-world-baseball-classic"
+  ],
+  [
+    "school",
     17,
     "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html"
   ],
   [
-    "member",
+    "supreme",
     17,
-    "https://www.nytimes.com/2026/03/08/us/politics/todd-inman-fired-national-transportation-safety-board.html"
+    "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html"
   ],
   [
-    "team",
+    "service",
     17,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/03/08/world/middleeast/american-soldier-killed-iran-war.html"
   ],
   [
-    "love",
+    "questions",
     17,
-    "https://www.theguardian.com/thefilter-us/2026/mar/08/carolyn-bessette-kennedy-style-tips-90s-wardrobe"
+    "https://www.nytimes.com/2026/03/08/opinion/ai-anthropic-claude-pentagon-hegseth-amodei.html"
   ],
   [
-    "sleep",
+    "texas",
     17,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/09/kindness-strangers-plane-grief-passenger-comfort"
+    "https://www.washingtonpost.com/immigration/2026/03/07/ruben-martinez-dhs-killing-texas-video/"
+  ],
+  [
+    "black",
+    17,
+    "https://www.theguardian.com/world/2026/mar/08/dark-like-our-future-iranians-describe-scenes-of-catastrophe-after-tehrans-oil-depots-bombed"
   ],
   [
     "pok",
@@ -191,29 +186,54 @@
     "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html"
   ],
   [
+    "member",
+    16,
+    "https://www.nytimes.com/2026/03/08/world/middleeast/american-soldier-killed-iran-war.html"
+  ],
+  [
+    "attack",
+    16,
+    "https://www.nytimes.com/2026/03/08/world/middleeast/american-soldier-killed-iran-war.html"
+  ],
+  [
+    "york",
+    16,
+    "https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html"
+  ],
+  [
+    "near",
+    16,
+    "https://www.nytimes.com/2026/03/08/nyregion/gracie-mansion-bomb-investigation.html"
+  ],
+  [
     "win",
     16,
     "https://www.nytimes.com/2026/03/08/business/nike-ceo-elliott-hill.html"
   ],
   [
-    "questions",
+    "sea",
     16,
-    "https://www.washingtonpost.com/nation/2026/03/08/religion-online-influencers-young-people/"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "really",
+    "global",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/08/saturday-night-live-ryan-gosling-host"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "rise",
+    "australia",
     16,
-    "https://www.theguardian.com/environment/2026/mar/06/humanity-heating-planet-faster-than-ever-before-study-finds"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/09/a-new-start-after-60-career-palaeontologist"
   ],
   [
-    "service",
+    "don",
     16,
-    "https://www.theguardian.com/uk-news/2026/mar/06/avalanche-forecasters-scotland-photo-essay"
+    "https://www.theguardian.com/fashion/2026/mar/09/inside-the-hair-transplant-capital-of-the-world-istanbul"
+  ],
+  [
+    "love",
+    16,
+    "https://www.theguardian.com/books/2026/mar/08/vladimir-author-julia-may-jonas-were-imprisoned-by-our-obsessions"
   ],
   [
     "crisis",
@@ -221,74 +241,49 @@
     "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html"
   ],
   [
-    "attack",
+    "drug",
     15,
-    "https://www.nytimes.com/2026/03/08/us/politics/boat-strike-eastern-pacific-six-killed.html"
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "campaign",
+    "london",
     15,
-    "https://www.nytimes.com/2026/03/08/us/politics/boat-strike-eastern-pacific-six-killed.html"
-  ],
-  [
-    "government",
-    15,
-    "https://www.nytimes.com/2026/03/08/arts/met-opera-peter-gelb-finances.html"
-  ],
-  [
-    "donald",
-    15,
-    "https://www.theguardian.com/global/commentisfree/2026/mar/08/trump-democracy-oligarchy-policy"
-  ],
-  [
-    "don",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/08/saturday-night-live-ryan-gosling-host"
-  ],
-  [
-    "outside",
-    15,
-    "https://www.theguardian.com/us-news/2026/mar/08/new-york-city-anti-islam-protest"
-  ],
-  [
-    "york",
-    15,
-    "https://www.theguardian.com/us-news/2026/mar/08/new-york-city-anti-islam-protest"
+    "https://www.theguardian.com/us-news/2026/mar/09/lucia-osborne-crowley-tenacious-traumatic-fight-expose-ghislaine-maxwell-jeffrey-epstein"
   ],
   [
     "died",
     15,
-    "https://www.theguardian.com/music/2026/mar/09/country-joe-mcdonald-woodstock-star-and-anti-war-singer-dies-aged-84"
+    "https://www.theguardian.com/world/2026/mar/08/israeli-settlers-idf-soldiers-kill-palestinians-west-bank"
   ],
   [
-    "democrats",
+    "police",
     15,
-    "https://www.theguardian.com/commentisfree/2026/mar/07/kristi-noem-pam-bondi-iran-yanar-mohammed-epstein"
+    "https://www.theguardian.com/us-news/2026/mar/08/new-york-city-anti-islam-protest"
   ],
   [
-    "school",
-    14,
-    "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html"
+    "series",
+    15,
+    "https://www.theguardian.com/books/2026/mar/08/vladimir-author-julia-may-jonas-were-imprisoned-by-our-obsessions"
   ],
   [
-    "mojtaba",
+    "hegseth",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/08/saturday-night-live-ryan-gosling-host"
+  ],
+  [
+    "united",
     14,
     "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html"
   ],
   [
-    "security",
+    "death",
     14,
-    "https://www.nytimes.com/2026/03/08/climate/bayer-white-phosphate-glyphosate-roundup-trump-executive-order-munition.html"
+    "https://www.nytimes.com/2026/03/08/world/middleeast/american-soldier-killed-iran-war.html"
   ],
   [
-    "company",
+    "administration",
     14,
-    "https://www.nytimes.com/2026/03/08/business/nike-ceo-elliott-hill.html"
-  ],
-  [
-    "near",
-    14,
-    "https://www.nytimes.com/2026/03/08/nyregion/gracie-mansion-bomb-investigation.html"
+    "https://www.nytimes.com/2026/03/09/opinion/iran-war-evacuation-trump.html"
   ],
   [
     "chinese",
@@ -296,59 +291,24 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "soldiers",
+    "because",
     14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/world/2026/mar/09/kasasa-island-japan-china-tension"
   ],
   [
-    "minister",
+    "outside",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/us-news/2026/mar/08/new-york-city-anti-islam-protest"
   ],
   [
-    "political",
+    "really",
     14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/08/political-depression-therapy-trump-era"
-  ],
-  [
-    "democratic",
-    14,
-    "https://www.theguardian.com/global/commentisfree/2026/mar/08/trump-democracy-oligarchy-policy"
+    "https://www.theguardian.com/tv-and-radio/2026/mar/08/saturday-night-live-ryan-gosling-host"
   ],
   [
     "filter",
     14,
     "https://www.theguardian.com/thefilter-us/2026/mar/08/carolyn-bessette-kennedy-style-tips-90s-wardrobe"
-  ],
-  [
-    "fewer",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/mar/08/carolyn-bessette-kennedy-style-tips-90s-wardrobe"
-  ],
-  [
-    "night",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/08/saturday-night-live-ryan-gosling-host"
-  ],
-  [
-    "california",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/09/kindness-strangers-plane-grief-passenger-comfort"
-  ],
-  [
-    "health",
-    14,
-    "https://www.theguardian.com/environment/ng-interactive/2026/mar/08/white-abalone-breeding-program-california"
-  ],
-  [
-    "ukraine",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/08/lev-parnas-ukraine-congress-florida"
-  ],
-  [
-    "media",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/08/kari-lake-us-media-agency-voice-of-america"
   ],
   [
     "cooker",
@@ -361,18 +321,58 @@
     "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html"
   ],
   [
-    "united",
-    13,
-    "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html"
-  ],
-  [
-    "death",
+    "campaign",
     13,
     "https://www.nytimes.com/2026/03/08/us/politics/boat-strike-eastern-pacific-six-killed.html"
   ],
   [
-    "investigation",
+    "company",
     13,
-    "https://www.nytimes.com/2026/03/08/us/politics/todd-inman-fired-national-transportation-safety-board.html"
+    "https://www.nytimes.com/2026/03/08/business/nike-ceo-elliott-hill.html"
+  ],
+  [
+    "latest",
+    13,
+    "https://www.washingtonpost.com/investigations/2026/03/08/iran-school-strike-video-tomahawk/"
+  ],
+  [
+    "government",
+    13,
+    "https://www.washingtonpost.com/immigration/2026/03/07/ruben-martinez-dhs-killing-texas-video/"
+  ],
+  [
+    "soldiers",
+    13,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "past",
+    13,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "minister",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "gas",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/mar/09/us-israel-war-iran-gulf-monarchies"
+  ],
+  [
+    "donald",
+    13,
+    "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar"
+  ],
+  [
+    "rise",
+    13,
+    "https://www.theguardian.com/business/2026/mar/09/iran-war-oil-prices-stagflation-global-economy"
+  ],
+  [
+    "media",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/08/kari-lake-us-media-agency-voice-of-america"
   ]
 ];
