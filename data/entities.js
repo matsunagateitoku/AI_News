@@ -3,8 +3,8 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 28,
-      "url": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
+      "count": 31,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/10/us-israel-war-iranian-people",
       "source": "The Guardian"
     },
     {
@@ -24,18 +24,6 @@
       "count": 7,
       "url": "https://www.politico.com/news/2026/03/09/trump-is-delaying-texas-senate-endorsement-to-pressure-gop-senators-on-save-america-act-00819991",
       "source": "Politico"
-    },
-    {
-      "name": "Jeffrey Epstein",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/mar/09/lucia-osborne-crowley-tenacious-traumatic-fight-expose-ghislaine-maxwell-jeffrey-epstein",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Anthropic",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/09/congress-government-ai-surveillance-anthropic",
-      "source": "The Guardian"
     },
     {
       "name": "Carolyn Bessette Kennedy",
@@ -60,88 +48,94 @@
       "count": 4,
       "url": "https://www.nytimes.com/2026/03/09/climate/gasoline-oil-prices-iran.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Marco Rubio",
+      "count": 4,
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Tal Alexander",
+      "count": 4,
+      "url": "https://www.theguardian.com/us-news/2026/mar/09/alexander-brothers-convicted-sex-trafficking",
+      "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Iran",
-      "count": 111,
-      "url": "https://www.nytimes.com/2026/03/09/opinion/iran-israel-united-states-bombing.html",
+      "count": 125,
+      "url": "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-gas-prices-gop-agenda.html",
       "source": "NY Times"
     },
     {
       "name": "Us",
-      "count": 78,
-      "url": "https://www.theguardian.com/books/2026/mar/09/jack-kerouac-archive-photos-sexuality-grolier-club-exhibition-new-york-beat-generation",
+      "count": 76,
+      "url": "https://www.theguardian.com/news/2026/mar/10/how-the-us-far-right-bought-into-the-myth-of-white-south-africas-persecution",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
       "count": 37,
-      "url": "https://www.nytimes.com/2026/03/09/us/politics/trump-gas-oil-iran.html",
+      "url": "https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 27,
-      "url": "https://www.theguardian.com/us-news/2026/mar/09/california-motel-closed-deaths",
+      "count": 26,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/09/fighting-extremism-redding-california",
       "source": "The Guardian"
     },
     {
-      "name": "New York City",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/03/09/nyregion/tax-the-rich-albany.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Israel",
-      "count": 19,
+      "count": 18,
       "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
       "source": "Wall St. Journal"
     },
     {
+      "name": "New York City",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/03/09/nyregion/tax-the-rich-albany.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Australia",
+      "count": 16,
+      "url": "https://www.theguardian.com/football/2026/mar/10/iran-womens-football-team-asylum-australia",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mexico City",
+      "count": 14,
+      "url": "https://www.theguardian.com/food/2026/mar/10/stuffed-cabbage-white-wine-escabeche-buttered-dill-pea-rice-recipes-thomasina-miers",
+      "source": "The Guardian"
+    },
+    {
       "name": "Texas",
-      "count": 18,
+      "count": 13,
       "url": "https://www.nytimes.com/2026/03/09/us/politics/mariachi-teens-immigration.html",
       "source": "NY Times"
     },
     {
       "name": "Tehran",
-      "count": 12,
-      "url": "https://www.theguardian.com/world/2026/mar/09/divided-iranians-react-to-new-supreme-leader",
-      "source": "The Guardian"
-    },
-    {
-      "name": "London",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/mar/09/lucia-osborne-crowley-tenacious-traumatic-fight-expose-ghislaine-maxwell-jeffrey-epstein",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New Mexico",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/mar/09/new-mexico-search-zorro-ranch-epstein",
+      "count": 13,
+      "url": "https://www.theguardian.com/world/live/2026/mar/10/iran-war-live-updates-iranian-supreme-leader-mojtaba-khamenei-middle-east-tehran-oil-prices-latest-news",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "Iran War Sends Tremors Through",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/03/09/briefing/iran-war-oil-prices-gracie-mansion-attack.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Operation Epic Fury ‘",
-      "count": 3,
-      "url": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
+      "name": "The Iran War",
+      "count": 6,
+      "url": "https://www.theguardian.com/money/2026/mar/10/uk-households-heating-oil-surge-bills-iran-war-prices-treble",
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.latimes.com/politics/story/2026-03-08/what-is-trumps-true-objective-in-iran-war-u-s-targets-provide-clue",
-      "source": "LA Times"
+      "name": "Iran War Continues",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/03/09/climate/gasoline-oil-prices-iran.html",
+      "source": "NY Times"
     },
     {
       "name": "Watergate",
@@ -150,15 +144,15 @@
       "source": "Washington Post"
     },
     {
-      "name": "Iran War Continues",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/03/09/climate/gasoline-oil-prices-iran.html",
-      "source": "NY Times"
+      "name": "Operation Epic Fury",
+      "count": 2,
+      "url": "https://www.nbcnews.com/video/shorts/u-s-service-members-killed-in-operation-epic-fury-named-258678853689",
+      "source": "NBC News"
     },
     {
-      "name": "Iran War Will Go",
+      "name": "Iran Show",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/03/09/us/politics/trump-gas-oil-iran.html",
+      "url": "https://www.nytimes.com/2026/03/09/world/middleeast/iran-school-strike-us-missile.html",
       "source": "NY Times"
     },
     {
@@ -168,65 +162,59 @@
       "source": "NY Times"
     },
     {
-      "name": "Iran War ‘",
+      "name": "International Women’S Day",
       "count": 1,
-      "url": "https://www.theguardian.com/world/2026/mar/10/trump-iran-war-over-pretty-quickly",
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/09/why-do-we-need-international-womens-day-misogyny",
       "source": "The Guardian"
     },
     {
-      "name": "The Iraq War",
+      "name": "Winter Paralympics",
       "count": 1,
-      "url": "https://www.theguardian.com/world/2026/mar/10/trump-iran-war-over-pretty-quickly",
+      "url": "https://www.theguardian.com/sport/2026/mar/09/russia-flag-raised-and-national-anthem-played-after-first-gold-at-winter-paralympics",
       "source": "The Guardian"
     },
     {
-      "name": "The Vietnam War",
+      "name": "Paralympic Winter Games",
       "count": 1,
-      "url": "https://www.theguardian.com/music/2026/mar/09/country-joe-mcdonald-woodstock-star-and-anti-war-singer-dies-aged-84",
+      "url": "https://www.theguardian.com/sport/ng-interactive/2026/mar/05/winter-paralympics-results-from-milano-cortina-2026",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fa Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/mar/09/west-ham-brentford-fa-cup-match-report",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 73,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Trump Attacked Clean Energy",
+      "count": 67,
+      "url": "https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html",
+      "source": "NY Times"
     },
     {
       "name": "Texas Senate",
-      "count": 17,
+      "count": 15,
       "url": "https://www.politico.com/news/2026/03/09/trump-is-delaying-texas-senate-endorsement-to-pressure-gop-senators-on-save-america-act-00819991",
       "source": "Politico"
     },
     {
-      "name": "The Filter Us",
-      "count": 16,
-      "url": "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Anthropic’S Ai",
-      "count": 16,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/09/congress-government-ai-surveillance-anthropic",
+      "name": "Breaking News",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/mar/09/nyc-mamdani-explosive-device-terrorism",
       "source": "The Guardian"
     },
     {
       "name": "The White House",
-      "count": 15,
+      "count": 13,
       "url": "https://www.latimes.com/opinion/story/2026-03-04/trump-attack-iran-objectives-negotiations-regime-change",
       "source": "LA Times"
     },
     {
-      "name": "Breaking News",
-      "count": 14,
-      "url": "https://www.theguardian.com/world/2026/mar/09/seventh-us-service-member-killed-iran-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News",
+      "name": "The Filter Us",
       "count": 12,
-      "url": "https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022",
+      "url": "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale",
       "source": "The Guardian"
     },
     {
@@ -236,17 +224,29 @@
       "source": "The Guardian"
     },
     {
-      "name": "Pentagon",
+      "name": "Ai ‘",
       "count": 9,
-      "url": "https://www.theguardian.com/world/2026/mar/09/seventh-us-service-member-killed-iran-war",
+      "url": "https://www.theguardian.com/books/2026/mar/06/doppelgangers-sinners-impersonator-conspiracy-theory-mar-a-lago-luxury-dupes-hogg-bronte-nabokov-spark",
       "source": "The Guardian"
     },
     {
-      "name": "Guardian News",
+      "name": "Dhs",
       "count": 9,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "url": "https://www.foxnews.com/politics/40-house-republicans-rally-behind-markwayne-mullin-dhs-call-critical-moment-border-security",
+      "source": "Fox News"
+    },
+    {
+      "name": "Guardian Europe",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/10/why-independent-bookshops-strike-fear-in-the-heart-of-germanys-culture-tsar",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cbs News",
+      "count": 8,
+      "url": "https://www.theguardian.com/media/2026/mar/09/cbs-news-scott-macfarlane-leaves-bari-weiss-network",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-03-10T03:28:21Z"
+  "updated": "2026-03-10T07:44:21Z"
 };
