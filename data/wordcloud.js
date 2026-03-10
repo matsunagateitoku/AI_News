@@ -2,148 +2,108 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "iran",
-    133,
+    126,
     "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-gas-prices-gop-agenda.html"
   ],
   [
     "trump",
-    130,
+    112,
     "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-gas-prices-gop-agenda.html"
   ],
   [
     "war",
-    94,
+    81,
     "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-gas-prices-gop-agenda.html"
   ],
   [
     "president",
-    65,
-    "https://www.nytimes.com/2026/03/09/nyregion/us-attorney-nj-prosecutors.html"
-  ],
-  [
-    "oil",
-    41,
-    "https://www.nytimes.com/2026/03/09/climate/gasoline-oil-prices-iran.html"
-  ],
-  [
-    "iranian",
-    36,
-    "https://www.nytimes.com/2026/03/09/world/middleeast/iran-school-strike-us-missile.html"
-  ],
-  [
-    "prices",
-    27,
-    "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-gas-prices-gop-agenda.html"
-  ],
-  [
-    "california",
-    27,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/09/fighting-extremism-redding-california"
-  ],
-  [
-    "film",
-    26,
-    "https://www.theguardian.com/film/2026/mar/10/gus-van-sant-interview-dead-mans-wire-hostage-thriller-luigi-mangione"
-  ],
-  [
-    "conflict",
-    25,
-    "https://www.theguardian.com/world/live/2026/mar/10/iran-war-live-updates-iranian-supreme-leader-mojtaba-khamenei-middle-east-tehran-oil-prices-latest-news"
-  ],
-  [
-    "book",
-    24,
-    "https://www.theguardian.com/technology/2026/mar/10/thousands-authors-publish-empty-book-protest-ai-work-copyright"
-  ],
-  [
-    "team",
-    23,
-    "https://www.nytimes.com/2026/03/09/nyregion/us-attorney-nj-prosecutors.html"
-  ],
-  [
-    "game",
-    23,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/10/how-to-recognise-handle-psychopath"
-  ],
-  [
-    "video",
-    21,
-    "https://www.nytimes.com/2026/03/09/business/ariel-emanuel-agents-podcasts.html"
-  ],
-  [
-    "ice",
-    21,
-    "https://www.nytimes.com/2026/03/09/us/politics/mariachi-teens-immigration.html"
-  ],
-  [
-    "night",
-    21,
-    "https://www.nytimes.com/2026/03/09/climate/space-mirror-satellite-solar.html"
-  ],
-  [
-    "donald",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/mar/10/us-israel-war-iranian-people"
-  ],
-  [
-    "attack",
-    20,
-    "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-gas-prices-gop-agenda.html"
-  ],
-  [
-    "texas",
-    20,
-    "https://www.nytimes.com/2026/03/09/us/politics/mariachi-teens-immigration.html"
-  ],
-  [
-    "israel",
-    20,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    44,
+    "https://www.nytimes.com/2026/03/10/world/americas/haiti-president-murder-assassination-trial-miami-florida.html"
   ],
   [
     "strikes",
-    20,
+    29,
     "https://www.theguardian.com/world/live/2026/mar/10/iran-war-live-updates-iranian-supreme-leader-mojtaba-khamenei-middle-east-tehran-oil-prices-latest-news"
   ],
   [
+    "iranian",
+    27,
+    "https://www.nytimes.com/2026/03/09/opinion/iran-israel-united-states-bombing.html"
+  ],
+  [
+    "oil",
+    25,
+    "https://www.nytimes.com/2026/03/10/health/canada-oil-sands-fort-chipewyan-alberta.html"
+  ],
+  [
     "sleep",
-    20,
+    23,
     "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale"
   ],
   [
+    "texas",
+    22,
+    "https://www.washingtonpost.com/nation/2026/03/10/iraq-veterans-iran-war-army/"
+  ],
+  [
+    "donald",
+    22,
+    "https://www.theguardian.com/world/live/2026/mar/10/iran-war-live-updates-iranian-supreme-leader-mojtaba-khamenei-middle-east-tehran-oil-prices-latest-news"
+  ],
+  [
+    "country",
+    21,
+    "https://www.nytimes.com/2026/03/10/climate/iran-war-water-crisis.html"
+  ],
+  [
     "company",
+    21,
+    "https://www.theguardian.com/technology/2026/mar/10/50-years-apple-epic-hits-and-misses"
+  ],
+  [
+    "california",
+    21,
+    "https://www.theguardian.com/technology/2026/mar/10/50-years-apple-epic-hits-and-misses"
+  ],
+  [
+    "film",
+    21,
+    "https://www.theguardian.com/film/2026/mar/10/quentin-tarantino-responds-rosanna-arquette-pulp-fiction-n-word-criticism"
+  ],
+  [
+    "american",
+    20,
+    "https://www.nytimes.com/2026/03/10/arts/television/late-night-trump-gas.html"
+  ],
+  [
+    "israel",
     19,
-    "https://www.nytimes.com/2026/03/09/us/ohio-state-president-resigns.html"
+    "https://www.nytimes.com/2026/03/10/opinion/ezra-klein-podcast-nadia-schadlow.html"
+  ],
+  [
+    "israeli",
+    19,
+    "https://www.nytimes.com/2026/03/09/opinion/iran-israel-united-states-bombing.html"
+  ],
+  [
+    "book",
+    19,
+    "https://www.theguardian.com/technology/2026/mar/10/thousands-authors-publish-empty-book-protest-ai-work-copyright"
+  ],
+  [
+    "food",
+    19,
+    "https://www.theguardian.com/global-development/ng-interactive/2026/mar/10/extraordinary-cruelty-images-show-longterm-starvation-strategy-in-sudan"
+  ],
+  [
+    "prices",
+    18,
+    "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-gas-prices-gop-agenda.html"
   ],
   [
     "democrats",
-    19,
-    "https://www.nytimes.com/2026/03/09/us/politics/mariachi-teens-immigration.html"
-  ],
-  [
-    "york",
-    19,
-    "https://www.nytimes.com/2026/03/09/nyregion/tax-the-rich-albany.html"
-  ],
-  [
-    "killed",
-    19,
-    "https://www.washingtonpost.com/investigations/2026/03/08/iran-school-strike-video-tomahawk/"
-  ],
-  [
-    "middle",
-    19,
-    "https://www.theguardian.com/film/2026/mar/10/gus-van-sant-interview-dead-mans-wire-hostage-thriller-luigi-mangione"
-  ],
-  [
-    "east",
-    19,
-    "https://www.theguardian.com/world/2026/mar/10/north-korea-nuclear-weapons-trump-iran-war"
-  ],
-  [
-    "experts",
     18,
-    "https://www.nytimes.com/2026/03/09/climate/gasoline-oil-prices-iran.html"
+    "https://www.nytimes.com/2026/03/10/us/politics/democrats-sue-to-find-out-if-trump-will-send-armed-officers-to-election-sites.html"
   ],
   [
     "start",
@@ -151,49 +111,39 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "country",
+    "hegseth",
     18,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/world/live/2026/mar/10/iran-war-live-updates-iranian-supreme-leader-mojtaba-khamenei-middle-east-tehran-oil-prices-latest-news"
   ],
   [
-    "school",
+    "experts",
+    18,
+    "https://www.theguardian.com/world/2026/mar/10/bombing-of-irans-oil-infrastructure-to-have-major-environmental-fallout-experts-warn"
+  ],
+  [
+    "family",
+    18,
+    "https://www.theguardian.com/us-news/2026/mar/10/ice-crackdown-immigrant-truck-drivers"
+  ],
+  [
+    "office",
     17,
-    "https://www.nytimes.com/2026/03/09/world/middleeast/iran-school-strike-us-missile.html"
+    "https://www.nytimes.com/2026/03/10/world/middleeast/iran-supreme-leader-secretive-office.html"
   ],
   [
-    "american",
+    "today",
     17,
-    "https://www.nytimes.com/2026/03/09/world/middleeast/iran-school-strike-us-missile.html"
+    "https://www.nytimes.com/2026/03/10/us/politics/mississippi-georgia-elections-what-to-know.html"
   ],
   [
-    "mexico",
-    17,
-    "https://www.nytimes.com/2026/03/09/us/epstein-new-mexico-zorro-ranch-search.html"
-  ],
-  [
-    "senate",
-    17,
-    "https://www.nytimes.com/2026/03/09/nyregion/tax-the-rich-albany.html"
-  ],
-  [
-    "latest",
+    "video",
     17,
     "https://www.washingtonpost.com/investigations/2026/03/08/iran-school-strike-video-tomahawk/"
   ],
   [
-    "leader",
+    "political",
     17,
-    "https://www.theguardian.com/news/2026/mar/10/how-the-us-far-right-bought-into-the-myth-of-white-south-africas-persecution"
-  ],
-  [
-    "breaking",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/mar/10/us-israel-war-iranian-people"
-  ],
-  [
-    "food",
-    17,
-    "https://www.theguardian.com/global-development/ng-interactive/2026/mar/10/extraordinary-cruelty-images-show-longterm-starvation-strategy-in-sudan"
+    "https://www.theguardian.com/commentisfree/2026/mar/10/iran-supreme-leader-mystery-regime-mojtaba-khamenei"
   ],
   [
     "pok",
@@ -206,173 +156,223 @@
     "https://www.theguardian.com/games/2026/mar/05/pokemon-pokopia-review-collectible-creatures-create-their-own-perfect-world"
   ],
   [
-    "sex",
+    "leader",
     16,
-    "https://www.nytimes.com/2026/03/09/nyregion/verdict-alexander-brothers-sex-trafficking.html"
+    "https://www.nytimes.com/2026/03/10/world/middleeast/iran-supreme-leader-secretive-office.html"
   ],
   [
-    "election",
+    "mexico",
     16,
-    "https://www.nytimes.com/2026/03/09/world/asia/balendra-shah-nepal-prime-minister.html"
+    "https://www.nytimes.com/2026/03/10/podcasts/the-headlines/trump-war-epstein-ranch-new-mexico.html"
   ],
   [
-    "israeli",
+    "latest",
     16,
-    "https://www.nytimes.com/2026/03/09/opinion/iran-israel-united-states-bombing.html"
+    "https://www.washingtonpost.com/investigations/2026/03/08/iran-school-strike-video-tomahawk/"
   ],
   [
-    "air",
+    "middle",
     16,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/world/live/2026/mar/10/iran-war-live-updates-iranian-supreme-leader-mojtaba-khamenei-middle-east-tehran-oil-prices-latest-news"
   ],
   [
     "review",
     16,
-    "https://www.theguardian.com/books/2026/mar/10/kids-wait-till-you-hear-this-by-liza-minnelli-review-a-heady-brew-of-gossip-glamour-and-defiance"
+    "https://www.theguardian.com/us-news/2026/mar/10/rfk-jr-pick-review-covid-vaccines"
   ],
   [
-    "australia",
+    "john",
     16,
-    "https://www.theguardian.com/football/2026/mar/10/iran-womens-football-team-asylum-australia"
+    "https://www.theguardian.com/us-news/2026/mar/10/covid-fraud-missouri-house-speaker-john-diehl"
   ],
   [
-    "email",
-    16,
-    "https://www.theguardian.com/us-news/2026/mar/09/nyc-mamdani-explosive-device-terrorism"
-  ],
-  [
-    "feel",
-    16,
-    "https://www.theguardian.com/film/2026/mar/10/learning-you-review-autism-road-trip-drama"
-  ],
-  [
-    "gas",
+    "conflict",
     15,
-    "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-gas-prices-gop-agenda.html"
+    "https://www.nytimes.com/2026/03/10/briefing/war-and-the-economy.html"
   ],
   [
-    "media",
+    "night",
     15,
-    "https://www.nytimes.com/2026/03/09/world/middleeast/iran-school-strike-us-missile.html"
+    "https://www.nytimes.com/2026/03/10/arts/television/late-night-trump-gas.html"
   ],
   [
-    "alexander",
+    "attacks",
     15,
-    "https://www.nytimes.com/2026/03/09/nyregion/verdict-alexander-brothers-sex-trafficking.html"
+    "https://www.washingtonpost.com/nation/2026/03/10/iraq-veterans-iran-war-army/"
   ],
   [
-    "university",
+    "ice",
     15,
-    "https://www.nytimes.com/2026/03/09/us/ohio-state-president-resigns.html"
-  ],
-  [
-    "early",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "players",
-    15,
-    "https://www.theguardian.com/football/2026/mar/10/iran-womens-football-team-asylum-australia"
-  ],
-  [
-    "led",
-    14,
-    "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-gas-prices-gop-agenda.html"
-  ],
-  [
-    "trafficking",
-    14,
-    "https://www.nytimes.com/2026/03/09/nyregion/verdict-alexander-brothers-sex-trafficking.html"
-  ],
-  [
-    "name",
-    14,
-    "https://www.nytimes.com/2026/03/09/us/casey-wasserman-epstein-company-name.html"
-  ],
-  [
-    "united",
-    14,
     "https://www.washingtonpost.com/immigration/2026/03/10/trump-immigration-detention-minneapolis-courts/"
   ],
   [
     "military",
-    14,
+    15,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "really",
-    14,
+    "little",
+    15,
     "https://www.theguardian.com/news/2026/mar/10/how-the-us-far-right-bought-into-the-myth-of-white-south-africas-persecution"
   ],
   [
-    "soon",
-    14,
-    "https://www.theguardian.com/books/2026/mar/10/kids-wait-till-you-hear-this-by-liza-minnelli-review-a-heady-brew-of-gossip-glamour-and-defiance"
+    "name",
+    15,
+    "https://www.theguardian.com/news/2026/mar/10/how-the-us-far-right-bought-into-the-myth-of-white-south-africas-persecution"
   ],
   [
-    "don",
-    14,
-    "https://www.theguardian.com/technology/2026/mar/10/thousands-authors-publish-empty-book-protest-ai-work-copyright"
+    "media",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/10/how-to-recognise-handle-psychopath"
   ],
   [
-    "alerts",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/09/nyc-mamdani-explosive-device-terrorism"
+    "east",
+    15,
+    "https://www.theguardian.com/world/live/2026/mar/10/iran-war-live-updates-iranian-supreme-leader-mojtaba-khamenei-middle-east-tehran-oil-prices-latest-news"
   ],
   [
-    "department",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/09/california-motel-closed-deaths"
+    "feel",
+    15,
+    "https://www.theguardian.com/global-development/2026/mar/10/coffee-farming-el-salvador-honduras-adaptation-cost-central-americas-small-coffee-growers-crisis-global-economy"
   ],
   [
-    "john",
+    "election",
+    14,
+    "https://www.nytimes.com/2026/03/10/us/politics/democrats-sue-to-find-out-if-trump-will-send-armed-officers-to-election-sites.html"
+  ],
+  [
+    "chinese",
+    14,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "north",
+    14,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "team",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "secretary",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "working",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/10/how-to-recognise-handle-psychopath"
+  ],
+  [
+    "email",
+    14,
+    "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates"
+  ],
+  [
+    "club",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/10/covid-fraud-missouri-house-speaker-john-diehl"
+  ],
+  [
+    "senate",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/10/attorneys-appointed-pam-bondi-trump"
+  ],
+  [
+    "fish",
+    14,
+    "https://www.theguardian.com/environment/2026/mar/09/fish-factories-west-africa-guardian-investigation-desmog-fishmeal-oil"
+  ],
+  [
+    "voters",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/09/trump-threat-congress-save-america-act"
+  ],
+  [
+    "love",
     14,
     "https://www.theguardian.com/film/2026/mar/10/learning-you-review-autism-road-trip-drama"
   ],
   [
-    "became",
-    13,
-    "https://www.nytimes.com/2026/03/09/nyregion/gracie-bomb-scene-mamdani.html"
+    "cbs",
+    14,
+    "https://www.latimes.com/entertainment-arts/business/story/2026-03-09/cbs-news-scott-macfalane-leaves-network-what-to-know"
   ],
   [
-    "family",
+    "school",
     13,
-    "https://www.nytimes.com/2026/03/09/us/politics/mariachi-teens-immigration.html"
+    "https://www.nytimes.com/2026/03/10/nyregion/students-school-screen-time-parents-concern.html"
   ],
   [
-    "states",
+    "york",
     13,
-    "https://www.nytimes.com/2026/03/09/us/ice-immigration-crackdown-minnesota-ohio.html"
+    "https://www.washingtonpost.com/nation/2026/03/09/men-charged-explosives-nyc-isis/"
   ],
   [
-    "little",
+    "early",
     13,
-    "https://www.nytimes.com/2026/03/09/us/ice-immigration-crackdown-minnesota-ohio.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "late",
-    13,
-    "https://www.nytimes.com/2026/03/10/arts/television/late-night-trump-gas.html"
-  ],
-  [
-    "social",
-    13,
-    "https://www.nytimes.com/2026/03/09/business/media/fake-ai-generated-accounts-social-media-supplements.html"
-  ],
-  [
-    "crisis",
-    13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "black",
+    "really",
     13,
     "https://www.theguardian.com/news/2026/mar/10/how-the-us-far-right-bought-into-the-myth-of-white-south-africas-persecution"
   ],
   [
-    "weekly",
+    "politics",
     13,
     "https://www.theguardian.com/lifeandstyle/2026/mar/10/how-to-recognise-handle-psychopath"
+  ],
+  [
+    "don",
+    13,
+    "https://www.theguardian.com/technology/2026/mar/10/thousands-authors-publish-empty-book-protest-ai-work-copyright"
+  ],
+  [
+    "london",
+    13,
+    "https://www.theguardian.com/technology/2026/mar/10/thousands-authors-publish-empty-book-protest-ai-work-copyright"
+  ],
+  [
+    "social",
+    13,
+    "https://www.theguardian.com/world/2026/mar/10/shots-fired-canada-consulate-toronto"
+  ],
+  [
+    "director",
+    13,
+    "https://www.theguardian.com/film/2026/mar/10/quentin-tarantino-responds-rosanna-arquette-pulp-fiction-n-word-criticism"
+  ],
+  [
+    "americans",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/mar/10/politics-union-members"
+  ],
+  [
+    "play",
+    13,
+    "https://www.theguardian.com/football/2026/mar/10/relegated-and-then-european-champions-have-i-got-spurs-for-you"
+  ],
+  [
+    "energy",
+    12,
+    "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-gas-prices-gop-agenda.html"
+  ],
+  [
+    "supreme",
+    12,
+    "https://www.nytimes.com/2026/03/10/world/middleeast/iran-supreme-leader-secretive-office.html"
+  ],
+  [
+    "water",
+    12,
+    "https://www.nytimes.com/2026/03/10/climate/iran-war-water-crisis.html"
+  ],
+  [
+    "accused",
+    12,
+    "https://www.nytimes.com/2026/03/10/climate/iran-war-water-crisis.html"
   ]
 ];
