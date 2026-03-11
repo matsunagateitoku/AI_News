@@ -2,138 +2,148 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "iran",
-    88,
-    "https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html"
+    106,
+    "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html"
   ],
   [
     "trump",
-    86,
-    "https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html"
+    91,
+    "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html"
   ],
   [
     "war",
-    56,
+    67,
     "https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html"
+  ],
+  [
+    "sleep",
+    43,
+    "https://www.theguardian.com/commentisfree/2026/mar/11/the-ai-assistant-was-offering-me-any-help-i-needed-all-i-wanted-was-a-living-breathing-human"
   ],
   [
     "president",
-    39,
-    "https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html"
-  ],
-  [
-    "texas",
-    26,
-    "https://www.washingtonpost.com/nation/2026/03/10/iraq-veterans-iran-war-army/"
-  ],
-  [
-    "country",
-    25,
-    "https://www.nytimes.com/2026/03/11/world/europe/ukraine-drones-china.html"
-  ],
-  [
-    "east",
-    24,
-    "https://www.theguardian.com/world/2026/mar/11/mojtaba-khamenei-was-hurt-in-strike-that-killed-his-father-irans-cyprus-ambassador-confirms"
+    40,
+    "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html"
   ],
   [
     "oil",
-    21,
-    "https://www.nytimes.com/2026/03/11/business/gas-prices-oil-iran.html"
+    34,
+    "https://www.theguardian.com/us-news/2026/mar/11/reeses-hersey-chocolate-candy-cocoa"
+  ],
+  [
+    "iranian",
+    33,
+    "https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html"
+  ],
+  [
+    "strike",
+    27,
+    "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html"
+  ],
+  [
+    "killed",
+    27,
+    "https://www.nytimes.com/2026/03/11/us/kankakee-illinois-indiana-tornadoes-storms.html"
+  ],
+  [
+    "texas",
+    25,
+    "https://www.washingtonpost.com/nation/2026/03/10/iraq-veterans-iran-war-army/"
+  ],
+  [
+    "school",
+    24,
+    "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html"
+  ],
+  [
+    "military",
+    24,
+    "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html"
+  ],
+  [
+    "least",
+    24,
+    "https://www.nytimes.com/2026/03/11/us/kankakee-illinois-indiana-tornadoes-storms.html"
+  ],
+  [
+    "east",
+    22,
+    "https://www.nytimes.com/2026/03/11/business/economy/cpi-inflation.html"
+  ],
+  [
+    "strikes",
+    22,
+    "https://www.theguardian.com/world/2026/mar/11/iran-escalates-attacks-on-infrastructure-and-transport-networks-across-the-gulf"
   ],
   [
     "prices",
+    22,
+    "https://www.theguardian.com/business/2026/mar/11/iea-oil-reserves-stockpiles-release-price-per-barrel-analysis"
+  ],
+  [
+    "country",
+    21,
+    "https://www.nytimes.com/2026/03/11/world/americas/us-alex-saab-extradition-maduro-ally.html"
+  ],
+  [
+    "middle",
     20,
-    "https://www.nytimes.com/2026/03/11/business/gas-prices-oil-iran.html"
+    "https://www.nytimes.com/2026/03/11/business/economy/cpi-inflation.html"
   ],
   [
     "american",
     20,
-    "https://www.nytimes.com/2026/03/11/world/asia/china-us-trump-ceos.html"
-  ],
-  [
-    "york",
-    20,
-    "https://www.nytimes.com/2026/03/11/opinion/carolyn-bessette-kennedy-love-story.html"
-  ],
-  [
-    "killed",
-    20,
-    "https://www.washingtonpost.com/nation/2026/03/10/charles-burton-death-sentence-commuted/"
-  ],
-  [
-    "sleep",
-    20,
-    "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale"
-  ],
-  [
-    "department",
-    19,
-    "https://www.nytimes.com/2026/03/10/us/politics/global-entry-dhs-shutdown.html"
-  ],
-  [
-    "support",
-    19,
-    "https://www.nytimes.com/2026/03/10/us/politics/georgia-election-marjorie-taylor-greene.html"
+    "https://www.nytimes.com/2026/03/10/theater/broadway-theater-london-prices.html"
   ],
   [
     "israel",
-    19,
+    20,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "school",
-    19,
-    "https://www.theguardian.com/film/2026/mar/11/how-to-make-a-killing-review-one-man-on-a-bloody-quest-for-his-inheritance"
-  ],
-  [
-    "middle",
-    19,
-    "https://www.theguardian.com/world/2026/mar/11/mojtaba-khamenei-was-hurt-in-strike-that-killed-his-father-irans-cyprus-ambassador-confirms"
-  ],
-  [
-    "family",
-    18,
-    "https://www.theguardian.com/film/2026/mar/11/how-to-make-a-killing-review-one-man-on-a-bloody-quest-for-his-inheritance"
-  ],
-  [
-    "democrats",
-    18,
-    "https://www.theguardian.com/us-news/2026/mar/10/mike-johnson-anti-muslim-comments"
+    "game",
+    20,
+    "https://www.theguardian.com/sport/2026/mar/11/bam-adebayo-83-points-miami-heat-washington-wizards-nba"
   ],
   [
     "california",
-    18,
-    "https://www.theguardian.com/thefilter-us/2026/jan/09/best-induction-cookware"
+    20,
+    "https://www.theguardian.com/us-news/2026/mar/11/the-california-town-that-lost-its-mayor-to-gun-suicide"
   ],
   [
-    "conflict",
-    17,
-    "https://www.nytimes.com/2026/03/11/world/europe/trump-iran-war-global-impact.html"
+    "leader",
+    19,
+    "https://www.nytimes.com/2026/03/11/us/politics/thune-trump-voter-bill-senate.html"
+  ],
+  [
+    "really",
+    19,
+    "https://www.theguardian.com/business/2026/mar/11/iea-oil-reserves-stockpiles-release-price-per-barrel-analysis"
+  ],
+  [
+    "york",
+    18,
+    "https://www.nytimes.com/2026/03/11/opinion/carolyn-bessette-kennedy-love-story.html"
+  ],
+  [
+    "health",
+    18,
+    "https://www.nytimes.com/2026/03/11/health/pediatricians-vaccines-cdc-kennedy.html"
   ],
   [
     "living",
     17,
-    "https://www.nytimes.com/2026/03/11/world/europe/trump-iran-war-global-impact.html"
+    "https://www.nytimes.com/2026/03/11/opinion/carolyn-bessette-kennedy-love-story.html"
   ],
   [
-    "because",
-    17,
-    "https://www.nytimes.com/2026/03/11/podcasts/the-headlines/iranians-war-bondi-threats.html"
-  ],
-  [
-    "book",
-    17,
-    "https://www.nytimes.com/2026/03/10/books/review/liza-minnelli-memoir-kids-wait-till-you-hear-this.html"
-  ],
-  [
-    "music",
-    17,
-    "https://www.nytimes.com/2026/03/10/magazine/sync-music-songwriters-video.html"
-  ],
-  [
-    "game",
+    "night",
     17,
     "https://www.theguardian.com/sport/2026/mar/11/bam-adebayo-83-points-miami-heat-washington-wizards-nba"
+  ],
+  [
+    "members",
+    17,
+    "https://www.theguardian.com/world/2026/mar/11/mojtaba-khamenei-was-hurt-in-strike-that-killed-his-father-irans-cyprus-ambassador-confirms"
   ],
   [
     "pok",
@@ -146,124 +156,99 @@
     "https://www.theguardian.com/games/2026/mar/05/pokemon-pokopia-review-collectible-creatures-create-their-own-perfect-world"
   ],
   [
-    "near",
+    "buying",
     16,
-    "https://www.nytimes.com/2026/03/11/world/asia/taiwan-china-military-planes.html"
+    "https://www.theguardian.com/wellness/2026/mar/11/how-to-start-finding-your-personal-style"
   ],
   [
-    "states",
+    "filter",
     16,
-    "https://www.nytimes.com/2026/03/11/world/americas/trump-sinaloa-cartels.html"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/11/baya-fuzzy-crocs"
   ],
   [
-    "strike",
-    16,
-    "https://www.nytimes.com/2026/03/11/world/americas/trump-sinaloa-cartels.html"
-  ],
-  [
-    "past",
-    16,
-    "https://www.nytimes.com/2026/03/10/us/politics/bondi-military-housing-threats.html"
-  ],
-  [
-    "office",
-    16,
-    "https://www.nytimes.com/2026/03/10/us/lausd-chief-alberto-carvalho-statement.html"
-  ],
-  [
-    "mother",
-    16,
-    "https://www.washingtonpost.com/nation/2026/03/10/iraq-veterans-iran-war-army/"
-  ],
-  [
-    "fire",
-    16,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "least",
-    16,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "team",
-    16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "really",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/11/a-moment-that-changed-me-i-was-planning-to-be-a-musician-then-i-had-my-ears-syringed"
-  ],
-  [
-    "experts",
-    16,
-    "https://www.theguardian.com/world/2026/mar/11/why-irans-vital-kharg-island-oil-hub-is-still-untouched-by-us-israel-bombers"
-  ],
-  [
-    "attack",
+    "court",
     15,
-    "https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html"
+    "https://www.nytimes.com/2026/03/11/business/economy/trump-trade-investigations-tariffs.html"
   ],
   [
-    "gas",
+    "department",
     15,
-    "https://www.nytimes.com/2026/03/11/business/gas-prices-oil-iran.html"
+    "https://www.washingtonpost.com/education/2026/03/10/trump-for-profit-colleges-university-of-phoenix/"
   ],
   [
     "global",
     15,
-    "https://www.nytimes.com/2026/03/11/business/gas-prices-oil-iran.html"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "military",
+    "team",
     15,
-    "https://www.nytimes.com/2026/03/11/world/asia/taiwan-china-military-planes.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "republican",
+    "company",
     15,
-    "https://www.nytimes.com/2026/03/10/us/politics/georgia-election-marjorie-taylor-greene.html"
+    "https://www.theguardian.com/us-news/2026/mar/11/reeses-hersey-chocolate-candy-cocoa"
   ],
   [
-    "early",
+    "media",
     15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "love",
-    15,
-    "https://www.theguardian.com/film/2026/mar/11/how-to-make-a-killing-review-one-man-on-a-bloody-quest-for-his-inheritance"
-  ],
-  [
-    "americans",
-    15,
-    "https://www.theguardian.com/us-news/live/2026/mar/11/politics-georgia-election-democrats-republicans-trump-ohio"
-  ],
-  [
-    "games",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/mar/10/world-cup-congress-funding-ice"
-  ],
-  [
-    "working",
-    15,
-    "https://www.theguardian.com/sport/2026/mar/09/ukraine-winter-paralympics-chat-gpt-artificial-intelligence"
+    "https://www.theguardian.com/wellness/2026/mar/11/how-to-start-finding-your-personal-style"
   ],
   [
     "actor",
     15,
-    "https://www.theguardian.com/film/2026/mar/11/shia-labeouf-rome-mardi-gras"
+    "https://www.theguardian.com/us-news/2026/mar/11/nathan-chasing-horse-sentencing"
   ],
   [
-    "health",
-    14,
-    "https://www.nytimes.com/2026/03/11/health/pediatricians-vaccines-cdc-kennedy.html"
+    "ago",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/11/texas-execution-cedric-ricks"
   ],
   [
-    "attacks",
+    "games",
+    15,
+    "https://www.theguardian.com/sport/2026/mar/11/ukraine-accuses-ipc-of-systemic-pressure-and-pro-russian-bias-at-winter-paralympics"
+  ],
+  [
+    "masks",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale"
+  ],
+  [
+    "israeli",
     14,
-    "https://www.washingtonpost.com/nation/2026/03/10/iraq-veterans-iran-war-army/"
+    "https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html"
+  ],
+  [
+    "energy",
+    14,
+    "https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html"
+  ],
+  [
+    "late",
+    14,
+    "https://www.nytimes.com/2026/03/11/us/politics/trump-epstein-files-fbi-doj.html"
+  ],
+  [
+    "conflict",
+    14,
+    "https://www.nytimes.com/2026/03/11/business/economy/cpi-inflation.html"
+  ],
+  [
+    "john",
+    14,
+    "https://www.nytimes.com/2026/03/11/opinion/carolyn-bessette-kennedy-love-story.html"
+  ],
+  [
+    "death",
+    14,
+    "https://www.washingtonpost.com/nation/2026/03/10/charles-burton-death-sentence-commuted/"
+  ],
+  [
+    "air",
+    14,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "released",
@@ -271,49 +256,69 @@
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "inflation",
+    "experts",
     14,
-    "https://www.theguardian.com/business/2026/mar/11/inflation-february"
+    "https://www.theguardian.com/wellness/2026/mar/11/how-to-start-finding-your-personal-style"
   ],
   [
-    "play",
+    "fashion",
     14,
-    "https://www.theguardian.com/football/2026/mar/11/donald-trump-iran-welcome-2026-world-cup-gianni-infantino"
+    "https://www.theguardian.com/wellness/2026/mar/11/how-to-start-finding-your-personal-style"
   ],
   [
-    "rep",
+    "guide",
     14,
-    "https://www.today.com/video/clay-fuller-and-shawn-harris-advance-to-georgia-election-runoff-259112005579"
+    "https://www.theguardian.com/world/2026/mar/11/iran-war-missile-strike-elementary-school"
   ],
   [
-    "israeli",
-    13,
-    "https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html"
+    "breaking",
+    14,
+    "https://www.theguardian.com/world/2026/mar/11/iran-war-missile-strike-elementary-school"
   ],
   [
-    "price",
-    13,
-    "https://www.nytimes.com/2026/03/11/business/gas-prices-oil-iran.html"
+    "email",
+    14,
+    "https://www.theguardian.com/world/2026/mar/11/iran-war-missile-strike-elementary-school"
   ],
   [
-    "feel",
-    13,
-    "https://www.nytimes.com/2026/03/11/podcasts/the-headlines/iranians-war-bondi-threats.html"
+    "video",
+    14,
+    "https://www.theguardian.com/business/2026/mar/11/iea-oil-reserves-stockpiles-release-price-per-barrel-analysis"
   ],
   [
-    "leaving",
-    13,
-    "https://www.nytimes.com/2026/03/11/world/asia/taiwan-china-military-planes.html"
+    "senate",
+    14,
+    "https://www.theguardian.com/us-news/live/2026/mar/11/politics-georgia-election-democrats-republicans-trump-ohio"
   ],
   [
-    "review",
-    13,
-    "https://www.nytimes.com/2026/03/10/books/review/liza-minnelli-memoir-kids-wait-till-you-hear-this.html"
+    "government",
+    14,
+    "https://www.theguardian.com/technology/2026/mar/11/binance-crypto-wall-street-journal-lawsuit"
   ],
   [
-    "company",
+    "republican",
     13,
-    "https://www.nytimes.com/2026/03/11/technology/thomson-reuters-ice-minnesota.html"
+    "https://www.nytimes.com/2026/03/11/style/james-fishback-florida-internet-politics.html"
+  ],
+  [
+    "states",
+    13,
+    "https://www.nytimes.com/2026/03/11/us/democratic-states-trump-lawsuit-admissions.html"
+  ],
+  [
+    "race",
+    13,
+    "https://www.nytimes.com/2026/03/11/us/democratic-states-trump-lawsuit-admissions.html"
+  ],
+  [
+    "started",
+    13,
+    "https://www.nytimes.com/2026/03/11/us/politics/trump-epstein-files-fbi-doj.html"
+  ],
+  [
+    "family",
+    13,
+    "https://www.nytimes.com/2026/03/11/arts/design/mike-disfarmer-family-legacy.html"
   ],
   [
     "actually",
@@ -321,58 +326,53 @@
     "https://www.nytimes.com/2026/03/11/nyregion/nyc-tax-rich.html"
   ],
   [
-    "voters",
+    "today",
     13,
-    "https://www.nytimes.com/2026/03/11/opinion/trump-war-iran-oil-prices.html"
+    "https://www.nytimes.com/2026/03/11/us/renty-slave-photos-harvard-museum.html"
   ],
   [
-    "court",
+    "service",
     13,
-    "https://www.washingtonpost.com/immigration/2026/03/10/trump-immigration-detention-minneapolis-courts/"
+    "https://www.nytimes.com/2026/03/11/style/oscars-stylist-rachel-beth-anderson-documentary-filmmakers.html"
   ],
   [
-    "campaign",
+    "music",
     13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/03/10/magazine/sync-music-songwriters-video.html"
   ],
   [
-    "race",
+    "became",
     13,
-    "https://www.theguardian.com/technology/ng-interactive/2026/mar/11/amazon-artificial-intelligence"
+    "https://www.nytimes.com/2026/03/10/magazine/sync-music-songwriters-video.html"
+  ],
+  [
+    "trying",
+    13,
+    "https://www.washingtonpost.com/nation/2026/03/09/men-charged-explosives-nyc-isis/"
+  ],
+  [
+    "italy",
+    13,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "past",
+    13,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "latest",
+    13,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
     "something",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/11/a-moment-that-changed-me-i-was-planning-to-be-a-musician-then-i-had-my-ears-syringed"
-  ],
-  [
-    "late",
-    13,
-    "https://www.theguardian.com/film/2026/mar/11/how-to-make-a-killing-review-one-man-on-a-bloody-quest-for-his-inheritance"
-  ],
-  [
-    "senate",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/mar/11/politics-georgia-election-democrats-republicans-trump-ohio"
-  ],
-  [
-    "nearly",
-    13,
-    "https://www.theguardian.com/football/2026/mar/11/donald-trump-iran-welcome-2026-world-cup-gianni-infantino"
-  ],
-  [
-    "series",
-    13,
-    "https://www.theguardian.com/us-news/2026/mar/11/tornadoes-illinois-indiana-texas-storms"
-  ],
-  [
-    "video",
-    13,
-    "https://www.theguardian.com/world/video/2026/mar/11/how-toronto-snow-mountains-hide-a-toxic-secret-video"
-  ],
-  [
-    "name",
-    13,
     "https://www.theguardian.com/society/ng-interactive/2026/mar/11/deaf-hard-of-hearing-asl-personal-essay"
+  ],
+  [
+    "tehran",
+    13,
+    "https://www.theguardian.com/world/2026/mar/11/mojtaba-khamenei-was-hurt-in-strike-that-killed-his-father-irans-cyprus-ambassador-confirms"
   ]
 ];
