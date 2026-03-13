@@ -2,151 +2,89 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Donald Trump",
-      "count": 26,
-      "url": "https://www.theguardian.com/politics/audio/2026/mar/13/could-the-us-military-turn-on-trump-podcast",
+      "name": "All Donald Trump",
+      "count": 34,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/13/king-charles-state-visit-us-donald-trump-military",
       "source": "The Guardian"
     },
     {
-      "name": "Daniel Radcliffe",
-      "count": 7,
-      "url": "https://www.theguardian.com/stage/2026/mar/12/every-brilliant-thing-daniel-radcliffe-broadway",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ayatollah Mojtaba Khamenei",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/12/the-guardian-view-on-the-cost-of-trumps-war-the-worlds-poor-will-pay-most-dearly",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Scott Pilgrim Ex",
-      "count": 6,
-      "url": "https://www.theguardian.com/games/2026/mar/10/scott-pilgrim-ex-review-is-it-time-to-grow-up",
+      "name": "Pete Hegseth",
+      "count": 19,
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/13/donald-trump-iran-military-hegseth-caine-immigration-voter-id-latest-news-updates",
       "source": "The Guardian"
     },
     {
       "name": "Hormuz",
-      "count": 5,
+      "count": 6,
       "url": "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html",
       "source": "NY Times"
     },
     {
-      "name": "Bill Kramer",
-      "count": 5,
-      "url": "https://www.theguardian.com/film/2026/mar/12/scars-bill-kramer-robert-redford-ai",
+      "name": "Rupert Murdoch",
+      "count": 6,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/13/dynasty-the-murdochs-review-rupert-children-netflix-documentary",
       "source": "The Guardian"
+    },
+    {
+      "name": "Gen Dan Caine",
+      "count": 6,
+      "url": "https://www.theguardian.com/world/2026/mar/13/pentagon-maga-journalists-iran-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/13/donald-trump-us-marco-rubio-shoes-too-big",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mojtaba Khamenei",
+      "count": 6,
+      "url": "https://www.latimes.com/politics/story/2026-03-12/us-israel-iran-war-iranian-leader-mojtaba-khamenei-statement",
+      "source": "LA Times"
     },
     {
       "name": "Oscar",
       "count": 5,
-      "url": "https://www.theguardian.com/film/2026/mar/12/scars-bill-kramer-robert-redford-ai",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/13/honduras-family-immigration-deportation",
       "source": "The Guardian"
     },
     {
-      "name": "Megan Moroney",
+      "name": "Ayatollah Ali Khamenei",
       "count": 5,
-      "url": "https://www.theguardian.com/music/2026/mar/11/gen-z-women-country-music",
+      "url": "https://www.theguardian.com/us-news/2026/mar/13/david-mccloskey-persian-book",
       "source": "The Guardian"
     },
     {
-      "name": "Cillian Murphy",
-      "count": 4,
-      "url": "https://www.theguardian.com/film/2026/mar/13/peaky-blinders-the-immortal-man-film-cillian-murphy-barry-keoghan-steven-knight",
+      "name": "Daniel Radcliffe",
+      "count": 5,
+      "url": "https://www.theguardian.com/stage/2026/mar/12/every-brilliant-thing-daniel-radcliffe-broadway",
       "source": "The Guardian"
-    },
-    {
-      "name": "Liam Byrne",
-      "count": 4,
-      "url": "https://www.theguardian.com/books/2026/mar/12/why-populists-are-winning-and-how-to-beat-them-by-liam-byrne-review-a-surprisingly-original-prescription",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Tries To Set Policy Without Legislation",
-      "count": 56,
-      "url": "https://www.nytimes.com/2026/03/12/us/politics/trump-lawsuits-settlements.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ai",
-      "count": 20,
-      "url": "https://www.theguardian.com/technology/2026/mar/12/microsoft-amicus-brief-anthropic-pentagon",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 15,
-      "url": "https://www.theguardian.com/world/2026/mar/13/everything-is-a-political-weapon-since-trumps-re-election-says-germanys-ex-economy-minister",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas Senate",
-      "count": 15,
-      "url": "https://www.politico.com/news/2026/03/09/trump-is-delaying-texas-senate-endorsement-to-pressure-gop-senators-on-save-america-act-00819991",
-      "source": "Politico"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 14,
-      "url": "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Fbi",
-      "count": 12,
-      "url": "https://www.washingtonpost.com/nation/2026/03/12/temple-israel-synagogue-michigan-attack/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Crowded N.Y.C. House",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/03/12/nyregion/bloomberg-lasher-super-pac.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Old Dominion University Shooting Being Investigated",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/03/12/us/shooting-old-dominion-university.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Guardian News",
-      "count": 9,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nasa",
-      "count": 8,
-      "url": "https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch",
-      "source": "NPR"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 6,
-      "url": "https://www.latimes.com/politics/story/2026-03-08/what-is-trumps-true-objective-in-iran-war-u-s-targets-provide-clue",
+      "count": 9,
+      "url": "https://www.latimes.com/business/story/2026-03-13/how-spike-in-gas-prices-is-jolting-californias-giant-economy",
       "source": "LA Times"
     },
     {
-      "name": "The World Cup",
+      "name": "The 2026 World Cup",
       "count": 3,
-      "url": "https://www.theguardian.com/football/2026/mar/12/donald-trump-iran-status-world-cup",
+      "url": "https://www.theguardian.com/football/2026/mar/13/iran-2026-world-cup-status-explainer",
       "source": "The Guardian"
     },
     {
-      "name": "The U.S.-Israeli War",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/03/12/us/antisemitism-synagogue-attack-michigan.html",
-      "source": "NY Times"
+      "name": "Winter Olympics",
+      "count": 3,
+      "url": "https://www.theguardian.com/world/2026/mar/12/brooke-nevils-sexual-assault-claims-matt-lauer",
+      "source": "The Guardian"
     },
     {
-      "name": "Winter Olympics",
+      "name": "The World Cup",
       "count": 2,
-      "url": "https://www.theguardian.com/world/2026/mar/12/brooke-nevils-sexual-assault-claims-matt-lauer",
+      "url": "https://www.theguardian.com/football/2026/mar/13/iran-2026-world-cup-status-explainer",
       "source": "The Guardian"
     },
     {
@@ -156,15 +94,15 @@
       "source": "LA Times"
     },
     {
-      "name": "Operation Epic Fury",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/mar/12/us-military-aircraft-iraq-crash",
-      "source": "The Guardian"
+      "name": "Quds Day",
+      "count": 2,
+      "url": "https://www.nbcnews.com/video/shorts/explosion-rocks-tehran-during-quds-day-rally-259250245745",
+      "source": "NBC News"
     },
     {
-      "name": "Olympic",
+      "name": "Winter Paralympics",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/mar/12/alysa-liu-olympics-oakland",
+      "url": "https://www.theguardian.com/sport/2026/mar/12/snow-joke-winter-paralympics-athletes-angry-at-scheduling-as-big-thaw-hits",
       "source": "The Guardian"
     },
     {
@@ -174,79 +112,141 @@
       "source": "The Guardian"
     },
     {
-      "name": "Winter Paralympics",
+      "name": "’S World Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/mar/12/snow-joke-winter-paralympics-athletes-angry-at-scheduling-as-big-thaw-hits",
+      "url": "https://www.theguardian.com/football/2026/mar/13/iran-2026-world-cup-status-explainer",
       "source": "The Guardian"
     },
     {
-      "name": "Tribute Games",
+      "name": "Nwsl",
       "count": 1,
-      "url": "https://www.theguardian.com/games/2026/mar/10/scott-pilgrim-ex-review-is-it-time-to-grow-up",
+      "url": "https://www.theguardian.com/football/2026/mar/13/call-it-the-rodman-rule-or-hip-the-nwsls-new-initiative-is-already-impacting-rosters",
+      "source": "The Guardian"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Removes Sanctions",
+      "count": 67,
+      "url": "https://www.nytimes.com/2026/03/13/podcasts/the-headlines/trump-russia-oil-chatbots-health-records.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ai",
+      "count": 18,
+      "url": "https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 14,
+      "url": "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fbi",
+      "count": 11,
+      "url": "https://www.washingtonpost.com/nation/2026/03/12/temple-israel-synagogue-michigan-attack/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Texas Senate",
+      "count": 10,
+      "url": "https://www.politico.com/news/2026/03/09/trump-is-delaying-texas-senate-endorsement-to-pressure-gop-senators-on-save-america-act-00819991",
+      "source": "Politico"
+    },
+    {
+      "name": "The Department Of Defense",
+      "count": 9,
+      "url": "https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 8,
+      "url": "https://www.foxnews.com/politics/iran-conflict-could-push-gop-needs-2nd-big-beautiful-bill",
+      "source": "Fox News"
+    },
+    {
+      "name": "Supreme Leader",
+      "count": 8,
+      "url": "https://www.nbcnews.com/video/shorts/iran-s-new-supreme-leader-delivers-first-public-message-259203141570",
+      "source": "NBC News"
+    },
+    {
+      "name": "The White House",
+      "count": 8,
+      "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
+      "source": "Politico"
+    },
+    {
+      "name": "Guardian News",
+      "count": 7,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
+      "name": "Iran",
+      "count": 85,
+      "url": "https://www.nytimes.com/2026/03/13/briefing/a-dangerous-bottleneck.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Us",
-      "count": 84,
+      "count": 79,
       "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/13/chinamaxxing-social-media-trend-gen-z-china-us",
       "source": "The Guardian"
     },
     {
-      "name": "Iran",
-      "count": 68,
-      "url": "https://www.nytimes.com/2026/03/12/world/middleeast/iran-mines-strait-of-hormuz-us.html",
-      "source": "NY Times"
-    },
-    {
       "name": "U.S.",
-      "count": 34,
-      "url": "https://www.nytimes.com/2026/03/12/world/middleeast/iran-mines-strait-of-hormuz-us.html",
+      "count": 44,
+      "url": "https://www.nytimes.com/2026/03/12/us/michigan-synagogue-shooting-temple-israel.html",
       "source": "NY Times"
     },
     {
-      "name": "California",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/03/12/us/death-valley-superbloom.html",
-      "source": "NY Times"
+      "name": "Iraq",
+      "count": 18,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/13/trump-iran-weakness",
+      "source": "The Guardian"
     },
     {
       "name": "Michigan",
       "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/mar/12/temple-israel-synagogue-shooter-police",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Russia",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html",
+      "url": "https://www.nytimes.com/2026/03/13/us/antisemitism-michigan-synogogue.html",
       "source": "NY Times"
     },
     {
-      "name": "Israel",
-      "count": 15,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Italy Supports",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Texas",
-      "count": 11,
-      "url": "https://www.theguardian.com/music/2026/mar/11/gen-z-women-country-music",
+      "name": "California",
+      "count": 16,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/13/inside-the-pitt-the-stunning-smash-hit-medical-drama-from-the-team-behind-er",
       "source": "The Guardian"
     },
     {
-      "name": "Germany",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
+      "name": "The United States Of America",
+      "count": 16,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/13/donald-trump-us-marco-rubio-shoes-too-big",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Temple Israel",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/03/12/us/michigan-synagogue-shooting-temple-israel.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/03/13/us/politics/joaquin-castro-immigration-detention-texas.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Lebanon",
+      "count": 12,
+      "url": "https://www.washingtonpost.com/nation/2026/03/12/temple-israel-synagogue-michigan-attack/",
+      "source": "Washington Post"
     }
   ],
-  "updated": "2026-03-13T07:49:57Z"
+  "updated": "2026-03-13T14:02:33Z"
 };

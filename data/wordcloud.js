@@ -2,263 +2,283 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    86,
+    105,
     "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
   ],
   [
     "iran",
-    71,
+    87,
     "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
   ],
   [
     "war",
-    60,
+    61,
     "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
-  ],
-  [
-    "prices",
-    45,
-    "https://www.theguardian.com/world/2026/mar/13/iran-war-oil-prices-russian-sanctions-lifted"
   ],
   [
     "sleep",
     44,
-    "https://www.theguardian.com/music/2026/mar/12/morrissey-cancels-valencia-concert-catatonic-state-noise-las-fallas"
-  ],
-  [
-    "oil",
-    42,
-    "https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html"
+    "https://www.theguardian.com/science/2026/mar/13/how-the-colour-of-light-could-be-used-to-treat-mental-illness-norway"
   ],
   [
     "president",
-    29,
+    42,
     "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
   ],
   [
-    "israel",
-    26,
-    "https://www.nytimes.com/2026/03/12/us/temple-israel-west-bloomfield-synagogue.html"
-  ],
-  [
-    "california",
-    24,
-    "https://www.nytimes.com/2026/03/12/us/death-valley-superbloom.html"
+    "prices",
+    30,
+    "https://www.nytimes.com/2026/03/13/business/economy/consumer-prices-inflation-pce-february.html"
   ],
   [
     "military",
-    24,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    30,
+    "https://www.nytimes.com/2026/03/12/world/canada/canada-military-arctic-trump.html"
   ],
   [
-    "suspect",
+    "members",
+    24,
+    "https://www.theguardian.com/commentisfree/2026/mar/13/trump-iran-weakness"
+  ],
+  [
+    "hegseth",
     23,
+    "https://www.nytimes.com/2026/03/13/us/politics/hegseth-iran-war-rules.html"
+  ],
+  [
+    "oil",
+    23,
+    "https://www.nytimes.com/2026/03/13/podcasts/the-headlines/trump-russia-oil-chatbots-health-records.html"
+  ],
+  [
+    "israel",
+    23,
+    "https://www.nytimes.com/2026/03/12/us/michigan-synagogue-shooting-temple-israel.html"
+  ],
+  [
+    "israeli",
+    22,
     "https://www.washingtonpost.com/nation/2026/03/12/temple-israel-synagogue-michigan-attack/"
   ],
   [
-    "middle",
-    23,
-    "https://www.theguardian.com/wellness/2026/mar/12/how-to-find-the-meaning-of-life"
-  ],
-  [
-    "gas",
-    23,
-    "https://www.theguardian.com/world/2026/mar/13/everything-is-a-political-weapon-since-trumps-re-election-says-germanys-ex-economy-minister"
-  ],
-  [
-    "global",
-    22,
-    "https://www.nytimes.com/2026/03/12/world/middleeast/iran-mines-strait-of-hormuz-us.html"
-  ],
-  [
-    "attack",
-    22,
-    "https://www.nytimes.com/2026/03/12/us/antisemitism-synagogue-attack-michigan.html"
-  ],
-  [
-    "bill",
-    22,
-    "https://www.nytimes.com/2026/03/12/us/elections/florida-voting-citizenship-proof-bill.html"
-  ],
-  [
-    "country",
-    22,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "media",
-    22,
-    "https://www.theguardian.com/world/ng-interactive/2026/mar/13/chinamaxxing-social-media-trend-gen-z-china-us"
-  ],
-  [
-    "synagogue",
+    "killed",
     21,
-    "https://www.nytimes.com/2026/03/12/us/antisemitism-synagogue-attack-michigan.html"
+    "https://www.nytimes.com/2026/03/12/us/michigan-synagogue-shooting-temple-israel.html"
   ],
   [
-    "administration",
-    21,
-    "https://www.nytimes.com/2026/03/12/us/politics/trump-lawsuits-settlements.html"
+    "defense",
+    20,
+    "https://www.nytimes.com/2026/03/13/us/politics/hegseth-iran-war-rules.html"
+  ],
+  [
+    "secretary",
+    20,
+    "https://www.nytimes.com/2026/03/13/us/politics/hegseth-iran-war-rules.html"
   ],
   [
     "fire",
-    21,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "social",
-    21,
-    "https://www.theguardian.com/world/ng-interactive/2026/mar/13/chinamaxxing-social-media-trend-gen-z-china-us"
-  ],
-  [
-    "strait",
     20,
-    "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
+    "https://www.nytimes.com/2026/03/13/us/politics/hegseth-iran-war-rules.html"
   ],
   [
-    "black",
+    "american",
     20,
-    "https://www.nytimes.com/2026/03/12/us/politics/illinois-senate-primary-stratton-kelly-krishnamoorthi.html"
+    "https://www.nytimes.com/2026/03/13/magazine/iran-trump-regime-change-history-eisenhower.html"
   ],
   [
-    "act",
+    "iranian",
     20,
-    "https://www.nytimes.com/2026/03/12/us/shooting-old-dominion-university.html"
+    "https://www.theguardian.com/world/2026/mar/12/tehran-diary-dark-and-bitter-the-terror-of-life-under-us-bombardment"
+  ],
+  [
+    "attack",
+    19,
+    "https://www.nytimes.com/2026/03/13/us/antisemitism-michigan-synogogue.html"
   ],
   [
     "security",
-    20,
-    "https://www.washingtonpost.com/nation/2026/03/12/temple-israel-synagogue-michigan-attack/"
-  ],
-  [
-    "game",
-    20,
-    "https://www.theguardian.com/games/2026/mar/12/parseword-wordle-creator-new-game-cryptic-crossword"
-  ],
-  [
-    "energy",
-    20,
-    "https://www.theguardian.com/world/2026/mar/13/everything-is-a-political-weapon-since-trumps-re-election-says-germanys-ex-economy-minister"
-  ],
-  [
-    "night",
     19,
-    "https://www.nytimes.com/2026/03/13/arts/television/late-night-war-excursion-both.html"
+    "https://www.nytimes.com/2026/03/13/us/antisemitism-michigan-synogogue.html"
   ],
   [
-    "east",
+    "media",
     19,
-    "https://www.theguardian.com/world/live/2026/mar/13/iran-war-news-live-updates-us-israel-middle-east-crisis-latest"
+    "https://www.theguardian.com/world/ng-interactive/2026/mar/13/chinamaxxing-social-media-trend-gen-z-china-us"
   ],
   [
     "video",
     19,
-    "https://www.theguardian.com/games/2026/mar/12/marathon-is-a-stylishly-merciless-video-game-built-for-cut-throat-times"
+    "https://www.theguardian.com/world/video/2026/mar/13/ghost-town-lebanon-city-deserted-amid-israeli-airstrikes-video-dispatch"
   ],
   [
-    "hormuz",
+    "administration",
     18,
-    "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
+    "https://www.nytimes.com/2026/03/13/world/americas/cuba-us-talks-trump-oil.html"
   ],
   [
-    "israeli",
+    "synagogue",
     18,
-    "https://www.nytimes.com/2026/03/12/us/antisemitism-synagogue-attack-michigan.html"
+    "https://www.nytimes.com/2026/03/13/us/antisemitism-michigan-synogogue.html"
   ],
   [
-    "university",
+    "team",
     18,
-    "https://www.nytimes.com/2026/03/12/us/shooting-old-dominion-university.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "attacks",
+    "iraq",
     18,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.theguardian.com/commentisfree/2026/mar/13/trump-iran-weakness"
   ],
   [
-    "donald",
+    "political",
     18,
-    "https://www.theguardian.com/politics/audio/2026/mar/13/could-the-us-military-turn-on-trump-podcast"
+    "https://www.theguardian.com/commentisfree/2026/mar/13/king-charles-state-visit-us-donald-trump-military"
   ],
   [
-    "american",
+    "ago",
     18,
-    "https://www.theguardian.com/us-news/2026/mar/13/trump-news-at-a-glance-briefing-latest-updates"
+    "https://www.theguardian.com/technology/2026/mar/13/anthropic-pentagon-artificial-intelligence"
   ],
   [
-    "family",
+    "leader",
     18,
-    "https://www.theguardian.com/commentisfree/2026/mar/13/ireland-basic-income-artist-scheme-pilot"
+    "https://www.theguardian.com/world/2026/mar/13/taoiseach-st-patricks-day-visit-washington-trump"
   ],
   [
-    "company",
-    17,
-    "https://www.nytimes.com/2026/03/13/business/honda-scraps-plans-for-evs-while-start-ups-forge-ahead.html"
+    "trying",
+    18,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/13/honduras-family-immigration-deportation"
   ],
   [
     "michigan",
     17,
-    "https://www.theguardian.com/us-news/2026/mar/12/temple-israel-synagogue-shooter-police"
+    "https://www.nytimes.com/2026/03/13/us/antisemitism-michigan-synogogue.html"
   ],
   [
-    "health",
+    "death",
     17,
-    "https://www.theguardian.com/technology/2026/mar/12/social-media-addiction-trial"
+    "https://www.nytimes.com/2026/03/13/opinion/death-penalty-comeback.html"
   ],
   [
-    "states",
-    16,
-    "https://www.nytimes.com/2026/03/12/us/politics/trump-lawsuits-settlements.html"
+    "family",
+    17,
+    "https://www.washingtonpost.com/nation/2026/03/12/temple-israel-synagogue-michigan-attack/"
   ],
   [
-    "senate",
-    16,
-    "https://www.nytimes.com/2026/03/12/us/politics/illinois-senate-primary-stratton-kelly-krishnamoorthi.html"
+    "donald",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/mar/13/king-charles-state-visit-us-donald-trump-military"
   ],
   [
-    "win",
-    16,
-    "https://www.nytimes.com/2026/03/12/movies/oscar-academy-awards-predictions-odds.html"
+    "strikes",
+    17,
+    "https://www.theguardian.com/world/video/2026/mar/13/ghost-town-lebanon-city-deserted-amid-israeli-airstrikes-video-dispatch"
   ],
   [
-    "political",
-    16,
-    "https://www.theguardian.com/world/2026/mar/12/tehran-diary-dark-and-bitter-the-terror-of-life-under-us-bombardment"
+    "watch",
+    17,
+    "https://www.theguardian.com/film/2026/mar/13/oscars-2026-how-to-watch-nominations-predictions-what-to-read"
   ],
   [
-    "trying",
+    "night",
     16,
-    "https://www.theguardian.com/world/2026/mar/13/unfamiliar-netflix-germany-spy-agency-bnd"
+    "https://www.nytimes.com/2026/03/13/arts/television/late-night-war-excursion-both.html"
   ],
   [
-    "texas",
+    "global",
     16,
-    "https://www.theguardian.com/music/2026/mar/11/gen-z-women-country-music"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "country",
+    16,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "least",
+    16,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "game",
+    16,
+    "https://www.theguardian.com/sport/2026/mar/13/detroit-pistons-new-bad-boys-cade-cunningham-defense-resurgence"
+  ],
+  [
+    "died",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/13/oldest-known-organ-donor-age-100"
+  ],
+  [
+    "california",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/13/inside-the-pitt-the-stunning-smash-hit-medical-drama-from-the-team-behind-er"
+  ],
+  [
+    "masks",
+    16,
+    "https://www.theguardian.com/sport/2026/mar/13/run-nation-power-slap-carjitsu-tgl-golf-typti-sports-exploitation"
+  ],
+  [
+    "plane",
+    16,
+    "https://www.theguardian.com/business/2026/mar/13/bailiffs-board-ryanair-plane-after-airline-refused-to-pay-compensation-over-delayed-flight"
+  ],
+  [
+    "bill",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed"
   ],
   [
     "government",
     15,
-    "https://www.nytimes.com/video/us/elections/100000010766599/trump-false-claim-election-stolen-impact-2026-midterms.html"
+    "https://www.nytimes.com/2026/03/12/world/canada/canada-military-arctic-trump.html"
   ],
   [
-    "shooting",
+    "texas",
     15,
-    "https://www.nytimes.com/2026/03/12/us/shooting-old-dominion-university.html"
+    "https://www.nytimes.com/2026/03/13/us/politics/joaquin-castro-immigration-detention-texas.html"
   ],
   [
-    "team",
+    "suspect",
     15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.washingtonpost.com/nation/2026/03/12/temple-israel-synagogue-michigan-attack/"
   ],
   [
-    "really",
+    "spent",
     15,
-    "https://www.theguardian.com/wellness/2026/mar/12/how-to-find-the-meaning-of-life"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "review",
+    "playing",
     15,
-    "https://www.theguardian.com/stage/2026/mar/12/every-brilliant-thing-daniel-radcliffe-broadway"
+    "https://www.theguardian.com/world/ng-interactive/2026/mar/13/chinamaxxing-social-media-trend-gen-z-china-us"
+  ],
+  [
+    "states",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/mar/13/king-charles-state-visit-us-donald-trump-military"
+  ],
+  [
+    "middle",
+    15,
+    "https://www.theguardian.com/us-news/live/2026/mar/13/donald-trump-iran-military-hegseth-caine-immigration-voter-id-latest-news-updates"
+  ],
+  [
+    "democrats",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/13/trump-tariffs-poll"
+  ],
+  [
+    "oscars",
+    15,
+    "https://www.theguardian.com/film/2026/mar/13/oscars-2026-how-to-watch-nominations-predictions-what-to-read"
+  ],
+  [
+    "winter",
+    15,
+    "https://www.theguardian.com/sport/2026/mar/12/snow-joke-winter-paralympics-athletes-angry-at-scheduling-as-big-thaw-hits"
   ],
   [
     "games",
@@ -266,34 +286,24 @@
     "https://www.theguardian.com/sport/2026/mar/12/snow-joke-winter-paralympics-athletes-angry-at-scheduling-as-big-thaw-hits"
   ],
   [
-    "having",
+    "supreme",
     15,
-    "https://www.theguardian.com/environment/2026/mar/12/london-san-francisco-and-beijing-achieve-remarkable-reductions-in-air-pollution"
+    "https://www.theguardian.com/film/2026/mar/13/why-marty-supreme-should-win-the-best-picture-oscar"
   ],
   [
-    "masks",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale"
-  ],
-  [
-    "russia",
+    "strait",
     14,
-    "https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html"
+    "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
   ],
   [
-    "america",
+    "health",
     14,
-    "https://www.nytimes.com/2026/03/12/us/temple-israel-west-bloomfield-synagogue.html"
+    "https://www.nytimes.com/2026/03/13/podcasts/the-headlines/trump-russia-oil-chatbots-health-records.html"
   ],
   [
-    "season",
+    "gaza",
     14,
-    "https://www.nytimes.com/2026/03/12/movies/oscar-academy-awards-predictions-odds.html"
-  ],
-  [
-    "dead",
-    14,
-    "https://www.washingtonpost.com/nation/2026/03/12/temple-israel-synagogue-michigan-attack/"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "chinese",
@@ -301,39 +311,39 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "spent",
-    14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "least",
-    14,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "water",
+    "social",
     14,
     "https://www.theguardian.com/world/ng-interactive/2026/mar/13/chinamaxxing-social-media-trend-gen-z-china-us"
   ],
   [
-    "became",
+    "politics",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/13/experience-suffered-terrible-burns-child-became-firefighter"
+    "https://www.theguardian.com/us-news/live/2026/mar/13/donald-trump-iran-military-hegseth-caine-immigration-voter-id-latest-news-updates"
   ],
   [
-    "housing",
+    "today",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed"
+    "https://www.theguardian.com/us-news/live/2026/mar/13/donald-trump-iran-military-hegseth-caine-immigration-voter-id-latest-news-updates"
+  ],
+  [
+    "season",
+    14,
+    "https://www.theguardian.com/film/2026/mar/13/oscars-2026-how-to-watch-nominations-predictions-what-to-read"
+  ],
+  [
+    "style",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/13/inside-the-pitt-the-stunning-smash-hit-medical-drama-from-the-team-behind-er"
+  ],
+  [
+    "fashion",
+    14,
+    "https://www.theguardian.com/sport/ng-interactive/2026/mar/05/winter-paralympics-results-from-milano-cortina-2026"
   ],
   [
     "actually",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/feb/25/chatgpt-writing-competition"
-  ],
-  [
-    "little",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/feb/25/chatgpt-writing-competition"
+    "https://www.theguardian.com/football/2026/mar/13/call-it-the-rodman-rule-or-hip-the-nwsls-new-initiative-is-already-impacting-rosters"
   ],
   [
     "filter",
@@ -341,38 +351,28 @@
     "https://www.theguardian.com/thefilter-us/2026/mar/12/best-no-plastic-cutting-boards"
   ],
   [
-    "buying",
+    "refueling",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/mar/12/best-no-plastic-cutting-boards"
+    "https://www.npr.org/2026/03/13/g-s1-113563/us-iran-war"
   ],
   [
-    "conflict",
+    "hormuz",
     13,
-    "https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html"
+    "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
   ],
   [
-    "early",
+    "dead",
     13,
-    "https://www.nytimes.com/2026/03/12/us/temple-israel-west-bloomfield-synagogue.html"
+    "https://www.nytimes.com/2026/03/12/us/michigan-synagogue-shooting-temple-israel.html"
   ],
   [
-    "policy",
+    "academy",
     13,
-    "https://www.nytimes.com/2026/03/12/us/politics/trump-lawsuits-settlements.html"
+    "https://www.nytimes.com/2026/03/13/movies/oscars-2026-best-picture-nominees.html"
   ],
   [
-    "case",
+    "led",
     13,
-    "https://www.nytimes.com/2026/03/12/nyregion/gateway-hudson-tunnel-project-trump-funding.html"
-  ],
-  [
-    "americans",
-    13,
-    "https://www.nytimes.com/2026/03/13/arts/television/late-night-war-excursion-both.html"
-  ],
-  [
-    "crisis",
-    13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/03/13/us/politics/a-lot-of-life-years-lost-how-nafta-shortened-american-life-spans.html"
   ]
 ];
