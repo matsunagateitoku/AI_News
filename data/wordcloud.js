@@ -2,18 +2,18 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "iran",
-    75,
-    "https://www.nytimes.com/2026/03/12/business/economy/iran-oil-shock-economy-global-impact.html"
-  ],
-  [
-    "war",
-    68,
-    "https://www.nytimes.com/2026/03/12/business/economy/iran-oil-shock-economy-global-impact.html"
+    78,
+    "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
   ],
   [
     "trump",
-    63,
-    "https://www.nytimes.com/2026/03/12/us/politics/senate-housing-bill.html"
+    77,
+    "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
+  ],
+  [
+    "war",
+    69,
+    "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
   ],
   [
     "sleep",
@@ -22,178 +22,213 @@
   ],
   [
     "oil",
-    31,
-    "https://www.nytimes.com/2026/03/12/business/economy/iran-oil-shock-economy-global-impact.html"
-  ],
-  [
-    "company",
-    28,
-    "https://www.theguardian.com/us-news/2026/mar/12/epa-chief-bayer-ceo-supreme-court"
-  ],
-  [
-    "security",
-    25,
-    "https://www.theguardian.com/lifeandstyle/2026/feb/25/chatgpt-writing-competition"
-  ],
-  [
-    "senate",
-    24,
-    "https://www.nytimes.com/2026/03/12/us/politics/senate-housing-bill.html"
-  ],
-  [
-    "game",
-    24,
-    "https://www.theguardian.com/sport/2026/mar/12/nba-magic-city-atlanta-hawks-theme-night"
-  ],
-  [
-    "middle",
-    23,
-    "https://www.nytimes.com/video/business/100000010764105/why-does-oil-matter-so-much-to-the-global-economy.html"
-  ],
-  [
-    "president",
-    23,
-    "https://www.nytimes.com/2026/03/12/us/politics/senate-housing-bill.html"
-  ],
-  [
-    "country",
-    23,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    38,
+    "https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html"
   ],
   [
     "prices",
-    21,
-    "https://www.nytimes.com/video/business/100000010764105/why-does-oil-matter-so-much-to-the-global-economy.html"
-  ],
-  [
-    "bill",
-    21,
-    "https://www.nytimes.com/2026/03/12/us/politics/senate-housing-bill.html"
-  ],
-  [
-    "democratic",
-    21,
-    "https://www.nytimes.com/2026/03/12/us/politics/illinois-senate-primary-stratton-kelly-krishnamoorthi.html"
-  ],
-  [
-    "michigan",
-    21,
-    "https://www.theguardian.com/us-news/2026/mar/12/temple-israel-synagogue-shooter-police"
-  ],
-  [
-    "synagogue",
-    21,
-    "https://www.theguardian.com/us-news/2026/mar/12/temple-israel-synagogue-shooter-police"
-  ],
-  [
-    "cbs",
-    21,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-03-09/cbs-news-scott-macfalane-leaves-network-what-to-know"
-  ],
-  [
-    "team",
-    20,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "iranian",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/mar/12/us-israel-iran-war-trump-american-values"
-  ],
-  [
-    "east",
-    19,
-    "https://www.nytimes.com/video/business/100000010764105/why-does-oil-matter-so-much-to-the-global-economy.html"
+    35,
+    "https://www.theguardian.com/us-news/2026/mar/12/trump-gas-prices-iran-war"
   ],
   [
     "attack",
-    19,
-    "https://www.nytimes.com/2026/03/12/nyregion/gracie-mansion-attack-nyc.html"
+    28,
+    "https://www.nytimes.com/2026/03/12/us/antisemitism-synagogue-attack-michigan.html"
   ],
   [
-    "texas",
-    19,
-    "https://www.nytimes.com/2026/03/12/us/texas-ice-shooting-south-padre-video.html"
+    "president",
+    27,
+    "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
   ],
   [
-    "family",
-    19,
-    "https://www.nytimes.com/2026/03/12/us/texas-ice-shooting-south-padre-video.html"
+    "bill",
+    26,
+    "https://www.nytimes.com/2026/03/12/us/elections/florida-voting-citizenship-proof-bill.html"
   ],
   [
-    "media",
-    19,
-    "https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html"
+    "synagogue",
+    24,
+    "https://www.nytimes.com/2026/03/12/us/antisemitism-synagogue-attack-michigan.html"
   ],
   [
     "california",
-    19,
+    24,
     "https://www.nytimes.com/2026/03/12/us/death-valley-superbloom.html"
   ],
   [
-    "israel",
-    19,
+    "military",
+    23,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "american",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/mar/12/us-israel-iran-war-trump-american-values"
-  ],
-  [
-    "supreme",
-    18,
-    "https://www.theguardian.com/us-news/2026/mar/12/epa-chief-bayer-ceo-supreme-court"
+    "media",
+    23,
+    "https://www.theguardian.com/world/live/2026/mar/13/iran-war-news-live-updates-us-israel-middle-east-crisis-latest"
   ],
   [
     "global",
-    17,
-    "https://www.nytimes.com/video/business/100000010764105/why-does-oil-matter-so-much-to-the-global-economy.html"
+    22,
+    "https://www.nytimes.com/2026/03/12/world/middleeast/iran-mines-strait-of-hormuz-us.html"
   ],
   [
-    "black",
-    17,
-    "https://www.nytimes.com/2026/03/12/us/politics/illinois-senate-primary-stratton-kelly-krishnamoorthi.html"
+    "israel",
+    22,
+    "https://www.nytimes.com/2026/03/12/us/temple-israel-west-bloomfield-synagogue.html"
   ],
   [
-    "food",
-    17,
-    "https://www.nytimes.com/2026/03/12/dining/best-food-movie-scenes.html"
+    "michigan",
+    22,
+    "https://www.nytimes.com/2026/03/12/briefing/iran-new-leader-housing-bill.html"
   ],
   [
-    "shooting",
-    17,
-    "https://www.nytimes.com/2026/03/12/us/texas-ice-shooting-south-padre-video.html"
+    "country",
+    22,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "social",
-    17,
-    "https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html"
-  ],
-  [
-    "dead",
-    17,
-    "https://www.nytimes.com/2026/03/12/us/shooting-old-dominion-university.html"
-  ],
-  [
-    "really",
-    17,
+    "middle",
+    22,
     "https://www.theguardian.com/wellness/2026/mar/12/how-to-find-the-meaning-of-life"
   ],
   [
+    "social",
+    22,
+    "https://www.theguardian.com/world/live/2026/mar/13/iran-war-news-live-updates-us-israel-middle-east-crisis-latest"
+  ],
+  [
+    "video",
+    22,
+    "https://www.theguardian.com/world/2026/mar/12/japan-butsukari-otoko-bumping-man-trend-explained-tokyo-girl-shoved"
+  ],
+  [
     "strait",
+    21,
+    "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
+  ],
+  [
+    "act",
+    21,
+    "https://www.nytimes.com/2026/03/12/us/shooting-old-dominion-university.html"
+  ],
+  [
+    "company",
+    21,
+    "https://www.theguardian.com/world/2026/mar/12/iran-group-hack-medical-company-minab-school"
+  ],
+  [
+    "game",
+    21,
+    "https://www.theguardian.com/games/2026/mar/12/parseword-wordle-creator-new-game-cryptic-crossword"
+  ],
+  [
+    "security",
+    20,
+    "https://www.washingtonpost.com/nation/2026/03/12/temple-israel-synagogue-michigan-attack/"
+  ],
+  [
+    "suspect",
+    20,
+    "https://www.washingtonpost.com/nation/2026/03/12/temple-israel-synagogue-michigan-attack/"
+  ],
+  [
+    "east",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/mar/12/us-israel-iran-war-trump-american-values"
+  ],
+  [
+    "israeli",
+    19,
+    "https://www.nytimes.com/2026/03/12/us/antisemitism-synagogue-attack-michigan.html"
+  ],
+  [
+    "gas",
+    19,
+    "https://www.theguardian.com/us-news/2026/mar/12/trump-gas-prices-iran-war"
+  ],
+  [
+    "hormuz",
+    18,
+    "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
+  ],
+  [
+    "states",
+    18,
+    "https://www.nytimes.com/2026/03/12/us/politics/trump-lawsuits-settlements.html"
+  ],
+  [
+    "administration",
+    18,
+    "https://www.nytimes.com/2026/03/12/us/politics/trump-lawsuits-settlements.html"
+  ],
+  [
+    "black",
+    18,
+    "https://www.nytimes.com/2026/03/12/us/politics/illinois-senate-primary-stratton-kelly-krishnamoorthi.html"
+  ],
+  [
+    "university",
+    18,
+    "https://www.nytimes.com/2026/03/12/us/shooting-old-dominion-university.html"
+  ],
+  [
+    "family",
+    18,
+    "https://www.theguardian.com/world/live/2026/mar/13/iran-war-news-live-updates-us-israel-middle-east-crisis-latest"
+  ],
+  [
+    "attacks",
     17,
-    "https://www.theguardian.com/world/live/2026/mar/12/iran-war-live-updates-oil-trump-middle-east-crisis-israel-lebanon-iraq-latest-news"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "military",
-    16,
-    "https://www.nytimes.com/2026/03/12/us/politics/hegseth-iran-war.html"
+    "energy",
+    17,
+    "https://www.theguardian.com/business/2026/mar/12/middle-east-war-creating-largest-supply-disruption-in-the-history-of-oil-markets"
   ],
   [
-    "supply",
+    "donald",
+    17,
+    "https://www.theguardian.com/us-news/2026/mar/12/trump-gas-prices-iran-war"
+  ],
+  [
+    "night",
+    17,
+    "https://www.theguardian.com/culture/2026/mar/12/late-night-seth-meyers-pete-hegseth-iran-war"
+  ],
+  [
+    "senate",
     16,
-    "https://www.theguardian.com/world/live/2026/mar/12/iran-war-live-updates-oil-trump-middle-east-crisis-israel-lebanon-iraq-latest-news"
+    "https://www.nytimes.com/2026/03/12/us/politics/illinois-senate-primary-stratton-kelly-krishnamoorthi.html"
+  ],
+  [
+    "win",
+    16,
+    "https://www.nytimes.com/2026/03/12/movies/oscar-academy-awards-predictions-odds.html"
+  ],
+  [
+    "season",
+    16,
+    "https://www.nytimes.com/2026/03/12/movies/oscar-academy-awards-predictions-odds.html"
+  ],
+  [
+    "team",
+    16,
+    "https://www.nytimes.com/2026/03/12/science/moon-red-alert-close-call.html"
+  ],
+  [
+    "spent",
+    16,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "fire",
+    16,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "really",
+    16,
+    "https://www.theguardian.com/wellness/2026/mar/12/how-to-find-the-meaning-of-life"
   ],
   [
     "filter",
@@ -206,24 +241,24 @@
     "https://www.theguardian.com/thefilter-us/2026/mar/12/best-no-plastic-cutting-boards"
   ],
   [
-    "energy",
-    15,
-    "https://www.nytimes.com/video/business/100000010764105/why-does-oil-matter-so-much-to-the-global-economy.html"
+    "health",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/mar/12/best-no-plastic-cutting-boards"
   ],
   [
-    "region",
-    15,
-    "https://www.nytimes.com/2026/03/12/world/americas/chile-kast-conservatism-trump.html"
+    "texas",
+    16,
+    "https://www.theguardian.com/music/2026/mar/11/gen-z-women-country-music"
   ],
   [
-    "released",
+    "shooting",
     15,
-    "https://www.nytimes.com/2026/03/12/us/texas-ice-shooting-south-padre-video.html"
+    "https://www.nytimes.com/2026/03/12/us/shooting-old-dominion-university.html"
   ],
   [
-    "killed",
+    "american",
     15,
-    "https://www.washingtonpost.com/nation/2026/03/10/charles-burton-death-sentence-commuted/"
+    "https://www.theguardian.com/commentisfree/2026/mar/12/us-israel-iran-war-trump-american-values"
   ],
   [
     "actually",
@@ -231,19 +266,24 @@
     "https://www.theguardian.com/lifeandstyle/2026/feb/25/chatgpt-writing-competition"
   ],
   [
-    "little",
+    "games",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/feb/25/chatgpt-writing-competition"
+    "https://www.theguardian.com/sport/2026/mar/12/snow-joke-winter-paralympics-athletes-angry-at-scheduling-as-big-thaw-hits"
   ],
   [
-    "place",
+    "trying",
     15,
-    "https://www.theguardian.com/world/2026/mar/12/japan-butsukari-otoko-bumping-man-trend-explained-tokyo-girl-shoved"
+    "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud"
   ],
   [
-    "fashion",
+    "having",
     15,
-    "https://www.theguardian.com/sport/ng-interactive/2026/mar/05/winter-paralympics-results-from-milano-cortina-2026"
+    "https://www.theguardian.com/environment/2026/mar/12/london-san-francisco-and-beijing-achieve-remarkable-reductions-in-air-pollution"
+  ],
+  [
+    "music",
+    15,
+    "https://www.theguardian.com/music/2026/mar/12/the-black-crowes-a-pound-of-feathers-review"
   ],
   [
     "masks",
@@ -251,49 +291,39 @@
     "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale"
   ],
   [
-    "because",
+    "conflict",
     14,
-    "https://www.nytimes.com/2026/03/12/nyregion/gateway-hudson-tunnel-project-trump-funding.html"
+    "https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html"
   ],
   [
-    "season",
+    "government",
     14,
-    "https://www.nytimes.com/2026/03/12/movies/oscar-academy-awards-predictions-odds.html"
+    "https://www.nytimes.com/video/us/elections/100000010766599/trump-false-claim-election-stolen-impact-2026-midterms.html"
   ],
   [
-    "political",
+    "launch",
     14,
-    "https://www.nytimes.com/2026/03/12/world/americas/trump-maria-corina-machado-venezuela.html"
+    "https://www.nytimes.com/2026/03/12/science/nasa-moon-artemis-launch-april.html"
   ],
   [
-    "university",
+    "chinese",
     14,
-    "https://www.nytimes.com/2026/03/12/us/shooting-old-dominion-university.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "americans",
+    "led",
     14,
-    "https://www.washingtonpost.com/nation/2026/03/12/americans-cut-costs-health-care/"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "israeli",
+    "released",
     14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "spent",
+    "least",
     14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "attacks",
-    14,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "past",
-    14,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
     "experts",
@@ -301,78 +331,48 @@
     "https://www.theguardian.com/wellness/2026/mar/12/how-to-find-the-meaning-of-life"
   ],
   [
-    "night",
+    "housing",
     14,
-    "https://www.theguardian.com/sport/2026/mar/12/nba-magic-city-atlanta-hawks-theme-night"
-  ],
-  [
-    "name",
-    14,
-    "https://www.theguardian.com/sport/2026/mar/12/nba-magic-city-atlanta-hawks-theme-night"
-  ],
-  [
-    "hormuz",
-    14,
-    "https://www.theguardian.com/world/live/2026/mar/12/iran-war-live-updates-oil-trump-middle-east-crisis-israel-lebanon-iraq-latest-news"
-  ],
-  [
-    "court",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/12/epa-chief-bayer-ceo-supreme-court"
-  ],
-  [
-    "having",
-    14,
-    "https://www.theguardian.com/music/2026/mar/12/morrissey-cancels-valencia-concert-catatonic-state-noise-las-fallas"
-  ],
-  [
-    "pentagon",
-    14,
-    "https://www.theguardian.com/technology/2026/mar/12/microsoft-amicus-brief-anthropic-pentagon"
+    "https://www.theguardian.com/us-news/2026/mar/12/senate-housing-bill-passed"
   ],
   [
     "water",
     14,
-    "https://www.theguardian.com/commentisfree/2026/mar/12/war-iran-world-war-3-discussion"
+    "https://www.theguardian.com/world/ng-interactive/2026/mar/13/chinamaxxing-social-media-trend-gen-z-china-us"
   ],
   [
-    "leader",
+    "place",
     14,
-    "https://www.theguardian.com/commentisfree/2026/mar/12/the-guardian-view-on-the-cost-of-trumps-war-the-worlds-poor-will-pay-most-dearly"
+    "https://www.theguardian.com/world/ng-interactive/2026/mar/13/chinamaxxing-social-media-trend-gen-z-china-us"
   ],
   [
-    "democrats",
+    "name",
     14,
-    "https://www.foxnews.com/politics/dems-vote-keep-dhs-closed-despite-airport-chaos-iranian-sleeper-cell-threat"
+    "https://www.theguardian.com/games/2026/mar/12/parseword-wordle-creator-new-game-cryptic-crossword"
   ],
   [
-    "health",
-    13,
-    "https://www.washingtonpost.com/nation/2026/03/12/americans-cut-costs-health-care/"
-  ],
-  [
-    "congress",
-    13,
-    "https://www.washingtonpost.com/immigration/2026/03/11/julie-le-doj-immigration-lawyer-congress-minneapolis/"
-  ],
-  [
-    "rep",
-    13,
-    "https://www.washingtonpost.com/immigration/2026/03/11/julie-le-doj-immigration-lawyer-congress-minneapolis/"
+    "americans",
+    14,
+    "https://www.theguardian.com/sport/2026/mar/11/vinnie-pasquantino-italy-mexico-usa-canada-world-baseball-classic"
   ],
   [
     "early",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/03/12/us/temple-israel-west-bloomfield-synagogue.html"
   ],
   [
-    "working",
+    "case",
     13,
-    "https://www.theguardian.com/world/2026/mar/12/mexico-city-neighborhoods-inequality"
+    "https://www.nytimes.com/2026/03/12/nyregion/gateway-hudson-tunnel-project-trump-funding.html"
   ],
   [
-    "weekly",
+    "terrorism",
     13,
-    "https://www.theguardian.com/world/2026/mar/12/mexico-city-neighborhoods-inequality"
+    "https://www.nytimes.com/2026/03/12/us/shooting-old-dominion-university.html"
+  ],
+  [
+    "non",
+    13,
+    "https://www.nytimes.com/2026/03/12/well/weight-loss-drugs-response-wegovy-zepbound.html"
   ]
 ];
