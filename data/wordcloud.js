@@ -2,148 +2,148 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    126,
-    "https://www.nytimes.com/2026/03/12/business/oil-stock-gas-markets-iran.html"
+    128,
+    "https://www.nytimes.com/2026/03/13/us/politics/trump-seized-oil-tankers-cost.html"
   ],
   [
     "iran",
-    73,
-    "https://www.nytimes.com/2026/03/13/world/middleeast/us-marines-warships-middle-east.html"
+    79,
+    "https://www.nytimes.com/2026/03/14/world/middleeast/what-to-know-about-kharg-island.html"
   ],
   [
     "war",
-    66,
-    "https://www.nytimes.com/2026/03/12/business/oil-stock-gas-markets-iran.html"
+    69,
+    "https://www.nytimes.com/2026/03/13/us/michigan-synagogue-suspect-ghazali.html"
   ],
   [
     "president",
-    49,
-    "https://www.nytimes.com/2026/03/12/business/oil-stock-gas-markets-iran.html"
+    50,
+    "https://www.nytimes.com/2026/03/13/us/politics/trump-seized-oil-tankers-cost.html"
   ],
   [
     "sleep",
-    45,
-    "https://www.theguardian.com/science/2026/mar/13/how-the-colour-of-light-could-be-used-to-treat-mental-illness-norway"
-  ],
-  [
-    "attack",
-    28,
-    "https://www.nytimes.com/2026/03/13/us/temple-israel-michigan-synagogue-staff.html"
-  ],
-  [
-    "california",
-    27,
-    "https://www.theguardian.com/us-news/2026/mar/12/california-heatwave"
-  ],
-  [
-    "oil",
-    25,
-    "https://www.nytimes.com/2026/03/12/business/oil-stock-gas-markets-iran.html"
-  ],
-  [
-    "center",
-    25,
-    "https://www.nytimes.com/2026/03/13/us/airports-ground-stop-dc-baltimore.html"
+    41,
+    "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale"
   ],
   [
     "middle",
-    24,
+    33,
+    "https://www.nytimes.com/2026/03/13/world/middleeast/us-marines-warships-middle-east.html"
+  ],
+  [
+    "attack",
+    30,
+    "https://www.nytimes.com/2026/03/13/us/temple-israel-michigan-synagogue-staff.html"
+  ],
+  [
+    "oil",
+    29,
+    "https://www.nytimes.com/2026/03/14/world/middleeast/what-to-know-about-kharg-island.html"
+  ],
+  [
+    "military",
+    29,
+    "https://www.nytimes.com/2026/03/13/us/old-dominion-shooting-suspect.html"
+  ],
+  [
+    "east",
+    27,
     "https://www.nytimes.com/2026/03/13/world/middleeast/us-marines-warships-middle-east.html"
   ],
   [
     "administration",
-    24,
+    26,
     "https://www.nytimes.com/2026/03/13/world/middleeast/us-marines-warships-middle-east.html"
   ],
   [
-    "military",
-    24,
-    "https://www.nytimes.com/2026/03/13/us/old-dominion-shooting-suspect.html"
-  ],
-  [
-    "team",
-    24,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "health",
-    23,
-    "https://www.theguardian.com/world/2026/mar/13/brazilian-president-lula-forbidden-trump-adviser-darren-beattie-visiting"
+    "california",
+    26,
+    "https://www.theguardian.com/us-news/2026/mar/12/california-heatwave"
   ],
   [
     "judge",
-    22,
+    23,
     "https://www.nytimes.com/2026/03/13/us/politics/jerome-powell-trump-subpoenas.html"
   ],
   [
-    "michigan",
-    21,
-    "https://www.nytimes.com/2026/03/13/us/temple-israel-michigan-synagogue-staff.html"
+    "center",
+    23,
+    "https://www.nytimes.com/2026/03/13/arts/kennedy-center-richard-grenell.html"
   ],
   [
-    "oscars",
-    21,
+    "night",
+    23,
     "https://www.nytimes.com/2026/03/12/podcasts/black-women-one-battle-after-another-oscars.html"
   ],
   [
-    "israeli",
-    21,
-    "https://www.nytimes.com/2026/03/13/opinion/netanyahu-iran-israel-war.html"
-  ],
-  [
     "texas",
-    21,
+    22,
     "https://www.washingtonpost.com/nation/2026/03/13/antifa-trial-verdict-texas-ice/"
   ],
   [
     "security",
+    22,
+    "https://www.theguardian.com/politics/2026/mar/14/yvette-cooper-uk-foreign-secretary-iran-us-war"
+  ],
+  [
+    "team",
     21,
-    "https://www.theguardian.com/commentisfree/2026/mar/13/trump-iran-weakness"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "ago",
+    "health",
     21,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/13/honduras-family-immigration-deportation"
+    "https://www.theguardian.com/world/2026/mar/13/brazilian-president-lula-forbidden-trump-adviser-darren-beattie-visiting"
   ],
   [
-    "east",
-    20,
-    "https://www.nytimes.com/2026/03/13/world/middleeast/us-marines-warships-middle-east.html"
-  ],
-  [
-    "israel",
+    "michigan",
     20,
     "https://www.nytimes.com/2026/03/13/us/temple-israel-michigan-synagogue-staff.html"
   ],
   [
-    "synagogue",
+    "game",
     20,
-    "https://www.nytimes.com/2026/03/13/us/temple-israel-michigan-synagogue-staff.html"
+    "https://www.theguardian.com/sport/2026/mar/13/usa-czechia-paralympic-sled-hockey-semifinal-farmer"
+  ],
+  [
+    "oscars",
+    19,
+    "https://www.nytimes.com/2026/03/12/podcasts/black-women-one-battle-after-another-oscars.html"
   ],
   [
     "american",
     19,
-    "https://www.nytimes.com/2026/03/13/magazine/iran-trump-regime-change-history-eisenhower.html"
+    "https://www.theguardian.com/news/ng-interactive/2026/mar/14/datacentre-boom-is-uk-ai-bubble-about-to-burst"
   ],
   [
-    "death",
+    "iranian",
     19,
-    "https://www.nytimes.com/2026/03/13/us/georgia-teacher-killed-prank-charges-dropped.html"
+    "https://www.theguardian.com/world/live/2026/mar/14/middle-east-crisis-live-iran-warns-of-retaliation-after-trump-says-military-targets-on-kharg-island-obliterated"
   ],
   [
-    "kennedy",
+    "ago",
     19,
-    "https://www.theguardian.com/us-news/2026/mar/13/trump-ric-grenell-kennedy-center"
+    "https://www.theguardian.com/sport/2026/mar/12/alysa-liu-olympics-oakland"
   ],
   [
-    "game",
-    19,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/13/inside-the-pitt-the-stunning-smash-hit-medical-drama-from-the-team-behind-er"
+    "island",
+    18,
+    "https://www.nytimes.com/2026/03/14/world/middleeast/what-to-know-about-kharg-island.html"
   ],
   [
-    "games",
-    19,
-    "https://www.theguardian.com/sport/2026/mar/13/great-haul-of-china-winter-paralympics-milano-cortina"
+    "israel",
+    18,
+    "https://www.nytimes.com/2026/03/13/us/temple-israel-michigan-synagogue-staff.html"
+  ],
+  [
+    "political",
+    18,
+    "https://www.nytimes.com/2026/03/13/us/politics/ai-ads-campaign-deepfake.html"
+  ],
+  [
+    "israeli",
+    18,
+    "https://www.nytimes.com/2026/03/13/opinion/netanyahu-iran-israel-war.html"
   ],
   [
     "charges",
@@ -151,19 +151,39 @@
     "https://www.nytimes.com/2026/03/13/us/antifa-protesters-terrorism.html"
   ],
   [
-    "political",
+    "death",
     18,
-    "https://www.theguardian.com/us-news/2026/mar/13/trumps-racist-hate-speech-human-rights-violations-warn-un-watchdog"
+    "https://www.nytimes.com/2026/03/13/us/georgia-teacher-killed-prank-charges-dropped.html"
   ],
   [
-    "prices",
-    17,
-    "https://www.nytimes.com/2026/03/12/business/oil-stock-gas-markets-iran.html"
+    "country",
+    18,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "night",
+    "secretary",
+    18,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "media",
+    18,
+    "https://www.theguardian.com/world/live/2026/mar/14/middle-east-crisis-live-iran-warns-of-retaliation-after-trump-says-military-targets-on-kharg-island-obliterated"
+  ],
+  [
+    "kennedy",
     17,
-    "https://www.nytimes.com/2026/03/12/podcasts/black-women-one-battle-after-another-oscars.html"
+    "https://www.nytimes.com/2026/03/13/arts/kennedy-center-richard-grenell.html"
+  ],
+  [
+    "synagogue",
+    17,
+    "https://www.nytimes.com/2026/03/13/us/temple-israel-michigan-synagogue-staff.html"
+  ],
+  [
+    "senate",
+    17,
+    "https://www.nytimes.com/2026/03/13/us/berger-page-north-carolina-senate.html"
   ],
   [
     "red",
@@ -171,9 +191,14 @@
     "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "government",
+    "early",
     17,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/13/honduras-family-immigration-deportation"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "actually",
+    17,
+    "https://www.theguardian.com/politics/2026/mar/14/yvette-cooper-uk-foreign-secretary-iran-us-war"
   ],
   [
     "donald",
@@ -181,19 +206,19 @@
     "https://www.theguardian.com/us-news/2026/mar/13/goal-plan-iran-war-military"
   ],
   [
-    "america",
-    16,
-    "https://www.nytimes.com/2026/03/13/us/synagogue-attack-lebanon-family.html"
+    "prices",
+    17,
+    "https://www.theguardian.com/us-news/2026/mar/13/trump-tariffs-poll"
   ],
   [
-    "killed",
-    16,
-    "https://www.nytimes.com/2026/03/13/us/michigan-synagogue-suspect-ghazali.html"
+    "games",
+    17,
+    "https://www.theguardian.com/sport/2026/mar/13/great-haul-of-china-winter-paralympics-milano-cortina"
   ],
   [
-    "latest",
-    16,
-    "https://www.nytimes.com/2026/03/13/business/tiktok-investors-set-to-pay-10-billion-fee-to-trump-administration.html"
+    "buying",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/mar/12/best-no-plastic-cutting-boards"
   ],
   [
     "fire",
@@ -201,22 +226,27 @@
     "https://www.nytimes.com/2026/03/13/us/old-dominion-shooting-gunman-rotc.html"
   ],
   [
-    "oscar",
+    "chinese",
     16,
-    "https://www.nytimes.com/2026/03/13/style/diane-warren-2026-oscar-nominations.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "spent",
+    "hollywood",
     16,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "country",
+    "power",
     16,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/news/ng-interactive/2026/mar/14/datacentre-boom-is-uk-ai-bubble-about-to-burst"
   ],
   [
-    "actually",
+    "conflict",
+    16,
+    "https://www.theguardian.com/politics/2026/mar/14/yvette-cooper-uk-foreign-secretary-iran-us-war"
+  ],
+  [
+    "government",
     16,
     "https://www.theguardian.com/us-news/2026/mar/13/texas-terrorism-trial"
   ],
@@ -226,39 +256,24 @@
     "https://www.theguardian.com/us-news/2026/mar/13/tsa-workers-pay-shutdown"
   ],
   [
-    "season",
-    16,
-    "https://www.theguardian.com/film/video/2026/mar/13/oscars-2026-who-should-win-and-who-actually-will-the-latest"
-  ],
-  [
-    "buying",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/13/my-mothers-best-advice-youre-allowed-to-enjoy-nice-things"
-  ],
-  [
     "masks",
     16,
     "https://www.theguardian.com/sport/2026/mar/13/run-nation-power-slap-carjitsu-tgl-golf-typti-sports-exploitation"
   ],
   [
-    "family",
+    "energy",
     15,
-    "https://www.nytimes.com/2026/03/13/us/synagogue-attack-lebanon-family.html"
+    "https://www.nytimes.com/2026/03/14/world/middleeast/what-to-know-about-kharg-island.html"
   ],
   [
-    "senate",
+    "latest",
     15,
-    "https://www.nytimes.com/2026/03/13/us/berger-page-north-carolina-senate.html"
+    "https://www.nytimes.com/2026/03/13/business/tiktok-investors-set-to-pay-10-billion-fee-to-trump-administration.html"
   ],
   [
-    "republicans",
+    "season",
     15,
-    "https://www.nytimes.com/2026/03/13/us/politics/oklahoma-senate-trump-endorsement.html"
-  ],
-  [
-    "art",
-    15,
-    "https://www.nytimes.com/2026/03/13/nyregion/new-york-academy-of-art-epstein.html"
+    "https://www.nytimes.com/2026/03/13/us/politics/ai-ads-campaign-deepfake.html"
   ],
   [
     "crisis",
@@ -266,19 +281,19 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "chinese",
+    "something",
     15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/14/my-mothers-best-advice-go-in-to-bat-for-the-ones-you-love"
   ],
   [
-    "because",
+    "social",
     15,
-    "https://www.theguardian.com/wellness/2026/mar/13/darcey-steinke-book-pain-this-is-the-door"
+    "https://www.theguardian.com/us-news/2026/mar/13/trump-ric-grenell-kennedy-center"
   ],
   [
-    "case",
-    14,
-    "https://www.nytimes.com/2026/03/13/us/politics/jerome-powell-trump-subpoenas.html"
+    "gas",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/13/detroit-michigan-gas-prices"
   ],
   [
     "powell",
@@ -286,59 +301,44 @@
     "https://www.nytimes.com/2026/03/13/us/politics/jerome-powell-trump-subpoenas.html"
   ],
   [
-    "hollywood",
+    "america",
     14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.nytimes.com/2026/03/13/us/synagogue-attack-lebanon-family.html"
   ],
   [
-    "social",
+    "killed",
     14,
-    "https://www.theguardian.com/commentisfree/2026/mar/13/ai-generated-fake-iran-images"
+    "https://www.nytimes.com/2026/03/13/us/michigan-synagogue-suspect-ghazali.html"
   ],
   [
-    "media",
+    "university",
     14,
-    "https://www.theguardian.com/commentisfree/2026/mar/13/ai-generated-fake-iran-images"
+    "https://www.nytimes.com/2026/03/13/us/old-dominion-shooting-suspect.html"
   ],
   [
-    "film",
+    "republicans",
     14,
-    "https://www.theguardian.com/film/2026/mar/13/amy-wang-slanted-movie-race-swap-body-horror"
+    "https://www.nytimes.com/2026/03/13/us/politics/oklahoma-senate-trump-endorsement.html"
   ],
   [
-    "trying",
+    "americans",
     14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/13/honduras-family-immigration-deportation"
+    "https://www.theguardian.com/us-news/2026/mar/13/explainer-save-america-act"
   ],
   [
-    "defense",
+    "playing",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/13/pete-hegseth-iran-was-us-press"
+    "https://www.theguardian.com/travel/2026/mar/14/alonissos-greece-unspoilt-greek-island-marine-reserve"
   ],
   [
-    "place",
+    "ukraine",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/13/suspect-michigan-synagogue-attack-lost-family-lebanon"
-  ],
-  [
-    "power",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/14/dating-behaviour-games-avoidance-fear-treat-em-mean-keep-keen"
+    "https://www.theguardian.com/commentisfree/2026/mar/13/the-guardian-view-on-the-iran-war-and-international-law-its-worse-than-a-mistake-its-a"
   ],
   [
     "style",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/13/inside-the-pitt-the-stunning-smash-hit-medical-drama-from-the-team-behind-er"
-  ],
-  [
-    "late",
-    14,
-    "https://www.theguardian.com/film/2026/mar/13/king-conan-schwarzenegger-late-period-masterpiece"
-  ],
-  [
-    "gas",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/13/detroit-michigan-gas-prices"
+    "https://www.theguardian.com/books/2026/mar/13/grammarly-removes-ai-expert-review-feature-mimicking-writers-after-backlash"
   ],
   [
     "filter",
@@ -346,9 +346,19 @@
     "https://www.theguardian.com/thefilter-us/2026/mar/12/best-no-plastic-cutting-boards"
   ],
   [
-    "members",
+    "past",
     13,
-    "https://www.nytimes.com/2026/03/13/us/synagogue-attack-lebanon-family.html"
+    "https://www.nytimes.com/2026/03/13/us/politics/trump-lawsuit-college-admissions.html"
+  ],
+  [
+    "oscar",
+    13,
+    "https://www.nytimes.com/2026/03/14/world/europe/sirat-spain-film-oscars.html"
+  ],
+  [
+    "school",
+    13,
+    "https://www.nytimes.com/2026/03/13/nyregion/new-york-academy-of-art-epstein.html"
   ],
   [
     "review",
@@ -361,18 +371,8 @@
     "https://www.nytimes.com/2026/03/13/us/airports-ground-stop-dc-baltimore.html"
   ],
   [
-    "gaza",
+    "support",
     13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "early",
-    13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "secretary",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/03/13/us/antifa-protesters-terrorism.html"
   ]
 ];
