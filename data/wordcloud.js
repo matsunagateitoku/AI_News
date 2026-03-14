@@ -2,213 +2,238 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    99,
-    "https://www.nytimes.com/2026/03/13/us/politics/trump-iran-history-timeline.html"
+    126,
+    "https://www.nytimes.com/2026/03/12/business/oil-stock-gas-markets-iran.html"
   ],
   [
     "iran",
-    99,
-    "https://www.nytimes.com/2026/03/13/us/politics/trump-iran-history-timeline.html"
+    73,
+    "https://www.nytimes.com/2026/03/13/world/middleeast/us-marines-warships-middle-east.html"
   ],
   [
     "war",
-    65,
-    "https://www.nytimes.com/2026/03/13/us/politics/trump-iran-history-timeline.html"
+    66,
+    "https://www.nytimes.com/2026/03/12/business/oil-stock-gas-markets-iran.html"
   ],
   [
     "president",
-    45,
-    "https://www.nytimes.com/2026/03/13/us/politics/trump-iran-history-timeline.html"
+    49,
+    "https://www.nytimes.com/2026/03/12/business/oil-stock-gas-markets-iran.html"
   ],
   [
     "sleep",
-    44,
+    45,
     "https://www.theguardian.com/science/2026/mar/13/how-the-colour-of-light-could-be-used-to-treat-mental-illness-norway"
   ],
   [
-    "military",
+    "attack",
     28,
-    "https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html"
+    "https://www.nytimes.com/2026/03/13/us/temple-israel-michigan-synagogue-staff.html"
   ],
   [
-    "israel",
-    28,
-    "https://www.nytimes.com/2026/03/13/us/synagogue-attack-lebanon-family.html"
-  ],
-  [
-    "members",
+    "california",
     27,
-    "https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html"
-  ],
-  [
-    "israeli",
-    27,
-    "https://www.nytimes.com/2026/03/13/opinion/netanyahu-iran-israel-war.html"
-  ],
-  [
-    "middle",
-    25,
-    "https://www.theguardian.com/sport/2026/mar/13/run-nation-power-slap-carjitsu-tgl-golf-typti-sports-exploitation"
-  ],
-  [
-    "prices",
-    24,
-    "https://www.theguardian.com/us-news/2026/mar/13/detroit-michigan-gas-prices"
-  ],
-  [
-    "iraq",
-    23,
-    "https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html"
-  ],
-  [
-    "iranian",
-    23,
-    "https://www.theguardian.com/world/2026/mar/13/trump-calls-iran-leaders-deranged-scumbags-middle-east-violence"
-  ],
-  [
-    "health",
-    22,
-    "https://www.nytimes.com/2026/03/13/health/medicaid-jail-prison-healh-care.html"
-  ],
-  [
-    "death",
-    22,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/13/honduras-family-immigration-deportation"
-  ],
-  [
-    "strikes",
-    22,
-    "https://www.theguardian.com/us-news/2026/mar/13/pete-hegseth-iran-was-us-press"
-  ],
-  [
-    "fire",
-    21,
-    "https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html"
-  ],
-  [
-    "east",
-    21,
-    "https://www.theguardian.com/world/2026/mar/13/trump-calls-iran-leaders-deranged-scumbags-middle-east-violence"
-  ],
-  [
-    "bill",
-    21,
-    "https://www.theguardian.com/us-news/2026/mar/13/explainer-save-america-act"
+    "https://www.theguardian.com/us-news/2026/mar/12/california-heatwave"
   ],
   [
     "oil",
-    20,
-    "https://www.nytimes.com/2026/03/13/us/politics/trump-seized-oil-tankers-cost.html"
+    25,
+    "https://www.nytimes.com/2026/03/12/business/oil-stock-gas-markets-iran.html"
   ],
   [
-    "american",
-    20,
-    "https://www.nytimes.com/2026/03/13/magazine/iran-trump-regime-change-history-eisenhower.html"
+    "center",
+    25,
+    "https://www.nytimes.com/2026/03/13/us/airports-ground-stop-dc-baltimore.html"
   ],
   [
-    "attacks",
-    20,
-    "https://www.nytimes.com/2026/03/13/health/cholesterol-guidelines-heart-health.html"
+    "middle",
+    24,
+    "https://www.nytimes.com/2026/03/13/world/middleeast/us-marines-warships-middle-east.html"
   ],
   [
-    "killed",
-    19,
-    "https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html"
+    "administration",
+    24,
+    "https://www.nytimes.com/2026/03/13/world/middleeast/us-marines-warships-middle-east.html"
   ],
   [
-    "country",
-    19,
-    "https://www.nytimes.com/2026/03/13/world/americas/cuba-us-talks-trump-oil.html"
-  ],
-  [
-    "family",
-    19,
-    "https://www.nytimes.com/2026/03/13/us/synagogue-attack-lebanon-family.html"
-  ],
-  [
-    "america",
-    18,
-    "https://www.nytimes.com/2026/03/13/us/synagogue-attack-lebanon-family.html"
-  ],
-  [
-    "senate",
-    18,
-    "https://www.nytimes.com/2026/03/13/us/berger-page-north-carolina-senate.html"
+    "military",
+    24,
+    "https://www.nytimes.com/2026/03/13/us/old-dominion-shooting-suspect.html"
   ],
   [
     "team",
-    18,
+    24,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "ago",
-    18,
-    "https://www.theguardian.com/sport/2026/mar/13/run-nation-power-slap-carjitsu-tgl-golf-typti-sports-exploitation"
+    "health",
+    23,
+    "https://www.theguardian.com/world/2026/mar/13/brazilian-president-lula-forbidden-trump-adviser-darren-beattie-visiting"
   ],
   [
-    "video",
-    18,
-    "https://www.theguardian.com/sport/2026/mar/13/run-nation-power-slap-carjitsu-tgl-golf-typti-sports-exploitation"
+    "judge",
+    22,
+    "https://www.nytimes.com/2026/03/13/us/politics/jerome-powell-trump-subpoenas.html"
   ],
   [
-    "fashion",
-    18,
-    "https://www.theguardian.com/film/2026/mar/13/iconic-oscar-red-carpet-looks-bjork-swan-dress-celine-dion-back-to-front-tux"
+    "michigan",
+    21,
+    "https://www.nytimes.com/2026/03/13/us/temple-israel-michigan-synagogue-staff.html"
   ],
   [
-    "game",
-    18,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/13/inside-the-pitt-the-stunning-smash-hit-medical-drama-from-the-team-behind-er"
+    "oscars",
+    21,
+    "https://www.nytimes.com/2026/03/12/podcasts/black-women-one-battle-after-another-oscars.html"
   ],
   [
-    "actually",
-    18,
-    "https://www.theguardian.com/film/video/2026/mar/13/oscars-2026-who-should-win-and-who-actually-will-the-latest"
-  ],
-  [
-    "died",
-    17,
-    "https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html"
-  ],
-  [
-    "political",
-    17,
-    "https://www.nytimes.com/2026/03/13/world/americas/cuba-us-talks-trump-oil.html"
-  ],
-  [
-    "spent",
-    17,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "latest",
-    17,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "israeli",
+    21,
+    "https://www.nytimes.com/2026/03/13/opinion/netanyahu-iran-israel-war.html"
   ],
   [
     "texas",
+    21,
+    "https://www.washingtonpost.com/nation/2026/03/13/antifa-trial-verdict-texas-ice/"
+  ],
+  [
+    "security",
+    21,
+    "https://www.theguardian.com/commentisfree/2026/mar/13/trump-iran-weakness"
+  ],
+  [
+    "ago",
+    21,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/13/honduras-family-immigration-deportation"
+  ],
+  [
+    "east",
+    20,
+    "https://www.nytimes.com/2026/03/13/world/middleeast/us-marines-warships-middle-east.html"
+  ],
+  [
+    "israel",
+    20,
+    "https://www.nytimes.com/2026/03/13/us/temple-israel-michigan-synagogue-staff.html"
+  ],
+  [
+    "synagogue",
+    20,
+    "https://www.nytimes.com/2026/03/13/us/temple-israel-michigan-synagogue-staff.html"
+  ],
+  [
+    "american",
+    19,
+    "https://www.nytimes.com/2026/03/13/magazine/iran-trump-regime-change-history-eisenhower.html"
+  ],
+  [
+    "death",
+    19,
+    "https://www.nytimes.com/2026/03/13/us/georgia-teacher-killed-prank-charges-dropped.html"
+  ],
+  [
+    "kennedy",
+    19,
+    "https://www.theguardian.com/us-news/2026/mar/13/trump-ric-grenell-kennedy-center"
+  ],
+  [
+    "game",
+    19,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/13/inside-the-pitt-the-stunning-smash-hit-medical-drama-from-the-team-behind-er"
+  ],
+  [
+    "games",
+    19,
+    "https://www.theguardian.com/sport/2026/mar/13/great-haul-of-china-winter-paralympics-milano-cortina"
+  ],
+  [
+    "charges",
+    18,
+    "https://www.nytimes.com/2026/03/13/us/antifa-protesters-terrorism.html"
+  ],
+  [
+    "political",
+    18,
+    "https://www.theguardian.com/us-news/2026/mar/13/trumps-racist-hate-speech-human-rights-violations-warn-un-watchdog"
+  ],
+  [
+    "prices",
     17,
-    "https://www.theguardian.com/us-news/2026/mar/13/midterms-crypto-pacs-political-spending"
+    "https://www.nytimes.com/2026/03/12/business/oil-stock-gas-markets-iran.html"
   ],
   [
-    "plane",
-    16,
-    "https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html"
+    "night",
+    17,
+    "https://www.nytimes.com/2026/03/12/podcasts/black-women-one-battle-after-another-oscars.html"
   ],
   [
-    "hegseth",
-    16,
-    "https://www.nytimes.com/2026/03/13/business/media/pete-hegseth-david-ellison-cnn.html"
+    "red",
+    17,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "attack",
+    "government",
+    17,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/13/honduras-family-immigration-deportation"
+  ],
+  [
+    "donald",
+    17,
+    "https://www.theguardian.com/us-news/2026/mar/13/goal-plan-iran-war-military"
+  ],
+  [
+    "america",
     16,
     "https://www.nytimes.com/2026/03/13/us/synagogue-attack-lebanon-family.html"
   ],
   [
-    "security",
+    "killed",
     16,
-    "https://www.nytimes.com/2026/03/13/us/antisemitism-michigan-synogogue.html"
+    "https://www.nytimes.com/2026/03/13/us/michigan-synagogue-suspect-ghazali.html"
+  ],
+  [
+    "latest",
+    16,
+    "https://www.nytimes.com/2026/03/13/business/tiktok-investors-set-to-pay-10-billion-fee-to-trump-administration.html"
+  ],
+  [
+    "fire",
+    16,
+    "https://www.nytimes.com/2026/03/13/us/old-dominion-shooting-gunman-rotc.html"
+  ],
+  [
+    "oscar",
+    16,
+    "https://www.nytimes.com/2026/03/13/style/diane-warren-2026-oscar-nominations.html"
+  ],
+  [
+    "spent",
+    16,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "country",
+    16,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "actually",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/13/texas-terrorism-trial"
+  ],
+  [
+    "democrats",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/13/tsa-workers-pay-shutdown"
+  ],
+  [
+    "season",
+    16,
+    "https://www.theguardian.com/film/video/2026/mar/13/oscars-2026-who-should-win-and-who-actually-will-the-latest"
+  ],
+  [
+    "buying",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/13/my-mothers-best-advice-youre-allowed-to-enjoy-nice-things"
   ],
   [
     "masks",
@@ -216,34 +241,29 @@
     "https://www.theguardian.com/sport/2026/mar/13/run-nation-power-slap-carjitsu-tgl-golf-typti-sports-exploitation"
   ],
   [
-    "donald",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/mar/13/donald-trump-us-marco-rubio-shoes-too-big"
-  ],
-  [
-    "oscars",
-    16,
-    "https://www.theguardian.com/film/2026/mar/13/iconic-oscar-red-carpet-looks-bjork-swan-dress-celine-dion-back-to-front-tux"
-  ],
-  [
-    "games",
-    16,
-    "https://www.theguardian.com/sport/2026/mar/13/great-haul-of-china-winter-paralympics-milano-cortina"
-  ],
-  [
-    "conflict",
-    15,
-    "https://www.nytimes.com/2026/03/13/us/politics/trump-iran-history-timeline.html"
-  ],
-  [
-    "michigan",
+    "family",
     15,
     "https://www.nytimes.com/2026/03/13/us/synagogue-attack-lebanon-family.html"
   ],
   [
-    "california",
+    "senate",
     15,
-    "https://www.nytimes.com/2026/03/13/us/rancho-palos-verdes-landslide-california-houses.html"
+    "https://www.nytimes.com/2026/03/13/us/berger-page-north-carolina-senate.html"
+  ],
+  [
+    "republicans",
+    15,
+    "https://www.nytimes.com/2026/03/13/us/politics/oklahoma-senate-trump-endorsement.html"
+  ],
+  [
+    "art",
+    15,
+    "https://www.nytimes.com/2026/03/13/nyregion/new-york-academy-of-art-epstein.html"
+  ],
+  [
+    "crisis",
+    15,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "chinese",
@@ -253,57 +273,67 @@
   [
     "because",
     15,
-    "https://www.theguardian.com/commentisfree/2026/mar/13/donald-trump-us-marco-rubio-shoes-too-big"
+    "https://www.theguardian.com/wellness/2026/mar/13/darcey-steinke-book-pain-this-is-the-door"
   ],
   [
-    "trying",
-    15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/13/honduras-family-immigration-deportation"
+    "case",
+    14,
+    "https://www.nytimes.com/2026/03/13/us/politics/jerome-powell-trump-subpoenas.html"
   ],
   [
-    "style",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/13/inside-the-pitt-the-stunning-smash-hit-medical-drama-from-the-team-behind-er"
+    "powell",
+    14,
+    "https://www.nytimes.com/2026/03/13/us/politics/jerome-powell-trump-subpoenas.html"
+  ],
+  [
+    "hollywood",
+    14,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "social",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/mar/13/ai-generated-fake-iran-images"
   ],
   [
     "media",
-    15,
-    "https://www.theguardian.com/us-news/2026/mar/13/pete-hegseth-iran-was-us-press"
-  ],
-  [
-    "refueling",
     14,
-    "https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html"
+    "https://www.theguardian.com/commentisfree/2026/mar/13/ai-generated-fake-iran-images"
   ],
   [
-    "government",
+    "film",
     14,
-    "https://www.nytimes.com/2026/03/13/us/politics/wall-street-access-pentagon.html"
+    "https://www.theguardian.com/film/2026/mar/13/amy-wang-slanted-movie-race-swap-body-horror"
   ],
   [
-    "lebanon",
-    14,
-    "https://www.nytimes.com/2026/03/13/us/synagogue-attack-lebanon-family.html"
-  ],
-  [
-    "red",
-    14,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "early",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "night",
+    "trying",
     14,
     "https://www.theguardian.com/us-news/ng-interactive/2026/mar/13/honduras-family-immigration-deportation"
   ],
   [
-    "tehran",
+    "defense",
     14,
-    "https://www.theguardian.com/world/2026/mar/13/trump-calls-iran-leaders-deranged-scumbags-middle-east-violence"
+    "https://www.theguardian.com/us-news/2026/mar/13/pete-hegseth-iran-was-us-press"
+  ],
+  [
+    "place",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/13/suspect-michigan-synagogue-attack-lost-family-lebanon"
+  ],
+  [
+    "power",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/14/dating-behaviour-games-avoidance-fear-treat-em-mean-keep-keen"
+  ],
+  [
+    "style",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/13/inside-the-pitt-the-stunning-smash-hit-medical-drama-from-the-team-behind-er"
+  ],
+  [
+    "late",
+    14,
+    "https://www.theguardian.com/film/2026/mar/13/king-conan-schwarzenegger-late-period-masterpiece"
   ],
   [
     "gas",
@@ -311,68 +341,38 @@
     "https://www.theguardian.com/us-news/2026/mar/13/detroit-michigan-gas-prices"
   ],
   [
-    "late",
-    14,
-    "https://www.theguardian.com/books/2026/mar/13/grammarly-removes-ai-expert-review-feature-mimicking-writers-after-backlash"
-  ],
-  [
-    "playing",
-    14,
-    "https://www.theguardian.com/world/ng-interactive/2026/mar/13/chinamaxxing-social-media-trend-gen-z-china-us"
-  ],
-  [
-    "buying",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/13/my-mothers-best-advice-youre-allowed-to-enjoy-nice-things"
-  ],
-  [
     "filter",
     14,
     "https://www.theguardian.com/thefilter-us/2026/mar/12/best-no-plastic-cutting-boards"
   ],
   [
-    "cbs",
-    14,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-03-09/cbs-news-scott-macfalane-leaves-network-what-to-know"
-  ],
-  [
-    "service",
-    13,
-    "https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html"
-  ],
-  [
-    "synagogue",
+    "members",
     13,
     "https://www.nytimes.com/2026/03/13/us/synagogue-attack-lebanon-family.html"
   ],
   [
-    "leaders",
+    "review",
     13,
-    "https://www.nytimes.com/2026/03/13/arts/epstein-woody-allen-comedians.html"
+    "https://www.nytimes.com/2026/03/13/nyregion/new-york-academy-of-art-epstein.html"
   ],
   [
-    "history",
+    "air",
     13,
-    "https://www.nytimes.com/2026/03/13/world/middleeast/john-f-burns-stories.html"
+    "https://www.nytimes.com/2026/03/13/us/airports-ground-stop-dc-baltimore.html"
   ],
   [
-    "act",
+    "gaza",
     13,
-    "https://www.washingtonpost.com/nation/2026/03/12/temple-israel-synagogue-michigan-attack/"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "power",
+    "early",
     13,
-    "https://www.theguardian.com/sport/2026/mar/13/run-nation-power-slap-carjitsu-tgl-golf-typti-sports-exploitation"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "states",
+    "secretary",
     13,
-    "https://www.theguardian.com/commentisfree/2026/mar/13/donald-trump-us-marco-rubio-shoes-too-big"
-  ],
-  [
-    "place",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/13/inside-the-pitt-the-stunning-smash-hit-medical-drama-from-the-team-behind-er"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ]
 ];
