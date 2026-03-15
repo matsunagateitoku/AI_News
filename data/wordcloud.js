@@ -2,78 +2,43 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    111,
+    91,
     "https://www.nytimes.com/2026/03/14/business/economy/trump-economic-boom-iran-war.html"
   ],
   [
     "iran",
-    102,
+    86,
     "https://www.nytimes.com/2026/03/14/business/economy/trump-economic-boom-iran-war.html"
   ],
   [
     "war",
-    67,
+    55,
     "https://www.nytimes.com/2026/03/14/business/economy/trump-economic-boom-iran-war.html"
   ],
   [
     "sleep",
-    42,
+    41,
     "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale"
   ],
   [
     "president",
-    40,
+    29,
     "https://www.nytimes.com/2026/03/14/business/economy/trump-economic-boom-iran-war.html"
-  ],
-  [
-    "american",
-    37,
-    "https://www.nytimes.com/2026/03/14/business/economy/trump-economic-boom-iran-war.html"
-  ],
-  [
-    "iranian",
-    28,
-    "https://www.nytimes.com/video/world/middleeast/100000010766123/how-migrant-workers-have-been-affected-by-irans-strikes.html"
-  ],
-  [
-    "military",
-    26,
-    "https://www.nytimes.com/video/world/middleeast/100000010766123/how-migrant-workers-have-been-affected-by-irans-strikes.html"
-  ],
-  [
-    "middle",
-    25,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/14/effect-of-siblings-growing-up-different-places-and-parents"
-  ],
-  [
-    "strikes",
-    24,
-    "https://www.nytimes.com/video/world/middleeast/100000010766123/how-migrant-workers-have-been-affected-by-irans-strikes.html"
-  ],
-  [
-    "killed",
-    24,
-    "https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html"
-  ],
-  [
-    "oil",
-    23,
-    "https://www.theguardian.com/world/2026/mar/14/us-kharg-island-oil-export-hub"
   ],
   [
     "oscars",
-    22,
-    "https://www.nytimes.com/2026/03/14/style/red-carpet-oscars-glambot.html"
+    28,
+    "https://www.nytimes.com/2026/03/14/movies/oscars-watch-best-actor-sinners-conan-obrien.html"
   ],
   [
-    "members",
-    21,
-    "https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html"
+    "american",
+    23,
+    "https://www.nytimes.com/2026/03/14/business/economy/trump-economic-boom-iran-war.html"
   ],
   [
-    "donald",
+    "oil",
     21,
-    "https://www.theguardian.com/world/2026/mar/14/us-kharg-island-oil-export-hub"
+    "https://www.theguardian.com/business/2026/mar/15/middle-east-oilfield-shutdowns-prices-high-iran-war-strait-of-hormuz"
   ],
   [
     "conflict",
@@ -81,154 +46,154 @@
     "https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html"
   ],
   [
-    "games",
+    "israeli",
     20,
-    "https://www.nytimes.com/2026/03/15/world/europe/winter-olympics-future-sites.html"
+    "https://www.washingtonpost.com/investigations/2026/03/13/iran-damage-map-satellite-imagery/"
   ],
   [
-    "children",
+    "hollywood",
     20,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/14/effect-of-siblings-growing-up-different-places-and-parents"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "east",
+    "win",
+    20,
+    "https://www.theguardian.com/film/2026/mar/15/oscars-2026-predictions-winners-sinners-one-battle-after-another"
+  ],
+  [
+    "middle",
     20,
     "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island"
-  ],
-  [
-    "fire",
-    19,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "island",
-    19,
-    "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island"
-  ],
-  [
-    "night",
-    19,
-    "https://www.theguardian.com/football/2026/mar/14/west-ham-manchester-city-premier-league-match-report"
-  ],
-  [
-    "attack",
-    18,
-    "https://www.nytimes.com/video/world/middleeast/100000010766123/how-migrant-workers-have-been-affected-by-irans-strikes.html"
-  ],
-  [
-    "iraq",
-    18,
-    "https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html"
   ],
   [
     "death",
-    18,
+    19,
     "https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html"
   ],
   [
-    "country",
+    "iranian",
+    19,
+    "https://www.theguardian.com/books/2026/mar/15/shahrnush-parsipur-the-women-of-iran-will-cause-the-fall-of-the-islamic-republic"
+  ],
+  [
+    "night",
     18,
-    "https://www.nytimes.com/2026/03/15/world/europe/france-marseille-mayor-election-far-right.html"
-  ],
-  [
-    "little",
-    18,
-    "https://www.theguardian.com/stage/2026/mar/15/hannah-gadsby-the-obamas-watched-nanette-as-a-family-i-apologise-for-ruining-their-evening"
-  ],
-  [
-    "political",
-    18,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/14/migrant-border-wall-doctor-public-health"
-  ],
-  [
-    "workers",
-    17,
-    "https://www.nytimes.com/video/world/middleeast/100000010766123/how-migrant-workers-have-been-affected-by-irans-strikes.html"
-  ],
-  [
-    "israeli",
-    17,
-    "https://www.nytimes.com/video/world/middleeast/100000010766123/how-migrant-workers-have-been-affected-by-irans-strikes.html"
-  ],
-  [
-    "countries",
-    17,
-    "https://www.nytimes.com/video/world/middleeast/100000010766123/how-migrant-workers-have-been-affected-by-irans-strikes.html"
-  ],
-  [
-    "region",
-    17,
-    "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island"
-  ],
-  [
-    "strait",
-    17,
-    "https://www.theguardian.com/world/2026/mar/14/gulf-strait-of-hormuz-nightmare-anger-frustration-at-us"
+    "https://www.nytimes.com/2026/03/15/business/magic-city-atlanta-hawks-strip-club.html"
   ],
   [
     "health",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/15/how-to-handle-anxiety-at-every-age"
+  ],
+  [
+    "awards",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/mar/15/oscars-us-crisis-film"
+  ],
+  [
+    "game",
+    18,
+    "https://www.theguardian.com/football/live/2026/mar/15/manchester-united-v-aston-villa-premier-league-live"
+  ],
+  [
+    "watch",
     17,
-    "https://www.theguardian.com/environment/2026/mar/14/pfas-lobby-firms"
+    "https://www.nytimes.com/2026/03/14/movies/oscars-watch-best-actor-sinners-conan-obrien.html"
   ],
   [
-    "south",
-    16,
-    "https://www.nytimes.com/2026/03/15/world/africa/south-africa-ambassador-bozell.html"
+    "actor",
+    17,
+    "https://www.nytimes.com/2026/03/14/movies/oscars-watch-best-actor-sinners-conan-obrien.html"
   ],
   [
-    "air",
-    16,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "country",
+    17,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "place",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/14/effect-of-siblings-growing-up-different-places-and-parents"
+    "fire",
+    17,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "hormuz",
+    "political",
+    17,
+    "https://www.theguardian.com/world/2026/mar/15/france-votes-local-elections-presidential-indicator"
+  ],
+  [
+    "island",
+    17,
+    "https://www.theguardian.com/travel/2026/mar/15/castaway-looe-island-cornwall"
+  ],
+  [
+    "games",
     16,
-    "https://www.theguardian.com/world/2026/mar/14/gulf-strait-of-hormuz-nightmare-anger-frustration-at-us"
+    "https://www.nytimes.com/2026/03/15/world/europe/winter-olympics-future-sites.html"
   ],
   [
     "final",
     16,
-    "https://www.theguardian.com/sport/2026/mar/13/usa-czechia-paralympic-sled-hockey-semifinal-farmer"
-  ],
-  [
-    "latest",
-    15,
-    "https://www.nytimes.com/2026/03/15/world/africa/south-africa-ambassador-bozell.html"
-  ],
-  [
-    "administration",
-    15,
-    "https://www.nytimes.com/2026/03/12/us/politics/maga-animal-rights-experiments-trump.html"
-  ],
-  [
-    "far",
-    15,
-    "https://www.nytimes.com/2026/03/15/world/europe/france-marseille-mayor-election-far-right.html"
+    "https://www.washingtonpost.com/nation/2026/03/16/dna-testing-dead-convicted-murder/"
   ],
   [
     "chinese",
-    15,
+    16,
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "parents",
+    "israel",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/14/effect-of-siblings-growing-up-different-places-and-parents"
+    "https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html"
   ],
   [
-    "fashion",
+    "ready",
     15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/14/migrant-border-wall-doctor-public-health"
+    "https://www.nytimes.com/2026/03/15/nyregion/portal-bridge-open-construction.html"
   ],
   [
-    "game",
+    "early",
     15,
-    "https://www.theguardian.com/commentisfree/2026/mar/14/trump-iran-vietnam"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "donald",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/mar/15/us-iran-war-donald-trump-failure"
+  ],
+  [
+    "living",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/15/how-to-handle-anxiety-at-every-age"
+  ],
+  [
+    "children",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/15/how-to-handle-anxiety-at-every-age"
+  ],
+  [
+    "trying",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/15/this-is-how-we-do-it-more-adventurous-animalistic-rupert-eva"
+  ],
+  [
+    "east",
+    15,
+    "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island"
+  ],
+  [
+    "strikes",
+    15,
+    "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island"
+  ],
+  [
+    "place",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/15/new-york-mamdani-teen-suspects"
+  ],
+  [
+    "actually",
+    15,
+    "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/mar/15/saturday-night-live-uk-cast-interview-sky-one"
   ],
   [
     "masks",
@@ -236,34 +201,79 @@
     "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale"
   ],
   [
-    "center",
+    "military",
     14,
-    "https://www.nytimes.com/2026/03/14/us/politics/kennedy-center-judge-order.html"
+    "https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html"
   ],
   [
-    "school",
+    "members",
     14,
-    "https://www.nytimes.com/2026/03/14/world/europe/amsterdam-rotterdam-antisemitic-attacks.html"
+    "https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html"
   ],
   [
-    "crisis",
+    "killed",
+    14,
+    "https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html"
+  ],
+  [
+    "administration",
+    14,
+    "https://www.nytimes.com/2026/03/15/us/politics/farm-labor-trump-migrant-workers-h2a.html"
+  ],
+  [
+    "texas",
+    14,
+    "https://www.nytimes.com/2026/03/15/us/politics/brandon-hererra-guns-youtube.html"
+  ],
+  [
+    "history",
     14,
     "https://www.nytimes.com/2026/03/14/opinion/ezra-klein-podcast-ali-vaez.html"
   ],
   [
-    "early",
+    "global",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "california",
+    "team",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/14/gas-prices-los-angeles-chevron"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "because",
+    "americans",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/14/effect-of-siblings-growing-up-different-places-and-parents"
+    "https://www.theguardian.com/commentisfree/2026/mar/15/us-iran-war-donald-trump-failure"
+  ],
+  [
+    "experts",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/15/how-to-handle-anxiety-at-every-age"
+  ],
+  [
+    "record",
+    14,
+    "https://www.theguardian.com/business/2026/mar/15/middle-east-oilfield-shutdowns-prices-high-iran-war-strait-of-hormuz"
+  ],
+  [
+    "west",
+    14,
+    "https://www.theguardian.com/world/2026/mar/15/israeli-police-kill-two-young-palestinian-boys-and-their-parents-in-west-bank"
+  ],
+  [
+    "film",
+    14,
+    "https://www.theguardian.com/media/2026/mar/15/nigerias-online-content-creator-market-has-boomed-can-the-skit-makers-and-streamers-make-it-pay"
+  ],
+  [
+    "academy",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/mar/15/oscars-us-crisis-film"
+  ],
+  [
+    "nominees",
+    14,
+    "https://www.theguardian.com/film/2026/mar/14/palestinian-actor-oscars-travel-ban"
   ],
   [
     "filter",
@@ -271,108 +281,98 @@
     "https://www.theguardian.com/lifeandstyle/2026/mar/12/four-ways-to-watch-movies-more-intentionally"
   ],
   [
-    "trying",
-    14,
-    "https://www.theguardian.com/world/2026/mar/14/how-iran-war-escalate-vietnam-trump-netanyahu-us-israel"
-  ],
-  [
-    "americans",
-    14,
-    "https://www.theguardian.com/business/2026/mar/14/americans-struggle-affordability-despite-trump-claims"
-  ],
-  [
-    "died",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/15/my-mothers-best-advice-talk-to-your-children-like-old-friends"
-  ],
-  [
-    "democrats",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/mar/14/palantir-ai-marco-rubio-afghanistan-katy-perry"
-  ],
-  [
-    "playing",
-    14,
-    "https://www.theguardian.com/sport/2026/mar/14/sammy-sullivan-usa-rugby-world-sevens-legos"
-  ],
-  [
-    "awards",
+    "latest",
     13,
-    "https://www.nytimes.com/2026/03/14/movies/oscars-2026-who-will-win-predictions.html"
+    "https://www.nytimes.com/2026/03/15/world/africa/south-africa-ambassador-bozell.html"
   ],
   [
-    "race",
+    "politics",
     13,
-    "https://www.nytimes.com/2026/03/14/movies/oscars-watch-best-actor-sinners-conan-obrien.html"
+    "https://www.nytimes.com/2026/03/15/us/politics/brandon-hererra-guns-youtube.html"
   ],
   [
-    "history",
+    "mother",
     13,
-    "https://www.nytimes.com/2026/03/14/opinion/ezra-klein-podcast-ali-vaez.html"
-  ],
-  [
-    "team",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "actually",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/12/four-ways-to-watch-movies-more-intentionally"
+    "https://www.theguardian.com/world/2026/mar/15/israeli-police-kill-two-young-palestinian-boys-and-their-parents-in-west-bank"
   ],
   [
     "working",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/12/four-ways-to-watch-movies-more-intentionally"
+    "https://www.theguardian.com/uk-news/2026/mar/15/royals-and-celebrities-warned-to-watch-words-as-lip-reading-videos-go-viral"
   ],
   [
-    "living",
+    "scenes",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/12/four-ways-to-watch-movies-more-intentionally"
+    "https://www.theguardian.com/media/2026/mar/15/nigerias-online-content-creator-market-has-boomed-can-the-skit-makers-and-streamers-make-it-pay"
   ],
   [
-    "leader",
+    "something",
     13,
-    "https://www.theguardian.com/world/2026/mar/14/how-iran-war-escalate-vietnam-trump-netanyahu-us-israel"
+    "https://www.theguardian.com/football/2026/mar/15/arsenal-manchester-city-west-ham-premier-league-title-race"
   ],
   [
-    "style",
-    13,
-    "https://www.theguardian.com/us-news/2026/mar/14/trump-iran-war-chaos"
-  ],
-  [
-    "win",
-    13,
-    "https://www.theguardian.com/sport/2026/mar/13/usa-elliott-delson-paralympic-banked-slalom-gold"
-  ],
-  [
-    "red",
+    "media",
     12,
-    "https://www.nytimes.com/2026/03/14/style/red-carpet-oscars-glambot.html"
+    "https://www.nytimes.com/2026/03/14/world/middleeast/fcc-broadcasters-iran-war.html"
   ],
   [
-    "actor",
+    "feel",
     12,
-    "https://www.nytimes.com/2026/03/14/movies/oscars-watch-best-actor-sinners-conan-obrien.html"
-  ],
-  [
-    "ago",
-    12,
-    "https://www.nytimes.com/2026/03/14/us/lily-collins-engagement-ring-found.html"
-  ],
-  [
-    "police",
-    12,
-    "https://www.washingtonpost.com/nation/2026/03/13/antifa-trial-verdict-texas-ice/"
-  ],
-  [
-    "attacks",
-    12,
-    "https://www.washingtonpost.com/nation/2026/03/13/michigan-synagogue-attack-security/"
+    "https://www.nytimes.com/2026/03/15/business/billionaire-income-tax-loopholes.html"
   ],
   [
     "million",
     12,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.nytimes.com/2026/03/15/business/the-500-million-mystery-will-signed-by-ghosts.html"
+  ],
+  [
+    "crisis",
+    12,
+    "https://www.nytimes.com/2026/03/14/opinion/ezra-klein-podcast-ali-vaez.html"
+  ],
+  [
+    "fewer",
+    12,
+    "https://www.nytimes.com/2026/03/15/world/europe/winter-olympics-future-sites.html"
+  ],
+  [
+    "dead",
+    12,
+    "https://www.washingtonpost.com/nation/2026/03/16/dna-testing-dead-convicted-murder/"
+  ],
+  [
+    "spent",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "air",
+    12,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "despite",
+    12,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "far",
+    12,
+    "https://www.theguardian.com/world/2026/mar/15/feminism-isnt-dead-rebecca-solnit"
+  ],
+  [
+    "because",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/15/this-is-how-we-do-it-more-adventurous-animalistic-rupert-eva"
+  ],
+  [
+    "region",
+    12,
+    "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island"
+  ],
+  [
+    "government",
+    12,
+    "https://www.theguardian.com/world/2026/mar/15/us-attack-iris-dena-undermines-indian-security-ties-iran"
   ]
 ];
