@@ -3,20 +3,14 @@
   "PERSON": [
     {
       "name": "Melania Trump",
-      "count": 22,
+      "count": 20,
       "url": "https://www.theguardian.com/culture/2026/mar/13/jimmy-kimmel-trump-olympic-medal-melania-iran-oil",
       "source": "The Guardian"
     },
     {
       "name": "Donald Trump",
-      "count": 19,
-      "url": "https://www.theguardian.com/world/2026/mar/14/anti-regime-iranians-turn-on-trump-us",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Oscar",
-      "count": 7,
-      "url": "https://www.theguardian.com/culture/2026/mar/14/jessie-buckley-oscars-best-actress-hamnet-killarney-ireland",
+      "count": 18,
+      "url": "https://www.theguardian.com/world/2026/mar/14/us-kharg-island-oil-export-hub",
       "source": "The Guardian"
     },
     {
@@ -26,15 +20,21 @@
       "source": "The Guardian"
     },
     {
-      "name": "Chris Washburn",
+      "name": "Oscar Piastri",
       "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/mar/14/chris-washburn-nba-cocaine-era-memoir-recovery",
+      "url": "https://www.theguardian.com/sport/live/2026/mar/15/formula-one-chinese-grand-prix-race-updates-live",
       "source": "The Guardian"
     },
     {
-      "name": "Paul Thomas Anderson’S",
+      "name": "Daniil Medvedev",
       "count": 5,
-      "url": "https://www.theguardian.com/film/video/2026/mar/13/oscars-2026-who-should-win-and-who-actually-will-the-latest",
+      "url": "https://www.theguardian.com/sport/2026/mar/15/carlos-alcaraz-winning-streak-ended-by-daniil-medvedev-indian-wells",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Chris Washburn",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/mar/14/chris-washburn-nba-cocaine-era-memoir-recovery",
       "source": "The Guardian"
     },
     {
@@ -56,16 +56,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "James Blake",
+      "name": "Paul Thomas Anderson’S",
       "count": 4,
-      "url": "https://www.theguardian.com/music/2026/mar/13/james-blake-trying-times-review",
+      "url": "https://www.theguardian.com/film/video/2026/mar/13/oscars-2026-who-should-win-and-who-actually-will-the-latest",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 64,
+      "count": 67,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
@@ -77,44 +77,38 @@
     },
     {
       "name": "The Filter Us",
-      "count": 15,
+      "count": 14,
       "url": "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale",
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
-      "count": 15,
-      "url": "https://www.cbsnews.com/news/white-house-proposes-new-underground-visitor-screening-facility/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Texas Senate",
-      "count": 10,
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-cornyn-paxton-endorsement-texas-senate-race-rcna263483",
-      "source": "NBC News"
+      "name": "Oscars",
+      "count": 8,
+      "url": "https://www.theguardian.com/film/2026/mar/14/oscar-documentary-nominees-what-happened-next",
+      "source": "The Guardian"
     },
     {
       "name": "Guardian News",
-      "count": 9,
+      "count": 8,
       "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
-      "name": "Oscars",
+      "name": "The Paper House",
       "count": 7,
-      "url": "https://www.theguardian.com/culture/2026/mar/14/jessie-buckley-oscars-best-actress-hamnet-killarney-ireland",
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/15/middle-aged-mother-anxiety-boxing",
       "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 7,
+      "url": "https://www.cbsnews.com/news/white-house-proposes-new-underground-visitor-screening-facility/",
+      "source": "CBS News"
     },
     {
       "name": "The Academy Awards",
-      "count": 7,
-      "url": "https://www.theguardian.com/film/video/2026/mar/13/oscars-2026-who-should-win-and-who-actually-will-the-latest",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Winter Paralympic",
       "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/mar/13/great-haul-of-china-winter-paralympics-milano-cortina",
+      "url": "https://www.theguardian.com/film/video/2026/mar/13/oscars-2026-who-should-win-and-who-actually-will-the-latest",
       "source": "The Guardian"
     },
     {
@@ -122,31 +116,105 @@
       "count": 6,
       "url": "https://www.theguardian.com/fashion/2026/mar/10/matthieu-blazy-chanel-paris-fashion-week-show",
       "source": "The Guardian"
+    },
+    {
+      "name": "Texas Senate",
+      "count": 6,
+      "url": "https://www.politico.com/news/2026/03/09/trump-is-delaying-texas-senate-endorsement-to-pressure-gop-senators-on-save-america-act-00819991",
+      "source": "Politico"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "North-West Iran",
+      "count": 102,
+      "url": "https://www.theguardian.com/film/2026/mar/14/oscar-documentary-nominees-what-happened-next",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Us",
+      "count": 73,
+      "url": "https://www.theguardian.com/world/2026/mar/15/feminism-isnt-dead-rebecca-solnit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 51,
+      "url": "https://www.nytimes.com/video/world/middleeast/100000010766123/how-migrant-workers-have-been-affected-by-irans-strikes.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iraq",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Tehran",
+      "count": 12,
+      "url": "https://www.theguardian.com/world/2026/mar/14/us-kharg-island-oil-export-hub",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/mar/14/gas-prices-los-angeles-chevron",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City",
+      "count": 11,
+      "url": "https://www.theguardian.com/environment/2026/mar/14/my-ideas-are-a-little-revolutionary-ecologist-suzanne-simard-on-intelligent-forests-the-climate-and-her-critics",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A.",
+      "count": 11,
+      "url": "https://www.latimes.com/science/story/2026-03-14/thousands-of-people-disabled-by-long-covid-seek-answers",
+      "source": "LA Times"
+    },
+    {
+      "name": "North Hollywood",
+      "count": 10,
+      "url": "https://www.latimes.com/lifestyle/story/2026-03-13/la-affairs-jennifer-wolfgram-i-dont-like-cats-will-i-learn-to-like-them-for-love",
+      "source": "LA Times"
+    },
+    {
+      "name": "Texas",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/nation/2026/03/13/antifa-trial-verdict-texas-ice/",
+      "source": "Washington Post"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 10,
+      "count": 7,
       "url": "https://www.theguardian.com/world/2026/mar/14/how-iran-war-escalate-vietnam-trump-netanyahu-us-israel",
       "source": "The Guardian"
     },
     {
       "name": "Fiba World Cup",
-      "count": 2,
+      "count": 3,
       "url": "https://www.foxnews.com/sports/caitlin-clark-seen-not-giving-handshake-angel-reese-fiba-world-cup",
       "source": "Fox News"
+    },
+    {
+      "name": "Olympics",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/03/15/world/europe/winter-olympics-future-sites.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Quds Day",
+      "count": 2,
+      "url": "https://www.nbcnews.com/video/shorts/explosion-rocks-tehran-during-quds-day-rally-259250245745",
+      "source": "NBC News"
     },
     {
       "name": "Groundhog Day",
       "count": 1,
       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/14/migrant-border-wall-doctor-public-health",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nero Non-Fiction Book",
-      "count": 1,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/14/sarah-perry-interview-author-nero-book-award",
       "source": "The Guardian"
     },
     {
@@ -174,79 +242,11 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Royal Festival Hall",
-      "count": 1,
-      "url": "https://www.theguardian.com/culture/2026/mar/14/my-cultural-awakening-pentangle-helped-me-find-my-place-as-a-person-of-colour-in-britain",
-      "source": "The Guardian"
-    },
-    {
       "name": "Get Out",
       "count": 1,
       "url": "https://www.theguardian.com/film/2026/mar/13/oscars-academy-ballots",
       "source": "The Guardian"
     }
   ],
-  "GPE": [
-    {
-      "name": "North-West Iran",
-      "count": 91,
-      "url": "https://www.theguardian.com/film/2026/mar/14/oscar-documentary-nominees-what-happened-next",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Us",
-      "count": 79,
-      "url": "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 41,
-      "url": "https://www.nytimes.com/video/world/middleeast/100000010766123/how-migrant-workers-have-been-affected-by-irans-strikes.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 15,
-      "url": "https://www.washingtonpost.com/nation/2026/03/13/antifa-trial-verdict-texas-ice/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Iraq",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "North Hollywood",
-      "count": 13,
-      "url": "https://www.latimes.com/lifestyle/story/2026-03-13/la-affairs-jennifer-wolfgram-i-dont-like-cats-will-i-learn-to-like-them-for-love",
-      "source": "LA Times"
-    },
-    {
-      "name": "New York City",
-      "count": 12,
-      "url": "https://www.theguardian.com/environment/2026/mar/14/my-ideas-are-a-little-revolutionary-ecologist-suzanne-simard-on-intelligent-forests-the-climate-and-her-critics",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/mar/14/gas-prices-los-angeles-chevron",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A.",
-      "count": 11,
-      "url": "https://www.latimes.com/science/story/2026-03-14/thousands-of-people-disabled-by-long-covid-seek-answers",
-      "source": "LA Times"
-    }
-  ],
-  "updated": "2026-03-15T03:52:18Z"
+  "updated": "2026-03-15T07:49:33Z"
 };
