@@ -2,58 +2,68 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    89,
+    79,
     "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html"
   ],
   [
     "iran",
-    75,
+    76,
     "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html"
   ],
   [
     "war",
-    71,
+    74,
     "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html"
   ],
   [
     "oscars",
-    56,
-    "https://www.nytimes.com/2026/03/15/movies/oscars-winners-list.html"
+    60,
+    "https://www.nytimes.com/2026/03/15/style/oscars-red-carpet-2026.html"
   ],
   [
     "sleep",
-    43,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/16/how-a-vacuum-cleaner-turned-the-other-way-became-a-popular-solution-to-snoring-disorders"
-  ],
-  [
-    "president",
-    34,
-    "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html"
+    44,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/16/the-plastic-detox-review-a-film-so-terrifying-you-will-want-to-change-your-life-immediately"
   ],
   [
     "awards",
-    33,
+    34,
     "https://www.nytimes.com/2026/03/15/movies/oscars-winners-list.html"
   ],
   [
-    "win",
+    "president",
+    33,
+    "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html"
+  ],
+  [
+    "plastic",
+    31,
+    "https://www.nytimes.com/2026/03/15/arts/television/doctor-who-found-episodes.html"
+  ],
+  [
+    "oil",
+    29,
+    "https://www.nytimes.com/2026/03/16/business/oil-stock-gas-markets-iran.html"
+  ],
+  [
+    "prices",
     27,
-    "https://www.nytimes.com/2026/03/15/movies/autumn-durald-arkapaw-oscar-win-cinematography-sinners.html"
+    "https://www.theguardian.com/world/2026/mar/16/strait-of-hormuz-australia-japan-no-ships"
   ],
   [
-    "government",
+    "middle",
     26,
-    "https://www.theguardian.com/commentisfree/2026/mar/15/billionaire-curb-power-movement"
+    "https://www.nytimes.com/2026/03/16/business/oil-stock-gas-markets-iran.html"
   ],
   [
-    "israeli",
-    24,
-    "https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html"
+    "east",
+    25,
+    "https://www.nytimes.com/2026/03/16/business/oil-stock-gas-markets-iran.html"
   ],
   [
-    "final",
+    "win",
     24,
-    "https://www.washingtonpost.com/nation/2026/03/16/dna-testing-dead-convicted-murder/"
+    "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win"
   ],
   [
     "israel",
@@ -61,39 +71,49 @@
     "https://www.nytimes.com/2026/03/15/us/politics/illinois-democrats-ad-israel-congress-aipac.html"
   ],
   [
-    "night",
+    "final",
     23,
-    "https://www.theguardian.com/film/live/2026/mar/15/oscars-2026-live-updates-red-carpet-ceremony-winners"
+    "https://www.washingtonpost.com/nation/2026/03/16/dna-testing-dead-convicted-murder/"
   ],
   [
-    "prices",
+    "government",
+    23,
+    "https://www.theguardian.com/film/2026/mar/15/conan-oconnell-fangs-panahi-oscar-2026-viral-moments"
+  ],
+  [
+    "academy",
     22,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/15/saturday-night-live-harry-styles-host"
+    "https://www.nytimes.com/2026/03/15/movies/oscars-winners-list.html"
+  ],
+  [
+    "night",
+    22,
+    "https://www.nytimes.com/2026/03/16/opinion/one-battle-after-another-was-totally-meh-3-opinion-writers-size-up-the-oscars.html"
+  ],
+  [
+    "film",
+    22,
+    "https://www.nytimes.com/2026/03/15/arts/television/doctor-who-found-episodes.html"
+  ],
+  [
+    "israeli",
+    22,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "iranian",
+    22,
+    "https://www.theguardian.com/film/2026/mar/15/conan-oconnell-fangs-panahi-oscar-2026-viral-moments"
   ],
   [
     "strait",
     22,
-    "https://www.theguardian.com/world/2026/mar/15/uk-china-japan-countries-debating-strait-of-hormuz-ships-iran-you-now"
+    "https://www.theguardian.com/world/2026/mar/16/strait-of-hormuz-australia-japan-no-ships"
   ],
   [
-    "oil",
-    22,
-    "https://www.theguardian.com/us-news/2026/mar/16/trump-news-at-a-glance-call-for-allied-protection-of-strait-of-hormuz-in-doubt-as-allies-appear-sceptical"
-  ],
-  [
-    "film",
+    "won",
     21,
-    "https://www.nytimes.com/2026/03/15/arts/television/doctor-who-found-episodes.html"
-  ],
-  [
-    "hormuz",
-    21,
-    "https://www.theguardian.com/world/2026/mar/15/uk-china-japan-countries-debating-strait-of-hormuz-ships-iran-you-now"
-  ],
-  [
-    "living",
-    20,
-    "https://www.nytimes.com/2026/03/15/us/us-citizenship-renounce-price-cut.html"
+    "https://www.nytimes.com/2026/03/16/opinion/iran-war-us-israel-mideast-transformation.html"
   ],
   [
     "battle",
@@ -101,69 +121,59 @@
     "https://www.nytimes.com/2026/03/15/movies/oscars-winners-list.html"
   ],
   [
-    "iranian",
+    "political",
     20,
-    "https://www.theguardian.com/film/2026/mar/15/conan-oconnell-fangs-panahi-oscar-2026-viral-moments"
+    "https://www.theguardian.com/film/2026/mar/15/how-oscars-2026-got-political-palestine-ice"
+  ],
+  [
+    "hormuz",
+    20,
+    "https://www.theguardian.com/world/2026/mar/16/strait-of-hormuz-australia-japan-no-ships"
+  ],
+  [
+    "strikes",
+    20,
+    "https://www.theguardian.com/world/2026/mar/16/oil-prices-rise-after-trump-claims-us-totally-demolished-irans-vital-kharg-island-export-hub"
   ],
   [
     "security",
-    18,
+    19,
     "https://www.nytimes.com/2026/03/15/us/politics/trump-markwayne-mullin-homeland-security-stocks.html"
   ],
   [
-    "health",
-    18,
-    "https://www.nytimes.com/2026/03/15/health/covid-vaccine-side-effects-cdc-acip.html"
-  ],
-  [
-    "americans",
-    18,
-    "https://www.nytimes.com/2026/03/15/us/us-citizenship-renounce-price-cut.html"
-  ],
-  [
-    "academy",
-    18,
+    "list",
+    19,
     "https://www.nytimes.com/2026/03/15/movies/oscars-winners-list.html"
   ],
   [
-    "million",
-    18,
-    "https://www.nytimes.com/2026/03/15/business/the-500-million-mystery-will-signed-by-ghosts.html"
-  ],
-  [
-    "countries",
-    18,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "political",
-    18,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/15/saturday-night-live-harry-styles-host"
-  ],
-  [
-    "donald",
-    18,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/15/saturday-night-live-harry-styles-host"
-  ],
-  [
     "season",
-    18,
-    "https://www.theguardian.com/us-news/2026/mar/15/congress-shutdown-airport-security-officers-pay"
+    19,
+    "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win"
   ],
   [
-    "won",
-    18,
+    "game",
+    19,
     "https://www.theguardian.com/sport/2026/mar/15/usa-dominican-republic-world-baseball-classic"
   ],
   [
-    "actor",
-    17,
-    "https://www.nytimes.com/2026/03/15/movies/sean-penn-oscars.html"
+    "conflict",
+    18,
+    "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html"
   ],
   [
-    "country",
+    "team",
+    18,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "island",
+    18,
+    "https://www.theguardian.com/world/2026/mar/16/oil-prices-rise-after-trump-claims-us-totally-demolished-irans-vital-kharg-island-export-hub"
+  ],
+  [
+    "living",
     17,
-    "https://www.nytimes.com/2026/03/15/movies/sean-penn-oscars.html"
+    "https://www.nytimes.com/2026/03/15/us/us-citizenship-renounce-price-cut.html"
   ],
   [
     "nation",
@@ -171,14 +181,24 @@
     "https://www.nytimes.com/2026/03/14/world/americas/cuba-support-latin-america-conservative.html"
   ],
   [
-    "team",
+    "record",
     17,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/03/15/climate/snow-drought-ski-wildfire-risk.html"
   ],
   [
-    "young",
+    "country",
     17,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/16/kindness-strangers-saved-from-creepy-train-passenger"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "late",
+    17,
+    "https://www.theguardian.com/film/2026/mar/16/paul-thomas-anderson-oscars-success-one-battle-after-another-hollywood"
+  ],
+  [
+    "death",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/mar/16/war-iran-gulf-west-palestine-occupation-us"
   ],
   [
     "overall",
@@ -186,49 +206,39 @@
     "https://www.theguardian.com/sport/2026/mar/15/march-madness-duke-named-top-mens-seed-as-miami-ohio-squeak-in-as-no-11"
   ],
   [
-    "tournament",
-    17,
-    "https://www.theguardian.com/sport/2026/mar/15/march-madness-duke-named-top-mens-seed-as-miami-ohio-squeak-in-as-no-11"
-  ],
-  [
-    "strikes",
-    17,
-    "https://www.theguardian.com/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you"
-  ],
-  [
-    "conflict",
+    "global",
     16,
-    "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html"
+    "https://www.nytimes.com/2026/03/16/business/oil-stock-gas-markets-iran.html"
   ],
   [
-    "list",
+    "health",
+    16,
+    "https://www.nytimes.com/2026/03/15/health/covid-vaccine-side-effects-cdc-acip.html"
+  ],
+  [
+    "winners",
     16,
     "https://www.nytimes.com/2026/03/15/movies/oscars-winners-list.html"
   ],
   [
-    "travel",
+    "love",
     16,
-    "https://www.nytimes.com/2026/03/15/weather/snow-storm-blizzard-minnesota-wisconsin.html"
+    "https://www.nytimes.com/2026/03/14/nyregion/brooklyn-bridge-locks-garbage-removal.html"
   ],
   [
-    "record",
+    "million",
     16,
-    "https://www.nytimes.com/2026/03/15/climate/snow-drought-ski-wildfire-risk.html"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "late",
+    "countries",
     16,
-    "https://www.theguardian.com/film/2026/mar/16/rachel-mcadams-pays-tribute-to-late-diane-keaton-at-the-oscars-a-legend-with-no-end"
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "game",
+    "full",
     16,
-    "https://www.theguardian.com/sport/2026/mar/15/usa-dominican-republic-world-baseball-classic"
-  ],
-  [
-    "death",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/mar/15/the-guardian-view-on-weight-loss-jabs-and-addiction-there-is-too-much-moralising-about-these-remarkable-medicines"
+    "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win"
   ],
   [
     "fashion",
@@ -236,29 +246,34 @@
     "https://www.theguardian.com/sport/ng-interactive/2026/mar/05/winter-paralympics-results-from-milano-cortina-2026"
   ],
   [
-    "fire",
-    15,
-    "https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html"
+    "tournament",
+    16,
+    "https://www.theguardian.com/sport/2026/mar/15/march-madness-duke-named-top-mens-seed-as-miami-ohio-squeak-in-as-no-11"
   ],
   [
-    "history",
+    "americans",
     15,
-    "https://www.nytimes.com/2026/03/15/movies/autumn-durald-arkapaw-oscar-win-cinematography-sinners.html"
+    "https://www.nytimes.com/2026/03/15/us/us-citizenship-renounce-price-cut.html"
   ],
   [
-    "global",
+    "early",
     15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "children",
+    "oscar",
     15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/15/ai-defense-warfare-companies"
+    "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win"
   ],
   [
-    "middle",
+    "europe",
     15,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/15/saturday-night-live-harry-styles-host"
+    "https://www.theguardian.com/world/2026/mar/16/strait-of-hormuz-australia-japan-no-ships"
+  ],
+  [
+    "place",
+    15,
+    "https://www.theguardian.com/global-development/2026/mar/16/chatbot-india-migrant-workers-whatsapp-odisha"
   ],
   [
     "games",
@@ -266,29 +281,9 @@
     "https://www.theguardian.com/sport/2026/mar/15/winter-paralympics-milano-cortina-closing-ceremony-countries-audience-controversy"
   ],
   [
-    "ncaa",
-    15,
-    "https://www.theguardian.com/sport/2026/mar/15/march-madness-duke-named-top-mens-seed-as-miami-ohio-squeak-in-as-no-11"
-  ],
-  [
     "masks",
     15,
     "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale"
-  ],
-  [
-    "members",
-    14,
-    "https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html"
-  ],
-  [
-    "winners",
-    14,
-    "https://www.nytimes.com/2026/03/15/movies/oscars-winners-list.html"
-  ],
-  [
-    "administration",
-    14,
-    "https://www.nytimes.com/2026/03/14/world/americas/cuba-support-latin-america-conservative.html"
   ],
   [
     "trying",
@@ -301,9 +296,19 @@
     "https://www.nytimes.com/2026/03/15/weather/snow-storm-blizzard-minnesota-wisconsin.html"
   ],
   [
-    "chinese",
+    "travel",
     14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/03/15/weather/snow-storm-blizzard-minnesota-wisconsin.html"
+  ],
+  [
+    "fire",
+    14,
+    "https://www.nytimes.com/2026/03/14/us/rock-fire-department-google-donation-oklahoma.html"
+  ],
+  [
+    "jordan",
+    14,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
     "foreign",
@@ -311,29 +316,14 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "full",
+    "donald",
     14,
-    "https://www.theguardian.com/film/live/2026/mar/15/oscars-2026-live-updates-red-carpet-ceremony-winners"
-  ],
-  [
-    "actually",
-    14,
-    "https://www.theguardian.com/film/live/2026/mar/15/oscars-2026-live-updates-red-carpet-ceremony-winners"
+    "https://www.theguardian.com/film/2026/mar/16/paul-thomas-anderson-oscars-success-one-battle-after-another-hollywood"
   ],
   [
     "school",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/16/kindness-strangers-saved-from-creepy-train-passenger"
-  ],
-  [
-    "gas",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/15/saturday-night-live-harry-styles-host"
-  ],
-  [
-    "died",
-    14,
-    "https://www.theguardian.com/film/2026/mar/16/rachel-mcadams-pays-tribute-to-late-diane-keaton-at-the-oscars-a-legend-with-no-end"
+    "https://www.theguardian.com/film/2026/mar/15/conan-obrien-opening-oscars-monologue"
   ],
   [
     "mother",
@@ -341,38 +331,48 @@
     "https://www.theguardian.com/world/2026/mar/15/israeli-police-kill-two-young-palestinian-boys-and-their-parents-in-west-bank"
   ],
   [
+    "died",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/16/melissa-auf-der-maur-even-good-girls-will-cry-memoir-interview"
+  ],
+  [
     "filter",
     14,
     "https://www.theguardian.com/lifeandstyle/2026/mar/12/four-ways-to-watch-movies-more-intentionally"
   ],
   [
-    "family",
+    "hollywood",
     13,
-    "https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html"
+    "https://www.nytimes.com/2026/03/16/opinion/one-battle-after-another-was-totally-meh-3-opinion-writers-size-up-the-oscars.html"
   ],
   [
-    "sinners",
+    "members",
     13,
-    "https://www.nytimes.com/2026/03/15/movies/oscars-winners-list.html"
+    "https://www.theguardian.com/world/2026/mar/16/strait-of-hormuz-australia-japan-no-ships"
   ],
   [
-    "east",
+    "young",
     13,
-    "https://www.nytimes.com/2026/03/15/weather/tornado-warning-severe-weather-storm.html"
+    "https://www.theguardian.com/world/2026/mar/15/israeli-police-kill-two-young-palestinian-boys-and-their-parents-in-west-bank"
+  ],
+  [
+    "ncaa",
+    13,
+    "https://www.theguardian.com/sport/2026/mar/15/march-madness-duke-named-top-mens-seed-as-miami-ohio-squeak-in-as-no-11"
+  ],
+  [
+    "gas",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/15/florida-real-estate"
+  ],
+  [
+    "energy",
+    12,
+    "https://www.nytimes.com/2026/03/16/business/oil-stock-gas-markets-iran.html"
   ],
   [
     "dead",
-    13,
+    12,
     "https://www.nytimes.com/2026/03/15/arts/television/doctor-who-found-episodes.html"
-  ],
-  [
-    "red",
-    13,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "hollywood",
-    13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ]
 ];
