@@ -3,14 +3,14 @@
   "ORG": [
     {
       "name": "Trump Faces Stark Choices",
-      "count": 51,
+      "count": 68,
       "url": "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html",
       "source": "NY Times"
     },
     {
-      "name": "Ai",
+      "name": "Oscars",
       "count": 14,
-      "url": "https://www.theguardian.com/film/2026/mar/15/conan-obrien-opening-oscars-monologue",
+      "url": "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win",
       "source": "The Guardian"
     },
     {
@@ -20,128 +20,116 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Academy Awards",
-      "count": 13,
-      "url": "https://www.theguardian.com/film/2026/mar/15/how-oscars-2026-got-political-palestine-ice",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Oscars",
-      "count": 12,
-      "url": "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ncaa Men'S Basketball Tournament",
-      "count": 12,
-      "url": "https://www.foxnews.com/sports/2026-ncaa-mens-basketball-tournament-selections-revealed",
-      "source": "Fox News"
-    },
-    {
-      "name": "Congress",
+      "name": "Ai",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/03/15/us/politics/trump-markwayne-mullin-homeland-security-stocks.html",
+      "url": "https://www.theguardian.com/technology/2026/mar/16/google-scraps-ai-search-feature-that-crowdsourced-amateur-medical-advice",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas Senate",
+      "count": 10,
+      "url": "https://www.politico.com/news/2026/03/09/trump-is-delaying-texas-senate-endorsement-to-pressure-gop-senators-on-save-america-act-00819991",
+      "source": "Politico"
+    },
+    {
+      "name": "Ncaa",
+      "count": 9,
+      "url": "https://www.theguardian.com/sport/2026/mar/15/march-madness-duke-named-top-mens-seed-as-miami-ohio-squeak-in-as-no-11",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Chanel",
+      "count": 9,
+      "url": "https://www.theguardian.com/film/2026/mar/16/jessie-buckley-best-actress-oscar-hamnet-chanel-gown",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nato",
+      "count": 8,
+      "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "House Campaign Closes",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/03/15/us/politics/illinois-democrats-ad-israel-congress-aipac.html",
       "source": "NY Times"
     },
     {
-      "name": "Fcc",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/mar/15/fcc-chair-broadcasters-license-iran-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tsa",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/mar/15/congress-shutdown-airport-security-officers-pay",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ucla",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/mar/15/march-madness-duke-named-top-mens-seed-as-miami-ohio-squeak-in-as-no-11",
+      "name": "The Academy Awards",
+      "count": 6,
+      "url": "https://www.theguardian.com/film/2026/mar/15/how-oscars-2026-got-political-palestine-ice",
       "source": "The Guardian"
     }
   ],
-  "PERSON": [
+  "GPE": [
     {
-      "name": "Enter Donald Trump",
-      "count": 26,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/15/saturday-night-live-harry-styles-host",
+      "name": "Us",
+      "count": 83,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/16/europe-reaction-donald-trump-war-iran-legal-iraq",
       "source": "The Guardian"
     },
     {
-      "name": "Hormuz",
-      "count": 13,
-      "url": "https://www.theguardian.com/world/2026/mar/16/strait-of-hormuz-australia-japan-no-ships",
+      "name": "North-West Iran",
+      "count": 83,
+      "url": "https://www.theguardian.com/film/2026/mar/14/oscar-documentary-nominees-what-happened-next",
       "source": "The Guardian"
     },
     {
-      "name": "Jessie Buckley",
-      "count": 8,
-      "url": "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win",
+      "name": "U.S.",
+      "count": 21,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Israel",
+      "count": 17,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Washington Dc",
+      "count": 17,
+      "url": "https://www.theguardian.com/us-news/2026/mar/15/snow-wind-winter-storm-thunder-tornadoes",
       "source": "The Guardian"
     },
     {
-      "name": "Oscar",
-      "count": 8,
-      "url": "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win",
+      "name": "Uk",
+      "count": 12,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/16/europe-reaction-donald-trump-war-iran-legal-iraq",
       "source": "The Guardian"
     },
     {
-      "name": "Paul Thomas Anderson’S",
-      "count": 7,
-      "url": "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win",
+      "name": "California",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/03/16/weather/la-sf-callifornia-heat-dome-phoenix.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/mar/16/afghan-asylum-seeker-dies-ice-custody",
       "source": "The Guardian"
     },
     {
-      "name": "Conan O’Brien",
-      "count": 7,
-      "url": "https://www.theguardian.com/film/2026/mar/15/how-oscars-2026-got-political-palestine-ice",
-      "source": "The Guardian"
+      "name": "North Hollywood",
+      "count": 10,
+      "url": "https://www.latimes.com/lifestyle/story/2026-03-13/la-affairs-jennifer-wolfgram-i-dont-like-cats-will-i-learn-to-like-them-for-love",
+      "source": "LA Times"
     },
     {
-      "name": "Brendan Carr",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/mar/15/fcc-chair-broadcasters-license-iran-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michael B Jordan",
-      "count": 6,
-      "url": "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Volodymyr Zelenskyy",
-      "count": 6,
-      "url": "https://www.theguardian.com/world/2026/mar/16/ukraine-war-briefing-zelenskyy-wants-new-system-to-control-ukraine-drone-sales",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Diane Keaton",
-      "count": 6,
-      "url": "https://www.theguardian.com/film/2026/mar/16/rachel-mcadams-pays-tribute-to-late-diane-keaton-at-the-oscars-a-legend-with-no-end",
+      "name": "Iraq",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/16/europe-reaction-donald-trump-war-iran-legal-iraq",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 5,
+      "count": 10,
       "url": "https://www.latimes.com/politics/story/2026-03-15/trump-is-searching-for-endgame-to-iran-war",
       "source": "LA Times"
-    },
-    {
-      "name": "The World Cup",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/mar/15/mikaela-shiffrin-closes-on-overall-world-cup-title-after-record-slalom-win",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Academy Awards",
-      "count": 3,
-      "url": "https://www.nytimes.com/2026/03/15/movies/oscars-winners-list.html",
-      "source": "NY Times"
     },
     {
       "name": "The Iraq War",
@@ -150,15 +138,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "Olympic",
+      "name": "The 2026 World Cup",
       "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/mar/15/us-complete-olympic-paralympic-ice-hockey-sweep-with-another-victory-over-canada",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Paralympic Winter Games",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/ng-interactive/2026/mar/05/winter-paralympics-results-from-milano-cortina-2026",
+      "url": "https://www.theguardian.com/football/2026/mar/16/usmnt-kits-world-cup-2026",
       "source": "The Guardian"
     },
     {
@@ -174,79 +156,97 @@
       "source": "NY Times"
     },
     {
-      "name": "The War Is Making It Harder To Keep The Lights On",
+      "name": "Autumn Durald Arkapaw",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/03/16/business/iran-bangladesh-imported-gas.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/film/2026/mar/16/sinners-oscar-triumphs-black-cinema-ryan-coogler-michael-b-jordan",
+      "source": "The Guardian"
     },
     {
-      "name": "The Olympics And Paralympics",
+      "name": "World Cup 2026",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/mar/15/us-complete-olympic-paralympic-ice-hockey-sweep-with-another-victory-over-canada",
+      "url": "https://www.theguardian.com/football/2026/mar/16/usmnt-kits-world-cup-2026",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympics    Speculation",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/mar/15/lindsey-vonn-says-she-will-retire-on-her-own-terms-please-stop-telling-me-what-i-should",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tar Creek Superfund",
+      "count": 1,
+      "url": "https://www.theguardian.com/environment/2026/mar/15/quapaw-nation-oklahoma-superfund-cleanup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "International Booker",
+      "count": 1,
+      "url": "https://www.theguardian.com/books/2026/mar/15/shahrnush-parsipur-the-women-of-iran-will-cause-the-fall-of-the-islamic-republic",
       "source": "The Guardian"
     }
   ],
-  "GPE": [
+  "PERSON": [
     {
-      "name": "North-West Iran",
-      "count": 79,
-      "url": "https://www.theguardian.com/film/2026/mar/14/oscar-documentary-nominees-what-happened-next",
+      "name": "Enter Donald Trump",
+      "count": 38,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/15/saturday-night-live-harry-styles-host",
       "source": "The Guardian"
     },
     {
-      "name": "Us",
-      "count": 74,
-      "url": "https://www.nytimes.com/2026/03/14/us/rock-fire-department-google-donation-oklahoma.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 26,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Israel",
-      "count": 17,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "California",
-      "count": 13,
-      "url": "https://www.theguardian.com/film/2026/mar/16/paul-thomas-anderson-oscars-success-one-battle-after-another-hollywood",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Washington Dc",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/mar/15/snow-wind-winter-storm-thunder-tornadoes",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ukraine",
-      "count": 12,
-      "url": "https://www.theguardian.com/world/2026/mar/16/ukraine-war-briefing-zelenskyy-wants-new-system-to-control-ukraine-drone-sales",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uk",
+      "name": "Oscar Pérez-Oliva Fraga",
       "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/16/europe-reaction-donald-trump-war-iran-legal-iraq",
-      "source": "The Guardian"
+      "url": "https://www.today.com/video/exclusive-cuba-set-to-welcome-us-investment-259382341743",
+      "source": "NBC News"
     },
     {
-      "name": "Texas",
-      "count": 11,
-      "url": "https://www.theguardian.com/sport/2026/mar/15/march-madness-duke-named-top-mens-seed-as-miami-ohio-squeak-in-as-no-11",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cuba",
+      "name": "Jessie Buckley",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/03/15/world/americas/desperation-in-cuba-ignites-unusual-acts-of-defiance.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hormuz",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Chris Wright",
+      "count": 8,
+      "url": "https://www.nbcnews.com/video/shorts/sec-chris-wright-says-iran-war-could-be-over-in-4-to-6-weeks-259351621716",
+      "source": "NBC News"
+    },
+    {
+      "name": "Michael B. Jordan",
+      "count": 6,
+      "url": "https://www.latimes.com/entertainment-arts/awards/story/2026-03-15/sinners-wins-4-awards-from-historic-16-nominations-oscars-2026",
+      "source": "LA Times"
+    },
+    {
+      "name": "Michael B Jordan",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/2026/mar/15/oscars-2026-best-picture-one-battle-after-another-win",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Covid",
+      "count": 4,
+      "url": "https://www.theguardian.com/us-news/2026/mar/16/covid-vaccine-recommendation-kids-pregnant-people-data",
+      "source": "The Guardian"
+    },
+    {
+      "name": "James Blake",
+      "count": 4,
+      "url": "https://www.theguardian.com/music/2026/mar/13/james-blake-trying-times-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Howard Jacobson",
+      "count": 4,
+      "url": "https://www.theguardian.com/books/2026/mar/16/howl-by-howard-jacobson-review-a-tragicomic-portrait-of-a-jewish-mans-despair",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-03-16T08:11:08Z"
+  "updated": "2026-03-16T14:22:59Z"
 };
