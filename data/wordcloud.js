@@ -2,168 +2,128 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    114,
-    "https://www.nytimes.com/2026/03/16/world/europe/europe-iran-war-trump-hormuz-warships.html"
+    107,
+    "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html"
   ],
   [
     "iran",
-    87,
-    "https://www.nytimes.com/2026/03/17/world/asia/iran-war-china-us-trump-xi.html"
+    73,
+    "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html"
   ],
   [
     "war",
-    81,
-    "https://www.nytimes.com/2026/03/17/world/asia/iran-war-china-us-trump-xi.html"
+    57,
+    "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html"
   ],
   [
     "president",
-    47,
-    "https://www.nytimes.com/2026/03/16/world/europe/europe-iran-war-trump-hormuz-warships.html"
-  ],
-  [
-    "sleep",
-    44,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/16/the-plastic-detox-review-a-film-so-terrifying-you-will-want-to-change-your-life-immediately"
-  ],
-  [
-    "strait",
-    37,
-    "https://www.nytimes.com/2026/03/16/world/europe/europe-iran-war-trump-hormuz-warships.html"
-  ],
-  [
-    "hormuz",
-    33,
-    "https://www.nytimes.com/2026/03/16/world/europe/europe-iran-war-trump-hormuz-warships.html"
-  ],
-  [
-    "oil",
-    28,
-    "https://www.nytimes.com/2026/03/16/us/santa-barbara-oil-pipeline-trump.html"
-  ],
-  [
-    "health",
-    23,
-    "https://www.nytimes.com/2026/03/16/health/childhood-vaccines-lawsuit-kennedy.html"
-  ],
-  [
-    "plastic",
-    23,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/16/the-plastic-detox-review-a-film-so-terrifying-you-will-want-to-change-your-life-immediately"
-  ],
-  [
-    "middle",
-    22,
-    "https://www.nytimes.com/2026/03/17/world/europe/iran-uk-raf-fairford-starmer-trump.html"
-  ],
-  [
-    "oscars",
-    22,
-    "https://www.nytimes.com/2026/03/16/movies/oscars-moments-best-worst.html"
+    42,
+    "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html"
   ],
   [
     "israel",
-    22,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "film",
-    21,
-    "https://www.theguardian.com/world/2026/mar/17/low-budget-thriller-highlights-hungary-election-divide"
-  ],
-  [
-    "east",
-    20,
-    "https://www.nytimes.com/2026/03/17/world/europe/iran-uk-raf-fairford-starmer-trump.html"
+    33,
+    "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html"
   ],
   [
     "security",
+    25,
+    "https://www.nytimes.com/2026/03/17/world/middleeast/ali-larijani-death-iran-military-control-israel.html"
+  ],
+  [
+    "killed",
+    25,
+    "https://www.nytimes.com/2026/03/17/world/africa/nigeria-suicide-bombings-maiduguri.html"
+  ],
+  [
+    "plastic",
+    24,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/16/the-plastic-detox-review-a-film-so-terrifying-you-will-want-to-change-your-life-immediately"
+  ],
+  [
+    "country",
+    22,
+    "https://www.nytimes.com/2026/03/16/world/americas/cuba-us-foreign-investment-businesses.html"
+  ],
+  [
+    "iranian",
+    22,
+    "https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says"
+  ],
+  [
+    "video",
     20,
-    "https://www.nytimes.com/2026/03/16/travel/tsa-airport-delays-shutdown.html"
+    "https://www.theguardian.com/music/2026/mar/16/we-did-disneyland-on-mind-altering-substances-primus-frontman-les-claypool-on-being-rocks-great-joker-and-why-metallica-rejected-him"
   ],
   [
     "administration",
     19,
-    "https://www.nytimes.com/2026/03/16/world/americas/trump-cuba-president-diaz-canel.html"
+    "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html"
   ],
   [
-    "california",
+    "senate",
     19,
-    "https://www.nytimes.com/2026/03/16/us/santa-barbara-oil-pipeline-trump.html"
+    "https://www.nytimes.com/2026/03/17/us/elections/il-primary-election-today-what-to-know.html"
   ],
   [
-    "husband",
+    "democrats",
     19,
-    "https://www.nytimes.com/2026/03/16/us/kouri-richins-murder-verdict.html"
+    "https://www.nytimes.com/2026/03/17/opinion/scranton-biden-2026-midterms.html"
+  ],
+  [
+    "act",
+    19,
+    "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates"
+  ],
+  [
+    "strait",
+    19,
+    "https://www.theguardian.com/us-news/2026/mar/16/trump-administration-news-updates-today"
+  ],
+  [
+    "government",
+    18,
+    "https://www.nytimes.com/article/afghanistan-pakistan-taliban-airstrikes.html"
+  ],
+  [
+    "health",
+    18,
+    "https://www.theguardian.com/society/ng-interactive/2026/mar/17/mental-health-housing"
+  ],
+  [
+    "play",
+    18,
+    "https://www.theguardian.com/sport/2026/mar/17/world-baseball-classic-venezuela-usa-final"
+  ],
+  [
+    "film",
+    18,
+    "https://www.theguardian.com/film/2026/mar/17/secret-lives-of-six-body-doubles"
   ],
   [
     "military",
-    19,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "global",
-    19,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "despite",
-    19,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "having",
-    19,
-    "https://www.theguardian.com/football/2026/mar/17/tony-powell-gay-footballer-norwich-documentary-last-guest-at-the-holloway-motel"
-  ],
-  [
-    "conflict",
-    19,
-    "https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest"
-  ],
-  [
-    "death",
-    19,
-    "https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed"
-  ],
-  [
-    "night",
-    19,
-    "https://www.theguardian.com/world/2026/mar/17/low-budget-thriller-highlights-hungary-election-divide"
-  ],
-  [
-    "texas",
-    19,
-    "https://www.theguardian.com/football/2026/mar/16/usmnt-kits-world-cup-2026"
-  ],
-  [
-    "game",
-    19,
-    "https://www.theguardian.com/sport/2026/mar/16/chiefs-reportedly-trade-for-jets-quarterback-fields-with-mahomess-return-date-uncertain"
-  ],
-  [
-    "american",
-    18,
-    "https://www.nytimes.com/2026/03/17/world/europe/iran-uk-raf-fairford-starmer-trump.html"
-  ],
-  [
-    "final",
-    18,
-    "https://www.washingtonpost.com/nation/2026/03/16/dna-testing-dead-convicted-murder/"
-  ],
-  [
-    "ukraine",
-    18,
-    "https://www.theguardian.com/world/2026/mar/17/ukraine-war-briefing-russia-agrees-stop-recruiting-kenyans"
-  ],
-  [
-    "europe",
     17,
-    "https://www.nytimes.com/2026/03/16/world/europe/europe-iran-war-trump-hormuz-warships.html"
+    "https://www.nytimes.com/2026/03/17/world/middleeast/ali-larijani-death-iran-military-control-israel.html"
   ],
   [
-    "vaccine",
+    "political",
     17,
-    "https://www.nytimes.com/2026/03/16/health/childhood-vaccines-lawsuit-kennedy.html"
+    "https://www.nytimes.com/2026/03/17/world/middleeast/ali-larijani-death-iran-military-control-israel.html"
+  ],
+  [
+    "kennedy",
+    17,
+    "https://www.nytimes.com/2026/03/16/us/politics/grenell-kennedy-center.html"
+  ],
+  [
+    "america",
+    17,
+    "https://www.nytimes.com/2026/03/17/us/politics/iran-war-trump-conservative-divide-israel.html"
+  ],
+  [
+    "battle",
+    17,
+    "https://www.washingtonpost.com/nation/2026/03/17/new-jersey-affordable-housing-princeton/"
   ],
   [
     "team",
@@ -171,79 +131,54 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "donald",
-    17,
-    "https://www.theguardian.com/world/2026/mar/16/donald-trump-nato-threats-glaring-absence-iran-strategy"
-  ],
-  [
-    "video",
-    17,
-    "https://www.theguardian.com/music/2026/mar/16/we-did-disneyland-on-mind-altering-substances-primus-frontman-les-claypool-on-being-rocks-great-joker-and-why-metallica-rejected-him"
-  ],
-  [
-    "government",
-    16,
-    "https://www.nytimes.com/2026/03/16/health/childhood-vaccines-lawsuit-kennedy.html"
-  ],
-  [
-    "black",
-    16,
-    "https://www.nytimes.com/2026/03/16/arts/television/judy-pace-dead.html"
-  ],
-  [
-    "actually",
-    16,
-    "https://www.theguardian.com/news/ng-interactive/2026/mar/17/elon-musk-gamify-government"
-  ],
-  [
-    "oscar",
-    16,
-    "https://www.theguardian.com/artanddesign/2026/mar/17/absurdist-photography-yorgos-lanthimos-emma-stone-willem-dafoe"
-  ],
-  [
     "because",
+    17,
+    "https://www.theguardian.com/world/2026/mar/17/trump-intelligence-iran-school-strike"
+  ],
+  [
+    "save",
+    17,
+    "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates"
+  ],
+  [
+    "hormuz",
+    17,
+    "https://www.theguardian.com/us-news/2026/mar/16/trump-administration-news-updates-today"
+  ],
+  [
+    "center",
     16,
-    "https://www.theguardian.com/world/2026/mar/16/china-us-trump-visit-strait-of-hormuz"
+    "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html"
   ],
   [
-    "living",
+    "death",
     16,
-    "https://www.theguardian.com/commentisfree/2026/mar/16/bill-gates-jeffrey-epstein"
+    "https://www.nytimes.com/2026/03/17/podcasts/the-headlines/allies-trump-bovino-retire.html"
   ],
   [
-    "masks",
+    "game",
     16,
-    "https://www.theguardian.com/film/2026/mar/16/point-break-feelgood-movie"
+    "https://www.theguardian.com/sport/2026/mar/17/shea-ralph-vanderbilt-womens-basketball-march-madness"
   ],
   [
-    "countries",
+    "york",
     15,
-    "https://www.nytimes.com/2026/03/16/world/europe/europe-iran-war-trump-hormuz-warships.html"
+    "https://www.nytimes.com/2026/03/17/nyregion/2nd-avenue-subway-lawsuit-mta-trump.html"
   ],
   [
-    "secretary",
+    "watch",
     15,
-    "https://www.nytimes.com/2026/03/16/us/politics/grenell-kennedy-center.html"
+    "https://www.nytimes.com/2026/03/17/us/elections/il-primary-election-today-what-to-know.html"
   ],
   [
-    "awards",
+    "oscars",
     15,
-    "https://www.nytimes.com/2026/03/16/movies/a24-marty-supreme-chalamet-safdie.html"
+    "https://www.nytimes.com/2026/03/16/movies/oscars-michael-b-jordan-timothee-chalamet.html"
   ],
   [
-    "place",
+    "breaking",
     15,
-    "https://www.nytimes.com/2026/03/16/movies/oscars-sinners-one-battle-after-another-in-memoriam.html"
-  ],
-  [
-    "battle",
-    15,
-    "https://www.washingtonpost.com/nation/2026/03/16/dna-testing-dead-convicted-murder/"
-  ],
-  [
-    "crisis",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/03/17/weather/weird-weather-march-heat-snow-tornado.html"
   ],
   [
     "israeli",
@@ -251,128 +186,193 @@
     "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "attack",
+    "donald",
     15,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.theguardian.com/commentisfree/2026/mar/17/trump-iran-war-cost-americans-11-billion"
   ],
   [
-    "email",
+    "middle",
     15,
-    "https://www.theguardian.com/us-news/2026/mar/16/us-troops-iran-war"
-  ],
-  [
-    "energy",
-    15,
-    "https://www.theguardian.com/business/2026/mar/17/iran-war-energy-uk-europe-steel-chemicals"
-  ],
-  [
-    "prices",
-    15,
-    "https://www.theguardian.com/us-news/2026/mar/14/gas-prices-los-angeles-chevron"
-  ],
-  [
-    "filter",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jan/17/best-nonalcoholic-wines"
+    "https://www.theguardian.com/world/2026/mar/17/uk-security-adviser-attended-us-iran-talks-and-judged-deal-was-within-reach"
   ],
   [
     "almost",
+    15,
+    "https://www.theguardian.com/world/2026/mar/17/trump-intelligence-iran-school-strike"
+  ],
+  [
+    "having",
+    15,
+    "https://www.theguardian.com/environment/2026/mar/17/revealed-world-worst-methane-leaks-global-heating"
+  ],
+  [
+    "season",
+    15,
+    "https://www.theguardian.com/football/2026/mar/17/tony-powell-gay-footballer-norwich-documentary-last-guest-at-the-holloway-motel"
+  ],
+  [
+    "ali",
     14,
-    "https://www.nytimes.com/2026/03/17/world/asia/iran-war-china-us-trump-xi.html"
+    "https://www.nytimes.com/2026/03/17/world/middleeast/ali-larijani-death-iran-military-control-israel.html"
   ],
   [
-    "power",
+    "larijani",
     14,
-    "https://www.nytimes.com/2026/03/16/world/americas/trump-cuba-president-diaz-canel.html"
+    "https://www.nytimes.com/2026/03/17/world/middleeast/ali-larijani-death-iran-military-control-israel.html"
   ],
   [
-    "judge",
+    "star",
     14,
-    "https://www.nytimes.com/2026/03/16/health/childhood-vaccines-lawsuit-kennedy.html"
+    "https://www.nytimes.com/2026/03/16/movies/oscars-michael-b-jordan-timothee-chalamet.html"
   ],
   [
-    "breaking",
+    "attacks",
     14,
-    "https://www.nytimes.com/2026/03/16/travel/tsa-airport-delays-shutdown.html"
+    "https://www.nytimes.com/2026/03/17/world/africa/nigeria-suicide-bombings-maiduguri.html"
   ],
   [
-    "kennedy",
+    "global",
     14,
-    "https://www.nytimes.com/2026/03/16/us/politics/grenell-kennedy-center.html"
-  ],
-  [
-    "russia",
-    14,
-    "https://www.nytimes.com/2026/03/16/world/europe/russia-cheburashka-movie.html"
-  ],
-  [
-    "ice",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "strike",
-    14,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
-  ],
-  [
-    "fuel",
-    14,
-    "https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest"
-  ],
-  [
-    "political",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/16/aipac-pro-israel-super-pac-elections"
-  ],
-  [
-    "outside",
-    13,
-    "https://www.nytimes.com/2026/03/16/world/americas/cuba-us-foreign-investment-businesses.html"
-  ],
-  [
-    "country",
-    13,
-    "https://www.nytimes.com/2026/03/16/world/americas/cuba-us-foreign-investment-businesses.html"
-  ],
-  [
-    "court",
-    13,
-    "https://www.nytimes.com/2026/03/16/health/childhood-vaccines-lawsuit-kennedy.html"
-  ],
-  [
-    "ahead",
-    13,
-    "https://www.nytimes.com/2026/03/16/travel/tsa-airport-delays-shutdown.html"
-  ],
-  [
-    "center",
-    13,
-    "https://www.nytimes.com/2026/03/16/us/politics/grenell-kennedy-center.html"
-  ],
-  [
-    "michael",
-    13,
-    "https://www.nytimes.com/2026/03/16/movies/oscars-moments-best-worst.html"
-  ],
-  [
-    "ago",
-    13,
-    "https://www.nytimes.com/2026/03/16/movies/a24-marty-supreme-chalamet-safdie.html"
-  ],
-  [
-    "academy",
-    13,
-    "https://www.nytimes.com/2026/03/16/movies/a24-marty-supreme-chalamet-safdie.html"
-  ],
-  [
-    "air",
-    13,
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "everything",
+    "actually",
+    14,
+    "https://www.theguardian.com/news/ng-interactive/2026/mar/17/elon-musk-gamify-government"
+  ],
+  [
+    "buying",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/mar/17/best-irish-beer"
+  ],
+  [
+    "email",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/17/illinois-election-day-senate-congressional-races"
+  ],
+  [
+    "oil",
+    14,
+    "https://www.theguardian.com/environment/2026/mar/17/revealed-world-worst-methane-leaks-global-heating"
+  ],
+  [
+    "book",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/17/utah-woman-kouri-richins-found-guilty-husband-ntwnfb"
+  ],
+  [
+    "director",
+    13,
+    "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html"
+  ],
+  [
+    "line",
+    13,
+    "https://www.nytimes.com/2026/03/17/world/middleeast/ali-larijani-death-iran-military-control-israel.html"
+  ],
+  [
+    "allies",
+    13,
+    "https://www.nytimes.com/2026/03/17/podcasts/the-headlines/allies-trump-bovino-retire.html"
+  ],
+  [
+    "east",
+    13,
+    "https://www.nytimes.com/2026/03/17/nyregion/2nd-avenue-subway-lawsuit-mta-trump.html"
+  ],
+  [
+    "american",
+    13,
+    "https://www.nytimes.com/2026/03/17/world/americas/mexico-us-guns-trafficking-cartels.html"
+  ],
+  [
+    "early",
+    13,
+    "https://www.nytimes.com/2026/03/17/business/self-driving-semi-trucks-texas-us.html"
+  ],
+  [
+    "crisis",
+    13,
+    "https://www.nytimes.com/2026/03/17/nyregion/affordable-education-income-inequality.html"
+  ],
+  [
+    "despite",
+    13,
+    "https://www.nytimes.com/2026/03/17/world/africa/nigeria-suicide-bombings-maiduguri.html"
+  ],
+  [
+    "song",
+    13,
+    "https://www.nytimes.com/2026/03/17/science/birds-honeyeater-birdsong-conservation.html"
+  ],
+  [
+    "cancer",
+    13,
+    "https://www.washingtonpost.com/lifestyle/2026/03/17/little-free-pep-talk-library/"
+  ],
+  [
+    "hollywood",
     13,
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "latest",
+    13,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "americans",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/mar/17/trump-iran-war-cost-americans-11-billion"
+  ],
+  [
+    "chief",
+    13,
+    "https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says"
+  ],
+  [
+    "politics",
+    13,
+    "https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says"
+  ],
+  [
+    "strikes",
+    13,
+    "https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says"
+  ],
+  [
+    "democratic",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/17/illinois-election-day-senate-congressional-races"
+  ],
+  [
+    "media",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/17/dont-upstage-your-friends-19-modern-etiquette-mistakes-and-how-to-avoid-them"
+  ],
+  [
+    "love",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/17/love-story-jfk-jr-carolyn-bessette"
+  ],
+  [
+    "style",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/17/love-story-jfk-jr-carolyn-bessette"
+  ],
+  [
+    "living",
+    13,
+    "https://www.theguardian.com/games/2026/mar/16/petri-dish-brain-cells-playing-doom-cortical-labs"
+  ],
+  [
+    "iran's",
+    13,
+    "https://www.latimes.com/politics/story/2026-03-15/trump-is-searching-for-endgame-to-iran-war"
+  ],
+  [
+    "million",
+    12,
+    "https://www.nytimes.com/2026/03/17/nyregion/2nd-avenue-subway-lawsuit-mta-trump.html"
   ]
 ];

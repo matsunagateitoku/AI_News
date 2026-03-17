@@ -2,22 +2,16 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "The Iran War Means",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/03/17/world/asia/iran-war-china-us-trump-xi.html",
+      "name": "The Iran War",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/03/17/opinion/trump-iran-war-strategy.html",
       "source": "NY Times"
     },
     {
-      "name": "The 2026 World Cup",
-      "count": 4,
-      "url": "https://www.theguardian.com/football/2026/mar/16/usmnt-kits-world-cup-2026",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Iraq War",
-      "count": 3,
-      "url": "https://www.nytimes.com/2026/03/17/world/europe/iran-uk-raf-fairford-starmer-trump.html",
-      "source": "NY Times"
+      "name": "The World Cup",
+      "count": 5,
+      "url": "https://www.npr.org/2026/03/17/nx-s1-5750358/we-are-the-world-cup-book-review",
+      "source": "NPR"
     },
     {
       "name": "Quds Day",
@@ -26,10 +20,10 @@
       "source": "NBC News"
     },
     {
-      "name": "The Iran War",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/03/17/opinion/trump-iran-war-strategy.html",
-      "source": "NY Times"
+      "name": "The Players Championship",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/mar/17/robert-macintyre-major-ambitions-masters-augusta-golf",
+      "source": "The Guardian"
     },
     {
       "name": "Independence Day",
@@ -38,53 +32,65 @@
       "source": "The Guardian"
     },
     {
-      "name": "Olympics",
+      "name": "Panna Ii",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/mar/12/alysa-liu-olympics-oakland",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/17/love-story-jfk-jr-carolyn-bessette",
       "source": "The Guardian"
     },
     {
-      "name": "Olympic",
+      "name": "Autumn Durald Arkapaw",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/mar/12/alysa-liu-olympics-oakland",
+      "url": "https://www.theguardian.com/film/2026/mar/16/sinners-oscar-triumphs-black-cinema-ryan-coogler-michael-b-jordan",
       "source": "The Guardian"
     },
     {
-      "name": "World Cup 2026",
+      "name": "Bad Crow Games",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/mar/16/usmnt-kits-world-cup-2026",
+      "url": "https://www.theguardian.com/games/2026/mar/13/six-essential-board-games-based-on-video-games",
       "source": "The Guardian"
     },
     {
-      "name": "The Ukraine War",
+      "name": "Vitamix 5200",
       "count": 1,
-      "url": "https://www.theguardian.com/world/2026/mar/17/ukraine-war-briefing-russia-agrees-stop-recruiting-kenyans",
+      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nero Non-Fiction Book",
+      "count": 1,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/14/sarah-perry-interview-author-nero-book-award",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 36,
-      "url": "https://www.theguardian.com/world/2026/mar/16/donald-trump-nato-threats-glaring-absence-iran-strategy",
+      "count": 38,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/17/trump-iran-war-cost-americans-11-billion",
       "source": "The Guardian"
     },
     {
-      "name": "Hormuz",
-      "count": 14,
-      "url": "https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest",
-      "source": "The Guardian"
+      "name": "Ali Larijani",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/03/17/world/middleeast/ali-larijani-death-iran-military-control-israel.html",
+      "source": "NY Times"
     },
     {
       "name": "Oscar",
-      "count": 10,
+      "count": 7,
       "url": "https://www.theguardian.com/artanddesign/2026/mar/17/absurdist-photography-yorgos-lanthimos-emma-stone-willem-dafoe",
       "source": "The Guardian"
     },
     {
-      "name": "Kouri Richins",
+      "name": "Carolyn Bessette Kennedy",
       "count": 7,
-      "url": "https://www.nytimes.com/2026/03/16/us/kouri-richins-murder-verdict.html",
+      "url": "https://www.theguardian.com/thefilter-us/2026/mar/08/carolyn-bessette-kennedy-style-tips-90s-wardrobe",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Joe Kent",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html",
       "source": "NY Times"
     },
     {
@@ -94,89 +100,71 @@
       "source": "The Guardian"
     },
     {
-      "name": "John Cornyn",
+      "name": "Jonathan Powell",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/mar/16/dhs-shutdown-funding-debate-airport-delays-texas",
+      "url": "https://www.theguardian.com/world/2026/mar/17/uk-security-adviser-attended-us-iran-talks-and-judged-deal-was-within-reach",
       "source": "The Guardian"
     },
     {
-      "name": "Greg Casar",
+      "name": "Kouri Richins",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/mar/16/dhs-shutdown-funding-debate-airport-delays-texas",
+      "url": "https://www.theguardian.com/us-news/2026/mar/17/utah-woman-kouri-richins-found-guilty-husband-ntwnfb",
       "source": "The Guardian"
     },
     {
-      "name": "Sean Penn",
+      "name": "Hormuz",
       "count": 5,
-      "url": "https://www.theguardian.com/film/2026/mar/16/one-no-show-after-another-sean-penn-oscar-winning-refuseniks-one-battle-after-another-best-supporting-actor",
+      "url": "https://www.theguardian.com/us-news/2026/mar/16/trump-administration-news-updates-today",
       "source": "The Guardian"
     },
     {
-      "name": "Michael B Jordan",
+      "name": "Brendan Carr",
       "count": 5,
-      "url": "https://www.theguardian.com/film/2026/mar/16/michael-b-jordan-oscar-win-sinners-the-wire-fruitvale-station-creed-black-panther",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Carolyn Bessette Kennedy",
-      "count": 5,
-      "url": "https://www.theguardian.com/thefilter-us/2026/mar/08/carolyn-bessette-kennedy-style-tips-90s-wardrobe",
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/17/trump-iran-fcc-brendan-carr",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Trump Administration Seeks",
-      "count": 74,
+      "count": 63,
       "url": "https://www.nytimes.com/2026/03/16/world/americas/trump-cuba-president-diaz-canel.html",
       "source": "NY Times"
     },
     {
       "name": "The White House",
-      "count": 15,
-      "url": "https://www.theguardian.com/world/2026/mar/16/donald-trump-nato-threats-glaring-absence-iran-strategy",
-      "source": "The Guardian"
+      "count": 26,
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-03-17/wbc-united-states-players-white-house-trump-reaction",
+      "source": "LA Times"
     },
     {
-      "name": "The Filter Us",
-      "count": 15,
-      "url": "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Breaking News",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/mar/16/judge-blocks-rfk-jr-vaccine-policy-changes",
-      "source": "The Guardian"
+      "name": "Texas Senate",
+      "count": 19,
+      "url": "https://www.politico.com/news/2026/03/09/trump-is-delaying-texas-senate-endorsement-to-pressure-gop-senators-on-save-america-act-00819991",
+      "source": "Politico"
     },
     {
       "name": "Ai",
-      "count": 10,
+      "count": 13,
       "url": "https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves",
       "source": "The Guardian"
     },
     {
-      "name": "Cbs News",
-      "count": 8,
-      "url": "https://www.cbsnews.com/video/utah-kouri-richins-guilty-murdering-husband/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Guardian Europe",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/16/europe-reaction-donald-trump-war-iran-legal-iraq",
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale",
       "source": "The Guardian"
     },
     {
-      "name": "Nato",
-      "count": 6,
-      "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "source": "Wall St. Journal"
+      "name": "Gop",
+      "count": 12,
+      "url": "https://www.foxnews.com/politics/new-names-emerge-jack-smiths-wide-ranging-bid-gop-lawmakers-phone-records-unearthed-emails-show",
+      "source": "Fox News"
     },
     {
-      "name": "Tsa",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/mar/16/dhs-shutdown-funding-debate-airport-delays-texas",
+      "name": "Breaking News",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/mar/17/illinois-election-day-senate-congressional-races",
       "source": "The Guardian"
     },
     {
@@ -184,69 +172,81 @@
       "count": 6,
       "url": "https://www.theguardian.com/music/2026/mar/16/we-did-disneyland-on-mind-altering-substances-primus-frontman-les-claypool-on-being-rocks-great-joker-and-why-metallica-rejected-him",
       "source": "The Guardian"
+    },
+    {
+      "name": "Chanel",
+      "count": 6,
+      "url": "https://www.theguardian.com/fashion/2026/mar/10/matthieu-blazy-chanel-paris-fashion-week-show",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Supreme National Security Council",
+      "count": 6,
+      "url": "https://www.foxnews.com/world/top-iranian-official-commander-killed-strike-israel-defense-minister-says",
+      "source": "Fox News"
     }
   ],
   "GPE": [
     {
+      "name": "Iran",
+      "count": 76,
+      "url": "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Us",
-      "count": 108,
-      "url": "https://www.theguardian.com/world/commentisfree/2026/mar/17/trump-is-aiming-for-dictatorship-thats-the-verdict-of-the-worlds-most-credible-democracy-watchdog",
+      "count": 71,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/17/trump-iran-war-cost-americans-11-billion",
       "source": "The Guardian"
     },
     {
-      "name": "Iran",
-      "count": 83,
-      "url": "https://www.nytimes.com/2026/03/17/world/asia/iran-war-china-us-trump-xi.html",
-      "source": "NY Times"
-    },
-    {
       "name": "U.S.",
-      "count": 36,
-      "url": "https://www.nytimes.com/2026/03/17/world/asia/iran-war-china-us-trump-xi.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/03/16/us/santa-barbara-oil-pipeline-trump.html",
+      "count": 31,
+      "url": "https://www.nytimes.com/2026/03/17/world/americas/mexico-us-guns-trafficking-cartels.html",
       "source": "NY Times"
     },
     {
       "name": "Israel",
-      "count": 17,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Ukraine",
-      "count": 17,
-      "url": "https://www.theguardian.com/world/2026/mar/17/ukraine-war-briefing-russia-agrees-stop-recruiting-kenyans",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas",
-      "count": 16,
-      "url": "https://www.theguardian.com/football/2026/mar/16/usmnt-kits-world-cup-2026",
-      "source": "The Guardian"
+      "count": 29,
+      "url": "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html",
+      "source": "NY Times"
     },
     {
       "name": "Uk",
       "count": 15,
-      "url": "https://www.nytimes.com/2026/03/17/world/europe/iran-uk-raf-fairford-starmer-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Russia",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/03/16/world/europe/russia-cheburashka-movie.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/world/2026/mar/17/uk-security-adviser-attended-us-iran-talks-and-judged-deal-was-within-reach",
+      "source": "The Guardian"
     },
     {
       "name": "L.A. County",
-      "count": 14,
-      "url": "https://www.latimes.com/california/story/2026-03-16/former-la-county-deputy-sentenced-crypto-godfather-schemes",
+      "count": 13,
+      "url": "https://www.latimes.com/science/story/2026-03-14/thousands-of-people-disabled-by-long-covid-seek-answers",
       "source": "LA Times"
+    },
+    {
+      "name": "California",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/mar/16/cheese-raw-milk-e-coli-outbreak",
+      "source": "The Guardian"
+    },
+    {
+      "name": "West Hollywood",
+      "count": 11,
+      "url": "https://www.latimes.com/lifestyle/image/story/2026-03-13/kyna-payawal-picnic-window-display-toast",
+      "source": "LA Times"
+    },
+    {
+      "name": "New York State",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/03/17/climate/offshore-wind-settlements-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Illinois County",
+      "count": 9,
+      "url": "https://www.foxnews.com/politics/dhs-hits-back-illinois-county-clerk-who-told-ice-stay-away-from-primary-polling-places",
+      "source": "Fox News"
     }
   ],
-  "updated": "2026-03-17T07:56:50Z"
+  "updated": "2026-03-17T14:20:10Z"
 };
