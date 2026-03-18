@@ -2,93 +2,153 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    81,
-    "https://www.nytimes.com/2026/03/18/world/asia/trump-japan-takaichi-iran-hormuz.html"
+    98,
+    "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html"
   ],
   [
     "iran",
-    78,
-    "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html"
+    85,
+    "https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html"
   ],
   [
     "war",
-    61,
-    "https://www.nytimes.com/2026/03/18/podcasts/the-headlines/israel-iran-trump-joe-kent-resign.html"
+    64,
+    "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html"
   ],
   [
     "president",
-    40,
-    "https://www.nytimes.com/2026/03/18/world/asia/trump-japan-takaichi-iran-hormuz.html"
+    41,
+    "https://www.nytimes.com/2026/03/18/business/economy/us-trade-deficit-ai-boom.html"
   ],
   [
-    "israel",
-    35,
-    "https://www.nytimes.com/2026/03/18/podcasts/the-headlines/israel-iran-trump-joe-kent-resign.html"
-  ],
-  [
-    "senate",
-    33,
-    "https://www.nytimes.com/2026/03/18/us/elections/illinois-primary-elections-takeaways.html"
-  ],
-  [
-    "team",
-    23,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "intelligence",
+    29,
+    "https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html"
   ],
   [
     "security",
-    22,
-    "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html"
+    29,
+    "https://www.theguardian.com/technology/audio/2026/mar/18/off-duty-the-crime-podcast"
   ],
   [
-    "hearing",
-    22,
-    "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates"
+    "israel",
+    27,
+    "https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html"
   ],
   [
     "israeli",
-    21,
-    "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html"
+    27,
+    "https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html"
+  ],
+  [
+    "sen",
+    26,
+    "https://www.latimes.com/politics/story/2026-03-18/temperament-matters-senators-question-homeland-security-nominee-at-confirmation-hearing"
+  ],
+  [
+    "director",
+    25,
+    "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html"
+  ],
+  [
+    "senate",
+    25,
+    "https://www.nytimes.com/2026/03/18/us/elections/juliana-stratton-pritzker-il-victory.html"
   ],
   [
     "mullin",
-    21,
-    "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates"
-  ],
-  [
-    "prices",
-    20,
-    "https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html"
+    24,
+    "https://www.nytimes.com/2026/03/18/climate/mullin-fema-noem-delays.html"
   ],
   [
     "california",
-    20,
+    24,
     "https://www.nytimes.com/2026/03/18/us/california-winter-heat-wave.html"
   ],
   [
+    "oil",
+    23,
+    "https://www.nytimes.com/2026/03/18/business/jones-act-oil-prices-trump-iran.html"
+  ],
+  [
     "illinois",
+    22,
+    "https://www.nytimes.com/2026/03/18/us/elections/juliana-stratton-pritzker-il-victory.html"
+  ],
+  [
+    "gabbard",
+    22,
+    "https://www.theguardian.com/world/2026/mar/18/tulsi-gabbard-iran-war-senate-hearing"
+  ],
+  [
+    "team",
+    21,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "attack",
+    20,
+    "https://www.nytimes.com/2026/03/18/world/europe/abandoned-russian-tanker-mediterranean-sea.html"
+  ],
+  [
+    "email",
+    20,
+    "https://www.theguardian.com/world/2026/mar/18/tulsi-gabbard-iran-war-senate-hearing"
+  ],
+  [
+    "hearing",
+    20,
+    "https://www.theguardian.com/us-news/2026/mar/18/senate-markwayne-mullin-nomination-dhs"
+  ],
+  [
+    "york",
     19,
-    "https://www.nytimes.com/2026/03/18/us/elections/illinois-primary-elections-takeaways.html"
+    "https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html"
   ],
   [
-    "game",
+    "primary",
     19,
-    "https://www.theguardian.com/sport/2026/mar/18/mens-ncaa-tournament-predictions-bracket"
+    "https://www.nytimes.com/2026/03/18/us/elections/juliana-stratton-pritzker-il-victory.html"
   ],
   [
-    "health",
+    "gas",
     18,
-    "https://www.theguardian.com/world/live/2026/mar/18/iran-war-live-updates-oil-prices-hormuz-trump-larijani-key-leader-killed-israel-strikes"
+    "https://www.nytimes.com/2026/03/18/business/jones-act-oil-prices-trump-iran.html"
   ],
   [
-    "paul",
+    "investigation",
     18,
-    "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates"
+    "https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html"
   ],
   [
-    "democrats",
+    "political",
     18,
-    "https://www.theguardian.com/us-news/2026/mar/18/mamdani-drop-eric-adams-assault-suit"
+    "https://www.nytimes.com/2026/03/18/us/elections/jb-pritzker-juliana-stratton.html"
+  ],
+  [
+    "late",
+    18,
+    "https://www.nytimes.com/2026/03/18/arts/television/late-night-trump-iran.html"
+  ],
+  [
+    "feel",
+    18,
+    "https://www.nytimes.com/2026/03/18/us/california-winter-heat-wave.html"
+  ],
+  [
+    "donald",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/mar/18/trump-media-war-reporting-treason"
+  ],
+  [
+    "media",
+    18,
+    "https://www.theguardian.com/world/2026/mar/18/iran-gulf-energy-facilities-israel-south-pars-gas-field-saudi-arabia-uae-qatar"
+  ],
+  [
+    "social",
+    18,
+    "https://www.theguardian.com/us-news/2026/mar/18/social-media-black-latino-neighborhoods-us"
   ],
   [
     "crisis",
@@ -96,79 +156,54 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "tournament",
+    "east",
     17,
-    "https://www.theguardian.com/sport/2026/mar/18/mens-ncaa-tournament-predictions-bracket"
+    "https://www.theguardian.com/world/2026/mar/18/iran-gulf-energy-facilities-israel-south-pars-gas-field-saudi-arabia-uae-qatar"
   ],
   [
-    "government",
-    17,
-    "https://www.theguardian.com/world/2026/mar/18/us-contractors-stranded-iraq-iran"
+    "killed",
+    16,
+    "https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html"
+  ],
+  [
+    "administration",
+    16,
+    "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html"
+  ],
+  [
+    "girls",
+    16,
+    "https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html"
+  ],
+  [
+    "red",
+    16,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "nuclear",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/mar/18/trump-netanyahu-iran-war"
+  ],
+  [
+    "markwayne",
+    15,
+    "https://www.nytimes.com/2026/03/18/climate/mullin-fema-noem-delays.html"
   ],
   [
     "department",
-    17,
-    "https://www.theguardian.com/us-news/2026/mar/18/florida-colleges-push-back-race-gender-restrictions"
-  ],
-  [
-    "director",
-    17,
-    "https://www.theguardian.com/sport/2026/mar/17/aryna-sabalenka-may-avoid-dubai-tennis-championships-tournament-director"
-  ],
-  [
-    "oil",
-    16,
-    "https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html"
-  ],
-  [
-    "everything",
-    16,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "won",
-    16,
-    "https://www.theguardian.com/sport/2026/mar/18/mens-ncaa-tournament-predictions-bracket"
-  ],
-  [
-    "living",
-    16,
-    "https://www.theguardian.com/money/2026/mar/18/us-money-management"
-  ],
-  [
-    "strikes",
     15,
-    "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html"
+    "https://www.nytimes.com/2026/03/18/technology/google-ai-pentagon.html"
   ],
   [
-    "faces",
+    "drug",
     15,
-    "https://www.nytimes.com/2026/03/18/world/asia/trump-japan-takaichi-iran-hormuz.html"
+    "https://www.nytimes.com/2026/03/18/world/asia/pakistan-afghanistan-war-drug-rehabilitation-strikes.html"
   ],
   [
-    "race",
+    "global",
     15,
-    "https://www.nytimes.com/2026/03/18/us/elections/jb-pritzker-juliana-stratton.html"
-  ],
-  [
-    "america",
-    15,
-    "https://www.nytimes.com/2026/03/18/briefing/changing-how-we-vote.html"
-  ],
-  [
-    "past",
-    15,
-    "https://www.nytimes.com/2026/03/18/business/media/jeffrey-epstein-online.html"
-  ],
-  [
-    "rates",
-    15,
-    "https://www.nytimes.com/2026/03/18/business/federal-reserve-interest-rates-inflation.html"
-  ],
-  [
-    "late",
-    15,
-    "https://www.nytimes.com/2026/03/18/arts/television/late-night-trump-iran.html"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "fire",
@@ -176,203 +211,168 @@
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "intelligence",
-    15,
-    "https://www.theguardian.com/world/live/2026/mar/18/iran-war-live-updates-oil-prices-hormuz-trump-larijani-key-leader-killed-israel-strikes"
-  ],
-  [
-    "republican",
-    15,
-    "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates"
-  ],
-  [
-    "military",
-    14,
-    "https://www.nytimes.com/2026/03/18/world/asia/trump-japan-takaichi-iran-hormuz.html"
-  ],
-  [
-    "americans",
-    14,
-    "https://www.nytimes.com/2026/03/18/world/europe/trumprx-drug-prices-really-cheapest-world-comparison.html"
-  ],
-  [
-    "leading",
-    14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
     "don",
-    14,
+    15,
     "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/18/how-to-use-ai-tools-expert-guide"
   ],
   [
-    "killed",
-    14,
-    "https://www.theguardian.com/world/live/2026/mar/18/iran-war-live-updates-oil-prices-hormuz-trump-larijani-key-leader-killed-israel-strikes"
+    "middle",
+    15,
+    "https://www.theguardian.com/world/2026/mar/18/iran-gulf-energy-facilities-israel-south-pars-gas-field-saudi-arabia-uae-qatar"
   ],
   [
-    "media",
-    14,
-    "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates"
+    "inbox",
+    15,
+    "https://www.theguardian.com/world/2026/mar/18/tulsi-gabbard-iran-war-senate-hearing"
   ],
   [
-    "classic",
+    "prices",
+    15,
+    "https://www.theguardian.com/business/2026/mar/18/fed-interest-rates-iran"
+  ],
+  [
+    "paul",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/mar/18/the-guardian-view-on-the-legacy-of-jurgen-habermas-philosophical-sustenance-for-illiberal-times-"
+  ],
+  [
+    "democrats",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/18/mamdani-drop-eric-adams-assault-suit"
+  ],
+  [
+    "chavez",
+    14,
+    "https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html"
+  ],
+  [
+    "past",
+    14,
+    "https://www.nytimes.com/2026/03/18/business/media/jeffrey-epstein-online.html"
+  ],
+  [
+    "little",
+    14,
+    "https://www.washingtonpost.com/lifestyle/2026/03/17/little-free-pep-talk-library/"
+  ],
+  [
+    "won",
     14,
     "https://www.theguardian.com/sport/2026/mar/18/world-baseball-classic-usa-venezuela-trump-war"
   ],
   [
-    "party",
+    "strikes",
     14,
-    "https://www.latimes.com/entertainment-arts/awards/story/2026-03-15/la-et-env-vanity-fair-oscars-party-red-carpet-fashion-best-dressed"
+    "https://www.theguardian.com/world/2026/mar/18/iran-gulf-energy-facilities-israel-south-pars-gas-field-saudi-arabia-uae-qatar"
   ],
   [
-    "sen",
+    "breaking",
     14,
-    "https://www.npr.org/2026/03/18/g-s1-114267/up-first-newsletter-iran-israel-war-fed-rate-cuts-markwayne-mullin-kalshi-arizona"
+    "https://www.theguardian.com/world/2026/mar/18/tulsi-gabbard-iran-war-senate-hearing"
   ],
   [
-    "attack",
+    "dhs",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/18/senate-markwayne-mullin-nomination-dhs"
+  ],
+  [
+    "threat",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/17/california-wildfire-risk-berkeley"
+  ],
+  [
+    "oscars",
+    14,
+    "https://www.theguardian.com/film/2026/mar/18/oscars-2027-early-prediction-wins"
+  ],
+  [
+    "attacks",
     13,
-    "https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html"
+    "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html"
   ],
   [
-    "country",
-    13,
-    "https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html"
-  ],
-  [
-    "york",
+    "cesar",
     13,
     "https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html"
   ],
   [
-    "primary",
+    "accused",
     13,
-    "https://www.nytimes.com/2026/03/18/us/elections/illinois-primary-elections-takeaways.html"
+    "https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html"
   ],
   [
-    "hold",
+    "allegations",
     13,
-    "https://www.nytimes.com/2026/03/18/business/federal-reserve-interest-rates-inflation.html"
+    "https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-assault-allegations-takeaways.html"
   ],
   [
-    "case",
+    "school",
     13,
-    "https://www.nytimes.com/2026/03/18/arts/design/gardner-museum-heist-theories.html"
+    "https://www.nytimes.com/2026/03/18/nyregion/nyc-high-school-student-ice-freed.html"
   ],
   [
-    "million",
+    "stratton",
     13,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.nytimes.com/2026/03/18/us/elections/juliana-stratton-pritzker-il-victory.html"
   ],
   [
-    "email",
+    "race",
     13,
-    "https://www.theguardian.com/us-news/2026/mar/18/us-spending-iran-war-priorities"
+    "https://www.nytimes.com/2026/03/18/us/elections/jb-pritzker-juliana-stratton.html"
   ],
   [
-    "markwayne",
+    "joe",
     13,
-    "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates"
+    "https://www.nytimes.com/2026/03/18/opinion/joe-kent-israel-iran.html"
   ],
   [
-    "international",
+    "everything",
     13,
-    "https://www.theguardian.com/us-news/2026/mar/18/new-orleans-archdiocese-lawsuit-teen-suicide"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "style",
+    "latest",
     13,
-    "https://www.theguardian.com/us-news/2026/mar/18/lux-magazine-florida-charlie-kirk-dei"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "because",
+    "again",
     13,
-    "https://www.theguardian.com/global-development/2026/mar/18/a-robust-future-why-brazils-bitter-coffee-is-thriving-as-the-climate-crisis-hits-global-crops"
+    "https://www.theguardian.com/commentisfree/2026/mar/18/trump-media-war-reporting-treason"
   ],
   [
-    "love",
+    "alerts",
     13,
-    "https://www.theguardian.com/sport/2026/mar/18/basketball-superteams-uconn-huskies-march-madness"
+    "https://www.theguardian.com/world/2026/mar/18/tulsi-gabbard-iran-war-senate-hearing"
   ],
   [
-    "actually",
+    "committee",
     13,
-    "https://www.theguardian.com/football/2026/mar/17/liam-rosenior-chelsea-psg-champions-league-last-16"
-  ],
-  [
-    "buying",
-    13,
-    "https://www.theguardian.com/film/2026/mar/17/paramount-buying-warner-bros-change-hollywood"
+    "https://www.theguardian.com/world/2026/mar/18/tulsi-gabbard-iran-war-senate-hearing"
   ],
   [
     "homeland",
     13,
-    "https://www.npr.org/2026/03/18/g-s1-114267/up-first-newsletter-iran-israel-war-fed-rate-cuts-markwayne-mullin-kalshi-arizona"
+    "https://www.theguardian.com/world/2026/mar/18/tulsi-gabbard-iran-war-senate-hearing"
   ],
   [
-    "expected",
-    12,
-    "https://www.nytimes.com/2026/03/18/world/asia/trump-japan-takaichi-iran-hormuz.html"
+    "confirmation",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/18/senate-markwayne-mullin-nomination-dhs"
   ],
   [
-    "political",
-    12,
-    "https://www.nytimes.com/2026/03/18/us/elections/jb-pritzker-juliana-stratton.html"
+    "death",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/18/covid-19-pandemic-death-toll"
   ],
   [
-    "act",
-    12,
-    "https://www.nytimes.com/2026/03/18/briefing/changing-how-we-vote.html"
+    "announced",
+    13,
+    "https://www.theguardian.com/media/2026/mar/18/ms-now-ruhle-joe-rogan-show"
   ],
   [
-    "inside",
-    12,
-    "https://www.nytimes.com/2026/03/18/business/media/jeffrey-epstein-online.html"
-  ],
-  [
-    "battle",
-    12,
-    "https://www.washingtonpost.com/nation/2026/03/17/new-jersey-affordable-housing-princeton/"
-  ],
-  [
-    "talk",
-    12,
-    "https://www.washingtonpost.com/lifestyle/2026/03/17/little-free-pep-talk-library/"
-  ],
-  [
-    "global",
-    12,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "east",
-    12,
-    "https://www.theguardian.com/world/live/2026/mar/18/iran-war-live-updates-oil-prices-hormuz-trump-larijani-key-leader-killed-israel-strikes"
-  ],
-  [
-    "having",
-    12,
-    "https://www.theguardian.com/world/live/2026/mar/18/iran-war-live-updates-oil-prices-hormuz-trump-larijani-key-leader-killed-israel-strikes"
-  ],
-  [
-    "far",
-    12,
-    "https://www.theguardian.com/us-news/2026/mar/18/us-spending-iran-war-priorities"
-  ],
-  [
-    "iranian",
-    12,
-    "https://www.theguardian.com/world/2026/mar/18/ignorance-misunderstanding-obfuscation-iran-nuclear-talks-trump"
-  ],
-  [
-    "almost",
-    12,
-    "https://www.theguardian.com/us-news/2026/mar/18/onboard-fire-uss-gerald-ford-aircraft-carrier"
-  ],
-  [
-    "dhs",
-    12,
-    "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates"
+    "film",
+    13,
+    "https://www.theguardian.com/film/2026/mar/18/val-kilmer-resurrected-in-movie-ai"
   ]
 ];
