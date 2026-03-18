@@ -3,230 +3,150 @@
   "GPE": [
     {
       "name": "Iran",
-      "count": 74,
-      "url": "https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html",
+      "count": 73,
+      "url": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html",
       "source": "NY Times"
     },
     {
       "name": "Us",
-      "count": 62,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/18/donald-trump-limits-us-power-slow-learner-china-iran-war",
+      "count": 61,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/18/trump-media-war-reporting-treason",
       "source": "The Guardian"
     },
     {
-      "name": "Illinois",
-      "count": 41,
-      "url": "https://www.nytimes.com/2026/03/17/us/elections/illinois-9th-district-congress-democratic-primary-biss.html",
+      "name": "Israel",
+      "count": 33,
+      "url": "https://www.nytimes.com/2026/03/18/podcasts/the-headlines/israel-iran-trump-joe-kent-resign.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 31,
+      "count": 23,
       "url": "https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html",
       "source": "NY Times"
     },
     {
-      "name": "Israel",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/03/18/opinion/fishback-florida-governor-antisemitism.html",
+      "name": "California",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/03/18/us/california-winter-heat-wave.html",
       "source": "NY Times"
     },
     {
-      "name": "Venezuela",
-      "count": 16,
-      "url": "https://www.theguardian.com/sport/2026/mar/17/venezuela-beat-usa-wbc-final-suarez-trump-politics",
+      "name": "Illinois",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/mar/18/illinois-democratic-senate-primary-race-juliana-stratton",
       "source": "The Guardian"
     },
     {
       "name": "Uk",
-      "count": 13,
-      "url": "https://www.theguardian.com/news/video/2026/mar/18/what-nigel-farage-will-say-for-money",
+      "count": 12,
+      "url": "https://www.theguardian.com/society/2026/mar/18/disturbing-rise-of-nightlife-content-bonnie-blue",
       "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/mar/17/trump-news-at-a-glance-latest-updates-today",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City",
+      "name": "L.A.",
       "count": 10,
-      "url": "https://www.foxnews.com/politics/tuberville-defends-post-likening-mamdani-9-11-attacks-i-just-go-his-rhetoric",
-      "source": "Fox News"
+      "url": "https://www.latimes.com/california/story/2026-03-17/la-teachers-union-widely-expected-to-announce-strike-date-at-massive-wednesday-rally",
+      "source": "LA Times"
     },
     {
-      "name": "Chicago",
+      "name": "Venezuela",
       "count": 9,
-      "url": "https://www.nytimes.com/2026/03/17/us/elections/illinois-8th-district-democratic-primary.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/us-news/2026/mar/18/onboard-fire-uss-gerald-ford-aircraft-carrier",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Lebanon",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/18/israel-gaza-model-lebanon-international-reaction-sanctions",
+      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 58,
+      "count": 51,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
       "name": "Illinois Democratic Senate",
-      "count": 24,
+      "count": 26,
       "url": "https://www.theguardian.com/us-news/2026/mar/18/illinois-democratic-senate-primary-race-juliana-stratton",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Dream House",
-      "count": 17,
-      "url": "https://www.theguardian.com/music/2026/mar/17/new-york-hip-hop-experimentalist-elucid-i-like-the-harmony-of-the-city-everybodys-got-a-little-solo",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 12,
-      "url": "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale",
       "source": "The Guardian"
     },
     {
       "name": "Ai",
+      "count": 14,
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/18/how-to-use-ai-tools-expert-guide",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
       "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/17/rfk-jr-we-get-it-abs-slopaganda",
+      "url": "https://www.theguardian.com/thefilter-us/2026/mar/09/best-sleep-week-pillows-mattresses-on-sale",
       "source": "The Guardian"
     },
     {
-      "name": "Congress",
+      "name": "The Dream House",
       "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/mar/17/trump-news-at-a-glance-latest-updates-today",
+      "url": "https://www.theguardian.com/music/2026/mar/17/new-york-hip-hop-experimentalist-elucid-i-like-the-harmony-of-the-city-everybodys-got-a-little-solo",
       "source": "The Guardian"
     },
     {
-      "name": "Breaking News",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/mar/17/pam-bondi-epstein-files-house-committee",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tsa",
-      "count": 7,
-      "url": "https://www.foxnews.com/media/cornyn-blasts-defund-police-democrat-holding-tsa-agents-hostage-during-airport-clash",
+      "name": "Gop",
+      "count": 10,
+      "url": "https://www.foxnews.com/opinion/david-marcus-senate-gop-should-take-fettermans-deal-voter-id",
       "source": "Fox News"
     },
     {
-      "name": "Les Claypool",
-      "count": 6,
-      "url": "https://www.theguardian.com/music/2026/mar/16/we-did-disneyland-on-mind-altering-substances-primus-frontman-les-claypool-on-being-rocks-great-joker-and-why-metallica-rejected-him",
-      "source": "The Guardian"
+      "name": "Minnesota Dhs",
+      "count": 10,
+      "url": "https://www.foxnews.com/politics/federal-judge-refuses-recuse-himself-from-minnesota-dhs-ice-case",
+      "source": "Fox News"
     },
     {
-      "name": "Amazon     Continue",
-      "count": 6,
-      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Jb Pritzker",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/03/17/us/elections/illinois-senate-democratic-primary-juliana-stratton.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 15,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/18/donald-trump-limits-us-power-slow-learner-china-iran-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Juliana Stratton Wins",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/03/17/us/elections/illinois-senate-democratic-primary-juliana-stratton.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Carolyn Bessette Kennedy",
+      "name": "The Department Of Homeland Security",
       "count": 9,
-      "url": "https://www.theguardian.com/thefilter-us/2026/mar/08/carolyn-bessette-kennedy-style-tips-90s-wardrobe",
-      "source": "The Guardian"
+      "url": "https://www.npr.org/2026/03/18/g-s1-114267/up-first-newsletter-iran-israel-war-fed-rate-cuts-markwayne-mullin-kalshi-arizona",
+      "source": "NPR"
     },
     {
-      "name": "Daniel Biss",
+      "name": "Guardian News",
       "count": 8,
-      "url": "https://www.nytimes.com/2026/03/17/us/elections/illinois-9th-district-congress-democratic-primary-biss.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Joe Kent Spoke",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/03/17/us/politics/joe-kent-shannon-kent-iran-syria.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Nigel Farage Cameo",
-      "count": 7,
-      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/mar/17/nigel-farage-videos-support-rioter-neonazi-event-far-right-slogans",
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
-      "name": "Donald Trump ’S",
+      "name": "Ncaa",
       "count": 7,
-      "url": "https://www.theguardian.com/culture/2026/mar/17/jimmy-kimmel-trump-iran-hegseth",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Howard Jacobson",
-      "count": 7,
-      "url": "https://www.theguardian.com/books/2026/mar/16/howl-by-howard-jacobson-review-a-tragicomic-portrait-of-a-jewish-mans-despair",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Juliana Stratton",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/mar/18/illinois-democratic-senate-primary-race-juliana-stratton",
+      "url": "https://www.theguardian.com/sport/2026/mar/18/mens-ncaa-tournament-predictions-bracket",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/03/18/opinion/fishback-florida-governor-antisemitism.html",
+      "count": 7,
+      "url": "https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Trump Official Who Resigned Over The War",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/03/18/podcasts/the-headlines/israel-iran-trump-joe-kent-resign.html",
       "source": "NY Times"
     },
     {
-      "name": "The 2026 World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/mar/17/usmnt-roster-friendlies-gio-reyna-noahkai-banks-world-cup-bubble",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Super Bowl",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/mar/17/broncos-reportedly-send-first-round-pick-to-dolphins-in-return-for-receiver-waddle",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Africa Cup Of Nations",
-      "count": 2,
-      "url": "https://www.npr.org/2026/03/18/g-s1-114255/ruling-africa-cup-morocco-champion",
-      "source": "NPR"
-    },
-    {
-      "name": "Quds Day",
-      "count": 2,
-      "url": "https://www.nbcnews.com/video/shorts/explosion-rocks-tehran-during-quds-day-rally-259250245745",
-      "source": "NBC News"
-    },
-    {
-      "name": "World Baseball Classic",
+      "name": "Africa Cup Of Nations",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/mar/17/venezuela-beat-usa-wbc-final-suarez-trump-politics",
+      "url": "https://www.theguardian.com/football/2026/mar/18/decision-to-strip-senegal-of-afcon-title-has-left-me-gobsmacked-and-others-in-africa-furious",
       "source": "The Guardian"
     },
     {
-      "name": "Club World Cup",
+      "name": "The Uconn Huskies",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/mar/17/chelsea-paris-saint-germain-champions-league-last-16-match-report",
+      "url": "https://www.theguardian.com/sport/2026/mar/18/basketball-superteams-uconn-huskies-march-madness",
       "source": "The Guardian"
     },
     {
@@ -246,7 +166,87 @@
       "count": 1,
       "url": "https://www.theguardian.com/games/2026/mar/13/six-essential-board-games-based-on-video-games",
       "source": "The Guardian"
+    },
+    {
+      "name": "Vitamix 5200",
+      "count": 1,
+      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter A Few Weeks Ago",
+      "count": 1,
+      "url": "https://www.theguardian.com/food/2026/mar/18/how-to-turn-puff-pastry-offcuts-into-brilliant-cheesy-snack-recipe-zero-waste-cooking",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Vanity Fair Oscar Party",
+      "count": 1,
+      "url": "https://www.latimes.com/entertainment-arts/awards/story/2026-03-15/la-et-env-vanity-fair-oscars-party-red-carpet-fashion-best-dressed",
+      "source": "LA Times"
     }
   ],
-  "updated": "2026-03-18T07:57:03Z"
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 25,
+      "url": "https://www.theguardian.com/us-news/2026/mar/18/trump-white-house-ballroom-plan-lawsuit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "count": 22,
+      "url": "https://www.cbsnews.com/live-updates/markwayne-mullin-confirmation-hearing-live-updates-kristi-noem/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Juliana Stratton",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/03/18/us/elections/illinois-primary-elections-takeaways.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Scott Brown",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/mar/18/rfk-jr-samoa-trip-scott-brown",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Taylor Frankie Paul",
+      "count": 8,
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/taylor-frankie-paul-secret-lives-of-mormon-wives-filming-paused-rcna263975",
+      "source": "NBC News"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/03/18/business/media/jeffrey-epstein-online.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Rand Paul",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Oscar",
+      "count": 7,
+      "url": "https://www.theguardian.com/film/2026/mar/18/sean-penn-oscar-ukrainian-rail-carriage-zelenskyy",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Joe Kent",
+      "count": 6,
+      "url": "https://www.latimes.com/world-nation/story/2026-03-17/top-counterterrorism-official-kent-resigns-over-trumps-iran-war-says-iran-posed-no-imminent-threat",
+      "source": "LA Times"
+    },
+    {
+      "name": "Elon Musk",
+      "count": 5,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/mar/17/elon-musk-gamify-government",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-03-18T14:23:56Z"
 };
