@@ -2,63 +2,123 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    62,
-    "https://www.nytimes.com/2026/03/20/podcasts/the-headlines/silicon-valley-bets-war-trump-family-business-transylvania.html"
+    73,
+    "https://www.nytimes.com/2026/03/20/us/politics/wartime-emergency-congress-weapons.html"
   ],
   [
     "war",
-    61,
-    "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html"
+    58,
+    "https://www.nytimes.com/2026/03/20/us/politics/congress-iran-trump.html"
   ],
   [
     "iran",
-    59,
-    "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html"
+    50,
+    "https://www.nytimes.com/2026/03/20/us/politics/congress-iran-trump.html"
+  ],
+  [
+    "star",
+    29,
+    "https://www.nytimes.com/2026/03/20/movies/chuck-norris-dead.html"
   ],
   [
     "president",
-    29,
-    "https://www.nytimes.com/2026/03/20/world/europe/trump-romania-transylvania-apartments-golf-course.html"
-  ],
-  [
-    "israel",
     28,
-    "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html"
+    "https://www.nytimes.com/2026/03/20/nyregion/colombia-president-petro-investigation-drugs.html"
   ],
   [
-    "game",
-    28,
-    "https://www.theguardian.com/games/2026/mar/20/resident-evil-30-years-history-video-game"
-  ],
-  [
-    "sleep",
-    24,
-    "https://www.theguardian.com/commentisfree/2026/mar/20/sleep-hysteria-obsession-trackers-gummies-cctv"
-  ],
-  [
-    "company",
-    23,
-    "https://www.nytimes.com/2026/03/20/world/europe/trump-romania-transylvania-apartments-golf-course.html"
-  ],
-  [
-    "season",
-    23,
-    "https://www.theguardian.com/sport/2026/mar/20/master-p-arizona-state-college-basketball-coach"
-  ],
-  [
-    "night",
-    22,
-    "https://www.nytimes.com/2026/03/19/us/the-docket-gift-trump-supreme-court.html"
+    "norris",
+    27,
+    "https://www.nytimes.com/2026/03/20/movies/chuck-norris-dead.html"
   ],
   [
     "middle",
-    19,
-    "https://www.nytimes.com/2026/03/20/world/asia/trump-japan-prime-minister-meeting.html"
+    27,
+    "https://www.theguardian.com/world/2026/mar/20/us-considering-occupying-iran-kharg-island-hormuz-strait-trump"
   ],
   [
-    "pop",
+    "game",
+    26,
+    "https://www.theguardian.com/sport/2026/mar/20/tuskegee-coach-lawsuit-morehouse-benjy-taylor"
+  ],
+  [
+    "season",
+    24,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/20/bachelorette-cancelled-taylor-frankie-paul-domestic-violence-video"
+  ],
+  [
+    "east",
+    24,
+    "https://www.theguardian.com/world/2026/mar/20/us-considering-occupying-iran-kharg-island-hormuz-strait-trump"
+  ],
+  [
+    "taylor",
+    23,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/20/bachelorette-cancelled-taylor-frankie-paul-domestic-violence-video"
+  ],
+  [
+    "military",
+    22,
+    "https://www.nytimes.com/2026/03/20/us/politics/hegseth-christianity-military.html"
+  ],
+  [
+    "israeli",
+    22,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "chuck",
+    21,
+    "https://www.nytimes.com/2026/03/20/movies/chuck-norris-dead.html"
+  ],
+  [
+    "cbs",
+    21,
+    "https://www.nytimes.com/2026/03/20/business/media/cbs-news-bari-weiss-layoffs.html"
+  ],
+  [
+    "israel",
+    21,
+    "https://www.nytimes.com/2026/03/20/briefing/whose-war.html"
+  ],
+  [
+    "night",
+    21,
+    "https://www.theguardian.com/us-news/2026/mar/20/iran-war-military-father-pete-hegseth"
+  ],
+  [
+    "family",
+    21,
+    "https://www.theguardian.com/film/2026/mar/20/chuck-norris-prolific-action-star-and-karate-champion-dies-aged-86"
+  ],
+  [
+    "ice",
+    20,
+    "https://www.nytimes.com/2026/03/20/us/paolo-zampolli-ice-melania-trump-epstein.html"
+  ],
+  [
+    "bachelorette",
+    20,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/20/bachelorette-cancelled-taylor-frankie-paul-domestic-violence-video"
+  ],
+  [
+    "lawsuit",
+    20,
+    "https://www.theguardian.com/sport/2026/mar/20/tuskegee-coach-lawsuit-morehouse-benjy-taylor"
+  ],
+  [
+    "death",
+    20,
+    "https://www.theguardian.com/us-news/2026/mar/20/ohio-employer-pay-newborn-death-mother"
+  ],
+  [
+    "paul",
     19,
-    "https://www.nytimes.com/2026/03/20/arts/music/bts-k-pop-industry-demon-hunters.html"
+    "https://www.theguardian.com/tv-and-radio/2026/mar/20/bachelorette-cancelled-taylor-frankie-paul-domestic-violence-video"
+  ],
+  [
+    "company",
+    19,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/20/bachelorette-cancelled-taylor-frankie-paul-domestic-violence-video"
   ],
   [
     "breaking",
@@ -66,109 +126,104 @@
     "https://www.theguardian.com/us-news/2026/mar/20/iran-war-military-father-pete-hegseth"
   ],
   [
-    "illinois",
-    19,
-    "https://www.theguardian.com/us-news/2026/mar/20/iran-war-us-farming-impact"
-  ],
-  [
-    "military",
+    "administration",
     18,
-    "https://www.nytimes.com/2026/03/20/us/politics/us-military-strait-hormuz.html"
+    "https://www.nytimes.com/2026/03/20/us/politics/wartime-emergency-congress-weapons.html"
   ],
   [
-    "american",
+    "rights",
     18,
-    "https://www.nytimes.com/2026/03/20/opinion/ezra-klein-podcast-naomi-klein.html"
+    "https://www.nytimes.com/video/us/100000010787904/how-a-civil-rights-icon-used-his-power-to-abuse-girls-and-women.html"
   ],
   [
-    "police",
+    "film",
     18,
-    "https://www.nytimes.com/2026/03/19/world/europe/american-student-missing-spain-barcelona-james-gracey.html"
-  ],
-  [
-    "star",
-    18,
-    "https://www.theguardian.com/sport/2026/mar/20/mexico-canada-world-cup-squad-injuries"
-  ],
-  [
-    "department",
-    17,
-    "https://www.nytimes.com/2026/03/20/business/student-loan-deliquency-default.html"
-  ],
-  [
-    "political",
-    17,
-    "https://www.nytimes.com/2026/03/19/world/europe/belarus-prisoners-fertilizer-potash-sanctions.html"
-  ],
-  [
-    "israeli",
-    17,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "review",
-    17,
-    "https://www.theguardian.com/music/2026/mar/20/bts-arirang-review-the-worlds-biggest-pop-band-return-with-dumb-fun-and-downright-weirdness"
-  ],
-  [
-    "games",
-    17,
-    "https://www.theguardian.com/games/2026/mar/20/resident-evil-30-years-history-video-game"
+    "https://www.nytimes.com/2026/03/20/podcasts/andy-weir-hail-mary.html"
   ],
   [
     "don",
+    18,
+    "https://www.nytimes.com/2026/03/20/opinion/democrats-midterms-iran-future.html"
+  ],
+  [
+    "games",
+    18,
+    "https://www.theguardian.com/sport/2026/mar/20/nfl-international-expansion-roger-goodell"
+  ],
+  [
+    "chavez",
     17,
-    "https://www.theguardian.com/commentisfree/2026/mar/19/ufc-fighters-training-fbi"
+    "https://www.nytimes.com/2026/03/19/us/politics/cesar-chavez-memorials-renaming.html"
   ],
   [
-    "spring",
+    "director",
     17,
-    "https://www.theguardian.com/us-news/2026/mar/20/spring-break-flights-travel-iran-war"
-  ],
-  [
-    "states",
-    16,
-    "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html"
-  ],
-  [
-    "student",
-    16,
-    "https://www.nytimes.com/2026/03/20/business/student-loan-deliquency-default.html"
-  ],
-  [
-    "oil",
-    16,
-    "https://www.nytimes.com/2026/03/19/world/americas/cuba-russia-oil-blockade.html"
-  ],
-  [
-    "latest",
-    16,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "crisis",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "early",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "job",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/20/neighbors-hbo-docuseries"
-  ],
-  [
-    "members",
-    15,
-    "https://www.theguardian.com/us-news/2026/mar/20/iran-war-military-father-pete-hegseth"
+    "https://www.theguardian.com/film/2026/mar/20/cary-elwes-interview-dead-mans-wire-princess-bride-stranger-things"
   ],
   [
     "email",
-    15,
+    17,
     "https://www.theguardian.com/us-news/2026/mar/20/iran-war-military-father-pete-hegseth"
+  ],
+  [
+    "review",
+    16,
+    "https://www.nytimes.com/2026/03/20/us/politics/wartime-emergency-congress-weapons.html"
+  ],
+  [
+    "department",
+    16,
+    "https://www.nytimes.com/2026/03/20/nyregion/colombia-president-petro-investigation-drugs.html"
+  ],
+  [
+    "action",
+    16,
+    "https://www.nytimes.com/2026/03/20/movies/chuck-norris-dead.html"
+  ],
+  [
+    "series",
+    16,
+    "https://www.nytimes.com/2026/03/20/movies/chuck-norris-dead.html"
+  ],
+  [
+    "gaza",
+    16,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "despite",
+    16,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "team",
+    16,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "members",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/20/bachelorette-cancelled-taylor-frankie-paul-domestic-violence-video"
+  ],
+  [
+    "job",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/20/neighbors-hbo-docuseries"
+  ],
+  [
+    "california",
+    16,
+    "https://www.theguardian.com/music/2026/mar/20/grace-ives-girlfriend-review-bedroom-pop-auteur-goes-widescreen-for-a-gorgeous-sobriety-epic"
+  ],
+  [
+    "texas",
+    15,
+    "https://www.nytimes.com/2026/03/20/movies/chuck-norris-dead.html"
+  ],
+  [
+    "pop",
+    15,
+    "https://www.nytimes.com/2026/03/20/arts/music/bts-k-pop-industry-demon-hunters.html"
   ],
   [
     "buying",
@@ -176,64 +231,74 @@
     "https://www.theguardian.com/lifeandstyle/2026/mar/20/best-bike-lights-us"
   ],
   [
-    "health",
-    14,
-    "https://www.nytimes.com/2026/03/20/business/middle-class-sell-their-plasma.html"
+    "illinois",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/20/iran-war-us-farming-impact"
   ],
   [
-    "james",
+    "civil",
     14,
-    "https://www.nytimes.com/2026/03/19/world/europe/american-student-missing-spain-barcelona-james-gracey.html"
+    "https://www.nytimes.com/video/us/100000010787904/how-a-civil-rights-icon-used-his-power-to-abuse-girls-and-women.html"
   ],
   [
-    "fire",
+    "workers",
     14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/video/us/100000010787904/how-a-civil-rights-icon-used-his-power-to-abuse-girls-and-women.html"
+  ],
+  [
+    "nation",
+    14,
+    "https://www.nytimes.com/2026/03/20/us/politics/cesar-chavez-obama-bill-clinton-biden.html"
+  ],
+  [
+    "york",
+    14,
+    "https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html"
+  ],
+  [
+    "book",
+    14,
+    "https://www.nytimes.com/2026/03/19/books/ai-fiction-shy-girl.html"
+  ],
+  [
+    "actor",
+    14,
+    "https://www.nytimes.com/2026/03/19/movies/project-hail-mary-gosling-review.html"
   ],
   [
     "feel",
     14,
-    "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav"
+    "https://www.nytimes.com/2026/03/20/podcasts/andy-weir-hail-mary.html"
+  ],
+  [
+    "red",
+    14,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
     "something",
     14,
-    "https://www.theguardian.com/sport/2026/mar/20/master-p-arizona-state-college-basketball-coach"
+    "https://www.theguardian.com/film/2026/mar/20/chuck-norris-was-the-rip-roaring-king-of-80s-friday-night-vhs-fests"
   ],
   [
-    "point",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/mar/20/iran-war-uk-starmer-resist-dragged-in"
-  ],
-  [
-    "california",
-    14,
-    "https://www.theguardian.com/environment/2026/mar/19/us-states-trump-climate-crisis-endangerment-finding"
-  ],
-  [
-    "united",
+    "harvard",
     13,
-    "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html"
+    "https://www.nytimes.com/2026/03/20/us/trump-harvard-antisemitism-suit.html"
   ],
   [
-    "global",
+    "country",
     13,
-    "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html"
+    "https://www.nytimes.com/2026/03/20/us/ice-arrests-immigration-enforcement.html"
   ],
   [
-    "attack",
+    "dies",
     13,
-    "https://www.nytimes.com/2026/03/20/us/politics/us-military-strait-hormuz.html"
+    "https://www.nytimes.com/2026/03/20/movies/chuck-norris-dead.html"
   ],
   [
-    "energy",
+    "sex",
     13,
-    "https://www.nytimes.com/2026/03/20/world/europe/spain-iran-energy-renewables-gas-sun.html"
-  ],
-  [
-    "east",
-    13,
-    "https://www.nytimes.com/2026/03/20/world/asia/trump-japan-prime-minister-meeting.html"
+    "https://www.nytimes.com/2026/03/19/us/politics/cesar-chavez-memorials-renaming.html"
   ],
   [
     "place",
@@ -241,138 +306,73 @@
     "https://www.nytimes.com/2026/03/19/books/ai-fiction-shy-girl.html"
   ],
   [
-    "living",
+    "early",
     13,
-    "https://www.nytimes.com/2026/03/20/opinion/ezra-klein-podcast-naomi-klein.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "air",
+    "latest",
     13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "team",
+    "frankie",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/tv-and-radio/2026/mar/20/bachelorette-cancelled-taylor-frankie-paul-domestic-violence-video"
   ],
   [
-    "though",
+    "video",
     13,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+    "https://www.theguardian.com/tv-and-radio/2026/mar/20/bachelorette-cancelled-taylor-frankie-paul-domestic-violence-video"
   ],
   [
-    "series",
+    "died",
     13,
     "https://www.theguardian.com/commentisfree/2026/mar/20/cesar-chavez-legacy-rape-allegations"
   ],
   [
-    "win",
+    "guide",
     13,
-    "https://www.theguardian.com/film/2026/mar/20/the-oscars-red-carpet-was-in-a-skip-then-a-woman-took-it-home-for-her-flat-what-else-could-be-repurposed"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/20/dinkwads-how-dogs-became-the-new-babies"
   ],
   [
-    "love",
+    "service",
     13,
-    "https://www.theguardian.com/commentisfree/2026/mar/19/ufc-fighters-training-fbi"
+    "https://www.theguardian.com/us-news/2026/mar/20/iran-war-military-father-pete-hegseth"
   ],
   [
-    "play",
+    "late",
     13,
-    "https://www.theguardian.com/football/2026/mar/19/champions-league-goals-premier-league-arsenal-chelsea-liverpool-newcastle-tottenham-manchester-city"
+    "https://www.theguardian.com/us-news/2026/mar/20/arizona-march-temperature-record"
   ],
   [
-    "food",
-    13,
-    "https://www.theguardian.com/business/2026/mar/20/marmite-maker-unilever-merger-talks-us-mccormick"
-  ],
-  [
-    "primary",
-    13,
-    "https://www.theguardian.com/fashion/2026/mar/18/jess-cartner-morley-on-fashion-primary-colours"
-  ],
-  [
-    "ways",
+    "others",
     12,
-    "https://www.nytimes.com/2026/03/20/us/ice-arrests-immigration-enforcement.html"
+    "https://www.nytimes.com/2026/03/20/us/politics/wartime-emergency-congress-weapons.html"
   ],
   [
-    "sex",
+    "cesar",
     12,
     "https://www.nytimes.com/2026/03/19/us/politics/cesar-chavez-memorials-renaming.html"
   ],
   [
-    "act",
+    "return",
     12,
-    "https://www.nytimes.com/2026/03/20/health/obamacare-new-mexico-subsidies-states.html"
+    "https://www.nytimes.com/2026/03/20/arts/music/lights-drones-purple-pizza-bts-mania-takes-over-seoul.html"
   ],
   [
-    "university",
+    "intelligence",
     12,
-    "https://www.nytimes.com/2026/03/19/world/europe/american-student-missing-spain-barcelona-james-gracey.html"
+    "https://www.nytimes.com/2026/03/19/books/ai-fiction-shy-girl.html"
   ],
   [
-    "questions",
+    "social",
     12,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/03/20/technology/polymarket-social-feeds-falsehoods.html"
   ],
   [
-    "red",
+    "media",
     12,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "doing",
-    12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "local",
-    12,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/20/neighbors-hbo-docuseries"
-  ],
-  [
-    "final",
-    12,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/20/neighbors-hbo-docuseries"
-  ],
-  [
-    "film",
-    12,
-    "https://www.theguardian.com/music/2026/mar/20/validation-was-an-insatiable-monster-dave-grohl-on-foo-fighters-punk-rock-return-and-life-after-his-infidelity"
-  ],
-  [
-    "morning",
-    12,
-    "https://www.theguardian.com/film/2026/mar/20/the-oscars-red-carpet-was-in-a-skip-then-a-woman-took-it-home-for-her-flat-what-else-could-be-repurposed"
-  ],
-  [
-    "service",
-    12,
-    "https://www.theguardian.com/music/2026/mar/20/bts-arirang-review-the-worlds-biggest-pop-band-return-with-dumb-fun-and-downright-weirdness"
-  ],
-  [
-    "guide",
-    12,
-    "https://www.theguardian.com/world/live/2026/mar/20/iran-war-live-updates-oil-prices-israel-netanyahu-ground-component-us-tensions-hormuz"
-  ],
-  [
-    "inbox",
-    12,
-    "https://www.theguardian.com/us-news/2026/mar/20/iran-war-military-father-pete-hegseth"
-  ],
-  [
-    "security",
-    12,
-    "https://www.theguardian.com/world/2026/mar/20/the-saddest-day-for-muslim-worshippers-in-jerusalem-al-aqsa-mosque-closed-at-eid"
-  ],
-  [
-    "young",
-    12,
-    "https://www.theguardian.com/us-news/2026/mar/20/norway-crown-princess-mette-marit-deceived-jeffrey-epstein"
-  ],
-  [
-    "really",
-    12,
-    "https://www.theguardian.com/media/2026/mar/20/bari-weiss-cbs-news-layoffs"
+    "https://www.nytimes.com/2026/03/20/technology/polymarket-social-feeds-falsehoods.html"
   ]
 ];
