@@ -2,43 +2,48 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    87,
+    94,
     "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html"
   ],
   [
     "iran",
-    63,
+    68,
     "https://www.nytimes.com/2026/03/19/world/middleeast/trump-iran-us-troops.html"
   ],
   [
     "war",
-    61,
+    64,
     "https://www.nytimes.com/2026/03/19/world/middleeast/trump-iran-us-troops.html"
   ],
   [
     "president",
-    35,
-    "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html"
-  ],
-  [
-    "israel",
-    28,
-    "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html"
-  ],
-  [
-    "police",
-    26,
-    "https://www.nytimes.com/2026/03/19/world/europe/american-student-missing-spain-barcelona-james-gracey.html"
-  ],
-  [
-    "attack",
-    25,
+    41,
     "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html"
   ],
   [
     "company",
-    25,
+    29,
     "https://www.washingtonpost.com/health/2026/03/18/digital-privacy-healthcare-epic-systems-lawsuit/"
+  ],
+  [
+    "oil",
+    28,
+    "https://www.nytimes.com/2026/03/19/world/americas/cuba-russia-oil-blockade.html"
+  ],
+  [
+    "israel",
+    26,
+    "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html"
+  ],
+  [
+    "israeli",
+    25,
+    "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html"
+  ],
+  [
+    "middle",
+    24,
+    "https://www.nytimes.com/2026/03/20/world/asia/trump-japan-prime-minister-meeting.html"
   ],
   [
     "season",
@@ -46,49 +51,44 @@
     "https://www.nytimes.com/2026/03/19/arts/television/bachelorette-canceled-taylor-frankie-paul-video.html"
   ],
   [
-    "east",
-    23,
-    "https://www.theguardian.com/world/live/2026/mar/20/iran-war-live-updates-oil-prices-israel-netanyahu-ground-component-us-tensions-hormuz"
-  ],
-  [
-    "oil",
-    22,
-    "https://www.nytimes.com/2026/03/19/world/americas/cuba-russia-oil-blockade.html"
-  ],
-  [
-    "california",
-    21,
+    "don",
+    24,
     "https://www.theguardian.com/commentisfree/2026/mar/19/donald-trump-american-ally"
   ],
   [
-    "middle",
-    21,
-    "https://www.theguardian.com/world/live/2026/mar/20/iran-war-live-updates-oil-prices-israel-netanyahu-ground-component-us-tensions-hormuz"
+    "attack",
+    23,
+    "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html"
   ],
   [
-    "university",
-    20,
+    "east",
+    23,
+    "https://www.nytimes.com/2026/03/20/world/asia/trump-japan-prime-minister-meeting.html"
+  ],
+  [
+    "police",
+    23,
     "https://www.nytimes.com/2026/03/19/world/europe/american-student-missing-spain-barcelona-james-gracey.html"
   ],
   [
-    "israeli",
+    "film",
+    21,
+    "https://www.theguardian.com/music/2026/mar/20/validation-was-an-insatiable-monster-dave-grohl-on-foo-fighters-punk-rock-return-and-life-after-his-infidelity"
+  ],
+  [
+    "ice",
+    20,
+    "https://www.nytimes.com/2026/03/19/us/politics/nashville-reporter-released-ice-custody.html"
+  ],
+  [
+    "department",
+    20,
+    "https://www.theguardian.com/us-news/2026/mar/19/senate-committee-advances-markwayne-mullin-homeland-security"
+  ],
+  [
+    "energy",
     19,
     "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html"
-  ],
-  [
-    "gas",
-    19,
-    "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html"
-  ],
-  [
-    "star",
-    19,
-    "https://www.nytimes.com/2026/03/19/arts/television/bachelorette-canceled-taylor-frankie-paul-video.html"
-  ],
-  [
-    "human",
-    19,
-    "https://www.washingtonpost.com/nation/2026/03/19/anthropic-war-ai-catholic-church/"
   ],
   [
     "health",
@@ -96,54 +96,44 @@
     "https://www.washingtonpost.com/health/2026/03/18/digital-privacy-healthcare-epic-systems-lawsuit/"
   ],
   [
-    "security",
+    "crisis",
     19,
-    "https://www.theguardian.com/us-news/2026/mar/19/senate-committee-advances-markwayne-mullin-homeland-security"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "department",
+    "california",
     19,
-    "https://www.theguardian.com/us-news/2026/mar/19/senate-committee-advances-markwayne-mullin-homeland-security"
+    "https://www.theguardian.com/commentisfree/2026/mar/19/donald-trump-american-ally"
   ],
   [
-    "play",
-    19,
-    "https://www.theguardian.com/sport/2026/mar/19/cade-cunningham-collapsed-lung-pistons-playoff-race"
-  ],
-  [
-    "energy",
+    "gas",
     18,
     "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html"
   ],
   [
-    "ice",
+    "university",
     18,
-    "https://www.nytimes.com/2026/03/19/us/politics/nashville-reporter-released-ice-custody.html"
-  ],
-  [
-    "child",
-    18,
-    "https://www.theguardian.com/us-news/2026/mar/20/seven-year-old-canadian-girl-with-autism-and-mother-detained-by-ice-in-texas"
-  ],
-  [
-    "film",
-    18,
-    "https://www.theguardian.com/culture/2026/mar/19/dianne-wiest-20-best-film-performances-ranked"
-  ],
-  [
-    "states",
-    17,
-    "https://www.nytimes.com/2026/03/19/business/fcc-nexstar-tegna-deal-approved.html"
-  ],
-  [
-    "body",
-    17,
     "https://www.nytimes.com/2026/03/19/world/europe/american-student-missing-spain-barcelona-james-gracey.html"
   ],
   [
-    "crisis",
+    "donald",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/mar/19/donald-trump-american-ally"
+  ],
+  [
+    "game",
+    18,
+    "https://www.theguardian.com/sport/2026/mar/19/ncaa-tournament-first-round-upsets-scores-recaps"
+  ],
+  [
+    "breaking",
     17,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html"
+  ],
+  [
+    "paul",
+    17,
+    "https://www.nytimes.com/2026/03/19/arts/television/bachelorette-canceled-taylor-frankie-paul-video.html"
   ],
   [
     "immigration",
@@ -151,64 +141,69 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "really",
+    "security",
     17,
-    "https://www.theguardian.com/wellness/2026/mar/19/can-prolonged-eye-contact-really-make-couples-feel-closer"
+    "https://www.theguardian.com/world/2026/mar/20/the-saddest-day-for-muslim-worshippers-in-jerusalem-al-aqsa-mosque-closed-at-eid"
   ],
   [
-    "donald",
+    "hegseth",
     17,
-    "https://www.theguardian.com/commentisfree/2026/mar/19/donald-trump-american-ally"
+    "https://www.theguardian.com/commentisfree/2026/mar/19/pete-hegseth-donald-trump-us-secretary-of-war"
   ],
   [
-    "game",
-    17,
-    "https://www.theguardian.com/sport/2026/mar/19/ncaa-tournament-first-round-upsets-scores-recaps"
-  ],
-  [
-    "breaking",
+    "night",
     16,
-    "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html"
+    "https://www.nytimes.com/2026/03/19/us/the-docket-gift-trump-supreme-court.html"
   ],
   [
-    "video",
+    "album",
     16,
-    "https://www.nytimes.com/2026/03/19/arts/television/bachelorette-canceled-taylor-frankie-paul-video.html"
-  ],
-  [
-    "family",
-    16,
-    "https://www.nytimes.com/2026/03/19/us/san-francisco-pedestrian-deaths-toddler.html"
-  ],
-  [
-    "student",
-    16,
-    "https://www.nytimes.com/2026/03/19/world/europe/american-student-missing-spain-barcelona-james-gracey.html"
-  ],
-  [
-    "don",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/mar/19/donald-trump-american-ally"
-  ],
-  [
-    "illinois",
-    16,
-    "https://www.theguardian.com/world/2026/mar/19/illinois-student-dead-barcelona"
-  ],
-  [
-    "chavez",
-    15,
-    "https://www.nytimes.com/2026/03/19/us/politics/cesar-chavez-memorials-renaming.html"
+    "https://www.nytimes.com/2026/03/19/arts/music/flea-honora-jazz-album.html"
   ],
   [
     "global",
-    15,
+    16,
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "team",
-    15,
+    16,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "really",
+    16,
+    "https://www.theguardian.com/wellness/2026/mar/19/can-prolonged-eye-contact-really-make-couples-feel-closer"
+  ],
+  [
+    "win",
+    16,
+    "https://www.theguardian.com/film/2026/mar/20/the-oscars-red-carpet-was-in-a-skip-then-a-woman-took-it-home-for-her-flat-what-else-could-be-repurposed"
+  ],
+  [
+    "games",
+    16,
+    "https://www.theguardian.com/sport/2026/mar/20/luka-doncic-60-lakers-heat-lebron-triple-double-miami"
+  ],
+  [
+    "play",
+    16,
+    "https://www.theguardian.com/football/2026/mar/19/champions-league-goals-premier-league-arsenal-chelsea-liverpool-newcastle-tottenham-manchester-city"
+  ],
+  [
+    "prime",
+    15,
+    "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html"
+  ],
+  [
+    "states",
+    15,
+    "https://www.nytimes.com/2026/03/19/business/fcc-nexstar-tegna-deal-approved.html"
+  ],
+  [
+    "early",
+    15,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "though",
@@ -216,9 +211,19 @@
     "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
+    "child",
+    15,
+    "https://www.theguardian.com/music/2026/mar/20/validation-was-an-insatiable-monster-dave-grohl-on-foo-fighters-punk-rock-return-and-life-after-his-infidelity"
+  ],
+  [
     "buying",
     15,
     "https://www.theguardian.com/world/2026/mar/20/reliant-on-imported-fuel-pacific-islands-appeal-for-help-as-oil-prices-surge"
+  ],
+  [
+    "conflict",
+    15,
+    "https://www.theguardian.com/world/ng-interactive/2026/mar/19/visual-guide-oil-and-gas-site-attacks-middle-east"
   ],
   [
     "committee",
@@ -226,14 +231,49 @@
     "https://www.theguardian.com/us-news/2026/mar/19/senate-committee-advances-markwayne-mullin-homeland-security"
   ],
   [
-    "hegseth",
+    "feel",
     15,
-    "https://www.theguardian.com/commentisfree/2026/mar/19/pete-hegseth-donald-trump-us-secretary-of-war"
+    "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav"
   ],
   [
-    "country",
+    "review",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/20/jury-duty-presents-company-retreat-review-hoax-reality-season-2-prime-video"
+  ],
+  [
+    "sex",
     14,
-    "https://www.nytimes.com/2026/03/19/us/politics/trump-gold-coin.html"
+    "https://www.nytimes.com/2026/03/19/us/politics/cesar-chavez-memorials-renaming.html"
+  ],
+  [
+    "media",
+    14,
+    "https://www.nytimes.com/2026/03/19/us/the-docket-gift-trump-supreme-court.html"
+  ],
+  [
+    "red",
+    14,
+    "https://www.nytimes.com/2026/03/19/arts/music/flea-honora-jazz-album.html"
+  ],
+  [
+    "video",
+    14,
+    "https://www.nytimes.com/2026/03/19/arts/television/bachelorette-canceled-taylor-frankie-paul-video.html"
+  ],
+  [
+    "star",
+    14,
+    "https://www.nytimes.com/2026/03/19/arts/television/bachelorette-canceled-taylor-frankie-paul-video.html"
+  ],
+  [
+    "body",
+    14,
+    "https://www.nytimes.com/2026/03/19/world/europe/american-student-missing-spain-barcelona-james-gracey.html"
+  ],
+  [
+    "human",
+    14,
+    "https://www.washingtonpost.com/nation/2026/03/19/anthropic-war-ai-catholic-church/"
   ],
   [
     "gaza",
@@ -241,29 +281,34 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "early",
+    "death",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/music/2026/mar/20/validation-was-an-insatiable-monster-dave-grohl-on-foo-fighters-punk-rock-return-and-life-after-his-infidelity"
   ],
   [
-    "conflict",
+    "series",
     14,
-    "https://www.theguardian.com/world/ng-interactive/2026/mar/19/visual-guide-oil-and-gas-site-attacks-middle-east"
+    "https://www.theguardian.com/music/2026/mar/20/validation-was-an-insatiable-monster-dave-grohl-on-foo-fighters-punk-rock-return-and-life-after-his-infidelity"
   ],
   [
-    "enforcement",
+    "job",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/19/senate-committee-advances-markwayne-mullin-homeland-security"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/20/im-tired-of-always-paying-for-my-friends-on-nights-out-what-can-i-do-about-it"
   ],
   [
-    "mother",
+    "west",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/20/heatwave-us-west-climate-crisis"
+  ],
+  [
+    "family",
     14,
     "https://www.theguardian.com/us-news/2026/mar/20/seven-year-old-canadian-girl-with-autism-and-mother-detained-by-ice-in-texas"
   ],
   [
-    "living",
+    "enforcement",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/19/trump-coin-24-karat-gold"
+    "https://www.theguardian.com/us-news/2026/mar/20/seven-year-old-canadian-girl-with-autism-and-mother-detained-by-ice-in-texas"
   ],
   [
     "because",
@@ -271,14 +316,14 @@
     "https://www.theguardian.com/culture/2026/mar/19/dianne-wiest-20-best-film-performances-ranked"
   ],
   [
-    "young",
+    "primary",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/19/snowball-fight-mamdani-nypd"
+    "https://www.theguardian.com/us-news/2026/mar/19/epstein-lawyer-testimony-darren-indyke"
   ],
   [
-    "feel",
+    "illinois",
     14,
-    "https://www.theguardian.com/music/2026/mar/19/kim-gordon-interview-on-shyness-ai-and-zohran-mamdani-cool"
+    "https://www.npr.org/2026/03/19/nx-s1-5753911/eeoc-planned-parenthood-dei-settlement"
   ],
   [
     "strike",
@@ -286,59 +331,34 @@
     "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html"
   ],
   [
-    "prime",
+    "minister",
     13,
     "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html"
   ],
   [
-    "won",
-    13,
-    "https://www.nytimes.com/2026/03/19/world/middleeast/trump-iran-us-troops.html"
-  ],
-  [
-    "support",
-    13,
-    "https://www.nytimes.com/2026/03/19/world/middleeast/trump-iran-us-troops.html"
-  ],
-  [
-    "office",
+    "japan",
     13,
     "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html"
   ],
   [
-    "commission",
+    "nexstar",
     13,
-    "https://www.nytimes.com/2026/03/19/us/politics/trump-gold-coin.html"
+    "https://www.nytimes.com/2026/03/19/business/fcc-nexstar-tegna-deal-approved.html"
   ],
   [
-    "sex",
+    "chavez",
     13,
     "https://www.nytimes.com/2026/03/19/us/politics/cesar-chavez-memorials-renaming.html"
   ],
   [
-    "media",
+    "together",
     13,
-    "https://www.nytimes.com/2026/03/19/us/the-docket-gift-trump-supreme-court.html"
+    "https://www.theguardian.com/music/2026/mar/20/validation-was-an-insatiable-monster-dave-grohl-on-foo-fighters-punk-rock-return-and-life-after-his-infidelity"
   ],
   [
-    "late",
+    "expected",
     13,
-    "https://www.nytimes.com/2026/03/19/us/the-docket-gift-trump-supreme-court.html"
-  ],
-  [
-    "album",
-    13,
-    "https://www.nytimes.com/2026/03/19/arts/music/flea-honora-jazz-album.html"
-  ],
-  [
-    "red",
-    13,
-    "https://www.nytimes.com/2026/03/19/arts/music/flea-honora-jazz-album.html"
-  ],
-  [
-    "paul",
-    13,
-    "https://www.nytimes.com/2026/03/19/arts/television/bachelorette-canceled-taylor-frankie-paul-video.html"
+    "https://www.theguardian.com/wellness/2026/mar/19/can-prolonged-eye-contact-really-make-couples-feel-closer"
   ],
   [
     "cup",
@@ -346,33 +366,13 @@
     "https://www.theguardian.com/food/2026/mar/19/us-beer-breweries-closing"
   ],
   [
-    "iranian",
+    "members",
     13,
-    "https://www.theguardian.com/world/live/2026/mar/20/iran-war-live-updates-oil-prices-israel-netanyahu-ground-component-us-tensions-hormuz"
+    "https://www.theguardian.com/us-news/2026/mar/20/seven-year-old-canadian-girl-with-autism-and-mother-detained-by-ice-in-texas"
   ],
   [
-    "prices",
+    "commission",
     13,
-    "https://www.theguardian.com/world/2026/mar/20/reliant-on-imported-fuel-pacific-islands-appeal-for-help-as-oil-prices-surge"
-  ],
-  [
-    "senate",
-    13,
-    "https://www.theguardian.com/us-news/2026/mar/19/senate-committee-advances-markwayne-mullin-homeland-security"
-  ],
-  [
-    "death",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/mar/19/oil-crisis-research-rich-costs-wealth-redistribute"
-  ],
-  [
-    "ukraine",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/mar/19/oil-crisis-research-rich-costs-wealth-redistribute"
-  ],
-  [
-    "league",
-    13,
-    "https://www.theguardian.com/football/2026/mar/20/premier-league-and-carabao-cup-things-to-look-out-for-this-weekend"
+    "https://www.theguardian.com/us-news/2026/mar/19/trump-coin-24-karat-gold"
   ]
 ];
