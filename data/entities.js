@@ -3,56 +3,56 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 77,
+      "count": 78,
       "url": "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 59,
+      "count": 63,
       "url": "https://www.nytimes.com/2026/03/21/us/politics/trump-iran-offramp.html",
       "source": "NY Times"
     },
     {
-      "name": "U.S.",
+      "name": "Israel",
       "count": 22,
-      "url": "https://www.nytimes.com/2026/03/21/us/politics/trump-ice-agents-airports.html",
+      "url": "https://www.nytimes.com/2026/03/22/world/middleeast/israel-lebanon-fighting-hezbollah.html",
       "source": "NY Times"
     },
     {
-      "name": "California",
-      "count": 19,
-      "url": "https://www.theguardian.com/technology/2026/mar/21/kaiser-permanente-therapists-ai-strike",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
+      "name": "U.S.",
       "count": 17,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
       "source": "Wall St. Journal"
     },
     {
+      "name": "Uk",
+      "count": 17,
+      "url": "https://www.theguardian.com/culture/2026/mar/22/saturday-night-live-uk-review-it-didnt-fail-and-it-could-have-been-a-lot-worse",
+      "source": "The Guardian"
+    },
+    {
       "name": "L.A. County",
-      "count": 16,
-      "url": "https://www.latimes.com/california/story/2026-03-21/la-county-ceo-who-got-2-million-settlement-is-resigning",
+      "count": 17,
+      "url": "https://www.latimes.com/environment/story/2026-03-22/la-mosquitoes-sterile-male-releases-los-angeles-county-funding",
       "source": "LA Times"
     },
     {
-      "name": "Texas",
+      "name": "California",
       "count": 15,
-      "url": "https://www.theguardian.com/sport/2026/mar/21/ncaa-tournament-first-round-upsets-scores-recaps",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/03/20/us/politics/california-primary-gop-governors-race.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 14,
+      "url": "https://www.washingtonpost.com/nation/interactive/2026/texas-black-families-trail-ride/",
+      "source": "Washington Post"
     },
     {
       "name": "Illinois",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/mar/20/iran-war-us-farming-impact",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uk",
       "count": 12,
-      "url": "https://www.theguardian.com/business/2026/mar/21/trumps-economic-shocks-are-derailing-britains-building-plans",
+      "url": "https://www.theguardian.com/us-news/2026/mar/20/iran-war-us-farming-impact",
       "source": "The Guardian"
     },
     {
@@ -65,45 +65,45 @@
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 46,
+      "count": 55,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Texas Senate",
-      "count": 18,
-      "url": "https://thehill.com/homenews/campaign/5794070-texas-senate-trump-endorsement-cornyn-paxton/",
-      "source": "The Hill"
+      "name": "Ai On Tv",
+      "count": 17,
+      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-03-22/the-comeback-review-lisa-kudrow-hbo-season-3",
+      "source": "LA Times"
     },
     {
       "name": "Fbi",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/03/21/us/politics/robert-s-mueller-dead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ai",
-      "count": 15,
-      "url": "https://www.washingtonpost.com/lifestyle/2026/03/21/ai-lost-pet-petco/",
-      "source": "Washington Post"
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/mar/21/robert-mueller-special-counsel-trump-russia-dies",
+      "source": "The Guardian"
     },
     {
       "name": "Breaking News",
       "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/mar/21/trump-health-privacy",
+      "url": "https://www.theguardian.com/us-news/2026/mar/22/climate-crisis-march-extreme-weather",
       "source": "The Guardian"
     },
     {
-      "name": "The Department Of Homeland Security",
+      "name": "Texas Senate",
+      "count": 11,
+      "url": "https://thehill.com/homenews/campaign/5794070-texas-senate-trump-endorsement-cornyn-paxton/",
+      "source": "The Hill"
+    },
+    {
+      "name": "The White House",
       "count": 10,
       "url": "https://www.nytimes.com/2026/03/21/us/politics/markwayne-mullin-bipartisan-immigration-deal.html",
       "source": "NY Times"
     },
     {
-      "name": "Ice Agents To Be Sent",
+      "name": "Ice Agents",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/03/21/us/politics/trump-ice-agents-airports.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/us-news/2026/mar/21/trump-threatens-to-send-ice-agents-to-airports-unless-dhs-deal-reached",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
@@ -112,81 +112,25 @@
       "source": "The Guardian"
     },
     {
-      "name": "Tsa",
+      "name": "Guardian News",
+      "count": 10,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Department Of Homeland Security",
       "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/mar/22/trump-news-latest-updates-today",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ncaa",
-      "count": 9,
-      "url": "https://www.theguardian.com/sport/2026/mar/21/ncaa-tournament-first-round-upsets-scores-recaps",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump ’S",
-      "count": 16,
-      "url": "https://www.theguardian.com/business/2026/mar/21/us-gas-price-surge-iran-electric-cars",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 15,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Robert Mueller Iii",
-      "count": 13,
-      "url": "https://www.nbcnews.com/video/robert-mueller-former-special-counsel-who-led-trump-russia-probe-dies-at-81-259790405865",
-      "source": "NBC News"
-    },
-    {
-      "name": "Dave Grohl",
-      "count": 7,
-      "url": "https://www.theguardian.com/music/2026/mar/20/validation-was-an-insatiable-monster-dave-grohl-on-foo-fighters-punk-rock-return-and-life-after-his-infidelity",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hormuz",
-      "count": 6,
-      "url": "https://www.theguardian.com/world/2026/mar/22/iran-donald-trump-48-hours-open-hormuz-strait",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cam Skattebo",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/mar/21/cam-skattebo-cte-fake-asthma-comments-giants",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Bachelorette",
-      "count": 6,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/20/bachelorette-cancelled-taylor-frankie-paul-domestic-violence-video",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Taylor Frankie Paul",
-      "count": 6,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/20/bachelorette-cancelled-taylor-frankie-paul-domestic-violence-video",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ayatollah Ali Khamenei",
-      "count": 4,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Joe Kent",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/mar/21/joe-kent-trump-retribution-iran-war",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/03/21/us/politics/markwayne-mullin-bipartisan-immigration-deal.html",
+      "source": "NY Times"
     }
   ],
   "EVENT": [
+    {
+      "name": "The Iran War",
+      "count": 5,
+      "url": "https://www.washingtonpost.com/nation/2026/03/22/iran-war-gas-price-surge/",
+      "source": "Washington Post"
+    },
     {
       "name": "World Cup Finals",
       "count": 3,
@@ -194,22 +138,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.nbcnews.com/business/consumer/iran-war-mortgage-rates-stocks-gas-rcna264499",
-      "source": "NBC News"
-    },
-    {
-      "name": "Wimbledon",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/mar/21/wimbledon-to-allow-players-to-use-video-reviews-to-challenge-umpire-calls",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Persian New Year",
+      "name": "The French Open",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/03/21/world/middleeast/iran-war-nowruz-internet-blackout.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/sport/2026/mar/22/serena-williams-courts-drama-tennis-possible-return",
+      "source": "The Guardian"
     },
     {
       "name": "The Watney Cup",
@@ -236,17 +168,85 @@
       "source": "The Guardian"
     },
     {
-      "name": "Hugo",
+      "name": "Vanity Fair Oscar Party",
       "count": 1,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/19/you-be-the-judge-should-my-boyfriend-hold-my-hand-in-public",
+      "url": "https://www.latimes.com/entertainment-arts/awards/story/2026-03-15/la-et-env-vanity-fair-oscars-party-red-carpet-fashion-best-dressed",
+      "source": "LA Times"
+    },
+    {
+      "name": "World War Ii",
+      "count": 1,
+      "url": "https://www.latimes.com/opinion/story/2026-03-17/paul-ehrlich-wrong-everything",
+      "source": "LA Times"
+    },
+    {
+      "name": "Iran 48 Hours",
+      "count": 1,
+      "url": "https://www.npr.org/2026/03/22/nx-s1-5756308/trump-threatens-obliterate-irans-power-plants-iran-strikes-2-israeli-cities",
+      "source": "NPR"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump ’S",
+      "count": 18,
+      "url": "https://www.theguardian.com/business/2026/mar/21/us-gas-price-surge-iran-electric-cars",
       "source": "The Guardian"
     },
     {
-      "name": "World Beer Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/food/2026/mar/19/us-beer-breweries-closing",
+      "name": "Donald Trump",
+      "count": 16,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hormuz",
+      "count": 9,
+      "url": "https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retaliation",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Robert Mueller Iii",
+      "count": 7,
+      "url": "https://www.nbcnews.com/politics/politics-news/robert-mueller-former-special-counsel-dies-rcna264561",
+      "source": "NBC News"
+    },
+    {
+      "name": "Joe Kent",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/mar/21/joe-kent-trump-retribution-iran-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Bachelorette",
+      "count": 6,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/20/bachelorette-cancelled-taylor-frankie-paul-domestic-violence-video",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Taylor Frankie Paul",
+      "count": 6,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/20/bachelorette-cancelled-taylor-frankie-paul-domestic-violence-video",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nicholas Brendon",
+      "count": 5,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/20/nicholas-brendon-buffy-the-vampire-slayer-actor-dies",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guthrie Family Releases New Plea For Help",
+      "count": 5,
+      "url": "https://www.today.com/video/guthrie-family-releases-new-plea-for-help-in-search-for-nancy-259827781749",
+      "source": "NBC News"
+    },
+    {
+      "name": "Ayatollah Ali Khamenei",
+      "count": 4,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-03-22T07:41:11Z"
+  "updated": "2026-03-22T13:48:20Z"
 };

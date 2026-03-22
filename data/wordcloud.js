@@ -2,12 +2,12 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    84,
+    91,
     "https://www.nytimes.com/2026/03/21/us/politics/trump-iran-offramp.html"
   ],
   [
     "iran",
-    59,
+    65,
     "https://www.nytimes.com/2026/03/21/us/politics/trump-iran-offramp.html"
   ],
   [
@@ -17,38 +17,43 @@
   ],
   [
     "president",
-    33,
+    34,
     "https://www.nytimes.com/2026/03/21/us/politics/trump-iran-offramp.html"
   ],
   [
-    "democrats",
-    26,
-    "https://www.nytimes.com/2026/03/21/us/politics/trump-mueller-death.html"
-  ],
-  [
-    "east",
-    25,
-    "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation"
-  ],
-  [
-    "security",
-    24,
-    "https://www.nytimes.com/2026/03/21/us/politics/markwayne-mullin-bipartisan-immigration-deal.html"
-  ],
-  [
     "family",
-    24,
-    "https://www.theguardian.com/music/2026/mar/22/bts-concert-arirang-kpop-fans-comeback-south-korea-seoul"
+    33,
+    "https://www.washingtonpost.com/nation/interactive/2026/texas-black-families-trail-ride/"
   ],
   [
-    "california",
-    23,
-    "https://www.theguardian.com/technology/2026/mar/21/kaiser-permanente-therapists-ai-strike"
+    "israel",
+    27,
+    "https://www.nytimes.com/2026/03/22/world/middleeast/israel-lebanon-fighting-hezbollah.html"
+  ],
+  [
+    "food",
+    27,
+    "https://www.theguardian.com/us-news/2026/mar/22/florida-food-desert-fruit-trees"
+  ],
+  [
+    "country",
+    26,
+    "https://www.nytimes.com/2026/03/22/business/india-economy-middle-east.html"
   ],
   [
     "power",
-    22,
+    25,
     "https://www.nytimes.com/2026/03/21/us/politics/corey-lewandowski-noem-dhs.html"
+  ],
+  [
+    "hours",
+    24,
+    "https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retaliation"
+  ],
+  [
+    "east",
+    22,
+    "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation"
   ],
   [
     "game",
@@ -56,94 +61,89 @@
     "https://www.theguardian.com/commentisfree/2026/mar/22/the-wordle-guys-latest-move-tells-us-a-lot-about-modern-day-ambition"
   ],
   [
-    "health",
-    22,
-    "https://www.theguardian.com/us-news/2026/mar/21/trump-health-privacy"
+    "democrats",
+    21,
+    "https://www.nytimes.com/2026/03/22/us/politics/the-supreme-court-could-make-it-harder-to-vote-by-mail-in-the-midterms.html"
   ],
   [
-    "country",
+    "don",
     21,
-    "https://www.washingtonpost.com/immigration/2026/03/21/border-wall-expansion-trump-environmental-impact/"
+    "https://www.nytimes.com/2026/03/22/magazine/don-lemon-trump-minnesota-cnn-youtube.html"
   ],
   [
-    "middle",
+    "night",
     21,
+    "https://www.theguardian.com/culture/2026/mar/22/saturday-night-live-uk-review-it-didnt-fail-and-it-could-have-been-a-lot-worse"
+  ],
+  [
+    "military",
+    20,
+    "https://www.nytimes.com/2026/03/22/world/middleeast/israel-lebanon-fighting-hezbollah.html"
+  ],
+  [
+    "court",
+    20,
+    "https://www.nytimes.com/2026/03/21/business/media/pentagon-press-access.html"
+  ],
+  [
+    "california",
+    20,
+    "https://www.nytimes.com/2026/03/20/us/politics/california-primary-gop-governors-race.html"
+  ],
+  [
+    "children",
+    20,
+    "https://www.theguardian.com/us-news/2026/mar/22/trump-rfk-jr-leucovorin-autism-fda"
+  ],
+  [
+    "security",
+    19,
+    "https://www.nytimes.com/2026/03/21/us/politics/markwayne-mullin-bipartisan-immigration-deal.html"
+  ],
+  [
+    "thousands",
+    19,
+    "https://www.nytimes.com/2026/03/22/us/politics/the-supreme-court-could-make-it-harder-to-vote-by-mail-in-the-midterms.html"
+  ],
+  [
+    "robert",
+    19,
+    "https://www.washingtonpost.com/obituaries/2026/03/20/calvin-tomkins-new-yorker-writer-dies-at-100/"
+  ],
+  [
+    "donald",
+    19,
     "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation"
   ],
   [
-    "hours",
-    21,
-    "https://www.theguardian.com/music/2026/mar/22/bts-concert-arirang-kpop-fans-comeback-south-korea-seoul"
-  ],
-  [
-    "mueller",
-    20,
-    "https://www.nytimes.com/2026/03/21/us/politics/robert-s-mueller-dead.html"
-  ],
-  [
-    "death",
-    20,
-    "https://www.nytimes.com/2026/03/21/us/politics/trump-mueller-death.html"
-  ],
-  [
-    "ice",
-    20,
-    "https://www.nytimes.com/2026/03/21/us/politics/trump-ice-agents-airports.html"
-  ],
-  [
     "government",
-    20,
-    "https://www.nytimes.com/2026/03/22/world/europe/election-in-slovenia-will-test-europes-political-mood.html"
-  ],
-  [
-    "israel",
-    20,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "campaign",
     19,
-    "https://www.nytimes.com/2026/03/22/world/europe/election-in-slovenia-will-test-europes-political-mood.html"
+    "https://www.theguardian.com/technology/2026/mar/21/fbi-mass-surveillance-data-artificial-intelligence"
+  ],
+  [
+    "funding",
+    18,
+    "https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html"
   ],
   [
     "texas",
-    19,
-    "https://www.theguardian.com/sport/2026/mar/21/ncaa-tournament-first-round-upsets-scores-recaps"
+    18,
+    "https://www.washingtonpost.com/nation/interactive/2026/texas-black-families-trail-ride/"
   ],
   [
-    "video",
+    "middle",
     18,
-    "https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost"
+    "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation"
   ],
   [
-    "something",
+    "breaking",
     18,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/21/something-very-bad-is-going-to-happen-the-duffer-brothers-horror-series-is-absolutely-terrifying"
+    "https://www.theguardian.com/us-news/2026/mar/22/climate-crisis-march-extreme-weather"
   ],
   [
     "email",
     18,
-    "https://www.theguardian.com/us-news/2026/mar/21/trump-health-privacy"
-  ],
-  [
-    "senate",
-    18,
-    "https://www.theguardian.com/us-news/2026/mar/21/trump-threatens-to-send-ice-agents-to-airports-unless-dhs-deal-reached"
-  ],
-  [
-    "administration",
-    18,
-    "https://www.theguardian.com/us-news/2026/mar/22/trump-news-latest-updates-today"
-  ],
-  [
-    "fbi",
-    17,
-    "https://www.nytimes.com/2026/03/21/us/politics/robert-s-mueller-dead.html"
-  ],
-  [
-    "thousands",
-    17,
-    "https://www.nytimes.com/2026/03/22/pierre-eduoard-sterin-france-far-right.html"
+    "https://www.theguardian.com/us-news/2026/mar/22/climate-crisis-march-extreme-weather"
   ],
   [
     "win",
@@ -151,94 +151,104 @@
     "https://www.washingtonpost.com/lifestyle/2026/03/21/ai-lost-pet-petco/"
   ],
   [
-    "donald",
+    "place",
     17,
-    "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation"
+    "https://www.theguardian.com/us-news/2026/mar/22/trump-iran-leon-panetta"
   ],
   [
-    "south",
+    "late",
     17,
-    "https://www.theguardian.com/music/2026/mar/22/bts-concert-arirang-kpop-fans-comeback-south-korea-seoul"
+    "https://www.theguardian.com/environment/2026/mar/22/upemba-national-park-drc-militia-assault-rangers-killed-aoe"
   ],
   [
-    "night",
-    17,
-    "https://www.theguardian.com/us-news/2026/mar/21/robert-mueller-special-counsel-trump-russia-dies"
-  ],
-  [
-    "children",
-    17,
-    "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports"
-  ],
-  [
-    "food",
-    17,
-    "https://www.theguardian.com/food/2026/mar/21/hospitality-love-of-cooking-chef-pig-farm"
-  ],
-  [
-    "robert",
+    "star",
     16,
-    "https://www.nytimes.com/2026/03/21/us/politics/robert-s-mueller-dead.html"
+    "https://www.nytimes.com/2026/03/22/magazine/don-lemon-trump-minnesota-cnn-youtube.html"
   ],
   [
-    "airports",
+    "again",
     16,
-    "https://www.nytimes.com/2026/03/21/us/politics/trump-ice-agents-airports.html"
+    "https://www.nytimes.com/2026/03/22/magazine/don-lemon-trump-minnesota-cnn-youtube.html"
   ],
   [
-    "funding",
+    "attack",
     16,
-    "https://www.nytimes.com/2026/03/22/pierre-eduoard-sterin-france-far-right.html"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "ice",
+    16,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "political",
+    16,
+    "https://www.theguardian.com/fashion/2026/mar/22/living-period-political-anti-intellectualism-pop-culture-clever-new-cool"
+  ],
+  [
+    "director",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/22/trump-iran-leon-panetta"
+  ],
+  [
+    "primary",
+    15,
+    "https://www.nytimes.com/2026/03/20/us/politics/california-primary-gop-governors-race.html"
+  ],
+  [
+    "administration",
+    15,
+    "https://www.nytimes.com/2026/03/22/magazine/don-lemon-trump-minnesota-cnn-youtube.html"
+  ],
+  [
+    "latest",
+    15,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "death",
+    15,
+    "https://www.theguardian.com/society/2026/mar/22/i-have-stage-four-cancer-there-will-be-no-cure-but-death-isnt-necessarily-imminent-this-is-how-it-feels-to-live-in-the-long-middle"
+  ],
+  [
+    "energy",
+    15,
+    "https://www.theguardian.com/society/2026/mar/22/i-have-stage-four-cancer-there-will-be-no-cure-but-death-isnt-necessarily-imminent-this-is-how-it-feels-to-live-in-the-long-middle"
+  ],
+  [
+    "york",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/mar/22/the-wordle-guys-latest-move-tells-us-a-lot-about-modern-day-ambition"
+  ],
+  [
+    "something",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/22/its-always-me-who-makes-the-effort-to-see-my-friends-dont-they-value-me"
+  ],
+  [
+    "strait",
+    15,
+    "https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retaliation"
+  ],
+  [
+    "hormuz",
+    15,
+    "https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retaliation"
   ],
   [
     "media",
-    16,
-    "https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html"
-  ],
-  [
-    "don",
-    16,
-    "https://www.nytimes.com/2026/03/22/world/europe/italy-referendum-judiciary-meloni.html"
-  ],
-  [
-    "military",
-    16,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "pop",
-    16,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "breaking",
-    16,
-    "https://www.theguardian.com/us-news/2026/mar/21/trump-health-privacy"
-  ],
-  [
-    "issues",
-    16,
-    "https://www.theguardian.com/technology/2026/mar/21/kaiser-permanente-therapists-ai-strike"
-  ],
-  [
-    "immigration",
     15,
-    "https://www.nytimes.com/2026/03/21/us/politics/markwayne-mullin-bipartisan-immigration-deal.html"
+    "https://www.theguardian.com/world/2026/mar/22/iran-social-media-strategy-information-war-us-israel-attack"
   ],
   [
-    "department",
+    "really",
     15,
-    "https://www.nytimes.com/2026/03/21/us/politics/markwayne-mullin-bipartisan-immigration-deal.html"
+    "https://www.theguardian.com/us-news/2026/mar/22/climate-crisis-march-extreme-weather"
   ],
   [
-    "oil",
+    "fbi",
     15,
-    "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation"
-  ],
-  [
-    "killed",
-    15,
-    "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports"
+    "https://www.theguardian.com/us-news/2026/mar/21/robert-mueller-special-counsel-trump-russia-dies"
   ],
   [
     "buying",
@@ -246,9 +256,9 @@
     "https://www.theguardian.com/technology/2026/mar/21/fbi-mass-surveillance-data-artificial-intelligence"
   ],
   [
-    "illinois",
+    "series",
     15,
-    "https://www.theguardian.com/us-news/2026/mar/20/iran-war-us-farming-impact"
+    "https://www.theguardian.com/environment/2026/mar/21/lincolnshire-solar-farm-controversy-british-countryside"
   ],
   [
     "games",
@@ -256,9 +266,19 @@
     "https://www.theguardian.com/games/2026/mar/20/resident-evil-30-years-history-video-game"
   ],
   [
-    "director",
+    "immigration",
     14,
-    "https://www.nytimes.com/2026/03/21/us/politics/robert-s-mueller-dead.html"
+    "https://www.nytimes.com/2026/03/21/us/politics/markwayne-mullin-bipartisan-immigration-deal.html"
+  ],
+  [
+    "department",
+    14,
+    "https://www.nytimes.com/2026/03/21/us/politics/markwayne-mullin-bipartisan-immigration-deal.html"
+  ],
+  [
+    "party",
+    14,
+    "https://www.nytimes.com/2026/03/22/world/europe/france-mayors-elections-far-right.html"
   ],
   [
     "round",
@@ -266,39 +286,64 @@
     "https://www.nytimes.com/2026/03/22/world/europe/france-mayors-elections-far-right.html"
   ],
   [
-    "close",
+    "israeli",
     14,
-    "https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "series",
+    "campaign",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/21/something-very-bad-is-going-to-happen-the-duffer-brothers-horror-series-is-absolutely-terrifying"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "others",
+    "experts",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/21/trump-health-privacy"
+    "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation"
   ],
   [
-    "special",
-    13,
-    "https://www.nytimes.com/2026/03/21/us/politics/robert-mueller-trump-russia-fbi-investigation.html"
+    "book",
+    14,
+    "https://www.theguardian.com/fashion/2026/mar/22/living-period-political-anti-intellectualism-pop-culture-clever-new-cool"
   ],
   [
-    "start",
-    13,
-    "https://www.nytimes.com/2026/03/21/us/politics/robert-mueller-trump-russia-fbi-investigation.html"
+    "killed",
+    14,
+    "https://www.theguardian.com/world/2026/mar/22/brussels-bombings-attacks-2016-anniversary-survivors-pensions-compensation"
   ],
   [
-    "agents",
-    13,
-    "https://www.nytimes.com/2026/03/21/us/politics/trump-ice-agents-airports.html"
+    "issues",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/mar/22/un-formally-recognise-transatlantic-slavery-trade-crime-against-humanity"
   ],
   [
-    "party",
+    "health",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/mar/20/the-guardian-view-on-meningitis-in-kent-we-must-not-take-public-health-systems-for-granted"
+  ],
+  [
+    "working",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/mar/20/the-guardian-view-on-meningitis-in-kent-we-must-not-take-public-health-systems-for-granted"
+  ],
+  [
+    "student",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/mar/20/the-guardian-view-on-meningitis-in-kent-we-must-not-take-public-health-systems-for-granted"
+  ],
+  [
+    "illinois",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/20/iran-war-us-farming-impact"
+  ],
+  [
+    "far",
     13,
-    "https://www.nytimes.com/2026/03/22/world/europe/france-mayors-elections-far-right.html"
+    "https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html"
+  ],
+  [
+    "global",
+    13,
+    "https://www.nytimes.com/2026/03/21/nyregion/fearing-chaos-of-climate-change-some-seek-answers-in-virtual-classroom.html"
   ],
   [
     "italy",
@@ -306,73 +351,28 @@
     "https://www.nytimes.com/2026/03/22/world/europe/italy-referendum-judiciary-meloni.html"
   ],
   [
-    "attack",
-    13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
     "attacks",
     13,
     "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "global",
+    "red",
     13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "early",
+    "american",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "place",
-    13,
-    "https://www.theguardian.com/music/2026/mar/22/bts-concert-arirang-kpop-fans-comeback-south-korea-seoul"
-  ],
-  [
-    "social",
-    13,
-    "https://www.theguardian.com/world/2026/mar/22/iran-social-media-strategy-information-war-us-israel-attack"
-  ],
-  [
-    "because",
-    13,
-    "https://www.theguardian.com/world/2026/mar/22/brussels-bombings-attacks-2016-anniversary-survivors-pensions-compensation"
-  ],
-  [
-    "student",
-    13,
-    "https://www.theguardian.com/us-news/2026/mar/21/jimmy-gracey-alabama-student-fell-barcelona-water-death"
-  ],
-  [
-    "point",
-    13,
-    "https://www.theguardian.com/us-news/2026/mar/21/jimmy-gracey-alabama-student-fell-barcelona-water-death"
-  ],
-  [
-    "region",
-    13,
-    "https://www.theguardian.com/us-news/2026/mar/21/trump-iran-war-stirs-anger-maga-kentucky"
+    "https://www.theguardian.com/culture/2026/mar/22/saturday-night-live-uk-review-it-didnt-fail-and-it-could-have-been-a-lot-worse"
   ],
   [
     "always",
     13,
-    "https://www.theguardian.com/technology/2026/mar/21/kaiser-permanente-therapists-ai-strike"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/22/its-always-me-who-makes-the-effort-to-see-my-friends-dont-they-value-me"
   ],
   [
-    "book",
+    "died",
     13,
-    "https://www.theguardian.com/fashion/2026/mar/22/living-period-political-anti-intellectualism-pop-culture-clever-new-cool"
-  ],
-  [
-    "star",
-    13,
-    "https://www.theguardian.com/fashion/2026/mar/22/living-period-political-anti-intellectualism-pop-culture-clever-new-cool"
-  ],
-  [
-    "kitchen",
-    13,
-    "https://www.theguardian.com/food/2026/mar/21/hospitality-love-of-cooking-chef-pig-farm"
+    "https://www.theguardian.com/us-news/2026/mar/21/robert-mueller-special-counsel-trump-russia-dies"
   ]
 ];
