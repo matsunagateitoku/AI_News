@@ -2,43 +2,33 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    101,
-    "https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html"
+    117,
+    "https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html"
   ],
   [
     "iran",
-    56,
-    "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html"
-  ],
-  [
-    "war",
-    42,
-    "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html"
+    73,
+    "https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html"
   ],
   [
     "president",
-    40,
+    41,
     "https://www.nytimes.com/2026/03/23/us/politics/trump-ballroom-kennedy-center-lawsuits.html"
   ],
   [
-    "fire",
-    35,
-    "https://www.nytimes.com/2026/03/23/nyregion/laguardia-airport-air-canada-plane-crash.html"
+    "war",
+    40,
+    "https://www.nytimes.com/2026/03/23/us/politics/us-airborne-troops-iran.html"
   ],
   [
-    "laguardia",
-    32,
-    "https://www.nytimes.com/2026/03/23/podcasts/the-headlines/runway-collision-laguardia-airport-and-trumps-ultimatum-iran.html"
+    "election",
+    36,
+    "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html"
   ],
   [
-    "airport",
-    32,
-    "https://www.nytimes.com/2026/03/23/podcasts/the-headlines/runway-collision-laguardia-airport-and-trumps-ultimatum-iran.html"
-  ],
-  [
-    "energy",
-    27,
-    "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html"
+    "ballots",
+    31,
+    "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html"
   ],
   [
     "game",
@@ -46,299 +36,299 @@
     "https://www.theguardian.com/commentisfree/2026/mar/23/pete-hegseth-nihilist-cult"
   ],
   [
-    "truck",
-    24,
-    "https://www.nytimes.com/live/2026/03/23/nyregion/laguardia-airport-plane-crash-truck/f10de12f-9a58-558f-abb4-252eea148968"
-  ],
-  [
-    "air",
-    24,
-    "https://www.nytimes.com/live/2026/03/23/nyregion/laguardia-airport-plane-crash-truck/f10de12f-9a58-558f-abb4-252eea148968"
-  ],
-  [
-    "plane",
-    22,
-    "https://www.nytimes.com/2026/03/23/nyregion/laguardia-airport-air-canada-plane-crash.html"
-  ],
-  [
-    "health",
-    22,
-    "https://www.nytimes.com/2026/03/23/magazine/takeaways-cdc-oral-history.html"
-  ],
-  [
     "ice",
-    22,
-    "https://www.nytimes.com/2026/03/23/us/politics/foreign-adoptees-citizenship-immigration-enforcement.html"
+    25,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "agents",
+    25,
+    "https://www.theguardian.com/us-news/2026/mar/23/us-airports-latest-tsa-ice"
+  ],
+  [
+    "court",
+    24,
+    "https://www.theguardian.com/us-news/2026/mar/23/supreme-court-mail-in-ballots-case"
   ],
   [
     "family",
-    22,
+    23,
     "https://www.washingtonpost.com/nation/interactive/2026/texas-black-families-trail-ride/"
   ],
   [
-    "london",
+    "energy",
     22,
-    "https://www.theguardian.com/uk-news/2026/mar/23/jewish-volunteer-ambulances-fire-golders-green-suspected-arson-antisemitic-ntwnfb"
-  ],
-  [
-    "killed",
-    20,
-    "https://www.nytimes.com/2026/03/23/nyregion/laguardia-airport-air-canada-plane-crash.html"
-  ],
-  [
-    "democrats",
-    20,
-    "https://www.nytimes.com/2026/03/23/us/politics/when-voters-worry-about-affordability-many-point-to-health-care.html"
-  ],
-  [
-    "country",
-    20,
-    "https://www.nytimes.com/2026/03/23/world/asia/denmark-elections-frederiksen-hometown.html"
+    "https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html"
   ],
   [
     "power",
-    20,
-    "https://www.washingtonpost.com/health/2026/03/23/casey-means-surgeon-general-nomination-stalled-maha/"
-  ],
-  [
-    "latest",
-    20,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "night",
-    20,
-    "https://www.theguardian.com/world/2026/mar/23/iran-cluster-bombs-bypassing-israel-air-defences"
-  ],
-  [
-    "late",
-    20,
-    "https://www.theguardian.com/world/2026/mar/23/iran-cluster-bombs-bypassing-israel-air-defences"
-  ],
-  [
-    "east",
-    19,
-    "https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html"
-  ],
-  [
-    "media",
-    19,
-    "https://www.nytimes.com/2026/03/23/nyregion/nyc-schools-jewish-muslim-history-lessons.html"
+    22,
+    "https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html"
   ],
   [
     "california",
-    19,
-    "https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html"
+    22,
+    "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html"
+  ],
+  [
+    "airport",
+    22,
+    "https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/"
+  ],
+  [
+    "latest",
+    22,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "supreme",
+    22,
+    "https://www.theguardian.com/world/2026/mar/23/iran-cluster-bombs-bypassing-israel-air-defences"
+  ],
+  [
+    "airports",
+    22,
+    "https://www.theguardian.com/us-news/2026/mar/23/us-airports-latest-tsa-ice"
+  ],
+  [
+    "security",
+    22,
+    "https://www.theguardian.com/us-news/2026/mar/23/us-airports-latest-tsa-ice"
+  ],
+  [
+    "fire",
+    20,
+    "https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/"
+  ],
+  [
+    "senate",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/mar/23/pete-hegseth-nihilist-cult"
+  ],
+  [
+    "talks",
+    20,
+    "https://www.theguardian.com/world/2026/mar/23/trump-extends-iran-deadline-five-days-energy-infrastructure"
   ],
   [
     "because",
     19,
-    "https://www.theguardian.com/commentisfree/2026/mar/23/pete-hegseth-nihilist-cult"
+    "https://www.nytimes.com/2026/03/23/nyregion/new-attorney-nj-habba.html"
   ],
   [
-    "cbs",
+    "health",
     19,
-    "https://www.cbsnews.com/video/republican-democratic-strategists-react-to-new-poll-on-trumps-approval-rating/"
-  ],
-  [
-    "political",
-    18,
-    "https://www.nytimes.com/2026/03/23/us/politics/when-voters-worry-about-affordability-many-point-to-health-care.html"
-  ],
-  [
-    "canada",
-    18,
-    "https://www.nytimes.com/2026/03/23/world/canada/canada-arctic-territory-military.html"
-  ],
-  [
-    "american",
-    18,
-    "https://www.nytimes.com/2026/03/23/nyregion/nyc-schools-jewish-muslim-history-lessons.html"
-  ],
-  [
-    "texas",
-    18,
-    "https://www.washingtonpost.com/nation/interactive/2026/texas-black-families-trail-ride/"
-  ],
-  [
-    "security",
-    18,
-    "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined"
-  ],
-  [
-    "food",
-    18,
-    "https://www.theguardian.com/environment/2026/mar/23/earth-being-pushed-beyond-its-limits-as-energy-imbalance-reaches-record-high"
-  ],
-  [
-    "york",
-    17,
-    "https://www.nytimes.com/2026/03/23/nyregion/nyc-schools-jewish-muslim-history-lessons.html"
+    "https://www.nytimes.com/2026/03/23/magazine/takeaways-cdc-oral-history.html"
   ],
   [
     "something",
-    17,
-    "https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html"
+    18,
+    "https://www.theguardian.com/technology/2026/mar/23/distracted-driving-smartphones-tiktok"
   ],
   [
-    "israel",
-    17,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "night",
+    18,
+    "https://www.theguardian.com/world/2026/mar/23/iran-cluster-bombs-bypassing-israel-air-defences"
   ],
   [
-    "feel",
-    17,
-    "https://www.theguardian.com/film/2026/mar/23/everybody-wants-some-richard-linklater-feelgood-movie"
+    "tsa",
+    18,
+    "https://www.theguardian.com/us-news/2026/mar/23/us-airports-latest-tsa-ice"
   ],
   [
-    "court",
+    "mail",
+    18,
+    "https://www.theguardian.com/us-news/2026/mar/23/supreme-court-mail-in-ballots-case"
+  ],
+  [
+    "food",
     17,
-    "https://www.theguardian.com/commentisfree/2026/mar/22/trump-district-court-judges"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/23/chinamaxxing-chinese-culture-becomes-a-meme"
+  ],
+  [
+    "donald",
+    17,
+    "https://www.theguardian.com/world/2026/mar/23/trump-extends-iran-deadline-five-days-energy-infrastructure"
+  ],
+  [
+    "late",
+    17,
+    "https://www.theguardian.com/world/2026/mar/23/iran-cluster-bombs-bypassing-israel-air-defences"
+  ],
+  [
+    "republican",
+    16,
+    "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html"
+  ],
+  [
+    "administration",
+    16,
+    "https://www.nytimes.com/2026/03/23/climate/offshore-wind-gas-trump-total.html"
   ],
   [
     "oil",
     16,
-    "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html"
-  ],
-  [
-    "pilots",
-    16,
-    "https://www.nytimes.com/2026/03/23/nyregion/laguardia-airport-air-canada-plane-crash.html"
-  ],
-  [
-    "online",
-    16,
-    "https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html"
-  ],
-  [
-    "crisis",
-    16,
-    "https://www.nytimes.com/2026/03/23/world/asia/denmark-elections-frederiksen-hometown.html"
-  ],
-  [
-    "strikes",
-    16,
-    "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined"
-  ],
-  [
-    "supreme",
-    16,
-    "https://www.theguardian.com/world/2026/mar/23/iran-cluster-bombs-bypassing-israel-air-defences"
-  ],
-  [
-    "don",
-    16,
-    "https://www.theguardian.com/society/2026/mar/23/former-top-military-officer-elanor-boekholt-osullivan-mission-fix-dutch-housing-crisis"
-  ],
-  [
-    "america",
-    16,
-    "https://www.theguardian.com/world/2026/mar/22/ibram-x-kendi-fear-fuels-racism-great-replacement-antiracist-chain-ideas"
+    "https://www.nytimes.com/2026/03/23/climate/offshore-wind-gas-trump-total.html"
   ],
   [
     "middle",
-    15,
-    "https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html"
+    16,
+    "https://www.nytimes.com/2026/03/23/us/lilias-folan-dead.html"
   ],
   [
-    "social",
-    15,
-    "https://www.nytimes.com/2026/03/23/nyregion/nyc-schools-jewish-muslim-history-lessons.html"
+    "air",
+    16,
+    "https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/"
   ],
   [
-    "donald",
-    15,
-    "https://www.theguardian.com/us-news/2026/mar/23/trump-whistleblower-alex-vindman-us-senator"
+    "country",
+    16,
+    "https://www.washingtonpost.com/nation/2026/03/22/iran-war-gas-price-surge/"
   ],
   [
-    "morning",
-    15,
-    "https://www.theguardian.com/society/2026/mar/23/meningitis-no-new-cases-linked-fatal-kent-outbreak-ukhsa"
-  ],
-  [
-    "care",
-    14,
-    "https://www.nytimes.com/2026/03/23/us/politics/when-voters-worry-about-affordability-many-point-to-health-care.html"
-  ],
-  [
-    "military",
-    14,
-    "https://www.nytimes.com/2026/03/23/world/canada/canada-arctic-territory-military.html"
-  ],
-  [
-    "israeli",
-    14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "iranian",
-    14,
-    "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined"
-  ],
-  [
-    "poll",
-    14,
-    "https://www.latimes.com/california/story/2026-03-22/bass-leads-field-for-la-mayor-but-many-voters-view-her-unfavorably-poll-finds"
-  ],
-  [
-    "rise",
-    13,
-    "https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html"
-  ],
-  [
-    "black",
-    13,
-    "https://www.nytimes.com/2026/03/23/business/jeffrey-epstein-leon-black.html"
-  ],
-  [
-    "death",
-    13,
-    "https://www.nytimes.com/2026/03/23/briefing/drug-soaked-paper.html"
-  ],
-  [
-    "gaza",
-    13,
+    "israel",
+    16,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "attack",
-    13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "video",
+    16,
+    "https://www.theguardian.com/technology/2026/mar/23/distracted-driving-smartphones-tiktok"
   ],
   [
-    "despite",
-    13,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "strait",
+    16,
+    "https://www.theguardian.com/world/2026/mar/23/trump-extends-iran-deadline-five-days-energy-infrastructure"
+  ],
+  [
+    "states",
+    16,
+    "https://www.theguardian.com/world/2026/mar/23/trump-extends-iran-deadline-five-days-energy-infrastructure"
+  ],
+  [
+    "weekend",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/23/us-airports-latest-tsa-ice"
+  ],
+  [
+    "police",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/23/john-oliver-police-stings"
+  ],
+  [
+    "sleep",
+    16,
+    "https://www.theguardian.com/thefilter-us/2025/oct/02/best-sleep-eye-masks-us"
+  ],
+  [
+    "political",
+    15,
+    "https://www.washingtonpost.com/health/2026/03/23/casey-means-surgeon-general-nomination-stalled-maha/"
   ],
   [
     "early",
-    13,
+    15,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "again",
-    13,
+    "online",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/23/chinamaxxing-chinese-culture-becomes-a-meme"
+  ],
+  [
+    "hormuz",
+    15,
+    "https://www.theguardian.com/world/2026/mar/23/trump-extends-iran-deadline-five-days-energy-infrastructure"
+  ],
+  [
+    "east",
+    15,
+    "https://www.theguardian.com/world/2026/mar/23/trump-extends-iran-deadline-five-days-energy-infrastructure"
+  ],
+  [
+    "shutdown",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/23/us-airports-latest-tsa-ice"
+  ],
+  [
+    "local",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/mar/23/jean-luc-melenchon-france-radical-left-la-france-insoumise"
+  ],
+  [
+    "dhs",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/22/senate-advances-mullin-nomination-dhs-secretary"
+  ],
+  [
+    "texas",
+    14,
+    "https://www.nytimes.com/2026/03/23/climate/offshore-wind-gas-trump-total.html"
+  ],
+  [
+    "black",
+    14,
+    "https://www.nytimes.com/2026/03/23/business/jeffrey-epstein-leon-black.html"
+  ],
+  [
+    "america",
+    14,
+    "https://www.nytimes.com/2026/03/23/us/lilias-folan-dead.html"
+  ],
+  [
+    "laguardia",
+    14,
+    "https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/"
+  ],
+  [
+    "crisis",
+    14,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "series",
+    14,
     "https://www.theguardian.com/film/2026/mar/23/everybody-wants-some-richard-linklater-feelgood-movie"
+  ],
+  [
+    "london",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/23/chinamaxxing-chinese-culture-becomes-a-meme"
+  ],
+  [
+    "star",
+    14,
+    "https://www.theguardian.com/film/2026/mar/23/actor-alan-ritchson-alleged-neighbor-assault-video"
+  ],
+  [
+    "american",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes"
+  ],
+  [
+    "illinois",
+    14,
+    "https://www.foxnews.com/politics/pritzker-breaks-silence-migrant-charged-students-murder-blames-trump-politicizing-case"
   ],
   [
     "office",
     13,
-    "https://www.theguardian.com/film/2026/mar/23/everybody-wants-some-richard-linklater-feelgood-movie"
+    "https://www.nytimes.com/2026/03/23/nyregion/new-attorney-nj-habba.html"
   ],
   [
-    "plants",
+    "guide",
     13,
-    "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined"
+    "https://www.nytimes.com/2026/03/23/realestate/spring-cleaning-tips-professional-organizer.html"
   ],
   [
-    "police",
+    "pop",
     13,
-    "https://www.theguardian.com/uk-news/2026/mar/23/jewish-volunteer-ambulances-fire-golders-green-suspected-arson-antisemitic-ntwnfb"
+    "https://www.nytimes.com/2026/03/23/arts/music/bts-arirang-review.html"
   ],
   [
-    "today",
+    "media",
     13,
-    "https://www.theguardian.com/commentisfree/2026/mar/22/trump-district-court-judges"
+    "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes"
   ],
   [
     "games",
@@ -346,33 +336,43 @@
     "https://www.theguardian.com/football/2026/mar/23/mls-weekend-sam-surridge-st-louis-city"
   ],
   [
-    "illinois",
-    13,
-    "https://www.politico.com/news/2026/03/19/pritzker-2028-congressional-black-caucus-tensions-00835266"
+    "government",
+    12,
+    "https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html"
   ],
   [
-    "infrastructure",
+    "candidate",
     12,
-    "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html"
+    "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html"
   ],
   [
-    "runway",
+    "gas",
     12,
-    "https://www.nytimes.com/2026/03/23/nyregion/laguardia-airport-air-canada-plane-crash.html"
+    "https://www.nytimes.com/2026/03/23/climate/offshore-wind-gas-trump-total.html"
   ],
   [
-    "administration",
+    "role",
     12,
-    "https://www.nytimes.com/2026/03/22/us/loyola-student-death-arrest.html"
+    "https://www.nytimes.com/2026/03/23/magazine/takeaways-cdc-oral-history.html"
   ],
   [
-    "jewish",
+    "york",
     12,
-    "https://www.nytimes.com/2026/03/23/nyregion/nyc-schools-jewish-muslim-history-lessons.html"
+    "https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/"
   ],
   [
-    "start",
+    "jet",
     12,
-    "https://www.nytimes.com/2026/03/23/health/diabetes-africa-cameroon-type-5.html"
+    "https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/"
+  ],
+  [
+    "prices",
+    12,
+    "https://www.washingtonpost.com/nation/2026/03/22/iran-war-gas-price-surge/"
+  ],
+  [
+    "military",
+    12,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ]
 ];
