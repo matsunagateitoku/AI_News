@@ -2,40 +2,52 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 50,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Trump Backs Off Threats",
+      "count": 61,
+      "url": "https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html",
+      "source": "NY Times"
     },
     {
-      "name": "The Us Senate",
-      "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/mar/22/senate-advances-mullin-nomination-dhs-secretary",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Air Canada Express",
+      "name": "Ai",
       "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai On Tv",
-      "count": 15,
-      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-03-22/the-comeback-review-lisa-kudrow-hbo-season-3",
-      "source": "LA Times"
-    },
-    {
-      "name": "The White House",
-      "count": 12,
       "url": "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes",
       "source": "The Guardian"
     },
     {
-      "name": "Ice",
+      "name": "The White House",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/03/23/us/politics/trump-ballroom-kennedy-center-lawsuits.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 12,
+      "url": "https://www.cbsnews.com/news/supreme-court-mail-ballots-mississippi-law/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Air Canada Express",
       "count": 11,
-      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
-      "source": "Wall St. Journal"
+      "url": "https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Ice Deployed",
+      "count": 11,
+      "url": "https://www.today.com/video/questions-mount-over-role-of-ice-agents-deployed-to-airports-259846725769",
+      "source": "NBC News"
+    },
+    {
+      "name": "Laguardia International Airport",
+      "count": 11,
+      "url": "https://thehill.com/policy/transportation/5796169-la-guardia-jet-fire-truck-collision/",
+      "source": "The Hill"
+    },
+    {
+      "name": "The Us Senate",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/mar/22/senate-advances-mullin-nomination-dhs-secretary",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
@@ -44,152 +56,140 @@
       "source": "The Guardian"
     },
     {
-      "name": "Dhs",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/mar/22/senate-advances-mullin-nomination-dhs-secretary",
-      "source": "The Guardian"
-    },
-    {
       "name": "Tsa",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/mar/22/ice-agents-us-airports",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hbo",
-      "count": 7,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/22/hbo-max-alan-ball-casey-bloys-sopranos-wire-six-feet-under",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 35,
-      "url": "https://www.theguardian.com/us-news/2026/mar/22/ice-agents-us-airports",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hormuz",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/mar/22/trump-iran-leon-panetta",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tom Homan",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Volodymyr Zelenskyy",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/2026/mar/23/ukraine-war-briefing-russia-trying-to-intensify-attacks-us-ukraine-talks-end",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Bachelorette",
-      "count": 7,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/20/bachelorette-cancelled-taylor-frankie-paul-domestic-violence-video",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nicholas Brendon",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/03/20/arts/television/nicholas-brendon-dead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Taylor Frankie Paul",
-      "count": 6,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/20/bachelorette-cancelled-taylor-frankie-paul-domestic-violence-video",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Markwayne Mullin",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/mar/22/senate-advances-mullin-nomination-dhs-secretary",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jessi Pierce",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/mar/22/minnesota-wild-reporter-jessi-pierce-three-children-found-dead-house-fire",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Chappell Roan",
-      "count": 5,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-03-22/chappell-roan-reacts-jorginho-accusations-daughter-jude-law",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-03-22/trump-border-advisor-says-ice-to-deploy-to-u-s-airports-monday",
       "source": "LA Times"
     }
   ],
   "GPE": [
     {
+      "name": "Iran",
+      "count": 53,
+      "url": "https://www.washingtonpost.com/nation/2026/03/22/iran-war-gas-price-surge/",
+      "source": "Washington Post"
+    },
+    {
       "name": "Us",
-      "count": 70,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes",
+      "count": 46,
+      "url": "https://www.nytimes.com/2026/03/23/world/americas/canada-us-arctic-military-norad.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S. Illegally",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/03/22/us/loyola-student-death-arrest.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "London",
+      "count": 21,
+      "url": "https://www.theguardian.com/uk-news/2026/mar/23/jewish-volunteer-ambulances-fire-golders-green-suspected-arson-antisemitic-ntwnfb",
       "source": "The Guardian"
     },
     {
-      "name": "Iran",
-      "count": 50,
-      "url": "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 27,
-      "url": "https://www.nytimes.com/2026/03/22/opinion/washington-china-officials-visit.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html",
-      "source": "NY Times"
+      "name": "Texas",
+      "count": 15,
+      "url": "https://www.washingtonpost.com/nation/interactive/2026/texas-black-families-trail-ride/",
+      "source": "Washington Post"
     },
     {
       "name": "California",
-      "count": 15,
+      "count": 14,
       "url": "https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html",
       "source": "NY Times"
     },
     {
       "name": "L.A. County",
-      "count": 15,
+      "count": 14,
       "url": "https://www.latimes.com/environment/story/2026-03-22/la-mosquitoes-sterile-male-releases-los-angeles-county-funding",
       "source": "LA Times"
     },
     {
-      "name": "Ukraine",
-      "count": 14,
-      "url": "https://www.theguardian.com/world/2026/mar/23/iran-war-energy-crisis-1970s-oil-shocks-fatih-birol-iea",
-      "source": "The Guardian"
+      "name": "Israel",
+      "count": 12,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "Florida",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/mar/22/child-labor-protections-republicans",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uk",
-      "count": 14,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/22/hbo-max-alan-ball-casey-bloys-sopranos-wire-six-feet-under",
+      "name": "Tehran",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/2026/mar/23/iran-cluster-bombs-bypassing-israel-air-defences",
       "source": "The Guardian"
     },
     {
       "name": "Illinois",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/mar/20/iran-war-us-farming-impact",
+      "count": 11,
+      "url": "https://www.politico.com/news/2026/03/19/pritzker-2028-congressional-black-caucus-tensions-00835266",
+      "source": "Politico"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 33,
+      "url": "https://www.theguardian.com/us-news/2026/mar/23/trump-whistleblower-alex-vindman-us-senator",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Chuck Norris",
+      "count": 7,
+      "url": "https://www.theguardian.com/football/2026/mar/23/premier-league-and-carabao-cup-final-10-talking-points-from-the-weekend-action",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Christopher Columbus",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/mar/23/trump-christopher-columbus-statue",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Harriet",
+      "count": 6,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/23/the-pet-ill-never-forget-harriet-the-hedgehog-in-my-airing-cupboard",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "count": 5,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/23/pete-hegseth-nihilist-cult",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kristi Noem",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/mar/22/senate-advances-mullin-nomination-dhs-secretary",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tom Homan",
+      "count": 5,
+      "url": "https://www.latimes.com/california/story/2026-03-22/trump-border-advisor-says-ice-to-deploy-to-u-s-airports-monday",
+      "source": "LA Times"
+    },
+    {
+      "name": "Joe Kent",
+      "count": 5,
+      "url": "https://thehill.com/homenews/administration/5796243-joe-kent-warns-donald-trump-kharg/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Hormuz Deadline",
+      "count": 4,
+      "url": "https://www.nytimes.com/2026/03/23/podcasts/the-headlines/runway-collision-laguardia-airport-and-trumps-ultimatum-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Pete Hegseth",
+      "count": 4,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/23/pete-hegseth-nihilist-cult",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 6,
+      "count": 4,
       "url": "https://www.washingtonpost.com/nation/2026/03/22/iran-war-gas-price-surge/",
       "source": "Washington Post"
     },
@@ -200,39 +200,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "World Cup",
-      "count": 2,
-      "url": "https://www.foxnews.com/sports/world-cup-2026-us-base-camps-host-cities",
-      "source": "Fox News"
-    },
-    {
       "name": "Operation Epic Fury",
       "count": 1,
       "url": "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes",
       "source": "The Guardian"
     },
     {
-      "name": "Carabao Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/mar/22/arsenal-manchester-city-carabao-cup-final-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The League Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/mar/22/arsenal-manchester-city-carabao-cup-final-match-report",
-      "source": "The Guardian"
-    },
-    {
       "name": "The French Open",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/mar/22/serena-williams-courts-drama-tennis-possible-return",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Championship  Crises",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/mar/22/tottenham-hotspur-nottingham-forest-premier-league-relegation",
       "source": "The Guardian"
     },
     {
@@ -246,7 +222,31 @@
       "count": 1,
       "url": "https://www.theguardian.com/games/2026/mar/18/pushing-buttons-microsoft-indie-game-all-will-rise-no-games-for-genocide",
       "source": "The Guardian"
+    },
+    {
+      "name": "Vitamix 5200",
+      "count": 1,
+      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World War Ii",
+      "count": 1,
+      "url": "https://www.latimes.com/opinion/story/2026-03-17/paul-ehrlich-wrong-everything",
+      "source": "LA Times"
+    },
+    {
+      "name": "The Iranian War",
+      "count": 1,
+      "url": "https://www.cbsnews.com/video/032226-face-the-nation/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Today",
+      "count": 1,
+      "url": "https://www.nbcnews.com/video/1986-chuck-norris-discusses-his-shift-to-comedy-in-firewalker-259663429980",
+      "source": "NBC News"
     }
   ],
-  "updated": "2026-03-23T08:04:54Z"
+  "updated": "2026-03-23T14:18:01Z"
 };

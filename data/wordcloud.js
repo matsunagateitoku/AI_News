@@ -2,128 +2,128 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    89,
-    "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
-  ],
-  [
-    "war",
-    58,
-    "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
+    101,
+    "https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html"
   ],
   [
     "iran",
     56,
-    "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
+    "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html"
+  ],
+  [
+    "war",
+    42,
+    "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html"
   ],
   [
     "president",
     40,
-    "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
-  ],
-  [
-    "security",
-    28,
-    "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html"
-  ],
-  [
-    "country",
-    27,
-    "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html"
-  ],
-  [
-    "airport",
-    27,
-    "https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/"
-  ],
-  [
-    "family",
-    27,
-    "https://www.washingtonpost.com/nation/interactive/2026/texas-black-families-trail-ride/"
+    "https://www.nytimes.com/2026/03/23/us/politics/trump-ballroom-kennedy-center-lawsuits.html"
   ],
   [
     "fire",
-    26,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    35,
+    "https://www.nytimes.com/2026/03/23/nyregion/laguardia-airport-air-canada-plane-crash.html"
   ],
   [
-    "game",
-    24,
-    "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes"
+    "laguardia",
+    32,
+    "https://www.nytimes.com/2026/03/23/podcasts/the-headlines/runway-collision-laguardia-airport-and-trumps-ultimatum-iran.html"
   ],
   [
-    "israel",
-    23,
-    "https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html"
-  ],
-  [
-    "air",
-    22,
-    "https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html"
-  ],
-  [
-    "latest",
-    22,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "ice",
-    21,
-    "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html"
-  ],
-  [
-    "crisis",
-    21,
-    "https://www.nytimes.com/2026/03/23/world/asia/denmark-elections-frederiksen-hometown.html"
+    "airport",
+    32,
+    "https://www.nytimes.com/2026/03/23/podcasts/the-headlines/runway-collision-laguardia-airport-and-trumps-ultimatum-iran.html"
   ],
   [
     "energy",
-    21,
-    "https://www.nytimes.com/2026/03/22/climate/energy-imbalance-un-report.html"
+    27,
+    "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html"
   ],
   [
-    "strait",
-    21,
-    "https://www.theguardian.com/world/2026/mar/23/iran-war-energy-crisis-1970s-oil-shocks-fatih-birol-iea"
+    "game",
+    26,
+    "https://www.theguardian.com/commentisfree/2026/mar/23/pete-hegseth-nihilist-cult"
   ],
   [
-    "east",
+    "truck",
+    24,
+    "https://www.nytimes.com/live/2026/03/23/nyregion/laguardia-airport-plane-crash-truck/f10de12f-9a58-558f-abb4-252eea148968"
+  ],
+  [
+    "air",
+    24,
+    "https://www.nytimes.com/live/2026/03/23/nyregion/laguardia-airport-plane-crash-truck/f10de12f-9a58-558f-abb4-252eea148968"
+  ],
+  [
+    "plane",
+    22,
+    "https://www.nytimes.com/2026/03/23/nyregion/laguardia-airport-air-canada-plane-crash.html"
+  ],
+  [
+    "health",
+    22,
+    "https://www.nytimes.com/2026/03/23/magazine/takeaways-cdc-oral-history.html"
+  ],
+  [
+    "ice",
+    22,
+    "https://www.nytimes.com/2026/03/23/us/politics/foreign-adoptees-citizenship-immigration-enforcement.html"
+  ],
+  [
+    "family",
+    22,
+    "https://www.washingtonpost.com/nation/interactive/2026/texas-black-families-trail-ride/"
+  ],
+  [
+    "london",
+    22,
+    "https://www.theguardian.com/uk-news/2026/mar/23/jewish-volunteer-ambulances-fire-golders-green-suspected-arson-antisemitic-ntwnfb"
+  ],
+  [
+    "killed",
     20,
-    "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes"
+    "https://www.nytimes.com/2026/03/23/nyregion/laguardia-airport-air-canada-plane-crash.html"
+  ],
+  [
+    "democrats",
+    20,
+    "https://www.nytimes.com/2026/03/23/us/politics/when-voters-worry-about-affordability-many-point-to-health-care.html"
+  ],
+  [
+    "country",
+    20,
+    "https://www.nytimes.com/2026/03/23/world/asia/denmark-elections-frederiksen-hometown.html"
+  ],
+  [
+    "power",
+    20,
+    "https://www.washingtonpost.com/health/2026/03/23/casey-means-surgeon-general-nomination-stalled-maha/"
+  ],
+  [
+    "latest",
+    20,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
     "night",
     20,
-    "https://www.theguardian.com/environment/2026/mar/22/i-discovered-three-new-geckos-in-cambodia-limestone-caves-and-thats-not-all-we-found-aoe"
+    "https://www.theguardian.com/world/2026/mar/23/iran-cluster-bombs-bypassing-israel-air-defences"
   ],
   [
-    "oil",
+    "late",
     20,
-    "https://www.theguardian.com/world/2026/mar/23/iran-war-energy-crisis-1970s-oil-shocks-fatih-birol-iea"
+    "https://www.theguardian.com/world/2026/mar/23/iran-cluster-bombs-bypassing-israel-air-defences"
   ],
   [
-    "hormuz",
-    20,
-    "https://www.theguardian.com/world/2026/mar/23/iran-war-energy-crisis-1970s-oil-shocks-fatih-birol-iea"
-  ],
-  [
-    "health",
-    20,
-    "https://www.theguardian.com/world/2026/mar/23/tehran-toxic-cloud-satellite-image-oil-fires"
-  ],
-  [
-    "iranian",
+    "east",
     19,
-    "https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html"
+    "https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html"
   ],
   [
-    "israeli",
+    "media",
     19,
-    "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
-  ],
-  [
-    "power",
-    19,
-    "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html"
+    "https://www.nytimes.com/2026/03/23/nyregion/nyc-schools-jewish-muslim-history-lessons.html"
   ],
   [
     "california",
@@ -131,19 +131,39 @@
     "https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html"
   ],
   [
-    "late",
+    "because",
     19,
-    "https://www.theguardian.com/culture/2026/mar/23/tiktok-perfume-trend-fragrance-pictures-mood-boards"
+    "https://www.theguardian.com/commentisfree/2026/mar/23/pete-hegseth-nihilist-cult"
   ],
   [
-    "middle",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes"
+    "cbs",
+    19,
+    "https://www.cbsnews.com/video/republican-democratic-strategists-react-to-new-poll-on-trumps-approval-rating/"
   ],
   [
-    "children",
+    "political",
     18,
-    "https://www.theguardian.com/world/2026/mar/22/ibram-x-kendi-fear-fuels-racism-great-replacement-antiracist-chain-ideas"
+    "https://www.nytimes.com/2026/03/23/us/politics/when-voters-worry-about-affordability-many-point-to-health-care.html"
+  ],
+  [
+    "canada",
+    18,
+    "https://www.nytimes.com/2026/03/23/world/canada/canada-arctic-territory-military.html"
+  ],
+  [
+    "american",
+    18,
+    "https://www.nytimes.com/2026/03/23/nyregion/nyc-schools-jewish-muslim-history-lessons.html"
+  ],
+  [
+    "texas",
+    18,
+    "https://www.washingtonpost.com/nation/interactive/2026/texas-black-families-trail-ride/"
+  ],
+  [
+    "security",
+    18,
+    "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined"
   ],
   [
     "food",
@@ -151,84 +171,59 @@
     "https://www.theguardian.com/environment/2026/mar/23/earth-being-pushed-beyond-its-limits-as-energy-imbalance-reaches-record-high"
   ],
   [
-    "global",
+    "york",
     17,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "canada",
-    17,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "again",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes"
-  ],
-  [
-    "online",
-    17,
-    "https://www.theguardian.com/culture/2026/mar/23/tiktok-perfume-trend-fragrance-pictures-mood-boards"
-  ],
-  [
-    "killed",
-    17,
-    "https://www.theguardian.com/world/2026/mar/22/netanyahu-hopes-destroying-iranian-axis-of-evil-will-rehabilitate-his-image"
-  ],
-  [
-    "pilot",
-    17,
-    "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights"
-  ],
-  [
-    "senate",
-    17,
-    "https://www.theguardian.com/us-news/2026/mar/22/senate-advances-mullin-nomination-dhs-secretary"
-  ],
-  [
-    "star",
-    17,
-    "https://www.theguardian.com/music/2026/mar/22/fka-twigs-madison-square-garden-review"
-  ],
-  [
-    "government",
-    16,
-    "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
-  ],
-  [
-    "far",
-    16,
-    "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
-  ],
-  [
-    "democrats",
-    16,
-    "https://www.nytimes.com/2026/03/22/us/politics/republicans-democrats-gas-prices-comments-midterms.html"
+    "https://www.nytimes.com/2026/03/23/nyregion/nyc-schools-jewish-muslim-history-lessons.html"
   ],
   [
     "something",
-    16,
+    17,
     "https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html"
+  ],
+  [
+    "israel",
+    17,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "feel",
+    17,
+    "https://www.theguardian.com/film/2026/mar/23/everybody-wants-some-richard-linklater-feelgood-movie"
+  ],
+  [
+    "court",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/mar/22/trump-district-court-judges"
+  ],
+  [
+    "oil",
+    16,
+    "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html"
+  ],
+  [
+    "pilots",
+    16,
+    "https://www.nytimes.com/2026/03/23/nyregion/laguardia-airport-air-canada-plane-crash.html"
+  ],
+  [
+    "online",
+    16,
+    "https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html"
+  ],
+  [
+    "crisis",
+    16,
+    "https://www.nytimes.com/2026/03/23/world/asia/denmark-elections-frederiksen-hometown.html"
   ],
   [
     "strikes",
     16,
-    "https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/"
+    "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined"
   ],
   [
-    "early",
+    "supreme",
     16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "american",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes"
-  ],
-  [
-    "series",
-    16,
-    "https://www.theguardian.com/world/2026/mar/22/israeli-settlers-carry-out-series-of-west-bank-attacks-as-security-forces-stand-by"
+    "https://www.theguardian.com/world/2026/mar/23/iran-cluster-bombs-bypassing-israel-air-defences"
   ],
   [
     "don",
@@ -236,119 +231,69 @@
     "https://www.theguardian.com/society/2026/mar/23/former-top-military-officer-elanor-boekholt-osullivan-mission-fix-dutch-housing-crisis"
   ],
   [
-    "york",
-    15,
-    "https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/"
+    "america",
+    16,
+    "https://www.theguardian.com/world/2026/mar/22/ibram-x-kendi-fear-fuels-racism-great-replacement-antiracist-chain-ideas"
   ],
   [
-    "texas",
+    "middle",
     15,
-    "https://www.washingtonpost.com/nation/interactive/2026/texas-black-families-trail-ride/"
+    "https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html"
   ],
   [
     "social",
     15,
-    "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes"
+    "https://www.nytimes.com/2026/03/23/nyregion/nyc-schools-jewish-muslim-history-lessons.html"
   ],
   [
-    "agents",
+    "donald",
     15,
-    "https://www.theguardian.com/us-news/2026/mar/22/ice-agents-us-airports"
+    "https://www.theguardian.com/us-news/2026/mar/23/trump-whistleblower-alex-vindman-us-senator"
   ],
   [
-    "office",
+    "morning",
     15,
-    "https://www.theguardian.com/world/2026/mar/22/trump-lauds-viktor-orban-far-right-leaders-gather-budapest"
+    "https://www.theguardian.com/society/2026/mar/23/meningitis-no-new-cases-linked-fatal-kent-outbreak-ukhsa"
   ],
   [
-    "florida",
-    15,
-    "https://www.theguardian.com/us-news/2026/mar/22/child-labor-protections-republicans"
-  ],
-  [
-    "attack",
+    "care",
     14,
-    "https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html"
-  ],
-  [
-    "hours",
-    14,
-    "https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html"
-  ],
-  [
-    "states",
-    14,
-    "https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html"
+    "https://www.nytimes.com/2026/03/23/us/politics/when-voters-worry-about-affordability-many-point-to-health-care.html"
   ],
   [
     "military",
     14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/03/23/world/canada/canada-arctic-territory-military.html"
   ],
   [
-    "million",
+    "israeli",
     14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "team",
+    "iranian",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined"
   ],
   [
-    "conflict",
+    "poll",
     14,
-    "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes"
+    "https://www.latimes.com/california/story/2026-03-22/bass-leads-field-for-la-mayor-but-many-voters-view-her-unfavorably-poll-finds"
   ],
   [
-    "administration",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes"
-  ],
-  [
-    "ukraine",
-    14,
-    "https://www.theguardian.com/world/2026/mar/23/iran-war-energy-crisis-1970s-oil-shocks-fatih-birol-iea"
-  ],
-  [
-    "south",
-    14,
-    "https://www.theguardian.com/world/2026/mar/22/netanyahu-hopes-destroying-iranian-axis-of-evil-will-rehabilitate-his-image"
-  ],
-  [
-    "russian",
-    14,
-    "https://www.theguardian.com/world/2026/mar/23/ukraine-war-briefing-russia-trying-to-intensify-attacks-us-ukraine-talks-end"
-  ],
-  [
-    "illinois",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/20/iran-war-us-farming-impact"
-  ],
-  [
-    "games",
-    14,
-    "https://www.theguardian.com/games/2026/mar/20/resident-evil-30-years-history-video-game"
-  ],
-  [
-    "border",
+    "rise",
     13,
-    "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html"
+    "https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html"
   ],
   [
-    "republicans",
+    "black",
     13,
-    "https://www.nytimes.com/2026/03/22/us/politics/republicans-democrats-gas-prices-comments-midterms.html"
+    "https://www.nytimes.com/2026/03/23/business/jeffrey-epstein-leon-black.html"
   ],
   [
-    "minister",
+    "death",
     13,
-    "https://www.nytimes.com/2026/03/23/world/asia/denmark-elections-frederiksen-hometown.html"
-  ],
-  [
-    "laguardia",
-    13,
-    "https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/"
+    "https://www.nytimes.com/2026/03/23/briefing/drug-soaked-paper.html"
   ],
   [
     "gaza",
@@ -356,23 +301,78 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "campaign",
+    "attack",
     13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "media",
+    "despite",
     13,
-    "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes"
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "because",
+    "early",
     13,
-    "https://www.theguardian.com/world/2026/mar/22/ibram-x-kendi-fear-fuels-racism-great-replacement-antiracist-chain-ideas"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "others",
+    "again",
     13,
-    "https://www.theguardian.com/world/2026/mar/22/ibram-x-kendi-fear-fuels-racism-great-replacement-antiracist-chain-ideas"
+    "https://www.theguardian.com/film/2026/mar/23/everybody-wants-some-richard-linklater-feelgood-movie"
+  ],
+  [
+    "office",
+    13,
+    "https://www.theguardian.com/film/2026/mar/23/everybody-wants-some-richard-linklater-feelgood-movie"
+  ],
+  [
+    "plants",
+    13,
+    "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined"
+  ],
+  [
+    "police",
+    13,
+    "https://www.theguardian.com/uk-news/2026/mar/23/jewish-volunteer-ambulances-fire-golders-green-suspected-arson-antisemitic-ntwnfb"
+  ],
+  [
+    "today",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/mar/22/trump-district-court-judges"
+  ],
+  [
+    "games",
+    13,
+    "https://www.theguardian.com/football/2026/mar/23/mls-weekend-sam-surridge-st-louis-city"
+  ],
+  [
+    "illinois",
+    13,
+    "https://www.politico.com/news/2026/03/19/pritzker-2028-congressional-black-caucus-tensions-00835266"
+  ],
+  [
+    "infrastructure",
+    12,
+    "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html"
+  ],
+  [
+    "runway",
+    12,
+    "https://www.nytimes.com/2026/03/23/nyregion/laguardia-airport-air-canada-plane-crash.html"
+  ],
+  [
+    "administration",
+    12,
+    "https://www.nytimes.com/2026/03/22/us/loyola-student-death-arrest.html"
+  ],
+  [
+    "jewish",
+    12,
+    "https://www.nytimes.com/2026/03/23/nyregion/nyc-schools-jewish-muslim-history-lessons.html"
+  ],
+  [
+    "start",
+    12,
+    "https://www.nytimes.com/2026/03/23/health/diabetes-africa-cameroon-type-5.html"
   ]
 ];
