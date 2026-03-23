@@ -2,22 +2,22 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    75,
-    "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
-  ],
-  [
-    "war",
-    61,
+    105,
     "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
   ],
   [
     "iran",
-    58,
+    62,
+    "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
+  ],
+  [
+    "war",
+    56,
     "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
   ],
   [
     "president",
-    31,
+    43,
     "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
   ],
   [
@@ -26,112 +26,142 @@
     "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html"
   ],
   [
-    "israel",
-    29,
-    "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
-  ],
-  [
     "family",
-    29,
+    30,
     "https://www.washingtonpost.com/nation/interactive/2026/texas-black-families-trail-ride/"
   ],
   [
-    "ice",
-    27,
+    "israel",
+    26,
+    "https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html"
+  ],
+  [
+    "country",
+    26,
     "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html"
   ],
   [
-    "food",
-    26,
-    "https://www.theguardian.com/us-news/2026/mar/22/florida-food-desert-fruit-trees"
+    "ice",
+    25,
+    "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html"
   ],
   [
-    "california",
-    24,
-    "https://www.nytimes.com/2026/03/20/us/politics/california-primary-gop-governors-race.html"
+    "latest",
+    23,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "power",
+    "east",
+    23,
+    "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation"
+  ],
+  [
+    "strait",
     23,
     "https://www.theguardian.com/world/2026/mar/22/iran-says-destroy-middle-east-infrastructure-us-energy-sites"
   ],
   [
-    "nation",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/mar/22/un-formally-recognise-transatlantic-slavery-trade-crime-against-humanity"
+    "iranian",
+    22,
+    "https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html"
   ],
   [
-    "government",
+    "crisis",
+    22,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "game",
+    22,
+    "https://www.theguardian.com/commentisfree/2026/mar/22/the-wordle-guys-latest-move-tells-us-a-lot-about-modern-day-ambition"
+  ],
+  [
+    "hormuz",
+    22,
+    "https://www.theguardian.com/world/2026/mar/22/iran-says-destroy-middle-east-infrastructure-us-energy-sites"
+  ],
+  [
+    "night",
     21,
-    "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
+    "https://www.theguardian.com/culture/2026/mar/23/tiktok-perfume-trend-fragrance-pictures-mood-boards"
   ],
   [
-    "country",
-    21,
-    "https://www.washingtonpost.com/nation/2026/03/22/iran-war-gas-price-surge/"
-  ],
-  [
-    "east",
+    "middle",
     21,
     "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation"
   ],
   [
-    "game",
+    "power",
     21,
-    "https://www.theguardian.com/commentisfree/2026/mar/22/the-wordle-guys-latest-move-tells-us-a-lot-about-modern-day-ambition"
-  ],
-  [
-    "health",
-    21,
-    "https://www.theguardian.com/society/2026/mar/22/hidden-mental-health-crisis-gen-x-women"
-  ],
-  [
-    "don",
-    20,
-    "https://www.nytimes.com/2026/03/22/magazine/don-lemon-trump-minnesota-cnn-youtube.html"
-  ],
-  [
-    "latest",
-    20,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "energy",
-    20,
-    "https://www.theguardian.com/society/2026/mar/22/i-have-stage-four-cancer-there-will-be-no-cure-but-death-isnt-necessarily-imminent-this-is-how-it-feels-to-live-in-the-long-middle"
-  ],
-  [
-    "iranian",
-    20,
     "https://www.theguardian.com/world/2026/mar/22/iran-says-destroy-middle-east-infrastructure-us-energy-sites"
   ],
   [
     "israeli",
-    18,
+    20,
     "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
   ],
   [
-    "airports",
-    18,
-    "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html"
+    "government",
+    20,
+    "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
   ],
   [
-    "secretary",
-    18,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "agents",
+    19,
+    "https://www.nytimes.com/2026/03/22/nyregion/airports-tsa-delays-nyc.html"
   ],
   [
-    "middle",
+    "star",
+    19,
+    "https://www.nytimes.com/2026/03/22/magazine/don-lemon-trump-minnesota-cnn-youtube.html"
+  ],
+  [
+    "administration",
+    19,
+    "https://www.nytimes.com/2026/03/22/magazine/don-lemon-trump-minnesota-cnn-youtube.html"
+  ],
+  [
+    "california",
+    19,
+    "https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html"
+  ],
+  [
+    "hours",
+    18,
+    "https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html"
+  ],
+  [
+    "something",
+    18,
+    "https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html"
+  ],
+  [
+    "military",
+    18,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "donald",
     18,
     "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation"
   ],
   [
-    "military",
-    17,
-    "https://www.nytimes.com/2026/03/22/world/middleeast/israel-lebanon-fighting-hezbollah.html"
+    "american",
+    18,
+    "https://www.theguardian.com/world/ng-interactive/2026/mar/21/iranian-americans-us-israel-iran-war"
   ],
   [
-    "star",
+    "health",
+    18,
+    "https://www.theguardian.com/society/2026/mar/22/hidden-mental-health-crisis-gen-x-women"
+  ],
+  [
+    "democrats",
+    17,
+    "https://www.nytimes.com/2026/03/22/us/politics/the-supreme-court-could-make-it-harder-to-vote-by-mail-in-the-midterms.html"
+  ],
+  [
+    "don",
     17,
     "https://www.nytimes.com/2026/03/22/magazine/don-lemon-trump-minnesota-cnn-youtube.html"
   ],
@@ -141,34 +171,39 @@
     "https://www.washingtonpost.com/nation/interactive/2026/texas-black-families-trail-ride/"
   ],
   [
-    "death",
+    "children",
     17,
-    "https://www.theguardian.com/commentisfree/2026/mar/23/humans-altruism-kindness-empathy-ethics"
-  ],
-  [
-    "far",
-    16,
-    "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
-  ],
-  [
-    "democrats",
-    16,
-    "https://www.nytimes.com/2026/03/22/us/politics/the-supreme-court-could-make-it-harder-to-vote-by-mail-in-the-midterms.html"
-  ],
-  [
-    "global",
-    16,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "night",
-    16,
     "https://www.theguardian.com/culture/2026/mar/23/tiktok-perfume-trend-fragrance-pictures-mood-boards"
   ],
   [
-    "donald",
+    "strikes",
+    17,
+    "https://www.theguardian.com/world/2026/mar/21/wounded-iranian-missile-strikes-southern-israel"
+  ],
+  [
+    "senate",
+    17,
+    "https://www.theguardian.com/us-news/2026/mar/22/senate-advances-mullin-nomination-dhs-secretary"
+  ],
+  [
+    "food",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/mar/12/best-no-plastic-cutting-boards"
+  ],
+  [
+    "airports",
     16,
-    "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation"
+    "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html"
+  ],
+  [
+    "fire",
+    16,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "online",
+    16,
+    "https://www.theguardian.com/culture/2026/mar/23/tiktok-perfume-trend-fragrance-pictures-mood-boards"
   ],
   [
     "oil",
@@ -176,14 +211,9 @@
     "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation"
   ],
   [
-    "something",
+    "energy",
     16,
-    "https://www.theguardian.com/world/ng-interactive/2026/mar/21/iranian-americans-us-israel-iran-war"
-  ],
-  [
-    "agents",
-    16,
-    "https://www.theguardian.com/us-news/2026/mar/22/ice-agents-us-airports"
+    "https://www.theguardian.com/society/2026/mar/22/i-have-stage-four-cancer-there-will-be-no-cure-but-death-isnt-necessarily-imminent-this-is-how-it-feels-to-live-in-the-long-middle"
   ],
   [
     "series",
@@ -191,29 +221,29 @@
     "https://www.theguardian.com/world/2026/mar/22/israeli-settlers-carry-out-series-of-west-bank-attacks-as-security-forces-stand-by"
   ],
   [
-    "margaret",
+    "office",
     16,
-    "https://www.cbsnews.com/news/jason-crow-colorado-democrat-face-the-nation-transcript-03-22-2026/"
+    "https://www.theguardian.com/world/2026/mar/22/trump-lauds-viktor-orban-far-right-leaders-gather-budapest"
   ],
   [
-    "brennan",
-    16,
-    "https://www.cbsnews.com/news/jason-crow-colorado-democrat-face-the-nation-transcript-03-22-2026/"
-  ],
-  [
-    "immigration",
+    "far",
     15,
-    "https://www.nytimes.com/2026/03/21/us/politics/markwayne-mullin-bipartisan-immigration-deal.html"
+    "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html"
   ],
   [
-    "court",
+    "again",
     15,
-    "https://www.nytimes.com/2026/03/21/business/media/pentagon-press-access.html"
+    "https://www.nytimes.com/2026/03/22/magazine/don-lemon-trump-minnesota-cnn-youtube.html"
   ],
   [
-    "thousands",
+    "games",
     15,
-    "https://www.nytimes.com/2026/03/22/us/politics/the-supreme-court-could-make-it-harder-to-vote-by-mail-in-the-midterms.html"
+    "https://www.nytimes.com/2026/03/21/nyregion/hamptons-private-chef-summer.html"
+  ],
+  [
+    "campaign",
+    15,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
     "attacks",
@@ -221,24 +251,19 @@
     "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "always",
+    "social",
     15,
-    "https://www.theguardian.com/culture/2026/mar/23/tiktok-perfume-trend-fragrance-pictures-mood-boards"
+    "https://www.theguardian.com/world/2026/mar/22/iran-social-media-strategy-information-war-us-israel-attack"
   ],
   [
-    "children",
+    "florida",
     15,
-    "https://www.theguardian.com/culture/2026/mar/23/tiktok-perfume-trend-fragrance-pictures-mood-boards"
+    "https://www.theguardian.com/us-news/2026/mar/22/child-labor-protections-republicans"
   ],
   [
-    "american",
+    "russian",
     15,
-    "https://www.theguardian.com/world/ng-interactive/2026/mar/21/iranian-americans-us-israel-iran-war"
-  ],
-  [
-    "states",
-    14,
-    "https://www.nytimes.com/2026/03/22/us/gas-prices-south-southwest.html"
+    "https://www.theguardian.com/world/2026/mar/23/ukraine-war-briefing-russia-trying-to-intensify-attacks-us-ukraine-talks-end"
   ],
   [
     "south",
@@ -246,44 +271,44 @@
     "https://www.nytimes.com/2026/03/22/us/gas-prices-south-southwest.html"
   ],
   [
-    "again",
+    "thousands",
     14,
-    "https://www.nytimes.com/2026/03/22/magazine/don-lemon-trump-minnesota-cnn-youtube.html"
+    "https://www.nytimes.com/2026/03/22/us/politics/the-supreme-court-could-make-it-harder-to-vote-by-mail-in-the-midterms.html"
   ],
   [
-    "round",
+    "died",
     14,
-    "https://www.nytimes.com/2026/03/22/world/europe/france-mayors-elections-far-right.html"
+    "https://www.nytimes.com/2026/03/22/arts/television/nicholas-brendon-death-buffy-xander.html"
   ],
   [
-    "win",
+    "released",
     14,
-    "https://www.washingtonpost.com/lifestyle/2026/03/21/ai-lost-pet-petco/"
+    "https://www.nytimes.com/2026/03/22/nyregion/columbia-protester-palestinian-ice-detention-new-jersey.html"
   ],
   [
-    "crisis",
+    "early",
     14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "campaign",
+    "team",
     14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "place",
+    "always",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/22/trump-iran-leon-panetta"
+    "https://www.theguardian.com/culture/2026/mar/23/tiktok-perfume-trend-fragrance-pictures-mood-boards"
   ],
   [
-    "really",
+    "late",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/22/climate-crisis-march-extreme-weather"
+    "https://www.theguardian.com/culture/2026/mar/23/tiktok-perfume-trend-fragrance-pictures-mood-boards"
   ],
   [
-    "county",
+    "anxiety",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/22/arkansas-kendra-dugger-child-abuse-charges"
+    "https://www.theguardian.com/society/2026/mar/22/hidden-mental-health-crisis-gen-x-women"
   ],
   [
     "illinois",
@@ -296,83 +321,58 @@
     "https://www.theguardian.com/lifeandstyle/2026/mar/20/best-bike-lights-us"
   ],
   [
-    "senate",
-    14,
-    "https://www.foxnews.com/politics/schumer-knocks-trump-iran-plan-send-ice-airports-asking-trouble"
-  ],
-  [
-    "southern",
+    "states",
     13,
-    "https://www.nytimes.com/2026/03/22/world/middleeast/israel-lebanon-fighting-hezbollah.html"
+    "https://www.nytimes.com/2026/03/22/us/gas-prices-south-southwest.html"
   ],
   [
-    "tsa",
+    "border",
     13,
     "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html"
   ],
   [
-    "supreme",
+    "republicans",
     13,
-    "https://www.nytimes.com/2026/03/22/us/politics/the-supreme-court-could-make-it-harder-to-vote-by-mail-in-the-midterms.html"
-  ],
-  [
-    "office",
-    13,
-    "https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html"
-  ],
-  [
-    "attack",
-    13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "early",
-    13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "start",
-    13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "late",
-    13,
-    "https://www.theguardian.com/culture/2026/mar/23/tiktok-perfume-trend-fragrance-pictures-mood-boards"
+    "https://www.nytimes.com/2026/03/22/us/politics/republicans-democrats-gas-prices-comments-midterms.html"
   ],
   [
     "york",
     13,
-    "https://www.theguardian.com/commentisfree/2026/mar/22/the-wordle-guys-latest-move-tells-us-a-lot-about-modern-day-ambition"
+    "https://www.nytimes.com/2026/03/21/nyregion/hamptons-private-chef-summer.html"
   ],
   [
-    "hours",
+    "paul",
     13,
-    "https://www.theguardian.com/world/2026/mar/22/iran-donald-trump-48-hours-open-hormuz-strait"
+    "https://www.nytimes.com/2026/03/22/arts/taylor-frankie-paul-bachelorette-canceled.html"
   ],
   [
-    "died",
+    "infrastructure",
     13,
-    "https://www.theguardian.com/commentisfree/2026/mar/20/the-guardian-view-on-meningitis-in-kent-we-must-not-take-public-health-systems-for-granted"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "games",
+    "global",
     13,
-    "https://www.theguardian.com/games/2026/mar/20/resident-evil-30-years-history-video-game"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "minister",
-    12,
-    "https://www.nytimes.com/2026/03/22/world/middleeast/israel-lebanon-fighting-hezbollah.html"
+    "death",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/mar/23/humans-altruism-kindness-empathy-ethics"
   ],
   [
-    "election",
-    12,
-    "https://www.nytimes.com/2026/03/22/us/politics/the-supreme-court-could-make-it-harder-to-vote-by-mail-in-the-midterms.html"
+    "media",
+    13,
+    "https://www.theguardian.com/world/2026/mar/22/iran-social-media-strategy-information-war-us-israel-attack"
   ],
   [
-    "primary",
-    12,
-    "https://www.nytimes.com/2026/03/20/us/politics/california-primary-gop-governors-race.html"
+    "place",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/22/trump-iran-leon-panetta"
+  ],
+  [
+    "really",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/22/climate-crisis-march-extreme-weather"
   ]
 ];
