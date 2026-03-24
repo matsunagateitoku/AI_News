@@ -3,20 +3,44 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 41,
+      "count": 49,
       "url": "https://www.theguardian.com/world/2026/mar/23/trump-extends-iran-deadline-five-days-energy-infrastructure",
       "source": "The Guardian"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/03/23/us/politics/mullins-confirmation-throwback-senate.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Bill Cosby",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/03/23/arts/television/bill-cosby-verdict-lawsuit-donna-motsinger.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donna Motsinger",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/03/23/arts/television/bill-cosby-verdict-lawsuit-donna-motsinger.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Valerie Perrine",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/03/23/movies/valerie-perrine-dead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Oscar",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/03/23/movies/valerie-perrine-dead.html",
+      "source": "NY Times"
     },
     {
       "name": "Hormuz",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/mar/23/trump-extends-iran-deadline-five-days-energy-infrastructure",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pete Hegseth",
       "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/23/pete-hegseth-nihilist-cult",
+      "url": "https://www.theguardian.com/world/2026/mar/23/trump-extends-iran-deadline-five-days-energy-infrastructure",
       "source": "The Guardian"
     },
     {
@@ -26,110 +50,30 @@
       "source": "The Guardian"
     },
     {
-      "name": "Tucker Carlson",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/mar/22/maga-media-fight-trump-iran-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Markwayne Mullin",
-      "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/23/pete-hegseth-nihilist-cult",
-      "source": "The Guardian"
-    },
-    {
       "name": "Chad Bianco",
       "count": 4,
       "url": "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html",
       "source": "NY Times"
     },
     {
-      "name": "Chuck Schumer",
+      "name": "Pete Hegseth",
       "count": 4,
-      "url": "https://www.nytimes.com/2026/03/23/opinion/chuck-schumer-save-act.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Alan Ritchson",
-      "count": 4,
-      "url": "https://www.theguardian.com/film/2026/mar/23/actor-alan-ritchson-alleged-neighbor-assault-video",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Austin Wiggin Jr",
-      "count": 4,
-      "url": "https://www.theguardian.com/music/2026/mar/23/the-most-stunningly-awful-wonderful-record-how-the-shaggs-became-rocks-most-divisive-band",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Iran",
-      "count": 71,
-      "url": "https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Us",
-      "count": 55,
-      "url": "https://www.theguardian.com/artanddesign/2026/mar/23/cursed-exhibition-toledo-museum-ohio",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 31,
-      "url": "https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "London",
-      "count": 14,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/23/chinamaxxing-chinese-culture-becomes-a-meme",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. County",
-      "count": 13,
-      "url": "https://www.latimes.com/environment/story/2026-03-22/la-mosquitoes-sterile-male-releases-los-angeles-county-funding",
-      "source": "LA Times"
-    },
-    {
-      "name": "Illinois",
-      "count": 12,
-      "url": "https://www.foxnews.com/politics/pritzker-breaks-silence-migrant-charged-students-murder-blames-trump-politicizing-case",
-      "source": "Fox News"
-    },
-    {
-      "name": "Texas",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/03/23/climate/offshore-wind-gas-trump-total.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Tehran",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/2026/mar/23/trump-extends-iran-deadline-five-days-energy-infrastructure",
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/23/pete-hegseth-nihilist-cult",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 6,
+      "count": 7,
       "url": "https://www.washingtonpost.com/nation/2026/03/22/iran-war-gas-price-surge/",
       "source": "Washington Post"
+    },
+    {
+      "name": "World Cup",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/2026/mar/23/thomas-tuchel-kansas-city-hotel-world-cup-england",
+      "source": "The Guardian"
     },
     {
       "name": "The Carabao Cup",
@@ -138,15 +82,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Super Bowl",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/mar/23/bipartisan-senate-bill-sports-betting-ban",
-      "source": "The Guardian"
-    },
-    {
       "name": "Operation Epic Fury",
       "count": 1,
       "url": "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iraq War",
+      "count": 1,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/23/clash-of-the-superpowers-america-vs-china-review-trump-norma-percy-film",
       "source": "The Guardian"
     },
     {
@@ -168,47 +112,97 @@
       "source": "LA Times"
     },
     {
-      "name": "World Series",
+      "name": "The U.S.-Israeli War",
       "count": 1,
-      "url": "https://www.foxnews.com/sports/world-series-champ-recalls-terrifying-near-drowning-incident-minnesota",
-      "source": "Fox News"
+      "url": "https://thehill.com/policy/international/5797207-unicef-reports-324-children-killed/",
+      "source": "The Hill"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Iran",
+      "count": 79,
+      "url": "https://www.nytimes.com/2026/03/23/us/politics/trump-iran-gas-oil-strait.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Us",
+      "count": 75,
+      "url": "https://www.theguardian.com/artanddesign/2026/mar/23/cursed-exhibition-toledo-museum-ohio",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 29,
+      "url": "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County",
+      "count": 16,
+      "url": "https://www.latimes.com/environment/story/2026-03-22/la-mosquitoes-sterile-male-releases-los-angeles-county-funding",
+      "source": "LA Times"
+    },
+    {
+      "name": "Tehran",
+      "count": 15,
+      "url": "https://www.theguardian.com/world/2026/mar/23/trump-extends-iran-deadline-five-days-energy-infrastructure",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Paris",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/2026/mar/23/emmanuel-gregoire-new-paris-mayor",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Illinois",
+      "count": 11,
+      "url": "https://www.politico.com/news/2026/03/19/pritzker-2028-congressional-black-caucus-tensions-00835266",
+      "source": "Politico"
+    },
+    {
+      "name": "America",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/03/23/opinion/trump-iran-general-mcchrystal.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 10,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
     }
   ],
   "ORG": [
     {
       "name": "Trump Delays Energy Strikes",
-      "count": 68,
+      "count": 83,
       "url": "https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html",
       "source": "NY Times"
     },
     {
-      "name": "Tsa Precheck",
-      "count": 18,
-      "url": "https://www.cbsnews.com/news/tsa-precheck-enrollement-airport-security-wait-times/",
-      "source": "CBS News"
+      "name": "The Us Senate",
+      "count": 27,
+      "url": "https://www.theguardian.com/us-news/2026/mar/23/senate-markwayne-mullin-confirmed",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Dhs",
+      "count": 21,
+      "url": "https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/",
+      "source": "Washington Post"
     },
     {
       "name": "The White House",
       "count": 17,
-      "url": "https://www.nytimes.com/2026/03/23/us/politics/trump-ballroom-kennedy-center-lawsuits.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Senate Homeland Security",
-      "count": 13,
-      "url": "https://www.cbsnews.com/video/323-face-the-nation/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Ice",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Dhs",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/mar/22/senate-advances-mullin-nomination-dhs-secretary",
+      "url": "https://www.theguardian.com/us-news/2026/mar/23/trump-christopher-columbus-statue",
       "source": "The Guardian"
     },
     {
@@ -218,14 +212,26 @@
       "source": "The Guardian"
     },
     {
-      "name": "Conservative Supreme Court",
-      "count": 11,
-      "url": "https://www.foxnews.com/politics/scotus-conservatives-signal-readiness-curb-late-arriving-mail-ballots",
-      "source": "Fox News"
+      "name": "Laguardia Crash",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Department Of Homeland Security",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/mar/23/senate-markwayne-mullin-confirmed",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tsa",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/mar/23/us-airports-latest-tsa-ice",
+      "source": "The Guardian"
     },
     {
       "name": "Ai",
-      "count": 10,
+      "count": 9,
       "url": "https://www.theguardian.com/commentisfree/2026/mar/23/do-we-have-to-keep-talking-about-ai-the-machines-are-always-one-step-ahead",
       "source": "The Guardian"
     },
@@ -236,5 +242,5 @@
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-03-23T19:51:02Z"
+  "updated": "2026-03-24T03:37:12Z"
 };
