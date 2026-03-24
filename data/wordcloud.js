@@ -2,258 +2,203 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    135,
-    "https://www.nytimes.com/2026/03/23/us/politics/trump-iran-gas-oil-strait.html"
+    105,
+    "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html"
   ],
   [
     "iran",
-    72,
-    "https://www.nytimes.com/2026/03/23/us/politics/trump-iran-gas-oil-strait.html"
-  ],
-  [
-    "president",
-    52,
-    "https://www.nytimes.com/2026/03/23/us/politics/trump-iran-gas-oil-strait.html"
+    66,
+    "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html"
   ],
   [
     "war",
-    47,
-    "https://www.nytimes.com/2026/03/23/us/politics/trump-iran-gas-oil-strait.html"
+    52,
+    "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html"
   ],
   [
-    "security",
-    26,
-    "https://www.nytimes.com/2026/03/23/us/politics/markwayne-mullin-confirmed-homeland-security-secretary.html"
+    "president",
+    44,
+    "https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html"
   ],
   [
-    "election",
-    26,
-    "https://www.nytimes.com/2026/03/24/us/politics/trump-mail-in-voting-florida.html"
+    "israel",
+    28,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "energy",
-    26,
-    "https://www.nytimes.com/2026/03/23/climate/offshore-wind-gas-trump-total.html"
-  ],
-  [
-    "game",
-    26,
-    "https://www.theguardian.com/sport/2026/mar/23/womens-ncaa-tournament-kymora-johnson-soars-as-virginia-shock-no-2-iowa-in-double-ot"
-  ],
-  [
-    "talks",
-    25,
-    "https://www.nytimes.com/2026/03/23/us/politics/trump-iran-gas-oil-strait.html"
-  ],
-  [
-    "fire",
-    25,
+    "air",
+    24,
     "https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html"
   ],
   [
     "senate",
-    25,
-    "https://www.nytimes.com/2026/03/23/us/politics/mullins-confirmation-throwback-senate.html"
+    23,
+    "https://www.nytimes.com/2026/03/24/us/politics/iowa-senate-democrat-veterans.html"
   ],
   [
-    "california",
-    25,
-    "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html"
+    "sleep",
+    23,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/24/do-we-really-need-eight-hours-sleep-night"
+  ],
+  [
+    "country",
+    22,
+    "https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html"
   ],
   [
     "airport",
-    24,
-    "https://www.nytimes.com/2026/03/23/nyregion/faa-air-traffic-controller-laguardia-crash.html"
-  ],
-  [
-    "mullin",
-    24,
-    "https://www.nytimes.com/2026/03/23/us/politics/markwayne-mullin-confirmed-homeland-security-secretary.html"
-  ],
-  [
-    "police",
-    23,
-    "https://www.theguardian.com/us-news/2026/mar/24/quadruple-amputee-cornhole-player-arrested-alleged-murder-ntwnfb"
-  ],
-  [
-    "donald",
-    22,
-    "https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html"
-  ],
-  [
-    "killed",
-    22,
-    "https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html"
-  ],
-  [
-    "mail",
-    22,
-    "https://www.nytimes.com/2026/03/24/us/politics/trump-mail-in-voting-florida.html"
-  ],
-  [
-    "dhs",
     21,
-    "https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/"
+    "https://www.nytimes.com/2026/03/24/arts/television/late-night-ice-airport.html"
   ],
   [
-    "laguardia",
+    "night",
     20,
     "https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html"
   ],
   [
-    "plane",
+    "america",
     20,
-    "https://www.nytimes.com/2026/03/23/nyregion/faa-air-traffic-controller-laguardia-crash.html"
+    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam"
   ],
   [
-    "department",
-    20,
-    "https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html"
-  ],
-  [
-    "political",
+    "administration",
     19,
-    "https://www.nytimes.com/2026/03/23/us/politics/mullins-confirmation-throwback-senate.html"
-  ],
-  [
-    "media",
-    19,
-    "https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html"
+    "https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html"
   ],
   [
     "ice",
     19,
-    "https://www.nytimes.com/2026/03/24/arts/television/late-night-ice-airport.html"
+    "https://www.nytimes.com/2026/03/23/us/politics/trump-ice-airports.html"
   ],
   [
-    "online",
+    "east",
     19,
-    "https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket"
-  ],
-  [
-    "power",
-    18,
-    "https://www.nytimes.com/2026/03/23/us/politics/trump-iran-gas-oil-strait.html"
-  ],
-  [
-    "night",
-    18,
-    "https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html"
-  ],
-  [
-    "republican",
-    18,
-    "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html"
-  ],
-  [
-    "middle",
-    18,
-    "https://www.nytimes.com/2026/03/23/us/lilias-folan-dead.html"
+    "https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes"
   ],
   [
     "latest",
     18,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.nytimes.com/2026/03/24/podcasts/the-headlines/war-iran-laguardia-plane-crash.html"
   ],
   [
-    "something",
+    "fire",
     18,
-    "https://www.theguardian.com/technology/2026/mar/23/distracted-driving-smartphones-tiktok"
+    "https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html"
   ],
   [
-    "south",
+    "energy",
     18,
+    "https://www.nytimes.com/2026/03/24/us/politics/alan-armstrong-senate-mullin-stitt-oklahoma-republicans.html"
+  ],
+  [
+    "human",
+    18,
+    "https://www.nytimes.com/2026/03/24/world/americas/government-cuts-argentina-dirty-war.html"
+  ],
+  [
+    "police",
+    18,
+    "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html"
+  ],
+  [
+    "dhs",
+    18,
+    "https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/"
+  ],
+  [
+    "park",
+    18,
+    "https://www.theguardian.com/us-news/2026/mar/24/park-police-officer-shooting-washington-dc"
+  ],
+  [
+    "game",
+    18,
+    "https://www.theguardian.com/sport/2026/mar/23/womens-ncaa-tournament-kymora-johnson-soars-as-virginia-shock-no-2-iowa-in-double-ot"
+  ],
+  [
+    "crash",
+    17,
+    "https://www.nytimes.com/2026/03/24/podcasts/the-headlines/war-iran-laguardia-plane-crash.html"
+  ],
+  [
+    "states",
+    17,
+    "https://www.nytimes.com/2026/03/24/world/asia/afghanistan-releases-american-detainee.html"
+  ],
+  [
+    "election",
+    17,
+    "https://www.nytimes.com/2026/03/24/us/politics/trump-mail-in-voting-florida.html"
+  ],
+  [
+    "health",
+    17,
+    "https://www.nytimes.com/2026/03/24/briefing/cdc-turmoil.html"
+  ],
+  [
+    "middle",
+    17,
     "https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes"
   ],
   [
-    "weekend",
-    18,
-    "https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket"
-  ],
-  [
-    "democrats",
-    18,
-    "https://www.theguardian.com/us-news/2026/mar/23/senate-markwayne-mullin-confirmed"
-  ],
-  [
-    "markwayne",
+    "online",
     17,
-    "https://www.nytimes.com/2026/03/23/us/politics/markwayne-mullin-confirmed-homeland-security-secretary.html"
+    "https://www.theguardian.com/us-news/2026/mar/24/texas-oil-refinery-explosion"
   ],
   [
-    "ballots",
-    17,
-    "https://www.nytimes.com/2026/03/23/us/supreme-court-mail-in-ballots.html"
+    "laguardia",
+    16,
+    "https://www.nytimes.com/2026/03/24/podcasts/the-headlines/war-iran-laguardia-plane-crash.html"
   ],
   [
-    "oil",
-    17,
-    "https://www.nytimes.com/2026/03/23/climate/offshore-wind-gas-trump-total.html"
+    "military",
+    16,
+    "https://www.nytimes.com/2026/03/24/us/politics/veterans-deport-immigrants-trump.html"
   ],
   [
-    "israel",
+    "food",
+    16,
+    "https://www.washingtonpost.com/nation/2026/03/24/colorado-tamale-act-food-businesses/"
+  ],
+  [
+    "gaza",
     16,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "actor",
+    "team",
     16,
-    "https://www.theguardian.com/stage/2026/mar/24/dario-fo-at-100-a-deliriously-funny-playwright-with-a-deadly-serious-purpose"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "east",
+    "school",
     16,
-    "https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes"
+    "https://www.theguardian.com/us-news/2026/mar/24/attending-hbcu-cognitive-outcomes-black-americans"
   ],
   [
-    "lead",
+    "cbs",
     16,
-    "https://www.theguardian.com/us-news/2026/mar/23/senate-markwayne-mullin-confirmed"
+    "https://www.latimes.com/entertainment-arts/business/story/2026-03-24/what-happens-to-knx-other-stations-when-cbs-news-radio-goes-away"
   ],
   [
-    "children",
-    16,
-    "https://www.theguardian.com/global-development/2026/mar/24/gaza-eid-ramadan-palestine"
-  ],
-  [
-    "sleep",
-    16,
-    "https://www.theguardian.com/thefilter-us/2025/oct/02/best-sleep-eye-masks-us"
-  ],
-  [
-    "early",
+    "political",
     15,
-    "https://www.nytimes.com/2026/03/23/us/politics/trump-iran-gas-oil-strait.html"
+    "https://www.nytimes.com/2026/03/23/us/politics/trump-ice-airports.html"
   ],
   [
-    "late",
+    "security",
     15,
-    "https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html"
+    "https://www.nytimes.com/2026/03/23/us/politics/trump-ice-airports.html"
   ],
   [
-    "air",
+    "court",
     15,
-    "https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html"
+    "https://www.nytimes.com/2026/03/24/us/politics/proof-of-citizenship-voter-registration-kansas.html"
   ],
   [
-    "secretary",
+    "rights",
     15,
-    "https://www.nytimes.com/2026/03/23/us/politics/markwayne-mullin-confirmed-homeland-security-secretary.html"
-  ],
-  [
-    "administration",
-    15,
-    "https://www.nytimes.com/2026/03/23/climate/offshore-wind-gas-trump-total.html"
-  ],
-  [
-    "health",
-    15,
-    "https://www.nytimes.com/2026/03/23/magazine/takeaways-cdc-oral-history.html"
-  ],
-  [
-    "america",
-    15,
-    "https://www.nytimes.com/2026/03/23/opinion/trump-iran-general-mcchrystal.html"
+    "https://www.nytimes.com/2026/03/24/world/americas/government-cuts-argentina-dirty-war.html"
   ],
   [
     "feel",
@@ -261,118 +206,173 @@
     "https://www.nytimes.com/2026/03/24/arts/television/late-night-ice-airport.html"
   ],
   [
-    "bill",
+    "star",
     15,
-    "https://www.nytimes.com/2026/03/23/arts/television/bill-cosby-verdict-lawsuit-donna-motsinger.html"
+    "https://www.theguardian.com/music/2026/mar/24/robyn-sexistential-review-pop-doyenne-returns-with-emotional-grenades-new-philosophy"
   ],
   [
-    "cosby",
+    "shutdown",
     15,
-    "https://www.nytimes.com/2026/03/23/arts/television/bill-cosby-verdict-lawsuit-donna-motsinger.html"
+    "https://www.theguardian.com/us-news/live/2026/mar/24/us-politics-latest-news-donald-trump-ice-airport-midterms-donald-trump-marco-rubio"
+  ],
+  [
+    "today",
+    15,
+    "https://www.theguardian.com/environment/2026/mar/24/what-are-zettajoules-earth-energy-imbalance"
+  ],
+  [
+    "black",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/24/attending-hbcu-cognitive-outcomes-black-americans"
+  ],
+  [
+    "longer",
+    14,
+    "https://www.nytimes.com/2026/03/24/science/archaeology-egypt-hatshepsut.html"
+  ],
+  [
+    "pakistan",
+    14,
+    "https://www.nytimes.com/2026/03/24/world/asia/pakistan-media-news-misinformation.html"
+  ],
+  [
+    "early",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "family",
-    15,
-    "https://www.washingtonpost.com/nation/interactive/2026/texas-black-families-trail-ride/"
-  ],
-  [
-    "crisis",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "least",
-    15,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "office",
-    15,
-    "https://www.theguardian.com/world/2026/mar/24/prisoner-number-804-pakistan-plot-to-erase-imran-khan"
-  ],
-  [
-    "because",
-    15,
-    "https://www.theguardian.com/world/2026/mar/24/iran-war-fuel-shortages-affecting-readers-worldwide"
-  ],
-  [
-    "games",
-    15,
-    "https://www.theguardian.com/sport/2026/mar/23/womens-ncaa-tournament-kymora-johnson-soars-as-virginia-shock-no-2-iowa-in-double-ot"
-  ],
-  [
-    "country",
     14,
-    "https://www.nytimes.com/2026/03/23/us/supreme-court-mail-in-ballots.html"
+    "https://www.theguardian.com/music/2026/mar/24/robyn-sexistential-review-pop-doyenne-returns-with-emotional-grenades-new-philosophy"
   ],
   [
-    "gas",
+    "donald",
     14,
-    "https://www.nytimes.com/2026/03/23/climate/offshore-wind-gas-trump-total.html"
+    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam"
   ],
   [
-    "deep",
+    "death",
     14,
-    "https://www.nytimes.com/2026/03/23/us/georgia-abortion-pill-murder.html"
+    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam"
   ],
   [
-    "won",
-    14,
-    "https://www.nytimes.com/2026/03/23/movies/valerie-perrine-dead.html"
-  ],
-  [
-    "fuel",
+    "talks",
     14,
     "https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes"
   ],
   [
-    "round",
+    "children",
     14,
-    "https://www.theguardian.com/world/2026/mar/24/trumps-very-good-talks-with-iran-buy-him-time-with-oil-and-energy-markets"
+    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-sanctions-un-human-rights-expert-free-speech"
   ],
   [
-    "star",
+    "games",
     14,
-    "https://www.theguardian.com/sport/2026/mar/23/jaxon-smith-njigba-seattle-seahawks-contract-nfl"
+    "https://www.theguardian.com/sport/2026/mar/23/womens-ncaa-tournament-kymora-johnson-soars-as-virginia-shock-no-2-iowa-in-double-ot"
   ],
   [
-    "hours",
+    "led",
     13,
-    "https://www.nytimes.com/2026/03/23/us/politics/us-airborne-troops-iran.html"
+    "https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html"
   ],
   [
-    "confirmed",
+    "agents",
     13,
-    "https://www.nytimes.com/2026/03/23/us/politics/markwayne-mullin-confirmed-homeland-security-secretary.html"
+    "https://www.nytimes.com/2026/03/23/us/politics/trump-ice-airports.html"
   ],
   [
-    "court",
+    "law",
     13,
-    "https://www.nytimes.com/2026/03/23/us/supreme-court-mail-in-ballots.html"
+    "https://www.nytimes.com/2026/03/24/us/politics/proof-of-citizenship-voter-registration-kansas.html"
   ],
   [
-    "states",
+    "mullin",
     13,
-    "https://www.nytimes.com/2026/03/23/us/supreme-court-mail-in-ballots.html"
+    "https://www.nytimes.com/2026/03/24/us/politics/alan-armstrong-senate-mullin-stitt-oklahoma-republicans.html"
   ],
   [
-    "county",
+    "republican",
     13,
-    "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html"
+    "https://www.nytimes.com/2026/03/24/us/politics/alan-armstrong-senate-mullin-stitt-oklahoma-republicans.html"
   ],
   [
-    "loss",
+    "university",
     13,
-    "https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html"
+    "https://www.nytimes.com/2026/03/23/us/boston-university-pride-flags-free-speech.html"
   ],
   [
-    "texas",
+    "media",
     13,
-    "https://www.nytimes.com/2026/03/23/climate/offshore-wind-gas-trump-total.html"
+    "https://www.nytimes.com/2026/03/24/world/asia/pakistan-media-news-misinformation.html"
   ],
   [
-    "start",
+    "crisis",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "global",
+    13,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "growing",
+    13,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "love",
+    13,
+    "https://www.theguardian.com/music/2026/mar/24/robyn-sexistential-review-pop-doyenne-returns-with-emotional-grenades-new-philosophy"
+  ],
+  [
+    "south",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam"
+  ],
+  [
+    "together",
+    13,
+    "https://www.theguardian.com/stage/2026/mar/24/dario-fo-at-100-a-deliriously-funny-playwright-with-a-deadly-serious-purpose"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.theguardian.com/technology/2026/mar/24/silcon-valley-ai-techscape"
+  ],
+  [
+    "living",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-sanctions-un-human-rights-expert-free-speech"
+  ],
+  [
+    "care",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-sanctions-un-human-rights-expert-free-speech"
+  ],
+  [
+    "money",
+    13,
+    "https://www.theguardian.com/global-development/2026/mar/24/gaza-eid-ramadan-palestine"
+  ],
+  [
+    "illinois",
+    13,
+    "https://www.politico.com/news/2026/03/19/pritzker-2028-congressional-black-caucus-tensions-00835266"
+  ],
+  [
+    "oil",
+    12,
+    "https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html"
+  ],
+  [
+    "attacks",
+    12,
+    "https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html"
+  ],
+  [
+    "job",
+    12,
+    "https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html"
   ]
 ];
