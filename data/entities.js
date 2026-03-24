@@ -2,27 +2,21 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Melania Trump",
-      "count": 25,
-      "url": "https://thehill.com/video-clips/5797749-watch-live-melania-trump-fostering-future-together-summit/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Markwayne Mullin",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/03/24/us/politics/alan-armstrong-senate-mullin-stitt-oklahoma-republicans.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Donald Trump",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/mar/24/pakistan-army-chief-iran-peace-talks-trump-call",
+      "count": 26,
+      "url": "https://www.theguardian.com/us-news/2026/mar/24/trump-mail-in-voting-cheating-ballot",
       "source": "The Guardian"
     },
     {
-      "name": "Richard Nixon",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam",
+      "name": "Markwayne Mullin",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/24/us-politics-latest-news-donald-trump-ice-airport-midterms-donald-trump-marco-rubio",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump ’S",
+      "count": 11,
+      "url": "https://www.theguardian.com/culture/2026/mar/24/jon-stewart-donald-trump-iran",
       "source": "The Guardian"
     },
     {
@@ -32,178 +26,54 @@
       "source": "The Guardian"
     },
     {
+      "name": "Richard Nixon",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam",
+      "source": "The Guardian"
+    },
+    {
       "name": "Harriet",
       "count": 6,
       "url": "https://www.theguardian.com/lifeandstyle/2026/mar/23/the-pet-ill-never-forget-harriet-the-hedgehog-in-my-airing-cupboard",
       "source": "The Guardian"
     },
     {
-      "name": "Dayton Webber",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/mar/24/amputee-cornhole-player-arrested",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dan Frolec",
-      "count": 5,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/24/my-friend-died-diving-accident-i-was-arrested-for-murder",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Alan Bennett",
-      "count": 5,
-      "url": "https://www.theguardian.com/books/2026/mar/24/enough-said-by-alan-bennett-review-a-man-for-all-seasons",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michael Jordan",
-      "count": 5,
-      "url": "https://www.latimes.com/sports/story/2026-03-23/michael-jordan-tyler-reddick-kevin-durant-nba-nascar",
+      "name": "Taylor Frankie Paul",
+      "count": 6,
+      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-03-24/taylor-frankie-paul-bachelorette-bachelor-franchise",
       "source": "LA Times"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Faces Blowback",
-      "count": 65,
-      "url": "https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html",
-      "source": "NY Times"
     },
     {
-      "name": "Senate Judiciary Committee",
-      "count": 20,
-      "url": "https://thehill.com/video-clips/5797750-ex-agents-sued-trump/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Ai",
-      "count": 17,
-      "url": "https://www.theguardian.com/technology/2026/mar/24/silcon-valley-ai-techscape",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dhs",
-      "count": 16,
-      "url": "https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "The White House",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/24/us-politics-latest-news-donald-trump-ice-airport-midterms-donald-trump-marco-rubio",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tsa",
-      "count": 10,
-      "url": "https://www.foxnews.com/politics/cornyn-targets-lawmakers-airport-fast-pass-tsa-lines-grow-during-dhs-shutdown",
-      "source": "Fox News"
-    },
-    {
-      "name": "Laguardia Control Tower",
-      "count": 9,
-      "url": "https://www.today.com/video/laguardia-collision-investigators-probe-control-tower-black-box-259923013742",
-      "source": "NBC News"
-    },
-    {
-      "name": "Breaking News",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/24/us-politics-latest-news-donald-trump-ice-airport-midterms-donald-trump-marco-rubio",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Amazon",
-      "count": 8,
-      "url": "https://www.theguardian.com/environment/2026/mar/24/epic-river-migrations-of-fish-rapidly-collapsing-un-report-finds",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 72,
+      "name": "Donald Trump’S",
+      "count": 5,
       "url": "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam",
       "source": "The Guardian"
     },
     {
-      "name": "Iran",
-      "count": 57,
-      "url": "https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 25,
-      "url": "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 21,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "America",
-      "count": 15,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam",
+      "name": "Gavin Newsom",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/mar/24/gavin-newsom-israel-apartheid-comment",
       "source": "The Guardian"
     },
     {
-      "name": "Pakistan",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/03/24/world/asia/pakistan-media-news-misinformation.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County",
-      "count": 14,
-      "url": "https://www.latimes.com/california/story/2026-03-24/fire-weather-alerts-eaton-fire-wildfires-how-to-improve-early-warnings",
-      "source": "LA Times"
-    },
-    {
-      "name": "Northern Gaza",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Illinois",
-      "count": 11,
-      "url": "https://www.politico.com/news/2026/03/19/pritzker-2028-congressional-black-caucus-tensions-00835266",
-      "source": "Politico"
-    },
-    {
-      "name": "The United States Of Mancunia",
-      "count": 10,
-      "url": "https://www.theguardian.com/food/2026/mar/23/united-states-of-mancunia-american-fast-food-manchester",
+      "name": "Claude Monet",
+      "count": 5,
+      "url": "https://www.theguardian.com/artanddesign/2026/mar/24/monet-venice-paintings-exhibition-de-young-san-francisco",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/mar/24/new-zealand-cash-payments-families-global-fuel-crisis",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/24/the-guardian-view-on-the-iran-war-energy-markets-and-a-dangerous-illusion",
       "source": "The Guardian"
     },
     {
       "name": "World Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/football/2026/mar/24/seventh-tier-players-a-new-app-and-togetherness-inside-new-caledonias-unlikely-world-cup-tilt",
+      "count": 4,
+      "url": "https://www.theguardian.com/sport/2026/mar/24/mikaela-shiffrin-emma-aicher-overall-world-cup-title-final-race",
       "source": "The Guardian"
-    },
-    {
-      "name": "The Persian New Year",
-      "count": 2,
-      "url": "https://www.latimes.com/world-nation/story/2026-03-24/destitute-at-war-iran-surrenders-to-grim-persian-new-year",
-      "source": "LA Times"
     },
     {
       "name": "Final Days:",
@@ -218,15 +88,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "Olympic",
+      "name": "Bait",
       "count": 1,
-      "url": "https://www.theguardian.com/environment/2026/mar/24/krill-foundation-food-antarctic-ecosystem-survive-factory-fishing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Iraq War",
-      "count": 1,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/23/clash-of-the-superpowers-america-vs-china-review-trump-norma-percy-film",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/24/bait-riz-ahmed-british-asian-actors-race",
       "source": "The Guardian"
     },
     {
@@ -242,11 +106,141 @@
       "source": "The Guardian"
     },
     {
-      "name": "World War Ii",
+      "name": "Season 22",
       "count": 1,
-      "url": "https://www.latimes.com/opinion/story/2026-03-17/paul-ehrlich-wrong-everything",
-      "source": "LA Times"
+      "url": "https://www.foxnews.com/entertainment/bachelorette-casting-disaster-taylor-frankie-paul-suitor-drove-car-wreck-paralyzed-gop-congressman",
+      "source": "Fox News"
+    },
+    {
+      "name": "Title Ix",
+      "count": 1,
+      "url": "https://www.foxnews.com/sports/trump-admin-says-sjsu-now-faces-impending-enforcement-transgender-volleyball-scandal-dispute",
+      "source": "Fox News"
     }
   ],
-  "updated": "2026-03-24T14:21:08Z"
+  "ORG": [
+    {
+      "name": "Trump Immigration",
+      "count": 61,
+      "url": "https://thehill.com/homenews/administration/5798821-greg-bovino-border-patrol-trump-officials/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Senate",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/03/24/well/kennedy-uspstf-health-panel.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Dhs",
+      "count": 23,
+      "url": "https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Ai",
+      "count": 20,
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/24/ai-religion-god-digital-spirituality",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tsa",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/mar/24/tsa-workers-try-to-survive-second-shutdown-ice",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/24/us-politics-latest-news-donald-trump-ice-airport-midterms-donald-trump-marco-rubio",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Breaking News",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/mar/24/tsa-workers-try-to-survive-second-shutdown-ice",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian Documentary",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/24/self-deportation-los-angeles-mexico-trump-immigration",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Next Department Of Homeland Security",
+      "count": 9,
+      "url": "https://www.npr.org/2026/03/24/g-s1-114942/up-first-newsletter-iran-war-trump-ice-tsa-airports-markwayne-mullin-dhs",
+      "source": "NPR"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 81,
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/24/self-deportation-los-angeles-mexico-trump-immigration",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 44,
+      "url": "https://www.nytimes.com/video/world/middleeast/100000010796844/why-iran-strait-of-hormuz-is-important-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 20,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "California",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/03/24/us/usc-california-governor-debate-canceled.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County",
+      "count": 14,
+      "url": "https://www.latimes.com/california/story/2026-03-24/fire-weather-alerts-eaton-fire-wildfires-how-to-improve-early-warnings",
+      "source": "LA Times"
+    },
+    {
+      "name": "Mexico City",
+      "count": 13,
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/24/self-deportation-los-angeles-mexico-trump-immigration",
+      "source": "The Guardian"
+    },
+    {
+      "name": "America",
+      "count": 12,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Northern Gaza",
+      "count": 11,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Illinois",
+      "count": 11,
+      "url": "https://www.politico.com/news/2026/03/19/pritzker-2028-congressional-black-caucus-tensions-00835266",
+      "source": "Politico"
+    }
+  ],
+  "updated": "2026-03-24T19:54:56Z"
 };

@@ -2,38 +2,58 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    105,
-    "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html"
+    110,
+    "https://www.nytimes.com/2026/03/24/us/politics/supreme-court-trump-asylum-seekers.html"
   ],
   [
     "iran",
-    66,
-    "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html"
-  ],
-  [
-    "war",
-    52,
-    "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html"
+    55,
+    "https://www.nytimes.com/video/world/middleeast/100000010796844/why-iran-strait-of-hormuz-is-important-trump.html"
   ],
   [
     "president",
-    44,
-    "https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html"
+    49,
+    "https://www.nytimes.com/2026/03/24/world/americas/costa-rica-us-deportation-deal.html"
+  ],
+  [
+    "war",
+    45,
+    "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html"
+  ],
+  [
+    "security",
+    30,
+    "https://www.nytimes.com/video/world/middleeast/100000010796844/why-iran-strait-of-hormuz-is-important-trump.html"
+  ],
+  [
+    "dhs",
+    28,
+    "https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/"
   ],
   [
     "israel",
-    28,
+    27,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "air",
-    24,
-    "https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html"
+    "government",
+    26,
+    "https://www.nytimes.com/2026/03/24/us/minnesota-ice-shootings-evidence.html"
+  ],
+  [
+    "country",
+    25,
+    "https://www.nytimes.com/2026/03/24/us/politics/trump-iran-power-stations.html"
   ],
   [
     "senate",
-    23,
-    "https://www.nytimes.com/2026/03/24/us/politics/iowa-senate-democrat-veterans.html"
+    25,
+    "https://www.nytimes.com/2026/03/24/well/kennedy-uspstf-health-panel.html"
+  ],
+  [
+    "health",
+    24,
+    "https://www.nytimes.com/2026/03/24/well/kennedy-uspstf-health-panel.html"
   ],
   [
     "sleep",
@@ -41,124 +61,104 @@
     "https://www.theguardian.com/lifeandstyle/2026/mar/24/do-we-really-need-eight-hours-sleep-night"
   ],
   [
-    "country",
-    22,
-    "https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html"
-  ],
-  [
-    "airport",
-    21,
-    "https://www.nytimes.com/2026/03/24/arts/television/late-night-ice-airport.html"
-  ],
-  [
-    "night",
-    20,
-    "https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html"
-  ],
-  [
-    "america",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam"
-  ],
-  [
     "administration",
+    22,
+    "https://www.nytimes.com/2026/03/24/us/gregory-bovino-border-patrol.html"
+  ],
+  [
+    "games",
+    21,
+    "https://www.theguardian.com/us-news/2026/mar/24/tsa-workers-try-to-survive-second-shutdown-ice"
+  ],
+  [
+    "department",
+    20,
+    "https://www.nytimes.com/2026/03/24/us/politics/supreme-court-trump-asylum-seekers.html"
+  ],
+  [
+    "secretary",
+    20,
+    "https://www.nytimes.com/2026/03/24/well/kennedy-uspstf-health-panel.html"
+  ],
+  [
+    "immigration",
     19,
-    "https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html"
+    "https://www.nytimes.com/2026/03/24/us/gregory-bovino-border-patrol.html"
   ],
   [
-    "ice",
+    "oil",
     19,
-    "https://www.nytimes.com/2026/03/23/us/politics/trump-ice-airports.html"
+    "https://www.nytimes.com/video/world/middleeast/100000010796844/why-iran-strait-of-hormuz-is-important-trump.html"
   ],
   [
-    "east",
+    "homeland",
     19,
-    "https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes"
+    "https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/"
   ],
   [
-    "latest",
-    18,
-    "https://www.nytimes.com/2026/03/24/podcasts/the-headlines/war-iran-laguardia-plane-crash.html"
-  ],
-  [
-    "fire",
-    18,
-    "https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html"
-  ],
-  [
-    "energy",
-    18,
-    "https://www.nytimes.com/2026/03/24/us/politics/alan-armstrong-senate-mullin-stitt-oklahoma-republicans.html"
-  ],
-  [
-    "human",
-    18,
-    "https://www.nytimes.com/2026/03/24/world/americas/government-cuts-argentina-dirty-war.html"
-  ],
-  [
-    "police",
-    18,
-    "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html"
-  ],
-  [
-    "dhs",
+    "mullin",
     18,
     "https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/"
   ],
   [
-    "park",
+    "air",
     18,
-    "https://www.theguardian.com/us-news/2026/mar/24/park-police-officer-shooting-washington-dc"
+    "https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/"
   ],
   [
-    "game",
+    "night",
     18,
-    "https://www.theguardian.com/sport/2026/mar/23/womens-ncaa-tournament-kymora-johnson-soars-as-virginia-shock-no-2-iowa-in-double-ot"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/24/do-we-really-need-eight-hours-sleep-night"
   ],
   [
-    "crash",
+    "donald",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam"
+  ],
+  [
+    "tsa",
+    18,
+    "https://www.theguardian.com/us-news/2026/mar/24/tsa-workers-try-to-survive-second-shutdown-ice"
+  ],
+  [
+    "fire",
     17,
-    "https://www.nytimes.com/2026/03/24/podcasts/the-headlines/war-iran-laguardia-plane-crash.html"
+    "https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html"
   ],
   [
-    "states",
+    "american",
     17,
     "https://www.nytimes.com/2026/03/24/world/asia/afghanistan-releases-american-detainee.html"
   ],
   [
-    "election",
+    "political",
     17,
-    "https://www.nytimes.com/2026/03/24/us/politics/trump-mail-in-voting-florida.html"
+    "https://www.washingtonpost.com/health/2026/03/23/casey-means-surgeon-general-nomination-stalled-maha/"
   ],
   [
-    "health",
+    "hours",
     17,
-    "https://www.nytimes.com/2026/03/24/briefing/cdc-turmoil.html"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/24/do-we-really-need-eight-hours-sleep-night"
   ],
   [
-    "middle",
+    "talks",
     17,
     "https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes"
   ],
   [
-    "online",
+    "shutdown",
     17,
-    "https://www.theguardian.com/us-news/2026/mar/24/texas-oil-refinery-explosion"
+    "https://www.theguardian.com/us-news/2026/mar/24/tsa-workers-try-to-survive-second-shutdown-ice"
   ],
   [
-    "laguardia",
-    16,
-    "https://www.nytimes.com/2026/03/24/podcasts/the-headlines/war-iran-laguardia-plane-crash.html"
+    "human",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-sanctions-un-human-rights-expert-free-speech"
   ],
   [
-    "military",
+    "border",
     16,
-    "https://www.nytimes.com/2026/03/24/us/politics/veterans-deport-immigrants-trump.html"
-  ],
-  [
-    "food",
-    16,
-    "https://www.washingtonpost.com/nation/2026/03/24/colorado-tamale-act-food-businesses/"
+    "https://www.nytimes.com/2026/03/24/us/politics/supreme-court-trump-asylum-seekers.html"
   ],
   [
     "gaza",
@@ -166,179 +166,204 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "team",
+    "something",
     16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/24/ai-religion-god-digital-spirituality"
   ],
   [
-    "school",
+    "email",
     16,
-    "https://www.theguardian.com/us-news/2026/mar/24/attending-hbcu-cognitive-outcomes-black-americans"
+    "https://www.theguardian.com/us-news/2026/mar/24/tsa-workers-try-to-survive-second-shutdown-ice"
   ],
   [
-    "cbs",
+    "because",
     16,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-03-24/what-happens-to-knx-other-stations-when-cbs-news-radio-goes-away"
-  ],
-  [
-    "political",
-    15,
-    "https://www.nytimes.com/2026/03/23/us/politics/trump-ice-airports.html"
-  ],
-  [
-    "security",
-    15,
-    "https://www.nytimes.com/2026/03/23/us/politics/trump-ice-airports.html"
-  ],
-  [
-    "court",
-    15,
-    "https://www.nytimes.com/2026/03/24/us/politics/proof-of-citizenship-voter-registration-kansas.html"
-  ],
-  [
-    "rights",
-    15,
-    "https://www.nytimes.com/2026/03/24/world/americas/government-cuts-argentina-dirty-war.html"
-  ],
-  [
-    "feel",
-    15,
-    "https://www.nytimes.com/2026/03/24/arts/television/late-night-ice-airport.html"
+    "https://www.theguardian.com/commentisfree/2026/mar/24/cinema-premium-seating-price-vue-odeon-amc-sightline"
   ],
   [
     "star",
-    15,
-    "https://www.theguardian.com/music/2026/mar/24/robyn-sexistential-review-pop-doyenne-returns-with-emotional-grenades-new-philosophy"
+    16,
+    "https://www.theguardian.com/sport/2026/mar/24/death-in-the-strike-zone-james-creighton-baseball"
   ],
   [
-    "shutdown",
+    "power",
     15,
-    "https://www.theguardian.com/us-news/live/2026/mar/24/us-politics-latest-news-donald-trump-ice-airport-midterms-donald-trump-marco-rubio"
+    "https://www.nytimes.com/2026/03/24/us/politics/trump-iran-power-stations.html"
   ],
   [
-    "today",
+    "energy",
     15,
-    "https://www.theguardian.com/environment/2026/mar/24/what-are-zettajoules-earth-energy-imbalance"
+    "https://www.nytimes.com/2026/03/24/us/politics/trump-iran-power-stations.html"
   ],
   [
-    "black",
+    "republican",
     15,
-    "https://www.theguardian.com/us-news/2026/mar/24/attending-hbcu-cognitive-outcomes-black-americans"
+    "https://www.nytimes.com/2026/03/24/us/politics/trump-republican-convention-dallas-midterm-elections.html"
   ],
   [
-    "longer",
+    "candidates",
+    15,
+    "https://www.nytimes.com/2026/03/24/us/politics/trump-republican-convention-dallas-midterm-elections.html"
+  ],
+  [
+    "california",
+    15,
+    "https://www.nytimes.com/2026/03/24/us/usc-california-governor-debate-canceled.html"
+  ],
+  [
+    "young",
+    15,
+    "https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html"
+  ],
+  [
+    "won",
+    15,
+    "https://www.nytimes.com/2026/03/24/opinion/trump-judges-nominees-federal-courts.html"
+  ],
+  [
+    "police",
+    15,
+    "https://www.washingtonpost.com/politics/2026/03/23/supreme-court-qualified-immunity-vermont/"
+  ],
+  [
+    "latest",
+    15,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "breaking",
+    15,
+    "https://www.theguardian.com/food/2026/mar/24/biscoff-belgian-biscuit-viral-social-media-sensation-recipes"
+  ],
+  [
+    "death",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam"
+  ],
+  [
+    "season",
+    15,
+    "https://www.theguardian.com/football/2026/mar/24/mohamed-salah-to-leave-liverpool-at-end-of-the-season"
+  ],
+  [
+    "court",
     14,
-    "https://www.nytimes.com/2026/03/24/science/archaeology-egypt-hatshepsut.html"
+    "https://www.nytimes.com/2026/03/24/us/politics/supreme-court-trump-asylum-seekers.html"
   ],
   [
-    "pakistan",
+    "democrats",
     14,
-    "https://www.nytimes.com/2026/03/24/world/asia/pakistan-media-news-misinformation.html"
+    "https://www.nytimes.com/2026/03/24/well/kennedy-uspstf-health-panel.html"
   ],
   [
-    "early",
+    "win",
+    14,
+    "https://www.nytimes.com/2026/03/24/opinion/democrats-midterm-elections.html"
+  ],
+  [
+    "airport",
+    14,
+    "https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/"
+  ],
+  [
+    "ice",
     14,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "family",
+    "black",
     14,
-    "https://www.theguardian.com/music/2026/mar/24/robyn-sexistential-review-pop-doyenne-returns-with-emotional-grenades-new-philosophy"
+    "https://www.theguardian.com/us-news/2026/mar/24/attending-hbcu-cognitive-outcomes-black-americans"
   ],
   [
-    "donald",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam"
-  ],
-  [
-    "death",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam"
-  ],
-  [
-    "talks",
+    "middle",
     14,
     "https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes"
   ],
   [
-    "children",
+    "family",
     14,
-    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-sanctions-un-human-rights-expert-free-speech"
+    "https://www.theguardian.com/world/2026/mar/24/taliban-us-academic-dennis-coyle"
   ],
   [
-    "games",
+    "democratic",
     14,
-    "https://www.theguardian.com/sport/2026/mar/23/womens-ncaa-tournament-kymora-johnson-soars-as-virginia-shock-no-2-iowa-in-double-ot"
+    "https://www.theguardian.com/us-news/2026/mar/24/supreme-court-trump-asylum-seekers-case"
   ],
   [
-    "led",
-    13,
-    "https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html"
+    "buying",
+    14,
+    "https://www.theguardian.com/technology/2026/mar/24/silcon-valley-ai-techscape"
   ],
   [
-    "agents",
-    13,
-    "https://www.nytimes.com/2026/03/23/us/politics/trump-ice-airports.html"
+    "online",
+    14,
+    "https://www.theguardian.com/society/commentisfree/2026/mar/24/clavicular-insecure-young-men-looksmaxxing"
   ],
   [
-    "law",
-    13,
-    "https://www.nytimes.com/2026/03/24/us/politics/proof-of-citizenship-voter-registration-kansas.html"
+    "game",
+    14,
+    "https://www.theguardian.com/football/2026/mar/24/seventh-tier-players-a-new-app-and-togetherness-inside-new-caledonias-unlikely-world-cup-tilt"
   ],
   [
-    "mullin",
-    13,
-    "https://www.nytimes.com/2026/03/24/us/politics/alan-armstrong-senate-mullin-stitt-oklahoma-republicans.html"
+    "play",
+    14,
+    "https://www.theguardian.com/technology/2026/mar/24/kalshi-polymarket-insider-trading-regulation"
   ],
   [
-    "republican",
+    "recent",
     13,
-    "https://www.nytimes.com/2026/03/24/us/politics/alan-armstrong-senate-mullin-stitt-oklahoma-republicans.html"
+    "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html"
+  ],
+  [
+    "military",
+    13,
+    "https://www.nytimes.com/2026/03/24/world/americas/us-ecuador-drug-camp-bombing-dairy-farm.html"
+  ],
+  [
+    "early",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "workers",
+    13,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "mexico",
+    13,
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
     "university",
     13,
-    "https://www.nytimes.com/2026/03/23/us/boston-university-pride-flags-free-speech.html"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/24/do-we-really-need-eight-hours-sleep-night"
   ],
   [
-    "media",
+    "school",
     13,
-    "https://www.nytimes.com/2026/03/24/world/asia/pakistan-media-news-misinformation.html"
+    "https://www.theguardian.com/us-news/2026/mar/24/attending-hbcu-cognitive-outcomes-black-americans"
   ],
   [
-    "crisis",
+    "feel",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.theguardian.com/world/ng-interactive/2026/mar/24/self-deportation-los-angeles-mexico-trump-immigration"
   ],
   [
-    "global",
-    13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "growing",
-    13,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "love",
-    13,
-    "https://www.theguardian.com/music/2026/mar/24/robyn-sexistential-review-pop-doyenne-returns-with-emotional-grenades-new-philosophy"
-  ],
-  [
-    "south",
+    "america",
     13,
     "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam"
   ],
   [
-    "together",
+    "mail",
     13,
-    "https://www.theguardian.com/stage/2026/mar/24/dario-fo-at-100-a-deliriously-funny-playwright-with-a-deadly-serious-purpose"
+    "https://www.theguardian.com/us-news/2026/mar/24/trump-mail-in-voting-cheating-ballot"
   ],
   [
-    "buying",
+    "murder",
     13,
-    "https://www.theguardian.com/technology/2026/mar/24/silcon-valley-ai-techscape"
+    "https://www.theguardian.com/us-news/2026/mar/24/georgia-woman-bail-abortion-pills-murder-charge"
   ],
   [
     "living",
@@ -346,33 +371,8 @@
     "https://www.theguardian.com/commentisfree/2026/mar/24/trump-sanctions-un-human-rights-expert-free-speech"
   ],
   [
-    "care",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-sanctions-un-human-rights-expert-free-speech"
-  ],
-  [
     "money",
     13,
-    "https://www.theguardian.com/global-development/2026/mar/24/gaza-eid-ramadan-palestine"
-  ],
-  [
-    "illinois",
-    13,
-    "https://www.politico.com/news/2026/03/19/pritzker-2028-congressional-black-caucus-tensions-00835266"
-  ],
-  [
-    "oil",
-    12,
-    "https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html"
-  ],
-  [
-    "attacks",
-    12,
-    "https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html"
-  ],
-  [
-    "job",
-    12,
-    "https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html"
+    "https://www.theguardian.com/commentisfree/2026/mar/24/cinema-premium-seating-price-vue-odeon-amc-sightline"
   ]
 ];
