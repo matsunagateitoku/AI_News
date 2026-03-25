@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    108,
-    "https://www.nytimes.com/2026/03/24/us/politics/82nd-airborne-division-iran-troops.html"
+    83,
+    "https://www.nytimes.com/2026/03/24/us/politics/florida-special-election-emily-gregory.html"
   ],
   [
     "iran",
-    79,
-    "https://www.nytimes.com/2026/03/24/us/politics/82nd-airborne-division-iran-troops.html"
+    69,
+    "https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html"
   ],
   [
     "war",
-    56,
-    "https://www.nytimes.com/2026/03/24/world/middleeast/us-iran-peace-plan.html"
+    47,
+    "https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html"
   ],
   [
     "president",
-    55,
-    "https://www.nytimes.com/2026/03/24/us/politics/82nd-airborne-division-iran-troops.html"
-  ],
-  [
-    "israel",
-    33,
-    "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html"
-  ],
-  [
-    "democrats",
-    29,
-    "https://www.nytimes.com/2026/03/24/us/politics/senate-iran-war-vote.html"
-  ],
-  [
-    "middle",
-    27,
-    "https://www.nytimes.com/2026/03/24/us/politics/82nd-airborne-division-iran-troops.html"
-  ],
-  [
-    "senate",
-    26,
-    "https://www.nytimes.com/2026/03/24/us/politics/senate-iran-war-vote.html"
-  ],
-  [
-    "florida",
-    25,
+    28,
     "https://www.nytimes.com/2026/03/24/us/politics/florida-special-election-emily-gregory.html"
-  ],
-  [
-    "health",
-    25,
-    "https://www.theguardian.com/us-news/2026/mar/24/attending-hbcu-cognitive-outcomes-black-americans"
-  ],
-  [
-    "district",
-    23,
-    "https://www.nytimes.com/2026/03/24/us/politics/florida-special-election-emily-gregory.html"
-  ],
-  [
-    "republican",
-    23,
-    "https://www.nytimes.com/2026/03/24/us/politics/trump-republican-convention-dallas-midterm-elections.html"
-  ],
-  [
-    "east",
-    22,
-    "https://www.nytimes.com/2026/03/24/us/politics/82nd-airborne-division-iran-troops.html"
   ],
   [
     "security",
-    22,
-    "https://www.nytimes.com/2026/03/24/us/tsa-data-ice-deportation-san-francisco-airport.html"
-  ],
-  [
-    "police",
-    22,
-    "https://www.washingtonpost.com/politics/2026/03/23/supreme-court-qualified-immunity-vermont/"
-  ],
-  [
-    "sleep",
-    22,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/24/do-we-really-need-eight-hours-sleep-night"
-  ],
-  [
-    "donald",
-    22,
-    "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon"
-  ],
-  [
-    "video",
-    21,
-    "https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html"
-  ],
-  [
-    "oil",
-    20,
-    "https://www.nytimes.com/2026/03/24/us/politics/cuba-russia-china.html"
-  ],
-  [
-    "administration",
-    19,
-    "https://www.nytimes.com/2026/03/24/us/tsa-data-ice-deportation-san-francisco-airport.html"
-  ],
-  [
-    "immigration",
-    19,
-    "https://www.nytimes.com/2026/03/24/us/dhs-fast-track-somali-deportations-lawsuit.html"
-  ],
-  [
-    "school",
-    19,
-    "https://www.nytimes.com/2026/03/24/us/san-francisco-public-schools-algebra.html"
-  ],
-  [
-    "star",
-    19,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/25/bait-review-riz-ahmed-bond-comedy-prime-video"
-  ],
-  [
-    "agency",
-    18,
-    "https://www.nytimes.com/2026/03/24/nyregion/port-authority-laguardia-crash-firefighters.html"
-  ],
-  [
-    "power",
-    18,
-    "https://www.nytimes.com/2026/03/24/us/berger-page-north-carolina-senate-gop.html"
-  ],
-  [
-    "shutdown",
-    18,
-    "https://www.nytimes.com/2026/03/24/us/politics/senate-republicans-homeland-security-shutdown-ice.html"
-  ],
-  [
-    "court",
-    18,
-    "https://www.nytimes.com/2026/03/24/us/politics/supreme-court-trump-asylum-seekers.html"
-  ],
-  [
-    "mexico",
-    18,
-    "https://www.nytimes.com/2026/03/24/technology/meta-new-mexico-child-safety-violations.html"
-  ],
-  [
-    "israeli",
-    18,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "season",
-    18,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/25/bridgerton-fifth-season-queer-romance-francesca-michaela-stirling"
-  ],
-  [
-    "government",
-    17,
-    "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html"
-  ],
-  [
-    "russia",
-    17,
-    "https://www.nytimes.com/2026/03/24/world/europe/russia-attack-drones-ukraine-lviv.html"
-  ],
-  [
-    "safety",
-    17,
-    "https://www.nytimes.com/2026/03/24/technology/meta-new-mexico-child-safety-violations.html"
-  ],
-  [
-    "night",
-    17,
-    "https://www.nytimes.com/2026/03/25/arts/television/late-night-trump-present-iran.html"
+    25,
+    "https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/"
   ],
   [
     "film",
-    17,
+    25,
     "https://www.theguardian.com/books/2026/mar/25/stephen-colbert-new-lord-of-the-rings-film"
   ],
   [
-    "spring",
-    17,
-    "https://www.theguardian.com/world/2026/mar/25/ukraine-war-briefing-moldova-declares-emergency-after-russian-attack-cuts-key-power-line"
+    "video",
+    25,
+    "https://www.theguardian.com/books/2026/mar/25/stephen-colbert-new-lord-of-the-rings-film"
   ],
   [
-    "republicans",
-    16,
-    "https://www.nytimes.com/2026/03/24/us/politics/senate-iran-war-vote.html"
-  ],
-  [
-    "air",
-    16,
-    "https://www.nytimes.com/2026/03/24/nyregion/air-canada-pilots-laguardia.html"
-  ],
-  [
-    "food",
-    16,
-    "https://www.washingtonpost.com/nation/2026/03/24/colorado-tamale-act-food-businesses/"
-  ],
-  [
-    "talks",
-    16,
-    "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon"
-  ],
-  [
-    "breaking",
-    16,
-    "https://www.theguardian.com/us-news/2026/mar/24/canadian-mother-detention-warns-immigrants"
-  ],
-  [
-    "human",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/mar/24/trump-sanctions-un-human-rights-expert-free-speech"
-  ],
-  [
-    "military",
-    15,
-    "https://www.nytimes.com/2026/03/24/us/politics/82nd-airborne-division-iran-troops.html"
-  ],
-  [
-    "early",
-    15,
-    "https://www.nytimes.com/2026/03/24/nyregion/air-canada-pilots-laguardia.html"
+    "government",
+    24,
+    "https://www.washingtonpost.com/nation/2026/03/24/minnesota-shootings-evidence-lawsuit-ice/"
   ],
   [
     "dhs",
-    15,
-    "https://www.nytimes.com/2026/03/24/us/politics/senate-republicans-homeland-security-shutdown-ice.html"
+    24,
+    "https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/"
+  ],
+  [
+    "health",
+    23,
+    "https://www.theguardian.com/us-news/2026/mar/24/attending-hbcu-cognitive-outcomes-black-americans"
   ],
   [
     "ice",
-    15,
-    "https://www.nytimes.com/2026/03/24/us/politics/senate-republicans-homeland-security-shutdown-ice.html"
+    22,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "line",
-    15,
-    "https://www.nytimes.com/2026/03/24/us/tsa-airports-houston-atlanta-newark.html"
+    "funding",
+    22,
+    "https://www.theguardian.com/environment/2026/mar/24/fire-epa-zeldin-public-health"
   ],
   [
-    "accused",
-    15,
-    "https://www.nytimes.com/2026/03/24/us/dhs-fast-track-somali-deportations-lawsuit.html"
+    "middle",
+    21,
+    "https://www.nytimes.com/2026/03/25/podcasts/the-headlines/us-troops-iran-attacks-jewish-sites.html"
   ],
   [
-    "ukraine",
-    15,
-    "https://www.nytimes.com/2026/03/24/world/europe/russia-attack-drones-ukraine-lviv.html"
+    "final",
+    21,
+    "https://www.theguardian.com/world/2026/mar/25/israels-death-penalty-bill-for-palestinian-prisoners-moves-to-final-vote"
   ],
   [
-    "country",
-    15,
-    "https://www.nytimes.com/2026/03/24/world/europe/russia-attack-drones-ukraine-lviv.html"
+    "american",
+    20,
+    "https://www.nytimes.com/2026/03/25/world/europe/nazzaro-nazi-terror-cell-russia-base-europe.html"
   ],
   [
-    "gaza",
-    15,
-    "https://www.nytimes.com/2026/03/24/world/middleeast/gaza-disarm-hamas-israel-board-of-peace.html"
+    "israel",
+    20,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "political",
-    15,
-    "https://www.washingtonpost.com/health/2026/03/23/casey-means-surgeon-general-nomination-stalled-maha/"
-  ],
-  [
-    "university",
-    15,
+    "sleep",
+    20,
     "https://www.theguardian.com/lifeandstyle/2026/mar/24/do-we-really-need-eight-hours-sleep-night"
   ],
   [
     "black",
-    15,
+    20,
     "https://www.theguardian.com/us-news/2026/mar/24/attending-hbcu-cognitive-outcomes-black-americans"
   ],
   [
+    "donald",
+    20,
+    "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon"
+  ],
+  [
+    "season",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/mar/25/relentless-news-cycle-go-to-bed-early"
+  ],
+  [
+    "department",
+    19,
+    "https://www.nytimes.com/2026/03/24/us/dhs-fast-track-somali-deportations-lawsuit.html"
+  ],
+  [
+    "won",
+    19,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/25/bait-review-riz-ahmed-bond-comedy-prime-video"
+  ],
+  [
+    "games",
+    19,
+    "https://www.theguardian.com/games/2026/mar/25/fortnite-staff-layoffs-redundancies-epic-games"
+  ],
+  [
+    "cbs",
+    19,
+    "https://www.latimes.com/entertainment-arts/tv/story/2026-03-25/survivor-50-seasons-jeff-probst"
+  ],
+  [
+    "late",
+    18,
+    "https://www.nytimes.com/2026/03/25/arts/television/late-night-trump-present-iran.html"
+  ],
+  [
+    "night",
+    18,
+    "https://www.nytimes.com/2026/03/25/arts/television/late-night-trump-present-iran.html"
+  ],
+  [
+    "shutdown",
+    18,
+    "https://www.theguardian.com/us-news/live/2026/mar/25/donald-trump-classified-documents-us-politics-live-latest"
+  ],
+  [
+    "east",
+    17,
+    "https://www.nytimes.com/2026/03/25/podcasts/the-headlines/us-troops-iran-attacks-jewish-sites.html"
+  ],
+  [
+    "air",
+    17,
+    "https://www.nytimes.com/2026/03/24/nyregion/air-canada-pilots-laguardia.html"
+  ],
+  [
+    "food",
+    17,
+    "https://www.washingtonpost.com/nation/2026/03/24/colorado-tamale-act-food-businesses/"
+  ],
+  [
+    "agency",
+    17,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/25/a-moment-that-changed-me-i-thought-my-parkinsons-was-the-end-of-my-life-but-dancing-changed-everything"
+  ],
+  [
+    "oil",
+    17,
+    "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon"
+  ],
+  [
+    "breaking",
+    17,
+    "https://www.theguardian.com/us-news/2026/mar/25/mother-trafficking-ice-detained"
+  ],
+  [
+    "star",
+    17,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/25/bait-review-riz-ahmed-bond-comedy-prime-video"
+  ],
+  [
+    "homeland",
+    16,
+    "https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/"
+  ],
+  [
+    "hours",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/24/do-we-really-need-eight-hours-sleep-night"
+  ],
+  [
     "email",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/25/mother-trafficking-ice-detained"
+  ],
+  [
+    "democrats",
+    16,
+    "https://www.theguardian.com/us-news/live/2026/mar/25/donald-trump-classified-documents-us-politics-live-latest"
+  ],
+  [
+    "administration",
     15,
-    "https://www.theguardian.com/us-news/2026/mar/24/canadian-mother-detention-warns-immigrants"
+    "https://www.nytimes.com/2026/03/25/world/africa/in-secret-deportation-deal-us-leveraged-favors-and-funds.html"
   ],
   [
-    "judge",
+    "immigration",
     15,
-    "https://www.theguardian.com/us-news/2026/mar/24/california-attorney-general-rob-bonta-ballot-recounting"
+    "https://www.nytimes.com/2026/03/24/us/dhs-fast-track-somali-deportations-lawsuit.html"
   ],
   [
-    "energy",
+    "play",
     15,
-    "https://www.theguardian.com/world/2026/mar/25/ukraine-war-briefing-moldova-declares-emergency-after-russian-attack-cuts-key-power-line"
+    "https://www.theguardian.com/tv-and-radio/2026/mar/25/bait-review-riz-ahmed-bond-comedy-prime-video"
   ],
   [
-    "troops",
-    14,
-    "https://www.nytimes.com/2026/03/24/us/politics/82nd-airborne-division-iran-troops.html"
+    "today",
+    15,
+    "https://www.theguardian.com/sport/2026/mar/25/mikaela-shiffrin-skiing-world-cup-title-victory"
   ],
   [
-    "states",
-    14,
-    "https://www.nytimes.com/2026/03/24/world/middleeast/us-iran-peace-plan.html"
-  ],
-  [
-    "killed",
+    "early",
     14,
     "https://www.nytimes.com/2026/03/24/nyregion/air-canada-pilots-laguardia.html"
   ],
   [
-    "laguardia",
-    14,
-    "https://www.nytimes.com/2026/03/24/nyregion/air-canada-pilots-laguardia.html"
-  ],
-  [
-    "airport",
-    14,
-    "https://www.nytimes.com/2026/03/24/nyregion/air-canada-pilots-laguardia.html"
-  ],
-  [
-    "election",
+    "senate",
     14,
     "https://www.nytimes.com/2026/03/24/us/politics/florida-special-election-emily-gregory.html"
   ],
   [
-    "california",
+    "power",
     14,
-    "https://www.nytimes.com/2026/03/24/us/politics/newsom-israel-apartheid-state.html"
+    "https://www.washingtonpost.com/health/2026/03/23/casey-means-surgeon-general-nomination-stalled-maha/"
   ],
   [
-    "department",
+    "global",
     14,
-    "https://www.nytimes.com/2026/03/24/us/politics/senate-republicans-homeland-security-shutdown-ice.html"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "homeland",
+    "country",
     14,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "tsa",
+    14,
+    "https://www.theguardian.com/us-news/live/2026/mar/25/donald-trump-classified-documents-us-politics-live-latest"
+  ],
+  [
+    "taylor",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/25/ice-immigration-prison-noem"
+  ],
+  [
+    "money",
+    14,
+    "https://www.theguardian.com/global-development/2026/mar/25/argentina-gran-chaco-deforestation-eco-tourism-weaving-glamping-kayak-tours"
+  ],
+  [
+    "illinois",
+    14,
+    "https://www.npr.org/2026/03/25/nx-s1-5719817/a-shelter-village-provides-a-bridge-to-permanent-housing"
+  ],
+  [
+    "race",
+    13,
+    "https://www.nytimes.com/2026/03/24/us/politics/florida-special-election-emily-gregory.html"
+  ],
+  [
+    "republican",
+    13,
     "https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/"
   ],
   [
-    "team",
-    14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "political",
+    13,
+    "https://www.washingtonpost.com/health/2026/03/23/casey-means-surgeon-general-nomination-stalled-maha/"
   ],
   [
-    "american",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/24/attending-hbcu-cognitive-outcomes-black-americans"
+    "love",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/25/a-moment-that-changed-me-i-thought-my-parkinsons-was-the-end-of-my-life-but-dancing-changed-everything"
   ],
   [
-    "iranian",
-    14,
+    "together",
+    13,
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/24/ai-religion-god-digital-spirituality"
+  ],
+  [
+    "talks",
+    13,
     "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon"
   ],
   [
-    "south",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/24/canadian-mother-detention-warns-immigrants"
+    "iranian",
+    13,
+    "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon"
   ],
   [
-    "buying",
-    14,
-    "https://www.theguardian.com/technology/2026/mar/24/silcon-valley-ai-techscape"
+    "prices",
+    13,
+    "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon"
   ],
   [
-    "won",
-    14,
+    "texas",
+    13,
+    "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon"
+  ],
+  [
+    "media",
+    13,
+    "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon"
+  ],
+  [
+    "inbox",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/25/mother-trafficking-ice-detained"
+  ],
+  [
+    "committee",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/25/donald-trump-classified-classified-map-private-plane-susie-wiles"
+  ],
+  [
+    "social",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/25/professor-texas-state-university-israel-palestine"
+  ],
+  [
+    "actor",
+    13,
     "https://www.theguardian.com/tv-and-radio/2026/mar/25/bait-review-riz-ahmed-bond-comedy-prime-video"
   ],
   [
-    "guide",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/mar/24/dyson-airwrap-shark-flexstyle-comparison"
-  ],
-  [
-    "games",
-    14,
-    "https://www.theguardian.com/games/2026/mar/20/resident-evil-30-years-history-video-game"
-  ],
-  [
-    "crash",
+    "family",
     13,
-    "https://www.nytimes.com/2026/03/24/nyregion/air-canada-pilots-laguardia.html"
+    "https://www.theguardian.com/us-news/2026/mar/25/dayton-webber-teammate-shocked-murder"
+  ],
+  [
+    "online",
+    12,
+    "https://www.nytimes.com/2026/03/25/world/europe/nazzaro-nazi-terror-cell-russia-base-europe.html"
+  ],
+  [
+    "died",
+    12,
+    "https://www.nytimes.com/2026/03/25/nyregion/alpha-gal-meat-allergy-deaths.html"
+  ],
+  [
+    "police",
+    12,
+    "https://www.nytimes.com/2026/03/25/world/europe/jewish-ambulances-arson-arrests.html"
+  ],
+  [
+    "israeli",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "released",
+    12,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "latest",
+    12,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "team",
+    12,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "something",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/25/a-moment-that-changed-me-i-thought-my-parkinsons-was-the-end-of-my-life-but-dancing-changed-everything"
+  ],
+  [
+    "event",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/mar/25/big-corporations-global-food-system-war-iran"
   ]
 ];
