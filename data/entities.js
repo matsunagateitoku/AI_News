@@ -3,50 +3,20 @@
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 51,
+      "count": 47,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Dhs",
-      "count": 16,
-      "url": "https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Tsa",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/25/donald-trump-classified-documents-us-politics-live-latest",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Senate",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/03/24/us/politics/florida-special-election-emily-gregory.html",
+      "name": "The White House",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/03/25/climate/kate-marvel-nasa-resign.html",
       "source": "NY Times"
     },
     {
-      "name": "Ai",
-      "count": 14,
-      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/24/ai-religion-god-digital-spirituality",
-      "source": "The Guardian"
-    },
-    {
-      "name": "House Intelligence Committee",
-      "count": 14,
-      "url": "https://www.nbcnews.com/politics/justice-department/justice-department-probe-trump-target-john-brennan-rcna265030",
-      "source": "NBC News"
-    },
-    {
-      "name": "Breaking News",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/mar/25/mother-trafficking-ice-detained",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Immigration And Customs Enforcement ( Ice",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/mar/25/mother-trafficking-ice-detained",
+      "name": "Youtube",
+      "count": 17,
+      "url": "https://www.theguardian.com/media/2026/mar/25/jury-verdict-us-first-social-media-addiction-trial-meta-youtube",
       "source": "The Guardian"
     },
     {
@@ -56,24 +26,54 @@
       "source": "The Guardian"
     },
     {
+      "name": "House Homeland Security",
+      "count": 13,
+      "url": "https://www.nbcnews.com/news/us-news/long-airport-lines-are-tip-iceberg-dhs-shutdown-officials-tell-congres-rcna265165",
+      "source": "NBC News"
+    },
+    {
+      "name": "Us Senate",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/mar/25/james-talarico-pete-hegseth-pastor",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Breaking News",
+      "count": 11,
+      "url": "https://www.theguardian.com/media/2026/mar/25/jury-verdict-us-first-social-media-addiction-trial-meta-youtube",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tsa",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/25/donald-trump-classified-documents-us-politics-live-latest",
+      "source": "The Guardian"
+    },
+    {
       "name": "The Filter Us",
       "count": 11,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
+    },
+    {
+      "name": "Meta Lays Off 700 Employees",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html",
+      "source": "NY Times"
     }
   ],
   "EVENT": [
     {
-      "name": "The Iran War",
-      "count": 12,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/24/the-guardian-view-on-the-iran-war-energy-markets-and-a-dangerous-illusion",
+      "name": "African World Cup",
+      "count": 7,
+      "url": "https://www.theguardian.com/football/2026/mar/25/fans-and-players-from-five-african-world-cup-countries-face-15000-bond-to-enter-us",
       "source": "The Guardian"
     },
     {
-      "name": "The World Cup",
-      "count": 7,
-      "url": "https://www.theguardian.com/football/the-set-pieces-blog/2026/mar/25/george-raynor-first-english-manager-world-cup-final-sweden-olympic-gold",
-      "source": "The Guardian"
+      "name": "Operation Epic Fury",
+      "count": 3,
+      "url": "https://www.foxnews.com/world/iran-linked-influence-campaign-pushes-anti-israel-messaging-disguised-us-voices",
+      "source": "Fox News"
     },
     {
       "name": "Holy Week",
@@ -82,22 +82,22 @@
       "source": "The Guardian"
     },
     {
+      "name": "Opening Day 2026",
+      "count": 2,
+      "url": "https://www.nbcnews.com/sports/mlb/shohei-ohtani-mlb-season-los-angeles-dodgers-rcna263072",
+      "source": "NBC News"
+    },
+    {
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.nbcnews.com/politics/congress/republicans-launch-reconciliation-america-act-iran-war-ice-rcna265091",
+      "source": "NBC News"
+    },
+    {
       "name": "The War",
       "count": 1,
       "url": "https://www.nytimes.com/2026/03/25/opinion/russia-putin-iran-war.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Civil Rights Act",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/mar/24/attending-hbcu-cognitive-outcomes-black-americans",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Olympic",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/the-set-pieces-blog/2026/mar/25/george-raynor-first-english-manager-world-cup-final-sweden-olympic-gold",
-      "source": "The Guardian"
     },
     {
       "name": "Super Mario Bros.",
@@ -112,141 +112,141 @@
       "source": "The Guardian"
     },
     {
-      "name": "The No Games For Genocide",
+      "name": "Opening Feb.",
       "count": 1,
-      "url": "https://www.theguardian.com/games/2026/mar/18/pushing-buttons-microsoft-indie-game-all-will-rise-no-games-for-genocide",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/delos/story/2026-02-23/alejandro-g-inarritu-resurrects-lost-footage-from-amores-perros-in-new-lacma-installation",
+      "source": "LA Times"
     },
     {
-      "name": "Series",
+      "name": "Conservative Political Action Conference",
       "count": 1,
-      "url": "https://www.nbcnews.com/select/shopping/apple-watch-deals-march-2026-rcna264963",
-      "source": "NBC News"
+      "url": "https://thehill.com/homenews/campaign/5800749-trump-cpac-absence-notable-names/",
+      "source": "The Hill"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 80,
-      "url": "https://www.theguardian.com/news/audio/2026/mar/25/the-maga-divide-over-iran-podcast",
+      "count": 82,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/25/trump-news-aliens-ufos-first-sign-of-intelligent-life",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 56,
-      "url": "https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html",
+      "count": 50,
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/iran-us-bases.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/03/25/podcasts/the-headlines/us-troops-iran-attacks-jewish-sites.html",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/03/25/world/middleeast/us-iran-war-talks-trump.html",
       "source": "NY Times"
     },
     {
-      "name": "L.A. County",
-      "count": 16,
-      "url": "https://www.latimes.com/environment/story/2026-03-22/la-mosquitoes-sterile-male-releases-los-angeles-county-funding",
-      "source": "LA Times"
-    },
-    {
       "name": "Israel",
-      "count": 13,
+      "count": 16,
       "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
       "source": "Wall St. Journal"
     },
     {
+      "name": "L.A. County",
+      "count": 12,
+      "url": "https://www.latimes.com/environment/story/2026-03-22/la-mosquitoes-sterile-male-releases-los-angeles-county-funding",
+      "source": "LA Times"
+    },
+    {
       "name": "Illinois",
       "count": 12,
-      "url": "https://www.npr.org/2026/03/25/nx-s1-5719817/a-shelter-village-provides-a-bridge-to-permanent-housing",
-      "source": "NPR"
-    },
-    {
-      "name": "Washington Dc",
-      "count": 10,
-      "url": "https://www.theguardian.com/news/audio/2026/mar/25/the-maga-divide-over-iran-podcast",
-      "source": "The Guardian"
-    },
-    {
-      "name": "America",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/mar/24/trump-nick-adams-presidential-envoy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Venice",
-      "count": 9,
-      "url": "https://www.theguardian.com/artanddesign/2026/mar/25/south-african-work-banned-from-venice-biennale-to-be-shown-outside-main-event",
-      "source": "The Guardian"
+      "url": "https://www.foxnews.com/media/eeoc-finds-planned-parenthood-segregated-employees-race-illinois-affiliate-agrees-500k-settlement",
+      "source": "Fox News"
     },
     {
       "name": "California",
-      "count": 8,
+      "count": 11,
       "url": "https://www.latimes.com/politics/story/2026-03-25/california-governors-race-last-wide-open-contest-1998-gray-davis",
       "source": "LA Times"
+    },
+    {
+      "name": "Los Angeles County Superior Court",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict",
+      "source": "LA Times"
+    },
+    {
+      "name": "Florida",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/mar/25/rihanna-shooting-suspect",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City Junklugger",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/03/24/realestate/junkluggers-junk-removal-donation.html",
+      "source": "NY Times"
     }
   ],
   "PERSON": [
     {
-      "name": "Donald Trump ’S",
-      "count": 19,
-      "url": "https://www.theguardian.com/culture/2026/mar/24/jon-stewart-donald-trump-iran",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 12,
-      "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Sora",
-      "count": 7,
-      "url": "https://www.theguardian.com/technology/2026/mar/24/openai-ai-video-sora",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Harriet",
-      "count": 6,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/23/the-pet-ill-never-forget-harriet-the-hedgehog-in-my-airing-cupboard",
-      "source": "The Guardian"
+      "name": "Melania Trump",
+      "count": 11,
+      "url": "https://www.cbsnews.com/news/melania-trump-robots-educators-kids-humanoid-systems/",
+      "source": "CBS News"
     },
     {
       "name": "Taylor Frankie Paul",
-      "count": 6,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-03-24/taylor-frankie-paul-daughter-reliving-incident-dakota-mortensen-bachelorette",
-      "source": "LA Times"
-    },
-    {
-      "name": "Hormuz",
-      "count": 5,
-      "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
+      "count": 10,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/25/taylor-frankie-paul-domestic-violence-investigation",
       "source": "The Guardian"
     },
     {
-      "name": "Jeffrey Epstein",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/mar/25/epstein-accountant-lawyer-house-depositions",
+      "name": "Donald Trump ’S",
+      "count": 9,
+      "url": "https://www.theguardian.com/culture/2026/mar/25/jimmy-kimmel-trump-election-integrity",
       "source": "The Guardian"
+    },
+    {
+      "name": "Matt Brittin",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/03/25/world/europe/matt-brittin-bbc-director-general.html",
+      "source": "NY Times"
     },
     {
       "name": "Stephen Colbert",
       "count": 5,
-      "url": "https://www.theguardian.com/books/2026/mar/25/stephen-colbert-new-lord-of-the-rings-film",
+      "url": "https://www.nytimes.com/2026/03/25/movies/stephen-colbert-lord-of-the-rings.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Nancy Guthrie",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/mar/25/savannah-guthrie-first-interview-mothers-disappearance",
       "source": "The Guardian"
     },
     {
-      "name": "Emma Aicher",
+      "name": "Mette Frederiksen",
       "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/mar/25/mikaela-shiffrin-skiing-world-cup-title-victory",
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/25/the-guardian-view-on-a-significant-week-for-european-politics-progressives-have-some-reasons-to-be-cheerful-",
       "source": "The Guardian"
     },
     {
-      "name": "George Raynor",
+      "name": "Oscar",
       "count": 5,
-      "url": "https://www.theguardian.com/football/the-set-pieces-blog/2026/mar/25/george-raynor-first-english-manager-world-cup-final-sweden-olympic-gold",
+      "url": "https://www.theguardian.com/film/2026/mar/24/mike-nick-nick-alice-review-vince-vaughn-comedy",
       "source": "The Guardian"
+    },
+    {
+      "name": "Alan Bennett",
+      "count": 5,
+      "url": "https://www.theguardian.com/books/2026/mar/24/enough-said-by-alan-bennett-review-a-man-for-all-seasons",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Karoline Leavitt",
+      "count": 5,
+      "url": "https://www.foxnews.com/politics/white-house-warns-iran-against-balking-deal-trump-ready-unleash-hell",
+      "source": "Fox News"
     }
   ],
-  "updated": "2026-03-25T14:20:19Z"
+  "updated": "2026-03-25T19:49:19Z"
 };
