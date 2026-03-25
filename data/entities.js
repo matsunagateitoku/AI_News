@@ -3,181 +3,75 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 73,
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/24/self-deportation-los-angeles-mexico-trump-immigration",
+      "count": 84,
+      "url": "https://www.theguardian.com/news/audio/2026/mar/25/the-maga-divide-over-iran-podcast",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 52,
-      "url": "https://www.nytimes.com/2026/03/24/world/middleeast/us-iran-peace-plan.html",
+      "count": 67,
+      "url": "https://www.nytimes.com/2026/03/24/us/politics/82nd-airborne-division-iran-troops.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
       "count": 25,
-      "url": "https://www.nytimes.com/2026/03/24/opinion/iran-trump-hormuz.html",
+      "url": "https://www.nytimes.com/2026/03/24/us/politics/82nd-airborne-division-iran-troops.html",
       "source": "NY Times"
     },
     {
       "name": "Florida",
-      "count": 24,
+      "count": 22,
       "url": "https://www.nytimes.com/2026/03/24/us/politics/florida-special-election-emily-gregory.html",
       "source": "NY Times"
     },
     {
-      "name": "Israel",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html",
+      "name": "Russia",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/03/24/world/europe/russia-attack-drones-ukraine-lviv.html",
       "source": "NY Times"
     },
     {
       "name": "L.A. County",
-      "count": 19,
+      "count": 17,
       "url": "https://www.latimes.com/environment/story/2026-03-22/la-mosquitoes-sterile-male-releases-los-angeles-county-funding",
       "source": "LA Times"
     },
     {
+      "name": "Ukraine",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/03/24/world/europe/russia-attack-drones-ukraine-lviv.html",
+      "source": "NY Times"
+    },
+    {
       "name": "California",
-      "count": 16,
+      "count": 13,
       "url": "https://www.nytimes.com/2026/03/24/us/politics/newsom-israel-apartheid-state.html",
       "source": "NY Times"
     },
     {
-      "name": "Russia",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/03/24/world/europe/russia-attack-drones-ukraine-lviv.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Northern Gaza",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Ukraine",
+      "name": "Illinois",
       "count": 11,
-      "url": "https://www.nytimes.com/2026/03/24/world/europe/russia-attack-drones-ukraine-lviv.html",
-      "source": "NY Times"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Picks ‘Alpha Male’ Influencer To Be Tourism Envoy",
-      "count": 55,
-      "url": "https://www.nytimes.com/2026/03/24/us/politics/nick-adams-trump-tourism.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The White House",
-      "count": 24,
-      "url": "https://www.theguardian.com/us-news/2026/mar/24/trump-nick-adams-presidential-envoy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Florida Senate",
-      "count": 24,
-      "url": "https://thehill.com/homenews/state-watch/5798052-democrats-upset-florida-senate-election/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Sora Ai",
-      "count": 20,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-03-24/openai-will-shut-down-sora-why-what-to-know",
-      "source": "LA Times"
-    },
-    {
-      "name": "Laguardia Control Tower",
-      "count": 13,
-      "url": "https://www.today.com/video/laguardia-collision-investigators-probe-control-tower-black-box-259923013742",
-      "source": "NBC News"
-    },
-    {
-      "name": "Breaking News",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/mar/24/canadian-mother-detention-warns-immigrants",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pentagon",
-      "count": 12,
-      "url": "https://www.theguardian.com/media/2026/mar/24/pentagon-correspondents-press-restrictions",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 12,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Department Of Homeland Security",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/mar/24/dhs-deal-ice-excluded",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Congress",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/03/24/business/delta-congress-travel-services-suspended.html",
-      "source": "NY Times"
-    }
-  ],
-  "EVENT": [
-    {
-      "name": "The Iran War",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/24/the-guardian-view-on-the-iran-war-energy-markets-and-a-dangerous-illusion",
-      "source": "The Guardian"
-    },
-    {
-      "name": "World Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/sport/2026/mar/24/mikaela-shiffrin-emma-aicher-overall-world-cup-title-final-race",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The War Is Going Better Than You Think",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/03/24/opinion/iran-war-history.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Civil Rights Act",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/mar/24/attending-hbcu-cognitive-outcomes-black-americans",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Bait",
-      "count": 1,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/24/bait-riz-ahmed-british-asian-actors-race",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Game Awards",
-      "count": 1,
-      "url": "https://www.theguardian.com/games/2026/mar/19/in-the-killer-world-of-online-gaming-there-are-no-hits-any-more-just-survivors",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The No Games For Genocide",
-      "count": 1,
-      "url": "https://www.theguardian.com/games/2026/mar/18/pushing-buttons-microsoft-indie-game-all-will-rise-no-games-for-genocide",
-      "source": "The Guardian"
+      "url": "https://www.politico.com/news/2026/03/19/pritzker-2028-congressional-black-caucus-tensions-00835266",
+      "source": "Politico"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 29,
-      "url": "https://www.theguardian.com/world/2026/mar/24/trumps-rehashed-15-point-iran-plan-unlikely-to-appease-tehran",
+      "count": 30,
+      "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
       "source": "The Guardian"
     },
     {
       "name": "Donald Trump ’S",
-      "count": 15,
+      "count": 17,
       "url": "https://www.theguardian.com/culture/2026/mar/24/jon-stewart-donald-trump-iran",
       "source": "The Guardian"
     },
@@ -206,6 +100,12 @@
       "source": "NY Times"
     },
     {
+      "name": "Marco Rubio",
+      "count": 6,
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
+    },
+    {
       "name": "Richard Nixon",
       "count": 6,
       "url": "https://www.theguardian.com/commentisfree/2026/mar/24/trump-iran-strategy-nixon-vietnam",
@@ -222,13 +122,119 @@
       "count": 6,
       "url": "https://www.theguardian.com/lifeandstyle/2026/mar/23/the-pet-ill-never-forget-harriet-the-hedgehog-in-my-airing-cupboard",
       "source": "The Guardian"
-    },
-    {
-      "name": "Claude Monet",
-      "count": 5,
-      "url": "https://www.theguardian.com/artanddesign/2026/mar/24/monet-venice-paintings-exhibition-de-young-san-francisco",
-      "source": "The Guardian"
     }
   ],
-  "updated": "2026-03-25T03:40:21Z"
+  "EVENT": [
+    {
+      "name": "The Iran War",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/24/the-guardian-view-on-the-iran-war-energy-markets-and-a-dangerous-illusion",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/sport/2026/mar/24/mikaela-shiffrin-emma-aicher-overall-world-cup-title-final-race",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The War Is Going Better Than You Think",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/03/24/opinion/iran-war-history.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Holy Week",
+      "count": 2,
+      "url": "https://www.theguardian.com/travel/2026/mar/25/holy-parades-easter-granada-andalucia-spain",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Civil Rights Act",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/mar/24/attending-hbcu-cognitive-outcomes-black-americans",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Game Awards",
+      "count": 1,
+      "url": "https://www.theguardian.com/games/2026/mar/19/in-the-killer-world-of-online-gaming-there-are-no-hits-any-more-just-survivors",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The No Games For Genocide",
+      "count": 1,
+      "url": "https://www.theguardian.com/games/2026/mar/18/pushing-buttons-microsoft-indie-game-all-will-rise-no-games-for-genocide",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Big Spring",
+      "count": 1,
+      "url": "https://www.foxnews.com/deals/best-apple-deals",
+      "source": "Fox News"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Picks ‘Alpha Male’ Influencer To Be Tourism Envoy",
+      "count": 59,
+      "url": "https://www.nytimes.com/2026/03/24/us/politics/nick-adams-trump-tourism.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Florida Senate",
+      "count": 26,
+      "url": "https://thehill.com/homenews/state-watch/5798052-democrats-upset-florida-senate-election/",
+      "source": "The Hill"
+    },
+    {
+      "name": "The White House",
+      "count": 24,
+      "url": "https://www.theguardian.com/us-news/2026/mar/24/trump-nick-adams-presidential-envoy",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Sora Ai",
+      "count": 21,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-03-24/openai-will-shut-down-sora-why-what-to-know",
+      "source": "LA Times"
+    },
+    {
+      "name": "Pentagon",
+      "count": 12,
+      "url": "https://www.theguardian.com/media/2026/mar/24/pentagon-correspondents-press-restrictions",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Breaking News",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/mar/24/canadian-mother-detention-warns-immigrants",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Department Of Homeland Security",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/mar/24/dhs-deal-ice-excluded",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian Documentary",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/24/self-deportation-los-angeles-mexico-trump-immigration",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Amazon Big Spring Sale",
+      "count": 11,
+      "url": "https://www.foxnews.com/deals/amazon-gadgets-under-25",
+      "source": "Fox News"
+    }
+  ],
+  "updated": "2026-03-25T07:57:04Z"
 };
