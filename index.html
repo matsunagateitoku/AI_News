@@ -471,8 +471,7 @@
         #us-map-svg { display:block; width:100%; cursor:default; }
         .state-path {
             fill: #ddd5c0;
-            stroke: #8b7355;
-            stroke-width: 0.8;
+            stroke: none;
             cursor: pointer;
             transition: fill 0.12s;
         }
@@ -620,110 +619,7 @@
             </div>
             <div class="section-body">
                 <p style="font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);margin:0 0 12px">Click a state to see its newspapers</p>
-                <svg id="us-map-svg" viewBox="0 0 960 600">
-                    <rect x="0" y="0" width="960" height="600" fill="#e0ebf0" rx="3"/>
-                    <!-- Inset labels -->
-                    <text x="171" y="472" font-family="IBM Plex Mono,monospace" font-size="8" fill="#8b7355" text-anchor="middle">Alaska</text>
-                    <text x="291" y="524" font-family="IBM Plex Mono,monospace" font-size="8" fill="#8b7355" text-anchor="middle">Hawaii</text>
-                    <!-- Continental states -->
-                    <path class="state-path" data-abbr="WA" d="M131,174 L238,174 L238,261 L180,272 L131,240Z"/>
-                    <text class="state-lbl" x="184" y="216">WA</text>
-                    <path class="state-path" data-abbr="OR" d="M131,241 L180,273 L238,262 L228,312 L155,313 L130,271Z"/>
-                    <text class="state-lbl" x="175" y="277">OR</text>
-                    <path class="state-path" data-abbr="CA" d="M103,272 L156,313 L198,312 L205,328 L210,342 L204,355 L185,383 L185,432 L151,447 L148,461 L138,466 L123,464 L104,407 L103,339Z"/>
-                    <text class="state-lbl" x="153" y="390">CA</text>
-                    <path class="state-path" data-abbr="NV" d="M167,264 L238,264 L237,408 L195,408 L165,378Z"/>
-                    <text class="state-lbl" x="200" y="336">NV</text>
-                    <path class="state-path" data-abbr="AZ" d="M199,408 L290,408 L290,476 L227,476 L199,457Z"/>
-                    <text class="state-lbl" x="243" y="442">AZ</text>
-                    <path class="state-path" data-abbr="UT" d="M240,264 L290,264 L290,408 L243,408 L240,382Z"/>
-                    <text class="state-lbl" x="263" y="336">UT</text>
-                    <path class="state-path" data-abbr="ID" d="M240,174 L285,174 L297,265 L252,315 L239,265Z"/>
-                    <text class="state-lbl" x="261" y="240">ID</text>
-                    <path class="state-path" data-abbr="MT" d="M286,174 L435,174 L432,268 L286,268Z"/>
-                    <text class="state-lbl" x="358" y="221">MT</text>
-                    <path class="state-path" data-abbr="WY" d="M293,268 L432,268 L432,340 L291,340Z"/>
-                    <text class="state-lbl" x="361" y="304">WY</text>
-                    <path class="state-path" data-abbr="CO" d="M291,340 L432,340 L431,398 L290,398Z"/>
-                    <text class="state-lbl" x="360" y="369">CO</text>
-                    <path class="state-path" data-abbr="NM" d="M290,398 L431,398 L430,476 L290,476Z"/>
-                    <text class="state-lbl" x="358" y="437">NM</text>
-                    <path class="state-path" data-abbr="ND" d="M433,174 L546,174 L546,248 L433,248Z"/>
-                    <text class="state-lbl" x="489" y="211">ND</text>
-                    <path class="state-path" data-abbr="SD" d="M433,248 L546,248 L545,308 L433,308Z"/>
-                    <text class="state-lbl" x="488" y="278">SD</text>
-                    <path class="state-path" data-abbr="NE" d="M433,308 L545,308 L544,354 L434,354Z"/>
-                    <text class="state-lbl" x="488" y="331">NE</text>
-                    <path class="state-path" data-abbr="KS" d="M434,354 L544,354 L543,400 L434,400Z"/>
-                    <text class="state-lbl" x="487" y="377">KS</text>
-                    <path class="state-path" data-abbr="OK" d="M434,400 L556,397 L562,447 L434,448Z"/>
-                    <text class="state-lbl" x="492" y="423">OK</text>
-                    <path class="state-path" data-abbr="TX" d="M434,448 L562,447 L579,470 L582,496 L560,532 L520,556 L463,556 L436,530 L404,520 L388,483 L399,448Z"/>
-                    <text class="state-lbl" x="488" y="500">TX</text>
-                    <path class="state-path" data-abbr="MN" d="M547,174 L608,174 L618,249 L547,249Z"/>
-                    <text class="state-lbl" x="577" y="212">MN</text>
-                    <path class="state-path" data-abbr="IA" d="M547,249 L618,249 L616,308 L547,308Z"/>
-                    <text class="state-lbl" x="581" y="279">IA</text>
-                    <path class="state-path" data-abbr="MO" d="M547,308 L616,308 L623,395 L553,400 L547,354Z"/>
-                    <text class="state-lbl" x="582" y="352">MO</text>
-                    <path class="state-path" data-abbr="AR" d="M553,400 L623,395 L628,452 L554,452Z"/>
-                    <text class="state-lbl" x="589" y="426">AR</text>
-                    <path class="state-path" data-abbr="LA" d="M554,452 L628,452 L633,486 L609,514 L567,504 L535,480Z"/>
-                    <text class="state-lbl" x="585" y="479">LA</text>
-                    <path class="state-path" data-abbr="WI" d="M573,196 L630,196 L636,272 L573,272Z"/>
-                    <text class="state-lbl" x="600" y="234">WI</text>
-                    <path class="state-path" data-abbr="IL" d="M602,272 L630,272 L637,396 L606,398 L600,383 L597,308Z"/>
-                    <text class="state-lbl" x="617" y="334">IL</text>
-                    <path class="state-path" data-abbr="IN" d="M631,272 L659,269 L657,384 L630,384Z"/>
-                    <text class="state-lbl" x="644" y="328">IN</text>
-                    <path class="state-path" data-abbr="OH" d="M659,263 L713,261 L718,366 L659,367Z"/>
-                    <text class="state-lbl" x="687" y="314">OH</text>
-                    <path class="state-path" data-abbr="MI" d="M631,217 L687,213 L690,271 L643,275 L631,268Z"/>
-                    <text class="state-lbl" x="659" y="244">MI</text>
-                    <path class="state-path" data-abbr="KY" d="M615,356 L722,353 L725,399 L638,407 L614,396Z"/>
-                    <text class="state-lbl" x="668" y="379">KY</text>
-                    <path class="state-path" data-abbr="TN" d="M600,386 L638,408 L725,400 L726,432 L600,438Z"/>
-                    <text class="state-lbl" x="660" y="417">TN</text>
-                    <path class="state-path" data-abbr="MS" d="M606,388 L632,385 L640,496 L614,501 L603,480Z"/>
-                    <text class="state-lbl" x="621" y="443">MS</text>
-                    <path class="state-path" data-abbr="AL" d="M633,385 L671,389 L676,493 L638,497 L632,480Z"/>
-                    <text class="state-lbl" x="652" y="441">AL</text>
-                    <path class="state-path" data-abbr="GA" d="M671,389 L723,386 L727,482 L685,490 L670,490Z"/>
-                    <text class="state-lbl" x="696" y="438">GA</text>
-                    <path class="state-path" data-abbr="FL" d="M684,492 L724,483 L742,506 L745,545 L726,577 L706,582 L680,570 L662,534 L657,504Z"/>
-                    <text class="state-lbl" x="710" y="535">FL</text>
-                    <path class="state-path" data-abbr="SC" d="M701,377 L742,373 L751,454 L704,456 L697,432Z"/>
-                    <text class="state-lbl" x="722" y="415">SC</text>
-                    <path class="state-path" data-abbr="NC" d="M655,346 L771,333 L777,376 L703,380 L654,370Z"/>
-                    <text class="state-lbl" x="712" y="358">NC</text>
-                    <path class="state-path" data-abbr="VA" d="M689,312 L795,298 L802,346 L728,357 L698,348Z"/>
-                    <text class="state-lbl" x="744" y="330">VA</text>
-                    <path class="state-path" data-abbr="WV" d="M699,302 L733,292 L754,340 L728,352 L700,348Z"/>
-                    <text class="state-lbl" x="725" y="320">WV</text>
-                    <path class="state-path" data-abbr="MD" d="M745,278 L794,269 L800,298 L760,310 L746,308Z"/>
-                    <text class="state-lbl" x="772" y="290">MD</text>
-                    <path class="state-path" data-abbr="DE" d="M788,271 L799,268 L799,305 L789,306Z"/>
-                    <path class="state-path" data-abbr="PA" d="M714,233 L803,230 L805,291 L716,294Z"/>
-                    <text class="state-lbl" x="758" y="263">PA</text>
-                    <path class="state-path" data-abbr="NY" d="M717,201 L810,197 L811,256 L767,259 L720,261Z"/>
-                    <text class="state-lbl" x="762" y="229">NY</text>
-                    <path class="state-path" data-abbr="NJ" d="M785,253 L805,250 L809,302 L787,303Z"/>
-                    <path class="state-path" data-abbr="CT" d="M795,235 L822,232 L822,257 L796,258Z"/>
-                    <path class="state-path" data-abbr="RI" d="M822,232 L834,231 L833,258 L823,258Z"/>
-                    <path class="state-path" data-abbr="MA" d="M788,218 L843,213 L843,252 L789,254Z"/>
-                    <text class="state-lbl" x="815" y="234">MA</text>
-                    <path class="state-path" data-abbr="VT" d="M798,184 L816,182 L815,240 L799,241Z"/>
-                    <path class="state-path" data-abbr="NH" d="M816,181 L833,179 L832,241 L816,241Z"/>
-                    <path class="state-path" data-abbr="ME" d="M816,167 L852,167 L851,240 L816,241Z"/>
-                    <text class="state-lbl" x="833" y="204">ME</text>
-                    <path class="state-path" data-abbr="DC" d="M762,300 L773,294 L777,308 L766,312Z"/>
-                    <!-- Inset: Alaska -->
-                    <path class="state-path" data-abbr="AK" d="M100,480 L242,480 L242,564 L100,564Z"/>
-                    <text class="state-lbl" x="171" y="522">AK</text>
-                    <!-- Inset: Hawaii -->
-                    <path class="state-path" data-abbr="HI" d="M258,529 L325,529 L325,562 L258,562Z"/>
-                    <text class="state-lbl" x="291" y="546">HI</text>
-                </svg>
+                <svg id="us-map-svg" viewBox="0 0 975 610" style="display:block;width:100%;background:#e0ebf0;border-radius:4px"></svg>
             </div>
         </div>
 
@@ -966,6 +862,10 @@
         </div>
     </div>
 </footer>
+
+<!-- D3 + TopoJSON for US state map -->
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
 
 <!-- Data files (loaded as scripts so the page works without a server) -->
 <script src="data/national_papers.js"></script>
@@ -1269,6 +1169,17 @@
     }
 
     function buildStateMap() {
+        // FIPS numeric id → state abbreviation
+        const FIPS = {
+            "01":"AL","02":"AK","04":"AZ","05":"AR","06":"CA","08":"CO","09":"CT",
+            "10":"DE","11":"DC","12":"FL","13":"GA","15":"HI","16":"ID","17":"IL",
+            "18":"IN","19":"IA","20":"KS","21":"KY","22":"LA","23":"ME","24":"MD",
+            "25":"MA","26":"MI","27":"MN","28":"MS","29":"MO","30":"MT","31":"NE",
+            "32":"NV","33":"NH","34":"NJ","35":"NM","36":"NY","37":"NC","38":"ND",
+            "39":"OH","40":"OK","41":"OR","42":"PA","44":"RI","45":"SC","46":"SD",
+            "47":"TN","48":"TX","49":"UT","50":"VT","51":"VA","53":"WA","54":"WV",
+            "55":"WI","56":"WY"
+        };
         const stateNames = {
             AL:'Alabama', AK:'Alaska', AZ:'Arizona', AR:'Arkansas', CA:'California',
             CO:'Colorado', CT:'Connecticut', DE:'Delaware', FL:'Florida', GA:'Georgia',
@@ -1282,20 +1193,72 @@
             VA:'Virginia', WA:'Washington', WV:'West Virginia', WI:'Wisconsin', WY:'Wyoming',
             DC:'Washington D.C.'
         };
+        // States large enough to show an abbreviation label
+        const labelSet = new Set(['WA','OR','CA','NV','AZ','UT','ID','MT','WY','CO','NM',
+            'ND','SD','NE','KS','OK','TX','MN','IA','MO','AR','LA','WI','IL','IN',
+            'OH','MI','KY','TN','MS','AL','GA','FL','SC','NC','VA','PA','NY','ME']);
+
         const byState = {};
         (window.newsData.localPapers || []).forEach(({ papers }) => {
             papers.forEach(p => {
                 if (p.state) (byState[p.state] = byState[p.state] || []).push(p);
             });
         });
-        document.querySelectorAll('#us-map-svg .state-path').forEach(el => {
-            const abbr = el.dataset.abbr;
-            if (!byState[abbr]) el.classList.add('no-papers');
-            el.addEventListener('click', e => {
-                e.stopPropagation();
-                showStatePopup(abbr, byState[abbr] || [], stateNames[abbr] || abbr, e);
+
+        const svg = d3.select('#us-map-svg');
+        const pathGen = d3.geoPath();
+
+        fetch('https://cdn.jsdelivr.net/npm/us-atlas@3/states-albers-10m.json')
+            .then(r => r.json())
+            .then(us => {
+                const states   = topojson.feature(us, us.objects.states);
+                const borders  = topojson.mesh(us, us.objects.states, (a, b) => a !== b);
+                const nation   = topojson.mesh(us, us.objects.nation);
+
+                // State fills
+                svg.selectAll('path.state-path')
+                    .data(states.features)
+                    .join('path')
+                    .attr('class', d => {
+                        const abbr = FIPS[String(d.id).padStart(2, '0')];
+                        return 'state-path' + (!byState[abbr] ? ' no-papers' : '');
+                    })
+                    .attr('data-abbr', d => FIPS[String(d.id).padStart(2, '0')])
+                    .attr('d', pathGen)
+                    .on('click', function(event, d) {
+                        const abbr = FIPS[String(d.id).padStart(2, '0')];
+                        showStatePopup(abbr, byState[abbr] || [], stateNames[abbr] || abbr, event);
+                        event.stopPropagation();
+                    });
+
+                // State borders
+                svg.append('path')
+                    .datum(borders)
+                    .attr('fill', 'none')
+                    .attr('stroke', '#8b735599')
+                    .attr('stroke-width', 0.6)
+                    .attr('pointer-events', 'none')
+                    .attr('d', pathGen);
+
+                // Nation outline
+                svg.append('path')
+                    .datum(nation)
+                    .attr('fill', 'none')
+                    .attr('stroke', '#8b7355')
+                    .attr('stroke-width', 1.2)
+                    .attr('pointer-events', 'none')
+                    .attr('d', pathGen);
+
+                // Abbreviation labels on larger states
+                svg.selectAll('text.state-lbl')
+                    .data(states.features.filter(d => labelSet.has(FIPS[String(d.id).padStart(2,'0')])))
+                    .join('text')
+                    .attr('class', 'state-lbl')
+                    .attr('x', d => pathGen.centroid(d)[0])
+                    .attr('y', d => pathGen.centroid(d)[1])
+                    .text(d => FIPS[String(d.id).padStart(2, '0')] || '');
             });
-        });
+
         document.addEventListener('click', () => {
             document.getElementById('state-map-popup').classList.remove('open');
         });
