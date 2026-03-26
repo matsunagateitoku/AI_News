@@ -2,39 +2,39 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Donald J. Trump",
-      "count": 15,
-      "url": "https://www.theguardian.com/world/live/2026/mar/26/us-eu-trade-tariff-trade-deal-ukraine-iran-rutte-denmark-europe-live-news-updates",
-      "source": "The Guardian"
-    },
-    {
       "name": "Donald Trump",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/2026/mar/26/gulf-states-scepticism-over-alleged-us-iran-talks-signals-a-distrust-of-trump",
+      "count": 27,
+      "url": "https://www.theguardian.com/world/2026/mar/26/air-superiority-war-planing-iran",
       "source": "The Guardian"
     },
     {
       "name": "Nicolás Maduro",
-      "count": 8,
+      "count": 11,
       "url": "https://www.theguardian.com/world/2026/mar/26/nicolas-maduro-federal-court-narco-terrorism-case",
       "source": "The Guardian"
     },
     {
-      "name": "Alireza Tangsiri",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/03/26/world/middleeast/who-alireza-tangsiri-iran-commander-navy-irgc.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Bill Maher",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/03/26/arts/television/bill-maher-mark-twain-prize-kennedy-center.html",
-      "source": "NY Times"
+      "name": "Paul Mccartney",
+      "count": 10,
+      "url": "https://www.theguardian.com/music/2026/mar/26/paul-mccartney-days-we-left-behind-review-boys-dungeon-lane",
+      "source": "The Guardian"
     },
     {
       "name": "Clara Vondrich",
       "count": 6,
       "url": "https://www.theguardian.com/commentisfree/2026/mar/26/american-war-taxes",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hormuz",
+      "count": 6,
+      "url": "https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-lebanon-hezbollah",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tom Brady",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/mar/26/tom-brady-48-says-he-explored-return-to-nfl-but-league-dont-like-that-idea-very-much",
       "source": "The Guardian"
     },
     {
@@ -56,36 +56,110 @@
       "source": "The Guardian"
     },
     {
-      "name": "Jeffrey Epstein",
+      "name": "Bill Maher",
       "count": 4,
-      "url": "https://www.nytimes.com/2026/03/26/us/colleges-building-names-epstein.html",
+      "url": "https://www.nytimes.com/2026/03/26/arts/television/bill-maher-mark-twain-prize-kennedy-center.html",
       "source": "NY Times"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Administration Begins",
+      "count": 42,
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/trump-medical-schools-civil-rights.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ai",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/03/26/well/mind/ai-chatbots-relationships.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The White House",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/03/26/us/trump-eyes-white-house-treaty-room-for-latest-renovation-project.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Senate",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/mar/26/trump-maha-agenda-cdc-surgeon-general",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian News",
+      "count": 9,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-03-25/la-me-election-skeptic-trump-shasta-county-california",
+      "source": "LA Times"
+    },
+    {
+      "name": "Ice",
+      "count": 8,
+      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Breaking News",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/mar/26/us-passengers-tsa-lines-airports",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ioc",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/mar/26/transgender-women-athletes-banned-from-female-events-at-olympics-by-ioc",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
+      "name": "The 2028 L.A. Olympics",
+      "count": 7,
+      "url": "https://www.latimes.com/sports/story/2026-03-26/transgender-women-banned-2028-la-olympics-new-ioc-policy",
+      "source": "LA Times"
+    },
+    {
       "name": "The Iran War",
-      "count": 9,
-      "url": "https://www.nytimes.com/video/business/economy/100000010796199/how-kharg-island-may-change-the-trajectory-of-the-iran-war.html",
+      "count": 4,
+      "url": "https://www.theguardian.com/business/2026/mar/26/iran-war-us-gas-fuel-oil-fertilizer-prices",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran War Effects Ripple Through Housing Market",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/03/26/business/mortgage-rates-middle-east-war.html",
       "source": "NY Times"
     },
     {
-      "name": "The World Cup",
-      "count": 6,
-      "url": "https://www.theguardian.com/football/2026/mar/25/italy-northern-ireland-world-cup-playoff-gennaro-gattuso-michael-o-neill",
+      "name": "Operation Epic Fury",
+      "count": 2,
+      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
       "source": "The Guardian"
     },
     {
       "name": "Los Angeles Olympics",
-      "count": 4,
+      "count": 2,
       "url": "https://www.theguardian.com/sport/2026/mar/26/transgender-women-athletes-banned-from-female-events-at-olympics-by-ioc",
       "source": "The Guardian"
     },
     {
-      "name": "The Olympic Games",
+      "name": "The World Series",
       "count": 2,
-      "url": "https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/sport/2026/mar/26/mlb-2026-predictions-are-the-dodgers-inevitable-maybe-not",
+      "source": "The Guardian"
     },
     {
       "name": "A New Year’S Eve",
@@ -94,159 +168,85 @@
       "source": "The Guardian"
     },
     {
-      "name": "Operation Epic Fury",
+      "name": "World Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "url": "https://www.theguardian.com/football/live/2026/mar/26/italy-v-northern-ireland-world-cup-playoff-live",
       "source": "The Guardian"
     },
     {
-      "name": "Spurs",
+      "name": "Winter Olympics    Ilia Malinin",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/mar/26/oklahoma-city-thunder-goofiness-shai-gilgeous-alexander",
+      "url": "https://www.theguardian.com/sport/2026/mar/26/the-quad-god-reborn-ilia-malinin-leads-world-championships-after-olympic-shock",
       "source": "The Guardian"
     },
     {
-      "name": "The World Series",
+      "name": "’S Winter Olympics",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/mar/26/mlb-2026-predictions-are-the-dodgers-inevitable-maybe-not",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The 2026",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/mar/26/usmnt-friendlies-preview-belgium-portugal",
-      "source": "The Guardian"
-    },
-    {
-      "name": "This World Cup’S",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/mar/26/usmnt-friendlies-preview-belgium-portugal",
+      "url": "https://www.theguardian.com/sport/2026/mar/26/the-quad-god-reborn-ilia-malinin-leads-world-championships-after-olympic-shock",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
-      "name": "Us",
-      "count": 62,
-      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "name": "Us Virgin Islands",
+      "count": 63,
+      "url": "https://www.theguardian.com/us-news/2026/mar/26/us-passengers-tsa-lines-airports",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 52,
-      "url": "https://www.nytimes.com/2026/03/26/world/middleeast/who-alireza-tangsiri-iran-commander-navy-irgc.html",
+      "count": 62,
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/trump-pakistan-iran.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 33,
-      "url": "https://www.nytimes.com/video/business/economy/100000010796199/how-kharg-island-may-change-the-trajectory-of-the-iran-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/03/26/world/middleeast/who-alireza-tangsiri-iran-commander-navy-irgc.html",
+      "count": 27,
+      "url": "https://www.nytimes.com/2026/03/26/nyregion/maduro-venezuela-court-manhattan.html",
       "source": "NY Times"
     },
     {
       "name": "L.A.",
-      "count": 18,
-      "url": "https://www.latimes.com/california/story/2026-03-25/southla-sewer-homeless-residents-nearly-sealed-inside",
+      "count": 17,
+      "url": "https://www.latimes.com/california/story/2026-03-26/inspiring-infuriating-even-comic-tale-of-how-we-defeated-l-a-s-smog-why-we-may-have-to-again",
       "source": "LA Times"
     },
     {
-      "name": "Illinois",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/mar/25/trump-letitia-james-mortgage-fraud-investigation-referral",
+      "name": "Israel",
+      "count": 15,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Florida",
+      "count": 12,
+      "url": "https://www.theguardian.com/sport/2026/mar/26/sinner-continues-smooth-miami-progress-with-win-over-tiafoe-as-rivals-fall",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City ’S",
+      "count": 11,
+      "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
       "source": "The Guardian"
     },
     {
       "name": "California",
       "count": 11,
-      "url": "https://www.nytimes.com/2026/03/26/us/politics/california-latino-voters-republicans-midterms-elections.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/business/2026/mar/26/scisters-salon-california-low-waste-salon",
+      "source": "The Guardian"
     },
     {
-      "name": "Texas",
+      "name": "Illinois",
+      "count": 11,
+      "url": "https://www.politico.com/news/2026/03/19/pritzker-2028-congressional-black-caucus-tensions-00835266",
+      "source": "Politico"
+    },
+    {
+      "name": "Tehran",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/03/26/climate/solar-energy-politics-campaigns.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City’S",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/03/26/nyregion/nyc-census-population-data.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Italy Supports",
-      "count": 9,
-      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
-      "source": "Wall St. Journal"
+      "url": "https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-lebanon-hezbollah",
+      "source": "The Guardian"
     }
   ],
-  "ORG": [
-    {
-      "name": "Trump Administration’S",
-      "count": 51,
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/26/tsa-dhs-shutdown-airports-ice-trump-administration-latest",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 17,
-      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/26/tsa-dhs-shutdown-airports-ice-trump-administration-latest",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 12,
-      "url": "https://www.latimes.com/california/story/2026-03-25/la-me-election-skeptic-trump-shasta-county-california",
-      "source": "LA Times"
-    },
-    {
-      "name": "Youtube",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/01/27/technology/social-media-addiction-trials.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Dhs",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/26/tsa-dhs-shutdown-airports-ice-trump-administration-latest",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Amazon Big Spring Sale",
-      "count": 11,
-      "url": "https://www.nbcnews.com/select/shopping/amazon-big-spring-sale-deals-2026-rcna264802",
-      "source": "NBC News"
-    },
-    {
-      "name": "Congress Fret Over Trump Administration’S",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/03/25/world/middleeast/republicans-congress-iran-war-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Meta",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/03/26/business/dealbook/meta-youtube-social-media-tobacco.html",
-      "source": "NY Times"
-    }
-  ],
-  "updated": "2026-03-26T14:27:07Z"
+  "updated": "2026-03-26T19:56:27Z"
 };
