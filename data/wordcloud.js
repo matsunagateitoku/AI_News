@@ -2,188 +2,188 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    101,
-    "https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html"
+    86,
+    "https://www.nytimes.com/2026/03/25/world/middleeast/republicans-congress-iran-war-trump.html"
   ],
   [
     "iran",
-    63,
-    "https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html"
+    62,
+    "https://www.nytimes.com/2026/03/26/world/middleeast/who-alireza-tangsiri-iran-commander-navy-irgc.html"
   ],
   [
     "war",
-    62,
-    "https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html"
+    54,
+    "https://www.nytimes.com/video/business/economy/100000010796199/how-kharg-island-may-change-the-trajectory-of-the-iran-war.html"
   ],
   [
-    "president",
-    31,
-    "https://www.nytimes.com/2026/03/25/us/politics/trump-china-mideast.html"
-  ],
-  [
-    "administration",
-    25,
-    "https://www.nytimes.com/2026/03/25/us/politics/trump-china-mideast.html"
+    "israel",
+    37,
+    "https://www.nytimes.com/2026/03/26/world/middleeast/who-alireza-tangsiri-iran-commander-navy-irgc.html"
   ],
   [
     "social",
-    25,
-    "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html"
+    29,
+    "https://www.nytimes.com/2026/03/26/podcasts/the-headlines/meta-youtube-social-media-verdict.html"
   ],
   [
-    "security",
+    "president",
+    27,
+    "https://www.nytimes.com/2026/03/25/us/politics/trump-judges-rogue-law.html"
+  ],
+  [
+    "music",
+    26,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/26/10-expert-tips-on-how-to-become-more-musical"
+  ],
+  [
+    "media",
     25,
-    "https://www.nytimes.com/2026/03/25/us/ice-airports-checking-ids-security.html"
+    "https://www.nytimes.com/2026/03/26/podcasts/the-headlines/meta-youtube-social-media-verdict.html"
+  ],
+  [
+    "young",
+    23,
+    "https://www.nytimes.com/2026/03/26/technology/social-media-verdicts-child-safety.html"
   ],
   [
     "sleep",
-    23,
+    22,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/26/something-very-bad-is-going-to-happen-review-so-scary-it-will-send-you-hysterical"
+  ],
+  [
+    "night",
+    22,
     "https://www.theguardian.com/tv-and-radio/2026/mar/26/something-very-bad-is-going-to-happen-review-so-scary-it-will-send-you-hysterical"
   ],
   [
     "black",
-    23,
-    "https://www.theguardian.com/wellness/2026/mar/25/boy-kibble-viral-meal-trend"
-  ],
-  [
-    "tsa",
-    23,
-    "https://www.theguardian.com/us-news/2026/mar/25/tsa-head-warns-perfect-storm-staffing-shortage-world-cup"
-  ],
-  [
-    "ice",
-    21,
-    "https://www.nytimes.com/2026/03/25/us/ice-airports-checking-ids-security.html"
-  ],
-  [
-    "film",
-    21,
-    "https://www.theguardian.com/film/2026/mar/25/the-twist-in-robert-pattinson-zendaya-romcom-the-drama"
-  ],
-  [
-    "health",
-    20,
-    "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html"
-  ],
-  [
-    "music",
-    20,
+    22,
     "https://www.theguardian.com/commentisfree/2026/mar/26/black-music-britain-music-industry-culture-mobo-awards"
   ],
   [
-    "media",
-    19,
-    "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html"
-  ],
-  [
-    "james",
-    19,
-    "https://www.nytimes.com/2026/03/25/us/politics/talarico-response-love-pastor-hegseth-crucified-christ.html"
-  ],
-  [
     "country",
-    19,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    21,
+    "https://www.nytimes.com/2026/03/26/us/politics/california-latino-voters-republicans-midterms-elections.html"
   ],
   [
-    "family",
-    19,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/26/something-very-bad-is-going-to-happen-review-so-scary-it-will-send-you-hysterical"
+    "oil",
+    20,
+    "https://www.nytimes.com/video/business/economy/100000010796199/how-kharg-island-may-change-the-trajectory-of-the-iran-war.html"
   ],
   [
-    "led",
-    18,
-    "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html"
+    "shutdown",
+    20,
+    "https://www.theguardian.com/us-news/live/2026/mar/26/tsa-dhs-shutdown-airports-ice-trump-administration-latest"
   ],
   [
     "love",
-    18,
-    "https://www.nytimes.com/2026/03/25/us/politics/talarico-response-love-pastor-hegseth-crucified-christ.html"
+    20,
+    "https://www.theguardian.com/music/2026/mar/26/ty-herndon-country-music-memoir"
   ],
   [
-    "israel",
-    18,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "games",
+    19,
+    "https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html"
   ],
   [
-    "illinois",
+    "democrats",
+    19,
+    "https://www.nytimes.com/2026/03/25/climate/schumer-democrats-clean-energy.html"
+  ],
+  [
+    "court",
+    19,
+    "https://www.theguardian.com/world/2026/mar/26/nicolas-maduro-federal-court-narco-terrorism-case"
+  ],
+  [
+    "game",
+    19,
+    "https://www.theguardian.com/sport/2026/mar/26/oklahoma-city-thunder-goofiness-shai-gilgeous-alexander"
+  ],
+  [
+    "administration",
     18,
-    "https://www.theguardian.com/us-news/2026/mar/25/trump-letitia-james-mortgage-fraud-investigation-referral"
+    "https://www.nytimes.com/2026/03/25/world/middleeast/republicans-congress-iran-war-trump.html"
+  ],
+  [
+    "film",
+    18,
+    "https://www.theguardian.com/global-development/2026/mar/26/wrinkle-wagon-dystopian-film-ageing-brazil-future-the-blue-trail"
   ],
   [
     "star",
     18,
-    "https://www.theguardian.com/us-news/2026/mar/25/james-talarico-pete-hegseth-pastor"
+    "https://www.theguardian.com/music/2026/mar/26/ty-herndon-country-music-memoir"
   ],
   [
-    "video",
+    "don",
     18,
-    "https://www.theguardian.com/world/2026/mar/25/mark-carney-air-canada-fire-truck-crash"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/26/10-expert-tips-on-how-to-become-more-musical"
   ],
   [
-    "night",
+    "start",
     17,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/26/something-very-bad-is-going-to-happen-review-so-scary-it-will-send-you-hysterical"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "shutdown",
+    "dhs",
     17,
-    "https://www.theguardian.com/us-news/2026/mar/25/tsa-head-warns-perfect-storm-staffing-shortage-world-cup"
+    "https://www.theguardian.com/us-news/live/2026/mar/26/tsa-dhs-shutdown-airports-ice-trump-administration-latest"
   ],
   [
-    "young",
+    "killed",
     16,
-    "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html"
+    "https://www.nytimes.com/2026/03/26/world/middleeast/who-alireza-tangsiri-iran-commander-navy-irgc.html"
   ],
   [
-    "democrats",
+    "online",
     16,
-    "https://www.nytimes.com/2026/03/25/us/politics/homeland-security-shutdown-republicans-congress.html"
+    "https://www.nytimes.com/2026/03/26/technology/social-media-verdicts-child-safety.html"
+  ],
+  [
+    "health",
+    16,
+    "https://www.nytimes.com/2026/03/25/health/cdc-director-nomination-delay.html"
   ],
   [
     "york",
     16,
-    "https://www.nytimes.com/2026/03/26/nyregion/nyc-census-population-data.html"
+    "https://www.nytimes.com/2026/03/25/climate/schumer-democrats-clean-energy.html"
   ],
   [
-    "something",
+    "immigration",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/26/something-very-bad-is-going-to-happen-review-so-scary-it-will-send-you-hysterical"
+    "https://www.nytimes.com/2026/03/26/us/politics/us-census-county-immigration.html"
   ],
   [
     "political",
     16,
-    "https://www.theguardian.com/books/2026/mar/26/permanence-by-sophie-mackintosh-review-high-concept-adultery-fable"
+    "https://www.nytimes.com/2026/03/26/arts/television/bill-maher-mark-twain-prize-kennedy-center.html"
   ],
   [
-    "california",
+    "cbs",
     16,
-    "https://www.latimes.com/california/story/2026-03-25/second-fatal-rattlesnake-bite-on-southern-california-hiking-trail"
+    "https://www.theguardian.com/us-news/2026/mar/25/trump-letitia-james-mortgage-fraud-investigation-referral"
   ],
   [
-    "oil",
-    15,
-    "https://www.nytimes.com/2026/03/25/business/iran-war-dollar-rupee-won.html"
+    "food",
+    16,
+    "https://www.theguardian.com/business/2026/mar/26/uk-co2-plant-to-reopen-amid-fears-iran-war-could-lead-to-shortage"
   ],
   [
-    "hours",
+    "business",
     15,
-    "https://www.nytimes.com/2026/03/25/us/tsa-airport-delays-houston-bush.html"
+    "https://www.nytimes.com/video/business/economy/100000010796199/how-kharg-island-may-change-the-trajectory-of-the-iran-war.html"
   ],
   [
-    "immigration",
+    "security",
     15,
-    "https://www.nytimes.com/2026/03/26/us/politics/us-census-county-immigration.html"
+    "https://www.nytimes.com/2026/03/25/us/ice-airports-checking-ids-security.html"
   ],
   [
-    "school",
+    "air",
     15,
-    "https://www.nytimes.com/2026/03/25/realestate/ireland-cell-phones-children.html"
-  ],
-  [
-    "democratic",
-    15,
-    "https://www.nytimes.com/2026/03/25/us/politics/talarico-response-love-pastor-hegseth-crucified-christ.html"
+    "https://www.washingtonpost.com/nation/2026/03/24/laguardia-cockpit-recording/"
   ],
   [
     "early",
@@ -191,124 +191,84 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "start",
+    "video",
     15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/football/2026/mar/26/bruno-fernandes-manchester-united-saviour-jim-ratcliffe"
   ],
   [
-    "far",
+    "illinois",
     15,
-    "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying"
+    "https://www.theguardian.com/us-news/2026/mar/25/trump-letitia-james-mortgage-fraud-investigation-referral"
   ],
   [
-    "season",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/25/harry-potter-tv-series-trailer"
-  ],
-  [
-    "guide",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/mar/25/what-readers-bought-march"
-  ],
-  [
-    "east",
+    "meta",
     14,
-    "https://www.nytimes.com/2026/03/25/us/politics/trump-china-mideast.html"
+    "https://www.nytimes.com/2026/03/26/business/dealbook/meta-youtube-social-media-tobacco.html"
   ],
   [
-    "airport",
+    "california",
     14,
-    "https://www.nytimes.com/2026/03/25/us/tsa-airport-delays-houston-bush.html"
+    "https://www.nytimes.com/2026/03/26/us/politics/california-latino-voters-republicans-midterms-elections.html"
   ],
   [
-    "online",
+    "industry",
     14,
-    "https://www.nytimes.com/2026/03/25/realestate/ireland-cell-phones-children.html"
+    "https://www.nytimes.com/2026/03/26/climate/solar-energy-politics-campaigns.html"
   ],
   [
-    "food",
+    "mother",
     14,
-    "https://www.nytimes.com/2026/03/25/nyregion/daycare-brooklyn-theft-wwe.html"
+    "https://www.nytimes.com/2026/03/26/us/savannah-guthrie-interview.html"
   ],
   [
-    "series",
+    "today",
     14,
-    "https://www.theguardian.com/news/audio/2026/mar/26/is-cuba-trumps-next-target-podcast"
+    "https://www.nytimes.com/2026/03/26/us/savannah-guthrie-interview.html"
   ],
   [
-    "again",
+    "because",
+    14,
+    "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html"
+  ],
+  [
+    "attacks",
+    14,
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+  ],
+  [
+    "name",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/mar/26/american-war-taxes"
+  ],
+  [
+    "something",
     14,
     "https://www.theguardian.com/tv-and-radio/2026/mar/26/something-very-bad-is-going-to-happen-review-so-scary-it-will-send-you-hysterical"
   ],
   [
-    "conflict",
+    "family",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/25/the-comeback-review-lisa-kudrow-is-alan-partridge-but-with-no-laughs"
+    "https://www.theguardian.com/tv-and-radio/2026/mar/26/something-very-bad-is-going-to-happen-review-so-scary-it-will-send-you-hysterical"
   ],
   [
-    "play",
+    "series",
     14,
-    "https://www.theguardian.com/sport/2026/mar/25/former-mlb-umpire-fears-officials-face-humiliation-by-computer-geeks-under-abs"
+    "https://www.theguardian.com/tv-and-radio/2026/mar/26/something-very-bad-is-going-to-happen-review-so-scary-it-will-send-you-hysterical"
   ],
   [
-    "don",
+    "guide",
     14,
-    "https://www.theguardian.com/environment/2026/mar/26/country-diary-spring-is-here-a-mad-mix-of-joy-and-discipline"
+    "https://www.theguardian.com/thefilter-us/2026/mar/25/what-readers-bought-march"
   ],
   [
-    "games",
-    14,
-    "https://www.theguardian.com/games/2026/mar/25/my-quest-to-preserve-vhs-era-video-culture-one-ebay-bid-at-a-time"
-  ],
-  [
-    "middle",
+    "little",
     13,
-    "https://www.nytimes.com/2026/03/25/us/politics/trump-china-mideast.html"
+    "https://www.nytimes.com/2026/03/25/world/middleeast/republicans-congress-iran-war-trump.html"
   ],
   [
-    "republicans",
+    "death",
     13,
-    "https://www.nytimes.com/2026/03/25/us/politics/homeland-security-shutdown-republicans-congress.html"
-  ],
-  [
-    "department",
-    13,
-    "https://www.nytimes.com/2026/03/25/us/politics/homeland-security-shutdown-republicans-congress.html"
-  ],
-  [
-    "released",
-    13,
-    "https://www.nytimes.com/2026/03/26/nyregion/nyc-census-population-data.html"
-  ],
-  [
-    "senate",
-    13,
-    "https://www.nytimes.com/2026/03/25/us/politics/talarico-response-love-pastor-hegseth-crucified-christ.html"
-  ],
-  [
-    "won",
-    13,
-    "https://www.nytimes.com/2026/03/25/us/politics/florida-democrat-races.html"
-  ],
-  [
-    "hair",
-    13,
-    "https://www.nytimes.com/2026/03/25/well/bald-reddit.html"
-  ],
-  [
-    "military",
-    13,
-    "https://www.nytimes.com/2026/03/26/arts/television/late-night-army-enlistment.html"
-  ],
-  [
-    "taylor",
-    13,
-    "https://www.nytimes.com/2026/03/25/arts/music/chip-taylor-dead.html"
-  ],
-  [
-    "campaign",
-    13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/03/26/world/asia/chinese-influencer-zhang-death.html"
   ],
   [
     "global",
@@ -316,63 +276,103 @@
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "past",
+    "far",
     13,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying"
   ],
   [
-    "really",
+    "nothing",
     13,
-    "https://www.theguardian.com/fashion/2026/mar/26/bald-toupee-hair-transplants-hairpieces-glued"
+    "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying"
   ],
   [
-    "because",
+    "american",
     13,
-    "https://www.theguardian.com/news/audio/2026/mar/26/is-cuba-trumps-next-target-podcast"
+    "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying"
   ],
   [
-    "dhs",
+    "primary",
     13,
-    "https://www.theguardian.com/us-news/2026/mar/25/tsa-head-warns-perfect-storm-staffing-shortage-world-cup"
+    "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying"
   ],
   [
-    "today",
+    "again",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/25/harry-potter-tv-series-trailer"
+    "https://www.theguardian.com/commentisfree/2026/mar/26/american-war-taxes"
   ],
   [
-    "prices",
-    12,
-    "https://www.nytimes.com/2026/03/25/business/iran-war-dollar-rupee-won.html"
+    "violence",
+    13,
+    "https://www.theguardian.com/world/2026/mar/26/israel-democrats-aipac-settler-violence-west-bank"
   ],
   [
-    "youtube",
-    12,
-    "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html"
+    "los",
+    13,
+    "https://www.theguardian.com/sport/2026/mar/26/transgender-women-athletes-banned-from-female-events-at-olympics-by-ioc"
   ],
   [
-    "jury",
-    12,
-    "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html"
+    "angeles",
+    13,
+    "https://www.theguardian.com/sport/2026/mar/26/transgender-women-athletes-banned-from-female-events-at-olympics-by-ioc"
   ],
   [
-    "director",
-    12,
-    "https://www.nytimes.com/2026/03/25/health/cdc-director-nomination-delay.html"
+    "play",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/26/10-expert-tips-on-how-to-become-more-musical"
   ],
   [
-    "mother",
-    12,
-    "https://www.nytimes.com/2026/03/25/us/politics/florida-democrat-races.html"
+    "season",
+    13,
+    "https://www.theguardian.com/film/2026/mar/26/halle-bailey-little-mermaid-disney-berry-princess"
   ],
   [
-    "air",
-    12,
-    "https://www.washingtonpost.com/nation/2026/03/24/laguardia-cockpit-recording/"
+    "party",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/mar/25/the-guardian-view-on-a-significant-week-for-european-politics-progressives-have-some-reasons-to-be-cheerful-"
   ],
   [
-    "review",
+    "morning",
     12,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/26/something-very-bad-is-going-to-happen-review-so-scary-it-will-send-you-hysterical"
+    "https://www.nytimes.com/2026/03/26/world/middleeast/who-alireza-tangsiri-iran-commander-navy-irgc.html"
+  ],
+  [
+    "campaign",
+    12,
+    "https://www.nytimes.com/2026/03/26/us/politics/boat-strikes-caribbean.html"
+  ],
+  [
+    "ice",
+    12,
+    "https://www.nytimes.com/2026/03/25/us/ice-airports-checking-ids-security.html"
+  ],
+  [
+    "energy",
+    12,
+    "https://www.nytimes.com/2026/03/26/climate/solar-energy-politics-campaigns.html"
+  ],
+  [
+    "bill",
+    12,
+    "https://www.nytimes.com/2026/03/26/climate/solar-energy-politics-campaigns.html"
+  ],
+  [
+    "israeli",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "here's",
+    12,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "middle",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/mar/26/american-war-taxes"
+  ],
+  [
+    "east",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/mar/26/american-war-taxes"
   ]
 ];
