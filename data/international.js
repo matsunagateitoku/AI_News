@@ -146,22 +146,92 @@
         ]
     },
     {
-        "region": "Africa",
+        "region": "Africa – Aggregators",
         "papers": [
-            { "name": "Daily Maverick (SA)",   "url": "https://www.dailymaverick.co.za/",          "class": "grey", "flag": "🇿🇦" },
-            { "name": "Mail & Guardian (SA)",  "url": "https://mg.co.za/",                         "class": "grey", "flag": "🇿🇦" },
-            { "name": "Business Day (SA)",     "url": "https://www.businesslive.co.za/bd/",        "class": "grey", "flag": "🇿🇦" },
-            { "name": "Premium Times (NG)",    "url": "https://www.premiumtimesng.com/",           "class": "grey", "flag": "🇳🇬" },
-            { "name": "The Punch (Nigeria)",   "url": "https://punchng.com/",                      "class": "grey", "flag": "🇳🇬" },
-            { "name": "Vanguard (Nigeria)",    "url": "https://www.vanguardngr.com/",              "class": "grey", "flag": "🇳🇬" },
-            { "name": "Nation Africa (Kenya)", "url": "https://nation.africa/",                    "class": "grey", "flag": "🇰🇪" },
-            { "name": "The East African",      "url": "https://www.theeastafrican.co.ke/",         "class": "grey", "flag": "🇰🇪" },
-            { "name": "Daily Monitor (UG)",    "url": "https://www.monitor.co.ug/",                "class": "grey", "flag": "🇺🇬" },
-            { "name": "Daily Graphic (GH)",    "url": "https://www.graphic.com.gh/",               "class": "grey", "flag": "🇬🇭" },
-            { "name": "Addis Standard (ET)",   "url": "https://addisstandard.com/",                "class": "grey", "flag": "🇪🇹" },
+            { "name": "AllAfrica",             "url": "https://allafrica.com/",                    "class": "grey", "flag": "🌍" },
+            { "name": "The Africa Report",     "url": "https://www.theafricareport.com/",          "class": "grey", "flag": "🌍" },
+            { "name": "VOA Africa",            "url": "https://www.voaafrica.com/",                "class": "grey", "flag": "🌍" }
+        ]
+    },
+    {
+        "region": "North Africa",
+        "papers": [
+            { "name": "Egypt Independent",     "url": "https://egyptindependent.com/",             "class": "grey", "flag": "🇪🇬" },
+            { "name": "Al-Ahram Weekly",       "url": "https://weekly.ahram.org.eg/",              "class": "grey", "flag": "🇪🇬" },
             { "name": "Morocco World News",    "url": "https://www.moroccoworldnews.com/",         "class": "grey", "flag": "🇲🇦" },
+            { "name": "Libya Herald",          "url": "https://libyaherald.com/",                  "class": "grey", "flag": "🇱🇾" },
+            { "name": "Libya Observer",        "url": "https://www.libyaobserver.ly/",             "class": "grey", "flag": "🇱🇾" },
+            { "name": "Sudan Tribune",         "url": "https://sudantribune.com/",                 "class": "grey", "flag": "🇸🇩" },
+            { "name": "Tunisia Live",          "url": "https://www.tunisialive.net/",              "class": "grey", "flag": "🇹🇳" },
+            { "name": "Algeria Press Service", "url": "https://www.aps.dz/en/",                   "class": "grey", "flag": "🇩🇿" }
+        ]
+    },
+    {
+        "region": "West Africa",
+        "papers": [
+            { "name": "Premium Times (NG)",    "url": "https://www.premiumtimesng.com/",           "class": "grey", "flag": "🇳🇬" },
+            { "name": "The Punch (NG)",        "url": "https://punchng.com/",                      "class": "grey", "flag": "🇳🇬" },
+            { "name": "Vanguard (NG)",         "url": "https://www.vanguardngr.com/",              "class": "grey", "flag": "🇳🇬" },
+            { "name": "This Day (NG)",         "url": "https://www.thisdaylive.com/",              "class": "grey", "flag": "🇳🇬" },
+            { "name": "Daily Trust (NG)",      "url": "https://dailytrust.com/",                   "class": "grey", "flag": "🇳🇬" },
+            { "name": "Daily Graphic (GH)",    "url": "https://www.graphic.com.gh/",               "class": "grey", "flag": "🇬🇭" },
+            { "name": "MyJoyOnline (GH)",      "url": "https://www.myjoyonline.com/",              "class": "grey", "flag": "🇬🇭" },
+            { "name": "Ghanaian Times",        "url": "https://www.ghanaiantimes.com.gh/",         "class": "grey", "flag": "🇬🇭" },
+            { "name": "Sierrra Leone Telegraph","url": "https://www.thesierraleonetelegraph.com/", "class": "grey", "flag": "🇸🇱" },
+            { "name": "Front Page Africa (LR)","url": "https://frontpageafricaonline.com/",        "class": "grey", "flag": "🇱🇷" },
+            { "name": "The Point (GM)",        "url": "https://thepoint.gm/",                     "class": "grey", "flag": "🇬🇲" },
+            { "name": "Togo First",            "url": "https://www.togofirst.com/en/",             "class": "grey", "flag": "🇹🇬" },
+            { "name": "VOA West Africa",       "url": "https://www.voaafrica.com/africa",          "class": "grey", "flag": "🌍" }
+        ]
+    },
+    {
+        "region": "East Africa",
+        "papers": [
+            { "name": "Nation Africa (KE)",    "url": "https://nation.africa/",                    "class": "grey", "flag": "🇰🇪" },
+            { "name": "The East African",      "url": "https://www.theeastafrican.co.ke/",         "class": "grey", "flag": "🇰🇪" },
+            { "name": "The Star (KE)",         "url": "https://www.the-star.co.ke/",               "class": "grey", "flag": "🇰🇪" },
+            { "name": "Standard Digital (KE)", "url": "https://www.standardmedia.co.ke/",          "class": "grey", "flag": "🇰🇪" },
             { "name": "The Citizen (TZ)",      "url": "https://www.thecitizen.co.tz/",             "class": "grey", "flag": "🇹🇿" },
-            { "name": "NewsDay (Zimbabwe)",    "url": "https://www.newsday.co.zw/",                "class": "grey", "flag": "🇿🇼" }
+            { "name": "Daily Monitor (UG)",    "url": "https://www.monitor.co.ug/",                "class": "grey", "flag": "🇺🇬" },
+            { "name": "New Vision (UG)",       "url": "https://www.newvision.co.ug/",              "class": "grey", "flag": "🇺🇬" },
+            { "name": "Addis Standard (ET)",   "url": "https://addisstandard.com/",                "class": "grey", "flag": "🇪🇹" },
+            { "name": "Addis Fortune (ET)",    "url": "https://addisfortune.news/",                "class": "grey", "flag": "🇪🇹" },
+            { "name": "The New Times (RW)",    "url": "https://www.newtimes.co.rw/",               "class": "grey", "flag": "🇷🇼" },
+            { "name": "Garowe Online (SO)",    "url": "https://www.garoweonline.com/",             "class": "grey", "flag": "🇸🇴" },
+            { "name": "Radio Tamazuj (SS)",    "url": "https://radiotamazuj.org/en",               "class": "grey", "flag": "🇸🇸" },
+            { "name": "Juba Monitor (SS)",     "url": "https://jubamonitor.com/",                  "class": "grey", "flag": "🇸🇸" },
+            { "name": "L'Express (MG)",        "url": "https://lexpress.mu/",                      "class": "grey", "flag": "🇲🇺" },
+            { "name": "VOA East Africa",       "url": "https://www.voaafrica.com/",                "class": "grey", "flag": "🌍" }
+        ]
+    },
+    {
+        "region": "Central Africa",
+        "papers": [
+            { "name": "Cameroon Tribune",      "url": "https://www.cameroon-tribune.cm/",          "class": "grey", "flag": "🇨🇲" },
+            { "name": "Cameroon Concord",      "url": "https://cameroon-concord.com/",             "class": "grey", "flag": "🇨🇲" },
+            { "name": "Radio Okapi (DRC)",     "url": "https://www.radiookapi.net/",               "class": "grey", "flag": "🇨🇩" },
+            { "name": "Actualite.cd (DRC)",    "url": "https://actualite.cd/",                     "class": "grey", "flag": "🇨🇩" },
+            { "name": "VOA Central Africa",    "url": "https://www.voaafrica.com/",                "class": "grey", "flag": "🌍" }
+        ]
+    },
+    {
+        "region": "Southern Africa",
+        "papers": [
+            { "name": "Daily Maverick (ZA)",   "url": "https://www.dailymaverick.co.za/",          "class": "grey", "flag": "🇿🇦" },
+            { "name": "Mail & Guardian (ZA)",  "url": "https://mg.co.za/",                         "class": "grey", "flag": "🇿🇦" },
+            { "name": "Business Day (ZA)",     "url": "https://www.businesslive.co.za/bd/",        "class": "grey", "flag": "🇿🇦" },
+            { "name": "News24 (ZA)",           "url": "https://www.news24.com/",                   "class": "grey", "flag": "🇿🇦" },
+            { "name": "TimesLive (ZA)",        "url": "https://www.timeslive.co.za/",              "class": "grey", "flag": "🇿🇦" },
+            { "name": "NewsDay (ZW)",          "url": "https://www.newsday.co.zw/",                "class": "grey", "flag": "🇿🇼" },
+            { "name": "Herald Zimbabwe",       "url": "https://www.herald.co.zw/",                 "class": "red",  "flag": "🇿🇼" },
+            { "name": "Lusaka Times (ZM)",     "url": "https://www.lusakatimes.com/",              "class": "grey", "flag": "🇿🇲" },
+            { "name": "Zambia Daily Mail",     "url": "https://www.daily-mail.co.zm/",             "class": "grey", "flag": "🇿🇲" },
+            { "name": "Nyasa Times (MW)",      "url": "https://www.nyasatimes.com/",               "class": "grey", "flag": "🇲🇼" },
+            { "name": "The Namibian",          "url": "https://www.namibian.com.na/",              "class": "grey", "flag": "🇳🇦" },
+            { "name": "Mmegi (BW)",            "url": "https://www.mmegi.bw/",                     "class": "grey", "flag": "🇧🇼" },
+            { "name": "Lesotho Times",         "url": "https://lestimes.com/",                     "class": "grey", "flag": "🇱🇸" },
+            { "name": "Times of Eswatini",     "url": "https://www.times.co.sz/",                  "class": "grey", "flag": "🇸🇿" },
+            { "name": "VOA Southern Africa",   "url": "https://www.voaafrica.com/",                "class": "grey", "flag": "🌍" }
         ]
     },
     {

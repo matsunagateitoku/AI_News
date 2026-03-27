@@ -226,14 +226,57 @@
         ]
     },
     {
-        "region": "African Languages",
+        "region": "Afrikaans & Swahili",
         "papers": [
             { "name": "Die Burger (Afrikaans)", "url": "https://www.netwerk24.com/dieburger/", "class": "grey", "flag": "🇿🇦" },
             { "name": "Beeld (Afrikaans)",      "url": "https://www.netwerk24.com/beeld/",     "class": "grey", "flag": "🇿🇦" },
-            { "name": "Mwananchi (Swahili)",    "url": "https://www.mwananchi.co.tz/",         "class": "grey", "flag": "🇹🇿" },
-            { "name": "Bukedde (Uganda)",       "url": "https://www.bukedde.co.ug/",           "class": "grey", "flag": "🇺🇬" },
-            { "name": "Al-Ahram (Arabic)",      "url": "https://www.ahram.org.eg/",            "class": "red",  "flag": "🇪🇬" },
-            { "name": "Al Massae (Morocco)",    "url": "https://www.almassae.press.ma/",       "class": "grey", "flag": "🇲🇦" }
+            { "name": "Mwananchi (TZ)",         "url": "https://www.mwananchi.co.tz/",         "class": "grey", "flag": "🇹🇿" },
+            { "name": "Taifa Leo (KE)",         "url": "https://www.taifaleo.co.ke/",          "class": "grey", "flag": "🇰🇪" },
+            { "name": "Bukedde (UG)",           "url": "https://www.bukedde.co.ug/",           "class": "grey", "flag": "🇺🇬" }
+        ]
+    },
+    {
+        "region": "French-language Africa",
+        "papers": [
+            { "name": "Le Monde Afrique",       "url": "https://www.lemonde.fr/afrique/",      "class": "grey", "flag": "🌍" },
+            { "name": "RFI Afrique",            "url": "https://www.rfi.fr/fr/afrique/",       "class": "grey", "flag": "🌍" },
+            { "name": "Fraternité Matin (CI)",  "url": "https://www.fratmat.info/",            "class": "grey", "flag": "🇨🇮" },
+            { "name": "Abidjan.net (CI)",       "url": "https://news.abidjan.net/",            "class": "grey", "flag": "🇨🇮" },
+            { "name": "Le Soleil (SN)",         "url": "https://www.lesoleil.sn/",             "class": "grey", "flag": "🇸🇳" },
+            { "name": "L'Essor (ML)",           "url": "https://www.essor.ml/",                "class": "grey", "flag": "🇲🇱" },
+            { "name": "Le Pays (BF)",           "url": "https://lepays.bf/",                   "class": "grey", "flag": "🇧🇫" },
+            { "name": "La Nation Bénin",        "url": "https://www.lanationbenin.info/",      "class": "grey", "flag": "🇧🇯" },
+            { "name": "Le Sahel (NE)",          "url": "https://www.lesahel.org/",             "class": "grey", "flag": "🇳🇪" },
+            { "name": "Cameroon Tribune",       "url": "https://www.cameroon-tribune.cm/",    "class": "grey", "flag": "🇨🇲" },
+            { "name": "L'Union (GA)",           "url": "https://www.union.sonapresse.com/",   "class": "grey", "flag": "🇬🇦" },
+            { "name": "Les Dépêches (CG)",      "url": "https://www.lesdepechesdebrazzaville.fr/","class":"grey","flag": "🇨🇬" },
+            { "name": "7sur7.cd (DRC)",         "url": "https://7sur7.cd/",                   "class": "grey", "flag": "🇨🇩" },
+            { "name": "La Presse de Tunisie",   "url": "https://lapresse.tn/",                "class": "grey", "flag": "🇹🇳" },
+            { "name": "El Watan (DZ)",          "url": "https://www.elwatan.com/",             "class": "grey", "flag": "🇩🇿" },
+            { "name": "Le Matin (MA)",          "url": "https://lematin.ma/",                  "class": "grey", "flag": "🇲🇦" },
+            { "name": "L'Expression (DZ)",      "url": "https://www.lexpressiondz.com/",      "class": "grey", "flag": "🇩🇿" },
+            { "name": "L'Express (MU)",         "url": "https://lexpress.mu/",                 "class": "grey", "flag": "🇲🇺" },
+            { "name": "L'Express (MG)",         "url": "https://www.lexpressmada.com/",        "class": "grey", "flag": "🇲🇬" },
+            { "name": "Le Mauricien",           "url": "https://www.lemauricien.com/",         "class": "grey", "flag": "🇲🇺" }
+        ]
+    },
+    {
+        "region": "Arabic – North Africa",
+        "papers": [
+            { "name": "Al-Ahram (EG)",          "url": "https://www.ahram.org.eg/",            "class": "red",  "flag": "🇪🇬" },
+            { "name": "Al-Masry Al-Youm (EG)",  "url": "https://www.almasryalyoum.com/",       "class": "grey", "flag": "🇪🇬" },
+            { "name": "Hespress (MA)",           "url": "https://www.hespress.com/",            "class": "grey", "flag": "🇲🇦" },
+            { "name": "Al Massae (MA)",          "url": "https://www.almassae.press.ma/",       "class": "grey", "flag": "🇲🇦" },
+            { "name": "El Khabar (DZ)",         "url": "https://www.elkhabar.com/",            "class": "grey", "flag": "🇩🇿" },
+            { "name": "Al-Intibaha (SD)",        "url": "https://www.alintibaha.net/",          "class": "grey", "flag": "🇸🇩" }
+        ]
+    },
+    {
+        "region": "Amharic & Somali",
+        "papers": [
+            { "name": "Ethiopian Reporter (AM)","url": "https://www.ethiopianreporter.com/",   "class": "grey", "flag": "🇪🇹" },
+            { "name": "Addis Admas (ET)",       "url": "https://addisadmas.com/",              "class": "grey", "flag": "🇪🇹" },
+            { "name": "Geeska Afrika (SO)",     "url": "https://www.geeskaafrika.com/",        "class": "grey", "flag": "🇸🇴" }
         ]
     }
 ];
