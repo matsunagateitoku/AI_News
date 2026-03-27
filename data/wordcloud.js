@@ -2,98 +2,83 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    120,
+    109,
     "https://www.nytimes.com/2026/03/26/us/politics/congress-senators-homeland-security-funding.html"
   ],
   [
     "president",
-    67,
+    65,
     "https://www.nytimes.com/2026/03/26/us/politics/congress-senators-homeland-security-funding.html"
   ],
   [
     "iran",
-    54,
+    46,
     "https://www.nytimes.com/2026/03/26/us/politics/trump-sharpies-pens-fact-check.html"
   ],
   [
     "war",
-    43,
-    "https://www.nytimes.com/2026/03/26/us/senator-murkowski-iran-war-vote-congress.html"
+    37,
+    "https://www.nytimes.com/2026/03/27/world/middleeast/khasab-oman-hormuz-strait.html"
   ],
   [
     "california",
-    34,
+    35,
     "https://www.nytimes.com/2026/03/26/us/politics/trump-medical-schools-civil-rights.html"
   ],
   [
-    "department",
-    27,
-    "https://www.nytimes.com/2026/03/26/us/politics/congress-senators-homeland-security-funding.html"
-  ],
-  [
-    "government",
-    27,
-    "https://www.theguardian.com/world/2026/mar/26/uruguay-nazi-eagle-graf-spee"
-  ],
-  [
     "security",
-    26,
+    32,
     "https://www.nytimes.com/2026/03/26/us/politics/congress-senators-homeland-security-funding.html"
   ],
   [
-    "court",
-    26,
-    "https://www.nytimes.com/2026/03/26/us/politics/kennedy-vaccines-trump.html"
+    "department",
+    29,
+    "https://www.nytimes.com/2026/03/26/us/politics/congress-senators-homeland-security-funding.html"
+  ],
+  [
+    "country",
+    25,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "order",
-    25,
+    24,
     "https://www.nytimes.com/2026/03/26/us/politics/congress-senators-homeland-security-funding.html"
   ],
   [
+    "night",
+    24,
+    "https://www.nytimes.com/2026/03/27/arts/television/late-night-trump-america-first-award.html"
+  ],
+  [
     "pay",
-    25,
+    24,
+    "https://www.theguardian.com/us-news/2026/mar/26/trump-dhs-order-tsa-agents"
+  ],
+  [
+    "court",
+    23,
+    "https://www.nytimes.com/2026/03/26/us/politics/kennedy-vaccines-trump.html"
+  ],
+  [
+    "don",
+    23,
+    "https://www.theguardian.com/music/2026/mar/27/a-broken-heart-can-turn-somebody-into-a-bad-casanova-breakout-rb-star-leon-thomas-on-defiance-dangelo-and-his-doggie-persona"
+  ],
+  [
+    "dhs",
+    23,
     "https://www.theguardian.com/us-news/2026/mar/26/trump-dhs-order-tsa-agents"
   ],
   [
     "tsa",
-    25,
-    "https://www.theguardian.com/us-news/2026/mar/26/trump-dhs-order-tsa-agents"
-  ],
-  [
-    "social",
-    24,
-    "https://www.nytimes.com/2026/03/26/well/mind/ai-chatbots-relationships.html"
-  ],
-  [
-    "country",
-    24,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "young",
-    24,
-    "https://www.theguardian.com/technology/2026/mar/26/us-court-social-media-meta-youtube"
-  ],
-  [
-    "israel",
-    22,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "don",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/mar/26/andy-ogles-tennessee"
-  ],
-  [
-    "media",
     22,
     "https://www.theguardian.com/us-news/2026/mar/26/trump-dhs-order-tsa-agents"
   ],
   [
-    "night",
+    "government",
     22,
-    "https://www.theguardian.com/commentisfree/2026/mar/26/benjamin-netanyahu-iran-peace-israel-war-palestinian"
+    "https://www.theguardian.com/us-news/2026/mar/26/anthropic-ai-pentagon"
   ],
   [
     "sleep",
@@ -101,84 +86,104 @@
     "https://www.theguardian.com/tv-and-radio/2026/mar/26/something-very-bad-is-going-to-happen-review-so-scary-it-will-send-you-hysterical"
   ],
   [
-    "love",
-    21,
-    "https://www.theguardian.com/football/2026/mar/26/gio-reyna-usmnt-pochettino-training"
-  ],
-  [
-    "case",
-    20,
-    "https://www.theguardian.com/us-news/2026/mar/26/anthropic-ai-pentagon"
-  ],
-  [
-    "oil",
-    19,
-    "https://www.nytimes.com/2026/03/26/business/gas-oil-gas-prices-iran.html"
-  ],
-  [
     "judge",
-    19,
-    "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html"
-  ],
-  [
-    "early",
-    19,
+    21,
     "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html"
   ],
   [
     "energy",
-    19,
-    "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east"
+    21,
+    "https://www.theguardian.com/music/2026/mar/27/a-broken-heart-can-turn-somebody-into-a-bad-casanova-breakout-rb-star-leon-thomas-on-defiance-dangelo-and-his-doggie-persona"
   ],
   [
-    "dhs",
-    19,
-    "https://www.theguardian.com/us-news/2026/mar/26/trump-dhs-order-tsa-agents"
-  ],
-  [
-    "bill",
-    19,
-    "https://www.theguardian.com/us-news/2026/mar/26/idaho-trans-bathroom-bill-private-businesses"
-  ],
-  [
-    "administration",
-    18,
-    "https://www.nytimes.com/2026/03/26/us/senator-murkowski-iran-war-vote-congress.html"
-  ],
-  [
-    "donald",
-    18,
-    "https://www.theguardian.com/world/2026/mar/26/air-superiority-war-planing-iran"
-  ],
-  [
-    "signature",
-    17,
-    "https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html"
-  ],
-  [
-    "air",
-    17,
-    "https://www.nytimes.com/2026/03/26/world/canada/air-canada-ceo-english-apology-crash.html"
-  ],
-  [
-    "american",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/mar/26/andy-ogles-tennessee"
-  ],
-  [
-    "games",
-    17,
-    "https://www.theguardian.com/sport/2026/mar/26/oklahoma-city-thunder-goofiness-shai-gilgeous-alexander"
-  ],
-  [
-    "anthropic",
-    16,
+    "early",
+    20,
     "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html"
   ],
   [
+    "senate",
+    20,
+    "https://www.theguardian.com/us-news/2026/mar/26/cesar-chavez-day-california-farmworkers-day"
+  ],
+  [
+    "israel",
+    19,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "oil",
+    18,
+    "https://www.nytimes.com/2026/03/26/business/gas-oil-gas-prices-iran.html"
+  ],
+  [
+    "social",
+    18,
+    "https://www.theguardian.com/technology/2026/mar/26/us-court-social-media-meta-youtube"
+  ],
+  [
+    "media",
+    18,
+    "https://www.theguardian.com/technology/2026/mar/26/us-court-social-media-meta-youtube"
+  ],
+  [
+    "anthropic",
+    17,
+    "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html"
+  ],
+  [
+    "music",
+    17,
+    "https://www.nytimes.com/2026/03/26/arts/music/salzburg-festival-fires-artistic-director-markus-hinterhauser.html"
+  ],
+  [
+    "donald",
+    17,
+    "https://www.theguardian.com/business/2026/mar/26/markets-slump-us-israel-war-iran"
+  ],
+  [
+    "case",
+    17,
+    "https://www.theguardian.com/us-news/2026/mar/26/anthropic-ai-pentagon"
+  ],
+  [
     "york",
+    17,
+    "https://www.theguardian.com/books/2026/mar/27/no-new-york-by-adele-bertei-review-a-vivid-vibrant-musical-coming-of-age"
+  ],
+  [
+    "bill",
+    17,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/26/bill-maher-kennedy-center-mark-twain-award"
+  ],
+  [
+    "funding",
     16,
-    "https://www.nytimes.com/2026/03/26/nyregion/wall-street-bonus.html"
+    "https://www.nytimes.com/2026/03/26/us/politics/congress-senators-homeland-security-funding.html"
+  ],
+  [
+    "shutdown",
+    16,
+    "https://www.nytimes.com/2026/03/26/us/politics/dhs-shutdown-longest-history.html"
+  ],
+  [
+    "because",
+    16,
+    "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html"
+  ],
+  [
+    "immigration",
+    16,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "ice",
+    16,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "american",
+    16,
+    "https://www.theguardian.com/world/2026/mar/26/cecot-human-rights-petition"
   ],
   [
     "democrats",
@@ -186,9 +191,9 @@
     "https://www.theguardian.com/us-news/2026/mar/26/trump-mike-johnson-america-first-award"
   ],
   [
-    "film",
+    "games",
     16,
-    "https://www.theguardian.com/film/2026/mar/27/russia-bans-documentary-mr-nobody-against-putin"
+    "https://www.theguardian.com/games/2026/mar/25/my-quest-to-preserve-vhs-era-video-culture-one-ebay-bid-at-a-time"
   ],
   [
     "agents",
@@ -196,19 +201,29 @@
     "https://www.nytimes.com/2026/03/26/us/politics/congress-senators-homeland-security-funding.html"
   ],
   [
-    "middle",
+    "signature",
     15,
-    "https://www.nytimes.com/2026/03/26/opinion/economy-attitudes-republicans-democrats.html"
+    "https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html"
   ],
   [
-    "music",
+    "crisis",
     15,
-    "https://www.nytimes.com/2026/03/26/arts/music/salzburg-festival-fires-artistic-director-markus-hinterhauser.html"
+    "https://www.nytimes.com/2026/03/26/us/politics/trump-iran-talks.html"
   ],
   [
-    "guide",
+    "administration",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/mar/26/how-to-style-triangle-scarf"
+    "https://www.nytimes.com/2026/03/26/us/politics/kennedy-vaccines-trump.html"
+  ],
+  [
+    "star",
+    15,
+    "https://www.theguardian.com/music/2026/mar/27/a-broken-heart-can-turn-somebody-into-a-bad-casanova-breakout-rb-star-leon-thomas-on-defiance-dangelo-and-his-doggie-persona"
+  ],
+  [
+    "rights",
+    15,
+    "https://www.theguardian.com/world/2026/mar/26/cecot-human-rights-petition"
   ],
   [
     "again",
@@ -216,34 +231,19 @@
     "https://www.theguardian.com/politics/2026/mar/26/donald-trump-uk-aircraft-carriers-toys-nato-keir-starmer-iran"
   ],
   [
-    "crisis",
-    14,
-    "https://www.nytimes.com/2026/03/26/us/politics/trump-iran-talks.html"
+    "love",
+    15,
+    "https://www.theguardian.com/football/2026/mar/26/gio-reyna-usmnt-pochettino-training"
   ],
   [
-    "health",
+    "ukraine",
     14,
-    "https://www.nytimes.com/2026/03/26/us/politics/kennedy-vaccines-trump.html"
+    "https://www.nytimes.com/2026/03/27/opinion/ukraine-iran-drones.html"
   ],
   [
-    "tech",
+    "guide",
     14,
-    "https://www.nytimes.com/2026/03/26/business/economy/ai-data-centers-construction-local-opposition.html"
-  ],
-  [
-    "team",
-    14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "hair",
-    14,
-    "https://www.theguardian.com/business/2026/mar/26/scisters-salon-california-low-waste-salon"
-  ],
-  [
-    "strikes",
-    14,
-    "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east"
+    "https://www.theguardian.com/world/2026/mar/26/strait-of-hormuz-visual-guide-trickle-of-ships-iran"
   ],
   [
     "announced",
@@ -251,34 +251,29 @@
     "https://www.theguardian.com/us-news/2026/mar/26/trump-dhs-order-tsa-agents"
   ],
   [
-    "expected",
+    "black",
     14,
-    "https://www.theguardian.com/business/2026/mar/26/markets-slump-us-israel-war-iran"
+    "https://www.theguardian.com/tv-and-radio/2026/mar/27/your-friends-and-neighbours-to-portobello-the-seven-best-shows-to-stream-this-week"
   ],
   [
-    "ukraine",
+    "final",
     14,
-    "https://www.theguardian.com/world/2026/mar/27/ukraine-war-briefing-pentagon-reportedly-considering-whether-to-divert-aid-from-ukraine-to-middle-east"
+    "https://www.theguardian.com/sport/2026/mar/26/they-think-its-muchova-it-is-now-coco-gauff-miami-open-tennis"
   ],
   [
-    "political",
+    "film",
     14,
-    "https://www.theguardian.com/sport/2026/mar/26/why-olympics-u-turned-gender-rules-sex-testing"
+    "https://www.theguardian.com/film/2026/mar/27/russia-bans-documentary-mr-nobody-against-putin"
   ],
   [
-    "shutdown",
-    13,
-    "https://www.nytimes.com/2026/03/26/us/politics/dhs-shutdown-longest-history.html"
+    "hair",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/26/cadaver-fat-injections-ask-ugly"
   ],
   [
-    "campaign",
+    "homeland",
     13,
-    "https://www.nytimes.com/2026/03/26/us/politics/trump-medical-schools-civil-rights.html"
-  ],
-  [
-    "military",
-    13,
-    "https://www.nytimes.com/2026/03/26/us/senator-murkowski-iran-war-vote-congress.html"
+    "https://www.nytimes.com/2026/03/26/us/politics/congress-senators-homeland-security-funding.html"
   ],
   [
     "secretary",
@@ -286,32 +281,47 @@
     "https://www.nytimes.com/2026/03/26/us/politics/kennedy-vaccines-trump.html"
   ],
   [
-    "defense",
+    "air",
+    13,
+    "https://www.nytimes.com/2026/03/26/world/canada/air-canada-ceo-english-apology-crash.html"
+  ],
+  [
+    "legal",
     13,
     "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html"
   ],
   [
-    "because",
+    "conflict",
     13,
-    "https://www.nytimes.com/2026/03/26/us/politics/trump-mail-in-voting-florida.html"
+    "https://www.nytimes.com/2026/03/27/opinion/ukraine-iran-drones.html"
   ],
   [
-    "today",
+    "latest",
     13,
-    "https://www.nytimes.com/2026/03/26/us/savannah-guthrie-interview.html"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "budget",
+    "team",
     13,
-    "https://www.nytimes.com/2026/03/26/nyregion/wall-street-bonus.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "least",
+    "young",
     13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.theguardian.com/technology/2026/mar/26/us-court-social-media-meta-youtube"
   ],
   [
-    "east",
+    "spring",
+    13,
+    "https://www.theguardian.com/music/2026/mar/27/a-broken-heart-can-turn-somebody-into-a-bad-casanova-breakout-rb-star-leon-thomas-on-defiance-dangelo-and-his-doggie-persona"
+  ],
+  [
+    "little",
+    13,
+    "https://www.theguardian.com/music/2026/mar/27/a-broken-heart-can-turn-somebody-into-a-bad-casanova-breakout-rb-star-leon-thomas-on-defiance-dangelo-and-his-doggie-persona"
+  ],
+  [
+    "strikes",
     13,
     "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east"
   ],
@@ -321,9 +331,24 @@
     "https://www.theguardian.com/world/2026/mar/26/strait-of-hormuz-visual-guide-trickle-of-ships-iran"
   ],
   [
-    "maduro",
+    "airports",
     13,
-    "https://www.theguardian.com/world/2026/mar/26/nicolas-maduro-cilia-flores-court"
+    "https://www.theguardian.com/us-news/2026/mar/26/trump-dhs-order-tsa-agents"
+  ],
+  [
+    "human",
+    13,
+    "https://www.theguardian.com/world/2026/mar/26/cecot-human-rights-petition"
+  ],
+  [
+    "united",
+    13,
+    "https://www.theguardian.com/sport/2026/mar/27/olympics-transgender-women-athlete-ban-human-rights-response-ntwnfb"
+  ],
+  [
+    "political",
+    13,
+    "https://www.theguardian.com/sport/2026/mar/26/why-olympics-u-turned-gender-rules-sex-testing"
   ],
   [
     "climate",
@@ -331,29 +356,9 @@
     "https://www.theguardian.com/sport/2026/mar/26/why-olympics-u-turned-gender-rules-sex-testing"
   ],
   [
-    "senate",
-    13,
-    "https://www.theguardian.com/us-news/2026/mar/26/cesar-chavez-day-california-farmworkers-day"
-  ],
-  [
-    "star",
-    13,
-    "https://www.theguardian.com/film/2026/mar/26/halle-bailey-little-mermaid-disney-berry-princess"
-  ],
-  [
     "illinois",
     13,
     "https://www.politico.com/news/2026/03/19/pritzker-2028-congressional-black-caucus-tensions-00835266"
-  ],
-  [
-    "funding",
-    12,
-    "https://www.nytimes.com/2026/03/26/us/politics/congress-senators-homeland-security-funding.html"
-  ],
-  [
-    "kennedy",
-    12,
-    "https://www.nytimes.com/2026/03/26/us/politics/kennedy-vaccines-trump.html"
   ],
   [
     "company",
@@ -366,13 +371,8 @@
     "https://www.nytimes.com/2026/03/26/us/savannah-guthrie-interview.html"
   ],
   [
-    "latest",
+    "today",
     12,
-    "https://www.nytimes.com/2026/03/26/briefing/trump-strait-of-hormuz-catholic-churches.html"
-  ],
-  [
-    "start",
-    12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/03/26/us/savannah-guthrie-interview.html"
   ]
 ];

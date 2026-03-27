@@ -3,89 +3,95 @@
   "ORG": [
     {
       "name": "Trump Administration",
-      "count": 66,
+      "count": 59,
       "url": "https://www.nbcnews.com/politics/justice-department/epstein-survivors-sue-trump-administration-google-release-private-info-rcna265408",
       "source": "NBC News"
     },
     {
       "name": "Tsa Agents",
-      "count": 25,
+      "count": 22,
       "url": "https://www.theguardian.com/us-news/2026/mar/26/trump-dhs-order-tsa-agents",
       "source": "The Guardian"
     },
     {
-      "name": "Ai",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/03/26/well/mind/ai-chatbots-relationships.html",
-      "source": "NY Times"
+      "name": "The U.S. Senate",
+      "count": 17,
+      "url": "https://thehill.com/homenews/state-watch/5803536-montana-libertarian-candidate-graham-draft/",
+      "source": "The Hill"
     },
     {
       "name": "Dhs Acting",
-      "count": 13,
+      "count": 16,
       "url": "https://www.foxnews.com/us/dhs-arrests-5-illegal-immigrants-convicted-violent-crimes-including-manslaughter-child-assault",
       "source": "Fox News"
     },
     {
-      "name": "The Filter Us",
+      "name": "The Department Of Homeland Security",
       "count": 12,
+      "url": "https://www.nytimes.com/2026/03/26/us/politics/congress-senators-homeland-security-funding.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
       "name": "The White House",
-      "count": 11,
+      "count": 10,
       "url": "https://www.theguardian.com/tv-and-radio/2026/mar/26/bill-maher-kennedy-center-mark-twain-award",
       "source": "The Guardian"
     },
     {
-      "name": "The U.S. Senate",
-      "count": 11,
-      "url": "https://thehill.com/homenews/state-watch/5803536-montana-libertarian-candidate-graham-draft/",
-      "source": "The Hill"
-    },
-    {
-      "name": "The Department Of Homeland Security",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/03/26/us/politics/congress-senators-homeland-security-funding.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Congress",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/03/26/us/senator-murkowski-iran-war-vote-congress.html",
-      "source": "NY Times"
+      "name": "Ai",
+      "count": 10,
+      "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
+      "source": "The Guardian"
     },
     {
       "name": "United Airlines",
       "count": 9,
       "url": "https://www.foxnews.com/us/united-jet-dodges-black-hawk-last-second-maneuver-over-california-airport-that-not-good",
       "source": "Fox News"
+    },
+    {
+      "name": "Congress",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/mar/27/trump-news-latest-updates-today",
+      "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 76,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/26/andy-ogles-tennessee",
+      "count": 66,
+      "url": "https://www.theguardian.com/technology/2026/mar/26/us-court-social-media-meta-youtube",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 49,
+      "count": 45,
       "url": "https://www.nytimes.com/2026/03/26/us/politics/trump-sharpies-pens-fact-check.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 28,
-      "url": "https://www.theguardian.com/business/2026/mar/26/scisters-salon-california-low-waste-salon",
+      "count": 29,
+      "url": "https://www.theguardian.com/technology/2026/mar/26/us-court-social-media-meta-youtube",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 22,
+      "count": 21,
       "url": "https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html",
       "source": "NY Times"
+    },
+    {
+      "name": "New York City ’S",
+      "count": 15,
+      "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
+      "source": "The Guardian"
     },
     {
       "name": "L.A. County",
@@ -95,20 +101,8 @@
     },
     {
       "name": "Ukraine",
-      "count": 14,
+      "count": 13,
       "url": "https://www.theguardian.com/world/2026/mar/27/ukraine-war-briefing-pentagon-reportedly-considering-whether-to-divert-aid-from-ukraine-to-middle-east",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Russia",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/mar/26/trump-truck-license-immigrant-job-loss",
       "source": "The Guardian"
     },
     {
@@ -118,64 +112,52 @@
       "source": "Politico"
     },
     {
-      "name": "New York Hoped For Even",
+      "name": "Israel",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/03/26/nyregion/wall-street-bonus.html",
-      "source": "NY Times"
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Mexico City",
+      "count": 10,
+      "url": "https://www.theguardian.com/film/2026/mar/26/william-shakespeares-romeo-juliet-review-baz-luhrmann-leonardo-dicaprio-claire-danes",
+      "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Donald J. Trump",
-      "count": 29,
+      "count": 30,
       "url": "https://thehill.com/homenews/5803421-trump-signature-us-currency/",
       "source": "The Hill"
     },
     {
       "name": "Donald Trump",
-      "count": 15,
-      "url": "https://www.theguardian.com/world/2026/mar/26/air-superiority-war-planing-iran",
+      "count": 14,
+      "url": "https://www.theguardian.com/business/2026/mar/26/markets-slump-us-israel-war-iran",
       "source": "The Guardian"
     },
     {
       "name": "Anthropic Ai",
-      "count": 14,
+      "count": 13,
       "url": "https://www.cbsnews.com/news/anthropic-ruling-judge-trump-pentagon-ai/",
       "source": "CBS News"
     },
     {
       "name": "Nicolás Maduro",
-      "count": 13,
-      "url": "https://www.theguardian.com/world/2026/mar/26/nicolas-maduro-cilia-flores-court",
+      "count": 12,
+      "url": "https://www.theguardian.com/world/2026/mar/26/nicolas-maduro-federal-court-narco-terrorism-case",
       "source": "The Guardian"
     },
     {
-      "name": "Paul Mccartney",
-      "count": 10,
-      "url": "https://www.theguardian.com/music/2026/mar/26/paul-mccartney-days-we-left-behind-review-boys-dungeon-lane",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vladimir Putin",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/2026/mar/26/putin-asks-oligarchs-to-donate-to-russias-dwindling-defence-budget",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Clara Vondrich",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/26/american-war-taxes",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Bill Maher",
-      "count": 6,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/26/bill-maher-kennedy-center-mark-twain-award",
-      "source": "The Guardian"
+      "name": "Nancy Guthrie",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/03/26/us/savannah-guthrie-interview.html",
+      "source": "NY Times"
     },
     {
       "name": "Ty Herndon",
-      "count": 6,
+      "count": 7,
       "url": "https://www.theguardian.com/music/2026/mar/26/ty-herndon-country-music-memoir",
       "source": "The Guardian"
     },
@@ -184,12 +166,30 @@
       "count": 6,
       "url": "https://www.theguardian.com/books/2026/mar/26/muskism-by-quinn-slobodian-and-ben-tarnoff-review-how-elon-musk-is-reshaping-the-world",
       "source": "The Guardian"
+    },
+    {
+      "name": "Hollis Thomas",
+      "count": 6,
+      "url": "https://www.foxnews.com/sports/former-eagles-star-brent-celeks-ex-wife-reveals-relationship-another-ex-philadelphia-player",
+      "source": "Fox News"
+    },
+    {
+      "name": "Bill Maher",
+      "count": 5,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/26/bill-maher-kennedy-center-mark-twain-award",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Aukus",
+      "count": 5,
+      "url": "https://www.theguardian.com/world/2026/mar/27/australia-will-be-left-with-no-submarines-if-it-abandons-aukus-senior-defence-official-warns",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "’S Winter Olympics",
-      "count": 4,
+      "count": 5,
       "url": "https://www.theguardian.com/sport/2026/mar/26/the-quad-god-reborn-ilia-malinin-leads-world-championships-after-olympic-shock",
       "source": "The Guardian"
     },
@@ -201,15 +201,9 @@
     },
     {
       "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.nytimes.com/2026/03/26/us/senator-murkowski-iran-war-vote-congress.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Operation Epic Fury",
       "count": 2,
-      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
-      "source": "The Guardian"
+      "url": "https://www.cbsnews.com/video/nancy-mace-concerns-iran-war-havent-seen-exit-strategy/",
+      "source": "CBS News"
     },
     {
       "name": "English-Language Condolences After Plane Crash",
@@ -218,21 +212,9 @@
       "source": "NY Times"
     },
     {
-      "name": "The Cold War",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/03/26/opinion/congo-lumumba-cia-assassination.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Winter Olympics    Ilia Malinin",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/mar/26/the-quad-god-reborn-ilia-malinin-leads-world-championships-after-olympic-shock",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Spurs",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/mar/26/oklahoma-city-thunder-goofiness-shai-gilgeous-alexander",
       "source": "The Guardian"
     },
     {
@@ -246,7 +228,25 @@
       "count": 1,
       "url": "https://www.theguardian.com/games/2026/mar/19/in-the-killer-world-of-online-gaming-there-are-no-hits-any-more-just-survivors",
       "source": "The Guardian"
+    },
+    {
+      "name": "The Spring Entertainment Memorabilia Live Auction",
+      "count": 1,
+      "url": "https://www.theguardian.com/film/2026/mar/27/star-wars-c3po-robot-head-sold-auction",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Series",
+      "count": 1,
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-03-26/mark-walter-dodgers-parity",
+      "source": "LA Times"
+    },
+    {
+      "name": "Olympic",
+      "count": 1,
+      "url": "https://www.npr.org/2026/03/26/nx-s1-5762579/ioc-bans-trans-women-events-genetic-testing",
+      "source": "NPR"
     }
   ],
-  "updated": "2026-03-27T03:51:49Z"
+  "updated": "2026-03-27T08:01:54Z"
 };
