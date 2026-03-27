@@ -748,14 +748,24 @@
             </div>
         </div>
 
-        <!-- International Papers -->
-        <div class="section-block open" data-section="International">
+        <!-- International Papers + Foreign Language (side by side, collapsed by default) -->
+        <div class="section-block" data-section="International">
             <div class="section-header" onclick="toggleSection(this.parentElement)">
                 <h2>International Papers</h2>
                 <span class="section-toggle">▾</span>
             </div>
             <div class="section-body">
                 <div class="tab" id="International"></div>
+            </div>
+        </div>
+
+        <div class="section-block" data-section="foreignLanguage">
+            <div class="section-header" onclick="toggleSection(this.parentElement)">
+                <h2>Foreign Language Press</h2>
+                <span class="section-toggle">▾</span>
+            </div>
+            <div class="section-body">
+                <div class="tab" id="foreignLanguage"></div>
             </div>
         </div>
 
@@ -768,17 +778,6 @@
             <div class="section-body">
                 <p style="font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);margin:0 0 12px">Click a country to see its newspapers — shaded countries have coverage</p>
                 <svg id="world-map-svg" viewBox="0 0 960 500" style="display:block;width:100%;background:#e0ebf0;border-radius:4px"></svg>
-            </div>
-        </div>
-
-        <!-- Foreign Language Press -->
-        <div class="section-block open" data-section="foreignLanguage">
-            <div class="section-header" onclick="toggleSection(this.parentElement)">
-                <h2>Foreign Language Press</h2>
-                <span class="section-toggle">▾</span>
-            </div>
-            <div class="section-body">
-                <div class="tab" id="foreignLanguage"></div>
             </div>
         </div>
 
