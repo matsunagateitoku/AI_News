@@ -2,253 +2,223 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    105,
-    "https://www.nytimes.com/2026/03/26/us/politics/trump-iran-talks.html"
+    90,
+    "https://www.nytimes.com/2026/03/27/world/americas/brazil-gangs-terror-trump-bolsonaro.html"
   ],
   [
     "iran",
-    61,
-    "https://www.nytimes.com/2026/03/27/podcasts/the-headlines/trump-tsa-agents-iran-war-grocery-prices.html"
-  ],
-  [
-    "president",
-    54,
-    "https://www.nytimes.com/2026/03/26/us/politics/trump-iran-talks.html"
+    70,
+    "https://www.nytimes.com/2026/03/27/business/economy/fertilizer-food-supply-iran-war.html"
   ],
   [
     "war",
-    46,
-    "https://www.nytimes.com/2026/03/27/podcasts/the-headlines/trump-tsa-agents-iran-war-grocery-prices.html"
+    42,
+    "https://www.nytimes.com/2026/03/27/business/economy/fertilizer-food-supply-iran-war.html"
+  ],
+  [
+    "president",
+    35,
+    "https://www.nytimes.com/2026/03/27/world/americas/brazil-gangs-terror-trump-bolsonaro.html"
   ],
   [
     "senate",
     33,
-    "https://www.nytimes.com/2026/03/27/us/graham-platner-maine-women-voters.html"
+    "https://www.nytimes.com/2026/03/27/us/politics/elsayed-piker-michigan-rally-backlash.html"
   ],
   [
-    "california",
-    32,
-    "https://www.nytimes.com/2026/03/27/us/united-airlines-helicopter-california-faa.html"
+    "dhs",
+    31,
+    "https://www.theguardian.com/us-news/live/2026/mar/27/senate-dhs-shutdown-funding-deal-trump-iran-hormuz-latest-news-updates"
   ],
   [
     "security",
-    26,
-    "https://www.nytimes.com/video/us/politics/100000010793141/will-ice-change-under-its-new-leader.html"
+    30,
+    "https://www.nytimes.com/2026/03/27/world/middleeast/iran-war-videos-arrests-uae-gulf-states.html"
   ],
   [
     "department",
-    25,
-    "https://www.theguardian.com/us-news/2026/mar/27/us-senate-passes-funding-package-for-homeland-security-excludes-ice"
+    24,
+    "https://www.nytimes.com/2026/03/27/nyregion/nerdeen-kiswani-assassination-plot.html"
+  ],
+  [
+    "california",
+    23,
+    "https://www.nytimes.com/2026/03/27/us/united-airlines-helicopter-california-faa.html"
   ],
   [
     "court",
     23,
-    "https://www.nytimes.com/2026/03/26/us/politics/kennedy-vaccines-trump.html"
+    "https://www.theguardian.com/commentisfree/2026/mar/27/trump-national-emergency-elections"
   ],
   [
     "love",
     22,
-    "https://www.theguardian.com/music/2026/mar/27/flea-honora-review-red-hot-chili-peppers-trumpet-jazz"
+    "https://www.nytimes.com/2026/03/26/podcasts/love-story-jfk-jr.html"
+  ],
+  [
+    "israel",
+    22,
+    "https://www.nytimes.com/2026/03/27/us/politics/elsayed-piker-michigan-rally-backlash.html"
+  ],
+  [
+    "place",
+    21,
+    "https://www.nytimes.com/2026/03/27/opinion/ezra-klein-podcast-christopher-caldwell.html"
   ],
   [
     "sleep",
-    22,
-    "https://www.theguardian.com/thefilter-us/2026/mar/25/what-readers-bought-march"
-  ],
-  [
-    "political",
     21,
-    "https://www.nytimes.com/2026/03/27/magazine/iran-war-energy-climate-change.html"
-  ],
-  [
-    "today",
-    20,
-    "https://www.nytimes.com/2026/03/27/business/media/savannah-guthrie-today.html"
+    "https://www.theguardian.com/thefilter-us/2026/mar/25/what-readers-bought-march"
   ],
   [
     "food",
     20,
-    "https://www.nytimes.com/2026/03/27/health/rfk-food-ingredients-fda.html"
+    "https://www.nytimes.com/2026/03/27/business/economy/fertilizer-food-supply-iran-war.html"
   ],
   [
-    "israel",
-    20,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "media",
-    20,
-    "https://www.theguardian.com/technology/2026/mar/26/us-court-social-media-meta-youtube"
-  ],
-  [
-    "country",
+    "prices",
     19,
-    "https://www.nytimes.com/2026/03/27/us/no-kings-protests-cities.html"
+    "https://www.nytimes.com/2026/03/27/business/economy/fertilizer-food-supply-iran-war.html"
   ],
   [
     "york",
     19,
-    "https://www.nytimes.com/2026/03/27/nyregion/hochul-new-york-trump-ice-immigration.html"
+    "https://www.nytimes.com/2026/03/27/books/review/love-story-jfk-jr-carolyn-bessette-books.html"
+  ],
+  [
+    "florida",
+    18,
+    "https://www.nytimes.com/2026/03/27/us/florida-immigration-desantis-republicans.html"
   ],
   [
     "early",
     18,
-    "https://www.nytimes.com/2026/03/27/us/elections/virginia-redistricting-early-vote-tracker.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "donald",
+    "because",
     18,
-    "https://www.theguardian.com/world/2026/mar/27/saudi-arabia-us-iran-attacks-mohammed-bin-salman"
+    "https://www.theguardian.com/tv-and-radio/2026/mar/27/sopranos-writer-david-chase-interview-mother-james-gandolfini-mk-ultra-cia-lsd"
   ],
   [
-    "dhs",
-    18,
-    "https://www.theguardian.com/us-news/2026/mar/27/us-senate-passes-funding-package-for-homeland-security-excludes-ice"
-  ],
-  [
-    "play",
+    "star",
     17,
-    "https://www.nytimes.com/2026/03/27/us/graham-platner-maine-women-voters.html"
+    "https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html"
   ],
   [
-    "guide",
+    "video",
     17,
-    "https://www.theguardian.com/world/2026/mar/26/strait-of-hormuz-visual-guide-trickle-of-ships-iran"
+    "https://www.nytimes.com/2026/03/27/world/europe/stranded-whale-germany-baltic-freed.html"
   ],
   [
-    "signature",
+    "election",
+    17,
+    "https://www.theguardian.com/us-news/live/2026/mar/27/senate-dhs-shutdown-funding-deal-trump-iran-hormuz-latest-news-updates"
+  ],
+  [
+    "homeland",
+    17,
+    "https://www.latimes.com/politics/story/2026-03-27/dhs-attorney-said-agents-in-los-angeles-should-have-started-hitting-protesters-emails-show"
+  ],
+  [
+    "democrats",
+    17,
+    "https://www.foxnews.com/politics/ship-has-sailed-what-dems-wont-get-dhs-deal-after-shunning-gop"
+  ],
+  [
+    "crisis",
     16,
-    "https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html"
+    "https://www.nytimes.com/video/world/asia/100000010791678/iran-war-india-cooking-gas.html"
+  ],
+  [
+    "political",
+    16,
+    "https://www.nytimes.com/2026/03/27/magazine/iran-war-energy-climate-change.html"
+  ],
+  [
+    "black",
+    16,
+    "https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html"
+  ],
+  [
+    "secretary",
+    16,
+    "https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html"
   ],
   [
     "administration",
     16,
-    "https://www.nytimes.com/2026/03/27/us/united-airlines-helicopter-california-faa.html"
+    "https://www.nytimes.com/2026/03/27/world/americas/brazil-gangs-terror-trump-bolsonaro.html"
   ],
   [
-    "place",
+    "bill",
     16,
-    "https://www.nytimes.com/2026/03/27/us/no-kings-protests-cities.html"
+    "https://www.nytimes.com/2026/03/27/us/idaho-transgender-bathroom-law.html"
   ],
   [
-    "little",
+    "media",
     16,
-    "https://www.nytimes.com/2026/03/27/business/media/savannah-guthrie-today.html"
+    "https://www.theguardian.com/wellness/2026/mar/27/hyrox-classes-fitness-social-media"
   ],
   [
-    "middle",
+    "late",
     16,
-    "https://www.nytimes.com/2026/03/27/business/inflation-federal-reserve-iran-war.html"
+    "https://www.theguardian.com/us-news/2026/mar/27/fcc-chair-brendan-carr"
   ],
   [
-    "east",
+    "johnson",
     16,
-    "https://www.nytimes.com/2026/03/27/business/inflation-federal-reserve-iran-war.html"
+    "https://www.theguardian.com/us-news/live/2026/mar/27/senate-dhs-shutdown-funding-deal-trump-iran-hormuz-latest-news-updates"
   ],
   [
-    "team",
+    "email",
     16,
-    "https://www.nytimes.com/2026/03/27/nyregion/hochul-new-york-trump-ice-immigration.html"
+    "https://www.theguardian.com/us-news/2026/mar/27/pete-hegseth-cuts-black-men-women-military-promotion-list"
+  ],
+  [
+    "guide",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/27/lessons-from-enoughfluencers-how-to-live-happier-simpler-life"
   ],
   [
     "night",
     16,
-    "https://www.nytimes.com/2026/03/27/arts/television/late-night-trump-america-first-award.html"
-  ],
-  [
-    "beach",
-    16,
-    "https://www.nytimes.com/2026/03/27/world/europe/stranded-whale-germany-baltic-freed.html"
-  ],
-  [
-    "again",
-    16,
-    "https://www.nytimes.com/2026/03/27/world/europe/andrew-tate-assault-case-uk.html"
-  ],
-  [
-    "social",
-    16,
-    "https://www.theguardian.com/technology/2026/mar/26/us-court-social-media-meta-youtube"
-  ],
-  [
-    "ice",
-    15,
-    "https://www.nytimes.com/video/us/politics/100000010793141/will-ice-change-under-its-new-leader.html"
-  ],
-  [
-    "oil",
-    15,
-    "https://www.nytimes.com/2026/03/26/business/gas-oil-gas-prices-iran.html"
-  ],
-  [
-    "far",
-    15,
-    "https://www.nytimes.com/2026/03/27/us/elections/virginia-redistricting-early-vote-tracker.html"
-  ],
-  [
-    "government",
-    15,
-    "https://www.nytimes.com/2026/03/27/opinion/congestion-pricing-traffic-new-york.html"
+    "https://www.theguardian.com/culture/2026/mar/27/jimmy-kimmel-trump-america-first-award-republicans-iran"
   ],
   [
     "order",
     15,
-    "https://www.theguardian.com/food/2026/mar/27/ready-to-order-10-rules-for-restaurant-diners"
+    "https://www.theguardian.com/commentisfree/2026/mar/27/trump-national-emergency-elections"
   ],
   [
-    "fund",
+    "health",
     15,
-    "https://www.theguardian.com/us-news/2026/mar/27/us-senate-passes-funding-package-for-homeland-security-excludes-ice"
+    "https://www.theguardian.com/us-news/2026/mar/27/five-guys-ceo-workers-bonus"
   ],
   [
-    "rights",
+    "gop",
     15,
-    "https://www.theguardian.com/us-news/2026/mar/27/trump-voting-election-conspiracy-midterms"
+    "https://www.latimes.com/california/story/2026-03-27/riverside-sheriff-seizes-more-ballots-defying-california-officials"
   ],
   [
-    "video",
-    15,
-    "https://www.theguardian.com/uk-news/2026/mar/27/man-jailed-for-assaulting-woman-in-london-attack-witnessed-by-barron-trump"
-  ],
-  [
-    "expected",
-    15,
-    "https://www.theguardian.com/world/2026/mar/27/cuba-aid-boats-missing-en-route-mexico-our-america-convoy"
-  ],
-  [
-    "illinois",
-    15,
-    "https://www.foxnews.com/politics/former-dolton-illinois-super-mayor-pushes-federal-troops-chicago-after-father-shot-neck"
-  ],
-  [
-    "homeland",
+    "global",
     14,
-    "https://www.nytimes.com/video/us/politics/100000010793141/will-ice-change-under-its-new-leader.html"
+    "https://www.nytimes.com/2026/03/27/business/economy/fertilizer-food-supply-iran-war.html"
   ],
   [
-    "crisis",
-    14,
-    "https://www.nytimes.com/2026/03/26/us/politics/trump-iran-talks.html"
-  ],
-  [
-    "star",
-    14,
-    "https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html"
-  ],
-  [
-    "guthrie",
+    "today",
     14,
     "https://www.nytimes.com/2026/03/27/business/media/savannah-guthrie-today.html"
   ],
   [
-    "because",
+    "little",
     14,
-    "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html"
+    "https://www.nytimes.com/2026/03/27/business/media/savannah-guthrie-today.html"
   ],
   [
-    "late",
+    "mother",
     14,
-    "https://www.nytimes.com/2026/03/27/arts/television/late-night-trump-america-first-award.html"
+    "https://www.nytimes.com/2026/03/27/business/media/savannah-guthrie-today.html"
   ],
   [
     "million",
@@ -256,123 +226,153 @@
     "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "hours",
+    "donald",
     14,
-    "https://www.theguardian.com/music/2026/mar/27/slayyyter-worst-girl-in-america-interview"
+    "https://www.theguardian.com/commentisfree/2026/mar/27/trump-national-emergency-elections"
   ],
   [
-    "strait",
+    "fund",
     14,
-    "https://www.theguardian.com/world/2026/mar/27/how-trump-bombed-us-into-worse-position-iran-strategic-failure"
+    "https://www.theguardian.com/us-news/live/2026/mar/27/senate-dhs-shutdown-funding-deal-trump-iran-hormuz-latest-news-updates"
   ],
   [
-    "politics",
+    "mike",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/27/trump-news-latest-updates-today"
+    "https://www.theguardian.com/us-news/live/2026/mar/27/senate-dhs-shutdown-funding-deal-trump-iran-hormuz-latest-news-updates"
   ],
   [
-    "worth",
+    "buying",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/27/minimum-wage-increase-california-new-york"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/27/lessons-from-enoughfluencers-how-to-live-happier-simpler-life"
   ],
   [
-    "hair",
+    "funding",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/mar/24/dyson-airwrap-shark-flexstyle-comparison"
+    "https://www.theguardian.com/society/2026/mar/27/polio-virus-detected-in-london-days-before-ministers-cut-global-eradication-funding"
   ],
   [
-    "prices",
+    "east",
     13,
-    "https://www.nytimes.com/2026/03/27/podcasts/the-headlines/trump-tsa-agents-iran-war-grocery-prices.html"
+    "https://www.nytimes.com/2026/03/27/business/economy/fertilizer-food-supply-iran-war.html"
   ],
   [
-    "family",
+    "weekly",
     13,
-    "https://www.nytimes.com/2026/03/26/us/politics/trump-iran-talks.html"
+    "https://www.nytimes.com/2026/03/27/business/iran-war-stock-market-investors.html"
+  ],
+  [
+    "stop",
+    13,
+    "https://www.nytimes.com/2026/03/27/world/middleeast/iran-war-videos-arrests-uae-gulf-states.html"
+  ],
+  [
+    "latest",
+    13,
+    "https://www.nytimes.com/2026/03/27/us/doj-transgender-prison-housing-california-maine.html"
+  ],
+  [
+    "return",
+    13,
+    "https://www.nytimes.com/2026/03/27/business/media/savannah-guthrie-today.html"
+  ],
+  [
+    "republicans",
+    13,
+    "https://www.nytimes.com/2026/03/27/opinion/republicans-iran-war.html"
+  ],
+  [
+    "growing",
+    13,
+    "https://www.washingtonpost.com/nation/2026/03/27/no-kings-protests-trump-effective/"
+  ],
+  [
+    "pop",
+    13,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
     "start",
     13,
-    "https://www.nytimes.com/2026/03/27/podcasts/the-daily/iran-war-florida-gas-station-prices.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "savannah",
+    "country",
     13,
-    "https://www.nytimes.com/2026/03/27/business/media/savannah-guthrie-today.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "global",
+    "team",
     13,
-    "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "health",
+    "family",
     13,
-    "https://www.nytimes.com/2026/03/26/us/politics/kennedy-vaccines-trump.html"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/27/bernadette-joy-financial-money-advice"
   ],
   [
-    "water",
+    "social",
     13,
-    "https://www.nytimes.com/2026/03/27/world/europe/stranded-whale-germany-baltic-freed.html"
+    "https://www.theguardian.com/wellness/2026/mar/27/hyrox-classes-fitness-social-media"
   ],
   [
-    "morning",
+    "hours",
     13,
-    "https://www.nytimes.com/2026/03/27/world/europe/stranded-whale-germany-baltic-freed.html"
+    "https://www.theguardian.com/business/2026/mar/27/trump-iran-strategy-taco"
+  ],
+  [
+    "film",
+    13,
+    "https://www.theguardian.com/environment/2026/mar/27/scientists-film-whale-giving-birth-other-whales-help-her"
   ],
   [
     "don",
     13,
-    "https://www.theguardian.com/food/2026/mar/27/ready-to-order-10-rules-for-restaurant-diners"
+    "https://www.theguardian.com/commentisfree/2026/mar/27/meta-facebook-us-court-verdicts-david-goliath"
   ],
   [
-    "spring",
+    "something",
     13,
-    "https://www.theguardian.com/music/2026/mar/27/a-broken-heart-can-turn-somebody-into-a-bad-casanova-breakout-rb-star-leon-thomas-on-defiance-dangelo-and-his-doggie-persona"
+    "https://www.theguardian.com/sport/2026/mar/27/george-russell-i-cant-spit-my-dummy-out-over-something-that-i-cant-control"
   ],
   [
-    "hormuz",
+    "games",
     13,
-    "https://www.theguardian.com/world/2026/mar/27/how-trump-bombed-us-into-worse-position-iran-strategic-failure"
+    "https://www.theguardian.com/games/2026/mar/27/retro-rewind-video-rental-retail-sim"
   ],
   [
-    "human",
+    "hair",
     13,
-    "https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/26/cadaver-fat-injections-ask-ugly"
   ],
   [
-    "buying",
+    "cbs",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/mar/27/best-pfas-free-rain-jacket-coat"
+    "https://www.latimes.com/entertainment-arts/business/story/2026-03-24/what-happens-to-knx-other-stations-when-cbs-news-radio-goes-away"
   ],
   [
-    "light",
+    "illinois",
     13,
-    "https://www.theguardian.com/artanddesign/2026/mar/27/african-guernica-dumile-feni-on-display-alongside-picasso"
+    "https://www.politico.com/news/2026/03/19/pritzker-2028-congressional-black-caucus-tensions-00835266"
   ],
   [
-    "funding",
+    "republican",
     12,
-    "https://www.nytimes.com/2026/03/27/podcasts/the-headlines/trump-tsa-agents-iran-war-grocery-prices.html"
+    "https://www.nytimes.com/2026/03/27/us/florida-immigration-desantis-republicans.html"
   ],
   [
-    "helicopter",
+    "middle",
     12,
-    "https://www.nytimes.com/2026/03/27/us/united-airlines-helicopter-california-faa.html"
+    "https://www.nytimes.com/2026/03/27/business/economy/fertilizer-food-supply-iran-war.html"
   ],
   [
-    "american",
+    "course",
     12,
-    "https://www.nytimes.com/2026/03/27/world/europe/europe-trump-sentiment.html"
+    "https://www.nytimes.com/2026/03/27/business/iran-war-stock-market-investors.html"
   ],
   [
-    "return",
+    "officers",
     12,
-    "https://www.nytimes.com/2026/03/27/business/media/savannah-guthrie-today.html"
-  ],
-  [
-    "mother",
-    12,
-    "https://www.nytimes.com/2026/03/27/business/media/savannah-guthrie-today.html"
+    "https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html"
   ]
 ];
