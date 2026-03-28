@@ -2,83 +2,88 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    66,
+    84,
     "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html"
   ],
   [
     "iran",
-    55,
-    "https://www.nytimes.com/2026/03/27/us/politics/strike-us-air-base-injuries.html"
+    77,
+    "https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html"
   ],
   [
     "war",
-    50,
+    49,
+    "https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html"
+  ],
+  [
+    "president",
+    27,
     "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html"
   ],
   [
-    "senate",
-    33,
-    "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
+    "middle",
+    26,
+    "https://www.theguardian.com/world/2026/mar/28/houthi-forces-enter-iran-conflict-with-missile-attacks-on-israeli-military-sites"
+  ],
+  [
+    "israel",
+    25,
+    "https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html"
+  ],
+  [
+    "political",
+    23,
+    "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html"
+  ],
+  [
+    "east",
+    22,
+    "https://www.theguardian.com/world/2026/mar/28/houthi-forces-enter-iran-conflict-with-missile-attacks-on-israeli-military-sites"
   ],
   [
     "dhs",
-    31,
+    22,
     "https://www.theguardian.com/us-news/2026/mar/28/us-house-stopgap-dhs-funding-bill-republicans-senate"
   ],
   [
+    "media",
+    21,
+    "https://www.theguardian.com/media/ng-interactive/2026/mar/28/week-that-brought-big-tech-to-heel-meta-youtube-google-instagram-facebook"
+  ],
+  [
+    "senate",
+    20,
+    "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
+  ],
+  [
     "security",
-    28,
+    20,
     "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
-  ],
-  [
-    "bill",
-    23,
-    "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
-  ],
-  [
-    "little",
-    21,
-    "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html"
-  ],
-  [
-    "early",
-    21,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "because",
-    21,
+    20,
+    "https://www.theguardian.com/commentisfree/2026/mar/28/pete-hegseth-violence-religion-israel-iran"
+  ],
+  [
+    "school",
+    20,
     "https://www.theguardian.com/commentisfree/2026/mar/28/pete-hegseth-violence-religion-israel-iran"
   ],
   [
     "sleep",
-    21,
-    "https://www.theguardian.com/thefilter-us/2026/mar/25/what-readers-bought-march"
-  ],
-  [
-    "military",
     20,
-    "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html"
+    "https://www.theguardian.com/thefilter-us/2026/mar/28/higherdose-infrared-pemf-pro-mat-review"
   ],
   [
-    "political",
-    20,
-    "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html"
-  ],
-  [
-    "department",
+    "party",
     19,
-    "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
+    "https://www.nytimes.com/2026/03/28/us/politics/kaela-berg-minnesota-congress-democrat.html"
   ],
   [
-    "israel",
+    "million",
     19,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "media",
-    19,
-    "https://www.theguardian.com/media/ng-interactive/2026/mar/28/week-that-brought-big-tech-to-heel-meta-youtube-google-instagram-facebook"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
     "video",
@@ -86,34 +91,39 @@
     "https://www.theguardian.com/commentisfree/2026/mar/28/ceo-mcdonalds-gianni-infantino-trump-boss-class"
   ],
   [
-    "hours",
+    "california",
     19,
-    "https://www.theguardian.com/global-development/2026/mar/28/parents-victims-iran-minab-shajareh-tayyebeh-school-bombing-describe-day"
+    "https://www.theguardian.com/commentisfree/2026/mar/27/meta-facebook-us-court-verdicts-david-goliath"
   ],
   [
-    "family",
+    "little",
     18,
-    "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html"
+    "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html"
   ],
   [
-    "million",
+    "military",
     18,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html"
   ],
   [
-    "middle",
+    "crash",
     18,
-    "https://www.theguardian.com/world/live/2026/mar/28/middle-east-crisis-live-iran-war-updates-trump-us-negotiations-israel-strikes-lebanon-tehran-syria-explosions"
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
   ],
   [
-    "east",
+    "don",
     18,
-    "https://www.theguardian.com/world/live/2026/mar/28/middle-east-crisis-live-iran-war-updates-trump-us-negotiations-israel-strikes-lebanon-tehran-syria-explosions"
+    "https://www.theguardian.com/us-news/2026/mar/28/canada-us-border-business-pay-trump-tariffs"
   ],
   [
-    "night",
+    "florida",
     18,
-    "https://www.theguardian.com/world/2026/mar/28/ukraine-war-briefing-rubio-zelenskyy-deal-donbas-to-russia"
+    "https://www.theguardian.com/us-news/2026/mar/28/florida-alligator-alcatraz-attorneys-access-clients"
+  ],
+  [
+    "series",
+    18,
+    "https://www.theguardian.com/us-news/2026/mar/28/democrats-midterm-election-florida"
   ],
   [
     "illinois",
@@ -121,129 +131,104 @@
     "https://www.theguardian.com/sport/2026/mar/28/illinois-alcohol-restrictions-elite-eight-iowa"
   ],
   [
-    "guide",
-    18,
-    "https://www.theguardian.com/world/2026/mar/27/whale-stranded-germany-free-rescue"
+    "department",
+    17,
+    "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
   ],
   [
-    "place",
+    "family",
+    17,
+    "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html"
+  ],
+  [
+    "country",
     17,
     "https://www.nytimes.com/2026/03/27/us/no-kings-protests-cities.html"
   ],
   [
-    "crash",
+    "global",
     17,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "don",
+    "guide",
     17,
-    "https://www.theguardian.com/us-news/2026/mar/28/canada-us-border-business-pay-trump-tariffs"
-  ],
-  [
-    "money",
-    17,
-    "https://www.theguardian.com/us-news/2026/mar/28/us-house-stopgap-dhs-funding-bill-republicans-senate"
-  ],
-  [
-    "tsa",
-    17,
-    "https://www.theguardian.com/us-news/2026/mar/27/trump-executive-order-tsa-payment-dhs"
-  ],
-  [
-    "california",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/mar/27/meta-facebook-us-court-verdicts-david-goliath"
-  ],
-  [
-    "funding",
-    16,
-    "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
-  ],
-  [
-    "crisis",
-    16,
-    "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
+    "https://www.theguardian.com/thefilter-us/2026/mar/28/higherdose-infrared-pemf-pro-mat-review"
   ],
   [
     "kings",
     16,
-    "https://www.nytimes.com/2026/03/28/us/politics/no-kings-protests-trump-organizers.html"
+    "https://www.nytimes.com/2026/03/28/us/no-kings-protest-photos-videos.html"
   ],
   [
-    "global",
+    "early",
     16,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "hours",
+    16,
+    "https://www.theguardian.com/global-development/2026/mar/28/parents-victims-iran-minab-shajareh-tayyebeh-school-bombing-describe-day"
+  ],
+  [
+    "money",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/28/us-house-stopgap-dhs-funding-bill-republicans-senate"
+  ],
+  [
+    "star",
+    16,
+    "https://www.theguardian.com/sport/2026/mar/28/ilia-malinin-third-world-title-redemption-olympic-collapse"
+  ],
+  [
+    "county",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/27/fulton-county-fbi-ballot-seizures-election-2020"
+  ],
+  [
+    "protests",
+    15,
+    "https://www.nytimes.com/2026/03/28/us/no-kings-protest-photos-videos.html"
+  ],
+  [
+    "team",
+    15,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "secretary",
+    15,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "book",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/mar/28/pete-hegseth-violence-religion-israel-iran"
   ],
   [
     "black",
-    16,
+    15,
     "https://www.theguardian.com/music/2026/mar/27/robyn-swedish-musician-pop-maverick-sex-dating-ivf"
   ],
   [
     "social",
-    16,
-    "https://www.theguardian.com/media/ng-interactive/2026/mar/28/week-that-brought-big-tech-to-heel-meta-youtube-google-instagram-facebook"
-  ],
-  [
-    "email",
-    16,
-    "https://www.theguardian.com/us-news/2026/mar/27/trump-executive-order-tsa-payment-dhs"
-  ],
-  [
-    "inbox",
-    16,
-    "https://www.theguardian.com/us-news/2026/mar/27/trump-executive-order-tsa-payment-dhs"
-  ],
-  [
-    "love",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/28/stephen-colbert-lord-of-the-rings"
-  ],
-  [
-    "games",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/28/stephen-colbert-lord-of-the-rings"
-  ],
-  [
-    "fund",
-    15,
-    "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
-  ],
-  [
-    "homeland",
-    15,
-    "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
-  ],
-  [
-    "passed",
-    15,
-    "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
-  ],
-  [
-    "officers",
-    15,
-    "https://www.nytimes.com/2026/03/27/us/politics/hegseth-generals-promotion.html"
-  ],
-  [
-    "late",
-    15,
-    "https://www.washingtonpost.com/obituaries/2026/03/28/rick-young-rodeo-clown-dead/"
-  ],
-  [
-    "court",
     15,
     "https://www.theguardian.com/media/ng-interactive/2026/mar/28/week-that-brought-big-tech-to-heel-meta-youtube-google-instagram-facebook"
   ],
   [
-    "president",
-    14,
-    "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html"
+    "food",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/28/blind-date-adam-tina"
   ],
   [
-    "attack",
+    "woods",
+    15,
+    "https://www.theguardian.com/sport/2026/mar/27/tiger-woods-rollover-crash-florida-jupiter-island"
+  ],
+  [
+    "funding",
     14,
-    "https://www.nytimes.com/2026/03/27/us/politics/strike-us-air-base-injuries.html"
+    "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
   ],
   [
     "republicans",
@@ -251,24 +236,19 @@
     "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
   ],
   [
-    "secretary",
-    14,
-    "https://www.nytimes.com/2026/03/27/us/politics/hegseth-generals-promotion.html"
-  ],
-  [
-    "country",
+    "administration",
     14,
     "https://www.nytimes.com/2026/03/27/us/no-kings-protests-cities.html"
   ],
   [
-    "online",
+    "love",
     14,
-    "https://www.nytimes.com/2026/03/27/world/europe/collien-fernandes-deepfake-online-abuse.html"
+    "https://www.nytimes.com/2026/03/28/opinion/love-story-kennedy-bessette-jackie-ethel.html"
   ],
   [
-    "young",
+    "really",
     14,
-    "https://www.washingtonpost.com/obituaries/2026/03/28/rick-young-rodeo-clown-dead/"
+    "https://www.nytimes.com/2026/03/28/opinion/love-story-kennedy-bessette-jackie-ethel.html"
   ],
   [
     "pop",
@@ -276,64 +256,39 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "london",
+    "email",
     14,
-    "https://www.theguardian.com/commentisfree/2026/mar/28/pete-hegseth-violence-religion-israel-iran"
+    "https://www.theguardian.com/us-news/2026/mar/28/treasury-department-financial-times-federal-reserve"
   ],
   [
-    "book",
+    "night",
     14,
-    "https://www.theguardian.com/commentisfree/2026/mar/28/pete-hegseth-violence-religion-israel-iran"
+    "https://www.theguardian.com/world/2026/mar/28/ukraine-war-briefing-rubio-zelenskyy-deal-donbas-to-russia"
   ],
   [
-    "industry",
+    "buying",
     14,
-    "https://www.theguardian.com/music/2026/mar/27/robyn-swedish-musician-pop-maverick-sex-dating-ivf"
+    "https://www.theguardian.com/thefilter-us/2026/mar/28/higherdose-infrared-pemf-pro-mat-review"
   ],
   [
-    "star",
-    14,
-    "https://www.theguardian.com/sport/2026/mar/28/aliya-sure-sports-lawsuit-xavier-mckinney"
-  ],
-  [
-    "county",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/27/fulton-county-fbi-ballot-seizures-election-2020"
-  ],
-  [
-    "health",
-    14,
-    "https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms"
-  ],
-  [
-    "service",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/28/stephen-colbert-lord-of-the-rings"
-  ],
-  [
-    "woods",
-    14,
-    "https://www.theguardian.com/sport/2026/mar/27/tiger-woods-rollover-crash-florida-jupiter-island"
-  ],
-  [
-    "gop",
-    14,
-    "https://www.latimes.com/california/story/2026-03-27/riverside-sheriff-seizes-more-ballots-defying-california-officials"
-  ],
-  [
-    "saudi",
+    "having",
     13,
-    "https://www.nytimes.com/2026/03/27/us/politics/strike-us-air-base-injuries.html"
+    "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html"
   ],
   [
-    "shutdown",
+    "online",
     13,
-    "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
+    "https://www.nytimes.com/2026/03/27/world/europe/collien-fernandes-deepfake-online-abuse.html"
   ],
   [
-    "prices",
+    "young",
     13,
-    "https://www.nytimes.com/2026/03/28/upshot/iran-war-trump-popularity.html"
+    "https://www.washingtonpost.com/obituaries/2026/03/28/rick-young-rodeo-clown-dead/"
+  ],
+  [
+    "released",
+    13,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "workers",
@@ -341,38 +296,83 @@
     "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "several",
+    "court",
     13,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.theguardian.com/media/ng-interactive/2026/mar/28/week-that-brought-big-tech-to-heel-meta-youtube-google-instagram-facebook"
   ],
   [
-    "team",
+    "budget",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/commentisfree/2026/mar/28/ceo-mcdonalds-gianni-infantino-trump-boss-class"
   ],
   [
-    "international",
+    "together",
     13,
-    "https://www.theguardian.com/commentisfree/2026/mar/28/pete-hegseth-violence-religion-israel-iran"
-  ],
-  [
-    "school",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/mar/28/pete-hegseth-violence-religion-israel-iran"
-  ],
-  [
-    "really",
-    13,
-    "https://www.theguardian.com/music/2026/mar/27/robyn-swedish-musician-pop-maverick-sex-dating-ivf"
-  ],
-  [
-    "breaking",
-    13,
-    "https://www.theguardian.com/us-news/2026/mar/27/trump-executive-order-tsa-payment-dhs"
+    "https://www.theguardian.com/world/2026/mar/28/houthi-forces-enter-iran-conflict-with-missile-attacks-on-israeli-military-sites"
   ],
   [
     "far",
     13,
     "https://www.theguardian.com/uk-news/live/2026/mar/28/london-protest-march-together-alliance-against-the-far-right-latest-news-updates"
+  ],
+  [
+    "spring",
+    13,
+    "https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms"
+  ],
+  [
+    "games",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/28/stephen-colbert-lord-of-the-rings"
+  ],
+  [
+    "hair",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/mar/24/dyson-airwrap-shark-flexstyle-comparison"
+  ],
+  [
+    "crisis",
+    12,
+    "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html"
+  ],
+  [
+    "place",
+    12,
+    "https://www.nytimes.com/2026/03/27/us/no-kings-protests-cities.html"
+  ],
+  [
+    "late",
+    12,
+    "https://www.washingtonpost.com/obituaries/2026/03/28/rick-young-rodeo-clown-dead/"
+  ],
+  [
+    "saudi",
+    12,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "international",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/mar/28/pete-hegseth-violence-religion-israel-iran"
+  ],
+  [
+    "london",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/mar/28/pete-hegseth-violence-religion-israel-iran"
+  ],
+  [
+    "industry",
+    12,
+    "https://www.theguardian.com/music/2026/mar/27/robyn-swedish-musician-pop-maverick-sex-dating-ivf"
+  ],
+  [
+    "market",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/mar/28/ceo-mcdonalds-gianni-infantino-trump-boss-class"
+  ],
+  [
+    "district",
+    12,
+    "https://www.theguardian.com/us-news/2026/mar/28/florida-alligator-alcatraz-attorneys-access-clients"
   ]
 ];
