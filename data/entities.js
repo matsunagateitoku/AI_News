@@ -3,7 +3,7 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 29,
+      "count": 31,
       "url": "https://www.theguardian.com/commentisfree/2026/mar/27/trump-national-emergency-elections",
       "source": "The Guardian"
     },
@@ -14,14 +14,8 @@
       "source": "The Guardian"
     },
     {
-      "name": "Marco Rubio",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
-      "source": "Wall St. Journal"
-    },
-    {
       "name": "Mike Johnson",
-      "count": 8,
+      "count": 10,
       "url": "https://www.cbsnews.com/video/shutdown-fight-escalates-as-johnson-calls-bipartisan-senate-deal-detestable/",
       "source": "CBS News"
     },
@@ -39,8 +33,14 @@
     },
     {
       "name": "Hormuz",
-      "count": 5,
+      "count": 6,
       "url": "https://www.theguardian.com/world/2026/mar/27/how-trump-bombed-us-into-worse-position-iran-strategic-failure",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Marco Rubio     Thailand",
+      "count": 6,
+      "url": "https://www.theguardian.com/world/live/2026/mar/28/middle-east-crisis-live-iran-war-updates-trump-us-negotiations-israel-strikes-lebanon-tehran-syria-explosions",
       "source": "The Guardian"
     },
     {
@@ -50,28 +50,34 @@
       "source": "The Guardian"
     },
     {
-      "name": "Baz Luhrmann",
+      "name": "Jill Biden",
       "count": 5,
-      "url": "https://www.theguardian.com/film/2026/mar/26/william-shakespeares-romeo-juliet-review-baz-luhrmann-leonardo-dicaprio-claire-danes",
+      "url": "https://www.theguardian.com/us-news/2026/mar/27/jill-biden-secret-service",
       "source": "The Guardian"
     },
     {
-      "name": "Paul Mccartney",
+      "name": "Baz Luhrmann",
       "count": 5,
-      "url": "https://www.theguardian.com/music/2026/mar/26/paul-mccartney-days-we-left-behind-review-boys-dungeon-lane",
+      "url": "https://www.theguardian.com/film/2026/mar/26/william-shakespeares-romeo-juliet-review-baz-luhrmann-leonardo-dicaprio-claire-danes",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/03/27/magazine/iran-war-energy-climate-change.html",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/03/27/opinion/ezra-klein-podcast-christopher-caldwell.html",
       "source": "NY Times"
     },
     {
+      "name": "The Elite Eight",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/mar/27/ncaa-sweet-sixteen-scores-recaps",
+      "source": "The Guardian"
+    },
+    {
       "name": "The World Cup",
-      "count": 3,
+      "count": 2,
       "url": "https://www.theguardian.com/football/2026/mar/27/usmnt-midfield-pochettino-world-cup-squad",
       "source": "The Guardian"
     },
@@ -80,12 +86,6 @@
       "count": 2,
       "url": "https://www.theguardian.com/global-development/2026/mar/27/natural-disaster-emergencies-heighten-risk-women",
       "source": "The Guardian"
-    },
-    {
-      "name": "World Series",
-      "count": 2,
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-03-27/dodgers-andy-pages-primed-for-breakout-season",
-      "source": "LA Times"
     },
     {
       "name": "Olympics",
@@ -100,9 +100,9 @@
       "source": "NY Times"
     },
     {
-      "name": "The Elite Eight",
+      "name": "Series",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/mar/27/ncaa-sweet-sixteen-scores-recaps",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/27/love-story-disney-plus-most-streamed-drama-ever-jfk-jr",
       "source": "The Guardian"
     },
     {
@@ -127,38 +127,38 @@
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 56,
+      "count": 47,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Senate",
-      "count": 35,
-      "url": "https://www.theguardian.com/us-news/2026/mar/27/us-senate-passes-funding-package-for-homeland-security-excludes-ice",
-      "source": "The Guardian"
-    },
-    {
       "name": "House Judiciary Committee",
-      "count": 29,
+      "count": 34,
       "url": "https://thehill.com/newsletters/health-care/5805266-house-judiciary-resident-matching-monopoly/",
       "source": "The Hill"
     },
     {
-      "name": "Ai Security Institute",
-      "count": 16,
-      "url": "https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dhs",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/mar/27/us-senate-passes-funding-package-for-homeland-security-excludes-ice",
-      "source": "The Guardian"
+      "name": "Senate",
+      "count": 33,
+      "url": "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html",
+      "source": "NY Times"
     },
     {
       "name": "The Department Of Homeland Security",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Dhs",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/mar/27/trump-executive-order-tsa-payment-dhs",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tsa",
       "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/mar/27/us-senate-passes-funding-package-for-homeland-security-excludes-ice",
+      "url": "https://www.theguardian.com/us-news/2026/mar/27/trump-executive-order-tsa-payment-dhs",
       "source": "The Guardian"
     },
     {
@@ -166,12 +166,6 @@
       "count": 14,
       "url": "https://www.latimes.com/california/story/2026-03-27/riverside-sheriff-seizes-more-ballots-defying-california-officials",
       "source": "LA Times"
-    },
-    {
-      "name": "The White House",
-      "count": 13,
-      "url": "https://www.theguardian.com/business/2026/mar/27/trump-iran-strategy-taco",
-      "source": "The Guardian"
     },
     {
       "name": "Breaking News",
@@ -184,61 +178,67 @@
       "count": 12,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 10,
+      "url": "https://www.foxnews.com/politics/white-house-slams-trash-reporting-over-claims-ice-chief-hospitalized-stress-yelled-trump-admin",
+      "source": "Fox News"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 85,
+      "count": 81,
       "url": "https://www.theguardian.com/commentisfree/2026/mar/27/trump-national-emergency-elections",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 70,
+      "count": 63,
+      "url": "https://www.nytimes.com/2026/03/27/us/antitank-mines-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 29,
       "url": "https://www.nytimes.com/2026/03/27/us/antitank-mines-iran.html",
       "source": "NY Times"
     },
     {
       "name": "Florida",
-      "count": 29,
+      "count": 24,
       "url": "https://www.nytimes.com/2026/03/27/us/florida-immigration-desantis-republicans.html",
       "source": "NY Times"
     },
     {
-      "name": "U.S.",
-      "count": 28,
-      "url": "https://www.nytimes.com/2026/03/27/us/antitank-mines-iran.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/mar/27/united-plane-california-military-helicopter",
-      "source": "The Guardian"
-    },
-    {
       "name": "Israel",
-      "count": 16,
+      "count": 17,
       "url": "https://www.nytimes.com/2026/03/27/us/politics/elsayed-piker-michigan-rally-backlash.html",
       "source": "NY Times"
     },
     {
-      "name": "L.A. County",
-      "count": 15,
-      "url": "https://www.latimes.com/environment/story/2026-03-22/la-mosquitoes-sterile-male-releases-los-angeles-county-funding",
-      "source": "LA Times"
+      "name": "California",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/mar/27/united-plane-california-military-helicopter",
+      "source": "The Guardian"
     },
     {
-      "name": "New York City Ballet Pulls",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/03/27/arts/dance/kennedy-center-new-york-city-ballet.html",
-      "source": "NY Times"
+      "name": "L.A.",
+      "count": 14,
+      "url": "https://www.latimes.com/california/story/2026-03-26/inspiring-infuriating-even-comic-tale-of-how-we-defeated-l-a-s-smog-why-we-may-have-to-again",
+      "source": "LA Times"
     },
     {
       "name": "Ukraine",
       "count": 11,
       "url": "https://www.theguardian.com/world/2026/mar/28/ukraine-war-briefing-rubio-zelenskyy-deal-donbas-to-russia",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Los Angeles",
+      "count": 11,
+      "url": "https://www.theguardian.com/media/ng-interactive/2026/mar/28/week-that-brought-big-tech-to-heel-meta-youtube-google-instagram-facebook",
       "source": "The Guardian"
     },
     {
@@ -248,5 +248,5 @@
       "source": "Politico"
     }
   ],
-  "updated": "2026-03-28T03:39:19Z"
+  "updated": "2026-03-28T07:48:14Z"
 };
