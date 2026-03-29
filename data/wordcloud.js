@@ -2,17 +2,17 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "iran",
-    82,
-    "https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html"
+    81,
+    "https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html"
   ],
   [
     "trump",
-    72,
-    "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html"
+    69,
+    "https://www.nytimes.com/2026/03/28/us/no-kings-trump-iran-immigration-minnesota.html"
   ],
   [
     "war",
-    68,
+    63,
     "https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html"
   ],
   [
@@ -22,13 +22,13 @@
   ],
   [
     "kings",
-    27,
+    29,
     "https://www.nytimes.com/2026/03/28/us/no-kings-trump-iran-immigration-minnesota.html"
   ],
   [
     "middle",
     27,
-    "https://www.theguardian.com/world/2026/mar/28/houthi-forces-enter-iran-conflict-with-missile-attacks-on-israeli-military-sites"
+    "https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html"
   ],
   [
     "security",
@@ -36,19 +36,44 @@
     "https://www.nytimes.com/2026/03/28/us/gop-rift-leaves-no-clear-shutdown-off-ramp.html"
   ],
   [
-    "president",
+    "east",
     25,
-    "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html"
+    "https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html"
   ],
   [
-    "east",
+    "don",
+    25,
+    "https://www.theguardian.com/us-news/2026/mar/28/canada-us-border-business-pay-trump-tariffs"
+  ],
+  [
+    "israel",
     24,
-    "https://www.theguardian.com/world/2026/mar/28/houthi-forces-enter-iran-conflict-with-missile-attacks-on-israeli-military-sites"
+    "https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html"
+  ],
+  [
+    "president",
+    24,
+    "https://www.nytimes.com/2026/03/28/us/no-kings-protest-photos-videos.html"
   ],
   [
     "california",
+    24,
+    "https://www.theguardian.com/books/2026/mar/29/daughter-interview-deborah-green-cult-aggresive-christianity-missions-training-corps-free-love-ministries"
+  ],
+  [
+    "dhs",
+    24,
+    "https://www.theguardian.com/us-news/2026/mar/28/us-house-stopgap-dhs-funding-bill-republicans-senate"
+  ],
+  [
+    "final",
     23,
-    "https://www.theguardian.com/commentisfree/2026/mar/27/meta-facebook-us-court-verdicts-david-goliath"
+    "https://www.theguardian.com/sport/2026/mar/28/elite-eight-scores-illinois-iowa-arizona-purdue"
+  ],
+  [
+    "country",
+    22,
+    "https://www.nytimes.com/2026/03/28/us/no-kings-trump-iran-immigration-minnesota.html"
   ],
   [
     "political",
@@ -62,43 +87,8 @@
   ],
   [
     "russia",
-    22,
+    20,
     "https://www.nytimes.com/2026/03/28/world/europe/russia-economy-small-business-tax-increase.html"
-  ],
-  [
-    "dhs",
-    22,
-    "https://www.theguardian.com/us-news/2026/mar/28/us-house-stopgap-dhs-funding-bill-republicans-senate"
-  ],
-  [
-    "final",
-    22,
-    "https://www.theguardian.com/sport/2026/mar/28/elite-eight-scores-illinois-iowa-arizona-purdue"
-  ],
-  [
-    "israel",
-    21,
-    "https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html"
-  ],
-  [
-    "don",
-    21,
-    "https://www.theguardian.com/us-news/2026/mar/28/canada-us-border-business-pay-trump-tariffs"
-  ],
-  [
-    "country",
-    20,
-    "https://www.nytimes.com/2026/03/28/us/no-kings-trump-iran-immigration-minnesota.html"
-  ],
-  [
-    "million",
-    20,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "video",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/mar/28/ceo-mcdonalds-gianni-infantino-trump-boss-class"
   ],
   [
     "sleep",
@@ -106,9 +96,14 @@
     "https://www.theguardian.com/thefilter-us/2026/mar/28/higherdose-infrared-pemf-pro-mat-review"
   ],
   [
-    "protests",
+    "million",
     18,
-    "https://www.nytimes.com/2026/03/28/us/no-kings-trump-iran-immigration-minnesota.html"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "early",
+    18,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "media",
@@ -116,24 +111,34 @@
     "https://www.theguardian.com/media/ng-interactive/2026/mar/28/week-that-brought-big-tech-to-heel-meta-youtube-google-instagram-facebook"
   ],
   [
+    "funding",
+    18,
+    "https://www.theguardian.com/us-news/2026/mar/28/us-house-stopgap-dhs-funding-bill-republicans-senate"
+  ],
+  [
+    "video",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/mar/27/meta-facebook-us-court-verdicts-david-goliath"
+  ],
+  [
     "illinois",
     18,
     "https://www.theguardian.com/sport/2026/mar/28/elite-eight-scores-illinois-iowa-arizona-purdue"
   ],
   [
-    "early",
+    "family",
     17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.washingtonpost.com/nation/2026/03/27/cheesesteak-philadelphia-pats-king-of-steaks/"
   ],
   [
-    "because",
+    "zelenskyy",
     17,
-    "https://www.theguardian.com/commentisfree/2026/mar/28/pete-hegseth-violence-religion-israel-iran"
+    "https://www.theguardian.com/world/2026/mar/28/ukraine-war-briefing-rubio-zelenskyy-deal-donbas-to-russia"
   ],
   [
-    "conflict",
+    "government",
     17,
-    "https://www.theguardian.com/world/2026/mar/28/houthi-forces-enter-iran-conflict-with-missile-attacks-on-israeli-military-sites"
+    "https://www.theguardian.com/world/2026/mar/29/ukraine-war-briefing-zelenskyy-drums-up-defence-agreements-with-gulf-states-on-countering-missiles-and-drones"
   ],
   [
     "guide",
@@ -141,9 +146,9 @@
     "https://www.theguardian.com/thefilter-us/2026/mar/28/higherdose-infrared-pemf-pro-mat-review"
   ],
   [
-    "little",
+    "protests",
     16,
-    "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html"
+    "https://www.nytimes.com/2026/03/28/us/no-kings-trump-iran-immigration-minnesota.html"
   ],
   [
     "administration",
@@ -151,29 +156,14 @@
     "https://www.nytimes.com/2026/03/28/us/politics/trump-fbi-patel-eric-swalwell.html"
   ],
   [
-    "late",
+    "because",
     16,
-    "https://www.nytimes.com/2026/03/28/us/tsa-employees-airports-wait-times.html"
+    "https://www.theguardian.com/books/2026/mar/29/daughter-interview-deborah-green-cult-aggresive-christianity-missions-training-corps-free-love-ministries"
   ],
   [
-    "secretary",
+    "little",
     16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "hours",
-    16,
-    "https://www.theguardian.com/global-development/2026/mar/28/parents-victims-iran-minab-shajareh-tayyebeh-school-bombing-describe-day"
-  ],
-  [
-    "florida",
-    16,
-    "https://www.theguardian.com/us-news/2026/mar/28/florida-alligator-alcatraz-attorneys-access-clients"
-  ],
-  [
-    "funding",
-    16,
-    "https://www.theguardian.com/us-news/2026/mar/28/us-house-stopgap-dhs-funding-bill-republicans-senate"
+    "https://www.theguardian.com/books/2026/mar/29/daughter-interview-deborah-green-cult-aggresive-christianity-missions-training-corps-free-love-ministries"
   ],
   [
     "senate",
@@ -181,19 +171,9 @@
     "https://www.theguardian.com/us-news/2026/mar/28/us-house-stopgap-dhs-funding-bill-republicans-senate"
   ],
   [
-    "far",
-    16,
-    "https://www.theguardian.com/uk-news/2026/mar/28/london-far-right-march-biggest-ever-multicultural-protest"
-  ],
-  [
-    "zelenskyy",
+    "night",
     16,
     "https://www.theguardian.com/world/2026/mar/28/ukraine-war-briefing-rubio-zelenskyy-deal-donbas-to-russia"
-  ],
-  [
-    "series",
-    16,
-    "https://www.theguardian.com/us-news/2026/mar/28/democrats-midterm-election-florida"
   ],
   [
     "spring",
@@ -201,9 +181,19 @@
     "https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms"
   ],
   [
-    "family",
+    "florida",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/28/democrats-midterm-election-florida"
+  ],
+  [
+    "late",
     15,
-    "https://www.washingtonpost.com/nation/2026/03/27/cheesesteak-philadelphia-pats-king-of-steaks/"
+    "https://www.nytimes.com/2026/03/28/us/tsa-employees-airports-wait-times.html"
+  ],
+  [
+    "place",
+    15,
+    "https://www.washingtonpost.com/nation/2026/03/28/no-kings-protests-marches-record-turnout/"
   ],
   [
     "book",
@@ -211,14 +201,19 @@
     "https://www.theguardian.com/commentisfree/2026/mar/28/pete-hegseth-violence-religion-israel-iran"
   ],
   [
-    "night",
+    "hours",
     15,
-    "https://www.theguardian.com/world/2026/mar/28/ukraine-war-briefing-rubio-zelenskyy-deal-donbas-to-russia"
+    "https://www.theguardian.com/us-news/2026/mar/28/as-us-troops-sail-to-middle-east-how-likely-is-trump-to-order-boots-on-the-ground"
   ],
   [
-    "star",
+    "series",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/28/moment-knew-adelaide-fringe-dancefloor"
+    "https://www.theguardian.com/us-news/2026/mar/28/democrats-midterm-election-florida"
+  ],
+  [
+    "enough",
+    14,
+    "https://www.nytimes.com/2026/03/28/us/politics/no-kings-protests-trump-organizers.html"
   ],
   [
     "homeland",
@@ -226,39 +221,49 @@
     "https://www.nytimes.com/2026/03/28/us/gop-rift-leaves-no-clear-shutdown-off-ramp.html"
   ],
   [
+    "support",
+    14,
+    "https://www.nytimes.com/2026/03/28/us/politics/vance-rubio-cpac-straw-poll.html"
+  ],
+  [
+    "young",
+    14,
+    "https://www.washingtonpost.com/obituaries/2026/03/28/rick-young-rodeo-clown-dead/"
+  ],
+  [
+    "secretary",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "online",
+    14,
+    "https://www.theguardian.com/news/ng-interactive/2026/mar/29/onlyfans-owners-leonid-radvinsky-death-porn-money-making-machine"
+  ],
+  [
     "love",
     14,
-    "https://www.nytimes.com/2026/03/28/opinion/love-story-kennedy-bessette-jackie-ethel.html"
+    "https://www.theguardian.com/books/2026/mar/29/daughter-interview-deborah-green-cult-aggresive-christianity-missions-training-corps-free-love-ministries"
   ],
   [
-    "really",
+    "social",
     14,
-    "https://www.nytimes.com/2026/03/28/opinion/love-story-kennedy-bessette-jackie-ethel.html"
+    "https://www.theguardian.com/media/ng-interactive/2026/mar/28/week-that-brought-big-tech-to-heel-meta-youtube-google-instagram-facebook"
   ],
   [
-    "place",
+    "court",
     14,
-    "https://www.washingtonpost.com/nation/2026/03/28/no-kings-protests-marches-record-turnout/"
+    "https://www.theguardian.com/media/ng-interactive/2026/mar/28/week-that-brought-big-tech-to-heel-meta-youtube-google-instagram-facebook"
   ],
   [
-    "pop",
+    "far",
     14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.theguardian.com/uk-news/2026/mar/28/london-far-right-march-biggest-ever-multicultural-protest"
   ],
   [
-    "crash",
+    "living",
     14,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
-  ],
-  [
-    "black",
-    14,
-    "https://www.theguardian.com/music/2026/mar/27/robyn-swedish-musician-pop-maverick-sex-dating-ivf"
-  ],
-  [
-    "together",
-    14,
-    "https://www.theguardian.com/world/2026/mar/28/houthi-forces-enter-iran-conflict-with-missile-attacks-on-israeli-military-sites"
+    "https://www.theguardian.com/us-news/2026/mar/29/trump-news-at-a-glance-no-kings-rallies-draw-millions-to-us-streets-in-protest-against-president"
   ],
   [
     "buying",
@@ -276,9 +281,14 @@
     "https://www.theguardian.com/football/2026/mar/28/running-on-empty-premier-league-teams-falter-under-weight-of-endless-schedule"
   ],
   [
-    "military",
-    13,
-    "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html"
+    "star",
+    14,
+    "https://www.theguardian.com/sport/2026/mar/28/ilia-malinin-third-world-title-redemption-olympic-collapse"
+  ],
+  [
+    "conflict",
+    14,
+    "https://www.theguardian.com/world/2026/mar/16/fuel-price-increases-we-would-like-to-hear-from-you"
   ],
   [
     "protest",
@@ -286,19 +296,19 @@
     "https://www.nytimes.com/2026/03/28/us/no-kings-protest-photos-videos.html"
   ],
   [
-    "states",
+    "shutdown",
     13,
-    "https://www.nytimes.com/2026/03/28/us/no-kings-protest-photos-videos.html"
-  ],
-  [
-    "enough",
-    13,
-    "https://www.nytimes.com/2026/03/28/us/politics/no-kings-protests-trump-organizers.html"
+    "https://www.nytimes.com/2026/03/28/us/gop-rift-leaves-no-clear-shutdown-off-ramp.html"
   ],
   [
     "cpac",
     13,
     "https://www.nytimes.com/2026/03/28/us/politics/vance-rubio-cpac-straw-poll.html"
+  ],
+  [
+    "attack",
+    13,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
     "campaign",
@@ -316,34 +326,29 @@
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
+    "food",
+    13,
+    "https://www.theguardian.com/books/2026/mar/29/daughter-interview-deborah-green-cult-aggresive-christianity-missions-training-corps-free-love-ministries"
+  ],
+  [
     "party",
     13,
     "https://www.theguardian.com/us-news/2026/mar/28/canada-us-border-business-pay-trump-tariffs"
   ],
   [
-    "school",
+    "really",
     13,
-    "https://www.theguardian.com/commentisfree/2026/mar/28/pete-hegseth-violence-religion-israel-iran"
+    "https://www.theguardian.com/music/2026/mar/27/robyn-swedish-musician-pop-maverick-sex-dating-ivf"
   ],
   [
-    "social",
+    "history",
     13,
-    "https://www.theguardian.com/media/ng-interactive/2026/mar/28/week-that-brought-big-tech-to-heel-meta-youtube-google-instagram-facebook"
+    "https://www.theguardian.com/us-news/2026/mar/28/no-kings-protests-trump"
   ],
   [
-    "living",
+    "sports",
     13,
-    "https://www.theguardian.com/us-news/2026/mar/29/trump-news-at-a-glance-no-kings-rallies-draw-millions-to-us-streets-in-protest-against-president"
-  ],
-  [
-    "democrats",
-    13,
-    "https://www.theguardian.com/us-news/2026/mar/28/democrats-midterm-election-florida"
-  ],
-  [
-    "government",
-    13,
-    "https://www.theguardian.com/world/2026/mar/29/ukraine-war-briefing-zelenskyy-drums-up-defence-agreements-with-gulf-states-on-countering-missiles-and-drones"
+    "https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions"
   ],
   [
     "return",
@@ -351,9 +356,9 @@
     "https://www.theguardian.com/world/2026/mar/29/ukraine-war-briefing-zelenskyy-drums-up-defence-agreements-with-gulf-states-on-countering-missiles-and-drones"
   ],
   [
-    "sports",
-    13,
-    "https://www.theguardian.com/sport/2026/mar/28/aliya-sure-sports-lawsuit-xavier-mckinney"
+    "states",
+    12,
+    "https://www.nytimes.com/2026/03/28/us/no-kings-protest-photos-videos.html"
   ],
   [
     "republican",
@@ -366,13 +371,8 @@
     "https://www.nytimes.com/2026/03/28/upshot/iran-war-trump-popularity.html"
   ],
   [
-    "young",
+    "loss",
     12,
-    "https://www.washingtonpost.com/obituaries/2026/03/28/rick-young-rodeo-clown-dead/"
-  ],
-  [
-    "york",
-    12,
-    "https://www.washingtonpost.com/nation/2026/03/27/new-york-trash-cleanup-groups/"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ]
 ];
