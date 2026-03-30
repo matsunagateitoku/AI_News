@@ -2,68 +2,83 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    75,
-    "https://www.nytimes.com/2026/03/29/us/politics/no-kings-rallies-takeaways.html"
+    86,
+    "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html"
   ],
   [
     "iran",
-    69,
-    "https://www.nytimes.com/2026/03/29/us/politics/no-kings-rallies-takeaways.html"
+    76,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/29/how-to-end-the-iran-war"
   ],
   [
     "war",
-    62,
-    "https://www.nytimes.com/2026/03/29/us/politics/no-kings-rallies-takeaways.html"
+    59,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "oil",
+    38,
+    "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html"
+  ],
+  [
+    "final",
+    34,
+    "https://www.theguardian.com/sport/2026/mar/29/ncaa-tournament-elite-eight-scores-college-basketball"
   ],
   [
     "president",
-    27,
-    "https://www.nytimes.com/2026/03/29/us/politics/no-kings-rallies-takeaways.html"
-  ],
-  [
-    "california",
-    25,
-    "https://www.nytimes.com/2026/03/29/us/cesar-chavez-la-paz.html"
-  ],
-  [
-    "administration",
-    25,
-    "https://www.washingtonpost.com/nation/2026/03/28/no-kings-protests-marches-record-turnout/"
+    33,
+    "https://www.nytimes.com/2026/03/30/world/africa/he-led-congo-for-18-years-now-hes-a-hunted-man.html"
   ],
   [
     "israel",
-    25,
+    28,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "nation",
-    25,
-    "https://www.theguardian.com/thefilter-us/2026/mar/29/best-spring-cleaning-supplies"
+    "ground",
+    24,
+    "https://www.theguardian.com/world/live/2026/mar/30/iran-war-live-updates-trump-oil-kharg-island-houthis-israel-lebanon-middle-east"
   ],
   [
-    "ground",
-    22,
-    "https://www.theguardian.com/world/2026/mar/29/iran-accuses-us-plotting-ground-assault-publicly-seeking-talks"
+    "east",
+    23,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/29/how-to-end-the-iran-war"
   ],
   [
     "political",
+    22,
+    "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html"
+  ],
+  [
+    "middle",
+    22,
+    "https://www.theguardian.com/us-news/2026/mar/29/mars-college-california-campus"
+  ],
+  [
+    "military",
     21,
-    "https://www.nytimes.com/2026/03/29/world/americas/canada-new-democrats-party-leader-avi-lewis.html"
+    "https://www.nytimes.com/2026/03/29/world/middleeast/us-precision-strike-missile-iran-lamerd.html"
   ],
   [
-    "media",
+    "games",
     21,
-    "https://www.theguardian.com/sport/2026/mar/29/tiger-woods-pga-tour-golf-ryder-cup-dui"
+    "https://www.nytimes.com/2026/03/29/technology/chromebook-remorse-kansas-school-laptops.html"
   ],
   [
-    "social",
+    "administration",
     20,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/29/no-kings-protest-next-steps-activism"
+    "https://www.nytimes.com/2026/03/29/business/trump-artificial-intelligence-pac-midterms.html"
   ],
   [
-    "dhs",
+    "california",
     20,
-    "https://www.theguardian.com/us-news/2026/mar/29/dhs-longest-partial-government-shutdown"
+    "https://www.theguardian.com/us-news/2026/mar/29/la-county-sheriff-deputy-death-relay-race"
+  ],
+  [
+    "ukraine",
+    20,
+    "https://www.theguardian.com/world/2026/mar/30/ukraine-war-briefing-german-defence-giant-sparks-row-after-comparing-ukraine-drone-makers-to-housewives"
   ],
   [
     "sleep",
@@ -71,119 +86,119 @@
     "https://www.theguardian.com/thefilter-us/2026/mar/25/what-readers-bought-march"
   ],
   [
-    "middle",
-    19,
-    "https://www.nytimes.com/2026/03/29/us/politics/us-marines-middle-east-iran-war.html"
-  ],
-  [
-    "games",
-    19,
-    "https://www.theguardian.com/football/2026/mar/29/igor-tudor-leaves-tottenham-after-44-days-with-club-mired-in-relegation-troubled"
-  ],
-  [
-    "margaret",
-    19,
-    "https://www.cbsnews.com/news/face-the-nation-full-transcript-03-29-2026/"
-  ],
-  [
-    "brennan",
-    19,
-    "https://www.cbsnews.com/news/face-the-nation-full-transcript-03-29-2026/"
-  ],
-  [
-    "east",
-    18,
-    "https://www.nytimes.com/2026/03/29/us/politics/us-marines-middle-east-iran-war.html"
-  ],
-  [
-    "senate",
-    18,
-    "https://www.nytimes.com/2026/03/29/us/politics/no-kings-rallies-takeaways.html"
-  ],
-  [
-    "israeli",
-    18,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
     "because",
+    19,
+    "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html"
+  ],
+  [
+    "american",
+    19,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/29/how-to-end-the-iran-war"
+  ],
+  [
+    "place",
+    19,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/29/emigrate-partner-moved-abroad-love-regret"
+  ],
+  [
+    "media",
+    19,
+    "https://www.theguardian.com/books/2026/mar/29/serve-smile-procreate-yesteryear-author-caro-claire-burke-on-the-rise-of-the-tradwife"
+  ],
+  [
+    "troops",
     18,
-    "https://www.theguardian.com/us-news/2026/mar/29/abortion-rates-telehealth"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "dhs",
+    18,
+    "https://www.theguardian.com/us-news/2026/mar/29/dhs-longest-partial-government-shutdown"
   ],
   [
     "little",
     18,
-    "https://www.theguardian.com/society/2026/mar/29/yigby-churches-build-housing-amid-shortage"
+    "https://www.theguardian.com/world/2026/mar/30/china-teapot-refineries-crude-oil-iran-war"
   ],
   [
-    "final",
+    "illinois",
     18,
-    "https://www.theguardian.com/football/2026/mar/29/igor-tudor-leaves-tottenham-after-44-days-with-club-mired-in-relegation-troubled"
+    "https://www.npr.org/2026/03/29/nx-s1-5765506/final-four-ncaa-2026"
   ],
   [
-    "kings",
+    "health",
     17,
-    "https://www.nytimes.com/2026/03/29/us/politics/no-kings-rallies-takeaways.html"
+    "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html"
+  ],
+  [
+    "guide",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/mar/29/best-spring-cleaning-supplies"
+  ],
+  [
+    "los",
+    17,
+    "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-no-kings-protest-police-arrests"
+  ],
+  [
+    "angeles",
+    17,
+    "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-no-kings-protest-police-arrests"
+  ],
+  [
+    "social",
+    17,
+    "https://www.theguardian.com/world/2026/mar/30/china-teapot-refineries-crude-oil-iran-war"
+  ],
+  [
+    "duke",
+    17,
+    "https://www.theguardian.com/sport/2026/mar/29/ncaa-tournament-elite-eight-scores-college-basketball"
+  ],
+  [
+    "ukrainian",
+    17,
+    "https://www.theguardian.com/world/2026/mar/30/ukraine-war-briefing-german-defence-giant-sparks-row-after-comparing-ukraine-drone-makers-to-housewives"
+  ],
+  [
+    "family",
+    16,
+    "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html"
   ],
   [
     "early",
-    17,
+    16,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "funding",
-    17,
-    "https://www.theguardian.com/us-news/2026/mar/29/dhs-longest-partial-government-shutdown"
-  ],
-  [
-    "don",
-    17,
-    "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-taix-french-restaurant-echo-park"
-  ],
-  [
-    "border",
+    "country",
     16,
-    "https://www.nytimes.com/2026/03/29/us/ice-tsa-airports-homan-trump-shutdown.html"
-  ],
-  [
-    "feel",
-    16,
-    "https://www.nytimes.com/2026/03/29/science/nasa-astronauts-artemis-moon-launch.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "love",
     16,
-    "https://www.nytimes.com/2026/03/29/us/cpac-texas-ken-paxton-john-cornyn.html"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/29/emigrate-partner-moved-abroad-love-regret"
   ],
   [
-    "million",
+    "night",
     16,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-no-kings-protest-police-arrests"
   ],
   [
-    "guide",
+    "race",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/mar/29/best-spring-cleaning-supplies"
+    "https://www.theguardian.com/us-news/2026/mar/29/la-county-sheriff-deputy-death-relay-race"
   ],
   [
-    "online",
+    "drone",
     16,
-    "https://www.theguardian.com/books/2026/mar/29/serve-smile-procreate-yesteryear-author-caro-claire-burke-on-the-rise-of-the-tradwife"
+    "https://www.theguardian.com/world/2026/mar/30/ukraine-war-briefing-german-defence-giant-sparks-row-after-comparing-ukraine-drone-makers-to-housewives"
   ],
   [
-    "ice",
+    "states",
     15,
-    "https://www.nytimes.com/2026/03/29/us/ice-tsa-airports-homan-trump-shutdown.html"
-  ],
-  [
-    "tom",
-    15,
-    "https://www.nytimes.com/2026/03/29/us/ice-tsa-airports-homan-trump-shutdown.html"
-  ],
-  [
-    "homan",
-    15,
-    "https://www.nytimes.com/2026/03/29/us/ice-tsa-airports-homan-trump-shutdown.html"
+    "https://www.nytimes.com/2026/03/29/world/asia/china-artist-gao-trial.html"
   ],
   [
     "democrats",
@@ -191,29 +206,14 @@
     "https://www.nytimes.com/2026/03/29/world/americas/canada-new-democrats-party-leader-avi-lewis.html"
   ],
   [
-    "history",
-    15,
-    "https://www.washingtonpost.com/immigration/2026/03/29/birthright-citizenship-aclu-trump-immigrants/"
-  ],
-  [
-    "states",
-    15,
-    "https://www.washingtonpost.com/nation/2026/03/28/no-kings-protests-marches-record-turnout/"
-  ],
-  [
-    "place",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/29/emigrate-partner-moved-abroad-love-regret"
-  ],
-  [
-    "conflict",
-    15,
-    "https://www.theguardian.com/world/2026/mar/29/iran-accuses-us-plotting-ground-assault-publicly-seeking-talks"
-  ],
-  [
     "god",
     15,
     "https://www.theguardian.com/world/2026/mar/29/pope-rebuke-trump-leaders-with-hands-full-of-blood"
+  ],
+  [
+    "police",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-no-kings-protest-police-arrests"
   ],
   [
     "security",
@@ -221,19 +221,9 @@
     "https://www.theguardian.com/us-news/2026/mar/29/dhs-longest-partial-government-shutdown"
   ],
   [
-    "health",
+    "don",
     15,
-    "https://www.theguardian.com/technology/2026/mar/29/meta-loss-social-media-addiction-trial"
-  ],
-  [
-    "others",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/mar/30/therapy-war-related-anxiety"
-  ],
-  [
-    "illinois",
-    15,
-    "https://www.theguardian.com/sport/2026/mar/28/elite-eight-scores-illinois-iowa-arizona-purdue"
+    "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-taix-french-restaurant-echo-park"
   ],
   [
     "series",
@@ -241,24 +231,54 @@
     "https://www.theguardian.com/tv-and-radio/2026/mar/27/love-story-disney-plus-most-streamed-drama-ever-jfk-jr"
   ],
   [
-    "tsa",
-    15,
-    "https://www.foxnews.com/media/border-czar-tom-homan-rips-congress-paid-vacation-tsa-agents-struggle-without-pay"
+    "russian",
+    14,
+    "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html"
   ],
   [
-    "family",
+    "million",
     14,
-    "https://www.washingtonpost.com/nation/2026/03/27/cheesesteak-philadelphia-pats-king-of-steaks/"
+    "https://www.nytimes.com/2026/03/29/business/trump-artificial-intelligence-pac-midterms.html"
   ],
   [
-    "military",
+    "feel",
     14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/03/29/science/nasa-astronauts-artemis-moon-launch.html"
   ],
   [
-    "country",
+    "ahead",
     14,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/03/29/science/nasa-astronauts-artemis-moon-launch.html"
+  ],
+  [
+    "online",
+    14,
+    "https://www.nytimes.com/2026/03/25/realestate/ireland-cell-phones-children.html"
+  ],
+  [
+    "prices",
+    14,
+    "https://www.nytimes.com/2026/03/28/us/politics/las-vegas-economy.html"
+  ],
+  [
+    "kings",
+    14,
+    "https://www.washingtonpost.com/nation/2026/03/28/no-kings-protests-marches-record-turnout/"
+  ],
+  [
+    "global",
+    14,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "air",
+    14,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "senate",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/29/how-to-end-the-iran-war"
   ],
   [
     "filter",
@@ -266,113 +286,93 @@
     "https://www.theguardian.com/thefilter-us/2026/mar/29/best-spring-cleaning-supplies"
   ],
   [
-    "became",
+    "uconn",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/29/dhs-longest-partial-government-shutdown"
+    "https://www.theguardian.com/sport/2026/mar/29/ncaa-tournament-elite-eight-scores-college-basketball"
   ],
   [
-    "mother",
+    "hair",
     14,
-    "https://www.theguardian.com/fashion/2026/mar/29/erin-oconnor-says-instagram-removed-pregnancy-photo-nudity-breach"
+    "https://www.theguardian.com/thefilter-us/2026/mar/24/dyson-airwrap-shark-flexstyle-comparison"
   ],
   [
-    "running",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/29/jd-vance-middletown-cleveland-coal-investment"
-  ],
-  [
-    "living",
-    14,
-    "https://www.theguardian.com/business/2026/mar/29/boomer-small-business-owner"
-  ],
-  [
-    "industry",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/29/modeling-industry-activist-inquiry-epstein-files-sara-ziff"
-  ],
-  [
-    "hours",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/20/best-bike-lights-us"
-  ],
-  [
-    "troops",
+    "near",
     13,
-    "https://www.nytimes.com/2026/03/29/us/politics/us-marines-middle-east-iran-war.html"
-  ],
-  [
-    "american",
-    13,
-    "https://www.nytimes.com/2026/03/29/us/politics/us-marines-middle-east-iran-war.html"
-  ],
-  [
-    "czar",
-    13,
-    "https://www.nytimes.com/2026/03/29/us/ice-tsa-airports-homan-trump-shutdown.html"
+    "https://www.nytimes.com/2026/03/29/world/middleeast/us-precision-strike-missile-iran-lamerd.html"
   ],
   [
     "government",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/29/how-to-end-the-iran-war"
+    "https://www.nytimes.com/2026/03/30/world/africa/he-led-congo-for-18-years-now-hes-a-hunted-man.html"
   ],
   [
-    "thousands",
+    "became",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/29/how-to-end-the-iran-war"
+    "https://www.nytimes.com/2026/03/29/obituaries/nicholas-haysom-dead.html"
   ],
   [
-    "spring",
+    "history",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/mar/29/best-spring-cleaning-supplies"
+    "https://www.washingtonpost.com/immigration/2026/03/29/birthright-citizenship-aclu-trump-immigrants/"
   ],
   [
-    "far",
+    "israeli",
     13,
-    "https://www.theguardian.com/technology/2026/mar/29/meta-loss-social-media-addiction-trial"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "prices",
+    "donald",
     13,
-    "https://www.theguardian.com/society/2026/mar/29/yigby-churches-build-housing-amid-shortage"
+    "https://www.theguardian.com/commentisfree/2026/mar/29/trump-grassroots-organizing"
   ],
   [
-    "hair",
+    "point",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/mar/24/dyson-airwrap-shark-flexstyle-comparison"
+    "https://www.theguardian.com/commentisfree/2026/mar/29/trump-grassroots-organizing"
   ],
   [
-    "interview",
+    "conflict",
     13,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-03-25/savannah-guthrie-sits-for-first-interview-on-nbcs-today-after-mothers-abduction"
+    "https://www.theguardian.com/world/live/2026/mar/30/iran-war-live-updates-trump-oil-kharg-island-houthis-israel-lebanon-middle-east"
   ],
   [
-    "sen",
+    "hours",
     13,
-    "https://www.foxnews.com/media/sen-ron-johnson-says-senate-broken-calls-ending-filibuster-over-dhs-funding-fight"
+    "https://www.theguardian.com/us-news/2026/mar/29/us-russian-oil-tanker-cuba-blockade"
   ],
   [
-    "secretary",
-    12,
-    "https://www.washingtonpost.com/nation/2026/03/29/pege-hegseth-christianity/"
+    "protesters",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-no-kings-protest-police-arrests"
   ],
   [
-    "loss",
-    12,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "died",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/29/la-county-sheriff-deputy-death-relay-race"
   ],
   [
-    "campaign",
-    12,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "play",
+    13,
+    "https://www.theguardian.com/film/2026/mar/30/kim-novak-sydney-sweeney-wrong-casting-biopic-sammy-davis-jr-scandalous"
   ],
   [
-    "global",
-    12,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "living",
+    13,
+    "https://www.theguardian.com/business/2026/mar/29/boomer-small-business-owner"
   ],
   [
-    "pop",
-    12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "others",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/mar/30/therapy-war-related-anxiety"
+  ],
+  [
+    "killed",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/mar/29/the-guardian-view-on-myanmars-forgotten-war-the-military-cosplay-democracy-but-people-demand-the-real-thing"
+  ],
+  [
+    "game",
+    13,
+    "https://www.theguardian.com/sport/2026/mar/29/womens-march-madness-unbeaten-uconn-win-54th-game-in-row-to-reach-final-four"
   ]
 ];
