@@ -8,45 +8,27 @@
       "source": "The Guardian"
     },
     {
-      "name": "Hurricane Melissa",
-      "count": 2,
-      "url": "https://www.theguardian.com/news/2026/mar/29/hurricane-melissa-aftermath-jamaica",
+      "name": "The World Cup",
+      "count": 6,
+      "url": "https://www.theguardian.com/football/2026/mar/30/fifa-world-cup-amnesty-international-donald-trump-ice-human-rights",
       "source": "The Guardian"
     },
     {
-      "name": "The “Cuban Delcy",
+      "name": "The Ukraine War",
+      "count": 2,
+      "url": "https://www.theguardian.com/artanddesign/2026/mar/30/playrise-modular-timber-playground-equipment-disaster-zones",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World War Ii",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html",
+      "url": "https://www.nytimes.com/2026/03/30/magazine/ukraine-kyiv-winter-cold-russia-war.html",
       "source": "NY Times"
     },
     {
-      "name": "Scandalous",
+      "name": "Us Open",
       "count": 1,
-      "url": "https://www.theguardian.com/film/2026/mar/30/kim-novak-sydney-sweeney-wrong-casting-biopic-sammy-davis-jr-scandalous",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Us War",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/29/how-to-end-the-iran-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Huskies",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/mar/29/ncaa-tournament-elite-eight-scores-college-basketball",
-      "source": "The Guardian"
-    },
-    {
-      "name": "World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/mar/29/after-12-years-a-usmnt-loss-to-belgium-still-carries-a-world-cup-weight",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Los Angeles Games",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/mar/29/caster-semenya-olympic-gender-verification-tests-disrespect-for-women",
+      "url": "https://www.theguardian.com/sport/2026/mar/30/gary-woodland-wins-houston-open-after-brain-surgery-and-ptsd-struggles-today-was-a-good-day",
       "source": "The Guardian"
     },
     {
@@ -56,91 +38,159 @@
       "source": "The Guardian"
     },
     {
-      "name": "Series",
+      "name": "Super Mario Bros.",
       "count": 1,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/27/love-story-disney-plus-most-streamed-drama-ever-jfk-jr",
+      "url": "https://www.nytimes.com/2026/03/30/movies/mario-minecraft-video-games.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Scandalous",
+      "count": 1,
+      "url": "https://www.theguardian.com/film/2026/mar/30/kim-novak-sydney-sweeney-wrong-casting-biopic-sammy-davis-jr-scandalous",
+      "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 36,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/30/trump-iran-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Thomas More Society",
+      "count": 6,
+      "url": "https://www.foxnews.com/politics/nj-school-districts-secretive-transgender-policy-faces-legal-threat-bucking-supreme-court-ruling",
+      "source": "Fox News"
+    },
+    {
+      "name": "J.D. Vance",
+      "count": 6,
+      "url": "https://www.today.com/video/usha-vance-on-new-podcast-pregnancy-life-as-the-second-lady-260354629531",
+      "source": "NBC News"
+    },
+    {
+      "name": "Usha Vance",
+      "count": 6,
+      "url": "https://www.today.com/video/usha-vance-on-new-podcast-pregnancy-life-as-the-second-lady-260354629531",
+      "source": "NBC News"
+    },
+    {
+      "name": "Hormuz",
+      "count": 5,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/30/trump-iran-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tiger Woods",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/mar/29/tiger-woods-pga-tour-golf-ryder-cup-dui",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Emiliano Sala",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/2026/mar/30/court-dismisses-cardiff-claim-against-nantes-emiliano-sala-death",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jude Chehab",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/2026/mar/30/q-review-al-qubaysiat-secretive-muslim-women-order",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ola Henningsen",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/2026/mar/30/being-ola-review-a-sweet-and-gentle-film-about-disability-friendship-and-abandonment",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 4,
+      "url": "https://www.theguardian.com/us-news/2026/mar/30/jd-vance-alien-ufo-are-demons",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Iran",
-      "count": 71,
-      "url": "https://www.nytimes.com/2026/03/30/opinion/trump-iran-war-india-oil.html",
-      "source": "NY Times"
+      "count": 74,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/30/trump-iran-war",
+      "source": "The Guardian"
     },
     {
       "name": "Us",
-      "count": 61,
-      "url": "https://www.theguardian.com/world/live/2026/mar/30/iran-war-live-updates-trump-oil-kharg-island-houthis-israel-lebanon-middle-east",
+      "count": 53,
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/30/trump-iran-war",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 46,
+      "count": 21,
       "url": "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html",
       "source": "NY Times"
     },
     {
       "name": "Ukraine",
-      "count": 23,
+      "count": 18,
       "url": "https://www.theguardian.com/commentisfree/2026/mar/30/world-without-rules-un-security-council-global-order",
       "source": "The Guardian"
     },
     {
+      "name": "California",
+      "count": 14,
+      "url": "https://www.theguardian.com/artanddesign/2026/mar/30/dean-sameshima-wonderland-review-la-queer-sex-clubs-soft-opening-london",
+      "source": "The Guardian"
+    },
+    {
       "name": "Israel",
-      "count": 19,
+      "count": 13,
       "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Cuba",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/mar/29/la-county-sheriff-deputy-death-relay-race",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uconn",
-      "count": 15,
-      "url": "https://www.theguardian.com/sport/2026/mar/29/ncaa-tournament-elite-eight-scores-college-basketball",
-      "source": "The Guardian"
-    },
-    {
       "name": "L.A. County",
-      "count": 14,
+      "count": 13,
       "url": "https://www.latimes.com/california/story/2026-03-29/la-county-sheriffs-deputy-death-baker-to-vegas",
       "source": "LA Times"
     },
     {
+      "name": "Los Angeles County",
+      "count": 12,
+      "url": "https://www.latimes.com/california/story/2026-03-29/la-county-sheriffs-deputy-death-baker-to-vegas",
+      "source": "LA Times"
+    },
+    {
+      "name": "The United States Of America",
+      "count": 12,
+      "url": "https://thehill.com/policy/defense/5807135-donald-trump-threatens-iran-energy/",
+      "source": "The Hill"
+    },
+    {
       "name": "Illinois",
-      "count": 14,
-      "url": "https://www.npr.org/2026/03/29/nx-s1-5765506/final-four-ncaa-2026",
-      "source": "NPR"
+      "count": 11,
+      "url": "https://www.cbsnews.com/news/final-four-ncaa-mens-basketball-2026/",
+      "source": "CBS News"
     }
   ],
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 57,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Private-Credit Wobbles Could Prove Perilous For Trump",
+      "count": 66,
+      "url": "https://www.nytimes.com/2026/03/30/business/private-credit-risks-trump-administration.html",
+      "source": "NY Times"
     },
     {
-      "name": "Senate",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/29/how-to-end-the-iran-war",
-      "source": "The Guardian"
+      "name": "Nasa",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/03/30/science/nasa-astronauts-moon-americans-mood.html",
+      "source": "NY Times"
     },
     {
       "name": "The White House",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/mar/28/national-institutes-health-no-kings-protest",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/mar/30/trump-iran-war-reality",
       "source": "The Guardian"
     },
     {
@@ -150,103 +200,41 @@
       "source": "The Guardian"
     },
     {
-      "name": "Ai",
+      "name": "Tsa",
       "count": 10,
-      "url": "https://www.theguardian.com/technology/2026/mar/29/ai-written-books-novel-shy-girl-publishers",
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/30/donald-trump-shutdown-ice-dhs-tsa-airports-iran-jd-vance-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 9,
+      "url": "https://www.theguardian.com/music/2026/mar/30/ai-lectures-old-west-folk-heroes-and-mark-twain-what-is-bob-dylan-up-to-joining-patreon",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Duke",
+      "count": 8,
+      "url": "https://www.theguardian.com/sport/2026/mar/30/uconns-thrilling-win-over-duke-proved-that-blue-blood-clashes-are-alive-and-well",
       "source": "The Guardian"
     },
     {
       "name": "Guardian News",
-      "count": 10,
+      "count": 8,
       "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
+      "name": "Dhs",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/30/donald-trump-shutdown-ice-dhs-tsa-airports-iran-jd-vance-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
       "name": "Gop",
-      "count": 9,
+      "count": 7,
       "url": "https://www.politico.com/news/2026/03/29/iran-war-trump-gop-midterms-prices-00849116",
       "source": "Politico"
-    },
-    {
-      "name": "Dhs",
-      "count": 8,
-      "url": "https://www.latimes.com/politics/story/2026-03-27/dhs-attorney-said-agents-in-los-angeles-should-have-started-hitting-protesters-emails-show",
-      "source": "LA Times"
-    },
-    {
-      "name": "Tsa",
-      "count": 8,
-      "url": "https://www.npr.org/2026/03/29/nx-s1-5765454/tsa-paychecks-ice-airports-tom-homan",
-      "source": "NPR"
-    },
-    {
-      "name": "Congress",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/29/how-to-end-the-iran-war",
-      "source": "The Guardian"
     }
   ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 27,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/30/trump-bombs-betting-markets-speculators",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Sarah Strong",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/mar/29/womens-march-madness-unbeaten-uconn-win-54th-game-in-row-to-reach-final-four",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Thomas Frank",
-      "count": 6,
-      "url": "https://www.theguardian.com/football/2026/mar/29/igor-tudor-leaves-tottenham-after-44-days-with-club-mired-in-relegation-troubled",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tom Homan",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/03/29/us/politics/ice-tsa-airports-homan-trump-shutdown.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Jude Chehab",
-      "count": 5,
-      "url": "https://www.theguardian.com/film/2026/mar/30/q-review-al-qubaysiat-secretive-muslim-women-order",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Volodymyr Zelenskyy",
-      "count": 5,
-      "url": "https://www.theguardian.com/world/2026/mar/30/ukraine-war-briefing-german-defence-giant-sparks-row-after-comparing-ukraine-drone-makers-to-housewives",
-      "source": "The Guardian"
-    },
-    {
-      "name": "James Tolkan",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/mar/28/james-tolkan-top-gun-back-to-the-future-dies",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Stephen Colbert",
-      "count": 5,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/mar/28/stephen-colbert-lord-of-the-rings",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Taix",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-taix-french-restaurant-echo-park",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cory Booker",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/mar/29/cory-booker-democratic-party",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-03-30T08:23:03Z"
+  "updated": "2026-03-30T14:42:30Z"
 };
