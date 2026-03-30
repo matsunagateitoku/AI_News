@@ -2,58 +2,53 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    86,
+    91,
     "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html"
   ],
   [
     "iran",
-    76,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/29/how-to-end-the-iran-war"
+    71,
+    "https://www.nytimes.com/2026/03/30/opinion/trump-iran-war-india-oil.html"
   ],
   [
     "war",
-    59,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    53,
+    "https://www.nytimes.com/2026/03/30/opinion/trump-iran-war-india-oil.html"
   ],
   [
     "oil",
-    38,
+    50,
     "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html"
   ],
   [
-    "final",
-    34,
-    "https://www.theguardian.com/sport/2026/mar/29/ncaa-tournament-elite-eight-scores-college-basketball"
-  ],
-  [
     "president",
-    33,
+    36,
     "https://www.nytimes.com/2026/03/30/world/africa/he-led-congo-for-18-years-now-hes-a-hunted-man.html"
   ],
   [
+    "final",
+    35,
+    "https://www.theguardian.com/sport/2026/mar/29/ncaa-tournament-elite-eight-scores-college-basketball"
+  ],
+  [
     "israel",
-    28,
+    25,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "ground",
-    24,
-    "https://www.theguardian.com/world/live/2026/mar/30/iran-war-live-updates-trump-oil-kharg-island-houthis-israel-lebanon-middle-east"
+    "political",
+    23,
+    "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html"
   ],
   [
     "east",
     23,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/29/how-to-end-the-iran-war"
+    "https://www.theguardian.com/world/live/2026/mar/30/iran-war-live-updates-trump-oil-kharg-island-houthis-israel-lebanon-middle-east"
   ],
   [
-    "political",
+    "ukraine",
     22,
-    "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html"
-  ],
-  [
-    "middle",
-    22,
-    "https://www.theguardian.com/us-news/2026/mar/29/mars-college-california-campus"
+    "https://www.theguardian.com/commentisfree/2026/mar/30/world-without-rules-un-security-council-global-order"
   ],
   [
     "military",
@@ -66,19 +61,19 @@
     "https://www.nytimes.com/2026/03/29/technology/chromebook-remorse-kansas-school-laptops.html"
   ],
   [
+    "middle",
+    21,
+    "https://www.theguardian.com/travel/2026/mar/30/marolles-brussels-cosmopolitan-village"
+  ],
+  [
+    "ground",
+    21,
+    "https://www.theguardian.com/world/live/2026/mar/30/iran-war-live-updates-trump-oil-kharg-island-houthis-israel-lebanon-middle-east"
+  ],
+  [
     "administration",
     20,
     "https://www.nytimes.com/2026/03/29/business/trump-artificial-intelligence-pac-midterms.html"
-  ],
-  [
-    "california",
-    20,
-    "https://www.theguardian.com/us-news/2026/mar/29/la-county-sheriff-deputy-death-relay-race"
-  ],
-  [
-    "ukraine",
-    20,
-    "https://www.theguardian.com/world/2026/mar/30/ukraine-war-briefing-german-defence-giant-sparks-row-after-comparing-ukraine-drone-makers-to-housewives"
   ],
   [
     "sleep",
@@ -86,29 +81,34 @@
     "https://www.theguardian.com/thefilter-us/2026/mar/25/what-readers-bought-march"
   ],
   [
+    "russian",
+    19,
+    "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html"
+  ],
+  [
     "because",
     19,
     "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html"
   ],
   [
-    "american",
+    "night",
     19,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/29/how-to-end-the-iran-war"
+    "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-no-kings-protest-police-arrests"
   ],
   [
-    "place",
-    19,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/29/emigrate-partner-moved-abroad-love-regret"
-  ],
-  [
-    "media",
-    19,
-    "https://www.theguardian.com/books/2026/mar/29/serve-smile-procreate-yesteryear-author-caro-claire-burke-on-the-rise-of-the-tradwife"
-  ],
-  [
-    "troops",
+    "cuba",
     18,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html"
+  ],
+  [
+    "family",
+    18,
+    "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html"
+  ],
+  [
+    "country",
+    18,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "dhs",
@@ -116,39 +116,44 @@
     "https://www.theguardian.com/us-news/2026/mar/29/dhs-longest-partial-government-shutdown"
   ],
   [
-    "little",
-    18,
-    "https://www.theguardian.com/world/2026/mar/30/china-teapot-refineries-crude-oil-iran-war"
-  ],
-  [
     "illinois",
     18,
     "https://www.npr.org/2026/03/29/nx-s1-5765506/final-four-ncaa-2026"
   ],
   [
-    "health",
+    "island",
     17,
-    "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html"
+    "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html"
   ],
   [
-    "guide",
+    "early",
     17,
-    "https://www.theguardian.com/thefilter-us/2026/mar/29/best-spring-cleaning-supplies"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "los",
+    "place",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/mar/30/trump-bombs-betting-markets-speculators"
+  ],
+  [
+    "race",
+    17,
+    "https://www.theguardian.com/world/ng-interactive/2026/mar/30/leaders-seeking-undermine-rule-of-law-europe"
+  ],
+  [
+    "police",
     17,
     "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-no-kings-protest-police-arrests"
   ],
   [
-    "angeles",
+    "california",
     17,
-    "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-no-kings-protest-police-arrests"
+    "https://www.theguardian.com/us-news/2026/mar/29/la-county-sheriff-deputy-death-relay-race"
   ],
   [
-    "social",
+    "don",
     17,
-    "https://www.theguardian.com/world/2026/mar/30/china-teapot-refineries-crude-oil-iran-war"
+    "https://www.theguardian.com/music/2026/mar/30/bruce-hornsby-interview-the-way-it-is-renaissance-new-album-indigo-park"
   ],
   [
     "duke",
@@ -156,49 +161,64 @@
     "https://www.theguardian.com/sport/2026/mar/29/ncaa-tournament-elite-eight-scores-college-basketball"
   ],
   [
-    "ukrainian",
+    "drone",
     17,
     "https://www.theguardian.com/world/2026/mar/30/ukraine-war-briefing-german-defence-giant-sparks-row-after-comparing-ukraine-drone-makers-to-housewives"
   ],
   [
-    "family",
+    "media",
     16,
-    "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html"
+    "https://www.theguardian.com/world/ng-interactive/2026/mar/30/leaders-seeking-undermine-rule-of-law-europe"
   ],
   [
-    "early",
+    "american",
     16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/world/live/2026/mar/30/iran-war-live-updates-trump-oil-kharg-island-houthis-israel-lebanon-middle-east"
   ],
   [
-    "country",
-    16,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "love",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/29/emigrate-partner-moved-abroad-love-regret"
-  ],
-  [
-    "night",
+    "los",
     16,
     "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-no-kings-protest-police-arrests"
   ],
   [
-    "race",
+    "angeles",
     16,
-    "https://www.theguardian.com/us-news/2026/mar/29/la-county-sheriff-deputy-death-relay-race"
+    "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-no-kings-protest-police-arrests"
   ],
   [
-    "drone",
+    "little",
+    16,
+    "https://www.theguardian.com/world/2026/mar/30/china-teapot-refineries-crude-oil-iran-war"
+  ],
+  [
+    "ukrainian",
     16,
     "https://www.theguardian.com/world/2026/mar/30/ukraine-war-briefing-german-defence-giant-sparks-row-after-comparing-ukraine-drone-makers-to-housewives"
   ],
   [
-    "states",
+    "health",
     15,
-    "https://www.nytimes.com/2026/03/29/world/asia/china-artist-gao-trial.html"
+    "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html"
+  ],
+  [
+    "action",
+    15,
+    "https://www.nytimes.com/2026/03/29/business/trump-artificial-intelligence-pac-midterms.html"
+  ],
+  [
+    "million",
+    15,
+    "https://www.nytimes.com/2026/03/29/business/trump-artificial-intelligence-pac-midterms.html"
+  ],
+  [
+    "ahead",
+    15,
+    "https://www.nytimes.com/2026/03/29/science/nasa-astronauts-artemis-moon-launch.html"
+  ],
+  [
+    "prices",
+    15,
+    "https://www.nytimes.com/2026/03/28/us/politics/las-vegas-economy.html"
   ],
   [
     "democrats",
@@ -206,49 +226,54 @@
     "https://www.nytimes.com/2026/03/29/world/americas/canada-new-democrats-party-leader-avi-lewis.html"
   ],
   [
-    "god",
+    "israeli",
     15,
-    "https://www.theguardian.com/world/2026/mar/29/pope-rebuke-trump-leaders-with-hands-full-of-blood"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "police",
+    "troops",
     15,
-    "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-no-kings-protest-police-arrests"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "donald",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/mar/30/trump-bombs-betting-markets-speculators"
+  ],
+  [
+    "europe",
+    15,
+    "https://www.theguardian.com/world/ng-interactive/2026/mar/30/leaders-seeking-undermine-rule-of-law-europe"
+  ],
+  [
+    "really",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/mar/30/is-it-true-that-you-can-never-eat-too-much-fibre-fibremaxxing"
   ],
   [
     "security",
     15,
-    "https://www.theguardian.com/us-news/2026/mar/29/dhs-longest-partial-government-shutdown"
+    "https://www.theguardian.com/commentisfree/2026/mar/30/world-without-rules-un-security-council-global-order"
   ],
   [
-    "don",
+    "play",
     15,
-    "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-taix-french-restaurant-echo-park"
+    "https://www.theguardian.com/commentisfree/2026/mar/30/world-without-rules-un-security-council-global-order"
   ],
   [
-    "series",
+    "guide",
     15,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/27/love-story-disney-plus-most-streamed-drama-ever-jfk-jr"
+    "https://www.theguardian.com/thefilter-us/2026/mar/29/best-spring-cleaning-supplies"
   ],
   [
-    "russian",
+    "tanker",
     14,
     "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html"
   ],
   [
-    "million",
+    "working",
     14,
-    "https://www.nytimes.com/2026/03/29/business/trump-artificial-intelligence-pac-midterms.html"
-  ],
-  [
-    "feel",
-    14,
-    "https://www.nytimes.com/2026/03/29/science/nasa-astronauts-artemis-moon-launch.html"
-  ],
-  [
-    "ahead",
-    14,
-    "https://www.nytimes.com/2026/03/29/science/nasa-astronauts-artemis-moon-launch.html"
+    "https://www.nytimes.com/2026/03/30/world/europe/trump-greenland-operation-danish-media.html"
   ],
   [
     "online",
@@ -256,9 +281,9 @@
     "https://www.nytimes.com/2026/03/25/realestate/ireland-cell-phones-children.html"
   ],
   [
-    "prices",
+    "states",
     14,
-    "https://www.nytimes.com/2026/03/28/us/politics/las-vegas-economy.html"
+    "https://www.nytimes.com/2026/03/29/world/asia/china-artist-gao-trial.html"
   ],
   [
     "kings",
@@ -271,9 +296,14 @@
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "air",
+    "social",
     14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/world/ng-interactive/2026/mar/30/leaders-seeking-undermine-rule-of-law-europe"
+  ],
+  [
+    "died",
+    14,
+    "https://www.theguardian.com/us-news/2026/mar/29/la-county-sheriff-deputy-death-relay-race"
   ],
   [
     "senate",
@@ -291,9 +321,9 @@
     "https://www.theguardian.com/sport/2026/mar/29/ncaa-tournament-elite-eight-scores-college-basketball"
   ],
   [
-    "hair",
+    "love",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/mar/24/dyson-airwrap-shark-flexstyle-comparison"
+    "https://www.theguardian.com/tv-and-radio/2026/mar/28/stephen-colbert-lord-of-the-rings"
   ],
   [
     "near",
@@ -306,34 +336,19 @@
     "https://www.nytimes.com/2026/03/30/world/africa/he-led-congo-for-18-years-now-hes-a-hunted-man.html"
   ],
   [
-    "became",
+    "video",
     13,
-    "https://www.nytimes.com/2026/03/29/obituaries/nicholas-haysom-dead.html"
+    "https://www.nytimes.com/2026/03/29/technology/chromebook-remorse-kansas-school-laptops.html"
   ],
   [
-    "history",
+    "air",
     13,
-    "https://www.washingtonpost.com/immigration/2026/03/29/birthright-citizenship-aclu-trump-immigrants/"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "israeli",
+    "market",
     13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "donald",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/mar/29/trump-grassroots-organizing"
-  ],
-  [
-    "point",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/mar/29/trump-grassroots-organizing"
-  ],
-  [
-    "conflict",
-    13,
-    "https://www.theguardian.com/world/live/2026/mar/30/iran-war-live-updates-trump-oil-kharg-island-houthis-israel-lebanon-middle-east"
+    "https://www.theguardian.com/travel/2026/mar/30/marolles-brussels-cosmopolitan-village"
   ],
   [
     "hours",
@@ -346,33 +361,18 @@
     "https://www.theguardian.com/us-news/2026/mar/29/los-angeles-no-kings-protest-police-arrests"
   ],
   [
-    "died",
+    "party",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/29/cory-booker-democratic-party"
+  ],
+  [
+    "county",
     13,
     "https://www.theguardian.com/us-news/2026/mar/29/la-county-sheriff-deputy-death-relay-race"
   ],
   [
-    "play",
+    "actor",
     13,
     "https://www.theguardian.com/film/2026/mar/30/kim-novak-sydney-sweeney-wrong-casting-biopic-sammy-davis-jr-scandalous"
-  ],
-  [
-    "living",
-    13,
-    "https://www.theguardian.com/business/2026/mar/29/boomer-small-business-owner"
-  ],
-  [
-    "others",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/mar/30/therapy-war-related-anxiety"
-  ],
-  [
-    "killed",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/mar/29/the-guardian-view-on-myanmars-forgotten-war-the-military-cosplay-democracy-but-people-demand-the-real-thing"
-  ],
-  [
-    "game",
-    13,
-    "https://www.theguardian.com/sport/2026/mar/29/womens-march-madness-unbeaten-uconn-win-54th-game-in-row-to-reach-final-four"
   ]
 ];
