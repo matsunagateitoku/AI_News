@@ -2,33 +2,39 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Private-Credit Wobbles Could Prove Perilous For Trump",
-      "count": 60,
-      "url": "https://www.nytimes.com/2026/03/30/business/private-credit-risks-trump-administration.html",
+      "name": "Trump Reveals New Look For White House",
+      "count": 76,
+      "url": "https://www.nytimes.com/2026/03/30/upshot/trump-white-house-ballroom-plans.html",
       "source": "NY Times"
     },
     {
+      "name": "Marines And Army",
+      "count": 17,
+      "url": "https://www.cbsnews.com/video/what-latest-middle-east-deployment-signals-us-intentions-iran/",
+      "source": "CBS News"
+    },
+    {
       "name": "Nasa",
-      "count": 20,
+      "count": 16,
       "url": "https://www.nytimes.com/2026/03/30/science/nasa-astronauts-moon-americans-mood.html",
       "source": "NY Times"
     },
     {
-      "name": "The White House",
-      "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/mar/30/trump-iran-war-reality",
-      "source": "The Guardian"
+      "name": "Tsa Workers Begin To Receive Paychecks After Trump Signs Executive Order",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/03/30/us/politics/tsa-workers-paychecks-trump-executive-order.html",
+      "source": "NY Times"
     },
     {
-      "name": "Tsa",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/nation/2026/03/30/tsa-wait-times-airport-security/",
-      "source": "Washington Post"
+      "name": "Guardian News",
+      "count": 13,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
     },
     {
       "name": "Ai",
       "count": 12,
-      "url": "https://www.theguardian.com/world/2026/mar/30/collien-fernandes-deepfake-porn-allegations-digital-violence-against-women",
+      "url": "https://www.theguardian.com/us-news/2026/mar/30/california-ai-regulations-trump",
       "source": "The Guardian"
     },
     {
@@ -38,109 +44,121 @@
       "source": "The Guardian"
     },
     {
-      "name": "Congress",
-      "count": 12,
-      "url": "https://www.foxnews.com/politics/leavitt-calls-congress-end-easter-recess-work-dhs-shutdown",
-      "source": "Fox News"
+      "name": "Hezbollah",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/03/30/us/michigan-synagogue-attack-hezbollah.html",
+      "source": "NY Times"
     },
     {
       "name": "Senate",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/03/30/us/politics/maine-senate-primary-mills-platner-democrat.html",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/03/30/us/senate-republicans-dhs-shutdown.html",
       "source": "NY Times"
     },
     {
-      "name": "Guardian News",
+      "name": "Pentagon",
       "count": 10,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "url": "https://www.theguardian.com/us-news/2026/mar/30/embassies-campaign-marco-rubio-elon-musk",
+      "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 22,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/30/no-kings-protest-crowds",
       "source": "The Guardian"
     },
     {
-      "name": "Army",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/national-security/2026/03/30/kid-rock-helicopter-flyby/",
-      "source": "Washington Post"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Iran",
-      "count": 59,
-      "url": "https://www.nytimes.com/2026/03/30/world/middleeast/trump-regime-change-iran.html",
+      "name": "Donald J. Trump",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/03/30/us/politics/trump-airport-palm-beach-florida.html",
       "source": "NY Times"
     },
     {
-      "name": "Us",
-      "count": 53,
+      "name": "Hormuz",
+      "count": 6,
       "url": "https://www.theguardian.com/commentisfree/2026/mar/30/trump-iran-war",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/03/30/world/americas/russian-oil-tanker-cuba.html",
+      "name": "Gavin Newsom",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html",
       "source": "NY Times"
     },
     {
-      "name": "Israel",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/03/30/weather/california-rain-heat-march.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-03-29/la-county-sheriffs-deputy-death-baker-to-vegas",
-      "source": "LA Times"
-    },
-    {
-      "name": "Los Angeles County",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-03-29/la-county-sheriffs-deputy-death-baker-to-vegas",
-      "source": "LA Times"
-    },
-    {
-      "name": "Illinois",
-      "count": 10,
-      "url": "https://www.nbcnews.com/sports/college-basketball/sports-newsletter-march-miracle-rcna265794",
-      "source": "NBC News"
-    },
-    {
-      "name": "Saudi Arabia Joining Fighter-Jet Program",
-      "count": 9,
-      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+      "name": "Marco Rubio",
+      "count": 5,
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Texas",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/mar/30/texas-study-annexing-new-mexico",
+      "name": "Bob Dylan",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/mar/31/rare-bob-dylan-draft-lyrics-allen-ginsberg-book",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Barbie Dream Fest",
+      "count": 5,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/30/barbie-dream-fest-why-did-the-ultimate-fan-event-leave-visitors-fuming",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Oliver Bearman",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/mar/30/f1-safety-crisis-oliver-bearman-escape",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Karoline Leavitt",
+      "count": 5,
+      "url": "https://www.foxnews.com/media/karoline-leavitt-blasts-minimal-media-coverage-sheridan-gorman-murder",
+      "source": "Fox News"
+    },
+    {
+      "name": "Joaquin Castro",
+      "count": 4,
+      "url": "https://www.theguardian.com/us-news/2026/mar/30/texas-ice-detention-facility",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The Iran War",
-      "count": 8,
-      "url": "https://www.theguardian.com/environment/2026/mar/26/iran-war-clean-energy-transition",
-      "source": "The Guardian"
-    },
-    {
       "name": "The World Cup",
-      "count": 7,
+      "count": 9,
       "url": "https://www.theguardian.com/football/2026/mar/30/world-cup-playoffs-jeopardy",
       "source": "The Guardian"
     },
     {
-      "name": "The Ukraine War",
+      "name": "The Iran War",
+      "count": 6,
+      "url": "https://www.theguardian.com/environment/2026/mar/26/iran-war-clean-energy-transition",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The U.S.-Israeli War",
+      "count": 4,
+      "url": "https://thehill.com/homenews/administration/5808137-trump-war-timeline-pressure/",
+      "source": "The Hill"
+    },
+    {
+      "name": "The Super Bowl",
       "count": 2,
-      "url": "https://www.theguardian.com/artanddesign/2026/mar/30/playrise-modular-timber-playground-equipment-disaster-zones",
+      "url": "https://www.cbsnews.com/news/super-bowl-las-vegas-2029-nfl/",
+      "source": "CBS News"
+    },
+    {
+      "name": "La 2028 Olympic",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/mar/30/la-2028-olympics-ticket-prices",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Los Angeles Olympic Games",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/mar/30/la-2028-olympics-ticket-prices",
       "source": "The Guardian"
     },
     {
@@ -156,73 +174,79 @@
       "source": "The Guardian"
     },
     {
-      "name": "Big Spring Sale",
+      "name": "National Year Of Reading",
       "count": 1,
-      "url": "https://www.nbcnews.com/select/shopping/best-amazon-spring-sale-deals-2026-rcna265815",
-      "source": "NBC News"
+      "url": "https://www.theguardian.com/music/2026/mar/30/dua-lipa-to-curate-london-literature-festival-at-southbank-centre",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Ukraine War",
+      "count": 1,
+      "url": "https://www.theguardian.com/artanddesign/2026/mar/30/playrise-modular-timber-playground-equipment-disaster-zones",
+      "source": "The Guardian"
     }
   ],
-  "PERSON": [
+  "GPE": [
     {
-      "name": "Trump Squeezes Cuba",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/03/30/us/politics/gitmo-cuba-trump.html",
+      "name": "Iran",
+      "count": 72,
+      "url": "https://www.nytimes.com/2026/03/30/us/politics/iran-leaders-trump-war.html",
       "source": "NY Times"
     },
     {
-      "name": "Donald Trump",
-      "count": 15,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/30/trump-iran-war",
+      "name": "Us",
+      "count": 72,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/30/no-kings-protest-crowds",
       "source": "The Guardian"
     },
     {
-      "name": "Karoline Leavitt",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/30/donald-trump-shutdown-ice-dhs-tsa-airports-iran-jd-vance-latest-news-updates",
-      "source": "The Guardian"
+      "name": "U.S.",
+      "count": 23,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "Barbie Dream Fest",
-      "count": 7,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/30/barbie-dream-fest-why-did-the-ultimate-fan-event-leave-visitors-fuming",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Leon Thomas",
-      "count": 7,
-      "url": "https://www.theguardian.com/music/2026/mar/27/a-broken-heart-can-turn-somebody-into-a-bad-casanova-breakout-rb-star-leon-thomas-on-defiance-dangelo-and-his-doggie-persona",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hormuz",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/30/trump-iran-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michael Rousseau",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/03/30/business/air-canada-ceo-crash-retire.html",
+      "name": "Israel",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html",
       "source": "NY Times"
     },
     {
-      "name": "Jude Chehab",
-      "count": 5,
-      "url": "https://www.theguardian.com/film/2026/mar/30/q-review-al-qubaysiat-secretive-muslim-women-order",
-      "source": "The Guardian"
+      "name": "California",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html",
+      "source": "NY Times"
     },
     {
-      "name": "Ola Henningsen",
-      "count": 5,
-      "url": "https://www.theguardian.com/film/2026/mar/30/being-ola-review-a-sweet-and-gentle-film-about-disability-friendship-and-abandonment",
-      "source": "The Guardian"
+      "name": "L.A. County",
+      "count": 14,
+      "url": "https://www.latimes.com/california/story/2026-03-29/la-county-sheriffs-deputy-death-baker-to-vegas",
+      "source": "LA Times"
     },
     {
-      "name": "Usha Vance",
-      "count": 5,
-      "url": "https://www.foxnews.com/media/usha-vance-debuts-storytime-second-lady-podcast-kids",
+      "name": "Florida",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/03/30/style/barbie-dream-fest-florida.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Michigan",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/03/30/us/politics/primary-elections-maine-michigan.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Illinois",
+      "count": 12,
+      "url": "https://www.foxnews.com/media/illinois-city-denied-motion-dismiss-lawsuit-against-reparations-program",
       "source": "Fox News"
+    },
+    {
+      "name": "Texas",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/mar/30/texas-ice-detention-facility",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-03-30T19:57:44Z"
+  "updated": "2026-03-31T03:52:19Z"
 };
