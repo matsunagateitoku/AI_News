@@ -2,58 +2,68 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    128,
-    "https://www.nytimes.com/2026/03/30/world/middleeast/trump-regime-change-iran.html"
-  ],
-  [
-    "iran",
-    68,
-    "https://www.nytimes.com/2026/03/30/us/politics/iran-leaders-trump-war.html"
-  ],
-  [
-    "war",
-    55,
-    "https://www.nytimes.com/2026/03/30/world/middleeast/trump-regime-change-iran.html"
-  ],
-  [
-    "president",
-    41,
-    "https://www.nytimes.com/2026/03/30/world/middleeast/trump-regime-change-iran.html"
-  ],
-  [
-    "israel",
-    29,
-    "https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html"
-  ],
-  [
-    "donald",
-    27,
-    "https://www.nytimes.com/2026/03/30/us/politics/trump-airport-palm-beach-florida.html"
-  ],
-  [
-    "california",
-    26,
-    "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html"
-  ],
-  [
-    "video",
-    24,
-    "https://www.theguardian.com/commentisfree/2026/mar/30/trump-boomer-war-iran"
-  ],
-  [
-    "security",
-    23,
+    119,
     "https://www.nytimes.com/2026/03/30/us/politics/tsa-workers-paychecks-trump-executive-order.html"
   ],
   [
-    "games",
-    23,
-    "https://www.theguardian.com/sport/2026/mar/30/la-2028-olympics-ticket-prices"
+    "iran",
+    62,
+    "https://www.nytimes.com/2026/03/31/business/gas-prices-4-dollars-gallon-iran.html"
+  ],
+  [
+    "war",
+    49,
+    "https://www.nytimes.com/2026/03/31/business/food-distributors-surcharges-fuel.html"
+  ],
+  [
+    "president",
+    40,
+    "https://www.nytimes.com/2026/03/30/us/politics/tsa-workers-paychecks-trump-executive-order.html"
   ],
   [
     "oil",
-    22,
-    "https://www.nytimes.com/2026/03/30/us/politics/trump-threats-oil-cuba-sanctions.html"
+    27,
+    "https://www.nytimes.com/2026/03/31/business/gas-prices-4-dollars-gallon-iran.html"
+  ],
+  [
+    "moon",
+    26,
+    "https://www.nytimes.com/2026/03/30/science/nasa-astronauts-moon-americans-mood.html"
+  ],
+  [
+    "donald",
+    25,
+    "https://www.nytimes.com/2026/03/30/us/politics/trump-airport-palm-beach-florida.html"
+  ],
+  [
+    "final",
+    25,
+    "https://www.theguardian.com/film/2026/mar/31/james-mcavoy-scottish-glasgow-hollywood-x-men-hip-hop-hoax"
+  ],
+  [
+    "security",
+    24,
+    "https://www.nytimes.com/2026/03/30/us/politics/tsa-workers-paychecks-trump-executive-order.html"
+  ],
+  [
+    "airport",
+    23,
+    "https://www.nytimes.com/2026/03/30/us/senate-republicans-dhs-shutdown.html"
+  ],
+  [
+    "energy",
+    23,
+    "https://www.nytimes.com/2026/03/31/opinion/trump-hormuz-turkey-dardanelles.html"
+  ],
+  [
+    "military",
+    23,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "launch",
+    23,
+    "https://www.theguardian.com/science/audio/2026/mar/31/does-going-to-the-moon-still-matter-podcast"
   ],
   [
     "beach",
@@ -61,54 +71,49 @@
     "https://www.nytimes.com/2026/03/30/us/politics/trump-airport-palm-beach-florida.html"
   ],
   [
-    "moon",
-    22,
-    "https://www.nytimes.com/2026/03/30/science/nasa-astronauts-moon-americans-mood.html"
-  ],
-  [
-    "launch",
-    22,
-    "https://www.theguardian.com/us-news/2026/mar/30/nasa-artemis-launch-florida"
-  ],
-  [
-    "airport",
-    21,
-    "https://www.nytimes.com/2026/03/30/us/senate-republicans-dhs-shutdown.html"
-  ],
-  [
-    "military",
-    21,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "final",
-    21,
-    "https://www.theguardian.com/us-news/2026/mar/30/nasa-artemis-launch-florida"
-  ],
-  [
     "media",
-    20,
+    22,
     "https://www.nytimes.com/2026/03/30/style/rich-old-money-tiktok.html"
   ],
   [
-    "army",
-    19,
-    "https://www.nytimes.com/2026/03/30/us/politics/us-missile-strike-iran-sports-hall-school.html"
+    "israel",
+    22,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "games",
+    22,
+    "https://www.theguardian.com/sport/2026/mar/30/la-2028-olympics-ticket-prices"
+  ],
+  [
+    "california",
+    21,
+    "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html"
+  ],
+  [
+    "video",
+    21,
+    "https://www.theguardian.com/us-news/2026/mar/30/michigan-synagogue-attacker-inspired-hezbollah"
   ],
   [
     "artemis",
-    19,
-    "https://www.theguardian.com/us-news/2026/mar/30/nasa-artemis-launch-florida"
+    20,
+    "https://www.theguardian.com/science/audio/2026/mar/31/does-going-to-the-moon-still-matter-podcast"
   ],
   [
-    "energy",
+    "country",
     19,
-    "https://www.theguardian.com/us-news/2026/mar/30/trump-threatens-to-obliterate-irans-energy-grid-if-ceasefire-not-reached-shortly"
+    "https://www.nytimes.com/2026/03/31/world/europe/iran-war-united-states-britain-starmer.html"
   ],
   [
-    "press",
+    "political",
+    19,
+    "https://www.nytimes.com/2026/03/30/style/cpac-scene-maga.html"
+  ],
+  [
+    "army",
     18,
-    "https://www.nytimes.com/2026/03/30/us/politics/trump-threats-oil-cuba-sanctions.html"
+    "https://www.nytimes.com/2026/03/30/us/politics/us-missile-strike-iran-sports-hall-school.html"
   ],
   [
     "early",
@@ -116,14 +121,14 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "administration",
+    "press",
     17,
-    "https://www.nytimes.com/2026/03/30/us/senators-trump-airport-immigration-arrests.html"
+    "https://www.nytimes.com/2026/03/30/us/politics/trump-threats-oil-cuba-sanctions.html"
   ],
   [
-    "social",
+    "don",
     17,
-    "https://www.nytimes.com/2026/03/30/style/rich-old-money-tiktok.html"
+    "https://www.nytimes.com/2026/03/31/opinion/trump-hormuz-turkey-dardanelles.html"
   ],
   [
     "iranian",
@@ -131,64 +136,49 @@
     "https://www.nytimes.com/2026/03/30/us/politics/iran-leaders-trump-war.html"
   ],
   [
-    "israeli",
-    16,
-    "https://www.nytimes.com/2026/03/30/world/middleeast/trump-regime-change-iran.html"
-  ],
-  [
-    "country",
-    16,
-    "https://www.nytimes.com/2026/03/30/us/mexico-ice-detention-deaths.html"
-  ],
-  [
     "florida",
     16,
     "https://www.nytimes.com/2026/03/30/us/politics/trump-airport-palm-beach-florida.html"
   ],
   [
-    "latest",
+    "social",
     16,
-    "https://www.nytimes.com/2026/03/30/briefing/trump-iran-tsa-back-pay.html"
+    "https://www.nytimes.com/2026/03/30/style/rich-old-money-tiktok.html"
   ],
   [
-    "don",
+    "hair",
     16,
-    "https://www.theguardian.com/wellness/2026/mar/30/how-to-learn-new-language"
+    "https://www.theguardian.com/lifeandstyle/2026/mar/27/rainy-day-style-strategies"
   ],
   [
-    "tsa",
+    "israeli",
     15,
-    "https://www.nytimes.com/2026/03/30/us/politics/tsa-workers-paychecks-trump-executive-order.html"
+    "https://www.nytimes.com/2026/03/31/business/gas-prices-4-dollars-gallon-iran.html"
   ],
   [
-    "order",
+    "government",
     15,
-    "https://www.nytimes.com/2026/03/30/us/politics/tsa-workers-paychecks-trump-executive-order.html"
-  ],
-  [
-    "department",
-    15,
-    "https://www.nytimes.com/2026/03/30/us/politics/tsa-workers-paychecks-trump-executive-order.html"
-  ],
-  [
-    "little",
-    15,
-    "https://www.nytimes.com/2026/03/30/us/senators-trump-airport-immigration-arrests.html"
+    "https://www.nytimes.com/2026/03/30/us/politics/iran-leaders-trump-war.html"
   ],
   [
     "states",
     15,
-    "https://www.nytimes.com/2026/03/30/us/politics/trump-threats-oil-cuba-sanctions.html"
+    "https://www.nytimes.com/2026/03/31/world/europe/iran-war-united-states-britain-starmer.html"
   ],
   [
-    "near",
+    "administration",
     15,
-    "https://www.nytimes.com/2026/03/30/us/politics/trump-airport-palm-beach-florida.html"
+    "https://www.nytimes.com/2026/03/30/us/senators-trump-airport-immigration-arrests.html"
   ],
   [
-    "political",
+    "attack",
     15,
-    "https://www.nytimes.com/2026/03/30/style/cpac-scene-maga.html"
+    "https://www.nytimes.com/2026/03/30/world/africa/palm-sunday-attack-nigeria-dead.html"
+  ],
+  [
+    "name",
+    15,
+    "https://www.theguardian.com/books/2026/mar/31/transcription-by-ben-lerner-review-a-stunning-exploration-of-technology-and-storytelling"
   ],
   [
     "really",
@@ -196,24 +186,24 @@
     "https://www.theguardian.com/artanddesign/2026/mar/30/dean-sameshima-wonderland-review-la-queer-sex-clubs-soft-opening-london"
   ],
   [
-    "game",
+    "season",
     15,
-    "https://www.theguardian.com/sport/2026/mar/30/uconns-thrilling-win-over-duke-proved-that-blue-blood-clashes-are-alive-and-well"
+    "https://www.theguardian.com/sport/2026/mar/30/f1-safety-crisis-oliver-bearman-escape"
   ],
   [
-    "government",
+    "attacks",
     14,
-    "https://www.nytimes.com/2026/03/30/us/politics/iran-leaders-trump-war.html"
+    "https://www.nytimes.com/2026/03/31/business/gas-prices-4-dollars-gallon-iran.html"
   ],
   [
-    "pay",
+    "department",
     14,
     "https://www.nytimes.com/2026/03/30/us/politics/tsa-workers-paychecks-trump-executive-order.html"
   ],
   [
-    "ice",
+    "little",
     14,
-    "https://www.nytimes.com/2026/03/30/us/mexico-ice-detention-deaths.html"
+    "https://www.nytimes.com/2026/03/30/us/senators-trump-airport-immigration-arrests.html"
   ],
   [
     "secretary",
@@ -221,9 +211,9 @@
     "https://www.nytimes.com/2026/03/30/us/politics/trump-threats-oil-cuba-sanctions.html"
   ],
   [
-    "protein",
+    "near",
     14,
-    "https://www.nytimes.com/2026/03/30/well/eat/meat-beef-rfk-jr.html"
+    "https://www.nytimes.com/2026/03/30/us/politics/trump-airport-palm-beach-florida.html"
   ],
   [
     "place",
@@ -231,24 +221,44 @@
     "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html"
   ],
   [
-    "kid",
+    "police",
     14,
-    "https://www.washingtonpost.com/national-security/2026/03/30/kid-rock-helicopter-flyby/"
+    "https://www.nytimes.com/2026/03/30/us/north-dakota-facial-recognition-ai-errors-bank-fraud.html"
   ],
   [
-    "rock",
+    "china",
     14,
-    "https://www.washingtonpost.com/national-security/2026/03/30/kid-rock-helicopter-flyby/"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "middle",
+    "air",
     14,
-    "https://www.theguardian.com/commentisfree/2026/mar/30/trump-boomer-war-iran"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "hair",
+    "far",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/27/rainy-day-style-strategies"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/30/no-kings-protest-crowds"
+  ],
+  [
+    "rights",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/30/no-kings-protest-crowds"
+  ],
+  [
+    "review",
+    14,
+    "https://www.theguardian.com/books/2026/mar/31/transcription-by-ben-lerner-review-a-stunning-exploration-of-technology-and-storytelling"
+  ],
+  [
+    "film",
+    14,
+    "https://www.theguardian.com/film/2026/mar/31/james-mcavoy-scottish-glasgow-hollywood-x-men-hip-hop-hoax"
+  ],
+  [
+    "industry",
+    14,
+    "https://www.theguardian.com/technology/2026/mar/31/macbook-neo-review-budget-apple-laptop-iphone-chip"
   ],
   [
     "filter",
@@ -261,19 +271,14 @@
     "https://www.theguardian.com/us-news/2026/mar/30/texas-ice-detention-facility"
   ],
   [
-    "series",
+    "tried",
     14,
-    "https://www.theguardian.com/music/2026/mar/30/celine-dion-returns-to-performing-after-lengthy-hiatus-due-to-rare-health-condition"
+    "https://www.theguardian.com/global-development/2026/mar/31/digital-violence-facing-ethiopian-women-activists-online"
   ],
   [
-    "name",
+    "game",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/30/trump-news-at-a-glance-latest-updates-today"
-  ],
-  [
-    "season",
-    14,
-    "https://www.theguardian.com/sport/2026/mar/30/f1-safety-crisis-oliver-bearman-escape"
+    "https://www.theguardian.com/sport/2026/mar/30/uconns-thrilling-win-over-duke-proved-that-blue-blood-clashes-are-alive-and-well"
   ],
   [
     "guide",
@@ -286,34 +291,64 @@
     "https://www.foxnews.com/media/illinois-city-denied-motion-dismiss-lawsuit-against-reparations-program"
   ],
   [
-    "workers",
+    "prices",
+    13,
+    "https://www.nytimes.com/2026/03/31/business/gas-prices-4-dollars-gallon-iran.html"
+  ],
+  [
+    "tsa",
     13,
     "https://www.nytimes.com/2026/03/30/us/politics/tsa-workers-paychecks-trump-executive-order.html"
   ],
   [
-    "died",
+    "order",
     13,
-    "https://www.nytimes.com/2026/03/30/us/mexico-ice-detention-deaths.html"
+    "https://www.nytimes.com/2026/03/30/us/politics/tsa-workers-paychecks-trump-executive-order.html"
   ],
   [
-    "food",
+    "case",
     13,
-    "https://www.nytimes.com/2026/03/30/well/eat/meat-beef-rfk-jr.html"
+    "https://www.nytimes.com/2026/03/30/us/politics/trump-threats-oil-cuba-sanctions.html"
   ],
   [
-    "online",
+    "young",
     13,
-    "https://www.nytimes.com/2026/03/30/well/eat/meat-beef-rfk-jr.html"
+    "https://www.nytimes.com/2026/03/30/style/cpac-scene-maga.html"
   ],
   [
-    "outside",
+    "nasa",
     13,
-    "https://www.nytimes.com/2026/03/30/world/europe/parma-art-heist-renoir-matisse-cezanne-italy.html"
+    "https://www.nytimes.com/2026/03/30/science/nasa-astronauts-moon-americans-mood.html"
   ],
   [
-    "attack",
+    "york",
     13,
-    "https://www.nytimes.com/2026/03/30/world/africa/palm-sunday-attack-nigeria-dead.html"
+    "https://www.nytimes.com/2026/03/31/arts/television/colbert-no-kings-marches.html"
+  ],
+  [
+    "hezbollah",
+    13,
+    "https://www.nytimes.com/2026/03/30/us/michigan-synagogue-attack-hezbollah.html"
+  ],
+  [
+    "kid",
+    13,
+    "https://www.washingtonpost.com/national-security/2026/03/30/kid-rock-helicopter-flyby/"
+  ],
+  [
+    "rock",
+    13,
+    "https://www.washingtonpost.com/national-security/2026/03/30/kid-rock-helicopter-flyby/"
+  ],
+  [
+    "infrastructure",
+    13,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "latest",
+    13,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
     "foreign",
@@ -321,58 +356,23 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "east",
+    "cities",
     13,
-    "https://www.theguardian.com/commentisfree/2026/mar/30/trump-boomer-war-iran"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/30/no-kings-protest-crowds"
   ],
   [
-    "won",
+    "american",
     13,
-    "https://www.theguardian.com/us-news/2026/mar/30/trump-iran-war-reality"
+    "https://www.theguardian.com/books/2026/mar/31/transcription-by-ben-lerner-review-a-stunning-exploration-of-technology-and-storytelling"
   ],
   [
-    "york",
+    "london",
     13,
-    "https://www.theguardian.com/us-news/2026/mar/30/judge-pentagon-press-policy-weird"
+    "https://www.theguardian.com/film/2026/mar/31/james-mcavoy-scottish-glasgow-hollywood-x-men-hip-hop-hoax"
   ],
   [
     "return",
     13,
-    "https://www.theguardian.com/music/2026/mar/30/celine-dion-returns-to-performing-after-lengthy-hiatus-due-to-rare-health-condition"
-  ],
-  [
-    "democrats",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/mar/30/democrats-trump-dan-goldman-brad-lander"
-  ],
-  [
-    "sleep",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/mar/30/the-guardian-view-on-trumps-iran-war-escalation-without-end"
-  ],
-  [
-    "los",
-    13,
-    "https://www.theguardian.com/sport/2026/mar/30/la-2028-olympics-ticket-prices"
-  ],
-  [
-    "angeles",
-    13,
-    "https://www.theguardian.com/sport/2026/mar/30/la-2028-olympics-ticket-prices"
-  ],
-  [
-    "immigration",
-    12,
-    "https://www.nytimes.com/2026/03/30/us/senators-trump-airport-immigration-arrests.html"
-  ],
-  [
-    "agents",
-    12,
-    "https://www.nytimes.com/2026/03/30/us/senators-trump-airport-immigration-arrests.html"
-  ],
-  [
-    "case",
-    12,
-    "https://www.nytimes.com/2026/03/30/us/politics/trump-threats-oil-cuba-sanctions.html"
+    "https://www.theguardian.com/science/audio/2026/mar/31/does-going-to-the-moon-still-matter-podcast"
   ]
 ];
