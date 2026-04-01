@@ -2,153 +2,193 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    87,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-jews-penn-list-judge.html"
-  ],
-  [
-    "war",
-    66,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-regime-change-iran.html"
+    128,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-mail-in-ballots-voting-executive-order.html"
   ],
   [
     "iran",
-    61,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-regime-change-iran.html"
+    64,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-nuclear-threat-iran.html"
+  ],
+  [
+    "war",
+    60,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-nuclear-threat-iran.html"
   ],
   [
     "president",
-    39,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-regime-change-iran.html"
+    48,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-irs-lawsuit-doj.html"
+  ],
+  [
+    "court",
+    37,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-mail-in-ballots-voting-executive-order.html"
+  ],
+  [
+    "law",
+    31,
+    "https://www.nytimes.com/2026/03/31/us/politics/homeland-security-pay-shutdown.html"
   ],
   [
     "israel",
-    36,
+    27,
     "https://www.nytimes.com/2026/03/31/us/politics/trump-regime-change-iran.html"
   ],
   [
     "judge",
-    35,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-jews-penn-list-judge.html"
+    26,
+    "https://www.nytimes.com/2026/03/31/us/politics/judge-johnson-amendment-settlement.html"
   ],
   [
-    "court",
-    32,
-    "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-colorado-conversion-therapy.html"
-  ],
-  [
-    "law",
-    28,
-    "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-colorado-conversion-therapy.html"
-  ],
-  [
-    "media",
-    25,
-    "https://www.nytimes.com/2026/03/31/business/media/trump-npr-pbs-executive-order-ruling.html"
-  ],
-  [
-    "gas",
-    25,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-approval-ratings-gas-prices.html"
-  ],
-  [
-    "prices",
+    "order",
     24,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-approval-ratings-gas-prices.html"
-  ],
-  [
-    "social",
-    24,
-    "https://www.nytimes.com/2026/03/31/nyregion/mamdani-tiktok-nyc.html"
-  ],
-  [
-    "donald",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/mar/31/trump-words-iran-war-churchill"
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-mail-in-ballots-voting-executive-order.html"
   ],
   [
     "supreme",
-    20,
+    24,
     "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-colorado-conversion-therapy.html"
   ],
   [
+    "social",
+    23,
+    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
+  ],
+  [
+    "california",
+    23,
+    "https://www.theguardian.com/technology/2026/mar/31/silicon-valley-milpitas-doorbell-cameras"
+  ],
+  [
+    "prices",
+    22,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-approval-ratings-gas-prices.html"
+  ],
+  [
+    "country",
+    22,
+    "https://www.nytimes.com/2026/03/31/us/politics/tmz-congress.html"
+  ],
+  [
+    "media",
+    22,
+    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
+  ],
+  [
+    "moon",
+    22,
+    "https://www.theguardian.com/music/2026/mar/31/it-was-an-exorcism-how-heartbreak-queer-rebirth-and-finding-love-over-only-connect-shaped-wendy-eisenbergs-stunning-new-album"
+  ],
+  [
     "black",
-    20,
+    21,
     "https://www.theguardian.com/culture/2026/mar/31/black-women-dinners-supper-clubs"
   ],
   [
-    "games",
+    "donald",
     20,
-    "https://www.theguardian.com/commentisfree/2026/mar/31/to-include-online-games-in-social-media-bans-is-unworkable-unnecessary-and-would-harm-young-people"
+    "https://www.theguardian.com/commentisfree/2026/mar/31/trump-words-iran-war-churchill"
   ],
   [
-    "oil",
+    "video",
+    20,
+    "https://www.theguardian.com/technology/2026/mar/31/silicon-valley-milpitas-doorbell-cameras"
+  ],
+  [
+    "young",
     19,
-    "https://www.theguardian.com/world/2026/mar/31/trump-launches-tirade-against-european-countries-not-joining-iran-war"
+    "https://www.theguardian.com/film/2026/mar/31/the-drama-review-zendaya-robert-pattinson-wedding-film"
   ],
   [
-    "international",
+    "latest",
+    18,
+    "https://www.nytimes.com/2026/03/31/us/politics/republicans-reconciliation-homeland-security-funding.html"
+  ],
+  [
+    "death",
     18,
     "https://www.theguardian.com/commentisfree/2026/mar/31/us-iran-war-troops"
   ],
   [
-    "because",
+    "woods",
+    18,
+    "https://www.theguardian.com/sport/2026/mar/31/tiger-woods-dui-crash-affidavit-phone-florida"
+  ],
+  [
+    "artemis",
+    18,
+    "https://www.theguardian.com/us-news/2026/mar/30/nasa-artemis-launch-florida"
+  ],
+  [
+    "oil",
     17,
-    "https://www.nytimes.com/2026/03/31/business/media/trump-npr-pbs-executive-order-ruling.html"
+    "https://www.nytimes.com/2026/03/31/business/oil-stocks-gas-prices-iran.html"
   ],
   [
-    "name",
+    "gas",
     17,
-    "https://www.nytimes.com/2026/03/31/business/mccormick-unilever-food-aquisition.html"
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-approval-ratings-gas-prices.html"
   ],
   [
-    "east",
+    "military",
     17,
-    "https://www.theguardian.com/world/2026/mar/31/israel-vows-occupy-large-parts-southern-lebanon-expand-buffer-zone"
+    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
   ],
   [
-    "video",
+    "american",
     17,
-    "https://www.theguardian.com/film/2026/mar/31/the-super-mario-galaxy-movie-review-sequel-video-game-chris-pratt-charlie-day"
-  ],
-  [
-    "texas",
-    17,
-    "https://www.theguardian.com/us-news/2026/mar/31/cesar-chavez-sexual-assault-farmworker-movement"
-  ],
-  [
-    "order",
-    16,
-    "https://www.nytimes.com/2026/03/31/business/media/trump-npr-pbs-executive-order-ruling.html"
-  ],
-  [
-    "therapy",
-    16,
-    "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-colorado-conversion-therapy.html"
-  ],
-  [
-    "rights",
-    16,
-    "https://www.nytimes.com/2026/03/31/nyregion/cesar-chavez-reactions.html"
-  ],
-  [
-    "early",
-    16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "death",
-    16,
     "https://www.theguardian.com/commentisfree/2026/mar/31/us-iran-war-troops"
   ],
   [
     "film",
+    17,
+    "https://www.theguardian.com/film/2026/mar/31/the-drama-review-zendaya-robert-pattinson-wedding-film"
+  ],
+  [
+    "despite",
+    16,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-nuclear-threat-iran.html"
+  ],
+  [
+    "because",
+    16,
+    "https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html"
+  ],
+  [
+    "administration",
+    16,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-approval-ratings-gas-prices.html"
+  ],
+  [
+    "review",
     16,
     "https://www.theguardian.com/film/2026/mar/31/the-drama-review-zendaya-robert-pattinson-wedding-film"
   ],
   [
-    "young",
+    "citizenship",
     16,
-    "https://www.theguardian.com/film/2026/mar/31/the-drama-review-zendaya-robert-pattinson-wedding-film"
+    "https://www.theguardian.com/commentisfree/2026/mar/31/trump-words-iran-war-churchill"
+  ],
+  [
+    "executive",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/31/trump-executive-order-restrict-mail-in-ballots"
+  ],
+  [
+    "tiger",
+    16,
+    "https://www.theguardian.com/sport/2026/mar/31/tiger-woods-dui-crash-affidavit-phone-florida"
+  ],
+  [
+    "final",
+    16,
+    "https://www.theguardian.com/football/2026/mar/31/bosnia-herzegovina-italy-world-cup-2026-qualifying-playoff-match-report"
+  ],
+  [
+    "human",
+    16,
+    "https://www.theguardian.com/world/video/2026/mar/31/death-penalty-for-palestinians-approved-in-israel-the-latest"
   ],
   [
     "hair",
@@ -156,109 +196,99 @@
     "https://www.theguardian.com/commentisfree/2026/apr/01/injectable-peptides-social-media-health-trend-glow-up"
   ],
   [
-    "military",
+    "mission",
+    16,
+    "https://www.theguardian.com/world/2026/apr/01/molly-border-collie-rescued-new-zealand"
+  ],
+  [
+    "political",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/31/charlie-kirk-bullet-rifle"
+  ],
+  [
+    "mail",
     15,
-    "https://www.nytimes.com/2026/03/31/us/politics/pentagon-anti-drone-lasers-dc.html"
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-mail-in-ballots-voting-executive-order.html"
   ],
   [
     "department",
     15,
-    "https://www.nytimes.com/2026/03/31/us/politics/tmz-congress.html"
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-irs-lawsuit-doj.html"
   ],
   [
-    "country",
+    "near",
     15,
-    "https://www.nytimes.com/2026/03/31/us/politics/tmz-congress.html"
+    "https://www.nytimes.com/2026/03/31/business/oil-stocks-gas-prices-iran.html"
   ],
   [
-    "movie",
+    "online",
     15,
-    "https://www.nytimes.com/2026/03/31/arts/instagram-pg-13-rating-mpa-meta-teen-safety.html"
+    "https://www.nytimes.com/2026/03/31/us/politics/newsom-social-media-grindr-homophobia.html"
   ],
   [
-    "star",
+    "beach",
     15,
-    "https://www.theguardian.com/sport/2026/mar/31/lamar-odom-documentary-nba-basketball"
+    "https://www.nytimes.com/2026/03/31/us/miami-sailboat-crash-biscayne-bay-manslaughter.html"
   ],
   [
-    "political",
+    "don",
     15,
-    "https://www.theguardian.com/us-news/2026/mar/31/charlie-kirk-bullet-rifle"
+    "https://www.washingtonpost.com/education/2026/03/31/graduate-degree-earnings-study/"
   ],
   [
     "police",
     15,
-    "https://www.theguardian.com/us-news/2026/mar/31/us-marine-detained-tsa-live-explosive"
+    "https://www.theguardian.com/technology/2026/mar/31/silicon-valley-milpitas-doorbell-cameras"
   ],
   [
-    "conversion",
+    "states",
     14,
-    "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-colorado-conversion-therapy.html"
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-regime-change-iran.html"
   ],
   [
-    "defense",
+    "conflict",
     14,
-    "https://www.nytimes.com/2026/03/31/us/politics/pentagon-anti-drone-lasers-dc.html"
+    "https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html"
   ],
   [
-    "secretary",
+    "israeli",
     14,
-    "https://www.nytimes.com/2026/03/31/us/politics/pentagon-anti-drone-lasers-dc.html"
+    "https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html"
   ],
   [
-    "himself",
+    "security",
     14,
-    "https://www.theguardian.com/commentisfree/2026/mar/31/trump-words-iran-war-churchill"
+    "https://www.nytimes.com/2026/03/31/us/politics/republicans-reconciliation-homeland-security-funding.html"
   ],
   [
-    "middle",
+    "children",
     14,
-    "https://www.theguardian.com/world/2026/mar/31/israel-vows-occupy-large-parts-southern-lebanon-expand-buffer-zone"
+    "https://www.nytimes.com/2026/03/31/us/miami-sailboat-crash-biscayne-bay-manslaughter.html"
   ],
   [
-    "south",
+    "early",
     14,
-    "https://www.theguardian.com/world/2026/mar/31/israel-vows-occupy-large-parts-southern-lebanon-expand-buffer-zone"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "ballroom",
+    "released",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/31/judge-blocks-trump-white-house-ballroom-plan"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "construction",
+    "movie",
     14,
-    "https://www.theguardian.com/us-news/2026/mar/31/judge-blocks-trump-white-house-ballroom-plan"
+    "https://www.theguardian.com/film/2026/mar/31/the-drama-review-zendaya-robert-pattinson-wedding-film"
   ],
   [
-    "series",
+    "treatment",
     14,
-    "https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss"
+    "https://www.theguardian.com/sport/2026/mar/31/tiger-woods-dui-crash-affidavit-phone-florida"
   ],
   [
-    "online",
+    "rights",
     14,
-    "https://www.theguardian.com/technology/2026/mar/31/meta-youtube-social-media-court-cases"
-  ],
-  [
-    "game",
-    14,
-    "https://www.theguardian.com/film/2026/mar/31/the-super-mario-galaxy-movie-review-sequel-video-game-chris-pratt-charlie-day"
-  ],
-  [
-    "final",
-    14,
-    "https://www.theguardian.com/football/live/2026/mar/31/world-cup-2026-playoffs-sweden-v-poland-czech-republic-v-denmark-kosovo-v-turkey-live"
-  ],
-  [
-    "school",
-    14,
-    "https://www.theguardian.com/us-news/2026/mar/31/texas-school-shooting-bulverde"
-  ],
-  [
-    "music",
-    14,
-    "https://www.theguardian.com/books/2026/mar/31/brandy-phases-memoir-revelations-whitney-houston-michael-jackson-wanya-morris-boyz-ii-men"
+    "https://www.theguardian.com/world/video/2026/mar/31/death-penalty-for-palestinians-approved-in-israel-the-latest"
   ],
   [
     "guide",
@@ -266,49 +296,74 @@
     "https://www.theguardian.com/thefilter-us/2026/mar/29/best-spring-cleaning-supplies"
   ],
   [
-    "states",
+    "change",
     13,
     "https://www.nytimes.com/2026/03/31/us/politics/trump-regime-change-iran.html"
   ],
   [
-    "near",
+    "south",
     13,
-    "https://www.nytimes.com/2026/03/31/us/politics/pentagon-anti-drone-lasers-dc.html"
+    "https://www.nytimes.com/2026/03/31/us/politics/kristi-noem-husband-photos-daily-mail.html"
   ],
   [
-    "led",
+    "case",
     13,
-    "https://www.nytimes.com/2026/03/31/us/cesar-chavez-day-fallen-hero.html"
+    "https://www.nytimes.com/2026/03/31/us/politics/judge-johnson-amendment-settlement.html"
   ],
   [
-    "don",
+    "far",
     13,
-    "https://www.washingtonpost.com/education/2026/03/31/graduate-degree-earnings-study/"
+    "https://www.nytimes.com/2026/04/01/world/africa/cape-town-housing-crisis.html"
   ],
   [
-    "israeli",
+    "investigation",
     13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/03/31/nyregion/investigation-nyc-councilwoman-hochul-aide.html"
   ],
   [
-    "latest",
+    "army",
     13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
   ],
   [
-    "trump's",
+    "international",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/commentisfree/2026/mar/31/us-iran-war-troops"
   ],
   [
-    "director",
+    "florida",
     13,
-    "https://www.theguardian.com/film/2026/mar/31/the-drama-review-zendaya-robert-pattinson-wedding-film"
+    "https://www.theguardian.com/culture/2026/mar/31/black-women-dinners-supper-clubs"
   ],
   [
-    "little",
+    "seek",
     13,
-    "https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss"
+    "https://www.theguardian.com/sport/2026/mar/31/tiger-woods-dui-crash-affidavit-phone-florida"
+  ],
+  [
+    "health",
+    13,
+    "https://www.theguardian.com/sport/2026/mar/31/tiger-woods-dui-crash-affidavit-phone-florida"
+  ],
+  [
+    "plans",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/31/trump-presidential-library-plans-miami-ridicule"
+  ],
+  [
+    "night",
+    13,
+    "https://www.theguardian.com/us-news/2026/mar/31/trump-presidential-library-plans-miami-ridicule"
+  ],
+  [
+    "music",
+    13,
+    "https://www.theguardian.com/books/2026/mar/31/brandy-phases-memoir-revelations-whitney-houston-michael-jackson-wanya-morris-boyz-ii-men"
+  ],
+  [
+    "love",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/mar/31/love-on-the-spectrum-netflix"
   ],
   [
     "filter",
@@ -316,63 +371,8 @@
     "https://www.theguardian.com/culture/2026/mar/31/late-night-hosts-jon-stewart-trump-iran-war"
   ],
   [
-    "place",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/mar/31/cesar-chavez-farmworkers-day-heroes-protest"
-  ],
-  [
-    "woods",
-    13,
-    "https://www.theguardian.com/sport/2026/mar/31/tiger-woods-dui-crash-affidavit-phone-florida"
-  ],
-  [
-    "sex",
-    13,
-    "https://www.theguardian.com/us-news/2026/mar/31/robert-morris-jail-release-child-sexual-abuse-gateway-church"
-  ],
-  [
-    "beach",
-    13,
-    "https://www.theguardian.com/world/2026/mar/31/vanuatu-indigenous-leaders-lelepa-cruise-resort"
-  ],
-  [
     "protein",
     13,
     "https://www.theguardian.com/thefilter-us/2026/jan/28/best-protein-bars"
-  ],
-  [
-    "american",
-    12,
-    "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-birthright-family-histories.html"
-  ],
-  [
-    "history",
-    12,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-approval-ratings-gas-prices.html"
-  ],
-  [
-    "child",
-    12,
-    "https://www.nytimes.com/2026/03/31/nyregion/mamdani-child-care-upper-east-side.html"
-  ],
-  [
-    "food",
-    12,
-    "https://www.nytimes.com/2026/03/31/business/mccormick-unilever-food-aquisition.html"
-  ],
-  [
-    "children",
-    12,
-    "https://www.washingtonpost.com/immigration/2026/03/31/daca-trump-immigrant-kids-deported/"
-  ],
-  [
-    "gaza",
-    12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "despite",
-    12,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ]
 ];
