@@ -2,233 +2,228 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    128,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-mail-in-ballots-voting-executive-order.html"
+    130,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-white-house-ballroom-construction-ruling.html"
   ],
   [
     "iran",
-    64,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-nuclear-threat-iran.html"
-  ],
-  [
-    "war",
-    60,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-nuclear-threat-iran.html"
+    57,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-says-us-will-be-out-of-iran-within-two-to-three-weeks.html"
   ],
   [
     "president",
-    48,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-irs-lawsuit-doj.html"
+    52,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-white-house-ballroom-construction-ruling.html"
+  ],
+  [
+    "war",
+    50,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-nuclear-threat-iran.html"
   ],
   [
     "court",
-    37,
+    34,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-mail-in-ballots-voting-executive-order.html"
+  ],
+  [
+    "judge",
+    32,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-white-house-ballroom-construction-ruling.html"
+  ],
+  [
+    "order",
+    27,
     "https://www.nytimes.com/2026/03/31/us/politics/trump-mail-in-ballots-voting-executive-order.html"
   ],
   [
     "law",
-    31,
+    25,
     "https://www.nytimes.com/2026/03/31/us/politics/homeland-security-pay-shutdown.html"
   ],
   [
-    "israel",
-    27,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-regime-change-iran.html"
-  ],
-  [
-    "judge",
-    26,
-    "https://www.nytimes.com/2026/03/31/us/politics/judge-johnson-amendment-settlement.html"
-  ],
-  [
-    "order",
-    24,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-mail-in-ballots-voting-executive-order.html"
-  ],
-  [
-    "supreme",
-    24,
-    "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-colorado-conversion-therapy.html"
-  ],
-  [
-    "social",
-    23,
+    "media",
+    25,
     "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
-  ],
-  [
-    "california",
-    23,
-    "https://www.theguardian.com/technology/2026/mar/31/silicon-valley-milpitas-doorbell-cameras"
-  ],
-  [
-    "prices",
-    22,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-approval-ratings-gas-prices.html"
   ],
   [
     "country",
-    22,
+    24,
     "https://www.nytimes.com/2026/03/31/us/politics/tmz-congress.html"
   ],
   [
-    "media",
-    22,
+    "social",
+    24,
     "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
   ],
   [
-    "moon",
-    22,
-    "https://www.theguardian.com/music/2026/mar/31/it-was-an-exorcism-how-heartbreak-queer-rebirth-and-finding-love-over-only-connect-shaped-wendy-eisenbergs-stunning-new-album"
+    "mail",
+    23,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-mail-in-ballots-voting-executive-order.html"
   ],
   [
-    "black",
-    21,
-    "https://www.theguardian.com/culture/2026/mar/31/black-women-dinners-supper-clubs"
-  ],
-  [
-    "donald",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/mar/31/trump-words-iran-war-churchill"
+    "israel",
+    23,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-regime-change-iran.html"
   ],
   [
     "video",
+    22,
+    "https://www.theguardian.com/us-news/2026/mar/31/trump-presidential-library-plans-miami-ridicule"
+  ],
+  [
+    "film",
+    21,
+    "https://www.nytimes.com/2026/03/31/movies/slava-tsukerman-dead.html"
+  ],
+  [
+    "supreme",
     20,
+    "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-colorado-conversion-therapy.html"
+  ],
+  [
+    "moon",
+    20,
+    "https://www.theguardian.com/science/2026/apr/01/nasa-rocket-moon-launch-artemis-ii"
+  ],
+  [
+    "latest",
+    19,
+    "https://www.nytimes.com/2026/03/31/us/politics/republicans-reconciliation-homeland-security-funding.html"
+  ],
+  [
+    "administration",
+    19,
+    "https://www.washingtonpost.com/nation/2026/03/31/eeoc-lawsuit-coca-cola-bottler-discrimination/"
+  ],
+  [
+    "love",
+    19,
+    "https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep"
+  ],
+  [
+    "citizenship",
+    19,
+    "https://www.theguardian.com/us-news/2026/mar/31/trump-order-election-voting-explainer"
+  ],
+  [
+    "california",
+    19,
     "https://www.theguardian.com/technology/2026/mar/31/silicon-valley-milpitas-doorbell-cameras"
   ],
   [
     "young",
     19,
-    "https://www.theguardian.com/film/2026/mar/31/the-drama-review-zendaya-robert-pattinson-wedding-film"
+    "https://www.theguardian.com/sport/2026/mar/31/lamar-odom-documentary-nba-basketball"
   ],
   [
-    "latest",
+    "army",
     18,
-    "https://www.nytimes.com/2026/03/31/us/politics/republicans-reconciliation-homeland-security-funding.html"
+    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
   ],
   [
-    "death",
+    "review",
     18,
-    "https://www.theguardian.com/commentisfree/2026/mar/31/us-iran-war-troops"
+    "https://www.theguardian.com/books/2026/apr/01/baldwin-by-nicholas-boggs-review-the-relationships-that-drove-a-genius"
   ],
   [
-    "woods",
-    18,
-    "https://www.theguardian.com/sport/2026/mar/31/tiger-woods-dui-crash-affidavit-phone-florida"
-  ],
-  [
-    "artemis",
-    18,
-    "https://www.theguardian.com/us-news/2026/mar/30/nasa-artemis-launch-florida"
-  ],
-  [
-    "oil",
-    17,
-    "https://www.nytimes.com/2026/03/31/business/oil-stocks-gas-prices-iran.html"
-  ],
-  [
-    "gas",
-    17,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-approval-ratings-gas-prices.html"
-  ],
-  [
-    "military",
+    "kid",
     17,
     "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
   ],
   [
-    "american",
+    "police",
     17,
-    "https://www.theguardian.com/commentisfree/2026/mar/31/us-iran-war-troops"
+    "https://www.theguardian.com/books/2026/apr/01/baldwin-by-nicholas-boggs-review-the-relationships-that-drove-a-genius"
   ],
   [
-    "film",
+    "hair",
     17,
-    "https://www.theguardian.com/film/2026/mar/31/the-drama-review-zendaya-robert-pattinson-wedding-film"
-  ],
-  [
-    "despite",
-    16,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-nuclear-threat-iran.html"
-  ],
-  [
-    "because",
-    16,
-    "https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html"
-  ],
-  [
-    "administration",
-    16,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-approval-ratings-gas-prices.html"
-  ],
-  [
-    "review",
-    16,
-    "https://www.theguardian.com/film/2026/mar/31/the-drama-review-zendaya-robert-pattinson-wedding-film"
-  ],
-  [
-    "citizenship",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/mar/31/trump-words-iran-war-churchill"
+    "https://www.theguardian.com/global-development/2026/apr/01/women-behind-the-lens-laetitia-ky-natural-hair-sculptural-hairstyles-empowering"
   ],
   [
     "executive",
-    16,
+    17,
     "https://www.theguardian.com/us-news/2026/mar/31/trump-executive-order-restrict-mail-in-ballots"
   ],
   [
-    "tiger",
+    "artemis",
+    17,
+    "https://www.theguardian.com/science/2026/apr/01/nasa-rocket-moon-launch-artemis-ii"
+  ],
+  [
+    "mission",
+    17,
+    "https://www.theguardian.com/science/2026/apr/01/nasa-rocket-moon-launch-artemis-ii"
+  ],
+  [
+    "black",
+    17,
+    "https://www.theguardian.com/sport/2026/mar/31/dan-hurleys-head-butt-showed-black-coaches-arent-allowed-to-do-what-white-coaches-do"
+  ],
+  [
+    "department",
+    16,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-irs-lawsuit-doj.html"
+  ],
+  [
+    "online",
+    16,
+    "https://www.nytimes.com/2026/03/31/us/politics/newsom-social-media-grindr-homophobia.html"
+  ],
+  [
+    "near",
+    16,
+    "https://www.nytimes.com/2026/04/01/world/africa/cape-town-housing-crisis.html"
+  ],
+  [
+    "investigation",
+    16,
+    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
+  ],
+  [
+    "name",
+    16,
+    "https://www.theguardian.com/books/2026/apr/01/baldwin-by-nicholas-boggs-review-the-relationships-that-drove-a-genius"
+  ],
+  [
+    "donald",
+    16,
+    "https://www.theguardian.com/us-news/2026/mar/31/us-military-draft-fears-trump-iran-war"
+  ],
+  [
+    "woods",
     16,
     "https://www.theguardian.com/sport/2026/mar/31/tiger-woods-dui-crash-affidavit-phone-florida"
   ],
   [
-    "final",
+    "movie",
     16,
-    "https://www.theguardian.com/football/2026/mar/31/bosnia-herzegovina-italy-world-cup-2026-qualifying-playoff-match-report"
+    "https://www.theguardian.com/film/2026/mar/31/the-super-mario-galaxy-movie-review-sequel-video-game-chris-pratt-charlie-day"
   ],
   [
-    "human",
-    16,
-    "https://www.theguardian.com/world/video/2026/mar/31/death-penalty-for-palestinians-approved-in-israel-the-latest"
-  ],
-  [
-    "hair",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/apr/01/injectable-peptides-social-media-health-trend-glow-up"
-  ],
-  [
-    "mission",
-    16,
-    "https://www.theguardian.com/world/2026/apr/01/molly-border-collie-rescued-new-zealand"
-  ],
-  [
-    "political",
-    16,
-    "https://www.theguardian.com/us-news/2026/mar/31/charlie-kirk-bullet-rifle"
-  ],
-  [
-    "mail",
+    "despite",
     15,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-mail-in-ballots-voting-executive-order.html"
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-nuclear-threat-iran.html"
   ],
   [
-    "department",
+    "far",
     15,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-irs-lawsuit-doj.html"
+    "https://www.nytimes.com/2026/04/01/world/africa/cape-town-housing-crisis.html"
   ],
   [
-    "near",
+    "american",
     15,
-    "https://www.nytimes.com/2026/03/31/business/oil-stocks-gas-prices-iran.html"
+    "https://www.nytimes.com/2026/04/01/opinion/padma-lakshmi-birthright-citizenship-food.html"
   ],
   [
-    "online",
+    "hegseth",
     15,
-    "https://www.nytimes.com/2026/03/31/us/politics/newsom-social-media-grindr-homophobia.html"
+    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
   ],
   [
-    "beach",
+    "military",
     15,
-    "https://www.nytimes.com/2026/03/31/us/miami-sailboat-crash-biscayne-bay-manslaughter.html"
+    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
   ],
   [
     "don",
@@ -236,59 +231,59 @@
     "https://www.washingtonpost.com/education/2026/03/31/graduate-degree-earnings-study/"
   ],
   [
-    "police",
-    15,
-    "https://www.theguardian.com/technology/2026/mar/31/silicon-valley-milpitas-doorbell-cameras"
-  ],
-  [
-    "states",
-    14,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-regime-change-iran.html"
-  ],
-  [
-    "conflict",
-    14,
-    "https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html"
-  ],
-  [
-    "israeli",
-    14,
-    "https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html"
-  ],
-  [
-    "security",
-    14,
-    "https://www.nytimes.com/2026/03/31/us/politics/republicans-reconciliation-homeland-security-funding.html"
-  ],
-  [
-    "children",
-    14,
-    "https://www.nytimes.com/2026/03/31/us/miami-sailboat-crash-biscayne-bay-manslaughter.html"
-  ],
-  [
     "early",
-    14,
+    15,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "released",
-    14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "death",
+    15,
+    "https://www.theguardian.com/books/2026/apr/01/baldwin-by-nicholas-boggs-review-the-relationships-that-drove-a-genius"
   ],
   [
-    "movie",
-    14,
-    "https://www.theguardian.com/film/2026/mar/31/the-drama-review-zendaya-robert-pattinson-wedding-film"
+    "political",
+    15,
+    "https://www.theguardian.com/us-news/2026/mar/31/charlie-kirk-bullet-rifle"
   ],
   [
-    "treatment",
+    "east",
     14,
-    "https://www.theguardian.com/sport/2026/mar/31/tiger-woods-dui-crash-affidavit-phone-florida"
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-white-house-ballroom-construction-ruling.html"
   ],
   [
-    "rights",
+    "because",
     14,
-    "https://www.theguardian.com/world/video/2026/mar/31/death-penalty-for-palestinians-approved-in-israel-the-latest"
+    "https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html"
+  ],
+  [
+    "south",
+    14,
+    "https://www.nytimes.com/2026/03/31/us/politics/kristi-noem-husband-photos-daily-mail.html"
+  ],
+  [
+    "gas",
+    14,
+    "https://www.nytimes.com/2026/04/01/arts/television/stephen-colbert-trump-popularity.html"
+  ],
+  [
+    "york",
+    14,
+    "https://www.nytimes.com/2026/03/31/movies/slava-tsukerman-dead.html"
+  ],
+  [
+    "human",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/apr/01/injectable-peptides-social-media-health-trend-glow-up"
+  ],
+  [
+    "plans",
+    14,
+    "https://www.theguardian.com/world/2026/apr/01/iran-energy-crisis-asia-dirty-fuels-coal"
+  ],
+  [
+    "journalist",
+    14,
+    "https://www.theguardian.com/world/2026/apr/01/shelly-kittleson-us-american-journalist-kidnapped-iraq"
   ],
   [
     "guide",
@@ -296,74 +291,54 @@
     "https://www.theguardian.com/thefilter-us/2026/mar/29/best-spring-cleaning-supplies"
   ],
   [
-    "change",
-    13,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-regime-change-iran.html"
+    "food",
+    14,
+    "https://www.theguardian.com/thefilter-us/2025/dec/25/glass-food-containers-to-store-leftovers"
   ],
   [
-    "south",
+    "conflict",
     13,
-    "https://www.nytimes.com/2026/03/31/us/politics/kristi-noem-husband-photos-daily-mail.html"
+    "https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html"
   ],
   [
-    "case",
+    "hard",
     13,
-    "https://www.nytimes.com/2026/03/31/us/politics/judge-johnson-amendment-settlement.html"
+    "https://www.nytimes.com/2026/04/01/world/europe/uk-prisons-contraband-drones.html"
   ],
   [
-    "far",
-    13,
-    "https://www.nytimes.com/2026/04/01/world/africa/cape-town-housing-crisis.html"
-  ],
-  [
-    "investigation",
-    13,
-    "https://www.nytimes.com/2026/03/31/nyregion/investigation-nyc-councilwoman-hochul-aide.html"
-  ],
-  [
-    "army",
+    "announced",
     13,
     "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
   ],
   [
-    "international",
+    "released",
     13,
-    "https://www.theguardian.com/commentisfree/2026/mar/31/us-iran-war-troops"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "florida",
+    "secretary",
     13,
-    "https://www.theguardian.com/culture/2026/mar/31/black-women-dinners-supper-clubs"
-  ],
-  [
-    "seek",
-    13,
-    "https://www.theguardian.com/sport/2026/mar/31/tiger-woods-dui-crash-affidavit-phone-florida"
-  ],
-  [
-    "health",
-    13,
-    "https://www.theguardian.com/sport/2026/mar/31/tiger-woods-dui-crash-affidavit-phone-florida"
-  ],
-  [
-    "plans",
-    13,
-    "https://www.theguardian.com/us-news/2026/mar/31/trump-presidential-library-plans-miami-ridicule"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "night",
     13,
-    "https://www.theguardian.com/us-news/2026/mar/31/trump-presidential-library-plans-miami-ridicule"
+    "https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep"
+  ],
+  [
+    "rights",
+    13,
+    "https://www.theguardian.com/books/2026/apr/01/baldwin-by-nicholas-boggs-review-the-relationships-that-drove-a-genius"
+  ],
+  [
+    "tiger",
+    13,
+    "https://www.theguardian.com/sport/2026/mar/31/tiger-woods-dui-crash-affidavit-phone-florida"
   ],
   [
     "music",
     13,
-    "https://www.theguardian.com/books/2026/mar/31/brandy-phases-memoir-revelations-whitney-houston-michael-jackson-wanya-morris-boyz-ii-men"
-  ],
-  [
-    "love",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/mar/31/love-on-the-spectrum-netflix"
+    "https://www.theguardian.com/music/2026/mar/31/it-was-an-exorcism-how-heartbreak-queer-rebirth-and-finding-love-over-only-connect-shaped-wendy-eisenbergs-stunning-new-album"
   ],
   [
     "filter",
@@ -374,5 +349,30 @@
     "protein",
     13,
     "https://www.theguardian.com/thefilter-us/2026/jan/28/best-protein-bars"
+  ],
+  [
+    "attend",
+    13,
+    "https://www.npr.org/2026/04/01/g-s1-116019/trump-attend-supreme-court-birthright-citizenship"
+  ],
+  [
+    "seek",
+    12,
+    "https://www.nytimes.com/2026/03/31/us/politics/trump-white-house-ballroom-construction-ruling.html"
+  ],
+  [
+    "security",
+    12,
+    "https://www.nytimes.com/2026/03/31/us/politics/republicans-reconciliation-homeland-security-funding.html"
+  ],
+  [
+    "feel",
+    12,
+    "https://www.nytimes.com/2026/03/31/us/politics/kristi-noem-husband-photos-daily-mail.html"
+  ],
+  [
+    "season",
+    12,
+    "https://www.nytimes.com/2026/04/01/arts/television/stephen-colbert-trump-popularity.html"
   ]
 ];
