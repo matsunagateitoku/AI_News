@@ -2,132 +2,70 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Set To Deliver Rare Primetime Address About War With Iran",
-      "count": 82,
-      "url": "https://www.today.com/video/trump-set-to-deliver-rare-primetime-address-about-war-with-iran-260497477657",
-      "source": "NBC News"
-    },
-    {
-      "name": "Ai",
-      "count": 19,
-      "url": "https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nasa",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/04/01/podcasts/the-headlines/trump-war-plans-tmz-congress.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The White House",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/03/31/us/politics/trump-irs-lawsuit-doj.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Supreme Court For Oral Arguments",
-      "count": 12,
+      "name": "Trump Attends Supreme Court Oral Arguments",
+      "count": 74,
       "url": "https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html",
       "source": "NY Times"
     },
     {
+      "name": "Artemis Ii",
+      "count": 24,
+      "url": "https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nasa",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/04/01/science/nasa-artemis-ii-moon-astronauts-safety.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Nato",
-      "count": 12,
+      "count": 17,
       "url": "https://www.nytimes.com/2026/04/01/world/middleeast/trump-europe-nato-iran.html",
       "source": "NY Times"
     },
     {
+      "name": "Ai",
+      "count": 16,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/01/michael-patrick-king-the-comeback-ai-twist-lisa-kudrow",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Booker Urges Supreme Court",
+      "count": 16,
+      "url": "https://www.cbsnews.com/news/roundup-cancer-lawsuits-supreme-court/",
+      "source": "CBS News"
+    },
+    {
       "name": "The Filter Us",
-      "count": 11,
+      "count": 12,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Guardian News",
+      "name": "Gop",
       "count": 11,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/politics/story/2026-04-01/california-governors-race-democrats-locked-out-chance",
+      "source": "LA Times"
     },
     {
-      "name": "Artemis Ii Astronauts Set",
-      "count": 11,
-      "url": "https://www.today.com/video/artemis-ii-astronauts-set-for-first-lunar-fly-by-in-half-a-century-260497477627",
-      "source": "NBC News"
+      "name": "Senate",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/01/donald-trump-supreme-court-birthright-citizenship-case-us-politics-latest-news-updates",
+      "source": "The Guardian"
     },
     {
       "name": "The Supreme Court",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/04/01/us/politics/wong-kim-ark-birthright-citizenship.html",
-      "source": "NY Times"
-    }
-  ],
-  "EVENT": [
-    {
-      "name": "Third World Cup",
-      "count": 9,
-      "url": "https://www.theguardian.com/football/2026/apr/01/italy-miss-out-world-cup-qualify",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/01/trump-birthright-citizenship-supreme-court",
       "source": "The Guardian"
-    },
-    {
-      "name": "The Iran War",
-      "count": 6,
-      "url": "https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump",
-      "source": "NPR"
-    },
-    {
-      "name": "Iran War       Houthi",
-      "count": 4,
-      "url": "https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/apr/01/world-cup-48-questions-messi-ronaldo-trump-tickets",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The “World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/apr/01/italy-miss-out-world-cup-qualify",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hurricane Sandy",
-      "count": 1,
-      "url": "https://www.theguardian.com/books/2026/apr/01/under-water-by-tara-menon-review-love-loss-and-a-longing-for-the-ocean",
-      "source": "The Guardian"
-    },
-    {
-      "name": "International Booker",
-      "count": 1,
-      "url": "https://www.theguardian.com/books/2026/mar/31/2026-international-booker-prize-shortlist-announced-marie-ndiaye-yang-shuang-zi-daniel-kehlmann",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Super Mario Bros.",
-      "count": 1,
-      "url": "https://www.theguardian.com/games/2026/mar/25/my-quest-to-preserve-vhs-era-video-culture-one-ebay-bid-at-a-time",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran War'S",
-      "count": 1,
-      "url": "https://www.cbsnews.com/video/jpmorgan-chase-ceo-jamie-dimon-weighs-in-on-iran-wars-economic-impacts/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Today",
-      "count": 1,
-      "url": "https://www.today.com/video/artemis-ii-astronauts-set-for-first-lunar-fly-by-in-half-a-century-260497477627",
-      "source": "NBC News"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 42,
+      "count": 44,
       "url": "https://www.theguardian.com/commentisfree/2026/apr/01/billionaire-wealth-tax-trump",
       "source": "The Guardian"
     },
@@ -138,21 +76,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "Shelly Kittleson",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/apr/01/shelly-kittleson-us-american-journalist-kidnapped-iraq",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pete Hegseth",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/mar/31/hegseth-kid-rock-army-helicopter-video",
-      "source": "The Guardian"
-    },
-    {
       "name": "Hormuz",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/mar/31/us-military-draft-fears-trump-iran-war",
+      "url": "https://www.theguardian.com/news/video/2026/apr/01/trump-lashes-out-at-nato-will-europe-stand-up-to-him-the-latest",
       "source": "The Guardian"
     },
     {
@@ -162,21 +88,21 @@
       "source": "The Guardian"
     },
     {
-      "name": "Luanne James",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/mar/31/tennessee-library-director-fired-lgbtq-books",
-      "source": "The Guardian"
-    },
-    {
       "name": "Wendy Eisenberg",
       "count": 5,
       "url": "https://www.theguardian.com/music/2026/mar/31/it-was-an-exorcism-how-heartbreak-queer-rebirth-and-finding-love-over-only-connect-shaped-wendy-eisenbergs-stunning-new-album",
       "source": "The Guardian"
     },
     {
-      "name": "Cesar Chavez",
+      "name": "Charles Bolden",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/mar/31/cesar-chavez-sexual-assault-farmworker-movement",
+      "url": "https://www.cbsnews.com/video/artemis-ii-crew-boards-orion-capsule/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Stella Mccartney",
+      "count": 4,
+      "url": "https://www.theguardian.com/fashion/2026/apr/01/stella-mccartney-granted-permission-for-home-in-scottish-highlands",
       "source": "The Guardian"
     },
     {
@@ -184,61 +110,55 @@
       "count": 4,
       "url": "https://www.theguardian.com/music/2026/apr/01/why-bachs-music-is-indestructible-tom-service-easter-chris-thile",
       "source": "The Guardian"
+    },
+    {
+      "name": "Juampi",
+      "count": 4,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/01/dear-killer-nannies-review-a-surprisingly-gut-punching-pablo-escobar-drama",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Megan Thee Stallion",
+      "count": 4,
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-04-01/megan-thee-stallion-recovering-hospitalization-extreme-exhaustion-dehydration",
+      "source": "LA Times"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 71,
-      "url": "https://www.theguardian.com/books/2026/apr/01/baldwin-by-nicholas-boggs-review-the-relationships-that-drove-a-genius",
+      "count": 70,
+      "url": "https://www.theguardian.com/world/2026/apr/01/trump-says-he-is-absolutely-considering-withdrawing-us-from-nato",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 53,
-      "url": "https://www.nytimes.com/2026/03/31/us/politics/trump-nuclear-threat-iran.html",
+      "count": 38,
+      "url": "https://www.nytimes.com/2026/04/01/us/politics/troops-iran-hotels.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 34,
-      "url": "https://www.nytimes.com/2026/04/01/world/europe/us-military-seeks-expansion-in-greenland.html",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/04/01/us/politics/troops-iran-hotels.html",
       "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 15,
-      "url": "https://www.theguardian.com/artanddesign/2026/apr/01/how-can-you-forget-me-filipino-american-stories-washington-show",
-      "source": "The Guardian"
     },
     {
       "name": "Israel",
       "count": 13,
-      "url": "https://www.nytimes.com/2026/04/01/world/middleeast/lebanon-shiite-israel-evacuation.html",
+      "url": "https://www.nytimes.com/2026/04/01/us/politics/aoc-congress-israel-military-aid.html",
       "source": "NY Times"
     },
     {
-      "name": "The United States Of America",
-      "count": 11,
-      "url": "https://thehill.com/homenews/administration/5810644-trump-iran-ceasefire-request/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Australia",
-      "count": 10,
-      "url": "https://www.theguardian.com/australia-news/2026/apr/01/western-australia-cyclone-narelle-damage-wildlife",
+      "name": "California",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/apr/01/windsurfer-hits-gray-whale-san-francisco",
       "source": "The Guardian"
     },
     {
       "name": "London",
-      "count": 9,
-      "url": "https://www.theguardian.com/society/commentisfree/2026/apr/01/finally-clitoris-getting-attention-it-deserves",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Florida",
-      "count": 9,
-      "url": "https://www.theguardian.com/science/2026/apr/01/nasa-rocket-moon-launch-artemis-ii",
+      "count": 12,
+      "url": "https://www.theguardian.com/artanddesign/2026/apr/01/method-man-wu-tang-clan-eddie-otcheres-best-photograph",
       "source": "The Guardian"
     },
     {
@@ -246,7 +166,63 @@
       "count": 9,
       "url": "https://www.theguardian.com/sport/2026/apr/01/chicago-bears-relocation-home-team-act-sanders-casar",
       "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-04-01/grenade-deaths-la-deputies-safety-violations",
+      "source": "LA Times"
+    },
+    {
+      "name": "Texas",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/01/capital-punishment-hip-hop-rap-lyrics",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Florida",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/apr/01/florida-new-voter-id-laws-proof-citizenship",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-04-01T14:42:57Z"
+  "EVENT": [
+    {
+      "name": "The World Cup",
+      "count": 11,
+      "url": "https://www.theguardian.com/football/2026/apr/01/world-cup-48-questions-messi-ronaldo-trump-tickets",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 4,
+      "url": "https://www.foxnews.com/politics/poll-position-where-trump-stands-among-americans-he-faces-nation-primetime",
+      "source": "Fox News"
+    },
+    {
+      "name": "Hurricane Sandy",
+      "count": 1,
+      "url": "https://www.theguardian.com/books/2026/apr/01/under-water-by-tara-menon-review-love-loss-and-a-longing-for-the-ocean",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "count": 1,
+      "url": "https://www.theguardian.com/games/2026/mar/25/my-quest-to-preserve-vhs-era-video-culture-one-ebay-bid-at-a-time",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Post-Oct. 7",
+      "count": 1,
+      "url": "https://www.npr.org/2026/04/01/g-s1-115947/this-fringe-actor-finds-the-spotlight-in-israels-most-provocative-film-post-oct-7",
+      "source": "NPR"
+    },
+    {
+      "name": "The Elite Eight",
+      "count": 1,
+      "url": "https://thehill.com/policy/keeping-score/5811353-record-ncaa-tournament-viewers/",
+      "source": "The Hill"
+    }
+  ],
+  "updated": "2026-04-01T19:59:05Z"
 };

@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    124,
-    "https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html"
+    110,
+    "https://www.nytimes.com/2026/04/01/us/politics/cfpb-layoffs.html"
   ],
   [
-    "iran",
-    64,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-nuclear-threat-iran.html"
+    "citizenship",
+    49,
+    "https://www.nytimes.com/2026/04/01/us/politics/scotus-birthright-citizenship-takeaways.html"
   ],
   [
     "war",
-    58,
-    "https://www.nytimes.com/2026/04/01/podcasts/the-headlines/trump-war-plans-tmz-congress.html"
+    46,
+    "https://www.nytimes.com/2026/04/01/us/politics/troops-iran-hotels.html"
   ],
   [
     "president",
-    51,
+    45,
     "https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html"
   ],
   [
     "court",
-    39,
-    "https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html"
+    43,
+    "https://www.nytimes.com/2026/04/01/us/politics/cfpb-layoffs.html"
   ],
   [
-    "citizenship",
-    35,
-    "https://www.nytimes.com/2026/04/01/us/politics/wong-kim-ark-birthright-citizenship.html"
-  ],
-  [
-    "american",
-    31,
-    "https://www.nytimes.com/2026/04/01/opinion/iran-war-military-us.html"
+    "iran",
+    41,
+    "https://www.nytimes.com/2026/04/01/us/politics/troops-iran-hotels.html"
   ],
   [
     "birthright",
-    28,
-    "https://www.nytimes.com/2026/04/01/us/politics/wong-kim-ark-birthright-citizenship.html"
-  ],
-  [
-    "supreme",
-    26,
-    "https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html"
-  ],
-  [
-    "video",
-    25,
-    "https://www.theguardian.com/us-news/2026/apr/01/ex-alex-jones-employee-on-infowars-job"
-  ],
-  [
-    "media",
-    24,
-    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
+    40,
+    "https://www.nytimes.com/2026/04/01/us/politics/scotus-birthright-citizenship-takeaways.html"
   ],
   [
     "artemis",
-    22,
-    "https://www.nytimes.com/2026/03/31/style/artemis-ii-spacesuits-orange-astronauts.html"
+    37,
+    "https://www.nytimes.com/2026/04/01/science/nasa-artemis-ii-moon-astronauts-safety.html"
   ],
   [
-    "trump's",
-    22,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "case",
-    20,
-    "https://www.nytimes.com/2026/04/01/us/politics/wong-kim-ark-birthright-citizenship.html"
-  ],
-  [
-    "israel",
-    20,
-    "https://www.nytimes.com/2026/04/01/world/middleeast/lebanon-shiite-israel-evacuation.html"
-  ],
-  [
-    "california",
-    20,
-    "https://www.theguardian.com/artanddesign/2026/apr/01/how-can-you-forget-me-filipino-american-stories-washington-show"
-  ],
-  [
-    "judge",
-    19,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-ballroom-underground-security.html"
-  ],
-  [
-    "order",
-    18,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-mail-in-ballots-voting-executive-order.html"
-  ],
-  [
-    "black",
-    18,
-    "https://www.nytimes.com/2026/04/01/us/politics/democrats-age-memphis-house-primary.html"
-  ],
-  [
-    "don",
-    18,
-    "https://www.washingtonpost.com/education/2026/03/31/graduate-degree-earnings-study/"
+    "supreme",
+    32,
+    "https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html"
   ],
   [
     "launch",
-    18,
-    "https://www.theguardian.com/science/2026/apr/01/nasa-rocket-moon-launch-artemis-ii"
+    29,
+    "https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates"
+  ],
+  [
+    "moon",
+    26,
+    "https://www.nytimes.com/2026/04/01/science/nasa-artemis-ii-moon-astronauts-safety.html"
+  ],
+  [
+    "american",
+    26,
+    "https://www.nytimes.com/2026/04/01/opinion/padma-lakshmi-birthright-citizenship-food.html"
+  ],
+  [
+    "arguments",
+    24,
+    "https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html"
+  ],
+  [
+    "mission",
+    24,
+    "https://www.nytimes.com/2026/04/01/science/nasa-artemis-ii-moon-astronauts-safety.html"
+  ],
+  [
+    "history",
+    23,
+    "https://www.theguardian.com/sport/2026/apr/01/cooper-lutkenhaus-athletics-world-indoor-gold-los-angeles-olympic-games-2028"
+  ],
+  [
+    "media",
+    22,
+    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
+  ],
+  [
+    "video",
+    22,
+    "https://www.theguardian.com/us-news/2026/apr/01/windsurfer-hits-gray-whale-san-francisco"
+  ],
+  [
+    "order",
+    21,
+    "https://www.theguardian.com/us-news/2026/apr/01/supreme-court-birthright-citizenship-case"
+  ],
+  [
+    "trump's",
+    20,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "music",
-    18,
+    20,
     "https://www.theguardian.com/us-news/ng-interactive/2026/apr/01/capital-punishment-hip-hop-rap-lyrics"
   ],
   [
-    "latest",
-    17,
-    "https://www.nytimes.com/2026/04/01/arts/television/stephen-colbert-trump-popularity.html"
-  ],
-  [
     "early",
-    17,
-    "https://www.nytimes.com/2026/04/01/nyregion/mangione-weinstein-trial-manhattan.html"
+    19,
+    "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html"
   ],
   [
     "social",
-    17,
+    19,
     "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
   ],
   [
     "country",
-    17,
+    19,
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "history",
-    17,
+    "nato",
+    18,
+    "https://www.nytimes.com/2026/04/01/world/middleeast/trump-europe-nato-iran.html"
+  ],
+  [
+    "israel",
+    18,
+    "https://www.nytimes.com/2026/04/01/us/politics/aoc-congress-israel-military-aid.html"
+  ],
+  [
+    "donald",
+    18,
     "https://www.theguardian.com/commentisfree/2026/apr/01/billionaire-wealth-tax-trump"
   ],
   [
-    "something",
+    "far",
+    18,
+    "https://www.theguardian.com/us-news/live/2026/apr/01/donald-trump-supreme-court-birthright-citizenship-case-us-politics-latest-news-updates"
+  ],
+  [
+    "nasa",
     17,
-    "https://www.theguardian.com/books/2026/apr/01/baldwin-by-nicholas-boggs-review-the-relationships-that-drove-a-genius"
+    "https://www.nytimes.com/2026/04/01/science/nasa-artemis-ii-moon-astronauts-safety.html"
   ],
   [
-    "east",
+    "case",
     17,
-    "https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship"
-  ],
-  [
-    "middle",
-    16,
-    "https://www.nytimes.com/2026/03/31/us/politics/trump-irs-lawsuit-doj.html"
-  ],
-  [
-    "today",
-    16,
-    "https://www.nytimes.com/2026/04/01/podcasts/the-daily/mission-moon-artemis-ii-nasa.html"
+    "https://www.nytimes.com/2026/04/01/nyregion/jupiter-joe-bronx-murder.html"
   ],
   [
     "night",
-    16,
+    17,
     "https://www.nytimes.com/2026/04/01/arts/music/bruce-springsteen-minneapolis-concert-trump.html"
+  ],
+  [
+    "don",
+    17,
+    "https://www.washingtonpost.com/education/2026/03/31/graduate-degree-earnings-study/"
+  ],
+  [
+    "california",
+    17,
+    "https://www.theguardian.com/us-news/2026/apr/01/windsurfer-hits-gray-whale-san-francisco"
+  ],
+  [
+    "return",
+    16,
+    "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html"
+  ],
+  [
+    "name",
+    16,
+    "https://www.theguardian.com/global/2026/apr/01/vaginal-estrogen-face-filler-skincare"
+  ],
+  [
+    "spring",
+    16,
+    "https://www.theguardian.com/film/2026/apr/01/blockbusters-smug-humor-ready-or-not-2-mike-nick-nick-alice-project-hail-mary"
+  ],
+  [
+    "protein",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/01/american-heart-association-dietary-guidelines-maha"
   ],
   [
     "hair",
     16,
-    "https://www.theguardian.com/global-development/2026/apr/01/women-behind-the-lens-laetitia-ky-natural-hair-sculptural-hairstyles-empowering"
+    "https://www.theguardian.com/thefilter-us/2026/mar/24/dyson-airwrap-shark-flexstyle-comparison"
   ],
   [
-    "arguments",
+    "inside",
     15,
-    "https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "military",
+    "really",
     15,
-    "https://www.nytimes.com/2026/04/01/world/europe/us-military-seeks-expansion-in-greenland.html"
+    "https://www.theguardian.com/artanddesign/2026/apr/01/method-man-wu-tang-clan-eddie-otcheres-best-photograph"
   ],
   [
-    "donald",
+    "young",
     15,
-    "https://www.theguardian.com/commentisfree/2026/apr/01/billionaire-wealth-tax-trump"
+    "https://www.theguardian.com/commentisfree/2026/apr/01/trump-birthright-citizenship-supreme-court"
   ],
   [
-    "police",
+    "crew",
     15,
-    "https://www.theguardian.com/books/2026/apr/01/baldwin-by-nicholas-boggs-review-the-relationships-that-drove-a-genius"
+    "https://www.theguardian.com/film/2026/apr/01/fuze-review-theo-james-aaron-taylor-johnson-london-heist"
   ],
   [
-    "guide",
-    15,
-    "https://www.theguardian.com/society/commentisfree/2026/apr/01/finally-clitoris-getting-attention-it-deserves"
-  ],
-  [
-    "oil",
-    15,
-    "https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship"
-  ],
-  [
-    "email",
-    15,
-    "https://www.theguardian.com/us-news/live/2026/apr/01/donald-trump-supreme-court-birthright-citizenship-case-us-politics-latest-news-updates"
-  ],
-  [
-    "journalist",
-    15,
-    "https://www.theguardian.com/world/2026/apr/01/shelly-kittleson-us-american-journalist-kidnapped-iraq"
-  ],
-  [
-    "protein",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/01/american-heart-association-dietary-guidelines-maha"
-  ],
-  [
-    "film",
-    15,
-    "https://www.theguardian.com/film/2026/apr/01/lets-get-metaphysical-existentialist-cinema-is-back-if-anyone-cares"
+    "astronauts",
+    14,
+    "https://www.nytimes.com/2026/04/01/science/nasa-artemis-ii-moon-astronauts-safety.html"
   ],
   [
     "law",
     14,
-    "https://www.nytimes.com/2026/02/02/us/supreme-court-rulings-ethics.html"
+    "https://www.washingtonpost.com/education/2026/03/31/graduate-degree-earnings-study/"
   ],
   [
-    "moon",
+    "field",
     14,
-    "https://www.nytimes.com/2026/04/01/podcasts/the-headlines/trump-war-plans-tmz-congress.html"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "mission",
+    "latest",
     14,
-    "https://www.nytimes.com/2026/04/01/podcasts/the-headlines/trump-war-plans-tmz-congress.html"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "feel",
-    14,
-    "https://www.nytimes.com/2026/03/31/us/politics/kristi-noem-husband-photos-daily-mail.html"
-  ],
-  [
-    "far",
-    14,
-    "https://www.nytimes.com/2026/04/01/world/africa/cape-town-housing-crisis.html"
-  ],
-  [
-    "spring",
-    14,
-    "https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep"
-  ],
-  [
-    "james",
-    14,
-    "https://www.theguardian.com/books/2026/apr/01/baldwin-by-nicholas-boggs-review-the-relationships-that-drove-a-genius"
-  ],
-  [
-    "movie",
+    "company",
     14,
     "https://www.theguardian.com/film/2026/apr/01/blockbusters-smug-humor-ready-or-not-2-mike-nick-nick-alice-project-hail-mary"
   ],
   [
-    "young",
-    14,
-    "https://www.theguardian.com/society/commentisfree/2026/apr/01/finally-clitoris-getting-attention-it-deserves"
-  ],
-  [
-    "political",
-    14,
-    "https://www.theguardian.com/news/2026/apr/01/big-ideas-loose-ends-in-ibram-x-kendis-chain-of-ideas"
-  ],
-  [
-    "cbs",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/apr/01/tony-blair-left-islamism-israel"
-  ],
-  [
-    "game",
-    14,
-    "https://www.theguardian.com/sport/2026/mar/31/dan-hurleys-head-butt-showed-black-coaches-arent-allowed-to-do-what-white-coaches-do"
-  ],
-  [
-    "games",
-    14,
-    "https://www.theguardian.com/football/2026/mar/31/the-never-ending-story-of-england-footballdom-this-is-why-we-cant-have-nice-things"
-  ],
-  [
-    "tried",
-    13,
-    "https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html"
-  ],
-  [
-    "online",
-    13,
-    "https://www.nytimes.com/2026/03/31/us/politics/newsom-social-media-grindr-homophobia.html"
-  ],
-  [
-    "inside",
-    13,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "field",
-    13,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "team",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "inbox",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/01/luigi-mangione-new-york-court-postpone-federal-trial"
-  ],
-  [
     "executive",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/01/luigi-mangione-new-york-court-postpone-federal-trial"
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/01/supreme-court-birthright-citizenship-case"
   ],
   [
-    "because",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/01/ex-alex-jones-employee-on-infowars-job"
+    "love",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/apr/01/acquaintance-flirtation-cards-dating"
   ],
   [
-    "cup",
+    "born",
     13,
-    "https://www.theguardian.com/football/2026/apr/01/world-cup-48-questions-messi-ronaldo-trump-tickets"
+    "https://www.nytimes.com/2026/04/01/us/politics/birthright-citizenship-asian-immigrants.html"
+  ],
+  [
+    "here's",
+    13,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "movie",
+    13,
+    "https://www.theguardian.com/film/2026/apr/01/blockbusters-smug-humor-ready-or-not-2-mike-nick-nick-alice-project-hail-mary"
+  ],
+  [
+    "dhs",
+    13,
+    "https://www.theguardian.com/us-news/live/2026/apr/01/donald-trump-supreme-court-birthright-citizenship-case-us-politics-latest-news-updates"
   ],
   [
     "filter",
     13,
-    "https://www.theguardian.com/culture/2026/mar/31/late-night-hosts-jon-stewart-trump-iran-war"
+    "https://www.theguardian.com/thefilter-us/2026/apr/01/acquaintance-flirtation-cards-dating"
   ],
   [
-    "food",
+    "guide",
     13,
-    "https://www.theguardian.com/thefilter-us/2025/dec/25/glass-food-containers-to-store-leftovers"
+    "https://www.theguardian.com/thefilter-us/2026/apr/01/acquaintance-flirtation-cards-dating"
   ],
   [
-    "government",
+    "fewer",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/apr/01/acquaintance-flirtation-cards-dating"
+  ],
+  [
+    "london",
+    13,
+    "https://www.theguardian.com/artanddesign/2026/apr/01/method-man-wu-tang-clan-eddie-otcheres-best-photograph"
+  ],
+  [
+    "black",
+    13,
+    "https://www.theguardian.com/sport/2026/mar/31/dan-hurleys-head-butt-showed-black-coaches-arent-allowed-to-do-what-white-coaches-do"
+  ],
+  [
+    "game",
+    13,
+    "https://www.theguardian.com/sport/2026/mar/31/dan-hurleys-head-butt-showed-black-coaches-arent-allowed-to-do-what-white-coaches-do"
+  ],
+  [
+    "questions",
     12,
-    "https://www.nytimes.com/2026/02/02/us/supreme-court-rulings-ethics.html"
+    "https://www.nytimes.com/2026/04/01/us/politics/scotus-birthright-citizenship-takeaways.html"
   ],
   [
-    "strait",
+    "trying",
     12,
     "https://www.nytimes.com/2026/04/01/world/middleeast/trump-europe-nato-iran.html"
   ],
   [
-    "hormuz",
+    "feel",
     12,
-    "https://www.nytimes.com/2026/04/01/world/middleeast/trump-europe-nato-iran.html"
-  ],
-  [
-    "nato",
-    12,
-    "https://www.nytimes.com/2026/04/01/world/middleeast/trump-europe-nato-iran.html"
-  ],
-  [
-    "industry",
-    12,
-    "https://www.nytimes.com/2026/04/01/climate/new-england-fishermen-ocean-data.html"
-  ],
-  [
-    "hegseth",
-    12,
-    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
-  ],
-  [
-    "army",
-    12,
-    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
+    "https://www.nytimes.com/2026/03/31/us/politics/kristi-noem-husband-photos-daily-mail.html"
   ],
   [
     "children",
     12,
-    "https://www.washingtonpost.com/immigration/2026/03/31/daca-trump-immigrant-kids-deported/"
+    "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html"
+  ],
+  [
+    "hours",
+    12,
+    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
+  ],
+  [
+    "israeli",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "team",
+    12,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "power",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/apr/01/billionaire-wealth-tax-trump"
+  ],
+  [
+    "today",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/apr/01/billionaire-wealth-tax-trump"
+  ],
+  [
+    "something",
+    12,
+    "https://www.theguardian.com/film/2026/apr/01/blockbusters-smug-humor-ready-or-not-2-mike-nick-nick-alice-project-hail-mary"
+  ],
+  [
+    "review",
+    12,
+    "https://www.theguardian.com/technology/2026/apr/01/spacex-public-offering-stock-market"
+  ],
+  [
+    "food",
+    12,
+    "https://www.theguardian.com/us-news/2026/apr/01/new-weight-loss-pill-glp-1-foundayo"
+  ],
+  [
+    "based",
+    12,
+    "https://www.theguardian.com/us-news/2026/apr/01/new-weight-loss-pill-glp-1-foundayo"
+  ],
+  [
+    "whole",
+    12,
+    "https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west"
+  ],
+  [
+    "buying",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/apr/01/acquaintance-flirtation-cards-dating"
+  ],
+  [
+    "series",
+    12,
+    "https://www.theguardian.com/sport/2026/apr/01/jaden-iveys-lgbtq-comments-instagram-bulls-release"
+  ],
+  [
+    "online",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/apr/01/kitkat-heists-paintings-art-gallery-theft"
   ]
 ];
