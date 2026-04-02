@@ -2,128 +2,118 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    114,
-    "https://www.nytimes.com/2026/04/01/us/politics/trump-pam-bondi-future.html"
+    131,
+    "https://www.nytimes.com/2026/04/02/us/politics/trump-speech-iran-war-whats-next.html"
   ],
   [
     "iran",
-    90,
-    "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-address-takeaways.html"
-  ],
-  [
-    "war",
-    75,
-    "https://www.nytimes.com/2026/04/02/opinion/trump-noem-birthright-east-wing.html"
+    65,
+    "https://www.nytimes.com/2026/04/02/us/politics/trump-speech-iran-war-whats-next.html"
   ],
   [
     "president",
-    62,
-    "https://www.nytimes.com/2026/04/01/us/politics/trump-pam-bondi-future.html"
+    64,
+    "https://www.nytimes.com/2026/04/02/us/politics/trump-speech-iran-war-whats-next.html"
   ],
   [
-    "israel",
-    32,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-israel-trump-attack-photos.html"
+    "war",
+    59,
+    "https://www.nytimes.com/2026/04/02/us/politics/trump-speech-iran-war-whats-next.html"
   ],
   [
-    "artemis",
-    28,
-    "https://www.nytimes.com/2026/04/01/science/artemis-ii-nasa-moon-launch.html"
-  ],
-  [
-    "trump's",
-    27,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "social",
-    26,
-    "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html"
-  ],
-  [
-    "citizenship",
-    25,
-    "https://www.theguardian.com/commentisfree/2026/apr/02/birthright-citizenship-change-american-foundation"
-  ],
-  [
-    "death",
-    24,
-    "https://www.nytimes.com/2026/04/01/nyregion/rohingya-refugee-buffalo-homicide-medical-examiner.html"
-  ],
-  [
-    "country",
-    24,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "california",
-    24,
-    "https://www.theguardian.com/environment/2026/apr/02/new-york-induction-stoves-climate-energy"
+    "general",
+    37,
+    "https://www.theguardian.com/us-news/live/2026/apr/02/trump-white-house-ballroom-republicans-dhs-funding-deal-tariffs-latest-news-updates"
   ],
   [
     "court",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/apr/02/birthright-citizenship-change-american-foundation"
+    35,
+    "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-asian-immigrants.html"
   ],
   [
-    "don",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/apr/02/birthright-citizenship-change-american-foundation"
+    "attorney",
+    35,
+    "https://www.theguardian.com/us-news/live/2026/apr/02/trump-white-house-ballroom-republicans-dhs-funding-deal-tariffs-latest-news-updates"
   ],
   [
-    "birthright",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/apr/02/birthright-citizenship-change-american-foundation"
+    "bondi",
+    30,
+    "https://www.theguardian.com/us-news/live/2026/apr/02/trump-white-house-ballroom-republicans-dhs-funding-deal-tariffs-latest-news-updates"
+  ],
+  [
+    "california",
+    30,
+    "https://www.theguardian.com/environment/2026/apr/02/new-york-induction-stoves-climate-energy"
+  ],
+  [
+    "social",
+    27,
+    "https://www.nytimes.com/2026/04/02/us/politics/trump-military-spending-budget.html"
+  ],
+  [
+    "pam",
+    27,
+    "https://www.theguardian.com/us-news/live/2026/apr/02/trump-white-house-ballroom-republicans-dhs-funding-deal-tariffs-latest-news-updates"
+  ],
+  [
+    "country",
+    23,
+    "https://www.nytimes.com/2026/04/02/us/politics/trump-ballroom-commission-vote.html"
   ],
   [
     "media",
-    21,
-    "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html"
+    22,
+    "https://www.nytimes.com/2026/04/02/business/media/trump-media-courts.html"
   ],
   [
-    "donald",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/apr/02/birthright-citizenship-change-american-foundation"
-  ],
-  [
-    "love",
-    20,
-    "https://www.nytimes.com/2026/04/02/magazine/love-spectrum-reality-dating-show.html"
-  ],
-  [
-    "fire",
-    20,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "political",
-    19,
-    "https://www.nytimes.com/2026/04/01/us/politics/bondi-epstein-files-doj-trump.html"
-  ],
-  [
-    "moon",
-    19,
-    "https://www.nytimes.com/2026/04/02/world/asia/china-space-moon-nasa-artemis.html"
-  ],
-  [
-    "night",
-    19,
-    "https://www.nytimes.com/2026/04/01/nyregion/rohingya-refugee-buffalo-homicide-medical-examiner.html"
-  ],
-  [
-    "american",
-    18,
+    "states",
+    22,
     "https://www.nytimes.com/2026/04/02/arts/music/kanye-west-concert-los-angeles.html"
   ],
   [
-    "nation",
-    18,
-    "https://www.nytimes.com/2026/04/02/briefing/trump-primetime-address.html"
+    "donald",
+    22,
+    "https://www.theguardian.com/commentisfree/2026/apr/02/trump-iran-speech-reaction"
   ],
   [
-    "government",
+    "video",
+    22,
+    "https://www.theguardian.com/us-news/2026/apr/01/windsurfer-hits-gray-whale-san-francisco"
+  ],
+  [
+    "citizenship",
+    21,
+    "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-asian-immigrants.html"
+  ],
+  [
+    "don",
+    21,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/02/relationships-husband-affair-mistress-settle"
+  ],
+  [
+    "crash",
+    20,
+    "https://www.nytimes.com/2026/04/02/nyregion/laguardia-air-canada-investigation.html"
+  ],
+  [
+    "israel",
+    20,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "case",
+    19,
+    "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-trump-supreme-court.html"
+  ],
+  [
+    "trump's",
+    19,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "birthright",
     18,
-    "https://www.washingtonpost.com/nation/2026/04/02/social-media-use-democracy-belief/"
+    "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-asian-immigrants.html"
   ],
   [
     "island",
@@ -131,129 +121,174 @@
     "https://www.washingtonpost.com/national-security/2026/04/01/marines-ice-parris-island/"
   ],
   [
-    "case",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/apr/02/birthright-citizenship-change-american-foundation"
-  ],
-  [
-    "prices",
-    18,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/02/the-open-mind-pbs"
-  ],
-  [
-    "name",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/apr/02/iran-war-expenses-cuts-america-power-dollarization"
-  ],
-  [
-    "music",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/apr/02/kanye-west-comeback-wireless-festival"
-  ],
-  [
-    "states",
+    "government",
     17,
-    "https://www.nytimes.com/2026/04/02/world/europe/trump-nato-iran.html"
-  ],
-  [
-    "americans",
-    16,
-    "https://www.nytimes.com/2026/04/01/science/artemis-ii-nasa-moon-launch.html"
-  ],
-  [
-    "west",
-    16,
-    "https://www.nytimes.com/2026/04/02/arts/music/kanye-west-concert-los-angeles.html"
-  ],
-  [
-    "final",
-    15,
-    "https://www.nytimes.com/2026/04/01/us/politics/trump-pam-bondi-future.html"
-  ],
-  [
-    "really",
-    15,
-    "https://www.nytimes.com/2026/04/02/podcasts/the-headlines/trump-iran-elon-musk-spacex.html"
-  ],
-  [
-    "full",
-    15,
-    "https://www.nytimes.com/2026/04/02/arts/music/kanye-west-concert-los-angeles.html"
-  ],
-  [
-    "health",
-    15,
-    "https://www.nytimes.com/2026/04/02/nyregion/alpha-gal-new-york-state-does-not-count.html"
-  ],
-  [
-    "global",
-    15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "early",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "released",
-    15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "supreme",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/apr/02/birthright-citizenship-change-american-foundation"
+    "https://www.nytimes.com/2026/04/02/business/media/trump-media-courts.html"
   ],
   [
     "oil",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/02/the-open-mind-pbs"
+    17,
+    "https://www.nytimes.com/2026/04/02/world/americas/cuba-russia-oil-tanker.html"
   ],
   [
-    "cup",
-    15,
-    "https://www.theguardian.com/football/2026/apr/02/world-cup-countries-face-extra-costs-fifa-tax-deal-us-government"
-  ],
-  [
-    "administration",
-    14,
-    "https://www.nytimes.com/2026/04/01/us/politics/bondi-epstein-files-doj-trump.html"
-  ],
-  [
-    "children",
-    14,
-    "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html"
-  ],
-  [
-    "ice",
-    14,
-    "https://www.washingtonpost.com/national-security/2026/04/01/marines-ice-parris-island/"
-  ],
-  [
-    "military",
-    14,
-    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
-  ],
-  [
-    "north",
-    14,
+    "pop",
+    17,
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "killed",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/02/bianca-devins-murder-photos-social-media"
+    "star",
+    17,
+    "https://www.theguardian.com/sport/2026/apr/02/rams-star-puka-nacua-in-rehab-amid-claims-of-antisemitic-remark-and-biting-incident"
   ],
   [
-    "ukraine",
-    14,
-    "https://www.theguardian.com/world/2026/apr/02/coordinated-conflict-how-the-ukraine-and-iran-wars-are-starting-to-overlap"
+    "supreme",
+    16,
+    "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-asian-immigrants.html"
   ],
   [
-    "market",
+    "american",
+    16,
+    "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-asian-immigrants.html"
+  ],
+  [
+    "order",
+    16,
+    "https://www.nytimes.com/2026/04/02/us/the-docket-trump-supreme-court-birthright.html"
+  ],
+  [
+    "little",
+    16,
+    "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html"
+  ],
+  [
+    "speech",
+    16,
+    "https://www.nytimes.com/2026/04/02/opinion/trump-war-iran-speech.html"
+  ],
+  [
+    "experts",
+    16,
+    "https://www.washingtonpost.com/nation/2026/04/02/judges-ai-hearings-rulings/"
+  ],
+  [
+    "fire",
+    16,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "cbs",
+    16,
+    "https://www.theguardian.com/media/2026/apr/02/cbs-streaming-union-deal"
+  ],
+  [
+    "department",
+    15,
+    "https://www.nytimes.com/2026/04/02/us/politics/ice-lawsuit-forced-entry-warrants.html"
+  ],
+  [
+    "police",
+    15,
+    "https://www.nytimes.com/2026/04/02/arts/music/turnstile-brady-ebert-attempted-murder.html"
+  ],
+  [
+    "announced",
+    15,
+    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
+  ],
+  [
+    "moon",
+    15,
+    "https://www.theguardian.com/science/2026/apr/02/artemis-ii-astronauts-earth-orbit-moon-nasa"
+  ],
+  [
+    "woods",
+    15,
+    "https://www.theguardian.com/sport/2026/apr/02/tiger-woods-bodycam-footage-dui-arrest-golf"
+  ],
+  [
+    "love",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/02/relationships-husband-affair-mistress-settle"
+  ],
+  [
+    "name",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/apr/02/iran-war-expenses-cuts-america-power-dollarization"
+  ],
+  [
+    "loss",
     14,
-    "https://www.theguardian.com/business/2026/apr/02/secondhand-clothes-sales-forecast-to-hit-289bn-as-ai-helps-shoppers-find-deals"
+    "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-trump-supreme-court.html"
+  ],
+  [
+    "ballroom",
+    14,
+    "https://www.nytimes.com/2026/04/02/us/politics/trump-ballroom-commission-vote.html"
+  ],
+  [
+    "health",
+    14,
+    "https://www.nytimes.com/2026/04/02/well/live/ai-illness-claude-chatgpt.html"
+  ],
+  [
+    "early",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "countries",
+    14,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "released",
+    14,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "latest",
+    14,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "filter",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/apr/02/womens-office-shoes-style"
+  ],
+  [
+    "fewer",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/apr/02/womens-office-shoes-style"
+  ],
+  [
+    "protein",
+    14,
+    "https://www.theguardian.com/global/2026/apr/02/what-are-functional-foods-healthy"
+  ],
+  [
+    "food",
+    14,
+    "https://www.theguardian.com/global/2026/apr/02/what-are-functional-foods-healthy"
+  ],
+  [
+    "prices",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/02/the-open-mind-pbs"
+  ],
+  [
+    "artemis",
+    14,
+    "https://www.theguardian.com/science/2026/apr/02/artemis-ii-astronauts-earth-orbit-moon-nasa"
+  ],
+  [
+    "far",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/apr/02/donald-trump-iran-us-constitution-world-response"
+  ],
+  [
+    "final",
+    14,
+    "https://www.theguardian.com/sport/2026/apr/02/march-madness-ncaa-womens-tournament-joy"
   ],
   [
     "spring",
@@ -261,84 +296,64 @@
     "https://www.theguardian.com/film/2026/apr/01/blockbusters-smug-humor-ready-or-not-2-mike-nick-nick-alice-project-hail-mary"
   ],
   [
-    "gop",
+    "it's",
     14,
-    "https://www.latimes.com/politics/story/2026-04-01/california-governors-race-democrats-locked-out-chance"
+    "https://www.latimes.com/entertainment-arts/story/2026-04-02/zendaya-guide-euphoria-the-drama-odysssey-dune-spider-man"
   ],
   [
-    "cbs",
-    14,
-    "https://www.cbsnews.com/news/hospice-fraud-arrests-justice-department-california/"
-  ],
-  [
-    "idea",
+    "military",
     13,
-    "https://www.nytimes.com/2026/04/01/us/politics/trump-pam-bondi-future.html"
+    "https://www.nytimes.com/2026/04/02/us/politics/trump-military-spending-budget.html"
   ],
   [
-    "mission",
+    "crisis",
     13,
-    "https://www.nytimes.com/2026/04/01/science/artemis-ii-nasa-moon-launch.html"
+    "https://www.nytimes.com/2026/04/02/movies/the-drama-review-zendaya-robert-pattinson.html"
   ],
   [
-    "crash",
+    "though",
     13,
-    "https://www.nytimes.com/2026/04/02/nyregion/laguardia-air-canada-investigation.html"
-  ],
-  [
-    "rising",
-    13,
-    "https://www.theguardian.com/news/ng-interactive/2026/apr/02/endo-kazutoshi-sushi-japan-greatest-chef"
-  ],
-  [
-    "order",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/apr/02/birthright-citizenship-change-american-foundation"
-  ],
-  [
-    "almost",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/apr/02/birthright-citizenship-change-american-foundation"
-  ],
-  [
-    "something",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/02/bianca-devins-murder-photos-social-media"
-  ],
-  [
-    "senate",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/apr/02/trump-white-house-ballroom-republicans-dhs-funding-deal-tariffs-latest-news-updates"
-  ],
-  [
-    "star",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/02/arizona-missing-woman-found-alive-32-years-later"
-  ],
-  [
-    "costs",
-    13,
-    "https://www.theguardian.com/football/2026/apr/02/world-cup-countries-face-extra-costs-fifa-tax-deal-us-government"
-  ],
-  [
-    "wife",
-    13,
-    "https://www.theguardian.com/world/2026/apr/02/us-lifts-sanctions-on-venezuela-acting-president-delcy-rodriguez"
-  ],
-  [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/01/acquaintance-flirtation-cards-dating"
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
     "guide",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/01/acquaintance-flirtation-cards-dating"
+    "https://www.theguardian.com/thefilter-us/2026/apr/02/womens-office-shoes-style"
   ],
   [
-    "fewer",
+    "buying",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/01/acquaintance-flirtation-cards-dating"
+    "https://www.theguardian.com/thefilter-us/2026/apr/02/womens-office-shoes-style"
+  ],
+  [
+    "political",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/02/the-open-mind-pbs"
+  ],
+  [
+    "acting",
+    13,
+    "https://www.theguardian.com/us-news/live/2026/apr/02/trump-white-house-ballroom-republicans-dhs-funding-deal-tariffs-latest-news-updates"
+  ],
+  [
+    "email",
+    13,
+    "https://www.theguardian.com/us-news/live/2026/apr/02/trump-white-house-ballroom-republicans-dhs-funding-deal-tariffs-latest-news-updates"
+  ],
+  [
+    "series",
+    13,
+    "https://www.theguardian.com/sport/2026/apr/02/tiger-woods-bodycam-footage-dui-arrest-golf"
+  ],
+  [
+    "because",
+    13,
+    "https://www.theguardian.com/world/2026/apr/02/how-have-trump-iran-war-aims-changed"
+  ],
+  [
+    "game",
+    13,
+    "https://www.theguardian.com/sport/2026/apr/02/washington-wizards-april-fools-prank-apology-fan-halftime"
   ],
   [
     "hair",
@@ -346,33 +361,18 @@
     "https://www.theguardian.com/thefilter-us/2026/mar/24/dyson-airwrap-shark-flexstyle-comparison"
   ],
   [
-    "strait",
+    "return",
     12,
-    "https://www.nytimes.com/2026/04/02/podcasts/the-headlines/trump-iran-elon-musk-spacex.html"
+    "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-trump-supreme-court.html"
   ],
   [
-    "america",
+    "county",
     12,
-    "https://www.nytimes.com/2026/04/02/podcasts/the-headlines/trump-iran-elon-musk-spacex.html"
+    "https://www.nytimes.com/2026/04/02/us/politics/tina-peters-prison-sentence-trump.html"
   ],
   [
-    "middle",
+    "project",
     12,
-    "https://www.nytimes.com/2026/04/02/podcasts/the-headlines/trump-iran-elon-musk-spacex.html"
-  ],
-  [
-    "east",
-    12,
-    "https://www.nytimes.com/2026/02/28/world/middleeast/iran-israel-trump-attack-photos.html"
-  ],
-  [
-    "space",
-    12,
-    "https://www.nytimes.com/2026/04/02/world/asia/china-space-moon-nasa-artemis.html"
-  ],
-  [
-    "little",
-    12,
-    "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html"
+    "https://www.nytimes.com/2026/04/02/us/politics/trump-ballroom-commission-vote.html"
   ]
 ];
