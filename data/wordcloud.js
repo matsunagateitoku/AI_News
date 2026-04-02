@@ -2,153 +2,173 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    110,
-    "https://www.nytimes.com/2026/04/01/us/politics/cfpb-layoffs.html"
-  ],
-  [
-    "citizenship",
-    49,
-    "https://www.nytimes.com/2026/04/01/us/politics/scotus-birthright-citizenship-takeaways.html"
-  ],
-  [
-    "war",
-    46,
-    "https://www.nytimes.com/2026/04/01/us/politics/troops-iran-hotels.html"
-  ],
-  [
-    "president",
-    45,
-    "https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html"
-  ],
-  [
-    "court",
-    43,
-    "https://www.nytimes.com/2026/04/01/us/politics/cfpb-layoffs.html"
+    136,
+    "https://www.nytimes.com/2026/04/01/us/politics/trump-goals-iran-war.html"
   ],
   [
     "iran",
-    41,
-    "https://www.nytimes.com/2026/04/01/us/politics/troops-iran-hotels.html"
+    77,
+    "https://www.nytimes.com/2026/04/01/us/politics/trump-goals-iran-war.html"
   ],
   [
-    "birthright",
-    40,
-    "https://www.nytimes.com/2026/04/01/us/politics/scotus-birthright-citizenship-takeaways.html"
+    "war",
+    68,
+    "https://www.nytimes.com/2026/04/01/us/politics/trump-goals-iran-war.html"
+  ],
+  [
+    "president",
+    64,
+    "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war.html"
   ],
   [
     "artemis",
-    37,
-    "https://www.nytimes.com/2026/04/01/science/nasa-artemis-ii-moon-astronauts-safety.html"
+    47,
+    "https://www.nytimes.com/2026/04/01/science/artemis-ii-bathroom-toilet.html"
   ],
   [
-    "supreme",
-    32,
-    "https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html"
+    "court",
+    41,
+    "https://www.nytimes.com/2026/04/01/us/politics/supreme-court-birthright-citizenship-arguments.html"
   ],
   [
-    "launch",
-    29,
-    "https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates"
+    "citizenship",
+    39,
+    "https://www.nytimes.com/2026/04/01/us/politics/supreme-court-birthright-citizenship-arguments.html"
   ],
   [
     "moon",
-    26,
-    "https://www.nytimes.com/2026/04/01/science/nasa-artemis-ii-moon-astronauts-safety.html"
+    32,
+    "https://www.nytimes.com/2026/04/01/science/space/artemis-nasa-moon-how-long.html"
   ],
   [
-    "american",
-    26,
-    "https://www.nytimes.com/2026/04/01/opinion/padma-lakshmi-birthright-citizenship-food.html"
-  ],
-  [
-    "arguments",
-    24,
-    "https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html"
+    "birthright",
+    31,
+    "https://www.nytimes.com/2026/04/01/us/politics/supreme-court-birthright-citizenship-arguments.html"
   ],
   [
     "mission",
+    27,
+    "https://www.nytimes.com/2026/04/01/science/space/artemis-nasa-moon-how-long.html"
+  ],
+  [
+    "israel",
+    26,
+    "https://www.nytimes.com/2026/04/01/us/politics/trump-goals-iran-war.html"
+  ],
+  [
+    "night",
+    26,
+    "https://www.nytimes.com/2026/04/01/science/space/artemis-nasa-moon-how-long.html"
+  ],
+  [
+    "launch",
+    25,
+    "https://www.nytimes.com/2026/04/01/briefing/supreme-court-citizenship-moon-launch.html"
+  ],
+  [
+    "american",
+    25,
+    "https://www.nytimes.com/2026/04/01/nyregion/american-woodcock-bryant-park-nyc.html"
+  ],
+  [
+    "military",
     24,
-    "https://www.nytimes.com/2026/04/01/science/nasa-artemis-ii-moon-astronauts-safety.html"
+    "https://www.nytimes.com/2026/04/01/us/politics/trump-goals-iran-war.html"
+  ],
+  [
+    "supreme",
+    22,
+    "https://www.nytimes.com/2026/04/01/us/politics/scotus-birthright-citizenship-takeaways.html"
+  ],
+  [
+    "case",
+    21,
+    "https://www.nytimes.com/2026/04/01/us/politics/scotus-birthright-citizenship-takeaways.html"
+  ],
+  [
+    "donald",
+    21,
+    "https://www.theguardian.com/commentisfree/2026/apr/01/billionaire-wealth-tax-trump"
+  ],
+  [
+    "astronauts",
+    20,
+    "https://www.nytimes.com/2026/04/01/science/space/artemis-nasa-moon-how-long.html"
+  ],
+  [
+    "california",
+    20,
+    "https://www.nytimes.com/2026/04/01/us/politics/ruling-border-patrol-warrantless-arrests.html"
+  ],
+  [
+    "nato",
+    20,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
     "history",
-    23,
+    20,
     "https://www.theguardian.com/sport/2026/apr/01/cooper-lutkenhaus-athletics-world-indoor-gold-los-angeles-olympic-games-2028"
   ],
   [
-    "media",
-    22,
-    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
-  ],
-  [
-    "video",
-    22,
-    "https://www.theguardian.com/us-news/2026/apr/01/windsurfer-hits-gray-whale-san-francisco"
-  ],
-  [
-    "order",
-    21,
-    "https://www.theguardian.com/us-news/2026/apr/01/supreme-court-birthright-citizenship-case"
-  ],
-  [
-    "trump's",
+    "nation",
     20,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "music",
-    20,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/01/capital-punishment-hip-hop-rap-lyrics"
+    "https://www.theguardian.com/us-news/2026/apr/01/trump-iran-war-address-white-house"
   ],
   [
     "early",
     19,
-    "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html"
+    "https://www.nytimes.com/2026/04/01/us/politics/senate-house-homeland-security-shutdown.html"
   ],
   [
-    "social",
+    "little",
     19,
+    "https://www.nytimes.com/2026/03/31/dining/biohacking-diets.html"
+  ],
+  [
+    "order",
+    19,
+    "https://www.nytimes.com/2026/04/01/us/politics/ruling-border-patrol-warrantless-arrests.html"
+  ],
+  [
+    "music",
+    19,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/01/capital-punishment-hip-hop-rap-lyrics"
+  ],
+  [
+    "space",
+    18,
+    "https://www.nytimes.com/2026/04/01/science/artemis-ii-bathroom-toilet.html"
+  ],
+  [
+    "dhs",
+    18,
+    "https://www.nytimes.com/2026/04/01/us/politics/senate-house-homeland-security-shutdown.html"
+  ],
+  [
+    "media",
+    18,
     "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
   ],
   [
-    "country",
-    19,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "nato",
+    "trump's",
     18,
-    "https://www.nytimes.com/2026/04/01/world/middleeast/trump-europe-nato-iran.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "israel",
+    "food",
     18,
-    "https://www.nytimes.com/2026/04/01/us/politics/aoc-congress-israel-military-aid.html"
+    "https://www.theguardian.com/us-news/2026/apr/01/new-weight-loss-pill-glp-1-foundayo"
   ],
   [
-    "donald",
+    "video",
     18,
-    "https://www.theguardian.com/commentisfree/2026/apr/01/billionaire-wealth-tax-trump"
+    "https://www.theguardian.com/us-news/2026/apr/01/windsurfer-hits-gray-whale-san-francisco"
   ],
   [
-    "far",
-    18,
-    "https://www.theguardian.com/us-news/live/2026/apr/01/donald-trump-supreme-court-birthright-citizenship-case-us-politics-latest-news-updates"
-  ],
-  [
-    "nasa",
+    "social",
     17,
-    "https://www.nytimes.com/2026/04/01/science/nasa-artemis-ii-moon-astronauts-safety.html"
-  ],
-  [
-    "case",
-    17,
-    "https://www.nytimes.com/2026/04/01/nyregion/jupiter-joe-bronx-murder.html"
-  ],
-  [
-    "night",
-    17,
-    "https://www.nytimes.com/2026/04/01/arts/music/bruce-springsteen-minneapolis-concert-trump.html"
+    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
   ],
   [
     "don",
@@ -156,24 +176,24 @@
     "https://www.washingtonpost.com/education/2026/03/31/graduate-degree-earnings-study/"
   ],
   [
-    "california",
-    17,
-    "https://www.theguardian.com/us-news/2026/apr/01/windsurfer-hits-gray-whale-san-francisco"
-  ],
-  [
-    "return",
-    16,
-    "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html"
-  ],
-  [
     "name",
-    16,
+    17,
     "https://www.theguardian.com/global/2026/apr/01/vaginal-estrogen-face-filler-skincare"
   ],
   [
-    "spring",
+    "far",
+    17,
+    "https://www.theguardian.com/uk-news/2026/apr/01/police-disorder-arrests-clapham-london"
+  ],
+  [
+    "police",
     16,
-    "https://www.theguardian.com/film/2026/apr/01/blockbusters-smug-humor-ready-or-not-2-mike-nick-nick-alice-project-hail-mary"
+    "https://www.nytimes.com/2026/04/01/nyregion/williamsburg-nyc-baby-shooting.html"
+  ],
+  [
+    "despite",
+    16,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
     "protein",
@@ -181,19 +201,29 @@
     "https://www.theguardian.com/us-news/2026/apr/01/american-heart-association-dietary-guidelines-maha"
   ],
   [
+    "really",
+    16,
+    "https://www.theguardian.com/artanddesign/2026/apr/01/method-man-wu-tang-clan-eddie-otcheres-best-photograph"
+  ],
+  [
     "hair",
     16,
     "https://www.theguardian.com/thefilter-us/2026/mar/24/dyson-airwrap-shark-flexstyle-comparison"
   ],
   [
-    "inside",
-    15,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "cbs",
+    16,
+    "https://www.cbsnews.com/video/cbs-evening-news-studio-shakes-artemis-ii-takes-off/"
   ],
   [
-    "really",
+    "inside",
     15,
-    "https://www.theguardian.com/artanddesign/2026/apr/01/method-man-wu-tang-clan-eddie-otcheres-best-photograph"
+    "https://www.nytimes.com/2026/04/01/us/politics/bondi-epstein-files-doj-trump.html"
+  ],
+  [
+    "immigration",
+    15,
+    "https://www.nytimes.com/2026/04/01/nyregion/mahmoud-khalil-columbia-appeal.html"
   ],
   [
     "young",
@@ -201,39 +231,29 @@
     "https://www.theguardian.com/commentisfree/2026/apr/01/trump-birthright-citizenship-supreme-court"
   ],
   [
-    "crew",
+    "game",
     15,
-    "https://www.theguardian.com/film/2026/apr/01/fuze-review-theo-james-aaron-taylor-johnson-london-heist"
+    "https://www.theguardian.com/football/2026/apr/01/guardian-power-rankings-france-senegal-japan-top-10-world-cup-2026"
   ],
   [
-    "astronauts",
+    "earth",
     14,
-    "https://www.nytimes.com/2026/04/01/science/nasa-artemis-ii-moon-astronauts-safety.html"
+    "https://www.nytimes.com/2026/04/01/science/space/artemis-nasa-moon-how-long.html"
   ],
   [
-    "law",
+    "political",
     14,
-    "https://www.washingtonpost.com/education/2026/03/31/graduate-degree-earnings-study/"
+    "https://www.nytimes.com/2026/04/01/us/politics/bondi-epstein-files-doj-trump.html"
   ],
   [
-    "field",
+    "killed",
     14,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.nytimes.com/2026/04/01/us/ted-bundy-utah-murder-confirmed.html"
   ],
   [
-    "latest",
+    "north",
     14,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "company",
-    14,
-    "https://www.theguardian.com/film/2026/apr/01/blockbusters-smug-humor-ready-or-not-2-mike-nick-nick-alice-project-hail-mary"
-  ],
-  [
-    "executive",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/01/supreme-court-birthright-citizenship-case"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
     "love",
@@ -241,32 +261,67 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/01/acquaintance-flirtation-cards-dating"
   ],
   [
-    "born",
-    13,
-    "https://www.nytimes.com/2026/04/01/us/politics/birthright-citizenship-asian-immigrants.html"
-  ],
-  [
-    "here's",
-    13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "movie",
-    13,
-    "https://www.theguardian.com/film/2026/apr/01/blockbusters-smug-humor-ready-or-not-2-mike-nick-nick-alice-project-hail-mary"
-  ],
-  [
-    "dhs",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/apr/01/donald-trump-supreme-court-birthright-citizenship-case-us-politics-latest-news-updates"
-  ],
-  [
-    "filter",
-    13,
+    "guide",
+    14,
     "https://www.theguardian.com/thefilter-us/2026/apr/01/acquaintance-flirtation-cards-dating"
   ],
   [
-    "guide",
+    "experts",
+    14,
+    "https://www.theguardian.com/global/2026/apr/01/vaginal-estrogen-face-filler-skincare"
+  ],
+  [
+    "spring",
+    14,
+    "https://www.theguardian.com/film/2026/apr/01/blockbusters-smug-humor-ready-or-not-2-mike-nick-nick-alice-project-hail-mary"
+  ],
+  [
+    "online",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/apr/01/kitkat-heists-paintings-art-gallery-theft"
+  ],
+  [
+    "actor",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/02/bobs-burgers-eugene-mirman-rescued-fiery-car-crash"
+  ],
+  [
+    "states",
+    13,
+    "https://www.nytimes.com/2026/04/01/us/politics/trump-goals-iran-war.html"
+  ],
+  [
+    "nasa",
+    13,
+    "https://www.nytimes.com/2026/04/01/science/space/artemis-nasa-moon-how-long.html"
+  ],
+  [
+    "administration",
+    13,
+    "https://www.nytimes.com/2026/04/01/us/politics/bondi-epstein-files-doj-trump.html"
+  ],
+  [
+    "prices",
+    13,
+    "https://www.nytimes.com/2026/04/01/opinion/oil-crisis-iran-electric-solar.html"
+  ],
+  [
+    "israeli",
+    13,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "field",
+    13,
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+  ],
+  [
+    "released",
+    13,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "filter",
     13,
     "https://www.theguardian.com/thefilter-us/2026/apr/01/acquaintance-flirtation-cards-dating"
   ],
@@ -276,9 +331,19 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/01/acquaintance-flirtation-cards-dating"
   ],
   [
-    "london",
+    "something",
     13,
-    "https://www.theguardian.com/artanddesign/2026/apr/01/method-man-wu-tang-clan-eddie-otcheres-best-photograph"
+    "https://www.theguardian.com/film/2026/apr/01/blockbusters-smug-humor-ready-or-not-2-mike-nick-nick-alice-project-hail-mary"
+  ],
+  [
+    "security",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/01/republicans-dhs-funding-partial-shutdown"
+  ],
+  [
+    "cup",
+    13,
+    "https://www.theguardian.com/football/2026/apr/01/guardian-power-rankings-france-senegal-japan-top-10-world-cup-2026"
   ],
   [
     "black",
@@ -286,93 +351,28 @@
     "https://www.theguardian.com/sport/2026/mar/31/dan-hurleys-head-butt-showed-black-coaches-arent-allowed-to-do-what-white-coaches-do"
   ],
   [
-    "game",
+    "democrats",
     13,
-    "https://www.theguardian.com/sport/2026/mar/31/dan-hurleys-head-butt-showed-black-coaches-arent-allowed-to-do-what-white-coaches-do"
+    "https://www.theguardian.com/world/2026/apr/01/swedish-pm-offers-deal-that-could-see-far-right-allowed-into-government"
   ],
   [
-    "questions",
-    12,
-    "https://www.nytimes.com/2026/04/01/us/politics/scotus-birthright-citizenship-takeaways.html"
+    "sleep",
+    13,
+    "https://www.theguardian.com/music/2026/mar/31/nocturnes-piano-john-field-max-richter-sleep-by-susan-tomes"
   ],
   [
-    "trying",
+    "region",
     12,
-    "https://www.nytimes.com/2026/04/01/world/middleeast/trump-europe-nato-iran.html"
+    "https://www.nytimes.com/2026/04/01/us/politics/trump-goals-iran-war.html"
   ],
   [
-    "feel",
+    "deep",
     12,
-    "https://www.nytimes.com/2026/03/31/us/politics/kristi-noem-husband-photos-daily-mail.html"
+    "https://www.nytimes.com/2026/04/01/science/artemis-ii-bathroom-toilet.html"
   ],
   [
-    "children",
+    "justices",
     12,
-    "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html"
-  ],
-  [
-    "hours",
-    12,
-    "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/"
-  ],
-  [
-    "israeli",
-    12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "team",
-    12,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "power",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/apr/01/billionaire-wealth-tax-trump"
-  ],
-  [
-    "today",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/apr/01/billionaire-wealth-tax-trump"
-  ],
-  [
-    "something",
-    12,
-    "https://www.theguardian.com/film/2026/apr/01/blockbusters-smug-humor-ready-or-not-2-mike-nick-nick-alice-project-hail-mary"
-  ],
-  [
-    "review",
-    12,
-    "https://www.theguardian.com/technology/2026/apr/01/spacex-public-offering-stock-market"
-  ],
-  [
-    "food",
-    12,
-    "https://www.theguardian.com/us-news/2026/apr/01/new-weight-loss-pill-glp-1-foundayo"
-  ],
-  [
-    "based",
-    12,
-    "https://www.theguardian.com/us-news/2026/apr/01/new-weight-loss-pill-glp-1-foundayo"
-  ],
-  [
-    "whole",
-    12,
-    "https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west"
-  ],
-  [
-    "buying",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/apr/01/acquaintance-flirtation-cards-dating"
-  ],
-  [
-    "series",
-    12,
-    "https://www.theguardian.com/sport/2026/apr/01/jaden-iveys-lgbtq-comments-instagram-bulls-release"
-  ],
-  [
-    "online",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/apr/01/kitkat-heists-paintings-art-gallery-theft"
+    "https://www.nytimes.com/2026/04/01/us/politics/supreme-court-birthright-citizenship-arguments.html"
   ]
 ];
