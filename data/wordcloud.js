@@ -2,32 +2,32 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    139,
+    129,
     "https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html"
   ],
   [
     "president",
-    74,
+    64,
     "https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html"
   ],
   [
-    "war",
-    58,
-    "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html"
-  ],
-  [
     "iran",
-    57,
+    60,
     "https://www.nytimes.com/2026/04/02/business/economy/trump-iran-china-choke-points.html"
   ],
   [
+    "war",
+    48,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
     "general",
-    37,
+    34,
     "https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html"
   ],
   [
     "attorney",
-    34,
+    32,
     "https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html"
   ],
   [
@@ -36,49 +36,29 @@
     "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html"
   ],
   [
-    "military",
-    28,
-    "https://www.nytimes.com/2026/04/02/us/politics/trump-ballroom-military-bunker.html"
-  ],
-  [
     "pam",
-    27,
+    28,
     "https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html"
   ],
   [
     "bondi",
-    27,
+    28,
     "https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html"
   ],
   [
-    "court",
+    "military",
     27,
-    "https://www.nytimes.com/2026/04/02/us/politics/tina-peters-prison-sentence-trump.html"
+    "https://www.nytimes.com/2026/04/02/us/politics/trump-ballroom-military-bunker.html"
   ],
   [
-    "california",
-    27,
-    "https://www.nytimes.com/2026/04/02/us/california-gas-prices-expenses.html"
-  ],
-  [
-    "social",
-    27,
-    "https://www.washingtonpost.com/nation/2026/04/02/social-media-use-democracy-belief/"
-  ],
-  [
-    "country",
-    25,
+    "moon",
+    24,
     "https://www.nytimes.com/2026/04/02/us/politics/artemis-ii-launch-trump.html"
   ],
   [
-    "media",
-    25,
-    "https://www.nytimes.com/2026/04/02/business/media/trump-media-courts.html"
-  ],
-  [
-    "woods",
-    25,
-    "https://www.theguardian.com/sport/2026/apr/02/tiger-woods-bodycam-footage-dui-arrest-golf"
+    "country",
+    24,
+    "https://www.nytimes.com/2026/04/02/us/politics/artemis-ii-launch-trump.html"
   ],
   [
     "hegseth",
@@ -86,99 +66,89 @@
     "https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html"
   ],
   [
-    "citizenship",
-    23,
-    "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-asian-immigrants.html"
+    "media",
+    24,
+    "https://www.washingtonpost.com/nation/2026/04/02/social-media-use-democracy-belief/"
   ],
   [
-    "israel",
-    23,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "california",
+    24,
+    "https://www.theguardian.com/music/2026/apr/03/earl-sweatshirt-mike-surf-gang-pompeii-utility-review"
   ],
   [
-    "donald",
+    "social",
     23,
-    "https://www.theguardian.com/commentisfree/2026/apr/02/trump-iran-speech-reaction"
+    "https://www.washingtonpost.com/nation/2026/04/02/social-media-use-democracy-belief/"
   ],
   [
     "island",
-    22,
+    23,
     "https://www.washingtonpost.com/national-security/2026/04/01/marines-ice-parris-island/"
   ],
   [
-    "judge",
-    21,
-    "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html"
-  ],
-  [
-    "don",
-    21,
-    "https://www.theguardian.com/us-news/2026/apr/02/trump-100-tariff-us-pharmaceutical-drug-makers"
-  ],
-  [
-    "moon",
-    20,
-    "https://www.nytimes.com/2026/04/02/us/politics/artemis-ii-launch-trump.html"
-  ],
-  [
-    "army",
-    20,
-    "https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html"
-  ],
-  [
-    "case",
-    20,
-    "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-trump-supreme-court.html"
-  ],
-  [
-    "prices",
-    20,
-    "https://www.nytimes.com/2026/04/02/us/california-gas-prices-expenses.html"
-  ],
-  [
-    "secretary",
-    20,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "states",
-    20,
-    "https://www.theguardian.com/environment/2026/apr/02/new-york-induction-stoves-climate-energy"
-  ],
-  [
-    "tiger",
-    20,
+    "woods",
+    23,
     "https://www.theguardian.com/sport/2026/apr/02/tiger-woods-bodycam-footage-dui-arrest-golf"
   ],
   [
+    "judge",
+    22,
+    "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html"
+  ],
+  [
+    "donald",
+    22,
+    "https://www.theguardian.com/world/live/2026/apr/03/middle-east-crisis-live-trump-urges-iran-to-make-deal-after-bridge-strike"
+  ],
+  [
     "artemis",
-    19,
+    21,
     "https://www.nytimes.com/2026/04/02/us/politics/artemis-ii-launch-trump.html"
   ],
   [
-    "crash",
-    19,
-    "https://www.nytimes.com/2026/04/02/nyregion/laguardia-air-canada-investigation.html"
+    "israel",
+    21,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "gas",
-    19,
-    "https://www.nytimes.com/2026/04/02/us/california-gas-prices-expenses.html"
+    "court",
+    21,
+    "https://www.theguardian.com/film/2026/apr/02/blake-lively-justin-baldoni-sexual-harassment-claims"
   ],
   [
-    "political",
-    19,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/02/the-open-mind-pbs"
+    "east",
+    20,
+    "https://www.nytimes.com/2026/04/02/us/politics/trump-ballroom-military-bunker.html"
   ],
   [
-    "birthright",
+    "secretary",
+    19,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "spring",
+    19,
+    "https://www.theguardian.com/music/2026/apr/03/zara-larsson-popstar-interview-on-fame-fun-fighting-the-power-lush-life"
+  ],
+  [
+    "government",
     18,
-    "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-asian-immigrants.html"
+    "https://www.nytimes.com/2026/04/03/world/middleeast/syria-kidnapping-alawite-woman-girls.html"
   ],
   [
-    "pop",
+    "army",
     18,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html"
+  ],
+  [
+    "baldoni",
+    18,
+    "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html"
+  ],
+  [
+    "states",
+    18,
+    "https://www.nytimes.com/2026/04/02/world/americas/cuba-prisoner-release.html"
   ],
   [
     "released",
@@ -186,37 +156,72 @@
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "latest",
-    17,
-    "https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html"
+    "prices",
+    18,
+    "https://www.theguardian.com/business/2026/apr/02/oil-price-rises-markets-slide-following-trump-iran-war-address"
   ],
   [
-    "east",
-    17,
-    "https://www.nytimes.com/2026/04/02/us/politics/trump-ballroom-military-bunker.html"
+    "don",
+    18,
+    "https://www.theguardian.com/us-news/2026/apr/02/trump-100-tariff-us-pharmaceutical-drug-makers"
   ],
   [
-    "fire",
+    "gas",
+    18,
+    "https://www.theguardian.com/world/2026/apr/03/visual-guide-gulf-fertiliser-blockade"
+  ],
+  [
+    "tiger",
+    18,
+    "https://www.theguardian.com/sport/2026/apr/02/tiger-woods-bodycam-footage-dui-arrest-golf"
+  ],
+  [
+    "case",
     17,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html"
+  ],
+  [
+    "pop",
+    17,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "love",
+    17,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/03/your-friends-and-neighbours-season-two-review-jon-hamm-brilliant-moreish-caper"
+  ],
+  [
+    "york",
+    17,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/03/your-friends-and-neighbours-season-two-review-jon-hamm-brilliant-moreish-caper"
+  ],
+  [
+    "political",
+    17,
+    "https://www.theguardian.com/us-news/2026/apr/02/trump-pam-bondi-attorney-general"
   ],
   [
     "oil",
     17,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/02/the-open-mind-pbs"
+    "https://www.theguardian.com/business/2026/apr/02/oil-price-rises-markets-slide-following-trump-iran-war-address"
   ],
   [
-    "spring",
+    "citizenship",
     17,
-    "https://www.theguardian.com/us-news/2026/apr/02/trump-administration-news-updates-today"
+    "https://www.theguardian.com/commentisfree/2026/apr/02/birthright-citizenship-change-american-foundation"
   ],
   [
-    "children",
+    "department",
     16,
-    "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html"
+    "https://www.nytimes.com/2026/04/02/us/politics/todd-blanche-attorney-general-trump.html"
   ],
   [
-    "baldoni",
+    "countries",
+    16,
+    "https://www.nytimes.com/2026/04/02/business/economy/trump-iran-china-choke-points.html"
+  ],
+  [
+    "harassment",
     16,
     "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html"
   ],
@@ -226,39 +231,9 @@
     "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html"
   ],
   [
-    "email",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/02/trump-pam-bondi-attorney-general"
-  ],
-  [
-    "love",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/02/trump-pam-bondi-attorney-general"
-  ],
-  [
-    "administration",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/02/democrats-ice-detention-center"
-  ],
-  [
-    "defense",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/02/randy-george-pete-hegseth-us-army"
-  ],
-  [
-    "video",
-    16,
-    "https://www.theguardian.com/world/2026/apr/03/ukraine-war-briefing-zelenskyy-expertise-waterways-open-middle-east-conflict"
-  ],
-  [
-    "countries",
+    "power",
     15,
-    "https://www.nytimes.com/2026/04/02/business/economy/trump-iran-china-choke-points.html"
-  ],
-  [
-    "government",
-    15,
-    "https://www.nytimes.com/2026/04/02/business/media/trump-media-courts.html"
+    "https://www.nytimes.com/2026/04/02/us/elections/mike-johnson-shutdown-power.html"
   ],
   [
     "health",
@@ -266,9 +241,29 @@
     "https://www.nytimes.com/2026/04/02/well/live/ai-illness-claude-chatgpt.html"
   ],
   [
+    "blake",
+    15,
+    "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html"
+  ],
+  [
+    "justin",
+    15,
+    "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html"
+  ],
+  [
     "crisis",
     15,
     "https://www.nytimes.com/2026/04/02/movies/the-drama-review-zendaya-robert-pattinson.html"
+  ],
+  [
+    "crash",
+    15,
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+  ],
+  [
+    "defense",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/02/randy-george-pete-hegseth-us-army"
   ],
   [
     "name",
@@ -276,39 +271,54 @@
     "https://www.theguardian.com/commentisfree/2026/apr/02/iran-war-expenses-cuts-america-power-dollarization"
   ],
   [
-    "accused",
-    15,
-    "https://www.theguardian.com/money/2026/mar/31/us-federal-student-loan-borrowers-have-you-had-your-loan-forgiven"
-  ],
-  [
-    "department",
+    "china",
     14,
-    "https://www.nytimes.com/2026/04/02/us/politics/todd-blanche-attorney-general-trump.html"
+    "https://www.nytimes.com/2026/04/02/business/economy/trump-iran-china-choke-points.html"
   ],
   [
-    "chief",
+    "latest",
     14,
     "https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html"
   ],
   [
-    "supreme",
+    "hair",
     14,
-    "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-asian-immigrants.html"
+    "https://www.theguardian.com/music/2026/apr/03/zara-larsson-popstar-interview-on-fame-fun-fighting-the-power-lush-life"
   ],
   [
-    "order",
+    "full",
     14,
-    "https://www.nytimes.com/2026/04/02/us/the-docket-trump-supreme-court-birthright.html"
+    "https://www.theguardian.com/news/audio/2026/apr/03/the-families-torn-apart-by-the-minab-school-bombing-podcast"
   ],
   [
-    "harassment",
+    "breaking",
     14,
-    "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html"
+    "https://www.theguardian.com/us-news/2026/apr/02/trump-pam-bondi-attorney-general"
   ],
   [
-    "team",
+    "email",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/us-news/2026/apr/02/trump-pam-bondi-attorney-general"
+  ],
+  [
+    "pete",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/02/randy-george-pete-hegseth-us-army"
+  ],
+  [
+    "speech",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/02/trump-iran-war-address-backlash"
+  ],
+  [
+    "food",
+    14,
+    "https://www.theguardian.com/world/2026/apr/03/visual-guide-gulf-fertiliser-blockade"
+  ],
+  [
+    "guide",
+    14,
+    "https://www.theguardian.com/world/2026/apr/03/visual-guide-gulf-fertiliser-blockade"
   ],
   [
     "filter",
@@ -321,58 +331,48 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/02/womens-office-shoes-style"
   ],
   [
-    "york",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/apr/02/womens-office-shoes-style"
-  ],
-  [
     "protein",
     14,
     "https://www.theguardian.com/global/2026/apr/02/what-are-functional-foods-healthy"
   ],
   [
-    "speech",
+    "order",
     14,
-    "https://www.theguardian.com/commentisfree/2026/apr/02/trump-iran-speech-reaction"
+    "https://www.theguardian.com/commentisfree/2026/apr/02/donald-trump-iran-us-constitution-world-response"
   ],
   [
-    "breaking",
+    "administration",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/02/trump-pam-bondi-attorney-general"
+    "https://www.theguardian.com/commentisfree/2026/apr/02/birthright-citizenship-change-american-foundation"
   ],
   [
-    "service",
-    13,
-    "https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html"
+    "video",
+    14,
+    "https://www.theguardian.com/world/2026/apr/03/ukraine-war-briefing-zelenskyy-expertise-waterways-open-middle-east-conflict"
   ],
   [
-    "american",
-    13,
-    "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-asian-immigrants.html"
+    "accused",
+    14,
+    "https://www.theguardian.com/money/2026/mar/31/us-federal-student-loan-borrowers-have-you-had-your-loan-forgiven"
   ],
   [
-    "blake",
+    "global",
     13,
-    "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html"
+    "https://www.nytimes.com/2026/04/02/business/economy/trump-iran-china-choke-points.html"
   ],
   [
-    "justin",
+    "earth",
     13,
-    "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html"
+    "https://www.nytimes.com/2026/04/03/opinion/trump-europe-iran-meloni-italy.html"
+  ],
+  [
+    "night",
+    13,
+    "https://www.nytimes.com/2026/04/03/arts/television/late-night-pam-bondi.html"
   ],
   [
     "cup",
     13,
     "https://www.nytimes.com/2026/04/02/business/hershey-reeses-recipe-real-chocolate.html"
-  ],
-  [
-    "guide",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/02/womens-office-shoes-style"
-  ],
-  [
-    "buying",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/02/womens-office-shoes-style"
   ]
 ];
