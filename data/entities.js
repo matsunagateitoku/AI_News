@@ -3,66 +3,196 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 88,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/03/your-friends-and-neighbours-season-two-review-jon-hamm-brilliant-moreish-caper",
+      "count": 78,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/03/pam-bondi-fired-trump-epstein",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 56,
-      "url": "https://www.nytimes.com/2026/04/02/business/economy/trump-iran-china-choke-points.html",
+      "count": 50,
+      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/israel-war-mood.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 25,
+      "count": 23,
       "url": "https://www.nytimes.com/2026/04/02/business/economy/trump-iran-china-choke-points.html",
       "source": "NY Times"
     },
     {
-      "name": "California",
-      "count": 17,
-      "url": "https://www.theguardian.com/music/2026/apr/03/earl-sweatshirt-mike-surf-gang-pompeii-utility-review",
+      "name": "West L.A.",
+      "count": 16,
+      "url": "https://www.latimes.com/california/story/2026-04-03/for-derelict-wadsworth-chapel-125-year-old-landmark-in-west-l-a-is-rehab-in-works",
+      "source": "LA Times"
+    },
+    {
+      "name": "Florida",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/apr/02/eric-trump-drones-gulf-states-iran",
       "source": "The Guardian"
     },
     {
       "name": "New York City",
-      "count": 16,
-      "url": "https://www.theguardian.com/thefilter-us/2026/apr/02/womens-office-shoes-style",
+      "count": 11,
+      "url": "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Los Angeles",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/apr/03/los-angeles-drivers-rising-gas-prices",
       "source": "The Guardian"
     },
     {
       "name": "Israel",
-      "count": 15,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "China",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/04/02/business/economy/trump-iran-china-choke-points.html",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/israel-war-mood.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Florida",
-      "count": 13,
-      "url": "https://www.theguardian.com/sport/2026/apr/02/tiger-woods-bodycam-footage-dui-arrest-golf",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ukraine",
-      "count": 12,
-      "url": "https://www.theguardian.com/world/2026/apr/03/ukraine-war-briefing-zelenskyy-expertise-waterways-open-middle-east-conflict",
-      "source": "The Guardian"
     },
     {
       "name": "Texas",
       "count": 9,
-      "url": "https://www.theguardian.com/technology/2026/apr/02/google-ai-datacenter",
+      "url": "https://www.nytimes.com/2026/04/03/us/texas-voucher-program-islamic-schools-funding-fight.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 9,
+      "url": "https://www.theguardian.com/environment/2026/apr/02/new-york-induction-stoves-climate-energy",
       "source": "The Guardian"
     }
   ],
+  "PERSON": [
+    {
+      "name": "Pam Bondi",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Counter Trump",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/04/02/business/economy/trump-iran-china-choke-points.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump Jr",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/apr/02/eric-trump-drones-gulf-states-iran",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tiger Woods",
+      "count": 10,
+      "url": "https://www.theguardian.com/sport/2026/apr/02/tiger-woods-bodycam-footage-dui-arrest-golf",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pete Hegseth",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/apr/02/randy-george-pete-hegseth-us-army",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Todd Blanche",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/04/02/us/politics/todd-blanche-attorney-general-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/apr/03/trump-pam-bondi-administration",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Justin Baldoni",
+      "count": 7,
+      "url": "https://www.theguardian.com/film/2026/apr/02/blake-lively-justin-baldoni-sexual-harassment-claims",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pope Leo",
+      "count": 7,
+      "url": "https://www.cbsnews.com/video/pope-leo-comments-on-trumps-iran-war-during-first-easter-of-papacy/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Zara Larsson",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/apr/03/zara-larsson-popstar-interview-on-fame-fun-fighting-the-power-lush-life",
+      "source": "The Guardian"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Wanted Her Gone",
+      "count": 67,
+      "url": "https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The White House",
+      "count": 16,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/03/trump-courts-media-pentagon",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Artemis Ii Leaves Earth'S",
+      "count": 15,
+      "url": "https://www.today.com/video/artemis-ii-leaves-earth-s-orbit-and-begins-journey-to-the-moon-260650053700",
+      "source": "NBC News"
+    },
+    {
+      "name": "Gop Senate",
+      "count": 15,
+      "url": "https://www.politico.com/news/2026/04/02/georgia-senate-ossoff-trump-republicans-00854884",
+      "source": "Politico"
+    },
+    {
+      "name": "Ai",
+      "count": 13,
+      "url": "https://www.washingtonpost.com/nation/2026/04/02/judges-ai-hearings-rulings/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 13,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Breaking News",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/apr/03/senators-ticketmaster-ticket-fees",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nasa",
+      "count": 11,
+      "url": "https://www.theguardian.com/science/video/2026/apr/03/artemis-ii-crew-makes-contact-from-space-video",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Bully The Supreme Court",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/04/03/opinion/birthright-supreme-court-conversation-therapy.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ice",
+      "count": 7,
+      "url": "https://www.washingtonpost.com/national-security/2026/04/01/marines-ice-parris-island/",
+      "source": "Washington Post"
+    }
+  ],
   "EVENT": [
+    {
+      "name": "The Iran War",
+      "count": 7,
+      "url": "https://www.theguardian.com/world/2026/apr/03/asia-fuel-crisis-iran-war-ordinary-workers",
+      "source": "The Guardian"
+    },
     {
       "name": "The World Cup",
       "count": 7,
@@ -70,27 +200,33 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
-      "count": 6,
-      "url": "https://www.theguardian.com/business/2026/apr/02/oil-price-rises-markets-slide-following-trump-iran-war-address",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Holy Week",
+      "name": "The Daleks’ Master Plan  Two",
       "count": 2,
-      "url": "https://www.theguardian.com/news/gallery/2026/apr/02/tokyo-cherry-blossom-and-holy-week-processions-pictures-of-the-day-thursday",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/03/two-lost-1965-doctor-who-episodes-released-after-being-found-in-private-collection",
       "source": "The Guardian"
     },
     {
-      "name": "The Watergate",
+      "name": "War With Iran Again",
       "count": 1,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/02/the-open-mind-pbs",
+      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/israel-war-mood.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Syndrome",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/04/03/well/autobrewery-syndrome.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The 2026",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/apr/03/usmnt-world-cup-squad-predictions",
       "source": "The Guardian"
     },
     {
-      "name": "The Starship Get-Me-The-Hell-Out-Of-Here",
+      "name": "Culinary Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/02/jd-vance-space-aliens-demons",
+      "url": "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking",
       "source": "The Guardian"
     },
     {
@@ -106,147 +242,11 @@
       "source": "The Guardian"
     },
     {
-      "name": "New Year’S Eve",
+      "name": "The Watergate",
       "count": 1,
-      "url": "https://www.theguardian.com/film/2026/apr/02/easter-bunny-movies-ranked",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hurricane Sandy",
-      "count": 1,
-      "url": "https://www.theguardian.com/books/2026/apr/01/under-water-by-tara-menon-review-love-loss-and-a-longing-for-the-ocean",
-      "source": "The Guardian"
-    },
-    {
-      "name": "France •",
-      "count": 1,
-      "url": "https://www.theguardian.com/travel/2026/apr/03/readers-favourite-trips-france-vichy-normandy-provence-loire",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/02/the-open-mind-pbs",
       "source": "The Guardian"
     }
   ],
-  "ORG": [
-    {
-      "name": "Trump Wanted Her Gone",
-      "count": 68,
-      "url": "https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ai Chatbots For Health Advice",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/04/02/well/live/ai-illness-claude-chatgpt.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Gop Senate",
-      "count": 14,
-      "url": "https://www.politico.com/news/2026/04/02/georgia-senate-ossoff-trump-republicans-00854884",
-      "source": "Politico"
-    },
-    {
-      "name": "Breaking News",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/apr/02/trump-pam-bondi-attorney-general",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 13,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Artemis Ii",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/04/02/us/politics/artemis-ii-launch-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Hegseth Fires Army",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Guardian News",
-      "count": 9,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/2026/apr/02/how-have-trump-iran-war-aims-changed",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/02/birthright-citizenship-change-american-foundation",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald J. Trump",
-      "count": 30,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/02/birthright-citizenship-change-american-foundation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Pam Bondi",
-      "count": 23,
-      "url": "https://thehill.com/homenews/administration/5813987-five-notable-moments-from-pam-bondis-tenure-as-attorney-general/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Pete Hegseth",
-      "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/apr/02/randy-george-pete-hegseth-us-army",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump ’S",
-      "count": 16,
-      "url": "https://www.theguardian.com/culture/2026/apr/02/stephen-colbert-trump-birthright-citizenship-scotus-hearing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Justin Baldoni",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Hormuz",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/live/2026/apr/03/middle-east-crisis-live-trump-urges-iran-to-make-deal-after-bridge-strike",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Golfer Tiger Woods",
-      "count": 10,
-      "url": "https://thehill.com/blogs/in-the-know/5814285-tiger-woods-trump-phone-call-report/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Blake Lively'S",
-      "count": 8,
-      "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-04-02/blake-lively-justin-baldoni-harassment-claims-dismissed",
-      "source": "LA Times"
-    },
-    {
-      "name": "Rapper Gucci Mane",
-      "count": 7,
-      "url": "https://www.nbcnews.com/news/us-news/rapper-gucci-mane-was-target-kidnapping-robbery-plot-pooh-shiesty-doj-rcna266475",
-      "source": "NBC News"
-    },
-    {
-      "name": "Todd Blanche",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/04/02/us/politics/todd-blanche-attorney-general-trump.html",
-      "source": "NY Times"
-    }
-  ],
-  "updated": "2026-04-03T08:04:36Z"
+  "updated": "2026-04-03T14:03:40Z"
 };
