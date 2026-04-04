@@ -2,33 +2,38 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    127,
+    132,
     "https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html"
   ],
   [
     "iran",
-    60,
+    59,
     "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html"
   ],
   [
     "president",
-    57,
+    56,
     "https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html"
   ],
   [
     "war",
-    41,
+    47,
     "https://www.nytimes.com/2026/04/03/us/politics/iran-missiles-launchers.html"
   ],
   [
     "artemis",
-    26,
+    27,
     "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
   ],
   [
     "budget",
-    26,
+    25,
     "https://www.theguardian.com/us-news/2026/apr/03/defense-spending-trump-budget-proposal"
+  ],
+  [
+    "order",
+    25,
+    "https://www.theguardian.com/us-news/2026/apr/03/attorneys-general-trump-mail-in-voting-lawsuit"
   ],
   [
     "california",
@@ -36,54 +41,34 @@
     "https://www.theguardian.com/us-news/2026/apr/03/trump-vance-fraud-arrest-crackdown-california"
   ],
   [
-    "order",
-    24,
-    "https://www.theguardian.com/us-news/2026/apr/03/attorneys-general-trump-mail-in-voting-lawsuit"
-  ],
-  [
-    "don",
-    22,
-    "https://www.washingtonpost.com/nation/2026/04/03/vance-book-cover-church-photograph/"
-  ],
-  [
     "donald",
-    22,
-    "https://www.theguardian.com/us-news/2026/apr/03/trump-vance-fraud-arrest-crackdown-california"
-  ],
-  [
-    "jet",
-    21,
-    "https://www.nytimes.com/2026/04/03/briefing/us-jet-iran-search-job-growth.html"
-  ],
-  [
-    "social",
-    21,
-    "https://www.washingtonpost.com/nation/2026/04/02/social-media-use-democracy-belief/"
-  ],
-  [
-    "media",
-    21,
-    "https://www.washingtonpost.com/nation/2026/04/02/social-media-use-democracy-belief/"
-  ],
-  [
-    "country",
-    21,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "crew",
-    21,
-    "https://www.theguardian.com/science/2026/apr/03/artemis-ii-astronauts-rocket-towards-the-moon-after-breaking-free-of-earths-orbit"
+    23,
+    "https://www.theguardian.com/news/ng-interactive/2026/apr/04/can-the-king-tame-trump-state-visit"
   ],
   [
     "moon",
-    20,
+    21,
     "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
   ],
   [
-    "name",
+    "don",
+    21,
+    "https://www.washingtonpost.com/nation/2026/04/03/vance-book-cover-church-photograph/"
+  ],
+  [
+    "country",
     20,
-    "https://www.theguardian.com/music/commentisfree/2026/apr/03/what-does-lizzo-stand-for-now"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "spring",
+    20,
+    "https://www.theguardian.com/world/2026/apr/04/fighting-robots-give-ukraine-hope-in-war-with-russia"
+  ],
+  [
+    "crew",
+    20,
+    "https://www.latimes.com/world-nation/story/2026-04-03/u-s-pilot-ejected-from-their-aircraft-over-southwestern-iran-affiliate-of-iranian-state-tv-claims"
   ],
   [
     "political",
@@ -96,9 +81,14 @@
     "https://www.nytimes.com/2026/04/03/arts/modigliani-nazi-court-ruling.html"
   ],
   [
-    "bondi",
+    "media",
     19,
-    "https://www.theguardian.com/us-news/2026/apr/03/pam-bondi-justice-department-epstein-files"
+    "https://www.washingtonpost.com/nation/2026/04/02/social-media-use-democracy-belief/"
+  ],
+  [
+    "name",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/apr/04/donald-trump-iran-war-evangelical-nationalists-moral-world-order-pete-hegseth"
   ],
   [
     "security",
@@ -106,64 +96,64 @@
     "https://www.nytimes.com/2026/04/03/us/politics/trump-order-dhs-funding.html"
   ],
   [
-    "states",
+    "social",
+    18,
+    "https://www.washingtonpost.com/nation/2026/04/02/social-media-use-democracy-belief/"
+  ],
+  [
+    "jet",
+    18,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "something",
     17,
+    "https://www.theguardian.com/artanddesign/2026/apr/04/occasionally-a-picture-can-change-the-course-of-history-33-scandalous-photos-that-shocked-the-world"
+  ],
+  [
+    "southern",
+    17,
+    "https://www.theguardian.com/travel/2026/apr/04/new-zealand-south-island-nelson-tasman-coast"
+  ],
+  [
+    "states",
+    16,
     "https://www.nytimes.com/2026/04/03/us/politics/iran-missiles-launchers.html"
   ],
   [
     "military",
-    17,
+    16,
     "https://www.nytimes.com/2026/04/03/us/politics/white-house-defense-budget.html"
   ],
   [
-    "spring",
-    17,
-    "https://www.theguardian.com/us-news/2026/apr/03/wildfires-southern-california"
+    "power",
+    16,
+    "https://www.nytimes.com/2026/04/03/us/politics/lamonica-mciver-immigration-congress-trump.html"
+  ],
+  [
+    "early",
+    16,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "night",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/03/samuel-alito-supreme-court-retirement-speculation"
+  ],
+  [
+    "game",
+    16,
+    "https://www.theguardian.com/sport/2026/apr/03/uconn-south-carolina-geno-auriemma-dawn-staley-ucla-texas"
+  ],
+  [
+    "food",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/03/tax-billionaires"
   ],
   [
     "college",
-    16,
+    15,
     "https://www.nytimes.com/2026/04/03/your-money/parent-plus-college-loans-deadline.html"
-  ],
-  [
-    "final",
-    16,
-    "https://www.theguardian.com/sport/live/2026/apr/03/uconn-south-carolina-ucla-texas-final-four-live-updates"
-  ],
-  [
-    "los",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/03/tax-billionaires"
-  ],
-  [
-    "angeles",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/03/tax-billionaires"
-  ],
-  [
-    "season",
-    16,
-    "https://www.theguardian.com/world/2026/apr/04/india-fuel-crisis-fertiliser-shortage-farming"
-  ],
-  [
-    "southern",
-    16,
-    "https://www.theguardian.com/travel/2026/apr/04/new-zealand-south-island-nelson-tasman-coast"
-  ],
-  [
-    "shot",
-    15,
-    "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html"
-  ],
-  [
-    "power",
-    15,
-    "https://www.nytimes.com/2026/04/03/us/politics/lamonica-mciver-immigration-congress-trump.html"
-  ],
-  [
-    "department",
-    15,
-    "https://www.nytimes.com/2026/04/03/us/politics/lamonica-mciver-immigration-congress-trump.html"
   ],
   [
     "fighter",
@@ -176,84 +166,49 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "food",
-    15,
-    "https://www.theguardian.com/world/2026/apr/03/visual-guide-gulf-fertiliser-blockade"
-  ],
-  [
-    "buying",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking"
-  ],
-  [
     "defense",
     15,
     "https://www.theguardian.com/us-news/2026/apr/03/defense-spending-trump-budget-proposal"
   ],
   [
-    "night",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/03/samuel-alito-supreme-court-retirement-speculation"
-  ],
-  [
-    "ncaa",
-    15,
-    "https://www.theguardian.com/sport/live/2026/apr/03/uconn-south-carolina-ucla-texas-final-four-live-updates"
-  ],
-  [
-    "game",
-    15,
-    "https://www.theguardian.com/sport/live/2026/apr/03/uconn-south-carolina-ucla-texas-final-four-live-updates"
-  ],
-  [
-    "market",
-    14,
-    "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html"
-  ],
-  [
-    "health",
-    14,
-    "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html"
-  ],
-  [
-    "case",
-    14,
-    "https://www.nytimes.com/2026/04/03/us/politics/lamonica-mciver-immigration-congress-trump.html"
-  ],
-  [
-    "latest",
-    14,
-    "https://www.nytimes.com/2026/04/03/us/politics/senate-races-midterms-primary-election.html"
-  ],
-  [
-    "york",
-    14,
-    "https://www.theguardian.com/wellness/2026/apr/03/what-is-orgasmic-meditation"
-  ],
-  [
-    "guide",
-    14,
-    "https://www.theguardian.com/world/2026/apr/03/visual-guide-gulf-fertiliser-blockade"
-  ],
-  [
-    "filter",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking"
-  ],
-  [
-    "fewer",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking"
-  ],
-  [
     "south",
-    14,
-    "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut"
+    15,
+    "https://www.theguardian.com/sport/2026/apr/03/uconn-south-carolina-geno-auriemma-dawn-staley-ucla-texas"
   ],
   [
-    "email",
+    "bondi",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/apr/03/pam-bondi-fired-trump-epstein"
+  ],
+  [
+    "student",
+    15,
+    "https://www.theguardian.com/education/2026/apr/03/oxford-brookes-f1-formula-student-competition-fastest-race-car"
+  ],
+  [
+    "shot",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/03/defense-spending-trump-budget-proposal"
+    "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html"
+  ],
+  [
+    "nasa",
+    14,
+    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
+  ],
+  [
+    "earth",
+    14,
+    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
+  ],
+  [
+    "almost",
+    14,
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/apr/03/stop-brain-rot-ways-to-stay-sharp"
+  ],
+  [
+    "east",
+    14,
+    "https://www.theguardian.com/world/2026/apr/04/children-us-israel-iran-war-middle-east"
   ],
   [
     "proposal",
@@ -261,19 +216,19 @@
     "https://www.theguardian.com/us-news/2026/apr/03/defense-spending-trump-budget-proposal"
   ],
   [
-    "general",
+    "season",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/03/pam-bondi-justice-department-epstein-files"
+    "https://www.theguardian.com/world/2026/apr/04/india-fuel-crisis-fertiliser-shortage-farming"
   ],
   [
-    "love",
+    "family",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/03/los-angeles-drivers-rising-gas-prices"
+    "https://www.theguardian.com/culture/2026/apr/04/eminems-8-mile-helped-me-survive-abuse-and-opened-my-eyes-to-a-world-outside-of-orthodox-judaism"
   ],
   [
-    "student",
+    "guide",
     14,
-    "https://www.theguardian.com/education/2026/apr/03/oxford-brookes-f1-formula-student-competition-fastest-race-car"
+    "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking"
   ],
   [
     "protein",
@@ -281,54 +236,84 @@
     "https://www.theguardian.com/thefilter-us/2026/jan/28/best-protein-bars"
   ],
   [
+    "market",
+    13,
+    "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html"
+  ],
+  [
+    "children",
+    13,
+    "https://www.nytimes.com/2026/04/03/your-money/parent-plus-college-loans-deadline.html"
+  ],
+  [
+    "mission",
+    13,
+    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
+  ],
+  [
+    "released",
+    13,
+    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
+  ],
+  [
     "astronauts",
     13,
     "https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html"
   ],
   [
-    "family",
+    "department",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/03/bryan-cranston-malcolm-in-the-middle-return-breaking-bad"
+    "https://www.nytimes.com/2026/04/03/us/politics/lamonica-mciver-immigration-congress-trump.html"
   ],
   [
-    "breaking",
+    "case",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/03/bryan-cranston-malcolm-in-the-middle-return-breaking-bad"
+    "https://www.nytimes.com/2026/04/03/us/politics/lamonica-mciver-immigration-congress-trump.html"
   ],
   [
-    "gas",
+    "latest",
     13,
-    "https://www.theguardian.com/world/2026/apr/03/visual-guide-gulf-fertiliser-blockade"
+    "https://www.nytimes.com/2026/04/03/us/politics/senate-races-midterms-primary-election.html"
   ],
   [
-    "weekly",
+    "ukraine",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking"
+    "https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html"
   ],
   [
-    "fraud",
+    "global",
+    13,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "air",
+    13,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "democratic",
     13,
     "https://www.theguardian.com/us-news/2026/apr/03/trump-vance-fraud-arrest-crackdown-california"
   ],
   [
-    "attorney",
+    "final",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/03/pam-bondi-justice-department-epstein-files"
+    "https://www.theguardian.com/sport/2026/apr/03/uconn-south-carolina-geno-auriemma-dawn-staley-ucla-texas"
   ],
   [
-    "executive",
+    "general",
     13,
     "https://www.theguardian.com/us-news/2026/apr/03/attorneys-general-trump-mail-in-voting-lawsuit"
   ],
   [
-    "oil",
+    "york",
     13,
-    "https://www.theguardian.com/world/2026/apr/04/india-fuel-crisis-fertiliser-shortage-farming"
+    "https://www.theguardian.com/wellness/2026/apr/03/what-is-orgasmic-meditation"
   ],
   [
-    "something",
+    "love",
     13,
-    "https://www.theguardian.com/travel/2026/apr/04/new-zealand-south-island-nelson-tasman-coast"
+    "https://www.theguardian.com/us-news/2026/apr/03/comedian-eugene-mirman-car-crash-new-hampshire"
   ],
   [
     "cuts",
@@ -341,38 +326,53 @@
     "https://www.nytimes.com/2026/04/03/us/politics/trump-order-dhs-funding.html"
   ],
   [
-    "million",
-    12,
-    "https://www.nytimes.com/2026/04/03/us/trump-alcatraz-funding.html"
-  ],
-  [
     "jobs",
     12,
     "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html"
   ],
   [
-    "earth",
+    "health",
+    12,
+    "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html"
+  ],
+  [
+    "photos",
     12,
     "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
   ],
   [
-    "mission",
+    "future",
     12,
-    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
+    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-ii-demonstration-moon-pilot.html"
   ],
   [
-    "released",
+    "though",
     12,
-    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
-  ],
-  [
-    "congress",
-    12,
-    "https://www.nytimes.com/2026/04/03/us/politics/lamonica-mciver-immigration-congress-trump.html"
+    "https://www.nytimes.com/2026/04/04/world/asia/epstein-india-ambani.html"
   ],
   [
     "senate",
     12,
     "https://www.nytimes.com/2026/04/03/us/politics/senate-races-midterms-primary-election.html"
+  ],
+  [
+    "book",
+    12,
+    "https://www.washingtonpost.com/nation/2026/04/03/vance-book-cover-church-photograph/"
+  ],
+  [
+    "team",
+    12,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "secretary",
+    12,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "decades",
+    12,
+    "https://www.theguardian.com/news/ng-interactive/2026/apr/04/can-the-king-tame-trump-state-visit"
   ]
 ];
