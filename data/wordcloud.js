@@ -2,243 +2,238 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    98,
-    "https://www.nytimes.com/2026/04/03/world/middleeast/pope-iran-war.html"
+    127,
+    "https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html"
   ],
   [
     "iran",
-    58,
-    "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran"
+    60,
+    "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html"
   ],
   [
     "president",
-    48,
-    "https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html"
+    57,
+    "https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html"
   ],
   [
     "war",
-    33,
-    "https://www.nytimes.com/2026/04/03/world/middleeast/pope-iran-war.html"
+    41,
+    "https://www.nytimes.com/2026/04/03/us/politics/iran-missiles-launchers.html"
   ],
   [
-    "jet",
-    30,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "artemis",
+    26,
+    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
   ],
   [
-    "bondi",
-    27,
-    "https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html"
-  ],
-  [
-    "court",
-    25,
-    "https://www.nytimes.com/2026/04/03/us/politics/justice-alito-briefly-hospitalized.html"
-  ],
-  [
-    "media",
-    25,
-    "https://www.washingtonpost.com/nation/2026/04/02/social-media-use-democracy-belief/"
-  ],
-  [
-    "fighter",
-    25,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "social",
-    22,
-    "https://www.washingtonpost.com/nation/2026/04/02/social-media-use-democracy-belief/"
+    "budget",
+    26,
+    "https://www.theguardian.com/us-news/2026/apr/03/defense-spending-trump-budget-proposal"
   ],
   [
     "california",
+    24,
+    "https://www.theguardian.com/us-news/2026/apr/03/trump-vance-fraud-arrest-crackdown-california"
+  ],
+  [
+    "order",
+    24,
+    "https://www.theguardian.com/us-news/2026/apr/03/attorneys-general-trump-mail-in-voting-lawsuit"
+  ],
+  [
+    "don",
+    22,
+    "https://www.washingtonpost.com/nation/2026/04/03/vance-book-cover-church-photograph/"
+  ],
+  [
+    "donald",
     22,
     "https://www.theguardian.com/us-news/2026/apr/03/trump-vance-fraud-arrest-crackdown-california"
   ],
   [
-    "political",
+    "jet",
     21,
-    "https://www.nytimes.com/2026/04/03/nyregion/trump-alcatraz-funding.html"
+    "https://www.nytimes.com/2026/04/03/briefing/us-jet-iran-search-job-growth.html"
   ],
   [
-    "donald",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/apr/03/pam-bondi-fired-trump-epstein"
+    "social",
+    21,
+    "https://www.washingtonpost.com/nation/2026/04/02/social-media-use-democracy-belief/"
   ],
   [
-    "don",
-    19,
-    "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking"
-  ],
-  [
-    "pam",
-    18,
-    "https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html"
-  ],
-  [
-    "health",
-    18,
-    "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html"
+    "media",
+    21,
+    "https://www.washingtonpost.com/nation/2026/04/02/social-media-use-democracy-belief/"
   ],
   [
     "country",
-    18,
+    21,
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "spring",
-    18,
-    "https://www.theguardian.com/music/2026/apr/03/zara-larsson-popstar-interview-on-fame-fun-fighting-the-power-lush-life"
+    "crew",
+    21,
+    "https://www.theguardian.com/science/2026/apr/03/artemis-ii-astronauts-rocket-towards-the-moon-after-breaking-free-of-earths-orbit"
   ],
   [
-    "judge",
-    18,
-    "https://www.theguardian.com/us-news/2026/apr/03/pennsylvania-murder-conviction-overturned-deportation"
-  ],
-  [
-    "general",
-    17,
-    "https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html"
-  ],
-  [
-    "american",
-    17,
-    "https://www.nytimes.com/2026/04/03/realestate/unabomber-cabin-30-year-anniversary.html"
-  ],
-  [
-    "artemis",
-    17,
+    "moon",
+    20,
     "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
   ],
   [
-    "power",
+    "name",
+    20,
+    "https://www.theguardian.com/music/commentisfree/2026/apr/03/what-does-lizzo-stand-for-now"
+  ],
+  [
+    "political",
+    19,
+    "https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html"
+  ],
+  [
+    "court",
+    19,
+    "https://www.nytimes.com/2026/04/03/arts/modigliani-nazi-court-ruling.html"
+  ],
+  [
+    "bondi",
+    19,
+    "https://www.theguardian.com/us-news/2026/apr/03/pam-bondi-justice-department-epstein-files"
+  ],
+  [
+    "security",
+    18,
+    "https://www.nytimes.com/2026/04/03/us/politics/trump-order-dhs-funding.html"
+  ],
+  [
+    "states",
     17,
+    "https://www.nytimes.com/2026/04/03/us/politics/iran-missiles-launchers.html"
+  ],
+  [
+    "military",
+    17,
+    "https://www.nytimes.com/2026/04/03/us/politics/white-house-defense-budget.html"
+  ],
+  [
+    "spring",
+    17,
+    "https://www.theguardian.com/us-news/2026/apr/03/wildfires-southern-california"
+  ],
+  [
+    "college",
+    16,
+    "https://www.nytimes.com/2026/04/03/your-money/parent-plus-college-loans-deadline.html"
+  ],
+  [
+    "final",
+    16,
+    "https://www.theguardian.com/sport/live/2026/apr/03/uconn-south-carolina-ucla-texas-final-four-live-updates"
+  ],
+  [
+    "los",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/03/tax-billionaires"
+  ],
+  [
+    "angeles",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/03/tax-billionaires"
+  ],
+  [
+    "season",
+    16,
+    "https://www.theguardian.com/world/2026/apr/04/india-fuel-crisis-fertiliser-shortage-farming"
+  ],
+  [
+    "southern",
+    16,
+    "https://www.theguardian.com/travel/2026/apr/04/new-zealand-south-island-nelson-tasman-coast"
+  ],
+  [
+    "shot",
+    15,
+    "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html"
+  ],
+  [
+    "power",
+    15,
     "https://www.nytimes.com/2026/04/03/us/politics/lamonica-mciver-immigration-congress-trump.html"
   ],
   [
     "department",
-    17,
-    "https://www.nytimes.com/2026/04/03/us/politics/lamonica-mciver-immigration-congress-trump.html"
-  ],
-  [
-    "crew",
-    17,
-    "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran"
-  ],
-  [
-    "attorney",
-    16,
-    "https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html"
-  ],
-  [
-    "jobs",
-    16,
-    "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html"
-  ],
-  [
-    "market",
-    16,
-    "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html"
-  ],
-  [
-    "experts",
-    16,
-    "https://www.nytimes.com/2026/04/03/us/fema-gregg-phillips-waffle-house-teleportation.html"
-  ],
-  [
-    "east",
-    16,
-    "https://www.nytimes.com/2026/04/03/nyregion/mamdani-menin-nyc-budget.html"
-  ],
-  [
-    "guide",
-    16,
-    "https://www.theguardian.com/world/2026/apr/03/visual-guide-gulf-fertiliser-blockade"
-  ],
-  [
-    "buying",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking"
-  ],
-  [
-    "name",
-    16,
-    "https://www.theguardian.com/music/2026/apr/03/rapper-pooh-shiesty-robbery-kidnap-gucci-mane"
-  ],
-  [
-    "moon",
-    15,
-    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
-  ],
-  [
-    "case",
     15,
     "https://www.nytimes.com/2026/04/03/us/politics/lamonica-mciver-immigration-congress-trump.html"
   ],
   [
-    "israel",
-    15,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "air",
+    "fighter",
     15,
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "states",
+    "trump's",
     15,
-    "https://www.theguardian.com/us-news/live/2026/apr/03/trump-justice-department-bondi-blanche-epstein-latest-updates"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "breaking",
+    "food",
     15,
-    "https://www.theguardian.com/us-news/live/2026/apr/03/trump-justice-department-bondi-blanche-epstein-latest-updates"
+    "https://www.theguardian.com/world/2026/apr/03/visual-guide-gulf-fertiliser-blockade"
   ],
   [
-    "email",
+    "buying",
     15,
-    "https://www.theguardian.com/us-news/live/2026/apr/03/trump-justice-department-bondi-blanche-epstein-latest-updates"
+    "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking"
   ],
   [
-    "released",
+    "defense",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/03/defense-spending-trump-budget-proposal"
+  ],
+  [
+    "night",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/03/samuel-alito-supreme-court-retirement-speculation"
+  ],
+  [
+    "ncaa",
+    15,
+    "https://www.theguardian.com/sport/live/2026/apr/03/uconn-south-carolina-ucla-texas-final-four-live-updates"
+  ],
+  [
+    "game",
+    15,
+    "https://www.theguardian.com/sport/live/2026/apr/03/uconn-south-carolina-ucla-texas-final-four-live-updates"
+  ],
+  [
+    "market",
     14,
-    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
+    "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html"
   ],
   [
-    "congress",
+    "health",
+    14,
+    "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html"
+  ],
+  [
+    "case",
     14,
     "https://www.nytimes.com/2026/04/03/us/politics/lamonica-mciver-immigration-congress-trump.html"
   ],
   [
-    "supreme",
+    "latest",
     14,
-    "https://www.nytimes.com/2026/04/03/us/politics/justice-alito-briefly-hospitalized.html"
+    "https://www.nytimes.com/2026/04/03/us/politics/senate-races-midterms-primary-election.html"
   ],
   [
-    "ice",
+    "york",
     14,
-    "https://www.washingtonpost.com/national-security/2026/04/01/marines-ice-parris-island/"
+    "https://www.theguardian.com/wellness/2026/apr/03/what-is-orgasmic-meditation"
   ],
   [
-    "food",
+    "guide",
     14,
     "https://www.theguardian.com/world/2026/apr/03/visual-guide-gulf-fertiliser-blockade"
-  ],
-  [
-    "feel",
-    14,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/apr/03/stop-brain-rot-ways-to-stay-sharp"
-  ],
-  [
-    "member",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/apr/03/pam-bondi-fired-trump-epstein"
-  ],
-  [
-    "love",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/03/your-friends-and-neighbours-season-two-review-jon-hamm-brilliant-moreish-caper"
   ],
   [
     "filter",
@@ -251,24 +246,34 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking"
   ],
   [
-    "fraud",
+    "south",
     14,
-    "https://www.theguardian.com/us-news/live/2026/apr/03/trump-justice-department-bondi-blanche-epstein-latest-updates"
+    "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut"
   ],
   [
-    "recent",
+    "email",
     14,
-    "https://www.theguardian.com/us-news/live/2026/apr/03/trump-justice-department-bondi-blanche-epstein-latest-updates"
+    "https://www.theguardian.com/us-news/2026/apr/03/defense-spending-trump-budget-proposal"
   ],
   [
-    "added",
+    "proposal",
     14,
-    "https://www.theguardian.com/us-news/live/2026/apr/03/trump-justice-department-bondi-blanche-epstein-latest-updates"
+    "https://www.theguardian.com/us-news/2026/apr/03/defense-spending-trump-budget-proposal"
   ],
   [
-    "cup",
+    "general",
     14,
-    "https://www.theguardian.com/football/2026/apr/03/usmnt-world-cup-squad-predictions"
+    "https://www.theguardian.com/us-news/2026/apr/03/pam-bondi-justice-department-epstein-files"
+  ],
+  [
+    "love",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/03/los-angeles-drivers-rising-gas-prices"
+  ],
+  [
+    "student",
+    14,
+    "https://www.theguardian.com/education/2026/apr/03/oxford-brookes-f1-formula-student-competition-fastest-race-car"
   ],
   [
     "protein",
@@ -276,64 +281,24 @@
     "https://www.theguardian.com/thefilter-us/2026/jan/28/best-protein-bars"
   ],
   [
-    "future",
+    "astronauts",
     13,
-    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-ii-demonstration-moon-pilot.html"
+    "https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html"
   ],
   [
-    "early",
+    "family",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/tv-and-radio/2026/apr/03/bryan-cranston-malcolm-in-the-middle-return-breaking-bad"
   ],
   [
-    "here's",
+    "breaking",
     13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.theguardian.com/tv-and-radio/2026/apr/03/bryan-cranston-malcolm-in-the-middle-return-breaking-bad"
   ],
   [
-    "security",
+    "gas",
     13,
     "https://www.theguardian.com/world/2026/apr/03/visual-guide-gulf-fertiliser-blockade"
-  ],
-  [
-    "album",
-    13,
-    "https://www.theguardian.com/music/2026/apr/03/zara-larsson-popstar-interview-on-fame-fun-fighting-the-power-lush-life"
-  ],
-  [
-    "century",
-    13,
-    "https://www.theguardian.com/music/2026/apr/03/zara-larsson-popstar-interview-on-fame-fun-fighting-the-power-lush-life"
-  ],
-  [
-    "water",
-    13,
-    "https://www.theguardian.com/music/2026/apr/03/zara-larsson-popstar-interview-on-fame-fun-fighting-the-power-lush-life"
-  ],
-  [
-    "something",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/apr/03/pam-bondi-fired-trump-epstein"
-  ],
-  [
-    "democratic",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/apr/03/pam-bondi-fired-trump-epstein"
-  ],
-  [
-    "middle",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/03/your-friends-and-neighbours-season-two-review-jon-hamm-brilliant-moreish-caper"
-  ],
-  [
-    "york",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/03/your-friends-and-neighbours-season-two-review-jon-hamm-brilliant-moreish-caper"
-  ],
-  [
-    "actor",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/03/your-friends-and-neighbours-season-two-review-jon-hamm-brilliant-moreish-caper"
   ],
   [
     "weekly",
@@ -341,38 +306,73 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking"
   ],
   [
-    "rescued",
-    13,
-    "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran"
-  ],
-  [
-    "defense",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/apr/03/trump-justice-department-bondi-blanche-epstein-latest-updates"
-  ],
-  [
-    "oil",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/apr/03/trump-justice-department-bondi-blanche-epstein-latest-updates"
-  ],
-  [
-    "claims",
+    "fraud",
     13,
     "https://www.theguardian.com/us-news/2026/apr/03/trump-vance-fraud-arrest-crackdown-california"
   ],
   [
-    "inbox",
+    "attorney",
     13,
     "https://www.theguardian.com/us-news/2026/apr/03/pam-bondi-justice-department-epstein-files"
   ],
   [
-    "car",
+    "executive",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/03/comedian-eugene-mirman-car-crash-new-hampshire"
+    "https://www.theguardian.com/us-news/2026/apr/03/attorneys-general-trump-mail-in-voting-lawsuit"
   ],
   [
-    "black",
+    "oil",
     13,
-    "https://www.theguardian.com/books/2026/apr/03/the-best-recent-poetry-review-roundup"
+    "https://www.theguardian.com/world/2026/apr/04/india-fuel-crisis-fertiliser-shortage-farming"
+  ],
+  [
+    "something",
+    13,
+    "https://www.theguardian.com/travel/2026/apr/04/new-zealand-south-island-nelson-tasman-coast"
+  ],
+  [
+    "cuts",
+    12,
+    "https://www.nytimes.com/2026/04/03/us/politics/white-house-defense-budget.html"
+  ],
+  [
+    "pay",
+    12,
+    "https://www.nytimes.com/2026/04/03/us/politics/trump-order-dhs-funding.html"
+  ],
+  [
+    "million",
+    12,
+    "https://www.nytimes.com/2026/04/03/us/trump-alcatraz-funding.html"
+  ],
+  [
+    "jobs",
+    12,
+    "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html"
+  ],
+  [
+    "earth",
+    12,
+    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
+  ],
+  [
+    "mission",
+    12,
+    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
+  ],
+  [
+    "released",
+    12,
+    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
+  ],
+  [
+    "congress",
+    12,
+    "https://www.nytimes.com/2026/04/03/us/politics/lamonica-mciver-immigration-congress-trump.html"
+  ],
+  [
+    "senate",
+    12,
+    "https://www.nytimes.com/2026/04/03/us/politics/senate-races-midterms-primary-election.html"
   ]
 ];
