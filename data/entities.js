@@ -3,113 +3,237 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 63,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/04/can-the-king-tame-trump-state-visit",
+      "count": 62,
+      "url": "https://www.theguardian.com/us-news/2026/apr/04/military-tiktok-iran-war-trump-hegseth",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
       "count": 56,
-      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
+      "url": "https://www.nytimes.com/2026/04/04/world/middleeast/missing-airman-iran.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 37,
-      "url": "https://www.nytimes.com/2026/04/03/us/politics/iran-missiles-launchers.html",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/04/04/us/trumps-immigration-policy-sidelines-foreign-doctors-amid-shortage.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/apr/03/trump-vance-fraud-arrest-crackdown-california",
+      "count": 20,
+      "url": "https://www.theguardian.com/us-news/2026/apr/04/high-ocean-temperatures-california-marine-heatwave",
       "source": "The Guardian"
     },
     {
       "name": "Ukraine",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 14,
-      "url": "https://www.theguardian.com/politics/2026/apr/03/relationship-with-trump-may-be-beyond-repair-keir-starmer-told",
+      "count": 13,
+      "url": "https://www.theguardian.com/world/2026/apr/04/fighting-robots-give-ukraine-hope-in-war-with-russia",
       "source": "The Guardian"
-    },
-    {
-      "name": "L.A. County",
-      "count": 14,
-      "url": "https://www.latimes.com/california/story/2026-04-03/1-800-stolen-catalytic-converters-seized-in-massive-bust",
-      "source": "LA Times"
     },
     {
       "name": "Texas",
       "count": 12,
-      "url": "https://www.theguardian.com/music/2026/apr/03/rapper-pooh-shiesty-robbery-kidnap-gucci-mane",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Russia",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html",
+      "url": "https://www.nytimes.com/2026/04/03/us/ice-texas-camp-montana-east.html",
       "source": "NY Times"
     },
     {
-      "name": "Los Angeles",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/apr/03/tax-billionaires",
+      "name": "L.A. County",
+      "count": 11,
+      "url": "https://www.latimes.com/california/story/2026-04-03/1-800-stolen-catalytic-converters-seized-in-massive-bust",
+      "source": "LA Times"
+    },
+    {
+      "name": "New York City Housing Projects Worth Saving",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/04/04/nyregion/fight-escalates-over-plan-to-demolish-and-rebuild-nyc-public-housing.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Russia",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/2026/apr/04/fighting-robots-give-ukraine-hope-in-war-with-russia",
       "source": "The Guardian"
+    },
+    {
+      "name": "China",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Budget Does Little To Address Nation’S Fiscal Challenges",
+      "count": 69,
+      "url": "https://www.nytimes.com/2026/04/04/business/trump-budget-federal-deficit.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The White House",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/04/04/world/africa/trump-deportation-africa-migrants.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Gop Senate",
+      "count": 16,
+      "url": "https://www.politico.com/news/2026/04/02/georgia-senate-ossoff-trump-republicans-00854884",
+      "source": "Politico"
+    },
+    {
+      "name": "Nasa",
+      "count": 11,
+      "url": "https://www.theguardian.com/science/2026/apr/03/artemis-ii-astronauts-rocket-towards-the-moon-after-breaking-free-of-earths-orbit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian News",
+      "count": 10,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Artemis Ii",
+      "count": 9,
+      "url": "https://www.theguardian.com/science/2026/apr/03/artemis-ii-astronauts-rocket-towards-the-moon-after-breaking-free-of-earths-orbit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ncaa",
+      "count": 9,
+      "url": "https://www.latimes.com/sports/ucla/story/2026-04-03/ucla-defeats-texas-in-final-four-south-carolina-title",
+      "source": "LA Times"
+    },
+    {
+      "name": "Breaking News",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/apr/04/high-ocean-temperatures-california-marine-heatwave",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/03/trump-courts-media-pentagon",
+      "source": "The Guardian"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "The World Cup",
+      "count": 11,
+      "url": "https://www.nbcnews.com/news/news-quiz/trump-fires-official-news-quiz-rcna266493",
+      "source": "NBC News"
+    },
+    {
+      "name": "The Iran War",
+      "count": 3,
+      "url": "https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Manhunt",
+      "count": 2,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/04/roger-casement-hanged-traitor-pardon-ireland-easter-rising",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Operation Epic Fury",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/apr/04/military-tiktok-iran-war-trump-hegseth",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Easter Rising",
+      "count": 1,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/04/roger-casement-hanged-traitor-pardon-ireland-easter-rising",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The 2026",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/apr/03/usmnt-world-cup-squad-predictions",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Sinquefield Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/04/chess-mates-untold-cheating-scandal-netflix",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Watergate",
+      "count": 1,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/02/the-open-mind-pbs",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uconn&Apos;S March",
+      "count": 1,
+      "url": "https://www.foxnews.com/sports/legendary-womens-basketball-coaches-dawn-staley-geno-auriemma-get-heated-shouting-match",
+      "source": "Fox News"
+    },
+    {
+      "name": "Holy Week",
+      "count": 1,
+      "url": "https://www.foxnews.com/politics/trump-says-america-needs-god-good-friday-message-touts-resurgence-religion",
+      "source": "Fox News"
     }
   ],
   "PERSON": [
     {
-      "name": "Donald Trump",
-      "count": 21,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/04/can-the-king-tame-trump-state-visit",
-      "source": "The Guardian"
+      "name": "Vanessa Trump",
+      "count": 23,
+      "url": "https://thehill.com/blogs/in-the-know/5815753-vanessa-trump-tiger-woods-dui-arrest/",
+      "source": "The Hill"
     },
     {
       "name": "Donald Trump ’S",
-      "count": 20,
+      "count": 19,
       "url": "https://www.theguardian.com/culture/2026/apr/02/stephen-colbert-trump-birthright-citizenship-scotus-hearing",
       "source": "The Guardian"
     },
     {
-      "name": "Pam Bondi",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/03/pam-bondi-fired-trump-epstein",
-      "source": "The Guardian"
+      "name": "Drayton Farley",
+      "count": 9,
+      "url": "https://www.cbsnews.com/video/saturday-sessions-drayton-farley-performs-its-called-doubt/",
+      "source": "CBS News"
     },
     {
       "name": "Jd Vance",
       "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/apr/03/trump-vance-fraud-arrest-crackdown-california",
+      "url": "https://www.theguardian.com/us-news/2026/apr/03/trump-news-at-a-glance-jd-vance",
       "source": "The Guardian"
     },
     {
       "name": "Geno Auriemma",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/apr/03/uconn-south-carolina-geno-auriemma-dawn-staley-ucla-texas",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Dawn Staley",
       "count": 6,
       "url": "https://www.theguardian.com/sport/2026/apr/03/uconn-south-carolina-geno-auriemma-dawn-staley-ucla-texas",
       "source": "The Guardian"
     },
     {
-      "name": "Pope Leo",
+      "name": "Mike Rowe",
       "count": 6,
-      "url": "https://www.cbsnews.com/news/pope-leo-carries-cross-14-stations-good-friday-procession/",
-      "source": "CBS News"
+      "url": "https://www.foxnews.com/politics/mike-rowe-doubles-down-after-blasting-kimmels-tone-deaf-plumber-jokes",
+      "source": "Fox News"
     },
     {
       "name": "Strike Eagle Shot Down",
       "count": 5,
       "url": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Dawn Staley",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/apr/03/uconn-south-carolina-geno-auriemma-dawn-staley-ucla-texas",
-      "source": "The Guardian"
     },
     {
       "name": "Pete Hegseth",
@@ -124,129 +248,5 @@
       "source": "The Guardian"
     }
   ],
-  "ORG": [
-    {
-      "name": "Trump Antisemitism Campaign",
-      "count": 89,
-      "url": "https://www.nytimes.com/2026/04/03/us/wisconsin-mosque-leader-antisemitism.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Nasa",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Artemis Ii Pilot Test Drove The Orion Capsule On The Way",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/04/03/science/nasa-artemis-ii-demonstration-moon-pilot.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The White House",
-      "count": 13,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/04/can-the-king-tame-trump-state-visit",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian Newsroom",
-      "count": 12,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/03/donald-trump-silver-lining-uk-eu-closer",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop Senate",
-      "count": 12,
-      "url": "https://www.politico.com/news/2026/04/02/georgia-senate-ossoff-trump-republicans-00854884",
-      "source": "Politico"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ncaa",
-      "count": 11,
-      "url": "https://www.latimes.com/sports/ucla/story/2026-04-03/ucla-defeats-texas-in-final-four-south-carolina-title",
-      "source": "LA Times"
-    },
-    {
-      "name": "Senate Races",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/04/03/us/politics/senate-races-midterms-primary-election.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Congress",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/apr/03/defense-spending-trump-budget-proposal",
-      "source": "The Guardian"
-    }
-  ],
-  "EVENT": [
-    {
-      "name": "The World Cup",
-      "count": 7,
-      "url": "https://www.theguardian.com/football/2026/apr/03/fa-cup-quarter-finals-things-to-look-out-for-this-weekend",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Iran War",
-      "count": 4,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/03/donald-trump-silver-lining-uk-eu-closer",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Manhunt",
-      "count": 2,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/04/roger-casement-hanged-traitor-pardon-ireland-easter-rising",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Sinquefield Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/04/chess-mates-untold-cheating-scandal-netflix",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Easter Rising",
-      "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/04/roger-casement-hanged-traitor-pardon-ireland-easter-rising",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Fa Cup Quarter",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/apr/03/fa-cup-quarter-finals-things-to-look-out-for-this-weekend",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Fa Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/apr/03/fa-cup-quarter-finals-things-to-look-out-for-this-weekend",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The 2026",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/apr/03/usmnt-world-cup-squad-predictions",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Watergate",
-      "count": 1,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/02/the-open-mind-pbs",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uconn&Apos;S March",
-      "count": 1,
-      "url": "https://www.foxnews.com/sports/legendary-womens-basketball-coaches-dawn-staley-geno-auriemma-get-heated-shouting-match",
-      "source": "Fox News"
-    }
-  ],
-  "updated": "2026-04-04T07:51:13Z"
+  "updated": "2026-04-04T13:55:41Z"
 };

@@ -2,78 +2,68 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    132,
-    "https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html"
+    127,
+    "https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html"
   ],
   [
     "iran",
     59,
-    "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html"
+    "https://www.nytimes.com/2026/04/04/world/middleeast/missing-airman-iran.html"
   ],
   [
     "president",
-    56,
-    "https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html"
+    58,
+    "https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html"
   ],
   [
     "war",
     47,
-    "https://www.nytimes.com/2026/04/03/us/politics/iran-missiles-launchers.html"
-  ],
-  [
-    "artemis",
-    27,
-    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
-  ],
-  [
-    "budget",
-    25,
-    "https://www.theguardian.com/us-news/2026/apr/03/defense-spending-trump-budget-proposal"
-  ],
-  [
-    "order",
-    25,
-    "https://www.theguardian.com/us-news/2026/apr/03/attorneys-general-trump-mail-in-voting-lawsuit"
+    "https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html"
   ],
   [
     "california",
     24,
-    "https://www.theguardian.com/us-news/2026/apr/03/trump-vance-fraud-arrest-crackdown-california"
+    "https://www.theguardian.com/us-news/2026/apr/04/high-ocean-temperatures-california-marine-heatwave"
+  ],
+  [
+    "don",
+    23,
+    "https://www.nytimes.com/2026/04/04/briefing/living-space.html"
   ],
   [
     "donald",
     23,
-    "https://www.theguardian.com/news/ng-interactive/2026/apr/04/can-the-king-tame-trump-state-visit"
+    "https://www.theguardian.com/commentisfree/2026/apr/04/donald-trump-iran-war-evangelical-nationalists-moral-world-order-pete-hegseth"
+  ],
+  [
+    "spring",
+    23,
+    "https://www.theguardian.com/world/2026/apr/04/fighting-robots-give-ukraine-hope-in-war-with-russia"
   ],
   [
     "moon",
     21,
-    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
+    "https://www.nytimes.com/2026/04/04/us/artemis-ii-nasa-moon-houston-texas.html"
   ],
   [
-    "don",
-    21,
-    "https://www.washingtonpost.com/nation/2026/04/03/vance-book-cover-church-photograph/"
-  ],
-  [
-    "country",
+    "name",
     20,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/04/04/us/politics/attorney-general-trump.html"
   ],
   [
-    "spring",
+    "artemis",
     20,
-    "https://www.theguardian.com/world/2026/apr/04/fighting-robots-give-ukraine-hope-in-war-with-russia"
+    "https://www.nytimes.com/2026/04/04/us/artemis-ii-nasa-moon-houston-texas.html"
   ],
   [
-    "crew",
+    "order",
     20,
-    "https://www.latimes.com/world-nation/story/2026-04-03/u-s-pilot-ejected-from-their-aircraft-over-southwestern-iran-affiliate-of-iranian-state-tv-claims"
+    "https://www.theguardian.com/commentisfree/2026/apr/04/donald-trump-iran-war-evangelical-nationalists-moral-world-order-pete-hegseth"
   ],
   [
-    "political",
-    19,
-    "https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html"
+    "states",
+    20,
+    "https://www.theguardian.com/us-news/2026/apr/04/covid-19-variant-ba32"
   ],
   [
     "court",
@@ -81,154 +71,169 @@
     "https://www.nytimes.com/2026/04/03/arts/modigliani-nazi-court-ruling.html"
   ],
   [
-    "media",
-    19,
-    "https://www.washingtonpost.com/nation/2026/04/02/social-media-use-democracy-belief/"
-  ],
-  [
-    "name",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/apr/04/donald-trump-iran-war-evangelical-nationalists-moral-world-order-pete-hegseth"
-  ],
-  [
-    "security",
-    18,
-    "https://www.nytimes.com/2026/04/03/us/politics/trump-order-dhs-funding.html"
-  ],
-  [
-    "social",
-    18,
-    "https://www.washingtonpost.com/nation/2026/04/02/social-media-use-democracy-belief/"
-  ],
-  [
-    "jet",
-    18,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
     "something",
-    17,
-    "https://www.theguardian.com/artanddesign/2026/apr/04/occasionally-a-picture-can-change-the-course-of-history-33-scandalous-photos-that-shocked-the-world"
-  ],
-  [
-    "southern",
-    17,
-    "https://www.theguardian.com/travel/2026/apr/04/new-zealand-south-island-nelson-tasman-coast"
-  ],
-  [
-    "states",
-    16,
-    "https://www.nytimes.com/2026/04/03/us/politics/iran-missiles-launchers.html"
-  ],
-  [
-    "military",
-    16,
-    "https://www.nytimes.com/2026/04/03/us/politics/white-house-defense-budget.html"
-  ],
-  [
-    "power",
-    16,
-    "https://www.nytimes.com/2026/04/03/us/politics/lamonica-mciver-immigration-congress-trump.html"
-  ],
-  [
-    "early",
-    16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "night",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/03/samuel-alito-supreme-court-retirement-speculation"
-  ],
-  [
-    "game",
-    16,
-    "https://www.theguardian.com/sport/2026/apr/03/uconn-south-carolina-geno-auriemma-dawn-staley-ucla-texas"
-  ],
-  [
-    "food",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/03/tax-billionaires"
-  ],
-  [
-    "college",
-    15,
-    "https://www.nytimes.com/2026/04/03/your-money/parent-plus-college-loans-deadline.html"
-  ],
-  [
-    "fighter",
-    15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "trump's",
-    15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "defense",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/03/defense-spending-trump-budget-proposal"
-  ],
-  [
-    "south",
-    15,
-    "https://www.theguardian.com/sport/2026/apr/03/uconn-south-carolina-geno-auriemma-dawn-staley-ucla-texas"
-  ],
-  [
-    "bondi",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/apr/03/pam-bondi-fired-trump-epstein"
-  ],
-  [
-    "student",
-    15,
-    "https://www.theguardian.com/education/2026/apr/03/oxford-brookes-f1-formula-student-competition-fastest-race-car"
-  ],
-  [
-    "shot",
-    14,
-    "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html"
-  ],
-  [
-    "nasa",
-    14,
-    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
-  ],
-  [
-    "earth",
-    14,
-    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
-  ],
-  [
-    "almost",
-    14,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/apr/03/stop-brain-rot-ways-to-stay-sharp"
+    19,
+    "https://www.theguardian.com/us-news/2026/apr/04/military-tiktok-iran-war-trump-hegseth"
   ],
   [
     "east",
+    18,
+    "https://www.nytimes.com/2026/04/03/us/ice-texas-camp-montana-east.html"
+  ],
+  [
+    "recent",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/apr/04/donald-trump-iran-war-evangelical-nationalists-moral-world-order-pete-hegseth"
+  ],
+  [
+    "family",
+    18,
+    "https://www.theguardian.com/us-news/2026/apr/04/buffalo-rohingya-refugee-death-homicide-border-agents"
+  ],
+  [
+    "military",
+    17,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "crew",
+    17,
+    "https://www.theguardian.com/science/2026/apr/03/artemis-ii-astronauts-rocket-towards-the-moon-after-breaking-free-of-earths-orbit"
+  ],
+  [
+    "media",
+    17,
+    "https://www.theguardian.com/global-development/2026/apr/04/mexico-missing-children-justice-government-report"
+  ],
+  [
+    "food",
+    17,
+    "https://www.theguardian.com/world/2026/apr/04/india-fuel-crisis-fertiliser-shortage-farming"
+  ],
+  [
+    "country",
+    16,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "southern",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/04/high-ocean-temperatures-california-marine-heatwave"
+  ],
+  [
+    "love",
+    16,
+    "https://www.theguardian.com/world/2026/apr/04/italian-council-buys-mussolini-villa-riccione-fascist-nostalgics"
+  ],
+  [
+    "social",
+    16,
+    "https://www.theguardian.com/global-development/2026/apr/04/mexico-missing-children-justice-government-report"
+  ],
+  [
+    "security",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/apr/03/the-guardian-view-on-the-us-and-europe-the-uk-tried-to-be-a-bridge-but-trump-likes-to-burn-them"
+  ],
+  [
+    "shot",
+    15,
+    "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html"
+  ],
+  [
+    "american",
+    15,
+    "https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html"
+  ],
+  [
+    "political",
+    15,
+    "https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html"
+  ],
+  [
+    "oil",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/04/timeline-iran-war-trump-contradictions"
+  ],
+  [
+    "russian",
+    15,
+    "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks"
+  ],
+  [
+    "mission",
+    14,
+    "https://www.nytimes.com/2026/04/04/us/artemis-ii-nasa-moon-houston-texas.html"
+  ],
+  [
+    "york",
+    14,
+    "https://www.nytimes.com/2026/04/04/nyregion/fight-escalates-over-plan-to-demolish-and-rebuild-nyc-public-housing.html"
+  ],
+  [
+    "black",
+    14,
+    "https://www.nytimes.com/2026/04/04/nyregion/ulta-harlem-nyc-civil-rights-black-hair.html"
+  ],
+  [
+    "book",
+    14,
+    "https://www.washingtonpost.com/nation/2026/04/03/vance-book-cover-church-photograph/"
+  ],
+  [
+    "israel",
+    14,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "fighter",
+    14,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "young",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/04/military-tiktok-iran-war-trump-hegseth"
+  ],
+  [
+    "game",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/04/military-tiktok-iran-war-trump-hegseth"
+  ],
+  [
+    "cup",
+    14,
+    "https://www.theguardian.com/football/live/2026/apr/04/manchester-city-v-liverpool-fa-cup-quarter-final-live"
+  ],
+  [
+    "power",
+    14,
+    "https://www.theguardian.com/artanddesign/2026/apr/04/occasionally-a-picture-can-change-the-course-of-history-33-scandalous-photos-that-shocked-the-world"
+  ],
+  [
+    "middle",
     14,
     "https://www.theguardian.com/world/2026/apr/04/children-us-israel-iran-war-middle-east"
   ],
   [
-    "proposal",
+    "experts",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/03/defense-spending-trump-budget-proposal"
+    "https://www.theguardian.com/us-news/2026/apr/04/covid-19-variant-ba32"
   ],
   [
-    "season",
+    "office",
     14,
-    "https://www.theguardian.com/world/2026/apr/04/india-fuel-crisis-fertiliser-shortage-farming"
+    "https://www.theguardian.com/world/2026/apr/04/bally-bagayoko-austerity-politics-french-mayor-tackling-far-right"
   ],
   [
-    "family",
+    "future",
     14,
-    "https://www.theguardian.com/culture/2026/apr/04/eminems-8-mile-helped-me-survive-abuse-and-opened-my-eyes-to-a-world-outside-of-orthodox-judaism"
+    "https://www.theguardian.com/world/2026/apr/04/young-people-hungary-general-election-polls-viktor-orban"
   ],
   [
-    "guide",
+    "search",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking"
+    "https://www.theguardian.com/global-development/2026/apr/04/mexico-missing-children-justice-government-report"
   ],
   [
     "protein",
@@ -236,52 +241,17 @@
     "https://www.theguardian.com/thefilter-us/2026/jan/28/best-protein-bars"
   ],
   [
-    "market",
+    "administration",
     13,
-    "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html"
+    "https://www.nytimes.com/2026/04/04/world/asia/epstein-india-ambani.html"
   ],
   [
-    "children",
+    "texas",
     13,
-    "https://www.nytimes.com/2026/04/03/your-money/parent-plus-college-loans-deadline.html"
+    "https://www.nytimes.com/2026/04/03/us/ice-texas-camp-montana-east.html"
   ],
   [
-    "mission",
-    13,
-    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
-  ],
-  [
-    "released",
-    13,
-    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
-  ],
-  [
-    "astronauts",
-    13,
-    "https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html"
-  ],
-  [
-    "department",
-    13,
-    "https://www.nytimes.com/2026/04/03/us/politics/lamonica-mciver-immigration-congress-trump.html"
-  ],
-  [
-    "case",
-    13,
-    "https://www.nytimes.com/2026/04/03/us/politics/lamonica-mciver-immigration-congress-trump.html"
-  ],
-  [
-    "latest",
-    13,
-    "https://www.nytimes.com/2026/04/03/us/politics/senate-races-midterms-primary-election.html"
-  ],
-  [
-    "ukraine",
-    13,
-    "https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html"
-  ],
-  [
-    "global",
+    "jet",
     13,
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
@@ -291,74 +261,84 @@
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "democratic",
+    "early",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/03/trump-vance-fraud-arrest-crackdown-california"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "final",
+    "here's",
+    13,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "children",
+    13,
+    "https://www.theguardian.com/world/2026/apr/04/children-us-israel-iran-war-middle-east"
+  ],
+  [
+    "earth",
+    13,
+    "https://www.theguardian.com/science/2026/apr/03/artemis-ii-astronauts-rocket-towards-the-moon-after-breaking-free-of-earths-orbit"
+  ],
+  [
+    "ukraine",
+    13,
+    "https://www.theguardian.com/world/2026/apr/04/fighting-robots-give-ukraine-hope-in-war-with-russia"
+  ],
+  [
+    "fraud",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/03/trump-news-at-a-glance-jd-vance"
+  ],
+  [
+    "south",
     13,
     "https://www.theguardian.com/sport/2026/apr/03/uconn-south-carolina-geno-auriemma-dawn-staley-ucla-texas"
   ],
   [
-    "general",
+    "night",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/03/attorneys-general-trump-mail-in-voting-lawsuit"
+    "https://www.theguardian.com/sport/2026/apr/03/uconn-south-carolina-geno-auriemma-dawn-staley-ucla-texas"
   ],
   [
-    "york",
+    "almost",
     13,
-    "https://www.theguardian.com/wellness/2026/apr/03/what-is-orgasmic-meditation"
+    "https://www.theguardian.com/world/2026/apr/04/ukraine-war-briefing-russian-army-almost-no-territorial-gains-first-time-since-2023-analysis"
   ],
   [
-    "love",
+    "guide",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/03/comedian-eugene-mirman-car-crash-new-hampshire"
+    "https://www.theguardian.com/business/2026/apr/03/food-prices-spike-march-middle-east-conflict-drove-energy-prices-up-un-says"
   ],
   [
-    "cuts",
-    12,
-    "https://www.nytimes.com/2026/04/03/us/politics/white-house-defense-budget.html"
+    "buying",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking"
   ],
   [
-    "pay",
+    "missing",
     12,
-    "https://www.nytimes.com/2026/04/03/us/politics/trump-order-dhs-funding.html"
+    "https://www.nytimes.com/2026/04/04/world/middleeast/missing-airman-iran.html"
   ],
   [
-    "jobs",
+    "budget",
     12,
-    "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html"
+    "https://www.nytimes.com/2026/04/04/business/trump-budget-federal-deficit.html"
   ],
   [
-    "health",
+    "latest",
     12,
-    "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html"
+    "https://www.washingtonpost.com/nation/2026/04/02/library-director-fired-lgbtq-books-tennessee/"
   ],
   [
-    "photos",
+    "questions",
     12,
-    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "future",
+    "global",
     12,
-    "https://www.nytimes.com/2026/04/03/science/nasa-artemis-ii-demonstration-moon-pilot.html"
-  ],
-  [
-    "though",
-    12,
-    "https://www.nytimes.com/2026/04/04/world/asia/epstein-india-ambani.html"
-  ],
-  [
-    "senate",
-    12,
-    "https://www.nytimes.com/2026/04/03/us/politics/senate-races-midterms-primary-election.html"
-  ],
-  [
-    "book",
-    12,
-    "https://www.washingtonpost.com/nation/2026/04/03/vance-book-cover-church-photograph/"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "team",
@@ -371,8 +351,28 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "decades",
+    "online",
     12,
-    "https://www.theguardian.com/news/ng-interactive/2026/apr/04/can-the-king-tame-trump-state-visit"
+    "https://www.theguardian.com/us-news/2026/apr/04/military-tiktok-iran-war-trump-hegseth"
+  ],
+  [
+    "video",
+    12,
+    "https://www.theguardian.com/us-news/2026/apr/04/military-tiktok-iran-war-trump-hegseth"
+  ],
+  [
+    "history",
+    12,
+    "https://www.theguardian.com/artanddesign/2026/apr/04/occasionally-a-picture-can-change-the-course-of-history-33-scandalous-photos-that-shocked-the-world"
+  ],
+  [
+    "record",
+    12,
+    "https://www.theguardian.com/us-news/2026/apr/04/high-ocean-temperatures-california-marine-heatwave"
+  ],
+  [
+    "politics",
+    12,
+    "https://www.theguardian.com/world/2026/apr/04/bally-bagayoko-austerity-politics-french-mayor-tackling-far-right"
   ]
 ];
