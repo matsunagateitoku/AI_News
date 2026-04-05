@@ -2,43 +2,28 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    96,
+    91,
     "https://www.nytimes.com/2026/04/04/business/economy/taxes-deductions-cuts.html"
   ],
   [
     "iran",
-    65,
-    "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html"
-  ],
-  [
-    "president",
-    50,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    72,
+    "https://www.theguardian.com/us-news/2026/apr/04/military-tiktok-iran-war-trump-hegseth"
   ],
   [
     "war",
-    46,
+    48,
     "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
+    "president",
+    47,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
     "california",
-    27,
-    "https://www.theguardian.com/us-news/2026/apr/04/springs-fire-california-wildfires"
-  ],
-  [
-    "family",
-    26,
-    "https://www.theguardian.com/us-news/2026/apr/04/trump-white-house-ballroom-project"
-  ],
-  [
-    "artemis",
     25,
-    "https://www.nytimes.com/2026/04/04/science/nasa-moon-artemis-day-4.html"
-  ],
-  [
-    "military",
-    24,
-    "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html"
+    "https://www.theguardian.com/us-news/2026/apr/04/springs-fire-california-wildfires"
   ],
   [
     "spring",
@@ -46,9 +31,9 @@
     "https://www.nytimes.com/2026/04/04/business/economy/taxes-deductions-cuts.html"
   ],
   [
-    "moon",
-    22,
-    "https://www.nytimes.com/2026/04/04/science/nasa-moon-artemis-day-4.html"
+    "military",
+    23,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "don",
@@ -56,39 +41,49 @@
     "https://www.washingtonpost.com/nation/2026/04/03/vance-book-cover-church-photograph/"
   ],
   [
-    "american",
+    "family",
     22,
-    "https://www.theguardian.com/commentisfree/2026/apr/03/the-guardian-view-on-the-us-and-europe-the-uk-tried-to-be-a-bridge-but-trump-likes-to-burn-them"
-  ],
-  [
-    "game",
-    20,
-    "https://www.theguardian.com/us-news/2026/apr/04/military-tiktok-iran-war-trump-hegseth"
-  ],
-  [
-    "russian",
-    20,
     "https://www.theguardian.com/world/2026/apr/05/ukraine-war-briefing-slovakia-pm-calls-on-eu-to-lift-sanctions-on-russian-oil-and-gas"
   ],
   [
-    "administration",
-    19,
-    "https://www.nytimes.com/2026/04/04/us/trump-lawsuit-admissions-data.html"
+    "game",
+    21,
+    "https://www.theguardian.com/us-news/2026/apr/04/military-tiktok-iran-war-trump-hegseth"
   ],
   [
     "final",
-    19,
+    20,
     "https://www.nytimes.com/2026/04/04/arts/television/hacks-final-season.html"
   ],
   [
+    "artemis",
+    20,
+    "https://www.nytimes.com/2026/04/04/science/nasa-moon-artemis-day-4.html"
+  ],
+  [
     "crew",
-    19,
+    20,
     "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed"
   ],
   [
-    "judge",
+    "administration",
     18,
     "https://www.nytimes.com/2026/04/04/us/trump-lawsuit-admissions-data.html"
+  ],
+  [
+    "early",
+    18,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "american",
+    18,
+    "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed"
+  ],
+  [
+    "energy",
+    18,
+    "https://www.theguardian.com/world/2026/apr/05/ukraine-war-briefing-slovakia-pm-calls-on-eu-to-lift-sanctions-on-russian-oil-and-gas"
   ],
   [
     "russia",
@@ -106,17 +101,12 @@
     "https://www.theguardian.com/us-news/2026/apr/04/covid-19-variant-ba32"
   ],
   [
-    "york",
-    17,
-    "https://www.theguardian.com/us-news/2026/apr/04/buffalo-rohingya-refugee-death-homicide-border-agents"
-  ],
-  [
     "ukraine",
     17,
     "https://www.theguardian.com/world/2026/apr/05/ukraine-war-briefing-slovakia-pm-calls-on-eu-to-lift-sanctions-on-russian-oil-and-gas"
   ],
   [
-    "oil",
+    "russian",
     17,
     "https://www.theguardian.com/world/2026/apr/05/ukraine-war-briefing-slovakia-pm-calls-on-eu-to-lift-sanctions-on-russian-oil-and-gas"
   ],
@@ -126,9 +116,24 @@
     "https://www.nytimes.com/2026/04/04/business/economy/taxes-deductions-cuts.html"
   ],
   [
-    "country",
+    "judge",
     16,
-    "https://www.nytimes.com/2026/04/04/world/americas/haiti-gang-massacre.html"
+    "https://www.nytimes.com/2026/04/04/us/trump-lawsuit-admissions-data.html"
+  ],
+  [
+    "race",
+    16,
+    "https://www.nytimes.com/2026/04/04/us/trump-lawsuit-admissions-data.html"
+  ],
+  [
+    "fire",
+    16,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "team",
+    16,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "gas",
@@ -141,19 +146,29 @@
     "https://www.theguardian.com/commentisfree/2026/apr/04/jesse-watters-fox-pam-bondi-darfur-lebanon-senegal"
   ],
   [
-    "southern",
+    "member",
     16,
-    "https://www.theguardian.com/us-news/2026/apr/04/mountain-lion-cub-crimson-california"
+    "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed"
   ],
   [
     "media",
     16,
-    "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks"
+    "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed"
   ],
   [
-    "food",
+    "prices",
     16,
-    "https://www.theguardian.com/environment/2026/apr/04/indigenous-knowledge-western-science-climate-ecosystems"
+    "https://www.theguardian.com/world/2026/apr/05/ukraine-war-briefing-slovakia-pm-calls-on-eu-to-lift-sanctions-on-russian-oil-and-gas"
+  ],
+  [
+    "name",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/04/trump-naming-spree-presidents"
+  ],
+  [
+    "york",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/04/trump-naming-spree-presidents"
   ],
   [
     "love",
@@ -161,14 +176,9 @@
     "https://www.theguardian.com/books/2026/apr/04/love-of-food-brought-us-together"
   ],
   [
-    "race",
-    15,
-    "https://www.nytimes.com/2026/04/04/us/trump-lawsuit-admissions-data.html"
-  ],
-  [
-    "states",
-    15,
-    "https://www.nytimes.com/2026/04/04/us/trump-lawsuit-admissions-data.html"
+    "shot",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/apr/05/mr-beast-british-politics-nigel-farage-reform-uk-energy-bill-giveaway"
   ],
   [
     "court",
@@ -176,34 +186,19 @@
     "https://www.nytimes.com/2026/04/04/us/trump-lawsuit-admissions-data.html"
   ],
   [
-    "astronauts",
+    "black",
+    15,
+    "https://www.nytimes.com/2026/04/04/us/voters-congress-old-democrats.html"
+  ],
+  [
+    "country",
+    15,
+    "https://www.nytimes.com/2026/04/04/world/americas/haiti-gang-massacre.html"
+  ],
+  [
+    "moon",
     15,
     "https://www.nytimes.com/2026/04/04/science/nasa-moon-artemis-day-4.html"
-  ],
-  [
-    "early",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "fire",
-    15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "team",
-    15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "something",
-    15,
-    "https://www.theguardian.com/news/2026/apr/04/six-great-reads-the-onlyfans-legacy-stolen-cargo-and-metas-creepy-glasses"
-  ],
-  [
-    "donald",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/apr/04/jesse-watters-fox-pam-bondi-darfur-lebanon-senegal"
   ],
   [
     "missing",
@@ -211,24 +206,34 @@
     "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed"
   ],
   [
-    "search",
+    "southern",
     15,
     "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed"
   ],
   [
-    "prices",
+    "office",
     15,
-    "https://www.theguardian.com/us-news/2026/apr/05/prices-iran-war-gas-flights-economy"
+    "https://www.theguardian.com/us-news/2026/apr/04/dead-canines-washington-state"
   ],
   [
-    "name",
+    "police",
     15,
-    "https://www.theguardian.com/us-news/2026/apr/04/trump-naming-spree-presidents"
+    "https://www.theguardian.com/us-news/2026/apr/04/louisiana-parade-car-crash"
+  ],
+  [
+    "food",
+    15,
+    "https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell"
+  ],
+  [
+    "south",
+    15,
+    "https://www.theguardian.com/travel/2026/apr/05/a-cruise-through-history-on-the-canal-du-midi"
   ],
   [
     "social",
     15,
-    "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks"
+    "https://www.theguardian.com/us-news/2026/apr/03/trump-vance-fraud-arrest-crackdown-california"
   ],
   [
     "filter",
@@ -241,29 +246,44 @@
     "https://www.nytimes.com/2026/04/04/us/trump-lawsuit-admissions-data.html"
   ],
   [
-    "member",
+    "states",
     14,
-    "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed"
+    "https://www.nytimes.com/2026/04/04/us/trump-lawsuit-admissions-data.html"
   ],
   [
-    "energy",
+    "killed",
     14,
-    "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed"
+    "https://www.nytimes.com/2026/04/04/world/americas/haiti-gang-massacre.html"
   ],
   [
-    "office",
+    "jet",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/04/dead-canines-washington-state"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "police",
+    "least",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/04/louisiana-parade-car-crash"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "south",
+    "east",
     14,
-    "https://www.theguardian.com/sport/2026/apr/04/geno-auriemma-dawn-staley-apology-final-four"
+    "https://www.theguardian.com/world/2026/apr/05/british-father-son-dubai-fortune-wanted-men-prison-beaten-tortured"
+  ],
+  [
+    "video",
+    14,
+    "https://www.theguardian.com/world/2026/apr/05/british-father-son-dubai-fortune-wanted-men-prison-beaten-tortured"
+  ],
+  [
+    "something",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/04/military-tiktok-iran-war-trump-hegseth"
+  ],
+  [
+    "rescued",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/04/mountain-lion-cub-crimson-california"
   ],
   [
     "army",
@@ -271,24 +291,19 @@
     "https://www.theguardian.com/world/2026/apr/04/ukraine-war-briefing-russian-army-almost-no-territorial-gains-first-time-since-2023-analysis"
   ],
   [
+    "side",
+    13,
+    "https://www.nytimes.com/2026/04/04/business/media/hollywood-writers-contract-deal.html"
+  ],
+  [
+    "astronauts",
+    13,
+    "https://www.nytimes.com/2026/04/04/science/nasa-moon-artemis-day-4.html"
+  ],
+  [
     "fighter",
     13,
-    "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html"
-  ],
-  [
-    "jet",
-    13,
-    "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html"
-  ],
-  [
-    "killed",
-    13,
-    "https://www.nytimes.com/2026/04/04/world/americas/haiti-gang-massacre.html"
-  ],
-  [
-    "israel",
-    13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "air",
@@ -296,14 +311,24 @@
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "least",
+    "donald",
     13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.theguardian.com/commentisfree/2026/apr/04/jesse-watters-fox-pam-bondi-darfur-lebanon-senegal"
   ],
   [
-    "washington",
+    "oil",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/04/dead-canines-washington-state"
+    "https://www.theguardian.com/world/2026/apr/05/ukraine-war-briefing-slovakia-pm-calls-on-eu-to-lift-sanctions-on-russian-oil-and-gas"
+  ],
+  [
+    "future",
+    13,
+    "https://www.theguardian.com/world/2026/apr/05/israeli-settlers-driving-christians-out-west-bank"
+  ],
+  [
+    "almost",
+    13,
+    "https://www.theguardian.com/world/2026/apr/05/how-paris-swapped-cars-for-bikes-and-remade-its-streets"
   ],
   [
     "political",
@@ -321,19 +346,19 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/03/local-food-favorites-shippable"
   ],
   [
+    "guide",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking"
+  ],
+  [
     "protein",
     13,
     "https://www.theguardian.com/thefilter-us/2026/jan/28/best-protein-bars"
   ],
   [
-    "black",
+    "drone",
     12,
-    "https://www.nytimes.com/2026/04/04/us/voters-congress-old-democrats.html"
-  ],
-  [
-    "playing",
-    12,
-    "https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html"
+    "https://www.nytimes.com/2026/04/05/world/asia/china-drone-regulations.html"
   ],
   [
     "force",
@@ -346,33 +371,8 @@
     "https://www.washingtonpost.com/nation/2026/04/03/vance-book-cover-church-photograph/"
   ],
   [
-    "released",
-    12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
     "secretary",
     12,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "mother",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/apr/04/jesse-watters-fox-pam-bondi-darfur-lebanon-senegal"
-  ],
-  [
-    "video",
-    12,
-    "https://www.theguardian.com/us-news/2026/apr/04/military-tiktok-iran-war-trump-hegseth"
-  ],
-  [
-    "history",
-    12,
-    "https://www.theguardian.com/artanddesign/2026/apr/04/occasionally-a-picture-can-change-the-course-of-history-33-scandalous-photos-that-shocked-the-world"
-  ],
-  [
-    "east",
-    12,
-    "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed"
   ]
 ];
