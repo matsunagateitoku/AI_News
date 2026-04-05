@@ -2,134 +2,196 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Donald Trump",
+      "name": "Trump Revels",
       "count": 23,
-      "url": "https://www.theguardian.com/world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/04/05/us/politics/trump-iran-war-crimes-truth-social.html",
+      "source": "NY Times"
     },
     {
-      "name": "Deontay Wilder",
-      "count": 8,
-      "url": "https://www.theguardian.com/sport/2026/apr/05/deontay-wilder-anthony-joshua-fight-beating-derek-chisora-boxing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Derek Chisora",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/apr/05/deontay-wilder-anthony-joshua-fight-beating-derek-chisora-boxing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Albert Douglas",
-      "count": 5,
-      "url": "https://www.theguardian.com/world/2026/apr/05/british-father-son-dubai-fortune-wanted-men-prison-beaten-tortured",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Earl Sweatshirt",
-      "count": 5,
-      "url": "https://www.theguardian.com/music/2026/apr/03/earl-sweatshirt-mike-surf-gang-pompeii-utility-review",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jefferson",
-      "count": 5,
-      "url": "https://www.theguardian.com/books/2026/apr/02/thomas-jefferson-race-annette-gordon-reed",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dan Levy",
-      "count": 5,
-      "url": "https://www.cbsnews.com/news/schitts-creek-star-dan-levy-on-making-big-mistakes/",
+      "name": "Margaret Brennan",
+      "count": 16,
+      "url": "https://www.cbsnews.com/face-the-nation/transcripts/",
       "source": "CBS News"
     },
     {
-      "name": "Nicole Daedone",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/apr/05/orgasmic-cult-onetaste-nicole-daedone",
+      "name": "Jared Isaacman",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/apr/05/alien-life-nasa-jared-isaacman-artemis-ii",
       "source": "The Guardian"
     },
     {
-      "name": "Anthony Joshua",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/apr/05/deontay-wilder-anthony-joshua-fight-beating-derek-chisora-boxing",
+      "name": "Donald Trump",
+      "count": 9,
+      "url": "https://www.theguardian.com/world/2026/apr/05/trump-warns-iran-to-reopen-strait-of-hormuz-by-tuesday-or-face-hell",
       "source": "The Guardian"
     },
     {
-      "name": "Jd Vance",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/apr/03/trump-vance-fraud-arrest-crackdown-california",
+      "name": "Wes Moore",
+      "count": 9,
+      "url": "https://www.cbsnews.com/news/maryland-gov-wes-moore-face-the-nation-transcript-04-05-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Frank Mckenzie",
+      "count": 8,
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-04-05-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Tim Kaine",
+      "count": 8,
+      "url": "https://www.nbcnews.com/meet-the-press/video/tim-kaine-calls-on-trump-to-dial-back-the-rhetoric-after-u-s-jet-is-downed-full-interview-260736581530",
+      "source": "NBC News"
+    },
+    {
+      "name": "Ed O'Keefe",
+      "count": 7,
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-04-05-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Timothy Broglio",
+      "count": 7,
+      "url": "https://www.cbsnews.com/video/face-the-nation-isaacman-broglio-reporters-panel/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Mike Johnson",
+      "count": 6,
+      "url": "https://thehill.com/homenews/house/5817006-jeffries-johnson-house-recess-dhs-funding/",
+      "source": "The Hill"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Iran",
+      "count": 69,
+      "url": "https://www.nytimes.com/2026/04/05/us/politics/trump-iran-war-crimes-truth-social.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Us",
+      "count": 48,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/05/american-soft-power-iran-war",
       "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/04/04/us/politics/military-iran-airman-rescue.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/04/05/us/ice-arrests-texas-families.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 14,
+      "url": "https://www.theguardian.com/media/2026/apr/05/big-tobacco-whistleblower-social-media",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/apr/05/zohran-mamdani-affordable-housing-new-york",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/commentisfree/2026/apr/05/anti-trump-solidarity-no-kings",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "L.A. County",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-04-01/la-county-student-homelessness-study",
+      "source": "LA Times"
+    },
+    {
+      "name": "West Hollywood",
+      "count": 9,
+      "url": "https://www.latimes.com/lifestyle/image/story/2026-03-13/kyna-payawal-picnic-window-display-toast",
+      "source": "LA Times"
     }
   ],
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 56,
+      "count": 58,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
+      "name": "Nasa",
+      "count": 20,
+      "url": "https://www.theguardian.com/us-news/2026/apr/05/alien-life-nasa-jared-isaacman-artemis-ii",
+      "source": "The Guardian"
+    },
+    {
       "name": "The Filter Us",
-      "count": 12,
+      "count": 15,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Gop Senate",
-      "count": 12,
-      "url": "https://www.politico.com/news/2026/04/02/georgia-senate-ossoff-trump-republicans-00854884",
-      "source": "Politico"
-    },
-    {
-      "name": "Artemis Ii",
-      "count": 11,
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/apr/05/nasa-orion-spaceship-artemis-ii-mission-in-pictures",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Easter Sunday",
-      "count": 9,
-      "url": "https://www.theguardian.com/sport/2026/apr/05/sydney-kings-bear-adelaide-36ers-overtime-to-win-nbl-championship-finals-decider",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 7,
-      "url": "https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell",
-      "source": "The Guardian"
-    },
-    {
       "name": "The White House",
-      "count": 7,
+      "count": 14,
       "url": "https://www.theguardian.com/commentisfree/2026/apr/05/trump-working-class-support",
       "source": "The Guardian"
     },
     {
+      "name": "Gop Senate",
+      "count": 13,
+      "url": "https://www.politico.com/news/2026/04/02/georgia-senate-ossoff-trump-republicans-00854884",
+      "source": "Politico"
+    },
+    {
+      "name": "Congress",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/commentisfree/2026/apr/05/anti-trump-solidarity-no-kings",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Artemis Ii",
+      "count": 9,
+      "url": "https://www.npr.org/2026/04/04/nx-s1-5764829/opinion-humanitys-hopes-ascended-with-artemis-ii",
+      "source": "NPR"
+    },
+    {
+      "name": "Usb",
+      "count": 8,
+      "url": "https://www.theguardian.com/thefilter-us/2026/apr/05/best-usb-chargers",
+      "source": "The Guardian"
+    },
+    {
       "name": "Guardian News",
-      "count": 7,
+      "count": 8,
       "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
-      "name": "Ucla",
+      "name": "First Easter",
       "count": 7,
-      "url": "https://www.latimes.com/sports/ucla/story/2026-04-04/ucla-cori-close-ready-national-championship-moment",
-      "source": "LA Times"
-    },
-    {
-      "name": "Nasa",
-      "count": 6,
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/apr/05/nasa-orion-spaceship-artemis-ii-mission-in-pictures",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html",
+      "source": "NY Times"
     }
   ],
   "EVENT": [
     {
-      "name": "The Lao New Year",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/apr/04/louisiana-parade-car-crash",
-      "source": "The Guardian"
+      "name": "The Iran War",
+      "count": 11,
+      "url": "https://www.latimes.com/opinion/story/2026-04-03/nato-withdrawal-trump-iran-war",
+      "source": "LA Times"
     },
     {
       "name": "World Cup",
@@ -138,27 +200,21 @@
       "source": "The Guardian"
     },
     {
-      "name": "Fa Cup Quarter",
+      "name": "This Easter Sunday",
+      "count": 3,
+      "url": "https://www.cbsnews.com/video/nature-spring-in-pennsylvania/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The Lao New Year",
       "count": 2,
-      "url": "https://www.theguardian.com/football/2026/apr/04/arteta-says-arsenal-must-look-in-the-mirror-after-southampton-defeat",
+      "url": "https://www.theguardian.com/us-news/2026/apr/04/louisiana-parade-car-crash",
       "source": "The Guardian"
     },
     {
-      "name": "Easter Sunday",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/apr/05/sydney-kings-bear-adelaide-36ers-overtime-to-win-nbl-championship-finals-decider",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran War",
-      "count": 2,
-      "url": "https://www.theguardian.com/world/2026/apr/04/india-fuel-crisis-fertiliser-shortage-farming",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Easter Sunday’S",
+      "name": "The Wireless Festival",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/04/05/briefing/easte-christian-revival-trump.html",
+      "url": "https://www.nytimes.com/2026/04/05/world/europe/ye-music-festival-pepsi-antisemitism.html",
       "source": "NY Times"
     },
     {
@@ -168,79 +224,23 @@
       "source": "The Guardian"
     },
     {
+      "name": "The “Jo Show",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/apr/05/jo-adell-home-run-catches-angels-mariners",
+      "source": "The Guardian"
+    },
+    {
       "name": "Sinquefield Cup",
       "count": 1,
       "url": "https://www.theguardian.com/tv-and-radio/2026/apr/04/chess-mates-untold-cheating-scandal-netflix",
       "source": "The Guardian"
     },
     {
-      "name": "Moss Appreciation Week",
+      "name": "Easter Miracle'",
       "count": 1,
-      "url": "https://www.cbsnews.com/video/the-beauty-of-moss/",
-      "source": "CBS News"
+      "url": "https://www.foxnews.com/media/trump-calls-rescue-downed-air-force-pilot-easter-miracle",
+      "source": "Fox News"
     }
   ],
-  "GPE": [
-    {
-      "name": "Iran",
-      "count": 61,
-      "url": "https://www.nytimes.com/2026/04/04/us/politics/military-iran-airman-rescue.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Us",
-      "count": 46,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/05/back-in-london-after-decade-in-us-miss-friendly-new-yorkers",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 33,
-      "url": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-us-rescue.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/04/05/us/their-parents-were-taken-by-ice-the-children-had-to-raise-one-another.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/apr/04/springs-fire-california-wildfires",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. County",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-04-01/la-county-student-homelessness-study",
-      "source": "LA Times"
-    },
-    {
-      "name": "London",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/05/back-in-london-after-decade-in-us-miss-friendly-new-yorkers",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uk",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/apr/05/british-father-son-dubai-fortune-wanted-men-prison-beaten-tortured",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City",
-      "count": 10,
-      "url": "https://www.theguardian.com/thefilter-us/2026/apr/03/padma-lakshmi-kitchen-cooking",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 9,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    }
-  ],
-  "updated": "2026-04-05T13:57:51Z"
+  "updated": "2026-04-05T19:38:24Z"
 };
