@@ -2,168 +2,158 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    100,
-    "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html"
+    132,
+    "https://www.nytimes.com/2026/04/06/us/politics/supreme-court-bannon-trump.html"
   ],
   [
     "iran",
-    83,
-    "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html"
+    81,
+    "https://www.nytimes.com/2026/04/06/world/middleeast/killings-iran-leadership.html"
   ],
   [
     "president",
-    42,
-    "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html"
+    46,
+    "https://www.nytimes.com/2026/04/06/us/politics/supreme-court-bannon-trump.html"
   ],
   [
     "war",
-    41,
-    "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html"
-  ],
-  [
-    "court",
-    26,
-    "https://www.theguardian.com/commentisfree/2026/apr/06/black-voters-louisiana-v-callais-supreme-court"
+    45,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
     "media",
-    25,
-    "https://www.nytimes.com/2026/04/05/us/politics/trump-risky-rescue-threats-iran.html"
-  ],
-  [
-    "california",
-    25,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/06/flock-cameras-privacy-concerns"
-  ],
-  [
-    "social",
-    24,
-    "https://www.nytimes.com/2026/04/05/us/politics/trump-risky-rescue-threats-iran.html"
-  ],
-  [
-    "strait",
-    24,
-    "https://www.nytimes.com/2026/04/05/us/politics/trump-risky-rescue-threats-iran.html"
+    33,
+    "https://www.theguardian.com/us-news/2026/apr/06/trump-threats-journalist-missing-airman-iran"
   ],
   [
     "artemis",
     24,
-    "https://www.nytimes.com/2026/04/06/podcasts/the-headlines/us-airman-iran-artemis-ii-moon.html"
+    "https://www.theguardian.com/science/2026/apr/06/artemis-ii-astronauts-record-moon-earth-distance"
   ],
   [
-    "hormuz",
+    "social",
+    24,
+    "https://www.theguardian.com/us-news/2026/apr/06/trump-steve-hilton-endorsement-california-governor"
+  ],
+  [
+    "cbs",
+    24,
+    "https://www.theguardian.com/media/2026/apr/06/paramount-ceo-david-ellison-american-centrist-survey"
+  ],
+  [
+    "court",
     23,
-    "https://www.nytimes.com/2026/04/05/us/politics/trump-risky-rescue-threats-iran.html"
-  ],
-  [
-    "today",
-    23,
-    "https://www.nytimes.com/2026/04/06/business/media/savannah-guthrie-return-today-show.html"
-  ],
-  [
-    "power",
-    22,
-    "https://www.nytimes.com/2026/04/05/us/politics/trump-risky-rescue-threats-iran.html"
-  ],
-  [
-    "moon",
-    22,
-    "https://www.nytimes.com/2026/04/06/podcasts/the-headlines/us-airman-iran-artemis-ii-moon.html"
-  ],
-  [
-    "mother",
-    22,
-    "https://www.nytimes.com/2026/04/06/business/media/savannah-guthrie-return-today-show.html"
-  ],
-  [
-    "political",
-    22,
-    "https://www.nytimes.com/2026/04/06/nyregion/al-sharpton-faison-firehouse-harlem.html"
-  ],
-  [
-    "family",
-    22,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/06/audrey-hepburn-sean-hepburn-ferrer-biography"
-  ],
-  [
-    "race",
-    21,
-    "https://www.nytimes.com/2026/04/05/us/iran-airman-fighter-jet-rescue-mission.html"
-  ],
-  [
-    "american",
-    20,
-    "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html"
+    "https://www.nytimes.com/2026/04/06/us/politics/supreme-court-bannon-trump.html"
   ],
   [
     "crew",
-    20,
-    "https://www.nytimes.com/2026/04/05/science/nasa-moon-artemis-day-5.html"
+    23,
+    "https://www.theguardian.com/us-news/2026/apr/06/arizona-bees-sting-hiker-phoenix"
   ],
   [
-    "guthrie",
+    "rescue",
+    22,
+    "https://www.theguardian.com/us-news/2026/apr/06/arizona-bees-sting-hiker-phoenix"
+  ],
+  [
+    "health",
+    22,
+    "https://www.theguardian.com/us-news/2026/apr/06/public-health-in-midterm-election-campaign"
+  ],
+  [
+    "political",
+    21,
+    "https://www.nytimes.com/2026/04/06/nyregion/al-sharpton-faison-firehouse-harlem.html"
+  ],
+  [
+    "country",
     20,
-    "https://www.nytimes.com/2026/04/06/business/media/savannah-guthrie-return-today-show.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "don",
+    20,
+    "https://www.theguardian.com/wellness/2026/apr/06/texting-back-relationships-anxiety-overwhelm-burnout"
+  ],
+  [
+    "record",
+    19,
+    "https://www.theguardian.com/science/2026/apr/06/artemis-ii-astronauts-record-moon-earth-distance"
+  ],
+  [
+    "latest",
+    18,
+    "https://www.nytimes.com/2026/04/06/world/middleeast/killings-iran-leadership.html"
   ],
   [
     "children",
-    20,
-    "https://www.theguardian.com/global-development/2026/apr/06/investigation-exposed-child-sex-trafficking-on-facebook-and-instagram-meta"
+    18,
+    "https://www.nytimes.com/2026/04/06/business/trump-accounts-bny-robinhood.html"
   ],
   [
-    "easter",
-    19,
-    "https://www.nytimes.com/2026/04/05/science/nasa-moon-artemis-day-5.html"
+    "today",
+    18,
+    "https://www.nytimes.com/2026/04/06/arts/television/savannah-guthrie-today-return.html"
+  ],
+  [
+    "california",
+    18,
+    "https://www.nytimes.com/2026/04/06/us/imperial-valley-salton-sea-lithium.html"
+  ],
+  [
+    "power",
+    18,
+    "https://www.nytimes.com/2026/04/06/nyregion/al-sharpton-faison-firehouse-harlem.html"
+  ],
+  [
+    "american",
+    18,
+    "https://www.theguardian.com/film/2026/apr/06/the-drama-movie-spoilers-zendaya-robert-pattinson"
   ],
   [
     "early",
-    18,
+    17,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "game",
-    18,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/06/audrey-hepburn-sean-hepburn-ferrer-biography"
+    "love",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/apr/06/moka-pot-iced-coffee"
   ],
   [
-    "campaign",
+    "film",
     17,
-    "https://www.nytimes.com/2026/04/06/us/international-students-decrease-under-trump.html"
+    "https://www.theguardian.com/film/2026/apr/06/the-drama-movie-spoilers-zendaya-robert-pattinson"
+  ],
+  [
+    "moon",
+    17,
+    "https://www.theguardian.com/science/2026/apr/06/artemis-ii-astronauts-record-moon-earth-distance"
+  ],
+  [
+    "oil",
+    17,
+    "https://www.theguardian.com/us-news/2026/apr/06/cuba-blockade-energy-house-democrats"
+  ],
+  [
+    "family",
+    17,
+    "https://www.theguardian.com/us-news/2026/apr/06/domestic-violence-offender-registry"
   ],
   [
     "military",
     16,
-    "https://www.nytimes.com/2026/04/05/us/iran-airman-fighter-jet-rescue-mission.html"
+    "https://www.washingtonpost.com/education/2026/04/06/classic-learning-test/"
   ],
   [
     "york",
     16,
-    "https://www.nytimes.com/2026/04/06/nyregion/hevesi-democrat-sperminator.html"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/06/flock-cameras-privacy-concerns"
   ],
   [
-    "country",
+    "night",
     16,
-    "https://www.nytimes.com/2026/04/06/business/china-mourned-an-education-influencer-the-grief-was-a-quiet-revolt.html"
-  ],
-  [
-    "food",
-    16,
-    "https://www.nytimes.com/2026/04/05/us/midwest-food-bank-rubys-pantry.html"
-  ],
-  [
-    "trump's",
-    16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "started",
-    16,
-    "https://www.theguardian.com/world/2026/apr/06/opus-dei-gareth-gore-pope-leo"
-  ],
-  [
-    "oil",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/06/utah-fossil-fuels-legal-shield"
+    "https://www.theguardian.com/sport/2026/apr/06/march-madness-2026-final-predictions-uconn-michigan"
   ],
   [
     "filter",
@@ -176,39 +166,69 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/05/best-usb-chargers"
   ],
   [
-    "rescue",
+    "video",
     15,
-    "https://www.nytimes.com/2026/04/05/us/politics/trump-risky-rescue-threats-iran.html"
+    "https://www.nytimes.com/2026/04/06/us/minnesota-ice-shooting-video.html"
   ],
   [
-    "don",
+    "government",
     15,
-    "https://www.nytimes.com/2026/04/06/science/artemis-moon-nasa-families-astronauts.html"
+    "https://www.nytimes.com/2026/04/06/us/international-students-decrease-under-trump.html"
   ],
   [
-    "cbs",
+    "growing",
     15,
-    "https://www.theguardian.com/media/2026/apr/06/paramount-ceo-david-ellison-american-centrist-survey"
+    "https://www.nytimes.com/2026/04/06/world/middleeast/trump-board-of-peace-hamas-disarmament.html"
   ],
   [
-    "steve",
+    "something",
     15,
-    "https://www.latimes.com/california/story/2026-04-06/president-trump-endoses-steve-hilton-in-california-governors-race"
+    "https://www.theguardian.com/film/2026/apr/06/the-drama-movie-spoilers-zendaya-robert-pattinson"
   ],
   [
-    "jet",
+    "recent",
+    15,
+    "https://www.theguardian.com/film/2026/apr/06/the-drama-movie-spoilers-zendaya-robert-pattinson"
+  ],
+  [
+    "started",
+    15,
+    "https://www.theguardian.com/world/2026/apr/06/opus-dei-gareth-gore-pope-leo"
+  ],
+  [
+    "strait",
+    15,
+    "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel"
+  ],
+  [
+    "hormuz",
+    15,
+    "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel"
+  ],
+  [
+    "london",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/apr/06/do-we-really-need-truncheons-and-pepper-spray-to-fight-off-londons-feral-teenage-shoplifters"
+  ],
+  [
+    "campaign",
     14,
-    "https://www.nytimes.com/2026/04/05/us/iran-airman-fighter-jet-rescue-mission.html"
+    "https://www.nytimes.com/2026/04/06/us/international-students-decrease-under-trump.html"
   ],
   [
-    "astronauts",
+    "mother",
     14,
-    "https://www.nytimes.com/2026/04/06/science/artemis-moon-nasa-families-astronauts.html"
+    "https://www.nytimes.com/2026/04/06/arts/television/savannah-guthrie-today-return.html"
   ],
   [
-    "savannah",
+    "host",
     14,
-    "https://www.nytimes.com/2026/04/06/business/media/savannah-guthrie-return-today-show.html"
+    "https://www.nytimes.com/2026/04/06/arts/television/savannah-guthrie-today-return.html"
+  ],
+  [
+    "experts",
+    14,
+    "https://www.nytimes.com/2026/04/06/us/imperial-valley-salton-sea-lithium.html"
   ],
   [
     "israel",
@@ -216,24 +236,39 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "south",
+    "earth",
     14,
-    "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel"
+    "https://www.theguardian.com/science/2026/apr/06/artemis-ii-astronauts-record-moon-earth-distance"
   ],
   [
-    "health",
+    "easter",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/06/utah-fossil-fuels-legal-shield"
+    "https://www.theguardian.com/us-news/2026/apr/06/arizona-bees-sting-hiker-phoenix"
   ],
   [
-    "nation",
+    "game",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/06/new-york-opera-innocence-finland-school-shooting"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/06/audrey-hepburn-sean-hepburn-ferrer-biography"
   ],
   [
-    "london",
+    "prices",
     14,
-    "https://www.theguardian.com/music/2026/apr/06/10-soundtracks-that-changed-the-way-we-listen-to-movies-star-wars-space-odyssey"
+    "https://www.theguardian.com/commentisfree/2026/apr/06/trump-affordability-prices-economy"
+  ],
+  [
+    "food",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/apr/06/trump-affordability-prices-economy"
+  ],
+  [
+    "always",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/apr/07/doctors-stop-pretending-have-all-answers"
+  ],
+  [
+    "enough",
+    14,
+    "https://www.theguardian.com/books/ng-interactive/2026/apr/04/enough-of-this-me-me-me-blake-morrison-on-memoir-in-the-age-of-oversharing"
   ],
   [
     "fewer",
@@ -246,24 +281,14 @@
     "https://www.theguardian.com/thefilter-us/2026/jan/28/best-protein-bars"
   ],
   [
-    "ucla",
-    14,
-    "https://www.latimes.com/sports/ucla/story/2026-04-05/bruising-bruins-dominate-south-carolina-win-ncaa-national-title"
-  ],
-  [
-    "fighter",
-    13,
-    "https://www.nytimes.com/2026/04/05/us/iran-airman-fighter-jet-rescue-mission.html"
-  ],
-  [
     "administration",
     13,
     "https://www.nytimes.com/2026/04/06/us/international-students-decrease-under-trump.html"
   ],
   [
-    "spring",
+    "missing",
     13,
-    "https://www.nytimes.com/2026/04/06/world/europe/ukraine-russia-war-spring-foliage.html"
+    "https://www.nytimes.com/2026/04/06/arts/television/savannah-guthrie-today-return.html"
   ],
   [
     "light",
@@ -271,108 +296,83 @@
     "https://www.nytimes.com/2026/02/03/us/savannah-guthrie-mom-missing.html"
   ],
   [
+    "team",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "young",
+    13,
+    "https://www.theguardian.com/film/2026/apr/06/the-drama-movie-spoilers-zendaya-robert-pattinson"
+  ],
+  [
+    "history",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/apr/06/black-voters-louisiana-v-callais-supreme-court"
+  ],
+  [
+    "online",
+    13,
+    "https://www.theguardian.com/wellness/2026/apr/06/texting-back-relationships-anxiety-overwhelm-burnout"
+  ],
+  [
     "star",
     13,
     "https://www.theguardian.com/lifeandstyle/2026/apr/06/audrey-hepburn-sean-hepburn-ferrer-biography"
   ],
   [
-    "love",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/06/audrey-hepburn-sean-hepburn-ferrer-biography"
-  ],
-  [
-    "film",
-    13,
-    "https://www.theguardian.com/film/2026/apr/06/indiana-jones-raiders-lost-ark-feelgood-movie"
-  ],
-  [
-    "middle",
-    13,
-    "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel"
-  ],
-  [
-    "record",
-    13,
-    "https://www.theguardian.com/science/2026/apr/06/artemis-ii-astronauts-record-moon-earth-distance"
-  ],
-  [
-    "night",
-    13,
-    "https://www.theguardian.com/environment/2026/apr/06/german-mayors-call-for-night-time-ban-on-robot-lawnmowers-to-protect-hedgehogs"
-  ],
-  [
-    "far",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/06/a-new-start-after-60-i-jacked-in-my-job-in-tech-to-become-a-professional-poker-player"
-  ],
-  [
-    "win",
-    13,
-    "https://www.theguardian.com/sport/2026/apr/06/shacarri-richardson-wins-2026-stawell-gift-sprint"
-  ],
-  [
-    "states",
+    "guthrie",
     12,
-    "https://www.nytimes.com/2026/04/06/us/politics/republican-midterms-fundraising-super-pac.html"
+    "https://www.nytimes.com/2026/04/06/arts/television/savannah-guthrie-today-return.html"
   ],
   [
-    "running",
+    "companies",
     12,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/06/flock-cameras-privacy-concerns"
+    "https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html"
   ],
   [
-    "different",
+    "threats",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/06/audrey-hepburn-sean-hepburn-ferrer-biography"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "young",
+    "director",
     12,
-    "https://www.theguardian.com/media/2026/apr/06/paramount-ceo-david-ellison-american-centrist-survey"
+    "https://www.theguardian.com/film/2026/apr/06/the-drama-movie-spoilers-zendaya-robert-pattinson"
   ],
   [
-    "ceasefire",
+    "shot",
     12,
-    "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel"
-  ],
-  [
-    "experts",
-    12,
-    "https://www.theguardian.com/us-news/2026/apr/06/trump-lower-court-judges-challenges"
-  ],
-  [
-    "online",
-    12,
-    "https://www.theguardian.com/global-development/2026/apr/06/investigation-exposed-child-sex-trafficking-on-facebook-and-instagram-meta"
-  ],
-  [
-    "congress",
-    12,
-    "https://www.theguardian.com/us-news/2026/apr/06/utah-fossil-fuels-legal-shield"
+    "https://www.theguardian.com/us-news/2026/apr/06/trump-threats-journalist-missing-airman-iran"
   ],
   [
     "democrats",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/06/michigan-senate-race-democrats"
+    "https://www.theguardian.com/us-news/2026/apr/06/cuba-blockade-energy-house-democrats"
   ],
   [
-    "always",
+    "different",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/06/new-york-opera-innocence-finland-school-shooting"
+    "https://www.theguardian.com/media/2026/apr/06/paramount-ceo-david-ellison-american-centrist-survey"
   ],
   [
-    "prices",
+    "because",
     12,
-    "https://www.theguardian.com/commentisfree/2026/apr/06/trump-affordability-prices-economy"
+    "https://www.theguardian.com/commentisfree/2026/apr/06/donald-trump-us-israel-war-iran-sixth-week"
   ],
   [
-    "press",
+    "full",
     12,
-    "https://www.theguardian.com/film/2026/apr/05/les-rayons-et-les-ombres-rays-and-shadows-xavier-giannoli-jean-dujardin"
+    "https://www.theguardian.com/sport/2026/apr/06/march-madness-2026-final-predictions-uconn-michigan"
   ],
   [
-    "weekly",
+    "cup",
     12,
-    "https://www.theguardian.com/film/2026/apr/03/supergirl-the-new-trailer-suggests-that-the-dc-universe-has-an-intriguing-trick-up-its-sleeve"
+    "https://www.theguardian.com/football/2026/apr/06/fa-cup-premier-league-arsenal-southampton"
+  ],
+  [
+    "spring",
+    12,
+    "https://www.theguardian.com/football/2026/apr/06/fa-cup-premier-league-arsenal-southampton"
   ]
 ];
