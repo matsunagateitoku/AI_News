@@ -2,198 +2,298 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    89,
+    114,
     "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html"
   ],
   [
     "iran",
-    59,
+    91,
     "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html"
   ],
   [
     "president",
-    42,
+    57,
     "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html"
   ],
   [
     "war",
-    42,
-    "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html"
+    53,
+    "https://www.nytimes.com/2026/04/07/us/politics/war-crimes-civilians.html"
   ],
   [
-    "media",
+    "whole",
     28,
-    "https://www.nytimes.com/2026/04/06/business/media/trump-jail-journalists-fighter-crew.html"
-  ],
-  [
-    "artemis",
-    26,
-    "https://www.nytimes.com/2026/04/07/science/nasa-artemis-moon-flyby-photos.html"
-  ],
-  [
-    "court",
-    24,
-    "https://www.nytimes.com/2026/04/07/us/wisconsin-supreme-court-election.html"
+    "https://www.theguardian.com/world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline"
   ],
   [
     "social",
-    23,
-    "https://www.nytimes.com/2026/04/07/us/texas-considers-required-reading-list-for-schools-which-includes-the-bible.html"
+    27,
+    "https://www.theguardian.com/world/2026/apr/07/molly-crabapple-new-book-jewish-socialism"
   ],
   [
-    "country",
-    23,
-    "https://www.nytimes.com/2026/04/07/arts/music/kanye-west-ye-visa-ban-wireless.html"
-  ],
-  [
-    "california",
-    23,
-    "https://www.theguardian.com/us-news/2026/apr/06/bald-eagle-chicks-hatching-california-livestream"
+    "media",
+    26,
+    "https://www.theguardian.com/us-news/2026/apr/07/democrats-trump-iran-25th-amendment"
   ],
   [
     "moon",
-    20,
-    "https://www.nytimes.com/2026/04/07/podcasts/the-headlines/trump-iran-dark-money-midterms.html"
-  ],
-  [
-    "music",
-    19,
-    "https://www.nytimes.com/2026/04/07/business/dealbook/bill-ackman-universal-music-merger.html"
-  ],
-  [
-    "police",
-    19,
-    "https://www.nytimes.com/2026/04/07/world/middleeast/istanbul-israel-consulate-shootout.html"
-  ],
-  [
-    "london",
-    19,
-    "https://www.theguardian.com/music/2026/apr/07/home-office-bans-kanye-west-from-entering-uk-wireless-festival"
+    24,
+    "https://www.nytimes.com/2026/04/07/science/nasa-artemis-ii-astronauts-moon-joy.html"
   ],
   [
     "deadline",
+    23,
+    "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html"
+  ],
+  [
+    "artemis",
+    23,
+    "https://www.nytimes.com/2026/04/07/science/nasa-artemis-ii-astronauts-moon-joy.html"
+  ],
+  [
+    "donald",
+    23,
+    "https://www.theguardian.com/world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline"
+  ],
+  [
+    "strait",
+    22,
+    "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html"
+  ],
+  [
+    "country",
+    22,
+    "https://www.nytimes.com/2026/04/07/arts/music/kanye-west-ye-visa-ban-wireless.html"
+  ],
+  [
+    "hormuz",
+    21,
+    "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html"
+  ],
+  [
+    "military",
+    21,
+    "https://www.nytimes.com/2026/04/07/us/politics/war-crimes-civilians.html"
+  ],
+  [
+    "die",
+    21,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/07/rachel-waters-mom-morphine-murder"
+  ],
+  [
+    "civilization",
+    21,
+    "https://www.theguardian.com/us-news/live/2026/apr/07/government-shutdown-congress-house-of-representatives-donald-trump-republicans-democrats-ice-us-politics-latest-updates-news"
+  ],
+  [
+    "election",
+    20,
+    "https://www.nytimes.com/2026/04/07/us/politics/marjorie-taylor-greene-election-georgia.html"
+  ],
+  [
+    "court",
+    19,
+    "https://www.nytimes.com/2026/04/07/us/wisconsin-supreme-court-election.html"
+  ],
+  [
+    "threat",
+    19,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/07/alcohol-mood-effect-mind-body"
+  ],
+  [
+    "american",
     18,
     "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html"
   ],
   [
-    "york",
-    18,
-    "https://www.theguardian.com/business/2026/apr/07/universal-music-group-takeover-offer-bill-ackman-pershing-square"
-  ],
-  [
-    "election",
-    17,
-    "https://www.nytimes.com/2026/04/07/world/europe/hungary-roma-orban-election-education.html"
-  ],
-  [
-    "festival",
-    17,
-    "https://www.nytimes.com/2026/04/07/arts/music/kanye-west-ye-visa-ban-wireless.html"
-  ],
-  [
-    "trump's",
-    17,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
     "food",
-    17,
+    18,
     "https://www.theguardian.com/us-news/ng-interactive/2026/apr/07/rachel-waters-mom-morphine-murder"
   ],
   [
     "family",
-    17,
+    18,
     "https://www.theguardian.com/us-news/2026/apr/07/washington-dc-highly-qualified-workers-unemployment"
   ],
   [
-    "online",
-    17,
-    "https://www.theguardian.com/us-news/2026/apr/07/democrats-letter-ice-disappearances"
+    "tonight",
+    18,
+    "https://www.theguardian.com/world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline"
   ],
   [
     "cup",
+    18,
+    "https://www.theguardian.com/sport/2026/apr/07/the-masters-jon-rahm-europe-ryder-cup-dp-world-tour-golf"
+  ],
+  [
+    "released",
     17,
-    "https://www.theguardian.com/football/who-scored-blog/2026/apr/07/champions-league-quarter-finals-sporting-arsenal-real-madrid-bayern-munich-barcelona-atletico-madrid-psg-liverpool"
+    "https://www.nytimes.com/2026/04/07/us/ice-newlywed-military-wife-detain.html"
+  ],
+  [
+    "west",
+    17,
+    "https://www.nytimes.com/2026/04/07/arts/music/kanye-west-ye-visa-ban-wireless.html"
+  ],
+  [
+    "israeli",
+    17,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "london",
+    17,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/07/alcohol-mood-effect-mind-body"
+  ],
+  [
+    "nasa",
+    16,
+    "https://www.nytimes.com/2026/04/07/science/nasa-artemis-ii-astronauts-moon-joy.html"
+  ],
+  [
+    "because",
+    16,
+    "https://www.nytimes.com/2026/04/07/arts/music/kanye-west-ye-visa-ban-wireless.html"
+  ],
+  [
+    "vance",
+    16,
+    "https://www.nytimes.com/2026/04/07/opinion/jd-vance-trump-iran-hungary-orban.html"
+  ],
+  [
+    "israel",
+    16,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "latest",
     16,
-    "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html"
-  ],
-  [
-    "crew",
-    16,
-    "https://www.nytimes.com/2026/04/06/business/media/trump-jail-journalists-fighter-crew.html"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
     "don",
     16,
-    "https://www.theguardian.com/technology/2026/apr/07/an-ai-company-with-an-arsenal-of-spacecraft-what-exactly-is-spacex"
+    "https://www.theguardian.com/thefilter-us/2026/apr/07/dyson-bissell-cordless-vacuum"
   ],
   [
-    "something",
+    "power",
     16,
-    "https://www.theguardian.com/us-news/2026/apr/06/bald-eagle-chicks-hatching-california-livestream"
+    "https://www.theguardian.com/thefilter-us/2026/apr/07/dyson-bissell-cordless-vacuum"
   ],
   [
-    "american",
+    "journalist",
     15,
-    "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html"
+    "https://www.nytimes.com/2026/04/07/world/middleeast/shelly-kittleson-journalist-iraq.html"
   ],
   [
-    "night",
+    "oil",
     15,
-    "https://www.nytimes.com/2026/04/07/arts/television/stephen-colbert-trump-iran-easter-post.html"
+    "https://www.nytimes.com/2026/04/07/business/companies-deals-iran-oil-stocks.html"
   ],
   [
-    "south",
+    "bill",
     15,
-    "https://www.theguardian.com/us-news/2026/apr/07/brent-spence-bridge-bottleneck-ohio-kentucky"
+    "https://www.nytimes.com/2026/04/07/business/dealbook/bill-ackman-universal-music-merger.html"
   ],
   [
-    "enough",
+    "taylor",
     15,
-    "https://www.theguardian.com/commentisfree/2026/apr/07/trump-needs-to-go-we-cant-use-25th-amendment-idea"
+    "https://www.nytimes.com/2026/04/07/us/politics/marjorie-taylor-greene-election-georgia.html"
   ],
   [
-    "easter",
-    14,
-    "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html"
+    "festival",
+    15,
+    "https://www.nytimes.com/2026/04/07/arts/music/kanye-west-ye-visa-ban-wireless.html"
   ],
   [
-    "million",
-    14,
-    "https://www.nytimes.com/2026/04/07/world/europe/paris-catacombs-renovation.html"
+    "california",
+    15,
+    "https://www.nytimes.com/2026/04/07/us/shooting-ice-california.html"
   ],
   [
-    "israeli",
-    14,
-    "https://www.nytimes.com/2026/04/07/world/middleeast/istanbul-israel-consulate-shootout.html"
-  ],
-  [
-    "military",
-    14,
+    "north",
+    15,
     "https://www.nytimes.com/2026/04/07/world/asia/north-korea-kim-jong-un-daughter-tank.html"
   ],
   [
-    "shot",
-    14,
-    "https://www.nytimes.com/2026/04/06/us/offset-migos-shooting-florida.html"
+    "post",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/07/democrats-trump-iran-25th-amendment"
   ],
   [
-    "early",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "experts",
-    14,
+    "police",
+    15,
     "https://www.theguardian.com/us-news/ng-interactive/2026/apr/07/neo-nazi-virginia-combat-event"
   ],
   [
-    "film",
+    "game",
+    15,
+    "https://www.theguardian.com/football/live/2026/apr/07/real-madrid-v-bayern-munich-champions-league-quarter-final-first-leg-live"
+  ],
+  [
+    "something",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/06/bald-eagle-chicks-hatching-california-livestream"
+  ],
+  [
+    "crew",
     14,
-    "https://www.theguardian.com/film/2026/apr/07/the-stranger-review-francois-ozon-adaptation-albert-camus-l-tranger"
+    "https://www.nytimes.com/2026/04/07/science/nasa-artemis-ii-astronauts-moon-joy.html"
+  ],
+  [
+    "prices",
+    14,
+    "https://www.nytimes.com/2026/04/07/business/companies-deals-iran-oil-stocks.html"
+  ],
+  [
+    "night",
+    14,
+    "https://www.nytimes.com/2026/04/07/business/media/colbert-late-show-replacement-byron-allen-cbs.html"
+  ],
+  [
+    "little",
+    14,
+    "https://www.washingtonpost.com/immigration/2026/04/05/noem-trump-dhs-fema-contracts/"
+  ],
+  [
+    "infrastructure",
+    14,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "filter",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/apr/07/dyson-bissell-cordless-vacuum"
+  ],
+  [
+    "video",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/07/minneapolis-video-ice-shooting-venezuelan-men"
+  ],
+  [
+    "win",
+    14,
+    "https://www.theguardian.com/world/2026/apr/07/jd-vance-eu-interference-hungary-election-viktor-orban"
+  ],
+  [
+    "near",
+    14,
+    "https://www.theguardian.com/artanddesign/2026/apr/07/destroyed-aircraft-helicopter-plane-us-mission-iran-picture-essay"
+  ],
+  [
+    "far",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/apr/07/us-trump-iran-war-civilians"
+  ],
+  [
+    "enough",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/apr/07/us-trump-iran-war-civilians"
+  ],
+  [
+    "son",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/07/donald-trump-jr-eu-visit-bosnia-republika-srpska"
   ],
   [
     "protein",
@@ -201,69 +301,39 @@
     "https://www.theguardian.com/thefilter-us/2026/jan/28/best-protein-bars"
   ],
   [
-    "because",
+    "cbs",
     13,
-    "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html"
+    "https://www.nytimes.com/2026/04/07/business/media/colbert-late-show-replacement-byron-allen-cbs.html"
   ],
   [
-    "care",
+    "global",
     13,
-    "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "race",
-    13,
-    "https://www.nytimes.com/2026/04/07/world/europe/hungary-roma-orban-election-education.html"
-  ],
-  [
-    "rapper",
-    13,
-    "https://www.nytimes.com/2026/04/07/arts/music/kanye-west-ye-visa-ban-wireless.html"
-  ],
-  [
-    "different",
-    13,
-    "https://www.nytimes.com/2026/04/06/fashion/weddings/wedding-style-quiz.html"
-  ],
-  [
-    "far",
-    13,
-    "https://www.nytimes.com/2026/04/07/briefing/the-far-side-moon.html"
-  ],
-  [
-    "infrastructure",
-    13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "team",
+    "trump's",
     13,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "power",
+    "guide",
     13,
-    "https://www.theguardian.com/commentisfree/2026/apr/07/viktor-orban-donald-trump-media-assault-hungary-election"
+    "https://www.theguardian.com/thefilter-us/2026/apr/07/dyson-bissell-cordless-vacuum"
   ],
   [
-    "prices",
+    "final",
     13,
-    "https://www.theguardian.com/environment/2026/apr/07/iran-war-global-dependence-fossil-fuels-biggest-emitters-reaping-rewards"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/07/rachel-waters-mom-morphine-murder"
   ],
   [
-    "political",
+    "iranian",
     13,
-    "https://www.theguardian.com/music/2026/apr/07/home-office-bans-kanye-west-from-entering-uk-wireless-festival"
+    "https://www.theguardian.com/world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline"
   ],
   [
-    "star",
+    "side",
     13,
-    "https://www.theguardian.com/music/2026/apr/07/i-couldnt-see-breathe-or-sing-i-blacked-out-twice-why-are-so-many-metal-bands-wearing-masks"
-  ],
-  [
-    "county",
-    13,
-    "https://www.theguardian.com/football/2026/apr/06/patrick-agyemang-injury-usmnt-derby-county"
+    "https://www.theguardian.com/commentisfree/2026/apr/07/the-guardian-view-on-artemis-ii-the-light-and-dark-sides-of-the-moon"
   ],
   [
     "ahead",
@@ -271,108 +341,38 @@
     "https://www.theguardian.com/us-news/2026/apr/07/wisconsin-supreme-court-election"
   ],
   [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/06/moka-pot-iced-coffee"
-  ],
-  [
-    "cbs",
-    13,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-04-06/byron-allen-comics-unleashed-will-replace-cbs-late-night-host-stephen-colbert"
-  ],
-  [
-    "astronauts",
+    "attacks",
     12,
-    "https://www.nytimes.com/2026/04/07/science/nasa-artemis-moon-flyby-photos.html"
+    "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html"
   ],
   [
-    "play",
+    "threatens",
     12,
-    "https://www.nytimes.com/2026/04/07/world/europe/hungary-roma-orban-election-education.html"
+    "https://www.nytimes.com/2026/04/07/us/politics/war-crimes-civilians.html"
   ],
   [
-    "texas",
+    "york",
     12,
-    "https://www.nytimes.com/2026/04/07/us/texas-considers-required-reading-list-for-schools-which-includes-the-bible.html"
+    "https://www.nytimes.com/2026/04/07/us/ice-newlywed-military-wife-detain.html"
   ],
   [
-    "office",
+    "china",
     12,
-    "https://www.nytimes.com/2026/04/07/nyregion/how-to-build-a-rest-stop-for-delivery-workers-in-a-hurry.html"
+    "https://www.nytimes.com/2026/04/07/us/politics/tariffs-trade-import-fraud.html"
   ],
   [
-    "side",
+    "music",
     12,
-    "https://www.nytimes.com/2026/04/07/briefing/the-far-side-moon.html"
+    "https://www.nytimes.com/2026/04/07/business/dealbook/bill-ackman-universal-music-merger.html"
   ],
   [
-    "post",
+    "late",
     12,
-    "https://www.nytimes.com/2026/04/07/arts/television/stephen-colbert-trump-iran-easter-post.html"
+    "https://www.nytimes.com/2026/04/07/business/media/colbert-late-show-replacement-byron-allen-cbs.html"
   ],
   [
-    "near",
+    "early",
     12,
-    "https://www.nytimes.com/2026/04/07/world/middleeast/istanbul-israel-consulate-shootout.html"
-  ],
-  [
-    "outside",
-    12,
-    "https://www.nytimes.com/2026/04/06/us/offset-migos-shooting-florida.html"
-  ],
-  [
-    "little",
-    12,
-    "https://www.washingtonpost.com/immigration/2026/04/05/noem-trump-dhs-fema-contracts/"
-  ],
-  [
-    "red",
-    12,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "investigation",
-    12,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
-  ],
-  [
-    "though",
-    12,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "job",
-    12,
-    "https://www.theguardian.com/us-news/2026/apr/07/washington-dc-highly-qualified-workers-unemployment"
-  ],
-  [
-    "today",
-    12,
-    "https://www.theguardian.com/film/2026/apr/07/joe-eszterhas-basic-instinct-reboot-flashdance-jagged-edge-showgirls-hunter-s-thompson"
-  ],
-  [
-    "iranian",
-    12,
-    "https://www.theguardian.com/business/2026/apr/07/milan-dubai-super-wealthy-italy-rich"
-  ],
-  [
-    "oil",
-    12,
-    "https://www.theguardian.com/environment/2026/apr/07/iran-war-global-dependence-fossil-fuels-biggest-emitters-reaping-rewards"
-  ],
-  [
-    "whole",
-    12,
-    "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict"
-  ],
-  [
-    "die",
-    12,
-    "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict"
-  ],
-  [
-    "southern",
-    12,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/07/neo-nazi-virginia-combat-event"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ]
 ];
