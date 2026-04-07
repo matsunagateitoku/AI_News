@@ -2,78 +2,93 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    135,
+    129,
     "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html"
   ],
   [
     "iran",
-    72,
+    66,
     "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html"
   ],
   [
     "president",
-    57,
+    56,
     "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html"
-  ],
-  [
-    "war",
-    50,
-    "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html"
   ],
   [
     "artemis",
-    41,
-    "https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html"
+    45,
+    "https://www.nytimes.com/2026/04/06/science/space/nasa-artemis-moon-flyby.html"
   ],
   [
-    "california",
-    31,
-    "https://www.nytimes.com/2026/04/06/us/california-governor-trump-hilton-democrats.html"
+    "war",
+    44,
+    "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html"
   ],
   [
     "moon",
-    30,
-    "https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html"
-  ],
-  [
-    "court",
-    30,
-    "https://www.nytimes.com/2026/04/06/us/politics/supreme-court-bannon-trump.html"
+    33,
+    "https://www.nytimes.com/2026/04/06/science/space/nasa-artemis-moon-flyby.html"
   ],
   [
     "crew",
-    29,
-    "https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html"
+    33,
+    "https://www.nytimes.com/2026/04/06/science/space/nasa-artemis-moon-flyby.html"
   ],
   [
     "media",
-    25,
-    "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict"
+    30,
+    "https://www.theguardian.com/us-news/2026/apr/06/trump-threats-journalist-missing-airman-iran"
+  ],
+  [
+    "california",
+    29,
+    "https://www.nytimes.com/2026/04/06/us/california-governor-trump-hilton-democrats.html"
+  ],
+  [
+    "court",
+    27,
+    "https://www.nytimes.com/2026/04/06/us/politics/supreme-court-bannon-trump.html"
+  ],
+  [
+    "country",
+    21,
+    "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html"
   ],
   [
     "far",
-    23,
-    "https://www.theguardian.com/technology/2026/apr/06/tech-layoffs-ai-work"
-  ],
-  [
-    "night",
-    22,
-    "https://www.theguardian.com/sport/2026/apr/06/michigan-uconn-ncaa-mens-basketball-championship"
-  ],
-  [
-    "power",
     21,
-    "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html"
-  ],
-  [
-    "latest",
-    21,
-    "https://www.nytimes.com/2026/04/06/us/politics/redistricting-virginia-florida-ga-special-election-republicans.html"
+    "https://www.theguardian.com/science/2026/apr/07/artemis-ii-lunar-flyby-blackouts-five-key-moments"
   ],
   [
     "social",
-    20,
+    21,
     "https://www.theguardian.com/us-news/2026/apr/06/trump-steve-hilton-endorsement-california-governor"
+  ],
+  [
+    "night",
+    21,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/07/london-falling-patrick-radden-keefe-zac-brettler"
+  ],
+  [
+    "latest",
+    20,
+    "https://www.nytimes.com/2026/04/06/us/politics/redistricting-virginia-florida-ga-special-election-republicans.html"
+  ],
+  [
+    "shot",
+    20,
+    "https://www.nytimes.com/2026/04/06/us/offset-migos-shooting-florida.html"
+  ],
+  [
+    "prices",
+    20,
+    "https://www.theguardian.com/environment/2026/apr/07/iran-war-global-dependence-fossil-fuels-biggest-emitters-reaping-rewards"
+  ],
+  [
+    "london",
+    20,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/07/london-falling-patrick-radden-keefe-zac-brettler"
   ],
   [
     "early",
@@ -81,9 +96,14 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "donald",
+    "online",
     19,
-    "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict"
+    "https://www.theguardian.com/wellness/2026/apr/06/texting-back-relationships-anxiety-overwhelm-burnout"
+  ],
+  [
+    "power",
+    18,
+    "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html"
   ],
   [
     "american",
@@ -91,34 +111,14 @@
     "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html"
   ],
   [
-    "mission",
-    18,
-    "https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html"
-  ],
-  [
-    "family",
-    18,
-    "https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html"
-  ],
-  [
-    "don",
-    18,
-    "https://www.theguardian.com/wellness/2026/apr/06/texting-back-relationships-anxiety-overwhelm-burnout"
-  ],
-  [
-    "prices",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/apr/06/trump-affordability-prices-economy"
-  ],
-  [
     "earth",
-    17,
-    "https://www.nytimes.com/2026/04/06/briefing/artemis-ii-moon-trump-iran-threats.html"
+    18,
+    "https://www.nytimes.com/2026/04/06/science/space/nasa-artemis-moon-flyby.html"
   ],
   [
-    "military",
+    "mission",
     17,
-    "https://www.washingtonpost.com/education/2026/04/06/classic-learning-test/"
+    "https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html"
   ],
   [
     "filter",
@@ -126,24 +126,19 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/06/moka-pot-iced-coffee"
   ],
   [
-    "love",
+    "food",
     17,
-    "https://www.theguardian.com/thefilter-us/2026/apr/06/moka-pot-iced-coffee"
+    "https://www.theguardian.com/environment/2026/apr/07/iran-war-global-dependence-fossil-fuels-biggest-emitters-reaping-rewards"
   ],
   [
-    "breaking",
+    "don",
     17,
-    "https://www.theguardian.com/us-news/2026/apr/06/tony-gonzales-texas-staffers-accusations"
+    "https://www.theguardian.com/wellness/2026/apr/06/texting-back-relationships-anxiety-overwhelm-burnout"
   ],
   [
-    "email",
+    "side",
     17,
-    "https://www.theguardian.com/us-news/2026/apr/06/tony-gonzales-texas-staffers-accusations"
-  ],
-  [
-    "deadline",
-    16,
-    "https://www.nytimes.com/2026/04/06/world/middleeast/iran-10-point-proposal.html"
+    "https://www.theguardian.com/science/2026/apr/07/artemis-ii-lunar-flyby-blackouts-five-key-moments"
   ],
   [
     "easter",
@@ -151,9 +146,24 @@
     "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html"
   ],
   [
+    "family",
+    16,
+    "https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html"
+  ],
+  [
+    "race",
+    16,
+    "https://www.nytimes.com/2026/04/07/world/europe/hungary-roma-orban-election-education.html"
+  ],
+  [
     "governor",
     16,
     "https://www.nytimes.com/2026/04/06/us/california-governor-trump-hilton-democrats.html"
+  ],
+  [
+    "different",
+    16,
+    "https://www.nytimes.com/2026/04/06/us/politics/tony-gonzales-sexual-texts-republicans.html"
   ],
   [
     "something",
@@ -161,44 +171,24 @@
     "https://www.nytimes.com/2026/04/06/opinion/women-workplace-dei-feminism.html"
   ],
   [
-    "shot",
-    16,
-    "https://www.nytimes.com/2026/04/06/us/offset-migos-shooting-florida.html"
-  ],
-  [
     "police",
     16,
     "https://www.nytimes.com/2026/04/06/us/offset-migos-shooting-florida.html"
   ],
   [
-    "country",
-    16,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "health",
-    16,
-    "https://www.theguardian.com/music/2026/apr/06/lil-nas-x-judge-police-charges"
-  ],
-  [
-    "host",
-    15,
-    "https://www.nytimes.com/2026/04/06/arts/television/savannah-guthrie-today-return.html"
-  ],
-  [
-    "county",
-    15,
-    "https://www.nytimes.com/2026/04/06/us/imperial-valley-salton-sea-lithium.html"
-  ],
-  [
-    "different",
-    15,
-    "https://www.nytimes.com/2026/04/06/us/politics/tony-gonzales-sexual-texts-republicans.html"
-  ],
-  [
     "campaign",
-    15,
+    16,
     "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "record",
+    16,
+    "https://www.theguardian.com/environment/2026/apr/07/iran-war-global-dependence-fossil-fuels-biggest-emitters-reaping-rewards"
+  ],
+  [
+    "donald",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/06/trump-threats-journalist-missing-airman-iran"
   ],
   [
     "buying",
@@ -211,19 +201,9 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/06/moka-pot-iced-coffee"
   ],
   [
-    "record",
+    "york",
     15,
-    "https://www.theguardian.com/science/2026/apr/06/artemis-ii-astronauts-record-moon-earth-distance"
-  ],
-  [
-    "cbs",
-    15,
-    "https://www.theguardian.com/media/2026/apr/06/paramount-ceo-david-ellison-american-centrist-survey"
-  ],
-  [
-    "game",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/06/audrey-hepburn-sean-hepburn-ferrer-biography"
+    "https://www.theguardian.com/us-news/2026/apr/06/ice-agents-detain-wife-of-us-soldier"
   ],
   [
     "political",
@@ -231,69 +211,49 @@
     "https://www.theguardian.com/commentisfree/2026/apr/06/trump-affordability-prices-economy"
   ],
   [
-    "side",
+    "game",
     15,
-    "https://www.theguardian.com/commentisfree/picture/2026/apr/06/nicola-jennings-artemis-ii-far-side-moon-cartoon"
+    "https://www.theguardian.com/football/2026/apr/06/patrick-agyemang-injury-usmnt-derby-county"
   ],
   [
-    "weekend",
+    "cbs",
     15,
-    "https://www.theguardian.com/commentisfree/2026/apr/06/the-guardian-view-on-trumps-apocalyptic-threats-a-sign-not-of-strength-but-of-moral-and-strategic-weakness-"
+    "https://www.theguardian.com/media/2026/apr/06/paramount-ceo-david-ellison-american-centrist-survey"
   ],
   [
-    "plants",
+    "county",
     14,
-    "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html"
+    "https://www.nytimes.com/2026/04/06/us/imperial-valley-salton-sea-lithium.html"
   ],
   [
-    "rescue",
+    "rapper",
     14,
-    "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html"
+    "https://www.nytimes.com/2026/04/06/us/offset-migos-shooting-florida.html"
   ],
   [
-    "today",
+    "israel",
     14,
-    "https://www.nytimes.com/2026/04/06/arts/television/savannah-guthrie-today-return.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "mother",
+    "love",
     14,
-    "https://www.nytimes.com/2026/04/06/arts/television/savannah-guthrie-today-return.html"
-  ],
-  [
-    "film",
-    14,
-    "https://www.theguardian.com/film/2026/apr/06/the-drama-movie-spoilers-zendaya-robert-pattinson"
-  ],
-  [
-    "young",
-    14,
-    "https://www.theguardian.com/film/2026/apr/06/the-drama-movie-spoilers-zendaya-robert-pattinson"
-  ],
-  [
-    "online",
-    14,
-    "https://www.theguardian.com/wellness/2026/apr/06/texting-back-relationships-anxiety-overwhelm-burnout"
-  ],
-  [
-    "york",
-    14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/06/flock-cameras-privacy-concerns"
-  ],
-  [
-    "london",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/apr/06/do-we-really-need-truncheons-and-pepper-spray-to-fight-off-londons-feral-teenage-shoplifters"
-  ],
-  [
-    "southern",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/06/california-sixth-person-bitten-rattlesnake"
+    "https://www.theguardian.com/thefilter-us/2026/apr/06/moka-pot-iced-coffee"
   ],
   [
     "oil",
     14,
-    "https://www.theguardian.com/world/2026/apr/06/defense-contractors-oil-companies-profit-iran-war"
+    "https://www.theguardian.com/environment/2026/apr/07/iran-war-global-dependence-fossil-fuels-biggest-emitters-reaping-rewards"
+  ],
+  [
+    "host",
+    14,
+    "https://www.theguardian.com/wellness/2026/apr/06/texting-back-relationships-anxiety-overwhelm-burnout"
+  ],
+  [
+    "health",
+    14,
+    "https://www.theguardian.com/music/2026/apr/06/lil-nas-x-judge-police-charges"
   ],
   [
     "protein",
@@ -301,9 +261,9 @@
     "https://www.theguardian.com/thefilter-us/2026/jan/28/best-protein-bars"
   ],
   [
-    "attacks",
+    "astronauts",
     13,
-    "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html"
+    "https://www.nytimes.com/2026/04/06/science/space/nasa-artemis-moon-flyby.html"
   ],
   [
     "late",
@@ -311,29 +271,29 @@
     "https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html"
   ],
   [
+    "wife",
+    13,
+    "https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html"
+  ],
+  [
+    "play",
+    13,
+    "https://www.nytimes.com/2026/04/07/world/europe/hungary-roma-orban-election-education.html"
+  ],
+  [
+    "million",
+    13,
+    "https://www.nytimes.com/2026/04/07/world/europe/paris-catacombs-renovation.html"
+  ],
+  [
     "steve",
     13,
     "https://www.nytimes.com/2026/04/06/us/politics/supreme-court-bannon-trump.html"
   ],
   [
-    "video",
+    "children",
     13,
-    "https://www.nytimes.com/2026/04/06/us/minnesota-ice-shooting-video.html"
-  ],
-  [
-    "race",
-    13,
-    "https://www.nytimes.com/2026/04/06/us/california-governor-trump-hilton-democrats.html"
-  ],
-  [
-    "democrats",
-    13,
-    "https://www.nytimes.com/2026/04/06/us/california-governor-trump-hilton-democrats.html"
-  ],
-  [
-    "experts",
-    13,
-    "https://www.nytimes.com/2026/04/06/us/imperial-valley-salton-sea-lithium.html"
+    "https://www.nytimes.com/2026/04/06/business/trump-accounts-bny-robinhood.html"
   ],
   [
     "recent",
@@ -341,9 +301,14 @@
     "https://www.nytimes.com/2026/04/06/nyregion/mamdani-street-seder.html"
   ],
   [
-    "infrastructure",
+    "guide",
     13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.theguardian.com/thefilter-us/2026/apr/06/moka-pot-iced-coffee"
+  ],
+  [
+    "young",
+    13,
+    "https://www.theguardian.com/film/2026/apr/06/the-drama-movie-spoilers-zendaya-robert-pattinson"
   ],
   [
     "history",
@@ -351,28 +316,63 @@
     "https://www.theguardian.com/commentisfree/2026/apr/06/black-voters-louisiana-v-callais-supreme-court"
   ],
   [
+    "east",
+    13,
+    "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict"
+  ],
+  [
     "running",
     13,
     "https://www.theguardian.com/us-news/ng-interactive/2026/apr/06/flock-cameras-privacy-concerns"
   ],
   [
-    "inbox",
+    "title",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/06/tony-gonzales-texas-staffers-accusations"
+    "https://www.theguardian.com/film/2026/apr/07/the-stranger-review-francois-ozon-adaptation-albert-camus-l-tranger"
   ],
   [
-    "always",
+    "gop",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/06/new-york-opera-innocence-finland-school-shooting"
+    "https://www.foxnews.com/media/trump-commandeers-cabinet-members-campaign-midterms-ordering-them-drop-mute-controversial-stances"
   ],
   [
-    "food",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/apr/06/trump-affordability-prices-economy"
+    "enough",
+    12,
+    "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html"
   ],
   [
-    "play",
-    13,
-    "https://www.theguardian.com/sport/2026/apr/06/michigan-uconn-ncaa-mens-basketball-championship"
+    "plants",
+    12,
+    "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html"
+  ],
+  [
+    "deadline",
+    12,
+    "https://www.nytimes.com/2026/04/06/world/middleeast/iran-10-point-proposal.html"
+  ],
+  [
+    "rescue",
+    12,
+    "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html"
+  ],
+  [
+    "russia",
+    12,
+    "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html"
+  ],
+  [
+    "democrats",
+    12,
+    "https://www.nytimes.com/2026/04/06/us/california-governor-trump-hilton-democrats.html"
+  ],
+  [
+    "companies",
+    12,
+    "https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html"
+  ],
+  [
+    "fire",
+    12,
+    "https://www.nytimes.com/2026/04/07/opinion/israel-palestinians-west-bank-death-penalty.html"
   ]
 ];
