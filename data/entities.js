@@ -2,20 +2,20 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Melania Trump",
-      "count": 29,
-      "url": "https://thehill.com/policy/technology/5821520-first-conviction-take-it-down-act/",
-      "source": "The Hill"
-    },
-    {
       "name": "Donald Trump",
-      "count": 15,
-      "url": "https://www.theguardian.com/world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news",
+      "count": 30,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/iran-crisis-ceasefire-friday-talks-islamabad-nuclear-programme",
       "source": "The Guardian"
     },
     {
+      "name": "Rex Heuermann",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/04/08/nyregion/rex-heuermann-gilgo-beach-profile.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Marjorie Taylor Greene",
-      "count": 11,
+      "count": 10,
       "url": "https://www.nytimes.com/2026/04/08/us/politics/georgia-wisconsin-elections-takeaways.html",
       "source": "NY Times"
     },
@@ -32,108 +32,46 @@
       "source": "NY Times"
     },
     {
-      "name": "Jd Vance",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pete Hegseth",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/08/liberal-judge-chris-taylor-wisconsin-supreme-court-donald-trump-pete-hegseth-us-politics-latest",
-      "source": "The Guardian"
-    },
-    {
       "name": "Hormuz",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/iran-crisis-ceasefire-friday-talks-islamabad-nuclear-programme",
       "source": "The Guardian"
     },
     {
-      "name": "Rex Heuermann",
+      "name": "Pam Bondi",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/04/08/us/politics/pam-bondi-epstein-deposition.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Matthew Perry",
       "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/apr/07/long-island-gilgo-beach-lawsuit-rex-heuermann",
+      "url": "https://www.theguardian.com/us-news/2026/apr/08/ketamine-queen-matthew-perry-sentencing",
       "source": "The Guardian"
     },
     {
-      "name": "David Geffen Galleries",
+      "name": "Jasveen Sangha",
       "count": 6,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-04-08/lacma-david-geffen-galleries-cost-price-how-was-money-spent",
-      "source": "LA Times"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Iran",
-      "count": 111,
-      "url": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-2-week-ceasefire.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Us",
-      "count": 64,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/to-convince-americans-to-eat-fish-disguise-it-as-meat",
+      "url": "https://www.theguardian.com/us-news/2026/apr/08/ketamine-queen-matthew-perry-sentencing",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 25,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Israel",
-      "count": 22,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Uk",
-      "count": 15,
-      "url": "https://www.theguardian.com/world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Georgia",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/04/08/us/politics/georgia-wisconsin-elections-takeaways.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County",
-      "count": 14,
-      "url": "https://www.latimes.com/california/story/2026-04-01/la-county-student-homelessness-study",
-      "source": "LA Times"
-    },
-    {
-      "name": "California",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/04/07/us/elections/california-governor-mahan-donor-silicon-valley.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Hungary",
-      "count": 13,
-      "url": "https://www.theguardian.com/world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tehran",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/2026/apr/08/ceasefire-wins-trump-instant-gratification-but-iran-can-enter-talks-with-stronger-hand",
+      "name": "Jd Vance",
+      "count": 6,
+      "url": "https://www.theguardian.com/world/2026/apr/08/jd-vance-dismisses-claims-us-interfering-hungarian-election-budapest-viktor-orban",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Administration",
-      "count": 52,
-      "url": "https://www.theguardian.com/world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news",
-      "source": "The Guardian"
+      "name": "Target For Trump",
+      "count": 43,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     },
     {
       "name": "The White House",
-      "count": 14,
+      "count": 23,
       "url": "https://www.theguardian.com/education/ng-interactive/2026/apr/08/prageru-university-conservatism",
       "source": "The Guardian"
     },
@@ -144,33 +82,39 @@
       "source": "The Guardian"
     },
     {
-      "name": "Artemis Ii",
-      "count": 10,
-      "url": "https://www.theguardian.com/games/2026/apr/08/how-games-capture-the-humanity-in-the-loneliness-of-space-exploration",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian Newsroom",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/europe-lesson-donald-trump-era-us-sanity",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nasa",
-      "count": 9,
-      "url": "https://www.theguardian.com/music/2026/apr/08/what-does-the-dark-side-of-the-moon-sound-like-nasas-sonifications-are-helping-us-imagine",
-      "source": "The Guardian"
-    },
-    {
       "name": "Ai",
-      "count": 8,
+      "count": 10,
       "url": "https://www.theguardian.com/commentisfree/2026/apr/08/ai-chat-gpt-new-yorker-feature-sam-altman",
       "source": "The Guardian"
     },
     {
-      "name": "Ucla",
+      "name": "Michigan Senate",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/why-do-elite-democrats-fear-hasan-piker",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian Newsroom",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/europe-lesson-donald-trump-era-us-sanity",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Breaking News",
       "count": 8,
-      "url": "https://www.theguardian.com/sport/2026/apr/07/dawn-staley-geno-auriemma-statement-final-four-skirmish",
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/08/liberal-judge-chris-taylor-wisconsin-supreme-court-donald-trump-pete-hegseth-us-politics-latest",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Congress",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/trump-stepped-back-iran-threats-what-next",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Delta Air Lines",
+      "count": 8,
+      "url": "https://www.theguardian.com/business/2026/apr/08/delta-ceo-higher-fares-oil-prices-iran-war",
       "source": "The Guardian"
     },
     {
@@ -178,12 +122,68 @@
       "count": 8,
       "url": "https://www.theguardian.com/thefilter-us/2026/apr/05/best-usb-chargers",
       "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Iran",
+      "count": 98,
+      "url": "https://www.nytimes.com/2026/04/08/world/middleeast/iran-10-point-proposal-trump-us-ceasefire.html",
+      "source": "NY Times"
     },
     {
-      "name": "Cbs Mornings Deals",
-      "count": 8,
-      "url": "https://www.cbsnews.com/video/cbs-mornings-deals-040826/",
-      "source": "CBS News"
+      "name": "Us",
+      "count": 64,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/iran-crisis-ceasefire-friday-talks-islamabad-nuclear-programme",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 31,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Lebanon",
+      "count": 30,
+      "url": "https://www.theguardian.com/world/2026/apr/08/middle-east-ceasefire-doubt-israel-lebanon-iran-oil-tankers",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 29,
+      "url": "https://www.washingtonpost.com/immigration/2026/04/08/harvard-frog-embryo-scientist-visa/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "L.A. County",
+      "count": 14,
+      "url": "https://www.latimes.com/california/story/2026-04-01/la-county-student-homelessness-study",
+      "source": "LA Times"
+    },
+    {
+      "name": "Georgia",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/04/08/us/politics/georgia-wisconsin-elections-takeaways.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Tehran",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/08/liberal-judge-chris-taylor-wisconsin-supreme-court-donald-trump-pete-hegseth-us-politics-latest",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gilgo Beach",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/apr/08/rex-heuermann-gilgo-beach-killings-guilty-plea",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/apr/08/california-sheriff-election-ballots",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
@@ -194,22 +194,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Winter Olympics",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/apr/07/us-war-iran-sport-content-drone-racing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Iran War",
-      "count": 4,
-      "url": "https://www.cbsnews.com/news/iran-us-military-coffee-caffeine-operation-epic-fury/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Easter Sunday ‘",
+      "name": "World Series",
       "count": 2,
-      "url": "https://www.politico.com/news/2026/04/07/tucker-carlson-rips-donald-trump-easter-iran-truth-social-post-00861281",
-      "source": "Politico"
+      "url": "https://www.latimes.com/sports/story/2026-04-08/davey-lopes-obituary-dodgers-second-baseman-historic-infield-1981-world-series",
+      "source": "LA Times"
     },
     {
       "name": "Congressional District",
@@ -218,29 +206,41 @@
       "source": "NY Times"
     },
     {
+      "name": "Watergate",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/apr/08/trump-nixon-iran-madman-theory",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Bigger Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/live/2026/apr/08/paris-saint-germain-v-liverpool-champions-league-quarter-final-first-leg-live",
+      "source": "The Guardian"
+    },
+    {
       "name": "Boxing Day",
       "count": 1,
       "url": "https://www.theguardian.com/uk-news/2026/apr/08/surging-tool-thefts-leaving-tradespeople-penniless-afraid",
       "source": "The Guardian"
     },
     {
-      "name": "World Series",
+      "name": "Olympics",
       "count": 1,
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-04-08/yoshinobu-yamamoto-cy-young-doesnt-mesh-with-dodgers-plans",
+      "url": "https://www.latimes.com/california/story/2026-04-08/la28-olympics-tickets-buying-reactions",
       "source": "LA Times"
     },
     {
-      "name": "Operation Epic Fury",
+      "name": "The Iran War",
       "count": 1,
-      "url": "https://www.foxnews.com/world/evangelical-leaders-rally-trump-israel-operation-epic-fury-reshapes-region",
-      "source": "Fox News"
+      "url": "https://www.cbsnews.com/news/delta-bag-check-fee-jet-fuel-iran-war/",
+      "source": "CBS News"
     },
     {
-      "name": "The Jalisco New Generation Cartel",
+      "name": "Easter Sunday ‘",
       "count": 1,
-      "url": "https://www.cbsnews.com/news/california-man-cjng-cartel-el-mencho-pleads-guilty-us-conspiracy/",
-      "source": "CBS News"
+      "url": "https://www.politico.com/news/2026/04/07/tucker-carlson-rips-donald-trump-easter-iran-truth-social-post-00861281",
+      "source": "Politico"
     }
   ],
-  "updated": "2026-04-08T14:48:11Z"
+  "updated": "2026-04-08T20:00:07Z"
 };

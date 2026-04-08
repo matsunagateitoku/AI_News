@@ -2,163 +2,153 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "iran",
-    117,
-    "https://www.nytimes.com/2026/04/08/world/europe/iran-ceasefire-world-reaction.html"
+    101,
+    "https://www.nytimes.com/2026/04/08/world/middleeast/iran-10-point-proposal-trump-us-ceasefire.html"
   ],
   [
     "trump",
-    101,
-    "https://www.nytimes.com/2026/04/08/world/europe/iran-ceasefire-world-reaction.html"
+    79,
+    "https://www.nytimes.com/2026/04/08/world/middleeast/iran-10-point-proposal-trump-us-ceasefire.html"
   ],
   [
     "ceasefire",
-    58,
-    "https://www.theguardian.com/world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news"
-  ],
-  [
-    "president",
-    51,
-    "https://www.nytimes.com/2026/04/08/world/europe/iran-ceasefire-world-reaction.html"
+    53,
+    "https://www.theguardian.com/commentisfree/2026/apr/08/iran-crisis-ceasefire-friday-talks-islamabad-nuclear-programme"
   ],
   [
     "war",
-    40,
-    "https://www.nytimes.com/2026/04/08/world/europe/iran-ceasefire-world-reaction.html"
+    47,
+    "https://www.nytimes.com/2026/04/08/us/politics/trump-iran-goals.html"
   ],
   [
-    "media",
-    27,
-    "https://www.nytimes.com/2026/04/08/world/europe/greece-social-media-teens.html"
+    "president",
+    36,
+    "https://www.nytimes.com/2026/04/08/world/middleeast/iran-10-point-proposal-trump-us-ceasefire.html"
   ],
   [
     "israel",
-    26,
+    34,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "military",
-    22,
-    "https://www.nytimes.com/2026/04/07/us/politics/trump-budget-cuts.html"
-  ],
-  [
-    "social",
-    22,
-    "https://www.nytimes.com/2026/04/08/world/europe/greece-social-media-teens.html"
-  ],
-  [
-    "moon",
-    21,
-    "https://www.theguardian.com/games/2026/apr/08/how-games-capture-the-humanity-in-the-loneliness-of-space-exploration"
-  ],
-  [
-    "don",
-    20,
-    "https://www.nytimes.com/article/best-restaurants-boston.html"
+    "lebanon",
+    30,
+    "https://www.theguardian.com/world/2026/apr/08/middle-east-ceasefire-doubt-israel-lebanon-iran-oil-tankers"
   ],
   [
     "death",
+    29,
+    "https://www.nytimes.com/2026/04/08/arts/ketamine-queen-sentence-matthew-perry.html"
+  ],
+  [
+    "media",
+    25,
+    "https://www.theguardian.com/education/ng-interactive/2026/apr/08/prageru-university-conservatism"
+  ],
+  [
+    "election",
+    23,
+    "https://www.theguardian.com/world/2026/apr/08/jd-vance-dismisses-claims-us-interfering-hungarian-election-budapest-viktor-orban"
+  ],
+  [
+    "strait",
+    21,
+    "https://www.nytimes.com/2026/04/08/world/middleeast/iran-10-point-proposal-trump-us-ceasefire.html"
+  ],
+  [
+    "don",
+    21,
+    "https://www.nytimes.com/article/best-restaurants-boston.html"
+  ],
+  [
+    "party",
+    20,
+    "https://www.nytimes.com/article/best-restaurants-philadelphia.html"
+  ],
+  [
+    "york",
     20,
     "https://www.theguardian.com/stage/ng-interactive/2026/apr/08/nathan-lane-interview"
   ],
   [
-    "late",
+    "prices",
     19,
-    "https://www.nytimes.com/2026/04/08/arts/television/late-night-trump-iran.html"
+    "https://www.nytimes.com/2026/04/08/business/energy-environment/iran-war-oil-gas-prices-energy.html"
   ],
   [
-    "election",
+    "guilty",
     19,
-    "https://www.theguardian.com/us-news/live/2026/apr/08/liberal-judge-chris-taylor-wisconsin-supreme-court-donald-trump-pete-hegseth-us-politics-latest"
-  ],
-  [
-    "artemis",
-    19,
-    "https://www.theguardian.com/games/2026/apr/08/how-games-capture-the-humanity-in-the-loneliness-of-space-exploration"
-  ],
-  [
-    "night",
-    18,
-    "https://www.nytimes.com/2026/04/08/arts/television/late-night-trump-iran.html"
-  ],
-  [
-    "space",
-    18,
-    "https://www.theguardian.com/games/2026/apr/08/how-games-capture-the-humanity-in-the-loneliness-of-space-exploration"
-  ],
-  [
-    "health",
-    18,
-    "https://www.theguardian.com/society/ng-interactive/2026/apr/08/world-held-hostage-reliance-fossil-fuels-health-christiana-figueres"
-  ],
-  [
-    "strait",
-    17,
-    "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-2-week-ceasefire.html"
-  ],
-  [
-    "american",
-    17,
-    "https://www.washingtonpost.com/education/2026/04/08/student-athletes-have-better-attendance-study/"
-  ],
-  [
-    "power",
-    17,
-    "https://www.theguardian.com/world/2026/apr/08/ceasefire-wins-trump-instant-gratification-but-iran-can-enter-talks-with-stronger-hand"
-  ],
-  [
-    "expected",
-    17,
     "https://www.theguardian.com/us-news/2026/apr/08/ketamine-queen-matthew-perry-sentencing"
   ],
   [
-    "cbs",
-    17,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-04-06/byron-allen-comics-unleashed-will-replace-cbs-late-night-host-stephen-colbert"
-  ],
-  [
-    "taylor",
-    16,
-    "https://www.nytimes.com/2026/04/08/us/politics/georgia-wisconsin-elections-takeaways.html"
-  ],
-  [
-    "democrats",
-    16,
-    "https://www.nytimes.com/2026/04/08/us/politics/georgia-wisconsin-elections-takeaways.html"
-  ],
-  [
-    "side",
-    16,
-    "https://www.theguardian.com/stage/ng-interactive/2026/apr/08/nathan-lane-interview"
-  ],
-  [
-    "south",
-    16,
-    "https://www.theguardian.com/artanddesign/gallery/2026/apr/08/segregation-stories-gordon-parks-us-south-alabama"
-  ],
-  [
-    "almost",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/08/lib-dem-sue-miller-interview-nuclear-war-disarmament"
-  ],
-  [
-    "game",
-    16,
-    "https://www.theguardian.com/sport/2026/apr/08/braves-angels-fight-reynaldo-lopez-jorge-soler-haymakers"
+    "court",
+    19,
+    "https://www.theguardian.com/us-news/2026/apr/08/rex-heuermann-gilgo-beach-killings-guilty-plea"
   ],
   [
     "hormuz",
-    15,
-    "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-2-week-ceasefire.html"
+    18,
+    "https://www.nytimes.com/2026/04/08/world/middleeast/iran-10-point-proposal-trump-us-ceasefire.html"
   ],
   [
-    "near",
-    15,
-    "https://www.nytimes.com/2026/04/08/briefing/iran-cease-fire.html"
+    "country",
+    18,
+    "https://www.nytimes.com/2026/04/08/world/middleeast/iran-10-point-proposal-trump-us-ceasefire.html"
+  ],
+  [
+    "beach",
+    18,
+    "https://www.nytimes.com/2026/04/08/nyregion/rex-heuermann-gilgo-beach-profile.html"
+  ],
+  [
+    "israeli",
+    18,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "oil",
+    18,
+    "https://www.theguardian.com/world/2026/apr/08/middle-east-ceasefire-doubt-israel-lebanon-iran-oil-tankers"
+  ],
+  [
+    "democrats",
+    17,
+    "https://www.nytimes.com/2026/04/08/us/politics/georgia-wisconsin-elections-takeaways.html"
+  ],
+  [
+    "climate",
+    17,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/08/are-onlyfans-models-the-best-way-to-explain-the-climate-crisis"
+  ],
+  [
+    "donald",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/apr/08/iran-crisis-ceasefire-friday-talks-islamabad-nuclear-programme"
+  ],
+  [
+    "final",
+    16,
+    "https://www.theguardian.com/football/live/2026/apr/08/paris-saint-germain-v-liverpool-champions-league-quarter-final-first-leg-live"
   ],
   [
     "california",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/08/california-sheriff-election-ballots"
+  ],
+  [
+    "health",
+    16,
+    "https://www.theguardian.com/society/ng-interactive/2026/apr/08/world-held-hostage-reliance-fossil-fuels-health-christiana-figueres"
+  ],
+  [
+    "taylor",
     15,
-    "https://www.nytimes.com/2026/04/07/us/elections/california-governor-mahan-donor-silicon-valley.html"
+    "https://www.nytimes.com/2026/04/08/us/politics/georgia-wisconsin-elections-takeaways.html"
+  ],
+  [
+    "almost",
+    15,
+    "https://www.nytimes.com/2026/04/08/arts/music/wayne-perkins-dead.html"
   ],
   [
     "office",
@@ -171,54 +161,29 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "global",
+    "east",
     15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/commentisfree/2026/apr/08/iran-crisis-ceasefire-friday-talks-islamabad-nuclear-programme"
   ],
   [
-    "latest",
+    "announced",
     15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/world/2026/apr/08/debates-arguments-iranians-react-two-week-ceasefire"
   ],
   [
-    "love",
+    "night",
     15,
-    "https://www.theguardian.com/stage/ng-interactive/2026/apr/08/nathan-lane-interview"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/08/a-moment-that-changed-me-i-saw-a-big-cat-on-dartmoor-and-no-one-believed-me"
   ],
   [
-    "york",
+    "spring",
     15,
-    "https://www.theguardian.com/stage/ng-interactive/2026/apr/08/nathan-lane-interview"
+    "https://www.theguardian.com/sport/2026/apr/08/masters-golf-preview-masters-mania-augusta-tiger-woods"
   ],
   [
-    "family",
+    "south",
     15,
-    "https://www.theguardian.com/artanddesign/gallery/2026/apr/08/segregation-stories-gordon-parks-us-south-alabama"
-  ],
-  [
-    "donald",
-    15,
-    "https://www.theguardian.com/world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news"
-  ],
-  [
-    "far",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/08/new-york-mayor-zohran-mamdani-poll"
-  ],
-  [
-    "died",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/08/father-dies-saves-drowning-children-florida-beach"
-  ],
-  [
-    "daughter",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/08/father-dies-saves-drowning-children-florida-beach"
-  ],
-  [
-    "political",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/apr/07/the-guardian-view-on-north-korea-and-the-kims-whoevers-at-the-helm-the-regime-serves-only-itself"
+    "https://www.theguardian.com/sport/2026/apr/07/dawn-staley-geno-auriemma-statement-final-four-skirmish"
   ],
   [
     "guide",
@@ -226,114 +191,124 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/07/dyson-bissell-cordless-vacuum"
   ],
   [
-    "young",
+    "already",
     14,
-    "https://www.nytimes.com/2026/04/08/realestate/young-new-yorkers-construction-jobs.html"
+    "https://www.nytimes.com/2026/04/08/us/politics/trump-iran-goals.html"
   ],
   [
-    "country",
+    "something",
     14,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/04/08/business/energy-environment/iran-war-oil-gas-prices-energy.html"
   ],
   [
-    "really",
+    "gilgo",
     14,
-    "https://www.theguardian.com/commentisfree/2026/apr/08/to-convince-americans-to-eat-fish-disguise-it-as-meat"
+    "https://www.nytimes.com/2026/04/08/nyregion/rex-heuermann-gilgo-beach-profile.html"
   ],
   [
-    "threat",
+    "killed",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/08/lib-dem-sue-miller-interview-nuclear-war-disarmament"
+    "https://www.nytimes.com/2026/04/08/nyregion/gilgo-beach-victims.html"
   ],
   [
-    "oil",
+    "republican",
     14,
-    "https://www.theguardian.com/world/2026/apr/08/oil-prices-stock-today-futures-crude-donald-trump-iran-ceasefire"
-  ],
-  [
-    "prices",
-    14,
-    "https://www.theguardian.com/world/2026/apr/08/oil-prices-stock-today-futures-crude-donald-trump-iran-ceasefire"
-  ],
-  [
-    "guilty",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/08/ketamine-queen-matthew-perry-sentencing"
-  ],
-  [
-    "protein",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jan/28/best-protein-bars"
-  ],
-  [
-    "greene",
-    13,
     "https://www.nytimes.com/2026/04/08/us/politics/georgia-wisconsin-elections-takeaways.html"
   ],
   [
-    "food",
-    13,
-    "https://www.nytimes.com/article/best-restaurants-chicago.html"
-  ],
-  [
-    "released",
-    13,
-    "https://www.washingtonpost.com/education/2026/04/08/student-athletes-have-better-attendance-study/"
-  ],
-  [
-    "here's",
-    13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "today",
-    13,
-    "https://www.theguardian.com/stage/ng-interactive/2026/apr/08/nathan-lane-interview"
-  ],
-  [
-    "east",
-    13,
-    "https://www.theguardian.com/world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news"
-  ],
-  [
-    "hungary",
-    13,
-    "https://www.theguardian.com/world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates"
-  ],
-  [
     "because",
-    13,
-    "https://www.theguardian.com/world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates"
+    14,
+    "https://www.nytimes.com/2026/04/08/us/politics/pam-bondi-epstein-deposition.html"
   ],
   [
-    "enough",
-    13,
-    "https://www.theguardian.com/world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates"
+    "attacks",
+    14,
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "online",
+    "latest",
+    14,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "far",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/apr/08/iran-crisis-ceasefire-friday-talks-islamabad-nuclear-programme"
+  ],
+  [
+    "political",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/apr/08/iran-crisis-ceasefire-friday-talks-islamabad-nuclear-programme"
+  ],
+  [
+    "conflict",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/apr/08/iran-crisis-ceasefire-friday-talks-islamabad-nuclear-programme"
+  ],
+  [
+    "killing",
+    14,
+    "https://www.theguardian.com/world/2026/apr/08/middle-east-ceasefire-doubt-israel-lebanon-iran-oil-tankers"
+  ],
+  [
+    "social",
+    14,
+    "https://www.theguardian.com/us-news/live/2026/apr/08/liberal-judge-chris-taylor-wisconsin-supreme-court-donald-trump-pete-hegseth-us-politics-latest"
+  ],
+  [
+    "london",
+    14,
+    "https://www.theguardian.com/technology/2026/apr/08/british-computer-scientist-adam-back-denies-he-is-bitcoin-developer-satoshi-nakamoto"
+  ],
+  [
+    "won",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/08/father-dies-saves-drowning-children-florida-beach"
+    "https://www.nytimes.com/2026/04/08/business/energy-environment/iran-war-oil-gas-prices-energy.html"
+  ],
+  [
+    "family",
+    13,
+    "https://www.nytimes.com/2026/04/08/nyregion/rex-heuermann-gilgo-beach-profile.html"
+  ],
+  [
+    "queen",
+    13,
+    "https://www.nytimes.com/2026/04/08/arts/ketamine-queen-sentence-matthew-perry.html"
+  ],
+  [
+    "several",
+    13,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "change",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/apr/08/iran-crisis-ceasefire-friday-talks-islamabad-nuclear-programme"
   ],
   [
     "film",
     13,
-    "https://www.theguardian.com/film/2026/apr/08/death-of-mockumentary-genre-spinal-tap-charli-xcx-brat-movie-the-moment"
+    "https://www.theguardian.com/tv-and-radio/2026/apr/08/are-onlyfans-models-the-best-way-to-explain-the-climate-crisis"
   ],
   [
-    "something",
+    "tehran",
     13,
-    "https://www.theguardian.com/film/2026/apr/08/death-of-mockumentary-genre-spinal-tap-charli-xcx-brat-movie-the-moment"
+    "https://www.theguardian.com/us-news/live/2026/apr/08/liberal-judge-chris-taylor-wisconsin-supreme-court-donald-trump-pete-hegseth-us-politics-latest"
   ],
   [
-    "rise",
+    "game",
     13,
-    "https://www.theguardian.com/news/2026/apr/08/the-long-wave-anti-lgbtq-laws-africa-homosexuality-discrimination"
+    "https://www.theguardian.com/commentisfree/2026/apr/08/lebanon-gaza-healthcare-targeting-israeli-attacks"
   ],
   [
-    "london",
-    13,
-    "https://www.theguardian.com/music/2026/apr/08/the-sweaty-singular-indie-music-scene-of-early-00s-brighton"
+    "nuclear",
+    12,
+    "https://www.nytimes.com/2026/04/08/world/middleeast/iran-10-point-proposal-trump-us-ceasefire.html"
+  ],
+  [
+    "heuermann",
+    12,
+    "https://www.nytimes.com/2026/04/08/nyregion/rex-heuermann-gilgo-beach-profile.html"
   ],
   [
     "georgia",
@@ -341,9 +316,29 @@
     "https://www.nytimes.com/2026/04/08/us/politics/georgia-wisconsin-elections-takeaways.html"
   ],
   [
-    "won",
+    "greene",
     12,
     "https://www.nytimes.com/2026/04/08/us/politics/georgia-wisconsin-elections-takeaways.html"
+  ],
+  [
+    "bondi",
+    12,
+    "https://www.nytimes.com/2026/04/08/us/politics/pam-bondi-epstein-deposition.html"
+  ],
+  [
+    "general",
+    12,
+    "https://www.nytimes.com/2026/04/08/us/politics/pam-bondi-epstein-deposition.html"
+  ],
+  [
+    "longer",
+    12,
+    "https://www.nytimes.com/2026/04/08/us/politics/pam-bondi-epstein-deposition.html"
+  ],
+  [
+    "ketamine",
+    12,
+    "https://www.nytimes.com/2026/04/08/arts/ketamine-queen-sentence-matthew-perry.html"
   ],
   [
     "mamdani",
@@ -351,28 +346,33 @@
     "https://www.nytimes.com/2026/04/08/nyregion/mamdani-approval-rating.html"
   ],
   [
-    "job",
+    "middle",
     12,
-    "https://www.nytimes.com/2026/04/08/realestate/young-new-yorkers-construction-jobs.html"
+    "https://www.nytimes.com/2026/04/08/arts/television/frankie-muniz-malcolm-in-the-middle-revival.html"
   ],
   [
-    "working",
+    "released",
     12,
-    "https://www.nytimes.com/2026/04/08/world/europe/greece-social-media-teens.html"
+    "https://www.washingtonpost.com/education/2026/04/08/student-athletes-have-better-attendance-study/"
   ],
   [
-    "million",
+    "department",
     12,
-    "https://www.nytimes.com/2026/04/07/us/elections/california-governor-mahan-donor-silicon-valley.html"
+    "https://www.washingtonpost.com/education/2026/04/06/education-department-transgender-settlements/"
   ],
   [
-    "little",
+    "investigation",
     12,
-    "https://www.washingtonpost.com/immigration/2026/04/05/noem-trump-dhs-fema-contracts/"
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
   ],
   [
-    "nuclear",
+    "actor",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/08/lib-dem-sue-miller-interview-nuclear-war-disarmament"
+    "https://www.theguardian.com/tv-and-radio/2026/apr/08/are-onlyfans-models-the-best-way-to-explain-the-climate-crisis"
+  ],
+  [
+    "updates",
+    12,
+    "https://www.theguardian.com/world/2026/apr/08/middle-east-ceasefire-doubt-israel-lebanon-iran-oil-tankers"
   ]
 ];
