@@ -2,318 +2,298 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    82,
-    "https://www.nytimes.com/2026/04/08/us/politics/chaos-cease-fire-iran.html"
+    81,
+    "https://www.nytimes.com/2026/04/09/us/politics/trump-miller-immigration-judges-purge.html"
   ],
   [
     "iran",
-    80,
+    77,
     "https://www.nytimes.com/2026/04/08/us/politics/iran-ceasefire-talks-jd-vance.html"
   ],
   [
     "war",
-    56,
-    "https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-voices.html"
-  ],
-  [
-    "president",
-    41,
-    "https://www.nytimes.com/2026/04/08/us/politics/iran-ceasefire-talks-jd-vance.html"
+    51,
+    "https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html"
   ],
   [
     "ceasefire",
-    41,
+    46,
     "https://www.theguardian.com/commentisfree/2026/apr/09/iran-is-a-turning-point-for-europes-liberation-from-donald-trump"
   ],
   [
-    "death",
-    26,
-    "https://www.nytimes.com/2026/04/08/us/politics/trump-transgender-los-angeles-schools.html"
+    "president",
+    37,
+    "https://www.nytimes.com/2026/04/08/us/politics/iran-ceasefire-talks-jd-vance.html"
+  ],
+  [
+    "school",
+    29,
+    "https://www.washingtonpost.com/nation/2026/04/09/texas-muslims-terrorism-education/"
   ],
   [
     "israel",
-    26,
+    25,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "wife",
-    25,
-    "https://www.nytimes.com/2026/04/08/us/hawaii-doctor-hiking-murder-trial-verdict.html"
+    "lebanon",
+    24,
+    "https://www.theguardian.com/world/live/2026/apr/09/iran-war-ceasefire-live-strait-of-hormuz-israel-strikes-middle-east-crisis-latest-news"
   ],
   [
-    "family",
-    23,
-    "https://www.theguardian.com/education/ng-interactive/2026/apr/08/prageru-university-conservatism"
+    "latest",
+    22,
+    "https://www.nytimes.com/2026/04/09/podcasts/the-headlines/cease-fire-ketamine-matthew-perry.html"
   ],
   [
-    "guilty",
+    "death",
+    22,
+    "https://www.theguardian.com/commentisfree/2026/apr/09/how-to-beat-trump-iran-minneapolis-harvard"
+  ],
+  [
+    "east",
     21,
-    "https://www.nytimes.com/2026/04/08/nyregion/fbi-behavioral-analysis-unit-gilgo-beach.html"
+    "https://www.nytimes.com/2026/04/08/world/asia/vietnam-rice-food-shortage-iran-war.html"
   ],
   [
     "don",
     21,
-    "https://www.theguardian.com/world/2026/apr/09/korean-fried-chicken"
+    "https://www.theguardian.com/fashion/2026/apr/09/from-fat-transplants-to-led-mittens-how-the-fear-of-old-lady-hands-mobilised-the-beauty-industry"
   ],
   [
-    "lebanon",
-    21,
-    "https://www.theguardian.com/world/live/2026/apr/09/iran-war-ceasefire-live-strait-of-hormuz-israel-strikes-middle-east-crisis-latest-news"
-  ],
-  [
-    "american",
+    "california",
     20,
-    "https://www.nytimes.com/2026/04/08/sports/jim-whittaker-dead.html"
-  ],
-  [
-    "school",
-    19,
-    "https://www.nytimes.com/2026/04/08/us/politics/trump-transgender-los-angeles-schools.html"
-  ],
-  [
-    "york",
-    19,
-    "https://www.washingtonpost.com/nation/2026/04/08/gilgo-beach-guilty-eight-killings/"
-  ],
-  [
-    "arrested",
-    18,
-    "https://www.washingtonpost.com/nation/2026/04/08/gilgo-beach-guilty-eight-killings/"
-  ],
-  [
-    "prices",
-    18,
-    "https://www.theguardian.com/global-development/2026/apr/09/delhi-india-gas-energy-crisis-migrant-workers-leave"
-  ],
-  [
-    "already",
-    17,
-    "https://www.nytimes.com/2026/04/08/us/politics/iran-ceasefire-talks-jd-vance.html"
-  ],
-  [
-    "israeli",
-    17,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "oil",
-    17,
-    "https://www.theguardian.com/world/live/2026/apr/09/iran-war-ceasefire-live-strait-of-hormuz-israel-strikes-middle-east-crisis-latest-news"
-  ],
-  [
-    "accused",
-    17,
-    "https://www.theguardian.com/us-news/2026/apr/08/rex-heuermann-gilgo-beach-killings-guilty-plea"
-  ],
-  [
-    "epstein",
-    16,
-    "https://www.nytimes.com/2026/04/08/us/politics/pam-bondi-epstein-deposition.html"
-  ],
-  [
-    "court",
-    16,
-    "https://www.nytimes.com/2026/04/08/technology/anthropic-pentagon-risk-circuit-court.html"
-  ],
-  [
-    "power",
-    16,
-    "https://www.nytimes.com/2026/04/09/us/phoenix-salt-river-project-election-results.html"
-  ],
-  [
-    "because",
-    15,
-    "https://www.nytimes.com/2026/04/08/us/politics/pam-bondi-epstein-deposition.html"
-  ],
-  [
-    "political",
-    15,
-    "https://www.nytimes.com/2026/04/08/style/hasan-piker-abdul-el-sayed-michigan.html"
-  ],
-  [
-    "doctor",
-    15,
-    "https://www.nytimes.com/2026/04/08/us/hawaii-doctor-hiking-murder-trial-verdict.html"
-  ],
-  [
-    "crisis",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "london",
-    15,
-    "https://www.theguardian.com/world/2026/apr/09/i-had-poked-the-bear-right-in-the-eye-my-fight-to-renounce-my-russian-citizenship"
-  ],
-  [
-    "south",
-    15,
-    "https://www.theguardian.com/world/2026/apr/09/korean-fried-chicken"
-  ],
-  [
-    "east",
-    15,
-    "https://www.theguardian.com/world/2026/apr/09/korean-fried-chicken"
-  ],
-  [
-    "announced",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/08/fbi-arrests-ex-military-employee"
-  ],
-  [
-    "change",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/08/trust-me-the-false-prophet-cult-docuseries-mormon"
-  ],
-  [
-    "artemis",
-    15,
-    "https://www.theguardian.com/science/audio/2026/apr/09/everything-you-need-to-know-about-artemis-ii-so-far-podcast"
+    "https://www.nytimes.com/2026/04/09/science/space/nasa-artemis-moon-astronauts-return.html"
   ],
   [
     "fire",
-    14,
+    19,
     "https://www.nytimes.com/2026/04/08/us/politics/iran-ceasefire-talks-jd-vance.html"
   ],
   [
     "media",
-    14,
-    "https://www.nytimes.com/2026/04/08/us/politics/trump-truth-social-iran.html"
+    19,
+    "https://www.nytimes.com/2026/04/09/podcasts/the-headlines/cease-fire-ketamine-matthew-perry.html"
   ],
   [
-    "charged",
-    14,
-    "https://www.nytimes.com/2026/04/08/arts/ketamine-queen-sentence-matthew-perry.html"
+    "middle",
+    19,
+    "https://www.nytimes.com/2026/04/08/world/asia/vietnam-rice-food-shortage-iran-war.html"
   ],
   [
-    "team",
-    14,
-    "https://www.nytimes.com/2026/04/09/us/phoenix-salt-river-project-election-results.html"
+    "guilty",
+    19,
+    "https://www.nytimes.com/2026/04/08/nyregion/fbi-behavioral-analysis-unit-gilgo-beach.html"
   ],
   [
-    "attempted",
-    14,
-    "https://www.nytimes.com/2026/04/08/us/hawaii-doctor-hiking-murder-trial-verdict.html"
-  ],
-  [
-    "military",
-    14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "power",
+    18,
+    "https://www.nytimes.com/2026/04/08/world/asia/vietnam-rice-food-shortage-iran-war.html"
   ],
   [
     "donald",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/apr/09/iran-is-a-turning-point-for-europes-liberation-from-donald-trump"
+    18,
+    "https://www.theguardian.com/artanddesign/2026/apr/09/christopher-anderson-photographer-interview-index-jeffrey-epstein-trump-cabinet"
+  ],
+  [
+    "strait",
+    17,
+    "https://www.nytimes.com/2026/04/09/business/iran-strait-of-hormuz-what-to-know.html"
+  ],
+  [
+    "social",
+    17,
+    "https://www.nytimes.com/2026/04/09/podcasts/the-headlines/cease-fire-ketamine-matthew-perry.html"
   ],
   [
     "climate",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/08/are-onlyfans-models-the-best-way-to-explain-the-climate-crisis"
+    17,
+    "https://www.nytimes.com/2026/04/09/climate/climate-change-deniers-trump.html"
   ],
   [
-    "strikes",
-    14,
-    "https://www.theguardian.com/world/2026/apr/09/us-ignoring-evidence-russia-is-helping-iran-because-it-trusts-putin-says-zelenskyy"
+    "york",
+    17,
+    "https://www.nytimes.com/2026/04/09/insider/synthetic-illegal-drug-trade-journalist.html"
   ],
   [
-    "kill",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/08/hawaii-doctor-wife-murder-guilty-attempted-manslaughter"
+    "prices",
+    17,
+    "https://www.nytimes.com/2026/04/08/world/asia/vietnam-rice-food-shortage-iran-war.html"
   ],
   [
-    "california",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/08/los-angeles-teen-eye-no-kings-march"
+    "game",
+    17,
+    "https://www.nytimes.com/2026/04/09/arts/design/marcel-duchamp-moma-review.html"
   ],
   [
-    "florida",
+    "family",
+    17,
+    "https://www.theguardian.com/global-development/2026/apr/09/gaza-amputees-stranded-in-egypt-life-changing-injuries"
+  ],
+  [
+    "already",
+    16,
+    "https://www.nytimes.com/2026/04/08/us/politics/iran-ceasefire-talks-jd-vance.html"
+  ],
+  [
+    "change",
+    16,
+    "https://www.nytimes.com/2026/04/09/climate/climate-change-deniers-trump.html"
+  ],
+  [
+    "artemis",
+    16,
+    "https://www.nytimes.com/2026/04/09/science/nasa-artemis-ii-earth-return-heat-shield.html"
+  ],
+  [
+    "american",
+    16,
+    "https://www.washingtonpost.com/obituaries/2026/04/08/jim-whittaker-dead-mount-everest/"
+  ],
+  [
+    "london",
+    16,
+    "https://www.theguardian.com/world/2026/apr/09/i-had-poked-the-bear-right-in-the-eye-my-fight-to-renounce-my-russian-citizenship"
+  ],
+  [
+    "israeli",
+    15,
+    "https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html"
+  ],
+  [
+    "ice",
+    15,
+    "https://www.nytimes.com/2026/04/09/us/ice-detention-center-tremont-pennsylvania-dhs.html"
+  ],
+  [
+    "because",
+    15,
+    "https://www.nytimes.com/2026/04/09/us/fertility-rates-decline.html"
+  ],
+  [
+    "price",
+    15,
+    "https://www.nytimes.com/2026/04/09/opinion/iran-war-families-affordability-trump.html"
+  ],
+  [
+    "black",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/apr/09/black-women-c-sections-florida"
+  ],
+  [
+    "crisis",
+    14,
+    "https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html"
+  ],
+  [
+    "food",
+    14,
+    "https://www.nytimes.com/2026/04/09/business/ube-flavor.html"
+  ],
+  [
+    "court",
+    14,
+    "https://www.washingtonpost.com/nation/2026/04/08/gilgo-beach-guilty-eight-killings/"
+  ],
+  [
+    "epstein",
     14,
     "https://www.theguardian.com/artanddesign/2026/apr/09/christopher-anderson-photographer-interview-index-jeffrey-epstein-trump-cabinet"
   ],
   [
-    "longer",
-    13,
-    "https://www.nytimes.com/2026/04/08/us/politics/pam-bondi-epstein-deposition.html"
+    "case",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/apr/09/black-women-c-sections-florida"
   ],
   [
-    "child",
-    13,
-    "https://www.nytimes.com/2026/04/08/us/politics/trump-transgender-los-angeles-schools.html"
+    "film",
+    14,
+    "https://www.theguardian.com/film/2026/apr/09/paul-dano-interview-wizard-of-the-kremlin"
   ],
   [
-    "manslaughter",
+    "country",
     13,
-    "https://www.nytimes.com/2026/04/08/us/hawaii-doctor-hiking-murder-trial-verdict.html"
+    "https://www.nytimes.com/2026/04/09/podcasts/the-headlines/cease-fire-ketamine-matthew-perry.html"
   ],
   [
-    "police",
+    "accused",
     13,
-    "https://www.nytimes.com/2026/04/08/us/martin-gugino-dead-buffalo-police.html"
+    "https://www.nytimes.com/2026/04/09/us/army-leaker-fbi-arrest-courtney-williams.html"
   ],
   [
-    "nato",
+    "series",
     13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/04/09/insider/synthetic-illegal-drug-trade-journalist.html"
   ],
   [
-    "past",
+    "today",
     13,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.nytimes.com/2026/04/09/arts/design/marcel-duchamp-moma-review.html"
   ],
   [
-    "far",
+    "russian",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/08/ketamine-queen-matthew-perry-sentencing"
+    "https://www.nytimes.com/2026/04/09/world/europe/uk-russia-submarines-cables.html"
   ],
   [
-    "trying",
+    "arrested",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/08/hawaii-doctor-wife-murder-guilty-attempted-manslaughter"
+    "https://www.washingtonpost.com/nation/2026/04/08/gilgo-beach-guilty-eight-killings/"
   ],
   [
-    "employee",
+    "spent",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/08/fbi-arrests-ex-military-employee"
+    "https://www.washingtonpost.com/immigration/2026/04/08/harvard-frog-embryo-scientist-visa/"
   ],
   [
-    "allegedly",
+    "morning",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/08/fbi-arrests-ex-military-employee"
+    "https://www.theguardian.com/world/2026/apr/09/i-had-poked-the-bear-right-in-the-eye-my-fight-to-renounce-my-russian-citizenship"
   ],
   [
-    "children",
+    "strikes",
     13,
-    "https://www.theguardian.com/global-development/2026/apr/09/gaza-amputees-stranded-in-egypt-life-changing-injuries"
+    "https://www.theguardian.com/world/live/2026/apr/09/iran-war-ceasefire-live-strait-of-hormuz-israel-strikes-middle-east-crisis-latest-news"
   ],
   [
-    "final",
+    "oil",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/09/ai-diy-home"
+    "https://www.theguardian.com/world/live/2026/apr/09/iran-war-ceasefire-live-strait-of-hormuz-israel-strikes-middle-east-crisis-latest-news"
   ],
   [
     "feel",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/09/ai-diy-home"
+    "https://www.theguardian.com/world/2026/apr/09/lebanon-beirut-israel-strikes-hundreds-killed"
   ],
   [
-    "mission",
+    "video",
     13,
-    "https://www.theguardian.com/science/audio/2026/apr/09/everything-you-need-to-know-about-artemis-ii-so-far-podcast"
+    "https://www.theguardian.com/us-news/2026/apr/09/jdl-613-jewish-extremist-organization"
+  ],
+  [
+    "announced",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/08/fbi-arrests-ex-military-employee"
   ],
   [
     "spring",
     13,
-    "https://www.theguardian.com/environment/2026/apr/08/britain-breaks-solar-energy-record-twice-uk-biggest-solar-farm-springwell-approval"
+    "https://www.theguardian.com/world/2026/apr/09/ukraine-ceasefire-us-security-guarantees-fade-casualties-russia"
   ],
   [
-    "fragile",
-    12,
-    "https://www.nytimes.com/2026/04/08/us/politics/chaos-cease-fire-iran.html"
+    "actor",
+    13,
+    "https://www.theguardian.com/film/2026/apr/09/george-clooney-trump-civilisation-will-die-tonight-war-crime-comments"
   ],
   [
-    "killed",
+    "health",
+    13,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/09/rfk-jr-mississippi-rollback-school-vaccine-rules"
+  ],
+  [
+    "little",
     12,
-    "https://www.nytimes.com/2026/04/08/nyregion/gilgo-beach-heuermann-courtroom-strangulation.html"
+    "https://www.nytimes.com/2026/04/09/business/ube-flavor.html"
   ],
   [
     "european",
@@ -321,39 +301,19 @@
     "https://www.nytimes.com/2026/04/08/us/politics/white-house-foreign-steel-ballroom.html"
   ],
   [
-    "bondi",
+    "business",
     12,
-    "https://www.nytimes.com/2026/04/08/us/politics/pam-bondi-epstein-deposition.html"
+    "https://www.nytimes.com/2026/04/08/nyregion/mamdani-jobs-economy-interview.html"
   ],
   [
-    "attorney",
+    "early",
     12,
-    "https://www.nytimes.com/2026/04/08/us/politics/pam-bondi-epstein-deposition.html"
+    "https://www.nytimes.com/2026/04/09/us/the-first-race-of-the-la-olympics-buying-tickets.html"
   ],
   [
-    "general",
+    "judge",
     12,
-    "https://www.nytimes.com/2026/04/08/us/politics/pam-bondi-epstein-deposition.html"
-  ],
-  [
-    "department",
-    12,
-    "https://www.nytimes.com/2026/04/08/technology/anthropic-pentagon-risk-circuit-court.html"
-  ],
-  [
-    "democrats",
-    12,
-    "https://www.nytimes.com/2026/04/08/style/hasan-piker-abdul-el-sayed-michigan.html"
-  ],
-  [
-    "moon",
-    12,
-    "https://www.nytimes.com/2026/04/08/opinion/nasa-climate-science-earth.html"
-  ],
-  [
-    "hawaii",
-    12,
-    "https://www.nytimes.com/2026/04/08/us/hawaii-doctor-hiking-murder-trial-verdict.html"
+    "https://www.washingtonpost.com/immigration/2026/04/08/harvard-frog-embryo-scientist-visa/"
   ],
   [
     "released",
@@ -361,18 +321,58 @@
     "https://www.washingtonpost.com/education/2026/04/08/student-athletes-have-better-attendance-study/"
   ],
   [
-    "latest",
+    "whose",
     12,
     "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "kitchen",
+    "didn",
     12,
-    "https://www.theguardian.com/world/2026/apr/09/korean-fried-chicken"
+    "https://www.theguardian.com/artanddesign/2026/apr/09/christopher-anderson-photographer-interview-index-jeffrey-epstein-trump-cabinet"
   ],
   [
-    "threat",
+    "wife",
     12,
-    "https://www.theguardian.com/commentisfree/2026/apr/09/iran-is-a-turning-point-for-europes-liberation-from-donald-trump"
+    "https://www.theguardian.com/us-news/2026/apr/08/hawaii-doctor-wife-murder-guilty-attempted-manslaughter"
+  ],
+  [
+    "protein",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/jan/28/best-protein-bars"
+  ],
+  [
+    "red",
+    11,
+    "https://www.nytimes.com/2026/04/09/us/ice-detention-center-tremont-pennsylvania-dhs.html"
+  ],
+  [
+    "nearly",
+    11,
+    "https://www.nytimes.com/2026/04/09/us/ice-detention-center-tremont-pennsylvania-dhs.html"
+  ],
+  [
+    "economic",
+    11,
+    "https://www.nytimes.com/2026/04/08/nyregion/mamdani-jobs-economy-interview.html"
+  ],
+  [
+    "buying",
+    11,
+    "https://www.nytimes.com/2026/04/09/us/the-first-race-of-the-la-olympics-buying-tickets.html"
+  ],
+  [
+    "sea",
+    11,
+    "https://www.nytimes.com/2026/04/09/climate/emperor-penguins-iucn-red-list.html"
+  ],
+  [
+    "secretary",
+    11,
+    "https://www.nytimes.com/2026/04/09/world/europe/uk-russia-submarines-cables.html"
+  ],
+  [
+    "military",
+    11,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ]
 ];
