@@ -3,161 +3,173 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 71,
-      "url": "https://www.theguardian.com/film/2026/apr/10/im-not-a-commercial-director-im-not-even-a-professional-film-maker-jim-jarmusch-on-the-seven-year-journey-to-make-his-new-film",
+      "count": 72,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/10/pete-hegseth-christianity-iran-war-crusade",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 54,
-      "url": "https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html",
+      "count": 63,
+      "url": "https://www.nytimes.com/2026/04/10/business/energy-environment/iran-oil-prices.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/04/10/world/middleeast/strait-hormuz-iran-ships-oil.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 30,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/california-felony-charges-hospice-scheme",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 29,
-      "url": "https://www.washingtonpost.com/nation/2026/04/09/fertility-birth-rate-low/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Lebanon",
-      "count": 22,
-      "url": "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah",
-      "source": "The Guardian"
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/04/10/us/san-francisco-ballot-signatures-california-masks.html",
+      "source": "NY Times"
     },
     {
       "name": "Israel",
-      "count": 18,
+      "count": 21,
       "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Russia",
-      "count": 16,
-      "url": "https://www.theguardian.com/world/2026/apr/10/cuban-president-tells-nbc-he-wont-resign-under-us-pressure-as-russia-backs-old-ally",
+      "name": "Pakistan",
+      "count": 15,
+      "url": "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah",
       "source": "The Guardian"
     },
     {
-      "name": "L.A. County",
+      "name": "Russia",
       "count": 14,
-      "url": "https://www.latimes.com/food/story/2026-04-07/prosperity-market-launches-mobile-trailer-uplifting-black-farmers-brands",
-      "source": "LA Times"
-    },
-    {
-      "name": "Ukraine",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/04/09/world/europe/russia-ukraine-cease-fire.html",
+      "url": "https://www.nytimes.com/2026/04/10/world/europe/russia-north-korea.html",
       "source": "NY Times"
     },
     {
       "name": "Texas",
-      "count": 11,
+      "count": 12,
       "url": "https://www.washingtonpost.com/nation/2026/04/09/texas-muslims-terrorism-education/",
       "source": "Washington Post"
+    },
+    {
+      "name": "New York City’S",
+      "count": 12,
+      "url": "https://www.theguardian.com/books/2026/apr/10/go-gentle-by-maria-semple-review-a-joyfully-clever-new-york-romcom",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Taiwan",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/04/10/world/asia/taiwan-china-xi-cheng.html",
+      "source": "NY Times"
     }
   ],
-  "ORG": [
+  "EVENT": [
     {
-      "name": "Target For Trump",
-      "count": 41,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Artemis Ii",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/04/09/science/nasa-artemis-ii-earth-return-heat-shield.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Pentagon",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/04/09/business/media/judge-hegseth-pentagon-reporters-rules.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ai",
-      "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
+      "name": "Women’S World Cup",
       "count": 10,
-      "url": "https://www.theguardian.com/film/2026/apr/09/george-clooney-trump-civilisation-will-die-tonight-war-crime-comments",
+      "url": "https://www.theguardian.com/football/2026/apr/10/womens-world-cup-2031-host-cities-fifa-concerns",
       "source": "The Guardian"
     },
     {
-      "name": "White House Surprise",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/04/10/arts/television/jimmy-kimmel-melania-epstein.html",
+      "name": "The Iran War",
+      "count": 5,
+      "url": "https://www.theguardian.com/world/2026/apr/10/ukraine-war-briefing-first-official-ceasefire-agreed-after-zelenskyy-push-succeeds",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/04/10/travel/tsa-lines-shutdown-pay-world-cup.html",
       "source": "NY Times"
     },
     {
-      "name": "Nato",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "source": "Wall St. Journal"
+      "name": "Cold War",
+      "count": 2,
+      "url": "https://www.foxnews.com/travel/cold-war-bunker-waiting-armageddon-found-beneath-medieval-castle-perfect-location",
+      "source": "Fox News"
     },
     {
-      "name": "Congress",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/melania-trump-jeffrey-epstein",
+      "name": "Iran War Drives Deeper Oil Shock Than Prices Reveal",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/04/10/business/energy-environment/iran-oil-prices.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran Setting Limits",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/04/10/world/middleeast/strait-hormuz-iran-ships-oil.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "World War Ii",
+      "count": 1,
+      "url": "https://www.washingtonpost.com/lifestyle/2026/04/10/crossing-guard-diva-paulette-dorflaufer/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "National Action Network",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/democrats-national-action-cetwork-convention-2026-midterms",
       "source": "The Guardian"
     },
     {
-      "name": "Breaking News",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/melania-trump-jeffrey-epstein",
+      "name": "Easter Sunday Morning",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/california-traffic-stop-homicide-victims",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cup    Bid",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/apr/10/womens-world-cup-2031-host-cities-fifa-concerns",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Melania Trump",
-      "count": 22,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/melania-trump-jeffrey-epstein",
+      "count": 20,
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/10/donald-trump-melania-jeffrey-epstein-iran-inflation-latest-news-updates",
       "source": "The Guardian"
     },
     {
-      "name": "Vladimir Putin",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/04/10/opinion/putin-russia-iran.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Jeffrey Epstein",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Donald Trump",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/04/10/world/asia/taiwan-china-xi-cheng.html",
-      "source": "NY Times"
+      "count": 16,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/10/pete-hegseth-defense-secretary",
+      "source": "The Guardian"
     },
     {
-      "name": "Viktor Orbán",
-      "count": 13,
+      "name": "Jd Vance",
+      "count": 11,
       "url": "https://www.theguardian.com/us-news/2026/apr/09/jd-vance-claims-orban-eu-hungary-election-fact-checked",
       "source": "The Guardian"
     },
     {
-      "name": "Afrika Bambaataa",
+      "name": "Vladimir Putin",
       "count": 9,
+      "url": "https://www.theguardian.com/politics/2026/apr/10/starmer-fed-up-trump-uk-politics",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Viktor Orbán",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/jd-vance-claims-orban-eu-hungary-election-fact-checked",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Xi Jinping",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/04/10/world/asia/taiwan-china-xi-cheng.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Afrika Bambaataa",
+      "count": 7,
       "url": "https://www.nytimes.com/2026/04/09/arts/music/afrika-bambaataa-dead.html",
       "source": "NY Times"
     },
@@ -168,85 +180,73 @@
       "source": "NY Times"
     },
     {
-      "name": "David Geffen Galleries",
-      "count": 6,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-04-08/lacma-david-geffen-galleries-cost-price-how-was-money-spent",
-      "source": "LA Times"
-    },
-    {
-      "name": "Biden",
+      "name": "Cheng Li-Wun",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/epa-toxic-coal-ash-rollback-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Zohran Mamdani",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/jdl-613-jewish-extremist-organization",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/04/10/world/asia/taiwan-china-xi-cheng.html",
+      "source": "NY Times"
     }
   ],
-  "EVENT": [
+  "ORG": [
     {
-      "name": "The Iran War",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html",
+      "name": "Trump Administration Returns To Court",
+      "count": 54,
+      "url": "https://www.nytimes.com/2026/04/10/business/trump-tariffs-lawsuit-hearing.html",
       "source": "NY Times"
     },
     {
-      "name": "World Cup",
-      "count": 6,
-      "url": "https://www.theguardian.com/football/2026/apr/09/julian-alvarez-is-proving-that-hes-more-than-second-fiddle",
+      "name": "Artemis Ii Prepares Its Return From Historic Moon Mission",
+      "count": 21,
+      "url": "https://www.today.com/video/artemis-ii-astronauts-prepare-for-splashdown-after-historic-mission-261082181823",
+      "source": "NBC News"
+    },
+    {
+      "name": "Ai Can&Apos;T",
+      "count": 15,
+      "url": "https://www.foxnews.com/tech/ai-newsletter-lowes-250m-bet-blue-collar-jobs-ai-cant",
+      "source": "Fox News"
+    },
+    {
+      "name": "Congress",
+      "count": 13,
+      "url": "https://www.theguardian.com/world/2026/apr/10/yassamin-ansari-representative-congress-iran-trump",
       "source": "The Guardian"
     },
     {
-      "name": "National Action Network",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/democrats-national-action-cetwork-convention-2026-midterms",
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "La Rioja •",
-      "count": 1,
-      "url": "https://www.theguardian.com/travel/2026/apr/10/spain-hidden-gems-holidays",
+      "name": "Guardian News",
+      "count": 10,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
-      "name": "The Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/apr/09/michael-jordan-nascar-23xi-racing-success",
+      "name": "Eu",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/jd-vance-claims-orban-eu-hungary-election-fact-checked",
       "source": "The Guardian"
     },
     {
-      "name": "The Fa Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/apr/10/premier-league-10-things-to-look-out-for-this-weekend",
+      "name": "Gop Senate",
+      "count": 9,
+      "url": "https://www.politico.com/news/2026/04/02/georgia-senate-ossoff-trump-republicans-00854884",
+      "source": "Politico"
+    },
+    {
+      "name": "Breaking News",
+      "count": 8,
+      "url": "https://www.theguardian.com/world/2026/apr/10/yassamin-ansari-representative-congress-iran-trump",
       "source": "The Guardian"
     },
     {
-      "name": "Easter Sunday Morning",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/california-traffic-stop-homicide-victims",
+      "name": "Usb",
+      "count": 8,
+      "url": "https://www.theguardian.com/thefilter-us/2026/apr/05/best-usb-chargers",
       "source": "The Guardian"
-    },
-    {
-      "name": "The Korean War",
-      "count": 1,
-      "url": "https://www.theguardian.com/world/2026/apr/09/korean-fried-chicken",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Boxing Day",
-      "count": 1,
-      "url": "https://www.theguardian.com/uk-news/2026/apr/08/surging-tool-thefts-leaving-tradespeople-penniless-afraid",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Olympic",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-04-09/los-angeles-officials-raise-alarms-over-crippling-summer-olympics-costs",
-      "source": "LA Times"
     }
   ],
-  "updated": "2026-04-10T08:22:52Z"
+  "updated": "2026-04-10T14:19:02Z"
 };
