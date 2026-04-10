@@ -2,63 +2,58 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    97,
+    99,
     "https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html"
   ],
   [
     "iran",
-    77,
+    68,
     "https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html"
   ],
   [
     "war",
-    50,
+    52,
+    "https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html"
+  ],
+  [
+    "president",
+    49,
     "https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html"
   ],
   [
     "ceasefire",
-    40,
+    35,
     "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah"
   ],
   [
-    "president",
-    39,
-    "https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html"
-  ],
-  [
     "california",
-    37,
+    32,
     "https://www.theguardian.com/us-news/2026/apr/09/california-felony-charges-hospice-scheme"
   ],
   [
-    "lebanon",
-    29,
-    "https://www.nytimes.com/2026/04/09/briefing/israel-agrees-to-hold-talks-with-lebanon.html"
-  ],
-  [
-    "epstein",
-    27,
-    "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html"
-  ],
-  [
-    "israel",
-    25,
-    "https://www.nytimes.com/2026/04/09/briefing/israel-agrees-to-hold-talks-with-lebanon.html"
-  ],
-  [
-    "artemis",
-    25,
-    "https://www.nytimes.com/2026/04/09/science/nasa-artemis-ii-earth-return-heat-shield.html"
-  ],
-  [
     "york",
-    24,
+    27,
     "https://www.nytimes.com/2026/04/09/business/media/judge-hegseth-pentagon-reporters-rules.html"
   ],
   [
-    "power",
-    20,
-    "https://www.theguardian.com/fashion/2026/apr/09/anna-wintours-vogue-cover-is-more-than-a-cameo-its-a-power-play"
+    "artemis",
+    26,
+    "https://www.nytimes.com/2026/04/09/science/nasa-artemis-ii-earth-return-heat-shield.html"
+  ],
+  [
+    "epstein",
+    24,
+    "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html"
+  ],
+  [
+    "country",
+    24,
+    "https://www.nytimes.com/2026/04/09/world/americas/venezuela-mining-us.html"
+  ],
+  [
+    "lebanon",
+    22,
+    "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah"
   ],
   [
     "judge",
@@ -66,64 +61,119 @@
     "https://www.nytimes.com/2026/04/09/business/media/judge-hegseth-pentagon-reporters-rules.html"
   ],
   [
-    "death",
+    "political",
     19,
-    "https://www.nytimes.com/2026/04/09/theater/death-of-a-salesman-review-broadway-lane-metcalf.html"
+    "https://www.washingtonpost.com/nation/2026/04/09/fertility-birth-rate-low/"
+  ],
+  [
+    "israel",
+    19,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "because",
+    19,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/09/experience-my-house-was-taken-over-by-70000-bees"
   ],
   [
     "don",
+    19,
+    "https://www.theguardian.com/world/2026/apr/10/cuban-president-tells-nbc-he-wont-resign-under-us-pressure-as-russia-backs-old-ally"
+  ],
+  [
+    "power",
+    19,
+    "https://www.theguardian.com/world/2026/apr/10/peter-magyar-leading-polls-hungary-election-tisza-opposition"
+  ],
+  [
+    "melania",
     18,
-    "https://www.theguardian.com/film/2026/apr/09/paul-dano-interview-wizard-of-the-kremlin"
+    "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html"
   ],
   [
-    "shot",
+    "death",
     18,
-    "https://www.theguardian.com/us-news/2026/apr/09/california-ice-shooting-man-accusation"
+    "https://www.nytimes.com/2026/04/09/theater/death-of-a-salesman-review-broadway-lane-metcalf.html"
   ],
   [
-    "israeli",
-    17,
-    "https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html"
+    "spent",
+    18,
+    "https://www.nytimes.com/2026/04/10/opinion/putin-russia-iran.html"
   ],
   [
-    "country",
+    "school",
+    18,
+    "https://www.washingtonpost.com/nation/2026/04/09/texas-muslims-terrorism-education/"
+  ],
+  [
+    "russian",
+    18,
+    "https://www.washingtonpost.com/immigration/2026/04/08/harvard-frog-embryo-scientist-visa/"
+  ],
+  [
+    "film",
+    18,
+    "https://www.theguardian.com/film/2026/apr/10/im-not-a-commercial-director-im-not-even-a-professional-film-maker-jim-jarmusch-on-the-seven-year-journey-to-make-his-new-film"
+  ],
+  [
+    "orb",
+    18,
+    "https://www.theguardian.com/us-news/2026/apr/09/jd-vance-claims-orban-eu-hungary-election-fact-checked"
+  ],
+  [
+    "lady",
     17,
-    "https://www.nytimes.com/2026/04/09/world/americas/venezuela-mining-us.html"
+    "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html"
+  ],
+  [
+    "earth",
+    17,
+    "https://www.nytimes.com/2026/04/09/science/nasa-artemis-ii-earth-return-heat-shield.html"
+  ],
+  [
+    "host",
+    17,
+    "https://www.nytimes.com/2026/04/10/arts/television/jimmy-kimmel-melania-epstein.html"
   ],
   [
     "donald",
     17,
+    "https://www.nytimes.com/2026/04/10/world/asia/taiwan-china-xi-cheng.html"
+  ],
+  [
+    "law",
+    17,
+    "https://www.nytimes.com/2026/04/09/world/americas/venezuela-mining-us.html"
+  ],
+  [
+    "night",
+    17,
+    "https://www.theguardian.com/film/2026/apr/10/im-not-a-commercial-director-im-not-even-a-professional-film-maker-jim-jarmusch-on-the-seven-year-journey-to-make-his-new-film"
+  ],
+  [
+    "video",
+    17,
     "https://www.theguardian.com/us-news/2026/apr/09/melania-trump-epstein-lies"
   ],
   [
-    "lady",
-    16,
-    "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html"
+    "family",
+    17,
+    "https://www.theguardian.com/books/2026/apr/10/go-gentle-by-maria-semple-review-a-joyfully-clever-new-york-romcom"
   ],
   [
-    "health",
-    16,
-    "https://www.nytimes.com/2026/04/09/health/cdc-rfk-jr-vaccine-committee-ruling.html"
+    "black",
+    17,
+    "https://www.theguardian.com/music/2026/apr/10/big-mama-thornton-documentary-blues-singer-original-hound-dog-elvis"
   ],
   [
-    "american",
+    "fire",
     16,
-    "https://www.washingtonpost.com/obituaries/2026/04/08/jim-whittaker-dead-mount-everest/"
+    "https://www.nytimes.com/2026/04/09/world/europe/russia-ukraine-cease-fire.html"
   ],
   [
-    "love",
+    "energy",
     16,
-    "https://www.theguardian.com/film/2026/apr/09/paul-dano-interview-wizard-of-the-kremlin"
-  ],
-  [
-    "because",
-    16,
-    "https://www.theguardian.com/film/2026/apr/09/paul-dano-interview-wizard-of-the-kremlin"
-  ],
-  [
-    "masters",
-    16,
-    "https://www.theguardian.com/sport/2026/apr/10/golf-masters-first-round-rory-mcilroy-sam-burns-augusta"
+    "https://www.theguardian.com/politics/2026/apr/10/starmer-fed-up-trump-uk-politics"
   ],
   [
     "kindle",
@@ -131,49 +181,29 @@
     "https://www.theguardian.com/technology/2026/apr/09/amazon-upsets-book-lovers-by-ending-support-for-old-kindles"
   ],
   [
-    "states",
-    15,
-    "https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html"
-  ],
-  [
-    "melania",
-    15,
-    "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html"
-  ],
-  [
     "jeffrey",
     15,
     "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html"
   ],
   [
-    "despite",
+    "press",
+    15,
+    "https://www.nytimes.com/2026/04/09/business/media/judge-hegseth-pentagon-reporters-rules.html"
+  ],
+  [
+    "health",
     15,
     "https://www.nytimes.com/2026/04/09/health/cdc-rfk-jr-vaccine-committee-ruling.html"
   ],
   [
-    "fire",
+    "putin",
     15,
     "https://www.nytimes.com/2026/04/09/world/europe/russia-ukraine-cease-fire.html"
   ],
   [
-    "political",
+    "close",
     15,
-    "https://www.washingtonpost.com/nation/2026/04/09/fertility-birth-rate-low/"
-  ],
-  [
-    "school",
-    15,
-    "https://www.washingtonpost.com/nation/2026/04/09/texas-muslims-terrorism-education/"
-  ],
-  [
-    "million",
-    15,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "ice",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/04/10/opinion/putin-russia-iran.html"
   ],
   [
     "here's",
@@ -181,9 +211,14 @@
     "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "team",
+    "play",
     15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/film/2026/apr/10/im-not-a-commercial-director-im-not-even-a-professional-film-maker-jim-jarmusch-on-the-seven-year-journey-to-make-his-new-film"
+  ],
+  [
+    "middle",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/10/malcolm-in-the-middle-lifes-still-unfair-review-disney-plus"
   ],
   [
     "strait",
@@ -191,9 +226,9 @@
     "https://www.theguardian.com/commentisfree/2026/apr/09/how-to-beat-trump-iran-minneapolis-harvard"
   ],
   [
-    "video",
+    "return",
     15,
-    "https://www.theguardian.com/us-news/2026/apr/09/melania-trump-epstein-lies"
+    "https://www.theguardian.com/science/2026/apr/09/artemis-crew-nasa-return"
   ],
   [
     "election",
@@ -201,29 +236,19 @@
     "https://www.theguardian.com/us-news/2026/apr/09/democrats-national-action-cetwork-convention-2026-midterms"
   ],
   [
-    "return",
+    "russia",
     15,
-    "https://www.theguardian.com/science/2026/apr/09/artemis-crew-nasa-return"
+    "https://www.theguardian.com/world/2026/apr/10/cuban-president-tells-nbc-he-wont-resign-under-us-pressure-as-russia-backs-old-ally"
   ],
   [
-    "black",
+    "love",
     15,
-    "https://www.theguardian.com/commentisfree/2026/apr/09/black-women-c-sections-florida"
+    "https://www.theguardian.com/music/2026/apr/09/afrika-bambaataa-hip-hop-pioneer-dies"
   ],
   [
-    "family",
-    15,
-    "https://www.theguardian.com/stage/2026/apr/10/death-of-a-salesman-broadway-review"
-  ],
-  [
-    "talks",
+    "states",
     14,
-    "https://www.nytimes.com/2026/04/09/briefing/israel-agrees-to-hold-talks-with-lebanon.html"
-  ],
-  [
-    "earth",
-    14,
-    "https://www.nytimes.com/2026/04/09/science/nasa-artemis-ii-earth-return-heat-shield.html"
+    "https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html"
   ],
   [
     "pentagon",
@@ -231,39 +256,34 @@
     "https://www.nytimes.com/2026/04/09/business/media/judge-hegseth-pentagon-reporters-rules.html"
   ],
   [
-    "press",
+    "email",
     14,
-    "https://www.nytimes.com/2026/04/09/business/media/judge-hegseth-pentagon-reporters-rules.html"
+    "https://www.washingtonpost.com/politics/2026/04/09/usda-easter-email/"
   ],
   [
-    "russian",
+    "american",
     14,
-    "https://www.washingtonpost.com/immigration/2026/04/08/harvard-frog-embryo-scientist-visa/"
+    "https://www.washingtonpost.com/obituaries/2026/04/08/jim-whittaker-dead-mount-everest/"
   ],
   [
-    "play",
+    "historic",
     14,
-    "https://www.theguardian.com/fashion/2026/apr/09/anna-wintours-vogue-cover-is-more-than-a-cameo-its-a-power-play"
+    "https://www.washingtonpost.com/obituaries/2026/04/08/jim-whittaker-dead-mount-everest/"
   ],
   [
-    "book",
+    "million",
     14,
-    "https://www.theguardian.com/film/2026/apr/09/paul-dano-interview-wizard-of-the-kremlin"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "middle",
+    "cuban",
     14,
-    "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah"
+    "https://www.theguardian.com/world/2026/apr/10/cuban-president-tells-nbc-he-wont-resign-under-us-pressure-as-russia-backs-old-ally"
   ],
   [
-    "east",
+    "shot",
     14,
-    "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah"
-  ],
-  [
-    "host",
-    14,
-    "https://www.theguardian.com/world/2026/apr/10/islamabad-pakistan-negotiations-iran-us"
+    "https://www.theguardian.com/film/2026/apr/10/thrash-review-netflix-shark-thriller-sinks"
   ],
   [
     "played",
@@ -271,108 +291,88 @@
     "https://www.theguardian.com/sport/2026/apr/10/golf-masters-first-round-rory-mcilroy-sam-burns-augusta"
   ],
   [
-    "means",
+    "israeli",
     13,
     "https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html"
   ],
   [
-    "latest",
+    "astronauts",
     13,
-    "https://www.nytimes.com/2026/04/09/briefing/israel-agrees-to-hold-talks-with-lebanon.html"
+    "https://www.nytimes.com/2026/04/09/science/nasa-artemis-ii-earth-return-heat-shield.html"
   ],
   [
-    "court",
+    "case",
     13,
     "https://www.nytimes.com/2026/04/09/business/media/judge-hegseth-pentagon-reporters-rules.html"
   ],
   [
-    "law",
+    "despite",
+    13,
+    "https://www.nytimes.com/2026/04/09/health/cdc-rfk-jr-vaccine-committee-ruling.html"
+  ],
+  [
+    "easter",
+    13,
+    "https://www.nytimes.com/2026/04/09/world/europe/russia-ukraine-cease-fire.html"
+  ],
+  [
+    "ukraine",
+    13,
+    "https://www.nytimes.com/2026/04/09/world/europe/russia-ukraine-cease-fire.html"
+  ],
+  [
+    "accused",
+    13,
+    "https://www.nytimes.com/2026/04/09/world/europe/russia-ukraine-cease-fire.html"
+  ],
+  [
+    "administration",
+    13,
+    "https://www.nytimes.com/2026/04/09/us/politics/trump-miller-immigration-judges-purge.html"
+  ],
+  [
+    "something",
+    13,
+    "https://www.nytimes.com/2026/04/10/opinion/putin-russia-iran.html"
+  ],
+  [
+    "latest",
     13,
     "https://www.nytimes.com/2026/04/09/world/americas/venezuela-mining-us.html"
   ],
   [
-    "email",
+    "hollywood",
     13,
-    "https://www.washingtonpost.com/politics/2026/04/09/usda-easter-email/"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "hormuz",
+    "early",
     13,
-    "https://www.theguardian.com/commentisfree/2026/apr/09/how-to-beat-trump-iran-minneapolis-harvard"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "director",
+    13,
+    "https://www.theguardian.com/film/2026/apr/10/im-not-a-commercial-director-im-not-even-a-professional-film-maker-jim-jarmusch-on-the-seven-year-journey-to-make-his-new-film"
+  ],
+  [
+    "review",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/10/malcolm-in-the-middle-lifes-still-unfair-review-disney-plus"
+  ],
+  [
+    "always",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/10/malcolm-in-the-middle-lifes-still-unfair-review-disney-plus"
+  ],
+  [
+    "hear",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/09/experience-my-house-was-taken-over-by-70000-bees"
   ],
   [
     "politics",
     13,
     "https://www.theguardian.com/us-news/2026/apr/09/melania-trump-epstein-lies"
-  ],
-  [
-    "late",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/09/melania-trump-jeffrey-epstein"
-  ],
-  [
-    "energy",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/09/jd-vance-claims-orban-eu-hungary-election-fact-checked"
-  ],
-  [
-    "guide",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/09/sonos-portable-speaker-review"
-  ],
-  [
-    "night",
-    13,
-    "https://www.theguardian.com/culture/2026/apr/09/jimmy-kimmel-iran-ceasefire-trump-jd-vance"
-  ],
-  [
-    "mcilroy",
-    13,
-    "https://www.theguardian.com/sport/2026/apr/10/golf-masters-first-round-rory-mcilroy-sam-burns-augusta"
-  ],
-  [
-    "astronauts",
-    12,
-    "https://www.nytimes.com/2026/04/09/science/nasa-artemis-ii-earth-return-heat-shield.html"
-  ],
-  [
-    "case",
-    12,
-    "https://www.nytimes.com/2026/04/09/business/media/judge-hegseth-pentagon-reporters-rules.html"
-  ],
-  [
-    "announced",
-    12,
-    "https://www.nytimes.com/2026/04/09/world/europe/russia-ukraine-cease-fire.html"
-  ],
-  [
-    "administration",
-    12,
-    "https://www.nytimes.com/2026/04/09/us/politics/trump-miller-immigration-judges-purge.html"
-  ],
-  [
-    "fewer",
-    12,
-    "https://www.nytimes.com/2026/04/09/business/furniture-stores-housing-market-crisis.html"
-  ],
-  [
-    "historic",
-    12,
-    "https://www.washingtonpost.com/obituaries/2026/04/08/jim-whittaker-dead-mount-everest/"
-  ],
-  [
-    "spent",
-    12,
-    "https://www.washingtonpost.com/immigration/2026/04/08/harvard-frog-embryo-scientist-visa/"
-  ],
-  [
-    "medical",
-    12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "hollywood",
-    12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ]
 ];

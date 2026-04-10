@@ -3,69 +3,69 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 68,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/09/how-to-beat-trump-iran-minneapolis-harvard",
+      "count": 71,
+      "url": "https://www.theguardian.com/film/2026/apr/10/im-not-a-commercial-director-im-not-even-a-professional-film-maker-jim-jarmusch-on-the-seven-year-journey-to-make-his-new-film",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 65,
+      "count": 54,
       "url": "https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 33,
+      "count": 30,
       "url": "https://www.theguardian.com/us-news/2026/apr/09/california-felony-charges-hospice-scheme",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 31,
+      "count": 29,
       "url": "https://www.washingtonpost.com/nation/2026/04/09/fertility-birth-rate-low/",
       "source": "Washington Post"
     },
     {
       "name": "Lebanon",
-      "count": 29,
-      "url": "https://www.nytimes.com/2026/04/09/briefing/israel-agrees-to-hold-talks-with-lebanon.html",
-      "source": "NY Times"
+      "count": 22,
+      "url": "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah",
+      "source": "The Guardian"
     },
     {
       "name": "Israel",
-      "count": 24,
+      "count": 18,
       "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
       "source": "Wall St. Journal"
     },
     {
-      "name": "New York City",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/democrats-national-action-cetwork-convention-2026-midterms",
+      "name": "Russia",
+      "count": 16,
+      "url": "https://www.theguardian.com/world/2026/apr/10/cuban-president-tells-nbc-he-wont-resign-under-us-pressure-as-russia-backs-old-ally",
       "source": "The Guardian"
     },
     {
       "name": "L.A. County",
       "count": 14,
-      "url": "https://www.latimes.com/environment/story/2026-04-06/wolf-that-visited-los-angeles-county-arrives-in-into-county-historic-moment",
+      "url": "https://www.latimes.com/food/story/2026-04-07/prosperity-market-launches-mobile-trailer-uplifting-black-farmers-brands",
       "source": "LA Times"
     },
     {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/film/2026/apr/09/cannes-festival-ditches-us-film-makers-for-world-cinema-directors",
-      "source": "The Guardian"
-    },
-    {
       "name": "Ukraine",
-      "count": 10,
+      "count": 13,
       "url": "https://www.nytimes.com/2026/04/09/world/europe/russia-ukraine-cease-fire.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 11,
+      "url": "https://www.washingtonpost.com/nation/2026/04/09/texas-muslims-terrorism-education/",
+      "source": "Washington Post"
     }
   ],
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 40,
+      "count": 41,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
@@ -83,14 +83,8 @@
     },
     {
       "name": "Ai",
-      "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
       "count": 16,
-      "url": "https://www.theguardian.com/film/2026/apr/09/george-clooney-trump-civilisation-will-die-tonight-war-crime-comments",
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
       "source": "The Guardian"
     },
     {
@@ -100,10 +94,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "Gop Senate",
-      "count": 9,
-      "url": "https://www.politico.com/news/2026/04/02/georgia-senate-ossoff-trump-republicans-00854884",
-      "source": "Politico"
+      "name": "The White House",
+      "count": 10,
+      "url": "https://www.theguardian.com/film/2026/apr/09/george-clooney-trump-civilisation-will-die-tonight-war-crime-comments",
+      "source": "The Guardian"
+    },
+    {
+      "name": "White House Surprise",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/04/10/arts/television/jimmy-kimmel-melania-epstein.html",
+      "source": "NY Times"
     },
     {
       "name": "Nato",
@@ -112,22 +112,84 @@
       "source": "Wall St. Journal"
     },
     {
-      "name": "Hezbollah",
+      "name": "Congress",
       "count": 8,
-      "url": "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah",
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/melania-trump-jeffrey-epstein",
       "source": "The Guardian"
     },
     {
-      "name": "Guardian Australia",
+      "name": "Breaking News",
       "count": 8,
-      "url": "https://www.theguardian.com/australia-news/2026/apr/09/sydney-fatberg-door-beach-poo-balls",
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/melania-trump-jeffrey-epstein",
+      "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Melania Trump",
+      "count": 22,
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/melania-trump-jeffrey-epstein",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Vladimir Putin",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/04/10/opinion/putin-russia-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/04/10/world/asia/taiwan-china-xi-cheng.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Viktor Orbán",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/jd-vance-claims-orban-eu-hungary-election-fact-checked",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Afrika Bambaataa",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/04/09/arts/music/afrika-bambaataa-dead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Nathan Lane",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/04/09/theater/death-of-a-salesman-review-broadway-lane-metcalf.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "David Geffen Galleries",
+      "count": 6,
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-04-08/lacma-david-geffen-galleries-cost-price-how-was-money-spent",
+      "source": "LA Times"
+    },
+    {
+      "name": "Biden",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/epa-toxic-coal-ash-rollback-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/jdl-613-jewish-extremist-organization",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 7,
+      "count": 9,
       "url": "https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html",
       "source": "NY Times"
     },
@@ -144,9 +206,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "Easter Sunday Morning",
+      "name": "La Rioja •",
       "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/california-traffic-stop-homicide-victims",
+      "url": "https://www.theguardian.com/travel/2026/apr/10/spain-hidden-gems-holidays",
       "source": "The Guardian"
     },
     {
@@ -159,6 +221,12 @@
       "name": "The Fa Cup",
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/apr/10/premier-league-10-things-to-look-out-for-this-weekend",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Easter Sunday Morning",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/california-traffic-stop-homicide-victims",
       "source": "The Guardian"
     },
     {
@@ -178,75 +246,7 @@
       "count": 1,
       "url": "https://www.latimes.com/california/story/2026-04-09/los-angeles-officials-raise-alarms-over-crippling-summer-olympics-costs",
       "source": "LA Times"
-    },
-    {
-      "name": "Airplane Factory Sling",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-04-09/plane-crash-lands-on-catalina-island-killing-2-officials-say",
-      "source": "LA Times"
     }
   ],
-  "PERSON": [
-    {
-      "name": "Melania Trump",
-      "count": 19,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/melania-trump-jeffrey-epstein",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/melania-trump-epstein-lies",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jeffrey Epstein",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Viktor Orbán",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/jd-vance-claims-orban-eu-hungary-election-fact-checked",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Afrika Bambaataa",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/04/09/arts/music/afrika-bambaataa-dead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Nathan Lane",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/04/09/theater/death-of-a-salesman-review-broadway-lane-metcalf.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Anna Wintour",
-      "count": 6,
-      "url": "https://www.theguardian.com/fashion/2026/apr/09/anna-wintours-vogue-cover-is-more-than-a-cameo-its-a-power-play",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tom Watson",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/apr/09/tom-watson-blasts-pga-tour-over-returns-of-liv-golf-rebels-reed-and-koepka",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vladimir Putin",
-      "count": 6,
-      "url": "https://www.theguardian.com/world/2026/apr/09/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine",
-      "source": "The Guardian"
-    },
-    {
-      "name": "David Geffen Galleries",
-      "count": 6,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-04-08/lacma-david-geffen-galleries-cost-price-how-was-money-spent",
-      "source": "LA Times"
-    }
-  ],
-  "updated": "2026-04-10T04:10:32Z"
+  "updated": "2026-04-10T08:22:52Z"
 };
