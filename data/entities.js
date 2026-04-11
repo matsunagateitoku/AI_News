@@ -9,20 +9,14 @@
     },
     {
       "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.nbcnews.com/politics/politics-news/mother-son-killed-iran-war-told-trump-go-get-em-cody-khork-rcna267473",
-      "source": "NBC News"
-    },
-    {
-      "name": "Generation Z",
       "count": 2,
-      "url": "https://www.cbsnews.com/video/how-does-gen-z-feels-about-ai/",
-      "source": "CBS News"
+      "url": "https://www.nytimes.com/2026/04/10/opinion/ezra-klein-podcast-fareed-zakaria.html",
+      "source": "NY Times"
     },
     {
-      "name": "Iran War Drives Deeper Oil Shock Than Prices Reveal",
+      "name": "A Time Of War",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/04/10/business/energy-environment/iran-oil-prices.html",
+      "url": "https://www.nytimes.com/2026/04/10/world/europe/trump-redefine-foreign-policy.html",
       "source": "NY Times"
     },
     {
@@ -30,6 +24,12 @@
       "count": 1,
       "url": "https://www.washingtonpost.com/lifestyle/2026/04/10/crossing-guard-diva-paulette-dorflaufer/",
       "source": "Washington Post"
+    },
+    {
+      "name": "Easter Sunday Morning",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/california-traffic-stop-homicide-victims",
+      "source": "The Guardian"
     },
     {
       "name": "The Gulf War",
@@ -44,15 +44,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Cup",
+      "name": "The Fa Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/apr/09/michael-jordan-nascar-23xi-racing-success",
+      "url": "https://www.theguardian.com/football/2026/apr/10/premier-league-10-things-to-look-out-for-this-weekend",
       "source": "The Guardian"
     },
     {
-      "name": "National Action Network",
+      "name": "The Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/apr/10/kamala-harris-run-president-2028-election",
+      "url": "https://www.theguardian.com/sport/2026/apr/09/michael-jordan-nascar-23xi-racing-success",
       "source": "The Guardian"
     },
     {
@@ -65,27 +65,33 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 79,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/10/pete-hegseth-christianity-iran-war-crusade",
+      "count": 69,
+      "url": "https://www.theguardian.com/business/2026/apr/10/dallas-new-york-business",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 72,
-      "url": "https://www.nytimes.com/2026/04/10/business/energy-environment/iran-oil-prices.html",
+      "count": 49,
+      "url": "https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html",
       "source": "NY Times"
     },
     {
-      "name": "Israel",
-      "count": 27,
-      "url": "https://www.nytimes.com/2026/04/10/world/middleeast/lebanon-displaced-photos.html",
+      "name": "California",
+      "count": 38,
+      "url": "https://www.nytimes.com/2026/04/10/us/politics/eric-swalwell-allegations-california-governor.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/04/10/business/economy/gasoline-price-rise.html",
+      "count": 27,
+      "url": "https://www.nytimes.com/video/world/middleeast/100000010831941/what-the-cease-fire-means-for-iran.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 17,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
     },
     {
       "name": "New York City’S",
@@ -94,66 +100,122 @@
       "source": "The Guardian"
     },
     {
-      "name": "Pakistan",
-      "count": 15,
-      "url": "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah",
-      "source": "The Guardian"
+      "name": "L.A. County",
+      "count": 12,
+      "url": "https://www.latimes.com/environment/story/2026-04-06/wolf-that-visited-los-angeles-county-arrives-in-into-county-historic-moment",
+      "source": "LA Times"
     },
     {
-      "name": "Openai",
-      "count": 13,
-      "url": "https://www.theguardian.com/technology/2026/apr/10/sam-altman-home-molotov-cocktail",
+      "name": "New York City",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/04/10/nyregion/eric-adams-albania-citizen.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Russia",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/2026/apr/11/ukraine-war-briefing-doubts-linger-in-kyiv-over-moscows-promise-to-uphold-orthodox-easter-ceasefire",
       "source": "The Guardian"
     },
     {
       "name": "San Francisco",
-      "count": 12,
+      "count": 9,
       "url": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html",
       "source": "NY Times"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump Jr.",
+      "count": 19,
+      "url": "https://thehill.com/blogs/in-the-know/5826546-hunter-biden-challenges-trump-sons-cage-match/",
+      "source": "The Hill"
     },
     {
-      "name": "California",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/apr/10/california-coffee-shops-pride-flags-philz",
+      "name": "Melania Trump",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/apr/10/epstein-survivors-melania-trump-reaction",
       "source": "The Guardian"
     },
     {
-      "name": "America",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/04/10/world/europe/trump-starmer-fed-up-iran-war.html",
+      "name": "Eric Swalwell",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/04/10/us/politics/eric-swalwell-allegations-california-governor.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "count": 10,
+      "url": "https://www.theguardian.com/news/video/2026/apr/10/trumps-war-melania-and-epstein-with-us-editor-betsy-reed-the-latest",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Coachella",
+      "count": 9,
+      "url": "https://www.theguardian.com/music/2026/apr/10/coachella-2026-justin-bieber-sabrina-carpenter-karol-g",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Rory Mcilroy",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/apr/11/rory-mcilroy-six-shot-masters-lead--stunning-second-round-golf",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Hunter Biden",
+      "count": 6,
+      "url": "https://thehill.com/blogs/in-the-know/5826546-hunter-biden-challenges-trump-sons-cage-match/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Pete Hegseth",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/10/pete-hegseth-christianity-iran-war-crusade",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kamala Harris ‘",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/apr/10/kamala-harris-run-president-2028-election",
+      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
+      "name": "Artemis Ii Moon Mission",
+      "count": 41,
+      "url": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-moon-mission-photos-earth-eclipse.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Trump Seeks Another Imprint",
-      "count": 55,
+      "count": 35,
       "url": "https://www.nytimes.com/2026/04/10/us/politics/arch-washington-trump.html",
       "source": "NY Times"
     },
     {
+      "name": "Nasa",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/04/10/science/artemis-ii-splashdown-recovery.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Ai",
-      "count": 20,
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
+      "count": 17,
+      "url": "https://www.theguardian.com/technology/2026/apr/10/anthropic-new-ai-model-claude-mythos-implications",
       "source": "The Guardian"
     },
     {
       "name": "Guardian News",
-      "count": 15,
+      "count": 14,
       "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
-    },
-    {
-      "name": "Congress",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/04/10/us/politics/homeland-security-funding.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Artemis Ii Moon Mission",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-moon-mission-photos-earth-eclipse.html",
-      "source": "NY Times"
     },
     {
       "name": "The Filter Us",
@@ -162,15 +224,21 @@
       "source": "The Guardian"
     },
     {
-      "name": "Nasa",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-splash-down-watch-time-stream.html",
+      "name": "Congress",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/04/10/us/politics/trump-impeachment-democrats.html",
       "source": "NY Times"
     },
     {
       "name": "Breaking News",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/apr/10/epstein-survivors-melania-trump-reaction",
+      "count": 11,
+      "url": "https://www.theguardian.com/science/live/2026/apr/10/artemis-ii-return-splashdown-nasa-orion-moon-live-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mcilroy",
+      "count": 8,
+      "url": "https://www.theguardian.com/sport/2026/apr/11/rory-mcilroy-six-shot-masters-lead--stunning-second-round-golf",
       "source": "The Guardian"
     },
     {
@@ -178,75 +246,7 @@
       "count": 8,
       "url": "https://www.theguardian.com/thefilter-us/2026/apr/05/best-usb-chargers",
       "source": "The Guardian"
-    },
-    {
-      "name": "Gop Senate",
-      "count": 8,
-      "url": "https://www.politico.com/news/2026/04/02/georgia-senate-ossoff-trump-republicans-00854884",
-      "source": "Politico"
     }
   ],
-  "PERSON": [
-    {
-      "name": "Donald Trump Jr.",
-      "count": 18,
-      "url": "https://www.nbcnews.com/politics/donald-trump/hunter-biden-challenges-trump-sons-fight-cage-match-rcna273639",
-      "source": "NBC News"
-    },
-    {
-      "name": "Melania Trump",
-      "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/apr/10/epstein-survivors-melania-trump-reaction",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kamala Harris",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/apr/10/kamala-harris-run-president-2028-election",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vp Vance",
-      "count": 11,
-      "url": "https://www.npr.org/2026/04/10/g-s1-117023/up-first-newsletter-iran-us-israel-jd-vance-artemis-two-melania-trump-fema-funds",
-      "source": "NPR"
-    },
-    {
-      "name": "Jeffrey Epstein",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Benjamin Netanyahu",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/10/benjamin-netanyahu-israel-voting-public-total-victory",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Anthropic Ai",
-      "count": 6,
-      "url": "https://www.foxnews.com/politics/bessent-powell-summon-wall-street-ceos-emergency-pentagon-anthropic-ai-risks-pentagon-dispute",
-      "source": "Fox News"
-    },
-    {
-      "name": "Sam Altman'S",
-      "count": 6,
-      "url": "https://www.foxnews.com/us/person-throws-molotov-cocktail-openai-ceo-sam-altmans-home-company-says",
-      "source": "Fox News"
-    },
-    {
-      "name": "Hunter Biden",
-      "count": 6,
-      "url": "https://www.nbcnews.com/video/shorts/hunter-biden-open-to-cage-match-with-trump-sons-261106245984",
-      "source": "NBC News"
-    },
-    {
-      "name": "Sam Altman",
-      "count": 5,
-      "url": "https://www.theguardian.com/technology/2026/apr/10/sam-altman-home-molotov-cocktail",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-04-10T19:48:45Z"
+  "updated": "2026-04-11T03:39:47Z"
 };
