@@ -2,53 +2,58 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    91,
-    "https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html"
+    83,
+    "https://www.nytimes.com/2026/04/11/world/middleeast/iran-peace-talks-demands.html"
   ],
   [
     "artemis",
     65,
-    "https://www.nytimes.com/2026/04/10/science/artemis-ii-splashdown-recovery.html"
+    "https://www.nytimes.com/2026/04/10/science/moon-astronauts-success.html"
   ],
   [
     "war",
-    54,
-    "https://www.nytimes.com/2026/04/10/world/middleeast/pakistan-iran-talks-islamabad.html"
-  ],
-  [
-    "iran",
-    52,
-    "https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html"
+    53,
+    "https://www.nytimes.com/2026/04/11/world/middleeast/iran-peace-talks-demands.html"
   ],
   [
     "president",
     47,
-    "https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html"
+    "https://www.nytimes.com/2026/04/11/world/middleeast/iran-peace-talks-demands.html"
+  ],
+  [
+    "iran",
+    45,
+    "https://www.nytimes.com/2026/04/11/world/middleeast/iran-peace-talks-demands.html"
   ],
   [
     "california",
-    42,
+    39,
     "https://www.nytimes.com/2026/04/10/us/politics/eric-swalwell-allegations-california-governor.html"
   ],
   [
-    "astronauts",
-    35,
-    "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-moon-mission-photos-earth-eclipse.html"
-  ],
-  [
     "york",
-    33,
+    34,
     "https://www.nytimes.com/2026/04/10/us/politics/eying-2028-ambitious-democrats-court-black-voters.html"
   ],
   [
+    "astronauts",
+    33,
+    "https://www.nytimes.com/2026/04/10/science/moon-astronauts-success.html"
+  ],
+  [
+    "earth",
+    30,
+    "https://www.theguardian.com/science/live/2026/apr/10/artemis-ii-return-splashdown-nasa-orion-moon-live-updates"
+  ],
+  [
     "moon",
-    26,
-    "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-moon-mission-photos-earth-eclipse.html"
+    28,
+    "https://www.nytimes.com/2026/04/10/science/moon-astronauts-success.html"
   ],
   [
     "mission",
-    26,
-    "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-moon-mission-photos-earth-eclipse.html"
+    27,
+    "https://www.nytimes.com/2026/04/10/science/moon-astronauts-success.html"
   ],
   [
     "san",
@@ -56,44 +61,29 @@
     "https://www.nytimes.com/2026/04/10/us/politics/eric-swalwell-allegations-california-governor.html"
   ],
   [
-    "earth",
-    26,
-    "https://www.theguardian.com/science/live/2026/apr/10/artemis-ii-return-splashdown-nasa-orion-moon-live-updates"
+    "power",
+    24,
+    "https://www.theguardian.com/news/ng-interactive/2026/apr/11/zebras-wealth-and-power-hungarys-election-tests-orbans-grip-on-power"
   ],
   [
-    "power",
-    22,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/10/could-force-be-secret-supercharging-your-fitness"
+    "return",
+    23,
+    "https://www.theguardian.com/culture/2026/apr/11/lena-dunham-interview-memoir-famesick-rehab-fame-broken-friendships"
   ],
   [
     "don",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/apr/10/trump-iran-war-bullying"
+    21,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/11/tim-dowling-my-wife-quest-to-restore-my-thinning-hair"
   ],
   [
     "talks",
-    21,
-    "https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html"
-  ],
-  [
-    "donald",
-    21,
-    "https://www.theguardian.com/news/video/2026/apr/10/trumps-war-melania-and-epstein-with-us-editor-betsy-reed-the-latest"
-  ],
-  [
-    "israel",
     20,
-    "https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html"
+    "https://www.nytimes.com/2026/04/11/world/middleeast/iran-peace-talks-demands.html"
   ],
   [
-    "epstein",
+    "historic",
     20,
-    "https://www.nytimes.com/2026/04/10/us/politics/trump-melania-epstein.html"
-  ],
-  [
-    "capsule",
-    19,
-    "https://www.nytimes.com/2026/04/10/science/artemis-ii-splashdown-recovery.html"
+    "https://www.nytimes.com/2026/04/10/science/moon-astronauts-success.html"
   ],
   [
     "eric",
@@ -101,9 +91,9 @@
     "https://www.nytimes.com/2026/04/10/us/politics/eric-swalwell-allegations-california-governor.html"
   ],
   [
-    "swalwell",
+    "epstein",
     19,
-    "https://www.nytimes.com/2026/04/10/us/politics/eric-swalwell-allegations-california-governor.html"
+    "https://www.nytimes.com/2026/04/10/us/politics/trump-melania-epstein.html"
   ],
   [
     "crew",
@@ -111,29 +101,24 @@
     "https://www.theguardian.com/science/live/2026/apr/10/artemis-ii-return-splashdown-nasa-orion-moon-live-updates"
   ],
   [
-    "orion",
-    19,
-    "https://www.theguardian.com/science/live/2026/apr/10/artemis-ii-return-splashdown-nasa-orion-moon-live-updates"
+    "swalwell",
+    18,
+    "https://www.nytimes.com/2026/04/10/us/politics/eric-swalwell-allegations-california-governor.html"
   ],
   [
-    "death",
-    19,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/10/malcolm-in-the-middle-lifes-still-unfair-review-disney-plus"
+    "coast",
+    18,
+    "https://www.theguardian.com/science/2026/apr/10/artemis-ii-landing-return-moon-mission"
+  ],
+  [
+    "court",
+    18,
+    "https://www.theguardian.com/law/2026/apr/11/sexual-abuse-claims-karim-khan-international-criminal-court-crisis-what-happens-now"
   ],
   [
     "nasa",
-    18,
-    "https://www.nytimes.com/2026/04/10/science/artemis-ii-splashdown-recovery.html"
-  ],
-  [
-    "health",
-    18,
-    "https://www.nytimes.com/2026/04/10/well/eat/ai-chatbots-nutrition.html"
-  ],
-  [
-    "media",
     17,
-    "https://www.nytimes.com/video/world/middleeast/100000010831941/what-the-cease-fire-means-for-iran.html"
+    "https://www.nytimes.com/2026/04/10/science/moon-astronauts-success.html"
   ],
   [
     "energy",
@@ -146,39 +131,39 @@
     "https://www.nytimes.com/2026/04/10/us/politics/trump-impeachment-democrats.html"
   ],
   [
+    "rose",
+    17,
+    "https://www.nytimes.com/2026/04/10/nyregion/eliot-engel-dead.html"
+  ],
+  [
     "email",
     17,
     "https://www.washingtonpost.com/politics/2026/04/09/usda-easter-email/"
   ],
   [
-    "book",
+    "donald",
     17,
-    "https://www.theguardian.com/film/2026/apr/10/ranking-top-superhero-movies-of-all-time-batman-dark-knight-spider-man-superman-dredd-logan"
-  ],
-  [
-    "host",
-    16,
-    "https://www.nytimes.com/2026/04/10/world/middleeast/pakistan-iran-talks-islamabad.html"
-  ],
-  [
-    "social",
-    16,
-    "https://www.nytimes.com/2026/04/10/us/politics/james-blair-trump-midterms.html"
-  ],
-  [
-    "latest",
-    16,
-    "https://www.washingtonpost.com/politics/2026/04/09/usda-easter-email/"
-  ],
-  [
-    "breaking",
-    16,
-    "https://www.theguardian.com/science/live/2026/apr/10/artemis-ii-return-splashdown-nasa-orion-moon-live-updates"
+    "https://www.theguardian.com/news/video/2026/apr/10/trumps-war-melania-and-epstein-with-us-editor-betsy-reed-the-latest"
   ],
   [
     "night",
+    17,
+    "https://www.theguardian.com/science/2026/apr/10/artemis-ii-landing-return-moon-mission"
+  ],
+  [
+    "love",
+    17,
+    "https://www.theguardian.com/science/2026/apr/10/artemis-ii-landing-return-moon-mission"
+  ],
+  [
+    "video",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/09/experience-my-house-was-taken-over-by-70000-bees"
+    "https://www.theguardian.com/culture/2026/apr/11/lena-dunham-interview-memoir-famesick-rehab-fame-broken-friendships"
+  ],
+  [
+    "death",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/11/american-classic-review-kevin-kline-laura-linney-comedy"
   ],
   [
     "mcilroy",
@@ -186,14 +171,24 @@
     "https://www.theguardian.com/sport/2026/apr/11/rory-mcilroy-six-shot-masters-lead--stunning-second-round-golf"
   ],
   [
-    "court",
+    "book",
     16,
-    "https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale"
+    "https://www.theguardian.com/film/2026/apr/10/ranking-top-superhero-movies-of-all-time-batman-dark-knight-spider-man-superman-dredd-logan"
+  ],
+  [
+    "peace",
+    15,
+    "https://www.nytimes.com/2026/04/11/world/middleeast/iran-peace-talks-demands.html"
   ],
   [
     "splashdown",
     15,
-    "https://www.nytimes.com/2026/04/10/science/artemis-ii-splashdown-recovery.html"
+    "https://www.nytimes.com/2026/04/10/science/moon-astronauts-success.html"
+  ],
+  [
+    "race",
+    15,
+    "https://www.nytimes.com/2026/04/10/science/moon-astronauts-success.html"
   ],
   [
     "administration",
@@ -201,37 +196,32 @@
     "https://www.nytimes.com/2026/04/10/us/politics/faa-military-anti-drone-lasers.html"
   ],
   [
-    "secretary",
+    "office",
     15,
-    "https://www.nytimes.com/2026/04/10/business/anthropic-claude-mythos-preview-banks.html"
+    "https://www.nytimes.com/2026/04/10/nyregion/eric-adams-albania-citizen.html"
   ],
   [
-    "return",
+    "israel",
+    15,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "american",
+    15,
+    "https://www.theguardian.com/culture/2026/apr/11/lena-dunham-interview-memoir-famesick-rehab-fame-broken-friendships"
+  ],
+  [
+    "orion",
     15,
     "https://www.theguardian.com/science/live/2026/apr/10/artemis-ii-return-splashdown-nasa-orion-moon-live-updates"
   ],
   [
-    "coast",
+    "nearly",
     15,
-    "https://www.theguardian.com/science/2026/apr/10/artemis-ii-landing-return-moon-mission"
-  ],
-  [
-    "because",
-    15,
-    "https://www.theguardian.com/science/2026/apr/10/artemis-ii-landing-return-moon-mission"
-  ],
-  [
-    "game",
-    15,
-    "https://www.theguardian.com/sport/2026/apr/10/justin-rose-stays-in-touch-masters-augusta-spieth-koepka"
+    "https://www.theguardian.com/us-news/2026/apr/10/california-warehouse-arson-luigi-mangione"
   ],
   [
     "democratic",
-    14,
-    "https://www.nytimes.com/2026/04/10/us/politics/eric-swalwell-allegations-california-governor.html"
-  ],
-  [
-    "francisco",
     14,
     "https://www.nytimes.com/2026/04/10/us/politics/eric-swalwell-allegations-california-governor.html"
   ],
@@ -246,19 +236,19 @@
     "https://www.nytimes.com/2026/04/10/us/politics/james-blair-trump-midterms.html"
   ],
   [
-    "rose",
+    "social",
     14,
-    "https://www.nytimes.com/2026/04/10/nyregion/eliot-engel-dead.html"
+    "https://www.nytimes.com/2026/04/10/us/politics/james-blair-trump-midterms.html"
   ],
   [
-    "office",
+    "country",
     14,
     "https://www.nytimes.com/2026/04/10/nyregion/eric-adams-albania-citizen.html"
   ],
   [
-    "gaza",
+    "latest",
     14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.washingtonpost.com/politics/2026/04/09/usda-easter-email/"
   ],
   [
     "pop",
@@ -266,29 +256,34 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "released",
+    "here's",
     14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "statement",
+    "watch",
+    14,
+    "https://www.theguardian.com/culture/2026/apr/11/lena-dunham-interview-memoir-famesick-rehab-fame-broken-friendships"
+  ],
+  [
+    "ceasefire",
     14,
     "https://www.theguardian.com/news/video/2026/apr/10/trumps-war-melania-and-epstein-with-us-editor-betsy-reed-the-latest"
   ],
   [
-    "final",
+    "capsule",
     14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/10/pete-hegseth-christianity-iran-war-crusade"
+    "https://www.theguardian.com/science/live/2026/apr/10/artemis-ii-return-splashdown-nasa-orion-moon-live-updates"
   ],
   [
-    "historic",
+    "pacific",
     14,
-    "https://www.theguardian.com/science/2026/apr/10/artemis-ii-landing-return-moon-mission"
+    "https://www.theguardian.com/science/live/2026/apr/10/artemis-ii-return-splashdown-nasa-orion-moon-live-updates"
   ],
   [
-    "price",
+    "money",
     14,
-    "https://www.theguardian.com/commentisfree/2026/apr/10/benjamin-netanyahu-israel-voting-public-total-victory"
+    "https://www.theguardian.com/tv-and-radio/2026/apr/11/margos-got-money-troubles-elle-fanning-michelle-pfeiffer-onlyfans-apple-tv"
   ],
   [
     "weekend",
@@ -296,39 +291,34 @@
     "https://www.theguardian.com/commentisfree/2026/apr/10/benjamin-netanyahu-israel-voting-public-total-victory"
   ],
   [
-    "prices",
-    14,
-    "https://www.theguardian.com/business/2026/apr/10/march-inflation-soars-iran-war-economy"
-  ],
-  [
     "guide",
     14,
     "https://www.theguardian.com/thefilter-us/2025/nov/11/best-juicers-to-buy"
   ],
   [
-    "pacific",
+    "political",
     13,
-    "https://www.nytimes.com/2026/04/10/science/artemis-ii-splashdown-recovery.html"
+    "https://www.nytimes.com/2026/04/11/business/europe-economy-trump-trade-iran.html"
   ],
   [
-    "race",
+    "russia",
     13,
-    "https://www.nytimes.com/2026/04/10/us/politics/eric-swalwell-allegations-california-governor.html"
+    "https://www.nytimes.com/2026/04/11/business/europe-economy-trump-trade-iran.html"
   ],
   [
-    "military",
+    "point",
     13,
-    "https://www.nytimes.com/2026/04/10/us/politics/faa-military-anti-drone-lasers.html"
+    "https://www.nytimes.com/2026/04/10/us/politics/trump-melania-epstein.html"
   ],
   [
-    "hear",
+    "congress",
     13,
-    "https://www.nytimes.com/2026/04/10/well/eat/ai-chatbots-nutrition.html"
+    "https://www.nytimes.com/2026/04/10/us/politics/trump-impeachment-democrats.html"
   ],
   [
-    "experts",
+    "past",
     13,
-    "https://www.washingtonpost.com/nation/2026/04/09/fertility-birth-rate-low/"
+    "https://www.washingtonpost.com/lifestyle/2026/04/10/crossing-guard-diva-paulette-dorflaufer/"
   ],
   [
     "school",
@@ -336,34 +326,44 @@
     "https://www.washingtonpost.com/nation/2026/04/09/texas-muslims-terrorism-education/"
   ],
   [
-    "peace",
+    "released",
     13,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "team",
+    "something",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/culture/2026/apr/11/lena-dunham-interview-memoir-famesick-rehab-fame-broken-friendships"
   ],
   [
-    "defense",
+    "side",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/10/pete-hegseth-christianity-iran-war-crusade"
+    "https://www.theguardian.com/culture/2026/apr/11/lena-dunham-interview-memoir-famesick-rehab-fame-broken-friendships"
   ],
   [
-    "nearly",
+    "london",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/10/california-warehouse-arson-luigi-mangione"
+    "https://www.theguardian.com/culture/2026/apr/11/lena-dunham-interview-memoir-famesick-rehab-fame-broken-friendships"
   ],
   [
-    "review",
+    "ocean",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/10/malcolm-in-the-middle-lifes-still-unfair-review-disney-plus"
+    "https://www.theguardian.com/science/live/2026/apr/10/artemis-ii-return-splashdown-nasa-orion-moon-live-updates"
   ],
   [
-    "american",
+    "breaking",
     13,
-    "https://www.theguardian.com/commentisfree/2026/apr/10/the-guardian-view-on-dystopias-for-our-times-the-american-nightmare"
+    "https://www.theguardian.com/science/live/2026/apr/10/artemis-ii-return-splashdown-nasa-orion-moon-live-updates"
+  ],
+  [
+    "film",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/apr/11/environmental-disaster-moldova-russia-ukraine-war-drinking-water"
+  ],
+  [
+    "price",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/apr/10/benjamin-netanyahu-israel-voting-public-total-victory"
   ],
   [
     "fewer",
@@ -371,8 +371,8 @@
     "https://www.theguardian.com/sport/2026/apr/10/nfl-draft-2026-intriguing-prospects"
   ],
   [
-    "weekly",
+    "prices",
     13,
-    "https://www.theguardian.com/artanddesign/2026/apr/10/the-week-in-art"
+    "https://www.theguardian.com/business/2026/apr/10/march-inflation-soars-iran-war-economy"
   ]
 ];
