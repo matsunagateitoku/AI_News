@@ -2,173 +2,238 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    76,
+    98,
     "https://www.nytimes.com/2026/04/12/us/politics/vance-iran-talks.html"
   ],
   [
     "iran",
-    56,
-    "https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html"
+    87,
+    "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
   ],
   [
     "president",
-    52,
-    "https://www.nytimes.com/2026/04/12/opinion/trump-iran-war-incompetence-america.html"
+    57,
+    "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
   ],
   [
     "war",
-    32,
-    "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html"
+    47,
+    "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
   ],
   [
     "talks",
-    31,
-    "https://www.nytimes.com/2026/04/12/us/politics/vance-iran-talks.html"
-  ],
-  [
-    "york",
-    29,
-    "https://www.theguardian.com/us-news/2026/apr/12/police-taskforce-gilgo-beach-serial-killer"
-  ],
-  [
-    "artemis",
-    29,
-    "https://www.theguardian.com/science/2026/apr/11/artemis-ii-nasa-budget-cuts"
+    36,
+    "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
   ],
   [
     "california",
-    27,
-    "https://www.nytimes.com/2026/04/11/us/swalwell-house-removal-votes.html"
+    30,
+    "https://www.nytimes.com/2026/04/12/us/california-democrats-eric-swalwell.html"
   ],
   [
-    "country",
-    23,
-    "https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html"
+    "swalwell",
+    24,
+    "https://www.nytimes.com/2026/04/12/us/california-democrats-eric-swalwell.html"
   ],
   [
-    "peace",
-    21,
-    "https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html"
+    "nation",
+    24,
+    "https://www.theguardian.com/us-news/2026/apr/12/98-degrees-nick-lachey-documentary-age-of-consent-manual"
   ],
   [
-    "american",
-    21,
-    "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html"
-  ],
-  [
-    "book",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
+    "york",
+    22,
+    "https://www.theguardian.com/music/2026/apr/12/justin-bieber-coachella-review"
   ],
   [
     "iranian",
-    20,
-    "https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html"
+    21,
+    "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html"
   ],
   [
-    "court",
-    20,
-    "https://www.washingtonpost.com/national-security/2026/04/11/fisa-section-702-renewal-deadline-surveillance/"
+    "coachella",
+    21,
+    "https://www.nytimes.com/2026/04/12/arts/music/sabrina-carpenter-coachella-apology.html"
   ],
   [
-    "power",
+    "country",
+    21,
+    "https://www.washingtonpost.com/nation/2026/04/11/trump-iran-morality-war-class/"
+  ],
+  [
+    "artemis",
+    21,
+    "https://www.theguardian.com/science/2026/apr/12/artemis-ii-crew-speak-out"
+  ],
+  [
+    "brennan",
     20,
-    "https://www.theguardian.com/world/2026/apr/12/hungarians-vote-in-hard-fought-election-that-could-oust-viktor-orban-after-16-years"
+    "https://www.theguardian.com/us-news/2026/apr/12/ex-cia-director-oust-trump-25th-amendment"
   ],
   [
     "vance",
     19,
-    "https://www.nytimes.com/2026/04/12/us/politics/vance-iran-talks.html"
+    "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
   ],
   [
-    "military",
+    "margaret",
     19,
-    "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html"
+    "https://www.nytimes.com/2026/04/11/obituaries/margaret-gipsy-moth-overlooked.html"
   ],
   [
-    "young",
+    "water",
     19,
-    "https://www.theguardian.com/us-news/2026/apr/12/college-graduates-job-market-ai"
+    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
   ],
   [
-    "police",
+    "club",
     19,
-    "https://www.theguardian.com/us-news/2026/apr/12/police-taskforce-gilgo-beach-serial-killer"
+    "https://www.theguardian.com/sport/live/2026/apr/12/golf-the-masters-2026-final-round-live"
   ],
   [
-    "office",
-    19,
-    "https://www.theguardian.com/us-news/2026/apr/12/trump-news-at-a-glance-latest-updates-today"
+    "festival",
+    18,
+    "https://www.nytimes.com/2026/04/12/arts/music/sabrina-carpenter-coachella-apology.html"
   ],
   [
-    "health",
+    "department",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
+  ],
+  [
+    "money",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
+  ],
+  [
+    "book",
     18,
     "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
   ],
   [
     "donald",
     18,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/king-charles-us-visit-tough-love-speech-congress"
-  ],
-  [
-    "night",
-    18,
-    "https://www.theguardian.com/sport/2026/apr/12/donald-trump-marco-rubio-ufc-iran-war"
-  ],
-  [
-    "department",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
-  ],
-  [
-    "money",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
-  ],
-  [
-    "space",
-    17,
-    "https://www.theguardian.com/science/2026/apr/11/artemis-ii-nasa-budget-cuts"
-  ],
-  [
-    "earth",
-    17,
-    "https://www.theguardian.com/science/2026/apr/11/artemis-ii-nasa-budget-cuts"
-  ],
-  [
-    "mission",
-    17,
-    "https://www.theguardian.com/science/2026/apr/11/artemis-ii-nasa-budget-cuts"
-  ],
-  [
-    "guide",
-    17,
-    "https://www.theguardian.com/thefilter-us/2025/nov/11/best-juicers-to-buy"
+    "https://www.theguardian.com/world/2026/apr/12/trump-vance-aliens-ufo"
   ],
   [
     "strait",
-    16,
-    "https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html"
+    18,
+    "https://www.theguardian.com/world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal"
+  ],
+  [
+    "american",
+    18,
+    "https://www.theguardian.com/us-news/2026/apr/12/college-graduates-job-market-ai"
   ],
   [
     "pop",
+    17,
+    "https://www.nytimes.com/2026/04/12/arts/music/sabrina-carpenter-coachella-apology.html"
+  ],
+  [
+    "peace",
+    17,
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+  ],
+  [
+    "early",
+    17,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "health",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
+  ],
+  [
+    "black",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
+  ],
+  [
+    "hormuz",
+    17,
+    "https://www.theguardian.com/world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal"
+  ],
+  [
+    "police",
+    17,
+    "https://www.theguardian.com/technology/2026/apr/10/sam-altman-home-molotov-cocktail"
+  ],
+  [
+    "power",
     16,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-what-to-know.html"
   ],
   [
-    "art",
+    "government",
     16,
-    "https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history"
+    "https://www.washingtonpost.com/national-security/2026/04/11/fisa-section-702-renewal-deadline-surveillance/"
   ],
   [
-    "pakistan",
-    15,
-    "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html"
+    "space",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/12/seattle-punk-rock-flea-market"
   ],
   [
-    "swalwell",
+    "mission",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/12/from-andrew-tate-to-mountbatten-windsor-the-council-of-andrews-reclaiming-their-name"
+  ],
+  [
+    "office",
+    16,
+    "https://www.theguardian.com/world/2026/apr/12/crypto-javier-milei-bribery-argentina"
+  ],
+  [
+    "director",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/12/ex-cia-director-oust-trump-25th-amendment"
+  ],
+  [
+    "night",
+    16,
+    "https://www.theguardian.com/sport/2026/apr/12/donald-trump-marco-rubio-ufc-iran-war"
+  ],
+  [
+    "final",
+    16,
+    "https://www.theguardian.com/sport/live/2026/apr/12/golf-the-masters-2026-final-round-live"
+  ],
+  [
+    "full",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/apr/12/a-messy-garden-is-a-glorious-garden-stop-paving-over"
+  ],
+  [
+    "guide",
+    16,
+    "https://www.theguardian.com/thefilter-us/2025/nov/11/best-juicers-to-buy"
+  ],
+  [
+    "rep",
+    16,
+    "https://www.latimes.com/california/story/2026-04-11/rep-eric-swalwell-faces-calls-to-drop-out-after-assault-claims"
+  ],
+  [
+    "eric",
     15,
-    "https://www.nytimes.com/2026/04/11/us/swalwell-house-removal-votes.html"
+    "https://www.nytimes.com/2026/04/12/us/california-democrats-eric-swalwell.html"
+  ],
+  [
+    "political",
+    15,
+    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-what-to-know.html"
+  ],
+  [
+    "don",
+    15,
+    "https://www.nytimes.com/2026/04/12/arts/music/sabrina-carpenter-coachella-apology.html"
+  ],
+  [
+    "military",
+    15,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "million",
@@ -176,49 +241,24 @@
     "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "food",
+    "art",
     15,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
+    "https://www.theguardian.com/us-news/2026/apr/11/bombay-beach-biennale-biennale-california"
   ],
   [
-    "water",
+    "star",
     15,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
+    "https://www.theguardian.com/music/2026/apr/12/justin-bieber-coachella-review"
   ],
   [
-    "black",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
-  ],
-  [
-    "don",
-    15,
-    "https://www.theguardian.com/books/2026/apr/12/too-hot-to-handle-why-its-time-for-straight-male-authors-to-rediscover-sex"
-  ],
-  [
-    "market",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/12/college-graduates-job-market-ai"
-  ],
-  [
-    "election",
-    15,
-    "https://www.theguardian.com/world/2026/apr/12/hungarians-vote-in-hard-fought-election-that-could-oust-viktor-orban-after-16-years"
-  ],
-  [
-    "orb",
-    15,
-    "https://www.theguardian.com/world/2026/apr/12/hungarians-vote-in-hard-fought-election-that-could-oust-viktor-orban-after-16-years"
-  ],
-  [
-    "series",
-    15,
-    "https://www.theguardian.com/football/2026/apr/11/uswnt-japan-friendly-rose-lavelle-lindsey-heaps"
-  ],
-  [
-    "hormuz",
+    "start",
     14,
-    "https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html"
+    "https://www.nytimes.com/2026/04/11/business/lauren-sanchez-bezos-jeff-bezos.html"
+  ],
+  [
+    "americans",
+    14,
+    "https://www.washingtonpost.com/national-security/2026/04/11/fisa-section-702-renewal-deadline-surveillance/"
   ],
   [
     "love",
@@ -231,148 +271,108 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "inside",
+    "israeli",
     14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "food",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
+  ],
+  [
+    "market",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/12/seattle-punk-rock-flea-market"
+  ],
+  [
+    "blockade",
+    14,
+    "https://www.theguardian.com/world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal"
+  ],
+  [
+    "democratic",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/12/congress-eric-swalwell-tony-gonzales"
+  ],
+  [
+    "series",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/12/kindness-strangers-ashes-heat-offered-shady-seats"
+  ],
+  [
+    "music",
+    14,
+    "https://www.theguardian.com/music/2026/apr/12/indian-singer-asha-bhosle-dies-aged-92"
+  ],
+  [
+    "hours",
+    13,
+    "https://www.nytimes.com/2026/04/12/us/politics/vance-iran-talks.html"
+  ],
+  [
+    "race",
+    13,
+    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-sexual-misconduct.html"
   ],
   [
     "san",
-    14,
-    "https://www.theguardian.com/technology/2026/apr/12/tiktok-diagnose-cancer-chronic-illnesses-doctors"
-  ],
-  [
-    "industry",
-    14,
-    "https://www.theguardian.com/news/ng-interactive/2026/apr/12/a-house-of-cards-how-did-wireless-festival-get-it-so-wrong-on-kanye-west"
-  ],
-  [
-    "game",
-    14,
-    "https://www.theguardian.com/world/2026/apr/12/russia-bucha-occupation-recruitment-bohdan-tymchenko-acts-of-sabotage-bucha"
-  ],
-  [
-    "moon",
-    14,
-    "https://www.theguardian.com/science/2026/apr/11/artemis-ii-nasa-budget-cuts"
-  ],
-  [
-    "family",
-    14,
-    "https://www.theguardian.com/sport/2026/apr/12/donald-trump-marco-rubio-ufc-iran-war"
-  ],
-  [
-    "test",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/12/trump-budget-healthcare-military"
-  ],
-  [
-    "weekly",
-    14,
-    "https://www.theguardian.com/artanddesign/2026/apr/10/the-week-in-art"
-  ],
-  [
-    "viktor",
     13,
-    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-polls.html"
+    "https://www.nytimes.com/2026/04/12/us/trump-presidio-landmark-board-fired.html"
   ],
   [
-    "global",
+    "members",
     13,
-    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-what-to-know.html"
+    "https://www.nytimes.com/2026/04/12/us/trump-presidio-landmark-board-fired.html"
   ],
   [
-    "political",
+    "job",
     13,
-    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-what-to-know.html"
+    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
   ],
   [
-    "start",
+    "election",
     13,
-    "https://www.nytimes.com/2026/04/11/business/lauren-sanchez-bezos-jeff-bezos.html"
+    "https://www.theguardian.com/world/live/2026/apr/12/hungary-election-latest-results-viktor-orban-peter-magyar-fidesz-tisza-russia-europe-live-news-updates"
   ],
   [
-    "college",
+    "orb",
     13,
-    "https://www.washingtonpost.com/nation/2026/04/11/trump-iran-morality-war-class/"
-  ],
-  [
-    "americans",
-    13,
-    "https://www.washingtonpost.com/national-security/2026/04/11/fisa-section-702-renewal-deadline-surveillance/"
-  ],
-  [
-    "early",
-    13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/world/live/2026/apr/12/hungary-election-latest-results-viktor-orban-peter-magyar-fidesz-tisza-russia-europe-live-news-updates"
   ],
   [
     "feel",
     13,
-    "https://www.theguardian.com/books/2026/apr/12/too-hot-to-handle-why-its-time-for-straight-male-authors-to-rediscover-sex"
+    "https://www.theguardian.com/us-news/2026/apr/12/college-graduates-job-market-ai"
   ],
   [
-    "enough",
-    13,
-    "https://www.theguardian.com/books/2026/apr/12/too-hot-to-handle-why-its-time-for-straight-male-authors-to-rediscover-sex"
-  ],
-  [
-    "video",
-    13,
-    "https://www.theguardian.com/world/2026/apr/12/russia-bucha-occupation-recruitment-bohdan-tymchenko-acts-of-sabotage-bucha"
-  ],
-  [
-    "fewer",
+    "young",
     13,
     "https://www.theguardian.com/us-news/2026/apr/12/college-graduates-job-market-ai"
   ],
   [
-    "coachella",
+    "moon",
     13,
-    "https://www.theguardian.com/music/2026/apr/11/sabrina-carpenter-coachella-review-will-ferrell-susan-sarandon"
+    "https://www.theguardian.com/science/2026/apr/12/artemis-ii-crew-speak-out"
   ],
   [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2025/nov/11/best-juicers-to-buy"
-  ],
-  [
-    "buying",
-    13,
-    "https://www.theguardian.com/thefilter-us/2025/nov/11/best-juicers-to-buy"
-  ],
-  [
-    "final",
+    "failed",
     12,
-    "https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html"
+    "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
   ],
   [
-    "hours",
+    "states",
+    12,
+    "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
+  ],
+  [
+    "win",
+    12,
+    "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html"
+  ],
+  [
+    "administration",
     12,
     "https://www.nytimes.com/2026/04/12/us/politics/vance-iran-talks.html"
-  ],
-  [
-    "far",
-    12,
-    "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html"
-  ],
-  [
-    "historic",
-    12,
-    "https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html"
-  ],
-  [
-    "music",
-    12,
-    "https://www.nytimes.com/2026/04/12/headway/philly-teens-neighborhood-safety-music.html"
-  ],
-  [
-    "recent",
-    12,
-    "https://www.washingtonpost.com/national-security/2026/04/11/fisa-section-702-renewal-deadline-surveillance/"
-  ],
-  [
-    "garden",
-    12,
-    "https://www.washingtonpost.com/obituaries/2026/04/11/pearl-fryar-dead-topiary-artist/"
   ]
 ];
