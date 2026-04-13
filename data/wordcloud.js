@@ -2,263 +2,308 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    98,
-    "https://www.nytimes.com/2026/04/12/us/politics/vance-iran-talks.html"
+    120,
+    "https://www.nytimes.com/2026/04/12/us/politics/trump-gas-prices-high-midterms-republicans.html"
   ],
   [
     "iran",
-    87,
-    "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
-  ],
-  [
-    "president",
-    57,
-    "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
-  ],
-  [
-    "war",
-    47,
-    "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
-  ],
-  [
-    "talks",
-    36,
-    "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
-  ],
-  [
-    "california",
-    30,
-    "https://www.nytimes.com/2026/04/12/us/california-democrats-eric-swalwell.html"
-  ],
-  [
-    "swalwell",
-    24,
-    "https://www.nytimes.com/2026/04/12/us/california-democrats-eric-swalwell.html"
-  ],
-  [
-    "nation",
-    24,
-    "https://www.theguardian.com/us-news/2026/apr/12/98-degrees-nick-lachey-documentary-age-of-consent-manual"
-  ],
-  [
-    "york",
-    22,
-    "https://www.theguardian.com/music/2026/apr/12/justin-bieber-coachella-review"
-  ],
-  [
-    "iranian",
-    21,
+    79,
     "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html"
   ],
   [
-    "coachella",
-    21,
-    "https://www.nytimes.com/2026/04/12/arts/music/sabrina-carpenter-coachella-apology.html"
+    "president",
+    71,
+    "https://www.nytimes.com/2026/04/12/us/politics/trump-gas-prices-high-midterms-republicans.html"
+  ],
+  [
+    "war",
+    44,
+    "https://www.nytimes.com/2026/04/13/business/energy-environment/china-energy-battery-grid.html"
+  ],
+  [
+    "talks",
+    39,
+    "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html"
+  ],
+  [
+    "swalwell",
+    37,
+    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
+  ],
+  [
+    "strait",
+    36,
+    "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
+  ],
+  [
+    "california",
+    34,
+    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
+  ],
+  [
+    "hormuz",
+    31,
+    "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
+  ],
+  [
+    "pope",
+    29,
+    "https://www.nytimes.com/2026/04/13/world/europe/pope-leo-africa-future.html"
   ],
   [
     "country",
-    21,
-    "https://www.washingtonpost.com/nation/2026/04/11/trump-iran-morality-war-class/"
+    27,
+    "https://www.nytimes.com/2026/04/13/world/europe/pope-leo-africa-future.html"
   ],
   [
-    "artemis",
-    21,
-    "https://www.theguardian.com/science/2026/apr/12/artemis-ii-crew-speak-out"
+    "leo",
+    26,
+    "https://www.nytimes.com/2026/04/13/world/europe/pope-leo-africa-future.html"
   ],
   [
-    "brennan",
+    "york",
+    26,
+    "https://www.nytimes.com/2026/04/12/nyregion/nyc-inflation-prices.html"
+  ],
+  [
+    "peace",
+    26,
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+  ],
+  [
+    "blockade",
+    26,
+    "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
+  ],
+  [
+    "donald",
+    25,
+    "https://www.theguardian.com/world/2026/apr/12/trump-vance-aliens-ufo"
+  ],
+  [
+    "election",
+    23,
+    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
+  ],
+  [
+    "governor",
+    23,
+    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
+  ],
+  [
+    "night",
+    22,
+    "https://www.nytimes.com/2026/04/13/world/europe/trump-dutch-royal-visit-white-house.html"
+  ],
+  [
+    "orb",
+    22,
+    "https://www.theguardian.com/world/2026/apr/12/viktor-orban-concedes-defeat-as-opposition-wins-hungarian-election"
+  ],
+  [
+    "eric",
+    21,
+    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
+  ],
+  [
+    "allegations",
+    21,
+    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
+  ],
+  [
+    "power",
+    21,
+    "https://www.nytimes.com/2026/04/13/world/asia/malaysia-electric-cars-china.html"
+  ],
+  [
+    "mcilroy",
+    21,
+    "https://www.theguardian.com/sport/2026/apr/13/rory-mcilroy-wins-masters-again-augusta-national-golf"
+  ],
+  [
+    "iranian",
     20,
-    "https://www.theguardian.com/us-news/2026/apr/12/ex-cia-director-oust-trump-25th-amendment"
+    "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html"
   ],
   [
-    "vance",
-    19,
-    "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
+    "military",
+    20,
+    "https://www.nytimes.com/2026/04/12/world/africa/snigerian-airstrike-insurgents-civilians.html"
   ],
   [
-    "margaret",
-    19,
-    "https://www.nytimes.com/2026/04/11/obituaries/margaret-gipsy-moth-overlooked.html"
+    "masters",
+    20,
+    "https://www.theguardian.com/sport/2026/apr/13/rory-mcilroy-wins-masters-again-augusta-national-golf"
   ],
   [
-    "water",
+    "viktor",
     19,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
+    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
+  ],
+  [
+    "american",
+    19,
+    "https://www.theguardian.com/us-news/2026/apr/12/college-graduates-job-market-ai"
+  ],
+  [
+    "campaign",
+    18,
+    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
+  ],
+  [
+    "pop",
+    18,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "space",
+    18,
+    "https://www.theguardian.com/us-news/2026/apr/12/seattle-punk-rock-flea-market"
+  ],
+  [
+    "political",
+    18,
+    "https://www.theguardian.com/world/2026/apr/12/crypto-javier-milei-bribery-argentina"
+  ],
+  [
+    "rory",
+    18,
+    "https://www.theguardian.com/sport/2026/apr/13/rory-mcilroy-wins-masters-again-augusta-national-golf"
   ],
   [
     "club",
-    19,
-    "https://www.theguardian.com/sport/live/2026/apr/12/golf-the-masters-2026-final-round-live"
+    18,
+    "https://www.theguardian.com/music/2026/apr/12/justin-bieber-coachella-review"
   ],
   [
-    "festival",
-    18,
-    "https://www.nytimes.com/2026/04/12/arts/music/sabrina-carpenter-coachella-apology.html"
+    "hungary",
+    17,
+    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
   ],
   [
-    "department",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
-  ],
-  [
-    "money",
-    18,
+    "job",
+    17,
     "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
   ],
   [
     "book",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
-  ],
-  [
-    "donald",
-    18,
-    "https://www.theguardian.com/world/2026/apr/12/trump-vance-aliens-ufo"
-  ],
-  [
-    "strait",
-    18,
-    "https://www.theguardian.com/world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal"
-  ],
-  [
-    "american",
-    18,
-    "https://www.theguardian.com/us-news/2026/apr/12/college-graduates-job-market-ai"
-  ],
-  [
-    "pop",
-    17,
-    "https://www.nytimes.com/2026/04/12/arts/music/sabrina-carpenter-coachella-apology.html"
-  ],
-  [
-    "peace",
-    17,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "early",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "health",
     17,
     "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
   ],
   [
-    "black",
+    "coachella",
     17,
+    "https://www.theguardian.com/music/2026/apr/12/justin-bieber-coachella-review"
+  ],
+  [
+    "market",
+    16,
+    "https://www.nytimes.com/2026/04/13/world/asia/malaysia-electric-cars-china.html"
+  ],
+  [
+    "oil",
+    16,
+    "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
+  ],
+  [
+    "little",
+    16,
+    "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
+  ],
+  [
+    "price",
+    16,
+    "https://www.theguardian.com/world/2026/apr/13/strait-of-hormuz-blockade-what-why-explained-navy-trump-iran"
+  ],
+  [
+    "friends",
+    15,
+    "https://www.nytimes.com/2026/04/10/world/europe/hungary-corruption-orban-magyar-election.html"
+  ],
+  [
+    "prices",
+    15,
+    "https://www.nytimes.com/2026/04/12/us/politics/trump-gas-prices-high-midterms-republicans.html"
+  ],
+  [
+    "sexual",
+    15,
+    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
+  ],
+  [
+    "global",
+    15,
+    "https://www.nytimes.com/2026/04/13/world/asia/malaysia-electric-cars-china.html"
+  ],
+  [
+    "season",
+    15,
+    "https://www.nytimes.com/2026/04/12/style/euphoria-costumes.html"
+  ],
+  [
+    "food",
+    15,
     "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
   ],
   [
-    "hormuz",
-    17,
-    "https://www.theguardian.com/world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal"
-  ],
-  [
-    "police",
-    17,
-    "https://www.theguardian.com/technology/2026/apr/10/sam-altman-home-molotov-cocktail"
-  ],
-  [
-    "power",
-    16,
-    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-what-to-know.html"
-  ],
-  [
-    "government",
-    16,
-    "https://www.washingtonpost.com/national-security/2026/04/11/fisa-section-702-renewal-deadline-surveillance/"
-  ],
-  [
-    "space",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/12/seattle-punk-rock-flea-market"
-  ],
-  [
-    "mission",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/12/from-andrew-tate-to-mountbatten-windsor-the-council-of-andrews-reclaiming-their-name"
+    "water",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
   ],
   [
     "office",
-    16,
+    15,
     "https://www.theguardian.com/world/2026/apr/12/crypto-javier-milei-bribery-argentina"
   ],
   [
-    "director",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/12/ex-cia-director-oust-trump-25th-amendment"
-  ],
-  [
-    "night",
-    16,
-    "https://www.theguardian.com/sport/2026/apr/12/donald-trump-marco-rubio-ufc-iran-war"
-  ],
-  [
-    "final",
-    16,
-    "https://www.theguardian.com/sport/live/2026/apr/12/golf-the-masters-2026-final-round-live"
-  ],
-  [
-    "full",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/a-messy-garden-is-a-glorious-garden-stop-paving-over"
-  ],
-  [
-    "guide",
-    16,
-    "https://www.theguardian.com/thefilter-us/2025/nov/11/best-juicers-to-buy"
-  ],
-  [
-    "rep",
-    16,
-    "https://www.latimes.com/california/story/2026-04-11/rep-eric-swalwell-faces-calls-to-drop-out-after-assault-claims"
-  ],
-  [
-    "eric",
+    "race",
     15,
-    "https://www.nytimes.com/2026/04/12/us/california-democrats-eric-swalwell.html"
+    "https://www.theguardian.com/world/2026/apr/12/trump-vance-aliens-ufo"
   ],
   [
-    "political",
+    "hours",
     15,
-    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-what-to-know.html"
+    "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
+  ],
+  [
+    "democratic",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor"
+  ],
+  [
+    "record",
+    15,
+    "https://www.theguardian.com/sport/2026/apr/13/rory-mcilroy-wins-masters-again-augusta-national-golf"
   ],
   [
     "don",
     15,
-    "https://www.nytimes.com/2026/04/12/arts/music/sabrina-carpenter-coachella-apology.html"
+    "https://www.theguardian.com/books/2026/apr/12/too-hot-to-handle-why-its-time-for-straight-male-authors-to-rediscover-sex"
   ],
   [
-    "military",
+    "artemis",
     15,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.theguardian.com/science/2026/apr/12/artemis-ii-crew-speak-out"
   ],
   [
-    "million",
+    "guide",
     15,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.theguardian.com/thefilter-us/2025/nov/11/best-juicers-to-buy"
   ],
   [
-    "art",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/11/bombay-beach-biennale-biennale-california"
-  ],
-  [
-    "star",
-    15,
-    "https://www.theguardian.com/music/2026/apr/12/justin-bieber-coachella-review"
-  ],
-  [
-    "start",
+    "defeat",
     14,
-    "https://www.nytimes.com/2026/04/11/business/lauren-sanchez-bezos-jeff-bezos.html"
+    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
   ],
   [
-    "americans",
+    "win",
     14,
-    "https://www.washingtonpost.com/national-security/2026/04/11/fisa-section-702-renewal-deadline-surveillance/"
+    "https://www.nytimes.com/2026/04/13/business/energy-environment/china-energy-battery-grid.html"
+  ],
+  [
+    "assault",
+    14,
+    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
   ],
   [
     "love",
@@ -266,113 +311,68 @@
     "https://www.washingtonpost.com/obituaries/2026/04/11/pearl-fryar-dead-topiary-artist/"
   ],
   [
-    "israel",
-    14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "israeli",
-    14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "food",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
-  ],
-  [
-    "market",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/12/seattle-punk-rock-flea-market"
-  ],
-  [
-    "blockade",
-    14,
-    "https://www.theguardian.com/world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal"
-  ],
-  [
-    "democratic",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/12/congress-eric-swalwell-tony-gonzales"
-  ],
-  [
     "series",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/12/kindness-strangers-ashes-heat-offered-shady-seats"
+    "https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor"
   ],
   [
-    "music",
+    "won",
     14,
-    "https://www.theguardian.com/music/2026/apr/12/indian-singer-asha-bhosle-dies-aged-92"
+    "https://www.theguardian.com/world/2026/apr/12/viktor-orban-concedes-defeat-as-opposition-wins-hungarian-election"
   ],
   [
-    "hours",
-    13,
-    "https://www.nytimes.com/2026/04/12/us/politics/vance-iran-talks.html"
-  ],
-  [
-    "race",
-    13,
-    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-sexual-misconduct.html"
-  ],
-  [
-    "san",
-    13,
-    "https://www.nytimes.com/2026/04/12/us/trump-presidio-landmark-board-fired.html"
-  ],
-  [
-    "members",
-    13,
-    "https://www.nytimes.com/2026/04/12/us/trump-presidio-landmark-board-fired.html"
-  ],
-  [
-    "job",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
-  ],
-  [
-    "election",
-    13,
-    "https://www.theguardian.com/world/live/2026/apr/12/hungary-election-latest-results-viktor-orban-peter-magyar-fidesz-tisza-russia-europe-live-news-updates"
-  ],
-  [
-    "orb",
-    13,
-    "https://www.theguardian.com/world/live/2026/apr/12/hungary-election-latest-results-viktor-orban-peter-magyar-fidesz-tisza-russia-europe-live-news-updates"
-  ],
-  [
-    "feel",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/12/college-graduates-job-market-ai"
-  ],
-  [
-    "young",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/12/college-graduates-job-market-ai"
+    "straight",
+    14,
+    "https://www.theguardian.com/books/2026/apr/12/too-hot-to-handle-why-its-time-for-straight-male-authors-to-rediscover-sex"
   ],
   [
     "moon",
-    13,
+    14,
     "https://www.theguardian.com/science/2026/apr/12/artemis-ii-crew-speak-out"
   ],
   [
-    "failed",
-    12,
-    "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
+    "magyar",
+    13,
+    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
   ],
   [
-    "states",
-    12,
-    "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
+    "growing",
+    13,
+    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
   ],
   [
-    "win",
-    12,
-    "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html"
+    "recent",
+    13,
+    "https://www.nytimes.com/2026/04/13/world/europe/hungary-eu-orban-magyar.html"
   ],
   [
-    "administration",
-    12,
-    "https://www.nytimes.com/2026/04/12/us/politics/vance-iran-talks.html"
+    "party",
+    13,
+    "https://www.nytimes.com/2026/04/12/us/politics/trump-gas-prices-high-midterms-republicans.html"
+  ],
+  [
+    "killed",
+    13,
+    "https://www.nytimes.com/2026/04/12/world/africa/snigerian-airstrike-insurgents-civilians.html"
+  ],
+  [
+    "garden",
+    13,
+    "https://www.nytimes.com/2026/04/11/arts/design/pearl-fryar-dead.html"
+  ],
+  [
+    "government",
+    13,
+    "https://www.washingtonpost.com/national-security/2026/04/11/fisa-section-702-renewal-deadline-surveillance/"
+  ],
+  [
+    "early",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "here's",
+    13,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ]
 ];
