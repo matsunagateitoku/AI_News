@@ -3,7 +3,7 @@
   "ORG": [
     {
       "name": "Trump Fires Board",
-      "count": 60,
+      "count": 59,
       "url": "https://www.nytimes.com/2026/04/12/us/trump-presidio-landmark-board-fired.html",
       "source": "NY Times"
     },
@@ -14,6 +14,12 @@
       "source": "The Guardian"
     },
     {
+      "name": "Eu",
+      "count": 13,
+      "url": "https://www.theguardian.com/world/2026/apr/13/hungary-election-results-eu-europe-leaders-react-peter-magyar-viktor-orban",
+      "source": "The Guardian"
+    },
+    {
       "name": "The Filter Us",
       "count": 11,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
@@ -21,53 +27,171 @@
     },
     {
       "name": "Guardian News",
-      "count": 11,
+      "count": 10,
       "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
       "name": "The White House",
       "count": 9,
-      "url": "https://www.theguardian.com/world/2026/apr/12/trump-vance-aliens-ufo",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Eu",
-      "count": 8,
       "url": "https://www.theguardian.com/world/2026/apr/12/viktor-orban-concedes-defeat-as-opposition-wins-hungarian-election",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Orbán",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/2026/apr/12/viktor-orban-concedes-defeat-as-opposition-wins-hungarian-election",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nasa",
-      "count": 8,
-      "url": "https://www.theguardian.com/science/2026/apr/12/artemis-ii-crew-speak-out",
       "source": "The Guardian"
     },
     {
       "name": "Britney Spears",
-      "count": 8,
+      "count": 9,
       "url": "https://www.latimes.com/entertainment-arts/story/2026-04-12/britney-spears-voluntarily-checks-into-rehab",
       "source": "LA Times"
     },
     {
-      "name": "Congress",
+      "name": "Orbán",
       "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/12/king-charles-us-visit-tough-love-speech-congress",
+      "url": "https://www.theguardian.com/world/2026/apr/13/hungary-election-results-eu-europe-leaders-react-peter-magyar-viktor-orban",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop Senate",
+      "count": 7,
+      "url": "https://www.politico.com/news/2026/04/02/georgia-senate-ossoff-trump-republicans-00854884",
+      "source": "Politico"
+    },
+    {
+      "name": "Augusta National Golf Club",
+      "count": 7,
+      "url": "https://thehill.com/blogs/in-the-know/5828361-trump-congratulates-rory-mcilroy/",
+      "source": "The Hill"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Iran",
+      "count": 67,
+      "url": "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Us",
+      "count": 62,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 43,
+      "url": "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 30,
+      "url": "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Hungary",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City ’S",
+      "count": 22,
+      "url": "https://www.theguardian.com/us-news/2026/apr/11/shooting-stabbing-new-york-grand-central-station",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 10,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Washington",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/04/12/us/california-democrats-eric-swalwell.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 9,
+      "url": "https://www.theguardian.com/world/2026/apr/12/mauritius-vows-decolonise-chagos-islands-starmer-shelves-handover",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County",
+      "count": 9,
+      "url": "https://www.latimes.com/environment/story/2026-04-06/wolf-that-visited-los-angeles-county-arrives-in-into-county-historic-moment",
+      "source": "LA Times"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 27,
+      "url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Rory Mcilroy",
+      "count": 25,
+      "url": "https://www.theguardian.com/sport/2026/apr/13/rory-mcilroy-ignores-jack-nicklauss-advice-and-tames-augustas-terrible-12th",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump Jr",
+      "count": 24,
+      "url": "https://www.theguardian.com/sport/2026/apr/12/donald-trump-marco-rubio-ufc-iran-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Back Eric Swalwell",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/04/12/us/california-democrats-eric-swalwell.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Coachella",
+      "count": 15,
+      "url": "https://www.theguardian.com/music/gallery/2026/apr/13/coachella-2026-image-gallery-photos-in-pictures",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Viktor Orbán",
+      "count": 13,
+      "url": "https://www.theguardian.com/world/2026/apr/13/hungary-election-results-eu-europe-leaders-react-peter-magyar-viktor-orban",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/12/the-guardian-view-on-us-iran-talks-trumps-diplomacy-falters-as-risk-of-war-grows",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hormuz",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Leo Xiv",
+      "count": 8,
+      "url": "https://www.theguardian.com/world/2026/apr/13/donald-trump-pope-leo",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Sabrina Carpenter",
+      "count": 8,
+      "url": "https://www.theguardian.com/music/gallery/2026/apr/13/coachella-2026-image-gallery-photos-in-pictures",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The Iran War",
+      "name": "The Iran War Has Made Clear The Old Arrangements Are Over",
       "count": 4,
-      "url": "https://www.theguardian.com/politics/2026/apr/12/britain-single-market-rules-uk-eu-reset",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/04/13/opinion/uae-iran-war-trump-gulf-oil-dubai.html",
+      "source": "NY Times"
     },
     {
       "name": "World Cup",
@@ -76,10 +200,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "War With Iran Has Weakened America",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/04/12/opinion/trump-iran-war-incompetence-america.html",
-      "source": "NY Times"
+      "name": "The Iran War",
+      "count": 3,
+      "url": "https://www.theguardian.com/society/2026/apr/13/iran-conflict-poverty-united-nations-development-reverse",
+      "source": "The Guardian"
     },
     {
       "name": "The New Look Of ‘Euphoria",
@@ -88,15 +212,15 @@
       "source": "NY Times"
     },
     {
-      "name": "Justice World Tour",
-      "count": 1,
-      "url": "https://www.theguardian.com/music/2026/apr/12/justin-bieber-coachella-review",
-      "source": "The Guardian"
-    },
-    {
       "name": "New Year",
       "count": 1,
       "url": "https://www.theguardian.com/music/2026/apr/10/reckonwrong-how-long-has-it-been-review-wonky-delight-with-shades-of-arthur-russell-and-robert-wyatt",
+      "source": "The Guardian"
+    },
+    {
+      "name": "War With",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/apr/12/visual-guide-us-military-bases-british-soil-iran-war",
       "source": "The Guardian"
     },
     {
@@ -124,129 +248,5 @@
       "source": "Politico"
     }
   ],
-  "GPE": [
-    {
-      "name": "Iran",
-      "count": 71,
-      "url": "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Us",
-      "count": 68,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 43,
-      "url": "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 29,
-      "url": "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Hungary",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City ’S",
-      "count": 23,
-      "url": "https://www.theguardian.com/us-news/2026/apr/11/shooting-stabbing-new-york-grand-central-station",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Uk",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/12/king-charles-us-visit-tough-love-speech-congress",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Washington",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/04/12/us/california-democrats-eric-swalwell.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Pakistan",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/2026/apr/12/us-iran-21-hours-talks-war-vance-pakistan",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 30,
-      "url": "https://www.theguardian.com/world/2026/apr/12/trump-vance-aliens-ufo",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump Jr",
-      "count": 23,
-      "url": "https://www.theguardian.com/sport/2026/apr/12/donald-trump-marco-rubio-ufc-iran-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Back Eric Swalwell",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/04/12/us/california-democrats-eric-swalwell.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Rory Mcilroy",
-      "count": 17,
-      "url": "https://www.theguardian.com/sport/2026/apr/13/rory-mcilroy-wins-masters-again-augusta-national-golf",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Coachella",
-      "count": 14,
-      "url": "https://www.theguardian.com/music/2026/apr/12/justin-bieber-coachella-review",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Viktor Orbán",
-      "count": 12,
-      "url": "https://www.theguardian.com/world/2026/apr/12/viktor-orban-concedes-defeat-as-opposition-wins-hungarian-election",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jd Vance",
-      "count": 12,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/12/the-guardian-view-on-us-iran-talks-trumps-diplomacy-falters-as-risk-of-war-grows",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hormuz",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Leo Xiv",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/2026/apr/13/donald-trump-pope-leo",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pope Leo",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/04/12/us/politics/trump-attacks-pope-leo.html",
-      "source": "NY Times"
-    }
-  ],
-  "updated": "2026-04-13T04:22:33Z"
+  "updated": "2026-04-13T09:03:59Z"
 };
