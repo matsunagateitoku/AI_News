@@ -8,158 +8,96 @@
       "source": "NY Times"
     },
     {
-      "name": "Pope Leo Xiv",
-      "count": 23,
-      "url": "https://www.npr.org/2026/04/13/nx-s1-5780996/pope-leo-begins-tour-across-africa-as-row-with-trump-over-iran-war-intensifies",
-      "source": "NPR"
-    },
-    {
-      "name": "Eric Swalwell",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/04/13/podcasts/the-headlines/us-strait-of-hormuz-orban-defeated.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Donald Trump Jr",
-      "count": 16,
-      "url": "https://www.theguardian.com/sport/2026/apr/12/donald-trump-marco-rubio-ufc-iran-war",
+      "name": "Donald Trump",
+      "count": 18,
+      "url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
       "source": "The Guardian"
     },
     {
+      "name": "Eric Swalwell",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/04/13/us/politics/eric-swalwell-tony-gonzales-luna-house-expel.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Coachella",
+      "count": 15,
+      "url": "https://www.theguardian.com/music/2026/apr/13/karol-g-coachella-becky-g-wisin-tropicoqueta",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pope Leo Xiv",
       "count": 13,
-      "url": "https://www.theguardian.com/music/gallery/2026/apr/13/coachella-2026-image-gallery-photos-in-pictures",
+      "url": "https://www.npr.org/2026/04/13/nx-s1-5780996/pope-leo-begins-tour-across-africa-row-with-trump-iran-war",
+      "source": "NPR"
+    },
+    {
+      "name": "Viktor Orbán",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/13/viktor-orban-europe-hungary-democracy-peter-magyar-victory",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Péter Magyar",
+      "count": 8,
+      "url": "https://www.theguardian.com/world/2026/apr/13/peter-magyar-vows-to-pursue-those-who-plundered-hungary-after-election-win",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "count": 7,
+      "url": "https://www.washingtonpost.com/nation/2026/04/13/mamdani-nyc-grocery-stores/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Jesus Christ-Like",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash",
       "source": "The Guardian"
     },
     {
       "name": "Rory Mcilroy",
-      "count": 12,
-      "url": "https://www.theguardian.com/sport/2026/apr/13/rory-mcilroy-ignores-jack-nicklauss-advice-and-tames-augustas-terrible-12th",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Viktor Orbán - Europe",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/live/2026/apr/13/hungary-peter-magyar-viktor-orban-trump-russia-ukraine-iran-eu-europe-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hormuz",
       "count": 7,
-      "url": "https://www.nytimes.com/2026/04/13/podcasts/the-headlines/us-strait-of-hormuz-orban-defeated.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Brian Hooker",
-      "count": 7,
-      "url": "https://www.cbsnews.com/video/lynette-hookers-texts-to-friend-about-husband-brian-i-cant-be-out-there-with-him/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Zohran Mamdani",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/04/13/nyregion/grand-army-plaza-prospect-park-brooklyn.html",
-      "source": "NY Times"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Ally Viktor Orbán Concedes Defeat",
-      "count": 71,
-      "url": "https://www.today.com/video/trump-ally-viktor-orban-concedes-defeat-in-hungary-election-261226565507",
-      "source": "NBC News"
-    },
-    {
-      "name": "Meta‘S Ai",
-      "count": 18,
-      "url": "https://www.theguardian.com/news/audio/2026/apr/13/metas-ai-glasses-and-the-dawn-of-wearable-tech-podcast",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Britney Spears",
-      "count": 12,
-      "url": "https://www.theguardian.com/music/2026/apr/13/britney-spears-enters-rehab-after-march-dui-arrest",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/13/gamergate-andrew-tate-manosphere-feminists",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Congress",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/13/donald-trump-eric-swalwell-congress-iran-pope-politics-live-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian News",
-      "count": 10,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Eu",
-      "count": 6,
-      "url": "https://www.theguardian.com/world/2026/apr/13/hungary-election-results-eu-europe-leaders-react-peter-magyar-viktor-orban",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Artemis Ii",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/13/artemis-ii-humanity-at-worst-this-week",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nasa",
-      "count": 6,
-      "url": "https://www.theguardian.com/science/2026/apr/11/artemis-ii-nasa-budget-cuts",
+      "url": "https://www.theguardian.com/sport/2026/apr/13/donald-trump-brands-rory-mcilroy-a-legend-after-second-masters-triumph",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 48,
-      "url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+      "count": 50,
+      "url": "https://www.theguardian.com/thefilter-us/2026/apr/13/best-gifts-for-new-moms",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 44,
-      "url": "https://www.nytimes.com/2026/04/13/business/economy/iran-imports-exports-china.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 29,
-      "url": "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html",
+      "count": 41,
+      "url": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 25,
-      "url": "https://www.nytimes.com/2026/04/13/podcasts/the-headlines/us-strait-of-hormuz-orban-defeated.html",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/04/13/us/politics/eric-swalwell-democrats-california.html",
       "source": "NY Times"
     },
     {
       "name": "Hungary",
-      "count": 17,
+      "count": 22,
       "url": "https://www.nytimes.com/2026/04/13/world/europe/orban-hungary-election-magyar-populism.html",
       "source": "NY Times"
     },
     {
-      "name": "North Hollywood",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-04-12/two-pedestrians-killed-in-alleged-dui-crash-north-hollywood",
-      "source": "LA Times"
+      "name": "Swalwell",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/04/13/us/politics/eric-swalwell-democrats-california.html",
+      "source": "NY Times"
     },
     {
       "name": "New York City’S",
@@ -168,36 +106,36 @@
       "source": "The Guardian"
     },
     {
+      "name": "Florida",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/04/13/us/politics/eric-swalwell-tony-gonzales-luna-house-expel.html",
+      "source": "NY Times"
+    },
+    {
       "name": "L.A. County",
-      "count": 10,
+      "count": 9,
       "url": "https://www.latimes.com/environment/story/2026-04-06/wolf-that-visited-los-angeles-county-arrives-in-into-county-historic-moment",
       "source": "LA Times"
     },
     {
-      "name": "China",
-      "count": 7,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Israel",
-      "count": 6,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
+      "name": "North Hollywood",
+      "count": 8,
+      "url": "https://www.latimes.com/california/story/2026-04-07/momo-the-rabbit-killed-boyfriend-charged",
+      "source": "LA Times"
     }
   ],
   "EVENT": [
+    {
+      "name": "The Iran War",
+      "count": 3,
+      "url": "https://www.theguardian.com/world/2026/apr/13/israeli-forces-fire-teargas-at-schoolchildren-holding-west-bank-sit-in",
+      "source": "The Guardian"
+    },
     {
       "name": "World Cup",
       "count": 3,
       "url": "https://www.theguardian.com/football/2026/mar/30/world-cup-2026-mood-host-cities-world-cup-mexico-canada-us",
       "source": "The Guardian"
-    },
-    {
-      "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.cbsnews.com/news/iran-war-pakistan-islamabad-process-round-2/",
-      "source": "CBS News"
     },
     {
       "name": "Olympics",
@@ -206,35 +144,85 @@
       "source": "The Guardian"
     },
     {
+      "name": "Easter Sunday ‘",
+      "count": 2,
+      "url": "https://www.politico.com/news/2026/04/07/tucker-carlson-rips-donald-trump-easter-iran-truth-social-post-00861281",
+      "source": "Politico"
+    },
+    {
       "name": "Another Great Championship, The Masters",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/apr/13/donald-trump-brands-rory-mcilroy-a-legend-after-second-masters-triumph",
       "source": "The Guardian"
     },
     {
-      "name": "Watergate",
+      "name": "Rockstar Games",
       "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/13/social-media-uk-adults-posting-less-twitter-x",
+      "url": "https://www.theguardian.com/games/2026/apr/13/grand-theft-auto-vi-rockstar-games-data-hack-ransom",
       "source": "The Guardian"
-    },
-    {
-      "name": "Katrina",
-      "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/13/california-billionaire-tax-campaign-funding",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New Year",
-      "count": 1,
-      "url": "https://www.theguardian.com/music/2026/apr/10/reckonwrong-how-long-has-it-been-review-wonky-delight-with-shades-of-arthur-russell-and-robert-wyatt",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Easter Sunday ‘",
-      "count": 1,
-      "url": "https://www.politico.com/news/2026/04/07/tucker-carlson-rips-donald-trump-easter-iran-truth-social-post-00861281",
-      "source": "Politico"
     }
   ],
-  "updated": "2026-04-13T14:53:26Z"
+  "ORG": [
+    {
+      "name": "Trump Ally Viktor Orbán Concedes Defeat",
+      "count": 56,
+      "url": "https://www.today.com/video/trump-ally-viktor-orban-concedes-defeat-in-hungary-election-261226565507",
+      "source": "NBC News"
+    },
+    {
+      "name": "Meta‘S Ai",
+      "count": 14,
+      "url": "https://www.theguardian.com/news/audio/2026/apr/13/metas-ai-glasses-and-the-dawn-of-wearable-tech-podcast",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian News",
+      "count": 14,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The House Ethics Committee",
+      "count": 9,
+      "url": "https://www.foxnews.com/politics/swalwell-faces-house-ethics-probe-over-alleged-sexual-misconduct-expulsion-threat-looms",
+      "source": "Fox News"
+    },
+    {
+      "name": "The White House",
+      "count": 9,
+      "url": "https://www.cbsnews.com/video/latest-from-the-white-house-as-trump-bashes-pope-leo-begins-blockade-on-iranian-ports/",
+      "source": "CBS News"
+    },
+    {
+      "name": "House Ethics Committee",
+      "count": 9,
+      "url": "https://www.cbsnews.com/news/eric-swalwell-house-ethics-committee/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Congress",
+      "count": 8,
+      "url": "https://www.npr.org/2026/04/13/nx-s1-5771608/immigration-congress-75-billion",
+      "source": "NPR"
+    },
+    {
+      "name": "Gop Senate",
+      "count": 8,
+      "url": "https://www.politico.com/news/2026/04/02/georgia-senate-ossoff-trump-republicans-00854884",
+      "source": "Politico"
+    },
+    {
+      "name": "Truth Social",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-04-13T20:09:21Z"
 };
