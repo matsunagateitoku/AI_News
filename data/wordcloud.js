@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    118,
-    "https://www.nytimes.com/2026/04/12/us/politics/trump-gas-prices-high-midterms-republicans.html"
-  ],
-  [
-    "iran",
-    75,
-    "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html"
+    125,
+    "https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html"
   ],
   [
     "president",
-    68,
-    "https://www.nytimes.com/2026/04/12/us/politics/trump-gas-prices-high-midterms-republicans.html"
+    55,
+    "https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html"
   ],
   [
-    "war",
-    45,
-    "https://www.nytimes.com/2026/04/13/business/energy-environment/china-energy-battery-grid.html"
-  ],
-  [
-    "swalwell",
-    39,
-    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
-  ],
-  [
-    "talks",
-    37,
-    "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html"
-  ],
-  [
-    "california",
-    36,
-    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
-  ],
-  [
-    "strait",
-    36,
-    "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
-  ],
-  [
-    "mcilroy",
-    32,
-    "https://www.theguardian.com/sport/2026/apr/13/rory-mcilroy-ignores-jack-nicklauss-advice-and-tames-augustas-terrible-12th"
-  ],
-  [
-    "hormuz",
-    32,
-    "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
+    "iran",
+    47,
+    "https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html"
   ],
   [
     "blockade",
-    28,
-    "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
+    34,
+    "https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html"
+  ],
+  [
+    "war",
+    34,
+    "https://www.nytimes.com/2026/04/13/business/economy/iran-imports-exports-china.html"
+  ],
+  [
+    "california",
+    32,
+    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
   ],
   [
     "pope",
-    27,
-    "https://www.nytimes.com/2026/04/12/us/politics/trump-attacks-pope-leo.html"
-  ],
-  [
-    "country",
-    26,
-    "https://www.nytimes.com/2026/04/13/world/europe/pope-leo-africa-future.html"
-  ],
-  [
-    "rory",
-    26,
-    "https://www.theguardian.com/sport/2026/apr/13/rory-mcilroy-ignores-jack-nicklauss-advice-and-tames-augustas-terrible-12th"
-  ],
-  [
-    "donald",
-    26,
-    "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
-  ],
-  [
-    "masters",
-    26,
-    "https://www.theguardian.com/sport/2026/apr/13/rory-mcilroy-wins-masters-again-augusta-national-golf"
-  ],
-  [
-    "election",
-    25,
-    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
-  ],
-  [
-    "york",
-    25,
-    "https://www.nytimes.com/2026/04/12/nyregion/nyc-inflation-prices.html"
-  ],
-  [
-    "governor",
-    24,
-    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
+    30,
+    "https://www.nytimes.com/2026/04/13/us/politics/trump-jesus-pope-leo-truth-social-post.html"
   ],
   [
     "leo",
-    24,
-    "https://www.nytimes.com/2026/04/12/us/politics/trump-attacks-pope-leo.html"
+    25,
+    "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
   ],
   [
-    "orb",
-    24,
-    "https://www.theguardian.com/world/2026/apr/13/hungary-election-results-eu-europe-leaders-react-peter-magyar-viktor-orban"
-  ],
-  [
-    "eric",
-    23,
-    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
-  ],
-  [
-    "peace",
-    23,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "allegations",
+    "strait",
     22,
-    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
+    "https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html"
   ],
   [
-    "power",
+    "hormuz",
     22,
-    "https://www.nytimes.com/2026/04/13/world/asia/malaysia-electric-cars-china.html"
+    "https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html"
   ],
   [
-    "viktor",
-    21,
-    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
-  ],
-  [
-    "american",
-    21,
-    "https://www.theguardian.com/us-news/2026/apr/12/college-graduates-job-market-ai"
-  ],
-  [
-    "iranian",
-    20,
-    "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html"
+    "swalwell",
+    22,
+    "https://www.nytimes.com/2026/04/13/podcasts/the-headlines/us-strait-of-hormuz-orban-defeated.html"
   ],
   [
     "campaign",
-    20,
-    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
+    22,
+    "https://www.nytimes.com/2026/04/13/podcasts/the-headlines/us-strait-of-hormuz-orban-defeated.html"
   ],
   [
-    "hungary",
-    19,
-    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
-  ],
-  [
-    "military",
-    19,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "sexual",
-    17,
-    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
-  ],
-  [
-    "night",
-    17,
-    "https://www.nytimes.com/2026/04/13/world/europe/trump-dutch-royal-visit-white-house.html"
-  ],
-  [
-    "oil",
-    17,
-    "https://www.nytimes.com/2026/04/13/opinion/uae-iran-war-trump-gulf-oil-dubai.html"
-  ],
-  [
-    "pop",
-    17,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "job",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
-  ],
-  [
-    "food",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
-  ],
-  [
-    "book",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
+    "talks",
+    21,
+    "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
   ],
   [
     "political",
-    17,
-    "https://www.theguardian.com/world/2026/apr/12/crypto-javier-milei-bribery-argentina"
+    20,
+    "https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html"
   ],
   [
-    "don",
+    "social",
+    19,
+    "https://www.nytimes.com/2026/04/13/us/politics/trump-jesus-pope-leo-truth-social-post.html"
+  ],
+  [
+    "government",
+    19,
+    "https://www.nytimes.com/2026/04/13/world/canada/mark-carney-liberals-majority-conservatives-defect.html"
+  ],
+  [
+    "mcilroy",
+    19,
+    "https://www.theguardian.com/sport/2026/apr/13/rory-mcilroy-ignores-jack-nicklauss-advice-and-tames-augustas-terrible-12th"
+  ],
+  [
+    "global",
+    18,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "orb",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/apr/13/viktor-orban-europe-hungary-democracy-peter-magyar-victory"
+  ],
+  [
+    "hungary",
+    17,
+    "https://www.nytimes.com/2026/04/13/world/europe/orban-hungary-election-magyar-populism.html"
+  ],
+  [
+    "york",
+    17,
+    "https://www.washingtonpost.com/nation/2026/04/13/doorman-strike-nyc-apartments-affordability/"
+  ],
+  [
+    "latest",
+    17,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "little",
+    17,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/13/world-noise-jigsaw-puzzling-helped-calm-mind"
+  ],
+  [
+    "donald",
     17,
     "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
   ],
   [
-    "club",
+    "money",
     17,
-    "https://www.theguardian.com/sport/2026/apr/12/sergio-garcia-breaks-club-masters-warning-golf"
+    "https://www.theguardian.com/technology/2026/apr/13/x-cuts-payments-users-post-clickbait-recycle-news"
   ],
   [
-    "magyar",
+    "don",
     16,
-    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
+    "https://www.nytimes.com/2026/04/13/world/israeli-iran-war-polls.html"
   ],
   [
-    "win",
+    "election",
     16,
-    "https://www.nytimes.com/2026/04/13/business/energy-environment/china-energy-battery-grid.html"
+    "https://www.nytimes.com/2026/04/13/world/europe/orban-hungary-election-magyar-populism.html"
   ],
   [
-    "race",
+    "governor",
     16,
-    "https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor"
+    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
   ],
   [
-    "guide",
+    "past",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/13/is-it-true-that-having-a-diverse-microbiome-stops-you-from-getting-sick"
+    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
   ],
   [
-    "straight",
-    16,
-    "https://www.theguardian.com/books/2026/apr/12/too-hot-to-handle-why-its-time-for-straight-male-authors-to-rediscover-sex"
-  ],
-  [
-    "coachella",
+    "water",
     16,
     "https://www.theguardian.com/music/gallery/2026/apr/13/coachella-2026-image-gallery-photos-in-pictures"
   ],
   [
+    "administration",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/13/drug-boat-strikes-latest-us-military"
+  ],
+  [
     "price",
     16,
-    "https://www.theguardian.com/us-news/2026/apr/10/us-forest-service-restructure-union"
+    "https://www.theguardian.com/sport/2026/apr/13/los-angeles-olympics-2028-ticket-prices-residents"
   ],
   [
-    "friends",
+    "country",
     15,
-    "https://www.nytimes.com/2026/04/10/world/europe/hungary-corruption-orban-magyar-election.html"
-  ],
-  [
-    "assault",
-    15,
-    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
-  ],
-  [
-    "market",
-    15,
-    "https://www.nytimes.com/2026/04/13/world/asia/malaysia-electric-cars-china.html"
-  ],
-  [
-    "won",
-    15,
-    "https://www.theguardian.com/sport/2026/apr/13/rory-mcilroy-ignores-jack-nicklauss-advice-and-tames-augustas-terrible-12th"
-  ],
-  [
-    "little",
-    15,
-    "https://www.theguardian.com/sport/2026/apr/13/rory-mcilroy-ignores-jack-nicklauss-advice-and-tames-augustas-terrible-12th"
-  ],
-  [
-    "water",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
-  ],
-  [
-    "office",
-    15,
-    "https://www.theguardian.com/world/2026/apr/12/crypto-javier-milei-bribery-argentina"
-  ],
-  [
-    "democratic",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor"
-  ],
-  [
-    "defeat",
-    14,
-    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
-  ],
-  [
-    "minister",
-    14,
-    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
-  ],
-  [
-    "prices",
-    14,
-    "https://www.nytimes.com/2026/04/12/us/politics/trump-gas-prices-high-midterms-republicans.html"
-  ],
-  [
-    "party",
-    14,
-    "https://www.nytimes.com/2026/04/12/us/politics/trump-gas-prices-high-midterms-republicans.html"
-  ],
-  [
-    "health",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/13/euphoria-season-three-review-sydney-sweeney-zendaya-hbo"
-  ],
-  [
-    "black",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/apr/12/united-states-trump-destruction"
-  ],
-  [
-    "series",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor"
+    "https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html"
   ],
   [
     "feel",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/12/college-graduates-job-market-ai"
+    15,
+    "https://www.nytimes.com/2026/04/13/world/israeli-iran-war-polls.html"
   ],
   [
-    "music",
-    14,
-    "https://www.theguardian.com/culture/2026/apr/13/goldie-estelle-courtney-flo-black-british-music-v-a-london"
+    "viktor",
+    15,
+    "https://www.nytimes.com/2026/04/13/world/europe/orban-hungary-election-magyar-populism.html"
   ],
   [
-    "police",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/12/police-taskforce-gilgo-beach-serial-killer"
+    "health",
+    15,
+    "https://www.washingtonpost.com/nation/2026/04/13/doorman-strike-nyc-apartments-affordability/"
   ],
   [
-    "rep",
-    14,
-    "https://www.latimes.com/california/story/2026-04-12/swalwell-suspends-campaign-for-governors-race-following-allegations-of-sexual-assault-nude-photos"
+    "ports",
+    15,
+    "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
   ],
   [
-    "orban",
+    "series",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor"
+  ],
+  [
+    "masters",
+    15,
+    "https://www.theguardian.com/sport/2026/apr/13/donald-trump-brands-rory-mcilroy-a-legend-after-second-masters-triumph"
+  ],
+  [
+    "night",
+    15,
+    "https://www.theguardian.com/music/2026/apr/13/karol-g-coachella-becky-g-wisin-tropicoqueta"
+  ],
+  [
+    "guide",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/13/is-it-true-that-having-a-diverse-microbiome-stops-you-from-getting-sick"
+  ],
+  [
+    "book",
+    15,
+    "https://www.theguardian.com/books/2026/apr/11/strange-people-on-the-hill-michael-edison-hayden"
+  ],
+  [
+    "eric",
+    14,
+    "https://www.nytimes.com/2026/04/13/podcasts/the-headlines/us-strait-of-hormuz-orban-defeated.html"
+  ],
+  [
+    "allegations",
+    14,
+    "https://www.nytimes.com/2026/04/13/podcasts/the-headlines/us-strait-of-hormuz-orban-defeated.html"
+  ],
+  [
+    "change",
+    14,
+    "https://www.nytimes.com/2026/04/13/world/europe/hungary-eu-orban-magyar.html"
+  ],
+  [
+    "car",
+    14,
+    "https://www.nytimes.com/2026/04/13/nyregion/grand-army-plaza-prospect-park-brooklyn.html"
+  ],
+  [
+    "fewer",
+    14,
+    "https://www.nytimes.com/2026/04/13/business/media/hollywood-letter-opposing-paramount-warner-bros-deal.html"
+  ],
+  [
+    "military",
+    14,
+    "https://www.nytimes.com/2026/04/13/us/trump-military-transgender-ban-paychecks.html"
+  ],
+  [
+    "food",
+    14,
+    "https://www.nytimes.com/2026/04/13/business/mcdonalds-drinks-refreshers-dirty-soda.html"
+  ],
+  [
+    "peace",
+    14,
+    "https://www.nytimes.com/2026/04/13/opinion/iranwar-kushner-witkoff-failures.html"
+  ],
+  [
+    "early",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "coachella",
+    14,
+    "https://www.theguardian.com/music/gallery/2026/apr/13/coachella-2026-image-gallery-photos-in-pictures"
+  ],
+  [
+    "husband",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/13/world-noise-jigsaw-puzzling-helped-calm-mind"
+  ],
+  [
+    "power",
+    14,
+    "https://www.theguardian.com/world/2026/apr/13/hungary-election-results-eu-europe-leaders-react-peter-magyar-viktor-orban"
+  ],
+  [
+    "almost",
+    14,
+    "https://www.theguardian.com/world/2026/apr/13/lula-da-silva-gym-rat-brazil-president-livestreams-workouts-campaign-historic-fourth-term"
+  ],
+  [
+    "super",
+    14,
+    "https://www.theguardian.com/environment/2026/apr/13/el-nino-explainer"
+  ],
+  [
+    "club",
+    14,
+    "https://www.theguardian.com/music/2026/apr/13/karol-g-coachella-becky-g-wisin-tropicoqueta"
+  ],
+  [
+    "sexual",
     13,
-    "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
+    "https://www.nytimes.com/2026/04/13/podcasts/the-headlines/us-strait-of-hormuz-orban-defeated.html"
   ],
   [
-    "media",
+    "defeat",
     13,
-    "https://www.nytimes.com/2026/04/12/us/eric-swalwell-suspends-california-governor-campaign.html"
+    "https://www.nytimes.com/2026/04/13/world/europe/orban-hungary-election-magyar-populism.html"
+  ],
+  [
+    "politics",
+    13,
+    "https://www.nytimes.com/2026/04/13/world/europe/orban-hungary-election-magyar-populism.html"
+  ],
+  [
+    "hollywood",
+    13,
+    "https://www.nytimes.com/2026/04/13/business/media/hollywood-letter-opposing-paramount-warner-bros-deal.html"
+  ],
+  [
+    "released",
+    13,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "rory",
+    13,
+    "https://www.theguardian.com/sport/2026/apr/13/rory-mcilroy-ignores-jack-nicklauss-advice-and-tames-augustas-terrible-12th"
+  ],
+  [
+    "iranian",
+    13,
+    "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates"
+  ],
+  [
+    "democratic",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor"
   ],
   [
     "san",
     13,
-    "https://www.nytimes.com/2026/04/12/us/trump-presidio-landmark-board-fired.html"
+    "https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor"
   ],
   [
-    "season",
+    "killed",
     13,
-    "https://www.nytimes.com/2026/04/12/style/euphoria-costumes.html"
+    "https://www.theguardian.com/us-news/2026/apr/13/drug-boat-strikes-latest-us-military"
   ],
   [
-    "garden",
+    "coffee",
     13,
-    "https://www.nytimes.com/2026/04/11/arts/design/pearl-fryar-dead.html"
+    "https://www.theguardian.com/food/2026/apr/13/raspberry-danish-latte-viral-coffee-drink"
   ],
   [
-    "government",
+    "college",
     13,
-    "https://www.washingtonpost.com/national-security/2026/04/11/fisa-section-702-renewal-deadline-surveillance/"
+    "https://www.theguardian.com/food/2026/apr/13/raspberry-danish-latte-viral-coffee-drink"
   ],
   [
-    "love",
+    "festival",
     13,
-    "https://www.washingtonpost.com/obituaries/2026/04/11/pearl-fryar-dead-topiary-artist/"
+    "https://www.theguardian.com/music/2026/apr/13/karol-g-coachella-becky-g-wisin-tropicoqueta"
   ],
   [
-    "least",
+    "black",
     13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.theguardian.com/music/2026/apr/13/karol-g-coachella-becky-g-wisin-tropicoqueta"
+  ],
+  [
+    "movie",
+    13,
+    "https://www.theguardian.com/film/2026/apr/13/endearing-and-enduring-why-hot-fuzz-is-my-feelgood-movie"
+  ],
+  [
+    "artemis",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/apr/13/artemis-ii-humanity-at-worst-this-week"
+  ],
+  [
+    "mario",
+    13,
+    "https://www.theguardian.com/games/2026/apr/10/super-mario-what-the-seven-best-obscure-mario-games"
+  ],
+  [
+    "rep",
+    13,
+    "https://www.latimes.com/california/story/2026-04-12/swalwell-suspends-campaign-for-governors-race-following-allegations-of-sexual-assault-nude-photos"
   ]
 ];
