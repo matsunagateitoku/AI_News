@@ -3,157 +3,207 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 52,
-      "url": "https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates",
+      "count": 30,
+      "url": "https://www.theguardian.com/business/2026/apr/14/united-airlines-merger-american-airlines",
       "source": "The Guardian"
     },
     {
-      "name": "Eric Swalwell",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html",
+      "name": "Jesus Christ",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/04/13/us/politics/trump-jesus-picture-pope-leo.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Pope Leo Xiv",
-      "count": 15,
-      "url": "https://www.npr.org/2026/04/13/nx-s1-5780996/pope-leo-begins-tour-across-africa-row-with-trump-iran-war",
-      "source": "NPR"
-    },
-    {
-      "name": "Rep Tony Gonzales",
-      "count": 15,
-      "url": "https://www.foxnews.com/politics/embattled-rep-tony-gonzales-announces-plans-resign-sexual-misconduct-allegations",
-      "source": "Fox News"
-    },
-    {
-      "name": "Jd Vance",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/14/viktor-orban-europe-britain-hard-right-populism",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Coachella",
-      "count": 11,
-      "url": "https://www.theguardian.com/music/2026/apr/13/karol-g-coachella-becky-g-wisin-tropicoqueta",
-      "source": "The Guardian"
     },
     {
       "name": "Brian Hooker",
       "count": 10,
-      "url": "https://www.theguardian.com/world/2026/apr/13/bahamas-us-man-wife-overboard",
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/bahamas-police-release-michigan-man-wife-disappeared",
       "source": "The Guardian"
     },
     {
-      "name": "Leo Returns",
+      "name": "Eric Swalwell",
       "count": 9,
-      "url": "https://www.nytimes.com/2026/04/14/world/africa/pope-leo-algeria-africa-visit.html",
+      "url": "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html",
       "source": "NY Times"
     },
     {
-      "name": "Viktor Orbán",
+      "name": "Pope Leo",
       "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/14/viktor-orban-europe-britain-hard-right-populism",
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat",
       "source": "The Guardian"
     },
     {
-      "name": "Jesus Christ-Like",
+      "name": "Coachella",
       "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-news-at-a-glance-latest-updates-today",
+      "url": "https://www.theguardian.com/music/2026/apr/14/coachella-highlights-best-moments-performances",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Leo Xiv",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/04/14/us/politics/trump-pope-leo.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Tony Gonzales",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/04/13/us/texas-representative-tony-gonzales-resigns.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Hormuz",
+      "count": 6,
+      "url": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Media And Technology Group",
-      "count": 57,
-      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-media-guardian-lawsuit",
-      "source": "The Guardian"
+      "name": "Target For Trump",
+      "count": 61,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "Congress",
-      "count": 24,
-      "url": "https://www.theguardian.com/us-news/2026/apr/13/republican-tony-gonzales-congress",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai A",
-      "count": 17,
-      "url": "https://thehill.com/newsletters/technology/5829564-universities-majors-ai/",
+      "name": "Ai Jesus",
+      "count": 21,
+      "url": "https://thehill.com/homenews/administration/5830112-trump-riley-gaines-ai-jesus-post-criticism/",
       "source": "The Hill"
     },
     {
-      "name": "Guardian Newsroom",
-      "count": 15,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/14/viktor-orban-europe-britain-hard-right-populism",
-      "source": "The Guardian"
+      "name": "Congress",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/04/14/podcasts/the-headlines/congress-resignations-pope-trump.html",
+      "source": "NY Times"
     },
     {
       "name": "The Filter Us",
-      "count": 12,
+      "count": 13,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Orbán",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/14/viktor-orban-europe-britain-hard-right-populism",
+      "name": "The White House",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat",
       "source": "The Guardian"
     },
     {
-      "name": "Britney Spears",
-      "count": 7,
-      "url": "https://www.theguardian.com/music/2026/apr/13/britney-spears-enters-rehab-after-march-dui-arrest",
+      "name": "Guardian News",
+      "count": 8,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
-      "name": "House Ethics Committee",
+      "name": "Gop Senate",
       "count": 7,
-      "url": "https://www.cbsnews.com/news/eric-swalwell-house-ethics-committee/",
+      "url": "https://www.politico.com/news/2026/04/02/georgia-senate-ossoff-trump-republicans-00854884",
+      "source": "Politico"
+    },
+    {
+      "name": "United Airlines",
+      "count": 6,
+      "url": "https://www.theguardian.com/business/2026/apr/14/united-airlines-merger-american-airlines",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Un Ballo",
+      "count": 6,
+      "url": "https://www.theguardian.com/music/2026/apr/14/we-want-people-on-the-edge-of-their-seats-royal-opera-boss-oliver-mears-on-the-new-season-and-the-controversies-of-the-last",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cbs News'",
+      "count": 5,
+      "url": "https://www.cbsnews.com/video/what-to-know-about-the-eric-swalwell-allegations/",
       "source": "CBS News"
-    },
+    }
+  ],
+  "GPE": [
     {
-      "name": "Truth Social",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash",
+      "name": "Us",
+      "count": 45,
+      "url": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins",
       "source": "The Guardian"
     },
     {
-      "name": "Lynette Hooker",
-      "count": 6,
-      "url": "https://www.cbsnews.com/news/maps-brian-hooker-lynette-hooker-disappearance-bahamas/",
+      "name": "Iran",
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/04/14/opinion/ezra-klein-podcast-lynch-telhami.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Bahamas",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/bahamas-police-release-michigan-man-wife-disappeared",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York Event",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/04/14/us/politics/at-a-house-republicans-new-york-event-flashes-of-an-iran-backlash.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "China",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/04/14/business/china-foreign-companies-supply-chain.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Lebanon",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/04/14/opinion/ezra-klein-podcast-lynch-telhami.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Los Angeles Unified School District Strike​",
+      "count": 9,
+      "url": "https://www.cbsnews.com/news/los-angeles-schools-strike-averted-deal-reached-schools-open/",
       "source": "CBS News"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 7,
+      "count": 10,
       "url": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins",
       "source": "The Guardian"
     },
     {
-      "name": "Olympics",
-      "count": 3,
-      "url": "https://www.theguardian.com/sport/2026/apr/13/los-angeles-olympics-2028-ticket-prices-residents",
-      "source": "The Guardian"
-    },
-    {
       "name": "World Cup",
-      "count": 3,
+      "count": 4,
       "url": "https://www.theguardian.com/football/2026/mar/30/world-cup-2026-mood-host-cities-world-cup-mexico-canada-us",
       "source": "The Guardian"
     },
     {
-      "name": "Amid War",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/04/13/world/middleeast/iran-war-pentagon-officials-testimony-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "World Aquatics",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/apr/13/disgraceful-anger-world-aquatics-allows-russia-to-compete-under-flag-swimming",
-      "source": "The Guardian"
+      "name": "Holocaust",
+      "count": 2,
+      "url": "https://thehill.com/homenews/5830139-watch-live-johnson-jeffries-holocaust-remembrance-ceremony-2026/",
+      "source": "The Hill"
     },
     {
       "name": "Rockstar Games",
@@ -162,73 +212,17 @@
       "source": "The Guardian"
     },
     {
+      "name": "The U.S.-Israel War",
+      "count": 1,
+      "url": "https://www.npr.org/2026/04/14/g-s1-117383/fuel-protests-have-irelands-government-facing-possible-no-confidence-vote",
+      "source": "NPR"
+    },
+    {
       "name": "Easter Sunday ‘",
       "count": 1,
       "url": "https://www.politico.com/news/2026/04/07/tucker-carlson-rips-donald-trump-easter-iran-truth-social-post-00861281",
       "source": "Politico"
     }
   ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 51,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/14/viktor-orban-europe-britain-hard-right-populism",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 43,
-      "url": "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 33,
-      "url": "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Hungary",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/04/13/us/politics/orban-trump-maga.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/04/13/nyregion/nyc-protest-arrests-israel-arms.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/04/13/us/texas-representative-tony-gonzales-resigns.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ukraine",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Bahamas",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/2026/apr/13/bahamas-us-man-wife-overboard",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City’S",
-      "count": 10,
-      "url": "https://www.theguardian.com/books/2026/apr/10/go-gentle-by-maria-semple-review-a-joyfully-clever-new-york-romcom",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-04-14T08:29:15Z"
+  "updated": "2026-04-14T14:52:29Z"
 };

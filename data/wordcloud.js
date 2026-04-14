@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    113,
-    "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html"
-  ],
-  [
-    "president",
-    61,
+    92,
     "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html"
   ],
   [
     "iran",
-    49,
+    43,
+    "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html"
+  ],
+  [
+    "president",
+    41,
     "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html"
   ],
   [
     "war",
-    37,
-    "https://www.nytimes.com/2026/04/13/world/middleeast/iran-war-pentagon-officials-testimony-trump.html"
+    33,
+    "https://www.nytimes.com/2026/04/14/business/iran-war-imf-economic-growth.html"
+  ],
+  [
+    "book",
+    25,
+    "https://www.theguardian.com/sport/2026/apr/14/boss-of-the-bronx-the-turbulent-reign-of-george-steinbrenner-baseballs-ultimate-showman"
   ],
   [
     "pope",
-    35,
-    "https://www.nytimes.com/2026/04/14/world/africa/pope-leo-algeria-africa-visit.html"
-  ],
-  [
-    "swalwell",
-    34,
-    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
-  ],
-  [
-    "california",
-    30,
-    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
-  ],
-  [
-    "allegations",
-    28,
-    "https://www.theguardian.com/us-news/2026/apr/13/house-ethics-committee-eric-swalwell-investigation"
-  ],
-  [
-    "congress",
-    25,
-    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
-  ],
-  [
-    "sexual",
-    25,
-    "https://www.nytimes.com/2026/04/13/us/texas-representative-tony-gonzales-resigns.html"
-  ],
-  [
-    "leo",
     24,
-    "https://www.nytimes.com/2026/04/14/world/africa/pope-leo-algeria-africa-visit.html"
-  ],
-  [
-    "blockade",
-    23,
-    "https://www.nytimes.com/2026/04/13/us/politics/strait-of-hormuz-blockade-iran-trump.html"
-  ],
-  [
-    "eric",
-    23,
-    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
-  ],
-  [
-    "orb",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/apr/14/viktor-orban-europe-britain-hard-right-populism"
-  ],
-  [
-    "rep",
-    23,
-    "https://www.latimes.com/politics/story/2026-04-13/eric-swalwell-bipartisan-push-to-expel-him-from-house"
-  ],
-  [
-    "military",
-    22,
-    "https://www.nytimes.com/2026/04/13/world/middleeast/iran-war-pentagon-officials-testimony-trump.html"
-  ],
-  [
-    "government",
-    21,
-    "https://www.nytimes.com/2026/04/13/world/canada/mark-carney-liberals-majority.html"
+    "https://www.nytimes.com/2026/04/14/podcasts/the-headlines/congress-resignations-pope-trump.html"
   ],
   [
     "don",
-    21,
-    "https://www.theguardian.com/books/2026/apr/14/my-year-in-paris-with-gertrude-stein-by-deborah-levy-review-wonderfully-entertaining"
-  ],
-  [
-    "talks",
-    21,
+    24,
     "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins"
   ],
   [
-    "released",
-    20,
-    "https://www.nytimes.com/2026/04/13/arts/television/sid-krofft-dead.html"
-  ],
-  [
-    "hooker",
-    20,
-    "https://www.theguardian.com/world/2026/apr/13/bahamas-us-man-wife-overboard"
-  ],
-  [
-    "country",
-    19,
-    "https://www.nytimes.com/2026/04/14/business/china-foreign-companies-supply-chain.html"
-  ],
-  [
-    "misconduct",
-    19,
-    "https://www.theguardian.com/us-news/2026/apr/13/house-ethics-committee-eric-swalwell-investigation"
-  ],
-  [
-    "strait",
-    18,
-    "https://www.nytimes.com/2026/04/13/us/politics/strait-of-hormuz-blockade-iran-trump.html"
-  ],
-  [
-    "hormuz",
-    18,
-    "https://www.nytimes.com/2026/04/13/us/politics/strait-of-hormuz-blockade-iran-trump.html"
-  ],
-  [
-    "peace",
-    17,
-    "https://www.nytimes.com/2026/04/13/us/politics/strait-of-hormuz-blockade-iran-trump.html"
-  ],
-  [
-    "social",
-    17,
-    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
-  ],
-  [
-    "post",
-    17,
-    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
-  ],
-  [
-    "hungary",
-    17,
-    "https://www.nytimes.com/2026/04/13/us/politics/orban-trump-maga.html"
-  ],
-  [
-    "night",
-    17,
-    "https://www.nytimes.com/2026/04/14/arts/television/late-night-trump-pope.html"
-  ],
-  [
-    "york",
-    17,
-    "https://www.washingtonpost.com/nation/2026/04/13/mamdani-nyc-grocery-stores/"
-  ],
-  [
-    "death",
-    17,
-    "https://www.theguardian.com/law/2026/apr/14/my-life-has-become-a-rollercoaster-francesca-albanese-death-threats-danger-dread-accusing-israel-genocide"
-  ],
-  [
-    "donald",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/apr/14/viktor-orban-europe-britain-hard-right-populism"
-  ],
-  [
-    "media",
-    16,
-    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
+    "israel",
+    23,
+    "https://www.nytimes.com/2026/04/14/opinion/ezra-klein-podcast-lynch-telhami.html"
   ],
   [
     "global",
-    16,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    22,
+    "https://www.nytimes.com/2026/04/14/business/iran-war-imf-economic-growth.html"
   ],
   [
-    "iranian",
-    16,
+    "talks",
+    22,
     "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins"
   ],
   [
     "food",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/apr/14/dublin-ireland-leaders-fuel-bills-iran-war-fossil-fuels"
+    22,
+    "https://www.theguardian.com/us-news/2026/apr/14/earthquake-nevada-fallon"
   ],
   [
-    "price",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/apr/14/dublin-ireland-leaders-fuel-bills-iran-war-fossil-fuels"
+    "york",
+    20,
+    "https://www.nytimes.com/2026/04/14/us/politics/at-a-house-republicans-new-york-event-flashes-of-an-iran-backlash.html"
   ],
   [
-    "gonzales",
-    15,
-    "https://www.nytimes.com/2026/04/13/us/texas-representative-tony-gonzales-resigns.html"
+    "government",
+    20,
+    "https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html"
   ],
   [
-    "administration",
-    15,
-    "https://www.nytimes.com/2026/04/13/us/politics/jd-vance-pope-leo-trump.html"
-  ],
-  [
-    "health",
-    15,
-    "https://www.nytimes.com/2026/04/13/us/politics/trump-mental-fitness-25th-amendment.html"
-  ],
-  [
-    "israel",
-    15,
-    "https://www.nytimes.com/2026/04/13/nyregion/nyc-protest-arrests-israel-arms.html"
-  ],
-  [
-    "political",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/apr/14/viktor-orban-europe-britain-hard-right-populism"
-  ],
-  [
-    "book",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/apr/14/viktor-orban-europe-britain-hard-right-populism"
-  ],
-  [
-    "guide",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/apr/13/best-gifts-for-new-moms"
-  ],
-  [
-    "court",
-    15,
-    "https://www.theguardian.com/sport/2026/apr/13/terence-crawford-careless-driving-fine-omaha-traffic-stop"
-  ],
-  [
-    "brian",
-    15,
-    "https://www.theguardian.com/world/2026/apr/13/bahamas-us-man-wife-overboard"
-  ],
-  [
-    "resign",
-    14,
-    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
-  ],
-  [
-    "governor",
-    14,
-    "https://www.nytimes.com/2026/04/13/us/politics/swalwell-california-governor.html"
-  ],
-  [
-    "police",
-    14,
-    "https://www.nytimes.com/2026/04/13/us/abbott-threatens-houston-police-funding-ice.html"
-  ],
-  [
-    "strike",
-    14,
-    "https://www.washingtonpost.com/nation/2026/04/13/doorman-strike-nyc-apartments-affordability/"
-  ],
-  [
-    "latest",
-    14,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "review",
-    14,
-    "https://www.theguardian.com/books/2026/apr/14/my-year-in-paris-with-gertrude-stein-by-deborah-levy-review-wonderfully-entertaining"
-  ],
-  [
-    "love",
-    14,
-    "https://www.theguardian.com/books/2026/apr/14/my-year-in-paris-with-gertrude-stein-by-deborah-levy-review-wonderfully-entertaining"
-  ],
-  [
-    "games",
-    14,
-    "https://www.theguardian.com/football/2026/apr/13/marie-louise-eta-arrival-union-berlin-breaks-barriers-women-in-football"
-  ],
-  [
-    "assault",
-    14,
-    "https://www.theguardian.com/football/2026/apr/13/dominic-frimpong-killed-armed-robbers-team-bus-ghana"
-  ],
-  [
-    "late",
-    13,
-    "https://www.nytimes.com/2026/04/13/world/middleeast/iran-war-pentagon-officials-testimony-trump.html"
-  ],
-  [
-    "tony",
-    13,
-    "https://www.nytimes.com/2026/04/13/us/texas-representative-tony-gonzales-resigns.html"
-  ],
-  [
-    "accused",
-    13,
-    "https://www.nytimes.com/2026/04/13/us/texas-representative-tony-gonzales-resigns.html"
-  ],
-  [
-    "vance",
-    13,
-    "https://www.nytimes.com/2026/04/13/us/politics/jd-vance-pope-leo-trump.html"
-  ],
-  [
-    "party",
-    13,
-    "https://www.nytimes.com/2026/04/13/world/canada/mark-carney-liberals-majority.html"
-  ],
-  [
-    "election",
-    13,
+    "american",
+    19,
     "https://www.nytimes.com/2026/04/13/us/politics/orban-trump-maga.html"
   ],
   [
-    "attack",
+    "death",
+    19,
+    "https://www.theguardian.com/law/2026/apr/14/my-life-has-become-a-rollercoaster-francesca-albanese-death-threats-danger-dread-accusing-israel-genocide"
+  ],
+  [
+    "art",
+    19,
+    "https://www.theguardian.com/artanddesign/2026/apr/14/peter-hujar-paul-thek-artists-book"
+  ],
+  [
+    "latest",
+    18,
+    "https://www.nytimes.com/2026/04/14/business/energy-environment/iran-trump-blockade-oil-prices.html"
+  ],
+  [
+    "congress",
+    18,
+    "https://www.nytimes.com/2026/04/14/podcasts/the-headlines/congress-resignations-pope-trump.html"
+  ],
+  [
+    "leo",
+    18,
+    "https://www.nytimes.com/2026/04/14/us/politics/trump-attacks-pope-midterms.html"
+  ],
+  [
+    "country",
+    18,
+    "https://www.nytimes.com/2026/04/14/us/undocumented-immigrants-ice-tax-returns-irs.html"
+  ],
+  [
+    "guide",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/apr/14/plastic-pfas-microplastic-free-kitchen-tools"
+  ],
+  [
+    "swalwell",
+    17,
+    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
+  ],
+  [
+    "health",
+    17,
+    "https://www.washingtonpost.com/nation/2026/04/13/doorman-strike-nyc-apartments-affordability/"
+  ],
+  [
+    "military",
+    17,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "crisis",
+    17,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "released",
+    17,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "climate",
+    17,
+    "https://www.theguardian.com/us-news/2026/apr/14/dc-conference-climate-deniers-trump-epa-chief"
+  ],
+  [
+    "love",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/apr/14/donald-trump-second-coming-jesus-middle-east-pope"
+  ],
+  [
+    "political",
+    16,
+    "https://www.nytimes.com/2026/04/14/opinion/ezra-klein-podcast-lynch-telhami.html"
+  ],
+  [
+    "court",
+    16,
+    "https://www.nytimes.com/2026/04/14/nyregion/harvey-weinstein-what-to-know-trial.html"
+  ],
+  [
+    "least",
+    15,
+    "https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html"
+  ],
+  [
+    "california",
+    15,
+    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
+  ],
+  [
+    "post",
+    15,
+    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
+  ],
+  [
+    "night",
+    15,
+    "https://www.nytimes.com/2026/04/14/arts/television/late-night-trump-pope.html"
+  ],
+  [
+    "school",
+    15,
+    "https://www.nytimes.com/2026/04/14/us/los-angeles-schools-strike-deal.html"
+  ],
+  [
+    "fire",
+    15,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "company",
+    15,
+    "https://www.theguardian.com/games/2026/apr/14/is-super-mario-galaxy-movie-really-that-bad"
+  ],
+  [
+    "club",
+    15,
+    "https://www.theguardian.com/football/2026/apr/14/andoni-iraola-leave-bournemouth-end-of-season-football"
+  ],
+  [
+    "blockade",
+    14,
+    "https://www.nytimes.com/2026/04/14/business/energy-environment/iran-trump-blockade-oil-prices.html"
+  ],
+  [
+    "season",
+    14,
+    "https://www.nytimes.com/2026/04/14/us/undocumented-immigrants-ice-tax-returns-irs.html"
+  ],
+  [
+    "late",
+    14,
+    "https://www.nytimes.com/2026/04/14/arts/television/late-night-trump-pope.html"
+  ],
+  [
+    "almost",
+    14,
+    "https://www.theguardian.com/stage/2026/apr/14/jane-krakowski-ally-mcbeal-30-rock-unbreakable-kimmy-schmidt-here-we-are"
+  ],
+  [
+    "hormuz",
+    14,
+    "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins"
+  ],
+  [
+    "wife",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/14/bahamas-police-release-michigan-man-wife-disappeared"
+  ],
+  [
+    "hooker",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/14/bahamas-police-release-michigan-man-wife-disappeared"
+  ],
+  [
+    "music",
+    14,
+    "https://www.theguardian.com/music/2026/apr/14/coachella-highlights-best-moments-performances"
+  ],
+  [
+    "tested",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/apr/14/plastic-pfas-microplastic-free-kitchen-tools"
+  ],
+  [
+    "mario",
+    14,
+    "https://www.theguardian.com/games/2026/apr/14/is-super-mario-galaxy-movie-really-that-bad"
+  ],
+  [
+    "rice",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/apr/07/dyson-bissell-cordless-vacuum"
+  ],
+  [
+    "east",
+    13,
+    "https://www.nytimes.com/2026/04/14/business/iran-war-imf-economic-growth.html"
+  ],
+  [
+    "little",
+    13,
+    "https://www.nytimes.com/2026/04/14/us/politics/war-iran-americans-opinions.html"
+  ],
+  [
+    "support",
+    13,
+    "https://www.nytimes.com/2026/04/14/us/politics/trump-pope-leo.html"
+  ],
+  [
+    "jesus",
+    13,
+    "https://www.nytimes.com/2026/04/13/us/politics/trump-jesus-picture-pope-leo.html"
+  ],
+  [
+    "million",
+    13,
+    "https://www.nytimes.com/2026/04/14/arts/design/lacma-peter-zumthor-los-angeles.html"
+  ],
+  [
+    "inside",
+    13,
+    "https://www.nytimes.com/2026/04/14/magazine/homeland-security-immigration-takeaways.html"
+  ],
+  [
+    "social",
+    13,
+    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
+  ],
+  [
+    "israeli",
     13,
     "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "team",
+    "experts",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/law/2026/apr/14/my-life-has-become-a-rollercoaster-francesca-albanese-death-threats-danger-dread-accusing-israel-genocide"
   ],
   [
-    "power",
+    "strait",
     13,
-    "https://www.theguardian.com/commentisfree/2026/apr/14/viktor-orban-europe-britain-hard-right-populism"
+    "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins"
   ],
   [
-    "art",
+    "fewer",
     13,
-    "https://www.theguardian.com/news/2026/apr/14/art-sex-nature-why-is-everything-sold-to-us-as-a-means-to-an-end-rather-than-an-end-in-itself"
+    "https://www.theguardian.com/business/2026/apr/14/united-airlines-merger-american-airlines"
   ],
   [
-    "announced",
+    "bahamas",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/13/republican-tony-gonzales-congress"
+    "https://www.theguardian.com/us-news/2026/apr/14/bahamas-police-release-michigan-man-wife-disappeared"
   ],
   [
-    "pacific",
+    "video",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/13/us-military-vessel-strike"
+    "https://www.theguardian.com/us-news/2026/apr/14/earthquake-nevada-fallon"
   ],
   [
-    "win",
+    "filter",
     13,
-    "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government"
+    "https://www.theguardian.com/thefilter-us/2026/apr/14/plastic-pfas-microplastic-free-kitchen-tools"
   ],
   [
-    "coffee",
+    "allegations",
     13,
-    "https://www.theguardian.com/food/2026/apr/13/raspberry-danish-latte-viral-coffee-drink"
+    "https://www.latimes.com/california/story/2026-04-13/attorneys-used-ai-cited-fake-legal-decisions-state-bar-alleges"
   ],
   [
-    "coachella",
-    13,
-    "https://www.theguardian.com/music/2026/apr/13/karol-g-coachella-becky-g-wisin-tropicoqueta"
-  ],
-  [
-    "festival",
-    13,
-    "https://www.theguardian.com/music/2026/apr/13/karol-g-coachella-becky-g-wisin-tropicoqueta"
-  ],
-  [
-    "super",
-    13,
-    "https://www.theguardian.com/sport/2026/apr/13/terence-crawford-careless-driving-fine-omaha-traffic-stop"
-  ],
-  [
-    "season",
-    13,
-    "https://www.theguardian.com/football/2026/apr/13/marie-louise-eta-arrival-union-berlin-breaks-barriers-women-in-football"
-  ],
-  [
-    "texas",
+    "middle",
     12,
-    "https://www.nytimes.com/2026/04/13/us/texas-representative-tony-gonzales-resigns.html"
+    "https://www.nytimes.com/2026/04/14/business/iran-war-imf-economic-growth.html"
+  ],
+  [
+    "united",
+    12,
+    "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html"
+  ],
+  [
+    "los",
+    12,
+    "https://www.nytimes.com/2026/04/14/arts/design/lacma-peter-zumthor-los-angeles.html"
+  ],
+  [
+    "angeles",
+    12,
+    "https://www.nytimes.com/2026/04/14/arts/design/lacma-peter-zumthor-los-angeles.html"
+  ],
+  [
+    "eric",
+    12,
+    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
+  ],
+  [
+    "china",
+    12,
+    "https://www.nytimes.com/2026/04/14/business/china-foreign-companies-supply-chain.html"
+  ],
+  [
+    "strike",
+    12,
+    "https://www.nytimes.com/2026/04/14/us/los-angeles-schools-strike-deal.html"
+  ],
+  [
+    "summer",
+    12,
+    "https://www.nytimes.com/2026/04/14/nyregion/weather-nyc-hot-cold.html"
+  ],
+  [
+    "died",
+    12,
+    "https://www.washingtonpost.com/nation/2026/04/14/camp-mystic-reopen-lawsuit-negligence/"
+  ],
+  [
+    "here's",
+    12,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "democratic",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/apr/14/democrats-voters-israel-gaza-palestine"
   ]
 ];
