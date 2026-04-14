@@ -2,238 +2,258 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    92,
-    "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html"
+    89,
+    "https://www.nytimes.com/2026/04/14/business/trump-federal-reserve-warsh.html"
+  ],
+  [
+    "swalwell",
+    51,
+    "https://www.nytimes.com/2026/04/14/us/lonna-drewes-eric-swalwell-sexual-assault.html"
   ],
   [
     "iran",
-    43,
-    "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html"
+    37,
+    "https://www.nytimes.com/2026/04/14/us/politics/war-iran-americans-opinions.html"
   ],
   [
     "president",
-    41,
-    "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html"
+    37,
+    "https://www.nytimes.com/video/us/politics/100000010832126/stephen-miller-trump-immigration-crackdown.html"
   ],
   [
     "war",
-    33,
-    "https://www.nytimes.com/2026/04/14/business/iran-war-imf-economic-growth.html"
+    35,
+    "https://www.nytimes.com/2026/04/14/us/politics/war-iran-americans-opinions.html"
   ],
   [
-    "book",
-    25,
-    "https://www.theguardian.com/sport/2026/apr/14/boss-of-the-bronx-the-turbulent-reign-of-george-steinbrenner-baseballs-ultimate-showman"
-  ],
-  [
-    "pope",
-    24,
-    "https://www.nytimes.com/2026/04/14/podcasts/the-headlines/congress-resignations-pope-trump.html"
-  ],
-  [
-    "don",
-    24,
-    "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins"
-  ],
-  [
-    "israel",
-    23,
-    "https://www.nytimes.com/2026/04/14/opinion/ezra-klein-podcast-lynch-telhami.html"
+    "eric",
+    28,
+    "https://www.nytimes.com/2026/04/14/us/lonna-drewes-eric-swalwell-sexual-assault.html"
   ],
   [
     "global",
-    22,
+    26,
     "https://www.nytimes.com/2026/04/14/business/iran-war-imf-economic-growth.html"
   ],
   [
-    "talks",
+    "israel",
+    25,
+    "https://www.nytimes.com/2026/04/14/opinion/ezra-klein-podcast-lynch-telhami.html"
+  ],
+  [
+    "rep",
+    25,
+    "https://www.latimes.com/california/story/2026-04-14/eric-swalwell-rape-drugged-drink-beverly-hills-allegations"
+  ],
+  [
+    "sexual",
+    23,
+    "https://www.nytimes.com/2026/04/14/opinion/swalwell-did-nothing.html"
+  ],
+  [
+    "california",
+    23,
+    "https://www.theguardian.com/us-news/live/2026/apr/14/house-swalwell-gonzales-trump-congress-iran-politics-latest-news-updates"
+  ],
+  [
+    "allegations",
+    23,
+    "https://www.theguardian.com/us-news/live/2026/apr/14/house-swalwell-gonzales-trump-congress-iran-politics-latest-news-updates"
+  ],
+  [
+    "misconduct",
     22,
-    "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins"
+    "https://www.nytimes.com/2026/04/14/opinion/swalwell-did-nothing.html"
   ],
   [
     "food",
-    22,
-    "https://www.theguardian.com/us-news/2026/apr/14/earthquake-nevada-fallon"
-  ],
-  [
-    "york",
     20,
-    "https://www.nytimes.com/2026/04/14/us/politics/at-a-house-republicans-new-york-event-flashes-of-an-iran-backlash.html"
+    "https://www.theguardian.com/thefilter-us/2026/apr/14/plastic-pfas-microplastic-free-kitchen-tools"
   ],
   [
-    "government",
-    20,
-    "https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html"
-  ],
-  [
-    "american",
+    "don",
     19,
-    "https://www.nytimes.com/2026/04/13/us/politics/orban-trump-maga.html"
+    "https://www.nytimes.com/2026/04/14/well/live/pregnant-workers-amazon-speedway.html"
   ],
   [
-    "death",
+    "health",
     19,
-    "https://www.theguardian.com/law/2026/apr/14/my-life-has-become-a-rollercoaster-francesca-albanese-death-threats-danger-dread-accusing-israel-genocide"
+    "https://www.nytimes.com/2026/04/14/well/live/pregnant-workers-amazon-speedway.html"
   ],
   [
-    "art",
+    "post",
+    19,
+    "https://www.nytimes.com/2026/04/13/dining/rotisserie-chicken-prices.html"
+  ],
+  [
+    "book",
     19,
     "https://www.theguardian.com/artanddesign/2026/apr/14/peter-hujar-paul-thek-artists-book"
   ],
   [
-    "latest",
+    "york",
     18,
-    "https://www.nytimes.com/2026/04/14/business/energy-environment/iran-trump-blockade-oil-prices.html"
-  ],
-  [
-    "congress",
-    18,
-    "https://www.nytimes.com/2026/04/14/podcasts/the-headlines/congress-resignations-pope-trump.html"
-  ],
-  [
-    "leo",
-    18,
-    "https://www.nytimes.com/2026/04/14/us/politics/trump-attacks-pope-midterms.html"
-  ],
-  [
-    "country",
-    18,
-    "https://www.nytimes.com/2026/04/14/us/undocumented-immigrants-ice-tax-returns-irs.html"
-  ],
-  [
-    "guide",
-    18,
-    "https://www.theguardian.com/thefilter-us/2026/apr/14/plastic-pfas-microplastic-free-kitchen-tools"
-  ],
-  [
-    "swalwell",
-    17,
-    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
-  ],
-  [
-    "health",
-    17,
-    "https://www.washingtonpost.com/nation/2026/04/13/doorman-strike-nyc-apartments-affordability/"
-  ],
-  [
-    "military",
-    17,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "crisis",
-    17,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "released",
-    17,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "climate",
-    17,
-    "https://www.theguardian.com/us-news/2026/apr/14/dc-conference-climate-deniers-trump-epa-chief"
-  ],
-  [
-    "love",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/apr/14/donald-trump-second-coming-jesus-middle-east-pope"
-  ],
-  [
-    "political",
-    16,
-    "https://www.nytimes.com/2026/04/14/opinion/ezra-klein-podcast-lynch-telhami.html"
-  ],
-  [
-    "court",
-    16,
-    "https://www.nytimes.com/2026/04/14/nyregion/harvey-weinstein-what-to-know-trial.html"
-  ],
-  [
-    "least",
-    15,
-    "https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html"
-  ],
-  [
-    "california",
-    15,
-    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
-  ],
-  [
-    "post",
-    15,
-    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
-  ],
-  [
-    "night",
-    15,
-    "https://www.nytimes.com/2026/04/14/arts/television/late-night-trump-pope.html"
-  ],
-  [
-    "school",
-    15,
-    "https://www.nytimes.com/2026/04/14/us/los-angeles-schools-strike-deal.html"
+    "https://www.nytimes.com/2026/04/14/us/politics/actblue-republicans-foreign-donations.html"
   ],
   [
     "fire",
-    15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    18,
+    "https://www.washingtonpost.com/technology/2026/04/14/altman-home-attack-ai-division/"
+  ],
+  [
+    "died",
+    18,
+    "https://www.washingtonpost.com/nation/2026/04/14/camp-mystic-reopen-lawsuit-negligence/"
+  ],
+  [
+    "congress",
+    17,
+    "https://www.nytimes.com/2026/04/14/us/lonna-drewes-eric-swalwell-sexual-assault.html"
+  ],
+  [
+    "latest",
+    17,
+    "https://www.nytimes.com/2026/04/14/magazine/michael-jackson-biopic-estate.html"
+  ],
+  [
+    "experts",
+    17,
+    "https://www.theguardian.com/wellness/2026/apr/14/what-is-catastrophizing-how-to-stop-it"
+  ],
+  [
+    "art",
+    17,
+    "https://www.theguardian.com/artanddesign/2026/apr/14/peter-hujar-paul-thek-artists-book"
+  ],
+  [
+    "led",
+    16,
+    "https://www.nytimes.com/2026/04/14/us/politics/actblue-republicans-foreign-donations.html"
   ],
   [
     "company",
+    16,
+    "https://www.nytimes.com/2026/04/14/technology/amazon-buys-globalstar-space-internet.html"
+  ],
+  [
+    "film",
+    16,
+    "https://www.theguardian.com/artanddesign/2026/apr/14/peter-hujar-paul-thek-artists-book"
+  ],
+  [
+    "love",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/apr/14/donald-trump-second-coming-jesus-middle-east-pope"
+  ],
+  [
+    "bath",
+    16,
+    "https://www.theguardian.com/music/2026/apr/14/louisana-sludge-metallers-acid-bath"
+  ],
+  [
+    "coffee",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/apr/06/moka-pot-iced-coffee"
+  ],
+  [
+    "americans",
     15,
-    "https://www.theguardian.com/games/2026/apr/14/is-super-mario-galaxy-movie-really-that-bad"
+    "https://www.nytimes.com/2026/04/14/us/politics/war-iran-americans-opinions.html"
   ],
   [
-    "club",
+    "little",
     15,
-    "https://www.theguardian.com/football/2026/apr/14/andoni-iraola-leave-bournemouth-end-of-season-football"
+    "https://www.nytimes.com/2026/04/14/us/politics/war-iran-americans-opinions.html"
   ],
   [
-    "blockade",
-    14,
-    "https://www.nytimes.com/2026/04/14/business/energy-environment/iran-trump-blockade-oil-prices.html"
+    "million",
+    15,
+    "https://www.nytimes.com/2026/04/14/business/trump-federal-reserve-warsh.html"
   ],
   [
-    "season",
-    14,
-    "https://www.nytimes.com/2026/04/14/us/undocumented-immigrants-ice-tax-returns-irs.html"
+    "climate",
+    15,
+    "https://www.nytimes.com/2026/04/14/business/scott-bessent-climate-change-trump.html"
+  ],
+  [
+    "court",
+    15,
+    "https://www.washingtonpost.com/health/2026/04/14/nursing-home-workers-immigrants-haitians/"
+  ],
+  [
+    "prices",
+    15,
+    "https://www.washingtonpost.com/nation/2026/04/13/mamdani-nyc-grocery-stores/"
+  ],
+  [
+    "guide",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/apr/14/plastic-pfas-microplastic-free-kitchen-tools"
   ],
   [
     "late",
-    14,
-    "https://www.nytimes.com/2026/04/14/arts/television/late-night-trump-pope.html"
+    15,
+    "https://www.theguardian.com/wellness/2026/apr/14/what-is-catastrophizing-how-to-stop-it"
   ],
   [
-    "almost",
-    14,
-    "https://www.theguardian.com/stage/2026/apr/14/jane-krakowski-ally-mcbeal-30-rock-unbreakable-kimmy-schmidt-here-we-are"
+    "donald",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance"
   ],
   [
-    "hormuz",
-    14,
-    "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins"
-  ],
-  [
-    "wife",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/14/bahamas-police-release-michigan-man-wife-disappeared"
-  ],
-  [
-    "hooker",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/14/bahamas-police-release-michigan-man-wife-disappeared"
+    "longer",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance"
   ],
   [
     "music",
-    14,
+    15,
     "https://www.theguardian.com/music/2026/apr/14/coachella-highlights-best-moments-performances"
   ],
   [
-    "tested",
+    "sleep",
+    15,
+    "https://www.theguardian.com/music/2026/apr/14/we-want-people-on-the-edge-of-their-seats-royal-opera-boss-oliver-mears-on-the-new-season-and-the-controversies-of-the-last"
+  ],
+  [
+    "towels",
+    15,
+    "https://www.theguardian.com/thefilter-us/2025/oct/01/best-best-bath-towels-us"
+  ],
+  [
+    "gonzales",
+    15,
+    "https://www.foxnews.com/politics/gonzales-resigns-wake-renewed-expulsion-threat"
+  ],
+  [
+    "administration",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/apr/14/plastic-pfas-microplastic-free-kitchen-tools"
+    "https://www.nytimes.com/video/us/politics/100000010832126/stephen-miller-trump-immigration-crackdown.html"
+  ],
+  [
+    "political",
+    14,
+    "https://www.nytimes.com/2026/04/14/us/politics/trump-weaponization-report-biden-doj-abortion.html"
+  ],
+  [
+    "democrats",
+    14,
+    "https://www.nytimes.com/2026/04/14/us/politics/democrat-redistricting-effort-maryland-fails.html"
+  ],
+  [
+    "ice",
+    14,
+    "https://www.washingtonpost.com/world/2026/04/13/brazil-fugitive-congressman-arrested-alexandre-ramagem/"
+  ],
+  [
+    "government",
+    14,
+    "https://www.theguardian.com/law/2026/apr/14/my-life-has-become-a-rollercoaster-francesca-albanese-death-threats-danger-dread-accusing-israel-genocide"
+  ],
+  [
+    "announced",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/apr/14/trump-title-x-contraception-program-pronatalist"
   ],
   [
     "mario",
@@ -241,44 +261,24 @@
     "https://www.theguardian.com/games/2026/apr/14/is-super-mario-galaxy-movie-really-that-bad"
   ],
   [
-    "rice",
+    "hormuz",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/apr/07/dyson-bissell-cordless-vacuum"
+    "https://www.theguardian.com/science/audio/2026/apr/14/helium-the-invisible-gas-that-powers-ai-and-why-its-in-short-supply-podcast"
   ],
   [
-    "east",
+    "fund",
     13,
     "https://www.nytimes.com/2026/04/14/business/iran-war-imf-economic-growth.html"
   ],
   [
-    "little",
+    "democratic",
     13,
-    "https://www.nytimes.com/2026/04/14/us/politics/war-iran-americans-opinions.html"
+    "https://www.nytimes.com/2026/04/14/us/politics/actblue-republicans-foreign-donations.html"
   ],
   [
-    "support",
+    "far",
     13,
-    "https://www.nytimes.com/2026/04/14/us/politics/trump-pope-leo.html"
-  ],
-  [
-    "jesus",
-    13,
-    "https://www.nytimes.com/2026/04/13/us/politics/trump-jesus-picture-pope-leo.html"
-  ],
-  [
-    "million",
-    13,
-    "https://www.nytimes.com/2026/04/14/arts/design/lacma-peter-zumthor-los-angeles.html"
-  ],
-  [
-    "inside",
-    13,
-    "https://www.nytimes.com/2026/04/14/magazine/homeland-security-immigration-takeaways.html"
-  ],
-  [
-    "social",
-    13,
-    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
+    "https://www.nytimes.com/2026/04/14/world/europe/viktor-orban-peter-magyar-election.html"
   ],
   [
     "israeli",
@@ -286,93 +286,93 @@
     "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "experts",
+    "pop",
     13,
-    "https://www.theguardian.com/law/2026/apr/14/my-life-has-become-a-rollercoaster-francesca-albanese-death-threats-danger-dread-accusing-israel-genocide"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "strait",
-    13,
-    "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins"
-  ],
-  [
-    "fewer",
-    13,
-    "https://www.theguardian.com/business/2026/apr/14/united-airlines-merger-american-airlines"
-  ],
-  [
-    "bahamas",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/14/bahamas-police-release-michigan-man-wife-disappeared"
-  ],
-  [
-    "video",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/14/earthquake-nevada-fallon"
-  ],
-  [
-    "filter",
+    "feel",
     13,
     "https://www.theguardian.com/thefilter-us/2026/apr/14/plastic-pfas-microplastic-free-kitchen-tools"
   ],
   [
-    "allegations",
+    "having",
     13,
-    "https://www.latimes.com/california/story/2026-04-13/attorneys-used-ai-cited-fake-legal-decisions-state-bar-alleges"
+    "https://www.theguardian.com/commentisfree/2026/apr/14/why-arent-republicans-thrilled-by-the-fall-in-teen-pregnancies"
   ],
   [
-    "middle",
+    "something",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/apr/14/why-arent-republicans-thrilled-by-the-fall-in-teen-pregnancies"
+  ],
+  [
+    "county",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/14/ice-detention-minnesota-investigation-false-arrest"
+  ],
+  [
+    "night",
+    13,
+    "https://www.theguardian.com/culture/2026/apr/14/jon-stewart-trump-jesus-photo"
+  ],
+  [
+    "talks",
+    13,
+    "https://www.theguardian.com/culture/2026/apr/14/jon-stewart-trump-jesus-photo"
+  ],
+  [
+    "strait",
+    13,
+    "https://www.theguardian.com/science/audio/2026/apr/14/helium-the-invisible-gas-that-powers-ai-and-why-its-in-short-supply-podcast"
+  ],
+  [
+    "rice",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/apr/07/dyson-bissell-cordless-vacuum"
+  ],
+  [
+    "east",
     12,
     "https://www.nytimes.com/2026/04/14/business/iran-war-imf-economic-growth.html"
   ],
   [
-    "united",
+    "faces",
     12,
-    "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html"
+    "https://www.nytimes.com/2026/04/14/business/trump-federal-reserve-warsh.html"
   ],
   [
-    "los",
+    "least",
     12,
-    "https://www.nytimes.com/2026/04/14/arts/design/lacma-peter-zumthor-los-angeles.html"
+    "https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html"
   ],
   [
-    "angeles",
+    "buying",
     12,
-    "https://www.nytimes.com/2026/04/14/arts/design/lacma-peter-zumthor-los-angeles.html"
+    "https://www.nytimes.com/2026/04/14/technology/amazon-buys-globalstar-space-internet.html"
   ],
   [
-    "eric",
+    "crisis",
     12,
-    "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "china",
+    "spent",
     12,
-    "https://www.nytimes.com/2026/04/14/business/china-foreign-companies-supply-chain.html"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "strike",
+    "country",
     12,
-    "https://www.nytimes.com/2026/04/14/us/los-angeles-schools-strike-deal.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "summer",
+    "filter",
     12,
-    "https://www.nytimes.com/2026/04/14/nyregion/weather-nyc-hot-cold.html"
+    "https://www.theguardian.com/thefilter-us/2026/apr/14/plastic-pfas-microplastic-free-kitchen-tools"
   ],
   [
-    "died",
+    "recent",
     12,
-    "https://www.washingtonpost.com/nation/2026/04/14/camp-mystic-reopen-lawsuit-negligence/"
-  ],
-  [
-    "here's",
-    12,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "democratic",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/apr/14/democrats-voters-israel-gaza-palestine"
+    "https://www.theguardian.com/commentisfree/2026/apr/14/why-arent-republicans-thrilled-by-the-fall-in-teen-pregnancies"
   ]
 ];

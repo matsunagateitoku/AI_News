@@ -3,95 +3,163 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 30,
-      "url": "https://www.theguardian.com/business/2026/apr/14/united-airlines-merger-american-airlines",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jesus Christ",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/04/13/us/politics/trump-jesus-picture-pope-leo.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Brian Hooker",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/bahamas-police-release-michigan-man-wife-disappeared",
+      "count": 32,
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
       "source": "The Guardian"
     },
     {
       "name": "Eric Swalwell",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Pope Leo",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Coachella",
-      "count": 8,
-      "url": "https://www.theguardian.com/music/2026/apr/14/coachella-highlights-best-moments-performances",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Leo Xiv",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/04/14/us/politics/trump-pope-leo.html",
+      "count": 29,
+      "url": "https://www.nytimes.com/2026/04/14/us/lonna-drewes-eric-swalwell-sexual-assault.html",
       "source": "NY Times"
     },
     {
       "name": "Tony Gonzales",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/04/13/us/texas-representative-tony-gonzales-resigns.html",
-      "source": "NY Times"
+      "count": 15,
+      "url": "https://www.foxnews.com/politics/gonzales-resigns-wake-renewed-expulsion-threat",
+      "source": "Fox News"
     },
     {
-      "name": "Hormuz",
-      "count": 6,
-      "url": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins",
+      "name": "Coachella",
+      "count": 9,
+      "url": "https://www.theguardian.com/music/2026/apr/14/coachella-highlights-best-moments-performances",
       "source": "The Guardian"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "count": 7,
+      "url": "https://www.washingtonpost.com/nation/2026/04/13/mamdani-nyc-grocery-stores/",
+      "source": "Washington Post"
     },
     {
       "name": "Jd Vance",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
       "source": "The Guardian"
+    },
+    {
+      "name": "Jesus     Sign",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Karol G",
+      "count": 6,
+      "url": "https://www.theguardian.com/music/2026/apr/13/karol-g-coachella-becky-g-wisin-tropicoqueta",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mario Teaches Typing",
+      "count": 6,
+      "url": "https://www.theguardian.com/games/2026/apr/10/super-mario-what-the-seven-best-obscure-mario-games",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Dianna Russini",
+      "count": 6,
+      "url": "https://www.foxnews.com/sports/dianna-russini-resigns-from-athletic-amid-mike-vrabel-controversy",
+      "source": "Fox News"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 60,
+      "url": "https://www.theguardian.com/thefilter-us/2026/apr/14/plastic-pfas-microplastic-free-kitchen-tools",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 31,
+      "url": "https://www.nytimes.com/2026/04/14/us/politics/war-iran-americans-opinions.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 23,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Israel",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/04/14/opinion/ezra-klein-podcast-lynch-telhami.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/14/house-swalwell-gonzales-trump-congress-iran-politics-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Swalwell",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/04/14/us/lonna-drewes-eric-swalwell-sexual-assault.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/04/13/dining/rotisserie-chicken-prices.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Washington Dc",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/politicians-bilderberg-meeting",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/04/14/us/camp-mystic-hearing-texas-reopening-deadly-flooding.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Los Angeles County",
+      "count": 8,
+      "url": "https://www.latimes.com/california/story/2026-04-14/in-la-county-many-homeless-people-enter-shelters-only-to-end-up-back-on-streets",
+      "source": "LA Times"
     }
   ],
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 61,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Trump Administration",
+      "count": 54,
+      "url": "https://www.nytimes.com/2026/04/14/us/politics/trump-weaponization-report-biden-doj-abortion.html",
+      "source": "NY Times"
     },
     {
-      "name": "Ai Jesus",
+      "name": "The White House",
+      "count": 22,
+      "url": "https://www.politico.com/news/2026/04/11/black-voters-democrats-2028-00867925",
+      "source": "Politico"
+    },
+    {
+      "name": "Ai",
       "count": 21,
-      "url": "https://thehill.com/homenews/administration/5830112-trump-riley-gaines-ai-jesus-post-criticism/",
-      "source": "The Hill"
+      "url": "https://www.washingtonpost.com/technology/2026/04/14/altman-home-attack-ai-division/",
+      "source": "Washington Post"
     },
     {
       "name": "Congress",
       "count": 17,
-      "url": "https://www.nytimes.com/2026/04/14/podcasts/the-headlines/congress-resignations-pope-trump.html",
+      "url": "https://www.nytimes.com/2026/04/14/us/lonna-drewes-eric-swalwell-sexual-assault.html",
       "source": "NY Times"
     },
     {
       "name": "The Filter Us",
-      "count": 13,
+      "count": 12,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat",
-      "source": "The Guardian"
+      "name": "Louisiana Senate",
+      "count": 9,
+      "url": "https://www.politico.com/news/2026/04/10/louisiana-senate-letlow-cassidy-fleming-trump-00866362",
+      "source": "Politico"
     },
     {
       "name": "Guardian News",
@@ -101,109 +169,59 @@
     },
     {
       "name": "Gop Senate",
-      "count": 7,
+      "count": 8,
       "url": "https://www.politico.com/news/2026/04/02/georgia-senate-ossoff-trump-republicans-00854884",
       "source": "Politico"
     },
     {
-      "name": "United Airlines",
+      "name": "Nfl",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/apr/13/former-nfl-cornerback-chris-payton-jones-dies-at-30-everyone-loved-him",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The International Monetary Fund",
       "count": 6,
-      "url": "https://www.theguardian.com/business/2026/apr/14/united-airlines-merger-american-airlines",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Un Ballo",
-      "count": 6,
-      "url": "https://www.theguardian.com/music/2026/apr/14/we-want-people-on-the-edge-of-their-seats-royal-opera-boss-oliver-mears-on-the-new-season-and-the-controversies-of-the-last",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News'",
-      "count": 5,
-      "url": "https://www.cbsnews.com/video/what-to-know-about-the-eric-swalwell-allegations/",
-      "source": "CBS News"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 45,
-      "url": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 32,
-      "url": "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html",
+      "url": "https://www.nytimes.com/2026/04/14/business/iran-war-imf-economic-growth.html",
       "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 25,
-      "url": "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/04/14/opinion/ezra-klein-podcast-lynch-telhami.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Bahamas",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/bahamas-police-release-michigan-man-wife-disappeared",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York Event",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/04/14/us/politics/at-a-house-republicans-new-york-event-flashes-of-an-iran-backlash.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "China",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/04/14/business/china-foreign-companies-supply-chain.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Lebanon",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/04/14/opinion/ezra-klein-podcast-lynch-telhami.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Los Angeles Unified School District Strike​",
-      "count": 9,
-      "url": "https://www.cbsnews.com/news/los-angeles-schools-strike-averted-deal-reached-schools-open/",
-      "source": "CBS News"
     }
   ],
   "EVENT": [
     {
-      "name": "The Iran War",
+      "name": "The 2026 World Cup",
       "count": 10,
-      "url": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins",
+      "url": "https://www.theguardian.com/football/2026/apr/14/matt-crocker-leaves-us-soccer-saudi-arabia",
       "source": "The Guardian"
     },
     {
-      "name": "World Cup",
-      "count": 4,
-      "url": "https://www.theguardian.com/football/2026/mar/30/world-cup-2026-mood-host-cities-world-cup-mexico-canada-us",
+      "name": "The Iran War",
+      "count": 7,
+      "url": "https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices",
       "source": "The Guardian"
     },
     {
       "name": "Holocaust",
-      "count": 2,
-      "url": "https://thehill.com/homenews/5830139-watch-live-johnson-jeffries-holocaust-remembrance-ceremony-2026/",
-      "source": "The Hill"
+      "count": 4,
+      "url": "https://www.theguardian.com/world/2026/apr/14/israeli-ambassador-germany-condemns-bezalel-smotrich-chancellor-friedrich-merz-nazi-regime",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Great Plains",
+      "count": 1,
+      "url": "https://www.theguardian.com/world/2026/apr/14/wildfire-cattle-ranchers-american-great-plains",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gulf War",
+      "count": 1,
+      "url": "https://www.theguardian.com/world/2026/apr/14/a-pope-who-uses-his-brain-vatican-locals-and-visitors-take-sides-in-leo-v-trump-spat",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Miracle Mile",
+      "count": 1,
+      "url": "https://www.theguardian.com/culture/2026/apr/14/miracle-mile-romcom-meets-nuclear-war",
+      "source": "The Guardian"
     },
     {
       "name": "Rockstar Games",
@@ -218,11 +236,17 @@
       "source": "NPR"
     },
     {
+      "name": "The U.S.-Israeli War",
+      "count": 1,
+      "url": "https://www.cbsnews.com/video/imf-warns-risk-global-recession-iran-war-impacts-energy-costs/",
+      "source": "CBS News"
+    },
+    {
       "name": "Easter Sunday ‘",
       "count": 1,
       "url": "https://www.politico.com/news/2026/04/07/tucker-carlson-rips-donald-trump-easter-iran-truth-social-post-00861281",
       "source": "Politico"
     }
   ],
-  "updated": "2026-04-14T14:52:29Z"
+  "updated": "2026-04-14T20:08:26Z"
 };
