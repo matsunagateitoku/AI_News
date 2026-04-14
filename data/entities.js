@@ -2,133 +2,77 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Dismisses Trump",
-      "count": 40,
-      "url": "https://www.nytimes.com/2026/04/13/business/media/trump-wall-street-journal-lawsuit-dismissed-epstein.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Donald Trump",
-      "count": 18,
-      "url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+      "count": 50,
+      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash",
       "source": "The Guardian"
     },
     {
       "name": "Eric Swalwell",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/04/13/us/politics/eric-swalwell-tony-gonzales-luna-house-expel.html",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html",
       "source": "NY Times"
     },
     {
-      "name": "Coachella",
+      "name": "Rep Tony Gonzales",
       "count": 15,
+      "url": "https://www.foxnews.com/politics/embattled-rep-tony-gonzales-announces-plans-resign-sexual-misconduct-allegations",
+      "source": "Fox News"
+    },
+    {
+      "name": "Coachella",
+      "count": 14,
       "url": "https://www.theguardian.com/music/2026/apr/13/karol-g-coachella-becky-g-wisin-tropicoqueta",
       "source": "The Guardian"
     },
     {
       "name": "Pope Leo Xiv",
-      "count": 13,
+      "count": 14,
       "url": "https://www.npr.org/2026/04/13/nx-s1-5780996/pope-leo-begins-tour-across-africa-row-with-trump-iran-war",
       "source": "NPR"
     },
     {
-      "name": "Viktor Orbán",
+      "name": "Brian Hooker",
       "count": 10,
+      "url": "https://www.theguardian.com/world/2026/apr/13/bahamas-us-man-wife-overboard",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Karol G",
+      "count": 9,
+      "url": "https://www.theguardian.com/music/2026/apr/13/karol-g-coachella-becky-g-wisin-tropicoqueta",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Viktor Orbán",
+      "count": 9,
       "url": "https://www.theguardian.com/commentisfree/2026/apr/13/viktor-orban-europe-hungary-democracy-peter-magyar-victory",
       "source": "The Guardian"
     },
     {
-      "name": "Péter Magyar",
+      "name": "Leo Returns",
       "count": 8,
-      "url": "https://www.theguardian.com/world/2026/apr/13/peter-magyar-vows-to-pursue-those-who-plundered-hungary-after-election-win",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Zohran Mamdani",
-      "count": 7,
-      "url": "https://www.washingtonpost.com/nation/2026/04/13/mamdani-nyc-grocery-stores/",
-      "source": "Washington Post"
+      "url": "https://www.nytimes.com/2026/04/14/world/africa/pope-leo-algeria-africa-visit.html",
+      "source": "NY Times"
     },
     {
       "name": "Jesus Christ-Like",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Rory Mcilroy",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/apr/13/donald-trump-brands-rory-mcilroy-a-legend-after-second-masters-triumph",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 50,
-      "url": "https://www.theguardian.com/thefilter-us/2026/apr/13/best-gifts-for-new-moms",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 41,
-      "url": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 28,
-      "url": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/04/13/us/politics/eric-swalwell-democrats-california.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Hungary",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/04/13/world/europe/orban-hungary-election-magyar-populism.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Swalwell",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/04/13/us/politics/eric-swalwell-democrats-california.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City’S",
-      "count": 11,
-      "url": "https://www.theguardian.com/books/2026/apr/10/go-gentle-by-maria-semple-review-a-joyfully-clever-new-york-romcom",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Florida",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/04/13/us/politics/eric-swalwell-tony-gonzales-luna-house-expel.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County",
-      "count": 9,
-      "url": "https://www.latimes.com/environment/story/2026-04-06/wolf-that-visited-los-angeles-county-arrives-in-into-county-historic-moment",
-      "source": "LA Times"
-    },
-    {
-      "name": "North Hollywood",
       "count": 8,
-      "url": "https://www.latimes.com/california/story/2026-04-07/momo-the-rabbit-killed-boyfriend-charged",
-      "source": "LA Times"
+      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-news-at-a-glance-latest-updates-today",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 3,
+      "count": 4,
       "url": "https://www.theguardian.com/world/2026/apr/13/israeli-forces-fire-teargas-at-schoolchildren-holding-west-bank-sit-in",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympics",
+      "count": 3,
+      "url": "https://www.theguardian.com/sport/2026/apr/13/los-angeles-olympics-2028-ticket-prices-residents",
       "source": "The Guardian"
     },
     {
@@ -138,41 +82,97 @@
       "source": "The Guardian"
     },
     {
-      "name": "Olympics",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/apr/13/los-angeles-olympics-2028-ticket-prices-residents",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Easter Sunday ‘",
-      "count": 2,
-      "url": "https://www.politico.com/news/2026/04/07/tucker-carlson-rips-donald-trump-easter-iran-truth-social-post-00861281",
-      "source": "Politico"
-    },
-    {
-      "name": "Another Great Championship, The Masters",
+      "name": "Amid War",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/apr/13/donald-trump-brands-rory-mcilroy-a-legend-after-second-masters-triumph",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/04/13/world/middleeast/iran-war-pentagon-officials-testimony-trump.html",
+      "source": "NY Times"
     },
     {
       "name": "Rockstar Games",
       "count": 1,
       "url": "https://www.theguardian.com/games/2026/apr/13/grand-theft-auto-vi-rockstar-games-data-hack-ransom",
       "source": "The Guardian"
+    },
+    {
+      "name": "Easter Sunday ‘",
+      "count": 1,
+      "url": "https://www.politico.com/news/2026/04/07/tucker-carlson-rips-donald-trump-easter-iran-truth-social-post-00861281",
+      "source": "Politico"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 53,
+      "url": "https://www.theguardian.com/thefilter-us/2026/apr/13/best-gifts-for-new-moms",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 41,
+      "url": "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 35,
+      "url": "https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 30,
+      "url": "https://www.nytimes.com/2026/04/13/us/eric-swalwell-resignation-sex-abuse-accusations.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Hungary",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/04/13/us/politics/orban-trump-maga.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City’S",
+      "count": 12,
+      "url": "https://www.theguardian.com/books/2026/apr/10/go-gentle-by-maria-semple-review-a-joyfully-clever-new-york-romcom",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/04/13/us/texas-representative-tony-gonzales-resigns.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-04-13/la-county-budget-upcoming",
+      "source": "LA Times"
+    },
+    {
+      "name": "Los Angeles",
+      "count": 9,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/13/euphoria-season-three-review-sydney-sweeney-zendaya-hbo",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Bahamas",
+      "count": 9,
+      "url": "https://www.theguardian.com/world/2026/apr/13/bahamas-us-man-wife-overboard",
+      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Ally Viktor Orbán Concedes Defeat",
-      "count": 56,
-      "url": "https://www.today.com/video/trump-ally-viktor-orban-concedes-defeat-in-hungary-election-261226565507",
-      "source": "NBC News"
+      "name": "Trump Media And Technology Group",
+      "count": 62,
+      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-media-guardian-lawsuit",
+      "source": "The Guardian"
     },
     {
-      "name": "Meta‘S Ai",
-      "count": 14,
-      "url": "https://www.theguardian.com/news/audio/2026/apr/13/metas-ai-glasses-and-the-dawn-of-wearable-tech-podcast",
+      "name": "Congress",
+      "count": 24,
+      "url": "https://www.theguardian.com/us-news/2026/apr/13/republican-tony-gonzales-congress",
       "source": "The Guardian"
     },
     {
@@ -188,41 +188,41 @@
       "source": "The Guardian"
     },
     {
-      "name": "The House Ethics Committee",
-      "count": 9,
-      "url": "https://www.foxnews.com/politics/swalwell-faces-house-ethics-probe-over-alleged-sexual-misconduct-expulsion-threat-looms",
-      "source": "Fox News"
+      "name": "Ai A",
+      "count": 12,
+      "url": "https://thehill.com/newsletters/technology/5829564-universities-majors-ai/",
+      "source": "The Hill"
     },
     {
-      "name": "The White House",
-      "count": 9,
-      "url": "https://www.cbsnews.com/video/latest-from-the-white-house-as-trump-bashes-pope-leo-begins-blockade-on-iranian-ports/",
-      "source": "CBS News"
+      "name": "Britney Spears",
+      "count": 7,
+      "url": "https://www.theguardian.com/music/2026/apr/13/britney-spears-enters-rehab-after-march-dui-arrest",
+      "source": "The Guardian"
     },
     {
       "name": "House Ethics Committee",
-      "count": 9,
+      "count": 7,
       "url": "https://www.cbsnews.com/news/eric-swalwell-house-ethics-committee/",
       "source": "CBS News"
     },
     {
-      "name": "Congress",
-      "count": 8,
-      "url": "https://www.npr.org/2026/04/13/nx-s1-5771608/immigration-congress-75-billion",
-      "source": "NPR"
-    },
-    {
-      "name": "Gop Senate",
-      "count": 8,
-      "url": "https://www.politico.com/news/2026/04/02/georgia-senate-ossoff-trump-republicans-00854884",
-      "source": "Politico"
-    },
-    {
       "name": "Truth Social",
-      "count": 7,
+      "count": 6,
       "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash",
       "source": "The Guardian"
+    },
+    {
+      "name": "Lynette Hooker",
+      "count": 6,
+      "url": "https://www.cbsnews.com/news/maps-brian-hooker-lynette-hooker-disappearance-bahamas/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The White House",
+      "count": 6,
+      "url": "https://www.politico.com/news/2026/04/11/black-voters-democrats-2028-00867925",
+      "source": "Politico"
     }
   ],
-  "updated": "2026-04-13T20:09:21Z"
+  "updated": "2026-04-14T04:11:43Z"
 };
