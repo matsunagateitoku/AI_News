@@ -2,98 +2,88 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    77,
-    "https://www.nytimes.com/2026/04/14/us/politics/trump-iran-blockade-china.html"
-  ],
-  [
-    "president",
-    46,
-    "https://www.nytimes.com/2026/04/14/us/politics/vance-pope-trump-georgia.html"
-  ],
-  [
-    "iran",
-    44,
+    79,
     "https://www.nytimes.com/2026/04/14/us/politics/trump-iran-blockade-china.html"
   ],
   [
     "war",
-    42,
+    46,
     "https://www.nytimes.com/2026/04/14/us/politics/trump-iran-blockade-china.html"
   ],
   [
-    "swalwell",
-    39,
-    "https://www.nytimes.com/2026/04/14/us/politics/gallego-swalwell-congress-culture.html"
+    "iran",
+    44,
+    "https://www.nytimes.com/2026/04/14/world/middleeast/strait-of-hormuz-naval-blockade-ship-spoofing.html"
   ],
   [
-    "california",
-    24,
-    "https://www.nytimes.com/2026/04/14/us/california-governor-race-swalwell.html"
-  ],
-  [
-    "york",
-    22,
+    "president",
+    42,
     "https://www.nytimes.com/2026/04/14/world/europe/king-charles-queen-camilla-us-visit.html"
   ],
   [
-    "book",
-    21,
-    "https://www.theguardian.com/sport/2026/apr/14/boss-of-the-bronx-the-turbulent-reign-of-george-steinbrenner-baseballs-ultimate-showman"
+    "swalwell",
+    34,
+    "https://www.nytimes.com/2026/04/14/us/california-governor-race-swalwell.html"
   ],
   [
     "pope",
-    20,
+    24,
     "https://www.nytimes.com/2026/04/14/us/politics/vance-pope-trump-georgia.html"
   ],
   [
-    "eric",
-    20,
-    "https://www.nytimes.com/2026/04/14/us/politics/gallego-swalwell-congress-culture.html"
-  ],
-  [
-    "film",
-    20,
-    "https://www.theguardian.com/culture/2026/apr/15/viral-artists-social-media-videos-stewart-lee-werner-herzog"
+    "love",
+    23,
+    "https://www.nytimes.com/2026/04/14/us/politics/jd-vance-turning-point-usa-protest.html"
   ],
   [
     "because",
-    19,
-    "https://www.nytimes.com/2026/04/14/nyregion/hochul-pied-terre-tax.html"
+    21,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/15/my-ketamine-hell-and-what-made-me-stop"
   ],
   [
-    "talks",
-    19,
-    "https://www.theguardian.com/world/live/2026/apr/15/iran-war-live-news-us-naval-blockade-strait-of-hormuz-pakistan-peace-talks-middle-east-crisis-latest"
+    "game",
+    21,
+    "https://www.theguardian.com/commentisfree/2026/apr/15/viktor-orban-defeated-energetic-campaigning-peter-magyar-hungary-election"
   ],
   [
-    "ukraine",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/apr/15/hungary-authoritarianism-poland-rule-of-law"
+    "power",
+    20,
+    "https://www.washingtonpost.com/nation/2026/04/14/maine-bans-data-centers/"
   ],
   [
-    "art",
+    "eric",
     19,
-    "https://www.theguardian.com/world/2026/apr/15/picasso-painting-winner-charity-raffle"
+    "https://www.nytimes.com/2026/04/14/us/california-governor-race-swalwell.html"
   ],
   [
-    "far",
+    "energy",
+    19,
+    "https://www.theguardian.com/environment/2026/apr/15/big-oil-huge-war-windfall-consumers"
+  ],
+  [
+    "media",
     18,
-    "https://www.nytimes.com/2026/04/14/us/politics/justice-dept-vacate-jan-6-convictions.html"
+    "https://www.nytimes.com/2026/04/15/us/politics/a-progressive-group-rolls-out-a-campus-competitor-to-turning-point.html"
   ],
   [
     "health",
     18,
-    "https://www.nytimes.com/2026/04/14/well/mind/mental-health-children-fertility.html"
+    "https://www.nytimes.com/2026/04/14/us/florida-surgeon-manslaughter-organ-removal.html"
   ],
   [
-    "post",
-    17,
-    "https://www.nytimes.com/2026/04/13/dining/rotisserie-chicken-prices.html"
+    "school",
+    18,
+    "https://www.theguardian.com/us-news/2026/apr/15/oklahoma-principal-shot-disarming-ex-student"
   ],
   [
-    "latest",
+    "allegations",
+    18,
+    "https://www.theguardian.com/music/2026/apr/15/katy-perry-ruby-rose-australia-police-investigate-ntwnfb"
+  ],
+  [
+    "play",
     17,
-    "https://www.nytimes.com/2026/04/13/dining/rotisserie-chicken-prices.html"
+    "https://www.nytimes.com/2026/04/15/world/africa/pope-leo-cameroon-africa.html"
   ],
   [
     "court",
@@ -101,39 +91,44 @@
     "https://www.washingtonpost.com/health/2026/04/14/nursing-home-workers-immigrants-haitians/"
   ],
   [
-    "sexual",
+    "mother",
     17,
-    "https://www.theguardian.com/us-news/2026/apr/14/eric-swalwell-sexual-assault-accusation"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/15/my-month-tradwife-world-cant-pretend-im-not-enjoying-myself"
+  ],
+  [
+    "book",
+    17,
+    "https://www.theguardian.com/books/2026/apr/15/toni-morrison-books-legacy-writer-editor"
   ],
   [
     "don",
     17,
-    "https://www.theguardian.com/commentisfree/2026/apr/14/ai-opinion-piece-column-writing-articles-certified-human-writer"
+    "https://www.theguardian.com/commentisfree/2026/apr/15/trump-supreme-court"
   ],
   [
-    "congress",
+    "tax",
     16,
-    "https://www.nytimes.com/2026/04/14/us/lonna-drewes-eric-swalwell-sexual-assault.html"
-  ],
-  [
-    "love",
-    16,
-    "https://www.nytimes.com/2026/04/14/us/politics/jd-vance-turning-point-usa-protest.html"
-  ],
-  [
-    "died",
-    16,
-    "https://www.washingtonpost.com/nation/2026/04/14/camp-mystic-reopen-lawsuit-negligence/"
+    "https://www.nytimes.com/2026/04/15/business/trump-tax-law-refunds-voters.html"
   ],
   [
     "political",
     16,
-    "https://www.washingtonpost.com/technology/2026/04/14/altman-home-attack-ai-division/"
+    "https://www.nytimes.com/2026/04/15/business/trump-tax-law-refunds-voters.html"
   ],
   [
-    "ice",
+    "york",
     16,
-    "https://www.washingtonpost.com/world/2026/04/13/brazil-fugitive-congressman-arrested-alexandre-ramagem/"
+    "https://www.nytimes.com/2026/04/14/world/europe/king-charles-queen-camilla-us-visit.html"
+  ],
+  [
+    "social",
+    16,
+    "https://www.nytimes.com/2026/04/15/technology/vr-technology-elderly-community-social-isolation.html"
+  ],
+  [
+    "coach",
+    16,
+    "https://www.theguardian.com/sport/2026/apr/15/dianna-russini-nfl-resignation-mike-vrabel"
   ],
   [
     "bath",
@@ -141,44 +136,54 @@
     "https://www.theguardian.com/music/2026/apr/14/louisana-sludge-metallers-acid-bath"
   ],
   [
-    "coffee",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/apr/06/moka-pot-iced-coffee"
-  ],
-  [
-    "blockade",
+    "vance",
     15,
-    "https://www.nytimes.com/2026/04/14/us/politics/trump-iran-blockade-china.html"
+    "https://www.nytimes.com/2026/04/14/us/politics/vance-pope-trump-georgia.html"
   ],
   [
-    "chief",
+    "young",
+    15,
+    "https://www.nytimes.com/2026/04/14/us/politics/jd-vance-turning-point-usa-protest.html"
+  ],
+  [
+    "california",
+    15,
+    "https://www.nytimes.com/2026/04/14/us/california-governor-race-swalwell.html"
+  ],
+  [
+    "money",
     15,
     "https://www.nytimes.com/2026/04/14/nyregion/police-chief-sports-gambling-new-haven.html"
   ],
   [
-    "jesus",
+    "spring",
     15,
-    "https://www.nytimes.com/2026/04/15/arts/television/late-night-trump-jesus.html"
+    "https://www.washingtonpost.com/lifestyle/2026/04/15/chewy-dog-gardening-grandmother/"
   ],
   [
-    "air",
+    "here's",
     15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "novel",
+    "latest",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/15/my-month-tradwife-world-cant-pretend-im-not-enjoying-myself"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "donald",
+    "guide",
     15,
-    "https://www.theguardian.com/world/live/2026/apr/15/iran-war-live-news-us-naval-blockade-strait-of-hormuz-pakistan-peace-talks-middle-east-crisis-latest"
+    "https://www.theguardian.com/thefilter-us/2026/apr/15/spring-wardrobe-refresh"
   ],
   [
-    "food",
+    "something",
     15,
-    "https://www.theguardian.com/us-news/2026/apr/14/trump-doordash-delivery-grandma-mcdonalds"
+    "https://www.theguardian.com/thefilter-us/2026/apr/15/spring-wardrobe-refresh"
+  ],
+  [
+    "talks",
+    15,
+    "https://www.theguardian.com/football/2026/apr/15/bournemouth-in-talks-with-marco-rose-to-replace-andoni-iraola-as-head-coach"
   ],
   [
     "towels",
@@ -186,59 +191,39 @@
     "https://www.theguardian.com/thefilter-us/2025/oct/01/best-best-bath-towels-us"
   ],
   [
+    "coffee",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/apr/06/moka-pot-iced-coffee"
+  ],
+  [
+    "american",
+    14,
+    "https://www.nytimes.com/2026/04/14/world/middleeast/strait-of-hormuz-naval-blockade-ship-spoofing.html"
+  ],
+  [
     "leo",
     14,
     "https://www.nytimes.com/2026/04/14/us/politics/vance-pope-trump-georgia.html"
   ],
   [
-    "department",
+    "death",
     14,
-    "https://www.nytimes.com/2026/04/14/us/politics/pirro-federal-reserve-investigation.html"
+    "https://www.nytimes.com/2026/04/14/us/florida-surgeon-manslaughter-organ-removal.html"
   ],
   [
-    "convictions",
+    "died",
     14,
-    "https://www.nytimes.com/2026/04/14/us/politics/justice-dept-vacate-jan-6-convictions.html"
+    "https://www.washingtonpost.com/nation/2026/04/14/camp-mystic-reopen-lawsuit-negligence/"
   ],
   [
-    "middle",
+    "country",
     14,
-    "https://www.nytimes.com/2026/04/14/us/politics/jd-vance-turning-point-usa-protest.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "million",
+    "trump's",
     14,
-    "https://www.nytimes.com/2026/04/14/nyregion/police-chief-sports-gambling-new-haven.html"
-  ],
-  [
-    "money",
-    14,
-    "https://www.nytimes.com/2026/04/14/nyregion/police-chief-sports-gambling-new-haven.html"
-  ],
-  [
-    "college",
-    14,
-    "https://www.nytimes.com/2026/04/14/us/hampshire-college-closing-amherst-massachusetts-enrollment.html"
-  ],
-  [
-    "school",
-    14,
-    "https://www.nytimes.com/2026/04/14/us/texas-am-president.html"
-  ],
-  [
-    "reporter",
-    14,
-    "https://www.nytimes.com/2026/04/14/business/media/dianna-russini-athletic-resigns.html"
-  ],
-  [
-    "strike",
-    14,
-    "https://www.washingtonpost.com/nation/2026/04/13/doorman-strike-nyc-apartments-affordability/"
-  ],
-  [
-    "spent",
-    14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "star",
@@ -246,19 +231,19 @@
     "https://www.theguardian.com/lifeandstyle/2026/apr/15/my-month-tradwife-world-cant-pretend-im-not-enjoying-myself"
   ],
   [
-    "mother",
+    "far",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/15/my-month-tradwife-world-cant-pretend-im-not-enjoying-myself"
+    "https://www.theguardian.com/commentisfree/2026/apr/15/trump-supreme-court"
   ],
   [
-    "longer",
+    "players",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance"
+    "https://www.theguardian.com/sport/2026/apr/15/mls-world-cup-usmnt-players"
   ],
   [
-    "mario",
+    "music",
     14,
-    "https://www.theguardian.com/games/2026/apr/14/is-super-mario-galaxy-movie-really-that-bad"
+    "https://www.theguardian.com/film/2026/apr/14/mother-mary-movie-review-anne-hathaway"
   ],
   [
     "sleep",
@@ -266,113 +251,128 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/13/best-gifts-for-new-moms"
   ],
   [
-    "law",
+    "blockade",
     13,
-    "https://www.nytimes.com/2026/04/14/us/politics/trump-iran-blockade-china.html"
+    "https://www.nytimes.com/2026/04/14/world/middleeast/strait-of-hormuz-naval-blockade-ship-spoofing.html"
   ],
   [
-    "israel",
+    "cup",
     13,
-    "https://www.nytimes.com/2026/04/14/us/politics/israel-lebanon-talks.html"
+    "https://www.nytimes.com/2026/04/15/podcasts/the-headlines/republicans-disapprove-iran-war-college-closures.html"
   ],
   [
-    "election",
-    13,
-    "https://www.nytimes.com/2026/04/14/us/swalwell-gonzales-resignations-texas-california-special-elections.html"
-  ],
-  [
-    "east",
+    "middle",
     13,
     "https://www.nytimes.com/2026/04/14/us/politics/jd-vance-turning-point-usa-protest.html"
   ],
   [
-    "night",
+    "fire",
     13,
-    "https://www.nytimes.com/2026/04/15/arts/television/late-night-trump-jesus.html"
+    "https://www.nytimes.com/2026/04/15/arts/design/los-angeles-fires-rebuilding-architecture-design.html"
   ],
   [
-    "here's",
+    "family",
     13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.nytimes.com/2026/04/15/theater/billy-crystal-broadway-860.html"
   ],
   [
-    "character",
+    "office",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/15/my-month-tradwife-world-cant-pretend-im-not-enjoying-myself"
+    "https://www.theguardian.com/thefilter-us/2026/apr/15/spring-wardrobe-refresh"
   ],
   [
-    "something",
+    "novel",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/15/moment-that-changed-me-desperate-get-off-mountain"
-  ],
-  [
-    "review",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/15/margos-got-money-troubles-review-elle-fanning-apple-tv"
-  ],
-  [
-    "series",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/15/margos-got-money-troubles-review-elle-fanning-apple-tv"
-  ],
-  [
-    "charges",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers"
-  ],
-  [
-    "email",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance"
-  ],
-  [
-    "assault",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/14/fbi-arrests-california-man-shot-ice-assault"
-  ],
-  [
-    "allegations",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/14/eric-swalwell-sexual-assault-accusation"
-  ],
-  [
-    "company",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/14/trump-doordash-delivery-grandma-mcdonalds"
+    "https://www.theguardian.com/film/2026/apr/15/joan-crawford-letty-lynton-wildest-film-90-years-on"
   ],
   [
     "climate",
     13,
-    "https://www.theguardian.com/world/2026/apr/15/cherry-blossom-1200-years-japan-climate-scientist-yasuyuki-aono"
+    "https://www.theguardian.com/environment/2026/apr/15/big-oil-huge-war-windfall-consumers"
   ],
   [
-    "spring",
+    "art",
     13,
-    "https://www.theguardian.com/world/2026/apr/15/cherry-blossom-1200-years-japan-climate-scientist-yasuyuki-aono"
+    "https://www.theguardian.com/artanddesign/2026/apr/15/joan-semmel-nudes-interview-continuities"
   ],
   [
-    "water",
+    "south",
     13,
-    "https://www.theguardian.com/travel/2026/apr/15/summer-hiking-switzerland-valais"
+    "https://www.theguardian.com/global-development/2026/apr/15/people-displaced-50-years-ago-ava-guarani-community-itaipu-dam-paraguay-brazil-border"
   ],
   [
-    "senate",
+    "nearly",
     13,
-    "https://www.theguardian.com/business/2026/apr/14/trump-federal-reserve-pick-kevin-warsh"
+    "https://www.theguardian.com/commentisfree/2026/apr/15/viktor-orban-defeated-energetic-campaigning-peter-magyar-hungary-election"
   ],
   [
-    "guide",
+    "review",
     13,
-    "https://www.theguardian.com/thefilter-us/2025/nov/11/best-juicers-to-buy"
+    "https://www.theguardian.com/tv-and-radio/2026/apr/15/game-of-thrones-euphoria-hbo-max-uk-age-ratings-bbfc-ai-tool"
   ],
   [
-    "recent",
+    "rep",
+    13,
+    "https://www.latimes.com/california/story/2026-04-13/swalwell-supporters-scramble-after-he-drops-out-of-governors-race-who-benefits"
+  ],
+  [
+    "cbs",
+    13,
+    "https://www.cbsnews.com/video/book-recommendations-for-autism-acceptance-month/"
+  ],
+  [
+    "college",
     12,
-    "https://www.nytimes.com/2026/04/15/world/asia/china-iran-weapons-sales.html"
+    "https://www.nytimes.com/2026/04/15/podcasts/the-headlines/republicans-disapprove-iran-war-college-closures.html"
   ],
   [
-    "vance",
+    "east",
     12,
-    "https://www.nytimes.com/2026/04/14/us/politics/vance-pope-trump-georgia.html"
+    "https://www.nytimes.com/2026/04/14/us/politics/jd-vance-turning-point-usa-protest.html"
+  ],
+  [
+    "data",
+    12,
+    "https://www.nytimes.com/2026/04/15/upshot/student-debt-graduate-school.html"
+  ],
+  [
+    "black",
+    12,
+    "https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html"
+  ],
+  [
+    "market",
+    12,
+    "https://www.nytimes.com/2026/04/15/business/electric-cars-evs-used-gas-prices.html"
+  ],
+  [
+    "buying",
+    12,
+    "https://www.nytimes.com/2026/04/15/business/electric-cars-evs-used-gas-prices.html"
+  ],
+  [
+    "season",
+    12,
+    "https://www.nytimes.com/2026/04/15/arts/television/beef-oscar-isaac-carey-mulligan-netflix.html"
+  ],
+  [
+    "police",
+    12,
+    "https://www.nytimes.com/2026/04/14/nyregion/police-chief-sports-gambling-new-haven.html"
+  ],
+  [
+    "million",
+    12,
+    "https://www.nytimes.com/2026/04/14/nyregion/police-chief-sports-gambling-new-haven.html"
+  ],
+  [
+    "sexual",
+    12,
+    "https://www.nytimes.com/2026/04/15/nyregion/exp-abuse-lawsuit-shareholders.html"
+  ],
+  [
+    "together",
+    12,
+    "https://www.washingtonpost.com/lifestyle/2026/04/15/chewy-dog-gardening-grandmother/"
   ]
 ];
