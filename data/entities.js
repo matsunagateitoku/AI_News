@@ -3,26 +3,20 @@
   "ORG": [
     {
       "name": "Trump Breaks With Meloni",
-      "count": 58,
+      "count": 60,
       "url": "https://www.nytimes.com/2026/04/15/world/europe/trump-meloni-italy-iran-pope.html",
       "source": "NY Times"
     },
     {
-      "name": "Ai",
-      "count": 28,
-      "url": "https://www.washingtonpost.com/technology/2026/04/14/altman-home-attack-ai-division/",
-      "source": "Washington Post"
+      "name": "Ai Jesus",
+      "count": 29,
+      "url": "https://www.nbcnews.com/video/shorts/sen-tillis-ai-jesus-photo-should-have-never-been-posted-261437509975",
+      "source": "NBC News"
     },
     {
-      "name": "The White House",
-      "count": 25,
-      "url": "https://www.nytimes.com/2026/04/15/us/white-house-ballroom-trump-national-security.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Louisiana Senate",
-      "count": 15,
-      "url": "https://www.politico.com/news/2026/04/10/louisiana-senate-letlow-cassidy-fleming-trump-00866362",
+      "name": "Minnesota Senate",
+      "count": 18,
+      "url": "https://www.politico.com/live-updates/2026/04/15/congress/angie-craig-peggy-flanagan-minnesota-senate-cash-00875578",
       "source": "Politico"
     },
     {
@@ -32,190 +26,66 @@
       "source": "The Guardian"
     },
     {
+      "name": "The California Supreme Court",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/04/15/us/john-eastman-disbarred-2020-election.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "House Appropriations",
+      "count": 11,
+      "url": "https://thehill.com/newsletters/health-care/5833401-kennedy-health-secretary-testifies/",
+      "source": "The Hill"
+    },
+    {
       "name": "Guardian News",
       "count": 10,
       "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
+      "name": "Congress",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/15/no-more-us-military-aid-to-israel",
+      "source": "The Guardian"
+    },
+    {
       "name": "Live Nation",
       "count": 9,
-      "url": "https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Breaking News",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/apr/15/oklahoma-principal-shot-disarming-ex-student",
+      "url": "https://www.theguardian.com/business/2026/apr/15/live-nation-ticketmaster-monopoly-ruling",
       "source": "The Guardian"
     },
     {
-      "name": "Fed",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/15/donald-trump-iran-economy-tax-day-voter-id-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nfl",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/apr/15/dianna-russini-nfl-resignation-mike-vrabel",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 73,
-      "url": "https://www.theguardian.com/us-news/2026/apr/15/anti-war-protest-iran",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 40,
-      "url": "https://www.nytimes.com/2026/04/15/business/stocks-record-iran-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/04/15/nyregion/santacon-wire-fraud-stefan-pildes.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City’S",
-      "count": 17,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/15/tax-day-united-states-unequal-taxation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. County",
-      "count": 17,
-      "url": "https://www.latimes.com/california/story/2026-04-15/corvette-crashes-into-maserati-dealership-la-county",
-      "source": "LA Times"
-    },
-    {
-      "name": "Israel",
-      "count": 14,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "California",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/fbi-arrests-california-man-shot-ice-assault",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mexico City",
-      "count": 10,
-      "url": "https://www.theguardian.com/sport/2026/apr/15/liv-golf-meeting-in-new-york-fuels-speculation-over-rebel-tours-future",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Washington Dc",
+      "name": "Gop",
       "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/apr/15/heatwave-high-temperature-records-eastern-us",
-      "source": "The Guardian"
-    },
-    {
-      "name": "China",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    }
-  ],
-  "EVENT": [
-    {
-      "name": "The Iran War",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-04-15/iran-war-chilled-la-housing-market-will-ceasefire-bring-more-sales",
-      "source": "LA Times"
-    },
-    {
-      "name": "Us World Cup",
-      "count": 8,
-      "url": "https://www.theguardian.com/sport/2026/apr/15/mls-world-cup-usmnt-players",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Olympics",
-      "count": 2,
-      "url": "https://www.latimes.com/sports/story/2026-04-15/when-is-la28s-next-olympics-ticket-drop",
-      "source": "LA Times"
-    },
-    {
-      "name": "The U.S.-Israeli War",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/04/15/business/stocks-record-iran-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Waning Days",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/04/15/us/sister-mary-kay-sisters-charity-new-york-nuns.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ticketmaster Illegally Monopolized Ticketing Market",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The World Cup Quarter",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/apr/15/mls-world-cup-usmnt-players",
-      "source": "The Guardian"
-    },
-    {
-      "name": "A World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/apr/15/mls-world-cup-usmnt-players",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Another Gulf War",
-      "count": 1,
-      "url": "https://www.theguardian.com/film/2026/apr/15/balls-up-review",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The World Cup’S",
-      "count": 1,
-      "url": "https://www.theguardian.com/film/2026/apr/15/balls-up-review",
+      "url": "https://www.theguardian.com/technology/2026/apr/15/fisa-surveillance-renewal-debate",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Melania Trump",
-      "count": 26,
-      "url": "https://thehill.com/video-clips/5832501-watch-live-melania-trump-foster-care-house-ways-and-means-roundtable/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Karoline Leavitt",
-      "count": 15,
-      "url": "https://www.theguardian.com/world/2026/apr/15/us-iran-indirect-talks-middle-east-war-ceasefire",
-      "source": "The Guardian"
+      "count": 31,
+      "url": "https://www.foxnews.com/politics/melania-trump-challenges-congress-make-foster-care-executive-order-permanent-law-birthright",
+      "source": "Fox News"
     },
     {
       "name": "Donald Trump Jr.",
-      "count": 13,
+      "count": 16,
       "url": "https://www.theguardian.com/us-news/2026/apr/15/trump-diet-coke-soda-kills-cancer",
       "source": "The Guardian"
     },
     {
-      "name": "Sam Altman",
-      "count": 7,
-      "url": "https://www.washingtonpost.com/technology/2026/04/14/altman-home-attack-ai-division/",
-      "source": "Washington Post"
+      "name": "Jerome H. Powell",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/04/15/business/trump-federal-bank-fresh-hurdles.html",
+      "source": "NY Times"
     },
     {
-      "name": "Jd Vance",
+      "name": "Zohran Mamdani",
       "count": 7,
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/15/donald-trump-iran-economy-tax-day-voter-id-latest-news-updates",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/04/15/nyregion/duwaji-interview-mamdani-wife.html",
+      "source": "NY Times"
     },
     {
       "name": "Jesus Christ-Figure",
@@ -224,29 +94,159 @@
       "source": "The Guardian"
     },
     {
-      "name": "Eric Swalwell",
+      "name": "George Cheeks",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2025/dec/01/california-governor-candidates-democrats-republicans",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-04-15/after-stephen-colbert-cbs-still-wants-original-late-night-show",
+      "source": "LA Times"
     },
     {
-      "name": "Taylor Frankie Paul",
+      "name": "Thom Tillis",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/apr/15/taylor-frankie-paul-mormon-wives-star-not-charged",
-      "source": "The Guardian"
+      "url": "https://www.nbcnews.com/meet-the-press/video/thom-tillis-opens-up-on-which-cabinet-secretaries-are-giving-trump-bad-advice-261438021990",
+      "source": "NBC News"
     },
     {
-      "name": "George W. Bush",
-      "count": 6,
-      "url": "https://thehill.com/homenews/5832799-bush-donates-cornyn-texas-senate-race/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Leo Xiv",
+      "name": "Jd Vance",
       "count": 5,
-      "url": "https://www.theguardian.com/culture/2026/apr/15/stephen-colbert-trump-pope-late-night-recap",
+      "url": "https://www.nytimes.com/2026/04/15/us/just-war-vance-pope.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "John Eastman",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/04/15/us/john-eastman-disbarred-2020-election.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Sam Altman",
+      "count": 5,
+      "url": "https://www.washingtonpost.com/technology/2026/04/14/altman-home-attack-ai-division/",
+      "source": "Washington Post"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 82,
+      "url": "https://www.theguardian.com/us-news/2026/apr/15/anti-war-protest-iran",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 46,
+      "url": "https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 29,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Israel",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/04/15/us/politics/senate-israel-arms-vote-iran-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City’S",
+      "count": 15,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/15/tax-day-united-states-unequal-taxation",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ukraine",
+      "count": 14,
+      "url": "https://www.theguardian.com/world/2026/apr/16/russia-drone-missile-strikes-ukraine-kyiv-dnipro",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County",
+      "count": 14,
+      "url": "https://www.latimes.com/california/story/2026-04-15/hundreds-of-affordable-housing-units-funded-by-new-la-county-agency",
+      "source": "LA Times"
+    },
+    {
+      "name": "Baja California",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/apr/15/gray-whales-san-francisco-bay",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/nation/2026/04/15/camp-mystic-families-license-renewal/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Mexico City",
+      "count": 8,
+      "url": "https://www.theguardian.com/sport/2026/apr/15/liv-golf-meeting-in-new-york-fuels-speculation-over-rebel-tours-future",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-04-15T20:06:01Z"
+  "EVENT": [
+    {
+      "name": "The World Cup",
+      "count": 11,
+      "url": "https://www.cbsnews.com/news/fifa-gianni-infantino-iran-world-cup-war/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The Iran War Means For China",
+      "count": 6,
+      "url": "https://www.nytimes.com/video/us/100000010840169/what-the-iran-war-means-for-china.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Olympics",
+      "count": 4,
+      "url": "https://www.latimes.com/opinion/letters-to-the-editor/story/2026-04-15/olympics-2028-los-angeles-bankruptcy",
+      "source": "LA Times"
+    },
+    {
+      "name": "Iran War Deepens Democratic Divide",
+      "count": 3,
+      "url": "https://www.nytimes.com/2026/04/15/us/politics/senate-israel-arms-vote-iran-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The World Cup Quarter",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/apr/15/mls-world-cup-usmnt-players",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The War",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran War Powers",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/04/15/us/politics/trumps-iran-war-powers-vote-senate.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The U.S.-Israeli War",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/04/15/business/stocks-record-iran-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "May     Sign",
+      "count": 1,
+      "url": "https://www.theguardian.com/business/2026/apr/15/trump-threatens-fire-fed-chair-jerome-powell",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Carabao Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/apr/15/arsenal-sporting-lisbon-champions-league-quarter-final-second-leg-match-report",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-04-16T04:16:46Z"
 };
