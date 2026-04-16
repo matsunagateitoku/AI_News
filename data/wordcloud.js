@@ -2,17 +2,12 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    107,
+    87,
     "https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html"
   ],
   [
     "iran",
-    58,
-    "https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html"
-  ],
-  [
-    "war",
-    56,
+    46,
     "https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html"
   ],
   [
@@ -21,44 +16,34 @@
     "https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html"
   ],
   [
-    "court",
-    34,
-    "https://www.nytimes.com/2026/04/15/us/john-eastman-disbarred-2020-election.html"
+    "war",
+    41,
+    "https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html"
   ],
   [
-    "pope",
-    23,
-    "https://www.nytimes.com/2026/04/15/world/europe/trump-meloni-italy-iran-pope.html"
+    "court",
+    36,
+    "https://www.nytimes.com/2026/04/15/us/john-eastman-disbarred-2020-election.html"
   ],
   [
     "senate",
-    22,
-    "https://www.nytimes.com/2026/04/15/us/politics/trumps-iran-war-powers-vote-senate.html"
-  ],
-  [
-    "million",
-    20,
-    "https://www.nytimes.com/2026/04/15/realestate/pied-a-terre-tax-nyc-hochul-mamdani.html"
-  ],
-  [
-    "donald",
-    20,
+    24,
     "https://www.theguardian.com/business/2026/apr/15/trump-threatens-fire-fed-chair-jerome-powell"
   ],
   [
-    "past",
-    19,
-    "https://www.nytimes.com/2026/04/15/us/politics/senate-israel-arms-vote-iran-war.html"
-  ],
-  [
-    "york",
-    19,
-    "https://www.nytimes.com/2026/04/15/nyregion/pied-a-terre-tax.html"
-  ],
-  [
     "california",
-    19,
+    22,
     "https://www.nytimes.com/2026/04/15/us/john-eastman-disbarred-2020-election.html"
+  ],
+  [
+    "cup",
+    20,
+    "https://www.theguardian.com/football/2026/apr/16/ticket-to-ride-america-2026-world-cup-actively-hates-you"
+  ],
+  [
+    "pope",
+    19,
+    "https://www.nytimes.com/2026/04/15/world/europe/trump-meloni-italy-iran-pope.html"
   ],
   [
     "justice",
@@ -66,19 +51,9 @@
     "https://www.nytimes.com/2026/04/15/us/politics/supreme-court-sotomayor-kavanaugh.html"
   ],
   [
-    "mother",
-    19,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/15/my-month-tradwife-world-cant-pretend-im-not-enjoying-myself"
-  ],
-  [
-    "cup",
-    19,
-    "https://www.theguardian.com/football/2026/apr/15/arsenal-sporting-lisbon-champions-league-quarter-final-second-leg-match-report"
-  ],
-  [
-    "latest",
+    "york",
     18,
-    "https://www.nytimes.com/2026/04/15/briefing/stocks-hit-a-record-high.html"
+    "https://www.nytimes.com/2026/04/15/nyregion/pied-a-terre-tax.html"
   ],
   [
     "supreme",
@@ -86,19 +61,14 @@
     "https://www.nytimes.com/2026/04/15/us/john-eastman-disbarred-2020-election.html"
   ],
   [
-    "nation",
+    "don",
     18,
-    "https://www.washingtonpost.com/nation/2026/04/14/maine-bans-data-centers/"
+    "https://www.theguardian.com/football/2026/apr/16/ticket-to-ride-america-2026-world-cup-actively-hates-you"
   ],
   [
-    "fire",
+    "company",
     18,
-    "https://www.washingtonpost.com/technology/2026/04/14/altman-home-attack-ai-division/"
-  ],
-  [
-    "because",
-    18,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/15/my-ketamine-hell-and-what-made-me-stop"
+    "https://www.theguardian.com/fashion/2026/apr/16/stella-mccartney-launches-sustainable-collection-with-h-and-m-retail-high-street"
   ],
   [
     "game",
@@ -106,39 +76,49 @@
     "https://www.theguardian.com/football/2026/apr/15/bayern-munich-real-madrid-champions-league-quarter-final-second-leg-match-report"
   ],
   [
-    "israel",
+    "questions",
     17,
-    "https://www.nytimes.com/2026/04/15/us/politics/senate-israel-arms-vote-iran-war.html"
+    "https://www.nytimes.com/2026/04/15/world/europe/shakespeare-london-property-house.html"
   ],
   [
-    "military",
+    "million",
     17,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/04/15/realestate/pied-a-terre-tax-nyc-hochul-mamdani.html"
   ],
   [
-    "nearly",
+    "review",
     17,
-    "https://www.theguardian.com/us-news/2026/apr/15/anti-war-protest-iran"
+    "https://www.nytimes.com/2026/04/15/health/alzheimers-drugs-benefit-anti-amyloid.html"
   ],
   [
-    "recent",
+    "media",
     17,
-    "https://www.theguardian.com/us-news/2026/apr/15/democrats-pete-hegseth-impeachment"
+    "https://www.nytimes.com/2026/04/15/nyregion/duwaji-interview-mamdani-wife.html"
   ],
   [
-    "company",
+    "country",
     17,
-    "https://www.theguardian.com/business/2026/apr/15/allbirds-stock-ai-pivot"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "don",
+    "music",
     17,
-    "https://www.theguardian.com/us-news/2026/apr/15/trump-diet-coke-soda-kills-cancer"
+    "https://www.theguardian.com/commentisfree/2026/apr/16/coachellea-middle-aged-festival-goers-justin-trudeau-katy-perry"
   ],
   [
-    "love",
+    "something",
     17,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/15/my-ketamine-hell-and-what-made-me-stop"
+    "https://www.theguardian.com/sport/2026/apr/15/dianna-russini-nfl-resignation-mike-vrabel"
+  ],
+  [
+    "book",
+    17,
+    "https://www.theguardian.com/music/2026/apr/15/moya-brennan-clannad-singer-harpish-folk-irish"
+  ],
+  [
+    "immigration",
+    16,
+    "https://www.nytimes.com/2026/04/15/us/politics/supreme-court-sotomayor-kavanaugh.html"
   ],
   [
     "camp",
@@ -146,19 +126,44 @@
     "https://www.washingtonpost.com/nation/2026/04/15/camp-mystic-families-license-renewal/"
   ],
   [
-    "something",
+    "nation",
     16,
-    "https://www.theguardian.com/sport/2026/apr/15/dianna-russini-nfl-resignation-mike-vrabel"
+    "https://www.washingtonpost.com/nation/2026/04/14/maine-bans-data-centers/"
   ],
   [
-    "bath",
+    "fire",
     16,
-    "https://www.theguardian.com/music/2026/apr/14/louisana-sludge-metallers-acid-bath"
+    "https://www.washingtonpost.com/technology/2026/04/14/altman-home-attack-ai-division/"
   ],
   [
-    "book",
+    "israel",
     16,
-    "https://www.theguardian.com/books/2026/apr/15/the-fallen-by-louise-brangan-review-an-enraging-account-of-irelands-magdalene-laundries"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "recent",
+    16,
+    "https://www.theguardian.com/news/audio/2026/apr/16/when-the-dubai-dream-goes-wrong-podcast"
+  ],
+  [
+    "democrats",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/15/democrats-pete-hegseth-impeachment"
+  ],
+  [
+    "health",
+    16,
+    "https://www.theguardian.com/environment/2026/apr/16/ammonia-pollution-hotspots-uk-pig-poultry-factory-farms"
+  ],
+  [
+    "family",
+    15,
+    "https://www.nytimes.com/2026/04/15/us/politics/labor-secretary-text-messages.html"
+  ],
+  [
+    "job",
+    15,
+    "https://www.nytimes.com/2026/04/15/business/ai-jobs-human-work.html"
   ],
   [
     "tax",
@@ -166,17 +171,12 @@
     "https://www.nytimes.com/2026/04/15/nyregion/pied-a-terre-tax.html"
   ],
   [
-    "immigration",
+    "past",
     15,
-    "https://www.nytimes.com/2026/04/15/us/politics/supreme-court-sotomayor-kavanaugh.html"
+    "https://www.nytimes.com/2026/04/15/nyregion/pied-a-terre-tax.html"
   ],
   [
-    "media",
-    15,
-    "https://www.nytimes.com/2026/04/15/nyregion/duwaji-interview-mamdani-wife.html"
-  ],
-  [
-    "office",
+    "social",
     15,
     "https://www.nytimes.com/2026/04/15/nyregion/duwaji-interview-mamdani-wife.html"
   ],
@@ -191,29 +191,19 @@
     "https://www.washingtonpost.com/nation/2026/04/14/maine-bans-data-centers/"
   ],
   [
-    "guide",
+    "military",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/apr/15/spring-wardrobe-refresh"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "star",
+    "donald",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/15/my-month-tradwife-world-cant-pretend-im-not-enjoying-myself"
+    "https://www.theguardian.com/business/2026/apr/15/trump-threatens-fire-fed-chair-jerome-powell"
   ],
   [
-    "administration",
+    "love",
     15,
-    "https://www.theguardian.com/us-news/2026/apr/15/democrats-pete-hegseth-impeachment"
-  ],
-  [
-    "night",
-    15,
-    "https://www.theguardian.com/culture/2026/apr/15/stephen-colbert-trump-pope-late-night-recap"
-  ],
-  [
-    "health",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/15/camp-mystic-official-reported-flood-deaths"
+    "https://www.theguardian.com/artanddesign/2026/apr/15/ghanaians-elegant-horse-ron-timehins-best-photograph-accra"
   ],
   [
     "towels",
@@ -223,92 +213,57 @@
   [
     "led",
     14,
-    "https://www.nytimes.com/2026/04/15/us/politics/senate-israel-arms-vote-iran-war.html"
+    "https://www.nytimes.com/2026/04/15/business/china-economy-growth.html"
   ],
   [
-    "attack",
+    "drugs",
     14,
-    "https://www.nytimes.com/2026/04/15/us/just-war-vance-pope.html"
+    "https://www.nytimes.com/2026/04/15/health/alzheimers-drugs-benefit-anti-amyloid.html"
   ],
   [
-    "leo",
+    "whose",
     14,
-    "https://www.nytimes.com/2026/04/15/us/just-war-vance-pope.html"
-  ],
-  [
-    "case",
-    14,
-    "https://www.nytimes.com/2026/04/15/us/politics/supreme-court-sotomayor-kavanaugh.html"
-  ],
-  [
-    "country",
-    14,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "price",
-    14,
-    "https://www.theguardian.com/business/2026/apr/15/allbirds-stock-ai-pivot"
+    "https://www.nytimes.com/2026/04/15/insider/nyt-approach-naming-attackers-suspects-victims.html"
   ],
   [
     "late",
     14,
-    "https://www.theguardian.com/culture/2026/apr/15/stephen-colbert-trump-pope-late-night-recap"
+    "https://www.nytimes.com/2026/04/16/arts/television/stephen-colbert-vance-pope.html"
   ],
   [
-    "ukraine",
+    "young",
     14,
-    "https://www.theguardian.com/world/2026/apr/16/russia-drone-missile-strikes-ukraine-kyiv-dnipro"
+    "https://www.washingtonpost.com/nation/2026/04/16/young-men-religion-church-poll/"
   ],
   [
-    "music",
+    "least",
     14,
-    "https://www.theguardian.com/film/2026/apr/14/mother-mary-movie-review-anne-hathaway"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "sleep",
+    "trump's",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/apr/13/best-gifts-for-new-moms"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "oil",
-    13,
-    "https://www.nytimes.com/video/us/100000010840169/what-the-iran-war-means-for-china.html"
+    "club",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/16/beef-season-two-review-the-best-show-on-tv-becomes-an-unlovable-white-lotus-rip-off"
   ],
   [
-    "republicans",
-    13,
-    "https://www.nytimes.com/2026/04/15/us/politics/trumps-iran-war-powers-vote-senate.html"
+    "guide",
+    14,
+    "https://www.theguardian.com/music/2026/apr/15/moya-brennan-clannad-singer-harpish-folk-irish"
   ],
   [
-    "money",
+    "israeli",
     13,
-    "https://www.nytimes.com/2026/04/15/business/china-economy-growth.html"
+    "https://www.nytimes.com/2026/04/15/business/stocks-record-iran-war.html"
   ],
   [
-    "powell",
+    "host",
     13,
-    "https://www.nytimes.com/2026/04/15/business/trump-federal-bank-fresh-hurdles.html"
-  ],
-  [
-    "chair",
-    13,
-    "https://www.nytimes.com/2026/04/15/business/trump-federal-bank-fresh-hurdles.html"
-  ],
-  [
-    "job",
-    13,
-    "https://www.nytimes.com/2026/04/15/business/ai-jobs-human-work.html"
-  ],
-  [
-    "questions",
-    13,
-    "https://www.nytimes.com/2026/04/15/world/europe/shakespeare-london-property-house.html"
-  ],
-  [
-    "review",
-    13,
-    "https://www.nytimes.com/2026/04/15/health/alzheimers-drugs-benefit-anti-amyloid.html"
+    "https://www.nytimes.com/2026/04/16/arts/television/stephen-colbert-vance-pope.html"
   ],
   [
     "sotomayor",
@@ -326,14 +281,14 @@
     "https://www.nytimes.com/2026/04/15/us/politics/supreme-court-sotomayor-kavanaugh.html"
   ],
   [
-    "social",
+    "case",
     13,
-    "https://www.nytimes.com/2026/04/15/nyregion/duwaji-interview-mamdani-wife.html"
+    "https://www.nytimes.com/2026/04/15/us/politics/supreme-court-sotomayor-kavanaugh.html"
   ],
   [
-    "here's",
+    "died",
     13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.washingtonpost.com/nation/2026/04/14/camp-mystic-reopen-lawsuit-negligence/"
   ],
   [
     "drug",
@@ -341,38 +296,83 @@
     "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/15/spring-wardrobe-refresh"
-  ],
-  [
-    "fewer",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/15/spring-wardrobe-refresh"
-  ],
-  [
-    "started",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/15/my-ketamine-hell-and-what-made-me-stop"
-  ],
-  [
     "play",
+    13,
+    "https://www.theguardian.com/music/2026/apr/16/sugar-reunion-bob-mould-interview"
+  ],
+  [
+    "far",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/16/beef-season-two-review-the-best-show-on-tv-becomes-an-unlovable-white-lotus-rip-off"
+  ],
+  [
+    "night",
     13,
     "https://www.theguardian.com/sport/2026/apr/15/lamelo-ball-charlotte-hornets-miami-heat-bam-adebayo-nba"
   ],
   [
-    "companies",
+    "nearly",
     13,
-    "https://www.theguardian.com/environment/2026/apr/15/big-oil-huge-war-windfall-consumers"
+    "https://www.theguardian.com/sport/2026/apr/15/alabama-football-player-luther-davis-alleged-loan-scam"
   ],
   [
-    "food",
+    "bath",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/14/plastic-pfas-microplastic-free-kitchen-tools"
+    "https://www.theguardian.com/thefilter-us/2025/oct/01/best-best-bath-towels-us"
   ],
   [
     "security",
     12,
     "https://www.nytimes.com/video/us/100000010840169/what-the-iran-war-means-for-china.html"
+  ],
+  [
+    "leo",
+    12,
+    "https://www.nytimes.com/2026/04/15/us/just-war-vance-pope.html"
+  ],
+  [
+    "attack",
+    12,
+    "https://www.nytimes.com/2026/04/15/us/just-war-vance-pope.html"
+  ],
+  [
+    "school",
+    12,
+    "https://www.nytimes.com/2026/04/15/us/politics/supreme-court-sotomayor-kavanaugh.html"
+  ],
+  [
+    "office",
+    12,
+    "https://www.nytimes.com/2026/04/15/nyregion/duwaji-interview-mamdani-wife.html"
+  ],
+  [
+    "coachella",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/apr/16/coachellea-middle-aged-festival-goers-justin-trudeau-katy-perry"
+  ],
+  [
+    "place",
+    12,
+    "https://www.theguardian.com/football/2026/apr/16/ticket-to-ride-america-2026-world-cup-actively-hates-you"
+  ],
+  [
+    "film",
+    12,
+    "https://www.theguardian.com/books/2026/apr/16/yesteryear-by-caro-claire-burke-review-the-downfall-of-an-allamerican-tradwife"
+  ],
+  [
+    "powell",
+    12,
+    "https://www.theguardian.com/business/2026/apr/15/trump-threatens-fire-fed-chair-jerome-powell"
+  ],
+  [
+    "started",
+    12,
+    "https://www.theguardian.com/music/2026/apr/16/sugar-reunion-bob-mould-interview"
+  ],
+  [
+    "series",
+    12,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/16/beef-season-two-review-the-best-show-on-tv-becomes-an-unlovable-white-lotus-rip-off"
   ]
 ];
