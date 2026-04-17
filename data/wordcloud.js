@@ -2,178 +2,223 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    104,
-    "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html"
+    89,
+    "https://www.nytimes.com/2026/04/16/health/erica-schwartz-cdc-director-trump.html"
   ],
   [
     "iran",
-    42,
-    "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html"
+    45,
+    "https://www.theguardian.com/news/audio/2026/apr/17/will-trump-regret-taking-on-the-pope-podcast"
   ],
   [
     "war",
-    38,
-    "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html"
-  ],
-  [
-    "president",
-    36,
-    "https://www.nytimes.com/2026/04/16/us/politics/trump-under-pressure.html"
-  ],
-  [
-    "court",
-    32,
-    "https://www.nytimes.com/2026/04/16/climate/hawaii-climate-lawsuit-dismissed.html"
+    41,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
     "israel",
-    28,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "california",
-    28,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit"
-  ],
-  [
-    "york",
-    26,
-    "https://www.nytimes.com/2026/04/16/dining/damn-lines-new-york.html"
-  ],
-  [
-    "film",
-    24,
-    "https://www.theguardian.com/film/2026/apr/16/kirsten-dunst-films-ranked"
+    39,
+    "https://www.nytimes.com/2026/04/16/briefing/israel-lebanon-cease-fire.html"
   ],
   [
     "lebanon",
-    24,
-    "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates"
+    37,
+    "https://www.nytimes.com/2026/04/16/briefing/israel-lebanon-cease-fire.html"
   ],
   [
-    "million",
-    23,
-    "https://www.nytimes.com/2026/04/16/nyregion/nj-transit-ticket-price-world-cup.html"
-  ],
-  [
-    "ceasefire",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/apr/16/donald-trump-peace-deal-iran-washington-tehran-deadline"
-  ],
-  [
-    "pope",
-    21,
-    "https://www.nytimes.com/2026/04/16/us/politics/trump-under-pressure.html"
-  ],
-  [
-    "health",
-    21,
-    "https://www.nytimes.com/2026/04/16/well/rfk-jr-health-screenings-services-uspstf.html"
+    "president",
+    34,
+    "https://www.nytimes.com/2026/04/16/opinion/supreme-court-trump.html"
   ],
   [
     "ice",
-    19,
-    "https://www.nytimes.com/2026/04/16/us/minnesota-prosecution-ice-agent.html"
+    32,
+    "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
   ],
   [
-    "died",
-    18,
-    "https://www.nytimes.com/2026/04/16/us/ice-detention-alabama-french-woman.html"
+    "york",
+    29,
+    "https://www.nytimes.com/2026/04/16/style/met-gala-mayor-mamdani-nyc.html"
   ],
   [
-    "police",
-    17,
-    "https://www.nytimes.com/2026/04/16/us/virginia-lt-governor-justin-fairfax-murder-wife-suicide.html"
+    "court",
+    29,
+    "https://www.nytimes.com/2026/04/16/opinion/supreme-court-trump.html"
+  ],
+  [
+    "ceasefire",
+    28,
+    "https://www.theguardian.com/commentisfree/2026/apr/16/donald-trump-peace-deal-iran-washington-tehran-deadline"
+  ],
+  [
+    "director",
+    27,
+    "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
+  ],
+  [
+    "california",
+    24,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit"
+  ],
+  [
+    "arrested",
+    22,
+    "https://www.nytimes.com/2026/04/16/arts/music/d4vd-charged-teen-death-tesla.html"
   ],
   [
     "young",
-    17,
+    21,
     "https://www.washingtonpost.com/nation/2026/04/16/young-men-religion-church-poll/"
   ],
   [
-    "media",
-    17,
-    "https://www.washingtonpost.com/lifestyle/2026/04/15/chewy-dog-gardening-grandmother/"
+    "film",
+    21,
+    "https://www.theguardian.com/film/2026/apr/16/kirsten-dunst-films-ranked"
   ],
   [
-    "military",
-    17,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "immigration",
+    20,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "family",
+    19,
+    "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
+  ],
+  [
+    "seat",
+    19,
+    "https://www.nytimes.com/2026/04/16/nyregion/analilia-mejia-joe-hathaway-congress-nj.html"
+  ],
+  [
+    "donald",
+    19,
+    "https://www.theguardian.com/news/audio/2026/apr/17/will-trump-regret-taking-on-the-pope-podcast"
+  ],
+  [
+    "singer",
+    18,
+    "https://www.nytimes.com/2026/04/16/arts/music/d4vd-charged-teen-death-tesla.html"
+  ],
+  [
+    "whose",
+    18,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
     "something",
-    17,
+    18,
     "https://www.theguardian.com/thefilter-us/2026/apr/16/best-seat-cushions-rest-sit-comfort"
   ],
   [
-    "secretary",
-    16,
-    "https://www.nytimes.com/2026/04/16/well/rfk-jr-health-screenings-services-uspstf.html"
+    "election",
+    17,
+    "https://www.nytimes.com/2026/04/16/health/erica-schwartz-cdc-director-trump.html"
   ],
   [
-    "wife",
-    16,
-    "https://www.nytimes.com/2026/04/16/us/virginia-lt-governor-justin-fairfax-murder-wife-suicide.html"
+    "died",
+    17,
+    "https://www.nytimes.com/2026/04/16/arts/music/d4vd-charged-teen-death-tesla.html"
   ],
   [
-    "air",
-    16,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "night",
+    17,
+    "https://www.theguardian.com/news/audio/2026/apr/17/will-trump-regret-taking-on-the-pope-podcast"
   ],
   [
-    "email",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/16/ice-immigration-court-interpreter-detained"
-  ],
-  [
-    "food",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/16/rfk-jr-affordable-food"
-  ],
-  [
-    "los",
-    16,
-    "https://www.theguardian.com/artanddesign/2026/apr/16/lacma-david-geffen-galleries-peter-zumthor-eiffel-concrete-aircraft-carrier"
+    "david",
+    17,
+    "https://www.theguardian.com/us-news/2026/apr/16/singer-d4vd-arrested-suspicion-murder"
   ],
   [
     "music",
-    16,
+    17,
     "https://www.theguardian.com/commentisfree/2026/apr/16/coachellea-middle-aged-festival-goers-justin-trudeau-katy-perry"
   ],
   [
     "book",
-    16,
+    17,
     "https://www.theguardian.com/books/2026/apr/15/the-fallen-by-louise-brangan-review-an-enraging-account-of-irelands-magdalene-laundries"
   ],
   [
-    "supreme",
-    15,
-    "https://www.nytimes.com/2026/04/16/us/politics/the-docket-supreme-court-penn-teller.html"
+    "mejia",
+    16,
+    "https://www.nytimes.com/2026/04/16/nyregion/analilia-mejia-joe-hathaway-congress-nj.html"
   ],
   [
-    "country",
-    15,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "democrat",
+    16,
+    "https://www.nytimes.com/2026/04/16/nyregion/analilia-mejia-joe-hathaway-congress-nj.html"
+  ],
+  [
+    "million",
+    16,
+    "https://www.nytimes.com/2026/04/16/business/media/npr-133-million-donation-ballmer.html"
+  ],
+  [
+    "social",
+    16,
+    "https://www.washingtonpost.com/lifestyle/2026/04/15/chewy-dog-gardening-grandmother/"
   ],
   [
     "don",
-    15,
+    16,
     "https://www.theguardian.com/environment/2026/apr/16/vermont-dairy-workers-immigration"
   ],
   [
-    "angeles",
-    15,
-    "https://www.theguardian.com/artanddesign/2026/apr/16/lacma-david-geffen-galleries-peter-zumthor-eiffel-concrete-aircraft-carrier"
+    "pope",
+    16,
+    "https://www.theguardian.com/news/audio/2026/apr/17/will-trump-regret-taking-on-the-pope-podcast"
   ],
   [
-    "club",
-    15,
-    "https://www.theguardian.com/football/2026/apr/16/alex-manninger-former-arsenal-goalkeeper-dies-aged-48-after-road-accident"
+    "senate",
+    16,
+    "https://www.npr.org/2026/04/16/g-s1-117718/house-passes-bill-extending-protections-for-haitian-migrants-in-the-u-s"
   ],
   [
-    "review",
+    "star",
     15,
-    "https://www.theguardian.com/football/2026/apr/16/champions-league-review-cunning-kane-psg-click-into-form-and-a-bloodied-pundit"
+    "https://www.nytimes.com/2026/04/16/style/clavicular-overdose-braden-peters.html"
+  ],
+  [
+    "police",
+    15,
+    "https://www.nytimes.com/2026/04/16/nyregion/nypd-chase-horseback-mounted.html"
+  ],
+  [
+    "department",
+    15,
+    "https://www.nytimes.com/2026/04/16/nyregion/nypd-chase-horseback-mounted.html"
+  ],
+  [
+    "security",
+    15,
+    "https://www.nytimes.com/2026/04/16/world/europe/peter-mandelson-epstein-starmer-security.html"
+  ],
+  [
+    "investigation",
+    15,
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+  ],
+  [
+    "secretary",
+    15,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "because",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/apr/16/donald-trump-peace-deal-iran-washington-tehran-deadline"
+  ],
+  [
+    "health",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/16/cdc-director-trump-erica-schwartz"
+  ],
+  [
+    "county",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/16/justin-fairfax-murder-suicide-virginia-lt-governor"
   ],
   [
     "towels",
@@ -181,109 +226,119 @@
     "https://www.theguardian.com/thefilter-us/2025/oct/01/best-best-bath-towels-us"
   ],
   [
-    "judge",
+    "acting",
     14,
-    "https://www.nytimes.com/2026/04/16/us/politics/trump-ballroom-judge-halt.html"
+    "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
   ],
   [
-    "immigration",
+    "lyons",
     14,
-    "https://www.nytimes.com/2026/04/16/us/minnesota-prosecution-ice-agent.html"
+    "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
   ],
   [
-    "justin",
+    "sherrill",
     14,
-    "https://www.nytimes.com/2026/04/16/us/virginia-lt-governor-justin-fairfax-murder-wife-suicide.html"
+    "https://www.nytimes.com/2026/04/16/nyregion/analilia-mejia-joe-hathaway-congress-nj.html"
   ],
   [
-    "fairfax",
+    "republican",
     14,
-    "https://www.nytimes.com/2026/04/16/us/virginia-lt-governor-justin-fairfax-murder-wife-suicide.html"
+    "https://www.nytimes.com/2026/04/16/nyregion/analilia-mejia-joe-hathaway-congress-nj.html"
   ],
   [
-    "cup",
+    "jersey",
     14,
-    "https://www.nytimes.com/2026/04/16/nyregion/nj-transit-ticket-price-world-cup.html"
+    "https://www.nytimes.com/2026/04/16/nyregion/analilia-mejia-joe-hathaway-congress-nj.html"
   ],
   [
-    "ticket",
+    "death",
     14,
-    "https://www.nytimes.com/2026/04/16/nyregion/nj-transit-ticket-price-world-cup.html"
+    "https://www.nytimes.com/2026/04/16/arts/music/d4vd-charged-teen-death-tesla.html"
   ],
   [
-    "director",
+    "workers",
     14,
-    "https://www.washingtonpost.com/nation/2026/04/14/camp-mystic-reopen-lawsuit-negligence/"
+    "https://www.nytimes.com/2026/04/16/us/michigan-dam-height-cheboygan.html"
   ],
   [
-    "family",
+    "leaders",
     14,
-    "https://www.washingtonpost.com/nation/2026/04/14/camp-mystic-reopen-lawsuit-negligence/"
+    "https://www.washingtonpost.com/nation/2026/04/16/young-men-religion-church-poll/"
   ],
   [
-    "whose",
+    "peace",
     14,
-    "https://www.washingtonpost.com/nation/2026/04/14/camp-mystic-reopen-lawsuit-negligence/"
-  ],
-  [
-    "guide",
-    14,
-    "https://www.theguardian.com/film/2026/apr/16/kirsten-dunst-films-ranked"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/apr/16/donald-trump-peace-deal-iran-washington-tehran-deadline"
-  ],
-  [
-    "leo",
-    14,
-    "https://www.theguardian.com/world/2026/apr/16/pope-leo-xiv-tyrants-trump-spat"
-  ],
-  [
-    "place",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/16/justin-fairfax-murder-suicide-virginia-lt-governor"
-  ],
-  [
-    "social",
-    13,
-    "https://www.washingtonpost.com/lifestyle/2026/04/15/chewy-dog-gardening-grandmother/"
-  ],
-  [
-    "latest",
-    13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "because",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/apr/16/donald-trump-peace-deal-iran-washington-tehran-deadline"
-  ],
-  [
-    "night",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/16/big-tech-breakup-parties"
-  ],
-  [
-    "post",
-    13,
-    "https://www.theguardian.com/politics/2026/apr/16/revealed-mandelson-failed-vetting-but-foreign-office-overruled-decision"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
     "late",
-    13,
-    "https://www.theguardian.com/politics/2026/apr/16/revealed-mandelson-failed-vetting-but-foreign-office-overruled-decision"
+    14,
+    "https://www.theguardian.com/news/audio/2026/apr/17/will-trump-regret-taking-on-the-pope-podcast"
   ],
   [
-    "david",
-    13,
-    "https://www.theguardian.com/artanddesign/2026/apr/16/lacma-david-geffen-galleries-peter-zumthor-eiffel-concrete-aircraft-carrier"
+    "prices",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit"
   ],
   [
-    "coachella",
+    "review",
+    14,
+    "https://www.theguardian.com/stage/2026/apr/16/proof-broadway-revival-review-ayo-edebiri-kara-young"
+  ],
+  [
+    "measles",
     13,
-    "https://www.theguardian.com/commentisfree/2026/apr/16/coachellea-middle-aged-festival-goers-justin-trudeau-katy-perry"
+    "https://www.nytimes.com/2026/04/16/briefing/israel-lebanon-cease-fire.html"
+  ],
+  [
+    "leave",
+    13,
+    "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
+  ],
+  [
+    "company",
+    13,
+    "https://www.nytimes.com/2026/04/16/business/roger-adams-dead.html"
+  ],
+  [
+    "wife",
+    13,
+    "https://www.nytimes.com/2026/04/16/nyregion/mamdani-tax-return.html"
+  ],
+  [
+    "job",
+    13,
+    "https://www.nytimes.com/2026/04/16/us/international-students-callout.html"
+  ],
+  [
+    "killed",
+    13,
+    "https://www.nytimes.com/2026/04/16/us/atlanta-killings-attacks-charges.html"
+  ],
+  [
+    "israeli",
+    13,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "held",
+    13,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "guide",
+    13,
+    "https://www.theguardian.com/film/2026/apr/16/kirsten-dunst-films-ranked"
+  ],
+  [
+    "place",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/16/justin-fairfax-murder-suicide-virginia-lt-governor"
+  ],
+  [
+    "play",
+    13,
+    "https://www.theguardian.com/sport/2026/apr/16/curry-and-green-roll-back-the-years-to-keep-warriors-season-alive-for-one-night-were-us"
   ],
   [
     "bath",
@@ -291,88 +346,33 @@
     "https://www.theguardian.com/thefilter-us/2025/oct/01/best-best-bath-towels-us"
   ],
   [
-    "cbs",
-    13,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-04-15/after-stephen-colbert-cbs-still-wants-original-late-night-show"
-  ],
-  [
-    "republicans",
+    "todd",
     12,
-    "https://www.nytimes.com/2026/04/16/us/politics/trump-under-pressure.html"
-  ],
-  [
-    "charged",
-    12,
-    "https://www.nytimes.com/2026/04/16/us/minnesota-prosecution-ice-agent.html"
-  ],
-  [
-    "minnesota",
-    12,
-    "https://www.nytimes.com/2026/04/16/us/minnesota-prosecution-ice-agent.html"
-  ],
-  [
-    "senate",
-    12,
-    "https://www.nytimes.com/2026/04/16/climate/boundary-waters-senate-vote.html"
-  ],
-  [
-    "company",
-    12,
-    "https://www.nytimes.com/2026/04/16/climate/boundary-waters-senate-vote.html"
-  ],
-  [
-    "administration",
-    12,
-    "https://www.nytimes.com/2026/04/16/climate/hawaii-climate-lawsuit-dismissed.html"
-  ],
-  [
-    "drug",
-    12,
-    "https://www.nytimes.com/2026/04/16/well/xanax-recall-fda-anxiety.html"
-  ],
-  [
-    "star",
-    12,
-    "https://www.nytimes.com/2026/04/16/style/clavicular-overdose-braden-peters.html"
-  ],
-  [
-    "love",
-    12,
-    "https://www.nytimes.com/2026/04/09/books/review/the-pitt-emergency-room-memoirs.html"
-  ],
-  [
-    "cost",
-    12,
-    "https://www.nytimes.com/2026/04/16/nyregion/nj-transit-ticket-price-world-cup.html"
-  ],
-  [
-    "questions",
-    12,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "attack",
-    12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "global",
-    12,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "investigation",
-    12,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+    "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
   ],
   [
     "decision",
     12,
-    "https://www.theguardian.com/politics/2026/apr/16/revealed-mandelson-failed-vetting-but-foreign-office-overruled-decision"
+    "https://www.nytimes.com/2026/04/16/style/met-gala-mayor-mamdani-nyc.html"
   ],
   [
-    "democrats",
+    "office",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/16/haitian-deportation-protections-vote"
+    "https://www.nytimes.com/2026/04/16/world/europe/peter-mandelson-epstein-starmer-security.html"
+  ],
+  [
+    "media",
+    12,
+    "https://www.washingtonpost.com/lifestyle/2026/04/15/chewy-dog-gardening-grandmother/"
+  ],
+  [
+    "supreme",
+    12,
+    "https://www.theguardian.com/us-news/2026/apr/16/lawyer-john-eastman-disbarred-2020-election-trump"
+  ],
+  [
+    "race",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/17/eat-my-dust-what-is-slow-vacuuming-does-it-work"
   ]
 ];
