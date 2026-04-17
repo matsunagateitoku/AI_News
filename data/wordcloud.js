@@ -2,148 +2,118 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    79,
-    "https://www.nytimes.com/2026/04/16/health/erica-schwartz-cdc-director-trump.html"
+    72,
+    "https://www.nytimes.com/2026/04/17/world/europe/trump-samson-europe.html"
   ],
   [
     "iran",
-    43,
-    "https://www.theguardian.com/news/audio/2026/apr/17/will-trump-regret-taking-on-the-pope-podcast"
-  ],
-  [
-    "war",
-    41,
-    "https://www.nytimes.com/2026/04/17/arts/television/colbert-trump-papal-feud.html"
-  ],
-  [
-    "israel",
-    36,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "president",
-    33,
-    "https://www.nytimes.com/2026/04/16/opinion/supreme-court-trump.html"
-  ],
-  [
-    "lebanon",
-    32,
-    "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates"
-  ],
-  [
-    "ice",
-    31,
-    "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
-  ],
-  [
-    "director",
-    28,
-    "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
+    44,
+    "https://www.theguardian.com/world/2026/apr/17/pope-jd-vance-row-iran-just-war"
   ],
   [
     "ceasefire",
-    28,
+    36,
     "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates"
   ],
   [
-    "arrested",
-    24,
-    "https://www.nytimes.com/2026/04/16/arts/music/d4vd-charged-teen-death-tesla.html"
+    "president",
+    31,
+    "https://www.nytimes.com/2026/04/17/briefing/a-huge-arch.html"
   ],
   [
-    "film",
-    23,
-    "https://www.theguardian.com/film/2026/apr/17/cinema-improvised-lines-nehind-the-scenes-secrets-godfather-saltburn"
+    "lebanon",
+    29,
+    "https://www.nytimes.com/2026/04/17/podcasts/the-headlines/israel-lebanon-cease-fire-rfk-jr-vaccines-heelys.html"
   ],
   [
-    "york",
-    22,
-    "https://www.nytimes.com/2026/04/16/style/met-gala-mayor-mamdani-nyc.html"
+    "israel",
+    27,
+    "https://www.nytimes.com/2026/04/17/podcasts/the-headlines/israel-lebanon-cease-fire-rfk-jr-vaccines-heelys.html"
   ],
   [
-    "star",
-    21,
-    "https://www.nytimes.com/2026/04/16/style/clavicular-overdose-braden-peters.html"
+    "war",
+    26,
+    "https://www.nytimes.com/2026/04/17/world/europe/trump-samson-europe.html"
   ],
   [
     "court",
-    21,
+    26,
     "https://www.nytimes.com/2026/04/17/opinion/lafarge-corporate-terrorism-syria-france.html"
   ],
   [
-    "immigration",
-    21,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "star",
+    25,
+    "https://www.theguardian.com/world/2026/apr/17/justin-trudeau-katy-perry-politics"
   ],
   [
-    "review",
-    21,
-    "https://www.theguardian.com/stage/2026/apr/16/proof-broadway-revival-review-ayo-edebiri-kara-young"
+    "ice",
+    24,
+    "https://www.nytimes.com/2026/04/17/us/french-woman-release-alabama-ice.html"
+  ],
+  [
+    "director",
+    22,
+    "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
   ],
   [
     "family",
-    20,
+    22,
     "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
   ],
   [
-    "seat",
+    "strait",
+    21,
+    "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates"
+  ],
+  [
+    "health",
+    21,
+    "https://www.theguardian.com/us-news/live/2026/apr/17/house-congress-republicans-trump-administration-us-politics-news-live"
+  ],
+  [
+    "hormuz",
     20,
-    "https://www.nytimes.com/2026/04/16/nyregion/analilia-mejia-joe-hathaway-congress-nj.html"
-  ],
-  [
-    "security",
-    20,
-    "https://www.nytimes.com/2026/04/16/world/europe/peter-mandelson-epstein-starmer-security.html"
-  ],
-  [
-    "acting",
-    19,
-    "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
-  ],
-  [
-    "democrat",
-    19,
-    "https://www.nytimes.com/2026/04/16/nyregion/analilia-mejia-joe-hathaway-congress-nj.html"
-  ],
-  [
-    "million",
-    19,
-    "https://www.nytimes.com/2026/04/16/business/media/npr-133-million-donation-ballmer.html"
-  ],
-  [
-    "young",
-    19,
-    "https://www.washingtonpost.com/nation/2026/04/16/young-men-religion-church-poll/"
-  ],
-  [
-    "music",
-    19,
-    "https://www.theguardian.com/music/2026/apr/17/gaze-stars-gonna-be-up-there-one-day-prince-those-who-knew-him-best-10-years-after-death"
-  ],
-  [
-    "lyons",
-    18,
-    "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
-  ],
-  [
-    "singer",
-    18,
-    "https://www.nytimes.com/2026/04/16/arts/music/d4vd-charged-teen-death-tesla.html"
-  ],
-  [
-    "mejia",
-    18,
-    "https://www.nytimes.com/2026/04/16/nyregion/analilia-mejia-joe-hathaway-congress-nj.html"
+    "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates"
   ],
   [
     "senate",
-    17,
+    19,
     "https://www.nytimes.com/2026/04/17/us/politics/fisa-702-surveillance-house-vote-trump.html"
   ],
   [
-    "night",
+    "american",
+    19,
+    "https://www.nytimes.com/2026/04/17/us/politics/ice-cbp-birth-pregnancy-detention.html"
+  ],
+  [
+    "review",
+    19,
+    "https://www.theguardian.com/stage/2026/apr/16/proof-broadway-revival-review-ayo-edebiri-kara-young"
+  ],
+  [
+    "film",
+    19,
+    "https://www.theguardian.com/film/2026/apr/17/cinema-improvised-lines-nehind-the-scenes-secrets-godfather-saltburn"
+  ],
+  [
+    "arrested",
+    18,
+    "https://www.nytimes.com/2026/04/17/us/french-woman-release-alabama-ice.html"
+  ],
+  [
+    "game",
+    18,
+    "https://www.theguardian.com/football/2026/apr/17/arsenal-premier-league-manchester-city-favourites-leaders"
+  ],
+  [
+    "minister",
     17,
-    "https://www.theguardian.com/music/2026/apr/17/gaze-stars-gonna-be-up-there-one-day-prince-those-who-knew-him-best-10-years-after-death"
+    "https://www.nytimes.com/2026/04/17/us/french-woman-release-alabama-ice.html"
+  ],
+  [
+    "democratic",
+    17,
+    "https://www.nytimes.com/2026/04/17/us/politics/talarico-cornyn-paxton-texas-senate-fundraising.html"
   ],
   [
     "something",
@@ -151,99 +121,89 @@
     "https://www.theguardian.com/stage/2026/apr/16/proof-broadway-revival-review-ayo-edebiri-kara-young"
   ],
   [
-    "american",
-    17,
-    "https://www.theguardian.com/world/2026/apr/16/pope-leo-xiv-tyrants-trump-spat"
-  ],
-  [
-    "todd",
-    16,
-    "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
-  ],
-  [
-    "election",
-    16,
-    "https://www.nytimes.com/2026/04/16/health/erica-schwartz-cdc-director-trump.html"
-  ],
-  [
-    "death",
-    16,
-    "https://www.nytimes.com/2026/04/16/arts/music/d4vd-charged-teen-death-tesla.html"
-  ],
-  [
-    "republican",
-    16,
-    "https://www.nytimes.com/2026/04/16/nyregion/analilia-mejia-joe-hathaway-congress-nj.html"
-  ],
-  [
-    "late",
-    16,
-    "https://www.nytimes.com/2026/04/17/arts/television/colbert-trump-papal-feud.html"
-  ],
-  [
-    "leaders",
-    16,
-    "https://www.washingtonpost.com/nation/2026/04/16/young-men-religion-church-poll/"
-  ],
-  [
-    "don",
-    16,
-    "https://www.theguardian.com/stage/2026/apr/16/proof-broadway-revival-review-ayo-edebiri-kara-young"
-  ],
-  [
-    "david",
-    16,
-    "https://www.theguardian.com/stage/2026/apr/16/proof-broadway-revival-review-ayo-edebiri-kara-young"
-  ],
-  [
     "because",
-    16,
+    17,
     "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates"
+  ],
+  [
+    "security",
+    16,
+    "https://www.nytimes.com/2026/04/17/world/europe/uk-starmer-mandelson-foreign-office-robbins-fired.html"
+  ],
+  [
+    "million",
+    16,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "least",
+    16,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "recent",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/17/children-gender-affirming-trans-care-trump"
   ],
   [
     "book",
     16,
-    "https://www.theguardian.com/books/2026/apr/17/the-dogs-gaze-by-thomas-laqueur-review-the-art-of-the-canine-from-velazquez-to-picasso"
-  ],
-  [
-    "died",
-    15,
-    "https://www.nytimes.com/2026/04/16/arts/music/d4vd-charged-teen-death-tesla.html"
-  ],
-  [
-    "department",
-    15,
-    "https://www.nytimes.com/2026/04/16/nyregion/nypd-chase-horseback-mounted.html"
-  ],
-  [
-    "whose",
-    15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "secretary",
-    15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "recent",
-    15,
-    "https://www.theguardian.com/fashion/2026/apr/16/the-antidote-to-brat-why-childlike-pointelle-is-enjoying-a-moment-of-exposure"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/17/how-to-be-patient-children-parents"
   ],
   [
     "california",
-    15,
+    16,
     "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit"
   ],
   [
-    "leave",
-    14,
-    "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
+    "cbs",
+    16,
+    "https://www.latimes.com/entertainment-arts/business/story/2026-04-15/after-stephen-colbert-cbs-still-wants-original-late-night-show"
+  ],
+  [
+    "immigration",
+    15,
+    "https://www.nytimes.com/2026/04/17/us/texas-restaurants-immigration-work-permits.html"
+  ],
+  [
+    "nearly",
+    15,
+    "https://www.nytimes.com/2026/04/17/us/oregon-winery-ai-legal-fight.html"
   ],
   [
     "office",
+    15,
+    "https://www.nytimes.com/2026/04/17/world/europe/uk-starmer-mandelson-foreign-office-robbins-fired.html"
+  ],
+  [
+    "having",
+    15,
+    "https://www.theguardian.com/world/2026/apr/17/crocodile-attacks-kenya-lake-turkana-rising-water"
+  ],
+  [
+    "political",
     14,
-    "https://www.nytimes.com/2026/04/16/world/europe/peter-mandelson-epstein-starmer-security.html"
+    "https://www.nytimes.com/2026/04/17/us/texas-restaurants-immigration-work-permits.html"
+  ],
+  [
+    "little",
+    14,
+    "https://www.nytimes.com/2026/04/17/arts/television/tv-shows-theater-portrayal-smash-glee.html"
+  ],
+  [
+    "pop",
+    14,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "country",
+    14,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "secretary",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "race",
@@ -251,29 +211,19 @@
     "https://www.theguardian.com/lifeandstyle/2026/apr/17/experience-i-won-the-worlds-deepest-underground-marathon"
   ],
   [
-    "play",
+    "agency",
     14,
-    "https://www.theguardian.com/stage/2026/apr/16/proof-broadway-revival-review-ayo-edebiri-kara-young"
+    "https://www.theguardian.com/us-news/live/2026/apr/17/house-congress-republicans-trump-administration-us-politics-news-live"
   ],
   [
-    "having",
-    14,
-    "https://www.theguardian.com/world/2026/apr/17/crocodile-attacks-kenya-lake-turkana-rising-water"
-  ],
-  [
-    "early",
-    13,
-    "https://www.nytimes.com/2026/04/17/us/politics/fisa-702-surveillance-house-vote-trump.html"
-  ],
-  [
-    "sherrill",
+    "seat",
     13,
     "https://www.nytimes.com/2026/04/16/nyregion/analilia-mejia-joe-hathaway-congress-nj.html"
   ],
   [
-    "jersey",
+    "death",
     13,
-    "https://www.nytimes.com/2026/04/16/nyregion/analilia-mejia-joe-hathaway-congress-nj.html"
+    "https://www.nytimes.com/2026/04/16/arts/music/d4vd-arrest-teen-death-tesla.html"
   ],
   [
     "pope",
@@ -281,98 +231,148 @@
     "https://www.nytimes.com/2026/04/17/arts/television/colbert-trump-papal-feud.html"
   ],
   [
-    "police",
-    13,
-    "https://www.nytimes.com/2026/04/16/nyregion/nypd-chase-horseback-mounted.html"
-  ],
-  [
-    "social",
-    13,
-    "https://www.washingtonpost.com/lifestyle/2026/04/15/chewy-dog-gardening-grandmother/"
-  ],
-  [
-    "experience",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/17/experience-i-won-the-worlds-deepest-underground-marathon"
-  ],
-  [
-    "special",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/16/progressive-democrat-analilia-mejia-wins-new-jersey-special-election-for-us-house"
-  ],
-  [
-    "email",
-    13,
-    "https://www.theguardian.com/world/2026/apr/16/pope-leo-xiv-tyrants-trump-spat"
-  ],
-  [
-    "place",
-    13,
-    "https://www.theguardian.com/football/2026/apr/16/ticket-to-ride-america-2026-world-cup-actively-hates-you"
-  ],
-  [
-    "gop",
-    13,
-    "https://www.npr.org/2026/04/17/nx-s1-5788573/house-extends-surveillance-powers-for-10-days"
-  ],
-  [
-    "analilia",
-    12,
-    "https://www.nytimes.com/2026/04/16/nyregion/analilia-mejia-joe-hathaway-congress-nj.html"
-  ],
-  [
-    "foreign",
-    12,
-    "https://www.nytimes.com/2026/04/16/world/europe/peter-mandelson-epstein-starmer-security.html"
-  ],
-  [
-    "dog",
-    12,
-    "https://www.washingtonpost.com/lifestyle/2026/04/15/chewy-dog-gardening-grandmother/"
-  ],
-  [
     "global",
-    12,
+    13,
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "pop",
-    12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "air",
+    13,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "country",
-    12,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "here's",
+    13,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "past",
+    "music",
+    13,
+    "https://www.theguardian.com/music/2026/apr/17/gaze-stars-gonna-be-up-there-one-day-prince-those-who-knew-him-best-10-years-after-death"
+  ],
+  [
+    "don",
+    13,
+    "https://www.theguardian.com/stage/2026/apr/16/proof-broadway-revival-review-ayo-edebiri-kara-young"
+  ],
+  [
+    "announced",
+    13,
+    "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates"
+  ],
+  [
+    "cdc",
+    13,
+    "https://www.theguardian.com/us-news/live/2026/apr/17/house-congress-republicans-trump-administration-us-politics-news-live"
+  ],
+  [
+    "guide",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/17/michelin-guide-st-paul-minneapolis"
+  ],
+  [
+    "power",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/17/gorilla-story-told-by-david-attenborough-review-netflix"
+  ],
+  [
+    "job",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/apr/16/best-seat-cushions-rest-sit-comfort"
+  ],
+  [
+    "leaders",
     12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.nytimes.com/2026/04/17/us/texas-restaurants-immigration-work-permits.html"
+  ],
+  [
+    "south",
+    12,
+    "https://www.nytimes.com/2026/04/17/world/americas/trump-drug-trafficking-south-america-brazil.html"
+  ],
+  [
+    "media",
+    12,
+    "https://www.nytimes.com/2026/04/17/arts/music/d4vd-celeste-rivas-hernandez-case-la.html"
+  ],
+  [
+    "died",
+    12,
+    "https://www.nytimes.com/2026/04/16/arts/music/d4vd-arrest-teen-death-tesla.html"
+  ],
+  [
+    "love",
+    12,
+    "https://www.nytimes.com/2026/04/17/business/nba-players-podcasts.html"
+  ],
+  [
+    "ago",
+    12,
+    "https://www.nytimes.com/2026/04/17/realestate/flatiron-revolving-door-restoration.html"
+  ],
+  [
+    "play",
+    12,
+    "https://www.nytimes.com/2026/04/17/world/africa/botswana-dwarfism-johnson-masase.html"
+  ],
+  [
+    "despite",
+    12,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "experience",
+    12,
+    "https://www.theguardian.com/world/2026/apr/17/pope-jd-vance-row-iran-just-war"
+  ],
+  [
+    "completely",
+    12,
+    "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates"
   ],
   [
     "donald",
     12,
-    "https://www.theguardian.com/news/audio/2026/apr/17/will-trump-regret-taking-on-the-pope-podcast"
+    "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates"
   ],
   [
-    "prices",
+    "talks",
     12,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit"
+    "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates"
   ],
   [
-    "democrats",
+    "politics",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/16/progressive-democrat-analilia-mejia-wins-new-jersey-special-election-for-us-house"
+    "https://www.theguardian.com/us-news/live/2026/apr/17/house-congress-republicans-trump-administration-us-politics-news-live"
   ],
   [
-    "democratic",
+    "sleep",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/16/progressive-democrat-analilia-mejia-wins-new-jersey-special-election-for-us-house"
+    "https://www.theguardian.com/thefilter-us/2026/apr/13/best-gifts-for-new-moms"
   ],
   [
-    "power",
-    12,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/17/gorilla-story-told-by-david-attenborough-review-netflix"
+    "lyons",
+    11,
+    "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
+  ],
+  [
+    "administration",
+    11,
+    "https://www.nytimes.com/2026/04/17/world/europe/trump-samson-europe.html"
+  ],
+  [
+    "record",
+    11,
+    "https://www.nytimes.com/2026/04/17/world/americas/trump-drug-trafficking-south-america-brazil.html"
+  ],
+  [
+    "york",
+    11,
+    "https://www.nytimes.com/2026/04/17/nyregion/nyc-school-ads.html"
+  ],
+  [
+    "late",
+    11,
+    "https://www.nytimes.com/2026/04/17/us/oregon-winery-ai-legal-fight.html"
   ]
 ];
