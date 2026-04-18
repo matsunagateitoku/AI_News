@@ -3,42 +3,37 @@
   [
     "trump",
     92,
-    "https://www.nytimes.com/2026/04/17/us/trump-bible.html"
-  ],
-  [
-    "iran",
-    50,
-    "https://www.theguardian.com/news/ng-interactive/2026/apr/18/donald-trump-popularity-iran-christianity-economy"
+    "https://www.nytimes.com/2026/04/18/opinion/pope-trump-hegseth-iran.html"
   ],
   [
     "president",
-    44,
+    46,
     "https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html"
   ],
   [
-    "war",
+    "iran",
+    45,
+    "https://www.nytimes.com/2026/04/18/us/politics/iran-hormuz-strait-trump.html"
+  ],
+  [
+    "pope",
     29,
+    "https://www.nytimes.com/2026/04/18/opinion/pope-trump-hegseth-iran.html"
+  ],
+  [
+    "war",
+    27,
     "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
     "court",
-    28,
-    "https://www.nytimes.com/2026/04/17/business/media/nexstar-tegna-merger-freeze.html"
-  ],
-  [
-    "strait",
-    26,
-    "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html"
-  ],
-  [
-    "pope",
-    26,
-    "https://www.nytimes.com/2026/04/18/world/africa/pope-leo-slavery-africa-angola.html"
-  ],
-  [
-    "hormuz",
     24,
-    "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html"
+    "https://www.washingtonpost.com/dc-md-va/2026/04/18/justin-fairfax-wife-murder-suicide/"
+  ],
+  [
+    "leo",
+    22,
+    "https://www.nytimes.com/2026/04/18/world/africa/pope-news-media-trump-africa.html"
   ],
   [
     "political",
@@ -46,74 +41,94 @@
     "https://www.theguardian.com/news/ng-interactive/2026/apr/18/donald-trump-popularity-iran-christianity-economy"
   ],
   [
-    "leo",
-    18,
-    "https://www.nytimes.com/2026/04/18/world/africa/pope-leo-slavery-africa-angola.html"
+    "strait",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/apr/18/is-meghan-markle-really-the-most-trolled-person-in-the-world"
   ],
   [
-    "book",
-    18,
-    "https://www.theguardian.com/us-news/2026/apr/18/trump-pope-norman-vincent-peale"
-  ],
-  [
-    "administration",
-    18,
-    "https://www.theguardian.com/us-news/2026/apr/18/trump-administration-usaid-doge-cuts"
-  ],
-  [
-    "democratic",
-    17,
-    "https://www.nytimes.com/2026/04/18/us/politics/democratic-doctors-running-for-congress.html"
-  ],
-  [
-    "feel",
-    17,
-    "https://www.theguardian.com/news/ng-interactive/2026/apr/18/donald-trump-popularity-iran-christianity-economy"
+    "hormuz",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/apr/18/is-meghan-markle-really-the-most-trolled-person-in-the-world"
   ],
   [
     "media",
-    17,
+    20,
     "https://www.theguardian.com/us-news/2026/apr/18/trump-pope-norman-vincent-peale"
   ],
   [
-    "judge",
-    16,
-    "https://www.nytimes.com/2026/04/17/business/media/nexstar-tegna-merger-freeze.html"
+    "california",
+    20,
+    "https://www.theguardian.com/technology/2026/apr/18/sam-altman-house-attack-ai"
   ],
   [
     "family",
-    16,
+    19,
     "https://www.washingtonpost.com/dc-md-va/2026/04/18/justin-fairfax-wife-murder-suicide/"
   ],
   [
-    "pop",
-    16,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "judge",
+    19,
+    "https://www.theguardian.com/us-news/2026/apr/18/trump-administration-white-house-ballroom"
+  ],
+  [
+    "night",
+    19,
+    "https://www.theguardian.com/sport/2026/apr/18/suns-warriors-play-in-jalen-green-curry-magic-hornets"
+  ],
+  [
+    "food",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/18/gross-ingredients-16-favourite-foods-cockroach-coffee"
+  ],
+  [
+    "donald",
+    18,
+    "https://www.theguardian.com/news/ng-interactive/2026/apr/18/donald-trump-popularity-iran-christianity-economy"
+  ],
+  [
+    "order",
+    17,
+    "https://www.theguardian.com/us-news/2026/apr/18/trump-psychedelic-drugs-executive-order"
+  ],
+  [
+    "review",
+    17,
+    "https://www.theguardian.com/us-news/2026/apr/18/trump-psychedelic-drugs-executive-order"
   ],
   [
     "race",
     16,
-    "https://www.theguardian.com/us-news/2026/apr/18/brian-poindexter-ohio-congress-candidate"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/18/graham-norton-interview-monologues-terrible-jokes"
   ],
   [
-    "night",
+    "cbs",
     16,
-    "https://www.theguardian.com/sport/2026/apr/18/suns-warriors-play-in-jalen-green-curry-magic-hornets"
+    "https://www.latimes.com/entertainment-arts/business/story/2026-04-15/after-stephen-colbert-cbs-still-wants-original-late-night-show"
   ],
   [
-    "health",
+    "office",
     15,
-    "https://www.nytimes.com/2026/04/17/us/politics/vaccines-kennedy-cdc.html"
+    "https://www.nytimes.com/2026/04/18/us/politics/democratic-doctors-running-for-congress.html"
   ],
   [
-    "million",
+    "york",
+    15,
+    "https://www.nytimes.com/2026/04/18/nyregion/new-york-inequality-second-home-tax.html"
+  ],
+  [
+    "los",
+    15,
+    "https://www.washingtonpost.com/nation/2026/04/17/d4vd-celeste-rivas-hernandez-body-case/"
+  ],
+  [
+    "inside",
     15,
     "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "coffee",
+    "feel",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/18/gross-ingredients-16-favourite-foods-cockroach-coffee"
+    "https://www.theguardian.com/news/ng-interactive/2026/apr/18/donald-trump-popularity-iran-christianity-economy"
   ],
   [
     "because",
@@ -121,14 +136,19 @@
     "https://www.theguardian.com/us-news/2026/apr/18/earth-brightness-study"
   ],
   [
-    "game",
+    "social",
     15,
-    "https://www.theguardian.com/business/2026/apr/18/central-bank-bosses-enlist-for-war-game-to-gauge-threat-of-lehman-style-bust"
+    "https://www.theguardian.com/us-news/2026/apr/18/trump-pope-norman-vincent-peale"
   ],
   [
-    "love",
+    "book",
     15,
-    "https://www.theguardian.com/us-news/2026/apr/18/us-catholics-trump-pope"
+    "https://www.theguardian.com/us-news/2026/apr/18/trump-pope-norman-vincent-peale"
+  ],
+  [
+    "far",
+    15,
+    "https://www.theguardian.com/world/2026/apr/18/jeffrey-epstein-files-shaken-norway-faith-in-democracy-oversight-committee"
   ],
   [
     "don",
@@ -136,69 +156,79 @@
     "https://www.theguardian.com/commentisfree/2026/apr/18/trump-pope-war-morals"
   ],
   [
-    "election",
+    "attack",
     14,
-    "https://www.nytimes.com/2026/04/18/world/europe/trump-pope-leo-iran.html"
+    "https://www.nytimes.com/2026/04/18/world/africa/pope-news-media-trump-africa.html"
   ],
   [
-    "middle",
+    "administration",
     14,
-    "https://www.nytimes.com/2026/04/17/us/politics/republicans-trump-pope-midterms.html"
+    "https://www.nytimes.com/2026/04/17/health/hiv-testing-treatment-data-pepfar.html"
   ],
   [
-    "country",
+    "angeles",
     14,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.washingtonpost.com/nation/2026/04/17/d4vd-celeste-rivas-hernandez-body-case/"
   ],
   [
-    "minister",
-    14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "food",
+    "health",
     14,
     "https://www.theguardian.com/lifeandstyle/2026/apr/18/gross-ingredients-16-favourite-foods-cockroach-coffee"
   ],
   [
-    "company",
-    14,
-    "https://www.theguardian.com/games/2026/apr/18/super-mario-nintendo-luigi-inspiration"
-  ],
-  [
-    "donald",
+    "having",
     14,
     "https://www.theguardian.com/news/ng-interactive/2026/apr/18/donald-trump-popularity-iran-christianity-economy"
   ],
   [
-    "far",
+    "ago",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/18/the-families-torn-apart-by-older-relatives-going-far-right"
+    "https://www.theguardian.com/world/2026/apr/18/jeffrey-epstein-files-shaken-norway-faith-in-democracy-oversight-committee"
   ],
   [
-    "politics",
+    "late",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/18/the-families-torn-apart-by-older-relatives-going-far-right"
+    "https://www.theguardian.com/world/2026/apr/18/jeffrey-epstein-files-shaken-norway-faith-in-democracy-oversight-committee"
   ],
   [
-    "east",
+    "filter",
     14,
-    "https://www.theguardian.com/world/live/2026/apr/18/middle-east-crisis-live-iran-warns-it-will-close-strait-of-hormuz-if-us-blockade-continues"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/17/the-best-cleaning-advice-according-to-custodians"
   ],
   [
-    "office",
-    13,
-    "https://www.nytimes.com/2026/04/18/us/politics/democratic-doctors-running-for-congress.html"
+    "game",
+    14,
+    "https://www.theguardian.com/sport/2026/apr/18/suns-warriors-play-in-jalen-green-curry-magic-hornets"
   ],
   [
-    "power",
-    13,
-    "https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html"
+    "guide",
+    14,
+    "https://www.theguardian.com/culture/2026/apr/17/the-pitt-revives-the-classic-medical-drama-and-ensures-the-genre-remains-in-safe-hands"
   ],
   [
-    "israel",
+    "games",
+    14,
+    "https://www.theguardian.com/games/2026/apr/17/clair-obscur-and-dispatch-share-top-honours-at-bafta-games-awards"
+  ],
+  [
+    "million",
     13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "pop",
+    13,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "early",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "company",
+    13,
+    "https://www.theguardian.com/games/2026/apr/18/super-mario-nintendo-luigi-inspiration"
   ],
   [
     "case",
@@ -206,39 +236,19 @@
     "https://www.theguardian.com/music/ng-interactive/2026/apr/18/michael-jackson-biopic-jaafar-jackson"
   ],
   [
-    "always",
+    "research",
     13,
-    "https://www.theguardian.com/music/ng-interactive/2026/apr/18/michael-jackson-biopic-jaafar-jackson"
+    "https://www.theguardian.com/us-news/2026/apr/18/trump-psychedelic-drugs-executive-order"
   ],
   [
-    "prime",
+    "love",
     13,
-    "https://www.theguardian.com/world/live/2026/apr/18/middle-east-crisis-live-iran-warns-it-will-close-strait-of-hormuz-if-us-blockade-continues"
+    "https://www.theguardian.com/news/2026/apr/18/the-impossible-promise-are-we-witnessing-the-return-of-fascism"
   ],
   [
-    "states",
+    "morning",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/18/e-bike-crashes-safety-regulations"
-  ],
-  [
-    "ago",
-    13,
-    "https://www.theguardian.com/world/2026/apr/18/jeffrey-epstein-files-shaken-norway-faith-in-democracy-oversight-committee"
-  ],
-  [
-    "something",
-    13,
-    "https://www.theguardian.com/news/2026/apr/18/six-great-reads-iran-social-media-memes-abandoned-department-store-cherry-blossoms"
-  ],
-  [
-    "star",
-    13,
-    "https://www.theguardian.com/football/2026/apr/17/cole-palmer-chelsea-premier-league-transfer-speculation-england-world-cup"
-  ],
-  [
-    "california",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/17/philz-coffee-pride-flags-california"
+    "https://www.theguardian.com/sport/2026/apr/18/alycia-baumgardner-fight-lani-daniels-shadasia-green-boxing"
   ],
   [
     "sleep",
@@ -246,89 +256,79 @@
     "https://www.theguardian.com/culture/2026/apr/18/kae-tempest-on-creativity-and-his-gender-transition-im-just-glad-to-be-alive"
   ],
   [
-    "review",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/17/hacks-season-five-review-jean-smart-hannah-einbinder"
-  ],
-  [
-    "guide",
-    13,
-    "https://www.theguardian.com/culture/2026/apr/17/the-pitt-revives-the-classic-medical-drama-and-ensures-the-genre-remains-in-safe-hands"
-  ],
-  [
-    "crisis",
+    "power",
     12,
-    "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html"
+    "https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html"
   ],
   [
-    "order",
+    "agency",
     12,
-    "https://www.nytimes.com/2026/04/17/health/trump-psychedelics-ibogaine.html"
+    "https://www.nytimes.com/2026/04/18/business/media/hollywood-talent-agency-casey-wasserman-epstein.html"
   ],
   [
-    "research",
+    "country",
     12,
-    "https://www.nytimes.com/2026/04/17/health/trump-psychedelics-ibogaine.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "university",
+    "coffee",
     12,
-    "https://www.nytimes.com/2026/04/18/us/politics/turning-point-university-arkansas-disbands.html"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/18/gross-ingredients-16-favourite-foods-cockroach-coffee"
   ],
   [
-    "early",
+    "music",
     12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/music/ng-interactive/2026/apr/18/michael-jackson-biopic-jaafar-jackson"
   ],
   [
-    "prices",
+    "always",
     12,
-    "https://www.theguardian.com/news/ng-interactive/2026/apr/18/donald-trump-popularity-iran-christianity-economy"
+    "https://www.theguardian.com/music/ng-interactive/2026/apr/18/michael-jackson-biopic-jaafar-jackson"
   ],
   [
-    "social",
+    "east",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/18/trump-pope-norman-vincent-peale"
+    "https://www.theguardian.com/world/live/2026/apr/18/middle-east-crisis-live-iran-warns-it-will-close-strait-of-hormuz-if-us-blockade-continues"
   ],
   [
-    "john",
+    "blockade",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/18/trump-pope-norman-vincent-peale"
+    "https://www.theguardian.com/world/live/2026/apr/18/middle-east-crisis-live-iran-warns-it-will-close-strait-of-hormuz-if-us-blockade-continues"
   ],
   [
-    "control",
+    "bear",
     12,
-    "https://www.theguardian.com/world/2026/apr/18/russian-blogger-fierce-kremlin-critique-goes-viral"
+    "https://www.theguardian.com/us-news/2026/apr/18/army-soldiers-brown-bear-attack-alaska"
   ],
   [
-    "local",
+    "interest",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/18/brian-poindexter-ohio-congress-candidate"
+    "https://www.theguardian.com/world/2026/apr/18/pope-leo-donald-trump-iran"
   ],
   [
-    "voters",
+    "buying",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/18/brian-poindexter-ohio-congress-candidate"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/17/the-best-cleaning-advice-according-to-custodians"
   ],
   [
-    "london",
+    "fewer",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/18/graham-norton-interview-monologues-terrible-jokes"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/17/the-best-cleaning-advice-according-to-custodians"
   ],
   [
-    "experience",
+    "politics",
     12,
-    "https://www.theguardian.com/global-development/2026/apr/18/online-abuse-women-democracy-laws"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/18/the-families-torn-apart-by-older-relatives-going-far-right"
   ],
   [
-    "job",
+    "something",
     12,
-    "https://www.theguardian.com/commentisfree/2026/apr/17/the-guardian-view-on-starmer-and-mandelson-a-story-that-doesnt-add-up"
+    "https://www.theguardian.com/news/2026/apr/18/six-great-reads-iran-social-media-memes-abandoned-department-store-cherry-blossoms"
   ],
   [
-    "host",
+    "green",
     12,
-    "https://www.theguardian.com/sport/2026/apr/17/saudi-arabia-abandons-plans-to-host-2035-rugby-world-cup-amid-funding-cutback"
+    "https://www.theguardian.com/commentisfree/2026/apr/18/fossil-fuel-trump-green-revolution-us-iran-renewable-energy"
   ],
   [
     "senate",
@@ -336,43 +336,43 @@
     "https://www.theguardian.com/us-news/2026/apr/17/senate-overturn-biden-era-mining-ban-minnesota"
   ],
   [
-    "games",
+    "tornadoes",
     12,
-    "https://www.theguardian.com/culture/2026/apr/18/my-cultural-awakening-zelda"
+    "https://www.theguardian.com/us-news/2026/apr/17/us-midwestern-states-severe-thunderstorms-warning"
   ],
   [
-    "filter",
+    "comedy",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/apr/17/earth-day-deals-sustainable-brands"
+    "https://www.theguardian.com/tv-and-radio/2026/apr/17/hacks-season-five-review-jean-smart-hannah-einbinder"
   ],
   [
-    "oil",
-    11,
-    "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html"
+    "star",
+    12,
+    "https://www.theguardian.com/music/2026/apr/17/olivia-rodrigo-drop-dead-review-single"
   ],
   [
-    "secretary",
+    "university",
     11,
-    "https://www.nytimes.com/2026/04/17/us/politics/vaccines-kennedy-cdc.html"
+    "https://www.nytimes.com/2026/04/18/us/politics/turning-point-university-arkansas-disbands.html"
   ],
   [
-    "campaign",
+    "ice",
     11,
-    "https://www.nytimes.com/2026/04/17/us/politics/vaccines-kennedy-cdc.html"
+    "https://www.washingtonpost.com/nation/2026/04/16/ice-agent-charged-minneapolis-highway/"
+  ],
+  [
+    "military",
+    11,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "crisis",
+    11,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "already",
     11,
-    "https://www.nytimes.com/2026/04/17/business/media/nexstar-tegna-merger-freeze.html"
-  ],
-  [
-    "board",
-    11,
-    "https://www.washingtonpost.com/lifestyle/2026/04/18/child-cancer-recovery-flight-celebration/"
-  ],
-  [
-    "police",
-    11,
-    "https://www.washingtonpost.com/nation/2026/04/17/d4vd-celeste-rivas-hernandez-body-case/"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ]
 ];
