@@ -2,38 +2,38 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    94,
+    103,
     "https://www.nytimes.com/2026/04/17/us/politics/trump-iran-nuclear-site.html"
   ],
   [
     "iran",
-    62,
+    57,
     "https://www.nytimes.com/2026/04/17/us/politics/trump-iran-nuclear-site.html"
   ],
   [
+    "president",
+    38,
+    "https://www.nytimes.com/2026/04/17/us/politics/republicans-trump-pope-midterms.html"
+  ],
+  [
     "strait",
-    41,
+    36,
     "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html"
   ],
   [
     "hormuz",
-    38,
+    32,
     "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html"
   ],
   [
     "war",
-    33,
-    "https://www.nytimes.com/2026/04/17/business/stocks-oil-iran-war-strait-of-hormuz.html"
+    29,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "president",
-    32,
-    "https://www.nytimes.com/2026/04/17/us/politics/republicans-trump-pope-midterms.html"
-  ],
-  [
-    "court",
-    25,
-    "https://www.nytimes.com/2026/04/17/business/media/nexstar-tegna-merger-freeze.html"
+    "political",
+    22,
+    "https://www.nytimes.com/2026/04/18/world/europe/pedro-sanchez-donald-trump-lifeline.html"
   ],
   [
     "administration",
@@ -41,49 +41,54 @@
     "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html"
   ],
   [
+    "court",
+    21,
+    "https://www.nytimes.com/2026/04/17/business/media/nexstar-tegna-merger-freeze.html"
+  ],
+  [
     "israel",
     21,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "review",
-    21,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/17/hacks-season-five-review-jean-smart-hannah-einbinder"
-  ],
-  [
     "family",
     20,
-    "https://www.theguardian.com/film/2026/apr/17/roommates-review-netflix"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/18/the-families-torn-apart-by-older-relatives-going-far-right"
   ],
   [
-    "film",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/apr/17/coral-reefs-extinction-global-warming-jason-momoa"
-  ],
-  [
-    "star",
-    18,
-    "https://www.theguardian.com/world/2026/apr/17/justin-trudeau-katy-perry-politics"
-  ],
-  [
-    "oil",
-    17,
-    "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html"
+    "book",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/apr/17/pope-leo-jd-vance-donald-trump-catholicism"
   ],
   [
     "health",
-    17,
+    18,
     "https://www.nytimes.com/2026/04/17/us/politics/vaccines-kennedy-cdc.html"
   ],
   [
-    "ice",
-    17,
-    "https://www.washingtonpost.com/nation/2026/04/16/ice-agent-charged-minneapolis-highway/"
+    "love",
+    18,
+    "https://www.theguardian.com/world/2026/apr/18/ukraine-hungary-election-magyar-orban-europe"
   ],
   [
-    "don",
+    "media",
     17,
-    "https://www.theguardian.com/wellness/2026/apr/17/secrets-health-wellbeing"
+    "https://www.nytimes.com/2026/04/17/world/europe/timmy-whale-stranded-rescue-germany.html"
+  ],
+  [
+    "because",
+    17,
+    "https://www.theguardian.com/environment/2026/apr/18/stranded-dying-german-whale-troubled-relationship-sea-timmy"
+  ],
+  [
+    "review",
+    17,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/17/hacks-season-five-review-jean-smart-hannah-einbinder"
+  ],
+  [
+    "prices",
+    16,
+    "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html"
   ],
   [
     "judge",
@@ -91,9 +96,19 @@
     "https://www.nytimes.com/2026/04/17/business/media/nexstar-tegna-merger-freeze.html"
   ],
   [
+    "pope",
+    16,
+    "https://www.nytimes.com/2026/04/17/us/politics/republicans-trump-pope-midterms.html"
+  ],
+  [
+    "secretary",
+    16,
+    "https://www.nytimes.com/2026/04/17/us/politics/vaccines-kennedy-cdc.html"
+  ],
+  [
     "minister",
     16,
-    "https://www.nytimes.com/2026/04/17/world/canada/carney-investors-summit-canada-us-trade.html"
+    "https://www.nytimes.com/2026/04/18/world/europe/pedro-sanchez-donald-trump-lifeline.html"
   ],
   [
     "night",
@@ -101,54 +116,29 @@
     "https://www.nytimes.com/2026/04/17/world/canada/toronto-downsview-explosion-drake.html"
   ],
   [
-    "million",
+    "pop",
     16,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "love",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/apr/17/earth-day-deals-sustainable-brands"
-  ],
-  [
-    "book",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/apr/17/pope-leo-jd-vance-donald-trump-catholicism"
-  ],
-  [
-    "prices",
+    "oil",
     15,
     "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html"
   ],
   [
-    "nearly",
+    "far",
     15,
-    "https://www.nytimes.com/2026/04/17/us/politics/trump-phoenix-iran-prices.html"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/18/the-families-torn-apart-by-older-relatives-going-far-right"
   ],
   [
-    "secretary",
+    "ago",
     15,
-    "https://www.nytimes.com/2026/04/17/us/politics/vaccines-kennedy-cdc.html"
+    "https://www.theguardian.com/commentisfree/2026/apr/18/fossil-fuel-trump-green-revolution-us-iran-renewable-energy"
   ],
   [
-    "pop",
+    "coffee",
     15,
-    "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html"
-  ],
-  [
-    "david",
-    15,
-    "https://www.washingtonpost.com/nation/2026/04/17/d4vd-celeste-rivas-hernandez-body-case/"
-  ],
-  [
-    "something",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/apr/17/pope-leo-jd-vance-donald-trump-catholicism"
-  ],
-  [
-    "senate",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/17/senate-overturn-biden-era-mining-ban-minnesota"
+    "https://www.theguardian.com/us-news/2026/apr/17/philz-coffee-pride-flags-california"
   ],
   [
     "lawsuit",
@@ -156,24 +146,39 @@
     "https://www.nytimes.com/2026/04/17/business/media/nexstar-tegna-merger-freeze.html"
   ],
   [
-    "pope",
+    "election",
     14,
-    "https://www.nytimes.com/2026/04/17/us/politics/republicans-trump-pope-midterms.html"
+    "https://www.nytimes.com/2026/04/18/world/europe/trump-pope-leo-iran.html"
   ],
   [
-    "american",
+    "million",
     14,
-    "https://www.nytimes.com/2026/04/17/world/canada/trump-lutnick-canada-us-talks-trade-deal.html"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "arrested",
+    "feel",
     14,
-    "https://www.washingtonpost.com/nation/2026/04/17/d4vd-celeste-rivas-hernandez-body-case/"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/18/the-families-torn-apart-by-older-relatives-going-far-right"
   ],
   [
-    "air",
+    "social",
     14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/world/2026/apr/17/strait-of-hormuz-now-open-to-commercial-vessels"
+  ],
+  [
+    "star",
+    14,
+    "https://www.theguardian.com/games/2026/apr/18/super-mario-nintendo-luigi-inspiration"
+  ],
+  [
+    "guide",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/17/michelin-guide-st-paul-minneapolis"
+  ],
+  [
+    "experience",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/18/half-man-richard-gadds-follow-up-to-baby-reindeer-is-uncomfortably-erotic-and-utterly-monstrous"
   ],
   [
     "company",
@@ -181,79 +186,34 @@
     "https://www.theguardian.com/wellness/2026/apr/17/secrets-health-wellbeing"
   ],
   [
-    "having",
+    "something",
     14,
-    "https://www.theguardian.com/wellness/2026/apr/17/secrets-health-wellbeing"
+    "https://www.theguardian.com/culture/2026/apr/17/trump-comedy-political-humor-clownwashing"
   ],
   [
-    "because",
+    "senate",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/17/how-to-be-patient-children-parents"
+    "https://www.theguardian.com/us-news/2026/apr/17/senate-overturn-biden-era-mining-ban-minnesota"
   ],
   [
-    "board",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/17/university-of-michigan-regent-sexual-messages"
-  ],
-  [
-    "record",
-    14,
-    "https://www.theguardian.com/sport/2026/apr/17/nba-playoffs-2026-predictions"
-  ],
-  [
-    "game",
-    14,
-    "https://www.theguardian.com/sport/2026/apr/17/chess-sindarov-wins-candidates-with-record-total-while-vaishali-takes-womens-event"
-  ],
-  [
-    "coffee",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/17/philz-coffee-pride-flags-california"
-  ],
-  [
-    "prime",
+    "don",
     13,
-    "https://www.nytimes.com/2026/04/17/world/canada/carney-investors-summit-canada-us-trade.html"
-  ],
-  [
-    "media",
-    13,
-    "https://www.nytimes.com/2026/04/17/world/europe/timmy-whale-stranded-rescue-germany.html"
-  ],
-  [
-    "here's",
-    13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/17/earth-day-deals-sustainable-brands"
-  ],
-  [
-    "guide",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/17/earth-day-deals-sustainable-brands"
-  ],
-  [
-    "ago",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/17/how-to-be-patient-children-parents"
-  ],
-  [
-    "claims",
-    13,
-    "https://www.theguardian.com/world/2026/apr/17/strait-of-hormuz-now-open-to-commercial-vessels"
+    "https://www.theguardian.com/football/2026/apr/16/pellegrino-matarazzo-journey-new-jersey-real-sociedad"
   ],
   [
     "again",
     13,
-    "https://www.theguardian.com/world/2026/apr/17/strait-of-hormuz-now-open-to-commercial-vessels"
+    "https://www.theguardian.com/news/ng-interactive/2026/apr/18/donald-trump-popularity-iran-christianity-economy"
   ],
   [
-    "pro",
+    "having",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/17/university-of-michigan-regent-sexual-messages"
+    "https://www.theguardian.com/news/ng-interactive/2026/apr/18/donald-trump-popularity-iran-christianity-economy"
+  ],
+  [
+    "government",
+    13,
+    "https://www.theguardian.com/world/2026/apr/17/air-canada-suspending-flights-fuel-prices"
   ],
   [
     "race",
@@ -261,19 +221,24 @@
     "https://www.theguardian.com/us-news/2026/apr/17/university-of-michigan-regent-sexual-messages"
   ],
   [
-    "experience",
+    "games",
     13,
-    "https://www.theguardian.com/world/2026/apr/17/pope-jd-vance-row-iran-just-war"
+    "https://www.theguardian.com/culture/2026/apr/18/my-cultural-awakening-zelda"
   ],
   [
-    "john",
-    12,
-    "https://www.nytimes.com/2026/04/17/us/justice-dept-trump-investigation-cia-brennan.html"
+    "film",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/apr/17/coral-reefs-extinction-global-warming-jason-momoa"
   ],
   [
-    "country",
+    "leo",
     12,
-    "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html"
+    "https://www.nytimes.com/2026/04/17/us/politics/republicans-trump-pope-midterms.html"
+  ],
+  [
+    "prime",
+    12,
+    "https://www.nytimes.com/2026/04/18/world/europe/pedro-sanchez-donald-trump-lifeline.html"
   ],
   [
     "video",
@@ -281,34 +246,39 @@
     "https://www.nytimes.com/2026/04/17/world/canada/toronto-downsview-explosion-drake.html"
   ],
   [
-    "least",
+    "ice",
     12,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.washingtonpost.com/nation/2026/04/16/ice-agent-charged-minneapolis-highway/"
   ],
   [
-    "feel",
+    "young",
     12,
-    "https://www.theguardian.com/commentisfree/2026/apr/17/pope-leo-jd-vance-donald-trump-catholicism"
+    "https://www.washingtonpost.com/nation/2026/04/16/young-men-religion-church-poll/"
   ],
   [
-    "late",
+    "everything",
     12,
-    "https://www.theguardian.com/music/2026/apr/17/gaze-stars-gonna-be-up-there-one-day-prince-those-who-knew-him-best-10-years-after-death"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "music",
+    "country",
     12,
-    "https://www.theguardian.com/music/2026/apr/17/gaze-stars-gonna-be-up-there-one-day-prince-those-who-knew-him-best-10-years-after-death"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "york",
+    "always",
     12,
-    "https://www.theguardian.com/world/2026/apr/17/air-canada-suspending-flights-fuel-prices"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/18/the-families-torn-apart-by-older-relatives-going-far-right"
   ],
   [
-    "government",
+    "close",
     12,
-    "https://www.theguardian.com/world/2026/apr/17/air-canada-suspending-flights-fuel-prices"
+    "https://www.theguardian.com/world/2026/apr/17/strait-of-hormuz-now-open-to-commercial-vessels"
+  ],
+  [
+    "place",
+    12,
+    "https://www.theguardian.com/world/2026/apr/17/strait-of-hormuz-now-open-to-commercial-vessels"
   ],
   [
     "email",
@@ -316,19 +286,24 @@
     "https://www.theguardian.com/world/2026/apr/17/air-canada-suspending-flights-fuel-prices"
   ],
   [
-    "ceasefire",
+    "announced",
     12,
     "https://www.theguardian.com/world/2026/apr/17/air-canada-suspending-flights-fuel-prices"
   ],
   [
-    "university",
+    "board",
     12,
     "https://www.theguardian.com/us-news/2026/apr/17/university-of-michigan-regent-sexual-messages"
   ],
   [
-    "political",
+    "game",
     12,
-    "https://www.theguardian.com/world/2026/apr/17/justin-trudeau-katy-perry-politics"
+    "https://www.theguardian.com/games/2026/apr/18/super-mario-nintendo-luigi-inspiration"
+  ],
+  [
+    "orb",
+    12,
+    "https://www.theguardian.com/world/2026/apr/18/ukraine-hungary-election-magyar-orban-europe"
   ],
   [
     "comedy",
@@ -346,24 +321,24 @@
     "https://www.theguardian.com/us-news/2026/apr/17/philz-coffee-pride-flags-california"
   ],
   [
+    "filter",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/apr/17/earth-day-deals-sustainable-brands"
+  ],
+  [
     "sleep",
     12,
     "https://www.theguardian.com/thefilter-us/2026/apr/13/best-gifts-for-new-moms"
   ],
   [
-    "college",
+    "already",
     11,
-    "https://www.nytimes.com/2026/04/17/briefing/the-strait-of-hormuz-college-cookies.html"
+    "https://www.nytimes.com/2026/04/17/business/media/nexstar-tegna-merger-freeze.html"
   ],
   [
-    "recent",
+    "john",
     11,
-    "https://www.nytimes.com/2026/04/17/us/politics/trump-phoenix-iran-prices.html"
-  ],
-  [
-    "security",
-    11,
-    "https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html"
+    "https://www.nytimes.com/2026/04/17/us/justice-dept-trump-investigation-cia-brennan.html"
   ],
   [
     "office",
@@ -371,8 +346,33 @@
     "https://www.nytimes.com/2026/04/17/world/canada/carney-investors-summit-canada-us-trade.html"
   ],
   [
+    "american",
+    11,
+    "https://www.nytimes.com/2026/04/17/world/canada/trump-lutnick-canada-us-talks-trade-deal.html"
+  ],
+  [
     "states",
     11,
     "https://www.nytimes.com/2026/04/17/climate/how-pacific-ocean-water-could-help-the-colorado-river-crisis.html"
+  ],
+  [
+    "county",
+    11,
+    "https://www.nytimes.com/2026/04/17/climate/how-pacific-ocean-water-could-help-the-colorado-river-crisis.html"
+  ],
+  [
+    "sea",
+    11,
+    "https://www.nytimes.com/2026/04/17/world/europe/timmy-whale-stranded-rescue-germany.html"
+  ],
+  [
+    "arrested",
+    11,
+    "https://www.washingtonpost.com/nation/2026/04/17/d4vd-celeste-rivas-hernandez-body-case/"
+  ],
+  [
+    "global",
+    11,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ]
 ];
