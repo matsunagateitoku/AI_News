@@ -2,43 +2,53 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    100,
-    "https://www.nytimes.com/2026/04/19/us/politics/syrian-billionaires-needed-a-favor-in-washington-they-invoked-the-trump-name.html"
+    80,
+    "https://www.nytimes.com/2026/04/19/us/politics/trump-syria-khayyat.html"
   ],
   [
     "iran",
-    59,
-    "https://www.nytimes.com/2026/04/18/us/politics/iran-hormuz-strait-trump.html"
-  ],
-  [
-    "president",
-    47,
-    "https://www.nytimes.com/2026/04/19/us/politics/syrian-billionaires-needed-a-favor-in-washington-they-invoked-the-trump-name.html"
-  ],
-  [
-    "war",
-    33,
+    58,
     "https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html"
   ],
   [
+    "police",
+    36,
+    "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html"
+  ],
+  [
+    "president",
+    35,
+    "https://www.nytimes.com/2026/04/19/us/politics/trump-syria-khayyat.html"
+  ],
+  [
+    "war",
+    26,
+    "https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html"
+  ],
+  [
+    "children",
+    25,
+    "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html"
+  ],
+  [
+    "shooting",
+    25,
+    "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html"
+  ],
+  [
     "because",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/apr/19/madonna-confessions-on-a-dance-floor-part-ii-lesbians-gay-men"
+    23,
+    "https://www.theguardian.com/thefilter-us/2026/apr/19/caraway-trash-can-recycling-bin-review"
   ],
   [
-    "strait",
+    "nation",
     22,
-    "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel"
+    "https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html"
   ],
   [
-    "office",
+    "california",
     22,
-    "https://www.theguardian.com/us-news/2026/apr/19/virginias-map-redistricting-vote-swing-state"
-  ],
-  [
-    "food",
-    20,
-    "https://www.nytimes.com/2026/04/19/arts/design/venice-biennale-trump-us-pavilion.html"
+    "https://www.theguardian.com/us-news/2026/apr/17/philz-coffee-pride-flags-california"
   ],
   [
     "game",
@@ -46,84 +56,94 @@
     "https://www.nytimes.com/2026/04/19/opinion/schools-edtech-laptops-games-learning.html"
   ],
   [
-    "hormuz",
+    "louisiana",
     20,
-    "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel"
+    "https://www.washingtonpost.com/nation/2026/04/19/louisiana-shooting/"
+  ],
+  [
+    "media",
+    20,
+    "https://www.theguardian.com/us-news/2026/apr/19/d4vd-arrest-celeste-rivas-hernandez"
+  ],
+  [
+    "office",
+    20,
+    "https://www.theguardian.com/news/ng-interactive/2026/apr/18/harvard-university-antigua-slavery-history"
   ],
   [
     "family",
     19,
-    "https://www.nytimes.com/2026/04/19/us/politics/syrian-billionaires-needed-a-favor-in-washington-they-invoked-the-trump-name.html"
-  ],
-  [
-    "mamdani",
-    19,
-    "https://www.nytimes.com/2026/04/19/nyregion/grand-army-plaza-mamdani-brooklyn.html"
-  ],
-  [
-    "police",
-    18,
-    "https://www.washingtonpost.com/nation/2026/04/17/d4vd-celeste-rivas-hernandez-body-case/"
-  ],
-  [
-    "attack",
-    18,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "french",
-    18,
-    "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel"
-  ],
-  [
-    "media",
-    17,
-    "https://www.theguardian.com/us-news/2026/apr/19/d4vd-arrest-celeste-rivas-hernandez"
-  ],
-  [
-    "pope",
-    17,
-    "https://www.theguardian.com/us-news/2026/apr/19/trump-religious-right-pope-feud-ai-jesus-posts"
-  ],
-  [
-    "york",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/apr/19/madonna-confessions-on-a-dance-floor-part-ii-lesbians-gay-men"
-  ],
-  [
-    "far",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/19/this-is-how-we-do-it-ive-been-pregnant-for-almost-our-entire-relationship"
-  ],
-  [
-    "donald",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/18/jon-ossoff-fiery-speech-presidential-rumors"
+    "https://www.nytimes.com/2026/04/19/us/politics/trump-syria-khayyat.html"
   ],
   [
     "london",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/19/hard-to-make-friends-bullied-school-mixed-age-groups-mums"
+    18,
+    "https://www.theguardian.com/uk-news/2026/apr/19/woman-arrested-car-pedestrians-westminster-london"
   ],
   [
-    "race",
-    16,
-    "https://www.theguardian.com/sport/2026/apr/19/humanoid-robots-race-beijing-half-marathon"
+    "mass",
+    17,
+    "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html"
   ],
   [
     "political",
-    15,
+    16,
     "https://www.nytimes.com/2026/04/19/us/politics/anti-muslim-politics-south.html"
   ],
   [
-    "young",
-    15,
-    "https://www.nytimes.com/2026/04/19/nyregion/theyre-young-theyre-conservative-and-theyre-split-over-the-war.html"
+    "dead",
+    16,
+    "https://www.washingtonpost.com/nation/2026/04/19/louisiana-shooting/"
   ],
   [
-    "court",
+    "having",
+    16,
+    "https://www.theguardian.com/business/2026/apr/19/us-population-fertility-rate"
+  ],
+  [
+    "don",
+    16,
+    "https://www.theguardian.com/business/2026/apr/19/uber-lyft-drivers-gas-prices"
+  ],
+  [
+    "general",
+    16,
+    "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel"
+  ],
+  [
+    "french",
+    16,
+    "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel"
+  ],
+  [
+    "something",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/17/philz-coffee-pride-flags-california"
+  ],
+  [
+    "night",
+    16,
+    "https://www.theguardian.com/sport/2026/apr/18/bengals-dexter-lawrence-giants-nfl-draft-trade"
+  ],
+  [
+    "mamdani",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/19/obama-mamdani-first-meeting-new-york-childcare"
+  ],
+  [
+    "brennan",
+    16,
+    "https://www.foxnews.com/politics/trump-ally-digenova-tapped-lead-doj-probe-brennan-over-russia-probe-origins"
+  ],
+  [
+    "killed",
     15,
-    "https://www.washingtonpost.com/dc-md-va/2026/04/18/justin-fairfax-wife-murder-suicide/"
+    "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html"
+  ],
+  [
+    "authorities",
+    15,
+    "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html"
   ],
   [
     "pop",
@@ -131,39 +151,29 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "baby",
+    "early",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/19/this-is-how-we-do-it-ive-been-pregnant-for-almost-our-entire-relationship"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "talks",
+    "filter",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/apr/19/caraway-trash-can-recycling-bin-review"
+  ],
+  [
+    "strait",
     15,
     "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel"
   ],
   [
-    "star",
+    "press",
     15,
-    "https://www.theguardian.com/film/2026/apr/19/nathalie-baye-star-french-hollywood-cinema-catch-me-if-you-can-dies-aged-77"
+    "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel"
   ],
   [
-    "american",
+    "energy",
     15,
-    "https://www.theguardian.com/commentisfree/2026/apr/18/trump-pope-war-morals"
-  ],
-  [
-    "job",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/apr/19/relationship-trend-gentle-partnering"
-  ],
-  [
-    "senate",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/17/senate-overturn-biden-era-mining-ban-minnesota"
-  ],
-  [
-    "power",
-    14,
-    "https://www.nytimes.com/2026/04/19/business/democrats-tax-cuts-affordability.html"
+    "https://www.theguardian.com/us-news/2026/apr/19/trump-energy-secretary-chris-wright-gas-prices"
   ],
   [
     "feel",
@@ -171,59 +181,99 @@
     "https://www.nytimes.com/2026/04/19/us/politics/anti-muslim-politics-south.html"
   ],
   [
-    "sea",
+    "administration",
     14,
-    "https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-what-to-know.html"
+    "https://www.nytimes.com/2026/04/19/us/michigan-trump-ballots-election.html"
   ],
   [
-    "marathon",
+    "food",
+    14,
+    "https://www.nytimes.com/2026/04/19/arts/design/venice-biennale-trump-us-pavilion.html"
+  ],
+  [
+    "full",
     14,
     "https://www.washingtonpost.com/obituaries/2026/04/18/bob-hall-wheelchair-racing-dead/"
   ],
   [
-    "los",
-    14,
-    "https://www.washingtonpost.com/nation/2026/04/17/d4vd-celeste-rivas-hernandez-body-case/"
-  ],
-  [
-    "having",
+    "fewer",
     14,
     "https://www.theguardian.com/business/2026/apr/19/us-population-fertility-rate"
   ],
   [
-    "tour",
+    "social",
     14,
-    "https://www.theguardian.com/commentisfree/2026/apr/19/madonna-confessions-on-a-dance-floor-part-ii-lesbians-gay-men"
+    "https://www.theguardian.com/business/2026/apr/19/us-population-fertility-rate"
   ],
   [
-    "press",
+    "buying",
     14,
-    "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel"
+    "https://www.theguardian.com/thefilter-us/2026/apr/19/caraway-trash-can-recycling-bin-review"
   ],
   [
-    "california",
+    "job",
     14,
-    "https://www.theguardian.com/commentisfree/2026/apr/19/coalition-building-protest"
+    "https://www.theguardian.com/thefilter-us/2026/apr/19/caraway-trash-can-recycling-bin-review"
   ],
   [
-    "guide",
+    "arrested",
     14,
-    "https://www.theguardian.com/culture/2026/apr/17/the-pitt-revives-the-classic-medical-drama-and-ensures-the-genre-remains-in-safe-hands"
+    "https://www.theguardian.com/us-news/2026/apr/19/d4vd-arrest-celeste-rivas-hernandez"
   ],
   [
-    "filter",
+    "little",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/17/the-best-cleaning-advice-according-to-custodians"
+    "https://www.theguardian.com/us-news/2026/apr/19/d4vd-arrest-celeste-rivas-hernandez"
   ],
   [
-    "research",
+    "race",
+    14,
+    "https://www.theguardian.com/football/2026/apr/19/manchester-city-arsenal-premier-league-match-report"
+  ],
+  [
+    "coffee",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/17/philz-coffee-pride-flags-california"
+  ],
+  [
+    "health",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/apr/19/jd-vance-donald-trump-vice-president-maga"
+  ],
+  [
+    "love",
+    14,
+    "https://www.theguardian.com/society/2026/apr/19/women-nice-health-autoimmune-disease"
+  ],
+  [
+    "following",
+    14,
+    "https://www.theguardian.com/sport/2026/apr/18/skydiver-crashes-scoreboard-virginia-tech-spring-game"
+  ],
+  [
+    "margaret",
+    14,
+    "https://www.cbsnews.com/news/face-the-nation-full-transcript-04-19-2026/"
+  ],
+  [
+    "gas",
     13,
-    "https://www.nytimes.com/2026/04/18/us/beagle-facility-wisconsin-protests-tear-gas.html"
+    "https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html"
   ],
   [
-    "country",
+    "department",
     13,
-    "https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-what-to-know.html"
+    "https://www.nytimes.com/2026/04/19/us/michigan-trump-ballots-election.html"
+  ],
+  [
+    "shreveport",
+    13,
+    "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html"
+  ],
+  [
+    "university",
+    13,
+    "https://www.nytimes.com/2026/04/19/us/university-of-iowa-shooting.html"
   ],
   [
     "died",
@@ -231,49 +281,49 @@
     "https://www.washingtonpost.com/obituaries/2026/04/18/bob-hall-wheelchair-racing-dead/"
   ],
   [
-    "support",
+    "guide",
     13,
-    "https://www.washingtonpost.com/lifestyle/2026/04/18/child-cancer-recovery-flight-celebration/"
+    "https://www.theguardian.com/thefilter-us/2026/apr/19/caraway-trash-can-recycling-bin-review"
   ],
   [
-    "angeles",
+    "los",
     13,
-    "https://www.washingtonpost.com/nation/2026/04/17/d4vd-celeste-rivas-hernandez-body-case/"
+    "https://www.theguardian.com/us-news/2026/apr/19/d4vd-arrest-celeste-rivas-hernandez"
   ],
   [
-    "already",
+    "hormuz",
     13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel"
   ],
   [
-    "immigration",
+    "morning",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel"
   ],
   [
-    "social",
+    "pope",
     13,
-    "https://www.theguardian.com/business/2026/apr/19/us-population-fertility-rate"
+    "https://www.theguardian.com/us-news/2026/apr/19/republican-senator-criticizes-trump-pope-feud"
   ],
   [
-    "buying",
+    "meet",
     13,
-    "https://www.theguardian.com/commentisfree/2026/apr/19/citizens-united-super-pacs"
+    "https://www.theguardian.com/news/ng-interactive/2026/apr/18/harvard-university-antigua-slavery-history"
   ],
   [
-    "love",
+    "car",
     13,
-    "https://www.theguardian.com/commentisfree/2026/apr/19/coalition-building-protest"
+    "https://www.theguardian.com/us-news/2026/apr/16/dna-analysis-oregon-family-missing-1958"
   ],
   [
-    "energy",
+    "american",
     13,
-    "https://www.theguardian.com/commentisfree/2026/apr/18/is-meghan-markle-really-the-most-trolled-person-in-the-world"
+    "https://www.theguardian.com/commentisfree/2026/apr/18/trump-pope-war-morals"
   ],
   [
-    "night",
+    "review",
     13,
-    "https://www.theguardian.com/sport/2026/apr/18/bengals-dexter-lawrence-giants-nfl-draft-trade"
+    "https://www.theguardian.com/sport/2026/apr/18/nfl-mike-vrabel-dianna-russini-investigation"
   ],
   [
     "sleep",
@@ -281,98 +331,48 @@
     "https://www.theguardian.com/culture/2026/apr/18/kae-tempest-on-creativity-and-his-gender-transition-im-just-glad-to-be-alive"
   ],
   [
-    "mayor",
-    13,
-    "https://www.latimes.com/california/story/2026-04-18/mayor-bass-orders-extra-police-patrols-san-fernando-valley-burglaries"
-  ],
-  [
-    "department",
+    "win",
     12,
     "https://www.nytimes.com/2026/04/19/arts/design/venice-biennale-trump-us-pavilion.html"
   ],
   [
-    "facility",
+    "latest",
     12,
-    "https://www.nytimes.com/2026/04/18/us/beagle-facility-wisconsin-protests-tear-gas.html"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "health",
+    "always",
     12,
-    "https://www.nytimes.com/2026/04/18/health/community-health-care-workers.html"
+    "https://www.theguardian.com/books/2026/apr/19/how-to-train-your-brain-to-see-possibility-instead-of-doom"
   ],
   [
-    "israel",
+    "really",
     12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.theguardian.com/books/2026/apr/19/how-to-train-your-brain-to-see-possibility-instead-of-doom"
   ],
   [
-    "million",
+    "tour",
     12,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.theguardian.com/commentisfree/2026/apr/19/madonna-confessions-on-a-dance-floor-part-ii-lesbians-gay-men"
   ],
   [
-    "fire",
+    "york",
     12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/commentisfree/2026/apr/19/madonna-confessions-on-a-dance-floor-part-ii-lesbians-gay-men"
   ],
   [
-    "don",
-    12,
-    "https://www.theguardian.com/business/2026/apr/19/uber-lyft-drivers-gas-prices"
-  ],
-  [
-    "little",
+    "angeles",
     12,
     "https://www.theguardian.com/us-news/2026/apr/19/d4vd-arrest-celeste-rivas-hernandez"
   ],
   [
-    "morning",
+    "death",
+    12,
+    "https://www.theguardian.com/us-news/2026/apr/19/d4vd-arrest-celeste-rivas-hernandez"
+  ],
+  [
+    "talks",
     12,
     "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel"
-  ],
-  [
-    "child",
-    12,
-    "https://www.theguardian.com/us-news/2026/apr/18/jon-ossoff-fiery-speech-presidential-rumors"
-  ],
-  [
-    "experience",
-    12,
-    "https://www.theguardian.com/culture/2026/apr/19/female-gaze-wuthering-heights-girls-dying-for-sex-bridgerton-romantasy"
-  ],
-  [
-    "ago",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/apr/19/coalition-building-protest"
-  ],
-  [
-    "review",
-    12,
-    "https://www.theguardian.com/sport/2026/apr/18/nfl-mike-vrabel-dianna-russini-investigation"
-  ],
-  [
-    "fewer",
-    12,
-    "https://www.theguardian.com/music/2026/apr/18/madonna-i-feel-so-free-review-album-teaser-hypnotic-glimpse-return-club-scene-roots"
-  ],
-  [
-    "company",
-    12,
-    "https://www.theguardian.com/games/2026/apr/18/super-mario-nintendo-luigi-inspiration"
-  ],
-  [
-    "festival",
-    12,
-    "https://www.latimes.com/entertainment-arts/books/story/2026-04-18/la-times-festival-of-books-kicks-off-with-packed-panels-at-usc"
-  ],
-  [
-    "administration",
-    11,
-    "https://www.nytimes.com/2026/04/19/nyregion/theyre-young-theyre-conservative-and-theyre-split-over-the-war.html"
-  ],
-  [
-    "election",
-    11,
-    "https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-what-to-know.html"
   ]
 ];
