@@ -3,25 +3,31 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 63,
-      "url": "https://www.theguardian.com/games/2026/apr/18/super-mario-nintendo-luigi-inspiration",
+      "count": 60,
+      "url": "https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 42,
+      "count": 34,
       "url": "https://www.nytimes.com/2026/04/18/us/politics/iran-hormuz-strait-trump.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 21,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/04/18/us/politics/digenova-trump-lawyer-conspiracy.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/apr/18/united-plane-emergency-landing-pittsburgh",
+      "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 19,
+      "count": 11,
       "url": "https://www.theguardian.com/technology/2026/apr/18/sam-altman-house-attack-ai",
       "source": "The Guardian"
     },
@@ -33,19 +39,19 @@
     },
     {
       "name": "Mexico City",
-      "count": 11,
+      "count": 10,
       "url": "https://www.theguardian.com/football/2026/mar/30/world-cup-2026-mood-host-cities-world-cup-mexico-canada-us",
       "source": "The Guardian"
     },
     {
-      "name": "Los Angeles",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/nation/2026/04/17/d4vd-celeste-rivas-hernandez-body-case/",
-      "source": "Washington Post"
+      "name": "Chicago",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/apr/18/united-plane-emergency-landing-pittsburgh",
+      "source": "The Guardian"
     },
     {
       "name": "L.A.",
-      "count": 9,
+      "count": 8,
       "url": "https://www.latimes.com/california/story/2026-04-18/shes-housekeeper-with-side-job-cleaning-trashed-streets-of-her-own-neighborhood",
       "source": "LA Times"
     },
@@ -54,25 +60,143 @@
       "count": 8,
       "url": "https://www.latimes.com/entertainment-arts/story/2026-04-17/dylan-sprouse-tackles-trespasser-at-his-hollywood-hills-home",
       "source": "LA Times"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 14,
+      "url": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns",
+      "source": "The Guardian"
     },
     {
-      "name": "Uk",
+      "name": "Zohran Mamdani",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/04/18/nyregion/new-york-inequality-second-home-tax.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump ’S",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/apr/18/jon-ossoff-fiery-speech-presidential-rumors",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hormuz",
+      "count": 9,
+      "url": "https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pope Leo",
+      "count": 9,
+      "url": "https://www.theguardian.com/world/2026/apr/18/pope-leo-donald-trump-iran",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Leo Xiv",
+      "count": 8,
+      "url": "https://www.theguardian.com/world/2026/apr/18/pope-leo-donald-trump-iran",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Dianna Russini",
+      "count": 8,
+      "url": "https://www.theguardian.com/sport/2026/apr/18/nfl-mike-vrabel-dianna-russini-investigation",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Max Verstappen",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/apr/18/racing-driver-juha-miettinen-killed-and-six-injured-at-24-hour-nurburgring-race",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Richard Gadd",
+      "count": 6,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/18/half-man-richard-gadds-follow-up-to-baby-reindeer-is-uncomfortably-erotic-and-utterly-monstrous",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Dylan Sprouse",
+      "count": 6,
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-04-17/dylan-sprouse-tackles-trespasser-at-his-hollywood-hills-home",
+      "source": "LA Times"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Target For Trump",
+      "count": 47,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Ai",
+      "count": 14,
+      "url": "https://www.theguardian.com/wellness/2026/apr/17/secrets-health-wellbeing",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 14,
+      "url": "https://www.cbsnews.com/video/americans-see-some-relief-pump/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian News",
+      "count": 10,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Democratic Senate",
+      "count": 9,
+      "url": "https://www.nbcnews.com/politics/2026-election/elizabeth-warren-graham-platner-maine-democratic-senate-primary-rcna340795",
+      "source": "NBC News"
+    },
+    {
+      "name": "Nfl",
       "count": 7,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/18/gross-ingredients-16-favourite-foods-cockroach-coffee",
+      "url": "https://www.theguardian.com/sport/2026/apr/18/bengals-dexter-lawrence-giants-nfl-draft-trade",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kae Tempest",
+      "count": 6,
+      "url": "https://www.theguardian.com/culture/2026/apr/18/kae-tempest-on-creativity-and-his-gender-transition-im-just-glad-to-be-alive",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 6,
+      "url": "https://www.politico.com/live-updates/2026/04/15/congress/pappas-new-hampshire-senate-cash-advantage-00875605",
+      "source": "Politico"
+    },
+    {
+      "name": "Fbi",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/apr/18/fbi-kash-patel-excess-drinking",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "Rugby World Cup",
-      "count": 11,
-      "url": "https://www.theguardian.com/sport/2026/apr/17/saudi-arabia-abandons-plans-to-host-2035-rugby-world-cup-amid-funding-cutback",
+      "name": "The Iran War",
+      "count": 8,
+      "url": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns",
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
-      "count": 4,
-      "url": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns",
+      "name": "World Cup",
+      "count": 7,
+      "url": "https://www.theguardian.com/football/2026/mar/30/world-cup-2026-mood-host-cities-world-cup-mexico-canada-us",
       "source": "The Guardian"
     },
     {
@@ -82,15 +206,15 @@
       "source": "LA Times"
     },
     {
-      "name": "Operation Epic Facepalm",
+      "name": "The Game Boy",
       "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/17/pope-leo-jd-vance-donald-trump-catholicism",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/19/birdwatching-hobby-pokemon-generation",
       "source": "The Guardian"
     },
     {
-      "name": "Game 1",
+      "name": "Pro Bowl",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/apr/18/suns-warriors-play-in-jalen-green-curry-magic-hornets",
+      "url": "https://www.theguardian.com/sport/2026/apr/18/bengals-dexter-lawrence-giants-nfl-draft-trade",
       "source": "The Guardian"
     },
     {
@@ -118,135 +242,11 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Claudia Winkleman Show",
+      "name": "Game 7",
       "count": 1,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/18/why-even-claudia-winkleman-cant-save-the-chatshow",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/sports/story/2026-04-17/garret-anderson-obituary-angels-heart-attack-dies-53-world-series-hero",
+      "source": "LA Times"
     }
   ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 30,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/18/donald-trump-popularity-iran-christianity-economy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pope Leo Xiv",
-      "count": 17,
-      "url": "https://www.nbcnews.com/world/pope-leo-xiv/war-words-iran-pope-leo-says-not-interested-debate-trump-rcna340780",
-      "source": "NBC News"
-    },
-    {
-      "name": "Jd Vance",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/17/pope-leo-jd-vance-donald-trump-catholicism",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dianna Russini",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/apr/17/nfl-reporter-rescues-man-dianna-russini",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Richard Gadd",
-      "count": 6,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/18/half-man-richard-gadds-follow-up-to-baby-reindeer-is-uncomfortably-erotic-and-utterly-monstrous",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michael Jackson",
-      "count": 5,
-      "url": "https://www.theguardian.com/music/ng-interactive/2026/apr/18/michael-jackson-biopic-jaafar-jackson",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mandelson",
-      "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/17/the-guardian-view-on-starmer-and-mandelson-a-story-that-doesnt-add-up",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hacks",
-      "count": 5,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/17/hacks-season-five-review-jean-smart-hannah-einbinder",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pope Leo",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/04/18/world/africa/pope-news-media-trump-africa.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Nicolás Maduro",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html",
-      "source": "NY Times"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Target For Trump",
-      "count": 61,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Guardian News",
-      "count": 13,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 12,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/18/the-families-torn-apart-by-older-relatives-going-far-right",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 12,
-      "url": "https://www.theguardian.com/business/2026/apr/18/gina-rinehart-australian-mining-billionaire-court-ruling-rival-family-ntwnfb",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs Mornings Deals",
-      "count": 11,
-      "url": "https://www.cbsnews.com/video/cbs-mornings-deals-041826/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Minnesota Senate",
-      "count": 8,
-      "url": "https://www.politico.com/live-updates/2026/04/15/congress/angie-craig-peggy-flanagan-minnesota-senate-cash-00875578",
-      "source": "Politico"
-    },
-    {
-      "name": "Gop",
-      "count": 7,
-      "url": "https://www.cbsnews.com/news/white-house-alleged-utah-scandal-gop-redistricting/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Nba",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/apr/18/suns-warriors-play-in-jalen-green-curry-magic-hornets",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Congress",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/apr/18/brian-poindexter-ohio-congress-candidate",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-04-18T19:43:15Z"
+  "updated": "2026-04-19T04:16:37Z"
 };
