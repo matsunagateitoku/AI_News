@@ -2,51 +2,33 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
+      "name": "Zohran Mamdani",
+      "count": 18,
+      "url": "https://www.cbsnews.com/news/obama-meets-mamdani-new-york-city/",
+      "source": "CBS News"
+    },
+    {
       "name": "Donald Trump",
-      "count": 14,
-      "url": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns",
+      "count": 15,
+      "url": "https://www.theguardian.com/world/2026/apr/18/donald-trump-tehran-war-mismanaged-posts-progress-peace",
       "source": "The Guardian"
     },
     {
-      "name": "Zohran Mamdani",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/04/18/nyregion/new-york-inequality-second-home-tax.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Donald Trump ’S",
-      "count": 10,
+      "count": 14,
       "url": "https://www.theguardian.com/us-news/2026/apr/18/jon-ossoff-fiery-speech-presidential-rumors",
       "source": "The Guardian"
     },
     {
       "name": "Hormuz",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pope Leo",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/2026/apr/18/pope-leo-donald-trump-iran",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dianna Russini",
-      "count": 8,
-      "url": "https://www.theguardian.com/sport/2026/apr/18/nfl-mike-vrabel-dianna-russini-investigation",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel",
       "source": "The Guardian"
     },
     {
       "name": "Jd Vance",
-      "count": 7,
+      "count": 9,
       "url": "https://www.theguardian.com/commentisfree/2026/apr/19/jd-vance-donald-trump-vice-president-maga",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Leo Xiv",
-      "count": 6,
-      "url": "https://www.theguardian.com/world/2026/apr/18/pope-leo-donald-trump-iran",
       "source": "The Guardian"
     },
     {
@@ -56,91 +38,41 @@
       "source": "The Guardian"
     },
     {
-      "name": "Dylan Sprouse",
-      "count": 6,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-04-17/dylan-sprouse-tackles-trespasser-at-his-hollywood-hills-home",
-      "source": "LA Times"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 57,
-      "url": "https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 34,
-      "url": "https://www.nytimes.com/2026/04/18/us/politics/iran-hormuz-strait-trump.html",
+      "name": "Kamala Harris",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/04/18/us/politics/harris-booker-beshear-2028-president-democrats.html",
       "source": "NY Times"
     },
     {
-      "name": "U.S.",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/04/18/us/politics/digenova-trump-lawyer-conspiracy.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 16,
-      "url": "https://www.theguardian.com/technology/2026/apr/18/sam-altman-house-attack-ai",
+      "name": "Madonna",
+      "count": 5,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/19/madonna-confessions-on-a-dance-floor-part-ii-lesbians-gay-men",
       "source": "The Guardian"
     },
     {
-      "name": "South London",
-      "count": 15,
-      "url": "https://www.theguardian.com/music/2026/apr/17/add-to-playlist-punchbag-best-new-tracks",
+      "name": "Leo Xiv",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/apr/19/trump-religious-right-pope-feud-ai-jesus-posts",
       "source": "The Guardian"
     },
     {
-      "name": "New York City",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/apr/18/united-plane-emergency-landing-pittsburgh",
+      "name": "Jelena Dokic",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/apr/19/jelena-dokic-australia-tennis-player-pundit-interview",
       "source": "The Guardian"
-    },
-    {
-      "name": "Mexico City",
-      "count": 11,
-      "url": "https://www.theguardian.com/football/2026/mar/30/world-cup-2026-mood-host-cities-world-cup-mexico-canada-us",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uk",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Chicago",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/apr/18/united-plane-emergency-landing-pittsburgh",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A.",
-      "count": 8,
-      "url": "https://www.latimes.com/california/story/2026-04-18/shes-housekeeper-with-side-job-cleaning-trashed-streets-of-her-own-neighborhood",
-      "source": "LA Times"
     }
   ],
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 47,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Trump Renews Bridge",
+      "count": 61,
+      "url": "https://www.foxnews.com/politics/trump-renews-bridge-power-plant-threat-against-iran-push-deal-mocks-tough-guy-irgc",
+      "source": "Fox News"
     },
     {
-      "name": "Ai",
-      "count": 14,
-      "url": "https://www.theguardian.com/wellness/2026/apr/17/secrets-health-wellbeing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian News",
-      "count": 12,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "name": "Ai Jesus",
+      "count": 19,
+      "url": "https://www.theguardian.com/us-news/2026/apr/19/trump-religious-right-pope-feud-ai-jesus-posts",
       "source": "The Guardian"
     },
     {
@@ -150,27 +82,21 @@
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
-      "count": 10,
-      "url": "https://www.cbsnews.com/video/americans-see-some-relief-pump/",
-      "source": "CBS News"
+      "name": "Guardian News",
+      "count": 11,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
     },
     {
       "name": "Democratic Senate",
-      "count": 9,
+      "count": 10,
       "url": "https://www.nbcnews.com/politics/2026-election/elizabeth-warren-graham-platner-maine-democratic-senate-primary-rcna340795",
       "source": "NBC News"
     },
     {
       "name": "Nfl",
-      "count": 7,
+      "count": 6,
       "url": "https://www.theguardian.com/sport/2026/apr/18/bengals-dexter-lawrence-giants-nfl-draft-trade",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Skydiver",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/apr/18/skydiver-crashes-scoreboard-virginia-tech-spring-game",
       "source": "The Guardian"
     },
     {
@@ -180,22 +106,34 @@
       "source": "The Guardian"
     },
     {
-      "name": "Gop",
+      "name": "The White House",
       "count": 6,
-      "url": "https://www.politico.com/live-updates/2026/04/15/congress/pappas-new-hampshire-senate-cash-advantage-00875605",
-      "source": "Politico"
+      "url": "https://www.foxnews.com/politics/vance-says-hes-grateful-pope-leos-statement-wanting-public-debate-trump",
+      "source": "Fox News"
+    },
+    {
+      "name": "Wwe",
+      "count": 6,
+      "url": "https://www.foxnews.com/sports/wwe-star-cody-rhodes-suffers-nasty-swollen-eye-randy-orton-kick-wrestlemania-42",
+      "source": "Fox News"
+    },
+    {
+      "name": "Nbc News Poll",
+      "count": 6,
+      "url": "https://www.today.com/video/nbc-news-poll-67-disapprove-of-trump-s-handling-of-iran-war-261665861617",
+      "source": "NBC News"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns",
+      "count": 6,
+      "url": "https://www.theguardian.com/world/2026/apr/18/pope-leo-donald-trump-iran",
       "source": "The Guardian"
     },
     {
       "name": "World Cup",
-      "count": 7,
+      "count": 5,
       "url": "https://www.theguardian.com/football/2026/mar/30/world-cup-2026-mood-host-cities-world-cup-mexico-canada-us",
       "source": "The Guardian"
     },
@@ -212,10 +150,10 @@
       "source": "LA Times"
     },
     {
-      "name": "The Game Boy",
+      "name": "The War",
       "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/19/birdwatching-hobby-pokemon-generation",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/04/19/nyregion/theyre-young-theyre-conservative-and-theyre-split-over-the-war.html",
+      "source": "NY Times"
     },
     {
       "name": "Pro Bowl",
@@ -242,11 +180,73 @@
       "source": "The Guardian"
     },
     {
-      "name": "Night Live",
+      "name": "Game 7",
       "count": 1,
-      "url": "https://www.theguardian.com/culture/2026/apr/17/trump-comedy-political-humor-clownwashing",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/sports/story/2026-04-17/garret-anderson-obituary-angels-heart-attack-dies-53-world-series-hero",
+      "source": "LA Times"
     }
   ],
-  "updated": "2026-04-19T08:08:23Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 58,
+      "url": "https://www.theguardian.com/business/2026/apr/19/us-population-fertility-rate",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 52,
+      "url": "https://www.nytimes.com/2026/04/18/us/politics/iran-hormuz-strait-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "South London",
+      "count": 16,
+      "url": "https://www.theguardian.com/music/2026/apr/17/add-to-playlist-punchbag-best-new-tracks",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 15,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/19/coalition-building-protest",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City",
+      "count": 14,
+      "url": "https://www.cbsnews.com/news/obama-meets-mamdani-new-york-city/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Mexico City",
+      "count": 11,
+      "url": "https://www.theguardian.com/football/2026/mar/30/world-cup-2026-mood-host-cities-world-cup-mexico-canada-us",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A.",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-04-18/shes-housekeeper-with-side-job-cleaning-trashed-streets-of-her-own-neighborhood",
+      "source": "LA Times"
+    },
+    {
+      "name": "Israel",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Los Angeles",
+      "count": 8,
+      "url": "https://www.washingtonpost.com/nation/2026/04/17/d4vd-celeste-rivas-hernandez-body-case/",
+      "source": "Washington Post"
+    }
+  ],
+  "updated": "2026-04-19T14:01:37Z"
 };
