@@ -2,148 +2,158 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    70,
-    "https://www.nytimes.com/2026/04/20/business/trump-administration-tariff-refunds.html"
-  ],
-  [
-    "president",
-    34,
-    "https://www.nytimes.com/2026/04/20/us/politics/vance-iran-peace-negotiations.html"
-  ],
-  [
-    "war",
-    31,
-    "https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html"
-  ],
-  [
-    "court",
-    31,
-    "https://www.nytimes.com/2026/04/20/business/trump-administration-tariff-refunds.html"
-  ],
-  [
-    "children",
-    30,
-    "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html"
+    71,
+    "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html"
   ],
   [
     "iran",
-    29,
-    "https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html"
+    45,
+    "https://www.theguardian.com/film/2026/apr/20/cia-spymaster-agent-peter-sichel-caution-over-iran-intervention-resurfaces-us-middle-east"
+  ],
+  [
+    "president",
+    32,
+    "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html"
+  ],
+  [
+    "war",
+    30,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "court",
+    26,
+    "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html"
+  ],
+  [
+    "children",
+    25,
+    "https://www.nytimes.com/2026/04/20/us/shreveport-louisiana-killings-shamar-elkins.html"
   ],
   [
     "book",
-    25,
-    "https://www.theguardian.com/books/2026/apr/20/bernardine-evaristos-books-ranked"
+    22,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/20/the-emotional-security-secret-how-to-get-healthier-happier-and-have-stronger-relationships"
   ],
   [
-    "media",
+    "food",
+    22,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/20/the-pet-ill-never-forget-benny-the-cat-who-climbed-into-my-shopping-bag-then-shared-my-baths"
+  ],
+  [
+    "california",
     21,
-    "https://www.nytimes.com/2026/04/20/business/media/white-house-correspondents-dinner-trump.html"
+    "https://www.nytimes.com/2026/04/20/us/california-governor-democrat-betty-yee.html"
   ],
   [
-    "killed",
-    20,
-    "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html"
+    "government",
+    19,
+    "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html"
   ],
   [
     "game",
-    20,
-    "https://www.theguardian.com/sport/2026/apr/20/lebron-james-is-41-and-hes-somehow-still-carrying-his-team-in-the-playoffs"
-  ],
-  [
-    "military",
     19,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.theguardian.com/football/2026/apr/20/premier-league-title-race-is-far-from-over"
   ],
   [
     "iranian",
     18,
-    "https://www.nytimes.com/2026/04/20/us/politics/vance-iran-peace-negotiations.html"
+    "https://www.nytimes.com/2026/04/20/us/politics/military-blockade-iran-strait-hormuz.html"
   ],
   [
-    "always",
+    "race",
     18,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/20/a-new-start-after-60-my-father-died-when-i-was-a-child-and-i-followed-him-to-antarctica"
+    "https://www.nytimes.com/2026/04/20/us/california-governor-democrat-betty-yee.html"
   ],
   [
-    "food",
+    "john",
     18,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/20/the-pet-ill-never-forget-benny-the-cat-who-climbed-into-my-shopping-bag-then-shared-my-baths"
+    "https://www.nytimes.com/2026/04/20/arts/john-keats-letters-fanny-brawne-stolen.html"
   ],
   [
-    "supreme",
-    17,
-    "https://www.nytimes.com/2026/04/20/business/trump-administration-tariff-refunds.html"
+    "health",
+    18,
+    "https://www.washingtonpost.com/nation/2026/04/20/louisiana-shooting-mental-health/"
   ],
   [
-    "shooting",
+    "died",
+    18,
+    "https://www.theguardian.com/film/2026/apr/20/cia-spymaster-agent-peter-sichel-caution-over-iran-intervention-resurfaces-us-middle-east"
+  ],
+  [
+    "military",
     17,
-    "https://www.washingtonpost.com/nation/2026/04/19/louisiana-shooting/"
+    "https://www.nytimes.com/2026/04/20/world/middleeast/israeli-soldier-lebanon-sledgehammer-jesus.html"
   ],
   [
     "social",
     17,
-    "https://www.theguardian.com/film/2026/apr/20/cia-spymaster-agent-peter-sichel-caution-over-iran-intervention-resurfaces-us-middle-east"
+    "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html"
   ],
   [
-    "energy",
+    "record",
+    17,
+    "https://www.theguardian.com/sport/2026/apr/20/john-korir-breaks-boston-marathon-course-record-as-kenyans-retain-titles"
+  ],
+  [
+    "always",
+    17,
+    "https://www.theguardian.com/football/2026/apr/20/premier-league-10-talking-points-from-the-weekends-action"
+  ],
+  [
+    "million",
     16,
-    "https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html"
-  ],
-  [
-    "democrats",
-    16,
-    "https://www.nytimes.com/2026/04/20/upshot/democrats-senate-midterms-chances.html"
-  ],
-  [
-    "louisiana",
-    16,
-    "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html"
-  ],
-  [
-    "police",
-    16,
-    "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html"
-  ],
-  [
-    "case",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/20/mexico-car-accident-drug-officials-killed"
-  ],
-  [
-    "far",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/20/rfk-jr-podcast-maha-health"
-  ],
-  [
-    "tariff",
-    15,
-    "https://www.nytimes.com/2026/04/20/podcasts/the-headlines/us-iran-tariff-refunds.html"
-  ],
-  [
-    "secretary",
-    15,
-    "https://www.nytimes.com/2026/04/19/world/middleeast/energy-secretary-gas-prices.html"
-  ],
-  [
-    "health",
-    15,
-    "https://www.nytimes.com/2026/04/20/well/nicotine-health-maha.html"
-  ],
-  [
-    "died",
-    15,
-    "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html"
-  ],
-  [
-    "los",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/19/d4vd-arrest-celeste-rivas-hernandez"
+    "https://www.nytimes.com/2026/04/20/us/politics/kash-patel-atlantic-article-alcohol-drinking-fbi-lawsuit.html"
   ],
   [
     "don",
+    16,
+    "https://www.nytimes.com/2026/04/20/opinion/military-child-care-cuts.html"
+  ],
+  [
+    "company",
+    16,
+    "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html"
+  ],
+  [
+    "start",
+    16,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "fewer",
+    16,
+    "https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating"
+  ],
+  [
+    "email",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/20/the-emotional-security-secret-how-to-get-healthier-happier-and-have-stronger-relationships"
+  ],
+  [
+    "feel",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/apr/20/best-thc-drinks"
+  ],
+  [
+    "ship",
     15,
-    "https://www.theguardian.com/us-news/2026/apr/17/philz-coffee-pride-flags-california"
+    "https://www.nytimes.com/2026/04/20/us/politics/military-blockade-iran-strait-hormuz.html"
+  ],
+  [
+    "night",
+    15,
+    "https://www.nytimes.com/2026/04/20/us/politics/a-squabble-in-dc-yields-chaos-in-el-paso.html"
+  ],
+  [
+    "singer",
+    15,
+    "https://www.nytimes.com/2026/04/20/arts/music/d4vd-murder-charges-celeste-rivas-hernandez.html"
+  ],
+  [
+    "peace",
+    15,
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
     "filter",
@@ -151,44 +161,74 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/20/best-thc-drinks"
   ],
   [
-    "fewer",
+    "police",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/apr/20/best-thc-drinks"
+    "https://www.theguardian.com/us-news/2026/apr/20/shreveport-louisiana-mass-shooting"
   ],
   [
-    "feel",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/apr/20/best-thc-drinks"
-  ],
-  [
-    "government",
+    "democrats",
     14,
-    "https://www.nytimes.com/2026/04/20/business/trump-administration-tariff-refunds.html"
+    "https://www.nytimes.com/2026/04/20/us/california-governor-democrat-betty-yee.html"
   ],
   [
-    "chief",
+    "energy",
     14,
-    "https://www.nytimes.com/video/business/100000010843347/why-your-paycheck-feels-smaller.html"
+    "https://www.nytimes.com/2026/04/20/us/politics/a-squabble-in-dc-yields-chaos-in-el-paso.html"
   ],
   [
-    "american",
+    "charged",
     14,
-    "https://www.nytimes.com/video/business/100000010843347/why-your-paycheck-feels-smaller.html"
+    "https://www.nytimes.com/2026/04/20/arts/music/d4vd-murder-charges-celeste-rivas-hernandez.html"
   ],
   [
-    "place",
+    "marathon",
     14,
-    "https://www.nytimes.com/2026/04/20/weather/cold-temperatures-forecast.html"
+    "https://www.nytimes.com/2026/04/20/us/boston-marathon-2026.html"
   ],
   [
-    "fire",
+    "case",
     14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/04/20/us/politics/supreme-court-catholic-preschools.html"
   ],
   [
-    "team",
+    "media",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html"
+  ],
+  [
+    "dead",
+    14,
+    "https://www.washingtonpost.com/nation/2026/04/20/planned-fight-fatal-shooting-winston-salem/"
+  ],
+  [
+    "killed",
+    14,
+    "https://www.washingtonpost.com/nation/2026/04/20/louisiana-shooting-mental-health/"
+  ],
+  [
+    "weekly",
+    14,
+    "https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating"
+  ],
+  [
+    "lot",
+    14,
+    "https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating"
+  ],
+  [
+    "office",
+    14,
+    "https://www.theguardian.com/music/2026/apr/20/singer-d4vd-charged-murder"
+  ],
+  [
+    "oil",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/20/lawsuit-new-bp-oil-project-gulf-of-mexico"
+  ],
+  [
+    "ceasefire",
+    14,
+    "https://www.theguardian.com/world/video/2026/apr/20/iran-war-energy-crisis-how-bad-could-it-get-the-latest"
   ],
   [
     "job",
@@ -196,34 +236,39 @@
     "https://www.theguardian.com/film/2026/apr/20/charlize-theron-timothee-chalamet-ballet-comments"
   ],
   [
-    "angeles",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/19/d4vd-arrest-celeste-rivas-hernandez"
+    "cargo",
+    13,
+    "https://www.nytimes.com/2026/04/20/us/politics/military-blockade-iran-strait-hormuz.html"
   ],
   [
-    "attack",
+    "israeli",
     13,
-    "https://www.nytimes.com/2026/04/20/world/middleeast/strait-hormuz-traffic-ships-iran-us.html"
+    "https://www.nytimes.com/2026/04/20/world/middleeast/israeli-soldier-lebanon-sledgehammer-jesus.html"
   ],
   [
-    "ship",
+    "administration",
     13,
-    "https://www.nytimes.com/2026/04/20/podcasts/the-headlines/us-iran-tariff-refunds.html"
+    "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html"
   ],
   [
-    "oil",
+    "murder",
     13,
-    "https://www.nytimes.com/2026/04/20/business/economy/gas-stations-pricing.html"
+    "https://www.nytimes.com/2026/04/20/arts/music/d4vd-murder-charges-celeste-rivas-hernandez.html"
   ],
   [
-    "senate",
+    "family",
     13,
-    "https://www.nytimes.com/2026/04/20/upshot/democrats-senate-midterms-chances.html"
+    "https://www.nytimes.com/2026/04/20/arts/john-keats-letters-fanny-brawne-stolen.html"
   ],
   [
-    "really",
+    "review",
     13,
-    "https://www.nytimes.com/2026/04/20/opinion/trump-birth-control.html"
+    "https://www.washingtonpost.com/politics/2026/04/20/supreme-court-colorado-preschools/"
+  ],
+  [
+    "authorities",
+    13,
+    "https://www.washingtonpost.com/nation/2026/04/20/planned-fight-fatal-shooting-winston-salem/"
   ],
   [
     "questions",
@@ -231,19 +276,34 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "because",
+    "investigation",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/20/is-it-true-that-only-overweight-people-risk-of-high-cholesterol"
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
   ],
   [
-    "california",
+    "team",
     13,
-    "https://www.theguardian.com/technology/2026/apr/18/sam-altman-house-attack-ai"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "night",
+    "mexico",
     13,
-    "https://www.theguardian.com/commentisfree/2026/apr/20/jewish-people-britain-antisemitic-attacks-anti-racists-jews"
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating"
+  ],
+  [
+    "guide",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/apr/20/best-thc-drinks"
+  ],
+  [
+    "far",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/20/rfk-jr-podcast-maha-health"
   ],
   [
     "political",
@@ -251,128 +311,68 @@
     "https://www.theguardian.com/commentisfree/2026/apr/19/jd-vance-donald-trump-vice-president-maga"
   ],
   [
-    "hear",
+    "support",
     13,
-    "https://www.theguardian.com/money/2026/apr/15/tell-us-your-experience-with-ai-in-job-interviews"
+    "https://www.theguardian.com/sport/2026/apr/20/lebron-james-is-41-and-hes-somehow-still-carrying-his-team-in-the-playoffs"
   ],
   [
-    "democratic",
+    "department",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/20/trump-doj-epstein-files-victims"
+  ],
+  [
+    "patel",
+    12,
+    "https://www.nytimes.com/2026/04/20/us/politics/kash-patel-atlantic-article-alcohol-drinking-fbi-lawsuit.html"
+  ],
+  [
+    "atlantic",
+    12,
+    "https://www.nytimes.com/2026/04/20/us/politics/kash-patel-atlantic-article-alcohol-drinking-fbi-lawsuit.html"
+  ],
+  [
+    "supreme",
+    12,
+    "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html"
+  ],
+  [
+    "senate",
     12,
     "https://www.nytimes.com/2026/04/20/upshot/democrats-senate-midterms-chances.html"
   ],
   [
-    "country",
+    "republican",
     12,
-    "https://www.nytimes.com/2026/04/20/world/middleeast/saudi-arabia-vision-pragmatism.html"
+    "https://www.nytimes.com/2026/04/20/upshot/democrats-senate-midterms-chances.html"
   ],
   [
-    "win",
+    "virginia",
     12,
-    "https://www.nytimes.com/2026/04/20/world/europe/bulgaria-election-result-rumen-radev.html"
-  ],
-  [
-    "israeli",
-    12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/03/27/us/elections/virginia-redistricting-early-vote-tracker.html"
   ],
   [
     "early",
     12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/03/27/us/elections/virginia-redistricting-early-vote-tracker.html"
   ],
   [
-    "latest",
+    "power",
     12,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.nytimes.com/2026/04/20/us/politics/a-squabble-in-dc-yields-chaos-in-el-paso.html"
   ],
   [
-    "director",
+    "louisiana",
     12,
-    "https://www.theguardian.com/film/2026/apr/20/alfred-hitchcock-the-birds-tippi-hedren-tension-performances"
+    "https://www.nytimes.com/2026/04/20/us/shreveport-louisiana-killings-shamar-elkins.html"
   ],
   [
-    "point",
+    "hear",
     12,
-    "https://www.theguardian.com/film/2026/apr/20/alfred-hitchcock-the-birds-tippi-hedren-tension-performances"
+    "https://www.nytimes.com/2026/04/20/us/politics/supreme-court-catholic-preschools.html"
   ],
   [
-    "author",
+    "recent",
     12,
-    "https://www.theguardian.com/film/2026/apr/20/alfred-hitchcock-the-birds-tippi-hedren-tension-performances"
-  ],
-  [
-    "something",
-    12,
-    "https://www.theguardian.com/film/2026/apr/20/alfred-hitchcock-the-birds-tippi-hedren-tension-performances"
-  ],
-  [
-    "office",
-    12,
-    "https://www.theguardian.com/us-news/2026/apr/20/shreveport-louisiana-mass-shooting"
-  ],
-  [
-    "guide",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/apr/20/best-thc-drinks"
-  ],
-  [
-    "buying",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/apr/20/best-thc-drinks"
-  ],
-  [
-    "having",
-    12,
-    "https://www.theguardian.com/music/2026/apr/20/levellers-how-we-made-what-a-beautiful-day-tories-princess-diana"
-  ],
-  [
-    "bath",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/apr/14/plastic-pfas-microplastic-free-kitchen-tools"
-  ],
-  [
-    "cbs",
-    12,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-04-15/after-stephen-colbert-cbs-still-wants-original-late-night-show"
-  ],
-  [
-    "talks",
-    11,
-    "https://www.nytimes.com/2026/04/20/us/politics/vance-iran-peace-negotiations.html"
-  ],
-  [
-    "peace",
-    11,
-    "https://www.nytimes.com/2026/04/20/us/politics/vance-iran-peace-negotiations.html"
-  ],
-  [
-    "administration",
-    11,
-    "https://www.nytimes.com/2026/04/20/business/trump-administration-tariff-refunds.html"
-  ],
-  [
-    "heart",
-    11,
-    "https://www.nytimes.com/2026/04/20/business/trump-administration-tariff-refunds.html"
-  ],
-  [
-    "gas",
-    11,
-    "https://www.nytimes.com/2026/04/20/business/economy/gas-stations-pricing.html"
-  ],
-  [
-    "inside",
-    11,
-    "https://www.nytimes.com/2026/04/20/us/epstein-files-harvard-university-faculty.html"
-  ],
-  [
-    "race",
-    11,
-    "https://www.nytimes.com/2026/04/19/world/asia/running-robot-sets-record.html"
-  ],
-  [
-    "history",
-    11,
-    "https://www.nytimes.com/2026/04/19/world/asia/running-robot-sets-record.html"
+    "https://www.washingtonpost.com/nation/2026/04/19/louisiana-shooting/"
   ]
 ];
