@@ -3,195 +3,83 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 69,
+      "count": 64,
       "url": "https://www.theguardian.com/film/2026/apr/20/cia-spymaster-agent-peter-sichel-caution-over-iran-intervention-resurfaces-us-middle-east",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 40,
-      "url": "https://www.theguardian.com/film/2026/apr/20/cia-spymaster-agent-peter-sichel-caution-over-iran-intervention-resurfaces-us-middle-east",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 28,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
+      "count": 43,
+      "url": "https://www.nytimes.com/2026/04/20/us/politics/us-iran-negotiation-style.html",
+      "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 20,
+      "count": 24,
       "url": "https://www.nytimes.com/2026/04/20/us/california-governor-democrat-betty-yee.html",
       "source": "NY Times"
     },
     {
-      "name": "Uk",
-      "count": 14,
-      "url": "https://www.theguardian.com/books/2026/apr/20/john-keats-love-letters-returned",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Louisiana",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/04/20/us/shreveport-louisiana-killings-shamar-elkins.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "West Virginia",
-      "count": 11,
-      "url": "https://www.latimes.com/world-nation/story/2026-04-15/xanax-sourced-to-west-virginia-based-company-recalled-nationwide-what-you-need-to-know",
-      "source": "LA Times"
-    },
-    {
-      "name": "Canada",
-      "count": 9,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "name": "U.S.",
+      "count": 24,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Lebanon",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/04/20/world/middleeast/israeli-soldier-lebanon-sledgehammer-jesus.html",
+      "name": "Gulf Of Mexico",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/apr/20/lawsuit-new-bp-oil-project-gulf-of-mexico",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 11,
+      "url": "https://www.theguardian.com/politics/2026/apr/20/starmer-commons-statement-foreign-office-stripped-power-overrule-vetting",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html",
       "source": "NY Times"
     },
     {
       "name": "Israel",
-      "count": 8,
+      "count": 10,
       "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
       "source": "Wall St. Journal"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Administration",
-      "count": 47,
-      "url": "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html",
-      "source": "NY Times"
     },
     {
-      "name": "Guardian News",
-      "count": 18,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 15,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/20/the-guardian-view-on-the-eu-and-israel-moving-beyond-mere-exhortation-",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 13,
-      "url": "https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 12,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 10,
-      "url": "https://www.foxnews.com/politics/gop-strategists-called-dc-trump-team-confronts-rising-midterm-headwinds",
-      "source": "Fox News"
-    },
-    {
-      "name": "Minnesota Senate",
+      "name": "Lebanon",
       "count": 9,
-      "url": "https://www.politico.com/live-updates/2026/04/15/congress/angie-craig-peggy-flanagan-minnesota-senate-cash-00875578",
-      "source": "Politico"
-    },
-    {
-      "name": "Amazon",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/20/amazon-sellers-price-raises-california",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ice",
-      "count": 7,
-      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
-      "source": "Wall St. Journal"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 15,
-      "url": "https://www.theguardian.com/world/2026/apr/20/us-spending-on-reckless-iran-war-could-have-saved-87m-lives-says-un",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kash Patel",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/04/20/us/politics/kash-patel-atlantic-article-alcohol-drinking-fbi-lawsuit.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Celeste Rivas Hernandez",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/04/20/arts/music/d4vd-murder-charges-celeste-rivas-hernandez.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Benny",
-      "count": 6,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/20/the-pet-ill-never-forget-benny-the-cat-who-climbed-into-my-shopping-bag-then-shared-my-baths",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jd Vance",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/19/jd-vance-donald-trump-vice-president-maga",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump ’S",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/apr/20/trump-doj-epstein-files-victims",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Richard Gadd",
-      "count": 6,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/18/half-man-richard-gadds-follow-up-to-baby-reindeer-is-uncomfortably-erotic-and-utterly-monstrous",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Aloysius Winthrop James",
-      "count": 6,
-      "url": "https://www.foxnews.com/us/killer-undone-decades-old-threads-glove-towel-shirt-stitch-together-cold-case-justice",
-      "source": "Fox News"
-    },
-    {
-      "name": "Jesus Christ",
-      "count": 6,
-      "url": "https://www.nbcnews.com/world/israel/israeli-soldier-jesus-statue-lebanon-damage-netanyahu-condemns-rcna340942",
-      "source": "NBC News"
-    },
-    {
-      "name": "Benjamin Netanyahu",
-      "count": 5,
       "url": "https://www.nytimes.com/2026/04/20/world/middleeast/israeli-soldier-lebanon-sledgehammer-jesus.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Virginia",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/03/27/us/elections/virginia-redistricting-early-vote-tracker.html",
       "source": "NY Times"
     }
   ],
   "EVENT": [
     {
-      "name": "The World Cup",
+      "name": "World Cup",
       "count": 5,
-      "url": "https://www.theguardian.com/football/2026/apr/20/mls-weekend-wrap-diego-luna-lionel-messi-columbus-crew",
+      "url": "https://www.theguardian.com/world/2026/apr/20/canadian-woman-killed-after-gunman-opens-fire-at-mexicos-teotihuacan-pyramids",
       "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 4,
+      "url": "https://www.nbcnews.com/video/shorts/how-iran-has-shaken-up-a-big-senate-race-261737029795",
+      "source": "NBC News"
+    },
+    {
+      "name": "Raiders Super Bowl",
+      "count": 2,
+      "url": "https://www.latimes.com/sports/story/2026-04-20/rod-martin-raiders-super-bowl-hero-usc-dies-obit",
+      "source": "LA Times"
     },
     {
       "name": "World Series",
@@ -200,15 +88,15 @@
       "source": "LA Times"
     },
     {
+      "name": "Iran War Negotiations",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/04/20/us/politics/us-iran-negotiation-style.html",
+      "source": "NY Times"
+    },
+    {
       "name": "’ Iran War",
       "count": 1,
       "url": "https://www.theguardian.com/world/2026/apr/20/us-spending-on-reckless-iran-war-could-have-saved-87m-lives-says-un",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Korean War",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/apr/20/celestino-chavez-jr-army-soldier-korean-war-remains-identified",
       "source": "The Guardian"
     },
     {
@@ -218,15 +106,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "The 1980 Women’S Professional Basketball League",
+      "name": "The Korean War",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/apr/20/floods-baskets-and-billie-jean-king-how-the-rough-and-tumble-wbl-set-the-stage-for-the-wnba",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Us World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/apr/20/mls-weekend-wrap-diego-luna-lionel-messi-columbus-crew",
+      "url": "https://www.theguardian.com/us-news/2026/apr/20/celestino-chavez-jr-army-soldier-korean-war-remains-identified",
       "source": "The Guardian"
     },
     {
@@ -240,13 +122,131 @@
       "count": 1,
       "url": "https://www.latimes.com/california/story/2026-04-20/dodgers-of-esports-how-l-a-s-liquid-guild-won-attention-of-over-100-000-people",
       "source": "LA Times"
-    },
-    {
-      "name": "Game 7",
-      "count": 1,
-      "url": "https://www.latimes.com/sports/story/2026-04-17/garret-anderson-obituary-angels-heart-attack-dies-53-world-series-hero",
-      "source": "LA Times"
     }
   ],
-  "updated": "2026-04-20T20:01:37Z"
+  "PERSON": [
+    {
+      "name": "Tim Cook",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 21,
+      "url": "https://www.theguardian.com/us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Lori Chavez-Deremer",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump ’S",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/apr/20/trump-doj-epstein-files-victims",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Celeste Rivas Hernandez",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/04/20/arts/music/d4vd-murder-charges-celeste-rivas-hernandez.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Alex Jones’S Infowars",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/apr/20/the-onion-alex-jones-infowars",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Controller Betty Yee",
+      "count": 7,
+      "url": "https://www.latimes.com/california/story/2026-04-20/governors-race-wildly-unpredictable-two-weeks-before-californians-receive-ballots",
+      "source": "LA Times"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/04/20/briefing/a-new-apple-ceo.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "John Ternus",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Kash Patel",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/04/20/us/politics/kash-patel-atlantic-article-alcohol-drinking-fbi-lawsuit.html",
+      "source": "NY Times"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Administration'S",
+      "count": 52,
+      "url": "https://www.cbsnews.com/video/some-businesses-report-issues-trump-administration-new-tariff-refund-portal/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Apple C.E.O",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Minnesota Senate",
+      "count": 15,
+      "url": "https://www.politico.com/live-updates/2026/04/15/congress/angie-craig-peggy-flanagan-minnesota-senate-cash-00875578",
+      "source": "Politico"
+    },
+    {
+      "name": "Ai",
+      "count": 13,
+      "url": "https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Labor",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian News",
+      "count": 12,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/apr/20/trump-tariffs-refund-claims",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/20/the-guardian-view-on-the-eu-and-israel-moving-beyond-mere-exhortation-",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cbs News",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/apr/20/ice-detain-wife-army-member",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-04-21T04:14:04Z"
 };

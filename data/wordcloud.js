@@ -2,58 +2,113 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    71,
-    "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html"
+    79,
+    "https://www.nytimes.com/2026/04/20/us/politics/us-iran-negotiation-style.html"
   ],
   [
     "iran",
-    45,
-    "https://www.theguardian.com/film/2026/apr/20/cia-spymaster-agent-peter-sichel-caution-over-iran-intervention-resurfaces-us-middle-east"
+    50,
+    "https://www.nytimes.com/2026/04/20/us/politics/us-iran-negotiation-style.html"
   ],
   [
     "president",
-    32,
-    "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html"
+    39,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "war",
+    33,
+    "https://www.nytimes.com/2026/04/20/us/politics/us-iran-negotiation-style.html"
+  ],
+  [
+    "secretary",
     30,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "court",
-    26,
-    "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html"
+    27,
+    "https://www.washingtonpost.com/politics/2026/04/20/supreme-court-colorado-preschools/"
   ],
   [
-    "children",
+    "race",
     25,
-    "https://www.nytimes.com/2026/04/20/us/shreveport-louisiana-killings-shamar-elkins.html"
-  ],
-  [
-    "book",
-    22,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/20/the-emotional-security-secret-how-to-get-healthier-happier-and-have-stronger-relationships"
-  ],
-  [
-    "food",
-    22,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/20/the-pet-ill-never-forget-benny-the-cat-who-climbed-into-my-shopping-bag-then-shared-my-baths"
-  ],
-  [
-    "california",
-    21,
     "https://www.nytimes.com/2026/04/20/us/california-governor-democrat-betty-yee.html"
   ],
   [
-    "government",
-    19,
-    "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html"
+    "chavez",
+    25,
+    "https://www.theguardian.com/us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer"
   ],
   [
-    "game",
+    "singer",
+    24,
+    "https://www.nytimes.com/2026/04/20/arts/music/d4vd-murder-charges-celeste-rivas-hernandez.html"
+  ],
+  [
+    "cook",
+    23,
+    "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html"
+  ],
+  [
+    "california",
+    23,
+    "https://www.nytimes.com/2026/04/20/us/california-governor-democrat-betty-yee.html"
+  ],
+  [
+    "killed",
+    22,
+    "https://www.nytimes.com/2026/04/20/world/americas/mexico-shooting-pyramids-teotihuacan.html"
+  ],
+  [
+    "children",
+    22,
+    "https://www.nytimes.com/2026/04/20/us/louisiana-shooter-shamar-elkins-shreveport.html"
+  ],
+  [
+    "john",
+    21,
+    "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html"
+  ],
+  [
+    "apple",
+    20,
+    "https://www.nytimes.com/2026/04/20/briefing/a-new-apple-ceo.html"
+  ],
+  [
+    "company",
+    20,
+    "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html"
+  ],
+  [
+    "deremer",
+    20,
+    "https://www.theguardian.com/us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer"
+  ],
+  [
+    "senate",
     19,
-    "https://www.theguardian.com/football/2026/apr/20/premier-league-title-race-is-far-from-over"
+    "https://www.nytimes.com/2026/04/20/upshot/democrats-senate-midterms-chances.html"
+  ],
+  [
+    "health",
+    19,
+    "https://www.nytimes.com/2026/04/20/us/louisiana-shooter-shamar-elkins-shreveport.html"
+  ],
+  [
+    "labor",
+    19,
+    "https://www.theguardian.com/us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer"
+  ],
+  [
+    "job",
+    19,
+    "https://www.theguardian.com/us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer"
+  ],
+  [
+    "food",
+    19,
+    "https://www.theguardian.com/thefilter-us/2026/apr/19/caraway-trash-can-recycling-bin-review"
   ],
   [
     "iranian",
@@ -61,64 +116,44 @@
     "https://www.nytimes.com/2026/04/20/us/politics/military-blockade-iran-strait-hormuz.html"
   ],
   [
-    "race",
+    "family",
     18,
-    "https://www.nytimes.com/2026/04/20/us/california-governor-democrat-betty-yee.html"
+    "https://www.nytimes.com/2026/04/20/us/louisiana-shooter-shamar-elkins-shreveport.html"
   ],
   [
-    "john",
+    "administration",
     18,
-    "https://www.nytimes.com/2026/04/20/arts/john-keats-letters-fanny-brawne-stolen.html"
+    "https://www.nytimes.com/2026/04/20/opinion/trump-birth-control.html"
   ],
   [
-    "health",
-    18,
-    "https://www.washingtonpost.com/nation/2026/04/20/louisiana-shooting-mental-health/"
-  ],
-  [
-    "died",
-    18,
-    "https://www.theguardian.com/film/2026/apr/20/cia-spymaster-agent-peter-sichel-caution-over-iran-intervention-resurfaces-us-middle-east"
-  ],
-  [
-    "military",
+    "murder",
     17,
-    "https://www.nytimes.com/2026/04/20/world/middleeast/israeli-soldier-lebanon-sledgehammer-jesus.html"
+    "https://www.nytimes.com/2026/04/20/arts/music/d4vd-murder-charges-celeste-rivas-hernandez.html"
   ],
   [
-    "social",
+    "season",
     17,
-    "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html"
+    "https://www.theguardian.com/sport/2026/apr/20/victor-wembanyama-becomes-first-unanimous-nba-defensive-player-of-the-year-at-age-of-22"
   ],
   [
-    "record",
-    17,
-    "https://www.theguardian.com/sport/2026/apr/20/john-korir-breaks-boston-marathon-course-record-as-kenyans-retain-titles"
-  ],
-  [
-    "always",
-    17,
-    "https://www.theguardian.com/football/2026/apr/20/premier-league-10-talking-points-from-the-weekends-action"
-  ],
-  [
-    "million",
+    "tim",
     16,
-    "https://www.nytimes.com/2026/04/20/us/politics/kash-patel-atlantic-article-alcohol-drinking-fbi-lawsuit.html"
+    "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html"
   ],
   [
-    "don",
+    "executive",
     16,
-    "https://www.nytimes.com/2026/04/20/opinion/military-child-care-cuts.html"
+    "https://www.nytimes.com/2026/01/08/technology/apple-ceo-tim-cook-john-ternus.html"
   ],
   [
-    "company",
+    "fire",
     16,
-    "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html"
+    "https://www.nytimes.com/2026/04/20/world/americas/mexico-shooting-pyramids-teotihuacan.html"
   ],
   [
-    "start",
+    "game",
     16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/04/20/nyregion/new-york-chess-kids.html"
   ],
   [
     "fewer",
@@ -126,34 +161,39 @@
     "https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating"
   ],
   [
-    "email",
+    "lori",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/20/the-emotional-security-secret-how-to-get-healthier-happier-and-have-stronger-relationships"
+    "https://www.theguardian.com/us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer"
   ],
   [
-    "feel",
+    "energy",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/apr/20/best-thc-drinks"
+    "https://www.theguardian.com/us-news/2026/apr/20/trump-memos-domestic-fossil-fuels-defense"
   ],
   [
-    "ship",
+    "shooting",
     15,
-    "https://www.nytimes.com/2026/04/20/us/politics/military-blockade-iran-strait-hormuz.html"
+    "https://www.nytimes.com/2026/04/20/world/americas/mexico-shooting-pyramids-teotihuacan.html"
   ],
   [
-    "night",
+    "authorities",
     15,
-    "https://www.nytimes.com/2026/04/20/us/politics/a-squabble-in-dc-yields-chaos-in-el-paso.html"
+    "https://www.nytimes.com/2026/04/20/world/americas/mexico-shooting-pyramids-teotihuacan.html"
   ],
   [
-    "singer",
+    "immigration",
     15,
-    "https://www.nytimes.com/2026/04/20/arts/music/d4vd-murder-charges-celeste-rivas-hernandez.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "peace",
+    "trump's",
     15,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "died",
+    15,
+    "https://www.theguardian.com/film/2026/apr/20/cia-spymaster-agent-peter-sichel-caution-over-iran-intervention-resurfaces-us-middle-east"
   ],
   [
     "filter",
@@ -161,49 +201,24 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/20/best-thc-drinks"
   ],
   [
-    "police",
+    "ceo",
     15,
-    "https://www.theguardian.com/us-news/2026/apr/20/shreveport-louisiana-mass-shooting"
+    "https://www.theguardian.com/technology/2026/apr/20/tim-cook-apple-ceo-replacement"
   ],
   [
-    "democrats",
-    14,
-    "https://www.nytimes.com/2026/04/20/us/california-governor-democrat-betty-yee.html"
+    "ceasefire",
+    15,
+    "https://www.theguardian.com/world/video/2026/apr/20/iran-war-energy-crisis-how-bad-could-it-get-the-latest"
   ],
   [
-    "energy",
+    "mexico",
     14,
-    "https://www.nytimes.com/2026/04/20/us/politics/a-squabble-in-dc-yields-chaos-in-el-paso.html"
+    "https://www.nytimes.com/2026/04/20/world/americas/mexico-shooting-pyramids-teotihuacan.html"
   ],
   [
-    "charged",
+    "hours",
     14,
-    "https://www.nytimes.com/2026/04/20/arts/music/d4vd-murder-charges-celeste-rivas-hernandez.html"
-  ],
-  [
-    "marathon",
-    14,
-    "https://www.nytimes.com/2026/04/20/us/boston-marathon-2026.html"
-  ],
-  [
-    "case",
-    14,
-    "https://www.nytimes.com/2026/04/20/us/politics/supreme-court-catholic-preschools.html"
-  ],
-  [
-    "media",
-    14,
-    "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html"
-  ],
-  [
-    "dead",
-    14,
-    "https://www.washingtonpost.com/nation/2026/04/20/planned-fight-fatal-shooting-winston-salem/"
-  ],
-  [
-    "killed",
-    14,
-    "https://www.washingtonpost.com/nation/2026/04/20/louisiana-shooting-mental-health/"
+    "https://www.nytimes.com/2026/04/21/world/europe/london-underground-tube-strike.html"
   ],
   [
     "weekly",
@@ -211,54 +226,54 @@
     "https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating"
   ],
   [
-    "lot",
+    "email",
     14,
-    "https://www.theguardian.com/global/2026/apr/20/ultra-processed-foods-diet-healthy-eating"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/20/the-emotional-security-secret-how-to-get-healthier-happier-and-have-stronger-relationships"
+  ],
+  [
+    "series",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer"
   ],
   [
     "office",
     14,
-    "https://www.theguardian.com/music/2026/apr/20/singer-d4vd-charged-murder"
+    "https://www.theguardian.com/us-news/2026/apr/20/ice-detain-wife-army-member"
   ],
   [
-    "oil",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/20/lawsuit-new-bp-oil-project-gulf-of-mexico"
-  ],
-  [
-    "ceasefire",
-    14,
-    "https://www.theguardian.com/world/video/2026/apr/20/iran-war-energy-crisis-how-bad-could-it-get-the-latest"
-  ],
-  [
-    "job",
-    14,
-    "https://www.theguardian.com/film/2026/apr/20/charlize-theron-timothee-chalamet-ballet-comments"
-  ],
-  [
-    "cargo",
-    13,
-    "https://www.nytimes.com/2026/04/20/us/politics/military-blockade-iran-strait-hormuz.html"
-  ],
-  [
-    "israeli",
+    "military",
     13,
     "https://www.nytimes.com/2026/04/20/world/middleeast/israeli-soldier-lebanon-sledgehammer-jesus.html"
   ],
   [
-    "administration",
+    "step",
     13,
-    "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html"
+    "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html"
   ],
   [
-    "murder",
+    "chief",
+    13,
+    "https://www.nytimes.com/2026/01/08/technology/apple-ceo-tim-cook-john-ternus.html"
+  ],
+  [
+    "early",
+    13,
+    "https://www.nytimes.com/2026/03/27/us/elections/virginia-redistricting-early-vote-tracker.html"
+  ],
+  [
+    "charged",
     13,
     "https://www.nytimes.com/2026/04/20/arts/music/d4vd-murder-charges-celeste-rivas-hernandez.html"
   ],
   [
-    "family",
+    "wife",
     13,
-    "https://www.nytimes.com/2026/04/20/arts/john-keats-letters-fanny-brawne-stolen.html"
+    "https://www.nytimes.com/2026/04/20/nyregion/gilgo-beach-killer-wife-peacock-documentary.html"
+  ],
+  [
+    "police",
+    13,
+    "https://www.washingtonpost.com/nation/2026/04/20/louisiana-shooting-mental-health/"
   ],
   [
     "review",
@@ -266,29 +281,9 @@
     "https://www.washingtonpost.com/politics/2026/04/20/supreme-court-colorado-preschools/"
   ],
   [
-    "authorities",
+    "air",
     13,
-    "https://www.washingtonpost.com/nation/2026/04/20/planned-fight-fatal-shooting-winston-salem/"
-  ],
-  [
-    "questions",
-    13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "investigation",
-    13,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
-  ],
-  [
-    "team",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "mexico",
-    13,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "buying",
@@ -301,78 +296,83 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/20/best-thc-drinks"
   ],
   [
-    "far",
+    "feel",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/20/rfk-jr-podcast-maha-health"
+    "https://www.theguardian.com/thefilter-us/2026/apr/20/best-thc-drinks"
+  ],
+  [
+    "donald",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer"
+  ],
+  [
+    "media",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer"
+  ],
+  [
+    "arrested",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/20/ice-detain-wife-army-member"
+  ],
+  [
+    "car",
+    13,
+    "https://www.theguardian.com/music/2026/apr/20/singer-d4vd-charged-murder"
   ],
   [
     "political",
     13,
-    "https://www.theguardian.com/commentisfree/2026/apr/19/jd-vance-donald-trump-vice-president-maga"
-  ],
-  [
-    "support",
-    13,
-    "https://www.theguardian.com/sport/2026/apr/20/lebron-james-is-41-and-hes-somehow-still-carrying-his-team-in-the-playoffs"
-  ],
-  [
-    "department",
-    13,
     "https://www.theguardian.com/us-news/2026/apr/20/trump-doj-epstein-files-victims"
   ],
   [
-    "patel",
+    "comedy",
+    13,
+    "https://www.theguardian.com/stage/2026/apr/20/schmigadoon-broadway-review"
+  ],
+  [
+    "don",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/apr/20/hill-i-will-die-on-bucket-lists"
+  ],
+  [
+    "israeli",
+    12,
+    "https://www.nytimes.com/2026/04/20/world/middleeast/israeli-soldier-lebanon-sledgehammer-jesus.html"
+  ],
+  [
+    "talks",
+    12,
+    "https://www.nytimes.com/2026/04/20/briefing/a-new-apple-ceo.html"
+  ],
+  [
+    "million",
     12,
     "https://www.nytimes.com/2026/04/20/us/politics/kash-patel-atlantic-article-alcohol-drinking-fbi-lawsuit.html"
   ],
   [
-    "atlantic",
+    "support",
     12,
-    "https://www.nytimes.com/2026/04/20/us/politics/kash-patel-atlantic-article-alcohol-drinking-fbi-lawsuit.html"
+    "https://www.nytimes.com/2026/04/20/us/california-governor-democrat-betty-yee.html"
   ],
   [
-    "supreme",
-    12,
-    "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html"
-  ],
-  [
-    "senate",
+    "democrats",
     12,
     "https://www.nytimes.com/2026/04/20/upshot/democrats-senate-midterms-chances.html"
   ],
   [
-    "republican",
+    "texas",
     12,
-    "https://www.nytimes.com/2026/04/20/upshot/democrats-senate-midterms-chances.html"
+    "https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html"
   ],
   [
-    "virginia",
+    "video",
     12,
-    "https://www.nytimes.com/2026/03/27/us/elections/virginia-redistricting-early-vote-tracker.html"
+    "https://www.nytimes.com/2026/04/20/science/reid-wiseman-earthset-photo-artemis-2.html"
   ],
   [
-    "early",
+    "york",
     12,
-    "https://www.nytimes.com/2026/03/27/us/elections/virginia-redistricting-early-vote-tracker.html"
-  ],
-  [
-    "power",
-    12,
-    "https://www.nytimes.com/2026/04/20/us/politics/a-squabble-in-dc-yields-chaos-in-el-paso.html"
-  ],
-  [
-    "louisiana",
-    12,
-    "https://www.nytimes.com/2026/04/20/us/shreveport-louisiana-killings-shamar-elkins.html"
-  ],
-  [
-    "hear",
-    12,
-    "https://www.nytimes.com/2026/04/20/us/politics/supreme-court-catholic-preschools.html"
-  ],
-  [
-    "recent",
-    12,
-    "https://www.washingtonpost.com/nation/2026/04/19/louisiana-shooting/"
+    "https://www.nytimes.com/2026/04/20/nyregion/new-york-chess-kids.html"
   ]
 ];
