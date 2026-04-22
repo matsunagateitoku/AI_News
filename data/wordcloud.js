@@ -2,18 +2,18 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    95,
-    "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html"
+    92,
+    "https://www.nytimes.com/2026/04/21/us/politics/2015-iran-nuclear-deal.html"
   ],
   [
     "iran",
-    55,
-    "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html"
+    47,
+    "https://www.nytimes.com/2026/04/21/us/politics/2015-iran-nuclear-deal.html"
   ],
   [
     "president",
-    41,
-    "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html"
+    38,
+    "https://www.nytimes.com/2026/04/21/us/politics/2015-iran-nuclear-deal.html"
   ],
   [
     "game",
@@ -22,63 +22,43 @@
   ],
   [
     "court",
-    30,
-    "https://www.nytimes.com/2026/04/21/us/appeals-court-upholds-texas-ten-commandments-law.html"
-  ],
-  [
-    "ceasefire",
-    29,
-    "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east"
+    31,
+    "https://www.washingtonpost.com/nation/2026/04/22/kansas-mayor-noncitizen-voting/"
   ],
   [
     "war",
-    27,
-    "https://www.nytimes.com/2026/04/21/us/politics/tucker-carlson-trump-apology.html"
-  ],
-  [
-    "virginia",
-    26,
-    "https://www.nytimes.com/2026/04/21/us/elections/redistricting-gerrymandering-virginia-takeaways.html"
-  ],
-  [
-    "democrats",
-    26,
-    "https://www.nytimes.com/2026/04/21/us/elections/redistricting-gerrymandering-virginia-takeaways.html"
-  ],
-  [
-    "law",
-    26,
-    "https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html"
-  ],
-  [
-    "voters",
-    23,
-    "https://www.theguardian.com/us-news/2026/apr/21/virginia-congressional-maps"
+    29,
+    "https://www.nytimes.com/2026/04/21/us/politics/2015-iran-nuclear-deal.html"
   ],
   [
     "california",
-    22,
-    "https://www.theguardian.com/us-news/2026/apr/21/california-lego-pasta-swap-arrest"
+    21,
+    "https://www.nytimes.com/2026/04/22/us/california-hospice-fraud.html"
   ],
   [
     "children",
-    20,
-    "https://www.nytimes.com/2026/04/21/us/man-charged-providing-gun-shreveport-shooter.html"
-  ],
-  [
-    "cook",
-    19,
-    "https://www.nytimes.com/2026/04/21/style/tim-cook-apple-ceo-fashion.html"
-  ],
-  [
-    "social",
-    19,
+    21,
     "https://www.washingtonpost.com/nation/2026/04/21/louisiana-shooting-children-eight-killed/"
   ],
   [
-    "job",
+    "senate",
+    20,
+    "https://www.theguardian.com/us-news/live/2026/apr/22/virginia-congressional-map-vote-redistricting-donald-trump-republicans-democrats-us-latest-news-updates"
+  ],
+  [
+    "night",
     19,
-    "https://www.theguardian.com/film/2026/apr/22/the-last-spy-review-former-cia-station-chief-tells-it-like-it-was-from-inside-the-tent"
+    "https://www.nytimes.com/2026/04/22/arts/television/michael-kosta-chavez-deremer.html"
+  ],
+  [
+    "york",
+    19,
+    "https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens"
+  ],
+  [
+    "democrats",
+    18,
+    "https://www.nytimes.com/2026/04/22/podcasts/the-headlines/virginia-referendum-influencers-nicotine.html"
   ],
   [
     "family",
@@ -86,204 +66,154 @@
     "https://www.washingtonpost.com/nation/2026/04/20/louisiana-shooting-mental-health/"
   ],
   [
-    "redistricting",
+    "job",
     18,
-    "https://www.theguardian.com/us-news/2026/apr/21/virginia-congressional-maps"
+    "https://www.theguardian.com/football/2026/apr/22/liam-rosenior-on-brink-of-losing-job-chelsea-review-brighton-defeat"
   ],
   [
-    "israel",
+    "company",
     17,
-    "https://www.nytimes.com/video/world/middleeast/100000010848993/what-i-saw-crossing-into-south-lebanon.html"
+    "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html"
   ],
   [
-    "talks",
-    17,
-    "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html"
-  ],
-  [
-    "apple",
-    17,
-    "https://www.nytimes.com/2026/04/21/style/tim-cook-apple-ceo-fashion.html"
-  ],
-  [
-    "night",
+    "secretary",
     17,
     "https://www.nytimes.com/2026/04/22/arts/television/michael-kosta-chavez-deremer.html"
   ],
   [
-    "military",
+    "air",
     17,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "rights",
-    16,
-    "https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html"
+    "https://www.nytimes.com/2026/04/22/us/jfk-airport-jets-near-collision.html"
   ],
   [
     "israeli",
-    16,
-    "https://www.nytimes.com/2026/04/21/opinion/israel-lebanon-netanyahu-hezbollah-friedman.html"
+    17,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "media",
-    16,
-    "https://www.washingtonpost.com/nation/2026/04/21/louisiana-shooting-children-eight-killed/"
+    "died",
+    17,
+    "https://www.theguardian.com/technology/2026/apr/22/amazon-workplace-safety-record"
   ],
   [
-    "shooting",
+    "virginia",
     16,
-    "https://www.washingtonpost.com/nation/2026/04/20/louisiana-shooting-mental-health/"
+    "https://www.nytimes.com/2026/04/22/us/elections/virginia-redistricting-trump-democrats.html"
   ],
   [
-    "york",
+    "review",
     16,
-    "https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens"
-  ],
-  [
-    "buying",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/apr/17/earth-day-deals-sustainable-brands"
-  ],
-  [
-    "fewer",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/apr/17/earth-day-deals-sustainable-brands"
+    "https://www.washingtonpost.com/politics/2026/04/20/supreme-court-colorado-preschools/"
   ],
   [
     "florida",
     16,
-    "https://www.theguardian.com/us-news/2026/apr/21/florida-openai-chatgpt-investigation"
+    "https://www.theguardian.com/us-news/live/2026/apr/22/virginia-congressional-map-vote-redistricting-donald-trump-republicans-democrats-us-latest-news-updates"
   ],
   [
-    "peace",
+    "fire",
     15,
-    "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html"
+    "https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html"
   ],
   [
-    "texas",
+    "fewer",
     15,
-    "https://www.nytimes.com/2026/04/21/us/appeals-court-upholds-texas-ten-commandments-law.html"
+    "https://www.nytimes.com/2026/04/22/science/trump-nih-funding-research.html"
   ],
   [
-    "million",
+    "early",
     15,
-    "https://www.nytimes.com/2026/04/21/arts/design/national-gallery-art-gift-mitchell-rales.html"
+    "https://www.nytimes.com/2026/04/22/science/astronomy-hetdex-dark-sky-energy.html"
   ],
   [
-    "filter",
+    "middle",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/apr/17/earth-day-deals-sustainable-brands"
+    "https://www.washingtonpost.com/nation/2026/04/20/planned-fight-fatal-shooting-winston-salem/"
   ],
   [
-    "email",
+    "ceasefire",
     15,
-    "https://www.theguardian.com/us-news/2026/apr/21/doj-southern-poverty-law-center-investigation"
+    "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east"
+  ],
+  [
+    "peter",
+    15,
+    "https://www.theguardian.com/artanddesign/2026/apr/22/emma-robot-care-home-paula-hornickel-best-photograph"
+  ],
+  [
+    "social",
+    14,
+    "https://www.nytimes.com/2026/04/22/science/free-birth-wild-pregancy-risks-home-birth.html"
+  ],
+  [
+    "west",
+    14,
+    "https://www.nytimes.com/2026/04/22/science/astronomy-hetdex-dark-sky-energy.html"
+  ],
+  [
+    "police",
+    14,
+    "https://www.washingtonpost.com/nation/2026/04/22/louisiana-shooing-gun-charles-ford/"
+  ],
+  [
+    "gaza",
+    14,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "ago",
+    14,
+    "https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens"
+  ],
+  [
+    "political",
+    14,
+    "https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens"
+  ],
+  [
+    "series",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/22/this-is-a-gardening-show-review-zach-galifianakis-netflix"
+  ],
+  [
+    "almost",
+    14,
+    "https://www.theguardian.com/sport/2026/apr/22/fernando-mendoza-nfl-draft-quarterback"
+  ],
+  [
+    "book",
+    14,
+    "https://www.theguardian.com/global/commentisfree/2026/apr/22/usha-vance-podcast"
   ],
   [
     "food",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/apr/21/the-guardian-view-on-the-true-cost-of-the-iran-war-bombs-kill-but-so-does-the-economic-fallout"
-  ],
-  [
-    "party",
     14,
-    "https://www.nytimes.com/2026/04/21/us/elections/heres-what-the-new-virginia-house-map-looks-like.html"
+    "https://www.theguardian.com/world/2026/apr/22/gibraltar-monkeys-eat-mud-avoid-upset-stomachs-tourists-junk-food"
   ],
   [
-    "secretary",
+    "buying",
     14,
-    "https://www.nytimes.com/2026/04/21/us/politics/rfk-jr-vaccines-erica-schwartz.html"
+    "https://www.theguardian.com/society/2026/apr/21/bill-banning-people-born-after-2008-from-buying-tobacco-clears-uk-parliament"
   ],
   [
-    "because",
-    14,
-    "https://www.washingtonpost.com/politics/2026/04/20/supreme-court-colorado-preschools/"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east"
-  ],
-  [
-    "died",
-    14,
-    "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east"
-  ],
-  [
-    "fraud",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/21/doj-southern-poverty-law-center-investigation"
-  ],
-  [
-    "announced",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/21/doj-southern-poverty-law-center-investigation"
-  ],
-  [
-    "company",
-    14,
-    "https://www.theguardian.com/technology/2026/apr/21/apple-tim-cook-privacy"
-  ],
-  [
-    "games",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/apr/22/zen-virtual-power-washer-gaming-life-simulator-games"
-  ],
-  [
-    "car",
-    14,
-    "https://www.theguardian.com/world/2026/apr/21/mexico-drug-raid-cia-agents-embassy-investigation"
-  ],
-  [
-    "race",
+    "prices",
     13,
-    "https://www.nytimes.com/2026/04/21/us/elections/democrats-republicans-gerrymandering-maps.html"
+    "https://www.nytimes.com/2026/04/22/business/iran-war-oil-hoarding.html"
   ],
   [
-    "southern",
+    "law",
     13,
-    "https://www.nytimes.com/video/world/middleeast/100000010848993/what-i-saw-crossing-into-south-lebanon.html"
+    "https://www.nytimes.com/2026/04/22/us/politics/doctors-insurers-arbitration.html"
   ],
   [
-    "americans",
+    "traffic",
     13,
-    "https://www.nytimes.com/2026/04/21/world/middleeast/us-iraq-security-cooperation.html"
+    "https://www.nytimes.com/2026/04/22/arts/music/dave-mason-dead.html"
   ],
   [
-    "justice",
+    "shooting",
     13,
-    "https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html"
-  ],
-  [
-    "accused",
-    13,
-    "https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html"
-  ],
-  [
-    "chief",
-    13,
-    "https://www.nytimes.com/2026/04/21/us/politics/justice-dept-john-brennan-subpoenas.html"
-  ],
-  [
-    "democratic",
-    13,
-    "https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html"
-  ],
-  [
-    "culture",
-    13,
-    "https://www.nytimes.com/2026/04/21/style/tim-cook-apple-ceo-fashion.html"
-  ],
-  [
-    "biggest",
-    13,
-    "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html"
-  ],
-  [
-    "killed",
-    13,
-    "https://www.washingtonpost.com/nation/2026/04/21/louisiana-shooting-children-eight-killed/"
+    "https://www.washingtonpost.com/nation/2026/04/22/louisiana-shooing-gun-charles-ford/"
   ],
   [
     "school",
@@ -291,88 +221,158 @@
     "https://www.washingtonpost.com/nation/2026/04/20/planned-fight-fatal-shooting-winston-salem/"
   ],
   [
-    "review",
+    "million",
     13,
-    "https://www.washingtonpost.com/politics/2026/04/20/supreme-court-colorado-preschools/"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "team",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "guide",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/17/earth-day-deals-sustainable-brands"
-  ],
-  [
-    "something",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/apr/22/donald-trump-appeasement-peter-mandelson-keir-starmer-ethical-void"
-  ],
-  [
-    "others",
+    "strait",
     13,
     "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east"
   ],
   [
-    "role",
+    "hormuz",
     13,
-    "https://www.theguardian.com/world/2026/apr/22/israel-death-penalty-law-rights-body-council-of-europe"
+    "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east"
   ],
   [
-    "lives",
+    "car",
     13,
-    "https://www.theguardian.com/commentisfree/2026/apr/21/trump-military-pentagon-budget"
+    "https://www.theguardian.com/us-news/2026/apr/22/arizona-toddler-rescue-traffic"
   ],
   [
-    "instead",
+    "hand",
     13,
-    "https://www.theguardian.com/commentisfree/2026/apr/22/zen-virtual-power-washer-gaming-life-simulator-games"
+    "https://www.theguardian.com/music/2026/apr/20/annea-lockwood-seance-for-beethoven"
   ],
   [
-    "seats",
-    12,
-    "https://www.nytimes.com/2026/04/21/us/elections/redistricting-gerrymandering-virginia-takeaways.html"
+    "filter",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/apr/20/best-thc-drinks"
   ],
   [
-    "win",
+    "because",
     12,
-    "https://www.nytimes.com/2026/04/21/us/elections/redistricting-gerrymandering-virginia-takeaways.html"
-  ],
-  [
-    "fire",
-    12,
-    "https://www.nytimes.com/video/world/middleeast/100000010848993/what-i-saw-crossing-into-south-lebanon.html"
-  ],
-  [
-    "department",
-    12,
-    "https://www.nytimes.com/2026/04/21/us/politics/justice-dept-john-brennan-subpoenas.html"
-  ],
-  [
-    "congressional",
-    12,
-    "https://www.nytimes.com/2026/04/21/us/politics/rfk-jr-vaccines-erica-schwartz.html"
+    "https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html"
   ],
   [
     "money",
     12,
-    "https://www.nytimes.com/2026/04/21/us/politics/homeland-security-tsa-paychecks-mullin.html"
+    "https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html"
   ],
   [
-    "mass",
+    "media",
     12,
-    "https://www.washingtonpost.com/nation/2026/04/20/louisiana-shooting-mental-health/"
+    "https://www.nytimes.com/2026/04/22/science/free-birth-wild-pregancy-risks-home-birth.html"
   ],
   [
-    "early",
+    "late",
     12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/04/22/arts/television/michael-kosta-chavez-deremer.html"
+  ],
+  [
+    "administration",
+    12,
+    "https://www.nytimes.com/2026/04/22/us/california-hospice-fraud.html"
+  ],
+  [
+    "american",
+    12,
+    "https://www.nytimes.com/2026/04/22/us/jfk-airport-jets-near-collision.html"
+  ],
+  [
+    "recent",
+    12,
+    "https://www.nytimes.com/2026/04/22/us/jfk-airport-jets-near-collision.html"
   ],
   [
     "country",
     12,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/04/22/world/asia/japan-earthquake-megaquake-tsunami.html"
+  ],
+  [
+    "again",
+    12,
+    "https://www.washingtonpost.com/nation/2026/04/21/rachel-goldberg-polin-book-when-we-see-you-again/"
+  ],
+  [
+    "trump's",
+    12,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "black",
+    12,
+    "https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens"
+  ],
+  [
+    "video",
+    12,
+    "https://www.theguardian.com/us-news/2026/apr/22/arizona-toddler-rescue-traffic"
+  ],
+  [
+    "season",
+    12,
+    "https://www.theguardian.com/sport/2026/apr/22/fernando-mendoza-nfl-draft-quarterback"
+  ],
+  [
+    "room",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/22/a-moment-that-changed-me-i-thought-landlords-were-unchallengeable-until-i-met-one-of-mine-at-a-party"
+  ],
+  [
+    "dead",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/apr/22/donald-trump-appeasement-peter-mandelson-keir-starmer-ethical-void"
+  ],
+  [
+    "higher",
+    11,
+    "https://www.nytimes.com/2026/04/22/business/iran-war-oil-hoarding.html"
+  ],
+  [
+    "win",
+    11,
+    "https://www.nytimes.com/2026/04/22/podcasts/the-headlines/virginia-referendum-influencers-nicotine.html"
+  ],
+  [
+    "redistricting",
+    11,
+    "https://www.nytimes.com/2026/04/22/us/elections/virginia-redistricting-trump-democrats.html"
+  ],
+  [
+    "loss",
+    11,
+    "https://www.nytimes.com/2026/04/22/science/trump-nih-funding-research.html"
+  ],
+  [
+    "rates",
+    11,
+    "https://www.nytimes.com/2026/04/22/business/trumps-warsh-fed-sock-puppet.html"
+  ],
+  [
+    "global",
+    11,
+    "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html"
+  ],
+  [
+    "career",
+    11,
+    "https://www.nytimes.com/2026/04/22/arts/music/dave-mason-dead.html"
+  ],
+  [
+    "texas",
+    11,
+    "https://www.nytimes.com/2026/04/22/science/astronomy-hetdex-dark-sky-energy.html"
+  ],
+  [
+    "earth",
+    11,
+    "https://www.nytimes.com/2026/04/22/science/astronomy-hetdex-dark-sky-energy.html"
+  ],
+  [
+    "talks",
+    11,
+    "https://www.nytimes.com/2026/04/22/opinion/graham-platner-forever-war-trump.html"
   ]
 ];
