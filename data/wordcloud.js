@@ -2,83 +2,88 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    85,
-    "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html"
-  ],
-  [
-    "president",
-    47,
-    "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html"
+    98,
+    "https://www.nytimes.com/2026/04/21/briefing/virginia-vote-trump-cease-fire.html"
   ],
   [
     "iran",
-    45,
+    57,
+    "https://www.nytimes.com/2026/04/21/briefing/virginia-vote-trump-cease-fire.html"
+  ],
+  [
+    "president",
+    46,
     "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html"
   ],
   [
     "war",
-    30,
-    "https://www.nytimes.com/2026/04/21/world/middleeast/iran-war-europe-macron-france.html"
+    31,
+    "https://www.nytimes.com/2026/04/21/us/politics/tucker-carlson-trump-apology.html"
   ],
   [
-    "warsh",
-    27,
-    "https://www.nytimes.com/2026/04/21/business/kevin-warsh-fed-chair-hearing-trump-independence.html"
+    "virginia",
+    29,
+    "https://www.nytimes.com/2026/04/21/us/elections/redistricting-gerrymandering-virginia-takeaways.html"
+  ],
+  [
+    "ceasefire",
+    29,
+    "https://www.theguardian.com/world/2026/apr/21/push-to-bring-us-and-iran-together-for-peace-talks-as-ceasefire-deadline-looms"
   ],
   [
     "game",
-    27,
-    "https://www.theguardian.com/global/2026/apr/21/four-key-takeaways-from-apple-change-of-leadership"
+    28,
+    "https://www.nytimes.com/2026/04/21/nyregion/mets-mamdani-curse.html"
   ],
   [
-    "killed",
+    "democrats",
+    25,
+    "https://www.nytimes.com/2026/04/21/us/elections/redistricting-gerrymandering-virginia-takeaways.html"
+  ],
+  [
+    "voters",
     24,
+    "https://www.theguardian.com/us-news/2026/apr/21/virginia-congressional-maps"
+  ],
+  [
+    "shooting",
+    23,
     "https://www.nytimes.com/2026/04/21/world/americas/mexico-shooting-tourists-teotihuacan-pyramids.html"
   ],
   [
-    "talks",
+    "children",
     23,
-    "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html"
+    "https://www.washingtonpost.com/nation/2026/04/21/louisiana-shooting-children-eight-killed/"
+  ],
+  [
+    "court",
+    22,
+    "https://www.nytimes.com/2026/04/21/us/appeals-court-upholds-texas-ten-commandments-law.html"
+  ],
+  [
+    "law",
+    21,
+    "https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html"
+  ],
+  [
+    "california",
+    21,
+    "https://www.theguardian.com/us-news/2026/apr/21/florida-openai-chatgpt-investigation"
   ],
   [
     "family",
-    23,
+    20,
     "https://www.washingtonpost.com/nation/2026/04/20/louisiana-shooting-mental-health/"
   ],
   [
-    "kevin",
-    21,
-    "https://www.nytimes.com/2026/04/21/business/kevin-warsh-fed-chair-hearing-trump-independence.html"
+    "apple",
+    19,
+    "https://www.nytimes.com/2026/04/21/style/tim-cook-apple-ceo-fashion.html"
   ],
   [
-    "company",
-    21,
-    "https://www.theguardian.com/us-news/2026/apr/21/sheila-cherfilus-mccormick-congress-democrat-resignation"
-  ],
-  [
-    "senate",
-    21,
-    "https://www.npr.org/2026/04/21/nx-s1-5787863/federal-reserve-kevin-warsh-confirmation-hearing"
-  ],
-  [
-    "investigation",
-    20,
-    "https://www.nytimes.com/2026/04/21/business/kevin-warsh-fed-chair-hearing-trump-independence.html"
-  ],
-  [
-    "film",
-    20,
-    "https://www.nytimes.com/2026/04/21/style/the-devil-wears-prada-2-premiere.html"
-  ],
-  [
-    "trump's",
-    20,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "job",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/apr/21/terrible-poll-ratings-would-bother-some-politicians-donald-trump-isnt-one-of-them"
+    "school",
+    19,
+    "https://www.nytimes.com/2026/04/21/world/americas/mexico-shooting-tourists-teotihuacan-pyramids.html"
   ],
   [
     "peace",
@@ -86,24 +91,9 @@
     "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html"
   ],
   [
-    "cherfilus",
+    "cook",
     18,
-    "https://www.nytimes.com/2026/04/21/us/cherfilus-mccormick-florida.html"
-  ],
-  [
-    "mccormick",
-    18,
-    "https://www.nytimes.com/2026/04/21/us/cherfilus-mccormick-florida.html"
-  ],
-  [
-    "congress",
-    18,
-    "https://www.nytimes.com/2026/04/21/us/cherfilus-mccormick-florida.html"
-  ],
-  [
-    "children",
-    18,
-    "https://www.washingtonpost.com/nation/2026/04/21/louisiana-shooting-children-eight-killed/"
+    "https://www.nytimes.com/2026/04/21/style/tim-cook-apple-ceo-fashion.html"
   ],
   [
     "donald",
@@ -111,129 +101,94 @@
     "https://www.theguardian.com/commentisfree/2026/apr/21/trump-military-pentagon-budget"
   ],
   [
-    "chair",
-    17,
-    "https://www.nytimes.com/2026/04/21/business/kevin-warsh-fed-chair-hearing-trump-independence.html"
+    "redistricting",
+    18,
+    "https://www.theguardian.com/us-news/2026/apr/21/virginia-congressional-maps"
   ],
   [
-    "shooting",
-    17,
-    "https://www.nytimes.com/2026/04/21/us/florida-criminal-investigation-openai-chatgpt-fsu-shooting.html"
+    "food",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/21/what-really-controls-appetite-hunger-stress-or-habit"
   ],
   [
-    "early",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "job",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/apr/21/terrible-poll-ratings-would-bother-some-politicians-donald-trump-isnt-one-of-them"
   ],
   [
-    "night",
+    "talks",
     17,
-    "https://www.theguardian.com/wellness/2026/apr/21/falling-asleep-without-partner-relationships-advice"
+    "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html"
+  ],
+  [
+    "military",
+    16,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "florida",
     16,
-    "https://www.nytimes.com/2026/04/21/us/cherfilus-mccormick-florida.html"
-  ],
-  [
-    "million",
-    16,
-    "https://www.nytimes.com/2026/04/21/us/cherfilus-mccormick-florida.html"
-  ],
-  [
-    "committee",
-    16,
-    "https://www.nytimes.com/2026/04/21/us/cherfilus-mccormick-florida.html"
-  ],
-  [
-    "virginia",
-    16,
-    "https://www.nytimes.com/2026/04/21/us/elections/virginia-redistricting-referendum-what-to-watch.html"
-  ],
-  [
-    "american",
-    16,
-    "https://www.nytimes.com/2026/04/21/world/europe/donnyland-ukraine-donbas-trump.html"
-  ],
-  [
-    "died",
-    16,
-    "https://www.nytimes.com/2026/04/21/opinion/measles-child-britain-vaccination.html"
-  ],
-  [
-    "rights",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/21/doj-southern-poverty-law-center-investigation"
+    "https://www.theguardian.com/us-news/2026/apr/21/shreveport-shooting-black-women-children-domestic-violence"
   ],
   [
     "buying",
     16,
-    "https://www.theguardian.com/society/2026/apr/21/bill-banning-people-born-after-2008-from-buying-tobacco-clears-uk-parliament"
+    "https://www.theguardian.com/thefilter-us/2026/apr/17/earth-day-deals-sustainable-brands"
   ],
   [
     "fewer",
     16,
-    "https://www.theguardian.com/music/2026/apr/18/madonna-i-feel-so-free-review-album-teaser-hypnotic-glimpse-return-club-scene-roots"
+    "https://www.theguardian.com/thefilter-us/2026/apr/17/earth-day-deals-sustainable-brands"
   ],
   [
-    "reserve",
+    "texas",
     15,
-    "https://www.nytimes.com/2026/04/21/business/kevin-warsh-fed-chair-hearing-trump-independence.html"
+    "https://www.nytimes.com/2026/04/21/us/appeals-court-upholds-texas-ten-commandments-law.html"
   ],
   [
-    "southern",
-    15,
-    "https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html"
-  ],
-  [
-    "law",
-    15,
-    "https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html"
-  ],
-  [
-    "criminal",
-    15,
-    "https://www.nytimes.com/2026/04/21/us/florida-criminal-investigation-openai-chatgpt-fsu-shooting.html"
-  ],
-  [
-    "others",
+    "killed",
     15,
     "https://www.nytimes.com/2026/04/21/world/americas/mexico-shooting-tourists-teotihuacan-pyramids.html"
   ],
   [
-    "mexico",
+    "team",
     15,
-    "https://www.nytimes.com/2026/04/21/world/americas/americans-cia-mexico-crash.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "social",
-    15,
-    "https://www.washingtonpost.com/nation/2026/04/21/louisiana-shooting-children-eight-killed/"
-  ],
-  [
-    "because",
-    15,
-    "https://www.washingtonpost.com/politics/2026/04/20/supreme-court-colorado-preschools/"
-  ],
-  [
-    "don",
+    "night",
     15,
     "https://www.theguardian.com/wellness/2026/apr/21/falling-asleep-without-partner-relationships-advice"
   ],
   [
-    "series",
+    "announced",
     15,
-    "https://www.theguardian.com/film/2026/apr/21/ai-film-soderbergh-aronofsky"
+    "https://www.theguardian.com/world/2026/apr/21/push-to-bring-us-and-iran-together-for-peace-talks-as-ceasefire-deadline-looms"
   ],
   [
-    "ceasefire",
+    "company",
     15,
-    "https://www.theguardian.com/world/live/2026/apr/21/iran-war-live-news-updates-trump-us-hormuz-oil-middle-east-talks"
+    "https://www.theguardian.com/us-news/2026/apr/21/florida-openai-chatgpt-investigation"
   ],
   [
     "filter",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/apr/20/best-thc-drinks"
+    "https://www.theguardian.com/thefilter-us/2026/apr/17/earth-day-deals-sustainable-brands"
+  ],
+  [
+    "died",
+    15,
+    "https://www.theguardian.com/world/2026/apr/21/mexico-drug-raid-cia-agents-embassy-investigation"
+  ],
+  [
+    "party",
+    14,
+    "https://www.nytimes.com/2026/04/21/us/elections/heres-what-the-new-virginia-house-map-looks-like.html"
+  ],
+  [
+    "israel",
+    14,
+    "https://www.nytimes.com/video/world/middleeast/100000010848993/what-i-saw-crossing-into-south-lebanon.html"
   ],
   [
     "americans",
@@ -241,39 +196,19 @@
     "https://www.nytimes.com/2026/04/21/world/middleeast/us-iraq-security-cooperation.html"
   ],
   [
-    "role",
+    "justice",
     14,
-    "https://www.nytimes.com/2026/04/21/world/middleeast/iran-war-europe-macron-france.html"
+    "https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html"
   ],
   [
-    "fed",
-    14,
-    "https://www.nytimes.com/2026/04/21/business/kevin-warsh-fed-chair-hearing-trump-independence.html"
-  ],
-  [
-    "ethics",
-    14,
-    "https://www.nytimes.com/2026/04/21/us/cherfilus-mccormick-florida.html"
-  ],
-  [
-    "york",
-    14,
-    "https://www.nytimes.com/2026/04/21/opinion/ezra-klein-podcast-alex-bores.html"
-  ],
-  [
-    "led",
-    14,
-    "https://www.nytimes.com/2026/04/21/world/americas/americans-cia-mexico-crash.html"
-  ],
-  [
-    "media",
+    "social",
     14,
     "https://www.washingtonpost.com/nation/2026/04/21/louisiana-shooting-children-eight-killed/"
   ],
   [
-    "court",
+    "defense",
     14,
-    "https://www.washingtonpost.com/politics/2026/04/20/supreme-court-colorado-preschools/"
+    "https://www.washingtonpost.com/national-security/2026/04/20/kabul-airport-bombing-trial-virginia/"
   ],
   [
     "review",
@@ -281,84 +216,99 @@
     "https://www.washingtonpost.com/politics/2026/04/20/supreme-court-colorado-preschools/"
   ],
   [
-    "food",
+    "country",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/21/what-really-controls-appetite-hunger-stress-or-habit"
+    "https://www.washingtonpost.com/nation/2026/04/19/louisiana-shooting/"
   ],
   [
-    "guide",
+    "film",
     14,
-    "https://www.theguardian.com/environment/2026/apr/21/rhinos-on-the-high-street-human-wildlife-conflict-nepal-aoe"
+    "https://www.theguardian.com/film/2026/apr/21/ai-film-soderbergh-aronofsky"
   ],
   [
-    "democratic",
-    13,
-    "https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html"
-  ],
-  [
-    "democrat",
-    13,
-    "https://www.nytimes.com/2026/04/21/us/cherfilus-mccormick-florida.html"
-  ],
-  [
-    "voters",
-    13,
-    "https://www.nytimes.com/2026/04/21/us/elections/virginia-redistricting-referendum-what-to-watch.html"
-  ],
-  [
-    "death",
-    13,
-    "https://www.nytimes.com/2026/04/21/us/politics/usaid-former-employees.html"
-  ],
-  [
-    "global",
-    13,
-    "https://www.nytimes.com/2026/04/21/world/europe/donnyland-ukraine-donbas-trump.html"
-  ],
-  [
-    "gunman",
-    13,
-    "https://www.nytimes.com/2026/04/21/world/americas/mexico-shooting-tourists-teotihuacan-pyramids.html"
-  ],
-  [
-    "released",
-    13,
-    "https://www.nytimes.com/2026/04/21/us/ohio-state-walter-carter-relationship-president-resignation.html"
-  ],
-  [
-    "questions",
-    13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "power",
-    13,
-    "https://www.theguardian.com/world/2026/apr/21/omer-bartov-israel-zionism-genocide"
+    "fraud",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/21/doj-southern-poverty-law-center-investigation"
   ],
   [
     "car",
-    13,
-    "https://www.theguardian.com/world/2026/apr/21/mexico-drug-raid-cia-agents-embassy-investigation"
+    14,
+    "https://www.theguardian.com/technology/2026/apr/21/chatgpt-abusive-language-when-fed-real-life-arguments-study"
   ],
   [
-    "feel",
+    "seats",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/21/what-really-controls-appetite-hunger-stress-or-habit"
+    "https://www.nytimes.com/2026/04/21/us/elections/redistricting-gerrymandering-virginia-takeaways.html"
   ],
   [
-    "money",
+    "win",
     13,
-    "https://www.theguardian.com/books/2026/apr/21/ghost-stories-by-siri-hustvedt-review-life-after-paul-auster"
+    "https://www.nytimes.com/2026/04/21/us/elections/redistricting-gerrymandering-virginia-takeaways.html"
   ],
   [
-    "government",
+    "southern",
+    13,
+    "https://www.nytimes.com/video/world/middleeast/100000010848993/what-i-saw-crossing-into-south-lebanon.html"
+  ],
+  [
+    "culture",
+    13,
+    "https://www.nytimes.com/2026/04/21/style/tim-cook-apple-ceo-fashion.html"
+  ],
+  [
+    "media",
+    13,
+    "https://www.washingtonpost.com/nation/2026/04/21/louisiana-shooting-children-eight-killed/"
+  ],
+  [
+    "american",
+    13,
+    "https://www.washingtonpost.com/nation/2026/04/21/rachel-goldberg-polin-book-when-we-see-you-again/"
+  ],
+  [
+    "because",
+    13,
+    "https://www.washingtonpost.com/politics/2026/04/20/supreme-court-colorado-preschools/"
+  ],
+  [
+    "everything",
+    13,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "don",
+    13,
+    "https://www.theguardian.com/wellness/2026/apr/21/falling-asleep-without-partner-relationships-advice"
+  ],
+  [
+    "series",
+    13,
+    "https://www.theguardian.com/film/2026/apr/21/ai-film-soderbergh-aronofsky"
+  ],
+  [
+    "hours",
+    13,
+    "https://www.theguardian.com/world/2026/apr/21/push-to-bring-us-and-iran-together-for-peace-talks-as-ceasefire-deadline-looms"
+  ],
+  [
+    "guide",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/apr/17/earth-day-deals-sustainable-brands"
+  ],
+  [
+    "race",
     12,
-    "https://www.nytimes.com/2026/04/21/world/middleeast/us-iraq-security-cooperation.html"
+    "https://www.nytimes.com/2026/04/21/us/elections/democrats-republicans-gerrymandering-maps.html"
   ],
   [
-    "justice",
+    "charges",
     12,
-    "https://www.nytimes.com/2026/04/21/business/kevin-warsh-fed-chair-hearing-trump-independence.html"
+    "https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html"
+  ],
+  [
+    "rights",
+    12,
+    "https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html"
   ],
   [
     "center",
@@ -366,13 +316,63 @@
     "https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html"
   ],
   [
-    "sheila",
+    "department",
     12,
-    "https://www.nytimes.com/2026/04/21/us/cherfilus-mccormick-florida.html"
+    "https://www.nytimes.com/2026/04/21/us/politics/justice-dept-john-brennan-subpoenas.html"
   ],
   [
-    "announced",
+    "chief",
     12,
-    "https://www.nytimes.com/2026/04/21/us/cherfilus-mccormick-florida.html"
+    "https://www.nytimes.com/2026/04/21/us/politics/justice-dept-john-brennan-subpoenas.html"
+  ],
+  [
+    "democratic",
+    12,
+    "https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html"
+  ],
+  [
+    "congressional",
+    12,
+    "https://www.nytimes.com/2026/04/21/us/politics/rfk-jr-vaccines-erica-schwartz.html"
+  ],
+  [
+    "secretary",
+    12,
+    "https://www.nytimes.com/2026/04/21/us/politics/rfk-jr-vaccines-erica-schwartz.html"
+  ],
+  [
+    "decision",
+    12,
+    "https://www.nytimes.com/2026/04/21/us/appeals-court-upholds-texas-ten-commandments-law.html"
+  ],
+  [
+    "intelligence",
+    12,
+    "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html"
+  ],
+  [
+    "wrong",
+    12,
+    "https://www.nytimes.com/2026/04/21/opinion/yale-report-academia.html"
+  ],
+  [
+    "israeli",
+    12,
+    "https://www.nytimes.com/2026/04/21/opinion/israel-lebanon-netanyahu-hezbollah-friedman.html"
+  ],
+  [
+    "mass",
+    12,
+    "https://www.nytimes.com/2026/04/21/world/americas/mexico-shooting-tourists-teotihuacan-pyramids.html"
+  ],
+  [
+    "others",
+    12,
+    "https://www.nytimes.com/2026/04/21/world/americas/mexico-shooting-tourists-teotihuacan-pyramids.html"
+  ],
+  [
+    "million",
+    12,
+    "https://www.nytimes.com/2026/04/21/arts/design/national-gallery-art-gift-mitchell-rales.html"
   ]
 ];
