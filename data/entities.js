@@ -3,14 +3,8 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 23,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/21/trump-military-pentagon-budget",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump ’S",
-      "count": 17,
-      "url": "https://www.theguardian.com/culture/2026/apr/21/jon-stewart-donald-trump-iran",
+      "count": 38,
+      "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
       "source": "The Guardian"
     },
     {
@@ -21,14 +15,20 @@
     },
     {
       "name": "Kevin Warsh",
-      "count": 7,
+      "count": 8,
       "url": "https://www.theguardian.com/business/2026/apr/21/kevin-warsh-federal-reserve-senate-trump",
       "source": "The Guardian"
     },
     {
       "name": "Jesus     Sign",
-      "count": 6,
+      "count": 7,
       "url": "https://www.theguardian.com/us-news/2026/apr/21/trump-bible-passage-oval-office",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hormuz",
+      "count": 6,
+      "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
       "source": "The Guardian"
     },
     {
@@ -38,10 +38,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Sheila Cherfilus-Mccormick",
+      "name": "Madonna",
       "count": 6,
-      "url": "https://www.npr.org/2026/04/21/nx-s1-5793994/florida-democrat-rep-sheila-cherfilus-mccormick-facing-possible-expulsion-resigns",
-      "source": "NPR"
+      "url": "https://www.theguardian.com/music/2026/apr/18/madonna-i-feel-so-free-review-album-teaser-hypnotic-glimpse-return-club-scene-roots",
+      "source": "The Guardian"
     },
     {
       "name": "Francis",
@@ -50,85 +50,23 @@
       "source": "The Guardian"
     },
     {
-      "name": "Zohran Mamdani",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/04/21/nyregion/mets-mamdani-curse.html",
-      "source": "NY Times"
+      "name": "Coachella",
+      "count": 5,
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-04-21/madonna-coachella-outfit-missing-reward-vintage-sabrina-carpenter",
+      "source": "LA Times"
     },
     {
-      "name": "Virginia Woolf",
-      "count": 4,
-      "url": "https://www.theguardian.com/culture/2026/apr/22/the-hours-movie-nicole-kidman-nose-queer-classic",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 88,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/21/unregistered-americans-sovereign-citizen",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 52,
-      "url": "https://www.nytimes.com/2026/04/21/briefing/virginia-vote-trump-cease-fire.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New Virginia",
-      "count": 27,
-      "url": "https://www.nytimes.com/2026/04/21/us/elections/heres-what-the-new-virginia-house-map-looks-like.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 27,
-      "url": "https://www.nytimes.com/2026/04/21/world/middleeast/us-iraq-security-cooperation.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 21,
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/florida-openai-chatgpt-investigation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Chihuahua  Mexico",
-      "count": 15,
-      "url": "https://www.theguardian.com/world/2026/apr/21/mexico-drug-raid-cia-agents-embassy-investigation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Florida",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/shreveport-shooting-black-women-children-domestic-violence",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/04/21/us/appeals-court-upholds-texas-ten-commandments-law.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 12,
-      "url": "https://www.theguardian.com/world/2026/apr/22/ukraine-war-briefing-quick-loan-in-pipeline-as-druzhba-reopens",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 10,
-      "url": "https://www.nytimes.com/video/world/middleeast/100000010848993/what-i-saw-crossing-into-south-lebanon.html",
-      "source": "NY Times"
+      "name": "Kash Patel",
+      "count": 5,
+      "url": "https://www.foxnews.com/media/why-kash-patel-broadcast-alleged-drinking-issues-world-despite-denials-suing-atlantic",
+      "source": "Fox News"
     }
   ],
   "EVENT": [
     {
-      "name": "The Iran War",
+      "name": "Game 2    Spurs",
       "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/tucker-carlson-regrets-trump-support",
+      "url": "https://www.theguardian.com/sport/2026/apr/21/victor-wembanyama-injury-update-concussion-spurs-blazers",
       "source": "The Guardian"
     },
     {
@@ -138,78 +76,78 @@
       "source": "The Guardian"
     },
     {
-      "name": "Game 2    Spurs",
+      "name": "The Iran War",
       "count": 3,
-      "url": "https://www.theguardian.com/sport/2026/apr/21/victor-wembanyama-injury-update-concussion-spurs-blazers",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/21/the-guardian-view-on-the-true-cost-of-the-iran-war-bombs-kill-but-so-does-the-economic-fallout",
       "source": "The Guardian"
     },
     {
-      "name": "’S World Cup",
+      "name": "The World Cup",
       "count": 3,
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
-      "source": "The Guardian"
+      "url": "https://www.npr.org/2026/04/22/g-s1-118305/mexico-to-beef-up-security-at-tourist-sites",
+      "source": "NPR"
     },
     {
       "name": "Raiders Super Bowl",
-      "count": 3,
+      "count": 2,
       "url": "https://www.latimes.com/sports/story/2026-04-20/rod-martin-raiders-super-bowl-hero-usc-dies-obit",
       "source": "LA Times"
+    },
+    {
+      "name": "Black Friday",
+      "count": 1,
+      "url": "https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Holocaust",
+      "count": 1,
+      "url": "https://www.theguardian.com/film/2026/apr/22/the-last-spy-review-former-cia-station-chief-tells-it-like-it-was-from-inside-the-tent",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Cold War",
+      "count": 1,
+      "url": "https://www.theguardian.com/film/2026/apr/22/the-last-spy-review-former-cia-station-chief-tells-it-like-it-was-from-inside-the-tent",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Australian Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/apr/22/depression-candy-death-stares-secret-world-tennis-locker-room-coco-gauff-jannik-sinner",
+      "source": "The Guardian"
     },
     {
       "name": "Olympic",
       "count": 1,
       "url": "https://www.theguardian.com/commentisfree/2026/apr/21/olympics-trans-policy-ioc",
       "source": "The Guardian"
-    },
-    {
-      "name": "The Madrid Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/apr/21/jannik-sinner-carlos-alcaraz-novak-djokovic-madrid-open-tennis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Fa Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/apr/21/leicester-hull-championship-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Game Awards",
-      "count": 1,
-      "url": "https://www.theguardian.com/games/2026/apr/17/clair-obscur-and-dispatch-share-top-honours-at-bafta-games-awards",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Game 3",
-      "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/penguins-erik-karlsson-says-team-ready-get-pittsburgh-game-3-flyers",
-      "source": "Fox News"
     }
   ],
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 59,
+      "count": 53,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
       "name": "Ai",
-      "count": 32,
-      "url": "https://www.theguardian.com/wellness/2026/apr/21/falling-asleep-without-partner-relationships-advice",
+      "count": 33,
+      "url": "https://www.theguardian.com/technology/2026/apr/22/ai-hallucinations-found-in-high-profile-wall-street-law-firm-filing",
       "source": "The Guardian"
     },
     {
       "name": "Apple",
-      "count": 18,
+      "count": 16,
       "url": "https://www.nytimes.com/2026/04/21/style/tim-cook-apple-ceo-fashion.html",
       "source": "NY Times"
     },
     {
-      "name": "House Of Secrets, Asa Ellerup",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/gilgo-beach-serial-killer-confession-ex-wife-documentary",
-      "source": "The Guardian"
+      "name": "House Ethics Committee",
+      "count": 15,
+      "url": "https://www.cbsnews.com/news/rep-sheila-cherfilus-mccormick-resigns-ethics-hearing/",
+      "source": "CBS News"
     },
     {
       "name": "The Filter Us",
@@ -218,10 +156,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Congress",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/04/21/us/elections/redistricting-gerrymandering-virginia-takeaways.html",
-      "source": "NY Times"
+      "name": "Cia",
+      "count": 10,
+      "url": "https://www.theguardian.com/film/2026/apr/22/the-last-spy-review-former-cia-station-chief-tells-it-like-it-was-from-inside-the-tent",
+      "source": "The Guardian"
     },
     {
       "name": "Minnesota Senate",
@@ -230,23 +168,85 @@
       "source": "Politico"
     },
     {
-      "name": "Eu",
+      "name": "Congress",
       "count": 9,
-      "url": "https://www.theguardian.com/world/2026/apr/22/ukraine-war-briefing-quick-loan-in-pipeline-as-druzhba-reopens",
+      "url": "https://www.nytimes.com/2026/04/21/us/elections/redistricting-gerrymandering-virginia-takeaways.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Pentagon",
+      "count": 8,
+      "url": "https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens",
       "source": "The Guardian"
     },
     {
-      "name": "Nfl",
+      "name": "Fbi",
       "count": 8,
-      "url": "https://www.theguardian.com/sport/2026/apr/21/mike-vrabel-dianna-russini-photos-nfl",
+      "url": "https://www.theguardian.com/technology/2026/apr/21/apple-tim-cook-privacy",
       "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News",
-      "count": 8,
-      "url": "https://www.cbsnews.com/news/virginia-redistricting-results-gerrymandering/",
-      "source": "CBS News"
     }
   ],
-  "updated": "2026-04-22T04:10:06Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 77,
+      "url": "https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 52,
+      "url": "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New Virginia",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/04/21/us/elections/heres-what-the-new-virginia-house-map-looks-like.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/04/21/world/middleeast/us-iraq-security-cooperation.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 22,
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/california-lego-pasta-swap-arrest",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Chihuahua  Mexico",
+      "count": 17,
+      "url": "https://www.theguardian.com/world/2026/apr/21/mexico-drug-raid-cia-agents-embassy-investigation",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 14,
+      "url": "https://www.nytimes.com/video/world/middleeast/100000010848993/what-i-saw-crossing-into-south-lebanon.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York",
+      "count": 13,
+      "url": "https://www.theguardian.com/technology/2026/apr/22/ai-hallucinations-found-in-high-profile-wall-street-law-firm-filing",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Florida",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/florida-openai-chatgpt-investigation",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/04/21/us/appeals-court-upholds-texas-ten-commandments-law.html",
+      "source": "NY Times"
+    }
+  ],
+  "updated": "2026-04-22T08:50:41Z"
 };
