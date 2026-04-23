@@ -2,108 +2,98 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    110,
-    "https://www.nytimes.com/2026/04/22/us/politics/war-powers-act-explanation.html"
+    90,
+    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
   ],
   [
     "iran",
-    42,
-    "https://www.nytimes.com/2026/04/22/us/politics/war-powers-act-explanation.html"
+    49,
+    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
+  ],
+  [
+    "war",
+    38,
+    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
+  ],
+  [
+    "virginia",
+    29,
+    "https://www.nytimes.com/2026/04/22/us/elections/virginia-redistricting-voter-data-election.html"
   ],
   [
     "president",
-    41,
+    28,
     "https://www.nytimes.com/2026/04/22/us/politics/war-powers-act-explanation.html"
   ],
   [
-    "court",
-    34,
-    "https://www.nytimes.com/2026/04/22/us/supreme-court-michigan-pipeline.html"
-  ],
-  [
-    "game",
-    30,
-    "https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics"
-  ],
-  [
-    "night",
-    27,
-    "https://www.nytimes.com/2026/04/22/us/california-gubernatorial-debate-swalwell.html"
-  ],
-  [
-    "administration",
-    25,
+    "senate",
+    28,
     "https://www.theguardian.com/us-news/2026/apr/22/rfk-jr-senate-hearing-measles-outbreak-vaccines"
   ],
   [
-    "senate",
+    "secretary",
+    27,
+    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
+  ],
+  [
+    "court",
+    27,
+    "https://www.nytimes.com/2026/04/22/sports/basketball/oscar-schmidt-dead.html"
+  ],
+  [
+    "game",
+    26,
+    "https://www.theguardian.com/sport/2026/apr/21/victor-wembanyama-injury-update-concussion-spurs-blazers"
+  ],
+  [
+    "political",
+    23,
+    "https://www.nytimes.com/2026/04/22/us/kalshi-suspends-politicians-trading-elections.html"
+  ],
+  [
+    "administration",
     22,
-    "https://www.nytimes.com/2026/04/22/us/republicans-congress-midterm-elections.html"
+    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
+  ],
+  [
+    "children",
+    22,
+    "https://www.nytimes.com/2026/04/22/us/politics/kennedy-measles-vaccine.html"
+  ],
+  [
+    "redistricting",
+    22,
+    "https://www.nytimes.com/2026/04/22/us/elections/virginia-redistricting-voter-data-election.html"
+  ],
+  [
+    "democrats",
+    22,
+    "https://www.nytimes.com/2026/04/22/us/redistricting-republicans-democrats-florida-virginia.html"
   ],
   [
     "california",
     22,
-    "https://www.nytimes.com/2026/04/22/us/california-gubernatorial-debate-swalwell.html"
+    "https://www.theguardian.com/sport/2026/apr/22/fernando-mendoza-nfl-draft-quarterback"
   ],
   [
-    "ceasefire",
-    22,
-    "https://www.theguardian.com/world/2026/apr/22/iranian-forces-ships-seized-strait-of-hormuz-us-peace-talks"
-  ],
-  [
-    "democrats",
+    "law",
     21,
-    "https://www.nytimes.com/2026/04/22/us/politics/democrat-republican-midterm-election-fundraising.html"
-  ],
-  [
-    "died",
-    21,
-    "https://www.nytimes.com/2026/04/22/arts/music/d4vd-celeste-rivas-hernandez-cause-of-death.html"
-  ],
-  [
-    "children",
-    21,
-    "https://www.washingtonpost.com/nation/2026/04/21/louisiana-shooting-children-eight-killed/"
-  ],
-  [
-    "company",
-    20,
-    "https://www.nytimes.com/2026/04/22/us/supreme-court-michigan-pipeline.html"
-  ],
-  [
-    "scott",
-    20,
-    "https://www.nytimes.com/2026/04/22/us/politics/david-scott-dead-georgia-congress.html"
-  ],
-  [
-    "air",
-    20,
-    "https://www.nytimes.com/2026/04/22/us/georgia-wildfires-evacuations-homes-destroyed-smoke.html"
-  ],
-  [
-    "million",
-    19,
-    "https://www.nytimes.com/2026/04/22/us/politics/democrat-republican-midterm-election-fundraising.html"
-  ],
-  [
-    "war",
-    19,
     "https://www.nytimes.com/2026/04/22/us/politics/war-powers-act-explanation.html"
   ],
   [
-    "virginia",
+    "night",
+    20,
+    "https://www.theguardian.com/us-news/2026/apr/22/anthony-fauci-acting-debut-oedipus-the-king"
+  ],
+  [
+    "social",
     19,
-    "https://www.nytimes.com/2026/04/22/us/chemical-emergency-west-virginia-deaths.html"
+    "https://www.nytimes.com/2026/04/22/science/free-birth-wild-pregancy-risks-home-birth.html"
   ],
   [
-    "david",
-    18,
-    "https://www.nytimes.com/2026/04/22/us/politics/david-scott-dead-georgia-congress.html"
-  ],
-  [
-    "secretary",
-    18,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "gop",
+    19,
+    "https://www.foxnews.com/politics/senate-gop-launches-night-vote-rama-fund-ice-border-patrol-end-trumps-term"
   ],
   [
     "food",
@@ -111,129 +101,134 @@
     "https://www.theguardian.com/world/2026/apr/22/world-food-systems-extreme-heat-farming-un-report"
   ],
   [
-    "law",
+    "navy",
     17,
-    "https://www.nytimes.com/2026/04/22/us/politics/war-powers-act-explanation.html"
+    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
   ],
   [
-    "georgia",
+    "candidates",
     17,
-    "https://www.nytimes.com/2026/04/22/us/politics/david-scott-dead-georgia-congress.html"
+    "https://www.nytimes.com/2026/04/22/us/kalshi-suspends-politicians-trading-elections.html"
   ],
   [
-    "family",
+    "republicans",
     17,
-    "https://www.washingtonpost.com/nation/2026/04/20/louisiana-shooting-mental-health/"
+    "https://www.nytimes.com/2026/04/22/us/redistricting-republicans-democrats-florida-virginia.html"
   ],
   [
-    "political",
-    16,
-    "https://www.nytimes.com/2026/04/22/us/politics/democrat-republican-midterm-election-fundraising.html"
-  ],
-  [
-    "fewer",
-    16,
-    "https://www.nytimes.com/2026/04/22/science/trump-nih-funding-research.html"
-  ],
-  [
-    "police",
-    16,
-    "https://www.nytimes.com/2026/04/22/us/j6-pipe-bomber.html"
-  ],
-  [
-    "rep",
-    16,
-    "https://www.nytimes.com/2026/04/22/us/politics/david-scott-dead-georgia-congress.html"
-  ],
-  [
-    "spirit",
-    16,
+    "company",
+    17,
     "https://www.theguardian.com/us-news/2026/apr/22/white-house-spirit-airlines-deal"
   ],
   [
-    "cbs",
+    "vote",
+    17,
+    "https://www.theguardian.com/news/2026/apr/22/reparations-take-many-different-forms-what-the-uns-landmark-vote-on-slavery-means-for-restorative-justice"
+  ],
+  [
+    "charges",
     16,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-04-22/former-cbs-mornings-executive-producer-joins-ms-now-as-political-director"
-  ],
-  [
-    "strait",
-    15,
-    "https://www.nytimes.com/2026/04/22/world/asia/pakistan-iran-us-talks-islamabad.html"
-  ],
-  [
-    "gaza",
-    15,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/04/22/us/southern-poverty-law-center-doj.html"
   ],
   [
     "feel",
-    15,
+    16,
     "https://www.theguardian.com/wellness/2026/apr/22/six-readers-on-gestures-to-feel-less-lonely"
   ],
   [
-    "book",
+    "office",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/22/virginia-court-congressional-maps-redrawn"
+  ],
+  [
+    "judge",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/22/celeste-rivas-hernandez-d4vd-autopsy"
+  ],
+  [
+    "latest",
     15,
+    "https://www.nytimes.com/2026/04/22/briefing/iran-says-it-seized-two-ships.html"
+  ],
+  [
+    "race",
+    15,
+    "https://www.nytimes.com/2026/04/22/us/elections/virginia-redistricting-voter-data-election.html"
+  ],
+  [
+    "florida",
+    15,
+    "https://www.nytimes.com/2026/04/22/us/redistricting-republicans-democrats-florida-virginia.html"
+  ],
+  [
+    "ago",
+    15,
+    "https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html"
+  ],
+  [
+    "police",
+    15,
+    "https://www.nytimes.com/2026/04/22/arts/music/d4vd-celeste-rivas-hernandez-cause-of-death.html"
+  ],
+  [
+    "center",
+    15,
+    "https://www.nytimes.com/2026/04/22/us/southern-poverty-law-center-doj.html"
+  ],
+  [
+    "peter",
+    15,
+    "https://www.theguardian.com/global/commentisfree/2026/apr/22/usha-vance-podcast"
+  ],
+  [
+    "fewer",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/apr/22/spring-wardrobe-refresh-men"
+  ],
+  [
+    "energy",
+    15,
+    "https://www.theguardian.com/sport/2026/apr/22/world-champion-lando-norris-max-verstappen-f1-rule-changes"
+  ],
+  [
+    "cbs",
+    15,
+    "https://www.latimes.com/entertainment-arts/business/story/2026-04-22/former-cbs-mornings-executive-producer-joins-ms-now-as-political-director"
+  ],
+  [
+    "john",
+    14,
+    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
+  ],
+  [
+    "pentagon",
+    14,
+    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
+  ],
+  [
+    "million",
+    14,
+    "https://www.nytimes.com/2026/04/22/us/politics/democrat-republican-midterm-election-fundraising.html"
+  ],
+  [
+    "media",
+    14,
+    "https://www.nytimes.com/2026/04/22/science/free-birth-wild-pregancy-risks-home-birth.html"
+  ],
+  [
+    "york",
+    14,
+    "https://www.nytimes.com/2026/04/22/nyregion/transgender-schools-restrictions-long-island.html"
+  ],
+  [
+    "book",
+    14,
     "https://www.theguardian.com/global/commentisfree/2026/apr/22/usha-vance-podcast"
   ],
   [
     "donald",
-    15,
+    14,
     "https://www.theguardian.com/us-news/2026/apr/22/tucker-trump-carlson-torment"
-  ],
-  [
-    "email",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/22/virgina-midterm-elections-trump"
-  ],
-  [
-    "hormuz",
-    14,
-    "https://www.nytimes.com/2026/04/22/world/asia/pakistan-iran-us-talks-islamabad.html"
-  ],
-  [
-    "killed",
-    14,
-    "https://www.nytimes.com/2026/04/22/us/politics/sharon-mcmahon-utah-valley-university-charlie-kirk.html"
-  ],
-  [
-    "ago",
-    14,
-    "https://www.nytimes.com/2026/04/22/opinion/gen-z-job-ladder.html"
-  ],
-  [
-    "love",
-    14,
-    "https://www.washingtonpost.com/nation/2026/04/21/rachel-goldberg-polin-book-when-we-see-you-again/"
-  ],
-  [
-    "israeli",
-    14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "released",
-    14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "peter",
-    14,
-    "https://www.theguardian.com/global/commentisfree/2026/apr/22/usha-vance-podcast"
-  ],
-  [
-    "redistricting",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/22/virgina-midterm-elections-trump"
-  ],
-  [
-    "kennedy",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/22/rfk-jr-senate-hearing-measles-outbreak-vaccines"
-  ],
-  [
-    "airlines",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/22/white-house-spirit-airlines-deal"
   ],
   [
     "filter",
@@ -241,44 +236,49 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/22/spring-wardrobe-refresh-men"
   ],
   [
-    "awards",
+    "guide",
     14,
-    "https://www.theguardian.com/games/2026/apr/22/pushing-buttons-bafta-games-awards"
+    "https://www.theguardian.com/thefilter-us/2026/apr/22/spring-wardrobe-refresh-men"
   ],
   [
-    "car",
+    "voters",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/22/virginia-court-congressional-maps-redrawn"
+  ],
+  [
+    "georgia",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/22/georgia-florida-wildfires"
+  ],
+  [
+    "phelan",
     13,
-    "https://www.nytimes.com/article/d4vd-tesla-body-murder-investigation.html"
+    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
   ],
   [
-    "social",
+    "department",
     13,
-    "https://www.nytimes.com/2026/04/22/science/free-birth-wild-pregancy-risks-home-birth.html"
+    "https://www.nytimes.com/2026/04/22/us/politics/kennedy-measles-vaccine.html"
   ],
   [
-    "supreme",
+    "southern",
     13,
-    "https://www.nytimes.com/2026/04/22/us/supreme-court-michigan-pipeline.html"
+    "https://www.nytimes.com/2026/04/22/us/southern-poverty-law-center-doj.html"
   ],
   [
-    "health",
+    "family",
     13,
-    "https://www.nytimes.com/2026/04/22/us/politics/david-scott-dead-georgia-congress.html"
+    "https://www.nytimes.com/2026/04/22/arts/music/alan-osmond-dead.html"
   ],
   [
-    "claims",
+    "ice",
     13,
-    "https://www.nytimes.com/2026/04/22/business/mrbeast-lawsuit-harassment-claims.html"
+    "https://www.nytimes.com/2026/04/22/world/canada/drake-album-ice-block-toronto.html"
   ],
   [
-    "again",
+    "love",
     13,
     "https://www.washingtonpost.com/nation/2026/04/21/rachel-goldberg-polin-book-when-we-see-you-again/"
-  ],
-  [
-    "latest",
-    13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
     "buying",
@@ -286,93 +286,93 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/22/spring-wardrobe-refresh-men"
   ],
   [
-    "nfl",
+    "ceasefire",
     13,
-    "https://www.theguardian.com/sport/2026/apr/22/fernando-mendoza-nfl-draft-quarterback"
+    "https://www.theguardian.com/world/2026/apr/22/iranian-forces-ships-seized-strait-of-hormuz-us-peace-talks"
   ],
   [
-    "west",
-    12,
-    "https://www.nytimes.com/2026/04/22/us/chemical-emergency-west-virginia-deaths.html"
+    "email",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/22/virginia-court-congressional-maps-redrawn"
   ],
   [
-    "series",
-    12,
-    "https://www.nytimes.com/2026/04/22/us/atlanta-killings-suspect-jail-death.html"
+    "ukraine",
+    13,
+    "https://www.theguardian.com/world/2026/apr/23/ukraine-war-briefing-kyiv-hails-frontline-position-as-strongest-in-a-year"
   ],
   [
-    "line",
-    12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "almost",
+    13,
+    "https://www.theguardian.com/world/2026/apr/23/ukraine-war-briefing-kyiv-hails-frontline-position-as-strongest-in-a-year"
   ],
   [
-    "early",
-    12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "business",
+    13,
+    "https://www.theguardian.com/fashion/2026/apr/22/super-foamy-sneakers-everywhere-are-they-good"
   ],
   [
-    "country",
-    12,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "died",
+    13,
+    "https://www.theguardian.com/technology/2026/apr/22/amazon-workplace-safety-record"
   ],
   [
-    "fire",
+    "leaving",
     12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
   ],
   [
-    "review",
+    "health",
     12,
-    "https://www.theguardian.com/global/commentisfree/2026/apr/22/usha-vance-podcast"
+    "https://www.nytimes.com/2026/04/22/us/politics/rfk-vaccines-measles-testimony.html"
   ],
   [
     "measles",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/22/rfk-jr-senate-hearing-measles-outbreak-vaccines"
+    "https://www.nytimes.com/2026/04/22/us/politics/kennedy-measles-vaccine.html"
   ],
   [
-    "outside",
+    "fire",
+    12,
+    "https://www.nytimes.com/2026/04/22/world/canada/drake-album-ice-block-toronto.html"
+  ],
+  [
+    "israeli",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "air",
+    12,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "weekly",
+    12,
+    "https://www.theguardian.com/wellness/2026/apr/22/six-readers-on-gestures-to-feel-less-lonely"
+  ],
+  [
+    "fashion",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/apr/22/spring-wardrobe-refresh-men"
+  ],
+  [
+    "series",
     12,
     "https://www.theguardian.com/tv-and-radio/2026/apr/22/this-is-a-gardening-show-review-zach-galifianakis-netflix"
   ],
   [
-    "hand",
+    "cancer",
     12,
-    "https://www.theguardian.com/football/2026/apr/22/liam-rosenior-leaves-chelsea-contract-2032"
+    "https://www.theguardian.com/society/2026/apr/23/one-person-diagnosed-with-cancer-every-80-seconds-in-uk-report-reveals"
   ],
   [
-    "heart",
-    12,
-    "https://www.theguardian.com/technology/2026/apr/22/amazon-workplace-safety-record"
-  ],
-  [
-    "breathing",
-    12,
-    "https://www.theguardian.com/us-news/2026/apr/22/air-pollution-report-dangerous-levels-children"
-  ],
-  [
-    "republican",
+    "kennedy",
     11,
-    "https://www.nytimes.com/2026/04/22/us/republicans-congress-midterm-elections.html"
+    "https://www.nytimes.com/2026/04/22/us/politics/rfk-vaccines-measles-testimony.html"
   ],
   [
-    "race",
+    "governor",
     11,
-    "https://www.nytimes.com/2026/04/22/us/california-gubernatorial-debate-swalwell.html"
-  ],
-  [
-    "talks",
-    11,
-    "https://www.nytimes.com/2026/04/22/world/asia/pakistan-iran-us-talks-islamabad.html"
-  ],
-  [
-    "media",
-    11,
-    "https://www.nytimes.com/2026/04/22/science/free-birth-wild-pregancy-risks-home-birth.html"
-  ],
-  [
-    "american",
-    11,
-    "https://www.nytimes.com/2026/04/22/us/supreme-court-afghanistan-bombing.html"
+    "https://www.nytimes.com/2026/04/22/us/elections/virginia-redistricting-voter-data-election.html"
   ]
 ];
