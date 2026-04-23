@@ -3,101 +3,169 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 45,
-      "url": "https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates",
+      "count": 51,
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/epstein-files-transparency-act-audit",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 29,
-      "url": "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html",
-      "source": "NY Times"
+      "count": 32,
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/trump-claims-us-has-total-control-over-strait-of-hormuz-as-iran-seizes-two-container-ships",
+      "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 25,
+      "count": 20,
       "url": "https://www.nytimes.com/2026/04/23/us/politics/california-governor-debate-takeaways.html",
       "source": "NY Times"
     },
     {
-      "name": "U.S.",
+      "name": "Georgia",
       "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/wildfires-florida-georgia",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A.",
+      "count": 13,
+      "url": "https://www.latimes.com/california/story/2026-04-23/d4vd-court-appearance-murder-charges",
+      "source": "LA Times"
+    },
+    {
+      "name": "Israel",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/04/23/world/middleeast/israel-lebanon-hezbollah-talks-ceasefire.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/04/23/nyregion/hudson-yards-platform.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 12,
       "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
       "source": "Wall St. Journal"
     },
     {
-      "name": "New York City",
+      "name": "Florida",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/wildfires-florida-georgia",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mexico City",
+      "count": 8,
+      "url": "https://www.theguardian.com/books/2026/apr/22/the-shadow-of-the-object-by-chloe-aridjis-review-one-of-the-boldest-writers-at-work-in-english-today",
+      "source": "The Guardian"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Administration Edition",
+      "count": 65,
+      "url": "https://www.nytimes.com/2026/04/23/opinion/trump-cabinet-patel-noem-labor-hegseth.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Minnesota Senate",
+      "count": 21,
+      "url": "https://www.politico.com/live-updates/2026/04/15/congress/angie-craig-peggy-flanagan-minnesota-senate-cash-00875578",
+      "source": "Politico"
+    },
+    {
+      "name": "Ai",
+      "count": 20,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/23/humanity-friction-artificial-intelligence-capitalism-black-mirror",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Justice Department",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/trump-administration-denaturalization",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian Europe",
       "count": 13,
-      "url": "https://www.nytimes.com/2026/04/23/nyregion/mamdani-pension-funds.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Virginia",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/apr/22/virginia-court-congressional-maps-redrawn",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/23/humanity-friction-artificial-intelligence-capitalism-black-mirror",
       "source": "The Guardian"
     },
     {
-      "name": "Southeast Georgia",
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The United States Navy",
+      "count": 12,
+      "url": "https://www.nbcnews.com/politics/trump-administration/navy-secretary-phelan-exits-administration-rcna341532",
+      "source": "NBC News"
+    },
+    {
+      "name": "Fbi",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/mexican-mafia-arrests-california",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Breaking News",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/wildfires-florida-georgia",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
       "count": 10,
-      "url": "https://www.cbsnews.com/video/latest-news-on-destructive-georgia-wildfires/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Uk",
-      "count": 8,
-      "url": "https://www.theguardian.com/environment/2026/apr/23/ship-deaths-working-conditions-chinese-trawler",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Washington Dc",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/23/white-house-correspondents-dinner-trump",
-      "source": "The Guardian"
+      "url": "https://www.foxnews.com/politics/republicans-fail-attach-save-america-act-party-line-funding-package-",
+      "source": "Fox News"
     }
   ],
   "PERSON": [
     {
-      "name": "Donald Trump",
-      "count": 28,
-      "url": "https://www.theguardian.com/world/2026/apr/23/eu-risks-fallout-with-us-trump-linked-balkans-pipeline-plan-intervention",
+      "name": "Donald Trump ’S",
+      "count": 17,
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/senate-republicans-trump-immigration-funding",
       "source": "The Guardian"
     },
     {
-      "name": "John Phelan",
+      "name": "Donald Trump",
       "count": 16,
-      "url": "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/23/hulk-hogan-real-american-netflix",
+      "source": "The Guardian"
     },
     {
       "name": "Marijuana",
-      "count": 13,
+      "count": 15,
       "url": "https://www.theguardian.com/us-news/2026/apr/23/trump-administration-reclassify-marijuana-schedule-iii",
       "source": "The Guardian"
     },
     {
+      "name": "John Phelan",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/john-phelan-trump-navy-secretary-firing",
+      "source": "The Guardian"
+    },
+    {
       "name": "Michael Tilson Thomas",
-      "count": 6,
+      "count": 8,
       "url": "https://www.nytimes.com/2026/04/23/arts/music/michael-tilson-thomas-dead.html",
       "source": "NY Times"
     },
     {
       "name": "Hormuz",
-      "count": 6,
-      "url": "https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/trump-claims-us-has-total-control-over-strait-of-hormuz-as-iran-seizes-two-container-ships",
       "source": "The Guardian"
     },
     {
       "name": "Tucker Carlson",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/apr/22/tucker-trump-carlson-torment",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/world-nation/story/2026-04-22/tucker-carlson-sorry-for-supporting-trump",
+      "source": "LA Times"
     },
     {
       "name": "Hulk Hogan",
@@ -106,98 +174,30 @@
       "source": "The Guardian"
     },
     {
-      "name": "Mike Vrabel",
+      "name": "Olivia Dean",
       "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/apr/23/mike-vrabel-counseling-nfl-draft-dianna-russini",
+      "url": "https://www.theguardian.com/music/2026/apr/23/olivia-dean-review-ovo-hydro-glasgow",
       "source": "The Guardian"
     },
     {
-      "name": "Pete Hegseth",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Taraji P Henson",
-      "count": 4,
-      "url": "https://www.theguardian.com/culture/ng-interactive/2026/apr/23/taraji-p-henson-august-wilson-joe-turners-come-and-gone-interview",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Wants Private Equity",
-      "count": 57,
-      "url": "https://www.nytimes.com/2026/04/23/your-money/401ks-and-similar-plans/401k-private-credit-crypto.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Senate Adopts Gop Budget",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/04/23/us/politics/senate-gop-budget-immigration.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The United States Navy",
-      "count": 20,
-      "url": "https://www.nbcnews.com/politics/trump-administration/navy-secretary-phelan-exits-administration-rcna341532",
-      "source": "NBC News"
-    },
-    {
-      "name": "Ai",
-      "count": 18,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/23/humanity-friction-artificial-intelligence-capitalism-black-mirror",
-      "source": "The Guardian"
-    },
-    {
-      "name": "House Oversight Committee",
-      "count": 16,
-      "url": "https://www.foxnews.com/politics/pat-fallon-launches-bid-house-oversight-committee-chairman-james-comers-term-limit-nears",
-      "source": "Fox News"
-    },
-    {
-      "name": "Guardian Europe",
-      "count": 15,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/23/humanity-friction-artificial-intelligence-capitalism-black-mirror",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nfl",
-      "count": 15,
-      "url": "https://www.theguardian.com/sport/2026/apr/23/nfl-2026-draft-predictions",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pentagon",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Paramount Skydance",
-      "count": 12,
-      "url": "https://www.theguardian.com/film/2026/apr/23/warner-bros-discovery-merger-paramount-skydance",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 12,
-      "url": "https://www.foxnews.com/media/walz-shrugs-minnesotas-massive-fraud-scandal-claims-gop-using-excuse",
+      "name": "Pope Leo Xiv",
+      "count": 5,
+      "url": "https://www.foxnews.com/politics/trump-border-czar-tom-homan-wants-pope-leo-xiv-ride-along-ice-agents-dont-understand",
       "source": "Fox News"
     }
   ],
   "EVENT": [
     {
-      "name": "’S World Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
+      "name": "The World Cup",
+      "count": 7,
+      "url": "https://www.theguardian.com/football/2026/apr/23/world-cup-final-tickets-resale-prices-fifa-two-million",
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
+      "name": "Iran War",
       "count": 2,
-      "url": "https://www.theguardian.com/football/2026/apr/22/trump-envoy-seeks-to-replace-iran-with-italy-at-world-cup-says-report",
-      "source": "The Guardian"
+      "url": "https://www.cbsnews.com/video/details-on-firing-of-navy-secretary-amid-iran-war-strait-of-hormuz-blockade/",
+      "source": "CBS News"
     },
     {
       "name": "The Rio Grande Valley",
@@ -212,9 +212,21 @@
       "source": "The Guardian"
     },
     {
+      "name": "The Madrid Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/apr/23/swiatek-leads-players-surprise-as-wta-head-portia-archer-quits-after-two-years",
+      "source": "The Guardian"
+    },
+    {
       "name": "The Game Awards",
       "count": 1,
       "url": "https://www.theguardian.com/games/2026/apr/17/clair-obscur-and-dispatch-share-top-honours-at-bafta-games-awards",
+      "source": "The Guardian"
+    },
+    {
+      "name": "’S World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
       "source": "The Guardian"
     },
     {
@@ -224,29 +236,17 @@
       "source": "LA Times"
     },
     {
-      "name": "The Year 2026",
+      "name": "Post-Wwii",
       "count": 1,
-      "url": "https://www.npr.org/sections/the-picture-show/2026/04/23/nx-s1-5793922/world-press-photo-announces-photo-of-the-year-2026",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5797402/author-details-the-spy-network-that-took-on-americas-post-wwii-nazi-groups",
       "source": "NPR"
     },
     {
-      "name": "A World Series",
+      "name": "Pga Championship Bikini",
       "count": 1,
-      "url": "https://www.foxnews.com/sports/yankees-announcer-says-team-win-world-series-breaking-longstanding-jersey-tradition",
+      "url": "https://www.foxnews.com/outkick-culture/jena-sims-picks-pga-championship-bikini-sports-illustrated",
       "source": "Fox News"
-    },
-    {
-      "name": "Olympics",
-      "count": 1,
-      "url": "https://www.cbsnews.com/losangeles/news/2028-olympics-ticket-prices-los-angeles-resale/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The Summer Games",
-      "count": 1,
-      "url": "https://www.cbsnews.com/losangeles/news/2028-olympics-ticket-prices-los-angeles-resale/",
-      "source": "CBS News"
     }
   ],
-  "updated": "2026-04-23T15:16:51Z"
+  "updated": "2026-04-23T20:08:35Z"
 };

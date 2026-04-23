@@ -2,113 +2,88 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    92,
-    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
+    107,
+    "https://www.nytimes.com/2026/04/23/us/politics/maha-voters-midterms.html"
   ],
   [
     "iran",
-    32,
+    34,
     "https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html"
   ],
   [
     "president",
+    31,
+    "https://www.nytimes.com/2026/04/23/us/politics/maha-voters-midterms.html"
+  ],
+  [
+    "department",
     29,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "california",
-    27,
-    "https://www.nytimes.com/2026/04/23/us/politics/california-governor-debate-takeaways.html"
-  ],
-  [
-    "game",
-    26,
-    "https://www.theguardian.com/games/2026/apr/22/pushing-buttons-bafta-games-awards"
-  ],
-  [
-    "senate",
-    24,
-    "https://www.nytimes.com/2026/04/23/us/politics/seth-bodnar-montana-senate.html"
-  ],
-  [
-    "navy",
-    24,
-    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
+    "https://www.theguardian.com/us-news/2026/apr/23/epstein-files-transparency-act-audit"
   ],
   [
     "administration",
-    24,
-    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
-  ],
-  [
-    "war",
-    22,
-    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
-  ],
-  [
-    "police",
-    21,
-    "https://www.nytimes.com/2026/04/22/arts/music/d4vd-celeste-rivas-hernandez-cause-of-death.html"
-  ],
-  [
-    "series",
-    21,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/23/hulk-hogan-real-american-netflix"
+    26,
+    "https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html"
   ],
   [
     "secretary",
-    20,
-    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
+    26,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "york",
-    19,
-    "https://www.nytimes.com/2026/04/23/business/labubu-cotton-banned-forced-labor-law-xinjiang-china.html"
+    "justice",
+    25,
+    "https://www.theguardian.com/us-news/2026/apr/23/epstein-files-transparency-act-audit"
   ],
   [
-    "feel",
-    19,
-    "https://www.theguardian.com/culture/ng-interactive/2026/apr/23/taraji-p-henson-august-wilson-joe-turners-come-and-gone-interview"
+    "game",
+    23,
+    "https://www.theguardian.com/games/2026/apr/22/pushing-buttons-bafta-games-awards"
   ],
   [
-    "million",
-    18,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "california",
+    22,
+    "https://www.nytimes.com/2026/04/23/us/politics/california-governor-debate-takeaways.html"
+  ],
+  [
+    "senate",
+    22,
+    "https://www.theguardian.com/us-news/2026/apr/23/senate-republicans-trump-immigration-funding"
   ],
   [
     "night",
-    18,
+    21,
     "https://www.theguardian.com/culture/ng-interactive/2026/apr/23/taraji-p-henson-august-wilson-joe-turners-come-and-gone-interview"
   ],
   [
     "donald",
+    19,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/23/hulk-hogan-real-american-netflix"
+  ],
+  [
+    "republicans",
     18,
-    "https://www.theguardian.com/world/2026/apr/23/eu-risks-fallout-with-us-trump-linked-balkans-pipeline-plan-intervention"
+    "https://www.nytimes.com/2026/04/23/us/politics/maha-voters-midterms.html"
   ],
   [
-    "food",
+    "war",
     18,
-    "https://www.theguardian.com/world/2026/apr/22/world-food-systems-extreme-heat-farming-un-report"
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "budget",
-    17,
-    "https://www.nytimes.com/2026/04/23/us/politics/senate-gop-budget-immigration.html"
+    "feel",
+    18,
+    "https://www.theguardian.com/wellness/2026/apr/23/burned-haystack-dating-method"
   ],
   [
-    "american",
+    "event",
     17,
-    "https://www.nytimes.com/2026/04/23/arts/music/michael-tilson-thomas-dead.html"
+    "https://www.theguardian.com/commentisfree/2026/apr/23/white-house-correspondents-dinner-trump"
   ],
   [
-    "children",
+    "marijuana",
     17,
-    "https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html"
-  ],
-  [
-    "nfl",
-    17,
-    "https://www.theguardian.com/sport/2026/apr/23/nfl-2026-draft-predictions"
+    "https://www.theguardian.com/us-news/2026/apr/23/trump-administration-reclassify-marijuana-schedule-iii"
   ],
   [
     "fashion",
@@ -116,59 +91,59 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/22/spring-wardrobe-refresh-men"
   ],
   [
-    "ice",
-    16,
-    "https://www.nytimes.com/2026/04/23/us/politics/senate-gop-budget-immigration.html"
-  ],
-  [
-    "win",
-    16,
-    "https://www.nytimes.com/2026/04/23/opinion/bobby-pulido-texas-latinos-democrats.html"
-  ],
-  [
-    "team",
-    16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "university",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/23/jodi-kantor-interview-how-to-start-gen-z-careers-jobs"
-  ],
-  [
-    "strait",
-    16,
-    "https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates"
-  ],
-  [
-    "democrats",
-    15,
-    "https://www.nytimes.com/2026/04/23/us/politics/seth-bodnar-montana-senate.html"
-  ],
-  [
-    "phelan",
-    15,
-    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
-  ],
-  [
-    "hormuz",
-    15,
-    "https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates"
-  ],
-  [
     "company",
-    15,
-    "https://www.theguardian.com/world/2026/apr/23/eu-risks-fallout-with-us-trump-linked-balkans-pipeline-plan-intervention"
+    16,
+    "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html"
   ],
   [
-    "department",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/23/rfk-jr-agenda-trans-care-children"
+    "court",
+    16,
+    "https://www.nytimes.com/2026/04/23/technology/elon-musk-sam-altman-openai-trial.html"
   ],
   [
-    "social",
-    15,
-    "https://www.theguardian.com/business/2026/apr/23/jetblue-lawsuit-personal-data-ticket-prices"
+    "american",
+    16,
+    "https://www.nytimes.com/2026/04/23/arts/music/michael-tilson-thomas-dead.html"
+  ],
+  [
+    "york",
+    16,
+    "https://www.nytimes.com/2026/04/23/nyregion/hudson-yards-platform.html"
+  ],
+  [
+    "security",
+    16,
+    "https://www.nytimes.com/2026/04/23/world/americas/mexico-crash-us-security-cia.html"
+  ],
+  [
+    "police",
+    16,
+    "https://www.washingtonpost.com/nation/2026/04/22/louisiana-shooing-gun-charles-ford/"
+  ],
+  [
+    "series",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/23/hulk-hogan-real-american-netflix"
+  ],
+  [
+    "georgia",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/23/wildfires-florida-georgia"
+  ],
+  [
+    "political",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/23/hung-cao-new-navy-secretary"
+  ],
+  [
+    "fewer",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/apr/23/what-readers-bought-april"
+  ],
+  [
+    "cbs",
+    16,
+    "https://www.theguardian.com/film/2026/apr/23/warner-bros-discovery-merger-paramount-skydance"
   ],
   [
     "buying",
@@ -176,44 +151,79 @@
     "https://www.theguardian.com/tv-and-radio/2026/apr/23/hulk-hogan-real-american-netflix"
   ],
   [
-    "games",
+    "charges",
     15,
-    "https://www.theguardian.com/football/2026/apr/22/pep-guardiola-targets-perfect-finish-after-manchester-city-return-to-the-top"
+    "https://www.theguardian.com/us-news/2026/apr/23/mexican-mafia-arrests-california"
   ],
   [
-    "race",
+    "email",
     15,
-    "https://www.theguardian.com/sport/2026/apr/22/world-champion-lando-norris-max-verstappen-f1-rule-changes"
+    "https://www.theguardian.com/us-news/2026/apr/23/wildfires-florida-georgia"
   ],
   [
-    "fewer",
+    "navy",
     15,
-    "https://www.theguardian.com/music/2026/apr/18/madonna-i-feel-so-free-review-album-teaser-hypnotic-glimpse-return-club-scene-roots"
-  ],
-  [
-    "democratic",
-    14,
-    "https://www.nytimes.com/2026/04/23/us/politics/senate-gop-budget-immigration.html"
-  ],
-  [
-    "family",
-    14,
-    "https://www.nytimes.com/2026/04/23/movies/michael-jackson-biopic-controversies-production-casting.html"
-  ],
-  [
-    "released",
-    14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "draft",
-    14,
-    "https://www.theguardian.com/sport/2026/apr/23/nfl-2026-draft-predictions"
+    "https://www.theguardian.com/us-news/2026/apr/23/john-phelan-trump-navy-secretary-firing"
   ],
   [
     "filter",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/apr/23/what-readers-bought-april"
+  ],
+  [
+    "data",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/apr/23/what-readers-bought-april"
+  ],
+  [
+    "care",
+    15,
+    "https://www.theguardian.com/football/2026/apr/23/clint-dempsey-docuseries-landon-donovan-memoir-usmnt"
+  ],
+  [
+    "sexual",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/apr/22/spring-wardrobe-refresh-men"
+    "https://www.nytimes.com/2026/04/23/us/cesar-chavez-art-changes.html"
+  ],
+  [
+    "murder",
+    14,
+    "https://www.nytimes.com/2026/04/23/us/calvin-duncan-new-orleans-election.html"
+  ],
+  [
+    "office",
+    14,
+    "https://www.nytimes.com/2026/04/23/us/calvin-duncan-new-orleans-election.html"
+  ],
+  [
+    "food",
+    14,
+    "https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html"
+  ],
+  [
+    "don",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/23/wildfires-florida-georgia"
+  ],
+  [
+    "weekly",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/apr/23/what-readers-bought-april"
+  ],
+  [
+    "music",
+    13,
+    "https://www.nytimes.com/2026/04/23/arts/music/michael-tilson-thomas-dead.html"
+  ],
+  [
+    "children",
+    13,
+    "https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html"
+  ],
+  [
+    "star",
+    13,
+    "https://www.nytimes.com/2026/04/23/movies/anne-hathaway-interview-popcast.html"
   ],
   [
     "far",
@@ -221,158 +231,148 @@
     "https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html"
   ],
   [
-    "john",
+    "air",
     13,
-    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
-  ],
-  [
-    "pentagon",
-    13,
-    "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
-  ],
-  [
-    "gop",
-    13,
-    "https://www.nytimes.com/2026/04/23/us/politics/senate-gop-budget-immigration.html"
-  ],
-  [
-    "discovery",
-    13,
-    "https://www.nytimes.com/2026/04/23/business/media/warner-bros-investors-paramount-vote.html"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "early",
     13,
-    "https://www.nytimes.com/2026/04/22/sports/basketball/oscar-schmidt-dead.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "court",
+    "instead",
     13,
-    "https://www.washingtonpost.com/nation/2026/04/22/kansas-mayor-noncitizen-voting/"
+    "https://www.theguardian.com/wellness/2026/apr/23/burned-haystack-dating-method"
   ],
   [
-    "israeli",
+    "others",
     13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.theguardian.com/us-news/2026/apr/23/serial-killer-experience-exhibit"
   ],
   [
-    "political",
+    "scene",
     13,
-    "https://www.theguardian.com/commentisfree/2026/apr/23/catastrophic-climate-event-scientists-atlantic-system-collapse-billionaire-existential-crisis"
+    "https://www.theguardian.com/us-news/2026/apr/23/serial-killer-experience-exhibit"
   ],
   [
-    "almost",
+    "strait",
     13,
-    "https://www.theguardian.com/environment/2026/apr/23/exclusion-zone-chornobyl-wildlife-thrives-amid-pro-nuclear-shift"
+    "https://www.theguardian.com/us-news/2026/apr/23/trump-claims-us-has-total-control-over-strait-of-hormuz-as-iran-seizes-two-container-ships"
   ],
   [
-    "email",
+    "hormuz",
     13,
-    "https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates"
+    "https://www.theguardian.com/us-news/2026/apr/23/trump-claims-us-has-total-control-over-strait-of-hormuz-as-iran-seizes-two-container-ships"
   ],
   [
-    "marijuana",
+    "democrats",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/23/trump-administration-reclassify-marijuana-schedule-iii"
+    "https://www.theguardian.com/us-news/2026/apr/23/senate-republicans-trump-immigration-funding"
   ],
   [
-    "star",
+    "products",
     13,
-    "https://www.theguardian.com/sport/2026/apr/23/trump-photo-georgia-tennis-white-house-women"
+    "https://www.theguardian.com/thefilter-us/2026/apr/23/what-readers-bought-april"
   ],
   [
-    "voters",
+    "social",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/23/leading-california-governor-candidates-spar-in-first-debate-as-topsy-turvy-race-heats-up"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/23/i-was-always-the-first-to-message-friends-when-i-stopped-i-lost-my-entire-circle-am-i-a-crap-person"
   ],
   [
-    "breaking",
-    12,
-    "https://www.nytimes.com/2026/04/23/us/politics/seth-bodnar-montana-senate.html"
+    "died",
+    13,
+    "https://www.theguardian.com/books/2026/apr/22/the-wonderful-world-that-almost-was-by-andrew-durbin-review-naked-ambition"
   ],
   [
-    "warner",
+    "israel",
     12,
-    "https://www.nytimes.com/2026/04/23/business/media/warner-bros-investors-paramount-vote.html"
+    "https://www.nytimes.com/2026/04/23/world/middleeast/israel-lebanon-hezbollah-talks-ceasefire.html"
   ],
   [
-    "paramount",
+    "fund",
     12,
-    "https://www.nytimes.com/2026/04/23/business/media/warner-bros-investors-paramount-vote.html"
+    "https://www.nytimes.com/2026/04/23/us/politics/actblue-republicans-regina-wallace-jones.html"
   ],
   [
-    "medical",
+    "leading",
     12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/04/23/us/politics/california-governor-debate-takeaways.html"
   ],
   [
-    "place",
+    "role",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/23/jodi-kantor-interview-how-to-start-gen-z-careers-jobs"
+    "https://www.nytimes.com/2026/04/23/nyregion/laguardia-crash-ntsb-report.html"
   ],
   [
-    "security",
+    "michael",
     12,
-    "https://www.theguardian.com/world/2026/apr/23/lawrence-bishnoi-gangster-icon-modi-india"
+    "https://www.nytimes.com/2026/04/23/arts/music/michael-tilson-thomas-dead.html"
   ],
   [
-    "order",
+    "pop",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/23/trump-administration-reclassify-marijuana-schedule-iii"
+    "https://www.nytimes.com/2026/04/23/movies/anne-hathaway-interview-popcast.html"
   ],
   [
-    "georgia",
+    "louisiana",
     12,
-    "https://www.theguardian.com/sport/2026/apr/23/trump-photo-georgia-tennis-white-house-women"
+    "https://www.washingtonpost.com/nation/2026/04/22/louisiana-shooing-gun-charles-ford/"
   ],
   [
-    "data",
+    "everything",
     12,
-    "https://www.theguardian.com/business/2026/apr/23/jetblue-lawsuit-personal-data-ticket-prices"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "room",
+    "immigration",
     12,
-    "https://www.theguardian.com/commentisfree/2026/apr/23/humanity-friction-artificial-intelligence-capitalism-black-mirror"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "virginia",
+    "released",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/22/virginia-court-congressional-maps-redrawn"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "weekly",
+    "team",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/apr/22/spring-wardrobe-refresh-men"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "always",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/apr/23/white-house-correspondents-dinner-trump"
+  ],
+  [
+    "video",
+    12,
+    "https://www.theguardian.com/culture/ng-interactive/2026/apr/23/taraji-p-henson-august-wilson-joe-turners-come-and-gone-interview"
+  ],
+  [
+    "review",
+    12,
+    "https://www.theguardian.com/us-news/2026/apr/23/fulton-county-georgia-slavery"
+  ],
+  [
+    "cup",
+    12,
+    "https://www.theguardian.com/football/2026/apr/23/world-cup-final-tickets-resale-prices-fifa-two-million"
   ],
   [
     "guide",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/apr/22/spring-wardrobe-refresh-men"
+    "https://www.theguardian.com/thefilter-us/2026/apr/23/what-readers-bought-april"
   ],
   [
-    "power",
+    "form",
     11,
     "https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html"
   ],
   [
-    "fund",
+    "country",
     11,
-    "https://www.nytimes.com/2026/04/23/us/politics/actblue-republicans-regina-wallace-jones.html"
-  ],
-  [
-    "candidates",
-    11,
-    "https://www.nytimes.com/2026/04/23/us/politics/california-governor-debate-takeaways.html"
-  ],
-  [
-    "immigration",
-    11,
-    "https://www.nytimes.com/2026/04/23/us/politics/senate-gop-budget-immigration.html"
-  ],
-  [
-    "michael",
-    11,
-    "https://www.nytimes.com/2026/04/23/arts/music/michael-tilson-thomas-dead.html"
+    "https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html"
   ]
 ];
