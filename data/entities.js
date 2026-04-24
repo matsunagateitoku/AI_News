@@ -3,132 +3,70 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 24,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/24/europe-profound-state-of-crisis-assess-threats-remedy",
+      "count": 28,
+      "url": "https://www.theguardian.com/us-news/2026/apr/24/jeffrey-epstein-survivors-metoo",
       "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump ’S",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/apr/23/senate-republicans-trump-immigration-funding",
-      "source": "The Guardian"
-    },
-    {
-      "name": "John Phelan",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/04/23/us/politics/trump-navy-secretary.html",
-      "source": "NY Times"
     },
     {
       "name": "Nicolás Maduro",
-      "count": 11,
+      "count": 15,
       "url": "https://www.nytimes.com/2026/04/23/nyregion/polymarket-maduro-indictment-soldier.html",
       "source": "NY Times"
     },
     {
-      "name": "Hormuz",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce",
+      "name": "Pete Hegseth",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/24/doj-watchdog-epstein-donald-trump-iran-war-budget-bill-latest-news",
       "source": "The Guardian"
     },
     {
-      "name": "Qb Ty Simpson",
+      "name": "Jerome Powell",
       "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/apr/24/nfl-draft-2026-first-round-picks",
-      "source": "The Guardian"
+      "url": "https://www.cbsnews.com/news/justice-department-drops-probe-into-fed-chair-jerome-powell/",
+      "source": "CBS News"
     },
     {
-      "name": "Fernando Mendoza",
+      "name": "Benjamin Netanyahu",
       "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/apr/24/nfl-draft-2026-first-round-picks",
-      "source": "The Guardian"
+      "url": "https://www.cbsnews.com/news/benjamin-netanyahu-prostate-cancer-israel-iran/",
+      "source": "CBS News"
     },
     {
-      "name": "Polymarket",
+      "name": "Gannon Ken Van Dyke",
       "count": 6,
       "url": "https://www.theguardian.com/us-news/2026/apr/23/maduro-raid-soldier-charged",
       "source": "The Guardian"
     },
     {
-      "name": "Marijuana",
-      "count": 6,
-      "url": "https://www.npr.org/2026/04/24/nx-s1-5791323/morning-news-brief",
-      "source": "NPR"
-    },
-    {
-      "name": "Pete Hegseth",
+      "name": "Jim Furyk",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/apr/23/david-ellison-trump-dinner-paramount-skydance-cnn",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 61,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/24/europe-profound-state-of-crisis-assess-threats-remedy",
+      "url": "https://www.theguardian.com/sport/2026/apr/24/jim-furyk-us-ryder-cup-captain-2027-ireland",
       "source": "The Guardian"
     },
     {
-      "name": "Iran",
-      "count": 30,
-      "url": "https://www.theguardian.com/world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce",
+      "name": "Dianna Russini",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/apr/23/mike-vrabel-dianna-russini-new-england-patriots-photos-nfl",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 27,
-      "url": "https://www.nytimes.com/2026/04/24/business/china-currency-iran.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 17,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "New York City",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/04/23/nyregion/dan-goldman-brad-lander-congress.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-04-23/as-california-chick-fil-a-worker-took-orders-man",
-      "source": "LA Times"
-    },
-    {
-      "name": "Ukraine",
-      "count": 11,
-      "url": "https://www.theguardian.com/environment/2026/apr/23/exclusion-zone-chornobyl-wildlife-thrives-amid-pro-nuclear-shift",
+      "name": "Hulk Hogan",
+      "count": 5,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/23/hulk-hogan-real-american-netflix",
       "source": "The Guardian"
     },
     {
-      "name": "India",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/04/23/us/politics/trump-china-india-immigrants.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Georgia",
-      "count": 10,
-      "url": "https://www.theguardian.com/sport/2026/apr/23/trump-photo-georgia-tennis-white-house-women",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A.",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-04-23/d4vd-court-appearance-murder-charges",
-      "source": "LA Times"
+      "name": "Marijuana",
+      "count": 5,
+      "url": "https://www.npr.org/2026/04/24/g-s1-118594/up-first-newsletter-strait-of-hormuz-lebanon-israel-marijuana-reclassification-georgia-wildfires-polymarket",
+      "source": "NPR"
     }
   ],
   "EVENT": [
     {
-      "name": "The Iran War Is Morphing Into A Volatile Standoff",
+      "name": "The War Has Been Working For Long-Term Investors",
       "count": 2,
-      "url": "https://www.nytimes.com/2026/04/23/us/politics/strait-iran-willpower.html",
+      "url": "https://www.nytimes.com/2026/04/24/business/iran-war-stocks-bonds-investing.html",
       "source": "NY Times"
     },
     {
@@ -138,9 +76,9 @@
       "source": "NY Times"
     },
     {
-      "name": "World War Ii",
+      "name": "The Iran War",
       "count": 2,
-      "url": "https://www.cbsnews.com/video/cbs-news-radio-flashback-japan-surrenders-1945-ending-world-war-ii/",
+      "url": "https://www.cbsnews.com/video/food-prices-could-rise-more-amid-the-iran-war-heres-how-to-cut-costs-on-groceries/",
       "source": "CBS News"
     },
     {
@@ -156,15 +94,21 @@
       "source": "Washington Post"
     },
     {
-      "name": "Fide Grand Swiss",
+      "name": "The Ryder Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/apr/24/chess-turkeys-yagiz-erdogmus-14-reaches-record-2700-rating-now-for-2800-and-2900",
+      "url": "https://www.theguardian.com/sport/2026/apr/24/jim-furyk-us-ryder-cup-captain-2027-ireland",
       "source": "The Guardian"
     },
     {
       "name": "Fa Cup",
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/apr/24/premier-league-and-fa-cup-semi-finals-10-things-to-look-out-for-this-weekend",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fide Grand Swiss",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/apr/24/chess-turkeys-yagiz-erdogmus-14-reaches-record-2700-rating-now-for-2800-and-2900",
       "source": "The Guardian"
     },
     {
@@ -178,50 +122,32 @@
       "count": 1,
       "url": "https://www.latimes.com/opinion/story/2026-04-23/regulationg-enhanced-games",
       "source": "LA Times"
-    },
-    {
-      "name": "A-List Weekend",
-      "count": 1,
-      "url": "https://www.politico.com/video/2026/04/23/tammy-haddad-on-barbra-streisand-trump-and-dcs-a-list-weekend-2025254",
-      "source": "Politico"
     }
   ],
   "ORG": [
     {
       "name": "Trump White House",
-      "count": 72,
+      "count": 58,
       "url": "https://www.theguardian.com/us-news/2026/apr/23/david-ellison-trump-dinner-paramount-skydance-cnn",
       "source": "The Guardian"
     },
     {
       "name": "Nfl Draft",
-      "count": 29,
-      "url": "https://www.foxnews.com/outkick-sports/rueben-bains-short-arms-tragic-car-accident-history-contributed-nfl-draft-slide",
+      "count": 20,
+      "url": "https://www.foxnews.com/outkick-sports/espn-slammed-awful-nfl-draft-broadcast-joke",
       "source": "Fox News"
     },
     {
       "name": "Ai",
-      "count": 19,
-      "url": "https://www.theguardian.com/technology/2026/apr/23/meta-microsoft-tech-ai-layoffs",
+      "count": 17,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/23/the-guardian-view-on-anthropics-claude-mythos-when-ai-finds-every-flaw-who-controls-the-internet",
       "source": "The Guardian"
     },
     {
-      "name": "Minnesota Senate",
-      "count": 14,
-      "url": "https://www.politico.com/live-updates/2026/04/15/congress/angie-craig-peggy-flanagan-minnesota-senate-cash-00875578",
-      "source": "Politico"
-    },
-    {
-      "name": "Cbs News Radio",
-      "count": 13,
-      "url": "https://www.cbsnews.com/video/cbs-news-radio-flashback-japan-surrenders-1945-ending-world-war-ii/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The United States Navy",
-      "count": 13,
-      "url": "https://www.nbcnews.com/politics/trump-administration/navy-secretary-phelan-exits-administration-rcna341532",
-      "source": "NBC News"
+      "name": "The Department For Exiting The Eu",
+      "count": 12,
+      "url": "https://www.theguardian.com/politics/2026/apr/24/britain-should-rejoin-eu-philip-rycroft",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
@@ -242,11 +168,85 @@
       "source": "The Guardian"
     },
     {
-      "name": "Breaking News",
+      "name": "Gop",
       "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/apr/23/louisiana-mall-shooting-baton-rouge",
+      "url": "https://www.foxnews.com/politics/democrat-beyer-blasts-gop-plan-counter-virginia-redistricting-eliminating-his-seat",
+      "source": "Fox News"
+    },
+    {
+      "name": "Minnesota Senate",
+      "count": 7,
+      "url": "https://www.politico.com/live-updates/2026/04/15/congress/angie-craig-peggy-flanagan-minnesota-senate-cash-00875578",
+      "source": "Politico"
+    },
+    {
+      "name": "Pentagon",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html",
+      "source": "NY Times"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 56,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/24/trump-pope-leo-catholics",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 29,
+      "url": "https://www.nytimes.com/2026/04/24/business/iran-war-stocks-bonds-investing.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 22,
+      "url": "https://www.theguardian.com/world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Florida",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/apr/24/florida-sloth-deaths-tourist-attraction",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 15,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "California",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/apr/24/california-social-media-big-tech",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 12,
+      "url": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Georgia",
+      "count": 11,
+      "url": "https://www.theguardian.com/news/2026/apr/24/wildfires-in-florida-after-dry-winter-and-spring-lead-to-drought-across-us",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ukraine",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/2026/apr/24/ukraine-frontline-soldiers-emaciated-lack-of-food-and-water",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Lebanon",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/24/gaza-israel-lebanon-war",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-04-24T09:05:46Z"
+  "updated": "2026-04-24T14:46:41Z"
 };
