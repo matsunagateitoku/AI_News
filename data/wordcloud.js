@@ -2,18 +2,18 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    122,
+    111,
     "https://www.nytimes.com/2026/04/23/us/politics/strait-iran-willpower.html"
   ],
   [
     "president",
-    40,
+    35,
     "https://www.nytimes.com/2026/04/23/us/politics/strait-iran-willpower.html"
   ],
   [
-    "secretary",
-    33,
-    "https://www.nytimes.com/2026/04/23/us/politics/trump-navy-secretary.html"
+    "iran",
+    31,
+    "https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html"
   ],
   [
     "administration",
@@ -21,23 +21,18 @@
     "https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html"
   ],
   [
-    "iran",
-    29,
-    "https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html"
+    "secretary",
+    30,
+    "https://www.nytimes.com/2026/04/23/us/politics/trump-navy-secretary.html"
   ],
   [
     "nfl",
-    28,
+    30,
     "https://www.washingtonpost.com/nation/2026/04/23/nfl-draft-pittsburgh-schools/"
   ],
   [
-    "police",
-    26,
-    "https://www.washingtonpost.com/nation/2026/04/22/louisiana-shooing-gun-charles-ford/"
-  ],
-  [
     "draft",
-    25,
+    26,
     "https://www.washingtonpost.com/nation/2026/04/23/nfl-draft-pittsburgh-schools/"
   ],
   [
@@ -46,24 +41,14 @@
     "https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html"
   ],
   [
-    "company",
+    "police",
     23,
-    "https://www.nytimes.com/2026/04/23/briefing/trump-says-israel-lebanon-cease-fire-is-extended.html"
+    "https://www.washingtonpost.com/nation/2026/04/22/louisiana-shooing-gun-charles-ford/"
   ],
   [
-    "game",
-    23,
-    "https://www.theguardian.com/football/2026/apr/24/premier-league-and-fa-cup-semi-finals-10-things-to-look-out-for-this-weekend"
-  ],
-  [
-    "california",
-    22,
-    "https://www.theguardian.com/us-news/2026/apr/23/mexican-mafia-arrests-california"
-  ],
-  [
-    "israel",
-    21,
-    "https://www.nytimes.com/2026/04/23/briefing/trump-says-israel-lebanon-cease-fire-is-extended.html"
+    "political",
+    20,
+    "https://www.nytimes.com/2026/04/23/us/politics/strait-iran-willpower.html"
   ],
   [
     "york",
@@ -71,29 +56,39 @@
     "https://www.nytimes.com/2026/04/23/nyregion/dan-goldman-brad-lander-congress.html"
   ],
   [
+    "air",
+    20,
+    "https://www.nytimes.com/2026/04/23/weather/tornado-oklahoma-enid.html"
+  ],
+  [
+    "department",
+    20,
+    "https://www.theguardian.com/politics/live/2026/apr/24/keir-starmer-peter-mandelson-us-met-police-westminster-assisted-dying-latest-news"
+  ],
+  [
+    "game",
+    20,
+    "https://www.theguardian.com/environment/2026/apr/23/down-to-earth-super-el-nino-extreme-weather"
+  ],
+  [
     "soldier",
     19,
     "https://www.nytimes.com/2026/04/23/nyregion/polymarket-maduro-indictment-soldier.html"
   ],
   [
-    "air",
+    "company",
     19,
-    "https://www.nytimes.com/2026/04/23/weather/tornado-oklahoma-enid.html"
+    "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html"
   ],
   [
-    "donald",
+    "series",
     19,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/23/hulk-hogan-real-american-netflix"
+    "https://www.nytimes.com/2026/04/23/arts/music/met-opera-saudi-deal-funding.html"
   ],
   [
     "control",
-    19,
-    "https://www.theguardian.com/us-news/2026/apr/23/trump-claims-us-has-total-control-over-strait-of-hormuz-as-iran-seizes-two-container-ships"
-  ],
-  [
-    "office",
     18,
-    "https://www.theguardian.com/us-news/2026/apr/23/maduro-raid-soldier-charged"
+    "https://www.theguardian.com/world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce"
   ],
   [
     "strait",
@@ -101,39 +96,14 @@
     "https://www.nytimes.com/2026/04/23/us/politics/strait-iran-willpower.html"
   ],
   [
-    "navy",
+    "israel",
     17,
-    "https://www.nytimes.com/2026/04/23/us/politics/trump-navy-secretary.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "million",
+    "feel",
     17,
-    "https://www.nytimes.com/2026/04/23/nyregion/dan-goldman-brad-lander-congress.html"
-  ],
-  [
-    "series",
-    17,
-    "https://www.nytimes.com/2026/04/23/arts/music/met-opera-saudi-deal-funding.html"
-  ],
-  [
-    "cbs",
-    17,
-    "https://www.theguardian.com/us-news/2026/apr/23/david-ellison-trump-dinner-paramount-skydance-cnn"
-  ],
-  [
-    "arrested",
-    17,
-    "https://www.theguardian.com/us-news/2026/apr/23/mexican-mafia-arrests-california"
-  ],
-  [
-    "fewer",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/apr/23/what-readers-bought-april"
-  ],
-  [
-    "senate",
-    17,
-    "https://www.theguardian.com/us-news/2026/apr/23/senate-republicans-trump-immigration-funding"
+    "https://www.theguardian.com/wellness/2026/apr/23/burned-haystack-dating-method"
   ],
   [
     "fashion",
@@ -141,14 +111,64 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/22/spring-wardrobe-refresh-men"
   ],
   [
+    "million",
+    16,
+    "https://www.nytimes.com/2026/04/23/nyregion/dan-goldman-brad-lander-congress.html"
+  ],
+  [
+    "court",
+    16,
+    "https://www.nytimes.com/2026/04/23/technology/elon-musk-sam-altman-openai-trial.html"
+  ],
+  [
+    "latest",
+    16,
+    "https://www.nytimes.com/2026/04/23/technology/intel-ai-earnings.html"
+  ],
+  [
     "food",
     16,
     "https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html"
   ],
   [
-    "department",
+    "american",
     16,
-    "https://www.theguardian.com/us-news/2026/apr/23/epstein-files-transparency-act-audit"
+    "https://www.nytimes.com/2026/04/24/arts/television/jimmy-kimmel-roasts-trump.html"
+  ],
+  [
+    "donald",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/apr/24/europe-profound-state-of-crisis-assess-threats-remedy"
+  ],
+  [
+    "review",
+    16,
+    "https://www.theguardian.com/stage/2026/apr/23/the-rocky-horror-show-review-broadway"
+  ],
+  [
+    "office",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/24/experience-ive-won-1m-on-the-lottery-twice"
+  ],
+  [
+    "social",
+    16,
+    "https://www.theguardian.com/world/2026/apr/24/india-trump-hellhole-post"
+  ],
+  [
+    "cbs",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/23/david-ellison-trump-dinner-paramount-skydance-cnn"
+  ],
+  [
+    "fewer",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/apr/23/what-readers-bought-april"
+  ],
+  [
+    "post",
+    15,
+    "https://www.nytimes.com/2026/04/23/us/politics/trump-china-india-immigrants.html"
   ],
   [
     "security",
@@ -156,19 +176,24 @@
     "https://www.nytimes.com/2026/04/23/opinion/apple-tim-cook-outsourcing-china.html"
   ],
   [
-    "feel",
+    "crisis",
     15,
-    "https://www.theguardian.com/wellness/2026/apr/23/burned-haystack-dating-method"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "event",
+    "team",
     15,
-    "https://www.theguardian.com/commentisfree/2026/apr/23/white-house-correspondents-dinner-trump"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "american",
+    "ago",
     15,
-    "https://www.theguardian.com/commentisfree/2026/apr/23/white-house-correspondents-dinner-trump"
+    "https://www.theguardian.com/technology/2026/apr/23/meta-microsoft-tech-ai-layoffs"
+  ],
+  [
+    "senate",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/23/republicans-big-oil-climate-lawsuits"
   ],
   [
     "buying",
@@ -176,24 +201,24 @@
     "https://www.theguardian.com/tv-and-radio/2026/apr/23/hulk-hogan-real-american-netflix"
   ],
   [
-    "role",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/23/maduro-raid-soldier-charged"
-  ],
-  [
     "filter",
     15,
     "https://www.theguardian.com/thefilter-us/2026/apr/23/what-readers-bought-april"
   ],
   [
-    "political",
+    "hormuz",
     14,
     "https://www.nytimes.com/2026/04/23/us/politics/strait-iran-willpower.html"
   ],
   [
-    "early",
+    "navy",
     14,
-    "https://www.nytimes.com/2026/04/23/business/microsoft-layoffs-artificial-intelligence.html"
+    "https://www.nytimes.com/2026/04/23/us/politics/trump-navy-secretary.html"
+  ],
+  [
+    "base",
+    14,
+    "https://www.nytimes.com/2026/04/23/weather/tornado-oklahoma-enid.html"
   ],
   [
     "military",
@@ -201,54 +226,29 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "team",
+    "pick",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/commentisfree/2026/apr/24/europe-profound-state-of-crisis-assess-threats-remedy"
   ],
   [
-    "others",
+    "music",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/23/serial-killer-experience-exhibit"
+    "https://www.theguardian.com/fashion/2026/apr/23/enduring-impact-of-sade-adu-style"
   ],
   [
-    "night",
+    "because",
     14,
-    "https://www.theguardian.com/culture/ng-interactive/2026/apr/23/taraji-p-henson-august-wilson-joe-turners-come-and-gone-interview"
+    "https://www.theguardian.com/commentisfree/2026/apr/23/catastrophic-climate-event-scientists-atlantic-system-collapse-billionaire-existential-crisis"
   ],
   [
-    "social",
+    "arrested",
     14,
-    "https://www.theguardian.com/world/2026/apr/24/india-trump-hellhole-post"
+    "https://www.theguardian.com/us-news/2026/apr/23/jodi-kantor-interview-how-to-start-gen-z-careers-jobs"
   ],
   [
-    "email",
+    "california",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/23/louisiana-mall-shooting-baton-rouge"
-  ],
-  [
-    "full",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/23/i-was-always-the-first-to-message-friends-when-i-stopped-i-lost-my-entire-circle-am-i-a-crap-person"
-  ],
-  [
-    "review",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/23/fulton-county-georgia-slavery"
-  ],
-  [
-    "hormuz",
-    13,
-    "https://www.nytimes.com/2026/04/23/us/politics/strait-iran-willpower.html"
-  ],
-  [
-    "latest",
-    13,
-    "https://www.nytimes.com/2026/04/23/briefing/trump-says-israel-lebanon-cease-fire-is-extended.html"
-  ],
-  [
-    "john",
-    13,
-    "https://www.nytimes.com/2026/04/23/us/politics/trump-navy-secretary.html"
+    "https://www.latimes.com/california/story/2026-04-23/as-california-chick-fil-a-worker-took-orders-man"
   ],
   [
     "maduro",
@@ -256,39 +256,49 @@
     "https://www.nytimes.com/2026/04/23/nyregion/polymarket-maduro-indictment-soldier.html"
   ],
   [
-    "court",
+    "night",
     13,
-    "https://www.washingtonpost.com/nation/2026/04/22/kansas-mayor-noncitizen-voting/"
+    "https://www.nytimes.com/2026/04/24/arts/television/jimmy-kimmel-roasts-trump.html"
   ],
   [
-    "shooting",
+    "early",
     13,
-    "https://www.washingtonpost.com/nation/2026/04/22/louisiana-shooing-gun-charles-ford/"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "crisis",
+    "foreign",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "sexual",
-    13,
-    "https://www.theguardian.com/wellness/2026/apr/23/burned-haystack-dating-method"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "far",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/23/serial-killer-experience-exhibit"
+    "https://www.theguardian.com/commentisfree/2026/apr/24/europe-profound-state-of-crisis-assess-threats-remedy"
   ],
   [
-    "ago",
+    "book",
     13,
-    "https://www.theguardian.com/technology/2026/apr/23/meta-microsoft-tech-ai-layoffs"
+    "https://www.theguardian.com/travel/2026/apr/24/readers-favourite-places-in-italy"
+  ],
+  [
+    "event",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/23/david-ellison-trump-dinner-paramount-skydance-cnn"
+  ],
+  [
+    "email",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/23/louisiana-mall-shooting-baton-rouge"
+  ],
+  [
+    "products",
+    13,
+    "https://www.theguardian.com/environment/2026/apr/24/toxic-chemicals-eu-delays-pollution-report"
   ],
   [
     "love",
     13,
-    "https://www.theguardian.com/sport/live/2026/apr/23/nfl-draft-live-updates"
+    "https://www.theguardian.com/music/2026/apr/23/olivia-dean-review-ovo-hydro-glasgow"
   ],
   [
     "weekly",
@@ -296,19 +306,9 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/23/what-readers-bought-april"
   ],
   [
-    "because",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/23/i-was-always-the-first-to-message-friends-when-i-stopped-i-lost-my-entire-circle-am-i-a-crap-person"
-  ],
-  [
-    "family",
-    13,
-    "https://www.theguardian.com/sport/2026/apr/23/mike-vrabel-dianna-russini-new-england-patriots-photos-nfl"
-  ],
-  [
-    "lebanon",
+    "john",
     12,
-    "https://www.nytimes.com/2026/04/23/briefing/trump-says-israel-lebanon-cease-fire-is-extended.html"
+    "https://www.nytimes.com/2026/04/23/us/politics/trump-navy-secretary.html"
   ],
   [
     "meta",
@@ -316,34 +316,44 @@
     "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html"
   ],
   [
-    "microsoft",
+    "country",
     12,
-    "https://www.nytimes.com/2026/04/23/business/microsoft-layoffs-artificial-intelligence.html"
+    "https://www.nytimes.com/2026/04/20/world/middleeast/saudi-arabia-vision-pragmatism.html"
   ],
   [
-    "star",
+    "children",
     12,
-    "https://www.nytimes.com/2026/04/23/movies/anne-hathaway-interview-popcast.html"
+    "https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html"
   ],
   [
-    "instead",
+    "hundreds",
     12,
-    "https://www.theguardian.com/wellness/2026/apr/23/burned-haystack-dating-method"
+    "https://www.nytimes.com/2026/04/24/world/europe/uk-assisted-dying-bill-lords.html"
   ],
   [
-    "always",
+    "others",
     12,
-    "https://www.theguardian.com/commentisfree/2026/apr/23/white-house-correspondents-dinner-trump"
+    "https://www.theguardian.com/stage/2026/apr/23/the-rocky-horror-show-review-broadway"
   ],
   [
-    "biggest",
+    "experience",
     12,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/23/hulk-hogan-real-american-netflix"
+    "https://www.theguardian.com/stage/2026/apr/23/the-rocky-horror-show-review-broadway"
   ],
   [
     "chief",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/23/louisiana-mall-shooting-baton-rouge"
+    "https://www.theguardian.com/world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce"
+  ],
+  [
+    "nuclear",
+    12,
+    "https://www.theguardian.com/world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce"
+  ],
+  [
+    "hand",
+    12,
+    "https://www.theguardian.com/politics/live/2026/apr/24/keir-starmer-peter-mandelson-us-met-police-westminster-assisted-dying-latest-news"
   ],
   [
     "breaking",
@@ -351,28 +361,18 @@
     "https://www.theguardian.com/us-news/2026/apr/23/louisiana-mall-shooting-baton-rouge"
   ],
   [
+    "instead",
+    12,
+    "https://www.theguardian.com/us-news/2026/apr/23/john-phelan-trump-navy-secretary-firing"
+  ],
+  [
     "reporter",
     12,
     "https://www.theguardian.com/us-news/2026/apr/23/new-york-times-reporter-investigated-fbi-kash-patel-girlfriend"
   ],
   [
-    "county",
+    "following",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/23/mexican-mafia-arrests-california"
-  ],
-  [
-    "products",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/apr/23/what-readers-bought-april"
-  ],
-  [
-    "guide",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/apr/23/what-readers-bought-april"
-  ],
-  [
-    "different",
-    12,
-    "https://www.theguardian.com/sport/2026/apr/23/mike-vrabel-dianna-russini-new-england-patriots-photos-nfl"
+    "https://www.theguardian.com/us-news/2026/apr/23/new-york-times-reporter-investigated-fbi-kash-patel-girlfriend"
   ]
 ];
