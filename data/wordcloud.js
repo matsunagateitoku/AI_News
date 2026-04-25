@@ -2,98 +2,143 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    95,
-    "https://www.nytimes.com/2026/04/24/us/politics/kevin-warsh-fed-rates-balance-sheet.html"
+    78,
+    "https://www.nytimes.com/2026/04/24/us/politics/marco-rubio-absence-iran-talks.html"
   ],
   [
     "iran",
-    39,
-    "https://www.nytimes.com/2026/04/24/world/middleeast/iran-us-strait-of-hormuz-blockade.html"
+    36,
+    "https://www.nytimes.com/2026/04/24/us/politics/marco-rubio-absence-iran-talks.html"
+  ],
+  [
+    "department",
+    29,
+    "https://www.nytimes.com/2026/04/24/business/doj-investigation-federal-reserve-powell.html"
   ],
   [
     "game",
-    34,
+    28,
     "https://www.theguardian.com/us-news/2026/apr/24/millionaire-hunter-dies-elephants-gabon"
   ],
   [
     "president",
-    31,
-    "https://www.nytimes.com/2026/04/24/us/politics/kevin-warsh-fed-rates-balance-sheet.html"
-  ],
-  [
-    "war",
-    29,
-    "https://www.nytimes.com/2026/04/24/business/strait-hormuz-ship-captain.html"
-  ],
-  [
-    "administration",
     27,
-    "https://www.nytimes.com/2026/04/24/us/politics/appeals-court-trump-asylum-claims.html"
-  ],
-  [
-    "department",
-    27,
-    "https://www.nytimes.com/2026/04/24/us/politics/trump-firing-squad-executions-death-penalty.html"
-  ],
-  [
-    "film",
-    20,
-    "https://www.nytimes.com/2026/04/21/movies/michael-review.html"
-  ],
-  [
-    "family",
-    19,
-    "https://www.nytimes.com/2026/04/24/arts/music/michael-jackson-second-family-cascio.html"
-  ],
-  [
-    "police",
-    19,
-    "https://www.theguardian.com/us-news/2026/apr/24/ice-police-danger-us"
-  ],
-  [
-    "night",
-    19,
-    "https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business"
-  ],
-  [
-    "israel",
-    18,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "death",
-    17,
-    "https://www.nytimes.com/2026/04/24/us/politics/trump-firing-squad-executions-death-penalty.html"
-  ],
-  [
-    "justice",
-    17,
-    "https://www.nytimes.com/2026/04/24/us/politics/trump-firing-squad-executions-death-penalty.html"
-  ],
-  [
-    "michael",
-    17,
-    "https://www.nytimes.com/2026/04/24/arts/music/michael-jackson-second-family-cascio.html"
-  ],
-  [
-    "social",
-    17,
-    "https://www.nytimes.com/2026/04/24/world/europe/turkey-ban-children-social-media.html"
-  ],
-  [
-    "court",
-    16,
-    "https://www.nytimes.com/2026/04/24/us/politics/appeals-court-trump-asylum-claims.html"
+    "https://www.nytimes.com/2026/04/24/us/politics/marco-rubio-absence-iran-talks.html"
   ],
   [
     "health",
-    16,
-    "https://www.nytimes.com/2026/04/24/health/calley-means-truemed-trump-health-savings.html"
+    26,
+    "https://www.washingtonpost.com/nation/2026/04/24/camp-mystic-license-renewal-reopen/"
   ],
   [
-    "donald",
+    "california",
+    24,
+    "https://www.theguardian.com/us-news/2026/apr/21/california-hot-air-balloon-lands-13-people"
+  ],
+  [
+    "family",
+    22,
+    "https://www.nytimes.com/2026/04/24/us/politics/trump-prediction-markets.html"
+  ],
+  [
+    "war",
+    21,
+    "https://www.nytimes.com/2026/04/24/travel/flight-cancellations-europe-summer-vacation.html"
+  ],
+  [
+    "justice",
+    21,
+    "https://www.nytimes.com/2026/04/24/briefing/fed-investigation-us-iran-peace-talks.html"
+  ],
+  [
+    "court",
+    20,
+    "https://www.nytimes.com/2026/04/24/us/politics/appeals-court-trump-asylum-claims.html"
+  ],
+  [
+    "death",
+    20,
+    "https://www.nytimes.com/2026/04/24/us/politics/trump-firing-squad-executions-death-penalty.html"
+  ],
+  [
+    "died",
+    20,
+    "https://www.nytimes.com/2026/04/24/us/sloth-deaths-orlando.html"
+  ],
+  [
+    "administration",
+    19,
+    "https://www.nytimes.com/2026/04/24/us/politics/federal-reserve-powell-pirro-investigation.html"
+  ],
+  [
+    "film",
+    19,
+    "https://www.nytimes.com/2026/04/21/movies/michael-review.html"
+  ],
+  [
+    "american",
+    19,
+    "https://www.nytimes.com/2026/04/24/us/elections/deb-haaland-sam-bregman-new-mexico-governor.html"
+  ],
+  [
+    "social",
+    19,
+    "https://www.theguardian.com/business/2026/apr/24/doj-drops-criminal-probe-jerome-powell-fed"
+  ],
+  [
+    "night",
+    18,
+    "https://www.theguardian.com/fashion/2026/apr/24/the-devil-wears-prada-2-shines-a-spotlight-on-a-revolution-in-the-fashion-world"
+  ],
+  [
+    "leading",
+    17,
+    "https://www.nytimes.com/2026/04/24/business/media/david-ellison-trump-cbs-news.html"
+  ],
+  [
+    "camp",
+    17,
+    "https://www.nytimes.com/2026/04/24/us/camp-mystic-texas-flood-safety-license.html"
+  ],
+  [
+    "florida",
+    17,
+    "https://www.nytimes.com/2026/04/24/us/usf-students-missing-body-found.html"
+  ],
+  [
+    "young",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/apr/24/fur-farming-pandemic-risk"
+  ],
+  [
+    "killed",
+    17,
+    "https://www.theguardian.com/us-news/2026/apr/24/us-military-strike-boat-pacific"
+  ],
+  [
+    "announced",
+    17,
+    "https://www.theguardian.com/us-news/2026/apr/24/us-military-strike-boat-pacific"
+  ],
+  [
+    "cup",
+    17,
+    "https://www.theguardian.com/football/2026/apr/24/premier-league-and-fa-cup-semi-finals-10-things-to-look-out-for-this-weekend"
+  ],
+  [
+    "summer",
     16,
-    "https://www.theguardian.com/commentisfree/2026/apr/24/donald-trump-pope-leo-xiv-catholics-christianity"
+    "https://www.nytimes.com/2026/04/24/travel/flight-cancellations-europe-summer-vacation.html"
+  ],
+  [
+    "case",
+    16,
+    "https://www.nytimes.com/2026/04/24/nyregion/us-venezuela-maduro-court-cost.html"
+  ],
+  [
+    "israel",
+    16,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "food",
@@ -101,14 +146,9 @@
     "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/apr/24/is-your-diet-ageing-you"
   ],
   [
-    "pakistan",
+    "epstein",
     16,
-    "https://www.theguardian.com/world/2026/apr/24/iran-foreign-minister-to-embark-on-three-nation-tour-as-us-peace-talks-remain-stalled"
-  ],
-  [
-    "talks",
-    16,
-    "https://www.theguardian.com/world/2026/apr/24/iran-foreign-minister-to-embark-on-three-nation-tour-as-us-peace-talks-remain-stalled"
+    "https://www.theguardian.com/us-news/2026/apr/24/virginia-giuffre-survivor-jeffrey-epstein-abuse"
   ],
   [
     "political",
@@ -116,19 +156,29 @@
     "https://www.theguardian.com/us-news/2026/apr/24/antisemitism-university-spikes-worry-jewish-scholars"
   ],
   [
-    "series",
+    "soccer",
     16,
     "https://www.theguardian.com/football/2026/apr/24/stefan-mijatovic-masl-fight-san-diego-sockers-milwaukee-wave"
   ],
   [
-    "review",
+    "others",
     15,
-    "https://www.nytimes.com/2026/04/21/movies/michael-review.html"
+    "https://www.nytimes.com/2026/04/24/us/politics/marco-rubio-absence-iran-talks.html"
   ],
   [
-    "children",
+    "michael",
     15,
-    "https://www.nytimes.com/2026/04/24/world/europe/turkey-ban-children-social-media.html"
+    "https://www.nytimes.com/2026/04/24/arts/music/michael-jackson-second-family-cascio.html"
+  ],
+  [
+    "military",
+    15,
+    "https://www.nytimes.com/2026/04/24/nyregion/howitzer-adirondacks.html"
+  ],
+  [
+    "country",
+    15,
+    "https://www.nytimes.com/2026/04/24/world/africa/kenya-court-abortion-ruling.html"
   ],
   [
     "filter",
@@ -146,54 +196,74 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/24/best-wireless-earbuds"
   ],
   [
-    "son",
+    "police",
     15,
+    "https://www.theguardian.com/us-news/2026/apr/24/ice-police-danger-us"
+  ],
+  [
+    "media",
+    15,
+    "https://www.theguardian.com/business/2026/apr/24/doj-drops-criminal-probe-jerome-powell-fed"
+  ],
+  [
+    "arrested",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/24/university-of-south-florida-body-discovered"
+  ],
+  [
+    "nbc",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/24/jeffrey-epstein-survivors-metoo"
+  ],
+  [
+    "talks",
+    14,
+    "https://www.nytimes.com/2026/04/24/us/politics/marco-rubio-absence-iran-talks.html"
+  ],
+  [
+    "draft",
+    14,
+    "https://www.washingtonpost.com/nation/2026/04/23/nfl-draft-pittsburgh-schools/"
+  ],
+  [
+    "air",
+    14,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "music",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/24/is-the-justin-bieber-renaissance-upon-us-eight-things-you-need-to-know"
+  ],
+  [
+    "son",
+    14,
     "https://www.theguardian.com/world/2026/apr/24/iran-foreign-minister-to-embark-on-three-nation-tour-as-us-peace-talks-remain-stalled"
   ],
   [
+    "series",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/24/us-military-strike-boat-pacific"
+  ],
+  [
+    "base",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/24/oklahoma-tornado"
+  ],
+  [
     "powell",
-    15,
-    "https://www.theguardian.com/us-news/live/2026/apr/24/doj-watchdog-epstein-donald-trump-iran-war-budget-bill-latest-news"
-  ],
-  [
-    "florida",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/24/florida-sloth-deaths-tourist-attraction"
-  ],
-  [
-    "secretary",
-    14,
-    "https://www.nytimes.com/2026/04/24/us/elections/deb-haaland-sam-bregman-new-mexico-governor.html"
-  ],
-  [
-    "leading",
-    14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "won",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/apr/24/best-wireless-earbuds"
-  ],
-  [
-    "star",
     13,
-    "https://www.nytimes.com/2026/04/24/arts/television/ashley-padilla-saturday-night-live.html"
+    "https://www.nytimes.com/2026/04/24/us/politics/federal-reserve-powell-pirro-investigation.html"
   ],
   [
-    "york",
+    "local",
     13,
     "https://www.nytimes.com/2026/04/24/nyregion/howitzer-adirondacks.html"
   ],
   [
-    "country",
+    "texas",
     13,
-    "https://www.nytimes.com/2026/04/24/world/europe/russia-economy.html"
-  ],
-  [
-    "media",
-    13,
-    "https://www.nytimes.com/2026/04/24/world/europe/turkey-ban-children-social-media.html"
+    "https://www.nytimes.com/2026/04/24/us/camp-mystic-texas-flood-safety-license.html"
   ],
   [
     "crisis",
@@ -201,7 +271,7 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "foreign",
+    "team",
     13,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
@@ -211,44 +281,19 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/24/best-wireless-earbuds"
   ],
   [
-    "witkoff",
+    "email",
     13,
-    "https://www.theguardian.com/world/2026/apr/24/iran-foreign-minister-to-embark-on-three-nation-tour-as-us-peace-talks-remain-stalled"
+    "https://www.theguardian.com/business/2026/apr/24/doj-drops-criminal-probe-jerome-powell-fed"
   ],
   [
-    "kushner",
-    13,
-    "https://www.theguardian.com/world/2026/apr/24/iran-foreign-minister-to-embark-on-three-nation-tour-as-us-peace-talks-remain-stalled"
-  ],
-  [
-    "others",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/24/us-veteran-lost-arizona-wilderness-rescued-son"
-  ],
-  [
-    "music",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/24/is-the-justin-bieber-renaissance-upon-us-eight-things-you-need-to-know"
-  ],
-  [
-    "became",
-    13,
-    "https://www.theguardian.com/sport/2026/apr/23/paige-shiver-sherrone-moore-good-morning-america-interview"
-  ],
-  [
-    "california",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/24/california-social-media-big-tech"
-  ],
-  [
-    "feel",
-    13,
-    "https://www.theguardian.com/games/2026/apr/24/saros-review-youll-strafe-until-your-thumbs-hurt-in-this-primal-alien-shooter"
-  ],
-  [
-    "something",
+    "chair",
     12,
-    "https://www.nytimes.com/2026/04/24/arts/television/ashley-padilla-saturday-night-live.html"
+    "https://www.nytimes.com/2026/04/24/briefing/fed-investigation-us-iran-peace-talks.html"
+  ],
+  [
+    "charges",
+    12,
+    "https://www.nytimes.com/2026/04/24/nyregion/gambling-companies-indictments-regulation.html"
   ],
   [
     "soldier",
@@ -256,39 +301,34 @@
     "https://www.nytimes.com/2026/04/24/business/what-are-prediction-markets.html"
   ],
   [
-    "american",
+    "firing",
     12,
-    "https://www.nytimes.com/2026/04/24/us/elections/deb-haaland-sam-bregman-new-mexico-governor.html"
+    "https://www.nytimes.com/2026/04/24/us/politics/trump-firing-squad-executions-death-penalty.html"
   ],
   [
-    "nfl",
+    "child",
     12,
-    "https://www.washingtonpost.com/nation/2026/04/23/nfl-draft-pittsburgh-schools/"
+    "https://www.nytimes.com/2026/04/24/arts/music/michael-jackson-second-family-cascio.html"
   ],
   [
-    "draft",
+    "york",
     12,
-    "https://www.washingtonpost.com/nation/2026/04/23/nfl-draft-pittsburgh-schools/"
+    "https://www.nytimes.com/2026/04/24/nyregion/howitzer-adirondacks.html"
   ],
   [
-    "air",
+    "style",
     12,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.nytimes.com/2026/04/24/style/nfl-draft-style.html"
   ],
   [
-    "past",
+    "children",
     12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.nytimes.com/2026/04/24/world/africa/kenya-court-abortion-ruling.html"
   ],
   [
-    "latest",
+    "again",
     12,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "email",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/apr/24/donald-trump-pope-leo-xiv-catholics-christianity"
+    "https://www.theguardian.com/thefilter-us/2026/apr/24/best-wireless-earbuds"
   ],
   [
     "guide",
@@ -296,39 +336,34 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/24/best-wireless-earbuds"
   ],
   [
+    "seat",
+    12,
+    "https://www.theguardian.com/us-news/2026/apr/24/tom-kean-republican-congress"
+  ],
+  [
     "order",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/24/trump-immigration-detention-colorado"
-  ],
-  [
-    "died",
-    12,
-    "https://www.theguardian.com/us-news/2026/apr/24/millionaire-hunter-dies-elephants-gabon"
-  ],
-  [
-    "young",
-    12,
-    "https://www.theguardian.com/us-news/2026/apr/24/us-veteran-lost-arizona-wilderness-rescued-son"
-  ],
-  [
-    "video",
-    12,
-    "https://www.theguardian.com/us-news/video/2026/apr/24/how-a-white-house-photo-obscured-an-elite-womens-tennis-team-video"
-  ],
-  [
-    "book",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/apr/24/jeff-bezos-lauren-sanchez-paris-venice-new-york-met-gala"
+    "https://www.theguardian.com/commentisfree/2026/apr/24/trump-pope-leo-catholics"
   ],
   [
     "round",
     12,
-    "https://www.theguardian.com/sport/2026/apr/24/nfl-draft-2026-takeaways-rams-cowboys-jets"
+    "https://www.theguardian.com/sport/2026/apr/24/nfl-draft-2026-day-two-picks"
   ],
   [
-    "cup",
+    "league",
     12,
-    "https://www.theguardian.com/football/2026/apr/24/fifa-accessible-seating-tickets-criticism"
+    "https://www.theguardian.com/football/2026/apr/24/premier-league-and-fa-cup-semi-finals-10-things-to-look-out-for-this-weekend"
+  ],
+  [
+    "became",
+    12,
+    "https://www.theguardian.com/sport/2026/apr/23/paige-shiver-sherrone-moore-good-morning-america-interview"
+  ],
+  [
+    "energy",
+    12,
+    "https://www.theguardian.com/us-news/2026/apr/24/maine-governor-blocks-datacenter-moratorium"
   ],
   [
     "experience",
@@ -336,43 +371,8 @@
     "https://www.theguardian.com/stage/2026/apr/23/the-rocky-horror-show-review-broadway"
   ],
   [
-    "space",
+    "feel",
     12,
     "https://www.theguardian.com/games/2026/apr/24/saros-review-youll-strafe-until-your-thumbs-hurt-in-this-primal-alien-shooter"
-  ],
-  [
-    "shooting",
-    12,
-    "https://www.theguardian.com/games/2026/apr/24/saros-review-youll-strafe-until-your-thumbs-hurt-in-this-primal-alien-shooter"
-  ],
-  [
-    "cbs",
-    12,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-04-22/former-cbs-mornings-executive-producer-joins-ms-now-as-political-director"
-  ],
-  [
-    "doj",
-    11,
-    "https://www.nytimes.com/2026/04/24/us/politics/todd-blanche-trump-doj.html"
-  ],
-  [
-    "investigation",
-    11,
-    "https://www.nytimes.com/2026/04/24/world/europe/polymarket-bets-france-paris-temperature-weather.html"
-  ],
-  [
-    "law",
-    11,
-    "https://www.nytimes.com/2026/04/24/world/europe/turkey-ban-children-social-media.html"
-  ],
-  [
-    "market",
-    11,
-    "https://www.washingtonpost.com/national-security/2026/04/23/polymarket-soldier-maduro-bet-charges/"
-  ],
-  [
-    "gaza",
-    11,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ]
 ];
