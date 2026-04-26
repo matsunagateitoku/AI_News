@@ -2,28 +2,28 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 76,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "White House Correspondents Association Chair",
-      "count": 27,
-      "url": "https://www.theguardian.com/us-news/2026/apr/26/trump-news-at-a-glance-white-house-press-dinner-thrown-into-disarray-by-lone-wolf-attack",
-      "source": "The Guardian"
+      "name": "Trump Cancels Witkoff",
+      "count": 79,
+      "url": "https://www.nytimes.com/2026/04/25/world/middleeast/trump-witkoff-kushner-pakistan-trip-canceled.html",
+      "source": "NY Times"
     },
     {
       "name": "The White House Correspondents' Dinner",
-      "count": 25,
+      "count": 28,
       "url": "https://www.cbsnews.com/live-updates/trump-evacuated-white-house-correspondents-dinner-security-incident/",
       "source": "CBS News"
     },
     {
       "name": "Palantir Ai",
-      "count": 17,
+      "count": 19,
       "url": "https://www.theguardian.com/uk-news/2026/apr/25/met-police-investigates-hundreds-officers-palantir-ai-tool",
       "source": "The Guardian"
+    },
+    {
+      "name": "White House Correspondents' Association",
+      "count": 18,
+      "url": "https://www.foxnews.com/media/white-house-correspondents-association-president-announces-event-being-rescheduled-after-shooting",
+      "source": "Fox News"
     },
     {
       "name": "The White House Presidential Personnel Office'S",
@@ -38,170 +38,46 @@
       "source": "The Guardian"
     },
     {
-      "name": "Cabinet",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/apr/25/trump-white-house-correspondents-dinner-what-we-know",
-      "source": "The Guardian"
-    },
-    {
       "name": "Guardian Faber Publishing",
       "count": 9,
       "url": "https://www.theguardian.com/commentisfree/2026/apr/24/jeff-bezos-lauren-sanchez-paris-venice-new-york-met-gala",
       "source": "The Guardian"
     },
     {
+      "name": "Cabinet",
+      "count": 9,
+      "url": "https://www.foxnews.com/politics/secret-service-line-fire-whca-shooting-still-unpaid-due-dem-led-shutdown",
+      "source": "Fox News"
+    },
+    {
+      "name": "Cbs News",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/apr/23/david-ellison-trump-dinner-paramount-skydance-cnn",
+      "source": "The Guardian"
+    },
+    {
       "name": "Nbc News'",
-      "count": 9,
-      "url": "https://www.nbcnews.com/video/shorts/trump-says-no-country-is-immune-from-violence-262129733634",
+      "count": 8,
+      "url": "https://www.nbcnews.com/video/shorts/inside-security-at-the-white-house-correspondents-dinner-262126661992",
       "source": "NBC News"
-    },
-    {
-      "name": "Nfl Draft",
-      "count": 7,
-      "url": "https://www.foxnews.com/sports/albert-regis-baby-daughter-crawled-toward-jaguars-cup-drafted-jacksonville",
-      "source": "Fox News"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 38,
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/26/donald-trump-evacuated-from-white-house-correspondents-dinner-after-loud-bangs-heard-live",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Deep Blue California",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/04/25/us/politics/california-voter-id-citizenship-ballot.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 18,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Washington Dc",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/apr/25/trump-white-house-correspondents-dinner-what-we-know",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ukraine",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Pakistan",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/2026/apr/25/trump-cancels-envoys-pakistan-trip-iran-talks",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Russia",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/2026/apr/26/ukraine-war-briefing-zelenskyy-signs-agreement-with-azerbaijan-as-death-tolls-from-russian-attacks-rises-to-10",
-      "source": "The Guardian"
-    },
-    {
-      "name": "London",
-      "count": 9,
-      "url": "https://www.theguardian.com/sport/2026/apr/25/table-tennis-ping-pong-world-championships-history-ivor-montagu",
-      "source": "The Guardian"
-    }
-  ],
-  "EVENT": [
-    {
-      "name": "Fa Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/football/2026/apr/25/arsenal-newcastle-premier-league-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "’S World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Boston Marathon",
-      "count": 1,
-      "url": "https://www.washingtonpost.com/lifestyle/2026/04/24/boston-marathon-last-finishers/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "World Series",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/apr/25/red-sox-fire-alex-cora-mlb-coaches",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Iran War",
-      "count": 1,
-      "url": "https://www.theguardian.com/environment/2026/apr/24/global-oil-crisis-changed-fossil-fuel-industry-for-ever-iea-chief-fatih-birol",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Enhanced Games'",
-      "count": 1,
-      "url": "https://www.latimes.com/opinion/story/2026-04-23/regulationg-enhanced-games",
-      "source": "LA Times"
-    },
-    {
-      "name": "Game 3",
-      "count": 1,
-      "url": "https://www.latimes.com/sports/lakers/story/2026-04-25/bronny-james-settling-into-lakers-playoff-role",
-      "source": "LA Times"
-    },
-    {
-      "name": "Game 4",
-      "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/ottawas-ridly-greig-delivers-disgusting-cheap-shot-game-4-carolina",
-      "source": "Fox News"
-    },
-    {
-      "name": "The Stanley Cup Playoffs",
-      "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/canadiens-coach-martin-st-louis-says-certain-classic-sitcom-key-unwinding-games",
-      "source": "Fox News"
-    },
-    {
-      "name": "The Iran War'S",
-      "count": 1,
-      "url": "https://www.cbsnews.com/news/iran-war-economic-impact-gas-prices-inflation-2026/",
-      "source": "CBS News"
     }
   ],
   "PERSON": [
     {
       "name": "Hegseth  The Trump",
-      "count": 48,
+      "count": 44,
       "url": "https://www.theguardian.com/us-news/2026/apr/25/progressive-christians-religion-trump-pope",
       "source": "The Guardian"
     },
     {
       "name": "Donald Trump",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/apr/25/white-house-correspondents-dinner-reactions",
+      "count": 16,
+      "url": "https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house",
       "source": "The Guardian"
     },
     {
       "name": "Steve Witkoff",
-      "count": 7,
+      "count": 6,
       "url": "https://www.theguardian.com/world/2026/apr/25/trump-cancels-envoys-pakistan-trip-iran-talks",
       "source": "The Guardian"
     },
@@ -209,6 +85,18 @@
       "name": "Alex Cora",
       "count": 6,
       "url": "https://www.theguardian.com/sport/2026/apr/25/red-sox-fire-alex-cora-mlb-coaches",
+      "source": "The Guardian"
+    },
+    {
+      "name": "John Robins",
+      "count": 5,
+      "url": "https://www.theguardian.com/culture/2026/apr/26/i-wanted-alcohol-to-take-me-to-a-place-where-i-was-not-comedian-john-robins-on-the-moment-he-realised-he-had-a-drinking-problem",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Melania Trump",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/apr/26/donald-melania-trump-white-houe-correspondents-dinner",
       "source": "The Guardian"
     },
     {
@@ -232,21 +120,133 @@
     {
       "name": "Whcd",
       "count": 5,
-      "url": "https://www.foxnews.com/media/trump-praises-press-after-whcd-shooting-says-unity-dinner-beautiful",
-      "source": "Fox News"
+      "url": "https://www.latimes.com/california/story/2026-04-25/suspect-california-trump-white-house-dinner",
+      "source": "LA Times"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "Fa Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/football/2026/apr/25/arsenal-newcastle-premier-league-match-report",
+      "source": "The Guardian"
     },
     {
-      "name": "Zohran Mamdani",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/04/25/nyregion/jenifer-rajkumar-david-orkin-queens-assembly-seat.html",
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/04/25/world/middleeast/trump-witkoff-kushner-pakistan-trip-canceled.html",
       "source": "NY Times"
     },
     {
-      "name": "Wolf Blitzer",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/26/donald-trump-evacuated-from-white-house-correspondents-dinner-after-loud-bangs-heard-live",
+      "name": "’S World Cup",
+      "count": 2,
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
       "source": "The Guardian"
+    },
+    {
+      "name": "Iran Talks, Saying",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/04/25/world/middleeast/trump-witkoff-kushner-pakistan-trip-canceled.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Boston Marathon",
+      "count": 1,
+      "url": "https://www.washingtonpost.com/lifestyle/2026/04/24/boston-marathon-last-finishers/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "World Ai",
+      "count": 1,
+      "url": "https://www.theguardian.com/technology/2026/apr/26/cannes-ai-film-festival-raises-eyebrows-questions-future",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Series",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/apr/25/red-sox-fire-alex-cora-mlb-coaches",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Enhanced Games'",
+      "count": 1,
+      "url": "https://www.latimes.com/opinion/story/2026-04-23/regulationg-enhanced-games",
+      "source": "LA Times"
+    },
+    {
+      "name": "Game 3",
+      "count": 1,
+      "url": "https://www.latimes.com/sports/lakers/story/2026-04-25/bronny-james-settling-into-lakers-playoff-role",
+      "source": "LA Times"
+    },
+    {
+      "name": "Game 4",
+      "count": 1,
+      "url": "https://www.foxnews.com/outkick-sports/ottawas-ridly-greig-delivers-disgusting-cheap-shot-game-4-carolina",
+      "source": "Fox News"
     }
   ],
-  "updated": "2026-04-26T04:25:21Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 38,
+      "url": "https://www.theguardian.com/science/2026/apr/26/china-us-space-race-moon",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Deep Blue California",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/04/25/us/politics/california-voter-id-citizenship-ballot.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 14,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Washington",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/apr/25/white-house-correspondents-dinner-reactions",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ukraine",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 10,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Russia",
+      "count": 9,
+      "url": "https://www.theguardian.com/world/2026/apr/26/ukraine-war-briefing-zelenskyy-signs-agreement-with-azerbaijan-as-death-tolls-from-russian-attacks-rises-to-10",
+      "source": "The Guardian"
+    },
+    {
+      "name": "London",
+      "count": 9,
+      "url": "https://www.theguardian.com/sport/2026/apr/25/table-tennis-ping-pong-world-championships-history-ivor-montagu",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pakistan",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/04/25/world/middleeast/trump-witkoff-kushner-pakistan-trip-canceled.html",
+      "source": "NY Times"
+    }
+  ],
+  "updated": "2026-04-26T08:18:08Z"
 };
