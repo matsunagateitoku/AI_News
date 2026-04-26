@@ -4,88 +4,212 @@
     {
       "name": "Melania Trump",
       "count": 36,
-      "url": "https://www.cbsnews.com/video/washington-shaken-by-shooting-at-white-house-press-dinner/",
+      "url": "https://www.theguardian.com/us-news/2026/apr/26/white-house-correspondents-dinner-shooting-washington-dc",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Margaret Brennan",
+      "count": 20,
+      "url": "https://www.cbsnews.com/face-the-nation/transcripts/",
       "source": "CBS News"
     },
     {
       "name": "Donald Trump",
-      "count": 13,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/26/democrats-justice-2028-election",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/26/pope-leo-trump-hegseth-christianity",
       "source": "The Guardian"
     },
     {
       "name": "Todd Blanche",
       "count": 10,
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton",
+      "url": "https://www.theguardian.com/us-news/2026/apr/26/details-white-house-correspondents-dinner-shooting",
       "source": "The Guardian"
     },
     {
-      "name": "Peter Mandelson",
+      "name": "Weijia Jiang",
+      "count": 9,
+      "url": "https://www.cbsnews.com/video/weijia-jiang-recounts-white-house-correspondents-dinner-shooting/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Cole Allen",
+      "count": 8,
+      "url": "https://www.npr.org/2026/04/26/g-s1-118826/cole-allen-suspected-white-house-correspondents-dinner-shooter-profile",
+      "source": "NPR"
+    },
+    {
+      "name": "Jamie Raskin",
       "count": 7,
-      "url": "https://www.theguardian.com/politics/2026/apr/26/keir-starmer-vows-lead-labour-general-election-mandelson-vetting",
+      "url": "https://www.foxnews.com/media/raskin-acts-clueless-when-pressed-democrats-anti-trump-rhetoric-following-whcd-shooting",
+      "source": "Fox News"
+    },
+    {
+      "name": "Alex Cora",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/apr/25/red-sox-fire-alex-cora-mlb-coaches",
       "source": "The Guardian"
+    },
+    {
+      "name": "Whcd",
+      "count": 6,
+      "url": "https://www.foxnews.com/media/ex-nypd-inspector-warns-social-media-likely-helped-political-violence-metastasize-whcd-scare",
+      "source": "Fox News"
     },
     {
       "name": "Pete Hegseth",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/apr/26/pete-hegseth-iran-war-christian-extremism",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/26/pope-leo-trump-hegseth-christianity",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 53,
+      "url": "https://www.theguardian.com/us-news/2026/apr/26/details-white-house-correspondents-dinner-shooting",
       "source": "The Guardian"
     },
     {
-      "name": "Sabastian Sawe",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/apr/26/sabastian-sawe-breaks-two-hour-barrier-london-marathon-world-record",
+      "name": "California",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Washington Dc’S",
+      "count": 26,
+      "url": "https://www.theguardian.com/stage/2026/apr/26/adjoa-andoh-shakespare-bridgerton-dei",
       "source": "The Guardian"
     },
     {
-      "name": "Jaden Mcdaniels",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/apr/26/nikol-jokic-boils-over-after-mcdanielss-mocking-layup-in-nuggets-loss-to-timberwolves",
+      "name": "Iran",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 14,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/26/gunfire-at-the-white-house-correspondents-dinner-is-another-grim-sign-of-our-times",
       "source": "The Guardian"
     },
     {
-      "name": "John Robins",
-      "count": 5,
-      "url": "https://www.theguardian.com/culture/2026/apr/26/i-wanted-alcohol-to-take-me-to-a-place-where-i-was-not-comedian-john-robins-on-the-moment-he-realised-he-had-a-drinking-problem",
-      "source": "The Guardian"
+      "name": "Texas",
+      "count": 13,
+      "url": "https://www.washingtonpost.com/nation/2026/04/24/camp-mystic-license-renewal-reopen/",
+      "source": "Washington Post"
     },
     {
-      "name": "Hulk Hogan",
-      "count": 5,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/23/hulk-hogan-real-american-netflix",
-      "source": "The Guardian"
+      "name": "Mexico",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "Cole Allen",
-      "count": 5,
-      "url": "https://www.cbsnews.com/news/todd-blanche-suspect-white-house-correspondents-dinner-target/",
+      "name": "West Hollywood",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-04-25/california-west-hollywood-polyamorous-union-laws",
+      "source": "LA Times"
+    },
+    {
+      "name": "Washington D.C.",
+      "count": 9,
+      "url": "https://www.foxnews.com/outkick-sports/pittsburgh-breaks-nfl-draft-attendance-record",
+      "source": "Fox News"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Target For Trump",
+      "count": 68,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "White House Correspondents' Association",
+      "count": 28,
+      "url": "https://www.cbsnews.com/news/weijia-jiang-on-face-the-nation-with-margaret-brennan-april-26-2026/",
       "source": "CBS News"
+    },
+    {
+      "name": "The White House Correspondents' Dinner",
+      "count": 20,
+      "url": "https://www.npr.org/sections/the-picture-show/2026/04/26/g-s1-118806/photos-the-aftermath-of-the-white-house-correspondents-dinner-shooting",
+      "source": "NPR"
+    },
+    {
+      "name": "Ai",
+      "count": 18,
+      "url": "https://www.theguardian.com/technology/2026/apr/26/musk-altman-openai-court",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House Correspondents' Association Dinner",
+      "count": 18,
+      "url": "https://www.cbsnews.com/live-updates/trump-evacuated-white-house-correspondents-dinner-security-incident/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Cbs News",
+      "count": 15,
+      "url": "https://www.cbsnews.com/video/national-security-expert-sam-vinograd-on-what-she-saw-during-correspondents-dinner-shooting/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Guardian News",
+      "count": 13,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Blanche",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/apr/26/details-white-house-correspondents-dinner-shooting",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nfl Draft",
+      "count": 8,
+      "url": "https://www.foxnews.com/outkick-sports/pittsburgh-breaks-nfl-draft-attendance-record",
+      "source": "Fox News"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 2,
+      "count": 3,
       "url": "https://www.theguardian.com/us-news/2026/apr/26/pete-hegseth-iran-war-christian-extremism",
       "source": "The Guardian"
     },
     {
-      "name": "World Cup 2026",
+      "name": "The 2026 World Cup",
       "count": 2,
-      "url": "https://www.theguardian.com/football/2026/apr/26/fifa-agrees-to-increase-world-cup-prize-money-after-countries-raise-concerns-over-costs",
+      "url": "https://www.theguardian.com/football/2026/apr/26/2026-world-cup-bid-tickets-politics-trump",
       "source": "The Guardian"
     },
     {
-      "name": "Game 4",
-      "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/nba-playoffs-game-4-preview-cavs-favored-bounce-back-toronto-ugly-loss",
-      "source": "Fox News"
+      "name": "Fa Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/apr/26/chelsea-leeds-fa-cup-semi-final-match-report",
+      "source": "The Guardian"
     },
     {
-      "name": "U.S.-Iran Talks Fail To Materialize",
+      "name": "The Madrid Open",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/04/26/world/asia/islamabad-talks-iran-us.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/sport/2026/apr/26/coco-gauff-virus-fourth-round-madrid-open-tennis",
+      "source": "The Guardian"
     },
     {
       "name": "World Series",
@@ -124,129 +248,5 @@
       "source": "NPR"
     }
   ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 39,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/26/democrats-justice-2028-election",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/04/26/business/economy/us-iran-russia-oil-sanctions.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Washington Dc’S",
-      "count": 22,
-      "url": "https://www.theguardian.com/stage/2026/apr/26/adjoa-andoh-shakespare-bridgerton-dei",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/04/26/business/economy/us-iran-russia-oil-sanctions.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/environment/2026/apr/25/criminalisation-of-climate-protesters-in-uk-is-counterproductive-research-finds",
-      "source": "The Guardian"
-    },
-    {
-      "name": "West Hollywood",
-      "count": 11,
-      "url": "https://www.latimes.com/california/story/2026-04-25/california-west-hollywood-polyamorous-union-laws",
-      "source": "LA Times"
-    },
-    {
-      "name": "America",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/apr/26/white-house-correspondents-dinner-shooting-covering-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas",
-      "count": 8,
-      "url": "https://www.washingtonpost.com/nation/2026/04/24/camp-mystic-license-renewal-reopen/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Israel",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
-      "source": "NY Times"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Target For Trump",
-      "count": 74,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "The White House Correspondents' Dinner",
-      "count": 20,
-      "url": "https://www.cbsnews.com/news/shooting-white-house-correspondents-dinner-video-timeline/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The White House Correspondents' Association Dinner",
-      "count": 18,
-      "url": "https://www.cbsnews.com/news/todd-blanche-suspect-white-house-correspondents-dinner-target/",
-      "source": "CBS News"
-    },
-    {
-      "name": "White House Correspondents' Association",
-      "count": 18,
-      "url": "https://www.cbsnews.com/video/president-whca-says-event-rescheduled-says-thank-god-everybody-safe/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Ai",
-      "count": 17,
-      "url": "https://www.theguardian.com/technology/2026/apr/26/musk-altman-openai-court",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian News",
-      "count": 10,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nfl",
-      "count": 9,
-      "url": "https://www.theguardian.com/sport/2026/apr/25/nfl-draft-2026-day-three-picks",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 7,
-      "url": "https://www.politico.com/news/2026/04/22/republicans-virginia-redistricting-frustration-00886360",
-      "source": "Politico"
-    },
-    {
-      "name": "Fbi",
-      "count": 6,
-      "url": "https://www.latimes.com/california/story/2026-04-24/fbi-joins-probe-into-disappearance-of-socal-grandpa-linked-to-crypto-fortune",
-      "source": "LA Times"
-    }
-  ],
-  "updated": "2026-04-26T14:06:31Z"
+  "updated": "2026-04-26T19:50:06Z"
 };
