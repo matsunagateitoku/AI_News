@@ -2,248 +2,208 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    155,
+    134,
     "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html"
   ],
   [
     "dinner",
-    101,
+    83,
     "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html"
   ],
   [
     "correspondents",
-    87,
+    67,
     "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html"
   ],
   [
     "president",
-    82,
+    63,
     "https://www.nytimes.com/2026/04/26/us/politics/trump-shooting-gunman-correspondents-dinner.html"
   ],
   [
     "shooting",
-    58,
+    55,
     "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html"
   ],
   [
     "washington",
+    30,
+    "https://www.nytimes.com/2026/04/26/us/politics/trump-shooting-gunman-correspondents-dinner.html"
+  ],
+  [
+    "game",
+    29,
+    "https://www.theguardian.com/sport/2026/apr/26/nikol-jokic-boils-over-after-mcdanielss-mocking-layup-in-nuggets-loss-to-timberwolves"
+  ],
+  [
+    "night",
     26,
     "https://www.nytimes.com/2026/04/26/us/politics/trump-shooting-gunman-correspondents-dinner.html"
   ],
   [
     "iran",
     25,
-    "https://www.nytimes.com/2026/04/25/world/middleeast/trump-witkoff-kushner-pakistan-trip-canceled.html"
-  ],
-  [
-    "game",
-    25,
-    "https://www.theguardian.com/sport/2026/apr/25/heat-on-sinner-as-alcarazs-absence-begs-the-question-who-can-fill-the-void"
-  ],
-  [
-    "suspect",
-    24,
-    "https://www.theguardian.com/us-news/2026/apr/26/donald-melania-trump-white-houe-correspondents-dinner"
-  ],
-  [
-    "night",
-    23,
-    "https://www.nytimes.com/2026/04/26/us/politics/trump-shooting-gunman-correspondents-dinner.html"
-  ],
-  [
-    "film",
-    23,
-    "https://www.theguardian.com/film/2026/apr/25/actor-luke-hemsworth-interview-brothers-chris-liam-confusion"
-  ],
-  [
-    "california",
-    22,
-    "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html"
-  ],
-  [
-    "event",
-    22,
-    "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html"
-  ],
-  [
-    "fired",
-    21,
-    "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html"
+    "https://www.nytimes.com/2026/04/26/business/economy/us-iran-russia-oil-sanctions.html"
   ],
   [
     "war",
-    20,
-    "https://www.nytimes.com/2026/04/25/world/middleeast/trump-witkoff-kushner-pakistan-trip-canceled.html"
+    24,
+    "https://www.nytimes.com/video/us/politics/100000010857432/how-the-war-in-iran-is-draining-the-us-of-critical-weapons.html"
   ],
   [
-    "evacuated",
-    20,
-    "https://www.theguardian.com/us-news/2026/apr/26/donald-melania-trump-white-houe-correspondents-dinner"
+    "suspect",
+    21,
+    "https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton"
   ],
   [
-    "political",
-    20,
-    "https://www.theguardian.com/us-news/2026/apr/26/violence-must-never-be-the-way-world-leaders-react-to-washington-shooting-at-trump-event"
+    "film",
+    21,
+    "https://www.theguardian.com/world/2026/apr/26/ukrainian-action-thriller-billed-as-saving-private-ryan-for-the-drone-age"
   ],
   [
-    "shots",
-    19,
+    "california",
+    20,
     "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html"
   ],
   [
-    "service",
-    19,
-    "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html"
+    "win",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/apr/26/democrats-justice-2028-election"
   ],
   [
-    "job",
-    19,
-    "https://www.nytimes.com/2026/04/25/us/politics/lafayette-park-fountains-trump-contract.html"
+    "press",
+    20,
+    "https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton"
+  ],
+  [
+    "global",
+    18,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "star",
+    18,
+    "https://www.theguardian.com/us-news/2026/apr/26/brooklyn-park-mn-plane-crash-crystal-airport"
   ],
   [
     "donald",
-    19,
-    "https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house"
+    17,
+    "https://www.theguardian.com/us-news/2026/apr/26/white-house-correspondents-dinner-shooting-covering-trump"
+  ],
+  [
+    "political",
+    17,
+    "https://www.theguardian.com/books/2026/apr/26/do-stronger-borders-ever-work"
+  ],
+  [
+    "association",
+    17,
+    "https://www.cbsnews.com/news/todd-blanche-suspect-white-house-correspondents-dinner-target/"
+  ],
+  [
+    "nearly",
+    16,
+    "https://www.nytimes.com/video/us/politics/100000010857432/how-the-war-in-iran-is-draining-the-us-of-critical-weapons.html"
   ],
   [
     "security",
-    18,
-    "https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html"
+    16,
+    "https://www.nytimes.com/video/us/politics/100000010857432/how-the-war-in-iran-is-draining-the-us-of-critical-weapons.html"
   ],
   [
-    "killed",
-    18,
-    "https://www.nytimes.com/2026/04/25/world/americas/2-cia-officers-killed-in-mexico-crash-lacked-proper-authorization.html"
-  ],
-  [
-    "inside",
-    18,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "members",
-    18,
-    "https://www.theguardian.com/us-news/2026/apr/26/donald-melania-trump-white-houe-correspondents-dinner"
-  ],
-  [
-    "custody",
-    17,
-    "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html"
+    "talks",
+    16,
+    "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html"
   ],
   [
     "court",
-    17,
-    "https://www.nytimes.com/2026/04/25/us/texas-mexico-border-arrest-deport-immigration.html"
-  ],
-  [
-    "students",
-    17,
-    "https://www.theguardian.com/us-news/2026/apr/25/hative-hawaiian-scholarship-program-lawsuit"
-  ],
-  [
-    "health",
     16,
-    "https://www.washingtonpost.com/nation/2026/04/25/idaho-rats-boise-treasure-valley-population/"
+    "https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html"
+  ],
+  [
+    "red",
+    16,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "others",
+    16,
+    "https://www.theguardian.com/technology/2026/apr/26/musk-altman-openai-court"
   ],
   [
     "school",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/26/out-of-job-after-conflicts-schools-where-worked-annalisa-barbieri"
-  ],
-  [
-    "incident",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/26/donald-melania-trump-white-houe-correspondents-dinner"
-  ],
-  [
-    "social",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/25/georgia-florida-wildfires"
-  ],
-  [
-    "cbs",
-    16,
-    "https://www.theguardian.com/us-news/2026/apr/23/david-ellison-trump-dinner-paramount-skydance-cnn"
-  ],
-  [
-    "authorities",
-    15,
-    "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html"
-  ],
-  [
-    "secret",
-    15,
-    "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html"
-  ],
-  [
-    "red",
-    15,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "fire",
-    15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "media",
-    15,
-    "https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house"
+    "https://www.theguardian.com/us-news/2026/apr/26/teen-louisiana-mass-shooting-grandmother"
   ],
   [
     "energy",
-    14,
+    15,
     "https://www.washingtonpost.com/obituaries/2026/04/25/lionel-rosenblatt-dead-refugees-vietnam/"
   ],
   [
-    "leading",
-    14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "health",
+    15,
+    "https://www.washingtonpost.com/nation/2026/04/25/idaho-rats-boise-treasure-valley-population/"
   ],
   [
-    "questions",
-    14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "northern",
+    15,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "following",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/26/white-house-correspondents-dinner-shooting-covering-trump"
+  ],
+  [
+    "because",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/apr/26/democrats-justice-2028-election"
+  ],
+  [
+    "blanche",
+    15,
+    "https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton"
   ],
   [
     "series",
-    14,
-    "https://www.theguardian.com/culture/2026/apr/26/i-wanted-alcohol-to-take-me-to-a-place-where-i-was-not-comedian-john-robins-on-the-moment-he-realised-he-had-a-drinking-problem"
+    15,
+    "https://www.theguardian.com/sport/2026/apr/26/nikol-jokic-boils-over-after-mcdanielss-mocking-layup-in-nuggets-loss-to-timberwolves"
   ],
   [
-    "space",
-    14,
-    "https://www.theguardian.com/science/2026/apr/26/china-us-space-race-moon"
-  ],
-  [
-    "press",
-    14,
-    "https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house"
-  ],
-  [
-    "room",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/26/donald-melania-trump-white-houe-correspondents-dinner"
+    "young",
+    15,
+    "https://www.theguardian.com/books/2026/apr/24/the-body-builders-by-albertine-clarke-review-a-compelling-debut-of-mental-meltdown"
   ],
   [
     "administration",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/25/progressive-christians-religion-trump-pope"
+    "https://www.nytimes.com/2026/04/26/business/economy/us-iran-russia-oil-sanctions.html"
   ],
   [
-    "star",
+    "early",
     14,
-    "https://www.theguardian.com/film/2026/apr/25/actor-luke-hemsworth-interview-brothers-chris-liam-confusion"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "feel",
     14,
-    "https://www.theguardian.com/technology/2026/apr/26/cannes-ai-film-festival-raises-eyebrows-questions-future"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/26/i-yearned-to-be-a-mother-why-did-i-feel-nothing-when-my-daughter-was-finally-born"
   ],
   [
-    "music",
+    "love",
     14,
-    "https://www.theguardian.com/music/2026/apr/25/london-deptford-northern-soul-club-lewis-henderson-will-foot-music"
+    "https://www.theguardian.com/lifeandstyle/2026/apr/26/i-yearned-to-be-a-mother-why-did-i-feel-nothing-when-my-daughter-was-finally-born"
+  ],
+  [
+    "attorney",
+    14,
+    "https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton"
+  ],
+  [
+    "police",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/26/teen-louisiana-mass-shooting-grandmother"
   ],
   [
     "buying",
@@ -261,118 +221,158 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/24/5-tips-to-sell-your-clothes-online"
   ],
   [
-    "association",
-    14,
-    "https://www.foxnews.com/media/white-house-correspondents-association-president-announces-event-being-rescheduled-after-shooting"
-  ],
-  [
-    "hilton",
+    "service",
     13,
-    "https://www.nytimes.com/2026/04/26/us/politics/trump-shooting-gunman-correspondents-dinner.html"
+    "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html"
   ],
   [
-    "trip",
+    "ago",
     13,
-    "https://www.nytimes.com/2026/04/25/world/middleeast/trump-witkoff-kushner-pakistan-trip-canceled.html"
+    "https://www.nytimes.com/2026/04/26/world/europe/40-years-ago-a-nuclear-catastrophe-at-chernobyl.html"
   ],
   [
-    "talks",
+    "history",
     13,
-    "https://www.nytimes.com/2026/04/25/world/middleeast/trump-witkoff-kushner-pakistan-trip-canceled.html"
+    "https://www.nytimes.com/2026/04/26/well/south-carolina-measles-outbreak-ends.html"
   ],
   [
-    "several",
+    "million",
     13,
-    "https://www.nytimes.com/2026/04/25/us/politics/lafayette-park-fountains-trump-contract.html"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "family",
+    "despite",
     13,
-    "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html"
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "love",
+    "fire",
     13,
-    "https://www.nytimes.com/2026/04/25/opinion/culture/michael-jackson-movie-fan.html"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "attacks",
+    "job",
     13,
-    "https://www.nytimes.com/2026/04/25/world/africa/mali-attacks-jnim-al-qaeda-bamako.html"
+    "https://www.theguardian.com/news/ng-interactive/2026/apr/26/bad-movies-good-business-how-sanitised-biopics-became-a-hollywood-staple"
   ],
   [
-    "cities",
+    "general",
     13,
-    "https://www.nytimes.com/2026/04/25/world/africa/mali-attacks-jnim-al-qaeda-bamako.html"
+    "https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton"
   ],
   [
-    "cabinet",
+    "social",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/26/donald-melania-trump-white-houe-correspondents-dinner"
+    "https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton"
   ],
   [
-    "young",
+    "law",
     13,
-    "https://www.theguardian.com/music/2026/apr/25/london-deptford-northern-soul-club-lewis-henderson-will-foot-music"
+    "https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton"
   ],
   [
-    "attack",
+    "evacuated",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/25/white-house-correspondents-dinner-reactions"
+  ],
+  [
+    "music",
+    13,
+    "https://www.theguardian.com/music/2026/apr/26/jon-batiste-honest-playlist-amyl-sniffers-clarence-carter-steely-dan"
+  ],
+  [
+    "custody",
     12,
     "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html"
   ],
   [
-    "local",
+    "authorities",
     12,
-    "https://www.nytimes.com/2026/04/25/us/texas-mexico-border-arrest-deport-immigration.html"
+    "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html"
   ],
   [
-    "police",
+    "hilton",
     12,
-    "https://www.nytimes.com/2026/04/25/us/texas-mexico-border-arrest-deport-immigration.html"
+    "https://www.nytimes.com/2026/04/26/us/politics/trump-shooting-gunman-correspondents-dinner.html"
   ],
   [
-    "south",
+    "oil",
     12,
-    "https://www.nytimes.com/2026/04/25/nyregion/jenifer-rajkumar-david-orkin-queens-assembly-seat.html"
+    "https://www.nytimes.com/2026/04/26/business/economy/us-iran-russia-oil-sanctions.html"
   ],
   [
-    "really",
+    "food",
     12,
-    "https://www.nytimes.com/2026/04/26/opinion/ai-company-good-altruism.html"
+    "https://www.nytimes.com/2026/04/26/us/trump-administration-food-stamps.html"
   ],
   [
-    "million",
+    "became",
     12,
-    "https://www.nytimes.com/2026/04/25/business/media/box-office-michael.html"
+    "https://www.nytimes.com/2026/04/26/us/the-hard-life-of-an-immigrant-whose-killing-became-a-symbol-for-trump.html"
   ],
   [
-    "hours",
+    "latest",
     12,
-    "https://www.washingtonpost.com/nation/2026/04/25/idaho-rats-boise-treasure-valley-population/"
+    "https://www.nytimes.com/2026/04/26/briefing/a-shooting-in-washington.html"
   ],
   [
-    "northern",
+    "suspected",
     12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "israel",
+    "inside",
     12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "military",
-    12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "line",
+    "hollywood",
     12,
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "team",
+    "country",
+    12,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "several",
+    12,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "foreign",
     12,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "again",
+    12,
+    "https://www.theguardian.com/science/2026/apr/26/china-us-space-race-moon"
+  ],
+  [
+    "don",
+    12,
+    "https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton"
+  ],
+  [
+    "event",
+    12,
+    "https://www.theguardian.com/us-news/2026/apr/25/white-house-correspondents-dinner-reactions"
+  ],
+  [
+    "season",
+    12,
+    "https://www.theguardian.com/sport/2026/apr/25/red-sox-fire-alex-cora-mlb-coaches"
+  ],
+  [
+    "weekly",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/apr/23/what-readers-bought-april"
+  ],
+  [
+    "american",
+    11,
+    "https://www.nytimes.com/video/us/politics/100000010857432/how-the-war-in-iran-is-draining-the-us-of-critical-weapons.html"
   ]
 ];
