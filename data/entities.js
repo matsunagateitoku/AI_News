@@ -2,33 +2,27 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "Game 4",
-      "count": 6,
-      "url": "https://www.latimes.com/sports/lakers/story/2026-04-26/los-angeles-lakers-houston-rockets-playoff-series-game-4-recap",
-      "source": "LA Times"
-    },
-    {
-      "name": "The 2006 World Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/football/2026/apr/26/drowning-banter-sphere-premier-league-arsenal-title-race-manchester-city-spurs-west-ham-relegation",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Iran War",
-      "count": 2,
+      "count": 4,
       "url": "https://www.theguardian.com/environment/2026/apr/24/global-oil-crisis-changed-fossil-fuel-industry-for-ever-iea-chief-fatih-birol",
       "source": "The Guardian"
     },
     {
-      "name": "Stanley Cup Final",
-      "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/wayne-gretzkys-1988-stanley-cup-final-jersey-sells-28m-setting-time-hockey-record",
-      "source": "Fox News"
+      "name": "Game 4",
+      "count": 4,
+      "url": "https://www.latimes.com/sports/lakers/story/2026-04-26/los-angeles-lakers-houston-rockets-playoff-series-game-4-recap",
+      "source": "LA Times"
     },
     {
-      "name": "Independence Day",
+      "name": "Fa Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/football/2026/apr/27/premier-league-and-fa-cup-semi-finals-10-talking-points-from-the-weekends-action",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Super Bowl",
       "count": 1,
-      "url": "https://www.theguardian.com/stage/2026/apr/27/harvey-fierstein-kinky-boots-cage-aux-folles-quilting-interview",
+      "url": "https://www.theguardian.com/sport/2026/apr/27/nfl-draft-2026-winners-and-losers-eagles-aces-rams-damage-control-and-a-missing-coach",
       "source": "The Guardian"
     },
     {
@@ -38,21 +32,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "Fa Cup",
+      "name": "Independence Day",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/apr/26/chelsea-leeds-fa-cup-semi-final-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The 2026 World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/apr/26/2026-world-cup-bid-tickets-politics-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "World Ai",
-      "count": 1,
-      "url": "https://www.theguardian.com/technology/2026/apr/26/cannes-ai-film-festival-raises-eyebrows-questions-future",
+      "url": "https://www.theguardian.com/stage/2026/apr/27/harvey-fierstein-kinky-boots-cage-aux-folles-quilting-interview",
       "source": "The Guardian"
     },
     {
@@ -60,38 +42,118 @@
       "count": 1,
       "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
       "source": "The Guardian"
+    },
+    {
+      "name": "Olympic",
+      "count": 1,
+      "url": "https://www.latimes.com/opinion/story/2026-04-27/olympics-women-genetic-testing",
+      "source": "LA Times"
+    },
+    {
+      "name": "Enhanced Games'",
+      "count": 1,
+      "url": "https://www.latimes.com/opinion/story/2026-04-23/regulationg-enhanced-games",
+      "source": "LA Times"
+    },
+    {
+      "name": "World War Ii",
+      "count": 1,
+      "url": "https://www.cbsnews.com/news/king-charles-visit-trump-us-uk-relations/",
+      "source": "CBS News"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Fuck Donald Trump",
+      "count": 36,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/27/democrats-authenticity-politics",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Michael Jackson",
+      "count": 14,
+      "url": "https://www.theguardian.com/film/2026/apr/27/michael-jackson-movie-biopic-fans",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Michael Tilson Thomas",
+      "count": 11,
+      "url": "https://www.latimes.com/entertainment-arts/music/story/2026-04-23/conductor-michael-tilson-thomas-dead",
+      "source": "LA Times"
+    },
+    {
+      "name": "Elon Musk",
+      "count": 9,
+      "url": "https://www.theguardian.com/technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cole Allen",
+      "count": 8,
+      "url": "https://www.cbsnews.com/news/white-house-correspondents-dinner-shooting-suspect-cole-thomas-allen-arraignment/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Weijia Jiang",
+      "count": 8,
+      "url": "https://www.cbsnews.com/video/weijia-jiang-who-was-seated-next-to-trump-when-a-shooting-broke-out-reacts-to-violent-event/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Cole Tomas Allen",
+      "count": 7,
+      "url": "https://www.theguardian.com/australia-news/audio/2026/apr/27/i-was-at-the-white-house-correspondents-dinner-shooting-full-story-podcast",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Charles Is Coming",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/04/27/world/europe/king-charles-us-visit-uk-relations.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ivonne",
+      "count": 6,
+      "url": "https://www.theguardian.com/global-development/2026/apr/27/its-like-a-slow-death-a-jailed-mother-and-her-daughter-on-why-prison-is-a-sentence-for-them-both",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Queen Camilla",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/04/27/world/europe/royal-visits-america-history-trump-uk.html",
+      "source": "NY Times"
     }
   ],
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 57,
+      "count": 49,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
-      "name": "The White House Correspondents' Dinner",
+      "name": "White House Correspondents' Association",
       "count": 23,
-      "url": "https://www.cbsnews.com/video/extended-interview-president-trump-on-white-house-correspondents-dinner/",
+      "url": "https://www.cbsnews.com/video/042626-face-the-nation/",
       "source": "CBS News"
     },
     {
-      "name": "White House Correspondents' Association",
-      "count": 17,
-      "url": "https://thehill.com/homenews/5850358-trump-criticizes-cbs-odonnell-whca-shooting/",
-      "source": "The Hill"
-    },
-    {
       "name": "Ai",
-      "count": 15,
-      "url": "https://www.theguardian.com/technology/2026/apr/26/cannes-ai-film-festival-raises-eyebrows-questions-future",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/apr/27/magic-the-gathering-online-unionization",
       "source": "The Guardian"
     },
     {
       "name": "The White House Correspondents' Association Dinner",
-      "count": 13,
+      "count": 16,
       "url": "https://www.cbsnews.com/live-updates/trump-evacuated-white-house-correspondents-dinner-security-incident/",
       "source": "CBS News"
+    },
+    {
+      "name": "The White House Correspondents' Dinner",
+      "count": 15,
+      "url": "https://www.npr.org/2026/04/27/g-s1-118874/up-first-newsletter-white-house-correspondence-dinner-cole-allen-king-charles-spacex-openai-elon-musk",
+      "source": "NPR"
     },
     {
       "name": "The Filter Us",
@@ -100,153 +162,91 @@
       "source": "The Guardian"
     },
     {
-      "name": "Guardian News",
-      "count": 12,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
+      "name": "Supreme Court Reviews Police Use Of Cell Location Data",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
+      "source": "NY Times"
     },
     {
       "name": "Gop",
       "count": 10,
-      "url": "https://www.foxnews.com/media/whcd-shooting-shows-dems-playing-americans-safety-withholding-dhs-funding-gop-lawmaker-says",
-      "source": "Fox News"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/27/supreme-court-judges-alito-thomas",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cbs News Mornings",
+      "count": 10,
+      "url": "https://www.cbsnews.com/video/weijia-jiang-who-was-seated-next-to-trump-when-a-shooting-broke-out-reacts-to-violent-event/",
+      "source": "CBS News"
     },
     {
       "name": "Microsoft",
-      "count": 8,
-      "url": "https://www.theguardian.com/technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News Things",
-      "count": 8,
-      "url": "https://www.cbsnews.com/video/6-questions-from-ben-sasses-town-hall/",
-      "source": "CBS News"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Melania Trump",
-      "count": 42,
-      "url": "https://www.theguardian.com/us-news/2026/apr/26/white-house-correspondents-dinner-shooting-washington-dc",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 18,
-      "url": "https://www.theguardian.com/uk-news/2026/apr/27/king-charles-visits-trump-what-are-the-potential-pitfalls-for-the-monarch",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Whcd",
-      "count": 11,
-      "url": "https://www.foxnews.com/entertainment/patricia-heaton-urges-friends-left-tone-extreme-rhetoric-whcd-shooting",
-      "source": "Fox News"
-    },
-    {
-      "name": "Ben Sasse",
       "count": 9,
-      "url": "https://www.cbsnews.com/video/6-questions-from-ben-sasses-town-hall/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Cole Tomas Allen",
-      "count": 8,
-      "url": "https://www.theguardian.com/australia-news/audio/2026/apr/27/i-was-at-the-white-house-correspondents-dinner-shooting-full-story-podcast",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Elon Musk",
-      "count": 8,
-      "url": "https://www.theguardian.com/technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michael Jackson",
-      "count": 8,
-      "url": "https://www.theguardian.com/music/2026/apr/27/michael-jackson-biopic-record-box-office",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michael Tilson Thomas",
-      "count": 8,
-      "url": "https://www.latimes.com/entertainment-arts/music/story/2026-04-23/conductor-michael-tilson-thomas-dead",
-      "source": "LA Times"
-    },
-    {
-      "name": "Charles Iii’S",
-      "count": 6,
-      "url": "https://thehill.com/blogs/in-the-know/5850183-king-charles-queen-camila-us-visit/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Jaden Mcdaniels",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/apr/26/nikol-jokic-boils-over-after-mcdanielss-mocking-layup-in-nuggets-loss-to-timberwolves",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/04/27/technology/microsoft-openai-partnership.html",
+      "source": "NY Times"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 53,
-      "url": "https://www.theguardian.com/artanddesign/2026/apr/27/route-66-kicks-100-years-centenary",
+      "count": 45,
+      "url": "https://www.theguardian.com/us-news/2026/apr/27/king-charles-visit-baseball",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 28,
+      "count": 29,
       "url": "https://www.nytimes.com/2026/04/26/us/california-billionaire-tax.html",
       "source": "NY Times"
     },
     {
-      "name": "Washington Dc’S",
-      "count": 23,
-      "url": "https://www.theguardian.com/stage/2026/apr/26/adjoa-andoh-shakespare-bridgerton-dei",
-      "source": "The Guardian"
+      "name": "Iran",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html",
+      "source": "NY Times"
     },
     {
       "name": "U.S.",
       "count": 20,
-      "url": "https://www.nytimes.com/2026/04/27/world/americas/us-military-boat-strike-pacific-drugs.html",
+      "url": "https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html",
       "source": "NY Times"
     },
     {
-      "name": "Iran",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 15,
-      "url": "https://www.theguardian.com/uk-news/2026/apr/27/king-charles-visits-trump-what-are-the-potential-pitfalls-for-the-monarch",
+      "name": "Washington Dc",
+      "count": 18,
+      "url": "https://www.theguardian.com/australia-news/audio/2026/apr/27/i-was-at-the-white-house-correspondents-dinner-shooting-full-story-podcast",
       "source": "The Guardian"
     },
     {
       "name": "America",
       "count": 13,
-      "url": "https://www.theguardian.com/books/2026/apr/27/the-things-we-never-say-by-elizabeth-strout-review-readers-will-delight-in-these-new-characters",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html",
+      "source": "NY Times"
     },
     {
       "name": "Texas",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/apr/26/texas-tornado-georgia-wildfires-storms",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/apr/27/texas-ice-family-detention",
       "source": "The Guardian"
     },
     {
-      "name": "Northern Gaza",
-      "count": 9,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
+      "name": "China",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/04/27/business/china-economy-iran-war.html",
+      "source": "NY Times"
     },
     {
-      "name": "Italy Supports",
+      "name": "Uk",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/27/plane-passengers-uk-deportation-policy-gatwick-forced-removals",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Openai",
       "count": 8,
-      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
-      "source": "Wall St. Journal"
+      "url": "https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-04-27T09:23:42Z"
+  "updated": "2026-04-27T15:10:08Z"
 };
