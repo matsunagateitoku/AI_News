@@ -2,16 +2,16 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "The Iran War",
-      "count": 4,
-      "url": "https://www.theguardian.com/environment/2026/apr/24/global-oil-crisis-changed-fossil-fuel-industry-for-ever-iea-chief-fatih-birol",
-      "source": "The Guardian"
-    },
-    {
       "name": "Game 4",
       "count": 4,
       "url": "https://www.latimes.com/sports/lakers/story/2026-04-26/los-angeles-lakers-houston-rockets-playoff-series-game-4-recap",
       "source": "LA Times"
+    },
+    {
+      "name": "The World Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/football/2026/apr/27/world-cup-bonanza-of-sportswashing-donald-trump-ice-human-rights",
+      "source": "The Guardian"
     },
     {
       "name": "Fa Cup",
@@ -20,9 +20,33 @@
       "source": "The Guardian"
     },
     {
+      "name": "Iran War Shakes Global Economy",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Super Bowl",
-      "count": 1,
+      "count": 2,
       "url": "https://www.theguardian.com/sport/2026/apr/27/nfl-draft-2026-winners-and-losers-eagles-aces-rams-damage-control-and-a-missing-coach",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran Offers Plan",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/04/27/world/middleeast/iran-trump-talks-strait-of-hormuz-nuclear.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "E.P.A",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/04/27/climate/epa-science-trump-cuts.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Championship      Sign",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/apr/27/the-premier-league-finally-has-a-relegation-battle",
       "source": "The Guardian"
     },
     {
@@ -36,30 +60,68 @@
       "count": 1,
       "url": "https://www.theguardian.com/stage/2026/apr/27/harvey-fierstein-kinky-boots-cage-aux-folles-quilting-interview",
       "source": "The Guardian"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump White House",
+      "count": 57,
+      "url": "https://www.foxnews.com/media/trump-white-house-unloads-kimmel-calling-him-deranged-him-fired",
+      "source": "Fox News"
     },
     {
-      "name": "’S World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
+      "name": "White House Correspondents' Association",
+      "count": 26,
+      "url": "https://thehill.com/blogs/in-the-know/5851320-secret-service-trump-threat/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Ai",
+      "count": 23,
+      "url": "https://www.theguardian.com/music/2026/apr/27/taylor-swift-trademarks-voice-image-ai",
       "source": "The Guardian"
     },
     {
-      "name": "Olympic",
-      "count": 1,
-      "url": "https://www.latimes.com/opinion/story/2026-04-27/olympics-women-genetic-testing",
-      "source": "LA Times"
+      "name": "The Filter Us",
+      "count": 13,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
     },
     {
-      "name": "Enhanced Games'",
-      "count": 1,
-      "url": "https://www.latimes.com/opinion/story/2026-04-23/regulationg-enhanced-games",
-      "source": "LA Times"
+      "name": "The White House Correspondents' Dinner",
+      "count": 13,
+      "url": "https://www.npr.org/2026/04/27/nx-s1-5801448/melania-trump-jimmy-kimmel",
+      "source": "NPR"
     },
     {
-      "name": "World War Ii",
-      "count": 1,
-      "url": "https://www.cbsnews.com/news/king-charles-visit-trump-us-uk-relations/",
-      "source": "CBS News"
+      "name": "Gop",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/27/supreme-court-judges-alito-thomas",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House Correspondents' Association Dinner",
+      "count": 11,
+      "url": "https://www.npr.org/2026/04/27/nx-s1-5801476/whca-dinner-security-secret-service-president-trump",
+      "source": "NPR"
+    },
+    {
+      "name": "Microsoft",
+      "count": 7,
+      "url": "https://www.theguardian.com/technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian News",
+      "count": 7,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Abc",
+      "count": 7,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-04-27/first-lady-melania-trump-blasts-abc-jimmy-kimmel-over-jokes",
+      "source": "LA Times"
     }
   ],
   "PERSON": [
@@ -70,183 +132,121 @@
       "source": "The Guardian"
     },
     {
-      "name": "Michael Jackson",
-      "count": 14,
-      "url": "https://www.theguardian.com/film/2026/apr/27/michael-jackson-movie-biopic-fans",
-      "source": "The Guardian"
-    },
-    {
       "name": "Michael Tilson Thomas",
-      "count": 11,
+      "count": 13,
       "url": "https://www.latimes.com/entertainment-arts/music/story/2026-04-23/conductor-michael-tilson-thomas-dead",
       "source": "LA Times"
     },
     {
-      "name": "Elon Musk",
-      "count": 9,
-      "url": "https://www.theguardian.com/technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit",
+      "name": "Michael Jackson",
+      "count": 12,
+      "url": "https://www.theguardian.com/film/2026/apr/27/michael-jackson-movie-biopic-fans",
       "source": "The Guardian"
     },
     {
-      "name": "Cole Allen",
-      "count": 8,
-      "url": "https://www.cbsnews.com/news/white-house-correspondents-dinner-shooting-suspect-cole-thomas-allen-arraignment/",
+      "name": "Karoline Leavitt",
+      "count": 11,
+      "url": "https://www.cbsnews.com/video/watch-leavitt-holds-press-briefing-correspondents-dinner-shooting/",
       "source": "CBS News"
     },
     {
-      "name": "Weijia Jiang",
+      "name": "Prince Charles",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/apr/27/king-charles-visit-baseball",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Elon Musk",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Cole Allen",
+      "count": 9,
+      "url": "https://www.foxnews.com/us/cole-allen-charged-trump-assassination-attempt-first-court-appearance-whca-dinner-shooting",
+      "source": "Fox News"
+    },
+    {
+      "name": "Jimmy Kimmel",
       "count": 8,
-      "url": "https://www.cbsnews.com/video/weijia-jiang-who-was-seated-next-to-trump-when-a-shooting-broke-out-reacts-to-violent-event/",
-      "source": "CBS News"
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-04-27/first-lady-melania-trump-blasts-abc-jimmy-kimmel-over-jokes",
+      "source": "LA Times"
     },
     {
       "name": "Cole Tomas Allen",
       "count": 7,
-      "url": "https://www.theguardian.com/australia-news/audio/2026/apr/27/i-was-at-the-white-house-correspondents-dinner-shooting-full-story-podcast",
-      "source": "The Guardian"
+      "url": "https://www.nbcnews.com/video/suspect-cole-tomas-allen-charged-with-attempting-to-assassinate-president-trump-262184005766",
+      "source": "NBC News"
     },
     {
-      "name": "Charles Is Coming",
+      "name": "Sam Altman",
       "count": 6,
-      "url": "https://www.nytimes.com/2026/04/27/world/europe/king-charles-us-visit-uk-relations.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ivonne",
-      "count": 6,
-      "url": "https://www.theguardian.com/global-development/2026/apr/27/its-like-a-slow-death-a-jailed-mother-and-her-daughter-on-why-prison-is-a-sentence-for-them-both",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Queen Camilla",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/04/27/world/europe/royal-visits-america-history-trump-uk.html",
-      "source": "NY Times"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Target For Trump",
-      "count": 49,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "White House Correspondents' Association",
-      "count": 23,
-      "url": "https://www.cbsnews.com/video/042626-face-the-nation/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Ai",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/apr/27/magic-the-gathering-online-unionization",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House Correspondents' Association Dinner",
-      "count": 16,
-      "url": "https://www.cbsnews.com/live-updates/trump-evacuated-white-house-correspondents-dinner-security-incident/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The White House Correspondents' Dinner",
-      "count": 15,
-      "url": "https://www.npr.org/2026/04/27/g-s1-118874/up-first-newsletter-white-house-correspondence-dinner-cole-allen-king-charles-spacex-openai-elon-musk",
-      "source": "NPR"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 12,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Supreme Court Reviews Police Use Of Cell Location Data",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Gop",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/27/supreme-court-judges-alito-thomas",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News Mornings",
-      "count": 10,
-      "url": "https://www.cbsnews.com/video/weijia-jiang-who-was-seated-next-to-trump-when-a-shooting-broke-out-reacts-to-violent-event/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Microsoft",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/04/27/technology/microsoft-openai-partnership.html",
+      "url": "https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html",
       "source": "NY Times"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 45,
-      "url": "https://www.theguardian.com/us-news/2026/apr/27/king-charles-visit-baseball",
+      "count": 68,
+      "url": "https://www.theguardian.com/thefilter-us/2026/apr/27/how-to-buy-rugs-tips",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 29,
-      "url": "https://www.nytimes.com/2026/04/26/us/california-billionaire-tax.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/04/27/world/middleeast/iran-trump-talks-strait-of-hormuz-nuclear.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/04/27/world/middleeast/iran-trump-talks-strait-of-hormuz-nuclear.html",
       "source": "NY Times"
     },
     {
       "name": "Washington Dc",
-      "count": 18,
-      "url": "https://www.theguardian.com/australia-news/audio/2026/apr/27/i-was-at-the-white-house-correspondents-dinner-shooting-full-story-podcast",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/apr/26/white-house-press-dinner-shooting-motive",
       "source": "The Guardian"
     },
     {
       "name": "America",
-      "count": 13,
+      "count": 11,
       "url": "https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html",
       "source": "NY Times"
     },
     {
-      "name": "Texas",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/apr/27/texas-ice-family-detention",
-      "source": "The Guardian"
-    },
-    {
       "name": "China",
-      "count": 10,
+      "count": 11,
       "url": "https://www.nytimes.com/2026/04/27/business/china-economy-iran-war.html",
       "source": "NY Times"
     },
     {
+      "name": "Florida",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/04/27/us/desantis-florida-gop-house-map.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Uk",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/27/plane-passengers-uk-deportation-policy-gatwick-forced-removals",
+      "count": 11,
+      "url": "https://www.theguardian.com/uk-news/2026/apr/27/us-ad-for-eyes-and-ears-abroad-featuring-big-ben-stirs-diplomatic-unease",
       "source": "The Guardian"
     },
     {
-      "name": "Openai",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html",
+      "name": "Israel",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/04/27/world/middleeast/hezbollah-weapons-lebanon-israel.html",
       "source": "NY Times"
     }
   ],
-  "updated": "2026-04-27T15:10:08Z"
+  "updated": "2026-04-27T20:12:07Z"
 };
