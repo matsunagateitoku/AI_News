@@ -2,158 +2,183 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    130,
-    "https://www.nytimes.com/2026/04/27/us/trump-iran-proposal.html"
-  ],
-  [
-    "dinner",
-    66,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-jimmy-kimmel-abc-widow-joke.html"
-  ],
-  [
-    "correspondents",
-    57,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-jimmy-kimmel-abc-widow-joke.html"
+    114,
+    "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html"
   ],
   [
     "president",
-    50,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-assassination-attempt-cole-allen-charges.html"
-  ],
-  [
-    "shooting",
     49,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-king-charles-royals-dc-visit.html"
+    "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html"
   ],
   [
-    "court",
-    35,
-    "https://www.nytimes.com/2026/04/27/us/virginia-court-congressional-map-redistricting.html"
-  ],
-  [
-    "california",
-    30,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-assassination-attempt-cole-allen-charges.html"
+    "dinner",
+    33,
+    "https://www.nytimes.com/2026/04/28/us/elections/ballroom-filing-trump-truth-social.html"
   ],
   [
     "political",
     30,
-    "https://www.theguardian.com/artanddesign/2026/apr/28/belarus-free-theatre-venice-biennale"
+    "https://www.nytimes.com/2026/04/28/nyregion/maurene-comey-lawsuit-trump.html"
+  ],
+  [
+    "court",
+    29,
+    "https://www.nytimes.com/2026/04/28/us/elections/ballroom-filing-trump-truth-social.html"
   ],
   [
     "donald",
-    28,
-    "https://www.theguardian.com/us-news/2026/apr/28/americans-queueing-up-renounce-citizenship-dictatorship"
-  ],
-  [
-    "suspect",
-    26,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-assassination-attempt-cole-allen-charges.html"
-  ],
-  [
-    "game",
-    26,
-    "https://www.nytimes.com/2026/04/27/style/jeopardy-streak-jamie-ding.html"
-  ],
-  [
-    "security",
-    25,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-ballroom-white-house-dinner-shooting.html"
+    27,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/28/jimmy-kimmel-held-to-higher-standard-donald-trump"
   ],
   [
     "war",
+    26,
+    "https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html"
+  ],
+  [
+    "comey",
     25,
-    "https://www.nytimes.com/2026/04/27/us/politics/king-charles-congress-address.html"
+    "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html"
   ],
   [
-    "iran",
-    24,
-    "https://www.nytimes.com/2026/04/27/us/trump-iran-proposal.html"
-  ],
-  [
-    "attack",
-    23,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-ballroom-white-house-dinner-shooting.html"
-  ],
-  [
-    "film",
-    23,
-    "https://www.theguardian.com/global-development/2026/apr/28/lebanese-women-smatouha-minni-you-heard-it-from-me-feminist-youtube-series-satire"
-  ],
-  [
-    "fire",
-    22,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-jimmy-kimmel-abc-widow-joke.html"
-  ],
-  [
-    "king",
-    21,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-king-charles-royals-dc-visit.html"
+    "shooting",
+    25,
+    "https://www.washingtonpost.com/national-security/2026/04/26/whcd-shooting-suspect/"
   ],
   [
     "administration",
-    21,
-    "https://www.nytimes.com/2026/04/27/climate/trump-administration-wind-farms.html"
+    24,
+    "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html"
+  ],
+  [
+    "king",
+    23,
+    "https://www.nytimes.com/2026/04/28/us/prince-harry-king-charles-us-visit.html"
   ],
   [
     "kimmel",
-    20,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-jimmy-kimmel-abc-widow-joke.html"
+    23,
+    "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html"
   ],
   [
-    "washington",
-    20,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-ballroom-white-house-dinner-shooting.html"
+    "correspondents",
+    23,
+    "https://www.nytimes.com/2026/04/28/us/elections/ballroom-filing-trump-truth-social.html"
   ],
   [
-    "michael",
-    20,
-    "https://www.theguardian.com/us-news/2026/apr/27/correspondents-dinner-shooting-salad"
+    "book",
+    23,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/28/asian-mothers-bad-feelings-tiger-mom-stereotype"
   ],
   [
     "charles",
-    19,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-king-charles-royals-dc-visit.html"
+    22,
+    "https://www.nytimes.com/2026/04/28/us/prince-harry-king-charles-us-visit.html"
+  ],
+  [
+    "department",
+    22,
+    "https://www.theguardian.com/us-news/2026/apr/28/james-comey-fbi-second-indictment"
   ],
   [
     "night",
-    18,
-    "https://www.nytimes.com/2026/04/28/arts/television/late-night-white-house-correspondents-dinner.html"
+    21,
+    "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html"
   ],
   [
-    "country",
-    18,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "game",
+    21,
+    "https://www.washingtonpost.com/national-security/2026/04/26/whcd-shooting-suspect/"
   ],
   [
-    "media",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/apr/27/trump-israel-trump-war"
+    "again",
+    20,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/28/jimmy-kimmel-held-to-higher-standard-donald-trump"
   ],
   [
-    "assassination",
-    17,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-assassination-attempt-cole-allen-charges.html"
-  ],
-  [
-    "charged",
-    17,
-    "https://www.theguardian.com/us-news/2026/apr/27/white-house-press-dinner-shooting-suspect-court"
+    "oil",
+    19,
+    "https://www.nytimes.com/2026/04/28/world/middleeast/uae-opec.html"
   ],
   [
     "american",
-    16,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-king-charles-royals-dc-visit.html"
+    19,
+    "https://www.theguardian.com/us-news/live/2026/apr/28/donald-trump-king-charles-melania-camilla-white-house-congress-latest-news-updates"
   ],
   [
-    "america",
+    "musk",
+    18,
+    "https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html"
+  ],
+  [
+    "fire",
+    18,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "film",
+    18,
+    "https://www.theguardian.com/global-development/2026/apr/28/lebanese-women-smatouha-minni-you-heard-it-from-me-feminist-youtube-series-satire"
+  ],
+  [
+    "coffee",
+    18,
+    "https://www.theguardian.com/thefilter-us/2025/sep/30/best-instant-coffees"
+  ],
+  [
+    "james",
+    17,
+    "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html"
+  ],
+  [
+    "media",
+    17,
+    "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html"
+  ],
+  [
+    "iran",
+    17,
+    "https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html"
+  ],
+  [
+    "texas",
+    17,
+    "https://www.nytimes.com/2026/04/28/us/camp-mystic-texas-lawmakers-investigation.html"
+  ],
+  [
+    "review",
     16,
-    "https://www.nytimes.com/2026/04/28/arts/television/late-night-white-house-correspondents-dinner.html"
+    "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html"
+  ],
+  [
+    "jimmy",
+    16,
+    "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html"
   ],
   [
     "violence",
     16,
-    "https://www.nytimes.com/2026/04/27/arts/rikers-island-video-games-jail-prison.html"
+    "https://www.nytimes.com/2026/04/28/us/politics/political-violence-data-trump-dinner-shooting.html"
+  ],
+  [
+    "california",
+    16,
+    "https://www.washingtonpost.com/nation/2026/04/28/gunman-trump-christian-assassination/"
+  ],
+  [
+    "don",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/apr/28/jimmy-kimmel-held-to-higher-standard-donald-trump"
+  ],
+  [
+    "fbi",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/28/james-comey-fbi-second-indictment"
+  ],
+  [
+    "director",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/28/james-comey-fbi-second-indictment"
   ],
   [
     "sleep",
@@ -161,144 +186,139 @@
     "https://www.theguardian.com/commentisfree/2026/apr/28/reaction-white-house-correspondents-dinner-shooting"
   ],
   [
-    "coffee",
-    16,
-    "https://www.theguardian.com/thefilter-us/2025/sep/30/best-instant-coffees"
+    "lost",
+    15,
+    "https://www.nytimes.com/2026/04/28/technology/elon-musk-social-posts-sam-altman-openai.html"
   ],
   [
-    "jimmy",
+    "guilty",
     15,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-jimmy-kimmel-abc-widow-joke.html"
+    "https://www.nytimes.com/2026/04/28/nyregion/damon-jones-nba-gambling-guilty-plea.html"
   ],
   [
-    "ballroom",
+    "recent",
     15,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-ballroom-white-house-dinner-shooting.html"
+    "https://www.washingtonpost.com/nation/2026/04/28/minneapolis-businesses-raided-fraud-allegations/"
   ],
   [
-    "supreme",
+    "charges",
     15,
-    "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-roundup-weedkiller.html"
+    "https://www.theguardian.com/us-news/2026/apr/28/james-comey-fbi-second-indictment"
   ],
   [
-    "york",
+    "health",
     15,
-    "https://www.nytimes.com/2026/04/27/arts/rikers-island-video-games-jail-prison.html"
-  ],
-  [
-    "early",
-    15,
-    "https://www.nytimes.com/2026/04/27/theater/megan-thee-stallion-broadway-moulin-rouge.html"
+    "https://www.theguardian.com/commentisfree/2026/apr/29/a-dead-persons-fat-pumped-into-your-body-why-the-zombie-filler-trend-has-some-experts-spooked-antiviral"
   ],
   [
     "family",
-    15,
-    "https://www.theguardian.com/news/ng-interactive/2026/apr/28/hong-kong-fire-family-return-home"
-  ],
-  [
-    "gop",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/apr/27/supreme-court-judges-alito-thomas"
-  ],
-  [
-    "florida",
     14,
-    "https://www.nytimes.com/2026/04/27/us/desantis-florida-gop-house-map.html"
+    "https://www.nytimes.com/2026/04/28/us/prince-harry-king-charles-us-visit.html"
   ],
   [
-    "far",
+    "leave",
     14,
-    "https://www.nytimes.com/2026/04/27/books/best-books-2026-so-far.html"
+    "https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html"
+  ],
+  [
+    "country",
+    14,
+    "https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html"
   ],
   [
     "late",
     14,
-    "https://www.nytimes.com/2026/04/28/arts/television/late-night-white-house-correspondents-dinner.html"
+    "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html"
+  ],
+  [
+    "attack",
+    14,
+    "https://www.nytimes.com/2026/04/28/us/politics/us-boat-strikes.html"
+  ],
+  [
+    "justice",
+    14,
+    "https://www.nytimes.com/2026/04/28/us/elections/ballroom-filing-trump-truth-social.html"
+  ],
+  [
+    "charged",
+    14,
+    "https://www.nytimes.com/2026/04/28/nyregion/damon-jones-nba-gambling-guilty-plea.html"
   ],
   [
     "alleged",
     14,
-    "https://www.washingtonpost.com/investigations/2026/04/26/correspondents-dinner-ballroom-security-suspect/"
+    "https://www.washingtonpost.com/nation/2026/04/28/gunman-trump-christian-assassination/"
   ],
   [
-    "mexico",
+    "mother",
     14,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/apr/28/wife-school-christian-women-submissive"
   ],
   [
-    "book",
+    "congress",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/28/asian-mothers-bad-feelings-tiger-mom-stereotype"
+    "https://www.theguardian.com/us-news/live/2026/apr/28/donald-trump-king-charles-melania-camilla-white-house-congress-latest-news-updates"
   ],
   [
-    "weekend",
+    "email",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/27/trump-news-latest-updates-today"
+    "https://www.theguardian.com/us-news/live/2026/apr/28/donald-trump-king-charles-melania-camilla-white-house-congress-latest-news-updates"
+  ],
+  [
+    "win",
+    14,
+    "https://www.theguardian.com/business/2026/apr/28/uae-quit-opec-oil-exporters-cartel-donald-trump"
   ],
   [
     "star",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/27/jam-master-jay-run-dmc-killing"
+    "https://www.theguardian.com/culture/2026/apr/28/boom-a-melodrama-fit-for-elizabeth-taylor-and-richard-burtons-doomed-love-affair"
   ],
   [
-    "cbs",
+    "space",
     14,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-04-22/former-cbs-mornings-executive-producer-joins-ms-now-as-political-director"
+    "https://www.theguardian.com/music/2026/apr/27/mane-character-energy-horsegiirl-pop-provocateur"
   ],
   [
-    "lady",
-    13,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-jimmy-kimmel-abc-widow-joke.html"
+    "filter",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/28/houseplant-hacks-is-activated-charcoal-good-for-pot-plants"
   ],
   [
-    "press",
+    "openai",
     13,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-jimmy-kimmel-abc-widow-joke.html"
+    "https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html"
   ],
   [
-    "republicans",
+    "pentagon",
     13,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-ballroom-white-house-dinner-shooting.html"
+    "https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html"
   ],
   [
-    "fight",
+    "early",
     13,
-    "https://www.nytimes.com/2026/04/27/us/politics/trump-ballroom-white-house-dinner-shooting.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "record",
+    "series",
     13,
-    "https://www.nytimes.com/2026/04/27/us/politics/british-embassy-hosts-royal-couple-and-a-few-hundred-more-at-garden-party.html"
+    "https://www.theguardian.com/global-development/2026/apr/28/lebanese-women-smatouha-minni-you-heard-it-from-me-feminist-youtube-series-satire"
   ],
   [
-    "south",
+    "season",
     13,
-    "https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html"
+    "https://www.theguardian.com/global-development/2026/apr/28/lebanese-women-smatouha-minni-you-heard-it-from-me-feminist-youtube-series-satire"
   ],
   [
-    "recent",
+    "based",
     13,
-    "https://www.theguardian.com/commentisfree/2026/apr/28/giorgia-meloni-donald-trump-italian-prime-minister-europe-us-iran-war"
+    "https://www.theguardian.com/commentisfree/2026/apr/29/a-dead-persons-fat-pumped-into-your-body-why-the-zombie-filler-trend-has-some-experts-spooked-antiviral"
   ],
   [
-    "law",
+    "nba",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/28/asian-mothers-bad-feelings-tiger-mom-stereotype"
-  ],
-  [
-    "assassinate",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/27/white-house-press-dinner-shooting-suspect-court"
-  ],
-  [
-    "united",
-    13,
-    "https://www.theguardian.com/global-development/2026/apr/28/sudan-paramilitary-rsf-leaders-property-portfolio-dubai-uae-investigation"
-  ],
-  [
-    "buying",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/27/how-to-buy-rugs-tips"
+    "https://www.theguardian.com/sport/2026/apr/28/former-nba-player-damon-jones-faces-two-years-in-jail-after-guilty-plea-in-gambling-case"
   ],
   [
     "instant",
@@ -306,73 +326,53 @@
     "https://www.theguardian.com/thefilter-us/2025/sep/30/best-instant-coffees"
   ],
   [
-    "cole",
+    "social",
     12,
-    "https://www.nytimes.com/2026/04/27/us/politics/cole-allen-coldforce-bluesky-investigation.html"
+    "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html"
   ],
   [
-    "allen",
+    "really",
     12,
-    "https://www.nytimes.com/2026/04/27/us/politics/cole-allen-coldforce-bluesky-investigation.html"
-  ],
-  [
-    "tax",
-    12,
-    "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html"
-  ],
-  [
-    "virginia",
-    12,
-    "https://www.nytimes.com/2026/04/27/us/virginia-court-congressional-map-redistricting.html"
-  ],
-  [
-    "nearly",
-    12,
-    "https://www.nytimes.com/2026/04/27/nyregion/kean-new-jersey-house-absence.html"
-  ],
-  [
-    "future",
-    12,
-    "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-roundup-weedkiller.html"
-  ],
-  [
-    "military",
-    12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html"
   ],
   [
     "led",
     12,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.washingtonpost.com/nation/2026/04/28/gunman-trump-christian-assassination/"
   ],
   [
-    "democrats",
+    "million",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/27/virginia-redistricting-map-house"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "birth",
+    "start",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/27/delta-passenger-baby-flight"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "fans",
+    "trump's",
     12,
-    "https://www.theguardian.com/music/2026/apr/28/austrian-man-goes-on-trial-for-2024-taylor-swift-concert-terror-plot"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "outside",
+    "police",
     12,
-    "https://www.theguardian.com/music/2026/apr/28/austrian-man-goes-on-trial-for-2024-taylor-swift-concert-terror-plot"
+    "https://www.theguardian.com/us-news/2026/apr/28/oregon-public-defender-crisis-courts"
   ],
   [
-    "texas",
+    "fraud",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/27/texas-ice-family-detention"
+    "https://www.theguardian.com/us-news/2026/apr/28/minnesota-federal-raids-alleged-fraud"
   ],
   [
-    "history",
+    "fuel",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/27/texas-ice-family-detention"
+    "https://www.theguardian.com/us-news/2026/apr/28/trump-clean-energy-progress"
+  ],
+  [
+    "order",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/apr/28/us-right-psychedelics-hallucinogens-trump-silicon-valley"
   ]
 ];
