@@ -3,50 +3,50 @@
   "PERSON": [
     {
       "name": "Melania Trump",
-      "count": 23,
+      "count": 25,
       "url": "https://www.latimes.com/entertainment-arts/business/story/2026-04-27/first-lady-melania-trump-blasts-abc-jimmy-kimmel-over-jokes",
       "source": "LA Times"
     },
     {
       "name": "King Charles",
-      "count": 23,
+      "count": 24,
       "url": "https://www.theguardian.com/uk-news/2026/apr/28/king-charles-speech-congress",
       "source": "The Guardian"
     },
     {
+      "name": "King Charles Iii",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/04/28/us/politics/menu-british-royal-state-dinner.html",
+      "source": "NY Times"
+    },
+    {
       "name": "James Comey",
-      "count": 22,
+      "count": 19,
       "url": "https://www.theguardian.com/us-news/2026/apr/28/james-comey-fbi-second-indictment",
       "source": "The Guardian"
     },
     {
       "name": "Donald Trump ’S",
-      "count": 21,
+      "count": 18,
       "url": "https://www.theguardian.com/us-news/2026/apr/28/donald-trump-passports",
       "source": "The Guardian"
     },
     {
-      "name": "King Charles Iii",
-      "count": 17,
+      "name": "Jimmy Kimmel ’S",
+      "count": 11,
+      "url": "https://www.theguardian.com/culture/2026/apr/28/jon-stewart-white-house-correspondents-dinner",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Queen Camilla",
+      "count": 9,
       "url": "https://www.nytimes.com/2026/04/28/us/politics/menu-british-royal-state-dinner.html",
       "source": "NY Times"
     },
     {
       "name": "Elon Musk",
-      "count": 16,
+      "count": 9,
       "url": "https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Jimmy Kimmel Live",
-      "count": 12,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/28/jimmy-kimmel-held-to-higher-standard-donald-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Queen Camilla",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/04/28/us/politics/menu-british-royal-state-dinner.html",
       "source": "NY Times"
     },
     {
@@ -56,17 +56,147 @@
       "source": "The Guardian"
     },
     {
-      "name": "David Morens",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/04/28/science/david-morens-indictment.html",
+      "name": "Peter Mandelson",
+      "count": 6,
+      "url": "https://www.theguardian.com/politics/2026/apr/28/starmer-sees-off-tory-calls-for-inquiry-into-mandelson-role-after-no-10-flexes-muscle",
+      "source": "The Guardian"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "King Charles Charms The Court Of Trump",
+      "count": 59,
+      "url": "https://www.nytimes.com/2026/04/29/us/politics/at-state-dinner-king-charles-enters-the-court-of-trump.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Fifa Congress",
+      "count": 27,
+      "url": "https://www.theguardian.com/football/2026/apr/28/world-cup-cover-mouths-red-card-rule-ifab",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 20,
+      "url": "https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/apr/28/texas-senate-talarico-leads-race-cornyn-paxton",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Abc",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Blur’S Country House",
+      "count": 12,
+      "url": "https://www.theguardian.com/music/2026/apr/29/dave-balfe-inspiring-blur-country-house-tripping-top-of-the-pops",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fcc Orders A Review",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "White House Correspondents' Dinner",
+      "count": 11,
+      "url": "https://www.nbcnews.com/video/shorts/king-charles-on-white-house-correspondents-dinner-incident-262300741821",
+      "source": "NBC News"
+    },
+    {
+      "name": "Nba",
+      "count": 9,
+      "url": "https://www.theguardian.com/sport/2026/apr/28/former-nba-player-damon-jones-faces-two-years-in-jail-after-guilty-plea-in-gambling-case",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 63,
+      "url": "https://www.theguardian.com/us-news/2026/apr/28/james-comey-fbi-second-indictment",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/04/28/us/politics/trump-passports.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/04/28/world/europe/britain-iran-ambassador-summons.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ukraine — Ukraine",
+      "count": 17,
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-says-shot-33000-russian-drones-march-monthly-record-rcna342590",
+      "source": "NBC News"
+    },
+    {
+      "name": "California",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/04/29/us/elections/california-governor-debate-pomona.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 15,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Texas",
+      "count": 12,
+      "url": "https://www.washingtonpost.com/nation/2026/04/28/camp-mystic-reopen-lawmakers-license/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "London",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/04/28/world/europe/britain-iran-ambassador-summons.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.K.",
+      "count": 8,
+      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Uk",
+      "count": 8,
+      "url": "https://www.theguardian.com/artanddesign/2026/apr/29/nancy-holt-land-art-moonsunstarearthskywater-exhibition-goodwood",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The Iran Freedom Congress",
-      "count": 2,
-      "url": "https://www.theguardian.com/world/2026/apr/29/iran-freedom-congress-exiled-opposition",
+      "name": "World Cup 2026",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/2026/apr/28/world-cup-cover-mouths-red-card-rule-ifab",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 4,
+      "url": "https://www.theguardian.com/travel/2026/apr/21/tell-us-have-your-holiday-plans-changed-in-light-of-recent-world-events",
       "source": "The Guardian"
     },
     {
@@ -76,28 +206,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "The 2022 World Series",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/apr/28/slumping-phillies-fire-manager-rob-thomson-after-losing-11-of-last-12-games",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Iran War",
-      "count": 2,
-      "url": "https://www.theguardian.com/travel/2026/apr/21/tell-us-have-your-holiday-plans-changed-in-light-of-recent-world-events",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The 2026 World Cup",
-      "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/world-cup-players-cover-mouths-confrontations-could-get-red-cards",
-      "source": "Fox News"
-    },
-    {
-      "name": "World Cup 2026",
+      "name": "A War Game",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/apr/28/world-cup-cover-mouths-red-card-rule-ifab",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/04/29/opinion/international-world/putin-russia-nato-attack.html",
+      "source": "NY Times"
     },
     {
       "name": "The Australian Open",
@@ -112,9 +224,9 @@
       "source": "LA Times"
     },
     {
-      "name": "The London Marathon",
+      "name": "Holocaust",
       "count": 1,
-      "url": "https://www.npr.org/2026/04/28/nx-s1-5803016/marathon-world-record-yomif-kejelcha",
+      "url": "https://www.npr.org/2026/04/29/nx-s1-5708847/holocaust-denial-conspiracy-theory-politics",
       "source": "NPR"
     },
     {
@@ -124,129 +236,5 @@
       "source": "Politico"
     }
   ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 72,
-      "url": "https://www.theguardian.com/us-news/2026/apr/28/james-comey-fbi-second-indictment",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 31,
-      "url": "https://www.nytimes.com/2026/04/28/us/politics/trump-passports.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/04/28/world/europe/britain-iran-ambassador-summons.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 17,
-      "url": "https://www.theguardian.com/sport/ng-interactive/2026/apr/28/mary-cain-memoir-nike",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas",
-      "count": 13,
-      "url": "https://www.washingtonpost.com/nation/2026/04/28/camp-mystic-reopen-lawmakers-license/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Ukraine — Ukraine",
-      "count": 13,
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-says-shot-33000-russian-drones-march-monthly-record-rcna342590",
-      "source": "NBC News"
-    },
-    {
-      "name": "New York City",
-      "count": 12,
-      "url": "https://www.theguardian.com/technology/2026/apr/28/elon-musk-sam-altman-openai",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Washington Dc",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/28/reaction-white-house-correspondents-dinner-shooting",
-      "source": "The Guardian"
-    },
-    {
-      "name": "London",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/04/28/world/europe/britain-iran-ambassador-summons.html",
-      "source": "NY Times"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Target For Trump",
-      "count": 60,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Fifa Congress",
-      "count": 26,
-      "url": "https://www.theguardian.com/football/2026/apr/28/world-cup-cover-mouths-red-card-rule-ifab",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 18,
-      "url": "https://www.theguardian.com/technology/2026/apr/28/elon-musk-sam-altman-openai",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Abc",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "White House Correspondents' Association",
-      "count": 15,
-      "url": "https://www.nbcnews.com/video/shorts/these-conspiracy-theories-swirled-after-whcd-shooting-262285893827",
-      "source": "NBC News"
-    },
-    {
-      "name": "Fcc Orders A Review",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Gop",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/apr/28/texas-senate-talarico-leads-race-cornyn-paxton",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/04/28/us/politics/trump-christian-evangelical-faith.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Fbi",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/apr/28/james-comey-fbi-second-indictment",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-04-29T04:32:32Z"
+  "updated": "2026-04-29T09:13:00Z"
 };
