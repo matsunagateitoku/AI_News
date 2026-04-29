@@ -2,278 +2,293 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    120,
-    "https://www.nytimes.com/2026/04/28/us/politics/king-charles-trump-rebuke.html"
-  ],
-  [
-    "king",
-    51,
-    "https://www.nytimes.com/2026/04/28/us/politics/king-charles-trump-rebuke.html"
-  ],
-  [
-    "charles",
-    48,
-    "https://www.nytimes.com/2026/04/28/us/politics/king-charles-trump-rebuke.html"
-  ],
-  [
-    "president",
-    46,
-    "https://www.nytimes.com/2026/04/28/us/politics/king-charles-trump-rebuke.html"
-  ],
-  [
-    "dinner",
-    40,
-    "https://www.nytimes.com/2026/04/29/us/politics/at-state-dinner-king-charles-enters-the-court-of-trump.html"
+    99,
+    "https://www.nytimes.com/2026/04/29/us/politics/trump-justice-department-lawsuit-tax-returns-disclosure.html"
   ],
   [
     "court",
-    31,
-    "https://www.nytimes.com/2026/04/29/us/politics/at-state-dinner-king-charles-enters-the-court-of-trump.html"
+    46,
+    "https://www.nytimes.com/2026/04/29/us/politics/king-charles-trump-state-dinner.html"
+  ],
+  [
+    "president",
+    37,
+    "https://www.nytimes.com/2026/04/29/us/politics/trump-justice-department-lawsuit-tax-returns-disclosure.html"
   ],
   [
     "war",
-    28,
-    "https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html"
+    29,
+    "https://www.nytimes.com/2026/04/29/business/oil-gas-prices-iran.html"
   ],
   [
     "game",
-    26,
-    "https://www.nytimes.com/2026/04/29/opinion/international-world/putin-russia-nato-attack.html"
+    28,
+    "https://www.theguardian.com/sport/2026/apr/29/luka-doncic-body-scrutiny-manosphere"
   ],
   [
     "iran",
+    26,
+    "https://www.nytimes.com/2026/04/29/business/oil-gas-prices-iran.html"
+  ],
+  [
+    "supreme",
+    26,
+    "https://www.nytimes.com/2026/04/29/opinion/ice-racial-profiling-supreme-court.html"
+  ],
+  [
+    "king",
     23,
-    "https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html"
+    "https://www.nytimes.com/2026/04/29/us/politics/king-charles-trump-state-dinner.html"
   ],
   [
-    "congress",
-    22,
-    "https://www.theguardian.com/uk-news/2026/apr/28/king-charles-speech-congress"
-  ],
-  [
-    "department",
-    21,
-    "https://www.nytimes.com/2026/04/28/us/politics/trump-passports.html"
+    "company",
+    23,
+    "https://www.nytimes.com/2026/04/29/business/meta-instagram-facebook-children.html"
   ],
   [
     "donald",
     21,
-    "https://www.theguardian.com/news/audio/2026/apr/29/siri-where-does-apple-go-next-podcast"
+    "https://www.nytimes.com/2026/04/29/opinion/trump-assassination-attempts-political-violence.html"
+  ],
+  [
+    "body",
+    21,
+    "https://www.nytimes.com/2026/04/29/opinion/ice-racial-profiling-supreme-court.html"
+  ],
+  [
+    "voting",
+    21,
+    "https://www.theguardian.com/us-news/2026/apr/29/supreme-court-louisiana-congressional-map-case-ruling"
+  ],
+  [
+    "department",
+    20,
+    "https://www.nytimes.com/2026/04/29/us/politics/trump-justice-department-lawsuit-tax-returns-disclosure.html"
   ],
   [
     "political",
-    21,
-    "https://www.theguardian.com/us-news/2026/apr/29/us-supreme-court-haitians-syrians-tps"
-  ],
-  [
-    "comey",
     20,
-    "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html"
+    "https://www.nytimes.com/2026/04/29/us/rom-reddy-seawall-south-carolina-governor.html"
   ],
   [
-    "early",
+    "charles",
     19,
-    "https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html"
+    "https://www.nytimes.com/2026/04/29/us/politics/king-charles-trump-state-dinner.html"
   ],
   [
-    "ukraine",
+    "rights",
     19,
-    "https://www.theguardian.com/uk-news/2026/apr/28/king-charles-speech-congress"
+    "https://www.theguardian.com/us-news/2026/apr/29/supreme-court-louisiana-congressional-map-case-ruling"
   ],
   [
-    "book",
+    "act",
     19,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/28/asian-mothers-bad-feelings-tiger-mom-stereotype"
+    "https://www.theguardian.com/us-news/2026/apr/29/supreme-court-louisiana-congressional-map-case-ruling"
+  ],
+  [
+    "dinner",
+    18,
+    "https://www.nytimes.com/2026/04/29/us/politics/king-charles-trump-state-dinner.html"
+  ],
+  [
+    "york",
+    18,
+    "https://www.nytimes.com/2026/04/29/nyregion/jack-schlossberg-campaign-ad.html"
   ],
   [
     "review",
     18,
-    "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html"
-  ],
-  [
-    "country",
-    18,
-    "https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html"
-  ],
-  [
-    "california",
-    18,
-    "https://www.nytimes.com/2026/04/29/us/elections/california-governor-debate-pomona.html"
-  ],
-  [
-    "shooting",
-    18,
-    "https://www.theguardian.com/us-news/2026/apr/28/white-house-press-dinner-shooting-conspiracy-theories"
-  ],
-  [
-    "administration",
-    17,
-    "https://www.nytimes.com/2026/04/28/us/politics/state-dinner-guest-list.html"
-  ],
-  [
-    "kimmel",
-    17,
-    "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html"
-  ],
-  [
-    "night",
-    17,
-    "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html"
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/field-company-cast-iron"
   ],
   [
     "coffee",
-    17,
+    18,
     "https://www.theguardian.com/thefilter-us/2025/sep/30/best-instant-coffees"
   ],
   [
-    "company",
-    16,
-    "https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html"
+    "california",
+    17,
+    "https://www.nytimes.com/2026/04/29/us/elections/california-governor-debate-pomona.html"
   ],
   [
-    "sleep",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/apr/28/reaction-white-house-correspondents-dinner-shooting"
+    "director",
+    17,
+    "https://www.nytimes.com/2026/04/29/movies/devil-wears-prada-meryl-streep-anne-hathaway.html"
   ],
   [
-    "james",
-    15,
-    "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html"
+    "attack",
+    17,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "post",
-    15,
-    "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html"
-  ],
-  [
-    "feels",
-    15,
-    "https://www.nytimes.com/2026/04/29/world/middleeast/mideast-war-humor.html"
-  ],
-  [
-    "texas",
-    15,
-    "https://www.washingtonpost.com/nation/2026/04/28/camp-mystic-reopen-lawmakers-license/"
-  ],
-  [
-    "israel",
-    15,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "room",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/29/a-moment-that-changed-me-i-cried-about-my-cleft-lip-for-the-first-time-in-my-60s"
-  ],
-  [
-    "mother",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/28/asian-mothers-bad-feelings-tiger-mom-stereotype"
-  ],
-  [
-    "republican",
-    14,
-    "https://www.nytimes.com/2026/04/28/us/politics/state-dinner-guest-list.html"
+    "early",
+    17,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "health",
-    14,
+    17,
     "https://www.theguardian.com/lifeandstyle/2026/apr/29/17-personal-trainers-exercise-they-always-recommend-planks-face-pulls"
   ],
   [
-    "politics",
-    14,
-    "https://www.theguardian.com/us-news/2026/apr/28/james-comey-fbi-second-indictment"
+    "room",
+    17,
+    "https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced"
   ],
   [
-    "prices",
-    14,
-    "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid"
+    "comey",
+    17,
+    "https://www.theguardian.com/us-news/2026/apr/28/trump-news-latest-updates-today"
   ],
   [
-    "job",
-    14,
-    "https://www.theguardian.com/world/2026/apr/29/us-ambassador-ukraine-trump-steps-down-julie-davis"
+    "london",
+    16,
+    "https://www.nytimes.com/2026/04/29/world/europe/london-stabbing-golders-green.html"
   ],
   [
-    "ago",
-    14,
-    "https://www.theguardian.com/environment/2026/apr/29/mayflies-dance-vertical-pattern-experts-aoe"
+    "north",
+    16,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "arrested",
+    "latest",
+    16,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "series",
+    16,
+    "https://www.theguardian.com/sport/2026/apr/29/wembanyamas-extremely-difficult-defense-helps-spurs-to-first-playoff-series-win-since-2017"
+  ],
+  [
+    "justice",
+    15,
+    "https://www.nytimes.com/2026/04/29/us/politics/trump-justice-department-lawsuit-tax-returns-disclosure.html"
+  ],
+  [
+    "administration",
+    15,
+    "https://www.nytimes.com/2026/04/29/business/media/disney-ceo-josh-damaro-fcc-abc-trump.html"
+  ],
+  [
+    "democrats",
+    15,
+    "https://www.nytimes.com/2026/04/29/nyregion/jack-schlossberg-campaign-ad.html"
+  ],
+  [
+    "black",
+    15,
+    "https://www.nytimes.com/2026/04/29/opinion/ice-racial-profiling-supreme-court.html"
+  ],
+  [
+    "police",
+    15,
+    "https://www.nytimes.com/2026/04/29/world/europe/london-stabbing-golders-green.html"
+  ],
+  [
+    "event",
+    15,
+    "https://www.theguardian.com/fashion/2026/apr/29/frock-hard-place-why-the-furore-over-black-tie-dress"
+  ],
+  [
+    "family",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/29/family-connects-new-orleans-mothers-postpartum-house-calls"
+  ],
+  [
+    "sleep",
+    15,
+    "https://www.theguardian.com/thefilter-us/2025/oct/02/best-sleep-eye-masks-us"
+  ],
+  [
+    "actually",
     14,
-    "https://www.theguardian.com/sport/2026/apr/28/former-nba-player-damon-jones-faces-two-years-in-jail-after-guilty-plea-in-gambling-case"
+    "https://www.nytimes.com/2026/04/29/arts/television/jimmy-kimmel-trump-royals.html"
+  ],
+  [
+    "opera",
+    14,
+    "https://www.theguardian.com/stage/2026/apr/29/moby-dick-robert-wilson-theatre"
+  ],
+  [
+    "energy",
+    14,
+    "https://www.theguardian.com/us-news/live/2026/apr/29/king-charles-new-york-donald-trump-zohran-mamdani-iran-us-politics-live"
+  ],
+  [
+    "james",
+    14,
+    "https://www.theguardian.com/film/2026/apr/29/michael-jackson-biopic-criticised-by-leaving-neverland-director-dan-reed"
+  ],
+  [
+    "chair",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/29/kevin-warsh-fed-chair-powell"
+  ],
+  [
+    "love",
+    13,
+    "https://www.nytimes.com/2026/04/28/magazine/taylor-swift-songwriting-process-interview.html"
+  ],
+  [
+    "south",
+    13,
+    "https://www.nytimes.com/2026/04/29/us/rom-reddy-seawall-south-carolina-governor.html"
+  ],
+  [
+    "texas",
+    13,
+    "https://www.washingtonpost.com/nation/2026/04/28/camp-mystic-reopen-lawmakers-license/"
+  ],
+  [
+    "fashion",
+    13,
+    "https://www.theguardian.com/fashion/2026/apr/29/frock-hard-place-why-the-furore-over-black-tie-dress"
+  ],
+  [
+    "mother",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/field-company-cast-iron"
   ],
   [
     "filter",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/apr/27/how-to-buy-rugs-tips"
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/field-company-cast-iron"
   ],
   [
-    "iii",
+    "buying",
     13,
-    "https://www.nytimes.com/2026/04/28/us/politics/king-charles-trump-rebuke.html"
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/field-company-cast-iron"
+  ],
+  [
+    "louisiana",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/29/supreme-court-louisiana-congressional-map-case-ruling"
+  ],
+  [
+    "republicans",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/29/kevin-warsh-fed-chair-powell"
+  ],
+  [
+    "place",
+    13,
+    "https://www.theguardian.com/us-news/2026/apr/28/donald-trump-passports"
+  ],
+  [
+    "book",
+    13,
+    "https://www.theguardian.com/music/2026/apr/29/arctic-monkeys-matt-helders-sheffield"
+  ],
+  [
+    "win",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/apr/29/uk-gradual-smoking-ban-success"
   ],
   [
     "case",
     13,
-    "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html"
-  ],
-  [
-    "accused",
-    13,
-    "https://www.nytimes.com/2026/04/28/science/david-morens-indictment.html"
-  ],
-  [
-    "again",
-    13,
-    "https://www.nytimes.com/2026/04/28/opinion/whcd-shooting-trump-manifesto.html"
-  ],
-  [
-    "correspondents",
-    13,
-    "https://www.washingtonpost.com/investigations/2026/04/29/white-house-correspondents-dinner-video-new/"
-  ],
-  [
-    "start",
-    13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "fire",
-    13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "director",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/29/widows-bay-review-matthew-rhys-intoxicating-comedy-horror-is-an-absolute-blast"
-  ],
-  [
-    "body",
-    13,
-    "https://www.theguardian.com/sport/2026/apr/29/luka-doncic-body-scrutiny-manosphere"
-  ],
-  [
-    "party",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/29/a-moment-that-changed-me-i-cried-about-my-cleft-lip-for-the-first-time-in-my-60s"
-  ],
-  [
-    "event",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/apr/29/a-moment-that-changed-me-i-cried-about-my-cleft-lip-for-the-first-time-in-my-60s"
-  ],
-  [
-    "justice",
-    13,
     "https://www.theguardian.com/us-news/2026/apr/28/james-comey-fbi-second-indictment"
-  ],
-  [
-    "oil",
-    13,
-    "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid"
   ],
   [
     "instant",
@@ -281,44 +296,39 @@
     "https://www.theguardian.com/thefilter-us/2025/sep/30/best-instant-coffees"
   ],
   [
-    "full",
-    12,
-    "https://www.nytimes.com/2026/04/28/us/politics/state-dinner-guest-list.html"
+    "cbs",
+    13,
+    "https://www.latimes.com/california/story/2026-04-28/california-governor-debate-candidates-scrap-over-gas-tax-homelessness"
   ],
   [
-    "supreme",
+    "light",
     12,
-    "https://www.nytimes.com/2026/04/28/us/politics/state-dinner-guest-list.html"
+    "https://www.nytimes.com/2026/04/29/world/americas/jeffrey-epstein-islam-mosque-island-kaaba-sex-offender-kiswa.html"
   ],
   [
-    "media",
+    "arrested",
     12,
-    "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html"
+    "https://www.nytimes.com/2026/04/29/world/europe/london-stabbing-golders-green.html"
   ],
   [
-    "late",
+    "research",
     12,
-    "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html"
+    "https://www.washingtonpost.com/education/2026/04/29/hbcu-research-group/"
   ],
   [
-    "led",
-    12,
-    "https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html"
-  ],
-  [
-    "charges",
-    12,
-    "https://www.nytimes.com/2026/04/28/science/david-morens-indictment.html"
-  ],
-  [
-    "felt",
-    12,
-    "https://www.nytimes.com/2026/04/29/us/elections/california-governor-debate-pomona.html"
-  ],
-  [
-    "inside",
+    "suspect",
     12,
     "https://www.washingtonpost.com/investigations/2026/04/29/white-house-correspondents-dinner-video-new/"
+  ],
+  [
+    "country",
+    12,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "feel",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/apr/29/17-personal-trainers-exercise-they-always-recommend-planks-face-pulls"
   ],
   [
     "experts",
@@ -326,53 +336,43 @@
     "https://www.theguardian.com/lifeandstyle/2026/apr/29/17-personal-trainers-exercise-they-always-recommend-planks-face-pulls"
   ],
   [
-    "series",
+    "full",
     12,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/29/widows-bay-review-matthew-rhys-intoxicating-comedy-horror-is-an-absolute-blast"
+    "https://www.theguardian.com/stage/2026/apr/29/moby-dick-robert-wilson-theatre"
+  ],
+  [
+    "guide",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/field-company-cast-iron"
   ],
   [
     "star",
     12,
-    "https://www.theguardian.com/sport/2026/apr/29/luka-doncic-body-scrutiny-manosphere"
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/field-company-cast-iron"
   ],
   [
-    "something",
+    "death",
     12,
-    "https://www.theguardian.com/sport/2026/apr/29/luka-doncic-body-scrutiny-manosphere"
+    "https://www.theguardian.com/environment/2026/apr/29/capitalism-colombia-climate-summit-gustavo-petro"
   ],
   [
-    "breaking",
+    "trying",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/28/james-comey-fbi-second-indictment"
+    "https://www.theguardian.com/us-news/2026/apr/29/georgia-cop-city-protesters-charges"
   ],
   [
-    "email",
+    "fed",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/28/james-comey-fbi-second-indictment"
+    "https://www.theguardian.com/us-news/2026/apr/29/kevin-warsh-fed-chair-powell"
   ],
   [
-    "gop",
+    "music",
     12,
-    "https://www.theguardian.com/us-news/2026/apr/28/texas-senate-talarico-leads-race-cornyn-paxton"
+    "https://www.theguardian.com/music/2026/apr/29/geese-outcry-phoney-virality-music-fans-hype"
   ],
   [
-    "art",
-    12,
-    "https://www.theguardian.com/artanddesign/2026/apr/29/nancy-holt-land-art-moonsunstarearthskywater-exhibition-goodwood"
-  ],
-  [
-    "buying",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/apr/27/how-to-buy-rugs-tips"
-  ],
-  [
-    "spring",
+    "american",
     11,
-    "https://www.nytimes.com/2026/04/28/us/politics/menu-british-royal-state-dinner.html"
-  ],
-  [
-    "alleged",
-    11,
-    "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html"
+    "https://www.nytimes.com/2026/04/29/world/europe/france-american-universities-trump-sciences-po.html"
   ]
 ];
