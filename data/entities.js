@@ -3,33 +3,33 @@
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 58,
+      "count": 46,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Ai",
+      "name": "House Select Committee On China",
       "count": 20,
-      "url": "https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database",
-      "source": "The Guardian"
+      "url": "https://thehill.com/homenews/house/5856952-house-gop-airbnb-chinese-ai/",
+      "source": "The Hill"
     },
     {
-      "name": "Blur’S Country House",
+      "name": "The Fifa Congress",
       "count": 16,
-      "url": "https://www.theguardian.com/music/2026/apr/29/dave-balfe-inspiring-blur-country-house-tripping-top-of-the-pops",
+      "url": "https://www.theguardian.com/football/2026/apr/30/fifa-congress-protests",
       "source": "The Guardian"
     },
     {
-      "name": "The U.S. Supreme Court",
-      "count": 15,
-      "url": "https://www.npr.org/2026/04/29/nx-s1-5804707/supreme-court-tps",
-      "source": "NPR"
+      "name": "Minnesota Senate",
+      "count": 16,
+      "url": "https://www.politico.com/live-updates/2026/04/15/congress/angie-craig-peggy-flanagan-minnesota-senate-cash-00875578",
+      "source": "Politico"
     },
     {
-      "name": "Gop",
+      "name": "Ai",
       "count": 14,
-      "url": "https://www.latimes.com/politics/story/2026-04-29/supreme-court-limits-voting-rights-act-in-setback-for-black-democrats",
-      "source": "LA Times"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/30/tax-ai-slop",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
@@ -38,166 +38,60 @@
       "source": "The Guardian"
     },
     {
-      "name": "Fed",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/04/29/business/economy/what-to-watch-at-the-federal-reserves-april-meeting.html",
+      "name": "Supreme Court Embraces Claim",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/04/30/us/politics/supreme-court-voting-rights-act-conservatives.html",
       "source": "NY Times"
     },
     {
-      "name": "Congress",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/04/29/us/politics/hegseth-congress-hearing-takeaways.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Fbi",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/apr/29/brown-university-shooting-suspect-fbi",
+      "name": "Gop",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/30/donald-trump-pete-hegseth-iran-war-oil-king-charles-latest-news-updates",
       "source": "The Guardian"
     },
     {
       "name": "Guardian News",
-      "count": 9,
+      "count": 10,
       "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 75,
-      "url": "https://www.theguardian.com/world/2026/apr/30/as-a-ukrainian-journalist-ive-covered-the-us-for-20-years-i-find-it-increasingly-shocking",
-      "source": "The Guardian"
     },
     {
-      "name": "Iran",
-      "count": 40,
-      "url": "https://www.nytimes.com/2026/04/29/us/politics/trump-germany-us-troops.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 28,
-      "url": "https://www.nytimes.com/2026/04/29/world/americas/ruben-rocha-moya-indictment-mexico.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Germany",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/04/29/us/politics/trump-germany-us-troops.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 13,
-      "url": "https://www.washingtonpost.com/nation/2026/04/28/camp-mystic-reopen-lawmakers-license/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "L.A. County",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-04-29/d4vd-murder-case-hearing",
-      "source": "LA Times"
-    },
-    {
-      "name": "New York City’S",
-      "count": 12,
-      "url": "https://www.theguardian.com/stage/2026/apr/29/moby-dick-robert-wilson-theatre",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The United States Of America",
-      "count": 12,
-      "url": "https://thehill.com/homenews/administration/5856418-trump-intel-stock-investment/",
-      "source": "The Hill"
-    },
-    {
-      "name": "California",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/apr/30/family-reunited-pet-cat-seven-years-after-it-was-lost",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Louisiana",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-midterms.html",
-      "source": "NY Times"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Melania Trump",
-      "count": 14,
-      "url": "https://www.foxnews.com/politics/melania-trump-embraces-ai-education-initiative-white-house-tech-push-shes-been-champion",
-      "source": "Fox News"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 13,
-      "url": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
-      "source": "The Guardian"
-    },
-    {
-      "name": "James Comey",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/apr/29/james-comey-second-indictment-surrender",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Elon Musk",
-      "count": 10,
-      "url": "https://www.theguardian.com/technology/2026/apr/29/elon-musk-openai-sam-altman-lawsuit",
-      "source": "The Guardian"
-    },
-    {
-      "name": "King Charles Iii",
+      "name": "Cbs News'",
       "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/apr/29/king-charles-visit-zohran-mamdani-nyc",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cole Tomas Allen",
-      "count": 7,
-      "url": "https://www.latimes.com/california/story/2026-04-29/mysteries-surround-cole-tomas-allen-his-final-movements-in-d-c-attack",
-      "source": "LA Times"
-    },
-    {
-      "name": "Pete Hegseth",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/04/29/us/politics/hegseth-congress-hearing-takeaways.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Jerome Powell",
-      "count": 6,
-      "url": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jerome H. Powell",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/04/29/business/economy/what-to-watch-at-the-federal-reserves-april-meeting.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Zohran Mamdani",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/04/29/us/mamdani-diamond-king-charles.html",
-      "source": "NY Times"
+      "url": "https://www.cbsnews.com/video/coast-guard-officers-are-going-into-debt-to-follow-orders-during-shutdown-chief-says/",
+      "source": "CBS News"
     }
   ],
   "EVENT": [
     {
-      "name": "The Iran War",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/29/the-guardian-view-on-the-uae-quitting-opec-whatever-importers-pay-the-price-of-fossil-fuels-is-too-high",
+      "name": "Every World Cup",
+      "count": 10,
+      "url": "https://www.theguardian.com/football/2026/apr/16/the-world-behind-the-cup-nation-building-through-soccer",
       "source": "The Guardian"
     },
     {
-      "name": "The World Cup",
+      "name": "The Iran War",
       "count": 6,
-      "url": "https://www.npr.org/2026/04/30/nx-s1-5803486/fifa-world-cup-soccer-football-tickets",
-      "source": "NPR"
+      "url": "https://www.cbsnews.com/video/lawmakers-grill-hegseth-about-the-iran-war-costs/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Iran War Standoff Continues",
+      "count": 4,
+      "url": "https://www.nytimes.com/2026/04/30/business/oil-gas-price-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The World Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/football/2026/apr/16/the-world-behind-the-cup-nation-building-through-soccer",
+      "source": "The Guardian"
+    },
+    {
+      "name": "’S World Cup",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/2026/apr/30/fifa-congress-protests",
+      "source": "The Guardian"
     },
     {
       "name": "Game 6",
@@ -206,9 +100,9 @@
       "source": "LA Times"
     },
     {
-      "name": "Olympics",
+      "name": "World War Ii",
       "count": 2,
-      "url": "https://www.foxnews.com/us/lapd-chief-warns-los-angeles-prepared-secure-2028-olympics-due-staffing-shortages",
+      "url": "https://www.foxnews.com/media/rep-seth-moulton-says-hegseth-guilty-war-crimes-links-him-nazis-tried-during-world-war-ii",
       "source": "Fox News"
     },
     {
@@ -218,35 +112,141 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Year Of The Famine",
+      "name": "The Olympic Games",
       "count": 1,
-      "url": "https://www.theguardian.com/artanddesign/2026/apr/30/return-aparicio-painting-prado-year-famine-madrid-spain-exhibition",
+      "url": "https://www.theguardian.com/football/2026/apr/16/the-world-behind-the-cup-nation-building-through-soccer",
       "source": "The Guardian"
     },
     {
-      "name": "Formula One Bahrain Gp",
+      "name": "The Madrid Open",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/apr/29/romain-grosjean-bird-strike-indianapolis-500",
+      "url": "https://www.theguardian.com/sport/2026/apr/29/jannik-sinner-ends-hopes-fast-rising-teenager-rafael-jodar-madrid-open-tennis",
       "source": "The Guardian"
-    },
-    {
-      "name": "’S World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Enhanced Games'",
-      "count": 1,
-      "url": "https://www.latimes.com/opinion/story/2026-04-23/regulationg-enhanced-games",
-      "source": "LA Times"
-    },
-    {
-      "name": "The Hollywood Bowl",
-      "count": 1,
-      "url": "https://www.latimes.com/delos/story/2026-04-28/marcello-hernandez-interview-netflix-is-a-joke-fest-feid-hollywood-bowl",
-      "source": "LA Times"
     }
   ],
-  "updated": "2026-04-30T09:19:39Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 68,
+      "url": "https://www.theguardian.com/us-news/2026/apr/30/supreme-court-voting-rights-act-roberts-alito",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 33,
+      "url": "https://www.nytimes.com/2026/04/30/business/us-economy-gdp-oil-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 31,
+      "url": "https://www.nytimes.com/video/business/100000010867871/why-the-uae-is-quitting-opec.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Louisiana",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/apr/30/supreme-court-voting-rights-act-roberts-alito",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 16,
+      "url": "https://www.theguardian.com/technology/2026/apr/29/elon-musk-spacex-california-apology",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/apr/29/king-charles-visit-zohran-mamdani-nyc",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/04/30/nyregion/kohinoor-diamond-india-history-mamdani-king-charles.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Mexico",
+      "count": 12,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "London",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 10,
+      "url": "https://www.washingtonpost.com/nation/2026/04/28/camp-mystic-reopen-lawmakers-license/",
+      "source": "Washington Post"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Melania Trump",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/30/jimmy-kimmel-speech-melania-trump-protected-disney",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 12,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/30/jimmy-kimmel-speech-melania-trump-protected-disney",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Elon Musk",
+      "count": 11,
+      "url": "https://www.theguardian.com/technology/2026/apr/29/elon-musk-spacex-california-apology",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pete Hegseth",
+      "count": 10,
+      "url": "https://www.theguardian.com/fashion/2026/apr/29/frock-hard-place-why-the-furore-over-black-tie-dress",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Janet Mills Bows",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Graham Platner",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jimmy Kimmel",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/30/jimmy-kimmel-speech-melania-trump-protected-disney",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cole Allen",
+      "count": 6,
+      "url": "https://www.latimes.com/politics/story/2026-04-29/cole-allen-case-reveals-secret-service-failures-that-could-have-led-to-tragedy",
+      "source": "LA Times"
+    },
+    {
+      "name": "Susan Collins",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Josh Johnson",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/04/30/arts/television/late-night-king-charles-comedy.html",
+      "source": "NY Times"
+    }
+  ],
+  "updated": "2026-04-30T15:14:19Z"
 };
