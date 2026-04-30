@@ -2,178 +2,178 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    93,
-    "https://www.nytimes.com/2026/04/29/us/politics/king-charles-trump-state-dinner.html"
-  ],
-  [
-    "war",
-    50,
-    "https://www.nytimes.com/2026/04/29/us/politics/hegseth-iran-war-cost.html"
-  ],
-  [
-    "court",
-    45,
-    "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-midterms.html"
-  ],
-  [
-    "president",
-    40,
-    "https://www.nytimes.com/2026/04/29/us/politics/king-charles-trump-state-dinner.html"
+    95,
+    "https://www.nytimes.com/2026/04/29/us/politics/trump-white-house-state-dinner.html"
   ],
   [
     "iran",
-    38,
-    "https://www.nytimes.com/2026/04/29/us/politics/hegseth-iran-war-cost.html"
+    58,
+    "https://www.nytimes.com/2026/04/29/briefing/supreme-court-voting-rights-act.html"
   ],
   [
-    "king",
-    32,
-    "https://www.nytimes.com/2026/04/29/us/politics/king-charles-trump-state-dinner.html"
+    "court",
+    56,
+    "https://www.nytimes.com/2026/04/29/briefing/supreme-court-voting-rights-act.html"
   ],
   [
-    "charles",
-    28,
-    "https://www.nytimes.com/2026/04/29/us/politics/king-charles-trump-state-dinner.html"
+    "war",
+    49,
+    "https://www.nytimes.com/2026/04/29/briefing/supreme-court-voting-rights-act.html"
   ],
   [
-    "game",
-    27,
-    "https://www.theguardian.com/sport/2026/apr/29/luka-doncic-body-scrutiny-manosphere"
-  ],
-  [
-    "dinner",
-    26,
-    "https://www.nytimes.com/2026/04/29/us/politics/king-charles-trump-state-dinner.html"
-  ],
-  [
-    "york",
-    25,
-    "https://www.theguardian.com/film/2026/apr/29/the-devil-wears-prada-2-review-meryl-streep"
-  ],
-  [
-    "supreme",
-    23,
-    "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-midterms.html"
-  ],
-  [
-    "political",
-    23,
-    "https://www.nytimes.com/2026/04/29/us/politics/trump-state-dinner-conservative-justices.html"
-  ],
-  [
-    "james",
-    20,
-    "https://www.theguardian.com/us-news/2026/apr/29/james-comey-second-indictment-surrender"
-  ],
-  [
-    "coffee",
-    20,
-    "https://www.theguardian.com/technology/2026/apr/30/phone-addiction-cure-blocking-device"
+    "president",
+    39,
+    "https://www.nytimes.com/2026/04/29/us/politics/pete-hegseth-falsehood-firings.html"
   ],
   [
     "rights",
-    19,
-    "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-midterms.html"
-  ],
-  [
-    "company",
-    19,
-    "https://www.theguardian.com/thefilter-us/2026/apr/29/field-company-cast-iron"
+    31,
+    "https://www.nytimes.com/2026/04/29/briefing/supreme-court-voting-rights-act.html"
   ],
   [
     "voting",
-    17,
+    30,
+    "https://www.nytimes.com/2026/04/29/briefing/supreme-court-voting-rights-act.html"
+  ],
+  [
+    "supreme",
+    27,
+    "https://www.nytimes.com/2026/04/29/briefing/supreme-court-voting-rights-act.html"
+  ],
+  [
+    "game",
+    26,
+    "https://www.theguardian.com/sport/2026/apr/29/luka-doncic-body-scrutiny-manosphere"
+  ],
+  [
+    "health",
+    23,
+    "https://www.theguardian.com/global/commentisfree/2026/apr/29/aids-national-science-board-mmwr"
+  ],
+  [
+    "york",
+    22,
+    "https://www.nytimes.com/2026/04/29/world/europe/king-charles-camilla-royals-nyc-visit.html"
+  ],
+  [
+    "act",
+    21,
+    "https://www.nytimes.com/2026/04/29/briefing/supreme-court-voting-rights-act.html"
+  ],
+  [
+    "coffee",
+    19,
+    "https://www.theguardian.com/technology/2026/apr/30/phone-addiction-cure-blocking-device"
+  ],
+  [
+    "democrats",
+    18,
     "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-midterms.html"
   ],
   [
-    "chair",
+    "hegseth",
+    18,
+    "https://www.nytimes.com/2026/04/29/us/politics/hegseth-iran-war-cost.html"
+  ],
+  [
+    "body",
+    18,
+    "https://www.nytimes.com/2026/04/29/arts/music/d4vd-celeste-rivas-hernandez-murder.html"
+  ],
+  [
+    "black",
     17,
-    "https://www.nytimes.com/2026/04/29/business/economy/powell-fed-stay-governor.html"
+    "https://www.nytimes.com/live/2026/04/29/us/supreme-court-voting-rights/civil-rights-leaders-see-the-voting-rights-ruling-as-a-betrayal"
+  ],
+  [
+    "decision",
+    17,
+    "https://www.theguardian.com/us-news/2026/apr/29/black-lawmakers-supreme-court-voting-rights-ruling"
   ],
   [
     "donald",
     17,
-    "https://www.nytimes.com/2026/04/29/opinion/trump-assassination-attempts-political-violence.html"
+    "https://www.theguardian.com/us-news/2026/apr/29/florida-legislature-congressional-map"
   ],
   [
-    "texas",
+    "death",
     17,
-    "https://www.washingtonpost.com/nation/2026/04/28/camp-mystic-reopen-lawmakers-license/"
+    "https://www.theguardian.com/news/audio/2026/apr/30/irans-wartime-executions-podcast"
   ],
   [
-    "trump's",
+    "star",
     17,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/sport/2026/apr/29/luka-doncic-body-scrutiny-manosphere"
   ],
   [
-    "director",
-    17,
-    "https://www.theguardian.com/us-news/2026/apr/29/james-comey-second-indictment-surrender"
-  ],
-  [
-    "powell",
+    "governor",
     16,
-    "https://www.nytimes.com/2026/04/29/business/economy/powell-fed-stay-governor.html"
+    "https://www.nytimes.com/2026/04/29/business/economy/what-to-watch-at-the-federal-reserves-april-meeting.html"
   ],
   [
-    "food",
+    "billion",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
+    "https://www.nytimes.com/2026/04/29/briefing/supreme-court-voting-rights-act.html"
   ],
   [
-    "health",
+    "dinner",
     16,
-    "https://www.theguardian.com/global/commentisfree/2026/apr/29/aids-national-science-board-mmwr"
+    "https://www.nytimes.com/2026/04/29/us/politics/trump-white-house-state-dinner.html"
   ],
   [
-    "spring",
+    "defense",
     16,
-    "https://www.theguardian.com/film/2026/apr/29/the-devil-wears-prada-2-review-meryl-streep"
+    "https://www.nytimes.com/2026/04/29/us/politics/hegseth-iran-war-cost.html"
   ],
   [
-    "case",
+    "country",
     16,
-    "https://www.theguardian.com/us-news/live/2026/apr/29/king-charles-new-york-donald-trump-zohran-mamdani-iran-us-politics-live"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "comey",
+    "political",
     16,
     "https://www.theguardian.com/us-news/2026/apr/29/james-comey-second-indictment-surrender"
   ],
   [
     "room",
     16,
-    "https://www.theguardian.com/us-news/2026/apr/29/white-house-correspondents-dinner-shooter-new-evidence"
+    "https://www.theguardian.com/artanddesign/2026/apr/30/return-aparicio-painting-prado-year-famine-madrid-spain-exhibition"
   ],
   [
-    "fed",
+    "powell",
     15,
-    "https://www.nytimes.com/2026/04/29/business/economy/powell-fed-stay-governor.html"
+    "https://www.nytimes.com/2026/04/29/business/economy/what-to-watch-at-the-federal-reserves-april-meeting.html"
   ],
   [
-    "governor",
+    "cost",
     15,
-    "https://www.nytimes.com/2026/04/29/business/economy/powell-fed-stay-governor.html"
+    "https://www.nytimes.com/2026/04/29/briefing/supreme-court-voting-rights-act.html"
   ],
   [
-    "attack",
+    "ruling",
     15,
-    "https://www.nytimes.com/2026/04/29/us/white-house-correspondents-dinner-shooter.html"
+    "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-midterms.html"
   ],
   [
-    "body",
+    "republicans",
     15,
-    "https://www.nytimes.com/2026/04/29/opinion/ice-racial-profiling-supreme-court.html"
+    "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-midterms.html"
   ],
   [
-    "buying",
+    "openai",
     15,
-    "https://www.nytimes.com/2026/04/29/business/united-airlines-american-scott-kirby.html"
+    "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html"
   ],
   [
-    "post",
+    "start",
     15,
-    "https://www.washingtonpost.com/investigations/2026/04/29/white-house-correspondents-dinner-video-new/"
+    "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html"
+  ],
+  [
+    "leading",
+    15,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "fashion",
@@ -181,49 +181,39 @@
     "https://www.theguardian.com/film/2026/apr/29/the-devil-wears-prada-2-review-meryl-streep"
   ],
   [
-    "star",
+    "food",
     15,
-    "https://www.theguardian.com/film/2026/apr/29/the-devil-wears-prada-2-review-meryl-streep"
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
   ],
   [
-    "sleep",
+    "buying",
     15,
-    "https://www.theguardian.com/thefilter-us/2025/oct/02/best-sleep-eye-masks-us"
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
   ],
   [
-    "term",
-    14,
-    "https://www.nytimes.com/2026/04/29/business/economy/powell-fed-stay-governor.html"
+    "series",
+    15,
+    "https://www.theguardian.com/sport/2026/apr/29/wembanyamas-extremely-difficult-defense-helps-spurs-to-first-playoff-series-win-since-2017"
   ],
   [
-    "cost",
+    "musk",
     14,
-    "https://www.nytimes.com/2026/04/29/us/politics/hegseth-iran-war-cost.html"
+    "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html"
   ],
   [
-    "hegseth",
+    "company",
     14,
-    "https://www.nytimes.com/2026/04/29/us/politics/hegseth-iran-war-cost.html"
+    "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html"
   ],
   [
-    "country",
+    "prosecutors",
     14,
-    "https://www.nytimes.com/2026/04/29/realestate/iran-war-housing-market-home-buyers.html"
+    "https://www.nytimes.com/2026/04/29/world/americas/ruben-rocha-moya-indictment-mexico.html"
   ],
   [
-    "correspondents",
+    "post",
     14,
-    "https://www.nytimes.com/2026/04/29/us/white-house-correspondents-dinner-shooter.html"
-  ],
-  [
-    "san",
-    14,
-    "https://www.nytimes.com/2026/04/29/us/san-antonio-texas-poverty-rate-census.html"
-  ],
-  [
-    "california",
-    14,
-    "https://www.washingtonpost.com/nation/2026/04/28/gunman-trump-christian-assassination/"
+    "https://www.washingtonpost.com/investigations/2026/04/29/white-house-correspondents-dinner-video-new/"
   ],
   [
     "filter",
@@ -231,64 +221,79 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
   ],
   [
-    "act",
+    "because",
     14,
-    "https://www.theguardian.com/global/commentisfree/2026/apr/29/aids-national-science-board-mmwr"
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
   ],
   [
-    "something",
+    "case",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/29/trump-freedom-truck-museum-exhibit"
+    "https://www.theguardian.com/technology/2026/apr/29/elon-musk-openai-sam-altman-lawsuit"
   ],
   [
-    "fbi",
+    "shooting",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/29/brown-university-shooting-suspect-fbi"
+  ],
+  [
+    "james",
     14,
     "https://www.theguardian.com/us-news/2026/apr/29/james-comey-second-indictment-surrender"
   ],
   [
     "administration",
     14,
-    "https://www.theguardian.com/us-news/2026/apr/29/colette-delawalla-science-profile"
+    "https://www.theguardian.com/world/2026/apr/30/trump-threatens-to-reduce-troop-numbers-in-germany-amid-growing-row-with-nato-allies"
   ],
   [
-    "series",
+    "chair",
     14,
-    "https://www.theguardian.com/sport/2026/apr/29/wembanyamas-extremely-difficult-defense-helps-spurs-to-first-playoff-series-win-since-2017"
+    "https://www.theguardian.com/commentisfree/2026/apr/29/uk-gradual-smoking-ban-success"
   ],
   [
-    "book",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/29/the-house-of-the-spirits-review-isabel-allendes-novel-amazon-prime-video"
-  ],
-  [
-    "gop",
-    14,
-    "https://www.npr.org/2026/04/29/nx-s1-5804703/florida-redistricting-voting-map-republicans-house-seats"
-  ],
-  [
-    "start",
+    "map",
     13,
-    "https://www.nytimes.com/2026/04/29/business/oil-gas-prices-iran.html"
+    "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-act.html"
   ],
   [
-    "allen",
+    "mayor",
     13,
-    "https://www.nytimes.com/2026/04/29/us/politics/correspondents-dinner-shooting-cole-tomas-allen.html"
+    "https://www.nytimes.com/2026/04/29/us/mamdani-diamond-king-charles.html"
   ],
   [
-    "ukraine",
+    "germany",
     13,
-    "https://www.nytimes.com/2026/04/29/world/europe/ukraine-russia-ceasefire-trump-putin.html"
+    "https://www.nytimes.com/2026/04/29/us/politics/trump-germany-us-troops.html"
   ],
   [
-    "team",
+    "term",
     13,
-    "https://www.washingtonpost.com/education/2026/04/29/hbcu-research-group/"
+    "https://www.nytimes.com/2026/04/30/business/bank-of-england-european-central-bank.html"
   ],
   [
-    "north",
+    "security",
     13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.nytimes.com/2026/04/29/us/politics/house-ice-budget-immigration.html"
+  ],
+  [
+    "power",
+    13,
+    "https://www.nytimes.com/2026/04/29/opinion/supreme-court-voting-rights-act-2026.html"
+  ],
+  [
+    "secret",
+    13,
+    "https://www.washingtonpost.com/investigations/2026/04/29/white-house-correspondents-dinner-video-new/"
+  ],
+  [
+    "texas",
+    13,
+    "https://www.washingtonpost.com/nation/2026/04/28/camp-mystic-reopen-lawmakers-license/"
+  ],
+  [
+    "spring",
+    13,
+    "https://www.theguardian.com/film/2026/apr/29/the-devil-wears-prada-2-review-meryl-streep"
   ],
   [
     "weekly",
@@ -301,34 +306,9 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
   ],
   [
-    "because",
+    "media",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
-  ],
-  [
-    "trying",
-    13,
-    "https://www.theguardian.com/global/2026/apr/29/vaginal-microbiome-probiotics-marketing"
-  ],
-  [
-    "film",
-    13,
-    "https://www.theguardian.com/film/2026/apr/29/the-devil-wears-prada-2-review-meryl-streep"
-  ],
-  [
-    "far",
-    13,
-    "https://www.theguardian.com/stage/2026/apr/29/moby-dick-robert-wilson-theatre"
-  ],
-  [
-    "london",
-    13,
-    "https://www.theguardian.com/uk-news/2026/apr/29/stabbing-golders-green-london"
-  ],
-  [
-    "feel",
-    13,
-    "https://www.theguardian.com/games/2026/apr/29/pushing-buttons-what-made-good-game-feel-pragmata-saros-vampire-crawler"
+    "https://www.theguardian.com/us-news/2026/apr/29/james-comey-second-indictment-surrender"
   ],
   [
     "instant",
@@ -336,43 +316,63 @@
     "https://www.theguardian.com/thefilter-us/2025/sep/30/best-instant-coffees"
   ],
   [
-    "florida",
-    12,
-    "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-midterms.html"
+    "gop",
+    13,
+    "https://www.latimes.com/politics/story/2026-04-29/supreme-court-limits-voting-rights-act-in-setback-for-black-democrats"
   ],
   [
-    "map",
+    "fed",
     12,
-    "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-midterms.html"
+    "https://www.nytimes.com/2026/04/29/business/economy/what-to-watch-at-the-federal-reserves-april-meeting.html"
+  ],
+  [
+    "lawmakers",
+    12,
+    "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-act.html"
+  ],
+  [
+    "king",
+    12,
+    "https://www.nytimes.com/2026/04/29/world/europe/king-charles-camilla-royals-nyc-visit.html"
+  ],
+  [
+    "oil",
+    12,
+    "https://www.nytimes.com/2026/04/30/business/oil-gas-price-iran.html"
+  ],
+  [
+    "immigration",
+    12,
+    "https://www.nytimes.com/2026/04/29/us/politics/house-ice-budget-immigration.html"
+  ],
+  [
+    "department",
+    12,
+    "https://www.nytimes.com/2026/04/29/us/politics/house-ice-budget-immigration.html"
+  ],
+  [
+    "north",
+    12,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
     "released",
     12,
-    "https://www.nytimes.com/2026/04/29/us/politics/correspondents-dinner-shooting-cole-tomas-allen.html"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "video",
+    "fewer",
     12,
-    "https://www.nytimes.com/2026/04/29/us/politics/correspondents-dinner-shooting-cole-tomas-allen.html"
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
   ],
   [
-    "chief",
+    "full",
     12,
-    "https://www.nytimes.com/2026/04/29/us/politics/trump-state-dinner-conservative-justices.html"
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
   ],
   [
-    "jewish",
+    "something",
     12,
-    "https://www.nytimes.com/2026/04/29/us/politics/jewish-democrats-antisemitism-israel.html"
-  ],
-  [
-    "black",
-    12,
-    "https://www.nytimes.com/2026/04/29/opinion/ice-racial-profiling-supreme-court.html"
-  ],
-  [
-    "research",
-    12,
-    "https://www.nytimes.com/2026/04/29/science/earth/peter-raven-dead.html"
+    "https://www.theguardian.com/us-news/2026/apr/29/trump-freedom-truck-museum-exhibit"
   ]
 ];
