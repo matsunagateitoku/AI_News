@@ -2,108 +2,138 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    77,
-    "https://www.nytimes.com/2026/04/30/business/powell-fed-trump.html"
+    104,
+    "https://www.nytimes.com/2026/04/30/us/politics/casey-means-surgeon-general-withdraw.html"
   ],
   [
     "war",
-    58,
-    "https://www.nytimes.com/2026/04/30/business/oil-gas-price-iran.html"
-  ],
-  [
-    "court",
-    43,
-    "https://www.nytimes.com/2026/04/30/us/politics/louisiana-suspend-primaries-supreme-court.html"
-  ],
-  [
-    "iran",
-    42,
-    "https://www.nytimes.com/2026/04/30/business/oil-gas-price-iran.html"
+    53,
+    "https://www.nytimes.com/2026/04/30/us/politics/trump-china-iran.html"
   ],
   [
     "president",
-    31,
-    "https://www.nytimes.com/2026/04/30/world/europe/trump-triumphal-arch-france.html"
+    50,
+    "https://www.nytimes.com/2026/04/30/us/politics/casey-means-surgeon-general-withdraw.html"
   ],
   [
-    "rights",
-    29,
-    "https://www.nytimes.com/2026/04/30/podcasts/the-headlines/voting-rights-supreme-court-hegseth-testimony.html"
-  ],
-  [
-    "supreme",
-    28,
-    "https://www.nytimes.com/2026/04/30/us/politics/louisiana-suspend-primaries-supreme-court.html"
-  ],
-  [
-    "game",
-    27,
-    "https://www.theguardian.com/games/2026/apr/30/you-can-be-any-bond-you-want-the-inside-story-of-007-first-light"
-  ],
-  [
-    "night",
-    26,
-    "https://www.theguardian.com/commentisfree/2026/apr/30/jimmy-kimmel-speech-melania-trump-protected-disney"
-  ],
-  [
-    "voting",
-    25,
-    "https://www.nytimes.com/2026/04/30/podcasts/the-headlines/voting-rights-supreme-court-hegseth-testimony.html"
-  ],
-  [
-    "country",
-    25,
-    "https://www.nytimes.com/2026/04/30/realestate/high-end-squatters-rise.html"
+    "iran",
+    45,
+    "https://www.nytimes.com/2026/04/30/us/politics/trump-china-iran.html"
   ],
   [
     "senate",
+    42,
+    "https://www.nytimes.com/2026/04/30/us/politics/louisiana-suspend-primaries-supreme-court.html"
+  ],
+  [
+    "court",
+    39,
+    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
+  ],
+  [
+    "rights",
+    34,
+    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
+  ],
+  [
+    "voting",
+    29,
+    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
+  ],
+  [
+    "country",
+    29,
+    "https://www.nytimes.com/2026/04/30/world/middleeast/iran-war-supreme-leader-mojtaba-khamenei-strait-hormuz.html"
+  ],
+  [
+    "supreme",
+    27,
+    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
+  ],
+  [
+    "hegseth",
+    27,
+    "https://www.nytimes.com/2026/04/30/us/politics/hegseth-iran-cease-fire-congress.html"
+  ],
+  [
+    "game",
+    25,
+    "https://www.theguardian.com/football/2026/apr/30/mauricio-pochettino-usmnt-emotional-relationship-us-soccer"
+  ],
+  [
+    "york",
+    24,
+    "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-schumer-strategy.html"
+  ],
+  [
+    "decision",
     23,
-    "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html"
+    "https://www.nytimes.com/2026/04/30/us/politics/louisiana-suspend-primaries-supreme-court.html"
   ],
   [
     "political",
     22,
-    "https://www.nytimes.com/2026/04/30/briefing/whos-a-threat.html"
+    "https://www.nytimes.com/2026/04/30/us/politics/voting-rights-act-young-black-democrats.html"
   ],
   [
-    "decision",
+    "camp",
     21,
-    "https://www.nytimes.com/2026/04/30/business/powell-fed-trump.html"
+    "https://www.nytimes.com/2026/04/30/us/camp-mystic-texas-floods-closure.html"
+  ],
+  [
+    "secretary",
+    20,
+    "https://www.nytimes.com/2026/04/30/us/politics/louisiana-suspend-primaries-supreme-court.html"
+  ],
+  [
+    "media",
+    20,
+    "https://www.theguardian.com/music/2026/apr/30/i-did-receive-bottles-on-stage-there-might-have-been-urine-melanie-c-on-spice-girls-mania-impostor-syndrome-and-her-date-with-a-chili-pepper"
+  ],
+  [
+    "night",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/apr/30/trump-white-house-ballroom-bunker"
+  ],
+  [
+    "government",
+    20,
+    "https://www.theguardian.com/us-news/2026/apr/30/partial-government-shutdown-ends-ice-dhs-funding-republicans"
+  ],
+  [
+    "ruling",
+    19,
+    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
+  ],
+  [
+    "because",
+    19,
+    "https://www.nytimes.com/2026/04/30/climate/phoenix-salt-lake-city-pollution-epa.html"
   ],
   [
     "act",
-    21,
-    "https://www.nytimes.com/2026/04/30/podcasts/the-headlines/voting-rights-supreme-court-hegseth-testimony.html"
-  ],
-  [
-    "dinner",
-    21,
-    "https://www.nytimes.com/2026/04/29/us/politics/trump-white-house-state-dinner.html"
-  ],
-  [
-    "food",
-    20,
-    "https://www.theguardian.com/stage/2026/apr/30/strip-club-drama-tender-dave-harris"
-  ],
-  [
-    "oil",
     19,
-    "https://www.nytimes.com/2026/04/30/business/oil-gas-price-iran.html"
+    "https://www.theguardian.com/us-news/2026/apr/30/supreme-court-voting-rights-act-roberts-alito"
   ],
   [
-    "york",
-    18,
-    "https://www.nytimes.com/video/business/100000010867871/why-the-uae-is-quitting-opec.html"
+    "donald",
+    19,
+    "https://www.theguardian.com/us-news/2026/apr/30/pete-hegseth-iran-war-hearing"
   ],
   [
-    "attack",
-    18,
-    "https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html"
+    "california",
+    19,
+    "https://www.theguardian.com/technology/2026/apr/29/elon-musk-spacex-california-apology"
   ],
   [
-    "cup",
+    "louisiana",
     18,
-    "https://www.theguardian.com/football/2026/apr/16/the-world-behind-the-cup-nation-building-through-soccer"
+    "https://www.nytimes.com/2026/04/30/us/politics/louisiana-suspend-primaries-supreme-court.html"
+  ],
+  [
+    "bill",
+    18,
+    "https://www.nytimes.com/2026/04/30/nyregion/new-york-sexual-assault-laws-epstein.html"
   ],
   [
     "coffee",
@@ -111,124 +141,209 @@
     "https://www.theguardian.com/thefilter-us/2025/sep/30/best-instant-coffees"
   ],
   [
-    "black",
+    "germany",
     17,
-    "https://www.nytimes.com/2026/04/30/us/some-black-southerners-say-voting-rights-ruling-missed-the-mark.html"
+    "https://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html"
   ],
   [
     "military",
     17,
-    "https://www.nytimes.com/2026/04/30/opinion/iran-us-military-challenges.html"
+    "https://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html"
   ],
   [
-    "government",
+    "love",
     17,
-    "https://www.theguardian.com/commentisfree/2026/apr/30/jimmy-kimmel-speech-melania-trump-protected-disney"
+    "https://www.nytimes.com/2026/04/30/movies/devil-wears-prada-movie-top-10-moments.html"
+  ],
+  [
+    "king",
+    17,
+    "https://www.theguardian.com/music/2026/apr/30/i-did-receive-bottles-on-stage-there-might-have-been-urine-melanie-c-on-spice-girls-mania-impostor-syndrome-and-her-date-with-a-chili-pepper"
+  ],
+  [
+    "mother",
+    17,
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/apr/30/sex-writer-book"
+  ],
+  [
+    "buying",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/apr/30/best-mothers-day-gifts"
+  ],
+  [
+    "film",
+    17,
+    "https://www.theguardian.com/film/2026/apr/30/michael-jackson-movie-fans"
+  ],
+  [
+    "food",
+    17,
+    "https://www.theguardian.com/games/2026/apr/29/pushing-buttons-what-made-good-game-feel-pragmata-saros-vampire-crawler"
+  ],
+  [
+    "democrats",
+    16,
+    "https://www.nytimes.com/2026/04/30/us/politics/voting-rights-act-young-black-democrats.html"
+  ],
+  [
+    "means",
+    16,
+    "https://www.nytimes.com/2026/04/30/us/politics/casey-means-surgeon-general-withdraw.html"
+  ],
+  [
+    "defense",
+    16,
+    "https://www.nytimes.com/2026/04/30/us/politics/hegseth-iran-cease-fire-congress.html"
   ],
   [
     "congress",
     16,
-    "https://www.nytimes.com/2026/04/30/us/politics/supreme-court-voting-rights-act-conservatives.html"
+    "https://www.nytimes.com/2026/04/30/us/politics/hegseth-iran-cease-fire-congress.html"
   ],
   [
-    "republicans",
+    "summer",
     16,
-    "https://www.nytimes.com/2026/04/30/us/politics/democrats-independent-redistricting-commissions.html"
+    "https://www.nytimes.com/2026/04/30/us/camp-mystic-texas-floods-closure.html"
   ],
   [
-    "because",
+    "texas",
     16,
-    "https://www.nytimes.com/2026/04/30/world/asia/australia-bondi-beach-attack-antisemitism.html"
+    "https://www.nytimes.com/2026/04/30/us/camp-mystic-texas-floods-closure.html"
   ],
   [
-    "love",
+    "filter",
     16,
-    "https://www.nytimes.com/2026/04/30/movies/devil-wears-prada-movie-top-10-moments.html"
+    "https://www.theguardian.com/thefilter-us/2026/apr/30/best-mothers-day-gifts"
   ],
   [
-    "california",
+    "sen",
     16,
-    "https://www.washingtonpost.com/nation/2026/04/28/gunman-trump-christian-assassination/"
+    "https://www.foxnews.com/politics/hegseth-fires-back-warrens-insider-trading-comments-tied-iran-war-no-one-owns-me"
   ],
   [
-    "room",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/apr/30/the-pitt-hbo-max-wildest-fan-theories-vampire-doctors-ghosts"
+    "fewer",
+    15,
+    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
+  ],
+  [
+    "black",
+    15,
+    "https://www.nytimes.com/2026/04/30/us/politics/voting-rights-act-young-black-democrats.html"
+  ],
+  [
+    "general",
+    15,
+    "https://www.nytimes.com/2026/04/30/us/politics/casey-means-surgeon-general-withdraw.html"
+  ],
+  [
+    "questions",
+    15,
+    "https://www.nytimes.com/2026/04/30/business/usda-farmers-crops-data.html"
+  ],
+  [
+    "department",
+    15,
+    "https://www.nytimes.com/2026/04/30/business/usda-farmers-crops-data.html"
+  ],
+  [
+    "agency",
+    15,
+    "https://www.washingtonpost.com/climate-environment/2026/04/30/fema-aims-rehire-most-disaster-response-employees-it-fired-months-ago/"
+  ],
+  [
+    "latest",
+    15,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "republican",
+    15,
+    "https://www.theguardian.com/us-news/2026/apr/30/partial-government-shutdown-ends-ice-dhs-funding-republicans"
+  ],
+  [
+    "voters",
+    14,
+    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
+  ],
+  [
+    "review",
+    14,
+    "https://www.nytimes.com/2026/04/30/movies/the-devil-wears-prada-2-review.html"
+  ],
+  [
+    "death",
+    14,
+    "https://www.nytimes.com/2026/04/30/us/jeffrey-epstein-suicide-note-sealed.html"
+  ],
+  [
+    "musk",
+    14,
+    "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html"
+  ],
+  [
+    "artist",
+    14,
+    "https://www.nytimes.com/2026/04/30/t-magazine/feminist-performance-art-yoko-ono.html"
+  ],
+  [
+    "cut",
+    14,
+    "https://www.nytimes.com/2026/04/30/t-magazine/feminist-performance-art-yoko-ono.html"
+  ],
+  [
+    "art",
+    14,
+    "https://www.nytimes.com/2026/04/30/t-magazine/feminist-performance-art-yoko-ono.html"
+  ],
+  [
+    "attack",
+    14,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "democratic",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/30/supreme-court-voting-rights-act-roberts-alito"
+  ],
+  [
+    "guide",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/apr/30/best-mothers-day-gifts"
   ],
   [
     "body",
-    16,
+    14,
     "https://www.theguardian.com/us-news/2026/apr/30/womens-rugby-trans-ban"
   ],
   [
-    "king",
-    15,
-    "https://www.nytimes.com/2026/04/29/world/europe/king-charles-camilla-royals-nyc-visit.html"
-  ],
-  [
-    "correspondents",
-    15,
-    "https://www.washingtonpost.com/investigations/2026/04/29/white-house-correspondents-dinner-video-new/"
-  ],
-  [
-    "case",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/30/appeals-court-refuse-trump-appeal-e-jean-carroll-case"
-  ],
-  [
-    "company",
-    15,
-    "https://www.theguardian.com/technology/2026/apr/29/elon-musk-spacex-california-apology"
-  ],
-  [
-    "buying",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
-  ],
-  [
-    "prices",
+    "social",
     14,
-    "https://www.nytimes.com/2026/04/30/business/us-economy-gdp-oil-war.html"
+    "https://www.theguardian.com/us-news/2026/apr/30/womens-rugby-trans-ban"
   ],
   [
-    "hegseth",
+    "human",
     14,
-    "https://www.nytimes.com/2026/04/30/podcasts/the-headlines/voting-rights-supreme-court-hegseth-testimony.html"
+    "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses"
   ],
   [
-    "louisiana",
+    "executive",
     14,
-    "https://www.nytimes.com/2026/04/30/us/politics/louisiana-suspend-primaries-supreme-court.html"
+    "https://www.theguardian.com/media/2026/apr/30/brendan-carr-fcc-jimmy-kimmel"
   ],
   [
-    "shooting",
+    "room",
     14,
-    "https://www.nytimes.com/2026/04/30/world/asia/australia-bondi-beach-attack-antisemitism.html"
+    "https://www.theguardian.com/tv-and-radio/2026/apr/30/the-pitt-hbo-max-wildest-fan-theories-vampire-doctors-ghosts"
   ],
   [
-    "david",
+    "spring",
     14,
-    "https://www.nytimes.com/2026/04/30/arts/music/david-allan-coe-dead.html"
+    "https://www.theguardian.com/wellness/2026/apr/30/what-is-lipedema"
   ],
   [
-    "team",
+    "star",
     14,
-    "https://www.washingtonpost.com/education/2026/04/29/hbcu-research-group/"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/apr/30/jimmy-kimmel-speech-melania-trump-protected-disney"
-  ],
-  [
-    "enough",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/apr/30/jimmy-kimmel-speech-melania-trump-protected-disney"
-  ],
-  [
-    "bill",
-    14,
-    "https://www.theguardian.com/world/2026/apr/30/canada-financial-crimes-agency-us-weakens-approach-cryptocurrency-atms-money-laundering"
+    "https://www.theguardian.com/film/2026/apr/30/michael-jackson-movie-fans"
   ],
   [
     "fashion",
@@ -236,143 +351,28 @@
     "https://www.theguardian.com/film/2026/apr/29/the-devil-wears-prada-2-review-meryl-streep"
   ],
   [
-    "filter",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
-  ],
-  [
-    "fewer",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
-  ],
-  [
-    "ago",
+    "team",
     13,
-    "https://www.nytimes.com/2026/04/30/us/politics/democrats-independent-redistricting-commissions.html"
+    "https://www.nytimes.com/2026/04/30/health/sara-brenner-cdc-kennedy.html"
   ],
   [
-    "late",
+    "support",
     13,
-    "https://www.nytimes.com/2026/04/30/well/late-stage-dementia-minimal-comfort-feeding-advance-directives.html"
+    "https://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html"
   ],
   [
-    "video",
+    "middle",
     13,
-    "https://www.washingtonpost.com/investigations/2026/04/29/white-house-correspondents-dinner-video-new/"
+    "https://www.nytimes.com/2026/04/30/business/us-economy-gdp-oil-war.html"
   ],
   [
-    "cole",
+    "order",
     13,
-    "https://www.washingtonpost.com/nation/2026/04/28/gunman-trump-christian-assassination/"
+    "https://www.nytimes.com/2026/04/30/us/ai-students-cheating-homework-classrooms.html"
   ],
   [
-    "secretary",
+    "feel",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "media",
-    13,
-    "https://www.theguardian.com/world/2026/apr/30/as-a-ukrainian-journalist-ive-covered-the-us-for-20-years-i-find-it-increasingly-shocking"
-  ],
-  [
-    "instant",
-    13,
-    "https://www.theguardian.com/thefilter-us/2025/sep/30/best-instant-coffees"
-  ],
-  [
-    "energy",
-    12,
-    "https://www.nytimes.com/2026/04/30/business/oil-gas-price-iran.html"
-  ],
-  [
-    "held",
-    12,
-    "https://www.nytimes.com/2026/04/30/business/bank-of-england-european-central-bank.html"
-  ],
-  [
-    "ruling",
-    12,
-    "https://www.nytimes.com/2026/04/30/us/some-black-southerners-say-voting-rights-ruling-missed-the-mark.html"
-  ],
-  [
-    "democrats",
-    12,
-    "https://www.nytimes.com/2026/04/30/us/politics/democrats-independent-redistricting-commissions.html"
-  ],
-  [
-    "redistricting",
-    12,
-    "https://www.nytimes.com/2026/04/30/us/politics/democrats-independent-redistricting-commissions.html"
-  ],
-  [
-    "security",
-    12,
-    "https://www.nytimes.com/2026/04/30/world/asia/australia-bondi-beach-attack-antisemitism.html"
-  ],
-  [
-    "mills",
-    12,
-    "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html"
-  ],
-  [
-    "race",
-    12,
-    "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html"
-  ],
-  [
-    "voters",
-    12,
-    "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html"
-  ],
-  [
-    "everyone",
-    12,
-    "https://www.nytimes.com/2026/04/30/opinion/iran-us-military-challenges.html"
-  ],
-  [
-    "gaza",
-    12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "start",
-    12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "fire",
-    12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "far",
-    12,
-    "https://www.theguardian.com/football/2026/apr/16/the-world-behind-the-cup-nation-building-through-soccer"
-  ],
-  [
-    "gop",
-    12,
-    "https://www.theguardian.com/us-news/live/2026/apr/30/donald-trump-pete-hegseth-iran-war-oil-king-charles-latest-news-updates"
-  ],
-  [
-    "spring",
-    12,
-    "https://www.theguardian.com/us-news/2026/apr/29/king-charles-visit-zohran-mamdani-nyc"
-  ],
-  [
-    "family",
-    12,
-    "https://www.theguardian.com/world/2026/apr/30/new-zealand-woman-detained-ice"
-  ],
-  [
-    "ballroom",
-    12,
-    "https://www.theguardian.com/culture/2026/apr/30/seth-meyers-trump-ballroom-king-charles"
-  ],
-  [
-    "film",
-    12,
-    "https://www.theguardian.com/film/2026/apr/30/the-purge-but-for-sex-one-night-only-trailer"
+    "https://www.nytimes.com/2026/04/30/t-magazine/feminist-performance-art-yoko-ono.html"
   ]
 ];
