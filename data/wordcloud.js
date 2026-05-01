@@ -2,13 +2,8 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    104,
+    89,
     "https://www.nytimes.com/2026/04/30/us/politics/trumps-hegseth-weapons-production.html"
-  ],
-  [
-    "president",
-    51,
-    "https://www.nytimes.com/2026/04/30/us/politics/hegseth-iran-cease-fire-congress.html"
   ],
   [
     "war",
@@ -16,19 +11,14 @@
     "https://www.nytimes.com/2026/04/30/us/politics/hegseth-iran-cease-fire-congress.html"
   ],
   [
-    "iran",
-    37,
+    "president",
+    47,
     "https://www.nytimes.com/2026/04/30/us/politics/hegseth-iran-cease-fire-congress.html"
   ],
   [
-    "court",
-    37,
-    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
-  ],
-  [
-    "senate",
-    26,
-    "https://www.nytimes.com/2026/04/30/us/elections/maine-janet-mills-reaction.html"
+    "iran",
+    40,
+    "https://www.nytimes.com/2026/04/30/us/politics/hegseth-iran-cease-fire-congress.html"
   ],
   [
     "game",
@@ -36,164 +26,139 @@
     "https://www.theguardian.com/football/2026/apr/30/mauricio-pochettino-usmnt-emotional-relationship-us-soccer"
   ],
   [
-    "rights",
-    25,
-    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
-  ],
-  [
-    "york",
-    25,
-    "https://www.nytimes.com/video/us/100000010870969/how-conservatives-on-the-supreme-court-weakened-the-voting-rights-act.html"
-  ],
-  [
-    "donald",
-    25,
-    "https://www.theguardian.com/us-news/2026/apr/30/pete-hegseth-iran-war-hearing"
-  ],
-  [
-    "because",
-    23,
-    "https://www.theguardian.com/music/2026/apr/30/i-did-receive-bottles-on-stage-there-might-have-been-urine-melanie-c-on-spice-girls-mania-impostor-syndrome-and-her-date-with-a-chili-pepper"
+    "senate",
+    24,
+    "https://www.nytimes.com/2026/04/30/us/elections/maine-janet-mills-reaction.html"
   ],
   [
     "congress",
-    22,
+    23,
     "https://www.nytimes.com/2026/04/30/us/politics/hegseth-iran-cease-fire-congress.html"
   ],
   [
-    "supreme",
-    22,
-    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
+    "donald",
+    23,
+    "https://www.theguardian.com/commentisfree/2026/may/01/king-charles-us-visit"
   ],
   [
-    "voting",
-    22,
+    "political",
+    23,
+    "https://www.theguardian.com/fashion/2026/apr/30/the-most-unforgettable-looks-ever-to-hit-the-steps-of-the-met-gala"
+  ],
+  [
+    "court",
+    21,
     "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
   ],
   [
     "country",
-    22,
+    20,
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "decision",
-    21,
-    "https://www.nytimes.com/2026/04/30/upshot/gerrymanders-redistricting-democrats-republicans.html"
-  ],
-  [
-    "security",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/apr/30/trump-white-house-ballroom-bunker"
-  ],
-  [
-    "political",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/apr/30/supreme-court-voting-rights-act-ruling"
-  ],
-  [
-    "mother",
-    20,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/apr/30/sex-writer-book"
-  ],
-  [
-    "dinner",
-    19,
-    "https://www.washingtonpost.com/investigations/2026/04/29/white-house-correspondents-dinner-video-new/"
-  ],
-  [
     "love",
-    18,
+    19,
     "https://www.nytimes.com/2026/04/30/us/elections/maine-janet-mills-reaction.html"
   ],
   [
     "food",
-    18,
+    19,
     "https://www.nytimes.com/2026/04/30/us/chonkers-sea-lion-san-francisco.html"
   ],
   [
-    "coffee",
-    18,
-    "https://www.theguardian.com/thefilter-us/2025/sep/30/best-instant-coffees"
+    "because",
+    19,
+    "https://www.theguardian.com/lifeandstyle/2026/may/01/experience-i-died-on-my-44th-birthday-assisted-dying"
   ],
   [
-    "act",
-    17,
+    "mother",
+    19,
+    "https://www.theguardian.com/world/2026/may/01/un-denmark-greenlandic-mother-ethnic-discrimination"
+  ],
+  [
+    "coffee",
+    19,
+    "https://www.theguardian.com/music/2026/may/01/kacey-musgraves-middle-of-nowhere-review"
+  ],
+  [
+    "york",
+    18,
     "https://www.nytimes.com/video/us/100000010870969/how-conservatives-on-the-supreme-court-weakened-the-voting-rights-act.html"
   ],
   [
-    "leave",
+    "pop",
+    18,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "security",
+    18,
+    "https://www.theguardian.com/us-news/2026/apr/30/video-white-house-dinner-shooting"
+  ],
+  [
+    "administration",
     17,
-    "https://www.nytimes.com/2026/04/30/climate/fema-job-cuts-reverse.html"
+    "https://www.nytimes.com/2026/04/30/world/americas/mexico-rocha-indictment-sheinbaum.html"
   ],
   [
-    "bill",
+    "suspect",
     17,
-    "https://www.nytimes.com/2026/04/30/us/politics/house-homeland-security-funding-bill.html"
-  ],
-  [
-    "star",
-    17,
-    "https://www.theguardian.com/film/2026/apr/30/michael-jackson-movie-fans"
-  ],
-  [
-    "case",
-    17,
-    "https://www.theguardian.com/technology/2026/apr/30/openai-founding-trial-elon-musk-sam-altman"
-  ],
-  [
-    "ruling",
-    16,
-    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
-  ],
-  [
-    "funding",
-    16,
-    "https://www.nytimes.com/2026/04/30/us/politics/house-homeland-security-funding-bill.html"
+    "https://www.nytimes.com/2026/05/01/world/australia/alice-springs-jefferson-lewis-girl-kumanjayi.html"
   ],
   [
     "california",
-    16,
-    "https://www.nytimes.com/2026/04/30/us/california-ticket-driverless-car-violations.html"
-  ],
-  [
-    "department",
-    16,
+    17,
     "https://www.nytimes.com/2026/04/30/us/california-ticket-driverless-car-violations.html"
   ],
   [
     "video",
+    17,
+    "https://www.washingtonpost.com/investigations/2026/04/29/white-house-correspondents-dinner-video-new/"
+  ],
+  [
+    "star",
+    17,
+    "https://www.theguardian.com/film/2026/may/01/mother-mary-film-pop-stardom-hollywood"
+  ],
+  [
+    "fewer",
+    16,
+    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
+  ],
+  [
+    "king",
+    16,
+    "https://www.nytimes.com/2026/04/30/world/europe/king-charles-visit-trump-messages.html"
+  ],
+  [
+    "dinner",
     16,
     "https://www.washingtonpost.com/investigations/2026/04/29/white-house-correspondents-dinner-video-new/"
   ],
   [
-    "ice",
+    "released",
     16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "film",
+    "music",
     16,
-    "https://www.theguardian.com/film/2026/apr/30/michael-jackson-movie-fans"
+    "https://www.theguardian.com/travel/2026/may/01/readers-favourite-city-neighbourhoods-europe"
   ],
   [
-    "night",
-    16,
-    "https://www.theguardian.com/film/2026/apr/30/michael-jackson-movie-fans"
-  ],
-  [
-    "breaking",
+    "prices",
     16,
     "https://www.theguardian.com/us-news/2026/apr/30/pete-hegseth-iran-war-hearing"
+  ],
+  [
+    "running",
+    16,
+    "https://www.theguardian.com/us-news/2026/apr/30/hollywood-church-of-scientology-speed-runs"
   ],
   [
     "republican",
     16,
     "https://www.theguardian.com/us-news/2026/apr/30/partial-government-shutdown-ends-ice-dhs-funding-republicans"
-  ],
-  [
-    "fashion",
-    16,
-    "https://www.theguardian.com/film/2026/may/01/the-devil-wears-prada-2-romcom-reporter-heroine"
   ],
   [
     "filter",
@@ -206,89 +171,69 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/30/best-mothers-day-gifts"
   ],
   [
-    "fewer",
-    15,
-    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
-  ],
-  [
-    "agency",
+    "leave",
     15,
     "https://www.nytimes.com/2026/04/30/climate/fema-job-cuts-reverse.html"
   ],
   [
-    "king",
+    "funding",
     15,
-    "https://www.nytimes.com/2026/04/30/world/europe/king-charles-visit-trump-messages.html"
+    "https://www.nytimes.com/2026/04/30/us/politics/house-homeland-security-funding-bill.html"
   ],
   [
-    "administration",
+    "attack",
     15,
-    "https://www.nytimes.com/2026/04/30/world/americas/mexico-rocha-indictment-sheinbaum.html"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "military",
+    "ice",
     15,
-    "https://www.nytimes.com/2026/04/30/world/europe/banksy-london-statue.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "released",
+    "democrats",
     15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/us-news/2026/apr/30/fisa-warrantless-spying-renewal-congress"
   ],
   [
-    "spring",
-    15,
-    "https://www.theguardian.com/wellness/2026/apr/30/what-is-lipedema"
-  ],
-  [
-    "means",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/30/trump-withdraws-nomination-casey-means"
-  ],
-  [
-    "voters",
+    "supreme",
     14,
     "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
   ],
   [
-    "pressure",
+    "rights",
     14,
-    "https://www.nytimes.com/2026/04/30/us/elections/states-redistricting-voting-rights.html"
+    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
   ],
   [
-    "republicans",
-    14,
-    "https://www.nytimes.com/2026/04/30/us/elections/states-redistricting-voting-rights.html"
-  ],
-  [
-    "democratic",
+    "bill",
     14,
     "https://www.nytimes.com/2026/04/30/us/politics/house-homeland-security-funding-bill.html"
   ],
   [
-    "correspondents",
+    "camp",
     14,
-    "https://www.washingtonpost.com/investigations/2026/04/29/white-house-correspondents-dinner-video-new/"
+    "https://www.washingtonpost.com/nation/2026/04/30/camp-mystic-license-reopen/"
   ],
   [
-    "attack",
+    "enough",
     14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.theguardian.com/lifeandstyle/2026/may/01/when-i-watched-the-girls-loving-this-man-i-felt-sick-the-woman-who-exposed-a-polygamous-paedophile"
   ],
   [
     "power",
     14,
-    "https://www.theguardian.com/film/2026/apr/30/michael-jackson-movie-fans"
+    "https://www.theguardian.com/commentisfree/2026/may/01/king-charles-us-visit"
   ],
   [
-    "media",
+    "far",
     14,
-    "https://www.theguardian.com/music/2026/apr/30/i-did-receive-bottles-on-stage-there-might-have-been-urine-melanie-c-on-spice-girls-mania-impostor-syndrome-and-her-date-with-a-chili-pepper"
+    "https://www.theguardian.com/us-news/2026/apr/30/pete-hegseth-iran-war-hearing"
   ],
   [
-    "room",
+    "case",
     14,
-    "https://www.theguardian.com/world/2026/may/01/south-korea-debates-what-to-call-north-korea"
+    "https://www.theguardian.com/us-news/2026/apr/30/organizing-next-steps-voting-rights-act-supreme-court"
   ],
   [
     "guide",
@@ -296,34 +241,54 @@
     "https://www.theguardian.com/thefilter-us/2026/apr/30/best-mothers-day-gifts"
   ],
   [
-    "plans",
-    13,
-    "https://www.nytimes.com/2026/04/30/us/politics/trumps-hegseth-weapons-production.html"
-  ],
-  [
     "hegseth",
     13,
     "https://www.nytimes.com/2026/04/30/us/politics/hegseth-iran-cease-fire-congress.html"
   ],
   [
-    "congressional",
+    "voting",
     13,
-    "https://www.nytimes.com/2026/04/30/us/politics/hegseth-iran-cease-fire-congress.html"
+    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
   ],
   [
-    "louisiana",
+    "act",
     13,
     "https://www.nytimes.com/video/us/100000010870969/how-conservatives-on-the-supreme-court-weakened-the-voting-rights-act.html"
   ],
   [
-    "shutdown",
+    "latest",
+    13,
+    "https://www.nytimes.com/video/us/100000010870969/how-conservatives-on-the-supreme-court-weakened-the-voting-rights-act.html"
+  ],
+  [
+    "decision",
+    13,
+    "https://www.nytimes.com/2026/04/30/upshot/gerrymanders-redistricting-democrats-republicans.html"
+  ],
+  [
+    "republicans",
+    13,
+    "https://www.nytimes.com/2026/04/30/us/elections/states-redistricting-voting-rights.html"
+  ],
+  [
+    "democratic",
     13,
     "https://www.nytimes.com/2026/04/30/us/politics/house-homeland-security-funding-bill.html"
   ],
   [
-    "died",
+    "americans",
     13,
-    "https://www.nytimes.com/2026/04/30/world/africa/nigeria-fulani-camp-amnesty.html"
+    "https://www.nytimes.com/2026/04/30/world/europe/king-charles-visit-trump-messages.html"
+  ],
+  [
+    "military",
+    13,
+    "https://www.nytimes.com/2026/04/30/world/europe/banksy-london-statue.html"
+  ],
+  [
+    "department",
+    13,
+    "https://www.nytimes.com/2026/04/30/us/california-ticket-driverless-car-violations.html"
   ],
   [
     "texas",
@@ -331,34 +296,19 @@
     "https://www.washingtonpost.com/nation/2026/04/30/camp-mystic-license-reopen/"
   ],
   [
-    "weekend",
+    "living",
     13,
-    "https://www.theguardian.com/film/2026/apr/30/michael-jackson-movie-fans"
+    "https://www.theguardian.com/commentisfree/2026/may/01/king-charles-us-visit"
   ],
   [
-    "culture",
-    13,
-    "https://www.theguardian.com/film/2026/apr/30/michael-jackson-movie-fans"
-  ],
-  [
-    "enough",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/apr/30/trump-white-house-ballroom-bunker"
-  ],
-  [
-    "email",
+    "breaking",
     13,
     "https://www.theguardian.com/us-news/2026/apr/30/pete-hegseth-iran-war-hearing"
   ],
   [
-    "far",
+    "media",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/30/pete-hegseth-iran-war-hearing"
-  ],
-  [
-    "prices",
-    13,
-    "https://www.theguardian.com/us-news/2026/apr/30/pete-hegseth-iran-war-hearing"
+    "https://www.theguardian.com/us-news/2026/apr/30/video-white-house-dinner-shooting"
   ],
   [
     "cbs",
@@ -366,13 +316,63 @@
     "https://www.theguardian.com/media/2026/apr/30/60-minutes-sharyn-alfonsi-cbs-news"
   ],
   [
-    "running",
+    "culture",
     13,
-    "https://www.theguardian.com/us-news/2026/apr/30/hollywood-church-of-scientology-speed-runs"
+    "https://www.theguardian.com/tv-and-radio/2026/may/01/donald-trump-jr-the-apprentice-reboot-amazon"
   ],
   [
-    "democrats",
+    "fashion",
     13,
-    "https://www.theguardian.com/environment/2026/apr/30/epa-budget-cut-proposal"
+    "https://www.theguardian.com/film/2026/may/01/the-devil-wears-prada-2-romcom-reporter-heroine"
+  ],
+  [
+    "film",
+    13,
+    "https://www.theguardian.com/film/2026/may/01/mother-mary-film-pop-stardom-hollywood"
+  ],
+  [
+    "body",
+    13,
+    "https://www.theguardian.com/football/2026/apr/30/israel-fa-delegate-snubbed-by-palestinian-counterpart-at-fifa-congress"
+  ],
+  [
+    "weekly",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/apr/30/best-mothers-day-gifts"
+  ],
+  [
+    "spring",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/apr/24/5-tips-to-sell-your-clothes-online"
+  ],
+  [
+    "instant",
+    13,
+    "https://www.theguardian.com/thefilter-us/2025/sep/30/best-instant-coffees"
+  ],
+  [
+    "gop",
+    13,
+    "https://www.foxnews.com/politics/vance-cruz-head-iowa-2026-missions-2028-gop-race-succeed-trump-heats"
+  ],
+  [
+    "plans",
+    12,
+    "https://www.nytimes.com/2026/04/30/us/politics/trumps-hegseth-weapons-production.html"
+  ],
+  [
+    "defense",
+    12,
+    "https://www.nytimes.com/2026/04/30/us/politics/trumps-hegseth-weapons-production.html"
+  ],
+  [
+    "oil",
+    12,
+    "https://www.nytimes.com/2026/05/01/business/economy/iran-war-oil-profits-tax.html"
+  ],
+  [
+    "ruling",
+    12,
+    "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
   ]
 ];
