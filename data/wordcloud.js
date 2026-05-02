@@ -2,138 +2,123 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    104,
-    "https://www.nytimes.com/2026/05/01/us/politics/trump-war-powers-republicans.html"
+    102,
+    "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html"
   ],
   [
     "race",
-    71,
-    "https://www.theguardian.com/us-news/2026/may/01/supreme-court-race-voting-rights-act"
+    73,
+    "https://www.nytimes.com/2026/05/01/sports/running-shoe-history-adidas-sneakers-london-marathon.html"
+  ],
+  [
+    "court",
+    64,
+    "https://www.nytimes.com/2026/05/01/well/abortion-drugs-mail-order.html"
   ],
   [
     "guide",
-    60,
+    59,
     "https://www.theguardian.com/thefilter-us/2026/may/01/best-graduation-gifts-ideas"
   ],
   [
     "iran",
-    50,
-    "https://www.nytimes.com/2026/05/01/us/politics/trump-war-powers-republicans.html"
-  ],
-  [
-    "california",
-    48,
-    "https://www.theguardian.com/us-news/2026/may/01/trump-administration-republicans-voter-data-elections"
-  ],
-  [
-    "war",
-    45,
-    "https://www.nytimes.com/2026/05/01/us/politics/trump-war-powers-republicans.html"
-  ],
-  [
-    "district",
-    44,
-    "https://www.theguardian.com/us-news/2026/may/01/trump-administration-republicans-voter-data-elections"
-  ],
-  [
-    "court",
-    43,
-    "https://www.nytimes.com/2026/05/01/us/politics/louisiana-voters-lawsuit-election-primary.html"
+    47,
+    "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html"
   ],
   [
     "president",
+    46,
+    "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html"
+  ],
+  [
+    "california",
+    46,
+    "https://www.theguardian.com/culture/2026/may/01/gerry-conway-punisher-spider-man-comics"
+  ],
+  [
+    "district",
+    43,
+    "https://www.nytimes.com/video/us/politics/100000010867480/florida-redistricts-in-republicans-favor.html"
+  ],
+  [
+    "war",
     41,
-    "https://www.nytimes.com/2026/05/01/us/politics/trump-war-powers-republicans.html"
+    "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html"
   ],
   [
     "county",
-    32,
+    30,
     "https://www.theguardian.com/us-news/ng-interactive/2026/may/01/esther-cohen-poet-laureate"
   ],
   [
+    "supreme",
+    28,
+    "https://www.nytimes.com/2026/05/01/nyregion/yemenis-tps-judge-rules.html"
+  ],
+  [
     "game",
-    26,
+    28,
     "https://www.theguardian.com/football/2026/may/01/fifa-luxury-world-cup-hospitality-tickets-revenue-re-evaluation"
   ],
   [
-    "congress",
-    23,
-    "https://www.nytimes.com/2026/05/01/us/politics/trump-war-powers-republicans.html"
-  ],
-  [
-    "faces",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/may/01/antisemitism-racism-jews-britain"
-  ],
-  [
     "congressional",
-    22,
-    "https://www.nytimes.com/2026/05/01/us/politics/louisiana-voters-lawsuit-election-primary.html"
+    26,
+    "https://www.nytimes.com/2026/05/01/us/politics/trump-congress-authorization-iran-war.html"
   ],
   [
-    "political",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/may/01/may-day-protests-democrats-working-class"
+    "administration",
+    25,
+    "https://www.nytimes.com/2026/05/01/well/abortion-drugs-mail-order.html"
   ],
   [
-    "states",
+    "congress",
     21,
-    "https://www.nytimes.com/2026/05/01/climate/fema-disaster-aid-slowdowns.html"
+    "https://www.nytimes.com/2026/05/01/us/politics/trump-congress-authorization-iran-war.html"
   ],
   [
-    "primary",
+    "voting",
     21,
-    "https://www.nytimes.com/2026/05/01/us/politics/louisiana-voters-lawsuit-election-primary.html"
+    "https://www.nytimes.com/2026/05/01/us/elections/tennessee-congressional-map.html"
   ],
   [
     "election",
     21,
-    "https://www.nytimes.com/2026/05/01/us/elections/oregon-republican-primary-governor.html"
+    "https://www.nytimes.com/2026/05/01/us/georgia-house-special-election-david-scott.html"
   ],
   [
-    "administration",
+    "oil",
     20,
-    "https://www.nytimes.com/2026/05/01/magazine/kushner-witkoff-board-of-peace-iran.html"
+    "https://www.nytimes.com/2026/05/01/business/stocks-oil-prices-iran-war-april.html"
   ],
   [
-    "country",
+    "republican",
     20,
-    "https://www.nytimes.com/2026/05/01/world/middleeast/israel-emirates-iron-dome.html"
+    "https://www.nytimes.com/video/us/politics/100000010867480/florida-redistricts-in-republicans-favor.html"
   ],
   [
-    "supreme",
+    "political",
     20,
-    "https://www.nytimes.com/2026/05/01/us/politics/louisiana-voters-lawsuit-election-primary.html"
+    "https://www.theguardian.com/world/2026/may/01/pro-trump-scott-jennings-commentator-cnn-iran-war"
   ],
   [
-    "act",
+    "faces",
     20,
-    "https://www.nytimes.com/2026/05/01/briefing/the-voting-rights-act.html"
+    "https://www.theguardian.com/commentisfree/2026/may/01/antisemitism-racism-jews-britain"
   ],
   [
-    "york",
-    20,
-    "https://www.theguardian.com/sport/2026/may/01/the-worlds-most-expensive-losers-the-new-york-mets-are-very-rich-and-very-very-bad"
-  ],
-  [
-    "voting",
+    "germany",
     19,
-    "https://www.nytimes.com/2026/05/01/briefing/the-voting-rights-act.html"
+    "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html"
   ],
   [
-    "case",
+    "government",
     19,
-    "https://www.theguardian.com/us-news/2026/may/01/supreme-court-race-voting-rights-act"
+    "https://www.nytimes.com/2026/05/01/world/americas/cuba-may-day-international-workers-day.html"
   ],
   [
-    "place",
+    "attack",
     19,
-    "https://www.theguardian.com/sport/2026/may/01/the-worlds-most-expensive-losers-the-new-york-mets-are-very-rich-and-very-very-bad"
-  ],
-  [
-    "food",
-    19,
-    "https://www.theguardian.com/games/2026/apr/29/pushing-buttons-what-made-good-game-feel-pragmata-saros-vampire-crawler"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
     "incumbent",
@@ -141,29 +126,54 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
+    "decision",
+    18,
+    "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html"
+  ],
+  [
+    "abortion",
+    18,
+    "https://www.nytimes.com/2026/05/01/well/abortion-drugs-mail-order.html"
+  ],
+  [
+    "food",
+    18,
+    "https://www.nytimes.com/2026/05/01/well/abortion-drugs-mail-order.html"
+  ],
+  [
     "governor",
     18,
-    "https://www.nytimes.com/2026/05/01/world/americas/us-indictment-sinaloa-governor-cartels-drugs.html"
+    "https://www.nytimes.com/2026/05/01/us/politics/louisiana-voters-lawsuit-election-primary.html"
   ],
   [
-    "coffee",
+    "york",
     18,
-    "https://www.theguardian.com/thefilter-us/2025/sep/30/best-instant-coffees"
+    "https://www.theguardian.com/sport/2026/may/01/the-worlds-most-expensive-losers-the-new-york-mets-are-very-rich-and-very-very-bad"
   ],
   [
-    "proposal",
+    "troops",
     17,
-    "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html"
+    "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html"
   ],
   [
-    "school",
+    "spirit",
     17,
-    "https://www.theguardian.com/us-news/2026/may/01/may-day-strong-economic-protests"
+    "https://www.nytimes.com/2026/05/01/briefing/trump-iran-proposal-spirit-airlines.html"
   ],
   [
-    "video",
+    "access",
     17,
-    "https://www.theguardian.com/world/2026/may/01/video-attack-french-nun-jerusalem"
+    "https://www.nytimes.com/2026/05/01/well/abortion-drugs-mail-order.html"
+  ],
+  [
+    "primary",
+    17,
+    "https://www.nytimes.com/2026/05/01/us/politics/louisiana-voters-lawsuit-election-primary.html"
+  ],
+  [
+    "rights",
+    17,
+    "https://www.nytimes.com/2026/05/01/us/elections/tennessee-congressional-map.html"
   ],
   [
     "candidates",
@@ -171,24 +181,29 @@
     "https://www.theguardian.com/us-news/2026/may/01/california-democrats-republicans-governor"
   ],
   [
-    "cbs",
-    17,
-    "https://www.theguardian.com/media/2026/apr/30/60-minutes-sharyn-alfonsi-cbs-news"
+    "epstein",
+    16,
+    "https://www.nytimes.com/2026/05/01/us/bard-president-leon-botstein-jeffrey-epstein.html"
   ],
   [
-    "latest",
+    "act",
     16,
-    "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html"
+    "https://www.nytimes.com/2026/05/01/us/elections/tennessee-congressional-map.html"
   ],
   [
-    "rights",
+    "mother",
     16,
-    "https://www.nytimes.com/2026/05/01/briefing/the-voting-rights-act.html"
+    "https://www.nytimes.com/2026/04/30/world/asia/india-elections-bjp-ratna-debnath.html"
   ],
   [
-    "charged",
+    "country",
     16,
-    "https://www.theguardian.com/us-news/2026/may/01/washington-stabbing-high-school-tacoma"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "recent",
+    16,
+    "https://www.theguardian.com/world/2026/may/02/dark-era-trump-creating-new-approach-global-politics"
   ],
   [
     "council",
@@ -196,39 +211,29 @@
     "https://www.theguardian.com/us-news/ng-interactive/2026/may/01/esther-cohen-poet-laureate"
   ],
   [
-    "voters",
-    15,
-    "https://www.nytimes.com/2026/05/01/us/politics/louisiana-voters-lawsuit-election-primary.html"
+    "coffee",
+    16,
+    "https://www.theguardian.com/thefilter-us/2025/sep/30/best-instant-coffees"
   ],
   [
-    "republican",
+    "airlines",
     15,
-    "https://www.nytimes.com/2026/05/01/us/elections/oregon-republican-primary-governor.html"
+    "https://www.nytimes.com/2026/05/01/briefing/trump-iran-proposal-spirit-airlines.html"
   ],
   [
-    "team",
+    "record",
     15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/05/01/sports/running-shoe-history-adidas-sneakers-london-marathon.html"
+  ],
+  [
+    "place",
+    15,
+    "https://www.theguardian.com/sport/2026/may/01/the-worlds-most-expensive-losers-the-new-york-mets-are-very-rich-and-very-very-bad"
   ],
   [
     "west",
     15,
-    "https://www.theguardian.com/us-news/2026/may/01/trump-administration-republicans-voter-data-elections"
-  ],
-  [
-    "donald",
-    15,
-    "https://www.theguardian.com/world/2026/may/01/pakistan-backchannel-us-iran-deal-peace"
-  ],
-  [
-    "mother",
-    15,
-    "https://www.theguardian.com/us-news/2026/may/01/sea-otters-mother-adopts-orphaned-pup"
-  ],
-  [
-    "job",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/may/01/best-graduation-gifts-ideas"
+    "https://www.theguardian.com/world/2026/may/02/ukraine-war-briefing-russian-oil-hub-of-tuapse-hit-for-fourth-time-as-environmental-disaster-mounts"
   ],
   [
     "filter",
@@ -246,133 +251,128 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
+    "announced",
+    14,
+    "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html"
+  ],
+  [
+    "louisiana",
+    14,
+    "https://www.nytimes.com/2026/05/01/well/abortion-drugs-mail-order.html"
+  ],
+  [
+    "london",
+    14,
+    "https://www.nytimes.com/2026/05/01/sports/running-shoe-history-adidas-sneakers-london-marathon.html"
+  ],
+  [
+    "video",
+    14,
+    "https://www.nytimes.com/2026/05/01/us/politics/correspondents-dinner-gunman-attack-video.html"
+  ],
+  [
     "republicans",
     14,
-    "https://www.nytimes.com/2026/05/01/us/politics/trump-war-powers-republicans.html"
+    "https://www.nytimes.com/video/us/politics/100000010867480/florida-redistricts-in-republicans-favor.html"
   ],
   [
-    "health",
+    "summer",
     14,
-    "https://www.nytimes.com/2026/05/01/business/obamacare-enrollment-decline.html"
+    "https://www.washingtonpost.com/nation/2026/04/30/camp-mystic-license-reopen/"
   ],
   [
-    "department",
+    "died",
     14,
-    "https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html"
+    "https://www.washingtonpost.com/nation/2026/04/30/camp-mystic-license-reopen/"
   ],
   [
-    "government",
-    14,
-    "https://www.nytimes.com/2026/05/01/world/americas/us-indictment-sinaloa-governor-cartels-drugs.html"
-  ],
-  [
-    "legal",
-    14,
-    "https://www.nytimes.com/2026/05/01/us/politics/louisiana-voters-lawsuit-election-primary.html"
-  ],
-  [
-    "decision",
-    14,
-    "https://www.nytimes.com/2026/05/01/us/politics/louisiana-voters-lawsuit-election-primary.html"
-  ],
-  [
-    "democratic",
-    14,
-    "https://www.nytimes.com/2026/05/01/us/elections/oregon-republican-primary-governor.html"
-  ],
-  [
-    "company",
-    14,
-    "https://www.nytimes.com/2026/05/01/us/david-rivera-florida-verdict-trial.html"
-  ],
-  [
-    "fashion",
-    14,
-    "https://www.nytimes.com/2026/05/01/style/met-gala-money-finances.html"
-  ],
-  [
-    "night",
-    14,
-    "https://www.nytimes.com/2026/05/01/us/plane-crash-texas-deaths.html"
-  ],
-  [
-    "redistricting",
+    "case",
     14,
     "https://www.theguardian.com/us-news/2026/may/01/supreme-court-race-voting-rights-act"
   ],
   [
-    "security",
+    "police",
     14,
-    "https://www.theguardian.com/us-news/2026/may/01/trump-administration-republicans-voter-data-elections"
+    "https://www.theguardian.com/world/2026/may/02/ukraine-war-briefing-russian-oil-hub-of-tuapse-hit-for-fourth-time-as-environmental-disaster-mounts"
   ],
   [
-    "film",
+    "night",
     14,
-    "https://www.theguardian.com/film/2026/may/01/the-woman-who-loves-luxury-goods-2-why-the-devil-wears-prada-title-goes-back-to-basics-in-vietnam"
+    "https://www.theguardian.com/world/2026/may/01/pro-trump-scott-jennings-commentator-cnn-iran-war"
   ],
   [
-    "artemis",
+    "democrats",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/01/artemis-moon-mars"
+    "https://www.theguardian.com/us-news/2026/may/01/southern-poverty-law-doj-investigation"
   ],
   [
-    "replace",
+    "company",
     14,
-    "https://www.latimes.com/california/story/2024-08-09/california-governor-2026-candidates-newsom-atkins-kounalakis-thurmond-villaraigosa-yee"
+    "https://www.theguardian.com/business/2026/may/01/spirit-airlines-stops-operation-after-failed-deal"
   ],
   [
-    "americans",
+    "latest",
     13,
-    "https://www.nytimes.com/2026/05/01/business/obamacare-enrollment-decline.html"
+    "https://www.nytimes.com/2026/05/01/briefing/trump-iran-proposal-spirit-airlines.html"
   ],
   [
-    "oil",
+    "appeals",
     13,
-    "https://www.nytimes.com/2026/05/01/business/stocks-oil-prices-iran-war-april.html"
+    "https://www.nytimes.com/2026/05/01/well/abortion-drugs-mail-order.html"
   ],
   [
-    "american",
-    13,
-    "https://www.nytimes.com/2026/05/01/business/trump-scotch-whisky-tariffs.html"
-  ],
-  [
-    "louisiana",
+    "ruling",
     13,
     "https://www.nytimes.com/2026/05/01/us/politics/louisiana-voters-lawsuit-election-primary.html"
   ],
   [
-    "politics",
+    "states",
     13,
-    "https://www.nytimes.com/2026/05/01/us/politics/liberals-conservatives-data-centers.html"
+    "https://www.nytimes.com/2026/05/01/us/elections/tennessee-congressional-map.html"
   ],
   [
-    "pop",
+    "david",
     13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.nytimes.com/2026/05/01/us/georgia-house-special-election-david-scott.html"
   ],
   [
-    "running",
+    "american",
     13,
-    "https://www.theguardian.com/us-news/2026/may/01/trump-administration-republicans-voter-data-elections"
+    "https://www.nytimes.com/2026/05/01/world/americas/cuba-may-day-international-workers-day.html"
   ],
   [
-    "democrats",
+    "immigration",
     13,
-    "https://www.theguardian.com/us-news/2026/may/01/king-charles-trump-visit"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "family",
+    "operations",
     13,
-    "https://www.theguardian.com/news/2026/may/01/red-line-british-jews-question-safety-antisemitism"
+    "https://www.theguardian.com/us-news/2026/may/01/trump-threatens-withdraw-troops-italy-spain-strait-hormuz"
   ],
   [
-    "star",
+    "donald",
     13,
-    "https://www.theguardian.com/film/ng-interactive/2026/may/02/rebel-wilson-courtroom-makeover"
+    "https://www.theguardian.com/us-news/2026/may/01/trump-threatens-withdraw-troops-italy-spain-strait-hormuz"
   ],
   [
-    "working",
+    "department",
     13,
-    "https://www.theguardian.com/commentisfree/2026/may/01/may-day-protests-democrats-working-class"
+    "https://www.theguardian.com/us-news/2026/may/01/southern-poverty-law-doj-investigation"
+  ],
+  [
+    "late",
+    13,
+    "https://www.theguardian.com/us-news/2026/may/01/trump-tears-up-eu-tariff-deal-raises-import-duties-europe"
+  ],
+  [
+    "film",
+    13,
+    "https://www.theguardian.com/film/2026/may/01/the-woman-who-loves-luxury-goods-2-why-the-devil-wears-prada-title-goes-back-to-basics-in-vietnam"
+  ],
+  [
+    "instant",
+    13,
+    "https://www.theguardian.com/thefilter-us/2025/sep/30/best-instant-coffees"
   ]
 ];
