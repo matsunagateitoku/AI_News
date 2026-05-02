@@ -2,103 +2,113 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    86,
-    "https://www.nytimes.com/2026/05/02/us/politics/trump-republican-primaries-candidates.html"
+    84,
+    "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html"
   ],
   [
     "race",
-    77,
-    "https://www.theguardian.com/us-news/2026/may/02/steve-hilton-california-governor-race"
+    79,
+    "https://www.nytimes.com/2026/05/02/style/kentucky-derby-2026-hats.html"
   ],
   [
     "guide",
     61,
-    "https://www.theguardian.com/culture/2026/may/01/the-art-of-the-right-and-the-wrong-movie-cameo"
+    "https://www.theguardian.com/thefilter-us/2026/may/02/mothers-day-gifts-deals-sales"
   ],
   [
     "california",
-    48,
-    "https://www.theguardian.com/us-news/2026/may/02/steve-hilton-california-governor-race"
+    47,
+    "https://www.theguardian.com/us-news/2026/may/02/california-e-motorcycle-crash-involuntary-manslaughter"
   ],
   [
     "president",
     43,
-    "https://www.nytimes.com/2026/05/02/us/politics/trump-republican-primaries-candidates.html"
-  ],
-  [
-    "iran",
-    39,
-    "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html"
-  ],
-  [
-    "district",
-    38,
-    "https://www.theguardian.com/us-news/2026/may/01/louisiana-jeff-landry-election-suspension"
+    "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html"
   ],
   [
     "court",
-    36,
-    "https://www.theguardian.com/culture/ng-interactive/2026/may/02/infowars-onion-tim-heidecker"
+    39,
+    "https://www.nytimes.com/2026/05/02/us/politics/supreme-court-mail-abortion-pill.html"
   ],
   [
-    "war",
-    35,
-    "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html"
-  ],
-  [
-    "spirit",
-    32,
-    "https://www.nytimes.com/2026/05/02/business/spirit-airlines-shutdown.html"
+    "district",
+    39,
+    "https://www.theguardian.com/us-news/2026/may/01/louisiana-jeff-landry-election-suspension"
   ],
   [
     "game",
-    27,
+    33,
     "https://www.theguardian.com/lifeandstyle/2026/may/02/blind-date-josh-hannah"
   ],
   [
-    "county",
-    27,
-    "https://www.theguardian.com/music/2026/may/01/kneecap-fenian-review-first-album-since-dismissed-terror-charge-is-terrific-triumphant-yet-tortured"
-  ],
-  [
-    "airlines",
-    23,
+    "spirit",
+    30,
     "https://www.nytimes.com/2026/05/02/business/spirit-airlines-shutdown.html"
   ],
   [
-    "political",
-    22,
-    "https://www.nytimes.com/2026/05/02/us/politics/trump-republican-primaries-candidates.html"
+    "county",
+    30,
+    "https://www.theguardian.com/us-news/2026/may/02/california-e-motorcycle-crash-involuntary-manslaughter"
+  ],
+  [
+    "iran",
+    26,
+    "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html"
   ],
   [
     "administration",
-    22,
-    "https://www.nytimes.com/2026/05/02/magazine/tucker-carlson-interview-trump-iran.html"
+    24,
+    "https://www.nytimes.com/2026/05/02/us/politics/supreme-court-mail-abortion-pill.html"
   ],
   [
-    "congressional",
+    "war",
+    23,
+    "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html"
+  ],
+  [
+    "germany",
+    23,
+    "https://www.nytimes.com/2026/05/02/world/europe/us-troops-germany-trump.html"
+  ],
+  [
+    "airlines",
     22,
-    "https://www.theguardian.com/us-news/2026/may/01/georgia-ice-detention-death-cuban-immigrant"
+    "https://www.nytimes.com/2026/05/02/business/spirit-airlines-shutdown.html"
   ],
   [
     "election",
-    21,
+    22,
     "https://www.theguardian.com/culture/ng-interactive/2026/may/02/infowars-onion-tim-heidecker"
   ],
   [
     "government",
-    21,
+    22,
     "https://www.theguardian.com/us-news/2026/may/02/ice-contracter-torture-allegations-undocumented-children"
+  ],
+  [
+    "troops",
+    21,
+    "https://www.nytimes.com/2026/05/02/world/europe/us-troops-germany-trump.html"
   ],
   [
     "faces",
     21,
-    "https://www.theguardian.com/us-news/2026/may/02/houston-texas-immigrants-ice-health-extreme-weather"
+    "https://www.theguardian.com/us-news/2026/may/02/california-e-motorcycle-crash-involuntary-manslaughter"
   ],
   [
-    "republican",
+    "political",
     20,
     "https://www.nytimes.com/2026/05/02/us/politics/trump-republican-primaries-candidates.html"
+  ],
+  [
+    "congressional",
+    19,
+    "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html"
+  ],
+  [
+    "food",
+    19,
+    "https://www.nytimes.com/2026/05/02/us/politics/supreme-court-mail-abortion-pill.html"
   ],
   [
     "york",
@@ -106,19 +116,9 @@
     "https://www.nytimes.com/2026/05/02/us/politics/trump-garden-of-heroes-statues.html"
   ],
   [
-    "governor",
+    "american",
     19,
-    "https://www.nytimes.com/2026/05/02/world/americas/mexico-governor-corruption-ruben-rocha.html"
-  ],
-  [
-    "oil",
-    19,
-    "https://www.nytimes.com/2026/05/02/world/americas/maduro-trump-raid-venezuela-life.html"
-  ],
-  [
-    "ice",
-    19,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/05/02/world/europe/tampa-shipwreck-found-uk-us-coast-guard.html"
   ],
   [
     "incumbent",
@@ -126,29 +126,29 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "media",
+    "abortion",
     18,
-    "https://www.nytimes.com/2026/05/01/us/eric-swalwell-social-media.html"
+    "https://www.nytimes.com/2026/05/02/us/politics/supreme-court-mail-abortion-pill.html"
   ],
   [
-    "operations",
+    "democrats",
     18,
-    "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates"
+    "https://www.theguardian.com/us-news/2026/may/02/steve-hilton-california-governor-race"
   ],
   [
-    "troops",
+    "country",
     17,
-    "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html"
+    "https://www.nytimes.com/2026/05/02/world/europe/us-troops-germany-trump.html"
   ],
   [
-    "germany",
+    "latest",
     17,
-    "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "black",
+    "james",
     17,
-    "https://www.theguardian.com/world/2026/may/02/brazil-punk-scene-culture-injustice"
+    "https://www.theguardian.com/sport/2026/may/02/lebron-james-lakers-rockets-playoffs"
   ],
   [
     "primary",
@@ -156,9 +156,9 @@
     "https://www.theguardian.com/us-news/2026/may/02/steve-hilton-california-governor-race"
   ],
   [
-    "kentucky",
-    17,
-    "https://www.latimes.com/sports/story/2026-05-02/kentucky-derby-what-time-start-tv-channel-stream-horse-racing"
+    "republican",
+    16,
+    "https://www.nytimes.com/2026/05/02/us/politics/trump-republican-primaries-candidates.html"
   ],
   [
     "challengers",
@@ -166,34 +166,19 @@
     "https://www.nytimes.com/2026/05/02/us/politics/trump-republican-primaries-candidates.html"
   ],
   [
-    "democrats",
+    "million",
     16,
-    "https://www.nytimes.com/2026/05/02/opinion/kamala-harris-democratic-party.html"
+    "https://www.nytimes.com/2026/05/02/nyregion/second-home-tax-nyc.html"
   ],
   [
-    "sea",
+    "company",
     16,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "everything",
-    16,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.theguardian.com/us-news/2026/may/02/ice-contracter-torture-allegations-undocumented-children"
   ],
   [
     "mother",
     16,
-    "https://www.theguardian.com/us-news/2026/may/01/sea-otters-mother-adopts-orphaned-pup"
-  ],
-  [
-    "candidates",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/01/california-democrats-republicans-governor"
-  ],
-  [
-    "food",
-    16,
-    "https://www.theguardian.com/games/2026/apr/29/pushing-buttons-what-made-good-game-feel-pragmata-saros-vampire-crawler"
+    "https://www.theguardian.com/thefilter-us/2026/may/02/mothers-day-gifts-deals-sales"
   ],
   [
     "coffee",
@@ -201,74 +186,49 @@
     "https://www.theguardian.com/thefilter-us/2025/sep/30/best-instant-coffees"
   ],
   [
-    "country",
+    "access",
     15,
-    "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html"
+    "https://www.nytimes.com/2026/05/02/us/politics/supreme-court-mail-abortion-pill.html"
   ],
   [
-    "early",
+    "americans",
     15,
-    "https://www.nytimes.com/2026/05/01/travel/spirit-airlines-bankruptcy-tickets-refunds.html"
+    "https://www.nytimes.com/2026/05/02/us/politics/trump-garden-of-heroes-statues.html"
   ],
   [
-    "american",
+    "field",
     15,
-    "https://www.washingtonpost.com/nation/2026/05/02/rural-urban-divide-solution/"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "latest",
+    "community",
     15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/world/2026/may/02/brazil-punk-scene-culture-injustice"
   ],
   [
-    "star",
+    "donald",
     15,
-    "https://www.theguardian.com/sport/2026/may/02/lebron-james-lakers-rockets-playoffs"
+    "https://www.theguardian.com/world/2026/may/02/trump-us-navy-pirates-iran-blockade"
   ],
   [
-    "future",
+    "case",
     15,
-    "https://www.theguardian.com/sport/2026/may/02/lebron-james-lakers-rockets-playoffs"
+    "https://www.theguardian.com/us-news/2026/may/01/supreme-court-race-voting-rights-act"
   ],
   [
-    "company",
+    "replace",
     15,
-    "https://www.theguardian.com/us-news/2026/may/02/ice-contracter-torture-allegations-undocumented-children"
-  ],
-  [
-    "council",
-    15,
-    "https://www.theguardian.com/us-news/2026/apr/30/fema-letter-katrina-declaration"
+    "https://www.theguardian.com/film/2026/may/02/50-years-of-labor-union-documentaries"
   ],
   [
     "announced",
     14,
-    "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html"
+    "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html"
   ],
   [
-    "americans",
+    "health",
     14,
-    "https://www.nytimes.com/2026/05/02/us/politics/trump-garden-of-heroes-statues.html"
-  ],
-  [
-    "running",
-    14,
-    "https://www.nytimes.com/2026/05/01/nyregion/kennedy-lively-baldoni-smear-campaign.html"
-  ],
-  [
-    "leave",
-    14,
-    "https://www.nytimes.com/2026/05/01/us/politics/trump-jenna-norton-nih.html"
-  ],
-  [
-    "million",
-    14,
-    "https://www.nytimes.com/2026/05/02/nyregion/second-home-tax-nyc.html"
-  ],
-  [
-    "line",
-    14,
-    "https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html"
+    "https://www.nytimes.com/2026/05/02/us/abortion-pill-mifepristone-5th-circuit-court-ruling.html"
   ],
   [
     "senate",
@@ -276,69 +236,79 @@
     "https://www.washingtonpost.com/obituaries/2026/05/02/asal-sayas-dead-cancer/"
   ],
   [
-    "attack",
+    "everything",
     14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "start",
+    "star",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/sport/2026/may/02/lebron-james-lakers-rockets-playoffs"
   ],
   [
-    "community",
+    "fewer",
     14,
-    "https://www.theguardian.com/world/2026/may/02/brazil-punk-scene-culture-injustice"
-  ],
-  [
-    "act",
-    14,
-    "https://www.theguardian.com/news/2026/may/02/pressure-mounts-france-enslavement-reparatory-justice-framework"
-  ],
-  [
-    "west",
-    14,
-    "https://www.theguardian.com/world/2026/may/02/israeli-militants-attack-west-bank-schools-settler-violence"
-  ],
-  [
-    "book",
-    14,
-    "https://www.theguardian.com/books/2026/may/02/one-of-the-most-profound-encounters-of-my-life-could-existential-therapist-emmy-van-deurzen-change-the-way-you-think"
-  ],
-  [
-    "fashion",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/may/02/devil-wears-prada-2-fat-jokes-body-diversity"
-  ],
-  [
-    "supreme",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/01/supreme-court-race-voting-rights-act"
-  ],
-  [
-    "voting",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/01/louisiana-jeff-landry-election-suspension"
-  ],
-  [
-    "replace",
-    14,
-    "https://www.theguardian.com/film/2026/may/02/50-years-of-labor-union-documentaries"
+    "https://www.theguardian.com/world/ng-interactive/2026/may/02/what-happens-when-deaths-outnumber-births"
   ],
   [
     "filter",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/apr/30/best-mothers-day-gifts"
+    "https://www.theguardian.com/thefilter-us/2026/may/02/mothers-day-gifts-deals-sales"
   ],
   [
-    "buying",
+    "governor",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/apr/30/best-mothers-day-gifts"
+    "https://www.theguardian.com/us-news/2026/may/02/steve-hilton-california-governor-race"
   ],
   [
-    "feel",
+    "republicans",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/02/steve-hilton-california-governor-race"
+  ],
+  [
+    "tour",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/may/02/devil-wears-prada-2-fat-jokes-body-diversity"
+  ],
+  [
+    "council",
+    14,
+    "https://www.theguardian.com/us-news/2026/apr/30/fema-letter-katrina-declaration"
+  ],
+  [
+    "candidates",
+    14,
+    "https://www.latimes.com/california/story/2024-08-09/california-governor-2026-candidates-newsom-atkins-kounalakis-thurmond-villaraigosa-yee"
+  ],
+  [
+    "supreme",
     13,
-    "https://www.theguardian.com/world/2026/may/02/brazil-punk-scene-culture-injustice"
+    "https://www.nytimes.com/2026/05/02/us/politics/supreme-court-mail-abortion-pill.html"
+  ],
+  [
+    "ruling",
+    13,
+    "https://www.nytimes.com/2026/05/02/us/abortion-pill-mifepristone-5th-circuit-court-ruling.html"
+  ],
+  [
+    "kentucky",
+    13,
+    "https://www.nytimes.com/2026/05/02/style/kentucky-derby-2026-hats.html"
+  ],
+  [
+    "always",
+    13,
+    "https://www.nytimes.com/2026/05/02/us/san-francisco-buried-treasure-chest.html"
+  ],
+  [
+    "attack",
+    13,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "start",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "video",
@@ -351,14 +321,9 @@
     "https://www.theguardian.com/lifeandstyle/2026/may/02/rare-twins-different-dads-the-gift-bbc-radio-4"
   ],
   [
-    "donald",
+    "history",
     13,
-    "https://www.theguardian.com/world/2026/may/02/trump-us-navy-pirates-iran-blockade"
-  ],
-  [
-    "health",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/02/houston-texas-immigrants-ice-health-extreme-weather"
+    "https://www.theguardian.com/lifeandstyle/2026/may/02/rare-twins-different-dads-the-gift-bbc-radio-4"
   ],
   [
     "friends",
@@ -366,13 +331,48 @@
     "https://www.theguardian.com/world/2026/may/02/israeli-militants-attack-west-bank-schools-settler-violence"
   ],
   [
-    "night",
+    "operations",
     13,
-    "https://www.theguardian.com/books/2026/may/02/one-of-the-most-profound-encounters-of-my-life-could-existential-therapist-emmy-van-deurzen-change-the-way-you-think"
+    "https://www.theguardian.com/business/2026/may/01/spirit-airlines-stops-operation-after-failed-deal"
   ],
   [
-    "devil",
+    "buying",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/may/02/mothers-day-gifts-deals-sales"
+  ],
+  [
+    "fashion",
     13,
     "https://www.theguardian.com/commentisfree/2026/may/02/devil-wears-prada-2-fat-jokes-body-diversity"
+  ],
+  [
+    "book",
+    13,
+    "https://www.theguardian.com/culture/2026/may/01/gerry-conway-punisher-spider-man-comics"
+  ],
+  [
+    "israeli",
+    12,
+    "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html"
+  ],
+  [
+    "decision",
+    12,
+    "https://www.nytimes.com/2026/05/02/business/dealbook/cannabis-industry-trump.html"
+  ],
+  [
+    "early",
+    12,
+    "https://www.nytimes.com/2026/05/01/travel/spirit-airlines-bankruptcy-tickets-refunds.html"
+  ],
+  [
+    "album",
+    12,
+    "https://www.nytimes.com/2026/05/02/arts/music/ashley-mcbryde-wild.html"
+  ],
+  [
+    "died",
+    12,
+    "https://www.washingtonpost.com/nation/2026/04/30/camp-mystic-license-reopen/"
   ]
 ];

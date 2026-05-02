@@ -3,15 +3,9 @@
   "EVENT": [
     {
       "name": "The Iran War And Antisemitism",
-      "count": 8,
+      "count": 5,
       "url": "https://www.nytimes.com/2026/05/02/magazine/tucker-carlson-interview-trump-iran.html",
       "source": "NY Times"
-    },
-    {
-      "name": "The World Cup",
-      "count": 5,
-      "url": "https://www.theguardian.com/football/2026/may/01/fifa-luxury-world-cup-hospitality-tickets-revenue-re-evaluation",
-      "source": "The Guardian"
     },
     {
       "name": "Katrina",
@@ -20,10 +14,28 @@
       "source": "The Guardian"
     },
     {
-      "name": "The War Powers Act",
+      "name": "’S World Cup",
       "count": 2,
-      "url": "https://thehill.com/homenews/administration/5860318-congress-trump-iran-strikes/",
-      "source": "The Hill"
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The U.S.-Israeli War",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Kentucky Derby",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/05/02/style/kentucky-derby-2026-hats.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "World War I",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/05/02/world/europe/tampa-shipwreck-found-uk-us-coast-guard.html",
+      "source": "NY Times"
     },
     {
       "name": "The New World",
@@ -34,63 +46,119 @@
     {
       "name": "The Tokyo Dome",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/live/2026/may/02/naoya-inoue-v-junto-nakatani-fight-live-updates",
+      "url": "https://www.theguardian.com/sport/2026/may/02/naoya-inoue-junto-nakatani-tokyo-fight",
       "source": "The Guardian"
     },
     {
-      "name": "The Ukraine War",
+      "name": "The Madrid Open",
       "count": 1,
-      "url": "https://www.theguardian.com/world/2026/may/02/ukraine-war-briefing-russian-oil-hub-of-tuapse-hit-for-fourth-time-as-environmental-disaster-mounts",
+      "url": "https://www.theguardian.com/sport/2026/may/02/kostyuk-claims-biggest-win-of-career-with-victory-over-andreeva-to-take-madrid-open-tennis",
       "source": "The Guardian"
     },
     {
-      "name": "’S World Cup",
+      "name": "The Australian Open",
       "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
+      "url": "https://www.theguardian.com/sport/2026/may/02/kostyuk-claims-biggest-win-of-career-with-victory-over-andreeva-to-take-madrid-open-tennis",
+      "source": "The Guardian"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Target For Trump",
+      "count": 48,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Spirit Airlines",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/05/02/business/spirit-airlines-shutdown.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 13,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Olympics",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
+      "name": "Spirit Airlines'",
+      "count": 13,
+      "url": "https://www.cbsnews.com/news/spirit-airlines-final-flights-messages/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The White House",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/02/king-charles-visit-american-british",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Senate Armed Service",
+      "count": 12,
+      "url": "https://thehill.com/policy/defense/5860717-house-senate-armed-services-germany/",
+      "source": "The Hill"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/may/01/supreme-court-race-voting-rights-act",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Congress",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/apr/30/fema-letter-katrina-declaration",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The California Congressional District",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Annual Rescue Ball",
-      "count": 1,
-      "url": "https://www.foxnews.com/entertainment/karate-kid-ralph-macchios-secret-staying-grounded-ageless-hollywood",
-      "source": "Fox News"
+      "name": "The L.A. City Council",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
+      "source": "LA Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 29,
+      "count": 32,
       "url": "https://www.theguardian.com/world/2026/may/02/trump-us-navy-pirates-iran-blockade",
       "source": "The Guardian"
     },
     {
-      "name": "Meryl Streep",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/02/devil-wears-prada-2-fat-jokes-body-diversity",
+      "name": "Joe Biden",
+      "count": 6,
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/may/02/infowars-onion-tim-heidecker",
       "source": "The Guardian"
     },
     {
       "name": "Anne Hathaway",
-      "count": 7,
+      "count": 6,
       "url": "https://www.theguardian.com/commentisfree/2026/may/02/devil-wears-prada-2-fat-jokes-body-diversity",
       "source": "The Guardian"
     },
     {
-      "name": "Zohran Mamdani",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/05/02/upshot/mamdani-tax-the-rich.html",
-      "source": "NY Times"
+      "name": "Lebron James",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/may/02/lebron-james-lakers-rockets-playoffs",
+      "source": "The Guardian"
     },
     {
-      "name": "Joe Biden",
+      "name": "Friedrich Merz",
       "count": 5,
-      "url": "https://www.theguardian.com/culture/ng-interactive/2026/may/02/infowars-onion-tim-heidecker",
+      "url": "https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Meryl Streep",
+      "count": 5,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/02/devil-wears-prada-2-fat-jokes-body-diversity",
       "source": "The Guardian"
     },
     {
@@ -106,147 +174,79 @@
       "source": "CBS News"
     },
     {
+      "name": "Andy Barr",
+      "count": 5,
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-endorses-rep-andy-barr-kentucky-senate-primary-rcna343158",
+      "source": "NBC News"
+    },
+    {
       "name": "Alex Jones’S Infowars",
       "count": 4,
       "url": "https://www.theguardian.com/culture/ng-interactive/2026/may/02/infowars-onion-tim-heidecker",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michelle",
-      "count": 4,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/02/rare-twins-different-dads-the-gift-bbc-radio-4",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gavin Newsom",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/may/02/steve-hilton-california-governor-race",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Target For Trump",
-      "count": 46,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Spirit Airlines",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/05/02/business/spirit-airlines-shutdown.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Spirit Aviation Holdings",
-      "count": 14,
-      "url": "https://thehill.com/policy/transportation/5860484-spirit-airlines-closing-down-trump-bailout/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Kentucky Senate",
-      "count": 13,
-      "url": "https://www.politico.com/news/2026/05/01/trump-kentucky-senate-andy-barr-00903719",
-      "source": "Politico"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 12,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Congress",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/may/01/georgia-ice-detention-death-cuban-immigrant",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Immigration And Customs Enforcement ( Ice",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/may/01/georgia-ice-detention-death-cuban-immigrant",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The California Congressional District",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Gop",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "The White House",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/02/king-charles-visit-american-british",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 73,
+      "count": 82,
       "url": "https://www.theguardian.com/us-news/2026/may/02/ice-contracter-torture-allegations-undocumented-children",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 46,
-      "url": "https://www.theguardian.com/us-news/2026/may/02/steve-hilton-california-governor-race",
+      "count": 44,
+      "url": "https://www.theguardian.com/us-news/2026/may/02/california-e-motorcycle-crash-involuntary-manslaughter",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 33,
-      "url": "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 27,
-      "url": "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "From Germany",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/05/02/world/europe/us-troops-germany-trump.html",
       "source": "NY Times"
     },
     {
       "name": "L.A. County'S",
-      "count": 20,
+      "count": 19,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "From Germany",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Uk",
-      "count": 12,
+      "count": 11,
       "url": "https://www.theguardian.com/world/ng-interactive/2026/may/02/what-happens-when-deaths-outnumber-births",
       "source": "The Guardian"
     },
     {
-      "name": "Ukraine",
+      "name": "London",
       "count": 11,
-      "url": "https://www.theguardian.com/world/2026/may/02/ukraine-war-briefing-russian-oil-hub-of-tuapse-hit-for-fourth-time-as-environmental-disaster-mounts",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/02/what-happens-when-deaths-outnumber-births",
       "source": "The Guardian"
     },
     {
-      "name": "Kentucky",
-      "count": 11,
-      "url": "https://www.latimes.com/sports/story/2026-05-02/kentucky-derby-what-time-start-tv-channel-stream-horse-racing",
+      "name": "West Hollywood",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-05-01/west-hollywood-couple-baby-streamer-confrontation",
       "source": "LA Times"
     },
     {
-      "name": "West Hollywood",
-      "count": 11,
-      "url": "https://www.latimes.com/california/story/2026-05-01/west-hollywood-couple-baby-streamer-confrontation",
-      "source": "LA Times"
+      "name": "Israel",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-05-02T14:11:50Z"
+  "updated": "2026-05-02T19:56:00Z"
 };
