@@ -3,32 +3,26 @@
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 44,
+      "count": 50,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
       "name": "Spirit Airlines",
-      "count": 30,
-      "url": "https://www.nytimes.com/2026/05/02/business/spirit-airlines-passengers-stranded.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 16,
-      "url": "https://www.cbsnews.com/news/abortion-pill-mifepristone-access-appeals-court-blocks-mailing-prescriptions/",
-      "source": "CBS News"
+      "count": 18,
+      "url": "https://www.theguardian.com/business/2026/may/02/spirit-airlines-ceases-operations-blame",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
-      "count": 13,
+      "count": 12,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
-      "count": 13,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/02/king-charles-visit-american-british",
+      "name": "Ai",
+      "count": 11,
+      "url": "https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai",
       "source": "The Guardian"
     },
     {
@@ -38,16 +32,10 @@
       "source": "LA Times"
     },
     {
-      "name": "Guardian News",
+      "name": "Congress",
       "count": 9,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/03/racism-supreme-court-voting-right-act",
       "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
-      "source": "LA Times"
     },
     {
       "name": "The L.A. City Council",
@@ -56,10 +44,146 @@
       "source": "LA Times"
     },
     {
-      "name": "The Devil Wears Prada 2",
+      "name": "Guardian News",
       "count": 8,
-      "url": "https://www.theguardian.com/film/2026/may/02/the-devil-wears-prada-2-meryl-streep-finances-emily-blunt-anne-hathaway-stanley-tucci",
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 8,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "The White House",
+      "count": 8,
+      "url": "https://www.theguardian.com/fashion/2026/apr/29/frock-hard-place-why-the-furore-over-black-tie-dress",
+      "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 28,
+      "url": "https://www.theguardian.com/us-news/2026/may/03/pentagon-pete-hegseth-us-military",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cherie Devaux",
+      "count": 11,
+      "url": "https://www.theguardian.com/sport/2026/may/02/golden-tempo-kentucky-derby-cherie-devaux-first-woman-trainer-renegade-ocelli",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Golden Tempo",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/may/02/golden-tempo-kentucky-derby-cherie-devaux-first-woman-trainer-renegade-ocelli",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Aziz Ansari",
+      "count": 6,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/03/saturday-night-live-olivia-rodrigo-aziz-ansari",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kash Patel",
+      "count": 6,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/03/saturday-night-live-olivia-rodrigo-aziz-ansari",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Churchill Downs",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/may/02/golden-tempo-kentucky-derby-cherie-devaux-first-woman-trainer-renegade-ocelli",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Emmy Van Deurzen",
+      "count": 5,
+      "url": "https://www.theguardian.com/books/2026/may/02/one-of-the-most-profound-encounters-of-my-life-could-existential-therapist-emmy-van-deurzen-change-the-way-you-think",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Vadym Lietunov",
+      "count": 4,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/may/03/youre-not-one-of-us-are-you-how-a-ukrainian-soldier-survived-two-weeks-in-a-russian-dugout",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "count": 4,
+      "url": "https://www.theguardian.com/us-news/2026/may/03/epstein-ghislaine-maxwell-clemency",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Michelle",
+      "count": 4,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/02/rare-twins-different-dads-the-gift-bbc-radio-4",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 60,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/03/racism-supreme-court-voting-right-act",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 45,
+      "url": "https://www.nytimes.com/2026/05/03/us/politics/kamala-harris-california-governor-democrats.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 30,
+      "url": "https://www.nytimes.com/2026/05/03/us/politics/trump-unpopular-war-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/05/03/world/americas/mexico-sinaloa-corruption.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 19,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Kentucky",
+      "count": 15,
+      "url": "https://www.theguardian.com/sport/2026/may/02/golden-tempo-kentucky-derby-cherie-devaux-first-woman-trainer-renegade-ocelli",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/2026/may/03/nato-meets-tv-and-film-makers-causing-concerns-it-seeks-propaganda",
+      "source": "The Guardian"
+    },
+    {
+      "name": "London",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/05/03/us/jewish-antisemitism-violence-attacks.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Germany",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "West Hollywood",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-supervisor-district-3-horvath-arey-sidenfaden-minasova-voter-guide",
+      "source": "LA Times"
     }
   ],
   "EVENT": [
@@ -76,33 +200,21 @@
       "source": "LA Times"
     },
     {
-      "name": "’S World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The U.S.-Israeli War",
+      "name": "Operation Epic Fury",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran War     Sign",
-      "count": 1,
-      "url": "https://www.theguardian.com/business/2026/may/02/spirit-airlines-ceases-operations-blame",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The New World",
-      "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/02/king-charles-iii-washington-britain-bacon-us-save-itself",
+      "url": "https://www.theguardian.com/business/2026/may/03/trump-clean-energy-iran-war-global-shift-oil-gas",
       "source": "The Guardian"
     },
     {
       "name": "The Tokyo Dome",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/may/02/naoya-inoue-junto-nakatani-tokyo-fight",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Fa Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/may/02/iraola-and-glasner-middle-managers-or-big-club-bosses-in-waiting-its-hard-to-tell",
       "source": "The Guardian"
     },
     {
@@ -118,135 +230,23 @@
       "source": "The Guardian"
     },
     {
-      "name": "Rio Games",
+      "name": "Iran War     Sign",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/02/alex-zanardi-former-f1-driver-and-paralympic-champion-dies-at-59",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 31,
-      "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
+      "url": "https://www.theguardian.com/business/2026/may/02/spirit-airlines-ceases-operations-blame",
       "source": "The Guardian"
     },
     {
-      "name": "Cherie Devaux",
-      "count": 11,
-      "url": "https://www.theguardian.com/sport/2026/may/02/golden-tempo-kentucky-derby-cherie-devaux-first-woman-trainer-renegade-ocelli",
+      "name": "’S World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
       "source": "The Guardian"
     },
     {
-      "name": "Golden Tempo",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/may/02/golden-tempo-kentucky-derby-cherie-devaux-first-woman-trainer-renegade-ocelli",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Andy Barr",
-      "count": 6,
-      "url": "https://www.politico.com/news/2026/05/01/trump-kentucky-senate-andy-barr-00903719",
-      "source": "Politico"
-    },
-    {
-      "name": "Churchill Downs",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/05/02/style/kentucky-derby-2026-hats.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Gavin Newsom",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/may/02/steve-hilton-california-governor-race",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Meryl Streep",
-      "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/02/devil-wears-prada-2-fat-jokes-body-diversity",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Anne Hathaway",
-      "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/02/devil-wears-prada-2-fat-jokes-body-diversity",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Emmy Van Deurzen",
-      "count": 5,
-      "url": "https://www.theguardian.com/books/2026/may/02/one-of-the-most-profound-encounters-of-my-life-could-existential-therapist-emmy-van-deurzen-change-the-way-you-think",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Esther Cohen",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/01/esther-cohen-poet-laureate",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 70,
-      "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 44,
-      "url": "https://www.theguardian.com/society/ng-interactive/2026/may/02/dissociation-confusion-and-the-downward-spiral-welcome-to-anxietyland",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 43,
-      "url": "https://www.nytimes.com/2026/05/02/us/politics/trump-says-he-is-reviewing-irans-latest-offer-but-doubts-it-is-acceptable.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Kentucky",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/05/02/style/kentucky-derby-2026-hats.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "From Germany",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/05/02/world/europe/us-troops-germany-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 17,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "name": "The Hollywood Bowl",
+      "count": 1,
+      "url": "https://www.latimes.com/delos/story/2026-04-28/marcello-hernandez-interview-netflix-is-a-joke-fest-feid-hollywood-bowl",
       "source": "LA Times"
-    },
-    {
-      "name": "Uk",
-      "count": 12,
-      "url": "https://www.theguardian.com/society/ng-interactive/2026/may/02/dissociation-confusion-and-the-downward-spiral-welcome-to-anxietyland",
-      "source": "The Guardian"
-    },
-    {
-      "name": "London",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/may/03/nato-meets-tv-and-film-makers-causing-concerns-it-seeks-propaganda",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Louisiana",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/2026/may/02/abortion-pill-emergency-appeal-supreme-court",
-      "source": "The Guardian"
     }
   ],
-  "updated": "2026-05-03T08:50:23Z"
+  "updated": "2026-05-03T14:12:46Z"
 };
