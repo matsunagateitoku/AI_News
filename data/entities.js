@@ -3,7 +3,7 @@
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 46,
+      "count": 44,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
@@ -15,15 +15,9 @@
     },
     {
       "name": "The Supreme Court",
-      "count": 19,
-      "url": "https://www.theguardian.com/us-news/2026/may/01/supreme-court-race-voting-rights-act",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 14,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/02/king-charles-visit-american-british",
-      "source": "The Guardian"
+      "count": 16,
+      "url": "https://www.cbsnews.com/news/abortion-pill-mifepristone-access-appeals-court-blocks-mailing-prescriptions/",
+      "source": "CBS News"
     },
     {
       "name": "The Filter Us",
@@ -32,10 +26,22 @@
       "source": "The Guardian"
     },
     {
+      "name": "The White House",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/02/king-charles-visit-american-british",
+      "source": "The Guardian"
+    },
+    {
       "name": "The California Congressional District",
       "count": 10,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "Guardian News",
+      "count": 9,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
     },
     {
       "name": "Gop",
@@ -50,84 +56,78 @@
       "source": "LA Times"
     },
     {
-      "name": "Fox News",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/may/02/steve-hilton-california-governor-race",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Devil Wears Prada 2",
       "count": 8,
       "url": "https://www.theguardian.com/film/2026/may/02/the-devil-wears-prada-2-meryl-streep-finances-emily-blunt-anne-hathaway-stanley-tucci",
       "source": "The Guardian"
     }
   ],
-  "GPE": [
+  "EVENT": [
     {
-      "name": "Us",
-      "count": 76,
-      "url": "https://www.theguardian.com/business/2026/may/02/spirit-airlines-ceases-operations-blame",
+      "name": "The Iran War",
+      "count": 3,
+      "url": "https://www.latimes.com/california/story/2026-05-01/la-may-day-rallies-protest-immigration-sweeps-cost-of-living",
+      "source": "LA Times"
+    },
+    {
+      "name": "Olympics",
+      "count": 3,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "’S World Cup",
+      "count": 2,
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
       "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 45,
-      "url": "https://www.theguardian.com/us-news/2026/may/02/california-e-motorcycle-crash-involuntary-manslaughter",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 43,
-      "url": "https://www.nytimes.com/2026/05/02/us/politics/trump-says-he-is-reviewing-irans-latest-offer-but-doubts-it-is-acceptable.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 26,
+      "name": "The U.S.-Israeli War",
+      "count": 1,
       "url": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
       "source": "NY Times"
     },
     {
-      "name": "From Germany",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/05/02/world/europe/us-troops-germany-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Kentucky",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/05/02/style/kentucky-derby-2026-hats.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 16,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "London",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/02/what-happens-when-deaths-outnumber-births",
+      "name": "Iran War     Sign",
+      "count": 1,
+      "url": "https://www.theguardian.com/business/2026/may/02/spirit-airlines-ceases-operations-blame",
       "source": "The Guardian"
     },
     {
-      "name": "The United States",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/05/02/us/abortion-pill-mifepristone-5th-circuit-court-ruling.html",
-      "source": "NY Times"
+      "name": "The New World",
+      "count": 1,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/02/king-charles-iii-washington-britain-bacon-us-save-itself",
+      "source": "The Guardian"
     },
     {
-      "name": "Uk",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/02/what-happens-when-deaths-outnumber-births",
+      "name": "The Tokyo Dome",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/02/naoya-inoue-junto-nakatani-tokyo-fight",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Madrid Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/02/kostyuk-claims-biggest-win-of-career-with-victory-over-andreeva-to-take-madrid-open-tennis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Australian Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/02/kostyuk-claims-biggest-win-of-career-with-victory-over-andreeva-to-take-madrid-open-tennis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Rio Games",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/02/alex-zanardi-former-f1-driver-and-paralympic-champion-dies-at-59",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 32,
+      "count": 31,
       "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
       "source": "The Guardian"
     },
@@ -186,67 +186,67 @@
       "source": "The Guardian"
     }
   ],
-  "EVENT": [
+  "GPE": [
     {
-      "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.latimes.com/california/story/2026-05-01/la-may-day-rallies-protest-immigration-sweeps-cost-of-living",
-      "source": "LA Times"
-    },
-    {
-      "name": "’S World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
+      "name": "Us",
+      "count": 70,
+      "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
       "source": "The Guardian"
     },
     {
-      "name": "The U.S.-Israeli War",
-      "count": 1,
+      "name": "California",
+      "count": 44,
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/may/02/dissociation-confusion-and-the-downward-spiral-welcome-to-anxietyland",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 43,
+      "url": "https://www.nytimes.com/2026/05/02/us/politics/trump-says-he-is-reviewing-irans-latest-offer-but-doubts-it-is-acceptable.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 24,
       "url": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
       "source": "NY Times"
     },
     {
-      "name": "Iran War     Sign",
-      "count": 1,
-      "url": "https://www.theguardian.com/business/2026/may/02/spirit-airlines-ceases-operations-blame",
-      "source": "The Guardian"
+      "name": "Kentucky",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/05/02/style/kentucky-derby-2026-hats.html",
+      "source": "NY Times"
     },
     {
-      "name": "The New World",
-      "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/02/king-charles-iii-washington-britain-bacon-us-save-itself",
-      "source": "The Guardian"
+      "name": "From Germany",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/05/02/world/europe/us-troops-germany-trump.html",
+      "source": "NY Times"
     },
     {
-      "name": "The Tokyo Dome",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/02/naoya-inoue-junto-nakatani-tokyo-fight",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Madrid Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/02/kostyuk-claims-biggest-win-of-career-with-victory-over-andreeva-to-take-madrid-open-tennis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Australian Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/02/kostyuk-claims-biggest-win-of-career-with-victory-over-andreeva-to-take-madrid-open-tennis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Rio Games",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/02/alex-zanardi-former-f1-driver-and-paralympic-champion-dies-at-59",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Game 6",
-      "count": 1,
-      "url": "https://www.latimes.com/sports/lakers/story/2026-05-02/los-angeles-lakers-houston-rockets-game-6-lebron-james-plaschke",
+      "name": "L.A. County'S",
+      "count": 17,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "Uk",
+      "count": 12,
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/may/02/dissociation-confusion-and-the-downward-spiral-welcome-to-anxietyland",
+      "source": "The Guardian"
+    },
+    {
+      "name": "London",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/2026/may/03/nato-meets-tv-and-film-makers-causing-concerns-it-seeks-propaganda",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Louisiana",
+      "count": 9,
+      "url": "https://www.theguardian.com/world/2026/may/02/abortion-pill-emergency-appeal-supreme-court",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-05-03T04:42:47Z"
+  "updated": "2026-05-03T08:50:23Z"
 };
