@@ -3,26 +3,44 @@
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 50,
+      "count": 43,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
       "name": "Spirit Airlines",
-      "count": 18,
-      "url": "https://www.theguardian.com/business/2026/may/02/spirit-airlines-ceases-operations-blame",
-      "source": "The Guardian"
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/05/03/business/spirit-airlines-shutdown-fares-industry-impact.html",
+      "source": "NY Times"
     },
     {
       "name": "The Filter Us",
-      "count": 12,
+      "count": 14,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
       "name": "Ai",
+      "count": 12,
+      "url": "https://www.theguardian.com/artanddesign/2026/may/03/unnamed-holbein-portrait-anne-boleyn-ai-analysis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fbi",
       "count": 11,
-      "url": "https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai",
+      "url": "https://www.theguardian.com/us-news/2026/may/03/james-comey-indictment-instagram-post-seashells",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Congress",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/may/03/kaela-berg-running-minnesota-congress-democrat",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian News",
+      "count": 10,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
@@ -32,158 +50,16 @@
       "source": "LA Times"
     },
     {
-      "name": "Congress",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/03/racism-supreme-court-voting-right-act",
-      "source": "The Guardian"
-    },
-    {
       "name": "The L.A. City Council",
       "count": 9,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Guardian News",
-      "count": 8,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 8,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "The White House",
-      "count": 8,
-      "url": "https://www.theguardian.com/fashion/2026/apr/29/frock-hard-place-why-the-furore-over-black-tie-dress",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 28,
-      "url": "https://www.theguardian.com/us-news/2026/may/03/pentagon-pete-hegseth-us-military",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cherie Devaux",
-      "count": 11,
-      "url": "https://www.theguardian.com/sport/2026/may/02/golden-tempo-kentucky-derby-cherie-devaux-first-woman-trainer-renegade-ocelli",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Golden Tempo",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/may/02/golden-tempo-kentucky-derby-cherie-devaux-first-woman-trainer-renegade-ocelli",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Aziz Ansari",
-      "count": 6,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/03/saturday-night-live-olivia-rodrigo-aziz-ansari",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kash Patel",
-      "count": 6,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/03/saturday-night-live-olivia-rodrigo-aziz-ansari",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Churchill Downs",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/may/02/golden-tempo-kentucky-derby-cherie-devaux-first-woman-trainer-renegade-ocelli",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Emmy Van Deurzen",
-      "count": 5,
-      "url": "https://www.theguardian.com/books/2026/may/02/one-of-the-most-profound-encounters-of-my-life-could-existential-therapist-emmy-van-deurzen-change-the-way-you-think",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vadym Lietunov",
-      "count": 4,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/may/03/youre-not-one-of-us-are-you-how-a-ukrainian-soldier-survived-two-weeks-in-a-russian-dugout",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jeffrey Epstein",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/may/03/epstein-ghislaine-maxwell-clemency",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michelle",
-      "count": 4,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/02/rare-twins-different-dads-the-gift-bbc-radio-4",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 60,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/03/racism-supreme-court-voting-right-act",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 45,
-      "url": "https://www.nytimes.com/2026/05/03/us/politics/kamala-harris-california-governor-democrats.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 30,
-      "url": "https://www.nytimes.com/2026/05/03/us/politics/trump-unpopular-war-iran.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/05/03/world/americas/mexico-sinaloa-corruption.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 19,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Kentucky",
-      "count": 15,
-      "url": "https://www.theguardian.com/sport/2026/may/02/golden-tempo-kentucky-derby-cherie-devaux-first-woman-trainer-renegade-ocelli",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/2026/may/03/nato-meets-tv-and-film-makers-causing-concerns-it-seeks-propaganda",
-      "source": "The Guardian"
-    },
-    {
-      "name": "London",
+      "name": "White House National Economic Council",
       "count": 9,
-      "url": "https://www.nytimes.com/2026/05/03/us/jewish-antisemitism-violence-attacks.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Germany",
-      "count": 9,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "West Hollywood",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-supervisor-district-3-horvath-arey-sidenfaden-minasova-voter-guide",
-      "source": "LA Times"
+      "url": "https://www.cbsnews.com/news/kevin-hassett-national-economic-council-face-the-nation-transcript-05-03-2026/",
+      "source": "CBS News"
     }
   ],
   "EVENT": [
@@ -200,9 +76,27 @@
       "source": "LA Times"
     },
     {
+      "name": "The Iran War'S",
+      "count": 2,
+      "url": "https://www.cbsnews.com/video/chevron-ceo-says-its-very-hard-to-predict-the-iran-wars-lasting-impact-on-energy-prices/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Mother’S Day",
+      "count": 1,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/01/a-perfect-pan-on-sale-plus-famous-grandmas-suggest-mothers-day-gifts",
+      "source": "The Guardian"
+    },
+    {
       "name": "Operation Epic Fury",
       "count": 1,
       "url": "https://www.theguardian.com/business/2026/may/03/trump-clean-energy-iran-war-global-shift-oil-gas",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Madrid Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/03/jannik-sinner-makes-history-with-victory-in-madrid-open-against-zverev",
       "source": "The Guardian"
     },
     {
@@ -212,27 +106,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Fa Cup",
+      "name": "Venice Biennale",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/may/02/iraola-and-glasner-middle-managers-or-big-club-bosses-in-waiting-its-hard-to-tell",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Madrid Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/02/kostyuk-claims-biggest-win-of-career-with-victory-over-andreeva-to-take-madrid-open-tennis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Australian Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/02/kostyuk-claims-biggest-win-of-career-with-victory-over-andreeva-to-take-madrid-open-tennis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran War     Sign",
-      "count": 1,
-      "url": "https://www.theguardian.com/business/2026/may/02/spirit-airlines-ceases-operations-blame",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/may/04/fiona-pardington-lost-birds-aotearoa-new-zealand-in-pictures",
       "source": "The Guardian"
     },
     {
@@ -242,11 +118,135 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Hollywood Bowl",
+      "name": "The Beachlife Festival",
       "count": 1,
-      "url": "https://www.latimes.com/delos/story/2026-04-28/marcello-hernandez-interview-netflix-is-a-joke-fest-feid-hollywood-bowl",
+      "url": "https://www.latimes.com/california/story/2026-05-03/redondo-beach-pier-evacuated-due-to-police-activity",
       "source": "LA Times"
     }
   ],
-  "updated": "2026-05-03T14:12:46Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 57,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/03/christofascism-rfk-jr-health",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 50,
+      "url": "https://www.nytimes.com/2026/05/03/us/politics/kamala-harris-california-governor-democrats.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/05/03/us/politics/trump-unpopular-war-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/05/03/us/politics/us-army-missing-service-members-morocco-african-lion.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 17,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Washington Dc",
+      "count": 9,
+      "url": "https://www.theguardian.com/science/2026/may/03/nasa-budget-science-trump-isaacman",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City",
+      "count": 9,
+      "url": "https://www.theguardian.com/film/2026/may/01/american-agitators-documentary-fred-ross-sr",
+      "source": "The Guardian"
+    },
+    {
+      "name": "West Hollywood",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-supervisor-district-3-horvath-arey-sidenfaden-minasova-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "China",
+      "count": 8,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Arizona",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/may/03/colorado-river-water-plan-california-arizona-nevada",
+      "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 14,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/03/young-americans-trump-elections",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Margaret Brennan",
+      "count": 14,
+      "url": "https://www.cbsnews.com/video/chevron-ceo-says-its-very-hard-to-predict-the-iran-wars-lasting-impact-on-energy-prices/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Accused Trump",
+      "count": 12,
+      "url": "https://www.foxnews.com/politics/latest-trump-assassination-attempt-exposes-educated-assassins-moral-crisis-university-president-says",
+      "source": "Fox News"
+    },
+    {
+      "name": "James Comey",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/may/03/james-comey-indictment-instagram-post-seashells",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Raphael Warnock",
+      "count": 9,
+      "url": "https://www.cbsnews.com/news/raphael-warnock-georgia-democrat-face-the-nation-transcript-05-03-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Kevin Hassett",
+      "count": 9,
+      "url": "https://www.cbsnews.com/news/kevin-hassett-national-economic-council-face-the-nation-transcript-05-03-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Todd Blanche",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/may/03/james-comey-indictment-instagram-post-seashells",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cherie Devaux",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/may/02/golden-tempo-kentucky-derby-cherie-devaux-first-woman-trainer-renegade-ocelli",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kash Patel",
+      "count": 7,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/03/saturday-night-live-olivia-rodrigo-aziz-ansari",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jason Crow",
+      "count": 7,
+      "url": "https://www.cbsnews.com/news/jason-crow-iran-off-ramps-house-armed-services-committee/",
+      "source": "CBS News"
+    }
+  ],
+  "updated": "2026-05-03T19:55:46Z"
 };

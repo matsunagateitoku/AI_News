@@ -2,8 +2,8 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    86,
-    "https://www.nytimes.com/2026/05/03/us/politics/trump-unpopular-war-iran.html"
+    73,
+    "https://www.nytimes.com/2026/05/03/science/ibogaine-psychedelics-rogan-trump.html"
   ],
   [
     "race",
@@ -12,93 +12,103 @@
   ],
   [
     "guide",
-    60,
-    "https://www.theguardian.com/culture/2026/may/01/the-art-of-the-right-and-the-wrong-movie-cameo"
+    59,
+    "https://www.theguardian.com/thefilter-us/2026/may/03/devil-wears-prada-fashion-designer-resale"
   ],
   [
     "california",
-    50,
+    57,
     "https://www.nytimes.com/2026/05/03/us/politics/kamala-harris-california-governor-democrats.html"
   ],
   [
-    "president",
-    42,
+    "iran",
+    38,
     "https://www.nytimes.com/2026/05/03/us/politics/trump-unpopular-war-iran.html"
   ],
   [
-    "game",
-    36,
-    "https://www.theguardian.com/lifeandstyle/2026/may/03/elderly-mother-addicted-gaming-shut-off-emotionally-annalisa-barbieri"
-  ],
-  [
     "district",
-    36,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide"
+    38,
+    "https://www.theguardian.com/us-news/2026/may/03/white-house-press-dinner-shooting-jeanine-pirro"
   ],
   [
-    "iran",
-    34,
+    "president",
+    35,
     "https://www.nytimes.com/2026/05/03/us/politics/trump-unpopular-war-iran.html"
   ],
   [
     "war",
-    28,
+    33,
     "https://www.nytimes.com/2026/05/03/us/politics/trump-unpopular-war-iran.html"
   ],
   [
-    "kentucky",
-    25,
-    "https://www.theguardian.com/sport/2026/may/02/golden-tempo-kentucky-derby-cherie-devaux-first-woman-trainer-renegade-ocelli"
-  ],
-  [
-    "derby",
-    25,
-    "https://www.theguardian.com/sport/2026/may/02/golden-tempo-kentucky-derby-cherie-devaux-first-woman-trainer-renegade-ocelli"
+    "game",
+    30,
+    "https://www.theguardian.com/sport/2026/may/03/jannik-sinner-makes-history-with-victory-in-madrid-open-against-zverev"
   ],
   [
     "court",
-    24,
+    29,
     "https://www.nytimes.com/2026/05/03/us/politics/supreme-court-voting-rights-act.html"
   ],
   [
-    "faces",
-    23,
-    "https://www.nytimes.com/2026/05/03/us/politics/trump-unpopular-war-iran.html"
+    "nation",
+    22,
+    "https://www.washingtonpost.com/nation/2026/05/03/us-military-training-morocco-search/"
+  ],
+  [
+    "mother",
+    22,
+    "https://www.theguardian.com/lifeandstyle/2026/may/01/a-perfect-pan-on-sale-plus-famous-grandmas-suggest-mothers-day-gifts"
   ],
   [
     "election",
     22,
-    "https://www.nytimes.com/2026/05/03/us/indiana-senate-republican-primaries-trump.html"
+    "https://www.theguardian.com/us-news/2026/may/02/steve-hilton-california-governor-race"
   ],
   [
-    "political",
-    22,
-    "https://www.nytimes.com/2026/05/03/us/indiana-senate-republican-primaries-trump.html"
-  ],
-  [
-    "night",
-    19,
-    "https://www.nytimes.com/2026/05/02/us/politics/white-house-correspondents-dinner-shooting-suspect-video.html"
-  ],
-  [
-    "administration",
-    19,
-    "https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html"
-  ],
-  [
-    "always",
-    19,
-    "https://www.theguardian.com/music/2026/may/03/guardian-writers-mood-based-playlists"
+    "faces",
+    21,
+    "https://www.nytimes.com/2026/05/03/us/politics/trump-unpopular-war-iran.html"
   ],
   [
     "health",
-    19,
-    "https://www.theguardian.com/us-news/2026/may/03/trump-administration-rfk-autism-misinformation"
+    21,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/03/christofascism-rfk-jr-health"
+  ],
+  [
+    "spirit",
+    20,
+    "https://www.nytimes.com/2026/05/03/business/spirit-airlines-shutdown-fares-industry-impact.html"
+  ],
+  [
+    "because",
+    20,
+    "https://www.theguardian.com/lifeandstyle/2026/may/03/sentence-comment-changed-my-life-yomi-adegoke-matt-haig-bella-mackie-megan-nolan-nikesh-shukla"
+  ],
+  [
+    "always",
+    20,
+    "https://www.theguardian.com/music/2026/may/03/guardian-writers-mood-based-playlists"
+  ],
+  [
+    "political",
+    20,
+    "https://www.theguardian.com/us-news/2026/may/02/steve-hilton-california-governor-race"
   ],
   [
     "feel",
-    19,
+    20,
     "https://www.theguardian.com/society/ng-interactive/2026/may/02/dissociation-confusion-and-the-downward-spiral-welcome-to-anxietyland"
+  ],
+  [
+    "buying",
+    19,
+    "https://www.nytimes.com/2026/05/03/business/electric-vehicles-costa-rica.html"
+  ],
+  [
+    "food",
+    19,
+    "https://www.theguardian.com/games/2026/apr/29/pushing-buttons-what-made-good-game-feel-pragmata-saros-vampire-crawler"
   ],
   [
     "incumbent",
@@ -106,54 +116,54 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "american",
-    18,
-    "https://www.nytimes.com/2026/05/03/us/jewish-antisemitism-violence-attacks.html"
-  ],
-  [
-    "mother",
-    18,
-    "https://www.theguardian.com/artanddesign/2026/may/03/unnamed-holbein-portrait-anne-boleyn-ai-analysis"
-  ],
-  [
-    "spirit",
-    18,
-    "https://www.theguardian.com/sport/2026/may/02/lebron-james-lakers-rockets-playoffs"
-  ],
-  [
-    "county",
-    18,
-    "https://www.theguardian.com/us-news/2026/may/02/california-e-motorcycle-crash-involuntary-manslaughter"
-  ],
-  [
-    "food",
-    18,
-    "https://www.theguardian.com/games/2026/apr/29/pushing-buttons-what-made-good-game-feel-pragmata-saros-vampire-crawler"
-  ],
-  [
     "everything",
-    17,
+    18,
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "country",
-    17,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "film",
+    18,
+    "https://www.theguardian.com/fashion/2026/may/03/met-gala-jeff-bezos-art-fashion-new-york"
   ],
   [
-    "because",
-    17,
-    "https://www.theguardian.com/lifeandstyle/2026/may/03/sentence-comment-changed-my-life-yomi-adegoke-matt-haig-bella-mackie-megan-nolan-nikesh-shukla"
+    "donald",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/may/03/young-americans-trump-elections"
   ],
   [
-    "book",
+    "director",
     17,
-    "https://www.theguardian.com/music/2026/may/03/guardian-writers-mood-based-playlists"
+    "https://www.nytimes.com/2026/05/03/us/politics/blanche-comey-indictment-seashells.html"
   ],
   [
-    "members",
+    "devil",
     17,
-    "https://www.theguardian.com/us-news/2026/may/03/trump-administration-rfk-autism-misinformation"
+    "https://www.nytimes.com/2026/05/03/opinion/devil-wears-prada-lauren-sanchez-bezos-met-gala.html"
+  ],
+  [
+    "wears",
+    17,
+    "https://www.nytimes.com/2026/05/03/opinion/devil-wears-prada-lauren-sanchez-bezos-met-gala.html"
+  ],
+  [
+    "airlines",
+    17,
+    "https://www.nytimes.com/2026/05/03/business/spirit-airlines-shutdown-fares-industry-impact.html"
+  ],
+  [
+    "republicans",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/may/03/young-americans-trump-elections"
+  ],
+  [
+    "record",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/03/trump-disapproval-rating-poll"
+  ],
+  [
+    "county",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/02/california-e-motorcycle-crash-involuntary-manslaughter"
   ],
   [
     "coffee",
@@ -161,54 +171,109 @@
     "https://www.theguardian.com/commentisfree/2026/may/03/holiday-anxiety-travel-itinerary-planning-dilemmas"
   ],
   [
-    "republicans",
-    16,
-    "https://www.nytimes.com/2026/05/03/us/indiana-senate-republican-primaries-trump.html"
+    "council",
+    17,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide"
   ],
   [
-    "challengers",
+    "administration",
     16,
-    "https://www.nytimes.com/2026/05/03/us/indiana-senate-republican-primaries-trump.html"
+    "https://www.nytimes.com/2026/05/03/science/ibogaine-psychedelics-rogan-trump.html"
   ],
   [
-    "donald",
+    "oil",
     16,
-    "https://www.nytimes.com/2026/05/03/briefing/bruce-springsteen-donald-trump.html"
+    "https://www.nytimes.com/2026/05/03/business/opec-plus-oil-production-united-arab-emirates.html"
   ],
   [
-    "history",
+    "american",
+    16,
+    "https://www.nytimes.com/2026/05/03/business/electric-vehicles-costa-rica.html"
+  ],
+  [
+    "prada",
+    16,
+    "https://www.nytimes.com/2026/05/03/opinion/devil-wears-prada-lauren-sanchez-bezos-met-gala.html"
+  ],
+  [
+    "fashion",
+    16,
+    "https://www.theguardian.com/fashion/2026/may/03/met-gala-jeff-bezos-art-fashion-new-york"
+  ],
+  [
+    "young",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/may/03/young-americans-trump-elections"
+  ],
+  [
+    "filter",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/may/01/a-perfect-pan-on-sale-plus-famous-grandmas-suggest-mothers-day-gifts"
+  ],
+  [
+    "primary",
     16,
     "https://www.theguardian.com/lifeandstyle/2026/may/03/sentence-comment-changed-my-life-yomi-adegoke-matt-haig-bella-mackie-megan-nolan-nikesh-shukla"
   ],
   [
-    "released",
+    "congressional",
+    16,
+    "https://www.latimes.com/politics/story/2026-05-02/defiant-iran-leaves-trump-with-few-options"
+  ],
+  [
+    "attorney",
+    15,
+    "https://www.nytimes.com/2026/05/03/us/politics/blanche-comey-indictment-seashells.html"
+  ],
+  [
+    "united",
+    15,
+    "https://www.nytimes.com/2026/05/03/business/opec-plus-oil-production-united-arab-emirates.html"
+  ],
+  [
+    "night",
     15,
     "https://www.nytimes.com/2026/05/02/us/politics/white-house-correspondents-dinner-shooting-suspect-video.html"
   ],
   [
-    "hours",
+    "supreme",
     15,
-    "https://www.washingtonpost.com/lifestyle/2026/05/03/elmer-cat-glue-rescue-adoption/"
+    "https://www.nytimes.com/2026/05/03/us/politics/supreme-court-voting-rights-act.html"
   ],
   [
-    "win",
+    "history",
     15,
-    "https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai"
+    "https://www.theguardian.com/commentisfree/2026/may/03/young-americans-trump-elections"
   ],
   [
-    "epstein",
+    "late",
     15,
-    "https://www.theguardian.com/us-news/2026/may/03/epstein-ghislaine-maxwell-clemency"
+    "https://www.theguardian.com/sport/2026/may/03/kimi-antonelli-produces-gutsy-drive-to-hold-off-norris-and-win-f1-miami-gp"
   ],
   [
-    "film",
+    "democratic",
     15,
-    "https://www.theguardian.com/world/2026/may/03/nato-meets-tv-and-film-makers-causing-concerns-it-seeks-propaganda"
+    "https://www.theguardian.com/world/2026/may/03/northern-ireland-historian-uncovers-surprising-era-of-tolerance-of-gay-men"
   ],
   [
-    "replace",
+    "police",
     15,
-    "https://www.theguardian.com/film/2026/may/02/50-years-of-labor-union-documentaries"
+    "https://www.theguardian.com/us-news/2026/may/02/portland-oregon-health-club-crash"
+  ],
+  [
+    "candidates",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/01/california-democrats-republicans-governor"
+  ],
+  [
+    "challengers",
+    15,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
+  ],
+  [
+    "voting",
+    14,
+    "https://www.nytimes.com/2026/05/03/us/politics/supreme-court-voting-rights-act.html"
   ],
   [
     "democrats",
@@ -216,163 +281,98 @@
     "https://www.nytimes.com/2026/05/03/us/politics/kamala-harris-california-governor-democrats.html"
   ],
   [
-    "start",
+    "country",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/05/03/business/costa-rica-electric-vehicle-road-trip.html"
   ],
   [
-    "secretary",
-    14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "late",
-    14,
-    "https://www.theguardian.com/news/ng-interactive/2026/may/03/youre-not-one-of-us-are-you-how-a-ukrainian-soldier-survived-two-weeks-in-a-russian-dugout"
-  ],
-  [
-    "music",
-    14,
-    "https://www.theguardian.com/music/2026/may/03/guardian-writers-mood-based-playlists"
-  ],
-  [
-    "young",
+    "recent",
     14,
     "https://www.theguardian.com/commentisfree/2026/may/03/young-americans-trump-elections"
   ],
   [
-    "police",
+    "win",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/02/flock-police-surveillance-tech-birds-iran-press-freedom"
+    "https://www.theguardian.com/sport/2026/may/03/kimi-antonelli-produces-gutsy-drive-to-hold-off-norris-and-win-f1-miami-gp"
   ],
   [
-    "company",
+    "republican",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/02/flock-police-surveillance-tech-birds-iran-press-freedom"
+    "https://www.theguardian.com/us-news/2026/may/02/steve-hilton-california-governor-race"
   ],
   [
-    "star",
+    "margaret",
     14,
-    "https://www.theguardian.com/sport/2026/may/02/lebron-james-lakers-rockets-playoffs"
+    "https://www.cbsnews.com/video/chevron-ceo-says-its-very-hard-to-predict-the-iran-wars-lasting-impact-on-energy-prices/"
   ],
   [
-    "buying",
+    "brennan",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/may/02/mothers-day-gifts-deals-sales"
+    "https://www.cbsnews.com/video/chevron-ceo-says-its-very-hard-to-predict-the-iran-wars-lasting-impact-on-energy-prices/"
   ],
   [
-    "congressional",
-    14,
-    "https://www.latimes.com/politics/story/2026-05-02/defiant-iran-leaves-trump-with-few-options"
-  ],
-  [
-    "candidates",
-    14,
-    "https://www.latimes.com/california/story/2024-08-09/california-governor-2026-candidates-newsom-atkins-kounalakis-thurmond-villaraigosa-yee"
-  ],
-  [
-    "primary",
+    "blanche",
     13,
-    "https://www.nytimes.com/2026/05/03/us/indiana-senate-republican-primaries-trump.html"
+    "https://www.nytimes.com/2026/05/03/us/politics/blanche-comey-indictment-seashells.html"
   ],
   [
-    "service",
+    "post",
     13,
-    "https://www.nytimes.com/2026/05/02/us/politics/white-house-correspondents-dinner-shooting-suspect-video.html"
+    "https://www.nytimes.com/2026/05/03/us/politics/blanche-comey-indictment-seashells.html"
   ],
   [
-    "crisis",
+    "general",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/05/03/us/politics/blanche-comey-indictment-seashells.html"
   ],
   [
-    "recent",
+    "economic",
     13,
-    "https://www.theguardian.com/music/2026/may/03/guardian-writers-mood-based-playlists"
-  ],
-  [
-    "record",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/may/03/jimmy-eat-world-look-back-alternative-rock-band-arizona"
-  ],
-  [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/may/02/mothers-day-gifts-deals-sales"
-  ],
-  [
-    "season",
-    12,
-    "https://www.nytimes.com/2026/05/02/world/middleeast/jordan-travel-tourists-war.html"
-  ],
-  [
-    "york",
-    12,
-    "https://www.nytimes.com/2026/05/03/nyregion/upper-west-side-nyc-schools.html"
-  ],
-  [
-    "team",
-    12,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "little",
-    12,
-    "https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai"
-  ],
-  [
-    "weekend",
-    12,
-    "https://www.theguardian.com/football/2026/may/02/iraola-and-glasner-middle-managers-or-big-club-bosses-in-waiting-its-hard-to-tell"
-  ],
-  [
-    "instant",
-    12,
-    "https://www.theguardian.com/thefilter-us/2025/sep/30/best-instant-coffees"
-  ],
-  [
-    "council",
-    12,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide"
-  ],
-  [
-    "term",
-    11,
     "https://www.nytimes.com/2026/05/03/us/politics/trump-unpopular-war-iran.html"
   ],
   [
-    "though",
-    11,
-    "https://www.nytimes.com/2026/05/02/world/middleeast/jordan-travel-tourists-war.html"
-  ],
-  [
-    "supreme",
-    11,
-    "https://www.nytimes.com/2026/05/03/us/politics/supreme-court-voting-rights-act.html"
-  ],
-  [
-    "test",
-    11,
-    "https://www.nytimes.com/2026/05/03/us/indiana-senate-republican-primaries-trump.html"
-  ],
-  [
-    "video",
-    11,
-    "https://www.nytimes.com/2026/05/02/us/politics/white-house-correspondents-dinner-shooting-suspect-video.html"
-  ],
-  [
-    "oil",
-    11,
-    "https://www.washingtonpost.com/lifestyle/2026/05/03/elmer-cat-glue-rescue-adoption/"
-  ],
-  [
-    "became",
-    11,
-    "https://www.washingtonpost.com/obituaries/2026/05/02/asal-sayas-dead-cancer/"
-  ],
-  [
     "field",
-    11,
+    13,
     "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+  ],
+  [
+    "latest",
+    13,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "secretary",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "fewer",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/may/01/a-perfect-pan-on-sale-plus-famous-grandmas-suggest-mothers-day-gifts"
+  ],
+  [
+    "decision",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/may/03/racism-supreme-court-voting-right-act"
+  ],
+  [
+    "energy",
+    13,
+    "https://www.theguardian.com/business/2026/may/03/trump-clean-energy-iran-war-global-shift-oil-gas"
+  ],
+  [
+    "replace",
+    13,
+    "https://www.latimes.com/environment/story/2026-05-03/californias-last-oil-shipment"
+  ],
+  [
+    "sen",
+    13,
+    "https://www.cbsnews.com/news/raphael-warnock-georgia-democrat-face-the-nation-transcript-05-03-2026/"
+  ],
+  [
+    "released",
+    12,
+    "https://www.nytimes.com/2026/05/02/us/politics/white-house-correspondents-dinner-shooting-suspect-video.html"
   ]
 ];
