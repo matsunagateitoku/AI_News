@@ -3,25 +3,25 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 63,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/03/christofascism-rfk-jr-health",
+      "count": 62,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/04/king-charles-us-visit-donald-trump-history-end-era",
       "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 40,
+      "url": "https://www.nytimes.com/2026/05/03/us/politics/trump-unpopular-war-iran.html",
+      "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 45,
-      "url": "https://www.theguardian.com/us-news/2026/may/02/california-e-motorcycle-crash-involuntary-manslaughter",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Country Of Iran",
-      "count": 30,
-      "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
-      "source": "The Guardian"
+      "count": 40,
+      "url": "https://www.nytimes.com/2026/05/04/opinion/california-governor-election.html",
+      "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 29,
+      "count": 33,
       "url": "https://www.nytimes.com/2026/05/03/us/politics/strait-hormuz-stranded-ships.html",
       "source": "NY Times"
     },
@@ -32,66 +32,116 @@
       "source": "LA Times"
     },
     {
-      "name": "New York City",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/05/03/nyregion/rudy-giuliani-hospital-critical-condition.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Washington Dc",
-      "count": 10,
-      "url": "https://www.theguardian.com/science/2026/may/03/nasa-budget-science-trump-isaacman",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Republic Of China",
-      "count": 9,
+      "count": 12,
       "url": "https://www.theguardian.com/world/2026/may/04/world-coffee-championships-taiwan-chinese-taipei",
       "source": "The Guardian"
     },
     {
-      "name": "Newark",
-      "count": 8,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/03/sentence-comment-changed-my-life-yomi-adegoke-matt-haig-bella-mackie-megan-nolan-nikesh-shukla",
+      "name": "New York City",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/05/03/nyregion/rudy-giuliani-hospital-critical-condition.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "London",
+      "count": 10,
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/may/04/ready-for-their-close-ups-celebrity-passport-photos",
       "source": "The Guardian"
     },
     {
-      "name": "Arizona",
+      "name": "Morocco",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/nation/2026/05/03/us-military-training-morocco-search/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Taiwan",
       "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/may/03/colorado-river-water-plan-california-arizona-nevada",
+      "url": "https://www.theguardian.com/world/2026/may/04/world-coffee-championships-taiwan-chinese-taipei",
+      "source": "The Guardian"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "Game 7",
+      "count": 3,
+      "url": "https://www.theguardian.com/sport/2026/may/03/pistons-complete-comeback-against-magic-to-win-their-first-nba-playoff-series-in-18-years",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Beachlife Festival",
+      "count": 2,
+      "url": "https://www.latimes.com/california/story/2026-05-03/redondo-beach-pier-evacuated-due-to-police-activity",
+      "source": "LA Times"
+    },
+    {
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.latimes.com/california/story/2026-05-01/la-may-day-rallies-protest-immigration-sweeps-cost-of-living",
+      "source": "LA Times"
+    },
+    {
+      "name": "World Coffee Championships",
+      "count": 1,
+      "url": "https://www.theguardian.com/world/2026/may/04/world-coffee-championships-taiwan-chinese-taipei",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The French Open Later This Month",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/03/tennis-french-open-prize-money-novak-djokovic-jannik-sinner-aryna-sabalenka",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Madrid Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/03/jannik-sinner-makes-history-with-victory-in-madrid-open-against-zverev",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pm Takaichi",
+      "count": 1,
+      "url": "https://www.theguardian.com/world/2026/may/04/japan-sees-largest-protest-in-support-of-pacifist-constitution-as-pm-takaichi-pushes-revisions",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Incheon Asian Games",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/may/04/north-korea-womens-football-team-south-seoul-match",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Us National Book Award",
+      "count": 1,
+      "url": "https://www.theguardian.com/books/2026/may/04/one-leg-on-earth-by-pemi-aguda-review-a-powerfully-eerie-portrait-of-lagos",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mother’S Day",
+      "count": 1,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/01/a-perfect-pan-on-sale-plus-famous-grandmas-suggest-mothers-day-gifts",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Trump National Doral",
-      "count": 55,
+      "count": 49,
       "url": "https://www.foxnews.com/outkick-sports/cameron-young-says-honor-play-front-president-trump-dominant-win-cadillac-championship",
       "source": "Fox News"
     },
     {
-      "name": "Spirit Airlines'",
-      "count": 14,
-      "url": "https://www.cbsnews.com/news/spirit-airlines-tickets-flghts-shutting-down-impact/",
-      "source": "CBS News"
-    },
-    {
       "name": "The Filter Us",
-      "count": 13,
+      "count": 12,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
+      "name": "Spirit Airlines'",
       "count": 11,
-      "url": "https://www.theguardian.com/fashion/2026/apr/29/frock-hard-place-why-the-furore-over-black-tie-dress",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 10,
-      "url": "https://www.theguardian.com/artanddesign/2026/may/03/unnamed-holbein-portrait-anne-boleyn-ai-analysis",
-      "source": "The Guardian"
+      "url": "https://www.cbsnews.com/news/spirit-airlines-tickets-flghts-shutting-down-impact/",
+      "source": "CBS News"
     },
     {
       "name": "The California Congressional District",
@@ -100,9 +150,15 @@
       "source": "LA Times"
     },
     {
-      "name": "The Devil Wears Prada 2",
+      "name": "The White House",
+      "count": 10,
+      "url": "https://www.theguardian.com/fashion/2026/apr/29/frock-hard-place-why-the-furore-over-black-tie-dress",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
       "count": 9,
-      "url": "https://www.theguardian.com/thefilter-us/2026/may/03/devil-wears-prada-fashion-designer-resale",
+      "url": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
       "source": "The Guardian"
     },
     {
@@ -122,75 +178,19 @@
       "count": 8,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
       "source": "LA Times"
-    }
-  ],
-  "EVENT": [
+    },
     {
-      "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
+      "name": "Manchester United",
+      "count": 8,
+      "url": "https://www.theguardian.com/football/2026/may/03/sir-alex-ferguson-taken-to-hospital-manchester-united-liverpool-premier-league-manager",
       "source": "The Guardian"
-    },
-    {
-      "name": "Game 7",
-      "count": 3,
-      "url": "https://www.theguardian.com/sport/2026/may/03/pistons-complete-comeback-against-magic-to-win-their-first-nba-playoff-series-in-18-years",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Beachlife Festival",
-      "count": 2,
-      "url": "https://www.latimes.com/california/story/2026-05-03/redondo-beach-pier-evacuated-due-to-police-activity",
-      "source": "LA Times"
-    },
-    {
-      "name": "World Coffee Championships",
-      "count": 1,
-      "url": "https://www.theguardian.com/world/2026/may/04/world-coffee-championships-taiwan-chinese-taipei",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Operation Epic Fury",
-      "count": 1,
-      "url": "https://www.theguardian.com/business/2026/may/03/trump-clean-energy-iran-war-global-shift-oil-gas",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The French Open Later This Month",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/03/tennis-french-open-prize-money-novak-djokovic-jannik-sinner-aryna-sabalenka",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Madrid Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/03/jannik-sinner-makes-history-with-victory-in-madrid-open-against-zverev",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Venice Biennale",
-      "count": 1,
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/may/04/fiona-pardington-lost-birds-aotearoa-new-zealand-in-pictures",
-      "source": "The Guardian"
-    },
-    {
-      "name": "’S World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Olympics",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
-      "source": "LA Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
       "count": 39,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/03/saturday-night-live-olivia-rodrigo-aziz-ansari",
+      "url": "https://www.theguardian.com/us-news/2026/may/03/pentagon-pete-hegseth-us-military",
       "source": "The Guardian"
     },
     {
@@ -206,15 +206,21 @@
       "source": "The Guardian"
     },
     {
-      "name": "Aziz Ansari",
+      "name": "Hormuz",
       "count": 7,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/03/saturday-night-live-olivia-rodrigo-aziz-ansari",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/05/03/us/politics/strait-hormuz-stranded-ships.html",
+      "source": "NY Times"
     },
     {
       "name": "James Comey",
       "count": 7,
       "url": "https://www.theguardian.com/us-news/2026/may/03/james-comey-indictment-instagram-post-seashells",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Aziz Ansari",
+      "count": 7,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/03/saturday-night-live-olivia-rodrigo-aziz-ansari",
       "source": "The Guardian"
     },
     {
@@ -230,23 +236,17 @@
       "source": "LA Times"
     },
     {
-      "name": "Meryl Streep",
-      "count": 5,
-      "url": "https://www.theguardian.com/thefilter-us/2026/may/03/devil-wears-prada-fashion-designer-resale",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Anne Hathaway",
-      "count": 5,
-      "url": "https://www.theguardian.com/thefilter-us/2026/may/03/devil-wears-prada-fashion-designer-resale",
-      "source": "The Guardian"
-    },
-    {
       "name": "Todd Blanche",
       "count": 5,
       "url": "https://www.theguardian.com/us-news/2026/may/03/james-comey-indictment-instagram-post-seashells",
       "source": "The Guardian"
+    },
+    {
+      "name": "Timur",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/2026/may/04/rise-of-the-conqueror-review-gladiator-meets-throat-singing-as-mongol-hordes-ride-out",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-05-04T04:42:30Z"
+  "updated": "2026-05-04T09:25:05Z"
 };
