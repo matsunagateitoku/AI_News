@@ -2,68 +2,73 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    68,
-    "https://www.nytimes.com/2026/05/04/us/politics/trump-economy-iran-war.html"
+    83,
+    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html"
   ],
   [
     "race",
-    66,
-    "https://www.theguardian.com/football/2026/may/04/everton-manchester-city-premier-league-match-report"
+    67,
+    "https://www.nytimes.com/2026/05/05/us/tom-steyer-california-governor-coal.html"
   ],
   [
     "guide",
-    57,
-    "https://www.theguardian.com/thefilter-us/2026/may/04/best-home-organization-products-solutions"
-  ],
-  [
-    "met",
-    50,
-    "https://www.nytimes.com/2026/05/04/style/met-gala-2026-red-carpet.html"
-  ],
-  [
-    "gala",
-    48,
-    "https://www.nytimes.com/2026/05/04/style/met-gala-2026-red-carpet.html"
+    56,
+    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-strait-hormuz-plan-project-freedom-iran.html"
   ],
   [
     "california",
-    46,
-    "https://www.theguardian.com/us-news/2026/may/04/california-state-farm-insurance-violations-wildfires"
-  ],
-  [
-    "court",
-    42,
-    "https://www.nytimes.com/2026/05/04/us/politics/supreme-court-abortion-pill.html"
-  ],
-  [
-    "district",
-    39,
-    "https://www.theguardian.com/music/2026/may/04/britney-spears-pleads-guilty-dui"
+    40,
+    "https://www.nytimes.com/2026/05/05/us/usc-ai-200-million-donation.html"
   ],
   [
     "iran",
-    37,
-    "https://www.nytimes.com/2026/05/04/us/politics/trump-economy-iran-war.html"
+    38,
+    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html"
+  ],
+  [
+    "district",
+    38,
+    "https://www.theguardian.com/us-news/live/2026/may/05/donald-trump-iran-ohio-primary-vivek-ramaswamy-casey-putsch-marco-rubio-latest-news-updates"
+  ],
+  [
+    "court",
+    34,
+    "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court"
+  ],
+  [
+    "president",
+    32,
+    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html"
+  ],
+  [
+    "health",
+    30,
+    "https://www.nytimes.com/2026/05/05/us/usc-ai-200-million-donation.html"
+  ],
+  [
+    "political",
+    29,
+    "https://www.nytimes.com/2026/05/05/us/indiana-legistature-election-trump.html"
+  ],
+  [
+    "met",
+    28,
+    "https://www.nytimes.com/2026/05/05/style/fashion-art-met-gala.html"
   ],
   [
     "game",
-    35,
+    28,
     "https://www.theguardian.com/commentisfree/2026/may/05/game-changer-good-health-scientists-we-are-when-we-eat"
   ],
   [
     "war",
-    29,
-    "https://www.nytimes.com/2026/05/04/us/politics/trump-economy-iran-war.html"
-  ],
-  [
-    "president",
-    29,
-    "https://www.nytimes.com/2026/05/04/us/politics/washington-monument-shooting-secret-service.html"
-  ],
-  [
-    "health",
     27,
-    "https://www.nytimes.com/2026/05/04/science/rfk-antidepressants-ssris-hhs-maha.html"
+    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html"
+  ],
+  [
+    "gala",
+    26,
+    "https://www.nytimes.com/2026/05/05/style/fashion-art-met-gala.html"
   ],
   [
     "rice",
@@ -71,274 +76,209 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "york",
+    "faces",
     25,
-    "https://www.nytimes.com/2026/05/04/business/media/pulitzer-prizes-2026.html"
+    "https://www.washingtonpost.com/education/2026/05/05/smith-college-investigation-transgender/"
+  ],
+  [
+    "election",
+    24,
+    "https://www.nytimes.com/2026/05/05/us/politics/ohio-senate-jeffrey-epstein-john-husted-sherrod-brown.html"
   ],
   [
     "fashion",
     24,
-    "https://www.nytimes.com/2026/05/05/style/met-gala-cocktail-party.html"
-  ],
-  [
-    "election",
-    22,
-    "https://www.nytimes.com/2026/05/04/us/politics/trump-2020-georgia-election-workers.html"
-  ],
-  [
-    "congressional",
-    22,
-    "https://www.theguardian.com/us-news/2026/may/04/supreme-court-expedites-voting-rights-act-ruling"
-  ],
-  [
-    "political",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/may/04/trump-green-card-israel-social-media"
-  ],
-  [
-    "least",
-    21,
-    "https://www.nytimes.com/2026/05/05/us/us-military-boat-strike-caribbean.html"
-  ],
-  [
-    "fire",
-    20,
-    "https://www.nytimes.com/2026/05/04/us/palisades-fire-suspect-jonathan-rinderknecht.html"
-  ],
-  [
-    "games",
-    20,
-    "https://www.theguardian.com/lifeandstyle/2026/may/05/people-crave-friendship-thousands-flock-to-resurgence-of-centuries-old-south-asian-board-game"
-  ],
-  [
-    "faces",
-    20,
-    "https://www.theguardian.com/film/2026/may/05/surrender-review-josh-duhamel-thriller-david-lipper"
-  ],
-  [
-    "incumbent",
-    20,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
-  ],
-  [
-    "film",
-    19,
-    "https://www.nytimes.com/2026/05/04/movies/blake-lively-justin-baldoni-settlement.html"
-  ],
-  [
-    "police",
-    19,
-    "https://www.theguardian.com/us-news/2026/may/02/portland-oregon-health-club-crash"
-  ],
-  [
-    "military",
-    18,
-    "https://www.nytimes.com/2026/05/05/us/us-military-boat-strike-caribbean.html"
-  ],
-  [
-    "art",
-    18,
-    "https://www.nytimes.com/2026/05/05/style/met-gala-cocktail-party.html"
-  ],
-  [
-    "company",
-    18,
-    "https://www.nytimes.com/2026/05/05/world/europe/ukraine-taiwan-drones.html"
+    "https://www.nytimes.com/2026/05/05/style/fashion-art-met-gala.html"
   ],
   [
     "republicans",
-    18,
-    "https://www.nytimes.com/2026/05/05/opinion/trump-midterms-maga-gop.html"
-  ],
-  [
-    "hormuz",
-    18,
-    "https://www.theguardian.com/world/live/2026/may/05/iran-us-israel-lebanon-strait-of-hormuz-ships-oil-uae-latest-news-updates"
-  ],
-  [
-    "county",
-    18,
-    "https://www.theguardian.com/world/2026/may/05/fireworks-factory-explosion-china-kills-workers"
-  ],
-  [
-    "supreme",
-    17,
-    "https://www.nytimes.com/2026/05/04/us/politics/supreme-court-abortion-pill.html"
-  ],
-  [
-    "night",
-    17,
-    "https://www.nytimes.com/2026/05/05/arts/television/late-night-spirit-airlines.html"
-  ],
-  [
-    "don",
-    17,
-    "https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/"
-  ],
-  [
-    "media",
-    17,
-    "https://www.theguardian.com/film/2026/may/05/jeff-bezos-real-villain-the-devil-wears-prada-2"
-  ],
-  [
-    "feel",
-    17,
-    "https://www.theguardian.com/news/audio/2026/may/05/fake-fans-fake-buzz-how-your-favourite-band-got-big-podcast"
-  ],
-  [
-    "united",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/may/04/king-charles-us-visit-donald-trump-history-end-era"
-  ],
-  [
-    "democrats",
-    16,
-    "https://www.nytimes.com/2026/05/04/us/politics/trump-2020-georgia-election-workers.html"
-  ],
-  [
-    "dress",
-    16,
-    "https://www.nytimes.com/2026/05/05/style/met-gala-cocktail-party.html"
-  ],
-  [
-    "start",
-    16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    23,
+    "https://www.theguardian.com/us-news/live/2026/may/05/donald-trump-iran-ohio-primary-vivek-ramaswamy-casey-putsch-marco-rubio-latest-news-updates"
   ],
   [
     "strait",
+    22,
+    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-strait-hormuz-plan-project-freedom-iran.html"
+  ],
+  [
+    "hormuz",
+    21,
+    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-strait-hormuz-plan-project-freedom-iran.html"
+  ],
+  [
+    "incumbent",
+    21,
+    "https://www.nytimes.com/2026/05/05/us/politics/ohio-senate-jeffrey-epstein-john-husted-sherrod-brown.html"
+  ],
+  [
+    "american",
+    21,
+    "https://www.theguardian.com/us-news/2026/may/05/new-orleans-street-light-initiative"
+  ],
+  [
+    "county",
+    20,
+    "https://www.theguardian.com/us-news/2026/may/05/animals-rescued-california-sanctuary"
+  ],
+  [
+    "congressional",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/may/05/the-guardian-view-on-the-us-supreme-court-its-judgments-have-slowly-erased-voting-rights"
+  ],
+  [
+    "art",
+    19,
+    "https://www.nytimes.com/2026/05/05/arts/television/stephen-colbert-the-late-show-carson-letterman-leno.html"
+  ],
+  [
+    "because",
+    19,
+    "https://www.nytimes.com/2026/05/05/technology/coinbase-layoffs-ai.html"
+  ],
+  [
+    "legal",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court"
+  ],
+  [
+    "death",
+    19,
+    "https://www.theguardian.com/world/2026/may/05/jailed-iranian-nobel-prize-winner-narges-mohammadi-between-life-and-death"
+  ],
+  [
+    "secretary",
+    18,
+    "https://www.nytimes.com/2026/05/05/well/meatstock-carnivore-diet-rfk-jr.html"
+  ],
+  [
+    "country",
+    18,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "mother",
+    18,
+    "https://www.theguardian.com/books/ng-interactive/2026/may/05/harriet-clark-the-hill-book-prison"
+  ],
+  [
+    "primary",
+    17,
+    "https://www.nytimes.com/2026/05/05/us/indiana-legistature-election-trump.html"
+  ],
+  [
+    "candidates",
+    17,
+    "https://www.nytimes.com/video/us/politics/100000010873895/president-trump-seeks-retribution-in-republican-primaries.html"
+  ],
+  [
+    "bezos",
+    17,
+    "https://www.theguardian.com/fashion/2026/may/05/body-masterpiece-nipples-skeletons-tattoos-record-breaking-met-gala-beyonce-kardashians"
+  ],
+  [
+    "rights",
     16,
-    "https://www.theguardian.com/world/live/2026/may/05/iran-us-israel-lebanon-strait-of-hormuz-ships-oil-uae-latest-news-updates"
+    "https://www.nytimes.com/2026/05/05/us/politics/smith-college-transgender-admissions.html"
+  ],
+  [
+    "power",
+    16,
+    "https://www.nytimes.com/2026/05/05/us/indiana-legistature-election-trump.html"
   ],
   [
     "republican",
     16,
-    "https://www.theguardian.com/us-news/2026/may/04/haiti-republicans-trump"
+    "https://www.nytimes.com/2026/05/05/us/indiana-legistature-election-trump.html"
   ],
   [
-    "young",
+    "attacks",
     16,
-    "https://www.theguardian.com/artanddesign/2026/may/05/hernan-bas-the-visitors-ca-pesaro-venice-biennale"
+    "https://www.nytimes.com/2026/05/05/us/politics/ohio-senate-jeffrey-epstein-john-husted-sherrod-brown.html"
+  ],
+  [
+    "night",
+    16,
+    "https://www.nytimes.com/2026/05/05/style/fashion-art-met-gala.html"
+  ],
+  [
+    "media",
+    16,
+    "https://www.nytimes.com/2026/05/05/business/media/james-murdoch-vox-media.html"
   ],
   [
     "challengers",
     16,
-    "https://www.theguardian.com/football/2026/may/04/everton-manchester-city-premier-league-match-report"
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "primary",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/may/03/sentence-comment-changed-my-life-yomi-adegoke-matt-haig-bella-mackie-megan-nolan-nikesh-shukla"
-  ],
-  [
-    "candidates",
-    16,
-    "https://www.latimes.com/california/story/2026-05-04/big-name-contributors"
-  ],
-  [
-    "middle",
+    "democrats",
     15,
-    "https://www.nytimes.com/2026/05/05/business/oil-gas-prices-iran.html"
+    "https://www.nytimes.com/2026/05/05/us/politics/ohio-senate-jeffrey-epstein-john-husted-sherrod-brown.html"
   ],
   [
-    "east",
+    "jeff",
     15,
-    "https://www.nytimes.com/2026/05/05/business/oil-gas-prices-iran.html"
-  ],
-  [
-    "attacks",
-    15,
-    "https://www.nytimes.com/2026/05/05/business/oil-gas-prices-iran.html"
-  ],
-  [
-    "near",
-    15,
-    "https://www.nytimes.com/2026/05/04/us/politics/washington-monument-shooting-secret-service.html"
-  ],
-  [
-    "administration",
-    15,
-    "https://www.nytimes.com/2026/05/04/us/politics/trump-2020-georgia-election-workers.html"
-  ],
-  [
-    "won",
-    15,
-    "https://www.nytimes.com/2026/05/04/business/media/pulitzer-prizes-2026.html"
-  ],
-  [
-    "suspected",
-    15,
-    "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html"
-  ],
-  [
-    "lawsuit",
-    15,
-    "https://www.nytimes.com/2026/05/04/movies/blake-lively-justin-baldoni-settlement.html"
+    "https://www.theguardian.com/fashion/2026/may/05/body-masterpiece-nipples-skeletons-tattoos-record-breaking-met-gala-beyonce-kardashians"
   ],
   [
     "book",
     15,
-    "https://www.nytimes.com/2026/05/05/opinion/ezra-klein-podcast-helena-rosenblatt.html"
+    "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court"
   ],
   [
-    "because",
+    "donald",
     15,
-    "https://www.theguardian.com/world/2026/may/05/the-man-who-blew-up-a-nuclear-power-station-koeberg-south-africa"
+    "https://www.theguardian.com/us-news/live/2026/may/05/donald-trump-iran-ohio-primary-vivek-ramaswamy-casey-putsch-marco-rubio-latest-news-updates"
   ],
   [
-    "based",
+    "prices",
     15,
-    "https://www.theguardian.com/film/2026/may/05/jeff-bezos-real-villain-the-devil-wears-prada-2"
+    "https://www.theguardian.com/business/2026/may/05/airline-seats-cut-jet-fuel-prices"
   ],
   [
-    "american",
-    15,
-    "https://www.theguardian.com/us-news/2026/may/03/colorado-river-water-plan-california-arizona-nevada"
-  ],
-  [
-    "accused",
+    "trying",
     14,
-    "https://www.nytimes.com/2026/05/04/us/palisades-fire-suspect-jonathan-rinderknecht.html"
+    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html"
   ],
   [
-    "felt",
+    "million",
     14,
-    "https://www.nytimes.com/2026/05/04/us/palisades-fire-suspect-jonathan-rinderknecht.html"
+    "https://www.nytimes.com/2026/05/05/us/usc-ai-200-million-donation.html"
+  ],
+  [
+    "cruise",
+    14,
+    "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html"
   ],
   [
     "hantavirus",
     14,
-    "https://www.nytimes.com/2026/05/04/well/hantavirus-infection-symptoms.html"
+    "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html"
   ],
   [
-    "country",
+    "crisis",
     14,
-    "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "term",
+    "return",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/wellness/2026/may/05/medical-pedicure-treatment-feet-care"
   ],
   [
-    "wears",
+    "food",
     14,
-    "https://www.theguardian.com/film/2026/may/05/jeff-bezos-real-villain-the-devil-wears-prada-2"
+    "https://www.theguardian.com/commentisfree/2026/may/05/game-changer-good-health-scientists-we-are-when-we-eat"
   ],
   [
-    "judge",
+    "games",
     14,
-    "https://www.theguardian.com/us-news/2026/may/04/judge-cole-allen-treatment-suspect-trump-assassination-attempt"
+    "https://www.theguardian.com/sport/2026/may/05/enhanced-games-doping-performance-enhancing-drugs-questions"
   ],
   [
-    "place",
+    "young",
     14,
-    "https://www.theguardian.com/artanddesign/2026/may/05/parapet-lubaina-himid-venice-biennale-britain"
-  ],
-  [
-    "events",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/may/05/people-crave-friendship-thousands-flock-to-resurgence-of-centuries-old-south-asian-board-game"
+    "https://www.theguardian.com/world/2026/may/05/expert-brands-rescue-of-timmy-the-whale-an-all-round-catastrophe-over-deficient-tracker"
   ],
   [
     "cooker",
@@ -346,33 +286,93 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "china",
-    13,
-    "https://www.nytimes.com/2026/05/05/business/china-wind-turbines.html"
+    "replace",
+    14,
+    "https://www.latimes.com/california/story/2024-08-09/california-governor-2026-candidates-newsom-atkins-kounalakis-thurmond-villaraigosa-yee"
   ],
   [
-    "department",
-    13,
-    "https://www.nytimes.com/2026/05/04/us/politics/trump-2020-georgia-election-workers.html"
+    "council",
+    14,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide"
   ],
   [
-    "louisiana",
+    "project",
     13,
-    "https://www.nytimes.com/2026/05/04/us/politics/supreme-court-louisiana-voting-rights-act.html"
+    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-strait-hormuz-plan-project-freedom-iran.html"
   ],
   [
-    "rights",
+    "administration",
     13,
-    "https://www.nytimes.com/2026/05/04/us/beagles-ridglan-farms-wisconsin.html"
+    "https://www.nytimes.com/2026/05/05/us/politics/smith-college-transgender-admissions.html"
   ],
   [
-    "began",
+    "ohio",
     13,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "https://www.nytimes.com/2026/05/05/us/politics/ohio-senate-jeffrey-epstein-john-husted-sherrod-brown.html"
   ],
   [
-    "latest",
+    "late",
     13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.nytimes.com/2026/05/05/arts/television/stephen-colbert-the-late-show-carson-letterman-leno.html"
+  ],
+  [
+    "company",
+    13,
+    "https://www.nytimes.com/2026/05/05/business/media/james-murdoch-vox-media.html"
+  ],
+  [
+    "york",
+    13,
+    "https://www.nytimes.com/2026/05/05/nyregion/roth-mamdani-griffin-rich.html"
+  ],
+  [
+    "lost",
+    13,
+    "https://www.nytimes.com/2026/05/05/theater/2026-tony-nominations.html"
+  ],
+  [
+    "tony",
+    13,
+    "https://www.nytimes.com/2026/05/05/theater/2026-tony-nominations.html"
+  ],
+  [
+    "film",
+    13,
+    "https://www.nytimes.com/2026/05/05/theater/2026-tony-nominations.html"
+  ],
+  [
+    "ship",
+    13,
+    "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html"
+  ],
+  [
+    "don",
+    13,
+    "https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/"
+  ],
+  [
+    "start",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "fire",
+    13,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "always",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court"
+  ],
+  [
+    "iranian",
+    13,
+    "https://www.theguardian.com/world/2026/may/05/us-iran-truce-teeters-on-meltdown-as-stalemate-takes-toll-on-each-side"
+  ],
+  [
+    "supreme",
+    13,
+    "https://www.theguardian.com/us-news/live/2026/may/05/donald-trump-iran-ohio-primary-vivek-ramaswamy-casey-putsch-marco-rubio-latest-news-updates"
   ]
 ];
