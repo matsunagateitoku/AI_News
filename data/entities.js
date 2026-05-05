@@ -3,213 +3,89 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 57,
+      "count": 71,
       "url": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 37,
+      "url": "https://www.theguardian.com/us-news/2026/may/04/california-state-farm-insurance-violations-wildfires",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Country Of Iran",
+      "count": 33,
+      "url": "https://www.theguardian.com/business/2026/may/04/strait-of-hormuz-donald-trump-us-navy-iran-shipping",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 47,
-      "url": "https://www.nytimes.com/2026/05/04/us/politics/us-iran-attacks.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 38,
-      "url": "https://www.theguardian.com/music/2026/may/04/britney-spears-pleads-guilty-dui",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 36,
-      "url": "https://www.nytimes.com/2026/05/04/us/politics/us-iran-attacks.html",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/05/04/us/politics/us-china-iranian-oil-sanctions.html",
       "source": "NY Times"
     },
     {
       "name": "L.A. County'S",
-      "count": 20,
+      "count": 21,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
       "source": "LA Times"
     },
     {
+      "name": "New York City ’S",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/may/04/zohran-mamdani-ice-police-protesters-clash-brooklyn",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Louisiana",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/05/04/us/politics/supreme-court-louisiana-voting-rights-act.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Florida",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/05/04/us/politics/us-army-arctic-cold.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
       "count": 11,
-      "url": "https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/04/democrats-trump-election-voter-poll",
+      "source": "The Guardian"
+    },
+    {
+      "name": "China",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/05/04/us/politics/us-china-iranian-oil-sanctions.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Germany",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "New York City'S",
-      "count": 10,
-      "url": "https://www.cbsnews.com/video/what-to-expect-from-the-2026-met-gala/",
-      "source": "CBS News"
     },
     {
       "name": "London",
       "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/04/uk-pigeon-problem-humane-solution-councils",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 34,
-      "url": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jeff Bezos Causes",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/05/04/style/met-gala-jeff-bezos-backlash.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Hormuz",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Rudy Giuliani Hospitalized",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/05/03/nyregion/rudy-giuliani-hospital-critical-condition.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Lauren Sánchez Bezos",
-      "count": 5,
-      "url": "https://www.theguardian.com/fashion/video/2026/may/04/why-the-bezos-backed-met-gala-is-so-controversial-the-latest",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Anne Hathaway",
-      "count": 5,
-      "url": "https://www.theguardian.com/film/2026/may/04/devil-wears-prada-2-spoilers",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Timur",
-      "count": 5,
-      "url": "https://www.theguardian.com/film/2026/may/04/rise-of-the-conqueror-review-gladiator-meets-throat-singing-as-mongol-hordes-ride-out",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Samuel Alito",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/may/04/mifepristone-abortion-pill-supreme-court",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Meryl Streep",
-      "count": 4,
-      "url": "https://www.theguardian.com/film/2026/may/04/devil-wears-prada-2-spoilers",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Emmy Van Deurzen",
-      "count": 4,
-      "url": "https://www.theguardian.com/books/2026/may/02/one-of-the-most-profound-encounters-of-my-life-could-existential-therapist-emmy-van-deurzen-change-the-way-you-think",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Administration Orders Rapid End",
-      "count": 45,
-      "url": "https://www.nytimes.com/2026/05/04/climate/hunting-federal-lands-burgum.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/05/04/well/abortion-pill-mifepristone-supreme-court-louisiana.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The White House",
-      "count": 15,
-      "url": "https://www.theguardian.com/fashion/2026/apr/29/frock-hard-place-why-the-furore-over-black-tie-dress",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Amazon     Continue",
-      "count": 10,
-      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 10,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The California Congressional District",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Cbs News",
-      "count": 10,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-05-01/anthony-mason-cbs-news-youtube-music",
-      "source": "LA Times"
-    },
-    {
-      "name": "The L.A. City Council",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Gop",
-      "count": 8,
-      "url": "https://www.washingtonpost.com/nation/2026/05/04/idaho-dairy-farmers-immigration-zuiderveld/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "United Airlines",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/may/04/united-airlines-plane-newark-airport",
+      "url": "https://www.theguardian.com/football/2026/may/04/everton-manchester-city-premier-league-match-report",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The Iran War",
+      "name": "The World Cup",
       "count": 4,
-      "url": "https://thehill.com/homenews/administration/5862570-iran-war-trump-south-korea/",
-      "source": "The Hill"
+      "url": "https://www.npr.org/2026/05/04/nx-s1-5810626/world-cup-hotels-tourism-bookings-visitors",
+      "source": "NPR"
     },
     {
-      "name": "’S World Cup",
+      "name": "Mexico Olympics",
       "count": 3,
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/people-in-the-us-how-do-you-get-around-without-a-car",
+      "url": "https://www.theguardian.com/world/2026/may/05/the-man-who-blew-up-a-nuclear-power-station-koeberg-south-africa",
       "source": "The Guardian"
     },
     {
-      "name": "Paris Olympics",
-      "count": 3,
-      "url": "https://www.latimes.com/sports/story/2026-05-04/brittany-brown-mural-paris-olympics-track-claremont",
-      "source": "LA Times"
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/05/04/us/politics/trump-economy-iran-war.html",
+      "source": "NY Times"
     },
     {
-      "name": "’S Met Gala",
-      "count": 1,
-      "url": "https://www.theguardian.com/fashion/video/2026/may/04/why-the-bezos-backed-met-gala-is-so-controversial-the-latest",
-      "source": "The Guardian"
+      "name": "Chili Bowl",
+      "count": 2,
+      "url": "https://www.cbsnews.com/video/bens-chili-bowl-reopens-in-washington-dc/",
+      "source": "CBS News"
     },
     {
       "name": "Game 4",
@@ -248,5 +124,129 @@
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-05-04T20:20:26Z"
+  "ORG": [
+    {
+      "name": "Trump Tries To Downplay Economic Effects",
+      "count": 40,
+      "url": "https://www.nytimes.com/2026/05/04/us/politics/trump-economy-iran-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Gop",
+      "count": 10,
+      "url": "https://www.washingtonpost.com/nation/2026/05/04/idaho-dairy-farmers-immigration-zuiderveld/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The California Congressional District",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Supreme Court Agrees",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/05/04/us/politics/supreme-court-louisiana-voting-rights-act.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/politics/2026/05/03/voting-rights-act-louisiana-black-candidates/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Breaking News",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/may/04/judge-cole-allen-treatment-suspect-trump-assassination-attempt",
+      "source": "The Guardian"
+    },
+    {
+      "name": "United Airlines",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/may/04/united-airlines-plane-newark-airport",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The L.A. City Council",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Cbs News Radio",
+      "count": 9,
+      "url": "https://www.cbsnews.com/video/cbs-news-radio-flashback-babe-ruth-signs-autographs/",
+      "source": "CBS News"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 30,
+      "url": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Blake Lively",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/05/04/movies/blake-lively-justin-baldoni-settlement.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Justin Baldoni",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/05/04/movies/blake-lively-justin-baldoni-settlement.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Hormuz",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Anna Wintour",
+      "count": 8,
+      "url": "https://www.theguardian.com/fashion/gallery/2026/may/05/met-gala-2026-red-carpet",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Karen Bass",
+      "count": 8,
+      "url": "https://www.latimes.com/california/story/2026-05-04/former-vice-president-kamala-harris-endorses-la-mayor-karen-bass-reelection",
+      "source": "LA Times"
+    },
+    {
+      "name": "Anne Hathaway",
+      "count": 7,
+      "url": "https://www.theguardian.com/film/2026/may/04/devil-wears-prada-2-spoilers",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/may/04/zohran-mamdani-ice-police-protesters-clash-brooklyn",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Elon Musk",
+      "count": 6,
+      "url": "https://www.theguardian.com/technology/2026/may/04/elon-musk-sec-twitter-x-lawsuit-fine",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nicole Kidman",
+      "count": 5,
+      "url": "https://www.theguardian.com/fashion/gallery/2026/may/05/met-gala-2026-red-carpet",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-05-05T04:18:40Z"
 };
