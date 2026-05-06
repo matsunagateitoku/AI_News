@@ -3,26 +3,38 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 54,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court",
+      "count": 55,
+      "url": "https://www.theguardian.com/us-news/2026/may/05/van-life-quartzsite-arizona",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ohio",
+      "count": 39,
+      "url": "https://www.theguardian.com/us-news/2026/may/04/haiti-republicans-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 36,
+      "url": "https://www.theguardian.com/technology/2026/may/05/apple-siri-ai-settlement",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 34,
+      "count": 33,
       "url": "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html",
       "source": "NY Times"
     },
     {
-      "name": "California",
-      "count": 30,
-      "url": "https://www.nytimes.com/2026/05/05/us/tom-steyer-california-governor-coal.html",
-      "source": "NY Times"
+      "name": "Indiana",
+      "count": 33,
+      "url": "https://www.theguardian.com/us-news/2026/may/05/indiana-republicans-donald-trump",
+      "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/05/05/technology/coinbase-layoffs-ai.html",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/05/05/arts/design/venice-biennale-flashpoints-explainer-opening.html",
       "source": "NY Times"
     },
     {
@@ -32,165 +44,41 @@
       "source": "LA Times"
     },
     {
-      "name": "Ohio",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/05/05/us/politics/ohio-senate-jeffrey-epstein-john-husted-sherrod-brown.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Indiana",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/05/05/us/indiana-legistature-election-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Louisiana",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/may/04/supreme-court-expedites-voting-rights-act-ruling",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Germany",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
       "name": "New York City’S",
-      "count": 8,
+      "count": 12,
       "url": "https://www.theguardian.com/wellness/2026/may/05/medical-pedicure-treatment-feet-care",
       "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Administration Investigating",
-      "count": 43,
-      "url": "https://www.nytimes.com/2026/05/05/us/politics/smith-college-transgender-admissions.html",
-      "source": "NY Times"
     },
     {
-      "name": "The White House",
-      "count": 22,
-      "url": "https://www.foxnews.com/us/faa-employee-charged-allegedly-threatening-kill-president-trump-email-white-house",
-      "source": "Fox News"
-    },
-    {
-      "name": "Ai",
-      "count": 17,
-      "url": "https://www.theguardian.com/world/2026/may/05/giorgia-meloni-ai-generated-lingerie-image-deepfake",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian Faber Publishing",
-      "count": 15,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Amazon     Continue",
-      "count": 11,
-      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The California Congressional District",
+      "name": "Uk",
       "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Gop",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/nation/2026/05/04/idaho-dairy-farmers-immigration-zuiderveld/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/05/abortion-pills-women",
+      "url": "https://www.theguardian.com/artanddesign/2026/may/06/lydia-ourahmane-venice-pier-bedlinen",
       "source": "The Guardian"
     },
     {
-      "name": "The Filter Us",
-      "count": 9,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The L.A. City Council",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
-      "source": "LA Times"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 30,
-      "url": "https://www.theguardian.com/us-news/live/2026/may/05/donald-trump-iran-ohio-primary-vivek-ramaswamy-casey-putsch-marco-rubio-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pete Hegseth",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/may/05/us-iran-truce-teeters-on-meltdown-as-stalemate-takes-toll-on-each-side",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Marco Rubio",
-      "count": 9,
-      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Tony Awards Nominations 2026",
+      "name": "Ukraine",
       "count": 8,
-      "url": "https://www.nytimes.com/2026/05/05/theater/tony-awards-nominations.html",
+      "url": "https://www.nytimes.com/2026/05/05/arts/design/russia-ukraine-venice-biennale.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Blake Lively",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jeff Bezos",
-      "count": 7,
-      "url": "https://www.theguardian.com/fashion/2026/may/05/body-masterpiece-nipples-skeletons-tattoos-record-breaking-met-gala-beyonce-kardashians",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Elon Musk",
-      "count": 6,
-      "url": "https://www.washingtonpost.com/technology/2026/05/04/elon-musk-sec-settlement/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Justin Baldoni",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hormuz",
-      "count": 6,
-      "url": "https://www.theguardian.com/world/2026/may/05/us-iran-truce-teeters-on-meltdown-as-stalemate-takes-toll-on-each-side",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Lauren Sánchez Bezos",
-      "count": 5,
-      "url": "https://www.theguardian.com/fashion/2026/may/05/body-masterpiece-nipples-skeletons-tattoos-record-breaking-met-gala-beyonce-kardashians",
-      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 4,
+      "count": 6,
       "url": "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The World Cup",
+      "count": 4,
+      "url": "https://www.latimes.com/sports/soccer/story/2026-05-05/la-unveils-details-about-its-world-cup-fan-zones",
+      "source": "LA Times"
+    },
+    {
+      "name": "Olympics",
+      "count": 3,
+      "url": "https://www.nytimes.com/2026/05/05/arts/design/venice-biennale-flashpoints-explainer-opening.html",
       "source": "NY Times"
     },
     {
@@ -200,28 +88,28 @@
       "source": "The Guardian"
     },
     {
-      "name": "Game 1",
-      "count": 3,
-      "url": "https://www.theguardian.com/sport/2026/may/05/edwards-helps-timberwolves-to-win-over-spurs-despite-wembanyamas-playoff-record",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mexico Olympics",
+      "name": "La 2028 Olympics'",
       "count": 2,
-      "url": "https://www.theguardian.com/world/2026/may/05/the-man-who-blew-up-a-nuclear-power-station-koeberg-south-africa",
-      "source": "The Guardian"
-    },
-    {
-      "name": "World Cup",
-      "count": 2,
-      "url": "https://www.latimes.com/food/story/2026-05-04/world-cup-games-watch-pub-bar-los-angeles",
-      "source": "LA Times"
+      "url": "https://www.foxnews.com/media/la-2028-olympics-safety-plan-relies-much-police-homeland-security-left-wing-activists-say",
+      "source": "Fox News"
     },
     {
       "name": "World War Ii",
       "count": 2,
-      "url": "https://www.cbsnews.com/video/us-debt-exceeds-countrys-gdp-for-first-time-since-world-war-ii/",
+      "url": "https://www.cbsnews.com/video/why-us-debt-surpassed-gdp-since-wwii/",
       "source": "CBS News"
+    },
+    {
+      "name": "Watergate",
+      "count": 1,
+      "url": "https://www.theguardian.com/culture/2026/may/05/parallax-view-warren-beatty-film-rewatch",
+      "source": "The Guardian"
+    },
+    {
+      "name": "European Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/may/05/arsenal-atletico-madrid-champions-league-semi-final-second-leg-match-report",
+      "source": "The Guardian"
     },
     {
       "name": "The Italian Open",
@@ -234,19 +122,131 @@
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/may/05/golf-jon-rahm-dp-world-tour-agreement-ryder-cup-liv",
       "source": "The Guardian"
-    },
+    }
+  ],
+  "PERSON": [
     {
-      "name": "New Year’S Eve",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/may/05/trial-suspect-palisades-fire-los-angeles",
+      "name": "Donald Trump",
+      "count": 25,
+      "url": "https://www.theguardian.com/world/2026/may/06/trump-project-freedom-strait-of-hormuz-ships-iran-ceasefire",
       "source": "The Guardian"
     },
     {
-      "name": "Watergate",
-      "count": 1,
-      "url": "https://www.theguardian.com/culture/2026/may/05/parallax-view-warren-beatty-film-rewatch",
+      "name": "Marco Rubio",
+      "count": 12,
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Sherrod Brown",
+      "count": 10,
+      "url": "https://www.foxnews.com/politics/brown-secures-ohio-democrat-nomination-faces-gops-husted-key-battle-senate-majority",
+      "source": "Fox News"
+    },
+    {
+      "name": "Tony Thurmond",
+      "count": 7,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-state-superintendent-public-instruction-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Vivek Ramaswamy",
+      "count": 7,
+      "url": "https://www.npr.org/2026/05/05/nx-s1-5812914/ramaswamy-trump-ohio-governor",
+      "source": "NPR"
+    },
+    {
+      "name": "Jeff Bezos",
+      "count": 6,
+      "url": "https://www.theguardian.com/fashion/2026/may/05/body-masterpiece-nipples-skeletons-tattoos-record-breaking-met-gala-beyonce-kardashians",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Blake Lively",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Amy Acton",
+      "count": 6,
+      "url": "https://www.npr.org/2026/05/05/nx-s1-5812914/ramaswamy-trump-ohio-governor",
+      "source": "NPR"
+    },
+    {
+      "name": "Derek Merrin",
+      "count": 6,
+      "url": "https://www.cbsnews.com/news/ohio-9th-district-republican-primary-results-derek-merrin-marcy-kaptur/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Elon Musk",
+      "count": 6,
+      "url": "https://www.washingtonpost.com/technology/2026/05/04/elon-musk-sec-settlement/",
+      "source": "Washington Post"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Gets Payback",
+      "count": 57,
+      "url": "https://www.nytimes.com/2026/05/05/us/politics/trump-indiana-takeaways.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Kentucky Senate",
+      "count": 30,
+      "url": "https://www.politico.com/news/2026/05/01/trump-kentucky-senate-andy-barr-00903719",
+      "source": "Politico"
+    },
+    {
+      "name": "Gop",
+      "count": 29,
+      "url": "https://www.washingtonpost.com/nation/2026/05/04/idaho-dairy-farmers-immigration-zuiderveld/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "The White House",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Guardian Faber Publishing",
+      "count": 15,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 13,
+      "url": "https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Amazon     Continue",
+      "count": 11,
+      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nbc News",
+      "count": 11,
+      "url": "https://www.cbsnews.com/video/johnny-olszewski-bill-18-year-supreme-court-term-limits/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The California Congressional District",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 9,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-05-05T20:11:44Z"
+  "updated": "2026-05-06T04:35:57Z"
 };

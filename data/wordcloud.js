@@ -2,73 +2,88 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    83,
-    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html"
+    93,
+    "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html"
   ],
   [
     "race",
-    67,
-    "https://www.nytimes.com/2026/05/05/us/tom-steyer-california-governor-coal.html"
+    78,
+    "https://www.nytimes.com/2026/05/05/nyregion/james-wilson-nypd-mamdani-democrats.html"
   ],
   [
     "guide",
     56,
-    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-strait-hormuz-plan-project-freedom-iran.html"
-  ],
-  [
-    "california",
-    40,
-    "https://www.nytimes.com/2026/05/05/us/usc-ai-200-million-donation.html"
-  ],
-  [
-    "iran",
-    38,
-    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html"
+    "https://www.theguardian.com/world/2026/may/06/trump-project-freedom-strait-of-hormuz-ships-iran-ceasefire"
   ],
   [
     "district",
-    38,
-    "https://www.theguardian.com/us-news/live/2026/may/05/donald-trump-iran-ohio-primary-vivek-ramaswamy-casey-putsch-marco-rubio-latest-news-updates"
+    54,
+    "https://www.theguardian.com/us-news/2026/may/05/fulton-county-election-workers-us-attorney-subpoena"
   ],
   [
-    "court",
-    34,
-    "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court"
+    "primary",
+    47,
+    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
+  ],
+  [
+    "california",
+    43,
+    "https://www.theguardian.com/technology/2026/may/05/apple-siri-ai-settlement"
+  ],
+  [
+    "iran",
+    41,
+    "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html"
+  ],
+  [
+    "ohio",
+    41,
+    "https://www.theguardian.com/us-news/2026/may/04/haiti-republicans-trump"
+  ],
+  [
+    "election",
+    38,
+    "https://www.theguardian.com/world/2026/may/05/jonathan-pollard-israel-gaza-ethnic-cleansing"
+  ],
+  [
+    "indiana",
+    36,
+    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
+  ],
+  [
+    "senate",
+    33,
+    "https://www.theguardian.com/us-news/2026/may/05/indiana-republicans-donald-trump"
+  ],
+  [
+    "war",
+    32,
+    "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html"
+  ],
+  [
+    "republican",
+    32,
+    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
   ],
   [
     "president",
-    32,
-    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html"
-  ],
-  [
-    "health",
     30,
-    "https://www.nytimes.com/2026/05/05/us/usc-ai-200-million-donation.html"
+    "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html"
   ],
   [
-    "political",
-    29,
-    "https://www.nytimes.com/2026/05/05/us/indiana-legistature-election-trump.html"
-  ],
-  [
-    "met",
+    "gop",
     28,
+    "https://www.washingtonpost.com/nation/2026/05/04/idaho-dairy-farmers-immigration-zuiderveld/"
+  ],
+  [
+    "fashion",
+    26,
     "https://www.nytimes.com/2026/05/05/style/fashion-art-met-gala.html"
   ],
   [
     "game",
-    28,
-    "https://www.theguardian.com/commentisfree/2026/may/05/game-changer-good-health-scientists-we-are-when-we-eat"
-  ],
-  [
-    "war",
-    27,
-    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html"
-  ],
-  [
-    "gala",
     26,
-    "https://www.nytimes.com/2026/05/05/style/fashion-art-met-gala.html"
+    "https://www.theguardian.com/commentisfree/2026/may/05/game-changer-good-health-scientists-we-are-when-we-eat"
   ],
   [
     "rice",
@@ -81,159 +96,189 @@
     "https://www.washingtonpost.com/education/2026/05/05/smith-college-investigation-transgender/"
   ],
   [
-    "election",
-    24,
-    "https://www.nytimes.com/2026/05/05/us/politics/ohio-senate-jeffrey-epstein-john-husted-sherrod-brown.html"
-  ],
-  [
-    "fashion",
+    "met",
     24,
     "https://www.nytimes.com/2026/05/05/style/fashion-art-met-gala.html"
+  ],
+  [
+    "health",
+    24,
+    "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html"
+  ],
+  [
+    "political",
+    23,
+    "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html"
+  ],
+  [
+    "challengers",
+    23,
+    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
+  ],
+  [
+    "won",
+    23,
+    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
   ],
   [
     "republicans",
     23,
-    "https://www.theguardian.com/us-news/live/2026/may/05/donald-trump-iran-ohio-primary-vivek-ramaswamy-casey-putsch-marco-rubio-latest-news-updates"
+    "https://www.nytimes.com/2026/05/05/us/politics/trump-indiana-takeaways.html"
   ],
   [
-    "strait",
-    22,
-    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-strait-hormuz-plan-project-freedom-iran.html"
-  ],
-  [
-    "hormuz",
-    21,
-    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-strait-hormuz-plan-project-freedom-iran.html"
-  ],
-  [
-    "incumbent",
-    21,
-    "https://www.nytimes.com/2026/05/05/us/politics/ohio-senate-jeffrey-epstein-john-husted-sherrod-brown.html"
-  ],
-  [
-    "american",
-    21,
-    "https://www.theguardian.com/us-news/2026/may/05/new-orleans-street-light-initiative"
-  ],
-  [
-    "county",
-    20,
-    "https://www.theguardian.com/us-news/2026/may/05/animals-rescued-california-sanctuary"
-  ],
-  [
-    "congressional",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/may/05/the-guardian-view-on-the-us-supreme-court-its-judgments-have-slowly-erased-voting-rights"
-  ],
-  [
-    "art",
-    19,
-    "https://www.nytimes.com/2026/05/05/arts/television/stephen-colbert-the-late-show-carson-letterman-leno.html"
-  ],
-  [
-    "because",
-    19,
-    "https://www.nytimes.com/2026/05/05/technology/coinbase-layoffs-ai.html"
-  ],
-  [
-    "legal",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court"
-  ],
-  [
-    "death",
-    19,
-    "https://www.theguardian.com/world/2026/may/05/jailed-iranian-nobel-prize-winner-narges-mohammadi-between-life-and-death"
-  ],
-  [
-    "secretary",
-    18,
-    "https://www.nytimes.com/2026/05/05/well/meatstock-carnivore-diet-rfk-jr.html"
-  ],
-  [
-    "country",
-    18,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "mother",
-    18,
-    "https://www.theguardian.com/books/ng-interactive/2026/may/05/harriet-clark-the-hill-book-prison"
-  ],
-  [
-    "primary",
-    17,
-    "https://www.nytimes.com/2026/05/05/us/indiana-legistature-election-trump.html"
-  ],
-  [
-    "candidates",
-    17,
-    "https://www.nytimes.com/video/us/politics/100000010873895/president-trump-seeks-retribution-in-republican-primaries.html"
-  ],
-  [
-    "bezos",
-    17,
-    "https://www.theguardian.com/fashion/2026/may/05/body-masterpiece-nipples-skeletons-tattoos-record-breaking-met-gala-beyonce-kardashians"
-  ],
-  [
-    "rights",
-    16,
-    "https://www.nytimes.com/2026/05/05/us/politics/smith-college-transgender-admissions.html"
-  ],
-  [
-    "power",
-    16,
-    "https://www.nytimes.com/2026/05/05/us/indiana-legistature-election-trump.html"
-  ],
-  [
-    "republican",
-    16,
-    "https://www.nytimes.com/2026/05/05/us/indiana-legistature-election-trump.html"
-  ],
-  [
-    "attacks",
-    16,
-    "https://www.nytimes.com/2026/05/05/us/politics/ohio-senate-jeffrey-epstein-john-husted-sherrod-brown.html"
-  ],
-  [
-    "night",
-    16,
+    "gala",
+    23,
     "https://www.nytimes.com/2026/05/05/style/fashion-art-met-gala.html"
   ],
   [
-    "media",
-    16,
-    "https://www.nytimes.com/2026/05/05/business/media/james-murdoch-vox-media.html"
+    "court",
+    23,
+    "https://www.nytimes.com/2026/05/05/world/canada/canada-louis-arbour-governor-general.html"
   ],
   [
-    "challengers",
-    16,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
+    "county",
+    23,
+    "https://www.theguardian.com/us-news/2026/may/05/fulton-county-election-workers-us-attorney-subpoena"
   ],
   [
-    "democrats",
-    15,
-    "https://www.nytimes.com/2026/05/05/us/politics/ohio-senate-jeffrey-epstein-john-husted-sherrod-brown.html"
+    "incumbent",
+    23,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "jeff",
-    15,
-    "https://www.theguardian.com/fashion/2026/may/05/body-masterpiece-nipples-skeletons-tattoos-record-breaking-met-gala-beyonce-kardashians"
+    "art",
+    22,
+    "https://www.nytimes.com/2026/05/05/arts/venice-biennale-photos-video.html"
   ],
   [
-    "book",
-    15,
+    "night",
+    21,
+    "https://www.nytimes.com/2026/05/05/style/fashion-art-met-gala.html"
+  ],
+  [
+    "mother",
+    21,
+    "https://www.nytimes.com/2026/05/05/nyregion/inwood-fire-victims-people-magazine-journalist.html"
+  ],
+  [
+    "congressional",
+    21,
+    "https://www.theguardian.com/us-news/2026/may/05/indiana-republicans-donald-trump"
+  ],
+  [
+    "candidates",
+    20,
+    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
+  ],
+  [
+    "food",
+    20,
+    "https://www.theguardian.com/us-news/2026/may/05/covid-shingles-vaccines-studies-fda"
+  ],
+  [
+    "police",
+    19,
+    "https://www.nytimes.com/2026/05/05/nyregion/nyc-synagogue-protests-israel-real-estate.html"
+  ],
+  [
+    "governor",
+    19,
+    "https://www.nytimes.com/2026/05/05/world/canada/canada-louis-arbour-governor-general.html"
+  ],
+  [
+    "country",
+    19,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "democrat",
+    18,
+    "https://www.nytimes.com/2026/05/05/opinion/jake-auchincloss-democrat-massachusetts.html"
+  ],
+  [
+    "democratic",
+    18,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-40-orange-county-inland-empire-voter-guide"
+  ],
+  [
+    "american",
+    17,
+    "https://www.nytimes.com/2026/05/05/opinion/trump-xi-summit-ai-global-threats.html"
+  ],
+  [
+    "york",
+    17,
+    "https://www.washingtonpost.com/nation/2026/05/04/giuliani-hospitalized-pneumonia/"
+  ],
+  [
+    "legal",
+    17,
     "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court"
   ],
   [
-    "donald",
-    15,
-    "https://www.theguardian.com/us-news/live/2026/may/05/donald-trump-iran-ohio-primary-vivek-ramaswamy-casey-putsch-marco-rubio-latest-news-updates"
+    "wins",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/05/indiana-republicans-donald-trump"
   ],
   [
-    "prices",
+    "because",
+    17,
+    "https://www.theguardian.com/world/2026/may/06/if-he-didnt-do-it-who-did-fresh-doubts-over-2007-case-that-gripped-italy"
+  ],
+  [
+    "death",
+    16,
+    "https://www.nytimes.com/2026/05/05/arts/design/venice-biennale-flashpoints-explainer-opening.html"
+  ],
+  [
+    "cruise",
+    16,
+    "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html"
+  ],
+  [
+    "hantavirus",
+    16,
+    "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html"
+  ],
+  [
+    "project",
+    16,
+    "https://www.theguardian.com/world/2026/may/06/trump-project-freedom-strait-of-hormuz-ships-iran-ceasefire"
+  ],
+  [
+    "event",
     15,
-    "https://www.theguardian.com/business/2026/may/05/airline-seats-cut-jet-fuel-prices"
+    "https://www.nytimes.com/2026/05/05/arts/venice-biennale-photos-video.html"
+  ],
+  [
+    "million",
+    15,
+    "https://www.nytimes.com/2026/05/05/technology/apple-intelligence-lawsuit-settlement.html"
+  ],
+  [
+    "killed",
+    15,
+    "https://www.nytimes.com/2026/05/05/world/europe/russia-ukraine-zaporizhzhia-attacks.html"
+  ],
+  [
+    "media",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/05/van-life-quartzsite-arizona"
+  ],
+  [
+    "brown",
+    15,
+    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
+  ],
+  [
+    "rubio",
+    14,
+    "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html"
+  ],
+  [
+    "crisis",
+    14,
+    "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html"
   ],
   [
     "trying",
@@ -241,44 +286,54 @@
     "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html"
   ],
   [
-    "million",
+    "backed",
     14,
-    "https://www.nytimes.com/2026/05/05/us/usc-ai-200-million-donation.html"
+    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
   ],
   [
-    "cruise",
+    "races",
     14,
-    "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html"
+    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
   ],
   [
-    "hantavirus",
+    "democrats",
     14,
-    "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html"
+    "https://www.nytimes.com/2026/05/05/nyregion/james-wilson-nypd-mamdani-democrats.html"
   ],
   [
-    "crisis",
+    "case",
     14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.washingtonpost.com/technology/2026/05/04/elon-musk-sec-settlement/"
   ],
   [
-    "return",
+    "don",
     14,
-    "https://www.theguardian.com/wellness/2026/may/05/medical-pedicure-treatment-feet-care"
+    "https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/"
   ],
   [
-    "food",
+    "early",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/05/game-changer-good-health-scientists-we-are-when-we-eat"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "term",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "released",
+    14,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "secretary",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "games",
     14,
-    "https://www.theguardian.com/sport/2026/may/05/enhanced-games-doping-performance-enhancing-drugs-questions"
-  ],
-  [
-    "young",
-    14,
-    "https://www.theguardian.com/world/2026/may/05/expert-brands-rescue-of-timmy-the-whale-an-all-round-catastrophe-over-deficient-tracker"
+    "https://www.theguardian.com/football/2026/may/05/arsenal-atletico-madrid-champions-league-semi-final-second-leg-match-report"
   ],
   [
     "cooker",
@@ -286,69 +341,24 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "replace",
+    "rep",
     14,
-    "https://www.latimes.com/california/story/2024-08-09/california-governor-2026-candidates-newsom-atkins-kounalakis-thurmond-villaraigosa-yee"
+    "https://www.foxnews.com/media/scalise-urges-pritzker-look-man-mirror-after-he-blames-trump-political-violence"
   ],
   [
-    "council",
-    14,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide"
-  ],
-  [
-    "project",
+    "redistricting",
     13,
-    "https://www.nytimes.com/2026/05/05/world/middleeast/trump-strait-hormuz-plan-project-freedom-iran.html"
+    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
   ],
   [
-    "administration",
+    "accused",
     13,
-    "https://www.nytimes.com/2026/05/05/us/politics/smith-college-transgender-admissions.html"
+    "https://www.nytimes.com/2026/05/05/us/politics/secret-service-shooting-gunman-identified.html"
   ],
   [
-    "ohio",
+    "global",
     13,
-    "https://www.nytimes.com/2026/05/05/us/politics/ohio-senate-jeffrey-epstein-john-husted-sherrod-brown.html"
-  ],
-  [
-    "late",
-    13,
-    "https://www.nytimes.com/2026/05/05/arts/television/stephen-colbert-the-late-show-carson-letterman-leno.html"
-  ],
-  [
-    "company",
-    13,
-    "https://www.nytimes.com/2026/05/05/business/media/james-murdoch-vox-media.html"
-  ],
-  [
-    "york",
-    13,
-    "https://www.nytimes.com/2026/05/05/nyregion/roth-mamdani-griffin-rich.html"
-  ],
-  [
-    "lost",
-    13,
-    "https://www.nytimes.com/2026/05/05/theater/2026-tony-nominations.html"
-  ],
-  [
-    "tony",
-    13,
-    "https://www.nytimes.com/2026/05/05/theater/2026-tony-nominations.html"
-  ],
-  [
-    "film",
-    13,
-    "https://www.nytimes.com/2026/05/05/theater/2026-tony-nominations.html"
-  ],
-  [
-    "ship",
-    13,
-    "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html"
-  ],
-  [
-    "don",
-    13,
-    "https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/"
+    "https://www.nytimes.com/2026/05/05/opinion/trump-xi-summit-ai-global-threats.html"
   ],
   [
     "start",
@@ -356,23 +366,13 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "fire",
+    "freedom",
     13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/us-news/2026/may/05/van-life-quartzsite-arizona"
   ],
   [
-    "always",
+    "bezos",
     13,
-    "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court"
-  ],
-  [
-    "iranian",
-    13,
-    "https://www.theguardian.com/world/2026/may/05/us-iran-truce-teeters-on-meltdown-as-stalemate-takes-toll-on-each-side"
-  ],
-  [
-    "supreme",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/may/05/donald-trump-iran-ohio-primary-vivek-ramaswamy-casey-putsch-marco-rubio-latest-news-updates"
+    "https://www.theguardian.com/fashion/2026/may/05/body-masterpiece-nipples-skeletons-tattoos-record-breaking-met-gala-beyonce-kardashians"
   ]
 ];
