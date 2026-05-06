@@ -2,53 +2,48 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    82,
-    "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html"
+    70,
+    "https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html"
   ],
   [
     "race",
-    68,
-    "https://www.latimes.com/california/story/2026-05-05/top-takeaways-from-fiery-at-times-ugly-california-governor-debate"
+    69,
+    "https://www.nytimes.com/2026/05/06/us/california-governor-debate-newsletter.html"
+  ],
+  [
+    "california",
+    56,
+    "https://www.nytimes.com/2026/05/06/us/california-governor-debate-newsletter.html"
   ],
   [
     "guide",
     55,
-    "https://www.theguardian.com/thefilter-us/2026/may/04/best-home-organization-products-solutions"
+    "https://www.theguardian.com/thefilter-us/2026/may/06/best-tequilas"
   ],
   [
     "district",
-    50,
+    45,
     "https://www.nytimes.com/2026/05/06/us/gop-memphis-tennessee-house-map.html"
   ],
   [
     "president",
-    44,
-    "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html"
-  ],
-  [
-    "california",
-    44,
-    "https://www.theguardian.com/technology/2026/may/05/apple-siri-ai-settlement"
+    37,
+    "https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html"
   ],
   [
     "iran",
-    40,
-    "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html"
+    33,
+    "https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html"
   ],
   [
     "war",
-    32,
-    "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html"
+    28,
+    "https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html"
   ],
   [
     "media",
-    29,
-    "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html"
-  ],
-  [
-    "primary",
     27,
-    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
+    "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html"
   ],
   [
     "rice",
@@ -56,24 +51,24 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "cnn",
+    "faces",
     25,
-    "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html"
+    "https://www.nytimes.com/2026/05/06/us/politics/secret-service-agents-shooting-national-mall.html"
   ],
   [
     "election",
-    23,
-    "https://www.nytimes.com/2026/05/06/world/europe/leo-first-american-pope.html"
+    25,
+    "https://www.theguardian.com/us-news/2026/may/06/repbulicans-loyal-trump-indiana-primary-election"
   ],
   [
     "cruise",
-    23,
+    24,
     "https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html"
   ],
   [
-    "turner",
+    "democratic",
     22,
-    "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html"
+    "https://www.nytimes.com/2026/05/06/us/gop-memphis-tennessee-house-map.html"
   ],
   [
     "hantavirus",
@@ -81,179 +76,194 @@
     "https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html"
   ],
   [
-    "incumbent",
+    "game",
     22,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
+    "https://www.theguardian.com/film/2026/may/06/mortal-kombat-ii-review-film"
   ],
   [
-    "challengers",
+    "ship",
     21,
-    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
+    "https://www.nytimes.com/2026/05/06/business/french-ship-hormuz-central-command.html"
+  ],
+  [
+    "film",
+    21,
+    "https://www.theguardian.com/film/2026/may/06/flogging-a-wooden-horse-how-faithful-will-christopher-nolans-odyssey-be"
   ],
   [
     "republican",
     21,
-    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
+    "https://www.theguardian.com/technology/2026/may/06/tiktok-pro-republican-algorithm-2024-election"
   ],
   [
-    "faces",
+    "incumbent",
     21,
-    "https://www.nytimes.com/2026/05/06/business/economy/howard-lutnick-jeffrey-epstein-house-oversight.html"
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "case",
+    "cnn",
     20,
-    "https://www.nytimes.com/2026/05/06/us/politics/buckley-case-supreme-court-billionaires.html"
+    "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html"
   ],
   [
-    "republicans",
+    "mother",
+    20,
+    "https://www.theguardian.com/technology/2026/may/06/shivon-zilis-testimony-elon-musk-openai-lawsuit"
+  ],
+  [
+    "don",
     19,
-    "https://www.nytimes.com/2026/05/05/us/politics/trump-indiana-takeaways.html"
+    "https://www.theguardian.com/media/ng-interactive/2026/may/06/how-to-survive-the-information-crisis-we-once-talked-about-fake-news-now-reality-itself-feels-fake"
   ],
   [
-    "senate",
-    19,
-    "https://www.theguardian.com/us-news/2026/may/05/indiana-republicans-donald-trump"
-  ],
-  [
-    "health",
-    19,
-    "https://www.theguardian.com/world/2026/may/06/cruise-ship-hantavirus-strain-andes-spread-humans-south-africa"
-  ],
-  [
-    "fashion",
-    19,
-    "https://www.theguardian.com/film/2026/may/05/jeff-bezos-real-villain-the-devil-wears-prada-2"
-  ],
-  [
-    "game",
-    19,
-    "https://www.theguardian.com/sport/2026/may/06/jordan-lucas-volleyball-celebrations"
-  ],
-  [
-    "gop",
-    19,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
-  ],
-  [
-    "political",
-    18,
-    "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html"
-  ],
-  [
-    "candidates",
-    18,
-    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
-  ],
-  [
-    "ted",
+    "turner",
     18,
     "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html"
   ],
   [
-    "don",
+    "candidates",
     18,
-    "https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/"
+    "https://www.nytimes.com/2026/05/06/us/california-governor-debate-newsletter.html"
   ],
   [
-    "congressional",
+    "country",
     18,
-    "https://www.theguardian.com/us-news/2026/may/05/indiana-republicans-donald-trump"
+    "https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html"
   ],
   [
-    "mother",
+    "because",
     18,
-    "https://www.theguardian.com/us-news/2026/may/06/florida-infant-born-twice"
+    "https://www.theguardian.com/wellness/2026/may/06/ai-fitness-health-programs"
+  ],
+  [
+    "health",
+    18,
+    "https://www.theguardian.com/sport/2026/may/06/emma-raducanu-french-open-tennis"
   ],
   [
     "county",
     18,
-    "https://www.latimes.com/california/story/2026-05-05/grenade-kills-3-la-sheriffs-detectives-d-a-considers-charges"
+    "https://www.latimes.com/california/story/2026-05-06/kristin-smart-search-resumes-slo-county"
   ],
   [
-    "crisis",
+    "ted",
     17,
-    "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html"
+    "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html"
   ],
   [
-    "won",
+    "york",
     17,
-    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
+    "https://www.nytimes.com/2026/05/06/us/california-governor-debate-newsletter.html"
   ],
   [
-    "democratic",
+    "primary",
     17,
+    "https://www.theguardian.com/us-news/2026/may/06/repbulicans-loyal-trump-indiana-primary-election"
+  ],
+  [
+    "dies",
+    16,
+    "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html"
+  ],
+  [
+    "met",
+    16,
+    "https://www.nytimes.com/2026/05/06/business/media/ted-turner-death-cnn-media-reaction.html"
+  ],
+  [
+    "congressional",
+    16,
     "https://www.nytimes.com/2026/05/06/us/gop-memphis-tennessee-house-map.html"
   ],
   [
-    "american",
-    17,
-    "https://www.nytimes.com/2026/05/06/world/europe/leo-first-american-pope.html"
+    "democrats",
+    16,
+    "https://www.nytimes.com/2026/05/06/us/obama-colbert-interview-trump.html"
   ],
   [
-    "ship",
-    17,
-    "https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html"
+    "million",
+    16,
+    "https://www.washingtonpost.com/technology/2026/05/04/elon-musk-sec-settlement/"
   ],
   [
-    "film",
-    17,
-    "https://www.theguardian.com/film/2026/may/06/flogging-a-wooden-horse-how-faithful-will-christopher-nolans-odyssey-be"
+    "fire",
+    16,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "court",
     16,
-    "https://www.nytimes.com/2026/05/06/us/politics/buckley-case-supreme-court-billionaires.html"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/06/jeffrey-epstein-leon-black"
   ],
   [
-    "cup",
+    "won",
     16,
-    "https://www.nytimes.com/2026/05/06/world/americas/2026-world-cup-ticket-prices-argentina.html"
+    "https://www.theguardian.com/us-news/2026/may/06/repbulicans-loyal-trump-indiana-primary-election"
   ],
   [
-    "project",
+    "challengers",
     16,
-    "https://www.theguardian.com/culture/2026/may/06/hbcu-radio-preservation-project"
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "cbs",
-    16,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-05-01/anthony-mason-cbs-news-youtube-music"
-  ],
-  [
-    "fire",
+    "military",
     15,
-    "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html"
+    "https://www.nytimes.com/2026/05/06/business/french-ship-hormuz-central-command.html"
   ],
   [
-    "indiana",
+    "republicans",
     15,
-    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
+    "https://www.nytimes.com/2026/05/06/us/gop-memphis-tennessee-house-map.html"
   ],
   [
-    "country",
+    "black",
     15,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/05/06/us/gop-memphis-tennessee-house-map.html"
   ],
   [
-    "star",
+    "justice",
     15,
-    "https://www.theguardian.com/film/2026/may/06/we-laced-nicole-into-her-corset-and-her-rib-broke-again-moulin-rouge-at-25-an-oral-history-by-cast-and-crew"
+    "https://www.nytimes.com/2026/05/06/us/politics/doj-colorado-lawsuit-guns.html"
   ],
   [
-    "because",
+    "amazon",
     15,
-    "https://www.theguardian.com/commentisfree/2026/may/06/donald-trump-oil-coal-oligarchy-sanctions-war-environment-europe"
+    "https://www.nytimes.com/2026/05/06/climate/amazon-rain-forest-deforestation-climate.html"
   ],
   [
-    "book",
+    "case",
     15,
-    "https://www.theguardian.com/books/2026/may/06/martin-luther-king-jr-early-years-book"
+    "https://www.nytimes.com/2026/05/06/us/politics/louise-lucas-fbi-raid.html"
   ],
   [
-    "art",
+    "latest",
     15,
-    "https://www.theguardian.com/artanddesign/gallery/2026/may/06/princeton-art-photography-exhibition"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "american",
+    15,
+    "https://www.theguardian.com/environment/2026/may/06/american-cities-cars-public-transportation"
+  ],
+  [
+    "social",
+    15,
+    "https://www.theguardian.com/world/2026/may/06/donald-trump-iran-war-deal-us-bombing"
+  ],
+  [
+    "company",
+    15,
+    "https://www.theguardian.com/technology/2026/may/06/shivon-zilis-testimony-elon-musk-openai-lawsuit"
+  ],
+  [
+    "food",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/06/potato-chip-brands-link-to-salmonella-recall"
+  ],
+  [
+    "senate",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/06/michigan-senate-democratic-win-special-election"
   ],
   [
     "bond",
@@ -261,54 +271,59 @@
     "https://www.theguardian.com/games/2026/may/06/pushing-buttons-007-first-light-james-bond-game-amazon"
   ],
   [
-    "dies",
-    14,
-    "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html"
+    "fashion",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/may/03/devil-wears-prada-fashion-designer-resale"
   ],
   [
-    "police",
+    "oil",
     14,
-    "https://www.nytimes.com/2026/05/06/nyregion/china-agent-secret-police-trial.html"
+    "https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html"
   ],
   [
-    "york",
+    "death",
     14,
-    "https://www.washingtonpost.com/nation/2026/05/04/giuliani-hospitalized-pneumonia/"
+    "https://www.nytimes.com/2026/05/06/business/media/ted-turner-death-cnn-media-reaction.html"
   ],
   [
-    "sea",
+    "governor",
     14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/05/06/us/california-governor-debate-newsletter.html"
   ],
   [
-    "music",
+    "donald",
     14,
-    "https://www.theguardian.com/film/2026/may/06/we-laced-nicole-into-her-corset-and-her-rib-broke-again-moulin-rouge-at-25-an-oral-history-by-cast-and-crew"
+    "https://www.theguardian.com/world/2026/may/06/donald-trump-iran-war-deal-us-bombing"
   ],
   [
-    "cost",
+    "video",
     14,
-    "https://www.theguardian.com/business/2026/may/06/totally-grounded-how-the-jet-fuel-crisis-could-change-our-summer-holidays-and-world-history"
+    "https://www.theguardian.com/us-news/2026/may/06/looksmaxxing-clavicular-florida-alligator"
   ],
   [
-    "died",
+    "special",
     14,
-    "https://www.theguardian.com/us-news/2026/may/06/ted-turner-dead"
+    "https://www.theguardian.com/tv-and-radio/2026/may/06/the-bear-gary-ebon-moss-bachrach-jon-bernthal"
+  ],
+  [
+    "gala",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court"
+  ],
+  [
+    "political",
+    14,
+    "https://www.theguardian.com/world/2026/may/06/west-bengal-chief-minister-mamata-banerjee-refuses-to-resign-election-narendra-modi-india"
+  ],
+  [
+    "art",
+    14,
+    "https://www.theguardian.com/world/2026/may/06/pussy-riot-protest-at-venice-biennale-forces-russian-pavilion-to-briefly-close"
   ],
   [
     "young",
     14,
-    "https://www.theguardian.com/us-news/2026/may/06/sexual-consent-assault-online-tool"
-  ],
-  [
-    "company",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/may/06/nine-dollars-for-a-starbucks-is-an-affordable-luxury-ceos-need-to-wake-up-and-smell-the-coffee"
-  ],
-  [
-    "amazon",
-    14,
-    "https://www.theguardian.com/games/2026/may/06/pushing-buttons-007-first-light-james-bond-game-amazon"
+    "https://www.theguardian.com/artanddesign/2026/may/06/mexico-city-lucha-libre-wrestling-mask-pieter-henkets-best-photograph"
   ],
   [
     "cooker",
@@ -316,63 +331,48 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "democrats",
-    14,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
+    "prices",
+    13,
+    "https://www.nytimes.com/2026/05/06/business/economy/gas-prices-inequality-lower-income-consumers.html"
   ],
   [
-    "redistricting",
+    "others",
     13,
-    "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html"
+    "https://www.nytimes.com/2026/05/06/business/energy-environment/gasoline-prices-states-iran-war.html"
   ],
   [
-    "black",
+    "cost",
     13,
-    "https://www.nytimes.com/2026/05/06/us/gop-memphis-tennessee-house-map.html"
+    "https://www.nytimes.com/2026/05/06/business/energy-environment/gasoline-prices-states-iran-war.html"
   ],
   [
-    "power",
+    "voters",
     13,
-    "https://www.nytimes.com/2026/05/06/us/politics/buckley-case-supreme-court-billionaires.html"
+    "https://www.nytimes.com/2026/05/06/us/diana-dizoglio-audit-massachusetts-legislature.html"
   ],
   [
-    "isn",
+    "global",
     13,
-    "https://www.nytimes.com/2026/05/06/climate/weather-service-staff-storms.html"
+    "https://www.nytimes.com/2026/05/06/climate/amazon-rain-forest-deforestation-climate.html"
   ],
   [
-    "secretary",
+    "late",
     13,
-    "https://www.nytimes.com/2026/05/06/business/economy/howard-lutnick-jeffrey-epstein-house-oversight.html"
+    "https://www.washingtonpost.com/technology/2026/05/04/elon-musk-sec-settlement/"
   ],
   [
-    "evacuated",
+    "sea",
     13,
-    "https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "military",
+    "tax",
     13,
-    "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/"
+    "https://www.theguardian.com/us-news/2026/may/06/tax-the-rich-racial-slurs-new-york-real-estate"
   ],
   [
-    "death",
+    "died",
     13,
-    "https://www.theguardian.com/us-news/2026/may/06/ted-turner-dead"
-  ],
-  [
-    "always",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/06/ted-turner-dead"
-  ],
-  [
-    "baby",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/may/06/a-moment-that-changed-me-wary-of-men-baby-boy"
-  ],
-  [
-    "council",
-    13,
-    "https://www.latimes.com/california/story/2026-05-05/fire-safe-council-nevada-county-mishandled-tax-dollars-prosecutors-say"
+    "https://www.theguardian.com/world/video/2026/may/06/hantavirus-hell-passengers-stuck-on-cruise-ship-with-deadly-virus-the-latest"
   ]
 ];
