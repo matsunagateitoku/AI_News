@@ -3,100 +3,156 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 24,
+      "count": 27,
       "url": "https://www.theguardian.com/commentisfree/2026/may/06/donald-trump-oil-coal-oligarchy-sanctions-war-environment-europe",
       "source": "The Guardian"
     },
     {
-      "name": "Marco Rubio",
-      "count": 13,
-      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
-      "source": "Wall St. Journal"
+      "name": "Ted Turner",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Howard Lutnick Faces",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/05/06/business/economy/howard-lutnick-jeffrey-epstein-house-oversight.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/may/06/howard-lutnick-jeffrey-epstein-congress",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kylie Jenner",
+      "count": 5,
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-05-04/met-gala-2026-red-carpet-fashion-best-looks",
+      "source": "LA Times"
     },
     {
       "name": "Sherrod Brown",
-      "count": 8,
+      "count": 5,
       "url": "https://www.cbsnews.com/news/ohio-senate-primary-results-jon-husted-sherrod-brown/",
       "source": "CBS News"
     },
     {
-      "name": "Jeff Bezos",
-      "count": 6,
-      "url": "https://www.theguardian.com/film/2026/may/05/jeff-bezos-real-villain-the-devil-wears-prada-2",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vivek Ramaswamy",
-      "count": 6,
-      "url": "https://www.npr.org/2026/05/05/nx-s1-5812914/ramaswamy-trump-ohio-governor",
-      "source": "NPR"
-    },
-    {
-      "name": "Nancy Guthrie",
-      "count": 6,
-      "url": "https://www.foxnews.com/us/nancy-guthrie-case-sparks-clash-fbi-director-kash-patel-rips-sheriff",
-      "source": "Fox News"
-    },
-    {
       "name": "Derek Merrin",
-      "count": 6,
+      "count": 5,
       "url": "https://www.cbsnews.com/news/ohio-9th-district-republican-primary-results-derek-merrin-marcy-kaptur/",
       "source": "CBS News"
     },
     {
       "name": "Hormuz",
-      "count": 5,
+      "count": 4,
       "url": "https://www.theguardian.com/business/2026/may/06/totally-grounded-how-the-jet-fuel-crisis-could-change-our-summer-holidays-and-world-history",
       "source": "The Guardian"
     },
     {
-      "name": "Amy Acton",
-      "count": 5,
-      "url": "https://www.npr.org/2026/05/05/nx-s1-5812914/ramaswamy-trump-ohio-governor",
-      "source": "NPR"
+      "name": "Martin Luther King Jr Research",
+      "count": 4,
+      "url": "https://www.theguardian.com/books/2026/may/06/martin-luther-king-jr-early-years-book",
+      "source": "The Guardian"
     },
     {
-      "name": "Elon Musk Wanted",
+      "name": "David Attenborough",
       "count": 4,
-      "url": "https://www.nytimes.com/2026/05/05/technology/openai-trial-elon-musk-greg-brockman.html",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/may/06/thank-you-david-attenborough-for-100-incredible-years-of-life-on-earth",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 54,
+      "url": "https://www.theguardian.com/film/2026/may/06/flogging-a-wooden-horse-how-faithful-will-christopher-nolans-odyssey-be",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 39,
+      "url": "https://www.theguardian.com/technology/2026/may/05/apple-siri-ai-settlement",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 35,
+      "url": "https://www.nytimes.com/2026/05/06/arts/television/late-night-trump-war-children.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 23,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/05/06/business/ai-bristol-myers-squibb-drugs.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 14,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/06/donald-trump-oil-coal-oligarchy-sanctions-war-environment-europe",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ohio",
+      "count": 14,
+      "url": "https://www.cbsnews.com/news/ohio-9th-district-republican-primary-results-derek-merrin-marcy-kaptur/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Indiana",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/may/05/indiana-republicans-donald-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City’S",
+      "count": 11,
+      "url": "https://www.theguardian.com/wellness/2026/may/05/medical-pedicure-treatment-feet-care",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ukraine",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html",
       "source": "NY Times"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Gets Payback",
-      "count": 52,
-      "url": "https://www.nytimes.com/2026/05/05/us/politics/trump-indiana-takeaways.html",
-      "source": "NY Times"
+      "name": "Trump Suspends Military Escorts",
+      "count": 47,
+      "url": "https://www.today.com/video/trump-suspends-military-escorts-in-hormuz-1-day-into-operation-262828613982",
+      "source": "NBC News"
+    },
+    {
+      "name": "Cnn Worldwide",
+      "count": 25,
+      "url": "https://www.theguardian.com/us-news/2026/may/06/ted-turner-dead",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 19,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
+      "source": "LA Times"
     },
     {
       "name": "Kentucky Senate",
-      "count": 28,
+      "count": 17,
       "url": "https://www.politico.com/news/2026/05/01/trump-kentucky-senate-andy-barr-00903719",
       "source": "Politico"
     },
     {
-      "name": "Gop",
-      "count": 25,
-      "url": "https://www.washingtonpost.com/nation/2026/05/04/idaho-dairy-farmers-immigration-zuiderveld/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "The White House",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Guardian Faber Publishing",
-      "count": 17,
+      "count": 15,
       "url": "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 13,
-      "url": "https://www.theguardian.com/business/2026/may/06/ramageddon-cheap-phones-laptops-macbooks-ps5s-ai-chips",
       "source": "The Guardian"
     },
     {
@@ -106,127 +162,65 @@
       "source": "The Guardian"
     },
     {
+      "name": "House Ethics Committee",
+      "count": 13,
+      "url": "https://www.foxnews.com/politics/republican-lawmaker-welcomes-house-ethics-probe-sexual-misconduct-allegations",
+      "source": "Fox News"
+    },
+    {
       "name": "The California Congressional District",
       "count": 10,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Nbc News",
-      "count": 10,
-      "url": "https://www.cbsnews.com/video/johnny-olszewski-bill-18-year-supreme-court-term-limits/",
-      "source": "CBS News"
-    },
-    {
-      "name": "State",
+      "name": "Siri’S Ai",
       "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/may/05/marco-rubio-iran-gas-prices",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 60,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/06/donald-trump-oil-coal-oligarchy-sanctions-war-environment-europe",
+      "url": "https://www.theguardian.com/technology/2026/may/05/apple-siri-ai-settlement",
       "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 41,
-      "url": "https://www.nytimes.com/2026/05/06/us/elections/california-governor-debate-cnn-takeaways.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 33,
-      "url": "https://www.nytimes.com/2026/05/05/world/middleeast/iran-us-ceasefire-attacks.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ohio",
-      "count": 33,
-      "url": "https://www.npr.org/2026/05/05/nx-s1-5812914/ramaswamy-trump-ohio-governor",
-      "source": "NPR"
-    },
-    {
-      "name": "Indiana",
-      "count": 30,
-      "url": "https://www.theguardian.com/us-news/2026/may/05/indiana-republicans-donald-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 21,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/05/05/world/middleeast/iran-us-ceasefire-attacks.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Russia",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/05/05/arts/design/russia-ukraine-venice-biennale.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ukraine",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/05/05/arts/design/russia-ukraine-venice-biennale.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 14,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/06/donald-trump-oil-coal-oligarchy-sanctions-war-environment-europe",
+      "name": "The Filter Us",
+      "count": 9,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The World Cup",
-      "count": 6,
-      "url": "https://www.latimes.com/sports/soccer/story/2026-05-05/la-unveils-details-about-its-world-cup-fan-zones",
-      "source": "LA Times"
-    },
-    {
-      "name": "Olympics",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/05/05/arts/design/venice-biennale-flashpoints-explainer-opening.html",
+      "name": "World Cup Dynamic Ticket Pricing Drives Argentine Soccer Fans To Extremes",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/05/06/world/americas/2026-world-cup-ticket-prices-argentina.html",
       "source": "NY Times"
     },
     {
-      "name": "The Enhanced Games",
-      "count": 3,
-      "url": "https://www.theguardian.com/sport/2026/may/05/enhanced-games-doping-performance-enhancing-drugs-questions",
+      "name": "The Iran War",
+      "count": 5,
+      "url": "https://www.theguardian.com/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis",
       "source": "The Guardian"
     },
     {
-      "name": "La 2028 Olympics'",
+      "name": "Watergate",
       "count": 2,
-      "url": "https://www.foxnews.com/media/la-2028-olympics-safety-plan-relies-much-police-homeland-security-left-wing-activists-say",
-      "source": "Fox News"
+      "url": "https://www.nytimes.com/2026/05/06/us/politics/buckley-case-supreme-court-billionaires.html",
+      "source": "NY Times"
     },
     {
-      "name": "The Iran War",
+      "name": "Olympics",
       "count": 2,
-      "url": "https://www.cbsnews.com/video/iran-war-worsen-food-insecurity-already-fragile-nations-humanitarian-group-warns/",
-      "source": "CBS News"
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Executive Paywatch",
+      "count": 1,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/06/nine-dollars-for-a-starbucks-is-an-affordable-luxury-ceos-need-to-wake-up-and-smell-the-coffee",
+      "source": "The Guardian"
     },
     {
       "name": "Women’S World Cups",
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/may/06/fa-and-us-soccer-seek-more-control-from-fifa-over-womens-world-cups",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Watergate",
-      "count": 1,
-      "url": "https://www.theguardian.com/culture/2026/may/05/parallax-view-warren-beatty-film-rewatch",
       "source": "The Guardian"
     },
     {
@@ -236,17 +230,23 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Gaza War",
+      "name": "Councilmember Hugo",
       "count": 1,
-      "url": "https://www.npr.org/2026/05/06/nx-s1-5811930/gaza-recovering-bodies",
-      "source": "NPR"
+      "url": "https://www.latimes.com/california/story/2026-05-06/noncitizens-voting-la-elections",
+      "source": "LA Times"
     },
     {
-      "name": "Taco Bowl Moment",
+      "name": "Game 1",
       "count": 1,
-      "url": "https://www.foxnews.com/politics/trump-marks-cinco-de-mayo-nice-post-echoing-past-viral-taco-bowl-moment",
-      "source": "Fox News"
+      "url": "https://www.latimes.com/sports/lakers/story/2026-05-06/los-angeles-lakers-oklahoma-city-thunder-nba-playoff-analysis",
+      "source": "LA Times"
+    },
+    {
+      "name": "The World Cup",
+      "count": 1,
+      "url": "https://www.latimes.com/sports/soccer/story/2026-05-05/la-unveils-details-about-its-world-cup-fan-zones",
+      "source": "LA Times"
     }
   ],
-  "updated": "2026-05-06T09:27:52Z"
+  "updated": "2026-05-06T15:28:22Z"
 };
