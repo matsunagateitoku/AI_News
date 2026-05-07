@@ -2,114 +2,96 @@
 (window.newsData=window.newsData||{}).entities={
   "GPE": [
     {
-      "name": "Us",
-      "count": 61,
-      "url": "https://www.theguardian.com/world/live/2026/may/07/middle-east-crisis-iran-trump-us-negotiations-deal-war-peace-proposal-hormuz-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
       "name": "California",
-      "count": 51,
+      "count": 52,
       "url": "https://www.nytimes.com/2026/05/07/us/politics/california-governors-debate-takeaways.html",
       "source": "NY Times"
     },
     {
+      "name": "Us",
+      "count": 51,
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/07/amish-toilet-waste-dispute",
+      "source": "The Guardian"
+    },
+    {
       "name": "Iran",
-      "count": 32,
+      "count": 27,
       "url": "https://www.nytimes.com/2026/05/07/business/war-energy-china-iran.html",
       "source": "NY Times"
     },
     {
-      "name": "U.S.",
-      "count": 25,
-      "url": "https://www.nytimes.com/2026/05/06/us/politics/us-troops-iran.html",
-      "source": "NY Times"
-    },
-    {
       "name": "L.A. County'S",
-      "count": 20,
+      "count": 22,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Uk",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-starmer.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/05/06/nyregion/rudy-giuliani-health-world-trade-center.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Los Angeles County",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-sheriff-luna-villanueva-challengers-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Scotland",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-starmer.html",
+      "name": "U.S.",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
       "source": "NY Times"
     },
     {
       "name": "Israel",
+      "count": 16,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Los Angeles County",
+      "count": 11,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-sheriff-luna-villanueva-challengers-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Northern Gaza",
       "count": 9,
-      "url": "https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html",
-      "source": "NY Times"
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Uk",
+      "count": 8,
+      "url": "https://www.theguardian.com/film/2026/may/07/ian-mckellen-reader-interview",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Scotland",
+      "count": 7,
+      "url": "https://www.theguardian.com/politics/live/2026/may/07/may-local-elections-polls-open-england-scotland-wales-uk-politics-latest-news-updates",
+      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Trump Pardon Recipients Face Congressional",
-      "count": 46,
+      "count": 45,
       "url": "https://www.cbsnews.com/news/trump-pardon-recipients-democrats-congressional-investigation-pay-to-play/",
       "source": "CBS News"
     },
     {
       "name": "Ai",
-      "count": 27,
-      "url": "https://www.theguardian.com/technology/2026/may/07/no-one-has-done-this-in-the-wild-study-observes-ai-replicate-itself",
+      "count": 24,
+      "url": "https://www.theguardian.com/us-news/2026/may/06/spencer-pratt-los-angeles-campaign-video",
       "source": "The Guardian"
-    },
-    {
-      "name": "Amazon     Continue",
-      "count": 15,
-      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian Cryptic",
-      "count": 15,
-      "url": "https://www.theguardian.com/crosswords/crossword-blog/2026/may/06/crossword-editors-desk-the-guardian-30000th-cryptic",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/may/06/washington-dc-shooting-jd-vance",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cnn",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Kentucky Senate",
-      "count": 11,
-      "url": "https://www.politico.com/news/2026/05/01/trump-kentucky-senate-andy-barr-00903719",
-      "source": "Politico"
     },
     {
       "name": "The Filter Us",
-      "count": 10,
+      "count": 14,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
+    },
+    {
+      "name": "Guardian News",
+      "count": 12,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 11,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
+      "source": "LA Times"
     },
     {
       "name": "The California Congressional District",
@@ -118,36 +100,72 @@
       "source": "LA Times"
     },
     {
-      "name": "Gop",
+      "name": "Solace House",
       "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
+      "url": "https://www.theguardian.com/books/2026/may/07/solace-house-by-will-maclean-review-immensely-fun-gothic-horror-with-a-psychedelic-twist",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The L.A. City Council",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "U.S. Supreme Court",
+      "count": 9,
+      "url": "https://www.latimes.com/politics/story/2026-05-07/california-could-test-limits-of-new-era-of-partisan-redistricting-efforts",
+      "source": "LA Times"
+    },
+    {
+      "name": "Kentucky Senate",
+      "count": 9,
+      "url": "https://www.politico.com/news/2026/05/01/trump-kentucky-senate-andy-barr-00903719",
+      "source": "Politico"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 41,
-      "url": "https://www.theguardian.com/world/2026/may/07/marco-rubio-to-meet-pope-at-the-vatican-after-trump-attacks-on-pontiff",
+      "count": 20,
+      "url": "https://www.theguardian.com/us-news/2026/may/07/john-roberts-supreme-court-political-actors",
       "source": "The Guardian"
     },
     {
+      "name": "Ted Turner",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/05/07/podcasts/the-headlines/high-gas-prices-cnn-legacy.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Jeffrey Epstein",
-      "count": 14,
+      "count": 10,
       "url": "https://www.nytimes.com/2026/05/06/nyregion/epstein-suicide-note.html",
       "source": "NY Times"
     },
     {
-      "name": "Ted Turner",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
-      "source": "NY Times"
+      "name": "Karen Bass",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/may/06/spencer-pratt-los-angeles-campaign-video",
+      "source": "The Guardian"
     },
     {
-      "name": "Marco Rubio",
-      "count": 9,
-      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
-      "source": "Wall St. Journal"
+      "name": "Marco Rubio Meets",
+      "count": 8,
+      "url": "https://www.today.com/video/marco-rubio-meets-with-pope-leo-xiv-after-tensions-with-trump-262898757937",
+      "source": "NBC News"
+    },
+    {
+      "name": "Spencer Pratt",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/may/06/spencer-pratt-los-angeles-campaign-video",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pope Leo",
+      "count": 7,
+      "url": "https://www.npr.org/2026/05/07/g-s1-120673/up-first-newsletter-iran-trump-oil-production-pope-leo-marco-rubio-prediction-markets",
+      "source": "NPR"
     },
     {
       "name": "Bernard",
@@ -156,66 +174,48 @@
       "source": "The Guardian"
     },
     {
-      "name": "Karen Bass",
+      "name": "Leo Xiv",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/may/06/spencer-pratt-los-angeles-campaign-video",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/07/donald-trump-republicans-gop-electoral-map-redistricting-midterms-lula-executive-orders-latest-news-updates",
       "source": "The Guardian"
     },
     {
-      "name": "Howard Lutnick Grilled",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/05/06/us/politics/howard-lutnick-jeffrey-epstein-house-oversight.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "David Attenborough",
-      "count": 5,
-      "url": "https://www.theguardian.com/science/audio/2026/may/07/100-years-on-earth-celebrating-david-attenborough-birthday-podcast",
+      "name": "John Roberts",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/may/07/john-roberts-supreme-court-political-actors",
       "source": "The Guardian"
-    },
-    {
-      "name": "Gavin Newsom",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/may/06/spencer-pratt-los-angeles-campaign-video",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kylie Jenner",
-      "count": 5,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-05-04/met-gala-2026-red-carpet-fashion-best-looks",
-      "source": "LA Times"
     }
   ],
   "EVENT": [
     {
+      "name": "Olympics",
+      "count": 3,
+      "url": "https://www.latimes.com/travel/story/2026-05-07/la28-olympics-what-people-paid-for-tickets",
+      "source": "LA Times"
+    },
+    {
       "name": "The Iran War",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/05/06/us/politics/us-troops-iran.html",
-      "source": "NY Times"
+      "count": 2,
+      "url": "https://www.theguardian.com/us-news/2026/may/07/iran-war-big-oil-climate",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran War     Business Live",
+      "count": 2,
+      "url": "https://www.theguardian.com/business/2026/may/07/airlines-still-have-to-pay-compensation-if-flights-cancelled-due-to-fuel-crisis-eu-says",
+      "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 4,
+      "count": 2,
       "url": "https://www.latimes.com/sports/soccer/story/2026-05-05/la-unveils-details-about-its-world-cup-fan-zones",
       "source": "LA Times"
     },
     {
-      "name": "Iran War Looms",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/05/06/us/politics/jd-vance-iowa-2028.html",
+      "name": "Revolutionary War Trek Across The Wilderness",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/05/07/travel/henry-knox-trip-revolutionary-war.html",
       "source": "NY Times"
-    },
-    {
-      "name": "The 2016",
-      "count": 1,
-      "url": "https://www.theguardian.com/world/2026/may/07/french-professor-florent-montaclair-accused-award-prize",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gold Medal Of Philology",
-      "count": 1,
-      "url": "https://www.theguardian.com/world/2026/may/07/french-professor-florent-montaclair-accused-award-prize",
-      "source": "The Guardian"
     },
     {
       "name": "Executive Paywatch",
@@ -230,16 +230,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Vitamix 5200",
+      "name": "Mother’S Day",
       "count": 1,
-      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/01/a-perfect-pan-on-sale-plus-famous-grandmas-suggest-mothers-day-gifts",
       "source": "The Guardian"
-    },
-    {
-      "name": "Olympics",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
-      "source": "LA Times"
     },
     {
       "name": "A \"Wild West",
@@ -248,5 +242,5 @@
       "source": "NPR"
     }
   ],
-  "updated": "2026-05-07T09:38:53Z"
+  "updated": "2026-05-07T15:29:32Z"
 };
