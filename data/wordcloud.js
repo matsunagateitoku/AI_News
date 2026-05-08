@@ -2,13 +2,13 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    85,
-    "https://www.nytimes.com/2026/05/07/climate/fema-review-panel-trump.html"
+    98,
+    "https://www.nytimes.com/2026/05/07/us/politics/trump-strait-of-hormuz-saudis.html"
   ],
   [
     "race",
-    66,
-    "https://www.nytimes.com/2026/05/07/us/politics/house-republican-bill-iran-war-tom-barrett.html"
+    67,
+    "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html"
   ],
   [
     "guide",
@@ -17,78 +17,68 @@
   ],
   [
     "district",
-    47,
+    52,
     "https://www.theguardian.com/us-news/2026/may/07/tennessee-congressional-map-redistricting"
   ],
   [
     "california",
-    47,
+    49,
     "https://www.theguardian.com/us-news/2026/may/07/search-kristin-smart-killing"
   ],
   [
-    "war",
-    42,
-    "https://www.nytimes.com/2026/05/07/us/politics/house-republican-bill-iran-war-tom-barrett.html"
-  ],
-  [
     "iran",
-    33,
-    "https://www.nytimes.com/2026/05/07/us/politics/house-republican-bill-iran-war-tom-barrett.html"
-  ],
-  [
-    "president",
-    33,
-    "https://www.nytimes.com/2026/05/07/business/us-debt-trump-policies-budget.html"
-  ],
-  [
-    "film",
-    29,
-    "https://www.theguardian.com/environment/2026/may/07/basking-shark-sea-monster-canada-marine-mystery-90-years-on"
-  ],
-  [
-    "hantavirus",
-    27,
-    "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html"
+    45,
+    "https://www.nytimes.com/2026/05/07/us/politics/trump-strait-of-hormuz-saudis.html"
   ],
   [
     "court",
-    24,
-    "https://www.nytimes.com/2026/05/07/us/politics/mark-kelly-pete-hegseth-video-lawsuit.html"
+    42,
+    "https://www.nytimes.com/2026/05/07/briefing/trade-court-trump-tariffs.html"
   ],
   [
-    "congressional",
-    24,
-    "https://www.theguardian.com/us-news/2026/may/07/tennessee-congressional-map-redistricting"
+    "president",
+    36,
+    "https://www.nytimes.com/2026/05/07/us/politics/trump-strait-of-hormuz-saudis.html"
   ],
   [
-    "election",
-    23,
-    "https://www.nytimes.com/2026/05/07/us/politics/house-republican-bill-iran-war-tom-barrett.html"
+    "war",
+    36,
+    "https://www.nytimes.com/2026/05/08/business/europe-solar-panels-iran-war.html"
+  ],
+  [
+    "hantavirus",
+    25,
+    "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html"
   ],
   [
     "cruise",
-    22,
+    24,
     "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html"
   ],
   [
-    "ship",
-    22,
-    "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html"
+    "tennessee",
+    24,
+    "https://www.nytimes.com/2026/05/07/us/elections/tennessee-house-redistricting.html"
   ],
   [
-    "faces",
-    22,
-    "https://www.nytimes.com/2026/05/07/us/los-angeles-mayors-race-bass-challengers.html"
+    "film",
+    24,
+    "https://www.theguardian.com/environment/2026/may/07/basking-shark-sea-monster-canada-marine-mystery-90-years-on"
   ],
   [
-    "don",
-    22,
-    "https://www.nytimes.com/2026/05/07/well/metastatic-lung-cancer-study.html"
+    "military",
+    23,
+    "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/"
+  ],
+  [
+    "congressional",
+    23,
+    "https://www.theguardian.com/us-news/2026/may/07/tennessee-congressional-map-redistricting"
   ],
   [
     "least",
     22,
-    "https://www.washingtonpost.com/education/2026/05/07/states-limit-school-screen-time/"
+    "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/"
   ],
   [
     "game",
@@ -96,9 +86,9 @@
     "https://www.theguardian.com/sport/2026/may/07/uar-bernard-nfl-philadelphia-eagles"
   ],
   [
-    "health",
-    21,
-    "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html"
+    "election",
+    22,
+    "https://www.theguardian.com/commentisfree/2026/may/07/trump-orban-hungary-liability-europe-far-right-decline"
   ],
   [
     "black",
@@ -106,34 +96,44 @@
     "https://www.nytimes.com/2026/05/07/us/elections/tennessee-house-redistricting.html"
   ],
   [
-    "york",
-    21,
-    "https://www.nytimes.com/2026/05/06/nyregion/epstein-suicide-note.html"
+    "ship",
+    20,
+    "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html"
   ],
   [
-    "support",
-    21,
-    "https://www.washingtonpost.com/nation/2026/05/07/boulder-firebombing-attack-guilty/"
+    "don",
+    20,
+    "https://www.nytimes.com/2026/05/07/well/metastatic-lung-cancer-study.html"
   ],
   [
     "county",
-    21,
+    20,
     "https://www.theguardian.com/world/ng-interactive/2026/may/07/amish-toilet-waste-dispute"
   ],
   [
-    "oil",
+    "strait",
     20,
-    "https://www.theguardian.com/world/2026/may/07/trump-project-freedom-saudi-arabia-strait-of-hormuz"
+    "https://www.theguardian.com/world/2026/may/07/iran-accuses-us-of-violating-ceasefire-by-targeting-civilian-areas-and-ships-on-strait-of-hormuz"
   ],
   [
-    "tennessee",
+    "faces",
+    20,
+    "https://www.theguardian.com/music/2026/may/08/unmasking-angine-de-poitrine-rock-duo-quebec-khn-klek"
+  ],
+  [
+    "hormuz",
+    19,
+    "https://www.nytimes.com/2026/05/07/us/politics/trump-strait-of-hormuz-saudis.html"
+  ],
+  [
+    "media",
+    19,
+    "https://www.nytimes.com/2026/05/07/us/politics/mexico-consulates-state-department.html"
+  ],
+  [
+    "republicans",
     19,
     "https://www.nytimes.com/2026/05/07/us/elections/tennessee-house-redistricting.html"
-  ],
-  [
-    "candidates",
-    19,
-    "https://www.theguardian.com/politics/2026/may/07/keir-starmer-driving-away-progressive-voters-labour"
   ],
   [
     "incumbent",
@@ -141,79 +141,94 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "republican",
+    "fire",
     18,
-    "https://www.nytimes.com/2026/05/07/us/politics/house-republican-bill-iran-war-tom-barrett.html"
+    "https://www.nytimes.com/2026/05/07/briefing/trade-court-trump-tariffs.html"
   ],
   [
-    "judge",
+    "department",
     18,
-    "https://www.nytimes.com/2026/05/07/us/politics/mark-kelly-pete-hegseth-video-lawsuit.html"
+    "https://www.nytimes.com/2026/05/07/us/politics/mexico-consulates-state-department.html"
   ],
   [
-    "fewer",
+    "health",
     18,
-    "https://www.nytimes.com/2026/05/07/climate/fema-review-panel-trump.html"
-  ],
-  [
-    "far",
-    18,
-    "https://www.nytimes.com/2026/05/07/health/hantavirus-americans-cdc.html"
-  ],
-  [
-    "media",
-    18,
-    "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/"
-  ],
-  [
-    "council",
-    18,
-    "https://www.theguardian.com/film/2026/may/07/ian-mckellen-reader-interview"
-  ],
-  [
-    "republicans",
-    17,
-    "https://www.nytimes.com/2026/05/07/us/elections/tennessee-house-redistricting.html"
-  ],
-  [
-    "john",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/07/john-roberts-supreme-court-political-actors"
+    "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html"
   ],
   [
     "company",
-    17,
-    "https://www.theguardian.com/film/2026/may/07/ian-mckellen-reader-interview"
+    18,
+    "https://www.nytimes.com/2026/05/07/education/canvas-hacked-down-data-breach.html"
+  ],
+  [
+    "political",
+    18,
+    "https://www.theguardian.com/us-news/2026/may/07/john-roberts-supreme-court-political-actors"
+  ],
+  [
+    "because",
+    18,
+    "https://www.theguardian.com/music/2026/may/08/unmasking-angine-de-poitrine-rock-duo-quebec-khn-klek"
   ],
   [
     "fashion",
-    17,
-    "https://www.theguardian.com/artanddesign/gallery/2026/may/07/twiggy-bella-freud-steven-meisel-london-portraits-in-pictures-photo-london"
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/may/03/devil-wears-prada-fashion-designer-resale"
   ],
   [
-    "video",
-    16,
-    "https://www.nytimes.com/2026/05/07/us/politics/mark-kelly-pete-hegseth-video-lawsuit.html"
+    "support",
+    17,
+    "https://www.nytimes.com/2026/05/07/us/politics/trump-strait-of-hormuz-saudis.html"
+  ],
+  [
+    "democratic",
+    17,
+    "https://www.nytimes.com/2026/05/07/us/politics/john-fetterman-democratic-party.html"
   ],
   [
     "map",
-    16,
+    17,
     "https://www.nytimes.com/2026/05/07/us/elections/tennessee-house-redistricting.html"
   ],
   [
-    "team",
-    16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "donald",
+    17,
+    "https://www.theguardian.com/world/2026/may/07/iran-accuses-us-of-violating-ceasefire-by-targeting-civilian-areas-and-ships-on-strait-of-hormuz"
   ],
   [
-    "gifts",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/07/fbi-defends-kash-patel-custom-whiskey-bottles"
+    "judge",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/07/trump-global-tariffs-trade-court-ruling"
   ],
   [
-    "filter",
+    "global",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/may/07/scottevest-review-travel-vest"
+    "https://www.nytimes.com/2026/05/07/business/economy/trump-global-tariff-ruled-illegal.html"
+  ],
+  [
+    "york",
+    16,
+    "https://www.nytimes.com/2026/05/07/nyregion/mamdani-rent-freeze-stabilized-apartment.html"
+  ],
+  [
+    "everything",
+    16,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "death",
+    16,
+    "https://www.theguardian.com/world/2026/may/08/china-defence-ministers-corruption-military-leaders-purge"
+  ],
+  [
+    "john",
+    16,
+    "https://www.theguardian.com/us-news/2026/may/07/john-roberts-supreme-court-political-actors"
+  ],
+  [
+    "council",
+    16,
+    "https://www.theguardian.com/film/2026/may/07/ian-mckellen-reader-interview"
   ],
   [
     "mother",
@@ -221,7 +236,7 @@
     "https://www.theguardian.com/books/2026/may/07/the-pretender-by-jo-harkin-audiobook-review-sprightly-historical-political-skulduggery"
   ],
   [
-    "america",
+    "experts",
     15,
     "https://www.nytimes.com/2026/05/07/business/us-debt-trump-policies-budget.html"
   ],
@@ -231,24 +246,19 @@
     "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html"
   ],
   [
-    "seat",
+    "far",
+    15,
+    "https://www.nytimes.com/2026/05/07/health/hantavirus-americans-cdc.html"
+  ],
+  [
+    "redistricting",
     15,
     "https://www.nytimes.com/2026/05/07/us/elections/tennessee-house-redistricting.html"
   ],
   [
-    "released",
+    "americans",
     15,
-    "https://www.nytimes.com/2026/05/06/nyregion/epstein-suicide-note.html"
-  ],
-  [
-    "states",
-    15,
-    "https://www.washingtonpost.com/education/2026/05/07/states-limit-school-screen-time/"
-  ],
-  [
-    "rubio",
-    15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/07/trump-administration-deleting-data"
   ],
   [
     "case",
@@ -256,19 +266,39 @@
     "https://www.theguardian.com/environment/2026/may/07/basking-shark-sea-monster-canada-marine-mystery-90-years-on"
   ],
   [
-    "political",
+    "strikes",
     15,
-    "https://www.theguardian.com/us-news/2026/may/07/john-roberts-supreme-court-political-actors"
+    "https://www.theguardian.com/world/2026/may/07/iran-accuses-us-of-violating-ceasefire-by-targeting-civilian-areas-and-ships-on-strait-of-hormuz"
   ],
   [
-    "style",
+    "video",
     15,
-    "https://www.theguardian.com/us-news/2026/may/07/marco-rubio-video-presidential-run-speculation"
+    "https://www.theguardian.com/us-news/2026/may/07/us-appeals-court-pentagon-bid-censure-mark-kelly"
   ],
   [
-    "because",
+    "oil",
     15,
-    "https://www.theguardian.com/film/2026/may/07/the-aim-was-to-giving-kevin-costners-version-a-good-kicking-director-john-irvin-on-his-anti-thatcher-robin-hood"
+    "https://www.theguardian.com/world/2026/may/08/study-sheds-light-on-story-of-enslaved-boy-jersey-featured-in-1748-joshua-reynolds-portrait"
+  ],
+  [
+    "gifts",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/07/fbi-defends-kash-patel-custom-whiskey-bottles"
+  ],
+  [
+    "filter",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/may/07/scottevest-review-travel-vest"
+  ],
+  [
+    "gala",
+    15,
+    "https://www.theguardian.com/games/2026/may/06/pushing-buttons-007-first-light-james-bond-game-amazon"
+  ],
+  [
+    "candidates",
+    15,
+    "https://www.latimes.com/california/story/2024-08-09/california-governor-2026-candidates-newsom-atkins-kounalakis-thurmond-villaraigosa-yee"
   ],
   [
     "challengers",
@@ -276,103 +306,73 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "military",
-    14,
-    "https://www.nytimes.com/2026/05/07/us/politics/house-republican-bill-iran-war-tom-barrett.html"
-  ],
-  [
     "administration",
     14,
     "https://www.nytimes.com/2026/05/07/health/hantavirus-americans-cdc.html"
   ],
   [
-    "research",
+    "fewer",
     14,
     "https://www.nytimes.com/2026/05/07/health/hantavirus-americans-cdc.html"
   ],
   [
-    "democratic",
+    "seat",
     14,
     "https://www.nytimes.com/2026/05/07/us/elections/tennessee-house-redistricting.html"
   ],
   [
-    "attack",
+    "supreme",
     14,
-    "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html"
+    "https://www.nytimes.com/2026/05/07/us/elections/tennessee-house-redistricting.html"
+  ],
+  [
+    "term",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "ceasefire",
+    14,
+    "https://www.theguardian.com/world/2026/may/07/iran-accuses-us-of-violating-ceasefire-by-targeting-civilian-areas-and-ships-on-strait-of-hormuz"
   ],
   [
     "school",
     14,
-    "https://www.nytimes.com/2026/05/07/technology/personaltech/google-ai-mode-search.html"
+    "https://www.theguardian.com/commentisfree/2026/may/07/kids-year-big-exams-anxieties-ai-long-division"
   ],
   [
-    "everything",
+    "games",
     14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.theguardian.com/football/2026/may/08/premier-league-10-things-to-look-out-for-this-weekend"
   ],
   [
-    "voters",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/07/tennessee-congressional-map-redistricting"
-  ],
-  [
-    "director",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/07/fbi-defends-kash-patel-custom-whiskey-bottles"
-  ],
-  [
-    "buying",
-    14,
-    "https://www.theguardian.com/environment/2026/may/07/us-farmers-diesel-prices-tariffs-drought"
-  ],
-  [
-    "players",
-    14,
-    "https://www.theguardian.com/film/2026/may/07/ian-mckellen-reader-interview"
-  ],
-  [
-    "mom",
-    14,
-    "https://www.theguardian.com/music/2026/may/07/linda-perry-4-non-blondes-let-die-here-documentary"
-  ],
-  [
-    "experts",
+    "trade",
     13,
-    "https://www.nytimes.com/2026/05/07/business/us-debt-trump-policies-budget.html"
+    "https://www.nytimes.com/2026/05/07/business/economy/trump-global-tariff-ruled-illegal.html"
   ],
   [
-    "latest",
+    "states",
     13,
-    "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html"
+    "https://www.nytimes.com/2026/05/07/us/politics/mexico-consulates-state-department.html"
   ],
   [
-    "term",
+    "majority",
     13,
-    "https://www.nytimes.com/2026/05/07/us/los-angeles-mayors-race-bass-challengers.html"
+    "https://www.nytimes.com/2026/05/07/us/elections/tennessee-house-redistricting.html"
   ],
   [
-    "note",
+    "self",
     13,
-    "https://www.nytimes.com/2026/05/06/nyregion/epstein-suicide-note.html"
+    "https://www.nytimes.com/2026/05/07/business/autonomous-vehicles-technology-other-uses.html"
   ],
   [
-    "campaign",
+    "attack",
     13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.washingtonpost.com/nation/2026/05/07/boulder-firebombing-attack-guilty/"
   ],
   [
-    "field",
+    "iranian",
     13,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "secretary",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "donald",
-    13,
-    "https://www.theguardian.com/world/2026/may/07/trump-project-freedom-saudi-arabia-strait-of-hormuz"
+    "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/"
   ]
 ];
