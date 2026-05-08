@@ -3,26 +3,26 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 38,
-      "url": "https://www.theguardian.com/world/2026/may/07/iran-accuses-us-of-violating-ceasefire-by-targeting-civilian-areas-and-ships-on-strait-of-hormuz",
+      "count": 34,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/08/trump-iran-defeat-personal-political-crisis",
       "source": "The Guardian"
     },
     {
-      "name": "Blake Lively V. Justin Baldoni Legal",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/05/07/movies/blake-lively-justin-baldoni-settlement-defamation.html",
+      "name": "Marco Rubio",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/05/08/arts/television/late-night-rubio-pope.html",
       "source": "NY Times"
     },
     {
-      "name": "David Attenborough",
+      "name": "Spencer Pratt",
       "count": 7,
-      "url": "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/may/08/david-attenborough-100-most-spectacular-screen-moments",
+      "url": "https://www.theguardian.com/us-news/2026/may/06/spencer-pratt-los-angeles-campaign-video",
       "source": "The Guardian"
     },
     {
-      "name": "Hormuz Plan",
+      "name": "Keir Starmer",
       "count": 6,
-      "url": "https://www.nytimes.com/2026/05/07/us/politics/trump-strait-of-hormuz-saudis.html",
+      "url": "https://www.nytimes.com/2026/05/08/world/europe/uk-local-elections-starmer.html",
       "source": "NY Times"
     },
     {
@@ -32,16 +32,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "Marco Rubio",
+      "name": "David Attenborough",
       "count": 5,
-      "url": "https://www.nytimes.com/2026/05/08/arts/television/late-night-rubio-pope.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/08/david-attenborough-at-100-memories-encounters",
+      "source": "The Guardian"
     },
     {
-      "name": "Ted Turner",
+      "name": "Karen Bass",
       "count": 5,
-      "url": "https://www.washingtonpost.com/obituaries/2026/05/06/ted-turner-dead-cnn/",
-      "source": "Washington Post"
+      "url": "https://www.theguardian.com/us-news/2026/may/06/spencer-pratt-los-angeles-campaign-video",
+      "source": "The Guardian"
     },
     {
       "name": "Guillermo Del Toro",
@@ -50,35 +50,41 @@
       "source": "The Guardian"
     },
     {
-      "name": "Justin Baldoni",
+      "name": "Vladimir Putin",
       "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court",
+      "url": "https://www.theguardian.com/world/2026/may/08/madyar-robert-brovdi-ukraine-military-vladimir-putin",
       "source": "The Guardian"
     },
     {
-      "name": "Mark Kelly",
+      "name": "Ana Roxanne",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/may/07/us-appeals-court-pentagon-bid-censure-mark-kelly",
+      "url": "https://www.theguardian.com/music/2026/may/08/ana-roxanne-poem-1-review",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Trump National Golf Club",
-      "count": 57,
+      "count": 46,
       "url": "https://www.theguardian.com/sport/2026/may/07/liv-golf-begins-new-era-after-withdrawal-of-saudi-funding-with-fans-still-unconvinced",
       "source": "The Guardian"
     },
     {
-      "name": "Ai",
-      "count": 17,
-      "url": "https://www.theguardian.com/technology/2026/may/08/being-human-helps-despite-rise-of-ai-is-there-still-hope-for-europes-translators",
+      "name": "Anthropic’S Mythos Ai",
+      "count": 21,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/08/how-dangerous-is-anthropics-mythos-ai",
       "source": "The Guardian"
     },
     {
-      "name": "Guardian Faber Publishing",
-      "count": 15,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/05/blake-lively-justin-baldoni-legal-trainwreck-court",
+      "name": "Guardian News",
+      "count": 16,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/may/08/white-house-mark-hamill-ai-trump-picture-grave-post",
       "source": "The Guardian"
     },
     {
@@ -88,10 +94,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/may/07/marco-rubio-video-presidential-run-speculation",
-      "source": "The Guardian"
+      "name": "Gop",
+      "count": 12,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
+      "source": "LA Times"
     },
     {
       "name": "The California Congressional District",
@@ -100,10 +106,10 @@
       "source": "LA Times"
     },
     {
-      "name": "The U.S. Supreme Court",
-      "count": 10,
-      "url": "https://www.npr.org/2026/05/07/nx-s1-5815343/trade-court-strikes-down-10-percent-tariffs",
-      "source": "NPR"
+      "name": "Virginia Supreme Court Blocks State",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/live/2026/may/08/donald-trump-republicans-tennessee-redistricting-maps-voting-rights-iran-latest-news-updates",
+      "source": "The Guardian"
     },
     {
       "name": "The L.A. City Council",
@@ -112,29 +118,29 @@
       "source": "LA Times"
     },
     {
-      "name": "White House Correspondents' Dinner",
+      "name": "Labour Party",
       "count": 9,
-      "url": "https://www.cbsnews.com/news/accused-correspondents-dinner-shooter-cole-allen-seeks-to-disqualify-pirro-blanche/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Gop",
-      "count": 8,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
-      "source": "LA Times"
+      "url": "https://www.nbcnews.com/world/united-kingdom/starmer-labour-reform-farage-uk-election-rcna344013",
+      "source": "NBC News"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/05/07/business/stocks-bonds-markets-iran-war.html",
-      "source": "NY Times"
+      "count": 6,
+      "url": "https://www.theguardian.com/environment/2026/may/08/everything-went-black-then-fire-poured-down-one-mans-terror-onboard-a-ship-hit-in-the-iran-war",
+      "source": "The Guardian"
     },
     {
-      "name": "The World Cup",
+      "name": "World Cup",
       "count": 5,
-      "url": "https://www.latimes.com/sports/soccer/story/2026-05-05/la-unveils-details-about-its-world-cup-fan-zones",
+      "url": "https://www.latimes.com/food/story/2026-05-04/world-cup-games-watch-pub-bar-los-angeles",
+      "source": "LA Times"
+    },
+    {
+      "name": "Olympics",
+      "count": 3,
+      "url": "https://www.latimes.com/travel/story/2026-05-07/la28-olympics-what-people-paid-for-tickets",
       "source": "LA Times"
     },
     {
@@ -144,16 +150,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "The League Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/may/07/aston-villa-nottingham-forest-europa-league-match-report",
-      "source": "The Guardian"
-    },
-    {
       "name": "Mother’S Day",
       "count": 1,
       "url": "https://www.theguardian.com/lifeandstyle/2026/may/01/a-perfect-pan-on-sale-plus-famous-grandmas-suggest-mothers-day-gifts",
       "source": "The Guardian"
+    },
+    {
+      "name": "Lifetime",
+      "count": 1,
+      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-05-08/valerie-bertinelli-love-again-lifetime",
+      "source": "LA Times"
     },
     {
       "name": "Game 2",
@@ -162,79 +168,85 @@
       "source": "LA Times"
     },
     {
-      "name": "Olympics",
+      "name": "The Great Depression",
       "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
-      "source": "LA Times"
+      "url": "https://www.npr.org/2026/05/08/nx-s1-5802305/david-attenborough-celebrates-his-100th-birthday",
+      "source": "NPR"
     },
     {
-      "name": "The Hollywood Bowl",
+      "name": "Wwii",
       "count": 1,
-      "url": "https://www.latimes.com/delos/story/2026-04-28/marcello-hernandez-interview-netflix-is-a-joke-fest-feid-hollywood-bowl",
-      "source": "LA Times"
+      "url": "https://www.npr.org/2026/05/08/nx-s1-5802305/david-attenborough-celebrates-his-100th-birthday",
+      "source": "NPR"
+    },
+    {
+      "name": "Robinson-Patman Act",
+      "count": 1,
+      "url": "https://www.foxnews.com/opinion/steve-forbes-lefts-latest-bad-idea-would-punish-bargain-hunters",
+      "source": "Fox News"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 71,
-      "url": "https://www.theguardian.com/technology/2026/may/08/being-human-helps-despite-rise-of-ai-is-there-still-hope-for-europes-translators",
+      "count": 63,
+      "url": "https://www.theguardian.com/us-news/2026/may/08/voting-rights-activists-louisiana-callais-black-voters",
       "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 52,
+      "url": "https://www.nytimes.com/2026/05/08/podcasts/the-headlines/trump-iran-strikes-hantavirus-outbreak.html",
+      "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 41,
-      "url": "https://www.theguardian.com/us-news/2026/may/07/search-kristin-smart-killing",
-      "source": "The Guardian"
+      "count": 48,
+      "url": "https://www.nytimes.com/2026/05/08/us/politics/california-republican-kim-calvert-congress.html",
+      "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 36,
+      "count": 31,
       "url": "https://www.nytimes.com/2026/05/08/world/asia/trump-xi-china-us-iran-munitions.html",
       "source": "NY Times"
     },
     {
-      "name": "Iran",
-      "count": 35,
-      "url": "https://www.nytimes.com/2026/05/07/us/politics/trump-strait-of-hormuz-saudis.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Tennessee",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/05/07/us/elections/tennessee-house-redistricting.html",
-      "source": "NY Times"
-    },
-    {
       "name": "L.A. County'S",
-      "count": 23,
+      "count": 25,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "England",
-      "count": 12,
-      "url": "https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uk",
-      "count": 10,
-      "url": "https://www.theguardian.com/film/2026/may/08/guillermo-del-toro-ufo-mystery-of-universe",
+      "name": "New York City ’S",
+      "count": 11,
+      "url": "https://www.theguardian.com/artanddesign/2026/may/08/keith-haring-sothebys-kermit-oswald-interview",
       "source": "The Guardian"
     },
     {
       "name": "Los Angeles County",
-      "count": 9,
+      "count": 10,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-sheriff-luna-villanueva-challengers-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Washington D.C.",
-      "count": 9,
-      "url": "https://www.nbcnews.com/video/shorts/trump-asked-about-focus-on-renovations-during-war-in-iran-262956613772",
-      "source": "NBC News"
+      "name": "Uk",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/05/08/world/europe/uk-local-elections-starmer.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "West Hollywood",
+      "count": 8,
+      "url": "https://www.latimes.com/california/story/2026-05-08/weho-smash-grab-burglary",
+      "source": "LA Times"
+    },
+    {
+      "name": "England",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/05/08/world/europe/uk-local-elections-starmer.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-05-08T08:23:45Z"
+  "updated": "2026-05-08T14:55:31Z"
 };
