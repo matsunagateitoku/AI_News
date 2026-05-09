@@ -2,52 +2,52 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Trump Gave Out",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/05/08/us/politics/reflecting-pool-trump-contract.html",
-      "source": "NY Times"
+      "name": "Donald  Trump",
+      "count": 17,
+      "url": "https://www.theguardian.com/us-news/2026/may/08/trump-administration-hunting-national-parks",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Keir Starmer",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/08/election-results-left-right-uk-keir-starmer",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 9,
+      "url": "https://www.theguardian.com/world/2026/may/09/tensions-emerge-bejamin-netanyahu-donald-trump-alliance",
+      "source": "The Guardian"
     },
     {
       "name": "David Attenborough",
       "count": 8,
-      "url": "https://www.nytimes.com/2026/05/08/arts/television/david-attenborough-100-birthday.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Keir Starmer",
-      "count": 8,
-      "url": "https://www.theguardian.com/politics/2026/may/09/labour-members-keir-starmer-party-fortunes-poll",
+      "url": "https://www.theguardian.com/tv-and-radio/video/2026/may/08/how-david-attenborough-transformed-film-and-tv-for-ever-video",
       "source": "The Guardian"
     },
     {
-      "name": "Donald Trump ’S",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/may/08/doge-humanities-grants-unconstitutional",
+      "name": "Voldoymyr Zelenskyy",
+      "count": 6,
+      "url": "https://www.theguardian.com/world/2026/may/08/ukraine-war-briefing-distant-strike-on-russian-missile-ship-in-caspian-sea",
       "source": "The Guardian"
     },
     {
-      "name": "Gavin Newsom",
+      "name": "Terry Reed",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/may/08/california-free-diapers-newborns",
+      "url": "https://www.theguardian.com/us-news/2026/may/09/new-orleans-pastor-guilty-sexually-molesting-teens",
       "source": "The Guardian"
     },
     {
-      "name": "Guillermo Del Toro",
+      "name": "Vladimir Putin",
       "count": 5,
-      "url": "https://www.theguardian.com/film/2026/may/08/guillermo-del-toro-ufo-mystery-of-universe",
+      "url": "https://www.theguardian.com/world/2026/may/09/russia-putin-moscow-victory-day-parade-scaled-back",
       "source": "The Guardian"
     },
     {
-      "name": "Marty Makary",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/05/08/us/trump-fda-commissioner-makary.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Kristin Smart Case",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/05/08/us/kristin-smart-investigation-san-luis-obispo.html",
-      "source": "NY Times"
+      "name": "Palantir",
+      "count": 5,
+      "url": "https://www.theguardian.com/technology/2026/may/09/who-is-louis-mosley-defending-palantir-critics",
+      "source": "The Guardian"
     },
     {
       "name": "Marco Rubio",
@@ -56,110 +56,116 @@
       "source": "Wall St. Journal"
     },
     {
-      "name": "Charlie Kirk",
+      "name": "Covid",
       "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/may/08/charlie-kirk-courtroom-cameras-allowed",
+      "url": "https://www.theguardian.com/science/2026/may/09/doomsday-clock-ai-iran-ukraine-war-climate-breakdown-nuclear-apocalypse",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 61,
+      "count": 64,
       "url": "https://www.theguardian.com/science/2026/may/09/doomsday-clock-ai-iran-ukraine-war-climate-breakdown-nuclear-apocalypse",
       "source": "The Guardian"
     },
     {
       "name": "California",
       "count": 47,
-      "url": "https://www.nytimes.com/2026/05/08/us/kristin-smart-investigation-san-luis-obispo.html",
-      "source": "NY Times"
+      "url": "https://www.washingtonpost.com/lifestyle/2026/05/09/miniature-horses-therapy-piano/",
+      "source": "Washington Post"
     },
     {
       "name": "U.S.",
-      "count": 41,
-      "url": "https://www.nytimes.com/2026/05/08/nyregion/mahmoud-khalil-deportation-case.html",
+      "count": 34,
+      "url": "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html",
       "source": "NY Times"
     },
     {
       "name": "Iran",
-      "count": 35,
-      "url": "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html",
+      "count": 31,
+      "url": "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html",
       "source": "NY Times"
     },
     {
-      "name": "L.A. County'S",
-      "count": 20,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Virginia",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/may/08/virginia-supreme-court-rules-against-congressional-maps",
-      "source": "The Guardian"
-    },
-    {
       "name": "Ukraine",
-      "count": 13,
+      "count": 25,
       "url": "https://www.theguardian.com/science/2026/may/09/doomsday-clock-ai-iran-ukraine-war-climate-breakdown-nuclear-apocalypse",
       "source": "The Guardian"
     },
     {
-      "name": "Florida",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/may/08/florida-surgeon-patient-death-liver-spleen",
-      "source": "The Guardian"
+      "name": "L.A. County'S",
+      "count": 23,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
     },
     {
       "name": "Russia",
-      "count": 11,
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Moscow",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 13,
       "url": "https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates",
       "source": "The Guardian"
     },
     {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/08/election-results-left-right-uk-keir-starmer",
+      "name": "London",
+      "count": 12,
+      "url": "https://www.theguardian.com/culture/2026/may/09/joseph-fiennes-on-parenting-politics-and-banning-children-from-social-media-stand-up-keir-this-is-your-kids-generation",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Officials Reject Claims They’Re Softening On Immigration",
-      "count": 38,
-      "url": "https://www.nytimes.com/2026/05/08/us/politics/markwayne-mullin-immigration-dhs.html",
-      "source": "NY Times"
+      "name": "Trump Pardon Recipients Face Congressional",
+      "count": 42,
+      "url": "https://www.cbsnews.com/news/trump-pardon-recipients-democrats-congressional-investigation-pay-to-play/",
+      "source": "CBS News"
     },
     {
-      "name": "Anthropic’S Mythos Ai",
-      "count": 23,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/08/how-dangerous-is-anthropics-mythos-ai",
+      "name": "The White House",
+      "count": 27,
+      "url": "https://www.theguardian.com/us-news/2026/may/09/alexandria-ocasio-cortez-presidential-run",
       "source": "The Guardian"
     },
     {
-      "name": "Pentagon",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/05/08/us/politics/ufo-sightings-us-government.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "House Of Delegates",
-      "count": 15,
-      "url": "https://thehill.com/homenews/campaign/5870634-virginia-democrats-fight-redistricting-ruling/",
-      "source": "The Hill"
+      "name": "Ai",
+      "count": 22,
+      "url": "https://www.theguardian.com/science/2026/may/09/doomsday-clock-ai-iran-ukraine-war-climate-breakdown-nuclear-apocalypse",
+      "source": "The Guardian"
     },
     {
       "name": "Guardian News",
-      "count": 13,
+      "count": 18,
       "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
-      "name": "Gop",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
-      "source": "LA Times"
+      "name": "The Virginia Supreme Court",
+      "count": 14,
+      "url": "https://www.nbcnews.com/now/video/virginia-supreme-court-blocks-congressional-map-favoring-democrats-262999621971",
+      "source": "NBC News"
+    },
+    {
+      "name": "Pentagon",
+      "count": 11,
+      "url": "https://www.cbsnews.com/news/one-survivor-strike-alleged-drug-boat-eastern-pacific-kills-2/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Spirit Airlines",
+      "count": 10,
+      "url": "https://www.washingtonpost.com/nation/2026/05/08/spirit-shutdown-bankrupt-airport/",
+      "source": "Washington Post"
     },
     {
       "name": "The Filter Us",
@@ -168,47 +174,65 @@
       "source": "The Guardian"
     },
     {
+      "name": "The L.A. City Council",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-05-09/dark-money-casts-shadow-over-la-elections-with-mystery-group-pumping-out-attack-mail",
+      "source": "LA Times"
+    },
+    {
       "name": "The California Congressional District",
       "count": 10,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
       "source": "LA Times"
-    },
-    {
-      "name": "The L.A. City Council",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Amazon",
-      "count": 8,
-      "url": "https://www.theguardian.com/games/2026/may/06/pushing-buttons-007-first-light-james-bond-game-amazon",
-      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The World Cup",
-      "count": 4,
-      "url": "https://www.theguardian.com/football/2026/may/08/world-cup-final-ticket-prices-tripled-fifa",
+      "name": "World Cup Panini",
+      "count": 9,
+      "url": "https://www.theguardian.com/football/2026/may/09/writers-on-their-world-cup-panini-collecting-days-we-all-remember-the-playground-twerp",
       "source": "The Guardian"
     },
     {
-      "name": "Game 4",
+      "name": "The Iran War     Tell",
       "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/sixers-fan-comes-diabolical-plan-keep-knicks-fans-town-game-4-",
-      "source": "Fox News"
+      "url": "https://www.theguardian.com/us-news/2026/may/09/travelers-feel-squeeze-summer-travel-iran-war-fuel",
+      "source": "The Guardian"
     },
     {
-      "name": "Dino Prizmic",
+      "name": "A Faraway War",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/08/novak-djokovic-italian-open-tennis-french-open",
+      "url": "https://www.nytimes.com/2026/05/09/business/taiwan-plastic-bag-shortage.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ukraine War",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Us World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/apr/22/overlooked-moments-in-us-world-cup-history",
       "source": "The Guardian"
     },
     {
       "name": "Venice Biennale",
       "count": 1,
       "url": "https://www.theguardian.com/artanddesign/2026/may/09/what-not-to-miss-at-the-2026-venice-biennale",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Game 3",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/09/nba-playoffs-victor-wembanyama-spurs-timberwolves-knicks-sixers",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Holocaust 77 Years Ago",
+      "count": 1,
+      "url": "https://www.theguardian.com/books/2026/may/09/israel-what-went-wrong-by-omer-bartov-review-the-long-view",
       "source": "The Guardian"
     },
     {
@@ -222,25 +246,7 @@
       "count": 1,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
       "source": "LA Times"
-    },
-    {
-      "name": "The Hollywood Bowl",
-      "count": 1,
-      "url": "https://www.latimes.com/delos/story/2026-04-28/marcello-hernandez-interview-netflix-is-a-joke-fest-feid-hollywood-bowl",
-      "source": "LA Times"
-    },
-    {
-      "name": "Cold War",
-      "count": 1,
-      "url": "https://www.npr.org/2026/05/08/g-s1-121186/ufo-files-released-defense-department",
-      "source": "NPR"
-    },
-    {
-      "name": "Super Bowl",
-      "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/viewers-absolutely-slammed-bad-bunnys-super-bowl-halftime-show-complained-fcc",
-      "source": "Fox News"
     }
   ],
-  "updated": "2026-05-09T08:44:46Z"
+  "updated": "2026-05-09T14:18:53Z"
 };
