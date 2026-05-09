@@ -9,26 +9,20 @@
     },
     {
       "name": "David Attenborough",
-      "count": 10,
+      "count": 8,
       "url": "https://www.nytimes.com/2026/05/08/arts/television/david-attenborough-100-birthday.html",
       "source": "NY Times"
     },
     {
       "name": "Keir Starmer",
-      "count": 9,
-      "url": "https://www.theguardian.com/politics/2026/may/08/keir-starmer-under-pressure-to-agree-exit-plan-after-election-mauling",
+      "count": 8,
+      "url": "https://www.theguardian.com/politics/2026/may/09/labour-members-keir-starmer-party-fortunes-poll",
       "source": "The Guardian"
     },
     {
       "name": "Donald Trump ’S",
-      "count": 9,
+      "count": 8,
       "url": "https://www.theguardian.com/us-news/2026/may/08/doge-humanities-grants-unconstitutional",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Eric Cantona",
-      "count": 5,
-      "url": "https://www.theguardian.com/film/2026/may/08/eric-cantona-cannes-film-festival-documentary",
       "source": "The Guardian"
     },
     {
@@ -56,78 +50,28 @@
       "source": "NY Times"
     },
     {
-      "name": "Palantir",
+      "name": "Marco Rubio",
       "count": 4,
-      "url": "https://www.theguardian.com/technology/commentisfree/2026/may/08/palantir-chore-coat-jacket-merch",
-      "source": "The Guardian"
-    }
-  ],
-  "EVENT": [
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
+    },
     {
-      "name": "The World Cup",
+      "name": "Charlie Kirk",
       "count": 4,
-      "url": "https://www.theguardian.com/football/2026/may/08/world-cup-final-ticket-prices-tripled-fifa",
+      "url": "https://www.theguardian.com/us-news/2026/may/08/charlie-kirk-courtroom-cameras-allowed",
       "source": "The Guardian"
-    },
-    {
-      "name": "Game 4",
-      "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/sixers-fan-comes-diabolical-plan-keep-knicks-fans-town-game-4-",
-      "source": "Fox News"
-    },
-    {
-      "name": "Fa Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/film/2026/may/08/eric-cantona-cannes-film-festival-documentary",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dino Prizmic",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/08/novak-djokovic-italian-open-tennis-french-open",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mother’S Day",
-      "count": 1,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/01/a-perfect-pan-on-sale-plus-famous-grandmas-suggest-mothers-day-gifts",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Olympics",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Lifetime",
-      "count": 1,
-      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-05-08/valerie-bertinelli-love-again-lifetime",
-      "source": "LA Times"
-    },
-    {
-      "name": "Cold War",
-      "count": 1,
-      "url": "https://www.npr.org/2026/05/08/g-s1-121186/ufo-files-released-defense-department",
-      "source": "NPR"
-    },
-    {
-      "name": "Super Bowl",
-      "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/viewers-absolutely-slammed-bad-bunnys-super-bowl-halftime-show-complained-fcc",
-      "source": "Fox News"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 65,
-      "url": "https://www.theguardian.com/us-news/2026/may/08/voting-rights-activists-louisiana-callais-black-voters",
+      "count": 61,
+      "url": "https://www.theguardian.com/science/2026/may/09/doomsday-clock-ai-iran-ukraine-war-climate-breakdown-nuclear-apocalypse",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 46,
+      "count": 47,
       "url": "https://www.nytimes.com/2026/05/08/us/kristin-smart-investigation-san-luis-obispo.html",
       "source": "NY Times"
     },
@@ -145,59 +89,53 @@
     },
     {
       "name": "L.A. County'S",
-      "count": 21,
+      "count": 20,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
       "source": "LA Times"
     },
     {
       "name": "Virginia",
-      "count": 18,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/08/karoline-leavitt-katie-miller-pregnancy",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/may/08/virginia-supreme-court-rules-against-congressional-maps",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ukraine",
+      "count": 13,
+      "url": "https://www.theguardian.com/science/2026/may/09/doomsday-clock-ai-iran-ukraine-war-climate-breakdown-nuclear-apocalypse",
       "source": "The Guardian"
     },
     {
       "name": "Florida",
       "count": 13,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/08/trump-administration-parents-arrested",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uk",
-      "count": 12,
-      "url": "https://www.theguardian.com/politics/2026/may/08/keir-starmer-under-pressure-to-agree-exit-plan-after-election-mauling",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City ’S",
-      "count": 11,
-      "url": "https://www.theguardian.com/artanddesign/2026/may/08/keith-haring-sothebys-kermit-oswald-interview",
+      "url": "https://www.theguardian.com/us-news/2026/may/08/florida-surgeon-patient-death-liver-spleen",
       "source": "The Guardian"
     },
     {
       "name": "Russia",
       "count": 11,
-      "url": "https://www.theguardian.com/world/2026/may/08/trump-russia-ukraine-three-day-ceasefire-9-may",
+      "url": "https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/08/election-results-left-right-uk-keir-starmer",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Trump Officials Reject Claims They’Re Softening On Immigration",
-      "count": 39,
+      "count": 38,
       "url": "https://www.nytimes.com/2026/05/08/us/politics/markwayne-mullin-immigration-dhs.html",
       "source": "NY Times"
     },
     {
       "name": "Anthropic’S Mythos Ai",
-      "count": 21,
+      "count": 23,
       "url": "https://www.theguardian.com/commentisfree/2026/may/08/how-dangerous-is-anthropics-mythos-ai",
       "source": "The Guardian"
-    },
-    {
-      "name": "Labour",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/05/08/world/europe/uk-elections-local-takeaways.html",
-      "source": "NY Times"
     },
     {
       "name": "Pentagon",
@@ -206,16 +144,16 @@
       "source": "NY Times"
     },
     {
-      "name": "Guardian Faber Publishing",
-      "count": 14,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/08/fly-plane-labour-lost-control-keir-starmer-david-lammy-pilot",
-      "source": "The Guardian"
-    },
-    {
       "name": "House Of Delegates",
-      "count": 14,
+      "count": 15,
       "url": "https://thehill.com/homenews/campaign/5870634-virginia-democrats-fight-redistricting-ruling/",
       "source": "The Hill"
+    },
+    {
+      "name": "Guardian News",
+      "count": 13,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
     },
     {
       "name": "Gop",
@@ -225,7 +163,7 @@
     },
     {
       "name": "The Filter Us",
-      "count": 11,
+      "count": 10,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
@@ -237,10 +175,72 @@
     },
     {
       "name": "The L.A. City Council",
-      "count": 10,
+      "count": 9,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "Amazon",
+      "count": 8,
+      "url": "https://www.theguardian.com/games/2026/may/06/pushing-buttons-007-first-light-james-bond-game-amazon",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-05-09T04:26:45Z"
+  "EVENT": [
+    {
+      "name": "The World Cup",
+      "count": 4,
+      "url": "https://www.theguardian.com/football/2026/may/08/world-cup-final-ticket-prices-tripled-fifa",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Game 4",
+      "count": 2,
+      "url": "https://www.foxnews.com/outkick-sports/sixers-fan-comes-diabolical-plan-keep-knicks-fans-town-game-4-",
+      "source": "Fox News"
+    },
+    {
+      "name": "Dino Prizmic",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/08/novak-djokovic-italian-open-tennis-french-open",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Venice Biennale",
+      "count": 1,
+      "url": "https://www.theguardian.com/artanddesign/2026/may/09/what-not-to-miss-at-the-2026-venice-biennale",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mother’S Day",
+      "count": 1,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/01/a-perfect-pan-on-sale-plus-famous-grandmas-suggest-mothers-day-gifts",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympics",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "The Hollywood Bowl",
+      "count": 1,
+      "url": "https://www.latimes.com/delos/story/2026-04-28/marcello-hernandez-interview-netflix-is-a-joke-fest-feid-hollywood-bowl",
+      "source": "LA Times"
+    },
+    {
+      "name": "Cold War",
+      "count": 1,
+      "url": "https://www.npr.org/2026/05/08/g-s1-121186/ufo-files-released-defense-department",
+      "source": "NPR"
+    },
+    {
+      "name": "Super Bowl",
+      "count": 1,
+      "url": "https://www.foxnews.com/outkick-sports/viewers-absolutely-slammed-bad-bunnys-super-bowl-halftime-show-complained-fcc",
+      "source": "Fox News"
+    }
+  ],
+  "updated": "2026-05-09T08:44:46Z"
 };

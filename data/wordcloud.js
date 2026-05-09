@@ -2,28 +2,28 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    73,
+    72,
     "https://www.nytimes.com/2026/05/08/us/politics/markwayne-mullin-immigration-dhs.html"
   ],
   [
     "race",
-    64,
+    63,
     "https://www.nytimes.com/2026/05/08/upshot/redistricting-midterms-republicans-house.html"
   ],
   [
     "guide",
-    54,
-    "https://www.theguardian.com/thefilter-us/2026/may/02/mothers-day-gifts-deals-sales"
-  ],
-  [
-    "court",
-    52,
-    "https://www.nytimes.com/2026/05/08/us/politics/lawmakers-democrats-ice-detention.html"
+    55,
+    "https://www.theguardian.com/culture/2026/may/08/everyday-hollywood-film-comedies-have-faded-but-can-they-make-a-comeback"
   ],
   [
     "california",
-    51,
+    53,
     "https://www.nytimes.com/2026/05/08/us/kristin-smart-investigation-san-luis-obispo.html"
+  ],
+  [
+    "court",
+    46,
+    "https://www.nytimes.com/2026/05/08/us/politics/lawmakers-democrats-ice-detention.html"
   ],
   [
     "district",
@@ -31,8 +31,13 @@
     "https://www.nytimes.com/2026/05/08/us/politics/alabama-supreme-court-voting-map.html"
   ],
   [
-    "congressional",
+    "hantavirus",
     39,
+    "https://www.nytimes.com/2026/05/08/world/hantavirus-mv-hondius-cruise.html"
+  ],
+  [
+    "congressional",
+    35,
     "https://www.nytimes.com/2026/05/08/us/politics/alabama-supreme-court-voting-map.html"
   ],
   [
@@ -41,39 +46,29 @@
     "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html"
   ],
   [
-    "hantavirus",
-    34,
+    "ship",
+    30,
     "https://www.nytimes.com/2026/05/08/world/hantavirus-mv-hondius-cruise.html"
   ],
   [
+    "president",
+    29,
+    "https://www.nytimes.com/2026/05/08/us/politics/reflecting-pool-trump-contract.html"
+  ],
+  [
     "map",
-    30,
-    "https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html"
-  ],
-  [
-    "supreme",
-    30,
-    "https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-gerrymandering-takeaways.html"
-  ],
-  [
-    "virginia",
     29,
     "https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html"
   ],
   [
-    "democrats",
-    27,
-    "https://www.nytimes.com/2026/05/08/us/politics/lawmakers-democrats-ice-detention.html"
+    "cruise",
+    29,
+    "https://www.nytimes.com/2026/05/08/world/americas/norovirus-outbreak-cruise-ship.html"
   ],
   [
-    "president",
-    27,
-    "https://www.nytimes.com/2026/05/08/us/politics/reflecting-pool-trump-contract.html"
-  ],
-  [
-    "ship",
+    "supreme",
     26,
-    "https://www.nytimes.com/2026/05/08/world/hantavirus-mv-hondius-cruise.html"
+    "https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-gerrymandering-takeaways.html"
   ],
   [
     "administration",
@@ -81,69 +76,49 @@
     "https://www.nytimes.com/2026/05/08/us/politics/trump-immigrants-citizenship.html"
   ],
   [
+    "democrats",
+    25,
+    "https://www.nytimes.com/2026/05/08/us/politics/lawmakers-democrats-ice-detention.html"
+  ],
+  [
     "republicans",
-    25,
+    24,
     "https://www.nytimes.com/2026/05/08/upshot/redistricting-midterms-republicans-house.html"
   ],
   [
-    "redistricting",
-    25,
-    "https://www.nytimes.com/2026/05/08/upshot/redistricting-midterms-republicans-house.html"
-  ],
-  [
-    "voters",
-    25,
+    "virginia",
+    24,
     "https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html"
   ],
   [
-    "cruise",
-    24,
-    "https://www.nytimes.com/2026/05/08/world/americas/norovirus-outbreak-cruise-ship.html"
+    "voters",
+    23,
+    "https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html"
   ],
   [
-    "election",
-    24,
-    "https://www.theguardian.com/us-news/2026/may/08/voting-rights-activists-louisiana-callais-black-voters"
+    "redistricting",
+    22,
+    "https://www.nytimes.com/2026/05/08/upshot/redistricting-midterms-republicans-house.html"
   ],
   [
-    "labour",
+    "department",
     21,
-    "https://www.nytimes.com/2026/05/08/world/europe/uk-elections-local-takeaways.html"
+    "https://www.nytimes.com/2026/05/08/us/politics/markwayne-mullin-immigration-dhs.html"
+  ],
+  [
+    "war",
+    20,
+    "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html"
   ],
   [
     "mother",
     20,
-    "https://www.theguardian.com/thefilter-us/2026/may/02/mothers-day-gifts-deals-sales"
-  ],
-  [
-    "star",
-    20,
-    "https://www.theguardian.com/us-news/2026/may/08/white-house-mark-hamill-ai-trump-picture-grave-post"
-  ],
-  [
-    "department",
-    19,
-    "https://www.nytimes.com/2026/05/08/us/politics/markwayne-mullin-immigration-dhs.html"
-  ],
-  [
-    "americans",
-    19,
-    "https://www.nytimes.com/2026/05/08/us/politics/trump-immigrants-citizenship.html"
-  ],
-  [
-    "media",
-    19,
-    "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/"
+    "https://www.theguardian.com/books/2026/may/08/the-best-recent-science-fiction-fantasy-and-horror-review-roundup"
   ],
   [
     "council",
     19,
-    "https://www.theguardian.com/politics/2026/may/08/keir-starmer-under-pressure-to-agree-exit-plan-after-election-mauling"
-  ],
-  [
-    "faces",
-    19,
-    "https://www.theguardian.com/tv-and-radio/video/2026/may/08/how-david-attenborough-transformed-film-and-tv-for-ever-video"
+    "https://www.theguardian.com/world/commentisfree/2026/may/09/ai-interpretation-diego-marani"
   ],
   [
     "incumbent",
@@ -151,19 +126,14 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "david",
+    "americans",
     18,
-    "https://www.nytimes.com/2026/05/08/arts/television/david-attenborough-100-birthday.html"
+    "https://www.nytimes.com/2026/05/08/us/politics/trump-immigrants-citizenship.html"
   ],
   [
-    "war",
+    "media",
     18,
-    "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html"
-  ],
-  [
-    "democratic",
-    18,
-    "https://www.nytimes.com/2026/05/08/us/postal-service-handguns-mail.html"
+    "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/"
   ],
   [
     "health",
@@ -171,14 +141,19 @@
     "https://www.theguardian.com/science/2026/may/08/hantavirus-global-heath-scare"
   ],
   [
-    "party",
+    "election",
     18,
-    "https://www.theguardian.com/politics/2026/may/08/keir-starmer-under-pressure-to-agree-exit-plan-after-election-mauling"
+    "https://www.theguardian.com/commentisfree/2026/may/08/election-results-left-right-uk-keir-starmer"
   ],
   [
-    "seats",
-    17,
-    "https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html"
+    "faces",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/may/08/the-guardian-view-on-britains-fractured-politics-a-revolt-against-the-status-quo"
+  ],
+  [
+    "game",
+    18,
+    "https://www.theguardian.com/football/who-scored-blog/2026/may/08/premier-league-title-race-seven-games-arsenal-manchester-city"
   ],
   [
     "police",
@@ -186,64 +161,49 @@
     "https://www.nytimes.com/2026/05/08/nyregion/mamdani-bellevue-subway-attack-investigation.html"
   ],
   [
-    "country",
+    "general",
     17,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/world/2026/may/09/tensions-emerge-bejamin-netanyahu-donald-trump-alliance"
   ],
   [
-    "ceasefire",
+    "power",
     17,
-    "https://www.theguardian.com/world/2026/may/08/trump-russia-ukraine-three-day-ceasefire-9-may"
+    "https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates"
   ],
   [
-    "politics",
+    "star",
     17,
-    "https://www.theguardian.com/politics/2026/may/08/keir-starmer-under-pressure-to-agree-exit-plan-after-election-mauling"
+    "https://www.theguardian.com/us-news/2026/may/08/white-house-mark-hamill-ai-trump-picture-grave-post"
   ],
   [
     "games",
     17,
-    "https://www.theguardian.com/music/2026/may/08/pinkpantheress-concert-review-new-york-city"
-  ],
-  [
-    "film",
-    17,
-    "https://www.theguardian.com/film/2026/may/08/eric-cantona-cannes-film-festival-documentary"
-  ],
-  [
-    "game",
-    17,
     "https://www.theguardian.com/football/who-scored-blog/2026/may/08/premier-league-title-race-seven-games-arsenal-manchester-city"
   ],
   [
-    "online",
+    "attack",
     16,
-    "https://www.nytimes.com/2026/05/08/us/politics/ufo-sightings-us-government.html"
+    "https://www.nytimes.com/2026/05/08/nyregion/mamdani-bellevue-subway-attack-investigation.html"
   ],
   [
-    "york",
+    "democratic",
     16,
-    "https://www.nytimes.com/2026/05/08/nyregion/epstein-suicide-note-phrases.html"
+    "https://www.nytimes.com/2026/05/08/us/postal-service-handguns-mail.html"
   ],
   [
-    "elections",
+    "response",
     16,
-    "https://www.nytimes.com/2026/05/08/world/europe/uk-elections-local-takeaways.html"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "family",
+    "ceasefire",
     16,
-    "https://www.theguardian.com/artanddesign/2026/may/08/keith-haring-sothebys-kermit-oswald-interview"
+    "https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates"
   ],
   [
-    "general",
+    "art",
     16,
-    "https://www.theguardian.com/us-news/2026/may/08/virginia-supreme-court-rules-against-congressional-maps"
-  ],
-  [
-    "challengers",
-    16,
-    "https://www.theguardian.com/politics/2026/may/08/labour-local-elections-keir-starmer-cling-on"
+    "https://www.theguardian.com/commentisfree/2026/may/09/venice-biennale-anger-russia-israel-art-festival"
   ],
   [
     "candidates",
@@ -251,24 +211,9 @@
     "https://www.theguardian.com/commentisfree/2026/may/08/election-results-left-right-uk-keir-starmer"
   ],
   [
-    "gala",
-    16,
-    "https://www.theguardian.com/games/2026/may/06/pushing-buttons-007-first-light-james-bond-game-amazon"
-  ],
-  [
-    "county",
-    16,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-40-orange-county-inland-empire-voter-guide"
-  ],
-  [
     "files",
     15,
     "https://www.nytimes.com/2026/05/08/us/politics/ufo-sightings-us-government.html"
-  ],
-  [
-    "strike",
-    15,
-    "https://www.nytimes.com/2026/05/08/us/politics/trump-pentagon-boat-strike.html"
   ],
   [
     "military",
@@ -276,19 +221,19 @@
     "https://www.nytimes.com/2026/05/09/world/asia/china-military-generals.html"
   ],
   [
-    "little",
+    "country",
     15,
-    "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html"
+    "https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html"
   ],
   [
-    "attack",
+    "outbreak",
     15,
-    "https://www.nytimes.com/2026/05/08/nyregion/mamdani-bellevue-subway-attack-investigation.html"
+    "https://www.nytimes.com/2026/05/08/world/hantavirus-mv-hondius-cruise.html"
   ],
   [
-    "support",
+    "parents",
     15,
-    "https://www.washingtonpost.com/nation/2026/05/07/boulder-firebombing-attack-guilty/"
+    "https://cooking.nytimes.com/article/20-minute-family-dinner-ideas"
   ],
   [
     "least",
@@ -296,24 +241,29 @@
     "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/"
   ],
   [
+    "baby",
+    15,
+    "https://www.theguardian.com/books/2026/may/09/the-rise-of-the-literary-nepo-baby-the-children-of-famous-novelists-on-following-in-their-parents-footsteps"
+  ],
+  [
+    "feel",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/may/08/karoline-leavitt-katie-miller-pregnancy"
+  ],
+  [
     "mom",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/may/02/mothers-day-gifts-deals-sales"
+    "https://www.theguardian.com/books/2026/may/08/lily-king-i-couldnt-get-past-the-first-20-pages-of-pride-and-prejudice"
   ],
   [
-    "don",
+    "challengers",
     15,
-    "https://www.theguardian.com/environment/2026/may/08/americans-without-cars-driving-dominated-country"
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "power",
+    "county",
     15,
-    "https://www.theguardian.com/music/2026/may/08/pinkpantheress-concert-review-new-york-city"
-  ],
-  [
-    "season",
-    15,
-    "https://www.theguardian.com/football/who-scored-blog/2026/may/08/premier-league-title-race-seven-games-arsenal-manchester-city"
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-40-orange-county-inland-empire-voter-guide"
   ],
   [
     "pentagon",
@@ -321,39 +271,49 @@
     "https://www.nytimes.com/2026/05/08/us/politics/ufo-sightings-us-government.html"
   ],
   [
-    "control",
+    "online",
+    14,
+    "https://www.nytimes.com/2026/05/08/us/politics/ufo-sightings-us-government.html"
+  ],
+  [
+    "strike",
+    14,
+    "https://www.nytimes.com/2026/05/08/us/politics/trump-pentagon-boat-strike.html"
+  ],
+  [
+    "recent",
     14,
     "https://www.nytimes.com/2026/05/08/upshot/redistricting-midterms-republicans-house.html"
   ],
   [
-    "outbreak",
+    "little",
     14,
-    "https://www.nytimes.com/2026/05/08/world/hantavirus-mv-hondius-cruise.html"
+    "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html"
   ],
   [
-    "parents",
+    "support",
     14,
-    "https://cooking.nytimes.com/article/20-minute-family-dinner-ideas"
+    "https://www.washingtonpost.com/nation/2026/05/07/boulder-firebombing-attack-guilty/"
   ],
   [
-    "response",
+    "video",
     14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.theguardian.com/world/2026/may/09/tensions-emerge-bejamin-netanyahu-donald-trump-alliance"
   ],
   [
-    "baby",
+    "politics",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/may/08/karoline-leavitt-katie-miller-pregnancy"
+    "https://www.theguardian.com/us-news/2026/may/08/trump-news-latest-updates-today"
   ],
   [
-    "art",
+    "family",
     14,
-    "https://www.theguardian.com/artanddesign/2026/may/08/several-venice-biennale-pavilions-shut-in-protest-over-inclusion-of-israel"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/08/trump-administration-parents-arrested"
   ],
   [
-    "fashion",
+    "gala",
     14,
-    "https://www.theguardian.com/artanddesign/2026/may/08/whitaker-malem-london-design-kim-kardashian-met-gala-breastplate"
+    "https://www.theguardian.com/games/2026/may/06/pushing-buttons-007-first-light-james-bond-game-amazon"
   ],
   [
     "republican",
@@ -361,18 +321,58 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "lawmakers",
+    "secretary",
     13,
-    "https://www.nytimes.com/2026/05/08/us/politics/lawmakers-democrats-ice-detention.html"
+    "https://www.nytimes.com/2026/05/08/us/politics/markwayne-mullin-immigration-dhs.html"
   ],
   [
-    "recent",
+    "american",
     13,
-    "https://www.nytimes.com/2026/05/08/upshot/redistricting-midterms-republicans-house.html"
+    "https://www.nytimes.com/2026/05/08/us/trump-fda-commissioner-makary.html"
   ],
   [
-    "ruling",
+    "because",
     13,
-    "https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-gerrymandering-takeaways.html"
+    "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html"
+  ],
+  [
+    "local",
+    13,
+    "https://www.nytimes.com/2026/05/08/world/europe/uk-elections-local-takeaways.html"
+  ],
+  [
+    "elections",
+    13,
+    "https://www.nytimes.com/2026/05/08/world/europe/uk-elections-local-takeaways.html"
+  ],
+  [
+    "already",
+    13,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "everything",
+    13,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "latest",
+    13,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "ukraine",
+    13,
+    "https://www.theguardian.com/science/2026/may/09/doomsday-clock-ai-iran-ukraine-war-climate-breakdown-nuclear-apocalypse"
+  ],
+  [
+    "florida",
+    13,
+    "https://www.theguardian.com/us-news/2026/may/08/florida-surgeon-patient-death-liver-spleen"
+  ],
+  [
+    "mayor",
+    13,
+    "https://www.theguardian.com/politics/2026/may/09/labour-members-keir-starmer-party-fortunes-poll"
   ]
 ];
