@@ -2,7 +2,7 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    77,
+    76,
     "https://www.nytimes.com/2026/05/09/business/media/the-view-fcc-trump.html"
   ],
   [
@@ -17,13 +17,13 @@
   ],
   [
     "california",
-    50,
+    49,
     "https://www.nytimes.com/2026/05/09/us/kristin-smart-search-no-remains-recovered-california-property.html"
   ],
   [
     "hantavirus",
     41,
-    "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html"
+    "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html"
   ],
   [
     "district",
@@ -31,29 +31,29 @@
     "https://www.theguardian.com/lifeandstyle/2026/may/09/william-shum-best-phone-picture-hong-kong-red-taxi"
   ],
   [
-    "cruise",
-    34,
-    "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html"
-  ],
-  [
-    "war",
-    34,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
     "president",
-    33,
+    35,
     "https://www.nytimes.com/2026/05/09/business/economy/trump-tariff-timeline.html"
   ],
   [
-    "ship",
-    31,
-    "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html"
+    "mother",
+    35,
+    "https://www.nytimes.com/2026/05/10/opinion/erica-jong-mothers-day-dementia.html"
   ],
   [
-    "mother",
-    31,
-    "https://www.theguardian.com/lifeandstyle/2026/may/08/best-last-minute-mothers-day-gifts"
+    "war",
+    35,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "cruise",
+    34,
+    "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html"
+  ],
+  [
+    "ship",
+    32,
+    "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html"
   ],
   [
     "court",
@@ -62,8 +62,18 @@
   ],
   [
     "outbreak",
-    26,
-    "https://www.theguardian.com/world/2026/may/09/cdc-hantavirus-who-cruise-ship-outbreak-response"
+    27,
+    "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html"
+  ],
+  [
+    "iran",
+    25,
+    "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html"
+  ],
+  [
+    "faces",
+    23,
+    "https://www.theguardian.com/us-news/2026/may/09/sean-duffy-great-american-road-trip-reality-show"
   ],
   [
     "county",
@@ -71,24 +81,14 @@
     "https://www.theguardian.com/us-news/2026/may/09/trumps-low-approval-ratings-republicans-self-destruction-democrats-senate"
   ],
   [
-    "faces",
-    22,
-    "https://www.theguardian.com/us-news/2026/may/09/sean-duffy-great-american-road-trip-reality-show"
-  ],
-  [
-    "iran",
-    21,
-    "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html"
-  ],
-  [
     "republicans",
     21,
     "https://www.nytimes.com/2026/05/09/us/politics/midterm-redistricting-house-map-republicans.html"
   ],
   [
-    "politics",
+    "health",
     21,
-    "https://www.nytimes.com/2026/05/04/opinion/yuppies-merit-society-politics-cities.html"
+    "https://www.nytimes.com/2026/05/09/science/hantavirus-vaccines-treatment.html"
   ],
   [
     "election",
@@ -96,14 +96,24 @@
     "https://www.theguardian.com/commentisfree/2026/may/08/election-results-left-right-uk-keir-starmer"
   ],
   [
+    "fire",
+    20,
+    "https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html"
+  ],
+  [
+    "politics",
+    20,
+    "https://www.theguardian.com/artanddesign/2026/may/09/female-nudity-art-stinks-key-takeways-venice-biennale-2026"
+  ],
+  [
+    "ukraine",
+    20,
+    "https://www.theguardian.com/world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end"
+  ],
+  [
     "incumbent",
     20,
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
-  ],
-  [
-    "fire",
-    19,
-    "https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html"
   ],
   [
     "attack",
@@ -116,14 +126,14 @@
     "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "ukraine",
-    19,
-    "https://www.theguardian.com/world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end"
-  ],
-  [
     "voters",
     19,
     "https://www.theguardian.com/us-news/2026/may/09/activists-supreme-court-voting-rights-act"
+  ],
+  [
+    "congressional",
+    19,
+    "https://www.theguardian.com/us-news/2026/may/08/virginia-supreme-court-rules-against-congressional-maps"
   ],
   [
     "supreme",
@@ -131,14 +141,19 @@
     "https://www.nytimes.com/2026/05/09/us/politics/how-minority-districts-fueled-the-gops-southern-ascendancy-in-congress.html"
   ],
   [
-    "administration",
+    "passengers",
     18,
-    "https://www.nytimes.com/2026/05/09/business/media/the-view-fcc-trump.html"
+    "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html"
   ],
   [
-    "health",
+    "something",
     18,
-    "https://www.nytimes.com/2026/05/09/science/hantavirus-vaccines-treatment.html"
+    "https://www.nytimes.com/2026/05/10/opinion/china-trump-us-power.html"
+  ],
+  [
+    "latest",
+    18,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
     "council",
@@ -146,19 +161,14 @@
     "https://www.theguardian.com/us-news/2026/may/09/trump-council-fema-disaster-preparedness"
   ],
   [
-    "congressional",
-    18,
-    "https://www.theguardian.com/us-news/2026/may/08/virginia-supreme-court-rules-against-congressional-maps"
-  ],
-  [
     "recent",
     17,
     "https://www.nytimes.com/2026/05/08/upshot/redistricting-midterms-republicans-house.html"
   ],
   [
-    "passengers",
+    "because",
     17,
-    "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html"
+    "https://www.nytimes.com/2026/05/09/business/economy/trump-tariff-timeline.html"
   ],
   [
     "country",
@@ -166,29 +176,9 @@
     "https://www.nytimes.com/2026/05/10/world/asia/thailand-conscription-lottery.html"
   ],
   [
-    "family",
-    17,
-    "https://www.nytimes.com/2026/05/09/us/kristin-smart-search-no-remains-recovered-california-property.html"
-  ],
-  [
-    "series",
-    17,
-    "https://www.theguardian.com/culture/2026/may/09/joseph-fiennes-on-parenting-politics-and-banning-children-from-social-media-stand-up-keir-this-is-your-kids-generation"
-  ],
-  [
     "candidates",
     17,
     "https://www.theguardian.com/commentisfree/2026/may/08/election-results-left-right-uk-keir-starmer"
-  ],
-  [
-    "video",
-    17,
-    "https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media"
-  ],
-  [
-    "because",
-    16,
-    "https://www.nytimes.com/2026/05/09/business/economy/trump-tariff-timeline.html"
   ],
   [
     "plane",
@@ -196,14 +186,19 @@
     "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html"
   ],
   [
+    "died",
+    16,
+    "https://www.washingtonpost.com/obituaries/2026/05/09/edith-eger-dead/"
+  ],
+  [
     "airlines",
     16,
     "https://www.washingtonpost.com/nation/2026/05/08/spirit-shutdown-bankrupt-airport/"
   ],
   [
-    "least",
+    "early",
     16,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "gifts",
@@ -221,19 +216,19 @@
     "https://www.theguardian.com/artanddesign/2026/may/09/female-nudity-art-stinks-key-takeways-venice-biennale-2026"
   ],
   [
-    "star",
+    "series",
     16,
     "https://www.theguardian.com/culture/2026/may/09/joseph-fiennes-on-parenting-politics-and-banning-children-from-social-media-stand-up-keir-this-is-your-kids-generation"
   ],
   [
-    "game",
+    "democrats",
     16,
-    "https://www.theguardian.com/society/2026/may/10/cancer-treatment-car-t-cell-therapy-sam-neill"
+    "https://www.theguardian.com/us-news/2026/may/09/trumps-low-approval-ratings-republicans-self-destruction-democrats-senate"
   ],
   [
-    "little",
+    "trying",
     15,
-    "https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html"
+    "https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html"
   ],
   [
     "redistricting",
@@ -241,14 +236,9 @@
     "https://www.nytimes.com/2026/05/09/us/politics/midterm-redistricting-house-map-republicans.html"
   ],
   [
-    "killed",
+    "family",
     15,
-    "https://www.nytimes.com/2026/05/09/us/bear-attack-glacier-national-park.html"
-  ],
-  [
-    "children",
-    15,
-    "https://www.washingtonpost.com/nation/2026/05/09/eight-children-killed-funeral-shreveport/"
+    "https://www.nytimes.com/2026/05/09/us/kristin-smart-search-no-remains-recovered-california-property.html"
   ],
   [
     "spirit",
@@ -261,9 +251,19 @@
     "https://www.theguardian.com/lifeandstyle/2026/may/08/best-last-minute-mothers-day-gifts"
   ],
   [
-    "americans",
+    "don",
     15,
-    "https://www.theguardian.com/us-news/2026/may/09/travelers-feel-squeeze-summer-travel-iran-war-fuel"
+    "https://www.theguardian.com/lifeandstyle/2026/may/08/best-last-minute-mothers-day-gifts"
+  ],
+  [
+    "media",
+    15,
+    "https://www.theguardian.com/culture/2026/may/09/joseph-fiennes-on-parenting-politics-and-banning-children-from-social-media-stand-up-keir-this-is-your-kids-generation"
+  ],
+  [
+    "game",
+    15,
+    "https://www.theguardian.com/society/2026/may/10/cancer-treatment-car-t-cell-therapy-sam-neill"
   ],
   [
     "season",
@@ -271,14 +271,9 @@
     "https://www.theguardian.com/us-news/2026/may/09/travelers-feel-squeeze-summer-travel-iran-war-fuel"
   ],
   [
-    "democrats",
+    "video",
     15,
-    "https://www.theguardian.com/us-news/2026/may/09/trumps-low-approval-ratings-republicans-self-destruction-democrats-senate"
-  ],
-  [
-    "york",
-    15,
-    "https://www.theguardian.com/sport/2026/may/09/wnba-growth-sustainable-franchise-valuations-valkyries"
+    "https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media"
   ],
   [
     "challengers",
@@ -286,12 +281,12 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "remains",
+    "little",
     14,
-    "https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html"
+    "https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html"
   ],
   [
-    "trying",
+    "remains",
     14,
     "https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html"
   ],
@@ -306,34 +301,14 @@
     "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html"
   ],
   [
-    "dies",
+    "braves",
     14,
     "https://www.washingtonpost.com/obituaries/2026/05/09/bobby-cox-braves-manager-dead/"
   ],
   [
-    "died",
+    "dies",
     14,
-    "https://www.washingtonpost.com/obituaries/2026/05/09/edith-eger-dead/"
-  ],
-  [
-    "crisis",
-    14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "latest",
-    14,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "team",
-    14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "don",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/may/08/best-last-minute-mothers-day-gifts"
+    "https://www.washingtonpost.com/obituaries/2026/05/09/bobby-cox-braves-manager-dead/"
   ],
   [
     "los",
@@ -341,19 +316,29 @@
     "https://www.theguardian.com/commentisfree/2026/may/09/spirit-airlines-air-travel"
   ],
   [
-    "angeles",
+    "star",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/09/spirit-airlines-air-travel"
+    "https://www.theguardian.com/culture/2026/may/09/joseph-fiennes-on-parenting-politics-and-banning-children-from-social-media-stand-up-keir-this-is-your-kids-generation"
   ],
   [
-    "car",
+    "husband",
     14,
-    "https://www.theguardian.com/society/2026/may/10/cancer-treatment-car-t-cell-therapy-sam-neill"
+    "https://www.theguardian.com/culture/2026/may/09/joseph-fiennes-on-parenting-politics-and-banning-children-from-social-media-stand-up-keir-this-is-your-kids-generation"
   ],
   [
     "case",
     14,
-    "https://www.theguardian.com/us-news/2026/may/09/new-orleans-pastor-guilty-sexually-molesting-teens"
+    "https://www.theguardian.com/us-news/2026/may/09/betty-broderick-convicted-double-murder-ex-husband-wife-dead"
+  ],
+  [
+    "donald",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/09/defamation-lawsuit-dismissed-raymond-epps-fox-news-january-6"
+  ],
+  [
+    "feel",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/09/travelers-feel-squeeze-summer-travel-iran-war-fuel"
   ],
   [
     "party",
@@ -361,9 +346,14 @@
     "https://www.theguardian.com/us-news/2026/may/09/trumps-low-approval-ratings-republicans-self-destruction-democrats-senate"
   ],
   [
-    "local",
+    "york",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/08/election-results-left-right-uk-keir-starmer"
+    "https://www.theguardian.com/sport/2026/may/09/wnba-growth-sustainable-franchise-valuations-valkyries"
+  ],
+  [
+    "deadly",
+    13,
+    "https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html"
   ],
   [
     "runway",
@@ -371,8 +361,18 @@
     "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html"
   ],
   [
-    "early",
+    "loss",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "crisis",
+    13,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "released",
+    13,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ]
 ];
