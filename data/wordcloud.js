@@ -2,38 +2,38 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    73,
-    "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html"
+    75,
+    "https://www.nytimes.com/2026/05/10/us/politics/energy-secretary-federal-gas-tax.html"
   ],
   [
     "race",
-    64,
-    "https://www.theguardian.com/books/2026/may/09/israel-what-went-wrong-by-omer-bartov-review-the-long-view"
+    66,
+    "https://www.nytimes.com/2026/05/10/us/california-primary-rules-change-democrats.html"
   ],
   [
     "guide",
-    54,
-    "https://www.theguardian.com/commentisfree/2026/may/10/the-next-voting-rights-act-must-outlaw-gerrymandering"
+    57,
+    "https://www.theguardian.com/thefilter-us/2026/may/10/brunch-slippers-review"
   ],
   [
     "california",
-    42,
-    "https://www.washingtonpost.com/lifestyle/2026/05/09/miniature-horses-therapy-piano/"
+    48,
+    "https://www.nytimes.com/2026/05/10/us/california-primary-rules-change-democrats.html"
+  ],
+  [
+    "iran",
+    43,
+    "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html"
   ],
   [
     "district",
-    41,
+    40,
     "https://www.theguardian.com/commentisfree/2026/may/10/the-next-voting-rights-act-must-outlaw-gerrymandering"
   ],
   [
     "mother",
-    36,
-    "https://www.nytimes.com/2026/05/10/opinion/erica-jong-mothers-day-dementia.html"
-  ],
-  [
-    "iran",
-    30,
-    "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html"
+    31,
+    "https://www.theguardian.com/thefilter-us/2026/may/10/brunch-slippers-review"
   ],
   [
     "president",
@@ -41,54 +41,89 @@
     "https://www.nytimes.com/2026/05/10/us/politics/vance-rubio-trump-succession.html"
   ],
   [
-    "ship",
+    "war",
+    29,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "nation",
+    29,
+    "https://www.theguardian.com/world/2026/may/10/rhythm-nation-politicians-viral-dance-moves-mark-new-optimistic-era-for-hungary"
+  ],
+  [
+    "hantavirus",
     28,
     "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html"
   ],
   [
-    "war",
+    "court",
     27,
-    "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html"
-  ],
-  [
-    "hantavirus",
-    25,
-    "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html"
-  ],
-  [
-    "cruise",
-    24,
-    "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html"
-  ],
-  [
-    "election",
-    23,
-    "https://www.nytimes.com/2026/05/10/us/politics/virginia-democratic-candidates-redistricting.html"
+    "https://www.washingtonpost.com/nation/2026/05/10/bergen-county-blue-laws-world-cup/"
   ],
   [
     "county",
-    23,
+    25,
     "https://www.washingtonpost.com/nation/2026/05/10/bergen-county-blue-laws-world-cup/"
+  ],
+  [
+    "health",
+    24,
+    "https://www.nytimes.com/2026/05/10/nyregion/giuliani-lindsay-health-care.html"
+  ],
+  [
+    "party",
+    22,
+    "https://www.nytimes.com/2026/05/10/us/politics/democrats-virginia-plans-gerrymandering.html"
+  ],
+  [
+    "election",
+    22,
+    "https://www.nytimes.com/2026/05/10/us/california-primary-rules-change-democrats.html"
+  ],
+  [
+    "ship",
+    22,
+    "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html"
+  ],
+  [
+    "political",
+    22,
+    "https://www.theguardian.com/football/2026/may/10/fifa-world-cup-terrorism-risk-iran-war"
   ],
   [
     "faces",
     22,
-    "https://www.theguardian.com/society/2026/may/10/lesbian-motherhood-reciprocal-ivf-queer-couples-egg-womb-baby"
+    "https://www.theguardian.com/society/ng-interactive/2026/may/11/loss-of-childhood-imagination"
   ],
   [
-    "court",
-    21,
-    "https://www.nytimes.com/2026/05/10/us/politics/virginia-democratic-candidates-redistricting.html"
+    "margaret",
+    22,
+    "https://www.foxnews.com/media/cbs-host-gives-dem-rep-brutal-reality-check-dhs-shutdown-lost-fight"
   ],
   [
-    "health",
-    21,
-    "https://www.theguardian.com/society/2026/may/10/invented-spurious-pseudo-disease-why-are-so-many-men-being-told-they-have-low-testosterone"
+    "brennan",
+    22,
+    "https://www.foxnews.com/media/cbs-host-gives-dem-rep-brutal-reality-check-dhs-shutdown-lost-fight"
   ],
   [
-    "attack",
-    20,
-    "https://www.nytimes.com/2026/05/10/world/americas/venezuela-maduro-trump-migration.html"
+    "democrats",
+    19,
+    "https://www.nytimes.com/2026/05/10/us/politics/democrats-virginia-plans-gerrymandering.html"
+  ],
+  [
+    "secretary",
+    19,
+    "https://www.nytimes.com/2026/05/10/us/politics/energy-secretary-federal-gas-tax.html"
+  ],
+  [
+    "cruise",
+    19,
+    "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html"
+  ],
+  [
+    "congressional",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/may/10/the-next-voting-rights-act-must-outlaw-gerrymandering"
   ],
   [
     "incumbent",
@@ -96,124 +131,94 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "loss",
+    "administration",
     18,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/05/10/us/politics/energy-secretary-federal-gas-tax.html"
   ],
   [
-    "something",
+    "really",
     18,
-    "https://www.theguardian.com/society/2026/may/10/invented-spurious-pseudo-disease-why-are-so-many-men-being-told-they-have-low-testosterone"
+    "https://www.theguardian.com/world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end"
   ],
   [
-    "politics",
+    "car",
     18,
-    "https://www.theguardian.com/us-news/2026/may/10/trump-news-at-a-glance-marco-rubio-hopes-for-serious-offer-from-iran-on-ceasefire-proposal"
-  ],
-  [
-    "radio",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/may/10/my-fantasy-solo-life-got-off-to-a-flying-start-but-degenerated-in-six-speedy-steps"
-  ],
-  [
-    "love",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/may/09/my-mother-and-i-are-like-the-ocean-and-the-mountains-yet-we-hear-each-other-without-saying-a-word"
+    "https://www.theguardian.com/world/2026/may/10/west-virginia-bishop-pope-resistance-trump"
   ],
   [
     "candidates",
     17,
-    "https://www.nytimes.com/2026/05/10/us/politics/virginia-democratic-candidates-redistricting.html"
+    "https://www.nytimes.com/2026/05/10/us/elections/republican-primary-governor-iowa.html"
   ],
   [
-    "response",
+    "children",
     17,
-    "https://www.nytimes.com/2026/05/10/us/politics/politicians-old-tweets-controversies.html"
+    "https://www.washingtonpost.com/nation/2026/05/09/eight-children-killed-funeral-shreveport/"
   ],
   [
-    "moms",
+    "peace",
     17,
-    "https://www.nytimes.com/2026/05/10/briefing/mothers-day-words-of-wisdom.html"
-  ],
-  [
-    "latest",
-    17,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "administration",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/10/mothers-resistance-protest-movements"
-  ],
-  [
-    "congressional",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/may/10/the-next-voting-rights-act-must-outlaw-gerrymandering"
-  ],
-  [
-    "video",
-    17,
-    "https://www.theguardian.com/games/2026/may/10/mogging-gen-z-and-why-streaming-platform-twitch-hanged-rules-omoggle"
-  ],
-  [
-    "mom",
-    17,
-    "https://www.theguardian.com/books/2026/may/08/lily-king-i-couldnt-get-past-the-first-20-pages-of-pride-and-prejudice"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
     "gifts",
     17,
-    "https://www.theguardian.com/lifeandstyle/2026/may/08/best-last-minute-mothers-day-gifts"
+    "https://www.theguardian.com/thefilter-us/2026/may/10/brunch-slippers-review"
   ],
   [
-    "cbs",
+    "something",
     17,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-05-05/cbs-tracker-moving-to-la-california-film-incentive"
+    "https://www.theguardian.com/commentisfree/2026/may/10/the-next-voting-rights-act-must-outlaw-gerrymandering"
   ],
   [
-    "political",
+    "virginia",
     16,
-    "https://www.nytimes.com/2026/05/09/us/politics/virginia-redistricting-democrats-abigail-spanberger.html"
+    "https://www.nytimes.com/2026/05/10/us/politics/democrats-virginia-plans-gerrymandering.html"
   ],
   [
-    "outbreak",
+    "energy",
     16,
-    "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html"
+    "https://www.nytimes.com/2026/05/10/us/politics/energy-secretary-federal-gas-tax.html"
   ],
   [
-    "passengers",
+    "games",
     16,
-    "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html"
+    "https://www.washingtonpost.com/nation/2026/05/10/bergen-county-blue-laws-world-cup/"
   ],
   [
-    "family",
-    16,
-    "https://www.theguardian.com/society/2026/may/10/lesbian-motherhood-reciprocal-ivf-queer-couples-egg-womb-baby"
-  ],
-  [
-    "car",
-    16,
-    "https://www.theguardian.com/world/2026/may/10/west-virginia-bishop-pope-resistance-trump"
-  ],
-  [
-    "republicans",
+    "supreme",
     16,
     "https://www.theguardian.com/commentisfree/2026/may/10/the-next-voting-rights-act-must-outlaw-gerrymandering"
   ],
   [
-    "voters",
+    "moms",
     16,
-    "https://www.theguardian.com/commentisfree/2026/may/08/the-guardian-view-on-britains-fractured-politics-a-revolt-against-the-status-quo"
+    "https://www.theguardian.com/lifeandstyle/2026/may/08/best-last-minute-mothers-day-gifts"
   ],
   [
-    "american",
+    "democrat",
     15,
-    "https://www.nytimes.com/2026/05/10/world/americas/us-china-telescope-argentina-chile.html"
+    "https://www.nytimes.com/2026/05/10/us/politics/democrats-virginia-plans-gerrymandering.html"
   ],
   [
-    "medical",
+    "republican",
     15,
-    "https://www.nytimes.com/2026/05/10/world/europe/britain-parachute-hantavirus-hondius-tristan.html"
+    "https://www.nytimes.com/2026/05/10/us/california-primary-rules-change-democrats.html"
+  ],
+  [
+    "passengers",
+    15,
+    "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html"
+  ],
+  [
+    "israel",
+    15,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "attack",
+    15,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
     "term",
@@ -221,14 +226,44 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "game",
+    "latest",
     15,
-    "https://www.theguardian.com/football/live/2026/may/10/nottingham-forest-v-newcastle-burnley-v-aston-villa-crystal-palace-v-everton-live"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "americans",
+    "mark",
     15,
-    "https://www.theguardian.com/environment/2026/may/08/americans-without-cars-driving-dominated-country"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai"
+  ],
+  [
+    "mom",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/may/10/brunch-slippers-review"
+  ],
+  [
+    "because",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/10/mothers-resistance-protest-movements"
+  ],
+  [
+    "international",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/10/frontier-airlines-denver-transportation-safety"
+  ],
+  [
+    "baby",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/10/fda-baby-formula-safety-claims-contradict-data"
+  ],
+  [
+    "record",
+    15,
+    "https://www.theguardian.com/media/2026/may/10/tmz-washington-dc-politics"
+  ],
+  [
+    "video",
+    15,
+    "https://www.theguardian.com/football/2026/may/10/west-ham-arsenal-premier-league-match-report"
   ],
   [
     "art",
@@ -241,138 +276,103 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "online",
-    14,
-    "https://www.nytimes.com/2026/05/10/us/politics/politicians-old-tweets-controversies.html"
+    "democratic",
+    15,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-40-orange-county-inland-empire-voter-guide"
   ],
   [
-    "secretary",
+    "medical",
     14,
-    "https://www.nytimes.com/2026/05/10/us/politics/vance-rubio-trump-succession.html"
+    "https://www.nytimes.com/2026/05/10/world/europe/britain-parachute-hantavirus-hondius-tristan.html"
   ],
   [
-    "ukraine",
+    "starmer",
     14,
-    "https://www.nytimes.com/2026/05/10/world/europe/russia-ukraine-putin-war.html"
+    "https://www.nytimes.com/2026/05/10/world/europe/starmer-west-resign.html"
   ],
   [
-    "peace",
+    "won",
     14,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.nytimes.com/2026/05/10/world/europe/starmer-west-resign.html"
   ],
   [
-    "country",
+    "crisis",
     14,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "least",
+    "everything",
     14,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "power",
+    "don",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/10/donald-trump-xi-jinping-beijing-summit-iran-taiwan"
+    "https://www.theguardian.com/thefilter-us/2026/may/10/brunch-slippers-review"
   ],
   [
-    "party",
+    "republicans",
     14,
-    "https://www.theguardian.com/society/2026/may/10/lesbian-motherhood-reciprocal-ivf-queer-couples-egg-womb-baby"
+    "https://www.theguardian.com/commentisfree/2026/may/10/the-next-voting-rights-act-must-outlaw-gerrymandering"
   ],
   [
-    "because",
+    "media",
     14,
-    "https://www.theguardian.com/us-news/2026/may/10/mothers-resistance-protest-movements"
-  ],
-  [
-    "london",
-    14,
-    "https://www.theguardian.com/food/2026/may/10/52-writers-on-the-best-sandwich-of-their-life"
-  ],
-  [
-    "night",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/may/10/saturday-night-live-matt-damon-host"
-  ],
-  [
-    "star",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/may/10/are-you-time-optimist-sorry-cant-be-friends"
-  ],
-  [
-    "replace",
-    14,
-    "https://www.theguardian.com/football/2026/may/09/football-manager-market-roberto-de-zerbi-vitor-pereira"
-  ],
-  [
-    "los",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/09/frontier-airlines-plane-hits-pedestrian-denver"
+    "https://www.theguardian.com/world/2026/may/10/iran-us-peace-proposal-pakistan-reported-drone-strikes-strain-ceasefire"
   ],
   [
     "council",
     14,
-    "https://www.theguardian.com/politics/2026/may/09/british-leader-keir-starmer-under-pressure-after-heavy-election-losses"
+    "https://www.latimes.com/california/story/2026-05-09/dark-money-casts-shadow-over-la-elections-with-mystery-group-pumping-out-attack-mail"
   ],
   [
-    "poll",
+    "wright",
     14,
-    "https://www.theguardian.com/wellness/2026/may/06/ai-fitness-health-programs"
+    "https://www.foxnews.com/media/energy-secretary-wright-says-trump-administration-open-suspending-federal-gas-tax-amid-price-surge"
   ],
   [
-    "british",
+    "primary",
     13,
-    "https://www.nytimes.com/2026/05/10/world/europe/britain-parachute-hantavirus-hondius-tristan.html"
+    "https://www.nytimes.com/2026/05/10/us/california-primary-rules-change-democrats.html"
   ],
   [
-    "games",
+    "gas",
     13,
-    "https://www.washingtonpost.com/nation/2026/05/10/bergen-county-blue-laws-world-cup/"
+    "https://www.nytimes.com/2026/05/10/us/politics/energy-secretary-federal-gas-tax.html"
   ],
   [
-    "start",
+    "body",
     13,
-    "https://www.washingtonpost.com/lifestyle/2026/05/10/grandmother-medical-school-graduate-residency/"
+    "https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html"
   ],
   [
-    "music",
+    "country",
     13,
-    "https://www.washingtonpost.com/religion/2026/05/09/salvadoran-bishop-west-virginia-dc/"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "everything",
+    "least",
     13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "media",
+    "filter",
     13,
-    "https://www.theguardian.com/society/2026/may/10/invented-spurious-pseudo-disease-why-are-so-many-men-being-told-they-have-low-testosterone"
+    "https://www.theguardian.com/thefilter-us/2026/may/10/brunch-slippers-review"
   ],
   [
-    "really",
+    "love",
     13,
-    "https://www.theguardian.com/society/2026/may/10/invented-spurious-pseudo-disease-why-are-so-many-men-being-told-they-have-low-testosterone"
+    "https://www.theguardian.com/thefilter-us/2026/may/10/brunch-slippers-review"
   ],
   [
-    "young",
+    "following",
     13,
-    "https://www.theguardian.com/society/2026/may/10/invented-spurious-pseudo-disease-why-are-so-many-men-being-told-they-have-low-testosterone"
+    "https://www.theguardian.com/us-news/2026/may/10/mothers-resistance-protest-movements"
   ],
   [
-    "europe",
+    "netanyahu",
     13,
-    "https://www.theguardian.com/world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end"
-  ],
-  [
-    "supreme",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/may/10/saturday-night-live-matt-damon-host"
-  ],
-  [
-    "angeles",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/09/frontier-airlines-plane-hits-pedestrian-denver"
+    "https://www.theguardian.com/world/2026/may/10/iran-us-peace-proposal-pakistan-reported-drone-strikes-strain-ceasefire"
   ]
 ];
