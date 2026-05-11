@@ -2,33 +2,45 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 54,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Trump Proposes Suspending Federal Gas Tax Until Prices Fall",
+      "count": 58,
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/trump-gas-tax.html",
+      "source": "NY Times"
     },
     {
       "name": "Ai",
-      "count": 17,
+      "count": 18,
       "url": "https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance",
       "source": "The Guardian"
     },
     {
-      "name": "Nbc News",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/may/11/florida-university-shooting-chatgpt-openai",
-      "source": "The Guardian"
+      "name": "Supreme Court Continues Access To Abortion Pill By Mail",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-abortion-pill-mifepristone.html",
+      "source": "NY Times"
     },
     {
       "name": "Gop",
-      "count": 12,
-      "url": "https://www.latimes.com/politics/story/2026-05-10/push-to-change-california-open-primary",
-      "source": "LA Times"
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/may/11/senate-democrats-white-house-ballroom-funding",
+      "source": "The Guardian"
     },
     {
-      "name": "Congress",
+      "name": "Labour",
       "count": 11,
-      "url": "https://www.theguardian.com/global-development/2026/may/11/ailton-krenak-indigenous-brazil-consumerism-earth-rights",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/11/keir-starmer-speech-labour-reform-keep-out-nigel-farage",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian News",
+      "count": 10,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
@@ -38,9 +50,9 @@
       "source": "LA Times"
     },
     {
-      "name": "The Filter Us",
+      "name": "The National Indigenous Congress",
       "count": 9,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "url": "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
       "source": "The Guardian"
     },
     {
@@ -48,55 +60,37 @@
       "count": 9,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
       "source": "LA Times"
-    },
-    {
-      "name": "The New York Times",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/05/11/business/media/wordle-nbc-savannah-guthrie.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Immigration And Customs Enforcement ( Ice",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/may/11/chicago-teen-kevin-gonzalez-ice-cancer",
-      "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
-      "name": "Hormuz     Trump",
-      "count": 23,
-      "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
+      "name": "Donald Trump ’S",
+      "count": 18,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/11/john-oliver-trump-supreme-court-shadow-docket",
       "source": "The Guardian"
     },
     {
       "name": "Donald Trump",
-      "count": 15,
+      "count": 16,
       "url": "https://www.theguardian.com/commentisfree/2026/may/11/republicans-trump-popularity",
       "source": "The Guardian"
     },
     {
-      "name": "Xi Jinping",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/05/11/us/politics/taiwan-trump-china-xi-jinping.html",
-      "source": "NY Times"
+      "name": "John Fetterman",
+      "count": 10,
+      "url": "https://thehill.com/homenews/senate/5872987-democrats-believe-whca-shooting-staged/",
+      "source": "The Hill"
     },
     {
-      "name": "John Davidson",
-      "count": 9,
-      "url": "https://www.theguardian.com/film/2026/may/11/alan-cumming-criticises-bafta-after-n-word-outburst",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Matt Damon",
-      "count": 7,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/10/saturday-night-live-matt-damon-host",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ahmad Hardy",
+      "name": "Sarah Elizabeth Cox",
       "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/may/11/missouri-football-star-ahmad-hardy-in-stable-condition-after-being-shot-at-concert",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/11/almost-anyone-britain-next-prime-minister-blame-david-cameron",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Keir Starmer",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/11/almost-anyone-britain-next-prime-minister-blame-david-cameron",
       "source": "The Guardian"
     },
     {
@@ -106,116 +100,122 @@
       "source": "The Guardian"
     },
     {
-      "name": "Sarah Elizabeth Cox",
+      "name": "Naz Reid",
       "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/11/almost-anyone-britain-next-prime-minister-blame-david-cameron",
+      "url": "https://www.theguardian.com/sport/2026/may/10/victor-wembanyama-elbow-ejected-nba-playoffs-spurs-timberwolves",
       "source": "The Guardian"
     },
     {
-      "name": "Kelly Gonez",
+      "name": "Katherine Short",
       "count": 5,
-      "url": "https://www.latimes.com/california/story/2026-04-29/2026-california-election-los-angeles-lausd-district-6-voter-guide",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/11/martin-short-daughter-katherine-death",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Karen Bass",
+      "count": 5,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Narges Mohammadi",
+      "name": "Elon Musk",
       "count": 4,
-      "url": "https://www.nytimes.com/2026/05/11/world/middleeast/narges-mohammadi-iran-nobel-hospital-tehran.html",
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/trump-china-musk-cook.html",
       "source": "NY Times"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 70,
+      "count": 74,
       "url": "https://www.theguardian.com/commentisfree/2026/may/11/republicans-trump-popularity",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 37,
+      "count": 32,
       "url": "https://www.theguardian.com/us-news/2026/may/11/critically-low-snowpack-west",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 35,
-      "url": "https://www.nytimes.com/2026/05/11/podcasts/the-headlines/trump-iran-hantavirus.html",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html",
       "source": "NY Times"
-    },
-    {
-      "name": "China",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/05/11/business/trump-xi-economic-warfare.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 17,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
     },
     {
       "name": "L.A. County'S",
-      "count": 17,
+      "count": 23,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
       "source": "LA Times"
     },
     {
+      "name": "China",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/05/11/business/dollar-dominance-renminbi-china.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/05/11/business/dollar-dominance-renminbi-china.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Israel",
       "count": 15,
-      "url": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html",
+      "url": "https://www.nytimes.com/2026/05/11/world/middleeast/israel-oct-7-prosecutions-palestinians-trial.html",
       "source": "NY Times"
     },
     {
       "name": "Uk",
-      "count": 9,
-      "url": "https://www.theguardian.com/society/2026/may/11/mouth-gateway-body-fascinating-frightening-links-between-gums-health",
+      "count": 10,
+      "url": "https://www.theguardian.com/wellness/2026/may/11/how-to-start-doing-pull-ups",
       "source": "The Guardian"
     },
     {
-      "name": "Tehran",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/05/11/world/middleeast/narges-mohammadi-iran-nobel-hospital-tehran.html",
-      "source": "NY Times"
+      "name": "Los Angeles County",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-sheriff-luna-villanueva-challengers-voter-guide",
+      "source": "LA Times"
     },
     {
-      "name": "Ukraine",
+      "name": "Virginia",
       "count": 8,
-      "url": "https://www.nytimes.com/2026/05/11/world/europe/ukraine-war-zelensky-us-trump-russia.html",
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-virginia-redistricting.html",
       "source": "NY Times"
     }
   ],
   "EVENT": [
     {
-      "name": "World Cup Transit",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/05/11/us/kansas-city-world-cup-costs.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran War Strains Economy",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Olympics",
-      "count": 2,
-      "url": "https://www.theguardian.com/us-news/2026/may/09/los-angeles-subway-public-transportation",
-      "source": "The Guardian"
-    },
-    {
       "name": "N.J. World Cup",
-      "count": 1,
+      "count": 5,
       "url": "https://www.washingtonpost.com/nation/2026/05/10/bergen-county-blue-laws-world-cup/",
       "source": "Washington Post"
     },
     {
-      "name": "Miracle Mile",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/may/09/los-angeles-subway-public-transportation",
+      "name": "Game 4",
+      "count": 3,
+      "url": "https://www.latimes.com/sports/hockey/ducks/story/2026-05-10/ducks-vegas-golden-knights-nhl-playoffs-game-4",
+      "source": "LA Times"
+    },
+    {
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.theguardian.com/money/2026/apr/28/tell-us-how-household-finances-costs-iran-war",
       "source": "The Guardian"
+    },
+    {
+      "name": "Iran War Strains Economy",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The War ‘Is Coming",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/05/11/world/europe/putin-russia-ukraine-war.html",
+      "source": "NY Times"
     },
     {
       "name": "The World Cup",
@@ -224,9 +224,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "New England Revolution",
+      "name": "’S Pga Championship",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/may/11/mls-weekend-wrap-new-england-revolution-james-rodriguez-minnesota-united",
+      "url": "https://www.theguardian.com/sport/2026/may/11/keegan-bradley-targets-ryder-cup-2027-return-as-player-golf",
       "source": "The Guardian"
     },
     {
@@ -236,17 +236,17 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
+      "name": "Olympics",
       "count": 1,
-      "url": "https://www.theguardian.com/money/2026/apr/28/tell-us-how-household-finances-costs-iran-war",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
+      "source": "LA Times"
     },
     {
-      "name": "Game 4",
+      "name": "Game 5",
       "count": 1,
-      "url": "https://www.latimes.com/sports/hockey/ducks/story/2026-05-10/ducks-vegas-golden-knights-nhl-playoffs-game-4",
-      "source": "LA Times"
+      "url": "https://www.foxnews.com/sports/victor-wembanyama-avoids-suspension-elbow-naz-reid-play-pivotal-game-5",
+      "source": "Fox News"
     }
   ],
-  "updated": "2026-05-11T16:04:57Z"
+  "updated": "2026-05-11T20:49:08Z"
 };

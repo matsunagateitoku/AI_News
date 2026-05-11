@@ -2,138 +2,143 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    102,
-    "https://www.nytimes.com/2026/05/11/business/trump-xi-economic-warfare.html"
+    104,
+    "https://www.nytimes.com/2026/05/11/us/politics/trump-gas-tax.html"
   ],
   [
     "race",
-    66,
-    "https://www.nytimes.com/2026/05/11/us/politics/nebraska-senate-race-primary.html"
+    63,
+    "https://www.theguardian.com/us-news/2026/may/11/liban-mohamed-utah-democratic-primary-house"
   ],
   [
     "guide",
-    55,
-    "https://www.theguardian.com/culture/2026/may/08/everyday-hollywood-film-comedies-have-faded-but-can-they-make-a-comeback"
+    56,
+    "https://www.theguardian.com/thefilter-us/2026/may/11/aeropress-coffee-makers-review"
+  ],
+  [
+    "court",
+    47,
+    "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-abortion-pill-mifepristone.html"
   ],
   [
     "president",
-    48,
-    "https://www.nytimes.com/2026/05/11/us/politics/taiwan-trump-china-xi-jinping.html"
+    46,
+    "https://www.nytimes.com/2026/05/11/world/europe/ukraine-war-zelensky-us-trump-russia.html"
   ],
   [
     "district",
-    43,
+    42,
     "https://www.theguardian.com/commentisfree/2026/may/11/republicans-trump-popularity"
   ],
   [
     "california",
-    42,
+    39,
     "https://www.theguardian.com/us-news/2026/may/11/critically-low-snowpack-west"
   ],
   [
     "hantavirus",
-    38,
-    "https://www.nytimes.com/2026/05/11/podcasts/the-headlines/trump-iran-hantavirus.html"
-  ],
-  [
-    "health",
-    33,
-    "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-return-nebraska.html"
-  ],
-  [
-    "cruise",
-    32,
-    "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-return-nebraska.html"
+    29,
+    "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-quarantine-nebraska.html"
   ],
   [
     "ship",
-    32,
-    "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-return-nebraska.html"
+    29,
+    "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-quarantine-nebraska.html"
   ],
   [
     "iran",
     28,
-    "https://www.nytimes.com/2026/05/11/podcasts/the-headlines/trump-iran-hantavirus.html"
+    "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html"
+  ],
+  [
+    "health",
+    27,
+    "https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html"
+  ],
+  [
+    "congressional",
+    27,
+    "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-virginia-redistricting.html"
+  ],
+  [
+    "supreme",
+    25,
+    "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-abortion-pill-mifepristone.html"
+  ],
+  [
+    "democrats",
+    25,
+    "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-virginia-redistricting.html"
+  ],
+  [
+    "cruise",
+    25,
+    "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-quarantine-nebraska.html"
+  ],
+  [
+    "war",
+    24,
+    "https://www.nytimes.com/2026/05/11/us/politics/trump-gas-tax.html"
+  ],
+  [
+    "election",
+    24,
+    "https://www.theguardian.com/business/2026/may/11/democrats-tax-cuts-republicans"
+  ],
+  [
+    "county",
+    23,
+    "https://www.nytimes.com/2026/05/11/us/fayette-county-tennessee-voting-rights.html"
   ],
   [
     "republicans",
-    24,
+    23,
     "https://www.theguardian.com/commentisfree/2026/may/11/republicans-trump-popularity"
   ],
   [
-    "political",
+    "administration",
     22,
-    "https://www.nytimes.com/2026/05/11/nyregion/mike-lawler-money-campaign-finance.html"
+    "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-abortion-pill-mifepristone.html"
+  ],
+  [
+    "black",
+    22,
+    "https://www.nytimes.com/2026/05/11/us/fayette-county-tennessee-voting-rights.html"
+  ],
+  [
+    "support",
+    22,
+    "https://www.nytimes.com/2026/05/11/upshot/family-leave-cuts-deloitte-zoom.html"
   ],
   [
     "game",
     22,
-    "https://www.nytimes.com/2026/05/11/business/media/wordle-nbc-savannah-guthrie.html"
+    "https://www.theguardian.com/tv-and-radio/2026/may/11/wordle-tv-spinoff-world-does-not-need"
   ],
   [
-    "county",
-    22,
-    "https://www.washingtonpost.com/nation/2026/05/10/bergen-county-blue-laws-world-cup/"
+    "party",
+    21,
+    "https://www.theguardian.com/commentisfree/2026/may/11/republicans-trump-popularity"
   ],
   [
     "china",
-    21,
-    "https://www.nytimes.com/2026/05/11/business/trump-xi-economic-warfare.html"
-  ],
-  [
-    "family",
-    21,
-    "https://www.nytimes.com/2026/05/11/world/middleeast/narges-mohammadi-iran-nobel-hospital-tehran.html"
-  ],
-  [
-    "york",
-    21,
-    "https://www.nytimes.com/2026/05/10/dining/new-york-restaurant-trends.html"
-  ],
-  [
-    "peace",
-    21,
-    "https://www.nytimes.com/2026/05/11/world/europe/ukraine-war-zelensky-us-trump-russia.html"
-  ],
-  [
-    "election",
-    21,
-    "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html"
-  ],
-  [
-    "court",
     20,
-    "https://www.washingtonpost.com/nation/2026/05/10/bergen-county-blue-laws-world-cup/"
+    "https://www.nytimes.com/2026/05/11/business/dollar-dominance-renminbi-china.html"
   ],
   [
-    "congressional",
+    "political",
     20,
     "https://www.theguardian.com/commentisfree/2026/may/11/republicans-trump-popularity"
   ],
   [
-    "film",
-    20,
-    "https://www.theguardian.com/film/ng-interactive/2026/may/11/juliette-binoche-in-i-in-motion-documentary-film"
-  ],
-  [
-    "war",
+    "candidates",
     19,
-    "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html"
+    "https://www.theguardian.com/commentisfree/2026/may/11/republicans-trump-popularity"
   ],
   [
     "faces",
     19,
-    "https://www.nytimes.com/2026/05/11/us/politics/correspondents-dinner-gunman-not-guilty-plea.html"
-  ],
-  [
-    "host",
-    19,
-    "https://www.nytimes.com/2026/05/11/business/media/wordle-nbc-savannah-guthrie.html"
-  ],
-  [
-    "party",
-    19,
-    "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html"
+    "https://www.theguardian.com/commentisfree/2026/may/11/the-guardian-view-on-labours-rebellion-starmer-faces-a-crisis-of-legitimacy"
   ],
   [
     "incumbent",
@@ -141,238 +146,233 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "latest",
+    "family",
     18,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "american",
-    17,
-    "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-return-nebraska.html"
-  ],
-  [
-    "republican",
-    17,
-    "https://www.nytimes.com/2026/05/11/us/politics/nebraska-senate-race-primary.html"
-  ],
-  [
-    "early",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "music",
-    17,
-    "https://www.theguardian.com/society/2026/may/11/silicon-valley-depression-wellness-boom"
-  ],
-  [
-    "star",
-    17,
-    "https://www.theguardian.com/sport/2026/may/11/stephen-a-smith-black-voters"
-  ],
-  [
-    "baby",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/08/california-free-diapers-newborns"
-  ],
-  [
-    "passengers",
-    16,
-    "https://www.nytimes.com/2026/05/11/podcasts/the-headlines/trump-iran-hantavirus.html"
-  ],
-  [
-    "minister",
-    16,
-    "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html"
-  ],
-  [
-    "americans",
-    16,
-    "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-return-nebraska.html"
-  ],
-  [
-    "israel",
-    16,
-    "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html"
-  ],
-  [
-    "primary",
-    16,
-    "https://www.nytimes.com/2026/05/11/us/politics/nebraska-senate-race-primary.html"
-  ],
-  [
-    "games",
-    16,
-    "https://www.nytimes.com/2026/05/11/crosswords/games-streak-story.html"
-  ],
-  [
-    "candidates",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/may/11/republicans-trump-popularity"
-  ],
-  [
-    "series",
-    16,
-    "https://www.theguardian.com/film/ng-interactive/2026/may/11/juliette-binoche-in-i-in-motion-documentary-film"
-  ],
-  [
-    "media",
-    16,
-    "https://www.theguardian.com/sport/2026/may/11/stephen-a-smith-black-voters"
-  ],
-  [
-    "democratic",
-    16,
-    "https://www.theguardian.com/world/2026/may/11/alberta-voter-data-breach-separatists-referendum"
-  ],
-  [
-    "outbreak",
-    15,
-    "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-return-nebraska.html"
-  ],
-  [
-    "support",
-    15,
-    "https://www.washingtonpost.com/nation/2026/05/10/portland-fire-wnba-fans/"
+    "https://www.nytimes.com/2026/05/11/arts/design/rubens-painting-cow-nazi-restitution-dispute.html"
   ],
   [
     "donald",
-    15,
+    18,
     "https://www.theguardian.com/commentisfree/2026/may/11/republicans-trump-popularity"
   ],
   [
-    "east",
-    15,
-    "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates"
+    "music",
+    18,
+    "https://www.theguardian.com/society/2026/may/11/silicon-valley-depression-wellness-boom"
   ],
   [
-    "proposal",
-    15,
-    "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates"
+    "john",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/may/11/john-oliver-trump-supreme-court-shadow-docket"
+  ],
+  [
+    "film",
+    17,
+    "https://www.theguardian.com/film/ng-interactive/2026/may/11/juliette-binoche-in-i-in-motion-documentary-film"
+  ],
+  [
+    "map",
+    16,
+    "https://www.nytimes.com/2026/05/11/us/fayette-county-tennessee-voting-rights.html"
+  ],
+  [
+    "because",
+    16,
+    "https://www.nytimes.com/2026/05/11/arts/design/rubens-painting-cow-nazi-restitution-dispute.html"
+  ],
+  [
+    "los",
+    16,
+    "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico"
+  ],
+  [
+    "case",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/may/11/john-oliver-trump-supreme-court-shadow-docket"
   ],
   [
     "council",
-    15,
+    16,
     "https://www.theguardian.com/commentisfree/2026/may/11/europe-should-behave-more-like-china-does-if-it-wants-to-survive-this-age-of-chaos"
   ],
   [
     "challengers",
-    15,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
-  ],
-  [
-    "fight",
-    14,
-    "https://www.nytimes.com/2026/05/11/business/trump-xi-economic-warfare.html"
-  ],
-  [
-    "dinner",
-    14,
-    "https://www.nytimes.com/2026/05/11/us/politics/correspondents-dinner-gunman-not-guilty-plea.html"
-  ],
-  [
-    "states",
-    14,
-    "https://www.nytimes.com/2026/05/11/world/europe/ukraine-war-zelensky-us-trump-russia.html"
-  ],
-  [
-    "company",
-    14,
-    "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html"
+    16,
+    "https://www.theguardian.com/football/2026/may/11/scotland-title-race-celtic-hearts"
   ],
   [
     "medical",
-    14,
-    "https://www.washingtonpost.com/lifestyle/2026/05/10/grandmother-medical-school-graduate-residency/"
-  ],
-  [
-    "response",
-    14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "trying",
-    14,
-    "https://www.theguardian.com/society/2026/may/11/silicon-valley-depression-wellness-boom"
-  ],
-  [
-    "black",
-    14,
-    "https://www.theguardian.com/sport/2026/may/11/stephen-a-smith-black-voters"
-  ],
-  [
-    "south",
-    14,
-    "https://www.theguardian.com/world/video/2026/may/11/men-and-women-hate-each-other-the-global-dating-crisis-episode-2"
-  ],
-  [
-    "john",
-    14,
-    "https://www.theguardian.com/film/2026/may/11/alan-cumming-criticises-bafta-after-n-word-outburst"
-  ],
-  [
-    "administration",
-    13,
-    "https://www.nytimes.com/2026/05/11/us/politics/taiwan-trump-china-xi-jinping.html"
-  ],
-  [
-    "human",
-    13,
-    "https://www.nytimes.com/2026/05/11/world/middleeast/narges-mohammadi-iran-nobel-hospital-tehran.html"
-  ],
-  [
-    "power",
-    13,
-    "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html"
-  ],
-  [
-    "guilty",
-    13,
-    "https://www.nytimes.com/2026/05/11/us/politics/correspondents-dinner-gunman-not-guilty-plea.html"
-  ],
-  [
-    "already",
-    13,
-    "https://www.nytimes.com/2026/05/11/health/hiv-infusion-immunotherapy.html"
-  ],
-  [
-    "bill",
-    13,
-    "https://www.nytimes.com/2026/05/11/opinion/bill-cassidy-louisiana-republican-primary.html"
-  ],
-  [
-    "released",
-    13,
-    "https://www.nytimes.com/2026/05/11/climate/as-coal-rebounds-more-mercury-a-potent-toxin-is-in-the-air.html"
-  ],
-  [
-    "online",
-    13,
-    "https://www.nytimes.com/2026/05/11/business/retailers-stores-renovations.html"
-  ],
-  [
-    "start",
-    13,
-    "https://www.washingtonpost.com/lifestyle/2026/05/10/grandmother-medical-school-graduate-residency/"
+    15,
+    "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-quarantine-nebraska.html"
   ],
   [
     "shooting",
-    13,
+    15,
     "https://www.washingtonpost.com/nation/2026/05/09/eight-children-killed-funeral-shreveport/"
   ],
   [
-    "seat",
-    13,
+    "already",
+    15,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "series",
+    15,
+    "https://www.theguardian.com/film/ng-interactive/2026/may/11/juliette-binoche-in-i-in-motion-documentary-film"
+  ],
+  [
+    "data",
+    15,
+    "https://www.theguardian.com/world/2026/may/11/canadians-visiting-us"
+  ],
+  [
+    "really",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/may/11/flight-of-the-conchords-us-reunion"
+  ],
+  [
+    "body",
+    15,
+    "https://www.theguardian.com/wellness/2026/may/11/how-to-start-doing-pull-ups"
+  ],
+  [
+    "inside",
+    14,
+    "https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html"
+  ],
+  [
+    "access",
+    14,
+    "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-abortion-pill-mifepristone.html"
+  ],
+  [
+    "food",
+    14,
+    "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-abortion-pill-mifepristone.html"
+  ],
+  [
+    "tax",
+    14,
+    "https://www.nytimes.com/2026/05/11/us/politics/trump-gas-tax.html"
+  ],
+  [
+    "something",
+    14,
+    "https://www.nytimes.com/2026/05/11/magazine/gisele-pelicot-memoir.html"
+  ],
+  [
+    "israel",
+    14,
+    "https://www.nytimes.com/2026/05/11/world/middleeast/israel-oct-7-prosecutions-palestinians-trial.html"
+  ],
+  [
+    "term",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "voters",
+    14,
     "https://www.theguardian.com/commentisfree/2026/may/11/republicans-trump-popularity"
   ],
   [
-    "unacceptable",
-    13,
-    "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates"
+    "american",
+    14,
+    "https://www.theguardian.com/world/2026/may/11/evacuated-us-and-french-mv-hondius-cruise-ship-passengers-test-positive-for-hantavirus"
   ],
   [
-    "shot",
+    "angeles",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/may/11/flight-of-the-conchords-us-reunion"
+  ],
+  [
+    "host",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/may/11/john-oliver-trump-supreme-court-shadow-docket"
+  ],
+  [
+    "video",
+    14,
+    "https://www.theguardian.com/world/2026/may/11/vision-destruction-israel-assault-southern-lebanon-video-maps-charts"
+  ],
+  [
+    "minister",
     13,
-    "https://www.theguardian.com/sport/2026/may/11/missouri-football-star-ahmad-hardy-in-stable-condition-after-being-shot-at-concert"
+    "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html"
+  ],
+  [
+    "crisis",
+    13,
+    "https://www.nytimes.com/2026/05/11/us/alabama-sewage-trump-dei-voting-rights-act.html"
+  ],
+  [
+    "trying",
+    13,
+    "https://www.nytimes.com/2026/05/11/business/dollar-dominance-renminbi-china.html"
+  ],
+  [
+    "outbreak",
+    13,
+    "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-quarantine-nebraska.html"
+  ],
+  [
+    "ahead",
+    13,
+    "https://www.theguardian.com/film/ng-interactive/2026/may/11/juliette-binoche-in-i-in-motion-documentary-film"
+  ],
+  [
+    "york",
+    13,
+    "https://www.theguardian.com/film/ng-interactive/2026/may/11/juliette-binoche-in-i-in-motion-documentary-film"
+  ],
+  [
+    "late",
+    13,
+    "https://www.theguardian.com/film/ng-interactive/2026/may/11/juliette-binoche-in-i-in-motion-documentary-film"
+  ],
+  [
+    "media",
+    13,
+    "https://www.theguardian.com/sport/2026/may/11/stephen-a-smith-black-voters"
+  ],
+  [
+    "company",
+    13,
+    "https://www.theguardian.com/us-news/2026/may/11/miami-deputies-lawsuit-ben-affleck-matt-damon-rip-movie"
+  ],
+  [
+    "democratic",
+    13,
+    "https://www.theguardian.com/business/2026/may/11/democrats-tax-cuts-republicans"
+  ],
+  [
+    "primary",
+    13,
+    "https://www.theguardian.com/us-news/2026/may/11/liban-mohamed-utah-democratic-primary-house"
+  ],
+  [
+    "labour",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/may/11/keir-starmer-speech-labour-reform-keep-out-nigel-farage"
+  ],
+  [
+    "players",
+    13,
+    "https://www.theguardian.com/football/live/2026/may/11/tottenham-v-leeds-premier-league-live"
+  ],
+  [
+    "baby",
+    13,
+    "https://www.theguardian.com/us-news/2026/may/10/fda-baby-formula-safety-claims-contradict-data"
+  ],
+  [
+    "americans",
+    13,
+    "https://www.theguardian.com/thefilter-us/2025/nov/03/best-meditation-apps"
+  ],
+  [
+    "abortion",
+    12,
+    "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-abortion-pill-mifepristone.html"
   ]
 ];
