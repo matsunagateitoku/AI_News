@@ -3,93 +3,155 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 15,
-      "url": "https://www.theguardian.com/stage/2026/may/12/how-debbie-allen-went-from-stardom-in-fame-to-conquer-hollywood",
+      "count": 27,
+      "url": "https://www.theguardian.com/us-news/2026/may/12/marty-makary-fda-trump-administration",
       "source": "The Guardian"
+    },
+    {
+      "name": "Marty Makary",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/05/12/us/politics/trump-fires-fda-commissioner-makary.html",
+      "source": "NY Times"
     },
     {
       "name": "Keir Starmer",
+      "count": 11,
+      "url": "https://www.theguardian.com/politics/2026/may/12/starmer-cabinet-labour-leadership",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Brandon Clarke",
       "count": 10,
-      "url": "https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates",
+      "url": "https://www.theguardian.com/sport/2026/may/12/memphis-grizzlies-forward-brandon-clarke-dies-at-age-of-29-he-was-the-gentlest-soul",
       "source": "The Guardian"
     },
     {
-      "name": "Pete Hegseth",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/05/12/us/politics/iran-war-cost-hegseth-congress.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Donald Trump ’S",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/may/11/trump-public-lands-conservation-rule",
+      "name": "Donald Trump Jr",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/2026/may/12/bosnia-and-herzegovina-vulnerable-policy-clash-us-representative-says",
       "source": "The Guardian"
     },
     {
-      "name": "John Mckinney",
+      "name": "Chris Van Hollen",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/live/2026/may/12/donald-trump-china-iran-redistricting-jeffrey-epstein-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Xi Jinping",
       "count": 8,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-attorney-feldstein-soto-roy-ashouri-mckinney-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Jen Kiggans",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/05/12/us/politics/jen-kiggans-jeffries-cotton-picking-virginia.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Debbie Allen",
-      "count": 7,
-      "url": "https://www.theguardian.com/stage/2026/may/12/how-debbie-allen-went-from-stardom-in-fame-to-conquer-hollywood",
+      "url": "https://www.theguardian.com/technology/2026/may/12/trump-china-ai-big-tech-xi-jinping",
       "source": "The Guardian"
+    },
+    {
+      "name": "John Brennan'S",
+      "count": 8,
+      "url": "https://www.foxnews.com/politics/fbi-questioning-current-former-cia-officials-doj-probe-john-brennans-role-russia-assessment",
+      "source": "Fox News"
+    },
+    {
+      "name": "Ankur Patel",
+      "count": 7,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-lausd-district-4-voter-guide",
+      "source": "LA Times"
     },
     {
       "name": "Kendrick Lamar",
       "count": 6,
       "url": "https://www.theguardian.com/music/2026/may/12/drake-iceman-essay-toronto-manosphere-adin-ross-new-album-nokia",
       "source": "The Guardian"
-    },
+    }
+  ],
+  "GPE": [
     {
-      "name": "Lebron James",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/may/12/lebron-james-lakers-playoffs-nba-thunder",
+      "name": "Us",
+      "count": 69,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/12/supreme-court-citizens-united-voting",
       "source": "The Guardian"
     },
     {
-      "name": "Sarah Cares",
-      "count": 6,
-      "url": "https://www.theguardian.com/film/2026/may/11/killer-on-the-air-review",
+      "name": "The Shah Of Iran",
+      "count": 50,
+      "url": "https://www.theguardian.com/world/2026/may/12/black-american-iran-solidarity-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 45,
+      "url": "https://www.nytimes.com/2026/05/08/opinion/ezra-klein-podcast-housing-forum.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "China",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/05/12/us/politics/hegseth-trump-china-xi.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 24,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/05/12/us/politics/hegseth-trump-china-xi.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 16,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Nebraska",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/05/11/us/nebraska-quarantine-hantavirus-ship-americans.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/05/12/us/politics/gop-mystery-pac-midterms.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 10,
+      "url": "https://www.theguardian.com/politics/2026/may/12/despite-calls-to-step-down-keir-starmer-is-still-the-uks-prime-minister-for-now",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 8,
+      "count": 4,
       "url": "https://www.theguardian.com/football/2026/may/12/usmnt-history-book",
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War Is Taking The Color Out",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html",
-      "source": "NY Times"
+      "name": "Super Bowl Lix",
+      "count": 3,
+      "url": "https://www.foxnews.com/outkick-sports/pro-palestine-protester-interrupted-super-bowl-lix-halftime-show-found-guilty-court-",
+      "source": "Fox News"
     },
     {
-      "name": "Olympics",
+      "name": "The Iran War",
       "count": 3,
-      "url": "https://www.theguardian.com/sport/2026/may/12/cycling-katie-archibald-retires",
-      "source": "The Guardian"
+      "url": "https://www.cbsnews.com/video/trump-takes-questions-iran-inflation-china-moments-before-beijing/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Iran War ‘Sledgehammer",
+      "count": 3,
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-considering-re-naming-iran-war-sledgehammer-ceasefire-collaps-rcna344630",
+      "source": "NBC News"
     },
     {
       "name": "The World Cup  •",
       "count": 2,
-      "url": "https://www.theguardian.com/football/video/2026/may/12/world-cup-2026-is-it-possible-to-walk-to-metlife-stadium-from-new-york-city-video",
-      "source": "The Guardian"
-    },
-    {
-      "name": "World Cup 2026",
-      "count": 1,
       "url": "https://www.theguardian.com/football/video/2026/may/12/world-cup-2026-is-it-possible-to-walk-to-metlife-stadium-from-new-york-city-video",
       "source": "The Guardian"
     },
@@ -100,116 +162,66 @@
       "source": "The Guardian"
     },
     {
+      "name": "The Us War",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/live/2026/may/12/donald-trump-china-iran-redistricting-jeffrey-epstein-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cup 2026",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/video/2026/may/12/world-cup-2026-is-it-possible-to-walk-to-metlife-stadium-from-new-york-city-video",
+      "source": "The Guardian"
+    },
+    {
       "name": "This World Cup",
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/may/12/usmnt-history-book",
       "source": "The Guardian"
     },
     {
-      "name": "’S World Cup",
+      "name": "Holocaust",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/may/12/usmnt-world-cup-squad-prediction-how-mauricio-pochettinos-call-ups-determine-the-26",
+      "url": "https://www.theguardian.com/world/2026/may/12/auschwitz-holocaust-survivor-who-returned-to-germany-dies-aged-101",
       "source": "The Guardian"
-    },
-    {
-      "name": "The Holocaust 77 Years Ago",
-      "count": 1,
-      "url": "https://www.theguardian.com/books/2026/may/09/israel-what-went-wrong-by-omer-bartov-review-the-long-view",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Super Bowl",
-      "count": 1,
-      "url": "https://www.latimes.com/entertainment-arts/music/story/2026-05-09/bad-bunny-super-bowl-complaints-fcc-halftime-show",
-      "source": "LA Times"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 71,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/12/fda-vaccine-safety",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 45,
-      "url": "https://www.nytimes.com/2026/05/12/us/california-candidate-steve-hilton-street-taco.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Shah Of Iran",
-      "count": 36,
-      "url": "https://www.theguardian.com/world/2026/may/12/black-american-iran-solidarity-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "China",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 23,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 21,
-      "url": "https://www.washingtonpost.com/immigration/interactive/2026/trump-deportations-ice-fathers-families/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Israel",
-      "count": 21,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Texas",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/05/12/us/san-antonio-texas-rainbow-crosswalks.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "West Virginia",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/05/12/us/politics/what-to-watch-nebraska-west-virginia-primaries.html",
-      "source": "NY Times"
     }
   ],
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 40,
+      "count": 42,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
       "name": "Ai Mother’S Day",
-      "count": 17,
+      "count": 25,
       "url": "https://www.theguardian.com/culture/2026/may/12/stephen-colbert-trump-statue-iran-peace-plan",
       "source": "The Guardian"
     },
     {
-      "name": "House Oversight And Government Reform Committee",
-      "count": 14,
-      "url": "https://thehill.com/homenews/house/5873729-epstein-jpmorgan-staley-investigation/",
-      "source": "The Hill"
+      "name": "The White House",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/may/12/marty-makary-fda-trump-administration",
+      "source": "The Guardian"
     },
     {
-      "name": "Senate Appropriations Committee",
-      "count": 12,
-      "url": "https://www.nbcnews.com/video/watch-live-hegseth-and-caine-testify-at-senate-hearing-amid-iran-war-263158341537",
+      "name": "Senate Appropriations Subcommittee",
+      "count": 18,
+      "url": "https://www.nbcnews.com/video/watch-live-fbi-director-patel-and-law-enforcement-officials-testify-at-senate-hearing-263180869669",
       "source": "NBC News"
+    },
+    {
+      "name": "Fda",
+      "count": 15,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/12/fda-vaccine-safety",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fbi",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/live/2026/may/12/donald-trump-china-iran-redistricting-jeffrey-epstein-latest-news-updates",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
@@ -224,22 +236,10 @@
       "source": "LA Times"
     },
     {
-      "name": "Pentagon Puts Iran War Cost",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/05/12/us/politics/iran-war-cost-hegseth-congress.html",
-      "source": "NY Times"
-    },
-    {
       "name": "The California Congressional District",
       "count": 10,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
       "source": "LA Times"
-    },
-    {
-      "name": "Congress",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/may/12/kiggans-resign-racist-comment-radio",
-      "source": "The Guardian"
     },
     {
       "name": "The L.A. City Council",
@@ -248,5 +248,5 @@
       "source": "LA Times"
     }
   ],
-  "updated": "2026-05-12T15:41:38Z"
+  "updated": "2026-05-12T20:42:47Z"
 };

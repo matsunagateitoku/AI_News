@@ -2,12 +2,12 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    72,
-    "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html"
+    81,
+    "https://www.nytimes.com/2026/05/12/us/politics/trump-xi-summit.html"
   ],
   [
     "race",
-    64,
+    70,
     "https://www.theguardian.com/commentisfree/2026/may/12/supreme-court-citizens-united-voting"
   ],
   [
@@ -16,129 +16,109 @@
     "https://www.theguardian.com/thefilter-us/2026/may/12/best-types-of-rice"
   ],
   [
-    "california",
-    49,
-    "https://www.nytimes.com/2026/05/12/us/california-candidate-steve-hilton-street-taco.html"
+    "iran",
+    55,
+    "https://www.nytimes.com/2026/05/12/us/politics/trump-xi-summit.html"
   ],
   [
-    "iran",
-    46,
-    "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html"
+    "california",
+    51,
+    "https://www.nytimes.com/2026/05/08/opinion/ezra-klein-podcast-housing-forum.html"
   ],
   [
     "district",
-    44,
-    "https://www.theguardian.com/us-news/2026/may/12/kiggans-resign-racist-comment-radio"
-  ],
-  [
-    "war",
-    37,
-    "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html"
-  ],
-  [
-    "health",
-    30,
-    "https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html"
+    45,
+    "https://www.nytimes.com/2026/05/12/us/alabama-governor-primary-elections-house.html"
   ],
   [
     "president",
-    29,
-    "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html"
+    40,
+    "https://www.nytimes.com/2026/05/12/us/politics/lincoln-memorial-pool-repairs.html"
   ],
   [
-    "election",
-    28,
-    "https://www.nytimes.com/2026/05/12/us/politics/jen-kiggans-jeffries-cotton-picking-virginia.html"
+    "health",
+    31,
+    "https://www.nytimes.com/2026/05/12/well/live/pcos-pmos-name-change-treatment-health.html"
   ],
   [
-    "faces",
-    25,
-    "https://www.nytimes.com/2026/05/12/us/politics/jen-kiggans-jeffries-cotton-picking-virginia.html"
+    "war",
+    30,
+    "https://www.nytimes.com/2026/05/12/us/politics/trump-xi-summit.html"
   ],
   [
     "china",
-    24,
-    "https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html"
+    26,
+    "https://www.nytimes.com/2026/05/12/us/politics/trump-xi-summit.html"
   ],
   [
-    "support",
-    23,
-    "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html"
+    "americans",
+    25,
+    "https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html"
   ],
   [
-    "israel",
-    23,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "late",
-    22,
-    "https://www.nytimes.com/2026/05/12/arts/television/stephen-colbert-strike-force-five.html"
-  ],
-  [
-    "early",
-    22,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "series",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/may/12/fda-vaccine-safety"
-  ],
-  [
-    "poll",
-    21,
-    "https://www.theguardian.com/us-news/2026/may/12/workers-ai-policy-unions"
-  ],
-  [
-    "republicans",
-    21,
-    "https://www.theguardian.com/business/2026/may/11/democrats-tax-cuts-republicans"
-  ],
-  [
-    "cruise",
-    20,
-    "https://www.theguardian.com/world/2026/may/12/who-head-warns-countries-prepare-more-hantavirus-cases"
-  ],
-  [
-    "congressional",
-    20,
-    "https://www.theguardian.com/us-news/2026/may/12/jeffrey-epstein-survivor-palm-beach-hearing"
+    "senate",
+    25,
+    "https://www.nytimes.com/2026/05/12/us/obama-james-talarico-texas-senate-2026-democrats.html"
   ],
   [
     "county",
+    25,
+    "https://www.theguardian.com/us-news/2026/may/12/michigan-man-sentenced-groomsman-murder"
+  ],
+  [
+    "ship",
+    24,
+    "https://www.theguardian.com/world/2026/may/12/russian-ship-ursa-major-sank-spain-nuclear-reactors-north-korea"
+  ],
+  [
+    "congressional",
+    22,
+    "https://www.nytimes.com/2026/05/12/us/alabama-governor-primary-elections-house.html"
+  ],
+  [
+    "republican",
+    22,
+    "https://www.theguardian.com/us-news/2026/may/12/kiggans-resign-racist-comment-radio"
+  ],
+  [
+    "election",
+    22,
+    "https://www.theguardian.com/business/2026/may/11/democrats-tax-cuts-republicans"
+  ],
+  [
+    "republicans",
     20,
-    "https://www.theguardian.com/us-news/2026/may/11/amazon-stops-sales-high-speed-ebikes-california"
+    "https://www.nytimes.com/2026/05/12/us/politics/gop-mystery-pac-midterms.html"
+  ],
+  [
+    "faces",
+    20,
+    "https://www.theguardian.com/us-news/2026/may/12/kiggans-resign-racist-comment-radio"
   ],
   [
     "music",
     20,
-    "https://www.theguardian.com/world/live/2026/may/12/europe-defence-ukraine-russia-hungary-latest-news-updates"
+    "https://www.theguardian.com/music/2026/may/12/c2c-festival-new-york-knockdown-center"
   ],
   [
-    "republican",
-    19,
-    "https://www.nytimes.com/2026/05/12/us/politics/jen-kiggans-jeffries-cotton-picking-virginia.html"
+    "film",
+    20,
+    "https://www.theguardian.com/world/2026/may/12/auschwitz-holocaust-survivor-who-returned-to-germany-dies-aged-101"
   ],
   [
-    "democratic",
+    "food",
     19,
-    "https://www.nytimes.com/2026/05/12/us/politics/jen-kiggans-jeffries-cotton-picking-virginia.html"
+    "https://www.nytimes.com/2026/05/12/us/politics/trump-fires-fda-commissioner-makary.html"
   ],
   [
-    "video",
+    "administration",
     19,
-    "https://www.nytimes.com/2026/05/12/us/california-candidate-steve-hilton-street-taco.html"
+    "https://www.nytimes.com/2026/05/12/us/politics/trump-fires-fda-commissioner-makary.html"
   ],
   [
-    "ship",
+    "support",
     19,
-    "https://www.theguardian.com/world/2026/may/12/who-head-warns-countries-prepare-more-hantavirus-cases"
-  ],
-  [
-    "cbs",
-    19,
-    "https://www.theguardian.com/business/2026/may/11/buzzfeed-digital-media-deal-byron-allen"
+    "https://www.nytimes.com/2026/05/12/us/obama-james-talarico-texas-senate-2026-democrats.html"
   ],
   [
     "incumbent",
@@ -146,119 +126,144 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "media",
+    "early",
     18,
-    "https://www.nytimes.com/2026/05/12/us/california-candidate-steve-hilton-street-taco.html"
+    "https://www.nytimes.com/2026/05/12/us/politics/trump-xi-summit.html"
   ],
   [
-    "americans",
+    "makary",
     18,
-    "https://www.nytimes.com/2026/05/11/us/nebraska-quarantine-hantavirus-ship-americans.html"
+    "https://www.nytimes.com/2026/05/12/us/politics/trump-fires-fda-commissioner-makary.html"
   ],
   [
-    "voters",
+    "york",
     18,
-    "https://www.theguardian.com/us-news/2026/may/11/california-governor-candidate-mocked-street-taco"
+    "https://www.nytimes.com/2026/05/12/nyregion/mamdani-budget-nyc.html"
   ],
   [
-    "love",
+    "democrats",
     18,
-    "https://www.theguardian.com/artanddesign/2026/may/12/frank-gehry-exhibition-tribute"
-  ],
-  [
-    "party",
-    17,
-    "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html"
-  ],
-  [
-    "political",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/may/12/fda-vaccine-safety"
-  ],
-  [
-    "james",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/12/mississippi-teen-graduate-law-school"
-  ],
-  [
-    "court",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/12/trump-kari-lake-us-ambassador-jamaica"
-  ],
-  [
-    "cup",
-    17,
-    "https://www.theguardian.com/football/video/2026/may/12/world-cup-2026-is-it-possible-to-walk-to-metlife-stadium-from-new-york-city-video"
+    "https://www.nytimes.com/2026/05/08/opinion/ezra-klein-podcast-housing-forum.html"
   ],
   [
     "candidates",
+    18,
+    "https://www.nytimes.com/2026/05/08/opinion/ezra-klein-podcast-housing-forum.html"
+  ],
+  [
+    "series",
+    18,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/12/laura-miller-texas-killing-fields"
+  ],
+  [
+    "tax",
     17,
-    "https://www.theguardian.com/world/2026/may/12/bahamas-goes-to-polls-caribbean-election-battle"
+    "https://www.nytimes.com/2026/05/12/nyregion/mamdani-budget-nyc.html"
   ],
   [
-    "latest",
+    "hantavirus",
+    17,
+    "https://www.nytimes.com/2026/05/11/us/nebraska-quarantine-hantavirus-ship-americans.html"
+  ],
+  [
+    "company",
+    17,
+    "https://www.nytimes.com/2026/05/12/business/media/youtube-creators-advertisers.html"
+  ],
+  [
+    "love",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/may/12/best-types-of-rice"
+  ],
+  [
+    "john",
+    17,
+    "https://www.theguardian.com/culture/2026/may/12/stephen-colbert-trump-statue-iran-peace-plan"
+  ],
+  [
+    "commissioner",
     16,
-    "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html"
+    "https://www.nytimes.com/2026/05/12/us/politics/trump-fires-fda-commissioner-makary.html"
   ],
   [
-    "administration",
+    "department",
     16,
     "https://www.nytimes.com/2026/05/12/us/politics/iran-war-cost-hegseth-congress.html"
   ],
   [
-    "democrats",
+    "james",
     16,
-    "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html"
+    "https://www.nytimes.com/2026/05/12/us/obama-james-talarico-texas-senate-2026-democrats.html"
   ],
   [
-    "online",
+    "death",
     16,
-    "https://www.nytimes.com/2026/05/12/magazine/testosterone-masculinity-trump-rfk.html"
+    "https://www.theguardian.com/music/2026/may/12/drake-iceman-essay-toronto-manosphere-adin-ross-new-album-nokia"
   ],
   [
-    "start",
+    "patel",
     16,
-    "https://www.nytimes.com/2026/05/12/technology/amp-startup.html"
+    "https://www.theguardian.com/us-news/live/2026/may/12/donald-trump-china-iran-redistricting-jeffrey-epstein-latest-news-updates"
   ],
   [
-    "hantavirus",
+    "director",
     16,
-    "https://www.nytimes.com/2026/05/11/us/nebraska-quarantine-hantavirus-ship-americans.html"
+    "https://www.theguardian.com/music/2026/may/12/c2c-festival-new-york-knockdown-center"
   ],
   [
-    "film",
-    16,
-    "https://www.nytimes.com/2026/05/12/movies/rex-reed-dead.html"
-  ],
-  [
-    "workers",
-    16,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "food",
+    "budget",
     15,
-    "https://www.nytimes.com/2026/05/12/business/steel-tariffs-tin-cans-food-prices.html"
+    "https://www.nytimes.com/2026/05/12/nyregion/mamdani-budget-nyc.html"
   ],
   [
-    "because",
+    "democratic",
     15,
-    "https://www.nytimes.com/2026/05/12/business/steel-tariffs-tin-cans-food-prices.html"
+    "https://www.nytimes.com/2026/05/12/us/politics/gop-mystery-pac-midterms.html"
   ],
   [
-    "fire",
+    "court",
     15,
-    "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html"
+    "https://www.nytimes.com/2026/05/12/us/alabama-governor-primary-elections-house.html"
   ],
   [
-    "host",
+    "latest",
     15,
-    "https://www.nytimes.com/2026/05/12/us/politics/jen-kiggans-jeffries-cotton-picking-virginia.html"
+    "https://www.nytimes.com/2026/05/12/us/baltimore-key-bridge-collapse-charges.html"
   ],
   [
-    "john",
+    "israel",
     15,
-    "https://www.nytimes.com/2026/05/12/arts/television/stephen-colbert-strike-force-five.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "fda",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/may/12/fda-vaccine-safety"
+  ],
+  [
+    "school",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/may/12/fda-vaccine-safety"
+  ],
+  [
+    "fbi",
+    15,
+    "https://www.theguardian.com/us-news/live/2026/may/12/donald-trump-china-iran-redistricting-jeffrey-epstein-latest-news-updates"
+  ],
+  [
+    "prime",
+    15,
+    "https://www.theguardian.com/politics/2026/may/12/starmer-cabinet-labour-leadership"
+  ],
+  [
+    "party",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/12/kiggans-resign-racist-comment-radio"
+  ],
+  [
+    "cruise",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/may/12/hantavirus-outbreak-risk-general-public-cruise-ship-group"
   ],
   [
     "challengers",
@@ -266,69 +271,44 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "inflation",
+    "military",
     14,
-    "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html"
+    "https://www.nytimes.com/2026/05/12/us/politics/hegseth-trump-china-xi.html"
   ],
   [
-    "department",
+    "marty",
     14,
-    "https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html"
+    "https://www.nytimes.com/2026/05/12/us/politics/trump-fires-fda-commissioner-makary.html"
   ],
   [
-    "york",
+    "global",
     14,
-    "https://www.nytimes.com/2026/05/12/dining/nyc-restaurants-user-guide.html"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "don",
+    "workers",
     14,
-    "https://www.nytimes.com/2026/05/12/dining/nyc-restaurants-user-guide.html"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "hegseth",
+    "drug",
     14,
-    "https://www.nytimes.com/2026/05/12/us/politics/iran-war-cost-hegseth-congress.html"
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "budget",
-    14,
-    "https://www.nytimes.com/2026/05/12/us/politics/iran-war-cost-hegseth-congress.html"
-  ],
-  [
-    "black",
-    14,
-    "https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html"
-  ],
-  [
-    "senate",
-    14,
-    "https://www.nytimes.com/2026/05/12/us/politics/what-to-watch-nebraska-west-virginia-primaries.html"
-  ],
-  [
-    "death",
-    14,
-    "https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html"
-  ],
-  [
-    "far",
-    14,
-    "https://www.nytimes.com/2026/05/12/world/europe/france-macron-weatherproof-bureaucracy.html"
-  ],
-  [
-    "released",
-    14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "data",
+    "political",
     14,
     "https://www.theguardian.com/commentisfree/2026/may/12/fda-vaccine-safety"
   ],
   [
-    "risk",
+    "late",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/12/fda-vaccine-safety"
+    "https://www.theguardian.com/music/2026/may/12/drake-iceman-essay-toronto-manosphere-adin-ross-new-album-nokia"
+  ],
+  [
+    "social",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/12/marty-makary-fda-trump-administration"
   ],
   [
     "filter",
@@ -341,38 +321,58 @@
     "https://www.theguardian.com/commentisfree/2026/may/12/keir-starmer-labour-reset-gordon-brown-harriet-harman"
   ],
   [
-    "iron",
+    "poll",
     14,
-    "https://www.theguardian.com/food/2026/may/12/vegetarian-how-get-enough-iron-kitchen-aide"
+    "https://www.theguardian.com/us-news/2026/may/12/workers-ai-policy-unions"
   ],
   [
-    "prices",
+    "decision",
     13,
-    "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html"
+    "https://www.nytimes.com/2026/05/12/us/politics/trump-fires-fda-commissioner-makary.html"
   ],
   [
-    "states",
+    "secretary",
     13,
-    "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html"
+    "https://www.nytimes.com/2026/05/12/us/politics/iran-war-cost-hegseth-congress.html"
   ],
   [
-    "global",
+    "inflation",
     13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html"
   ],
   [
-    "least",
+    "black",
     13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.nytimes.com/2026/05/12/us/alabama-governor-primary-elections-house.html"
   ],
   [
-    "middle",
+    "medical",
     13,
-    "https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates"
+    "https://www.nytimes.com/2026/05/12/magazine/what-to-know-testosterone-masculinity.html"
   ],
   [
-    "games",
+    "don",
     13,
-    "https://www.theguardian.com/business/2026/may/12/gamestop-bid-for-ebay-rejected-as-neither-credible-nor-attractive"
+    "https://www.nytimes.com/2026/05/12/dining/nyc-restaurants-user-guide.html"
+  ],
+  [
+    "los",
+    13,
+    "https://www.nytimes.com/2026/05/12/style/scientology-speedruns-tiktok-teens-la-nyc.html"
+  ],
+  [
+    "game",
+    13,
+    "https://www.nytimes.com/2026/05/12/style/hacky-sack-gen-z.html"
+  ],
+  [
+    "team",
+    13,
+    "https://www.washingtonpost.com/nation/2026/05/10/portland-fire-wnba-fans/"
+  ],
+  [
+    "minister",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ]
 ];
