@@ -3,32 +3,56 @@
   "ORG": [
     {
       "name": "Trump Proposes Suspending Federal Gas Tax Until Prices Fall",
-      "count": 58,
+      "count": 59,
       "url": "https://www.nytimes.com/2026/05/11/us/politics/trump-gas-tax.html",
       "source": "NY Times"
     },
     {
       "name": "Ai",
-      "count": 18,
+      "count": 19,
       "url": "https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance",
       "source": "The Guardian"
     },
     {
-      "name": "Supreme Court Continues Access To Abortion Pill By Mail",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-abortion-pill-mifepristone.html",
+      "name": "White House Correspondents' Dinner",
+      "count": 14,
+      "url": "https://www.cbsnews.com/news/white-house-correspondents-dinner-shooting-suspect-cole-allen-pleads-not-guilty-to-all-charges/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The White House",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Virginia Supreme Court",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-virginia-redistricting.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The National Indigenous Congress",
+      "count": 12,
+      "url": "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Senate Homeland Security Committee",
+      "count": 12,
+      "url": "https://thehill.com/homenews/senate/5873292-senate-homeland-security-ballroom-funding/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Labour Party",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
       "source": "NY Times"
     },
     {
       "name": "Gop",
-      "count": 13,
+      "count": 10,
       "url": "https://www.theguardian.com/us-news/2026/may/11/senate-democrats-white-house-ballroom-funding",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Labour",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/11/keir-starmer-speech-labour-reform-keep-out-nigel-farage",
       "source": "The Guardian"
     },
     {
@@ -36,179 +60,31 @@
       "count": 10,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
-    },
-    {
-      "name": "Guardian News",
-      "count": 10,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The California Congressional District",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "The National Indigenous Congress",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The L.A. City Council",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
-      "source": "LA Times"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump ’S",
-      "count": 18,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/11/john-oliver-trump-supreme-court-shadow-docket",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 16,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/11/republicans-trump-popularity",
-      "source": "The Guardian"
-    },
-    {
-      "name": "John Fetterman",
-      "count": 10,
-      "url": "https://thehill.com/homenews/senate/5872987-democrats-believe-whca-shooting-staged/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Sarah Elizabeth Cox",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/11/almost-anyone-britain-next-prime-minister-blame-david-cameron",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Keir Starmer",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/11/almost-anyone-britain-next-prime-minister-blame-david-cameron",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cal In Gaelic",
-      "count": 6,
-      "url": "https://www.theguardian.com/books/2026/may/11/john-of-john-by-douglas-stuart-review-will-a-father-and-son-come-out-to-each-other",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Naz Reid",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/may/10/victor-wembanyama-elbow-ejected-nba-playoffs-spurs-timberwolves",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Katherine Short",
-      "count": 5,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/11/martin-short-daughter-katherine-death",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Karen Bass",
-      "count": 5,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Elon Musk",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/05/11/us/politics/trump-china-musk-cook.html",
-      "source": "NY Times"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 74,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/11/republicans-trump-popularity",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 32,
-      "url": "https://www.theguardian.com/us-news/2026/may/11/critically-low-snowpack-west",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 23,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "China",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/05/11/business/dollar-dominance-renminbi-china.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/05/11/business/dollar-dominance-renminbi-china.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/05/11/world/middleeast/israel-oct-7-prosecutions-palestinians-trial.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 10,
-      "url": "https://www.theguardian.com/wellness/2026/may/11/how-to-start-doing-pull-ups",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Los Angeles County",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-sheriff-luna-villanueva-challengers-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Virginia",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-virginia-redistricting.html",
-      "source": "NY Times"
     }
   ],
   "EVENT": [
     {
       "name": "N.J. World Cup",
-      "count": 5,
+      "count": 6,
       "url": "https://www.washingtonpost.com/nation/2026/05/10/bergen-county-blue-laws-world-cup/",
       "source": "Washington Post"
     },
     {
-      "name": "Game 4",
+      "name": "Super Bowl Xii",
       "count": 3,
-      "url": "https://www.latimes.com/sports/hockey/ducks/story/2026-05-10/ducks-vegas-golden-knights-nhl-playoffs-game-4",
-      "source": "LA Times"
+      "url": "https://www.foxnews.com/sports/craig-morton-death",
+      "source": "Fox News"
     },
     {
-      "name": "The Iran War",
+      "name": "Olympics",
       "count": 2,
-      "url": "https://www.theguardian.com/money/2026/apr/28/tell-us-how-household-finances-costs-iran-war",
+      "url": "https://www.theguardian.com/us-news/2026/may/09/los-angeles-subway-public-transportation",
       "source": "The Guardian"
     },
     {
-      "name": "Iran War Strains Economy",
+      "name": "Iran Truce Plan ‘Garbage",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/05/11/world/asia/modi-indians-gold-weddings-fuel-economy-iran.html",
+      "url": "https://www.nytimes.com/2026/05/11/world/middleeast/economic-woes-trump-iran-truce.html",
       "source": "NY Times"
     },
     {
@@ -216,6 +92,12 @@
       "count": 1,
       "url": "https://www.nytimes.com/2026/05/11/world/europe/putin-russia-ukraine-war.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Miracle Mile",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/may/09/los-angeles-subway-public-transportation",
+      "source": "The Guardian"
     },
     {
       "name": "The World Cup",
@@ -236,17 +118,135 @@
       "source": "The Guardian"
     },
     {
-      "name": "Olympics",
+      "name": "The Iran War",
       "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
+      "url": "https://www.theguardian.com/money/2026/apr/28/tell-us-how-household-finances-costs-iran-war",
+      "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 46,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/11/republicans-trump-popularity",
+      "source": "The Guardian"
+    },
+    {
+      "name": "John Davidson",
+      "count": 9,
+      "url": "https://www.theguardian.com/film/2026/may/11/alan-cumming-criticises-bafta-after-n-word-outburst",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Xi Jinping",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Keir Starmer",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Eileen Wang",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/05/11/us/arcadia-california-mayor-chinese-agent.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Byron Allen",
+      "count": 7,
+      "url": "https://www.theguardian.com/business/2026/may/11/buzzfeed-digital-media-deal-byron-allen",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cameron Hamilton",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/may/11/trump-renominates-cameron-hamilton-fema",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Sarah Elizabeth Cox",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/11/almost-anyone-britain-next-prime-minister-blame-david-cameron",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cal In Gaelic",
+      "count": 6,
+      "url": "https://www.theguardian.com/books/2026/may/11/john-of-john-by-douglas-stuart-review-will-a-father-and-son-come-out-to-each-other",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kelly Gonez",
+      "count": 6,
+      "url": "https://www.latimes.com/california/story/2026-04-29/2026-california-election-los-angeles-lausd-district-6-voter-guide",
+      "source": "LA Times"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 71,
+      "url": "https://www.theguardian.com/thefilter-us/2026/may/11/aeropress-coffee-makers-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 41,
+      "url": "https://www.theguardian.com/us-news/2026/may/11/california-city-mayor-resigns-foreign-agent-charges",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 34,
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/subpoenas-wall-street-journal-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "China",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 23,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Game 5",
-      "count": 1,
-      "url": "https://www.foxnews.com/sports/victor-wembanyama-avoids-suspension-elbow-naz-reid-play-pivotal-game-5",
-      "source": "Fox News"
+      "name": "U.S.",
+      "count": 21,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Israel",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/05/11/world/middleeast/israel-oct-7-prosecutions-palestinians-trial.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Alabama",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Hollywood Hills",
+      "count": 9,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/11/martin-short-daughter-katherine-death",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Beijing",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-05-11T20:49:08Z"
+  "updated": "2026-05-12T04:39:30Z"
 };
