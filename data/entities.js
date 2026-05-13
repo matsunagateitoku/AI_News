@@ -2,33 +2,21 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "World Cup 2026",
-      "count": 4,
-      "url": "https://www.theguardian.com/football/video/2026/may/12/world-cup-2026-is-it-possible-to-walk-to-metlife-stadium-from-new-york-city-video",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.npr.org/2026/05/12/nx-s1-5761387/how-americans-see-china-now",
+      "count": 5,
+      "url": "https://www.npr.org/2026/05/13/nx-s1-5818466/iran-war-family-military",
       "source": "NPR"
     },
     {
-      "name": "The World Cup  •",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/video/2026/may/12/world-cup-2026-is-it-possible-to-walk-to-metlife-stadium-from-new-york-city-video",
+      "name": "The Great American Eclipse",
+      "count": 1,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/13/a-moment-that-changed-me-i-saw-my-first-total-solar-eclipse-and-its-beauty-shook-me-to-my-core",
       "source": "The Guardian"
     },
     {
       "name": "Industrial Revolution",
       "count": 1,
       "url": "https://www.theguardian.com/technology/2026/may/12/florida-students-boo-graduation-speaker-ai",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Toronto Raptors’ Arena",
-      "count": 1,
-      "url": "https://www.theguardian.com/music/2026/may/12/drake-iceman-essay-toronto-manosphere-adin-ross-new-album-nokia",
       "source": "The Guardian"
     },
     {
@@ -60,86 +48,36 @@
       "count": 1,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
       "source": "LA Times"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 57,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/12/supreme-court-citizens-united-voting",
-      "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 40,
-      "url": "https://www.theguardian.com/us-news/2026/may/11/amazon-stops-sales-high-speed-ebikes-california",
-      "source": "The Guardian"
-    },
-    {
-      "name": "China",
-      "count": 36,
-      "url": "https://www.nytimes.com/2026/05/13/us/politics/trumps-shrinking-ambitions-on-china.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 35,
-      "url": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 24,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "name": "Black Americans \"Backwards",
+      "count": 1,
+      "url": "https://www.latimes.com/opinion/story/2026-05-12/cory-booker-ashamed-gerrymandering",
       "source": "LA Times"
     },
     {
-      "name": "Nebraska",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/05/12/us/politics/nebraska-election-takeaways-dan-osborn-ricketts-senate.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 10,
-      "url": "https://www.theguardian.com/politics/2026/may/12/despite-calls-to-step-down-keir-starmer-is-still-the-uks-prime-minister-for-now",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Florida",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/05/12/us/florida-alligator-alcatraz-detention-closure.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/05/12/world/middleeast/israel-sexual-violence-hamas-attack-report.html",
-      "source": "NY Times"
+      "name": "The Hollywood Bowl",
+      "count": 1,
+      "url": "https://www.latimes.com/delos/story/2026-04-28/marcello-hernandez-interview-netflix-is-a-joke-fest-feid-hollywood-bowl",
+      "source": "LA Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
       "count": 42,
-      "url": "https://www.theguardian.com/us-news/2026/may/12/marty-makary-fda-trump-administration",
+      "url": "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks",
       "source": "The Guardian"
     },
     {
       "name": "Xi Jinping Behind",
-      "count": 15,
+      "count": 19,
       "url": "https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html",
       "source": "NY Times"
     },
     {
       "name": "Glioblastoma  Jason Collins",
-      "count": 13,
+      "count": 11,
       "url": "https://www.theguardian.com/sport/2026/may/12/jason-collins-nba-first-openly-gay-player-dies-brain-tumor",
       "source": "The Guardian"
     },
@@ -156,27 +94,15 @@
       "source": "Fox News"
     },
     {
-      "name": "Keir Starmer",
-      "count": 7,
-      "url": "https://www.theguardian.com/politics/2026/may/12/despite-calls-to-step-down-keir-starmer-is-still-the-uks-prime-minister-for-now",
-      "source": "The Guardian"
-    },
-    {
       "name": "Jim Pillen",
       "count": 6,
       "url": "https://www.nytimes.com/2026/05/12/us/nebraska-governor-primary.html",
       "source": "NY Times"
     },
     {
-      "name": "Kash Patel",
+      "name": "Keir Starmer",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/may/12/kash-patel-congressional-hearing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kendrick Lamar",
-      "count": 6,
-      "url": "https://www.theguardian.com/music/2026/may/12/drake-iceman-essay-toronto-manosphere-adin-ross-new-album-nokia",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/12/the-guardian-view-on-keir-starmer-premiership-he-may-survive-but-his-manoeuvres-themselves-signal-decline",
       "source": "The Guardian"
     },
     {
@@ -184,38 +110,32 @@
       "count": 6,
       "url": "https://www.theguardian.com/books/2026/may/11/john-of-john-by-douglas-stuart-review-will-a-father-and-son-come-out-to-each-other",
       "source": "The Guardian"
+    },
+    {
+      "name": "Kash Patel",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/may/12/kash-patel-congressional-hearing",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Marty Makary",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/may/12/marty-makary-fda-trump-administration",
+      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Trump Administration",
-      "count": 43,
+      "count": 46,
       "url": "https://www.nytimes.com/2026/05/12/us/politics/ice-david-venturella-trump.html",
       "source": "NY Times"
     },
     {
       "name": "Ai",
-      "count": 21,
+      "count": 19,
       "url": "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks",
       "source": "The Guardian"
-    },
-    {
-      "name": "Nba All-Rookie",
-      "count": 16,
-      "url": "https://www.theguardian.com/sport/2026/may/12/memphis-grizzlies-forward-brandon-clarke-dies-at-age-of-29-he-was-the-gentlest-soul",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michigan Senate",
-      "count": 16,
-      "url": "https://www.politico.com/news/2026/05/12/abdul-el-sayed-doctor-physician-00916389",
-      "source": "Politico"
-    },
-    {
-      "name": "Gop Senate",
-      "count": 15,
-      "url": "https://www.foxnews.com/politics/shelley-moore-capito-wins-west-virginia-gop-senate-primary-trumps-endorsement-backing-bid",
-      "source": "Fox News"
     },
     {
       "name": "The White House",
@@ -224,21 +144,27 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "name": "Gop",
+      "count": 13,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Nba All-Rookie",
+      "count": 12,
+      "url": "https://www.theguardian.com/sport/2026/may/12/memphis-grizzlies-forward-brandon-clarke-dies-at-age-of-29-he-was-the-gentlest-soul",
       "source": "The Guardian"
     },
     {
-      "name": "Ice",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
-      "source": "Wall St. Journal"
+      "name": "Michigan Senate",
+      "count": 12,
+      "url": "https://www.politico.com/news/2026/05/12/abdul-el-sayed-doctor-physician-00916389",
+      "source": "Politico"
     },
     {
-      "name": "Fda",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/12/fda-vaccine-safety",
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
@@ -246,7 +172,81 @@
       "count": 10,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "Ice",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Fda",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/may/12/marty-makary-fda-trump-administration",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-05-13T04:51:45Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 68,
+      "url": "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks",
+      "source": "The Guardian"
+    },
+    {
+      "name": "China",
+      "count": 44,
+      "url": "https://www.nytimes.com/2026/05/13/us/politics/trumps-shrinking-ambitions-on-china.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 44,
+      "url": "https://www.nytimes.com/2026/05/12/us/becerra-viral-tv-interview-california-governor.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 34,
+      "url": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 24,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Nebraska",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/05/12/us/politics/nebraska-election-takeaways-dan-osborn-ricketts-senate.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Beijing",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/05/12/world/middleeast/israel-sexual-violence-hamas-attack-report.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 11,
+      "url": "https://www.theguardian.com/politics/live/2026/may/13/keir-starmer-labour-party-prime-minister-leadership-wes-streeting-kings-speech-latest-news-updates",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-05-13T09:48:01Z"
 };
