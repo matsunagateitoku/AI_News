@@ -2,21 +2,27 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Tower Australia",
-      "count": 52,
-      "url": "https://www.cbsnews.com/news/trump-tower-australia-scrapped-developer-says-iran-war-trump-brand-toxic/",
-      "source": "CBS News"
+      "name": "Trump Administration Pushes I.R.S.",
+      "count": 55,
+      "url": "https://www.nytimes.com/2026/05/13/us/politics/trump-irs-undocumented-immigrants.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Michigan Senate",
+      "count": 19,
+      "url": "https://www.politico.com/news/2026/05/12/abdul-el-sayed-doctor-physician-00916389",
+      "source": "Politico"
+    },
+    {
+      "name": "Gop",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/05/13/us/politics/iran-war-powers-trump.html",
+      "source": "NY Times"
     },
     {
       "name": "Ai",
-      "count": 15,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/13/beware-what-you-tell-your-ai-chatbot-its-not-a-shrink-its-a-snitch",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nba All-Rookie",
       "count": 13,
-      "url": "https://www.theguardian.com/sport/2026/may/12/memphis-grizzlies-forward-brandon-clarke-dies-at-age-of-29-he-was-the-gentlest-soul",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/13/beware-what-you-tell-your-ai-chatbot-its-not-a-shrink-its-a-snitch",
       "source": "The Guardian"
     },
     {
@@ -26,189 +32,145 @@
       "source": "The Guardian"
     },
     {
-      "name": "Senate Commerce Committee",
-      "count": 11,
-      "url": "https://thehill.com/policy/technology/5875732-cruz-kids-online-safety-act/",
-      "source": "The Hill"
-    },
-    {
-      "name": "The White House",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/may/13/pete-hegseth-faith-rally-dc",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Congress",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/may/13/trump-cuba-takeover-guantanamo-bay-migrants",
-      "source": "The Guardian"
-    },
-    {
       "name": "The California Congressional District",
       "count": 10,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Gop",
+      "name": "The South Carolina Supreme Court",
       "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
-      "source": "LA Times"
+      "url": "https://www.washingtonpost.com/nation/2026/05/13/court-overturns-alex-murdaughs-murder-convictions-deaths-wife-son/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Congress",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/may/13/trump-cuba-takeover-guantanamo-bay-migrants",
+      "source": "The Guardian"
     },
     {
       "name": "The L.A. City Council",
       "count": 9,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
       "source": "LA Times"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 64,
-      "url": "https://www.nytimes.com/2026/05/13/opinion/callais-voting-rights-roberts-court.html",
-      "source": "NY Times"
     },
     {
-      "name": "California",
-      "count": 48,
-      "url": "https://www.nytimes.com/2026/05/12/us/becerra-viral-tv-interview-california-governor.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "China",
-      "count": 44,
-      "url": "https://www.nytimes.com/2026/05/13/us/politics/trump-china-trade-us.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 33,
-      "url": "https://www.nytimes.com/2026/05/13/podcasts/the-headlines/iran-missiles-alligator-alcatraz.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 22,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Iran",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "America",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Beijing",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Openai",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/05/13/technology/ai-lobbying-washington-openai-anthropic.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "London",
+      "name": "Nba",
       "count": 8,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/13/a-moment-that-changed-me-i-saw-my-first-total-solar-eclipse-and-its-beauty-shook-me-to-my-core",
-      "source": "The Guardian"
+      "url": "https://www.washingtonpost.com/obituaries/2026/05/12/jason-collins-first-openly-gay-nba-player-dies-brain-cancer-47/",
+      "source": "Washington Post"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 37,
-      "url": "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks",
+      "count": 42,
+      "url": "https://www.theguardian.com/us-news/2026/may/13/trump-iran-senate-war-powers",
       "source": "The Guardian"
     },
     {
-      "name": "Xi Jinping Behind",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Elon Musk",
-      "count": 13,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/13/beware-what-you-tell-your-ai-chatbot-its-not-a-shrink-its-a-snitch",
+      "name": "Kevin Warsh",
+      "count": 21,
+      "url": "https://www.theguardian.com/business/2026/may/13/kevin-warsh-federal-reserve-chair",
       "source": "The Guardian"
     },
     {
-      "name": "Glioblastoma  Jason Collins",
-      "count": 8,
-      "url": "https://www.theguardian.com/sport/2026/may/12/jason-collins-nba-first-openly-gay-player-dies-brain-tumor",
+      "name": "Xi Jinping",
+      "count": 17,
+      "url": "https://www.theguardian.com/world/2026/may/13/donald-trump-china-sumit-5-key-issues-xi-jinping",
       "source": "The Guardian"
     },
     {
-      "name": "John Mckinney",
-      "count": 8,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-attorney-feldstein-soto-roy-ashouri-mckinney-voter-guide",
-      "source": "LA Times"
+      "name": "Jd Vance",
+      "count": 12,
+      "url": "https://www.foxnews.com/politics/vance-confronted-over-2028-ambitions-after-trump-teases-dream-team-rubio-ticket",
+      "source": "Fox News"
     },
     {
-      "name": "Alex Murdaugh",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/may/13/alex-murdaugh-murder-convictions-overturned",
+      "name": "John Fetterman",
+      "count": 10,
+      "url": "https://www.theguardian.com/business/2026/may/13/kevin-warsh-federal-reserve-chair",
       "source": "The Guardian"
     },
     {
-      "name": "Brandon Clarke",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/may/12/memphis-grizzlies-forward-brandon-clarke-dies-at-age-of-29-he-was-the-gentlest-soul",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ronald Dela Rosa",
+      "name": "Marco Rubio",
       "count": 6,
-      "url": "https://www.theguardian.com/world/2026/may/13/gunshots-philippines-senate-senator-ronald-dela-rosa",
-      "source": "The Guardian"
-    },
-    {
-      "name": "James Comey",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/may/13/james-comey-fbi-retaliation-fears",
-      "source": "The Guardian"
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
     },
     {
       "name": "Cal In Gaelic",
       "count": 6,
       "url": "https://www.theguardian.com/books/2026/may/11/john-of-john-by-douglas-stuart-review-will-a-father-and-son-come-out-to-each-other",
       "source": "The Guardian"
+    },
+    {
+      "name": "Alex Murdaugh'S",
+      "count": 6,
+      "url": "https://www.cbsnews.com/news/alex-murdaugh-south-carolina-five-deaths-connection-investigation/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Alex Murdaugh",
+      "count": 5,
+      "url": "https://www.nytimes.com/article/murdaugh-murders-alex-paul.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Matthew Perry Sentenced",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/05/13/arts/television/matthew-perry-drug-addiction-counselor-sentenced.html",
+      "source": "NY Times"
     }
   ],
   "EVENT": [
     {
+      "name": "African World Cup",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/2026/may/13/world-cup-bonds-for-travelers-suspended",
+      "source": "The Guardian"
+    },
+    {
       "name": "The World Cup",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/05/12/nyregion/nyc-emergency-alerts-schools.html",
+      "count": 3,
+      "url": "https://www.theguardian.com/us-news/2026/may/13/fifa-world-cup-cost",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran War Leaves Questions About Military Strategy",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/05/13/us/politics/gen-caine-trump-iran-war.html",
       "source": "NY Times"
     },
     {
-      "name": "The Iran War",
-      "count": 4,
-      "url": "https://www.npr.org/2026/05/13/nx-s1-5818466/iran-war-family-military",
-      "source": "NPR"
+      "name": "The French Quarter",
+      "count": 2,
+      "url": "https://www.theguardian.com/us-news/2026/may/13/new-orleans-attack-videos",
+      "source": "The Guardian"
     },
     {
-      "name": "Iran War Continues With No End",
+      "name": "New Year’S Day",
       "count": 2,
-      "url": "https://www.nytimes.com/2026/05/13/world/middleeast/trump-china-iran-war.html",
+      "url": "https://www.theguardian.com/us-news/2026/may/13/new-orleans-attack-videos",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran War Powers Vote Fails Again",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/05/13/us/politics/iran-war-powers-trump.html",
       "source": "NY Times"
     },
     {
-      "name": "The Dp World Tour",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/may/13/worlds-no-1-disabled-golfer-kipp-popert-the-best-need-to-play-for-a-living-the-sport-has-stopped",
+      "name": "The French Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/13/iga-swiatek-jessica-pegula-italian-open-tennis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympic",
+      "count": 1,
+      "url": "https://www.theguardian.com/film/2026/may/13/butterfly-jam-review-barry-keoghan-cant-save-this-new-jersey-misstep",
       "source": "The Guardian"
     },
     {
@@ -218,35 +180,73 @@
       "source": "The Guardian"
     },
     {
-      "name": "The French Open",
+      "name": "The Vietnam War",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/13/iga-swiatek-jessica-pegula-italian-open-tennis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Us Pga Championship",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/13/worlds-no-1-disabled-golfer-kipp-popert-the-best-need-to-play-for-a-living-the-sport-has-stopped",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Industrial Revolution",
-      "count": 1,
-      "url": "https://www.theguardian.com/technology/2026/may/12/florida-students-boo-graduation-speaker-ai",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Black Americans \"Backwards",
-      "count": 1,
-      "url": "https://www.latimes.com/opinion/story/2026-05-12/cory-booker-ashamed-gerrymandering",
-      "source": "LA Times"
-    },
-    {
-      "name": "Olympics",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
+      "url": "https://www.latimes.com/california/story/2026-05-13/mom-faces-charges-after-son-on-e-motorcycle-allegedly-struck-fatally-wounded-man",
       "source": "LA Times"
     }
   ],
-  "updated": "2026-05-13T15:45:55Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 64,
+      "url": "https://www.theguardian.com/artanddesign/2026/may/13/smithsonian-celebrates-america-250-objects",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 37,
+      "url": "https://www.nytimes.com/2026/05/13/us/cloobeck-arrest-california-governor.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "China",
+      "count": 36,
+      "url": "https://www.nytimes.com/2026/05/13/world/asia/trump-china-arrival-airport-presidents.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 22,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Beijing",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/05/13/world/asia/trump-china-arrival-airport-presidents.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "America",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Utah",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/may/13/utah-approves-datacenter-backlash",
+      "source": "The Guardian"
+    },
+    {
+      "name": "London",
+      "count": 10,
+      "url": "https://www.theguardian.com/football/live/2026/may/13/manchester-city-v-crystal-palace-premier-league-live",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-05-13T20:47:40Z"
 };
