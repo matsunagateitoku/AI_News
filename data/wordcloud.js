@@ -2,158 +2,128 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    103,
-    "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html"
+    101,
+    "https://www.nytimes.com/2026/05/13/us/politics/trump-china-trade-us.html"
   ],
   [
     "race",
-    71,
-    "https://www.nytimes.com/2026/05/13/world/asia/us-china-trump-xi-beijing-ai.html"
-  ],
-  [
-    "guide",
-    56,
-    "https://www.theguardian.com/books/2026/may/11/john-of-john-by-douglas-stuart-review-will-a-father-and-son-come-out-to-each-other"
+    64,
+    "https://www.theguardian.com/us-news/2026/may/12/nebraska-demoratic-house-primary-winner-cindy-burbank"
   ],
   [
     "president",
-    54,
-    "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html"
+    59,
+    "https://www.nytimes.com/2026/05/13/us/politics/trump-china-trade-us.html"
+  ],
+  [
+    "guide",
+    57,
+    "https://www.theguardian.com/thefilter-us/2026/may/13/cozy-earth-review-sleepwear-bedding-best"
   ],
   [
     "california",
-    51,
+    54,
     "https://www.nytimes.com/2026/05/12/us/becerra-viral-tv-interview-california-governor.html"
   ],
   [
-    "district",
-    47,
-    "https://www.nytimes.com/2026/05/12/us/politics/nebraska-election-takeaways-dan-osborn-ricketts-senate.html"
+    "court",
+    43,
+    "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html"
   ],
   [
     "china",
-    46,
-    "https://www.nytimes.com/2026/05/13/us/politics/trumps-shrinking-ambitions-on-china.html"
+    40,
+    "https://www.nytimes.com/2026/05/13/us/politics/trump-china-trade-us.html"
   ],
   [
-    "iran",
-    41,
-    "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html"
+    "district",
+    38,
+    "https://www.nytimes.com/2026/05/12/us/politics/nebraska-election-takeaways-dan-osborn-ricketts-senate.html"
   ],
   [
-    "health",
-    33,
-    "https://www.nytimes.com/2026/05/12/well/live/pcos-pmos-name-change-treatment-health.html"
-  ],
-  [
-    "faces",
-    27,
-    "https://www.nytimes.com/2026/05/12/us/politics/jen-kiggans-jeffries-cotton-picking-virginia.html"
+    "war",
+    29,
+    "https://www.nytimes.com/2026/05/13/podcasts/the-headlines/iran-missiles-alligator-alcatraz.html"
   ],
   [
     "election",
     27,
-    "https://www.nytimes.com/2026/05/12/us/politics/jen-kiggans-jeffries-cotton-picking-virginia.html"
+    "https://www.theguardian.com/us-news/2026/may/13/pete-hegseth-faith-rally-dc"
   ],
   [
-    "democrats",
+    "iran",
     26,
-    "https://www.nytimes.com/2026/05/12/us/politics/kash-patel-hearing-fbi-drinking.html"
+    "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html"
   ],
   [
-    "republican",
+    "health",
     26,
-    "https://www.nytimes.com/2026/05/12/us/nebraska-governor-primary.html"
+    "https://www.theguardian.com/commentisfree/2026/may/12/hantavirus-outbreak-risk-general-public-cruise-ship-group"
   ],
   [
-    "republicans",
-    26,
-    "https://www.theguardian.com/us-news/2026/may/12/south-carolina-republicans-defy-trump-redistricting"
-  ],
-  [
-    "film",
-    24,
-    "https://www.theguardian.com/commentisfree/2026/may/13/cannes-film-festival-beautiful-gruelling-circus-cinema"
-  ],
-  [
-    "war",
-    23,
-    "https://www.nytimes.com/2026/05/13/world/europe/trump-merz-no-apology.html"
-  ],
-  [
-    "congressional",
-    22,
-    "https://www.nytimes.com/2026/05/12/us/politics/trump-golden-dome.html"
-  ],
-  [
-    "court",
-    22,
-    "https://www.nytimes.com/2026/05/12/us/jason-collins-dead.html"
+    "faces",
+    25,
+    "https://www.nytimes.com/2026/05/13/us/texas-corpus-christi-water-crisis.html"
   ],
   [
     "county",
-    22,
-    "https://www.theguardian.com/us-news/2026/may/11/amazon-stops-sales-high-speed-ebikes-california"
+    25,
+    "https://www.washingtonpost.com/nation/2026/05/13/court-overturns-alex-murdaughs-murder-convictions-deaths-wife-son/"
   ],
   [
-    "nebraska",
-    21,
+    "senate",
+    24,
     "https://www.nytimes.com/2026/05/12/us/politics/nebraska-election-takeaways-dan-osborn-ricketts-senate.html"
+  ],
+  [
+    "incumbent",
+    21,
+    "https://www.latimes.com/california/story/2026-05-13/social-media-videos-take-center-stage-in-la-mayoral-campaign"
   ],
   [
     "term",
     20,
-    "https://www.nytimes.com/2026/05/12/us/nebraska-governor-primary.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "ice",
-    20,
-    "https://www.nytimes.com/2026/05/12/us/politics/ice-david-venturella-trump.html"
-  ],
-  [
-    "incumbent",
-    20,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
-  ],
-  [
-    "primary",
+    "social",
     19,
-    "https://www.nytimes.com/2026/05/12/us/politics/nebraska-election-takeaways-dan-osborn-ricketts-senate.html"
+    "https://www.theguardian.com/world/2026/may/13/cruise-passenger-hantavirus-quarantine"
   ],
   [
-    "music",
+    "congressional",
     19,
-    "https://www.theguardian.com/commentisfree/2026/may/12/the-guardian-view-on-public-health-and-the-arts-the-all-singing-all-dancing-science-of-ageing"
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide"
   ],
   [
-    "host",
+    "alex",
     18,
-    "https://www.nytimes.com/2026/05/12/us/politics/jen-kiggans-jeffries-cotton-picking-virginia.html"
+    "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html"
   ],
   [
-    "party",
+    "america",
     18,
-    "https://www.nytimes.com/2026/05/13/world/europe/britain-leadership-turnover.html"
+    "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html"
   ],
   [
-    "administration",
+    "trial",
     18,
-    "https://www.nytimes.com/2026/05/12/us/politics/ice-david-venturella-trump.html"
+    "https://www.washingtonpost.com/nation/2026/05/13/court-overturns-alex-murdaughs-murder-convictions-deaths-wife-son/"
   ],
   [
-    "political",
+    "media",
     18,
-    "https://www.theguardian.com/commentisfree/2026/may/13/cannes-film-festival-beautiful-gruelling-circus-cinema"
+    "https://www.theguardian.com/world/2026/may/13/cruise-passenger-hantavirus-quarantine"
   ],
   [
-    "battle",
+    "south",
     17,
-    "https://www.nytimes.com/2026/05/12/world/middleeast/strait-of-hormuz-conrol.html"
+    "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html"
   ],
   [
-    "family",
+    "republican",
     17,
-    "https://www.nytimes.com/2026/05/12/business/trump-suit-irs.html"
+    "https://www.nytimes.com/2026/05/12/us/south-carolina-shane-massey-redistricting.html"
   ],
   [
     "democratic",
@@ -161,94 +131,54 @@
     "https://www.nytimes.com/2026/05/12/us/becerra-viral-tv-interview-california-governor.html"
   ],
   [
-    "love",
+    "supreme",
     17,
-    "https://www.theguardian.com/tv-and-radio/2026/may/13/off-campus-review-hot-fun-for-fans-of-bums-boobs-hockey-and-heated-rivalry"
+    "https://www.nytimes.com/2026/05/13/opinion/callais-voting-rights-roberts-court.html"
   ],
   [
-    "died",
+    "chinese",
     17,
-    "https://www.theguardian.com/tv-and-radio/2026/may/13/off-campus-review-hot-fun-for-fans-of-bums-boobs-hockey-and-heated-rivalry"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "support",
+    "film",
     17,
-    "https://www.theguardian.com/us-news/2026/may/12/nebraska-demoratic-house-primary-winner-cindy-burbank"
+    "https://www.theguardian.com/news/2026/may/13/michael-jackson-biopic-tarnished-image-rehabilitated"
   ],
   [
-    "food",
+    "filter",
     17,
-    "https://www.theguardian.com/us-news/2026/may/12/marty-makary-fda-trump-administration"
+    "https://www.theguardian.com/thefilter-us/2026/may/13/cozy-earth-review-sleepwear-bedding-best"
+  ],
+  [
+    "republicans",
+    17,
+    "https://www.theguardian.com/business/2026/may/11/democrats-tax-cuts-republicans"
+  ],
+  [
+    "league",
+    16,
+    "https://www.washingtonpost.com/obituaries/2026/05/12/jason-collins-first-openly-gay-nba-player-dies-brain-cancer-47/"
+  ],
+  [
+    "team",
+    16,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "review",
     16,
-    "https://www.nytimes.com/2026/05/12/business/trump-suit-irs.html"
+    "https://www.theguardian.com/tv-and-radio/2026/may/13/off-campus-review-hot-fun-for-fans-of-bums-boobs-hockey-and-heated-rivalry"
   ],
   [
-    "car",
+    "black",
     16,
-    "https://www.nytimes.com/2026/05/12/business/subscriptions-products-services.html"
+    "https://www.theguardian.com/environment/ng-interactive/2026/may/13/smuggled-illegal-global-trade-giant-harvester-ants-kenya-asia-europe"
   ],
   [
-    "senate",
+    "candidates",
     16,
-    "https://www.nytimes.com/2026/05/12/us/politics/nebraska-election-takeaways-dan-osborn-ricketts-senate.html"
-  ],
-  [
-    "early",
-    16,
-    "https://www.nytimes.com/2026/05/13/world/europe/princess-catherine-italy-visit-uk-cancer.html"
-  ],
-  [
-    "agency",
-    16,
-    "https://www.nytimes.com/2026/05/12/us/politics/ice-david-venturella-trump.html"
-  ],
-  [
-    "hantavirus",
-    16,
-    "https://www.nytimes.com/2026/05/12/well/hantavirus-covid-misinformation.html"
-  ],
-  [
-    "chinese",
-    16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "medical",
-    16,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "south",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/12/south-carolina-republicans-defy-trump-redistricting"
-  ],
-  [
-    "acting",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/12/marty-makary-fda-trump-administration"
-  ],
-  [
-    "social",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/12/marty-makary-fda-trump-administration"
-  ],
-  [
-    "something",
-    16,
-    "https://www.theguardian.com/film/2026/may/13/killer-whale-review-ocean-peril-horror"
-  ],
-  [
-    "filter",
-    16,
-    "https://www.theguardian.com/environment/2026/may/13/you-have-to-be-where-the-pollution-is-the-inventor-hoping-to-fix-your-washing-machine-to-stop-microplastics"
-  ],
-  [
-    "john",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/may/12/the-guardian-view-on-keir-starmer-premiership-he-may-survive-but-his-manoeuvres-themselves-signal-decline"
+    "https://www.latimes.com/california/story/2026-05-13/social-media-videos-take-center-stage-in-la-mayoral-campaign"
   ],
   [
     "challengers",
@@ -256,89 +186,94 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "secretary",
-    15,
-    "https://www.nytimes.com/2026/05/12/us/politics/ice-david-venturella-trump.html"
-  ],
-  [
-    "player",
-    15,
-    "https://www.nytimes.com/2026/05/12/us/jason-collins-dead.html"
-  ],
-  [
-    "gay",
-    15,
-    "https://www.nytimes.com/2026/05/12/us/jason-collins-dead.html"
-  ],
-  [
-    "black",
-    15,
-    "https://www.nytimes.com/2026/05/12/us/jason-collins-dead.html"
-  ],
-  [
-    "cruise",
-    15,
-    "https://www.nytimes.com/2026/05/12/us/hantavirus-quarantine-nebraska-travel-influencer.html"
-  ],
-  [
-    "sex",
+    "love",
     15,
     "https://www.theguardian.com/tv-and-radio/2026/may/13/off-campus-review-hot-fun-for-fans-of-bums-boobs-hockey-and-heated-rivalry"
   ],
   [
-    "email",
+    "because",
     15,
-    "https://www.theguardian.com/us-news/2026/may/12/nebraska-demoratic-house-primary-winner-cindy-burbank"
+    "https://www.theguardian.com/tv-and-radio/2026/may/13/off-campus-review-hot-fun-for-fans-of-bums-boobs-hockey-and-heated-rivalry"
   ],
   [
-    "director",
+    "party",
     15,
-    "https://www.theguardian.com/us-news/2026/may/12/kash-patel-congressional-hearing"
+    "https://www.theguardian.com/world/2026/may/13/can-peter-magyar-deliver-on-his-promises-of-reform-and-restore-a-relationship-to-the-eu"
   ],
   [
-    "experts",
+    "power",
     14,
-    "https://www.nytimes.com/2026/05/12/world/middleeast/strait-of-hormuz-conrol.html"
+    "https://www.nytimes.com/2026/05/12/us/south-carolina-shane-massey-redistricting.html"
   ],
   [
-    "david",
+    "country",
     14,
-    "https://www.nytimes.com/2026/05/12/us/politics/ice-david-venturella-trump.html"
+    "https://www.nytimes.com/2026/05/13/us/texas-corpus-christi-water-crisis.html"
   ],
   [
-    "department",
+    "though",
     14,
-    "https://www.nytimes.com/2026/05/12/us/politics/ice-david-venturella-trump.html"
+    "https://www.nytimes.com/2026/05/13/style/soap-operas-.html"
   ],
   [
-    "jason",
+    "musk",
     14,
-    "https://www.nytimes.com/2026/05/12/us/jason-collins-dead.html"
+    "https://www.theguardian.com/commentisfree/2026/may/13/beware-what-you-tell-your-ai-chatbot-its-not-a-shrink-its-a-snitch"
   ],
   [
-    "dies",
+    "late",
     14,
-    "https://www.nytimes.com/2026/05/12/us/jason-collins-dead.html"
+    "https://www.theguardian.com/news/2026/may/13/michael-jackson-biopic-tarnished-image-rehabilitated"
   ],
   [
-    "general",
+    "night",
     14,
-    "https://www.nytimes.com/2026/05/06/well/hantavirus-symptoms-strains.html"
+    "https://www.theguardian.com/us-news/2026/may/13/marie-therese-ross-85-year-old-ice-detainee"
   ],
   [
-    "mayor",
+    "political",
     14,
-    "https://www.nytimes.com/2026/05/12/us/san-francisco-homeless-count.html"
+    "https://www.theguardian.com/us-news/2026/may/13/james-comey-fbi-retaliation-fears"
   ],
   [
-    "replace",
+    "cruise",
     14,
-    "https://www.theguardian.com/us-news/2026/may/12/marty-makary-fda-trump-administration"
+    "https://www.theguardian.com/world/2026/may/13/cruise-passenger-hantavirus-quarantine"
   ],
   [
-    "candidates",
+    "john",
     14,
-    "https://www.latimes.com/california/story/2024-08-09/california-governor-2026-candidates-newsom-atkins-kounalakis-thurmond-villaraigosa-yee"
+    "https://www.theguardian.com/books/2026/may/11/john-of-john-by-douglas-stuart-review-will-a-father-and-son-come-out-to-each-other"
+  ],
+  [
+    "tax",
+    13,
+    "https://www.nytimes.com/2026/05/13/business/energy-environment/trump-federal-gas-tax.html"
+  ],
+  [
+    "murdaugh",
+    13,
+    "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html"
+  ],
+  [
+    "murder",
+    13,
+    "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html"
+  ],
+  [
+    "win",
+    13,
+    "https://www.nytimes.com/2026/05/13/us/trump-vapes-cigarettes-big-tobacco.html"
+  ],
+  [
+    "primary",
+    13,
+    "https://www.nytimes.com/2026/05/12/us/politics/nebraska-election-takeaways-dan-osborn-ricketts-senate.html"
+  ],
+  [
+    "democrats",
+    13,
+    "https://www.nytimes.com/2026/05/12/us/politics/nebraska-election-takeaways-dan-osborn-ricketts-senate.html"
   ],
   [
     "governor",
@@ -346,33 +281,98 @@
     "https://www.nytimes.com/2026/05/12/us/becerra-viral-tv-interview-california-governor.html"
   ],
   [
-    "team",
+    "hantavirus",
     13,
-    "https://www.nytimes.com/2026/05/12/world/middleeast/israel-sexual-violence-hamas-attack-report.html"
+    "https://www.nytimes.com/2026/05/13/world/europe/hantavirus-outbreak-cases-france.html"
   ],
   [
-    "though",
+    "general",
     13,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+    "https://www.nytimes.com/2026/05/06/well/hantavirus-symptoms-strains.html"
   ],
   [
-    "because",
+    "family",
+    13,
+    "https://www.nytimes.com/2026/05/13/us/ak-47.html"
+  ],
+  [
+    "summit",
+    13,
+    "https://www.nytimes.com/2026/05/13/briefing/trump-in-china.html"
+  ],
+  [
+    "senator",
+    13,
+    "https://www.nytimes.com/2026/05/13/world/asia/duterte-icc-bato-delarosa-philippines-senate-shooting.html"
+  ],
+  [
+    "son",
+    13,
+    "https://www.washingtonpost.com/nation/2026/05/13/court-overturns-alex-murdaughs-murder-convictions-deaths-wife-son/"
+  ],
+  [
+    "early",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/may/13/women-home-buyers-men-dating"
+  ],
+  [
+    "don",
+    13,
+    "https://www.theguardian.com/news/2026/may/13/michael-jackson-biopic-tarnished-image-rehabilitated"
+  ],
+  [
+    "sex",
     13,
     "https://www.theguardian.com/tv-and-radio/2026/may/13/off-campus-review-hot-fun-for-fans-of-bums-boobs-hockey-and-heated-rivalry"
   ],
   [
-    "feel",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/12/us-author-jail-husband-death"
-  ],
-  [
-    "guilty",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/12/us-author-jail-husband-death"
-  ],
-  [
     "americans",
     13,
-    "https://www.theguardian.com/commentisfree/2026/may/12/supreme-court-citizens-united-voting"
+    "https://www.theguardian.com/us-news/2026/may/13/trump-iran-war-americans-finances"
+  ],
+  [
+    "host",
+    13,
+    "https://www.theguardian.com/us-news/2026/may/13/pete-hegseth-faith-rally-dc"
+  ],
+  [
+    "ship",
+    13,
+    "https://www.theguardian.com/world/2026/may/13/cruise-passenger-hantavirus-quarantine"
+  ],
+  [
+    "food",
+    13,
+    "https://www.theguardian.com/us-news/2026/may/13/kyle-diamantas-new-acting-fda-commissioner"
+  ],
+  [
+    "something",
+    13,
+    "https://www.theguardian.com/sport/2026/may/13/masai-ujiri-dallas-mavericks-nba"
+  ],
+  [
+    "games",
+    13,
+    "https://www.theguardian.com/sport/2026/may/13/nfl-international-games-schedule-paris-melbourne-london"
+  ],
+  [
+    "beijing",
+    12,
+    "https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html"
+  ],
+  [
+    "claims",
+    12,
+    "https://www.nytimes.com/2026/05/13/podcasts/the-headlines/iran-missiles-alligator-alcatraz.html"
+  ],
+  [
+    "far",
+    12,
+    "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html"
   ]
 ];
