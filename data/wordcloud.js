@@ -2,243 +2,243 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    105,
-    "https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html"
+    116,
+    "https://www.nytimes.com/2026/05/14/business/trump-china-xi-investment.html"
   ],
   [
     "president",
-    80,
-    "https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html"
+    72,
+    "https://www.nytimes.com/2026/05/13/us/politics/vance-medicaid-fraud-california.html"
   ],
   [
     "race",
-    71,
-    "https://www.nytimes.com/2026/05/13/us/politics/denise-powell-nebrasaka-house-don-bacon.html"
+    65,
+    "https://www.nytimes.com/2026/05/14/us/politics/xavier-becerra-migrant-children.html"
   ],
   [
     "guide",
-    56,
-    "https://www.theguardian.com/thefilter-us/2026/may/13/cozy-earth-review-sleepwear-bedding-best"
+    57,
+    "https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips"
   ],
   [
     "china",
     47,
-    "https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html"
-  ],
-  [
-    "district",
-    47,
-    "https://www.theguardian.com/film/2026/may/14/the-christophers-review-ian-mckellen-michaela-coel"
+    "https://www.nytimes.com/2026/05/14/world/asia/trump-china-people-street.html"
   ],
   [
     "california",
-    45,
-    "https://www.nytimes.com/2026/05/13/us/politics/vance-medicaid-fraud-california.html"
+    40,
+    "https://www.nytimes.com/2026/05/14/us/politics/xavier-becerra-migrant-children.html"
   ],
   [
-    "iran",
-    34,
-    "https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html"
-  ],
-  [
-    "beijing",
-    32,
-    "https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html"
-  ],
-  [
-    "war",
-    32,
-    "https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html"
+    "district",
+    40,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide"
   ],
   [
     "chinese",
-    32,
-    "https://www.nytimes.com/2026/05/13/world/asia/trump-xi-summit-people-culture.html"
+    31,
+    "https://www.nytimes.com/2026/05/14/business/trump-china-xi-investment.html"
   ],
   [
-    "court",
-    32,
-    "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html"
-  ],
-  [
-    "film",
-    28,
-    "https://www.theguardian.com/film/2026/may/14/curry-barker-obsession-horror-movie"
-  ],
-  [
-    "cup",
+    "iran",
     26,
-    "https://www.nytimes.com/2026/05/14/arts/music/world-cup-halftime-shakira-madonna-bts.html"
+    "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html"
+  ],
+  [
+    "war",
+    26,
+    "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html"
+  ],
+  [
+    "party",
+    24,
+    "https://www.nytimes.com/2026/05/14/world/europe/uk-who-is-wes-streeting.html"
   ],
   [
     "republican",
-    23,
-    "https://www.nytimes.com/2026/05/13/us/politics/iran-war-powers-trump.html"
+    24,
+    "https://www.theguardian.com/us-news/2026/may/13/rand-paul-son-apologizes-antisemitic-anti-gay-rant"
+  ],
+  [
+    "film",
+    22,
+    "https://www.theguardian.com/film/2026/may/14/cannes-film-festival-controversies-ranked"
+  ],
+  [
+    "faces",
+    22,
+    "https://www.theguardian.com/environment/2026/may/14/seafood-company-abuse-claims-fish-farming"
   ],
   [
     "health",
-    22,
+    21,
     "https://www.nytimes.com/2026/05/13/us/politics/vance-medicaid-fraud-california.html"
   ],
   [
-    "republicans",
+    "taiwan",
     21,
-    "https://www.theguardian.com/us-news/2026/may/13/trump-iran-senate-war-powers"
+    "https://www.nytimes.com/2026/05/14/t-magazine/taiwan-chinese-buddhism.html"
+  ],
+  [
+    "county",
+    21,
+    "https://www.washingtonpost.com/nation/2026/05/13/court-overturns-alex-murdaughs-murder-convictions-deaths-wife-son/"
+  ],
+  [
+    "election",
+    21,
+    "https://www.theguardian.com/commentisfree/2026/may/13/the-guardian-view-on-the-kings-speech-an-agenda-for-a-government-that-lacks-conviction"
+  ],
+  [
+    "food",
+    20,
+    "https://www.nytimes.com/2026/05/14/business/retail-sales-consumer-spending-april.html"
+  ],
+  [
+    "secretary",
+    20,
+    "https://www.nytimes.com/2026/05/14/world/europe/wes-streeting-resigns-starmer-uk-prime-minister.html"
+  ],
+  [
+    "south",
+    20,
+    "https://www.nytimes.com/2026/05/14/us/murdaugh-murder-conviction-overturned-reaction.html"
+  ],
+  [
+    "republicans",
+    20,
+    "https://www.theguardian.com/us-news/2026/may/14/state-income-tax-cuts-republicans-missouri"
   ],
   [
     "congressional",
     20,
-    "https://www.nytimes.com/2026/05/13/us/politics/iran-war-powers-trump.html"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/14/south-carolina-republican-trump-speech"
   ],
   [
-    "county",
-    20,
-    "https://www.washingtonpost.com/nation/2026/05/13/court-overturns-alex-murdaughs-murder-convictions-deaths-wife-son/"
+    "beijing",
+    19,
+    "https://www.nytimes.com/2026/05/14/arts/television/late-night-trump-china-musk.html"
   ],
   [
-    "term",
-    20,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "rubio",
+    19,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "party",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/may/14/free-pass-antisemitism-left-right-nigel-farage-zack-polanski-jewish"
+    "don",
+    19,
+    "https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips"
+  ],
+  [
+    "something",
+    19,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/14/south-carolina-republican-trump-speech"
   ],
   [
     "incumbent",
-    20,
-    "https://www.latimes.com/california/story/2026-05-13/bass-holds-lead-in-new-la-mayoral-poll-with-pratt-raman-neck-neck-for-runoff-position"
-  ],
-  [
-    "american",
     19,
-    "https://www.nytimes.com/2026/05/13/world/asia/trump-xi-summit-people-culture.html"
-  ],
-  [
-    "vote",
-    19,
-    "https://www.nytimes.com/2026/05/13/us/politics/iran-war-powers-trump.html"
-  ],
-  [
-    "senate",
-    19,
-    "https://www.nytimes.com/2026/05/13/us/politics/iran-war-powers-trump.html"
-  ],
-  [
-    "election",
-    19,
-    "https://www.nytimes.com/2026/05/13/us/brian-kemp-georgia-redistricting-elections.html"
-  ],
-  [
-    "political",
-    19,
-    "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news"
-  ],
-  [
-    "faces",
-    19,
-    "https://www.theguardian.com/world/2026/may/14/cuba-us-energy-blockade-oil-fuel-petrol-runs-out"
-  ],
-  [
-    "jinping",
-    18,
-    "https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html"
-  ],
-  [
-    "administration",
-    18,
-    "https://www.nytimes.com/2026/05/13/us/politics/vance-medicaid-fraud-california.html"
-  ],
-  [
-    "murder",
-    18,
-    "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html"
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
     "democratic",
     18,
-    "https://www.nytimes.com/2026/05/13/us/politics/denise-powell-nebrasaka-house-don-bacon.html"
+    "https://www.nytimes.com/2026/05/14/us/politics/xavier-becerra-migrant-children.html"
   ],
   [
-    "states",
+    "american",
     18,
-    "https://www.theguardian.com/us-news/video/2026/may/13/stacey-abrams-voting-rights-act"
-  ],
-  [
-    "review",
-    18,
-    "https://www.theguardian.com/film/2026/may/14/the-christophers-review-ian-mckellen-michaela-coel"
-  ],
-  [
-    "visit",
-    17,
-    "https://www.nytimes.com/2026/05/13/us/politics/china-visits-nixon-to-trump.html"
-  ],
-  [
-    "united",
-    17,
-    "https://www.nytimes.com/2026/05/13/world/middleeast/netanyahu-uae-iran-war.html"
-  ],
-  [
-    "south",
-    17,
-    "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html"
-  ],
-  [
-    "final",
-    17,
-    "https://www.nytimes.com/2026/05/14/arts/music/world-cup-halftime-shakira-madonna-bts.html"
-  ],
-  [
-    "early",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "summit",
-    17,
-    "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news"
+    "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html"
   ],
   [
     "power",
-    17,
-    "https://www.theguardian.com/politics/2026/may/14/angela-rayner-cleared-hmrc-tax-affairs-labour-leadership-starmer"
+    18,
+    "https://www.nytimes.com/2026/05/14/t-magazine/buddhism-thailand-religion-politics.html"
   ],
   [
-    "filter",
+    "young",
+    18,
+    "https://www.nytimes.com/2026/05/14/nyregion/gen-z-nyc-unaffordable.html"
+  ],
+  [
+    "night",
+    18,
+    "https://www.nytimes.com/2026/05/14/arts/television/late-night-trump-china-musk.html"
+  ],
+  [
+    "court",
+    18,
+    "https://www.nytimes.com/2026/05/14/us/murdaugh-murder-conviction-overturned-reaction.html"
+  ],
+  [
+    "term",
+    18,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "school",
+    18,
+    "https://www.theguardian.com/film/2026/may/14/cannes-film-festival-controversies-ranked"
+  ],
+  [
+    "government",
     17,
-    "https://www.theguardian.com/environment/2026/may/13/you-have-to-be-where-the-pollution-is-the-inventor-hoping-to-fix-your-washing-machine-to-stop-microplastics"
+    "https://www.nytimes.com/2026/05/14/world/europe/uk-who-is-wes-streeting.html"
   ],
   [
     "country",
-    16,
+    17,
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "something",
+    "bike",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips"
+  ],
+  [
+    "states",
     16,
-    "https://www.theguardian.com/film/2026/may/14/olivia-colman-interview-jimpa-john-lithgow-nude-gay-septuagenarian"
+    "https://www.nytimes.com/2026/05/14/business/trump-china-xi-investment.html"
   ],
   [
-    "series",
-    15,
-    "https://www.nytimes.com/2026/05/13/us/road-trip-duffy.html"
+    "political",
+    16,
+    "https://www.nytimes.com/2026/05/14/t-magazine/buddhism-thailand-religion-politics.html"
   ],
   [
-    "son",
-    15,
-    "https://www.nytimes.com/article/murdaugh-murders-alex-paul.html"
+    "cruise",
+    16,
+    "https://www.nytimes.com/2026/05/14/world/americas/hantavirus-cruise-ship-argentina.html"
   ],
   [
-    "primary",
-    15,
-    "https://www.nytimes.com/2026/05/13/us/politics/denise-powell-nebrasaka-house-don-bacon.html"
+    "filter",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips"
   ],
   [
-    "ice",
+    "really",
+    16,
+    "https://www.theguardian.com/us-news/2026/may/13/rand-paul-son-apologizes-antisemitic-anti-gay-rant"
+  ],
+  [
+    "murder",
     15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/05/14/podcasts/the-headlines/china-leverage-us-oil-companies.html"
+  ],
+  [
+    "carolina",
+    15,
+    "https://www.nytimes.com/2026/05/14/us/murdaugh-murder-conviction-overturned-reaction.html"
+  ],
+  [
+    "least",
+    15,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "senate",
+    15,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/14/south-carolina-republican-trump-speech"
   ],
   [
     "challengers",
@@ -246,133 +246,133 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
+    "united",
+    14,
+    "https://www.nytimes.com/2026/05/14/business/trump-china-xi-investment.html"
+  ],
+  [
+    "cities",
+    14,
+    "https://www.nytimes.com/2026/05/14/world/asia/trump-china-people-street.html"
+  ],
+  [
+    "york",
+    14,
+    "https://www.nytimes.com/2026/05/14/nyregion/jack-schlossberg-campaign.html"
+  ],
+  [
+    "minister",
+    14,
+    "https://www.nytimes.com/2026/05/14/world/europe/wes-streeting-resigns-starmer-uk-prime-minister.html"
+  ],
+  [
+    "series",
+    14,
+    "https://www.nytimes.com/2026/05/14/technology/cryptocurrency-clarity-act-senate.html"
+  ],
+  [
+    "candidates",
+    14,
+    "https://www.nytimes.com/2026/05/14/briefing/whos-running-for-president-in-2028.html"
+  ],
+  [
+    "history",
+    14,
+    "https://www.washingtonpost.com/obituaries/2026/05/12/jason-collins-first-openly-gay-nba-player-dies-brain-cancer-47/"
+  ],
+  [
+    "weekly",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips"
+  ],
+  [
     "buying",
     14,
-    "https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html"
+    "https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips"
   ],
   [
-    "government",
+    "jinping",
     14,
-    "https://www.nytimes.com/2026/05/13/us/doj-lawsuit-dc-bar-trump.html"
+    "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news"
   ],
   [
-    "secretary",
+    "video",
     14,
-    "https://www.nytimes.com/2026/05/13/us/road-trip-duffy.html"
+    "https://www.theguardian.com/environment/2026/may/14/seafood-company-abuse-claims-fish-farming"
   ],
   [
-    "americans",
+    "experts",
     14,
-    "https://www.nytimes.com/2026/05/13/us/politics/trump-iran-war-american-finances-republicans-midterms.html"
+    "https://www.theguardian.com/us-news/2026/may/14/state-income-tax-cuts-republicans-missouri"
   ],
   [
     "redistricting",
     14,
-    "https://www.nytimes.com/2026/05/13/us/south-carolina-special-session-redistricting.html"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/14/south-carolina-republican-trump-speech"
+  ],
+  [
+    "clear",
+    13,
+    "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html"
+  ],
+  [
+    "americans",
+    13,
+    "https://www.nytimes.com/2026/05/13/us/politics/trump-iran-war-american-finances-republicans-midterms.html"
+  ],
+  [
+    "job",
+    13,
+    "https://www.nytimes.com/2026/05/14/nyregion/gen-z-nyc-unaffordable.html"
   ],
   [
     "feel",
-    14,
-    "https://www.nytimes.com/2026/05/13/nyregion/rudy-giuliani-interview-health.html"
-  ],
-  [
-    "everything",
-    14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "voting",
-    14,
-    "https://www.theguardian.com/us-news/video/2026/may/13/stacey-abrams-voting-rights-act"
-  ],
-  [
-    "talks",
-    14,
-    "https://www.theguardian.com/us-news/video/2026/may/13/stacey-abrams-voting-rights-act"
-  ],
-  [
-    "democrats",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/13/trump-iran-senate-war-powers"
-  ],
-  [
-    "because",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/may/14/europe-big-problems-japan-taiwan-care-systems"
-  ],
-  [
-    "poll",
-    14,
-    "https://www.theguardian.com/wellness/2026/may/06/ai-fitness-health-programs"
-  ],
-  [
-    "military",
     13,
-    "https://www.nytimes.com/2026/05/13/us/politics/gen-caine-trump-iran-war.html"
+    "https://www.nytimes.com/2026/05/14/nyregion/gen-z-nyc-unaffordable.html"
   ],
   [
-    "alex",
+    "latest",
     13,
-    "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "murdaugh",
+    "donald",
     13,
-    "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html"
+    "https://www.theguardian.com/business/ng-interactive/2026/may/14/us-stock-market-war-inflation-tariffs-trump"
   ],
   [
-    "book",
+    "fewer",
     13,
-    "https://www.nytimes.com/2026/05/13/us/kouri-richins-sentencing.html"
+    "https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips"
   ],
   [
-    "replace",
+    "voters",
     13,
-    "https://www.nytimes.com/2026/05/13/us/politics/kevin-warsh-fed-chair-confirmed.html"
+    "https://www.theguardian.com/us-news/2026/may/14/state-income-tax-cuts-republicans-missouri"
   ],
   [
-    "special",
+    "ship",
     13,
-    "https://www.nytimes.com/2026/05/13/us/south-carolina-special-session-redistricting.html"
+    "https://www.theguardian.com/world/2026/may/14/iran-strait-of-hormuz-navy-uae"
   ],
   [
-    "bond",
+    "leader",
     13,
-    "https://www.washingtonpost.com/lifestyle/2026/05/13/firefighter-goes-college-graduation-baby-he-helped-deliver/"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/14/south-carolina-republican-trump-speech"
   ],
   [
-    "video",
+    "final",
     13,
-    "https://www.theguardian.com/society/2026/may/14/very-demure-very-mindful-how-jools-lebron-went-viral-and-her-life-fell-apart"
+    "https://www.theguardian.com/football/2026/may/14/shakira-madonna-bts-headline-first-world-cup-final-half-time-show"
   ],
   [
-    "media",
+    "review",
     13,
-    "https://www.theguardian.com/commentisfree/2026/may/14/free-pass-antisemitism-left-right-nigel-farage-zack-polanski-jewish"
+    "https://www.theguardian.com/football/2026/may/14/why-are-we-getting-more-not-less-var-arsenal-west-ham-title-race"
   ],
   [
-    "don",
+    "education",
     13,
-    "https://www.theguardian.com/us-news/2026/may/13/rand-paul-son-apologizes-antisemitic-anti-gay-rant"
-  ],
-  [
-    "los",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/may/14/nemesis-review-a-ridiculously-entertaining-cop-show-packed-with-stars-of-the-wire"
-  ],
-  [
-    "game",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/may/14/nemesis-review-a-ridiculously-entertaining-cop-show-packed-with-stars-of-the-wire"
-  ],
-  [
-    "games",
-    13,
-    "https://www.theguardian.com/football/2026/may/13/liverpool-arne-slot-time-change-league-title-defence"
-  ],
-  [
-    "candidates",
-    13,
-    "https://www.latimes.com/california/story/2024-08-09/california-governor-2026-candidates-newsom-atkins-kounalakis-thurmond-villaraigosa-yee"
+    "https://www.latimes.com/california/story/2026-04-29/2026-california-election-los-angeles-lausd-district-2-voter-guide"
   ]
 ];
