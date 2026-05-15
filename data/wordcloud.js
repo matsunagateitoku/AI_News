@@ -2,153 +2,123 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    106,
-    "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html"
+    89,
+    "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
   ],
   [
     "race",
-    64,
-    "https://www.theguardian.com/education/2026/may/14/justice-department-yale-medical-school-race-admissions"
-  ],
-  [
-    "president",
-    62,
-    "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html"
+    69,
+    "https://www.theguardian.com/us-news/2026/may/15/democrats-pennsylvania-third-district-elections"
   ],
   [
     "guide",
-    59,
+    63,
     "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
   ],
   [
-    "district",
-    50,
-    "https://www.theguardian.com/us-news/2026/may/15/bennie-thompson-voting-rights-act"
+    "president",
+    53,
+    "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
   ],
   [
-    "china",
-    45,
-    "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html"
+    "district",
+    51,
+    "https://www.nytimes.com/2026/05/15/us/elections/steve-cohen-retires-tennessee.html"
   ],
   [
     "california",
-    44,
-    "https://www.nytimes.com/2026/05/15/us/california-governor-debate-takeaways-san-francisco.html"
+    50,
+    "https://www.theguardian.com/us-news/2026/may/15/nyc-american-deed-theft-crisis"
   ],
   [
-    "court",
-    40,
-    "https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html"
-  ],
-  [
-    "supreme",
-    28,
-    "https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html"
-  ],
-  [
-    "black",
-    27,
-    "https://www.theguardian.com/us-news/2026/may/15/bennie-thompson-voting-rights-act"
-  ],
-  [
-    "war",
-    26,
-    "https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html"
+    "china",
+    39,
+    "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
   ],
   [
     "democratic",
-    26,
+    28,
     "https://www.nytimes.com/2026/05/15/us/house-candidates-democrats-pelosi-nadler.html"
   ],
   [
     "health",
-    23,
+    27,
     "https://www.nytimes.com/2026/05/15/magazine/rfk-jr-antidepressants-ssris-psychiatry.html"
   ],
   [
-    "latest",
-    22,
-    "https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html"
-  ],
-  [
-    "country",
-    22,
-    "https://www.nytimes.com/2026/05/14/us/politics/cia-director-visits-cuba.html"
-  ],
-  [
-    "incumbent",
-    22,
-    "https://www.nytimes.com/2026/05/15/us/politics/kentucky-voters-iran-war.html"
+    "court",
+    25,
+    "https://www.nytimes.com/2026/05/15/climate/michigan-coal-plant-trump.html"
   ],
   [
     "election",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/may/15/democrats-dnc-2024-election-autopsy-report"
-  ],
-  [
-    "congressional",
-    21,
-    "https://www.theguardian.com/us-news/2026/may/15/bennie-thompson-voting-rights-act"
-  ],
-  [
-    "candidates",
-    20,
-    "https://www.nytimes.com/2026/05/15/us/politics/bernie-sanders-endorsements-democrats-candidates.html"
-  ],
-  [
-    "party",
-    20,
-    "https://www.nytimes.com/2026/05/15/us/house-candidates-democrats-pelosi-nadler.html"
-  ],
-  [
-    "county",
-    20,
-    "https://www.washingtonpost.com/nation/2026/05/13/court-overturns-alex-murdaughs-murder-convictions-deaths-wife-son/"
-  ],
-  [
-    "faces",
-    20,
-    "https://www.theguardian.com/environment/2026/may/14/seafood-company-abuse-claims-fish-farming"
-  ],
-  [
-    "south",
-    19,
-    "https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html"
-  ],
-  [
-    "republican",
-    19,
-    "https://www.nytimes.com/2026/05/15/us/politics/kentucky-voters-iran-war.html"
-  ],
-  [
-    "abortion",
-    19,
-    "https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html"
-  ],
-  [
-    "american",
-    19,
-    "https://www.nytimes.com/2026/05/15/magazine/rfk-jr-antidepressants-ssris-psychiatry.html"
-  ],
-  [
-    "iran",
-    18,
-    "https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html"
-  ],
-  [
-    "democrats",
-    18,
-    "https://www.nytimes.com/2026/05/15/us/politics/platner-maine-senate-working-class.html"
-  ],
-  [
-    "access",
-    18,
-    "https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html"
+    24,
+    "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news"
   ],
   [
     "don",
-    18,
-    "https://www.nytimes.com/2026/05/15/opinion/reese-witherspoon-mel-robbins-girlboss-ai.html"
+    23,
+    "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news"
+  ],
+  [
+    "congressional",
+    22,
+    "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news"
+  ],
+  [
+    "interview",
+    22,
+    "https://www.theguardian.com/sport/2026/may/15/deion-sanders-shedeur-sanders-hell-browns"
+  ],
+  [
+    "sex",
+    22,
+    "https://www.theguardian.com/world/2026/may/15/harvey-weinsteins-new-york-mistrial"
+  ],
+  [
+    "black",
+    22,
+    "https://www.theguardian.com/environment/2026/may/14/what-the-fate-of-timmy-the-whale-says-about-conservation"
+  ],
+  [
+    "iran",
+    20,
+    "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
+  ],
+  [
+    "york",
+    20,
+    "https://www.theguardian.com/us-news/2026/may/15/nyc-american-deed-theft-crisis"
+  ],
+  [
+    "republican",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/may/15/trump-moms-gov-website-anti-choice"
+  ],
+  [
+    "department",
+    19,
+    "https://www.nytimes.com/2026/05/15/world/americas/doj-terrorism-charges-mexican-officials.html"
+  ],
+  [
+    "country",
+    19,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "faces",
+    19,
+    "https://www.theguardian.com/us-news/2026/may/15/doj-death-penalty-israeli-embassy-shooting"
+  ],
+  [
+    "incumbent",
+    19,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
+  ],
+  [
+    "talks",
+    19,
+    "https://www.foxnews.com/politics/trump-leaves-china-breakthroughs-unfinished-business-xis-biggest-fights"
   ],
   [
     "video",
@@ -156,104 +126,104 @@
     "https://www.theguardian.com/education/2026/may/15/jaiden-picot-graduation-video-quadriplegic-accessibility"
   ],
   [
-    "season",
+    "county",
     18,
-    "https://www.theguardian.com/us-news/2026/may/15/top-attack-lines-california-elections"
+    "https://www.latimes.com/california/story/2026-05-15/three-poisoned-by-mushrooms-foraged-in-california-wine-country"
   ],
   [
-    "director",
+    "attacks",
     17,
-    "https://www.nytimes.com/2026/05/14/us/politics/cia-director-visits-cuba.html"
+    "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
   ],
   [
-    "social",
+    "campaign",
     17,
-    "https://www.theguardian.com/us-news/2026/may/15/teens-get-less-sleep-study"
-  ],
-  [
-    "administration",
-    16,
-    "https://www.nytimes.com/2026/05/15/world/asia/xi-trump-superpower-thucydides-stability.html"
-  ],
-  [
-    "senate",
-    16,
-    "https://www.nytimes.com/2026/05/15/us/politics/platner-maine-senate-working-class.html"
+    "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
   ],
   [
     "republicans",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/15/bennie-thompson-voting-rights-act"
+    17,
+    "https://www.nytimes.com/2026/05/15/us/elections/steve-cohen-retires-tennessee.html"
+  ],
+  [
+    "trip",
+    17,
+    "https://www.nytimes.com/2026/05/15/world/asia/maldives-diving-italians.html"
+  ],
+  [
+    "extended",
+    17,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
     "filter",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+  ],
+  [
+    "candidates",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/15/top-attack-lines-california-elections"
+  ],
+  [
+    "american",
+    16,
+    "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
+  ],
+  [
+    "weekly",
+    16,
+    "https://www.nytimes.com/2026/05/15/business/stocks-bonds-interest-rates-inflation.html"
+  ],
+  [
+    "love",
     16,
     "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
   ],
   [
-    "challengers",
+    "south",
     16,
-    "https://www.theguardian.com/commentisfree/2026/may/14/the-guardian-view-on-a-cabinet-resignation-labours-leadership-crisis-is-really-an-identity-crisis"
+    "https://www.theguardian.com/world/2026/may/15/iran-oman-coordinating-management-strait-of-hormuz-tolls-ships"
+  ],
+  [
+    "social",
+    16,
+    "https://www.theguardian.com/world/2026/may/15/friedrich-merz-germany-children-study-work-us-politics"
   ],
   [
     "art",
     16,
-    "https://www.theguardian.com/world/2026/may/15/the-netherlands-is-confronting-its-history-of-nazi-occupation-but-many-stolen-objects-remain-unreturned"
+    "https://www.theguardian.com/books/2026/may/15/cast-away-by-francesca-de-tores-review-gripping-portrait-of-the-real-life-robinson-crusoe"
   ],
   [
-    "political",
+    "administration",
     15,
-    "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html"
+    "https://www.nytimes.com/2026/05/15/world/asia/xi-trump-superpower-thucydides-stability.html"
   ],
   [
-    "school",
+    "party",
     15,
-    "https://www.nytimes.com/2026/05/14/us/politics/civilian-deaths-strikes-iran.html"
+    "https://www.nytimes.com/2026/05/15/us/house-candidates-democrats-pelosi-nadler.html"
   ],
   [
-    "primary",
+    "already",
     15,
-    "https://www.nytimes.com/2026/05/15/us/politics/kentucky-voters-iran-war.html"
+    "https://www.nytimes.com/2026/05/15/us/dan-bishop-election-fraud-trump.html"
   ],
   [
-    "food",
-    15,
-    "https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html"
-  ],
-  [
-    "states",
-    15,
-    "https://www.nytimes.com/2026/05/14/upshot/abortion-pills-court.html"
-  ],
-  [
-    "chinese",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "sex",
-    15,
-    "https://www.theguardian.com/society/2026/may/15/nymphomaniacs-sex-droughts-what-i-learned-while-studying-womens-pleasure"
-  ],
-  [
-    "media",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/may/15/democrats-dnc-2024-election-autopsy-report"
-  ],
-  [
-    "weekly",
-    15,
-    "https://www.theguardian.com/us-news/video/2026/may/15/can-flailing-trump-hold-on-to-the-senate-in-the-midterms-politics-weekly-america"
-  ],
-  [
-    "young",
-    15,
-    "https://www.theguardian.com/us-news/2026/may/15/ice-us-citizen-violent-arrest-documentary"
-  ],
-  [
-    "trip",
+    "buying",
     15,
     "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+  ],
+  [
+    "review",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/15/bard-college-board-leon-botstein-retirement-jeffrey-epstein"
+  ],
+  [
+    "little",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing"
   ],
   [
     "americans",
@@ -261,29 +231,19 @@
     "https://www.theguardian.com/commentisfree/2026/may/15/trump-moms-gov-website-anti-choice"
   ],
   [
-    "beijing",
-    14,
-    "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html"
+    "governor",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/15/minnesota-house-of-representatives-sit-in-gun-violence"
   ],
   [
-    "summit",
-    14,
-    "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html"
+    "challengers",
+    15,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "change",
+    "leader",
     14,
-    "https://www.nytimes.com/2026/05/15/us/politics/jerome-powell-kevin-warsh-federal-reserve.html"
-  ],
-  [
-    "oil",
-    14,
-    "https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html"
-  ],
-  [
-    "campaign",
-    14,
-    "https://www.nytimes.com/2026/05/15/us/politics/platner-maine-senate-working-class.html"
+    "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
   ],
   [
     "replace",
@@ -291,34 +251,39 @@
     "https://www.nytimes.com/2026/05/15/us/house-candidates-democrats-pelosi-nadler.html"
   ],
   [
-    "mail",
+    "medical",
     14,
-    "https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html"
+    "https://www.nytimes.com/2026/05/15/magazine/rfk-jr-antidepressants-ssris-psychiatry.html"
   ],
   [
-    "united",
+    "outbreak",
     14,
-    "https://www.nytimes.com/2026/05/15/us/deported-despite-daca-dreamers-face-uncertainty-under-trump.html"
+    "https://www.nytimes.com/2026/05/15/world/africa/congo-ebola-outbreak.html"
   ],
   [
-    "leader",
+    "attack",
     14,
-    "https://www.nytimes.com/2026/05/14/world/asia/taiwan-eswatini-china-flight.html"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "team",
+    "beijing",
     14,
-    "https://www.nytimes.com/2026/05/14/world/asia/taiwan-eswatini-china-flight.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "term",
+    "politics",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/us-news/2026/may/15/democrats-pennsylvania-third-district-elections"
   ],
   [
-    "act",
+    "fewer",
     14,
-    "https://www.theguardian.com/us-news/2026/may/15/bennie-thompson-voting-rights-act"
+    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+  ],
+  [
+    "board",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/15/bard-college-board-leon-botstein-retirement-jeffrey-epstein"
   ],
   [
     "hours",
@@ -326,53 +291,88 @@
     "https://www.theguardian.com/us-news/2026/may/15/teens-get-less-sleep-study"
   ],
   [
-    "buying",
+    "gop",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
   ],
   [
-    "deals",
+    "recent",
     13,
-    "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html"
+    "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
   ],
   [
-    "powell",
+    "accused",
     13,
-    "https://www.nytimes.com/2026/05/15/us/politics/jerome-powell-kevin-warsh-federal-reserve.html"
+    "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
   ],
   [
-    "military",
+    "political",
     13,
-    "https://www.nytimes.com/2026/05/15/us/politics/kentucky-voters-iran-war.html"
+    "https://www.nytimes.com/2026/05/15/world/americas/mexican-officials-protect-sinaloa-cartel.html"
   ],
   [
-    "mifepristone",
+    "star",
     13,
-    "https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html"
+    "https://www.nytimes.com/2026/05/15/movies/martin-short-marty-life-is-short.html"
   ],
   [
-    "different",
+    "lot",
     13,
     "https://www.nytimes.com/2026/05/15/us/alex-murdaugh-murders-trial.html"
   ],
   [
-    "medical",
+    "clear",
     13,
-    "https://www.nytimes.com/2026/05/15/magazine/rfk-jr-antidepressants-ssris-psychiatry.html"
+    "https://www.nytimes.com/2026/05/15/us/alex-murdaugh-murders-trial.html"
   ],
   [
-    "america",
+    "huge",
     13,
-    "https://www.nytimes.com/2026/05/15/world/africa/deportation-congo-migrants-trump.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "politics",
+    "term",
     13,
-    "https://www.theguardian.com/us-news/video/2026/may/15/can-flailing-trump-hold-on-to-the-senate-in-the-midterms-politics-weekly-america"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "bill",
+    "ice",
     13,
-    "https://www.theguardian.com/music/2026/may/15/suzette-charles-miss-america-bill-cosby-debut-album"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "war",
+    13,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "released",
+    13,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "voters",
+    13,
+    "https://www.theguardian.com/us-news/2026/may/15/democrats-pennsylvania-third-district-elections"
+  ],
+  [
+    "democrats",
+    13,
+    "https://www.theguardian.com/us-news/2026/may/15/democrats-pennsylvania-third-district-elections"
+  ],
+  [
+    "bike",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+  ],
+  [
+    "summer",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+  ],
+  [
+    "didn",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/may/15/what-do-you-when-you-hate-your-friends-partner"
   ]
 ];
