@@ -2,95 +2,89 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Donald Trump ’S",
-      "count": 14,
-      "url": "https://www.theguardian.com/culture/2026/may/14/stephen-colbert-trump-economy-china-elon-musk",
-      "source": "The Guardian"
-    },
-    {
       "name": "Donald Trump",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/14/south-carolina-republican-trump-speech",
+      "count": 24,
+      "url": "https://www.theguardian.com/us-news/2026/may/14/trump-xi-jinping-strongman-fantasy-china",
       "source": "The Guardian"
     },
     {
-      "name": "Elon Musk",
-      "count": 9,
-      "url": "https://www.theguardian.com/technology/commentisfree/2026/may/14/elon-musk-sam-altman-ai-feud",
-      "source": "The Guardian"
+      "name": "Xi Jinping&Apos;S",
+      "count": 19,
+      "url": "https://www.foxnews.com/politics/trump-says-xi-agreed-us-became-declining-nation-during-biden-years",
+      "source": "Fox News"
     },
     {
-      "name": "Xi Was Resolute",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html",
-      "source": "NY Times"
+      "name": "Donald Trump ’S",
+      "count": 18,
+      "url": "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news",
+      "source": "The Guardian"
     },
     {
       "name": "Xi Jinping",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-us-trade.html",
       "source": "NY Times"
     },
     {
+      "name": "John Ratcliffe",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/05/14/us/politics/cia-director-visits-cuba.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Biden",
+      "count": 8,
+      "url": "https://www.foxnews.com/politics/trump-says-xi-agreed-us-became-declining-nation-during-biden-years",
+      "source": "Fox News"
+    },
+    {
       "name": "Thomas Kean Jr.’S",
-      "count": 6,
+      "count": 7,
       "url": "https://www.nytimes.com/2026/05/14/nyregion/tom-kean-congress-missing.html",
       "source": "NY Times"
     },
     {
-      "name": "Kevin Morby",
-      "count": 6,
-      "url": "https://www.theguardian.com/music/2026/may/14/kevin-morby-little-wide-open-review",
+      "name": "Hormuz",
+      "count": 7,
+      "url": "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news",
       "source": "The Guardian"
     },
     {
-      "name": "Jd Vance",
-      "count": 6,
-      "url": "https://www.nbcnews.com/politics/2026-election/vance-sen-susan-collins-good-fit-maine-frustrations-rcna345159",
-      "source": "NBC News"
-    },
-    {
-      "name": "Clarence Carter",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/05/14/arts/music/clarence-carter-dead.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Marco Rubio",
-      "count": 5,
+      "count": 6,
       "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
       "source": "Wall St. Journal"
+    },
+    {
+      "name": "Elon Musk",
+      "count": 6,
+      "url": "https://www.theguardian.com/technology/commentisfree/2026/may/14/elon-musk-sam-altman-ai-feud",
+      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Trump Immigration",
-      "count": 44,
+      "count": 47,
       "url": "https://www.theguardian.com/us-news/2026/may/14/us-border-patrol-chief-resigns",
       "source": "The Guardian"
     },
     {
+      "name": "Supreme Court Allows Abortion Pill Access By Mail",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Gop",
+      "count": 14,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
+      "source": "LA Times"
+    },
+    {
       "name": "Ai",
-      "count": 17,
-      "url": "https://www.theguardian.com/technology/commentisfree/2026/may/14/elon-musk-sam-altman-ai-feud",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The New York Times",
-      "count": 14,
-      "url": "https://www.theguardian.com/world/2026/may/14/israel-sue-new-york-times-sexual-abuse-palestinian-prisoners",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michigan Senate",
-      "count": 14,
-      "url": "https://www.politico.com/news/2026/05/12/abdul-el-sayed-doctor-physician-00916389",
-      "source": "Politico"
-    },
-    {
-      "name": "Democratic House",
       "count": 13,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/14/south-carolina-republican-trump-speech",
+      "url": "https://www.theguardian.com/technology/commentisfree/2026/may/14/elon-musk-sam-altman-ai-feud",
       "source": "The Guardian"
     },
     {
@@ -100,16 +94,22 @@
       "source": "The Guardian"
     },
     {
-      "name": "Congress",
+      "name": "House Again Blocks War Powers Vote",
       "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/may/14/southern-states-redistricting-electoral-maps-black-voting-power",
+      "url": "https://www.nytimes.com/2026/05/14/us/politics/war-powers-vote-house-trump-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Cia",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/2026/may/14/cia-director-has-met-officials-in-havana-for-talks-cuba-claims",
       "source": "The Guardian"
     },
     {
-      "name": "Gop",
-      "count": 11,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
-      "source": "LA Times"
+      "name": "Congress",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/05/14/us/politics/war-powers-vote-house-trump-iran.html",
+      "source": "NY Times"
     },
     {
       "name": "The California Congressional District",
@@ -118,121 +118,115 @@
       "source": "LA Times"
     },
     {
-      "name": "Guardian News",
+      "name": "The New York Times",
       "count": 9,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "url": "https://www.theguardian.com/us-news/2026/may/14/gautam-adani-billionaire-trump",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 71,
-      "url": "https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips",
+      "count": 85,
+      "url": "https://www.theguardian.com/us-news/2026/may/14/trump-xi-jinping-strongman-fantasy-china",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 43,
+      "count": 48,
       "url": "https://www.theguardian.com/technology/commentisfree/2026/may/14/elon-musk-sam-altman-ai-feud",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 37,
-      "url": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
-      "source": "NY Times"
-    },
-    {
       "name": "China",
-      "count": 37,
-      "url": "https://www.nytimes.com/2026/05/14/us/politics/china-us-sanctions-ai-cybersecurity.html",
+      "count": 40,
+      "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-us-trade.html",
       "source": "NY Times"
     },
     {
       "name": "Iran",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/05/14/us/politics/civilian-deaths-strikes-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-body-language.html",
       "source": "NY Times"
     },
     {
       "name": "L.A. County'S",
-      "count": 19,
+      "count": 22,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
       "source": "LA Times"
     },
     {
       "name": "Taiwan",
-      "count": 12,
+      "count": 14,
       "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-body-language.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
     },
     {
       "name": "Beijing",
-      "count": 10,
+      "count": 14,
       "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-body-language.html",
       "source": "NY Times"
     },
     {
-      "name": "Openai",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html",
-      "source": "NY Times"
+      "name": "South Carolina",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/14/south-carolina-republican-trump-speech",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cuba",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/2026/may/14/cia-director-has-met-officials-in-havana-for-talks-cuba-claims",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The 2026 World Cup",
-      "count": 7,
-      "url": "https://www.theguardian.com/news/datablog/ng-interactive/2026/may/14/world-cup-us-canada-mexico-how-hot-will-it-be-dangerous-for-players-fans-temperature",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The World Cup",
-      "count": 4,
-      "url": "https://www.theguardian.com/news/datablog/ng-interactive/2026/may/14/world-cup-us-canada-mexico-how-hot-will-it-be-dangerous-for-players-fans-temperature",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Beijing Olympics",
-      "count": 2,
-      "url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Iran War End",
-      "count": 2,
+      "count": 5,
       "url": "https://www.theguardian.com/commentisfree/2026/may/14/iran-war-criminal-aggression",
       "source": "The Guardian"
     },
     {
-      "name": "Super Bowl",
+      "name": "The World Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/news/datablog/ng-interactive/2026/may/14/world-cup-us-canada-mexico-how-hot-will-it-be-dangerous-for-players-fans-temperature",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fa Cup",
       "count": 2,
-      "url": "https://www.theguardian.com/football/2026/may/14/shakira-madonna-bts-headline-first-world-cup-final-half-time-show",
+      "url": "https://www.theguardian.com/football/2026/may/15/premier-league-and-fa-cup-final-10-things-to-look-out-for-this-weekend",
       "source": "The Guardian"
     },
     {
-      "name": "The Gulf Arab",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
-      "source": "NY Times"
+      "name": "Olympics",
+      "count": 2,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
+      "source": "LA Times"
     },
     {
-      "name": "Us Pga Championship",
+      "name": "Super Bowl",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/live/2026/may/14/us-pga-championship-day-one-live",
+      "url": "https://www.theguardian.com/sport/2026/may/14/nfl-schedule-release-2026-football",
       "source": "The Guardian"
     },
     {
-      "name": "The Italian Open",
+      "name": "Socceroos World Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/14/jannik-sinner-breaks-djokovic-record-32nd-consecutive-masters-victory",
+      "url": "https://www.theguardian.com/football/2026/may/15/mls-major-league-soccer-australian-players-socceroos",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The 2026 World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/news/datablog/ng-interactive/2026/may/14/world-cup-us-canada-mexico-how-hot-will-it-be-dangerous-for-players-fans-temperature",
       "source": "The Guardian"
     },
     {
@@ -246,7 +240,13 @@
       "count": 1,
       "url": "https://www.latimes.com/opinion/story/2026-05-12/cory-booker-ashamed-gerrymandering",
       "source": "LA Times"
+    },
+    {
+      "name": "X Division Championship",
+      "count": 1,
+      "url": "https://www.foxnews.com/sports/cedric-alexander-becomes-new-tna-x-division-champion-crushing-leon-slaters-history-making-attempt",
+      "source": "Fox News"
     }
   ],
-  "updated": "2026-05-14T20:39:13Z"
+  "updated": "2026-05-15T04:54:39Z"
 };
