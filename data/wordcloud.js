@@ -2,43 +2,43 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    91,
+    90,
     "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
   ],
   [
     "race",
-    67,
-    "https://www.theguardian.com/us-news/2026/may/15/democrats-pennsylvania-third-district-elections"
+    66,
+    "https://www.theguardian.com/sport/2026/may/15/giro-ditalia-jonas-vingegaard-makes-statement-to-conquer-blockhaus-summit"
   ],
   [
     "guide",
-    62,
-    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+    57,
+    "https://www.theguardian.com/culture/2026/may/15/gigs-so-loud-they-made-our-ears-hurt-but-were-worth-the-after-ring"
   ],
   [
     "district",
-    52,
-    "https://www.theguardian.com/us-news/2026/may/15/democrats-pennsylvania-third-district-elections"
+    51,
+    "https://www.theguardian.com/us-news/2026/may/15/tennessee-book-ban-alex-haley-roots"
   ],
   [
     "california",
-    50,
+    49,
     "https://www.theguardian.com/us-news/2026/may/15/us-plan-colorado-river-california-arizona-nevada"
   ],
   [
     "president",
-    45,
+    48,
     "https://www.nytimes.com/2026/05/15/world/americas/cuba-raul-castro-us-indictment.html"
   ],
   [
-    "election",
-    41,
-    "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
+    "court",
+    38,
+    "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
   ],
   [
-    "court",
-    40,
-    "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
+    "election",
+    37,
+    "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
   ],
   [
     "health",
@@ -46,23 +46,8 @@
     "https://www.theguardian.com/environment/2026/may/16/who-should-declare-climate-crisis-global-public-health-emergency-experts-say"
   ],
   [
-    "china",
-    30,
-    "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
-  ],
-  [
     "congressional",
-    29,
-    "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
-  ],
-  [
-    "war",
     28,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "democrats",
-    27,
     "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
   ],
   [
@@ -71,34 +56,39 @@
     "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
   ],
   [
-    "iran",
+    "china",
     26,
-    "https://www.nytimes.com/2026/05/15/briefing/kataib-hezbollah-castro-eurovision.html"
+    "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
   ],
   [
-    "supreme",
-    25,
+    "iran",
+    26,
+    "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
+  ],
+  [
+    "democrats",
+    24,
     "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
   ],
   [
     "map",
-    25,
+    23,
+    "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
+  ],
+  [
+    "war",
+    23,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "supreme",
+    22,
     "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
   ],
   [
     "democratic",
-    25,
+    22,
     "https://www.nytimes.com/2026/05/15/us/texas-supreme-court-abbott-democrats-walkout-redistricting.html"
-  ],
-  [
-    "virginia",
-    22,
-    "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
-  ],
-  [
-    "york",
-    22,
-    "https://www.nytimes.com/2026/05/15/nyregion/nypd-synagogue-terror-plot-nyc.html"
   ],
   [
     "school",
@@ -106,19 +96,14 @@
     "https://www.theguardian.com/us-news/2026/may/15/pentagon-civilian-death-program"
   ],
   [
-    "administration",
+    "faces",
     20,
-    "https://www.nytimes.com/2026/05/15/world/asia/xi-trump-superpower-thucydides-stability.html"
+    "https://www.nytimes.com/2026/05/15/us/politics/trump-iran.html"
   ],
   [
-    "governor",
+    "black",
     20,
-    "https://www.theguardian.com/us-news/2026/may/15/colorado-governor-tina-peters"
-  ],
-  [
-    "video",
-    20,
-    "https://www.theguardian.com/education/2026/may/15/jaiden-picot-graduation-video-quadriplegic-accessibility"
+    "https://www.theguardian.com/us-news/2026/may/15/tennessee-democrat-steve-cohen-ends-re-election-bid"
   ],
   [
     "incumbent",
@@ -126,39 +111,39 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "latest",
+    "virginia",
     19,
-    "https://www.nytimes.com/2026/05/15/briefing/kataib-hezbollah-castro-eurovision.html"
-  ],
-  [
-    "republican",
-    19,
-    "https://www.nytimes.com/2026/05/15/us/texas-supreme-court-abbott-democrats-walkout-redistricting.html"
-  ],
-  [
-    "faces",
-    19,
-    "https://www.nytimes.com/2026/05/15/us/politics/trump-iran.html"
-  ],
-  [
-    "don",
-    19,
-    "https://www.theguardian.com/thefilter-us/2026/may/15/gosun-sport-e-solar-oven-review"
-  ],
-  [
-    "colorado",
-    18,
-    "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
+    "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
   ],
   [
     "children",
-    18,
+    19,
     "https://www.nytimes.com/2026/05/15/us/detransition-transgender-clinic.html"
   ],
   [
     "country",
-    18,
+    19,
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "governor",
+    19,
+    "https://www.theguardian.com/us-news/2026/may/15/colorado-governor-tina-peters"
+  ],
+  [
+    "republican",
+    18,
+    "https://www.nytimes.com/2026/05/15/us/texas-supreme-court-abbott-democrats-walkout-redistricting.html"
+  ],
+  [
+    "york",
+    18,
+    "https://www.nytimes.com/2026/05/15/nyregion/nypd-synagogue-terror-plot-nyc.html"
+  ],
+  [
+    "social",
+    18,
+    "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html"
   ],
   [
     "released",
@@ -166,34 +151,34 @@
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "black",
+    "latest",
     18,
-    "https://www.theguardian.com/us-news/2026/may/15/tennessee-democrat-steve-cohen-ends-re-election-bid"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "russian",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/may/15/russia-war-ukraine-vladimir-putin-economy-casualties"
-  ],
-  [
-    "social",
+    "administration",
     17,
-    "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html"
+    "https://www.nytimes.com/2026/05/15/us/politics/trump-allies-weaponization-fund.html"
   ],
   [
-    "filter",
+    "colorado",
     17,
-    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+    "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
   ],
   [
     "love",
     17,
-    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+    "https://www.theguardian.com/lifeandstyle/2026/may/16/blind-date-frances-eddie"
   ],
   [
-    "candidates",
+    "don",
     17,
-    "https://www.theguardian.com/us-news/2026/may/15/top-attack-lines-california-elections"
+    "https://www.theguardian.com/world/ng-interactive/2026/may/16/down-and-then-out-in-paris-and-london-why-starmer-isnt-the-only-one-with-a-popularity-problem"
+  ],
+  [
+    "final",
+    17,
+    "https://www.theguardian.com/football/2026/may/15/premier-league-and-fa-cup-final-10-things-to-look-out-for-this-weekend"
   ],
   [
     "cuba",
@@ -206,44 +191,49 @@
     "https://www.nytimes.com/2026/05/15/us/texas-supreme-court-abbott-democrats-walkout-redistricting.html"
   ],
   [
-    "trip",
+    "military",
     16,
-    "https://www.nytimes.com/video/us/politics/100000010906537/why-were-these-ceos-in-beijing-with-trump.html"
+    "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
   ],
   [
-    "peters",
+    "media",
     16,
-    "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
+    "https://www.theguardian.com/commentisfree/2026/may/16/the-devil-wears-prada-vogue-glossy-magazine-industry"
   ],
   [
-    "department",
+    "candidates",
     16,
-    "https://www.theguardian.com/us-news/2026/may/15/pentagon-civilian-death-program"
+    "https://www.latimes.com/california/story/2026-05-15/california-governor-debate-takeaways-xavier-becerra-draws-heat"
   ],
   [
-    "sex",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/15/trump-texas-detransition-clinic"
-  ],
-  [
-    "attacks",
+    "recent",
     15,
-    "https://www.nytimes.com/2026/05/15/briefing/kataib-hezbollah-castro-eurovision.html"
+    "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
   ],
   [
-    "politics",
+    "leading",
     15,
-    "https://www.nytimes.com/2026/05/16/world/europe/britain-politics-labour-whats-next.html"
+    "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
   ],
   [
-    "fewer",
+    "leader",
     15,
-    "https://www.theguardian.com/technology/2026/may/15/ai-manager-purge-tech"
+    "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
   ],
   [
-    "buying",
+    "political",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+    "https://www.nytimes.com/2026/05/15/us/politics/trump-allies-weaponization-fund.html"
+  ],
+  [
+    "donald",
+    15,
+    "https://www.theguardian.com/world/2026/may/16/trumps-lack-of-focus-on-human-rights-in-china-is-big-departure-for-us-diplomacy"
+  ],
+  [
+    "killed",
+    15,
+    "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says"
   ],
   [
     "republicans",
@@ -251,14 +241,14 @@
     "https://www.theguardian.com/us-news/2026/may/15/tennessee-democrat-steve-cohen-ends-re-election-bid"
   ],
   [
-    "final",
+    "video",
     15,
-    "https://www.theguardian.com/football/2026/may/15/premier-league-and-fa-cup-final-10-things-to-look-out-for-this-weekend"
+    "https://www.theguardian.com/commentisfree/2026/may/15/the-guardian-view-on-trump-in-beijing-the-us-and-china-are-playing-the-waiting-game"
   ],
   [
-    "art",
+    "russian",
     15,
-    "https://www.theguardian.com/books/2026/may/15/cast-away-by-francesca-de-tores-review-gripping-portrait-of-the-real-life-robinson-crusoe"
+    "https://www.theguardian.com/world/2026/may/16/ukraine-war-briefing-zelenskyy-vows-retribution-over-deadly-russian-bombardments"
   ],
   [
     "challengers",
@@ -266,34 +256,34 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "already",
+    "trip",
     14,
-    "https://www.nytimes.com/2026/05/15/world/americas/cuba-energy-crisis-photos.html"
+    "https://www.nytimes.com/video/us/politics/100000010906537/why-were-these-ceos-in-beijing-with-trump.html"
   ],
   [
-    "recent",
+    "style",
     14,
-    "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
+    "https://www.nytimes.com/2026/05/15/business/trump-xi-meeting-china-social-media.html"
   ],
   [
-    "leading",
-    14,
-    "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
-  ],
-  [
-    "political",
-    14,
-    "https://www.nytimes.com/2026/05/15/us/politics/trump-allies-weaponization-fund.html"
-  ],
-  [
-    "tina",
+    "peters",
     14,
     "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
   ],
   [
-    "sentence",
+    "israeli",
     14,
-    "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
+    "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
+  ],
+  [
+    "gaza",
+    14,
+    "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
+  ],
+  [
+    "term",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "ice",
@@ -306,24 +296,24 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "review",
+    "department",
     14,
-    "https://www.theguardian.com/music/2026/may/15/drake-iceman-maid-of-honour-habibti-review-triple-album-comeback-is-a-boring-bloated-disaster"
+    "https://www.theguardian.com/us-news/2026/may/15/pentagon-civilian-death-program"
   ],
   [
-    "little",
+    "sex",
     14,
-    "https://www.theguardian.com/music/2026/may/15/drake-iceman-maid-of-honour-habibti-review-triple-album-comeback-is-a-boring-bloated-disaster"
+    "https://www.theguardian.com/us-news/2026/may/15/trump-texas-detransition-clinic"
   ],
   [
-    "media",
+    "outbreak",
     14,
-    "https://www.theguardian.com/us-news/video/2026/may/15/how-ice-turned-its-violent-arrest-of-a-us-citizen-into-content-stateside-with-kai-and-carter"
+    "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths"
   ],
   [
-    "didn",
+    "art",
     14,
-    "https://www.theguardian.com/technology/2026/may/15/ai-manager-purge-tech"
+    "https://www.theguardian.com/books/2026/may/15/cast-away-by-francesca-de-tores-review-gripping-portrait-of-the-real-life-robinson-crusoe"
   ],
   [
     "replace",
@@ -331,14 +321,9 @@
     "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
   ],
   [
-    "weekly",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
-  ],
-  [
-    "outbreak",
-    14,
-    "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths"
+    "island",
+    13,
+    "https://www.nytimes.com/2026/05/15/world/americas/cuba-energy-crisis-photos.html"
   ],
   [
     "redistricting",
@@ -356,23 +341,38 @@
     "https://www.nytimes.com/video/us/politics/100000010906537/why-were-these-ceos-in-beijing-with-trump.html"
   ],
   [
-    "gov",
+    "strike",
+    13,
+    "https://www.nytimes.com/2026/05/16/nyregion/lirr-strike.html"
+  ],
+  [
+    "attacks",
+    13,
+    "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
+  ],
+  [
+    "politics",
+    13,
+    "https://www.nytimes.com/2026/05/16/world/europe/britain-politics-labour-whats-next.html"
+  ],
+  [
+    "tina",
     13,
     "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
   ],
   [
-    "military",
+    "hospital",
     13,
-    "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
+    "https://www.nytimes.com/2026/05/15/us/detransition-transgender-clinic.html"
   ],
   [
-    "tech",
+    "didn",
     13,
-    "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html"
+    "https://www.theguardian.com/commentisfree/2026/may/16/the-devil-wears-prada-vogue-glossy-magazine-industry"
   ],
   [
-    "term",
+    "review",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/music/2026/may/15/drake-iceman-maid-of-honour-habibti-review-triple-album-comeback-is-a-boring-bloated-disaster"
   ]
 ];
