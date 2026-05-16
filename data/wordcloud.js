@@ -2,161 +2,191 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    89,
+    91,
     "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
   ],
   [
     "race",
-    69,
+    67,
     "https://www.theguardian.com/us-news/2026/may/15/democrats-pennsylvania-third-district-elections"
   ],
   [
     "guide",
-    63,
+    62,
     "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
   ],
   [
-    "president",
-    53,
-    "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
-  ],
-  [
     "district",
-    51,
-    "https://www.nytimes.com/2026/05/15/us/elections/steve-cohen-retires-tennessee.html"
+    52,
+    "https://www.theguardian.com/us-news/2026/may/15/democrats-pennsylvania-third-district-elections"
   ],
   [
     "california",
     50,
-    "https://www.theguardian.com/us-news/2026/may/15/nyc-american-deed-theft-crisis"
+    "https://www.theguardian.com/us-news/2026/may/15/us-plan-colorado-river-california-arizona-nevada"
   ],
   [
-    "china",
-    39,
-    "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
-  ],
-  [
-    "democratic",
-    28,
-    "https://www.nytimes.com/2026/05/15/us/house-candidates-democrats-pelosi-nadler.html"
-  ],
-  [
-    "health",
-    27,
-    "https://www.nytimes.com/2026/05/15/magazine/rfk-jr-antidepressants-ssris-psychiatry.html"
-  ],
-  [
-    "court",
-    25,
-    "https://www.nytimes.com/2026/05/15/climate/michigan-coal-plant-trump.html"
+    "president",
+    45,
+    "https://www.nytimes.com/2026/05/15/world/americas/cuba-raul-castro-us-indictment.html"
   ],
   [
     "election",
-    24,
-    "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news"
+    41,
+    "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
   ],
   [
-    "don",
-    23,
-    "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news"
+    "court",
+    40,
+    "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
+  ],
+  [
+    "health",
+    33,
+    "https://www.theguardian.com/environment/2026/may/16/who-should-declare-climate-crisis-global-public-health-emergency-experts-say"
+  ],
+  [
+    "china",
+    30,
+    "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
   ],
   [
     "congressional",
-    22,
-    "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news"
+    29,
+    "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
   ],
   [
-    "interview",
-    22,
-    "https://www.theguardian.com/sport/2026/may/15/deion-sanders-shedeur-sanders-hell-browns"
+    "war",
+    28,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "sex",
-    22,
-    "https://www.theguardian.com/world/2026/may/15/harvey-weinsteins-new-york-mistrial"
+    "democrats",
+    27,
+    "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
   ],
   [
-    "black",
-    22,
-    "https://www.theguardian.com/environment/2026/may/14/what-the-fate-of-timmy-the-whale-says-about-conservation"
+    "county",
+    27,
+    "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
   ],
   [
     "iran",
-    20,
-    "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
+    26,
+    "https://www.nytimes.com/2026/05/15/briefing/kataib-hezbollah-castro-eurovision.html"
+  ],
+  [
+    "supreme",
+    25,
+    "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
+  ],
+  [
+    "map",
+    25,
+    "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
+  ],
+  [
+    "democratic",
+    25,
+    "https://www.nytimes.com/2026/05/15/us/texas-supreme-court-abbott-democrats-walkout-redistricting.html"
+  ],
+  [
+    "virginia",
+    22,
+    "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
   ],
   [
     "york",
+    22,
+    "https://www.nytimes.com/2026/05/15/nyregion/nypd-synagogue-terror-plot-nyc.html"
+  ],
+  [
+    "school",
+    22,
+    "https://www.theguardian.com/us-news/2026/may/15/pentagon-civilian-death-program"
+  ],
+  [
+    "administration",
     20,
-    "https://www.theguardian.com/us-news/2026/may/15/nyc-american-deed-theft-crisis"
+    "https://www.nytimes.com/2026/05/15/world/asia/xi-trump-superpower-thucydides-stability.html"
+  ],
+  [
+    "governor",
+    20,
+    "https://www.theguardian.com/us-news/2026/may/15/colorado-governor-tina-peters"
+  ],
+  [
+    "video",
+    20,
+    "https://www.theguardian.com/education/2026/may/15/jaiden-picot-graduation-video-quadriplegic-accessibility"
+  ],
+  [
+    "incumbent",
+    20,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
+  ],
+  [
+    "latest",
+    19,
+    "https://www.nytimes.com/2026/05/15/briefing/kataib-hezbollah-castro-eurovision.html"
   ],
   [
     "republican",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/may/15/trump-moms-gov-website-anti-choice"
-  ],
-  [
-    "department",
     19,
-    "https://www.nytimes.com/2026/05/15/world/americas/doj-terrorism-charges-mexican-officials.html"
-  ],
-  [
-    "country",
-    19,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/05/15/us/texas-supreme-court-abbott-democrats-walkout-redistricting.html"
   ],
   [
     "faces",
     19,
-    "https://www.theguardian.com/us-news/2026/may/15/doj-death-penalty-israeli-embassy-shooting"
+    "https://www.nytimes.com/2026/05/15/us/politics/trump-iran.html"
   ],
   [
-    "incumbent",
+    "don",
     19,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
+    "https://www.theguardian.com/thefilter-us/2026/may/15/gosun-sport-e-solar-oven-review"
   ],
   [
-    "talks",
-    19,
-    "https://www.foxnews.com/politics/trump-leaves-china-breakthroughs-unfinished-business-xis-biggest-fights"
-  ],
-  [
-    "video",
+    "colorado",
     18,
-    "https://www.theguardian.com/education/2026/may/15/jaiden-picot-graduation-video-quadriplegic-accessibility"
+    "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
   ],
   [
-    "county",
+    "children",
     18,
-    "https://www.latimes.com/california/story/2026-05-15/three-poisoned-by-mushrooms-foraged-in-california-wine-country"
+    "https://www.nytimes.com/2026/05/15/us/detransition-transgender-clinic.html"
   ],
   [
-    "attacks",
-    17,
-    "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
+    "country",
+    18,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "campaign",
-    17,
-    "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
+    "released",
+    18,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "republicans",
-    17,
-    "https://www.nytimes.com/2026/05/15/us/elections/steve-cohen-retires-tennessee.html"
+    "black",
+    18,
+    "https://www.theguardian.com/us-news/2026/may/15/tennessee-democrat-steve-cohen-ends-re-election-bid"
   ],
   [
-    "trip",
-    17,
-    "https://www.nytimes.com/2026/05/15/world/asia/maldives-diving-italians.html"
+    "russian",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/may/15/russia-war-ukraine-vladimir-putin-economy-casualties"
   ],
   [
-    "extended",
+    "social",
     17,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html"
   ],
   [
     "filter",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+  ],
+  [
+    "love",
     17,
     "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
   ],
@@ -166,49 +196,49 @@
     "https://www.theguardian.com/us-news/2026/may/15/top-attack-lines-california-elections"
   ],
   [
-    "american",
+    "cuba",
     16,
-    "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
+    "https://www.nytimes.com/2026/05/15/us/politics/trump-cuba-pressue-castro.html"
   ],
   [
-    "weekly",
+    "texas",
     16,
-    "https://www.nytimes.com/2026/05/15/business/stocks-bonds-interest-rates-inflation.html"
+    "https://www.nytimes.com/2026/05/15/us/texas-supreme-court-abbott-democrats-walkout-redistricting.html"
   ],
   [
-    "love",
+    "trip",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+    "https://www.nytimes.com/video/us/politics/100000010906537/why-were-these-ceos-in-beijing-with-trump.html"
   ],
   [
-    "south",
+    "peters",
     16,
-    "https://www.theguardian.com/world/2026/may/15/iran-oman-coordinating-management-strait-of-hormuz-tolls-ships"
+    "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
   ],
   [
-    "social",
+    "department",
     16,
-    "https://www.theguardian.com/world/2026/may/15/friedrich-merz-germany-children-study-work-us-politics"
+    "https://www.theguardian.com/us-news/2026/may/15/pentagon-civilian-death-program"
   ],
   [
-    "art",
+    "sex",
     16,
-    "https://www.theguardian.com/books/2026/may/15/cast-away-by-francesca-de-tores-review-gripping-portrait-of-the-real-life-robinson-crusoe"
+    "https://www.theguardian.com/us-news/2026/may/15/trump-texas-detransition-clinic"
   ],
   [
-    "administration",
+    "attacks",
     15,
-    "https://www.nytimes.com/2026/05/15/world/asia/xi-trump-superpower-thucydides-stability.html"
+    "https://www.nytimes.com/2026/05/15/briefing/kataib-hezbollah-castro-eurovision.html"
   ],
   [
-    "party",
+    "politics",
     15,
-    "https://www.nytimes.com/2026/05/15/us/house-candidates-democrats-pelosi-nadler.html"
+    "https://www.nytimes.com/2026/05/16/world/europe/britain-politics-labour-whats-next.html"
   ],
   [
-    "already",
+    "fewer",
     15,
-    "https://www.nytimes.com/2026/05/15/us/dan-bishop-election-fraud-trump.html"
+    "https://www.theguardian.com/technology/2026/may/15/ai-manager-purge-tech"
   ],
   [
     "buying",
@@ -216,24 +246,19 @@
     "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
   ],
   [
-    "review",
+    "republicans",
     15,
-    "https://www.theguardian.com/us-news/2026/may/15/bard-college-board-leon-botstein-retirement-jeffrey-epstein"
+    "https://www.theguardian.com/us-news/2026/may/15/tennessee-democrat-steve-cohen-ends-re-election-bid"
   ],
   [
-    "little",
+    "final",
     15,
-    "https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing"
+    "https://www.theguardian.com/football/2026/may/15/premier-league-and-fa-cup-final-10-things-to-look-out-for-this-weekend"
   ],
   [
-    "americans",
+    "art",
     15,
-    "https://www.theguardian.com/commentisfree/2026/may/15/trump-moms-gov-website-anti-choice"
-  ],
-  [
-    "governor",
-    15,
-    "https://www.theguardian.com/us-news/2026/may/15/minnesota-house-of-representatives-sit-in-gun-violence"
+    "https://www.theguardian.com/books/2026/may/15/cast-away-by-francesca-de-tores-review-gripping-portrait-of-the-real-life-robinson-crusoe"
   ],
   [
     "challengers",
@@ -241,138 +266,113 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "leader",
+    "already",
     14,
-    "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
-  ],
-  [
-    "replace",
-    14,
-    "https://www.nytimes.com/2026/05/15/us/house-candidates-democrats-pelosi-nadler.html"
-  ],
-  [
-    "medical",
-    14,
-    "https://www.nytimes.com/2026/05/15/magazine/rfk-jr-antidepressants-ssris-psychiatry.html"
-  ],
-  [
-    "outbreak",
-    14,
-    "https://www.nytimes.com/2026/05/15/world/africa/congo-ebola-outbreak.html"
-  ],
-  [
-    "attack",
-    14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "beijing",
-    14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "politics",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/15/democrats-pennsylvania-third-district-elections"
-  ],
-  [
-    "fewer",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
-  ],
-  [
-    "board",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/15/bard-college-board-leon-botstein-retirement-jeffrey-epstein"
-  ],
-  [
-    "hours",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/15/teens-get-less-sleep-study"
-  ],
-  [
-    "gop",
-    14,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
+    "https://www.nytimes.com/2026/05/15/world/americas/cuba-energy-crisis-photos.html"
   ],
   [
     "recent",
-    13,
+    14,
     "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
   ],
   [
-    "accused",
-    13,
+    "leading",
+    14,
     "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
   ],
   [
     "political",
-    13,
-    "https://www.nytimes.com/2026/05/15/world/americas/mexican-officials-protect-sinaloa-cartel.html"
+    14,
+    "https://www.nytimes.com/2026/05/15/us/politics/trump-allies-weaponization-fund.html"
   ],
   [
-    "star",
-    13,
-    "https://www.nytimes.com/2026/05/15/movies/martin-short-marty-life-is-short.html"
+    "tina",
+    14,
+    "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
   ],
   [
-    "lot",
-    13,
-    "https://www.nytimes.com/2026/05/15/us/alex-murdaugh-murders-trial.html"
+    "sentence",
+    14,
+    "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
   ],
   [
-    "clear",
-    13,
-    "https://www.nytimes.com/2026/05/15/us/alex-murdaugh-murders-trial.html"
+    "ice",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "huge",
+    "secretary",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "review",
+    14,
+    "https://www.theguardian.com/music/2026/may/15/drake-iceman-maid-of-honour-habibti-review-triple-album-comeback-is-a-boring-bloated-disaster"
+  ],
+  [
+    "little",
+    14,
+    "https://www.theguardian.com/music/2026/may/15/drake-iceman-maid-of-honour-habibti-review-triple-album-comeback-is-a-boring-bloated-disaster"
+  ],
+  [
+    "media",
+    14,
+    "https://www.theguardian.com/us-news/video/2026/may/15/how-ice-turned-its-violent-arrest-of-a-us-citizen-into-content-stateside-with-kai-and-carter"
+  ],
+  [
+    "didn",
+    14,
+    "https://www.theguardian.com/technology/2026/may/15/ai-manager-purge-tech"
+  ],
+  [
+    "replace",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+  ],
+  [
+    "weekly",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+  ],
+  [
+    "outbreak",
+    14,
+    "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths"
+  ],
+  [
+    "redistricting",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/05/15/us/texas-supreme-court-abbott-democrats-walkout-redistricting.html"
+  ],
+  [
+    "american",
+    13,
+    "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
+  ],
+  [
+    "beijing",
+    13,
+    "https://www.nytimes.com/video/us/politics/100000010906537/why-were-these-ceos-in-beijing-with-trump.html"
+  ],
+  [
+    "gov",
+    13,
+    "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
+  ],
+  [
+    "military",
+    13,
+    "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
+  ],
+  [
+    "tech",
+    13,
+    "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html"
   ],
   [
     "term",
     13,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "ice",
-    13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "war",
-    13,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "released",
-    13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "voters",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/15/democrats-pennsylvania-third-district-elections"
-  ],
-  [
-    "democrats",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/15/democrats-pennsylvania-third-district-elections"
-  ],
-  [
-    "bike",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
-  ],
-  [
-    "summer",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
-  ],
-  [
-    "didn",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/may/15/what-do-you-when-you-hate-your-friends-partner"
   ]
 ];
