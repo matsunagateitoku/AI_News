@@ -2,45 +2,39 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Vanquishes G.O.P. Foe",
-      "count": 57,
-      "url": "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html",
+      "name": "Trump Administration Pushes Narrative",
+      "count": 53,
+      "url": "https://www.nytimes.com/2026/05/17/us/trump-prayer-rally-national-mall.html",
       "source": "NY Times"
     },
     {
       "name": "Gop Senate",
-      "count": 22,
+      "count": 19,
       "url": "https://www.cbsnews.com/news/letlow-fleming-advance-to-runoff-louisiana-gop-senate-primary-cbs-news-projects/",
       "source": "CBS News"
     },
     {
-      "name": "Louisiana Senate",
-      "count": 13,
-      "url": "https://www.politico.com/news/2026/05/16/cassidy-louisiana-senate-race-trump-00924872",
-      "source": "Politico"
-    },
-    {
-      "name": "Cassidy Loss Shows Cost Of",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/05/17/us/politics/trump-flexes-hold-on-gop-even-as-it-braces-for-midterm-backlash.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Congress",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/05/17/us/politics/lamar-alexander-republicans-trump.html",
-      "source": "NY Times"
-    },
-    {
       "name": "The White House",
-      "count": 10,
+      "count": 11,
       "url": "https://www.theguardian.com/us-news/2026/may/17/trump-news-at-a-glance-irs-billions-taxpayer-dollars-could-paid-president-and-allies",
       "source": "The Guardian"
     },
     {
+      "name": "Cbs News",
+      "count": 11,
+      "url": "https://www.theguardian.com/media/2026/may/16/cbs-bari-weiss-60-minutes",
+      "source": "The Guardian"
+    },
+    {
       "name": "The Filter Us",
-      "count": 10,
+      "count": 11,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian News",
+      "count": 10,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
@@ -56,140 +50,28 @@
       "source": "LA Times"
     },
     {
+      "name": "Congress",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/05/17/us/politics/lamar-alexander-republicans-trump.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Ai",
       "count": 8,
       "url": "https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/",
       "source": "Washington Post"
     }
   ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 41,
-      "url": "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Bill Cassidy",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Xi Jinping",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/17/america-china-energy-oil-renewables",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Thomas Massie",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/may/16/kentucky-republican-primary-election-massie-gallrein",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Suzette Charles",
-      "count": 7,
-      "url": "https://www.theguardian.com/music/2026/may/15/suzette-charles-miss-america-bill-cosby-debut-album",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Margaret Brennan",
-      "count": 6,
-      "url": "https://www.cbsnews.com/news/robert-gates-former-defense-secretary-face-the-nation-transcript-05-17-2026/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Jon Favreau",
-      "count": 6,
-      "url": "https://www.cbsnews.com/news/star-wars-the-mandalorian-and-grogu-director-jon-favreau/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Lauren Boebert",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/may/16/lauren-boebert-trump-funds-colorado-drink-water-funds-tina-peters",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ronda Rousey",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/may/17/ronda-rousey-beats-gina-carano-in-17-seconds-in-mma-return-i-didnt-really-want-to-hurt-her",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Conor Mcgregor",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/may/17/conor-mcgregor-to-make-ufc-comeback-with-max-holloway-rematch-in-july",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 51,
-      "url": "https://www.theguardian.com/us-news/2026/may/17/pandemic-preparedness-after-covid",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 45,
-      "url": "https://www.theguardian.com/us-news/2026/may/16/california-turtle-trafficking",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 26,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Iran",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Louisiana",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/05/16/business/dealbook/debt-100-percent-gdp.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "China",
-      "count": 13,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Israel",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/may/17/bulgaria-wins-70th-eurovision-contest-dara-bangaranga",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Philadelphia",
-      "count": 10,
-      "url": "https://www.theguardian.com/sport/2026/may/17/alex-smalley-two-shot-lead-us-pga-championship-third-round-golf",
-      "source": "The Guardian"
-    }
-  ],
   "EVENT": [
     {
+      "name": "The Iran War Is Crippling One",
+      "count": 4,
+      "url": "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html",
+      "source": "NY Times"
+    },
+    {
       "name": "The 2022 World Cup",
-      "count": 5,
+      "count": 4,
       "url": "https://www.theguardian.com/football/2026/may/17/world-cup-climate-change",
       "source": "The Guardian"
     },
@@ -206,34 +88,22 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War Is Crippling One",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Fa Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/may/17/xabi-alonso-coup-shows-chelsea-and-blueco-now-see-the-value-of-aura",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Us Pga Championship",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/17/alex-smalley-two-shot-lead-us-pga-championship-third-round-golf",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Panini World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/may/17/got-panini-1970-world-cup-sticker-book-completed-after-56-years",
-      "source": "The Guardian"
-    },
-    {
       "name": "The World Cup",
-      "count": 1,
+      "count": 2,
       "url": "https://www.latimes.com/world-nation/story/2026-05-17/nearly-1-900-vanished-in-around-guadalajara-now-world-cup-arrives",
       "source": "LA Times"
+    },
+    {
+      "name": "Us Pga Championship 2026",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/live/2026/may/17/us-pga-championship-2026-day-four-golf-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Italian Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/17/jannik-sinner-overpowers-casper-ruud-to-make-history-with-italian-open-title",
+      "source": "The Guardian"
     },
     {
       "name": "Long Beach Pride Festival",
@@ -246,7 +116,137 @@
       "count": 1,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "The Dust Bowl",
+      "count": 1,
+      "url": "https://www.latimes.com/travel/story/2026-05-12/5-moments-in-history-that-still-echo-along-route-66",
+      "source": "LA Times"
     }
   ],
-  "updated": "2026-05-17T14:27:12Z"
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 40,
+      "url": "https://www.theguardian.com/us-news/2026/may/17/trump-thomas-massie-primary",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Margaret Brennan",
+      "count": 17,
+      "url": "https://www.cbsnews.com/video/cbs-news-poll-finds-many-voice-frustration-with-trumps-economic-approach/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Bill Cassidy",
+      "count": 12,
+      "url": "https://www.npr.org/2026/05/16/nx-s1-5824533/bill-cassidy-lost-louisiana-primary-letlow-trump",
+      "source": "NPR"
+    },
+    {
+      "name": "Ronda Rousey",
+      "count": 8,
+      "url": "https://www.theguardian.com/sport/2026/may/17/ronda-rousey-v-gina-carano-mma-fight",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Alexander Yui",
+      "count": 8,
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-05-17-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Gina Carano",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/may/17/ronda-rousey-v-gina-carano-mma-fight",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jamieson Greer",
+      "count": 7,
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-05-17-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "James Comey",
+      "count": 6,
+      "url": "https://www.nbcnews.com/meet-the-press/video/james-comey-urges-todd-blanche-to-bone-up-on-legal-rules-amid-indictment-full-interview-263478853669",
+      "source": "NBC News"
+    },
+    {
+      "name": "Lindsey Graham",
+      "count": 6,
+      "url": "https://www.nbcnews.com/politics/politics-news/lindsey-graham-status-quo-strait-hormuz-iran-attacks-oil-gas-prices-rcna345542",
+      "source": "NBC News"
+    },
+    {
+      "name": "Julia Letlow",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/05/17/us/politics/letlow-fleming-cassidy-louisiana-senate.html",
+      "source": "NY Times"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 56,
+      "url": "https://www.theguardian.com/thefilter-us/2026/may/17/best-back-pain-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 51,
+      "url": "https://www.theguardian.com/us-news/2026/may/17/tom-steyer-billionaire-candidate-democrats",
+      "source": "The Guardian"
+    },
+    {
+      "name": "China",
+      "count": 27,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "U.S.",
+      "count": 26,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Taiwan",
+      "count": 26,
+      "url": "https://www.theguardian.com/us-news/2026/may/16/donald-trump-xi-jinping-summit-china",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 26,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Iran",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 13,
+      "url": "https://www.theguardian.com/world/2026/may/17/swatch-royal-pop-launch-chaos-closures",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Louisiana",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/05/17/us/politics/letlow-fleming-cassidy-louisiana-senate.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York Magazine",
+      "count": 12,
+      "url": "https://www.npr.org/2026/05/17/nx-s1-5824503/new-york-magazine-review-ross-barkan",
+      "source": "NPR"
+    }
+  ],
+  "updated": "2026-05-17T20:06:26Z"
 };
