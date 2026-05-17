@@ -2,203 +2,228 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    102,
-    "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html"
+    122,
+    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
   ],
   [
     "race",
-    68,
-    "https://www.nytimes.com/2026/05/16/us/new-mexico-land-commissioner-race.html"
-  ],
-  [
-    "guide",
-    60,
-    "https://www.theguardian.com/film/2026/may/16/la-gradiva-review-stunning-coming-of-age-story-of-young-love-and-sexual-tension"
+    76,
+    "https://www.theguardian.com/football/2026/may/16/hearts-contact-police-and-condemn-shameful-abuse-of-players-celtic-defeat"
   ],
   [
     "president",
-    57,
-    "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html"
+    59,
+    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
+  ],
+  [
+    "guide",
+    59,
+    "https://www.theguardian.com/thefilter-us/2026/may/16/solgaard-closet-suitcase-review"
   ],
   [
     "california",
-    46,
-    "https://www.theguardian.com/us-news/2026/may/15/us-plan-colorado-river-california-arizona-nevada"
+    48,
+    "https://www.theguardian.com/us-news/2026/may/16/california-turtle-trafficking"
+  ],
+  [
+    "cassidy",
+    45,
+    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
   ],
   [
     "district",
-    41,
-    "https://www.theguardian.com/world/2026/may/16/palestinians-demolish-family-homes-jerusalem-kings-garden-theme-park"
-  ],
-  [
-    "election",
-    33,
-    "https://www.nytimes.com/2026/05/16/us/voters-louisiana-primary-gerrymander.html"
-  ],
-  [
-    "china",
-    32,
-    "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html"
+    42,
+    "https://www.theguardian.com/us-news/2026/may/16/kansas-judge-blocks-law-banning-gender-transition-treatments-for-minors"
   ],
   [
     "republican",
-    28,
-    "https://www.nytimes.com/2026/05/16/us/new-mexico-land-commissioner-race.html"
+    40,
+    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
+  ],
+  [
+    "bill",
+    36,
+    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
+  ],
+  [
+    "primary",
+    34,
+    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
+  ],
+  [
+    "election",
+    30,
+    "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump"
   ],
   [
     "health",
-    26,
-    "https://www.theguardian.com/world/2026/may/16/israeli-strikes-southern-lebanon-hours-after-extension-of-ceasefire"
+    29,
+    "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump"
   ],
   [
-    "court",
-    23,
-    "https://www.nytimes.com/2026/05/16/us/at-supreme-court-virginia-democrats-pressed-legal-theory-embraced-by-trump.html"
+    "louisiana",
+    28,
+    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
   ],
   [
-    "faces",
-    23,
-    "https://www.theguardian.com/tv-and-radio/live/2026/may/16/eurovision-song-contest-2026-live"
+    "senate",
+    27,
+    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
   ],
   [
     "incumbent",
-    23,
-    "https://www.theguardian.com/us-news/2026/may/16/spencer-pratt-los-angeles-mayor"
+    26,
+    "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump"
+  ],
+  [
+    "donald",
+    25,
+    "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump"
+  ],
+  [
+    "gop",
+    24,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
+  ],
+  [
+    "sen",
+    24,
+    "https://www.npr.org/2026/05/16/nx-s1-5824533/bill-cassidy-lost-louisiana-primary-letlow-trump"
   ],
   [
     "film",
     23,
-    "https://www.theguardian.com/film/2026/may/16/making-of-top-gun-40th-anniversary"
+    "https://www.theguardian.com/film/2026/may/16/the-beloved-review-javier-bardem-turns-in-a-career-scariest-performance"
   ],
   [
-    "texas",
+    "china",
+    22,
+    "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html"
+  ],
+  [
+    "because",
+    22,
+    "https://www.theguardian.com/commentisfree/2026/may/17/why-brooklyn-beckham-is-bear-with-me-a-brilliant-role-model"
+  ],
+  [
+    "term",
     21,
-    "https://www.theguardian.com/us-news/2026/may/16/us-mexico-border-extreme-heat"
-  ],
-  [
-    "congressional",
-    20,
-    "https://www.nytimes.com/2026/05/16/us/voters-louisiana-primary-gerrymander.html"
+    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
   ],
   [
     "car",
-    20,
+    21,
     "https://www.nytimes.com/2026/05/16/world/europe/car-crash-modena-italy.html"
   ],
   [
-    "county",
+    "faces",
+    21,
+    "https://www.theguardian.com/us-news/2026/may/16/kash-patel-snorkeling-uss-arizona-memorial-hawaii"
+  ],
+  [
+    "iran",
     20,
-    "https://www.theguardian.com/us-news/2026/may/16/us-mexico-border-extreme-heat"
+    "https://www.nytimes.com/2026/05/16/world/middleeast/iran-proxy-groups-us.html"
+  ],
+  [
+    "york",
+    20,
+    "https://www.theguardian.com/music/2026/may/17/harry-styles-together-together-tour-genuinely-charismatic-performer-amsterdam-live-concert-review"
+  ],
+  [
+    "don",
+    20,
+    "https://www.theguardian.com/world/ng-interactive/2026/may/16/down-and-then-out-in-paris-and-london-why-starmer-isnt-the-only-one-with-a-popularity-problem"
   ],
   [
     "love",
     20,
-    "https://www.theguardian.com/film/2026/may/16/making-of-top-gun-40th-anniversary"
+    "https://www.theguardian.com/world/2026/may/16/peacock-italy-punta-marina-tensions"
   ],
   [
-    "game",
-    20,
-    "https://www.theguardian.com/sport/2026/may/16/minnesota-timberwolves-nba-playoffs-san-antonio-spurs"
-  ],
-  [
-    "don",
+    "night",
     19,
-    "https://www.theguardian.com/world/ng-interactive/2026/may/16/down-and-then-out-in-paris-and-london-why-starmer-isnt-the-only-one-with-a-popularity-problem"
+    "https://www.nytimes.com/2026/05/16/us/politics/white-house-ballroom-senate.html"
   ],
   [
-    "primary",
-    18,
-    "https://www.nytimes.com/2026/05/16/us/voters-louisiana-primary-gerrymander.html"
+    "black",
+    19,
+    "https://www.theguardian.com/us-news/2026/may/16/alabama-black-voting-rights-protest"
   ],
   [
-    "killed",
-    18,
-    "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
+    "county",
+    19,
+    "https://www.theguardian.com/us-news/2026/may/16/lauren-boebert-trump-funds-colorado-drink-water-funds-tina-peters"
   ],
   [
-    "chinese",
+    "challengers",
     18,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump"
+  ],
+  [
+    "dead",
+    18,
+    "https://www.theguardian.com/world/2026/may/16/israeli-strikes-southern-lebanon-hours-after-extension-of-ceasefire"
   ],
   [
     "political",
     18,
-    "https://www.theguardian.com/us-news/2026/may/16/spencer-pratt-los-angeles-mayor"
+    "https://www.theguardian.com/us-news/2026/may/16/kentucky-republican-primary-election-massie-gallrein"
   ],
   [
-    "donald",
-    18,
-    "https://www.theguardian.com/us-news/2026/may/16/donald-trump-xi-jinping-summit-china"
-  ],
-  [
-    "because",
-    18,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/16/mushrooms-black-foragers"
-  ],
-  [
-    "democrats",
+    "island",
     17,
-    "https://www.nytimes.com/2026/05/16/us/new-mexico-land-commissioner-race.html"
+    "https://www.nytimes.com/2026/05/16/opinion/long-island-tv-villains-politics.html"
   ],
   [
-    "iran",
+    "chinese",
     17,
-    "https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "black",
+    "war",
     17,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/16/mushrooms-black-foragers"
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "dead",
+    "place",
     17,
-    "https://www.theguardian.com/us-news/2026/may/16/us-mexico-border-extreme-heat"
+    "https://www.theguardian.com/us-news/2026/may/16/alabama-black-voting-rights-protest"
   ],
   [
-    "final",
-    16,
-    "https://www.nytimes.com/2026/05/15/arts/eurovision-final-how-to-watch.html"
+    "administration",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/17/federal-funding-trump-ballroom-jeopardy-senate-ruling"
   ],
   [
-    "term",
-    16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "game",
+    17,
+    "https://www.theguardian.com/sport/2026/may/16/minnesota-timberwolves-nba-playoffs-san-antonio-spurs"
   ],
   [
-    "country",
+    "runoff",
     16,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
   ],
   [
-    "star",
+    "killed",
     16,
-    "https://www.theguardian.com/us-news/2026/may/16/donald-trump-xi-jinping-summit-china"
+    "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
   ],
   [
-    "york",
+    "something",
     16,
-    "https://www.theguardian.com/us-news/2026/may/16/trump-irs-lawsuit-compensation-fund"
+    "https://www.theguardian.com/lifeandstyle/2026/may/17/secrets-of-the-body-stress"
   ],
   [
-    "bill",
+    "win",
     16,
-    "https://www.theguardian.com/us-news/2026/may/16/trump-bill-cassidy-louisiana-senate-race"
+    "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump"
   ],
   [
-    "cassidy",
+    "john",
     16,
-    "https://www.theguardian.com/us-news/2026/may/16/trump-bill-cassidy-louisiana-senate-race"
-  ],
-  [
-    "children",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/16/what-we-learned-elon-musk-sam-altman"
-  ],
-  [
-    "challengers",
-    16,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
+    "https://www.theguardian.com/us-news/2026/may/16/kentucky-republican-primary-election-massie-gallrein"
   ],
   [
     "strike",
@@ -206,49 +231,89 @@
     "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
   ],
   [
-    "island",
+    "military",
     15,
-    "https://www.nytimes.com/2026/05/13/nyregion/lirr-strike-long-island-rail-road.html"
+    "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
   ],
   [
-    "something",
+    "country",
     15,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/16/mushrooms-black-foragers"
+    "https://www.nytimes.com/2026/05/16/opinion/long-island-tv-villains-politics.html"
+  ],
+  [
+    "court",
+    15,
+    "https://www.nytimes.com/2026/05/16/nyregion/birth-courtroom-baby-nyc.html"
   ],
   [
     "hours",
     15,
-    "https://www.theguardian.com/world/2026/may/16/israeli-strikes-southern-lebanon-hours-after-extension-of-ceasefire"
+    "https://www.theguardian.com/us-news/2026/may/16/what-we-learned-elon-musk-sam-altman"
   ],
   [
-    "beijing",
-    14,
-    "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html"
+    "far",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/may/17/why-brooklyn-beckham-is-bear-with-me-a-brilliant-role-model"
   ],
   [
-    "war",
-    14,
-    "https://www.nytimes.com/2026/05/16/us/at-supreme-court-virginia-democrats-pressed-legal-theory-embraced-by-trump.html"
+    "party",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/may/17/why-brooklyn-beckham-is-bear-with-me-a-brilliant-role-model"
   ],
   [
-    "candidates",
-    14,
-    "https://www.nytimes.com/2026/05/16/us/voters-louisiana-primary-gerrymander.html"
+    "letlow",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/16/trump-bill-cassidy-louisiana-senate-race"
+  ],
+  [
+    "didn",
+    15,
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/16/mushrooms-black-foragers"
   ],
   [
     "won",
-    14,
-    "https://www.nytimes.com/2026/05/16/us/voters-louisiana-primary-gerrymander.html"
+    15,
+    "https://www.theguardian.com/commentisfree/2026/may/16/ufo-files-donald-trump-us-conspiracy-theorists-aliens"
   ],
   [
-    "military",
-    14,
-    "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
+    "season",
+    15,
+    "https://www.theguardian.com/sport/2026/may/16/minnesota-timberwolves-nba-playoffs-san-antonio-spurs"
   ],
   [
-    "least",
+    "rep",
+    15,
+    "https://www.latimes.com/entertainment-arts/story/2026-05-14/jason-biggs-jenny-mollen-split-separate-divorce"
+  ],
+  [
+    "israel",
     14,
-    "https://www.nytimes.com/2026/05/16/world/europe/car-crash-modena-italy.html"
+    "https://www.nytimes.com/2026/05/16/arts/music/dara-bulgaria-bangaranga-eurovision-winner.html"
+  ],
+  [
+    "review",
+    14,
+    "https://www.theguardian.com/music/2026/may/17/harry-styles-together-together-tour-genuinely-charismatic-performer-amsterdam-live-concert-review"
+  ],
+  [
+    "decision",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/16/alabama-black-voting-rights-protest"
+  ],
+  [
+    "voters",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump"
+  ],
+  [
+    "america",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/16/new-york-long-island-rail-road-strike"
+  ],
+  [
+    "julia",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/16/trump-bill-cassidy-louisiana-senate-race"
   ],
   [
     "american",
@@ -256,44 +321,24 @@
     "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/16/mushrooms-black-foragers"
   ],
   [
-    "cannes",
-    14,
-    "https://www.theguardian.com/film/2026/may/16/the-beloved-review-javier-bardem-turns-in-a-career-scariest-performance"
-  ],
-  [
-    "win",
-    14,
-    "https://www.theguardian.com/sport/2026/may/16/minnesota-timberwolves-nba-playoffs-san-antonio-spurs"
-  ],
-  [
-    "night",
-    14,
-    "https://www.theguardian.com/sport/2026/may/16/minnesota-timberwolves-nba-playoffs-san-antonio-spurs"
-  ],
-  [
-    "video",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/16/florida-giant-manta-rays-capture-rules"
-  ],
-  [
-    "supreme",
+    "voted",
     13,
-    "https://www.nytimes.com/2026/05/16/us/at-supreme-court-virginia-democrats-pressed-legal-theory-embraced-by-trump.html"
+    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
   ],
   [
-    "latest",
+    "democrats",
     13,
-    "https://www.nytimes.com/2026/05/16/us/at-supreme-court-virginia-democrats-pressed-legal-theory-embraced-by-trump.html"
+    "https://www.nytimes.com/2026/05/16/us/politics/white-house-ballroom-senate.html"
   ],
   [
-    "workers",
+    "outbreak",
     13,
-    "https://www.nytimes.com/2026/05/13/nyregion/lirr-strike-long-island-rail-road.html"
+    "https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html"
   ],
   [
-    "israel",
+    "contest",
     13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/05/16/arts/music/dara-bulgaria-bangaranga-eurovision-winner.html"
   ],
   [
     "past",
@@ -301,9 +346,9 @@
     "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "far",
+    "experts",
     13,
-    "https://www.theguardian.com/us-news/2026/may/16/spencer-pratt-los-angeles-mayor"
+    "https://www.theguardian.com/lifeandstyle/2026/may/17/secrets-of-the-body-stress"
   ],
   [
     "style",
@@ -311,68 +356,23 @@
     "https://www.theguardian.com/us-news/2026/may/16/donald-trump-xi-jinping-summit-china"
   ],
   [
-    "didn",
+    "water",
     13,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/16/mushrooms-black-foragers"
+    "https://www.theguardian.com/us-news/2026/may/16/lauren-boebert-trump-funds-colorado-drink-water-funds-tina-peters"
   ],
   [
-    "place",
+    "final",
     13,
-    "https://www.theguardian.com/us-news/2026/may/16/kentucky-republican-primary-election-massie-gallrein"
+    "https://www.theguardian.com/sport/2026/may/17/alex-smalley-two-shot-lead-us-pga-championship-third-round-golf"
   ],
   [
-    "school",
+    "park",
     13,
-    "https://www.theguardian.com/technology/2026/may/17/canvas-hack-cyber-criminals-data-ransom-paid"
+    "https://www.theguardian.com/football/2026/may/16/hearts-contact-police-and-condemn-shameful-abuse-of-players-celtic-defeat"
   ],
   [
-    "review",
+    "preakness",
     13,
-    "https://www.theguardian.com/film/2026/may/16/the-beloved-review-javier-bardem-turns-in-a-career-scariest-performance"
-  ],
-  [
-    "festival",
-    13,
-    "https://www.theguardian.com/film/2026/may/16/the-beloved-review-javier-bardem-turns-in-a-career-scariest-performance"
-  ],
-  [
-    "decades",
-    13,
-    "https://www.theguardian.com/world/2026/may/16/palestinians-demolish-family-homes-jerusalem-kings-garden-theme-park"
-  ],
-  [
-    "voters",
-    12,
-    "https://www.nytimes.com/2026/05/16/us/voters-louisiana-primary-gerrymander.html"
-  ],
-  [
-    "louisiana",
-    12,
-    "https://www.nytimes.com/2026/05/16/us/voters-louisiana-primary-gerrymander.html"
-  ],
-  [
-    "gaza",
-    12,
-    "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
-  ],
-  [
-    "contest",
-    12,
-    "https://www.nytimes.com/2026/05/15/arts/eurovision-final-how-to-watch.html"
-  ],
-  [
-    "rail",
-    12,
-    "https://www.nytimes.com/2026/05/16/nyregion/lirr-strike.html"
-  ],
-  [
-    "america",
-    12,
-    "https://www.nytimes.com/2026/05/13/nyregion/lirr-strike-long-island-rail-road.html"
-  ],
-  [
-    "social",
-    12,
-    "https://www.nytimes.com/2026/05/16/nyregion/nakba-video-mamdani-nyc.html"
+    "https://www.theguardian.com/sport/2026/may/16/napoleon-solo-preakness-stakes"
   ]
 ];
