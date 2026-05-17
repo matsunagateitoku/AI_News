@@ -2,13 +2,13 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    115,
-    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
+    101,
+    "https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html"
   ],
   [
     "race",
-    71,
-    "https://www.theguardian.com/sport/2026/may/16/napoleon-solo-preakness-stakes"
+    68,
+    "https://www.theguardian.com/us-news/2026/may/17/trump-washington-dc-reflecting-pool"
   ],
   [
     "guide",
@@ -16,109 +16,94 @@
     "https://www.theguardian.com/film/2026/may/16/la-gradiva-review-stunning-coming-of-age-story-of-young-love-and-sexual-tension"
   ],
   [
-    "president",
-    56,
-    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
-  ],
-  [
     "california",
-    52,
+    48,
     "https://www.theguardian.com/us-news/2026/may/16/california-turtle-trafficking"
   ],
   [
-    "cassidy",
-    42,
-    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
+    "district",
+    45,
+    "https://www.theguardian.com/us-news/2026/may/17/james-clyburn-south-carolina-redistricting"
   ],
   [
-    "district",
+    "president",
     42,
-    "https://www.theguardian.com/us-news/2026/may/16/kansas-judge-blocks-law-banning-gender-transition-treatments-for-minors"
+    "https://www.nytimes.com/2026/05/17/us/politics/to-critics-trump-remarks-reveal-a-billionaire-out-of-touch.html"
+  ],
+  [
+    "election",
+    36,
+    "https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html"
+  ],
+  [
+    "cassidy",
+    33,
+    "https://www.nytimes.com/2026/05/17/us/politics/trump-flexes-hold-on-gop-even-as-it-braces-for-midterm-backlash.html"
   ],
   [
     "primary",
-    36,
+    31,
     "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
   ],
   [
     "bill",
-    34,
+    30,
     "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
-  ],
-  [
-    "health",
-    34,
-    "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html"
   ],
   [
     "republican",
-    31,
-    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
+    29,
+    "https://www.nytimes.com/2026/05/17/us/politics/trump-flexes-hold-on-gop-even-as-it-braces-for-midterm-backlash.html"
   ],
   [
-    "election",
-    31,
-    "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump"
+    "health",
+    28,
+    "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html"
   ],
   [
-    "senate",
+    "black",
     27,
-    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
-  ],
-  [
-    "louisiana",
-    27,
-    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
-  ],
-  [
-    "china",
-    25,
-    "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html"
+    "https://www.theguardian.com/world/2026/may/17/people-killed-in-russia-ukraine-retaliatory-strikes-moscow"
   ],
   [
     "incumbent",
-    25,
+    23,
     "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump"
   ],
   [
+    "political",
+    22,
+    "https://www.nytimes.com/2026/05/17/us/politics/kentuckys-curious-cast-of-political-characters.html"
+  ],
+  [
+    "faces",
+    22,
+    "https://www.nytimes.com/2026/05/17/us/politics/kentuckys-curious-cast-of-political-characters.html"
+  ],
+  [
+    "film",
+    22,
+    "https://www.theguardian.com/film/2026/may/17/paper-tiger-review-adam-driver-scarlett-johansson-miles-teller-james-gray"
+  ],
+  [
     "gop",
-    24,
+    22,
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
   ],
   [
-    "because",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/may/17/why-brooklyn-beckham-is-bear-with-me-a-brilliant-role-model"
-  ],
-  [
-    "county",
-    22,
-    "https://www.theguardian.com/us-news/2026/may/16/lauren-boebert-trump-funds-colorado-drink-water-funds-tina-peters"
-  ],
-  [
     "sen",
-    22,
+    21,
     "https://www.npr.org/2026/05/16/nx-s1-5824533/bill-cassidy-lost-louisiana-primary-letlow-trump"
   ],
   [
     "iran",
-    21,
-    "https://www.nytimes.com/2026/05/16/world/middleeast/iran-proxy-groups-us.html"
-  ],
-  [
-    "film",
-    21,
-    "https://www.theguardian.com/film/2026/may/16/the-beloved-review-javier-bardem-turns-in-a-career-scariest-performance"
-  ],
-  [
-    "york",
     20,
-    "https://www.theguardian.com/music/2026/may/17/harry-styles-together-together-tour-genuinely-charismatic-performer-amsterdam-live-concert-review"
+    "https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html"
   ],
   [
-    "faces",
+    "louisiana",
     20,
-    "https://www.theguardian.com/us-news/2026/may/16/kash-patel-snorkeling-uss-arizona-memorial-hawaii"
+    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
   ],
   [
     "love",
@@ -131,19 +116,9 @@
     "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
   ],
   [
-    "night",
+    "york",
     19,
-    "https://www.nytimes.com/2026/05/16/us/politics/white-house-ballroom-senate.html"
-  ],
-  [
-    "outbreak",
-    19,
-    "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html"
-  ],
-  [
-    "hours",
-    19,
-    "https://www.theguardian.com/us-news/2026/may/16/what-we-learned-elon-musk-sam-altman"
+    "https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/"
   ],
   [
     "donald",
@@ -151,44 +126,39 @@
     "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump"
   ],
   [
-    "black",
-    19,
-    "https://www.theguardian.com/us-news/2026/may/16/alabama-black-voting-rights-protest"
-  ],
-  [
     "place",
     19,
-    "https://www.theguardian.com/us-news/2026/may/16/alabama-black-voting-rights-protest"
+    "https://www.theguardian.com/us-news/2026/may/17/san-francisco-vaillancourt-fountain"
   ],
   [
-    "don",
+    "car",
     19,
-    "https://www.theguardian.com/commentisfree/2026/may/16/pity-the-poor-ai-datacenters-facing-discrimination"
+    "https://www.theguardian.com/sport/2026/may/17/max-verstappens-24-hour-racing-debut-at-nurburgring-ends-after-mechanical-fault"
   ],
   [
-    "chinese",
+    "senate",
     18,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "challengers",
-    18,
-    "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump"
-  ],
-  [
-    "administration",
-    18,
-    "https://www.theguardian.com/us-news/2026/may/17/federal-funding-trump-ballroom-jeopardy-senate-ruling"
-  ],
-  [
-    "political",
-    18,
-    "https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela"
-  ],
-  [
-    "runoff",
-    17,
     "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
+  ],
+  [
+    "county",
+    18,
+    "https://www.theguardian.com/us-news/2026/may/16/lauren-boebert-trump-funds-colorado-drink-water-funds-tina-peters"
+  ],
+  [
+    "party",
+    17,
+    "https://www.nytimes.com/2026/05/17/us/politics/trump-flexes-hold-on-gop-even-as-it-braces-for-midterm-backlash.html"
+  ],
+  [
+    "republicans",
+    17,
+    "https://www.nytimes.com/2026/05/17/us/politics/lamar-alexander-republicans-trump.html"
+  ],
+  [
+    "outbreak",
+    17,
+    "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html"
   ],
   [
     "country",
@@ -196,107 +166,67 @@
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "car",
+    "because",
     17,
-    "https://www.theguardian.com/us-news/2026/may/16/alabama-black-voting-rights-protest"
+    "https://www.theguardian.com/football/2026/may/17/world-cup-climate-change"
   ],
   [
-    "john",
+    "challengers",
     17,
-    "https://www.theguardian.com/us-news/2026/may/16/kentucky-republican-primary-election-massie-gallrein"
-  ],
-  [
-    "rep",
-    17,
-    "https://www.npr.org/2026/05/16/nx-s1-5824533/bill-cassidy-lost-louisiana-primary-letlow-trump"
+    "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump"
   ],
   [
     "war",
     16,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html"
   ],
   [
-    "something",
+    "decision",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/may/17/secrets-of-the-body-stress"
+    "https://www.nytimes.com/2026/05/15/us/degrange-family-history-race.html"
   ],
   [
-    "final",
+    "candidates",
     16,
-    "https://www.theguardian.com/world/2026/may/17/afc-women-champions-league-north-korea-south-korea-naegohyang-fc-suwon"
-  ],
-  [
-    "game",
-    16,
-    "https://www.theguardian.com/sport/2026/may/16/minnesota-timberwolves-nba-playoffs-san-antonio-spurs"
-  ],
-  [
-    "season",
-    16,
-    "https://www.theguardian.com/sport/2026/may/16/minnesota-timberwolves-nba-playoffs-san-antonio-spurs"
-  ],
-  [
-    "island",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/16/new-york-long-island-rail-road-strike"
-  ],
-  [
-    "killed",
-    15,
-    "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
-  ],
-  [
-    "far",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/may/17/why-brooklyn-beckham-is-bear-with-me-a-brilliant-role-model"
-  ],
-  [
-    "school",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/may/17/secrets-of-the-body-stress"
-  ],
-  [
-    "win",
-    15,
-    "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump"
+    "https://www.latimes.com/california/story/2026-05-17/as-la-primary-closes-in-mayoral-candidates-reach-latino-voters"
   ],
   [
     "voters",
     15,
-    "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump"
+    "https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html"
   ],
   [
-    "decision",
+    "future",
     15,
-    "https://www.theguardian.com/us-news/2026/may/17/republican-louisiana-senator-bill-cassidy-results-primary-trump"
+    "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html"
+  ],
+  [
+    "star",
+    15,
+    "https://www.theguardian.com/music/2026/may/17/harry-styles-together-together-tour-genuinely-charismatic-performer-amsterdam-live-concert-review"
   ],
   [
     "south",
     15,
-    "https://www.theguardian.com/us-news/2026/may/16/alabama-black-voting-rights-protest"
+    "https://www.theguardian.com/us-news/2026/may/17/james-clyburn-south-carolina-redistricting"
   ],
   [
-    "didn",
-    15,
-    "https://www.theguardian.com/football/live/2026/may/17/fa-cup-final-scottish-premiership-wsl-reaction-premier-league-buildup-matchday-live"
-  ],
-  [
-    "military",
+    "test",
     14,
-    "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
+    "https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html"
   ],
   [
-    "attack",
+    "china",
     14,
-    "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "israel",
+    "chinese",
     14,
-    "https://www.nytimes.com/2026/05/16/arts/music/dara-bulgaria-bangaranga-eurovision-winner.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "experts",
+    "something",
     14,
     "https://www.theguardian.com/lifeandstyle/2026/may/17/secrets-of-the-body-stress"
   ],
@@ -306,73 +236,143 @@
     "https://www.theguardian.com/music/2026/may/17/harry-styles-together-together-tour-genuinely-charismatic-performer-amsterdam-live-concert-review"
   ],
   [
-    "water",
+    "far",
     14,
-    "https://www.theguardian.com/us-news/2026/may/16/lauren-boebert-trump-funds-colorado-drink-water-funds-tina-peters"
+    "https://www.theguardian.com/commentisfree/2026/may/17/why-brooklyn-beckham-is-bear-with-me-a-brilliant-role-model"
   ],
   [
-    "young",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/may/17/taken-for-fool-by-family-over-mum-annalisa-barbieri"
-  ],
-  [
-    "won",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/may/17/hope-horizon-trump-netanyahu-putin-powers-waning"
-  ],
-  [
-    "candidates",
-    14,
-    "https://www.latimes.com/california/story/2024-08-09/california-governor-2026-candidates-newsom-atkins-kounalakis-thurmond-villaraigosa-yee"
-  ],
-  [
-    "letlow",
-    14,
-    "https://www.npr.org/2026/05/16/nx-s1-5824533/bill-cassidy-lost-louisiana-primary-letlow-trump"
-  ],
-  [
-    "strike",
+    "american",
     13,
-    "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
+    "https://www.nytimes.com/2026/05/17/us/politics/to-critics-trump-remarks-reveal-a-billionaire-out-of-touch.html"
   ],
   [
-    "democratic",
+    "democrats",
     13,
-    "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html"
+    "https://www.nytimes.com/2026/05/16/us/politics/white-house-ballroom-senate.html"
   ],
   [
-    "contest",
+    "night",
     13,
-    "https://www.nytimes.com/2026/05/16/arts/music/dara-bulgaria-bangaranga-eurovision-winner.html"
+    "https://www.nytimes.com/2026/05/16/us/politics/white-house-ballroom-senate.html"
   ],
   [
-    "past",
+    "record",
     13,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.theguardian.com/membership/2026/may/17/journalism-has-never-been-a-more-dangerous-pursuit"
   ],
   [
-    "replace",
+    "project",
     13,
-    "https://www.theguardian.com/business/2026/may/17/jaguar-land-rover-general-motors-military-contract-trucks"
+    "https://www.theguardian.com/football/2026/may/17/world-cup-climate-change"
   ],
   [
     "summer",
     13,
-    "https://www.theguardian.com/us-news/2026/may/16/kash-patel-snorkeling-uss-arizona-memorial-hawaii"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters"
   ],
   [
-    "america",
+    "season",
     13,
-    "https://www.theguardian.com/us-news/2026/may/16/donald-trump-xi-jinping-summit-china"
+    "https://www.theguardian.com/environment/2026/may/17/north-america-bees-early-swarm-season"
   ],
   [
-    "change",
+    "replace",
     13,
-    "https://www.theguardian.com/football/live/2026/may/17/fa-cup-final-scottish-premiership-wsl-reaction-premier-league-buildup-matchday-live"
+    "https://www.theguardian.com/us-news/2026/may/17/san-francisco-vaillancourt-fountain"
   ],
   [
-    "preakness",
+    "young",
     13,
-    "https://www.theguardian.com/sport/2026/may/16/napoleon-solo-preakness-stakes"
+    "https://www.theguardian.com/lifeandstyle/2026/may/17/taken-for-fool-by-family-over-mum-annalisa-barbieri"
+  ],
+  [
+    "don",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/may/16/pity-the-poor-ai-datacenters-facing-discrimination"
+  ],
+  [
+    "debut",
+    13,
+    "https://www.theguardian.com/sport/2026/may/17/max-verstappens-24-hour-racing-debut-at-nurburgring-ends-after-mechanical-fault"
+  ],
+  [
+    "style",
+    13,
+    "https://www.theguardian.com/film/2026/may/16/clarissa-review-virginia-woolf-mrs-dalloway-nigeria"
+  ],
+  [
+    "design",
+    13,
+    "https://www.theguardian.com/games/2026/may/15/how-forza-horizon-took-on-japan-with-deep-research-and-360-degree-cameras"
+  ],
+  [
+    "rep",
+    13,
+    "https://www.npr.org/2026/05/16/nx-s1-5824533/bill-cassidy-lost-louisiana-primary-letlow-trump"
+  ],
+  [
+    "senator",
+    12,
+    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
+  ],
+  [
+    "power",
+    12,
+    "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
+  ],
+  [
+    "history",
+    12,
+    "https://www.nytimes.com/2026/05/15/us/degrange-family-history-race.html"
+  ],
+  [
+    "israel",
+    12,
+    "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html"
+  ],
+  [
+    "instead",
+    12,
+    "https://www.nytimes.com/2026/05/17/opinion/shane-massey-south-carolina-clyburn.html"
+  ],
+  [
+    "hope",
+    12,
+    "https://www.nytimes.com/2026/05/17/opinion/civic-education-return.html"
+  ],
+  [
+    "budget",
+    12,
+    "https://www.nytimes.com/2026/05/16/us/politics/white-house-ballroom-senate.html"
+  ],
+  [
+    "administration",
+    12,
+    "https://www.nytimes.com/2026/05/15/health/medicare-cbd.html"
+  ],
+  [
+    "military",
+    12,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "north",
+    12,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "early",
+    12,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "wars",
+    12,
+    "https://www.theguardian.com/membership/2026/may/17/journalism-has-never-been-a-more-dangerous-pursuit"
+  ],
+  [
+    "decades",
+    12,
+    "https://www.theguardian.com/membership/2026/may/17/journalism-has-never-been-a-more-dangerous-pursuit"
   ]
 ];
