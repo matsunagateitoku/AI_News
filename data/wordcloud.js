@@ -2,12 +2,12 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    95,
-    "https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html"
+    87,
+    "https://www.nytimes.com/2026/05/17/us/politics/trump-billionaire-iran-war-cost.html"
   ],
   [
     "race",
-    70,
+    71,
     "https://www.nytimes.com/2026/05/17/us/politics/letlow-fleming-cassidy-louisiana-senate.html"
   ],
   [
@@ -17,48 +17,38 @@
   ],
   [
     "california",
-    55,
+    47,
     "https://www.theguardian.com/us-news/2026/may/17/tom-steyer-billionaire-candidate-democrats"
   ],
   [
-    "president",
-    54,
-    "https://www.nytimes.com/2026/05/17/us/politics/trump-billionaire-iran-war-cost.html"
-  ],
-  [
     "district",
-    44,
+    43,
     "https://www.theguardian.com/us-news/2026/may/17/james-clyburn-south-carolina-redistricting"
   ],
   [
-    "election",
-    29,
-    "https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html"
-  ],
-  [
-    "china",
-    28,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "president",
+    41,
+    "https://www.nytimes.com/2026/05/17/us/politics/trump-billionaire-iran-war-cost.html"
   ],
   [
     "film",
+    35,
+    "https://www.theguardian.com/film/2026/may/18/cate-blanchett-cannes-film-festival-panel-film-metoo-gender-equality-hollywood"
+  ],
+  [
+    "health",
     28,
-    "https://www.theguardian.com/film/2026/may/17/paper-tiger-review-adam-driver-scarlett-johansson-miles-teller-james-gray"
+    "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
   ],
   [
-    "nation",
+    "china",
     27,
-    "https://www.nytimes.com/2026/05/17/us/trump-prayer-rally-national-mall.html"
+    "https://www.nytimes.com/2026/05/17/us/politics/taiwan-china-us-arms-deal.html"
   ],
   [
-    "iran",
-    26,
-    "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html"
-  ],
-  [
-    "republican",
-    26,
-    "https://www.nytimes.com/2026/05/17/us/politics/trump-cassidy-midterms-louisiana-primary.html"
+    "air",
+    27,
+    "https://www.nytimes.com/2026/05/17/us/planes-crash-gunfighter-skies-show.html"
   ],
   [
     "black",
@@ -67,128 +57,133 @@
   ],
   [
     "primary",
-    23,
+    25,
     "https://www.nytimes.com/2026/05/17/us/politics/letlow-fleming-cassidy-louisiana-senate.html"
   ],
   [
-    "health",
-    23,
-    "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html"
+    "election",
+    24,
+    "https://www.nytimes.com/2026/05/17/us/politics/jared-polis-trump-tina-peters.html"
+  ],
+  [
+    "win",
+    24,
+    "https://www.theguardian.com/sport/2026/may/18/aaron-rai-us-pga-championship-title-win-jon-rahm-rory-mcilroy"
+  ],
+  [
+    "director",
+    24,
+    "https://www.theguardian.com/us-news/2026/may/16/kash-patel-snorkeling-uss-arizona-memorial-hawaii"
+  ],
+  [
+    "incumbent",
+    24,
+    "https://www.theguardian.com/us-news/2026/may/16/spencer-pratt-los-angeles-mayor"
   ],
   [
     "faces",
     23,
-    "https://www.theguardian.com/us-news/2026/may/17/trump-thomas-massie-primary"
-  ],
-  [
-    "incumbent",
-    22,
-    "https://www.theguardian.com/us-news/2026/may/16/spencer-pratt-los-angeles-mayor"
+    "https://www.nytimes.com/2026/05/18/business/iran-war-somalia-usaid.html"
   ],
   [
     "political",
-    21,
-    "https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela"
-  ],
-  [
-    "representative",
-    20,
-    "https://www.nytimes.com/2026/05/17/us/politics/letlow-fleming-cassidy-louisiana-senate.html"
-  ],
-  [
-    "director",
-    20,
-    "https://www.theguardian.com/us-news/2026/may/16/kash-patel-snorkeling-uss-arizona-memorial-hawaii"
-  ],
-  [
-    "country",
-    19,
-    "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html"
-  ],
-  [
-    "cassidy",
-    19,
-    "https://www.nytimes.com/2026/05/17/us/politics/trump-cassidy-midterms-louisiana-primary.html"
-  ],
-  [
-    "york",
-    19,
-    "https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/"
-  ],
-  [
-    "star",
-    19,
-    "https://www.theguardian.com/music/2026/may/17/harry-styles-together-together-tour-genuinely-charismatic-performer-amsterdam-live-concert-review"
-  ],
-  [
-    "donald",
-    19,
+    23,
     "https://www.theguardian.com/us-news/2026/may/17/trump-thomas-massie-primary"
   ],
   [
-    "win",
-    19,
-    "https://www.theguardian.com/sport/live/2026/may/17/us-pga-championship-2026-day-four-golf-live"
-  ],
-  [
-    "gop",
-    19,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
-  ],
-  [
-    "war",
-    18,
+    "iran",
+    21,
     "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html"
   ],
   [
-    "trade",
+    "republican",
+    21,
+    "https://www.nytimes.com/2026/05/17/us/politics/letlow-fleming-cassidy-louisiana-senate.html"
+  ],
+  [
+    "donald",
+    21,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/17/america-china-energy-oil-renewables"
+  ],
+  [
+    "country",
+    20,
+    "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html"
+  ],
+  [
+    "york",
+    20,
+    "https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/"
+  ],
+  [
+    "outbreak",
+    19,
+    "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
+  ],
+  [
+    "military",
+    19,
+    "https://www.nytimes.com/2026/05/14/us/retired-military-vehicles-civilian-use-tanks-trucks.html"
+  ],
+  [
+    "sen",
+    19,
+    "https://www.foxnews.com/media/lindsey-graham-warns-republicans-democrats-trying-destroy-trump-losing-game-cassidy-defeat"
+  ],
+  [
+    "children",
     18,
-    "https://www.nytimes.com/2026/05/17/opinion/trump-china-xi-trade.html"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/17/america-china-energy-oil-renewables"
   ],
   [
     "season",
     18,
-    "https://www.theguardian.com/environment/2026/may/17/north-america-bees-early-swarm-season"
+    "https://www.theguardian.com/tv-and-radio/2026/may/17/saturday-night-live-will-ferrell-host-finale"
+  ],
+  [
+    "thousands",
+    18,
+    "https://www.theguardian.com/us-news/2026/may/17/dc-national-mall-prayer-rally"
+  ],
+  [
+    "cassidy",
+    18,
+    "https://www.foxnews.com/media/lindsey-graham-warns-republicans-democrats-trying-destroy-trump-losing-game-cassidy-defeat"
+  ],
+  [
+    "american",
+    17,
+    "https://www.nytimes.com/2026/05/17/us/politics/trump-billionaire-iran-war-cost.html"
+  ],
+  [
+    "don",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/may/17/best-back-pain-products"
+  ],
+  [
+    "america",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/17/dc-national-mall-prayer-rally"
   ],
   [
     "county",
-    18,
+    17,
     "https://www.theguardian.com/us-news/2026/may/16/lauren-boebert-trump-funds-colorado-drink-water-funds-tina-peters"
   ],
   [
-    "car",
-    18,
-    "https://www.theguardian.com/sport/2026/may/17/max-verstappens-24-hour-racing-debut-at-nurburgring-ends-after-mechanical-fault"
-  ],
-  [
-    "sen",
-    18,
-    "https://www.npr.org/2026/05/16/nx-s1-5824533/bill-cassidy-lost-louisiana-primary-letlow-trump"
-  ],
-  [
-    "taiwan",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/16/donald-trump-xi-jinping-summit-china"
-  ],
-  [
-    "trip",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/may/17/the-guardian-view-on-cuba-trump-says-he-can-do-anything-i-want-to-the-island-it-doesnt-belong-to-him"
-  ],
-  [
-    "margaret",
-    17,
-    "https://www.cbsnews.com/video/cbs-news-poll-finds-many-voice-frustration-with-trumps-economic-approach/"
-  ],
-  [
-    "brennan",
-    17,
-    "https://www.cbsnews.com/video/cbs-news-poll-finds-many-voice-frustration-with-trumps-economic-approach/"
-  ],
-  [
-    "chinese",
+    "because",
     16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/05/17/business/nextera-dominion-deal.html"
+  ],
+  [
+    "something",
+    16,
+    "https://www.nytimes.com/2026/05/18/opinion/ai-tech-worker-organizing.html"
+  ],
+  [
+    "term",
+    16,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "review",
@@ -196,24 +191,29 @@
     "https://www.theguardian.com/thefilter-us/2026/may/17/best-back-pain-products"
   ],
   [
-    "because",
+    "products",
     16,
-    "https://www.theguardian.com/football/2026/may/17/world-cup-climate-change"
+    "https://www.theguardian.com/thefilter-us/2026/may/17/best-back-pain-products"
   ],
   [
-    "night",
+    "car",
     16,
-    "https://www.theguardian.com/music/2026/may/17/harry-styles-together-together-tour-genuinely-charismatic-performer-amsterdam-live-concert-review"
+    "https://www.theguardian.com/sport/2026/may/17/max-verstappens-24-hour-racing-debut-at-nurburgring-ends-after-mechanical-fault"
   ],
   [
-    "place",
+    "love",
     16,
-    "https://www.theguardian.com/us-news/2026/may/17/san-francisco-vaillancourt-fountain"
+    "https://www.theguardian.com/film/2026/may/16/la-gradiva-review-stunning-coming-of-age-story-of-young-love-and-sexual-tension"
   ],
   [
-    "bill",
+    "cruise",
     16,
-    "https://www.npr.org/2026/05/16/nx-s1-5824533/bill-cassidy-lost-louisiana-primary-letlow-trump"
+    "https://www.theguardian.com/books/2026/may/15/the-best-recent-and-thrillers-review-roundup"
+  ],
+  [
+    "war",
+    15,
+    "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html"
   ],
   [
     "louisiana",
@@ -221,34 +221,34 @@
     "https://www.nytimes.com/2026/05/17/us/politics/letlow-fleming-cassidy-louisiana-senate.html"
   ],
   [
-    "outbreak",
+    "place",
     15,
-    "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html"
+    "https://www.nytimes.com/2026/05/17/arts/music/metropolitan-opera-general-manager-peter-gelb.html"
   ],
   [
-    "young",
+    "strike",
     15,
-    "https://www.nytimes.com/2026/05/17/us/politics/seattle-mayor-tax-the-rich-starbucks.html"
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
   ],
   [
-    "term",
+    "republicans",
     15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/us-news/2026/may/17/trump-thomas-massie-primary"
   ],
   [
-    "something",
+    "cannes",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/may/17/secrets-of-the-body-stress"
+    "https://www.theguardian.com/film/2026/may/18/cate-blanchett-cannes-film-festival-panel-film-metoo-gender-equality-hollywood"
   ],
   [
-    "don",
+    "road",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/may/17/best-back-pain-products"
+    "https://www.theguardian.com/world/2026/may/18/man-tasked-with-taking-barcelona-back-from-overtourism"
   ],
   [
-    "design",
+    "game",
     15,
-    "https://www.theguardian.com/wellness/2026/may/17/author-simone-stolzoff"
+    "https://www.theguardian.com/sport/2026/may/17/thunders-shai-gilgeous-alexander-to-be-named-nba-mvp-for-second-season-in-succession"
   ],
   [
     "candidates",
@@ -261,14 +261,74 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "republicans",
-    14,
-    "https://www.nytimes.com/2026/05/17/us/politics/lamar-alexander-republicans-trump.html"
+    "bill",
+    15,
+    "https://www.foxnews.com/media/lindsey-graham-warns-republicans-democrats-trying-destroy-trump-losing-game-cassidy-defeat"
   ],
   [
-    "air",
+    "island",
     14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.nytimes.com/2026/05/17/us/politics/taiwan-china-us-arms-deal.html"
+  ],
+  [
+    "rally",
+    14,
+    "https://www.nytimes.com/2026/05/17/us/trump-prayer-rally-national-mall.html"
+  ],
+  [
+    "experts",
+    14,
+    "https://www.nytimes.com/2026/05/17/us/a-federal-case-will-test-if-protesters-are-conspirators.html"
+  ],
+  [
+    "decision",
+    14,
+    "https://www.nytimes.com/2026/05/17/us/politics/jared-polis-trump-tina-peters.html"
+  ],
+  [
+    "family",
+    14,
+    "https://www.nytimes.com/2026/05/15/us/degrange-family-history-race.html"
+  ],
+  [
+    "star",
+    14,
+    "https://www.nytimes.com/2026/05/18/world/europe/kylian-mbappe-national-rally-france.html"
+  ],
+  [
+    "global",
+    14,
+    "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
+  ],
+  [
+    "idaho",
+    14,
+    "https://www.nytimes.com/2026/05/17/us/planes-crash-gunfighter-skies-show.html"
+  ],
+  [
+    "media",
+    14,
+    "https://www.nytimes.com/2026/05/17/us/planes-crash-gunfighter-skies-show.html"
+  ],
+  [
+    "chinese",
+    14,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "least",
+    14,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "night",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/may/17/saturday-night-live-will-ferrell-host-finale"
+  ],
+  [
+    "governor",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/17/tom-steyer-billionaire-candidate-democrats"
   ],
   [
     "south",
@@ -276,19 +336,19 @@
     "https://www.theguardian.com/us-news/2026/may/17/james-clyburn-south-carolina-redistricting"
   ],
   [
-    "interview",
+    "company",
     14,
-    "https://www.theguardian.com/film/2026/may/16/john-lennon-last-interview-review-steven-soderbergh"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters"
   ],
   [
-    "love",
+    "young",
     14,
-    "https://www.theguardian.com/film/2026/may/16/la-gradiva-review-stunning-coming-of-age-story-of-young-love-and-sexual-tension"
+    "https://www.theguardian.com/tv-and-radio/2026/may/17/bulgarians-celebrate-dara-eurovision-win-with-bangaranga"
   ],
   [
-    "voters",
+    "senate",
     13,
-    "https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html"
+    "https://www.nytimes.com/2026/05/17/us/politics/letlow-fleming-cassidy-louisiana-senate.html"
   ],
   [
     "history",
@@ -296,83 +356,23 @@
     "https://www.nytimes.com/2026/05/15/us/degrange-family-history-race.html"
   ],
   [
-    "family",
+    "jets",
     13,
-    "https://www.nytimes.com/2026/05/15/us/degrange-family-history-race.html"
+    "https://www.nytimes.com/2026/05/17/us/planes-crash-gunfighter-skies-show.html"
   ],
   [
-    "decision",
+    "members",
     13,
-    "https://www.nytimes.com/2026/05/15/us/degrange-family-history-race.html"
+    "https://www.nytimes.com/2026/05/17/us/planes-crash-gunfighter-skies-show.html"
   ],
   [
-    "alexander",
+    "fire",
     13,
-    "https://www.nytimes.com/2026/05/17/us/politics/lamar-alexander-republicans-trump.html"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "governor",
+    "different",
     13,
-    "https://www.nytimes.com/2026/05/17/us/politics/lamar-alexander-republicans-trump.html"
-  ],
-  [
-    "others",
-    13,
-    "https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/"
-  ],
-  [
-    "medical",
-    13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/may/17/best-back-pain-products"
-  ],
-  [
-    "products",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/may/17/best-back-pain-products"
-  ],
-  [
-    "record",
-    13,
-    "https://www.theguardian.com/membership/2026/may/17/journalism-has-never-been-a-more-dangerous-pursuit"
-  ],
-  [
-    "fight",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/17/trump-thomas-massie-primary"
-  ],
-  [
-    "hours",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/17/trump-thomas-massie-primary"
-  ],
-  [
-    "america",
-    13,
-    "https://www.theguardian.com/environment/2026/may/17/north-america-bees-early-swarm-season"
-  ],
-  [
-    "style",
-    13,
-    "https://www.theguardian.com/sport/live/2026/may/17/us-pga-championship-2026-day-four-golf-live"
-  ],
-  [
-    "company",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/16/donald-trump-xi-jinping-summit-china"
-  ],
-  [
-    "replace",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/17/san-francisco-vaillancourt-fountain"
-  ],
-  [
-    "bike",
-    13,
-    "https://www.theguardian.com/sport/2026/may/17/giro-ditalia-vingegaard-stage-nine-victory-eulalio"
+    "https://www.theguardian.com/us-news/2026/may/17/tom-steyer-billionaire-candidate-democrats"
   ]
 ];
