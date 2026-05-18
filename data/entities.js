@@ -3,139 +3,89 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 53,
-      "url": "https://www.theguardian.com/us-news/2026/may/18/nicholas-tartaglione-jeffrey-epstein-cellmate",
+      "count": 68,
+      "url": "https://www.theguardian.com/thefilter-us/2026/may/18/best-memorial-day-deals-sales",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 40,
-      "url": "https://www.theguardian.com/us-news/2026/may/16/california-turtle-trafficking",
+      "count": 45,
+      "url": "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai",
       "source": "The Guardian"
     },
     {
       "name": "L.A. County'S",
-      "count": 27,
+      "count": 26,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Iran",
-      "count": 25,
-      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html",
+      "name": "Openai",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html",
       "source": "NY Times"
     },
     {
+      "name": "Iran",
+      "count": 18,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/18/iran-war-energy-independence-fossil-fuels",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Democratic Republic Of The Congo",
+      "count": 18,
+      "url": "https://www.theguardian.com/world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear",
+      "source": "The Guardian"
+    },
+    {
       "name": "U.S.",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/05/18/us/ebola-outbreak-congo-uganda-americans-cdc.html",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
       "source": "NY Times"
     },
     {
       "name": "China",
       "count": 16,
-      "url": "https://www.nytimes.com/2026/05/18/world/asia/trump-taiwan-china-weapons.html",
-      "source": "NY Times"
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Uk",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/18/ambition-uk-starmer-burnham-streeting-rayner-polanski-farage-power",
+      "source": "The Guardian"
     },
     {
       "name": "New York City",
-      "count": 16,
+      "count": 11,
       "url": "https://www.theguardian.com/music/2026/may/17/harry-styles-together-together-tour-genuinely-charismatic-performer-amsterdam-live-concert-review",
       "source": "The Guardian"
-    },
-    {
-      "name": "The Democratic Republic Of Congo",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Georgia",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/may/18/geoff-duncan-ex-republican-georgia-democratic-primary-governor",
-      "source": "The Guardian"
-    },
-    {
-      "name": "West Hollywood",
-      "count": 11,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-supervisor-district-3-horvath-arey-sidenfaden-minasova-voter-guide",
-      "source": "LA Times"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Target For Trump",
-      "count": 58,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Irs",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/live/2026/may/18/donald-trump-redistricting-south-carolina-iran-healthcare-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/may/18/geoff-duncan-ex-republican-georgia-democratic-primary-governor",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 12,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Louisiana Senate",
-      "count": 11,
-      "url": "https://www.politico.com/news/2026/05/16/cassidy-louisiana-senate-race-trump-00924872",
-      "source": "Politico"
-    },
-    {
-      "name": "Ai",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "The California Congressional District",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 10,
-      "url": "https://www.npr.org/2026/05/18/nx-s1-5616665/supreme-court-voting-rights-act-private-right",
-      "source": "NPR"
-    },
-    {
-      "name": "The L.A. City Council",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Ice",
-      "count": 7,
-      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
-      "source": "Wall St. Journal"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 32,
-      "url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
+      "count": 35,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/18/iran-war-energy-independence-fossil-fuels",
       "source": "The Guardian"
     },
     {
-      "name": "Bill Cassidy",
+      "name": "Sam Altman",
+      "count": 14,
+      "url": "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Elon Musk",
+      "count": 12,
+      "url": "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Elon Musk'S",
       "count": 9,
-      "url": "https://www.npr.org/2026/05/18/g-s1-122577/up-first-newsletter-bill-cassidy-trump-ebola-elon-musk-openai-sam-altman-idaho-airshow-collision",
-      "source": "NPR"
+      "url": "https://www.latimes.com/business/story/2026-05-18/jury-sides-with-openai-tossing-out-elons-claim-that-sam-altman-stole-charity",
+      "source": "LA Times"
     },
     {
       "name": "Aaron Rai     Rory Mcilroy",
@@ -150,9 +100,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "Luigi Mangione ’S",
+      "name": "Jd Vance",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/may/18/luigi-mangione-trial-new-york-united-healthcare-ceo",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/17/saturday-night-live-will-ferrell-host-finale",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Spencer Pratt",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/may/16/spencer-pratt-los-angeles-mayor",
       "source": "The Guardian"
     },
     {
@@ -162,54 +118,24 @@
       "source": "The Guardian"
     },
     {
-      "name": "Marco Rubio",
-      "count": 4,
-      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Susan Collins",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/18/maine-senate-susan-collins",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ronda Rousey",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/may/17/ronda-rousey-v-gina-carano-mma-fight",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Axel Willner",
-      "count": 4,
-      "url": "https://www.theguardian.com/music/2026/may/18/i-had-been-silent-for-a-very-long-time-how-a-chance-meeting-at-a-burger-van-revived-techno-genius-the-field",
-      "source": "The Guardian"
+      "name": "Bill Cassidy",
+      "count": 5,
+      "url": "https://www.npr.org/2026/05/18/g-s1-122577/up-first-newsletter-bill-cassidy-trump-ebola-elon-musk-openai-sam-altman-idaho-airshow-collision",
+      "source": "NPR"
     }
   ],
   "EVENT": [
     {
-      "name": "World Cup Fox Hub",
-      "count": 8,
-      "url": "https://www.foxnews.com/media/tubi-launches-2026-fifa-world-cup-fox-hub-soccer-fans-ahead-highly-anticipated-tournament",
-      "source": "Fox News"
-    },
-    {
       "name": "The World Cup",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/05/18/world/americas/fifa-south-america-conmebol-dominguez.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Holocaust",
-      "count": 3,
-      "url": "https://www.theguardian.com/film/2026/may/18/antisemitism-west-son-of-saul-laszlo-nemes-orphan-moulin",
+      "count": 15,
+      "url": "https://www.theguardian.com/football/2026/may/18/canadas-sports-minister-hopes-world-cup-can-lead-to-trade-agreement-with-us-and-mexico",
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
+      "name": "Holocaust",
       "count": 2,
-      "url": "https://www.cbsnews.com/video/trump-escalates-iran-threats-as-poll-shows-americans-feel-stressed-about-higher-prices/",
-      "source": "CBS News"
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/17/102-year-old-holocaust-survivor-berlin-australia-friendship-brass-plaques",
+      "source": "The Guardian"
     },
     {
       "name": "Us Pga Championship",
@@ -230,12 +156,6 @@
       "source": "The Guardian"
     },
     {
-      "name": "Fa Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/may/18/premier-league-and-fa-cup-final-10-talking-points-from-the-weekends-action",
-      "source": "The Guardian"
-    },
-    {
       "name": "New Year’S Eve",
       "count": 1,
       "url": "https://www.theguardian.com/film/2026/may/18/the-unknown-review-lea-seydoux-arthur-harari",
@@ -246,7 +166,87 @@
       "count": 1,
       "url": "https://www.theguardian.com/travel/2026/may/18/montenegro-hotel-designed-for-fitness-and-wellbeing",
       "source": "The Guardian"
+    },
+    {
+      "name": "Olympics",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "The Dust Bowl",
+      "count": 1,
+      "url": "https://www.latimes.com/travel/story/2026-05-12/5-moments-in-history-that-still-echo-along-route-66",
+      "source": "LA Times"
+    },
+    {
+      "name": "Black Americans \"Backwards",
+      "count": 1,
+      "url": "https://www.latimes.com/opinion/story/2026-05-12/cory-booker-ashamed-gerrymandering",
+      "source": "LA Times"
     }
   ],
-  "updated": "2026-05-18T16:28:56Z"
+  "ORG": [
+    {
+      "name": "Target For Trump",
+      "count": 50,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Gop",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/may/18/geoff-duncan-ex-republican-georgia-democratic-primary-governor",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ice",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/05/18/us/ice-agent-charges-venezuelan-immigrant.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Irs",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/may/18/trump-dismiss-10-billion-dollar-irs-lawsuit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "American Ai",
+      "count": 11,
+      "url": "https://www.foxnews.com/us/report-chinese-propaganda-singham-network-foreign-dark-money-linked-campaigns-data-centers",
+      "source": "Fox News"
+    },
+    {
+      "name": "Louisiana Senate",
+      "count": 11,
+      "url": "https://www.politico.com/news/2026/05/16/cassidy-louisiana-senate-race-trump-00924872",
+      "source": "Politico"
+    },
+    {
+      "name": "Cdc",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/may/18/us-ebola-virus-congo-uganda",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The California Congressional District",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "The L.A. City Council",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
+      "source": "LA Times"
+    }
+  ],
+  "updated": "2026-05-18T20:27:41Z"
 };

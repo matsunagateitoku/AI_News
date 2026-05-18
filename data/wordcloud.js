@@ -2,118 +2,113 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    100,
-    "https://www.nytimes.com/2026/05/18/us/brookings-institution-report-family-separations.html"
+    88,
+    "https://www.nytimes.com/2026/05/18/us/politics/abortion-pill-trump-politics.html"
   ],
   [
     "race",
-    69,
-    "https://www.theguardian.com/us-news/2026/may/18/geoff-duncan-ex-republican-georgia-democratic-primary-governor"
+    63,
+    "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html"
   ],
   [
     "guide",
-    59,
-    "https://www.theguardian.com/lifeandstyle/2026/may/18/how-to-become-emotionally-mature-at-any-age-we-often-dont-realise-the-hurt-were-causing"
-  ],
-  [
-    "president",
-    47,
-    "https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html"
+    60,
+    "https://www.theguardian.com/thefilter-us/2026/may/18/best-memorial-day-deals-sales"
   ],
   [
     "california",
-    47,
-    "https://www.theguardian.com/us-news/2026/may/16/california-turtle-trafficking"
+    54,
+    "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai"
   ],
   [
     "district",
-    44,
+    47,
     "https://www.theguardian.com/commentisfree/2026/may/18/iran-war-energy-independence-fossil-fuels"
   ],
   [
-    "iran",
-    29,
-    "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html"
-  ],
-  [
-    "court",
-    27,
-    "https://www.theguardian.com/us-news/2026/may/18/alex-murdaugh-retrial-ruling-south-carolina"
-  ],
-  [
-    "york",
-    25,
+    "president",
+    46,
     "https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html"
+  ],
+  [
+    "ebola",
+    30,
+    "https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html"
+  ],
+  [
+    "lawsuit",
+    26,
+    "https://www.nytimes.com/2026/05/18/us/politics/abortion-pill-trump-politics.html"
+  ],
+  [
+    "ice",
+    26,
+    "https://www.nytimes.com/2026/05/18/us/ice-agent-charges-venezuelan-immigrant.html"
+  ],
+  [
+    "jury",
+    26,
+    "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html"
+  ],
+  [
+    "san",
+    26,
+    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting.html"
   ],
   [
     "political",
     25,
-    "https://www.theguardian.com/us-news/live/2026/may/18/donald-trump-redistricting-south-carolina-iran-healthcare-latest-news-updates"
+    "https://www.nytimes.com/2026/05/18/us/politics/abortion-pill-trump-politics.html"
   ],
   [
-    "country",
+    "fund",
+    25,
+    "https://www.nytimes.com/2026/05/18/us/politics/trump-anti-weaponization-fund.html"
+  ],
+  [
+    "court",
+    25,
+    "https://www.theguardian.com/us-news/2026/may/18/alex-murdaugh-retrial-ruling-south-carolina"
+  ],
+  [
+    "faces",
     24,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "republican",
-    24,
-    "https://www.theguardian.com/us-news/2026/may/18/you-can-bet-on-it-utah-lawmakers-form-united-front-in-push-to-ban-prediction-markets"
-  ],
-  [
-    "incumbent",
-    23,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/may/18/maine-senate-susan-collins"
+    "https://www.theguardian.com/commentisfree/2026/may/18/the-guardian-view-on-indias-iran-shock-asias-neoliberal-era-starts-to-fracture"
   ],
   [
     "children",
-    22,
-    "https://www.nytimes.com/2026/05/18/us/brookings-institution-report-family-separations.html"
+    23,
+    "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates"
   ],
   [
-    "republicans",
+    "york",
     22,
-    "https://www.nytimes.com/2026/05/18/us/politics/ken-paxton-texas-senate-race.html"
-  ],
-  [
-    "trial",
-    22,
-    "https://www.nytimes.com/2026/05/18/nyregion/luigi-mangione-backpack-murder.html"
+    "https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html"
   ],
   [
     "outbreak",
     22,
-    "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
+    "https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html"
   ],
   [
-    "war",
-    21,
-    "https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html"
+    "incumbent",
+    22,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/18/maine-senate-susan-collins"
   ],
   [
-    "faces",
+    "openai",
     21,
-    "https://www.nytimes.com/2026/05/18/business/iran-war-somalia-usaid.html"
+    "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html"
   ],
   [
-    "health",
+    "police",
     21,
-    "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
+    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting.html"
   ],
   [
-    "global",
+    "something",
     21,
-    "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
-  ],
-  [
-    "governor",
-    21,
-    "https://www.nytimes.com/2026/05/18/world/europe/russia-governor-vologda.html"
-  ],
-  [
-    "primary",
-    21,
-    "https://www.theguardian.com/us-news/2026/may/18/geoff-duncan-ex-republican-georgia-democratic-primary-governor"
+    "https://www.theguardian.com/stage/ng-interactive/2026/may/18/wallace-shawn-interview"
   ],
   [
     "film",
@@ -121,109 +116,174 @@
     "https://www.theguardian.com/film/2026/may/18/the-return-of-westworld-is-perfect-timing-for-the-flattery-oriented-age-of-ai"
   ],
   [
-    "latest",
+    "country",
     20,
-    "https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "evidence",
+    "iran",
     20,
-    "https://www.nytimes.com/2026/05/18/nyregion/luigi-mangione-backpack-murder.html"
+    "https://www.theguardian.com/commentisfree/2026/may/18/iran-war-energy-independence-fossil-fuels"
   ],
   [
-    "judge",
+    "primary",
     20,
-    "https://www.nytimes.com/2026/05/18/nyregion/luigi-mangione-backpack-murder.html"
+    "https://www.theguardian.com/us-news/2026/may/18/geoff-duncan-ex-republican-georgia-democratic-primary-governor"
   ],
   [
-    "democrats",
+    "south",
     20,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/may/18/maine-senate-susan-collins"
+    "https://www.theguardian.com/us-news/2026/may/18/alex-murdaugh-retrial-ruling-south-carolina"
   ],
   [
-    "strike",
-    19,
-    "https://www.nytimes.com/2026/05/18/nyregion/lirr-strike-update-shuttle-bus.html"
+    "because",
+    20,
+    "https://www.theguardian.com/world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear"
   ],
   [
-    "win",
-    19,
-    "https://www.nytimes.com/2026/05/18/world/asia/trump-taiwan-china-weapons.html"
-  ],
-  [
-    "power",
-    19,
-    "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html"
-  ],
-  [
-    "democratic",
+    "health",
     19,
     "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
   ],
   [
-    "school",
+    "county",
     19,
-    "https://www.washingtonpost.com/nation/2026/05/18/student-tries-stop-ice-detention-center-opening-by-her-high-school/"
+    "https://www.nytimes.com/2026/05/18/us/eaton-fire-los-angeles.html"
   ],
   [
-    "summer",
+    "donald",
     19,
+    "https://www.theguardian.com/commentisfree/2026/may/18/iran-war-energy-independence-fossil-fuels"
+  ],
+  [
+    "democrats",
+    19,
+    "https://www.theguardian.com/us-news/2026/may/18/trump-dismiss-10-billion-dollar-irs-lawsuit"
+  ],
+  [
+    "elon",
+    18,
+    "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html"
+  ],
+  [
+    "american",
+    18,
+    "https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html"
+  ],
+  [
+    "center",
+    18,
+    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting.html"
+  ],
+  [
+    "media",
+    18,
+    "https://www.nytimes.com/2026/05/17/us/planes-crash-gunfighter-skies-show.html"
+  ],
+  [
+    "council",
+    18,
+    "https://www.theguardian.com/us-news/2026/may/18/new-york-home-care-providers-hunger-strike"
+  ],
+  [
+    "don",
+    18,
     "https://www.theguardian.com/stage/ng-interactive/2026/may/18/wallace-shawn-interview"
   ],
   [
-    "something",
-    19,
-    "https://www.theguardian.com/stage/ng-interactive/2026/may/18/wallace-shawn-interview"
+    "republican",
+    18,
+    "https://www.theguardian.com/us-news/2026/may/18/geoff-duncan-ex-republican-georgia-democratic-primary-governor"
   ],
   [
     "election",
-    19,
+    18,
     "https://www.latimes.com/california/story/2026-05-18/ai-has-invaded-la-mayors-race-some-fear-its-just-beginning"
   ],
   [
-    "season",
-    18,
-    "https://www.theguardian.com/us-news/2026/may/18/trump-cuts-ai-weather-prediction-forecasts"
+    "latest",
+    17,
+    "https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html"
+  ],
+  [
+    "billion",
+    17,
+    "https://www.nytimes.com/2026/05/18/us/politics/trump-anti-weaponization-fund.html"
+  ],
+  [
+    "congo",
+    17,
+    "https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html"
+  ],
+  [
+    "power",
+    17,
+    "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html"
+  ],
+  [
+    "judge",
+    17,
+    "https://www.nytimes.com/2026/05/18/nyregion/luigi-mangione-backpack-murder.html"
   ],
   [
     "china",
     17,
-    "https://www.nytimes.com/2026/05/18/world/asia/trump-taiwan-china-weapons.html"
-  ],
-  [
-    "ebola",
-    17,
-    "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
-  ],
-  [
-    "social",
-    17,
-    "https://www.theguardian.com/lifeandstyle/2026/may/18/how-to-become-emotionally-mature-at-any-age-we-often-dont-realise-the-hurt-were-causing"
-  ],
-  [
-    "donald",
-    17,
-    "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates"
-  ],
-  [
-    "council",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/18/new-york-home-care-providers-hunger-strike"
-  ],
-  [
-    "term",
-    16,
-    "https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html"
-  ],
-  [
-    "south",
-    16,
-    "https://www.nytimes.com/2026/05/18/nyregion/mamdani-grocery-store-bronx-hunts-point.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "cup",
+    17,
+    "https://www.theguardian.com/world/2026/may/18/mexico-city-axolotl-murals-purple-mayor-world-cup"
+  ],
+  [
+    "democratic",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/18/us-ebola-virus-congo-uganda"
+  ],
+  [
+    "season",
+    17,
+    "https://www.theguardian.com/football/live/2026/may/18/arsenal-v-burnley-premier-league-live"
+  ],
+  [
+    "republicans",
     16,
-    "https://www.nytimes.com/2026/05/18/world/americas/fifa-south-america-conmebol-dominguez.html"
+    "https://www.nytimes.com/2026/05/18/us/politics/abortion-pill-trump-politics.html"
+  ],
+  [
+    "musk",
+    16,
+    "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html"
+  ],
+  [
+    "social",
+    16,
+    "https://www.nytimes.com/2026/05/17/us/planes-crash-gunfighter-skies-show.html"
+  ],
+  [
+    "chinese",
+    16,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "energy",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/may/18/iran-war-energy-independence-fossil-fuels"
+  ],
+  [
+    "altman",
+    16,
+    "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai"
+  ],
+  [
+    "seat",
+    16,
+    "https://www.theguardian.com/us-news/2026/may/18/geoff-duncan-ex-republican-georgia-democratic-primary-governor"
+  ],
+  [
+    "game",
+    16,
+    "https://www.theguardian.com/sport/2026/may/18/no-1-seed-pistons-rue-nba-playoff-exit-as-cavs-advance-to-conference-finals-that-game-sucked"
   ],
   [
     "challengers",
@@ -231,54 +291,39 @@
     "https://www.theguardian.com/sport/2026/may/18/rory-mcilroy-clashes-with-fan-at-us-open-after-latest-usa-chant"
   ],
   [
-    "review",
-    16,
-    "https://www.theguardian.com/film/2026/may/18/tribe-review-compelling-unsettling-search-for-a-lost-sect-in-the-california-mountains"
-  ],
-  [
-    "county",
-    16,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-40-orange-county-inland-empire-voter-guide"
-  ],
-  [
-    "because",
+    "administration",
     15,
-    "https://www.nytimes.com/2026/05/18/us/brookings-institution-report-family-separations.html"
+    "https://www.nytimes.com/2026/05/18/us/politics/abortion-pill-trump-politics.html"
   ],
   [
-    "murder",
+    "term",
     15,
-    "https://www.nytimes.com/2026/05/18/nyregion/luigi-mangione-backpack-murder.html"
+    "https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html"
   ],
   [
-    "luigi",
+    "fire",
     15,
-    "https://www.nytimes.com/2026/05/18/nyregion/luigi-mangione-backpack-murder.html"
+    "https://www.nytimes.com/2026/05/18/us/sandy-fire-simi-valley-california.html"
   ],
   [
-    "americans",
+    "black",
     15,
-    "https://www.nytimes.com/2026/05/18/us/ebola-outbreak-congo-uganda-americans-cdc.html"
+    "https://www.nytimes.com/2026/05/18/us/eaton-fire-los-angeles.html"
   ],
   [
-    "night",
+    "diego",
     15,
-    "https://www.theguardian.com/us-news/2026/may/18/nicholas-tartaglione-jeffrey-epstein-cellmate"
+    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting.html"
   ],
   [
-    "media",
+    "school",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/may/18/how-to-become-emotionally-mature-at-any-age-we-often-dont-realise-the-hurt-were-causing"
+    "https://www.washingtonpost.com/nation/2026/05/18/student-tries-stop-ice-detention-center-opening-by-her-high-school/"
   ],
   [
-    "experts",
+    "campaign",
     15,
-    "https://www.theguardian.com/world/2026/may/18/maldives-cave-italian-divers-bodies"
-  ],
-  [
-    "seat",
-    15,
-    "https://www.theguardian.com/us-news/2026/may/18/geoff-duncan-ex-republican-georgia-democratic-primary-governor"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
     "filter",
@@ -286,93 +331,48 @@
     "https://www.theguardian.com/thefilter-us/2026/may/18/best-memorial-day-deals-sales"
   ],
   [
-    "ice",
-    14,
-    "https://www.nytimes.com/2026/05/18/world/asia/trump-taiwan-china-weapons.html"
+    "tested",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/may/18/best-memorial-day-deals-sales"
   ],
   [
-    "senate",
-    14,
-    "https://www.nytimes.com/2026/05/18/us/politics/ken-paxton-texas-senate-race.html"
-  ],
-  [
-    "campaign",
-    14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "pop",
-    14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "don",
-    14,
-    "https://www.theguardian.com/stage/ng-interactive/2026/may/18/wallace-shawn-interview"
-  ],
-  [
-    "irs",
-    14,
-    "https://www.theguardian.com/us-news/live/2026/may/18/donald-trump-redistricting-south-carolina-iran-healthcare-latest-news-updates"
-  ],
-  [
-    "thousands",
-    14,
-    "https://www.theguardian.com/artanddesign/2026/may/18/lets-dress-like-a-mark-rothko-how-gen-z-colour-field-paintings"
-  ],
-  [
-    "art",
-    14,
-    "https://www.theguardian.com/artanddesign/2026/may/18/lets-dress-like-a-mark-rothko-how-gen-z-colour-field-paintings"
-  ],
-  [
-    "game",
-    14,
-    "https://www.theguardian.com/sport/2026/may/18/no-1-seed-pistons-rue-nba-playoff-exit-as-cavs-advance-to-conference-finals-that-game-sucked"
+    "sam",
+    15,
+    "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai"
   ],
   [
     "place",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/17/san-francisco-vaillancourt-fountain"
+  ],
+  [
+    "review",
+    15,
+    "https://www.theguardian.com/football/2026/may/18/canadas-sports-minister-hopes-world-cup-can-lead-to-trade-agreement-with-us-and-mexico"
+  ],
+  [
+    "war",
     14,
-    "https://www.theguardian.com/sport/2026/may/18/no-1-seed-pistons-rue-nba-playoff-exit-as-cavs-advance-to-conference-finals-that-game-sucked"
+    "https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html"
   ],
   [
-    "fight",
+    "weaponization",
     14,
-    "https://www.theguardian.com/sport/2026/may/17/ronda-rousey-v-gina-carano-mma-fight"
+    "https://www.nytimes.com/2026/05/18/us/politics/trump-anti-weaponization-fund.html"
   ],
   [
-    "candidates",
+    "trial",
     14,
-    "https://www.latimes.com/california/story/2024-08-09/california-governor-2026-candidates-newsom-atkins-kounalakis-thurmond-villaraigosa-yee"
+    "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html"
   ],
   [
-    "cbs",
+    "summer",
     14,
-    "https://www.cbsnews.com/video/judge-rules-gun-notebook-found-in-luigi-mangione-search-can-be-used-as-evidence-in-state-trial/"
+    "https://www.theguardian.com/thefilter-us/2026/may/18/best-memorial-day-deals-sales"
   ],
   [
-    "american",
-    13,
-    "https://www.nytimes.com/2026/05/18/us/brookings-institution-report-family-separations.html"
-  ],
-  [
-    "travel",
-    13,
-    "https://www.nytimes.com/2026/05/18/nyregion/lirr-strike-update-shuttle-bus.html"
-  ],
-  [
-    "book",
-    13,
-    "https://www.nytimes.com/2026/05/16/business/tyrangiel-ai-book-openai-khan-academy-khanmigo.html"
-  ],
-  [
-    "chinese",
-    13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "clear",
-    13,
-    "https://www.theguardian.com/stage/ng-interactive/2026/may/18/wallace-shawn-interview"
+    "announced",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/18/new-york-home-care-providers-hunger-strike"
   ]
 ];
