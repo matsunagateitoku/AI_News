@@ -2,13 +2,13 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    102,
-    "https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html"
+    113,
+    "https://www.nytimes.com/2026/05/19/podcasts/the-headlines/trump-irs-mosque-attack-california.html"
   ],
   [
     "race",
-    72,
-    "https://www.nytimes.com/2026/05/18/us/politics/hegseth-gallrein-campaign.html"
+    71,
+    "https://www.theguardian.com/us-news/2026/may/18/nancy-pelosi-endorses-connie-chan-congress"
   ],
   [
     "guide",
@@ -16,74 +16,84 @@
     "https://www.theguardian.com/thefilter-us/2026/may/18/best-memorial-day-deals-sales"
   ],
   [
-    "district",
-    50,
-    "https://www.theguardian.com/commentisfree/2026/may/18/iran-war-energy-independence-fossil-fuels"
+    "california",
+    53,
+    "https://www.nytimes.com/2026/05/19/podcasts/the-headlines/trump-irs-mosque-attack-california.html"
   ],
   [
     "president",
-    48,
-    "https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html"
+    53,
+    "https://www.nytimes.com/2026/05/19/us/politics/poll-trump-republicans.html"
   ],
   [
-    "california",
-    47,
-    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
-  ],
-  [
-    "san",
-    29,
-    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
-  ],
-  [
-    "primary",
-    29,
+    "district",
+    44,
     "https://www.theguardian.com/us-news/2026/may/18/nancy-pelosi-endorses-connie-chan-congress"
   ],
   [
+    "primary",
+    30,
+    "https://www.nytimes.com/2026/05/19/us/chip-roy-donation-texas-attorney-general.html"
+  ],
+  [
+    "san",
+    30,
+    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
+  ],
+  [
     "iran",
-    26,
+    29,
     "https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html"
   ],
   [
-    "political",
-    24,
-    "https://www.nytimes.com/2026/05/18/us/politics/abortion-pill-trump-politics.html"
-  ],
-  [
-    "trial",
-    24,
-    "https://www.nytimes.com/2026/05/18/us/mark-fuhrman-dead.html"
+    "china",
+    28,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "faces",
-    24,
-    "https://www.theguardian.com/commentisfree/2026/may/18/the-guardian-view-on-indias-iran-shock-asias-neoliberal-era-starts-to-fracture"
-  ],
-  [
-    "york",
-    23,
-    "https://www.nytimes.com/2026/05/18/nyregion/lirr-pronunciation-long-island.html"
-  ],
-  [
-    "center",
-    22,
-    "https://www.nytimes.com/2026/05/18/us/islamic-center-san-diego-mosque.html"
-  ],
-  [
-    "children",
-    22,
-    "https://www.nytimes.com/2026/05/18/us/colorado-supreme-court-transgender-ruling.html"
+    27,
+    "https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html"
   ],
   [
     "country",
+    24,
+    "https://www.nytimes.com/2026/05/18/us/politics/supreme-court-political-tensions.html"
+  ],
+  [
+    "center",
+    24,
+    "https://www.nytimes.com/2026/05/18/us/islamic-center-san-diego-mosque.html"
+  ],
+  [
+    "election",
+    23,
+    "https://www.theguardian.com/commentisfree/2026/may/19/pennsylvania-primary-democratic-party"
+  ],
+  [
+    "republican",
     22,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/05/19/us/politics/poll-trump-republicans.html"
+  ],
+  [
+    "york",
+    22,
+    "https://www.nytimes.com/2026/05/19/us/politics/poll-trump-republicans.html"
+  ],
+  [
+    "war",
+    22,
+    "https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html"
+  ],
+  [
+    "film",
+    22,
+    "https://www.theguardian.com/film/2026/may/19/tycoon-review-impressive-debut-shows-dystopian-future-la-in-the-grip-of-a-food-distributing-megacorp"
   ],
   [
     "something",
     22,
-    "https://www.theguardian.com/stage/ng-interactive/2026/may/18/wallace-shawn-interview"
+    "https://www.theguardian.com/books/2026/may/19/if-this-be-magic-by-daniel-hahn-review-how-on-earth-do-you-translate-shakespeare"
   ],
   [
     "county",
@@ -91,24 +101,24 @@
     "https://www.latimes.com/california/story/2026-05-18/simi-valley-fire"
   ],
   [
-    "fire",
+    "donald",
     21,
-    "https://www.nytimes.com/2026/05/18/us/sandy-fire-simi-valley-california.html"
+    "https://www.theguardian.com/world/2026/may/19/china-exploits-trump-taiwan-weapons-sales-analysis"
+  ],
+  [
+    "republicans",
+    21,
+    "https://www.theguardian.com/us-news/2026/may/19/us-voters-primary-contests"
+  ],
+  [
+    "gop",
+    21,
+    "https://www.theguardian.com/us-news/2026/may/18/geoff-duncan-ex-republican-georgia-democratic-primary-governor"
   ],
   [
     "incumbent",
     21,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/may/18/maine-senate-susan-collins"
-  ],
-  [
-    "film",
-    21,
-    "https://www.theguardian.com/culture/2026/may/18/how-we-made-letter-to-brezhnev-russians-rambo-kirkby"
-  ],
-  [
-    "election",
-    21,
-    "https://www.latimes.com/california/story/2026-05-18/ai-has-invaded-la-mayors-race-some-fear-its-just-beginning"
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
     "because",
@@ -118,142 +128,157 @@
   [
     "american",
     20,
-    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-islamaphobia.html"
+    "https://www.nytimes.com/2026/05/19/realestate/trumps-deportations-are-costing-americans-jobs.html"
   ],
   [
-    "south",
+    "children",
     20,
-    "https://www.nytimes.com/2026/05/18/us/politics/trump-afrikaner-refugees.html"
+    "https://www.theguardian.com/news/2026/may/19/should-we-leave-them-to-die-the-battle-over-how-to-save-orangutans-from-the-curse-of-palm-oil"
   ],
   [
-    "fund",
+    "don",
     20,
-    "https://www.nytimes.com/2026/05/18/us/politics/trump-irs-lawsuit.html"
+    "https://www.theguardian.com/books/2026/may/19/if-this-be-magic-by-daniel-hahn-review-how-on-earth-do-you-translate-shakespeare"
   ],
   [
-    "court",
-    20,
-    "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html"
-  ],
-  [
-    "energy",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/may/18/iran-war-energy-independence-fossil-fuels"
-  ],
-  [
-    "donald",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/may/18/iran-war-energy-independence-fossil-fuels"
-  ],
-  [
-    "republican",
-    20,
-    "https://www.theguardian.com/us-news/2026/may/18/geoff-duncan-ex-republican-georgia-democratic-primary-governor"
-  ],
-  [
-    "war",
+    "party",
     19,
-    "https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html"
-  ],
-  [
-    "diego",
-    19,
-    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
-  ],
-  [
-    "council",
-    19,
-    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-islamaphobia.html"
-  ],
-  [
-    "administration",
-    19,
-    "https://www.nytimes.com/2026/05/18/us/politics/abortion-pill-trump-politics.html"
-  ],
-  [
-    "mark",
-    19,
-    "https://www.nytimes.com/2026/05/18/us/mark-fuhrman-dead.html"
-  ],
-  [
-    "ebola",
-    19,
-    "https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html"
-  ],
-  [
-    "power",
-    19,
-    "https://www.theguardian.com/books/2026/may/18/big-tech-monopolies-democracy-mordecai-kurz"
-  ],
-  [
-    "cbs",
-    19,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-05-18/anderson-cooper-bids-60-minutes-final-farewell"
-  ],
-  [
-    "shooting",
-    18,
-    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
-  ],
-  [
-    "dead",
-    18,
-    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
-  ],
-  [
-    "republicans",
-    18,
-    "https://www.nytimes.com/2026/05/18/us/politics/abortion-pill-trump-politics.html"
-  ],
-  [
-    "democratic",
-    18,
-    "https://www.nytimes.com/2026/05/18/us/ebola-outbreak-congo-uganda-americans-cdc.html"
-  ],
-  [
-    "bill",
-    18,
-    "https://www.theguardian.com/us-news/2026/may/18/new-york-home-care-providers-hunger-strike"
-  ],
-  [
-    "congressional",
-    18,
-    "https://www.theguardian.com/us-news/2026/may/18/trump-dismiss-10-billion-dollar-irs-lawsuit"
+    "https://www.nytimes.com/2026/05/19/us/politics/poll-trump-republicans.html"
   ],
   [
     "police",
+    19,
+    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
+  ],
+  [
+    "fire",
+    19,
+    "https://www.nytimes.com/2026/05/18/us/sandy-fire-simi-valley-california.html"
+  ],
+  [
+    "political",
+    19,
+    "https://www.nytimes.com/2026/05/19/opinion/trump-democrats-republicans-midterms-moderation.html"
+  ],
+  [
+    "government",
+    19,
+    "https://www.nytimes.com/2026/05/19/science/pfas-contamination-lawsuits-new-mexico.html"
+  ],
+  [
+    "term",
+    19,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "summer",
+    19,
+    "https://www.theguardian.com/film/2026/may/19/tycoon-review-impressive-debut-shows-dystopian-future-la-in-the-grip-of-a-food-distributing-megacorp"
+  ],
+  [
+    "south",
+    18,
+    "https://www.nytimes.com/2026/05/18/us/politics/trump-afrikaner-refugees.html"
+  ],
+  [
+    "killed",
+    18,
+    "https://www.theguardian.com/us-news/2026/may/18/active-shooter-report-san-diego-islamic-center"
+  ],
+  [
+    "massie",
+    18,
+    "https://www.theguardian.com/us-news/2026/may/19/us-voters-primary-contests"
+  ],
+  [
+    "game",
+    18,
+    "https://www.theguardian.com/film/2026/may/19/tycoon-review-impressive-debut-shows-dystopian-future-la-in-the-grip-of-a-food-distributing-megacorp"
+  ],
+  [
+    "senate",
+    18,
+    "https://www.foxnews.com/politics/unearthed-posts-show-dem-senate-hopeful-praising-vulgar-graffiti-making-crude-porta-potty-admissions"
+  ],
+  [
+    "diego",
     17,
     "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
   ],
   [
-    "health",
+    "ebola",
     17,
-    "https://www.theguardian.com/us-news/2026/may/18/new-york-home-care-providers-hunger-strike"
+    "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html"
   ],
   [
-    "gop",
+    "outbreak",
     17,
-    "https://www.theguardian.com/us-news/2026/may/18/geoff-duncan-ex-republican-georgia-democratic-primary-governor"
+    "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html"
   ],
   [
-    "department",
+    "democratic",
+    17,
+    "https://www.nytimes.com/2026/05/18/us/ebola-outbreak-congo-uganda-americans-cdc.html"
+  ],
+  [
+    "democrats",
+    17,
+    "https://www.nytimes.com/2026/05/19/opinion/trump-democrats-republicans-midterms-moderation.html"
+  ],
+  [
+    "media",
+    17,
+    "https://www.theguardian.com/world/2026/may/19/china-exploits-trump-taiwan-weapons-sales-analysis"
+  ],
+  [
+    "candidates",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/19/us-voters-primary-contests"
+  ],
+  [
+    "review",
+    17,
+    "https://www.theguardian.com/film/2026/may/19/tycoon-review-impressive-debut-shows-dystopian-future-la-in-the-grip-of-a-food-distributing-megacorp"
+  ],
+  [
+    "self",
+    16,
+    "https://www.nytimes.com/2026/05/19/us/chip-roy-donation-texas-attorney-general.html"
+  ],
+  [
+    "america",
+    16,
+    "https://www.nytimes.com/2026/05/19/nyregion/lirr-strike-update-train-commute.html"
+  ],
+  [
+    "states",
+    16,
+    "https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html"
+  ],
+  [
+    "administration",
     16,
     "https://www.nytimes.com/2026/05/18/business/anti-weaponization-fund-brian-morrissey-treasury.html"
   ],
   [
-    "china",
+    "art",
     16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/05/18/us/dallas-world-cup-wyland-whale-mural-painted-over.html"
   ],
   [
-    "don",
+    "latest",
     16,
-    "https://www.theguardian.com/stage/ng-interactive/2026/may/18/wallace-shawn-interview"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "game",
+    "energy",
     16,
-    "https://www.theguardian.com/football/2026/may/18/pep-guardiola-departure-manchester-city-end-of-premier-league-season"
+    "https://www.theguardian.com/artanddesign/gallery/2026/may/19/new-york-harry-gruyaert-in-pictures"
+  ],
+  [
+    "power",
+    16,
+    "https://www.theguardian.com/world/ng-interactive/2026/may/19/how-rampant-violence-nigeria-insecurity-hotspot-sahel-mapped"
   ],
   [
     "challengers",
@@ -261,39 +286,44 @@
     "https://www.theguardian.com/sport/2026/may/18/rory-mcilroy-clashes-with-fan-at-us-open-after-latest-usa-chant"
   ],
   [
-    "senate",
+    "cbs",
     16,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/may/18/maine-senate-susan-collins"
+    "https://www.latimes.com/entertainment-arts/business/story/2026-05-18/anderson-cooper-bids-60-minutes-final-farewell"
   ],
   [
-    "simpson",
+    "court",
     15,
-    "https://www.nytimes.com/2026/05/18/us/mark-fuhrman-dead.html"
+    "https://www.nytimes.com/2026/05/18/us/politics/supreme-court-political-tensions.html"
   ],
   [
-    "musk",
+    "attack",
     15,
-    "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html"
+    "https://www.nytimes.com/2026/05/19/podcasts/the-headlines/trump-irs-mosque-attack-california.html"
   ],
   [
-    "outbreak",
+    "different",
     15,
-    "https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html"
+    "https://www.nytimes.com/2026/05/19/us/politics/poll-trump-republicans.html"
   ],
   [
-    "school",
+    "dead",
     15,
-    "https://www.washingtonpost.com/nation/2026/05/18/student-tries-stop-ice-detention-center-opening-by-her-high-school/"
+    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
   ],
   [
-    "chinese",
+    "released",
     15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/05/19/nyregion/nyc-prek-enrollment-mamdani.html"
   ],
   [
-    "term",
+    "congressional",
     15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/us-news/2026/may/18/billie-jean-king-college-graduation"
+  ],
+  [
+    "council",
+    15,
+    "https://www.theguardian.com/world/ng-interactive/2026/may/19/how-rampant-violence-nigeria-insecurity-hotspot-sahel-mapped"
   ],
   [
     "filter",
@@ -301,78 +331,48 @@
     "https://www.theguardian.com/thefilter-us/2026/may/18/best-memorial-day-deals-sales"
   ],
   [
-    "democrats",
+    "bill",
     15,
-    "https://www.theguardian.com/us-news/2026/may/18/trump-dismiss-10-billion-dollar-irs-lawsuit"
+    "https://www.theguardian.com/commentisfree/2026/may/18/the-guardian-view-on-indias-iran-shock-asias-neoliberal-era-starts-to-fracture"
   ],
   [
-    "seat",
+    "fashion",
     15,
-    "https://www.theguardian.com/us-news/2026/may/18/geoff-duncan-ex-republican-georgia-democratic-primary-governor"
+    "https://www.theguardian.com/football/2026/may/18/arsenal-burnley-premier-league-match-report"
   ],
   [
-    "art",
-    15,
-    "https://www.theguardian.com/artanddesign/2026/may/19/nudity-florentina-holzinger-venice-biennale-naked-jetskiers-urine-divers"
-  ],
-  [
-    "island",
+    "department",
     14,
-    "https://www.nytimes.com/2026/05/19/world/europe/oil-slick-reaches-a-pristine-persian-gulf-island-in-iran.html"
+    "https://www.nytimes.com/2026/05/18/business/anti-weaponization-fund-brian-morrissey-treasury.html"
   ],
   [
-    "islamic",
+    "health",
     14,
-    "https://www.nytimes.com/2026/05/18/us/islamic-center-san-diego-mosque.html"
+    "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
   ],
   [
-    "america",
+    "leave",
     14,
-    "https://www.nytimes.com/2026/05/18/us/politics/trump-afrikaner-refugees.html"
+    "https://www.theguardian.com/news/2026/may/19/should-we-leave-them-to-die-the-battle-over-how-to-save-orangutans-from-the-curse-of-palm-oil"
   ],
   [
-    "los",
+    "kentucky",
     14,
-    "https://www.nytimes.com/2026/05/18/us/mark-fuhrman-dead.html"
+    "https://www.theguardian.com/us-news/2026/may/19/us-voters-primary-contests"
   ],
   [
-    "murder",
+    "georgia",
     14,
-    "https://www.nytimes.com/2026/05/18/us/mark-fuhrman-dead.html"
+    "https://www.theguardian.com/us-news/2026/may/19/us-voters-primary-contests"
   ],
   [
-    "past",
+    "social",
     14,
-    "https://www.nytimes.com/2026/05/18/us/mark-fuhrman-dead.html"
+    "https://www.theguardian.com/us-news/2026/may/18/trump-news-at-a-glance-iran"
   ],
   [
-    "campaign",
+    "experts",
     14,
-    "https://www.nytimes.com/2026/05/18/us/politics/hegseth-gallrein-campaign.html"
-  ],
-  [
-    "park",
-    14,
-    "https://www.nytimes.com/2026/05/18/us/santa-rosa-channel-island-wildfire.html"
-  ],
-  [
-    "summer",
-    14,
-    "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html"
-  ],
-  [
-    "early",
-    14,
-    "https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html"
-  ],
-  [
-    "tested",
-    14,
-    "https://www.nytimes.com/2026/05/18/us/hantavirus-ship-passenger-quarantine-order.html"
-  ],
-  [
-    "released",
-    14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/us-news/2026/may/18/trumprx-site-prescription-drugs"
   ]
 ];
