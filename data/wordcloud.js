@@ -2,203 +2,133 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    120,
+    112,
     "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
   ],
   [
-    "primary",
-    78,
-    "https://www.nytimes.com/2026/05/19/us/politics/trump-massie-primary-takeaways.html"
-  ],
-  [
     "race",
-    76,
-    "https://www.theguardian.com/us-news/2026/may/19/kentucky-republican-primary-trump-massie"
+    66,
+    "https://www.latimes.com/california/story/2026-05-20/trump-signals-support-for-pratt-in-la-mayoral-election-id-like-to-see-him-do-well"
   ],
   [
     "president",
-    69,
+    59,
     "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
   ],
   [
     "guide",
-    58,
-    "https://www.theguardian.com/thefilter-us/2026/may/18/best-memorial-day-deals-sales"
-  ],
-  [
-    "district",
-    51,
-    "https://www.theguardian.com/us-news/2026/may/19/kentucky-republican-primary-trump-massie"
+    59,
+    "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
   ],
   [
     "california",
     48,
-    "https://www.theguardian.com/us-news/2026/may/19/san-diego-mosque-shooting"
+    "https://www.theguardian.com/us-news/2026/may/20/security-guard-san-diego-mosque-attack"
   ],
   [
-    "georgia",
-    40,
-    "https://www.theguardian.com/us-news/2026/may/19/kentucky-republican-primary-trump-massie"
+    "district",
+    43,
+    "https://www.theguardian.com/games/2026/may/15/how-forza-horizon-took-on-japan-with-deep-research-and-360-degree-cameras"
   ],
   [
-    "gop",
-    40,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
-  ],
-  [
-    "republican",
-    36,
-    "https://www.nytimes.com/2026/05/19/us/politics/senate-iran-war-authorization.html"
-  ],
-  [
-    "democratic",
+    "primary",
     35,
-    "https://www.theguardian.com/commentisfree/2026/may/19/ebola-drc-needs-worlds-attention-rare-strain-congo-dangerous"
-  ],
-  [
-    "senate",
-    34,
-    "https://www.nytimes.com/2026/05/19/us/politics/senate-iran-war-authorization.html"
-  ],
-  [
-    "election",
-    32,
-    "https://www.theguardian.com/us-news/2026/may/19/kentucky-republican-primary-trump-massie"
-  ],
-  [
-    "political",
-    27,
-    "https://www.theguardian.com/us-news/2026/may/20/georgia-mayor-who-fired-entire-police-force-resigns"
-  ],
-  [
-    "term",
-    25,
-    "https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triang.html"
-  ],
-  [
-    "incumbent",
-    25,
-    "https://www.theguardian.com/us-news/2026/may/19/kentucky-republican-primary-trump-massie"
-  ],
-  [
-    "faces",
-    25,
-    "https://www.theguardian.com/tv-and-radio/2026/may/19/saturday-night-live-best-sketches-season-51"
-  ],
-  [
-    "court",
-    24,
-    "https://www.theguardian.com/sport/2026/may/20/amazon-prime-nba-playoff-coverage"
-  ],
-  [
-    "health",
-    24,
-    "https://www.theguardian.com/games/2026/may/20/online-child-safety-campaigners-call-for-us-inquiry-into-roblox"
-  ],
-  [
-    "don",
-    24,
-    "https://www.theguardian.com/politics/video/2026/may/20/munya-chawawa-on-making-jokes-as-the-world-collapses-today-in-focus"
-  ],
-  [
-    "county",
-    24,
-    "https://www.theguardian.com/sport/2026/may/19/chiefs-rashee-rice-sent-to-jail-after-violating-probation-for-highway-racing-crash"
-  ],
-  [
-    "war",
-    23,
-    "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
-  ],
-  [
-    "country",
-    23,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "congressional",
-    23,
-    "https://www.theguardian.com/us-news/2026/may/19/kentucky-republican-primary-trump-massie"
-  ],
-  [
-    "governor",
-    23,
-    "https://www.latimes.com/california/story/2024-08-09/california-governor-2026-candidates-newsom-atkins-kounalakis-thurmond-villaraigosa-yee"
-  ],
-  [
-    "iran",
-    22,
-    "https://www.nytimes.com/2026/05/20/podcasts/the-headlines/-trump-irs-audit-regime-change-iran.html"
-  ],
-  [
-    "democrats",
-    22,
-    "https://www.nytimes.com/2026/05/19/us/politics/senate-iran-war-authorization.html"
-  ],
-  [
-    "series",
-    22,
-    "https://www.nytimes.com/2026/05/19/us/politics/sean-duffy-senate-testimony.html"
-  ],
-  [
-    "night",
-    22,
-    "https://www.nytimes.com/2026/05/20/arts/television/late-night-trump-iran-delays.html"
-  ],
-  [
-    "cbs",
-    22,
-    "https://www.theguardian.com/tv-and-radio/2026/may/20/late-night-tv-says-goodbye-to-stephen-colbert"
-  ],
-  [
-    "kentucky",
-    22,
-    "https://www.theguardian.com/us-news/2026/may/19/kentucky-republican-primary-trump-massie"
-  ],
-  [
-    "department",
-    21,
-    "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
-  ],
-  [
-    "police",
-    21,
-    "https://www.nytimes.com/2026/05/19/us/san-diego-mosque-shooting-victims.html"
-  ],
-  [
-    "late",
-    21,
-    "https://www.nytimes.com/2026/05/20/arts/television/late-night-trump-iran-delays.html"
-  ],
-  [
-    "candidates",
-    21,
-    "https://www.latimes.com/california/story/2026-05-19/hilton-becerra-in-tightening-race-in-final-weeks-of-california-governors-campaign"
-  ],
-  [
-    "runoff",
-    21,
-    "https://www.latimes.com/california/story/2026-05-19/city-council-progressives-snub-raman-endorse-bass-in-la-mayors-race"
-  ],
-  [
-    "latest",
-    20,
-    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
-  ],
-  [
-    "republicans",
-    20,
     "https://www.nytimes.com/2026/05/20/us/politics/kentucky-trump-gop.html"
   ],
   [
-    "backed",
-    20,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "frank",
+    29,
+    "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html"
   ],
   [
-    "massie",
+    "health",
+    26,
+    "https://www.nytimes.com/2026/05/20/well/rfk-jr-firings-preventative-services-task-force.html"
+  ],
+  [
+    "fund",
+    25,
+    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
+  ],
+  [
+    "country",
+    24,
+    "https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html"
+  ],
+  [
+    "incumbent",
+    23,
+    "https://www.nytimes.com/2026/05/20/us/politics/house-primaries-trump-ocasio-cortez.html"
+  ],
+  [
+    "department",
+    22,
+    "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
+  ],
+  [
+    "county",
+    21,
+    "https://www.theguardian.com/us-news/2026/may/20/ice-watch-group-vc-defensa-raids"
+  ],
+  [
+    "faces",
+    21,
+    "https://www.theguardian.com/global/video/2026/may/20/real-or-ai-can-a-photographer-and-internet-addict-spot-fake-portraits-video"
+  ],
+  [
+    "gop",
+    21,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
+  ],
+  [
+    "barney",
+    20,
+    "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html"
+  ],
+  [
+    "night",
+    20,
+    "https://www.theguardian.com/tv-and-radio/2026/may/20/late-night-tv-says-goodbye-to-stephen-colbert"
+  ],
+  [
+    "cbs",
+    20,
+    "https://www.theguardian.com/tv-and-radio/2026/may/20/late-night-tv-says-goodbye-to-stephen-colbert"
+  ],
+  [
+    "election",
+    20,
+    "https://www.theguardian.com/world/2026/may/20/venezuela-hotel-us-takeover"
+  ],
+  [
+    "don",
+    20,
+    "https://www.theguardian.com/artanddesign/2026/may/20/bride-flood-philippines-aaron-favilas-best-photograph"
+  ],
+  [
+    "democrats",
     19,
-    "https://www.nytimes.com/2026/05/19/us/politics/trump-massie-primary-takeaways.html"
+    "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html"
+  ],
+  [
+    "democratic",
+    19,
+    "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html"
+  ],
+  [
+    "police",
+    19,
+    "https://www.nytimes.com/2026/05/20/us/mass-state-police-academy-report.html"
+  ],
+  [
+    "rights",
+    19,
+    "https://www.washingtonpost.com/obituaries/2026/05/20/barney-frank-influential-congressman-gay-rights-hero-dies-86/"
+  ],
+  [
+    "anti",
+    19,
+    "https://www.theguardian.com/us-news/2026/may/20/jan-6-police-sue-trump-anti-weaponization-fund"
   ],
   [
     "game",
@@ -206,84 +136,94 @@
     "https://www.theguardian.com/sport/2026/may/20/amazon-prime-nba-playoff-coverage"
   ],
   [
-    "challengers",
+    "series",
     19,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
+    "https://www.theguardian.com/sport/2026/may/20/amazon-prime-nba-playoff-coverage"
   ],
   [
-    "rep",
-    19,
-    "https://www.foxnews.com/politics/thomas-massie-primary-loss-ed-gallrein-mtg"
-  ],
-  [
-    "states",
+    "iran",
     18,
-    "https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triang.html"
-  ],
-  [
-    "party",
-    18,
-    "https://www.nytimes.com/2026/05/20/us/politics/kentucky-trump-gop.html"
-  ],
-  [
-    "company",
-    18,
-    "https://www.nytimes.com/2026/05/20/business/china-boeing-planes-summit.html"
-  ],
-  [
-    "fire",
-    18,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "council",
-    18,
-    "https://www.theguardian.com/politics/2026/may/20/british-diplomat-james-roscoe-abruptly-leaves-washington-embassy-post"
-  ],
-  [
-    "fund",
-    17,
-    "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
-  ],
-  [
-    "san",
-    17,
-    "https://www.nytimes.com/2026/05/19/us/san-diego-mosque-cain-clark-caleb-vazquez.html"
-  ],
-  [
-    "review",
-    17,
-    "https://www.theguardian.com/tv-and-radio/2026/may/20/maximum-pleasure-guaranteed-review-totally-bingeable-thriller-glue-you-to-your-seat"
-  ],
-  [
-    "donald",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/19/kentucky-republican-primary-trump-massie"
-  ],
-  [
-    "general",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/19/trump-irs-settlement-tax-returns"
-  ],
-  [
-    "little",
-    17,
-    "https://www.theguardian.com/film/2026/may/20/jack-ryan-ghost-war-review-amazon"
-  ],
-  [
-    "history",
-    16,
-    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
-  ],
-  [
-    "power",
-    16,
     "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
   ],
   [
-    "board",
-    16,
+    "latest",
+    17,
+    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
+  ],
+  [
+    "history",
+    17,
+    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
+  ],
+  [
+    "york",
+    17,
+    "https://www.nytimes.com/2026/05/20/business/economy/1991-graduates-job-hunting-advice-children.html"
+  ],
+  [
+    "media",
+    17,
+    "https://www.nytimes.com/2026/05/20/business/media/vox-media-james-murdoch-sale.html"
+  ],
+  [
+    "council",
+    17,
     "https://www.theguardian.com/world/2026/may/20/donald-trump-gaza-reconstruction-promises-stall"
+  ],
+  [
+    "congressional",
+    17,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide"
+  ],
+  [
+    "future",
+    16,
+    "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html"
+  ],
+  [
+    "massie",
+    16,
+    "https://www.nytimes.com/2026/05/20/us/politics/kentucky-trump-gop.html"
+  ],
+  [
+    "candidates",
+    16,
+    "https://www.nytimes.com/2026/05/20/us/politics/house-primaries-trump-ocasio-cortez.html"
+  ],
+  [
+    "video",
+    16,
+    "https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html"
+  ],
+  [
+    "san",
+    16,
+    "https://www.nytimes.com/2026/05/20/us/san-diego-islamophobia-violence.html"
+  ],
+  [
+    "company",
+    16,
+    "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html"
+  ],
+  [
+    "term",
+    16,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "filter",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
+  ],
+  [
+    "amazon",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
+  ],
+  [
+    "states",
+    16,
+    "https://www.theguardian.com/sport/2026/may/20/hakeem-jeffries-naacp-college-sports-boycott"
   ],
   [
     "justice",
@@ -291,88 +231,148 @@
     "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
   ],
   [
-    "won",
+    "war",
     15,
-    "https://www.nytimes.com/2026/05/19/us/politics/senate-iran-war-authorization.html"
-  ],
-  [
-    "win",
-    15,
-    "https://www.nytimes.com/2026/05/19/us/politics/senate-iran-war-authorization.html"
-  ],
-  [
-    "thomas",
-    15,
-    "https://www.nytimes.com/2026/05/19/us/politics/trump-massie-primary-takeaways.html"
-  ],
-  [
-    "center",
-    15,
-    "https://www.nytimes.com/2026/05/19/us/san-diego-mosque-shooting-victims.html"
-  ],
-  [
-    "research",
-    15,
-    "https://www.nytimes.com/2026/05/19/science/lost-science-pollution-epa.html"
-  ],
-  [
-    "video",
-    15,
-    "https://www.theguardian.com/sport/2026/may/20/amazon-prime-nba-playoff-coverage"
-  ],
-  [
-    "season",
-    15,
-    "https://www.theguardian.com/sport/2026/may/20/amazon-prime-nba-playoff-coverage"
-  ],
-  [
-    "rice",
-    15,
-    "https://www.theguardian.com/film/2026/may/20/romcom-sociopath-finding-emily-you-me-and-tuscany"
-  ],
-  [
-    "filter",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/may/18/best-memorial-day-deals-sales"
-  ],
-  [
-    "sen",
-    15,
-    "https://www.foxnews.com/politics/trump-backed-senator-cruises-primary-win-idaho-bid-4th-term"
-  ],
-  [
-    "tax",
-    14,
-    "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
+    "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
   ],
   [
     "online",
-    14,
-    "https://www.nytimes.com/2026/05/19/us/san-diego-mosque-cain-clark-caleb-vazquez.html"
+    15,
+    "https://www.nytimes.com/2026/05/20/us/san-diego-islamophobia-violence.html"
   ],
   [
-    "secretary",
-    14,
-    "https://www.nytimes.com/2026/05/19/us/politics/sean-duffy-senate-testimony.html"
+    "buying",
+    15,
+    "https://www.nytimes.com/2026/05/20/business/media/vox-media-james-murdoch-sale.html"
   ],
   [
-    "york",
-    14,
-    "https://www.nytimes.com/2026/05/20/nyregion/nypd-shackle-mentally-ill.html"
+    "american",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
   ],
   [
-    "mother",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/may/20/maximum-pleasure-guaranteed-review-totally-bingeable-thriller-glue-you-to-your-seat"
+    "republican",
+    15,
+    "https://www.theguardian.com/us-news/live/2026/may/20/donald-trump-republicans-midterms-primaries-kentucky-redistricting-raul-castro-latest-news-updates"
   ],
   [
-    "mayor",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/20/georgia-mayor-who-fired-entire-police-force-resigns"
+    "fashion",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/may/20/john-travolta-cannes-festival-beret-glasses-new-look"
   ],
   [
-    "fewer",
+    "replace",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+  ],
+  [
+    "challengers",
+    15,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
+  ],
+  [
+    "rep",
+    15,
+    "https://www.foxnews.com/politics/fmr-dem-rep-barney-frank-sharp-tongued-liberal-trailblazer-dodd-frank-co-author-dies"
+  ],
+  [
+    "early",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/19/the-guardian-view-on-domestic-workers-indonesia-shows-that-against-the-odds-they-are-fighting-for-their-rights"
+    "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
+  ],
+  [
+    "backed",
+    14,
+    "https://www.nytimes.com/2026/05/20/us/politics/house-primaries-trump-ocasio-cortez.html"
+  ],
+  [
+    "georgia",
+    14,
+    "https://www.nytimes.com/2026/05/20/us/politics/brad-raffensperger-georgia.html"
+  ],
+  [
+    "political",
+    14,
+    "https://www.nytimes.com/2026/05/20/us/san-diego-islamophobia-violence.html"
+  ],
+  [
+    "review",
+    14,
+    "https://www.nytimes.com/2026/05/19/books/review/dangerous-dirty-violent-and-young-zayd-ayers-dohrn.html"
+  ],
+  [
+    "died",
+    14,
+    "https://www.nytimes.com/2026/05/20/us/mass-state-police-academy-report.html"
+  ],
+  [
+    "financial",
+    14,
+    "https://www.washingtonpost.com/obituaries/2026/05/20/barney-frank-influential-congressman-gay-rights-hero-dies-86/"
+  ],
+  [
+    "questions",
+    14,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "start",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "fire",
+    14,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "star",
+    14,
+    "https://www.theguardian.com/world/2026/may/20/venezuela-hotel-us-takeover"
+  ],
+  [
+    "donald",
+    14,
+    "https://www.theguardian.com/world/2026/may/20/venezuela-hotel-us-takeover"
+  ],
+  [
+    "something",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/20/epstein-files-reading-room"
+  ],
+  [
+    "board",
+    14,
+    "https://www.theguardian.com/world/2026/may/20/donald-trump-gaza-reconstruction-promises-stall"
+  ],
+  [
+    "film",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/may/20/john-travolta-cannes-festival-beret-glasses-new-look"
+  ],
+  [
+    "senate",
+    14,
+    "https://www.foxnews.com/politics/left-wing-dem-senate-hopeful-cheered-antifa-violence-unearthed-rant-kill-motherf-er"
+  ],
+  [
+    "money",
+    13,
+    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
+  ],
+  [
+    "government",
+    13,
+    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
+  ],
+  [
+    "gay",
+    13,
+    "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html"
+  ],
+  [
+    "dies",
+    13,
+    "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html"
   ]
 ];
