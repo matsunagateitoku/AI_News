@@ -2,58 +2,53 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    112,
-    "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
+    104,
+    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-legal-questions.html"
   ],
   [
     "race",
     66,
-    "https://www.latimes.com/california/story/2026-05-20/trump-signals-support-for-pratt-in-la-mayoral-election-id-like-to-see-him-do-well"
-  ],
-  [
-    "president",
-    59,
-    "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
+    "https://www.theguardian.com/us-news/2026/may/20/progressive-chris-rabb-wins-pennsylvania"
   ],
   [
     "guide",
-    59,
+    60,
     "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
   ],
   [
+    "president",
+    58,
+    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-legal-questions.html"
+  ],
+  [
     "california",
-    48,
+    55,
     "https://www.theguardian.com/us-news/2026/may/20/security-guard-san-diego-mosque-attack"
   ],
   [
     "district",
-    43,
-    "https://www.theguardian.com/games/2026/may/15/how-forza-horizon-took-on-japan-with-deep-research-and-360-degree-cameras"
-  ],
-  [
-    "primary",
-    35,
-    "https://www.nytimes.com/2026/05/20/us/politics/kentucky-trump-gop.html"
-  ],
-  [
-    "frank",
-    29,
-    "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html"
+    42,
+    "https://www.theguardian.com/us-news/2026/may/20/progressive-chris-rabb-wins-pennsylvania"
   ],
   [
     "health",
-    26,
+    33,
     "https://www.nytimes.com/2026/05/20/well/rfk-jr-firings-preventative-services-task-force.html"
   ],
   [
-    "fund",
-    25,
-    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
+    "primary",
+    29,
+    "https://www.nytimes.com/2026/05/20/us/politics/trump-republicans-congress.html"
   ],
   [
-    "country",
-    24,
+    "castro",
+    25,
     "https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html"
+  ],
+  [
+    "democratic",
+    23,
+    "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html"
   ],
   [
     "incumbent",
@@ -61,29 +56,34 @@
     "https://www.nytimes.com/2026/05/20/us/politics/house-primaries-trump-ocasio-cortez.html"
   ],
   [
-    "department",
-    22,
-    "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
-  ],
-  [
-    "county",
-    21,
-    "https://www.theguardian.com/us-news/2026/may/20/ice-watch-group-vc-defensa-raids"
-  ],
-  [
     "faces",
-    21,
-    "https://www.theguardian.com/global/video/2026/may/20/real-or-ai-can-a-photographer-and-internet-addict-spot-fake-portraits-video"
+    22,
+    "https://www.theguardian.com/world/2026/may/20/canada-plasma-death"
   ],
   [
-    "gop",
+    "fund",
     21,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
+    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-legal-questions.html"
   ],
   [
-    "barney",
+    "election",
+    21,
+    "https://www.nytimes.com/2026/05/20/us/politics/housing-bill-house-senate-trump.html"
+  ],
+  [
+    "cuban",
+    21,
+    "https://www.theguardian.com/world/2026/may/20/cuba-raul-castro-indictment"
+  ],
+  [
+    "department",
     20,
-    "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/prosecutor-charged-trump-documents-case.html"
+  ],
+  [
+    "san",
+    20,
+    "https://www.nytimes.com/2026/05/20/us/san-diego-islamophobia-violence.html"
   ],
   [
     "night",
@@ -91,69 +91,74 @@
     "https://www.theguardian.com/tv-and-radio/2026/may/20/late-night-tv-says-goodbye-to-stephen-colbert"
   ],
   [
-    "cbs",
-    20,
-    "https://www.theguardian.com/tv-and-radio/2026/may/20/late-night-tv-says-goodbye-to-stephen-colbert"
-  ],
-  [
-    "election",
-    20,
-    "https://www.theguardian.com/world/2026/may/20/venezuela-hotel-us-takeover"
-  ],
-  [
     "don",
     20,
-    "https://www.theguardian.com/artanddesign/2026/may/20/bride-flood-philippines-aaron-favilas-best-photograph"
-  ],
-  [
-    "democrats",
-    19,
-    "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html"
-  ],
-  [
-    "democratic",
-    19,
-    "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html"
-  ],
-  [
-    "police",
-    19,
-    "https://www.nytimes.com/2026/05/20/us/mass-state-police-academy-report.html"
-  ],
-  [
-    "rights",
-    19,
-    "https://www.washingtonpost.com/obituaries/2026/05/20/barney-frank-influential-congressman-gay-rights-hero-dies-86/"
-  ],
-  [
-    "anti",
-    19,
-    "https://www.theguardian.com/us-news/2026/may/20/jan-6-police-sue-trump-anti-weaponization-fund"
+    "https://www.theguardian.com/lifeandstyle/2026/may/20/i-dont-worry-about-a-robot-takeover-ai-expert-michael-wooldridge-on-big-techs-real-dangers-and-occasional-blessings"
   ],
   [
     "game",
-    19,
-    "https://www.theguardian.com/sport/2026/may/20/amazon-prime-nba-playoff-coverage"
+    20,
+    "https://www.theguardian.com/lifeandstyle/2026/may/20/i-dont-worry-about-a-robot-takeover-ai-expert-michael-wooldridge-on-big-techs-real-dangers-and-occasional-blessings"
   ],
   [
     "series",
-    19,
-    "https://www.theguardian.com/sport/2026/may/20/amazon-prime-nba-playoff-coverage"
+    20,
+    "https://www.theguardian.com/lifeandstyle/2026/may/20/i-dont-worry-about-a-robot-takeover-ai-expert-michael-wooldridge-on-big-techs-real-dangers-and-occasional-blessings"
   ],
   [
-    "iran",
-    18,
-    "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
+    "season",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/may/20/france-pessimistic-doomed-far-right-rule-national-rally-president-2027"
   ],
   [
     "latest",
-    17,
+    19,
     "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
   ],
   [
-    "history",
-    17,
-    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
+    "country",
+    19,
+    "https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html"
+  ],
+  [
+    "post",
+    19,
+    "https://www.nytimes.com/2026/05/20/business/media/jeff-bezos-trump-washington-post.html"
+  ],
+  [
+    "company",
+    19,
+    "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html"
+  ],
+  [
+    "final",
+    19,
+    "https://www.nytimes.com/2026/05/20/arts/music/eurovision-poland-israel-ukraine.html"
+  ],
+  [
+    "coffee",
+    19,
+    "https://www.theguardian.com/business/2026/may/20/starbucks-plastic-cups-recycling-report"
+  ],
+  [
+    "police",
+    18,
+    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-officers-lawsuit-trump-fund.html"
+  ],
+  [
+    "far",
+    18,
+    "https://www.theguardian.com/world/2026/may/20/israeli-security-minister-itamar-ben-gvir-stirs-diplomatic-outrage-with-flotilla-activist-abuse-video"
+  ],
+  [
+    "death",
+    18,
+    "https://www.theguardian.com/us-news/2026/may/20/settlement-man-jailed-charlie-kirk-post"
+  ],
+  [
+    "county",
+    18,
+    "https://www.theguardian.com/us-news/2026/may/20/ice-watch-group-vc-defensa-raids"
   ],
   [
     "york",
@@ -166,29 +171,19 @@
     "https://www.nytimes.com/2026/05/20/business/media/vox-media-james-murdoch-sale.html"
   ],
   [
-    "council",
+    "anti",
     17,
-    "https://www.theguardian.com/world/2026/may/20/donald-trump-gaza-reconstruction-promises-stall"
+    "https://www.nytimes.com/2026/05/20/opinion/e-jean-carroll-documentary-trump.html"
   ],
   [
-    "congressional",
-    17,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide"
-  ],
-  [
-    "future",
+    "government",
     16,
-    "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
   ],
   [
-    "massie",
+    "history",
     16,
-    "https://www.nytimes.com/2026/05/20/us/politics/kentucky-trump-gop.html"
-  ],
-  [
-    "candidates",
-    16,
-    "https://www.nytimes.com/2026/05/20/us/politics/house-primaries-trump-ocasio-cortez.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
   ],
   [
     "video",
@@ -196,19 +191,34 @@
     "https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html"
   ],
   [
-    "san",
+    "leader",
     16,
-    "https://www.nytimes.com/2026/05/20/us/san-diego-islamophobia-violence.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html"
   ],
   [
-    "company",
+    "candidates",
     16,
-    "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/house-primaries-trump-ocasio-cortez.html"
   ],
   [
-    "term",
+    "political",
     16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/05/20/us/politics/trump-republicans-primaries-revenge.html"
+  ],
+  [
+    "buying",
+    16,
+    "https://www.nytimes.com/2026/05/20/business/media/vox-media-james-murdoch-sale.html"
+  ],
+  [
+    "review",
+    16,
+    "https://www.nytimes.com/2026/05/19/books/review/dangerous-dirty-violent-and-young-zayd-ayers-dohrn.html"
+  ],
+  [
+    "questions",
+    16,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "filter",
@@ -216,44 +226,39 @@
     "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
   ],
   [
-    "amazon",
+    "something",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
+    "https://www.theguardian.com/us-news/2026/may/20/epstein-files-reading-room"
   ],
   [
-    "states",
-    16,
-    "https://www.theguardian.com/sport/2026/may/20/hakeem-jeffries-naacp-college-sports-boycott"
-  ],
-  [
-    "justice",
-    15,
-    "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
-  ],
-  [
-    "war",
+    "early",
     15,
     "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
   ],
   [
-    "online",
+    "iran",
     15,
-    "https://www.nytimes.com/2026/05/20/us/san-diego-islamophobia-violence.html"
+    "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
   ],
   [
-    "buying",
+    "frank",
     15,
-    "https://www.nytimes.com/2026/05/20/business/media/vox-media-james-murdoch-sale.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html"
   ],
   [
-    "american",
+    "justice",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
+    "https://www.nytimes.com/2026/05/20/us/politics/prosecutor-charged-trump-documents-case.html"
   ],
   [
-    "republican",
+    "late",
     15,
-    "https://www.theguardian.com/us-news/live/2026/may/20/donald-trump-republicans-midterms-primaries-kentucky-redistricting-raul-castro-latest-news-updates"
+    "https://www.theguardian.com/tv-and-radio/2026/may/20/late-night-tv-says-goodbye-to-stephen-colbert"
+  ],
+  [
+    "donald",
+    15,
+    "https://www.theguardian.com/world/2026/may/20/venezuela-hotel-us-takeover"
   ],
   [
     "fashion",
@@ -261,9 +266,9 @@
     "https://www.theguardian.com/commentisfree/2026/may/20/john-travolta-cannes-festival-beret-glasses-new-look"
   ],
   [
-    "replace",
+    "council",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+    "https://www.theguardian.com/us-news/2026/may/20/georgia-mayor-who-fired-entire-police-force-resigns"
   ],
   [
     "challengers",
@@ -271,54 +276,39 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "rep",
+    "gop",
     15,
-    "https://www.foxnews.com/politics/fmr-dem-rep-barney-frank-sharp-tongued-liberal-trailblazer-dodd-frank-co-author-dies"
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
   ],
   [
-    "early",
+    "administration",
+    14,
+    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-officers-lawsuit-trump-fund.html"
+  ],
+  [
+    "israeli",
     14,
     "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
   ],
   [
-    "backed",
-    14,
-    "https://www.nytimes.com/2026/05/20/us/politics/house-primaries-trump-ocasio-cortez.html"
-  ],
-  [
-    "georgia",
-    14,
-    "https://www.nytimes.com/2026/05/20/us/politics/brad-raffensperger-georgia.html"
-  ],
-  [
-    "political",
+    "diego",
     14,
     "https://www.nytimes.com/2026/05/20/us/san-diego-islamophobia-violence.html"
   ],
   [
-    "review",
+    "ebola",
     14,
-    "https://www.nytimes.com/2026/05/19/books/review/dangerous-dirty-violent-and-young-zayd-ayers-dohrn.html"
+    "https://www.nytimes.com/2026/05/20/world/africa/ebola-congo-tedros-rubio.html"
   ],
   [
-    "died",
+    "members",
     14,
-    "https://www.nytimes.com/2026/05/20/us/mass-state-police-academy-report.html"
+    "https://www.nytimes.com/2026/05/20/realestate/return-to-the-land-discrimination-lawsuit.html"
   ],
   [
-    "financial",
+    "court",
     14,
-    "https://www.washingtonpost.com/obituaries/2026/05/20/barney-frank-influential-congressman-gay-rights-hero-dies-86/"
-  ],
-  [
-    "questions",
-    14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "start",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2025/08/19/realestate/arkansas-white-housing-return-to-land.html"
   ],
   [
     "fire",
@@ -326,53 +316,63 @@
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "star",
+    "bath",
     14,
-    "https://www.theguardian.com/world/2026/may/20/venezuela-hotel-us-takeover"
+    "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
   ],
   [
-    "donald",
+    "weekly",
     14,
-    "https://www.theguardian.com/world/2026/may/20/venezuela-hotel-us-takeover"
+    "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
   ],
   [
-    "something",
+    "texas",
     14,
-    "https://www.theguardian.com/us-news/2026/may/20/epstein-files-reading-room"
+    "https://www.theguardian.com/technology/2026/may/20/tesla-cybertruck-texas-lake-wade-mode"
   ],
   [
-    "board",
+    "congressional",
     14,
-    "https://www.theguardian.com/world/2026/may/20/donald-trump-gaza-reconstruction-promises-stall"
+    "https://www.theguardian.com/us-news/2026/may/20/progressive-chris-rabb-wins-pennsylvania"
   ],
   [
-    "film",
+    "love",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/20/john-travolta-cannes-festival-beret-glasses-new-look"
+    "https://www.theguardian.com/lifeandstyle/2026/may/20/i-dont-worry-about-a-robot-takeover-ai-expert-michael-wooldridge-on-big-techs-real-dangers-and-occasional-blessings"
+  ],
+  [
+    "rice",
+    14,
+    "https://www.theguardian.com/film/2026/may/20/romcom-sociopath-finding-emily-you-me-and-tuscany"
   ],
   [
     "senate",
     14,
-    "https://www.foxnews.com/politics/left-wing-dem-senate-hopeful-cheered-antifa-violence-unearthed-rant-kill-motherf-er"
+    "https://www.foxnews.com/politics/trump-roasts-dem-candidate-unelectable-cardinal-sin-texas"
   ],
   [
-    "money",
+    "cuba",
     13,
-    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
+    "https://www.nytimes.com/2026/05/20/world/americas/guzman-cuba-us-negotiations-trump.html"
   ],
   [
-    "government",
+    "war",
     13,
-    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
+    "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
   ],
   [
-    "gay",
+    "republican",
     13,
-    "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/housing-bill-house-senate-trump.html"
   ],
   [
-    "dies",
+    "records",
     13,
-    "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/prosecutor-charged-trump-documents-case.html"
+  ],
+  [
+    "term",
+    13,
+    "https://www.nytimes.com/2026/05/20/business/media/jeff-bezos-trump-washington-post.html"
   ]
 ];

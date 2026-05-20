@@ -2,15 +2,9 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "The World Cup",
+      "name": "The Argentinian World Cup",
       "count": 4,
-      "url": "https://www.cbsnews.com/news/measles-outbreak-bangladesh-us-health-risk-world-cup-2026/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Game 1",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/may/19/jalen-brunson-new-york-knicks-cleveland-cavaliers-nba-playoffs",
+      "url": "https://www.theguardian.com/football/live/2026/may/20/freiburg-v-aston-villa-europa-league-final-live",
       "source": "The Guardian"
     },
     {
@@ -20,21 +14,27 @@
       "source": "The Guardian"
     },
     {
+      "name": "Cuban Independence Day",
+      "count": 2,
+      "url": "https://thehill.com/homenews/administration/5887942-trump-cuban-independence-day/",
+      "source": "The Hill"
+    },
+    {
       "name": "Early War Goal",
       "count": 1,
       "url": "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html",
       "source": "NY Times"
     },
     {
-      "name": "Iran War",
-      "count": 1,
-      "url": "https://www.theguardian.com/world/live/2026/may/20/us-iran-israel-lebanon-gaza-trump-oil-hormuz-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
       "name": "World Press Freedom Day",
       "count": 1,
       "url": "https://www.theguardian.com/membership/2026/may/20/we-cant-talk-about-press-freedom-without-talking-about-misogyny",
+      "source": "The Guardian"
+    },
+    {
+      "name": "European Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/live/2026/may/20/freiburg-v-aston-villa-europa-league-final-live",
       "source": "The Guardian"
     },
     {
@@ -44,9 +44,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "The French Open",
+      "name": "Vitamix 5200",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/20/french-open-tennis-prize-money-work-to-rule",
+      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
       "source": "The Guardian"
     },
     {
@@ -65,45 +65,45 @@
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 68,
+      "count": 60,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Gop Senate",
-      "count": 21,
-      "url": "https://thehill.com/homenews/campaign/5883965-trump-moore-alabama-republican-senate-primary/",
-      "source": "The Hill"
-    },
-    {
       "name": "Ai",
-      "count": 18,
+      "count": 15,
       "url": "https://www.washingtonpost.com/investigations/2026/05/18/we-trained-ai-watch-sports-find-gambling-ads-heres-how-we-did-it/",
       "source": "Washington Post"
     },
     {
-      "name": "Amazon Tv",
+      "name": "Gop",
       "count": 15,
-      "url": "https://www.theguardian.com/film/2026/may/20/jack-ryan-ghost-war-review-amazon",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
+      "source": "LA Times"
     },
     {
       "name": "The Filter Us",
-      "count": 13,
+      "count": 14,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Congress",
+      "name": "Us Congress",
       "count": 12,
-      "url": "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/us-news/2026/may/20/barney-frank-dead",
+      "source": "The Guardian"
     },
     {
-      "name": "The ‘Summer House",
+      "name": "Amazon     Continue",
       "count": 11,
-      "url": "https://www.nbcnews.com/select/shopping/lindsay-hubbard-favorite-products-rcna345866",
-      "source": "NBC News"
+      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian Australia'S",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/video/2026/may/20/real-or-ai-can-a-photographer-and-internet-addict-spot-fake-portraits-video",
+      "source": "The Guardian"
     },
     {
       "name": "The L.A. City Council",
@@ -118,41 +118,53 @@
       "source": "LA Times"
     },
     {
-      "name": "Louisiana Senate",
+      "name": "Nfl",
       "count": 9,
-      "url": "https://www.politico.com/news/2026/05/16/cassidy-louisiana-senate-race-trump-00924872",
-      "source": "Politico"
+      "url": "https://www.theguardian.com/sport/2026/may/20/aaron-rodgers-final-season-steelers-retire",
+      "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
-      "name": "Donald Trump",
-      "count": 36,
-      "url": "https://www.theguardian.com/world/2026/may/20/venezuela-hotel-us-takeover",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Barney Frank",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Raúl Castro",
-      "count": 11,
+      "count": 21,
       "url": "https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html",
       "source": "NY Times"
     },
     {
-      "name": "Xi Jinping",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/20/global-power-britain-brexit",
+      "name": "Donald Trump",
+      "count": 20,
+      "url": "https://www.theguardian.com/world/2026/may/20/venezuela-hotel-us-takeover",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump ’S",
+      "count": 15,
+      "url": "https://www.theguardian.com/culture/2026/may/20/jimmy-kimmel-trump-irs-settlement",
       "source": "The Guardian"
     },
     {
       "name": "Jeff Bezos",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/05/20/business/media/jeff-bezos-trump-washington-post.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Aaron Rodgers",
+      "count": 10,
+      "url": "https://www.theguardian.com/sport/2026/may/20/aaron-rodgers-final-season-steelers-retire",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Barney Frank",
       "count": 8,
-      "url": "https://www.theguardian.com/film/2026/may/20/jeff-bezos-defends-amazon-melania-film",
+      "url": "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Charlie Kirk",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/may/20/settlement-man-jailed-charlie-kirk-post",
       "source": "The Guardian"
     },
     {
@@ -162,91 +174,79 @@
       "source": "The Guardian"
     },
     {
-      "name": "Ed Gallrein",
-      "count": 8,
-      "url": "https://www.npr.org/2026/05/20/g-s1-122996/up-first-newsletter-primary-elections-iran-war-mosque-shooting-victims-minnesota-prediction-markets",
-      "source": "NPR"
-    },
-    {
-      "name": "Vladimir Putin",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/may/20/china-russia-xi-jinping-vladimir-putin-meet-beijing-after-trump-visit",
-      "source": "The Guardian"
-    },
-    {
       "name": "Sally Rooney",
       "count": 7,
       "url": "https://www.theguardian.com/books/2026/may/20/i-want-you-to-be-happy-by-jem-calder-review-romance-for-the-terminally-online",
       "source": "The Guardian"
     },
     {
-      "name": "Thomas Massie",
-      "count": 7,
-      "url": "https://www.npr.org/2026/05/20/g-s1-122996/up-first-newsletter-primary-elections-iran-war-mosque-shooting-victims-minnesota-prediction-markets",
-      "source": "NPR"
+      "name": "Forza Horizon 6",
+      "count": 6,
+      "url": "https://www.theguardian.com/games/2026/may/20/pushing-buttons-forza-horizon-6",
+      "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 53,
+      "count": 59,
       "url": "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 43,
+      "count": 44,
       "url": "https://www.theguardian.com/us-news/2026/may/20/security-guard-san-diego-mosque-attack",
       "source": "The Guardian"
     },
     {
+      "name": "U.S.",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Cuba",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/05/20/world/americas/guzman-cuba-us-negotiations-trump.html",
+      "source": "NY Times"
+    },
+    {
       "name": "L.A. County'S",
-      "count": 21,
+      "count": 18,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
       "source": "LA Times"
     },
     {
       "name": "Iran",
-      "count": 17,
+      "count": 13,
       "url": "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html",
       "source": "NY Times"
     },
     {
-      "name": "U.S.",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html",
-      "source": "NY Times"
+      "name": "Uk",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/2026/may/20/israeli-security-minister-itamar-ben-gvir-stirs-diplomatic-outrage-with-flotilla-activist-abuse-video",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 11,
+      "url": "https://www.theguardian.com/technology/2026/may/20/tesla-cybertruck-texas-lake-wade-mode",
+      "source": "The Guardian"
     },
     {
       "name": "Kentucky",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/05/20/us/politics/kentucky-trump-gop.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Georgia",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/05/20/us/politics/brad-raffensperger-georgia.html",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/05/20/us/politics/house-primaries-trump-ocasio-cortez.html",
       "source": "NY Times"
     },
     {
       "name": "Israel",
-      "count": 12,
+      "count": 10,
       "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
       "source": "Wall St. Journal"
-    },
-    {
-      "name": "Japan",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Cuba",
-      "count": 11,
-      "url": "https://www.cbsnews.com/video/what-will-happen-to-cuba-if-ral-castro-is-extracted-from-island/",
-      "source": "CBS News"
     }
   ],
-  "updated": "2026-05-20T16:29:17Z"
+  "updated": "2026-05-20T21:01:04Z"
 };
