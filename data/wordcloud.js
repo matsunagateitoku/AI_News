@@ -2,13 +2,18 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    94,
-    "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
+    112,
+    "https://www.nytimes.com/2026/05/19/us/politics/senate-iran-war-authorization.html"
+  ],
+  [
+    "primary",
+    92,
+    "https://www.nytimes.com/2026/05/19/us/politics/trump-massie-primary-takeaways.html"
   ],
   [
     "race",
-    76,
-    "https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html"
+    87,
+    "https://www.nytimes.com/2026/05/19/us/politics/trump-paxton-endorsement-cornyn-texas-senate.html"
   ],
   [
     "guide",
@@ -16,219 +21,259 @@
     "https://www.theguardian.com/thefilter-us/2026/may/18/best-memorial-day-deals-sales"
   ],
   [
-    "california",
-    51,
-    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
-  ],
-  [
     "president",
-    44,
-    "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
+    57,
+    "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
   ],
   [
     "district",
-    44,
-    "https://www.theguardian.com/us-news/2026/may/19/ice-arrests-ban-manhattan-courts-immigration"
+    55,
+    "https://www.theguardian.com/us-news/2026/may/19/kentucky-republican-primary-trump-massie"
   ],
   [
-    "san",
-    31,
-    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
+    "gop",
+    54,
+    "https://www.theguardian.com/us-news/2026/may/18/geoff-duncan-ex-republican-georgia-democratic-primary-governor"
+  ],
+  [
+    "california",
+    52,
+    "https://www.theguardian.com/wellness/2026/may/19/pros-cons-popular-protein-sources"
+  ],
+  [
+    "republican",
+    49,
+    "https://www.nytimes.com/2026/05/19/us/politics/senate-iran-war-authorization.html"
+  ],
+  [
+    "georgia",
+    49,
+    "https://www.theguardian.com/us-news/2026/may/19/kentucky-republican-primary-trump-massie"
+  ],
+  [
+    "democratic",
+    48,
+    "https://www.theguardian.com/commentisfree/2026/may/19/pennsylvania-primary-democratic-party"
+  ],
+  [
+    "senate",
+    41,
+    "https://www.nytimes.com/2026/05/19/us/politics/senate-iran-war-authorization.html"
+  ],
+  [
+    "governor",
+    41,
+    "https://www.theguardian.com/us-news/2026/may/17/tom-steyer-billionaire-candidate-democrats"
+  ],
+  [
+    "kentucky",
+    35,
+    "https://www.nytimes.com/2026/05/19/opinion/massie-primary-trump-republicans.html"
+  ],
+  [
+    "election",
+    34,
+    "https://www.theguardian.com/commentisfree/2026/may/19/pennsylvania-primary-democratic-party"
+  ],
+  [
+    "runoff",
+    29,
+    "https://www.nytimes.com/2026/05/19/us/politics/trump-paxton-endorsement-cornyn-texas-senate.html"
   ],
   [
     "incumbent",
-    27,
+    28,
     "https://www.nytimes.com/2026/05/19/us/politics/republican-senators-trump-paxton.html"
   ],
   [
-    "iran",
+    "rep",
+    28,
+    "https://www.npr.org/2026/05/19/nx-s1-5827183/massie-gallrein-kentucky-race-results-trump"
+  ],
+  [
+    "backed",
     26,
-    "https://www.nytimes.com/2026/05/19/us/politics/pentagon-weapons-drones-iran-war-hegseth.html"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "diego",
+    "county",
     26,
-    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
-  ],
-  [
-    "texas",
-    25,
-    "https://www.nytimes.com/2026/05/19/us/politics/republican-senators-trump-paxton.html"
-  ],
-  [
-    "primary",
-    25,
-    "https://www.nytimes.com/2026/05/19/us/politics/kentucky-georgia-primary-election-midterms-massie-gallrein.html"
-  ],
-  [
-    "york",
-    25,
-    "https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html"
+    "https://www.theguardian.com/us-news/2026/may/19/san-diego-mosque-shooting-reaction"
   ],
   [
     "don",
     25,
-    "https://www.theguardian.com/commentisfree/2026/may/19/billionaires-ai-complacency-resistance"
+    "https://www.theguardian.com/commentisfree/2026/may/19/ebola-drc-needs-worlds-attention-rare-strain-congo-dangerous"
   ],
   [
-    "china",
+    "democrats",
     24,
-    "https://www.nytimes.com/2026/05/19/world/europe/putin-china-state-visit.html"
+    "https://www.nytimes.com/2026/05/19/us/politics/senate-iran-war-authorization.html"
   ],
   [
-    "police",
+    "congressional",
     24,
-    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
+    "https://www.theguardian.com/us-news/2026/may/19/kentucky-republican-primary-trump-massie"
   ],
   [
-    "family",
+    "sen",
+    24,
+    "https://www.npr.org/2026/05/19/nx-s1-5736175/trump-endorses-ken-paxton-texas-senate"
+  ],
+  [
+    "term",
     23,
+    "https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triang.html"
+  ],
+  [
+    "faces",
+    22,
+    "https://www.theguardian.com/tv-and-radio/2026/may/19/saturday-night-live-best-sketches-season-51"
+  ],
+  [
+    "court",
+    22,
+    "https://www.theguardian.com/us-news/2026/may/19/naacp-boycott-college-sports-south-voting-rights"
+  ],
+  [
+    "won",
+    21,
+    "https://www.nytimes.com/2026/05/19/us/politics/senate-iran-war-authorization.html"
+  ],
+  [
+    "massie",
+    21,
+    "https://www.nytimes.com/2026/05/19/us/politics/trump-massie-primary-takeaways.html"
+  ],
+  [
+    "general",
+    21,
+    "https://www.nytimes.com/2026/05/19/us/politics/blanche-congress-compensation-fund.html"
+  ],
+  [
+    "republicans",
+    21,
+    "https://www.nytimes.com/2026/05/19/us/politics/blanche-congress-compensation-fund.html"
+  ],
+  [
+    "fire",
+    21,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "challengers",
+    21,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
+  ],
+  [
+    "win",
+    20,
+    "https://www.nytimes.com/2026/05/19/us/politics/senate-iran-war-authorization.html"
+  ],
+  [
+    "cbs",
+    20,
+    "https://www.theguardian.com/media/2026/may/19/paramount-cbs-news-bari-weiss"
+  ],
+  [
+    "war",
+    19,
+    "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
+  ],
+  [
+    "fund",
+    19,
     "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
   ],
   [
-    "democratic",
-    23,
-    "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html"
+    "latest",
+    19,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "republican",
-    22,
+    "political",
+    19,
+    "https://www.theguardian.com/us-news/2026/may/19/ketanji-brown-jackson-supreme-court-criticism"
+  ],
+  [
+    "candidates",
+    19,
+    "https://www.latimes.com/california/story/2026-05-19/hilton-becerra-in-tightening-race-in-final-weeks-of-california-governors-campaign"
+  ],
+  [
+    "states",
+    18,
+    "https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triang.html"
+  ],
+  [
+    "york",
+    18,
+    "https://www.nytimes.com/2026/05/19/nyregion/ice-courthouse-arrest-nyc.html"
+  ],
+  [
+    "san",
+    18,
+    "https://www.nytimes.com/2026/05/19/us/san-diego-mosque-shooting-victims.html"
+  ],
+  [
+    "police",
+    18,
+    "https://www.nytimes.com/2026/05/19/us/san-diego-mosque-shooting-victims.html"
+  ],
+  [
+    "seat",
+    18,
     "https://www.nytimes.com/2026/05/19/us/politics/republican-senators-trump-paxton.html"
   ],
   [
     "country",
-    22,
-    "https://www.nytimes.com/2026/05/18/us/politics/supreme-court-political-tensions.html"
+    18,
+    "https://www.nytimes.com/2026/05/19/opinion/massie-primary-trump-republicans.html"
   ],
   [
-    "fire",
-    22,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "wins",
+    18,
+    "https://www.npr.org/2026/05/19/nx-s1-5823677/2026-booker-prize-winner-taiwan-travelogue"
   ],
   [
-    "latest",
-    22,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "iran",
+    17,
+    "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
   ],
   [
-    "election",
-    22,
+    "party",
+    17,
+    "https://www.nytimes.com/2026/05/19/opinion/massie-primary-trump-republicans.html"
+  ],
+  [
+    "china",
+    17,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "pennsylvania",
+    17,
     "https://www.theguardian.com/commentisfree/2026/may/19/pennsylvania-primary-democratic-party"
   ],
   [
-    "court",
-    21,
-    "https://www.nytimes.com/2026/05/18/us/politics/supreme-court-political-tensions.html"
+    "decision",
+    17,
+    "https://www.theguardian.com/world/ng-interactive/2026/may/19/sally-rooney-new-hebrew-translation-intermezzo"
   ],
   [
-    "faces",
-    21,
-    "https://www.theguardian.com/tv-and-radio/2026/may/19/saturday-night-live-best-sketches-season-51"
+    "replace",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/17/san-francisco-vaillancourt-fountain"
   ],
   [
-    "states",
-    20,
-    "https://www.nytimes.com/2026/05/19/us/politics/kentucky-georgia-primary-election-midterms-massie-gallrein.html"
-  ],
-  [
-    "center",
-    20,
-    "https://www.nytimes.com/2026/05/19/us/san-diego-mosque-shooting-victims.html"
-  ],
-  [
-    "county",
-    20,
-    "https://www.nytimes.com/2026/05/19/us/san-diego-mosque-cain-clark-caleb-vazquez.html"
-  ],
-  [
-    "senate",
-    20,
-    "https://www.theguardian.com/us-news/live/2026/may/19/donald-trump-primaries-midterms-republicans-kentucky-thomas-massie-pennsylvania-georgia-alabama-oregon-idaho-latest-news-updates"
-  ],
-  [
-    "war",
-    18,
-    "https://www.nytimes.com/2026/05/19/us/politics/pentagon-weapons-drones-iran-war-hegseth.html"
-  ],
-  [
-    "shooting",
-    18,
-    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
-  ],
-  [
-    "political",
-    18,
-    "https://www.nytimes.com/2026/05/19/opinion/ezra-klein-podcast-lee-drutman.html"
-  ],
-  [
-    "health",
-    18,
-    "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html"
-  ],
-  [
-    "experts",
-    18,
-    "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html"
-  ],
-  [
-    "film",
-    18,
-    "https://www.theguardian.com/film/2026/may/19/bitter-christmas-review-almodovar-cannes-film-festival"
-  ],
-  [
-    "candidates",
-    18,
-    "https://www.latimes.com/california/story/2026-05-19/hilton-becerra-in-tightening-race-in-final-weeks-of-california-governors-campaign"
+    "thomas",
+    16,
+    "https://www.nytimes.com/2026/05/19/us/politics/trump-massie-primary-takeaways.html"
   ],
   [
     "department",
-    17,
-    "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
-  ],
-  [
-    "tax",
-    17,
-    "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
-  ],
-  [
-    "season",
-    17,
-    "https://www.nytimes.com/2026/05/19/arts/television/saturday-night-live-snl-season-51-highlights.html"
-  ],
-  [
-    "company",
-    17,
-    "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html"
-  ],
-  [
-    "companies",
-    17,
-    "https://www.nytimes.com/2026/05/19/business/amazon-cargo-bikes-delivery.html"
-  ],
-  [
-    "series",
-    17,
-    "https://www.theguardian.com/tv-and-radio/2026/may/19/saturday-night-live-best-sketches-season-51"
-  ],
-  [
-    "attorney",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/19/trump-irs-settlement-tax-returns"
-  ],
-  [
-    "little",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola"
-  ],
-  [
-    "game",
-    17,
-    "https://www.theguardian.com/sport/2026/may/19/lucky-socks-family-guy-viewings-and-five-showers-a-day-the-world-of-nba-superstitions"
-  ],
-  [
-    "government",
     16,
-    "https://www.nytimes.com/2026/05/19/us/politics/reflecting-pool-trump-schutzenhofer.html"
+    "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
   ],
   [
     "night",
@@ -236,99 +281,59 @@
     "https://www.nytimes.com/2026/05/19/arts/television/saturday-night-live-snl-season-51-highlights.html"
   ],
   [
-    "mother",
+    "center",
     16,
-    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
+    "https://www.nytimes.com/2026/05/19/us/san-diego-mosque-shooting-victims.html"
   ],
   [
-    "win",
+    "health",
     16,
-    "https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html"
+    "https://www.theguardian.com/wellness/2026/may/19/pros-cons-popular-protein-sources"
   ],
   [
-    "workers",
+    "gallrein",
     16,
-    "https://www.nytimes.com/2026/05/19/nyregion/lirr-strike-contract-fallout.html"
+    "https://www.theguardian.com/us-news/2026/may/19/kentucky-republican-primary-trump-massie"
   ],
   [
-    "director",
+    "little",
     16,
-    "https://www.washingtonpost.com/nation/2026/05/19/security-guard-warned-teachers-lock-doors-san-diego-islamic-center-shooting/"
+    "https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola"
   ],
   [
-    "star",
+    "mayor",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/may/19/saturday-night-live-best-sketches-season-51"
+    "https://www.theguardian.com/us-news/2026/may/18/california-mayor-china-agent"
   ],
   [
-    "general",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/19/trump-irs-settlement-tax-returns"
-  ],
-  [
-    "cbs",
-    16,
-    "https://www.theguardian.com/media/2026/may/19/paramount-cbs-news-bari-weiss"
-  ],
-  [
-    "congressional",
-    16,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide"
-  ],
-  [
-    "fund",
+    "tax",
     15,
     "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
   ],
   [
-    "mosque",
+    "review",
     15,
-    "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
+    "https://www.nytimes.com/2026/05/19/us/politics/blanche-congress-compensation-fund.html"
   ],
   [
-    "american",
+    "series",
     15,
-    "https://www.nytimes.com/2026/05/19/us/politics/world-cup-trump-andrew-giuliani.html"
+    "https://www.nytimes.com/2026/05/19/us/politics/sean-duffy-senate-testimony.html"
   ],
   [
-    "campaign",
+    "season",
     15,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/05/19/arts/television/saturday-night-live-snl-season-51-highlights.html"
   ],
   [
-    "gop",
+    "pop",
     15,
-    "https://www.theguardian.com/us-news/live/2026/may/19/donald-trump-primaries-midterms-republicans-kentucky-thomas-massie-pennsylvania-georgia-alabama-oregon-idaho-latest-news-updates"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "place",
+    "company",
     15,
-    "https://www.theguardian.com/world/2026/may/19/trump-threatens-a-big-hit-if-tehran-does-not-make-deal-soon"
-  ],
-  [
-    "black",
-    15,
-    "https://www.theguardian.com/us-news/2026/may/19/naacp-boycott-college-sports-south-voting-rights"
-  ],
-  [
-    "children",
-    15,
-    "https://www.theguardian.com/news/2026/may/19/should-we-leave-them-to-die-the-battle-over-how-to-save-orangutans-from-the-curse-of-palm-oil"
-  ],
-  [
-    "fewer",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/may/19/the-guardian-view-on-domestic-workers-indonesia-shows-that-against-the-odds-they-are-fighting-for-their-rights"
-  ],
-  [
-    "rice",
-    15,
-    "https://www.theguardian.com/sport/2026/may/19/chiefs-rashee-rice-sent-to-jail-after-violating-probation-for-highway-racing-crash"
-  ],
-  [
-    "council",
-    15,
-    "https://www.theguardian.com/us-news/2026/may/19/new-york-hotel-workers-world-cup-union-deal"
+    "https://www.theguardian.com/us-news/2026/may/19/trump-irs-settlement-tax-returns"
   ],
   [
     "filter",
@@ -336,9 +341,19 @@
     "https://www.theguardian.com/thefilter-us/2026/may/18/best-memorial-day-deals-sales"
   ],
   [
-    "challengers",
+    "council",
     15,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
+    "https://www.theguardian.com/world/ng-interactive/2026/may/19/how-rampant-violence-nigeria-insecurity-hotspot-sahel-mapped"
+  ],
+  [
+    "projects",
+    15,
+    "https://www.latimes.com/business/story/2026-05-19/a-surge-in-nevada-data-center-construction-threatens-power-supply-for-50-000-californians"
+  ],
+  [
+    "gov",
+    15,
+    "https://www.foxnews.com/politics/trump-backed-governor-wins-gop-primary-third-term-deregulation-tax-cuts"
   ],
   [
     "justice",
@@ -346,33 +361,18 @@
     "https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html"
   ],
   [
-    "paxton",
+    "texas",
     14,
-    "https://www.nytimes.com/2026/05/19/us/politics/republican-senators-trump-paxton.html"
+    "https://www.nytimes.com/2026/05/19/us/politics/trump-paxton-endorsement-cornyn-texas-senate.html"
   ],
   [
-    "term",
+    "history",
     14,
-    "https://www.nytimes.com/2026/05/19/us/politics/republican-senators-trump-paxton.html"
+    "https://www.nytimes.com/2026/05/19/us/politics/trump-paxton-endorsement-cornyn-texas-senate.html"
   ],
   [
-    "seat",
+    "director",
     14,
-    "https://www.nytimes.com/2026/05/19/us/politics/republican-senators-trump-paxton.html"
-  ],
-  [
-    "killed",
-    14,
-    "https://www.nytimes.com/2026/05/19/us/san-diego-mosque-shooting-victims.html"
-  ],
-  [
-    "islamic",
-    14,
-    "https://www.nytimes.com/2026/05/19/us/san-diego-mosque-shooting-victims.html"
-  ],
-  [
-    "tech",
-    14,
-    "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html"
+    "https://www.washingtonpost.com/nation/2026/05/19/security-guard-warned-teachers-lock-doors-san-diego-islamic-center-shooting/"
   ]
 ];
