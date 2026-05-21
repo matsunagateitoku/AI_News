@@ -2,78 +2,108 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    116,
+    110,
     "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html"
   ],
   [
     "race",
-    65,
-    "https://www.nytimes.com/2026/05/20/us/spencer-pratt-trump.html"
+    64,
+    "https://www.theguardian.com/us-news/2026/may/20/progressive-chris-rabb-wins-pennsylvania"
   ],
   [
     "guide",
     62,
-    "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
-  ],
-  [
-    "california",
-    56,
-    "https://www.theguardian.com/us-news/2026/may/20/security-guard-san-diego-mosque-attack"
+    "https://www.nytimes.com/2026/05/21/climate/el-nino-history-famine.html"
   ],
   [
     "president",
+    57,
+    "https://www.nytimes.com/2026/05/21/us/politics/trump-fund-todd-blanche-doj.html"
+  ],
+  [
+    "california",
     53,
-    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-presidents-self-dealing.html"
+    "https://www.theguardian.com/us-news/2026/may/20/security-guard-san-diego-mosque-attack"
+  ],
+  [
+    "health",
+    43,
+    "https://www.theguardian.com/lifeandstyle/2026/may/21/how-often-should-you-go-to-the-toilet-how-can-you-get-the-better-of-wind-experts-tips-for-a-healthier-gut"
   ],
   [
     "district",
     41,
-    "https://www.theguardian.com/us-news/2026/may/20/progressive-chris-rabb-wins-pennsylvania"
-  ],
-  [
-    "health",
-    40,
-    "https://www.nytimes.com/2026/05/20/world/africa/ebola-virus-outbreak-africa.html"
-  ],
-  [
-    "faces",
-    25,
-    "https://www.nytimes.com/2026/05/21/business/china-housing-slump.html"
-  ],
-  [
-    "series",
-    25,
-    "https://www.theguardian.com/technology/2026/may/21/ai-nobel-prize-winning-discovery-robots-jack-clark-anthropic"
+    "https://www.theguardian.com/us-news/2026/may/21/bernie-sanders-backs-climate-activist-michigan-race"
   ],
   [
     "primary",
-    24,
+    31,
     "https://www.nytimes.com/2026/05/20/us/politics/trump-republicans-congress.html"
   ],
   [
-    "ebola",
-    24,
-    "https://www.nytimes.com/2026/05/20/health/ebola-congo-united-states-trump.html"
-  ],
-  [
-    "cuba",
-    22,
-    "https://www.nytimes.com/2026/05/20/us/raul-castro-cuba-doj-indictment.html"
-  ],
-  [
-    "election",
-    22,
-    "https://www.nytimes.com/2026/05/20/us/politics/colorado-governor-polis-tina-peters.html"
+    "late",
+    31,
+    "https://www.nytimes.com/2026/05/21/arts/television/stephen-colbert-late-show-ending-cbs.html"
   ],
   [
     "democratic",
-    22,
-    "https://www.nytimes.com/2026/05/20/us/politics/colorado-governor-polis-tina-peters.html"
+    28,
+    "https://www.nytimes.com/2026/05/21/us/politics/poll-democrats-midterms-house-senate.html"
+  ],
+  [
+    "film",
+    26,
+    "https://www.theguardian.com/film/2026/may/21/eagles-of-the-republic-review-tarik-saleh"
+  ],
+  [
+    "series",
+    26,
+    "https://www.theguardian.com/tv-and-radio/2026/may/21/the-boroughs-review-netflix-monster-show"
+  ],
+  [
+    "faces",
+    24,
+    "https://www.nytimes.com/2026/05/21/business/china-housing-slump.html"
   ],
   [
     "night",
+    24,
+    "https://www.theguardian.com/news/2026/may/21/the-devils-child-the-rise-and-fall-of-the-only-female-yakuza"
+  ],
+  [
+    "party",
+    23,
+    "https://www.nytimes.com/2026/05/21/us/politics/poll-democrats-midterms-house-senate.html"
+  ],
+  [
+    "election",
+    23,
+    "https://www.nytimes.com/2026/05/20/us/politics/colorado-governor-polis-tina-peters.html"
+  ],
+  [
+    "ebola",
+    23,
+    "https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health"
+  ],
+  [
+    "colbert",
     22,
-    "https://www.theguardian.com/tv-and-radio/2026/may/20/late-night-tv-says-goodbye-to-stephen-colbert"
+    "https://www.nytimes.com/2026/05/21/podcasts/the-headlines/trump-cuba-food-banks.html"
+  ],
+  [
+    "democrats",
+    22,
+    "https://www.nytimes.com/2026/05/21/us/politics/poll-democrats-midterms-house-senate.html"
+  ],
+  [
+    "san",
+    22,
+    "https://www.washingtonpost.com/nation/2026/05/21/san-diego-mosque-shooting-reveals-deadly-online-blueprint-killers/"
+  ],
+  [
+    "climate",
+    21,
+    "https://www.theguardian.com/us-news/2026/may/21/bernie-sanders-backs-climate-activist-michigan-race"
   ],
   [
     "incumbent",
@@ -81,29 +111,39 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "castro",
+    "government",
     20,
-    "https://www.nytimes.com/2026/05/20/world/americas/cuba-reaction-castro-indictment.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html"
   ],
   [
-    "country",
+    "political",
     20,
-    "https://www.nytimes.com/2026/05/20/us/politics/massie-tel-aviv-israel-republicans-democrats.html"
+    "https://www.nytimes.com/2026/05/21/us/politics/trump-fund-todd-blanche-doj.html"
   ],
   [
     "company",
     20,
-    "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html"
+    "https://www.nytimes.com/2026/05/21/business/bluesky-russia-hacking-accounts.html"
   ],
   [
-    "san",
-    20,
+    "final",
+    19,
+    "https://www.nytimes.com/2026/05/21/arts/television/stephen-colbert-late-show-ending-cbs.html"
+  ],
+  [
+    "cbs",
+    19,
+    "https://www.nytimes.com/2026/05/21/arts/television/last-late-show-stephen-colbert.html"
+  ],
+  [
+    "director",
+    19,
     "https://www.washingtonpost.com/nation/2026/05/19/security-guard-warned-teachers-lock-doors-san-diego-islamic-center-shooting/"
   ],
   [
-    "party",
+    "country",
     19,
-    "https://www.nytimes.com/2026/05/20/us/politics/senate-gop-ballroom-funds.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "far",
@@ -111,79 +151,74 @@
     "https://www.theguardian.com/us-news/video/2026/may/20/abortion-pills-mifepristone-supreme-court"
   ],
   [
-    "don",
+    "county",
     19,
-    "https://www.theguardian.com/artanddesign/2026/may/20/bride-flood-philippines-aaron-favilas-best-photograph"
+    "https://www.theguardian.com/us-news/2026/may/20/ice-watch-group-vc-defensa-raids"
   ],
   [
-    "department",
+    "campaign",
     18,
-    "https://www.nytimes.com/2026/05/20/us/politics/aircraft-carrier-caribbean-cuba-trump.html"
+    "https://www.nytimes.com/2026/05/21/podcasts/the-headlines/trump-cuba-food-banks.html"
   ],
   [
-    "democrats",
+    "stephen",
     18,
-    "https://www.nytimes.com/2026/05/20/us/spencer-pratt-trump.html"
+    "https://www.nytimes.com/2026/05/21/podcasts/the-headlines/trump-cuba-food-banks.html"
   ],
   [
-    "history",
+    "iran",
     18,
-    "https://www.theguardian.com/us-news/2026/may/20/trump-thomas-massie-kentucky-maga"
+    "https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html"
   ],
   [
-    "coffee",
+    "star",
     18,
-    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+    "https://www.nytimes.com/2026/05/20/world/australia/swimmer-david-handley-australia-fashion-week-show.html"
   ],
   [
-    "game",
+    "fire",
+    18,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "something",
+    18,
+    "https://www.theguardian.com/artanddesign/2026/may/21/taiba-akhuetie-hair-artist-rihanna-cate-blanchett"
+  ],
+  [
+    "york",
     17,
-    "https://www.nytimes.com/2026/05/20/world/asia/north-korea-soccer-south-naegohyang.html"
+    "https://www.nytimes.com/2026/05/21/us/politics/poll-democrats-midterms-house-senate.html"
   ],
   [
     "media",
     17,
-    "https://www.theguardian.com/us-news/2026/may/20/settlement-man-jailed-charlie-kirk-post"
+    "https://www.nytimes.com/2026/05/21/nyregion/mamdani-budget-social-media.html"
   ],
   [
-    "outbreak",
+    "medical",
     17,
-    "https://www.theguardian.com/commentisfree/2026/may/21/the-ebola-and-hantavirus-outbreaks-warn-us-we-must-be-better-prepared-if-we-are-to-prevent-the-next-pandemic"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "county",
+    "early",
     17,
-    "https://www.theguardian.com/us-news/2026/may/20/ice-watch-group-vc-defensa-raids"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "republican",
+    "center",
     16,
-    "https://www.nytimes.com/2026/05/20/us/spencer-pratt-trump.html"
+    "https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html"
   ],
   [
-    "film",
+    "fashion",
     16,
-    "https://www.nytimes.com/2026/05/21/opinion/cannes-hollywood-movies.html"
+    "https://www.nytimes.com/2026/05/20/world/australia/swimmer-david-handley-australia-fashion-week-show.html"
   ],
   [
-    "fewer",
+    "review",
     16,
-    "https://www.nytimes.com/2026/05/21/opinion/cannes-hollywood-movies.html"
-  ],
-  [
-    "filter",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
-  ],
-  [
-    "something",
-    16,
-    "https://www.theguardian.com/artanddesign/2026/may/21/taiba-akhuetie-hair-artist-rihanna-cate-blanchett"
-  ],
-  [
-    "anti",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/may/20/elon-musk-us-government-ai-law"
+    "https://www.theguardian.com/film/2026/may/21/eagles-of-the-republic-review-tarik-saleh"
   ],
   [
     "season",
@@ -191,9 +226,14 @@
     "https://www.theguardian.com/sport/2026/may/20/aaron-rodgers-final-season-steelers-retire"
   ],
   [
-    "government",
-    15,
-    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html"
+    "game",
+    16,
+    "https://www.theguardian.com/sport/2026/may/20/amazon-prime-nba-playoff-coverage"
+  ],
+  [
+    "los",
+    16,
+    "https://www.theguardian.com/sport/2026/may/19/should-coaches-call-out-their-teams-publicly"
   ],
   [
     "administration",
@@ -201,49 +241,59 @@
     "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html"
   ],
   [
-    "latest",
+    "cuba",
     15,
-    "https://www.nytimes.com/2026/05/20/us/politics/massie-tel-aviv-israel-republicans-democrats.html"
+    "https://www.nytimes.com/2026/05/21/podcasts/the-headlines/trump-cuba-food-banks.html"
   ],
   [
-    "fight",
+    "republican",
     15,
-    "https://www.nytimes.com/2026/05/20/us/politics/massie-tel-aviv-israel-republicans-democrats.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/trump-republicans-congress.html"
   ],
   [
-    "medical",
+    "castro",
     15,
-    "https://www.nytimes.com/2026/05/20/health/ebola-congo-united-states-trump.html"
+    "https://www.nytimes.com/2026/05/20/world/americas/cuba-reaction-castro-indictment.html"
   ],
   [
-    "rights",
+    "global",
     15,
-    "https://www.nytimes.com/2026/05/20/realestate/return-to-the-land-discrimination-lawsuit.html"
+    "https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html"
   ],
   [
-    "south",
+    "online",
     15,
-    "https://www.nytimes.com/2026/05/20/world/asia/north-korea-soccer-south-naegohyang.html"
+    "https://www.nytimes.com/2026/05/21/nyregion/mamdani-budget-social-media.html"
   ],
   [
-    "late",
+    "diego",
     15,
-    "https://www.theguardian.com/tv-and-radio/2026/may/20/late-night-tv-says-goodbye-to-stephen-colbert"
+    "https://www.washingtonpost.com/nation/2026/05/21/san-diego-mosque-shooting-reveals-deadly-online-blueprint-killers/"
   ],
   [
-    "cbs",
+    "video",
     15,
-    "https://www.theguardian.com/tv-and-radio/2026/may/20/late-night-tv-says-goodbye-to-stephen-colbert"
+    "https://www.washingtonpost.com/nation/2026/05/21/san-diego-mosque-shooting-reveals-deadly-online-blueprint-killers/"
   ],
   [
-    "fashion",
+    "donald",
     15,
-    "https://www.theguardian.com/commentisfree/2026/may/20/john-travolta-cannes-festival-beret-glasses-new-look"
+    "https://www.theguardian.com/world/2026/may/21/trump-taiwan-president-china-relations"
   ],
   [
-    "candidates",
+    "security",
     15,
-    "https://www.latimes.com/california/story/2024-08-09/california-governor-2026-candidates-newsom-atkins-kounalakis-thurmond-villaraigosa-yee"
+    "https://www.theguardian.com/world/2026/may/20/israeli-security-minister-itamar-ben-gvir-stirs-diplomatic-outrage-with-flotilla-activist-abuse-video"
+  ],
+  [
+    "outbreak",
+    15,
+    "https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health"
+  ],
+  [
+    "don",
+    15,
+    "https://www.theguardian.com/sport/2026/may/19/should-coaches-call-out-their-teams-publicly"
   ],
   [
     "challengers",
@@ -251,128 +301,78 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
+    "gop",
+    15,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
+  ],
+  [
     "charges",
     14,
     "https://www.nytimes.com/2026/05/20/us/raul-castro-cuba-doj-indictment.html"
   ],
   [
-    "children",
+    "emergency",
     14,
-    "https://www.nytimes.com/2026/05/20/business/economy/1991-graduates-job-hunting-advice-children.html"
+    "https://www.nytimes.com/2026/05/21/us/new-mexico-substance-exposure-deaths.html"
   ],
   [
-    "security",
+    "latest",
     14,
-    "https://www.nytimes.com/2026/05/20/travel/tsa-airport-security.html"
+    "https://www.washingtonpost.com/nation/2026/05/21/san-diego-mosque-shooting-reveals-deadly-online-blueprint-killers/"
   ],
   [
-    "director",
-    14,
-    "https://www.washingtonpost.com/nation/2026/05/19/security-guard-warned-teachers-lock-doors-san-diego-islamic-center-shooting/"
-  ],
-  [
-    "early",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "bath",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
-  ],
-  [
-    "weekly",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
-  ],
-  [
-    "buying",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.theguardian.com/world/2026/may/20/venezuela-hotel-us-takeover"
-  ],
-  [
-    "video",
-    14,
-    "https://www.theguardian.com/world/2026/may/20/israeli-security-minister-itamar-ben-gvir-stirs-diplomatic-outrage-with-flotilla-activist-abuse-video"
-  ],
-  [
-    "online",
+    "death",
     14,
     "https://www.theguardian.com/us-news/2026/may/20/settlement-man-jailed-charlie-kirk-post"
   ],
   [
-    "general",
+    "book",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/may/21/how-often-should-you-go-to-the-toilet-how-can-you-get-the-better-of-wind-experts-tips-for-a-healthier-gut"
+    "https://www.theguardian.com/travel/2026/may/21/weird-britain-10-oddities-to-visit"
   ],
   [
-    "love",
+    "angeles",
     14,
-    "https://www.theguardian.com/uk-news/2026/may/20/meghan-markle-anniversary-candle"
+    "https://www.theguardian.com/sport/2026/may/19/should-coaches-call-out-their-teams-publicly"
   ],
   [
-    "ukraine",
+    "senate",
     14,
-    "https://www.theguardian.com/world/2026/may/21/ukraine-war-briefing-fresh-threat-of-attack-from-belarus-front-warns-zelenskyy"
+    "https://www.foxnews.com/politics/top-off-the-wall-reddit-posts-haunting-graham-platners-maine-senate-bid"
   ],
   [
-    "driving",
-    14,
-    "https://www.theguardian.com/games/2026/may/20/pushing-buttons-forza-horizon-6"
-  ],
-  [
-    "fund",
+    "anti",
     13,
-    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html"
-  ],
-  [
-    "police",
-    13,
-    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-officers-lawsuit-trump-fund.html"
-  ],
-  [
-    "campaign",
-    13,
-    "https://www.nytimes.com/2026/05/20/us/raul-castro-cuba-doj-indictment.html"
-  ],
-  [
-    "southern",
-    13,
-    "https://www.nytimes.com/2026/05/20/us/politics/aircraft-carrier-caribbean-cuba-trump.html"
-  ],
-  [
-    "russian",
-    13,
-    "https://www.nytimes.com/2026/05/20/world/asia/china-putin-trump-russia-xi.html"
+    "https://www.nytimes.com/2026/05/21/us/politics/poll-democrats-midterms-house-senate.html"
   ],
   [
     "post",
     13,
-    "https://www.nytimes.com/2026/05/20/business/media/jeff-bezos-trump-washington-post.html"
+    "https://www.nytimes.com/2026/05/21/business/bluesky-russia-hacking-accounts.html"
   ],
   [
-    "recent",
+    "market",
     13,
-    "https://www.nytimes.com/2026/05/20/business/nvidia-earnings.html"
+    "https://www.nytimes.com/2026/05/21/business/china-housing-slump.html"
   ],
   [
-    "members",
+    "history",
     13,
-    "https://www.nytimes.com/2026/05/20/realestate/return-to-the-land-discrimination-lawsuit.html"
+    "https://www.nytimes.com/2026/05/21/climate/el-nino-history-famine.html"
   ],
   [
-    "diego",
+    "human",
     13,
-    "https://www.washingtonpost.com/nation/2026/05/19/security-guard-warned-teachers-lock-doors-san-diego-islamic-center-shooting/"
+    "https://www.nytimes.com/2026/05/21/climate/el-nino-history-famine.html"
   ],
   [
-    "air",
+    "won",
     13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.nytimes.com/2026/05/20/books/ai-fiction-contest-granta.html"
+  ],
+  [
+    "led",
+    13,
+    "https://www.washingtonpost.com/obituaries/2026/05/20/barney-frank-influential-congressman-gay-rights-hero-dies-86/"
   ]
 ];
