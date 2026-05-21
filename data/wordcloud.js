@@ -2,223 +2,173 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    104,
-    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-legal-questions.html"
+    116,
+    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html"
   ],
   [
     "race",
-    66,
-    "https://www.theguardian.com/us-news/2026/may/20/progressive-chris-rabb-wins-pennsylvania"
+    65,
+    "https://www.nytimes.com/2026/05/20/us/spencer-pratt-trump.html"
   ],
   [
     "guide",
-    60,
+    62,
     "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
   ],
   [
-    "president",
-    58,
-    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-legal-questions.html"
-  ],
-  [
     "california",
-    55,
+    56,
     "https://www.theguardian.com/us-news/2026/may/20/security-guard-san-diego-mosque-attack"
   ],
   [
+    "president",
+    53,
+    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-presidents-self-dealing.html"
+  ],
+  [
     "district",
-    42,
+    41,
     "https://www.theguardian.com/us-news/2026/may/20/progressive-chris-rabb-wins-pennsylvania"
   ],
   [
     "health",
-    33,
-    "https://www.nytimes.com/2026/05/20/well/rfk-jr-firings-preventative-services-task-force.html"
-  ],
-  [
-    "primary",
-    29,
-    "https://www.nytimes.com/2026/05/20/us/politics/trump-republicans-congress.html"
-  ],
-  [
-    "castro",
-    25,
-    "https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html"
-  ],
-  [
-    "democratic",
-    23,
-    "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html"
-  ],
-  [
-    "incumbent",
-    23,
-    "https://www.nytimes.com/2026/05/20/us/politics/house-primaries-trump-ocasio-cortez.html"
+    40,
+    "https://www.nytimes.com/2026/05/20/world/africa/ebola-virus-outbreak-africa.html"
   ],
   [
     "faces",
-    22,
-    "https://www.theguardian.com/world/2026/may/20/canada-plasma-death"
+    25,
+    "https://www.nytimes.com/2026/05/21/business/china-housing-slump.html"
   ],
   [
-    "fund",
-    21,
-    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-legal-questions.html"
+    "series",
+    25,
+    "https://www.theguardian.com/technology/2026/may/21/ai-nobel-prize-winning-discovery-robots-jack-clark-anthropic"
+  ],
+  [
+    "primary",
+    24,
+    "https://www.nytimes.com/2026/05/20/us/politics/trump-republicans-congress.html"
+  ],
+  [
+    "ebola",
+    24,
+    "https://www.nytimes.com/2026/05/20/health/ebola-congo-united-states-trump.html"
+  ],
+  [
+    "cuba",
+    22,
+    "https://www.nytimes.com/2026/05/20/us/raul-castro-cuba-doj-indictment.html"
   ],
   [
     "election",
-    21,
-    "https://www.nytimes.com/2026/05/20/us/politics/housing-bill-house-senate-trump.html"
+    22,
+    "https://www.nytimes.com/2026/05/20/us/politics/colorado-governor-polis-tina-peters.html"
   ],
   [
-    "cuban",
-    21,
-    "https://www.theguardian.com/world/2026/may/20/cuba-raul-castro-indictment"
+    "democratic",
+    22,
+    "https://www.nytimes.com/2026/05/20/us/politics/colorado-governor-polis-tina-peters.html"
   ],
   [
-    "department",
+    "night",
+    22,
+    "https://www.theguardian.com/tv-and-radio/2026/may/20/late-night-tv-says-goodbye-to-stephen-colbert"
+  ],
+  [
+    "incumbent",
+    21,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
+  ],
+  [
+    "castro",
     20,
-    "https://www.nytimes.com/2026/05/20/us/politics/prosecutor-charged-trump-documents-case.html"
+    "https://www.nytimes.com/2026/05/20/world/americas/cuba-reaction-castro-indictment.html"
+  ],
+  [
+    "country",
+    20,
+    "https://www.nytimes.com/2026/05/20/us/politics/massie-tel-aviv-israel-republicans-democrats.html"
+  ],
+  [
+    "company",
+    20,
+    "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html"
   ],
   [
     "san",
     20,
-    "https://www.nytimes.com/2026/05/20/us/san-diego-islamophobia-violence.html"
+    "https://www.washingtonpost.com/nation/2026/05/19/security-guard-warned-teachers-lock-doors-san-diego-islamic-center-shooting/"
   ],
   [
-    "night",
-    20,
-    "https://www.theguardian.com/tv-and-radio/2026/may/20/late-night-tv-says-goodbye-to-stephen-colbert"
-  ],
-  [
-    "don",
-    20,
-    "https://www.theguardian.com/lifeandstyle/2026/may/20/i-dont-worry-about-a-robot-takeover-ai-expert-michael-wooldridge-on-big-techs-real-dangers-and-occasional-blessings"
-  ],
-  [
-    "game",
-    20,
-    "https://www.theguardian.com/lifeandstyle/2026/may/20/i-dont-worry-about-a-robot-takeover-ai-expert-michael-wooldridge-on-big-techs-real-dangers-and-occasional-blessings"
-  ],
-  [
-    "series",
-    20,
-    "https://www.theguardian.com/lifeandstyle/2026/may/20/i-dont-worry-about-a-robot-takeover-ai-expert-michael-wooldridge-on-big-techs-real-dangers-and-occasional-blessings"
-  ],
-  [
-    "season",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/may/20/france-pessimistic-doomed-far-right-rule-national-rally-president-2027"
-  ],
-  [
-    "latest",
+    "party",
     19,
-    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
-  ],
-  [
-    "country",
-    19,
-    "https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html"
-  ],
-  [
-    "post",
-    19,
-    "https://www.nytimes.com/2026/05/20/business/media/jeff-bezos-trump-washington-post.html"
-  ],
-  [
-    "company",
-    19,
-    "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html"
-  ],
-  [
-    "final",
-    19,
-    "https://www.nytimes.com/2026/05/20/arts/music/eurovision-poland-israel-ukraine.html"
-  ],
-  [
-    "coffee",
-    19,
-    "https://www.theguardian.com/business/2026/may/20/starbucks-plastic-cups-recycling-report"
-  ],
-  [
-    "police",
-    18,
-    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-officers-lawsuit-trump-fund.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/senate-gop-ballroom-funds.html"
   ],
   [
     "far",
-    18,
-    "https://www.theguardian.com/world/2026/may/20/israeli-security-minister-itamar-ben-gvir-stirs-diplomatic-outrage-with-flotilla-activist-abuse-video"
+    19,
+    "https://www.theguardian.com/us-news/video/2026/may/20/abortion-pills-mifepristone-supreme-court"
   ],
   [
-    "death",
-    18,
-    "https://www.theguardian.com/us-news/2026/may/20/settlement-man-jailed-charlie-kirk-post"
+    "don",
+    19,
+    "https://www.theguardian.com/artanddesign/2026/may/20/bride-flood-philippines-aaron-favilas-best-photograph"
   ],
   [
-    "county",
+    "department",
     18,
-    "https://www.theguardian.com/us-news/2026/may/20/ice-watch-group-vc-defensa-raids"
+    "https://www.nytimes.com/2026/05/20/us/politics/aircraft-carrier-caribbean-cuba-trump.html"
   ],
   [
-    "york",
+    "democrats",
+    18,
+    "https://www.nytimes.com/2026/05/20/us/spencer-pratt-trump.html"
+  ],
+  [
+    "history",
+    18,
+    "https://www.theguardian.com/us-news/2026/may/20/trump-thomas-massie-kentucky-maga"
+  ],
+  [
+    "coffee",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals"
+  ],
+  [
+    "game",
     17,
-    "https://www.nytimes.com/2026/05/20/business/economy/1991-graduates-job-hunting-advice-children.html"
+    "https://www.nytimes.com/2026/05/20/world/asia/north-korea-soccer-south-naegohyang.html"
   ],
   [
     "media",
     17,
-    "https://www.nytimes.com/2026/05/20/business/media/vox-media-james-murdoch-sale.html"
+    "https://www.theguardian.com/us-news/2026/may/20/settlement-man-jailed-charlie-kirk-post"
   ],
   [
-    "anti",
+    "outbreak",
     17,
-    "https://www.nytimes.com/2026/05/20/opinion/e-jean-carroll-documentary-trump.html"
+    "https://www.theguardian.com/commentisfree/2026/may/21/the-ebola-and-hantavirus-outbreaks-warn-us-we-must-be-better-prepared-if-we-are-to-prevent-the-next-pandemic"
   ],
   [
-    "government",
-    16,
-    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
+    "county",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/20/ice-watch-group-vc-defensa-raids"
   ],
   [
-    "history",
+    "republican",
     16,
-    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html"
+    "https://www.nytimes.com/2026/05/20/us/spencer-pratt-trump.html"
   ],
   [
-    "video",
+    "film",
     16,
-    "https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html"
+    "https://www.nytimes.com/2026/05/21/opinion/cannes-hollywood-movies.html"
   ],
   [
-    "leader",
+    "fewer",
     16,
-    "https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html"
-  ],
-  [
-    "candidates",
-    16,
-    "https://www.nytimes.com/2026/05/20/us/politics/house-primaries-trump-ocasio-cortez.html"
-  ],
-  [
-    "political",
-    16,
-    "https://www.nytimes.com/2026/05/20/us/politics/trump-republicans-primaries-revenge.html"
-  ],
-  [
-    "buying",
-    16,
-    "https://www.nytimes.com/2026/05/20/business/media/vox-media-james-murdoch-sale.html"
-  ],
-  [
-    "review",
-    16,
-    "https://www.nytimes.com/2026/05/19/books/review/dangerous-dirty-violent-and-young-zayd-ayers-dohrn.html"
-  ],
-  [
-    "questions",
-    16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/05/21/opinion/cannes-hollywood-movies.html"
   ],
   [
     "filter",
@@ -228,27 +178,52 @@
   [
     "something",
     16,
-    "https://www.theguardian.com/us-news/2026/may/20/epstein-files-reading-room"
+    "https://www.theguardian.com/artanddesign/2026/may/21/taiba-akhuetie-hair-artist-rihanna-cate-blanchett"
   ],
   [
-    "early",
-    15,
-    "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
+    "anti",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/may/20/elon-musk-us-government-ai-law"
   ],
   [
-    "iran",
-    15,
-    "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
+    "season",
+    16,
+    "https://www.theguardian.com/sport/2026/may/20/aaron-rodgers-final-season-steelers-retire"
   ],
   [
-    "frank",
+    "government",
     15,
-    "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html"
   ],
   [
-    "justice",
+    "administration",
     15,
-    "https://www.nytimes.com/2026/05/20/us/politics/prosecutor-charged-trump-documents-case.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html"
+  ],
+  [
+    "latest",
+    15,
+    "https://www.nytimes.com/2026/05/20/us/politics/massie-tel-aviv-israel-republicans-democrats.html"
+  ],
+  [
+    "fight",
+    15,
+    "https://www.nytimes.com/2026/05/20/us/politics/massie-tel-aviv-israel-republicans-democrats.html"
+  ],
+  [
+    "medical",
+    15,
+    "https://www.nytimes.com/2026/05/20/health/ebola-congo-united-states-trump.html"
+  ],
+  [
+    "rights",
+    15,
+    "https://www.nytimes.com/2026/05/20/realestate/return-to-the-land-discrimination-lawsuit.html"
+  ],
+  [
+    "south",
+    15,
+    "https://www.nytimes.com/2026/05/20/world/asia/north-korea-soccer-south-naegohyang.html"
   ],
   [
     "late",
@@ -256,9 +231,9 @@
     "https://www.theguardian.com/tv-and-radio/2026/may/20/late-night-tv-says-goodbye-to-stephen-colbert"
   ],
   [
-    "donald",
+    "cbs",
     15,
-    "https://www.theguardian.com/world/2026/may/20/venezuela-hotel-us-takeover"
+    "https://www.theguardian.com/tv-and-radio/2026/may/20/late-night-tv-says-goodbye-to-stephen-colbert"
   ],
   [
     "fashion",
@@ -266,9 +241,9 @@
     "https://www.theguardian.com/commentisfree/2026/may/20/john-travolta-cannes-festival-beret-glasses-new-look"
   ],
   [
-    "council",
+    "candidates",
     15,
-    "https://www.theguardian.com/us-news/2026/may/20/georgia-mayor-who-fired-entire-police-force-resigns"
+    "https://www.latimes.com/california/story/2024-08-09/california-governor-2026-candidates-newsom-atkins-kounalakis-thurmond-villaraigosa-yee"
   ],
   [
     "challengers",
@@ -276,44 +251,29 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "gop",
-    15,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
+    "charges",
+    14,
+    "https://www.nytimes.com/2026/05/20/us/raul-castro-cuba-doj-indictment.html"
   ],
   [
-    "administration",
+    "children",
     14,
-    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-officers-lawsuit-trump-fund.html"
+    "https://www.nytimes.com/2026/05/20/business/economy/1991-graduates-job-hunting-advice-children.html"
   ],
   [
-    "israeli",
+    "security",
     14,
-    "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
+    "https://www.nytimes.com/2026/05/20/travel/tsa-airport-security.html"
   ],
   [
-    "diego",
+    "director",
     14,
-    "https://www.nytimes.com/2026/05/20/us/san-diego-islamophobia-violence.html"
+    "https://www.washingtonpost.com/nation/2026/05/19/security-guard-warned-teachers-lock-doors-san-diego-islamic-center-shooting/"
   ],
   [
-    "ebola",
+    "early",
     14,
-    "https://www.nytimes.com/2026/05/20/world/africa/ebola-congo-tedros-rubio.html"
-  ],
-  [
-    "members",
-    14,
-    "https://www.nytimes.com/2026/05/20/realestate/return-to-the-land-discrimination-lawsuit.html"
-  ],
-  [
-    "court",
-    14,
-    "https://www.nytimes.com/2025/08/19/realestate/arkansas-white-housing-return-to-land.html"
-  ],
-  [
-    "fire",
-    14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "bath",
@@ -326,53 +286,93 @@
     "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
   ],
   [
-    "texas",
+    "buying",
     14,
-    "https://www.theguardian.com/technology/2026/may/20/tesla-cybertruck-texas-lake-wade-mode"
+    "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet"
   ],
   [
-    "congressional",
+    "donald",
     14,
-    "https://www.theguardian.com/us-news/2026/may/20/progressive-chris-rabb-wins-pennsylvania"
+    "https://www.theguardian.com/world/2026/may/20/venezuela-hotel-us-takeover"
+  ],
+  [
+    "video",
+    14,
+    "https://www.theguardian.com/world/2026/may/20/israeli-security-minister-itamar-ben-gvir-stirs-diplomatic-outrage-with-flotilla-activist-abuse-video"
+  ],
+  [
+    "online",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/20/settlement-man-jailed-charlie-kirk-post"
+  ],
+  [
+    "general",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/may/21/how-often-should-you-go-to-the-toilet-how-can-you-get-the-better-of-wind-experts-tips-for-a-healthier-gut"
   ],
   [
     "love",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/may/20/i-dont-worry-about-a-robot-takeover-ai-expert-michael-wooldridge-on-big-techs-real-dangers-and-occasional-blessings"
+    "https://www.theguardian.com/uk-news/2026/may/20/meghan-markle-anniversary-candle"
   ],
   [
-    "rice",
+    "ukraine",
     14,
-    "https://www.theguardian.com/film/2026/may/20/romcom-sociopath-finding-emily-you-me-and-tuscany"
+    "https://www.theguardian.com/world/2026/may/21/ukraine-war-briefing-fresh-threat-of-attack-from-belarus-front-warns-zelenskyy"
   ],
   [
-    "senate",
+    "driving",
     14,
-    "https://www.foxnews.com/politics/trump-roasts-dem-candidate-unelectable-cardinal-sin-texas"
+    "https://www.theguardian.com/games/2026/may/20/pushing-buttons-forza-horizon-6"
   ],
   [
-    "cuba",
+    "fund",
     13,
-    "https://www.nytimes.com/2026/05/20/world/americas/guzman-cuba-us-negotiations-trump.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html"
   ],
   [
-    "war",
+    "police",
     13,
-    "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/jan-6-officers-lawsuit-trump-fund.html"
   ],
   [
-    "republican",
+    "campaign",
     13,
-    "https://www.nytimes.com/2026/05/20/us/politics/housing-bill-house-senate-trump.html"
+    "https://www.nytimes.com/2026/05/20/us/raul-castro-cuba-doj-indictment.html"
   ],
   [
-    "records",
+    "southern",
     13,
-    "https://www.nytimes.com/2026/05/20/us/politics/prosecutor-charged-trump-documents-case.html"
+    "https://www.nytimes.com/2026/05/20/us/politics/aircraft-carrier-caribbean-cuba-trump.html"
   ],
   [
-    "term",
+    "russian",
+    13,
+    "https://www.nytimes.com/2026/05/20/world/asia/china-putin-trump-russia-xi.html"
+  ],
+  [
+    "post",
     13,
     "https://www.nytimes.com/2026/05/20/business/media/jeff-bezos-trump-washington-post.html"
+  ],
+  [
+    "recent",
+    13,
+    "https://www.nytimes.com/2026/05/20/business/nvidia-earnings.html"
+  ],
+  [
+    "members",
+    13,
+    "https://www.nytimes.com/2026/05/20/realestate/return-to-the-land-discrimination-lawsuit.html"
+  ],
+  [
+    "diego",
+    13,
+    "https://www.washingtonpost.com/nation/2026/05/19/security-guard-warned-teachers-lock-doors-san-diego-islamic-center-shooting/"
+  ],
+  [
+    "air",
+    13,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ]
 ];

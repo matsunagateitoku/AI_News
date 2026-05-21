@@ -2,9 +2,9 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "The Argentinian World Cup",
-      "count": 4,
-      "url": "https://www.theguardian.com/football/live/2026/may/20/freiburg-v-aston-villa-europa-league-final-live",
+      "name": "World Cup",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/2026/may/20/world-cup-pricing-fan-friendly-atlanta-kansas-city-philadelphia",
       "source": "The Guardian"
     },
     {
@@ -14,27 +14,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "Cuban Independence Day",
-      "count": 2,
-      "url": "https://thehill.com/homenews/administration/5887942-trump-cuban-independence-day/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Early War Goal",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html",
-      "source": "NY Times"
-    },
-    {
       "name": "World Press Freedom Day",
       "count": 1,
       "url": "https://www.theguardian.com/membership/2026/may/20/we-cant-talk-about-press-freedom-without-talking-about-misogyny",
-      "source": "The Guardian"
-    },
-    {
-      "name": "European Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/live/2026/may/20/freiburg-v-aston-villa-europa-league-final-live",
       "source": "The Guardian"
     },
     {
@@ -60,112 +42,106 @@
       "count": 1,
       "url": "https://www.latimes.com/travel/story/2026-05-12/5-moments-in-history-that-still-echo-along-route-66",
       "source": "LA Times"
+    },
+    {
+      "name": "Season 2",
+      "count": 1,
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-05-19/harry-potter-tv-show-recasting-gracie-cochrane-ginny-weasley",
+      "source": "LA Times"
+    },
+    {
+      "name": "The Hollywood Bowl",
+      "count": 1,
+      "url": "https://www.latimes.com/delos/story/2026-04-28/marcello-hernandez-interview-netflix-is-a-joke-fest-feid-hollywood-bowl",
+      "source": "LA Times"
     }
   ],
-  "ORG": [
+  "GPE": [
     {
-      "name": "Target For Trump",
-      "count": 60,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Us",
+      "count": 66,
+      "url": "https://www.theguardian.com/us-news/video/2026/may/20/abortion-pills-mifepristone-supreme-court",
+      "source": "The Guardian"
     },
     {
-      "name": "Ai",
-      "count": 15,
-      "url": "https://www.washingtonpost.com/investigations/2026/05/18/we-trained-ai-watch-sports-find-gambling-ads-heres-how-we-did-it/",
-      "source": "Washington Post"
+      "name": "California",
+      "count": 43,
+      "url": "https://www.theguardian.com/us-news/2026/may/20/security-guard-san-diego-mosque-attack",
+      "source": "The Guardian"
     },
     {
-      "name": "Gop",
-      "count": 15,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
+      "name": "U.S.",
+      "count": 30,
+      "url": "https://www.nytimes.com/2026/05/20/world/americas/cuba-reaction-castro-indictment.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Cuba",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/05/20/us/raul-castro-cuba-doj-indictment.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 18,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "The Filter Us",
+      "name": "Ukraine",
       "count": 14,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "url": "https://www.theguardian.com/world/2026/may/21/ukraine-war-briefing-fresh-threat-of-attack-from-belarus-front-warns-zelenskyy",
       "source": "The Guardian"
     },
     {
-      "name": "Us Congress",
+      "name": "Russia",
+      "count": 13,
+      "url": "https://www.theguardian.com/world/2026/may/21/ukraine-war-briefing-fresh-threat-of-attack-from-belarus-front-warns-zelenskyy",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 13,
+      "url": "https://www.theguardian.com/world/2026/may/21/ukraine-war-briefing-fresh-threat-of-attack-from-belarus-front-warns-zelenskyy",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Democratic Republic Of Congo",
+      "count": 13,
+      "url": "https://thehill.com/policy/international/5888428-who-rebuffs-rubio-ebola-claims/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Israel",
       "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/may/20/barney-frank-dead",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Amazon     Continue",
-      "count": 11,
-      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian Australia'S",
-      "count": 10,
-      "url": "https://www.theguardian.com/global/video/2026/may/20/real-or-ai-can-a-photographer-and-internet-addict-spot-fake-portraits-video",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The L.A. City Council",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-20/la-democratic-socialists-look-to-boost-their-clout-in-city-hall",
-      "source": "LA Times"
-    },
-    {
-      "name": "The California Congressional District",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Nfl",
-      "count": 9,
-      "url": "https://www.theguardian.com/sport/2026/may/20/aaron-rodgers-final-season-steelers-retire",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/05/20/us/politics/massie-tel-aviv-israel-republicans-democrats.html",
+      "source": "NY Times"
     }
   ],
   "PERSON": [
     {
-      "name": "Raúl Castro",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html",
+      "name": "Hosting Trump",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/05/20/world/asia/china-putin-trump-russia-xi.html",
       "source": "NY Times"
     },
     {
-      "name": "Donald Trump",
-      "count": 20,
-      "url": "https://www.theguardian.com/world/2026/may/20/venezuela-hotel-us-takeover",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump ’S",
+      "name": "The Raúl Castro",
       "count": 15,
-      "url": "https://www.theguardian.com/culture/2026/may/20/jimmy-kimmel-trump-irs-settlement",
-      "source": "The Guardian"
+      "url": "https://thehill.com/policy/international/5888303-castro-indictment-cuba-crisis-trump/",
+      "source": "The Hill"
     },
     {
-      "name": "Jeff Bezos",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/05/20/business/media/jeff-bezos-trump-washington-post.html",
-      "source": "NY Times"
+      "name": "Donald Trump Jr.",
+      "count": 13,
+      "url": "https://www.nbcnews.com/news/us-news/vanessa-trump-breast-cancer-diagnosis-rcna346232",
+      "source": "NBC News"
     },
     {
-      "name": "Aaron Rodgers",
+      "name": "Noah Wyle",
       "count": 10,
-      "url": "https://www.theguardian.com/sport/2026/may/20/aaron-rodgers-final-season-steelers-retire",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Barney Frank",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Charlie Kirk",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/may/20/settlement-man-jailed-charlie-kirk-post",
-      "source": "The Guardian"
+      "url": "https://www.cbsnews.com/video/noah-wyle-on-his-push-to-help-healthcare-workers/",
+      "source": "CBS News"
     },
     {
       "name": "Shakespeare",
@@ -184,69 +160,87 @@
       "count": 6,
       "url": "https://www.theguardian.com/games/2026/may/20/pushing-buttons-forza-horizon-6",
       "source": "The Guardian"
+    },
+    {
+      "name": "Todd Blanche",
+      "count": 6,
+      "url": "https://www.nbcnews.com/video/acting-attorney-general-todd-blanche-defends-castro-indictment-263692869760",
+      "source": "NBC News"
+    },
+    {
+      "name": "Charlie Kirk",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/may/20/settlement-man-jailed-charlie-kirk-post",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kylie Minogue",
+      "count": 5,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/20/kylie-minogue-netflix-documentary",
+      "source": "The Guardian"
     }
   ],
-  "GPE": [
+  "ORG": [
     {
-      "name": "Us",
-      "count": 59,
-      "url": "https://www.theguardian.com/thefilter-us/2026/may/20/american-soft-linen-oversized-bath-sheet",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 44,
-      "url": "https://www.theguardian.com/us-news/2026/may/20/security-guard-san-diego-mosque-attack",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html",
+      "name": "Trump Escalates Pressure Campaign Against Cuba",
+      "count": 61,
+      "url": "https://www.nytimes.com/2026/05/20/us/raul-castro-cuba-doj-indictment.html",
       "source": "NY Times"
     },
     {
-      "name": "Cuba",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/05/20/world/americas/guzman-cuba-us-negotiations-trump.html",
-      "source": "NY Times"
+      "name": "Ai",
+      "count": 25,
+      "url": "https://www.washingtonpost.com/investigations/2026/05/18/we-trained-ai-watch-sports-find-gambling-ads-heres-how-we-did-it/",
+      "source": "Washington Post"
     },
     {
-      "name": "L.A. County'S",
-      "count": 18,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "name": "The Filter Us",
+      "count": 14,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 13,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Iran",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html",
-      "source": "NY Times"
+      "name": "The California Congressional District",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
+      "source": "LA Times"
     },
     {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/2026/may/20/israeli-security-minister-itamar-ben-gvir-stirs-diplomatic-outrage-with-flotilla-activist-abuse-video",
+      "name": "Amazon     Continue",
+      "count": 9,
+      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
       "source": "The Guardian"
     },
     {
-      "name": "Texas",
-      "count": 11,
-      "url": "https://www.theguardian.com/technology/2026/may/20/tesla-cybertruck-texas-lake-wade-mode",
-      "source": "The Guardian"
+      "name": "The L.A. City Council",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
+      "source": "LA Times"
     },
     {
-      "name": "Kentucky",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/05/20/us/politics/house-primaries-trump-ocasio-cortez.html",
+      "name": "Congress",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/05/20/us/politics/trump-republicans-congress.html",
       "source": "NY Times"
     },
     {
-      "name": "Israel",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
+      "name": "Cbs Evening News",
+      "count": 8,
+      "url": "https://www.cbsnews.com/video/052026-cbs-evening-news/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Louisiana Senate",
+      "count": 8,
+      "url": "https://www.politico.com/news/2026/05/16/cassidy-louisiana-senate-race-trump-00924872",
+      "source": "Politico"
     }
   ],
-  "updated": "2026-05-20T21:01:04Z"
+  "updated": "2026-05-21T05:12:19Z"
 };
