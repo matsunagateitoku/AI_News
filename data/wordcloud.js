@@ -2,53 +2,53 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    104,
+    95,
     "https://www.nytimes.com/2026/05/21/us/politics/trump-fund-todd-blanche-doj.html"
   ],
   [
     "race",
-    66,
+    69,
     "https://www.nytimes.com/2026/05/21/us/spencer-pratt-ai-videos.html"
   ],
   [
     "guide",
-    63,
+    64,
     "https://www.nytimes.com/2026/05/21/climate/el-nino-history-famine.html"
   ],
   [
-    "california",
-    46,
-    "https://www.theguardian.com/us-news/2026/may/21/los-angeles-baywatch-film-mayor-race"
-  ],
-  [
-    "district",
-    42,
-    "https://www.theguardian.com/film/2026/may/21/shia-labeouf-battery-charges-new-orleans"
-  ],
-  [
     "president",
-    34,
+    46,
     "https://www.nytimes.com/2026/05/21/us/politics/trump-fund-todd-blanche-doj.html"
   ],
   [
-    "democratic",
-    30,
+    "district",
+    41,
+    "https://www.theguardian.com/film/2026/may/21/shia-labeouf-battery-charges-new-orleans"
+  ],
+  [
+    "california",
+    39,
+    "https://www.theguardian.com/us-news/2026/may/21/los-angeles-baywatch-film-mayor-race"
+  ],
+  [
+    "party",
+    34,
     "https://www.nytimes.com/2026/05/21/us/politics/poll-democrats-midterms-house-senate.html"
   ],
   [
     "election",
-    29,
-    "https://www.theguardian.com/us-news/2026/may/21/los-angeles-baywatch-film-mayor-race"
+    34,
+    "https://www.theguardian.com/us-news/2026/may/21/democrats-2024-election-autopsy"
   ],
   [
-    "late",
-    28,
-    "https://www.nytimes.com/2026/05/21/arts/television/stephen-colbert-late-show-ending-cbs.html"
+    "democratic",
+    31,
+    "https://www.nytimes.com/2026/05/21/us/politics/dnc-election-autopsy-report-takeaways.html"
   ],
   [
-    "health",
+    "fund",
     27,
-    "https://www.theguardian.com/lifeandstyle/2026/may/21/how-often-should-you-go-to-the-toilet-how-can-you-get-the-better-of-wind-experts-tips-for-a-healthier-gut"
+    "https://www.nytimes.com/2026/05/21/us/politics/trump-fund-todd-blanche-doj.html"
   ],
   [
     "political",
@@ -56,134 +56,129 @@
     "https://www.nytimes.com/2026/05/21/us/politics/trump-fund-todd-blanche-doj.html"
   ],
   [
-    "film",
+    "cup",
     25,
-    "https://www.theguardian.com/film/2026/may/21/shia-labeouf-battery-charges-new-orleans"
+    "https://www.nytimes.com/2026/05/19/realestate/world-cup-fever-brings-soccer-pitches-to-ny-parks-schools-and-rooftops.html"
   ],
   [
-    "latest",
+    "anti",
     24,
-    "https://www.washingtonpost.com/nation/2026/05/21/san-diego-mosque-shooting-reveals-deadly-online-blueprint-killers/"
-  ],
-  [
-    "incumbent",
-    23,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
-  ],
-  [
-    "administration",
-    22,
-    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html"
-  ],
-  [
-    "york",
-    22,
     "https://www.nytimes.com/2026/05/21/us/politics/poll-democrats-midterms-house-senate.html"
   ],
   [
-    "country",
-    22,
-    "https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html"
-  ],
-  [
-    "climate",
-    22,
-    "https://www.theguardian.com/lifeandstyle/2026/may/22/anxious-about-future-take-care-without-living-in-bubble"
+    "late",
+    24,
+    "https://www.nytimes.com/2026/05/21/arts/television/stephen-colbert-late-show-ending-cbs.html"
   ],
   [
     "primary",
+    24,
+    "https://www.theguardian.com/us-news/2026/may/21/spencer-pratt-los-angeles-mayor-trump"
+  ],
+  [
+    "climate",
+    23,
+    "https://www.washingtonpost.com/obituaries/2026/05/21/rafe-pomerance-who-helped-sound-alarm-climate-change-dies-79/"
+  ],
+  [
+    "health",
+    23,
+    "https://www.theguardian.com/global/2026/may/21/email-incivility-can-affect-us-at-work"
+  ],
+  [
+    "latest",
     22,
-    "https://www.theguardian.com/commentisfree/2026/may/21/struggling-with-the-nine-times-table-i-have-a-failsafe-method"
+    "https://www.nytimes.com/2026/05/21/books/audiobook-piracy-youtube.html"
   ],
   [
-    "fund",
-    21,
-    "https://www.nytimes.com/2026/05/21/us/politics/trump-fund-todd-blanche-doj.html"
+    "incumbent",
+    22,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "party",
-    21,
-    "https://www.nytimes.com/2026/05/21/us/politics/poll-democrats-midterms-house-senate.html"
+    "released",
+    20,
+    "https://www.nytimes.com/2026/05/21/us/politics/dnc-election-autopsy-report-takeaways.html"
   ],
   [
     "san",
-    21,
-    "https://www.washingtonpost.com/nation/2026/05/21/san-diego-mosque-shooting-reveals-deadly-online-blueprint-killers/"
+    20,
+    "https://www.nytimes.com/2026/05/21/arts/music/san-francisco-symphony-elim-chan-music-director.html"
   ],
   [
-    "night",
-    20,
-    "https://www.theguardian.com/news/2026/may/21/the-devils-child-the-rise-and-fall-of-the-only-female-yakuza"
+    "democrats",
+    19,
+    "https://www.nytimes.com/2026/05/21/us/politics/dnc-election-autopsy-report-takeaways.html"
   ],
   [
-    "game",
-    20,
-    "https://www.theguardian.com/football/2026/may/21/zohran-mamdani-world-cup-tickets-new-york-city"
-  ],
-  [
-    "faces",
-    20,
-    "https://www.theguardian.com/sport/2026/may/21/tennis-french-open-draw-roland-garros-jannik-sinner-novak-djokovic-emma-raducanu"
+    "york",
+    19,
+    "https://www.nytimes.com/2026/05/21/us/politics/poll-democrats-midterms-house-senate.html"
   ],
   [
     "government",
     19,
-    "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html"
+    "https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html"
   ],
   [
-    "final",
+    "school",
     19,
-    "https://www.nytimes.com/2026/05/21/arts/television/stephen-colbert-late-show-ending-cbs.html"
+    "https://www.theguardian.com/football/2026/may/21/donald-trump-soccer-career-world-cup-nyma"
   ],
   [
-    "something",
+    "night",
     19,
-    "https://www.theguardian.com/artanddesign/2026/may/21/taiba-akhuetie-hair-artist-rihanna-cate-blanchett"
+    "https://www.theguardian.com/tv-and-radio/2026/may/21/from-lord-of-the-rings-to-dua-lipa-stephen-colberts-10-greatest-late-show-moments"
+  ],
+  [
+    "loss",
+    18,
+    "https://www.nytimes.com/2026/05/21/us/politics/dnc-election-autopsy-report-takeaways.html"
+  ],
+  [
+    "mayor",
+    18,
+    "https://www.nytimes.com/2026/05/21/nyregion/ramzi-kassem-nyc-chief-counsel.html"
+  ],
+  [
+    "music",
+    18,
+    "https://www.nytimes.com/2026/05/21/arts/music/san-francisco-symphony-elim-chan-music-director.html"
+  ],
+  [
+    "case",
+    18,
+    "https://www.nytimes.com/2026/05/21/us/politics/supreme-court-intellectually-disabled-executions.html"
   ],
   [
     "review",
-    19,
-    "https://www.theguardian.com/science/2026/may/20/spacex-finances-stock-market-debut"
+    18,
+    "https://www.theguardian.com/us-news/2026/may/21/jeffrey-epstein-assistant-sarah-kellen-abuse"
   ],
   [
-    "colbert",
+    "film",
     18,
-    "https://www.nytimes.com/2026/05/21/arts/television/stephen-colbert-late-show-ending-cbs.html"
+    "https://www.theguardian.com/film/2026/may/21/lupita-nyongo-responds-rightwing-odyssey-criticism"
   ],
   [
-    "star",
+    "faces",
     18,
-    "https://www.nytimes.com/2026/05/21/us/spencer-pratt-ai-videos.html"
-  ],
-  [
-    "don",
-    18,
-    "https://www.nytimes.com/2026/05/21/world/africa/uganda-ebola-clinics-congo-us.html"
-  ],
-  [
-    "air",
-    18,
-    "https://www.nytimes.com/2026/05/21/world/africa/air-france-ebola-flight.html"
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
     "republicans",
     18,
-    "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates"
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide"
   ],
   [
-    "congressional",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/may/21/trump-slush-fund-anti-weaponization"
-  ],
-  [
-    "season",
-    18,
-    "https://www.theguardian.com/sport/2026/may/21/pwhl-expansion-walter-cup-canada-usa-las-vegas"
-  ],
-  [
-    "democrats",
+    "term",
     17,
-    "https://www.nytimes.com/2026/05/21/us/politics/poll-democrats-midterms-house-senate.html"
+    "https://www.nytimes.com/2026/05/21/us/politics/the-docket-trump-fund.html"
+  ],
+  [
+    "autopsy",
+    17,
+    "https://www.nytimes.com/2026/05/21/us/politics/dnc-election-autopsy-report-takeaways.html"
   ],
   [
     "court",
@@ -191,188 +186,193 @@
     "https://www.nytimes.com/2026/05/21/us/politics/supreme-court-cuba-cruises-oil.html"
   ],
   [
-    "school",
+    "star",
     17,
-    "https://www.nytimes.com/2026/05/21/us/ebony-parker-virginia-child-shooting-teacher.html"
+    "https://www.nytimes.com/2026/05/21/us/spencer-pratt-ai-videos.html"
   ],
   [
-    "series",
+    "order",
     17,
-    "https://www.theguardian.com/sport/2026/may/21/shai-gilgeous-alexander-thunder-spurs-nba-playoffs-western-conference-finals"
+    "https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html"
   ],
   [
-    "anti",
-    16,
-    "https://www.nytimes.com/2026/05/21/us/politics/poll-democrats-midterms-house-senate.html"
-  ],
-  [
-    "stephen",
-    15,
-    "https://www.nytimes.com/2026/05/21/arts/television/stephen-colbert-late-show-ending-cbs.html"
-  ],
-  [
-    "spacex",
-    15,
-    "https://www.nytimes.com/2026/05/21/business/spacex-ipo-banks-goldman-sachs.html"
-  ],
-  [
-    "expected",
-    15,
-    "https://www.nytimes.com/2026/05/21/business/spacex-ipo-banks-goldman-sachs.html"
-  ],
-  [
-    "american",
-    15,
-    "https://www.nytimes.com/2026/05/20/us/politics/donation-big-tobacco-vaping.html"
+    "future",
+    17,
+    "https://www.nytimes.com/2026/05/21/us/commencement-speakers-class-of-2026-artificial-intelligence.html"
   ],
   [
     "iran",
-    15,
+    17,
     "https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html"
   ],
   [
-    "far",
-    15,
-    "https://www.nytimes.com/2026/05/21/nyregion/mamdani-budget-social-media.html"
+    "country",
+    17,
+    "https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html"
   ],
   [
-    "released",
-    15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "travel",
+    17,
+    "https://www.nytimes.com/2026/05/21/world/africa/uganda-ebola-clinics-congo-us.html"
   ],
   [
-    "los",
-    15,
-    "https://www.theguardian.com/us-news/2026/may/21/los-angeles-baywatch-film-mayor-race"
+    "air",
+    17,
+    "https://www.nytimes.com/2026/05/21/world/africa/air-france-ebola-flight.html"
   ],
   [
-    "won",
+    "because",
+    17,
+    "https://www.nytimes.com/2026/05/21/world/africa/air-france-ebola-flight.html"
+  ],
+  [
+    "death",
+    17,
+    "https://www.nytimes.com/2026/05/21/us/politics/supreme-court-intellectually-disabled-executions.html"
+  ],
+  [
+    "memorial",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/may/21/titanium-always-pan-pro-our-place"
+  ],
+  [
+    "don",
+    17,
+    "https://www.theguardian.com/film/2026/may/21/bob-odenkirk-interview-better-call-saul-satire-heart-attack"
+  ],
+  [
+    "season",
+    17,
+    "https://www.theguardian.com/world/2026/may/21/oil-markets-nearing-red-zone-as-holiday-season-nears-warns-iea-chief"
+  ],
+  [
+    "governor",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/may/21/mark-carney-climate-canada"
+  ],
+  [
+    "something",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/may/22/joining-a-pottery-class-ceramics-lessons"
+  ],
+  [
+    "colbert",
+    16,
+    "https://www.nytimes.com/2026/05/21/arts/television/stephen-colbert-late-show-ending-cbs.html"
+  ],
+  [
+    "congressional",
+    16,
+    "https://www.washingtonpost.com/obituaries/2026/05/21/rafe-pomerance-who-helped-sound-alarm-climate-change-dies-79/"
+  ],
+  [
+    "leading",
+    16,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "donald",
+    16,
+    "https://www.theguardian.com/football/2026/may/21/donald-trump-soccer-career-world-cup-nyma"
+  ],
+  [
+    "email",
+    16,
+    "https://www.theguardian.com/global/2026/may/21/email-incivility-can-affect-us-at-work"
+  ],
+  [
+    "republican",
+    16,
+    "https://www.theguardian.com/us-news/2026/may/21/senate-republicans-to-ditch-trump-ballroom-funding"
+  ],
+  [
+    "book",
+    16,
+    "https://www.theguardian.com/books/2026/may/21/yang-shuang-zi-interview-lin-king-taiwan-travelogue-international-booker"
+  ],
+  [
+    "challengers",
+    16,
+    "https://www.theguardian.com/world/2026/may/21/turkey-court-removes-head-chp-party-ozgur-ozel-erdogan"
+  ],
+  [
+    "county",
+    16,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-40-orange-county-inland-empire-voter-guide"
+  ],
+  [
+    "fewer",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/may/22/anxious-about-future-take-care-without-living-in-bubble"
+    "https://www.nytimes.com/2026/05/21/weather/noaa-hurricane-forecast-2026.html"
+  ],
+  [
+    "series",
+    15,
+    "https://www.nytimes.com/2026/05/21/us/politics/supreme-court-intellectually-disabled-executions.html"
+  ],
+  [
+    "gaza",
+    15,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "start",
+    15,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "summer",
     15,
-    "https://www.theguardian.com/commentisfree/2026/may/21/struggling-with-the-nine-times-table-i-have-a-failsafe-method"
-  ],
-  [
-    "challengers",
-    15,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
-  ],
-  [
-    "county",
-    15,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-40-orange-county-inland-empire-voter-guide"
-  ],
-  [
-    "attorney",
-    14,
-    "https://www.nytimes.com/2026/05/21/us/politics/trump-fund-todd-blanche-doj.html"
-  ],
-  [
-    "campaign",
-    14,
-    "https://www.nytimes.com/2026/05/21/nyregion/constantino-stickers-campaign.html"
-  ],
-  [
-    "because",
-    14,
-    "https://www.nytimes.com/2026/05/21/world/africa/air-france-ebola-flight.html"
-  ],
-  [
-    "cup",
-    14,
-    "https://www.nytimes.com/2026/05/19/realestate/world-cup-fever-brings-soccer-pitches-to-ny-parks-schools-and-rooftops.html"
-  ],
-  [
-    "director",
-    14,
-    "https://www.washingtonpost.com/nation/2026/05/19/security-guard-warned-teachers-lock-doors-san-diego-islamic-center-shooting/"
-  ],
-  [
-    "gaza",
-    14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "canada",
-    14,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "little",
-    14,
-    "https://www.theguardian.com/news/2026/may/21/the-devils-child-the-rise-and-fall-of-the-only-female-yakuza"
-  ],
-  [
-    "book",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/may/21/carrie-joy-grimes-financial-advice"
-  ],
-  [
-    "cbs",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/may/21/from-lord-of-the-rings-to-dua-lipa-stephen-colberts-10-greatest-late-show-moments"
-  ],
-  [
-    "autopsy",
-    14,
-    "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates"
-  ],
-  [
-    "republican",
-    14,
-    "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates"
-  ],
-  [
-    "governor",
-    14,
-    "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates"
-  ],
-  [
-    "tested",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/may/21/titanium-always-pan-pro-our-place"
+    "https://www.theguardian.com/football/2026/may/21/donald-trump-soccer-career-world-cup-nyma"
   ],
   [
     "filter",
-    14,
+    15,
     "https://www.theguardian.com/thefilter-us/2026/may/21/titanium-always-pan-pro-our-place"
   ],
   [
-    "record",
-    14,
-    "https://www.theguardian.com/sport/2026/may/21/tennis-french-open-draw-roland-garros-jannik-sinner-novak-djokovic-emma-raducanu"
+    "weekly",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/may/21/titanium-always-pan-pro-our-place"
+  ],
+  [
+    "money",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/may/21/trump-slush-fund-anti-weaponization"
+  ],
+  [
+    "won",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/21/democrats-2024-election-autopsy"
   ],
   [
     "candidates",
-    14,
-    "https://www.latimes.com/politics/story/2026-05-21/democrats-may-cast-last-minute-ballots-in-uncertain-governors-race-will-it-slow-vote-count"
+    15,
+    "https://www.theguardian.com/us-news/2026/may/21/spencer-pratt-los-angeles-mayor-trump"
   ],
   [
-    "general",
-    13,
-    "https://www.nytimes.com/2026/05/21/us/politics/trump-fund-todd-blanche-doj.html"
+    "los",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/21/spencer-pratt-los-angeles-mayor-trump"
   ],
   [
-    "body",
-    13,
-    "https://www.nytimes.com/2026/05/21/science/retatrutide-weight-loss-drug.html"
+    "angeles",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/21/spencer-pratt-los-angeles-mayor-trump"
   ],
   [
-    "mayor",
-    13,
-    "https://www.nytimes.com/2026/05/21/nyregion/ramzi-kassem-nyc-chief-counsel.html"
+    "art",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/21/los-angeles-baywatch-film-mayor-race"
   ],
   [
-    "company",
-    13,
-    "https://www.nytimes.com/2026/05/20/us/politics/donation-big-tobacco-vaping.html"
+    "council",
+    15,
+    "https://www.theguardian.com/sport/2026/may/21/wimbledon-tim-henman-players-meeting-roland-garros-pay-dispute"
   ],
   [
-    "ebola",
-    13,
-    "https://www.nytimes.com/2026/05/21/world/africa/uganda-ebola-clinics-congo-us.html"
+    "game",
+    15,
+    "https://www.theguardian.com/football/2026/may/21/zohran-mamdani-world-cup-tickets-new-york-city"
   ]
 ];
