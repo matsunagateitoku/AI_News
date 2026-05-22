@@ -2,13 +2,13 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    97,
-    "https://www.nytimes.com/2026/05/21/us/politics/senate-republicans-trump.html"
+    111,
+    "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html"
   ],
   [
     "race",
-    61,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/23/running-ultramarathon-what-does-it-take-run-100-miles-ultra-trail-australia"
+    66,
+    "https://www.nytimes.com/2026/05/22/us/biden-becerra-california-governor.html"
   ],
   [
     "guide",
@@ -16,69 +16,29 @@
     "https://www.theguardian.com/thefilter-us/2026/may/18/best-memorial-day-deals-sales"
   ],
   [
-    "late",
-    52,
-    "https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html"
-  ],
-  [
-    "california",
-    46,
-    "https://www.theguardian.com/us-news/2026/may/22/marine-heatwave-west-coast"
+    "district",
+    50,
+    "https://www.nytimes.com/2026/05/22/us/politics/wasserman-schultz-redistricting.html"
   ],
   [
     "president",
-    41,
-    "https://www.nytimes.com/2026/05/21/us/politics/senate-republicans-trump.html"
+    49,
+    "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html"
   ],
   [
-    "district",
-    40,
-    "https://www.theguardian.com/technology/2026/may/21/meta-social-media-addiction-kentucky-schools"
+    "california",
+    45,
+    "https://www.nytimes.com/2026/05/22/us/biden-becerra-california-governor.html"
   ],
   [
-    "colbert",
-    38,
-    "https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html"
-  ],
-  [
-    "stephen",
-    35,
-    "https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html"
-  ],
-  [
-    "war",
-    33,
-    "https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html"
-  ],
-  [
-    "fund",
-    31,
-    "https://www.nytimes.com/2026/05/21/us/politics/senate-republicans-trump.html"
-  ],
-  [
-    "election",
-    28,
-    "https://www.theguardian.com/us-news/2026/may/21/democrats-2024-election-autopsy"
-  ],
-  [
-    "faces",
-    27,
-    "https://www.nytimes.com/2026/05/22/podcasts/the-headlines/trump-republicans-democrats-report.html"
-  ],
-  [
-    "iran",
-    27,
-    "https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html"
-  ],
-  [
-    "anti",
-    26,
-    "https://www.theguardian.com/us-news/2026/may/21/senate-republicans-to-ditch-trump-ballroom-funding"
-  ],
-  [
-    "night",
+    "administration",
     25,
-    "https://www.nytimes.com/video/arts/television/100000010892403/in-defense-of-the-institution-of-late-night.html"
+    "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
+  ],
+  [
+    "late",
+    24,
+    "https://www.nytimes.com/2026/05/21/podcasts/colbert-snl-late-night-tv.html"
   ],
   [
     "film",
@@ -86,149 +46,144 @@
     "https://www.theguardian.com/tv-and-radio/2026/may/22/jamie-bell-half-man-richard-gadd-bbc-billy-elliot"
   ],
   [
-    "republicans",
+    "iran",
     23,
-    "https://www.nytimes.com/2026/05/21/us/politics/senate-republicans-trump.html"
+    "https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html"
   ],
   [
-    "political",
+    "york",
     23,
-    "https://www.nytimes.com/2026/05/22/magazine/voting-rights-act-reconstruction-civil-rights-redistricting.html"
+    "https://www.nytimes.com/2026/05/22/nyregion/mamdani-jews-relationship.html"
   ],
   [
     "cbs",
     23,
-    "https://www.theguardian.com/tv-and-radio/2026/may/22/stephen-colbert-late-show-finale-star-packed-goodbye-paul-mccartney-elvis-costello"
+    "https://www.theguardian.com/media/2026/may/22/byron-allen-comics-unleashed-late-show-cancellation"
   ],
   [
-    "gop",
+    "government",
     22,
-    "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html"
+    "https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html"
   ],
   [
-    "memorial",
+    "faces",
     22,
-    "https://www.nytimes.com/2026/05/22/travel/memorial-day-flights-rental-car-gas-prices.html"
-  ],
-  [
-    "star",
-    22,
-    "https://www.theguardian.com/tv-and-radio/2026/may/22/stephen-colbert-late-show-finale-star-packed-goodbye-paul-mccartney-elvis-costello"
-  ],
-  [
-    "social",
-    22,
-    "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son"
-  ],
-  [
-    "san",
-    21,
-    "https://www.nytimes.com/2026/05/21/us/san-diego-mosque-shooter-guns.html"
-  ],
-  [
-    "country",
-    21,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "health",
-    21,
-    "https://www.theguardian.com/us-news/2026/may/22/nicole-saphier-supplement-trump-surgeon-general"
-  ],
-  [
-    "incumbent",
-    21,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
-  ],
-  [
-    "family",
-    20,
-    "https://www.nytimes.com/2026/05/22/world/middleeast/settler-attack-dog-west-bank.html"
-  ],
-  [
-    "online",
-    20,
-    "https://www.nytimes.com/2026/05/22/world/europe/hate-crime-rise-uk-religion-race.html"
-  ],
-  [
-    "donald",
-    20,
-    "https://www.theguardian.com/tv-and-radio/2026/may/22/stephen-colbert-late-show-finale-star-packed-goodbye-paul-mccartney-elvis-costello"
-  ],
-  [
-    "book",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/may/22/prince-andrew-mountbatten-windsor-police-jeffrey-epstein"
-  ],
-  [
-    "police",
-    19,
-    "https://www.nytimes.com/2026/05/21/us/san-diego-mosque-shooter-guns.html"
-  ],
-  [
-    "military",
-    19,
-    "https://www.nytimes.com/2026/05/22/world/europe/russia-belgorod-governor.html"
-  ],
-  [
-    "republican",
-    18,
-    "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html"
-  ],
-  [
-    "diego",
-    18,
-    "https://www.nytimes.com/2026/05/21/us/san-diego-mosque-shooter-guns.html"
-  ],
-  [
-    "black",
-    18,
-    "https://www.nytimes.com/2026/05/22/magazine/voting-rights-act-reconstruction-civil-rights-redistricting.html"
-  ],
-  [
-    "democratic",
-    18,
-    "https://www.nytimes.com/2026/05/19/well/ebola-bundibugyo-virus-symptoms.html"
-  ],
-  [
-    "video",
-    18,
-    "https://www.nytimes.com/2026/05/22/world/middleeast/settler-attack-dog-west-bank.html"
+    "https://www.nytimes.com/2026/05/22/books/review/mac-barnett-make-believe-young-peoples-literature.html"
   ],
   [
     "media",
-    18,
+    22,
     "https://www.nytimes.com/2026/05/22/opinion/stephen-colbert-youtube-corporate-media.html"
   ],
   [
-    "york",
-    17,
-    "https://www.nytimes.com/2026/05/22/nyregion/mamdani-jews-relationship.html"
+    "election",
+    22,
+    "https://www.theguardian.com/us-news/2026/may/21/democrats-2024-election-autopsy"
   ],
   [
-    "travel",
-    17,
-    "https://www.nytimes.com/2026/05/22/travel/memorial-day-flights-rental-car-gas-prices.html"
+    "incumbent",
+    22,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "summer",
-    17,
-    "https://www.nytimes.com/2026/05/22/travel/memorial-day-flights-rental-car-gas-prices.html"
+    "court",
+    21,
+    "https://www.nytimes.com/2026/05/22/nyregion/mahmoud-khalil-supreme-court.html"
   ],
   [
-    "congressional",
-    17,
-    "https://www.nytimes.com/2026/05/22/us/politics/partisan-mud-fight-or-focus-on-the-midterms-redistricting-divides-democrats.html"
+    "fund",
+    21,
+    "https://www.nytimes.com/2026/05/21/us/politics/senate-republicans-trump.html"
   ],
   [
-    "released",
-    17,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "colbert",
+    21,
+    "https://www.nytimes.com/2026/05/21/podcasts/colbert-snl-late-night-tv.html"
+  ],
+  [
+    "democratic",
+    21,
+    "https://www.nytimes.com/2026/05/22/us/ebola-american-doctor-peter-stafford.html"
+  ],
+  [
+    "republicans",
+    20,
+    "https://www.nytimes.com/2026/05/21/us/politics/senate-republicans-trump.html"
+  ],
+  [
+    "stephen",
+    19,
+    "https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html"
+  ],
+  [
+    "donald",
+    19,
+    "https://www.nytimes.com/2026/05/22/style/donald-trump-jr-bettina-anderson-wedding-bahamas-florida.html"
+  ],
+  [
+    "social",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/may/22/trump-mainstream-media-coverage"
+  ],
+  [
+    "anti",
+    19,
+    "https://www.theguardian.com/us-news/2026/may/21/senate-republicans-to-ditch-trump-ballroom-funding"
+  ],
+  [
+    "book",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/may/22/prince-andrew-mountbatten-windsor-police-jeffrey-epstein"
+  ],
+  [
+    "kyle",
+    19,
+    "https://www.theguardian.com/sport/2026/may/22/kyle-busch-death-reaction-tributes-fan-donations"
+  ],
+  [
+    "busch",
+    19,
+    "https://www.theguardian.com/sport/2026/may/22/kyle-busch-death-reaction-tributes-fan-donations"
+  ],
+  [
+    "war",
+    18,
+    "https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html"
+  ],
+  [
+    "family",
+    18,
+    "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
+  ],
+  [
+    "judge",
+    18,
+    "https://www.nytimes.com/2026/05/22/us/politics/abrego-garcia-case-dismissed-trump-administration.html"
+  ],
+  [
+    "country",
+    18,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "police",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/may/22/prince-andrew-mountbatten-windsor-police-jeffrey-epstein"
   ],
   [
     "county",
+    18,
+    "https://www.latimes.com/california/story/2026-05-21/residents-evacuated-toxic-leak-garden-grove-aerospace-company"
+  ],
+  [
+    "america",
     17,
-    "https://www.latimes.com/california/story/2026-05-21/sandy-fire-burns-near-former-nuclear-test-site-officials-monitor-air"
+    "https://www.nytimes.com/2026/05/22/magazine/voting-rights-act-reconstruction-civil-rights-redistricting.html"
+  ],
+  [
+    "series",
+    16,
+    "https://www.nytimes.com/2026/05/22/us/politics/trump-fund-irs-fact-check.html"
   ],
   [
     "final",
@@ -236,19 +191,34 @@
     "https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html"
   ],
   [
-    "america",
+    "health",
     16,
-    "https://www.nytimes.com/2026/05/22/magazine/voting-rights-act-reconstruction-civil-rights-redistricting.html"
+    "https://www.nytimes.com/2026/05/22/us/biden-becerra-california-governor.html"
   ],
   [
-    "something",
+    "son",
     16,
-    "https://www.theguardian.com/world/live/2026/may/22/nato-mark-rutte-us-donald-trump-troops-poland-summit-russia-baltics-drones-tensions-ukraine-latest-news-updates"
+    "https://www.nytimes.com/2026/05/22/style/donald-trump-jr-bettina-anderson-wedding-bahamas-florida.html"
   ],
   [
-    "because",
+    "director",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/may/22/stephen-colbert-last-late-show-reaction"
+    "https://www.nytimes.com/2026/05/22/movies/star-wars-the-mandalorian-and-grogu-clip.html"
+  ],
+  [
+    "san",
+    16,
+    "https://www.washingtonpost.com/nation/2026/05/21/san-diego-mosque-shooting-reveals-deadly-online-blueprint-killers/"
+  ],
+  [
+    "online",
+    16,
+    "https://www.washingtonpost.com/nation/2026/05/21/san-diego-mosque-shooting-reveals-deadly-online-blueprint-killers/"
+  ],
+  [
+    "video",
+    16,
+    "https://www.washingtonpost.com/nation/2026/05/21/san-diego-mosque-shooting-reveals-deadly-online-blueprint-killers/"
   ],
   [
     "replace",
@@ -256,44 +226,59 @@
     "https://www.theguardian.com/media/2026/may/22/byron-allen-comics-unleashed-late-show-cancellation"
   ],
   [
+    "game",
+    16,
+    "https://www.theguardian.com/sport/2026/may/22/knicks-cavaliers-nba-playoffs-eastern-conference-finals"
+  ],
+  [
+    "primary",
+    16,
+    "https://www.theguardian.com/us-news/2026/may/22/texas-democrat-maureen-galindo-zionists"
+  ],
+  [
     "council",
     16,
-    "https://www.theguardian.com/world/2026/may/22/bangladeshi-italian-candidates-venice-council-election"
+    "https://www.theguardian.com/politics/2026/may/22/soft-power-sell-off-anger-british-council-sale-historic-madrid-building"
   ],
   [
-    "general",
+    "gop",
     15,
-    "https://www.nytimes.com/2026/05/21/us/politics/trump-fund-congress-limits.html"
+    "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html"
   ],
   [
-    "government",
+    "night",
     15,
-    "https://www.nytimes.com/2026/05/21/us/politics/trump-fund-congress-limits.html"
+    "https://www.nytimes.com/2026/05/21/podcasts/colbert-snl-late-night-tv.html"
   ],
   [
-    "party",
+    "season",
     15,
-    "https://www.nytimes.com/2026/05/22/podcasts/the-headlines/trump-republicans-democrats-report.html"
+    "https://www.nytimes.com/2026/05/22/business/media/colbert-late-show-ratings-finale.html"
   ],
   [
-    "future",
+    "congressional",
     15,
-    "https://www.nytimes.com/2026/05/22/dining/streeteasy-reserve-your-future.html"
+    "https://www.nytimes.com/2026/05/22/us/politics/wasserman-schultz-redistricting.html"
   ],
   [
-    "weaponization",
+    "summer",
     15,
-    "https://www.theguardian.com/us-news/2026/may/21/senate-republicans-to-ditch-trump-ballroom-funding"
+    "https://www.nytimes.com/2026/05/22/travel/memorial-day-flights-rental-car-gas-prices.html"
   ],
   [
-    "nation",
+    "released",
     15,
-    "https://www.theguardian.com/sport/2026/may/22/naacp-boycott-college-sports-black-athletes"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "candidates",
+    "intelligence",
     15,
-    "https://www.theguardian.com/world/2026/may/22/bangladeshi-italian-candidates-venice-council-election"
+    "https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates"
+  ],
+  [
+    "feel",
+    15,
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/23/running-ultramarathon-what-does-it-take-run-100-miles-ultra-trail-australia"
   ],
   [
     "challengers",
@@ -301,9 +286,14 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "primary",
-    15,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-supervisor-district-3-horvath-arey-sidenfaden-minasova-voter-guide"
+    "republican",
+    14,
+    "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html"
+  ],
+  [
+    "immigration",
+    14,
+    "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
   ],
   [
     "senate",
@@ -311,68 +301,78 @@
     "https://www.nytimes.com/2026/05/21/us/politics/senate-republicans-trump.html"
   ],
   [
-    "democrats",
+    "chair",
     14,
-    "https://www.nytimes.com/2026/05/22/podcasts/the-headlines/trump-republicans-democrats-report.html"
+    "https://www.nytimes.com/2026/05/22/us/politics/kevin-warsh-federal-reserve-swearing-in.html"
+  ],
+  [
+    "won",
+    14,
+    "https://www.nytimes.com/2026/05/22/us/biden-becerra-california-governor.html"
+  ],
+  [
+    "black",
+    14,
+    "https://www.nytimes.com/2026/05/22/us/politics/wasserman-schultz-redistricting.html"
+  ],
+  [
+    "watch",
+    14,
+    "https://www.nytimes.com/2026/05/22/movies/star-wars-the-mandalorian-and-grogu-clip.html"
+  ],
+  [
+    "military",
+    14,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "israeli",
+    14,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "company",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/may/22/how-to-quit-doomscrolling-without-quitting-your-phone"
+  ],
+  [
+    "because",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/22/kansas-bird-nest-truck"
+  ],
+  [
+    "something",
+    14,
+    "https://www.theguardian.com/world/2026/may/22/flotilla-video-ben-gvir-template-televised-abuse-honed-palestinians"
+  ],
+  [
+    "don",
+    14,
+    "https://www.theguardian.com/wellness/2026/may/22/definition-of-sex-educator"
+  ],
+  [
+    "death",
+    14,
+    "https://www.theguardian.com/sport/2026/may/22/kyle-busch-death-reaction-tributes-fan-donations"
   ],
   [
     "vote",
-    14,
+    13,
     "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html"
   ],
   [
-    "season",
-    14,
-    "https://www.nytimes.com/2026/05/22/travel/memorial-day-flights-rental-car-gas-prices.html"
-  ],
-  [
-    "latest",
-    14,
-    "https://www.nytimes.com/2026/05/22/world/middleeast/settler-attack-dog-west-bank.html"
-  ],
-  [
-    "air",
-    14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "little",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/may/22/stephen-colbert-late-show-finale-star-packed-goodbye-paul-mccartney-elvis-costello"
-  ],
-  [
-    "far",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/may/22/stephen-colbert-late-show-finale-star-packed-goodbye-paul-mccartney-elvis-costello"
-  ],
-  [
-    "coffee",
-    14,
-    "https://www.theguardian.com/film/2026/may/22/derek-jacobi-aids-ageing-interview"
-  ],
-  [
-    "feel",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum"
-  ],
-  [
-    "chair",
-    14,
-    "https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates"
-  ],
-  [
-    "administration",
-    14,
-    "https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates"
-  ],
-  [
-    "school",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/22/islamic-center-of-san-diego-shooting-aftermath"
-  ],
-  [
-    "system",
+    "leave",
     13,
-    "https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html"
+    "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
+  ],
+  [
+    "campaign",
+    13,
+    "https://www.nytimes.com/2026/05/22/us/politics/abrego-garcia-case-dismissed-trump-administration.html"
+  ],
+  [
+    "general",
+    13,
+    "https://www.nytimes.com/2026/05/22/us/politics/trump-fund-irs-fact-check.html"
   ]
 ];
