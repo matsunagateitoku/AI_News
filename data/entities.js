@@ -2,108 +2,238 @@
 (window.newsData=window.newsData||{}).entities={
   "GPE": [
     {
-      "name": "Us Consulate",
-      "count": 62,
-      "url": "https://thehill.com/policy/international/5890264-greenland-protests-us-consulate/",
-      "source": "The Hill"
-    },
-    {
-      "name": "California",
-      "count": 29,
-      "url": "https://www.theguardian.com/technology/2026/may/21/meta-social-media-addiction-kentucky-schools",
+      "name": "Us",
+      "count": 74,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/22/stephen-colbert-late-show-finale-star-packed-goodbye-paul-mccartney-elvis-costello",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html",
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html",
       "source": "NY Times"
     },
     {
+      "name": "California",
+      "count": 32,
+      "url": "https://www.theguardian.com/technology/2026/may/21/meta-social-media-addiction-kentucky-schools",
+      "source": "The Guardian"
+    },
+    {
       "name": "L.A. County'S",
-      "count": 21,
+      "count": 22,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
       "source": "LA Times"
     },
     {
       "name": "U.S.",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/05/21/us/hantavirus-ebola-quarantine-trump.html",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/05/22/travel/memorial-day-flights-rental-car-gas-prices.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/05/22/world/europe/hate-crime-rise-uk-religion-race.html",
       "source": "NY Times"
     },
     {
       "name": "San Diego",
-      "count": 11,
+      "count": 12,
       "url": "https://www.nytimes.com/2026/05/21/us/san-diego-mosque-shooting-funeral.html",
       "source": "NY Times"
     },
     {
       "name": "Japan",
-      "count": 11,
+      "count": 10,
       "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Ukraine",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/2026/may/22/ukraine-war-briefing-oil-plant-strikes-all-going-to-plan-says-zelenskyy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/21/the-guardian-view-on-the-mountbatten-windsor-papers-they-expose-the-collapse-of-britains-good-chap-state",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Russia",
+      "name": "London",
       "count": 10,
-      "url": "https://www.theguardian.com/world/2026/may/22/ukraine-war-briefing-oil-plant-strikes-all-going-to-plan-says-zelenskyy",
+      "url": "https://www.theguardian.com/global-development/2026/may/22/aid-international-charity-frontline-adapt",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kentucky",
+      "count": 9,
+      "url": "https://www.theguardian.com/technology/2026/may/21/meta-social-media-addiction-kentucky-schools",
+      "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump Jr ’S",
+      "count": 21,
+      "url": "https://www.theguardian.com/us-news/2026/may/21/trump-son-wedding-invite",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 20,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/22/stephen-colbert-late-show-finale-star-packed-goodbye-paul-mccartney-elvis-costello",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Stephen Colbert Suited",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/05/22/style/stephen-colbert-late-show-finale-suits.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Kyle Busch",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/may/21/kyle-busch-dead",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ken Martin",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/05/22/opinion/dnc-autopsy-ken-martin.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Nascar",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/may/21/kyle-busch-dead",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Paul Mccartney",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/05/22/arts/television/stephen-colbert-series-finale.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Marco Rubio",
+      "count": 7,
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Stephen Colbert",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/05/22/opinion/stephen-colbert-youtube-corporate-media.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Stephen Sondheim",
+      "count": 6,
+      "url": "https://www.theguardian.com/books/2026/may/21/stephen-sondheim-by-daniel-okrent-review-a-superb-biography-of-the-musical-master",
+      "source": "The Guardian"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "The World Cup",
+      "count": 7,
+      "url": "https://www.theguardian.com/football/2026/may/21/football-fans-world-cup-we-would-like-to-hear-from-you",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 3,
+      "url": "https://www.nytimes.com/2026/05/22/business/asia-currency-iran-dollar.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Enhanced Games",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/may/21/were-the-good-ones-i-really-believe-that-meet-the-german-billionaire-behind-the-enhanced-games",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Holocaust",
+      "count": 2,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/17/102-year-old-holocaust-survivor-berlin-australia-friendship-brass-plaques",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nascar Cup",
+      "count": 2,
+      "url": "https://www.latimes.com/sports/story/2026-05-21/kyle-busch-dead-nascar",
+      "source": "LA Times"
+    },
+    {
+      "name": "Cup Series",
+      "count": 2,
+      "url": "https://www.foxnews.com/outkick-sports/nhl-teams-honor-kyle-busch-tribute-shocking-death",
+      "source": "Fox News"
+    },
+    {
+      "name": "The Us War",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/may/21/republicans-cancel-vote-war-powers-iran",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Wimbledon",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/21/wimbledon-tim-henman-players-meeting-roland-garros-pay-dispute",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The French Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/21/wimbledon-tim-henman-players-meeting-roland-garros-pay-dispute",
+      "source": "The Guardian"
+    },
+    {
+      "name": "’S World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/may/21/donald-trump-soccer-career-world-cup-nyma",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Trump Officials’ Strict Stand On Ebola Leaves Health Experts ‘Stunned’",
-      "count": 68,
+      "count": 76,
       "url": "https://www.nytimes.com/2026/05/21/us/hantavirus-ebola-quarantine-trump.html",
       "source": "NY Times"
     },
     {
       "name": "Gop Pulls Measure",
-      "count": 24,
+      "count": 26,
       "url": "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html",
       "source": "NY Times"
     },
     {
-      "name": "White House",
-      "count": 20,
-      "url": "https://www.theguardian.com/us-news/2026/may/21/senate-republicans-to-ditch-trump-ballroom-funding",
-      "source": "The Guardian"
+      "name": "California House",
+      "count": 16,
+      "url": "https://www.cbsnews.com/news/primary-fight-california-latino-district-democratic-party-bains-villegas-valadeo/",
+      "source": "CBS News"
     },
     {
-      "name": "The Filter Us",
-      "count": 14,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Senate Appropriations Defense Subcommittee",
-      "count": 13,
-      "url": "https://thehill.com/policy/defense/5890471-us-arms-sales-taiwan-paused-iran/",
-      "source": "The Hill"
+      "name": "Cbs Evening News",
+      "count": 15,
+      "url": "https://www.cbsnews.com/video/052126-cbs-evening-news/",
+      "source": "CBS News"
     },
     {
       "name": "Guardian News",
-      "count": 12,
+      "count": 14,
       "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
-      "name": "Congress",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/obituaries/2026/05/20/barney-frank-influential-congressman-gay-rights-hero-dies-86/",
-      "source": "Washington Post"
+      "name": "Senate Appropriations Defense Subcommittee",
+      "count": 14,
+      "url": "https://thehill.com/policy/defense/5890471-us-arms-sales-taiwan-paused-iran/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Cbs News Radio",
+      "count": 13,
+      "url": "https://www.theguardian.com/media/2026/may/22/cbs-news-radio-end-major-loss",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
     },
     {
       "name": "The California Congressional District",
@@ -116,137 +246,7 @@
       "count": 10,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
       "source": "LA Times"
-    },
-    {
-      "name": "Dnc",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/may/21/democrats-2024-election-autopsy",
-      "source": "The Guardian"
     }
   ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 19,
-      "url": "https://www.theguardian.com/politics/audio/2026/may/22/trumps-new-slush-fund-for-his-pals-podcast",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kyle Busch",
-      "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/may/21/kyle-busch-dead",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump Jr.",
-      "count": 15,
-      "url": "https://www.nbcnews.com/politics/donald-trump/president-says-try-attend-son-wedding-not-good-timing-iran-war-rcna346398",
-      "source": "NBC News"
-    },
-    {
-      "name": "Ken Martin",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/may/21/democrats-2024-election-autopsy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nascar",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/may/21/kyle-busch-dead",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Stephen Colbert",
-      "count": 9,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/21/from-lord-of-the-rings-to-dua-lipa-stephen-colberts-10-greatest-late-show-moments",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Spencer Pratt",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/may/21/spencer-pratt-los-angeles-mayor-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Stephen Sondheim",
-      "count": 6,
-      "url": "https://www.theguardian.com/books/2026/may/21/stephen-sondheim-by-daniel-okrent-review-a-superb-biography-of-the-musical-master",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Forza Horizon 6",
-      "count": 6,
-      "url": "https://www.theguardian.com/games/2026/may/20/pushing-buttons-forza-horizon-6",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Crooked Joe Biden",
-      "count": 6,
-      "url": "https://thehill.com/homenews/campaign/5890652-sc-gop-ag-primary-trump-pascoe/",
-      "source": "The Hill"
-    }
-  ],
-  "EVENT": [
-    {
-      "name": "World Cup On America",
-      "count": 14,
-      "url": "https://www.foxnews.com/sports/alexi-lalas-dreading-thought-england-could-win-world-cup-americas-250th-birthday-cannot",
-      "source": "Fox News"
-    },
-    {
-      "name": "Nascar Cup Series",
-      "count": 3,
-      "url": "https://www.nbcnews.com/sports/nascar/kyle-busch-hospitalized-rcna346366",
-      "source": "NBC News"
-    },
-    {
-      "name": "The Iran War",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/05/22/business/asia-currency-iran-dollar.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "’S World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/may/21/donald-trump-soccer-career-world-cup-nyma",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Enhanced Games",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/may/21/were-the-good-ones-i-really-believe-that-meet-the-german-billionaire-behind-the-enhanced-games",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/may/21/england-world-cup-squad-harry-maguire-thomas-tuchel",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The 2026 World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/may/21/world-cup-first-time-winners-norway-haaland-portugal-ronaldo",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Holocaust",
-      "count": 2,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/17/102-year-old-holocaust-survivor-berlin-australia-friendship-brass-plaques",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Us War",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/may/21/republicans-cancel-vote-war-powers-iran",
-      "source": "The Guardian"
-    },
-    {
-      "name": "International Booker",
-      "count": 1,
-      "url": "https://www.theguardian.com/books/2026/may/21/yang-shuang-zi-interview-lin-king-taiwan-travelogue-international-booker",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-05-22T05:06:07Z"
+  "updated": "2026-05-22T10:26:06Z"
 };
