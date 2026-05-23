@@ -2,22 +2,22 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Donald Trump",
-      "count": 25,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/22/trump-mainstream-media-coverage",
-      "source": "The Guardian"
+      "name": "Melania Trump",
+      "count": 28,
+      "url": "https://www.foxnews.com/media/judge-tosses-michael-wolffs-lawsuit-melania-trump-calls-contorted-courts-work",
+      "source": "Fox News"
     },
     {
       "name": "Donald Trump Jr ’S",
-      "count": 16,
+      "count": 15,
       "url": "https://www.theguardian.com/us-news/2026/may/21/trump-son-wedding-invite",
       "source": "The Guardian"
     },
     {
-      "name": "Kyle Busch",
-      "count": 16,
-      "url": "https://www.theguardian.com/sport/2026/may/22/kyle-busch-death-reaction-tributes-fan-donations",
-      "source": "The Guardian"
+      "name": "Kyle Busch On Truth Social",
+      "count": 14,
+      "url": "https://www.foxnews.com/sports/trump-calls-kyle-busch-legend-truth-social-tribute-nascar-champions-death-41",
+      "source": "Fox News"
     },
     {
       "name": "Stephen Colbert",
@@ -26,114 +26,170 @@
       "source": "The Guardian"
     },
     {
-      "name": "Everlane",
-      "count": 10,
-      "url": "https://www.theguardian.com/business/2026/may/22/shein-everlane-sale",
-      "source": "The Guardian"
+      "name": "Rob Base & Dj E-Z Rock",
+      "count": 11,
+      "url": "https://www.npr.org/2026/05/23/nx-s1-5832030/it-takes-two-rapper-rob-base-who-helped-bring-hip-hop-mainstream-dies-at-59",
+      "source": "NPR"
     },
     {
       "name": "Kilmar Abrego Garcia",
-      "count": 10,
-      "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-charges-dismissed-indictment-judge/",
-      "source": "CBS News"
+      "count": 11,
+      "url": "https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia",
+      "source": "NPR"
     },
     {
       "name": "Marco Rubio",
-      "count": 9,
+      "count": 10,
       "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Kevin Warsh",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/may/22/trump-not-focused-on-economy-poll",
+      "name": "Karen Bass",
+      "count": 7,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Andrew Mountbatten-Windsor",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/22/prince-andrew-mountbatten-windsor-police-jeffrey-epstein",
       "source": "The Guardian"
     },
     {
-      "name": "Graham Platner",
-      "count": 7,
-      "url": "https://www.foxnews.com/politics/warren-torched-over-my-kind-man-praise-platner-after-death-wish-post-wounded-veteran-resurfaces",
-      "source": "Fox News"
+      "name": "Elon Musk ’S",
+      "count": 6,
+      "url": "https://www.theguardian.com/technology/2026/may/22/spacex-ipo-filing-details",
+      "source": "The Guardian"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Reflects Limits Of Party’S",
+      "count": 60,
+      "url": "https://www.nytimes.com/2026/05/22/us/politics/republicans-congress-senate-trump.html",
+      "source": "NY Times"
     },
     {
-      "name": "Raúl Castro",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/may/22/marco-rubio-nears-goal-topple-cuba-government",
+      "name": "Gop",
+      "count": 19,
+      "url": "https://www.theguardian.com/us-news/2026/may/22/texas-democrat-maureen-galindo-zionists",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian Faber Publishing",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/22/prince-andrew-mountbatten-windsor-police-jeffrey-epstein",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cbs News Radio",
+      "count": 12,
+      "url": "https://www.theguardian.com/media/2026/may/22/cbs-news-radio-end-major-loss",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pentagon",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/may/22/nicole-saphier-supplement-trump-surgeon-general",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 10,
+      "url": "https://www.theguardian.com/music/2026/may/22/trash-hits-hedonistic-feral-female-pop-stars-rejecting-respectability-slayyyter-cobrah",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The California Congressional District",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "The L.A. City Council",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "The White House",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 75,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/22/trump-mainstream-media-coverage",
+      "count": 72,
+      "url": "https://www.theguardian.com/us-news/2026/may/22/marine-heatwave-west-coast",
       "source": "The Guardian"
     },
     {
       "name": "California",
       "count": 38,
-      "url": "https://www.nytimes.com/2026/05/22/us/biden-becerra-california-governor.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/us-news/2026/may/22/marine-heatwave-west-coast",
+      "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 20,
+      "count": 18,
       "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
       "source": "NY Times"
     },
     {
+      "name": "Iran",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/05/22/us/politics/trump-iran-targets.html",
+      "source": "NY Times"
+    },
+    {
       "name": "L.A. County'S",
-      "count": 20,
+      "count": 16,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
       "source": "LA Times"
     },
     {
       "name": "Uk",
-      "count": 15,
+      "count": 14,
       "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/how-to-quit-doomscrolling-without-quitting-your-phone",
       "source": "The Guardian"
     },
     {
-      "name": "New York City",
+      "name": "Israel",
       "count": 13,
-      "url": "https://www.nytimes.com/2026/05/21/nyregion/nyc-delivery-worker-conditions.html",
+      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html",
       "source": "NY Times"
     },
     {
-      "name": "The United States Of America",
+      "name": "New York City",
       "count": 13,
+      "url": "https://www.npr.org/2026/05/22/g-s1-124080/new-york-city-shipyard-explosion",
+      "source": "NPR"
+    },
+    {
+      "name": "The United States Of America",
+      "count": 12,
       "url": "https://www.theguardian.com/us-news/2026/may/21/trump-son-wedding-invite",
       "source": "The Guardian"
     },
     {
-      "name": "Israel",
+      "name": "Ukraine",
       "count": 11,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Japan",
-      "count": 9,
-      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
-      "source": "Wall St. Journal"
+      "url": "https://www.theguardian.com/world/2026/may/23/ukraine-war-briefing-putin-promises-revenge-after-blaming-kyiv-for-luhansk-attack-he-says-killed-six",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The World Cup",
-      "count": 4,
-      "url": "https://www.theguardian.com/football/2026/may/21/football-fans-world-cup-we-would-like-to-hear-from-you",
-      "source": "The Guardian"
-    },
-    {
       "name": "Cup Series",
-      "count": 2,
+      "count": 3,
       "url": "https://www.theguardian.com/sport/2026/may/22/kyle-busch-death-reaction-tributes-fan-donations",
       "source": "The Guardian"
     },
@@ -144,16 +200,16 @@
       "source": "The Guardian"
     },
     {
+      "name": "The World Cup",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/2026/may/21/football-fans-world-cup-we-would-like-to-hear-from-you",
+      "source": "The Guardian"
+    },
+    {
       "name": "Nascar Cup",
       "count": 2,
       "url": "https://www.latimes.com/sports/story/2026-05-21/kyle-busch-dead-nascar",
       "source": "LA Times"
-    },
-    {
-      "name": "Game 3 After",
-      "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/spurs-expected-get-favorable-whistle-game-3-thunder-flopping-complaints-dominated-game-2",
-      "source": "Fox News"
     },
     {
       "name": "The Iran War",
@@ -184,69 +240,13 @@
       "count": 1,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "Gagarin Cup",
+      "count": 1,
+      "url": "https://www.foxnews.com/outkick-sports/russian-hockey-team-wins-championship-goalie-immedietley-drops-trophy",
+      "source": "Fox News"
     }
   ],
-  "ORG": [
-    {
-      "name": "Trump Administration",
-      "count": 67,
-      "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The White House",
-      "count": 16,
-      "url": "https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop Pulls Measure",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 12,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian Faber Publishing",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/22/prince-andrew-mountbatten-windsor-police-jeffrey-epstein",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The California Congressional District",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "The L.A. City Council",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Cbs News Radio",
-      "count": 9,
-      "url": "https://www.theguardian.com/media/2026/may/22/cbs-news-radio-end-major-loss",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs Evening News",
-      "count": 9,
-      "url": "https://www.cbsnews.com/video/052126-cbs-evening-news/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Pentagon",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/may/22/nicole-saphier-supplement-trump-surgeon-general",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-05-22T20:43:53Z"
+  "updated": "2026-05-23T04:44:35Z"
 };
