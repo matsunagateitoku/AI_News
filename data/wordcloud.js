@@ -2,13 +2,8 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    119,
+    117,
     "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
-  ],
-  [
-    "race",
-    63,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/23/running-ultramarathon-what-does-it-take-run-100-miles-ultra-trail-australia"
   ],
   [
     "guide",
@@ -16,49 +11,69 @@
     "https://www.theguardian.com/thefilter-us/2026/may/18/best-memorial-day-deals-sales"
   ],
   [
+    "race",
+    60,
+    "https://www.theguardian.com/us-news/2026/may/21/los-angeles-baywatch-film-mayor-race"
+  ],
+  [
     "california",
-    53,
+    55,
     "https://www.nytimes.com/2026/05/22/us/southern-california-chemical-tank-emergency.html"
   ],
   [
     "president",
-    49,
+    47,
     "https://www.nytimes.com/2026/05/22/nyregion/mahmoud-khalil-supreme-court.html"
   ],
   [
     "district",
-    44,
-    "https://www.theguardian.com/us-news/2026/may/22/texas-democrat-maureen-galindo-zionists"
-  ],
-  [
-    "film",
-    26,
-    "https://www.theguardian.com/film/2026/may/22/boots-riley-theft-is-not-outside-of-capitalism-its-what-it-was-built-on"
-  ],
-  [
-    "donald",
-    23,
-    "https://www.nytimes.com/2026/05/22/style/donald-trump-jr-bettina-anderson-wedding-bahamas-florida.html"
+    43,
+    "https://www.theguardian.com/politics/2026/may/22/soft-power-sell-off-anger-british-council-sale-historic-madrid-building"
   ],
   [
     "cbs",
-    23,
-    "https://www.theguardian.com/media/2026/may/22/byron-allen-comics-unleashed-late-show-cancellation"
+    26,
+    "https://www.theguardian.com/tv-and-radio/2026/may/22/stephen-colbert-last-late-show-reaction"
   ],
   [
-    "administration",
-    22,
+    "family",
+    24,
     "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
   ],
   [
-    "media",
-    22,
-    "https://www.theguardian.com/media/2026/may/22/byron-allen-comics-unleashed-late-show-cancellation"
+    "county",
+    24,
+    "https://www.theguardian.com/us-news/2026/may/22/california-orange-county-chemical-tank"
   ],
   [
-    "county",
+    "administration",
+    23,
+    "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
+  ],
+  [
+    "health",
+    23,
+    "https://www.nytimes.com/2026/05/22/us/idaho-rats-hantavirus.html"
+  ],
+  [
+    "media",
+    23,
+    "https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping"
+  ],
+  [
+    "film",
+    23,
+    "https://www.theguardian.com/culture/2026/may/23/my-cultural-awakening-kristen-stewart-comedy-catch-that-kid-inspired-me-oil-rig-engineer"
+  ],
+  [
+    "late",
     22,
-    "https://www.theguardian.com/us-news/2026/may/22/california-orange-county-chemical-tank"
+    "https://www.nytimes.com/2026/05/21/podcasts/colbert-snl-late-night-tv.html"
+  ],
+  [
+    "donald",
+    22,
+    "https://www.nytimes.com/2026/05/22/style/donald-trump-jr-bettina-anderson-wedding-bahamas-florida.html"
   ],
   [
     "faces",
@@ -66,22 +81,7 @@
     "https://www.theguardian.com/us-news/2026/may/22/trump-not-focused-on-economy-poll"
   ],
   [
-    "family",
-    21,
-    "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
-  ],
-  [
-    "iran",
-    21,
-    "https://www.nytimes.com/2026/05/22/us/politics/trump-iran-targets.html"
-  ],
-  [
     "colbert",
-    21,
-    "https://www.nytimes.com/2026/05/21/podcasts/colbert-snl-late-night-tv.html"
-  ],
-  [
-    "late",
     21,
     "https://www.nytimes.com/2026/05/21/podcasts/colbert-snl-late-night-tv.html"
   ],
@@ -91,9 +91,14 @@
     "https://www.nytimes.com/2026/05/22/us/politics/common-cause-lawsuit-trump-fund.html"
   ],
   [
-    "health",
+    "death",
     21,
-    "https://www.nytimes.com/2026/05/22/us/idaho-rats-hantavirus.html"
+    "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html"
+  ],
+  [
+    "york",
+    21,
+    "https://www.nytimes.com/2026/05/22/nyregion/trump-lawler-rockland-ny.html"
   ],
   [
     "incumbent",
@@ -101,14 +106,14 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "latest",
+    "chemical",
     20,
-    "https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html"
+    "https://www.nytimes.com/2026/05/22/us/southern-california-chemical-tank-emergency.html"
   ],
   [
-    "york",
+    "final",
     20,
-    "https://www.nytimes.com/2026/05/22/nyregion/trump-lawler-rockland-ny.html"
+    "https://www.nytimes.com/2026/05/22/business/media/colbert-late-show-ratings-finale.html"
   ],
   [
     "election",
@@ -116,19 +121,19 @@
     "https://www.nytimes.com/2026/05/22/nyregion/trump-lawler-rockland-ny.html"
   ],
   [
-    "social",
+    "stephen",
     20,
-    "https://www.theguardian.com/commentisfree/2026/may/22/trump-mainstream-media-coverage"
-  ],
-  [
-    "judge",
-    19,
-    "https://www.nytimes.com/2026/05/22/us/politics/abrego-garcia-case-dismissed-trump-administration.html"
+    "https://www.theguardian.com/science/2026/may/23/stephen-hawking-father-worried-son-does-not-study-much-diaries"
   ],
   [
     "country",
     19,
     "https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html"
+  ],
+  [
+    "night",
+    19,
+    "https://www.nytimes.com/2026/05/21/podcasts/colbert-snl-late-night-tv.html"
   ],
   [
     "government",
@@ -138,47 +143,42 @@
   [
     "book",
     19,
-    "https://www.theguardian.com/commentisfree/2026/may/22/prince-andrew-mountbatten-windsor-police-jeffrey-epstein"
+    "https://www.theguardian.com/science/2026/may/23/stephen-hawking-father-worried-son-does-not-study-much-diaries"
   ],
   [
-    "gop",
-    19,
-    "https://www.theguardian.com/us-news/2026/may/22/texas-democrat-maureen-galindo-zionists"
-  ],
-  [
-    "war",
+    "because",
     18,
-    "https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html"
+    "https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html"
   ],
   [
-    "director",
+    "social",
     18,
-    "https://www.nytimes.com/2026/05/22/us/politics/tulsi-gabbard-resigns.html"
-  ],
-  [
-    "chemical",
-    18,
-    "https://www.nytimes.com/2026/05/22/us/southern-california-chemical-tank-emergency.html"
-  ],
-  [
-    "stephen",
-    18,
-    "https://www.theguardian.com/media/2026/may/22/byron-allen-comics-unleashed-late-show-cancellation"
+    "https://www.theguardian.com/commentisfree/2026/may/22/trump-mainstream-media-coverage"
   ],
   [
     "anti",
     18,
-    "https://www.theguardian.com/film/2026/may/22/boots-riley-theft-is-not-outside-of-capitalism-its-what-it-was-built-on"
+    "https://www.theguardian.com/sport/2026/may/22/naacp-boycott-college-sports-black-athletes"
   ],
   [
-    "campaign",
+    "gop",
+    18,
+    "https://www.latimes.com/politics/story/2026-05-22/a-bridge-too-far-as-gop-senators-revolt-trump-defends-fund-attacks-defectors"
+  ],
+  [
+    "judge",
     17,
     "https://www.nytimes.com/2026/05/22/us/politics/abrego-garcia-case-dismissed-trump-administration.html"
   ],
   [
-    "republicans",
+    "iran",
     17,
-    "https://www.nytimes.com/2026/05/22/us/politics/republicans-congress-senate-trump.html"
+    "https://www.nytimes.com/2026/05/22/us/politics/trump-iran-targets.html"
+  ],
+  [
+    "war",
+    17,
+    "https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html"
   ],
   [
     "phone",
@@ -191,24 +191,19 @@
     "https://www.nytimes.com/2026/05/22/arts/music/rob-base-dead.html"
   ],
   [
-    "department",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/may/22/trump-mainstream-media-coverage"
-  ],
-  [
-    "council",
-    17,
-    "https://www.theguardian.com/world/2026/may/23/ukraine-war-briefing-putin-promises-revenge-after-blaming-kyiv-for-luhansk-attack-he-says-killed-six"
-  ],
-  [
-    "primary",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/22/texas-democrat-maureen-galindo-zionists"
-  ],
-  [
-    "court",
+    "thousands",
     16,
-    "https://www.nytimes.com/2026/05/22/nyregion/mahmoud-khalil-supreme-court.html"
+    "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
+  ],
+  [
+    "latest",
+    16,
+    "https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html"
+  ],
+  [
+    "explosion",
+    16,
+    "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html"
   ],
   [
     "base",
@@ -216,44 +211,29 @@
     "https://www.nytimes.com/2026/05/22/us/politics/dnc-chairman-ken-martin-lutnick-.html"
   ],
   [
-    "democratic",
-    16,
-    "https://www.nytimes.com/2026/05/22/us/politics/trump-cdc-noncitizens-ebola.html"
-  ],
-  [
     "died",
     16,
     "https://www.nytimes.com/2026/05/22/arts/music/rob-base-dead.html"
   ],
   [
-    "video",
+    "russian",
     16,
-    "https://www.washingtonpost.com/nation/2026/05/21/san-diego-mosque-shooting-reveals-deadly-online-blueprint-killers/"
+    "https://www.theguardian.com/commentisfree/2026/may/23/defeat-vladimir-putin-russia-ukraine-nato-eu"
   ],
   [
-    "released",
+    "department",
     16,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/us-news/2026/may/22/green-card-applicants-trump-administration"
   ],
   [
-    "don",
+    "job",
     16,
-    "https://www.theguardian.com/wellness/2026/may/22/definition-of-sex-educator"
+    "https://www.theguardian.com/culture/2026/may/23/my-cultural-awakening-kristen-stewart-comedy-catch-that-kid-inspired-me-oil-rig-engineer"
   ],
   [
     "replace",
     16,
-    "https://www.theguardian.com/media/2026/may/22/byron-allen-comics-unleashed-late-show-cancellation"
-  ],
-  [
-    "series",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/may/22/jamie-bell-half-man-richard-gadd-bbc-billy-elliot"
-  ],
-  [
-    "death",
-    16,
-    "https://www.theguardian.com/sport/2026/may/22/kyle-busch-death-reaction-tributes-fan-donations"
+    "https://www.theguardian.com/commentisfree/2026/may/22/trump-mainstream-media-coverage"
   ],
   [
     "busch",
@@ -261,39 +241,59 @@
     "https://www.theguardian.com/sport/2026/may/22/kyle-busch-death-reaction-tributes-fan-donations"
   ],
   [
-    "thousands",
-    15,
-    "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
+    "series",
+    16,
+    "https://www.theguardian.com/sport/2026/may/22/kyle-busch-death-reaction-tributes-fan-donations"
   ],
   [
-    "gabbard",
+    "council",
+    16,
+    "https://www.theguardian.com/world/2026/may/23/ukraine-war-briefing-putin-promises-revenge-after-blaming-kyiv-for-luhansk-attack-he-says-killed-six"
+  ],
+  [
+    "primary",
+    16,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-supervisor-district-3-horvath-arey-sidenfaden-minasova-voter-guide"
+  ],
+  [
+    "campaign",
+    15,
+    "https://www.nytimes.com/2026/05/22/us/politics/abrego-garcia-case-dismissed-trump-administration.html"
+  ],
+  [
+    "court",
+    15,
+    "https://www.nytimes.com/2026/05/22/nyregion/mahmoud-khalil-supreme-court.html"
+  ],
+  [
+    "director",
     15,
     "https://www.nytimes.com/2026/05/22/us/politics/tulsi-gabbard-resigns.html"
   ],
   [
-    "southern",
-    15,
-    "https://www.nytimes.com/2026/05/22/us/southern-california-chemical-tank-emergency.html"
-  ],
-  [
-    "final",
+    "million",
     15,
     "https://www.nytimes.com/2026/05/22/business/media/colbert-late-show-ratings-finale.html"
   ],
   [
-    "politics",
+    "least",
     15,
-    "https://www.nytimes.com/2026/05/22/us/politics/dnc-chairman-ken-martin-lutnick-.html"
+    "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html"
   ],
   [
-    "america",
+    "little",
     15,
-    "https://www.washingtonpost.com/nation/2026/05/22/trump-offered-white-south-africans-new-life-thousands-took-him-up-it/"
+    "https://www.nytimes.com/2026/05/22/style/donald-trump-jr-bettina-anderson-wedding-bahamas-florida.html"
   ],
   [
-    "job",
+    "released",
     15,
-    "https://www.theguardian.com/wellness/2026/may/22/definition-of-sex-educator"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "video",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/may/22/israel-politics-itamar-ben-gvir"
   ],
   [
     "dead",
@@ -321,34 +321,24 @@
     "https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html"
   ],
   [
-    "security",
-    14,
-    "https://www.nytimes.com/2026/05/22/us/politics/tulsi-gabbard-resigns.html"
-  ],
-  [
-    "because",
-    14,
-    "https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html"
-  ],
-  [
     "tank",
     14,
     "https://www.nytimes.com/2026/05/22/us/southern-california-chemical-tank-emergency.html"
   ],
   [
-    "night",
+    "southern",
     14,
-    "https://www.nytimes.com/2026/05/21/podcasts/colbert-snl-late-night-tv.html"
+    "https://www.nytimes.com/2026/05/22/us/southern-california-chemical-tank-emergency.html"
   ],
   [
-    "million",
+    "republicans",
     14,
-    "https://www.nytimes.com/2026/05/22/business/media/colbert-late-show-ratings-finale.html"
+    "https://www.nytimes.com/2026/05/22/us/politics/republicans-congress-senate-trump.html"
   ],
   [
-    "started",
+    "politics",
     14,
-    "https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html"
+    "https://www.nytimes.com/2026/05/22/us/politics/dnc-chairman-ken-martin-lutnick-.html"
   ],
   [
     "republican",
@@ -356,23 +346,33 @@
     "https://www.nytimes.com/2026/05/22/nyregion/trump-lawler-rockland-ny.html"
   ],
   [
+    "son",
+    14,
+    "https://www.nytimes.com/2026/05/22/style/donald-trump-jr-bettina-anderson-wedding-bahamas-florida.html"
+  ],
+  [
     "fire",
     14,
     "https://www.nytimes.com/2026/05/22/nyregion/staten-island-explosion.html"
   ],
   [
-    "sex",
+    "announced",
     14,
-    "https://www.theguardian.com/wellness/2026/may/22/definition-of-sex-educator"
+    "https://www.nytimes.com/2026/05/22/us/politics/trump-cdc-noncitizens-ebola.html"
   ],
   [
-    "company",
+    "america",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/may/22/how-to-quit-doomscrolling-without-quitting-your-phone"
+    "https://www.washingtonpost.com/nation/2026/05/22/trump-offered-white-south-africans-new-life-thousands-took-him-up-it/"
   ],
   [
-    "charges",
+    "israeli",
     14,
-    "https://www.theguardian.com/us-news/2026/may/22/marco-rubio-nears-goal-topple-cuba-government"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "don",
+    14,
+    "https://www.theguardian.com/film/2026/may/23/hannah-murray-interview-wellness-cult-sectioned"
   ]
 ];
