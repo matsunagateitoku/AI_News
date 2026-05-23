@@ -2,58 +2,58 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    110,
-    "https://www.nytimes.com/2026/05/23/us/politics/defiant-after-bad-week-trump-pushes-ahead-on-politically-unpopular-ideas.html"
+    107,
+    "https://www.nytimes.com/2026/05/23/us/politics/trump-republicans-fund-ballroom-iran.html"
   ],
   [
     "race",
-    64,
+    67,
     "https://www.theguardian.com/us-news/2026/may/23/california-governors-race-democratic-party"
   ],
   [
     "guide",
-    62,
+    60,
     "https://www.theguardian.com/travel/2026/may/23/naples-italy-train-tour-archaeology"
   ],
   [
     "california",
-    56,
-    "https://www.nytimes.com/2026/05/22/us/southern-california-chemical-tank-emergency.html"
+    44,
+    "https://www.theguardian.com/us-news/2026/may/23/california-governors-race-democratic-party"
   ],
   [
     "president",
-    45,
-    "https://www.nytimes.com/2026/05/23/us/politics/defiant-after-bad-week-trump-pushes-ahead-on-politically-unpopular-ideas.html"
-  ],
-  [
-    "district",
-    42,
-    "https://www.theguardian.com/environment/2026/may/23/volcano-group-berlin-blackout-mystery-saboteurs"
+    41,
+    "https://www.nytimes.com/2026/05/23/us/politics/trump-republicans-fund-ballroom-iran.html"
   ],
   [
     "late",
-    41,
+    40,
     "https://www.theguardian.com/tv-and-radio/2026/may/23/stephen-colbert-late-night"
   ],
   [
-    "night",
-    30,
-    "https://www.theguardian.com/tv-and-radio/2026/may/23/stephen-colbert-late-night"
+    "district",
+    39,
+    "https://www.theguardian.com/us-news/2026/may/23/melania-trump-wins-dismissal-michael-wolff-lawsuit"
   ],
   [
-    "country",
-    28,
-    "https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html"
+    "iran",
+    33,
+    "https://www.nytimes.com/2026/05/23/world/middleeast/iran-us-israel-ceasefire-talks.html"
   ],
   [
-    "stephen",
+    "family",
+    33,
+    "https://www.theguardian.com/sport/2026/may/23/kyle-busch-nascar-cause-of-death-pneumonia-sepsis"
+  ],
+  [
+    "county",
+    27,
+    "https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-plant-leak-evacuations.html"
+  ],
+  [
+    "colbert",
     27,
     "https://www.theguardian.com/tv-and-radio/2026/may/23/stephen-colbert-late-night"
-  ],
-  [
-    "war",
-    26,
-    "https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html"
   ],
   [
     "donald",
@@ -61,59 +61,49 @@
     "https://www.theguardian.com/us-news/2026/may/23/donald-trump-revenge-republicans-thomas-massie"
   ],
   [
-    "colbert",
-    26,
+    "stephen",
+    25,
     "https://www.theguardian.com/tv-and-radio/2026/may/23/stephen-colbert-late-night"
-  ],
-  [
-    "county",
-    26,
-    "https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping"
-  ],
-  [
-    "iran",
-    23,
-    "https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html"
-  ],
-  [
-    "election",
-    23,
-    "https://www.theguardian.com/us-news/2026/may/23/donald-trump-revenge-republicans-thomas-massie"
-  ],
-  [
-    "final",
-    23,
-    "https://www.theguardian.com/us-news/2026/may/23/california-governors-race-democratic-party"
-  ],
-  [
-    "fire",
-    22,
-    "https://www.nytimes.com/2026/05/23/world/middleeast/iran-us-israel-ceasefire-talks.html"
-  ],
-  [
-    "faces",
-    22,
-    "https://www.nytimes.com/2026/05/23/world/africa/ebola-outbreak-congo-shrug.html"
-  ],
-  [
-    "democratic",
-    22,
-    "https://www.theguardian.com/us-news/2026/may/23/california-governors-race-democratic-party"
   ],
   [
     "cbs",
-    22,
+    25,
     "https://www.theguardian.com/tv-and-radio/2026/may/23/stephen-colbert-late-night"
   ],
   [
-    "gop",
-    22,
-    "https://www.theguardian.com/us-news/2026/may/22/texas-democrat-maureen-galindo-zionists"
+    "kyle",
+    25,
+    "https://www.theguardian.com/sport/2026/may/23/kyle-busch-nascar-cause-of-death-pneumonia-sepsis"
   ],
   [
-    "russian",
+    "died",
+    24,
+    "https://www.washingtonpost.com/obituaries/2026/05/23/frank-hayden-who-laid-groundwork-special-olympics-dies-96/"
+  ],
+  [
+    "night",
+    24,
+    "https://www.theguardian.com/tv-and-radio/2026/may/23/stephen-colbert-late-night"
+  ],
+  [
+    "country",
+    23,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "election",
+    22,
+    "https://www.theguardian.com/us-news/2026/may/23/donald-trump-revenge-republicans-thomas-massie"
+  ],
+  [
+    "busch",
+    22,
+    "https://www.theguardian.com/sport/2026/may/23/kyle-busch-nascar-cause-of-death-pneumonia-sepsis"
+  ],
+  [
+    "faces",
     21,
-    "https://www.theguardian.com/environment/2026/may/23/volcano-group-berlin-blackout-mystery-saboteurs"
+    "https://www.nytimes.com/2026/05/23/world/africa/ebola-outbreak-congo-shrug.html"
   ],
   [
     "incumbent",
@@ -123,87 +113,137 @@
   [
     "administration",
     20,
-    "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
+    "https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html"
   ],
   [
-    "family",
+    "love",
     20,
-    "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
+    "https://www.theguardian.com/world/2026/may/23/gisele-pelicot-hay-festival-fell-in-love-trust-after-ordeal"
+  ],
+  [
+    "team",
+    19,
+    "https://www.nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html"
+  ],
+  [
+    "war",
+    19,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "primary",
+    19,
+    "https://www.theguardian.com/us-news/2026/may/23/donald-trump-revenge-republicans-thomas-massie"
+  ],
+  [
+    "final",
+    19,
+    "https://www.theguardian.com/us-news/2026/may/23/california-governors-race-democratic-party"
+  ],
+  [
+    "something",
+    19,
+    "https://www.theguardian.com/world/2026/may/23/gisele-pelicot-hay-festival-fell-in-love-trust-after-ordeal"
+  ],
+  [
+    "secretary",
+    18,
+    "https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html"
+  ],
+  [
+    "chemical",
+    18,
+    "https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-tank-orange-county.html"
+  ],
+  [
+    "game",
+    18,
+    "https://www.theguardian.com/film/2026/may/23/hannah-murray-interview-wellness-cult-sectioned"
+  ],
+  [
+    "because",
+    17,
+    "https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html"
+  ],
+  [
+    "experts",
+    17,
+    "https://www.nytimes.com/2026/05/23/business/iran-toll-strait-hormuz.html"
   ],
   [
     "ebola",
-    20,
+    17,
     "https://www.nytimes.com/2026/05/23/world/africa/ebola-outbreak-congo-shrug.html"
   ],
   [
     "travel",
-    20,
+    17,
     "https://www.nytimes.com/2026/05/23/world/africa/ebola-outbreak-congo-shrug.html"
-  ],
-  [
-    "island",
-    20,
-    "https://www.theguardian.com/us-news/2026/may/23/santa-rosa-island-wildfire"
   ],
   [
     "health",
-    19,
+    17,
     "https://www.nytimes.com/2026/05/23/world/africa/ebola-outbreak-congo-shrug.html"
   ],
   [
-    "primary",
-    18,
-    "https://www.theguardian.com/us-news/2026/may/23/donald-trump-revenge-republicans-thomas-massie"
-  ],
-  [
-    "something",
-    18,
-    "https://www.theguardian.com/environment/2026/may/23/volcano-group-berlin-blackout-mystery-saboteurs"
-  ],
-  [
-    "southern",
+    "democratic",
     17,
-    "https://www.nytimes.com/2026/05/22/us/southern-california-chemical-tank-emergency.html"
-  ],
-  [
-    "death",
-    17,
-    "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html"
-  ],
-  [
-    "team",
-    17,
-    "https://www.nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html"
-  ],
-  [
-    "book",
-    17,
-    "https://www.theguardian.com/science/2026/may/23/stephen-hawking-father-worried-son-does-not-study-much-diaries"
-  ],
-  [
-    "challengers",
-    17,
-    "https://www.latimes.com/california/story/2026-05-23/la-city-attorney-race-two-challengers"
-  ],
-  [
-    "chemical",
-    16,
-    "https://www.nytimes.com/2026/05/22/us/southern-california-chemical-tank-emergency.html"
-  ],
-  [
-    "explosion",
-    16,
-    "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html"
-  ],
-  [
-    "black",
-    16,
     "https://www.theguardian.com/us-news/2026/may/23/california-governors-race-democratic-party"
   ],
   [
-    "democrats",
+    "texas",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/23/california-governors-race-democratic-party"
+  ],
+  [
+    "severe",
+    17,
+    "https://www.theguardian.com/sport/2026/may/23/kyle-busch-nascar-cause-of-death-pneumonia-sepsis"
+  ],
+  [
+    "government",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/21/trump-son-wedding-invite"
+  ],
+  [
+    "point",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/may/23/45000-us-kids-separated-parents-study"
+  ],
+  [
+    "memorial",
+    17,
+    "https://www.theguardian.com/lifeandstyle/2026/may/23/anyday-glass-container-memorial-day"
+  ],
+  [
+    "gop",
+    17,
+    "https://www.latimes.com/california/story/2026-05-23/gop-governor-hopefuls-give-closing-arguments-to-oft-forgotten-central-valley-republicans"
+  ],
+  [
+    "cup",
     16,
-    "https://www.theguardian.com/us-news/2026/may/23/dnc-chair-ken-martin-democrats-election"
+    "https://www.nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html"
+  ],
+  [
+    "york",
+    16,
+    "https://www.nytimes.com/2026/05/23/arts/design/brent-sikkema-murder-guilty.html"
+  ],
+  [
+    "board",
+    16,
+    "https://www.theguardian.com/world/2026/may/23/board-of-peace-focus-on-hamas-risks-return-to-war-in-gaza-critics-say"
+  ],
+  [
+    "media",
+    16,
+    "https://www.theguardian.com/us-news/2026/may/23/melania-trump-wins-dismissal-michael-wolff-lawsuit"
+  ],
+  [
+    "series",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/may/24/moment-i-knew-newly-single-he-felt-like-home"
   ],
   [
     "san",
@@ -211,109 +251,89 @@
     "https://www.theguardian.com/us-news/2026/may/23/santa-rosa-island-wildfire"
   ],
   [
-    "ukraine",
+    "win",
     16,
-    "https://www.theguardian.com/commentisfree/2026/may/23/defeat-vladimir-putin-russia-ukraine-nato-eu"
+    "https://www.theguardian.com/sport/2026/may/23/giro-ditalia-vingegaard-pink-jersey-stage-14-cycling"
   ],
   [
-    "anti",
+    "book",
     16,
-    "https://www.theguardian.com/sport/2026/may/22/naacp-boycott-college-sports-black-athletes"
+    "https://www.theguardian.com/science/2026/may/23/stephen-hawking-father-worried-son-does-not-study-much-diaries"
+  ],
+  [
+    "fire",
+    15,
+    "https://www.nytimes.com/2026/05/23/world/middleeast/iran-us-israel-ceasefire-talks.html"
+  ],
+  [
+    "tank",
+    15,
+    "https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-tank-orange-county.html"
   ],
   [
     "phone",
     15,
-    "https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "died",
+    "food",
     15,
-    "https://www.washingtonpost.com/obituaries/2026/05/23/frank-hayden-who-laid-groundwork-special-olympics-dies-96/"
+    "https://www.theguardian.com/us-news/2026/may/23/donald-trump-revenge-republicans-thomas-massie"
   ],
   [
-    "nearly",
+    "won",
     15,
-    "https://www.washingtonpost.com/nation/2026/05/22/trump-offered-white-south-africans-new-life-thousands-took-him-up-it/"
+    "https://www.theguardian.com/us-news/2026/may/23/donald-trump-revenge-republicans-thomas-massie"
   ],
   [
-    "media",
+    "non",
     15,
-    "https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping"
+    "https://www.theguardian.com/commentisfree/2026/may/23/defeat-vladimir-putin-russia-ukraine-nato-eu"
   ],
   [
-    "government",
+    "filter",
     15,
-    "https://www.theguardian.com/us-news/2026/may/21/trump-son-wedding-invite"
-  ],
-  [
-    "series",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/may/23/tom-burke-actor-interview-legends"
-  ],
-  [
-    "replace",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/may/22/trump-mainstream-media-coverage"
+    "https://www.theguardian.com/thefilter-us/2026/may/21/cleaning-wooden-cutting-boards-best-non-toxic-kitchen-upgrades"
   ],
   [
     "republicans",
     15,
-    "https://www.theguardian.com/us-news/2026/may/22/texas-democrat-maureen-galindo-zionists"
+    "https://www.latimes.com/california/story/2026-05-23/gop-governor-hopefuls-give-closing-arguments-to-oft-forgotten-central-valley-republicans"
   ],
   [
-    "thousands",
-    14,
-    "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
+    "challengers",
+    15,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "director",
+    "china",
     14,
-    "https://www.nytimes.com/2026/05/22/us/politics/tulsi-gabbard-resigns.html"
+    "https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html"
   ],
   [
-    "least",
+    "anti",
     14,
-    "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html"
+    "https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html"
   ],
   [
-    "memorial",
+    "latest",
     14,
-    "https://cooking.nytimes.com/article/memorial-day-recipes"
+    "https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html"
+  ],
+  [
+    "toxic",
+    14,
+    "https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-tank-orange-county.html"
+  ],
+  [
+    "orange",
+    14,
+    "https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-plant-leak-evacuations.html"
   ],
   [
     "summer",
     14,
-    "https://cooking.nytimes.com/article/memorial-day-recipes"
-  ],
-  [
-    "fund",
-    14,
-    "https://www.nytimes.com/2026/05/23/opinion/trump-slush-fund-republicans.html"
-  ],
-  [
-    "seat",
-    14,
-    "https://www.nytimes.com/2026/05/23/world/europe/moscow-drone-attacks-ukraine.html"
-  ],
-  [
-    "congressional",
-    14,
-    "https://www.washingtonpost.com/obituaries/2026/05/21/rafe-pomerance-who-helped-sound-alarm-climate-change-dies-79/"
-  ],
-  [
-    "military",
-    14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "secretary",
-    14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "love",
-    14,
-    "https://www.theguardian.com/books/2026/may/23/i-laughed-out-loud-dozens-of-times-authors-choose-books-to-make-you-fall-back-in-love-with-reading"
+    "https://www.theguardian.com/food/2026/may/23/move-over-matcha-lattes-horchata-is-cold-creamy-and-coming-to-a-menu-near-you"
   ],
   [
     "council",
@@ -321,58 +341,38 @@
     "https://www.theguardian.com/world/2026/may/23/board-of-peace-focus-on-hamas-risks-return-to-war-in-gaza-critics-say"
   ],
   [
-    "because",
+    "nascar",
     14,
-    "https://www.theguardian.com/world/2026/may/23/board-of-peace-focus-on-hamas-risks-return-to-war-in-gaza-critics-say"
+    "https://www.theguardian.com/sport/2026/may/23/kyle-busch-nascar-cause-of-death-pneumonia-sepsis"
   ],
   [
-    "star",
+    "school",
     14,
-    "https://www.theguardian.com/film/2026/may/23/hannah-murray-interview-wellness-cult-sectioned"
+    "https://www.theguardian.com/us-news/2026/may/23/richard-trahant-new-orleans-clergy-abuse"
   ],
   [
-    "film",
+    "island",
     14,
-    "https://www.theguardian.com/travel/2026/may/23/naples-italy-train-tour-archaeology"
+    "https://www.theguardian.com/us-news/2026/may/23/santa-rosa-island-wildfire"
   ],
   [
-    "dead",
+    "west",
     14,
-    "https://www.theguardian.com/world/2026/may/23/maldives-diving-tragedy-cave-experts-warn-danger-safety"
+    "https://www.theguardian.com/sport/2026/may/23/san-antonio-spurs-oklahoma-city-thunder-nba-playoffs-victor-wembanyama"
   ],
   [
-    "leave",
-    13,
-    "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
+    "buying",
+    14,
+    "https://www.theguardian.com/games/2026/may/19/forza-horizon-6-review-classic-open-world-racing-sim-roars-beautifully-into-japan"
   ],
   [
-    "immigration",
-    13,
-    "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
+    "bath",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/may/21/cleaning-wooden-cutting-boards-best-non-toxic-kitchen-upgrades"
   ],
   [
-    "cup",
-    13,
-    "https://www.nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html"
-  ],
-  [
-    "leading",
-    13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "food",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/23/donald-trump-revenge-republicans-thomas-massie"
-  ],
-  [
-    "won",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/23/donald-trump-revenge-republicans-thomas-massie"
-  ],
-  [
-    "don",
-    13,
-    "https://www.theguardian.com/football/2026/may/23/usmnt-player-development-youth"
+    "ryan",
+    14,
+    "https://www.latimes.com/entertainment-arts/music/story/2026-05-22/ryan-porter-los-angeles-jazz-trombonist-dies-at-46"
   ]
 ];
