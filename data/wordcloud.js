@@ -3,32 +3,32 @@
   [
     "trump",
     108,
-    "https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html"
+    "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html"
   ],
   [
     "race",
-    65,
+    71,
     "https://www.nytimes.com/2026/05/24/us/john-cornyn-ken-paxton-texas-runoff.html"
   ],
   [
     "guide",
-    60,
+    59,
     "https://www.theguardian.com/thefilter-us/2026/may/24/how-i-walk-my-cat-tips"
   ],
   [
-    "president",
-    54,
-    "https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html"
+    "california",
+    53,
+    "https://www.theguardian.com/money/2026/may/24/gen-z-college-degree-employment"
   ],
   [
-    "california",
-    54,
-    "https://www.theguardian.com/us-news/2026/may/23/california-state-of-emergency-chemical-disaster"
+    "president",
+    51,
+    "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html"
   ],
   [
     "iran",
-    44,
-    "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live"
+    42,
+    "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html"
   ],
   [
     "district",
@@ -36,179 +36,204 @@
     "https://www.theguardian.com/environment/2026/may/23/volcano-group-berlin-blackout-mystery-saboteurs"
   ],
   [
-    "late",
-    32,
-    "https://www.theguardian.com/commentisfree/2026/may/24/democrats-2024-autopsy-fails-confront-truth"
+    "chemical",
+    30,
+    "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html"
+  ],
+  [
+    "election",
+    29,
+    "https://www.nytimes.com/2026/05/24/us/john-cornyn-ken-paxton-texas-runoff.html"
   ],
   [
     "county",
     29,
-    "https://www.theguardian.com/us-news/2026/may/23/california-state-of-emergency-chemical-disaster"
+    "https://www.theguardian.com/us-news/2026/may/24/chemical-tank-california-epa-lee-zeldin"
   ],
   [
     "war",
-    25,
-    "https://www.nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html"
+    28,
+    "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html"
   ],
   [
-    "election",
-    25,
-    "https://www.nytimes.com/2026/05/24/us/john-cornyn-ken-paxton-texas-runoff.html"
-  ],
-  [
-    "colbert",
-    24,
-    "https://www.nytimes.com/2026/05/24/briefing/colberts-connection.html"
-  ],
-  [
-    "chemical",
-    23,
-    "https://www.theguardian.com/us-news/2026/may/23/california-state-of-emergency-chemical-disaster"
-  ],
-  [
-    "night",
-    23,
-    "https://www.theguardian.com/sport/2026/may/24/knicks-cavaliers-game-3-nba-playoffs"
-  ],
-  [
-    "fire",
-    22,
-    "https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html"
-  ],
-  [
-    "service",
-    22,
-    "https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html"
-  ],
-  [
-    "health",
-    21,
-    "https://www.nytimes.com/2026/05/24/us/politics/bernie-sanders-swing-district-liberals.html"
-  ],
-  [
-    "york",
-    21,
-    "https://www.nytimes.com/2026/05/24/nyregion/new-york-rape-laws.html"
-  ],
-  [
-    "game",
-    21,
-    "https://www.theguardian.com/sport/live/2026/may/24/french-open-2026-zverev-raducanu-fritz-day-one-roland-garros-live"
+    "late",
+    27,
+    "https://www.theguardian.com/us-news/2026/may/23/santa-rosa-island-wildfire"
   ],
   [
     "faces",
-    21,
-    "https://www.theguardian.com/us-news/2026/may/23/dnc-chair-ken-martin-democrats-election"
+    24,
+    "https://www.theguardian.com/world/2026/may/24/iran-leader-and-security-council-still-need-to-approve-peace-deal-with-us"
   ],
   [
-    "incumbent",
-    21,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
-  ],
-  [
-    "family",
-    19,
-    "https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html"
+    "republican",
+    24,
+    "https://www.theguardian.com/world/2026/may/24/iran-leader-and-security-council-still-need-to-approve-peace-deal-with-us"
   ],
   [
     "primary",
-    19,
-    "https://www.nytimes.com/2026/05/24/opinion/democrats-2028-election-expert.html"
+    24,
+    "https://www.theguardian.com/us-news/2026/may/24/thomas-massie-trump-republican-voters-midterms"
+  ],
+  [
+    "fire",
+    23,
+    "https://www.nytimes.com/2026/05/24/us/white-house-shooting.html"
+  ],
+  [
+    "political",
+    23,
+    "https://www.theguardian.com/us-news/2026/may/24/andrew-weissmann-donald-trump-liars-kingdom"
   ],
   [
     "democratic",
-    19,
-    "https://www.nytimes.com/2026/05/20/opinion/trump-doj-slush-fund-criminals-corruption.html"
+    23,
+    "https://www.theguardian.com/us-news/2026/may/23/california-governors-race-democratic-party"
   ],
   [
-    "least",
-    18,
-    "https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html"
+    "nation",
+    22,
+    "https://www.theguardian.com/commentisfree/2026/may/24/bruce-springsteen-trump-resistance"
   ],
   [
-    "orange",
-    18,
-    "https://www.theguardian.com/us-news/2026/may/23/california-state-of-emergency-chemical-disaster"
-  ],
-  [
-    "secret",
-    17,
-    "https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html"
-  ],
-  [
-    "democrats",
-    17,
-    "https://www.nytimes.com/2026/05/24/us/politics/bernie-sanders-swing-district-liberals.html"
-  ],
-  [
-    "republicans",
-    17,
-    "https://www.nytimes.com/2026/05/24/us/politics/bernie-sanders-swing-district-liberals.html"
-  ],
-  [
-    "stephen",
-    17,
-    "https://www.nytimes.com/2026/05/24/briefing/colberts-connection.html"
-  ],
-  [
-    "school",
-    17,
-    "https://www.theguardian.com/society/2026/may/24/violently-bullied-age-five-school-punched-teachers-ignored"
-  ],
-  [
-    "food",
-    17,
-    "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges"
+    "incumbent",
+    22,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
     "because",
-    17,
-    "https://www.theguardian.com/books/2026/may/24/could-nature-itself-hold-the-solution-to-climate-change"
-  ],
-  [
-    "love",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/may/24/to-the-new-couples-turbulence-testing-their-relationships-just-relax-and-enjoy-good-times-instead"
-  ],
-  [
-    "series",
-    17,
-    "https://www.theguardian.com/sport/2026/may/24/knicks-cavaliers-game-3-nba-playoffs"
-  ],
-  [
-    "attack",
-    16,
-    "https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html"
-  ],
-  [
-    "crisis",
-    16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "candidates",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/24/hiv-aids-trump-midterms"
-  ],
-  [
-    "won",
-    16,
-    "https://www.theguardian.com/world/2026/may/24/irish-gangland-figure-hutch-fails-dublin-byelection-bid-for-seat-in-parliament"
-  ],
-  [
-    "board",
-    16,
-    "https://www.theguardian.com/world/2026/may/23/board-of-peace-focus-on-hamas-risks-return-to-war-in-gaza-critics-say"
+    21,
+    "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html"
   ],
   [
     "star",
-    16,
-    "https://www.theguardian.com/music/2026/may/24/bebe-rexha-honest-playlist-adele-faithless-bon-jovi"
+    21,
+    "https://www.nytimes.com/2026/05/24/business/media/mandalorian-and-grogu-box-office.html"
   ],
   [
-    "memorial",
+    "orange",
+    21,
+    "https://www.theguardian.com/us-news/2026/may/24/chemical-tank-california-epa-lee-zeldin"
+  ],
+  [
+    "night",
+    21,
+    "https://www.theguardian.com/sport/2026/may/24/knicks-cavaliers-game-3-nba-playoffs"
+  ],
+  [
+    "colbert",
+    20,
+    "https://www.theguardian.com/tv-and-radio/2026/may/23/stephen-colbert-late-night"
+  ],
+  [
+    "least",
+    19,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "party",
+    19,
+    "https://www.theguardian.com/world/2026/may/24/iran-leader-and-security-council-still-need-to-approve-peace-deal-with-us"
+  ],
+  [
+    "health",
+    18,
+    "https://www.nytimes.com/2026/05/24/us/politics/bernie-sanders-swing-district-liberals.html"
+  ],
+  [
+    "tank",
+    18,
+    "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html"
+  ],
+  [
+    "york",
+    18,
+    "https://www.theguardian.com/fashion/2026/may/24/met-gala-jeff-bezos-anna-wintour"
+  ],
+  [
+    "gop",
+    18,
+    "https://www.theguardian.com/world/2026/may/24/iran-leader-and-security-council-still-need-to-approve-peace-deal-with-us"
+  ],
+  [
+    "game",
+    18,
+    "https://www.theguardian.com/football/2026/may/24/tottenham-everton-premier-league-match-report"
+  ],
+  [
+    "council",
+    18,
+    "https://www.latimes.com/california/story/2026-05-24/la-voters-will-cast-ballots-in-eight-city-council-districts-two-with-open-seats"
+  ],
+  [
+    "sen",
+    18,
+    "https://www.foxnews.com/politics/retiring-senator-warns-trump-continues-do-stupid-things-kill-gop-november"
+  ],
+  [
+    "margaret",
+    18,
+    "https://www.cbsnews.com/news/face-the-nation-full-transcript-05-24-2026/"
+  ],
+  [
+    "brennan",
+    18,
+    "https://www.cbsnews.com/news/face-the-nation-full-transcript-05-24-2026/"
+  ],
+  [
+    "police",
+    17,
+    "https://www.nytimes.com/2026/05/24/us/politics/white-house-bystander-shooting-secret-service.html"
+  ],
+  [
+    "service",
+    17,
+    "https://www.nytimes.com/2026/05/24/us/white-house-shooting.html"
+  ],
+  [
+    "social",
+    17,
+    "https://www.theguardian.com/money/2026/may/24/gen-z-college-degree-employment"
+  ],
+  [
+    "director",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/may/24/tulsi-gabbard-foreign-wars-trump"
+  ],
+  [
+    "candidates",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/24/hiv-aids-trump-midterms"
+  ],
+  [
+    "near",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/may/23/anyday-glass-container-memorial-day"
+    "https://www.nytimes.com/2026/05/24/us/white-house-shooting.html"
+  ],
+  [
+    "country",
+    16,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "governor",
+    16,
+    "https://www.theguardian.com/us-news/2026/may/24/alligator-alcatraz-ron-desantis"
+  ],
+  [
+    "buying",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/may/24/how-i-walk-my-cat-tips"
+  ],
+  [
+    "series",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/may/25/the-kindness-of-strangers-i-was-a-broke-youth-radio-host-who-couldnt-afford-a-beck-ticket-then-a-listener-called-in"
+  ],
+  [
+    "online",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/may/24/i-live-by-advice-dad-gave-me-on-his-deathbed"
   ],
   [
     "challengers",
@@ -216,34 +241,39 @@
     "https://www.latimes.com/california/story/2026-05-24/crime-rates-los-angeles-mayor-race-2026-candidates"
   ],
   [
-    "country",
+    "republicans",
     15,
-    "https://www.nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html"
+    "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html"
   ],
   [
-    "near",
+    "family",
     15,
-    "https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html"
+    "https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html"
   ],
   [
-    "killed",
+    "memorial",
     15,
-    "https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html"
+    "https://www.nytimes.com/2026/05/24/us/white-house-shooting.html"
   ],
   [
-    "died",
+    "democrats",
     15,
-    "https://www.washingtonpost.com/obituaries/2026/05/23/frank-hayden-who-laid-groundwork-special-olympics-dies-96/"
+    "https://www.nytimes.com/2026/05/24/us/politics/bernie-sanders-swing-district-liberals.html"
   ],
   [
-    "donald",
+    "experts",
     15,
-    "https://www.theguardian.com/fashion/2026/may/24/met-gala-jeff-bezos-anna-wintour"
+    "https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html"
   ],
   [
-    "political",
+    "cup",
     15,
-    "https://www.theguardian.com/us-news/2026/may/24/andrew-weissmann-donald-trump-liars-kingdom"
+    "https://www.nytimes.com/2026/05/24/world/europe/fifa-world-cup-fox-broadcast-rights.html"
+  ],
+  [
+    "far",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/may/24/bruce-springsteen-trump-resistance"
   ],
   [
     "filter",
@@ -251,24 +281,29 @@
     "https://www.theguardian.com/thefilter-us/2026/may/24/how-i-walk-my-cat-tips"
   ],
   [
-    "buying",
+    "donald",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/may/24/how-i-walk-my-cat-tips"
+    "https://www.theguardian.com/fashion/2026/may/24/met-gala-jeff-bezos-anna-wintour"
   ],
   [
-    "island",
+    "autopsy",
     15,
-    "https://www.theguardian.com/us-news/2026/may/23/santa-rosa-island-wildfire"
+    "https://www.theguardian.com/commentisfree/2026/may/24/democrats-2024-autopsy-fails-confront-truth"
   ],
   [
-    "council",
+    "won",
     15,
-    "https://www.theguardian.com/world/2026/may/23/board-of-peace-focus-on-hamas-risks-return-to-war-in-gaza-critics-say"
+    "https://www.theguardian.com/sport/2026/may/24/giro-d-italia-fredrik-dversnes-wins-stage-15-milan-finale-neutralised-rider-complaints"
   ],
   [
-    "toxic",
+    "something",
     15,
-    "https://www.theguardian.com/world/2026/may/23/pope-families-children-toxic-waste-italy-land-of-fires-cancer-naples"
+    "https://www.theguardian.com/environment/2026/may/23/volcano-group-berlin-blackout-mystery-saboteurs"
+  ],
+  [
+    "video",
+    15,
+    "https://www.theguardian.com/games/2026/may/15/how-forza-horizon-took-on-japan-with-deep-research-and-360-degree-cameras"
   ],
   [
     "court",
@@ -276,44 +311,54 @@
     "https://www.nytimes.com/2026/05/24/us/politics/supreme-court-trump-vance.html"
   ],
   [
-    "final",
+    "secret",
     14,
-    "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live"
+    "https://www.nytimes.com/2026/05/24/us/white-house-shooting.html"
+  ],
+  [
+    "texas",
+    14,
+    "https://www.nytimes.com/2026/05/24/us/john-cornyn-ken-paxton-texas-runoff.html"
   ],
   [
     "security",
     14,
-    "https://www.theguardian.com/us-news/2026/may/23/gunshots-white-house"
+    "https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html"
   ],
   [
-    "social",
+    "crisis",
     14,
-    "https://www.theguardian.com/world/2026/may/24/irish-gangland-figure-hutch-fails-dublin-byelection-bid-for-seat-in-parliament"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "experts",
+    "weekly",
     14,
     "https://www.theguardian.com/thefilter-us/2026/may/24/how-i-walk-my-cat-tips"
   ],
   [
-    "online",
+    "ebola",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/24/i-live-by-advice-dad-gave-me-on-his-deathbed"
+    "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks"
   ],
   [
-    "something",
+    "south",
     14,
-    "https://www.theguardian.com/environment/2026/may/23/volcano-group-berlin-blackout-mystery-saboteurs"
+    "https://www.theguardian.com/us-news/2026/may/23/santa-rosa-island-wildfire"
   ],
   [
-    "tank",
+    "final",
     14,
-    "https://www.theguardian.com/environment/2026/may/23/volcano-group-berlin-blackout-mystery-saboteurs"
+    "https://www.theguardian.com/us-news/2026/may/23/california-governors-race-democratic-party"
   ],
   [
-    "video",
+    "love",
     14,
-    "https://www.theguardian.com/games/2026/may/15/how-forza-horizon-took-on-japan-with-deep-research-and-360-degree-cameras"
+    "https://www.theguardian.com/commentisfree/2026/may/24/to-the-new-couples-turbulence-testing-their-relationships-just-relax-and-enjoy-good-times-instead"
+  ],
+  [
+    "cbs",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/may/23/stephen-colbert-late-night"
   ],
   [
     "bath",
@@ -321,58 +366,13 @@
     "https://www.theguardian.com/thefilter-us/2026/may/21/cleaning-wooden-cutting-boards-best-non-toxic-kitchen-upgrades"
   ],
   [
-    "backed",
-    13,
-    "https://www.nytimes.com/2026/05/24/us/john-cornyn-ken-paxton-texas-runoff.html"
+    "chris",
+    14,
+    "https://www.latimes.com/sports/soccer/story/2026-05-23/u-s-world-cup-roster-revealed-early-two-big-surprises-in-midfield"
   ],
   [
     "peace",
     13,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "term",
-    13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "governor",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/24/alligator-alcatraz-ron-desantis"
-  ],
-  [
-    "far",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/may/24/bruce-springsteen-trump-resistance"
-  ],
-  [
-    "full",
-    13,
-    "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live"
-  ],
-  [
-    "support",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/23/california-state-of-emergency-chemical-disaster"
-  ],
-  [
-    "seat",
-    13,
-    "https://www.theguardian.com/world/2026/may/24/irish-gangland-figure-hutch-fails-dublin-byelection-bid-for-seat-in-parliament"
-  ],
-  [
-    "weekly",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/may/24/how-i-walk-my-cat-tips"
-  ],
-  [
-    "director",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/may/24/tulsi-gabbard-foreign-wars-trump"
-  ],
-  [
-    "replace",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/may/24/tulsi-gabbard-foreign-wars-trump"
+    "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html"
   ]
 ];
