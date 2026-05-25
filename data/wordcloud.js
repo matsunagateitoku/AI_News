@@ -2,33 +2,28 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    108,
-    "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html"
+    92,
+    "https://www.nytimes.com/2026/05/24/us/strait-of-hormuz-reopen-iran-deal.html"
   ],
   [
     "race",
-    71,
+    78,
     "https://www.nytimes.com/2026/05/24/us/john-cornyn-ken-paxton-texas-runoff.html"
   ],
   [
-    "guide",
+    "california",
     59,
-    "https://www.theguardian.com/thefilter-us/2026/may/24/how-i-walk-my-cat-tips"
+    "https://www.nytimes.com/2026/05/24/us/california-homeless-cars-rvs.html"
   ],
   [
-    "california",
-    53,
-    "https://www.theguardian.com/money/2026/may/24/gen-z-college-degree-employment"
+    "guide",
+    58,
+    "https://www.theguardian.com/thefilter-us/2026/may/24/how-i-walk-my-cat-tips"
   ],
   [
     "president",
     51,
-    "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html"
-  ],
-  [
-    "iran",
-    42,
-    "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html"
+    "https://www.nytimes.com/2026/05/24/us/strait-of-hormuz-reopen-iran-deal.html"
   ],
   [
     "district",
@@ -36,44 +31,44 @@
     "https://www.theguardian.com/environment/2026/may/23/volcano-group-berlin-blackout-mystery-saboteurs"
   ],
   [
-    "chemical",
-    30,
-    "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html"
-  ],
-  [
-    "election",
-    29,
-    "https://www.nytimes.com/2026/05/24/us/john-cornyn-ken-paxton-texas-runoff.html"
-  ],
-  [
-    "county",
-    29,
-    "https://www.theguardian.com/us-news/2026/may/24/chemical-tank-california-epa-lee-zeldin"
-  ],
-  [
-    "war",
-    28,
-    "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html"
+    "iran",
+    37,
+    "https://www.nytimes.com/2026/05/24/us/strait-of-hormuz-reopen-iran-deal.html"
   ],
   [
     "late",
+    34,
+    "https://www.nytimes.com/2026/05/25/opinion/france-slave-trade.html"
+  ],
+  [
+    "chemical",
+    29,
+    "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html"
+  ],
+  [
+    "war",
     27,
-    "https://www.theguardian.com/us-news/2026/may/23/santa-rosa-island-wildfire"
+    "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html"
   ],
   [
-    "faces",
-    24,
-    "https://www.theguardian.com/world/2026/may/24/iran-leader-and-security-council-still-need-to-approve-peace-deal-with-us"
+    "county",
+    27,
+    "https://www.theguardian.com/us-news/2026/may/24/chemical-tank-california-epa-lee-zeldin"
   ],
   [
-    "republican",
-    24,
-    "https://www.theguardian.com/world/2026/may/24/iran-leader-and-security-council-still-need-to-approve-peace-deal-with-us"
+    "election",
+    26,
+    "https://www.nytimes.com/2026/05/24/us/john-cornyn-ken-paxton-texas-runoff.html"
   ],
   [
-    "primary",
-    24,
-    "https://www.theguardian.com/us-news/2026/may/24/thomas-massie-trump-republican-voters-midterms"
+    "tank",
+    26,
+    "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html"
+  ],
+  [
+    "night",
+    26,
+    "https://www.theguardian.com/stage/2026/may/25/la-voix-chris-dennis-interview-drag-karen-carpenter-strictly-come-dancing-eurovision"
   ],
   [
     "fire",
@@ -81,19 +76,29 @@
     "https://www.nytimes.com/2026/05/24/us/white-house-shooting.html"
   ],
   [
-    "political",
+    "least",
     23,
-    "https://www.theguardian.com/us-news/2026/may/24/andrew-weissmann-donald-trump-liars-kingdom"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "democratic",
+    "health",
     23,
-    "https://www.theguardian.com/us-news/2026/may/23/california-governors-race-democratic-party"
+    "https://www.theguardian.com/us-news/2026/may/24/alligator-alcatraz-ron-desantis"
   ],
   [
-    "nation",
+    "republican",
+    23,
+    "https://www.theguardian.com/world/2026/may/24/iran-leader-and-security-council-still-need-to-approve-peace-deal-with-us"
+  ],
+  [
+    "star",
+    23,
+    "https://www.theguardian.com/film/2026/may/25/the-mandalorian-and-grogu-has-lowest-box-office-opening-for-a-star-wars-film-in-disney-era"
+  ],
+  [
+    "colbert",
     22,
-    "https://www.theguardian.com/commentisfree/2026/may/24/bruce-springsteen-trump-resistance"
+    "https://www.theguardian.com/tv-and-radio/2026/may/23/stephen-colbert-late-night"
   ],
   [
     "incumbent",
@@ -103,137 +108,102 @@
   [
     "because",
     21,
-    "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html"
+    "https://www.theguardian.com/commentisfree/2026/may/24/democrats-2024-autopsy-fails-confront-truth"
   ],
   [
-    "star",
-    21,
-    "https://www.nytimes.com/2026/05/24/business/media/mandalorian-and-grogu-box-office.html"
-  ],
-  [
-    "orange",
-    21,
-    "https://www.theguardian.com/us-news/2026/may/24/chemical-tank-california-epa-lee-zeldin"
-  ],
-  [
-    "night",
+    "game",
     21,
     "https://www.theguardian.com/sport/2026/may/24/knicks-cavaliers-game-3-nba-playoffs"
   ],
   [
-    "colbert",
+    "faces",
     20,
-    "https://www.theguardian.com/tv-and-radio/2026/may/23/stephen-colbert-late-night"
+    "https://www.theguardian.com/world/2026/may/24/iran-leader-and-security-council-still-need-to-approve-peace-deal-with-us"
   ],
   [
-    "least",
+    "food",
     19,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.nytimes.com/2026/05/24/dining/carlo-petrini-slow-food.html"
   ],
   [
-    "party",
+    "gop",
     19,
     "https://www.theguardian.com/world/2026/may/24/iran-leader-and-security-council-still-need-to-approve-peace-deal-with-us"
   ],
   [
-    "health",
-    18,
-    "https://www.nytimes.com/2026/05/24/us/politics/bernie-sanders-swing-district-liberals.html"
+    "orange",
+    19,
+    "https://www.theguardian.com/us-news/2026/may/24/chemical-tank-california-epa-lee-zeldin"
   ],
   [
-    "tank",
+    "primary",
+    19,
+    "https://www.theguardian.com/us-news/2026/may/24/thomas-massie-trump-republican-voters-midterms"
+  ],
+  [
+    "south",
+    19,
+    "https://www.theguardian.com/world/2026/may/25/galaxy-robot-park-in-seoul-south-korea-world-first"
+  ],
+  [
+    "country",
     18,
-    "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html"
+    "https://www.nytimes.com/2026/05/24/us/green-card-application-changes-trump.html"
   ],
   [
     "york",
     18,
-    "https://www.theguardian.com/fashion/2026/may/24/met-gala-jeff-bezos-anna-wintour"
+    "https://www.nytimes.com/2026/05/24/us/manny-nosowsky-dead.html"
   ],
   [
-    "gop",
+    "nearly",
     18,
-    "https://www.theguardian.com/world/2026/may/24/iran-leader-and-security-council-still-need-to-approve-peace-deal-with-us"
+    "https://www.nytimes.com/2026/05/24/us/manny-nosowsky-dead.html"
   ],
   [
-    "game",
+    "won",
     18,
-    "https://www.theguardian.com/football/2026/may/24/tottenham-everton-premier-league-match-report"
+    "https://www.theguardian.com/stage/2026/may/25/la-voix-chris-dennis-interview-drag-karen-carpenter-strictly-come-dancing-eurovision"
   ],
   [
-    "council",
-    18,
-    "https://www.latimes.com/california/story/2026-05-24/la-voters-will-cast-ballots-in-eight-city-council-districts-two-with-open-seats"
-  ],
-  [
-    "sen",
-    18,
-    "https://www.foxnews.com/politics/retiring-senator-warns-trump-continues-do-stupid-things-kill-gop-november"
-  ],
-  [
-    "margaret",
-    18,
-    "https://www.cbsnews.com/news/face-the-nation-full-transcript-05-24-2026/"
-  ],
-  [
-    "brennan",
-    18,
-    "https://www.cbsnews.com/news/face-the-nation-full-transcript-05-24-2026/"
-  ],
-  [
-    "police",
-    17,
-    "https://www.nytimes.com/2026/05/24/us/politics/white-house-bystander-shooting-secret-service.html"
-  ],
-  [
-    "service",
+    "weekend",
     17,
     "https://www.nytimes.com/2026/05/24/us/white-house-shooting.html"
   ],
   [
-    "social",
+    "final",
     17,
-    "https://www.theguardian.com/money/2026/may/24/gen-z-college-degree-employment"
+    "https://www.theguardian.com/sport/2026/may/25/wsl-nz-shark-or-sea-lion-bite-world-surf-league-new-zealand"
   ],
   [
-    "director",
-    17,
+    "team",
+    16,
+    "https://www.nytimes.com/2026/05/24/us/politics/platner-ad-red-sox-midterms.html"
+  ],
+  [
+    "far",
+    16,
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/25/barry-manilow-interview-fans-love-coming-out-turning-82"
+  ],
+  [
+    "political",
+    16,
+    "https://www.theguardian.com/music/2026/may/25/paul-mccartney-the-boys-of-dungeon-lane-review-83"
+  ],
+  [
+    "explosion",
+    16,
+    "https://www.theguardian.com/us-news/2026/may/24/chemical-tank-california-epa-lee-zeldin"
+  ],
+  [
+    "court",
+    16,
+    "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court"
+  ],
+  [
+    "support",
+    16,
     "https://www.theguardian.com/commentisfree/2026/may/24/tulsi-gabbard-foreign-wars-trump"
-  ],
-  [
-    "candidates",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/24/hiv-aids-trump-midterms"
-  ],
-  [
-    "near",
-    16,
-    "https://www.nytimes.com/2026/05/24/us/white-house-shooting.html"
-  ],
-  [
-    "country",
-    16,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "governor",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/24/alligator-alcatraz-ron-desantis"
-  ],
-  [
-    "buying",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/may/24/how-i-walk-my-cat-tips"
-  ],
-  [
-    "series",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/may/25/the-kindness-of-strangers-i-was-a-broke-youth-radio-host-who-couldnt-afford-a-beck-ticket-then-a-listener-called-in"
-  ],
-  [
-    "online",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/may/24/i-live-by-advice-dad-gave-me-on-his-deathbed"
   ],
   [
     "challengers",
@@ -241,39 +211,34 @@
     "https://www.latimes.com/california/story/2026-05-24/crime-rates-los-angeles-mayor-race-2026-candidates"
   ],
   [
-    "republicans",
+    "market",
     15,
-    "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html"
+    "https://www.nytimes.com/2026/05/25/business/chinese-luxury-brands.html"
   ],
   [
-    "family",
+    "anti",
     15,
-    "https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html"
+    "https://www.nytimes.com/2026/05/24/world/europe/ukraine-melnyk-nationalist-collaborator.html"
   ],
   [
-    "memorial",
+    "already",
     15,
-    "https://www.nytimes.com/2026/05/24/us/white-house-shooting.html"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "democrats",
+    "something",
     15,
-    "https://www.nytimes.com/2026/05/24/us/politics/bernie-sanders-swing-district-liberals.html"
+    "https://www.theguardian.com/global-development/2026/may/25/danger-islamophobia-antisemitism-hatred-anti-muslim-abuse"
   ],
   [
-    "experts",
+    "music",
     15,
-    "https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html"
+    "https://www.theguardian.com/music/2026/may/25/paul-mccartney-the-boys-of-dungeon-lane-review-83"
   ],
   [
-    "cup",
+    "cat",
     15,
-    "https://www.nytimes.com/2026/05/24/world/europe/fifa-world-cup-fox-broadcast-rights.html"
-  ],
-  [
-    "far",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/may/24/bruce-springsteen-trump-resistance"
+    "https://www.theguardian.com/thefilter-us/2026/may/24/how-i-walk-my-cat-tips"
   ],
   [
     "filter",
@@ -281,79 +246,109 @@
     "https://www.theguardian.com/thefilter-us/2026/may/24/how-i-walk-my-cat-tips"
   ],
   [
-    "donald",
+    "buying",
     15,
-    "https://www.theguardian.com/fashion/2026/may/24/met-gala-jeff-bezos-anna-wintour"
-  ],
-  [
-    "autopsy",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/may/24/democrats-2024-autopsy-fails-confront-truth"
-  ],
-  [
-    "won",
-    15,
-    "https://www.theguardian.com/sport/2026/may/24/giro-d-italia-fredrik-dversnes-wins-stage-15-milan-finale-neutralised-rider-complaints"
-  ],
-  [
-    "something",
-    15,
-    "https://www.theguardian.com/environment/2026/may/23/volcano-group-berlin-blackout-mystery-saboteurs"
-  ],
-  [
-    "video",
-    15,
-    "https://www.theguardian.com/games/2026/may/15/how-forza-horizon-took-on-japan-with-deep-research-and-360-degree-cameras"
-  ],
-  [
-    "court",
-    14,
-    "https://www.nytimes.com/2026/05/24/us/politics/supreme-court-trump-vance.html"
-  ],
-  [
-    "secret",
-    14,
-    "https://www.nytimes.com/2026/05/24/us/white-house-shooting.html"
-  ],
-  [
-    "texas",
-    14,
-    "https://www.nytimes.com/2026/05/24/us/john-cornyn-ken-paxton-texas-runoff.html"
-  ],
-  [
-    "security",
-    14,
-    "https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html"
-  ],
-  [
-    "crisis",
-    14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "weekly",
-    14,
     "https://www.theguardian.com/thefilter-us/2026/may/24/how-i-walk-my-cat-tips"
+  ],
+  [
+    "place",
+    15,
+    "https://www.theguardian.com/world/2026/may/24/iran-leader-and-security-council-still-need-to-approve-peace-deal-with-us"
+  ],
+  [
+    "film",
+    15,
+    "https://www.theguardian.com/film/2026/may/25/the-mandalorian-and-grogu-has-lowest-box-office-opening-for-a-star-wars-film-in-disney-era"
+  ],
+  [
+    "summer",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/24/iowa-truck-stop-gas-prices"
+  ],
+  [
+    "series",
+    15,
+    "https://www.theguardian.com/media/2026/may/25/10-of-the-guardian-most-memorable-passnotes"
+  ],
+  [
+    "potential",
+    14,
+    "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html"
+  ],
+  [
+    "administration",
+    14,
+    "https://www.nytimes.com/2026/05/24/us/politics/trump-lists-noncitizens-states.html"
   ],
   [
     "ebola",
     14,
-    "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks"
+    "https://www.nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html"
   ],
   [
-    "south",
+    "outbreak",
     14,
-    "https://www.theguardian.com/us-news/2026/may/23/santa-rosa-island-wildfire"
+    "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
   ],
   [
-    "final",
+    "fight",
     14,
-    "https://www.theguardian.com/us-news/2026/may/23/california-governors-race-democratic-party"
+    "https://www.nytimes.com/2026/05/24/us/john-cornyn-ken-paxton-texas-runoff.html"
   ],
   [
-    "love",
+    "ukraine",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/24/to-the-new-couples-turbulence-testing-their-relationships-just-relax-and-enjoy-good-times-instead"
+    "https://www.nytimes.com/2026/05/24/world/europe/ukraine-melnyk-nationalist-collaborator.html"
+  ],
+  [
+    "fans",
+    14,
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/25/barry-manilow-interview-fans-love-coming-out-turning-82"
+  ],
+  [
+    "don",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/may/24/democrats-2024-autopsy-fails-confront-truth"
+  ],
+  [
+    "director",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/may/24/democrats-2024-autopsy-fails-confront-truth"
+  ],
+  [
+    "experts",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/may/24/how-i-walk-my-cat-tips"
+  ],
+  [
+    "family",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/may/24/how-i-walk-my-cat-tips"
+  ],
+  [
+    "party",
+    14,
+    "https://www.theguardian.com/world/2026/may/24/iran-leader-and-security-council-still-need-to-approve-peace-deal-with-us"
+  ],
+  [
+    "voters",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/24/thomas-massie-trump-republican-voters-midterms"
+  ],
+  [
+    "russia",
+    14,
+    "https://www.theguardian.com/world/2026/may/24/russia-hits-kyiv-ukraine-hypersonic-ballistic-missile"
+  ],
+  [
+    "win",
+    14,
+    "https://www.theguardian.com/world/2026/may/25/sweden-pm-ivf-re-election-record-low-birthrate"
+  ],
+  [
+    "wins",
+    14,
+    "https://www.theguardian.com/sport/2026/may/24/emma-raducanu-slumps-to-straight-sets-defeat-in-french-open-first-round"
   ],
   [
     "cbs",
@@ -366,13 +361,18 @@
     "https://www.theguardian.com/thefilter-us/2026/may/21/cleaning-wooden-cutting-boards-best-non-toxic-kitchen-upgrades"
   ],
   [
-    "chris",
+    "council",
     14,
-    "https://www.latimes.com/sports/soccer/story/2026-05-23/u-s-world-cup-roster-revealed-early-two-big-surprises-in-midfield"
+    "https://www.latimes.com/california/story/2026-05-24/la-voters-will-cast-ballots-in-eight-city-council-districts-two-with-open-seats"
   ],
   [
-    "peace",
+    "release",
     13,
-    "https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html"
+    "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical-ai.html"
+  ],
+  [
+    "memorial",
+    13,
+    "https://www.nytimes.com/2026/05/24/us/white-house-shooting.html"
   ]
 ];
