@@ -2,18 +2,18 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    75,
-    "https://www.nytimes.com/2026/05/24/us/strait-of-hormuz-reopen-iran-deal.html"
+    85,
+    "https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html"
   ],
   [
     "race",
-    70,
-    "https://www.theguardian.com/sport/2026/may/25/suarez-pays-tribute-to-kyle-busch-after-coca-cola-600-win-this-one-is-for-him"
+    65,
+    "https://www.theguardian.com/uk-news/2026/may/25/cheese-rolling-german-youtuber-tom-kopke-beats-all-time-champion-chris-anderson"
   ],
   [
     "california",
-    62,
-    "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html"
+    61,
+    "https://www.nytimes.com/2026/05/24/us/waymo-robot-taxis-blind.html"
   ],
   [
     "guide",
@@ -22,88 +22,103 @@
   ],
   [
     "iran",
-    43,
-    "https://www.nytimes.com/2026/05/24/us/strait-of-hormuz-reopen-iran-deal.html"
-  ],
-  [
-    "district",
-    40,
-    "https://www.nytimes.com/2026/05/25/us/maureen-galindo-texas-runoff-antisemitism.html"
-  ],
-  [
-    "war",
-    40,
-    "https://www.nytimes.com/2026/05/25/us/memorial-day-arlington-national-cemetery.html"
+    55,
+    "https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html"
   ],
   [
     "president",
-    35,
-    "https://www.nytimes.com/2026/05/24/us/strait-of-hormuz-reopen-iran-deal.html"
+    40,
+    "https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html"
+  ],
+  [
+    "district",
+    38,
+    "https://www.theguardian.com/world/2026/may/25/tokyo-mall-spraying-incident-people-injured"
   ],
   [
     "memorial",
-    32,
-    "https://www.nytimes.com/2026/05/25/us/memorial-day-arlington-national-cemetery.html"
+    36,
+    "https://www.nytimes.com/2026/05/25/us/long-summer-memorial-day-labor-day.html"
   ],
   [
-    "county",
-    29,
-    "https://www.theguardian.com/us-news/2026/may/24/chemical-tank-california-epa-lee-zeldin"
+    "war",
+    31,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
     "chemical",
-    27,
-    "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html"
+    30,
+    "https://www.nytimes.com/2026/05/25/us/chemical-tank-garden-grove.html"
   ],
   [
-    "tank",
-    23,
-    "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html"
-  ],
-  [
-    "leo",
-    21,
-    "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html"
-  ],
-  [
-    "election",
-    21,
-    "https://www.nytimes.com/2026/05/25/us/maureen-galindo-texas-runoff-antisemitism.html"
-  ],
-  [
-    "pope",
-    20,
-    "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html"
-  ],
-  [
-    "incumbent",
-    20,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
-  ],
-  [
-    "primary",
-    19,
-    "https://www.nytimes.com/2026/05/25/us/maureen-galindo-texas-runoff-antisemitism.html"
+    "county",
+    26,
+    "https://www.theguardian.com/us-news/2026/may/25/chemical-tank-crack-california"
   ],
   [
     "team",
-    19,
+    25,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "because",
-    19,
-    "https://www.theguardian.com/lifeandstyle/2026/may/26/surgical-assistant-a-job-that-changed-me"
+    "tank",
+    24,
+    "https://www.nytimes.com/2026/05/25/us/chemical-tank-garden-grove.html"
   ],
   [
-    "faces",
-    19,
-    "https://www.theguardian.com/food/2026/may/25/gyg-class-action-workers-closed-chicago-stores-guzman-y-gomez"
+    "election",
+    22,
+    "https://www.theguardian.com/world/2026/may/25/far-right-elam-party-inspired-by-golden-dawn-makes-big-gains-in-cyprus-elections"
+  ],
+  [
+    "cbs",
+    21,
+    "https://www.theguardian.com/tv-and-radio/2026/may/22/memories-late-show-stephen-colbert"
+  ],
+  [
+    "incumbent",
+    21,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
+  ],
+  [
+    "peace",
+    20,
+    "https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html"
   ],
   [
     "republican",
+    20,
+    "https://www.nytimes.com/2026/05/25/nyregion/tom-kean-new-jersey-missing.html"
+  ],
+  [
+    "country",
+    20,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "board",
+    20,
+    "https://www.theguardian.com/music/2026/may/25/taylor-swift-wedding-guest-list-plus-ones"
+  ],
+  [
+    "primary",
+    20,
+    "https://www.theguardian.com/us-news/2026/may/24/thomas-massie-trump-republican-voters-midterms"
+  ],
+  [
+    "pope",
+    19,
+    "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html"
+  ],
+  [
+    "leo",
+    19,
+    "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html"
+  ],
+  [
+    "party",
     18,
-    "https://www.nytimes.com/2026/05/25/us/politics/trump-gop-fears-midterms.html"
+    "https://www.nytimes.com/2026/05/25/nyregion/knicks-watch-party-garden.html"
   ],
   [
     "film",
@@ -111,79 +126,84 @@
     "https://www.nytimes.com/2026/05/25/climate/al-gore-an-inconvenient-truth.html"
   ],
   [
+    "game",
+    18,
+    "https://www.theguardian.com/sport/2026/may/25/victor-wembanyama-spurs-thunder-nba-playoffs"
+  ],
+  [
+    "government",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/may/25/american-presidency-trump"
+  ],
+  [
     "cat",
     18,
     "https://www.theguardian.com/thefilter-us/2026/may/25/products-to-protect-furniture-from-cats"
   ],
   [
-    "party",
-    17,
-    "https://www.nytimes.com/2026/05/25/us/maureen-galindo-texas-runoff-antisemitism.html"
+    "faces",
+    18,
+    "https://www.theguardian.com/food/2026/may/25/gyg-class-action-workers-closed-chicago-stores-guzman-y-gomez"
   ],
   [
-    "country",
+    "israel",
     17,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "star",
-    17,
-    "https://www.theguardian.com/sport/2026/may/25/victor-wembanyama-spurs-thunder-nba-playoffs"
-  ],
-  [
-    "buying",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/may/25/products-to-protect-furniture-from-cats"
-  ],
-  [
-    "health",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/25/ebola-hantavirus-conspiracy-theories"
+    "https://www.nytimes.com/2025/10/13/world/middleeast/abraham-accords-israel-arab-states-deal-trump.html"
   ],
   [
     "explosion",
     17,
-    "https://www.theguardian.com/us-news/2026/may/25/chemical-tank-crack-california"
-  ],
-  [
-    "video",
-    17,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/25/barry-manilow-interview-fans-love-coming-out-turning-82"
-  ],
-  [
-    "orange",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/24/chemical-tank-california-epa-lee-zeldin"
-  ],
-  [
-    "israel",
-    16,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/05/25/us/chemical-tank-garden-grove.html"
   ],
   [
     "fire",
-    16,
+    17,
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "game",
+    "democratic",
+    17,
+    "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who"
+  ],
+  [
+    "star",
     16,
     "https://www.theguardian.com/sport/2026/may/25/victor-wembanyama-spurs-thunder-nba-playoffs"
   ],
   [
-    "series",
+    "buying",
     16,
-    "https://www.theguardian.com/sport/2026/may/25/victor-wembanyama-spurs-thunder-nba-playoffs"
+    "https://www.theguardian.com/thefilter-us/2026/may/25/products-to-protect-furniture-from-cats"
   ],
   [
-    "family",
+    "west",
     16,
-    "https://www.theguardian.com/world/2026/may/25/trump-tower-georgia-tbilisi-land-part-owned-son-us-sanctions-leader"
+    "https://www.theguardian.com/world/2026/may/25/armenia-election-crossroads-between-east-west"
   ],
   [
-    "weekend",
+    "health",
+    16,
+    "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who"
+  ],
+  [
+    "orange",
     16,
     "https://www.theguardian.com/us-news/2026/may/25/chemical-tank-crack-california"
+  ],
+  [
+    "cup",
+    16,
+    "https://www.theguardian.com/world/2026/may/25/mexico-fifa-iran-team"
+  ],
+  [
+    "because",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/may/26/surgical-assistant-a-job-that-changed-me"
+  ],
+  [
+    "food",
+    16,
+    "https://www.theguardian.com/food/2026/may/25/gyg-class-action-workers-closed-chicago-stores-guzman-y-gomez"
   ],
   [
     "challengers",
@@ -193,17 +213,7 @@
   [
     "council",
     16,
-    "https://www.latimes.com/california/story/2026-05-24/la-voters-will-cast-ballots-in-eight-city-council-districts-two-with-open-seats"
-  ],
-  [
-    "democratic",
-    15,
-    "https://www.nytimes.com/2026/05/25/us/maureen-galindo-texas-runoff-antisemitism.html"
-  ],
-  [
-    "food",
-    15,
-    "https://www.nytimes.com/2026/05/25/nyregion/park-slope-coop-israel-boycott.html"
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide"
   ],
   [
     "gaza",
@@ -211,7 +221,7 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "court",
+    "series",
     15,
     "https://www.theguardian.com/sport/2026/may/25/victor-wembanyama-spurs-thunder-nba-playoffs"
   ],
@@ -221,14 +231,19 @@
     "https://www.theguardian.com/thefilter-us/2026/may/25/products-to-protect-furniture-from-cats"
   ],
   [
-    "local",
+    "video",
     15,
-    "https://www.theguardian.com/world/2026/may/25/trump-tower-georgia-tbilisi-land-part-owned-son-us-sanctions-leader"
+    "https://www.theguardian.com/us-news/2026/may/25/texas-baby-rescue-car-floodwaters"
   ],
   [
-    "love",
+    "biggest",
     15,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/25/barry-manilow-interview-fans-love-coming-out-turning-82"
+    "https://www.theguardian.com/sport/2026/may/25/french-open-heat-wave-hot-temperature-tennis"
+  ],
+  [
+    "democrats",
+    15,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
     "nearly",
@@ -236,24 +251,64 @@
     "https://www.nytimes.com/2026/05/25/business/iran-strait-hormuz-shipping-traffic.html"
   ],
   [
+    "something",
+    14,
+    "https://www.nytimes.com/2026/05/25/health/cholesterol-ldl-gene-therapy.html"
+  ],
+  [
+    "record",
+    14,
+    "https://www.nytimes.com/2026/05/25/weather/uk-heat-wave-may-weather-record.html"
+  ],
+  [
+    "ice",
+    14,
+    "https://www.nytimes.com/2026/05/25/nyregion/sherrill-ice-delaney-hunger-strike.html"
+  ],
+  [
+    "latest",
+    14,
+    "https://www.nytimes.com/2026/05/25/nyregion/sherrill-ice-delaney-hunger-strike.html"
+  ],
+  [
+    "crisis",
+    14,
+    "https://www.nytimes.com/2026/05/25/world/americas/cuba-blackouts-fire-energy-oil.html"
+  ],
+  [
+    "weekly",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/may/25/products-to-protect-furniture-from-cats"
+  ],
+  [
     "europe",
     14,
-    "https://www.nytimes.com/2026/05/25/world/europe/wine-truffles-firefighting-climate-change.html"
+    "https://www.theguardian.com/world/2026/may/25/armenia-election-crossroads-between-east-west"
   ],
   [
-    "experts",
+    "love",
     14,
-    "https://www.theguardian.com/us-news/2026/may/25/ebola-hantavirus-conspiracy-theories"
+    "https://www.theguardian.com/global-development/2026/may/25/poetry-students-gaza-palestine-glasgow-university-alison-phipps"
   ],
   [
-    "kyle",
+    "nothing",
     14,
-    "https://www.theguardian.com/sport/2026/may/25/suarez-pays-tribute-to-kyle-busch-after-coca-cola-600-win-this-one-is-for-him"
+    "https://www.theguardian.com/australia-news/ng-interactive/2026/may/25/worlds-longest-golf-course-australian-outback"
   ],
   [
-    "gop",
+    "email",
     14,
-    "https://www.theguardian.com/us-news/2026/may/24/thomas-massie-trump-republican-voters-midterms"
+    "https://www.theguardian.com/commentisfree/2026/may/25/stories-gaza-women-horrors-israel"
+  ],
+  [
+    "island",
+    14,
+    "https://www.theguardian.com/world/2026/may/25/far-right-elam-party-inspired-by-golden-dawn-makes-big-gains-in-cyprus-elections"
+  ],
+  [
+    "review",
+    14,
+    "https://www.theguardian.com/film/2026/may/25/tuner-review-leo-woodall-dustin-hoffman"
   ],
   [
     "bath",
@@ -261,59 +316,44 @@
     "https://www.theguardian.com/thefilter-us/2026/may/21/cleaning-wooden-cutting-boards-best-non-toxic-kitchen-upgrades"
   ],
   [
-    "democrats",
-    14,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
+    "encyclical",
+    13,
+    "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html"
   ],
   [
-    "peace",
+    "intelligence",
     13,
-    "https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html"
+    "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html"
   ],
   [
-    "crisis",
+    "talks",
     13,
-    "https://www.nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html"
+    "https://www.nytimes.com/2025/10/13/world/middleeast/abraham-accords-israel-arab-states-deal-trump.html"
   ],
   [
-    "risk",
+    "court",
     13,
-    "https://www.nytimes.com/2026/05/25/world/europe/a-city-in-the-kill-zone.html"
+    "https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html"
   ],
   [
-    "something",
+    "summer",
     13,
-    "https://www.nytimes.com/2026/05/25/health/cholesterol-ldl-gene-therapy.html"
+    "https://www.nytimes.com/2026/05/24/books/review/summer-beach-reads.html"
   ],
   [
-    "university",
+    "body",
     13,
-    "https://www.theguardian.com/commentisfree/2026/may/25/american-presidency-trump"
+    "https://www.nytimes.com/2026/05/24/books/review/summer-beach-reads.html"
   ],
   [
-    "weekly",
+    "water",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/may/25/products-to-protect-furniture-from-cats"
+    "https://www.nytimes.com/2026/05/24/books/review/summer-beach-reads.html"
   ],
   [
-    "really",
+    "experts",
     13,
-    "https://www.theguardian.com/us-news/2026/may/25/luigi-mangione-fans-press-passes-new-york-trial"
-  ],
-  [
-    "email",
-    13,
-    "https://www.theguardian.com/world/2026/may/25/bhp-files-leak-mining-company-climate-action"
-  ],
-  [
-    "record",
-    13,
-    "https://www.theguardian.com/sport/2026/may/25/enhanced-games-results-record-clean-athletes-win"
-  ],
-  [
-    "win",
-    13,
-    "https://www.theguardian.com/sport/2026/may/25/enhanced-games-results-record-clean-athletes-win"
+    "https://www.theguardian.com/environment/2026/may/25/louisiana-state-senator-jay-morris-meta-datacenter"
   ],
   [
     "sex",
@@ -326,53 +366,13 @@
     "https://www.theguardian.com/lifeandstyle/2026/may/26/surgical-assistant-a-job-that-changed-me"
   ],
   [
-    "island",
+    "win",
     13,
-    "https://www.theguardian.com/environment/2026/may/25/weather-tracker-flash-floods-new-york-heat-dome-europe"
+    "https://www.theguardian.com/sport/2026/may/25/enhanced-games-results-record-clean-athletes-win"
   ],
   [
-    "review",
+    "gop",
     13,
-    "https://www.theguardian.com/film/2026/may/25/tuner-review-leo-woodall-dustin-hoffman"
-  ],
-  [
-    "board",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/may/21/cleaning-wooden-cutting-boards-best-non-toxic-kitchen-upgrades"
-  ],
-  [
-    "intelligence",
-    12,
-    "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html"
-  ],
-  [
-    "american",
-    12,
-    "https://www.nytimes.com/2026/05/25/technology/pope-ai-silicon-valley.html"
-  ],
-  [
-    "pressure",
-    12,
-    "https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html"
-  ],
-  [
-    "won",
-    12,
-    "https://www.nytimes.com/2026/05/25/business/iran-strait-hormuz-shipping-traffic.html"
-  ],
-  [
-    "body",
-    12,
-    "https://www.nytimes.com/2026/05/24/books/review/summer-beach-reads.html"
-  ],
-  [
-    "already",
-    12,
-    "https://www.nytimes.com/2026/05/25/us/snow-pack-summer-drought.html"
-  ],
-  [
-    "final",
-    12,
-    "https://www.theguardian.com/sport/2026/may/25/victor-wembanyama-spurs-thunder-nba-playoffs"
+    "https://www.theguardian.com/us-news/2026/may/24/thomas-massie-trump-republican-voters-midterms"
   ]
 ];
