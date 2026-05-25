@@ -7,22 +7,22 @@
   ],
   [
     "race",
-    72,
-    "https://www.nytimes.com/2026/05/25/us/politics/texas-cornyn-paxton-senate-campaign.html"
+    70,
+    "https://www.theguardian.com/sport/2026/may/25/suarez-pays-tribute-to-kyle-busch-after-coca-cola-600-win-this-one-is-for-him"
   ],
   [
     "california",
-    58,
+    62,
     "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html"
   ],
   [
     "guide",
-    58,
-    "https://www.theguardian.com/books/2026/may/25/a-billion-years-of-sex-differences-by-steve-stewart-williams-review-what-we-get-wrong-about-men-and-women"
+    59,
+    "https://www.theguardian.com/thefilter-us/2026/may/25/products-to-protect-furniture-from-cats"
   ],
   [
     "iran",
-    41,
+    43,
     "https://www.nytimes.com/2026/05/24/us/strait-of-hormuz-reopen-iran-deal.html"
   ],
   [
@@ -31,104 +31,79 @@
     "https://www.nytimes.com/2026/05/25/us/maureen-galindo-texas-runoff-antisemitism.html"
   ],
   [
+    "war",
+    40,
+    "https://www.nytimes.com/2026/05/25/us/memorial-day-arlington-national-cemetery.html"
+  ],
+  [
     "president",
-    39,
+    35,
     "https://www.nytimes.com/2026/05/24/us/strait-of-hormuz-reopen-iran-deal.html"
   ],
   [
-    "war",
-    37,
+    "memorial",
+    32,
     "https://www.nytimes.com/2026/05/25/us/memorial-day-arlington-national-cemetery.html"
   ],
   [
     "county",
-    27,
+    29,
     "https://www.theguardian.com/us-news/2026/may/24/chemical-tank-california-epa-lee-zeldin"
   ],
   [
-    "night",
-    24,
-    "https://www.nytimes.com/2026/05/25/nyregion/uws-car-crash-victims.html"
-  ],
-  [
-    "game",
-    24,
-    "https://www.theguardian.com/sport/2026/may/25/spurs-thunder-western-conferece-finals-game-4-wembanyama"
-  ],
-  [
-    "election",
-    23,
-    "https://www.nytimes.com/2026/05/25/us/maureen-galindo-texas-runoff-antisemitism.html"
-  ],
-  [
-    "memorial",
-    23,
-    "https://www.nytimes.com/2026/05/25/us/memorial-day-arlington-national-cemetery.html"
-  ],
-  [
     "chemical",
-    23,
+    27,
     "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html"
-  ],
-  [
-    "republican",
-    22,
-    "https://www.nytimes.com/2026/05/25/us/politics/trump-gop-fears-midterms.html"
-  ],
-  [
-    "incumbent",
-    22,
-    "https://www.nytimes.com/2026/05/25/us/politics/texas-cornyn-paxton-senate-campaign.html"
-  ],
-  [
-    "health",
-    22,
-    "https://www.theguardian.com/tv-and-radio/2026/may/25/grizz-chapman-actor-30-rock-dies-aged-52"
   ],
   [
     "tank",
-    21,
+    23,
     "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html"
   ],
   [
-    "faces",
+    "leo",
     21,
-    "https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz"
+    "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html"
   ],
   [
-    "primary",
-    20,
+    "election",
+    21,
     "https://www.nytimes.com/2026/05/25/us/maureen-galindo-texas-runoff-antisemitism.html"
   ],
   [
-    "fire",
+    "pope",
     20,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html"
   ],
   [
-    "china",
-    19,
-    "https://www.nytimes.com/2026/05/25/business/chinese-luxury-brands.html"
+    "incumbent",
+    20,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "late",
+    "primary",
     19,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/25/barry-manilow-interview-fans-love-coming-out-turning-82"
+    "https://www.nytimes.com/2026/05/25/us/maureen-galindo-texas-runoff-antisemitism.html"
+  ],
+  [
+    "team",
+    19,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "because",
     19,
-    "https://www.theguardian.com/commentisfree/2026/may/25/angela-merkel-vladimir-putin-ukraine-war-kyiv"
+    "https://www.theguardian.com/lifeandstyle/2026/may/26/surgical-assistant-a-job-that-changed-me"
   ],
   [
-    "explosion",
+    "faces",
     19,
-    "https://www.theguardian.com/us-news/2026/may/24/chemical-tank-california-epa-lee-zeldin"
+    "https://www.theguardian.com/food/2026/may/25/gyg-class-action-workers-closed-chicago-stores-guzman-y-gomez"
   ],
   [
-    "family",
-    19,
-    "https://www.theguardian.com/lifeandstyle/2026/may/25/the-pet-ill-never-forget-tilly-the-rabbit-who-taught-us-how-to-raise-a-family"
+    "republican",
+    18,
+    "https://www.nytimes.com/2026/05/25/us/politics/trump-gop-fears-midterms.html"
   ],
   [
     "film",
@@ -136,29 +111,44 @@
     "https://www.nytimes.com/2026/05/25/climate/al-gore-an-inconvenient-truth.html"
   ],
   [
-    "least",
+    "cat",
     18,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.theguardian.com/thefilter-us/2026/may/25/products-to-protect-furniture-from-cats"
   ],
   [
-    "south",
-    18,
-    "https://www.theguardian.com/lifeandstyle/2026/may/25/the-pet-ill-never-forget-tilly-the-rabbit-who-taught-us-how-to-raise-a-family"
-  ],
-  [
-    "already",
+    "party",
     17,
-    "https://www.nytimes.com/2026/05/25/us/snow-pack-summer-drought.html"
+    "https://www.nytimes.com/2026/05/25/us/maureen-galindo-texas-runoff-antisemitism.html"
   ],
   [
-    "food",
+    "country",
     17,
-    "https://www.nytimes.com/2026/05/25/nyregion/park-slope-coop-israel-boycott.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "win",
+    "star",
     17,
-    "https://www.theguardian.com/world/2026/may/25/sweden-pm-ivf-re-election-record-low-birthrate"
+    "https://www.theguardian.com/sport/2026/may/25/victor-wembanyama-spurs-thunder-nba-playoffs"
+  ],
+  [
+    "buying",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/may/25/products-to-protect-furniture-from-cats"
+  ],
+  [
+    "health",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/25/ebola-hantavirus-conspiracy-theories"
+  ],
+  [
+    "explosion",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/25/chemical-tank-crack-california"
+  ],
+  [
+    "video",
+    17,
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/25/barry-manilow-interview-fans-love-coming-out-turning-82"
   ],
   [
     "orange",
@@ -166,29 +156,34 @@
     "https://www.theguardian.com/us-news/2026/may/24/chemical-tank-california-epa-lee-zeldin"
   ],
   [
-    "star",
-    17,
-    "https://www.theguardian.com/film/2026/may/25/films-more-likely-to-star-an-actor-called-chris-or-a-talking-animal-than-a-woman-over-60-study-finds"
+    "israel",
+    16,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "party",
+    "fire",
     16,
-    "https://www.nytimes.com/2026/05/25/us/maureen-galindo-texas-runoff-antisemitism.html"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "summer",
+    "game",
     16,
-    "https://www.nytimes.com/2026/05/24/books/review/summer-beach-reads.html"
+    "https://www.theguardian.com/sport/2026/may/25/victor-wembanyama-spurs-thunder-nba-playoffs"
   ],
   [
-    "country",
+    "series",
     16,
-    "https://www.nytimes.com/2026/05/24/us/green-card-application-changes-trump.html"
+    "https://www.theguardian.com/sport/2026/may/25/victor-wembanyama-spurs-thunder-nba-playoffs"
   ],
   [
-    "gop",
+    "family",
     16,
-    "https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz"
+    "https://www.theguardian.com/world/2026/may/25/trump-tower-georgia-tbilisi-land-part-owned-son-us-sanctions-leader"
+  ],
+  [
+    "weekend",
+    16,
+    "https://www.theguardian.com/us-news/2026/may/25/chemical-tank-crack-california"
   ],
   [
     "challengers",
@@ -206,9 +201,9 @@
     "https://www.nytimes.com/2026/05/25/us/maureen-galindo-texas-runoff-antisemitism.html"
   ],
   [
-    "administration",
+    "food",
     15,
-    "https://www.nytimes.com/2026/05/24/us/green-card-application-changes-trump.html"
+    "https://www.nytimes.com/2026/05/25/nyregion/park-slope-coop-israel-boycott.html"
   ],
   [
     "gaza",
@@ -216,19 +211,29 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "video",
+    "court",
+    15,
+    "https://www.theguardian.com/sport/2026/may/25/victor-wembanyama-spurs-thunder-nba-playoffs"
+  ],
+  [
+    "filter",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/may/25/products-to-protect-furniture-from-cats"
+  ],
+  [
+    "local",
+    15,
+    "https://www.theguardian.com/world/2026/may/25/trump-tower-georgia-tbilisi-land-part-owned-son-us-sanctions-leader"
+  ],
+  [
+    "love",
     15,
     "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/25/barry-manilow-interview-fans-love-coming-out-turning-82"
   ],
   [
-    "experts",
-    15,
-    "https://www.theguardian.com/society/2026/may/25/counter-online-misinformation-perimenopause-contraception"
-  ],
-  [
-    "york",
+    "nearly",
     14,
-    "https://www.nytimes.com/2026/05/25/nyregion/lawmakers-pay-budget-ny.html"
+    "https://www.nytimes.com/2026/05/25/business/iran-strait-hormuz-shipping-traffic.html"
   ],
   [
     "europe",
@@ -236,54 +241,19 @@
     "https://www.nytimes.com/2026/05/25/world/europe/wine-truffles-firefighting-climate-change.html"
   ],
   [
-    "far",
+    "experts",
     14,
-    "https://www.nytimes.com/2026/05/25/us/snow-pack-summer-drought.html"
+    "https://www.theguardian.com/us-news/2026/may/25/ebola-hantavirus-conspiracy-theories"
   ],
   [
-    "weekend",
+    "kyle",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/25/angela-merkel-vladimir-putin-ukraine-war-kyiv"
+    "https://www.theguardian.com/sport/2026/may/25/suarez-pays-tribute-to-kyle-busch-after-coca-cola-600-win-this-one-is-for-him"
   ],
   [
-    "republicans",
+    "gop",
     14,
-    "https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz"
-  ],
-  [
-    "final",
-    14,
-    "https://www.theguardian.com/sport/2026/may/25/enhanced-games-results-record-clean-athletes-win"
-  ],
-  [
-    "series",
-    14,
-    "https://www.theguardian.com/film/2026/may/25/why-bound-is-my-feelgood-movie"
-  ],
-  [
-    "island",
-    14,
-    "https://www.theguardian.com/sport/2026/may/25/wsl-nz-shark-or-sea-lion-bite-world-surf-league-new-zealand"
-  ],
-  [
-    "colbert",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/may/23/stephen-colbert-late-night"
-  ],
-  [
-    "buying",
-    14,
-    "https://www.theguardian.com/music/2026/may/24/bebe-rexha-honest-playlist-adele-faithless-bon-jovi"
-  ],
-  [
-    "filter",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/may/18/best-memorial-day-deals-sales"
-  ],
-  [
-    "board",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/may/21/cleaning-wooden-cutting-boards-best-non-toxic-kitchen-upgrades"
+    "https://www.theguardian.com/us-news/2026/may/24/thomas-massie-trump-republican-voters-midterms"
   ],
   [
     "bath",
@@ -291,14 +261,29 @@
     "https://www.theguardian.com/thefilter-us/2026/may/21/cleaning-wooden-cutting-boards-best-non-toxic-kitchen-upgrades"
   ],
   [
-    "israel",
-    13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "democrats",
+    14,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "government",
+    "peace",
     13,
-    "https://www.theguardian.com/commentisfree/2026/may/25/american-presidency-trump"
+    "https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html"
+  ],
+  [
+    "crisis",
+    13,
+    "https://www.nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html"
+  ],
+  [
+    "risk",
+    13,
+    "https://www.nytimes.com/2026/05/25/world/europe/a-city-in-the-kill-zone.html"
+  ],
+  [
+    "something",
+    13,
+    "https://www.nytimes.com/2026/05/25/health/cholesterol-ldl-gene-therapy.html"
   ],
   [
     "university",
@@ -306,73 +291,88 @@
     "https://www.theguardian.com/commentisfree/2026/may/25/american-presidency-trump"
   ],
   [
-    "love",
+    "weekly",
     13,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/25/barry-manilow-interview-fans-love-coming-out-turning-82"
+    "https://www.theguardian.com/thefilter-us/2026/may/25/products-to-protect-furniture-from-cats"
   ],
   [
-    "won",
+    "really",
     13,
-    "https://www.theguardian.com/commentisfree/2026/may/25/angela-merkel-vladimir-putin-ukraine-war-kyiv"
+    "https://www.theguardian.com/us-news/2026/may/25/luigi-mangione-fans-press-passes-new-york-trial"
+  ],
+  [
+    "email",
+    13,
+    "https://www.theguardian.com/world/2026/may/25/bhp-files-leak-mining-company-climate-action"
   ],
   [
     "record",
     13,
-    "https://www.theguardian.com/world/2026/may/25/sweden-pm-ivf-re-election-record-low-birthrate"
+    "https://www.theguardian.com/sport/2026/may/25/enhanced-games-results-record-clean-athletes-win"
   ],
   [
-    "office",
+    "win",
     13,
-    "https://www.theguardian.com/media/2026/may/25/10-of-the-guardian-most-memorable-passnotes"
+    "https://www.theguardian.com/sport/2026/may/25/enhanced-games-results-record-clean-athletes-win"
   ],
   [
-    "support",
+    "sex",
     13,
-    "https://www.theguardian.com/commentisfree/2026/may/25/family-estrangement-no-contact-mental-health-how-to-cope"
+    "https://www.theguardian.com/culture/2026/may/25/bowie-t-rex-couldnt-the-mekons-on-how-they-made-where-were-you"
   ],
   [
-    "cup",
+    "coffee",
     13,
-    "https://www.theguardian.com/football/2026/may/24/amtrak-world-cup"
+    "https://www.theguardian.com/lifeandstyle/2026/may/26/surgical-assistant-a-job-that-changed-me"
   ],
   [
-    "wins",
+    "island",
     13,
-    "https://www.theguardian.com/sport/2026/may/24/emma-raducanu-slumps-to-straight-sets-defeat-in-french-open-first-round"
+    "https://www.theguardian.com/environment/2026/may/25/weather-tracker-flash-floods-new-york-heat-dome-europe"
   ],
   [
-    "candidates",
+    "review",
     13,
-    "https://www.theguardian.com/us-news/2026/may/24/hiv-aids-trump-midterms"
+    "https://www.theguardian.com/film/2026/may/25/tuner-review-leo-woodall-dustin-hoffman"
   ],
   [
-    "governor",
+    "board",
     13,
-    "https://www.theguardian.com/us-news/2026/may/23/california-state-of-emergency-chemical-disaster"
+    "https://www.theguardian.com/thefilter-us/2026/may/21/cleaning-wooden-cutting-boards-best-non-toxic-kitchen-upgrades"
   ],
   [
-    "black",
-    13,
-    "https://www.theguardian.com/books/2026/may/25/jilly-cooper-books-ranked-ranked-rivals-riders-appassionata"
-  ],
-  [
-    "senate",
+    "intelligence",
     12,
-    "https://www.nytimes.com/2026/05/25/us/politics/texas-cornyn-paxton-senate-campaign.html"
+    "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html"
   ],
   [
-    "crisis",
+    "american",
     12,
-    "https://www.nytimes.com/2026/05/25/nyregion/lawmakers-pay-budget-ny.html"
+    "https://www.nytimes.com/2026/05/25/technology/pope-ai-silicon-valley.html"
   ],
   [
-    "response",
+    "pressure",
     12,
-    "https://www.nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html"
+    "https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html"
+  ],
+  [
+    "won",
+    12,
+    "https://www.nytimes.com/2026/05/25/business/iran-strait-hormuz-shipping-traffic.html"
   ],
   [
     "body",
     12,
     "https://www.nytimes.com/2026/05/24/books/review/summer-beach-reads.html"
+  ],
+  [
+    "already",
+    12,
+    "https://www.nytimes.com/2026/05/25/us/snow-pack-summer-drought.html"
+  ],
+  [
+    "final",
+    12,
+    "https://www.theguardian.com/sport/2026/may/25/victor-wembanyama-spurs-thunder-nba-playoffs"
   ]
 ];
