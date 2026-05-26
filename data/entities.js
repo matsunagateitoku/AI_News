@@ -3,63 +3,63 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 72,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/25/american-presidency-trump",
+      "count": 52,
+      "url": "https://www.theguardian.com/us-news/2026/may/26/republican-primary-runoff-texas",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 43,
+      "url": "https://www.theguardian.com/us-news/2026/may/26/jennifer-siebel-newsom-conservative-criticism",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 58,
-      "url": "https://www.nytimes.com/2025/10/13/world/middleeast/abraham-accords-israel-arab-states-deal-trump.html",
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html",
       "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 54,
-      "url": "https://www.theguardian.com/us-news/2026/may/25/chemical-tank-crack-california",
-      "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 33,
-      "url": "https://www.nytimes.com/2026/05/25/world/middleeast/us-iran-strikes.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 22,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Israel",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Orange County",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/may/25/chemical-tank-crack-california",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Northern Gaza",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "count": 31,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
       "source": "Wall St. Journal"
     },
     {
       "name": "Texas",
-      "count": 11,
+      "count": 23,
       "url": "https://www.washingtonpost.com/nation/2026/05/25/some-texass-oldest-barbecue-joints-close-meat-prices-skyrocket/",
       "source": "Washington Post"
     },
     {
+      "name": "L.A. County'S",
+      "count": 20,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Alabama",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/05/26/us/politics/alabama-congress-map-redistricting.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/25/american-presidency-trump",
+      "count": 13,
+      "url": "https://www.theguardian.com/world/2026/may/26/deaths-france-linked-record-high-temperatures",
       "source": "The Guardian"
+    },
+    {
+      "name": "Los Angeles County",
+      "count": 12,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-sheriff-luna-villanueva-challengers-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Israel",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/05/26/opinion/democrats-israel.html",
+      "source": "NY Times"
     }
   ],
   "EVENT": [
@@ -70,27 +70,15 @@
       "source": "LA Times"
     },
     {
-      "name": "The World Cup",
-      "count": 5,
-      "url": "https://www.theguardian.com/football/2026/may/25/spain-world-cup-squad-2026-lamine-yamal-injury",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Game 4",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/may/25/victor-wembanyama-spurs-thunder-nba-playoffs",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Sochi Olympics",
-      "count": 3,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/25/oppressing-women-authoritarianism-reform",
-      "source": "The Guardian"
-    },
-    {
       "name": "Wwii",
-      "count": 3,
+      "count": 2,
       "url": "https://www.theguardian.com/us-news/2026/may/25/wwii-soldiers-return-pennsylvania",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/2026/may/21/football-fans-world-cup-we-would-like-to-hear-from-you",
       "source": "The Guardian"
     },
     {
@@ -106,110 +94,66 @@
       "source": "NBC News"
     },
     {
-      "name": "The Industrial Revolution",
+      "name": "The Abraham Accords",
+      "count": 2,
+      "url": "https://thehill.com/homenews/house/5895169-trump-abraham-accords-auchincloss/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Carruthers",
       "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/25/the-guardian-view-on-the-pope-and-claude-encyclical-on-ai-is-right-to-put-humanity-first",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/26/tony-carruthers-tennessee-execution",
       "source": "The Guardian"
     },
     {
-      "name": "Vitamix 5200",
+      "name": "Game 4",
       "count": 1,
-      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
+      "url": "https://www.theguardian.com/sport/2026/may/25/knicks-cavaliers-eastern-conference-finals-nba",
       "source": "The Guardian"
     },
     {
-      "name": "Post-World War Ii",
+      "name": "French Open 2026",
       "count": 1,
-      "url": "https://www.latimes.com/obituaries/story/2026-05-25/sonny-rollins-jazz-saxophone-dead",
-      "source": "LA Times"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Organization And Ivanishvili",
-      "count": 53,
-      "url": "https://www.theguardian.com/world/2026/may/25/trump-tower-georgia-tbilisi-land-part-owned-son-us-sanctions-leader",
+      "url": "https://www.theguardian.com/sport/live/2026/may/26/french-open-2026-sabalenka-gauff-and-medvedev-in-action-on-sweltering-day-three-live",
       "source": "The Guardian"
     },
     {
-      "name": "Ai",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/may/25/los-angeles-delivery-robots",
+      "name": "Golden Raspberry",
+      "count": 1,
+      "url": "https://www.theguardian.com/culture/2026/may/27/mr-deeds-adam-sandler-winona-ryder-film-romcom-underrated",
       "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 13,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 12,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/25/us-iran-peace-talks-tehran-donald-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/may/24/thomas-massie-trump-republican-voters-midterms",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian Australia",
-      "count": 12,
-      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/23/running-ultramarathon-what-does-it-take-run-100-miles-ultra-trail-australia",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The California Congressional District",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "The L.A. City Council",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Cbs Evening News",
-      "count": 8,
-      "url": "https://www.cbsnews.com/video/052526-cbs-evening-news/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Hezbollah",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html",
-      "source": "NY Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 20,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/25/us-iran-peace-talks-tehran-donald-trump",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/may/26/republican-primary-runoff-texas",
       "source": "The Guardian"
     },
     {
-      "name": "Sonny Rollins",
+      "name": "Ken Paxton",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/05/25/arts/music/sonny-rollins-dead.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/us-news/2026/may/26/republican-primary-runoff-texas",
+      "source": "The Guardian"
     },
     {
-      "name": "Donald Trump Jr",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/2026/may/25/trump-tower-georgia-tbilisi-land-part-owned-son-us-sanctions-leader",
+      "name": "Donald Trump ’S",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/may/26/federal-workers-ndas",
       "source": "The Guardian"
     },
     {
       "name": "Marco Rubio",
-      "count": 7,
+      "count": 9,
       "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
       "source": "Wall St. Journal"
+    },
+    {
+      "name": "John Cornyn",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/may/26/republican-primary-runoff-texas",
+      "source": "The Guardian"
     },
     {
       "name": "Saint Levant",
@@ -224,29 +168,85 @@
       "source": "The Guardian"
     },
     {
+      "name": "Adam Sandler",
+      "count": 6,
+      "url": "https://www.theguardian.com/culture/2026/may/27/mr-deeds-adam-sandler-winona-ryder-film-romcom-underrated",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Sonny Rollins",
+      "count": 6,
+      "url": "https://www.theguardian.com/music/2026/may/26/sonny-rollins-jazz-saxophone-dies-aged-95",
+      "source": "The Guardian"
+    },
+    {
       "name": "Thomas Massie",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/may/24/thomas-massie-trump-republican-voters-midterms",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Stephen Colbert",
-      "count": 6,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/22/memories-late-show-stephen-colbert",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pope Leo",
-      "count": 6,
-      "url": "https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai",
-      "source": "NPR"
-    },
-    {
-      "name": "George Russell",
       "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/may/25/george-russell-hopes-for-change-of-luck-as-he-looks-to-reel-in-teammate",
+      "url": "https://www.theguardian.com/us-news/2026/may/26/thomas-massie-run-2028",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-05-26T05:06:11Z"
+  "ORG": [
+    {
+      "name": "Trump Undergoes A Physical Exam",
+      "count": 49,
+      "url": "https://www.nytimes.com/2026/05/26/us/politics/trump-physical-walter-reed.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Gop",
+      "count": 22,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Ai",
+      "count": 19,
+      "url": "https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 14,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian Faber Publishing",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/26/war-great-donald-trump-son-wedding-iran-disaster",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The California Congressional District",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Cbs News Mornings",
+      "count": 10,
+      "url": "https://www.cbsnews.com/video/bts-and-k-pop-win-big-at-the-american-music-awards/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The White House",
+      "count": 10,
+      "url": "https://www.cbsnews.com/news/trump-walter-reed-physical/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Georgia Senate",
+      "count": 10,
+      "url": "https://www.politico.com/news/2026/05/19/collins-dooley-georgia-senate-runoff-00929116",
+      "source": "Politico"
+    },
+    {
+      "name": "The L.A. City Council",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
+      "source": "LA Times"
+    }
+  ],
+  "updated": "2026-05-26T16:46:16Z"
 };
