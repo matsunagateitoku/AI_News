@@ -2,33 +2,33 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump National Doral",
-      "count": 45,
-      "url": "https://www.foxnews.com/outkick-sports/pga-tour-event-trump-doral-gets-huge-boost-new-spot-restructured-2027-schedule",
-      "source": "Fox News"
+      "name": "Target For Trump",
+      "count": 58,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "The White House",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/27/trump-corruption-autocracy",
+      "source": "The Guardian"
     },
     {
       "name": "Gop",
-      "count": 20,
+      "count": 13,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "The White House",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/05/27/business/bank-charters-fintech-crypto.html",
-      "source": "NY Times"
+      "name": "Ai",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/may/27/trump-elliott-broidy-contract",
+      "source": "The Guardian"
     },
     {
-      "name": "The U.S. Senate",
-      "count": 15,
-      "url": "https://www.npr.org/2026/05/27/nx-s1-5835292/texas-senate-runoff-takeaways",
-      "source": "NPR"
-    },
-    {
-      "name": "Ai  Iceland’S",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/2026/may/27/iceland-foreign-minister-thorgerthur-katrin-gunnarsdottir-brexit-moment-eu-accession-referendum",
+      "name": "Guardian Australia",
+      "count": 12,
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/23/running-ultramarathon-what-does-it-take-run-100-miles-ultra-trail-australia",
       "source": "The Guardian"
     },
     {
@@ -38,10 +38,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Guardian Australia",
-      "count": 11,
-      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/23/running-ultramarathon-what-does-it-take-run-100-miles-ultra-trail-australia",
-      "source": "The Guardian"
+      "name": "Cbs News",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/05/27/business/media/cbs-sharyn-alfonsi-bari-weiss.html",
+      "source": "NY Times"
     },
     {
       "name": "The California Congressional District",
@@ -50,47 +50,127 @@
       "source": "LA Times"
     },
     {
+      "name": "Nba Finals Games",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/05/27/nyregion/knicks-finals-ticket-prices.html",
+      "source": "NY Times"
+    },
+    {
       "name": "The L.A. City Council",
       "count": 9,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
       "source": "LA Times"
-    },
-    {
-      "name": "Cabinet",
-      "count": 8,
-      "url": "https://www.cbsnews.com/news/trump-cabinet-meeting-camp-david-iran/",
-      "source": "CBS News"
     }
   ],
-  "PERSON": [
+  "GPE": [
     {
-      "name": "Ken Paxton",
-      "count": 21,
+      "name": "Us",
+      "count": 51,
+      "url": "https://www.theguardian.com/thefilter-us/2026/may/27/fathers-day-deals-sales",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 38,
+      "url": "https://www.nytimes.com/2026/05/27/arts/music/inglewood-hollywood-park-sofi-stadium.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 22,
       "url": "https://www.nytimes.com/2026/05/27/us/politics/paxton-talarico-texas-senate-race.html",
       "source": "NY Times"
     },
     {
+      "name": "L.A. County'S",
+      "count": 20,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "New York City Ballet",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/05/27/arts/dance/tiler-peck-symphonie-espagnole-city-ballet.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/27/hardly-anyone-watches-baseball-in-the-uk-so-why-do-we-keep-speaking-its-language",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Washington",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/may/27/washington-paper-mill-implosion",
+      "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
       "name": "Donald Trump",
-      "count": 18,
+      "count": 25,
       "url": "https://www.theguardian.com/commentisfree/2026/may/27/trump-corruption-autocracy",
       "source": "The Guardian"
     },
     {
-      "name": "Donald Trump Jr ’S",
-      "count": 11,
-      "url": "https://www.theguardian.com/culture/2026/may/27/jimmy-kimmel-trump-don-jr-bahamas-wedding",
+      "name": "Donald Trump     Sign",
+      "count": 19,
+      "url": "https://www.theguardian.com/us-news/live/2026/may/27/donald-trump-republicans-texas-primary-midterms-iran-redistricting-latest-news-updates",
       "source": "The Guardian"
     },
     {
+      "name": "Jill Biden",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/live/2026/may/27/donald-trump-republicans-texas-primary-midterms-iran-redistricting-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ken Paxton",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/05/27/us/politics/paxton-talarico-texas-senate-race.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Sharyn Alfonsi",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/05/27/business/media/cbs-sharyn-alfonsi-bari-weiss.html",
+      "source": "NY Times"
+    },
+    {
       "name": "James Talarico",
-      "count": 10,
+      "count": 9,
       "url": "https://www.latimes.com/politics/story/2026-05-27/texas-senate-paxton-talarico-trump",
       "source": "LA Times"
     },
     {
-      "name": "John Cornyn",
+      "name": "Kenneth Iwamasa",
       "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate",
+      "url": "https://www.nytimes.com/2026/05/27/arts/matthew-perry-personal-assistant-ketamine.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Joe Biden",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/live/2026/may/27/donald-trump-republicans-texas-primary-midterms-iran-redistricting-latest-news-updates",
       "source": "The Guardian"
     },
     {
@@ -100,41 +180,17 @@
       "source": "The Guardian"
     },
     {
-      "name": "Al Green",
+      "name": "Graham Platner",
       "count": 6,
-      "url": "https://www.nbcnews.com/politics/2026-election/tx-18-house-runoff-primary-election-winner-menefee-beats-green-rcna346549",
-      "source": "NBC News"
-    },
-    {
-      "name": "Daniel Harding",
-      "count": 5,
-      "url": "https://www.theguardian.com/music/2026/may/26/los-angeles-philharmonic-daniel-harding-new-music-director",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Sonny Rollins",
-      "count": 5,
-      "url": "https://www.theguardian.com/music/2026/may/26/sonny-rollins-greatest-recordings-jazz",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Stephen Colbert",
-      "count": 5,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/26/stephen-colbert-youtube-channel",
-      "source": "The Guardian"
+      "url": "https://thehill.com/homenews/campaign/5897823-graham-platner-susan-collins-maine-senate-race-poll/",
+      "source": "The Hill"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 22,
+      "count": 7,
       "url": "https://www.theguardian.com/football/2026/may/27/new-york-new-jersey-investigation-fifa-ticketing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The World Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/fashion/gallery/2026/may/27/world-cup-of-kits-who-are-the-winners-for-2026",
       "source": "The Guardian"
     },
     {
@@ -144,109 +200,53 @@
       "source": "The Guardian"
     },
     {
+      "name": "The World Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/fashion/gallery/2026/may/27/world-cup-of-kits-who-are-the-winners-for-2026",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 3,
+      "url": "https://www.cbsnews.com/news/stock-market-high-nvidia-ai-economic-divide/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Uefa Cup",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/live/2026/may/27/crystal-palace-v-rayo-vallecano-conference-league-final-live",
+      "source": "The Guardian"
+    },
+    {
       "name": "U.S. World Cup",
       "count": 2,
       "url": "https://www.latimes.com/business/story/2026-05-27/u-s-world-cup-hotel-bookings-are-disappointing-trump-is-major-reason",
       "source": "LA Times"
     },
     {
+      "name": "Game 4",
+      "count": 2,
+      "url": "https://www.foxnews.com/outkick-sports/nhl-betting-outlook-focuses-two-teams-familiar-game-4-ready-scoring",
+      "source": "Fox News"
+    },
+    {
+      "name": "A Long War",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran Wants Billions Of Its Money Unfrozen",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/05/27/world/middleeast/iran-frozen-funds-trump-deal.html",
+      "source": "NY Times"
+    },
+    {
       "name": "The Ukraine War",
       "count": 1,
       "url": "https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html",
       "source": "NY Times"
-    },
-    {
-      "name": "French Open 2026",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/live/2026/may/27/french-open-2026-xxx-on-day-four-live",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vietnam War",
-      "count": 1,
-      "url": "https://www.latimes.com/opinion/story/2026-05-27/speedy-express-atrocity-vietnam-war-trump-era",
-      "source": "LA Times"
-    },
-    {
-      "name": "The Hollywood Bowl",
-      "count": 1,
-      "url": "https://www.latimes.com/delos/story/2026-04-28/marcello-hernandez-interview-netflix-is-a-joke-fest-feid-hollywood-bowl",
-      "source": "LA Times"
-    },
-    {
-      "name": "Post-World War Ii",
-      "count": 1,
-      "url": "https://www.latimes.com/obituaries/story/2026-05-25/sonny-rollins-jazz-saxophone-dead",
-      "source": "LA Times"
-    },
-    {
-      "name": "Charles Schwab Challenge",
-      "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/pga-tour-2026-charles-schwab-challenge-best-bets-one-done-pick-colonial-country-club",
-      "source": "Fox News"
     }
   ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 50,
-      "url": "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas",
-      "count": 36,
-      "url": "https://www.nytimes.com/2026/05/27/us/politics/paxton-talarico-texas-senate-race.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 35,
-      "url": "https://www.nytimes.com/2026/05/27/arts/music/inglewood-hollywood-park-sofi-stadium.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-israel-hezbollah-military-campaign.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 21,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 17,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Israel",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/05/27/world/middleeast/israel-hezbollah-lebanon.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City",
-      "count": 12,
-      "url": "https://www.theguardian.com/football/2026/may/27/usmnt-midfield-roster-analysis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "China",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/music/2026/may/26/los-angeles-philharmonic-daniel-harding-new-music-director",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-05-27T16:40:34Z"
+  "updated": "2026-05-27T21:03:08Z"
 };

@@ -2,13 +2,13 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    83,
-    "https://www.nytimes.com/2026/05/27/us/trump-cornyn-paxton-senate-republicans.html"
+    109,
+    "https://www.nytimes.com/2026/05/27/world/middleeast/iran-frozen-funds-trump-deal.html"
   ],
   [
     "race",
-    67,
-    "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate"
+    63,
+    "https://www.theguardian.com/us-news/video/2026/may/27/california-democrats-governor-election"
   ],
   [
     "guide",
@@ -16,49 +16,24 @@
     "https://www.theguardian.com/thefilter-us/2026/may/27/fathers-day-deals-sales"
   ],
   [
-    "texas",
-    49,
-    "https://www.nytimes.com/2026/05/27/us/politics/paxton-talarico-texas-senate-race.html"
-  ],
-  [
-    "district",
-    48,
-    "https://www.nytimes.com/2026/05/27/us/politics/marana-arizona-data-center-ice-detention.html"
-  ],
-  [
     "president",
-    40,
+    57,
     "https://www.nytimes.com/2026/05/27/us/trump-cornyn-paxton-senate-republicans.html"
   ],
   [
     "california",
-    39,
+    45,
     "https://www.nytimes.com/2026/05/27/arts/music/inglewood-hollywood-park-sofi-stadium.html"
+  ],
+  [
+    "district",
+    41,
+    "https://www.theguardian.com/games/2026/may/15/how-forza-horizon-took-on-japan-with-deep-research-and-360-degree-cameras"
   ],
   [
     "war",
-    36,
-    "https://www.nytimes.com/2026/05/27/business/hormuz-global-shortages-gas.html"
-  ],
-  [
-    "primary",
-    36,
-    "https://www.nytimes.com/2026/05/27/nyregion/ny-comptroller-dinapoli-primary-challenge.html"
-  ],
-  [
-    "team",
-    32,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "cup",
     30,
-    "https://www.nytimes.com/2026/05/27/arts/music/inglewood-hollywood-park-sofi-stadium.html"
-  ],
-  [
-    "democratic",
-    30,
-    "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate"
+    "https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html"
   ],
   [
     "rice",
@@ -66,194 +41,214 @@
     "https://www.theguardian.com/thefilter-us/2026/may/27/fathers-day-deals-sales"
   ],
   [
-    "paxton",
-    28,
-    "https://www.nytimes.com/2026/05/27/us/politics/paxton-talarico-texas-senate-race.html"
+    "democratic",
+    30,
+    "https://www.theguardian.com/us-news/live/2026/may/27/donald-trump-republicans-texas-primary-midterms-iran-redistricting-latest-news-updates"
   ],
   [
-    "incumbent",
-    28,
-    "https://www.nytimes.com/2026/05/27/nyregion/ny-comptroller-dinapoli-primary-challenge.html"
-  ],
-  [
-    "ken",
-    25,
-    "https://www.nytimes.com/2026/05/27/us/politics/paxton-talarico-texas-senate-race.html"
-  ],
-  [
-    "election",
-    25,
-    "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate"
-  ],
-  [
-    "country",
-    24,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "rep",
-    24,
-    "https://www.npr.org/2026/05/27/nx-s1-5835698/south-carolina-redistricting-clyburn"
-  ],
-  [
-    "democrats",
-    23,
+    "texas",
+    29,
     "https://www.nytimes.com/2026/05/27/us/politics/paxton-talarico-texas-senate-race.html"
   ],
   [
     "iran",
-    23,
-    "https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-israel-hezbollah-military-campaign.html"
-  ],
-  [
-    "county",
-    23,
-    "https://www.theguardian.com/us-news/2026/may/27/skydiver-killed-injured-collision-washington-state"
-  ],
-  [
-    "senate",
-    22,
-    "https://www.nytimes.com/2026/05/27/us/trump-cornyn-paxton-senate-republicans.html"
-  ],
-  [
-    "republican",
-    22,
-    "https://www.nytimes.com/2026/05/27/us/trump-cornyn-paxton-senate-republicans.html"
-  ],
-  [
-    "faces",
-    21,
-    "https://www.nytimes.com/2026/05/27/us/trump-cornyn-paxton-senate-republicans.html"
+    28,
+    "https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html"
   ],
   [
     "york",
-    21,
-    "https://www.nytimes.com/2026/05/27/nyregion/ny-comptroller-dinapoli-primary-challenge.html"
+    28,
+    "https://www.nytimes.com/2026/05/27/nyregion/knicks-finals-ticket-prices.html"
   ],
   [
-    "runoff",
-    21,
-    "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate"
+    "country",
+    24,
+    "https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html"
   ],
   [
-    "republicans",
+    "game",
+    24,
+    "https://www.theguardian.com/commentisfree/2026/may/27/hardly-anyone-watches-baseball-in-the-uk-so-why-do-we-keep-speaking-its-language"
+  ],
+  [
+    "primary",
+    23,
+    "https://www.theguardian.com/us-news/2026/may/27/trump-republican-party-maga"
+  ],
+  [
+    "incumbent",
+    22,
+    "https://www.theguardian.com/us-news/2026/may/27/trump-republican-party-maga"
+  ],
+  [
+    "election",
+    22,
+    "https://www.theguardian.com/us-news/2026/may/27/biden-sues-justice-department-robert-hur"
+  ],
+  [
+    "republican",
+    21,
+    "https://www.nytimes.com/2026/05/27/us/trump-cornyn-paxton-senate-republicans.html"
+  ],
+  [
+    "donald",
+    21,
+    "https://www.theguardian.com/commentisfree/2026/may/27/trump-corruption-autocracy"
+  ],
+  [
+    "faces",
+    20,
+    "https://www.nytimes.com/2026/05/27/us/trump-cornyn-paxton-senate-republicans.html"
+  ],
+  [
+    "democrats",
     20,
     "https://www.nytimes.com/2026/05/27/us/politics/paxton-talarico-texas-senate-race.html"
   ],
   [
-    "don",
+    "court",
     20,
-    "https://www.theguardian.com/world/commentisfree/2026/may/27/chaotic-unique-beautiful-lebanon-reduced-rubble-israel-bombardment"
+    "https://www.nytimes.com/2026/05/27/us/politics/supreme-court-alabama-voting-maps.html"
   ],
   [
-    "gop",
+    "biden",
     20,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
+    "https://www.nytimes.com/2026/05/27/us/politics/biden-justice-dept-tapes.html"
   ],
   [
-    "congressional",
+    "sex",
+    20,
+    "https://www.theguardian.com/tv-and-radio/2026/may/27/mating-season-netflix-big-mouth-creators-wild-new-animated-comedy"
+  ],
+  [
+    "county",
+    20,
+    "https://www.theguardian.com/us-news/2026/may/27/skydiver-killed-injured-collision-washington-state"
+  ],
+  [
+    "cbs",
     19,
-    "https://www.nytimes.com/2026/05/27/us/politics/marana-arizona-data-center-ice-detention.html"
+    "https://www.nytimes.com/2026/05/27/business/media/cbs-sharyn-alfonsi-bari-weiss.html"
+  ],
+  [
+    "cup",
+    19,
+    "https://www.nytimes.com/2026/05/27/arts/music/inglewood-hollywood-park-sofi-stadium.html"
+  ],
+  [
+    "night",
+    19,
+    "https://www.theguardian.com/us-news/2026/may/27/new-jersey-ice-immigration"
+  ],
+  [
+    "death",
+    19,
+    "https://www.theguardian.com/tv-and-radio/2026/may/27/matthew-perry-death-assistant-sentence"
+  ],
+  [
+    "ebola",
+    18,
+    "https://www.nytimes.com/2026/05/27/science/ebola-hantavirus-species-strains.html"
+  ],
+  [
+    "something",
+    18,
+    "https://www.theguardian.com/sport/2026/may/27/savannah-bananas-bananaball-expansion-disney-baseball-brand"
+  ],
+  [
+    "don",
+    18,
+    "https://www.theguardian.com/sport/2026/may/27/savannah-bananas-bananaball-expansion-disney-baseball-brand"
   ],
   [
     "general",
-    19,
-    "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate"
+    18,
+    "https://www.theguardian.com/us-news/2026/may/27/trump-republican-party-maga"
   ],
   [
-    "online",
-    19,
-    "https://www.theguardian.com/books/2026/may/27/fieldwork-as-a-sex-object-by-meena-kandasamy-review-story-of-a-deepfake-sex-tape"
+    "series",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/may/27/heated-rivalry-musical-parody-broadway"
   ],
   [
     "video",
-    19,
-    "https://www.theguardian.com/books/2026/may/27/fieldwork-as-a-sex-object-by-meena-kandasamy-review-story-of-a-deepfake-sex-tape"
+    18,
+    "https://www.theguardian.com/world/2026/may/27/five-villagers-found-alive-in-laos-cave-as-search-continues-for-two-missing"
   ],
   [
-    "cornyn",
+    "israel",
     17,
-    "https://www.nytimes.com/2026/05/27/us/trump-cornyn-paxton-senate-republicans.html"
+    "https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html"
+  ],
+  [
+    "republicans",
+    17,
+    "https://www.nytimes.com/2026/05/27/us/politics/paxton-talarico-texas-senate-race.html"
+  ],
+  [
+    "accused",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/27/trump-cabinet-camp-david-washington-iran"
   ],
   [
     "media",
     17,
-    "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola"
+    "https://www.theguardian.com/us-news/2026/may/27/trump-republican-party-maga"
   ],
   [
-    "cancer",
+    "james",
     17,
-    "https://www.theguardian.com/books/2026/may/25/jilly-cooper-books-ranked-ranked-rivals-riders-appassionata"
-  ],
-  [
-    "israel",
-    16,
-    "https://www.nytimes.com/2026/05/27/world/middleeast/israel-hezbollah-lebanon.html"
-  ],
-  [
-    "cbs",
-    16,
-    "https://www.nytimes.com/2026/05/27/business/media/cbs-sharyn-alfonsi-bari-weiss.html"
-  ],
-  [
-    "latest",
-    16,
-    "https://www.nytimes.com/2026/05/27/us/politics/ball-state-charlie-kirk-settlement.html"
-  ],
-  [
-    "black",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/27/alabama-voting-rights-act-maps"
-  ],
-  [
-    "game",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/may/27/hardly-anyone-watches-baseball-in-the-uk-so-why-do-we-keep-speaking-its-language"
+    "https://www.theguardian.com/us-news/2026/may/27/democrats-cut-from-jd-vance-fraud-event"
   ],
   [
     "food",
+    17,
+    "https://www.theguardian.com/artanddesign/2026/may/27/venezuelan-boys-vultures-silvana-trevales-best-photograph"
+  ],
+  [
+    "administration",
     16,
-    "https://www.theguardian.com/commentisfree/2026/may/27/how-the-plastic-bottle-cap-became-a-parable-for-the-value-of-eu-regulation"
+    "https://www.nytimes.com/2026/05/27/climate/park-service-fees-washington-trump.html"
   ],
   [
-    "killed",
-    15,
-    "https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html"
+    "phone",
+    16,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "something",
-    15,
-    "https://www.theguardian.com/sport/2026/may/27/savannah-bananas-bananaball-expansion-disney-baseball-brand"
+    "americans",
+    16,
+    "https://www.theguardian.com/environment/2026/may/27/balcony-solar-panels-rising-utility-costs"
   ],
   [
-    "replace",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/may/27/excuse-me-can-i-have-my-rug-back-agony-of-losing-furniture-as-well-as-your-soulmate"
-  ],
-  [
-    "john",
-    15,
-    "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate"
-  ],
-  [
-    "night",
-    15,
+    "late",
+    16,
     "https://www.theguardian.com/culture/2026/may/27/jimmy-kimmel-trump-don-jr-bahamas-wedding"
   ],
   [
-    "sex",
+    "department",
     15,
-    "https://www.theguardian.com/books/2026/may/27/fieldwork-as-a-sex-object-by-meena-kandasamy-review-story-of-a-deepfake-sex-tape"
+    "https://www.nytimes.com/2026/05/27/us/politics/biden-justice-dept-tapes.html"
   ],
   [
-    "roster",
+    "investigation",
     15,
-    "https://www.theguardian.com/football/2026/may/27/usmnt-midfield-roster-analysis"
+    "https://www.nytimes.com/2026/05/27/nyregion/fifa-indictments-soccer-dismissed.html"
   ],
   [
-    "talarico",
+    "finals",
     15,
-    "https://www.latimes.com/politics/story/2026-05-27/texas-senate-paxton-talarico-trump"
+    "https://www.nytimes.com/2026/05/27/nyregion/knicks-finals-ticket-prices.html"
+  ],
+  [
+    "cabinet",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/27/trump-cabinet-camp-david-washington-iran"
+  ],
+  [
+    "meeting",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/27/trump-cabinet-camp-david-washington-iran"
   ],
   [
     "challengers",
@@ -261,89 +256,69 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "recent",
+    "senate",
     14,
-    "https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-israel-hezbollah-military-campaign.html"
+    "https://www.nytimes.com/2026/05/27/us/trump-cornyn-paxton-senate-republicans.html"
   ],
   [
-    "million",
+    "paxton",
     14,
-    "https://www.nytimes.com/2026/05/27/arts/music/inglewood-hollywood-park-sofi-stadium.html"
+    "https://www.nytimes.com/2026/05/27/us/politics/paxton-talarico-texas-senate-race.html"
   ],
   [
-    "los",
+    "decades",
     14,
-    "https://www.nytimes.com/2026/05/27/arts/music/inglewood-hollywood-park-sofi-stadium.html"
-  ],
-  [
-    "angeles",
-    14,
-    "https://www.nytimes.com/2026/05/27/arts/music/inglewood-hollywood-park-sofi-stadium.html"
+    "https://www.nytimes.com/2026/05/27/world/europe/basque-cheesecake-inventor-rivera-spain.html"
   ],
   [
     "already",
     14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.nytimes.com/2026/05/27/world/africa/ebola-congo-uganda.html"
   ],
   [
-    "children",
+    "games",
     14,
-    "https://www.theguardian.com/world/commentisfree/2026/may/27/chaotic-unique-beautiful-lebanon-reduced-rubble-israel-bombardment"
+    "https://www.nytimes.com/2026/05/27/nyregion/knicks-finals-ticket-prices.html"
   ],
   [
-    "social",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate"
-  ],
-  [
-    "james",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/27/democrats-cut-from-jd-vance-fraud-event"
-  ],
-  [
-    "mark",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/26/ufc-arena-white-house-trump-birthday"
-  ],
-  [
-    "late",
-    14,
-    "https://www.theguardian.com/culture/2026/may/27/jimmy-kimmel-trump-don-jr-bahamas-wedding"
-  ],
-  [
-    "fewer",
+    "buying",
     14,
     "https://www.theguardian.com/thefilter-us/2026/may/27/fathers-day-deals-sales"
   ],
   [
-    "far",
+    "having",
     14,
-    "https://www.theguardian.com/books/2026/may/27/fieldwork-as-a-sex-object-by-meena-kandasamy-review-story-of-a-deepfake-sex-tape"
+    "https://www.theguardian.com/books/2026/may/27/garry-trudeau-doonesbury"
   ],
   [
-    "win",
+    "outside",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/27/hardly-anyone-watches-baseball-in-the-uk-so-why-do-we-keep-speaking-its-language"
+    "https://www.theguardian.com/us-news/2026/may/27/new-jersey-ice-immigration"
   ],
   [
-    "series",
+    "email",
     14,
-    "https://www.theguardian.com/sport/2026/may/27/nba-playoffs-thunder-one-win-from-finals-as-wembanyama-and-spurs-go-quiet-in-game-5"
-  ],
-  [
-    "star",
-    14,
-    "https://www.theguardian.com/sport/2026/may/27/nba-playoffs-thunder-one-win-from-finals-as-wembanyama-and-spurs-go-quiet-in-game-5"
-  ],
-  [
-    "south",
-    14,
-    "https://www.theguardian.com/world/2026/may/27/dissident-dong-guangping-south-korea-flee-china-rubber-boat"
+    "https://www.theguardian.com/tv-and-radio/2026/may/27/matthew-perry-death-assistant-sentence"
   ],
   [
     "candidates",
     14,
-    "https://www.theguardian.com/world/2026/may/27/thirty-five-people-want-to-be-the-next-president-of-france-what-could-possibly-go-wrong"
+    "https://www.theguardian.com/us-news/video/2026/may/27/california-democrats-governor-election"
+  ],
+  [
+    "review",
+    14,
+    "https://www.theguardian.com/film/2026/may/27/power-ballad-review-nick-jonas-and-paul-rudd-star-in-terrific-comedy-of-bromance-and-betrayal"
+  ],
+  [
+    "green",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/may/27/britain-green-transition-belong-everyone-labour-planning-protest-laws"
+  ],
+  [
+    "replace",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/may/27/excuse-me-can-i-have-my-rug-back-agony-of-losing-furniture-as-well-as-your-soulmate"
   ],
   [
     "cooker",
@@ -351,28 +326,53 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "israeli",
+    "south",
     13,
-    "https://www.nytimes.com/2026/05/27/world/middleeast/israel-hezbollah-lebanon.html"
+    "https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html"
   ],
   [
-    "china",
+    "congressional",
     13,
-    "https://www.nytimes.com/2026/05/27/world/asia/china-solomons-pacific-security-threats.html"
+    "https://www.nytimes.com/2026/05/27/us/politics/supreme-court-alabama-voting-maps.html"
   ],
   [
-    "phone",
+    "contract",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/05/27/us/politics/reflecting-pool-contractor-trump.html"
   ],
   [
-    "games",
+    "justice",
     13,
-    "https://www.theguardian.com/sport/2026/may/27/savannah-bananas-bananaball-expansion-disney-baseball-brand"
+    "https://www.nytimes.com/2026/05/27/us/politics/biden-justice-dept-tapes.html"
   ],
   [
-    "party",
+    "sentenced",
     13,
-    "https://www.theguardian.com/sport/2026/may/27/savannah-bananas-bananaball-expansion-disney-baseball-brand"
+    "https://www.nytimes.com/2026/05/27/arts/matthew-perry-personal-assistant-ketamine.html"
+  ],
+  [
+    "killed",
+    13,
+    "https://www.nytimes.com/2026/05/27/arts/matthew-perry-personal-assistant-ketamine.html"
+  ],
+  [
+    "attacks",
+    13,
+    "https://www.nytimes.com/2026/05/27/world/europe/russia-ukraine-kyiv-attacks.html"
+  ],
+  [
+    "knicks",
+    13,
+    "https://www.nytimes.com/2026/05/27/nyregion/knicks-finals-ticket-prices.html"
+  ],
+  [
+    "team",
+    13,
+    "https://www.nytimes.com/2026/05/27/nyregion/knicks-finals-ticket-prices.html"
+  ],
+  [
+    "early",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ]
 ];
