@@ -2,43 +2,83 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
+    114,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-republican-senate-cornyn-paxton.html"
+  ],
+  [
+    "texas",
     89,
-    "https://www.nytimes.com/2026/05/26/us/south-carolina-redistricting-map.html"
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-republican-senate-cornyn-paxton.html"
   ],
   [
     "race",
-    72,
-    "https://www.theguardian.com/sport/2026/may/26/jonas-vingegaard-obliterates-giro-d-italia-rivals-stage-16-win-swiss-alps"
+    81,
+    "https://www.theguardian.com/us-news/2026/may/26/ken-paxton-texas-senate-runoff"
   ],
   [
     "guide",
-    59,
+    58,
     "https://www.theguardian.com/thefilter-us/2026/may/26/what-readers-bought-may"
   ],
   [
+    "district",
+    57,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-democratic-primary-allred-johnson.html"
+  ],
+  [
+    "runoff",
+    55,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-democratic-primary-allred-johnson.html"
+  ],
+  [
     "california",
-    45,
+    54,
     "https://www.nytimes.com/2026/05/26/us/politics/supreme-court-drivers-licenses-migrants.html"
   ],
   [
-    "district",
-    44,
-    "https://www.nytimes.com/2026/05/26/us/politics/alabama-congress-map-redistricting.html"
+    "primary",
+    54,
+    "https://www.theguardian.com/us-news/2026/may/26/ken-paxton-texas-senate-runoff"
   ],
   [
     "president",
-    42,
-    "https://www.nytimes.com/2026/05/26/us/politics/ufc-fight-trump-white-house.html"
+    47,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-runoff-senate-cornyn-paxton.html"
   ],
   [
-    "primary",
-    30,
-    "https://www.theguardian.com/us-news/2026/may/26/republican-primary-runoff-texas"
+    "gop",
+    40,
+    "https://www.theguardian.com/us-news/2026/may/26/ken-paxton-texas-senate-runoff"
   ],
   [
-    "south",
+    "paxton",
+    39,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-republican-senate-cornyn-paxton.html"
+  ],
+  [
+    "republican",
+    39,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-republican-senate-cornyn-paxton.html"
+  ],
+  [
+    "incumbent",
+    34,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-democratic-primary-allred-johnson.html"
+  ],
+  [
+    "cornyn",
+    33,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-republican-senate-cornyn-paxton.html"
+  ],
+  [
+    "democratic",
+    33,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-democratic-primary-allred-johnson.html"
+  ],
+  [
+    "election",
     29,
-    "https://www.nytimes.com/2026/05/26/us/south-carolina-redistricting-map.html"
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-republican-senate-cornyn-paxton.html"
   ],
   [
     "rice",
@@ -46,9 +86,44 @@
     "https://www.theguardian.com/thefilter-us/2026/may/26/what-readers-bought-may"
   ],
   [
-    "iran",
+    "rep",
+    29,
+    "https://www.foxnews.com/politics/ex-nfl-linebacker-poised-return-congress-after-texas-runoff-win-jasmine-crockett-endorsement"
+  ],
+  [
+    "ken",
     28,
-    "https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html"
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-republican-senate-cornyn-paxton.html"
+  ],
+  [
+    "john",
+    28,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-republican-senate-cornyn-paxton.html"
+  ],
+  [
+    "attorney",
+    28,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-republican-senate-cornyn-paxton.html"
+  ],
+  [
+    "war",
+    28,
+    "https://www.nytimes.com/2026/05/27/opinion/lebanon-israel-hezbollah-cease-fire.html"
+  ],
+  [
+    "general",
+    27,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-republican-senate-cornyn-paxton.html"
+  ],
+  [
+    "senate",
+    27,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-runoff-senate-cornyn-paxton.html"
+  ],
+  [
+    "county",
+    27,
+    "https://www.theguardian.com/sport/2026/may/26/josh-jacobs-arrested-packers-strangulation-domestic-abuse-charges"
   ],
   [
     "congressional",
@@ -56,134 +131,154 @@
     "https://www.nytimes.com/2026/05/26/us/politics/alabama-congress-map-redistricting.html"
   ],
   [
-    "election",
-    25,
-    "https://www.theguardian.com/us-news/2026/may/26/republican-primary-runoff-texas"
+    "iran",
+    26,
+    "https://www.theguardian.com/world/2026/may/26/iran-peace-deal-talks-us-bombing-ceasefire-strait-hormuz"
   ],
   [
-    "faces",
-    25,
-    "https://www.theguardian.com/news/video/2026/may/26/us-strikes-iran-as-trump-faces-backlash-over-disastrous-peace-deal-plan-the-latest"
-  ],
-  [
-    "republican",
-    24,
-    "https://www.nytimes.com/2026/05/26/us/florida-congress-map-redistricting.html"
-  ],
-  [
-    "incumbent",
-    24,
-    "https://www.theguardian.com/us-news/2026/may/26/republican-primary-runoff-texas"
+    "donald",
+    23,
+    "https://www.nytimes.com/2026/05/26/business/media/donald-e-newhouse-dead.html"
   ],
   [
     "health",
-    23,
-    "https://www.nytimes.com/2026/05/26/us/politics/trump-physical-walter-reed.html"
+    22,
+    "https://www.nytimes.com/2026/05/26/us/rfk-jr-snakes-video-safety.html"
   ],
   [
-    "texas",
-    23,
-    "https://www.washingtonpost.com/nation/2026/05/25/some-texass-oldest-barbecue-joints-close-meat-prices-skyrocket/"
-  ],
-  [
-    "cup",
-    23,
-    "https://www.theguardian.com/football/2026/may/26/usmnt-world-cup-roster-2026"
+    "chemical",
+    22,
+    "https://www.nytimes.com/2026/05/26/us/chemical-tank-orange-county-california.html"
   ],
   [
     "team",
-    22,
-    "https://www.nytimes.com/2026/05/26/nyregion/knicks-eastern-conference-nyc.html"
-  ],
-  [
-    "court",
     21,
-    "https://www.nytimes.com/2026/05/26/us/politics/alabama-congress-map-redistricting.html"
-  ],
-  [
-    "war",
-    21,
-    "https://www.nytimes.com/2026/05/26/climate/plutonium-nuclear-weapons-fuel.html"
-  ],
-  [
-    "map",
-    20,
-    "https://www.nytimes.com/2026/05/26/us/florida-congress-map-redistricting.html"
-  ],
-  [
-    "senate",
-    20,
-    "https://www.nytimes.com/2026/05/26/us/south-carolina-redistricting-map.html"
-  ],
-  [
-    "series",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/may/27/red-light-therapy-claims-to-heal-wounds-improve-pain-and-reduce-wrinkles-but-the-evidence-for-it-working-is-dim"
-  ],
-  [
-    "county",
-    20,
-    "https://www.theguardian.com/uk-news/2026/may/26/dig-begins-troubles-victim-seamus-maguire-disappeared-county-antrim"
-  ],
-  [
-    "video",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/may/27/red-light-therapy-claims-to-heal-wounds-improve-pain-and-reduce-wrinkles-but-the-evidence-for-it-working-is-dim"
-  ],
-  [
-    "gop",
-    19,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
-  ],
-  [
-    "police",
-    18,
-    "https://www.nytimes.com/2026/05/25/nyregion/knicks-watch-party-garden.html"
-  ],
-  [
-    "carolina",
-    17,
-    "https://www.nytimes.com/2026/05/26/us/south-carolina-redistricting-map.html"
-  ],
-  [
-    "email",
-    17,
-    "https://www.theguardian.com/lifeandstyle/2026/may/26/microfeminism-tiktok-women-men"
-  ],
-  [
-    "administration",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/26/federal-workers-ndas"
+    "https://www.nytimes.com/2026/05/26/us/politics/trump-nba-finals.html"
   ],
   [
     "food",
-    17,
-    "https://www.theguardian.com/world/2026/may/26/japan-pm-sanae-takaichi-pledged-sales-tax-cut-systems-arent-designed"
+    21,
+    "https://www.nytimes.com/2026/05/26/nyregion/park-slope-food-coop-boycott.html"
+  ],
+  [
+    "cup",
+    21,
+    "https://www.theguardian.com/football/2026/may/26/usmnt-world-cup-squad-mauricio-pochettino-email-players"
+  ],
+  [
+    "democrats",
+    20,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-republican-senate-cornyn-paxton.html"
+  ],
+  [
+    "administration",
+    20,
+    "https://www.nytimes.com/2026/05/26/us/politics/trump-ebola-kenya.html"
+  ],
+  [
+    "faces",
+    20,
+    "https://www.nytimes.com/2026/05/27/world/europe/britain-reform-party-farage.html"
   ],
   [
     "star",
-    17,
+    20,
     "https://www.theguardian.com/film/2026/may/26/star-wars-mandalorian-and-grogu-streaming-baby-yoda-discuss-with-spoilers"
   ],
   [
-    "black",
-    16,
+    "wins",
+    19,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-democratic-primary-allred-johnson.html"
+  ],
+  [
+    "seat",
+    19,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-democratic-primary-allred-johnson.html"
+  ],
+  [
+    "backed",
+    19,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "series",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/may/27/red-light-therapy-claims-to-heal-wounds-improve-pain-and-reduce-wrinkles-but-the-evidence-for-it-working-is-dim"
+  ],
+  [
+    "sen",
+    19,
+    "https://www.npr.org/2026/05/26/nx-s1-5835745/paxton-republican-texas-senate-nominee-trump-cornyn-talarico"
+  ],
+  [
+    "republicans",
+    18,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-runoff-senate-cornyn-paxton.html"
+  ],
+  [
+    "video",
+    18,
+    "https://www.nytimes.com/2026/05/26/us/rfk-jr-snakes-video-safety.html"
+  ],
+  [
+    "court",
+    18,
     "https://www.nytimes.com/2026/05/26/us/politics/alabama-congress-map-redistricting.html"
   ],
   [
-    "pope",
-    16,
-    "https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html"
+    "email",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/may/26/microfeminism-tiktok-women-men"
+  ],
+  [
+    "win",
+    17,
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-republican-senate-cornyn-paxton.html"
+  ],
+  [
+    "south",
+    17,
+    "https://www.nytimes.com/2026/05/26/us/south-carolina-redistricting-map.html"
+  ],
+  [
+    "late",
+    17,
+    "https://www.nytimes.com/2026/05/26/us/chemical-tank-orange-county-california.html"
+  ],
+  [
+    "killed",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/26/washington-state-packaging-plant-implosion"
   ],
   [
     "outside",
-    16,
-    "https://www.nytimes.com/2026/05/25/nyregion/knicks-watch-party-garden.html"
+    17,
+    "https://www.theguardian.com/us-news/2026/may/26/senator-pepper-sprayed-ice-facility-protest-new-jersey"
   ],
   [
-    "country",
+    "university",
+    17,
+    "https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers"
+  ],
+  [
+    "early",
     16,
-    "https://www.nytimes.com/2026/05/26/health/lenacapavir-hiv-zambia.html"
+    "https://www.nytimes.com/2026/05/26/us/south-carolina-redistricting-map.html"
+  ],
+  [
+    "media",
+    16,
+    "https://www.nytimes.com/2026/05/26/business/media/donald-e-newhouse-dead.html"
+  ],
+  [
+    "police",
+    16,
+    "https://www.nytimes.com/2026/05/26/us/minneapolis-police-chief-resigns.html"
+  ],
+  [
+    "least",
+    16,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
     "night",
@@ -191,24 +286,9 @@
     "https://www.theguardian.com/tv-and-radio/2026/may/26/readers-memories-stephen-colbert-the-late-show"
   ],
   [
-    "republicans",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/26/south-carolina-republicans-redistricting"
-  ],
-  [
-    "democratic",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/26/south-carolina-republicans-redistricting"
-  ],
-  [
-    "water",
+    "democrat",
     16,
     "https://www.theguardian.com/us-news/2026/may/26/senator-pepper-sprayed-ice-facility-protest-new-jersey"
-  ],
-  [
-    "music",
-    16,
-    "https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers"
   ],
   [
     "don",
@@ -221,158 +301,78 @@
     "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-season-review-predictions-reality-liverpool-chelsea-brentford-sunderland"
   ],
   [
-    "early",
+    "party",
     15,
-    "https://www.nytimes.com/2026/05/26/us/south-carolina-redistricting-map.html"
+    "https://www.nytimes.com/2026/05/26/us/politics/texas-republican-senate-cornyn-paxton.html"
   ],
   [
-    "democrats",
+    "country",
     15,
-    "https://www.nytimes.com/2026/05/26/us/politics/alabama-congress-map-redistricting.html"
-  ],
-  [
-    "government",
-    15,
-    "https://www.nytimes.com/2026/05/26/world/middleeast/iran-internet-blackout-lifting.html"
-  ],
-  [
-    "case",
-    15,
-    "https://www.nytimes.com/2026/05/26/climate/emissions-worst-case-scenario-rcp.html"
-  ],
-  [
-    "board",
-    15,
-    "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html"
-  ],
-  [
-    "latest",
-    15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "because",
-    15,
-    "https://www.theguardian.com/film/2026/may/26/ask-e-jean-carroll-documentary-ivy-meeropol"
-  ],
-  [
-    "university",
-    15,
-    "https://www.theguardian.com/us-news/2026/may/26/indiana-woman-fired-charlie-kirk-post-settlement"
-  ],
-  [
-    "sex",
-    15,
-    "https://www.theguardian.com/us-news/2026/may/26/texas-priest-anthony-odiong-abuse-trial"
-  ],
-  [
-    "redistricting",
-    14,
-    "https://www.nytimes.com/2026/05/26/us/south-carolina-redistricting-map.html"
-  ],
-  [
-    "immigration",
-    14,
-    "https://www.nytimes.com/2026/05/26/us/politics/supreme-court-immigration-judges.html"
+    "https://www.nytimes.com/2026/05/27/business/china-smoking-economy.html"
   ],
   [
     "washington",
-    14,
+    15,
     "https://www.nytimes.com/2026/05/26/us/politics/supreme-court-drivers-licenses-migrants.html"
   ],
   [
-    "donald",
-    14,
-    "https://www.nytimes.com/2026/05/26/opinion/ezra-klein-podcast-yuval-noah-harari.html"
-  ],
-  [
-    "phone",
-    14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "filter",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/may/26/what-readers-bought-may"
-  ],
-  [
-    "buying",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/may/26/what-readers-bought-may"
-  ],
-  [
-    "cooker",
-    14,
-    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
-  ],
-  [
-    "alabama",
-    13,
-    "https://www.nytimes.com/2026/05/26/us/politics/alabama-congress-map-redistricting.html"
-  ],
-  [
-    "media",
-    13,
-    "https://www.nytimes.com/2026/05/25/nyregion/knicks-watch-party-garden.html"
-  ],
-  [
-    "strikes",
-    13,
-    "https://www.nytimes.com/2026/05/26/world/canada/canada-germany-natural-gas-lng.html"
-  ],
-  [
-    "ice",
-    13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "least",
-    13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "though",
-    13,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "late",
-    13,
-    "https://www.theguardian.com/wellness/2026/may/26/how-to-start-building-confidence"
-  ],
-  [
-    "america",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/may/26/readers-memories-stephen-colbert-the-late-show"
-  ],
-  [
-    "john",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/26/republican-primary-runoff-texas"
-  ],
-  [
-    "employees",
-    13,
+    "social",
+    15,
     "https://www.theguardian.com/us-news/2026/may/26/washington-state-packaging-plant-implosion"
   ],
   [
-    "final",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/may/26/stephen-colbert-youtube-channel"
-  ],
-  [
-    "fewer",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/may/26/what-readers-bought-may"
-  ],
-  [
-    "political",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/may/26/tony-carruthers-tennessee-execution"
-  ],
-  [
     "replace",
-    13,
-    "https://www.theguardian.com/music/2026/may/26/los-angeles-philharmonic-daniel-harding-new-music-director"
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/may/27/excuse-me-can-i-have-my-rug-back-agony-of-losing-furniture-as-well-as-your-soulmate"
+  ],
+  [
+    "green",
+    15,
+    "https://www.theguardian.com/sport/2026/may/26/josh-jacobs-arrested-packers-strangulation-domestic-abuse-charges"
+  ],
+  [
+    "support",
+    14,
+    "https://www.nytimes.com/2026/05/26/us/politics/ken-paxton-republican-senate-candidate.html"
+  ],
+  [
+    "already",
+    14,
+    "https://www.nytimes.com/2026/05/26/us/politics/trump-ebola-kenya.html"
+  ],
+  [
+    "carolina",
+    14,
+    "https://www.nytimes.com/2026/05/26/us/south-carolina-redistricting-map.html"
+  ],
+  [
+    "government",
+    14,
+    "https://www.nytimes.com/2026/05/27/business/china-smoking-economy.html"
+  ],
+  [
+    "tank",
+    14,
+    "https://www.nytimes.com/2026/05/26/us/chemical-tank-orange-county-california.html"
+  ],
+  [
+    "decision",
+    14,
+    "https://www.nytimes.com/2026/05/26/climate/emissions-worst-case-scenario-rcp.html"
+  ],
+  [
+    "products",
+    14,
+    "https://www.nytimes.com/2026/05/26/nyregion/park-slope-food-coop-boycott.html"
+  ],
+  [
+    "million",
+    14,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "ice",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ]
 ];
