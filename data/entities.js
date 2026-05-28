@@ -2,28 +2,16 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 61,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Trump Investigates",
+      "count": 63,
+      "url": "https://www.nytimes.com/2026/05/28/us/trump-harvard-antisemitism-improvement.html",
+      "source": "NY Times"
     },
     {
-      "name": "Ai",
-      "count": 18,
-      "url": "https://www.theguardian.com/books/2026/may/27/helen-phillips-hum-climate-fiction-prize",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 14,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/27/trump-corruption-autocracy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Google Trends",
-      "count": 13,
-      "url": "https://www.theguardian.com/books/2026/may/27/what-we-ask-google-by-simon-rogers-review-the-secrets-of-our-search-history",
-      "source": "The Guardian"
+      "name": "Gop",
+      "count": 16,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
+      "source": "LA Times"
     },
     {
       "name": "Guardian Australia",
@@ -32,20 +20,38 @@
       "source": "The Guardian"
     },
     {
-      "name": "Cbs News",
+      "name": "Ai",
       "count": 12,
+      "url": "https://www.theguardian.com/books/2026/may/27/helen-phillips-hum-climate-fiction-prize",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Google",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/may/26/jennifer-siebel-newsom-conservative-criticism",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Talarico Senate",
+      "count": 12,
+      "url": "https://thehill.com/homenews/campaign/5898191-talarico-challenges-paxton-texas/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Cbs News",
+      "count": 11,
       "url": "https://www.nytimes.com/2026/05/27/us/politics/jill-biden-joe-biden-2024-debate.html",
       "source": "NY Times"
     },
     {
-      "name": "Gop Senate",
-      "count": 12,
-      "url": "https://www.cbsnews.com/video/political-strategists-on-paxton-win-in-texas-gop-primary/",
-      "source": "CBS News"
+      "name": "The White House",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
-      "count": 11,
+      "count": 10,
       "url": "https://www.theguardian.com/thefilter-us/2025/oct/04/travel-essentials-packing-list-us",
       "source": "The Guardian"
     },
@@ -54,142 +60,12 @@
       "count": 10,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
       "source": "LA Times"
-    },
-    {
-      "name": "Nba Finals Games",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/05/27/nyregion/knicks-finals-ticket-prices.html",
-      "source": "NY Times"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 25,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/27/trump-corruption-autocracy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump Jr ’S",
-      "count": 16,
-      "url": "https://www.theguardian.com/culture/2026/may/27/jimmy-kimmel-trump-don-jr-bahamas-wedding",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jill Biden",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/may/27/jill-biden-joe-biden-stroke-trump-debate",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Joe Biden ’S",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/may/27/jill-biden-joe-biden-stroke-trump-debate",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ken Paxton",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/05/27/us/politics/paxton-cornyn-texas-republican-primary.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Sharyn Alfonsi",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/05/27/business/media/cbs-sharyn-alfonsi-bari-weiss.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Caitlin Clark",
-      "count": 7,
-      "url": "https://www.foxnews.com/sports/caitlin-clark-listed-probable-fever-valkyries-rematch-following-early-season-back-issues",
-      "source": "Fox News"
-    },
-    {
-      "name": "Gavin Newsom",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/05/27/us/california-election-security-newsom.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Kenneth Iwamasa",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/05/27/arts/matthew-perry-personal-assistant-ketamine.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Saint Levant",
-      "count": 6,
-      "url": "https://www.theguardian.com/news/2026/may/26/saint-levant-the-pop-star-from-gaza-caught-between-passionate-fandom-and-bitter-disapproval",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 57,
-      "url": "https://www.theguardian.com/thefilter-us/2026/may/27/fathers-day-deals-sales",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 41,
-      "url": "https://www.theguardian.com/us-news/2026/may/27/santa-rosa-island-california-wildfire-damage",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 29,
-      "url": "https://www.nytimes.com/2026/05/27/world/middleeast/trump-iran-peace-talks.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 27,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Texas",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/05/27/us/politics/paxton-cornyn-texas-republican-primary.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 22,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Washington",
-      "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/may/27/democrats-cut-from-jd-vance-fraud-event",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City’S",
-      "count": 15,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/27/heated-rivalry-musical-parody-broadway",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/05/28/opinion/israel-palestinians-boycott-eurovision.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/28/greenlash-green-parties-europe-uk-zack-polanski",
-      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 7,
+      "count": 5,
       "url": "https://www.theguardian.com/football/2026/may/27/new-york-new-jersey-investigation-fifa-ticketing",
       "source": "The Guardian"
     },
@@ -206,10 +82,28 @@
       "source": "The Guardian"
     },
     {
+      "name": "Soul Ii Soul",
+      "count": 2,
+      "url": "https://www.theguardian.com/books/2026/may/28/escaping-babylon-by-jesse-bernard-review-an-intimate-history-of-black-british-music",
+      "source": "The Guardian"
+    },
+    {
       "name": "The Iran War",
       "count": 2,
       "url": "https://www.cbsnews.com/news/trump-visited-soldiers-walter-reed-not-14-injured-in-iran-war/",
       "source": "CBS News"
+    },
+    {
+      "name": "Iran War Live Updates",
+      "count": 1,
+      "url": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal",
+      "source": "NY Times"
+    },
+    {
+      "name": "A Long War",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-war-deal-iran-us.html",
+      "source": "NY Times"
     },
     {
       "name": "Spanish Pm’S",
@@ -228,25 +122,131 @@
       "count": 1,
       "url": "https://www.latimes.com/california/story/2026-05-27/ice-agent-restraining-order-threat-accusation",
       "source": "LA Times"
-    },
-    {
-      "name": "U.S. World Cup",
-      "count": 1,
-      "url": "https://www.latimes.com/business/story/2026-05-27/u-s-world-cup-hotel-bookings-are-disappointing-trump-is-major-reason",
-      "source": "LA Times"
-    },
-    {
-      "name": "Vietnam War",
-      "count": 1,
-      "url": "https://www.latimes.com/opinion/story/2026-05-27/speedy-express-atrocity-vietnam-war-trump-era",
-      "source": "LA Times"
-    },
-    {
-      "name": "Usmnt World Cup",
-      "count": 1,
-      "url": "https://www.foxnews.com/sports/clint-dempsey-admits-usmnt-roster-surprises-explains-optimistic-mindset-world-cup-squad",
-      "source": "Fox News"
     }
   ],
-  "updated": "2026-05-28T05:12:51Z"
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 22,
+      "url": "https://www.theguardian.com/us-news/2026/may/28/trump-refiles-10bn-lawsuit-against-wsj-over-report-on-alleged-epstein-ties",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump Jr ’S",
+      "count": 18,
+      "url": "https://www.theguardian.com/culture/2026/may/27/jimmy-kimmel-trump-don-jr-bahamas-wedding",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ken Paxton",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/05/28/us/politics/ken-paxton-james-talarico-texas-senate-race.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jill Biden",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/may/27/jill-biden-joe-biden-stroke-trump-debate",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Marco Rubio",
+      "count": 8,
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "James Talarico Opens",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/05/28/us/politics/ken-paxton-james-talarico-texas-senate-race.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Joe Biden ’S",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/may/27/jill-biden-joe-biden-stroke-trump-debate",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Caitlin Clark",
+      "count": 7,
+      "url": "https://www.foxnews.com/sports/caitlin-clark-listed-probable-fever-valkyries-rematch-following-early-season-back-issues",
+      "source": "Fox News"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/may/28/trump-refiles-10bn-lawsuit-against-wsj-over-report-on-alleged-epstein-ties",
+      "source": "The Guardian"
+    },
+    {
+      "name": "John Cornyn",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 68,
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/may/28/milking-it-inside-americas-lactation-rooms-in-pictures",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 44,
+      "url": "https://www.theguardian.com/us-news/2026/may/27/santa-rosa-island-california-wildfire-damage",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 39,
+      "url": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 30,
+      "url": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/05/28/us/politics/ken-paxton-james-talarico-texas-senate-race.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 25,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Israel",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Washington",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/05/28/us/how-to-watch-scripps-national-spelling-bee-2026.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City’S",
+      "count": 12,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/27/heated-rivalry-musical-parody-broadway",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 11,
+      "url": "https://www.theguardian.com/money/2026/may/28/gen-z-using-social-media-in-struggling-job-market",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-05-28T10:59:06Z"
 };
