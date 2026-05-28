@@ -2,48 +2,38 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    126,
+    96,
     "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html"
   ],
   [
     "race",
     66,
-    "https://www.theguardian.com/world/2026/may/28/argentina-european-self-image-racist-incidents-brazil"
+    "https://www.theguardian.com/technology/2026/may/28/anthropic-ai-valuation"
   ],
   [
     "guide",
     60,
-    "https://www.theguardian.com/football/2026/may/28/canada-world-cup-2026-team-guide"
+    "https://www.theguardian.com/thefilter-us/2026/may/28/how-to-clean-cutting-board"
+  ],
+  [
+    "district",
+    41,
+    "https://www.theguardian.com/us-news/2026/may/28/federal-judges-trump-anti-weaponization-fund"
   ],
   [
     "president",
-    55,
+    37,
     "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html"
   ],
   [
     "california",
-    46,
+    36,
     "https://www.theguardian.com/sport/2026/may/28/dodgers-kendall-george-injury-bat-dog"
-  ],
-  [
-    "district",
-    43,
-    "https://www.theguardian.com/us-news/2026/may/28/federal-judges-trump-anti-weaponization-fund"
-  ],
-  [
-    "iran",
-    38,
-    "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal"
   ],
   [
     "court",
     33,
-    "https://www.theguardian.com/commentisfree/2026/may/28/ranked-choice-voting-jamie-raskin"
-  ],
-  [
-    "war",
-    30,
-    "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal"
+    "https://www.nytimes.com/2026/05/28/climate/greenpeace-energy-transfer-north-dakota-injunction.html"
   ],
   [
     "rice",
@@ -51,49 +41,64 @@
     "https://www.theguardian.com/thefilter-us/2026/may/27/fathers-day-deals-sales"
   ],
   [
+    "iran",
+    29,
+    "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html"
+  ],
+  [
     "democratic",
-    26,
+    27,
     "https://www.nytimes.com/2026/05/28/us/gretchen-whitmer-rules-out-2028.html"
   ],
   [
-    "country",
-    26,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "death",
+    "cbs",
     23,
-    "https://www.theguardian.com/tv-and-radio/2026/may/28/the-four-seasons-season-two-review-tina-feys-brilliant-follow-up-is-up-there-with-30-rock"
+    "https://www.nytimes.com/2026/05/28/business/media/nick-bilton-60-minutes-bari-weiss.html"
   ],
   [
-    "biden",
-    23,
-    "https://www.cbsnews.com/news/jill-biden-joe-biden-stroke-2024-debate-sunday-morning-interview/"
-  ],
-  [
-    "donald",
+    "war",
     22,
-    "https://www.nytimes.com/2026/05/28/us/politics/up-for-grabs-can-democrats-sway-young-men-who-have-soured-on-trump.html"
-  ],
-  [
-    "again",
-    21,
-    "https://www.nytimes.com/2026/05/28/us/gretchen-whitmer-rules-out-2028.html"
+    "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html"
   ],
   [
     "york",
-    20,
+    22,
     "https://www.nytimes.com/2026/05/28/nyregion/budget-late-new-york.html"
   ],
   [
-    "primary",
+    "star",
+    21,
+    "https://www.nytimes.com/2026/05/28/business/media/the-washington-star-newspaper-rivalry-washington-post.html"
+  ],
+  [
+    "case",
+    21,
+    "https://www.nytimes.com/2026/05/28/nyregion/happy-elephant-bronx-zoo-dead.html"
+  ],
+  [
+    "country",
+    21,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "election",
+    21,
+    "https://www.theguardian.com/business/2026/may/28/inflation-increased-april-iran-war-price-rises"
+  ],
+  [
+    "board",
+    21,
+    "https://www.theguardian.com/thefilter-us/2026/may/28/how-to-clean-cutting-board"
+  ],
+  [
+    "death",
     20,
-    "https://www.nytimes.com/2026/05/28/nyregion/adriano-espaillat-darializa-avila-chevalier-mamdani.html"
+    "https://www.nytimes.com/2026/05/28/us/politics/supreme-court-black-jurors.html"
   ],
   [
     "faces",
     20,
-    "https://www.theguardian.com/sport/2026/may/28/dodgers-kendall-george-injury-bat-dog"
+    "https://www.theguardian.com/us-news/2026/may/28/trump-iran-republicans-anger-midterms"
   ],
   [
     "incumbent",
@@ -101,124 +106,124 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "democrats",
+    "donald",
     19,
     "https://www.nytimes.com/2026/05/28/us/politics/up-for-grabs-can-democrats-sway-young-men-who-have-soured-on-trump.html"
   ],
   [
-    "cbs",
-    19,
+    "again",
+    18,
+    "https://www.nytimes.com/2026/05/28/us/gretchen-whitmer-rules-out-2028.html"
+  ],
+  [
+    "minutes",
+    18,
     "https://www.nytimes.com/2026/05/28/business/media/nick-bilton-60-minutes-bari-weiss.html"
   ],
   [
-    "election",
-    19,
-    "https://www.theguardian.com/business/2026/may/28/inflation-increased-april-iran-war-price-rises"
-  ],
-  [
-    "series",
+    "primary",
     18,
-    "https://www.nytimes.com/2026/05/25/arts/music/lizzo-new-york-times-live-performance.html"
-  ],
-  [
-    "black",
-    18,
-    "https://www.theguardian.com/us-news/2026/may/28/supreme-court-mississippi-death-row-racial-bias"
-  ],
-  [
-    "case",
-    17,
-    "https://www.nytimes.com/2026/05/28/nyregion/happy-elephant-bronx-zoo-dead.html"
+    "https://www.nytimes.com/2026/05/28/nyregion/adriano-espaillat-darializa-avila-chevalier-mamdani.html"
   ],
   [
     "county",
-    17,
+    18,
     "https://www.theguardian.com/commentisfree/2026/may/28/trump-deportations-asylum"
   ],
   [
-    "game",
+    "democrats",
     17,
-    "https://www.theguardian.com/sport/live/2026/may/28/french-open-tennis-sinner-osaka-sabalenka-gauff-day-five-live"
-  ],
-  [
-    "music",
-    17,
-    "https://www.theguardian.com/sport/2026/may/28/who-really-owns-the-williams-f1-team-legal-battle-special-report"
+    "https://www.nytimes.com/2026/05/28/us/politics/up-for-grabs-can-democrats-sway-young-men-who-have-soured-on-trump.html"
   ],
   [
     "administration",
-    16,
+    17,
     "https://www.nytimes.com/2026/05/28/us/politics/trump-voting-executive-order.html"
   ],
   [
-    "american",
-    16,
-    "https://www.nytimes.com/2026/05/28/world/americas/guatemala-us-joint-strikes.html"
+    "producer",
+    17,
+    "https://www.nytimes.com/2026/05/28/business/media/nick-bilton-60-minutes-bari-weiss.html"
   ],
   [
-    "review",
-    16,
-    "https://www.nytimes.com/2026/05/28/nyregion/lutnick-commerce-companies-business.html"
+    "series",
+    17,
+    "https://www.nytimes.com/2026/05/25/arts/music/lizzo-new-york-times-live-performance.html"
   ],
   [
-    "team",
-    16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "latest",
+    17,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "phone",
+    "cup",
+    17,
+    "https://www.theguardian.com/football/2026/may/28/mauricio-pochettino-in-talks-with-milan-amid-broader-interest-as-us-opens-world-cup-camp"
+  ],
+  [
+    "executive",
     16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/05/28/business/media/nick-bilton-60-minutes-bari-weiss.html"
+  ],
+  [
+    "america",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/may/28/ranked-choice-voting-jamie-raskin"
+  ],
+  [
+    "won",
+    16,
+    "https://www.theguardian.com/us-news/2026/may/28/e-jean-carroll-doj-trump-reid-hoffman"
   ],
   [
     "email",
     16,
-    "https://www.theguardian.com/us-news/2026/may/28/supreme-court-mississippi-death-row-racial-bias"
+    "https://www.theguardian.com/us-news/live/2026/may/28/donald-trump-wsj-epstein-us-politics-latest-news-updates"
   ],
   [
-    "star",
+    "los",
     16,
-    "https://www.theguardian.com/film/2026/may/28/cynthia-erivo-ariana-grande-red-carpet-incident-racism"
+    "https://www.theguardian.com/sport/2026/may/28/dodgers-kendall-george-injury-bat-dog"
+  ],
+  [
+    "angeles",
+    16,
+    "https://www.theguardian.com/sport/2026/may/28/dodgers-kendall-george-injury-bat-dog"
+  ],
+  [
+    "journalist",
+    15,
+    "https://www.nytimes.com/2026/05/28/business/media/nick-bilton-60-minutes-bari-weiss.html"
+  ],
+  [
+    "team",
+    15,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "phone",
+    15,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "food",
+    15,
+    "https://www.theguardian.com/food/ng-interactive/2026/may/28/death-of-flavor-farming-crops"
+  ],
+  [
+    "died",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/28/happy-elephant-dead-age-55-bronx-zoo"
+  ],
+  [
+    "buying",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/may/28/how-to-clean-cutting-board"
   ],
   [
     "challengers",
-    16,
+    15,
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
-  ],
-  [
-    "latest",
-    15,
-    "https://www.nytimes.com/2026/05/27/us/politics/criminal-inquiry-e-jean-carroll-trump-accusations.html"
-  ],
-  [
-    "judge",
-    15,
-    "https://www.nytimes.com/2026/05/28/us/politics/trump-voting-executive-order.html"
-  ],
-  [
-    "candidates",
-    15,
-    "https://www.nytimes.com/2026/05/28/us/gretchen-whitmer-rules-out-2028.html"
-  ],
-  [
-    "secretary",
-    15,
-    "https://www.nytimes.com/2026/05/28/nyregion/lutnick-commerce-companies-business.html"
-  ],
-  [
-    "won",
-    15,
-    "https://www.theguardian.com/business/2026/may/28/inflation-increased-april-iran-war-price-rises"
-  ],
-  [
-    "board",
-    15,
-    "https://www.theguardian.com/us-news/2026/may/28/neo-nazi-charged-journalism-murder-plot"
-  ],
-  [
-    "fans",
-    15,
-    "https://www.theguardian.com/sport/2026/may/28/james-dolan-new-york-knicks-nba-finals"
   ],
   [
     "texas",
@@ -226,49 +231,44 @@
     "https://www.nytimes.com/2026/05/28/us/politics/ken-paxton-james-talarico-texas-senate-race.html"
   ],
   [
-    "drug",
+    "states",
     14,
-    "https://www.nytimes.com/2026/05/28/world/americas/guatemala-us-joint-strikes.html"
+    "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html"
   ],
   [
-    "tax",
+    "post",
     14,
-    "https://www.nytimes.com/2026/05/28/nyregion/budget-late-new-york.html"
+    "https://www.nytimes.com/2026/05/28/business/media/the-washington-star-newspaper-rivalry-washington-post.html"
   ],
   [
-    "film",
+    "black",
     14,
-    "https://www.nytimes.com/2026/05/28/movies/pressure-movie-fact-fiction-james-stagg.html"
+    "https://www.nytimes.com/2026/05/28/us/politics/supreme-court-black-jurors.html"
   ],
   [
-    "attack",
+    "million",
     14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "food",
+    "trump's",
     14,
-    "https://www.theguardian.com/food/ng-interactive/2026/may/28/death-of-flavor-farming-crops"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "supreme",
+    "secretary",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/28/ranked-choice-voting-jamie-raskin"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "social",
+    "review",
     14,
-    "https://www.theguardian.com/technology/ng-interactive/2026/may/28/dumb-flip-phone"
+    "https://www.theguardian.com/tv-and-radio/2026/may/28/the-four-seasons-season-two-review-tina-feys-brilliant-follow-up-is-up-there-with-30-rock"
   ],
   [
-    "having",
+    "music",
     14,
-    "https://www.theguardian.com/us-news/2026/may/28/supreme-court-mississippi-death-row-racial-bias"
-  ],
-  [
-    "cup",
-    14,
-    "https://www.theguardian.com/football/2026/may/28/canada-world-cup-2026-team-guide"
+    "https://www.theguardian.com/sport/2026/may/28/who-really-owns-the-williams-f1-team-legal-battle-special-report"
   ],
   [
     "cooker",
@@ -276,79 +276,94 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "justice",
-    13,
-    "https://www.nytimes.com/2026/05/27/us/politics/criminal-inquiry-e-jean-carroll-trump-accusations.html"
-  ],
-  [
-    "department",
-    13,
-    "https://www.nytimes.com/2026/05/27/us/politics/criminal-inquiry-e-jean-carroll-trump-accusations.html"
-  ],
-  [
-    "field",
+    "candidates",
     13,
     "https://www.nytimes.com/2026/05/28/us/gretchen-whitmer-rules-out-2028.html"
   ],
   [
-    "cuba",
+    "nick",
     13,
-    "https://www.nytimes.com/2026/05/28/world/americas/cuba-oil-russia-tanker.html"
+    "https://www.nytimes.com/2026/05/28/business/media/nick-bilton-60-minutes-bari-weiss.html"
   ],
   [
-    "don",
+    "birthday",
     13,
-    "https://www.nytimes.com/2026/05/28/health/hepatitis-b-chronic-bepirovirsen.html"
+    "https://www.nytimes.com/2026/05/28/business/media/trump-wsj-defamation-suit-10-billion.html"
   ],
   [
-    "america",
+    "washington",
     13,
-    "https://www.theguardian.com/food/ng-interactive/2026/may/28/death-of-flavor-farming-crops"
+    "https://www.nytimes.com/2026/05/28/business/media/the-washington-star-newspaper-rivalry-washington-post.html"
   ],
   [
-    "party",
+    "recent",
+    13,
+    "https://www.nytimes.com/2026/05/28/business/media/the-washington-star-newspaper-rivalry-washington-post.html"
+  ],
+  [
+    "mayor",
+    13,
+    "https://www.nytimes.com/2026/05/28/nyregion/adriano-espaillat-darializa-avila-chevalier-mamdani.html"
+  ],
+  [
+    "early",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "congressional",
     13,
     "https://www.theguardian.com/commentisfree/2026/may/28/ranked-choice-voting-jamie-raskin"
   ],
   [
-    "company",
+    "something",
     13,
-    "https://www.theguardian.com/technology/ng-interactive/2026/may/28/dumb-flip-phone"
+    "https://www.theguardian.com/food/ng-interactive/2026/may/28/death-of-flavor-farming-crops"
   ],
   [
-    "media",
+    "film",
     13,
-    "https://www.theguardian.com/money/2026/may/28/gen-z-using-social-media-in-struggling-job-market"
+    "https://www.theguardian.com/tv-and-radio/2026/may/28/the-four-seasons-season-two-review-tina-feys-brilliant-follow-up-is-up-there-with-30-rock"
   ],
   [
-    "full",
+    "american",
     13,
-    "https://www.theguardian.com/money/2026/may/28/gen-z-using-social-media-in-struggling-job-market"
+    "https://www.theguardian.com/us-news/2026/may/28/trump-memphis-crime-taskforce"
   ],
   [
-    "republicans",
+    "department",
     13,
-    "https://www.theguardian.com/business/2026/may/28/inflation-increased-april-iran-war-price-rises"
+    "https://www.theguardian.com/us-news/2026/may/28/e-jean-carroll-doj-trump-reid-hoffman"
   ],
   [
-    "french",
+    "replace",
     13,
-    "https://www.theguardian.com/sport/2026/may/28/jannick-sinner-out-french-open-33c-heat-cerundolo-tennis"
+    "https://www.theguardian.com/business/2026/may/28/cbs-news-60-minutes-ousts-executive-producer"
   ],
   [
-    "outside",
+    "seat",
     13,
-    "https://www.theguardian.com/us-news/2026/may/27/trump-doj-investigation-e-jean-carroll"
+    "https://www.theguardian.com/thefilter-us/2026/may/28/how-to-clean-cutting-board"
   ],
   [
-    "sex",
+    "filter",
     13,
-    "https://www.theguardian.com/film/2026/may/28/marilyn-monroe-remembered-by-her-closest-confidants"
+    "https://www.theguardian.com/thefilter-us/2026/may/28/how-to-clean-cutting-board"
   ],
   [
-    "buying",
+    "fewer",
     13,
-    "https://www.theguardian.com/games/2026/may/19/forza-horizon-6-review-classic-open-world-racing-sim-roars-beautifully-into-japan"
+    "https://www.theguardian.com/thefilter-us/2026/may/28/how-to-clean-cutting-board"
+  ],
+  [
+    "fans",
+    13,
+    "https://www.theguardian.com/sport/2026/may/28/james-dolan-new-york-knicks-nba-finals"
+  ],
+  [
+    "game",
+    13,
+    "https://www.theguardian.com/sport/2026/may/28/james-dolan-new-york-knicks-nba-finals"
   ],
   [
     "council",
@@ -356,22 +371,7 @@
     "https://www.theguardian.com/technology/2026/may/27/pope-leo-ai-comments-tell-us"
   ],
   [
-    "military",
-    12,
-    "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal"
-  ],
-  [
-    "israel",
-    12,
-    "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html"
-  ],
-  [
-    "carroll",
-    12,
-    "https://www.nytimes.com/2026/05/27/us/politics/criminal-inquiry-e-jean-carroll-trump-accusations.html"
-  ],
-  [
-    "journalist",
+    "air",
     12,
     "https://www.nytimes.com/2026/05/28/business/media/nick-bilton-60-minutes-bari-weiss.html"
   ]
