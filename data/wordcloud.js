@@ -2,42 +2,47 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    113,
+    126,
     "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html"
   ],
   [
     "race",
-    72,
-    "https://www.nytimes.com/2026/05/28/arts/television/late-night-trump-spencer-pratt-mayor.html"
+    66,
+    "https://www.theguardian.com/world/2026/may/28/argentina-european-self-image-racist-incidents-brazil"
   ],
   [
     "guide",
     60,
-    "https://www.theguardian.com/travel/2026/may/28/bosnia-bear-hunt-europe-oldest-forest"
+    "https://www.theguardian.com/football/2026/may/28/canada-world-cup-2026-team-guide"
   ],
   [
     "president",
-    51,
+    55,
     "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html"
   ],
   [
     "california",
-    49,
-    "https://www.theguardian.com/us-news/2026/may/27/santa-rosa-island-california-wildfire-damage"
+    46,
+    "https://www.theguardian.com/sport/2026/may/28/dodgers-kendall-george-injury-bat-dog"
   ],
   [
     "district",
-    42,
-    "https://www.theguardian.com/commentisfree/2026/may/28/cuba-castro-indictment-latin-america-violence"
-  ],
-  [
-    "texas",
-    35,
-    "https://www.nytimes.com/2026/05/28/podcasts/the-headlines/texas-students-tasered-trump-retribution.html"
+    43,
+    "https://www.theguardian.com/us-news/2026/may/28/federal-judges-trump-anti-weaponization-fund"
   ],
   [
     "iran",
-    32,
+    38,
+    "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal"
+  ],
+  [
+    "court",
+    33,
+    "https://www.theguardian.com/commentisfree/2026/may/28/ranked-choice-voting-jamie-raskin"
+  ],
+  [
+    "war",
+    30,
     "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal"
   ],
   [
@@ -46,149 +51,109 @@
     "https://www.theguardian.com/thefilter-us/2026/may/27/fathers-day-deals-sales"
   ],
   [
-    "democrats",
-    27,
-    "https://www.nytimes.com/2026/05/28/us/politics/up-for-grabs-can-democrats-sway-young-men-who-have-soured-on-trump.html"
-  ],
-  [
-    "court",
-    27,
-    "https://www.nytimes.com/2026/05/27/us/politics/trade-court-customs-chief-tariff-refunds.html"
-  ],
-  [
     "democratic",
-    27,
-    "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate"
-  ],
-  [
-    "primary",
     26,
-    "https://www.nytimes.com/2026/05/27/us/politics/massie-marjorie-taylor-greene-costa-rica.html"
-  ],
-  [
-    "war",
-    25,
-    "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal"
-  ],
-  [
-    "york",
-    23,
-    "https://www.nytimes.com/2026/05/28/nyregion/lutnick-business-takeaways.html"
-  ],
-  [
-    "election",
-    22,
-    "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate"
-  ],
-  [
-    "incumbent",
-    22,
-    "https://www.theguardian.com/us-news/2026/may/27/trump-republican-party-maga"
-  ],
-  [
-    "republican",
-    21,
-    "https://www.nytimes.com/2026/05/27/us/politics/massie-marjorie-taylor-greene-costa-rica.html"
-  ],
-  [
-    "republicans",
-    21,
-    "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate"
-  ],
-  [
-    "military",
-    20,
-    "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal"
-  ],
-  [
-    "senate",
-    20,
-    "https://www.nytimes.com/2026/05/28/us/politics/ken-paxton-james-talarico-texas-senate-race.html"
-  ],
-  [
-    "donald",
-    19,
-    "https://www.theguardian.com/us-news/2026/may/28/trump-refiles-10bn-lawsuit-against-wsj-over-report-on-alleged-epstein-ties"
-  ],
-  [
-    "county",
-    19,
-    "https://www.theguardian.com/us-news/2026/may/27/skydiver-killed-injured-collision-washington-state"
-  ],
-  [
-    "game",
-    19,
-    "https://www.theguardian.com/games/2026/may/27/i-have-found-the-new-wordle-and-im-here-to-share-it-with-you"
-  ],
-  [
-    "israel",
-    18,
-    "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html"
-  ],
-  [
-    "latest",
-    18,
-    "https://www.nytimes.com/2026/05/28/podcasts/the-headlines/texas-students-tasered-trump-retribution.html"
-  ],
-  [
-    "biden",
-    18,
-    "https://www.nytimes.com/2026/05/27/us/politics/jill-biden-joe-biden-2024-debate.html"
-  ],
-  [
-    "paxton",
-    18,
-    "https://www.nytimes.com/2026/05/28/us/politics/ken-paxton-james-talarico-texas-senate-race.html"
-  ],
-  [
-    "don",
-    18,
-    "https://www.nytimes.com/2026/05/28/health/hepatitis-b-chronic-bepirovirsen.html"
-  ],
-  [
-    "faces",
-    18,
-    "https://www.theguardian.com/media/2026/may/28/piper-rockelle-former-child-influencer-onlyfans"
-  ],
-  [
-    "ebola",
-    18,
-    "https://www.theguardian.com/global-development/2026/may/28/medical-staff-ebola-frontline-congolese-doctors-nurses-disease"
-  ],
-  [
-    "cbs",
-    17,
-    "https://www.nytimes.com/2026/05/27/us/politics/jill-biden-joe-biden-2024-debate.html"
-  ],
-  [
-    "ken",
-    17,
-    "https://www.nytimes.com/2026/05/28/us/politics/ken-paxton-james-talarico-texas-senate-race.html"
-  ],
-  [
-    "season",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/may/28/still-on-x-ask-yourself-why-platform-twitter-malign-actors-misinformation"
+    "https://www.nytimes.com/2026/05/28/us/gretchen-whitmer-rules-out-2028.html"
   ],
   [
     "country",
-    16,
-    "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal"
+    26,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "death",
+    23,
+    "https://www.theguardian.com/tv-and-radio/2026/may/28/the-four-seasons-season-two-review-tina-feys-brilliant-follow-up-is-up-there-with-30-rock"
+  ],
+  [
+    "biden",
+    23,
+    "https://www.cbsnews.com/news/jill-biden-joe-biden-stroke-2024-debate-sunday-morning-interview/"
+  ],
+  [
+    "donald",
+    22,
+    "https://www.nytimes.com/2026/05/28/us/politics/up-for-grabs-can-democrats-sway-young-men-who-have-soured-on-trump.html"
   ],
   [
     "again",
-    16,
-    "https://www.nytimes.com/2026/05/28/business/oil-gas-price-iran.html"
+    21,
+    "https://www.nytimes.com/2026/05/28/us/gretchen-whitmer-rules-out-2028.html"
   ],
   [
-    "having",
-    16,
-    "https://www.nytimes.com/2026/05/27/us/politics/jill-biden-joe-biden-2024-debate.html"
+    "york",
+    20,
+    "https://www.nytimes.com/2026/05/28/nyregion/budget-late-new-york.html"
   ],
   [
-    "government",
+    "primary",
+    20,
+    "https://www.nytimes.com/2026/05/28/nyregion/adriano-espaillat-darializa-avila-chevalier-mamdani.html"
+  ],
+  [
+    "faces",
+    20,
+    "https://www.theguardian.com/sport/2026/may/28/dodgers-kendall-george-injury-bat-dog"
+  ],
+  [
+    "incumbent",
+    20,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
+  ],
+  [
+    "democrats",
+    19,
+    "https://www.nytimes.com/2026/05/28/us/politics/up-for-grabs-can-democrats-sway-young-men-who-have-soured-on-trump.html"
+  ],
+  [
+    "cbs",
+    19,
+    "https://www.nytimes.com/2026/05/28/business/media/nick-bilton-60-minutes-bari-weiss.html"
+  ],
+  [
+    "election",
+    19,
+    "https://www.theguardian.com/business/2026/may/28/inflation-increased-april-iran-war-price-rises"
+  ],
+  [
+    "series",
+    18,
+    "https://www.nytimes.com/2026/05/25/arts/music/lizzo-new-york-times-live-performance.html"
+  ],
+  [
+    "black",
+    18,
+    "https://www.theguardian.com/us-news/2026/may/28/supreme-court-mississippi-death-row-racial-bias"
+  ],
+  [
+    "case",
+    17,
+    "https://www.nytimes.com/2026/05/28/nyregion/happy-elephant-bronx-zoo-dead.html"
+  ],
+  [
+    "county",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/may/28/trump-deportations-asylum"
+  ],
+  [
+    "game",
+    17,
+    "https://www.theguardian.com/sport/live/2026/may/28/french-open-tennis-sinner-osaka-sabalenka-gauff-day-five-live"
+  ],
+  [
+    "music",
+    17,
+    "https://www.theguardian.com/sport/2026/may/28/who-really-owns-the-williams-f1-team-legal-battle-special-report"
+  ],
+  [
+    "administration",
     16,
-    "https://www.nytimes.com/2026/05/18/us/politics/trump-anti-weaponization-fund.html"
+    "https://www.nytimes.com/2026/05/28/us/politics/trump-voting-executive-order.html"
+  ],
+  [
+    "american",
+    16,
+    "https://www.nytimes.com/2026/05/28/world/americas/guatemala-us-joint-strikes.html"
   ],
   [
     "review",
@@ -196,144 +161,114 @@
     "https://www.nytimes.com/2026/05/28/nyregion/lutnick-commerce-companies-business.html"
   ],
   [
-    "million",
+    "team",
     16,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "early",
+    "phone",
     16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "win",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate"
-  ],
-  [
-    "general",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate"
-  ],
-  [
-    "party",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate"
-  ],
-  [
-    "series",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/may/28/the-four-seasons-season-two-review-tina-feys-brilliant-follow-up-is-up-there-with-30-rock"
-  ],
-  [
-    "green",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/may/28/greenlash-green-parties-europe-uk-zack-polanski"
-  ],
-  [
-    "sex",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/27/interlochen-arts-center-boarding-school-michigan-epstein"
-  ],
-  [
-    "gop",
-    16,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide"
-  ],
-  [
-    "strikes",
-    15,
-    "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal"
-  ],
-  [
-    "washington",
-    15,
-    "https://www.nytimes.com/2026/05/28/us/how-to-watch-scripps-national-spelling-bee-2026.html"
-  ],
-  [
-    "died",
-    15,
-    "https://www.theguardian.com/film/2026/may/28/gay-dads-andrew-durham-sofia-coppola-interview-fairyland-aids"
-  ],
-  [
-    "media",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/may/28/still-on-x-ask-yourself-why-platform-twitter-malign-actors-misinformation"
-  ],
-  [
-    "late",
-    15,
-    "https://www.theguardian.com/football/2026/may/27/barcelona-advanced-talks-signing-anthony-gordon-newcastle"
-  ],
-  [
-    "challengers",
-    15,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
-  ],
-  [
-    "administration",
-    14,
-    "https://www.nytimes.com/2026/05/18/us/politics/trump-anti-weaponization-fund.html"
-  ],
-  [
-    "online",
-    14,
-    "https://www.nytimes.com/2026/05/28/technology/personaltech/online-scams-have-evolved-in-the-ai-era-heres-what-to-do.html"
-  ],
-  [
-    "term",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "epstein",
-    14,
-    "https://www.theguardian.com/news/2026/may/28/inside-the-world-of-jeffrey-epstein-assistant-lesley-groff"
-  ],
-  [
-    "video",
-    14,
-    "https://www.theguardian.com/film/2026/may/28/gay-dads-andrew-durham-sofia-coppola-interview-fairyland-aids"
-  ],
-  [
-    "climate",
-    14,
-    "https://www.theguardian.com/environment/2026/may/28/climate-impacts-spiralling-more-record-global-heat-warns-un"
-  ],
-  [
-    "night",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/27/new-jersey-ice-immigration"
-  ],
-  [
-    "death",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/28/us-military-strike-alleged-drug-boat-pacific-death-toll-nears-200"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "email",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate"
+    16,
+    "https://www.theguardian.com/us-news/2026/may/28/supreme-court-mississippi-death-row-racial-bias"
   ],
   [
-    "john",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/27/republicans-back-ken-paxton-texas-senate"
+    "star",
+    16,
+    "https://www.theguardian.com/film/2026/may/28/cynthia-erivo-ariana-grande-red-carpet-incident-racism"
   ],
   [
-    "started",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/27/trump-republican-party-maga"
+    "challengers",
+    16,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "police",
-    14,
-    "https://www.theguardian.com/us-news/2026/may/27/kerry-sheron-california-trump"
+    "latest",
+    15,
+    "https://www.nytimes.com/2026/05/27/us/politics/criminal-inquiry-e-jean-carroll-trump-accusations.html"
   ],
   [
-    "games",
+    "judge",
+    15,
+    "https://www.nytimes.com/2026/05/28/us/politics/trump-voting-executive-order.html"
+  ],
+  [
+    "candidates",
+    15,
+    "https://www.nytimes.com/2026/05/28/us/gretchen-whitmer-rules-out-2028.html"
+  ],
+  [
+    "secretary",
+    15,
+    "https://www.nytimes.com/2026/05/28/nyregion/lutnick-commerce-companies-business.html"
+  ],
+  [
+    "won",
+    15,
+    "https://www.theguardian.com/business/2026/may/28/inflation-increased-april-iran-war-price-rises"
+  ],
+  [
+    "board",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/28/neo-nazi-charged-journalism-murder-plot"
+  ],
+  [
+    "fans",
+    15,
+    "https://www.theguardian.com/sport/2026/may/28/james-dolan-new-york-knicks-nba-finals"
+  ],
+  [
+    "texas",
     14,
-    "https://www.theguardian.com/sport/2026/may/27/jakub-mensik-labels-french-open-heat-insane-after-collapsing-at-end-of-five-set-win"
+    "https://www.nytimes.com/2026/05/28/us/politics/ken-paxton-james-talarico-texas-senate-race.html"
+  ],
+  [
+    "drug",
+    14,
+    "https://www.nytimes.com/2026/05/28/world/americas/guatemala-us-joint-strikes.html"
+  ],
+  [
+    "tax",
+    14,
+    "https://www.nytimes.com/2026/05/28/nyregion/budget-late-new-york.html"
+  ],
+  [
+    "film",
+    14,
+    "https://www.nytimes.com/2026/05/28/movies/pressure-movie-fact-fiction-james-stagg.html"
+  ],
+  [
+    "attack",
+    14,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "food",
+    14,
+    "https://www.theguardian.com/food/ng-interactive/2026/may/28/death-of-flavor-farming-crops"
+  ],
+  [
+    "supreme",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/may/28/ranked-choice-voting-jamie-raskin"
+  ],
+  [
+    "social",
+    14,
+    "https://www.theguardian.com/technology/ng-interactive/2026/may/28/dumb-flip-phone"
+  ],
+  [
+    "having",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/28/supreme-court-mississippi-death-row-racial-bias"
+  ],
+  [
+    "cup",
+    14,
+    "https://www.theguardian.com/football/2026/may/28/canada-world-cup-2026-team-guide"
   ],
   [
     "cooker",
@@ -341,17 +276,7 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "seat",
-    14,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide"
-  ],
-  [
-    "inside",
-    13,
-    "https://www.nytimes.com/2026/05/28/podcasts/the-headlines/texas-students-tasered-trump-retribution.html"
-  ],
-  [
-    "accused",
+    "justice",
     13,
     "https://www.nytimes.com/2026/05/27/us/politics/criminal-inquiry-e-jean-carroll-trump-accusations.html"
   ],
@@ -361,18 +286,93 @@
     "https://www.nytimes.com/2026/05/27/us/politics/criminal-inquiry-e-jean-carroll-trump-accusations.html"
   ],
   [
-    "joe",
+    "field",
     13,
-    "https://www.nytimes.com/2026/05/27/us/politics/jill-biden-joe-biden-2024-debate.html"
+    "https://www.nytimes.com/2026/05/28/us/gretchen-whitmer-rules-out-2028.html"
   ],
   [
-    "drug",
+    "cuba",
     13,
-    "https://www.nytimes.com/2026/05/28/world/americas/guatemala-us-joint-strikes.html"
+    "https://www.nytimes.com/2026/05/28/world/americas/cuba-oil-russia-tanker.html"
   ],
   [
-    "secretary",
+    "don",
     13,
-    "https://www.nytimes.com/2026/05/28/nyregion/lutnick-commerce-companies-business.html"
+    "https://www.nytimes.com/2026/05/28/health/hepatitis-b-chronic-bepirovirsen.html"
+  ],
+  [
+    "america",
+    13,
+    "https://www.theguardian.com/food/ng-interactive/2026/may/28/death-of-flavor-farming-crops"
+  ],
+  [
+    "party",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/may/28/ranked-choice-voting-jamie-raskin"
+  ],
+  [
+    "company",
+    13,
+    "https://www.theguardian.com/technology/ng-interactive/2026/may/28/dumb-flip-phone"
+  ],
+  [
+    "media",
+    13,
+    "https://www.theguardian.com/money/2026/may/28/gen-z-using-social-media-in-struggling-job-market"
+  ],
+  [
+    "full",
+    13,
+    "https://www.theguardian.com/money/2026/may/28/gen-z-using-social-media-in-struggling-job-market"
+  ],
+  [
+    "republicans",
+    13,
+    "https://www.theguardian.com/business/2026/may/28/inflation-increased-april-iran-war-price-rises"
+  ],
+  [
+    "french",
+    13,
+    "https://www.theguardian.com/sport/2026/may/28/jannick-sinner-out-french-open-33c-heat-cerundolo-tennis"
+  ],
+  [
+    "outside",
+    13,
+    "https://www.theguardian.com/us-news/2026/may/27/trump-doj-investigation-e-jean-carroll"
+  ],
+  [
+    "sex",
+    13,
+    "https://www.theguardian.com/film/2026/may/28/marilyn-monroe-remembered-by-her-closest-confidants"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.theguardian.com/games/2026/may/19/forza-horizon-6-review-classic-open-world-racing-sim-roars-beautifully-into-japan"
+  ],
+  [
+    "council",
+    13,
+    "https://www.theguardian.com/technology/2026/may/27/pope-leo-ai-comments-tell-us"
+  ],
+  [
+    "military",
+    12,
+    "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal"
+  ],
+  [
+    "israel",
+    12,
+    "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html"
+  ],
+  [
+    "carroll",
+    12,
+    "https://www.nytimes.com/2026/05/27/us/politics/criminal-inquiry-e-jean-carroll-trump-accusations.html"
+  ],
+  [
+    "journalist",
+    12,
+    "https://www.nytimes.com/2026/05/28/business/media/nick-bilton-60-minutes-bari-weiss.html"
   ]
 ];
