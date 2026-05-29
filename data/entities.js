@@ -2,22 +2,28 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 48,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Trump White House",
+      "count": 61,
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-05-29/springsteen-trump-two-very-different-music-events",
+      "source": "LA Times"
     },
     {
       "name": "Scripps National Spelling Bee",
-      "count": 27,
+      "count": 29,
       "url": "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/",
       "source": "Washington Post"
     },
     {
-      "name": "Cbs News Ai",
-      "count": 23,
-      "url": "https://www.cbsnews.com/video/u-s-army-practices-for-warfare-with-ai-and-robots/",
+      "name": "House Oversight Committee",
+      "count": 14,
+      "url": "https://www.cbsnews.com/video/pam-bondi-refused-to-answer-trump-related-questions-while-testifying-on-epstein-garcia-says/",
       "source": "CBS News"
+    },
+    {
+      "name": "Ai",
+      "count": 12,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/29/pope-ai-encyclical",
+      "source": "The Guardian"
     },
     {
       "name": "D.C. — Quick Post",
@@ -32,10 +38,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "A&Amp;E&Apos;S &Quot;Zombie House",
-      "count": 11,
-      "url": "https://www.foxnews.com/entertainment/reality-star-warns-american-families-buying-nightmare-homes",
-      "source": "Fox News"
+      "name": "The Ecuadorean Amazon",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/05/29/science/snake-collector-mera-ecuador.html",
+      "source": "NY Times"
     },
     {
       "name": "The California Congressional District",
@@ -44,53 +50,109 @@
       "source": "LA Times"
     },
     {
+      "name": "Congress",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/05/29/opinion/ezra-klein-podcast-liam-donovan.html",
+      "source": "NY Times"
+    },
+    {
       "name": "D.C. - Quick Post",
       "count": 9,
       "url": "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-scripps-national-spelling-bee-finalists-face-off-dc-quick-post-11/",
       "source": "Washington Post"
-    },
+    }
+  ],
+  "GPE": [
     {
-      "name": "Ice Cream",
-      "count": 9,
-      "url": "https://www.theguardian.com/music/2026/may/29/matias-aguayo-anenoa-review",
+      "name": "Us",
+      "count": 47,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/29/trump-mental-physical-health",
       "source": "The Guardian"
     },
     {
-      "name": "The L.A. City Council",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
+      "name": "California",
+      "count": 43,
+      "url": "https://www.theguardian.com/us-news/2026/may/28/california-los-gatos-party-mom-sentenced",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/05/29/us/ice-agent-arrested-minnesota-shooting-immigrant.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/05/29/us/chicago-prosecutor-andrew-boutros.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 17,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "Iran",
+      "count": 14,
+      "url": "https://www.theguardian.com/world/2026/may/29/trump-on-verge-of-approving-peace-deal-with-major-iranian-concessions",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 13,
+      "url": "https://www.washingtonpost.com/nation/2026/05/29/new-yorks-jewish-community-stung-by-attacks-mamdanis-anti-israel-posture/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Mexico",
+      "count": 13,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "New York City",
+      "count": 13,
+      "url": "https://www.theguardian.com/media/2026/may/29/student-cbs-scholarship-winner",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Russia",
+      "count": 12,
+      "url": "https://www.theguardian.com/world/2026/may/29/un-israel-russia-blacklist-sexual-violence-conflict",
+      "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 25,
+      "count": 36,
       "url": "https://www.theguardian.com/tv-and-radio/2026/may/29/stephen-colbert-late-show-replacement-byron-allen",
       "source": "The Guardian"
     },
     {
       "name": "Pam Bondi",
-      "count": 8,
+      "count": 13,
       "url": "https://www.theguardian.com/us-news/2026/may/29/pam-bondi-epstein-files-house-committee",
       "source": "The Guardian"
     },
     {
-      "name": "Kenneth Law",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/may/29/canada-kenneth-law-suicide-packets-hundreds-of-people-around-world",
-      "source": "The Guardian"
+      "name": "Jill Biden",
+      "count": 9,
+      "url": "https://www.foxnews.com/media/jake-tapper-refutes-jill-bidens-claim-she-feared-husbands-health-cnn-debate",
+      "source": "Fox News"
     },
     {
-      "name": "Frederica Wilson",
+      "name": "Christian Castro",
       "count": 6,
-      "url": "https://www.nbcnews.com/politics/congress/rep-frederica-wilson-83-year-old-florida-democrat-retiring-rcna346993",
-      "source": "NBC News"
+      "url": "https://www.nytimes.com/2026/05/29/us/ice-agent-arrested-minnesota-shooting-immigrant.html",
+      "source": "NY Times"
     },
     {
-      "name": "Spencer Pratt Wants",
+      "name": "Benjamin Netanyahu",
       "count": 5,
-      "url": "https://www.nytimes.com/2026/05/27/magazine/spencer-pratt-batman-ads-mayor.html",
+      "url": "https://www.nytimes.com/2026/05/29/world/middleeast/israel-lebanon-litani-troops-talks.html",
       "source": "NY Times"
     },
     {
@@ -100,96 +162,34 @@
       "source": "Wall St. Journal"
     },
     {
-      "name": "Tom Hardy",
-      "count": 5,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/29/has-tom-hardy-been-fired-from-mobland-paramount",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vladimir Putin",
-      "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/29/vladimir-putin-trial-crimes-russia-ukraine-plan--gordon-brown",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Bukayo Saka",
-      "count": 5,
-      "url": "https://www.theguardian.com/football/2026/may/29/moment-that-made-bukayo-saka-arsenal-england",
-      "source": "The Guardian"
-    },
-    {
       "name": "Rafa Nadal",
       "count": 5,
       "url": "https://www.theguardian.com/tv-and-radio/2026/may/29/rafa-review-nadal-spain-greatest-ever-tennis-player-netflix",
       "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 51,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/29/trump-mental-physical-health",
-      "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 38,
-      "url": "https://www.nytimes.com/2026/05/29/us/doris-matsui-mai-vang-congress.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 25,
-      "url": "https://www.theguardian.com/politics/video/2026/may/29/trump-the-boy-who-cried-peace-in-the-middle-east-politics-weekly-america",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/05/29/business/economy/offshore-tax-havens-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 18,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "name": "Pattie Gonia",
+      "count": 5,
+      "url": "https://www.latimes.com/business/story/2026-05-29/patagonia-trademark-lawsuit-triggers-backlash-by-drag-queen-pattie-gonia",
       "source": "LA Times"
     },
     {
-      "name": "Texas",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/05/29/us/ice-agent-arrested-minnesota-shooting-immigrant.html",
-      "source": "NY Times"
+      "name": "Pope Leo Xiv",
+      "count": 5,
+      "url": "https://www.foxnews.com/politics/pope-leo-meets-chicagos-far-left-mayor-george-floyds-family-lawyer-vatican",
+      "source": "Fox News"
     },
     {
-      "name": "New York City",
-      "count": 14,
-      "url": "https://www.theguardian.com/media/2026/may/29/student-cbs-scholarship-winner",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Romania",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-russia-ukraine.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Los Angeles County",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-sheriff-luna-villanueva-challengers-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Mexico",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Frederica Wilson",
+      "count": 5,
+      "url": "https://www.foxnews.com/politics/dem-rep-frederica-wilson-announces-retirement-days-after-denying-crazy-rumor-she-would-leave-congress",
+      "source": "Fox News"
     }
   ],
   "EVENT": [
     {
       "name": "The 1986 World Cup",
-      "count": 8,
+      "count": 6,
       "url": "https://www.theguardian.com/football/2026/may/29/mexico-hope-a-month-of-isolation-can-rekindle-the-magic-of-the-1986-world-cup",
       "source": "The Guardian"
     },
@@ -206,10 +206,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
+      "name": "Game 7",
       "count": 2,
-      "url": "https://www.cbsnews.com/video/new-data-shows-americans-are-saving-less/",
-      "source": "CBS News"
+      "url": "https://www.theguardian.com/sport/2026/may/29/victor-wembanyama-spurs-thunder-game-6-western-conference-finals",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The French Open",
+      "count": 2,
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/may/29/the-week-around-the-world-in-20-pictures",
+      "source": "The Guardian"
     },
     {
       "name": "The Room Where War Insurance Is Bought",
@@ -230,15 +236,9 @@
       "source": "Washington Post"
     },
     {
-      "name": "French Open 2026",
+      "name": "Iran War",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/live/2026/may/29/french-open-2026-xxx-on-day-six-live",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Game 7",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/29/victor-wembanyama-spurs-thunder-game-6-western-conference-finals",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/29/cuba-us-blockade-europe-spain",
       "source": "The Guardian"
     },
     {
@@ -248,5 +248,5 @@
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-05-29T16:46:38Z"
+  "updated": "2026-05-29T21:09:53Z"
 };
