@@ -8,71 +8,83 @@
       "source": "NY Times"
     },
     {
-      "name": "Nick Bilton",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/05/28/business/media/nick-bilton-60-minutes-bari-weiss.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Spencer Pratt",
-      "count": 8,
-      "url": "https://www.theguardian.com/culture/2026/may/28/jimmy-kimmel-spencer-pratt-reality-tv-los-angeles",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Raúl Castro",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/28/cuba-castro-indictment-latin-america-violence",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Bari Weiss",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/05/28/business/media/nick-bilton-60-minutes-bari-weiss.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Jimmy Kimmel Live",
-      "count": 6,
+      "count": 10,
       "url": "https://www.theguardian.com/culture/2026/may/28/jimmy-kimmel-spencer-pratt-reality-tv-los-angeles",
       "source": "The Guardian"
     },
     {
       "name": "Karen Bass",
-      "count": 6,
+      "count": 9,
       "url": "https://www.latimes.com/california/story/2026-05-28/poll-shows-bass-raman-pratt-in-tight-race-for-mayor",
       "source": "LA Times"
     },
     {
       "name": "Jill Biden",
-      "count": 6,
-      "url": "https://www.cbsnews.com/news/jill-biden-joe-biden-stroke-2024-debate-sunday-morning-interview/",
-      "source": "CBS News"
+      "count": 7,
+      "url": "https://www.foxnews.com/media/former-biden-aides-dont-believe-jill-biden-angry-over-ex-first-ladys-debate-comments-reporter-says",
+      "source": "Fox News"
     },
     {
-      "name": "Gretchen Whitmer",
+      "name": "Raúl Castro",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/28/cuba-castro-indictment-latin-america-violence",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Rams Wr Puka Nacua",
+      "count": 6,
+      "url": "https://www.foxnews.com/outkick-sports/rams-troublemaker-wr-puka-nacua-says-hes-changed-man-biting-incident-stint-rehab",
+      "source": "Fox News"
+    },
+    {
+      "name": "Nick Bilton",
       "count": 5,
-      "url": "https://www.nytimes.com/2026/05/28/us/gretchen-whitmer-rules-out-2028.html",
+      "url": "https://www.nytimes.com/2026/05/28/business/media/nick-bilton-60-minutes-bari-weiss.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Shrey Parikh",
+      "count": 5,
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/",
+      "source": "Washington Post"
     },
     {
       "name": "Marco Rubio",
       "count": 5,
       "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
       "source": "Wall St. Journal"
+    },
+    {
+      "name": "Paul Mccartney",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/may/29/paul-mccartney-bandmates-oasis-nostalgic-new-album-the-boys-of-dungeon-lane",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
+      "name": "The 2026 World Cup",
+      "count": 9,
+      "url": "https://www.theguardian.com/football/2026/may/28/mauricio-pochettino-christian-pulisic-usmnt",
+      "source": "The Guardian"
+    },
+    {
       "name": "The World Cup",
-      "count": 11,
-      "url": "https://www.theguardian.com/fashion/gallery/2026/may/27/world-cup-of-kits-who-are-the-winners-for-2026",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/2026/may/28/mauricio-pochettino-christian-pulisic-usmnt",
       "source": "The Guardian"
     },
     {
       "name": "The French Open",
       "count": 3,
       "url": "https://www.theguardian.com/sport/2026/may/28/jannick-sinner-out-french-open-33c-heat-cerundolo-tennis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Game 6    Wembanyama",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/may/29/victor-wembanyama-spurs-thunder-game-6-western-conference-finals",
       "source": "The Guardian"
     },
     {
@@ -100,122 +112,48 @@
       "source": "The Guardian"
     },
     {
+      "name": "Game 7",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/29/victor-wembanyama-spurs-thunder-game-6-western-conference-finals",
+      "source": "The Guardian"
+    },
+    {
       "name": "Wimbledon",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/may/28/jannick-sinner-out-french-open-33c-heat-cerundolo-tennis",
       "source": "The Guardian"
-    },
-    {
-      "name": "Conn Smythe Trophy    Former",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/28/claude-lemieux-dead-four-time-stanley-cup-champion-nhl",
-      "source": "The Guardian"
-    },
-    {
-      "name": "’S Olympic",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/28/canada-usa-iihf-world-championship-quarter-final-jet-greaves",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Black Code",
-      "count": 1,
-      "url": "https://www.theguardian.com/world/2026/may/28/france-votes-code-noir-slavery-law-colonialism",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 67,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/28/ranked-choice-voting-jamie-raskin",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 31,
-      "url": "https://www.theguardian.com/us-news/2026/may/28/california-law-shield-elections-federal-interference",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 28,
-      "url": "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 18,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Los Angeles County",
-      "count": 14,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-sheriff-luna-villanueva-challengers-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "America",
-      "count": 13,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/28/ranked-choice-voting-jamie-raskin",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City’S",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/may/28/happy-elephant-dead-age-55-bronx-zoo",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/05/28/us/politics/ken-paxton-james-talarico-texas-senate-race.html",
-      "source": "NY Times"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Administration",
-      "count": 61,
-      "url": "https://www.theguardian.com/us-news/2026/may/28/trump-iran-republicans-anger-midterms",
+      "name": "Trump Administration Of Threatening Its Broadcast Licenses",
+      "count": 53,
+      "url": "https://www.nytimes.com/2026/05/28/business/media/abc-licenses-fcc-brendan-carr.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Scripps National Spelling Bee",
+      "count": 28,
+      "url": "https://www.theguardian.com/sport/2026/may/28/shrey-parikh-scripps-national-spelling-bee-win",
       "source": "The Guardian"
     },
     {
       "name": "The White House",
-      "count": 19,
-      "url": "https://www.theguardian.com/business/2026/may/28/inflation-increased-april-iran-war-price-rises",
-      "source": "The Guardian"
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/05/28/arts/design/lonnie-bunch-smithsonian-american-aspirations.html",
+      "source": "NY Times"
     },
     {
       "name": "Ai",
-      "count": 15,
+      "count": 16,
       "url": "https://www.theguardian.com/technology/2026/may/28/anthropic-ai-valuation",
       "source": "The Guardian"
     },
     {
-      "name": "Cbs News'",
-      "count": 12,
-      "url": "https://www.cbsnews.com/video/florida-woman-no-right-hand-who-pulled-over-speaks-out-limb-difference-normal/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Cbs News",
+      "name": "D.C. — Quick Post",
       "count": 11,
-      "url": "https://www.theguardian.com/business/2026/may/28/cbs-news-60-minutes-ousts-executive-producer",
-      "source": "The Guardian"
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-scripps-national-spelling-bee-finalists-face-off-dc-quick-post-12/",
+      "source": "Washington Post"
     },
     {
       "name": "The Filter Us",
@@ -224,10 +162,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Guardian Australia",
-      "count": 11,
-      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/23/running-ultramarathon-what-does-it-take-run-100-miles-ultra-trail-australia",
-      "source": "The Guardian"
+      "name": "E. Jean Carroll",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/05/28/us/politics/justice-department-carroll-hoffman-lawsuit-trump.html",
+      "source": "NY Times"
     },
     {
       "name": "The California Congressional District",
@@ -236,17 +174,79 @@
       "source": "LA Times"
     },
     {
+      "name": "D.C. - Quick Post",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-scripps-national-spelling-bee-finalists-face-off-dc-quick-post-11/",
+      "source": "Washington Post"
+    },
+    {
       "name": "The L.A. City Council",
       "count": 9,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
       "source": "LA Times"
-    },
-    {
-      "name": "Breaking News",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/live/2026/may/28/donald-trump-wsj-epstein-us-politics-latest-news-updates",
-      "source": "The Guardian"
     }
   ],
-  "updated": "2026-05-28T21:11:12Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 78,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/28/ranked-choice-voting-jamie-raskin",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 39,
+      "url": "https://www.theguardian.com/sport/2026/may/28/shrey-parikh-scripps-national-spelling-bee-win",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 38,
+      "url": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 37,
+      "url": "https://www.nytimes.com/2026/05/28/us/politics/trump-approach-iran-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ukraine",
+      "count": 20,
+      "url": "https://www.theguardian.com/world/2026/may/29/russian-drone-romanian-apartments-wounding-two-people-and-starting-fire",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 20,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Washington Dc’S",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/may/28/co-founder-students-trump-arrested-domestic-violence",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Los Angeles County",
+      "count": 16,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-sheriff-luna-villanueva-challengers-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "New York City’S",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/may/28/happy-elephant-dead-age-55-bronx-zoo",
+      "source": "The Guardian"
+    },
+    {
+      "name": "America",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/05/28/arts/design/lonnie-bunch-smithsonian-american-aspirations.html",
+      "source": "NY Times"
+    }
+  ],
+  "updated": "2026-05-29T05:16:48Z"
 };
