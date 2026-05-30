@@ -2,12 +2,12 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    120,
+    119,
     "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
   ],
   [
     "race",
-    72,
+    74,
     "https://www.nytimes.com/2026/05/29/style/spencer-pratt-los-angeles-mayor.html"
   ],
   [
@@ -22,27 +22,27 @@
   ],
   [
     "district",
-    53,
+    52,
     "https://www.nytimes.com/2026/05/29/us/chicago-prosecutor-andrew-boutros.html"
   ],
   [
     "california",
-    44,
-    "https://www.theguardian.com/sport/gallery/2026/may/29/the-98th-scripps-national-spelling-bee-in-pictures"
+    48,
+    "https://www.theguardian.com/us-news/2026/may/28/california-los-gatos-party-mom-sentenced"
   ],
   [
     "judge",
-    38,
+    32,
     "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
   ],
   [
     "post",
-    31,
+    32,
     "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
   ],
   [
     "content",
-    31,
+    32,
     "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
   ],
   [
@@ -66,9 +66,9 @@
     "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
   ],
   [
-    "iran",
-    26,
-    "https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html"
+    "texas",
+    27,
+    "https://www.theguardian.com/us-news/2026/may/29/texas-trial-catholic-priest-sexual-assault"
   ],
   [
     "updates",
@@ -81,9 +81,9 @@
     "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
   ],
   [
-    "center",
-    25,
-    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
+    "election",
+    26,
+    "https://www.theguardian.com/world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence"
   ],
   [
     "country",
@@ -91,29 +91,39 @@
     "https://www.nytimes.com/2026/05/29/us/politics/green-cards-dhs.html"
   ],
   [
+    "iran",
+    25,
+    "https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html"
+  ],
+  [
     "quick",
     24,
     "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
   ],
   [
-    "game",
-    23,
-    "https://www.theguardian.com/games/2026/may/29/run-first-marathon-50s-zombies-run-game"
-  ],
-  [
     "war",
-    22,
-    "https://www.nytimes.com/2026/05/29/world/australia/iran-war-fuel-price-new-zealand-village.html"
+    24,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "election",
-    22,
-    "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment"
+    "center",
+    23,
+    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
   ],
   [
-    "department",
-    21,
-    "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
+    "administration",
+    22,
+    "https://www.nytimes.com/2026/05/29/us/politics/federal-judge-trump-fund.html"
+  ],
+  [
+    "ice",
+    22,
+    "https://www.nytimes.com/2026/05/29/nyregion/ice-protests-delaney-hall-nj.html"
+  ],
+  [
+    "incumbent",
+    22,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
     "fund",
@@ -121,34 +131,44 @@
     "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
   ],
   [
-    "latest",
+    "york",
     21,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "incumbent",
-    21,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
+    "https://www.nytimes.com/2026/05/29/nyregion/mamdani-edc-economy-nyc.html"
   ],
   [
     "military",
-    20,
+    21,
     "https://www.nytimes.com/2026/05/29/world/middleeast/israel-lebanon-litani-troops-talks.html"
   ],
   [
     "don",
-    20,
+    21,
     "https://www.nytimes.com/2026/05/29/us/politics/carroll-hoffman-legal-explainer.html"
+  ],
+  [
+    "latest",
+    20,
+    "https://www.nytimes.com/2026/05/30/us/politics/trump-health-medical-physical-exam.html"
   ],
   [
     "health",
     20,
-    "https://www.theguardian.com/commentisfree/2026/may/29/trump-mental-physical-health"
+    "https://www.nytimes.com/2026/05/30/us/politics/trump-health-medical-physical-exam.html"
   ],
   [
-    "texas",
+    "democratic",
     20,
-    "https://www.theguardian.com/us-news/2026/may/29/texas-trial-catholic-priest-sexual-assault"
+    "https://www.nytimes.com/2026/05/29/opinion/ezra-klein-podcast-liam-donovan.html"
+  ],
+  [
+    "children",
+    20,
+    "https://www.theguardian.com/us-news/2026/may/29/trump-vaccines-children-executive-order"
+  ],
+  [
+    "game",
+    20,
+    "https://www.theguardian.com/sport/2026/may/28/dodgers-kendall-george-injury-bat-dog"
   ],
   [
     "board",
@@ -156,24 +176,24 @@
     "https://www.theguardian.com/commentisfree/2026/may/29/the-guardian-view-on-israel-and-gaza-the-threat-of-further-humanitarian-catastrophe"
   ],
   [
-    "york",
-    19,
-    "https://www.nytimes.com/2026/05/29/nyregion/mamdani-edc-economy-nyc.html"
-  ],
-  [
     "general",
     19,
     "https://www.theguardian.com/us-news/2026/may/29/new-jersey-delaney-hall-police-ice"
   ],
   [
-    "administration",
-    18,
-    "https://www.nytimes.com/2026/05/29/us/politics/federal-judge-trump-fund.html"
+    "faces",
+    19,
+    "https://www.theguardian.com/sport/2026/may/28/dodgers-kendall-george-injury-bat-dog"
   ],
   [
-    "kennedy",
+    "department",
     18,
-    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
+    "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
+  ],
+  [
+    "donald",
+    18,
+    "https://www.nytimes.com/2026/05/29/us/politics/carroll-hoffman-legal-explainer.html"
   ],
   [
     "congressional",
@@ -181,44 +201,74 @@
     "https://www.nytimes.com/2026/05/29/us/trump-pamela-evette-south-carolina-governor.html"
   ],
   [
-    "democratic",
+    "final",
     18,
+    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-scripps-national-spelling-bee-is-down-final-two-quick-post-3/"
+  ],
+  [
+    "county",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/may/29/rafa-review-nadal-spain-greatest-ever-tennis-player-netflix"
+  ],
+  [
+    "democrats",
+    18,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
+  ],
+  [
+    "immigration",
+    17,
+    "https://www.nytimes.com/2026/05/30/world/asia/japan-immigration-curry-shops.html"
+  ],
+  [
+    "governor",
+    17,
+    "https://www.nytimes.com/2026/05/29/us/trump-pamela-evette-south-carolina-governor.html"
+  ],
+  [
+    "party",
+    17,
     "https://www.nytimes.com/2026/05/29/opinion/ezra-klein-podcast-liam-donovan.html"
   ],
   [
     "body",
-    18,
+    17,
+    "https://www.theguardian.com/wellness/2026/may/29/elizabeth-smart-bodybuilding-journey"
+  ],
+  [
+    "family",
+    17,
     "https://www.theguardian.com/wellness/2026/may/29/elizabeth-smart-bodybuilding-journey"
   ],
   [
     "summer",
-    18,
+    17,
     "https://www.theguardian.com/thefilter-us/2026/may/29/best-exercise-work-out-gear-sore-muscles"
   ],
   [
-    "green",
-    17,
-    "https://www.nytimes.com/2026/05/29/us/politics/green-cards-dhs.html"
-  ],
-  [
-    "ice",
-    17,
-    "https://www.nytimes.com/2026/05/29/nyregion/ice-protests-delaney-hall-nj.html"
-  ],
-  [
-    "donald",
-    17,
-    "https://www.nytimes.com/2026/05/29/us/politics/carroll-hoffman-legal-explainer.html"
-  ],
-  [
-    "children",
+    "order",
     17,
     "https://www.theguardian.com/us-news/2026/may/29/trump-vaccines-children-executive-order"
   ],
   [
-    "series",
+    "government",
     17,
-    "https://www.theguardian.com/tv-and-radio/2026/may/29/has-tom-hardy-been-fired-from-mobland-paramount"
+    "https://www.theguardian.com/us-news/2026/may/29/trump-vaccines-children-executive-order"
+  ],
+  [
+    "primary",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/28/california-law-shield-elections-federal-interference"
+  ],
+  [
+    "film",
+    17,
+    "https://www.theguardian.com/tv-and-radio/2026/may/30/cape-fear-amy-adams-is-incredible-in-this-twisty-remake-of-the-classic-scorsese-thriller"
+  ],
+  [
+    "pope",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/may/29/pope-ai-encyclical"
   ],
   [
     "russia",
@@ -226,9 +276,19 @@
     "https://www.theguardian.com/commentisfree/2026/may/29/vladimir-putin-trial-crimes-russia-ukraine-plan--gordon-brown"
   ],
   [
+    "candidates",
+    17,
+    "https://www.latimes.com/california/story/2026-05-29/pleas-political-attacks-fill-home-stretch-of-california-governors-race"
+  ],
+  [
     "court",
     16,
     "https://www.nytimes.com/2026/05/29/us/politics/federal-judge-trump-fund.html"
+  ],
+  [
+    "green",
+    16,
+    "https://www.nytimes.com/2026/05/29/us/politics/green-cards-dhs.html"
   ],
   [
     "attorney",
@@ -236,9 +296,9 @@
     "https://www.nytimes.com/2026/05/29/us/chicago-prosecutor-andrew-boutros.html"
   ],
   [
-    "immigration",
+    "republican",
     16,
-    "https://www.nytimes.com/2026/05/30/world/asia/japan-immigration-curry-shops.html"
+    "https://www.nytimes.com/2026/05/29/opinion/ezra-klein-podcast-liam-donovan.html"
   ],
   [
     "finalists",
@@ -246,64 +306,19 @@
     "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-scripps-national-spelling-bee-is-down-four-finalists-quick-post-3/"
   ],
   [
-    "place",
+    "biden",
     16,
-    "https://www.theguardian.com/wellness/2026/may/29/elizabeth-smart-bodybuilding-journey"
+    "https://www.foxnews.com/politics/donna-brazile-brushes-off-bidens-stroke-fears-says-democrats-must-focus-future"
   ],
   [
-    "outside",
-    16,
-    "https://www.theguardian.com/wellness/2026/may/29/elizabeth-smart-bodybuilding-journey"
-  ],
-  [
-    "family",
-    16,
-    "https://www.theguardian.com/wellness/2026/may/29/elizabeth-smart-bodybuilding-journey"
-  ],
-  [
-    "film",
-    16,
-    "https://www.theguardian.com/film/2026/may/29/backrooms-horror-architecture-movie"
-  ],
-  [
-    "order",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/29/trump-vaccines-children-executive-order"
-  ],
-  [
-    "government",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/29/trump-vaccines-children-executive-order"
-  ],
-  [
-    "pope",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/may/29/pope-ai-encyclical"
-  ],
-  [
-    "county",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/may/29/rafa-review-nadal-spain-greatest-ever-tennis-player-netflix"
-  ],
-  [
-    "faces",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/may/26/what-readers-bought-may"
-  ],
-  [
-    "building",
+    "political",
     15,
-    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
+    "https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html"
   ],
   [
-    "act",
+    "foreign",
     15,
-    "https://www.nytimes.com/2026/05/29/theater/kelli-ohara-rose-byrne-fallen-angels-broadway.html"
-  ],
-  [
-    "republican",
-    15,
-    "https://www.nytimes.com/2026/05/29/opinion/ezra-klein-podcast-liam-donovan.html"
+    "https://www.nytimes.com/2026/05/30/world/asia/japan-immigration-curry-shops.html"
   ],
   [
     "case",
@@ -311,9 +326,9 @@
     "https://www.nytimes.com/2026/05/28/us/florida-deputy-tickets-woman-missing-hand.html"
   ],
   [
-    "final",
+    "israel",
     15,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-scripps-national-spelling-bee-is-down-final-two-quick-post-3/"
+    "https://www.washingtonpost.com/nation/2026/05/29/new-yorks-jewish-community-stung-by-attacks-mamdanis-anti-israel-posture/"
   ],
   [
     "strike",
@@ -321,14 +336,24 @@
     "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
   ],
   [
+    "trump's",
+    15,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "outside",
+    15,
+    "https://www.theguardian.com/wellness/2026/may/29/elizabeth-smart-bodybuilding-journey"
+  ],
+  [
     "filter",
     15,
     "https://www.theguardian.com/thefilter-us/2026/may/29/best-exercise-work-out-gear-sore-muscles"
   ],
   [
-    "late",
+    "buying",
     15,
-    "https://www.theguardian.com/tv-and-radio/2026/may/29/stephen-colbert-late-show-replacement-byron-allen"
+    "https://www.theguardian.com/thefilter-us/2026/may/29/best-exercise-work-out-gear-sore-muscles"
   ],
   [
     "police",
@@ -341,38 +366,13 @@
     "https://www.theguardian.com/commentisfree/2026/may/29/vladimir-putin-trial-crimes-russia-ukraine-plan--gordon-brown"
   ],
   [
-    "candidates",
+    "series",
     15,
-    "https://www.latimes.com/california/story/2026-05-29/pleas-political-attacks-fill-home-stretch-of-california-governors-race"
+    "https://www.theguardian.com/books/2026/may/29/prestige-drama-by-seamas-oreilly-review-brilliant-wry-comedy-of-derry-and-the-shadow-of-the-past"
   ],
   [
     "challengers",
     15,
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
-  ],
-  [
-    "democrats",
-    15,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
-  ],
-  [
-    "name",
-    14,
-    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
-  ],
-  [
-    "social",
-    14,
-    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
-  ],
-  [
-    "blue",
-    14,
-    "https://www.nytimes.com/2026/05/29/technology/blue-origin-amazon-rocket-explosion.html"
-  ],
-  [
-    "far",
-    14,
-    "https://www.nytimes.com/2026/05/29/style/spencer-pratt-los-angeles-mayor.html"
   ]
 ];
