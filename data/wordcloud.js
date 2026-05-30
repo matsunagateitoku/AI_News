@@ -2,13 +2,18 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    94,
-    "https://www.nytimes.com/2026/05/29/us/politics/federal-judge-trump-fund.html"
+    120,
+    "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
   ],
   [
     "race",
-    64,
-    "https://www.nytimes.com/2026/05/29/us/politics/louisiana-redistricting-map-majority-black-district.html"
+    72,
+    "https://www.nytimes.com/2026/05/29/style/spencer-pratt-los-angeles-mayor.html"
+  ],
+  [
+    "president",
+    60,
+    "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
   ],
   [
     "guide",
@@ -17,47 +22,27 @@
   ],
   [
     "district",
-    56,
+    53,
     "https://www.nytimes.com/2026/05/29/us/chicago-prosecutor-andrew-boutros.html"
   ],
   [
     "california",
-    48,
-    "https://www.theguardian.com/us-news/2026/may/28/california-los-gatos-party-mom-sentenced"
-  ],
-  [
-    "president",
     44,
-    "https://www.nytimes.com/video/us/politics/100000010916352/how-bad-are-president-trumps-approval-ratings.html"
+    "https://www.theguardian.com/sport/gallery/2026/may/29/the-98th-scripps-national-spelling-bee-in-pictures"
   ],
   [
     "judge",
-    35,
-    "https://www.nytimes.com/2026/05/29/us/politics/federal-judge-trump-fund.html"
+    38,
+    "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
   ],
   [
-    "bee",
-    33,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
-  ],
-  [
-    "spelling",
-    32,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
-  ],
-  [
-    "additional",
+    "post",
     31,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
+    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
   ],
   [
     "content",
     31,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
-  ],
-  [
-    "scripps",
-    30,
     "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
   ],
   [
@@ -66,44 +51,44 @@
     "https://www.theguardian.com/thefilter-us/2026/may/27/fathers-day-deals-sales"
   ],
   [
-    "center",
-    27,
-    "https://www.nytimes.com/2026/05/29/business/strait-hormuz-shipping-insurance-iran.html"
+    "bee",
+    29,
+    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
+  ],
+  [
+    "additional",
+    29,
+    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
+  ],
+  [
+    "spelling",
+    28,
+    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
+  ],
+  [
+    "iran",
+    26,
+    "https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html"
   ],
   [
     "updates",
-    27,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
-  ],
-  [
-    "post",
-    27,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
-  ],
-  [
-    "election",
-    27,
-    "https://www.theguardian.com/us-news/2026/may/28/california-law-shield-elections-federal-interference"
-  ],
-  [
-    "texas",
     26,
-    "https://www.nytimes.com/2026/05/29/us/ice-agent-arrested-minnesota-shooting-immigrant.html"
+    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
+  ],
+  [
+    "scripps",
+    26,
+    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
+  ],
+  [
+    "center",
+    25,
+    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
   ],
   [
     "country",
     25,
-    "https://www.nytimes.com/2026/05/29/us/gretchen-whitmer-donald-trump-2028.html"
-  ],
-  [
-    "board",
-    25,
-    "https://www.theguardian.com/commentisfree/2026/may/29/the-guardian-view-on-israel-and-gaza-the-threat-of-further-humanitarian-catastrophe"
-  ],
-  [
-    "congressional",
-    24,
-    "https://www.nytimes.com/2026/05/29/us/politics/louisiana-redistricting-map-majority-black-district.html"
+    "https://www.nytimes.com/2026/05/29/us/politics/green-cards-dhs.html"
   ],
   [
     "quick",
@@ -111,159 +96,149 @@
     "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
   ],
   [
-    "kennedy",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/may/29/trump-mental-physical-health"
-  ],
-  [
     "game",
     23,
-    "https://www.theguardian.com/sport/2026/may/28/dodgers-kendall-george-injury-bat-dog"
+    "https://www.theguardian.com/games/2026/may/29/run-first-marathon-50s-zombies-run-game"
   ],
   [
-    "york",
+    "war",
     22,
-    "https://www.nytimes.com/2026/05/29/us/politics/trump-university-research-funding.html"
+    "https://www.nytimes.com/2026/05/29/world/australia/iran-war-fuel-price-new-zealand-village.html"
   ],
   [
-    "republican",
+    "election",
+    22,
+    "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment"
+  ],
+  [
+    "department",
     21,
-    "https://www.nytimes.com/2026/05/29/opinion/ezra-klein-podcast-liam-donovan.html"
+    "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
+  ],
+  [
+    "fund",
+    21,
+    "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
+  ],
+  [
+    "latest",
+    21,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "incumbent",
+    21,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
+  ],
+  [
+    "military",
+    20,
+    "https://www.nytimes.com/2026/05/29/world/middleeast/israel-lebanon-litani-troops-talks.html"
   ],
   [
     "don",
-    21,
+    20,
+    "https://www.nytimes.com/2026/05/29/us/politics/carroll-hoffman-legal-explainer.html"
+  ],
+  [
+    "health",
+    20,
     "https://www.theguardian.com/commentisfree/2026/may/29/trump-mental-physical-health"
   ],
   [
+    "texas",
+    20,
+    "https://www.theguardian.com/us-news/2026/may/29/texas-trial-catholic-priest-sexual-assault"
+  ],
+  [
+    "board",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/may/29/the-guardian-view-on-israel-and-gaza-the-threat-of-further-humanitarian-catastrophe"
+  ],
+  [
+    "york",
+    19,
+    "https://www.nytimes.com/2026/05/29/nyregion/mamdani-edc-economy-nyc.html"
+  ],
+  [
     "general",
-    21,
-    "https://www.theguardian.com/us-news/2026/may/29/pam-bondi-epstein-files-house-committee"
+    19,
+    "https://www.theguardian.com/us-news/2026/may/29/new-jersey-delaney-hall-police-ice"
   ],
   [
     "administration",
-    20,
+    18,
+    "https://www.nytimes.com/2026/05/29/us/politics/federal-judge-trump-fund.html"
+  ],
+  [
+    "kennedy",
+    18,
+    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
+  ],
+  [
+    "congressional",
+    18,
+    "https://www.nytimes.com/2026/05/29/us/trump-pamela-evette-south-carolina-governor.html"
+  ],
+  [
+    "democratic",
+    18,
+    "https://www.nytimes.com/2026/05/29/opinion/ezra-klein-podcast-liam-donovan.html"
+  ],
+  [
+    "body",
+    18,
+    "https://www.theguardian.com/wellness/2026/may/29/elizabeth-smart-bodybuilding-journey"
+  ],
+  [
+    "summer",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/may/29/best-exercise-work-out-gear-sore-muscles"
+  ],
+  [
+    "green",
+    17,
+    "https://www.nytimes.com/2026/05/29/us/politics/green-cards-dhs.html"
+  ],
+  [
+    "ice",
+    17,
+    "https://www.nytimes.com/2026/05/29/nyregion/ice-protests-delaney-hall-nj.html"
+  ],
+  [
+    "donald",
+    17,
+    "https://www.nytimes.com/2026/05/29/us/politics/carroll-hoffman-legal-explainer.html"
+  ],
+  [
+    "children",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/29/trump-vaccines-children-executive-order"
+  ],
+  [
+    "series",
+    17,
+    "https://www.theguardian.com/tv-and-radio/2026/may/29/has-tom-hardy-been-fired-from-mobland-paramount"
+  ],
+  [
+    "russia",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/may/29/vladimir-putin-trial-crimes-russia-ukraine-plan--gordon-brown"
+  ],
+  [
+    "court",
+    16,
     "https://www.nytimes.com/2026/05/29/us/politics/federal-judge-trump-fund.html"
   ],
   [
     "attorney",
-    20,
-    "https://www.nytimes.com/2026/05/29/us/chicago-prosecutor-andrew-boutros.html"
-  ],
-  [
-    "map",
-    20,
-    "https://www.nytimes.com/2026/05/29/us/politics/louisiana-redistricting-map-majority-black-district.html"
-  ],
-  [
-    "faces",
-    20,
-    "https://www.nytimes.com/2026/05/29/business/dealbook/anthropic-ai-openai.html"
-  ],
-  [
-    "film",
-    20,
-    "https://www.theguardian.com/film/2026/may/29/backrooms-horror-architecture-movie"
-  ],
-  [
-    "incumbent",
-    20,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
-  ],
-  [
-    "ice",
-    19,
-    "https://www.nytimes.com/2026/05/29/us/ice-agent-arrested-minnesota-shooting-immigrant.html"
-  ],
-  [
-    "series",
-    19,
-    "https://www.nytimes.com/2026/05/29/movies/kane-parsons-24-youngest-director-backrooms.html"
-  ],
-  [
-    "summer",
-    19,
-    "https://www.theguardian.com/thefilter-us/2026/may/29/best-exercise-work-out-gear-sore-muscles"
-  ],
-  [
-    "county",
-    19,
-    "https://www.theguardian.com/tv-and-radio/2026/may/29/rafa-review-nadal-spain-greatest-ever-tennis-player-netflix"
-  ],
-  [
-    "black",
-    18,
-    "https://www.nytimes.com/2026/05/29/us/politics/louisiana-redistricting-map-majority-black-district.html"
-  ],
-  [
-    "name",
-    18,
-    "https://www.nytimes.com/2026/05/29/world/europe/georgia-name-confusion.html"
-  ],
-  [
-    "family",
-    18,
-    "https://www.theguardian.com/wellness/2026/may/29/elizabeth-smart-bodybuilding-journey"
-  ],
-  [
-    "bondi",
-    18,
-    "https://www.theguardian.com/us-news/2026/may/29/pam-bondi-epstein-files-house-committee"
-  ],
-  [
-    "epstein",
-    18,
-    "https://www.theguardian.com/us-news/2026/may/29/pam-bondi-epstein-files-house-committee"
-  ],
-  [
-    "court",
-    17,
-    "https://www.nytimes.com/2026/05/29/us/politics/federal-judge-trump-fund.html"
-  ],
-  [
-    "war",
-    17,
-    "https://www.nytimes.com/2026/05/29/business/strait-hormuz-shipping-insurance-iran.html"
-  ],
-  [
-    "democrats",
-    17,
-    "https://www.nytimes.com/2026/05/29/us/gretchen-whitmer-donald-trump-2028.html"
-  ],
-  [
-    "law",
-    17,
-    "https://www.nytimes.com/2026/05/29/us/new-hampshire-citizenship-law-voters.html"
-  ],
-  [
-    "latest",
-    17,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "place",
-    17,
-    "https://www.theguardian.com/wellness/2026/may/29/elizabeth-smart-bodybuilding-journey"
-  ],
-  [
-    "shooting",
     16,
-    "https://www.nytimes.com/2026/05/29/us/ice-agent-arrested-minnesota-shooting-immigrant.html"
+    "https://www.nytimes.com/2026/05/29/us/chicago-prosecutor-andrew-boutros.html"
   ],
   [
     "immigration",
     16,
-    "https://www.nytimes.com/2026/05/29/us/ice-agent-arrested-minnesota-shooting-immigrant.html"
-  ],
-  [
-    "los",
-    16,
-    "https://www.nytimes.com/2026/05/29/style/spencer-pratt-los-angeles-mayor.html"
-  ],
-  [
-    "cup",
-    16,
-    "https://www.nytimes.com/2026/05/29/travel/uber-soccer-world-cup-shuttles.html"
+    "https://www.nytimes.com/2026/05/30/world/asia/japan-immigration-curry-shops.html"
   ],
   [
     "finalists",
@@ -271,24 +246,34 @@
     "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-scripps-national-spelling-bee-is-down-four-finalists-quick-post-3/"
   ],
   [
-    "body",
+    "place",
     16,
     "https://www.theguardian.com/wellness/2026/may/29/elizabeth-smart-bodybuilding-journey"
   ],
   [
-    "cbs",
+    "outside",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/may/29/stephen-colbert-late-show-replacement-byron-allen"
+    "https://www.theguardian.com/wellness/2026/may/29/elizabeth-smart-bodybuilding-journey"
   ],
   [
-    "iran",
+    "family",
     16,
-    "https://www.theguardian.com/world/2026/may/29/trump-on-verge-of-approving-peace-deal-with-major-iranian-concessions"
+    "https://www.theguardian.com/wellness/2026/may/29/elizabeth-smart-bodybuilding-journey"
   ],
   [
-    "green",
+    "film",
     16,
-    "https://www.theguardian.com/us-news/2026/may/29/trump-green-card-rules"
+    "https://www.theguardian.com/film/2026/may/29/backrooms-horror-architecture-movie"
+  ],
+  [
+    "order",
+    16,
+    "https://www.theguardian.com/us-news/2026/may/29/trump-vaccines-children-executive-order"
+  ],
+  [
+    "government",
+    16,
+    "https://www.theguardian.com/us-news/2026/may/29/trump-vaccines-children-executive-order"
   ],
   [
     "pope",
@@ -296,24 +281,19 @@
     "https://www.theguardian.com/commentisfree/2026/may/29/pope-ai-encyclical"
   ],
   [
-    "council",
+    "county",
     16,
-    "https://www.theguardian.com/commentisfree/2026/may/29/vladimir-putin-trial-crimes-russia-ukraine-plan--gordon-brown"
+    "https://www.theguardian.com/tv-and-radio/2026/may/29/rafa-review-nadal-spain-greatest-ever-tennis-player-netflix"
   ],
   [
-    "rep",
+    "faces",
     16,
-    "https://www.foxnews.com/politics/house-republican-bacon-says-wants-pariah-state-russia-booted-un-security-council"
+    "https://www.theguardian.com/thefilter-us/2026/may/26/what-readers-bought-may"
   ],
   [
-    "blue",
+    "building",
     15,
-    "https://www.nytimes.com/2026/05/29/technology/blue-origin-amazon-rocket-explosion.html"
-  ],
-  [
-    "buying",
-    15,
-    "https://www.nytimes.com/2026/05/29/business/spacex-ipo-wall-street.html"
+    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
   ],
   [
     "act",
@@ -321,29 +301,24 @@
     "https://www.nytimes.com/2026/05/29/theater/kelli-ohara-rose-byrne-fallen-angels-broadway.html"
   ],
   [
-    "democratic",
+    "republican",
     15,
     "https://www.nytimes.com/2026/05/29/opinion/ezra-klein-podcast-liam-donovan.html"
   ],
   [
-    "israel",
+    "case",
     15,
-    "https://www.washingtonpost.com/nation/2026/05/29/new-yorks-jewish-community-stung-by-attacks-mamdanis-anti-israel-posture/"
+    "https://www.nytimes.com/2026/05/28/us/florida-deputy-tickets-woman-missing-hand.html"
   ],
   [
-    "trump's",
+    "final",
     15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-scripps-national-spelling-bee-is-down-final-two-quick-post-3/"
   ],
   [
-    "john",
+    "strike",
     15,
-    "https://www.theguardian.com/commentisfree/2026/may/29/trump-mental-physical-health"
-  ],
-  [
-    "republicans",
-    15,
-    "https://www.theguardian.com/environment/2026/may/29/farm-bill-solar-projects-farming"
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
   ],
   [
     "filter",
@@ -356,23 +331,48 @@
     "https://www.theguardian.com/tv-and-radio/2026/may/29/stephen-colbert-late-show-replacement-byron-allen"
   ],
   [
-    "building",
+    "police",
     15,
-    "https://www.theguardian.com/film/2026/may/29/backrooms-horror-architecture-movie"
+    "https://www.theguardian.com/us-news/2026/may/29/new-jersey-delaney-hall-police-ice"
   ],
   [
-    "pam",
+    "council",
     15,
-    "https://www.theguardian.com/us-news/2026/may/29/pam-bondi-epstein-files-house-committee"
+    "https://www.theguardian.com/commentisfree/2026/may/29/vladimir-putin-trial-crimes-russia-ukraine-plan--gordon-brown"
   ],
   [
-    "release",
+    "candidates",
     15,
-    "https://www.theguardian.com/us-news/2026/may/29/pam-bondi-epstein-files-house-committee"
+    "https://www.latimes.com/california/story/2026-05-29/pleas-political-attacks-fill-home-stretch-of-california-governors-race"
   ],
   [
-    "seat",
+    "challengers",
     15,
-    "https://www.theguardian.com/food/2026/may/29/yotam-ottolenghi-simple-summer-entertaining"
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
+  ],
+  [
+    "democrats",
+    15,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
+  ],
+  [
+    "name",
+    14,
+    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
+  ],
+  [
+    "social",
+    14,
+    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
+  ],
+  [
+    "blue",
+    14,
+    "https://www.nytimes.com/2026/05/29/technology/blue-origin-amazon-rocket-explosion.html"
+  ],
+  [
+    "far",
+    14,
+    "https://www.nytimes.com/2026/05/29/style/spencer-pratt-los-angeles-mayor.html"
   ]
 ];
