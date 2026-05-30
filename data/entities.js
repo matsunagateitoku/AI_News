@@ -3,33 +3,27 @@
   "EVENT": [
     {
       "name": "The World Cup",
-      "count": 6,
-      "url": "https://www.theguardian.com/football/2026/may/29/usmnt-world-cup-captain-tim-ream",
+      "count": 11,
+      "url": "https://www.theguardian.com/football/live/2026/may/30/champions-league-final-buildup-world-cup-news-transfers-and-more-matchday-live",
       "source": "The Guardian"
     },
     {
-      "name": "The French Open",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/may/29/french-open-court-layouts-are-causing-injuries-to-players-says-iga-swiatek",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Stanley Cup",
+      "name": "Olympics",
       "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/may/30/hurricanes-canadiens-stanley-cup-final-brindamour",
+      "url": "https://www.theguardian.com/us-news/2026/may/30/los-angeles-world-cup-olympics-inglewood",
       "source": "The Guardian"
     },
     {
-      "name": "Game 6    Wembanyama",
+      "name": "World War Ii",
       "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/may/29/victor-wembanyama-spurs-thunder-game-6-western-conference-finals",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-05-29/did-outcome-of-world-war-ii-depend-on-weather-separating-fact-from-fiction-in-pressure",
+      "source": "LA Times"
     },
     {
-      "name": "Game 7",
+      "name": "The Stanley Cup Finals",
       "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/may/29/victor-wembanyama-spurs-thunder-game-6-western-conference-finals",
-      "source": "The Guardian"
+      "url": "https://www.foxnews.com/outkick-sports/despite-potential-ratings-nightmare-nhl-vegas-carolina-stanley-cup-final-still-plenty-intrigue",
+      "source": "Fox News"
     },
     {
       "name": "Israel Day Parade",
@@ -38,9 +32,21 @@
       "source": "Washington Post"
     },
     {
-      "name": "Iran War",
+      "name": "The Super Bowl",
       "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/29/cuba-us-blockade-europe-spain",
+      "url": "https://www.theguardian.com/us-news/2026/may/30/los-angeles-world-cup-olympics-inglewood",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympic",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/30/donald-trump-college-sports-women-olympic-athletes",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup’S",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/may/30/usa-north-america-1994-world-cup-memories",
       "source": "The Guardian"
     },
     {
@@ -54,142 +60,12 @@
       "count": 1,
       "url": "https://www.theguardian.com/books/2026/may/29/the-best-recent-translated-fiction-review-roundup",
       "source": "The Guardian"
-    },
-    {
-      "name": "Olympics",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
-      "source": "LA Times"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 58,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/may/30/iran-broken-economy-emboldened-regime-iranians-abandoned-fallout-of-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 45,
-      "url": "https://www.theguardian.com/us-news/2026/may/28/california-los-gatos-party-mom-sentenced",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/05/29/us/politics/green-cards-dhs.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/may/29/texas-trial-catholic-priest-sexual-assault",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Russia",
-      "count": 18,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/29/vladimir-putin-trial-crimes-russia-ukraine-plan--gordon-brown",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Washington Dc",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/may/29/trump-removal-name-kennedy-center",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cuba",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/video/2026/may/29/trump-cuba-invasion-stateside",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 14,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Israel",
-      "count": 12,
-      "url": "https://www.washingtonpost.com/nation/2026/05/29/new-yorks-jewish-community-stung-by-attacks-mamdanis-anti-israel-posture/",
-      "source": "Washington Post"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Reopens Trump",
-      "count": 35,
-      "url": "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Donald Trump Jr.",
-      "count": 15,
-      "url": "https://www.foxnews.com/travel/peek-inside-private-38-acre-bahamas-paradise-where-donald-trump-jr-got-married",
-      "source": "Fox News"
-    },
-    {
-      "name": "Vladimir Putin",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/29/vladimir-putin-trial-crimes-russia-ukraine-plan--gordon-brown",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jill Biden",
-      "count": 7,
-      "url": "https://www.foxnews.com/media/nyt-writers-ridiculed-saying-disastrous-biden-debate-ended-draw-jill-biden-feared-he-had-stroke",
-      "source": "Fox News"
-    },
-    {
-      "name": "Biden White House",
-      "count": 7,
-      "url": "https://www.nbcnews.com/politics/2026-election/three-major-candidates-governor-are-talking-biden-administration-exper-rcna346892",
-      "source": "NBC News"
-    },
-    {
-      "name": "James Comey",
-      "count": 6,
-      "url": "https://www.cbsnews.com/news/prosecutor-leaves-doj-case-james-comey-threatening-trump-seashells-matthew-petracca/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Zohran Mamdani",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/05/29/nyregion/mamdani-edc-economy-nyc.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Benjamin Netanyahu",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/05/29/world/middleeast/israel-lebanon-litani-troops-talks.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Marco Rubio",
-      "count": 5,
-      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Mark Rutte",
-      "count": 5,
-      "url": "https://www.theguardian.com/world/2026/may/29/russian-drone-romanian-apartments-wounding-two-people-and-starting-fire",
-      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Trump White House",
-      "count": 72,
+      "count": 65,
       "url": "https://www.latimes.com/entertainment-arts/story/2026-05-29/springsteen-trump-two-very-different-music-events",
       "source": "LA Times"
     },
@@ -200,14 +76,26 @@
       "source": "Washington Post"
     },
     {
+      "name": "Guardian Australia",
+      "count": 12,
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/23/running-ultramarathon-what-does-it-take-run-100-miles-ultra-trail-australia",
+      "source": "The Guardian"
+    },
+    {
       "name": "D.C. — Quick Post",
       "count": 11,
       "url": "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-scripps-national-spelling-bee-finalists-face-off-dc-quick-post-12/",
       "source": "Washington Post"
     },
     {
-      "name": "The Filter Us",
+      "name": "Ai",
       "count": 11,
+      "url": "https://www.theguardian.com/world/2026/may/30/pope-leo-ai-reaction",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 10,
       "url": "https://www.theguardian.com/thefilter-us/2025/oct/04/travel-essentials-packing-list-us",
       "source": "The Guardian"
     },
@@ -218,35 +106,147 @@
       "source": "LA Times"
     },
     {
-      "name": "Congress",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/05/29/opinion/ezra-klein-podcast-liam-donovan.html",
-      "source": "NY Times"
-    },
-    {
       "name": "D.C. - Quick Post",
       "count": 9,
       "url": "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-scripps-national-spelling-bee-finalists-face-off-dc-quick-post-11/",
       "source": "Washington Post"
     },
     {
-      "name": "Nato",
+      "name": "Congress",
       "count": 9,
-      "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "url": "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The L.A. City Council",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
+      "source": "LA Times"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 53,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/may/30/iran-broken-economy-emboldened-regime-iranians-abandoned-fallout-of-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 42,
+      "url": "https://www.nytimes.com/2026/05/30/us/tom-steyer-housing-wealthy.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 34,
+      "url": "https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 17,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Gop",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/may/29/louisiana-republicans-electoral-map-voting-rights-act",
+      "name": "L.A. County'S",
+      "count": 17,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Texas",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/may/30/democrats-senate-battleground-states-republicans",
       "source": "The Guardian"
     },
     {
-      "name": "Ai",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/29/pope-ai-encyclical",
+      "name": "Los Angeles County",
+      "count": 12,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-sheriff-luna-villanueva-challengers-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Israel",
+      "count": 11,
+      "url": "https://www.washingtonpost.com/nation/2026/05/29/new-yorks-jewish-community-stung-by-attacks-mamdanis-anti-israel-posture/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Laos",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/2026/may/30/four-more-men-freed-from-flooded-laos-cave-in-hazardous-rescue-mission",
+      "source": "The Guardian"
+    },
+    {
+      "name": "London",
+      "count": 10,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/30/hugh-skinner-actor-twenty-twenty-six-interview",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-05-30T09:22:40Z"
+  "PERSON": [
+    {
+      "name": "Reopens Trump",
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 19,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/may/30/iran-broken-economy-emboldened-regime-iranians-abandoned-fallout-of-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Spencer Pratt",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/30/spencer-pratt-mayor-policy-experience",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Peter Frampton",
+      "count": 6,
+      "url": "https://www.cbsnews.com/video/saturday-sessions-peter-frampton-performs-lyin/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/05/29/nyregion/mamdani-edc-economy-nyc.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Pope Leo",
+      "count": 5,
+      "url": "https://www.theguardian.com/world/2026/may/30/pope-leo-ai-reaction",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Rafa Nadal",
+      "count": 5,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/29/rafa-review-nadal-spain-greatest-ever-tennis-player-netflix",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jill Biden",
+      "count": 5,
+      "url": "https://www.foxnews.com/health/what-do-someone-having-stroke-after-jill-biden-revealed-debate-night-fears",
+      "source": "Fox News"
+    },
+    {
+      "name": "Ken Paxton",
+      "count": 4,
+      "url": "https://www.theguardian.com/us-news/2026/may/30/democrats-senate-battleground-states-republicans",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pete Hegseth",
+      "count": 4,
+      "url": "https://www.theguardian.com/world/2026/may/30/us-more-than-capable-of-resuming-war-against-iran-pete-hegseth-says",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-05-30T14:42:57Z"
 };

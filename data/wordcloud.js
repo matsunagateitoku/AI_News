@@ -2,47 +2,52 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    119,
+    116,
     "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
   ],
   [
     "race",
-    74,
-    "https://www.nytimes.com/2026/05/29/style/spencer-pratt-los-angeles-mayor.html"
+    68,
+    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
   ],
   [
     "president",
-    60,
+    61,
     "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
   ],
   [
     "guide",
-    60,
-    "https://www.theguardian.com/thefilter-us/2026/may/29/best-exercise-work-out-gear-sore-muscles"
+    59,
+    "https://www.theguardian.com/thefilter-us/2026/may/28/how-to-clean-cutting-board"
   ],
   [
     "district",
-    52,
-    "https://www.nytimes.com/2026/05/29/us/chicago-prosecutor-andrew-boutros.html"
+    49,
+    "https://www.theguardian.com/us-news/2026/may/29/trump-removal-name-kennedy-center"
   ],
   [
     "california",
-    48,
-    "https://www.theguardian.com/us-news/2026/may/28/california-los-gatos-party-mom-sentenced"
+    47,
+    "https://www.nytimes.com/2026/05/30/us/tom-steyer-housing-wealthy.html"
   ],
   [
-    "judge",
-    32,
-    "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
+    "iran",
+    36,
+    "https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html"
   ],
   [
-    "post",
+    "war",
     32,
-    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
+    "https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html"
   ],
   [
     "content",
     32,
+    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
+  ],
+  [
+    "additional",
+    30,
     "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
   ],
   [
@@ -51,12 +56,12 @@
     "https://www.theguardian.com/thefilter-us/2026/may/27/fathers-day-deals-sales"
   ],
   [
-    "bee",
+    "post",
     29,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
+    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
   ],
   [
-    "additional",
+    "bee",
     29,
     "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
   ],
@@ -66,239 +71,144 @@
     "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
   ],
   [
-    "texas",
-    27,
-    "https://www.theguardian.com/us-news/2026/may/29/texas-trial-catholic-priest-sexual-assault"
-  ],
-  [
-    "updates",
-    26,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
-  ],
-  [
     "scripps",
     26,
     "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
   ],
   [
-    "election",
-    26,
-    "https://www.theguardian.com/world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence"
-  ],
-  [
-    "country",
+    "updates",
     25,
-    "https://www.nytimes.com/2026/05/29/us/politics/green-cards-dhs.html"
-  ],
-  [
-    "iran",
-    25,
-    "https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html"
-  ],
-  [
-    "quick",
-    24,
     "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
   ],
   [
-    "war",
-    24,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "center",
-    23,
-    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
-  ],
-  [
-    "administration",
-    22,
-    "https://www.nytimes.com/2026/05/29/us/politics/federal-judge-trump-fund.html"
-  ],
-  [
-    "ice",
-    22,
-    "https://www.nytimes.com/2026/05/29/nyregion/ice-protests-delaney-hall-nj.html"
+    "quick",
+    25,
+    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
   ],
   [
     "incumbent",
-    22,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
+    24,
+    "https://www.theguardian.com/us-news/2026/may/30/democrats-senate-battleground-states-republicans"
   ],
   [
-    "fund",
-    21,
+    "judge",
+    23,
     "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
   ],
   [
-    "york",
-    21,
-    "https://www.nytimes.com/2026/05/29/nyregion/mamdani-edc-economy-nyc.html"
+    "health",
+    23,
+    "https://www.nytimes.com/2026/05/30/us/politics/trump-health-medical-physical-exam.html"
   ],
   [
-    "military",
-    21,
-    "https://www.nytimes.com/2026/05/29/world/middleeast/israel-lebanon-litani-troops-talks.html"
+    "final",
+    22,
+    "https://www.nytimes.com/2026/05/30/world/middleeast/trump-deal-middle-east-iran.html"
+  ],
+  [
+    "county",
+    22,
+    "https://www.theguardian.com/business/2026/may/30/chicago-minneapolis-united-airlines-flight-diverted-attempted-cockpit-breach"
+  ],
+  [
+    "board",
+    22,
+    "https://www.theguardian.com/commentisfree/2026/may/29/the-guardian-view-on-israel-and-gaza-the-threat-of-further-humanitarian-catastrophe"
   ],
   [
     "don",
     21,
-    "https://www.nytimes.com/2026/05/29/us/politics/carroll-hoffman-legal-explainer.html"
+    "https://www.nytimes.com/2026/05/30/magazine/laurie-santos-interview.html"
   ],
   [
-    "latest",
+    "texas",
+    21,
+    "https://www.theguardian.com/us-news/2026/may/30/democrats-senate-battleground-states-republicans"
+  ],
+  [
+    "center",
     20,
-    "https://www.nytimes.com/2026/05/30/us/politics/trump-health-medical-physical-exam.html"
-  ],
-  [
-    "health",
-    20,
-    "https://www.nytimes.com/2026/05/30/us/politics/trump-health-medical-physical-exam.html"
-  ],
-  [
-    "democratic",
-    20,
-    "https://www.nytimes.com/2026/05/29/opinion/ezra-klein-podcast-liam-donovan.html"
-  ],
-  [
-    "children",
-    20,
-    "https://www.theguardian.com/us-news/2026/may/29/trump-vaccines-children-executive-order"
-  ],
-  [
-    "game",
-    20,
-    "https://www.theguardian.com/sport/2026/may/28/dodgers-kendall-george-injury-bat-dog"
-  ],
-  [
-    "board",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/may/29/the-guardian-view-on-israel-and-gaza-the-threat-of-further-humanitarian-catastrophe"
-  ],
-  [
-    "general",
-    19,
-    "https://www.theguardian.com/us-news/2026/may/29/new-jersey-delaney-hall-police-ice"
-  ],
-  [
-    "faces",
-    19,
-    "https://www.theguardian.com/sport/2026/may/28/dodgers-kendall-george-injury-bat-dog"
-  ],
-  [
-    "department",
-    18,
-    "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
+    "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html"
   ],
   [
     "donald",
-    18,
-    "https://www.nytimes.com/2026/05/29/us/politics/carroll-hoffman-legal-explainer.html"
+    20,
+    "https://www.theguardian.com/news/ng-interactive/2026/may/30/iran-broken-economy-emboldened-regime-iranians-abandoned-fallout-of-war"
   ],
   [
-    "congressional",
-    18,
-    "https://www.nytimes.com/2026/05/29/us/trump-pamela-evette-south-carolina-governor.html"
+    "election",
+    20,
+    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
   ],
   [
-    "final",
-    18,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-scripps-national-spelling-bee-is-down-final-two-quick-post-3/"
+    "cup",
+    20,
+    "https://www.theguardian.com/us-news/2026/may/30/los-angeles-world-cup-olympics-inglewood"
   ],
   [
-    "county",
+    "faces",
+    20,
+    "https://www.theguardian.com/tv-and-radio/2026/may/30/euphoria-season-three-gen-z"
+  ],
+  [
+    "york",
     18,
-    "https://www.theguardian.com/tv-and-radio/2026/may/29/rafa-review-nadal-spain-greatest-ever-tennis-player-netflix"
+    "https://www.nytimes.com/2026/05/29/nyregion/mamdani-edc-economy-nyc.html"
+  ],
+  [
+    "country",
+    18,
+    "https://www.nytimes.com/2026/05/30/us/in-a-quiet-corner-of-america-greyhound-racing-hangs-on-for-now.html"
+  ],
+  [
+    "military",
+    18,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "ice",
+    18,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "american",
+    18,
+    "https://www.theguardian.com/sport/live/2026/may/30/french-open-tennis-osaka-sabalenka-gauff-roland-garros-day-seven-live"
   ],
   [
     "democrats",
     18,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
-  ],
-  [
-    "immigration",
-    17,
-    "https://www.nytimes.com/2026/05/30/world/asia/japan-immigration-curry-shops.html"
+    "https://www.theguardian.com/us-news/2026/may/30/democrats-senate-battleground-states-republicans"
   ],
   [
     "governor",
     17,
-    "https://www.nytimes.com/2026/05/29/us/trump-pamela-evette-south-carolina-governor.html"
+    "https://www.nytimes.com/2026/05/30/us/tom-steyer-housing-wealthy.html"
   ],
   [
-    "party",
+    "food",
     17,
-    "https://www.nytimes.com/2026/05/29/opinion/ezra-klein-podcast-liam-donovan.html"
+    "https://www.nytimes.com/2026/05/30/world/middleeast/eid-al-adha-iran-gaza-lebanon.html"
   ],
   [
-    "body",
+    "republican",
     17,
-    "https://www.theguardian.com/wellness/2026/may/29/elizabeth-smart-bodybuilding-journey"
-  ],
-  [
-    "family",
-    17,
-    "https://www.theguardian.com/wellness/2026/may/29/elizabeth-smart-bodybuilding-journey"
-  ],
-  [
-    "summer",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/may/29/best-exercise-work-out-gear-sore-muscles"
-  ],
-  [
-    "order",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/29/trump-vaccines-children-executive-order"
-  ],
-  [
-    "government",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/29/trump-vaccines-children-executive-order"
+    "https://www.theguardian.com/us-news/2026/may/30/democrats-senate-battleground-states-republicans"
   ],
   [
     "primary",
     17,
-    "https://www.theguardian.com/us-news/2026/may/28/california-law-shield-elections-federal-interference"
+    "https://www.theguardian.com/us-news/2026/may/30/democrats-senate-battleground-states-republicans"
   ],
   [
-    "film",
+    "family",
     17,
-    "https://www.theguardian.com/tv-and-radio/2026/may/30/cape-fear-amy-adams-is-incredible-in-this-twisty-remake-of-the-classic-scorsese-thriller"
+    "https://www.theguardian.com/society/2026/may/30/pmdd-premenstrual-dysphoric-disorder-diagnosis-women-families-explosive-rage"
   ],
   [
-    "pope",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/may/29/pope-ai-encyclical"
-  ],
-  [
-    "russia",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/may/29/vladimir-putin-trial-crimes-russia-ukraine-plan--gordon-brown"
-  ],
-  [
-    "candidates",
-    17,
-    "https://www.latimes.com/california/story/2026-05-29/pleas-political-attacks-fill-home-stretch-of-california-governors-race"
-  ],
-  [
-    "court",
+    "political",
     16,
-    "https://www.nytimes.com/2026/05/29/us/politics/federal-judge-trump-fund.html"
-  ],
-  [
-    "green",
-    16,
-    "https://www.nytimes.com/2026/05/29/us/politics/green-cards-dhs.html"
-  ],
-  [
-    "attorney",
-    16,
-    "https://www.nytimes.com/2026/05/29/us/chicago-prosecutor-andrew-boutros.html"
-  ],
-  [
-    "republican",
-    16,
-    "https://www.nytimes.com/2026/05/29/opinion/ezra-klein-podcast-liam-donovan.html"
+    "https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html"
   ],
   [
     "finalists",
@@ -306,73 +216,163 @@
     "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-scripps-national-spelling-bee-is-down-four-finalists-quick-post-3/"
   ],
   [
-    "biden",
+    "everything",
     16,
-    "https://www.foxnews.com/politics/donna-brazile-brushes-off-bidens-stroke-fears-says-democrats-must-focus-future"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "political",
-    15,
-    "https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html"
+    "pressure",
+    16,
+    "https://www.theguardian.com/sport/live/2026/may/30/french-open-tennis-osaka-sabalenka-gauff-roland-garros-day-seven-live"
   ],
   [
-    "foreign",
-    15,
-    "https://www.nytimes.com/2026/05/30/world/asia/japan-immigration-curry-shops.html"
-  ],
-  [
-    "case",
-    15,
-    "https://www.nytimes.com/2026/05/28/us/florida-deputy-tickets-woman-missing-hand.html"
-  ],
-  [
-    "israel",
-    15,
-    "https://www.washingtonpost.com/nation/2026/05/29/new-yorks-jewish-community-stung-by-attacks-mamdanis-anti-israel-posture/"
-  ],
-  [
-    "strike",
-    15,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
-  ],
-  [
-    "trump's",
-    15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "outside",
-    15,
-    "https://www.theguardian.com/wellness/2026/may/29/elizabeth-smart-bodybuilding-journey"
-  ],
-  [
-    "filter",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/may/29/best-exercise-work-out-gear-sore-muscles"
-  ],
-  [
-    "buying",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/may/29/best-exercise-work-out-gear-sore-muscles"
-  ],
-  [
-    "police",
-    15,
-    "https://www.theguardian.com/us-news/2026/may/29/new-jersey-delaney-hall-police-ice"
-  ],
-  [
-    "council",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/may/29/vladimir-putin-trial-crimes-russia-ukraine-plan--gordon-brown"
+    "candidates",
+    16,
+    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
   ],
   [
     "series",
-    15,
-    "https://www.theguardian.com/books/2026/may/29/prestige-drama-by-seamas-oreilly-review-brilliant-wry-comedy-of-derry-and-the-shadow-of-the-past"
+    16,
+    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
   ],
   [
     "challengers",
+    16,
+    "https://www.latimes.com/california/story/2026-05-30/la-city-attorneys-role-could-be-weakened-under-charter-reform-proposal"
+  ],
+  [
+    "latest",
     15,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
+    "https://www.nytimes.com/2026/05/30/us/politics/trump-health-medical-physical-exam.html"
+  ],
+  [
+    "party",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/30/democrats-senate-battleground-states-republicans"
+  ],
+  [
+    "congressional",
+    15,
+    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
+  ],
+  [
+    "cave",
+    15,
+    "https://www.theguardian.com/world/2026/may/30/four-more-men-freed-from-flooded-laos-cave-in-hazardous-rescue-mission"
+  ],
+  [
+    "children",
+    15,
+    "https://www.theguardian.com/world/2026/may/30/drugs-shortages-economic-impact-diamond-crash-botswana"
+  ],
+  [
+    "mayor",
+    14,
+    "https://www.nytimes.com/2026/05/29/nyregion/mamdani-edc-economy-nyc.html"
+  ],
+  [
+    "past",
+    14,
+    "https://www.nytimes.com/2026/05/30/nyregion/adam-hamawy-election-nj.html"
+  ],
+  [
+    "gaza",
+    14,
+    "https://www.nytimes.com/2026/05/30/world/middleeast/eid-al-adha-iran-gaza-lebanon.html"
+  ],
+  [
+    "summer",
+    14,
+    "https://www.nytimes.com/2026/05/30/briefing/season-pass.html"
+  ],
+  [
+    "america",
+    14,
+    "https://www.nytimes.com/2026/05/30/world/americas/colombia-election-latin-america-left.html"
+  ],
+  [
+    "israel",
+    14,
+    "https://www.washingtonpost.com/nation/2026/05/29/new-yorks-jewish-community-stung-by-attacks-mamdanis-anti-israel-posture/"
+  ],
+  [
+    "feel",
+    14,
+    "https://www.washingtonpost.com/nation/2026/05/29/new-yorks-jewish-community-stung-by-attacks-mamdanis-anti-israel-posture/"
+  ],
+  [
+    "immigration",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "early",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "pope",
+    14,
+    "https://www.theguardian.com/world/2026/may/30/pope-leo-ai-reaction"
+  ],
+  [
+    "art",
+    14,
+    "https://www.theguardian.com/business/2026/may/30/ferrari-luce-ev-electric-model-shocks-owners-club"
+  ],
+  [
+    "late",
+    14,
+    "https://www.theguardian.com/business/2026/may/30/chicago-minneapolis-united-airlines-flight-diverted-attempted-cockpit-breach"
+  ],
+  [
+    "replace",
+    14,
+    "https://www.theguardian.com/world/2026/may/30/why-1bn-in-balkans-energy-contracts-are-going-to-an-obscure-company-connected-to-donald-trump"
+  ],
+  [
+    "film",
+    14,
+    "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition"
+  ],
+  [
+    "review",
+    14,
+    "https://www.theguardian.com/film/2026/may/29/miss-you-love-you-movie-review"
+  ],
+  [
+    "buying",
+    14,
+    "https://www.theguardian.com/games/2026/may/19/forza-horizon-6-review-classic-open-world-racing-sim-roars-beautifully-into-japan"
+  ],
+  [
+    "kitchen",
+    14,
+    "https://www.theguardian.com/music/2026/may/29/paul-mccartney-bandmates-oasis-nostalgic-new-album-the-boys-of-dungeon-lane"
+  ],
+  [
+    "cooker",
+    14,
+    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
+  ],
+  [
+    "west",
+    13,
+    "https://www.nytimes.com/2026/05/30/us/in-a-quiet-corner-of-america-greyhound-racing-hangs-on-for-now.html"
+  ],
+  [
+    "general",
+    13,
+    "https://www.theguardian.com/us-news/2026/may/30/democrats-senate-battleground-states-republicans"
+  ],
+  [
+    "enough",
+    13,
+    "https://www.theguardian.com/society/2026/may/30/pmdd-premenstrual-dysphoric-disorder-diagnosis-women-families-explosive-rage"
+  ],
+  [
+    "police",
+    13,
+    "https://www.theguardian.com/business/2026/may/30/chicago-minneapolis-united-airlines-flight-diverted-attempted-cockpit-breach"
   ]
 ];
