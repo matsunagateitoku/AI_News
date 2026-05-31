@@ -3,52 +3,37 @@
   [
     "trump",
     98,
-    "https://www.nytimes.com/2026/05/30/us/politics/trump-immigrants-health-housing.html"
+    "https://www.nytimes.com/2026/05/30/us/politics/trump-irs-lawsuit-deal.html"
   ],
   [
     "race",
-    72,
+    70,
     "https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html"
   ],
   [
     "guide",
-    60,
+    61,
     "https://www.theguardian.com/thefilter-us/2026/may/30/guinness-v-guinness-0-non-alcoholic-taste-test"
   ],
   [
-    "president",
-    52,
-    "https://www.nytimes.com/2026/05/30/us/politics/is-jd-vance-the-2028-front-runner-trump-has-questions.html"
-  ],
-  [
     "california",
-    46,
+    52,
     "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
   ],
   [
     "district",
-    44,
+    45,
     "https://www.theguardian.com/us-news/2026/may/29/trump-news-at-a-glance-latest-updates-today"
   ],
   [
+    "president",
+    42,
+    "https://www.nytimes.com/2026/05/30/us/politics/trump-irs-lawsuit-deal.html"
+  ],
+  [
     "iran",
-    34,
-    "https://www.nytimes.com/2026/05/30/world/middleeast/trump-deal-middle-east-iran.html"
-  ],
-  [
-    "war",
     33,
-    "https://www.nytimes.com/2026/05/30/world/middleeast/trump-deal-middle-east-iran.html"
-  ],
-  [
-    "content",
-    32,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
-  ],
-  [
-    "additional",
-    30,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
+    "https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html"
   ],
   [
     "rice",
@@ -56,54 +41,29 @@
     "https://www.theguardian.com/thefilter-us/2026/may/27/fathers-day-deals-sales"
   ],
   [
-    "post",
-    29,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
-  ],
-  [
-    "bee",
-    26,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
-  ],
-  [
-    "scripps",
-    25,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
-  ],
-  [
-    "spelling",
-    25,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
-  ],
-  [
-    "quick",
-    25,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
-  ],
-  [
     "don",
-    24,
+    28,
     "https://www.nytimes.com/2026/05/30/magazine/laurie-santos-interview.html"
   ],
   [
-    "incumbent",
-    24,
-    "https://www.theguardian.com/us-news/2026/may/30/democrats-senate-battleground-states-republicans"
+    "war",
+    26,
+    "https://www.nytimes.com/2026/05/30/world/middleeast/iran-mens-soccer-team-world-cup.html"
   ],
   [
-    "updates",
-    23,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-shrey-parikh-wins-scripps-national-spelling-bee-after-spell-off-quick-post-2/"
-  ],
-  [
-    "ice",
-    23,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "final",
+    25,
+    "https://www.theguardian.com/film/2026/may/30/marilyn-monroe-exhibition-los-angeles"
   ],
   [
     "cup",
-    22,
+    24,
     "https://www.nytimes.com/2026/05/30/world/middleeast/iran-mens-soccer-team-world-cup.html"
+  ],
+  [
+    "ice",
+    22,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "election",
@@ -111,39 +71,34 @@
     "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
   ],
   [
-    "final",
+    "incumbent",
+    22,
+    "https://www.theguardian.com/us-news/2026/may/30/democrats-senate-battleground-states-republicans"
+  ],
+  [
+    "country",
     21,
-    "https://www.nytimes.com/2026/05/30/world/middleeast/trump-deal-middle-east-iran.html"
-  ],
-  [
-    "texas",
-    21,
-    "https://www.theguardian.com/us-news/2026/may/30/lawsuit-camp-east-montana-texas-us-immigration-ice"
-  ],
-  [
-    "board",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/may/29/the-guardian-view-on-israel-and-gaza-the-threat-of-further-humanitarian-catastrophe"
-  ],
-  [
-    "primary",
-    20,
-    "https://www.nytimes.com/2026/05/29/climate/clean-energy-pac-chip-roy.html"
-  ],
-  [
-    "york",
-    20,
-    "https://www.nytimes.com/2026/05/29/nyregion/mamdani-edc-economy-nyc.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "candidates",
     20,
-    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
+    "https://www.nytimes.com/2026/05/30/us/politics/dan-sullivan-election-senate-alaska.html"
   ],
   [
-    "democrats",
+    "board",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/may/29/the-guardian-view-on-israel-and-gaza-the-threat-of-further-humanitarian-catastrophe"
+  ],
+  [
+    "political",
     19,
-    "https://www.theguardian.com/commentisfree/2026/may/30/trump-ufc-young-men-polling"
+    "https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html"
+  ],
+  [
+    "immigration",
+    19,
+    "https://www.nytimes.com/2026/05/30/world/asia/japan-immigration-curry-shops.html"
   ],
   [
     "donald",
@@ -151,74 +106,124 @@
     "https://www.theguardian.com/commentisfree/2026/may/30/trump-ufc-young-men-polling"
   ],
   [
+    "outside",
+    19,
+    "https://www.theguardian.com/tv-and-radio/2026/may/30/euphoria-season-three-gen-z"
+  ],
+  [
+    "series",
+    19,
+    "https://www.theguardian.com/sport/2026/may/30/nba-western-conference-finals-game-7-spurs-thunder"
+  ],
+  [
+    "family",
+    19,
+    "https://www.theguardian.com/society/2026/may/30/pmdd-premenstrual-dysphoric-disorder-diagnosis-women-families-explosive-rage"
+  ],
+  [
     "county",
     19,
     "https://www.theguardian.com/commentisfree/2026/may/30/spencer-pratt-mayor-policy-experience"
   ],
   [
-    "center",
-    18,
-    "https://www.nytimes.com/2026/05/30/arts/kennedy-center-trump-name-takeaways.html"
-  ],
-  [
-    "food",
-    18,
-    "https://www.nytimes.com/2026/05/30/world/middleeast/eid-al-adha-iran-gaza-lebanon.html"
-  ],
-  [
-    "america",
-    18,
-    "https://www.nytimes.com/2026/05/30/world/americas/colombia-election-latin-america-left.html"
-  ],
-  [
-    "country",
-    18,
-    "https://www.nytimes.com/2026/05/30/us/in-a-quiet-corner-of-america-greyhound-racing-hangs-on-for-now.html"
-  ],
-  [
-    "american",
+    "democrats",
     18,
     "https://www.theguardian.com/commentisfree/2026/may/30/trump-ufc-young-men-polling"
   ],
   [
-    "health",
+    "faces",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/may/30/euphoria-season-three-gen-z"
+  ],
+  [
+    "game",
+    18,
+    "https://www.theguardian.com/sport/2026/may/30/nba-western-conference-finals-game-7-spurs-thunder"
+  ],
+  [
+    "place",
     17,
+    "https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html"
+  ],
+  [
+    "primary",
+    17,
+    "https://www.nytimes.com/2026/05/30/us/politics/dan-sullivan-election-senate-alaska.html"
+  ],
+  [
+    "york",
+    17,
+    "https://www.washingtonpost.com/nation/2026/05/29/new-yorks-jewish-community-stung-by-attacks-mamdanis-anti-israel-posture/"
+  ],
+  [
+    "party",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/30/trump-irs-suit-reopened"
+  ],
+  [
+    "texas",
+    17,
+    "https://www.theguardian.com/us-news/2026/may/30/lawsuit-camp-east-montana-texas-us-immigration-ice"
+  ],
+  [
+    "police",
+    17,
+    "https://www.theguardian.com/business/2026/may/30/chicago-minneapolis-united-airlines-flight-diverted-attempted-cockpit-breach"
+  ],
+  [
+    "pressure",
+    16,
     "https://www.nytimes.com/2026/05/30/us/politics/trump-immigrants-health-housing.html"
   ],
   [
-    "immigration",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "faces",
-    17,
-    "https://www.theguardian.com/tv-and-radio/2026/may/30/euphoria-season-three-gen-z"
-  ],
-  [
-    "family",
-    17,
-    "https://www.theguardian.com/society/2026/may/30/pmdd-premenstrual-dysphoric-disorder-diagnosis-women-families-explosive-rage"
-  ],
-  [
-    "finalists",
+    "wife",
     16,
-    "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-scripps-national-spelling-bee-is-down-four-finalists-quick-post-3/"
+    "https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html"
   ],
   [
-    "everything",
+    "democratic",
     16,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html"
   ],
   [
-    "outside",
+    "campaign",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/may/30/euphoria-season-three-gen-z"
+    "https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html"
   ],
   [
-    "series",
+    "los",
     16,
-    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
+    "https://www.nytimes.com/2026/05/30/dining/los-angeles-mayoral-race-restaurants.html"
+  ],
+  [
+    "angeles",
+    16,
+    "https://www.nytimes.com/2026/05/30/dining/los-angeles-mayoral-race-restaurants.html"
+  ],
+  [
+    "won",
+    16,
+    "https://www.nytimes.com/2026/05/30/magazine/laurie-santos-interview.html"
+  ],
+  [
+    "love",
+    16,
+    "https://www.nytimes.com/2026/05/31/opinion/heteropessimism-straight-dating-love.html"
+  ],
+  [
+    "america",
+    16,
+    "https://www.nytimes.com/2026/05/29/opinion/hungary-win-election-viktor-orban.html"
+  ],
+  [
+    "israel",
+    16,
+    "https://www.washingtonpost.com/nation/2026/05/29/new-yorks-jewish-community-stung-by-attacks-mamdanis-anti-israel-posture/"
+  ],
+  [
+    "american",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/may/30/trump-ufc-young-men-polling"
   ],
   [
     "challengers",
@@ -226,54 +231,44 @@
     "https://www.latimes.com/california/story/2026-05-30/la-city-attorneys-role-could-be-weakened-under-charter-reform-proposal"
   ],
   [
-    "judge",
+    "media",
     15,
-    "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
-  ],
-  [
-    "political",
-    15,
-    "https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html"
+    "https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html"
   ],
   [
     "republican",
     15,
-    "https://www.nytimes.com/2026/05/29/climate/clean-energy-pac-chip-roy.html"
+    "https://www.nytimes.com/2026/05/30/us/politics/dan-sullivan-election-senate-alaska.html"
+  ],
+  [
+    "mayor",
+    15,
+    "https://www.nytimes.com/2026/05/30/nyregion/champions-league-arsenal-mamdani-nyc.html"
+  ],
+  [
+    "washington",
+    15,
+    "https://www.nytimes.com/2026/05/30/us/11-dead-longview-washington-chemical-explosion.html"
   ],
   [
     "military",
     15,
-    "https://www.nytimes.com/2026/05/28/world/europe/ukraine-war-street-style-fashion-military.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "south",
+    "food",
     15,
-    "https://www.theguardian.com/us-news/2026/may/30/ice-detention-immigration-journey"
+    "https://www.theguardian.com/us-news/2026/may/30/lawsuit-camp-east-montana-texas-us-immigration-ice"
   ],
   [
-    "party",
+    "policy",
     15,
-    "https://www.theguardian.com/us-news/2026/may/30/trump-irs-suit-reopened"
+    "https://www.theguardian.com/world/2026/may/31/japan-defence-minister-rebuffs-claims-of-new-militarism-levelled-by-china"
   ],
   [
-    "governor",
+    "art",
     15,
-    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
-  ],
-  [
-    "place",
-    15,
-    "https://www.theguardian.com/football/2026/may/30/i-read-gianni-infantinos-name-dropping-despot-fluffing-book-so-you-dont-have-to"
-  ],
-  [
-    "children",
-    15,
-    "https://www.theguardian.com/football/2026/may/30/a-season-from-hell-how-arne-slots-liverpool-fell-apart-after-death-of-jota"
-  ],
-  [
-    "kitchen",
-    15,
-    "https://www.theguardian.com/music/2026/may/29/paul-mccartney-bandmates-oasis-nostalgic-new-album-the-boys-of-dungeon-lane"
+    "https://www.theguardian.com/commentisfree/2026/may/30/trump-iran-war-art-of-the-deal"
   ],
   [
     "cutting",
@@ -281,9 +276,14 @@
     "https://www.nytimes.com/2026/05/30/us/politics/trump-immigrants-health-housing.html"
   ],
   [
-    "pressure",
+    "artists",
     14,
-    "https://www.nytimes.com/2026/05/30/us/politics/trump-immigrants-health-housing.html"
+    "https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html"
+  ],
+  [
+    "social",
+    14,
+    "https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html"
   ],
   [
     "team",
@@ -291,39 +291,34 @@
     "https://www.nytimes.com/2026/05/30/world/middleeast/iran-mens-soccer-team-world-cup.html"
   ],
   [
+    "fans",
+    14,
+    "https://www.nytimes.com/2026/05/30/nyregion/champions-league-arsenal-mamdani-nyc.html"
+  ],
+  [
+    "champions",
+    14,
+    "https://www.nytimes.com/2026/05/30/nyregion/champions-league-arsenal-mamdani-nyc.html"
+  ],
+  [
+    "league",
+    14,
+    "https://www.nytimes.com/2026/05/30/nyregion/champions-league-arsenal-mamdani-nyc.html"
+  ],
+  [
+    "china",
+    14,
+    "https://www.nytimes.com/2026/05/31/world/asia/taiwan-china-mainland-spouses-infiltration.html"
+  ],
+  [
+    "government",
+    14,
+    "https://www.washingtonpost.com/nation/2026/05/30/26-years-colorado-ufo-watchtower-waited-government-catch-up/"
+  ],
+  [
     "feel",
     14,
     "https://www.washingtonpost.com/nation/2026/05/29/new-yorks-jewish-community-stung-by-attacks-mamdanis-anti-israel-posture/"
-  ],
-  [
-    "early",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "los",
-    14,
-    "https://www.theguardian.com/film/2026/may/30/marilyn-monroe-exhibition-los-angeles"
-  ],
-  [
-    "angeles",
-    14,
-    "https://www.theguardian.com/film/2026/may/30/marilyn-monroe-exhibition-los-angeles"
-  ],
-  [
-    "enough",
-    14,
-    "https://www.theguardian.com/society/2026/may/30/pmdd-premenstrual-dysphoric-disorder-diagnosis-women-families-explosive-rage"
-  ],
-  [
-    "replace",
-    14,
-    "https://www.theguardian.com/world/2026/may/30/why-1bn-in-balkans-energy-contracts-are-going-to-an-obscure-company-connected-to-donald-trump"
-  ],
-  [
-    "pope",
-    14,
-    "https://www.theguardian.com/world/2026/may/30/pope-leo-ai-reaction"
   ],
   [
     "buying",
@@ -331,14 +326,34 @@
     "https://www.theguardian.com/thefilter-us/2026/may/30/guinness-v-guinness-0-non-alcoholic-taste-test"
   ],
   [
-    "decades",
+    "south",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/30/germany-defeat-red-army-faction-lessons-fight-terrorism"
+    "https://www.theguardian.com/us-news/2026/may/30/ice-detention-immigration-journey"
   ],
   [
-    "general",
+    "children",
     14,
-    "https://www.theguardian.com/football/2026/may/30/i-read-gianni-infantinos-name-dropping-despot-fluffing-book-so-you-dont-have-to"
+    "https://www.theguardian.com/lifeandstyle/2026/may/31/moment-i-knew-he-said-he-never-wanted-children-but-would-with-me"
+  ],
+  [
+    "jersey",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/may/30/trump-iran-war-art-of-the-deal"
+  ],
+  [
+    "green",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/may/31/eu-perilous-world-countries-join"
+  ],
+  [
+    "replace",
+    14,
+    "https://www.theguardian.com/world/2026/may/30/why-1bn-in-balkans-energy-contracts-are-going-to-an-obscure-company-connected-to-donald-trump"
+  ],
+  [
+    "kitchen",
+    14,
+    "https://www.theguardian.com/music/2026/may/29/paul-mccartney-bandmates-oasis-nostalgic-new-album-the-boys-of-dungeon-lane"
   ],
   [
     "cooker",
@@ -346,33 +361,18 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "million",
+    "sexual",
     13,
-    "https://www.nytimes.com/2026/05/29/climate/clean-energy-pac-chip-roy.html"
+    "https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html"
   ],
   [
-    "gaza",
+    "seat",
     13,
-    "https://www.nytimes.com/2026/05/30/world/middleeast/eid-al-adha-iran-gaza-lebanon.html"
+    "https://www.nytimes.com/2026/05/30/us/politics/dan-sullivan-election-senate-alaska.html"
   ],
   [
-    "west",
+    "line",
     13,
-    "https://www.nytimes.com/2026/05/30/us/in-a-quiet-corner-of-america-greyhound-racing-hangs-on-for-now.html"
-  ],
-  [
-    "something",
-    13,
-    "https://www.theguardian.com/society/2026/may/30/pmdd-premenstrual-dysphoric-disorder-diagnosis-women-families-explosive-rage"
-  ],
-  [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/may/30/guinness-v-guinness-0-non-alcoholic-taste-test"
-  ],
-  [
-    "film",
-    13,
-    "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ]
 ];
