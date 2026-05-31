@@ -2,12 +2,12 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    98,
+    89,
     "https://www.nytimes.com/2026/05/30/us/politics/trump-irs-lawsuit-deal.html"
   ],
   [
     "race",
-    70,
+    71,
     "https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html"
   ],
   [
@@ -17,7 +17,7 @@
   ],
   [
     "california",
-    52,
+    50,
     "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
   ],
   [
@@ -27,7 +27,7 @@
   ],
   [
     "president",
-    42,
+    37,
     "https://www.nytimes.com/2026/05/30/us/politics/trump-irs-lawsuit-deal.html"
   ],
   [
@@ -52,22 +52,22 @@
   ],
   [
     "final",
-    25,
+    26,
     "https://www.theguardian.com/film/2026/may/30/marilyn-monroe-exhibition-los-angeles"
   ],
   [
     "cup",
-    24,
+    25,
     "https://www.nytimes.com/2026/05/30/world/middleeast/iran-mens-soccer-team-world-cup.html"
   ],
   [
     "ice",
-    22,
+    24,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "election",
-    22,
+    23,
     "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
   ],
   [
@@ -76,24 +76,29 @@
     "https://www.theguardian.com/us-news/2026/may/30/democrats-senate-battleground-states-republicans"
   ],
   [
-    "country",
-    21,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
     "candidates",
-    20,
+    21,
     "https://www.nytimes.com/2026/05/30/us/politics/dan-sullivan-election-senate-alaska.html"
   ],
   [
-    "board",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/may/29/the-guardian-view-on-israel-and-gaza-the-threat-of-further-humanitarian-catastrophe"
+    "police",
+    21,
+    "https://www.theguardian.com/world/2026/may/31/brazil-mothers-of-may-police-victims"
+  ],
+  [
+    "family",
+    21,
+    "https://www.theguardian.com/society/2026/may/30/pmdd-premenstrual-dysphoric-disorder-diagnosis-women-families-explosive-rage"
   ],
   [
     "political",
-    19,
+    20,
     "https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html"
+  ],
+  [
+    "country",
+    20,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "immigration",
@@ -101,24 +106,9 @@
     "https://www.nytimes.com/2026/05/30/world/asia/japan-immigration-curry-shops.html"
   ],
   [
-    "donald",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/may/30/trump-ufc-young-men-polling"
-  ],
-  [
-    "outside",
-    19,
-    "https://www.theguardian.com/tv-and-radio/2026/may/30/euphoria-season-three-gen-z"
-  ],
-  [
-    "series",
+    "game",
     19,
     "https://www.theguardian.com/sport/2026/may/30/nba-western-conference-finals-game-7-spurs-thunder"
-  ],
-  [
-    "family",
-    19,
-    "https://www.theguardian.com/society/2026/may/30/pmdd-premenstrual-dysphoric-disorder-diagnosis-women-families-explosive-rage"
   ],
   [
     "county",
@@ -126,24 +116,49 @@
     "https://www.theguardian.com/commentisfree/2026/may/30/spencer-pratt-mayor-policy-experience"
   ],
   [
-    "democrats",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/may/30/trump-ufc-young-men-polling"
-  ],
-  [
     "faces",
-    18,
+    19,
     "https://www.theguardian.com/tv-and-radio/2026/may/30/euphoria-season-three-gen-z"
   ],
   [
-    "game",
-    18,
-    "https://www.theguardian.com/sport/2026/may/30/nba-western-conference-finals-game-7-spurs-thunder"
+    "outside",
+    19,
+    "https://www.theguardian.com/tv-and-radio/2026/may/30/euphoria-season-three-gen-z"
+  ],
+  [
+    "board",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/may/29/the-guardian-view-on-israel-and-gaza-the-threat-of-further-humanitarian-catastrophe"
   ],
   [
     "place",
-    17,
+    18,
     "https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html"
+  ],
+  [
+    "love",
+    18,
+    "https://www.nytimes.com/2026/05/31/opinion/heteropessimism-straight-dating-love.html"
+  ],
+  [
+    "art",
+    18,
+    "https://www.theguardian.com/business/2026/may/31/recruiter-insolvent-firm-payments-premier-group-recruitment-hmrc"
+  ],
+  [
+    "democrats",
+    18,
+    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
+  ],
+  [
+    "pressure",
+    17,
+    "https://www.nytimes.com/2026/05/30/us/politics/trump-immigrants-health-housing.html"
+  ],
+  [
+    "campaign",
+    17,
+    "https://www.nytimes.com/2026/05/31/world/americas/us-boat-strikes-colombia-ecuador.html"
   ],
   [
     "primary",
@@ -166,14 +181,9 @@
     "https://www.theguardian.com/us-news/2026/may/30/lawsuit-camp-east-montana-texas-us-immigration-ice"
   ],
   [
-    "police",
+    "series",
     17,
-    "https://www.theguardian.com/business/2026/may/30/chicago-minneapolis-united-airlines-flight-diverted-attempted-cockpit-breach"
-  ],
-  [
-    "pressure",
-    16,
-    "https://www.nytimes.com/2026/05/30/us/politics/trump-immigrants-health-housing.html"
+    "https://www.theguardian.com/sport/2026/may/30/nba-western-conference-finals-game-7-spurs-thunder"
   ],
   [
     "wife",
@@ -186,29 +196,9 @@
     "https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html"
   ],
   [
-    "campaign",
-    16,
-    "https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html"
-  ],
-  [
-    "los",
-    16,
-    "https://www.nytimes.com/2026/05/30/dining/los-angeles-mayoral-race-restaurants.html"
-  ],
-  [
-    "angeles",
-    16,
-    "https://www.nytimes.com/2026/05/30/dining/los-angeles-mayoral-race-restaurants.html"
-  ],
-  [
     "won",
     16,
     "https://www.nytimes.com/2026/05/30/magazine/laurie-santos-interview.html"
-  ],
-  [
-    "love",
-    16,
-    "https://www.nytimes.com/2026/05/31/opinion/heteropessimism-straight-dating-love.html"
   ],
   [
     "america",
@@ -216,19 +206,24 @@
     "https://www.nytimes.com/2026/05/29/opinion/hungary-win-election-viktor-orban.html"
   ],
   [
-    "israel",
+    "washington",
     16,
-    "https://www.washingtonpost.com/nation/2026/05/29/new-yorks-jewish-community-stung-by-attacks-mamdanis-anti-israel-posture/"
+    "https://www.nytimes.com/2026/05/30/us/11-dead-longview-washington-chemical-explosion.html"
   ],
   [
-    "american",
+    "military",
     16,
-    "https://www.theguardian.com/commentisfree/2026/may/30/trump-ufc-young-men-polling"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "challengers",
     16,
     "https://www.latimes.com/california/story/2026-05-30/la-city-attorneys-role-could-be-weakened-under-charter-reform-proposal"
+  ],
+  [
+    "social",
+    15,
+    "https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html"
   ],
   [
     "media",
@@ -241,19 +236,24 @@
     "https://www.nytimes.com/2026/05/30/us/politics/dan-sullivan-election-senate-alaska.html"
   ],
   [
-    "mayor",
+    "los",
+    15,
+    "https://www.nytimes.com/2026/05/30/dining/los-angeles-mayoral-race-restaurants.html"
+  ],
+  [
+    "angeles",
+    15,
+    "https://www.nytimes.com/2026/05/30/dining/los-angeles-mayoral-race-restaurants.html"
+  ],
+  [
+    "team",
+    15,
+    "https://www.nytimes.com/2026/05/30/world/middleeast/iran-mens-soccer-team-world-cup.html"
+  ],
+  [
+    "champions",
     15,
     "https://www.nytimes.com/2026/05/30/nyregion/champions-league-arsenal-mamdani-nyc.html"
-  ],
-  [
-    "washington",
-    15,
-    "https://www.nytimes.com/2026/05/30/us/11-dead-longview-washington-chemical-explosion.html"
-  ],
-  [
-    "military",
-    15,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "food",
@@ -261,12 +261,17 @@
     "https://www.theguardian.com/us-news/2026/may/30/lawsuit-camp-east-montana-texas-us-immigration-ice"
   ],
   [
-    "policy",
+    "music",
     15,
-    "https://www.theguardian.com/world/2026/may/31/japan-defence-minister-rebuffs-claims-of-new-militarism-levelled-by-china"
+    "https://www.theguardian.com/world/2026/may/31/germany-nightlife-scene-reclassify-clubs-berlin"
   ],
   [
-    "art",
+    "american",
+    15,
+    "https://www.theguardian.com/music/2026/may/31/badenoch-supporting-us-rapper-azealia-banks-to-attend-spectator-summer-party-in-london"
+  ],
+  [
+    "jersey",
     15,
     "https://www.theguardian.com/commentisfree/2026/may/30/trump-iran-war-art-of-the-deal"
   ],
@@ -276,27 +281,7 @@
     "https://www.nytimes.com/2026/05/30/us/politics/trump-immigrants-health-housing.html"
   ],
   [
-    "artists",
-    14,
-    "https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html"
-  ],
-  [
-    "social",
-    14,
-    "https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html"
-  ],
-  [
-    "team",
-    14,
-    "https://www.nytimes.com/2026/05/30/world/middleeast/iran-mens-soccer-team-world-cup.html"
-  ],
-  [
     "fans",
-    14,
-    "https://www.nytimes.com/2026/05/30/nyregion/champions-league-arsenal-mamdani-nyc.html"
-  ],
-  [
-    "champions",
     14,
     "https://www.nytimes.com/2026/05/30/nyregion/champions-league-arsenal-mamdani-nyc.html"
   ],
@@ -306,39 +291,24 @@
     "https://www.nytimes.com/2026/05/30/nyregion/champions-league-arsenal-mamdani-nyc.html"
   ],
   [
-    "china",
-    14,
-    "https://www.nytimes.com/2026/05/31/world/asia/taiwan-china-mainland-spouses-infiltration.html"
-  ],
-  [
-    "government",
-    14,
-    "https://www.washingtonpost.com/nation/2026/05/30/26-years-colorado-ufo-watchtower-waited-government-catch-up/"
-  ],
-  [
-    "feel",
+    "israel",
     14,
     "https://www.washingtonpost.com/nation/2026/05/29/new-yorks-jewish-community-stung-by-attacks-mamdanis-anti-israel-posture/"
   ],
   [
-    "buying",
+    "donald",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/may/30/guinness-v-guinness-0-non-alcoholic-taste-test"
+    "https://www.theguardian.com/us-news/2026/may/30/trump-irs-suit-reopened"
+  ],
+  [
+    "policy",
+    14,
+    "https://www.theguardian.com/world/live/2026/may/31/middle-east-crisis-live-israel-lebanon-beaufort-castle-us-iran-nuclear-deal-hormuz-oil-latest-news-updates"
   ],
   [
     "south",
     14,
-    "https://www.theguardian.com/us-news/2026/may/30/ice-detention-immigration-journey"
-  ],
-  [
-    "children",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/may/31/moment-i-knew-he-said-he-never-wanted-children-but-would-with-me"
-  ],
-  [
-    "jersey",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/may/30/trump-iran-war-art-of-the-deal"
+    "https://www.theguardian.com/world/live/2026/may/31/middle-east-crisis-live-israel-lebanon-beaufort-castle-us-iran-nuclear-deal-hormuz-oil-latest-news-updates"
   ],
   [
     "green",
@@ -361,6 +331,11 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
+    "held",
+    13,
+    "https://www.nytimes.com/2026/05/30/us/politics/trump-irs-lawsuit-deal.html"
+  ],
+  [
     "sexual",
     13,
     "https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html"
@@ -371,7 +346,32 @@
     "https://www.nytimes.com/2026/05/30/us/politics/dan-sullivan-election-senate-alaska.html"
   ],
   [
-    "line",
+    "really",
+    13,
+    "https://www.nytimes.com/2026/05/30/magazine/laurie-santos-interview.html"
+  ],
+  [
+    "china",
+    13,
+    "https://www.nytimes.com/2026/05/31/world/asia/taiwan-china-mainland-spouses-infiltration.html"
+  ],
+  [
+    "term",
+    13,
+    "https://www.nytimes.com/2026/05/30/us/politics/cia-gold-bars-stephen-feinberg.html"
+  ],
+  [
+    "government",
+    13,
+    "https://www.washingtonpost.com/nation/2026/05/30/26-years-colorado-ufo-watchtower-waited-government-catch-up/"
+  ],
+  [
+    "feel",
+    13,
+    "https://www.washingtonpost.com/nation/2026/05/29/new-yorks-jewish-community-stung-by-attacks-mamdanis-anti-israel-posture/"
+  ],
+  [
+    "north",
     13,
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ]
