@@ -3,38 +3,44 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 18,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/30/trump-iran-war-art-of-the-deal",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Marilyn Monroe",
+      "count": 12,
+      "url": "https://www.theguardian.com/film/2026/may/30/marilyn-monroe-exhibition-los-angeles",
       "source": "The Guardian"
     },
     {
       "name": "Donald Trump ’S",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/may/30/trump-irs-suit-reopened",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/may/31/jasmeet-bains-california-congress-race-democrats",
       "source": "The Guardian"
     },
     {
       "name": "Graham Platner",
-      "count": 12,
+      "count": 7,
       "url": "https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Spencer Pratt",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/30/spencer-pratt-mayor-policy-experience",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Paul Mccartney",
-      "count": 7,
-      "url": "https://www.theguardian.com/film/2026/may/31/the-beatles-cultural-impact-four-biopics-sam-mendes",
-      "source": "The Guardian"
     },
     {
       "name": "Martin Parr",
       "count": 7,
       "url": "https://www.theguardian.com/artanddesign/2026/may/31/martin-parr-funeral-photographs-sophie-green",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jill Biden",
+      "count": 7,
+      "url": "https://www.cbsnews.com/news/jill-biden-on-life-in-and-after-the-white-house/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Ken Paxton",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans",
       "source": "The Guardian"
     },
     {
@@ -44,154 +50,30 @@
       "source": "The Guardian"
     },
     {
-      "name": "Karen Bass",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Zaporizhzhia",
-      "count": 5,
-      "url": "https://www.theguardian.com/world/2026/may/31/ukraine-war-briefing-kyiv-denies-its-drone-deliberately-hit-zaporizhzhia-nuclear-plant",
-      "source": "The Guardian"
-    },
-    {
       "name": "Rafa Nadal",
       "count": 5,
       "url": "https://www.theguardian.com/tv-and-radio/2026/may/29/rafa-review-nadal-spain-greatest-ever-tennis-player-netflix",
       "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 48,
-      "url": "https://www.theguardian.com/thefilter-us/2026/may/30/guinness-v-guinness-0-non-alcoholic-taste-test",
-      "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 47,
-      "url": "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 32,
-      "url": "https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/05/31/world/americas/us-boat-strikes-colombia-ecuador.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 16,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Washington State",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/05/30/us/11-dead-longview-washington-chemical-explosion.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/may/30/lawsuit-camp-east-montana-texas-us-immigration-ice",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New Jersey",
-      "count": 14,
-      "url": "https://www.theguardian.com/commentisfree/2026/may/30/trump-iran-war-art-of-the-deal",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Russia",
-      "count": 12,
-      "url": "https://www.theguardian.com/world/2026/may/31/ukraine-war-briefing-kyiv-denies-its-drone-deliberately-hit-zaporizhzhia-nuclear-plant",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Los Angeles County",
-      "count": 12,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-sheriff-luna-villanueva-challengers-voter-guide",
-      "source": "LA Times"
-    }
-  ],
-  "EVENT": [
-    {
-      "name": "World Cup Experts’ Network",
-      "count": 11,
-      "url": "https://www.theguardian.com/football/2026/may/31/usa-world-cup-2026-team-guide",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The French Open",
+      "name": "Margaret Brennan",
       "count": 5,
-      "url": "https://www.theguardian.com/world/2026/may/31/ukraine-war-briefing-kyiv-denies-its-drone-deliberately-hit-zaporizhzhia-nuclear-plant",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The World Cup",
-      "count": 5,
-      "url": "https://www.theguardian.com/football/2026/may/30/cristiano-ronaldo-world-cup-lionel-messi-luka-modric",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Scottish World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/music/2026/may/31/ed-obrien-honest-playlist-smiths-george-michael-scotland-1978-world-cup-squad",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Great American State Fair",
-      "count": 2,
-      "url": "https://www.cbsnews.com/news/trump-to-kick-off-great-american-state-fair-several-musicians-cancel/",
+      "url": "https://www.cbsnews.com/video/full-interview-ukrainian-president-volodymyr-zelenskyy/",
       "source": "CBS News"
-    },
-    {
-      "name": "Israel Day Parade",
-      "count": 1,
-      "url": "https://www.washingtonpost.com/nation/2026/05/29/new-yorks-jewish-community-stung-by-attacks-mamdanis-anti-israel-posture/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "The Stanley Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/30/hurricanes-canadiens-stanley-cup-final-brindamour",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Olympic",
-      "count": 1,
-      "url": "https://www.theguardian.com/australia-news/2026/may/31/brisbane-olympic-stadium-victoria-park-government-declines-to-protect-indigenous-sacred-site-ntwnfb",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hitomi Yoshio",
-      "count": 1,
-      "url": "https://www.theguardian.com/books/2026/may/29/the-best-recent-translated-fiction-review-roundup",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Groundhog Day",
-      "count": 1,
-      "url": "https://www.theguardian.com/food/2026/may/29/yotam-ottolenghi-simple-summer-entertaining",
-      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Urges Canceling Freedom 250 Concerts After Artists",
-      "count": 46,
-      "url": "https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html",
+      "name": "Trump Administration Sees Striking Exodus Of Legal Talent",
+      "count": 35,
+      "url": "https://www.nytimes.com/2026/05/31/us/politics/trump-administration-exodus-of-lawyers.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Ai",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
+      "source": "The Guardian"
     },
     {
       "name": "Guardian Australia",
@@ -201,14 +83,8 @@
     },
     {
       "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/thefilter-us/2025/oct/04/travel-essentials-packing-list-us",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
       "count": 10,
-      "url": "https://www.theguardian.com/technology/2026/may/27/pope-leo-ai-comments-tell-us",
+      "url": "https://www.theguardian.com/thefilter-us/2025/oct/04/travel-essentials-packing-list-us",
       "source": "The Guardian"
     },
     {
@@ -218,15 +94,9 @@
       "source": "LA Times"
     },
     {
-      "name": "Trump White House",
-      "count": 10,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-05-29/springsteen-trump-two-very-different-music-events",
-      "source": "LA Times"
-    },
-    {
-      "name": "Immigration And Customs Enforcement ( Ice",
+      "name": "The Us Senate",
       "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/may/30/lawsuit-camp-east-montana-texas-us-immigration-ice",
+      "url": "https://www.theguardian.com/us-news/2026/may/30/graham-platner-explicit-texts-senate-maine",
       "source": "The Guardian"
     },
     {
@@ -236,17 +106,147 @@
       "source": "LA Times"
     },
     {
-      "name": "Uefa Champions League",
+      "name": "Trump White House",
       "count": 9,
-      "url": "https://www.foxnews.com/sports/psg-champions-league-victory-causes-chaos-paris-45-arrested-fires-set-across-city",
-      "source": "Fox News"
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-05-29/springsteen-trump-two-very-different-music-events",
+      "source": "LA Times"
     },
     {
-      "name": "The Us Senate",
+      "name": "Arsenal’S Champions League",
       "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/may/30/graham-platner-explicit-texts-senate-maine",
+      "url": "https://www.theguardian.com/football/live/2026/may/31/arsenal-premier-league-trophy-parade-title-celebrations-in-north-london-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The New York Knicks",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/may/30/nba-western-conference-finals-game-7-spurs-thunder",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-05-31T09:48:48Z"
+  "EVENT": [
+    {
+      "name": "World Cup Experts’ Network",
+      "count": 6,
+      "url": "https://www.theguardian.com/football/2026/may/31/usa-world-cup-2026-team-guide",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup",
+      "count": 4,
+      "url": "https://www.theguardian.com/football/2026/may/30/cristiano-ronaldo-world-cup-lionel-messi-luka-modric",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel Day Parade",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/05/31/nyregion/israel-day-parade-nyc.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "French Open 2026",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/live/2026/may/31/french-open-2026-kostyuk-v-swiatek-jodar-v-carreno-busta-and-more-on-day-eight-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Stanley Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/may/31/claude-lemieuxs-brain-donated-to-cte-research-after-nhl-stars-death-at-age-of-60",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympic",
+      "count": 1,
+      "url": "https://www.theguardian.com/australia-news/2026/may/31/brisbane-olympic-stadium-victoria-park-government-declines-to-protect-indigenous-sacred-site-ntwnfb",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Scottish World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/music/2026/may/31/ed-obrien-honest-playlist-smiths-george-michael-scotland-1978-world-cup-squad",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympics",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-measure-tt-hotel-bed-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "World Series",
+      "count": 1,
+      "url": "https://www.latimes.com/sports/angels/story/2026-05-31/owner-arte-moreno-must-listen-to-fans-sell-angels-plaschke",
+      "source": "LA Times"
+    },
+    {
+      "name": "Vietnam War",
+      "count": 1,
+      "url": "https://www.latimes.com/opinion/story/2026-05-27/speedy-express-atrocity-vietnam-war-trump-era",
+      "source": "LA Times"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 42,
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/31/donald-trump-iran-excursion-vietnam-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 38,
+      "url": "https://www.theguardian.com/us-news/2026/may/31/jasmeet-bains-california-congress-race-democrats",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 18,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 17,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Israel",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/05/31/nyregion/israel-day-parade-nyc.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Newark",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/05/30/nyregion/delaney-hall-mikie-sherrill.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/2026/may/31/one-day-i-thought-thats-enough-the-people-fighting-back-against-pothole-riddled-roads",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Washington",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/may/31/washington-tank-explosion-death-toll",
+      "source": "The Guardian"
+    },
+    {
+      "name": "London",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/may/31/islamophobia-antisemitism-muslim-jewish-communities",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Lebanon",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/2026/may/31/israel-pursuing-scorced-earth-policy-says-lebanon-pm-as-more-airstrikes-hit-countrys-south",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-05-31T14:49:41Z"
 };
