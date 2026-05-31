@@ -2,98 +2,113 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "race",
-    68,
-    "https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html"
+    74,
+    "https://www.nytimes.com/2026/05/31/us/politics/booker-platner-democrats-senate-midterms.html"
   ],
   [
     "trump",
-    62,
-    "https://www.nytimes.com/2026/05/30/us/politics/trump-irs-lawsuit-deal.html"
+    65,
+    "https://www.nytimes.com/2026/05/31/us/politics/trump-administration-exodus-of-lawyers.html"
   ],
   [
     "guide",
-    61,
-    "https://www.theguardian.com/football/2026/may/31/usa-world-cup-2026-team-guide"
-  ],
-  [
-    "district",
-    45,
-    "https://www.theguardian.com/us-news/2026/may/31/jasmeet-bains-california-congress-race-democrats"
-  ],
-  [
-    "california",
-    42,
-    "https://www.theguardian.com/us-news/2026/may/31/jasmeet-bains-california-congress-race-democrats"
+    64,
+    "https://www.theguardian.com/thefilter-us/2026/may/31/best-over-50-skin-care-products"
   ],
   [
     "president",
-    35,
+    55,
     "https://www.nytimes.com/2026/05/30/us/politics/trump-irs-lawsuit-deal.html"
   ],
   [
+    "california",
+    47,
+    "https://www.nytimes.com/2026/05/31/us/steve-hilton-california-governor.html"
+  ],
+  [
+    "district",
+    41,
+    "https://www.theguardian.com/us-news/2026/may/31/jasmeet-bains-california-congress-race-democrats"
+  ],
+  [
+    "democrats",
+    31,
+    "https://www.nytimes.com/2026/05/31/us/politics/booker-platner-democrats-senate-midterms.html"
+  ],
+  [
     "rice",
-    30,
-    "https://www.theguardian.com/thefilter-us/2026/may/27/fathers-day-deals-sales"
+    31,
+    "https://www.theguardian.com/football/2026/may/31/arsenal-progress-mikel-arteta-champions-league-ultimate-glory-flaws"
+  ],
+  [
+    "party",
+    26,
+    "https://www.nytimes.com/2026/05/31/us/politics/trump-republican-primary-elections-midterms.html"
+  ],
+  [
+    "texas",
+    26,
+    "https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans"
   ],
   [
     "election",
     25,
-    "https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates"
+    "https://www.nytimes.com/2026/05/31/us/tina-peters-release-election-tampering-colorado.html"
   ],
   [
-    "game",
-    24,
-    "https://www.theguardian.com/sport/2026/may/31/oklahoma-city-thunder-san-antonio-spurs-nba-playoffs"
-  ],
-  [
-    "faces",
-    23,
-    "https://www.theguardian.com/us-news/2026/may/31/virginia-bus-crash-driver-charged"
+    "nation",
+    25,
+    "https://www.theguardian.com/football/2026/may/31/rinat-akhmetov-ukraines-richest-man-shakhtar-donetsk-owner-russia-interview"
   ],
   [
     "don",
-    22,
-    "https://www.theguardian.com/lifeandstyle/2026/may/31/affection-friend-work-could-i-be-in-love-annalisa-barbieri"
+    24,
+    "https://www.theguardian.com/commentisfree/2026/may/30/spencer-pratt-mayor-policy-experience"
+  ],
+  [
+    "war",
+    23,
+    "https://www.nytimes.com/2026/05/31/us/politics/trump-republican-primary-elections-midterms.html"
   ],
   [
     "family",
-    22,
+    23,
     "https://www.theguardian.com/sport/2026/may/31/claude-lemieuxs-brain-donated-to-cte-research-after-nhl-stars-death-at-age-of-60"
   ],
   [
-    "candidates",
-    21,
-    "https://www.nytimes.com/2026/05/30/us/politics/dan-sullivan-election-senate-alaska.html"
-  ],
-  [
     "republican",
-    21,
-    "https://www.nytimes.com/2026/05/30/us/politics/dan-sullivan-election-senate-alaska.html"
+    22,
+    "https://www.nytimes.com/2026/05/31/us/politics/trump-republican-primary-elections-midterms.html"
   ],
   [
     "country",
-    21,
+    22,
     "https://www.nytimes.com/2026/05/31/nyregion/israel-day-parade-nyc.html"
   ],
   [
-    "texas",
+    "county",
     21,
-    "https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans"
+    "https://www.nytimes.com/2026/05/31/us/tina-peters-release-election-tampering-colorado.html"
   ],
   [
-    "police",
-    20,
-    "https://www.nytimes.com/2026/05/30/nyregion/delaney-hall-mikie-sherrill.html"
+    "faces",
+    21,
+    "https://www.theguardian.com/us-news/2026/may/31/virginia-bus-crash-driver-charged"
   ],
   [
-    "immigration",
-    20,
-    "https://www.nytimes.com/2026/05/30/nyregion/delaney-hall-mikie-sherrill.html"
+    "pence",
+    21,
+    "https://www.cbsnews.com/news/face-the-nation-full-transcript-05-31-2026/"
   ],
   [
-    "democrats",
+    "senate",
     20,
-    "https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans"
+    "https://www.nytimes.com/2026/05/31/us/politics/booker-platner-democrats-senate-midterms.html"
+  ],
+  [
+    "political",
+    20,
+    "https://www.nytimes.com/2026/05/31/us/steve-hilton-california-governor.html"
   ],
   [
     "incumbent",
@@ -101,134 +116,164 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-attorney-general-bonta-gates-voter-guide"
   ],
   [
-    "center",
-    19,
-    "https://www.nytimes.com/2026/05/30/nyregion/delaney-hall-mikie-sherrill.html"
+    "margaret",
+    20,
+    "https://www.cbsnews.com/news/zelenskyy-ukraine-more-pressure-putin-negotiate-deal-russia/"
   ],
   [
-    "ice",
-    19,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "party",
+    "candidates",
     19,
     "https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans"
   ],
   [
-    "food",
+    "cancer",
     19,
-    "https://www.theguardian.com/artanddesign/2026/may/31/martin-parr-funeral-photographs-sophie-green"
-  ],
-  [
-    "political",
-    18,
-    "https://www.nytimes.com/2026/05/31/us/voting-rights-act-redistricting-southern-states.html"
+    "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial"
   ],
   [
     "israel",
     18,
-    "https://www.nytimes.com/2026/05/31/nyregion/israel-day-parade-nyc.html"
+    "https://www.nytimes.com/2026/05/31/world/middleeast/israel-lebanon-beaufort-iran.html"
   ],
   [
-    "children",
+    "platner",
     18,
-    "https://www.theguardian.com/commentisfree/2026/may/31/islamophobia-antisemitism-muslim-jewish-communities"
+    "https://www.nytimes.com/2026/05/31/us/politics/booker-platner-democrats-senate-midterms.html"
   ],
   [
-    "cancer",
+    "ice",
     18,
-    "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial"
-  ],
-  [
-    "series",
-    18,
-    "https://www.theguardian.com/sport/2026/may/31/oklahoma-city-thunder-san-antonio-spurs-nba-playoffs"
-  ],
-  [
-    "term",
-    17,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "young",
-    17,
-    "https://www.theguardian.com/us-news/2026/may/31/young-adults-financial-independence-affordability-crisis"
+    "center",
+    18,
+    "https://www.theguardian.com/sport/2026/may/31/oklahoma-city-thunder-san-antonio-spurs-nba-playoffs"
   ],
   [
-    "spurs",
+    "food",
+    18,
+    "https://www.theguardian.com/artanddesign/2026/may/31/martin-parr-funeral-photographs-sophie-green"
+  ],
+  [
+    "brennan",
+    18,
+    "https://www.cbsnews.com/news/zelenskyy-ukraine-more-pressure-putin-negotiate-deal-russia/"
+  ],
+  [
+    "primary",
+    17,
+    "https://www.nytimes.com/2026/05/31/us/politics/trump-republican-primary-elections-midterms.html"
+  ],
+  [
+    "campaign",
+    17,
+    "https://www.nytimes.com/2026/05/31/us/politics/booker-platner-democrats-senate-midterms.html"
+  ],
+  [
+    "love",
+    17,
+    "https://www.nytimes.com/2026/05/31/opinion/heteropessimism-straight-dating-love.html"
+  ],
+  [
+    "game",
     17,
     "https://www.theguardian.com/sport/2026/may/31/oklahoma-city-thunder-san-antonio-spurs-nba-playoffs"
   ],
   [
-    "board",
+    "interview",
     17,
-    "https://www.theguardian.com/thefilter-us/2026/may/28/how-to-clean-cutting-board"
+    "https://www.theguardian.com/us-news/2026/may/31/trump-interior-secretary-concert-series"
   ],
   [
-    "love",
+    "cup",
+    17,
+    "https://www.theguardian.com/football/live/2026/may/31/usmnt-v-senegal-live-updates-analysis-lineups"
+  ],
+  [
+    "questions",
     16,
-    "https://www.nytimes.com/2026/05/31/opinion/heteropessimism-straight-dating-love.html"
+    "https://www.nytimes.com/2026/05/31/us/politics/booker-platner-democrats-senate-midterms.html"
   ],
   [
-    "mayor",
+    "replace",
     16,
-    "https://www.nytimes.com/2026/05/31/nyregion/israel-day-parade-nyc.html"
+    "https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html"
   ],
   [
-    "finals",
+    "democratic",
     16,
-    "https://www.theguardian.com/us-news/2026/may/31/new-york-knicks-zohran-mamdani"
+    "https://www.theguardian.com/us-news/2026/may/31/jasmeet-bains-california-congress-race-democrats"
   ],
   [
-    "san",
+    "children",
     16,
     "https://www.theguardian.com/commentisfree/2026/may/31/islamophobia-antisemitism-muslim-jewish-communities"
   ],
   [
-    "health",
+    "council",
     16,
-    "https://www.theguardian.com/commentisfree/2026/may/31/women-dont-need-menopause-tea-and-meno-friendly-nighties-they-need-doctors-to-take-them-seriously"
+    "https://www.theguardian.com/technology/2026/may/27/pope-leo-ai-comments-tell-us"
   ],
   [
-    "cup",
-    16,
-    "https://www.theguardian.com/sport/2026/may/31/claude-lemieuxs-brain-donated-to-cte-research-after-nhl-stars-death-at-age-of-60"
+    "iran",
+    15,
+    "https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html"
   ],
   [
     "outside",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/30/protests-ice-immigration-detention-center-new-jersey"
-  ],
-  [
-    "county",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/may/29/rafa-review-nadal-spain-greatest-ever-tennis-player-netflix"
-  ],
-  [
-    "york",
     15,
-    "https://www.nytimes.com/2026/05/31/nyregion/israel-day-parade-nyc.html"
+    "https://www.nytimes.com/2026/05/31/us/politics/trump-republican-primary-elections-midterms.html"
   ],
   [
-    "war",
+    "american",
     15,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "https://www.nytimes.com/2026/05/31/us/steve-hilton-california-governor.html"
   ],
   [
-    "won",
+    "really",
+    15,
+    "https://www.nytimes.com/2026/05/31/opinion/heteropessimism-straight-dating-love.html"
+  ],
+  [
+    "social",
+    15,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai"
+  ],
+  [
+    "decades",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans"
+  ],
+  [
+    "paxton",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans"
+  ],
+  [
+    "seat",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans"
+  ],
+  [
+    "series",
     15,
     "https://www.theguardian.com/sport/2026/may/31/oklahoma-city-thunder-san-antonio-spurs-nba-playoffs"
   ],
   [
-    "loved",
+    "enough",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/may/31/this-is-how-we-do-it-i-was-looking-for-a-one-night-stand-now-were-married-with-two-babies"
+    "https://www.theguardian.com/sport/2026/may/31/oklahoma-city-thunder-san-antonio-spurs-nba-playoffs"
   ],
   [
-    "always",
+    "young",
     15,
-    "https://www.theguardian.com/commentisfree/2026/may/31/taken-for-granted-spoilt-pig-syndrome-could-change-your-life"
+    "https://www.theguardian.com/us-news/2026/may/31/young-adults-financial-independence-affordability-crisis"
+  ],
+  [
+    "health",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/may/31/best-over-50-skin-care-products"
   ],
   [
     "challengers",
@@ -236,49 +281,64 @@
     "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
   ],
   [
-    "campaign",
+    "york",
     14,
-    "https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html"
+    "https://www.nytimes.com/2026/05/31/nyregion/israel-day-parade-nyc.html"
   ],
   [
-    "seat",
+    "immigration",
     14,
-    "https://www.nytimes.com/2026/05/30/us/politics/dan-sullivan-election-senate-alaska.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "primary",
+    "strike",
     14,
-    "https://www.nytimes.com/2026/05/30/us/politics/dan-sullivan-election-senate-alaska.html"
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
   ],
   [
-    "film",
+    "past",
     14,
-    "https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "court",
+    "having",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans"
+    "https://www.theguardian.com/us-news/2026/may/31/new-york-knicks-zohran-mamdani"
   ],
   [
-    "books",
+    "los",
     14,
-    "https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans"
+    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
   ],
   [
-    "enough",
+    "angeles",
     14,
-    "https://www.theguardian.com/world/2026/may/31/one-day-i-thought-thats-enough-the-people-fighting-back-against-pothole-riddled-roads"
+    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
   ],
   [
-    "social",
+    "star",
     14,
-    "https://www.theguardian.com/us-news/2026/may/31/young-adults-financial-independence-affordability-crisis"
+    "https://www.theguardian.com/film/2026/may/30/marilyn-monroe-exhibition-los-angeles"
+  ],
+  [
+    "feel",
+    14,
+    "https://www.theguardian.com/us-news/2026/may/30/los-angeles-world-cup-olympics-inglewood"
   ],
   [
     "buying",
     14,
-    "https://www.theguardian.com/games/2026/may/19/forza-horizon-6-review-classic-open-world-racing-sim-roars-beautifully-into-japan"
+    "https://www.theguardian.com/thefilter-us/2026/may/31/best-over-50-skin-care-products"
+  ],
+  [
+    "vice",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/may/31/right-solution-falling-birthrates-immigration-reform-maga"
+  ],
+  [
+    "board",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/may/28/how-to-clean-cutting-board"
   ],
   [
     "cooker",
@@ -286,93 +346,33 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
+    "mike",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/may/30/blind-date-ailsa-mike"
+  ],
+  [
     "biden",
     14,
     "https://www.latimes.com/politics/story/2026-05-31/california-governors-race-becerra-attack-from-washington-insiders"
   ],
   [
-    "congressional",
+    "administration",
     13,
-    "https://www.nytimes.com/2026/05/31/us/voting-rights-act-redistricting-southern-states.html"
+    "https://www.nytimes.com/2026/05/31/us/politics/trump-administration-exodus-of-lawyers.html"
   ],
   [
-    "democratic",
+    "general",
     13,
-    "https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html"
+    "https://www.nytimes.com/2026/05/31/us/politics/trump-administration-exodus-of-lawyers.html"
   ],
   [
-    "future",
+    "pressure",
     13,
-    "https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html"
+    "https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html"
   ],
   [
-    "place",
+    "wife",
     13,
-    "https://www.nytimes.com/2026/05/31/nyregion/israel-day-parade-nyc.html"
-  ],
-  [
-    "newark",
-    13,
-    "https://www.nytimes.com/2026/05/30/nyregion/delaney-hall-mikie-sherrill.html"
-  ],
-  [
-    "past",
-    13,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "latest",
-    13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "minister",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "john",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans"
-  ],
-  [
-    "decades",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans"
-  ],
-  [
-    "having",
-    13,
-    "https://www.theguardian.com/us-news/2026/may/31/new-york-knicks-zohran-mamdani"
-  ],
-  [
-    "thunder",
-    13,
-    "https://www.theguardian.com/sport/2026/may/31/oklahoma-city-thunder-san-antonio-spurs-nba-playoffs"
-  ],
-  [
-    "america",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/may/31/right-solution-falling-birthrates-immigration-reform-maga"
-  ],
-  [
-    "interview",
-    13,
-    "https://www.theguardian.com/football/2026/may/31/rinat-akhmetov-ukraines-richest-man-shakhtar-donetsk-owner-russia-interview"
-  ],
-  [
-    "american",
-    13,
-    "https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates"
-  ],
-  [
-    "monroe",
-    13,
-    "https://www.theguardian.com/film/2026/may/30/marilyn-monroe-exhibition-los-angeles"
-  ],
-  [
-    "replace",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/may/27/excuse-me-can-i-have-my-rug-back-agony-of-losing-furniture-as-well-as-your-soulmate"
+    "https://www.nytimes.com/2026/05/31/us/politics/booker-platner-democrats-senate-midterms.html"
   ]
 ];
