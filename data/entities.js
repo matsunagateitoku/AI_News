@@ -3,156 +3,94 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 27,
+      "count": 18,
       "url": "https://www.theguardian.com/us-news/2026/jun/01/rob-sand-iowa-democrat-midterm-election",
       "source": "The Guardian"
     },
     {
+      "name": "Serena Williams",
+      "count": 12,
+      "url": "https://www.theguardian.com/sport/2026/jun/01/serena-williams-comeback-aged-44-queens-club-london-doubles-victoria-mboko",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jill Biden",
+      "count": 11,
+      "url": "https://www.foxnews.com/media/jill-biden-confronted-touting-joes-debate-showing-despite-thinking-may-stroke-onstage",
+      "source": "Fox News"
+    },
+    {
       "name": "Graham Platner",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/05/31/us/politics/booker-platner-democrats-senate-midterms.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Marilyn Monroe",
-      "count": 6,
-      "url": "https://www.theguardian.com/film/2026/jun/01/marilyn-monroe-nude-final-photoshoot-lawrence-schiller-blond-bombshell",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Abelardo De La Espriella",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Pope Leo",
-      "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/01/trump-what-its-like-to-be-80",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Arne Slot",
-      "count": 5,
-      "url": "https://www.theguardian.com/football/2026/jun/01/andoni-iraola-liverpool-arne-slot-premier-league-bournemouth",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Chuck Schumer",
-      "count": 5,
-      "url": "https://www.nbcnews.com/politics/congress/chuck-schumer-lays-democrats-plan-fight-trumps-anti-weaponization-fund-rcna347802",
-      "source": "NBC News"
-    },
-    {
-      "name": "Marco Rubio",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/06/01/opinion/marco-rubio-florida.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Emmanuel Macron",
-      "count": 4,
-      "url": "https://www.theguardian.com/world/2026/jun/01/macron-french-navy-boarded-russia-linked-oil-tanker-atlantic",
-      "source": "The Guardian"
-    },
-    {
-      "name": "James Talarico",
-      "count": 4,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/01/texas-democrat-primary-james-talarico-votes",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump White House",
-      "count": 60,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-05-29/springsteen-trump-two-very-different-music-events",
-      "source": "LA Times"
-    },
-    {
-      "name": "Ai",
-      "count": 26,
-      "url": "https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Senate Armed Services Committee",
-      "count": 18,
-      "url": "https://thehill.com/homenews/senate/5901912-trump-iran-peace-deal-senate-republicans/",
-      "source": "The Hill"
-    },
-    {
-      "name": "The Filter Us",
       "count": 10,
-      "url": "https://www.theguardian.com/thefilter-us/2025/oct/04/travel-essentials-packing-list-us",
-      "source": "The Guardian"
+      "url": "https://www.foxnews.com/politics/platner-still-has-active-account-anonymous-app-dubbed-predators-paradise-amid-cheating-scandal",
+      "source": "Fox News"
     },
     {
-      "name": "The California Congressional District",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "The L.A. City Council",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Congress",
+      "name": "Donald Trump ’S",
       "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/jun/01/pregnant-minors-texas-ice-facility",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/01/john-oliver-trump-pardons-maga",
       "source": "The Guardian"
     },
     {
-      "name": "Gop",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-06-01/steyer-hilton-becerra-tuesday-governor-primary-race-newsom",
-      "source": "LA Times"
-    },
-    {
-      "name": "Guardian Australia",
+      "name": "Anthropic Files",
       "count": 8,
-      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/23/running-ultramarathon-what-does-it-take-run-100-miles-ultra-trail-australia",
+      "url": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Scott Pelley",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Backrooms",
+      "count": 6,
+      "url": "https://www.theguardian.com/film/2026/jun/01/youtube-gen-z-filmmakers",
       "source": "The Guardian"
     },
     {
-      "name": "Microsoft Windows",
+      "name": "Myles Garrett",
       "count": 6,
-      "url": "https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows",
+      "url": "https://www.theguardian.com/sport/2026/jun/01/myles-garrett-trade-cleveland-browns-los-angeles-rams",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hasan Piker",
+      "count": 6,
+      "url": "https://www.theguardian.com/politics/2026/jun/01/why-two-us-commentators-banned-from-uk-hasan-piker-cenk-uygur",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "Scottish World Cup",
-      "count": 9,
-      "url": "https://www.theguardian.com/music/2026/may/31/ed-obrien-honest-playlist-smiths-george-michael-scotland-1978-world-cup-squad",
+      "name": "The 2026 World Cup",
+      "count": 8,
+      "url": "https://www.theguardian.com/football/2026/jun/01/usmnt-senegal-tactical-analysis-sergino-dest-antonee-robinson",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympics",
+      "count": 2,
+      "url": "https://www.theguardian.com/us-news/2026/jun/01/los-angeles-fashion-district",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 3,
+      "count": 2,
       "url": "https://www.theguardian.com/fashion/gallery/2026/may/27/world-cup-of-kits-who-are-the-winners-for-2026",
       "source": "The Guardian"
-    },
-    {
-      "name": "Iran War Live Updates",
-      "count": 1,
-      "url": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran Targeted American Forces",
-      "count": 1,
-      "url": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
-      "source": "NY Times"
     },
     {
       "name": "The Iran War",
       "count": 1,
       "url": "https://www.nytimes.com/2026/06/01/world/middleeast/lebanon-hezbollah-disarm.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "A.I. Now They’Re Tearing Themselves Apart",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
       "source": "NY Times"
     },
     {
@@ -162,60 +100,72 @@
       "source": "The Guardian"
     },
     {
+      "name": "The Us Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jun/01/serena-williams-comeback-aged-44-queens-club-london-doubles-victoria-mboko",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The European Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/jun/01/psg-champions-league-ligue-1-arsenal",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cup 2026",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/jun/01/world-cup-2026-stadium-guide",
+      "source": "The Guardian"
+    },
+    {
       "name": "Inter Alia",
       "count": 1,
       "url": "https://www.theguardian.com/film/2026/jun/01/rosamund-pike-criticises-audience-member-texting-west-end-play-inter-alia",
-      "source": "The Guardian"
-    },
-    {
-      "name": "French Open 2026",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/live/2026/jun/01/french-open-tennis-2026-keys-cobolli-auger-aliassime-fourth-round-day-nine-live",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Stanley Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/may/31/claude-lemieuxs-brain-donated-to-cte-research-after-nhl-stars-death-at-age-of-60",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Spanish Civil War",
-      "count": 1,
-      "url": "https://www.theguardian.com/artanddesign/2026/jun/01/spain-family-answers-search-franco-uprising-disappeared-photo-essay",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
-      "name": "Us",
-      "count": 60,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/01/trump-what-its-like-to-be-80",
+      "name": "Us Senate",
+      "count": 49,
+      "url": "https://www.theguardian.com/us-news/2026/jun/01/senate-democrats-challenge-trump-slush-fund",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 45,
+      "count": 47,
       "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 30,
-      "url": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html",
       "source": "NY Times"
     },
     {
       "name": "Iran",
-      "count": 25,
-      "url": "https://www.nytimes.com/2026/06/01/business/oil-gas-price-iran.html",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/06/01/us/politics/trump-gas-prices-iran-war.html",
       "source": "NY Times"
     },
     {
-      "name": "Texas",
+      "name": "Israel",
+      "count": 18,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Openai",
       "count": 16,
-      "url": "https://www.nytimes.com/2026/06/01/us/politics/james-talarico-christian.html",
+      "url": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
       "source": "NY Times"
+    },
+    {
+      "name": "London",
+      "count": 16,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/01/the-pet-ill-never-forget-mush-the-cat",
+      "source": "The Guardian"
     },
     {
       "name": "L.A. County'S",
@@ -224,29 +174,79 @@
       "source": "LA Times"
     },
     {
-      "name": "Uk",
-      "count": 13,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/01/trump-what-its-like-to-be-80",
+      "name": "Florida",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/may/31/california-homelessness-hud-data",
       "source": "The Guardian"
     },
     {
-      "name": "Los Angeles County",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-sheriff-luna-villanueva-challengers-voter-guide",
+      "name": "Lebanon",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/06/01/world/middleeast/lebanon-hezbollah-disarm.html",
+      "source": "NY Times"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump On Truth Social",
+      "count": 48,
+      "url": "https://thehill.com/homenews/administration/5904329-trump-iran-talks-suspended/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Ai",
+      "count": 32,
+      "url": "https://www.theguardian.com/technology/2026/jun/01/anthropic-ai-ipo",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Trump White House",
+      "count": 14,
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-05-29/springsteen-trump-two-very-different-music-events",
       "source": "LA Times"
     },
     {
-      "name": "Israel",
-      "count": 9,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
+      "name": "Democratic Maine Senate",
+      "count": 11,
+      "url": "https://thehill.com/homenews/campaign/5904318-platner-collins-maine-senate/",
+      "source": "The Hill"
     },
     {
-      "name": "Germany",
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/thefilter-us/2025/oct/04/travel-essentials-packing-list-us",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-06-01/steyer-hilton-becerra-tuesday-governor-primary-race-newsom",
+      "source": "LA Times"
+    },
+    {
+      "name": "The California Congressional District",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Guardian News",
       "count": 9,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Congress",
+      "count": 9,
+      "url": "https://www.latimes.com/politics/story/2026-06-01/california-to-play-big-role-in-fight-for-congress-tuesdays-primary-sets-stage",
+      "source": "LA Times"
+    },
+    {
+      "name": "The L.A. City Council",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
+      "source": "LA Times"
     }
   ],
-  "updated": "2026-06-01T12:42:13Z"
+  "updated": "2026-06-01T18:41:44Z"
 };
