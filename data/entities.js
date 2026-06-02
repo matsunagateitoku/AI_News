@@ -3,27 +3,27 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 36,
+      "count": 27,
       "url": "https://www.theguardian.com/commentisfree/2026/jun/02/trump-republican-fraud-corruption-ilhan-omar",
       "source": "The Guardian"
     },
     {
-      "name": "Graham Platner",
-      "count": 15,
-      "url": "https://www.cbsnews.com/news/graham-platner-wife-told-campaign-about-sexually-explicit-texts-he-sent-other-women/",
-      "source": "CBS News"
+      "name": "Bill Pulte",
+      "count": 17,
+      "url": "https://www.nytimes.com/2025/11/14/business/bill-pulte-mobile-homes-fhfa.html",
+      "source": "NY Times"
     },
     {
-      "name": "Scott Pelley",
+      "name": "Donald Trump ’S",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/may/31/jasmeet-bains-california-congress-race-democrats",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Marco Rubio",
       "count": 11,
-      "url": "https://www.theguardian.com/media/2026/jun/01/60-minutes-scott-pelley-cbs-bari-weiss-cuts",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Bari Weiss",
-      "count": 9,
-      "url": "https://www.theguardian.com/media/2026/jun/01/60-minutes-scott-pelley-cbs-bari-weiss-cuts",
-      "source": "The Guardian"
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
     },
     {
       "name": "Benjamin Netanyahu",
@@ -32,115 +32,47 @@
       "source": "NY Times"
     },
     {
-      "name": "Charlie Berens",
+      "name": "Jill Biden",
+      "count": 8,
+      "url": "https://www.npr.org/2026/06/02/g-s1-125335/jill-biden-stroke-debate-doctor",
+      "source": "NPR"
+    },
+    {
+      "name": "Dua Lipa",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/video/2026/jun/01/ai-datacenters-charlie-berens",
+      "url": "https://www.theguardian.com/fashion/2026/jun/02/dua-lipa-wedding-bridal-suit-is-back",
       "source": "The Guardian"
     },
     {
-      "name": "Myles Garrett",
+      "name": "Tulsi Gabbard",
       "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/jun/01/myles-garrett-trade-cleveland-browns-los-angeles-rams",
+      "url": "https://www.theguardian.com/us-news/2026/jun/02/trump-bill-pulte-director-national-intelligence",
       "source": "The Guardian"
     },
     {
       "name": "Marilyn Monroe",
       "count": 6,
-      "url": "https://www.theguardian.com/film/2026/jun/01/marilyn-monroe-nude-final-photoshoot-lawrence-schiller-blond-bombshell",
+      "url": "https://www.theguardian.com/culture/2026/jun/03/the-misfits-movie-1961-marilyn-monroe-final-film-arthur-miller",
       "source": "The Guardian"
     },
     {
-      "name": "Marco Rubio",
-      "count": 5,
-      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Michael Ondaatje",
-      "count": 5,
-      "url": "https://www.theguardian.com/books/2026/jun/02/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-may",
+      "name": "Charlie Berens",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/video/2026/jun/01/ai-datacenters-charlie-berens",
       "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "California",
-      "count": 59,
-      "url": "https://www.nytimes.com/2026/06/02/podcasts/the-headlines/water-shortages-drought-hegseth-pentagon.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Us",
-      "count": 33,
-      "url": "https://www.theguardian.com/artanddesign/2026/jun/02/klingon-prison-barack-obamas-presidential-library-chicago",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 28,
-      "url": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 19,
-      "url": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 19,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Iowa",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/06/02/world/americas/us-colombia-gold-blacklist-sanctions.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Los Angeles County",
-      "count": 12,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-sheriff-luna-villanueva-challengers-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Texas",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/nation/2026/06/02/texas-detransition-clinic-offer-surgery-counseling-fertility-treatment/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "West Hollywood",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-supervisor-district-3-horvath-arey-sidenfaden-minasova-voter-guide",
-      "source": "LA Times"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Backs Off Plan",
-      "count": 53,
-      "url": "https://www.nytimes.com/2026/06/01/us/politics/trump-drop-weaponization-fund.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Democratic Maine Senate",
-      "count": 16,
-      "url": "https://thehill.com/homenews/senate/5904925-bernie-sanders-graham-platner/",
-      "source": "The Hill"
+      "name": "Trump White House",
+      "count": 65,
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-05-29/springsteen-trump-two-very-different-music-events",
+      "source": "LA Times"
     },
     {
       "name": "Ai",
-      "count": 13,
-      "url": "https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram",
+      "count": 35,
+      "url": "https://www.theguardian.com/us-news/2026/jun/02/trump-executive-order-ai-voluntary-review",
       "source": "The Guardian"
     },
     {
@@ -150,33 +82,27 @@
       "source": "NY Times"
     },
     {
-      "name": "Congress",
+      "name": "The New York Knicks",
       "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/aipac-aief-congress-israel-travel",
+      "url": "https://www.theguardian.com/sport/2026/jun/02/new-york-knicks-fandom-nba-finals",
       "source": "The Guardian"
     },
     {
-      "name": "Guardian News",
-      "count": 11,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Trump White House",
-      "count": 11,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-05-29/springsteen-trump-two-very-different-music-events",
-      "source": "LA Times"
-    },
-    {
-      "name": "Cbs News",
+      "name": "The Royal Opera House",
       "count": 10,
-      "url": "https://www.theguardian.com/media/2026/jun/01/60-minutes-scott-pelley-cbs-bari-weiss-cuts",
+      "url": "https://www.theguardian.com/music/2026/jun/02/ai-the-arts-opera-technology-rbo-shift-festival-netia-jones",
       "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
       "count": 10,
-      "url": "https://www.theguardian.com/thefilter-us/2025/oct/04/travel-essentials-packing-list-us",
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian News",
+      "count": 10,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
@@ -184,20 +110,38 @@
       "count": 10,
       "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "The L.A. City Council",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Senate Foreign Relations Committee",
+      "count": 9,
+      "url": "https://www.cbsnews.com/video/takeaways-from-rubio-testimony-before-senate-foreign-relations-committee/",
+      "source": "CBS News"
     }
   ],
   "EVENT": [
     {
-      "name": "The 2026 World Cup",
-      "count": 9,
-      "url": "https://www.theguardian.com/football/2026/jun/01/usmnt-senegal-tactical-analysis-sergino-dest-antonee-robinson",
+      "name": "World Cup Experts’ Network",
+      "count": 8,
+      "url": "https://www.theguardian.com/football/2026/jun/02/japan-world-cup-2026-team-guide",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
       "count": 3,
-      "url": "https://www.theguardian.com/fashion/gallery/2026/may/27/world-cup-of-kits-who-are-the-winners-for-2026",
+      "url": "https://www.theguardian.com/football/2026/jun/02/world-cup-arrival-usa-2026",
       "source": "The Guardian"
+    },
+    {
+      "name": "Iran War Live Updates",
+      "count": 2,
+      "url": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon",
+      "source": "NY Times"
     },
     {
       "name": "Pro Bowl",
@@ -206,47 +150,103 @@
       "source": "The Guardian"
     },
     {
+      "name": "The U.S.-Israeli War",
+      "count": 2,
+      "url": "https://www.cbsnews.com/video/understanding-hezbollahs-role-in-the-us-israeli-war-with-iran/",
+      "source": "CBS News"
+    },
+    {
       "name": "’S World Cup",
       "count": 2,
       "url": "https://www.nbcnews.com/sports/soccer/matt-freese-harvard-usmnt-fifa-world-cup-rcna345907",
       "source": "NBC News"
     },
     {
-      "name": "The Iran War",
-      "count": 2,
-      "url": "https://thehill.com/homenews/senate/5905001-strait-hormuz-iran-israel/",
-      "source": "The Hill"
+      "name": "Faltering War",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-russia-war-strikes.html",
+      "source": "NY Times"
     },
     {
-      "name": "Iran War Live Updates",
+      "name": "Iran Reveals",
       "count": 1,
+      "url": "https://www.nytimes.com/2026/06/02/world/middleeast/ayatollah-khamenei-funeral-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Underworld",
+      "count": 1,
+      "url": "https://www.theguardian.com/film/2026/jun/02/masters-of-the-universe-amazon-he-man-movie-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The French Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jun/02/alexander-zverev-rafael-jodar-french-open-tennis",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "California",
+      "count": 60,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/02/democrats-tom-steyer-california-governor-race",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Us",
+      "count": 45,
+      "url": "https://www.theguardian.com/us-news/2026/jun/02/lawsuit-trump-administration-windfarm-leases",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 21,
       "url": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon",
       "source": "NY Times"
     },
     {
-      "name": "French Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/jun/01/sabalenka-powers-past-osaka-in-first-womens-night-match-in-paris-since-2023",
-      "source": "The Guardian"
+      "name": "L.A. County'S",
+      "count": 21,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
     },
     {
-      "name": "The European Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jun/01/psg-champions-league-ligue-1-arsenal",
-      "source": "The Guardian"
+      "name": "U.S.",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/06/02/world/africa/kenya-ebola-us-quarantine-unit-court.html",
+      "source": "NY Times"
     },
     {
-      "name": "Game 7",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/jun/01/victor-wembanyama-san-antonio-spurs-nba-finals",
-      "source": "The Guardian"
+      "name": "Iran",
+      "count": 16,
+      "url": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon",
+      "source": "NY Times"
     },
     {
-      "name": "The Fifa World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/world/2026/jun/01/mexico-city-teachers-protest",
-      "source": "The Guardian"
+      "name": "Iowa",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Los Angeles County",
+      "count": 14,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-sheriff-luna-villanueva-challengers-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Lebanon",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/06/02/world/middleeast/lebanon-israel-us-threats-diplomacy.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Kenya",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/06/02/world/africa/kenya-ebola-us-quarantine-unit-court.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-06-02T11:21:43Z"
+  "updated": "2026-06-02T17:27:11Z"
 };

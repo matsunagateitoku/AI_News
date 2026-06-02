@@ -2,108 +2,103 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    90,
+    110,
     "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
   ],
   [
     "race",
     72,
-    "https://www.nytimes.com/2026/06/02/podcasts/the-headlines/water-shortages-drought-hegseth-pentagon.html"
+    "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html"
+  ],
+  [
+    "california",
+    65,
+    "https://www.theguardian.com/commentisfree/2026/jun/02/democrats-tom-steyer-california-governor-race"
   ],
   [
     "guide",
     65,
-    "https://www.theguardian.com/thefilter-us/2026/jun/01/best-smart-lights"
-  ],
-  [
-    "california",
-    62,
-    "https://www.nytimes.com/2026/06/02/podcasts/the-headlines/water-shortages-drought-hegseth-pentagon.html"
+    "https://www.theguardian.com/football/2026/jun/02/japan-world-cup-2026-team-guide"
   ],
   [
     "district",
-    45,
-    "https://www.theguardian.com/us-news/2026/jun/01/california-robert-garcia-huntington-beach-congress-race"
+    50,
+    "https://www.theguardian.com/us-news/2026/may/31/jasmeet-bains-california-congress-race-democrats"
   ],
   [
     "president",
-    36,
+    48,
     "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
   ],
   [
     "democrats",
-    36,
-    "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html"
+    32,
+    "https://www.nytimes.com/2025/11/14/business/bill-pulte-mobile-homes-fhfa.html"
   ],
   [
-    "israel",
-    34,
-    "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
-  ],
-  [
-    "rice",
-    31,
-    "https://www.theguardian.com/football/2026/jun/01/champions-league-team-of-the-season-lamine-yamal-harry-kane"
-  ],
-  [
-    "fund",
-    27,
-    "https://www.nytimes.com/2026/06/01/us/politics/trump-drop-weaponization-fund.html"
-  ],
-  [
-    "democratic",
-    27,
-    "https://www.nytimes.com/2026/06/02/briefing/inside-the-ebola-outbreak.html"
-  ],
-  [
-    "political",
-    26,
-    "https://www.nytimes.com/2026/06/01/us/politics/trump-drop-weaponization-fund.html"
-  ],
-  [
-    "election",
-    26,
-    "https://www.nytimes.com/2026/06/02/us/elections/california-primary-what-to-watch.html"
-  ],
-  [
-    "faces",
-    26,
-    "https://www.nytimes.com/2026/06/02/nyregion/mamdani-jobs-nyc.html"
+    "family",
+    29,
+    "https://www.nytimes.com/2025/11/14/business/bill-pulte-mobile-homes-fhfa.html"
   ],
   [
     "war",
-    24,
-    "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
-  ],
-  [
-    "iran",
-    23,
+    27,
     "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
   ],
   [
     "primary",
+    25,
+    "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html"
+  ],
+  [
+    "faces",
+    25,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/02/hollywood-acting-plastic-surgery"
+  ],
+  [
+    "election",
+    25,
+    "https://www.theguardian.com/us-news/2026/jun/02/california-jungle-primary-explainer"
+  ],
+  [
+    "democratic",
     23,
-    "https://www.nytimes.com/2026/06/02/us/elections/california-primary-what-to-watch.html"
+    "https://www.nytimes.com/2026/06/02/briefing/inside-the-ebola-outbreak.html"
   ],
   [
     "film",
     23,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/01/euphoria-season-finale"
+    "https://www.theguardian.com/stage/2026/jun/02/girl-interrupted-show-reinvention-new-generation"
+  ],
+  [
+    "order",
+    23,
+    "https://www.theguardian.com/us-news/2026/jun/02/trump-executive-order-ai-voluntary-review"
   ],
   [
     "county",
+    23,
+    "https://www.theguardian.com/music/2026/jun/02/sabrina-carpenter-stalker-restraining-order"
+  ],
+  [
+    "iran",
     22,
-    "https://www.theguardian.com/books/2026/jun/01/land-by-maggie-ofarrell-review-an-ambitious-story-of-mapmaking-in-ireland"
+    "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
   ],
   [
-    "family",
-    21,
-    "https://www.theguardian.com/artanddesign/2026/jun/02/klingon-prison-barack-obamas-presidential-library-chicago"
+    "israel",
+    22,
+    "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
   ],
   [
-    "love",
+    "york",
+    22,
+    "https://www.nytimes.com/2025/11/14/business/bill-pulte-mobile-homes-fhfa.html"
+  ],
+  [
+    "director",
     21,
-    "https://www.theguardian.com/books/2026/jun/02/classic-novels-relearn-how-to-read-distractions-screens"
+    "https://www.theguardian.com/lifeandstyle/2026/jun/02/hollywood-acting-plastic-surgery"
   ],
   [
     "incumbent",
@@ -111,169 +106,204 @@
     "https://www.theguardian.com/us-news/2026/jun/01/california-robert-garcia-huntington-beach-congress-race"
   ],
   [
-    "cup",
-    21,
-    "https://www.theguardian.com/football/2026/jun/01/psg-champions-league-ligue-1-arsenal"
+    "don",
+    20,
+    "https://www.nytimes.com/2026/06/02/us/politics/trump-budget-grants-omb-vought.html"
   ],
   [
-    "republicans",
+    "series",
+    20,
+    "https://www.nytimes.com/2026/06/02/arts/television/late-night-trump-freedom-250-concerts.html"
+  ],
+  [
+    "political",
     20,
     "https://www.theguardian.com/commentisfree/2026/jun/02/trump-republican-fraud-corruption-ilhan-omar"
   ],
   [
-    "police",
+    "office",
     20,
-    "https://www.theguardian.com/us-news/2026/jun/02/iowa-shooting-domestic-gunman-suspected-killing-relatives-then-himself"
+    "https://www.theguardian.com/us-news/2026/jun/02/california-jungle-primary-explainer"
+  ],
+  [
+    "intelligence",
+    20,
+    "https://www.theguardian.com/us-news/2026/jun/02/trump-bill-pulte-director-national-intelligence"
+  ],
+  [
+    "los",
+    20,
+    "https://www.theguardian.com/music/2026/jun/02/sabrina-carpenter-stalker-restraining-order"
+  ],
+  [
+    "angeles",
+    20,
+    "https://www.theguardian.com/music/2026/jun/02/sabrina-carpenter-stalker-restraining-order"
+  ],
+  [
+    "congressional",
+    20,
+    "https://www.theguardian.com/us-news/2026/may/31/new-jersey-congress-adam-hamawy"
+  ],
+  [
+    "board",
+    20,
+    "https://www.theguardian.com/thefilter-us/2026/may/28/how-to-clean-cutting-board"
   ],
   [
     "candidates",
-    20,
-    "https://www.theguardian.com/us-news/2026/jun/01/tech-billionaires-california-elections"
-  ],
-  [
-    "media",
     19,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/01/euphoria-season-finale"
+    "https://www.nytimes.com/2026/06/01/us/politics/iowa-senate-primary-turek-wahls.html"
   ],
   [
     "court",
     19,
-    "https://www.theguardian.com/us-news/2026/jun/01/senate-democrats-challenge-trump-slush-fund"
+    "https://www.nytimes.com/2026/06/02/world/africa/kenya-ebola-us-quarantine-unit-court.html"
   ],
   [
-    "vote",
-    19,
-    "https://www.theguardian.com/us-news/2026/jun/01/tech-billionaires-california-elections"
-  ],
-  [
-    "game",
-    19,
-    "https://www.theguardian.com/football/2026/jun/01/psg-champions-league-ligue-1-arsenal"
-  ],
-  [
-    "iowa",
+    "housing",
     18,
-    "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html"
+    "https://www.nytimes.com/2025/11/14/business/bill-pulte-mobile-homes-fhfa.html"
   ],
   [
-    "south",
+    "pulte",
     18,
-    "https://www.theguardian.com/artanddesign/2026/jun/02/klingon-prison-barack-obamas-presidential-library-chicago"
+    "https://www.nytimes.com/2025/11/14/business/bill-pulte-mobile-homes-fhfa.html"
   ],
   [
-    "los",
-    17,
-    "https://www.nytimes.com/2026/06/02/us/elections/california-primary-what-to-watch.html"
+    "administration",
+    18,
+    "https://www.nytimes.com/2026/06/02/us/politics/trump-budget-grants-omb-vought.html"
   ],
   [
-    "angeles",
-    17,
-    "https://www.nytimes.com/2026/06/02/us/elections/california-primary-what-to-watch.html"
+    "cup",
+    18,
+    "https://www.theguardian.com/football/2026/jun/02/world-cup-arrival-usa-2026"
   ],
   [
-    "senate",
+    "bill",
     17,
-    "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html"
+    "https://www.nytimes.com/2025/11/14/business/bill-pulte-mobile-homes-fhfa.html"
   ],
   [
-    "don",
+    "governor",
     17,
-    "https://www.nytimes.com/2026/06/02/business/economy/birthright-citizenship-ireland-germany-trump.html"
+    "https://www.nytimes.com/2025/11/14/business/bill-pulte-mobile-homes-fhfa.html"
   ],
   [
     "anti",
     17,
-    "https://www.theguardian.com/us-news/2026/jun/01/senate-democrats-challenge-trump-slush-fund"
+    "https://www.nytimes.com/2026/06/02/us/politics/trump-budget-grants-omb-vought.html"
   ],
   [
-    "social",
+    "early",
     17,
-    "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "primaries",
+    "replace",
     17,
-    "https://www.theguardian.com/us-news/live/2026/jun/02/donald-trump-primaries-midterms-california-governor-iran-latest-news-updates"
+    "https://www.theguardian.com/commentisfree/2026/jun/02/ai-sycophancy-risk-to-society-grasp-reality"
   ],
   [
-    "council",
+    "game",
+    17,
+    "https://www.theguardian.com/film/2026/jun/01/youtube-gen-z-filmmakers"
+  ],
+  [
+    "senate",
     16,
-    "https://www.nytimes.com/2026/06/01/world/middleeast/un-security-council-lebanon.html"
+    "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html"
   ],
   [
-    "challengers",
+    "country",
     16,
-    "https://www.nytimes.com/2026/06/02/us/elections/california-primary-what-to-watch.html"
+    "https://www.nytimes.com/2026/06/02/opinion/trump-corruption-allies.html"
   ],
   [
-    "races",
+    "night",
     16,
-    "https://www.nytimes.com/2026/06/02/nyregion/aipac-spending-campaign-super-pac.html"
+    "https://www.nytimes.com/2026/06/02/arts/television/late-night-trump-freedom-250-concerts.html"
   ],
   [
-    "military",
+    "donald",
     16,
-    "https://www.nytimes.com/2026/06/02/nyregion/aipac-spending-campaign-super-pac.html"
+    "https://www.theguardian.com/commentisfree/2026/jun/02/trump-republican-fraud-corruption-ilhan-omar"
   ],
   [
-    "killed",
+    "voters",
     16,
-    "https://www.theguardian.com/world/2026/jun/02/ukraine-war-russia-air-raids-strike-kyiv-dnipro-kharkiv"
+    "https://www.theguardian.com/us-news/2026/jun/02/california-jungle-primary-explainer"
   ],
   [
-    "israeli",
-    15,
-    "https://www.nytimes.com/2026/06/02/world/middleeast/israel-lebanon-hezbollah.html"
+    "department",
+    16,
+    "https://www.theguardian.com/world/2026/jun/02/pope-leo-first-lay-woman-top-position-vatican-maria-montserrat-alvarado"
   ],
   [
-    "party",
+    "seat",
+    16,
+    "https://www.theguardian.com/us-news/2026/may/31/jasmeet-bains-california-congress-race-democrats"
+  ],
+  [
+    "cbs",
+    16,
+    "https://www.latimes.com/entertainment-arts/business/story/2026-06-01/60-minutes-veteran-scott-pelley-rips-cbs-news-bari-weiss"
+  ],
+  [
+    "running",
     15,
     "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html"
   ],
   [
-    "york",
+    "latest",
     15,
-    "https://www.nytimes.com/2026/06/02/nyregion/mamdani-jobs-nyc.html"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "states",
-    15,
-    "https://www.nytimes.com/2026/06/02/business/economy/birthright-citizenship-ireland-germany-trump.html"
-  ],
-  [
-    "series",
-    15,
-    "https://www.nytimes.com/2026/06/02/arts/television/late-night-trump-freedom-250-concerts.html"
-  ],
-  [
-    "country",
-    15,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "team",
+    "secretary",
     15,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "cbs",
+    "star",
     15,
-    "https://www.theguardian.com/media/2026/jun/01/60-minutes-scott-pelley-cbs-bari-weiss-cuts"
+    "https://www.theguardian.com/stage/2026/jun/02/girl-interrupted-show-reinvention-new-generation"
   ],
   [
-    "governor",
-    14,
-    "https://www.nytimes.com/2026/06/02/podcasts/the-headlines/water-shortages-drought-hegseth-pentagon.html"
+    "government",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/02/trump-executive-order-ai-voluntary-review"
   ],
   [
-    "summer",
-    14,
-    "https://www.nytimes.com/2026/06/02/arts/television/late-night-trump-freedom-250-concerts.html"
+    "love",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/01/rob-sand-iowa-democrat-midterm-election"
   ],
   [
-    "doing",
+    "vote",
+    15,
+    "https://www.theguardian.com/football/2026/jun/02/world-cup-arrival-usa-2026"
+  ],
+  [
+    "mayor",
+    15,
+    "https://www.theguardian.com/sport/2026/jun/02/zohran-mamdani-bedtimes-new-york-knicks-nba-finals"
+  ],
+  [
+    "council",
+    15,
+    "https://www.theguardian.com/technology/2026/may/27/pope-leo-ai-comments-tell-us"
+  ],
+  [
+    "challengers",
+    15,
+    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
+  ],
+  [
+    "iowa",
     14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html"
   ],
   [
     "term",
@@ -281,98 +311,68 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "brown",
+    "change",
     14,
-    "https://www.theguardian.com/commentisfree/2026/jun/02/trump-republican-fraud-corruption-ilhan-omar"
-  ],
-  [
-    "office",
-    14,
-    "https://www.theguardian.com/artanddesign/2026/jun/02/klingon-prison-barack-obamas-presidential-library-chicago"
+    "https://www.theguardian.com/fashion/2026/jun/02/dua-lipa-wedding-bridal-suit-is-back"
   ],
   [
     "because",
     14,
-    "https://www.theguardian.com/books/2026/jun/02/classic-novels-relearn-how-to-read-distractions-screens"
+    "https://www.theguardian.com/sport/2026/jun/02/new-york-knicks-fandom-nba-finals"
   ],
   [
-    "smart",
+    "republican",
     14,
-    "https://www.theguardian.com/books/2026/jun/02/classic-novels-relearn-how-to-read-distractions-screens"
+    "https://www.theguardian.com/us-news/2026/jun/02/california-jungle-primary-explainer"
   ],
   [
-    "something",
+    "models",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/01/euphoria-season-finale"
+    "https://www.theguardian.com/us-news/2026/jun/02/trump-executive-order-ai-voluntary-review"
   ],
   [
-    "star",
+    "food",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/01/euphoria-season-finale"
+    "https://www.theguardian.com/commentisfree/2026/jun/02/ice-detention-camp-delaney-hall"
   ],
   [
-    "congressional",
+    "fund",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/02/aipac-aief-congress-israel-travel"
+    "https://www.theguardian.com/us-news/2026/jun/02/trumps-anti-weaponization-slush-fund-allies"
   ],
   [
-    "politics",
+    "killed",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/02/aipac-aief-congress-israel-travel"
+    "https://www.theguardian.com/world/2026/jun/02/ukraine-war-russia-air-raids-strike-kyiv-dnipro-kharkiv"
   ],
   [
-    "weaponization",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/01/senate-democrats-challenge-trump-slush-fund"
-  ],
-  [
-    "far",
-    14,
-    "https://www.theguardian.com/football/2026/jun/01/psg-champions-league-ligue-1-arsenal"
-  ],
-  [
-    "board",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/may/28/how-to-clean-cutting-board"
-  ],
-  [
-    "cooker",
-    14,
-    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
-  ],
-  [
-    "platner",
-    14,
-    "https://www.cbsnews.com/news/graham-platner-wife-told-campaign-about-sexually-explicit-texts-he-sent-other-women/"
-  ],
-  [
-    "experts",
+    "general",
     13,
-    "https://www.nytimes.com/2026/06/02/science/ai-mathematics-leiden-declaration.html"
+    "https://www.nytimes.com/2025/11/14/business/bill-pulte-mobile-homes-fhfa.html"
   ],
   [
-    "early",
+    "party",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html"
   ],
   [
-    "american",
+    "ebola",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/01/euphoria-season-finale"
+    "https://www.nytimes.com/2026/06/02/health/ebola-tests-congo.html"
   ],
   [
-    "season",
+    "signs",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/01/euphoria-season-finale"
+    "https://www.nytimes.com/2026/06/02/world/europe/ukraine-russia-war-strikes.html"
   ],
   [
-    "voters",
+    "states",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/02/aipac-aief-congress-israel-travel"
+    "https://www.nytimes.com/2026/06/02/business/economy/birthright-citizenship-ireland-germany-trump.html"
   ],
   [
-    "seat",
+    "late",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/01/california-robert-garcia-huntington-beach-congress-race"
+    "https://www.nytimes.com/2026/06/02/arts/television/late-night-trump-freedom-250-concerts.html"
   ]
 ];
