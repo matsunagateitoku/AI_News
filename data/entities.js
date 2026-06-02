@@ -3,14 +3,8 @@
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/2026/jun/01/mexico-city-teachers-protest",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Olympics",
-      "count": 2,
-      "url": "https://www.theguardian.com/us-news/2026/jun/01/los-angeles-fashion-district",
+      "count": 8,
+      "url": "https://www.theguardian.com/football/2026/jun/01/usmnt-senegal-tactical-analysis-sergino-dest-antonee-robinson",
       "source": "The Guardian"
     },
     {
@@ -20,16 +14,22 @@
       "source": "The Guardian"
     },
     {
-      "name": "Game 7",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/jun/01/victor-wembanyama-san-antonio-spurs-nba-finals",
-      "source": "The Guardian"
-    },
-    {
       "name": "The World Cup",
       "count": 2,
       "url": "https://www.theguardian.com/fashion/gallery/2026/may/27/world-cup-of-kits-who-are-the-winners-for-2026",
       "source": "The Guardian"
+    },
+    {
+      "name": "Vietnam War",
+      "count": 2,
+      "url": "https://www.latimes.com/opinion/story/2026-05-27/speedy-express-atrocity-vietnam-war-trump-era",
+      "source": "LA Times"
+    },
+    {
+      "name": "The French Open",
+      "count": 2,
+      "url": "https://www.foxnews.com/sports/tiafoes-heartbreaking-french-open-collapse-ends-americas-last-hope-roland-garros",
+      "source": "Fox News"
     },
     {
       "name": "A.I. Now They’Re Tearing Themselves Apart",
@@ -50,103 +50,97 @@
       "source": "The Guardian"
     },
     {
-      "name": "Inter Alia",
+      "name": "Game 7",
       "count": 1,
-      "url": "https://www.theguardian.com/film/2026/jun/01/rosamund-pike-criticises-audience-member-texting-west-end-play-inter-alia",
+      "url": "https://www.theguardian.com/sport/2026/jun/01/victor-wembanyama-san-antonio-spurs-nba-finals",
       "source": "The Guardian"
     },
     {
-      "name": "Scottish World Cup",
+      "name": "The Fifa World Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/music/2026/may/31/ed-obrien-honest-playlist-smiths-george-michael-scotland-1978-world-cup-squad",
+      "url": "https://www.theguardian.com/world/2026/jun/01/mexico-city-teachers-protest",
       "source": "The Guardian"
     }
   ],
-  "ORG": [
+  "GPE": [
     {
-      "name": "Trump Administration&Apos;S Title Ix",
-      "count": 56,
-      "url": "https://www.foxnews.com/outkick-analysis/education-secretary-linda-mcmahon-rips-california-trans-athlete-compromise-gavin-newsom",
-      "source": "Fox News"
-    },
-    {
-      "name": "Ai",
-      "count": 32,
-      "url": "https://www.theguardian.com/us-news/video/2026/jun/01/ai-datacenters-charlie-berens",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 17,
-      "url": "https://www.latimes.com/california/story/2026-06-01/steyer-hilton-becerra-tuesday-governor-primary-race-newsom",
-      "source": "LA Times"
-    },
-    {
-      "name": "Cbs News Boss",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html",
+      "name": "California",
+      "count": 57,
+      "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
       "source": "NY Times"
     },
     {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/thefilter-us/2025/oct/04/travel-essentials-packing-list-us",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas Senate",
-      "count": 11,
-      "url": "https://www.politico.com/news/2026/05/26/paxton-wins-texas-senate-runoff-00937454",
-      "source": "Politico"
-    },
-    {
-      "name": "The California Congressional District",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Trump White House",
-      "count": 10,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-05-29/springsteen-trump-two-very-different-music-events",
-      "source": "LA Times"
-    },
-    {
-      "name": "Guardian News",
-      "count": 9,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The L.A. City Council",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-1-voter-guide",
-      "source": "LA Times"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 16,
+      "name": "Us",
+      "count": 41,
       "url": "https://www.theguardian.com/commentisfree/2026/jun/01/trump-iran-war-plan",
       "source": "The Guardian"
     },
     {
-      "name": "Anthropic Files",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
+      "name": "Iran",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/06/01/us/politics/trump-iran-negotiations-boring.html",
       "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/06/01/nyregion/nyc-synagogue-plot-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/06/01/world/middleeast/un-security-council-lebanon.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 15,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Texas",
+      "count": 12,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/01/texas-democrat-primary-james-talarico-votes",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Los Angeles County",
+      "count": 11,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-sheriff-luna-villanueva-challengers-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "West Hollywood",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-supervisor-district-3-horvath-arey-sidenfaden-minasova-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "London",
+      "count": 9,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/01/the-pet-ill-never-forget-mush-the-cat",
+      "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Graham Platner",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/06/01/us/politics/mills-platner-maine-democratic-senate-primary.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 22,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/01/trump-iran-war-plan",
+      "source": "The Guardian"
     },
     {
       "name": "Scott Pelley",
-      "count": 10,
+      "count": 14,
       "url": "https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Graham Platner",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/06/01/us/politics/mills-platner-maine-democratic-senate-primary.html",
       "source": "NY Times"
     },
     {
@@ -157,6 +151,24 @@
     },
     {
       "name": "Bari Weiss",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Marilyn Monroe Fans Descended",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/06/01/style/marilyn-monroe-100th-birthday.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Myles Garrett",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/jun/01/myles-garrett-trade-cleveland-browns-los-angeles-rams",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nick Bilton",
       "count": 6,
       "url": "https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html",
       "source": "NY Times"
@@ -168,85 +180,73 @@
       "source": "The Guardian"
     },
     {
-      "name": "Serena Williams",
+      "name": "Jill Biden",
       "count": 6,
-      "url": "https://www.latimes.com/sports/story/2026-06-01/serena-williams-return-tennis-queens-club-hsbc-championship-london-wimbledon",
-      "source": "LA Times"
-    },
-    {
-      "name": "Pope Leo",
-      "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/01/trump-what-its-like-to-be-80",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Myles Garrett",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/jun/01/myles-garrett-trade-cleveland-browns-los-angeles-rams",
-      "source": "The Guardian"
+      "url": "https://www.cbsnews.com/video/former-first-lady-jill-biden-scrutiny-sunday-morning-interview-new-book/",
+      "source": "CBS News"
     }
   ],
-  "GPE": [
+  "ORG": [
     {
-      "name": "Us Senate",
-      "count": 53,
+      "name": "Trump Backs Off Plan",
+      "count": 55,
+      "url": "https://www.nytimes.com/2026/06/01/us/politics/trump-drop-weaponization-fund.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Democratic Maine Senate",
+      "count": 16,
+      "url": "https://thehill.com/homenews/senate/5904925-bernie-sanders-graham-platner/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Cbs News Boss",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ai",
+      "count": 15,
+      "url": "https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Congress",
+      "count": 10,
       "url": "https://www.theguardian.com/us-news/2026/jun/01/senate-democrats-challenge-trump-slush-fund",
       "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 51,
-      "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 17,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Iran",
-      "count": 17,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/01/trump-iran-war-plan",
+      "name": "White House",
+      "count": 10,
+      "url": "https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 16,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "London",
-      "count": 16,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/01/the-pet-ill-never-forget-mush-the-cat",
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/thefilter-us/2025/oct/04/travel-essentials-packing-list-us",
       "source": "The Guardian"
     },
     {
-      "name": "L.A. County'S",
-      "count": 16,
-      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-county-measure-er-healthcare-sales-tax-voter-guide",
+      "name": "Gop",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-06-01/steyer-hilton-becerra-tuesday-governor-primary-race-newsom",
       "source": "LA Times"
     },
     {
-      "name": "Openai",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/01/trump-what-its-like-to-be-80",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Canada",
+      "name": "The California Congressional District",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/06/01/world/canada/canada-alberta-separation-referendum-vote.html",
-      "source": "NY Times"
+      "url": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Guardian News",
+      "count": 9,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-06-01T22:12:47Z"
+  "updated": "2026-06-02T05:53:17Z"
 };
