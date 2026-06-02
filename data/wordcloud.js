@@ -2,23 +2,23 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    87,
-    "https://www.nytimes.com/2026/06/01/us/politics/trump-drop-weaponization-fund.html"
+    90,
+    "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
   ],
   [
     "race",
-    71,
-    "https://www.nytimes.com/2026/06/01/us/politics/mills-platner-maine-democratic-senate-primary.html"
+    72,
+    "https://www.nytimes.com/2026/06/02/podcasts/the-headlines/water-shortages-drought-hegseth-pentagon.html"
   ],
   [
     "guide",
-    67,
+    65,
     "https://www.theguardian.com/thefilter-us/2026/jun/01/best-smart-lights"
   ],
   [
     "california",
-    61,
-    "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html"
+    62,
+    "https://www.nytimes.com/2026/06/02/podcasts/the-headlines/water-shortages-drought-hegseth-pentagon.html"
   ],
   [
     "district",
@@ -27,53 +27,63 @@
   ],
   [
     "president",
-    37,
-    "https://www.nytimes.com/2026/06/01/us/politics/trump-drop-weaponization-fund.html"
+    36,
+    "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
   ],
   [
     "democrats",
-    34,
-    "https://www.theguardian.com/us-news/2026/jun/01/senate-democrats-challenge-trump-slush-fund"
+    36,
+    "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html"
   ],
   [
-    "democratic",
-    32,
-    "https://www.nytimes.com/2026/06/01/us/politics/mills-platner-maine-democratic-senate-primary.html"
+    "israel",
+    34,
+    "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
   ],
   [
     "rice",
-    32,
+    31,
     "https://www.theguardian.com/football/2026/jun/01/champions-league-team-of-the-season-lamine-yamal-harry-kane"
   ],
   [
     "fund",
-    31,
+    27,
+    "https://www.nytimes.com/2026/06/01/us/politics/trump-drop-weaponization-fund.html"
+  ],
+  [
+    "democratic",
+    27,
+    "https://www.nytimes.com/2026/06/02/briefing/inside-the-ebola-outbreak.html"
+  ],
+  [
+    "political",
+    26,
     "https://www.nytimes.com/2026/06/01/us/politics/trump-drop-weaponization-fund.html"
   ],
   [
     "election",
-    28,
-    "https://www.theguardian.com/us-news/2026/jun/01/tech-billionaires-california-elections"
-  ],
-  [
-    "police",
     26,
-    "https://www.theguardian.com/us-news/2026/jun/02/iowa-shooting-domestic-gunman-suspected-killing-relatives-then-himself"
+    "https://www.nytimes.com/2026/06/02/us/elections/california-primary-what-to-watch.html"
   ],
   [
-    "county",
+    "faces",
     26,
-    "https://www.theguardian.com/us-news/2026/jun/01/miami-dade-fisher-island-dispute"
+    "https://www.nytimes.com/2026/06/02/nyregion/mamdani-jobs-nyc.html"
   ],
   [
-    "platner",
+    "war",
     24,
-    "https://www.nytimes.com/2026/06/01/us/politics/mills-platner-maine-democratic-senate-primary.html"
+    "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
   ],
   [
-    "family",
-    24,
-    "https://www.theguardian.com/commentisfree/2026/jun/01/dementia-ageing-parents-healthcare-cost"
+    "iran",
+    23,
+    "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
+  ],
+  [
+    "primary",
+    23,
+    "https://www.nytimes.com/2026/06/02/us/elections/california-primary-what-to-watch.html"
   ],
   [
     "film",
@@ -81,124 +91,109 @@
     "https://www.theguardian.com/tv-and-radio/2026/jun/01/euphoria-season-finale"
   ],
   [
-    "game",
-    23,
-    "https://www.theguardian.com/film/2026/jun/01/youtube-gen-z-filmmakers"
+    "county",
+    22,
+    "https://www.theguardian.com/books/2026/jun/01/land-by-maggie-ofarrell-review-an-ambitious-story-of-mapmaking-in-ireland"
+  ],
+  [
+    "family",
+    21,
+    "https://www.theguardian.com/artanddesign/2026/jun/02/klingon-prison-barack-obamas-presidential-library-chicago"
   ],
   [
     "love",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/jun/01/trump-iran-war-plan"
-  ],
-  [
-    "anti",
-    22,
-    "https://www.theguardian.com/us-news/2026/jun/01/senate-democrats-challenge-trump-slush-fund"
+    21,
+    "https://www.theguardian.com/books/2026/jun/02/classic-novels-relearn-how-to-read-distractions-screens"
   ],
   [
     "incumbent",
-    22,
+    21,
     "https://www.theguardian.com/us-news/2026/jun/01/california-robert-garcia-huntington-beach-congress-race"
   ],
   [
-    "faces",
-    22,
-    "https://www.theguardian.com/thefilter-us/2026/may/26/what-readers-bought-may"
-  ],
-  [
-    "iran",
+    "cup",
     21,
-    "https://www.nytimes.com/2026/06/01/us/politics/trump-iran-negotiations-boring.html"
+    "https://www.theguardian.com/football/2026/jun/01/psg-champions-league-ligue-1-arsenal"
   ],
   [
-    "war",
-    21,
-    "https://www.nytimes.com/2026/06/01/nyregion/nyc-synagogue-plot-iran.html"
-  ],
-  [
-    "cbs",
-    21,
-    "https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html"
-  ],
-  [
-    "primary",
-    21,
-    "https://www.nytimes.com/2026/06/01/us/politics/california-primary-elections-governor-preview.html"
-  ],
-  [
-    "cancer",
-    21,
-    "https://www.theguardian.com/society/ng-interactive/2026/jun/01/home-hospice-cost"
-  ],
-  [
-    "political",
+    "republicans",
     20,
-    "https://www.nytimes.com/2026/06/01/us/politics/trump-drop-weaponization-fund.html"
+    "https://www.theguardian.com/commentisfree/2026/jun/02/trump-republican-fraud-corruption-ilhan-omar"
   ],
   [
-    "senate",
+    "police",
+    20,
+    "https://www.theguardian.com/us-news/2026/jun/02/iowa-shooting-domestic-gunman-suspected-killing-relatives-then-himself"
+  ],
+  [
+    "candidates",
+    20,
+    "https://www.theguardian.com/us-news/2026/jun/01/tech-billionaires-california-elections"
+  ],
+  [
+    "media",
     19,
-    "https://www.nytimes.com/2026/06/01/us/politics/mills-platner-maine-democratic-senate-primary.html"
+    "https://www.theguardian.com/tv-and-radio/2026/jun/01/euphoria-season-finale"
   ],
   [
-    "don",
-    19,
-    "https://www.theguardian.com/thefilter-us/2026/jun/01/best-smart-lights"
-  ],
-  [
-    "weaponization",
+    "court",
     19,
     "https://www.theguardian.com/us-news/2026/jun/01/senate-democrats-challenge-trump-slush-fund"
   ],
   [
-    "south",
+    "vote",
     19,
-    "https://www.theguardian.com/world/2026/jun/01/israel-sends-message-beaufort-castle-lebanon"
+    "https://www.theguardian.com/us-news/2026/jun/01/tech-billionaires-california-elections"
   ],
   [
-    "cup",
+    "game",
     19,
     "https://www.theguardian.com/football/2026/jun/01/psg-champions-league-ligue-1-arsenal"
   ],
   [
-    "term",
+    "iowa",
     18,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html"
   ],
   [
-    "department",
+    "south",
     18,
-    "https://www.theguardian.com/us-news/2026/jun/01/senate-democrats-challenge-trump-slush-fund"
+    "https://www.theguardian.com/artanddesign/2026/jun/02/klingon-prison-barack-obamas-presidential-library-chicago"
   ],
   [
     "los",
-    18,
-    "https://www.theguardian.com/us-news/2026/jun/01/melissa-casias-remains-found-new-mexico"
-  ],
-  [
-    "care",
     17,
-    "https://www.nytimes.com/2026/06/01/us/politics/trump-iran-negotiations-boring.html"
+    "https://www.nytimes.com/2026/06/02/us/elections/california-primary-what-to-watch.html"
   ],
   [
-    "graham",
+    "angeles",
     17,
-    "https://www.nytimes.com/2026/06/01/us/politics/mills-platner-maine-democratic-senate-primary.html"
+    "https://www.nytimes.com/2026/06/02/us/elections/california-primary-what-to-watch.html"
   ],
   [
-    "court",
+    "senate",
+    17,
+    "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html"
+  ],
+  [
+    "don",
+    17,
+    "https://www.nytimes.com/2026/06/02/business/economy/birthright-citizenship-ireland-germany-trump.html"
+  ],
+  [
+    "anti",
     17,
     "https://www.theguardian.com/us-news/2026/jun/01/senate-democrats-challenge-trump-slush-fund"
   ],
   [
-    "candidates",
+    "social",
     17,
-    "https://www.theguardian.com/us-news/2026/jun/01/tech-billionaires-california-elections"
+    "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon"
   ],
   [
-    "york",
+    "primaries",
     17,
-    "https://www.theguardian.com/us-news/2026/jun/01/democrats-israel-parade-new-york"
+    "https://www.theguardian.com/us-news/live/2026/jun/02/donald-trump-primaries-midterms-california-governor-iran-latest-news-updates"
   ],
   [
     "council",
@@ -206,44 +201,54 @@
     "https://www.nytimes.com/2026/06/01/world/middleeast/un-security-council-lebanon.html"
   ],
   [
-    "israel",
+    "challengers",
     16,
-    "https://www.nytimes.com/2026/06/01/world/middleeast/un-security-council-lebanon.html"
+    "https://www.nytimes.com/2026/06/02/us/elections/california-primary-what-to-watch.html"
   ],
   [
-    "company",
+    "races",
     16,
-    "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html"
+    "https://www.nytimes.com/2026/06/02/nyregion/aipac-spending-campaign-super-pac.html"
   ],
   [
-    "media",
+    "military",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/01/euphoria-season-finale"
+    "https://www.nytimes.com/2026/06/02/nyregion/aipac-spending-campaign-super-pac.html"
   ],
   [
-    "young",
+    "killed",
     16,
-    "https://www.theguardian.com/society/ng-interactive/2026/jun/01/home-hospice-cost"
+    "https://www.theguardian.com/world/2026/jun/02/ukraine-war-russia-air-raids-strike-kyiv-dnipro-kharkiv"
   ],
   [
-    "candidate",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/01/tech-billionaires-california-elections"
-  ],
-  [
-    "place",
-    16,
-    "https://www.theguardian.com/books/2026/jun/02/classic-novels-relearn-how-to-read-distractions-screens"
-  ],
-  [
-    "angeles",
-    16,
-    "https://www.theguardian.com/sport/2026/jun/01/myles-garrett-trade-cleveland-browns-los-angeles-rams"
-  ],
-  [
-    "government",
+    "israeli",
     15,
-    "https://www.nytimes.com/2026/06/01/us/justice-department-lawyers-judges-trump.html"
+    "https://www.nytimes.com/2026/06/02/world/middleeast/israel-lebanon-hezbollah.html"
+  ],
+  [
+    "party",
+    15,
+    "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html"
+  ],
+  [
+    "york",
+    15,
+    "https://www.nytimes.com/2026/06/02/nyregion/mamdani-jobs-nyc.html"
+  ],
+  [
+    "states",
+    15,
+    "https://www.nytimes.com/2026/06/02/business/economy/birthright-citizenship-ireland-germany-trump.html"
+  ],
+  [
+    "series",
+    15,
+    "https://www.nytimes.com/2026/06/02/arts/television/late-night-trump-freedom-250-concerts.html"
+  ],
+  [
+    "country",
+    15,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "team",
@@ -251,59 +256,79 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "series",
+    "cbs",
     15,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/01/euphoria-season-finale"
+    "https://www.theguardian.com/media/2026/jun/01/60-minutes-scott-pelley-cbs-bari-weiss-cuts"
   ],
   [
-    "night",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/01/john-oliver-trump-pardons-maga"
-  ],
-  [
-    "texas",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/jun/01/texas-democrat-primary-james-talarico-votes"
-  ],
-  [
-    "challengers",
-    15,
-    "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide"
-  ],
-  [
-    "pelley",
+    "governor",
     14,
-    "https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html"
+    "https://www.nytimes.com/2026/06/02/podcasts/the-headlines/water-shortages-drought-hegseth-pentagon.html"
   ],
   [
-    "little",
+    "summer",
     14,
-    "https://www.nytimes.com/2026/06/01/science/ebola-vaccines-treatments.html"
+    "https://www.nytimes.com/2026/06/02/arts/television/late-night-trump-freedom-250-concerts.html"
   ],
   [
-    "far",
+    "doing",
     14,
-    "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "season",
+    "term",
     14,
-    "https://www.nytimes.com/2026/06/01/opinion/summer-travel-planes.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "mexico",
+    "brown",
     14,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+    "https://www.theguardian.com/commentisfree/2026/jun/02/trump-republican-fraud-corruption-ilhan-omar"
+  ],
+  [
+    "office",
+    14,
+    "https://www.theguardian.com/artanddesign/2026/jun/02/klingon-prison-barack-obamas-presidential-library-chicago"
+  ],
+  [
+    "because",
+    14,
+    "https://www.theguardian.com/books/2026/jun/02/classic-novels-relearn-how-to-read-distractions-screens"
   ],
   [
     "smart",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/01/best-smart-lights"
+    "https://www.theguardian.com/books/2026/jun/02/classic-novels-relearn-how-to-read-distractions-screens"
   ],
   [
     "something",
     14,
     "https://www.theguardian.com/tv-and-radio/2026/jun/01/euphoria-season-finale"
+  ],
+  [
+    "star",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/01/euphoria-season-finale"
+  ],
+  [
+    "congressional",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/02/aipac-aief-congress-israel-travel"
+  ],
+  [
+    "politics",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/02/aipac-aief-congress-israel-travel"
+  ],
+  [
+    "weaponization",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/01/senate-democrats-challenge-trump-slush-fund"
+  ],
+  [
+    "far",
+    14,
+    "https://www.theguardian.com/football/2026/jun/01/psg-champions-league-ligue-1-arsenal"
   ],
   [
     "board",
@@ -316,62 +341,37 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "country",
-    13,
-    "https://www.nytimes.com/2026/06/01/us/justice-department-lawyers-judges-trump.html"
+    "platner",
+    14,
+    "https://www.cbsnews.com/news/graham-platner-wife-told-campaign-about-sexually-explicit-texts-he-sent-other-women/"
   ],
   [
-    "minutes",
+    "experts",
     13,
-    "https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html"
+    "https://www.nytimes.com/2026/06/02/science/ai-mathematics-leiden-declaration.html"
   ],
   [
-    "chief",
+    "early",
     13,
-    "https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "health",
+    "american",
     13,
-    "https://www.nytimes.com/2026/06/01/well/public-health-stigma-shame-rfk-jr.html"
+    "https://www.theguardian.com/tv-and-radio/2026/jun/01/euphoria-season-finale"
   ],
   [
-    "online",
+    "season",
     13,
-    "https://www.theguardian.com/film/2026/jun/01/youtube-gen-z-filmmakers"
+    "https://www.theguardian.com/tv-and-radio/2026/jun/01/euphoria-season-finale"
   ],
   [
-    "office",
+    "voters",
     13,
-    "https://www.theguardian.com/film/2026/jun/01/youtube-gen-z-filmmakers"
+    "https://www.theguardian.com/us-news/2026/jun/02/aipac-aief-congress-israel-travel"
   ],
   [
-    "video",
-    13,
-    "https://www.theguardian.com/film/2026/jun/01/youtube-gen-z-filmmakers"
-  ],
-  [
-    "weekend",
-    13,
-    "https://www.theguardian.com/film/2026/jun/01/youtube-gen-z-filmmakers"
-  ],
-  [
-    "announced",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/01/senate-democrats-challenge-trump-slush-fund"
-  ],
-  [
-    "administration",
-    13,
-    "https://www.theguardian.com/world/2026/jun/02/ukraine-war-russia-air-raids-strike-kyiv-dnipro-kharkiv"
-  ],
-  [
-    "stop",
-    13,
-    "https://www.theguardian.com/technology/2026/jun/01/google-permission-release-mosquitoes-california-florida"
-  ],
-  [
-    "congressional",
+    "seat",
     13,
     "https://www.theguardian.com/us-news/2026/jun/01/california-robert-garcia-huntington-beach-congress-race"
   ]
