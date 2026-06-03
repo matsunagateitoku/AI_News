@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    89,
-    "https://www.nytimes.com/2026/06/02/us/politics/trump-budget-grants-omb-vought.html"
-  ],
-  [
-    "race",
-    73,
-    "https://www.nytimes.com/2026/06/02/us/elections/california-governor-primary-election-polls.html"
-  ],
-  [
-    "california",
-    67,
-    "https://www.nytimes.com/2026/06/02/us/elections/california-governor-primary-election-polls.html"
-  ],
-  [
-    "guide",
-    65,
-    "https://www.theguardian.com/thefilter-us/2026/jun/02/muscle-pain-relief-products"
-  ],
-  [
-    "district",
-    50,
-    "https://www.theguardian.com/us-news/2026/jun/02/new-jersey-tom-kean-republican-primary-trump-endorsement"
-  ],
-  [
-    "president",
-    41,
-    "https://www.nytimes.com/2026/06/02/us/politics/trump-budget-grants-omb-vought.html"
+    83,
+    "https://www.nytimes.com/2026/06/02/us/politics/todd-blanche-house-hearing.html"
   ],
   [
     "primary",
-    36,
-    "https://www.nytimes.com/2026/06/02/us/elections/california-governor-primary-election-polls.html"
+    48,
+    "https://www.theguardian.com/us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates"
   ],
   [
-    "democrats",
-    36,
-    "https://www.washingtonpost.com/nation/2026/06/02/key-senate-race-graham-platners-sexting-controversy-doesnt-faze-voters/"
+    "iowa",
+    43,
+    "https://www.theguardian.com/us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates"
   ],
   [
-    "cup",
-    29,
-    "https://www.theguardian.com/football/2026/jun/02/world-cup-fans-16-host-cities-us-mexico-canada-fifa-ticket-prices"
+    "california",
+    42,
+    "https://www.theguardian.com/commentisfree/2026/jun/02/democrats-tom-steyer-california-governor-race"
   ],
   [
-    "faces",
-    28,
-    "https://www.nytimes.com/2026/06/02/world/canada/carney-antisemitism-toronto-canada.html"
+    "race",
+    42,
+    "https://www.theguardian.com/commentisfree/2026/jun/02/democrats-tom-steyer-california-governor-race"
   ],
   [
-    "york",
-    28,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/02/hollywood-acting-plastic-surgery"
+    "rep",
+    40,
+    "https://www.latimes.com/politics/story/2026-06-02/la-rep-jimmy-gomez-reportedly-faces-house-investigation-over-sexual-misconduct-allegations"
   ],
   [
-    "family",
-    28,
-    "https://www.theguardian.com/world/2026/jun/02/my-father-german-refugee-who-fought-nazis-as-secret-listener"
+    "senate",
+    35,
+    "https://www.nytimes.com/2026/06/02/us/politics/platner-senate-democrats-washington-meeting.html"
   ],
   [
     "election",
-    26,
-    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
+    34,
+    "https://www.nytimes.com/2026/06/02/us/texas-top-election-official-resigns.html"
   ],
   [
-    "voters",
-    25,
-    "https://www.nytimes.com/2026/06/02/nyregion/thomas-kean-voters-new-jersey.html"
-  ],
-  [
-    "republican",
-    24,
-    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
-  ],
-  [
-    "democratic",
-    23,
-    "https://www.washingtonpost.com/nation/2026/06/02/key-senate-race-graham-platners-sexting-controversy-doesnt-faze-voters/"
-  ],
-  [
-    "congressional",
-    23,
-    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
-  ],
-  [
-    "israel",
-    22,
-    "https://www.nytimes.com/2026/06/02/world/middleeast/netanyahu-criticism-beirut-attack-trump.html"
-  ],
-  [
-    "political",
-    22,
-    "https://www.theguardian.com/us-news/live/2026/jun/02/donald-trump-primaries-midterms-california-governor-iran-latest-news-updates"
-  ],
-  [
-    "incumbent",
-    22,
-    "https://www.theguardian.com/us-news/2026/jun/02/new-jersey-tom-kean-republican-primary-trump-endorsement"
-  ],
-  [
-    "series",
-    21,
-    "https://www.theguardian.com/football/2026/jun/02/world-cup-fans-16-host-cities-us-mexico-canada-fifa-ticket-prices"
-  ],
-  [
-    "governor",
-    20,
-    "https://www.nytimes.com/2026/06/02/us/elections/california-governor-primary-election-polls.html"
-  ],
-  [
-    "court",
-    20,
-    "https://www.nytimes.com/2026/06/02/world/africa/kenya-ebola-us-quarantine-unit-court.html"
+    "family",
+    33,
+    "https://www.nytimes.com/2026/06/02/us/politics/todd-blanche-house-hearing.html"
   ],
   [
     "mexico",
-    20,
+    33,
     "https://www.nytimes.com/2026/06/02/world/americas/stray-dog-caramelos-brazil-mexico.html"
   ],
   [
-    "love",
-    20,
-    "https://www.theguardian.com/thefilter-us/2026/jun/02/muscle-pain-relief-products"
+    "gop",
+    33,
+    "https://www.foxnews.com/politics/supreme-court-allows-alabama-gop-backed-congressional-map-midterms"
+  ],
+  [
+    "president",
+    32,
+    "https://www.nytimes.com/2026/06/02/us/politics/todd-blanche-house-hearing.html"
+  ],
+  [
+    "republican",
+    31,
+    "https://www.nytimes.com/2026/06/02/us/politics/supreme-court-alabama-congressional-map.html"
+  ],
+  [
+    "democratic",
+    31,
+    "https://www.nytimes.com/2026/06/02/us/politics/platner-senate-democrats-washington-meeting.html"
+  ],
+  [
+    "cup",
+    31,
+    "https://www.theguardian.com/football/2026/jun/02/world-cup-fans-16-host-cities-us-mexico-canada-fifa-ticket-prices"
+  ],
+  [
+    "cbs",
+    30,
+    "https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html"
+  ],
+  [
+    "governor",
+    30,
+    "https://www.theguardian.com/commentisfree/2026/jun/02/democrats-tom-steyer-california-governor-race"
+  ],
+  [
+    "court",
+    29,
+    "https://www.nytimes.com/2026/06/02/us/politics/supreme-court-alabama-congressional-map.html"
+  ],
+  [
+    "democrats",
+    27,
+    "https://www.nytimes.com/2026/06/02/us/politics/platner-senate-democrats-washington-meeting.html"
+  ],
+  [
+    "iran",
+    26,
+    "https://www.nytimes.com/video/us/100000010937785/why-the-us-iran-negotiations-are-taking-so-long.html"
+  ],
+  [
+    "york",
+    26,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/02/hollywood-acting-plastic-surgery"
   ],
   [
     "general",
-    20,
-    "https://www.theguardian.com/us-news/live/2026/jun/02/donald-trump-primaries-midterms-california-governor-iran-latest-news-updates"
+    25,
+    "https://www.nytimes.com/2026/06/02/us/politics/todd-blanche-house-hearing.html"
   ],
   [
-    "candidates",
-    20,
-    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
+    "congressional",
+    25,
+    "https://www.theguardian.com/us-news/2026/jun/02/supreme-court-alabama-map"
   ],
   [
-    "vote",
-    19,
-    "https://www.nytimes.com/2026/06/02/nyregion/thomas-kean-voters-new-jersey.html"
+    "district",
+    24,
+    "https://www.nytimes.com/2026/06/02/us/politics/supreme-court-alabama-congressional-map.html"
   ],
   [
     "war",
-    19,
-    "https://www.nytimes.com/2026/06/02/world/europe/ukraine-russia-war-strikes.html"
+    24,
+    "https://www.nytimes.com/video/us/100000010937785/why-the-us-iran-negotiations-are-taking-so-long.html"
   ],
   [
-    "latest",
-    19,
+    "won",
+    23,
+    "https://www.nytimes.com/2026/06/02/us/politics/todd-blanche-house-hearing.html"
+  ],
+  [
+    "game",
+    22,
+    "https://www.theguardian.com/sport/2026/jun/02/tomas-hertl-vegas-golden-knights-carolina-hurricanes-stanley-cup-final"
+  ],
+  [
+    "voters",
+    21,
     "https://www.washingtonpost.com/nation/2026/06/02/key-senate-race-graham-platners-sexting-controversy-doesnt-faze-voters/"
   ],
   [
-    "because",
-    19,
-    "https://www.theguardian.com/sport/2026/jun/02/new-york-knicks-fandom-nba-finals"
+    "film",
+    21,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/02/hollywood-acting-plastic-surgery"
   ],
   [
-    "county",
+    "jersey",
+    21,
+    "https://www.theguardian.com/us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates"
+  ],
+  [
+    "political",
+    21,
+    "https://www.theguardian.com/global-development/2026/jun/03/reports-brutal-arrests-torture-deaths-iran-prisons"
+  ],
+  [
+    "minutes",
+    20,
+    "https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html"
+  ],
+  [
+    "map",
+    20,
+    "https://www.nytimes.com/2026/06/02/us/politics/supreme-court-alabama-congressional-map.html"
+  ],
+  [
+    "night",
+    20,
+    "https://www.theguardian.com/us-news/2026/jun/02/new-york-police-investigate-people-emerging-manholes"
+  ],
+  [
+    "candidate",
     19,
-    "https://www.theguardian.com/music/2026/jun/02/sabrina-carpenter-stalker-restraining-order"
+    "https://www.nytimes.com/2026/06/02/us/politics/spencer-pratt-la-mayor.html"
+  ],
+  [
+    "black",
+    19,
+    "https://www.nytimes.com/2026/06/02/us/politics/supreme-court-alabama-congressional-map.html"
+  ],
+  [
+    "israel",
+    19,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "decision",
+    19,
+    "https://www.theguardian.com/us-news/2026/jun/02/supreme-court-alabama-map"
+  ],
+  [
+    "win",
+    19,
+    "https://www.theguardian.com/us-news/2026/jun/02/supreme-court-alabama-map"
+  ],
+  [
+    "star",
+    18,
+    "https://www.nytimes.com/2026/06/02/us/politics/spencer-pratt-la-mayor.html"
+  ],
+  [
+    "alabama",
+    18,
+    "https://www.nytimes.com/2026/06/02/us/politics/supreme-court-alabama-congressional-map.html"
+  ],
+  [
+    "texas",
+    18,
+    "https://www.nytimes.com/2026/06/02/us/texas-top-election-official-resigns.html"
+  ],
+  [
+    "backed",
+    18,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "democrat",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/jun/02/democrats-tom-steyer-california-governor-race"
   ],
   [
     "don",
     18,
-    "https://www.nytimes.com/2026/06/02/us/politics/trump-budget-grants-omb-vought.html"
+    "https://www.theguardian.com/commentisfree/2026/jun/02/ai-sycophancy-risk-to-society-grasp-reality"
   ],
   [
-    "anti",
-    18,
-    "https://www.nytimes.com/2026/06/02/us/politics/trump-budget-grants-omb-vought.html"
+    "campaign",
+    17,
+    "https://www.nytimes.com/2026/06/02/us/politics/spencer-pratt-la-mayor.html"
   ],
   [
-    "fund",
-    18,
-    "https://www.theguardian.com/us-news/live/2026/jun/02/donald-trump-primaries-midterms-california-governor-iran-latest-news-updates"
+    "despite",
+    17,
+    "https://www.nytimes.com/2026/06/02/us/politics/trump-irs-settlement.html"
   ],
   [
-    "iran",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/jun/02/the-guardian-view-on-trump-and-lebanon-civilians-need-lasting-peace-not-short-term-patches"
-  ],
-  [
-    "game",
-    18,
-    "https://www.theguardian.com/sport/2026/jun/02/alexander-zverev-rafael-jodar-french-open-tennis"
-  ],
-  [
-    "health",
+    "biden",
     17,
     "https://www.nytimes.com/2026/06/02/us/politics/jill-biden-joe-biden-memoir-health-age.html"
   ],
   [
-    "country",
+    "love",
     17,
-    "https://www.nytimes.com/2026/06/02/opinion/trump-corruption-allies.html"
+    "https://www.nytimes.com/2026/06/02/arts/music/peabo-bryson-dead.html"
   ],
   [
-    "texas",
+    "latest",
     17,
-    "https://www.washingtonpost.com/nation/2026/06/02/texas-detransition-clinic-offer-surgery-counseling-fertility-treatment/"
-  ],
-  [
-    "term",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "star",
-    17,
-    "https://www.theguardian.com/fashion/2026/jun/02/dua-lipa-wedding-bridal-suit-is-back"
-  ],
-  [
-    "night",
-    17,
-    "https://www.theguardian.com/us-news/2026/jun/02/new-york-police-investigate-people-emerging-manholes"
-  ],
-  [
-    "intelligence",
-    16,
-    "https://www.nytimes.com/2026/06/02/us/politics/bill-pulte-acting-director-national-intelligence.html"
-  ],
-  [
-    "order",
-    16,
-    "https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html"
-  ],
-  [
-    "despite",
-    16,
     "https://www.washingtonpost.com/nation/2026/06/02/key-senate-race-graham-platners-sexting-controversy-doesnt-faze-voters/"
   ],
   [
-    "seat",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/jun/02/muscle-pain-relief-products"
+    "tom",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/jun/02/democrats-tom-steyer-california-governor-race"
   ],
   [
-    "film",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/02/hollywood-acting-plastic-surgery"
+    "wins",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/jun/02/democrats-tom-steyer-california-governor-race"
   ],
   [
-    "los",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
+    "because",
+    17,
+    "https://www.theguardian.com/books/2026/jun/02/classic-novels-relearn-how-to-read-distractions-screens"
   ],
   [
-    "angeles",
-    16,
-    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
+    "projects",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/02/lawsuit-trump-administration-windfarm-leases"
   ],
   [
-    "challengers",
+    "republicans",
     16,
-    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
+    "https://www.nytimes.com/2026/06/02/us/politics/trump-fund-thune.html"
   ],
   [
-    "board",
+    "scott",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/may/28/how-to-clean-cutting-board"
+    "https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html"
   ],
   [
-    "rep",
+    "pelley",
     16,
-    "https://www.latimes.com/politics/story/2026-06-02/la-rep-jimmy-gomez-reportedly-faces-house-investigation-over-sexual-misconduct-allegations"
+    "https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html"
   ],
   [
-    "models",
-    15,
-    "https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html"
+    "supreme",
+    16,
+    "https://www.nytimes.com/2026/06/02/us/politics/supreme-court-alabama-congressional-map.html"
+  ],
+  [
+    "health",
+    16,
+    "https://www.nytimes.com/2026/06/02/us/politics/jill-biden-joe-biden-memoir-health-age.html"
+  ],
+  [
+    "series",
+    16,
+    "https://www.theguardian.com/football/2026/jun/02/world-cup-fans-16-host-cities-us-mexico-canada-fifa-ticket-prices"
   ],
   [
     "states",
-    15,
-    "https://www.nytimes.com/2026/06/02/business/economy/birthright-citizenship-ireland-germany-trump.html"
+    16,
+    "https://www.theguardian.com/us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates"
   ],
   [
-    "government",
+    "fund",
     15,
-    "https://www.nytimes.com/2026/06/02/world/canada/carney-antisemitism-toronto-canada.html"
-  ],
-  [
-    "running",
-    15,
-    "https://www.nytimes.com/2026/06/02/world/middleeast/netanyahu-criticism-beirut-attack-trump.html"
-  ],
-  [
-    "early",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/06/02/us/politics/todd-blanche-house-hearing.html"
   ],
   [
     "attorney",
     15,
-    "https://www.theguardian.com/us-news/live/2026/jun/02/donald-trump-primaries-midterms-california-governor-iran-latest-news-updates"
-  ],
-  [
-    "donald",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/02/bill-pulte-intelligence-chief-concerns"
-  ],
-  [
-    "mayor",
-    15,
-    "https://www.theguardian.com/us-news/2026/may/30/california-turbulent-elections"
-  ],
-  [
-    "acting",
-    14,
-    "https://www.nytimes.com/2026/06/02/us/politics/bill-pulte-acting-director-national-intelligence.html"
-  ],
-  [
-    "ebola",
-    14,
-    "https://www.nytimes.com/2026/06/02/health/ebola-tests-congo.html"
-  ],
-  [
-    "social",
-    14,
-    "https://www.nytimes.com/2026/06/02/world/middleeast/netanyahu-criticism-beirut-attack-trump.html"
-  ],
-  [
-    "biden",
-    14,
-    "https://www.nytimes.com/2026/06/02/us/politics/jill-biden-joe-biden-memoir-health-age.html"
-  ],
-  [
-    "review",
-    14,
-    "https://www.nytimes.com/2026/05/29/books/review/jill-biden-memoir-view-from-the-east-wing.html"
-  ],
-  [
-    "change",
-    14,
-    "https://www.washingtonpost.com/nation/2026/06/02/key-senate-race-graham-platners-sexting-controversy-doesnt-faze-voters/"
-  ],
-  [
-    "sex",
-    14,
-    "https://www.washingtonpost.com/nation/2026/06/02/texas-detransition-clinic-offer-surgery-counseling-fertility-treatment/"
-  ],
-  [
-    "tech",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/02/muscle-pain-relief-products"
-  ],
-  [
-    "results",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jun/02/ai-sycophancy-risk-to-society-grasp-reality"
-  ],
-  [
-    "council",
-    14,
-    "https://www.latimes.com/california/story/2026-05-31/your-last-minute-guide-to-la-city-council-elections"
-  ],
-  [
-    "jersey",
-    13,
-    "https://www.nytimes.com/2026/06/02/nyregion/thomas-kean-voters-new-jersey.html"
-  ],
-  [
-    "republicans",
-    13,
-    "https://www.nytimes.com/2026/06/02/nyregion/thomas-kean-voters-new-jersey.html"
+    "https://www.nytimes.com/2026/06/02/us/politics/todd-blanche-house-hearing.html"
   ],
   [
     "administration",
-    13,
-    "https://www.nytimes.com/2026/06/02/us/politics/trump-budget-grants-omb-vought.html"
+    15,
+    "https://www.nytimes.com/2026/06/02/us/politics/trump-irs-settlement.html"
   ],
   [
-    "support",
-    13,
-    "https://www.nytimes.com/2026/06/02/us/politics/trump-budget-grants-omb-vought.html"
+    "majority",
+    15,
+    "https://www.nytimes.com/2026/06/02/us/politics/supreme-court-alabama-congressional-map.html"
+  ],
+  [
+    "platner",
+    15,
+    "https://www.nytimes.com/2026/06/02/us/politics/platner-senate-democrats-washington-meeting.html"
+  ],
+  [
+    "seat",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/jun/02/muscle-pain-relief-products"
+  ],
+  [
+    "party",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/02/democrats-tom-steyer-california-governor-race"
+  ],
+  [
+    "director",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/02/hollywood-acting-plastic-surgery"
+  ],
+  [
+    "south",
+    15,
+    "https://www.theguardian.com/us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates"
+  ],
+  [
+    "hinson",
+    15,
+    "https://www.theguardian.com/us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates"
+  ],
+  [
+    "kean",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/02/new-jersey-tom-kean-republican-primary-trump-endorsement"
+  ],
+  [
+    "washington",
+    14,
+    "https://www.nytimes.com/2026/06/02/us/politics/platner-senate-democrats-washington-meeting.html"
+  ],
+  [
+    "secretary",
+    14,
+    "https://www.nytimes.com/2026/06/02/us/texas-top-election-official-resigns.html"
+  ],
+  [
+    "past",
+    14,
+    "https://www.nytimes.com/2026/06/02/us/politics/trump-iran-strait-of-hormuz.html"
   ]
 ];
