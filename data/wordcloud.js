@@ -2,243 +2,228 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    76,
-    "https://www.nytimes.com/2026/06/02/us/politics/trump-iran-strait-of-hormuz.html"
-  ],
-  [
-    "california",
-    35,
-    "https://www.nytimes.com/2026/06/03/us/politics/primaries-california-iowa-questions.html"
-  ],
-  [
-    "iran",
-    30,
-    "https://www.nytimes.com/2026/06/02/us/politics/trump-iran-strait-of-hormuz.html"
+    97,
+    "https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html"
   ],
   [
     "president",
-    30,
-    "https://www.nytimes.com/2026/06/02/us/politics/trump-iran-strait-of-hormuz.html"
+    40,
+    "https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html"
   ],
   [
-    "cup",
-    30,
-    "https://www.theguardian.com/football/2026/jun/03/campaign-to-deliver-biggest-complaint-fifa-has-ever-received-launches-before-world-cup"
-  ],
-  [
-    "family",
-    28,
-    "https://www.nytimes.com/2026/06/02/us/politics/trump-irs-settlement.html"
-  ],
-  [
-    "police",
-    28,
-    "https://www.theguardian.com/us-news/2026/jun/02/bakersfield-police-bomb-threat-man-bank"
-  ],
-  [
-    "democrats",
-    27,
-    "https://www.nytimes.com/2026/06/03/us/politics/primaries-california-iowa-questions.html"
-  ],
-  [
-    "early",
-    27,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "primary",
-    27,
-    "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november"
-  ],
-  [
-    "race",
-    26,
-    "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november"
-  ],
-  [
-    "rep",
-    26,
-    "https://www.foxnews.com/politics/house-republican-says-staffer-reprimanded-hurtful-post-slamming-homosexuality-pride-month"
-  ],
-  [
-    "games",
-    25,
-    "https://www.nytimes.com/2026/06/02/us/politics/trump-iran-strait-of-hormuz.html"
+    "iran",
+    31,
+    "https://www.theguardian.com/world/2026/jun/03/us-fires-missile-tanker-strait-of-hormuz"
   ],
   [
     "senate",
-    24,
-    "https://www.washingtonpost.com/nation/2026/06/02/key-senate-race-graham-platners-sexting-controversy-doesnt-faze-voters/"
+    30,
+    "https://www.nytimes.com/2026/06/03/us/politics/midterm-senate-battlegrounds.html"
   ],
   [
-    "cbs",
-    23,
-    "https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html"
+    "family",
+    29,
+    "https://www.theguardian.com/us-news/video/2026/jun/03/robert-reich-trump-slush-fund"
   ],
   [
-    "iowa",
-    22,
-    "https://www.nytimes.com/2026/06/03/us/politics/primaries-california-iowa-questions.html"
+    "democrats",
+    28,
+    "https://www.nytimes.com/2026/06/03/us/politics/midterm-senate-battlegrounds.html"
   ],
   [
-    "media",
-    22,
-    "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
+    "war",
+    28,
+    "https://www.nytimes.com/2026/06/03/travel/charleston-south-carolina-history.html"
   ],
   [
-    "social",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/jun/03/pope-leo-ai-technology"
+    "cup",
+    28,
+    "https://www.theguardian.com/football/2026/jun/03/campaign-to-deliver-biggest-complaint-fifa-has-ever-received-launches-before-world-cup"
+  ],
+  [
+    "early",
+    26,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "because",
-    21,
+    25,
     "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
   ],
   [
     "game",
-    21,
+    24,
     "https://www.theguardian.com/games/2026/jun/03/god-of-war-laufey-playstation-state-of-play"
   ],
   [
-    "york",
-    20,
-    "https://www.theguardian.com/music/2026/jun/03/lapd-reviews-additional-sexual-assault-allegations-sean-diddy-combs"
+    "police",
+    24,
+    "https://www.theguardian.com/commentisfree/2026/jun/03/delaney-hall-new-jersey-protests-police"
   ],
   [
-    "love",
-    19,
-    "https://www.nytimes.com/2026/06/03/nyregion/knicks-courtside-madison-square-garden.html"
-  ],
-  [
-    "don",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/jun/03/pope-leo-ai-technology"
-  ],
-  [
-    "governor",
-    19,
-    "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november"
-  ],
-  [
-    "war",
-    18,
-    "https://www.nytimes.com/2026/06/02/us/politics/trump-iran-strait-of-hormuz.html"
-  ],
-  [
-    "republican",
-    18,
-    "https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html"
-  ],
-  [
-    "dead",
-    18,
-    "https://www.nytimes.com/2026/06/03/theater/kenrex-play-murder-ken-mcelroy.html"
-  ],
-  [
-    "latest",
-    18,
-    "https://www.washingtonpost.com/nation/2026/06/02/key-senate-race-graham-platners-sexting-controversy-doesnt-faze-voters/"
-  ],
-  [
-    "team",
-    17,
-    "https://www.nytimes.com/2026/06/03/business/knicks-james-dolan.html"
-  ],
-  [
-    "political",
-    17,
-    "https://www.nytimes.com/2026/06/03/opinion/bill-pulte-national-intelligence-trump.html"
-  ],
-  [
-    "gop",
-    17,
-    "https://www.foxnews.com/politics/gop-leverages-ice-funding-package-make-trumps-controversial-2b-fund-never-exist"
-  ],
-  [
-    "nowak",
-    16,
-    "https://www.theguardian.com/news/video/2026/jun/03/how-the-of-henry-nowak-is-being-exploited-by-the-far-right-the-latest"
-  ],
-  [
-    "change",
-    15,
-    "https://www.nytimes.com/2026/06/03/business/knicks-james-dolan.html"
-  ],
-  [
-    "pelley",
-    15,
+    "cbs",
+    22,
     "https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html"
   ],
   [
-    "play",
-    15,
-    "https://www.nytimes.com/2026/06/03/theater/kenrex-play-murder-ken-mcelroy.html"
+    "york",
+    22,
+    "https://www.theguardian.com/us-news/gallery/2026/jun/03/new-york-1973-knicks"
+  ],
+  [
+    "fund",
+    21,
+    "https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html"
   ],
   [
     "film",
-    15,
+    20,
     "https://www.theguardian.com/books/2026/jun/03/james-ellroy-red-sheet"
   ],
   [
-    "guide",
-    15,
+    "games",
+    20,
+    "https://www.theguardian.com/games/2026/jun/03/god-of-war-laufey-playstation-state-of-play"
+  ],
+  [
+    "administration",
+    19,
+    "https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-refunds-court-order.html"
+  ],
+  [
+    "social",
+    19,
     "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
   ],
   [
-    "watch",
-    15,
+    "california",
+    19,
     "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november"
   ],
   [
-    "support",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/03/columbia-jewish-faculty-protests-settlement-fund"
-  ],
-  [
-    "los",
-    15,
-    "https://www.theguardian.com/music/2026/jun/03/lapd-reviews-additional-sexual-assault-allegations-sean-diddy-combs"
-  ],
-  [
-    "election",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/02/karen-bass-los-angeles-mayoral-primary"
-  ],
-  [
-    "star",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/02/karen-bass-los-angeles-mayoral-primary"
-  ],
-  [
-    "video",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/03/clarksons-farm-review-amazon-prime-video"
-  ],
-  [
-    "win",
-    14,
-    "https://www.nytimes.com/2026/06/03/us/politics/primaries-california-iowa-questions.html"
-  ],
-  [
-    "intelligence",
-    14,
-    "https://www.nytimes.com/2026/06/03/business/bill-pulte-housing-intelligence-director.html"
+    "race",
+    19,
+    "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november"
   ],
   [
     "director",
-    14,
-    "https://www.nytimes.com/2026/06/03/business/bill-pulte-housing-intelligence-director.html"
+    18,
+    "https://www.nytimes.com/2026/06/03/us/bill-pulte-new-intelligence-chief.html"
+  ],
+  [
+    "love",
+    18,
+    "https://www.nytimes.com/2026/04/28/magazine/taylor-swift-songwriting-process-interview.html"
+  ],
+  [
+    "don",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
+  ],
+  [
+    "immigration",
+    17,
+    "https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html"
+  ],
+  [
+    "security",
+    17,
+    "https://www.nytimes.com/2026/06/03/us/bill-pulte-new-intelligence-chief.html"
+  ],
+  [
+    "latest",
+    17,
+    "https://www.washingtonpost.com/nation/2026/06/02/key-senate-race-graham-platners-sexting-controversy-doesnt-faze-voters/"
+  ],
+  [
+    "media",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
+  ],
+  [
+    "support",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/03/columbia-jewish-faculty-protests-settlement-fund"
+  ],
+  [
+    "university",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/03/columbia-jewish-faculty-protests-settlement-fund"
+  ],
+  [
+    "star",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/03/pete-hegseth-navy-promotion-list"
+  ],
+  [
+    "series",
+    17,
+    "https://www.theguardian.com/sport/2026/jun/03/donald-trump-ufc-arena-white-house-permanent"
+  ],
+  [
+    "scott",
+    16,
+    "https://www.nytimes.com/2026/06/03/us/politics/bessent-pulte-clash.html"
+  ],
+  [
+    "dead",
+    16,
+    "https://www.nytimes.com/2026/06/03/theater/kenrex-play-murder-ken-mcelroy.html"
+  ],
+  [
+    "sex",
+    16,
+    "https://www.washingtonpost.com/nation/2026/06/02/texas-detransition-clinic-offer-surgery-counseling-fertility-treatment/"
+  ],
+  [
+    "military",
+    16,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "guide",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
+  ],
+  [
+    "father",
+    16,
+    "https://www.theguardian.com/us-news/2026/jun/03/ben-black-investment-trump-epstein"
+  ],
+  [
+    "republicans",
+    15,
+    "https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html"
+  ],
+  [
+    "team",
+    15,
+    "https://www.nytimes.com/2026/06/03/business/knicks-james-dolan.html"
   ],
   [
     "south",
-    14,
+    15,
     "https://www.nytimes.com/2026/06/03/travel/charleston-south-carolina-history.html"
   ],
   [
-    "rubio",
+    "released",
+    15,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "music",
+    15,
+    "https://www.theguardian.com/music/2026/jun/03/is-there-a-pianist-in-the-house-how-audience-members-and-fellow-musicians-have-saved-the-show"
+  ],
+  [
+    "case",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/06/03/us/politics/abrego-garcia-costa-rica-mullin.html"
+  ],
+  [
+    "doing",
+    14,
+    "https://www.washingtonpost.com/nation/2026/06/03/mystery-people-keep-emerging-nyc-manholes-heres-what-we-know/"
   ],
   [
     "fewer",
@@ -246,124 +231,129 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
   ],
   [
-    "following",
+    "win",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november"
+    "https://www.theguardian.com/commentisfree/2026/jun/03/britain-doom-loop-politicians-democracy"
   ],
   [
-    "music",
+    "video",
     14,
-    "https://www.theguardian.com/music/2026/jun/03/is-there-a-pianist-in-the-house-how-audience-members-and-fellow-musicians-have-saved-the-show"
+    "https://www.theguardian.com/sport/2026/jun/03/donald-trump-ufc-arena-white-house-permanent"
   ],
   [
-    "summer",
+    "gop",
     14,
-    "https://www.theguardian.com/music/2026/jun/03/is-there-a-pianist-in-the-house-how-audience-members-and-fellow-musicians-have-saved-the-show"
+    "https://www.foxnews.com/politics/sanders-lashes-out-gop-morality-while-backing-dem-nazi-linked-tattoo"
   ],
   [
-    "series",
-    14,
-    "https://www.theguardian.com/football/2026/jun/02/world-cup-fans-16-host-cities-us-mexico-canada-fifa-ticket-prices"
-  ],
-  [
-    "food",
-    14,
-    "https://www.theguardian.com/society/2026/jun/03/ultra-processed-foods-big-tobacco"
-  ],
-  [
-    "scott",
+    "pelley",
     13,
     "https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html"
   ],
   [
-    "minutes",
+    "knicks",
     13,
-    "https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html"
+    "https://www.nytimes.com/2026/06/03/business/knicks-james-dolan.html"
   ],
   [
-    "voters",
+    "vote",
     13,
     "https://www.washingtonpost.com/nation/2026/06/02/key-senate-race-graham-platners-sexting-controversy-doesnt-faze-voters/"
   ],
   [
-    "texas",
+    "term",
     13,
-    "https://www.washingtonpost.com/nation/2026/06/02/texas-detransition-clinic-offer-surgery-counseling-fertility-treatment/"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "sex",
+    "investigation",
     13,
-    "https://www.washingtonpost.com/nation/2026/06/02/texas-detransition-clinic-offer-surgery-counseling-fertility-treatment/"
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
   ],
   [
-    "hostages",
-    13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "bass",
+    "american",
     13,
     "https://www.theguardian.com/books/2026/jun/03/james-ellroy-red-sheet"
   ],
   [
-    "health",
+    "donald",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/03/white-house-ballroom-funding-republicans"
+  ],
+  [
+    "republican",
     13,
     "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november"
   ],
   [
-    "suspect",
+    "political",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/02/bakersfield-police-bomb-threat-man-bank"
+    "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november"
   ],
   [
-    "angeles",
+    "nowak",
     13,
-    "https://www.theguardian.com/music/2026/jun/03/lapd-reviews-additional-sexual-assault-allegations-sean-diddy-combs"
+    "https://www.theguardian.com/commentisfree/2026/jun/03/henry-nowak-britain-political-class-policing"
   ],
   [
-    "runoff",
+    "actor",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/02/karen-bass-los-angeles-mayoral-primary"
+    "https://www.theguardian.com/film/2026/jun/03/shia-labeouf-pleads-guilty-battery-charges-new-orleans"
   ],
   [
-    "fans",
-    13,
-    "https://www.theguardian.com/us-news/gallery/2026/jun/03/new-york-1973-knicks"
-  ],
-  [
-    "control",
-    13,
-    "https://www.theguardian.com/culture/2026/jun/03/jimmy-kimmel-trump-spencer-pratt"
-  ],
-  [
-    "close",
+    "bill",
     12,
-    "https://www.nytimes.com/2026/06/02/us/politics/trump-iran-strait-of-hormuz.html"
+    "https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html"
   ],
   [
-    "questions",
+    "states",
     12,
-    "https://www.nytimes.com/2026/06/03/us/politics/primaries-california-iowa-questions.html"
+    "https://www.nytimes.com/2026/06/03/us/politics/midterm-senate-battlegrounds.html"
   ],
   [
-    "administration",
+    "texas",
     12,
-    "https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-forced-labor.html"
+    "https://www.nytimes.com/2026/06/03/us/politics/midterm-senate-battlegrounds.html"
   ],
   [
-    "general",
+    "biggest",
     12,
-    "https://www.nytimes.com/2026/06/02/us/politics/trump-irs-settlement.html"
+    "https://www.nytimes.com/2026/04/28/magazine/taylor-swift-songwriting-process-interview.html"
   ],
   [
-    "doing",
+    "started",
     12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-refunds-court-order.html"
   ],
   [
-    "mexico",
+    "minutes",
     12,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+    "https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html"
+  ],
+  [
+    "despite",
+    12,
+    "https://www.nytimes.com/2026/06/03/us/politics/trump-administration-ebola-response.html"
+  ],
+  [
+    "country",
+    12,
+    "https://www.nytimes.com/2026/06/03/us/politics/trump-administration-ebola-response.html"
+  ],
+  [
+    "hostages",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "million",
+    12,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "start",
+    12,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "filter",
@@ -371,8 +361,18 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
   ],
   [
+    "weekly",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
+  ],
+  [
     "buying",
     12,
     "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
+  ],
+  [
+    "district",
+    12,
+    "https://www.theguardian.com/us-news/2026/jun/03/vermont-school-district-trump-ice"
   ]
 ];
