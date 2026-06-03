@@ -2,207 +2,139 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Aims New Tariffs",
+      "name": "Trump Administration",
       "count": 50,
-      "url": "https://www.nytimes.com/2026/06/03/business/trump-tariffs-force-labor.html",
+      "url": "https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-forced-labor.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Google Ai",
+      "count": 18,
+      "url": "https://www.theguardian.com/business/2026/jun/03/what-does-uk-watchdog-new-google-ai-results-rule-means-publishers",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas Senate",
+      "count": 18,
+      "url": "https://www.politico.com/news/2026/05/26/paxton-wins-texas-senate-runoff-00937454",
+      "source": "Politico"
     },
     {
       "name": "Gop",
-      "count": 28,
-      "url": "https://www.foxnews.com/politics/south-dakota-governors-race-remains-up-air-gop-contest-goes-runoff",
+      "count": 17,
+      "url": "https://www.foxnews.com/politics/gop-leverages-ice-funding-package-make-trumps-controversial-2b-fund-never-exist",
       "source": "Fox News"
     },
     {
+      "name": "House Foreign Affairs Committee",
+      "count": 16,
+      "url": "https://www.cbsnews.com/video/watch-rubio-spars-with-rep-lieu-over-claims-of-trump-sleeping-at-meetings-apparent-cognitive-decline/",
+      "source": "CBS News"
+    },
+    {
       "name": "Cbs News",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html",
       "source": "NY Times"
     },
     {
-      "name": "The White House",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/live/2026/jun/03/us-midterm-primaries-politics-donald-trump-california-governor-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Maine Senate",
-      "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/graham-platner-maine-senate-sexting",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Filter Us",
-      "count": 10,
+      "count": 11,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Guardian News",
+      "name": "The New York Knicks",
+      "count": 10,
+      "url": "https://www.cbsnews.com/video/knicks-take-on-spurs-in-game-1-of-legendary-nba-finals-rematch/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Cbs News'",
       "count": 9,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
+      "url": "https://www.cbsnews.com/video/votes-still-being-counted-in-california-primary-for-governor/",
+      "source": "CBS News"
     },
     {
-      "name": "Nbc News",
+      "name": "Guardian Opinion",
       "count": 8,
-      "url": "https://www.nbcnews.com/video/karen-bass-to-advance-in-l-a-mayoral-runoff-race-nbc-news-projects-264415813816",
-      "source": "NBC News"
-    },
-    {
-      "name": "Supreme Court Clears The Way For Republican-Friendly Map",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/06/02/us/politics/supreme-court-alabama-congressional-map.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ai",
-      "count": 7,
-      "url": "https://www.theguardian.com/technology/2026/jun/03/as-the-tech-mega-ipo-race-hots-up-has-openai-missed-its-moment",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/03/henry-nowak-britain-political-class-policing",
       "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "California",
-      "count": 45,
-      "url": "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Us",
-      "count": 41,
-      "url": "https://www.theguardian.com/global-development/2026/jun/03/women-behind-the-lens-peru-ana-elisa-sotelo",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/06/02/us/politics/rubio-kennedy-vaccines-gavi.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iowa",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/06/03/us/politics/iowa-new-jersey-primary-takeaways.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/06/02/us/politics/trump-iran-strait-of-hormuz.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Mexico City",
-      "count": 16,
-      "url": "https://www.theguardian.com/football/2026/jun/02/world-cup-fans-16-host-cities-us-mexico-canada-fifa-ticket-prices",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Alabama",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/06/02/us/politics/supreme-court-alabama-congressional-map.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/joe-jill-biden-memoir",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uk",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/06/03/world/europe/henry-nowak-murder-southampton-protests-uk.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County",
-      "count": 12,
-      "url": "https://www.latimes.com/california/story/2026-06-01/2026-california-election-obscure-races-voter-guide",
-      "source": "LA Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/live/2026/jun/03/us-midterm-primaries-politics-donald-trump-california-governor-latest-news-updates",
+      "count": 20,
+      "url": "https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour",
       "source": "The Guardian"
     },
     {
-      "name": "Karen Bass",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-06-02/primary-election-2026-mayor",
-      "source": "LA Times"
-    },
-    {
-      "name": "Donald Trump ’S",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/trump-weaponization-fund",
+      "name": "Henry Nowak",
+      "count": 15,
+      "url": "https://www.theguardian.com/news/video/2026/jun/03/how-the-of-henry-nowak-is-being-exploited-by-the-far-right-the-latest",
       "source": "The Guardian"
     },
     {
       "name": "Scott Pelley",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html",
+      "count": 14,
+      "url": "https://www.theguardian.com/media/2026/jun/03/60-minutes-scott-pelley-cbs-accusations",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Marco Rubio",
+      "count": 13,
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Karen Bass",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/jun/02/karen-bass-los-angeles-mayoral-primary",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Bill Pulte",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/06/03/business/bill-pulte-housing-intelligence-director.html",
       "source": "NY Times"
     },
     {
-      "name": "Spencer Pratt",
-      "count": 9,
-      "url": "https://www.theguardian.com/culture/2026/jun/02/late-night-roundup-jimmy-kimmel-seth-meyers-trump",
-      "source": "The Guardian"
+      "name": "Markwayne Mullin",
+      "count": 7,
+      "url": "https://www.latimes.com/politics/story/2026-06-02/homeland-security-secretary-markwayne-mullin-refuses-to-commit-to-following-court-orders",
+      "source": "LA Times"
     },
     {
       "name": "Graham Platner",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/06/02/us/politics/platner-senate-democrats-washington-meeting.html",
-      "source": "NY Times"
+      "count": 6,
+      "url": "https://www.washingtonpost.com/nation/2026/06/02/key-senate-race-graham-platners-sexting-controversy-doesnt-faze-voters/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Nithya Raman",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/jun/02/karen-bass-los-angeles-mayoral-primary",
+      "source": "The Guardian"
     },
     {
       "name": "Marilyn Monroe",
-      "count": 8,
-      "url": "https://www.theguardian.com/film/gallery/2026/jun/01/marilyn-monroe-lookalikes-palm-springs-gallery",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Zach Lahn",
-      "count": 7,
-      "url": "https://www.npr.org/2026/06/02/g-s1-125550/iowa-election-results-josh-turek-zach-lahn",
-      "source": "NPR"
-    },
-    {
-      "name": "Xavier Becerra",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vladimir Putin",
-      "count": 6,
-      "url": "https://www.theguardian.com/world/2026/jun/03/ukraine-drones-st-petersburg-russia-economic-forum",
+      "url": "https://www.theguardian.com/culture/2026/jun/03/the-misfits-movie-1961-marilyn-monroe-final-film-arthur-miller",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "World Cup Experts’ Network",
-      "count": 12,
+      "count": 14,
       "url": "https://www.theguardian.com/football/2026/jun/03/sweden-world-cup-2026-team-guide",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 4,
-      "url": "https://www.theguardian.com/football/2026/jun/02/world-cup-fans-16-host-cities-us-mexico-canada-fifa-ticket-prices",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Wimbledon",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/jun/03/players-wont-protest-when-they-hear-wimbledon-prize-money-claim-organisers-tennis",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/2026/jun/03/campaign-to-deliver-biggest-complaint-fifa-has-ever-received-launches-before-world-cup",
       "source": "The Guardian"
     },
     {
@@ -212,16 +144,28 @@
       "source": "NY Times"
     },
     {
-      "name": "Super Bowl",
-      "count": 3,
-      "url": "https://www.latimes.com/sports/rams/story/2026-06-02/rams-doing-everything-they-can-to-win-over-la-love",
-      "source": "LA Times"
+      "name": "The French Open",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/jun/03/aryna-sabalenka-crashes-out-diana-shnaider-qualifier-maja-chwalinska-into-semis-on-day-of-shocks-french-open-tennis",
+      "source": "The Guardian"
     },
     {
       "name": "Stanley Cup",
       "count": 2,
       "url": "https://www.theguardian.com/sport/2026/jun/02/tomas-hertl-vegas-golden-knights-carolina-hurricanes-stanley-cup-final",
       "source": "The Guardian"
+    },
+    {
+      "name": "Wimbledon",
+      "count": 2,
+      "url": "https://www.theguardian.com/fashion/ng-interactive/2026/jun/02/jilly-cooper-blowdry-is-back-big-80s-hairstyles-to-try-now",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Super Bowl",
+      "count": 2,
+      "url": "https://www.latimes.com/sports/rams/story/2026-06-02/rams-doing-everything-they-can-to-win-over-la-love",
+      "source": "LA Times"
     },
     {
       "name": "War Games",
@@ -240,13 +184,69 @@
       "count": 1,
       "url": "https://www.theguardian.com/sport/live/2026/jun/03/french-open-2026-kalinskaya-chwalinska-sabalenka-shnaider-quarter-finals-auger-aliassime-cobolli-berrettini-arnaldi-live",
       "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "California",
+      "count": 40,
+      "url": "https://www.nytimes.com/2026/06/03/us/politics/primaries-california-iowa-questions.html",
+      "source": "NY Times"
     },
     {
-      "name": "The Stanley Cup Final",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/jun/02/tomas-hertl-vegas-golden-knights-carolina-hurricanes-stanley-cup-final",
+      "name": "Us",
+      "count": 34,
+      "url": "https://www.theguardian.com/us-news/2026/jun/03/trump-intelligence-chief-fisa-surveillance-program",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/06/02/us/politics/trump-iran-strait-of-hormuz.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iowa",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/06/03/us/politics/primaries-california-iowa-questions.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City",
+      "count": 16,
+      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-05-20/nicolas-cage-lamorne-morris-helm-spider-noir-visual-spectacle",
+      "source": "LA Times"
+    },
+    {
+      "name": "L.A. County",
+      "count": 15,
+      "url": "https://www.latimes.com/california/story/2026-06-01/2026-california-election-obscure-races-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Texas",
+      "count": 10,
+      "url": "https://www.washingtonpost.com/nation/2026/06/02/texas-detransition-clinic-offer-surgery-counseling-fertility-treatment/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Mexico City",
+      "count": 10,
+      "url": "https://www.theguardian.com/football/2026/jun/02/world-cup-fans-16-host-cities-us-mexico-canada-fifa-ticket-prices",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-06-03T11:59:15Z"
+  "updated": "2026-06-03T18:01:50Z"
 };
