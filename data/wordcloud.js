@@ -2,48 +2,43 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    92,
-    "https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html"
-  ],
-  [
-    "iran",
-    44,
-    "https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html"
+    86,
+    "https://www.nytimes.com/2026/06/03/us/politics/republicans-trump-fund-iran-war-elections.html"
   ],
   [
     "president",
-    41,
+    39,
+    "https://www.nytimes.com/2026/06/03/us/politics/republicans-trump-fund-iran-war-elections.html"
+  ],
+  [
+    "iran",
+    33,
     "https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html"
-  ],
-  [
-    "war",
-    35,
-    "https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html"
-  ],
-  [
-    "democrats",
-    31,
-    "https://www.nytimes.com/2026/06/03/us/politics/iran-war-powers-trump-republicans.html"
-  ],
-  [
-    "because",
-    27,
-    "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
-  ],
-  [
-    "family",
-    26,
-    "https://www.theguardian.com/us-news/video/2026/jun/03/robert-reich-trump-slush-fund"
-  ],
-  [
-    "york",
-    24,
-    "https://www.nytimes.com/2026/06/03/nyregion/mamdani-knicks-ad-campaign.html"
   ],
   [
     "cup",
-    24,
+    32,
     "https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html"
+  ],
+  [
+    "democrats",
+    29,
+    "https://www.nytimes.com/2026/06/03/us/politics/iran-war-powers-trump-republicans.html"
+  ],
+  [
+    "war",
+    26,
+    "https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html"
+  ],
+  [
+    "black",
+    24,
+    "https://www.nytimes.com/2026/06/04/us/politics/democrats-black-representation-redistricting.html"
+  ],
+  [
+    "family",
+    24,
+    "https://www.nytimes.com/2026/06/03/style/david-baerwald-the-fire-agent.html"
   ],
   [
     "game",
@@ -51,214 +46,159 @@
     "https://www.theguardian.com/sport/2026/jun/03/nba-finals-game-1-knicks-spurs"
   ],
   [
-    "million",
+    "social",
     22,
-    "https://www.nytimes.com/2026/06/03/us/politics/park-service-bridge-statues-gold.html"
+    "https://www.nytimes.com/2026/06/04/us/social-media-schools.html"
   ],
   [
-    "film",
+    "because",
     22,
-    "https://www.theguardian.com/books/2026/jun/03/james-ellroy-red-sheet"
+    "https://www.theguardian.com/news/2026/jun/04/cuba-first-independent-magazine-sneeze-troubles-began-state-security"
   ],
   [
-    "games",
-    22,
-    "https://www.theguardian.com/sport/2026/jun/03/nba-finals-game-1-knicks-spurs"
+    "police",
+    20,
+    "https://www.theguardian.com/society/2026/jun/04/murdered-missing-unidentified-the-tragic-stories-that-inspire-britains-cold-case-investigators"
   ],
   [
-    "latest",
-    21,
-    "https://www.washingtonpost.com/nation/2026/06/02/key-senate-race-graham-platners-sexting-controversy-doesnt-faze-voters/"
-  ],
-  [
-    "general",
-    19,
-    "https://www.nytimes.com/2026/06/03/us/politics/trump-fund.html"
-  ],
-  [
-    "administration",
-    19,
-    "https://www.nytimes.com/2026/06/03/us/politics/trump-fund.html"
-  ],
-  [
-    "black",
-    19,
-    "https://www.theguardian.com/us-news/2026/jun/03/ben-black-investment-trump-epstein"
-  ],
-  [
-    "republicans",
-    18,
-    "https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html"
-  ],
-  [
-    "attorney",
-    18,
-    "https://www.nytimes.com/2026/06/03/us/politics/trump-fund.html"
+    "love",
+    20,
+    "https://www.theguardian.com/music/2026/may/31/ed-obrien-honest-playlist-smiths-george-michael-scotland-1978-world-cup-squad"
   ],
   [
     "cbs",
-    18,
+    19,
     "https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html"
   ],
   [
-    "country",
-    18,
-    "https://www.nytimes.com/2026/06/03/business/new-world-screwworm-texas.html"
+    "team",
+    19,
+    "https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html"
   ],
   [
-    "social",
-    18,
-    "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
+    "early",
+    19,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "games",
+    19,
+    "https://www.theguardian.com/sport/2026/jun/03/nba-finals-game-1-knicks-spurs"
   ],
   [
     "media",
     18,
-    "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
+    "https://www.nytimes.com/2026/06/04/us/social-media-schools.html"
   ],
   [
-    "school",
+    "latest",
     18,
-    "https://www.theguardian.com/us-news/2026/jun/03/vermont-school-district-trump-ice"
-  ],
-  [
-    "california",
-    18,
-    "https://www.theguardian.com/us-news/2026/jun/03/california-monterey-park-datacenters-ban"
-  ],
-  [
-    "fund",
-    17,
-    "https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html"
-  ],
-  [
-    "knicks",
-    17,
-    "https://www.nytimes.com/2026/06/03/nyregion/mamdani-knicks-ad-campaign.html"
-  ],
-  [
-    "security",
-    17,
-    "https://www.nytimes.com/2026/06/03/nyregion/nj-governor-sherrill-delaney-hall.html"
-  ],
-  [
-    "senate",
-    17,
     "https://www.washingtonpost.com/nation/2026/06/02/key-senate-race-graham-platners-sexting-controversy-doesnt-faze-voters/"
   ],
   [
-    "released",
-    17,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "york",
+    18,
+    "https://www.theguardian.com/sport/2026/jun/03/nba-finals-game-1-knicks-spurs"
   ],
   [
-    "video",
+    "republicans",
     17,
-    "https://www.theguardian.com/sport/2026/jun/03/donald-trump-ufc-arena-white-house-permanent"
+    "https://www.nytimes.com/2026/06/03/us/politics/republicans-trump-fund-iran-war-elections.html"
   ],
   [
     "political",
-    16,
-    "https://www.nytimes.com/2026/06/03/nyregion/mamdani-knicks-ad-campaign.html"
+    17,
+    "https://www.nytimes.com/2026/06/04/world/middleeast/hezbollah-fiber-optic-drones-israel.html"
   ],
   [
-    "minutes",
-    16,
-    "https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html"
+    "school",
+    17,
+    "https://www.nytimes.com/2026/06/04/us/social-media-schools.html"
   ],
   [
-    "south",
-    16,
-    "https://www.nytimes.com/2026/06/03/business/new-world-screwworm-texas.html"
-  ],
-  [
-    "texas",
-    16,
-    "https://www.nytimes.com/2026/06/03/business/new-world-screwworm-texas.html"
-  ],
-  [
-    "immigration",
-    15,
-    "https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html"
-  ],
-  [
-    "love",
-    15,
-    "https://www.nytimes.com/2026/06/03/us/politics/trump-fund.html"
-  ],
-  [
-    "district",
-    15,
-    "https://www.nytimes.com/2026/06/03/us/politics/supreme-court-voting-rights-alabama.html"
-  ],
-  [
-    "early",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "fire",
-    15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "don",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
-  ],
-  [
-    "guide",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
+    "country",
+    17,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "american",
+    17,
+    "https://www.theguardian.com/us-news/video/2026/jun/03/robert-reich-trump-slush-fund"
+  ],
+  [
+    "administration",
+    16,
+    "https://www.nytimes.com/2026/06/03/climate/trump-ocean-monitor-european-union.html"
+  ],
+  [
+    "fire",
+    16,
+    "https://www.nytimes.com/2026/06/03/style/david-baerwald-the-fire-agent.html"
+  ],
+  [
+    "university",
+    16,
+    "https://www.theguardian.com/news/2026/jun/04/cuba-first-independent-magazine-sneeze-troubles-began-state-security"
+  ],
+  [
+    "video",
+    16,
+    "https://www.theguardian.com/film/2026/jun/04/roberto-dos-santos-on-directing-the-first-straight-to-vhs-movie-in-20-years"
+  ],
+  [
+    "film",
+    16,
+    "https://www.theguardian.com/film/2026/jun/04/roberto-dos-santos-on-directing-the-first-straight-to-vhs-movie-in-20-years"
+  ],
+  [
+    "california",
+    16,
+    "https://www.theguardian.com/us-news/2026/jun/04/california-governors-race"
+  ],
+  [
+    "term",
     15,
-    "https://www.theguardian.com/books/2026/jun/03/james-ellroy-red-sheet"
+    "https://www.nytimes.com/2026/06/03/us/elections/karen-bass-la-mayor.html"
   ],
   [
-    "director",
+    "center",
     15,
-    "https://www.theguardian.com/world/video/2026/jun/03/whats-at-risk-when-universities-cancel-graduation-speakers"
+    "https://www.nytimes.com/2026/06/03/nyregion/nj-governor-sherrill-delaney-hall.html"
   ],
   [
-    "police",
+    "security",
     15,
-    "https://www.theguardian.com/commentisfree/2026/jun/03/delaney-hall-new-jersey-protests-police"
-  ],
-  [
-    "star",
-    14,
-    "https://www.nytimes.com/2026/06/03/nyregion/mamdani-knicks-ad-campaign.html"
-  ],
-  [
-    "team",
-    14,
-    "https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html"
-  ],
-  [
-    "states",
-    14,
-    "https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html"
-  ],
-  [
-    "court",
-    14,
-    "https://www.nytimes.com/2026/06/03/us/politics/supreme-court-voting-rights-alabama.html"
-  ],
-  [
-    "department",
-    14,
     "https://www.nytimes.com/2026/06/03/nyregion/nj-governor-sherrill-delaney-hall.html"
   ],
   [
     "questions",
-    14,
+    15,
     "https://www.nytimes.com/2026/06/03/nyregion/nj-governor-sherrill-delaney-hall.html"
   ],
   [
-    "ice",
+    "minutes",
+    15,
+    "https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html"
+  ],
+  [
+    "book",
+    15,
+    "https://www.nytimes.com/2026/06/02/books/review/david-baerwald-fire-agent.html"
+  ],
+  [
+    "voters",
+    15,
+    "https://www.nytimes.com/2026/06/04/arts/television/late-night-spencer-pratt.html"
+  ],
+  [
+    "general",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/04/california-governors-race"
+  ],
+  [
+    "series",
     14,
-    "https://www.nytimes.com/2026/06/03/us/politics/louisiana-ice-facility-mistreated-immigrants.html"
+    "https://www.nytimes.com/2026/06/04/world/europe/marjane-satrapi-persepolis-death.html"
   ],
   [
     "market",
@@ -266,22 +206,67 @@
     "https://www.nytimes.com/2026/06/03/arts/design/pace-gallery-artist-cuts.html"
   ],
   [
+    "late",
+    14,
+    "https://www.nytimes.com/2026/06/04/arts/television/late-night-spencer-pratt.html"
+  ],
+  [
+    "night",
+    14,
+    "https://www.nytimes.com/2026/06/04/arts/television/late-night-spencer-pratt.html"
+  ],
+  [
+    "senate",
+    14,
+    "https://www.washingtonpost.com/nation/2026/06/02/key-senate-race-graham-platners-sexting-controversy-doesnt-faze-voters/"
+  ],
+  [
+    "change",
+    14,
+    "https://www.washingtonpost.com/nation/2026/06/02/key-senate-race-graham-platners-sexting-controversy-doesnt-faze-voters/"
+  ],
+  [
+    "attack",
+    14,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "growing",
+    14,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "guide",
+    14,
+    "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide"
+  ],
+  [
     "donald",
     14,
-    "https://www.theguardian.com/world/2026/jun/04/protests-in-albania-grow-over-jared-kushner-backed-luxury-resort"
+    "https://www.theguardian.com/commentisfree/2026/jun/04/trump-k-shaped-economy"
   ],
   [
-    "university",
+    "knicks",
     14,
-    "https://www.theguardian.com/news/2026/jun/04/cuba-first-independent-magazine-sneeze-troubles-began-state-security"
+    "https://www.theguardian.com/sport/2026/jun/03/nba-finals-game-1-knicks-spurs"
   ],
   [
-    "food",
+    "attorney",
     14,
-    "https://www.theguardian.com/world/2026/jun/04/japan-naphtha-shortage-plastic-bag"
+    "https://www.theguardian.com/us-news/2026/jun/03/gender-reveal-fireworks-california-wildfire-settlement"
+  ],
+  [
+    "district",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/03/gender-reveal-fireworks-california-wildfire-settlement"
   ],
   [
     "russian",
+    14,
+    "https://www.theguardian.com/world/2026/jun/04/ukraine-war-briefing-russia-losing-on-the-ground-so-pivots-to-air-war-say-analysts"
+  ],
+  [
+    "food",
     14,
     "https://www.theguardian.com/world/2026/jun/04/ukraine-war-briefing-russia-losing-on-the-ground-so-pivots-to-air-war-say-analysts"
   ],
@@ -291,88 +276,103 @@
     "https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html"
   ],
   [
-    "government",
+    "military",
     13,
-    "https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html"
+    "https://www.nytimes.com/2026/06/04/world/middleeast/hezbollah-fiber-optic-drones-israel.html"
   ],
   [
-    "center",
+    "hall",
     13,
-    "https://www.nytimes.com/2026/06/04/us/politics/obama-museum-parallel-trip.html"
+    "https://www.nytimes.com/2026/06/03/nyregion/nj-governor-sherrill-delaney-hall.html"
   ],
   [
-    "case",
+    "scott",
     13,
-    "https://www.nytimes.com/2026/06/03/business/new-world-screwworm-texas.html"
+    "https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html"
   ],
   [
-    "doing",
+    "released",
     13,
-    "https://www.washingtonpost.com/nation/2026/06/03/mystery-people-keep-emerging-nyc-manholes-heres-what-we-know/"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "spurs",
+    "fund",
     13,
-    "https://www.theguardian.com/us-news/gallery/2026/jun/03/new-york-1973-knicks"
+    "https://www.theguardian.com/us-news/2026/jun/03/white-house-ballroom-funding-republicans"
   ],
   [
-    "fewer",
+    "father",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/03/makeup-over-50-moisturizers-tints-blushes"
+    "https://www.theguardian.com/football/2026/jun/03/ibrahima-konate-reveals-struggles-in-year-of-personal-tragedy"
   ],
   [
-    "race",
+    "killed",
     13,
-    "https://www.theguardian.com/culture/2026/jun/03/jimmy-kimmel-trump-spencer-pratt"
+    "https://www.theguardian.com/us-news/2026/jun/03/us-boat-strike-eastern-pacific-ocean"
   ],
   [
     "music",
     13,
-    "https://www.theguardian.com/music/2026/jun/03/is-there-a-pianist-in-the-house-how-audience-members-and-fellow-musicians-have-saved-the-show"
+    "https://www.theguardian.com/music/2026/may/31/ed-obrien-honest-playlist-smiths-george-michael-scotland-1978-world-cup-squad"
   ],
   [
-    "series",
+    "fewer",
     13,
-    "https://www.theguardian.com/sport/2026/jun/03/donald-trump-ufc-arena-white-house-permanent"
+    "https://www.theguardian.com/games/2026/jun/03/god-of-war-laufey-playstation-state-of-play"
   ],
   [
-    "hong",
+    "rep",
     13,
-    "https://www.theguardian.com/world/2026/jun/04/hong-kong-artist-tiananmen-square-massacre-tribute-intercepted-by-police"
+    "https://www.foxnews.com/politics/conservatives-erupt-after-al-green-melts-down-during-viral-clash-unhinged-lunatic"
   ],
   [
-    "party",
+    "texas",
+    13,
+    "https://www.cbsnews.com/news/flesh-eating-screwworm-detected-25-miles-us-border-usda/"
+  ],
+  [
+    "decision",
     12,
-    "https://www.nytimes.com/2026/06/03/us/politics/iran-war-powers-trump-republicans.html"
+    "https://www.nytimes.com/2026/06/04/us/politics/democrats-black-representation-redistricting.html"
   ],
   [
-    "ukraine",
+    "tech",
     12,
-    "https://www.nytimes.com/2026/06/03/us/house-russia-ukraine-sanctions-aid.html"
+    "https://www.nytimes.com/2026/06/04/us/social-media-schools.html"
   ],
   [
-    "pay",
+    "director",
     12,
-    "https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html"
+    "https://www.nytimes.com/2026/06/04/theater/lane-metcalf-mantello-death-of-a-salesman-broadway.html"
   ],
   [
-    "blanche",
+    "immigration",
     12,
-    "https://www.nytimes.com/2026/06/03/us/politics/trump-fund.html"
+    "https://www.nytimes.com/2026/06/03/nyregion/nj-governor-sherrill-delaney-hall.html"
   ],
   [
-    "play",
+    "governor",
+    12,
+    "https://www.nytimes.com/2026/06/03/nyregion/nj-governor-sherrill-delaney-hall.html"
+  ],
+  [
+    "states",
     12,
     "https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html"
   ],
   [
-    "scott",
+    "campaign",
     12,
-    "https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html"
+    "https://www.washingtonpost.com/nation/2026/06/02/key-senate-race-graham-platners-sexting-controversy-doesnt-faze-voters/"
   ],
   [
-    "correspondent",
+    "million",
     12,
-    "https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "investigation",
+    12,
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
   ]
 ];
