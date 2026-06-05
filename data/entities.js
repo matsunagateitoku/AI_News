@@ -3,39 +3,45 @@
   "EVENT": [
     {
       "name": "World Cup Experts’ Network",
-      "count": 12,
+      "count": 11,
       "url": "https://www.theguardian.com/football/2026/jun/05/cape-verde-world-cup-2026-team-guide",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike",
+      "count": 7,
+      "url": "https://www.theguardian.com/football/2026/jun/05/iran-world-cup-mood-streets",
       "source": "The Guardian"
     },
     {
-      "name": "The Stanley Cup Final",
+      "name": "Game 2",
       "count": 3,
-      "url": "https://www.foxnews.com/sports/seth-jarvis-scores-overtime-game-winner-hurricanes-storm-back-2-0-deficit-even-stanley-cup-final",
+      "url": "https://www.foxnews.com/outkick-sports/spurs-expected-bounce-back-game-2-knicks-blowing-late-lead-series-opener",
       "source": "Fox News"
     },
     {
-      "name": "The Super Bowl",
+      "name": "The Stanley Cup Final",
       "count": 2,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike",
-      "source": "The Guardian"
+      "url": "https://www.foxnews.com/sports/golden-knights-defenseman-hospitalized-taking-87-mph-shot-face-horrifying-scene",
+      "source": "Fox News"
     },
     {
-      "name": "Olympics",
-      "count": 2,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New ‘60 Minutes",
+      "name": "The 1990 World Cup",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/06/04/business/nick-bilton-60-minutes-memo.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/football/2026/jun/05/iran-world-cup-mood-streets",
+      "source": "The Guardian"
+    },
+    {
+      "name": "French Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/live/2026/jun/05/french-open-2026-jakub-mensik-alexander-zverev-cobolli-arnaldi-mens-semi-finals-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cup 2026",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "source": "The Guardian"
     },
     {
       "name": "World Series",
@@ -44,171 +50,121 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Vietnam War",
-      "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/04/scott-pelley-60-minutes-firing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Watergate",
-      "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/04/scott-pelley-60-minutes-firing",
-      "source": "The Guardian"
-    },
-    {
       "name": "Game 3",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/jun/04/donald-trump-knicks-nba-finals-madison-square-garden",
       "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 47,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/04/uk-hasan-piker-ban-israel",
-      "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 27,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/california-governors-race",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 20,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/house-bill-ukraine-aid",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Los Angeles County",
-      "count": 16,
-      "url": "https://www.latimes.com/california/story/2026-06-04/two-plead-guilty-to-freeway-heists-of-la-casino-winners",
-      "source": "LA Times"
-    },
-    {
-      "name": "Israel",
-      "count": 14,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "U.S.",
-      "count": 13,
-      "url": "https://www.washingtonpost.com/nation/2026/06/04/flesh-eating-screwworm-found-texas-sparking-fears-us-cattle/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "L.A. County'S",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-06-04/dtla-law-firm-california-state-bar-charges",
-      "source": "LA Times"
-    },
-    {
-      "name": "Russia",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "China",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/06/05/business/china-investment-rules.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City’S",
-      "count": 10,
-      "url": "https://www.theguardian.com/sport/2026/jun/05/rikers-island-nba-finals-new-york-knicks-photos",
+      "name": "Typhoon No 6",
+      "count": 1,
+      "url": "https://www.theguardian.com/environment/2026/jun/05/typhoon-jangmi-no-6-japan",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Toughens Rules",
-      "count": 64,
-      "url": "https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html",
+      "name": "Trump Keeps Immunity",
+      "count": 41,
+      "url": "https://www.nytimes.com/2026/06/05/us/politics/trump-immunity-tax-audit.html",
       "source": "NY Times"
     },
     {
-      "name": "Maine Senate",
-      "count": 47,
-      "url": "https://www.foxnews.com/politics/dem-senator-bankrolling-platners-campaign-ripped-for-downplaying-abuse-allegations",
-      "source": "Fox News"
-    },
-    {
-      "name": "The White House",
-      "count": 20,
-      "url": "https://thehill.com/regulation/court-battles/5910799-trump-white-house-ballroom-lawsuit/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Guardian News",
-      "count": 14,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
+      "name": "Democratic Maine Senate",
+      "count": 27,
+      "url": "https://www.cbsnews.com/video/new-allegations-against-graham-platner-emerge/",
+      "source": "CBS News"
     },
     {
       "name": "Ai",
-      "count": 13,
-      "url": "https://www.theguardian.com/australia-news/2026/jun/05/trust-in-ai-roy-morgan-australia-university-professor-opinion-piece-technology",
+      "count": 18,
+      "url": "https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks",
       "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
-      "count": 10,
+      "count": 11,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "New York Knicks",
+      "name": "White House",
+      "count": 10,
+      "url": "https://www.cbsnews.com/news/homan-new-jersey-ice-detention-center-delaney-hall-protests-interview/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The New York Times",
       "count": 9,
-      "url": "https://www.theguardian.com/sport/2026/jun/04/donald-trump-knicks-nba-finals-madison-square-garden",
+      "url": "https://www.foxnews.com/media/graham-platner-accuser-hits-nyt-allegedly-softening-allegations-says-coverage-gift-democrat",
+      "source": "Fox News"
+    },
+    {
+      "name": "Cbs Mornings Deals",
+      "count": 9,
+      "url": "https://www.cbsnews.com/video/cbs-mornings-deals-060526/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Guardian News",
+      "count": 8,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nba",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/jun/05/rikers-island-nba-finals-new-york-knicks-photos",
       "source": "The Guardian"
     },
     {
       "name": "Gop",
-      "count": 9,
+      "count": 7,
       "url": "https://www.npr.org/2026/06/05/nx-s1-5846807/senate-weaponization-fund-reconciliation-vote-immigration-enforcement",
       "source": "NPR"
-    },
-    {
-      "name": "Cbs News",
-      "count": 9,
-      "url": "https://www.cbsnews.com/news/fda-launches-safety-study-for-abortion-pill-mifepristone/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Nba Finals",
-      "count": 9,
-      "url": "https://www.cbsnews.com/news/trump-nba-finals-in-new-york-city/",
-      "source": "CBS News"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 37,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/pam-bondi-epstein-transcript",
+      "count": 23,
+      "url": "https://www.theguardian.com/us-news/2026/jun/05/donald-trump-e-jean-carroll-lawsuit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Steve Hilton",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/jun/05/california-primary-election-races-too-close-to-call",
       "source": "The Guardian"
     },
     {
       "name": "Vladimir Putin",
-      "count": 15,
-      "url": "https://www.theguardian.com/world/2026/jun/04/zelenskyy-calls-for-face-to-face-negotiations-letter-putin-ukraine-russia-trump",
+      "count": 10,
+      "url": "https://www.foxnews.com/world/zelenskyy-issues-open-letter-putin-proposing-meeting-us-fully-focused-iran",
+      "source": "Fox News"
+    },
+    {
+      "name": "Alice",
+      "count": 9,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/05/jemaine-clement-nicola-walker-interview-alice-and-steve-disney",
       "source": "The Guardian"
     },
     {
       "name": "Graham Platner",
-      "count": 14,
+      "count": 8,
       "url": "https://www.nytimes.com/2026/06/04/us/politics/graham-platner-maine-senate-former-girlfriends.html",
       "source": "NY Times"
     },
     {
-      "name": "Bill Pulte",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/trump-bill-pulte-national-intelligence",
+      "name": "James Handy",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/06/05/us/james-handy-stabbed-dead-la-top-gun-jumanji.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Dua Lipa",
+      "count": 8,
+      "url": "https://www.theguardian.com/music/2026/jun/05/dua-lipa-callum-turner-wedding-divides-palermo",
       "source": "The Guardian"
     },
     {
@@ -218,35 +174,79 @@
       "source": "The Guardian"
     },
     {
-      "name": "Todd Blanche",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/pam-bondi-epstein-transcript",
-      "source": "The Guardian"
+      "name": "Karen Read Breaks Silence On",
+      "count": 7,
+      "url": "https://www.today.com/video/karen-read-on-her-new-lawsuit-against-police-it-s-not-done-yet-264593477774",
+      "source": "NBC News"
     },
     {
-      "name": "Steve Hilton",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/california-governors-race",
-      "source": "The Guardian"
-    },
-    {
-      "name": "James Handy",
-      "count": 8,
-      "url": "https://www.theguardian.com/culture/2026/jun/05/james-handy-actor-top-gun-maverick-jumanji-dies-fatal-stabbing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "John Bolton",
+      "name": "Platner Ex-Girlfriend",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/john-bolton-pleads-guilty-classified-documents",
+      "url": "https://thehill.com/homenews/media/5911722-platner-ex-girlfriend-new-york-times/",
+      "source": "The Hill"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 50,
+      "url": "https://www.theguardian.com/science/2026/jun/05/international-space-station-astronauts-under-evacuation-orders",
       "source": "The Guardian"
     },
     {
-      "name": "Alice",
-      "count": 6,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/05/alice-and-steve-to-proud-the-seven-best-shows-to-stream-this-week",
+      "name": "California",
+      "count": 25,
+      "url": "https://www.theguardian.com/us-news/2026/jun/05/california-primary-election-races-too-close-to-call",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/06/05/world/middleeast/lebanon-cease-fire-israel-hezbollah.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Los Angeles County",
+      "count": 15,
+      "url": "https://www.latimes.com/california/story/2026-06-04/two-plead-guilty-to-freeway-heists-of-la-casino-winners",
+      "source": "LA Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/06/05/world/europe/russia-satellites-gps-interference-europe.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/06/05/world/middleeast/lebanon-cease-fire-israel-hezbollah.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City ’S",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/jun/05/mamdani-new-york-city-consumer-watchdog",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A.",
+      "count": 11,
+      "url": "https://www.latimes.com/california/story/2026-06-05/los-angeles-city-attorney-incumbent-2026-primary",
+      "source": "LA Times"
+    },
+    {
+      "name": "Japan",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "The Democratic Republic Of Congo",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/live/2026/jun/05/us-politics-latest-news-updates-donald-trump-republicans-democrats",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-06-05T10:51:42Z"
+  "updated": "2026-06-05T15:58:17Z"
 };
