@@ -2,128 +2,198 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    111,
-    "https://www.nytimes.com/2026/06/04/us/trump-celebrities-vanilla-ice-freedom-250.html"
+    110,
+    "https://www.nytimes.com/2026/06/04/us/politics/trump-payout-fund.html"
   ],
   [
     "president",
-    66,
-    "https://www.nytimes.com/2026/06/04/us/trump-celebrities-vanilla-ice-freedom-250.html"
-  ],
-  [
-    "california",
-    36,
-    "https://www.nytimes.com/2026/06/04/us/california-primary-governor-mayor-results.html"
+    63,
+    "https://www.nytimes.com/2026/06/04/us/politics/trump-payout-fund.html"
   ],
   [
     "senate",
-    35,
-    "https://www.nytimes.com/2026/06/04/us/politics/platner-maine-senate-girlfriends-relationships.html"
+    52,
+    "https://www.nytimes.com/2026/06/04/us/politics/trump-payout-fund.html"
+  ],
+  [
+    "fund",
+    34,
+    "https://www.nytimes.com/2026/06/04/us/politics/postal-service-finances.html"
   ],
   [
     "york",
-    35,
-    "https://www.theguardian.com/sport/2026/jun/04/jalen-brunson-new-york-knicks-nba-finals-game-1"
+    29,
+    "https://www.nytimes.com/2026/06/05/magazine/james-murdoch-vox-new-york-magazine.html"
   ],
   [
-    "game",
+    "bill",
     28,
-    "https://www.theguardian.com/sport/2026/jun/04/jalen-brunson-new-york-knicks-nba-finals-game-1"
+    "https://www.nytimes.com/2026/06/04/us/politics/trump-payout-fund.html"
   ],
   [
     "family",
-    27,
+    28,
     "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family"
   ],
   [
-    "war",
-    26,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "california",
+    28,
+    "https://www.theguardian.com/us-news/2026/jun/04/california-governors-race"
   ],
   [
-    "republicans",
-    24,
-    "https://www.nytimes.com/2026/06/04/us/california-primary-governor-mayor-results.html"
+    "anti",
+    25,
+    "https://www.theguardian.com/us-news/2026/jun/04/trump-news-at-a-glance-latest-updates-today"
   ],
   [
-    "cup",
-    24,
-    "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide"
-  ],
-  [
-    "iran",
-    22,
-    "https://www.nytimes.com/2026/06/04/world/middleeast/lebanon-israel-ceasefire-hezbollah-strikes.html"
+    "democrats",
+    23,
+    "https://www.nytimes.com/2026/06/04/us/politics/house-ukraine-aid-russia-republicans.html"
   ],
   [
     "because",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/jun/04/uk-hasan-piker-ban-israel"
+    23,
+    "https://www.nytimes.com/2026/06/04/nyregion/charles-oakley-madison-square-garden-knicks-finals.html"
   ],
   [
-    "cbs",
+    "democratic",
     22,
-    "https://www.theguardian.com/commentisfree/2026/jun/04/scott-pelley-60-minutes-firing"
+    "https://www.nytimes.com/2026/06/04/us/politics/platner-maine-senate-girlfriends-relationships.html"
+  ],
+  [
+    "race",
+    22,
+    "https://www.nytimes.com/2026/06/04/us/politics/graham-platner-maine-senate-former-girlfriends.html"
+  ],
+  [
+    "game",
+    22,
+    "https://www.nytimes.com/2026/06/04/nyregion/charles-oakley-madison-square-garden-knicks-finals.html"
+  ],
+  [
+    "cup",
+    22,
+    "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike"
   ],
   [
     "food",
     21,
-    "https://www.theguardian.com/thefilter-us/2026/jun/04/best-tips-to-remove-stains-white-clothing"
+    "https://www.theguardian.com/environment/2026/jun/05/global-meat-supply-chicken-pork-fao-report"
   ],
   [
-    "democrats",
-    20,
-    "https://www.nytimes.com/2026/06/04/us/politics/house-ukraine-aid-russia-republicans.html"
-  ],
-  [
-    "water",
-    20,
-    "https://www.theguardian.com/global/2026/jun/04/beagle-rescue-foster-adopt"
-  ],
-  [
-    "race",
-    19,
-    "https://www.nytimes.com/2026/06/04/us/politics/graham-platner-maine-senate-former-girlfriends.html"
-  ],
-  [
-    "vote",
-    19,
-    "https://www.nytimes.com/2026/06/04/us/elections/raman-pratt-los-angeles-mayor.html"
-  ],
-  [
-    "democratic",
-    18,
-    "https://www.nytimes.com/2026/06/04/us/politics/platner-maine-senate-girlfriends-relationships.html"
-  ],
-  [
-    "don",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/jun/04/uk-hasan-piker-ban-israel"
+    "republicans",
+    21,
+    "https://www.theguardian.com/us-news/2026/jun/04/trump-news-at-a-glance-latest-updates-today"
   ],
   [
     "film",
+    21,
+    "https://www.theguardian.com/music/2026/jun/05/taylor-swift-i-knew-it-i-knew-you-review-toy-story-5"
+  ],
+  [
+    "party",
+    20,
+    "https://www.nytimes.com/2026/06/04/us/politics/trump-payout-fund.html"
+  ],
+  [
+    "police",
+    20,
+    "https://www.washingtonpost.com/nation/2026/06/04/karen-read-sues-police-agencies-alleging-officers-sent-racist-sexist-texts/"
+  ],
+  [
+    "vote",
+    20,
+    "https://www.theguardian.com/us-news/2026/jun/04/california-governors-race"
+  ],
+  [
+    "war",
+    19,
+    "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia.html"
+  ],
+  [
+    "primary",
+    19,
+    "https://www.theguardian.com/global-development/2026/jun/05/children-how-chibok-style-school-abductions-spreading-nigeria"
+  ],
+  [
+    "weaponization",
+    19,
+    "https://www.theguardian.com/us-news/2026/jun/04/trump-news-at-a-glance-latest-updates-today"
+  ],
+  [
+    "series",
+    19,
+    "https://www.theguardian.com/world/video/2026/jun/05/i-almost-forgot-how-to-date-the-global-dating-crisis-episode-3-video"
+  ],
+  [
+    "billion",
     18,
-    "https://www.theguardian.com/film/2026/jun/04/office-romance-review-jennifer-lopez-romcom"
+    "https://www.nytimes.com/2026/06/04/us/politics/trump-payout-fund.html"
+  ],
+  [
+    "immigration",
+    18,
+    "https://www.nytimes.com/2026/06/04/us/politics/trump-payout-fund.html"
+  ],
+  [
+    "court",
+    18,
+    "https://www.nytimes.com/2026/06/05/us/politics/appeals-court-trump-ballroom.html"
+  ],
+  [
+    "power",
+    18,
+    "https://www.nytimes.com/2026/06/04/us/trump-celebrities-vanilla-ice-freedom-250.html"
+  ],
+  [
+    "political",
+    18,
+    "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia.html"
+  ],
+  [
+    "country",
+    18,
+    "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia.html"
   ],
   [
     "early",
-    17,
-    "https://www.nytimes.com/2026/06/04/well/lung-cancer-prevention.html"
+    18,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "bill",
-    17,
-    "https://www.nytimes.com/2026/06/04/business/nick-bilton-60-minutes-memo.html"
+    "los",
+    18,
+    "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike"
   ],
   [
-    "announced",
+    "angeles",
+    18,
+    "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike"
+  ],
+  [
+    "media",
+    17,
+    "https://www.nytimes.com/2026/06/05/magazine/james-murdoch-vox-new-york-magazine.html"
+  ],
+  [
+    "night",
+    17,
+    "https://www.nytimes.com/2026/06/05/arts/television/late-night-trump-lincoln-memorial-reflecting-pool.html"
+  ],
+  [
+    "administration",
     17,
     "https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html"
   ],
   [
-    "team",
+    "latest",
     17,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "american",
+    17,
+    "https://www.theguardian.com/music/2026/jun/05/lizzo-bitch-album-review"
   ],
   [
     "games",
@@ -131,39 +201,24 @@
     "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike"
   ],
   [
-    "los",
-    16,
-    "https://www.nytimes.com/2026/06/04/us/california-primary-governor-mayor-results.html"
+    "cbs",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/jun/04/scott-pelley-60-minutes-firing"
   ],
   [
-    "angeles",
+    "water",
     16,
-    "https://www.nytimes.com/2026/06/04/us/california-primary-governor-mayor-results.html"
+    "https://www.nytimes.com/2026/06/05/dining/jeffrey-epstein-stephen-hanson.html"
   ],
   [
-    "administration",
+    "putin",
     16,
-    "https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html"
+    "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia.html"
   ],
   [
-    "police",
+    "sex",
     16,
-    "https://www.washingtonpost.com/nation/2026/06/04/karen-read-sues-police-agencies-alleging-officers-sent-racist-sexist-texts/"
-  ],
-  [
-    "guide",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/jun/04/best-tips-to-remove-stains-white-clothing"
-  ],
-  [
-    "nba",
-    16,
-    "https://www.theguardian.com/sport/2026/jun/04/jalen-brunson-new-york-knicks-nba-finals-game-1"
-  ],
-  [
-    "general",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/04/pam-bondi-epstein-transcript"
+    "https://www.theguardian.com/music/2026/jun/05/i-knew-it-was-over-for-us-the-bands-who-got-left-behind-when-punk-exploded"
   ],
   [
     "donald",
@@ -171,69 +226,59 @@
     "https://www.theguardian.com/us-news/2026/jun/04/pam-bondi-epstein-transcript"
   ],
   [
-    "center",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/04/democrat-louisiana-ice-family-detention-center"
-  ],
-  [
-    "series",
-    16,
-    "https://www.theguardian.com/film/2026/jun/04/scary-movie-review"
-  ],
-  [
-    "security",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/jun/04/iran-us-winning-war-truth-losing-ceasefire"
-  ],
-  [
-    "platner",
+    "inside",
     15,
-    "https://www.nytimes.com/2026/06/04/us/politics/platner-maine-senate-girlfriends-relationships.html"
+    "https://www.nytimes.com/2026/06/05/podcasts/the-headlines/trump-immigrants-tech-schools.html"
   ],
   [
-    "latest",
+    "questions",
     15,
-    "https://www.nytimes.com/2026/06/04/world/middleeast/lebanon-israel-ceasefire-hezbollah-strikes.html"
+    "https://www.nytimes.com/2026/05/17/us/the-big-questions-about-jeffrey-epstein-what-the-times-has-learned.html"
   ],
   [
-    "murder",
+    "play",
     15,
-    "https://www.theguardian.com/commentisfree/2026/jun/04/uk-hasan-piker-ban-israel"
+    "https://www.nytimes.com/2026/06/04/nyregion/charles-oakley-madison-square-garden-knicks-finals.html"
   ],
   [
-    "finals",
+    "star",
     15,
-    "https://www.theguardian.com/sport/2026/jun/04/jalen-brunson-new-york-knicks-nba-finals-game-1"
+    "https://www.nytimes.com/2026/06/04/nyregion/charles-oakley-madison-square-garden-knicks-finals.html"
   ],
   [
-    "night",
+    "election",
     15,
-    "https://www.theguardian.com/sport/2026/jun/04/jalen-brunson-new-york-knicks-nba-finals-game-1"
+    "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia.html"
   ],
   [
-    "american",
+    "voters",
     15,
-    "https://www.theguardian.com/sport/2026/jun/04/jalen-brunson-new-york-knicks-nba-finals-game-1"
-  ],
-  [
-    "case",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/04/pam-bondi-epstein-transcript"
-  ],
-  [
-    "primary",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/04/california-governors-race"
+    "https://www.nytimes.com/2026/06/05/opinion/voting-rights-act-black-voters-south.html"
   ],
   [
     "review",
     15,
-    "https://www.theguardian.com/film/2026/jun/04/scary-movie-review"
+    "https://www.theguardian.com/music/2026/jun/05/lizzo-bitch-album-review"
   ],
   [
-    "power",
+    "general",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/04/pam-bondi-epstein-transcript"
+  ],
+  [
+    "iran",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/04/house-bill-ukraine-aid"
+  ],
+  [
+    "security",
     14,
-    "https://www.nytimes.com/2026/06/04/us/trump-celebrities-vanilla-ice-freedom-250.html"
+    "https://www.nytimes.com/2026/06/05/business/china-investment-rules.html"
+  ],
+  [
+    "platner",
+    14,
+    "https://www.nytimes.com/2026/06/04/us/politics/platner-maine-senate-girlfriends-relationships.html"
   ],
   [
     "recent",
@@ -241,37 +286,27 @@
     "https://www.nytimes.com/2026/06/04/world/europe/zelensky-putin-letter.html"
   ],
   [
-    "party",
+    "economy",
     14,
-    "https://www.nytimes.com/2026/06/04/us/politics/house-ukraine-aid-russia-republicans.html"
+    "https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html"
   ],
   [
-    "election",
+    "island",
     14,
-    "https://www.nytimes.com/2026/06/04/us/california-primary-governor-mayor-results.html"
+    "https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html"
   ],
   [
     "israel",
     14,
-    "https://www.nytimes.com/2026/06/04/world/middleeast/lebanon-israel-ceasefire-hezbollah-strikes.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "released",
     14,
-    "https://www.nytimes.com/2026/06/04/nyregion/plane-light-pole-truck-newark.html"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "questions",
-    14,
-    "https://www.washingtonpost.com/investigations/2026/06/03/trump-library-says-no-twitter-dms-can-be-found-despite-evidence-he-sent-them/"
-  ],
-  [
-    "fewer",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/04/best-tips-to-remove-stains-white-clothing"
-  ],
-  [
-    "attorney",
+    "department",
     14,
     "https://www.theguardian.com/us-news/2026/jun/04/pam-bondi-epstein-transcript"
   ],
@@ -281,54 +316,44 @@
     "https://www.theguardian.com/us-news/2026/jun/04/california-governors-race"
   ],
   [
-    "fund",
+    "guide",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/04/senate-republicans-trump-ally-fund"
+    "https://www.theguardian.com/football/2026/jun/05/cape-verde-world-cup-2026-team-guide"
   ],
   [
-    "intelligence",
+    "death",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/04/trump-bill-pulte-national-intelligence"
+    "https://www.theguardian.com/us-news/2026/jun/04/court-reverses-homicide-convictions-paramedics-elijah-mcclain"
   ],
   [
-    "director",
+    "enforcement",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/04/trump-bill-pulte-national-intelligence"
+    "https://www.latimes.com/california/story/2026-06-04/lapd-gang-unit-internal-affairs-report"
   ],
   [
-    "court",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/04/arizona-prosecutor-appeal-fake-elector-case"
+    "republican",
+    13,
+    "https://www.nytimes.com/2026/06/04/us/politics/trump-payout-fund.html"
   ],
   [
-    "consumer",
-    14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy"
+    "economic",
+    13,
+    "https://www.nytimes.com/2026/06/05/business/china-investment-rules.html"
   ],
   [
-    "political",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/03/silicon-valley-california-primary-election-tech-industry"
-  ],
-  [
-    "movie",
-    14,
-    "https://www.theguardian.com/film/2026/jun/04/scary-movie-review"
-  ],
-  [
-    "media",
-    14,
-    "https://www.theguardian.com/news/2026/jun/04/cuba-first-independent-magazine-sneeze-troubles-began-state-security"
-  ],
-  [
-    "something",
-    14,
-    "https://www.theguardian.com/news/2026/jun/04/cuba-first-independent-magazine-sneeze-troubles-began-state-security"
-  ],
-  [
-    "candidate",
+    "maine",
     13,
     "https://www.nytimes.com/2026/06/04/us/politics/platner-maine-senate-girlfriends-relationships.html"
+  ],
+  [
+    "full",
+    13,
+    "https://www.nytimes.com/2026/06/05/business/college-graduates-job-market.html"
+  ],
+  [
+    "russian",
+    13,
+    "https://www.nytimes.com/2026/06/04/world/europe/zelensky-putin-letter.html"
   ],
   [
     "human",
@@ -336,43 +361,18 @@
     "https://www.nytimes.com/2026/06/04/science/embryos-gene-editing-crispr.html"
   ],
   [
-    "ukraine",
+    "gaza",
     13,
-    "https://www.nytimes.com/2026/06/04/world/europe/zelensky-putin-letter.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "washington",
+    "case",
     13,
-    "https://www.nytimes.com/2026/06/04/insider/trump-ballroom-arch-washington.html"
+    "https://www.theguardian.com/music/2026/jun/05/lizzo-bitch-album-review"
   ],
   [
-    "star",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jun/04/scott-pelley-60-minutes-firing"
-  ],
-  [
-    "sex",
+    "attorney",
     13,
     "https://www.theguardian.com/us-news/2026/jun/04/pam-bondi-epstein-transcript"
-  ],
-  [
-    "energy",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/04/trump-coal-defense-production-act"
-  ],
-  [
-    "breaking",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/04/arizona-prosecutor-appeal-fake-elector-case"
-  ],
-  [
-    "board",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jun/05/orbans-media-slop-spread-poison-beyond-hungary-luckily-fearless-fact-based-reporting-endures"
-  ],
-  [
-    "video",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jun/05/nigel-farage-woke-kills-culture-war-henry-nowak-southampton"
   ]
 ];
