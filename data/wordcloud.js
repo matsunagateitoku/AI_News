@@ -2,28 +2,38 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    74,
+    83,
     "https://www.nytimes.com/2026/06/05/us/politics/trump-immunity-tax-audit.html"
   ],
   [
     "president",
-    37,
+    39,
     "https://www.nytimes.com/2026/06/05/us/politics/trump-immunity-tax-audit.html"
   ],
   [
-    "senate",
-    32,
-    "https://www.nytimes.com/2026/06/04/us/politics/platner-maine-senate-girlfriends-relationships.html"
+    "cup",
+    36,
+    "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike"
+  ],
+  [
+    "family",
+    34,
+    "https://www.nytimes.com/2026/06/05/world/asia/missing-sherpa-mount-everest-found.html"
   ],
   [
     "game",
-    28,
-    "https://www.nytimes.com/2026/06/04/nyregion/charles-oakley-madison-square-garden-knicks-finals.html"
+    32,
+    "https://www.theguardian.com/sport/2026/jun/05/rikers-island-nba-finals-new-york-knicks-photos"
   ],
   [
     "york",
-    26,
-    "https://www.nytimes.com/2026/06/05/magazine/james-murdoch-vox-new-york-magazine.html"
+    30,
+    "https://www.nytimes.com/2026/06/05/nyregion/driven-from-lenapehoking-they-hope-to-return-to-new-york.html"
+  ],
+  [
+    "senate",
+    25,
+    "https://www.nytimes.com/2026/06/05/us/politics/platner-democrats-maine-senate-primary-election.html"
   ],
   [
     "california",
@@ -31,224 +41,234 @@
     "https://www.theguardian.com/us-news/2026/jun/05/california-primary-election-races-too-close-to-call"
   ],
   [
-    "cup",
-    24,
-    "https://www.theguardian.com/football/2026/jun/05/fifa-free-world-cup-tickets-fans"
-  ],
-  [
-    "iran",
+    "minutes",
     23,
-    "https://www.nytimes.com/2026/06/05/us/politics/trump-voters-iran-economy.html"
+    "https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html"
   ],
   [
-    "cbs",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/jun/05/cbs-bari-weiss-morley-safer"
-  ],
-  [
-    "film",
-    23,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/05/relationship-gap-online-discourse"
-  ],
-  [
-    "latest",
+    "bill",
     22,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "democrats",
-    22,
-    "https://www.theguardian.com/us-news/2026/jun/05/senate-blocks-surveillance-program-trump-bill-pulte"
-  ],
-  [
-    "fund",
-    21,
-    "https://www.nytimes.com/2026/06/05/us/politics/trump-immunity-tax-audit.html"
-  ],
-  [
-    "war",
-    21,
-    "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia.html"
-  ],
-  [
-    "family",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/jun/05/cbs-bari-weiss-morley-safer"
+    "https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html"
   ],
   [
     "police",
-    20,
-    "https://www.washingtonpost.com/nation/2026/06/04/karen-read-sues-police-agencies-alleging-officers-sent-racist-sexist-texts/"
+    21,
+    "https://www.nytimes.com/2026/06/05/nyregion/delaney-hall-police-protesters-sherrill.html"
   ],
   [
-    "immigration",
-    20,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "actor",
+    21,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance"
   ],
   [
-    "vote",
-    20,
-    "https://www.theguardian.com/us-news/2026/jun/05/california-primary-election-races-too-close-to-call"
+    "final",
+    21,
+    "https://www.theguardian.com/commentisfree/2026/jun/05/the-guardian-view-on-henry-nowaks-big-tech-and-the-far-right-are-allied-in-an-outrage-arms-race"
   ],
   [
-    "race",
+    "murder",
+    20,
+    "https://www.theguardian.com/us-news/2026/jun/05/us-diplomats-response-to-henry-nowak-incendiary"
+  ],
+  [
+    "because",
     19,
-    "https://www.nytimes.com/2026/06/04/us/politics/graham-platner-maine-senate-former-girlfriends.html"
+    "https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html"
   ],
   [
-    "political",
+    "cbs",
     19,
-    "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia.html"
+    "https://www.nytimes.com/2026/06/04/business/cbs-60-minutes-scott-pelley-bari-weiss.html"
+  ],
+  [
+    "series",
+    19,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance"
+  ],
+  [
+    "games",
+    19,
+    "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike"
   ],
   [
     "food",
     19,
-    "https://www.theguardian.com/world/2026/jun/05/shortage-gas-oil-spare-parts-grinding-gaza-halt"
+    "https://www.theguardian.com/environment/2026/jun/05/global-meat-supply-chicken-pork-fao-report"
   ],
   [
-    "democratic",
+    "democrats",
+    19,
+    "https://www.latimes.com/opinion/story/2026-06-02/democrats-working-class-voters-economics-culture"
+  ],
+  [
+    "iran",
     18,
-    "https://www.nytimes.com/2026/06/04/us/politics/platner-maine-senate-girlfriends-relationships.html"
+    "https://www.nytimes.com/2026/06/05/us/politics/trump-voters-iran-economy.html"
   ],
   [
-    "because",
+    "political",
     18,
-    "https://www.nytimes.com/2026/06/04/nyregion/charles-oakley-madison-square-garden-knicks-finals.html"
+    "https://www.nytimes.com/2026/06/05/world/europe/putin-war-st-petersburg-economic-forum.html"
   ],
   [
-    "night",
+    "anthony",
     18,
-    "https://www.nytimes.com/2026/06/05/arts/television/late-night-trump-lincoln-memorial-reflecting-pool.html"
+    "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance"
   ],
   [
-    "department",
+    "star",
     18,
-    "https://www.theguardian.com/us-news/2026/jun/05/donald-trump-e-jean-carroll-lawsuit"
+    "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance"
   ],
   [
-    "los",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/jun/05/justice-department-civil-rights-laws-students-of-color"
-  ],
-  [
-    "primary",
+    "race",
     17,
     "https://www.nytimes.com/2026/06/05/us/politics/schumer-michigan-democratic-senate-primary.html"
   ],
   [
-    "play",
+    "war",
     17,
-    "https://www.nytimes.com/2026/06/05/theater/tony-awards-2026-predictions.html"
+    "https://www.nytimes.com/2026/06/05/world/europe/putin-war-st-petersburg-economic-forum.html"
   ],
   [
-    "questions",
+    "immigration",
     17,
-    "https://www.nytimes.com/2026/05/17/us/the-big-questions-about-jeffrey-epstein-what-the-times-has-learned.html"
+    "https://www.nytimes.com/2026/06/05/nyregion/delaney-hall-police-baraka.html"
   ],
   [
-    "black",
+    "fans",
     17,
-    "https://www.nytimes.com/2026/06/05/opinion/voting-rights-act-black-voters-south.html"
+    "https://www.washingtonpost.com/lifestyle/2026/06/04/dog-named-ronaldo-goes-viral-soccer-goalkeeping-ahead-world-cup/"
   ],
   [
-    "early",
+    "million",
     17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "review",
+    "support",
     17,
-    "https://www.theguardian.com/us-news/2026/jun/05/california-pfas-water"
+    "https://www.theguardian.com/commentisfree/2026/jun/05/trump-roadless-rule-national-forests-protection"
   ],
   [
-    "games",
+    "nba",
     17,
-    "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike"
+    "https://www.theguardian.com/us-news/2026/jun/05/elmo-new-york-knicks-fans"
   ],
   [
-    "water",
+    "night",
+    17,
+    "https://www.theguardian.com/sport/2026/jun/05/hurricanes-golden-knights-game-2-seth-jarvis-overtime-stanley-cup-final"
+  ],
+  [
+    "administration",
     16,
-    "https://www.nytimes.com/2026/06/05/dining/jeffrey-epstein-stephen-hanson.html"
-  ],
-  [
-    "actor",
-    16,
-    "https://www.nytimes.com/2026/06/05/us/james-handy-stabbed-dead-la-top-gun-jumanji.html"
-  ],
-  [
-    "star",
-    16,
-    "https://www.nytimes.com/2026/06/04/nyregion/charles-oakley-madison-square-garden-knicks-finals.html"
+    "https://www.nytimes.com/2026/06/05/us/politics/trump-immunity-tax-audit.html"
   ],
   [
     "don",
     16,
-    "https://www.theguardian.com/us-news/2026/jun/05/alligator-alcatraz-detainees-denied-food-water"
+    "https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html"
+  ],
+  [
+    "latest",
+    16,
+    "https://www.nytimes.com/2026/06/04/business/cbs-60-minutes-scott-pelley-bari-weiss.html"
+  ],
+  [
+    "ice",
+    16,
+    "https://www.nytimes.com/2026/06/05/nyregion/delaney-hall-police-baraka.html"
   ],
   [
     "angeles",
     16,
-    "https://www.theguardian.com/commentisfree/2026/jun/05/justice-department-civil-rights-laws-students-of-color"
+    "https://www.nytimes.com/2026/06/05/arts/design/dataland-ai-museum-los-angeles-art-artificial-intelligence.html"
   ],
   [
-    "republicans",
-    15,
-    "https://www.nytimes.com/2026/06/05/us/politics/trump-immunity-tax-audit.html"
-  ],
-  [
-    "administration",
-    15,
-    "https://www.nytimes.com/2026/06/05/us/politics/trump-immunity-tax-audit.html"
+    "buffy",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance"
   ],
   [
     "death",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance"
+  ],
+  [
+    "review",
+    16,
+    "https://www.theguardian.com/music/2026/jun/05/taylor-swift-i-knew-it-i-knew-you-review-toy-story-5"
+  ],
+  [
+    "love",
+    16,
+    "https://www.theguardian.com/music/2026/jun/05/taylor-swift-i-knew-it-i-knew-you-review-toy-story-5"
+  ],
+  [
+    "released",
     15,
-    "https://www.nytimes.com/2026/06/05/us/james-handy-stabbed-dead-la-top-gun-jumanji.html"
+    "https://www.nytimes.com/2026/06/04/world/canada/canada-national-ai-strategy.html"
   ],
   [
-    "media",
+    "team",
     15,
-    "https://www.nytimes.com/2026/06/05/magazine/james-murdoch-vox-new-york-magazine.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "series",
+    "department",
     15,
-    "https://www.theguardian.com/sport/2026/jun/05/hurricanes-golden-knights-game-2-seth-jarvis-overtime-stanley-cup-final"
+    "https://www.theguardian.com/us-news/2026/jun/05/us-diplomats-response-to-henry-nowak-incendiary"
   ],
   [
-    "having",
-    14,
-    "https://www.nytimes.com/2026/06/05/business/college-graduates-job-market.html"
-  ],
-  [
-    "platner",
-    14,
-    "https://www.nytimes.com/2026/06/04/us/politics/platner-maine-senate-girlfriends-relationships.html"
-  ],
-  [
-    "voters",
-    14,
-    "https://www.nytimes.com/2026/06/05/us/politics/trump-voters-iran-economy.html"
-  ],
-  [
-    "american",
-    14,
-    "https://www.nytimes.com/2026/06/05/us/gaza-protesters-golden-gate-bridge.html"
-  ],
-  [
-    "million",
-    14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "ice",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "finals",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/05/elmo-new-york-knicks-fans"
   ],
   [
     "guide",
-    14,
+    15,
     "https://www.theguardian.com/thefilter-us/2026/jun/05/best-dog-harness"
+  ],
+  [
+    "place",
+    15,
+    "https://www.theguardian.com/books/2026/jun/05/marjane-satrapi-death-graphic-novelist-paved-way-for-a-generation"
+  ],
+  [
+    "jobs",
+    14,
+    "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html"
+  ],
+  [
+    "play",
+    14,
+    "https://www.nytimes.com/2026/06/05/theater/tony-awards-2026-predictions.html"
+  ],
+  [
+    "los",
+    14,
+    "https://www.nytimes.com/2026/06/05/arts/design/dataland-ai-museum-los-angeles-art-artificial-intelligence.html"
+  ],
+  [
+    "british",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/05/us-diplomats-response-to-henry-nowak-incendiary"
+  ],
+  [
+    "court",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/05/donald-trump-e-jean-carroll-lawsuit"
+  ],
+  [
+    "full",
+    14,
+    "https://www.theguardian.com/music/2026/jun/05/taylor-swift-i-knew-it-i-knew-you-review-toy-story-5"
+  ],
+  [
+    "sex",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/05/jemaine-clement-nicola-walker-interview-alice-and-steve-disney"
   ],
   [
     "fewer",
@@ -256,84 +276,44 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/05/best-dog-harness"
   ],
   [
-    "support",
+    "having",
     14,
-    "https://www.theguardian.com/media/2026/jun/05/donald-trump-lawyers-refuse-reveal-financial-information-bbc-defamation-case"
+    "https://www.theguardian.com/books/2026/jun/05/marjane-satrapi-death-graphic-novelist-paved-way-for-a-generation"
   ],
   [
-    "governor",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/05/california-primary-election-races-too-close-to-call"
-  ],
-  [
-    "bill",
-    14,
-    "https://www.theguardian.com/us-news/live/2026/jun/05/us-politics-latest-news-updates-donald-trump-republicans-democrats"
-  ],
-  [
-    "sex",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/04/pam-bondi-epstein-transcript"
-  ],
-  [
-    "love",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/05/jemaine-clement-nicola-walker-interview-alice-and-steve-disney"
-  ],
-  [
-    "states",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jun/05/congress-us-israel-legislation"
-  ],
-  [
-    "data",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jun/05/justice-department-civil-rights-laws-students-of-color"
-  ],
-  [
-    "inside",
+    "rising",
     13,
-    "https://www.nytimes.com/2026/06/05/podcasts/the-headlines/trump-immigrants-tech-schools.html"
+    "https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html"
   ],
   [
-    "past",
+    "texas",
     13,
-    "https://www.nytimes.com/2026/06/05/business/college-graduates-job-market.html"
+    "https://www.nytimes.com/2026/06/05/us/texas-screwworm-first-us-case-emergency-response-abbott.html"
   ],
   [
-    "win",
+    "israel",
     13,
-    "https://www.nytimes.com/2026/06/05/theater/tony-awards-2026-predictions.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "gaza",
+    "director",
     13,
-    "https://www.nytimes.com/2026/06/05/us/gaza-protesters-golden-gate-bridge.html"
+    "https://www.theguardian.com/commentisfree/2026/jun/05/trump-roadless-rule-national-forests-protection"
   ],
   [
-    "election",
+    "vampire",
     13,
-    "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia.html"
+    "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance"
   ],
   [
-    "country",
+    "dies",
     13,
-    "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia.html"
+    "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance"
   ],
   [
-    "late",
+    "film",
     13,
-    "https://www.nytimes.com/2026/06/05/arts/television/late-night-trump-lincoln-memorial-reflecting-pool.html"
-  ],
-  [
-    "despite",
-    13,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "island",
-    13,
-    "https://www.theguardian.com/sport/2026/jun/05/rikers-island-nba-finals-new-york-knicks-photos"
+    "https://www.theguardian.com/lifeandstyle/2026/jun/05/relationship-gap-online-discourse"
   ],
   [
     "donald",
@@ -341,38 +321,58 @@
     "https://www.theguardian.com/us-news/2026/jun/05/donald-trump-e-jean-carroll-lawsuit"
   ],
   [
-    "health",
+    "post",
     13,
-    "https://www.theguardian.com/world/2026/jun/05/shortage-gas-oil-spare-parts-grinding-gaza-halt"
+    "https://www.theguardian.com/music/2026/jun/05/taylor-swift-i-knew-it-i-knew-you-review-toy-story-5"
   ],
   [
-    "case",
+    "knicks",
     13,
-    "https://www.theguardian.com/science/2026/jun/05/international-space-station-astronauts-under-evacuation-orders"
+    "https://www.theguardian.com/us-news/2026/jun/05/elmo-new-york-knicks-fans"
   ],
   [
-    "director",
+    "vote",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/05/senate-blocks-surveillance-program-trump-bill-pulte"
+    "https://www.theguardian.com/us-news/2026/jun/05/california-primary-election-races-too-close-to-call"
   ],
   [
-    "modern",
+    "american",
     13,
-    "https://www.theguardian.com/music/2026/jun/05/dua-lipa-callum-turner-wedding-divides-palermo"
+    "https://www.theguardian.com/environment/2026/jun/05/trump-plan-ocean-monitoring-system-concern-scientists"
   ],
   [
-    "anti",
+    "water",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jun/05/justice-department-civil-rights-laws-students-of-color"
+    "https://www.theguardian.com/us-news/2026/jun/05/california-pfas-water"
   ],
   [
-    "graham",
+    "island",
+    13,
+    "https://www.theguardian.com/sport/2026/jun/05/rikers-island-nba-finals-new-york-knicks-photos"
+  ],
+  [
+    "remain",
     12,
-    "https://www.nytimes.com/2026/06/04/us/politics/platner-maine-senate-girlfriends-relationships.html"
+    "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html"
   ],
   [
-    "son",
+    "tech",
     12,
-    "https://www.nytimes.com/2026/06/05/us/james-handy-stabbed-dead-la-top-gun-jumanji.html"
+    "https://www.nytimes.com/2026/06/05/business/ohio-tech-manufacturing-hub.html"
+  ],
+  [
+    "stay",
+    12,
+    "https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html"
+  ],
+  [
+    "putin",
+    12,
+    "https://www.nytimes.com/2026/06/05/world/europe/putin-war-st-petersburg-economic-forum.html"
+  ],
+  [
+    "hall",
+    12,
+    "https://www.nytimes.com/2026/06/05/nyregion/delaney-hall-police-baraka.html"
   ]
 ];
