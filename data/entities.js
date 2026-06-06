@@ -3,45 +3,33 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 52,
+      "count": 40,
       "url": "https://www.theguardian.com/commentisfree/2026/jun/06/trump-e-jean-carroll-justice-department",
       "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 41,
-      "url": "https://www.nytimes.com/2026/06/05/us/elections/becerra-california-governor.html",
+      "name": "U.S.",
+      "count": 26,
+      "url": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html",
       "source": "NY Times"
     },
     {
-      "name": "U.S.",
-      "count": 33,
-      "url": "https://www.nytimes.com/2026/06/05/us/politics/iran-attack-drones-hormuz.html",
-      "source": "NY Times"
+      "name": "California",
+      "count": 24,
+      "url": "https://www.theguardian.com/us-news/2026/jun/06/california-slow-vote-count",
+      "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html",
       "source": "NY Times"
-    },
-    {
-      "name": "L.A. County",
-      "count": 15,
-      "url": "https://www.latimes.com/california/story/2026-06-06/do-you-live-near-hazardous-industrial-site-in-la-county-how-to-find-out",
-      "source": "LA Times"
     },
     {
       "name": "Israel",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/06/06/world/middleeast/white-phosphorous-israel-lebanon.html",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Los Angeles County",
-      "count": 14,
-      "url": "https://www.latimes.com/california/story/2026-06-06/do-you-live-near-hazardous-industrial-site-in-la-county-how-to-find-out",
-      "source": "LA Times"
     },
     {
       "name": "Texas",
@@ -50,92 +38,42 @@
       "source": "NY Times"
     },
     {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/sport/live/2026/jun/06/maja-chwalinska-mirra-andreeva-french-open-2026-womens-singles-final-live",
-      "source": "The Guardian"
+      "name": "Japan",
+      "count": 12,
+      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "New York Liberty",
+      "name": "New York City’S",
       "count": 11,
-      "url": "https://www.cbsnews.com/video/the-uplift-new-york-liberty-big-ellie-the-elephant/",
-      "source": "CBS News"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Pushes Deportations",
-      "count": 52,
-      "url": "https://www.nytimes.com/2026/06/06/us/politics/immigration-courts-deportation.html",
+      "url": "https://www.nytimes.com/2026/06/06/nyregion/world-cup-new-york-community.html",
       "source": "NY Times"
     },
     {
-      "name": "Michigan Senate",
-      "count": 16,
-      "url": "https://thehill.com/homenews/campaign/5913191-abdul-el-sayed-michigan-senate-race-uaw-endorsement/",
-      "source": "The Hill"
+      "name": "Hollywood",
+      "count": 11,
+      "url": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "Guardian News",
-      "count": 15,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The New York Knicks",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/video/2026/jun/05/nba-finals-knicks-spurs-stateside-andrew-lawrence",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nba Finals",
-      "count": 14,
-      "url": "https://www.npr.org/2026/06/06/nx-s1-5848552/knicks-spurs-nba-finals",
-      "source": "NPR"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 12,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs Mornings Deals",
-      "count": 9,
-      "url": "https://www.cbsnews.com/video/exclusive-discounts-from-cbs-mornings-deals-170/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Cbs News",
-      "count": 8,
-      "url": "https://www.theguardian.com/global/2026/jun/05/cbs-60-minutes-lesley-stahl-bill-whitaker-jon-wertheim",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/06/jill-biden-book-view-from-the-east-wing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Un",
-      "count": 6,
-      "url": "https://www.theguardian.com/news/2026/jun/06/africa-exception-slavery-reparations-african-union-justice",
-      "source": "The Guardian"
+      "name": "L.A. County",
+      "count": 11,
+      "url": "https://www.latimes.com/california/story/2026-06-06/do-you-live-near-hazardous-industrial-site-in-la-county-how-to-find-out",
+      "source": "LA Times"
     }
   ],
   "PERSON": [
     {
-      "name": "Donald Trump",
-      "count": 23,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/06/trump-e-jean-carroll-justice-department",
-      "source": "The Guardian"
-    },
-    {
       "name": "Graham Platner",
-      "count": 22,
+      "count": 18,
       "url": "https://www.nytimes.com/2026/06/05/us/politics/graham-platner-maine-rally-senate.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 17,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/06/trump-e-jean-carroll-justice-department",
+      "source": "The Guardian"
     },
     {
       "name": "Lizzo",
@@ -144,10 +82,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "Karen Bass",
+      "name": "Pope Leo Xiv",
+      "count": 8,
+      "url": "https://www.npr.org/2026/06/06/g-s1-126768/pope-leo-says-war-with-iran-is-not-a-just-war",
+      "source": "NPR"
+    },
+    {
+      "name": "Anthony Head",
       "count": 7,
-      "url": "https://www.latimes.com/california/story/2026-02-10/nithya-raman-la-mayoral-candidate-record-may-surprise-you",
-      "source": "LA Times"
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance",
+      "source": "The Guardian"
     },
     {
       "name": "Zohran Mamdani",
@@ -162,66 +106,128 @@
       "source": "The Guardian"
     },
     {
+      "name": "Karmelo Anthony",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/jun/06/trial-killing-2025-texas-high-school-track-meet",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ted Lasso",
+      "count": 6,
+      "url": "https://www.theguardian.com/film/2026/jun/04/office-romance-review-jennifer-lopez-romcom",
+      "source": "The Guardian"
+    },
+    {
       "name": "Dua Lipa",
       "count": 6,
       "url": "https://www.theguardian.com/fashion/2026/jun/02/dua-lipa-wedding-bridal-suit-is-back",
       "source": "The Guardian"
-    },
+    }
+  ],
+  "ORG": [
     {
-      "name": "Spencer Pratt",
-      "count": 6,
-      "url": "https://www.latimes.com/california/story/2026-06-05/nithya-raman-chops-spencer-pratts-lead-in-race-to-make-nov-3-runoff",
-      "source": "LA Times"
-    },
-    {
-      "name": "Bill Pulte",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/06/05/us/politics/trump-bill-pulte-intelligence-staff.html",
+      "name": "The Bidens Return With New Book And South Dakota Speech Targeting Trump",
+      "count": 33,
+      "url": "https://www.nytimes.com/2026/06/06/us/politics/biden-speech-sioux-falls-trump.html",
       "source": "NY Times"
     },
     {
-      "name": "Xavier Becerra",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/jun/05/xavier-becerra-california-governor-primary-election-result",
+      "name": "The New York Knicks",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/video/2026/jun/05/nba-finals-knicks-spurs-stateside-andrew-lawrence",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian News",
+      "count": 16,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cbs Mornings Deals",
+      "count": 11,
+      "url": "https://www.cbsnews.com/video/exclusive-discounts-from-cbs-mornings-deals-170/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The Democratic Us Senate",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/jun/06/graham-platner-main-senate-physical-intimidation-allegations",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nba Finals",
+      "count": 10,
+      "url": "https://www.cbsnews.com/news/knicks-beat-spurs-nba-finals-game-2/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Auburn University",
+      "count": 8,
+      "url": "https://www.foxnews.com/us/auburn-student-weston-higginbotham-found-dead-japan-after-weeklong-search-mom-confirms",
+      "source": "Fox News"
+    },
+    {
+      "name": "The White House",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/06/jill-biden-book-view-from-the-east-wing",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guinness 0",
+      "count": 6,
+      "url": "https://www.theguardian.com/thefilter-us/2026/may/30/guinness-v-guinness-0-non-alcoholic-taste-test",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
+      "name": "World Cup Contenders Are Fierce",
+      "count": 27,
+      "url": "https://www.nytimes.com/2026/06/05/sports/soccer/amputee-world-cup-national-team.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The World Cup",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/06/06/nyregion/world-cup-new-york-community.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Game 2 Nba Finals",
+      "count": 4,
+      "url": "https://www.foxnews.com/sports/numerous-knicks-fans-arrested-cop-injured-game-2-nba-finals-celebration-near-msg",
+      "source": "Fox News"
+    },
+    {
       "name": "World Cup Experts’ Network",
-      "count": 28,
+      "count": 2,
       "url": "https://www.theguardian.com/football/2026/jun/06/uruguay-world-cup-2026-team-guide",
       "source": "The Guardian"
     },
     {
-      "name": "The World Cup",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Olympics",
-      "count": 3,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike",
-      "source": "The Guardian"
-    },
-    {
       "name": "The 2026 World Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/06/power-and-glory-world-cup-promises-a-spectacle-impossible-to-ignore",
+      "count": 2,
+      "url": "https://www.theguardian.com/fashion/2026/jun/05/fashion-goals-world-cup-style-tournament-kicked-off",
       "source": "The Guardian"
     },
     {
-      "name": "French Open",
+      "name": "The French Open",
       "count": 2,
-      "url": "https://www.theguardian.com/sport/live/2026/jun/06/maja-chwalinska-mirra-andreeva-french-open-2026-womens-singles-final-live",
-      "source": "The Guardian"
+      "url": "https://www.foxnews.com/sports/mirra-andreeva-wins-french-open-youngest-womens-singles-champion-1992",
+      "source": "Fox News"
     },
     {
-      "name": "Game 1",
+      "name": "College World Series",
       "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york",
-      "source": "The Guardian"
+      "url": "https://www.foxnews.com/outkick-sports/troy-jabe-ruth-college-sports-patriotic-home-run",
+      "source": "Fox News"
     },
     {
       "name": "His War On Latino Voting Groups",
@@ -230,9 +236,9 @@
       "source": "NY Times"
     },
     {
-      "name": "Olympic",
+      "name": "Game 1",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/live/2026/jun/06/maja-chwalinska-mirra-andreeva-french-open-2026-womens-singles-final-live",
+      "url": "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york",
       "source": "The Guardian"
     },
     {
@@ -240,13 +246,7 @@
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york",
       "source": "The Guardian"
-    },
-    {
-      "name": "The Super Bowl",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike",
-      "source": "The Guardian"
     }
   ],
-  "updated": "2026-06-06T14:46:02Z"
+  "updated": "2026-06-06T20:13:28Z"
 };
