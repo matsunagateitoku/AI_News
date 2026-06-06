@@ -2,10 +2,10 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump A &Quot;Maniac&Quot",
-      "count": 47,
-      "url": "https://www.foxnews.com/entertainment/richard-gere-says-us-darkest-moment-hes-experienced",
-      "source": "Fox News"
+      "name": "Trump Administration Investigating Gender Treatments",
+      "count": 48,
+      "url": "https://www.nytimes.com/2026/06/05/nyregion/trump-administration-investigating-gender-treatments-at-mount-sinai.html",
+      "source": "NY Times"
     },
     {
       "name": "Ai Strategy For Canada",
@@ -14,15 +14,27 @@
       "source": "NY Times"
     },
     {
-      "name": "The Us Senate",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/jun/05/ruling-against-trump-travel-ban-immigrants",
+      "name": "Maine Senate Primary",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/06/05/us/politics/platner-democrats-maine-senate-primary-election.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Cbs News",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2026/jun/05/cbs-60-minutes-lesley-stahl-bill-whitaker-jon-wertheim",
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
+      "name": "The New York State Senate",
       "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/jun/05/doj-trump-white-house-ballroom",
+      "url": "https://thehill.com/homenews/state-watch/5912788-new-york-data-center-moratorium/",
+      "source": "The Hill"
+    },
+    {
+      "name": "The New York Knicks",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/video/2026/jun/05/nba-finals-knicks-spurs-stateside-andrew-lawrence",
       "source": "The Guardian"
     },
     {
@@ -32,78 +44,66 @@
       "source": "The Guardian"
     },
     {
-      "name": "Nba Finals Game",
+      "name": "Nba Finals Game 3",
       "count": 11,
-      "url": "https://www.foxnews.com/outkick-sports/democrat-hakeem-jeffries-rips-trump-ruining-knicks-first-nba-finals-game-27-years",
+      "url": "https://www.foxnews.com/outkick-sports/knicks-center-mitchell-robinson-seems-fired-playing-game-3-front-president-trump",
       "source": "Fox News"
     },
     {
-      "name": "Cbs News'",
-      "count": 11,
-      "url": "https://www.cbsnews.com/video/centcom-disputes-claims-that-iran-fired-warning-missiles-drones-at-us-warships/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Lesley Stahl",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Cbs News",
-      "count": 8,
-      "url": "https://www.theguardian.com/global/2026/jun/05/cbs-60-minutes-lesley-stahl-bill-whitaker-jon-wertheim",
+      "name": "Guardian News",
+      "count": 9,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
-      "name": "The New York Knicks",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/jun/05/elmo-new-york-knicks-fans",
+      "name": "The White House",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/jun/05/doj-trump-white-house-ballroom",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 51,
+      "count": 61,
       "url": "https://www.theguardian.com/us-news/2026/jun/05/us-diplomats-response-to-henry-nowak-incendiary",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 23,
-      "url": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html",
+      "count": 43,
+      "url": "https://www.nytimes.com/2026/06/05/us/politics/iran-attack-drones-hormuz.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 22,
-      "url": "https://www.theguardian.com/us-news/2026/jun/05/california-primary-election-races-too-close-to-call",
-      "source": "The Guardian"
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/06/05/us/elections/becerra-california-governor.html",
+      "source": "NY Times"
     },
     {
       "name": "Iran",
-      "count": 17,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/05/congress-us-israel-legislation",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/06/05/us/politics/iran-attack-drones-hormuz.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Washington Dc",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/jun/05/doj-trump-white-house-ballroom",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ukraine",
+      "count": 14,
+      "url": "https://www.theguardian.com/world/2026/jun/06/ukraine-war-briefing-putin-says-no-point-meeting-zelenskyy-insists-russia-will-win-the-war",
       "source": "The Guardian"
     },
     {
       "name": "Israel",
-      "count": 13,
+      "count": 12,
       "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
       "source": "Wall St. Journal"
-    },
-    {
-      "name": "Los Angeles County Superior Court",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-06-05/murder-indictment-dismissed-against-ex-lapd-cop-in-2015-killing-of-unarmed-homeless-man",
-      "source": "LA Times"
-    },
-    {
-      "name": "London",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/jun/05/us-diplomats-response-to-henry-nowak-incendiary",
-      "source": "The Guardian"
     },
     {
       "name": "New York City ’S",
@@ -114,52 +114,46 @@
     {
       "name": "L.A.",
       "count": 12,
-      "url": "https://www.latimes.com/california/story/2026-06-05/los-angeles-city-attorney-incumbent-2026-primary",
+      "url": "https://www.latimes.com/lifestyle/image/story/2026-06-05/hermes-first-womens-show-in-los-angeles-hosted-in-bel-air",
       "source": "LA Times"
     },
     {
-      "name": "Texas",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/nation/2026/06/04/flesh-eating-screwworm-found-texas-sparking-fears-us-cattle/",
-      "source": "Washington Post"
+      "name": "Uk",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/jun/05/us-diplomats-response-to-henry-nowak-incendiary",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The 2026 World Cup",
+      "name": "World Cup Experts’ Network",
       "count": 17,
-      "url": "https://www.theguardian.com/fashion/2026/jun/05/fashion-goals-world-cup-style-tournament-kicked-off",
+      "url": "https://www.theguardian.com/football/2026/jun/06/spain-world-cup-2026-team-guide",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/06/05/world/middleeast/world-cup-iran-football-team-visas-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Game 1",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york",
       "source": "The Guardian"
     },
     {
-      "name": "The Stanley Cup Final",
-      "count": 5,
-      "url": "https://www.latimes.com/sports/hockey/story/2026-06-05/brayden-mcnabb-puck-to-face-vegas-golden-knights-stanley-cup-finals",
-      "source": "LA Times"
-    },
-    {
-      "name": "Game 3",
+      "name": "Wimbledon",
       "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/jun/04/donald-trump-knicks-nba-finals-madison-square-garden",
+      "url": "https://www.theguardian.com/sport/2026/jun/05/chwalinksa-on-edge-of-history-after-slicing-through-french-open-one-paper-cut-at-a-time",
       "source": "The Guardian"
     },
     {
-      "name": "Iran International Tv",
+      "name": "The Australian Open",
       "count": 2,
-      "url": "https://www.theguardian.com/uk-news/2026/jun/05/two-men-convicted-of-wounding-journalist-on-orders-of-iran",
+      "url": "https://www.theguardian.com/sport/2026/jun/05/chwalinksa-on-edge-of-history-after-slicing-through-french-open-one-paper-cut-at-a-time",
       "source": "The Guardian"
-    },
-    {
-      "name": "Game 2",
-      "count": 2,
-      "url": "https://www.latimes.com/sports/hockey/story/2026-06-05/brayden-mcnabb-puck-to-face-vegas-golden-knights-stanley-cup-finals",
-      "source": "LA Times"
     },
     {
       "name": "The War End",
@@ -168,66 +162,60 @@
       "source": "NY Times"
     },
     {
-      "name": "The Super Bowl",
+      "name": "Chicago Bulls",
       "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike",
+      "url": "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york",
       "source": "The Guardian"
     },
     {
-      "name": "Olympics",
+      "name": "World Cup 2026",
       "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/california-los-angeles-world-cup-strike",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
       "source": "The Guardian"
     },
     {
-      "name": "Australian Open",
+      "name": "World Series",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/jun/05/alexander-zverev-french-open-men-semi-finals-tennis",
+      "url": "https://www.theguardian.com/sport/2026/jun/05/the-strange-history-of-baseballs-superstitions-magic-is-in-the-sports-very-structure",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cup’S",
+      "count": 1,
+      "url": "https://www.theguardian.com/fashion/2026/jun/05/fashion-goals-world-cup-style-tournament-kicked-off",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 31,
+      "count": 30,
       "url": "https://www.theguardian.com/us-news/2026/jun/05/donald-trump-e-jean-carroll-lawsuit",
       "source": "The Guardian"
     },
     {
-      "name": "Anthony Head",
-      "count": 14,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Bill Whitaker",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html",
-      "source": "NY Times"
+      "name": "Graham Platner '",
+      "count": 26,
+      "url": "https://www.foxnews.com/media/pennsylvania-dem-rep-claims-graham-platner-disqualified-maine-senate-race",
+      "source": "Fox News"
     },
     {
       "name": "Vladimir Putin",
-      "count": 11,
+      "count": 15,
       "url": "https://www.nytimes.com/2026/06/05/world/europe/putin-war-st-petersburg-economic-forum.html",
       "source": "NY Times"
     },
     {
-      "name": "Jon Wertheim",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ted Lasso",
-      "count": 10,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Graham Platner",
+      "name": "Anthony Head",
       "count": 9,
-      "url": "https://www.nytimes.com/2026/06/05/us/politics/platner-democrats-maine-senate-primary-election.html",
+      "url": "https://www.nytimes.com/2026/06/05/arts/television/anthony-head-dead.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Xavier Becerra",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/jun/05/xavier-becerra-california-governor-primary-election-result",
+      "source": "The Guardian"
     },
     {
       "name": "Alice",
@@ -236,17 +224,29 @@
       "source": "The Guardian"
     },
     {
-      "name": "Steve Hilton",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/jun/05/california-primary-election-races-too-close-to-call",
-      "source": "The Guardian"
-    },
-    {
       "name": "Dua Lipa",
       "count": 8,
       "url": "https://www.theguardian.com/music/2026/jun/05/dua-lipa-callum-turner-wedding-divides-palermo",
       "source": "The Guardian"
+    },
+    {
+      "name": "Lizzo",
+      "count": 8,
+      "url": "https://www.theguardian.com/music/2026/jun/05/lizzo-bitch-album-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Graham Platner",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/06/05/us/politics/platner-democrats-maine-senate-primary-election.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Spencer Pratt",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/06/04/us/california-primary-governor-mayor-results.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-06-05T20:49:55Z"
+  "updated": "2026-06-06T04:57:20Z"
 };
