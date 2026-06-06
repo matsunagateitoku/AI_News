@@ -2,103 +2,68 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    83,
-    "https://www.nytimes.com/2026/06/05/us/politics/trump-wisconsin-farmers-midterms.html"
-  ],
-  [
-    "platner",
-    36,
-    "https://www.nytimes.com/2026/06/05/us/politics/graham-platner-maine-rally-senate.html"
-  ],
-  [
-    "president",
-    36,
-    "https://www.nytimes.com/2026/06/05/us/politics/trump-wisconsin-farmers-midterms.html"
-  ],
-  [
-    "california",
-    32,
-    "https://www.nytimes.com/2026/06/05/us/elections/becerra-california-governor.html"
-  ],
-  [
-    "race",
-    30,
-    "https://www.nytimes.com/2026/06/05/us/elections/becerra-california-governor.html"
-  ],
-  [
-    "graham",
-    30,
-    "https://www.nytimes.com/2026/06/05/us/politics/platner-democrats-maine-senate-primary-election.html"
+    81,
+    "https://www.nytimes.com/2026/06/06/us/politics/immigration-courts-deportation.html"
   ],
   [
     "cup",
-    30,
-    "https://www.nytimes.com/2026/06/05/world/middleeast/world-cup-iran-football-team-visas-war.html"
+    46,
+    "https://www.theguardian.com/football/video/2026/jun/06/zohran-mamdani-the-guardian-bracketology-predict-world-cup-winner-video"
+  ],
+  [
+    "california",
+    42,
+    "https://www.nytimes.com/2026/06/05/us/elections/becerra-california-governor.html"
+  ],
+  [
+    "president",
+    38,
+    "https://www.nytimes.com/2026/06/05/us/politics/trump-wisconsin-farmers-midterms.html"
   ],
   [
     "senate",
-    29,
-    "https://www.nytimes.com/2026/06/05/us/politics/graham-platner-maine-rally-senate.html"
-  ],
-  [
-    "maine",
     26,
-    "https://www.nytimes.com/2026/06/05/us/politics/graham-platner-maine-rally-senate.html"
-  ],
-  [
-    "iran",
-    26,
-    "https://www.nytimes.com/2026/06/05/us/politics/iran-attack-drones-hormuz.html"
-  ],
-  [
-    "york",
-    26,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/06/missing-white-tailed-sea-eagle-north-york-moors"
+    "https://www.nytimes.com/2026/06/06/us/politics/ken-paxton-latino-voting.html"
   ],
   [
     "game",
-    24,
-    "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york"
-  ],
-  [
-    "administration",
-    23,
-    "https://www.nytimes.com/2026/06/05/nyregion/trump-administration-investigating-gender-treatments-at-mount-sinai.html"
-  ],
-  [
-    "election",
-    22,
-    "https://www.nytimes.com/2026/06/04/us/california-primary-governor-mayor-results.html"
-  ],
-  [
-    "states",
-    22,
-    "https://www.nytimes.com/2026/06/05/us/politics/iran-attack-drones-hormuz.html"
+    25,
+    "https://www.theguardian.com/football/video/2026/jun/06/zohran-mamdani-the-guardian-bracketology-predict-world-cup-winner-video"
   ],
   [
     "family",
+    24,
+    "https://www.theguardian.com/world/2026/jun/06/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank"
+  ],
+  [
+    "iran",
+    23,
+    "https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html"
+  ],
+  [
+    "york",
     22,
-    "https://www.nytimes.com/2026/06/05/world/asia/missing-sherpa-mount-everest-found.html"
+    "https://www.nytimes.com/2026/06/06/nyregion/delaney-hall-ice-detainees.html"
   ],
   [
-    "actor",
+    "platner",
+    22,
+    "https://www.nytimes.com/2026/06/05/us/politics/graham-platner-maine-rally-senate.html"
+  ],
+  [
+    "race",
     21,
-    "https://www.nytimes.com/2026/06/05/arts/television/anthony-head-dead.html"
+    "https://www.nytimes.com/2026/06/05/us/elections/becerra-california-governor.html"
   ],
   [
-    "because",
+    "democrats",
     20,
-    "https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html"
+    "https://www.nytimes.com/2026/06/05/upshot/democrats-senate-midterms-analysis.html"
   ],
   [
-    "cbs",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/jun/05/cbs-bari-weiss-morley-safer"
-  ],
-  [
-    "latest",
+    "star",
     19,
-    "https://www.nytimes.com/2026/06/05/us/politics/iran-attack-drones-hormuz.html"
+    "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york"
   ],
   [
     "games",
@@ -106,9 +71,14 @@
     "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york"
   ],
   [
-    "becerra",
+    "election",
+    19,
+    "https://www.theguardian.com/us-news/2026/jun/06/california-slow-vote-count"
+  ],
+  [
+    "democratic",
     18,
-    "https://www.nytimes.com/2026/06/05/us/elections/becerra-california-governor.html"
+    "https://www.nytimes.com/2026/06/06/us/politics/ken-paxton-latino-voting.html"
   ],
   [
     "governor",
@@ -116,234 +86,244 @@
     "https://www.nytimes.com/2026/06/05/us/elections/becerra-california-governor.html"
   ],
   [
-    "democratic",
+    "graham",
     18,
     "https://www.nytimes.com/2026/06/05/us/politics/graham-platner-maine-rally-senate.html"
   ],
   [
-    "war",
+    "states",
     18,
-    "https://www.nytimes.com/2026/06/05/us/politics/trump-wisconsin-farmers-midterms.html"
+    "https://www.nytimes.com/2026/06/05/upshot/democrats-senate-midterms-analysis.html"
   ],
   [
-    "series",
+    "candidate",
     18,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance"
+    "https://www.nytimes.com/2026/06/06/opinion/graham-platner-democrats-politics.html"
+  ],
+  [
+    "far",
+    18,
+    "https://www.theguardian.com/sport/live/2026/jun/06/maja-chwalinska-mirra-andreeva-french-open-2026-womens-singles-final-live"
+  ],
+  [
+    "black",
+    18,
+    "https://www.theguardian.com/us-news/2026/jun/06/trial-killing-2025-texas-high-school-track-meet"
   ],
   [
     "guide",
     18,
-    "https://www.theguardian.com/football/2026/jun/05/chris-richards-injury-status-world-cup"
+    "https://www.theguardian.com/football/2026/jun/06/uruguay-world-cup-2026-team-guide"
   ],
   [
-    "team",
+    "cbs",
+    18,
+    "https://www.theguardian.com/global/2026/jun/05/cbs-60-minutes-lesley-stahl-bill-whitaker-jon-wertheim"
+  ],
+  [
+    "director",
     17,
-    "https://www.nytimes.com/2026/06/05/world/middleeast/world-cup-iran-football-team-visas-war.html"
-  ],
-  [
-    "don",
-    17,
-    "https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html"
-  ],
-  [
-    "police",
-    17,
-    "https://www.nytimes.com/2026/06/05/nyregion/delaney-hall-police-protesters-sherrill.html"
-  ],
-  [
-    "star",
-    17,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance"
-  ],
-  [
-    "office",
-    17,
-    "https://www.theguardian.com/politics/2026/jun/05/keir-starmer-questions-henry-nowak-case-two-tier-policing-claim"
-  ],
-  [
-    "candidate",
-    17,
-    "https://www.theguardian.com/world/2026/jun/06/us-threatens-to-reconsider-role-in-bosnia-and-herzegovina-amid-rift-with-europe"
-  ],
-  [
-    "final",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/jun/05/the-guardian-view-on-henry-nowaks-big-tech-and-the-far-right-are-allied-in-an-outrage-arms-race"
-  ],
-  [
-    "past",
-    16,
-    "https://www.nytimes.com/2026/06/05/us/politics/graham-platner-maine-rally-senate.html"
-  ],
-  [
-    "democrats",
-    16,
-    "https://www.nytimes.com/2026/06/05/us/politics/maine-senate-graham-platner-democrats.html"
+    "https://www.nytimes.com/2026/06/05/us/politics/trump-bill-pulte-intelligence-staff.html"
   ],
   [
     "health",
-    16,
-    "https://www.nytimes.com/2026/06/05/nyregion/trump-administration-investigating-gender-treatments-at-mount-sinai.html"
+    17,
+    "https://www.nytimes.com/2026/06/06/world/africa/the-world-has-learned-from-the-last-ebola-outbreak-but-gaps-remain.html"
   ],
   [
-    "country",
-    16,
-    "https://www.nytimes.com/2026/06/04/world/canada/canada-national-ai-strategy.html"
+    "children",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/06/dog-poop-new-york-city-sidewalks"
+  ],
+  [
+    "fewer",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/jun/06/trump-e-jean-carroll-justice-department"
+  ],
+  [
+    "win",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/06/democrats-win-back-voters"
+  ],
+  [
+    "young",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/04/jury-awards-176m-family-boys-fatally-struck-socialite-car"
   ],
   [
     "political",
     16,
-    "https://www.nytimes.com/2026/06/05/world/europe/putin-war-st-petersburg-economic-forum.html"
+    "https://www.theguardian.com/sport/live/2026/jun/06/maja-chwalinska-mirra-andreeva-french-open-2026-womens-singles-final-live"
   ],
   [
-    "washington",
-    16,
-    "https://www.theguardian.com/world/2026/jun/06/us-threatens-to-reconsider-role-in-bosnia-and-herzegovina-amid-rift-with-europe"
+    "police",
+    15,
+    "https://www.nytimes.com/2026/06/05/nyregion/delaney-hall-police-baraka.html"
+  ],
+  [
+    "maine",
+    15,
+    "https://www.nytimes.com/2026/06/05/us/politics/graham-platner-maine-rally-senate.html"
+  ],
+  [
+    "experts",
+    15,
+    "https://www.nytimes.com/2026/06/06/us/california-slow-vote-count.html"
+  ],
+  [
+    "country",
+    15,
+    "https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html"
+  ],
+  [
+    "latest",
+    15,
+    "https://www.nytimes.com/2026/06/05/us/politics/iran-attack-drones-hormuz.html"
+  ],
+  [
+    "ebola",
+    15,
+    "https://www.nytimes.com/2026/06/06/world/asia/as-ebola-spreads-in-east-africa-will-china-step-up.html"
+  ],
+  [
+    "loss",
+    15,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "team",
+    15,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "final",
+    15,
+    "https://www.theguardian.com/football/video/2026/jun/06/zohran-mamdani-the-guardian-bracketology-predict-world-cup-winner-video"
   ],
   [
     "knicks",
-    16,
+    15,
     "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york"
-  ],
-  [
-    "win",
-    16,
-    "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york"
-  ],
-  [
-    "having",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/jun/05/cbs-bari-weiss-morley-safer"
-  ],
-  [
-    "primary",
-    15,
-    "https://www.nytimes.com/2026/06/05/us/politics/platner-democrats-maine-senate-primary-election.html"
-  ],
-  [
-    "rising",
-    15,
-    "https://www.nytimes.com/2026/06/05/us/politics/platner-democrats-maine-senate-primary-election.html"
-  ],
-  [
-    "case",
-    15,
-    "https://www.nytimes.com/2026/06/05/us/texas-screwworm-first-us-case-emergency-response-abbott.html"
-  ],
-  [
-    "released",
-    15,
-    "https://www.nytimes.com/2026/06/04/world/canada/canada-national-ai-strategy.html"
-  ],
-  [
-    "murder",
-    15,
-    "https://www.theguardian.com/politics/2026/jun/05/keir-starmer-questions-henry-nowak-case-two-tier-policing-claim"
-  ],
-  [
-    "water",
-    15,
-    "https://www.theguardian.com/football/2026/jun/06/fifa-backtracks-on-plastic-water-bottles-at-world-cup-after-backlash-to-ban"
-  ],
-  [
-    "film",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/06/all-good-the-alien-autopsy-scandal-sky-documentaries"
-  ],
-  [
-    "media",
-    15,
-    "https://www.theguardian.com/global-development/2026/jun/06/african-leader-speech-decolonisation-ai-generated-fake-president-namibia-africa-caribbean"
-  ],
-  [
-    "review",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/05/california-pfas-water"
-  ],
-  [
-    "consumer",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/05/mamdani-new-york-city-consumer-watchdog"
-  ],
-  [
-    "xavier",
-    14,
-    "https://www.nytimes.com/2026/06/05/us/elections/becerra-california-governor.html"
-  ],
-  [
-    "jobs",
-    14,
-    "https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html"
-  ],
-  [
-    "minutes",
-    14,
-    "https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html"
-  ],
-  [
-    "center",
-    14,
-    "https://www.nytimes.com/2026/06/05/nyregion/delaney-hall-police-protesters-sherrill.html"
-  ],
-  [
-    "love",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/06/blind-date-theo-laurine"
-  ],
-  [
-    "director",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/06/trump-news-latest-updates-today"
-  ],
-  [
-    "fewer",
-    14,
-    "https://www.theguardian.com/games/2026/jun/03/god-of-war-laufey-playstation-state-of-play"
-  ],
-  [
-    "democrat",
-    13,
-    "https://www.nytimes.com/2026/06/05/us/elections/becerra-california-governor.html"
-  ],
-  [
-    "data",
-    13,
-    "https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html"
-  ],
-  [
-    "recent",
-    13,
-    "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html"
-  ],
-  [
-    "farmers",
-    13,
-    "https://www.nytimes.com/2026/06/05/us/politics/trump-wisconsin-farmers-midterms.html"
   ],
   [
     "anthony",
-    13,
-    "https://www.nytimes.com/2026/06/05/arts/television/anthony-head-dead.html"
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/06/trial-killing-2025-texas-high-school-track-meet"
   ],
   [
-    "black",
-    13,
-    "https://www.nytimes.com/2026/06/05/opinion/voting-rights-act-black-voters-south.html"
+    "war",
+    14,
+    "https://www.nytimes.com/2026/06/06/us/politics/ken-paxton-latino-voting.html"
   ],
   [
     "israel",
-    13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    14,
+    "https://www.nytimes.com/2026/06/06/world/middleeast/white-phosphorous-israel-lebanon.html"
   ],
   [
-    "countries",
-    13,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "israeli",
+    14,
+    "https://www.nytimes.com/2026/06/06/world/middleeast/white-phosphorous-israel-lebanon.html"
+  ],
+  [
+    "recent",
+    14,
+    "https://www.nytimes.com/2026/06/03/world/middleeast/dubai-uae-migrant-workers-war-stress.html"
+  ],
+  [
+    "bill",
+    14,
+    "https://www.nytimes.com/2026/06/05/us/politics/trump-bill-pulte-intelligence-staff.html"
+  ],
+  [
+    "released",
+    14,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "finals",
+    14,
+    "https://www.theguardian.com/sport/live/2026/jun/06/maja-chwalinska-mirra-andreeva-french-open-2026-womens-singles-final-live"
+  ],
+  [
+    "allegations",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jun/06/trump-e-jean-carroll-justice-department"
+  ],
+  [
+    "review",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/06/democrats-win-back-voters"
   ],
   [
     "nba",
-    13,
+    14,
     "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york"
+  ],
+  [
+    "series",
+    14,
+    "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york"
+  ],
+  [
+    "los",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/06/california-slow-vote-count"
+  ],
+  [
+    "angeles",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/06/california-slow-vote-count"
+  ],
+  [
+    "filter",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/04/walking-cat-on-leash-travel-skincare-fitness-essentials"
+  ],
+  [
+    "american",
+    14,
+    "https://www.theguardian.com/science/2026/jun/06/new-weapons-war-on-cancer-asco-conference-takeaways"
+  ],
+  [
+    "food",
+    14,
+    "https://www.theguardian.com/environment/2026/jun/05/global-meat-supply-chicken-pork-fao-report"
+  ],
+  [
+    "film",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/06/all-good-the-alien-autopsy-scandal-sky-documentaries"
+  ],
+  [
+    "something",
+    14,
+    "https://www.theguardian.com/film/2026/jun/04/office-romance-review-jennifer-lopez-romcom"
+  ],
+  [
+    "ago",
+    13,
+    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
+  ],
+  [
+    "workers",
+    13,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "department",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jun/06/trump-e-jean-carroll-justice-department"
+  ],
+  [
+    "primary",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/06/democrats-win-back-voters"
+  ],
+  [
+    "having",
+    13,
+    "https://www.theguardian.com/world/2026/jun/06/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank"
   ],
   [
     "night",
@@ -351,28 +331,48 @@
     "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york"
   ],
   [
-    "ahead",
+    "media",
     13,
-    "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york"
+    "https://www.theguardian.com/us-news/2026/jun/06/trial-killing-2025-texas-high-school-track-meet"
   ],
   [
-    "millions",
+    "because",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jun/05/trump-roadless-rule-national-forests-protection"
+    "https://www.theguardian.com/us-news/2026/jun/06/trump-news-latest-updates-today"
   ],
   [
-    "food",
+    "administration",
     13,
-    "https://www.theguardian.com/environment/2026/jun/05/global-meat-supply-chicken-pork-fao-report"
+    "https://www.theguardian.com/commentisfree/2026/jun/05/justice-department-civil-rights-laws-students-of-color"
   ],
   [
-    "something",
+    "football",
     13,
-    "https://www.theguardian.com/film/2026/jun/04/office-romance-review-jennifer-lopez-romcom"
+    "https://www.theguardian.com/football/ng-interactive/2026/jun/06/power-and-glory-world-cup-promises-a-spectacle-impossible-to-ignore"
   ],
   [
-    "general",
+    "event",
+    13,
+    "https://www.theguardian.com/football/ng-interactive/2026/jun/06/power-and-glory-world-cup-promises-a-spectacle-impossible-to-ignore"
+  ],
+  [
+    "immigration",
     12,
-    "https://www.nytimes.com/2026/06/05/us/politics/platner-democrats-maine-senate-primary-election.html"
+    "https://www.nytimes.com/2026/06/06/us/politics/immigration-courts-deportation.html"
+  ],
+  [
+    "texas",
+    12,
+    "https://www.nytimes.com/2026/06/06/us/politics/ken-paxton-latino-voting.html"
+  ],
+  [
+    "becerra",
+    12,
+    "https://www.nytimes.com/2026/06/05/us/elections/becerra-california-governor.html"
+  ],
+  [
+    "strike",
+    12,
+    "https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html"
   ]
 ];
