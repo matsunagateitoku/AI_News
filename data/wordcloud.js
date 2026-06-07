@@ -2,48 +2,73 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    57,
+    64,
     "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
   ],
   [
     "cup",
-    50,
-    "https://www.nytimes.com/2026/06/06/nyregion/world-cup-new-york-community.html"
+    51,
+    "https://www.nytimes.com/2026/06/06/us/ahead-of-world-cup-two-generations-of-haitian-players-unite.html"
   ],
   [
     "president",
-    32,
-    "https://www.nytimes.com/2026/06/05/us/politics/trump-wisconsin-farmers-midterms.html"
-  ],
-  [
-    "game",
-    29,
-    "https://www.nytimes.com/2026/06/06/nyregion/knicks-watch-party-arrests-nyc.html"
-  ],
-  [
-    "family",
-    26,
-    "https://www.nytimes.com/2026/06/06/us/politics/biden-speech-sioux-falls-trump.html"
+    40,
+    "https://www.nytimes.com/2026/06/06/us/politics/kennedy-center-lawsuit-tossed-trump-chuck-redd.html"
   ],
   [
     "california",
-    26,
-    "https://www.theguardian.com/us-news/2026/jun/06/california-slow-vote-count"
+    34,
+    "https://www.nytimes.com/2026/06/06/us/california-slow-vote-count.html"
   ],
   [
-    "york",
-    25,
-    "https://www.nytimes.com/2026/06/06/nyregion/delaney-hall-ice-detainees.html"
+    "family",
+    27,
+    "https://www.nytimes.com/2026/06/06/us/politics/biden-speech-sioux-falls-trump.html"
   ],
   [
-    "star",
-    23,
-    "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york"
+    "game",
+    27,
+    "https://www.theguardian.com/football/video/2026/jun/06/zohran-mamdani-the-guardian-bracketology-predict-world-cup-winner-video"
   ],
   [
     "iran",
-    21,
+    25,
     "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
+  ],
+  [
+    "war",
+    25,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "final",
+    25,
+    "https://www.theguardian.com/football/video/2026/jun/06/zohran-mamdani-the-guardian-bracketology-predict-world-cup-winner-video"
+  ],
+  [
+    "york",
+    23,
+    "https://www.theguardian.com/football/video/2026/jun/06/zohran-mamdani-the-guardian-bracketology-predict-world-cup-winner-video"
+  ],
+  [
+    "series",
+    23,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/07/moment-i-knew-five-hours-late-christmas-lunch-act-of-kindness"
+  ],
+  [
+    "political",
+    22,
+    "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori"
+  ],
+  [
+    "media",
+    22,
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/07/could-this-one-man-have-been-behind-terrorist-attacks-on-jewish-communities-across-europe"
+  ],
+  [
+    "police",
+    21,
+    "https://www.theguardian.com/us-news/2026/jun/06/toledo-ohio-shooting"
   ],
   [
     "anthony",
@@ -51,14 +76,24 @@
     "https://www.theguardian.com/us-news/2026/jun/06/louisiana-church-odiong-st-anthony-padua"
   ],
   [
-    "war",
+    "children",
     20,
-    "https://www.nytimes.com/2026/06/06/us/politics/ken-paxton-latino-voting.html"
+    "https://www.theguardian.com/us-news/2026/jun/06/dog-poop-new-york-city-sidewalks"
   ],
   [
-    "film",
+    "near",
     20,
-    "https://www.theguardian.com/film/2026/jun/06/taxi-driver-robert-de-niro-interview-jodie-foster-martin-scorsese-paul-schrader-tribeca-anniversary"
+    "https://www.theguardian.com/us-news/2026/jun/06/toledo-ohio-shooting"
+  ],
+  [
+    "social",
+    20,
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/07/could-this-one-man-have-been-behind-terrorist-attacks-on-jewish-communities-across-europe"
+  ],
+  [
+    "win",
+    19,
+    "https://www.nytimes.com/2026/06/06/us/an-uncertain-win-for-immigrants-seeking-to-stay-in-us.html"
   ],
   [
     "democrats",
@@ -66,94 +101,49 @@
     "https://www.nytimes.com/2026/06/06/us/politics/biden-speech-sioux-falls-trump.html"
   ],
   [
-    "knicks",
+    "film",
     19,
-    "https://www.nytimes.com/2026/06/06/nyregion/knicks-watch-party-arrests-nyc.html"
+    "https://www.theguardian.com/film/2026/jun/06/taxi-driver-robert-de-niro-interview-jodie-foster-martin-scorsese-paul-schrader-tribeca-anniversary"
   ],
   [
-    "series",
+    "games",
     19,
     "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york"
   ],
   [
-    "platner",
+    "ukraine",
     18,
-    "https://www.nytimes.com/2026/06/05/us/politics/graham-platner-maine-rally-senate.html"
+    "https://www.nytimes.com/2026/06/07/opinion/russia-turkey-putin-erdogan-ukraine.html"
   ],
   [
-    "win",
+    "food",
     18,
-    "https://www.nytimes.com/2026/06/06/nyregion/knicks-watch-party-arrests-nyc.html"
+    "https://www.theguardian.com/us-news/2026/jun/07/trump-news-latest-updates-today"
   ],
   [
-    "police",
-    18,
-    "https://www.nytimes.com/2026/06/06/nyregion/knicks-watch-party-arrests-nyc.html"
+    "russia",
+    17,
+    "https://www.nytimes.com/2026/06/07/opinion/russia-turkey-putin-erdogan-ukraine.html"
   ],
   [
-    "finals",
-    18,
-    "https://www.nytimes.com/2026/06/06/nyregion/knicks-watch-party-arrests-nyc.html"
+    "almost",
+    17,
+    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
   ],
   [
-    "latest",
-    18,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "least",
+    17,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "children",
-    18,
-    "https://www.theguardian.com/us-news/2026/jun/06/dog-poop-new-york-city-sidewalks"
-  ],
-  [
-    "director",
-    18,
+    "night",
+    17,
     "https://www.theguardian.com/film/2026/jun/06/taxi-driver-robert-de-niro-interview-jodie-foster-martin-scorsese-paul-schrader-tribeca-anniversary"
-  ],
-  [
-    "country",
-    17,
-    "https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html"
-  ],
-  [
-    "team",
-    17,
-    "https://www.nytimes.com/2026/06/05/sports/soccer/amputee-world-cup-national-team.html"
   ],
   [
     "far",
     17,
-    "https://www.theguardian.com/society/2026/jun/06/reconnecting-with-estranged-mother-forced-to-give-me-up-for-adoption-reunion"
-  ],
-  [
-    "fewer",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/jun/06/trump-e-jean-carroll-justice-department"
-  ],
-  [
-    "nba",
-    17,
-    "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york"
-  ],
-  [
-    "games",
-    17,
-    "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york"
-  ],
-  [
-    "political",
-    17,
-    "https://www.theguardian.com/us-news/2026/jun/06/california-slow-vote-count"
-  ],
-  [
-    "black",
-    17,
-    "https://www.theguardian.com/news/2026/jun/06/africa-exception-slavery-reparations-african-union-justice"
-  ],
-  [
-    "media",
-    17,
-    "https://www.theguardian.com/global-development/2026/jun/06/african-leader-speech-decolonisation-ai-generated-fake-president-namibia-africa-caribbean"
+    "https://www.theguardian.com/us-news/2026/jun/06/democrats-win-back-voters"
   ],
   [
     "guide",
@@ -161,99 +151,99 @@
     "https://www.theguardian.com/football/2026/jun/06/uruguay-world-cup-2026-team-guide"
   ],
   [
-    "food",
-    17,
-    "https://www.theguardian.com/environment/2026/jun/05/global-meat-supply-chicken-pork-fao-report"
-  ],
-  [
-    "israel",
-    16,
-    "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
-  ],
-  [
-    "senate",
-    16,
-    "https://www.nytimes.com/2026/06/06/us/politics/ken-paxton-latino-voting.html"
-  ],
-  [
     "states",
     16,
     "https://www.nytimes.com/2026/06/05/upshot/democrats-senate-midterms-analysis.html"
   ],
   [
-    "social",
+    "released",
     16,
-    "https://www.theguardian.com/football/2026/jun/06/mexico-security-world-cup-fan-zone-growing-protests-football"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "growing",
-    15,
-    "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
-  ],
-  [
-    "american",
-    15,
-    "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
-  ],
-  [
-    "football",
-    15,
-    "https://www.nytimes.com/2026/06/05/sports/soccer/amputee-world-cup-national-team.html"
-  ],
-  [
-    "loss",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "final",
-    15,
-    "https://www.theguardian.com/football/video/2026/jun/06/zohran-mamdani-the-guardian-bracketology-predict-world-cup-winner-video"
-  ],
-  [
-    "young",
-    15,
-    "https://www.theguardian.com/film/2026/jun/06/taxi-driver-robert-de-niro-interview-jodie-foster-martin-scorsese-paul-schrader-tribeca-anniversary"
-  ],
-  [
-    "summer",
-    15,
-    "https://www.theguardian.com/football/2026/jun/05/real-madrid-to-launch-150m-bid-for-michael-olise-if-florentino-perez-re-elected"
-  ],
-  [
-    "cbs",
-    15,
-    "https://www.latimes.com/opinion/story/2026-06-06/andy-rooney-might-say-about-downfall-of-60-minutes"
-  ],
-  [
-    "israeli",
-    14,
-    "https://www.nytimes.com/2026/06/06/world/middleeast/white-phosphorous-israel-lebanon.html"
-  ],
-  [
-    "maine",
-    14,
-    "https://www.nytimes.com/2026/06/05/us/politics/graham-platner-maine-rally-senate.html"
-  ],
-  [
-    "despite",
-    14,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "spurs",
-    14,
-    "https://www.theguardian.com/sport/2026/jun/05/knicks-spurs-game-2-nba-finals-brunson-new-york"
+    "late",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/07/moment-i-knew-five-hours-late-christmas-lunch-act-of-kindness"
   ],
   [
     "election",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/06/california-slow-vote-count"
+    16,
+    "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori"
   ],
   [
-    "filter",
+    "golden",
+    16,
+    "https://www.theguardian.com/sport/2026/jun/07/vegas-golden-knights-carolina-hurricanes-game-3-double-overtime-stanley-cup-final"
+  ],
+  [
+    "fewer",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/jun/06/trump-e-jean-carroll-justice-department"
+  ],
+  [
+    "race",
+    15,
+    "https://www.nytimes.com/2026/06/06/nyregion/alex-bores-primary-ai-palantir.html"
+  ],
+  [
+    "party",
+    15,
+    "https://www.nytimes.com/2026/06/05/upshot/democrats-senate-midterms-analysis.html"
+  ],
+  [
+    "team",
+    15,
+    "https://www.nytimes.com/2026/06/06/us/ahead-of-world-cup-two-generations-of-haitian-players-unite.html"
+  ],
+  [
+    "body",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/06/world-cup-ticket-prices"
+  ],
+  [
+    "lead",
+    15,
+    "https://www.theguardian.com/sport/2026/jun/07/vegas-golden-knights-carolina-hurricanes-game-3-double-overtime-stanley-cup-final"
+  ],
+  [
+    "experience",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/07/medical-misogyny-women-experiences"
+  ],
+  [
+    "murder",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/05/the-guardian-view-on-henry-nowaks-big-tech-and-the-far-right-are-allied-in-an-outrage-arms-race"
+  ],
+  [
+    "star",
+    15,
+    "https://www.theguardian.com/sport/2026/jun/06/victor-wembanyama-spurs-knicks-nba-finals-turnover"
+  ],
+  [
+    "american",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/04/walking-cat-on-leash-travel-skincare-fitness-essentials"
+    "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
+  ],
+  [
+    "country",
+    14,
+    "https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html"
+  ],
+  [
+    "killed",
+    14,
+    "https://www.nytimes.com/2026/06/06/world/middleeast/israel-west-bank-infant.html"
+  ],
+  [
+    "loss",
+    14,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "love",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/07/moment-i-knew-five-hours-late-christmas-lunch-act-of-kindness"
   ],
   [
     "school",
@@ -261,64 +251,104 @@
     "https://www.theguardian.com/us-news/ng-interactive/2026/jun/06/his-dad-was-deported-high-school-graduation"
   ],
   [
-    "sex",
+    "voters",
     14,
-    "https://www.theguardian.com/film/2026/jun/05/how-greek-myth-iphigenia-became-welsh-language-film-iphigenia-in-splott-effi-o-blaenau"
+    "https://www.theguardian.com/us-news/2026/jun/06/democrats-win-back-voters"
   ],
   [
-    "missing",
+    "shot",
     14,
-    "https://www.theguardian.com/thefilter-us/2025/dec/22/best-family-board-games"
+    "https://www.theguardian.com/us-news/2026/jun/06/toledo-ohio-shooting"
   ],
   [
-    "immigration",
-    13,
-    "https://www.nytimes.com/2026/06/06/us/politics/immigration-courts-deportation.html"
-  ],
-  [
-    "democratic",
-    13,
-    "https://www.nytimes.com/2026/06/06/us/politics/ken-paxton-latino-voting.html"
-  ],
-  [
-    "graham",
-    13,
-    "https://www.nytimes.com/2026/06/05/us/politics/graham-platner-maine-rally-senate.html"
+    "died",
+    14,
+    "https://www.theguardian.com/world/2026/jun/06/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank"
   ],
   [
     "health",
-    13,
-    "https://www.nytimes.com/2026/06/06/opinion/happiness-trust-americans-states.html"
+    14,
+    "https://www.theguardian.com/society/2026/jun/06/mental-health-disorders-interview-diagnosis-study"
   ],
   [
-    "gaza",
-    13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "filter",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/04/walking-cat-on-leash-travel-skincare-fitness-essentials"
   ],
   [
-    "released",
+    "israel",
     13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
   ],
   [
-    "night",
+    "israeli",
+    13,
+    "https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html"
+  ],
+  [
+    "fire",
+    13,
+    "https://www.nytimes.com/2026/06/06/world/middleeast/israel-west-bank-infant.html"
+  ],
+  [
+    "judge",
+    13,
+    "https://www.nytimes.com/2026/06/06/us/an-uncertain-win-for-immigrants-seeking-to-stay-in-us.html"
+  ],
+  [
+    "senate",
+    13,
+    "https://www.nytimes.com/2026/06/05/upshot/democrats-senate-midterms-analysis.html"
+  ],
+  [
+    "court",
+    13,
+    "https://www.nytimes.com/2026/06/06/magazine/raphael-warnock-interview.html"
+  ],
+  [
+    "ago",
+    13,
+    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
+  ],
+  [
+    "peace",
+    13,
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+  ],
+  [
+    "festival",
     13,
     "https://www.theguardian.com/film/2026/jun/06/taxi-driver-robert-de-niro-interview-jodie-foster-martin-scorsese-paul-schrader-tribeca-anniversary"
   ],
   [
-    "late",
+    "los",
     13,
-    "https://www.theguardian.com/society/2026/jun/06/reconnecting-with-estranged-mother-forced-to-give-me-up-for-adoption-reunion"
+    "https://www.theguardian.com/commentisfree/2026/jun/06/world-cup-ticket-prices"
   ],
   [
-    "dead",
+    "angeles",
     13,
-    "https://www.theguardian.com/society/2026/jun/06/reconnecting-with-estranged-mother-forced-to-give-me-up-for-adoption-reunion"
+    "https://www.theguardian.com/commentisfree/2026/jun/06/world-cup-ticket-prices"
   ],
   [
-    "event",
+    "russian",
     13,
-    "https://www.theguardian.com/football/2026/jun/06/mexico-security-world-cup-fan-zone-growing-protests-football"
+    "https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting"
+  ],
+  [
+    "governor",
+    13,
+    "https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting"
+  ],
+  [
+    "black",
+    13,
+    "https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting"
+  ],
+  [
+    "history",
+    13,
+    "https://www.theguardian.com/sport/2026/jun/07/vegas-golden-knights-carolina-hurricanes-game-3-double-overtime-stanley-cup-final"
   ],
   [
     "having",
@@ -326,53 +356,23 @@
     "https://www.theguardian.com/world/2026/jun/06/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank"
   ],
   [
-    "love",
+    "fans",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jun/06/world-cup-ticket-prices"
+    "https://www.theguardian.com/music/2026/jun/07/the-beatles-unseen-photographs-chaotic-controversial-final-tour-jim-marshall"
   ],
   [
-    "department",
-    12,
-    "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
+    "belmont",
+    13,
+    "https://www.theguardian.com/sport/2026/jun/06/golden-tempo-belmont-stakes-cherie-devaux"
   ],
   [
-    "texas",
-    12,
-    "https://www.nytimes.com/2026/06/06/us/politics/ken-paxton-latino-voting.html"
+    "little",
+    13,
+    "https://www.theguardian.com/football/2026/jun/06/if-this-is-messis-last-world-cup-could-he-eclipse-maradona-and-win-it-twice"
   ],
   [
-    "data",
-    12,
-    "https://www.nytimes.com/2026/06/06/nyregion/delaney-hall-ice-detainees.html"
-  ],
-  [
-    "past",
-    12,
-    "https://www.nytimes.com/2026/06/05/us/politics/graham-platner-maine-rally-senate.html"
-  ],
-  [
-    "party",
-    12,
-    "https://www.nytimes.com/2026/06/05/upshot/democrats-senate-midterms-analysis.html"
-  ],
-  [
-    "don",
-    12,
-    "https://www.nytimes.com/2026/06/06/nyregion/alex-bores-primary-ai-palantir.html"
-  ],
-  [
-    "recent",
-    12,
-    "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html"
-  ],
-  [
-    "remain",
-    12,
-    "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html"
-  ],
-  [
-    "court",
-    12,
-    "https://www.nytimes.com/2026/06/06/magazine/raphael-warnock-interview.html"
+    "actor",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance"
   ]
 ];
