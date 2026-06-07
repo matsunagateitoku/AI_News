@@ -2,48 +2,83 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    74,
-    "https://www.nytimes.com/live/2026/06/07/us/trump-news"
-  ],
-  [
-    "cup",
-    47,
-    "https://www.nytimes.com/2026/06/07/arts/world-cup-united-states-soccer-pele-beckham-messi.html"
+    97,
+    "https://www.nytimes.com/2026/06/07/us/politics/lawsuit-ufc-fight-white-house.html"
   ],
   [
     "president",
-    39,
-    "https://www.nytimes.com/live/2026/06/07/us/trump-news"
+    42,
+    "https://www.nytimes.com/2026/06/07/nyregion/knicks-watch-party-msg-canceled-trump.html"
+  ],
+  [
+    "cup",
+    42,
+    "https://www.nytimes.com/2026/06/07/us/seattle-street-preachers-world-cup.html"
+  ],
+  [
+    "california",
+    36,
+    "https://www.theguardian.com/us-news/2026/jun/06/how-xavier-becerra-turned-campaign-california-governor"
+  ],
+  [
+    "iran",
+    29,
+    "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html"
+  ],
+  [
+    "interview",
+    29,
+    "https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html"
   ],
   [
     "family",
+    26,
+    "https://www.theguardian.com/film/ng-interactive/2026/jun/07/writers-choose-favourite-steven-spielberg-films-jaws-close-encounters-raiders-lost-ark"
+  ],
+  [
+    "nation",
+    26,
+    "https://www.theguardian.com/books/2026/jun/07/should-we-ditch-the-idea-of-three-meals-a-day"
+  ],
+  [
+    "cbs",
     25,
-    "https://www.nytimes.com/2026/06/06/us/politics/biden-speech-sioux-falls-trump.html"
+    "https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html"
+  ],
+  [
+    "fans",
+    25,
+    "https://www.nytimes.com/2026/06/07/us/seattle-street-preachers-world-cup.html"
+  ],
+  [
+    "war",
+    25,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "york",
+    24,
+    "https://www.nytimes.com/2026/06/07/arts/television/scott-pelley-60-minutes-interview-takeaways.html"
   ],
   [
     "game",
-    25,
-    "https://www.theguardian.com/football/2026/jun/07/north-americas-wide-and-wild-world-cup-will-be-an-experience-like-no-other"
-  ],
-  [
-    "police",
     24,
-    "https://www.nytimes.com/2026/06/07/nyregion/delaney-hall-mikie-sherrill.html"
+    "https://www.nytimes.com/2026/06/07/nyregion/knicks-watch-party-msg-canceled-trump.html"
   ],
   [
-    "least",
-    22,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "near",
-    22,
-    "https://www.theguardian.com/us-news/2026/jun/07/ohio-toledo-shooting-festival"
+    "don",
+    23,
+    "https://www.theguardian.com/thefilter-us/2026/jun/07/outdoor-gear-brands-that-repair-products"
   ],
   [
     "night",
+    23,
+    "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london"
+  ],
+  [
+    "margaret",
     22,
-    "https://www.theguardian.com/sport/2026/jun/07/trump-knicks-spurs-nba-finals-game-3-security"
+    "https://www.cbsnews.com/news/don-bacon-nebraska-republican-face-the-nation-transcript-06-07-2026/"
   ],
   [
     "food",
@@ -51,149 +86,184 @@
     "https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html"
   ],
   [
-    "film",
+    "team",
     21,
-    "https://www.theguardian.com/film/ng-interactive/2026/jun/07/writers-choose-favourite-steven-spielberg-films-jaws-close-encounters-raiders-lost-ark"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "fans",
-    20,
-    "https://www.theguardian.com/football/2026/jun/07/north-americas-wide-and-wild-world-cup-will-be-an-experience-like-no-other"
+    "election",
+    21,
+    "https://www.theguardian.com/us-news/2026/jun/06/how-xavier-becerra-turned-campaign-california-governor"
   ],
   [
-    "york",
-    20,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/07/dog-cat-bathroom-pet-nook"
-  ],
-  [
-    "california",
-    20,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/07/mildred-howard-retrospective-exhibit-oakland"
-  ],
-  [
-    "iran",
-    19,
-    "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html"
-  ],
-  [
-    "final",
-    19,
-    "https://www.nytimes.com/2026/06/07/business/caastle-fraud-christine-hunsicker.html"
-  ],
-  [
-    "american",
-    19,
-    "https://www.nytimes.com/2026/06/07/opinion/iran-us-war-military-washington.html"
-  ],
-  [
-    "war",
-    19,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "director",
-    19,
-    "https://www.theguardian.com/us-news/2026/jun/07/fbi-fires-several-analysts-catholic-memo"
+    "brennan",
+    21,
+    "https://www.cbsnews.com/news/don-bacon-nebraska-republican-face-the-nation-transcript-06-07-2026/"
   ],
   [
     "democrats",
-    18,
-    "https://www.nytimes.com/2026/06/06/us/politics/biden-speech-sioux-falls-trump.html"
-  ],
-  [
-    "love",
-    18,
-    "https://www.nytimes.com/2026/06/07/arts/world-cup-united-states-soccer-pele-beckham-messi.html"
-  ],
-  [
-    "country",
-    18,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "series",
-    18,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/07/moment-i-knew-five-hours-late-christmas-lunch-act-of-kindness"
-  ],
-  [
-    "team",
-    17,
-    "https://www.nytimes.com/2026/06/06/us/ahead-of-world-cup-two-generations-of-haitian-players-unite.html"
+    20,
+    "https://www.nytimes.com/2026/06/07/us/politics/platner-democrats-congress-reaction.html"
   ],
   [
     "games",
+    20,
+    "https://www.theguardian.com/football/2026/jun/07/iran-players-us-visa-delays-world-cup-2026-mexico"
+  ],
+  [
+    "film",
+    19,
+    "https://www.theguardian.com/film/ng-interactive/2026/jun/07/writers-choose-favourite-steven-spielberg-films-jaws-close-encounters-raiders-lost-ark"
+  ],
+  [
+    "political",
+    18,
+    "https://www.nytimes.com/2026/06/07/us/politics/hegseth-europe-migration-d-day.html"
+  ],
+  [
+    "star",
+    18,
+    "https://www.theguardian.com/film/ng-interactive/2026/jun/07/writers-choose-favourite-steven-spielberg-films-jaws-close-encounters-raiders-lost-ark"
+  ],
+  [
+    "black",
     17,
-    "https://www.theguardian.com/games/2026/jun/03/god-of-war-laufey-playstation-state-of-play"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/07/democrats-voters-rural-america"
+  ],
+  [
+    "weekly",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/jun/07/outdoor-gear-brands-that-repair-products"
+  ],
+  [
+    "guide",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/jun/07/outdoor-gear-brands-that-repair-products"
+  ],
+  [
+    "series",
+    17,
+    "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london"
+  ],
+  [
+    "rep",
+    17,
+    "https://www.cbsnews.com/news/don-bacon-nebraska-republican-face-the-nation-transcript-06-07-2026/"
+  ],
+  [
+    "party",
+    16,
+    "https://www.nytimes.com/2026/06/07/nyregion/knicks-watch-party-msg-canceled-trump.html"
+  ],
+  [
+    "final",
+    16,
+    "https://www.nytimes.com/2026/06/07/business/caastle-fraud-christine-hunsicker.html"
+  ],
+  [
+    "country",
+    16,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "fewer",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/jun/07/jigsaw-puzzles-piecework-grandma-hobbies"
+    "https://www.theguardian.com/thefilter-us/2026/jun/07/outdoor-gear-brands-that-repair-products"
   ],
   [
-    "health",
+    "donald",
+    16,
+    "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates"
+  ],
+  [
+    "near",
+    16,
+    "https://www.theguardian.com/us-news/2026/jun/07/ohio-toledo-shooting-festival"
+  ],
+  [
+    "israel",
     15,
-    "https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html"
-  ],
-  [
-    "spielberg",
-    15,
-    "https://www.nytimes.com/2026/06/07/magazine/steven-spielberg-movie-theater-disclosure-day.html"
-  ],
-  [
-    "event",
-    15,
-    "https://www.theguardian.com/film/ng-interactive/2026/jun/07/writers-choose-favourite-steven-spielberg-films-jaws-close-encounters-raiders-lost-ark"
-  ],
-  [
-    "star",
-    15,
-    "https://www.theguardian.com/film/ng-interactive/2026/jun/07/writers-choose-favourite-steven-spielberg-films-jaws-close-encounters-raiders-lost-ark"
-  ],
-  [
-    "weekly",
-    15,
-    "https://www.theguardian.com/society/2026/jun/07/weekly-diabetes-jab-reduce-blood-sugar-levels-body-weight"
-  ],
-  [
-    "black",
-    15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/07/democrats-voters-rural-america"
-  ],
-  [
-    "guide",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/07/jigsaw-puzzles-piecework-grandma-hobbies"
-  ],
-  [
-    "political",
-    14,
-    "https://www.nytimes.com/2026/06/07/us/politics/hegseth-europe-migration-d-day.html"
-  ],
-  [
-    "states",
-    14,
-    "https://www.nytimes.com/2026/06/07/arts/world-cup-united-states-soccer-pele-beckham-messi.html"
+    "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html"
   ],
   [
     "died",
-    14,
+    15,
     "https://www.washingtonpost.com/business/2026/06/07/wounded-lebanese-journalist-died-rescuers-waited-israels-permission-save-her/"
   ],
   [
-    "something",
-    14,
-    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
+    "children",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/07/black-women-murders-domestic-violence-crisis"
   ],
   [
-    "almost",
-    14,
-    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
+    "press",
+    15,
+    "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates"
   ],
   [
-    "loss",
+    "police",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/07/ohio-toledo-shooting-festival"
+  ],
+  [
+    "late",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/06/how-xavier-becerra-turned-campaign-california-governor"
+  ],
+  [
+    "grand",
+    15,
+    "https://www.theguardian.com/sport/2026/jun/07/alexander-zverev-wins-first-grand-slam-after-holding-off-cobolli-in-french-open"
+  ],
+  [
+    "director",
+    15,
+    "https://www.theguardian.com/football/2026/jun/07/nwsl-columbus-expansion-public-funding-park-dispute-fans"
+  ],
+  [
+    "minutes",
     14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html"
+  ],
+  [
+    "little",
+    14,
+    "https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html"
+  ],
+  [
+    "knicks",
+    14,
+    "https://www.nytimes.com/2026/06/07/nyregion/knicks-watch-party-msg-canceled-trump.html"
+  ],
+  [
+    "watch",
+    14,
+    "https://www.nytimes.com/2026/06/07/nyregion/knicks-watch-party-msg-canceled-trump.html"
+  ],
+  [
+    "american",
+    14,
+    "https://www.nytimes.com/2026/06/07/opinion/iran-us-war-military-washington.html"
+  ],
+  [
+    "attack",
+    14,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "filter",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/jun/07/outdoor-gear-brands-that-repair-products"
+  ],
+  [
+    "buying",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/jun/07/outdoor-gear-brands-that-repair-products"
+  ],
+  [
+    "love",
+    14,
+    "https://www.theguardian.com/film/ng-interactive/2026/jun/07/writers-choose-favourite-steven-spielberg-films-jaws-close-encounters-raiders-lost-ark"
   ],
   [
     "having",
@@ -201,34 +271,34 @@
     "https://www.theguardian.com/football/2026/jun/07/north-americas-wide-and-wild-world-cup-will-be-an-experience-like-no-other"
   ],
   [
+    "fuel",
+    14,
+    "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london"
+  ],
+  [
+    "anti",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/06/california-slow-vote-count"
+  ],
+  [
     "play",
     14,
     "https://www.theguardian.com/music/2026/jun/07/the-beatles-unseen-photographs-chaotic-controversial-final-tour-jim-marshall"
   ],
   [
-    "death",
+    "senate",
     14,
-    "https://www.theguardian.com/sport/2026/jun/07/simone-biles-resting-after-serious-health-scare-almost-dying-wasnt-on-my-bingo-card"
+    "https://www.foxnews.com/media/maher-warns-democrats-have-another-sex-creep-problem-platner-citing-misconduct-allegations"
   ],
   [
-    "because",
-    14,
-    "https://www.theguardian.com/sport/2026/jun/07/simone-biles-resting-after-serious-health-scare-almost-dying-wasnt-on-my-bingo-card"
-  ],
-  [
-    "children",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/07/my-partners-mum-is-cruel-towards-him-and-i-worry-how-shell-be-with-our-future-kids"
-  ],
-  [
-    "israel",
+    "event",
     13,
-    "https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html"
+    "https://www.nytimes.com/2026/06/07/us/politics/lawsuit-ufc-fight-white-house.html"
   ],
   [
-    "interview",
+    "khanna",
     13,
-    "https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html"
+    "https://www.nytimes.com/2026/06/07/us/politics/platner-democrats-congress-reaction.html"
   ],
   [
     "history",
@@ -236,29 +306,29 @@
     "https://www.nytimes.com/2026/06/07/theater/june-squibb-tony-awards.html"
   ],
   [
-    "music",
+    "mexico",
     13,
-    "https://www.nytimes.com/2026/06/07/theater/how-to-watch-tony-awards-2026-streaming.html"
+    "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html"
   ],
   [
-    "steven",
+    "place",
     13,
     "https://www.nytimes.com/2026/06/07/magazine/steven-spielberg-movie-theater-disclosure-day.html"
   ],
   [
-    "summer",
+    "immigration",
     13,
-    "https://www.nytimes.com/2026/06/07/briefing/touching-grass.html"
+    "https://www.washingtonpost.com/nation/2026/06/07/over-shared-meals-philadelphians-write-recipe-citizenship/"
   ],
   [
-    "west",
+    "something",
     13,
     "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
   ],
   [
-    "questions",
+    "almost",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
   ],
   [
     "released",
@@ -266,113 +336,43 @@
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "experience",
-    13,
-    "https://www.theguardian.com/football/2026/jun/07/north-americas-wide-and-wild-world-cup-will-be-an-experience-like-no-other"
-  ],
-  [
-    "earlier",
-    13,
-    "https://www.theguardian.com/music/2026/jun/07/the-beatles-unseen-photographs-chaotic-controversial-final-tour-jim-marshall"
-  ],
-  [
-    "late",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/07/moment-i-knew-five-hours-late-christmas-lunch-act-of-kindness"
-  ],
-  [
-    "felt",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/07/this-is-how-we-do-it-i-joined-a-hook-up-app-for-widowed-people"
-  ],
-  [
-    "festival",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/07/ohio-toledo-shooting-festival"
-  ],
-  [
-    "young",
+    "voters",
     13,
     "https://www.theguardian.com/us-news/ng-interactive/2026/jun/07/democrats-voters-rural-america"
   ],
   [
-    "video",
+    "meet",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/07/new-york-manhole-mole-people"
+    "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates"
   ],
   [
-    "filter",
+    "because",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/07/jigsaw-puzzles-piecework-grandma-hobbies"
+    "https://www.theguardian.com/media/2026/jun/07/scott-pelley-bari-weiss-renee-good-report"
   ],
   [
-    "don",
+    "death",
     13,
-    "https://www.theguardian.com/travel/2026/jun/07/memorable-family-holidays-interrail-naples-glamping-finland"
+    "https://www.theguardian.com/us-news/2026/jun/07/bob-packwood-senator-dies"
   ],
   [
-    "talks",
+    "texas",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance"
+    "https://www.theguardian.com/us-news/2026/jun/07/texas-murder-case-taylor-parker"
   ],
   [
-    "little",
-    12,
-    "https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html"
+    "recent",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/07/trump-america-birthday-us-monuments"
   ],
   [
-    "far",
-    12,
-    "https://www.nytimes.com/2026/06/07/us/politics/hegseth-europe-migration-d-day.html"
-  ],
-  [
-    "experts",
-    12,
-    "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html"
-  ],
-  [
-    "killed",
-    12,
-    "https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html"
-  ],
-  [
-    "race",
-    12,
-    "https://www.nytimes.com/2026/06/07/us/politics/georgia-republican-senate-runoff-trump.html"
+    "park",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/06/park-ranger-dies-alaska-mount-mckinley"
   ],
   [
     "book",
-    12,
-    "https://www.nytimes.com/2026/06/06/us/politics/biden-speech-sioux-falls-trump.html"
-  ],
-  [
-    "fashion",
-    12,
-    "https://www.nytimes.com/2026/06/07/business/caastle-fraud-christine-hunsicker.html"
-  ],
-  [
-    "tony",
-    12,
-    "https://www.nytimes.com/2026/06/06/theater/tony-awards-2026-pink.html"
-  ],
-  [
-    "place",
-    12,
-    "https://www.nytimes.com/2026/06/07/magazine/steven-spielberg-movie-theater-disclosure-day.html"
-  ],
-  [
-    "early",
-    12,
-    "https://www.nytimes.com/2026/06/07/briefing/touching-grass.html"
-  ],
-  [
-    "ago",
-    12,
-    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
-  ],
-  [
-    "sex",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/07/this-is-how-we-do-it-i-joined-a-hook-up-app-for-widowed-people"
+    13,
+    "https://www.theguardian.com/books/2026/jun/07/should-we-ditch-the-idea-of-three-meals-a-day"
   ]
 ];

@@ -3,21 +3,33 @@
   "EVENT": [
     {
       "name": "World Cup Experts’ Network",
-      "count": 21,
+      "count": 20,
       "url": "https://www.theguardian.com/football/2026/jun/07/norway-world-cup-2026-team-guide",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/06/07/opinion/world-cup-new-york-new-jersey-transit-walk.html",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/06/07/us/seattle-street-preachers-world-cup.html",
       "source": "NY Times"
     },
     {
-      "name": "The 2026 World Cup",
+      "name": "The French Open",
+      "count": 4,
+      "url": "https://www.npr.org/2026/06/07/g-s1-126803/french-open-2026-alexander-zverev-grand-slam-title",
+      "source": "NPR"
+    },
+    {
+      "name": "Game 3",
       "count": 3,
-      "url": "https://www.theguardian.com/fashion/2026/jun/05/fashion-goals-world-cup-style-tournament-kicked-off",
+      "url": "https://www.theguardian.com/sport/2026/jun/07/trump-knicks-spurs-nba-finals-game-3-security",
       "source": "The Guardian"
+    },
+    {
+      "name": "The 2026 World Cup",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
+      "source": "NY Times"
     },
     {
       "name": "This World Cup",
@@ -26,27 +38,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "Game 3",
+      "name": "Holocaust",
       "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/jun/07/trump-knicks-spurs-nba-finals-game-3-security",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Iran War",
-      "count": 2,
-      "url": "https://www.nbcnews.com/politics/donald-trump/fact-checking-trump-interview-meet-press-june-2026-rcna348518",
-      "source": "NBC News"
-    },
-    {
-      "name": "Summer Olympics",
-      "count": 2,
-      "url": "https://www.nbcnews.com/sports/soccer/world-cup-gives-los-angeles-chance-showcase-olympic-readiness-rcna348121",
-      "source": "NBC News"
-    },
-    {
-      "name": "French Open 2026",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/live/2026/jun/07/french-open-2026-flavio-cobolli-alexander-zverev-mens-singles-final-live",
+      "url": "https://www.theguardian.com/world/2026/jun/08/book-of-yiddish-jewish-songs-holocaust-translated-revived-sydney-ntwnfb",
       "source": "The Guardian"
     },
     {
@@ -56,154 +50,172 @@
       "source": "The Guardian"
     },
     {
-      "name": "Norway World Cup",
+      "name": "Olympic",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jun/07/norway-world-cup-2026-team-guide",
+      "url": "https://www.theguardian.com/sport/2026/jun/07/alexander-zverev-wins-first-grand-slam-after-holding-off-cobolli-in-french-open",
+      "source": "The Guardian"
+    },
+    {
+      "name": "First World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/jun/07/tuchel-relishes-rashford-v-gordon-in-search-for-round-pegs-in-round-holes",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "The Bidens Return With New Book And South Dakota Speech Targeting Trump",
-      "count": 44,
-      "url": "https://www.nytimes.com/2026/06/06/us/politics/biden-speech-sioux-falls-trump.html",
-      "source": "NY Times"
+      "name": "Target For Trump",
+      "count": 61,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     },
     {
       "name": "Guardian News",
-      "count": 17,
+      "count": 21,
       "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
-      "name": "Ai",
-      "count": 12,
-      "url": "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Filter Us",
-      "count": 12,
+      "count": 13,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Cbs News",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html",
-      "source": "NY Times"
-    },
-    {
       "name": "The New York Knicks",
-      "count": 6,
+      "count": 12,
       "url": "https://www.theguardian.com/sport/2026/jun/07/trump-knicks-spurs-nba-finals-game-3-security",
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/06/jill-biden-book-view-from-the-east-wing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guinness 0",
-      "count": 6,
-      "url": "https://www.theguardian.com/thefilter-us/2026/may/30/guinness-v-guinness-0-non-alcoholic-taste-test",
-      "source": "The Guardian"
-    },
-    {
       "name": "Maine Senate",
-      "count": 6,
+      "count": 12,
       "url": "https://www.politico.com/news/2026/06/05/platner-democrats-maine-tuesday-primary-00952432",
       "source": "Politico"
     },
     {
-      "name": "Un",
-      "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/07/donald-trump-ceasefire-failure-ukraine-iran-gaza-lebanon-gaza",
+      "name": "Cbs News ‘",
+      "count": 12,
+      "url": "https://thehill.com/media/5913775-scott-pelley-cbs-news-fired/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Cbs News’S",
+      "count": 10,
+      "url": "https://www.theguardian.com/media/2026/jun/07/scott-pelley-bari-weiss-renee-good-report",
       "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/jun/07/trump-deal-chagos-islands-mauritius-uk",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 9,
+      "url": "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The New York Times",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/06/07/arts/television/scott-pelley-60-minutes-interview-takeaways.html",
+      "source": "NY Times"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 43,
-      "url": "https://www.theguardian.com/world/2026/jun/07/pete-hegseth-d-day-speech-immigration-grotesque-stupidity",
+      "count": 38,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/07/black-women-murders-domestic-violence-crisis",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 28,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
       "name": "California",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/07/mildred-howard-retrospective-exhibit-oakland",
+      "count": 31,
+      "url": "https://www.theguardian.com/us-news/2026/jun/06/how-xavier-becerra-turned-campaign-california-governor",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
       "source": "NY Times"
     },
     {
-      "name": "New York City",
-      "count": 16,
-      "url": "https://www.theguardian.com/sport/2026/jun/07/trump-knicks-spurs-nba-finals-game-3-security",
-      "source": "The Guardian"
-    },
-    {
       "name": "L.A. County",
-      "count": 14,
+      "count": 20,
       "url": "https://www.latimes.com/california/story/2026-06-06/do-you-live-near-hazardous-industrial-site-in-la-county-how-to-find-out",
       "source": "LA Times"
     },
     {
-      "name": "Hollywood",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/06/07/magazine/steven-spielberg-movie-theater-disclosure-day.html",
+      "name": "U.S.",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
       "source": "NY Times"
     },
     {
       "name": "Texas",
-      "count": 12,
-      "url": "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/jun/07/texas-murder-case-taylor-parker",
       "source": "The Guardian"
     },
     {
-      "name": "Israel",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html",
-      "source": "NY Times"
+      "name": "New York City",
+      "count": 13,
+      "url": "https://www.theguardian.com/sport/2026/jun/07/trump-knicks-spurs-nba-finals-game-3-security",
+      "source": "The Guardian"
     },
     {
       "name": "London",
-      "count": 10,
-      "url": "https://www.theguardian.com/football/2026/jun/06/david-sullivan-how-did-the-pornographer-rise-so-high-in-modern-football",
+      "count": 12,
+      "url": "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london",
       "source": "The Guardian"
+    },
+    {
+      "name": "Hollywood",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/06/07/magazine/steven-spielberg-movie-theater-disclosure-day.html",
+      "source": "NY Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 20,
-      "url": "https://www.theguardian.com/sport/2026/jun/07/trump-knicks-spurs-nba-finals-game-3-security",
+      "count": 32,
+      "url": "https://www.theguardian.com/us-news/2026/jun/07/trump-deal-chagos-islands-mauritius-uk",
       "source": "The Guardian"
     },
     {
-      "name": "Steven Spielberg",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/06/07/magazine/steven-spielberg-movie-theater-disclosure-day.html",
+      "name": "Margaret Brennan",
+      "count": 22,
+      "url": "https://www.cbsnews.com/news/don-bacon-nebraska-republican-face-the-nation-transcript-06-07-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Ro Khanna",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/06/07/us/politics/platner-democrats-congress-reaction.html",
       "source": "NY Times"
     },
     {
-      "name": "Simone Biles",
-      "count": 8,
-      "url": "https://www.theguardian.com/sport/2026/jun/07/simone-biles-resting-after-serious-health-scare-almost-dying-wasnt-on-my-bingo-card",
-      "source": "The Guardian"
+      "name": "Scott Pelley",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Platner Allegations",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/06/07/us/politics/platner-democrats-congress-reaction.html",
+      "source": "NY Times"
     },
     {
       "name": "Lizzo",
@@ -212,41 +224,29 @@
       "source": "The Guardian"
     },
     {
-      "name": "Hunter Biden V Jake Tapper",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/06/jill-biden-book-view-from-the-east-wing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Anthony Head",
-      "count": 6,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/07/anthony-head-obituary",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dua Lipa",
-      "count": 6,
-      "url": "https://www.theguardian.com/fashion/2026/jun/02/dua-lipa-wedding-bridal-suit-is-back",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Margaret Brennan",
-      "count": 6,
-      "url": "https://www.cbsnews.com/video/open-this-is-face-the-nation-with-margaret-brennan-june-6-2026/",
+      "name": "Don Bacon",
+      "count": 8,
+      "url": "https://www.cbsnews.com/news/don-bacon-nebraska-republican-face-the-nation-transcript-06-07-2026/",
       "source": "CBS News"
     },
     {
-      "name": "David Sullivan",
-      "count": 5,
-      "url": "https://www.theguardian.com/football/2026/jun/06/david-sullivan-how-did-the-pornographer-rise-so-high-in-modern-football",
+      "name": "Steven Spielberg",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/06/07/magazine/steven-spielberg-movie-theater-disclosure-day.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Alexander Zverev",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/jun/07/alexander-zverev-wins-first-grand-slam-after-holding-off-cobolli-in-french-open",
       "source": "The Guardian"
     },
     {
-      "name": "Pope Leo",
-      "count": 5,
-      "url": "https://www.theguardian.com/world/2026/jun/07/million-people-pope-leo-outdoor-mass-madrid",
-      "source": "The Guardian"
+      "name": "Kristen Welker",
+      "count": 7,
+      "url": "https://www.foxnews.com/media/trump-storms-off-meet-press-interview-rips-welker-abc-cbs-cnn-crooked",
+      "source": "Fox News"
     }
   ],
-  "updated": "2026-06-07T14:55:24Z"
+  "updated": "2026-06-07T20:16:49Z"
 };
