@@ -2,53 +2,58 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    71,
-    "https://www.nytimes.com/2026/06/08/world/middleeast/netanyahu-trump-split-iran-lebanon.html"
+    90,
+    "https://www.nytimes.com/2026/06/08/us/politics/justice-department-trump-patel-conspiracy.html"
   ],
   [
     "cup",
-    46,
+    57,
     "https://www.nytimes.com/2026/06/08/world/americas/adidas-mexico-indigenous-women-world-cup.html"
   ],
   [
-    "iran",
-    45,
-    "https://www.nytimes.com/2026/06/08/world/middleeast/israel-iran-strikes-regional-gains.html"
-  ],
-  [
-    "israel",
-    34,
-    "https://www.nytimes.com/2026/06/08/world/middleeast/netanyahu-trump-split-iran-lebanon.html"
-  ],
-  [
     "president",
-    34,
-    "https://www.nytimes.com/2026/06/08/world/middleeast/netanyahu-trump-split-iran-lebanon.html"
-  ],
-  [
-    "california",
-    34,
-    "https://www.nytimes.com/2026/06/06/us/california-slow-vote-count.html"
+    46,
+    "https://www.nytimes.com/2026/06/08/us/politics/justice-department-trump-patel-conspiracy.html"
   ],
   [
     "game",
-    31,
-    "https://www.nytimes.com/2026/06/08/nyregion/trump-mamdani-knicks-msg.html"
+    43,
+    "https://www.nytimes.com/2026/06/08/nyregion/nba-finals-msg-trump-knicks-mamdani-security.html"
   ],
   [
-    "war",
-    28,
-    "https://www.nytimes.com/2026/06/07/us/politics/trump-new-wars-compensation-fund.html"
+    "iran",
+    30,
+    "https://www.nytimes.com/2026/06/08/world/middleeast/israel-netanyahu-iran-trump-lebanon.html"
   ],
   [
     "york",
-    27,
-    "https://www.nytimes.com/2026/06/08/nyregion/trump-mamdani-knicks-msg.html"
+    29,
+    "https://www.theguardian.com/sport/2026/jun/08/jalen-brunson-new-york-knicks-nba-finals"
   ],
   [
-    "race",
-    22,
-    "https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html"
+    "israel",
+    26,
+    "https://www.nytimes.com/2026/06/08/world/middleeast/israel-netanyahu-iran-trump-lebanon.html"
+  ],
+  [
+    "nba",
+    24,
+    "https://www.theguardian.com/sport/2026/jun/08/jalen-brunson-new-york-knicks-nba-finals"
+  ],
+  [
+    "games",
+    24,
+    "https://www.theguardian.com/games/2026/jun/08/summer-game-fest-highlights-new-video-games-resident-evil-silent-hill"
+  ],
+  [
+    "judge",
+    21,
+    "https://www.nytimes.com/2026/06/08/us/politics/judge-visa-skilled-workers-fee-trump.html"
+  ],
+  [
+    "war",
+    21,
+    "https://www.nytimes.com/2026/06/08/world/asia/north-korea-kim-jong-un-pandemic-economy.html"
   ],
   [
     "fire",
@@ -56,209 +61,199 @@
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "because",
-    21,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/08/financial-planner-preparing-parent-death"
-  ],
-  [
-    "games",
-    21,
-    "https://www.theguardian.com/football/2026/jun/08/world-cup-preparations"
-  ],
-  [
-    "family",
-    20,
-    "https://www.nytimes.com/2026/06/08/magazine/childcare-mothers-politics.html"
-  ],
-  [
     "star",
-    20,
-    "https://www.theguardian.com/us-news/live/2026/jun/08/us-politics-latest-news-updates-trump-california-governor-midterm-elections"
-  ],
-  [
-    "watch",
-    20,
+    21,
     "https://www.theguardian.com/sport/2026/jun/08/jalen-brunson-new-york-knicks-nba-finals"
   ],
   [
-    "young",
-    19,
-    "https://www.nytimes.com/2026/06/08/nyregion/knicks-young-fans.html"
+    "finals",
+    21,
+    "https://www.theguardian.com/sport/2026/jun/08/jalen-brunson-new-york-knicks-nba-finals"
   ],
   [
-    "cbs",
+    "watch",
+    21,
+    "https://www.theguardian.com/sport/2026/jun/08/jalen-brunson-new-york-knicks-nba-finals"
+  ],
+  [
+    "family",
+    21,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/08/job-that-changed-me-teaching-in-a-juvenile-detention-centre"
+  ],
+  [
+    "knicks",
+    20,
+    "https://www.nytimes.com/2026/06/08/nyregion/nba-finals-msg-trump-knicks-mamdani-security.html"
+  ],
+  [
+    "senate",
+    20,
+    "https://www.nytimes.com/2026/06/08/us/politics/graham-platner-voters-maine-senate.html"
+  ],
+  [
+    "prime",
+    20,
+    "https://www.theguardian.com/world/2026/jun/08/israel-and-iran-attacks-pause-after-trump-calls-to-stop-shooting"
+  ],
+  [
+    "race",
     19,
-    "https://www.latimes.com/opinion/story/2026-06-06/andy-rooney-might-say-about-downfall-of-60-minutes"
+    "https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html"
+  ],
+  [
+    "california",
+    19,
+    "https://www.nytimes.com/2026/06/08/us/california-elections-trump-slow-why.html"
+  ],
+  [
+    "something",
+    19,
+    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
   ],
   [
     "political",
-    18,
+    19,
     "https://www.washingtonpost.com/obituaries/2026/06/07/robert-coles-pulitzer-winning-psychiatrist-who-shaped-public-policy-dies-97/"
   ],
   [
-    "early",
+    "don",
+    19,
+    "https://www.theguardian.com/thefilter-us/2026/jun/08/best-bluetooth-sleep-masks"
+  ],
+  [
+    "young",
     18,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/06/08/science/ai-scoop-young-mathematicians.html"
   ],
   [
-    "love",
+    "loss",
     18,
-    "https://www.theguardian.com/film/2026/jun/08/blair-witch-project-feelgood-movie"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "final",
-    17,
-    "https://www.washingtonpost.com/business/2026/06/07/wounded-lebanese-journalist-died-rescuers-waited-israels-permission-save-her/"
-  ],
-  [
-    "water",
-    17,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/08/widows-bay-apple-tv-horror-comedy"
+    "team",
+    18,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "book",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/jun/08/uk-us-champion-free-speech-war-palestine"
+    18,
+    "https://www.theguardian.com/us-news/video/2026/jun/08/fighting-amazon-made-chris-smalls-a-celebrity-my-life-changed-stateside-with-kai-and-carter"
   ],
   [
     "night",
     17,
-    "https://www.theguardian.com/us-news/2026/jun/08/stabbing-new-york-penn-station"
+    "https://www.nytimes.com/2026/06/08/nyregion/nba-finals-msg-trump-knicks-mamdani-security.html"
   ],
   [
-    "win",
+    "administration",
     17,
-    "https://www.theguardian.com/us-news/2026/jun/08/chicago-broadview-six-trump-administration"
+    "https://www.nytimes.com/2026/06/08/us/politics/judge-visa-skilled-workers-fee-trump.html"
   ],
   [
-    "knicks",
-    16,
-    "https://www.nytimes.com/2026/06/08/nyregion/trump-mamdani-knicks-msg.html"
+    "early",
+    17,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "team",
+    "won",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/jun/08/republicans-trump-iran-war-powers-resolution"
+  ],
+  [
+    "video",
+    17,
+    "https://www.theguardian.com/games/2026/jun/08/summer-game-fest-highlights-new-video-games-resident-evil-silent-hill"
+  ],
+  [
+    "south",
+    17,
+    "https://www.theguardian.com/football/2026/jun/08/fifa-vice-president-victor-montagliani-world-cup"
+  ],
+  [
+    "mayor",
     16,
-    "https://www.nytimes.com/2026/06/08/nyregion/knicks-young-fans.html"
+    "https://www.nytimes.com/2026/06/08/nyregion/nba-finals-msg-trump-knicks-mamdani-security.html"
+  ],
+  [
+    "fans",
+    16,
+    "https://www.theguardian.com/sport/2026/jun/08/jalen-brunson-new-york-knicks-nba-finals"
+  ],
+  [
+    "play",
+    16,
+    "https://www.theguardian.com/football/2026/jun/08/fifa-vice-president-victor-montagliani-world-cup"
+  ],
+  [
+    "because",
+    16,
+    "https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art"
+  ],
+  [
+    "security",
+    15,
+    "https://www.nytimes.com/2026/06/08/nyregion/nba-finals-msg-trump-knicks-mamdani-security.html"
   ],
   [
     "democrats",
-    16,
+    15,
     "https://www.nytimes.com/2026/06/08/us/politics/graham-platner-voters-maine-senate.html"
   ],
   [
     "north",
-    16,
+    15,
     "https://www.nytimes.com/2026/06/08/world/asia/north-korea-kim-jong-un-pandemic-economy.html"
   ],
   [
-    "don",
-    16,
-    "https://www.nytimes.com/2026/06/08/well/eat/peas-health-benefits-recipes.html"
-  ],
-  [
-    "won",
-    16,
-    "https://www.theguardian.com/film/2026/jun/08/sean-penn-no-selfies-award-shows-one-battle-after-another-oscars"
-  ],
-  [
-    "food",
-    16,
-    "https://www.theguardian.com/environment/2026/jun/08/call-phase-out-inhumane-guga-hunt-working-hebridean-islanders"
-  ],
-  [
-    "attack",
+    "country",
     15,
-    "https://www.nytimes.com/2026/06/08/world/middleeast/israel-iran-strikes-regional-gains.html"
-  ],
-  [
-    "finals",
-    15,
-    "https://www.nytimes.com/2026/06/08/nyregion/trump-mamdani-knicks-msg.html"
-  ],
-  [
-    "fans",
-    15,
-    "https://www.nytimes.com/2026/06/08/nyregion/knicks-young-fans.html"
-  ],
-  [
-    "social",
-    15,
-    "https://www.washingtonpost.com/obituaries/2026/06/07/robert-coles-pulitzer-winning-psychiatrist-who-shaped-public-policy-dies-97/"
-  ],
-  [
-    "loss",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "little",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/08/widows-bay-apple-tv-horror-comedy"
-  ],
-  [
-    "nba",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/08/stabbing-new-york-penn-station"
-  ],
-  [
-    "fewer",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/07/jigsaw-puzzles-piecework-grandma-hobbies"
-  ],
-  [
-    "dog",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/05/best-dog-harness"
-  ],
-  [
-    "prime",
-    14,
-    "https://www.nytimes.com/2026/06/08/world/middleeast/netanyahu-trump-split-iran-lebanon.html"
-  ],
-  [
-    "awards",
-    14,
-    "https://www.nytimes.com/2026/06/08/theater/best-worst-tony-awards.html"
-  ],
-  [
-    "senate",
-    14,
-    "https://www.nytimes.com/2026/06/08/us/maine-governor-platner-nirav-shah.html"
-  ],
-  [
-    "questions",
-    14,
-    "https://www.nytimes.com/2026/06/08/business/ai-medicine-doctors.html"
-  ],
-  [
-    "democratic",
-    14,
-    "https://www.nytimes.com/2026/06/08/opinion/jon-ossoff-president.html"
+    "https://www.nytimes.com/2026/06/08/world/asia/north-korea-kim-jong-un-pandemic-economy.html"
   ],
   [
     "party",
-    14,
+    15,
     "https://www.nytimes.com/2026/06/08/opinion/jon-ossoff-president.html"
   ],
   [
-    "became",
-    14,
-    "https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art"
+    "ahead",
+    15,
+    "https://www.washingtonpost.com/nation/2026/06/07/over-shared-meals-philadelphians-write-recipe-citizenship/"
   ],
   [
-    "penn",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/08/stabbing-new-york-penn-station"
+    "food",
+    15,
+    "https://www.theguardian.com/books/2026/jun/07/should-we-ditch-the-idea-of-three-meals-a-day"
   ],
   [
-    "today",
+    "states",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/08/savannah-guthrie-emotional-plea-missing-mother"
+    "https://www.nytimes.com/2026/06/08/world/africa/trump-deportation-us-judge-congo-colombia.html"
   ],
   [
-    "south",
+    "ice",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/08/white-south-african-refugees-driving-rules"
+    "https://www.nytimes.com/2026/06/08/style/tony-awards-after-parties.html"
+  ],
+  [
+    "final",
+    14,
+    "https://www.washingtonpost.com/business/2026/06/07/wounded-lebanese-journalist-died-rescuers-waited-israels-permission-save-her/"
+  ],
+  [
+    "global",
+    14,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "having",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/08/what-trump-actually-said-no-war-promise"
+  ],
+  [
+    "words",
+    14,
+    "https://www.theguardian.com/sport/2026/jun/08/jalen-brunson-new-york-knicks-nba-finals"
   ],
   [
     "outside",
@@ -266,9 +261,44 @@
     "https://www.theguardian.com/sport/2026/jun/08/jalen-brunson-new-york-knicks-nba-finals"
   ],
   [
-    "israeli",
-    13,
-    "https://www.nytimes.com/2026/06/08/world/middleeast/netanyahu-trump-split-iran-lebanon.html"
+    "los",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/08/la-mayoral-race-california-elections-vote-counting-continues"
+  ],
+  [
+    "angeles",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/08/la-mayoral-race-california-elections-vote-counting-continues"
+  ],
+  [
+    "health",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/08/screwworm-cases"
+  ],
+  [
+    "fewer",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/jun/08/best-bluetooth-sleep-masks"
+  ],
+  [
+    "became",
+    14,
+    "https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art"
+  ],
+  [
+    "win",
+    14,
+    "https://www.theguardian.com/football/2026/jun/08/england-harry-kane-world-cup-ballon-dor-bayern-munich"
+  ],
+  [
+    "love",
+    14,
+    "https://www.theguardian.com/film/2026/jun/08/blair-witch-project-feelgood-movie"
+  ],
+  [
+    "cbs",
+    14,
+    "https://www.latimes.com/opinion/story/2026-06-06/andy-rooney-might-say-about-downfall-of-60-minutes"
   ],
   [
     "place",
@@ -276,103 +306,73 @@
     "https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html"
   ],
   [
-    "china",
+    "apple",
     13,
-    "https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html"
+    "https://www.nytimes.com/2026/06/08/technology/apple-ai-siri.html"
   ],
   [
-    "american",
+    "john",
     13,
-    "https://www.nytimes.com/2026/06/08/magazine/childcare-mothers-politics.html"
+    "https://www.theguardian.com/sport/2026/jun/08/jalen-brunson-new-york-knicks-nba-finals"
   ],
   [
-    "mexico",
+    "summer",
     13,
-    "https://www.nytimes.com/2026/06/08/world/americas/adidas-mexico-indigenous-women-world-cup.html"
+    "https://www.theguardian.com/games/2026/jun/08/summer-game-fest-highlights-new-video-games-resident-evil-silent-hill"
   ],
   [
-    "middle",
+    "training",
     13,
-    "https://www.nytimes.com/2026/06/08/opinion/middle-class-liberals-economics.html"
+    "https://www.theguardian.com/football/2026/jun/08/scotland-in-world-cup-war-of-words-with-norway-over-cancelled-training-match"
   ],
   [
-    "global",
+    "little",
     13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/sport/2026/jun/08/kimi-antonellis-monaco-triumph-rattles-f1-rivals-toto-wolff-mercedes-lewis-hamilton"
   ],
   [
-    "least",
+    "body",
     13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.theguardian.com/commentisfree/2026/jun/08/someone-lying-courts-jurors-truth-body-language"
   ],
   [
-    "latest",
+    "board",
     13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/commentisfree/2026/jun/08/someone-lying-courts-jurors-truth-body-language"
   ],
   [
-    "having",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/08/illinois-hospital-ectopic-pregnancy"
+    "awards",
+    12,
+    "https://www.nytimes.com/2026/06/08/theater/best-worst-tony-awards.html"
   ],
   [
-    "care",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/08/illinois-hospital-ectopic-pregnancy"
-  ],
-  [
-    "something",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/08/widows-bay-apple-tv-horror-comedy"
-  ],
-  [
-    "event",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jun/08/uk-us-champion-free-speech-war-palestine"
-  ],
-  [
-    "media",
-    13,
-    "https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu"
-  ],
-  [
-    "police",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/08/stabbing-new-york-penn-station"
-  ],
-  [
-    "video",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/08/tennessee-truck-fireworks-explosion"
-  ],
-  [
-    "los",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/08/la-palisades-fire-trial"
-  ],
-  [
-    "angeles",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/08/la-palisades-fire-trial"
-  ],
-  [
-    "play",
-    13,
-    "https://www.theguardian.com/culture/2026/jun/08/how-we-made-strictly-ballroom-baz-luhrmann-tara-morice-paul-mercurio"
-  ],
-  [
-    "guide",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/07/jigsaw-puzzles-piecework-grandma-hobbies"
-  ],
-  [
-    "raman",
+    "pratt",
     12,
     "https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html"
   ],
   [
-    "industry",
+    "british",
+    12,
+    "https://www.nytimes.com/2026/06/08/world/europe/vance-uk-stabbing-migrants.html"
+  ],
+  [
+    "questions",
+    12,
+    "https://www.washingtonpost.com/obituaries/2026/06/08/obituary-gordon-s-wood-eminent-historian-american-revolution/"
+  ],
+  [
+    "released",
     12,
     "https://www.washingtonpost.com/investigations/2026/06/08/this-agent-sent-models-meet-jeffrey-epstein-now-hes-trying-explain-why/"
+  ],
+  [
+    "hours",
+    12,
+    "https://www.washingtonpost.com/business/2026/06/07/wounded-lebanese-journalist-died-rescuers-waited-israels-permission-save-her/"
+  ],
+  [
+    "election",
+    12,
+    "https://www.theguardian.com/us-news/2026/jun/08/la-mayoral-race-california-elections-vote-counting-continues"
   ]
 ];
