@@ -2,46 +2,46 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Oppose Trump",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/06/08/world/europe/pope-leo-sanchez-trump.html",
-      "source": "NY Times"
+      "name": "Donald Trump",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/jun/07/trump-walks-out-meet-the-press-nbc-interview",
+      "source": "The Guardian"
     },
     {
       "name": "Overtakes Spencer Pratt",
-      "count": 11,
+      "count": 14,
       "url": "https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html",
       "source": "NY Times"
     },
     {
       "name": "Nithya Raman",
-      "count": 10,
+      "count": 13,
       "url": "https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/jun/08/israel-netanyahu-airstrikes-iran-retaliation-defies-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ro Khanna",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/06/07/us/politics/platner-democrats-congress-reaction.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Tony Award Winners",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/06/07/theater/tony-award-winners-2026-the-updating-list.html",
       "source": "NY Times"
     },
     {
       "name": "Karen Bass",
-      "count": 8,
+      "count": 9,
       "url": "https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Graham Platner Continue",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/06/08/us/politics/graham-platner-voters-maine-senate.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "count": 9,
+      "url": "https://www.theguardian.com/football/video/2026/jun/06/zohran-mamdani-the-guardian-bracketology-predict-world-cup-winner-video",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Margaret Brennan",
+      "count": 9,
+      "url": "https://www.cbsnews.com/face-the-nation/transcripts/",
+      "source": "CBS News"
     },
     {
       "name": "Bob Packwood",
@@ -56,42 +56,30 @@
       "source": "The Guardian"
     },
     {
-      "name": "Scott Pelley",
+      "name": "Xi Jinping Heads",
       "count": 7,
-      "url": "https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html",
+      "url": "https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html",
       "source": "NY Times"
     }
   ],
   "ORG": [
     {
       "name": "Trump Defends Compensation Fund",
-      "count": 60,
+      "count": 46,
       "url": "https://www.nytimes.com/2026/06/07/us/politics/trump-new-wars-compensation-fund.html",
       "source": "NY Times"
     },
     {
-      "name": "Guardian News",
-      "count": 16,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "name": "Ai",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water",
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
-      "count": 14,
-      "url": "https://www.npr.org/2026/06/07/g-s1-126826/trump-iran-wars-campaign-message",
-      "source": "NPR"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 13,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "name": "The New York Knicks",
+      "count": 12,
+      "url": "https://www.theguardian.com/sport/2026/jun/07/trump-knicks-spurs-nba-finals-game-3-security",
       "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html",
-      "source": "NY Times"
     },
     {
       "name": "Maine Senate",
@@ -100,47 +88,59 @@
       "source": "The Guardian"
     },
     {
-      "name": "Nba Finals",
-      "count": 8,
-      "url": "https://www.foxnews.com/sports/josh-hart-calls-finals-ticket-prices-madison-square-garden-ridiculous-fans-priced-game-3",
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian News",
+      "count": 9,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "House Oversight Committee",
+      "count": 9,
+      "url": "https://www.foxnews.com/politics/walz-administration-ignored-fraud-warnings-billions-vanished-house-oversight-report-alleges",
       "source": "Fox News"
     },
     {
-      "name": "Ufc Freedom 250",
-      "count": 7,
-      "url": "https://www.foxnews.com/sports/federal-lawsuit-seeks-block-ufc-freedom-250-held-white-house-south-lawn",
-      "source": "Fox News"
+      "name": "Nbc News'",
+      "count": 9,
+      "url": "https://www.nbcnews.com/now/video/israel-strikes-iranian-military-targets-hours-after-tehran-launched-its-own-attacks-264711749768",
+      "source": "NBC News"
     },
     {
-      "name": "Nbc News’S",
-      "count": 7,
-      "url": "https://thehill.com/homenews/administration/5913962-trump-nbc-iran-california-election-interview/",
-      "source": "The Hill"
+      "name": "Gop",
+      "count": 9,
+      "url": "https://www.politico.com/news/2026/06/07/the-young-women-who-could-make-or-break-maga-00953007",
+      "source": "Politico"
     },
     {
-      "name": "Hezbollah",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-      "source": "NY Times"
+      "name": "Nba Finals Game",
+      "count": 7,
+      "url": "https://www.nbcnews.com/sports/nba/knicks-watch-party-msg-canceled-trumps-attendance-rcna348885",
+      "source": "NBC News"
     }
   ],
   "EVENT": [
     {
       "name": "World Cup Experts’ Network",
-      "count": 14,
-      "url": "https://www.theguardian.com/football/2026/jun/07/norway-world-cup-2026-team-guide",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Game 3",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/jun/07/victor-wembanyama-nba-finals-spurs-knicks-game-3",
+      "count": 22,
+      "url": "https://www.theguardian.com/football/2026/jun/08/argentina-world-cup-2026-team-guide",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/football/2026/jun/07/world-cup-emotions-tickets-trump-magic",
+      "count": 6,
+      "url": "https://www.theguardian.com/football/video/2026/jun/08/how-to-win-the-world-cup-video-explainer",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The 2026 World Cup",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/live/2026/jun/08/world-cup-2026-countdown-news-england-iran-usa-mexico-canada-football-live",
       "source": "The Guardian"
     },
     {
@@ -150,27 +150,15 @@
       "source": "NBC News"
     },
     {
-      "name": "Holocaust",
-      "count": 2,
-      "url": "https://www.theguardian.com/world/2026/jun/08/book-of-yiddish-jewish-songs-holocaust-translated-revived-sydney-ntwnfb",
+      "name": "Dramatic French Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jun/08/dramatic-french-open-2026-tennis-lack-of-challengers-zverev",
       "source": "The Guardian"
     },
     {
       "name": "The French Open",
-      "count": 2,
-      "url": "https://www.npr.org/2026/06/07/g-s1-126803/french-open-2026-alexander-zverev-grand-slam-title",
-      "source": "NPR"
-    },
-    {
-      "name": "The Industrial Revolution",
       "count": 1,
-      "url": "https://www.theguardian.com/books/2026/jun/07/should-we-ditch-the-idea-of-three-meals-a-day",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Olympic",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/jun/07/alexander-zverev-wins-first-grand-slam-after-holding-off-cobolli-in-french-open",
+      "url": "https://www.theguardian.com/sport/2026/jun/08/dramatic-french-open-2026-tennis-lack-of-challengers-zverev",
       "source": "The Guardian"
     },
     {
@@ -180,73 +168,85 @@
       "source": "The Guardian"
     },
     {
-      "name": "First World Cup",
+      "name": "World Cup 2026",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jun/07/tuchel-relishes-rashford-v-gordon-in-search-for-round-pegs-in-round-holes",
+      "url": "https://www.theguardian.com/football/live/2026/jun/08/world-cup-2026-countdown-news-england-iran-usa-mexico-canada-football-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Game 3",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jun/07/trump-knicks-spurs-nba-finals-game-3-security",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Game 2",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jun/07/trump-knicks-spurs-nba-finals-game-3-security",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
+      "name": "Israel",
+      "count": 39,
+      "url": "https://www.nytimes.com/2026/06/08/world/middleeast/israel-netanyahu-iran-trump-lebanon.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Iran",
-      "count": 38,
-      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
+      "count": 39,
+      "url": "https://www.nytimes.com/2026/06/08/world/middleeast/israel-netanyahu-iran-trump-lebanon.html",
       "source": "NY Times"
     },
     {
       "name": "Us",
-      "count": 37,
-      "url": "https://www.theguardian.com/world/2026/jun/08/israel-netanyahu-airstrikes-iran-retaliation-defies-trump",
+      "count": 34,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/08/uk-us-champion-free-speech-war-palestine",
       "source": "The Guardian"
     },
     {
-      "name": "Israel",
-      "count": 34,
-      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-      "source": "NY Times"
-    },
-    {
       "name": "California",
-      "count": 24,
+      "count": 21,
       "url": "https://www.theguardian.com/us-news/2026/jun/07/trump-walks-out-meet-the-press-nbc-interview",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-      "source": "NY Times"
+      "count": 17,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Uk",
+      "count": 14,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/08/uk-us-champion-free-speech-war-palestine",
+      "source": "The Guardian"
     },
     {
       "name": "L.A. County",
-      "count": 16,
+      "count": 14,
       "url": "https://www.latimes.com/california/story/2026-06-06/do-you-live-near-hazardous-industrial-site-in-la-county-how-to-find-out",
       "source": "LA Times"
     },
     {
-      "name": "Hollywood Hills",
-      "count": 14,
-      "url": "https://www.latimes.com/california/story/2026-06-07/hollywood-hills-hiker-dies-following-rescue-attempt",
-      "source": "LA Times"
-    },
-    {
       "name": "New York City’S",
-      "count": 13,
+      "count": 14,
       "url": "https://www.nbcnews.com/news/us-news/stabbing-penn-station-new-york-rcna348909",
       "source": "NBC News"
     },
     {
-      "name": "London",
+      "name": "Texas",
       "count": 11,
-      "url": "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/06/08/podcasts/the-headlines/iran-israel-exchange-first-strikes-since-cease-fire-texas-ranchers-screwworm.html",
+      "source": "NY Times"
     },
     {
-      "name": "China",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html",
-      "source": "NY Times"
+      "name": "Los Angeles County",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-06-06/do-you-live-near-hazardous-industrial-site-in-la-county-how-to-find-out",
+      "source": "LA Times"
     }
   ],
-  "updated": "2026-06-08T05:55:49Z"
+  "updated": "2026-06-08T12:01:58Z"
 };
