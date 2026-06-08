@@ -2,168 +2,203 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    97,
-    "https://www.nytimes.com/2026/06/07/us/politics/lawsuit-ufc-fight-white-house.html"
+    93,
+    "https://www.nytimes.com/2026/06/07/us/politics/trump-new-wars-compensation-fund.html"
+  ],
+  [
+    "iran",
+    42,
+    "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html"
   ],
   [
     "president",
     42,
-    "https://www.nytimes.com/2026/06/07/nyregion/knicks-watch-party-msg-canceled-trump.html"
+    "https://www.nytimes.com/2026/06/07/us/politics/trump-new-wars-compensation-fund.html"
   ],
   [
-    "cup",
-    42,
-    "https://www.nytimes.com/2026/06/07/us/seattle-street-preachers-world-cup.html"
-  ],
-  [
-    "california",
-    36,
-    "https://www.theguardian.com/us-news/2026/jun/06/how-xavier-becerra-turned-campaign-california-governor"
-  ],
-  [
-    "iran",
-    29,
+    "israel",
+    33,
     "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html"
   ],
   [
-    "interview",
-    29,
-    "https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html"
-  ],
-  [
-    "family",
-    26,
-    "https://www.theguardian.com/film/ng-interactive/2026/jun/07/writers-choose-favourite-steven-spielberg-films-jaws-close-encounters-raiders-lost-ark"
-  ],
-  [
-    "nation",
-    26,
-    "https://www.theguardian.com/books/2026/jun/07/should-we-ditch-the-idea-of-three-meals-a-day"
-  ],
-  [
-    "cbs",
-    25,
-    "https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html"
-  ],
-  [
-    "fans",
-    25,
-    "https://www.nytimes.com/2026/06/07/us/seattle-street-preachers-world-cup.html"
-  ],
-  [
     "war",
-    25,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    33,
+    "https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html"
   ],
   [
-    "york",
-    24,
-    "https://www.nytimes.com/2026/06/07/arts/television/scott-pelley-60-minutes-interview-takeaways.html"
+    "cup",
+    28,
+    "https://www.theguardian.com/football/2026/jun/07/usmnt-religion-christian-pulisic-world-cup-2026"
+  ],
+  [
+    "california",
+    27,
+    "https://www.theguardian.com/us-news/2026/jun/07/trump-walks-out-meet-the-press-nbc-interview"
+  ],
+  [
+    "race",
+    25,
+    "https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html"
   ],
   [
     "game",
-    24,
+    25,
     "https://www.nytimes.com/2026/06/07/nyregion/knicks-watch-party-msg-canceled-trump.html"
   ],
   [
-    "don",
+    "york",
     23,
-    "https://www.theguardian.com/thefilter-us/2026/jun/07/outdoor-gear-brands-that-repair-products"
+    "https://www.nytimes.com/2026/06/07/theater/tony-award-winners-2026-the-updating-list.html"
+  ],
+  [
+    "police",
+    22,
+    "https://www.theguardian.com/us-news/2026/jun/07/ohio-toledo-shooting-festival"
+  ],
+  [
+    "star",
+    22,
+    "https://www.theguardian.com/stage/2026/jun/08/tony-awards-2026-death-of-a-salesman-lesley-manville-john-lithgow-win"
+  ],
+  [
+    "tony",
+    21,
+    "https://www.nytimes.com/2026/06/07/theater/our-favorite-photos-from-the-tony-awards-red-carpet.html"
+  ],
+  [
+    "awards",
+    21,
+    "https://www.nytimes.com/2026/06/07/theater/our-favorite-photos-from-the-tony-awards-red-carpet.html"
   ],
   [
     "night",
-    23,
-    "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london"
-  ],
-  [
-    "margaret",
-    22,
-    "https://www.cbsnews.com/news/don-bacon-nebraska-republican-face-the-nation-transcript-06-07-2026/"
-  ],
-  [
-    "food",
     21,
-    "https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html"
+    "https://www.nytimes.com/2026/06/07/theater/our-favorite-photos-from-the-tony-awards-red-carpet.html"
   ],
   [
-    "team",
+    "party",
     21,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/06/07/nyregion/knicks-watch-party-msg-canceled-trump.html"
   ],
   [
-    "election",
-    21,
-    "https://www.theguardian.com/us-news/2026/jun/06/how-xavier-becerra-turned-campaign-california-governor"
+    "play",
+    20,
+    "https://www.theguardian.com/stage/2026/jun/08/tony-awards-2026-death-of-a-salesman-lesley-manville-john-lithgow-win"
   ],
   [
-    "brennan",
-    21,
-    "https://www.cbsnews.com/news/don-bacon-nebraska-republican-face-the-nation-transcript-06-07-2026/"
+    "family",
+    20,
+    "https://www.theguardian.com/us-news/2026/jun/07/bob-packwood-senator-dies"
+  ],
+  [
+    "raman",
+    19,
+    "https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html"
   ],
   [
     "democrats",
-    20,
+    19,
     "https://www.nytimes.com/2026/06/07/us/politics/platner-democrats-congress-reaction.html"
   ],
   [
-    "games",
-    20,
-    "https://www.theguardian.com/football/2026/jun/07/iran-players-us-visa-delays-world-cup-2026-mexico"
+    "food",
+    19,
+    "https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html"
   ],
   [
-    "film",
+    "interview",
     19,
-    "https://www.theguardian.com/film/ng-interactive/2026/jun/07/writers-choose-favourite-steven-spielberg-films-jaws-close-encounters-raiders-lost-ark"
+    "https://www.nytimes.com/2026/06/07/us/politics/trump-new-wars-compensation-fund.html"
+  ],
+  [
+    "event",
+    19,
+    "https://www.nytimes.com/2026/06/07/us/politics/lawsuit-ufc-fight-white-house.html"
+  ],
+  [
+    "cbs",
+    19,
+    "https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html"
+  ],
+  [
+    "games",
+    19,
+    "https://www.theguardian.com/football/2026/jun/07/iran-players-us-visa-delays-world-cup-2026-mexico"
   ],
   [
     "political",
     18,
-    "https://www.nytimes.com/2026/06/07/us/politics/hegseth-europe-migration-d-day.html"
+    "https://www.washingtonpost.com/obituaries/2026/06/07/robert-coles-pulitzer-winning-psychiatrist-who-shaped-public-policy-dies-97/"
   ],
   [
-    "star",
+    "death",
     18,
-    "https://www.theguardian.com/film/ng-interactive/2026/jun/07/writers-choose-favourite-steven-spielberg-films-jaws-close-encounters-raiders-lost-ark"
+    "https://www.theguardian.com/stage/gallery/2026/jun/08/tony-awards-2026-red-carpet-in-pictures"
   ],
   [
-    "black",
+    "place",
     17,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/07/democrats-voters-rural-america"
+    "https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html"
   ],
   [
-    "weekly",
+    "watch",
     17,
-    "https://www.theguardian.com/thefilter-us/2026/jun/07/outdoor-gear-brands-that-repair-products"
-  ],
-  [
-    "guide",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/jun/07/outdoor-gear-brands-that-repair-products"
+    "https://www.nytimes.com/2026/06/07/nyregion/knicks-watch-party-msg-canceled-trump.html"
   ],
   [
     "series",
     17,
-    "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london"
+    "https://www.nytimes.com/2026/06/07/us/robert-coles-dead.html"
   ],
   [
-    "rep",
+    "early",
     17,
-    "https://www.cbsnews.com/news/don-bacon-nebraska-republican-face-the-nation-transcript-06-07-2026/"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "party",
+    "don",
+    17,
+    "https://www.theguardian.com/business/2026/jun/07/credit-cards-arent-evil-use-them-right-way"
+  ],
+  [
+    "film",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/07/texas-murder-case-taylor-parker"
+  ],
+  [
+    "north",
+    16,
+    "https://www.nytimes.com/2026/06/08/world/asia/north-korea-kim-jong-un-pandemic-economy.html"
+  ],
+  [
+    "country",
+    16,
+    "https://www.nytimes.com/2026/06/08/world/asia/north-korea-kim-jong-un-pandemic-economy.html"
+  ],
+  [
+    "security",
     16,
     "https://www.nytimes.com/2026/06/07/nyregion/knicks-watch-party-msg-canceled-trump.html"
   ],
   [
     "final",
     16,
-    "https://www.nytimes.com/2026/06/07/business/caastle-fraud-christine-hunsicker.html"
+    "https://www.washingtonpost.com/business/2026/06/07/wounded-lebanese-journalist-died-rescuers-waited-israels-permission-save-her/"
   ],
   [
-    "country",
+    "attack",
     16,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "because",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/08/julie-newmar-92-catwoman-caring-for-her-son"
+  ],
+  [
+    "guide",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/jun/07/outdoor-gear-brands-that-repair-products"
   ],
   [
     "fewer",
@@ -171,84 +206,74 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/07/outdoor-gear-brands-that-repair-products"
   ],
   [
-    "donald",
+    "black",
     16,
-    "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/07/democrats-voters-rural-america"
   ],
   [
-    "near",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/07/ohio-toledo-shooting-festival"
-  ],
-  [
-    "israel",
+    "strikes",
     15,
-    "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html"
+    "https://www.nytimes.com/2026/06/07/business/oil-gas-stocks-iran.html"
   ],
   [
-    "died",
+    "pratt",
     15,
-    "https://www.washingtonpost.com/business/2026/06/07/wounded-lebanese-journalist-died-rescuers-waited-israels-permission-save-her/"
+    "https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html"
   ],
   [
-    "children",
+    "music",
     15,
-    "https://www.theguardian.com/commentisfree/2026/jun/07/black-women-murders-domestic-violence-crisis"
-  ],
-  [
-    "press",
-    15,
-    "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates"
-  ],
-  [
-    "police",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/07/ohio-toledo-shooting-festival"
-  ],
-  [
-    "late",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/06/how-xavier-becerra-turned-campaign-california-governor"
-  ],
-  [
-    "grand",
-    15,
-    "https://www.theguardian.com/sport/2026/jun/07/alexander-zverev-wins-first-grand-slam-after-holding-off-cobolli-in-french-open"
-  ],
-  [
-    "director",
-    15,
-    "https://www.theguardian.com/football/2026/jun/07/nwsl-columbus-expansion-public-funding-park-dispute-fans"
+    "https://www.nytimes.com/2026/06/07/theater/tony-award-winners-2026-the-updating-list.html"
   ],
   [
     "minutes",
-    14,
+    15,
     "https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html"
   ],
   [
-    "little",
-    14,
-    "https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html"
+    "young",
+    15,
+    "https://www.nytimes.com/2026/06/07/nyregion/housing-costs-young-people-nyc.html"
   ],
   [
-    "knicks",
-    14,
-    "https://www.nytimes.com/2026/06/07/nyregion/knicks-watch-party-msg-canceled-trump.html"
+    "latest",
+    15,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "watch",
-    14,
-    "https://www.nytimes.com/2026/06/07/nyregion/knicks-watch-party-msg-canceled-trump.html"
+    "team",
+    15,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "american",
-    14,
-    "https://www.nytimes.com/2026/06/07/opinion/iran-us-war-military-washington.html"
+    "park",
+    15,
+    "https://www.theguardian.com/artanddesign/2026/jun/08/i-make-casts-of-their-feet-rachel-whiteread-michael-armitage-and-more-on-how-they-get-their-kids-into-art"
   ],
   [
-    "attack",
+    "love",
+    15,
+    "https://www.theguardian.com/artanddesign/2026/jun/08/i-make-casts-of-their-feet-rachel-whiteread-michael-armitage-and-more-on-how-they-get-their-kids-into-art"
+  ],
+  [
+    "dog",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/08/mobile-phone-addiction-scrolling-losing-memory-concentration"
+  ],
+  [
+    "again",
     14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/06/07/us/politics/trump-new-wars-compensation-fund.html"
+  ],
+  [
+    "hollywood",
+    14,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "win",
+    14,
+    "https://www.theguardian.com/stage/gallery/2026/jun/08/tony-awards-2026-red-carpet-in-pictures"
   ],
   [
     "filter",
@@ -256,69 +281,54 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/07/outdoor-gear-brands-that-repair-products"
   ],
   [
-    "buying",
+    "weekly",
     14,
     "https://www.theguardian.com/thefilter-us/2026/jun/07/outdoor-gear-brands-that-repair-products"
   ],
   [
-    "love",
+    "director",
     14,
-    "https://www.theguardian.com/film/ng-interactive/2026/jun/07/writers-choose-favourite-steven-spielberg-films-jaws-close-encounters-raiders-lost-ark"
-  ],
-  [
-    "having",
-    14,
-    "https://www.theguardian.com/football/2026/jun/07/north-americas-wide-and-wild-world-cup-will-be-an-experience-like-no-other"
-  ],
-  [
-    "fuel",
-    14,
-    "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london"
-  ],
-  [
-    "anti",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/06/california-slow-vote-count"
-  ],
-  [
-    "play",
-    14,
-    "https://www.theguardian.com/music/2026/jun/07/the-beatles-unseen-photographs-chaotic-controversial-final-tour-jim-marshall"
+    "https://www.theguardian.com/stage/2026/jun/08/tony-awards-2026-death-of-a-salesman-lesley-manville-john-lithgow-win"
   ],
   [
     "senate",
     14,
-    "https://www.foxnews.com/media/maher-warns-democrats-have-another-sex-creep-problem-platner-citing-misconduct-allegations"
+    "https://www.theguardian.com/us-news/2026/jun/07/graham-platner-maine-senate-candidate-ro-khanna"
   ],
   [
-    "event",
+    "video",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jun/08/mobile-phone-addiction-scrolling-losing-memory-concentration"
+  ],
+  [
+    "iranian",
+    14,
+    "https://www.cbsnews.com/video/trump-says-he-told-israel-not-to-retaliate-for-iranian-strike/"
+  ],
+  [
+    "nithya",
     13,
-    "https://www.nytimes.com/2026/06/07/us/politics/lawsuit-ufc-fight-white-house.html"
+    "https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html"
   ],
   [
-    "khanna",
+    "platner",
     13,
     "https://www.nytimes.com/2026/06/07/us/politics/platner-democrats-congress-reaction.html"
   ],
   [
-    "history",
+    "meet",
     13,
-    "https://www.nytimes.com/2026/06/07/theater/june-squibb-tony-awards.html"
+    "https://www.nytimes.com/2026/06/07/us/politics/trump-new-wars-compensation-fund.html"
   ],
   [
-    "mexico",
+    "press",
     13,
-    "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html"
+    "https://www.nytimes.com/2026/06/07/us/politics/trump-new-wars-compensation-fund.html"
   ],
   [
-    "place",
+    "american",
     13,
-    "https://www.nytimes.com/2026/06/07/magazine/steven-spielberg-movie-theater-disclosure-day.html"
-  ],
-  [
-    "immigration",
-    13,
-    "https://www.washingtonpost.com/nation/2026/06/07/over-shared-meals-philadelphians-write-recipe-citizenship/"
+    "https://www.nytimes.com/2026/06/07/style/bruce-springsteen-talks-about-his-place-in-american-music.html"
   ],
   [
     "something",
@@ -331,48 +341,38 @@
     "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
   ],
   [
-    "released",
+    "air",
     13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "voters",
+    "near",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/07/democrats-voters-rural-america"
+    "https://www.theguardian.com/us-news/2026/jun/07/ohio-toledo-shooting-festival"
   ],
   [
-    "meet",
+    "san",
     13,
-    "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates"
+    "https://www.theguardian.com/world/2026/jun/08/filipino-workers-us-trump-immigration-rules"
   ],
   [
-    "because",
+    "finals",
     13,
-    "https://www.theguardian.com/media/2026/jun/07/scott-pelley-bari-weiss-renee-good-report"
+    "https://www.theguardian.com/sport/2026/jun/07/alexander-zverev-wins-first-grand-slam-after-holding-off-cobolli-in-french-open"
   ],
   [
-    "death",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/07/bob-packwood-senator-dies"
+    "little",
+    12,
+    "https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html"
   ],
   [
-    "texas",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/07/texas-murder-case-taylor-parker"
+    "nbc",
+    12,
+    "https://www.nytimes.com/2026/06/07/us/politics/trump-new-wars-compensation-fund.html"
   ],
   [
-    "recent",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/07/trump-america-birthday-us-monuments"
-  ],
-  [
-    "park",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/06/park-ranger-dies-alaska-mount-mckinley"
-  ],
-  [
-    "book",
-    13,
-    "https://www.theguardian.com/books/2026/jun/07/should-we-ditch-the-idea-of-three-meals-a-day"
+    "allies",
+    12,
+    "https://www.nytimes.com/2026/06/07/us/politics/lawsuit-ufc-fight-white-house.html"
   ]
 ];
