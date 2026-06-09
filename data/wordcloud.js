@@ -2,198 +2,128 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    115,
-    "https://www.nytimes.com/2026/06/08/us/politics/trump-iran-war-middle-east.html"
+    70,
+    "https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html"
   ],
   [
     "cup",
-    72,
+    55,
     "https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html"
   ],
   [
     "president",
-    66,
-    "https://www.nytimes.com/2026/06/08/us/politics/trump-iran-war-middle-east.html"
+    44,
+    "https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html"
   ],
   [
     "game",
-    61,
+    44,
     "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
   ],
   [
     "iran",
-    34,
+    28,
     "https://www.nytimes.com/2026/06/09/world/middleeast/us-iran-talks-war.html"
   ],
   [
-    "war",
-    29,
-    "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html"
+    "team",
+    28,
+    "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
+  ],
+  [
+    "family",
+    26,
+    "https://www.theguardian.com/us-news/live/2026/jun/09/donald-trump-nithya-raman-los-angeles-la-spencer-pratt-mayor-politics-latest-news-updates"
   ],
   [
     "knicks",
-    29,
+    25,
     "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
   ],
   [
     "california",
-    28,
+    24,
     "https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html"
   ],
   [
-    "finals",
-    28,
+    "war",
+    23,
+    "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html"
+  ],
+  [
+    "night",
+    21,
     "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
   ],
   [
-    "team",
-    27,
+    "loss",
+    21,
+    "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
+  ],
+  [
+    "fans",
+    21,
+    "https://www.washingtonpost.com/nation/2026/06/09/states-bump-last-call-world-cup-giving-soccer-fans-more-time-drink/"
+  ],
+  [
+    "finals",
+    20,
     "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
   ],
   [
     "nba",
-    27,
-    "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
-  ],
-  [
-    "york",
-    27,
-    "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
-  ],
-  [
-    "donald",
-    26,
-    "https://www.theguardian.com/us-news/2026/jun/09/trump-election-california-fraud-claims"
-  ],
-  [
-    "watch",
-    24,
-    "https://www.nytimes.com/2026/06/09/us/politics/primary-elections-today-maine-sc-explainer.html"
-  ],
-  [
-    "democrats",
-    23,
-    "https://www.nytimes.com/2026/06/09/us/politics/democrat-election-ads-american-bridge.html"
-  ],
-  [
-    "loss",
-    23,
-    "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
-  ],
-  [
-    "star",
-    23,
-    "https://www.nytimes.com/2026/06/09/arts/music/movie-soundtracks-symphony-orchestra.html"
-  ],
-  [
-    "democratic",
-    21,
-    "https://www.nytimes.com/2026/06/09/us/politics/democrat-election-ads-american-bridge.html"
-  ],
-  [
-    "states",
-    21,
-    "https://www.nytimes.com/2026/06/09/arts/music/movie-soundtracks-symphony-orchestra.html"
-  ],
-  [
-    "los",
-    21,
-    "https://www.nytimes.com/2026/06/09/arts/music/gustavo-dudamel-la-phil.html"
-  ],
-  [
-    "angeles",
-    21,
-    "https://www.nytimes.com/2026/06/09/arts/music/gustavo-dudamel-la-phil.html"
-  ],
-  [
-    "election",
     20,
-    "https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html"
-  ],
-  [
-    "political",
-    20,
-    "https://www.washingtonpost.com/obituaries/2026/06/07/robert-coles-pulitzer-winning-psychiatrist-who-shaped-public-policy-dies-97/"
-  ],
-  [
-    "family",
-    20,
-    "https://www.theguardian.com/society/2026/jun/09/dementia-rebels-diagnosed-determined-change-peoples-minds"
-  ],
-  [
-    "race",
-    19,
-    "https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html"
-  ],
-  [
-    "something",
-    19,
-    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
-  ],
-  [
-    "israel",
-    19,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "garden",
-    19,
-    "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
-  ],
-  [
-    "spurs",
-    19,
-    "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
-  ],
-  [
-    "mayor",
-    18,
-    "https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html"
-  ],
-  [
-    "support",
-    18,
-    "https://www.nytimes.com/2026/06/09/us/politics/primary-elections-today-maine-sc-explainer.html"
-  ],
-  [
-    "night",
-    18,
-    "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
-  ],
-  [
-    "because",
-    18,
-    "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
-  ],
-  [
-    "win",
-    17,
-    "https://www.nytimes.com/2026/06/09/world/middleeast/us-iran-talks-war.html"
+    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
   ],
   [
     "near",
-    17,
+    19,
     "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html"
   ],
   [
-    "republican",
-    17,
-    "https://www.nytimes.com/2026/06/09/us/politics/primary-elections-today-maine-sc-explainer.html"
+    "donald",
+    19,
+    "https://www.nytimes.com/2026/06/08/us/politics/trump-graham-relationship-timeline-primary.html"
   ],
   [
-    "british",
-    17,
-    "https://www.nytimes.com/2026/06/08/world/europe/vance-uk-stabbing-migrants.html"
+    "young",
+    19,
+    "https://www.washingtonpost.com/obituaries/2026/06/07/robert-coles-pulitzer-winning-psychiatrist-who-shaped-public-policy-dies-97/"
   ],
   [
-    "fans",
-    17,
-    "https://www.washingtonpost.com/nation/2026/06/09/states-bump-last-call-world-cup-giving-soccer-fans-more-time-drink/"
+    "york",
+    19,
+    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
   ],
   [
-    "became",
-    17,
-    "https://www.washingtonpost.com/nation/2026/06/08/he-grabbed-mic-riff-about-knicks-his-rhyme-became-an-anthem-unity/"
+    "watch",
+    19,
+    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
+  ],
+  [
+    "film",
+    19,
+    "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film"
+  ],
+  [
+    "states",
+    18,
+    "https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html"
+  ],
+  [
+    "fire",
+    18,
+    "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html"
+  ],
+  [
+    "million",
+    18,
+    "https://www.nytimes.com/2026/06/09/us/politics/democrat-election-ads-american-bridge.html"
+  ],
+  [
+    "something",
+    18,
+    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
   ],
   [
     "social",
@@ -201,49 +131,39 @@
     "https://www.washingtonpost.com/obituaries/2026/06/07/robert-coles-pulitzer-winning-psychiatrist-who-shaped-public-policy-dies-97/"
   ],
   [
-    "young",
+    "food",
     17,
-    "https://www.washingtonpost.com/obituaries/2026/06/07/robert-coles-pulitzer-winning-psychiatrist-who-shaped-public-policy-dies-97/"
+    "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film"
   ],
   [
-    "latest",
-    17,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "final",
-    17,
-    "https://www.theguardian.com/football/2026/jun/08/england-harry-kane-world-cup-ballon-dor-bayern-munich"
-  ],
-  [
-    "primary",
+    "star",
     17,
     "https://www.theguardian.com/us-news/2026/jun/09/trump-election-california-fraud-claims"
   ],
   [
-    "madison",
+    "platner",
     17,
-    "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
+    "https://www.theguardian.com/us-news/live/2026/jun/09/donald-trump-nithya-raman-los-angeles-la-spencer-pratt-mayor-politics-latest-news-updates"
   ],
   [
-    "square",
+    "final",
     17,
-    "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
+    "https://www.theguardian.com/film/2026/jun/10/final-fantasy-spirits-within-film-movie-exquisite-digital-relic"
   ],
   [
-    "raman",
-    16,
-    "https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html"
+    "players",
+    17,
+    "https://www.theguardian.com/football/2026/jun/09/a-very-beginners-guide-to-the-world-cup-how-does-it-work-and-the-players-to-look-out-for"
   ],
   [
-    "senate",
+    "election",
     16,
-    "https://www.nytimes.com/2026/06/09/us/politics/primary-elections-today-maine-sc-explainer.html"
+    "https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html"
   ],
   [
-    "maine",
+    "despite",
     16,
-    "https://www.nytimes.com/2026/06/09/us/politics/primary-elections-today-maine-sc-explainer.html"
+    "https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html"
   ],
   [
     "games",
@@ -251,128 +171,208 @@
     "https://www.nytimes.com/2026/06/09/world/europe/pope-leo-spain-armando-lovera.html"
   ],
   [
-    "global",
+    "cbs",
     16,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/us-news/2026/jun/09/alligator-attacks-man-fleeing-police-louisiana"
   ],
   [
-    "water",
+    "series",
     16,
-    "https://www.theguardian.com/news/2026/jun/09/ping-pong-sponges-black-smokers-and-floating-somethings-the-secrets-of-the-deep-sea"
+    "https://www.theguardian.com/world/ng-interactive/2026/jun/09/volodymyr-zelenskyy-interview-russia-putin-drone-warfare-ukraine"
   ],
   [
-    "platner",
+    "graham",
     15,
-    "https://www.nytimes.com/2026/06/09/us/politics/primary-elections-today-maine-sc-explainer.html"
+    "https://www.nytimes.com/2026/06/08/us/politics/trump-graham-relationship-timeline-primary.html"
   ],
   [
-    "general",
-    15,
-    "https://www.nytimes.com/2026/06/08/us/politics/trump-todd-blanche-attorney-general.html"
-  ],
-  [
-    "questions",
-    15,
-    "https://www.nytimes.com/2026/06/09/arts/television/late-night-jon-stewart-trump-meet-the-press.html"
-  ],
-  [
-    "health",
+    "death",
     15,
     "https://www.nytimes.com/2026/06/09/well/alcohol-health-risks-study.html"
   ],
   [
-    "football",
+    "released",
     15,
-    "https://www.theguardian.com/commentisfree/2026/jun/09/football-world-cup-pathology-trump-regime"
+    "https://www.washingtonpost.com/investigations/2026/06/08/this-agent-sent-models-meet-jeffrey-epstein-now-hes-trying-explain-why/"
+  ],
+  [
+    "london",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/09/trump-white-house-ufc-cage-fighting-arena-jd-vance-pete-hegseth"
+  ],
+  [
+    "water",
+    15,
+    "https://www.theguardian.com/news/2026/jun/09/ping-pong-sponges-black-smokers-and-floating-somethings-the-secrets-of-the-deep-sea"
+  ],
+  [
+    "summer",
+    15,
+    "https://www.theguardian.com/environment/2026/jun/09/extreme-heat-double-hospitalizations-2040-study"
+  ],
+  [
+    "video",
+    15,
+    "https://www.theguardian.com/football/2026/jun/09/usmnt-world-cup-goals-ranked"
+  ],
+  [
+    "democratic",
+    14,
+    "https://www.nytimes.com/2026/06/09/us/politics/democrat-election-ads-american-bridge.html"
+  ],
+  [
+    "american",
+    14,
+    "https://www.nytimes.com/2026/06/09/us/politics/democrat-election-ads-american-bridge.html"
+  ],
+  [
+    "government",
+    14,
+    "https://www.nytimes.com/2026/06/09/us/politics/eileen-wang-arcadia-california-mayor-china.html"
+  ],
+  [
+    "history",
+    14,
+    "https://www.washingtonpost.com/obituaries/2026/06/08/obituary-gordon-s-wood-eminent-historian-american-revolution/"
+  ],
+  [
+    "campaign",
+    14,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "latest",
+    14,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
     "media",
-    15,
-    "https://www.theguardian.com/uk-news/2026/jun/09/white-house-urges-uk-not-ban-social-media-under-16s"
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jun/09/trump-white-house-ufc-cage-fighting-arena-jd-vance-pete-hegseth"
   ],
   [
-    "governor",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/08/ice-agents-new-york-city-tom-homan"
-  ],
-  [
-    "film",
-    15,
+    "director",
+    14,
     "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film"
   ],
   [
-    "voters",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/jun/09/warning-europe-worries-trump-fear-jd-vance"
-  ],
-  [
-    "fire",
+    "police",
     14,
-    "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html"
+    "https://www.theguardian.com/us-news/2026/jun/09/alligator-attacks-man-fleeing-police-louisiana"
   ],
   [
-    "fraud",
-    14,
-    "https://www.nytimes.com/2026/06/09/podcasts/the-headlines/the-holdup-at-the-center-of-the-iran-talks-and-trumps-baseless-new-claims-of-voter-fraud.html"
-  ],
-  [
-    "soccer",
-    14,
-    "https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html"
-  ],
-  [
-    "ice",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "body",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jun/09/football-world-cup-pathology-trump-regime"
-  ],
-  [
-    "south",
-    14,
-    "https://www.theguardian.com/football/2026/jun/08/world-cup-preparations"
-  ],
-  [
-    "cbs",
-    14,
-    "https://www.latimes.com/opinion/story/2026-06-06/andy-rooney-might-say-about-downfall-of-60-minutes"
-  ],
-  [
-    "fifa",
+    "spurs",
     13,
-    "https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html"
+    "https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html"
+  ],
+  [
+    "because",
+    13,
+    "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
+  ],
+  [
+    "became",
+    13,
+    "https://www.washingtonpost.com/nation/2026/06/08/he-grabbed-mic-riff-about-knicks-his-rhyme-became-an-anthem-unity/"
+  ],
+  [
+    "san",
+    13,
+    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
+  ],
+  [
+    "maine",
+    13,
+    "https://www.theguardian.com/us-news/live/2026/jun/09/donald-trump-nithya-raman-los-angeles-la-spencer-pratt-mayor-politics-latest-news-updates"
+  ],
+  [
+    "tech",
+    13,
+    "https://www.theguardian.com/uk-news/2026/jun/09/white-house-urges-uk-not-ban-social-media-under-16s"
+  ],
+  [
+    "football",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/09/darren-sharper-ex-nfl-player-rape-case-transfer"
   ],
   [
     "party",
     13,
-    "https://www.nytimes.com/2026/06/09/world/europe/makerfield-byelection-starmer-burnham-reform.html"
+    "https://www.theguardian.com/commentisfree/2026/jun/09/henry-nowak-protest-southampton-booze-football-chants-british-right-george-floyd"
+  ],
+  [
+    "british",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jun/09/henry-nowak-protest-southampton-booze-football-chants-british-right-george-floyd"
+  ],
+  [
+    "primary",
+    12,
+    "https://www.nytimes.com/2026/06/08/us/politics/trump-graham-relationship-timeline-primary.html"
+  ],
+  [
+    "rise",
+    12,
+    "https://www.nytimes.com/2026/06/09/business/economy/billionaires-musk-gabriel-zucman.html"
   ],
   [
     "tournament",
-    13,
-    "https://www.washingtonpost.com/nation/2026/06/09/states-bump-last-call-world-cup-giving-soccer-fans-more-time-drink/"
+    12,
+    "https://www.nytimes.com/2026/06/09/world/africa/somali-referee-world-cup-us-entry-omar-artan.html"
   ],
   [
-    "almost",
-    13,
-    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
+    "decades",
+    12,
+    "https://www.nytimes.com/2026/06/09/world/europe/pope-leo-spain-armando-lovera.html"
   ],
   [
-    "history",
-    13,
+    "late",
+    12,
+    "https://www.nytimes.com/2026/06/09/arts/television/late-night-jon-stewart-trump-meet-the-press.html"
+  ],
+  [
+    "killed",
+    12,
     "https://www.washingtonpost.com/obituaries/2026/06/08/obituary-gordon-s-wood-eminent-historian-american-revolution/"
   ],
   [
-    "military",
-    13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "israeli",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "players",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jun/09/football-world-cup-pathology-trump-regime"
+    "global",
+    12,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "early",
+    12,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "hours",
+    12,
+    "https://www.theguardian.com/news/2026/jun/09/ping-pong-sponges-black-smokers-and-floating-somethings-the-secrets-of-the-deep-sea"
+  ],
+  [
+    "kids",
+    12,
+    "https://www.theguardian.com/us-news/live/2026/jun/09/donald-trump-nithya-raman-los-angeles-la-spencer-pratt-mayor-politics-latest-news-updates"
+  ],
+  [
+    "guide",
+    12,
+    "https://www.theguardian.com/football/live/2026/jun/09/world-cup-2026-news-olise-dazzles-in-france-friendly-neymar-recovering-well-england-latest-live"
+  ],
+  [
+    "having",
+    12,
+    "https://www.theguardian.com/sport/2026/jun/09/cooper-lutkenhaus-teenage-sporting-phenoms-athletics"
+  ],
+  [
+    "side",
+    11,
+    "https://www.nytimes.com/2026/06/09/world/middleeast/us-iran-talks-war.html"
   ]
 ];
