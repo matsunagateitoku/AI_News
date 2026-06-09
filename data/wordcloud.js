@@ -2,178 +2,193 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    102,
-    "https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html"
-  ],
-  [
-    "cup",
-    63,
-    "https://www.nytimes.com/2026/06/08/world/africa/somalian-world-cup-referee-denied-us-entry.html"
-  ],
-  [
-    "game",
-    62,
-    "https://www.theguardian.com/games/2026/jun/08/summer-game-fest-highlights-new-video-games-resident-evil-silent-hill"
-  ],
-  [
-    "president",
-    57,
-    "https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html"
-  ],
-  [
-    "nba",
-    36,
-    "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
-  ],
-  [
-    "iran",
-    33,
+    115,
     "https://www.nytimes.com/2026/06/08/us/politics/trump-iran-war-middle-east.html"
   ],
   [
+    "cup",
+    72,
+    "https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html"
+  ],
+  [
+    "president",
+    66,
+    "https://www.nytimes.com/2026/06/08/us/politics/trump-iran-war-middle-east.html"
+  ],
+  [
+    "game",
+    61,
+    "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
+  ],
+  [
+    "iran",
+    34,
+    "https://www.nytimes.com/2026/06/09/world/middleeast/us-iran-talks-war.html"
+  ],
+  [
+    "war",
+    29,
+    "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html"
+  ],
+  [
+    "knicks",
+    29,
+    "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
+  ],
+  [
+    "california",
+    28,
+    "https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html"
+  ],
+  [
     "finals",
-    33,
+    28,
+    "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
+  ],
+  [
+    "team",
+    27,
+    "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
+  ],
+  [
+    "nba",
+    27,
     "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
   ],
   [
     "york",
-    29,
+    27,
     "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
-  ],
-  [
-    "garden",
-    26,
-    "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
-  ],
-  [
-    "knicks",
-    25,
-    "https://www.washingtonpost.com/nation/2026/06/08/he-grabbed-mic-riff-about-knicks-his-rhyme-became-an-anthem-unity/"
-  ],
-  [
-    "war",
-    24,
-    "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html"
-  ],
-  [
-    "israel",
-    24,
-    "https://www.washingtonpost.com/business/2026/06/07/wounded-lebanese-journalist-died-rescuers-waited-israels-permission-save-her/"
-  ],
-  [
-    "games",
-    24,
-    "https://www.theguardian.com/games/2026/jun/08/summer-game-fest-highlights-new-video-games-resident-evil-silent-hill"
-  ],
-  [
-    "square",
-    24,
-    "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
-  ],
-  [
-    "team",
-    23,
-    "https://www.washingtonpost.com/nation/2026/06/08/he-grabbed-mic-riff-about-knicks-his-rhyme-became-an-anthem-unity/"
-  ],
-  [
-    "race",
-    22,
-    "https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html"
-  ],
-  [
-    "madison",
-    22,
-    "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
-  ],
-  [
-    "because",
-    21,
-    "https://www.nytimes.com/2026/06/08/world/africa/somalian-world-cup-referee-denied-us-entry.html"
-  ],
-  [
-    "star",
-    21,
-    "https://www.theguardian.com/us-news/2026/jun/08/karen-bass-nithya-raman-los-angeles-mayoral-race"
-  ],
-  [
-    "raman",
-    20,
-    "https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html"
   ],
   [
     "donald",
-    20,
-    "https://www.theguardian.com/us-news/2026/jun/08/what-trump-actually-said-no-war-promise"
+    26,
+    "https://www.theguardian.com/us-news/2026/jun/09/trump-election-california-fraud-claims"
+  ],
+  [
+    "watch",
+    24,
+    "https://www.nytimes.com/2026/06/09/us/politics/primary-elections-today-maine-sc-explainer.html"
+  ],
+  [
+    "democrats",
+    23,
+    "https://www.nytimes.com/2026/06/09/us/politics/democrat-election-ads-american-bridge.html"
+  ],
+  [
+    "loss",
+    23,
+    "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
+  ],
+  [
+    "star",
+    23,
+    "https://www.nytimes.com/2026/06/09/arts/music/movie-soundtracks-symphony-orchestra.html"
+  ],
+  [
+    "democratic",
+    21,
+    "https://www.nytimes.com/2026/06/09/us/politics/democrat-election-ads-american-bridge.html"
+  ],
+  [
+    "states",
+    21,
+    "https://www.nytimes.com/2026/06/09/arts/music/movie-soundtracks-symphony-orchestra.html"
   ],
   [
     "los",
-    20,
-    "https://www.theguardian.com/us-news/2026/jun/08/karen-bass-nithya-raman-los-angeles-mayoral-race"
+    21,
+    "https://www.nytimes.com/2026/06/09/arts/music/gustavo-dudamel-la-phil.html"
   ],
   [
     "angeles",
+    21,
+    "https://www.nytimes.com/2026/06/09/arts/music/gustavo-dudamel-la-phil.html"
+  ],
+  [
+    "election",
     20,
-    "https://www.theguardian.com/us-news/2026/jun/08/karen-bass-nithya-raman-los-angeles-mayoral-race"
+    "https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html"
+  ],
+  [
+    "political",
+    20,
+    "https://www.washingtonpost.com/obituaries/2026/06/07/robert-coles-pulitzer-winning-psychiatrist-who-shaped-public-policy-dies-97/"
   ],
   [
     "family",
     20,
-    "https://www.theguardian.com/world/2026/jun/09/japan-traditional-izakaya-struggling-economic-hard-times"
+    "https://www.theguardian.com/society/2026/jun/09/dementia-rebels-diagnosed-determined-change-peoples-minds"
   ],
   [
-    "election",
-    19,
-    "https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html"
-  ],
-  [
-    "mayor",
+    "race",
     19,
     "https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html"
   ],
   [
-    "senate",
+    "something",
     19,
-    "https://www.nytimes.com/2026/06/08/us/politics/trump-todd-blanche-attorney-general.html"
+    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
   ],
   [
-    "watch",
+    "israel",
+    19,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "garden",
     19,
     "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
   ],
   [
-    "something",
-    18,
-    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
+    "spurs",
+    19,
+    "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
   ],
   [
-    "political",
+    "mayor",
     18,
-    "https://www.washingtonpost.com/obituaries/2026/06/07/robert-coles-pulitzer-winning-psychiatrist-who-shaped-public-policy-dies-97/"
+    "https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html"
+  ],
+  [
+    "support",
+    18,
+    "https://www.nytimes.com/2026/06/09/us/politics/primary-elections-today-maine-sc-explainer.html"
   ],
   [
     "night",
     18,
-    "https://www.theguardian.com/thefilter-us/2026/jun/08/best-bluetooth-sleep-masks"
+    "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
   ],
   [
-    "democrats",
+    "because",
     18,
-    "https://www.theguardian.com/us-news/2026/jun/08/maine-primary-election-senate-graham-platner"
+    "https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html"
   ],
   [
-    "cbs",
-    18,
-    "https://www.latimes.com/opinion/story/2026-06-06/andy-rooney-might-say-about-downfall-of-60-minutes"
+    "win",
+    17,
+    "https://www.nytimes.com/2026/06/09/world/middleeast/us-iran-talks-war.html"
   ],
   [
-    "fire",
+    "near",
     17,
     "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html"
   ],
   [
-    "democratic",
+    "republican",
     17,
-    "https://www.nytimes.com/2026/06/08/opinion/jon-ossoff-president.html"
+    "https://www.nytimes.com/2026/06/09/us/politics/primary-elections-today-maine-sc-explainer.html"
+  ],
+  [
+    "british",
+    17,
+    "https://www.nytimes.com/2026/06/08/world/europe/vance-uk-stabbing-migrants.html"
+  ],
+  [
+    "fans",
+    17,
+    "https://www.washingtonpost.com/nation/2026/06/09/states-bump-last-call-world-cup-giving-soccer-fans-more-time-drink/"
   ],
   [
     "became",
@@ -181,174 +196,169 @@
     "https://www.washingtonpost.com/nation/2026/06/08/he-grabbed-mic-riff-about-knicks-his-rhyme-became-an-anthem-unity/"
   ],
   [
-    "don",
+    "social",
     17,
-    "https://www.theguardian.com/thefilter-us/2026/jun/08/best-bluetooth-sleep-masks"
+    "https://www.washingtonpost.com/obituaries/2026/06/07/robert-coles-pulitzer-winning-psychiatrist-who-shaped-public-policy-dies-97/"
   ],
   [
-    "spurs",
+    "young",
     17,
-    "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
-  ],
-  [
-    "california",
-    16,
-    "https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html"
-  ],
-  [
-    "south",
-    16,
-    "https://www.nytimes.com/2026/06/05/world/asia/transgender-priests-sulawesi-bissu-bugis.html"
-  ],
-  [
-    "loss",
-    16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "fewer",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/jun/08/best-bluetooth-sleep-masks"
-  ],
-  [
-    "little",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/08/who-is-todd-blanche-trump-attorney-general-pick"
-  ],
-  [
-    "primary",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/08/maine-primary-election-senate-graham-platner"
-  ],
-  [
-    "nithya",
-    15,
-    "https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html"
-  ],
-  [
-    "pratt",
-    15,
-    "https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html"
+    "https://www.washingtonpost.com/obituaries/2026/06/07/robert-coles-pulitzer-winning-psychiatrist-who-shaped-public-policy-dies-97/"
   ],
   [
     "latest",
-    15,
-    "https://www.nytimes.com/2026/06/08/us/politics/trump-denaturalization.html"
+    17,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "company",
-    15,
-    "https://www.nytimes.com/2026/06/08/technology/openai-ipo.html"
+    "final",
+    17,
+    "https://www.theguardian.com/football/2026/jun/08/england-harry-kane-world-cup-ballon-dor-bayern-munich"
   ],
   [
-    "party",
-    15,
-    "https://www.nytimes.com/2026/06/09/world/europe/makerfield-byelection-starmer-burnham-reform.html"
+    "primary",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/09/trump-election-california-fraud-claims"
   ],
   [
-    "british",
-    15,
-    "https://www.nytimes.com/2026/06/08/world/europe/vance-uk-stabbing-migrants.html"
-  ],
-  [
-    "announced",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/08/trump-h-1b-visa-fee-invalidated"
-  ],
-  [
-    "event",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/08/trump-news-at-a-glance-latest-updates-today"
-  ],
-  [
-    "players",
-    15,
-    "https://www.theguardian.com/sport/2026/jun/08/jalen-brunson-new-york-knicks-nba-finals"
-  ],
-  [
-    "fans",
-    15,
-    "https://www.theguardian.com/sport/2026/jun/08/jalen-brunson-new-york-knicks-nba-finals"
-  ],
-  [
-    "school",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/08/job-that-changed-me-teaching-in-a-juvenile-detention-centre"
-  ],
-  [
-    "bass",
-    14,
-    "https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html"
-  ],
-  [
-    "general",
-    14,
-    "https://www.nytimes.com/2026/06/08/us/paxton-lawyer-endorse-talarico.html"
-  ],
-  [
-    "questions",
-    14,
-    "https://www.washingtonpost.com/obituaries/2026/06/08/obituary-gordon-s-wood-eminent-historian-american-revolution/"
-  ],
-  [
-    "post",
-    14,
-    "https://www.washingtonpost.com/investigations/2026/06/08/this-agent-sent-models-meet-jeffrey-epstein-now-hes-trying-explain-why/"
-  ],
-  [
-    "ahead",
-    14,
-    "https://www.washingtonpost.com/nation/2026/06/07/over-shared-meals-philadelphians-write-recipe-citizenship/"
-  ],
-  [
-    "video",
-    14,
-    "https://www.theguardian.com/games/2026/jun/08/summer-game-fest-highlights-new-video-games-resident-evil-silent-hill"
-  ],
-  [
-    "security",
-    14,
+    "madison",
+    17,
     "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
   ],
   [
-    "platner",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/08/maine-primary-election-senate-graham-platner"
+    "square",
+    17,
+    "https://www.theguardian.com/sport/2026/jun/08/nba-finals-game-3-knicks-spurs-madison-square-garden"
   ],
   [
-    "play",
-    14,
-    "https://www.theguardian.com/football/2026/jun/08/fifa-vice-president-victor-montagliani-world-cup"
+    "raman",
+    16,
+    "https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html"
+  ],
+  [
+    "senate",
+    16,
+    "https://www.nytimes.com/2026/06/09/us/politics/primary-elections-today-maine-sc-explainer.html"
+  ],
+  [
+    "maine",
+    16,
+    "https://www.nytimes.com/2026/06/09/us/politics/primary-elections-today-maine-sc-explainer.html"
+  ],
+  [
+    "games",
+    16,
+    "https://www.nytimes.com/2026/06/09/world/europe/pope-leo-spain-armando-lovera.html"
+  ],
+  [
+    "global",
+    16,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "water",
+    16,
+    "https://www.theguardian.com/news/2026/jun/09/ping-pong-sponges-black-smokers-and-floating-somethings-the-secrets-of-the-deep-sea"
+  ],
+  [
+    "platner",
+    15,
+    "https://www.nytimes.com/2026/06/09/us/politics/primary-elections-today-maine-sc-explainer.html"
+  ],
+  [
+    "general",
+    15,
+    "https://www.nytimes.com/2026/06/08/us/politics/trump-todd-blanche-attorney-general.html"
+  ],
+  [
+    "questions",
+    15,
+    "https://www.nytimes.com/2026/06/09/arts/television/late-night-jon-stewart-trump-meet-the-press.html"
   ],
   [
     "health",
+    15,
+    "https://www.nytimes.com/2026/06/09/well/alcohol-health-risks-study.html"
+  ],
+  [
+    "football",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/09/football-world-cup-pathology-trump-regime"
+  ],
+  [
+    "media",
+    15,
+    "https://www.theguardian.com/uk-news/2026/jun/09/white-house-urges-uk-not-ban-social-media-under-16s"
+  ],
+  [
+    "governor",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/08/ice-agents-new-york-city-tom-homan"
+  ],
+  [
+    "film",
+    15,
+    "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film"
+  ],
+  [
+    "voters",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/09/warning-europe-worries-trump-fear-jd-vance"
+  ],
+  [
+    "fire",
     14,
-    "https://www.theguardian.com/football/2026/jun/08/christian-eriksen-collapse-discharged-close-denmark-team-doctor"
+    "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html"
   ],
   [
-    "food",
+    "fraud",
     14,
-    "https://www.theguardian.com/books/2026/jun/07/should-we-ditch-the-idea-of-three-meals-a-day"
+    "https://www.nytimes.com/2026/06/09/podcasts/the-headlines/the-holdup-at-the-center-of-the-iran-talks-and-trumps-baseless-new-claims-of-voter-fraud.html"
   ],
   [
-    "texas",
-    13,
-    "https://www.nytimes.com/2026/06/08/us/paxton-lawyer-endorse-talarico.html"
-  ],
-  [
-    "list",
-    13,
-    "https://www.nytimes.com/2026/06/08/us/pentagon-religious-list-troops.html"
+    "soccer",
+    14,
+    "https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html"
   ],
   [
     "ice",
-    13,
-    "https://www.nytimes.com/2026/06/08/nyregion/sherrill-nj-delaney-hall.html"
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "body",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jun/09/football-world-cup-pathology-trump-regime"
+  ],
+  [
+    "south",
+    14,
+    "https://www.theguardian.com/football/2026/jun/08/world-cup-preparations"
+  ],
+  [
+    "cbs",
+    14,
+    "https://www.latimes.com/opinion/story/2026-06-06/andy-rooney-might-say-about-downfall-of-60-minutes"
   ],
   [
     "fifa",
     13,
-    "https://www.nytimes.com/2026/06/08/world/africa/somalian-world-cup-referee-denied-us-entry.html"
+    "https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html"
+  ],
+  [
+    "party",
+    13,
+    "https://www.nytimes.com/2026/06/09/world/europe/makerfield-byelection-starmer-burnham-reform.html"
+  ],
+  [
+    "tournament",
+    13,
+    "https://www.washingtonpost.com/nation/2026/06/09/states-bump-last-call-world-cup-giving-soccer-fans-more-time-drink/"
+  ],
+  [
+    "almost",
+    13,
+    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
   ],
   [
     "history",
@@ -356,23 +366,13 @@
     "https://www.washingtonpost.com/obituaries/2026/06/08/obituary-gordon-s-wood-eminent-historian-american-revolution/"
   ],
   [
-    "social",
+    "military",
     13,
-    "https://www.washingtonpost.com/obituaries/2026/06/07/robert-coles-pulitzer-winning-psychiatrist-who-shaped-public-policy-dies-97/"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "outside",
+    "players",
     13,
-    "https://www.theguardian.com/wellness/2026/jun/08/how-to-shop-less-overconsumption-tips"
-  ],
-  [
-    "feel",
-    13,
-    "https://www.theguardian.com/wellness/2026/jun/08/how-to-shop-less-overconsumption-tips"
-  ],
-  [
-    "runoff",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/08/karen-bass-nithya-raman-los-angeles-mayoral-race"
+    "https://www.theguardian.com/commentisfree/2026/jun/09/football-world-cup-pathology-trump-regime"
   ]
 ];
