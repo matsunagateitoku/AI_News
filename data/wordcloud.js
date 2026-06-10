@@ -2,243 +2,268 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    88,
-    "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html"
+    86,
+    "https://www.nytimes.com/2026/06/10/us/politics/trump-bill-pulte-spy-law.html"
   ],
   [
     "cup",
-    64,
-    "https://www.nytimes.com/2026/06/10/world/americas/world-cup-immigration-problems.html"
+    74,
+    "https://www.nytimes.com/2026/06/10/us/world-cup-ice-immigration-enforcement.html"
   ],
   [
     "iran",
-    52,
-    "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html"
+    50,
+    "https://www.nytimes.com/2026/06/10/business/economy/trump-inflation-iran-war.html"
   ],
   [
     "president",
-    38,
+    36,
+    "https://www.nytimes.com/2026/06/10/us/politics/trump-bill-pulte-spy-law.html"
+  ],
+  [
+    "epstein",
+    34,
     "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html"
   ],
   [
     "game",
-    34,
-    "https://www.theguardian.com/sport/2026/jun/10/chuck-d-new-york-knicks-nba-finals"
+    31,
+    "https://www.nytimes.com/2026/06/10/nyregion/mamdani-knicks-ticket-garden.html"
   ],
   [
-    "primary",
-    28,
-    "https://www.nytimes.com/2026/06/10/us/politics/maine-slow-vote-count.html"
-  ],
-  [
-    "epstein",
-    24,
-    "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html"
+    "games",
+    26,
+    "https://www.nytimes.com/2026/06/10/us/world-cup-ice-immigration-enforcement.html"
   ],
   [
     "video",
     24,
-    "https://www.nytimes.com/2026/06/10/world/europe/belfast-attack-riots-what-happened.html"
+    "https://www.theguardian.com/football/2026/jun/10/mexico-city-world-cup-teachers-strike-protest"
   ],
   [
-    "york",
-    23,
-    "https://www.nytimes.com/2026/06/10/magazine/epstein-files-trump-white-house-takeaways.html"
-  ],
-  [
-    "games",
-    23,
-    "https://www.nytimes.com/2026/06/10/nyregion/new-york-city-knicks-watch-parties.html"
+    "family",
+    24,
+    "https://www.theguardian.com/thefilter-us/2026/may/27/fathers-day-deals-sales"
   ],
   [
     "bill",
-    23,
-    "https://www.theguardian.com/us-news/live/2026/jun/10/graham-platner-maine-democrats-senate-primary-donald-trump-us-politics-latest-news-updates"
-  ],
-  [
-    "fans",
     22,
-    "https://www.nytimes.com/2026/06/10/us/san-antonio-spurs-fans.html"
-  ],
-  [
-    "night",
-    21,
-    "https://www.nytimes.com/2026/06/10/world/europe/belfast-attack-riots-northern-ireland.html"
+    "https://www.nytimes.com/2026/06/10/us/politics/trump-bill-pulte-spy-law.html"
   ],
   [
     "social",
-    21,
-    "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates"
+    22,
+    "https://www.nytimes.com/2026/06/10/world/australia/australia-social-media-ban-under-16.html"
+  ],
+  [
+    "democrats",
+    22,
+    "https://www.theguardian.com/us-news/2026/jun/10/democrats-rally-round-graham-platner-maine-trump-grip-gop-primary-elections"
   ],
   [
     "war",
     20,
-    "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html"
+    "https://www.nytimes.com/2026/06/10/business/economy/trump-inflation-iran-war.html"
   ],
   [
-    "south",
-    20,
-    "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html"
-  ],
-  [
-    "watch",
+    "states",
     19,
-    "https://www.nytimes.com/2026/06/10/nyregion/new-york-city-knicks-watch-parties.html"
+    "https://www.washingtonpost.com/nation/2026/06/09/states-bump-last-call-world-cup-giving-soccer-fans-more-time-drink/"
   ],
   [
-    "senate",
-    18,
-    "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html"
-  ],
-  [
-    "military",
-    18,
-    "https://www.nytimes.com/video/world/100000010854469/visiting-a-soldiers-funeral-in-ukraine.html"
-  ],
-  [
-    "something",
-    18,
-    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
-  ],
-  [
-    "police",
-    18,
-    "https://www.theguardian.com/us-news/2026/jun/10/florida-lawsuit-ai-facial-recognition"
-  ],
-  [
-    "graham",
-    17,
-    "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html"
+    "mexico",
+    19,
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
     "platner",
+    19,
+    "https://www.theguardian.com/us-news/2026/jun/10/democrats-rally-round-graham-platner-maine-trump-grip-gop-primary-elections"
+  ],
+  [
+    "something",
+    19,
+    "https://www.theguardian.com/music/2026/jun/10/peter-asher-everywhere-man-film"
+  ],
+  [
+    "police",
+    19,
+    "https://www.theguardian.com/football/2026/jun/09/uswnt-brazil-friendly-fortaleza-sophia-wilson-own-goal"
+  ],
+  [
+    "climate",
+    18,
+    "https://www.theguardian.com/us-news/2026/jun/10/climate-change-crisis-refugees"
+  ],
+  [
+    "watch",
+    18,
+    "https://www.theguardian.com/us-news/video/2026/jun/10/trump-world-cup-stateside"
+  ],
+  [
+    "military",
     17,
-    "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html"
+    "https://www.nytimes.com/2026/06/10/world/middleeast/trump-oil-iran-strait-hormuz.html"
   ],
   [
-    "democrats",
+    "questions",
     17,
-    "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html"
+    "https://www.nytimes.com/2026/05/17/us/the-big-questions-about-jeffrey-epstein-what-the-times-has-learned.html"
   ],
   [
-    "donald",
+    "fans",
     17,
-    "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html"
+    "https://www.nytimes.com/2026/06/10/nyregion/mamdani-knicks-ticket-garden.html"
   ],
   [
-    "nba",
+    "maine",
     17,
-    "https://www.nytimes.com/2026/06/10/nyregion/new-york-city-knicks-watch-parties.html"
-  ],
-  [
-    "team",
-    17,
-    "https://www.nytimes.com/2026/06/10/style/knicks-fans-msg-nba-finals-fashion.html"
-  ],
-  [
-    "film",
-    17,
-    "https://www.theguardian.com/film/2026/jun/10/i-shot-andy-warhol-mary-harron-director-interview-valerie-solanas-lili-taylor"
-  ],
-  [
-    "inflation",
-    16,
-    "https://www.nytimes.com/2026/06/10/business/economy/inflation-federal-reserve-interest-rates.html"
-  ],
-  [
-    "knicks",
-    16,
-    "https://www.nytimes.com/2026/06/10/us/san-antonio-spurs-fans.html"
-  ],
-  [
-    "finals",
-    16,
-    "https://www.nytimes.com/2026/06/10/us/san-antonio-spurs-fans.html"
-  ],
-  [
-    "immigration",
-    16,
-    "https://www.nytimes.com/2026/06/10/world/americas/world-cup-immigration-problems.html"
-  ],
-  [
-    "loss",
-    16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "family",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/10/navy-member-strangling-sailor-aircraft-carrier"
-  ],
-  [
-    "gop",
-    16,
-    "https://www.foxnews.com/politics/dan-sullivan-accuses-same-name-challenger-trying-rig-alaska-senate-race"
-  ],
-  [
-    "latest",
-    15,
-    "https://www.nytimes.com/2026/06/10/business/economy/americans-travel-expensive.html"
-  ],
-  [
-    "republican",
-    15,
     "https://www.nytimes.com/2026/06/10/us/politics/maine-slow-vote-count.html"
   ],
   [
     "california",
-    15,
-    "https://www.nytimes.com/2026/06/10/opinion/california-slow-vote-primary.html"
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/10/fbi-southern-california-chemical-facility"
   ],
   [
-    "security",
+    "south",
+    16,
+    "https://www.nytimes.com/2026/06/10/us/politics/nancy-mace-congress-south-carolina.html"
+  ],
+  [
+    "primary",
+    16,
+    "https://www.nytimes.com/2026/06/10/us/politics/maine-slow-vote-count.html"
+  ],
+  [
+    "ice",
+    16,
+    "https://www.nytimes.com/2026/06/10/us/world-cup-ice-immigration-enforcement.html"
+  ],
+  [
+    "buying",
+    16,
+    "https://www.nytimes.com/2026/06/09/travel/world-cup-travel-us.html"
+  ],
+  [
+    "night",
+    16,
+    "https://www.theguardian.com/us-news/2026/jun/10/ufc-champion-banned-white-house-fight-trump-criticism"
+  ],
+  [
+    "jeffrey",
     15,
-    "https://www.theguardian.com/us-news/live/2026/jun/10/graham-platner-maine-democrats-senate-primary-donald-trump-us-politics-latest-news-updates"
+    "https://www.nytimes.com/2026/06/10/business/bill-gates-epstein-testimony.html"
+  ],
+  [
+    "america",
+    15,
+    "https://www.nytimes.com/2026/06/10/travel/american-revolution-bars-places-to-drink.html"
+  ],
+  [
+    "team",
+    15,
+    "https://www.washingtonpost.com/nation/2026/06/08/he-grabbed-mic-riff-about-knicks-his-rhyme-became-an-anthem-unity/"
+  ],
+  [
+    "loss",
+    15,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "million",
+    15,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
     "event",
     15,
-    "https://www.theguardian.com/us-news/2026/jun/10/ufc-champion-banned-white-house-fight-trump-criticism"
+    "https://www.theguardian.com/commentisfree/2026/jun/10/america-250-maga-christian-nationalism"
   ],
   [
-    "black",
+    "senate",
     15,
-    "https://www.theguardian.com/us-news/2026/jun/10/witchcraft-retreat-ireland"
+    "https://www.theguardian.com/us-news/2026/jun/10/democrats-rally-round-graham-platner-maine-trump-grip-gop-primary-elections"
   ],
   [
-    "guide",
+    "director",
     15,
-    "https://www.theguardian.com/us-news/2026/jun/10/witchcraft-retreat-ireland"
+    "https://www.theguardian.com/us-news/2026/jun/10/trump-bill-pulte-intelligence-director"
   ],
   [
-    "maine",
+    "actor",
+    15,
+    "https://www.theguardian.com/music/2026/jun/10/david-harbour-lily-allen-west-end-girl-response"
+  ],
+  [
+    "inflation",
     14,
-    "https://www.nytimes.com/2026/06/10/us/politics/maine-slow-vote-count.html"
+    "https://www.nytimes.com/2026/06/10/business/economy/trump-inflation-iran-war.html"
   ],
   [
-    "series",
+    "donald",
     14,
     "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html"
   ],
   [
-    "questions",
+    "york",
     14,
-    "https://www.nytimes.com/2026/05/17/us/the-big-questions-about-jeffrey-epstein-what-the-times-has-learned.html"
+    "https://www.nytimes.com/2026/06/10/magazine/epstein-files-trump-white-house-takeaways.html"
   ],
   [
-    "race",
+    "campaign",
     14,
-    "https://www.nytimes.com/2026/06/10/business/investors-artificial-intelligence.html"
+    "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html"
   ],
   [
-    "tournament",
+    "children",
     14,
-    "https://www.washingtonpost.com/nation/2026/06/09/states-bump-last-call-world-cup-giving-soccer-fans-more-time-drink/"
+    "https://www.nytimes.com/2026/06/10/world/europe/uk-social-media-ban-under-16.html"
   ],
   [
-    "west",
+    "immigration",
     14,
-    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
+    "https://www.nytimes.com/2026/06/10/us/world-cup-ice-immigration-enforcement.html"
+  ],
+  [
+    "party",
+    14,
+    "https://www.nytimes.com/2026/06/10/opinion/democrats-politics-morality-values.html"
+  ],
+  [
+    "american",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jun/10/america-250-maga-christian-nationalism"
+  ],
+  [
+    "guide",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/10/witchcraft-retreat-ireland"
+  ],
+  [
+    "fewer",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/may/27/fathers-day-deals-sales"
+  ],
+  [
+    "water",
+    14,
+    "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live"
+  ],
+  [
+    "graham",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/10/democrats-rally-round-graham-platner-maine-trump-grip-gop-primary-elections"
+  ],
+  [
+    "because",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/10/ufc-champion-banned-white-house-fight-trump-criticism"
+  ],
+  [
+    "james",
+    14,
+    "https://www.theguardian.com/music/2026/jun/10/peter-asher-everywhere-man-film"
   ],
   [
     "win",
@@ -246,39 +271,14 @@
     "https://www.theguardian.com/sport/2026/jun/10/chuck-d-new-york-knicks-nba-finals"
   ],
   [
-    "actor",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/10/a-big-pouffy-dress-is-not-really-me-the-brides-who-got-wed-in-a-suit-long-before-dua-lipa"
-  ],
-  [
-    "star",
-    14,
-    "https://www.theguardian.com/books/2026/jun/10/peter-pan-christopher-robin-alice-the-unsettling-stories-of-the-children-behind-fictions-most-enduring-tales"
-  ],
-  [
-    "food",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jun/10/agriculture-bees-environment"
-  ],
-  [
-    "health",
-    14,
-    "https://www.theguardian.com/environment/2026/jun/10/pollinators-in-peril-scientists-reveal-the-hidden-human-health-costs-of-the-worlds-disappearing-bees-aoe"
-  ],
-  [
-    "country",
+    "oil",
     13,
-    "https://www.nytimes.com/2026/06/09/world/middleeast/lebanon-israel-nabatieh.html"
+    "https://www.nytimes.com/2026/06/10/world/middleeast/trump-oil-iran-strait-hormuz.html"
   ],
   [
-    "democratic",
+    "past",
     13,
-    "https://www.nytimes.com/2026/06/10/us/politics/maine-slow-vote-count.html"
-  ],
-  [
-    "governor",
-    13,
-    "https://www.nytimes.com/2026/06/10/us/politics/maine-slow-vote-count.html"
+    "https://www.nytimes.com/2026/06/10/world/middleeast/trump-oil-iran-strait-hormuz.html"
   ],
   [
     "inside",
@@ -286,49 +286,34 @@
     "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html"
   ],
   [
-    "party",
+    "gates",
     13,
-    "https://www.nytimes.com/2026/06/10/nyregion/new-york-city-knicks-watch-parties.html"
+    "https://www.nytimes.com/2026/06/10/business/bill-gates-epstein-testimony.html"
   ],
   [
-    "support",
+    "security",
     13,
-    "https://www.nytimes.com/2026/06/10/style/knicks-fans-msg-nba-finals-fashion.html"
+    "https://www.nytimes.com/2026/06/10/us/world-cup-ice-immigration-enforcement.html"
   ],
   [
-    "states",
+    "school",
     13,
-    "https://www.nytimes.com/2026/06/10/world/americas/world-cup-immigration-problems.html"
+    "https://www.washingtonpost.com/nation/2026/06/10/texas-teenager-sentenced-35-years-prison-murder-high-school-student/"
   ],
   [
-    "court",
+    "anti",
     13,
-    "https://www.nytimes.com/2026/06/10/opinion/constitution-supreme-court-popular-sovereignty.html"
+    "https://www.washingtonpost.com/nation/2026/06/09/texas-city-was-already-struggling-with-racial-divisions-then-came-bitter-murder-trial/"
   ],
   [
-    "experience",
+    "country",
     13,
-    "https://www.nytimes.com/2026/06/09/travel/world-cup-travel-us.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "buying",
+    "fire",
     13,
-    "https://www.nytimes.com/2026/06/09/travel/world-cup-travel-us.html"
-  ],
-  [
-    "london",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/10/homeless-man-porch-rutland-gate"
-  ],
-  [
-    "climate",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/jun/10/graham-platner-maine-democrats-senate-primary-donald-trump-us-politics-latest-news-updates"
-  ],
-  [
-    "david",
-    13,
-    "https://www.theguardian.com/music/2026/jun/10/david-harbour-lily-allen-west-end-girl-response"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "young",
@@ -336,43 +321,58 @@
     "https://www.theguardian.com/commentisfree/2026/jun/10/america-250-maga-christian-nationalism"
   ],
   [
-    "fewer",
+    "dead",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jun/10/trump-irs-immunity-audit"
+    "https://www.theguardian.com/us-news/2026/jun/10/witchcraft-retreat-ireland"
   ],
   [
-    "price",
-    12,
-    "https://www.nytimes.com/2026/06/10/business/economy/inflation-federal-reserve-interest-rates.html"
+    "committee",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/10/bill-gates-testimony-jeffrey-epstein"
   ],
   [
-    "carolina",
-    12,
-    "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html"
+    "announced",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/10/graham-platner-maine-senate-primary-victory"
   ],
   [
-    "millions",
-    12,
-    "https://www.nytimes.com/2026/06/10/business/economy/back-office-workers-ai.html"
+    "referee",
+    13,
+    "https://www.theguardian.com/football/video/2026/jun/10/the-most-inclusive-world-cup-ever-doesnt-look-like-it"
   ],
   [
-    "attack",
-    12,
-    "https://www.nytimes.com/2026/06/10/world/europe/belfast-attack-riots-northern-ireland.html"
+    "football",
+    13,
+    "https://www.theguardian.com/football/2026/jun/10/david-sullivan-west-ham-football-association-safeguarding-investigation"
   ],
   [
-    "list",
-    12,
-    "https://www.washingtonpost.com/religion/2026/06/08/after-outcry-mormon-lawmakers-pentagon-updates-religious-codes/"
+    "food",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jun/10/agriculture-bees-environment"
   ],
   [
-    "history",
+    "republicans",
     12,
-    "https://www.washingtonpost.com/obituaries/2026/06/08/obituary-gordon-s-wood-eminent-historian-american-revolution/"
+    "https://www.nytimes.com/2026/06/10/us/politics/trump-bill-pulte-spy-law.html"
   ],
   [
-    "million",
+    "administration",
     12,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.nytimes.com/2026/06/10/business/economy/trump-inflation-iran-war.html"
+  ],
+  [
+    "working",
+    12,
+    "https://www.nytimes.com/2026/06/10/business/economy/trump-inflation-iran-war.html"
+  ],
+  [
+    "congress",
+    12,
+    "https://www.nytimes.com/2026/06/10/us/politics/nancy-mace-congress-south-carolina.html"
+  ],
+  [
+    "ago",
+    12,
+    "https://www.nytimes.com/2026/06/10/arts/design/ai-gemini-thrift-store-painting-sale.html"
   ]
 ];
