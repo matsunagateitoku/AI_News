@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    66,
-    "https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html"
+    81,
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
+  ],
+  [
+    "primary",
+    69,
+    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html"
   ],
   [
     "cup",
-    62,
-    "https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html"
-  ],
-  [
-    "president",
-    38,
-    "https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html"
-  ],
-  [
-    "iran",
-    33,
-    "https://www.nytimes.com/2026/06/09/us/politics/iran-nuclear-deal.html"
-  ],
-  [
-    "social",
-    30,
-    "https://www.nytimes.com/2026/06/09/business/social-security-benefits-cuts.html"
-  ],
-  [
-    "game",
-    29,
-    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
-  ],
-  [
-    "fans",
-    24,
+    64,
     "https://www.washingtonpost.com/nation/2026/06/09/states-bump-last-call-world-cup-giving-soccer-fans-more-time-drink/"
   ],
   [
-    "food",
-    24,
-    "https://www.theguardian.com/thefilter-us/2026/jun/09/caraway-saute-pan-review"
+    "president",
+    41,
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
   ],
   [
-    "team",
-    22,
-    "https://www.nytimes.com/2026/06/09/nyregion/knicks-nba-finals-earl-monroe.html"
+    "graham",
+    39,
+    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html"
   ],
   [
-    "meet",
-    21,
-    "https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-nasa-crew.html"
+    "south",
+    38,
+    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html"
+  ],
+  [
+    "gop",
+    38,
+    "https://www.npr.org/2026/06/09/nx-s1-5851591/trump-south-carolina-evette-wilson-governor"
   ],
   [
     "california",
-    21,
-    "https://www.nytimes.com/2026/06/09/us/catherine-breed-california-coast-swimming.html"
+    37,
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
   ],
   [
-    "murder",
+    "race",
+    36,
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
+  ],
+  [
+    "democratic",
+    36,
+    "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html"
+  ],
+  [
+    "governor",
+    35,
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
+  ],
+  [
+    "republican",
+    35,
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
+  ],
+  [
+    "carolina",
+    35,
+    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html"
+  ],
+  [
+    "senate",
+    32,
+    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html"
+  ],
+  [
+    "platner",
+    29,
+    "https://www.theguardian.com/us-news/2026/jun/09/graham-platner-maine-senate-primary"
+  ],
+  [
+    "maine",
+    29,
+    "https://www.theguardian.com/us-news/2026/jun/09/graham-platner-maine-senate-primary"
+  ],
+  [
+    "democrats",
+    27,
+    "https://www.nytimes.com/2026/06/09/us/politics/pan-ho-kiley-california-primary.html"
+  ],
+  [
+    "game",
+    26,
+    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
+  ],
+  [
+    "runoff",
+    25,
+    "https://www.nytimes.com/2026/06/09/us/politics/nancy-lacore-mace-south-carolina.html"
+  ],
+  [
+    "iran",
+    25,
+    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
+  ],
+  [
+    "election",
+    24,
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
+  ],
+  [
+    "district",
+    24,
+    "https://www.nytimes.com/2026/06/09/us/politics/bains-villegas-california-democrats-primary.html"
+  ],
+  [
+    "nevada",
+    23,
+    "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html"
+  ],
+  [
+    "final",
+    23,
+    "https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html"
+  ],
+  [
+    "fans",
+    22,
+    "https://www.washingtonpost.com/nation/2026/06/09/states-bump-last-call-world-cup-giving-soccer-fans-more-time-drink/"
+  ],
+  [
+    "wins",
     21,
-    "https://www.washingtonpost.com/nation/2026/06/09/texas-city-was-already-struggling-with-racial-divisions-then-came-bitter-murder-trial/"
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
+  ],
+  [
+    "general",
+    21,
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
   ],
   [
     "something",
     21,
-    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
-  ],
-  [
-    "anthony",
-    21,
-    "https://www.theguardian.com/us-news/2026/jun/09/karmelo-anthony-case-verdict"
-  ],
-  [
-    "released",
-    20,
-    "https://www.nytimes.com/2026/06/09/us/politics/aipac-haley-stevens-michigan-senate.html"
-  ],
-  [
-    "night",
-    20,
-    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
-  ],
-  [
-    "york",
-    20,
-    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
-  ],
-  [
-    "film",
-    20,
-    "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film"
-  ],
-  [
-    "fire",
-    19,
-    "https://www.nytimes.com/2026/06/09/us/politics/iran-nuclear-deal.html"
-  ],
-  [
-    "maine",
-    19,
-    "https://www.nytimes.com/2026/06/09/opinion/graham-platner-moral-hypocrisy.html"
-  ],
-  [
-    "trial",
-    19,
-    "https://www.washingtonpost.com/nation/2026/06/09/texas-city-was-already-struggling-with-racial-divisions-then-came-bitter-murder-trial/"
-  ],
-  [
-    "track",
-    19,
-    "https://www.theguardian.com/us-news/2026/jun/09/karmelo-anthony-case-verdict"
-  ],
-  [
-    "senate",
-    18,
-    "https://www.nytimes.com/2026/06/09/us/politics/aipac-haley-stevens-michigan-senate.html"
-  ],
-  [
-    "final",
-    18,
-    "https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html"
-  ],
-  [
-    "platner",
-    18,
-    "https://www.nytimes.com/2026/06/09/opinion/graham-platner-moral-hypocrisy.html"
-  ],
-  [
-    "texas",
-    18,
-    "https://www.washingtonpost.com/nation/2026/06/09/texas-city-was-already-struggling-with-racial-divisions-then-came-bitter-murder-trial/"
+    "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html"
   ],
   [
     "london",
+    21,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/10/homeless-man-porch-rutland-gate"
+  ],
+  [
+    "team",
+    20,
+    "https://www.washingtonpost.com/nation/2026/06/08/he-grabbed-mic-riff-about-knicks-his-rhyme-became-an-anthem-unity/"
+  ],
+  [
+    "cbs",
+    20,
+    "https://www.theguardian.com/us-news/2026/jun/09/alligator-attacks-man-fleeing-police-louisiana"
+  ],
+  [
+    "win",
+    19,
+    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html"
+  ],
+  [
+    "gov",
+    19,
+    "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html"
+  ],
+  [
+    "film",
+    19,
+    "https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular"
+  ],
+  [
+    "won",
+    19,
+    "https://www.theguardian.com/sport/2026/jun/09/cooper-lutkenhaus-teenage-sporting-phenoms-athletics"
+  ],
+  [
+    "democrat",
     18,
-    "https://www.theguardian.com/commentisfree/2026/jun/09/trump-white-house-ufc-cage-fighting-arena-jd-vance-pete-hegseth"
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
   ],
   [
-    "school",
+    "rep",
     18,
-    "https://www.theguardian.com/us-news/2026/jun/09/karmelo-anthony-case-verdict"
-  ],
-  [
-    "police",
-    18,
-    "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya"
-  ],
-  [
-    "race",
-    17,
-    "https://www.nytimes.com/2026/06/09/us/politics/aipac-haley-stevens-michigan-senate.html"
-  ],
-  [
-    "american",
-    17,
-    "https://www.nytimes.com/2026/06/09/us/politics/aipac-haley-stevens-michigan-senate.html"
-  ],
-  [
-    "democrats",
-    17,
-    "https://www.nytimes.com/2026/06/09/opinion/ezra-klein-podcast-matt-duss.html"
+    "https://www.nytimes.com/2026/06/09/us/politics/pan-ho-kiley-california-primary.html"
   ],
   [
     "war",
-    17,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    18,
+    "https://www.nytimes.com/2026/06/09/opinion/middle-east-war-accountability-iran-us-trump.html"
   ],
   [
-    "media",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/jun/09/trump-white-house-ufc-cage-fighting-arena-jd-vance-pete-hegseth"
+    "food",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/09/crazy-cat-lady-sterotype"
   ],
   [
-    "accused",
+    "night",
+    18,
+    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
+  ],
+  [
+    "wilson",
+    18,
+    "https://www.theguardian.com/football/2026/jun/09/uswnt-brazil-friendly-fortaleza-sophia-wilson-own-goal"
+  ],
+  [
+    "sen",
+    18,
+    "https://www.foxnews.com/politics/trump-endorsed-candidate-will-face-top-gop-target-nevada-house-district"
+  ],
+  [
+    "term",
     17,
-    "https://www.theguardian.com/us-news/2026/jun/09/iryna-zarutska-suspect-incompetent-charlotte-trial"
+    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html"
+  ],
+  [
+    "attorney",
+    17,
+    "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html"
+  ],
+  [
+    "bill",
+    17,
+    "https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html"
+  ],
+  [
+    "murder",
+    17,
+    "https://www.washingtonpost.com/nation/2026/06/10/texas-teenager-sentenced-35-years-prison-murder-high-school-student/"
+  ],
+  [
+    "collins",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/09/graham-platner-maine-senate-primary"
+  ],
+  [
+    "political",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/09/graham-platner-maine-senate-primary"
   ],
   [
     "games",
     17,
-    "https://www.theguardian.com/football/2026/jun/09/stadium-hotel-workers-strike-world-cup"
+    "https://www.theguardian.com/football/2026/jun/09/iran-federation-says-ticket-allocation-has-been-pulled-days-before-start-of-world-cup"
+  ],
+  [
+    "young",
+    17,
+    "https://www.theguardian.com/film/2026/jun/09/signal-one-review-alien-drama-dennis-quaid-david-thewlis"
   ],
   [
     "family",
     17,
-    "https://www.theguardian.com/music/2026/jun/09/james-blood-ulmer-adventurous-us-guitarist-and-vocalist-dies-aged-86"
+    "https://www.theguardian.com/music/2026/jun/08/bedouine-strangeness-of-arab-life-outside-the-middle-east"
   ],
   [
-    "administration",
+    "republicans",
     16,
-    "https://www.nytimes.com/2026/06/09/us/justice-dept-fund-trump-irs-watchdog.html"
+    "https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html"
   ],
   [
-    "young",
+    "million",
     16,
-    "https://www.washingtonpost.com/obituaries/2026/06/07/robert-coles-pulitzer-winning-psychiatrist-who-shaped-public-policy-dies-97/"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "campaign",
+    "despite",
     16,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "government",
+    "director",
     16,
-    "https://www.theguardian.com/commentisfree/2026/jun/09/trump-white-house-ufc-cage-fighting-arena-jd-vance-pete-hegseth"
+    "https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular"
   ],
   [
-    "watch",
+    "york",
     16,
     "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
   ],
   [
     "series",
     16,
-    "https://www.theguardian.com/world/ng-interactive/2026/jun/09/volodymyr-zelenskyy-interview-russia-putin-drone-warfare-ukraine"
+    "https://www.theguardian.com/us-news/2026/jun/09/graham-platner-maine-senate-primary"
   ],
   [
-    "water",
+    "nbc",
     16,
-    "https://www.theguardian.com/news/2026/jun/09/ping-pong-sponges-black-smokers-and-floating-somethings-the-secrets-of-the-deep-sea"
+    "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live"
   ],
   [
-    "states",
-    15,
-    "https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html"
+    "projects",
+    16,
+    "https://www.cbsnews.com/news/south-carolina-governors-race-primary-results-republicans/"
   ],
   [
-    "south",
+    "joe",
     15,
-    "https://www.nytimes.com/2026/06/08/us/politics/trump-graham-relationship-timeline-primary.html"
+    "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html"
   ],
   [
-    "primary",
+    "lombardo",
     15,
-    "https://www.nytimes.com/2026/06/08/us/politics/trump-graham-relationship-timeline-primary.html"
+    "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html"
   ],
   [
-    "vote",
+    "american",
     15,
-    "https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html"
-  ],
-  [
-    "security",
-    15,
-    "https://www.nytimes.com/2026/06/09/business/social-security-benefits-cuts.html"
-  ],
-  [
-    "nasa",
-    15,
-    "https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-nasa-crew.html"
-  ],
-  [
-    "political",
-    15,
-    "https://www.nytimes.com/2026/06/09/opinion/graham-platner-moral-hypocrisy.html"
-  ],
-  [
-    "north",
-    15,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "latest",
-    15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "earth",
-    15,
-    "https://www.theguardian.com/science/2026/jun/09/artemis-iii-crew-nasa-moon"
-  ],
-  [
-    "karmelo",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/09/karmelo-anthony-case-verdict"
-  ],
-  [
-    "video",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/09/iryna-zarutska-suspect-incompetent-charlotte-trial"
+    "https://www.washingtonpost.com/obituaries/2026/06/08/obituary-gordon-s-wood-eminent-historian-american-revolution/"
   ],
   [
     "donald",
-    14,
-    "https://www.nytimes.com/2026/06/08/us/politics/trump-graham-relationship-timeline-primary.html"
-  ],
-  [
-    "artemis",
-    14,
-    "https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-nasa-crew.html"
-  ],
-  [
-    "los",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/09/pacoima-pollution-air-sensors-monitoring"
-  ],
-  [
-    "angeles",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/09/pacoima-pollution-air-sensors-monitoring"
-  ],
-  [
-    "director",
-    14,
-    "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film"
-  ],
-  [
-    "austin",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/09/karmelo-anthony-case-verdict"
-  ],
-  [
-    "stabbing",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/09/karmelo-anthony-case-verdict"
-  ],
-  [
-    "football",
-    14,
-    "https://www.theguardian.com/football/2026/jun/09/iran-federation-says-ticket-allocation-has-been-pulled-days-before-start-of-world-cup"
+    15,
+    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
   ],
   [
     "summer",
-    14,
+    15,
     "https://www.theguardian.com/football/2026/jun/09/meet-the-philosopher-in-training-who-will-be-at-the-var-monitor-this-world-cup"
   ],
   [
-    "bill",
-    13,
-    "https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html"
+    "gubernatorial",
+    15,
+    "https://www.foxnews.com/politics/nevadas-top-cop-wins-primary-takes-gov-lombardo"
   ],
   [
-    "crew",
-    13,
+    "advance",
+    14,
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
+  ],
+  [
+    "congressional",
+    14,
+    "https://www.nytimes.com/2026/06/09/us/politics/pan-ho-kiley-california-primary.html"
+  ],
+  [
+    "meet",
+    14,
     "https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-nasa-crew.html"
   ],
   [
-    "really",
-    13,
-    "https://www.nytimes.com/2026/06/09/science/space/nasa-artemis-moon-landing.html"
+    "nasa",
+    14,
+    "https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-nasa-crew.html"
   ],
   [
-    "attack",
-    13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "released",
+    14,
+    "https://www.washingtonpost.com/religion/2026/06/08/after-outcry-mormon-lawmakers-pentagon-updates-religious-codes/"
   ],
   [
-    "early",
-    13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "states",
+    14,
+    "https://www.washingtonpost.com/nation/2026/06/09/states-bump-last-call-world-cup-giving-soccer-fans-more-time-drink/"
   ],
   [
-    "ice",
-    13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "west",
+    14,
+    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
   ],
   [
-    "guide",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/09/caraway-saute-pan-review"
+    "campaign",
+    14,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "voters",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/09/maine-senate-primary-graham-platner"
+    "past",
+    14,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "graham",
-    12,
-    "https://www.nytimes.com/2026/06/08/us/politics/trump-graham-relationship-timeline-primary.html"
-  ],
-  [
-    "immigration",
-    12,
-    "https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html"
+    "social",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jun/09/elon-musk-trillionaire-oligarchy"
   ]
 ];
