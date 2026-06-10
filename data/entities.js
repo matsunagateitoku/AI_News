@@ -2,10 +2,10 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "World Cup Experts’ Network",
+      "name": "The 2026 World Cup",
       "count": 39,
-      "url": "https://www.theguardian.com/football/2026/jun/10/uzbekistan-world-cup-2026-team-guide",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/06/09/travel/world-cup-travel-us.html",
+      "source": "NY Times"
     },
     {
       "name": "The World Cup",
@@ -14,151 +14,139 @@
       "source": "NY Times"
     },
     {
+      "name": "A World Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/football/video/2026/jun/10/the-most-inclusive-world-cup-ever-doesnt-look-like-it",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cup 2026",
+      "count": 3,
+      "url": "https://www.theguardian.com/football/2026/jun/10/world-cup-2026-guardian-writers-predictions-for-the-tournament",
+      "source": "The Guardian"
+    },
+    {
       "name": "The Iran War",
-      "count": 4,
+      "count": 2,
       "url": "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html",
       "source": "NY Times"
     },
     {
-      "name": "The 2026 World Cup",
-      "count": 4,
-      "url": "https://www.theguardian.com/fashion/2026/jun/05/fashion-goals-world-cup-style-tournament-kicked-off",
-      "source": "The Guardian"
-    },
-    {
-      "name": "A World Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/football/2026/jun/10/referee-omar-artan-given-heros-welcome-somalia-after-us-entry-blocked",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Stanley Cup Final",
-      "count": 3,
-      "url": "https://www.foxnews.com/sports/jordan-staals-two-goal-night-lifts-hurricanes-past-golden-knights-evening-stanley-cup-final-series",
-      "source": "Fox News"
-    },
-    {
-      "name": "The World Cup’S Strange Magic",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/06/10/opinion/world-cup-trump-fifa.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Game 4",
+      "name": "The Stanley Cup",
       "count": 2,
       "url": "https://www.theguardian.com/sport/2026/jun/09/hurricanes-golden-knights-stanley-cup-final-game-4-jordan-staal",
       "source": "The Guardian"
     },
     {
-      "name": "Black Hole Sun",
+      "name": "Sports Broadcasting Act",
       "count": 2,
-      "url": "https://www.theguardian.com/music/2026/jun/09/soundgarden-kim-thayil-interview-grunge-chris-cornell-kurt-cobain",
-      "source": "The Guardian"
+      "url": "https://www.foxnews.com/sports/clay-travis-goes-scorched-earth-nfl-sports-broadcasting-act-hearing-fans-getting-gouged",
+      "source": "Fox News"
     },
     {
-      "name": "Somali World Cup",
+      "name": "World Series",
       "count": 2,
-      "url": "https://www.foxnews.com/sports/somali-world-cup-ref-barred-us-association-suspected-members-terror-organizations-official",
+      "url": "https://www.foxnews.com/sports/world-series-champion-john-smoltz-warns-mlb-cannot-afford-work-stoppage-cba-set-expire",
       "source": "Fox News"
+    },
+    {
+      "name": "The Fifa World Cup",
+      "count": 2,
+      "url": "https://www.cbsnews.com/news/world-cup-referee-somalia-omar-artan-barred-entry-us/",
+      "source": "CBS News"
+    },
+    {
+      "name": "This World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/who-scored-blog/2026/jun/10/japan-ecuador-norway-dark-horses-world-cup-morocco-croatia-costa-rica",
+      "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 59,
-      "url": "https://www.theguardian.com/thefilter-us/2026/jun/09/caraway-saute-pan-review",
+      "count": 60,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/trump-denaturalization-american-citizenship",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 36,
+      "count": 48,
       "url": "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 32,
+      "count": 33,
       "url": "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 32,
-      "url": "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/06/10/opinion/california-slow-vote-primary.html",
       "source": "NY Times"
     },
     {
-      "name": "Maine",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html",
+      "name": "New York Is Buzzing With Watch Parties",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/06/10/nyregion/new-york-city-knicks-watch-parties.html",
       "source": "NY Times"
     },
     {
-      "name": "New York City",
-      "count": 21,
-      "url": "https://www.theguardian.com/football/video/2026/jun/06/zohran-mamdani-the-guardian-bracketology-predict-world-cup-winner-video",
-      "source": "The Guardian"
+      "name": "L.A. County",
+      "count": 13,
+      "url": "https://www.latimes.com/california/story/2026-06-09/supporters-of-la-county-healthcare-sales-tax-declare-victory",
+      "source": "LA Times"
     },
     {
       "name": "London",
-      "count": 19,
+      "count": 12,
       "url": "https://www.theguardian.com/lifeandstyle/2026/jun/10/homeless-man-porch-rutland-gate",
       "source": "The Guardian"
     },
     {
-      "name": "Nevada",
-      "count": 17,
-      "url": "https://www.npr.org/2026/06/10/nx-s1-5850242/trump-nevada-results-lombardo-ford-governor",
-      "source": "NPR"
-    },
-    {
       "name": "South Carolina",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ukraine",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html",
-      "source": "NY Times"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Graham Platner",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Bahrain      Trump",
-      "count": 16,
-      "url": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Joe Lombardo",
-      "count": 12,
-      "url": "https://www.npr.org/2026/06/10/nx-s1-5850242/trump-nevada-results-lombardo-ford-governor",
-      "source": "NPR"
-    },
-    {
-      "name": "Susan Collins",
       "count": 11,
       "url": "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html",
       "source": "NY Times"
     },
     {
-      "name": "Vladimir Putin",
+      "name": "Ukraine",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Belfast",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/06/10/world/europe/belfast-attack-riots-what-happened.html",
+      "source": "NY Times"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Graham Platner",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/05/17/us/the-big-questions-about-jeffrey-epstein-what-the-times-has-learned.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Bill Gates",
       "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/putin-trump-ukraine-iran-wars-authoritarian",
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/bill-gates-testimony-jeffrey-epstein",
       "source": "The Guardian"
     },
     {
@@ -168,60 +156,66 @@
       "source": "The Guardian"
     },
     {
-      "name": "Nancy Mace",
-      "count": 9,
-      "url": "https://www.foxnews.com/politics/south-carolina-gop-race-replace-nancy-mace-heads-runoff",
-      "source": "Fox News"
-    },
-    {
-      "name": "Karmelo Anthony",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/jun/09/karmelo-anthony-case-verdict",
+      "name": "Vladimir Putin",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/putin-trump-ukraine-iran-wars-authoritarian",
       "source": "The Guardian"
     },
     {
-      "name": "Austin Metcalf",
+      "name": "Susan Collins",
       "count": 6,
-      "url": "https://www.washingtonpost.com/nation/2026/06/10/texas-teenager-sentenced-35-years-prison-murder-high-school-student/",
-      "source": "Washington Post"
+      "url": "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Dua Lipa",
+      "count": 6,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/10/a-big-pouffy-dress-is-not-really-me-the-brides-who-got-wed-in-a-suit-long-before-dua-lipa",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Shot Andy Warhol",
+      "count": 6,
+      "url": "https://www.theguardian.com/film/2026/jun/10/i-shot-andy-warhol-mary-harron-director-interview-valerie-solanas-lili-taylor",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Patrick Gibson",
+      "count": 6,
+      "url": "https://www.theguardian.com/games/2026/jun/10/they-expect-you-to-die-the-history-of-james-bond-video-games-from-the-good-to-the-bad-to-the-downright-ugly",
+      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 55,
+      "count": 52,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
       "name": "Gop",
-      "count": 29,
-      "url": "https://www.foxnews.com/politics/trump-endorsed-candidate-will-face-top-gop-target-nevada-house-district",
+      "count": 16,
+      "url": "https://www.foxnews.com/politics/dan-sullivan-accuses-same-name-challenger-trying-rig-alaska-senate-race",
       "source": "Fox News"
     },
     {
-      "name": "The White House",
-      "count": 24,
-      "url": "https://www.latimes.com/sports/story/2026-06-09/lawsuit-ufc-freedom-250-white-house-south-lawn-trump",
-      "source": "LA Times"
-    },
-    {
-      "name": "Democratic Senate",
-      "count": 18,
-      "url": "https://www.cbsnews.com/video/graham-platner-wins-maine-democratic-senate-primary-cbs-news-projects-despite-scandals/",
-      "source": "CBS News"
+      "name": "Knicks Nba Finals",
+      "count": 14,
+      "url": "https://www.foxnews.com/outkick-sports/trump-tears-stephen-smith-feud-grows-arrogant-fool-low-iq-individual",
+      "source": "Fox News"
     },
     {
       "name": "Guardian News",
-      "count": 12,
+      "count": 13,
       "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
-      "name": "The New York Knicks",
-      "count": 11,
-      "url": "https://www.theguardian.com/sport/2026/jun/09/wembanyama-condemns-apparent-attacks-on-spurs-fans-in-new-york-during-nba-finals",
-      "source": "The Guardian"
+      "name": "House Oversight And Government Reform Committee",
+      "count": 13,
+      "url": "https://thehill.com/homenews/house/5918269-comer-dershowitz-blanche-interviews-epstein/",
+      "source": "The Hill"
     },
     {
       "name": "The Filter Us",
@@ -230,23 +224,29 @@
       "source": "The Guardian"
     },
     {
-      "name": "Nbc News",
+      "name": "Nba Finals Games",
       "count": 10,
-      "url": "https://www.nbcnews.com/nightly-news/video/u-s-launches-self-defense-strikes-against-iran-after-downing-of-helicopter-264846917677",
-      "source": "NBC News"
+      "url": "https://www.nytimes.com/2026/06/10/nyregion/new-york-city-knicks-watch-parties.html",
+      "source": "NY Times"
     },
     {
-      "name": "Nasa",
-      "count": 9,
-      "url": "https://www.theguardian.com/science/video/2026/jun/10/this-one-danced-and-snaked-nasa-astronaut-captures-aurora-australis-from-space-video",
+      "name": "The Us Senate",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/graham-platner-maine-senate-primary-victory",
       "source": "The Guardian"
     },
     {
-      "name": "Cbs News",
-      "count": 9,
-      "url": "https://www.cbsnews.com/news/south-carolina-governors-race-primary-results-republicans/",
-      "source": "CBS News"
+      "name": "Congress",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/trump-irs-immunity-audit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nbc News",
+      "count": 8,
+      "url": "https://www.nbcnews.com/nightly-news/video/key-test-for-democrats-in-maine-264851013804",
+      "source": "NBC News"
     }
   ],
-  "updated": "2026-06-10T10:59:08Z"
+  "updated": "2026-06-10T16:38:14Z"
 };
