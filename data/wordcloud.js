@@ -2,223 +2,178 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    81,
-    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
-  ],
-  [
-    "primary",
-    69,
-    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html"
+    86,
+    "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html"
   ],
   [
     "cup",
-    64,
-    "https://www.washingtonpost.com/nation/2026/06/09/states-bump-last-call-world-cup-giving-soccer-fans-more-time-drink/"
+    74,
+    "https://www.nytimes.com/2026/06/10/podcasts/the-headlines/europe-drones-world-cup-referee.html"
   ],
   [
-    "president",
-    41,
-    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
-  ],
-  [
-    "graham",
-    39,
-    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html"
-  ],
-  [
-    "south",
-    38,
-    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html"
-  ],
-  [
-    "gop",
-    38,
-    "https://www.npr.org/2026/06/09/nx-s1-5851591/trump-south-carolina-evette-wilson-governor"
-  ],
-  [
-    "california",
-    37,
-    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
-  ],
-  [
-    "race",
-    36,
-    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
-  ],
-  [
-    "democratic",
-    36,
-    "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html"
-  ],
-  [
-    "governor",
-    35,
-    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
-  ],
-  [
-    "republican",
-    35,
-    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
-  ],
-  [
-    "carolina",
-    35,
-    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html"
-  ],
-  [
-    "senate",
-    32,
-    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html"
-  ],
-  [
-    "platner",
-    29,
-    "https://www.theguardian.com/us-news/2026/jun/09/graham-platner-maine-senate-primary"
-  ],
-  [
-    "maine",
-    29,
-    "https://www.theguardian.com/us-news/2026/jun/09/graham-platner-maine-senate-primary"
-  ],
-  [
-    "democrats",
-    27,
-    "https://www.nytimes.com/2026/06/09/us/politics/pan-ho-kiley-california-primary.html"
-  ],
-  [
-    "game",
-    26,
-    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
-  ],
-  [
-    "runoff",
-    25,
-    "https://www.nytimes.com/2026/06/09/us/politics/nancy-lacore-mace-south-carolina.html"
+    "primary",
+    54,
+    "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html"
   ],
   [
     "iran",
-    25,
-    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
+    40,
+    "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html"
   ],
   [
-    "election",
-    24,
+    "president",
+    39,
     "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
   ],
   [
-    "district",
-    24,
-    "https://www.nytimes.com/2026/06/09/us/politics/bains-villegas-california-democrats-primary.html"
+    "game",
+    33,
+    "https://www.nytimes.com/2026/06/10/arts/television/late-night-trump-nba-finals.html"
   ],
   [
-    "nevada",
-    23,
-    "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html"
-  ],
-  [
-    "final",
-    23,
-    "https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html"
+    "california",
+    30,
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
   ],
   [
     "fans",
-    22,
-    "https://www.washingtonpost.com/nation/2026/06/09/states-bump-last-call-world-cup-giving-soccer-fans-more-time-drink/"
+    29,
+    "https://www.nytimes.com/2026/06/10/us/san-antonio-spurs-fans.html"
   ],
   [
-    "wins",
-    21,
+    "gop",
+    29,
+    "https://www.foxnews.com/politics/trump-endorsed-candidate-will-face-top-gop-target-nevada-house-district"
+  ],
+  [
+    "war",
+    28,
+    "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html"
+  ],
+  [
+    "senate",
+    28,
+    "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html"
+  ],
+  [
+    "maine",
+    27,
+    "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html"
+  ],
+  [
+    "governor",
+    27,
     "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
   ],
   [
-    "general",
-    21,
-    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
-  ],
-  [
-    "something",
-    21,
-    "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html"
-  ],
-  [
-    "london",
-    21,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/10/homeless-man-porch-rutland-gate"
-  ],
-  [
-    "team",
-    20,
-    "https://www.washingtonpost.com/nation/2026/06/08/he-grabbed-mic-riff-about-knicks-his-rhyme-became-an-anthem-unity/"
-  ],
-  [
-    "cbs",
-    20,
-    "https://www.theguardian.com/us-news/2026/jun/09/alligator-attacks-man-fleeing-police-louisiana"
+    "final",
+    27,
+    "https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html"
   ],
   [
     "win",
-    19,
-    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html"
+    27,
+    "https://www.theguardian.com/sport/2026/jun/10/chuck-d-new-york-knicks-nba-finals"
   ],
   [
-    "gov",
+    "graham",
+    25,
+    "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html"
+  ],
+  [
+    "platner",
+    25,
+    "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html"
+  ],
+  [
+    "democratic",
+    25,
+    "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html"
+  ],
+  [
+    "york",
+    25,
+    "https://www.nytimes.com/2026/06/10/magazine/epstein-files-trump-white-house-takeaways.html"
+  ],
+  [
+    "republican",
+    24,
+    "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html"
+  ],
+  [
+    "nevada",
+    24,
+    "https://www.latimes.com/california/story/2026-06-09/couple-their-dogs-attacked-by-bear-in-mammoth-lakes-bear-euthanized"
+  ],
+  [
+    "south",
+    22,
+    "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html"
+  ],
+  [
+    "race",
+    22,
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
+  ],
+  [
+    "night",
+    21,
+    "https://www.nytimes.com/2026/06/10/arts/television/late-night-trump-nba-finals.html"
+  ],
+  [
+    "carolina",
+    20,
+    "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html"
+  ],
+  [
+    "series",
+    20,
+    "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html"
+  ],
+  [
+    "watch",
+    20,
+    "https://www.nytimes.com/2026/06/10/nyregion/new-york-city-knicks-watch-parties.html"
+  ],
+  [
+    "past",
+    20,
+    "https://www.nytimes.com/2026/06/10/opinion/california-slow-vote-primary.html"
+  ],
+  [
+    "london",
+    20,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/10/homeless-man-porch-rutland-gate"
+  ],
+  [
+    "democrats",
+    20,
+    "https://www.theguardian.com/us-news/2026/jun/09/house-immigration-bill-funding"
+  ],
+  [
+    "something",
     19,
-    "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html"
+    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
   ],
   [
     "film",
     19,
-    "https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular"
+    "https://www.theguardian.com/music/2026/jun/10/peter-asher-everywhere-man-film"
   ],
   [
-    "won",
-    19,
-    "https://www.theguardian.com/sport/2026/jun/09/cooper-lutkenhaus-teenage-sporting-phenoms-athletics"
-  ],
-  [
-    "democrat",
+    "games",
     18,
-    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
+    "https://www.theguardian.com/lifeandstyle/2026/jun/10/a-moment-that-changed-me-climbed-tower-aged-nine-discovered-how-i-wanted-to-live"
   ],
   [
-    "rep",
-    18,
-    "https://www.nytimes.com/2026/06/09/us/politics/pan-ho-kiley-california-primary.html"
-  ],
-  [
-    "war",
-    18,
-    "https://www.nytimes.com/2026/06/09/opinion/middle-east-war-accountability-iran-us-trump.html"
-  ],
-  [
-    "food",
-    18,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/09/crazy-cat-lady-sterotype"
-  ],
-  [
-    "night",
-    18,
-    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
-  ],
-  [
-    "wilson",
-    18,
-    "https://www.theguardian.com/football/2026/jun/09/uswnt-brazil-friendly-fortaleza-sophia-wilson-own-goal"
-  ],
-  [
-    "sen",
-    18,
-    "https://www.foxnews.com/politics/trump-endorsed-candidate-will-face-top-gop-target-nevada-house-district"
-  ],
-  [
-    "term",
+    "campaign",
     17,
-    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html"
+    "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html"
   ],
   [
-    "attorney",
+    "military",
     17,
-    "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html"
+    "https://www.nytimes.com/video/world/100000010854469/visiting-a-soldiers-funeral-in-ukraine.html"
   ],
   [
     "bill",
@@ -226,34 +181,24 @@
     "https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html"
   ],
   [
-    "murder",
+    "food",
     17,
-    "https://www.washingtonpost.com/nation/2026/06/10/texas-teenager-sentenced-35-years-prison-murder-high-school-student/"
-  ],
-  [
-    "collins",
-    17,
-    "https://www.theguardian.com/us-news/2026/jun/09/graham-platner-maine-senate-primary"
-  ],
-  [
-    "political",
-    17,
-    "https://www.theguardian.com/us-news/2026/jun/09/graham-platner-maine-senate-primary"
-  ],
-  [
-    "games",
-    17,
-    "https://www.theguardian.com/football/2026/jun/09/iran-federation-says-ticket-allocation-has-been-pulled-days-before-start-of-world-cup"
+    "https://www.theguardian.com/environment/2026/jun/10/pollinators-in-peril-scientists-reveal-the-hidden-human-health-costs-of-the-worlds-disappearing-bees-aoe"
   ],
   [
     "young",
     17,
-    "https://www.theguardian.com/film/2026/jun/09/signal-one-review-alien-drama-dennis-quaid-david-thewlis"
+    "https://www.theguardian.com/film/2026/jun/10/boogie-nights-review-paul-thomas-anderson-porn-movie"
   ],
   [
-    "family",
-    17,
-    "https://www.theguardian.com/music/2026/jun/08/bedouine-strangeness-of-arab-life-outside-the-middle-east"
+    "victory",
+    16,
+    "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html"
+  ],
+  [
+    "won",
+    16,
+    "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html"
   ],
   [
     "republicans",
@@ -261,99 +206,84 @@
     "https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html"
   ],
   [
+    "stars",
+    16,
+    "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
+  ],
+  [
+    "district",
+    16,
+    "https://www.theguardian.com/environment/2026/jun/10/pollinators-in-peril-scientists-reveal-the-hidden-human-health-costs-of-the-worlds-disappearing-bees-aoe"
+  ],
+  [
+    "country",
+    15,
+    "https://www.nytimes.com/2026/06/09/world/middleeast/lebanon-israel-nabatieh.html"
+  ],
+  [
+    "epstein",
+    15,
+    "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html"
+  ],
+  [
     "million",
-    16,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "despite",
-    16,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "director",
-    16,
-    "https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular"
-  ],
-  [
-    "york",
-    16,
-    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
-  ],
-  [
-    "series",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/09/graham-platner-maine-senate-primary"
-  ],
-  [
-    "nbc",
-    16,
-    "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live"
-  ],
-  [
-    "projects",
-    16,
-    "https://www.cbsnews.com/news/south-carolina-governors-race-primary-results-republicans/"
-  ],
-  [
-    "joe",
     15,
-    "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html"
+    "https://www.nytimes.com/2026/06/09/technology/solvinity-kyndryl-blocked-deal-us-europe-rift.html"
   ],
   [
-    "lombardo",
+    "team",
     15,
-    "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html"
+    "https://www.nytimes.com/2026/06/10/style/knicks-fans-msg-nba-finals-fashion.html"
   ],
   [
-    "american",
+    "family",
     15,
-    "https://www.washingtonpost.com/obituaries/2026/06/08/obituary-gordon-s-wood-eminent-historian-american-revolution/"
+    "https://www.theguardian.com/lifeandstyle/2026/jun/10/a-moment-that-changed-me-climbed-tower-aged-nine-discovered-how-i-wanted-to-live"
   ],
   [
-    "donald",
+    "guide",
     15,
-    "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs"
+    "https://www.theguardian.com/thefilter-us/2026/jun/09/caraway-saute-pan-review"
   ],
   [
-    "summer",
+    "video",
     15,
-    "https://www.theguardian.com/football/2026/jun/09/meet-the-philosopher-in-training-who-will-be-at-the-var-monitor-this-world-cup"
+    "https://www.theguardian.com/us-news/2026/jun/10/navy-member-strangling-sailor-aircraft-carrier"
   ],
   [
-    "gubernatorial",
+    "sen",
     15,
-    "https://www.foxnews.com/politics/nevadas-top-cop-wins-primary-takes-gov-lombardo"
+    "https://www.foxnews.com/opinion/sen-kevin-cramer-china-builds-war-america-waits-permits"
   ],
   [
-    "advance",
+    "wins",
     14,
     "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
   ],
   [
-    "congressional",
+    "democrat",
     14,
-    "https://www.nytimes.com/2026/06/09/us/politics/pan-ho-kiley-california-primary.html"
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
   ],
   [
-    "meet",
+    "runoff",
     14,
-    "https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-nasa-crew.html"
+    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-governor-republican-evette-wilson.html"
   ],
   [
-    "nasa",
+    "gov",
     14,
-    "https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-nasa-crew.html"
+    "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-governor-republican-evette-wilson.html"
   ],
   [
-    "released",
+    "donald",
     14,
-    "https://www.washingtonpost.com/religion/2026/06/08/after-outcry-mormon-lawmakers-pentagon-updates-religious-codes/"
+    "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html"
   ],
   [
-    "states",
+    "ukraine",
     14,
-    "https://www.washingtonpost.com/nation/2026/06/09/states-bump-last-call-world-cup-giving-soccer-fans-more-time-drink/"
+    "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html"
   ],
   [
     "west",
@@ -361,18 +291,88 @@
     "https://www.washingtonpost.com/nation/2026/06/06/after-massive-die-off-west-coast-sea-stars-experience-resurgence/"
   ],
   [
-    "campaign",
+    "lombardo",
     14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.npr.org/2026/06/10/nx-s1-5850242/trump-nevada-results-lombardo-ford-governor"
   ],
   [
-    "past",
-    14,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "attacks",
+    13,
+    "https://www.nytimes.com/2026/06/10/business/oil-stocks-gas-prices-iran.html"
   ],
   [
-    "social",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jun/09/elon-musk-trillionaire-oligarchy"
+    "states",
+    13,
+    "https://www.nytimes.com/2026/06/10/business/oil-stocks-gas-prices-iran.html"
+  ],
+  [
+    "collins",
+    13,
+    "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html"
+  ],
+  [
+    "general",
+    13,
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
+  ],
+  [
+    "election",
+    13,
+    "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.nytimes.com/2026/06/09/technology/solvinity-kyndryl-blocked-deal-us-europe-rift.html"
+  ],
+  [
+    "immigration",
+    13,
+    "https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html"
+  ],
+  [
+    "knicks",
+    13,
+    "https://www.nytimes.com/2026/06/10/us/san-antonio-spurs-fans.html"
+  ],
+  [
+    "murder",
+    13,
+    "https://www.washingtonpost.com/nation/2026/06/10/texas-teenager-sentenced-35-years-prison-murder-high-school-student/"
+  ],
+  [
+    "school",
+    13,
+    "https://www.washingtonpost.com/nation/2026/06/10/texas-teenager-sentenced-35-years-prison-murder-high-school-student/"
+  ],
+  [
+    "released",
+    13,
+    "https://www.washingtonpost.com/religion/2026/06/08/after-outcry-mormon-lawmakers-pentagon-updates-religious-codes/"
+  ],
+  [
+    "director",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/10/trump-bill-pulte-intelligence-director"
+  ],
+  [
+    "media",
+    13,
+    "https://www.theguardian.com/world/2026/jun/10/japanese-manga-anime-fans-urge-trump-to-stop-using-characters-social-media-posts"
+  ],
+  [
+    "joe",
+    13,
+    "https://www.theguardian.com/football/2026/jun/09/meet-the-philosopher-in-training-who-will-be-at-the-var-monitor-this-world-cup"
+  ],
+  [
+    "water",
+    13,
+    "https://www.theguardian.com/commentisfree/picture/2026/jun/10/do-we-really-need-gigantic-noisy-water-guzzling-datacentres-ruining-our-communities-in-this-economy"
+  ],
+  [
+    "fire",
+    12,
+    "https://www.nytimes.com/2026/06/09/world/middleeast/lebanon-israel-nabatieh.html"
   ]
 ];

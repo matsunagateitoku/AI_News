@@ -2,16 +2,34 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "The 2014 World Cup",
-      "count": 37,
-      "url": "https://www.theguardian.com/football/2026/jun/09/harry-kane-england-team-thomas-tuchel-world-cup",
+      "name": "World Cup Experts’ Network",
+      "count": 39,
+      "url": "https://www.theguardian.com/football/2026/jun/10/uzbekistan-world-cup-2026-team-guide",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 13,
-      "url": "https://www.washingtonpost.com/nation/2026/06/09/states-bump-last-call-world-cup-giving-soccer-fans-more-time-drink/",
-      "source": "Washington Post"
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/06/10/world/americas/world-cup-immigration-problems.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Iran War",
+      "count": 4,
+      "url": "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The 2026 World Cup",
+      "count": 4,
+      "url": "https://www.theguardian.com/fashion/2026/jun/05/fashion-goals-world-cup-style-tournament-kicked-off",
+      "source": "The Guardian"
+    },
+    {
+      "name": "A World Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/football/2026/jun/10/referee-omar-artan-given-heros-welcome-somalia-after-us-entry-blocked",
+      "source": "The Guardian"
     },
     {
       "name": "The Stanley Cup Final",
@@ -20,15 +38,15 @@
       "source": "Fox News"
     },
     {
+      "name": "The World Cup’S Strange Magic",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/06/10/opinion/world-cup-trump-fifa.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Game 4",
       "count": 2,
       "url": "https://www.theguardian.com/sport/2026/jun/09/hurricanes-golden-knights-stanley-cup-final-game-4-jordan-staal",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The World Cup’S",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/jun/09/cooper-lutkenhaus-teenage-sporting-phenoms-athletics",
       "source": "The Guardian"
     },
     {
@@ -38,190 +56,110 @@
       "source": "The Guardian"
     },
     {
-      "name": "Ufc Freedom 250",
+      "name": "Somali World Cup",
       "count": 2,
-      "url": "https://www.latimes.com/sports/story/2026-06-09/lawsuit-ufc-freedom-250-white-house-south-lawn-trump",
-      "source": "LA Times"
-    },
-    {
-      "name": "The Super Bowl-Style",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jun/09/world-cup-94-chief-alan-rothenberg-we-wanted-whitney-houston-on-the-pitch-but-fifa-said-no",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Us World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jun/09/usmnt-world-cup-goals-ranked",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Series",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/jun/09/hurricanes-golden-knights-stanley-cup-final-game-4-jordan-staal",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Target For Trump",
-      "count": 52,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Gop",
-      "count": 39,
-      "url": "https://www.npr.org/2026/06/09/nx-s1-5851591/trump-south-carolina-evette-wilson-governor",
-      "source": "NPR"
-    },
-    {
-      "name": "The White House",
-      "count": 26,
-      "url": "https://www.latimes.com/sports/story/2026-06-09/lawsuit-ufc-freedom-250-white-house-south-lawn-trump",
-      "source": "LA Times"
-    },
-    {
-      "name": "Democratic Senate",
-      "count": 19,
-      "url": "https://www.cbsnews.com/video/graham-platner-wins-maine-democratic-senate-primary-cbs-news-projects-despite-scandals/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Nasa",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-nasa-crew.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Cbs News",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/jun/09/alligator-attacks-man-fleeing-police-louisiana",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nbc News",
-      "count": 13,
-      "url": "https://www.nbcnews.com/nightly-news/video/u-s-launches-self-defense-strikes-against-iran-after-downing-of-helicopter-264846917677",
-      "source": "NBC News"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian News",
-      "count": 11,
-      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Wilson",
-      "count": 8,
-      "url": "https://www.theguardian.com/football/2026/jun/09/uswnt-brazil-friendly-fortaleza-sophia-wilson-own-goal",
-      "source": "The Guardian"
+      "url": "https://www.foxnews.com/sports/somali-world-cup-ref-barred-us-association-suspected-members-terror-organizations-official",
+      "source": "Fox News"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 62,
+      "count": 59,
       "url": "https://www.theguardian.com/thefilter-us/2026/jun/09/caraway-saute-pan-review",
       "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 40,
-      "url": "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html",
+      "name": "Iran",
+      "count": 36,
+      "url": "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 31,
-      "url": "https://www.washingtonpost.com/obituaries/2026/06/08/obituary-gordon-s-wood-eminent-historian-american-revolution/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "South Carolina",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html",
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html",
       "source": "NY Times"
     },
     {
-      "name": "Iran",
-      "count": 25,
-      "url": "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs",
-      "source": "The Guardian"
+      "name": "California",
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html",
+      "source": "NY Times"
     },
     {
       "name": "Maine",
       "count": 21,
-      "url": "https://www.theguardian.com/us-news/2026/jun/09/graham-platner-maine-senate-primary",
+      "url": "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 21,
+      "url": "https://www.theguardian.com/football/video/2026/jun/06/zohran-mamdani-the-guardian-bracketology-predict-world-cup-winner-video",
       "source": "The Guardian"
     },
     {
       "name": "London",
-      "count": 20,
+      "count": 19,
       "url": "https://www.theguardian.com/lifeandstyle/2026/jun/10/homeless-man-porch-rutland-gate",
       "source": "The Guardian"
     },
     {
       "name": "Nevada",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html",
+      "count": 17,
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5850242/trump-nevada-results-lombardo-ford-governor",
+      "source": "NPR"
+    },
+    {
+      "name": "South Carolina",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html",
       "source": "NY Times"
     },
     {
-      "name": "New York",
+      "name": "Ukraine",
       "count": 14,
-      "url": "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Los Angeles",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/jun/09/pacoima-pollution-air-sensors-monitoring",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html",
+      "source": "NY Times"
     }
   ],
   "PERSON": [
     {
       "name": "Graham Platner",
-      "count": 28,
-      "url": "https://www.theguardian.com/us-news/2026/jun/09/graham-platner-maine-senate-primary",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Bahrain      Trump",
+      "count": 16,
+      "url": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
       "source": "The Guardian"
     },
     {
       "name": "Donald Trump",
-      "count": 25,
-      "url": "https://www.theguardian.com/sport/2026/jun/09/donald-trump-nba-finals-knicks-spurs",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nancy Mace",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/06/09/us/politics/nancy-lacore-mace-south-carolina.html",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Susan Collins",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/jun/09/graham-platner-maine-senate-primary",
-      "source": "The Guardian"
     },
     {
       "name": "Joe Lombardo",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html",
+      "count": 12,
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5850242/trump-nevada-results-lombardo-ford-governor",
+      "source": "NPR"
+    },
+    {
+      "name": "Susan Collins",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html",
       "source": "NY Times"
     },
     {
-      "name": "Lindsey Graham Wins",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html",
-      "source": "NY Times"
+      "name": "Vladimir Putin",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/putin-trump-ukraine-iran-wars-authoritarian",
+      "source": "The Guardian"
     },
     {
       "name": "Steven Spielberg",
@@ -230,23 +168,85 @@
       "source": "The Guardian"
     },
     {
-      "name": "Karmelo Anthony",
+      "name": "Nancy Mace",
       "count": 9,
+      "url": "https://www.foxnews.com/politics/south-carolina-gop-race-replace-nancy-mace-heads-runoff",
+      "source": "Fox News"
+    },
+    {
+      "name": "Karmelo Anthony",
+      "count": 8,
       "url": "https://www.theguardian.com/us-news/2026/jun/09/karmelo-anthony-case-verdict",
       "source": "The Guardian"
     },
     {
-      "name": "Alan Wilson",
-      "count": 9,
-      "url": "https://www.npr.org/2026/06/09/nx-s1-5851591/trump-south-carolina-evette-wilson-governor",
-      "source": "NPR"
+      "name": "Austin Metcalf",
+      "count": 6,
+      "url": "https://www.washingtonpost.com/nation/2026/06/10/texas-teenager-sentenced-35-years-prison-murder-high-school-student/",
+      "source": "Washington Post"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Target For Trump",
+      "count": 55,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "Graham Platner'S",
+      "name": "Gop",
+      "count": 29,
+      "url": "https://www.foxnews.com/politics/trump-endorsed-candidate-will-face-top-gop-target-nevada-house-district",
+      "source": "Fox News"
+    },
+    {
+      "name": "The White House",
+      "count": 24,
+      "url": "https://www.latimes.com/sports/story/2026-06-09/lawsuit-ufc-freedom-250-white-house-south-lawn-trump",
+      "source": "LA Times"
+    },
+    {
+      "name": "Democratic Senate",
+      "count": 18,
+      "url": "https://www.cbsnews.com/video/graham-platner-wins-maine-democratic-senate-primary-cbs-news-projects-despite-scandals/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Guardian News",
+      "count": 12,
+      "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The New York Knicks",
+      "count": 11,
+      "url": "https://www.theguardian.com/sport/2026/jun/09/wembanyama-condemns-apparent-attacks-on-spurs-fans-in-new-york-during-nba-finals",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nbc News",
+      "count": 10,
+      "url": "https://www.nbcnews.com/nightly-news/video/u-s-launches-self-defense-strikes-against-iran-after-downing-of-helicopter-264846917677",
+      "source": "NBC News"
+    },
+    {
+      "name": "Nasa",
       "count": 9,
-      "url": "https://www.cbsnews.com/news/maine-senate-primary-graham-platner-susan-collins-south-carolina-nevada-north-dakota/",
+      "url": "https://www.theguardian.com/science/video/2026/jun/10/this-one-danced-and-snaked-nasa-astronaut-captures-aurora-australis-from-space-video",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cbs News",
+      "count": 9,
+      "url": "https://www.cbsnews.com/news/south-carolina-governors-race-primary-results-republicans/",
       "source": "CBS News"
     }
   ],
-  "updated": "2026-06-10T05:23:08Z"
+  "updated": "2026-06-10T10:59:08Z"
 };
