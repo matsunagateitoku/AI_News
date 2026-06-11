@@ -2,128 +2,143 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "cup",
-    89,
-    "https://www.nytimes.com/2026/06/11/world/americas/world-cup-fractured-north-america.html"
+    86,
+    "https://www.nytimes.com/2026/06/11/briefing/the-world-cup.html"
   ],
   [
     "trump",
-    72,
-    "https://www.nytimes.com/2026/06/11/podcasts/the-headlines/trump-inflation-australia-social-media-ban.html"
-  ],
-  [
-    "game",
-    44,
-    "https://www.nytimes.com/2026/06/11/nyregion/knicks-game-4-fans-nba-finals-nyc.html"
+    64,
+    "https://www.nytimes.com/2026/06/11/us/politics/trump-hegseth-military-operations.html"
   ],
   [
     "president",
-    41,
-    "https://www.nytimes.com/2026/06/10/technology/microsoft-satya-nadella-artificial-intelligence.html"
+    42,
+    "https://www.nytimes.com/2026/06/11/us/politics/trump-california-vote-elections-investigations.html"
+  ],
+  [
+    "york",
+    36,
+    "https://www.theguardian.com/sport/2026/jun/11/new-york-knicks-comeback-nba-finals-team-of-destiny"
+  ],
+  [
+    "game",
+    32,
+    "https://www.theguardian.com/sport/2026/jun/11/new-york-knicks-comeback-nba-finals-team-of-destiny"
   ],
   [
     "iran",
-    32,
-    "https://www.nytimes.com/2026/06/11/world/africa/deportations-central-african-republic-migrants-iran-women.html"
-  ],
-  [
-    "mexico",
-    32,
-    "https://www.nytimes.com/2026/06/11/world/americas/world-cup-fractured-north-america.html"
-  ],
-  [
-    "knicks",
-    30,
-    "https://www.nytimes.com/2026/06/11/nyregion/knicks-game-4-fans-nba-finals-nyc.html"
-  ],
-  [
-    "fifa",
-    27,
-    "https://www.theguardian.com/football/live/2026/jun/11/world-cup-2026-countdown-opener-mexico-south-africa-south-korea-czechialive"
-  ],
-  [
-    "watch",
-    26,
-    "https://www.nytimes.com/2026/06/10/nyregion/knicks-spurs-party.html"
-  ],
-  [
-    "democrats",
-    26,
-    "https://www.nytimes.com/2026/06/11/climate/democrats-climate-change-oil-gas.html"
+    31,
+    "https://www.nytimes.com/2026/06/11/world/middleeast/iran-attacks-kuwait-bahrain-gulf-states.html"
   ],
   [
     "games",
     26,
-    "https://www.theguardian.com/culture/ng-interactive/2026/jun/11/the-best-games-of-2026-so-far"
+    "https://www.theguardian.com/football/2026/jun/11/world-cup-group-games-10-not-miss-scotland-brazil-netherlands-japan-france-senegal"
   ],
   [
-    "york",
-    23,
-    "https://www.nytimes.com/2026/06/11/nyregion/knicks-game-4-fans-nba-finals-nyc.html"
+    "mexico",
+    24,
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "video",
-    23,
-    "https://www.theguardian.com/film/2026/jun/11/ghostbusters-2016-all-female-10-years-paul-feig"
+    "knicks",
+    24,
+    "https://www.theguardian.com/sport/2026/jun/11/new-york-knicks-comeback-nba-finals-team-of-destiny"
   ],
   [
-    "nba",
-    22,
-    "https://www.theguardian.com/sport/2026/jun/10/wembanyama-spurs-knicks-game-4-nba-finals-series-tied"
-  ],
-  [
-    "finals",
+    "watch",
     21,
-    "https://www.nytimes.com/2026/06/11/nyregion/knicks-game-4-fans-nba-finals-nyc.html"
+    "https://www.nytimes.com/2026/06/11/arts/television/summer-tv-shows.html"
   ],
   [
-    "film",
+    "democrats",
     21,
-    "https://www.theguardian.com/film/2026/jun/11/stop-that-train-movie-review-rupaul"
-  ],
-  [
-    "election",
-    20,
-    "https://www.washingtonpost.com/nation/2026/06/09/texas-city-was-already-struggling-with-racial-divisions-then-came-bitter-murder-trial/"
+    "https://www.nytimes.com/2026/06/11/climate/democrats-climate-change-oil-gas.html"
   ],
   [
     "history",
+    21,
+    "https://www.nytimes.com/2026/06/11/opinion/platner-trump-character-leadership.html"
+  ],
+  [
+    "team",
+    21,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "nba",
+    21,
+    "https://www.theguardian.com/sport/2026/jun/11/new-york-knicks-comeback-nba-finals-team-of-destiny"
+  ],
+  [
+    "place",
     20,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/11/best-tv-villains-vecna-stranger-things-mr-burns-simpsons"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/11/oklahoma-state-penitentiary-dungeon-tombs-prisoners"
   ],
   [
-    "football",
-    20,
-    "https://www.theguardian.com/world/2026/jun/11/mexico-football-pitches-aerial-photo-essay"
-  ],
-  [
-    "loss",
+    "war",
     19,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/06/11/world/middleeast/iran-attacks-kuwait-bahrain-gulf-states.html"
   ],
   [
-    "family",
+    "fire",
     19,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/11/claudia-sheinbaum-the-wildly-popular-mexican-president-dealing-with-drug-violence-disappearances-and-donald-trump"
-  ],
-  [
-    "senate",
-    19,
-    "https://www.cbsnews.com/video/breaking-down-maine-south-carolina-primary-results/"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "don",
-    18,
+    19,
     "https://www.theguardian.com/commentisfree/2026/jun/11/trump-california-vote-rigging-claims"
   ],
   [
-    "children",
-    18,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/11/best-tv-villains-vecna-stranger-things-mr-burns-simpsons"
+    "video",
+    19,
+    "https://www.theguardian.com/environment/2026/jun/11/great-white-shark-nantucket-beach-catch"
   ],
   [
-    "night",
+    "american",
     18,
-    "https://www.theguardian.com/sport/2026/jun/10/wembanyama-spurs-knicks-game-4-nba-finals-series-tied"
+    "https://www.nytimes.com/2026/06/11/world/middleeast/iran-attacks-kuwait-bahrain-gulf-states.html"
+  ],
+  [
+    "election",
+    18,
+    "https://www.nytimes.com/2026/06/11/us/politics/trump-california-vote-elections-investigations.html"
+  ],
+  [
+    "island",
+    18,
+    "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis"
+  ],
+  [
+    "film",
+    18,
+    "https://www.theguardian.com/film/2026/jun/11/tom-hanks-tim-allen-interview-toy-story-5-tech-pixar-joan-cusack"
+  ],
+  [
+    "pentagon",
+    18,
+    "https://www.foxnews.com/politics/severe-pentagon-lockdown-sparks-emergency-response-hazmat-teams-sweep-area"
+  ],
+  [
+    "summer",
+    17,
+    "https://www.nytimes.com/2026/06/11/arts/television/summer-tv-shows.html"
+  ],
+  [
+    "online",
+    17,
+    "https://www.nytimes.com/2026/06/11/world/europe/northern-ireland-stabbing-immigration.html"
+  ],
+  [
+    "air",
+    17,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "finals",
+    17,
+    "https://www.theguardian.com/sport/2026/jun/11/new-york-knicks-comeback-nba-finals-team-of-destiny"
   ],
   [
     "california",
@@ -131,144 +146,104 @@
     "https://www.theguardian.com/commentisfree/2026/jun/11/trump-california-vote-rigging-claims"
   ],
   [
-    "spurs",
+    "media",
     17,
-    "https://www.theguardian.com/sport/2026/jun/10/wembanyama-spurs-knicks-game-4-nba-finals-series-tied"
+    "https://www.theguardian.com/commentisfree/2026/jun/11/trump-california-vote-rigging-claims"
   ],
   [
-    "social",
-    16,
-    "https://www.nytimes.com/2026/06/11/podcasts/the-headlines/trump-inflation-australia-social-media-ban.html"
+    "fifa",
+    17,
+    "https://www.theguardian.com/football/live/2026/jun/11/world-cup-2026-countdown-opener-mexico-south-africa-south-korea-czechialive"
   ],
   [
-    "released",
-    16,
-    "https://www.washingtonpost.com/religion/2026/06/08/after-outcry-mormon-lawmakers-pentagon-updates-religious-codes/"
+    "food",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/jun/09/caraway-saute-pan-review"
   ],
   [
-    "bond",
+    "future",
     16,
-    "https://www.theguardian.com/film/2026/jun/11/steven-spielberg-asked-to-direct-bond-movies-but-was-turned-down-twice"
+    "https://www.nytimes.com/2026/06/11/us/politics/trump-hegseth-military-operations.html"
   ],
   [
-    "lead",
+    "elections",
     16,
-    "https://www.theguardian.com/sport/2026/jun/10/wembanyama-spurs-knicks-game-4-nba-finals-series-tied"
+    "https://www.nytimes.com/2026/06/11/us/politics/trump-california-vote-elections-investigations.html"
+  ],
+  [
+    "young",
+    16,
+    "https://www.nytimes.com/2026/06/11/us/politics/gen-z-politicians-housing-costs.html"
+  ],
+  [
+    "loss",
+    16,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "court",
     16,
-    "https://www.theguardian.com/sport/2026/jun/11/deaaron-fox-spurs-knicks-game-4-collapse-nba-finals"
-  ],
-  [
-    "experience",
-    16,
-    "https://www.theguardian.com/football/2026/jun/09/uswnt-brazil-friendly-fortaleza-sophia-wilson-own-goal"
-  ],
-  [
-    "primary",
-    16,
-    "https://www.latimes.com/california/story/2026-06-11/la-voters-are-stuck-with-status-quo-in-city-hall"
-  ],
-  [
-    "country",
-    15,
-    "https://www.nytimes.com/2026/06/11/world/africa/deportations-central-african-republic-migrants-iran-women.html"
-  ],
-  [
-    "water",
-    15,
-    "https://www.nytimes.com/2026/06/10/world/middleeast/precision-strike-iran-water.html"
-  ],
-  [
-    "war",
-    15,
-    "https://www.nytimes.com/2026/06/10/world/middleeast/precision-strike-iran-water.html"
-  ],
-  [
-    "energy",
-    15,
-    "https://www.nytimes.com/2026/06/11/business/european-central-bank-inflation-interest-rates.html"
-  ],
-  [
-    "fans",
-    15,
-    "https://www.nytimes.com/2026/06/11/nyregion/knicks-game-4-fans-nba-finals-nyc.html"
-  ],
-  [
-    "climate",
-    15,
-    "https://www.nytimes.com/2026/06/11/climate/democrats-climate-change-oil-gas.html"
-  ],
-  [
-    "young",
-    15,
-    "https://www.nytimes.com/2026/06/11/us/politics/gen-z-politicians-housing-costs.html"
-  ],
-  [
-    "summer",
-    15,
-    "https://www.nytimes.com/2026/06/11/arts/television/29-shows-to-watch-this-summer.html"
-  ],
-  [
-    "support",
-    15,
-    "https://www.nytimes.com/2026/06/11/us/politics/conor-mcgregor-ufc-drugs.html"
-  ],
-  [
-    "million",
-    15,
-    "https://www.nytimes.com/2026/06/11/nyregion/nyc-subway-art-susan-bird.html"
-  ],
-  [
-    "school",
-    15,
-    "https://www.washingtonpost.com/nation/2026/06/10/texas-teenager-sentenced-35-years-prison-murder-high-school-student/"
-  ],
-  [
-    "fire",
-    15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/us-news/live/2026/jun/11/democrats-republicans-midterms-tech-laws-scotus-latest-news-updates"
   ],
   [
     "guide",
-    15,
+    16,
     "https://www.theguardian.com/football/live/2026/jun/11/world-cup-2026-countdown-opener-mexico-south-africa-south-korea-czechialive"
   ],
   [
-    "health",
+    "social",
+    16,
+    "https://www.theguardian.com/environment/2026/jun/11/great-white-shark-nantucket-beach-catch"
+  ],
+  [
+    "guilty",
     15,
-    "https://www.theguardian.com/commentisfree/2026/jun/11/ai-tasks-errands-health"
+    "https://www.washingtonpost.com/nation/2026/06/11/gunman-expected-plead-guilty-killing-minnesota-lawmaker-melissa-hortman/"
   ],
   [
-    "nearly",
+    "family",
+    15,
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/11/claudia-sheinbaum-the-wildly-popular-mexican-president-dealing-with-drug-violence-disappearances-and-donald-trump"
+  ],
+  [
+    "police",
+    15,
+    "https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack"
+  ],
+  [
+    "star",
+    15,
+    "https://www.theguardian.com/film/2026/jun/11/kathleen-turner-best-films-ranked"
+  ],
+  [
+    "vance",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/11/minnesota-man-pleads-guilty-melissa-hortman"
+  ],
+  [
+    "states",
     14,
-    "https://www.nytimes.com/2026/06/11/world/africa/deportations-central-african-republic-migrants-iran-women.html"
+    "https://www.nytimes.com/2026/06/11/world/middleeast/iran-attacks-kuwait-bahrain-gulf-states.html"
   ],
   [
-    "strikes",
+    "bill",
     14,
-    "https://www.nytimes.com/2026/06/10/world/middleeast/precision-strike-iran-water.html"
+    "https://www.nytimes.com/2026/06/11/us/politics/house-spy-program-bill.html"
   ],
   [
-    "event",
+    "money",
     14,
-    "https://www.nytimes.com/2026/06/10/nyregion/knicks-spurs-party.html"
+    "https://www.nytimes.com/2026/06/11/business/aca-health-care-costs-medical-debt.html"
   ],
   [
-    "political",
-    14,
-    "https://www.nytimes.com/2026/06/10/us/politics/nancy-mace-congress-south-carolina.html"
-  ],
-  [
-    "point",
+    "country",
     14,
     "https://www.nytimes.com/2026/06/11/business/china-robots-humanoid.html"
   ],
   [
-    "early",
+    "epstein",
     14,
-    "https://www.nytimes.com/2026/06/11/science/base-editing-embryos-debate.html"
+    "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html"
   ],
   [
     "donald",
@@ -276,59 +251,24 @@
     "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html"
   ],
   [
-    "team",
+    "fans",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/football/2026/jun/11/usmnt-world-cup-preview"
   ],
   [
-    "ahead",
+    "because",
     14,
     "https://www.theguardian.com/football/live/2026/jun/11/world-cup-2026-countdown-opener-mexico-south-africa-south-korea-czechialive"
   ],
   [
-    "win",
-    14,
-    "https://www.theguardian.com/sport/2026/jun/10/wembanyama-spurs-knicks-game-4-nba-finals-series-tied"
-  ],
-  [
-    "ago",
-    14,
-    "https://www.theguardian.com/artanddesign/2026/jun/11/bettina-chelsea-hotel-new-york-glasgow"
-  ],
-  [
-    "soccer",
-    14,
-    "https://www.theguardian.com/us-news/video/2026/jun/10/trump-world-cup-stateside"
-  ],
-  [
-    "something",
-    14,
-    "https://www.theguardian.com/football/2026/jun/11/mexico-hoping-football-emerges-from-the-chaos-surrounding-world-cup"
-  ],
-  [
-    "police",
-    14,
-    "https://www.theguardian.com/football/2026/jun/09/uswnt-brazil-friendly-fortaleza-sophia-wilson-own-goal"
-  ],
-  [
-    "buying",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jun/10/the-guardian-view-on-the-mens-world-cup-the-build-up-was-unedifying-but-now-the-football-takes-over"
-  ],
-  [
-    "inflation",
+    "department",
     13,
-    "https://www.nytimes.com/2026/06/11/business/european-central-bank-inflation-interest-rates.html"
+    "https://www.nytimes.com/2026/06/11/us/politics/trump-california-vote-elections-investigations.html"
   ],
   [
-    "far",
+    "point",
     13,
-    "https://www.nytimes.com/2026/06/11/nyregion/knicks-game-4-fans-nba-finals-nyc.html"
-  ],
-  [
-    "inside",
-    13,
-    "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html"
+    "https://www.nytimes.com/2026/06/11/business/china-robots-humanoid.html"
   ],
   [
     "role",
@@ -336,43 +276,103 @@
     "https://www.washingtonpost.com/nation/2026/06/11/construction-religious-buildings-is-rising-most-everything-else-stalls/"
   ],
   [
-    "campaign",
+    "political",
     13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.theguardian.com/us-news/live/2026/jun/11/democrats-republicans-midterms-tech-laws-scotus-latest-news-updates"
   ],
   [
-    "name",
+    "review",
     13,
-    "https://www.theguardian.com/world/2026/jun/11/highway-of-death-the-ukrainian-drone-campaign-menacing-russian-logistics"
+    "https://www.theguardian.com/us-news/2026/jun/11/fair-elections-fund-trump-allies"
   ],
   [
-    "album",
+    "inflation",
     13,
-    "https://www.theguardian.com/music/2026/jun/11/kelsey-lu-so-help-me-god-review"
+    "https://www.theguardian.com/business/2026/jun/10/inflation-report-rate"
   ],
   [
-    "having",
+    "south",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/11/you-be-the-judge-should-my-girlfriend-use-our-shared-calendar"
+    "https://www.theguardian.com/world/2026/jun/11/cuba-world-cup-respite-us-intervention"
   ],
   [
-    "frida",
+    "football",
     13,
-    "https://www.theguardian.com/football/2026/jun/11/mexico-hoping-football-emerges-from-the-chaos-surrounding-world-cup"
+    "https://www.theguardian.com/football/2026/jun/11/donald-trump-world-cup-ted-lasso-usa"
   ],
   [
-    "london",
+    "record",
     13,
-    "https://www.theguardian.com/education/2026/jun/11/children-hit-by-parents-more-likely-to-bully-others-research-finds"
+    "https://www.theguardian.com/sport/2026/jun/11/jakobe-tharp-world-record-110m-hurdles"
   ],
   [
-    "actor",
+    "biggest",
     13,
-    "https://www.theguardian.com/books/2026/jun/11/frida-slattery-as-herself-by-ana-kinsella-review-will-they-wont-they-in-a-skilful-theatrical-romance"
+    "https://www.theguardian.com/sport/2026/jun/11/wimbledon-biggest-prize-money-increase-history-may-not-appease-players-tennis"
+  ],
+  [
+    "children",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jun/11/death-inevitability-psychology"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/may/27/fathers-day-deals-sales"
   ],
   [
     "fewer",
     13,
     "https://www.theguardian.com/thefilter-us/2026/may/27/fathers-day-deals-sales"
+  ],
+  [
+    "cbs",
+    13,
+    "https://www.latimes.com/opinion/story/2026-06-05/cbs-rise-of-right-within-mainstream-media"
+  ],
+  [
+    "series",
+    12,
+    "https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html"
+  ],
+  [
+    "spent",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "something",
+    12,
+    "https://www.theguardian.com/football/2026/jun/11/usmnt-world-cup-preview"
+  ],
+  [
+    "kharg",
+    12,
+    "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis"
+  ],
+  [
+    "killed",
+    12,
+    "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis"
+  ],
+  [
+    "today",
+    12,
+    "https://www.theguardian.com/us-news/live/2026/jun/11/democrats-republicans-midterms-tech-laws-scotus-latest-news-updates"
+  ],
+  [
+    "actor",
+    12,
+    "https://www.theguardian.com/film/2026/jun/11/kathleen-turner-best-films-ranked"
+  ],
+  [
+    "hours",
+    12,
+    "https://www.theguardian.com/football/2026/jun/11/world-cup-group-games-10-not-miss-scotland-brazil-netherlands-japan-france-senegal"
+  ],
+  [
+    "issue",
+    12,
+    "https://www.theguardian.com/football/2026/jun/11/nike-world-cup-jerseys-shoulder-problem-solution"
   ]
 ];
