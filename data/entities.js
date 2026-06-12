@@ -3,89 +3,139 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 64,
-      "url": "https://www.theguardian.com/world/2026/jun/12/albania-flamingos-wetlands-trump-tourists",
+      "count": 53,
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/jun/12/autistic-children-stem-cell-treatment-families",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 34,
-      "url": "https://www.nytimes.com/2026/06/12/world/europe/us-nato-cuts-drawdown-jets.html",
+      "name": "Texas",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/06/11/us/john-cornyn-interview-trump.html",
       "source": "NY Times"
     },
     {
       "name": "Iran",
-      "count": 34,
+      "count": 27,
+      "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 25,
       "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 21,
-      "url": "https://www.theguardian.com/artanddesign/2026/jun/12/david-hockney-death-tribute-feast-visual-pleasure",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mexico City’S",
-      "count": 19,
-      "url": "https://www.theguardian.com/football/2026/jun/11/mexico-south-africa-world-cup-2026",
+      "count": 22,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/12/travel-credit-card-points-secrets",
       "source": "The Guardian"
     },
     {
       "name": "L.A. County",
-      "count": 18,
-      "url": "https://www.latimes.com/california/story/2026-06-11/la-county-da-claims-four-in-five-cases-in-4-billion-sex-abuse-payout-may-be-fraudulent",
+      "count": 17,
+      "url": "https://www.latimes.com/california/story/2026-06-10/supporters-cheer-new-la-county-measure-er-sales-tax",
       "source": "LA Times"
     },
     {
-      "name": "The People’S Republic Of China",
-      "count": 13,
-      "url": "https://www.theguardian.com/world/2026/jun/12/china-has-long-sought-to-control-womens-bodies-increasingly-theyre-making-their-own-choices",
+      "name": "Mexico City’S",
+      "count": 14,
+      "url": "https://www.theguardian.com/football/2026/jun/11/mexico-south-africa-world-cup-2026",
       "source": "The Guardian"
     },
     {
-      "name": "Ukraine",
+      "name": "New York",
       "count": 11,
-      "url": "https://www.theguardian.com/world/2026/jun/12/ukraine-war-briefing-france-germany-and-uk-make-push-in-moscow-for-peace-talks",
+      "url": "https://www.theguardian.com/us-news/2026/jun/12/knicks-new-york-gripped-basketball-fever",
       "source": "The Guardian"
     },
     {
-      "name": "New York City’S",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/jun/11/mayor-muslim-bagel-jewish-chant-knicks",
-      "source": "The Guardian"
-    },
-    {
-      "name": "London",
+      "name": "Israel",
       "count": 10,
-      "url": "https://www.theguardian.com/world/2026/jun/12/air-india-crash-ai171-bereaved-families-seek-closure-one-year-on",
+      "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Los Angeles Stadium",
+      "count": 10,
+      "url": "https://www.foxnews.com/sports/watch-usa-vs-paraguay-live-stream-2026-fifa-world-cup",
+      "source": "Fox News"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "The 2026 World Cup",
+      "count": 42,
+      "url": "https://www.theguardian.com/football/2026/jun/11/usmnt-world-cup-preview",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup",
+      "count": 12,
+      "url": "https://www.theguardian.com/football/video/2026/jun/12/is-fifa-allowed-to-make-ai-athletes-video",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Game 4    Anunoby",
+      "count": 3,
+      "url": "https://www.theguardian.com/sport/2026/jun/11/deaaron-fox-spurs-knicks-game-4-collapse-nba-finals",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cup 2026",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/live/2026/jun/12/world-cup-2026-news-updates-live-usa-canada-paraguay-bosnia-herzegovina",
+      "source": "The Guardian"
+    },
+    {
+      "name": "French Open    Wimbledon",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/jun/12/wimbledon-escape-protests-players-accept-prize-money-increase-tennis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Super Bowl",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/jun/11/darron-lee-indicted-murder-charge-nfl",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The U.S.-Israeli War",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/06/12/business/energy-environment/iran-war-oil-reserves.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "A Civil War-Era",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/06/12/us/politics/trump-fact-check-triumphal-arch-reflecting-pool.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Ufc Freedom",
+      "count": 1,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/12/trump-ufc-fighting-cage",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Stanley Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jun/11/carolina-move-one-win-from-stanley-cup-after-top-line-powers-past-vegas",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
-      "name": "Donald Trump",
-      "count": 32,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/12/trump-ufc-fighting-cage",
-      "source": "The Guardian"
-    },
-    {
       "name": "David Hockney",
-      "count": 18,
+      "count": 22,
       "url": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html",
       "source": "NY Times"
     },
     {
-      "name": "Steven Spielberg",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/06/12/movies/steven-spielberg-disclosure-day-clip.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Graham Platner",
-      "count": 8,
-      "url": "https://www.foxnews.com/politics/platner-campaign-rocked-with-damaging-allegations-ex-lover-senate-race-heats-up",
-      "source": "Fox News"
+      "name": "Donald Trump ’S",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/jun/13/texas-border-wall-big-bend-national-park",
+      "source": "The Guardian"
     },
     {
       "name": "Elon Musk",
@@ -100,104 +150,60 @@
       "source": "The Guardian"
     },
     {
-      "name": "Jonathan Swift",
-      "count": 5,
-      "url": "https://www.theguardian.com/books/2026/jun/12/the-twitnam-summer-by-hester-grant-review-swift-gay-and-popes-season-in-the-sun",
-      "source": "The Guardian"
-    },
-    {
-      "name": "James Bond",
-      "count": 5,
-      "url": "https://www.theguardian.com/games/2026/jun/10/patrick-gibson-gamings-new-james-bond-007-first-light",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Taylor Swift Nikes",
-      "count": 5,
-      "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-drops-32-point-double-double-taylor-swift-nikes-fever-survive-stunning-sky-comeback-ot",
-      "source": "Fox News"
-    },
-    {
-      "name": "De Raúl Jiménez",
-      "count": 5,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/el-gol-y-las-lagrimas-de-raul-jimenez-son-lo-mejor-de-dia-tmvo13193351",
-      "source": "NBC News"
-    }
-  ],
-  "EVENT": [
-    {
-      "name": "World Cup Reveals America",
-      "count": 36,
-      "url": "https://www.foxnews.com/outkick-sports/usa-today-columnist-says-united-states-already-lost-world-cup-politics-donald-trump",
-      "source": "Fox News"
-    },
-    {
-      "name": "The World Cup Comes To America",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/06/12/us/world-cup-united-states-anxiety.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "World Cup’S",
-      "count": 3,
-      "url": "https://www.theguardian.com/fashion/2026/jun/05/fashion-goals-world-cup-style-tournament-kicked-off",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Super Bowl",
-      "count": 3,
-      "url": "https://www.theguardian.com/sport/2026/jun/11/darron-lee-indicted-murder-charge-nfl",
-      "source": "The Guardian"
-    },
-    {
-      "name": "This World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/jun/11/iran-world-cup-tijuana-security-camp-mexico",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Game 4",
-      "count": 2,
-      "url": "https://www.theguardian.com/us-news/2026/jun/11/new-york-city-knicks-basketball",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The 2026 World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/environment/2026/jun/12/weather-tracker-heat-humidity-thunderstorms-risk-world-cup",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The U.S.-Israeli War",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/06/12/business/energy-environment/iran-war-oil-reserves.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Ufc Freedom",
-      "count": 1,
+      "name": "Donald Trump",
+      "count": 7,
       "url": "https://www.theguardian.com/commentisfree/2026/jun/12/trump-ufc-fighting-cage",
       "source": "The Guardian"
     },
     {
-      "name": "World Cup Daily",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/video/2026/jun/12/joy-for-jimenez-and-mexico-as-co-hosts-make-ideal-start-world-cup-daily",
+      "name": "Hormuz",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/06/12/business/strait-hormuz-ships-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Taylor Swift",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/jun/12/knicks-new-york-gripped-basketball-fever",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Graham Platner",
+      "count": 6,
+      "url": "https://www.politico.com/news/2026/06/10/graham-platner-senate-democrats-divided-00957515",
+      "source": "Politico"
+    },
+    {
+      "name": "Steven Spielberg",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/06/12/movies/steven-spielberg-disclosure-day-clip.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jesse Marsch",
+      "count": 4,
+      "url": "https://www.theguardian.com/football/2026/jun/11/jesse-masrch-canada-us-national-anthem-world-cup",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Suspends Funding",
-      "count": 56,
-      "url": "https://www.nytimes.com/2026/06/11/us/trump-los-angeles-homeless.html",
-      "source": "NY Times"
+      "name": "Trump Administration",
+      "count": 44,
+      "url": "https://www.theguardian.com/us-news/2026/jun/12/judge-extends-block-trump-anti-weaponization-fund",
+      "source": "The Guardian"
     },
     {
       "name": "The New York Knicks",
-      "count": 29,
+      "count": 23,
       "url": "https://www.nytimes.com/2026/06/12/nyregion/knicks-finals-new-york.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Ai",
+      "count": 16,
+      "url": "https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market",
+      "source": "The Guardian"
     },
     {
       "name": "The White House",
@@ -206,47 +212,41 @@
       "source": "The Guardian"
     },
     {
+      "name": "Ipo",
+      "count": 12,
+      "url": "https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market",
+      "source": "The Guardian"
+    },
+    {
       "name": "The Filter Us",
-      "count": 10,
+      "count": 11,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Nba Finals",
-      "count": 9,
-      "url": "https://www.cbsnews.com/news/knicks-beat-spurs-nba-finals-game-4/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Ice",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Ariana Grande",
-      "count": 7,
-      "url": "https://www.theguardian.com/music/2026/jun/12/ariana-grande-rebukes-white-house-music-ice-video",
-      "source": "The Guardian"
-    },
-    {
-      "name": "House Of Representatives",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/jun/11/us-lawmakers-trump-afghans-drc",
-      "source": "The Guardian"
-    },
-    {
       "name": "Guardian News",
-      "count": 7,
+      "count": 9,
       "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
-      "name": "Texas Senate",
+      "name": "Paraguay World Cup",
+      "count": 8,
+      "url": "https://www.foxnews.com/outkick-sports/usa-vs-paraguay-world-cup-betting-preview-25-goals-play-matchup",
+      "source": "Fox News"
+    },
+    {
+      "name": "Congress",
       "count": 7,
-      "url": "https://www.foxnews.com/politics/talaricos-move-swap-out-woman-resurfaces-amid-backlash-similar-bill-ny-insane",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/12/trump-ufc-fighting-cage",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Meta",
+      "count": 7,
+      "url": "https://www.foxnews.com/tech/ai-newsletter-top-12-takeaways-apple-new-ai-features",
       "source": "Fox News"
     }
   ],
-  "updated": "2026-06-12T11:04:35Z"
+  "updated": "2026-06-12T16:23:11Z"
 };
