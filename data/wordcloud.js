@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    101,
-    "https://www.nytimes.com/2026/06/11/us/politics/trump-jay-clayton-intelligence-chief.html"
-  ],
-  [
-    "president",
-    67,
-    "https://www.nytimes.com/2026/06/11/us/politics/trump-jay-clayton-intelligence-chief.html"
+    90,
+    "https://www.nytimes.com/2026/06/12/world/europe/us-nato-cuts-drawdown-jets.html"
   ],
   [
     "cup",
-    60,
-    "https://www.theguardian.com/football/video/2026/jun/11/a-shameless-cash-grab-can-the-world-cup-be-saved"
+    70,
+    "https://www.nytimes.com/2026/06/12/us/world-cup-united-states-anxiety.html"
+  ],
+  [
+    "president",
+    59,
+    "https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html"
   ],
   [
     "iran",
-    42,
-    "https://www.nytimes.com/2026/06/11/business/oil-gas-price-iran.html"
+    38,
+    "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html"
   ],
   [
     "knicks",
     34,
-    "https://www.nytimes.com/2026/06/11/nyregion/mamdani-dolan-knicks-feud.html"
-  ],
-  [
-    "game",
-    31,
-    "https://www.nytimes.com/2026/06/11/insider/knicks-bad-season.html"
-  ],
-  [
-    "court",
-    30,
-    "https://www.nytimes.com/2026/06/11/us/supreme-court-blocks-alabama-nitrogen-execution.html"
-  ],
-  [
-    "york",
-    29,
-    "https://www.nytimes.com/2026/06/11/nyregion/mamdani-dolan-knicks-feud.html"
-  ],
-  [
-    "war",
-    27,
-    "https://www.nytimes.com/2026/06/11/world/middleeast/iran-war-fear-hope.html"
-  ],
-  [
-    "mexico",
-    25,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "video",
-    24,
-    "https://www.theguardian.com/world/2026/jun/12/video-visually-impaired-palestinian-boy-gaza-ayoub-junaid-crying-broken-glasses"
-  ],
-  [
-    "team",
-    23,
-    "https://www.nytimes.com/2026/06/11/sports/baseball/baseball-doctor-steroids-mcgregor.html"
+    "https://www.nytimes.com/2026/06/12/nyregion/knicks-superstitions-playoffs.html"
   ],
   [
     "fans",
-    22,
-    "https://www.theguardian.com/football/video/2026/jun/11/a-shameless-cash-grab-can-the-world-cup-be-saved"
+    30,
+    "https://www.nytimes.com/2026/06/12/nyregion/knicks-superstitions-playoffs.html"
+  ],
+  [
+    "game",
+    30,
+    "https://www.theguardian.com/football/2026/jun/11/jesse-masrch-canada-us-national-anthem-world-cup"
+  ],
+  [
+    "team",
+    27,
+    "https://www.nytimes.com/2026/06/12/us/world-cup-united-states-anxiety.html"
+  ],
+  [
+    "mexico",
+    27,
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  ],
+  [
+    "york",
+    26,
+    "https://www.nytimes.com/2026/06/12/nyregion/ai-money-bores-lasher-primary.html"
+  ],
+  [
+    "court",
+    25,
+    "https://www.theguardian.com/commentisfree/2026/jun/12/trump-ufc-fighting-cage"
+  ],
+  [
+    "war",
+    23,
+    "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html"
   ],
   [
     "california",
+    22,
+    "https://www.theguardian.com/artanddesign/2026/jun/12/david-hockney-death-tribute-feast-visual-pleasure"
+  ],
+  [
+    "family",
+    22,
+    "https://www.theguardian.com/world/2026/jun/12/albania-flamingos-wetlands-trump-tourists"
+  ],
+  [
+    "spacex",
     21,
-    "https://www.theguardian.com/commentisfree/2026/jun/11/trump-california-vote-rigging-claims"
+    "https://www.nytimes.com/2026/06/12/podcasts/the-headlines/spacex-ipo-washington-vandalism.html"
   ],
   [
-    "don",
+    "david",
+    21,
+    "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html"
+  ],
+  [
+    "video",
+    21,
+    "https://www.theguardian.com/world/2026/jun/12/video-visually-impaired-palestinian-boy-gaza-ayoub-junaid-crying-broken-glasses"
+  ],
+  [
+    "hockney",
     20,
-    "https://www.nytimes.com/2026/06/11/us/politics/usps-mail-voting-democratic-resistance.html"
+    "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html"
   ],
   [
-    "film",
-    19,
-    "https://www.theguardian.com/film/2026/jun/11/tom-hanks-tim-allen-interview-toy-story-5-tech-pixar-joan-cusack"
-  ],
-  [
-    "center",
-    18,
-    "https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html"
-  ],
-  [
-    "history",
-    18,
-    "https://www.theguardian.com/science/2026/jun/11/spacex-record-178tn-float-fears-overvalued-elon-musk-ipo"
-  ],
-  [
-    "name",
-    17,
-    "https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html"
-  ],
-  [
-    "supreme",
-    17,
-    "https://www.nytimes.com/2026/06/11/us/supreme-court-blocks-alabama-nitrogen-execution.html"
-  ],
-  [
-    "games",
-    17,
-    "https://www.theguardian.com/culture/ng-interactive/2026/jun/11/the-best-games-of-2026-so-far"
-  ],
-  [
-    "del",
-    17,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/golazo-de-corea-del-sur-hwang-in-beom-empata-ante-chequia-en-el-debut-mundialista-tmvo13193216"
-  ],
-  [
-    "los",
-    16,
-    "https://www.nytimes.com/2026/06/11/us/trump-los-angeles-homeless.html"
-  ],
-  [
-    "democrats",
-    16,
-    "https://www.nytimes.com/2026/06/11/us/politics/usps-mail-voting-democratic-resistance.html"
-  ],
-  [
-    "support",
-    16,
-    "https://www.nytimes.com/2026/06/11/us/politics/conor-mcgregor-ufc-drugs.html"
-  ],
-  [
-    "fewer",
-    16,
-    "https://www.nytimes.com/2026/06/11/climate/el-nino-noaa.html"
-  ],
-  [
-    "south",
-    16,
-    "https://www.nytimes.com/2026/06/11/world/asia/north-korea-drones-martial-law.html"
-  ],
-  [
-    "food",
-    16,
-    "https://www.theguardian.com/environment/2026/jun/11/farm-bill-school-lunches-non-us-foods"
-  ],
-  [
-    "donald",
-    16,
-    "https://www.theguardian.com/football/video/2026/jun/11/a-shameless-cash-grab-can-the-world-cup-be-saved"
-  ],
-  [
-    "guide",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/jun/11/sana-javeri-kadri-kitchen-essentials"
-  ],
-  [
-    "media",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/jun/11/trump-california-vote-rigging-claims"
-  ],
-  [
-    "series",
-    16,
-    "https://www.theguardian.com/film/2026/jun/11/tom-hanks-tim-allen-interview-toy-story-5-tech-pixar-joan-cusack"
+    "british",
+    20,
+    "https://www.theguardian.com/artanddesign/2026/jun/12/david-hockney-death-tribute-feast-visual-pleasure"
   ],
   [
     "debut",
-    16,
-    "https://www.theguardian.com/football/2026/jun/11/usmnt-pochettino-press-conference-paraguay-world-cup"
+    19,
+    "https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html"
   ],
   [
-    "administration",
-    15,
+    "artist",
+    19,
+    "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-norman-rosenthal.html"
+  ],
+  [
+    "political",
+    19,
+    "https://www.nytimes.com/2026/06/12/opinion/elon-musk-spacex-starbase-texas.html"
+  ],
+  [
+    "los",
+    18,
     "https://www.nytimes.com/2026/06/11/us/trump-los-angeles-homeless.html"
   ],
   [
-    "senate",
-    15,
-    "https://www.nytimes.com/2026/06/11/us/john-cornyn-interview-trump.html"
+    "final",
+    18,
+    "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-norman-rosenthal.html"
   ],
   [
-    "trump's",
-    15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "democrats",
+    18,
+    "https://www.nytimes.com/2026/06/12/magazine/aipac-democrats-israel.html"
   ],
   [
-    "buying",
+    "games",
+    18,
+    "https://www.theguardian.com/culture/ng-interactive/2026/jun/11/the-best-games-of-2026-so-far"
+  ],
+  [
+    "night",
+    17,
+    "https://www.nytimes.com/2026/06/12/arts/television/late-night-trump-birthday-ufc.html"
+  ],
+  [
+    "young",
+    17,
+    "https://www.theguardian.com/world/2026/jun/12/crowds-mourn-death-thailand-princess-bha"
+  ],
+  [
+    "administration",
+    16,
+    "https://www.nytimes.com/2026/06/12/world/europe/us-nato-cuts-drawdown-jets.html"
+  ],
+  [
+    "pop",
+    16,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "health",
+    16,
+    "https://www.theguardian.com/society/ng-interactive/2026/jun/12/autistic-children-stem-cell-treatment-families"
+  ],
+  [
+    "summer",
+    16,
+    "https://www.theguardian.com/environment/2026/jun/12/weather-tracker-heat-humidity-thunderstorms-risk-world-cup"
+  ],
+  [
+    "del",
+    16,
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/mexico-lider-asi-quedo-el-grupo-a-tras-el-primer-dia-del-mundial-todo-el-mundial-tmvo13193349"
+  ],
+  [
+    "name",
+    15,
+    "https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html"
+  ],
+  [
+    "win",
+    15,
+    "https://www.nytimes.com/2026/06/12/us/frisco-texas-mayor-election-muslim.html"
+  ],
+  [
+    "players",
+    15,
+    "https://www.nytimes.com/2026/06/12/nyregion/ai-money-bores-lasher-primary.html"
+  ],
+  [
+    "security",
+    15,
+    "https://www.nytimes.com/2026/06/12/us/world-cup-united-states-anxiety.html"
+  ],
+  [
+    "series",
+    15,
+    "https://www.nytimes.com/2026/06/12/nyregion/knicks-superstitions-playoffs.html"
+  ],
+  [
+    "rising",
+    15,
+    "https://www.washingtonpost.com/nation/2026/06/11/gunman-expected-plead-guilty-killing-minnesota-lawmaker-melissa-hortman/"
+  ],
+  [
+    "support",
+    15,
+    "https://www.theguardian.com/society/ng-interactive/2026/jun/12/autistic-children-stem-cell-treatment-families"
+  ],
+  [
+    "south",
+    15,
+    "https://www.theguardian.com/football/2026/jun/12/south-korea-czechia-world-cup-2026-group-a-match-report"
+  ],
+  [
+    "history",
+    15,
+    "https://www.theguardian.com/music/2026/jun/12/ariana-grande-rebukes-white-house-music-ice-video"
+  ],
+  [
+    "food",
     15,
     "https://www.theguardian.com/thefilter-us/2026/jun/11/sana-javeri-kadri-kitchen-essentials"
   ],
   [
-    "water",
-    15,
-    "https://www.theguardian.com/world/2026/jun/11/strikes-water-facilities-iran-war-crime-experts"
-  ],
-  [
-    "board",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/11/trump-kennedy-center-board-name"
-  ],
-  [
-    "night",
-    15,
-    "https://www.theguardian.com/sport/2026/jun/11/carolina-move-one-win-from-stanley-cup-after-top-line-powers-past-vegas"
-  ],
-  [
-    "company",
+    "review",
     14,
-    "https://www.nytimes.com/2026/06/11/technology/spacex-ipo-price.html"
-  ],
-  [
-    "million",
-    14,
-    "https://www.nytimes.com/2026/06/11/technology/spacex-ipo-price.html"
-  ],
-  [
-    "bill",
-    14,
-    "https://www.nytimes.com/2026/06/11/us/politics/trump-jay-clayton-intelligence-chief.html"
-  ],
-  [
-    "judge",
-    14,
-    "https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html"
+    "https://www.nytimes.com/2026/06/11/movies/disclosure-day-review-steven-spielberg.html"
   ],
   [
     "country",
     14,
-    "https://www.nytimes.com/2026/06/11/world/middleeast/iran-war-fear-hope.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "final",
+    "music",
     14,
-    "https://www.nytimes.com/2026/06/11/us/john-cornyn-interview-trump.html"
+    "https://www.theguardian.com/music/ng-interactive/2026/jun/12/taylor-swift-20-years-pop-culture-star-debut"
   ],
   [
-    "star",
+    "donald",
     14,
-    "https://www.nytimes.com/2026/06/11/sports/baseball/baseball-doctor-steroids-mcgregor.html"
+    "https://www.theguardian.com/commentisfree/2026/jun/12/trump-ufc-fighting-cage"
   ],
   [
-    "nitrogen",
+    "ahead",
     14,
-    "https://www.nytimes.com/2026/06/11/us/supreme-court-blocks-alabama-nitrogen-execution.html"
+    "https://www.theguardian.com/world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates"
   ],
   [
-    "experts",
-    14,
-    "https://www.theguardian.com/wellness/2026/jun/11/cat-allergy-doctor-advice"
-  ],
-  [
-    "filter",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/11/sana-javeri-kadri-kitchen-essentials"
-  ],
-  [
-    "weekly",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/11/sana-javeri-kadri-kitchen-essentials"
-  ],
-  [
-    "death",
-    14,
-    "https://www.theguardian.com/sport/2026/jun/11/darron-lee-indicted-murder-charge-nfl"
-  ],
-  [
-    "police",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/11/minnesota-man-pleads-guilty-melissa-hortman"
-  ],
-  [
-    "spacex",
+    "center",
     13,
-    "https://www.nytimes.com/2026/06/11/technology/spacex-ipo-price.html"
+    "https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html"
   ],
   [
-    "intelligence",
+    "inside",
     13,
-    "https://www.nytimes.com/2026/06/11/us/politics/trump-jay-clayton-intelligence-chief.html"
+    "https://www.nytimes.com/2026/06/12/us/cesar-chavez-dolores-huerta-united-farm-workers-sexual-abuse.html"
   ],
   [
-    "ago",
+    "art",
     13,
-    "https://www.nytimes.com/2026/06/11/world/asia/thai-princess-bajrakitiyabha-bha-dead-coma.html"
-  ],
-  [
-    "campaign",
-    13,
-    "https://www.nytimes.com/2026/06/11/opinion/tom-steyer-california-governor.html"
-  ],
-  [
-    "released",
-    13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "nba",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/11/mayor-muslim-bagel-jewish-chant-knicks"
-  ],
-  [
-    "finals",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/11/mayor-muslim-bagel-jewish-chant-knicks"
-  ],
-  [
-    "fifa",
-    13,
-    "https://www.theguardian.com/football/video/2026/jun/11/a-shameless-cash-grab-can-the-world-cup-be-saved"
+    "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html"
   ],
   [
     "county",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/11/california-girl-ocean-laguna-beach"
+    "https://www.nytimes.com/2026/06/12/us/sheriffs-maryland-immigration-lawsuit.html"
   ],
   [
-    "became",
+    "police",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/11/vance-epstein-files-testify-house-democrats"
+    "https://www.nytimes.com/2026/06/12/us/sheriffs-maryland-immigration-lawsuit.html"
   ],
   [
-    "family",
+    "decades",
     13,
-    "https://www.theguardian.com/world/2026/jun/12/albania-flamingos-wetlands-trump-tourists"
+    "https://www.nytimes.com/2026/06/12/nyregion/knicks-superstitions-playoffs.html"
   ],
   [
-    "young",
+    "china",
     13,
-    "https://www.theguardian.com/film/2026/jun/11/tom-hanks-tim-allen-interview-toy-story-5-tech-pixar-joan-cusack"
-  ],
-  [
-    "win",
-    13,
-    "https://www.theguardian.com/sport/2026/jun/11/carolina-move-one-win-from-stanley-cup-after-top-line-powers-past-vegas"
-  ],
-  [
-    "lawsuit",
-    13,
-    "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit"
-  ],
-  [
-    "kennedy",
-    12,
-    "https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html"
-  ],
-  [
-    "data",
-    12,
-    "https://www.nytimes.com/2026/06/11/us/politics/usps-mail-voting-democratic-resistance.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "loss",
-    12,
-    "https://www.nytimes.com/2026/06/11/us/john-cornyn-interview-trump.html"
+    13,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "lee",
-    12,
-    "https://www.nytimes.com/2026/06/11/us/supreme-court-blocks-alabama-nitrogen-execution.html"
+    "campaign",
+    13,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "weather",
+    "trump's",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "company",
+    13,
+    "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates"
+  ],
+  [
+    "list",
+    13,
+    "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates"
+  ],
+  [
+    "board",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/11/trump-kennedy-center-board-name"
+  ],
+  [
+    "intelligence",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/12/fisa-law-surveillance"
+  ],
+  [
+    "experts",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/11/ai-wealth-boom-san-francisco-home-prices"
+  ],
+  [
+    "club",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/12/proud-review-the-gorgeous-tale-of-a-hard-partying-model-who-ends-up-a-dad"
+  ],
+  [
+    "album",
+    13,
+    "https://www.theguardian.com/music/2026/jun/12/pussy-riot-cyka-review"
+  ],
+  [
+    "fewer",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jun/11/taylor-swift-knicks-shirt-diy-merch"
+  ],
+  [
+    "senate",
+    13,
+    "https://www.latimes.com/opinion/story/2026-06-12/social-security-crisis-senate-campaign"
+  ],
+  [
+    "pressure",
     12,
-    "https://www.nytimes.com/2026/06/11/weather/chicago-illinois-tornado-storms.html"
+    "https://www.nytimes.com/2026/06/12/business/energy-environment/iran-war-oil-reserves.html"
+  ],
+  [
+    "angeles",
+    12,
+    "https://www.nytimes.com/2026/06/11/us/trump-los-angeles-homeless.html"
+  ],
+  [
+    "dies",
+    12,
+    "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html"
+  ],
+  [
+    "place",
+    12,
+    "https://www.nytimes.com/2026/06/12/nyregion/new-york-primary-elections-how-when-vote.html"
+  ],
+  [
+    "ice",
+    12,
+    "https://www.nytimes.com/2026/06/12/us/sheriffs-maryland-immigration-lawsuit.html"
+  ],
+  [
+    "don",
+    12,
+    "https://www.nytimes.com/2026/06/12/nyregion/knicks-superstitions-playoffs.html"
+  ],
+  [
+    "spielberg",
+    12,
+    "https://www.nytimes.com/2026/06/12/movies/steven-spielberg-disclosure-day-clip.html"
   ],
   [
     "led",
     12,
     "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "past",
-    12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "election",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/jun/11/trump-california-vote-rigging-claims"
   ]
 ];
