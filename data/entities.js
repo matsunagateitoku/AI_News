@@ -3,21 +3,21 @@
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 48,
-      "url": "https://www.theguardian.com/football/2026/jun/12/usa-paraguay-world-cup-2026-group-d-match-report",
+      "count": 54,
+      "url": "https://www.theguardian.com/football/2026/jun/13/big-lalas-energy-to-ulcerative-colitis-meds-fox-is-this-world-cups-very-soul-in-the-us",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/06/13/nyregion/knicks-rangers-new-york-sports-1994.html",
-      "source": "NY Times"
+      "count": 12,
+      "url": "https://www.theguardian.com/football/2026/jun/13/making-england-declan-rice-world-cup-west-ham-arsenal",
+      "source": "The Guardian"
     },
     {
-      "name": "A World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/jun/12/world-cup-var-mistaken-identity-tim-ream-usmnt",
-      "source": "The Guardian"
+      "name": "Super Bowl Mvp",
+      "count": 3,
+      "url": "https://www.foxnews.com/sports/super-bowl-mvp-kenneth-walker-misses-seahawks-ring-ceremony-signing-45m-deal-chiefs",
+      "source": "Fox News"
     },
     {
       "name": "Game 4",
@@ -32,133 +32,59 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Ufc Freedom 250",
+      "name": "The College World Series",
       "count": 2,
-      "url": "https://www.cbsnews.com/video/white-house-gears-up-for-ufc-event-as-uncertainty-remains-over-an-iran-deal/",
-      "source": "CBS News"
+      "url": "https://www.foxnews.com/outkick-sports/pat-mcafee-wages-war-omahas-famous-jell-o-shot-bar-crew-gets-cold-reception-college-world-series",
+      "source": "Fox News"
+    },
+    {
+      "name": "World Cup 2026",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "This World Cup’S",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/jun/13/big-lalas-energy-to-ulcerative-colitis-meds-fox-is-this-world-cups-very-soul-in-the-us",
+      "source": "The Guardian"
+    },
+    {
+      "name": "This World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/jun/13/big-lalas-energy-to-ulcerative-colitis-meds-fox-is-this-world-cups-very-soul-in-the-us",
+      "source": "The Guardian"
     },
     {
       "name": "The Great Depression",
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/jun/13/in-a-usa-win-for-the-history-books-what-stood-out-most-was-the-fun-and-free-nature-of-it",
       "source": "The Guardian"
-    },
-    {
-      "name": "World Cup 2026",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/live/2026/jun/13/world-cup-2026-usa-light-up-la-englands-boots-stolen-scotlands-big-return-live",
-      "source": "The Guardian"
-    },
-    {
-      "name": "World Cup’S",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jun/12/world-cup-var-mistaken-identity-tim-ream-usmnt",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Holocaust",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jun/13/why-football-does-not-remember-the-name-of-its-greatest-ever-jewish-player",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 54,
-      "url": "https://www.theguardian.com/football/2026/jun/12/usa-paraguay-world-cup-2026-group-d-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 47,
-      "url": "https://www.nytimes.com/2026/06/13/world/americas/tren-de-aragua-leader-killed-us-venezuela.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 22,
-      "url": "https://www.theguardian.com/us-news/2026/jun/12/trump-la-homeless-agency-cuts",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City Tv",
-      "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/jun/13/wabc-new-york-anchor-bill-ritter-retirement-alzheimers",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A.",
-      "count": 16,
-      "url": "https://www.latimes.com/politics/story/2026-06-13/trump-prosecutor-in-la-is-searching-for-voter-fraud-before-final-count",
-      "source": "LA Times"
-    },
-    {
-      "name": "Uk",
-      "count": 12,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/13/belfast-southampton-riots-racism-why-is-the-uk-burning",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Los Angeles Stadium",
-      "count": 12,
-      "url": "https://www.theguardian.com/football/2026/jun/12/usa-paraguay-world-cup-2026-group-d-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Canada",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "America",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
-      "source": "NY Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 19,
-      "url": "https://www.theguardian.com/us-news/2026/jun/12/trump-la-homeless-agency-cuts",
+      "count": 20,
+      "url": "https://www.theguardian.com/world/2026/jun/13/preliminary-peace-deal-could-be-signed-within-days-says-us-iran-and-mediators",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump ’S",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/jun/13/trump-name-removed-kennedy-center-facade",
       "source": "The Guardian"
     },
     {
       "name": "David Hockney",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/06/13/arts/design/david-hockney-lawrence-weschler-appreciation.html",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/06/13/arts/design/david-hockney-los-angeles-pool-paintings.html",
       "source": "NY Times"
     },
     {
-      "name": "Donald Trump ’S",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/jun/12/paramount-warner-bros-merger",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Venezuelan Tren De Aragua",
+      "name": "James Harden",
       "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Graham Platner &Quot;Scary&Quot",
-      "count": 10,
-      "url": "https://www.foxnews.com/media/bill-maher-urges-maine-voters-elect-graham-platner-despite-candidates-scary-issues",
-      "source": "Fox News"
-    },
-    {
-      "name": "Phil Mickelson",
-      "count": 9,
-      "url": "https://www.theguardian.com/sport/2026/jun/11/phil-mickelson-membership-cancelled-the-farms-alleged-misconduct",
+      "url": "https://www.theguardian.com/sport/2026/jun/13/james-harden-weapon-charges-arrest-nba",
       "source": "The Guardian"
     },
     {
@@ -168,85 +94,159 @@
       "source": "Washington Post"
     },
     {
-      "name": "Graham Platner",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/13/graham-platner-miane-victory-democrats-elite",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Elon Musk",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Thomas Partey",
       "count": 7,
       "url": "https://www.theguardian.com/football/2026/jun/13/ghana-criticises-canada-thomas-partey-visa-world-cup",
       "source": "The Guardian"
+    },
+    {
+      "name": "Phil Mickelson",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/jun/11/phil-mickelson-membership-cancelled-the-farms-alleged-misconduct",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Graham Platner",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/13/graham-platner-miane-victory-democrats-elite",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Virginia Evans",
+      "count": 6,
+      "url": "https://www.theguardian.com/books/2026/jun/12/failure-was-my-thing-womens-prize-winner-virginia-evans-on-coping-with-years-of-rejection",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hormuz",
+      "count": 4,
+      "url": "https://www.nytimes.com/2026/06/13/business/oil-strait-of-hormuz.html",
+      "source": "NY Times"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 50,
+      "url": "https://www.theguardian.com/thefilter-us/2026/jun/13/best-fathers-day-gifts",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 31,
+      "url": "https://www.nytimes.com/2026/06/13/opinion/usa-soccer-world-cup.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The United States Of America",
+      "count": 20,
+      "url": "https://thehill.com/opinion/campaign/5920681-united-states-divided-future/",
+      "source": "The Hill"
+    },
+    {
+      "name": "New York City Tv",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/jun/13/wabc-new-york-anchor-bill-ritter-retirement-alzheimers",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/jun/12/spencer-pratt-concedes-la-mayor-race",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A.",
+      "count": 14,
+      "url": "https://www.latimes.com/politics/story/2026-06-13/trump-prosecutor-in-la-is-searching-for-voter-fraud-before-final-count",
+      "source": "LA Times"
+    },
+    {
+      "name": "Los Angeles",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/06/13/arts/design/david-hockney-los-angeles-pool-paintings.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 13,
+      "url": "https://www.theguardian.com/uk-news/2026/jun/13/far-right-anti-racist-protesters-clash-brighton-liverpool-sheffield-glasgow",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 12,
+      "url": "https://www.washingtonpost.com/nation/2026/06/13/texass-gop-platform-is-getting-more-extreme-influential/",
+      "source": "Washington Post"
     }
   ],
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 45,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Trump Is Losing Ground With",
+      "count": 47,
+      "url": "https://www.nytimes.com/2026/06/13/us/politics/trump-white-working-class-voters-economy.html",
+      "source": "NY Times"
     },
     {
-      "name": "Paraguay",
-      "count": 30,
-      "url": "https://www.theguardian.com/football/2026/jun/12/usa-paraguay-world-cup-2026-group-d-match-report",
+      "name": "Nba Celebrity Row",
+      "count": 21,
+      "url": "https://www.foxnews.com/entertainment/inside-celebrity-row-nba-playoffs-quid-pro-quo-deals-loyalty-tests-listers-got-booted",
+      "source": "Fox News"
+    },
+    {
+      "name": "The New York Knicks",
+      "count": 20,
+      "url": "https://www.theguardian.com/sport/2026/jun/13/the-knicks-hedonistic-nba-finals-run-has-been-a-relief-from-the-exhaustion-of-us-politics",
       "source": "The Guardian"
     },
     {
       "name": "The White House",
-      "count": 19,
-      "url": "https://www.theguardian.com/us-news/2026/jun/12/judge-ruling-trump-white-house-ufc-event",
+      "count": 17,
+      "url": "https://www.theguardian.com/us-news/2026/jun/13/marjorie-taylor-greene-trump-ufc-event",
       "source": "The Guardian"
     },
     {
-      "name": "The New York Knicks",
-      "count": 18,
-      "url": "https://www.theguardian.com/sport/2026/jun/13/the-knicks-hedonistic-nba-finals-run-has-been-a-relief-from-the-exhaustion-of-us-politics",
+      "name": "Paraguay",
+      "count": 14,
+      "url": "https://www.theguardian.com/football/2026/jun/13/big-lalas-energy-to-ulcerative-colitis-meds-fox-is-this-world-cups-very-soul-in-the-us",
       "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
-      "count": 12,
+      "count": 13,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Maine Senate",
-      "count": 12,
-      "url": "https://www.foxnews.com/media/bill-maher-urges-maine-voters-elect-graham-platner-despite-candidates-scary-issues",
-      "source": "Fox News"
-    },
-    {
-      "name": "Nba",
-      "count": 11,
-      "url": "https://www.theguardian.com/sport/2026/jun/13/the-knicks-hedonistic-nba-finals-run-has-been-a-relief-from-the-exhaustion-of-us-politics",
-      "source": "The Guardian"
-    },
-    {
       "name": "Ai",
-      "count": 9,
-      "url": "https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/13/momfluencers-ai-co-parenting",
       "source": "The Guardian"
     },
     {
-      "name": "Ufc Birthday Party",
-      "count": 8,
-      "url": "https://www.theguardian.com/culture/2026/jun/12/seth-meyers-trump-iran-inflation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Paramount Skydance'S",
-      "count": 8,
-      "url": "https://www.cbsnews.com/news/paramount-skydance-warner-bros-discovery-antitrust-justice-department/",
+      "name": "Cbs Mornings Deals",
+      "count": 11,
+      "url": "https://www.cbsnews.com/video/exclusive-discounts-from-cbs-mornings-deals-171/",
       "source": "CBS News"
+    },
+    {
+      "name": "Ufc Freedom 250",
+      "count": 10,
+      "url": "https://www.cbsnews.com/video/inside-the-ufc-claw-on-the-white-house-lawn/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Paramount Skydance",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/jun/12/paramount-warner-bros-merger",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-06-13T15:03:17Z"
+  "updated": "2026-06-13T20:20:15Z"
 };
