@@ -2,113 +2,73 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    97,
-    "https://www.nytimes.com/2026/06/12/us/politics/trump-uscis-asylum-immigration.html"
+    93,
+    "https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-trump-name.html"
   ],
   [
     "cup",
-    65,
-    "https://www.theguardian.com/football/2026/jun/12/usa-paraguay-world-cup-2026-group-d-match-report"
+    70,
+    "https://www.nytimes.com/2026/06/13/nyregion/knicks-rangers-new-york-sports-1994.html"
   ],
   [
     "president",
-    45,
-    "https://www.nytimes.com/2026/06/12/us/elections/spencer-pratt-la-mayor.html"
+    47,
+    "https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-trump-name.html"
   ],
   [
     "paraguay",
-    32,
+    33,
     "https://www.theguardian.com/football/2026/jun/12/usa-paraguay-world-cup-2026-group-d-match-report"
   ],
   [
     "iran",
-    31,
-    "https://www.nytimes.com/2026/06/12/world/middleeast/iran-peace-deal-what-to-know.html"
-  ],
-  [
-    "company",
-    30,
-    "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html"
+    32,
+    "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html"
   ],
   [
     "judge",
-    29,
-    "https://www.nytimes.com/2026/06/12/us/politics/trump-uscis-asylum-immigration.html"
+    26,
+    "https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-trump-name.html"
+  ],
+  [
+    "game",
+    26,
+    "https://www.nytimes.com/2026/06/12/nyregion/knicks-finals-tickets-san-antonio.html"
+  ],
+  [
+    "name",
+    25,
+    "https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-trump-name.html"
   ],
   [
     "team",
-    26,
+    25,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "killed",
-    25,
-    "https://www.theguardian.com/us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed"
+    22,
+    "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
   ],
   [
-    "game",
-    24,
-    "https://www.nytimes.com/2026/06/12/nyregion/knicks-finals-tickets-san-antonio.html"
-  ],
-  [
-    "california",
-    24,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/12/travel-credit-card-points-secrets"
-  ],
-  [
-    "justice",
-    23,
-    "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html"
-  ],
-  [
-    "spacex",
-    23,
-    "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html"
-  ],
-  [
-    "administration",
-    23,
-    "https://www.nytimes.com/2026/06/12/us/politics/trump-uscis-asylum-immigration.html"
+    "war",
+    21,
+    "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html"
   ],
   [
     "david",
-    23,
-    "https://www.theguardian.com/us-news/2026/jun/12/knicks-new-york-gripped-basketball-fever"
+    21,
+    "https://www.nytimes.com/2026/06/13/arts/design/david-hockney-lawrence-weschler-appreciation.html"
   ],
   [
     "debut",
-    22,
+    21,
     "https://www.theguardian.com/commentisfree/2026/jun/12/spacex-ipo-elon-musk-trillionaire"
   ],
   [
-    "name",
-    22,
-    "https://www.theguardian.com/us-news/2026/jun/12/judge-denies-pause-trump-name-removal-kennedy-center"
-  ],
-  [
-    "musk",
+    "california",
     21,
-    "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html"
-  ],
-  [
-    "york",
-    21,
-    "https://www.nytimes.com/2026/06/12/nyregion/knicks-finals-tickets-san-antonio.html"
-  ],
-  [
-    "military",
-    21,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "government",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/jun/12/trump-ufc-fighting-cage"
-  ],
-  [
-    "court",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/jun/12/trump-ufc-fighting-cage"
+    "https://www.theguardian.com/lifeandstyle/2026/jun/12/travel-credit-card-points-secrets"
   ],
   [
     "los",
@@ -116,109 +76,159 @@
     "https://www.theguardian.com/football/2026/jun/12/usa-paraguay-world-cup-2026-group-d-match-report"
   ],
   [
+    "administration",
+    20,
+    "https://www.nytimes.com/2026/06/12/us/politics/judge-national-parks-trump.html"
+  ],
+  [
+    "summer",
+    20,
+    "https://www.theguardian.com/books/ng-interactive/2026/jun/13/70-brilliant-books-for-the-summer"
+  ],
+  [
+    "american",
+    20,
+    "https://www.theguardian.com/football/2026/jun/12/usa-paraguay-world-cup-2026-group-d-match-report"
+  ],
+  [
     "video",
-    21,
+    20,
     "https://www.theguardian.com/us-news/2026/jun/12/spencer-pratt-concedes-la-mayor-race"
   ],
   [
-    "artist",
-    21,
-    "https://www.theguardian.com/artanddesign/2026/jun/12/david-hockney-remembered-artists-rachel-whiteread-jeremy-deller"
+    "musk",
+    19,
+    "https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html"
   ],
   [
-    "knicks",
-    20,
-    "https://www.nytimes.com/2026/06/12/nyregion/knicks-finals-tickets-san-antonio.html"
+    "spacex",
+    19,
+    "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html"
+  ],
+  [
+    "company",
+    19,
+    "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html"
+  ],
+  [
+    "kennedy",
+    19,
+    "https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-trump-name.html"
+  ],
+  [
+    "military",
+    19,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "donald",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/jun/12/trump-ufc-fighting-cage"
+    19,
+    "https://www.theguardian.com/us-news/2026/jun/12/judge-denies-pause-trump-name-removal-kennedy-center"
   ],
   [
-    "department",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/jun/12/trump-ufc-fighting-cage"
+    "fans",
+    19,
+    "https://www.theguardian.com/football/2026/jun/12/usa-paraguay-world-cup-2026-group-d-match-report"
   ],
   [
-    "warner",
+    "police",
+    19,
+    "https://www.theguardian.com/football/2026/jun/12/thomas-partey-ghana-world-cup-visa-application-to-canada-refused"
+  ],
+  [
+    "center",
+    18,
+    "https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-trump-name.html"
+  ],
+  [
+    "knicks",
+    18,
+    "https://www.nytimes.com/2026/06/12/nyregion/knicks-finals-tickets-san-antonio.html"
+  ],
+  [
+    "york",
+    18,
+    "https://www.nytimes.com/2026/06/12/nyregion/knicks-finals-tickets-san-antonio.html"
+  ],
+  [
+    "justice",
     18,
     "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html"
   ],
   [
-    "war",
+    "court",
     18,
-    "https://www.nytimes.com/2026/06/13/world/asia/family-ravaged-by-land-mines-myanmar.html"
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/13/belfast-southampton-riots-racism-why-is-the-uk-burning"
   ],
   [
-    "american",
+    "opener",
     18,
     "https://www.theguardian.com/football/2026/jun/12/usa-paraguay-world-cup-2026-group-d-match-report"
   ],
   [
-    "hockney",
+    "artist",
     18,
-    "https://www.theguardian.com/artanddesign/2026/jun/12/david-hockney-remembered-artists-rachel-whiteread-jeremy-deller"
+    "https://www.theguardian.com/world/2026/jun/13/geert-wilders-pvv-dutch-far-right-party-damages-court-artist-change-image-ai"
   ],
   [
-    "young",
+    "sleep",
     18,
-    "https://www.theguardian.com/artanddesign/2026/jun/12/david-hockney-remembered-artists-rachel-whiteread-jeremy-deller"
+    "https://www.theguardian.com/film/2026/jun/13/stop-that-train-film-drag-comedy"
   ],
   [
-    "paramount",
+    "light",
     17,
+    "https://www.nytimes.com/2026/06/13/arts/design/david-hockney-lawrence-weschler-appreciation.html"
+  ],
+  [
+    "film",
+    17,
+    "https://www.nytimes.com/2026/06/12/opinion/yes-israel-film-boycott.html"
+  ],
+  [
+    "cbs",
+    17,
+    "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html"
+  ],
+  [
+    "late",
+    17,
+    "https://www.theguardian.com/society/2026/jun/13/melinda-french-gates-interview-jeffrey-epstein-fighting-for-womens-health"
+  ],
+  [
+    "south",
+    17,
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/13/belfast-southampton-riots-racism-why-is-the-uk-burning"
+  ],
+  [
+    "department",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/12/judge-denies-pause-trump-name-removal-kennedy-center"
+  ],
+  [
+    "finals",
+    17,
+    "https://www.theguardian.com/sport/2026/jun/12/spurs-knicks-game-5-victor-wembanyama-nba-finals"
+  ],
+  [
+    "far",
+    16,
+    "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html"
+  ],
+  [
+    "warner",
+    16,
+    "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html"
+  ],
+  [
+    "movie",
+    16,
     "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html"
   ],
   [
     "strike",
-    17,
+    16,
     "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
-  ],
-  [
-    "summer",
-    17,
-    "https://www.theguardian.com/film/2026/jun/12/obsession-horror-film-hollywood"
-  ],
-  [
-    "nba",
-    17,
-    "https://www.theguardian.com/us-news/2026/jun/12/knicks-new-york-gripped-basketball-fever"
-  ],
-  [
-    "fans",
-    17,
-    "https://www.theguardian.com/music/ng-interactive/2026/jun/12/taylor-swift-20-years-pop-culture-star-debut"
-  ],
-  [
-    "kennedy",
-    17,
-    "https://www.theguardian.com/us-news/2026/jun/12/judge-denies-pause-trump-name-removal-kennedy-center"
-  ],
-  [
-    "center",
-    17,
-    "https://www.theguardian.com/us-news/2026/jun/12/judge-denies-pause-trump-name-removal-kennedy-center"
-  ],
-  [
-    "history",
-    17,
-    "https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx"
-  ],
-  [
-    "sleep",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/jun/08/best-bluetooth-sleep-masks"
-  ],
-  [
-    "cbs",
-    16,
-    "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html"
-  ],
-  [
-    "market",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/jun/12/spacex-ipo-elon-musk-trillionaire"
   ],
   [
     "leader",
@@ -231,29 +241,14 @@
     "https://www.theguardian.com/football/2026/jun/12/usa-paraguay-world-cup-2026-group-d-match-report"
   ],
   [
-    "legal",
+    "star",
     16,
-    "https://www.theguardian.com/us-news/2026/jun/12/trump-congress-expunge-impeachments"
+    "https://www.theguardian.com/world/2026/jun/13/jessie-j-lucrative-chinese-market-westlife-charli-xcx"
   ],
   [
-    "police",
-    16,
-    "https://www.theguardian.com/football/2026/jun/12/thomas-partey-ghana-world-cup-visa-application-to-canada-refused"
-  ],
-  [
-    "finals",
+    "nba",
     16,
     "https://www.theguardian.com/sport/2026/jun/12/spurs-knicks-game-5-victor-wembanyama-nba-finals"
-  ],
-  [
-    "movie",
-    15,
-    "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html"
-  ],
-  [
-    "trillionaire",
-    15,
-    "https://www.nytimes.com/2026/06/12/us/musk-trillionaire-first-billionaire.html"
   ],
   [
     "country",
@@ -261,14 +256,39 @@
     "https://www.nytimes.com/2026/06/12/us/politics/judge-national-parks-trump.html"
   ],
   [
-    "night",
+    "fewer",
     15,
-    "https://www.theguardian.com/us-news/2026/jun/12/knicks-new-york-gripped-basketball-fever"
+    "https://www.nytimes.com/2026/06/13/business/oil-strait-of-hormuz.html"
   ],
   [
-    "match",
+    "hockney",
     15,
-    "https://www.theguardian.com/football/2026/jun/13/england-world-cup-boots-stolen-before-first-training-session-in-kansas-city"
+    "https://www.nytimes.com/2026/06/13/arts/design/david-hockney-lawrence-weschler-appreciation.html"
+  ],
+  [
+    "paramount",
+    15,
+    "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html"
+  ],
+  [
+    "market",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/12/spacex-ipo-elon-musk-trillionaire"
+  ],
+  [
+    "history",
+    15,
+    "https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx"
+  ],
+  [
+    "legal",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/12/trump-congress-expunge-impeachments"
+  ],
+  [
+    "young",
+    15,
+    "https://www.theguardian.com/football/2026/jun/12/tickets-are-very-expensive-mexican-president-sheinbaum-explains-why-she-did-not-attend-world-cup-opener"
   ],
   [
     "games",
@@ -281,34 +301,14 @@
     "https://www.theguardian.com/thefilter-us/2026/may/24/cat-enrichment-toys-indoor-cats"
   ],
   [
-    "bros",
-    14,
-    "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html"
-  ],
-  [
-    "loss",
-    14,
-    "https://www.nytimes.com/2026/06/12/us/elections/spencer-pratt-la-mayor.html"
-  ],
-  [
-    "film",
-    14,
-    "https://www.nytimes.com/2026/06/12/arts/television/gene-shalit-dead.html"
-  ],
-  [
-    "family",
-    14,
-    "https://www.nytimes.com/2026/06/13/world/asia/family-ravaged-by-land-mines-myanmar.html"
-  ],
-  [
     "sea",
     14,
     "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "removed",
+    "early",
     14,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "ice",
@@ -316,63 +316,63 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
+    "latest",
+    14,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "whose",
+    14,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
     "canada",
     14,
     "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "star",
+    "family",
     14,
-    "https://www.theguardian.com/film/2026/jun/12/obsession-horror-film-hollywood"
+    "https://www.theguardian.com/lifeandstyle/2026/jun/12/travel-credit-card-points-secrets"
   ],
   [
-    "place",
+    "swift",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/12/knicks-new-york-gripped-basketball-fever"
+    "https://www.theguardian.com/us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed"
+  ],
+  [
+    "series",
+    14,
+    "https://www.theguardian.com/sport/2026/jun/12/spurs-knicks-game-5-victor-wembanyama-nba-finals"
+  ],
+  [
+    "party",
+    14,
+    "https://www.theguardian.com/sport/2026/jun/12/katie-boulter-stuns-rybakina-for-biggest-win-after-raducanu-starts-queens-party"
+  ],
+  [
+    "decades",
+    13,
+    "https://www.nytimes.com/2026/06/13/magazine/seth-rogen-interview.html"
+  ],
+  [
+    "loss",
+    13,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "tren",
-    14,
+    13,
     "https://www.theguardian.com/us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed"
   ],
   [
     "aragua",
-    14,
+    13,
     "https://www.theguardian.com/us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed"
   ],
   [
-    "south",
-    14,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/13/belfast-southampton-riots-racism-why-is-the-uk-burning"
-  ],
-  [
-    "fewer",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/12/best-clothing-rental-subscription"
-  ],
-  [
-    "far",
+    "biggest",
     13,
-    "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html"
-  ],
-  [
-    "elon",
-    13,
-    "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html"
-  ],
-  [
-    "san",
-    13,
-    "https://www.nytimes.com/2026/06/12/nyregion/knicks-finals-tickets-san-antonio.html"
-  ],
-  [
-    "social",
-    13,
-    "https://www.nytimes.com/2026/06/12/opinion/social-security-benefits-budget.html"
-  ],
-  [
-    "latest",
-    13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx"
   ]
 ];

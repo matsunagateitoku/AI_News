@@ -3,13 +3,13 @@
   "EVENT": [
     {
       "name": "The Usmnt&Apos;S World Cup",
-      "count": 46,
+      "count": 43,
       "url": "https://www.foxnews.com/sports/christian-pulisic-subbed-halftime-usmnt-world-cup-opener-feeling-tightness-calf",
       "source": "Fox News"
     },
     {
       "name": "The World Cup Parade Of Nations",
-      "count": 11,
+      "count": 15,
       "url": "https://www.foxnews.com/outkick-sports/canadian-soccer-fans-boo-us-flag-canada-stumbles-bosnia-herzegovina",
       "source": "Fox News"
     },
@@ -26,15 +26,21 @@
       "source": "The Guardian"
     },
     {
+      "name": "Groundhog Day",
+      "count": 2,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/13/which-song-features-nine-times-in-the-film-groundhog-day-the-saturday-quiz",
+      "source": "The Guardian"
+    },
+    {
       "name": "A World Cup",
       "count": 2,
       "url": "https://www.theguardian.com/football/2026/jun/12/world-cup-var-mistaken-identity-tim-ream-usmnt",
       "source": "The Guardian"
     },
     {
-      "name": "The Ufc Freedom",
+      "name": "World Cup 2026",
       "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/12/trump-ufc-fighting-cage",
+      "url": "https://www.theguardian.com/football/live/2026/jun/13/world-cup-2026-usa-light-up-la-englands-boots-stolen-scotlands-big-return-live",
       "source": "The Guardian"
     },
     {
@@ -50,116 +56,48 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
+      "name": "Trumpian World Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/world/2026/jun/13/ukraine-war-briefing-zelenskyy-boosts-army-wages-foreign-seeks-foreign-recruits",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/13/donald-trump-world-cup-qatar-2022-white-house",
       "source": "The Guardian"
-    },
-    {
-      "name": "Guest Remake Review",
-      "count": 1,
-      "url": "https://www.theguardian.com/games/2026/jun/11/the-7th-guest-remake-review",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Administration",
-      "count": 57,
-      "url": "https://www.nytimes.com/2026/06/12/us/politics/trump-uscis-asylum-immigration.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Paraguay",
-      "count": 31,
-      "url": "https://www.theguardian.com/football/2026/jun/12/usa-paraguay-world-cup-2026-group-d-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 21,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/12/trump-ufc-fighting-cage",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The New York Knicks",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/jun/12/knicks-new-york-gripped-basketball-fever",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 12,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nba Finals",
-      "count": 12,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-06-12/nba-finals-2026-ratings-espn-abc",
-      "source": "LA Times"
-    },
-    {
-      "name": "Ai",
-      "count": 11,
-      "url": "https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Paramount Skydance'S",
-      "count": 10,
-      "url": "https://www.cbsnews.com/news/paramount-skydance-warner-bros-discovery-antitrust-justice-department/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Marca El Cuarto De Estados Unidos",
-      "count": 9,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/gio-reyna-se-suma-a-la-fiesta-y-marca-el-cuarto-de-estados-unidos-para-sentenciar-el-juego-tmvo13193576",
-      "source": "NBC News"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
       "count": 21,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/12/trump-ufc-fighting-cage",
-      "source": "The Guardian"
-    },
-    {
-      "name": "David Hockney",
-      "count": 17,
-      "url": "https://www.theguardian.com/artanddesign/2026/jun/12/david-hockney-remembered-artists-rachel-whiteread-jeremy-deller",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump ’S",
-      "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/jun/13/texas-border-wall-big-bend-national-park",
+      "url": "https://www.theguardian.com/us-news/2026/jun/12/judge-denies-pause-trump-name-removal-kennedy-center",
       "source": "The Guardian"
     },
     {
       "name": "Elon Musk",
       "count": 15,
-      "url": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html",
+      "url": "https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html",
       "source": "NY Times"
     },
     {
+      "name": "David Hockney",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/06/13/arts/design/david-hockney-lawrence-weschler-appreciation.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump ’S",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/jun/12/paramount-warner-bros-merger",
+      "source": "The Guardian"
+    },
+    {
       "name": "Venezuelan Tren De Aragua",
-      "count": 12,
+      "count": 11,
       "url": "https://www.theguardian.com/us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed",
       "source": "The Guardian"
     },
     {
       "name": "Gene Shalit",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/06/12/arts/television/gene-shalit-dead.html",
-      "source": "NY Times"
+      "count": 9,
+      "url": "https://www.washingtonpost.com/obituaries/2026/06/13/gene-shalit-today-movie-critic-purveyor-puns-dies-100/",
+      "source": "Washington Post"
     },
     {
       "name": "Claudia Sheinbaum",
@@ -174,36 +112,98 @@
       "source": "The Guardian"
     },
     {
-      "name": "Spencer Pratt",
+      "name": "Virginia Evans",
       "count": 6,
-      "url": "https://www.nytimes.com/2026/06/12/us/elections/spencer-pratt-la-mayor.html",
+      "url": "https://www.theguardian.com/books/2026/jun/12/failure-was-my-thing-womens-prize-winner-virginia-evans-on-coping-with-years-of-rejection",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Folarin Balogun",
+      "count": 6,
+      "url": "https://www.latimes.com/sports/soccer/story/2026-06-12/world-cup-united-states-win-paraguay-opener",
+      "source": "LA Times"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Is Losing Ground With",
+      "count": 54,
+      "url": "https://www.nytimes.com/2026/06/13/us/politics/trump-white-working-class-voters-economy.html",
       "source": "NY Times"
     },
     {
-      "name": "Hunter Biden",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/06/12/us/politics/hunter-biden-gavin-newsom-interview.html",
+      "name": "Paraguay",
+      "count": 31,
+      "url": "https://www.theguardian.com/football/2026/jun/12/usa-paraguay-world-cup-2026-group-d-match-report",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/jun/12/judge-ruling-trump-white-house-ufc-event",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The New York Knicks",
+      "count": 15,
+      "url": "https://www.theguardian.com/sport/2026/jun/12/spurs-knicks-game-5-victor-wembanyama-nba-finals",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nba Finals",
+      "count": 11,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-06-12/nba-finals-2026-ratings-espn-abc",
+      "source": "LA Times"
+    },
+    {
+      "name": "Cbs News",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Paramount Skydance'S",
+      "count": 10,
+      "url": "https://www.cbsnews.com/news/paramount-skydance-warner-bros-discovery-antitrust-justice-department/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Brinsworth House",
+      "count": 8,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/13/which-song-features-nine-times-in-the-film-groundhog-day-the-saturday-quiz",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ufc Birthday Party",
+      "count": 8,
+      "url": "https://www.theguardian.com/culture/2026/jun/12/seth-meyers-trump-iran-inflation",
+      "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 58,
-      "url": "https://www.theguardian.com/film/2026/jun/12/obsession-horror-film-hollywood",
+      "count": 56,
+      "url": "https://www.theguardian.com/us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 49,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
+      "count": 55,
+      "url": "https://www.nytimes.com/2026/06/13/us/politics/sergio-gor-ambassador-transformation-trump-era.html",
+      "source": "NY Times"
     },
     {
       "name": "Iran",
-      "count": 31,
-      "url": "https://www.theguardian.com/world/2026/jun/12/trump-rollercoaster-deal-us-iran",
-      "source": "The Guardian"
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
+      "source": "NY Times"
     },
     {
       "name": "California",
@@ -212,22 +212,22 @@
       "source": "The Guardian"
     },
     {
+      "name": "L.A. County",
+      "count": 15,
+      "url": "https://www.latimes.com/california/story/2026-06-10/supporters-cheer-new-la-county-measure-er-sales-tax",
+      "source": "LA Times"
+    },
+    {
       "name": "Canada",
       "count": 14,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
-      "name": "L.A.",
-      "count": 14,
-      "url": "https://www.latimes.com/california/story/2026-06-12/unfounded-claims-of-homeless-vote-fraud-we-go-to-skid-row-for-answers",
-      "source": "LA Times"
-    },
-    {
-      "name": "New York",
+      "name": "Uk",
       "count": 12,
-      "url": "https://www.nytimes.com/2026/06/12/nyregion/knicks-finals-tickets-san-antonio.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/13/belfast-southampton-riots-racism-why-is-the-uk-burning",
+      "source": "The Guardian"
     },
     {
       "name": "Los Angeles Stadium",
@@ -236,17 +236,17 @@
       "source": "The Guardian"
     },
     {
-      "name": "Uk",
+      "name": "England",
       "count": 11,
       "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/13/belfast-southampton-riots-racism-why-is-the-uk-burning",
       "source": "The Guardian"
     },
     {
-      "name": "Mexico City",
+      "name": "Ukraine",
       "count": 11,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/11/claudia-sheinbaum-the-wildly-popular-mexican-president-dealing-with-drug-violence-disappearances-and-donald-trump",
+      "url": "https://www.theguardian.com/world/2026/jun/13/lukianivska-square-kyiv-most-bombed-neighbourhood-ukraine",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-06-13T05:23:31Z"
+  "updated": "2026-06-13T10:04:36Z"
 };
