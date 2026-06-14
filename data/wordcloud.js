@@ -2,83 +2,88 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    107,
+    97,
     "https://www.nytimes.com/2026/06/14/us/politics/trump-age-birthday-80.html"
   ],
   [
     "cup",
-    79,
-    "https://www.nytimes.com/2026/06/14/world/americas/world-cup-curacao-netherlands-soccer.html"
+    88,
+    "https://www.nytimes.com/2026/06/14/science/world-cup-turf-sorochan.html"
   ],
   [
     "president",
-    55,
+    52,
     "https://www.nytimes.com/2026/06/14/us/politics/trump-age-birthday-80.html"
   ],
   [
-    "knicks",
-    40,
-    "https://www.nytimes.com/2026/06/14/nyregion/knicks-new-york-city-nba-championship-win.html"
+    "iran",
+    37,
+    "https://www.nytimes.com/2026/06/14/world/middleeast/israel-us-iran-deal.html"
   ],
   [
     "york",
-    39,
+    37,
     "https://www.nytimes.com/2026/06/14/nyregion/knicks-new-york-city-nba-championship-win.html"
   ],
   [
     "game",
-    32,
-    "https://www.nytimes.com/2026/06/14/briefing/net-gain.html"
-  ],
-  [
-    "nba",
     30,
     "https://www.theguardian.com/us-news/2026/jun/14/new-york-city-knicks-nba-championship"
   ],
   [
-    "war",
+    "knicks",
     27,
-    "https://www.nytimes.com/2026/06/14/world/europe/germany-japan-rearmament-military.html"
+    "https://www.nytimes.com/2026/06/14/nyregion/knicks-new-york-city-nba-championship-win.html"
   ],
   [
-    "iran",
-    24,
-    "https://www.nytimes.com/2026/06/14/world/europe/us-iran-rusisa-ukraine.html"
+    "war",
+    26,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "david",
-    22,
-    "https://www.theguardian.com/artanddesign/2026/jun/14/david-hockney-gay-queer-sexualised-imagery-celebration"
-  ],
-  [
-    "donald",
-    21,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/14/donald-trump-turns-80-faces-foe-father-time"
-  ],
-  [
-    "hockney",
-    21,
-    "https://www.theguardian.com/artanddesign/2026/jun/14/david-hockney-gay-queer-sexualised-imagery-celebration"
-  ],
-  [
-    "win",
-    21,
-    "https://www.theguardian.com/us-news/2026/jun/14/new-york-city-knicks-nba-championship"
+    "mark",
+    23,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/california-land-of-plunder-and-hypocrisy"
   ],
   [
     "los",
-    21,
+    23,
     "https://www.theguardian.com/sport/2026/jun/14/new-york-knicks-san-antonio-spurs-nba-finals-title"
   ],
   [
-    "series",
-    21,
-    "https://www.theguardian.com/football/2026/jun/14/australia-socceroos-turkey-world-cup-2026-group-d-match-report"
+    "nation",
+    23,
+    "https://www.theguardian.com/football/2026/jun/14/mohamed-salah-has-eyes-of-a-nation-on-him-as-egypt-look-to-end-92-year-wait"
+  ],
+  [
+    "sen",
+    23,
+    "https://www.foxnews.com/media/katie-britt-says-republicans-prepared-third-budget-reconciliation-package-democrats-block-funds"
+  ],
+  [
+    "american",
+    22,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/80th-birthday-messages-president-trump-greta-thunberg-piers-morgan-"
+  ],
+  [
+    "fans",
+    22,
+    "https://www.theguardian.com/sport/2026/jun/14/new-york-knicks-san-antonio-spurs-nba-finals-title"
   ],
   [
     "summer",
-    21,
-    "https://www.theguardian.com/film/2026/jun/13/stop-that-train-film-drag-comedy"
+    22,
+    "https://www.theguardian.com/us-news/2026/jun/14/one-year-later-los-angeles-ice-raids"
+  ],
+  [
+    "team",
+    20,
+    "https://www.nytimes.com/2026/06/14/nyregion/knicks-new-york-city-nba-championship-win.html"
+  ],
+  [
+    "israel",
+    19,
+    "https://www.nytimes.com/2026/06/14/world/middleeast/israel-us-iran-deal.html"
   ],
   [
     "something",
@@ -86,134 +91,169 @@
     "https://www.nytimes.com/2026/06/14/nyregion/knicks-new-york-city-nba-championship-win.html"
   ],
   [
+    "peace",
+    19,
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+  ],
+  [
+    "nba",
+    19,
+    "https://www.theguardian.com/football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live"
+  ],
+  [
+    "david",
+    19,
+    "https://www.theguardian.com/sport/2026/jun/14/new-york-knicks-san-antonio-spurs-nba-finals-title"
+  ],
+  [
     "sleep",
     19,
     "https://www.theguardian.com/society/2026/jun/14/other-medications-opioids-alternatives-study"
   ],
   [
-    "team",
+    "south",
     18,
-    "https://www.nytimes.com/2026/06/14/nyregion/knicks-new-york-city-nba-championship-win.html"
+    "https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates"
   ],
   [
-    "artist",
+    "margaret",
     18,
-    "https://www.theguardian.com/artanddesign/2026/jun/14/david-hockney-gay-queer-sexualised-imagery-celebration"
-  ],
-  [
-    "food",
-    18,
-    "https://www.theguardian.com/food/2026/jun/14/everything-you-need-to-know-about-sugar-from-how-much-you-should-consume-to-some-of-its-50-disguises"
-  ],
-  [
-    "star",
-    18,
-    "https://www.theguardian.com/football/2026/jun/14/vinicius-junior-brazil-world-cup-2026"
-  ],
-  [
-    "family",
-    17,
-    "https://www.nytimes.com/2026/06/14/world/asia/japan-royal-family-adoption-male.html"
-  ],
-  [
-    "early",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "night",
-    17,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/14/donald-trump-turns-80-faces-foe-father-time"
-  ],
-  [
-    "american",
-    17,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/80th-birthday-messages-president-trump-greta-thunberg-piers-morgan-"
-  ],
-  [
-    "championship",
-    17,
-    "https://www.theguardian.com/us-news/2026/jun/14/white-house-ufc-fighters-crypto"
-  ],
-  [
-    "victory",
-    17,
-    "https://www.theguardian.com/us-news/2026/jun/14/maine-graham-platner-democrats"
-  ],
-  [
-    "fans",
-    17,
-    "https://www.theguardian.com/sport/2026/jun/14/new-york-knicks-san-antonio-spurs-nba-finals-title"
+    "https://www.theguardian.com/books/2026/jun/13/what-to-read-this-summer-by-mark-haddon-samantha-harvey-zadie-smith-and-more"
   ],
   [
     "soccer",
     17,
-    "https://www.theguardian.com/football/2026/jun/13/no-soccer-fans-here-world-cup-fever-fails-to-grip-texas-republicans"
+    "https://www.nytimes.com/2026/06/14/science/world-cup-turf-sorochan.html"
   ],
   [
-    "cat",
+    "country",
     17,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/14/moment-i-knew-unkempt-hovel-nonjudgmental"
-  ],
-  [
-    "british",
-    16,
-    "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
-  ],
-  [
-    "latest",
-    16,
-    "https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html"
+    "https://www.nytimes.com/2026/06/14/us/team-curacao-world-cup-fans.html"
   ],
   [
     "morning",
-    16,
+    17,
     "https://www.washingtonpost.com/obituaries/2026/06/13/gene-shalit-today-movie-critic-purveyor-puns-dies-100/"
   ],
   [
-    "games",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/14/world-cup-heat-workers"
-  ],
-  [
-    "california",
-    16,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/california-land-of-plunder-and-hypocrisy"
-  ],
-  [
-    "whose",
-    15,
-    "https://www.nytimes.com/2026/06/14/us/politics/trump-mike-collins-georgia-senate-runoff.html"
-  ],
-  [
-    "party",
-    15,
-    "https://www.washingtonpost.com/nation/2026/06/13/texass-gop-platform-is-getting-more-extreme-influential/"
+    "win",
+    17,
+    "https://www.theguardian.com/sport/2026/jun/14/new-york-knicks-san-antonio-spurs-nba-finals-title"
   ],
   [
     "court",
-    15,
-    "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-court-fight-privatisation-coast"
+    17,
+    "https://www.theguardian.com/sport/2026/jun/14/new-york-knicks-san-antonio-spurs-nba-finals-title"
   ],
   [
-    "debut",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/13/texas-elephant-republican-convention"
+    "star",
+    17,
+    "https://www.theguardian.com/music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la"
   ],
   [
     "ukraine",
-    14,
-    "https://www.nytimes.com/2026/06/14/world/europe/us-iran-rusisa-ukraine.html"
+    16,
+    "https://www.nytimes.com/2026/06/14/world/europe/us-iran-russia-ukraine.html"
   ],
   [
-    "america",
-    14,
-    "https://www.nytimes.com/2026/06/12/arts/music/slayyyter-interview-popcast.html"
+    "mcconnell",
+    16,
+    "https://www.nytimes.com/2026/06/14/us/politics/mitch-mcconnell-hospitalized.html"
   ],
   [
-    "decades",
+    "party",
+    16,
+    "https://www.washingtonpost.com/nation/2026/06/13/texass-gop-platform-is-getting-more-extreme-influential/"
+  ],
+  [
+    "office",
+    16,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/80th-birthday-messages-president-trump-greta-thunberg-piers-morgan-"
+  ],
+  [
+    "angeles",
+    16,
+    "https://www.theguardian.com/sport/2026/jun/14/new-york-knicks-san-antonio-spurs-nba-finals-title"
+  ],
+  [
+    "hegseth",
+    16,
+    "https://www.theguardian.com/world/2026/jun/14/normandy-village-legrune-sur-mer-protest-d-day-pete-hegseth"
+  ],
+  [
+    "cat",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/may/24/cat-enrichment-toys-indoor-cats"
+  ],
+  [
+    "brennan",
+    16,
+    "https://www.cbsnews.com/news/pete-hegseth-defense-secretary-face-the-nation-transcript-06-14-2026/"
+  ],
+  [
+    "near",
+    15,
+    "https://www.nytimes.com/2026/06/14/us/skydiving-plane-crash-butler-missouri.html"
+  ],
+  [
+    "health",
+    15,
+    "https://www.nytimes.com/2026/06/14/us/politics/mitch-mcconnell-hospitalized.html"
+  ],
+  [
+    "guide",
+    15,
+    "https://www.theguardian.com/football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live"
+  ],
+  [
+    "food",
+    15,
+    "https://www.theguardian.com/food/2026/jun/14/everything-you-need-to-know-about-sugar-from-how-much-you-should-consume-to-some-of-its-50-disguises"
+  ],
+  [
+    "california",
+    15,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/california-land-of-plunder-and-hypocrisy"
+  ],
+  [
+    "buying",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/jun/14/fathers-day-tech-gadgets-dads"
+  ],
+  [
+    "fewer",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/jun/14/fathers-day-tech-gadgets-dads"
+  ],
+  [
+    "donald",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/14/trump-putin-call-ukraine-russia-iran-war"
+  ],
+  [
+    "lawn",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/14/white-house-ufc-fighters-crypto"
+  ],
+  [
+    "hospital",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/14/mitch-mcconnell-hospital"
+  ],
+  [
+    "hockney",
+    15,
+    "https://www.theguardian.com/artanddesign/gallery/2026/jun/14/david-hockney-greatest-works-in-pictures-normandy-la-yorkshire"
+  ],
+  [
+    "games",
+    15,
+    "https://www.theguardian.com/football/2026/jun/14/eberechi-eze-england-penalty-shootout-2026-world-cup"
+  ],
+  [
+    "democrats",
     14,
-    "https://www.washingtonpost.com/nation/2026/06/14/philly-tries-make-world-cup-affordable-with-low-train-fare-free-fests/"
+    "https://www.nytimes.com/2026/06/14/us/politics/redistricting-black-democrats-debbie-wasserman-schultz-florida.html"
   ],
   [
     "sea",
@@ -226,153 +266,113 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "style",
+    "past",
     14,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/14/donald-trump-turns-80-faces-foe-father-time"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "south",
+    "title",
     14,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/14/donald-trump-turns-80-faces-foe-father-time"
+    "https://www.theguardian.com/sport/2026/jun/14/new-york-knicks-san-antonio-spurs-nba-finals-title"
   ],
   [
-    "lawn",
+    "don",
     14,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/14/donald-trump-turns-80-faces-foe-father-time"
+    "https://www.theguardian.com/thefilter-us/2026/jun/14/fathers-day-tech-gadgets-dads"
   ],
   [
-    "history",
-    14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/80th-birthday-messages-president-trump-greta-thunberg-piers-morgan-"
-  ],
-  [
-    "ufc",
+    "family",
     14,
     "https://www.theguardian.com/us-news/2026/jun/14/white-house-ufc-fighters-crypto"
   ],
   [
-    "health",
+    "far",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/14/world-cup-heat-workers"
+    "https://www.theguardian.com/world/2026/jun/14/switzerland-referendum-population-cap-svp"
   ],
   [
-    "hours",
+    "ahead",
     14,
-    "https://www.theguardian.com/uk-news/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-english-channel"
+    "https://www.theguardian.com/us-news/2026/jun/14/maine-graham-platner-democrats"
   ],
   [
-    "fight",
+    "senate",
     14,
-    "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-court-fight-privatisation-coast"
+    "https://www.theguardian.com/us-news/2026/jun/14/maine-graham-platner-democrats"
   ],
   [
-    "guide",
+    "artist",
     14,
-    "https://www.theguardian.com/football/live/2026/jun/14/world-cup-2026-news-scotland-react-to-first-world-cup-victory-in-36-years-as-australia-beat-turkey"
+    "https://www.theguardian.com/artanddesign/gallery/2026/jun/14/david-hockney-greatest-works-in-pictures-normandy-la-yorkshire"
   ],
   [
-    "weekly",
+    "stadium",
     14,
-    "https://www.theguardian.com/commentisfree/2026/jun/14/parents-death-hebridean-island-solitude-harris"
+    "https://www.theguardian.com/football/2026/jun/14/were-the-same-as-we-were-then-spain-confident-of-repeating-euros-success"
   ],
   [
-    "buying",
+    "love",
     14,
-    "https://www.theguardian.com/commentisfree/2026/jun/14/vladimir-putin-ukraine-war-borders-russian-president"
+    "https://www.theguardian.com/film/2026/jun/13/stop-that-train-film-drag-comedy"
   ],
   [
-    "fewer",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/12/best-clothing-rental-subscription"
-  ],
-  [
-    "vance",
-    14,
-    "https://www.foxnews.com/media/vice-president-jd-vance-opens-catholic-faith-relationship-god-felt-home"
-  ],
-  [
-    "russian",
+    "defense",
     13,
     "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
   ],
   [
-    "past",
+    "british",
     13,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
   ],
   [
-    "england",
+    "stop",
     13,
-    "https://www.theguardian.com/artanddesign/2026/jun/14/david-hockney-gay-queer-sexualised-imagery-celebration"
+    "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
   ],
   [
-    "point",
+    "really",
     13,
-    "https://www.theguardian.com/world/2026/jun/14/normandy-village-legrune-sur-mer-protest-d-day-pete-hegseth"
+    "https://www.nytimes.com/2026/06/14/us/politics/trump-age-birthday-80.html"
   ],
   [
-    "event",
+    "killed",
     13,
-    "https://www.theguardian.com/world/2026/jun/14/normandy-village-legrune-sur-mer-protest-d-day-pete-hegseth"
+    "https://www.nytimes.com/2026/06/14/us/skydiving-plane-crash-butler-missouri.html"
   ],
   [
-    "far",
+    "crash",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/14/maine-graham-platner-democrats"
+    "https://www.nytimes.com/2026/06/14/us/skydiving-plane-crash-butler-missouri.html"
   ],
   [
-    "finals",
+    "missouri",
     13,
-    "https://www.theguardian.com/sport/2026/jun/14/new-york-knicks-san-antonio-spurs-nba-finals-title"
-  ],
-  [
-    "angeles",
-    13,
-    "https://www.theguardian.com/sport/2026/jun/14/new-york-knicks-san-antonio-spurs-nba-finals-title"
-  ],
-  [
-    "london",
-    13,
-    "https://www.theguardian.com/culture/2026/jun/14/anish-kapoor-hayward-gallery-interview"
-  ],
-  [
-    "don",
-    13,
-    "https://www.theguardian.com/football/2026/jun/14/folarin-balogun-usmnt-paraguay-world-cup"
-  ],
-  [
-    "young",
-    13,
-    "https://www.theguardian.com/football/2026/jun/14/australia-socceroos-turkey-world-cup-2026-group-d-match-report"
-  ],
-  [
-    "country",
-    12,
-    "https://www.nytimes.com/2026/06/14/world/americas/world-cup-curacao-netherlands-soccer.html"
+    "https://www.nytimes.com/2026/06/14/us/skydiving-plane-crash-butler-missouri.html"
   ],
   [
     "black",
-    12,
+    13,
     "https://www.nytimes.com/2026/06/14/us/politics/redistricting-black-democrats-debbie-wasserman-schultz-florida.html"
   ],
   [
-    "democrats",
-    12,
-    "https://www.nytimes.com/2026/06/14/us/politics/redistricting-black-democrats-debbie-wasserman-schultz-florida.html"
+    "questions",
+    13,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "peace",
-    12,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "bill",
-    12,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/14/donald-trump-turns-80-faces-foe-father-time"
+    "secretary",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "birthday",
-    12,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/14/donald-trump-turns-80-faces-foe-father-time"
+    13,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/80th-birthday-messages-president-trump-greta-thunberg-piers-morgan-"
+  ],
+  [
+    "filter",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jun/14/fathers-day-tech-gadgets-dads"
   ]
 ];
