@@ -2,118 +2,88 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    103,
+    94,
     "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html"
   ],
   [
     "cup",
-    96,
-    "https://www.nytimes.com/2026/06/14/us/team-curacao-world-cup-fans.html"
+    88,
+    "https://www.nytimes.com/2026/06/15/podcasts/the-headlines/us-iran-deal-ufc-fight-at-the-white-house.html"
   ],
   [
     "iran",
-    60,
+    64,
     "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html"
   ],
   [
     "president",
-    57,
+    41,
+    "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html"
+  ],
+  [
+    "war",
+    29,
+    "https://www.nytimes.com/2026/06/15/us/politics/trump-group-of-7-summit.html"
+  ],
+  [
+    "game",
+    27,
+    "https://www.theguardian.com/us-news/2026/jun/14/new-york-city-knicks-nba-championship"
+  ],
+  [
+    "team",
+    25,
+    "https://www.nytimes.com/2026/06/14/nyregion/knicks-parade-nyc-what-to-know.html"
+  ],
+  [
+    "win",
+    25,
+    "https://www.nytimes.com/2026/06/14/nyregion/knicks-parade-nyc-what-to-know.html"
+  ],
+  [
+    "los",
+    25,
+    "https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal"
+  ],
+  [
+    "fans",
+    22,
+    "https://www.nytimes.com/2026/06/15/nyregion/knicks-championship-history.html"
+  ],
+  [
+    "don",
+    22,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/15/free-from-shame-laverne-cox-trans-woman-in-trump-america"
+  ],
+  [
+    "american",
+    21,
+    "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html"
+  ],
+  [
+    "summer",
+    20,
+    "https://www.nytimes.com/2026/06/15/nyregion/sail-250-nyc-ships.html"
+  ],
+  [
+    "birthday",
+    19,
+    "https://www.nytimes.com/2026/06/14/us/ufc-trump-white-house.html"
+  ],
+  [
+    "games",
+    19,
+    "https://www.theguardian.com/games/2026/jun/15/mr-monopoly-vs-mr-burns-the-simpsons-take-over-monopoly-go"
+  ],
+  [
+    "strait",
+    18,
     "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html"
   ],
   [
     "york",
-    38,
+    18,
     "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html"
-  ],
-  [
-    "game",
-    32,
-    "https://www.nytimes.com/2026/06/14/nyregion/knicks-celebration-violence-midtown.html"
-  ],
-  [
-    "win",
-    30,
-    "https://www.nytimes.com/2026/06/14/nyregion/knicks-parade-nyc-what-to-know.html"
-  ],
-  [
-    "knicks",
-    28,
-    "https://www.nytimes.com/2026/06/14/arts/dance/the-knicks-spontaneous-dancing.html"
-  ],
-  [
-    "fans",
-    26,
-    "https://www.nytimes.com/2026/06/14/nyregion/knicks-celebration-violence-midtown.html"
-  ],
-  [
-    "team",
-    24,
-    "https://www.nytimes.com/2026/06/14/us/team-curacao-world-cup-fans.html"
-  ],
-  [
-    "summer",
-    24,
-    "https://www.nytimes.com/2026/06/13/nyregion/nyc-playground-associates-summer-camp.html"
-  ],
-  [
-    "los",
-    24,
-    "https://www.theguardian.com/music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la"
-  ],
-  [
-    "killed",
-    22,
-    "https://www.nytimes.com/2026/06/14/us/skydiving-plane-crash-butler-missouri.html"
-  ],
-  [
-    "american",
-    22,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/california-land-of-plunder-and-hypocrisy"
-  ],
-  [
-    "games",
-    20,
-    "https://www.nytimes.com/2026/06/13/nyregion/nyc-playground-associates-summer-camp.html"
-  ],
-  [
-    "war",
-    20,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "strait",
-    19,
-    "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html"
-  ],
-  [
-    "early",
-    19,
-    "https://www.nytimes.com/2026/06/14/business/oil-stocks-gas-iran.html"
-  ],
-  [
-    "country",
-    19,
-    "https://www.nytimes.com/2026/06/14/us/team-curacao-world-cup-fans.html"
-  ],
-  [
-    "night",
-    19,
-    "https://www.theguardian.com/music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la"
-  ],
-  [
-    "ufc",
-    19,
-    "https://www.theguardian.com/sport/live/2026/jun/14/ufc-freedom-250-fights-trump-white-house-live-blog"
-  ],
-  [
-    "hours",
-    19,
-    "https://www.theguardian.com/world/2026/jun/15/kyiv-pechersk-lavra-monastery-on-fire-russian-attacks-ukraine"
-  ],
-  [
-    "sleep",
-    19,
-    "https://www.theguardian.com/society/2026/jun/14/other-medications-opioids-alternatives-study"
   ],
   [
     "hormuz",
@@ -121,79 +91,74 @@
     "https://www.nytimes.com/2026/06/14/business/oil-stocks-gas-iran.html"
   ],
   [
+    "country",
+    18,
+    "https://www.nytimes.com/2026/06/15/nyregion/sail-250-nyc-ships.html"
+  ],
+  [
+    "ufc",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/jun/15/donald-trump-spectacle-violence-dysfunctional-roman-emperor-ufc-white-house"
+  ],
+  [
+    "health",
+    18,
+    "https://www.theguardian.com/us-news/2026/jun/15/hunter-biden-social-posts"
+  ],
+  [
+    "social",
+    18,
+    "https://www.theguardian.com/us-news/2026/jun/15/hunter-biden-social-posts"
+  ],
+  [
+    "sleep",
+    18,
+    "https://www.theguardian.com/film/2026/jun/13/stop-that-train-film-drag-comedy"
+  ],
+  [
     "peace",
-    18,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "angeles",
-    18,
-    "https://www.theguardian.com/music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la"
-  ],
-  [
-    "donald",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/jun/14/democracy-supporters-migration"
-  ],
-  [
-    "party",
     17,
-    "https://www.nytimes.com/2026/06/14/nyregion/knicks-celebration-violence-midtown.html"
+    "https://www.nytimes.com/2026/06/15/world/americas/colombia-drug-war-violence-petro.html"
   ],
   [
-    "children",
+    "america",
     17,
-    "https://www.nytimes.com/2026/06/12/world/europe/oslo-childrens-art-museum-norway.html"
+    "https://www.theguardian.com/lifeandstyle/2026/jun/15/free-from-shame-laverne-cox-trans-woman-in-trump-america"
   ],
   [
-    "california",
+    "government",
     17,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/california-land-of-plunder-and-hypocrisy"
+    "https://www.theguardian.com/commentisfree/2026/jun/15/donald-trump-spectacle-violence-dysfunctional-roman-emperor-ufc-white-house"
   ],
   [
-    "don",
+    "media",
     17,
-    "https://www.theguardian.com/thefilter-us/2026/jun/14/fathers-day-tech-gadgets-dads"
+    "https://www.theguardian.com/us-news/2026/jun/15/hunter-biden-social-posts"
   ],
   [
     "food",
     17,
-    "https://www.theguardian.com/food/2026/jun/14/everything-you-need-to-know-about-sugar-from-how-much-you-should-consume-to-some-of-its-50-disguises"
+    "https://www.theguardian.com/artanddesign/2026/jun/15/frida-kahlo-mexico-city-tate-fridamania"
   ],
   [
-    "nba",
-    17,
-    "https://www.theguardian.com/us-news/2026/jun/14/new-york-city-knicks-nba-championship"
-  ],
-  [
-    "something",
-    17,
-    "https://www.theguardian.com/football/2026/jun/15/iraq-head-coach-graham-arnold-world-cup-2026"
-  ],
-  [
-    "fire",
+    "latest",
     16,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html"
   ],
   [
-    "south",
+    "start",
     16,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/14/donald-trump-turns-80-faces-foe-father-time"
+    "https://www.nytimes.com/2026/06/15/nyregion/democratic-primary-ny17-hudson-valley.html"
   ],
   [
-    "love",
+    "night",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/15/a-new-start-after-60-job-online-nursing"
+    "https://www.theguardian.com/sport/2026/jun/15/trump-white-house-ufc-michelle-obama-smear-gaethje-topuria"
   ],
   [
-    "david",
+    "angeles",
     16,
-    "https://www.theguardian.com/artanddesign/gallery/2026/jun/14/david-hockney-greatest-works-in-pictures-normandy-la-yorkshire"
-  ],
-  [
-    "artist",
-    16,
-    "https://www.theguardian.com/artanddesign/gallery/2026/jun/14/david-hockney-greatest-works-in-pictures-normandy-la-yorkshire"
+    "https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal"
   ],
   [
     "cat",
@@ -201,14 +166,59 @@
     "https://www.theguardian.com/thefilter-us/2026/may/24/cat-enrichment-toys-indoor-cats"
   ],
   [
+    "oil",
+    15,
+    "https://www.nytimes.com/2026/06/14/business/oil-stocks-gas-iran.html"
+  ],
+  [
     "lawn",
     15,
     "https://www.nytimes.com/2026/06/14/us/ufc-trump-white-house.html"
   ],
   [
-    "buying",
+    "far",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/14/fathers-day-tech-gadgets-dads"
+    "https://www.nytimes.com/2026/06/15/arts/television/best-tv-shows-2026-so-far.html"
+  ],
+  [
+    "ukraine",
+    15,
+    "https://www.nytimes.com/2026/06/15/world/europe/ukraine-eu-membership.html"
+  ],
+  [
+    "children",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/15/free-from-shame-laverne-cox-trans-woman-in-trump-america"
+  ],
+  [
+    "series",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/15/anthony-odiong-sexual-abuse-catholic-church"
+  ],
+  [
+    "guide",
+    15,
+    "https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live"
+  ],
+  [
+    "hours",
+    15,
+    "https://www.theguardian.com/film/2026/jun/15/jerry-maguire-feelgood-movie"
+  ],
+  [
+    "something",
+    15,
+    "https://www.theguardian.com/football/2026/jun/15/iraq-head-coach-graham-arnold-world-cup-2026"
+  ],
+  [
+    "court",
+    15,
+    "https://www.theguardian.com/sport/2026/jun/14/ben-shelton-taylor-fritz-stuttgart"
+  ],
+  [
+    "director",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/15/europe-us-big-tech-silicon-valley-european-commission"
   ],
   [
     "fewer",
@@ -216,29 +226,19 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/14/fathers-day-tech-gadgets-dads"
   ],
   [
-    "history",
-    15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/80th-birthday-messages-president-trump-greta-thunberg-piers-morgan-"
-  ],
-  [
-    "hockney",
-    15,
-    "https://www.theguardian.com/artanddesign/gallery/2026/jun/14/david-hockney-greatest-works-in-pictures-normandy-la-yorkshire"
-  ],
-  [
-    "health",
-    15,
-    "https://www.theguardian.com/sport/2026/jun/15/toyota-le-mans-24-hours-mike-conway-kamui-kobayashi-nyck-de-vries-motor-sport"
-  ],
-  [
-    "sea",
+    "place",
     14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html"
   ],
   [
-    "inside",
+    "again",
     14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.nytimes.com/2026/06/15/us/politics/alabama-senate-primary-trump-republican.html"
+  ],
+  [
+    "party",
+    14,
+    "https://www.washingtonpost.com/nation/2026/06/13/texass-gop-platform-is-getting-more-extreme-influential/"
   ],
   [
     "several",
@@ -246,133 +246,133 @@
     "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "whose",
+    "ban",
     14,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "morning",
-    14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/california-land-of-plunder-and-hypocrisy"
-  ],
-  [
-    "guide",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/14/fathers-day-tech-gadgets-dads"
-  ],
-  [
-    "series",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jun/14/democracy-supporters-migration"
+    "https://www.theguardian.com/media/2026/jun/15/social-media-ban-uk-under-16-starmer"
   ],
   [
     "fight",
     14,
-    "https://www.theguardian.com/sport/live/2026/jun/14/ufc-freedom-250-fights-trump-white-house-live-blog"
+    "https://www.theguardian.com/lifeandstyle/2026/jun/15/the-pet-ill-never-forget-joey-the-sickly-calf-who-helped-me-through-a-fog-of-grief"
   ],
   [
-    "hospital",
+    "love",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/14/mitch-mcconnell-hospital"
+    "https://www.theguardian.com/film/2026/jun/15/jerry-maguire-feelgood-movie"
   ],
   [
-    "office",
+    "california",
     14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/80th-birthday-messages-president-trump-greta-thunberg-piers-morgan-"
+    "https://www.theguardian.com/us-news/2026/jun/14/lawsuit-dismissed-yosemite-ranger-trans-pride-flag"
   ],
   [
-    "far",
+    "filter",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/14/maine-graham-platner-democrats"
+    "https://www.theguardian.com/thefilter-us/2026/jun/14/fathers-day-tech-gadgets-dads"
   ],
   [
-    "soccer",
+    "buying",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/13/zohran-mamdani-democratic-endorsements"
+    "https://www.theguardian.com/thefilter-us/2026/jun/14/fathers-day-tech-gadgets-dads"
   ],
   [
-    "del",
-    14,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/diallo-celebra-su-gol-de-ultimo-minuto-y-manda-mensaje-a-las-otras-selecciones-del-grupo-e-tmvo13193963"
-  ],
-  [
-    "match",
-    13,
-    "https://www.nytimes.com/2026/06/14/us/ufc-trump-white-house.html"
-  ],
-  [
-    "democrats",
+    "young",
     13,
     "https://www.nytimes.com/2026/06/14/us/politics/trump-ufc-politics-midterms.html"
   ],
   [
-    "plane",
+    "knicks",
     13,
-    "https://www.nytimes.com/2026/06/14/us/skydiving-plane-crash-butler-missouri.html"
+    "https://www.nytimes.com/2026/06/15/nyregion/knicks-championship-history.html"
   ],
   [
-    "america",
+    "stop",
     13,
-    "https://www.nytimes.com/2026/06/14/opinion/solar-panels-balcony-backyard-plugin.html"
+    "https://www.nytimes.com/2026/06/15/t-magazine/us-utopia-art-thomas-cole.html"
   ],
   [
-    "questions",
+    "global",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "million",
+    "film",
     13,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.theguardian.com/lifeandstyle/2026/jun/15/free-from-shame-laverne-cox-trans-woman-in-trump-america"
   ],
   [
-    "filter",
+    "donald",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/14/fathers-day-tech-gadgets-dads"
+    "https://www.theguardian.com/commentisfree/2026/jun/15/donald-trump-spectacle-violence-dysfunctional-roman-emperor-ufc-white-house"
   ],
   [
-    "always",
+    "play",
     13,
-    "https://www.theguardian.com/world/2026/jun/15/macron-evian-g7-agenda-summit-trump"
+    "https://www.theguardian.com/us-news/2026/jun/14/new-york-city-knicks-nba-championship"
   ],
   [
-    "victory",
+    "history",
     13,
-    "https://www.theguardian.com/football/2026/jun/15/sweden-tunisia-world-cup-match-report"
+    "https://www.theguardian.com/sport/2026/jun/15/trump-white-house-ufc-michelle-obama-smear-gaethje-topuria"
   ],
   [
-    "weekend",
+    "morning",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/14/80th-birthday-messages-president-trump-greta-thunberg-piers-morgan-"
+    "https://www.theguardian.com/football/2026/jun/14/real-madrid-marc-cucurella-chelsea-transfer-window-football"
   ],
   [
-    "debut",
+    "killed",
     13,
-    "https://www.theguardian.com/sport/2026/jun/14/carolina-hurricanes-beat-vegas-golden-knight-to-claim-second-stanley-cup"
+    "https://www.theguardian.com/commentisfree/2026/jun/15/democrats-argentina-escraches"
   ],
   [
-    "birthday",
+    "office",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jun/15/ai-use-by-the-us-government-is-ballooning-and-the-lack-of-transparency-is-troubling"
+  ],
+  [
+    "decision",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jun/15/ai-use-by-the-us-government-is-ballooning-and-the-lack-of-transparency-is-troubling"
+  ],
+  [
+    "hockney",
+    13,
+    "https://www.theguardian.com/artanddesign/2026/jun/15/david-hockneys-return-yorkshire-glorious-reawakening"
+  ],
+  [
+    "style",
+    13,
+    "https://www.theguardian.com/film/2026/jun/13/stop-that-train-film-drag-comedy"
+  ],
+  [
+    "weekly",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/15/the-passionate-fun-pop-culture-show-you-dont-want-to-stop-listening-to-best-podcasts-of-the-week"
+  ],
+  [
+    "agreement",
     12,
-    "https://www.nytimes.com/2026/06/14/us/ufc-trump-white-house.html"
+    "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html"
   ],
   [
-    "biggest",
+    "decades",
     12,
-    "https://www.nytimes.com/2026/06/14/us/team-curacao-world-cup-fans.html"
+    "https://www.nytimes.com/2026/06/15/magazine/political-islam-middle-east.html"
   ],
   [
-    "mamdani",
+    "faces",
     12,
-    "https://www.nytimes.com/2026/06/14/nyregion/knicks-parade-nyc-what-to-know.html"
+    "https://www.nytimes.com/2026/06/15/us/politics/alabama-senate-primary-trump-republican.html"
   ],
   [
-    "near",
+    "south",
     12,
-    "https://www.nytimes.com/2026/06/14/nyregion/knicks-celebration-violence-midtown.html"
+    "https://www.theguardian.com/sport/2026/jun/15/trump-white-house-ufc-michelle-obama-smear-gaethje-topuria"
   ],
   [
-    "crash",
+    "europe",
     12,
-    "https://www.nytimes.com/2026/06/14/us/skydiving-plane-crash-butler-missouri.html"
+    "https://www.theguardian.com/world/live/2026/jun/15/eu-g7-ukraine-kyiv-russia-war-iran-zelenskyy-macron-trump-europe-latest-news-updates"
   ]
 ];
