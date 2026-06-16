@@ -2,243 +2,203 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    83,
-    "https://www.nytimes.com/2026/06/16/us/politics/education-department-civil-rights-trump.html"
+    80,
+    "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html"
   ],
   [
     "cup",
-    67,
-    "https://www.theguardian.com/football/2026/jun/16/would-you-pay-twice-the-national-wage-to-see-the-world-cup-some-morocco-fans-are-doing-just-that"
+    76,
+    "https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report"
   ],
   [
     "iran",
-    50,
-    "https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html"
+    49,
+    "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html"
   ],
   [
     "president",
     37,
-    "https://www.nytimes.com/2026/06/16/us/politics/jd-vance-view-communion-book.html"
+    "https://www.nytimes.com/2026/06/16/us/politics/republicans-iran-war-powers-senate.html"
   ],
   [
     "war",
-    29,
+    33,
     "https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html"
   ],
   [
-    "film",
-    28,
-    "https://www.theguardian.com/news/2026/jun/16/im-not-a-person-who-puts-up-with-rudeness-unpicking-fantasy-and-reality-with-an-italian-ultra"
-  ],
-  [
-    "vance",
-    24,
-    "https://www.nytimes.com/2026/06/16/us/politics/jd-vance-communion-book-takeaways.html"
-  ],
-  [
-    "family",
-    24,
-    "https://www.theguardian.com/education/ng-interactive/2026/jun/16/college-student-drop-out-stories"
-  ],
-  [
-    "company",
-    23,
-    "https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html"
-  ],
-  [
-    "night",
-    22,
-    "https://www.nytimes.com/2026/06/15/well/chronotype-quiz.html"
-  ],
-  [
-    "fans",
-    21,
-    "https://www.theguardian.com/news/2026/jun/16/im-not-a-person-who-puts-up-with-rudeness-unpicking-fantasy-and-reality-with-an-italian-ultra"
-  ],
-  [
-    "warning",
-    20,
-    "https://www.nytimes.com/2026/06/16/world/europe/russian-navy-english-channel-yacht-uk.html"
-  ],
-  [
     "team",
-    20,
+    28,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "game",
-    20,
-    "https://www.theguardian.com/football/2026/jun/16/would-you-pay-twice-the-national-wage-to-see-the-world-cup-some-morocco-fans-are-doing-just-that"
+    "film",
+    27,
+    "https://www.theguardian.com/film/2026/jun/16/toy-story-5-review-pixar-franchise-needs-new-batteries"
   ],
   [
-    "ufc",
-    20,
-    "https://www.theguardian.com/us-news/2026/jun/16/trump-pressure-ufc-fighter-michelle-obama"
+    "primary",
+    24,
+    "https://www.nytimes.com/2026/06/16/us/politics/swalwell-replacement-california.html"
+  ],
+  [
+    "fans",
+    23,
+    "https://www.theguardian.com/football/2026/jun/16/would-you-pay-twice-the-national-wage-to-see-the-world-cup-some-morocco-fans-are-doing-just-that"
   ],
   [
     "event",
-    20,
-    "https://www.theguardian.com/us-news/2026/jun/16/trump-pressure-ufc-fighter-michelle-obama"
-  ],
-  [
-    "love",
-    19,
-    "https://www.nytimes.com/2026/06/16/well/move/dating-apps-fitness-hyrox.html"
-  ],
-  [
-    "south",
-    19,
-    "https://www.theguardian.com/us-news/2026/jun/16/screwworm-cases-rise-outbreak-spreads"
+    22,
+    "https://www.nytimes.com/2026/06/16/us/politics/white-house-ufc-attack-plot.html"
   ],
   [
     "star",
-    19,
+    21,
     "https://www.theguardian.com/film/2026/jun/16/tom-holland-zendaya-confirms-married"
   ],
   [
-    "york",
-    19,
-    "https://www.theguardian.com/football/2026/jun/16/would-you-pay-twice-the-national-wage-to-see-the-world-cup-some-morocco-fans-are-doing-just-that"
+    "attack",
+    20,
+    "https://www.nytimes.com/2026/06/16/us/politics/white-house-ufc-attack-plot.html"
   ],
   [
-    "health",
-    18,
-    "https://www.nytimes.com/2026/06/16/us/politics/education-department-civil-rights-trump.html"
+    "night",
+    20,
+    "https://www.nytimes.com/2026/06/15/well/chronotype-quiz.html"
   ],
   [
-    "latest",
-    18,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "players",
-    18,
-    "https://www.theguardian.com/football/2026/jun/16/iran-overcomes-its-divisions-for-90-minutes-then-same-old-problems-return"
-  ],
-  [
-    "center",
-    17,
-    "https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html"
-  ],
-  [
-    "cbs",
-    17,
-    "https://www.cbsnews.com/video/irans-desire-to-keep-hezbollah-alive-could-derail-us-deal-expert-warns/"
-  ],
-  [
-    "georgia",
-    16,
-    "https://www.nytimes.com/2026/06/16/us/politics/elections-georgia-alabama-oklahoma-runoff.html"
-  ],
-  [
-    "really",
-    16,
+    "family",
+    20,
     "https://www.theguardian.com/education/ng-interactive/2026/jun/16/college-student-drop-out-stories"
   ],
   [
-    "water",
-    16,
-    "https://www.theguardian.com/world/2026/jun/16/iran-reaction-peace-deal-agreement-us-trump"
+    "south",
+    20,
+    "https://www.theguardian.com/artanddesign/2026/jun/16/obama-presidential-center-chicago-art"
   ],
   [
-    "games",
-    16,
-    "https://www.theguardian.com/football/2026/jun/16/enjoying-the-world-cup-well-its-time-for-england-but-this-is-a-team-less-weighed-down-by-its-past"
-  ],
-  [
-    "debut",
-    16,
-    "https://www.theguardian.com/sport/2026/jun/16/serena-williams-wimbledon-doubles-wildcard-venus-tennis"
-  ],
-  [
-    "school",
-    15,
-    "https://www.nytimes.com/2026/06/16/us/politics/us-strike-iranian-school.html"
-  ],
-  [
-    "political",
-    15,
-    "https://www.nytimes.com/2026/06/16/us/politics/jd-vance-communion-book-takeaways.html"
-  ],
-  [
-    "spacex",
-    15,
-    "https://www.nytimes.com/2026/06/16/business/spacex-market-value-ranking.html"
+    "election",
+    19,
+    "https://www.nytimes.com/2026/06/16/us/politics/swalwell-replacement-california.html"
   ],
   [
     "donald",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/jun/16/iran-peace-deal-us-washington-war-lebanon"
-  ],
-  [
-    "history",
-    15,
-    "https://www.theguardian.com/technology/2026/jun/16/pennsylvania-datacenters-debate-politicians"
-  ],
-  [
-    "alleged",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/16/minnesota-immigration-enforcement-conspiracy-charges"
+    19,
+    "https://www.nytimes.com/2026/06/16/us/politics/clinton-biden-reelection-terrible-mistake.html"
   ],
   [
     "police",
-    15,
-    "https://www.theguardian.com/film/2026/jun/16/sean-penn-bradley-cooper-january-6-film"
+    19,
+    "https://www.theguardian.com/us-news/2026/jun/16/new-jersey-acid-attack"
+  ],
+  [
+    "race",
+    18,
+    "https://www.nytimes.com/2026/06/16/us/politics/jd-vance-view-communion-book.html"
+  ],
+  [
+    "company",
+    18,
+    "https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html"
+  ],
+  [
+    "georgia",
+    18,
+    "https://www.theguardian.com/us-news/2026/jun/16/judge-recuses-georgia-election-case"
+  ],
+  [
+    "game",
+    18,
+    "https://www.theguardian.com/football/2026/jun/16/usa-australia-world-cup-media-comments"
+  ],
+  [
+    "health",
+    17,
+    "https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html"
+  ],
+  [
+    "latest",
+    17,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "california",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/jun/16/trillionaires-dire-democracy"
+  ],
+  [
+    "warning",
+    16,
+    "https://www.theguardian.com/uk-news/2026/jun/16/russian-frigate-fires-warning-shots-at-british-yacht-in-channel-reports"
+  ],
+  [
+    "york",
+    16,
+    "https://www.theguardian.com/us-news/2026/jun/16/los-angeles-police-fatally-shoot-pet-dog-of-family-celebrating-knicks-win"
+  ],
+  [
+    "won",
+    16,
+    "https://www.theguardian.com/football/2026/jun/16/algeria-lawrence-kansas-world-cup-fans-adopted-team"
+  ],
+  [
+    "cbs",
+    16,
+    "https://www.cbsnews.com/video/fbi-investigating-shooting-federal-agents-us-canada-border-washington/"
   ],
   [
     "play",
     15,
-    "https://www.theguardian.com/film/2026/jun/16/toy-story-5-review-pixar-franchise-needs-new-batteries"
+    "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html"
   ],
   [
-    "guide",
+    "israel",
     15,
-    "https://www.theguardian.com/football/live/2026/jun/16/france-v-senegal-world-cup-2026-live"
+    "https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html"
+  ],
+  [
+    "love",
+    15,
+    "https://www.nytimes.com/2026/06/16/well/move/dating-apps-fitness-hyrox.html"
+  ],
+  [
+    "far",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/16/screwworm-cases-rise-outbreak-spreads"
   ],
   [
     "food",
     15,
-    "https://www.theguardian.com/commentisfree/2026/jun/16/brooklyn-beckham-family-doordash-ad"
+    "https://www.theguardian.com/thefilter-us/2026/jun/16/caraway-cookware-review"
   ],
   [
-    "won",
-    14,
-    "https://www.nytimes.com/2026/06/16/business/fertilizer-farming-iran.html"
+    "games",
+    15,
+    "https://www.theguardian.com/football/2026/jun/16/enjoying-the-world-cup-well-its-time-for-england-but-this-is-a-team-less-weighed-down-by-its-past"
   ],
   [
-    "russian",
-    14,
-    "https://www.nytimes.com/2026/06/15/world/europe/ukraine-russia-war-ai.html"
+    "style",
+    15,
+    "https://www.theguardian.com/music/2026/jun/16/from-the-pain-of-apartheid-to-luscious-beauty-10-of-the-best-recordings-by-jazz-legend-abdullah-ibrahim"
   ],
   [
-    "race",
+    "senate",
     14,
-    "https://www.nytimes.com/2026/06/16/us/politics/jd-vance-view-communion-book.html"
+    "https://www.nytimes.com/2026/06/16/us/politics/republicans-iran-war-powers-senate.html"
   ],
   [
-    "plot",
+    "alleged",
     14,
-    "https://www.nytimes.com/2026/06/16/us/minnesota-immigration-charges-antifa.html"
+    "https://www.nytimes.com/2026/06/16/us/politics/white-house-ufc-attack-plot.html"
   ],
   [
-    "administration",
+    "political",
     14,
-    "https://www.nytimes.com/2026/06/16/us/politics/education-department-civil-rights-trump.html"
+    "https://www.nytimes.com/2026/06/16/us/politics/jd-vance-communion-book-takeaways.html"
   ],
   [
-    "republican",
+    "country",
     14,
-    "https://www.nytimes.com/2026/06/16/us/politics/elections-georgia-alabama-oklahoma-runoff.html"
-  ],
-  [
-    "something",
-    14,
-    "https://www.nytimes.com/2026/06/15/well/chronotype-quiz.html"
-  ],
-  [
-    "government",
-    14,
-    "https://www.theguardian.com/environment/2026/jun/16/arctic-sea-ice-rethickening-climate-geoengineering"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "don",
@@ -246,124 +206,154 @@
     "https://www.theguardian.com/technology/2026/jun/16/pennsylvania-datacenters-debate-politicians"
   ],
   [
-    "children",
+    "social",
     14,
-    "https://www.theguardian.com/global-development/2026/jun/16/somalia-us-trump-war-alshabaab-islamists-drone-airstrikes-civilian-deaths-children"
+    "https://www.theguardian.com/commentisfree/2026/jun/16/trillionaires-dire-democracy"
   ],
   [
-    "today",
+    "summer",
     14,
-    "https://www.theguardian.com/film/2026/jun/16/david-bowie-workaholic-labyrinth-at-40-oral-history"
+    "https://www.theguardian.com/commentisfree/2026/jun/16/trillionaires-dire-democracy"
   ],
   [
-    "research",
+    "really",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later"
+    "https://www.theguardian.com/education/ng-interactive/2026/jun/16/college-student-drop-out-stories"
   ],
   [
-    "because",
+    "los",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/16/dutch-children-unusually-happy-healthy-avondvierdaagse-walking-festival"
+    "https://www.theguardian.com/us-news/2026/jun/16/los-angeles-police-fatally-shoot-pet-dog-of-family-celebrating-knicks-win"
   ],
   [
-    "father",
+    "killed",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/16/los-angeles-police-fatally-shoot-pet-dog-of-family-celebrating-knicks-win"
+  ],
+  [
+    "review",
+    14,
+    "https://www.theguardian.com/film/2026/jun/16/toy-story-5-review-pixar-franchise-needs-new-batteries"
+  ],
+  [
+    "guide",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/jun/16/caraway-cookware-review"
+  ],
+  [
+    "watch",
+    14,
+    "https://www.theguardian.com/football/video/2026/jun/16/from-brazil-to-haaland-four-must-watch-world-cup-group-stage-matches-video"
+  ],
+  [
+    "fifa",
+    14,
+    "https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026"
+  ],
+  [
+    "music",
     14,
     "https://www.theguardian.com/us-news/2026/jun/16/missouri-skydiving-plane-crash-victims-identified"
   ],
   [
-    "released",
+    "school",
     13,
     "https://www.nytimes.com/2026/06/16/us/politics/us-strike-iranian-school.html"
   ],
   [
-    "based",
+    "whose",
     13,
-    "https://www.nytimes.com/2026/06/16/business/fertilizer-farming-iran.html"
+    "https://www.nytimes.com/2026/05/17/us/the-big-questions-about-jeffrey-epstein-what-the-times-has-learned.html"
   ],
   [
-    "least",
+    "power",
     13,
-    "https://www.nytimes.com/2026/06/16/world/europe/ukraine-moscow-oil-refinery-attack-g7-summit.html"
+    "https://www.nytimes.com/2026/05/17/us/the-big-questions-about-jeffrey-epstein-what-the-times-has-learned.html"
   ],
   [
-    "office",
+    "department",
     13,
     "https://www.nytimes.com/2026/06/16/us/politics/education-department-civil-rights-trump.html"
   ],
   [
-    "win",
+    "least",
     13,
-    "https://www.nytimes.com/2026/06/15/us/politics/montana-democrats-senate.html"
+    "https://www.nytimes.com/2026/06/16/us/politics/white-house-ufc-attack-plot.html"
   ],
   [
-    "election",
+    "center",
     13,
-    "https://www.washingtonpost.com/nation/2026/06/15/anti-islam-candidate-loses-mayors-race-texas-city-torn-over-immigration/"
+    "https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html"
   ],
   [
-    "attack",
+    "something",
     13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/06/15/well/chronotype-quiz.html"
   ],
   [
-    "early",
+    "history",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/technology/2026/jun/16/pennsylvania-datacenters-debate-politicians"
   ],
   [
-    "states",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jun/16/iran-peace-deal-us-washington-war-lebanon"
-  ],
-  [
-    "again",
-    13,
-    "https://www.theguardian.com/news/2026/jun/16/im-not-a-person-who-puts-up-with-rudeness-unpicking-fantasy-and-reality-with-an-italian-ultra"
-  ],
-  [
-    "college",
-    13,
-    "https://www.theguardian.com/education/ng-interactive/2026/jun/16/college-student-drop-out-stories"
-  ],
-  [
-    "british",
-    13,
-    "https://www.theguardian.com/uk-news/2026/jun/16/russian-frigate-fires-warning-shots-at-british-yacht-in-channel-reports"
-  ],
-  [
-    "california",
-    13,
-    "https://www.theguardian.com/football/2026/jun/16/iran-overcomes-its-divisions-for-90-minutes-then-same-old-problems-return"
-  ],
-  [
-    "social",
+    "research",
     13,
     "https://www.theguardian.com/commentisfree/2026/jun/16/trillionaires-dire-democracy"
   ],
   [
-    "music",
+    "results",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/16/missouri-skydiving-plane-crash-victims-identified"
+    "https://www.theguardian.com/us-news/2026/jun/16/california-earthquake-tectonic-systems-risk"
+  ],
+  [
+    "brand",
+    13,
+    "https://www.theguardian.com/film/2026/jun/16/toy-story-5-review-pixar-franchise-needs-new-batteries"
   ],
   [
     "buying",
     13,
-    "https://www.theguardian.com/science/2026/jun/16/spacex-ai-coding-anysphere-cursor-amazon-market-valuation-xai"
+    "https://www.theguardian.com/thefilter-us/2026/jun/16/caraway-cookware-review"
   ],
   [
-    "los",
+    "fewer",
     13,
-    "https://www.theguardian.com/music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la"
+    "https://www.theguardian.com/thefilter-us/2026/jun/16/caraway-cookware-review"
   ],
   [
-    "immigration",
-    12,
-    "https://www.nytimes.com/2026/06/16/us/politics/jd-vance-communion-book-takeaways.html"
+    "players",
+    13,
+    "https://www.theguardian.com/football/2026/jun/16/usa-australia-world-cup-media-comments"
   ],
   [
-    "department",
+    "father",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/16/missouri-skydiving-plane-crash-victims-identified"
+  ],
+  [
+    "dads",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jun/14/fathers-day-tech-gadgets-dads"
+  ],
+  [
+    "peace",
     12,
-    "https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html"
+    "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html"
+  ],
+  [
+    "released",
+    12,
+    "https://www.nytimes.com/2026/06/16/us/politics/us-strike-iranian-school.html"
+  ],
+  [
+    "democratic",
+    12,
+    "https://www.nytimes.com/2026/06/16/us/politics/clinton-biden-reelection-terrible-mistake.html"
+  ],
+  [
+    "office",
+    12,
+    "https://www.nytimes.com/2026/06/16/us/politics/education-department-civil-rights-trump.html"
   ],
   [
     "sleep",
@@ -371,8 +361,18 @@
     "https://www.nytimes.com/2026/06/15/well/chronotype-quiz.html"
   ],
   [
-    "million",
+    "crash",
     12,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.washingtonpost.com/nation/2026/06/15/missouri-plane-crash-rips-hole-close-knit-skydiving-community/"
+  ],
+  [
+    "texas",
+    12,
+    "https://www.washingtonpost.com/nation/2026/06/15/anti-islam-candidate-loses-mayors-race-texas-city-torn-over-immigration/"
+  ],
+  [
+    "gop",
+    12,
+    "https://www.washingtonpost.com/nation/2026/06/15/anti-islam-candidate-loses-mayors-race-texas-city-torn-over-immigration/"
   ]
 ];
