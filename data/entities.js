@@ -3,225 +3,77 @@
   "ORG": [
     {
       "name": "Trump     “Good Evening",
-      "count": 63,
+      "count": 48,
       "url": "https://www.theguardian.com/us-news/2026/jun/15/trump-rise-up-sing-out",
       "source": "The Guardian"
     },
     {
-      "name": "Ufc Freedom 250",
-      "count": 20,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-06-15/ufc-freedom-250-trump-birthday-maga-propaganda-fights",
-      "source": "LA Times"
+      "name": "Ai",
+      "count": 14,
+      "url": "https://www.theguardian.com/environment/2026/jun/16/ai-could-help-win-race-against-extinction-of-vital-plants-say-botanists",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Un",
+      "count": 13,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/iran-y-nueva-zelanda-protagonizan-un-partidazo-con-cuatro-goles-tmvo13194357",
+      "source": "NBC News"
     },
     {
       "name": "The Filter Us",
-      "count": 14,
+      "count": 11,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
       "name": "Guardian News",
-      "count": 12,
+      "count": 11,
       "url": "https://www.theguardian.com/wellness/2024/feb/14/well-actually-sign-up-free-weekly-newsletter-about-health-and-wellness",
       "source": "The Guardian"
     },
     {
-      "name": "Ohio Senate",
-      "count": 11,
-      "url": "https://thehill.com/homenews/administration/5925071-vance-regrets-childless-cat-ladies-remark/",
-      "source": "The Hill"
+      "name": "The New York Knicks",
+      "count": 10,
+      "url": "https://www.theguardian.com/sport/2026/jun/16/knicks-james-dolan-sex-abstinence-playoffs-championship-video",
+      "source": "The Guardian"
     },
     {
-      "name": "The White House Ufc Freedom 250",
-      "count": 10,
-      "url": "https://www.foxnews.com/media/counter-ufc-rise-up-sing-out-event-mocked-cringe-after-viral-backlash",
-      "source": "Fox News"
+      "name": "Fifa",
+      "count": 9,
+      "url": "https://www.theguardian.com/football/2026/jun/16/iran-new-zealand-world-cup-2026-group-g-match-report",
+      "source": "The Guardian"
     },
     {
       "name": "The White House",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/jun/15/trump-rise-up-sing-out",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The New York Knicks",
-      "count": 9,
-      "url": "https://www.theguardian.com/sport/2026/jun/15/new-york-knicks-nba-title-fans",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/15/ai-use-by-the-us-government-is-ballooning-and-the-lack-of-transparency-is-troubling",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News",
-      "count": 9,
-      "url": "https://www.cbsnews.com/video/ntsb-investigating-missouri-plane-crash-killed-12/",
-      "source": "CBS News"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald John Trump",
-      "count": 28,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/14/donald-trump-turns-80-faces-foe-father-time",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 23,
-      "url": "https://www.theguardian.com/world/2026/jun/15/trump-declares-us-iran-peace-deal-all-signed-g7",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gavin Newsom",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/06/15/us/newsom-trump-doj-investigation.html",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/06/15/us/politics/iran-war-deal-trump-economic-rebound.html",
       "source": "NY Times"
     },
     {
-      "name": "Jd Vance",
-      "count": 10,
-      "url": "https://www.nbcnews.com/politics/jd-vance/vance-cat-ladies-comment-dumbest-things-book-rcna349325",
-      "source": "NBC News"
-    },
-    {
-      "name": "Dan Sullivan Namesake",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/06/15/us/politics/dan-sullivan-alaska-senate.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Robert De Niro ’S",
+      "name": "Ufc 250 Freedom",
       "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/jun/15/trump-rise-up-sing-out",
-      "source": "The Guardian"
+      "url": "https://www.foxnews.com/outkick-sports/variety-blasts-donald-trump-hosting-ufc-250-freedom-event-white-house-idiocracy",
+      "source": "Fox News"
     },
     {
-      "name": "Jerry Maguire",
-      "count": 8,
-      "url": "https://www.theguardian.com/film/2026/jun/15/jerry-maguire-feelgood-movie",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Reopen Hormuz",
-      "count": 8,
-      "url": "https://www.today.com/video/us-and-iran-reach-framework-deal-to-end-war-reopen-hormuz-265092677817",
-      "source": "NBC News"
-    },
-    {
-      "name": "Jane Fonda",
+      "name": "Senate Seat",
       "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/jun/15/trump-rise-up-sing-out",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Histórico De Cabo Verde",
-      "count": 7,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/atlanta-esta-de-fiesta-tras-el-empate-historico-de-cabo-verde-ante-espana-en-la-copa-mundial-tmvo13194160",
-      "source": "NBC News"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 73,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/15/democrats-argentina-escraches",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 56,
-      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/iran-deal-hormuz-trump-goals.html",
+      "url": "https://www.nytimes.com/2026/06/15/us/politics/montana-democrats-senate.html",
       "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 39,
-      "url": "https://www.nytimes.com/2026/06/15/us/newsom-trump-doj-investigation.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 35,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "New York City",
-      "count": 20,
-      "url": "https://www.theguardian.com/us-news/2026/jun/14/new-york-city-knicks-nba-championship",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/israel-netanyahus-iran-strategy.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Spain",
-      "count": 16,
-      "url": "https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live",
-      "source": "The Guardian"
-    },
-    {
-      "name": "France",
-      "count": 13,
-      "url": "https://www.theguardian.com/world/2026/jun/15/trump-declares-us-iran-peace-deal-all-signed-g7",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. County",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-06-13/la-county-judge-loses-reelection-bid-in-dramatic-race",
-      "source": "LA Times"
-    },
-    {
-      "name": "Uk",
-      "count": 10,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/15/john-oliver-makerfield-byelection-labour",
-      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 52,
+      "count": 55,
       "url": "https://www.npr.org/2026/06/15/g-s1-126999/soccer-edition-watch-world-cup-highlights-from-across-the-npr-network",
       "source": "NPR"
     },
     {
       "name": "The World Cup",
       "count": 10,
-      "url": "https://www.theguardian.com/football/2026/jun/15/norway-world-cup-slick-modern-model-erling-haaland",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ufc Freedom 250",
-      "count": 3,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-06-15/ufc-freedom-250-trump-birthday-maga-propaganda-fights",
-      "source": "LA Times"
-    },
-    {
-      "name": "The Fifa World Cup",
-      "count": 3,
-      "url": "https://www.npr.org/2026/06/15/nx-s1-5857699/2026-fifa-world-cup-week-1-highlights",
-      "source": "NPR"
-    },
-    {
-      "name": "The Iran War",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/06/15/opinion/iran-deal-experts.html",
+      "url": "https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html",
       "source": "NY Times"
-    },
-    {
-      "name": "The 2012 Super Bowl",
-      "count": 2,
-      "url": "https://www.theguardian.com/us-news/2026/jun/15/extreme-athlete-andy-lewis-dies-base-jumping-accident",
-      "source": "The Guardian"
     },
     {
       "name": "The Stanley Cup",
@@ -230,23 +82,171 @@
       "source": "The Guardian"
     },
     {
-      "name": "The War He Started With Goals Unmet",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/iran-deal-hormuz-trump-goals.html",
-      "source": "NY Times"
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/15/iran-war-new-phase-fear-killing-upheaval-normalised",
+      "source": "The Guardian"
     },
     {
-      "name": "Iran Strategy Failed",
+      "name": "Another World Cup",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/israel-netanyahus-iran-strategy.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/football/2026/jun/15/lionel-messi-career-us-mls-americans-argentina-world-cup",
+      "source": "The Guardian"
     },
     {
-      "name": "Iran      Middle East",
+      "name": "Game 6",
       "count": 1,
-      "url": "https://www.theguardian.com/world/2026/jun/15/trump-declares-us-iran-peace-deal-all-signed-g7",
+      "url": "https://www.theguardian.com/sport/2026/jun/14/carolina-hurricanes-beat-vegas-golden-knight-to-claim-second-stanley-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Le Mans 24 Hours",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jun/15/toyota-le-mans-24-hours-mike-conway-kamui-kobayashi-nyck-de-vries-motor-sport",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Industrial Revolution",
+      "count": 1,
+      "url": "https://www.theguardian.com/books/2026/jun/15/togetherness-by-rowan-hooper-review-a-stunning-portrait-of-cooperation-in-nature",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guest Remake Review",
+      "count": 1,
+      "url": "https://www.theguardian.com/games/2026/jun/11/the-7th-guest-remake-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Summer Game Fest",
+      "count": 1,
+      "url": "https://www.theguardian.com/games/2026/jun/10/eight-trends-from-summer-game-fest-nintendo-playstation-xbox",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-06-15T21:46:31Z"
+  "GPE": [
+    {
+      "name": "Iran",
+      "count": 75,
+      "url": "https://www.nytimes.com/2026/06/16/world/middleeast/strait-hormuz-mines-clearing.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Us",
+      "count": 61,
+      "url": "https://www.theguardian.com/film/2026/jun/16/disclosure-day-spielberg-et-close-encounters-of-the-third-kind-et",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 43,
+      "url": "https://www.nytimes.com/2026/06/16/business/japan-interest-rates-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 40,
+      "url": "https://www.nytimes.com/2026/06/15/us/newsom-trump-doj-investigation.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "France",
+      "count": 15,
+      "url": "https://www.theguardian.com/film/2026/jun/16/life-of-greece-first-governor-kapodistrias-biopic",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County",
+      "count": 15,
+      "url": "https://www.latimes.com/california/story/2026-06-15/stevenson-ranch-max-fire-threatens-homes-spurs-evacuations",
+      "source": "LA Times"
+    },
+    {
+      "name": "Israel",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/netanyahu-israel-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/jun/14/new-york-city-knicks-nba-championship",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Los Angeles County'S",
+      "count": 13,
+      "url": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/sofi-stadium-wastewater-inglewood-00961576",
+      "source": "Politico"
+    },
+    {
+      "name": "Spain",
+      "count": 12,
+      "url": "https://www.theguardian.com/football/2026/jun/15/cape-verde-hero-vozinha-in-tears-after-spain-draw-as-cost-of-visa-stopped-his-mother-being-at-game",
+      "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 33,
+      "url": "https://www.theguardian.com/world/2026/jun/15/trump-declares-us-iran-peace-deal-all-signed-g7",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gavin Newsom",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/06/15/us/newsom-trump-doj-investigation.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jerry Maguire",
+      "count": 8,
+      "url": "https://www.theguardian.com/film/2026/jun/15/jerry-maguire-feelgood-movie",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 8,
+      "url": "https://www.foxnews.com/media/jd-vance-reveals-details-us-iran-deal-addresses-whether-taxpayer-money-go-tehran",
+      "source": "Fox News"
+    },
+    {
+      "name": "Dan Sullivan Namesake",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/06/15/us/politics/dan-sullivan-alaska-senate.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Keir Starmer",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/15/the-guardian-view-on-regulating-big-tech-the-uks-new-tougher-approach-to-child-safety-is-overdue",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Charles Darwin",
+      "count": 6,
+      "url": "https://www.theguardian.com/books/2026/jun/15/togetherness-by-rowan-hooper-review-a-stunning-portrait-of-cooperation-in-nature",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Reopen Hormuz",
+      "count": 6,
+      "url": "https://www.today.com/video/us-and-iran-reach-framework-deal-to-end-war-reopen-hormuz-265092677817",
+      "source": "NBC News"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/netanyahu-israel-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "De Leo Messi",
+      "count": 5,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/kansas-city-es-albiceleste-impresionante-banderazo-de-argentina-previo-al-debut-de-la-seleccion-tmvo13194308",
+      "source": "NBC News"
+    }
+  ],
+  "updated": "2026-06-16T06:36:29Z"
 };
