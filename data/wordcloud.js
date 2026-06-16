@@ -2,308 +2,318 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    87,
-    "https://www.nytimes.com/2026/06/15/us/politics/iran-war-deal-trump-economic-rebound.html"
-  ],
-  [
-    "iran",
-    84,
-    "https://www.nytimes.com/2026/06/15/world/middleeast/netanyahu-israel-iran.html"
+    105,
+    "https://www.nytimes.com/2026/06/15/us/politics/kratom-trump-administration.html"
   ],
   [
     "cup",
     72,
-    "https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html"
+    "https://www.nytimes.com/live/2026/us/fifa-world-cup#world-cup-iran-new-zealand-protests"
   ],
   [
-    "california",
-    43,
-    "https://www.nytimes.com/2026/06/15/us/newsom-trump-doj-investigation.html"
-  ],
-  [
-    "war",
-    40,
-    "https://www.nytimes.com/2026/06/15/us/politics/iran-war-deal-trump-economic-rebound.html"
+    "iran",
+    71,
+    "https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html"
   ],
   [
     "president",
-    33,
+    44,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "game",
-    32,
-    "https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html"
+    "war",
+    37,
+    "https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html"
   ],
   [
-    "team",
-    30,
-    "https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html"
-  ],
-  [
-    "night",
-    29,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/16/dutch-children-unusually-happy-healthy-avondvierdaagse-walking-festival"
-  ],
-  [
-    "health",
-    27,
-    "https://www.nytimes.com/2026/06/15/health/childhood-vaccines-lawsuit-kennedy.html"
-  ],
-  [
-    "win",
-    27,
-    "https://www.nytimes.com/2026/06/15/us/politics/montana-democrats-senate.html"
+    "california",
+    33,
+    "https://www.theguardian.com/football/2026/jun/16/iran-overcomes-its-divisions-for-90-minutes-then-same-old-problems-return"
   ],
   [
     "film",
+    31,
+    "https://www.theguardian.com/film/2026/jun/16/david-bowie-workaholic-labyrinth-at-40-oral-history"
+  ],
+  [
+    "team",
     26,
-    "https://www.theguardian.com/news/2026/jun/16/im-not-a-person-who-puts-up-with-rudeness-unpicking-fantasy-and-reality-with-an-italian-ultra"
+    "https://www.nytimes.com/live/2026/us/fifa-world-cup#world-cup-iran-new-zealand-protests"
   ],
   [
-    "social",
+    "game",
+    26,
+    "https://www.nytimes.com/live/2026/us/fifa-world-cup#world-cup-iran-new-zealand-protests"
+  ],
+  [
+    "ufc",
+    25,
+    "https://www.theguardian.com/us-news/2026/jun/16/trump-pressure-ufc-fighter-michelle-obama"
+  ],
+  [
+    "york",
     23,
-    "https://www.theguardian.com/film/2026/jun/16/disclosure-day-spielberg-et-close-encounters-of-the-third-kind-et"
+    "https://www.nytimes.com/live/2026/us/fifa-world-cup#metlife-stadium-name-change"
   ],
   [
-    "los",
+    "win",
     22,
-    "https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html"
-  ],
-  [
-    "air",
-    22,
-    "https://www.nytimes.com/2026/06/15/us/b-52-crash-edwards-air-force-base-california.html"
-  ],
-  [
-    "force",
-    22,
-    "https://www.nytimes.com/2026/06/15/us/b-52-crash-edwards-air-force-base-california.html"
-  ],
-  [
-    "office",
-    22,
-    "https://www.theguardian.com/film/2026/jun/16/disclosure-day-spielberg-et-close-encounters-of-the-third-kind-et"
-  ],
-  [
-    "media",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/jun/15/iran-war-new-phase-fear-killing-upheaval-normalised"
+    "https://www.nytimes.com/2026/06/15/us/politics/montana-democrats-senate.html"
   ],
   [
     "fans",
+    22,
+    "https://www.nytimes.com/2026/06/16/nyregion/mamdani-knicks.html"
+  ],
+  [
+    "health",
     21,
-    "https://www.theguardian.com/news/2026/jun/16/im-not-a-person-who-puts-up-with-rudeness-unpicking-fantasy-and-reality-with-an-italian-ultra"
+    "https://www.theguardian.com/environment/2026/jun/16/half-of-worlds-children-exposed-to-at-least-three-climate-hazards-unicef-says"
+  ],
+  [
+    "event",
+    21,
+    "https://www.theguardian.com/us-news/2026/jun/16/trump-pressure-ufc-fighter-michelle-obama"
   ],
   [
     "games",
     21,
-    "https://www.theguardian.com/us-news/2026/jun/14/world-cup-heat-workers"
+    "https://www.theguardian.com/football/picture/2026/jun/16/david-squires-thirst-for-adverts-other-notes-world-cup-2026"
   ],
   [
-    "summer",
+    "night",
     20,
-    "https://www.theguardian.com/film/2026/jun/16/disclosure-day-spielberg-et-close-encounters-of-the-third-kind-et"
+    "https://www.nytimes.com/2026/06/15/well/chronotype-quiz.html"
   ],
   [
-    "children",
+    "latest",
     20,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/16/dutch-children-unusually-happy-healthy-avondvierdaagse-walking-festival"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "hours",
+    "donald",
     20,
-    "https://www.theguardian.com/football/2026/jun/16/iran-new-zealand-world-cup-2026-group-g-match-report"
+    "https://www.theguardian.com/commentisfree/2026/jun/16/trump-name-removed-kennedy-center-political-revolt"
   ],
   [
-    "york",
-    20,
-    "https://www.theguardian.com/sport/2026/jun/16/knicks-james-dolan-sex-abstinence-playoffs-championship-video"
-  ],
-  [
-    "country",
+    "georgia",
     19,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "death",
-    18,
-    "https://www.nytimes.com/2026/06/15/world/canada/quebec-medically-assisted-dying-catholic.html"
-  ],
-  [
-    "love",
-    18,
-    "https://www.theguardian.com/sport/2026/jun/15/toyota-le-mans-24-hours-mike-conway-kamui-kobayashi-nyck-de-vries-motor-sport"
-  ],
-  [
-    "newsom",
-    17,
-    "https://www.nytimes.com/2026/06/15/us/newsom-trump-doj-investigation.html"
-  ],
-  [
-    "wife",
-    17,
-    "https://www.nytimes.com/2026/06/15/us/newsom-trump-doj-investigation.html"
-  ],
-  [
-    "government",
-    17,
-    "https://www.nytimes.com/2026/06/15/health/childhood-vaccines-lawsuit-kennedy.html"
-  ],
-  [
-    "history",
-    17,
-    "https://www.theguardian.com/film/2026/jun/16/disclosure-day-spielberg-et-close-encounters-of-the-third-kind-et"
+    "https://www.nytimes.com/2026/06/16/us/politics/elections-georgia-alabama-oklahoma-runoff.html"
   ],
   [
     "family",
-    17,
-    "https://www.theguardian.com/film/2026/jun/16/life-of-greece-first-governor-kapodistrias-biopic"
+    19,
+    "https://www.theguardian.com/us-news/2026/jun/16/trafficker-accused-rape-louisiana-police"
   ],
   [
-    "far",
-    17,
-    "https://www.theguardian.com/world/2026/jun/16/sweden-votes-to-back-laws-reinforcing-its-immigration-crackdown"
+    "love",
+    19,
+    "https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live"
   ],
   [
-    "crash",
+    "los",
+    19,
+    "https://www.theguardian.com/music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la"
+  ],
+  [
+    "history",
+    18,
+    "https://www.theguardian.com/film/2026/jun/16/david-bowie-workaholic-labyrinth-at-40-oral-history"
+  ],
+  [
+    "children",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/16/dutch-children-unusually-happy-healthy-avondvierdaagse-walking-festival"
+  ],
+  [
+    "director",
+    17,
+    "https://www.theguardian.com/film/2026/jun/16/david-bowie-workaholic-labyrinth-at-40-oral-history"
+  ],
+  [
+    "force",
+    17,
+    "https://www.theguardian.com/film/2026/jun/16/gregg-allman-documentary"
+  ],
+  [
+    "hours",
+    17,
+    "https://www.theguardian.com/film/2026/jun/16/gregg-allman-documentary"
+  ],
+  [
+    "power",
     16,
-    "https://www.nytimes.com/2026/06/15/us/b-52-crash-edwards-air-force-base-california.html"
+    "https://www.nytimes.com/2026/06/16/technology/taiwan-south-korea-ai-chips.html"
+  ],
+  [
+    "country",
+    16,
+    "https://www.nytimes.com/2026/06/16/world/australia/electricity-substations-housing.html"
+  ],
+  [
+    "air",
+    16,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "because",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/16/dutch-children-unusually-happy-healthy-avondvierdaagse-walking-festival"
+  ],
+  [
+    "fbi",
+    16,
+    "https://www.theguardian.com/us-news/2026/jun/16/trump-voting-rights-elections"
   ],
   [
     "base",
     16,
-    "https://www.nytimes.com/2026/06/15/us/b-52-crash-edwards-air-force-base-california.html"
+    "https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live"
   ],
   [
-    "event",
+    "obama",
     16,
-    "https://www.theguardian.com/film/2026/jun/16/disclosure-day-spielberg-et-close-encounters-of-the-third-kind-et"
+    "https://www.theguardian.com/us-news/2026/jun/16/trump-pressure-ufc-fighter-michelle-obama"
   ],
   [
-    "donald",
+    "match",
     16,
-    "https://www.theguardian.com/world/2026/jun/15/trump-declares-us-iran-peace-deal-all-signed-g7"
-  ],
-  [
-    "american",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/15/trump-ufc-fight-white-house"
-  ],
-  [
-    "debut",
-    16,
-    "https://www.theguardian.com/football/2026/jun/15/lionel-messi-career-us-mls-americans-argentina-world-cup"
+    "https://www.theguardian.com/us-news/2026/jun/16/trump-pressure-ufc-fighter-michelle-obama"
   ],
   [
     "don",
-    15,
-    "https://www.nytimes.com/2026/06/15/nyregion/knicks-baby-names-jalen-brunson.html"
-  ],
-  [
-    "kids",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/16/dutch-children-unusually-happy-healthy-avondvierdaagse-walking-festival"
-  ],
-  [
-    "france",
-    15,
-    "https://www.theguardian.com/film/2026/jun/16/life-of-greece-first-governor-kapodistrias-biopic"
-  ],
-  [
-    "department",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/16/trump-news-latest-updates-today"
+    16,
+    "https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026"
   ],
   [
     "food",
-    15,
-    "https://www.theguardian.com/world/2026/jun/15/tallying-the-global-cost-of-the-us-israel-war-against-iran"
-  ],
-  [
-    "political",
-    14,
-    "https://www.nytimes.com/2026/06/15/us/politics/iran-war-deal-trump-economic-rebound.html"
+    16,
+    "https://www.theguardian.com/commentisfree/2026/jun/16/brooklyn-beckham-family-doordash-ad"
   ],
   [
     "israel",
-    14,
-    "https://www.nytimes.com/2026/06/15/world/middleeast/netanyahu-israel-iran.html"
+    15,
+    "https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html"
   ],
   [
-    "administration",
-    14,
-    "https://www.nytimes.com/2026/06/15/us/politics/trump-triumphal-arch-congress.html"
+    "debut",
+    15,
+    "https://www.nytimes.com/2026/06/16/business/warsh-fed-chair.html"
   ],
   [
-    "angeles",
-    14,
-    "https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html"
+    "watch",
+    15,
+    "https://www.nytimes.com/2026/06/16/us/politics/elections-georgia-alabama-oklahoma-runoff.html"
   ],
   [
-    "soccer",
+    "america",
+    15,
+    "https://www.nytimes.com/2026/06/16/opinion/gerrymander-redistricting-party.html"
+  ],
+  [
+    "center",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/16/trump-name-removed-kennedy-center-political-revolt"
+  ],
+  [
+    "today",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/16/trump-name-removed-kennedy-center-political-revolt"
+  ],
+  [
+    "office",
+    15,
+    "https://www.theguardian.com/film/2026/jun/16/david-bowie-workaholic-labyrinth-at-40-oral-history"
+  ],
+  [
+    "social",
+    15,
+    "https://www.theguardian.com/world/2026/jun/16/starbucks-korea-shut-all-stores-tank-day-promotion"
+  ],
+  [
+    "play",
+    15,
+    "https://www.theguardian.com/music/2026/jun/16/japanese-punk-band-otoboke-beaver-dave-grohl-foo-fighters"
+  ],
+  [
+    "race",
     14,
-    "https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html"
+    "https://www.nytimes.com/2026/06/16/us/politics/elections-georgia-alabama-oklahoma-runoff.html"
   ],
   [
     "knicks",
     14,
-    "https://www.nytimes.com/2026/06/15/nyregion/knicks-baby-names-jalen-brunson.html"
+    "https://www.nytimes.com/2026/06/16/nyregion/knicks-championship-stories.html"
   ],
   [
-    "peace",
+    "again",
     14,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.theguardian.com/news/2026/jun/16/im-not-a-person-who-puts-up-with-rudeness-unpicking-fantasy-and-reality-with-an-italian-ultra"
   ],
   [
-    "global",
+    "series",
     14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/artanddesign/gallery/2026/jun/16/free-as-a-bird-the-mexicans-redefining-gender-in-pictures-pieter-henket-birds-of-mexico-city"
   ],
   [
-    "director",
+    "summer",
     14,
-    "https://www.theguardian.com/film/2026/jun/16/disclosure-day-spielberg-et-close-encounters-of-the-third-kind-et"
+    "https://www.theguardian.com/lifeandstyle/2026/jun/16/dutch-children-unusually-happy-healthy-avondvierdaagse-walking-festival"
   ],
   [
-    "draw",
+    "won",
     14,
-    "https://www.theguardian.com/football/2026/jun/16/iran-new-zealand-world-cup-2026-group-g-match-report"
-  ],
-  [
-    "hear",
-    14,
-    "https://www.theguardian.com/football/2026/jun/16/iran-new-zealand-world-cup-2026-group-g-match-report"
-  ],
-  [
-    "match",
-    14,
-    "https://www.theguardian.com/football/2026/jun/16/iran-new-zealand-world-cup-2026-group-g-match-report"
-  ],
-  [
-    "ufc",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/15/eric-trump-white-house-ufc-fight"
+    "https://www.theguardian.com/world/2026/jun/16/starbucks-korea-shut-all-stores-tank-day-promotion"
   ],
   [
     "guide",
     14,
-    "https://www.theguardian.com/environment/2026/jun/16/iroro-tanshi-biologist-rediscovered-short-tailed-roundleaf-bat-teaspoon-salt-aoe"
+    "https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live"
   ],
   [
-    "international",
-    13,
-    "https://www.nytimes.com/2026/06/15/world/middleeast/shipping-fees-tolls-strait-hormuz.html"
+    "south",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/16/trump-pressure-ufc-fighter-michelle-obama"
   ],
   [
-    "again",
-    13,
-    "https://www.nytimes.com/2026/06/15/climate/reflecting-pool-algae-green.html"
+    "music",
+    14,
+    "https://www.theguardian.com/film/2026/jun/16/gregg-allman-documentary"
   ],
   [
-    "race",
+    "media",
+    14,
+    "https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026"
+  ],
+  [
+    "death",
     13,
-    "https://www.washingtonpost.com/nation/2026/06/15/anti-islam-candidate-loses-mayors-race-texas-city-torn-over-immigration/"
+    "https://www.nytimes.com/2026/06/16/podcasts/the-headlines/epstein-death-iran-war-gas-prices.html"
+  ],
+  [
+    "republican",
+    13,
+    "https://www.nytimes.com/2026/06/16/us/politics/elections-georgia-alabama-oklahoma-runoff.html"
+  ],
+  [
+    "senate",
+    13,
+    "https://www.nytimes.com/2026/06/15/us/politics/montana-democrats-senate.html"
+  ],
+  [
+    "support",
+    13,
+    "https://www.nytimes.com/2026/06/15/us/politics/kratom-trump-administration.html"
+  ],
+  [
+    "morning",
+    13,
+    "https://www.nytimes.com/2026/06/15/well/chronotype-quiz.html"
+  ],
+  [
+    "attack",
+    13,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
     "released",
@@ -311,34 +321,49 @@
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "latest",
+    "several",
     13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "return",
+    "political",
     13,
-    "https://www.theguardian.com/film/2026/jun/16/disclosure-day-spielberg-et-close-encounters-of-the-third-kind-et"
+    "https://www.theguardian.com/commentisfree/2026/jun/16/trump-name-removed-kennedy-center-political-revolt"
   ],
   [
-    "almost",
+    "little",
     13,
-    "https://www.theguardian.com/film/2026/jun/16/disclosure-day-spielberg-et-close-encounters-of-the-third-kind-et"
+    "https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live"
   ],
   [
-    "ahead",
+    "artist",
     13,
-    "https://www.theguardian.com/film/2026/jun/16/disclosure-day-spielberg-et-close-encounters-of-the-third-kind-et"
+    "https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live"
   ],
   [
-    "because",
+    "alleged",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/16/dutch-children-unusually-happy-healthy-avondvierdaagse-walking-festival"
+    "https://www.theguardian.com/us-news/2026/jun/15/eric-trump-white-house-ufc-fight"
   ],
   [
-    "won",
+    "style",
     13,
-    "https://www.theguardian.com/film/2026/jun/16/life-of-greece-first-governor-kapodistrias-biopic"
+    "https://www.theguardian.com/football/2026/jun/16/the-perfect-job-meet-the-fans-being-paid-to-watch-all-104-world-cup-games-in-times-square"
+  ],
+  [
+    "james",
+    13,
+    "https://www.theguardian.com/sport/2026/jun/16/knicks-james-dolan-sex-abstinence-playoffs-championship-video"
+  ],
+  [
+    "expected",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jun/16/zohran-mamdani-pied-a-terre-tax-new-york-keir-starmer"
+  ],
+  [
+    "cbs",
+    13,
+    "https://www.cbsnews.com/news/mitch-mcconnell-hospitalized-spokesperson-says/"
   ],
   [
     "con",
@@ -346,33 +371,8 @@
     "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/por-que-espana-y-uruguay-no-pudieron-ganar-en-su-debut-mundialista-tmvo13194365"
   ],
   [
-    "several",
+    "global",
     12,
-    "https://www.nytimes.com/2026/06/15/us/newsom-trump-doj-investigation.html"
-  ],
-  [
-    "support",
-    12,
-    "https://www.nytimes.com/2026/06/15/us/politics/kratom-trump-administration.html"
-  ],
-  [
-    "investigation",
-    12,
-    "https://www.nytimes.com/2026/06/15/us/b-52-crash-edwards-air-force-base-california.html"
-  ],
-  [
-    "early",
-    12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "agreement",
-    12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "school",
-    12,
-    "https://www.theguardian.com/film/2026/jun/16/disclosure-day-spielberg-et-close-encounters-of-the-third-kind-et"
+    "https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html"
   ]
 ];
