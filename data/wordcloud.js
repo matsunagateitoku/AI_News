@@ -2,93 +2,98 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    97,
-    "https://www.nytimes.com/2026/06/17/us/politics/intelligence-pulte-clayton.html"
+    103,
+    "https://www.nytimes.com/2026/06/17/world/europe/trump-iran-school-us-strike-minab.html"
   ],
   [
     "cup",
     60,
-    "https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live"
-  ],
-  [
-    "president",
-    42,
-    "https://www.nytimes.com/2026/06/17/us/politics/intelligence-pulte-clayton.html"
+    "https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates"
   ],
   [
     "iran",
-    34,
-    "https://www.nytimes.com/2026/06/17/world/middleeast/israel-channel-14-trump-criticism.html"
+    56,
+    "https://www.nytimes.com/2026/06/17/us/politics/us-iran-agreement-deal-text.html"
+  ],
+  [
+    "president",
+    43,
+    "https://www.nytimes.com/2026/06/17/world/europe/trump-iran-school-us-strike-minab.html"
   ],
   [
     "game",
-    26,
-    "https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live"
+    28,
+    "https://www.theguardian.com/football/2026/jun/17/portugal-dr-congo-world-cup-2026-group-k-match-report"
   ],
   [
-    "don",
-    25,
-    "https://www.theguardian.com/food/2026/jun/17/tomatoes-spuds-eggs-experts-on-what-food-to-store-in-fridge"
+    "los",
+    26,
+    "https://www.theguardian.com/film/2026/jun/17/daveigh-chase-dies-aged-35"
   ],
   [
     "family",
+    23,
+    "https://www.theguardian.com/environment/2026/jun/17/okra-canada-us-south"
+  ],
+  [
+    "don",
     22,
-    "https://www.nytimes.com/2026/06/17/well/mind/mental-health-family-children.html"
+    "https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates"
+  ],
+  [
+    "school",
+    20,
+    "https://www.nytimes.com/2026/06/17/world/europe/trump-iran-school-us-strike-minab.html"
+  ],
+  [
+    "health",
+    20,
+    "https://www.nytimes.com/2026/06/17/health/pepfar-cdc-cuts.html"
+  ],
+  [
+    "company",
+    20,
+    "https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html"
+  ],
+  [
+    "summer",
+    20,
+    "https://www.theguardian.com/world/2026/jun/17/forced-marriage-exploitation-women-china"
+  ],
+  [
+    "night",
+    20,
+    "https://www.theguardian.com/football/2026/jun/17/portugal-dr-congo-world-cup-2026-group-k-match-report"
+  ],
+  [
+    "department",
+    19,
+    "https://www.nytimes.com/2026/06/17/health/pepfar-cdc-cuts.html"
   ],
   [
     "early",
-    22,
+    19,
     "https://www.nytimes.com/2026/06/17/weather/illinois-indiana-tornado-storm.html"
   ],
   [
     "team",
-    20,
+    19,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
+    "children",
+    19,
+    "https://www.theguardian.com/wellness/2026/jun/17/adult-sticker-charts-motivation"
+  ],
+  [
     "american",
-    20,
-    "https://www.theguardian.com/football/2026/jun/17/harry-kane-american-dream-dallas-world-cup-england"
-  ],
-  [
-    "fans",
     19,
-    "https://www.nytimes.com/2026/06/17/world/middleeast/israel-channel-14-trump-criticism.html"
+    "https://www.theguardian.com/artanddesign/2026/jun/17/maren-hassinger-retrospective-berkeley-art-museum"
   ],
   [
-    "health",
-    19,
-    "https://www.nytimes.com/2026/06/17/well/mind/mental-health-family-children.html"
-  ],
-  [
-    "south",
-    19,
-    "https://www.theguardian.com/world/2026/jun/17/construction-equipment-multinationals-may-aiding-israeli-war-crimes-experts"
-  ],
-  [
-    "del",
-    19,
-    "https://www.theguardian.com/music/2026/jun/17/world-cup-classical-music-nessun-dorma-terrace-chants"
-  ],
-  [
-    "senate",
-    19,
-    "https://www.latimes.com/politics/story/2026-06-17/midterm-election-handicapping-senate-house-control-congress-democrats-republicans"
-  ],
-  [
-    "intelligence",
+    "georgia",
     18,
-    "https://www.nytimes.com/2026/06/17/us/politics/intelligence-pulte-clayton.html"
-  ],
-  [
-    "company",
-    18,
-    "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html"
-  ],
-  [
-    "prison",
-    18,
-    "https://www.nytimes.com/2026/06/17/us/lincoln-illinois-closures-economy.html"
+    "https://www.nytimes.com/2026/06/17/us/politics/georgia-republicans-redistricting.html"
   ],
   [
     "food",
@@ -96,144 +101,164 @@
     "https://www.theguardian.com/environment/2026/jun/17/okra-canada-us-south"
   ],
   [
-    "debut",
-    18,
-    "https://www.theguardian.com/music/2026/jun/17/irish-rockers-bleech-93-on-struggle-sobriety-and-their-stunning-debut"
+    "fans",
+    17,
+    "https://www.nytimes.com/2026/06/17/world/middleeast/israel-channel-14-trump-criticism.html"
   ],
   [
-    "really",
-    18,
-    "https://www.theguardian.com/food/2026/jun/17/tomatoes-spuds-eggs-experts-on-what-food-to-store-in-fridge"
+    "rates",
+    17,
+    "https://www.nytimes.com/2026/06/17/business/federal-reserve-meeting-warsh.html"
   ],
   [
-    "los",
-    18,
-    "https://www.theguardian.com/music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la"
+    "california",
+    17,
+    "https://www.nytimes.com/2026/06/17/us/what-we-know-b52-crash-victims-california.html"
+  ],
+  [
+    "play",
+    17,
+    "https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates"
   ],
   [
     "star",
     17,
-    "https://www.nytimes.com/2026/06/17/arts/television/matthew-rhys-widows-bay.html"
+    "https://www.theguardian.com/wellness/2026/jun/17/adult-sticker-charts-motivation"
   ],
   [
-    "school",
+    "killed",
     17,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/17/money-coach-mental-health-wealth"
+    "https://www.theguardian.com/us-news/2026/jun/17/california-students-drowned-santa-cruz"
   ],
   [
-    "music",
+    "ufc",
     17,
-    "https://www.theguardian.com/music/2026/jun/17/irish-rockers-bleech-93-on-struggle-sobriety-and-their-stunning-debut"
+    "https://www.theguardian.com/sport/2026/jun/17/alex-pereira-ciryl-gane-ufc-white-house"
   ],
   [
     "black",
     16,
-    "https://www.nytimes.com/2026/06/17/science/oldest-plague-siberian-skeletons.html"
-  ],
-  [
-    "defense",
-    16,
-    "https://www.nytimes.com/2026/06/17/nyregion/mangione-emotional-disturbance-state-trial.html"
-  ],
-  [
-    "claims",
-    16,
-    "https://www.washingtonpost.com/nation/2026/06/16/doj-charges-15-minnesotans-with-conspiracy-block-ice-claims-antifa-ties/"
-  ],
-  [
-    "night",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/17/netjets-deadly-crash-laredo-texas"
-  ],
-  [
-    "watch",
-    16,
-    "https://www.theguardian.com/football/2026/jun/17/world-cup-cape-verde-goalkeeper-mother-visa-vozinha"
-  ],
-  [
-    "something",
-    16,
-    "https://www.theguardian.com/football/2026/jun/17/harry-kane-american-dream-dallas-world-cup-england"
+    "https://www.nytimes.com/2026/06/17/us/politics/georgia-republicans-redistricting.html"
   ],
   [
     "country",
-    15,
+    16,
     "https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html"
   ],
   [
-    "georgia",
-    15,
-    "https://www.nytimes.com/2026/06/17/us/politics/georgia-alabama-elections-trump-takeaways.html"
+    "guide",
+    16,
+    "https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates"
   ],
   [
-    "killing",
-    15,
-    "https://www.nytimes.com/2026/06/17/nyregion/mangione-emotional-disturbance-state-trial.html"
+    "point",
+    16,
+    "https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal"
   ],
   [
-    "earlier",
-    15,
-    "https://www.washingtonpost.com/nation/2026/06/16/doj-charges-15-minnesotans-with-conspiracy-block-ice-claims-antifa-ties/"
+    "really",
+    16,
+    "https://www.theguardian.com/us-news/2026/jun/17/jimmy-chilimigras-teen-law-school-graudate"
   ],
   [
-    "red",
-    15,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "debut",
+    16,
+    "https://www.theguardian.com/film/2026/jun/17/maddies-secret-john-early-kate-berlant"
   ],
   [
-    "money",
+    "agreement",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/17/money-coach-mental-health-wealth"
+    "https://www.nytimes.com/2026/06/17/us/politics/us-iran-agreement-deal-text.html"
+  ],
+  [
+    "interest",
+    15,
+    "https://www.nytimes.com/2026/06/17/business/federal-reserve-meeting-warsh.html"
+  ],
+  [
+    "change",
+    15,
+    "https://www.nytimes.com/2026/06/17/business/economy/kevin-warsh-fed-statement.html"
+  ],
+  [
+    "texas",
+    15,
+    "https://www.nytimes.com/2026/06/16/weather/tropical-storm-arthur-louisiana-texas-gulf.html"
+  ],
+  [
+    "south",
+    15,
+    "https://www.nytimes.com/2026/06/16/weather/tropical-storm-arthur-louisiana-texas-gulf.html"
   ],
   [
     "buying",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/17/money-coach-mental-health-wealth"
+    "https://www.theguardian.com/wellness/2026/jun/17/adult-sticker-charts-motivation"
   ],
   [
-    "summer",
+    "angeles",
     15,
-    "https://www.theguardian.com/music/2026/jun/17/irish-rockers-bleech-93-on-struggle-sobriety-and-their-stunning-debut"
+    "https://www.theguardian.com/film/2026/jun/17/daveigh-chase-dies-aged-35"
   ],
   [
-    "late",
+    "court",
     15,
-    "https://www.theguardian.com/uk-news/2026/jun/17/harry-meghan-children-uk-first-time-four-years"
+    "https://www.theguardian.com/us-news/2026/jun/17/georgia-republicans-congressional-redistricting"
   ],
   [
-    "guide",
+    "board",
     15,
-    "https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live"
+    "https://www.theguardian.com/thefilter-us/2025/dec/22/best-family-board-games"
   ],
   [
-    "hospital",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/17/trump-immigration-crackdown-doctors"
-  ],
-  [
-    "brand",
-    15,
-    "https://www.theguardian.com/football/2026/jun/17/harry-kane-american-dream-dallas-world-cup-england"
-  ],
-  [
-    "event",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/16/judge-recuses-georgia-election-case"
-  ],
-  [
-    "latest",
+    "york",
     14,
-    "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html"
+    "https://www.nytimes.com/2026/06/17/us/politics/us-iran-agreement-deal-text.html"
   ],
   [
-    "ice",
+    "military",
+    14,
+    "https://www.nytimes.com/2026/06/17/us/what-we-know-b52-crash-victims-california.html"
+  ],
+  [
+    "alleged",
     14,
     "https://www.washingtonpost.com/nation/2026/06/16/doj-charges-15-minnesotans-with-conspiracy-block-ice-claims-antifa-ties/"
   ],
   [
-    "war",
+    "attack",
     14,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "red",
+    14,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "money",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/17/money-coach-mental-health-wealth"
+  ],
+  [
+    "donald",
+    14,
+    "https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal"
+  ],
+  [
+    "senate",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/17/trump-halts-jay-clayton-dni-nomination"
+  ],
+  [
+    "watch",
+    14,
+    "https://www.theguardian.com/us-news/video/2026/jun/17/rfk-jr-unproven-autism-treatment-stateside-podcast"
+  ],
+  [
+    "filter",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/jun/17/best-personalized-wedding-gifts-ideas"
   ],
   [
     "fewer",
@@ -241,138 +266,113 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/17/best-personalized-wedding-gifts-ideas"
   ],
   [
-    "play",
+    "event",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/17/best-personalized-wedding-gifts-ideas"
+    "https://www.theguardian.com/sport/2026/jun/17/jenny-simpson-collapse"
   ],
   [
-    "messi",
-    14,
-    "https://www.theguardian.com/football/2026/jun/17/lionel-messi-hat-trick-algeria-argentina-world-cup"
+    "intelligence",
+    13,
+    "https://www.nytimes.com/2026/06/17/us/politics/trump-thune-republicans-election-year-rift.html"
   ],
   [
-    "young",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jun/17/ocean-fever-climate-change"
+    "latest",
+    13,
+    "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html"
   ],
   [
-    "texas",
+    "storm",
     13,
     "https://www.nytimes.com/2026/06/16/weather/tropical-storm-arthur-louisiana-texas-gulf.html"
   ],
   [
-    "race",
+    "died",
     13,
-    "https://www.washingtonpost.com/nation/2026/06/15/anti-islam-candidate-loses-mayors-race-texas-city-torn-over-immigration/"
+    "https://www.nytimes.com/2026/06/17/us/what-we-know-b52-crash-victims-california.html"
   ],
   [
-    "social",
+    "ice",
     13,
-    "https://www.theguardian.com/food/2026/jun/17/tomatoes-spuds-eggs-experts-on-what-food-to-store-in-fridge"
+    "https://www.washingtonpost.com/nation/2026/06/16/doj-charges-15-minnesotans-with-conspiracy-block-ice-claims-antifa-ties/"
   ],
   [
-    "summit",
+    "everything",
     13,
-    "https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "judge",
+    "defense",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/17/luigi-mangione-new-york-state-court-appearance"
-  ],
-  [
-    "children",
-    13,
-    "https://www.theguardian.com/uk-news/2026/jun/17/harry-meghan-children-uk-first-time-four-years"
-  ],
-  [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/17/best-personalized-wedding-gifts-ideas"
+    "https://www.theguardian.com/commentisfree/2026/jun/17/anthropic-ai-rsi-fable"
   ],
   [
     "win",
     13,
-    "https://www.theguardian.com/football/2026/jun/17/ousmane-dembele-france-attack-mbappe-olise-didier-deschamps-ballon-dor"
+    "https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal"
   ],
   [
-    "father",
+    "young",
     13,
-    "https://www.theguardian.com/books/2026/jun/17/collapse-by-edouard-louis-review-coming-to-terms-with-a-brothers-death"
+    "https://www.theguardian.com/us-news/video/2026/jun/17/rfk-jr-unproven-autism-treatment-stateside-podcast"
   ],
   [
-    "dads",
+    "social",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/14/fathers-day-tech-gadgets-dads"
+    "https://www.theguardian.com/us-news/2026/jun/17/jimmy-chilimigras-teen-law-school-graudate"
   ],
   [
-    "cbs",
+    "host",
     13,
-    "https://www.cbsnews.com/news/arthur-engoron-trump-trial-judge-interview/"
+    "https://www.theguardian.com/food/2026/jun/17/tomatoes-spuds-eggs-experts-on-what-food-to-store-in-fridge"
   ],
   [
-    "won",
-    12,
-    "https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html"
+    "review",
+    13,
+    "https://www.theguardian.com/film/2026/jun/17/your-fault-london-review-british-set-remake-of-spanish-step-sibling-romance-lacks-passion-or-fizz"
   ],
   [
-    "runoff",
+    "israel",
     12,
-    "https://www.nytimes.com/2026/06/17/us/politics/georgia-alabama-elections-trump-takeaways.html"
+    "https://www.nytimes.com/2026/06/17/world/middleeast/israel-channel-14-trump-criticism.html"
   ],
   [
-    "created",
+    "history",
     12,
-    "https://www.nytimes.com/2026/06/17/world/americas/ecuador-kichwa-language-andes.html"
+    "https://www.nytimes.com/2026/06/17/us/politics/trump-fisa-history.html"
   ],
   [
-    "case",
+    "administration",
     12,
-    "https://www.nytimes.com/2026/06/17/nyregion/gilgo-beach-killer-life-sentence.html"
+    "https://www.nytimes.com/2026/06/17/us/politics/trump-fisa-history.html"
   ],
   [
-    "mangione",
+    "special",
     12,
-    "https://www.nytimes.com/2026/06/17/nyregion/mangione-emotional-disturbance-state-trial.html"
+    "https://www.nytimes.com/2026/06/17/us/politics/georgia-republicans-redistricting.html"
   ],
   [
-    "spent",
+    "players",
     12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/06/17/nyregion/shane-hennen-gambling-nba.html"
   ],
   [
-    "everything",
+    "others",
     12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.nytimes.com/2026/06/17/nyregion/shane-hennen-gambling-nba.html"
   ],
   [
-    "start",
+    "games",
     12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/06/17/nyregion/shane-hennen-gambling-nba.html"
   ],
   [
-    "donald",
+    "crash",
     12,
-    "https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates"
+    "https://www.nytimes.com/2026/06/17/us/what-we-know-b52-crash-victims-california.html"
   ],
   [
-    "hearing",
+    "killing",
     12,
-    "https://www.theguardian.com/us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates"
-  ],
-  [
-    "again",
-    12,
-    "https://www.theguardian.com/us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates"
-  ],
-  [
-    "court",
-    12,
-    "https://www.theguardian.com/us-news/2026/jun/17/luigi-mangione-new-york-state-court-appearance"
-  ],
-  [
-    "police",
-    12,
-    "https://www.theguardian.com/us-news/2026/jun/17/netjets-deadly-crash-laredo-texas"
+    "https://www.washingtonpost.com/nation/2026/06/17/private-jet-crashes-highway-near-laredo-texas-killing-1/"
   ]
 ];
