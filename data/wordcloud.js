@@ -2,228 +2,188 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    104,
-    "https://www.nytimes.com/2026/06/16/arts/music/kennedy-center-closing-plan-judge.html"
+    97,
+    "https://www.nytimes.com/2026/06/17/us/politics/intelligence-pulte-clayton.html"
   ],
   [
     "cup",
-    65,
-    "https://www.nytimes.com/live/2026/us/fifa-world-cup#congo-team-world-cup-soccer-leopard-fashion-sapeur"
+    60,
+    "https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live"
   ],
   [
     "president",
     42,
-    "https://www.nytimes.com/2026/06/17/us/politics/jon-ossoff-georgia-senate-election.html"
+    "https://www.nytimes.com/2026/06/17/us/politics/intelligence-pulte-clayton.html"
   ],
   [
     "iran",
-    30,
-    "https://www.nytimes.com/2026/06/16/us/politics/obama-nuclear-deal-trump-iran.html"
+    34,
+    "https://www.nytimes.com/2026/06/17/world/middleeast/israel-channel-14-trump-criticism.html"
   ],
   [
-    "senate",
-    30,
-    "https://www.theguardian.com/us-news/2026/jun/17/trump-halts-jay-clayton-dni-nomination"
+    "game",
+    26,
+    "https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live"
   ],
   [
-    "primary",
-    28,
-    "https://www.theguardian.com/us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates"
+    "don",
+    25,
+    "https://www.theguardian.com/food/2026/jun/17/tomatoes-spuds-eggs-experts-on-what-food-to-store-in-fridge"
   ],
   [
     "family",
-    26,
+    22,
     "https://www.nytimes.com/2026/06/17/well/mind/mental-health-family-children.html"
   ],
   [
     "early",
-    25,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "georgia",
-    23,
-    "https://www.nytimes.com/2026/06/17/us/politics/jon-ossoff-georgia-senate-election.html"
-  ],
-  [
-    "debut",
-    23,
-    "https://www.nytimes.com/2026/06/16/business/warsh-fed-chair.html"
-  ],
-  [
-    "night",
-    23,
-    "https://www.nytimes.com/2026/06/17/arts/television/late-night-trump-reflecting-pool-algae.html"
-  ],
-  [
-    "messi",
-    23,
-    "https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report"
-  ],
-  [
-    "los",
-    23,
-    "https://www.theguardian.com/us-news/2026/jun/16/los-angeles-police-fatally-shoot-pet-dog-of-family-celebrating-knicks-win"
-  ],
-  [
-    "don",
     22,
-    "https://www.nytimes.com/2026/06/17/opinion/trump-pratt-voter-fraud-republicans.html"
+    "https://www.nytimes.com/2026/06/17/weather/illinois-indiana-tornado-storm.html"
   ],
   [
-    "win",
-    21,
-    "https://www.nytimes.com/2026/06/17/us/politics/jon-ossoff-georgia-senate-election.html"
-  ],
-  [
-    "runoff",
-    21,
-    "https://www.nytimes.com/2026/06/17/us/politics/georgia-alabama-elections-trump-takeaways.html"
-  ],
-  [
-    "del",
-    21,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/triplete-y-maximo-goleador-messi-es-el-superior-player-of-the-match-presentado-por-michelob-ultra-tmvo13194707"
-  ],
-  [
-    "ice",
+    "team",
     20,
-    "https://www.nytimes.com/2026/06/17/podcasts/the-headlines/ice-local-police-data-center-dispute.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "really",
+    "american",
     20,
-    "https://www.theguardian.com/food/2026/jun/17/tomatoes-spuds-eggs-experts-on-what-food-to-store-in-fridge"
+    "https://www.theguardian.com/football/2026/jun/17/harry-kane-american-dream-dallas-world-cup-england"
   ],
   [
     "fans",
     19,
-    "https://www.nytimes.com/2026/06/16/arts/music/taylor-swift-wedding-readers.html"
-  ],
-  [
-    "claims",
-    19,
-    "https://www.washingtonpost.com/nation/2026/06/16/doj-charges-15-minnesotans-with-conspiracy-block-ice-claims-antifa-ties/"
-  ],
-  [
-    "gop",
-    19,
-    "https://www.washingtonpost.com/nation/2026/06/15/anti-islam-candidate-loses-mayors-race-texas-city-torn-over-immigration/"
-  ],
-  [
-    "latest",
-    19,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "film",
-    19,
-    "https://www.theguardian.com/film/2026/jun/17/maddies-secret-john-early-kate-berlant"
+    "https://www.nytimes.com/2026/06/17/world/middleeast/israel-channel-14-trump-criticism.html"
   ],
   [
     "health",
+    19,
+    "https://www.nytimes.com/2026/06/17/well/mind/mental-health-family-children.html"
+  ],
+  [
+    "south",
+    19,
+    "https://www.theguardian.com/world/2026/jun/17/construction-equipment-multinationals-may-aiding-israeli-war-crimes-experts"
+  ],
+  [
+    "del",
+    19,
+    "https://www.theguardian.com/music/2026/jun/17/world-cup-classical-music-nessun-dorma-terrace-chants"
+  ],
+  [
+    "senate",
+    19,
+    "https://www.latimes.com/politics/story/2026-06-17/midterm-election-handicapping-senate-house-control-congress-democrats-republicans"
+  ],
+  [
+    "intelligence",
     18,
-    "https://www.nytimes.com/2026/06/17/us/politics/georgia-alabama-elections-trump-takeaways.html"
-  ],
-  [
-    "summer",
-    18,
-    "https://www.nytimes.com/2026/06/17/business/media/obsession-backrooms-summer-box-office-charts.html"
-  ],
-  [
-    "republicans",
-    18,
-    "https://www.nytimes.com/2026/06/17/opinion/trump-pratt-voter-fraud-republicans.html"
-  ],
-  [
-    "team",
-    18,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "argentina",
-    18,
-    "https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report"
-  ],
-  [
-    "air",
-    17,
-    "https://www.nytimes.com/2026/06/16/us/b52-crash.html"
-  ],
-  [
-    "race",
-    17,
-    "https://www.washingtonpost.com/nation/2026/06/15/anti-islam-candidate-loses-mayors-race-texas-city-torn-over-immigration/"
-  ],
-  [
-    "country",
-    17,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "cbs",
-    17,
-    "https://www.theguardian.com/us-news/2026/jun/16/cbs-stephen-colbert-peanuts-the-late-show"
-  ],
-  [
-    "business",
-    16,
-    "https://www.nytimes.com/2026/06/17/magazine/elon-musk-delaware-corporate-law.html"
-  ],
-  [
-    "food",
-    16,
-    "https://www.theguardian.com/stage/2026/jun/17/italia-conti-stage-school-noel-coward-martine-mccutcheon"
-  ],
-  [
-    "shooting",
-    16,
-    "https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated"
-  ],
-  [
-    "york",
-    16,
-    "https://www.theguardian.com/us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates"
-  ],
-  [
-    "game",
-    16,
-    "https://www.theguardian.com/football/2026/jun/17/portugal-cristiano-ronaldo-world-cup-drc"
-  ],
-  [
-    "musk",
-    15,
-    "https://www.nytimes.com/2026/06/17/magazine/elon-musk-delaware-corporate-law.html"
-  ],
-  [
-    "late",
-    15,
-    "https://www.nytimes.com/2026/06/17/arts/television/late-night-trump-reflecting-pool-algae.html"
-  ],
-  [
-    "million",
-    15,
-    "https://www.nytimes.com/2026/06/17/arts/television/late-night-trump-reflecting-pool-algae.html"
-  ],
-  [
-    "together",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/17/a-moment-that-changed-me-whatsapp-message-little-known-sport-made-me-unlikely-celebrity-japan"
-  ],
-  [
-    "play",
-    15,
-    "https://www.theguardian.com/stage/2026/jun/17/italia-conti-stage-school-noel-coward-martine-mccutcheon"
-  ],
-  [
-    "brand",
-    15,
-    "https://www.theguardian.com/media/2026/jun/17/lululemon-apologises-japanese-drum-great-wall-china-yoga-event"
+    "https://www.nytimes.com/2026/06/17/us/politics/intelligence-pulte-clayton.html"
   ],
   [
     "company",
+    18,
+    "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html"
+  ],
+  [
+    "prison",
+    18,
+    "https://www.nytimes.com/2026/06/17/us/lincoln-illinois-closures-economy.html"
+  ],
+  [
+    "food",
+    18,
+    "https://www.theguardian.com/environment/2026/jun/17/okra-canada-us-south"
+  ],
+  [
+    "debut",
+    18,
+    "https://www.theguardian.com/music/2026/jun/17/irish-rockers-bleech-93-on-struggle-sobriety-and-their-stunning-debut"
+  ],
+  [
+    "really",
+    18,
+    "https://www.theguardian.com/food/2026/jun/17/tomatoes-spuds-eggs-experts-on-what-food-to-store-in-fridge"
+  ],
+  [
+    "los",
+    18,
+    "https://www.theguardian.com/music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la"
+  ],
+  [
+    "star",
+    17,
+    "https://www.nytimes.com/2026/06/17/arts/television/matthew-rhys-widows-bay.html"
+  ],
+  [
+    "school",
+    17,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/17/money-coach-mental-health-wealth"
+  ],
+  [
+    "music",
+    17,
+    "https://www.theguardian.com/music/2026/jun/17/irish-rockers-bleech-93-on-struggle-sobriety-and-their-stunning-debut"
+  ],
+  [
+    "black",
+    16,
+    "https://www.nytimes.com/2026/06/17/science/oldest-plague-siberian-skeletons.html"
+  ],
+  [
+    "defense",
+    16,
+    "https://www.nytimes.com/2026/06/17/nyregion/mangione-emotional-disturbance-state-trial.html"
+  ],
+  [
+    "claims",
+    16,
+    "https://www.washingtonpost.com/nation/2026/06/16/doj-charges-15-minnesotans-with-conspiracy-block-ice-claims-antifa-ties/"
+  ],
+  [
+    "night",
+    16,
+    "https://www.theguardian.com/us-news/2026/jun/17/netjets-deadly-crash-laredo-texas"
+  ],
+  [
+    "watch",
+    16,
+    "https://www.theguardian.com/football/2026/jun/17/world-cup-cape-verde-goalkeeper-mother-visa-vozinha"
+  ],
+  [
+    "something",
+    16,
+    "https://www.theguardian.com/football/2026/jun/17/harry-kane-american-dream-dallas-world-cup-england"
+  ],
+  [
+    "country",
     15,
-    "https://www.theguardian.com/media/2026/jun/17/lululemon-apologises-japanese-drum-great-wall-china-yoga-event"
+    "https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html"
+  ],
+  [
+    "georgia",
+    15,
+    "https://www.nytimes.com/2026/06/17/us/politics/georgia-alabama-elections-trump-takeaways.html"
+  ],
+  [
+    "killing",
+    15,
+    "https://www.nytimes.com/2026/06/17/nyregion/mangione-emotional-disturbance-state-trial.html"
+  ],
+  [
+    "earlier",
+    15,
+    "https://www.washingtonpost.com/nation/2026/06/16/doj-charges-15-minnesotans-with-conspiracy-block-ice-claims-antifa-ties/"
+  ],
+  [
+    "red",
+    15,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "money",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/17/money-coach-mental-health-wealth"
   ],
   [
     "buying",
@@ -231,148 +191,188 @@
     "https://www.theguardian.com/lifeandstyle/2026/jun/17/money-coach-mental-health-wealth"
   ],
   [
-    "california",
+    "summer",
     15,
-    "https://www.theguardian.com/commentisfree/2026/jun/17/anthropic-ai-rsi-fable"
+    "https://www.theguardian.com/music/2026/jun/17/irish-rockers-bleech-93-on-struggle-sobriety-and-their-stunning-debut"
   ],
   [
-    "won",
-    14,
-    "https://www.nytimes.com/2026/06/17/us/politics/georgia-alabama-elections-trump-takeaways.html"
-  ],
-  [
-    "crash",
-    14,
-    "https://www.nytimes.com/2026/06/16/us/b52-crash.html"
-  ],
-  [
-    "force",
-    14,
-    "https://www.nytimes.com/2026/06/16/us/b52-crash.html"
-  ],
-  [
-    "money",
-    14,
-    "https://www.nytimes.com/2026/06/16/business/chinese-investors-restrictions.html"
-  ],
-  [
-    "star",
-    14,
-    "https://www.nytimes.com/2026/06/17/arts/television/matthew-rhys-of-widows-bay-is-on-a-boat-barely.html"
-  ],
-  [
-    "everything",
-    14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "something",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/17/a-moment-that-changed-me-whatsapp-message-little-known-sport-made-me-unlikely-celebrity-japan"
-  ],
-  [
-    "young",
-    14,
-    "https://www.theguardian.com/stage/2026/jun/17/italia-conti-stage-school-noel-coward-martine-mccutcheon"
-  ],
-  [
-    "role",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/17/trump-halts-jay-clayton-dni-nomination"
-  ],
-  [
-    "attorney",
-    14,
-    "https://www.theguardian.com/us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates"
-  ],
-  [
-    "event",
-    14,
-    "https://www.theguardian.com/media/2026/jun/17/lululemon-apologises-japanese-drum-great-wall-china-yoga-event"
+    "late",
+    15,
+    "https://www.theguardian.com/uk-news/2026/jun/17/harry-meghan-children-uk-first-time-four-years"
   ],
   [
     "guide",
-    14,
-    "https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia"
+    15,
+    "https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live"
   ],
   [
-    "far",
+    "hospital",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/17/trump-immigration-crackdown-doctors"
+  ],
+  [
+    "brand",
+    15,
+    "https://www.theguardian.com/football/2026/jun/17/harry-kane-american-dream-dallas-world-cup-england"
+  ],
+  [
+    "event",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/16/judge-recuses-georgia-election-case"
+  ],
+  [
+    "latest",
     14,
-    "https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-kylian-mbappe"
+    "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html"
+  ],
+  [
+    "ice",
+    14,
+    "https://www.washingtonpost.com/nation/2026/06/16/doj-charges-15-minnesotans-with-conspiracy-block-ice-claims-antifa-ties/"
+  ],
+  [
+    "war",
+    14,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
     "fewer",
     14,
-    "https://www.theguardian.com/commentisfree/2026/jun/17/trump-voting-rights-midterms"
+    "https://www.theguardian.com/thefilter-us/2026/jun/17/best-personalized-wedding-gifts-ideas"
   ],
   [
-    "angeles",
+    "play",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/16/los-angeles-police-fatally-shoot-pet-dog-of-family-celebrating-knicks-win"
+    "https://www.theguardian.com/thefilter-us/2026/jun/17/best-personalized-wedding-gifts-ideas"
+  ],
+  [
+    "messi",
+    14,
+    "https://www.theguardian.com/football/2026/jun/17/lionel-messi-hat-trick-algeria-argentina-world-cup"
+  ],
+  [
+    "young",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jun/17/ocean-fever-climate-change"
+  ],
+  [
+    "texas",
+    13,
+    "https://www.nytimes.com/2026/06/16/weather/tropical-storm-arthur-louisiana-texas-gulf.html"
+  ],
+  [
+    "race",
+    13,
+    "https://www.washingtonpost.com/nation/2026/06/15/anti-islam-candidate-loses-mayors-race-texas-city-torn-over-immigration/"
+  ],
+  [
+    "social",
+    13,
+    "https://www.theguardian.com/food/2026/jun/17/tomatoes-spuds-eggs-experts-on-what-food-to-store-in-fridge"
+  ],
+  [
+    "summit",
+    13,
+    "https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates"
   ],
   [
     "judge",
     13,
-    "https://www.nytimes.com/2026/06/16/arts/music/kennedy-center-closing-plan-judge.html"
+    "https://www.theguardian.com/us-news/2026/jun/17/luigi-mangione-new-york-state-court-appearance"
   ],
   [
-    "administration",
+    "children",
     13,
-    "https://www.nytimes.com/2026/06/16/arts/music/kennedy-center-closing-plan-judge.html"
+    "https://www.theguardian.com/uk-news/2026/jun/17/harry-meghan-children-uk-first-time-four-years"
   ],
   [
-    "watch",
+    "filter",
     13,
-    "https://www.nytimes.com/2026/06/17/business/federal-reserve-meeting-warsh.html"
+    "https://www.theguardian.com/thefilter-us/2026/jun/17/best-personalized-wedding-gifts-ideas"
   ],
   [
-    "red",
+    "win",
     13,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "school",
-    13,
-    "https://www.theguardian.com/stage/2026/jun/17/italia-conti-stage-school-noel-coward-martine-mccutcheon"
-  ],
-  [
-    "jay",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/17/trump-halts-jay-clayton-dni-nomination"
-  ],
-  [
-    "clayton",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/17/trump-halts-jay-clayton-dni-nomination"
-  ],
-  [
-    "donald",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/17/trump-halts-jay-clayton-dni-nomination"
-  ],
-  [
-    "wins",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates"
-  ],
-  [
-    "ahead",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates"
-  ],
-  [
-    "weekly",
-    13,
-    "https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia"
-  ],
-  [
-    "democratic",
-    13,
-    "https://www.theguardian.com/football/2026/jun/17/portugal-cristiano-ronaldo-world-cup-drc"
+    "https://www.theguardian.com/football/2026/jun/17/ousmane-dembele-france-attack-mbappe-olise-didier-deschamps-ballon-dor"
   ],
   [
     "father",
     13,
-    "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair"
+    "https://www.theguardian.com/books/2026/jun/17/collapse-by-edouard-louis-review-coming-to-terms-with-a-brothers-death"
+  ],
+  [
+    "dads",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jun/14/fathers-day-tech-gadgets-dads"
+  ],
+  [
+    "cbs",
+    13,
+    "https://www.cbsnews.com/news/arthur-engoron-trump-trial-judge-interview/"
+  ],
+  [
+    "won",
+    12,
+    "https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html"
+  ],
+  [
+    "runoff",
+    12,
+    "https://www.nytimes.com/2026/06/17/us/politics/georgia-alabama-elections-trump-takeaways.html"
+  ],
+  [
+    "created",
+    12,
+    "https://www.nytimes.com/2026/06/17/world/americas/ecuador-kichwa-language-andes.html"
+  ],
+  [
+    "case",
+    12,
+    "https://www.nytimes.com/2026/06/17/nyregion/gilgo-beach-killer-life-sentence.html"
+  ],
+  [
+    "mangione",
+    12,
+    "https://www.nytimes.com/2026/06/17/nyregion/mangione-emotional-disturbance-state-trial.html"
+  ],
+  [
+    "spent",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "everything",
+    12,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "start",
+    12,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "donald",
+    12,
+    "https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates"
+  ],
+  [
+    "hearing",
+    12,
+    "https://www.theguardian.com/us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates"
+  ],
+  [
+    "again",
+    12,
+    "https://www.theguardian.com/us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates"
+  ],
+  [
+    "court",
+    12,
+    "https://www.theguardian.com/us-news/2026/jun/17/luigi-mangione-new-york-state-court-appearance"
+  ],
+  [
+    "police",
+    12,
+    "https://www.theguardian.com/us-news/2026/jun/17/netjets-deadly-crash-laredo-texas"
   ]
 ];
