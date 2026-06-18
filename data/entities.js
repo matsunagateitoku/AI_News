@@ -3,7 +3,7 @@
   "PERSON": [
     {
       "name": "Donald  Trump",
-      "count": 23,
+      "count": 19,
       "url": "https://www.theguardian.com/us-news/2026/jun/17/ftc-transgender-health-lawsuit",
       "source": "The Guardian"
     },
@@ -14,9 +14,21 @@
       "source": "The Guardian"
     },
     {
-      "name": "Jay Clayton",
+      "name": "Harry Kane",
       "count": 8,
+      "url": "https://www.theguardian.com/football/2026/jun/18/harry-kane-england-croatia-inspired-thomas-tuchel-speech",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jay Clayton",
+      "count": 7,
       "url": "https://www.theguardian.com/us-news/2026/jun/17/trump-halts-jay-clayton-dni-nomination",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Luis Díaz",
+      "count": 7,
+      "url": "https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-group-k-match-report",
       "source": "The Guardian"
     },
     {
@@ -26,184 +38,184 @@
       "source": "The Guardian"
     },
     {
-      "name": "Jackson Lahmeyer",
+      "name": "Steven Spielberg",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/jun/17/oklahoma-republican-congress-infidelity",
+      "url": "https://www.theguardian.com/film/2026/jun/18/steven-spielberg-et-was-moist-but-never-slimy",
       "source": "The Guardian"
     },
     {
-      "name": "Kevin Warsh",
+      "name": "Pete Hegseth",
       "count": 5,
-      "url": "https://www.nytimes.com/2026/06/17/business/federal-reserve-meeting-warsh.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Jane Kelvey",
-      "count": 5,
-      "url": "https://www.theguardian.com/uk-news/2026/jun/17/we-had-right-of-way-when-british-fair-play-met-russian-firepower-off-the-isle-of-wight",
+      "url": "https://www.theguardian.com/world/live/2026/jun/18/middle-east-crisis-live-us-iran-presidents-sign-peace-deal-mou-trump-tehran-strait-of-hormuz-toll-lebanon-israel",
       "source": "The Guardian"
     },
     {
-      "name": "Abdullah Ibrahim",
+      "name": "Klarna",
       "count": 5,
-      "url": "https://www.theguardian.com/music/2026/jun/16/from-the-pain-of-apartheid-to-luscious-beauty-10-of-the-best-recordings-by-jazz-legend-abdullah-ibrahim",
+      "url": "https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise",
       "source": "The Guardian"
     },
     {
-      "name": "Gavin Newsom",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/06/18/us/california-billionaire-tax-ballot.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Stuart Russell",
-      "count": 4,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/17/anthropic-ai-rsi-fable",
+      "name": "Messi",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Upends G7 Summit With Statements",
-      "count": 64,
-      "url": "https://www.nytimes.com/2026/06/17/world/europe/trump-g7-europe.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The White House",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/06/17/nyregion/knicks-white-house-visit.html",
-      "source": "NY Times"
+      "name": "Trump The Washington Post",
+      "count": 58,
+      "url": "https://www.foxnews.com/media/jeff-bezos-reportedly-told-trump-washington-post-his-worst-investment-before-staff-cuts",
+      "source": "Fox News"
     },
     {
       "name": "Trump    New York Knicks",
-      "count": 14,
+      "count": 21,
       "url": "https://www.theguardian.com/sport/2026/jun/17/new-york-knicks-white-house-visit-nba-title",
       "source": "The Guardian"
     },
     {
-      "name": "The Maine Senate",
-      "count": 14,
-      "url": "https://www.foxnews.com/media/hillary-clinton-dodges-endorsing-graham-platner-calls-scandals-bumps-road",
-      "source": "Fox News"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 13,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "name": "Senate",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/jun/17/trump-halts-jay-clayton-dni-nomination",
       "source": "The Guardian"
     },
     {
       "name": "Ai Company Allbirds",
-      "count": 9,
+      "count": 15,
       "url": "https://www.latimes.com/business/story/2026-06-17/allbirds-stock-takes-flight-after-announcing-new-ceo-name-change",
       "source": "LA Times"
     },
     {
+      "name": "This White House",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/06/18/opinion/jd-vance-iran-trump-communion.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
       "name": "Un",
       "count": 9,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/campaz-sentencia-en-el-agregado-colombia-cierra-el-triunfo-ante-uzbekistan-tmvo13195091",
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/doblete-del-capitan-harry-kane-aparece-de-cabeza-y-amplia-la-ventaja-de-inglaterra-tmvo13194939",
       "source": "NBC News"
     },
     {
-      "name": "Cbs News",
+      "name": "Nba",
       "count": 8,
-      "url": "https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Battleground Iowa House",
-      "count": 8,
-      "url": "https://www.politico.com/news/2026/06/15/iowa-battleground-rfk-zach-nunn-challenger-00962665",
-      "source": "Politico"
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/18/new-york-knicks-celebrations-arsenal-london",
+      "source": "The Guardian"
     },
     {
       "name": "Guardian",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/17/anthropic-ai-rsi-fable",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/jun/18/louisiana-beach-tourists-rescue",
       "source": "The Guardian"
+    },
+    {
+      "name": "The San Francisco Giants",
+      "count": 8,
+      "url": "https://www.foxnews.com/outkick-sports/san-francisco-giants-ready-sell-star-players-ahead-trade-deadline-buster-poseys-rebuild-unravels",
+      "source": "Fox News"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 66,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/17/anthropic-ai-rsi-fable",
-      "source": "The Guardian"
+      "count": 62,
+      "url": "https://www.nytimes.com/2026/06/17/opinion/remote-work-depression.html",
+      "source": "NY Times"
     },
     {
-      "name": "The Islamic Republic Of Iran",
-      "count": 48,
-      "url": "https://thehill.com/policy/international/5929326-pope-leo-xiv-welcomes-us-iran-deal/",
-      "source": "The Hill"
+      "name": "Iran",
+      "count": 41,
+      "url": "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html",
+      "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 26,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Georgia",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/jun/17/georgia-republicans-congressional-redistricting",
-      "source": "The Guardian"
-    },
-    {
-      "name": "England",
-      "count": 12,
-      "url": "https://www.theguardian.com/wellness/2026/jun/17/adult-sticker-charts-motivation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A.",
-      "count": 12,
-      "url": "https://www.latimes.com/california/story/2026-06-17/effort-to-exempt-new-apartment-buildings-in-la-from-mansion-tax-moves-forward",
-      "source": "LA Times"
+      "count": 27,
+      "url": "https://www.nytimes.com/2026/06/18/podcasts/the-headlines/iran-benefit-deal-us-and-artificial-intelligence-arms-race-schools.html",
+      "source": "NY Times"
     },
     {
       "name": "Los Angeles County'S",
-      "count": 11,
+      "count": 15,
       "url": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/sofi-stadium-wastewater-inglewood-00961576",
       "source": "Politico"
     },
     {
-      "name": "Washington",
+      "name": "China",
+      "count": 14,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "L.A.",
+      "count": 12,
+      "url": "https://www.latimes.com/entertainment-arts/music/story/2026-06-18/este-haim-voicemails-for-isabelle-netflix-interview",
+      "source": "LA Times"
+    },
+    {
+      "name": "New York City",
+      "count": 12,
+      "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/mamdani-fan-of-the-people-00961528",
+      "source": "Politico"
+    },
+    {
+      "name": "England",
+      "count": 11,
+      "url": "https://www.theguardian.com/football/2026/jun/18/harry-kane-england-croatia-inspired-thomas-tuchel-speech",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Colombia",
+      "count": 11,
+      "url": "https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-group-k-match-report",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Georgia",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/06/17/nyregion/knicks-white-house-visit.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/nation/2026/06/17/private-jet-crashes-highway-near-laredo-texas-killing-1/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "California",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/jun/17/california-students-drowned-santa-cruz",
+      "url": "https://www.theguardian.com/us-news/2026/jun/17/georgia-republicans-congressional-redistricting",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "England World Cup",
-      "count": 40,
-      "url": "https://www.theguardian.com/football/2026/jun/18/fifa-england-ticketless-fans-security-world-cup",
+      "name": "The 2026 World Cup",
+      "count": 29,
+      "url": "https://www.theguardian.com/football/2026/jun/18/harry-kane-england-croatia-inspired-thomas-tuchel-speech",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 7,
-      "url": "https://www.theguardian.com/football/2026/jun/17/world-cup-cape-verde-goalkeeper-mother-visa-vozinha",
+      "count": 11,
+      "url": "https://www.theguardian.com/football/2026/jun/18/harry-kane-england-croatia-inspired-thomas-tuchel-speech",
       "source": "The Guardian"
     },
     {
       "name": "The Iran War",
-      "count": 5,
-      "url": "https://www.npr.org/2026/06/17/nx-s1-5860739/iran-war-cost-oil-military-trade",
-      "source": "NPR"
+      "count": 3,
+      "url": "https://www.cbsnews.com/video/breaking-down-preliminary-us-iran-deal-trump-iranian-president-sign-remotely/",
+      "source": "CBS News"
+    },
+    {
+      "name": "World Cup 2026",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/live/2026/jun/18/world-cup-2026-england-croatia-fans-czechia-south-africa-switzerland-bosnia-and-herzegovina-canada-qatar-mexico-south-korea-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup’S",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
+      "source": "The Guardian"
     },
     {
       "name": "Wimbledon",
@@ -212,27 +224,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "Super Bowl",
-      "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/knicks-owner-confirms-championship-celebration-invite-white-house-seahawks-visit-back-burner",
-      "source": "Fox News"
-    },
-    {
-      "name": "Iraq War Veteran Sgt",
-      "count": 2,
-      "url": "https://www.foxnews.com/politics/trump-endorsed-congressional-candidate-pledges-entire-174k-salary-wounded-iraq-war-veterans-family",
-      "source": "Fox News"
-    },
-    {
-      "name": "The War With Iran",
+      "name": "This World Cup",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/football/2026/jun/18/world-cup-2026-socceroos-australia-usa-which-team-will-win-how",
+      "source": "The Guardian"
     },
     {
-      "name": "World Cup 2026",
+      "name": "A World Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe",
+      "url": "https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-group-k-match-report",
       "source": "The Guardian"
     },
     {
@@ -248,5 +248,5 @@
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-06-18T05:58:59Z"
+  "updated": "2026-06-18T11:10:55Z"
 };

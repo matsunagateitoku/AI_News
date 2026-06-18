@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    107,
-    "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html"
-  ],
-  [
-    "iran",
-    59,
-    "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html"
+    97,
+    "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-republicans-criticism.html"
   ],
   [
     "cup",
-    51,
-    "https://www.theguardian.com/football/2026/jun/17/england-croatia-world-cup-2026-group-l-match-report"
+    49,
+    "https://www.theguardian.com/football/2026/jun/18/harry-kane-england-croatia-inspired-thomas-tuchel-speech"
+  ],
+  [
+    "iran",
+    48,
+    "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html"
   ],
   [
     "president",
-    50,
-    "https://www.nytimes.com/2026/06/17/world/europe/trump-g7-europe.html"
-  ],
-  [
-    "war",
-    30,
-    "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html"
+    46,
+    "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-republicans-criticism.html"
   ],
   [
     "team",
-    27,
-    "https://www.nytimes.com/live/2026/us/fifa-world-cup#iran-world-cup-united-states"
+    30,
+    "https://www.nytimes.com/2026/06/18/nyregion/knicks-parade-nyc.html"
+  ],
+  [
+    "war",
+    29,
+    "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html"
+  ],
+  [
+    "knicks",
+    26,
+    "https://www.nytimes.com/2026/06/18/nyregion/knicks-parade-nyc.html"
   ],
   [
     "health",
-    26,
-    "https://www.nytimes.com/2026/06/17/health/pepfar-cdc-cuts.html"
-  ],
-  [
-    "star",
-    23,
-    "https://www.theguardian.com/wellness/2026/jun/17/adult-sticker-charts-motivation"
-  ],
-  [
-    "family",
-    23,
-    "https://www.theguardian.com/wellness/2026/jun/17/adult-sticker-charts-motivation"
-  ],
-  [
-    "police",
-    22,
-    "https://www.theguardian.com/us-news/2026/jun/17/mississippi-police-walmart-shooting"
-  ],
-  [
-    "summer",
-    22,
-    "https://www.theguardian.com/football/2026/jun/17/portugal-dr-congo-world-cup-2026-group-k-match-report"
-  ],
-  [
-    "don",
-    21,
-    "https://www.theguardian.com/thefilter-us/2026/jun/17/best-personalized-wedding-gifts-ideas"
+    24,
+    "https://www.theguardian.com/us-news/video/2026/jun/17/rfk-jr-unproven-autism-treatment-stateside-podcast"
   ],
   [
     "game",
+    23,
+    "https://www.theguardian.com/commentisfree/2026/jun/18/new-york-knicks-celebrations-arsenal-london"
+  ],
+  [
+    "fans",
+    22,
+    "https://www.nytimes.com/2026/06/18/nyregion/knicks-parade-nyc.html"
+  ],
+  [
+    "york",
+    22,
+    "https://www.nytimes.com/2026/06/18/business/knicks-brands-merchandise.html"
+  ],
+  [
+    "colombia",
     21,
-    "https://www.theguardian.com/sport/2026/jun/17/new-york-knicks-white-house-visit-nba-title"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
     "los",
     21,
-    "https://www.theguardian.com/us-news/2026/jun/17/los-angeles-police-dog-killing"
-  ],
-  [
-    "knicks",
-    20,
-    "https://www.nytimes.com/2026/06/17/nyregion/knicks-parade-security-new-york-police.html"
-  ],
-  [
-    "early",
-    20,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "york",
-    19,
-    "https://www.nytimes.com/2026/06/17/us/politics/us-iran-agreement-deal-text.html"
-  ],
-  [
-    "security",
-    18,
-    "https://www.nytimes.com/2026/06/17/us/politics/bill-pulte-spy-agency.html"
-  ],
-  [
-    "rates",
-    18,
-    "https://www.nytimes.com/2026/06/17/business/federal-reserve-meeting-warsh.html"
-  ],
-  [
-    "colombia",
-    18,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "parents",
-    18,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/17/money-coach-mental-health-wealth"
-  ],
-  [
-    "film",
-    18,
-    "https://www.theguardian.com/film/2026/jun/18/theodore-pellerin-interview-nino-film-challenges-masturbation-scene"
+    "https://www.theguardian.com/us-news/2026/jun/17/los-angeles-warehouse-fire-ammonia"
   ],
   [
     "review",
+    20,
+    "https://www.nytimes.com/2026/06/18/movies/toy-story-5-review-the-machines-have-come-for-the-children.html"
+  ],
+  [
+    "star",
+    20,
+    "https://www.theguardian.com/film/2026/jun/18/theodore-pellerin-interview-nino-film-challenges-masturbation-scene"
+  ],
+  [
+    "debut",
+    19,
+    "https://www.nytimes.com/2026/06/18/business/spacex-retail-investors.html"
+  ],
+  [
+    "event",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/jun/18/new-york-knicks-celebrations-arsenal-london"
+  ],
+  [
+    "angeles",
+    19,
+    "https://www.theguardian.com/us-news/2026/jun/17/los-angeles-warehouse-fire-ammonia"
+  ],
+  [
+    "summer",
+    19,
+    "https://www.theguardian.com/music/2026/jun/18/michael-cloud-duguay-album-church-organs"
+  ],
+  [
+    "country",
     18,
-    "https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study"
+    "https://www.nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html"
   ],
   [
-    "department",
-    17,
-    "https://www.nytimes.com/2026/06/17/climate/trump-wind-farms-cancel-millions.html"
+    "buying",
+    18,
+    "https://www.nytimes.com/2026/06/18/well/retatrutide-peptide-weight-loss-black-market.html"
   ],
   [
-    "night",
-    17,
-    "https://www.nytimes.com/2026/06/17/weather/tornadoes-news-illinois-wisconsin-indiana.html"
+    "company",
+    18,
+    "https://www.nytimes.com/2026/06/18/business/spacex-retail-investors.html"
+  ],
+  [
+    "american",
+    18,
+    "https://www.washingtonpost.com/nation/2026/06/18/belief-that-anyone-can-achieve-american-dream-is-fading-poll-finds/"
+  ],
+  [
+    "early",
+    18,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "police",
+    18,
+    "https://www.theguardian.com/us-news/2026/jun/17/mississippi-police-walmart-shooting"
   ],
   [
     "fewer",
     17,
-    "https://www.theguardian.com/thefilter-us/2026/jun/17/best-personalized-wedding-gifts-ideas"
+    "https://www.washingtonpost.com/nation/2026/06/18/belief-that-anyone-can-achieve-american-dream-is-fading-poll-finds/"
+  ],
+  [
+    "night",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/jun/18/new-york-knicks-celebrations-arsenal-london"
+  ],
+  [
+    "don",
+    17,
+    "https://www.theguardian.com/news/2026/jun/18/can-ecosystems-malfunction"
   ],
   [
     "donald",
     17,
-    "https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal"
+    "https://www.theguardian.com/world/live/2026/jun/18/middle-east-crisis-live-us-iran-presidents-sign-peace-deal-mou-trump-tehran-strait-of-hormuz-toll-lebanon-israel"
   ],
   [
-    "country",
+    "rates",
+    17,
+    "https://www.theguardian.com/business/2026/jun/17/federal-reserve-interest-rates"
+  ],
+  [
+    "attack",
     16,
-    "https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html"
+    "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html"
   ],
   [
-    "young",
+    "film",
     16,
-    "https://www.theguardian.com/commentisfree/2026/jun/17/ocean-fever-climate-change"
+    "https://www.nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html"
   ],
   [
-    "play",
+    "children",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/jun/17/best-personalized-wedding-gifts-ideas"
+    "https://www.nytimes.com/2026/06/18/movies/toy-story-5-review-the-machines-have-come-for-the-children.html"
   ],
   [
-    "south",
+    "far",
     16,
-    "https://www.theguardian.com/world/2026/jun/18/moscow-oil-refinery-on-fire-ukraine-drone-stikes"
+    "https://www.theguardian.com/commentisfree/2026/jun/18/new-york-knicks-celebrations-arsenal-london"
   ],
   [
-    "event",
+    "parents",
     16,
-    "https://www.theguardian.com/sport/2026/jun/17/jenny-simpson-collapse"
-  ],
-  [
-    "california",
-    15,
-    "https://www.nytimes.com/2026/06/18/us/california-billionaire-tax-ballot.html"
-  ],
-  [
-    "company",
-    15,
-    "https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html"
-  ],
-  [
-    "storm",
-    15,
-    "https://www.nytimes.com/2026/06/17/weather/tropical-storm-arthur-how-much-rain.html"
+    "https://www.theguardian.com/us-news/video/2026/jun/17/rfk-jr-unproven-autism-treatment-stateside-podcast"
   ],
   [
     "latest",
     15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.nytimes.com/2026/06/18/movies/toy-story-5-review-the-machines-have-come-for-the-children.html"
   ],
   [
-    "buying",
+    "china",
     15,
-    "https://www.theguardian.com/wellness/2026/jun/17/adult-sticker-charts-motivation"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "children",
+    "working",
     15,
-    "https://www.theguardian.com/wellness/2026/jun/17/adult-sticker-charts-motivation"
-  ],
-  [
-    "guide",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/17/best-personalized-wedding-gifts-ideas"
+    "https://www.theguardian.com/society/2026/jun/18/malignant-rise-onlyfans-managers-exploiting-grooming-predatory"
   ],
   [
     "win",
     15,
-    "https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal"
+    "https://www.theguardian.com/commentisfree/2026/jun/18/new-york-knicks-celebrations-arsenal-london"
   ],
   [
-    "really",
+    "food",
     15,
-    "https://www.theguardian.com/artanddesign/2026/jun/17/maren-hassinger-retrospective-berkeley-art-museum"
+    "https://www.theguardian.com/news/2026/jun/18/can-ecosystems-malfunction"
   ],
   [
-    "ante",
+    "department",
     15,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/campaz-sentencia-en-el-agregado-colombia-cierra-el-triunfo-ante-uzbekistan-tmvo13195091"
+    "https://www.theguardian.com/us-news/2026/jun/17/don-berthiaume-doj-trump-jan-6"
   ],
   [
-    "uzbekist",
+    "senate",
     15,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/campaz-sentencia-en-el-agregado-colombia-cierra-el-triunfo-ante-uzbekistan-tmvo13195091"
+    "https://www.theguardian.com/us-news/2026/jun/17/trump-halts-jay-clayton-dni-nomination"
+  ],
+  [
+    "guide",
+    15,
+    "https://www.theguardian.com/football/live/2026/jun/18/world-cup-2026-england-croatia-fans-czechia-south-africa-switzerland-bosnia-and-herzegovina-canada-qatar-mexico-south-korea-live"
   ],
   [
     "agreement",
     14,
-    "https://www.nytimes.com/2026/06/17/us/politics/us-iran-agreement-deal-text.html"
+    "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html"
   ],
   [
-    "debut",
+    "despite",
     14,
-    "https://www.nytimes.com/live/2026/us/fifa-world-cup#iran-world-cup-united-states"
+    "https://www.nytimes.com/2026/06/17/opinion/remote-work-depression.html"
   ],
   [
-    "tropical",
+    "study",
     14,
-    "https://www.nytimes.com/2026/06/17/weather/tropical-storm-arthur-how-much-rain.html"
-  ],
-  [
-    "fire",
-    14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "point",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jun/17/ocean-fever-climate-change"
+    "https://www.theguardian.com/news/2026/jun/18/can-ecosystems-malfunction"
   ],
   [
     "england",
     14,
-    "https://www.theguardian.com/wellness/2026/jun/17/adult-sticker-charts-motivation"
-  ],
-  [
-    "senate",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/17/trump-halts-jay-clayton-dni-nomination"
-  ],
-  [
-    "died",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/17/california-students-drowned-santa-cruz"
+    "https://www.theguardian.com/football/2026/jun/18/harry-kane-england-croatia-inspired-thomas-tuchel-speech"
   ],
   [
     "killed",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/17/california-students-drowned-santa-cruz"
+    "https://www.theguardian.com/us-news/2026/jun/17/mississippi-police-walmart-shooting"
   ],
   [
-    "black",
+    "kids",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/17/lawsuit-stop-reparations-evanston-illinois"
-  ],
-  [
-    "angeles",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/17/los-angeles-police-dog-killing"
-  ],
-  [
-    "again",
-    13,
-    "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html"
-  ],
-  [
-    "visit",
-    13,
-    "https://www.nytimes.com/2026/06/17/nyregion/knicks-white-house-visit.html"
-  ],
-  [
-    "questions",
-    13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "despite",
-    13,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "everything",
-    13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "money",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/17/money-coach-mental-health-wealth"
-  ],
-  [
-    "breaking",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/17/money-coach-mental-health-wealth"
-  ],
-  [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/17/best-personalized-wedding-gifts-ideas"
-  ],
-  [
-    "mayor",
-    13,
-    "https://www.theguardian.com/world/2026/jun/18/moscow-oil-refinery-on-fire-ukraine-drone-stikes"
-  ],
-  [
-    "georgia",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/17/georgia-republicans-congressional-redistricting"
-  ],
-  [
-    "watch",
-    13,
     "https://www.theguardian.com/us-news/video/2026/jun/17/rfk-jr-unproven-autism-treatment-stateside-podcast"
   ],
   [
-    "working",
+    "point",
+    14,
+    "https://www.theguardian.com/football/2026/jun/18/world-cup-viewed-from-afar-like-ambient-noise"
+  ],
+  [
+    "defense",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jun/17/anthropic-ai-rsi-fable"
+  ],
+  [
+    "family",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/17/oklahoma-republican-congress-infidelity"
+  ],
+  [
+    "republicans",
+    13,
+    "https://www.nytimes.com/2026/06/17/us/politics/bill-pulte-spy-agency.html"
+  ],
+  [
+    "security",
+    13,
+    "https://www.nytimes.com/2026/06/17/us/politics/bill-pulte-spy-agency.html"
+  ],
+  [
+    "experts",
+    13,
+    "https://www.nytimes.com/2026/06/18/business/spacex-stock-investing-advice.html"
+  ],
+  [
+    "actually",
+    13,
+    "https://www.nytimes.com/2026/06/18/us/extreme-sports-deaths.html"
+  ],
+  [
+    "poll",
+    13,
+    "https://www.washingtonpost.com/nation/2026/06/18/belief-that-anyone-can-achieve-american-dream-is-fading-poll-finds/"
+  ],
+  [
+    "won",
+    13,
+    "https://www.washingtonpost.com/lifestyle/2026/06/17/shelter-dogs-won-makeover-contest-their-dramatic-transformations/"
+  ],
+  [
+    "fire",
+    13,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "young",
     13,
     "https://www.theguardian.com/society/2026/jun/18/malignant-rise-onlyfans-managers-exploiting-grooming-predatory"
   ],
   [
-    "cancer",
+    "filter",
     13,
-    "https://www.theguardian.com/film/2026/jun/18/theodore-pellerin-interview-nino-film-challenges-masturbation-scene"
-  ],
-  [
-    "food",
-    13,
-    "https://www.theguardian.com/film/2026/jun/17/maddies-secret-john-early-kate-berlant"
-  ],
-  [
-    "fans",
-    13,
-    "https://www.theguardian.com/film/2026/jun/17/maddies-secret-john-early-kate-berlant"
-  ],
-  [
-    "ufc",
-    13,
-    "https://www.theguardian.com/sport/2026/jun/17/alex-pereira-ciryl-gane-ufc-white-house"
+    "https://www.theguardian.com/news/2026/jun/18/can-ecosystems-malfunction"
   ],
   [
     "late",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/17/florida-alligator-alcatraz-activists"
+    "https://www.theguardian.com/artanddesign/2026/jun/18/gilbert-and-george-endless-interview-our-george-crompton"
   ],
   [
-    "full",
+    "decision",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/17/georgia-republicans-congressional-redistricting"
+  ],
+  [
+    "music",
+    13,
+    "https://www.theguardian.com/music/2026/jun/18/michael-cloud-duguay-album-church-organs"
+  ],
+  [
+    "south",
+    13,
+    "https://www.theguardian.com/music/2026/jun/18/michael-cloud-duguay-album-church-organs"
+  ],
+  [
+    "players",
+    13,
+    "https://www.theguardian.com/football/2026/jun/18/world-cup-2026-socceroos-australia-usa-which-team-will-win-how"
+  ],
+  [
+    "season",
+    13,
+    "https://www.theguardian.com/sport/2026/jun/18/olivia-miles-the-goggled-wonder-woman-pulverizing-opponents-in-her-rookie-season"
+  ],
+  [
+    "start",
     12,
-    "https://www.nytimes.com/2026/06/17/us/politics/us-iran-agreement-deal-text.html"
+    "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html"
+  ],
+  [
+    "together",
+    12,
+    "https://www.nytimes.com/2026/06/18/nyregion/knicks-parade-nyc.html"
+  ],
+  [
+    "expected",
+    12,
+    "https://www.nytimes.com/2026/06/18/nyregion/knicks-parade-nyc.html"
+  ],
+  [
+    "opening",
+    12,
+    "https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html"
+  ],
+  [
+    "black",
+    12,
+    "https://www.nytimes.com/2026/06/18/well/retatrutide-peptide-weight-loss-black-market.html"
   ],
   [
     "administration",
     12,
-    "https://www.nytimes.com/2026/06/17/climate/trump-wind-farms-cancel-millions.html"
+    "https://www.nytimes.com/2026/06/18/opinion/jd-vance-iran-trump-communion.html"
   ],
   [
-    "million",
+    "money",
     12,
-    "https://www.nytimes.com/2026/06/17/climate/trump-wind-farms-cancel-millions.html"
+    "https://www.washingtonpost.com/investigations/2026/06/18/budget-office-redirects-352m-secret-service-funds-white-house-security/"
   ],
   [
-    "arthur",
+    "ice",
     12,
-    "https://www.nytimes.com/2026/06/17/weather/tropical-storm-arthur-how-much-rain.html"
+    "https://www.washingtonpost.com/nation/2026/06/16/doj-charges-15-minnesotans-with-conspiracy-block-ice-claims-antifa-ties/"
   ]
 ];
