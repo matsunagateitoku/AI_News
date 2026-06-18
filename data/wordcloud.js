@@ -2,98 +2,118 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    97,
-    "https://www.nytimes.com/2026/06/18/climate/trump-ocean-observatories-initiative.html"
-  ],
-  [
-    "president",
-    53,
-    "https://www.nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html"
+    101,
+    "https://www.nytimes.com/2026/06/18/us/politics/trump-regime-change-book-haberman-swan.html"
   ],
   [
     "iran",
-    48,
+    51,
     "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html"
   ],
   [
-    "cup",
-    41,
-    "https://www.theguardian.com/football/live/2026/jun/18/czechia-v-south-africa-world-cup-live"
+    "president",
+    50,
+    "https://www.nytimes.com/2026/06/18/us/politics/trump-regime-change-book-haberman-swan.html"
   ],
   [
-    "war",
-    28,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "cup",
+    38,
+    "https://www.theguardian.com/football/live/2026/jun/18/switzerland-v-bosnia-and-herzegovina-world-cup-2026-live"
+  ],
+  [
+    "obama",
+    36,
+    "https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html"
+  ],
+  [
+    "center",
+    33,
+    "https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html"
   ],
   [
     "team",
-    24,
+    31,
     "https://www.nytimes.com/2026/06/18/insider/knicks-ny-photos-nba-finals.html"
   ],
   [
-    "south",
-    24,
-    "https://www.nytimes.com/2026/06/12/travel/chicago-south-side-obama-center.html"
-  ],
-  [
-    "court",
-    24,
-    "https://www.nytimes.com/2026/06/18/us/politics/supreme-court-drugs-guns.html"
-  ],
-  [
-    "game",
-    24,
-    "https://www.theguardian.com/football/live/2026/jun/18/czechia-v-south-africa-world-cup-live"
-  ],
-  [
-    "summer",
-    23,
-    "https://www.theguardian.com/music/2026/jun/18/michael-cloud-duguay-album-church-organs"
-  ],
-  [
     "york",
-    23,
-    "https://www.theguardian.com/us-news/2026/jun/18/central-park-teen-dies-horse-drawn-carriage"
+    29,
+    "https://www.nytimes.com/2026/06/18/nyregion/knicks-championship-parade-celebration-nyc.html"
   ],
   [
-    "knicks",
-    22,
-    "https://www.nytimes.com/2026/06/18/nyregion/18met-knicks-parade-photos.html"
+    "presidential",
+    28,
+    "https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html"
   ],
   [
     "don",
-    21,
-    "https://www.theguardian.com/thefilter-us/2026/jun/18/best-early-amazon-prime-deals-sales"
+    27,
+    "https://www.nytimes.com/2026/06/18/opinion/iphones-birthrate-decline.html"
   ],
   [
-    "fans",
-    20,
-    "https://www.nytimes.com/2026/06/18/nyregion/18met-knicks-parade-photos.html"
+    "war",
+    26,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "knicks",
+    25,
+    "https://www.nytimes.com/2026/06/18/nyregion/knicks-championship-parade-celebration-nyc.html"
   ],
   [
     "administration",
-    20,
+    25,
     "https://www.nytimes.com/2026/06/18/climate/trump-ocean-observatories-initiative.html"
   ],
   [
-    "american",
-    19,
-    "https://www.nytimes.com/2026/06/18/travel/novelist-immigrant-thomas-jefferson-home-son.html"
-  ],
-  [
     "early",
+    25,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "fans",
+    24,
+    "https://www.nytimes.com/2026/06/18/nyregion/18met-knicks-parade-photos.html"
+  ],
+  [
+    "opening",
+    24,
+    "https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html"
+  ],
+  [
+    "family",
+    24,
+    "https://www.theguardian.com/sport/2026/jun/18/new-york-knicks-parade-fans-nba-champions"
+  ],
+  [
+    "game",
+    20,
+    "https://www.theguardian.com/football/datablog/2026/jun/18/numbers-game-stats-that-tell-stories-from-the-first-24-world-cup-matches"
+  ],
+  [
+    "health",
     19,
-    "https://www.nytimes.com/2026/06/17/weather/tornadoes-news-illinois-wisconsin-indiana.html"
+    "https://www.nytimes.com/2026/06/18/nyregion/representative-tom-kean-return-to-congress.html"
   ],
   [
-    "country",
-    18,
-    "https://www.nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html"
+    "court",
+    19,
+    "https://www.nytimes.com/2026/06/18/us/politics/supreme-court-drugs-guns.html"
   ],
   [
-    "fire",
+    "summer",
+    19,
+    "https://www.theguardian.com/thefilter-us/2026/jun/18/best-early-amazon-prime-deals-sales"
+  ],
+  [
+    "chicago",
     18,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html"
+  ],
+  [
+    "food",
+    18,
+    "https://www.theguardian.com/us-news/2026/jun/18/fda-flu-vaccine-mrna"
   ],
   [
     "music",
@@ -101,124 +121,99 @@
     "https://www.theguardian.com/music/2026/jun/18/michael-cloud-duguay-album-church-organs"
   ],
   [
-    "win",
-    18,
-    "https://www.theguardian.com/sport/2026/jun/18/olivia-miles-the-goggled-wonder-woman-pulverizing-opponents-in-her-rookie-season"
-  ],
-  [
-    "night",
-    18,
-    "https://www.theguardian.com/sport/2026/jun/18/olivia-miles-the-goggled-wonder-woman-pulverizing-opponents-in-her-rookie-season"
-  ],
-  [
-    "food",
-    18,
-    "https://www.theguardian.com/environment/2026/jun/18/mega-consumers-food-energy-damage-cost-environment"
-  ],
-  [
-    "film",
-    18,
-    "https://www.theguardian.com/film/2026/jun/18/marc-isaacs-synthetic-sincerity-ai"
-  ],
-  [
-    "obama",
+    "supreme",
     17,
-    "https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html"
+    "https://www.nytimes.com/2026/06/18/us/politics/supreme-court-drugs-guns.html"
   ],
   [
-    "guide",
-    17,
-    "https://www.nytimes.com/2026/06/12/travel/chicago-south-side-obama-center.html"
-  ],
-  [
-    "vance",
-    17,
-    "https://www.nytimes.com/2026/06/18/opinion/jd-vance-iran-trump-communion.html"
-  ],
-  [
-    "americans",
-    17,
-    "https://www.nytimes.com/2026/06/17/opinion/remote-work-depression.html"
-  ],
-  [
-    "star",
+    "country",
     17,
     "https://www.washingtonpost.com/nation/2026/06/18/barack-obama-presidential-center-opens-chicagos-lakefront/"
   ],
   [
-    "living",
-    17,
-    "https://www.theguardian.com/football/live/2026/jun/18/czechia-v-south-africa-world-cup-live"
-  ],
-  [
-    "debut",
-    17,
-    "https://www.theguardian.com/film/2026/jun/18/girls-like-girls-movie-review"
-  ],
-  [
-    "bill",
-    16,
-    "https://www.nytimes.com/2026/06/18/climate/trump-ocean-observatories-initiative.html"
-  ],
-  [
-    "center",
-    16,
-    "https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html"
-  ],
-  [
-    "supreme",
-    16,
-    "https://www.nytimes.com/2026/06/18/us/politics/supreme-court-drugs-guns.html"
-  ],
-  [
-    "law",
-    16,
-    "https://www.nytimes.com/2026/06/18/us/politics/supreme-court-drugs-guns.html"
-  ],
-  [
     "donald",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/jun/18/trump-iran-war-deal"
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/18/stephen-feinberg-trump-pentagon"
   ],
   [
-    "young",
-    16,
-    "https://www.theguardian.com/society/2026/jun/18/malignant-rise-onlyfans-managers-exploiting-grooming-predatory"
+    "california",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/18/california-mining-lone-pine"
   ],
   [
-    "study",
-    16,
-    "https://www.theguardian.com/global/2026/jun/18/midlife-crisis-researcher"
+    "company",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/18/california-mining-lone-pine"
   ],
   [
-    "health",
+    "star",
+    17,
+    "https://www.theguardian.com/us-news/live/2026/jun/18/supreme-court-birthright-citizenship-ruling-tps-mangione-iran-latest-updates"
+  ],
+  [
+    "night",
+    17,
+    "https://www.theguardian.com/us-news/live/2026/jun/18/supreme-court-birthright-citizenship-ruling-tps-mangione-iran-latest-updates"
+  ],
+  [
+    "film",
+    17,
+    "https://www.theguardian.com/film/2026/jun/18/marc-isaacs-synthetic-sincerity-ai"
+  ],
+  [
+    "agreement",
     16,
-    "https://www.theguardian.com/global/2026/jun/18/midlife-crisis-researcher"
+    "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html"
+  ],
+  [
+    "really",
+    16,
+    "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html"
+  ],
+  [
+    "south",
+    16,
+    "https://www.theguardian.com/us-news/live/2026/jun/18/supreme-court-birthright-citizenship-ruling-tps-mangione-iran-latest-updates"
   ],
   [
     "far",
     16,
-    "https://www.theguardian.com/film/2026/jun/18/girls-like-girls-movie-review"
+    "https://www.theguardian.com/film/2026/jun/18/marc-isaacs-synthetic-sincerity-ai"
   ],
   [
-    "really",
+    "los",
+    16,
+    "https://www.theguardian.com/sport/2026/jun/18/olivia-miles-the-goggled-wonder-woman-pulverizing-opponents-in-her-rookie-season"
+  ],
+  [
+    "parade",
     15,
-    "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html"
+    "https://www.nytimes.com/2026/06/18/nyregion/18met-knicks-parade-photos.html"
+  ],
+  [
+    "million",
+    15,
+    "https://www.nytimes.com/2026/06/18/us/politics/ice-warehouses-immigration.html"
+  ],
+  [
+    "almost",
+    15,
+    "https://www.nytimes.com/2026/06/18/us/elections/washington-mayoral-primary.html"
+  ],
+  [
+    "money",
+    15,
+    "https://www.washingtonpost.com/investigations/2026/06/18/budget-office-redirects-352m-secret-service-funds-white-house-security/"
   ],
   [
     "fewer",
     15,
-    "https://www.nytimes.com/2026/06/18/business/federal-reserve-warsh-interest-rates.html"
+    "https://www.washingtonpost.com/nation/2026/06/18/belief-that-anyone-can-achieve-american-dream-is-fading-poll-finds/"
   ],
   [
-    "senate",
+    "guide",
     15,
-    "https://www.nytimes.com/2026/06/18/climate/trump-ocean-observatories-initiative.html"
-  ],
-  [
-    "season",
-    15,
-    "https://www.theguardian.com/sport/2026/jun/18/olivia-miles-the-goggled-wonder-woman-pulverizing-opponents-in-her-rookie-season"
+    "https://www.theguardian.com/thefilter-us/2026/jun/18/best-early-amazon-prime-deals-sales"
   ],
   [
     "buying",
@@ -226,59 +221,34 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/18/best-early-amazon-prime-deals-sales"
   ],
   [
-    "family",
+    "department",
     15,
-    "https://www.theguardian.com/commentisfree/2026/jun/18/heat-air-conditioning-costs"
+    "https://www.theguardian.com/us-news/2026/jun/18/reflecting-pool-algae-trump-administration-iran-war"
   ],
   [
-    "ukraine",
-    14,
-    "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html"
+    "police",
+    15,
+    "https://www.theguardian.com/sport/2026/jun/18/new-york-knicks-parade-fans-nba-champions"
   ],
   [
-    "opening",
-    14,
-    "https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html"
+    "young",
+    15,
+    "https://www.theguardian.com/society/2026/jun/18/malignant-rise-onlyfans-managers-exploiting-grooming-predatory"
   ],
   [
-    "texas",
-    14,
-    "https://www.nytimes.com/2026/06/18/us/politics/supreme-court-drugs-guns.html"
+    "father",
+    15,
+    "https://www.theguardian.com/football/2026/jun/18/lionel-messi-father-receives-medical-treatment-argentina-world-cup"
   ],
   [
-    "review",
+    "championship",
     14,
-    "https://www.nytimes.com/2026/06/18/movies/toy-story-5-review.html"
+    "https://www.nytimes.com/2026/06/18/nyregion/knicks-championship-parade-celebration-nyc.html"
   ],
   [
-    "money",
+    "law",
     14,
-    "https://www.washingtonpost.com/investigations/2026/06/18/budget-office-redirects-352m-secret-service-funds-white-house-security/"
-  ],
-  [
-    "military",
-    14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "million",
-    14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "company",
-    14,
-    "https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise"
-  ],
-  [
-    "watch",
-    14,
-    "https://www.theguardian.com/sport/2026/jun/18/olivia-miles-the-goggled-wonder-woman-pulverizing-opponents-in-her-rookie-season"
-  ],
-  [
-    "los",
-    14,
-    "https://www.theguardian.com/sport/2026/jun/18/olivia-miles-the-goggled-wonder-woman-pulverizing-opponents-in-her-rookie-season"
+    "https://www.nytimes.com/2026/06/18/theater/mariska-hargitay-broadway-every-brilliant-thing.html"
   ],
   [
     "filter",
@@ -286,44 +256,44 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/18/best-early-amazon-prime-deals-sales"
   ],
   [
-    "late",
+    "ceremony",
     14,
-    "https://www.theguardian.com/culture/2026/jun/18/jimmy-kimmel-donald-trump-iran-deal"
+    "https://www.theguardian.com/us-news/live/2026/jun/18/supreme-court-birthright-citizenship-ruling-tps-mangione-iran-latest-updates"
   ],
   [
-    "almost",
+    "living",
     14,
-    "https://www.theguardian.com/football/2026/jun/17/jude-bellingham-man-for-elite-moments-england-croatia-world-cup-opener"
+    "https://www.theguardian.com/lifeandstyle/2026/jun/19/engaged-my-sister-is-single-feels-behind"
   ],
   [
-    "chicago",
-    13,
-    "https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html"
+    "watch",
+    14,
+    "https://www.theguardian.com/sport/2026/jun/18/olivia-miles-the-goggled-wonder-woman-pulverizing-opponents-in-her-rookie-season"
   ],
   [
-    "start",
+    "american",
     13,
-    "https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html"
+    "https://www.nytimes.com/2026/06/18/travel/novelist-immigrant-thomas-jefferson-home-son.html"
   ],
   [
-    "storm",
+    "drug",
     13,
-    "https://www.nytimes.com/2026/06/17/weather/tropical-storm-arthur-how-much-rain.html"
+    "https://www.nytimes.com/2026/06/18/us/politics/supreme-court-drugs-guns.html"
   ],
   [
-    "service",
+    "texas",
     13,
-    "https://www.washingtonpost.com/investigations/2026/06/18/budget-office-redirects-352m-secret-service-funds-white-house-security/"
+    "https://www.nytimes.com/2026/06/18/us/politics/supreme-court-drugs-guns.html"
   ],
   [
-    "colombia",
+    "medical",
     13,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "everything",
+    "fire",
     13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "tested",
@@ -331,9 +301,9 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/18/best-early-amazon-prime-deals-sales"
   ],
   [
-    "department",
+    "running",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/18/central-park-teen-dies-horse-drawn-carriage"
+    "https://www.theguardian.com/sport/2026/jun/18/new-york-knicks-parade-fans-nba-champions"
   ],
   [
     "energy",
@@ -341,38 +311,68 @@
     "https://www.theguardian.com/commentisfree/2026/jun/18/heat-air-conditioning-costs"
   ],
   [
-    "father",
+    "review",
     13,
-    "https://www.theguardian.com/environment/2026/jun/18/cambridge-experts-recreate-336-year-old-garden-to-commemorate-father-of-natural-history"
+    "https://www.theguardian.com/film/2026/jun/18/girls-like-girls-movie-review"
   ],
   [
-    "cbs",
+    "para",
     13,
-    "https://www.cbsnews.com/video/gas-prices-dip-below-4-a-gallon-on-average-for-first-time-in-months-iran-deal/"
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/doblete-de-johan-manzambi-para-el-3-0-de-suiza-ante-bosnia-herzegovina-tmvo13195302"
   ],
   [
-    "agreement",
+    "george",
     12,
-    "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html"
+    "https://www.nytimes.com/2026/06/18/us/elections/washington-mayoral-primary.html"
   ],
   [
-    "parade",
+    "past",
     12,
-    "https://www.nytimes.com/2026/06/18/nyregion/18met-knicks-parade-photos.html"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "park",
+    "video",
     12,
-    "https://www.nytimes.com/2026/06/12/travel/chicago-south-side-obama-center.html"
+    "https://www.theguardian.com/us-news/2026/jun/18/stephen-feinberg-trump-pentagon"
   ],
   [
-    "drug",
+    "study",
     12,
-    "https://www.nytimes.com/2026/06/18/us/politics/supreme-court-drugs-guns.html"
+    "https://www.theguardian.com/global/2026/jun/18/midlife-crisis-researcher"
   ],
   [
-    "era",
+    "tehran",
     12,
-    "https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html"
+    "https://www.theguardian.com/commentisfree/2026/jun/18/trump-iran-war-deal"
+  ],
+  [
+    "weekly",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/jun/18/best-early-amazon-prime-deals-sales"
+  ],
+  [
+    "win",
+    12,
+    "https://www.theguardian.com/us-news/live/2026/jun/18/supreme-court-birthright-citizenship-ruling-tps-mangione-iran-latest-updates"
+  ],
+  [
+    "nba",
+    12,
+    "https://www.theguardian.com/sport/2026/jun/18/new-york-knicks-parade-fans-nba-champions"
+  ],
+  [
+    "london",
+    12,
+    "https://www.theguardian.com/film/2026/jun/18/marc-isaacs-synthetic-sincerity-ai"
+  ],
+  [
+    "feel",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/19/engaged-my-sister-is-single-feels-behind"
+  ],
+  [
+    "friend",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/19/engaged-my-sister-is-single-feels-behind"
   ]
 ];
