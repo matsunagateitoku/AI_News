@@ -3,69 +3,193 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 55,
+      "count": 58,
       "url": "https://www.theguardian.com/commentisfree/2026/jun/19/trump-administration-healthcare-for-kids",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 42,
-      "url": "https://www.nytimes.com/2026/06/19/world/middleeast/mojtaba-khamenei-iran-deal-reaction.html",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/06/19/opinion/iran-israel-us-war-deal.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 27,
-      "url": "https://www.nytimes.com/2026/06/19/world/middleeast/mojtaba-khamenei-iran-deal-reaction.html",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html",
       "source": "NY Times"
     },
     {
       "name": "Israel",
-      "count": 24,
+      "count": 25,
       "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
       "source": "Wall St. Journal"
     },
     {
+      "name": "Australia",
+      "count": 23,
+      "url": "https://www.theguardian.com/football/live/2026/jun/19/usa-v-australia-world-cup-2026-live",
+      "source": "The Guardian"
+    },
+    {
       "name": "The United States Of America",
-      "count": 20,
+      "count": 17,
       "url": "https://www.theguardian.com/culture/2026/jun/19/10-museums-to-visit-america-250",
       "source": "The Guardian"
     },
     {
-      "name": "Mexico City",
-      "count": 14,
-      "url": "https://www.theguardian.com/football/2026/jun/19/mexico-south-korea-world-cup-2026-group-a-match-report",
-      "source": "The Guardian"
-    },
-    {
       "name": "L.A. County",
-      "count": 13,
+      "count": 14,
       "url": "https://www.latimes.com/california/story/2026-06-19/traveler-with-measles-was-at-lax-caution-urged-amid-world-cup",
       "source": "LA Times"
     },
     {
+      "name": "Lebanon",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement",
+      "source": "The Guardian"
+    },
+    {
       "name": "Italy Supports",
-      "count": 12,
+      "count": 10,
       "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
       "source": "Wall St. Journal"
     },
     {
       "name": "Canada",
-      "count": 12,
+      "count": 10,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 29,
+      "url": "https://www.theguardian.com/us-news/2026/jun/19/bill-pulte-acting-director-national-intelligence",
+      "source": "The Guardian"
     },
     {
-      "name": "Lebanon",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/live/2026/jun/19/middle-east-crisis-live-israel-strikes-targets-in-lebanon-as-us-iran-talks-in-switzerland-called-off",
+      "name": "Jd Vance Cancels",
+      "count": 12,
+      "url": "https://www.today.com/video/jd-vance-scraps-trip-to-switzerland-to-meet-iranian-negotiators-265369669677",
+      "source": "NBC News"
+    },
+    {
+      "name": "Jorge Messi",
+      "count": 10,
+      "url": "https://www.theguardian.com/football/2026/jun/19/argentina-tv-host-resigns-falsely-reporting-death-jorge-messi",
+      "source": "The Guardian"
+    },
+    {
+      "name": "James Burrows",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/06/19/arts/television/james-burrows-dead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/19/jd-vance-catholicism",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Giorgia Meloni",
+      "count": 7,
+      "url": "https://www.theguardian.com/world/2026/jun/19/giorgia-meloni-stunned-donald-trump-claims-begged-him-photo",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Elliot Anderson",
+      "count": 6,
+      "url": "https://www.theguardian.com/football/2026/jun/19/elliot-anderson-is-englands-spirit-animal-and-is-now-indispensable",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Joe Lovano",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/jun/19/joe-lovano-paramount-quartet-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Graham Platner",
+      "count": 5,
+      "url": "https://www.latimes.com/opinion/story/2026-06-14/democrats-american-masculinity",
+      "source": "LA Times"
+    },
+    {
+      "name": "Bill Pulte",
+      "count": 4,
+      "url": "https://www.theguardian.com/us-news/2026/jun/19/bill-pulte-acting-director-national-intelligence",
+      "source": "The Guardian"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "World Cup 2026",
+      "count": 26,
+      "url": "https://www.theguardian.com/football/live/2026/jun/19/usa-v-australia-world-cup-2026-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup",
+      "count": 17,
+      "url": "https://www.theguardian.com/fashion/2026/jun/19/hot-pink-colour-world-cup-football-sport",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/06/19/magazine/middle-east-bases-iran-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Fifa World Cup 2026",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/2026/jun/19/the-cops-bought-me-an-egg-and-cheese-muffin-bostons-love-affair-with-tartan-army-goes-on",
+      "source": "The Guardian"
+    },
+    {
+      "name": "This World Cup",
+      "count": 2,
+      "url": "https://www.latimes.com/sports/soccer/story/2026-06-18/why-this-world-cup-could-ignite-soccer-revolution-in-canada",
+      "source": "LA Times"
+    },
+    {
+      "name": "The World Cup’S",
+      "count": 1,
+      "url": "https://www.theguardian.com/fashion/2026/jun/19/hot-pink-colour-world-cup-football-sport",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fa Cup Quarter",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/jun/19/life-hollywood-bubble-second-fiddle-us-need-for-world-cup-success",
+      "source": "The Guardian"
+    },
+    {
+      "name": "A Us Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/live/2026/jun/19/us-open-2026-golf-updates-on-day-two-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Meet Joe Black",
+      "count": 1,
+      "url": "https://www.theguardian.com/film/2026/jun/19/in-the-hand-of-dante-review-gerard-butler-julian-schnabel-martin-scorsese-al-pacino",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Miranda July’S All Fours",
+      "count": 1,
+      "url": "https://www.theguardian.com/books/2026/jun/18/a-little-bit-bad-by-cassandra-neyenesch-review-a-sparkling-subversive-debut",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 58,
+      "count": 54,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
@@ -76,16 +200,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "Ai Company Allbirds",
-      "count": 12,
-      "url": "https://www.latimes.com/business/story/2026-06-17/allbirds-stock-takes-flight-after-announcing-new-ceo-name-change",
-      "source": "LA Times"
-    },
-    {
       "name": "The White House",
       "count": 11,
       "url": "https://www.washingtonpost.com/nation/2026/06/18/barack-obama-presidential-center-opens-chicagos-lakefront/",
       "source": "Washington Post"
+    },
+    {
+      "name": "Ai",
+      "count": 11,
+      "url": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
+      "source": "The Guardian"
     },
     {
       "name": "Amazon",
@@ -94,159 +218,35 @@
       "source": "The Guardian"
     },
     {
-      "name": "Senate",
+      "name": "Hezbollah",
       "count": 10,
+      "url": "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Senate",
+      "count": 9,
       "url": "https://www.theguardian.com/us-news/2026/jun/19/bill-pulte-acting-director-national-intelligence",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mlb",
+      "count": 9,
+      "url": "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Un",
+      "count": 9,
+      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
       "source": "The Guardian"
     },
     {
       "name": "Guardian",
-      "count": 9,
+      "count": 8,
       "url": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
       "source": "The Guardian"
-    },
-    {
-      "name": "Fifa",
-      "count": 9,
-      "url": "https://www.theguardian.com/football/2026/jun/19/canada-usa-mexico-co-hosts-world-cup-2026-football-daily-newsletter",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News'",
-      "count": 8,
-      "url": "https://www.cbsnews.com/video/the-coffee-can-investor-offers-a-key-strategy-for-families-and-long-term-investors/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The New York Knicks",
-      "count": 8,
-      "url": "https://www.cbsnews.com/video/key-highlights-from-the-knicks-parade-in-new-york-city-that-drew-millions/",
-      "source": "CBS News"
     }
   ],
-  "EVENT": [
-    {
-      "name": "World Cup Betting Preview:",
-      "count": 33,
-      "url": "https://www.foxnews.com/sports/world-cup-betting-preview-team-usa-faces-australia-world-cup-clash-low-scoring",
-      "source": "Fox News"
-    },
-    {
-      "name": "The World Cup",
-      "count": 15,
-      "url": "https://www.theguardian.com/football/2026/jun/19/world-cup-matches-severe-heat-level-analysis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Iran War",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/06/19/magazine/middle-east-bases-iran-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "This World Cup",
-      "count": 2,
-      "url": "https://www.latimes.com/sports/soccer/story/2026-06-18/why-this-world-cup-could-ignite-soccer-revolution-in-canada",
-      "source": "LA Times"
-    },
-    {
-      "name": "Super Bowl",
-      "count": 2,
-      "url": "https://www.foxnews.com/sports/rob-gronkowski-calls-aj-brown-x-factor-put-patriots-back-super-bowl-contention",
-      "source": "Fox News"
-    },
-    {
-      "name": "The Fifa World Cup 2026",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jun/19/the-cops-bought-me-an-egg-and-cheese-muffin-bostons-love-affair-with-tartan-army-goes-on",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The 2026 World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jun/19/mexico-south-korea-world-cup-2026-group-a-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "No World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jun/19/canada-usa-mexico-co-hosts-world-cup-2026-football-daily-newsletter",
-      "source": "The Guardian"
-    },
-    {
-      "name": "World Cups",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jun/19/canada-usa-mexico-co-hosts-world-cup-2026-football-daily-newsletter",
-      "source": "The Guardian"
-    },
-    {
-      "name": "A Us Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/live/2026/jun/19/us-open-2026-golf-updates-on-day-two-live",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 31,
-      "url": "https://www.theguardian.com/us-news/2026/jun/19/bill-pulte-acting-director-national-intelligence",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Giorgia Meloni",
-      "count": 12,
-      "url": "https://www.theguardian.com/world/2026/jun/19/giorgia-meloni-stunned-donald-trump-claims-begged-him-photo",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jd Vance Cancels",
-      "count": 9,
-      "url": "https://www.today.com/video/jd-vance-scraps-trip-to-switzerland-to-meet-iranian-negotiators-265369669677",
-      "source": "NBC News"
-    },
-    {
-      "name": "Andy Burnham",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Keir Starmer",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Jd Vance",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/19/jd-vance-catholicism",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Raúl Rangel",
-      "count": 6,
-      "url": "https://www.theguardian.com/football/2026/jun/19/mexico-south-korea-world-cup-2026-group-a-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hannah Pingree",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/06/19/us/politics/maine-governor-pingree-charles.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Tay Keith",
-      "count": 5,
-      "url": "https://www.theguardian.com/music/2026/jun/19/tay-keith-music-producer-travis-scott-drake-death-grammy-nominated",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Joe Lovano",
-      "count": 5,
-      "url": "https://www.theguardian.com/music/2026/jun/19/joe-lovano-paramount-quartet-review",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-06-19T16:09:41Z"
+  "updated": "2026-06-19T20:27:25Z"
 };

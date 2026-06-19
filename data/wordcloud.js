@@ -2,73 +2,68 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    88,
-    "https://www.nytimes.com/2026/06/18/us/politics/director-national-intelligence-pulte-gabbard-clayton.html"
+    85,
+    "https://www.nytimes.com/2026/06/18/us/minnesota-protester-isolation-trump-immigration-crackdown.html"
   ],
   [
     "cup",
-    57,
-    "https://www.theguardian.com/football/2026/jun/19/world-cup-matches-severe-heat-level-analysis"
-  ],
-  [
-    "iran",
     52,
-    "https://www.nytimes.com/2026/06/19/world/middleeast/mojtaba-khamenei-iran-deal-reaction.html"
+    "https://www.theguardian.com/football/live/2026/jun/19/usa-v-australia-world-cup-2026-live"
   ],
   [
     "president",
     48,
-    "https://www.nytimes.com/2026/06/19/world/middleeast/mojtaba-khamenei-iran-deal-reaction.html"
+    "https://www.nytimes.com/2026/06/19/world/europe/meloni-trump-italy.html"
   ],
   [
-    "war",
-    33,
-    "https://www.nytimes.com/2026/06/19/us/politics/hegseth-navy-blocked-promotions-diversity.html"
-  ],
-  [
-    "team",
-    28,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "iran",
+    46,
+    "https://www.nytimes.com/2026/06/19/business/iran-us-hormuz-shipping.html"
   ],
   [
     "game",
-    27,
-    "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html"
-  ],
-  [
-    "israel",
-    26,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "fans",
-    26,
+    28,
     "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination"
   ],
   [
-    "country",
+    "war",
+    26,
+    "https://www.nytimes.com/2026/06/19/us/politics/hegseth-navy-blocked-promotions-diversity.html"
+  ],
+  [
+    "israel",
+    24,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "team",
+    24,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "australia",
     23,
+    "https://www.theguardian.com/football/live/2026/jun/19/usa-v-australia-world-cup-2026-live"
+  ],
+  [
+    "early",
+    22,
+    "https://www.nytimes.com/2026/06/19/arts/joan-cusack-jessie-toy-story-5.html"
+  ],
+  [
+    "fans",
+    22,
+    "https://www.theguardian.com/football/live/2026/jun/19/usa-v-australia-world-cup-2026-live"
+  ],
+  [
+    "country",
+    21,
     "https://www.nytimes.com/2026/06/19/world/europe/russia-economy-interest-rates.html"
   ],
   [
-    "del",
-    22,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/mexico-se-roba-los-reflectores-del-mundial-y-es-el-primer-equipo-en-la-siguiente-ronda-tmvo13195471"
-  ],
-  [
-    "don",
-    21,
-    "https://www.theguardian.com/football/2026/jun/19/canada-usa-mexico-co-hosts-world-cup-2026-football-daily-newsletter"
-  ],
-  [
-    "review",
+    "air",
     20,
-    "https://www.nytimes.com/2026/06/18/books/review/regime-change-maggie-haberman-jonathan-swan.html"
-  ],
-  [
-    "york",
-    20,
-    "https://www.nytimes.com/2026/06/18/books/review/regime-change-maggie-haberman-jonathan-swan.html"
+    "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html"
   ],
   [
     "summer",
@@ -76,94 +71,104 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
   ],
   [
-    "defense",
+    "games",
     20,
-    "https://www.theguardian.com/commentisfree/2026/jun/18/trump-department-of-war-defense"
+    "https://www.theguardian.com/football/2026/jun/19/elliot-anderson-is-englands-spirit-animal-and-is-now-indispensable"
+  ],
+  [
+    "review",
+    19,
+    "https://www.nytimes.com/2026/06/18/movies/toy-story-5-review.html"
+  ],
+  [
+    "past",
+    18,
+    "https://www.nytimes.com/2026/06/19/nyregion/new-york-dive-bars.html"
+  ],
+  [
+    "vance",
+    18,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/19/jd-vance-catholicism"
+  ],
+  [
+    "media",
+    18,
+    "https://www.theguardian.com/world/2026/jun/19/giorgia-meloni-stunned-donald-trump-claims-begged-him-photo"
+  ],
+  [
+    "night",
+    18,
+    "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination"
+  ],
+  [
+    "james",
+    17,
+    "https://www.nytimes.com/2026/06/19/arts/television/james-burrows-dead.html"
+  ],
+  [
+    "social",
+    17,
+    "https://www.nytimes.com/2026/06/19/nyregion/new-york-dive-bars.html"
+  ],
+  [
+    "director",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/19/bill-pulte-acting-director-national-intelligence"
   ],
   [
     "american",
-    19,
+    16,
     "https://www.nytimes.com/2026/06/19/magazine/middle-east-bases-iran-war.html"
   ],
   [
-    "games",
-    19,
-    "https://www.theguardian.com/football/2026/jun/19/world-cup-matches-severe-heat-level-analysis"
-  ],
-  [
-    "far",
-    19,
-    "https://www.theguardian.com/us-news/2026/jun/19/alabama-monument-rosa-parks"
-  ],
-  [
-    "prime",
-    18,
-    "https://www.nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html"
-  ],
-  [
-    "early",
-    18,
-    "https://www.nytimes.com/2026/06/19/magazine/middle-east-bases-iran-war.html"
-  ],
-  [
-    "dead",
-    18,
-    "https://www.nytimes.com/2026/06/18/us/san-francisco-couple-dead-judith-wylie-sheldon.html"
-  ],
-  [
-    "obama",
-    18,
-    "https://www.washingtonpost.com/nation/2026/06/18/barack-obama-presidential-center-opens-chicagos-lakefront/"
-  ],
-  [
-    "meloni",
-    18,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "force",
+    16,
+    "https://www.nytimes.com/2026/06/18/business/spacex-retail-investors.html"
   ],
   [
     "family",
-    18,
+    16,
     "https://www.theguardian.com/commentisfree/2026/jun/19/trump-administration-healthcare-for-kids"
   ],
   [
     "music",
-    18,
+    16,
     "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
   ],
   [
-    "donald",
-    18,
-    "https://www.theguardian.com/us-news/2026/jun/19/bill-pulte-acting-director-national-intelligence"
-  ],
-  [
-    "cbs",
-    18,
-    "https://www.cbsnews.com/news/coffee-can-investor-matthew-ankrum-neeraj-khemlani-financial-wealth/"
-  ],
-  [
-    "love",
-    17,
-    "https://www.nytimes.com/2026/06/19/opinion/ezra-klein-podcast-gary-shteyngart.html"
-  ],
-  [
-    "center",
-    17,
-    "https://www.nytimes.com/2026/06/19/us/nashville-zoo-data-center.html"
-  ],
-  [
-    "released",
-    16,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "media",
+    "prime",
     16,
     "https://www.theguardian.com/world/2026/jun/19/giorgia-meloni-stunned-donald-trump-claims-begged-him-photo"
   ],
   [
-    "director",
+    "talks",
+    16,
+    "https://www.theguardian.com/business/2026/jun/19/julie-meyer-dotcom-queen-unpaid-bills-missing-funds-broken-dreams"
+  ],
+  [
+    "love",
+    16,
+    "https://www.theguardian.com/football/2026/jun/19/the-cops-bought-me-an-egg-and-cheese-muffin-bostons-love-affair-with-tartan-army-goes-on"
+  ],
+  [
+    "don",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/jun/19/reform-candidates-nigel-farage-makerfield-prime-minister"
+  ],
+  [
+    "que",
+    16,
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/todo-seattle-grita-el-primer-gol-de-estados-unidos-ante-australia-tmvo13195680"
+  ],
+  [
+    "department",
     15,
-    "https://www.nytimes.com/2026/06/18/us/politics/director-national-intelligence-pulte-gabbard-clayton.html"
+    "https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html"
+  ],
+  [
+    "america",
+    15,
+    "https://www.nytimes.com/2026/06/19/books/review/david-thomson-movies.html"
   ],
   [
     "film",
@@ -171,59 +176,29 @@
     "https://www.nytimes.com/2026/06/19/books/review/david-thomson-movies.html"
   ],
   [
-    "past",
-    15,
-    "https://www.nytimes.com/2026/06/19/nyregion/new-york-dive-bars.html"
-  ],
-  [
-    "social",
-    15,
-    "https://www.nytimes.com/2026/06/19/nyregion/new-york-dive-bars.html"
-  ],
-  [
-    "police",
-    15,
-    "https://www.theguardian.com/sport/2026/jun/18/new-york-knicks-parade-fans-nba-champions"
-  ],
-  [
-    "america",
-    14,
-    "https://www.nytimes.com/2026/06/19/books/review/david-thomson-movies.html"
-  ],
-  [
-    "mexico",
-    14,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
     "food",
-    14,
+    15,
     "https://www.theguardian.com/commentisfree/2026/jun/19/trump-administration-healthcare-for-kids"
   ],
   [
-    "vance",
-    14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/19/jd-vance-catholicism"
+    "donald",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/19/bill-pulte-acting-director-national-intelligence"
+  ],
+  [
+    "far",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/19/alabama-monument-rosa-parks"
   ],
   [
     "video",
     14,
-    "https://www.theguardian.com/music/2026/jun/19/keith-richards-great-grandad-mick-jagger-rolling-stones-you-now"
+    "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html"
   ],
   [
-    "celebrate",
+    "hezbollah",
     14,
-    "https://www.theguardian.com/culture/2026/jun/19/10-museums-to-visit-america-250"
-  ],
-  [
-    "department",
-    14,
-    "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination"
-  ],
-  [
-    "night",
-    14,
-    "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination"
+    "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement"
   ],
   [
     "season",
@@ -231,29 +206,14 @@
     "https://www.theguardian.com/sport/2026/jun/19/spencer-strider-braves-vegan-bernie-sanders-baseball"
   ],
   [
-    "host",
-    14,
-    "https://www.theguardian.com/football/2026/jun/19/canada-usa-mexico-co-hosts-world-cup-2026-football-daily-newsletter"
-  ],
-  [
-    "los",
-    14,
-    "https://www.theguardian.com/football/2026/jun/19/iran-lodge-complaint-fifa-restrictions-world-cup"
-  ],
-  [
-    "climate",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jun/19/solar-geoengineering-risk-to-planet-earth"
-  ],
-  [
-    "administration",
+    "black",
     13,
-    "https://www.nytimes.com/2026/06/18/us/minnesota-protester-isolation-trump-immigration-crackdown.html"
+    "https://www.nytimes.com/2026/06/19/us/politics/hegseth-navy-blocked-promotions-diversity.html"
   ],
   [
-    "running",
+    "center",
     13,
-    "https://www.nytimes.com/2026/06/19/nyregion/bores-lasher-moms.html"
+    "https://www.washingtonpost.com/nation/2026/06/18/barack-obama-presidential-center-opens-chicagos-lakefront/"
   ],
   [
     "everything",
@@ -261,14 +221,14 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
+    "released",
+    13,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
     "little",
     13,
     "https://www.theguardian.com/music/2026/jun/19/keith-richards-great-grandad-mick-jagger-rolling-stones-you-now"
-  ],
-  [
-    "united",
-    13,
-    "https://www.theguardian.com/culture/2026/jun/19/10-museums-to-visit-america-250"
   ],
   [
     "tested",
@@ -281,39 +241,54 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
   ],
   [
+    "guide",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
+  ],
+  [
+    "full",
+    13,
+    "https://www.theguardian.com/football/live/2026/jun/19/usa-v-australia-world-cup-2026-live"
+  ],
+  [
+    "league",
+    13,
+    "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination"
+  ],
+  [
+    "fifa",
+    13,
+    "https://www.theguardian.com/football/2026/jun/19/the-cops-bought-me-an-egg-and-cheese-muffin-bostons-love-affair-with-tartan-army-goes-on"
+  ],
+  [
+    "police",
+    13,
+    "https://www.theguardian.com/sport/2026/jun/18/new-york-knicks-parade-fans-nba-champions"
+  ],
+  [
     "dads",
     13,
     "https://www.theguardian.com/thefilter-us/2026/jun/14/fathers-day-tech-gadgets-dads"
   ],
   [
-    "energy",
-    12,
-    "https://www.nytimes.com/2026/06/19/business/india-iran-oil-imports.html"
+    "cbs",
+    13,
+    "https://www.cbsnews.com/video/details-on-delay-for-next-phase-of-us-iran-talks/"
   ],
   [
-    "black",
+    "defense",
     12,
-    "https://www.nytimes.com/2026/06/19/us/politics/hegseth-navy-blocked-promotions-diversity.html"
+    "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html"
   ],
   [
-    "andy",
+    "really",
     12,
-    "https://www.nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html"
+    "https://www.nytimes.com/2026/06/19/business/spacex-stock-price.html"
   ],
   [
-    "minister",
+    "nearly",
     12,
-    "https://www.nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html"
-  ],
-  [
-    "change",
-    12,
-    "https://www.nytimes.com/2026/06/18/books/review/regime-change-maggie-haberman-jonathan-swan.html"
-  ],
-  [
-    "james",
-    12,
-    "https://www.nytimes.com/2026/06/18/us/talarico-paxton-child-sex-abuse-case.html"
+    "https://www.nytimes.com/2026/06/19/business/spacex-stock-price.html"
   ],
   [
     "future",
@@ -321,34 +296,24 @@
     "https://www.nytimes.com/2026/06/19/nyregion/new-york-dive-bars.html"
   ],
   [
+    "obama",
+    12,
+    "https://www.washingtonpost.com/nation/2026/06/18/barack-obama-presidential-center-opens-chicagos-lakefront/"
+  ],
+  [
     "fewer",
     12,
     "https://www.washingtonpost.com/nation/2026/06/18/belief-that-anyone-can-achieve-american-dream-is-fading-poll-finds/"
   ],
   [
-    "italy",
+    "dead",
     12,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/19/jd-vance-catholicism"
   ],
   [
-    "canada",
-    12,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "americans",
-    12,
-    "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk"
-  ],
-  [
-    "states",
+    "united",
     12,
     "https://www.theguardian.com/culture/2026/jun/19/10-museums-to-visit-america-250"
-  ],
-  [
-    "guide",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
   ],
   [
     "buying",
@@ -361,9 +326,24 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
   ],
   [
-    "following",
+    "ceasefire",
     12,
-    "https://www.theguardian.com/us-news/2026/jun/19/bill-pulte-acting-director-national-intelligence"
+    "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement"
+  ],
+  [
+    "players",
+    12,
+    "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination"
+  ],
+  [
+    "california",
+    12,
+    "https://www.theguardian.com/culture/2026/jun/19/jennifer-siebel-newsom-documentary-miss-representation-rise-up"
+  ],
+  [
+    "running",
+    12,
+    "https://www.theguardian.com/culture/2026/jun/19/jennifer-siebel-newsom-documentary-miss-representation-rise-up"
   ],
   [
     "comedy",
@@ -371,8 +351,28 @@
     "https://www.theguardian.com/tv-and-radio/2026/jun/19/ebon-moss-bachrach-final-season-the-bear"
   ],
   [
-    "win",
+    "fan",
     12,
-    "https://www.theguardian.com/football/2026/jun/18/england-thomas-tuchel-gareth-southgate-2026-world-cup-croatia"
+    "https://www.theguardian.com/fashion/2026/jun/19/hot-pink-colour-world-cup-football-sport"
+  ],
+  [
+    "messi",
+    12,
+    "https://www.theguardian.com/football/2026/jun/19/argentina-tv-host-resigns-falsely-reporting-death-jorge-messi"
+  ],
+  [
+    "father",
+    12,
+    "https://www.theguardian.com/football/2026/jun/19/argentina-tv-host-resigns-falsely-reporting-death-jorge-messi"
+  ],
+  [
+    "play",
+    12,
+    "https://www.theguardian.com/football/2026/jun/19/argentina-tv-host-resigns-falsely-reporting-death-jorge-messi"
+  ],
+  [
+    "climate",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/jun/19/solar-geoengineering-risk-to-planet-earth"
   ]
 ];
