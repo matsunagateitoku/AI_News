@@ -3,37 +3,37 @@
   [
     "trump",
     94,
-    "https://www.nytimes.com/2026/06/19/us/politics/new-air-force-one-trump.html"
+    "https://www.nytimes.com/2026/06/19/world/middleeast/iran-war-deal-trump-uncertainty.html"
   ],
   [
     "cup",
-    67,
-    "https://www.nytimes.com/2026/06/19/us/seattle-world-cup-fans.html"
+    56,
+    "https://www.nytimes.com/2026/06/19/opinion/world-cup-trump-fifa.html"
   ],
   [
     "president",
-    49,
-    "https://www.nytimes.com/2026/06/19/us/politics/new-air-force-one-trump.html"
-  ],
-  [
-    "team",
-    35,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    54,
+    "https://www.nytimes.com/2026/06/19/us/politics/kennedy-center-trump.html"
   ],
   [
     "iran",
-    32,
+    40,
     "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html"
   ],
   [
-    "air",
+    "war",
     30,
-    "https://www.nytimes.com/2026/06/19/us/politics/new-air-force-one-trump.html"
+    "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html"
   ],
   [
-    "australia",
-    29,
-    "https://www.theguardian.com/football/2026/jun/19/usa-australia-world-cup-2026-group-d-match-report"
+    "team",
+    30,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "air",
+    27,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "game",
@@ -41,19 +41,14 @@
     "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination"
   ],
   [
-    "war",
+    "american",
     26,
     "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html"
   ],
   [
-    "force",
-    26,
-    "https://www.nytimes.com/2026/06/19/us/politics/new-air-force-one-trump.html"
-  ],
-  [
-    "video",
-    24,
-    "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html"
+    "pool",
+    25,
+    "https://www.nytimes.com/2026/06/19/us/politics/reflecting-pool-paint-algae.html"
   ],
   [
     "country",
@@ -61,14 +56,29 @@
     "https://www.nytimes.com/2026/06/19/us/rubio-beto-coral-colombia.html"
   ],
   [
-    "fans",
+    "australia",
     24,
-    "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination"
+    "https://www.theguardian.com/football/2026/jun/19/usa-australia-world-cup-2026-group-d-match-report"
   ],
   [
-    "pool",
-    21,
+    "reflecting",
+    22,
     "https://www.nytimes.com/2026/06/19/us/politics/reflecting-pool-paint-algae.html"
+  ],
+  [
+    "video",
+    22,
+    "https://www.theguardian.com/music/2026/jun/19/keith-richards-great-grandad-mick-jagger-rolling-stones-you-now"
+  ],
+  [
+    "force",
+    22,
+    "https://www.theguardian.com/us-news/2026/jun/19/trump-air-force-one-qatar"
+  ],
+  [
+    "fans",
+    22,
+    "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination"
   ],
   [
     "win",
@@ -76,179 +86,164 @@
     "https://www.theguardian.com/football/2026/jun/19/usa-australia-world-cup-2026-group-d-match-report"
   ],
   [
-    "israel",
-    20,
-    "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html"
-  ],
-  [
-    "american",
-    20,
-    "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html"
+    "past",
+    18,
+    "https://www.nytimes.com/2026/06/20/us/politics/arizona-democrats-tough-past-fuels-pitch-for-a-key-house-seat.html"
   ],
   [
     "soccer",
-    20,
-    "https://www.nytimes.com/2026/06/19/us/seattle-world-cup-fans.html"
+    18,
+    "https://www.nytimes.com/2026/06/19/opinion/world-cup-trump-fifa.html"
   ],
   [
-    "early",
-    20,
-    "https://www.nytimes.com/2026/06/19/arts/joan-cusack-jessie-toy-story-5.html"
-  ],
-  [
-    "review",
-    19,
-    "https://www.nytimes.com/2026/06/18/movies/toy-story-5-review.html"
-  ],
-  [
-    "south",
-    19,
-    "https://www.nytimes.com/2026/06/19/us/trump-shifts-endorsement-south-carolina-governor.html"
-  ],
-  [
-    "family",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/jun/19/trump-administration-healthcare-for-kids"
+    "vance",
+    18,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/19/jd-vance-catholicism"
   ],
   [
     "summer",
-    19,
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
+  ],
+  [
+    "music",
+    18,
     "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
   ],
   [
     "director",
-    19,
+    18,
     "https://www.theguardian.com/us-news/2026/jun/19/georgia-federal-immigration-detention-center"
   ],
   [
-    "reflecting",
+    "review",
     18,
-    "https://www.nytimes.com/2026/06/19/us/politics/reflecting-pool-paint-algae.html"
+    "https://www.theguardian.com/film/2026/jun/19/in-the-hand-of-dante-review-gerard-butler-julian-schnabel-martin-scorsese-al-pacino"
   ],
   [
-    "past",
+    "israel",
     17,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html"
   ],
   [
-    "carolina",
-    16,
+    "south",
+    17,
     "https://www.nytimes.com/2026/06/19/us/trump-shifts-endorsement-south-carolina-governor.html"
   ],
   [
-    "food",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/jun/19/trump-administration-healthcare-for-kids"
-  ],
-  [
-    "music",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
-  ],
-  [
-    "killed",
-    16,
-    "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement"
-  ],
-  [
     "media",
-    16,
-    "https://www.theguardian.com/world/2026/jun/19/giorgia-meloni-stunned-donald-trump-claims-begged-him-photo"
-  ],
-  [
-    "prime",
-    16,
+    17,
     "https://www.theguardian.com/world/2026/jun/19/giorgia-meloni-stunned-donald-trump-claims-begged-him-photo"
   ],
   [
     "climate",
-    16,
-    "https://www.theguardian.com/environment/2026/jun/20/electrification-takes-centre-stage-bonn-climate-talks"
+    17,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/20/who-warned-of-climate-instability-in-1988-the-saturday-quiz"
   ],
   [
     "games",
-    16,
+    17,
     "https://www.theguardian.com/sport/2026/jun/18/olivia-miles-the-goggled-wonder-woman-pulverizing-opponents-in-her-rookie-season"
+  ],
+  [
+    "department",
+    16,
+    "https://www.nytimes.com/2026/06/20/us/politics/special-education-rfk.html"
+  ],
+  [
+    "york",
+    16,
+    "https://www.nytimes.com/2026/06/20/nyregion/dsa-mamdani-congress-nyc.html"
+  ],
+  [
+    "north",
+    16,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "released",
+    16,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "family",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/jun/19/trump-administration-healthcare-for-kids"
+  ],
+  [
+    "dead",
+    16,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/19/jd-vance-catholicism"
+  ],
+  [
+    "los",
+    16,
+    "https://www.theguardian.com/us-news/2026/jun/17/los-angeles-warehouse-fire-ammonia"
   ],
   [
     "don",
     16,
-    "https://www.theguardian.com/commentisfree/2026/jun/19/reform-candidates-nigel-farage-makerfield-prime-minister"
+    "https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan"
   ],
   [
-    "del",
+    "paraguay",
     16,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/alex-freeman-anota-un-gol-dramatico-para-estados-unidos-que-tuvo-que-ser-validado-por-el-var-tmvo13195678"
+    "https://www.theguardian.com/football/2026/jun/20/turkey-paraguay-world-cup-2026-group-d-match-report"
   ],
   [
-    "seattle",
+    "talks",
     15,
-    "https://www.nytimes.com/2026/06/19/us/seattle-world-cup-fans.html"
+    "https://www.nytimes.com/2026/06/19/world/middleeast/iran-war-deal-trump-uncertainty.html"
   ],
   [
-    "base",
+    "early",
     15,
-    "https://www.nytimes.com/2026/06/19/us/seattle-world-cup-fans.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "james",
+    "food",
     15,
-    "https://www.nytimes.com/2026/06/19/arts/television/james-burrows-dead.html"
-  ],
-  [
-    "released",
-    15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "vance",
-    15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/19/jd-vance-catholicism"
-  ],
-  [
-    "donald",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/19/trump-air-force-one-qatar"
-  ],
-  [
-    "fifa",
-    15,
-    "https://www.theguardian.com/environment/2026/jun/19/activists-world-cup-fifa-aramco-oil-partnership"
-  ],
-  [
-    "united",
-    14,
-    "https://www.nytimes.com/2026/06/19/us/politics/israel-lebanon-trump-cease-fire.html"
-  ],
-  [
-    "dead",
-    14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/19/jd-vance-catholicism"
-  ],
-  [
-    "york",
-    14,
-    "https://www.theguardian.com/music/2026/jun/19/keith-richards-great-grandad-mick-jagger-rolling-stones-you-now"
-  ],
-  [
-    "guide",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
-  ],
-  [
-    "social",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/19/georgia-federal-immigration-detention-center"
-  ],
-  [
-    "department",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/19/georgia-federal-immigration-detention-center"
+    "https://www.theguardian.com/commentisfree/2026/jun/19/trump-administration-healthcare-for-kids"
   ],
   [
     "night",
-    14,
+    15,
     "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination"
+  ],
+  [
+    "company",
+    15,
+    "https://www.theguardian.com/world/2026/jun/20/ukraine-war-briefing-zelenskyy-to-belarus-remove-russian-relay-stations-or-well-do-it"
+  ],
+  [
+    "california",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/18/california-mining-lone-pine"
+  ],
+  [
+    "little",
+    14,
+    "https://www.nytimes.com/2026/06/20/magazine/danny-mcbride-interview.html"
+  ],
+  [
+    "everything",
+    14,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "fire",
+    14,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "americans",
+    14,
+    "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk"
+  ],
+  [
+    "base",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/19/trump-air-force-one-qatar"
   ],
   [
     "far",
@@ -256,29 +251,44 @@
     "https://www.theguardian.com/us-news/2026/jun/19/alabama-monument-rosa-parks"
   ],
   [
+    "because",
+    14,
+    "https://www.theguardian.com/world/2026/jun/20/ukraine-war-briefing-zelenskyy-to-belarus-remove-russian-relay-stations-or-well-do-it"
+  ],
+  [
     "season",
     14,
-    "https://www.theguardian.com/sport/2026/jun/19/spencer-strider-braves-vegan-bernie-sanders-baseball"
+    "https://www.theguardian.com/culture/2026/jun/20/my-cultural-awakening-david-guetta-sia-titanium-fertility-treatment"
   ],
   [
-    "que",
+    "fifa",
     14,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/alex-freeman-anota-un-gol-dramatico-para-estados-unidos-que-tuvo-que-ser-validado-por-el-var-tmvo13195678"
+    "https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan"
   ],
   [
-    "police",
-    13,
-    "https://www.nytimes.com/2026/06/20/us/los-angeles-dog-police-shooting.html"
+    "james",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/19/highway-angels-trucker-james-brown"
   ],
   [
-    "everything",
-    13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "love",
+    14,
+    "https://www.theguardian.com/film/2026/jun/18/voicemails-for-isabelle-review-netflix-romcom"
   ],
   [
-    "washington",
+    "global",
     13,
-    "https://www.theguardian.com/culture/2026/jun/19/10-museums-to-visit-america-250"
+    "https://www.nytimes.com/2026/06/19/opinion/world-cup-trump-fifa.html"
+  ],
+  [
+    "million",
+    13,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "local",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jun/19/trump-administration-healthcare-for-kids"
   ],
   [
     "tested",
@@ -291,9 +301,24 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
   ],
   [
-    "talks",
+    "guide",
     13,
-    "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement"
+    "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
+  ],
+  [
+    "feel",
+    13,
+    "https://www.theguardian.com/world/2026/jun/20/israelis-betrayed-angry-after-iran-peace-deal-donald-trump"
+  ],
+  [
+    "social",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/19/georgia-federal-immigration-detention-center"
+  ],
+  [
+    "prime",
+    13,
+    "https://www.theguardian.com/world/2026/jun/19/giorgia-meloni-stunned-donald-trump-claims-begged-him-photo"
   ],
   [
     "league",
@@ -301,49 +326,44 @@
     "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination"
   ],
   [
-    "energy",
-    13,
-    "https://www.theguardian.com/environment/2026/jun/20/electrification-takes-centre-stage-bonn-climate-talks"
-  ],
-  [
-    "because",
+    "killed",
     13,
     "https://www.theguardian.com/world/2026/jun/20/ukraine-war-briefing-zelenskyy-to-belarus-remove-russian-relay-stations-or-well-do-it"
   ],
   [
-    "health",
+    "police",
     13,
-    "https://www.theguardian.com/global-development/2026/jun/19/midwives-africa-asia-mother-baby-childbirth-deaths-crisis-denied-visas-summit-portugal"
+    "https://www.theguardian.com/sport/2026/jun/18/new-york-knicks-parade-fans-nba-champions"
   ],
   [
-    "love",
+    "energy",
     13,
-    "https://www.theguardian.com/film/2026/jun/18/voicemails-for-isabelle-review-netflix-romcom"
+    "https://www.theguardian.com/commentisfree/2026/jun/18/heat-air-conditioning-costs"
   ],
   [
-    "lebanon",
-    12,
-    "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html"
+    "que",
+    13,
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/alex-freeman-anota-un-gol-dramatico-para-estados-unidos-que-tuvo-que-ser-validado-por-el-var-tmvo13195678"
   ],
   [
-    "fire",
-    12,
-    "https://www.nytimes.com/2026/06/19/us/politics/israel-lebanon-trump-cease-fire.html"
+    "del",
+    13,
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/alex-freeman-anota-un-gol-dramatico-para-estados-unidos-que-tuvo-que-ser-validado-por-el-var-tmvo13195678"
   ],
   [
-    "local",
+    "secretary",
     12,
-    "https://www.nytimes.com/2026/06/19/us/california-voters-tax-elections.html"
+    "https://www.nytimes.com/2026/06/20/us/politics/special-education-rfk.html"
   ],
   [
-    "global",
+    "center",
     12,
-    "https://www.nytimes.com/2026/06/19/opinion/world-cup-trump-fifa.html"
+    "https://www.nytimes.com/2026/06/19/us/politics/kennedy-center-trump.html"
   ],
   [
-    "political",
+    "doesn",
     12,
-    "https://www.nytimes.com/2026/06/19/opinion/world-cup-trump-fifa.html"
+    "https://www.nytimes.com/2026/06/19/world/europe/meloni-trump-italy.html"
   ],
   [
     "fewer",
@@ -354,25 +374,5 @@
     "opening",
     12,
     "https://www.washingtonpost.com/nation/2026/06/18/barack-obama-presidential-center-opens-chicagos-lakefront/"
-  ],
-  [
-    "power",
-    12,
-    "https://www.washingtonpost.com/nation/2026/06/18/barack-obama-presidential-center-opens-chicagos-lakefront/"
-  ],
-  [
-    "million",
-    12,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "north",
-    12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "least",
-    12,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ]
 ];

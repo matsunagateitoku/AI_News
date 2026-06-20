@@ -3,9 +3,21 @@
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 66,
+      "count": 62,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
+    },
+    {
+      "name": "Paraguay",
+      "count": 12,
+      "url": "https://www.theguardian.com/football/2026/jun/20/turkey-paraguay-world-cup-2026-group-d-match-report",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Un",
+      "count": 12,
+      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
@@ -14,21 +26,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "Amazon",
+      "name": "Ai",
       "count": 11,
-      "url": "https://www.theguardian.com/film/2026/jun/19/luca-guadagnino-sam-altman-movie-dropped-amazon-openai-artificial",
+      "url": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
       "source": "The Guardian"
     },
     {
-      "name": "Un Potente Zurdazo",
-      "count": 11,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/galarza-madruga-a-turquia-con-un-golazo-desde-fuera-del-area-tmvo13195767",
-      "source": "NBC News"
-    },
-    {
-      "name": "Ai",
-      "count": 9,
-      "url": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
+      "name": "Amazon",
+      "count": 10,
+      "url": "https://www.theguardian.com/film/2026/jun/19/luca-guadagnino-sam-altman-movie-dropped-amazon-openai-artificial",
       "source": "The Guardian"
     },
     {
@@ -38,16 +44,10 @@
       "source": "LA Times"
     },
     {
-      "name": "Hezbollah",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Knicks Fan’S Dog",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/06/20/us/los-angeles-dog-police-shooting.html",
-      "source": "NY Times"
+      "name": "The New York Knicks",
+      "count": 9,
+      "url": "https://www.nbcnews.com/news/news-quiz/reflecting-pool-lionel-messi-news-quiz-rcna350717",
+      "source": "NBC News"
     },
     {
       "name": "Mlb",
@@ -56,9 +56,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "Guardian",
+      "name": "Fifa",
       "count": 7,
-      "url": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan",
       "source": "The Guardian"
     }
   ],
@@ -72,32 +72,26 @@
     {
       "name": "U.S.",
       "count": 36,
-      "url": "https://www.nytimes.com/2026/06/19/us/politics/israel-lebanon-trump-cease-fire.html",
+      "url": "https://www.nytimes.com/2026/06/20/world/americas/colombia-election-abelardo-de-la-espriella.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 29,
+      "url": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html",
       "source": "NY Times"
     },
     {
       "name": "Australia",
-      "count": 27,
+      "count": 22,
       "url": "https://www.theguardian.com/football/2026/jun/19/usa-australia-world-cup-2026-group-d-match-report",
       "source": "The Guardian"
     },
     {
-      "name": "Iran",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Israel",
-      "count": 20,
+      "count": 17,
       "url": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html",
       "source": "NY Times"
-    },
-    {
-      "name": "The United States Of America",
-      "count": 16,
-      "url": "https://www.theguardian.com/culture/2026/jun/19/10-museums-to-visit-america-250",
-      "source": "The Guardian"
     },
     {
       "name": "Washington Dc",
@@ -106,46 +100,52 @@
       "source": "The Guardian"
     },
     {
-      "name": "Lebanon",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Seattle",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/06/19/us/seattle-world-cup-fans.html",
-      "source": "NY Times"
-    },
-    {
       "name": "L.A. County",
-      "count": 12,
+      "count": 13,
       "url": "https://www.latimes.com/california/story/2026-06-19/traveler-with-measles-was-at-lax-caution-urged-amid-world-cup",
       "source": "LA Times"
+    },
+    {
+      "name": "The United States Of America",
+      "count": 12,
+      "url": "https://www.theguardian.com/culture/2026/jun/19/10-museums-to-visit-america-250",
+      "source": "The Guardian"
+    },
+    {
+      "name": "England",
+      "count": 12,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/20/how-athletes-keep-competing-into-their-40s",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/jun/18/california-mining-lone-pine",
+      "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
       "count": 30,
-      "url": "https://www.theguardian.com/us-news/2026/jun/19/trump-air-force-one-qatar",
+      "url": "https://www.theguardian.com/world/2026/jun/20/israelis-betrayed-angry-after-iran-peace-deal-donald-trump",
       "source": "The Guardian"
     },
     {
       "name": "Jd Vance",
-      "count": 15,
+      "count": 18,
       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/19/jd-vance-catholicism",
       "source": "The Guardian"
     },
     {
       "name": "James Burrows",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/06/19/arts/television/james-burrows-dead.html",
-      "source": "NY Times"
+      "count": 7,
+      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-06-19/james-burrows-dead-director-cheers-friends-taxi-will-grace",
+      "source": "LA Times"
     },
     {
       "name": "Jorge Messi",
-      "count": 7,
+      "count": 6,
       "url": "https://www.theguardian.com/football/2026/jun/19/argentina-tv-host-resigns-falsely-reporting-death-jorge-messi",
       "source": "The Guardian"
     },
@@ -156,22 +156,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "Pete Hegseth",
-      "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/18/trump-department-of-war-defense",
-      "source": "The Guardian"
-    },
-    {
       "name": "Joe Lovano",
       "count": 5,
       "url": "https://www.theguardian.com/music/2026/jun/19/joe-lovano-paramount-quartet-review",
       "source": "The Guardian"
     },
     {
-      "name": "Giorgia Meloni",
-      "count": 4,
-      "url": "https://www.theguardian.com/world/2026/jun/19/giorgia-meloni-stunned-donald-trump-claims-begged-him-photo",
-      "source": "The Guardian"
+      "name": "Turquía Llenaron De Color",
+      "count": 5,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/aficionados-de-paraguay-y-turquia-pusieron-el-ambiente-en-san-francisco-tmvo13195818",
+      "source": "NBC News"
     },
     {
       "name": "Zelenskyy",
@@ -184,26 +178,38 @@
       "count": 4,
       "url": "https://www.theguardian.com/politics/2026/jun/19/andy-burnham-could-king-north-become-britain-new-prime-minister",
       "source": "The Guardian"
+    },
+    {
+      "name": "Candice Carty-Williams",
+      "count": 4,
+      "url": "https://www.theguardian.com/books/2026/jun/20/candice-carty-williams-people-feel-very-attached-to-queenie",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 40,
+      "count": 34,
       "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/20/how-athletes-keep-competing-into-their-40s",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/06/20/world/africa/cape-verde-world-cup-uruguay.html",
-      "source": "NY Times"
+      "count": 12,
+      "url": "https://www.theguardian.com/football/2026/jun/19/usa-world-cup-zlatan-ibrahimovic-comments",
+      "source": "The Guardian"
     },
     {
       "name": "The Iran War",
-      "count": 3,
+      "count": 4,
       "url": "https://www.cbsnews.com/news/iran-war-trump-netanyahu-us-israel-united-then-divided/",
       "source": "CBS News"
+    },
+    {
+      "name": "The World Cup’S",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/06/19/opinion/world-cup-trump-fifa.html",
+      "source": "NY Times"
     },
     {
       "name": "The Fifa World Cup",
@@ -212,28 +218,10 @@
       "source": "LA Times"
     },
     {
-      "name": "This World Cup",
-      "count": 2,
-      "url": "https://www.latimes.com/sports/soccer/story/2026-06-18/why-this-world-cup-could-ignite-soccer-revolution-in-canada",
-      "source": "LA Times"
-    },
-    {
       "name": "The Us Open",
       "count": 2,
       "url": "https://www.foxnews.com/outkick-sports/jon-rahm-drops-gigantic-f-bomb-missing-birdie-putt-disastrous-round-us-open",
       "source": "Fox News"
-    },
-    {
-      "name": "World Cup Draw",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/06/19/us/seattle-world-cup-fans.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The World Cup’S",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/06/19/opinion/world-cup-trump-fifa.html",
-      "source": "NY Times"
     },
     {
       "name": "First Week",
@@ -244,9 +232,21 @@
     {
       "name": "World Cup 2026",
       "count": 1,
-      "url": "https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cup  Euros",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan",
+      "source": "The Guardian"
+    },
+    {
+      "name": "European Championship",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-06-20T05:19:58Z"
+  "updated": "2026-06-20T10:10:50Z"
 };
