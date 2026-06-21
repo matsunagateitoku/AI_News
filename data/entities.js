@@ -3,21 +3,51 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 23,
+      "count": 30,
       "url": "https://www.theguardian.com/inequality/ng-interactive/2026/jun/21/american-racial-anxiety-white-working-class-rights",
       "source": "The Guardian"
     },
     {
+      "name": "Margaret Brennan",
+      "count": 20,
+      "url": "https://www.cbsnews.com/face-the-nation/transcripts/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Lindsey Graham",
+      "count": 15,
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-06-21-2026/",
+      "source": "CBS News"
+    },
+    {
       "name": "Jd Vance",
-      "count": 18,
-      "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/06/18/opinion/jd-vance-iran-trump-communion.html",
       "source": "NY Times"
     },
     {
-      "name": "Shooter Jennings",
-      "count": 8,
-      "url": "https://www.cbsnews.com/news/waylon-jennings-son-shooter-on-rescuing-his-dads-music/",
+      "name": "Jason Crow",
+      "count": 11,
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-06-21-2026/",
       "source": "CBS News"
+    },
+    {
+      "name": "Serena Williams",
+      "count": 10,
+      "url": "https://www.theguardian.com/sport/2026/jun/21/serena-williams-wimbledon-singles-comeback-handed-wildcard-tennis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mike Waltz",
+      "count": 8,
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-06-21-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Lamine Yamal",
+      "count": 7,
+      "url": "https://www.theguardian.com/football/2026/jun/21/spain-saudi-arabia-world-cup-group-h-match-report",
+      "source": "The Guardian"
     },
     {
       "name": "Benjamin Netanyahu",
@@ -26,116 +56,24 @@
       "source": "The Guardian"
     },
     {
-      "name": "Kennedy Smith",
+      "name": "Rod Stewart",
       "count": 6,
-      "url": "https://www.foxnews.com/outkick-sports/viral-hurdler-kennedy-smith-pops-world-cup-gabriela-moura-summer-uniform-meat-grill",
+      "url": "https://www.foxnews.com/entertainment/rod-stewart-turned-oxygen-tank-mid-concert-nearly-collapsing-onstage",
       "source": "Fox News"
-    },
-    {
-      "name": "Salida De Túnez",
-      "count": 6,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ueda-firma-su-doblete-y-sentencia-la-goleada-de-japon-sobre-tunez-tmvo13195999",
-      "source": "NBC News"
-    },
-    {
-      "name": "Keir Starmer Reflects",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/06/21/world/europe/keir-starmer-andy-burnham-uk.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Andy Burnham",
-      "count": 5,
-      "url": "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-expected-to-announce-departure-as-prime-minister-on-monday",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mark Rothko",
-      "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/21/rothko-monumental-florence-exhibition-renaissance-religious-art",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Henry V Lalas",
-      "count": 4,
-      "url": "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 52,
-      "url": "https://www.theguardian.com/world/live/2026/jun/21/iran-us-israel-war-middle-east-lebanon-peace-talks-switzerland-vance-trump-strait-of-hormuz-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 40,
-      "url": "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/06/21/arts/for-heirs-of-custer-and-sitting-bull-a-150-year-old-battle-is-personal.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Switzerland",
-      "count": 14,
-      "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
-      "source": "NY Times"
-    },
-    {
-      "name": "Lebanon",
-      "count": 14,
-      "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A.",
-      "count": 13,
-      "url": "https://www.latimes.com/business/story/2026-06-20/boyle-heights-fire-state-of-emergency",
-      "source": "LA Times"
-    },
-    {
-      "name": "Israel",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/06/21/world/middleeast/israel-directs-its-military-to-limit-its-actions-in-lebanon-though-tensions-persist.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 12,
-      "url": "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-expected-to-announce-departure-as-prime-minister-on-monday",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Los Angeles",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/jun/21/los-angeles-warehouse-fire",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New Mexico",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/jun/21/new-mexico-policies-families",
-      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Trump Administration",
-      "count": 34,
+      "count": 41,
       "url": "https://www.nytimes.com/2026/06/21/us/politics/trump-fraudster-priest-investigation-brooklyn.html",
       "source": "NY Times"
     },
     {
-      "name": "The White House",
+      "name": "This White House",
       "count": 15,
-      "url": "https://thehill.com/policy/healthcare/5931217-kennedy-white-house-midterms/",
-      "source": "The Hill"
+      "url": "https://www.nytimes.com/2026/06/18/opinion/jd-vance-iran-trump-communion.html",
+      "source": "NY Times"
     },
     {
       "name": "The Filter Us",
@@ -144,16 +82,28 @@
       "source": "The Guardian"
     },
     {
-      "name": "Un Potente Derechazo Cruzado",
-      "count": 12,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ayase-ueda-saca-un-misil-y-amplia-la-ventaja-de-japon-tmvo13195991",
-      "source": "NBC News"
+      "name": "Un",
+      "count": 10,
+      "url": "https://www.theguardian.com/environment/2026/jun/21/el-nino-fears-godzilla-strength-hunger-famine",
+      "source": "The Guardian"
     },
     {
       "name": "Guardian",
       "count": 10,
       "url": "https://www.theguardian.com/football/2026/jun/21/usa-world-cup-2026-soccer",
       "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 9,
+      "url": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 8,
+      "url": "https://www.foxnews.com/politics/trumps-iran-gamble-divides-gop-hawks-america-first-conservatives-victory-looks-like",
+      "source": "Fox News"
     },
     {
       "name": "Apple Tv  Getting A Tv",
@@ -168,22 +118,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Fox",
-      "count": 6,
-      "url": "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nba",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/jun/20/lapd-releases-footage-officers-dog",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Congress",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/06/21/nyregion/mamdani-burns-allies-in-making-a-big-bet-for-congress-and-the-left.html",
-      "source": "NY Times"
+      "name": "Fifa",
+      "count": 7,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-06-16/fox-versus-telemundo-how-world-cup-viewers-are-watching",
+      "source": "LA Times"
     }
   ],
   "EVENT": [
@@ -200,22 +138,34 @@
       "source": "The Guardian"
     },
     {
+      "name": "Wimbledon",
+      "count": 10,
+      "url": "https://www.theguardian.com/sport/2026/jun/21/serena-williams-wimbledon-singles-comeback-handed-wildcard-tennis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 4,
+      "url": "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The U.S. Open",
+      "count": 4,
+      "url": "https://www.nbcnews.com/sports/golf/us-open-golf-artificial-intelligence-rcna350498",
+      "source": "NBC News"
+    },
+    {
       "name": "The World Cup’S",
       "count": 2,
       "url": "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup",
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
+      "name": "Pre-Iran",
       "count": 2,
-      "url": "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Us Open",
-      "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/simple-frustrating-reason-fans-us-open-shinnecock-hills",
-      "source": "Fox News"
+      "url": "https://www.cbsnews.com/video/returning-to-pre-iran-war-gas-prices-could-take-awhile-energy-analyst-says/",
+      "source": "CBS News"
     },
     {
       "name": "The Super Bowl",
@@ -230,23 +180,73 @@
       "source": "NY Times"
     },
     {
-      "name": "The World Scrambles For Oil",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/06/21/business/china-oil-iran.html",
-      "source": "NY Times"
-    },
-    {
       "name": "This World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Every World Cup",
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-06-21T15:12:17Z"
+  "GPE": [
+    {
+      "name": "Iran",
+      "count": 60,
+      "url": "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Us",
+      "count": 51,
+      "url": "https://www.theguardian.com/world/2026/jun/21/trump-iran-deal-bipartisan-criticism",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/06/21/arts/for-heirs-of-custer-and-sitting-bull-a-150-year-old-battle-is-personal.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County",
+      "count": 14,
+      "url": "https://www.latimes.com/california/story/2026-06-19/traveler-with-measles-was-at-lax-caution-urged-amid-world-cup",
+      "source": "LA Times"
+    },
+    {
+      "name": "Israel",
+      "count": 13,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Uk",
+      "count": 13,
+      "url": "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-expected-exit-plan-clear-way-andy-burnham-become-pm",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The City Of London",
+      "count": 12,
+      "url": "https://www.theguardian.com/books/2026/jun/21/m-john-harrison-if-we-met-a-real-alien-wed-have-no-clue-what-they-thought",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Switzerland",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/2026/jun/21/trump-iran-deal-bipartisan-criticism",
+      "source": "The Guardian"
+    },
+    {
+      "name": "England",
+      "count": 11,
+      "url": "https://www.theguardian.com/football/2026/jun/21/england-declan-rice-hamstring-nerve-pain-arsenal-schedule-world-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Washington Dc",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/20/trump-dc-makeover-frenzy",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-06-21T20:26:57Z"
 };
