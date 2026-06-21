@@ -3,21 +3,21 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 24,
+      "count": 29,
       "url": "https://www.theguardian.com/us-news/2026/jun/20/jim-jordan-super-pac-ice-donation",
       "source": "The Guardian"
     },
     {
       "name": "Jd Vance",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/19/jd-vance-catholicism",
-      "source": "The Guardian"
+      "count": 23,
+      "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
+      "source": "NY Times"
     },
     {
-      "name": "Wallace",
-      "count": 9,
-      "url": "https://www.cbsnews.com/video/saturday-sessions-brother-wallace-performs-whos-that/",
-      "source": "CBS News"
+      "name": "Volodymyr Zelenskyy",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/jun/20/scott-bessent-volodymyr-zelenskyy-trump",
+      "source": "The Guardian"
     },
     {
       "name": "Hormuz",
@@ -26,83 +26,139 @@
       "source": "The Guardian"
     },
     {
-      "name": "Al Defensa De Suecia",
+      "name": "Biden",
       "count": 7,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/doblete-de-cody-gakpo-tras-un-regate-que-deja-perdido-al-defensa-de-suecia-tmvo13195860",
-      "source": "NBC News"
-    },
-    {
-      "name": "Joe Biden",
-      "count": 7,
-      "url": "https://thehill.com/opinion/campaign/5932038-aoc-socialist-political-rise/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Bill Maher",
-      "count": 6,
-      "url": "https://www.foxnews.com/media/bill-maher-tells-liberals-stop-partisan-sulking-join-america-250-party",
-      "source": "Fox News"
-    },
-    {
-      "name": "Kennedy Center",
-      "count": 6,
-      "url": "https://www.cbsnews.com/news/kennedy-center-still-weighing-whether-to-carry-out-partial-closure/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Volodymyr Zelenskyy",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/jun/20/scott-bessent-volodymyr-zelenskyy-trump",
+      "url": "https://www.theguardian.com/us-news/2026/jun/19/biden-recordings-release-bid-fails",
       "source": "The Guardian"
+    },
+    {
+      "name": "James Burrows",
+      "count": 6,
+      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-06-20/james-burrows-appreciation-cheers-friends-will-and-grace-big-bang-theory",
+      "source": "LA Times"
     },
     {
       "name": "Alexander Lukashenko",
       "count": 5,
       "url": "https://www.theguardian.com/world/2026/jun/20/ukraine-war-briefing-zelenskyy-to-belarus-remove-russian-relay-stations-or-well-do-it",
       "source": "The Guardian"
+    },
+    {
+      "name": "Joe Lovano",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/jun/19/joe-lovano-paramount-quartet-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Angel Reese",
+      "count": 5,
+      "url": "https://www.foxnews.com/outkick-sports/angel-reese-opens-singing-black-national-anthem-fever-fans-booed",
+      "source": "Fox News"
+    },
+    {
+      "name": "Gavin Newsom",
+      "count": 4,
+      "url": "https://www.theguardian.com/us-news/2026/jun/18/california-billionaire-tax-ballot-tech-opposition",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 59,
+      "url": "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 37,
+      "url": "https://www.nytimes.com/2026/06/20/world/middleeast/iran-strait-of-hormuz-traffic.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 29,
+      "url": "https://www.nytimes.com/2026/06/20/world/middleeast/iran-strait-of-hormuz-traffic.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County",
+      "count": 16,
+      "url": "https://www.latimes.com/california/story/2026-06-20/man-fatally-shot-deputy-stabbing-lancaster",
+      "source": "LA Times"
+    },
+    {
+      "name": "Switzerland",
+      "count": 15,
+      "url": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
+      "source": "NY Times"
+    },
+    {
+      "name": "Washington Dc",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/20/trump-dc-makeover-frenzy",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Australia",
+      "count": 14,
+      "url": "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The United States Of America",
+      "count": 14,
+      "url": "https://www.theguardian.com/culture/2026/jun/19/10-museums-to-visit-america-250",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Los Angeles",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/jun/20/lapd-releases-footage-officers-dog",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ukraine",
+      "count": 13,
+      "url": "https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 24,
+      "count": 27,
       "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/20/how-athletes-keep-competing-into-their-40s",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 11,
+      "count": 9,
       "url": "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt",
       "source": "The Guardian"
     },
     {
       "name": "The Iran War",
-      "count": 6,
+      "count": 4,
       "url": "https://www.theguardian.com/commentisfree/2026/jun/20/trump-renovated-pool-hubris",
       "source": "The Guardian"
     },
     {
-      "name": "The Fifa World Cup",
-      "count": 2,
-      "url": "https://www.latimes.com/sports/soccer/story/2026-06-19/us-defeats-australia-clinches-spot-in-world-cup-knockout-round",
-      "source": "LA Times"
-    },
-    {
       "name": "This World Cup",
-      "count": 1,
+      "count": 2,
       "url": "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt",
       "source": "The Guardian"
     },
     {
       "name": "World Cup 2026",
       "count": 1,
-      "url": "https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live",
+      "url": "https://www.theguardian.com/football/live/2026/jun/21/fifa-world-cup-2026-live-tunisia-v-japan-updates-tun-vs-jpn-group-f-match-score-latest",
       "source": "The Guardian"
     },
     {
-      "name": "A World Cup",
+      "name": "Us Open",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jun/20/spaceship-stadiums-and-ronaldo-mania-guardian-writers-first-impressions-of-the-world-cup",
+      "url": "https://www.theguardian.com/sport/2026/jun/21/us-open-glory-beckons-for-wyndham-clark-with-six-shot-lead-going-into-final-round",
       "source": "The Guardian"
     },
     {
@@ -122,81 +178,19 @@
       "count": 1,
       "url": "https://www.theguardian.com/global/ng-interactive/2026/jun/09/how-do-you-give-britains-hidden-army-a-break-is-mum-ok-documentary",
       "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 59,
-      "url": "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt",
-      "source": "The Guardian"
     },
     {
-      "name": "Iran Mou",
-      "count": 34,
-      "url": "https://thehill.com/homenews/administration/5932607-trump-slams-obama-iran-mou-critics/",
-      "source": "The Hill"
-    },
-    {
-      "name": "U.S.",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/06/20/world/middleeast/iran-strait-of-hormuz-traffic.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ukraine",
-      "count": 14,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/20/global-rupture-international-law-ukraine-middle-east-military-superpowers",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The United States Of America",
-      "count": 13,
-      "url": "https://www.theguardian.com/culture/2026/jun/19/10-museums-to-visit-america-250",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. County",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-06-19/traveler-with-measles-was-at-lax-caution-urged-amid-world-cup",
+      "name": "The Fifa World Cup",
+      "count": 1,
+      "url": "https://www.latimes.com/sports/soccer/story/2026-06-19/us-defeats-australia-clinches-spot-in-world-cup-knockout-round",
       "source": "LA Times"
-    },
-    {
-      "name": "Israel",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/06/20/world/middleeast/israel-hezbollah-fighting-cease-fire.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Lebanon",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/06/20/world/middleeast/israel-hezbollah-fighting-cease-fire.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Russia",
-      "count": 12,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/20/global-rupture-international-law-ukraine-middle-east-military-superpowers",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Australia",
-      "count": 11,
-      "url": "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt",
-      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Trump Administration",
-      "count": 53,
+      "count": 51,
       "url": "https://www.theguardian.com/us-news/2026/jun/20/scott-bessent-volodymyr-zelenskyy-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles",
       "source": "The Guardian"
     },
     {
@@ -206,34 +200,22 @@
       "source": "The Guardian"
     },
     {
-      "name": "Guardian",
+      "name": "Ai",
       "count": 10,
-      "url": "https://www.theguardian.com/film/2026/jun/20/readers-favourite-spielberg-films-close-encounters-et-raiders-hook",
+      "url": "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles",
       "source": "The Guardian"
     },
     {
-      "name": "Un",
-      "count": 9,
-      "url": "https://www.theguardian.com/environment/2026/jun/20/electrification-takes-centre-stage-bonn-climate-talks",
-      "source": "The Guardian"
+      "name": "Un Potente Derechazo Cruzado",
+      "count": 10,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ayase-ueda-saca-un-misil-y-amplia-la-ventaja-de-japon-tmvo13195991",
+      "source": "NBC News"
     },
     {
-      "name": "Eu",
-      "count": 8,
-      "url": "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
+      "name": "Guardian",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles",
       "source": "The Guardian"
-    },
-    {
-      "name": "Mlb",
-      "count": 8,
-      "url": "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs Mornings Deals",
-      "count": 8,
-      "url": "https://www.cbsnews.com/video/exclusive-discounts-from-cbs-mornings-deals-172/",
-      "source": "CBS News"
     },
     {
       "name": "The New York Knicks",
@@ -242,11 +224,29 @@
       "source": "The Guardian"
     },
     {
+      "name": "The White House",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/20/trump-renovated-pool-hubris",
+      "source": "The Guardian"
+    },
+    {
       "name": "Apple Tv  Getting A Tv",
       "count": 7,
       "url": "https://www.theguardian.com/tv-and-radio/2026/jun/19/sugar-review-colin-farrell-apple-tv-drama",
       "source": "The Guardian"
+    },
+    {
+      "name": "Amazon",
+      "count": 7,
+      "url": "https://www.theguardian.com/thefilter-us/2026/jun/18/airpods-pro-3-sale",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Eu",
+      "count": 6,
+      "url": "https://www.theguardian.com/world/2026/jun/20/ukraine-war-briefing-zelenskyy-to-belarus-remove-russian-relay-stations-or-well-do-it",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-06-20T20:19:10Z"
+  "updated": "2026-06-21T06:07:41Z"
 };

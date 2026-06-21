@@ -2,33 +2,43 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    73,
-    "https://www.nytimes.com/2026/06/20/us/politics/special-education-rfk.html"
+    78,
+    "https://www.nytimes.com/2026/06/20/us/politics/trump-reflecting-pool-drained.html"
+  ],
+  [
+    "president",
+    59,
+    "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon"
   ],
   [
     "cup",
-    47,
+    48,
     "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt"
   ],
   [
     "iran",
     46,
-    "https://www.nytimes.com/2026/06/20/world/middleeast/israel-hezbollah-fighting-cease-fire.html"
+    "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon"
   ],
   [
-    "president",
-    38,
-    "https://www.washingtonpost.com/nation/2026/06/18/barack-obama-presidential-center-opens-chicagos-lakefront/"
+    "pool",
+    31,
+    "https://www.nytimes.com/2026/06/20/us/politics/trump-reflecting-pool-drained.html"
   ],
   [
-    "war",
+    "american",
     29,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "https://www.washingtonpost.com/nation/2026/06/18/belief-that-anyone-can-achieve-american-dream-is-fading-poll-finds/"
   ],
   [
     "game",
-    29,
-    "https://www.theguardian.com/football/2026/jun/20/no-pulisic-no-problem-how-the-us-learned-to-win-without-their-star-player"
+    28,
+    "https://www.theguardian.com/money/2026/jun/21/gta-6-grand-theft-auto-vi-beta-test-pre-release-scams-fake"
+  ],
+  [
+    "reflecting",
+    26,
+    "https://www.nytimes.com/2026/06/20/us/politics/trump-reflecting-pool-drained.html"
   ],
   [
     "country",
@@ -36,159 +46,189 @@
     "https://www.washingtonpost.com/nation/2026/06/18/belief-that-anyone-can-achieve-american-dream-is-fading-poll-finds/"
   ],
   [
-    "american",
-    24,
-    "https://www.washingtonpost.com/nation/2026/06/18/belief-that-anyone-can-achieve-american-dream-is-fading-poll-finds/"
+    "war",
+    23,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "night",
-    20,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre"
-  ],
-  [
-    "family",
-    19,
-    "https://www.washingtonpost.com/obituaries/2026/06/20/running-his-family-funeral-home-spencer-leak-jr-became-chicago-institution/"
-  ],
-  [
-    "video",
-    19,
-    "https://www.theguardian.com/us-news/2026/jun/20/lapd-releases-footage-officers-dog"
+    "vance",
+    22,
+    "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon"
   ],
   [
     "team",
-    18,
+    22,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "york",
-    18,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre"
-  ],
-  [
-    "media",
-    18,
-    "https://www.theguardian.com/football/2026/jun/20/spaceship-stadiums-and-ronaldo-mania-guardian-writers-first-impressions-of-the-world-cup"
-  ],
-  [
-    "love",
-    18,
-    "https://www.theguardian.com/film/2026/jun/18/voicemails-for-isabelle-review-netflix-romcom"
-  ],
-  [
-    "power",
-    17,
-    "https://www.washingtonpost.com/nation/2026/06/18/barack-obama-presidential-center-opens-chicagos-lakefront/"
-  ],
-  [
-    "everything",
-    17,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
     "talks",
-    17,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre"
+    21,
+    "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon"
   ],
   [
-    "season",
-    17,
-    "https://www.theguardian.com/world/2026/jun/20/spain-offbeat-regions-tourist-numbers-overtourism"
-  ],
-  [
-    "food",
-    17,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/20/how-athletes-keep-competing-into-their-40s"
-  ],
-  [
-    "music",
-    17,
-    "https://www.theguardian.com/sport/2026/jun/19/spencer-strider-braves-vegan-bernie-sanders-baseball"
-  ],
-  [
-    "prime",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre"
-  ],
-  [
-    "don",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles"
-  ],
-  [
-    "los",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/20/lapd-releases-footage-officers-dog"
-  ],
-  [
-    "police",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/20/lapd-releases-footage-officers-dog"
-  ],
-  [
-    "review",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/20/ice-investigation-new-york-new-jersey"
-  ],
-  [
-    "full",
-    16,
-    "https://www.theguardian.com/fashion/2026/jun/20/nothing-succeeds-like-excess-at-dolce-gabbanas-milan-menswear-show"
+    "fire",
+    20,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "star",
-    16,
+    20,
     "https://www.theguardian.com/football/2026/jun/20/no-pulisic-no-problem-how-the-us-learned-to-win-without-their-star-player"
   ],
   [
-    "que",
+    "summer",
+    19,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/21/moment-i-knew-arrivals-hall-mexico-red-rose"
+  ],
+  [
+    "los",
+    19,
+    "https://www.theguardian.com/us-news/2026/jun/20/lapd-releases-footage-officers-dog"
+  ],
+  [
+    "media",
+    19,
+    "https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy"
+  ],
+  [
+    "strait",
+    18,
+    "https://www.nytimes.com/2026/06/20/world/middleeast/iran-strait-of-hormuz-traffic.html"
+  ],
+  [
+    "night",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre"
+  ],
+  [
+    "review",
+    18,
+    "https://www.theguardian.com/us-news/2026/jun/20/ice-investigation-new-york-new-jersey"
+  ],
+  [
+    "hormuz",
+    17,
+    "https://www.nytimes.com/2026/06/20/world/middleeast/iran-strait-of-hormuz-traffic.html"
+  ],
+  [
+    "don",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles"
+  ],
+  [
+    "video",
+    17,
+    "https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy"
+  ],
+  [
+    "family",
     16,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/alex-freeman-anota-un-gol-dramatico-para-estados-unidos-que-tuvo-que-ser-validado-por-el-var-tmvo13195678"
+    "https://www.nytimes.com/2026/06/21/world/europe/albania-kushner-project-protests.html"
   ],
   [
-    "pool",
+    "everything",
+    16,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "early",
+    16,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "fans",
+    16,
+    "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt"
+  ],
+  [
+    "company",
+    16,
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/21/toy-story-5-go-hard-enough-on-technology"
+  ],
+  [
+    "ukrainian",
+    16,
+    "https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy"
+  ],
+  [
+    "games",
+    16,
+    "https://www.theguardian.com/football/2026/jun/21/the-2026-world-cup-team-of-the-tournament-so-far-without-the-superstars"
+  ],
+  [
+    "switzerland",
     15,
-    "https://www.washingtonpost.com/nation/2026/06/20/cyclist-arrested-reflecting-pool-denies-trump-vandalism-claims/"
+    "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon"
   ],
   [
-    "far",
+    "australia",
     15,
     "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt"
   ],
   [
-    "ukraine",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/jun/20/global-rupture-international-law-ukraine-middle-east-military-superpowers"
-  ],
-  [
-    "center",
-    14,
-    "https://www.nytimes.com/2026/06/20/world/middleeast/israel-hezbollah-fighting-cease-fire.html"
-  ],
-  [
-    "strait",
-    14,
-    "https://www.nytimes.com/2026/06/20/world/middleeast/iran-strait-of-hormuz-traffic.html"
-  ],
-  [
-    "director",
-    14,
-    "https://www.washingtonpost.com/obituaries/2026/06/20/running-his-family-funeral-home-spencer-leak-jr-became-chicago-institution/"
-  ],
-  [
-    "global",
-    14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
     "film",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre"
+  ],
+  [
+    "multiple",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/18/lake-tahoe-glyphosate"
+  ],
+  [
+    "social",
+    15,
+    "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media"
+  ],
+  [
+    "vice",
     14,
-    "https://www.theguardian.com/film/2026/jun/20/readers-favourite-spielberg-films-close-encounters-et-raiders-hook"
+    "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon"
+  ],
+  [
+    "local",
+    14,
+    "https://www.nytimes.com/2026/06/21/world/europe/albania-kushner-project-protests.html"
+  ],
+  [
+    "past",
+    14,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "far",
+    14,
+    "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt"
+  ],
+  [
+    "food",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/21/moment-i-knew-arrivals-hall-mexico-red-rose"
+  ],
+  [
+    "prime",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre"
   ],
   [
     "guide",
     14,
-    "https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live"
+    "https://www.theguardian.com/football/live/2026/jun/21/fifa-world-cup-2026-live-tunisia-v-japan-updates-tun-vs-jpn-group-f-match-score-latest"
+  ],
+  [
+    "angeles",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/20/lapd-releases-footage-officers-dog"
+  ],
+  [
+    "ukraine",
+    14,
+    "https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy"
+  ],
+  [
+    "zelenskyy",
+    14,
+    "https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy"
   ],
   [
     "running",
@@ -201,19 +241,24 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/20/summer-running-gear-essentials"
   ],
   [
-    "company",
+    "feel",
     14,
-    "https://www.theguardian.com/world/2026/jun/20/ukraine-war-briefing-zelenskyy-to-belarus-remove-russian-relay-stations-or-well-do-it"
+    "https://www.theguardian.com/world/2026/jun/20/surge-in-people-converting-to-progressive-judaism"
   ],
   [
-    "games",
+    "ecuador",
     14,
-    "https://www.theguardian.com/games/2026/jun/19/stop-killing-games-activists-campaigning-online-gaming"
+    "https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report"
   ],
   [
-    "israel",
+    "dads",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jun/20/fathers-advice-parenthood"
+  ],
+  [
+    "arrested",
     13,
-    "https://www.nytimes.com/2026/06/20/world/middleeast/israel-hezbollah-fighting-cease-fire.html"
+    "https://www.washingtonpost.com/nation/2026/06/20/cyclist-arrested-reflecting-pool-denies-trump-vandalism-claims/"
   ],
   [
     "fewer",
@@ -226,44 +271,29 @@
     "https://www.washingtonpost.com/nation/2026/06/19/activists-indicted-alleged-antifa-plot-say-charges-are-boosting-protest-effort/"
   ],
   [
-    "israeli",
+    "million",
     13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "early",
+    "global",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "fire",
+    "despite",
     13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "least",
-    13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "minister",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "united",
-    13,
-    "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt"
-  ],
-  [
-    "fans",
-    13,
-    "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt"
-  ],
-  [
-    "park",
+    "york",
     13,
     "https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre"
+  ],
+  [
+    "washington",
+    13,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/20/trump-dc-makeover-frenzy"
   ],
   [
     "health",
@@ -271,14 +301,29 @@
     "https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine"
   ],
   [
-    "win",
+    "donald",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/20/lapd-releases-footage-officers-dog"
+    "https://www.theguardian.com/us-news/2026/jun/20/jim-jordan-super-pac-ice-donation"
   ],
   [
-    "democratic",
+    "play",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/20/democrats-new-york-congressional-race"
+    "https://www.theguardian.com/us-news/2026/jun/20/trump-reflecting-pool-renovation-vandalism"
+  ],
+  [
+    "little",
+    13,
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/21/toy-story-5-go-hard-enough-on-technology"
+  ],
+  [
+    "russia",
+    13,
+    "https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy"
+  ],
+  [
+    "release",
+    13,
+    "https://www.theguardian.com/money/2026/jun/21/gta-6-grand-theft-auto-vi-beta-test-pre-release-scams-fake"
   ],
   [
     "buying",
@@ -286,14 +331,19 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/20/summer-running-gear-essentials"
   ],
   [
-    "feel",
+    "office",
     13,
-    "https://www.theguardian.com/world/2026/jun/20/surge-in-people-converting-to-progressive-judaism"
+    "https://www.theguardian.com/thefilter-us/2026/jun/20/summer-running-gear-essentials"
   ],
   [
-    "russia",
+    "season",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jun/20/global-rupture-international-law-ukraine-middle-east-military-superpowers"
+    "https://www.theguardian.com/football/2026/jun/20/manchester-city-close-to-financial-settlement-with-chelsea-to-appoint-enzo-maresca"
+  ],
+  [
+    "music",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jun/20/the-hill-i-will-die-on-gig-endurance-test"
   ],
   [
     "tested",
@@ -301,78 +351,28 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
   ],
   [
-    "vance",
+    "soccer",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/19/jd-vance-catholicism"
+    "https://www.latimes.com/sports/soccer/story/2026-06-19/us-defeats-australia-clinches-spot-in-world-cup-knockout-round"
   ],
   [
-    "lebanon",
+    "con",
+    13,
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/piel-de-gallina-asi-celebro-dick-advocaat-el-primer-punto-de-curazao-en-un-mundial-tmvo13195957"
+  ],
+  [
+    "israel",
     12,
     "https://www.nytimes.com/2026/06/20/world/middleeast/israel-hezbollah-fighting-cease-fire.html"
   ],
   [
-    "hormuz",
+    "peace",
     12,
-    "https://www.nytimes.com/2026/06/20/world/middleeast/iran-strait-of-hormuz-traffic.html"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "america",
+    "attacks",
     12,
-    "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt"
-  ],
-  [
-    "australia",
-    12,
-    "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt"
-  ],
-  [
-    "summer",
-    12,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre"
-  ],
-  [
-    "actually",
-    12,
-    "https://www.theguardian.com/us-news/2026/jun/20/trump-reflecting-pool-renovation-vandalism"
-  ],
-  [
-    "climate",
-    12,
-    "https://www.theguardian.com/world/2026/jun/20/spain-offbeat-regions-tourist-numbers-overtourism"
-  ],
-  [
-    "young",
-    12,
-    "https://www.theguardian.com/society/2026/jun/20/digital-past-cringe-teenage-moments-lucky-not-young-online-today"
-  ],
-  [
-    "art",
-    12,
-    "https://www.theguardian.com/fashion/2026/jun/20/nothing-succeeds-like-excess-at-dolce-gabbanas-milan-menswear-show"
-  ],
-  [
-    "weekly",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/jun/20/summer-running-gear-essentials"
-  ],
-  [
-    "office",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/jun/20/summer-running-gear-essentials"
-  ],
-  [
-    "england",
-    12,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/20/how-athletes-keep-competing-into-their-40s"
-  ],
-  [
-    "league",
-    12,
-    "https://www.theguardian.com/football/2026/jun/20/david-raya-when-you-lose-a-champions-league-final-it-destroys-you-inside"
-  ],
-  [
-    "sleep",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ]
 ];
