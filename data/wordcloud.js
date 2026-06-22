@@ -2,78 +2,83 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    74,
+    80,
     "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html"
   ],
   [
     "iran",
-    68,
+    58,
     "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html"
-  ],
-  [
-    "president",
-    47,
-    "https://www.nytimes.com/2026/06/21/us/politics/trump-fraudster-priest-investigation-brooklyn.html"
   ],
   [
     "cup",
-    46,
-    "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup"
+    56,
+    "https://www.theguardian.com/football/2026/jun/22/world-cup-2026-us-united-states-usa-co-host-nation"
+  ],
+  [
+    "president",
+    45,
+    "https://www.nytimes.com/2026/06/21/us/politics/trump-fraudster-priest-investigation-brooklyn.html"
   ],
   [
     "game",
-    33,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/21/olivia-cooke-interview-house-dragon-game-thrones-girlfriend"
-  ],
-  [
-    "war",
-    29,
-    "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html"
-  ],
-  [
-    "country",
-    26,
-    "https://www.washingtonpost.com/nation/2026/06/18/belief-that-anyone-can-achieve-american-dream-is-fading-poll-finds/"
+    32,
+    "https://www.theguardian.com/football/2026/jun/22/cape-verde-uruguay-world-cup-group-h-match-report"
   ],
   [
     "american",
-    25,
-    "https://www.washingtonpost.com/nation/2026/06/18/belief-that-anyone-can-achieve-american-dream-is-fading-poll-finds/"
-  ],
-  [
-    "nation",
-    24,
-    "https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy"
-  ],
-  [
-    "pool",
-    21,
-    "https://www.nytimes.com/2026/06/20/us/politics/trump-reflecting-pool-drained.html"
-  ],
-  [
-    "margaret",
-    21,
-    "https://www.foxnews.com/sports/serena-williams-return-wimbledon-singles-44-year-old-legend-chases-grand-slam-record"
-  ],
-  [
-    "prime",
-    20,
-    "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-expected-exit-plan-clear-way-andy-burnham-become-pm"
-  ],
-  [
-    "brennan",
-    20,
-    "https://www.cbsnews.com/face-the-nation/transcripts/"
-  ],
-  [
-    "team",
-    19,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    31,
+    "https://www.theguardian.com/inequality/ng-interactive/2026/jun/21/american-racial-anxiety-white-working-class-rights"
   ],
   [
     "talks",
-    19,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/21/olivia-cooke-interview-house-dragon-game-thrones-girlfriend"
+    29,
+    "https://www.nytimes.com/2026/06/22/business/oil-gas-price-iran.html"
+  ],
+  [
+    "war",
+    28,
+    "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html"
+  ],
+  [
+    "los",
+    28,
+    "https://www.nytimes.com/2026/06/22/us/superintendent-lausd-alberto-carvalho-resigns.html"
+  ],
+  [
+    "fire",
+    24,
+    "https://www.nytimes.com/2026/06/21/us/warehouse-fire-la-los-angeles-smoke.html"
+  ],
+  [
+    "pool",
+    24,
+    "https://www.washingtonpost.com/nation/2026/06/20/cyclist-arrested-reflecting-pool-denies-trump-vandalism-claims/"
+  ],
+  [
+    "final",
+    22,
+    "https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel"
+  ],
+  [
+    "prime",
+    21,
+    "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-expected-exit-plan-clear-way-andy-burnham-become-pm"
+  ],
+  [
+    "win",
+    20,
+    "https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html"
+  ],
+  [
+    "summer",
+    20,
+    "https://www.nytimes.com/2026/06/21/realestate/where-billionaires-summer-a-gardener-died-in-the-snow.html"
+  ],
+  [
+    "reflecting",
+    18,
+    "https://www.washingtonpost.com/nation/2026/06/20/cyclist-arrested-reflecting-pool-denies-trump-vandalism-claims/"
   ],
   [
     "early",
@@ -81,57 +86,57 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "review",
-    18,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/21/olivia-cooke-interview-house-dragon-game-thrones-girlfriend"
-  ],
-  [
-    "york",
-    18,
-    "https://www.theguardian.com/us-news/2026/jun/21/man-dies-madison-square-garden-concert"
-  ],
-  [
-    "summer",
+    "death",
     17,
     "https://www.nytimes.com/2026/06/21/realestate/where-billionaires-summer-a-gardener-died-in-the-snow.html"
   ],
   [
-    "israel",
+    "military",
     17,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "health",
-    17,
-    "https://www.theguardian.com/global/2026/jun/21/preventive-health-screening"
-  ],
-  [
-    "hard",
-    16,
-    "https://www.nytimes.com/2026/06/21/us/politics/animal-rights-cruelty-oregon.html"
-  ],
-  [
-    "everything",
-    16,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
     "working",
-    16,
+    17,
     "https://www.theguardian.com/inequality/ng-interactive/2026/jun/21/american-racial-anxiety-white-working-class-rights"
   ],
   [
-    "season",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/21/olivia-cooke-interview-house-dragon-game-thrones-girlfriend"
+    "far",
+    17,
+    "https://www.theguardian.com/inequality/ng-interactive/2026/jun/21/american-racial-anxiety-white-working-class-rights"
   ],
   [
-    "running",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/21/improve-career-health-relationships-experimental-mindset"
+    "father",
+    17,
+    "https://www.theguardian.com/us-news/2026/jun/21/california-incarcerated-fathers"
   ],
   [
-    "full",
+    "social",
+    16,
+    "https://www.nytimes.com/2026/06/21/world/asia/women-taliban-restrictions-jobs-education.html"
+  ],
+  [
+    "least",
+    16,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "team",
+    16,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "york",
+    16,
+    "https://www.theguardian.com/us-news/2026/jun/21/man-dies-madison-square-garden-concert"
+  ],
+  [
+    "review",
+    16,
+    "https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence"
+  ],
+  [
+    "children",
     16,
     "https://www.theguardian.com/us-news/2026/jun/21/california-incarcerated-fathers"
   ],
@@ -139,11 +144,6 @@
     "games",
     16,
     "https://www.theguardian.com/football/2026/jun/21/usa-world-cup-2026-soccer"
-  ],
-  [
-    "reflecting",
-    15,
-    "https://www.nytimes.com/2026/06/20/us/politics/trump-reflecting-pool-drained.html"
   ],
   [
     "political",
@@ -156,44 +156,54 @@
     "https://www.nytimes.com/2026/06/21/nyregion/mamdani-burns-allies-in-making-a-big-bet-for-congress-and-the-left.html"
   ],
   [
+    "running",
+    15,
+    "https://www.nytimes.com/2026/06/21/world/asia/women-taliban-restrictions-jobs-education.html"
+  ],
+  [
+    "everything",
+    15,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "country",
+    15,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "hard",
+    15,
+    "https://www.theguardian.com/inequality/ng-interactive/2026/jun/21/american-racial-anxiety-white-working-class-rights"
+  ],
+  [
     "again",
     15,
-    "https://www.nytimes.com/2026/06/21/us/politics/animal-rights-cruelty-oregon.html"
-  ],
-  [
-    "vance",
-    15,
-    "https://www.nytimes.com/2026/06/18/opinion/jd-vance-iran-trump-communion.html"
-  ],
-  [
-    "fire",
-    15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "feel",
-    15,
     "https://www.theguardian.com/inequality/ng-interactive/2026/jun/21/american-racial-anxiety-white-working-class-rights"
   ],
   [
-    "far",
+    "media",
     15,
-    "https://www.theguardian.com/inequality/ng-interactive/2026/jun/21/american-racial-anxiety-white-working-class-rights"
+    "https://www.theguardian.com/world/2026/jun/22/from-mobile-jungles-to-shadow-art-how-dutch-people-try-to-beat-the-heat"
+  ],
+  [
+    "killed",
+    15,
+    "https://www.theguardian.com/world/2026/jun/22/mt-everest-green-boots-man-cave-climber-identity"
+  ],
+  [
+    "police",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/21/chicago-shootings-trump"
+  ],
+  [
+    "having",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/21/memphis-trump-taskforce"
   ],
   [
     "guide",
     15,
-    "https://www.theguardian.com/football/live/2026/jun/21/belgium-v-iran-world-cup-2026-live"
-  ],
-  [
-    "food",
-    15,
-    "https://www.theguardian.com/environment/2026/jun/21/el-nino-fears-godzilla-strength-hunger-famine"
-  ],
-  [
-    "energy",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/21/california-incarcerated-fathers"
+    "https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence"
   ],
   [
     "williams",
@@ -201,9 +211,9 @@
     "https://www.theguardian.com/football/2026/jun/21/spain-saudi-arabia-world-cup-group-h-match-report"
   ],
   [
-    "return",
+    "ukraine",
     15,
-    "https://www.theguardian.com/sport/2026/jun/21/serena-williams-wimbledon-singles-comeback-handed-wildcard-tennis"
+    "https://www.theguardian.com/world/2026/jun/22/ukraine-war-briefing-poland-dispute-second-world-war-army-unit"
   ],
   [
     "video",
@@ -211,14 +221,19 @@
     "https://www.theguardian.com/music/2026/jun/19/add-to-playlist-the-wild-club-pop-of-zara-larsson-cowriter-helena-gao-and-the-weeks-best-new-tracks"
   ],
   [
-    "graham",
-    15,
-    "https://www.cbsnews.com/news/face-the-nation-full-transcript-06-21-2026/"
+    "friend",
+    14,
+    "https://www.nytimes.com/2026/06/22/world/europe/elis-james-wales-radio.html"
   ],
   [
-    "fewer",
+    "don",
     14,
-    "https://www.washingtonpost.com/nation/2026/06/18/belief-that-anyone-can-achieve-american-dream-is-fading-poll-finds/"
+    "https://www.nytimes.com/2026/06/22/world/europe/elis-james-wales-radio.html"
+  ],
+  [
+    "angeles",
+    14,
+    "https://www.nytimes.com/2026/06/22/us/superintendent-lausd-alberto-carvalho-resigns.html"
   ],
   [
     "israeli",
@@ -226,34 +241,29 @@
     "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "arabia",
+    "little",
     14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/books/2026/jun/22/joyce-carol-oates-richer-than-elon-musk-interview"
   ],
   [
-    "don",
+    "feel",
     14,
-    "https://www.theguardian.com/global/2026/jun/21/preventive-health-screening"
+    "https://www.theguardian.com/inequality/ng-interactive/2026/jun/21/american-racial-anxiety-white-working-class-rights"
   ],
   [
-    "tournament",
+    "heat",
     14,
-    "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup"
+    "https://www.theguardian.com/world/2026/jun/22/from-mobile-jungles-to-shadow-art-how-dutch-people-try-to-beat-the-heat"
   ],
   [
-    "night",
+    "food",
     14,
-    "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup"
+    "https://www.theguardian.com/us-news/2026/jun/21/ohio-ukrainian-family-deportation"
   ],
   [
-    "film",
+    "biggest",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/20/sandra-oh-interview-killing-eve-theatre"
-  ],
-  [
-    "love",
-    14,
-    "https://www.theguardian.com/film/2026/jun/18/voicemails-for-isabelle-review-netflix-romcom"
+    "https://www.theguardian.com/sport/2026/jun/21/frances-tiafoe-taylor-fritz-halle-title"
   ],
   [
     "filter",
@@ -261,34 +271,49 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/20/summer-running-gear-essentials"
   ],
   [
-    "sen",
-    14,
-    "https://www.foxnews.com/media/booker-slams-trumps-iran-deal-abject-surrender-labels-biggest-loser-egg-face"
+    "minister",
+    13,
+    "https://www.nytimes.com/2026/06/22/business/oil-gas-price-iran.html"
   ],
   [
-    "nearly",
+    "administration",
     13,
-    "https://www.nytimes.com/2026/06/21/us/politics/border-wall-catholic-church-mount-christo-rey.html"
+    "https://www.nytimes.com/2026/06/21/us/politics/trump-fraudster-priest-investigation-brooklyn.html"
   ],
   [
-    "little",
+    "smoke",
     13,
-    "https://www.nytimes.com/2026/06/21/arts/for-heirs-of-custer-and-sitting-bull-a-150-year-old-battle-is-personal.html"
+    "https://www.nytimes.com/2026/06/21/us/warehouse-fire-la-los-angeles-smoke.html"
   ],
   [
-    "always",
+    "leading",
     13,
-    "https://www.washingtonpost.com/nation/2026/06/21/young-muslim-woman-had-choice-make-fight-or-forgive/"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "family",
+    "peace",
     13,
-    "https://www.washingtonpost.com/obituaries/2026/06/20/running-his-family-funeral-home-spencer-leak-jr-became-chicago-institution/"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "line",
+    "attacks",
     13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+  ],
+  [
+    "past",
+    13,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "career",
+    13,
+    "https://www.theguardian.com/books/2026/jun/22/joyce-carol-oates-richer-than-elon-musk-interview"
+  ],
+  [
+    "tournament",
+    13,
+    "https://www.theguardian.com/football/2026/jun/22/world-cup-2026-us-united-states-usa-co-host-nation"
   ],
   [
     "donald",
@@ -296,72 +321,32 @@
     "https://www.theguardian.com/inequality/ng-interactive/2026/jun/21/american-racial-anxiety-white-working-class-rights"
   ],
   [
-    "london",
+    "health",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/21/olivia-cooke-interview-house-dragon-game-thrones-girlfriend"
+    "https://www.theguardian.com/world/2026/jun/22/from-mobile-jungles-to-shadow-art-how-dutch-people-try-to-beat-the-heat"
   ],
   [
-    "media",
+    "verde",
     13,
-    "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup"
+    "https://www.theguardian.com/football/2026/jun/22/cape-verde-uruguay-world-cup-group-h-match-report"
   ],
   [
-    "father",
+    "tech",
     13,
-    "https://www.theguardian.com/football/live/2026/jun/21/belgium-v-iran-world-cup-2026-live"
+    "https://www.theguardian.com/global/2026/jun/21/preventive-health-screening"
   ],
   [
-    "match",
+    "round",
     13,
-    "https://www.theguardian.com/football/live/2026/jun/21/belgium-v-iran-world-cup-2026-live"
+    "https://www.theguardian.com/football/2026/jun/21/usa-world-cup-2026-soccer"
   ],
   [
-    "los",
+    "play",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/21/los-angeles-warehouse-fire"
+    "https://www.theguardian.com/sport/2026/jun/21/keely-hodgkinson-exits-tears-uk-athletics-championships-400m-final"
   ],
   [
-    "social",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/21/trump-lincoln-memorial-reflecting-pool"
-  ],
-  [
-    "concert",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/21/man-dies-madison-square-garden-concert"
-  ],
-  [
-    "final",
-    13,
-    "https://www.theguardian.com/artanddesign/2026/jun/21/david-hockney-funeral-private-two-mourners"
-  ],
-  [
-    "south",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/21/florida-new-college-de-santis"
-  ],
-  [
-    "having",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/21/memphis-trump-taskforce"
-  ],
-  [
-    "children",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/21/california-incarcerated-fathers"
-  ],
-  [
-    "friend",
-    13,
-    "https://www.theguardian.com/society/2026/jun/21/my-best-friend-killed-by-her-partner"
-  ],
-  [
-    "win",
-    13,
-    "https://www.theguardian.com/football/2026/jun/21/spain-saudi-arabia-world-cup-group-h-match-report"
-  ],
-  [
-    "americans",
+    "fewer",
     13,
     "https://www.theguardian.com/commentisfree/2026/jun/21/young-people-voter-registration"
   ],
@@ -371,8 +356,23 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/20/summer-running-gear-essentials"
   ],
   [
-    "sleep",
+    "con",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/todo-el-mundial-cabo-verde-e-iran-se-imponen-ante-selecciones-de-alto-nivel-tmvo13196174"
+  ],
+  [
+    "progress",
+    12,
+    "https://www.nytimes.com/2026/06/22/business/oil-gas-price-iran.html"
+  ],
+  [
+    "office",
+    12,
+    "https://www.nytimes.com/2026/06/22/us/superintendent-lausd-alberto-carvalho-resigns.html"
+  ],
+  [
+    "america",
+    12,
+    "https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html"
   ]
 ];
