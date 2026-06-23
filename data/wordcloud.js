@@ -2,38 +2,38 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    57,
-    "https://www.nytimes.com/2026/06/22/us/minnesota-democrats-judge-ruling.html"
+    80,
+    "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html"
   ],
   [
     "cup",
-    53,
-    "https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates"
+    64,
+    "https://www.theguardian.com/football/2026/jun/22/lionel-messi-breaks-men-world-cup-record-becomes-all-time-leading-scorer"
   ],
   [
     "iran",
-    39,
-    "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html"
-  ],
-  [
-    "american",
-    38,
-    "https://www.theguardian.com/business/2026/jun/22/alan-greenspan-obituary"
-  ],
-  [
-    "game",
-    33,
-    "https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates"
-  ],
-  [
-    "history",
-    29,
-    "https://www.theguardian.com/football/2026/jun/22/argentina-austria-world-cup-group-j-match-report"
+    46,
+    "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html"
   ],
   [
     "president",
-    28,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    34,
+    "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html"
+  ],
+  [
+    "game",
+    32,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/22/house-of-the-dragon-review-season-3-sky-atlantic-hbo-max-now"
+  ],
+  [
+    "country",
+    29,
+    "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html"
+  ],
+  [
+    "court",
+    26,
+    "https://www.theguardian.com/us-news/2026/jun/22/judge-trump-lawsuit-los-angeles-sanctuary-city"
   ],
   [
     "prime",
@@ -41,19 +41,9 @@
     "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html"
   ],
   [
-    "court",
-    25,
-    "https://www.nytimes.com/2026/06/22/us/politics/etan-patz-pedro-hernandez.html"
-  ],
-  [
-    "messi",
-    25,
-    "https://www.theguardian.com/football/2026/jun/22/argentina-austria-world-cup-group-j-match-report"
-  ],
-  [
-    "pool",
+    "police",
     24,
-    "https://www.washingtonpost.com/nation/2026/06/20/cyclist-arrested-reflecting-pool-denies-trump-vandalism-claims/"
+    "https://www.theguardian.com/world/2026/jun/23/canada-montreal-shooting-gunman-three-killed-suspect-police-cote-des-neiges"
   ],
   [
     "starmer",
@@ -61,29 +51,39 @@
     "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html"
   ],
   [
-    "minister",
-    23,
-    "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html"
-  ],
-  [
-    "country",
-    23,
-    "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html"
-  ],
-  [
     "music",
-    20,
+    23,
     "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-dead.html"
   ],
   [
-    "death",
-    20,
-    "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-death-celebrity-reactions.html"
+    "minister",
+    22,
+    "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html"
   ],
   [
-    "team",
+    "government",
+    22,
+    "https://www.theguardian.com/politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation"
+  ],
+  [
+    "los",
+    22,
+    "https://www.theguardian.com/us-news/2026/jun/22/judge-trump-lawsuit-los-angeles-sanctuary-city"
+  ],
+  [
+    "fans",
+    21,
+    "https://www.theguardian.com/politics/2026/jun/22/who-andy-burnham-likely-next-uk-prime-minister"
+  ],
+  [
+    "pool",
     20,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/06/22/us/politics/trump-reflecting-pool-blame.html"
+  ],
+  [
+    "messi",
+    20,
+    "https://www.theguardian.com/football/2026/jun/22/lionel-messi-breaks-men-world-cup-record-becomes-all-time-leading-scorer"
   ],
   [
     "keir",
@@ -91,24 +91,19 @@
     "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html"
   ],
   [
-    "working",
+    "davis",
     19,
-    "https://www.nytimes.com/2026/06/21/upshot/remote-work-parents-mothers.html"
+    "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-dead.html"
   ],
   [
-    "family",
+    "killed",
     19,
-    "https://www.nytimes.com/2026/06/21/upshot/remote-work-parents-mothers.html"
+    "https://www.theguardian.com/politics/2026/jun/22/who-andy-burnham-likely-next-uk-prime-minister"
   ],
   [
-    "greenspan",
+    "summer",
     19,
-    "https://www.nytimes.com/2026/06/22/business/warsh-greenspan-federal-reserve.html"
-  ],
-  [
-    "reflecting",
-    19,
-    "https://www.washingtonpost.com/nation/2026/06/20/cyclist-arrested-reflecting-pool-denies-trump-vandalism-claims/"
+    "https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40"
   ],
   [
     "don",
@@ -116,129 +111,149 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40"
   ],
   [
-    "london",
+    "career",
     19,
-    "https://www.theguardian.com/politics/2026/jun/22/who-andy-burnham-likely-next-uk-prime-minister"
+    "https://www.theguardian.com/music/2026/jun/22/clive-davis-appreciation"
   ],
   [
-    "media",
-    19,
-    "https://www.theguardian.com/politics/2026/jun/22/who-andy-burnham-likely-next-uk-prime-minister"
-  ],
-  [
-    "past",
+    "war",
     18,
-    "https://www.nytimes.com/2026/06/22/well/family/gray-divorce-empty-shell-marriage.html"
+    "https://www.nytimes.com/video/us/politics/100000010969459/iran-strait-hormuz-mines-shipping.html"
   ],
   [
-    "latest",
+    "voters",
     18,
-    "https://www.nytimes.com/2026/06/22/business/media/hot-ones-sean-evans-netflix.html"
+    "https://www.nytimes.com/2026/06/22/us/politics/federal-citizenship-database-voting.html"
   ],
   [
-    "guide",
+    "judge",
     18,
-    "https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40"
+    "https://www.nytimes.com/2026/06/22/us/politics/federal-citizenship-database-voting.html"
   ],
   [
-    "government",
+    "administration",
     18,
-    "https://www.theguardian.com/politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation"
+    "https://www.nytimes.com/2026/06/22/us/politics/federal-citizenship-database-voting.html"
   ],
   [
-    "summer",
+    "team",
     18,
-    "https://www.theguardian.com/us-news/2026/jun/22/what-happened-dc-reflecting-pool-vandalism-arrest-algae"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "food",
+    "california",
     18,
-    "https://www.theguardian.com/commentisfree/2026/jun/22/keir-starmer-prime-minister-resignation-labour-andy-burnham"
+    "https://www.theguardian.com/us-news/2026/jun/22/judge-trump-lawsuit-los-angeles-sanctuary-city"
+  ],
+  [
+    "death",
+    18,
+    "https://www.theguardian.com/us-news/2026/jun/22/us-hiv-aids-funding-cuts-activism"
+  ],
+  [
+    "vance",
+    17,
+    "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html"
   ],
   [
     "talks",
     17,
-    "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html"
+    "https://www.nytimes.com/2026/06/22/world/middleeast/us-iran-oil-sanctions.html"
   ],
   [
-    "war",
+    "reflecting",
     17,
-    "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html"
+    "https://www.nytimes.com/2026/06/22/us/politics/trump-reflecting-pool-blame.html"
   ],
   [
-    "voters",
+    "working",
     17,
-    "https://www.nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html"
+    "https://www.nytimes.com/2026/06/21/upshot/remote-work-parents-mothers.html"
   ],
   [
-    "series",
+    "family",
     17,
-    "https://www.nytimes.com/2026/06/22/business/media/hot-ones-sean-evans-netflix.html"
+    "https://www.nytimes.com/2026/06/21/upshot/remote-work-parents-mothers.html"
   ],
   [
-    "fans",
+    "greenspan",
+    17,
+    "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/"
+  ],
+  [
+    "london",
     17,
     "https://www.theguardian.com/politics/2026/jun/22/who-andy-burnham-likely-next-uk-prime-minister"
   ],
   [
-    "far",
+    "power",
     17,
-    "https://www.theguardian.com/film/2026/jun/22/writers-on-their-favourite-lgbtq-movie-characters"
+    "https://www.theguardian.com/politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation"
   ],
   [
-    "games",
+    "record",
     17,
-    "https://www.theguardian.com/football/2026/jun/22/argentina-austria-world-cup-group-j-match-report"
+    "https://www.theguardian.com/football/2026/jun/22/lionel-messi-breaks-men-world-cup-record-becomes-all-time-leading-scorer"
   ],
   [
-    "burnham",
+    "york",
     16,
-    "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html"
+    "https://www.nytimes.com/2026/06/22/us/politics/new-york-primaries-preview.html"
   ],
   [
-    "davis",
+    "past",
     16,
-    "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-dead.html"
+    "https://www.nytimes.com/2026/06/22/well/family/gray-divorce-empty-shell-marriage.html"
+  ],
+  [
+    "food",
+    16,
+    "https://www.nytimes.com/2026/06/22/us/politics/judge-ruling-food-stamps-sugary-drinks.html"
+  ],
+  [
+    "died",
+    16,
+    "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-songs.html"
   ],
   [
     "fire",
     16,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/06/22/us/los-angeles-warehouse-fire-boyle-heights.html"
   ],
   [
-    "final",
+    "far",
     16,
-    "https://www.theguardian.com/politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation"
+    "https://www.theguardian.com/film/2026/jun/22/writers-on-their-favourite-lgbtq-movie-characters"
+  ],
+  [
+    "guide",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40"
   ],
   [
     "something",
     16,
-    "https://www.theguardian.com/us-news/2026/jun/22/mississippi-boy-shooting"
+    "https://www.theguardian.com/music/2026/jun/22/clive-davis-appreciation"
   ],
   [
-    "review",
-    16,
-    "https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump"
-  ],
-  [
-    "mayor",
+    "million",
     15,
-    "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html"
+    "https://www.nytimes.com/2026/06/22/us/politics/trump-reflecting-pool-blame.html"
   ],
   [
-    "early",
+    "clive",
     15,
-    "https://www.nytimes.com/2026/06/22/us/politics/bill-pulte-firings-national-intelligence.html"
+    "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-dead.html"
   ],
   [
-    "police",
+    "start",
     15,
-    "https://www.nytimes.com/2026/06/22/nyregion/new-jersey-state-trooper-murder-couple.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "alan",
+    "love",
     15,
-    "https://www.nytimes.com/2026/06/22/business/warsh-greenspan-federal-reserve.html"
+    "https://www.theguardian.com/film/2026/jun/22/writers-on-their-favourite-lgbtq-movie-characters"
   ],
   [
     "filter",
@@ -246,69 +261,69 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40"
   ],
   [
-    "health",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40"
-  ],
-  [
-    "career",
-    15,
-    "https://www.theguardian.com/music/2026/jun/22/clive-davis-appreciation"
-  ],
-  [
-    "williams",
-    15,
-    "https://www.theguardian.com/music/2026/jun/22/clive-davis-appreciation"
-  ],
-  [
-    "tested",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/19/best-bluetooth-speakers"
-  ],
-  [
-    "party",
-    14,
-    "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html"
-  ],
-  [
-    "supreme",
-    14,
-    "https://www.nytimes.com/2026/06/22/us/politics/etan-patz-pedro-hernandez.html"
-  ],
-  [
-    "york",
-    14,
-    "https://www.nytimes.com/2026/06/22/us/politics/new-york-primaries-preview.html"
-  ],
-  [
-    "power",
-    14,
-    "https://www.nytimes.com/2026/06/22/opinion/brexit-britain-europe-power.html"
-  ],
-  [
-    "campaign",
-    14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "weekly",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40"
-  ],
-  [
     "buying",
-    14,
+    15,
     "https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40"
   ],
   [
     "book",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40"
+  ],
+  [
+    "shooting",
+    15,
+    "https://www.theguardian.com/world/2026/jun/23/canada-montreal-shooting-gunman-three-killed-suspect-police-cote-des-neiges"
+  ],
+  [
+    "american",
+    15,
+    "https://www.theguardian.com/business/2026/jun/22/alan-greenspan-obituary"
+  ],
+  [
+    "games",
+    15,
+    "https://www.theguardian.com/football/2026/jun/22/usmnt-alex-zendejas-world-cup"
+  ],
+  [
+    "john",
+    14,
+    "https://www.nytimes.com/video/us/politics/100000010969459/iran-strait-hormuz-mines-shipping.html"
+  ],
+  [
+    "burnham",
+    14,
+    "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html"
+  ],
+  [
+    "health",
     14,
     "https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40"
   ],
   [
-    "states",
+    "final",
     14,
-    "https://www.theguardian.com/world/2026/jun/22/us-death-penalty-50-years"
+    "https://www.theguardian.com/politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation"
+  ],
+  [
+    "match",
+    14,
+    "https://www.theguardian.com/football/2026/jun/22/lionel-messi-breaks-men-world-cup-record-becomes-all-time-leading-scorer"
+  ],
+  [
+    "faces",
+    14,
+    "https://www.theguardian.com/media/2026/jun/22/abc-fcc-investigations"
+  ],
+  [
+    "review",
+    14,
+    "https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump"
+  ],
+  [
+    "sleep",
+    14,
+    "https://www.theguardian.com/environment/2026/jun/23/taiwan-giant-trees-tested-climate-crisis-threat-heaven-sword-of-the-daan-river-aoe"
   ],
   [
     "company",
@@ -316,63 +331,48 @@
     "https://www.theguardian.com/music/2026/jun/22/clive-davis-appreciation"
   ],
   [
-    "record",
-    14,
-    "https://www.theguardian.com/music/2026/jun/22/clive-davis-appreciation"
-  ],
-  [
-    "argentina",
-    14,
-    "https://www.theguardian.com/football/2026/jun/22/argentina-austria-world-cup-group-j-match-report"
-  ],
-  [
-    "john",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jun/22/keir-starmer-prime-minister-resignation-labour-andy-burnham"
-  ],
-  [
     "film",
     14,
-    "https://www.theguardian.com/film/2026/jun/22/bridesmaids-feelgood-movie"
+    "https://www.theguardian.com/books/2026/jun/23/lost-memoir-of-hiroshima-survivor-found-after-decades-in-us-archive"
   ],
   [
-    "que",
-    14,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/argentina-reacciona-a-su-victoria-contra-austria-y-el-record-historico-de-messi-tmvo13196427"
-  ],
-  [
-    "died",
+    "officer",
     13,
-    "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-songs.html"
+    "https://www.nytimes.com/video/us/politics/100000010969459/iran-strait-hormuz-mines-shipping.html"
   ],
   [
-    "million",
+    "british",
+    13,
+    "https://www.nytimes.com/2026/06/23/world/europe/uk-brexit-seasonal-farm-workers-central-asia.html"
+  ],
+  [
+    "alan",
+    13,
+    "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/"
+  ],
+  [
+    "spent",
+    13,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "inside",
     13,
     "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "air",
+    "early",
     13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "everything",
+    "latest",
     13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "least",
+    "mexico",
     13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "fewer",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40"
-  ],
-  [
-    "board",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/22/workout-fitness-over-40"
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ]
 ];
