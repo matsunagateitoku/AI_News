@@ -3,144 +3,138 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 24,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/22/barron-kai-trump-yerba-mate-energy-drink-review",
+      "count": 31,
+      "url": "https://www.theguardian.com/us-news/2026/jun/22/judge-trump-lawsuit-los-angeles-sanctuary-city",
       "source": "The Guardian"
     },
     {
+      "name": "Actuación De Lionel Messi",
+      "count": 16,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/el-analisis-experto-es-para-la-sublime-actuacion-de-lionel-messi-tmvo13196574",
+      "source": "NBC News"
+    },
+    {
       "name": "Aretha Franklin       Clive Davis",
-      "count": 19,
+      "count": 13,
       "url": "https://www.theguardian.com/music/2026/jun/22/clive-davis-appreciation",
       "source": "The Guardian"
     },
     {
-      "name": "Keir Starmer Resigns",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html",
+      "name": "Brexit",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html",
       "source": "NY Times"
     },
     {
-      "name": "Alan Greenspan",
-      "count": 17,
-      "url": "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Messi",
-      "count": 17,
-      "url": "https://www.theguardian.com/football/2026/jun/22/lionel-messi-breaks-men-world-cup-record-becomes-all-time-leading-scorer",
+      "name": "Rip Alan Greenspan",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/23/alan-greenspan-federal-reserve",
       "source": "The Guardian"
     },
     {
       "name": "Vance Leads",
-      "count": 9,
+      "count": 10,
       "url": "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html",
       "source": "NY Times"
     },
     {
-      "name": "Andy Burnham",
+      "name": "Keir Starmer",
       "count": 9,
-      "url": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Jd Vance",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html",
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html",
       "source": "NY Times"
     },
     {
       "name": "Mbappé",
       "count": 8,
-      "url": "https://www.theguardian.com/football/2026/jun/23/france-iraq-world-cup-group-i-match-report",
+      "url": "https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo",
       "source": "The Guardian"
     },
     {
-      "name": "Victoria De Noruega",
-      "count": 8,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/messi-hace-historia-mbappe-acecha-y-haaland-no-perdona-tmvo13196515",
-      "source": "NBC News"
+      "name": "Jd Vance",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "count": 7,
+      "url": "https://www.foxnews.com/politics/tale-two-parties-mamdani-trump-political-clout-line-four-states-hold-primaries",
+      "source": "Fox News"
     }
   ],
-  "GPE": [
+  "ORG": [
     {
-      "name": "Us",
+      "name": "Nato Manages An Unpredictable Trump",
       "count": 49,
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/mark-rutte-nato-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Reverse Centaur’S Guide To Life After Ai",
+      "count": 16,
+      "url": "https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Eu",
+      "count": 15,
+      "url": "https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian",
+      "count": 15,
+      "url": "https://www.theguardian.com/politics/2026/jun/23/majority-gen-z-britons-new-vote-rejoin-eu-poll-finds",
+      "source": "The Guardian"
+    },
+    {
+      "name": "N.Y. House",
+      "count": 12,
+      "url": "https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Un Salto Imponente Para Conectar",
+      "count": 11,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/por-fin-anoto-argelia-gol-de-nadhir-benbouali-rescata-el-empate-ante-jordania-tmvo13196551",
+      "source": "NBC News"
+    },
+    {
+      "name": "Us Senate",
+      "count": 9,
       "url": "https://www.theguardian.com/us-news/2026/jun/22/us-senate-housing-bill",
       "source": "The Guardian"
     },
     {
-      "name": "Iran",
-      "count": 45,
-      "url": "https://www.nytimes.com/2026/06/22/world/middleeast/us-iran-oil-sanctions.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 28,
-      "url": "https://www.nytimes.com/2026/06/22/world/middleeast/us-iran-oil-sanctions.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/judge-trump-lawsuit-los-angeles-sanctuary-city",
+      "name": "Amazon",
+      "count": 8,
+      "url": "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-deals-sales-2026",
       "source": "The Guardian"
     },
     {
-      "name": "The City Of London",
-      "count": 15,
-      "url": "https://www.theguardian.com/books/2026/jun/21/m-john-harrison-if-we-met-a-real-alien-wed-have-no-clue-what-they-thought",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New Mexico",
-      "count": 13,
-      "url": "https://www.foxnews.com/entertainment/county-singer-bailey-zimmerman-faces-felony-criminal-charge-allegedly-trashing-new-mexico-hotel-room",
-      "source": "Fox News"
-    },
-    {
-      "name": "L.A.",
-      "count": 12,
-      "url": "https://www.latimes.com/california/story/2026-06-22/boyle-heights-storage-fire",
+      "name": "Fifa",
+      "count": 8,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-06-22/fox-pivots-to-partial-ads-during-world-cup-hydration-breaks",
       "source": "LA Times"
-    },
-    {
-      "name": "Montreal",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/jun/23/canada-montreal-shooting-gunman-three-killed-suspect-police-cote-des-neiges",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/jun/20/texas-spacex-musk-beach-environmentalists",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uk",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html",
-      "source": "NY Times"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 42,
+      "count": 40,
       "url": "https://www.latimes.com/sports/soccer/story/2026-06-21/iran-right-fifa-united-states-world-cup-hosts",
       "source": "LA Times"
     },
     {
-      "name": "The World Cup    Merlin’S",
-      "count": 14,
-      "url": "https://www.theguardian.com/football/2026/jun/22/merlin-the-duck-unruffled-after-meeting-president-of-mexico-claudia-sheinbaum",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Us Open",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/jun/22/inside-wyndham-clark-lonely-us-open-coronation-golf",
+      "name": "The World Cup",
+      "count": 11,
+      "url": "https://www.theguardian.com/football/2026/jun/23/algeria-jordan-world-cup-group-j-match-report",
       "source": "The Guardian"
     },
     {
@@ -150,9 +144,21 @@
       "source": "The Guardian"
     },
     {
-      "name": "The World Cup’S",
+      "name": "The Iran War",
       "count": 3,
-      "url": "https://www.theguardian.com/football/2026/jun/22/lionel-messi-breaks-men-world-cup-record-becomes-all-time-leading-scorer",
+      "url": "https://www.theguardian.com/us-news/video/2026/jun/22/iran-world-covid-stateside",
+      "source": "The Guardian"
+    },
+    {
+      "name": "This World Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/football/2026/jun/23/senegal-norway-world-cup-group-i-match-report",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Us Open",
+      "count": 3,
+      "url": "https://www.theguardian.com/sport/2026/jun/22/inside-wyndham-clark-lonely-us-open-coronation-golf",
       "source": "The Guardian"
     },
     {
@@ -162,91 +168,85 @@
       "source": "Politico"
     },
     {
-      "name": "This World Cup",
+      "name": "World Cup 2026",
       "count": 2,
-      "url": "https://www.theguardian.com/football/2026/jun/23/senegal-norway-world-cup-group-i-match-report",
+      "url": "https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo",
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
+      "name": "Primary Day",
       "count": 1,
-      "url": "https://www.theguardian.com/us-news/video/2026/jun/22/iran-world-covid-stateside",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/06/12/nyregion/new-york-primary-elections-how-when-vote.html",
+      "source": "NY Times"
     },
     {
-      "name": "The 1967 Monterey Pop Festival",
+      "name": "Revolution",
       "count": 1,
-      "url": "https://www.theguardian.com/music/2026/jun/22/clive-davis-appreciation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Summer Of Love",
-      "count": 1,
-      "url": "https://www.theguardian.com/music/2026/jun/22/clive-davis-appreciation",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/06/22/magazine/america-founders-history-usa-250th-anniversary.html",
+      "source": "NY Times"
     }
   ],
-  "ORG": [
+  "GPE": [
     {
-      "name": "Trump White House",
-      "count": 57,
-      "url": "https://thehill.com/homenews/administration/5935079-carville-leaks-trump-administration/",
-      "source": "The Hill"
-    },
-    {
-      "name": "The Reverse Centaur’S Guide To Life After Ai",
-      "count": 15,
-      "url": "https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence",
+      "name": "Us",
+      "count": 54,
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/darren-sharper-registers-sex-offender-virginia",
       "source": "The Guardian"
     },
     {
-      "name": "The Filter Us",
-      "count": 14,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
+      "name": "Iran",
+      "count": 45,
+      "url": "https://www.nytimes.com/2026/06/23/world/middleeast/iran-control-strait-of-hormuz.html",
+      "source": "NY Times"
     },
     {
-      "name": "Guardian",
-      "count": 10,
-      "url": "https://www.theguardian.com/film/2026/jun/22/writers-on-their-favourite-lgbtq-movie-characters",
-      "source": "The Guardian"
+      "name": "U.S.",
+      "count": 30,
+      "url": "https://www.nytimes.com/2026/06/23/world/americas/venezuela-oil-delcy-rodriguez-trump.html",
+      "source": "NY Times"
     },
     {
-      "name": "Us Senate",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/us-senate-housing-bill",
-      "source": "The Guardian"
+      "name": "Disgruntled Britain",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html",
+      "source": "NY Times"
     },
     {
-      "name": "Fifa",
-      "count": 9,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-06-22/fox-pivots-to-partial-ads-during-world-cup-hydration-breaks",
-      "source": "LA Times"
-    },
-    {
-      "name": "Eu",
-      "count": 8,
+      "name": "Uk",
+      "count": 16,
       "url": "https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat",
       "source": "The Guardian"
     },
     {
-      "name": "The Supreme Court",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump",
+      "name": "California",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/jun/22/judge-trump-lawsuit-los-angeles-sanctuary-city",
       "source": "The Guardian"
     },
     {
-      "name": "Amazon",
-      "count": 7,
-      "url": "https://www.theguardian.com/thefilter-us/2026/jun/18/best-early-amazon-prime-deals-sales",
-      "source": "The Guardian"
+      "name": "France",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/06/22/weather/europe-heat-dome.html",
+      "source": "NY Times"
     },
     {
-      "name": "Un",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel",
+      "name": "L.A.",
+      "count": 14,
+      "url": "https://www.latimes.com/california/story/2026-06-22/boyle-heights-storage-fire",
+      "source": "LA Times"
+    },
+    {
+      "name": "New York City",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/06/22/nyregion/nyc-early-voting.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "London",
+      "count": 10,
+      "url": "https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-06-23T05:06:34Z"
+  "updated": "2026-06-23T10:38:10Z"
 };
