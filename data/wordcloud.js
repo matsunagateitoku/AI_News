@@ -2,48 +2,78 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    92,
-    "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html"
+    66,
+    "https://www.nytimes.com/2026/06/23/business/economy/teamsters-justice-sean-obrien.html"
   ],
   [
     "cup",
-    61,
-    "https://www.theguardian.com/football/video/2026/jun/23/messi-in-a-class-of-his-own-and-rain-stops-play-in-philadelphia-world-cup-daily"
+    63,
+    "https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo"
   ],
   [
     "iran",
-    48,
-    "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html"
+    42,
+    "https://www.nytimes.com/2026/06/23/business/iran-war-africa-farming.html"
   ],
   [
     "president",
-    48,
-    "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html"
+    37,
+    "https://www.nytimes.com/2026/06/23/business/economy/teamsters-justice-sean-obrien.html"
+  ],
+  [
+    "prime",
+    34,
+    "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html"
+  ],
+  [
+    "court",
+    29,
+    "https://www.nytimes.com/2026/06/23/podcasts/the-headlines/supreme-court-sewage-surveillance.html"
+  ],
+  [
+    "team",
+    27,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "heat",
+    25,
+    "https://www.nytimes.com/2026/06/23/weather/europe-extreme-heat-wave-warning.html"
   ],
   [
     "pool",
-    26,
+    23,
     "https://www.nytimes.com/2026/06/22/us/politics/trump-reflecting-pool-blame.html"
-  ],
-  [
-    "los",
-    24,
-    "https://www.theguardian.com/us-news/2026/jun/22/judge-trump-lawsuit-los-angeles-sanctuary-city"
   ],
   [
     "game",
     23,
-    "https://www.theguardian.com/football/2026/jun/23/thomas-tuchel-england-ghana-world-cup-defence-improve"
+    "https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa"
+  ],
+  [
+    "family",
+    22,
+    "https://www.theguardian.com/us-news/2026/jun/23/gun-violence-homicide-siblings"
+  ],
+  [
+    "something",
+    21,
+    "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-patti-smith.html"
+  ],
+  [
+    "los",
+    21,
+    "https://www.latimes.com/sports/soccer/story/2026-06-23/pacific-northwest-joins-los-angeles-in-embrace-of-world-cup-fever"
   ],
   [
     "war",
-    22,
-    "https://www.nytimes.com/2026/06/23/business/economy/gasoline-demand-destruction.html"
+    20,
+    "https://www.nytimes.com/2026/06/23/business/iran-war-africa-farming.html"
   ],
   [
-    "heat",
-    22,
-    "https://www.nytimes.com/2026/06/23/climate/europe-heat-wave-protective-measures.html"
+    "case",
+    20,
+    "https://www.nytimes.com/2026/06/23/world/europe/scotland-peter-murrell-nicola-sturgeon-scottish-national-party.html"
   ],
   [
     "fans",
@@ -51,84 +81,49 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-deals-sales-2026"
   ],
   [
-    "american",
+    "music",
     20,
-    "https://www.theguardian.com/world/live/2026/jun/23/iran-us-israel-lebanon-un-peace-deal-nuclear-iaea-frozen-assets-strait-of-hormuz-latest-news-updates"
+    "https://www.theguardian.com/music/2026/jun/23/dj-alok-dance-music-sustainable-rave-the-world-tour"
   ],
   [
-    "court",
+    "britain",
     19,
-    "https://www.nytimes.com/2026/06/23/podcasts/the-headlines/supreme-court-sewage-surveillance.html"
+    "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html"
   ],
   [
     "york",
     19,
-    "https://www.nytimes.com/2026/06/22/nyregion/nyc-early-voting.html"
+    "https://www.nytimes.com/2026/06/23/nyregion/ny-primaries-what-to-know.html"
+  ],
+  [
+    "minister",
+    18,
+    "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html"
+  ],
+  [
+    "europe",
+    18,
+    "https://www.nytimes.com/2026/06/23/weather/europe-extreme-heat-wave-warning.html"
+  ],
+  [
+    "california",
+    18,
+    "https://www.theguardian.com/us-news/2026/jun/23/chico-library-shooting-northern-california"
+  ],
+  [
+    "south",
+    17,
+    "https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html"
   ],
   [
     "reflecting",
-    19,
+    17,
     "https://www.nytimes.com/2026/06/22/us/politics/trump-reflecting-pool-blame.html"
   ],
   [
-    "team",
-    19,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
     "government",
-    19,
-    "https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat"
-  ],
-  [
-    "country",
-    18,
-    "https://www.nytimes.com/2026/06/23/world/middleeast/iran-control-strait-of-hormuz.html"
-  ],
-  [
-    "britain",
-    18,
-    "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html"
-  ],
-  [
-    "prime",
-    18,
-    "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html"
-  ],
-  [
-    "vote",
-    18,
-    "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html"
-  ],
-  [
-    "film",
-    18,
-    "https://www.theguardian.com/film/2026/jun/23/toy-story-5-women-millennial-nostalgia-tech-girls"
-  ],
-  [
-    "messi",
-    18,
-    "https://www.theguardian.com/football/video/2026/jun/23/messi-in-a-class-of-his-own-and-rain-stops-play-in-philadelphia-world-cup-daily"
-  ],
-  [
-    "vance",
     17,
-    "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html"
-  ],
-  [
-    "early",
-    17,
-    "https://www.nytimes.com/2026/06/22/nyregion/nyc-early-voting.html"
-  ],
-  [
-    "record",
-    17,
-    "https://www.nytimes.com/2026/06/22/weather/europe-heat-dome.html"
-  ],
-  [
-    "something",
-    17,
-    "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-patti-smith.html"
+    "https://www.nytimes.com/2026/06/23/us/skin-substitutes-medicare-fraud.html"
   ],
   [
     "fire",
@@ -136,199 +131,174 @@
     "https://www.nytimes.com/2026/06/23/arts/television/late-night-trump-greenwater.html"
   ],
   [
+    "london",
+    17,
+    "https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat"
+  ],
+  [
     "don",
     17,
-    "https://www.theguardian.com/film/2026/jun/23/toy-story-5-women-millennial-nostalgia-tech-girls"
+    "https://www.theguardian.com/music/2026/jun/23/dj-alok-dance-music-sustainable-rave-the-world-tour"
   ],
   [
-    "summer",
+    "film",
     17,
-    "https://www.theguardian.com/global-development/2026/jun/23/taliban-new-marriage-law-afghanistan-families-daughters-abusive-relationships"
+    "https://www.theguardian.com/us-news/2026/jun/23/boeing-documentary-whistleblower-rory-kennedy-interview"
   ],
   [
-    "music",
-    17,
-    "https://www.theguardian.com/music/2026/jun/23/america-the-beautiful-song-min-kwon"
-  ],
-  [
-    "won",
-    17,
-    "https://www.theguardian.com/sport/2026/jun/22/inside-wyndham-clark-lonely-us-open-coronation-golf"
-  ],
-  [
-    "del",
-    17,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/mbappe-aprovecha-grave-error-de-irak-y-llega-a-16-goles-en-copas-del-mundo-tmvo13196461"
-  ],
-  [
-    "crisis",
+    "supreme",
     16,
-    "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/"
-  ],
-  [
-    "love",
-    16,
-    "https://www.theguardian.com/news/2026/jun/23/navigating-the-unknown-together-me-and-my-idiot-ai-boyfriend"
-  ],
-  [
-    "family",
-    16,
-    "https://www.theguardian.com/world/2026/jun/23/monika-silva-koniuszek-ecuador-president-family-business"
-  ],
-  [
-    "company",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/22/trump-administration-news-latest-updates"
-  ],
-  [
-    "california",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/22/judge-trump-lawsuit-los-angeles-sanctuary-city"
-  ],
-  [
-    "south",
-    15,
-    "https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html"
+    "https://www.nytimes.com/2026/06/23/podcasts/the-headlines/supreme-court-sewage-surveillance.html"
   ],
   [
     "brexit",
+    16,
+    "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html"
+  ],
+  [
+    "air",
+    16,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "players",
+    16,
+    "https://www.theguardian.com/football/2026/jun/23/france-iraq-world-cup-group-i-match-report"
+  ],
+  [
+    "que",
+    16,
+    "https://www.cbsnews.com/video/jim-parsons-titanque/"
+  ],
+  [
+    "food",
+    15,
+    "https://www.nytimes.com/2026/06/23/business/iran-war-africa-farming.html"
+  ],
+  [
+    "vote",
     15,
     "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html"
   ],
   [
-    "final",
+    "crisis",
     15,
-    "https://www.nytimes.com/2026/06/23/us/politics/supreme-court-trump-major-cases.html"
+    "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/"
   ],
   [
-    "sleep",
+    "love",
     15,
-    "https://www.theguardian.com/environment/2026/jun/23/taiwan-giant-trees-tested-climate-crisis-threat-heaven-sword-of-the-daan-river-aoe"
+    "https://www.theguardian.com/us-news/2026/jun/23/donald-trump-reflecting-pool-metaphor"
   ],
   [
-    "power",
+    "deals",
     15,
-    "https://www.theguardian.com/politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation"
+    "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-deals-sales-2026"
   ],
   [
-    "police",
+    "book",
     15,
-    "https://www.theguardian.com/world/2026/jun/23/canada-montreal-shooting-gunman-three-killed-suspect-police-cote-des-neiges"
-  ],
-  [
-    "talks",
-    15,
-    "https://www.theguardian.com/world/live/2026/jun/23/iran-us-israel-lebanon-un-peace-deal-nuclear-iaea-frozen-assets-strait-of-hormuz-latest-news-updates"
-  ],
-  [
-    "guide",
-    15,
-    "https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo"
-  ],
-  [
-    "far",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/22/trump-administration-news-latest-updates"
-  ],
-  [
-    "school",
-    15,
-    "https://www.theguardian.com/football/2026/jun/23/senegal-norway-world-cup-group-i-match-report"
+    "https://www.theguardian.com/commentisfree/2026/jun/23/jd-vance-memoir-communion-finding-my-way-back-to-faith-concentrate-on-day-job"
   ],
   [
     "review",
     15,
-    "https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump"
+    "https://www.theguardian.com/commentisfree/2026/jun/23/jd-vance-memoir-communion-finding-my-way-back-to-faith-concentrate-on-day-job"
   ],
   [
-    "america",
-    14,
-    "https://www.nytimes.com/2026/06/23/business/economy/gasoline-demand-destruction.html"
+    "died",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/23/gun-violence-homicide-siblings"
   ],
   [
-    "europe",
+    "soccer",
+    15,
+    "https://www.latimes.com/sports/soccer/story/2026-06-22/u-s-soccer-players-vibes-are-high-during-world-cup-workouts"
+  ],
+  [
+    "del",
+    15,
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/mbappe-aprovecha-grave-error-de-irak-y-llega-a-16-goles-en-copas-del-mundo-tmvo13196461"
+  ],
+  [
+    "tech",
     14,
     "https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html"
   ],
   [
-    "davis",
+    "country",
     14,
-    "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-patti-smith.html"
-  ],
-  [
-    "dead",
-    14,
-    "https://www.theguardian.com/world/2026/jun/23/canada-montreal-shooting-gunman-three-killed-suspect-police-cote-des-neiges"
-  ],
-  [
-    "because",
-    14,
-    "https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/22/trump-administration-news-latest-updates"
-  ],
-  [
-    "judge",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/22/judge-trump-lawsuit-los-angeles-sanctuary-city"
-  ],
-  [
-    "administration",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/22/judge-trump-lawsuit-los-angeles-sanctuary-city"
-  ],
-  [
-    "match",
-    14,
-    "https://www.theguardian.com/football/2026/jun/23/algeria-jordan-world-cup-group-j-match-report"
-  ],
-  [
-    "working",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jun/23/leave-eu-european-union-brexit-10-years"
-  ],
-  [
-    "food",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jun/23/leave-eu-european-union-brexit-10-years"
-  ],
-  [
-    "water",
-    13,
-    "https://www.nytimes.com/2026/06/23/world/middleeast/iran-control-strait-of-hormuz.html"
+    "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html"
   ],
   [
     "starmer",
-    13,
+    14,
     "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html"
   ],
   [
     "economic",
-    13,
+    14,
     "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html"
   ],
   [
+    "different",
+    14,
+    "https://www.nytimes.com/2026/06/23/opinion/florida-politics-midterms-governors-race.html"
+  ],
+  [
+    "future",
+    14,
+    "https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat"
+  ],
+  [
     "place",
-    13,
-    "https://www.nytimes.com/2026/06/12/nyregion/new-york-primary-elections-how-when-vote.html"
+    14,
+    "https://www.theguardian.com/news/2026/jun/23/navigating-the-unknown-together-me-and-my-idiot-ai-boyfriend"
   ],
   [
-    "france",
-    13,
-    "https://www.nytimes.com/2026/06/22/weather/europe-heat-dome.html"
+    "always",
+    14,
+    "https://www.theguardian.com/news/2026/jun/23/navigating-the-unknown-together-me-and-my-idiot-ai-boyfriend"
   ],
   [
-    "running",
+    "record",
+    14,
+    "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets"
+  ],
+  [
+    "health",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/23/new-trump-book-regime-change"
+  ],
+  [
+    "dead",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/23/boeing-documentary-whistleblower-rory-kennedy-interview"
+  ],
+  [
+    "messi",
+    14,
+    "https://www.theguardian.com/football/2026/jun/22/argentinian-national-treasure-lionel-messi-world-cup-goal-record"
+  ],
+  [
+    "prison",
     13,
-    "https://www.nytimes.com/2026/06/23/opinion/moreno-warren-social-security.html"
+    "https://www.nytimes.com/2026/06/23/us/politics/supreme-court-inmates-dreadlocks.html"
   ],
   [
     "name",
     13,
-    "https://www.nytimes.com/2026/06/23/arts/television/late-night-trump-greenwater.html"
+    "https://www.nytimes.com/2026/06/23/arts/music/kennedy-center-trump-name-photos-tarps.html"
+  ],
+  [
+    "street",
+    13,
+    "https://www.nytimes.com/2026/06/23/us/subpoenas-wall-street-journal-washington-post.html"
+  ],
+  [
+    "france",
+    13,
+    "https://www.nytimes.com/2026/06/23/weather/europe-extreme-heat-wave-warning.html"
   ],
   [
     "campaign",
@@ -336,43 +306,73 @@
     "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "inside",
+    "despite",
     13,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "tested",
+    "amazon",
     13,
     "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-deals-sales-2026"
   ],
   [
-    "filter",
+    "because",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-deals-sales-2026"
+    "https://www.theguardian.com/commentisfree/2026/jun/23/jd-vance-memoir-communion-finding-my-way-back-to-faith-concentrate-on-day-job"
   ],
   [
-    "always",
+    "star",
     13,
-    "https://www.theguardian.com/news/2026/jun/23/navigating-the-unknown-together-me-and-my-idiot-ai-boyfriend"
+    "https://www.theguardian.com/commentisfree/2026/jun/23/jd-vance-memoir-communion-finding-my-way-back-to-faith-concentrate-on-day-job"
   ],
   [
-    "little",
+    "tournament",
     13,
-    "https://www.theguardian.com/film/2026/jun/23/toy-story-5-women-millennial-nostalgia-tech-girls"
+    "https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo"
   ],
   [
-    "office",
+    "guide",
     13,
-    "https://www.theguardian.com/politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation"
+    "https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo"
   ],
   [
-    "faces",
+    "summer",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/23/new-york-democratic-primaries"
+    "https://www.theguardian.com/global-development/2026/jun/23/taliban-new-marriage-law-afghanistan-families-daughters-abusive-relationships"
   ],
   [
-    "full",
+    "fifa",
     13,
-    "https://www.theguardian.com/world/live/2026/jun/23/iran-us-israel-lebanon-un-peace-deal-nuclear-iaea-frozen-assets-strait-of-hormuz-latest-news-updates"
+    "https://www.theguardian.com/football/2026/jun/23/fifa-leadership-overruled-us-based-staff-opposing-world-cup-dynamic-pricing"
+  ],
+  [
+    "pro",
+    13,
+    "https://www.theguardian.com/sport/2026/jun/23/nba-draft-2026-predictions-a-consensus-at-no-1-and-a-rising-mexican-star"
+  ],
+  [
+    "american",
+    13,
+    "https://www.theguardian.com/sport/2026/jun/22/inside-wyndham-clark-lonely-us-open-coronation-golf"
+  ],
+  [
+    "buying",
+    12,
+    "https://www.nytimes.com/2026/06/23/world/europe/scotland-peter-murrell-nicola-sturgeon-scottish-national-party.html"
+  ],
+  [
+    "past",
+    12,
+    "https://www.nytimes.com/2026/06/22/magazine/america-founders-history-usa-250th-anniversary.html"
+  ],
+  [
+    "leading",
+    12,
+    "https://www.nytimes.com/2026/06/23/business/economy/teamsters-justice-sean-obrien.html"
+  ],
+  [
+    "green",
+    12,
+    "https://www.nytimes.com/2026/06/22/us/politics/trump-reflecting-pool-blame.html"
   ]
 ];

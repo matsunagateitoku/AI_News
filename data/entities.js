@@ -3,156 +3,144 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 31,
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/judge-trump-lawsuit-los-angeles-sanctuary-city",
+      "count": 20,
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/donald-trump-reflecting-pool-metaphor",
       "source": "The Guardian"
     },
     {
+      "name": "Brexit",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Keir Starmer",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Actuación De Lionel Messi",
-      "count": 16,
+      "count": 12,
       "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/el-analisis-experto-es-para-la-sublime-actuacion-de-lionel-messi-tmvo13196574",
       "source": "NBC News"
     },
     {
       "name": "Aretha Franklin       Clive Davis",
-      "count": 13,
+      "count": 11,
       "url": "https://www.theguardian.com/music/2026/jun/22/clive-davis-appreciation",
       "source": "The Guardian"
     },
     {
-      "name": "Brexit",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Rip Alan Greenspan",
-      "count": 11,
+      "count": 8,
       "url": "https://www.theguardian.com/commentisfree/2026/jun/23/alan-greenspan-federal-reserve",
       "source": "The Guardian"
     },
     {
-      "name": "Vance Leads",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html",
-      "source": "NY Times"
+      "name": "Vance Touts Negotiations",
+      "count": 8,
+      "url": "https://www.today.com/video/trump-defends-iran-concessions-as-vance-touts-negotiations-265526853780",
+      "source": "NBC News"
     },
     {
-      "name": "Keir Starmer",
-      "count": 9,
+      "name": "Mbappé",
+      "count": 7,
+      "url": "https://www.theguardian.com/football/2026/jun/23/france-iraq-world-cup-group-i-match-report",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Andy Burnham",
+      "count": 6,
       "url": "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html",
       "source": "NY Times"
     },
     {
-      "name": "Mbappé",
-      "count": 8,
-      "url": "https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jd Vance",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Zohran Mamdani",
-      "count": 7,
-      "url": "https://www.foxnews.com/politics/tale-two-parties-mamdani-trump-political-clout-line-four-states-hold-primaries",
-      "source": "Fox News"
+      "name": "Marco Rubio",
+      "count": 6,
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
     }
   ],
-  "ORG": [
+  "GPE": [
     {
-      "name": "Nato Manages An Unpredictable Trump",
-      "count": 49,
-      "url": "https://www.nytimes.com/2026/06/23/world/europe/mark-rutte-nato-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Reverse Centaur’S Guide To Life After Ai",
-      "count": 16,
-      "url": "https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence",
+      "name": "Us",
+      "count": 53,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/23/jd-vance-memoir-communion-finding-my-way-back-to-faith-concentrate-on-day-job",
       "source": "The Guardian"
     },
     {
-      "name": "Eu",
-      "count": 15,
+      "name": "Iran",
+      "count": 41,
+      "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 38,
+      "url": "https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Britain",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 17,
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/chico-library-shooting-northern-california",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 16,
       "url": "https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat",
       "source": "The Guardian"
     },
     {
-      "name": "Guardian",
-      "count": 15,
-      "url": "https://www.theguardian.com/politics/2026/jun/23/majority-gen-z-britons-new-vote-rejoin-eu-poll-finds",
+      "name": "London",
+      "count": 14,
+      "url": "https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat",
       "source": "The Guardian"
     },
     {
-      "name": "N.Y. House",
+      "name": "France",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/06/23/weather/europe-extreme-heat-wave-warning.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/23/air-pollution-clean-up-london-new-york-sadiq-khan-michael-bloomberg",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A.",
       "count": 12,
-      "url": "https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Un Salto Imponente Para Conectar",
-      "count": 11,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/por-fin-anoto-argelia-gol-de-nadhir-benbouali-rescata-el-empate-ante-jordania-tmvo13196551",
-      "source": "NBC News"
-    },
-    {
-      "name": "Us Senate",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/us-senate-housing-bill",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Amazon",
-      "count": 8,
-      "url": "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-deals-sales-2026",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Fifa",
-      "count": 8,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-06-22/fox-pivots-to-partial-ads-during-world-cup-hydration-breaks",
+      "url": "https://www.latimes.com/california/story/2026-06-22/boyle-heights-storage-fire",
       "source": "LA Times"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 40,
+      "count": 45,
       "url": "https://www.latimes.com/sports/soccer/story/2026-06-21/iran-right-fifa-united-states-world-cup-hosts",
       "source": "LA Times"
     },
     {
       "name": "The World Cup",
-      "count": 11,
-      "url": "https://www.theguardian.com/football/2026/jun/23/algeria-jordan-world-cup-group-j-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Wimbledon",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/jun/21/serena-williams-wimbledon-singles-comeback-handed-wildcard-tennis",
+      "count": 12,
+      "url": "https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa",
       "source": "The Guardian"
     },
     {
       "name": "The Iran War",
       "count": 3,
-      "url": "https://www.theguardian.com/us-news/video/2026/jun/22/iran-world-covid-stateside",
-      "source": "The Guardian"
-    },
-    {
-      "name": "This World Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/football/2026/jun/23/senegal-norway-world-cup-group-i-match-report",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/23/jd-vance-memoir-communion-finding-my-way-back-to-faith-concentrate-on-day-job",
       "source": "The Guardian"
     },
     {
@@ -174,9 +162,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "Primary Day",
+      "name": "The Iran War’S Persistent Threat To Farmers In Poor Countries",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/06/12/nyregion/new-york-primary-elections-how-when-vote.html",
+      "url": "https://www.nytimes.com/2026/06/23/business/iran-war-africa-farming.html",
       "source": "NY Times"
     },
     {
@@ -184,69 +172,81 @@
       "count": 1,
       "url": "https://www.nytimes.com/2026/06/22/magazine/america-founders-history-usa-250th-anniversary.html",
       "source": "NY Times"
+    },
+    {
+      "name": "World Cup Group",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/jun/23/julian-alvarez-sparks-transfer-frenzy-by-telling-atletico-madrid-he-wants-to-leave",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Game Developers Conference",
+      "count": 1,
+      "url": "https://www.theguardian.com/games/2026/jun/17/xbox-games-studios-developers-firing-line",
+      "source": "The Guardian"
     }
   ],
-  "GPE": [
+  "ORG": [
     {
-      "name": "Us",
-      "count": 54,
-      "url": "https://www.theguardian.com/us-news/2026/jun/23/darren-sharper-registers-sex-offender-virginia",
+      "name": "Trump Defends Iran Concessions",
+      "count": 34,
+      "url": "https://www.today.com/video/trump-defends-iran-concessions-as-vance-touts-negotiations-265526853780",
+      "source": "NBC News"
+    },
+    {
+      "name": "The Reverse Centaur’S Guide To Life After Ai",
+      "count": 19,
+      "url": "https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence",
       "source": "The Guardian"
     },
     {
-      "name": "Iran",
-      "count": 45,
-      "url": "https://www.nytimes.com/2026/06/23/world/middleeast/iran-control-strait-of-hormuz.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 30,
-      "url": "https://www.nytimes.com/2026/06/23/world/americas/venezuela-oil-delcy-rodriguez-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Disgruntled Britain",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 16,
-      "url": "https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/judge-trump-lawsuit-los-angeles-sanctuary-city",
-      "source": "The Guardian"
-    },
-    {
-      "name": "France",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/06/22/weather/europe-heat-dome.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A.",
-      "count": 14,
-      "url": "https://www.latimes.com/california/story/2026-06-22/boyle-heights-storage-fire",
-      "source": "LA Times"
-    },
-    {
-      "name": "New York City",
+      "name": "Eu",
       "count": 13,
-      "url": "https://www.nytimes.com/2026/06/22/nyregion/nyc-early-voting.html",
+      "url": "https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fifa",
+      "count": 12,
+      "url": "https://www.theguardian.com/football/2026/jun/23/fifa-leadership-overruled-us-based-staff-opposing-world-cup-dynamic-pricing",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Amazon",
+      "count": 11,
+      "url": "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-deals-sales-2026",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/ransom-note-nancy-guthrie-dead",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Un Salto Imponente Para Conectar",
+      "count": 9,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/por-fin-anoto-argelia-gol-de-nadhir-benbouali-rescata-el-empate-ante-jordania-tmvo13196551",
+      "source": "NBC News"
+    },
+    {
+      "name": "Supreme Court Rejects Lawsuit Claiming Cisco Systems Helped",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/supreme-court-cisco-falun-gong.html",
       "source": "NY Times"
     },
     {
-      "name": "London",
-      "count": 10,
-      "url": "https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat",
+      "name": "Mlb",
+      "count": 8,
+      "url": "https://www.theguardian.com/sport/2026/jun/23/manfred-defends-mlbs-response-to-bible-verses-on-players-pride-caps",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-06-23T10:38:10Z"
+  "updated": "2026-06-23T15:54:12Z"
 };
