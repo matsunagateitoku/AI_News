@@ -2,203 +2,228 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    96,
-    "https://www.nytimes.com/2026/06/23/us/trump-reflecting-pool-green-peeling.html"
+    86,
+    "https://www.nytimes.com/2026/06/23/us/politics/congress-housing-bill.html"
+  ],
+  [
+    "primary",
+    54,
+    "https://www.nytimes.com/2026/06/23/nyregion/schlossberg-loses-camelot.html"
   ],
   [
     "cup",
-    65,
-    "https://www.theguardian.com/football/live/2026/jun/23/england-v-ghana-world-cup-2026-live"
-  ],
-  [
-    "iran",
-    57,
-    "https://www.nytimes.com/2026/06/23/us/politics/senate-trump-war-powers-iran.html"
-  ],
-  [
-    "president",
-    42,
-    "https://www.nytimes.com/2026/06/23/arts/music/kennedy-center-trump-name-photos-tarps.html"
-  ],
-  [
-    "prime",
-    34,
-    "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-streaming-deals-apple-tv-hbo-max"
-  ],
-  [
-    "war",
-    32,
-    "https://www.nytimes.com/2026/06/23/us/politics/senate-trump-war-powers-iran.html"
-  ],
-  [
-    "court",
-    28,
-    "https://www.nytimes.com/2026/06/23/us/politics/supreme-court-inmates-dreadlocks.html"
+    52,
+    "https://www.theguardian.com/football/live/2026/jun/24/fifa-world-cup-2026-live-colombia-v-dr-congo-updates-col-vs-cod-group-k-match-score-latest"
   ],
   [
     "york",
+    48,
+    "https://www.theguardian.com/us-news/2026/jun/23/new-york-primary-results-house"
+  ],
+  [
+    "democratic",
+    44,
+    "https://www.nytimes.com/2026/06/23/nyregion/schlossberg-loses-camelot.html"
+  ],
+  [
+    "iran",
+    36,
+    "https://www.nytimes.com/2026/06/23/us/politics/trump-iran-talks-contradictions.html"
+  ],
+  [
+    "district",
+    33,
+    "https://www.nytimes.com/2026/06/23/us/politics/nancy-lacore-nancy-mace-south-carolina-house-democrats.html"
+  ],
+  [
+    "president",
+    33,
+    "https://www.nytimes.com/2026/06/23/us/politics/congress-housing-bill.html"
+  ],
+  [
+    "backed",
+    30,
+    "https://www.nytimes.com/2026/06/23/well/live/ivf-fertility-treatment-study.html"
+  ],
+  [
+    "rep",
+    30,
+    "https://www.foxnews.com/politics/biden-appointee-crushes-comeback-bid-billionaire-wine-mogul-david-trone"
+  ],
+  [
+    "prime",
+    29,
+    "https://www.nytimes.com/2026/06/23/style/hot-podium-guy-uk-starmer-prime-minister.html"
+  ],
+  [
+    "war",
     26,
-    "https://www.theguardian.com/us-news/2026/jun/23/new-york-lawmaker-cafe-banned-pro-israel-view"
+    "https://www.nytimes.com/2026/06/23/us/politics/senate-trump-war-powers-iran.html"
   ],
   [
     "game",
-    24,
-    "https://www.theguardian.com/football/2026/jun/23/portugal-uzbekistan-world-cup-group-k-match-report"
+    26,
+    "https://www.theguardian.com/football/live/2026/jun/24/fifa-world-cup-2026-live-colombia-v-dr-congo-updates-col-vs-cod-group-k-match-score-latest"
   ],
   [
     "pool",
-    23,
+    24,
     "https://www.nytimes.com/2026/06/23/us/trump-reflecting-pool-green-peeling.html"
   ],
   [
     "team",
-    23,
+    24,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "family",
-    22,
-    "https://www.theguardian.com/football/live/2026/jun/23/england-v-ghana-world-cup-2026-live"
+    "win",
+    23,
+    "https://www.nytimes.com/2026/06/23/nyregion/schlossberg-loses-camelot.html"
   ],
   [
-    "senate",
+    "mamdani",
+    23,
+    "https://www.theguardian.com/us-news/2026/jun/23/new-york-primary-results-house"
+  ],
+  [
+    "los",
+    23,
+    "https://www.latimes.com/california/story/2026-06-23/lahsa-cancels-contracts-with-nonprofit-says-irs-seized-cash-from-address-linked-to-its-founder"
+  ],
+  [
+    "congressional",
     21,
     "https://www.nytimes.com/2026/06/23/us/politics/senate-trump-war-powers-iran.html"
   ],
   [
-    "fifa",
-    20,
-    "https://www.theguardian.com/football/2026/jun/23/commentator-loses-world-cup-credentials-after-calling-infantino-and-referee-thieves"
-  ],
-  [
-    "administration",
-    19,
-    "https://www.nytimes.com/2026/06/23/us/politics/supreme-court-cuba-exxon.html"
-  ],
-  [
-    "country",
-    19,
-    "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html"
-  ],
-  [
-    "music",
-    19,
-    "https://www.theguardian.com/music/2026/jun/23/america-the-beautiful-song-min-kwon"
-  ],
-  [
-    "health",
-    18,
-    "https://www.theguardian.com/us-news/2026/jun/23/new-trump-book-regime-change"
-  ],
-  [
-    "name",
-    17,
-    "https://www.nytimes.com/2026/06/23/arts/music/kennedy-center-trump-name-photos-tarps.html"
-  ],
-  [
-    "south",
-    17,
-    "https://www.nytimes.com/2026/06/23/us/politics/trump-refugee-program-whites.html"
-  ],
-  [
-    "deals",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-streaming-deals-apple-tv-hbo-max"
-  ],
-  [
-    "fans",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-deals-sales-2026"
-  ],
-  [
-    "california",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/jun/23/alan-greenspan-federal-reserve"
-  ],
-  [
-    "reflecting",
-    16,
-    "https://www.nytimes.com/2026/06/23/us/trump-reflecting-pool-green-peeling.html"
-  ],
-  [
-    "tech",
-    16,
-    "https://www.nytimes.com/2026/06/23/business/economy/china-megafactory-us-tech-race.html"
-  ],
-  [
-    "minister",
-    16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "donald",
-    16,
+    "won",
+    21,
     "https://www.theguardian.com/commentisfree/2026/jun/23/trump-iran-victory-rationale"
   ],
   [
-    "killed",
-    16,
-    "https://www.theguardian.com/world/2026/jun/23/israel-deliberately-targeting-gaza-children-to-commit-genocide-un-inquiry-finds"
-  ],
-  [
-    "died",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/23/gun-violence-homicide-siblings"
-  ],
-  [
-    "don",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/jun/23/best-alternatives-prime-day-deals-sales"
+    "games",
+    21,
+    "https://www.theguardian.com/football/2026/jun/24/colombia-dr-congo-world-cup-group-k-match-report"
   ],
   [
     "review",
-    16,
-    "https://www.theguardian.com/film/2026/jun/23/how-to-live-on-earth-review-benedict-cumberbatch-climate-crisis"
+    20,
+    "https://www.theguardian.com/commentisfree/2026/jun/23/jd-vance-memoir-communion-finding-my-way-back-to-faith-concentrate-on-day-job"
   ],
   [
-    "heat",
-    16,
-    "https://www.theguardian.com/sport/2026/jun/23/giannis-antetokounmpo-miami-heat-trade-milwaukee-bucks-blockbuster"
+    "family",
+    20,
+    "https://www.theguardian.com/global-development/2026/jun/23/taliban-new-marriage-law-afghanistan-families-daughters-abusive-relationships"
   ],
   [
-    "los",
-    16,
-    "https://www.latimes.com/entertainment-arts/story/2026-06-23/james-handy-accused-killer-mentally-incompetent-for-trial"
+    "wins",
+    18,
+    "https://www.nytimes.com/2026/06/23/us/politics/nancy-lacore-nancy-mace-south-carolina-house-democrats.html"
   ],
   [
-    "prison",
-    15,
+    "south",
+    18,
+    "https://www.nytimes.com/2026/06/23/us/politics/nancy-lacore-nancy-mace-south-carolina-house-democrats.html"
+  ],
+  [
+    "bill",
+    18,
+    "https://www.nytimes.com/2026/06/23/us/politics/congress-housing-bill.html"
+  ],
+  [
+    "court",
+    18,
     "https://www.nytimes.com/2026/06/23/us/politics/supreme-court-inmates-dreadlocks.html"
   ],
   [
-    "summer",
-    15,
-    "https://www.washingtonpost.com/nation/2026/06/23/alleged-antifa-members-texas-get-maximum-sentences-ice-protest/"
+    "don",
+    18,
+    "https://www.theguardian.com/global-development/2026/jun/23/taliban-new-marriage-law-afghanistan-families-daughters-abusive-relationships"
   ],
   [
-    "games",
-    15,
-    "https://www.theguardian.com/football/live/2026/jun/23/england-v-ghana-world-cup-2026-live"
+    "love",
+    17,
+    "https://www.nytimes.com/2026/06/23/opinion/trump-meloni-america-cringe.html"
+  ],
+  [
+    "colombia",
+    17,
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
     "film",
+    17,
+    "https://www.theguardian.com/film/2026/jun/23/toy-story-5-women-millennial-nostalgia-tech-girls"
+  ],
+  [
+    "judge",
+    16,
+    "https://www.nytimes.com/2026/06/23/arts/music/kennedy-center-trump-name-photos-tarps.html"
+  ],
+  [
+    "fire",
+    16,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "seat",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/may/17/best-back-pain-products"
+  ],
+  [
+    "projected",
+    16,
+    "https://www.cbsnews.com/live-updates/new-york-primary-elections-2026-live-updates/"
+  ],
+  [
+    "campaign",
     15,
-    "https://www.theguardian.com/film/2026/jun/23/how-to-live-on-earth-review-benedict-cumberbatch-climate-crisis"
+    "https://www.nytimes.com/2026/06/23/nyregion/schlossberg-loses-camelot.html"
   ],
   [
-    "tournament",
+    "country",
     15,
-    "https://www.theguardian.com/football/2026/jun/23/portugal-uzbekistan-world-cup-group-k-match-report"
-  ],
-  [
-    "america",
-    14,
-    "https://www.nytimes.com/2026/06/23/us/politics/trump-refugee-program-whites.html"
-  ],
-  [
-    "together",
-    14,
     "https://www.nytimes.com/2026/06/23/us/politics/south-africa-refugees-welcome-bags.html"
+  ],
+  [
+    "donald",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/23/trump-iran-victory-rationale"
+  ],
+  [
+    "fans",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-deals-sales-2026"
+  ],
+  [
+    "music",
+    15,
+    "https://www.theguardian.com/music/2026/jun/24/pain-oscar-winning-singer-camille-triple-album-motherhood"
+  ],
+  [
+    "del",
+    15,
+    "https://www.foxnews.com/politics/pelosi-backed-democrat-loses-after-10m-flood-crypto-pro-israel-money"
+  ],
+  [
+    "election",
+    14,
+    "https://www.nytimes.com/2026/06/23/us/politics/nancy-lacore-nancy-mace-south-carolina-house-democrats.html"
+  ],
+  [
+    "reflecting",
+    14,
+    "https://www.nytimes.com/2026/06/23/us/trump-reflecting-pool-green-peeling.html"
+  ],
+  [
+    "name",
+    14,
+    "https://www.nytimes.com/2026/06/23/arts/music/kennedy-center-trump-name-photos-tarps.html"
+  ],
+  [
+    "decision",
+    14,
+    "https://www.nytimes.com/2026/06/23/us/politics/supreme-court-cisco-falun-gong.html"
   ],
   [
     "book",
@@ -206,9 +231,14 @@
     "https://www.nytimes.com/2026/06/23/us/politics/south-africa-refugees-welcome-bags.html"
   ],
   [
-    "love",
+    "california",
     14,
-    "https://www.nytimes.com/2026/06/23/opinion/trump-meloni-america-cringe.html"
+    "https://www.nytimes.com/2026/06/23/us/ice-arrests-immigration-courts-california.html"
+  ],
+  [
+    "latest",
+    14,
+    "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html"
   ],
   [
     "start",
@@ -216,34 +246,39 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "guide",
+    "mayor",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-streaming-deals-apple-tv-hbo-max"
+    "https://www.theguardian.com/us-news/2026/jun/23/new-york-primary-results-house"
   ],
   [
-    "won",
+    "race",
     14,
-    "https://www.theguardian.com/commentisfree/2026/jun/23/trump-iran-victory-rationale"
+    "https://www.theguardian.com/us-news/2026/jun/23/new-york-primary-results-house"
+  ],
+  [
+    "killed",
+    14,
+    "https://www.theguardian.com/world/2026/jun/23/israel-deliberately-targeting-gaza-children-to-commit-genocide-un-inquiry-finds"
+  ],
+  [
+    "congo",
+    14,
+    "https://www.theguardian.com/football/live/2026/jun/24/fifa-world-cup-2026-live-colombia-v-dr-congo-updates-col-vs-cod-group-k-match-score-latest"
   ],
   [
     "american",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/23/trump-dc-reflecting-pool-repair-july-fourth"
+    "https://www.theguardian.com/us-news/2026/jun/23/reflecting-pool-arrest-washington-dc"
   ],
   [
-    "office",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/23/new-trump-book-regime-change"
+    "administration",
+    13,
+    "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html"
   ],
   [
-    "something",
-    14,
-    "https://www.theguardian.com/film/2026/jun/23/how-to-live-on-earth-review-benedict-cumberbatch-climate-crisis"
-  ],
-  [
-    "dead",
-    14,
-    "https://www.theguardian.com/fashion/2026/jun/23/how-just-got-out-of-bed-look-took-over-fitness-pilates"
+    "deals",
+    13,
+    "https://www.nytimes.com/2026/06/23/us/politics/trump-iran-talks-contradictions.html"
   ],
   [
     "children",
@@ -251,128 +286,93 @@
     "https://www.nytimes.com/2026/06/23/us/politics/south-africa-refugees-welcome-bags.html"
   ],
   [
-    "amazon",
+    "tech",
+    13,
+    "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html"
+  ],
+  [
+    "little",
+    13,
+    "https://www.nytimes.com/2026/06/23/well/live/ivf-fertility-treatment-study.html"
+  ],
+  [
+    "summer",
+    13,
+    "https://www.washingtonpost.com/nation/2026/06/23/alleged-antifa-members-texas-get-maximum-sentences-ice-protest/"
+  ],
+  [
+    "crisis",
+    13,
+    "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/"
+  ],
+  [
+    "term",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "something",
+    13,
+    "https://www.theguardian.com/fashion/2026/jun/24/my-wild-week-wearing-new-wig-every-day-blond-pink-curly-cropped"
+  ],
+  [
+    "guide",
     13,
     "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-streaming-deals-apple-tv-hbo-max"
+  ],
+  [
+    "victory",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jun/23/trump-iran-victory-rationale"
+  ],
+  [
+    "fall",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/23/donald-trump-reflecting-pool-metaphor"
+  ],
+  [
+    "primaries",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/23/new-york-primary-results-house"
   ],
   [
     "match",
     13,
-    "https://www.theguardian.com/football/live/2026/jun/23/england-v-ghana-world-cup-2026-live"
+    "https://www.theguardian.com/football/2026/jun/24/croatia-panama-world-cup-2026-match-report"
   ],
   [
     "pro",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/23/new-york-lawmaker-cafe-banned-pro-israel-view"
+    "https://www.theguardian.com/thefilter-us/2026/jun/18/titanium-always-pan-pro-our-place-sale"
   ],
   [
-    "faces",
+    "cbs",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/23/new-york-lawmaker-cafe-banned-pro-israel-view"
+    "https://www.foxnews.com/media/stephen-colbert-late-show-writers-launch-consideration-campaign-emmys-after-cancellation"
   ],
   [
-    "food",
-    13,
-    "https://www.theguardian.com/film/2026/jun/23/how-to-live-on-earth-review-benedict-cumberbatch-climate-crisis"
-  ],
-  [
-    "miami",
-    13,
-    "https://www.theguardian.com/football/2026/jun/23/fifa-leadership-overruled-us-based-staff-opposing-world-cup-dynamic-pricing"
-  ],
-  [
-    "star",
-    13,
-    "https://www.theguardian.com/sport/2026/jun/23/giannis-antetokounmpo-miami-heat-trade-milwaukee-bucks-blockbuster"
-  ],
-  [
-    "judge",
+    "powerful",
     12,
-    "https://www.nytimes.com/2026/06/23/arts/music/kennedy-center-trump-name-photos-tarps.html"
+    "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html"
   ],
   [
-    "government",
+    "political",
     12,
-    "https://www.nytimes.com/2026/06/23/us/politics/supreme-court-cuba-exxon.html"
+    "https://www.nytimes.com/2026/06/23/world/europe/britain-brexit-legacy.html"
   ],
   [
-    "crisis",
+    "america",
     12,
-    "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/"
+    "https://www.nytimes.com/2026/06/23/us/politics/trump-refugee-program-whites.html"
   ],
   [
-    "israel",
+    "immigration",
     12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/06/23/us/ice-arrests-immigration-courts-california.html"
   ],
   [
-    "fire",
+    "minister",
     12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "latest",
-    12,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "filter",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-streaming-deals-apple-tv-hbo-max"
-  ],
-  [
-    "buying",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-streaming-deals-apple-tv-hbo-max"
-  ],
-  [
-    "place",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/jun/23/trump-iran-victory-rationale"
-  ],
-  [
-    "sale",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-deals-sales-2026"
-  ],
-  [
-    "final",
-    12,
-    "https://www.theguardian.com/football/2026/jun/23/donald-trump-to-present-world-cup-trophy-infantino"
-  ],
-  [
-    "army",
-    12,
-    "https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa"
-  ],
-  [
-    "far",
-    12,
-    "https://www.theguardian.com/world/2026/jun/23/canada-police-warn-copycat-attack-montreal-shooting"
-  ],
-  [
-    "davis",
-    12,
-    "https://www.theguardian.com/music/2026/jun/23/clive-davis-obituary"
-  ],
-  [
-    "soccer",
-    12,
-    "https://www.latimes.com/sports/soccer/story/2026-06-23/harvards-matt-freese-took-unusual-path-to-u-s-world-cup-lineup"
-  ],
-  [
-    "supreme",
-    11,
-    "https://www.nytimes.com/2026/06/23/us/politics/supreme-court-inmates-dreadlocks.html"
-  ],
-  [
-    "held",
-    11,
-    "https://www.nytimes.com/2026/06/23/us/politics/supreme-court-cisco-falun-gong.html"
-  ],
-  [
-    "inside",
-    11,
-    "https://www.nytimes.com/2026/06/23/us/politics/south-africa-refugees-welcome-bags.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ]
 ];
