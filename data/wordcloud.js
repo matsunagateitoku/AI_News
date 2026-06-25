@@ -2,148 +2,173 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    101,
-    "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-republicans-meeting.html"
+    112,
+    "https://www.nytimes.com/2026/06/24/briefing/trump-cancels-plans-to-sign-a-bipartisan-housing-bill.html"
   ],
   [
     "cup",
-    70,
-    "https://www.theguardian.com/football/live/2026/jun/24/switzerland-v-canada-world-cup-2026-live"
+    73,
+    "https://www.theguardian.com/football/2026/jun/25/mexico-czechia-world-cup-2026-match-report"
   ],
   [
     "president",
-    33,
+    43,
     "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-republicans-meeting.html"
   ],
   [
+    "game",
+    35,
+    "https://www.nytimes.com/2026/06/24/nyregion/democrats-unions-primaries-nyc.html"
+  ],
+  [
+    "iran",
+    31,
+    "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-gop-meeting-iran.html"
+  ],
+  [
+    "war",
+    31,
+    "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-gop-meeting-iran.html"
+  ],
+  [
     "prime",
-    33,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals"
+    31,
+    "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks"
   ],
   [
     "team",
     28,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "iran",
-    27,
-    "https://www.nytimes.com/2026/06/24/us/politics/republicans-iran.html"
-  ],
-  [
-    "york",
-    27,
-    "https://www.nytimes.com/2026/06/24/nyregion/new-york-primaries-congress-democrats.html"
-  ],
-  [
-    "deals",
-    27,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals"
-  ],
-  [
-    "game",
-    27,
-    "https://www.theguardian.com/us-news/2026/jun/24/gracie-the-giraffe-found-texas"
-  ],
-  [
-    "american",
-    25,
-    "https://www.theguardian.com/us-news/2026/jun/24/army-general-christopher-donahue-leaves"
-  ],
-  [
-    "bill",
-    24,
-    "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-republicans-meeting.html"
-  ],
-  [
-    "administration",
-    24,
-    "https://www.nytimes.com/2026/06/24/world/americas/cuba-economy-overhaul-communism-trump.html"
-  ],
-  [
-    "fans",
-    23,
-    "https://www.theguardian.com/culture/2026/jun/24/josh-johnson-daily-show-trump-ballroom-reflecting-pool"
-  ],
-  [
-    "housing",
-    22,
-    "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-republicans-meeting.html"
-  ],
-  [
-    "democratic",
-    22,
-    "https://www.nytimes.com/2026/06/24/nyregion/jewish-leaders-primary-reaction.html"
-  ],
-  [
-    "america",
-    22,
-    "https://www.theguardian.com/us-news/2026/jun/24/july-4-american-independence-eddie-glaude"
-  ],
-  [
-    "court",
-    21,
-    "https://www.nytimes.com/2026/06/24/us/politics/the-docket-supreme-court-monkey-business.html"
+    "https://www.nytimes.com/2026/06/24/nyregion/democrats-unions-primaries-nyc.html"
   ],
   [
     "los",
-    21,
-    "https://www.theguardian.com/football/2026/jun/24/usmnt-diverse-pathways-american-soccer-development-2026-world-cup"
+    28,
+    "https://www.theguardian.com/us-news/2026/jun/22/los-angeles-warehouse-fire-expainer"
   ],
   [
-    "family",
-    21,
-    "https://www.theguardian.com/us-news/2026/jun/24/louisiana-man-sickle-cell-functionally-cured"
+    "deals",
+    28,
+    "https://www.theguardian.com/thefilter-us/2026/jun/24/flaus-electric-flosser-prime-day-deal"
   ],
   [
-    "party",
-    20,
-    "https://www.nytimes.com/2026/06/24/us/politics/republicans-iran.html"
+    "american",
+    26,
+    "https://www.theguardian.com/us-news/video/2026/jun/24/american-project-eddie-glaude-jr-250-stateside-podcast"
   ],
   [
-    "country",
-    20,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "york",
+    25,
+    "https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html"
   ],
   [
     "match",
+    25,
+    "https://www.nytimes.com/2026/06/24/nyregion/democrats-unions-primaries-nyc.html"
+  ],
+  [
+    "family",
+    24,
+    "https://www.theguardian.com/us-news/2026/jun/23/gun-violence-homicide-siblings"
+  ],
+  [
+    "bill",
+    23,
+    "https://www.nytimes.com/2026/06/24/briefing/trump-cancels-plans-to-sign-a-bipartisan-housing-bill.html"
+  ],
+  [
+    "country",
+    23,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "play",
+    22,
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/25/what-training-my-chaotic-dog-taught-me-about-power-control-and-human-beings"
+  ],
+  [
+    "fans",
+    22,
+    "https://www.theguardian.com/football/2026/jun/25/mexico-czechia-world-cup-2026-match-report"
+  ],
+  [
+    "mexico",
+    21,
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  ],
+  [
+    "tech",
     20,
-    "https://www.theguardian.com/us-news/live/2026/jun/24/mamdani-new-york-primaries-midterms-democrats-republicans-trump-250-anniversary-politics-latest-updates"
+    "https://www.theguardian.com/news/audio/2026/jun/25/the-dawn-of-the-designer-baby-podcast"
   ],
   [
-    "health",
+    "administration",
+    20,
+    "https://www.theguardian.com/us-news/2026/jun/24/judge-kennedy-center-tarp"
+  ],
+  [
+    "california",
+    20,
+    "https://www.theguardian.com/us-news/2026/jun/24/chico-california-library-shooting"
+  ],
+  [
+    "america",
     19,
-    "https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html"
+    "https://www.nytimes.com/2026/06/24/opinion/nyc-election-primary-avila-chevalier-lander-valdez.html"
   ],
   [
-    "guide",
+    "place",
     19,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals"
-  ],
-  [
-    "love",
-    18,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals"
-  ],
-  [
-    "pro",
-    17,
-    "https://www.nytimes.com/2026/06/24/nyregion/jewish-leaders-primary-reaction.html"
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/25/what-training-my-chaotic-dog-taught-me-about-power-control-and-human-beings"
   ],
   [
     "company",
-    17,
-    "https://www.nytimes.com/2026/06/24/nyregion/dianna-russini-mike-vrabel-athletic-new-york-times.html"
+    19,
+    "https://www.theguardian.com/technology/2026/jun/24/elon-musk-trillionaire-spacex"
   ],
   [
-    "soccer",
-    17,
-    "https://www.theguardian.com/culture/2026/jun/24/josh-johnson-daily-show-trump-ballroom-reflecting-pool"
+    "data",
+    18,
+    "https://www.nytimes.com/2026/06/24/us/politics/trump-voter-rolls-data-ruling.html"
   ],
   [
-    "far",
+    "venezuela",
+    18,
+    "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks"
+  ],
+  [
+    "little",
     17,
-    "https://www.theguardian.com/football/live/2026/jun/24/bosnia-and-herzegovina-v-qatar-world-cup-2026-live"
+    "https://www.nytimes.com/2026/06/24/us/reflecting-pool-visitors.html"
+  ],
+  [
+    "power",
+    17,
+    "https://www.nytimes.com/2026/06/24/opinion/nyc-election-primary-avila-chevalier-lander-valdez.html"
+  ],
+  [
+    "win",
+    17,
+    "https://www.theguardian.com/football/2026/jun/25/mexico-czechia-world-cup-2026-match-report"
+  ],
+  [
+    "south",
+    17,
+    "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks"
+  ],
+  [
+    "guide",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/jun/24/flaus-electric-flosser-prime-day-deal"
+  ],
+  [
+    "amazon",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/jun/24/field-company-cast-iron"
+  ],
+  [
+    "primary",
+    16,
+    "https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html"
   ],
   [
     "congress",
@@ -151,89 +176,69 @@
     "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-republicans-meeting.html"
   ],
   [
-    "latest",
+    "military",
     16,
-    "https://www.nytimes.com/2026/06/24/weather/europe-extreme-heat-wave-warning.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "little",
+    "fire",
     16,
-    "https://www.nytimes.com/2026/06/24/us/reflecting-pool-visitors.html"
-  ],
-  [
-    "book",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/24/july-4-american-independence-eddie-glaude"
-  ],
-  [
-    "history",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/24/july-4-american-independence-eddie-glaude"
-  ],
-  [
-    "star",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals"
-  ],
-  [
-    "tech",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals"
-  ],
-  [
-    "army",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/24/army-general-christopher-donahue-leaves"
-  ],
-  [
-    "play",
-    16,
-    "https://www.theguardian.com/global/2026/jun/24/ageing-at-home-cost-renovations-tips"
-  ],
-  [
-    "del",
-    16,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/johan-manzambi-anota-el-2-0-para-suiza-que-toma-control-del-liderato-del-grupo-b-tmvo13197079"
-  ],
-  [
-    "start",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "war",
-    15,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "video",
-    15,
+    16,
     "https://www.theguardian.com/us-news/ng-interactive/2026/jun/24/prairieland-texas-ice-protests-zines"
   ],
   [
-    "states",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/24/july-4-american-independence-eddie-glaude"
+    "prices",
+    16,
+    "https://www.theguardian.com/us-news/2026/jun/24/trump-doj-investigation-oil-company-price-gouging"
   ],
   [
-    "review",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals"
+    "pro",
+    16,
+    "https://www.theguardian.com/us-news/2026/jun/24/big-tech-new-york-alex-bores-ai-spending"
   ],
   [
-    "judge",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/24/judge-kennedy-center-tarp"
+    "fifa",
+    16,
+    "https://www.theguardian.com/football/2026/jun/24/merlin-duck-mexico-world-cup"
   ],
   [
-    "name",
+    "party",
     15,
-    "https://www.theguardian.com/us-news/2026/jun/24/judge-kennedy-center-tarp"
+    "https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html"
   ],
   [
-    "place",
+    "support",
     15,
-    "https://www.theguardian.com/us-news/2026/jun/24/judge-kennedy-center-tarp"
+    "https://www.nytimes.com/2026/06/24/us/politics/new-york-elections-israel-support.html"
+  ],
+  [
+    "republican",
+    15,
+    "https://www.nytimes.com/2026/06/24/us/politics/republicans-iran.html"
+  ],
+  [
+    "air",
+    15,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "dog",
+    15,
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/25/what-training-my-chaotic-dog-taught-me-about-power-control-and-human-beings"
+  ],
+  [
+    "donald",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/24/ice-tech-surveillance-arsenal"
+  ],
+  [
+    "food",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/22/los-angeles-warehouse-fire-expainer"
   ],
   [
     "sale",
@@ -241,138 +246,133 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/24/flaus-electric-flosser-prime-day-deal"
   ],
   [
-    "prices",
-    14,
-    "https://www.nytimes.com/2026/06/24/business/housing-package-congress-midterms.html"
-  ],
-  [
-    "reflecting",
-    14,
-    "https://www.nytimes.com/2026/06/24/us/reflecting-pool-visitors.html"
-  ],
-  [
-    "pool",
-    14,
-    "https://www.nytimes.com/2026/06/24/us/reflecting-pool-visitors.html"
-  ],
-  [
-    "million",
-    14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "fire",
-    14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jun/24/andrew-tate-trump-relationship"
-  ],
-  [
     "filter",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals"
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/jun/24/flaus-electric-flosser-prime-day-deal"
   ],
   [
-    "water",
+    "far",
+    15,
+    "https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures"
+  ],
+  [
+    "europe",
     14,
-    "https://www.theguardian.com/science/2026/jun/24/nasa-rover-detects-potential-signatures-ancient-microbial-life-mars"
+    "https://www.nytimes.com/2026/06/24/briefing/trump-cancels-plans-to-sign-a-bipartisan-housing-bill.html"
+  ],
+  [
+    "democratic",
+    14,
+    "https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html"
+  ],
+  [
+    "campaign",
+    14,
+    "https://www.nytimes.com/2026/06/24/nyregion/democrats-unions-primaries-nyc.html"
+  ],
+  [
+    "taylor",
+    14,
+    "https://www.nytimes.com/2026/06/24/nyregion/taylor-swift-wedding-madison-square-garden.html"
+  ],
+  [
+    "senate",
+    14,
+    "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-gop-meeting-iran.html"
+  ],
+  [
+    "government",
+    14,
+    "https://www.nytimes.com/2026/06/24/us/politics/republicans-iran.html"
+  ],
+  [
+    "powerful",
+    14,
+    "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/"
+  ],
+  [
+    "book",
+    14,
+    "https://www.theguardian.com/books/2026/jun/25/armageddon-physicist-carlo-rovelli-nuclear-apocalypse"
   ],
   [
     "human",
     14,
-    "https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies"
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/25/what-training-my-chaotic-dog-taught-me-about-power-control-and-human-beings"
   ],
   [
-    "angeles",
+    "health",
+    14,
+    "https://www.theguardian.com/global/2026/jun/24/ageing-at-home-cost-renovations-tips"
+  ],
+  [
+    "night",
+    14,
+    "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks"
+  ],
+  [
+    "words",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/24/trump-doj-investigation-oil-company-price-gouging"
+  ],
+  [
+    "faces",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/23/chico-library-shooting-northern-california"
+  ],
+  [
+    "love",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/jun/24/flaus-electric-flosser-prime-day-deal"
+  ],
+  [
+    "review",
+    14,
+    "https://www.theguardian.com/film/2026/jun/24/supergirl-review-milly-alcock-eve-ridley"
+  ],
+  [
+    "soccer",
     14,
     "https://www.theguardian.com/football/2026/jun/24/usmnt-diverse-pathways-american-soccer-development-2026-world-cup"
   ],
   [
-    "food",
+    "star",
     14,
-    "https://www.theguardian.com/environment/2026/jun/23/iran-war-oil-prices-hormuz-el-nino-south-east-asia-impact"
+    "https://www.theguardian.com/sport/2026/jun/24/hammon-acknowledges-brunsons-greatness-but-wont-apologize-for-questioning-star"
   ],
   [
-    "amazon",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/field-company-cast-iron"
-  ],
-  [
-    "california",
-    14,
-    "https://www.latimes.com/entertainment-arts/story/2026-06-24/california-science-center-space-shuttle-endeavour-opening-date"
-  ],
-  [
-    "decades",
+    "latest",
     13,
-    "https://www.nytimes.com/2026/06/24/business/housing-package-congress-midterms.html"
+    "https://www.nytimes.com/2026/06/24/briefing/trump-cancels-plans-to-sign-a-bipartisan-housing-bill.html"
   ],
   [
-    "money",
+    "center",
     13,
-    "https://www.nytimes.com/2026/06/24/us/politics/new-york-primary-bores-lasher-ai.html"
+    "https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html"
   ],
   [
-    "france",
+    "states",
     13,
-    "https://www.nytimes.com/2026/06/24/weather/europe-extreme-heat-wave-warning.html"
+    "https://www.nytimes.com/2026/06/24/us/politics/new-york-elections-israel-support.html"
   ],
   [
-    "record",
+    "nato",
     13,
-    "https://www.nytimes.com/2026/06/24/weather/europe-extreme-heat-wave-warning.html"
+    "https://www.nytimes.com/2026/06/24/us/politics/nato-secretary-general-trump-meeting.html"
+  ],
+  [
+    "social",
+    13,
+    "https://www.nytimes.com/2026/06/25/opinion/ai-americans-pessimism.html"
   ],
   [
     "police",
     13,
-    "https://www.nytimes.com/2026/06/24/nyregion/nypd-corruption.html"
+    "https://www.nytimes.com/2026/06/25/us/suspect-in-kansas-city-shootings-found-dead-in-basement-police-say.html"
   ],
   [
-    "mexico",
+    "million",
     13,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "texas",
-    13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/24/prairieland-texas-ice-protests-zines"
-  ],
-  [
-    "children",
-    13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/24/prairieland-texas-ice-protests-zines"
-  ],
-  [
-    "black",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/24/july-4-american-independence-eddie-glaude"
-  ],
-  [
-    "buying",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals"
-  ],
-  [
-    "words",
-    13,
-    "https://www.theguardian.com/football/live/2026/jun/24/switzerland-v-canada-world-cup-2026-live"
-  ],
-  [
-    "murder",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/24/zizian-cult-murder-charge-michelle-zajko"
-  ],
-  [
-    "act",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/24/zizian-cult-murder-charge-michelle-zajko"
-  ],
-  [
-    "favorite",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/flaus-electric-flosser-prime-day-deal"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ]
 ];
