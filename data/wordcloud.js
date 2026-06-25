@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    112,
-    "https://www.nytimes.com/2026/06/24/briefing/trump-cancels-plans-to-sign-a-bipartisan-housing-bill.html"
+    96,
+    "https://www.nytimes.com/2026/06/25/world/middleeast/iraq-militias-state-control.html"
   ],
   [
     "cup",
-    73,
-    "https://www.theguardian.com/football/2026/jun/25/mexico-czechia-world-cup-2026-match-report"
+    66,
+    "https://www.theguardian.com/commentisfree/2026/jun/25/world-cup-big-sports-events-bring-us-together"
   ],
   [
     "president",
     43,
-    "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-republicans-meeting.html"
-  ],
-  [
-    "game",
-    35,
-    "https://www.nytimes.com/2026/06/24/nyregion/democrats-unions-primaries-nyc.html"
-  ],
-  [
-    "iran",
-    31,
-    "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-gop-meeting-iran.html"
-  ],
-  [
-    "war",
-    31,
-    "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-gop-meeting-iran.html"
+    "https://www.nytimes.com/2026/06/24/us/reflecting-pool-visitors.html"
   ],
   [
     "prime",
-    31,
+    34,
     "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks"
   ],
   [
-    "team",
-    28,
-    "https://www.nytimes.com/2026/06/24/nyregion/democrats-unions-primaries-nyc.html"
+    "iran",
+    33,
+    "https://www.nytimes.com/2026/06/25/business/strait-of-hormuz-iran-war.html"
+  ],
+  [
+    "game",
+    32,
+    "https://www.theguardian.com/us-news/2026/jun/24/gracie-the-giraffe-found-texas"
+  ],
+  [
+    "american",
+    31,
+    "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html"
+  ],
+  [
+    "deals",
+    29,
+    "https://www.theguardian.com/us-news/2026/jun/25/elizabeth-warren-trump-mergers"
   ],
   [
     "los",
     28,
-    "https://www.theguardian.com/us-news/2026/jun/22/los-angeles-warehouse-fire-expainer"
-  ],
-  [
-    "deals",
-    28,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/flaus-electric-flosser-prime-day-deal"
-  ],
-  [
-    "american",
-    26,
-    "https://www.theguardian.com/us-news/video/2026/jun/24/american-project-eddie-glaude-jr-250-stateside-podcast"
-  ],
-  [
-    "york",
-    25,
-    "https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html"
-  ],
-  [
-    "match",
-    25,
-    "https://www.nytimes.com/2026/06/24/nyregion/democrats-unions-primaries-nyc.html"
-  ],
-  [
-    "family",
-    24,
-    "https://www.theguardian.com/us-news/2026/jun/23/gun-violence-homicide-siblings"
-  ],
-  [
-    "bill",
-    23,
-    "https://www.nytimes.com/2026/06/24/briefing/trump-cancels-plans-to-sign-a-bipartisan-housing-bill.html"
+    "https://www.theguardian.com/football/2026/jun/25/south-africa-south-korea-world-cup-match-report"
   ],
   [
     "country",
-    23,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "play",
-    22,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/25/what-training-my-chaotic-dog-taught-me-about-power-control-and-human-beings"
-  ],
-  [
-    "fans",
-    22,
-    "https://www.theguardian.com/football/2026/jun/25/mexico-czechia-world-cup-2026-match-report"
-  ],
-  [
-    "mexico",
-    21,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "tech",
-    20,
-    "https://www.theguardian.com/news/audio/2026/jun/25/the-dawn-of-the-designer-baby-podcast"
+    25,
+    "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html"
   ],
   [
     "administration",
-    20,
-    "https://www.theguardian.com/us-news/2026/jun/24/judge-kennedy-center-tarp"
+    23,
+    "https://www.nytimes.com/2026/06/25/world/middleeast/iraq-militias-state-control.html"
+  ],
+  [
+    "war",
+    22,
+    "https://www.nytimes.com/2026/06/25/business/strait-of-hormuz-iran-war.html"
   ],
   [
     "california",
-    20,
+    21,
     "https://www.theguardian.com/us-news/2026/jun/24/chico-california-library-shooting"
   ],
   [
-    "america",
-    19,
-    "https://www.nytimes.com/2026/06/24/opinion/nyc-election-primary-avila-chevalier-lander-valdez.html"
-  ],
-  [
-    "place",
-    19,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/25/what-training-my-chaotic-dog-taught-me-about-power-control-and-human-beings"
-  ],
-  [
-    "company",
-    19,
-    "https://www.theguardian.com/technology/2026/jun/24/elon-musk-trillionaire-spacex"
-  ],
-  [
-    "data",
-    18,
-    "https://www.nytimes.com/2026/06/24/us/politics/trump-voter-rolls-data-ruling.html"
-  ],
-  [
     "venezuela",
-    18,
-    "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks"
-  ],
-  [
-    "little",
-    17,
-    "https://www.nytimes.com/2026/06/24/us/reflecting-pool-visitors.html"
-  ],
-  [
-    "power",
-    17,
-    "https://www.nytimes.com/2026/06/24/opinion/nyc-election-primary-avila-chevalier-lander-valdez.html"
-  ],
-  [
-    "win",
-    17,
-    "https://www.theguardian.com/football/2026/jun/25/mexico-czechia-world-cup-2026-match-report"
+    20,
+    "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html"
   ],
   [
     "south",
-    17,
-    "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks"
+    20,
+    "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html"
   ],
   [
-    "guide",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/flaus-electric-flosser-prime-day-deal"
+    "film",
+    20,
+    "https://www.theguardian.com/film/2026/jun/25/elaine-may-director-film-series"
   ],
   [
-    "amazon",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/field-company-cast-iron"
-  ],
-  [
-    "primary",
-    16,
-    "https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html"
-  ],
-  [
-    "congress",
-    16,
-    "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-republicans-meeting.html"
-  ],
-  [
-    "military",
-    16,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "fire",
-    16,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "america",
+    20,
+    "https://www.theguardian.com/us-news/2026/jun/25/elizabeth-warren-trump-mergers"
   ],
   [
     "video",
-    16,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/24/prairieland-texas-ice-protests-zines"
+    20,
+    "https://www.theguardian.com/us-news/2026/jun/24/trump-reflecting-pool-vandalism-evidence"
   ],
   [
-    "prices",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/24/trump-doj-investigation-oil-company-price-gouging"
+    "history",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/jun/25/world-cup-big-sports-events-bring-us-together"
   ],
   [
-    "pro",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/24/big-tech-new-york-alex-bores-ai-spending"
+    "little",
+    18,
+    "https://www.nytimes.com/2026/06/24/us/reflecting-pool-visitors.html"
   ],
   [
-    "fifa",
-    16,
-    "https://www.theguardian.com/football/2026/jun/24/merlin-duck-mexico-world-cup"
+    "military",
+    18,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "party",
-    15,
-    "https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html"
+    "mexico",
+    18,
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "support",
-    15,
-    "https://www.nytimes.com/2026/06/24/us/politics/new-york-elections-israel-support.html"
+    "power",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/jun/25/world-cup-big-sports-events-bring-us-together"
   ],
   [
-    "republican",
-    15,
-    "https://www.nytimes.com/2026/06/24/us/politics/republicans-iran.html"
+    "play",
+    18,
+    "https://www.theguardian.com/film/2026/jun/25/elaine-may-director-film-series"
   ],
   [
-    "air",
-    15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "dog",
-    15,
+    "place",
+    18,
     "https://www.theguardian.com/news/ng-interactive/2026/jun/25/what-training-my-chaotic-dog-taught-me-about-power-control-and-human-beings"
   ],
   [
-    "donald",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/24/ice-tech-surveillance-arsenal"
+    "win",
+    18,
+    "https://www.theguardian.com/us-news/2026/jun/24/trump-proof-citizenship-requirement-voting"
   ],
   [
-    "food",
+    "faces",
+    17,
+    "https://www.nytimes.com/2026/06/25/world/middleeast/iraq-militias-state-control.html"
+  ],
+  [
+    "team",
+    17,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "star",
+    17,
+    "https://www.theguardian.com/film/2026/jun/25/elaine-may-director-film-series"
+  ],
+  [
+    "children",
+    17,
+    "https://www.theguardian.com/film/2026/jun/25/bello-minions-speak-gen-alpha-language"
+  ],
+  [
+    "fans",
+    17,
+    "https://www.theguardian.com/football/2026/jun/24/merlin-duck-mexico-world-cup"
+  ],
+  [
+    "earthquakes",
+    16,
+    "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html"
+  ],
+  [
+    "love",
+    16,
+    "https://www.theguardian.com/film/2026/jun/25/elaine-may-director-film-series"
+  ],
+  [
+    "guide",
+    16,
+    "https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live"
+  ],
+  [
+    "games",
+    16,
+    "https://www.theguardian.com/sport/2026/jun/24/ioc-pay-olympic-athletes-10000-dollars"
+  ],
+  [
+    "bill",
+    16,
+    "https://www.theguardian.com/us-news/2026/jun/24/bill-gates-epstein-transcript"
+  ],
+  [
+    "amazon",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/jun/24/field-company-cast-iron"
+  ],
+  [
+    "senate",
+    16,
+    "https://www.npr.org/2026/06/25/nx-s1-5869577/trump-voting-save-america-act"
+  ],
+  [
+    "book",
     15,
-    "https://www.theguardian.com/us-news/2026/jun/22/los-angeles-warehouse-fire-expainer"
+    "https://www.nytimes.com/2026/06/25/us/texas-schools-book-list.html"
+  ],
+  [
+    "water",
+    15,
+    "https://www.theguardian.com/uk-news/ng-interactive/2026/jun/25/us-fighter-pilot-strangled-woman-england-why-military-trial"
   ],
   [
     "sale",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/flaus-electric-flosser-prime-day-deal"
+    "https://www.theguardian.com/film/2026/jun/25/elaine-may-director-film-series"
   ],
   [
-    "filter",
+    "players",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/flaus-electric-flosser-prime-day-deal"
+    "https://www.theguardian.com/us-news/2026/jun/25/elizabeth-warren-trump-mergers"
+  ],
+  [
+    "food",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/25/you-be-the-judge-partner-food-beard"
+  ],
+  [
+    "fifa",
+    15,
+    "https://www.theguardian.com/football/2026/jun/24/merlin-duck-mexico-world-cup"
+  ],
+  [
+    "general",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/25/france-charles-de-gaulle-film-free-france-nazi-occupation-politics"
+  ],
+  [
+    "pro",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/jun/24/best-prime-day-deals-sales-2026"
+  ],
+  [
+    "xico",
+    15,
+    "https://www.telemundo.com/deportes/el-pelotazo/video/memo-ochoa-se-lleva-la-noche-en-triunfo-de-mexico-el-pelotazo-tmvo13197268"
   ],
   [
     "far",
-    15,
-    "https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures"
-  ],
-  [
-    "europe",
     14,
-    "https://www.nytimes.com/2026/06/24/briefing/trump-cancels-plans-to-sign-a-bipartisan-housing-bill.html"
+    "https://www.nytimes.com/2026/06/25/business/federal-reserve-inflation-pce.html"
   ],
   [
-    "democratic",
+    "party",
     14,
     "https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html"
   ],
   [
-    "campaign",
+    "air",
     14,
-    "https://www.nytimes.com/2026/06/24/nyregion/democrats-unions-primaries-nyc.html"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "taylor",
+    "family",
     14,
-    "https://www.nytimes.com/2026/06/24/nyregion/taylor-swift-wedding-madison-square-garden.html"
+    "https://www.theguardian.com/film/2026/jun/25/elaine-may-director-film-series"
   ],
   [
-    "senate",
+    "tech",
     14,
-    "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-gop-meeting-iran.html"
+    "https://www.theguardian.com/us-news/2026/jun/24/ice-tech-surveillance-arsenal"
   ],
   [
-    "government",
+    "always",
     14,
-    "https://www.nytimes.com/2026/06/24/us/politics/republicans-iran.html"
+    "https://www.theguardian.com/sport/2026/jun/25/jaron-ennis-interview-philadelphia-boxing-xander-zayas"
+  ],
+  [
+    "filter",
+    14,
+    "https://www.theguardian.com/world/2026/jun/24/german-swimming-lake-heidesee-ban-non-german-speakers"
+  ],
+  [
+    "buying",
+    14,
+    "https://www.theguardian.com/environment/2026/jun/25/reality-life-cornwall-young-van-dwellers-priced-out-of-the-housing-market"
   ],
   [
     "powerful",
-    14,
-    "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/"
-  ],
-  [
-    "book",
-    14,
-    "https://www.theguardian.com/books/2026/jun/25/armageddon-physicist-carlo-rovelli-nuclear-apocalypse"
-  ],
-  [
-    "human",
-    14,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/25/what-training-my-chaotic-dog-taught-me-about-power-control-and-human-beings"
-  ],
-  [
-    "health",
-    14,
-    "https://www.theguardian.com/global/2026/jun/24/ageing-at-home-cost-renovations-tips"
-  ],
-  [
-    "night",
-    14,
-    "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks"
-  ],
-  [
-    "words",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/24/trump-doj-investigation-oil-company-price-gouging"
-  ],
-  [
-    "faces",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/23/chico-library-shooting-northern-california"
-  ],
-  [
-    "love",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/flaus-electric-flosser-prime-day-deal"
-  ],
-  [
-    "review",
-    14,
-    "https://www.theguardian.com/film/2026/jun/24/supergirl-review-milly-alcock-eve-ridley"
-  ],
-  [
-    "soccer",
-    14,
-    "https://www.theguardian.com/football/2026/jun/24/usmnt-diverse-pathways-american-soccer-development-2026-world-cup"
-  ],
-  [
-    "star",
-    14,
-    "https://www.theguardian.com/sport/2026/jun/24/hammon-acknowledges-brunsons-greatness-but-wont-apologize-for-questioning-star"
-  ],
-  [
-    "latest",
     13,
-    "https://www.nytimes.com/2026/06/24/briefing/trump-cancels-plans-to-sign-a-bipartisan-housing-bill.html"
+    "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html"
   ],
   [
-    "center",
+    "record",
     13,
-    "https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html"
+    "https://www.nytimes.com/2026/06/24/world/europe/europe-heat-wave-photos.html"
   ],
   [
-    "states",
+    "democratic",
     13,
-    "https://www.nytimes.com/2026/06/24/us/politics/new-york-elections-israel-support.html"
+    "https://www.nytimes.com/2026/06/25/nyregion/mamdani-hochul-new-york-elections.html"
   ],
   [
-    "nato",
+    "data",
     13,
-    "https://www.nytimes.com/2026/06/24/us/politics/nato-secretary-general-trump-meeting.html"
-  ],
-  [
-    "social",
-    13,
-    "https://www.nytimes.com/2026/06/25/opinion/ai-americans-pessimism.html"
-  ],
-  [
-    "police",
-    13,
-    "https://www.nytimes.com/2026/06/25/us/suspect-in-kansas-city-shootings-found-dead-in-basement-police-say.html"
+    "https://www.nytimes.com/2026/06/24/us/politics/trump-voter-rolls-data-ruling.html"
   ],
   [
     "million",
     13,
     "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "fire",
+    13,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "released",
+    13,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "latest",
+    13,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "company",
+    13,
+    "https://www.theguardian.com/film/2026/jun/25/elaine-may-director-film-series"
+  ],
+  [
+    "human",
+    13,
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/25/what-training-my-chaotic-dog-taught-me-about-power-control-and-human-beings"
+  ],
+  [
+    "don",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/25/you-be-the-judge-partner-food-beard"
+  ],
+  [
+    "review",
+    13,
+    "https://www.theguardian.com/film/2026/jun/25/chris-and-martina-the-final-set-review-tennis-titans-discuss-their-deep-bond-and-intense-rivalry"
+  ],
+  [
+    "watch",
+    13,
+    "https://www.theguardian.com/football/2026/jun/25/bangladesh-brazil-argentina-world-cup-fans"
+  ],
+  [
+    "match",
+    13,
+    "https://www.theguardian.com/football/2026/jun/24/merlin-duck-mexico-world-cup"
+  ],
+  [
+    "health",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jun/25/the-trump-administration-is-calling-frozen-embryos-children"
+  ],
+  [
+    "online",
+    13,
+    "https://www.theguardian.com/media/2026/jun/24/australia-under-16-social-media-ban-no-substantial-effects-study"
+  ],
+  [
+    "apple",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals"
+  ],
+  [
+    "price",
+    12,
+    "https://www.nytimes.com/2026/06/25/business/federal-reserve-inflation-pce.html"
+  ],
+  [
+    "pool",
+    12,
+    "https://www.nytimes.com/2026/06/24/us/reflecting-pool-visitors.html"
+  ],
+  [
+    "york",
+    12,
+    "https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html"
   ]
 ];
