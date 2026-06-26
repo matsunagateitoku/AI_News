@@ -2,63 +2,58 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    71,
-    "https://www.nytimes.com/2026/06/26/us/politics/supreme-court-trump-tps.html"
+    65,
+    "https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html"
   ],
   [
     "cup",
-    67,
-    "https://www.theguardian.com/football/2026/jun/26/turkey-usa-world-cup-2026-match-report"
+    56,
+    "https://www.theguardian.com/football/2026/jun/26/zohran-mamdani-world-cup-new-york-mayor"
   ],
   [
     "court",
-    38,
-    "https://www.nytimes.com/2026/06/26/us/politics/supreme-court-trump-tps.html"
-  ],
-  [
-    "president",
-    37,
-    "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-trump-haiti-race.html"
-  ],
-  [
-    "game",
     35,
-    "https://www.theguardian.com/football/2026/jun/26/fifa-unites-the-world-in-anger-at-hydration-breaks-aka-ad-breaks"
-  ],
-  [
-    "team",
-    30,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "earthquakes",
-    29,
-    "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html"
+    "https://www.nytimes.com/2026/06/26/podcasts/the-headlines/trump-supreme-court-uk-jaguar-cyberattack.html"
   ],
   [
     "prime",
-    29,
-    "https://www.theguardian.com/commentisfree/2026/jun/25/netanyahu-trump-iran-war"
+    35,
+    "https://www.nytimes.com/2026/06/26/world/canada/carney-ottawa-24-sussex-drive.html"
   ],
   [
-    "supreme",
-    28,
-    "https://www.nytimes.com/2026/06/26/us/politics/supreme-court-trump-tps.html"
+    "president",
+    33,
+    "https://www.nytimes.com/2026/06/26/us/politics/vance-nixon-watergate-deep-state.html"
   ],
   [
-    "venezuela",
-    28,
-    "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html"
+    "game",
+    27,
+    "https://www.theguardian.com/football/2026/jun/26/zohran-mamdani-world-cup-new-york-mayor"
+  ],
+  [
+    "air",
+    26,
+    "https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html"
+  ],
+  [
+    "country",
+    26,
+    "https://www.nytimes.com/2026/06/26/world/canada/carney-ottawa-24-sussex-drive.html"
+  ],
+  [
+    "team",
+    26,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "iran",
-    27,
-    "https://www.nytimes.com/2026/06/26/world/middleeast/gulf-changed-forever-iran-war.html"
+    24,
+    "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html"
   ],
   [
-    "york",
+    "deals",
     24,
-    "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html"
+    "https://www.theguardian.com/thefilter-us/2026/jun/26/best-amazon-prime-day-deals-sales-discounts-day-4"
   ],
   [
     "california",
@@ -66,59 +61,44 @@
     "https://www.washingtonpost.com/nation/2026/06/25/california-billionaire-tax-headed-ballot-despite-top-democrats-opposition/"
   ],
   [
-    "air",
-    23,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "deals",
-    23,
-    "https://www.theguardian.com/books/2026/jun/25/dooneen-by-keith-ridgway-review-uncanny-visions-of-dark-times-in-dublin"
-  ],
-  [
-    "administration",
+    "york",
     22,
-    "https://www.nytimes.com/2026/06/26/us/politics/supreme-court-trump-tps.html"
+    "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html"
   ],
   [
-    "country",
+    "war",
     22,
-    "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake.html"
-  ],
-  [
-    "record",
-    21,
-    "https://www.theguardian.com/music/2026/jun/26/interpol-interview-elon-musk-fatherhood-ai-album"
+    "https://www.nytimes.com/2026/06/26/world/middleeast/gulf-changed-forever-iran-war.html"
   ],
   [
     "place",
     21,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/26/experience-i-met-my-husband-in-the-dull-mens-club"
+    "https://www.theguardian.com/football/2026/jun/26/zohran-mamdani-world-cup-new-york-mayor"
   ],
   [
-    "win",
-    21,
-    "https://www.theguardian.com/technology/2026/jun/25/california-billionaire-tax-ballot"
-  ],
-  [
-    "history",
-    20,
-    "https://www.nytimes.com/2026/06/26/arts/television/late-night-great-american-state-fair-trump.html"
-  ],
-  [
-    "star",
-    20,
-    "https://www.theguardian.com/music/2026/jun/26/phoebe-bridgers-lost-boys-review"
-  ],
-  [
-    "climate",
+    "supreme",
     19,
-    "https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html"
+    "https://www.nytimes.com/2026/06/26/podcasts/the-headlines/trump-supreme-court-uk-jaguar-cyberattack.html"
   ],
   [
-    "mexico",
+    "states",
     19,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+    "https://www.theguardian.com/world/2026/jun/26/russia-provocation-baltic-states-poland"
+  ],
+  [
+    "fans",
+    19,
+    "https://www.theguardian.com/music/2026/jun/26/how-country-music-is-taking-over-the-uk-state-fayre"
+  ],
+  [
+    "amazon",
+    19,
+    "https://www.theguardian.com/thefilter-us/2026/jun/26/best-amazon-prime-day-deals-sales-discounts-day-4"
+  ],
+  [
+    "sale",
+    19,
+    "https://www.theguardian.com/world/2026/jun/26/wolfgang-porsche-salzburg-villa-up-for-sale-tunnel-austria"
   ],
   [
     "que",
@@ -126,24 +106,39 @@
     "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/la-reaccion-de-sebastian-berhalter-tras-titularidad-asistencia-y-gol-con-estados-unidos-tmvo13197642"
   ],
   [
-    "military",
+    "bolton",
     18,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html"
   ],
   [
-    "fifa",
+    "venezuela",
     18,
-    "https://www.theguardian.com/football/2026/jun/26/fifa-unites-the-world-in-anger-at-hydration-breaks-aka-ad-breaks"
+    "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html"
   ],
   [
-    "war",
-    17,
-    "https://www.nytimes.com/2026/06/26/world/middleeast/gulf-changed-forever-iran-war.html"
+    "record",
+    18,
+    "https://www.nytimes.com/2026/06/26/weather/europe-heat-wave-temperatures.html"
   ],
   [
     "america",
-    17,
+    18,
     "https://www.nytimes.com/2026/06/26/magazine/a-founding-story-to-unify-left-and-right.html"
+  ],
+  [
+    "guilty",
+    17,
+    "https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html"
+  ],
+  [
+    "night",
+    17,
+    "https://www.nytimes.com/2026/06/26/arts/television/late-night-great-american-state-fair-trump.html"
+  ],
+  [
+    "american",
+    17,
+    "https://www.nytimes.com/2026/06/26/arts/television/late-night-great-american-state-fair-trump.html"
   ],
   [
     "tax",
@@ -151,14 +146,19 @@
     "https://www.washingtonpost.com/nation/2026/06/25/california-billionaire-tax-headed-ballot-despite-top-democrats-opposition/"
   ],
   [
-    "party",
+    "win",
     17,
-    "https://www.washingtonpost.com/nation/2026/06/25/california-billionaire-tax-headed-ballot-despite-top-democrats-opposition/"
+    "https://www.theguardian.com/football/2026/jun/26/zohran-mamdani-world-cup-new-york-mayor"
   ],
   [
-    "fans",
+    "don",
     17,
-    "https://www.theguardian.com/music/2026/jun/26/phoebe-bridgers-lost-boys-review"
+    "https://www.theguardian.com/music/2026/jun/26/interpol-interview-elon-musk-fatherhood-ai-album"
+  ],
+  [
+    "death",
+    17,
+    "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll"
   ],
   [
     "series",
@@ -166,213 +166,213 @@
     "https://www.theguardian.com/tv-and-radio/2026/jun/26/americas-sweethearts-dallas-cowboys-cheerleaders"
   ],
   [
-    "match",
+    "children",
     17,
-    "https://www.theguardian.com/football/2026/jun/26/australia-socceroos-paraguay-world-cup-2026-match-report"
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jun/26/how-to-connect-with-neurodivergent-parents-autistic-adhd"
   ],
   [
-    "immigration",
+    "information",
+    16,
+    "https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html"
+  ],
+  [
+    "guide",
+    16,
+    "https://www.nytimes.com/2026/06/26/world/europe/zelensky-belarus-drones-relay.html"
+  ],
+  [
+    "earthquakes",
+    16,
+    "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html"
+  ],
+  [
+    "administration",
     16,
     "https://www.nytimes.com/2026/06/26/us/politics/supreme-court-trump-tps.html"
   ],
   [
-    "american",
-    16,
-    "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake.html"
-  ],
-  [
-    "heat",
+    "climate",
     16,
     "https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html"
   ],
   [
-    "review",
+    "everything",
     16,
-    "https://www.nytimes.com/2026/06/25/movies/supergirl-review.html"
+    "https://www.nytimes.com/2026/06/26/arts/television/late-night-great-american-state-fair-trump.html"
   ],
   [
-    "questions",
+    "loss",
     16,
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "fire",
+    "united",
     16,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "little",
-    16,
-    "https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong"
-  ],
-  [
-    "vance",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/25/jd-vance-watergate-richard-nixon"
-  ],
-  [
-    "feel",
-    16,
-    "https://www.theguardian.com/football/2026/jun/26/japan-sweden-world-cup-2026-match-report"
-  ],
-  [
-    "democratic",
-    15,
-    "https://www.washingtonpost.com/nation/2026/06/25/california-billionaire-tax-headed-ballot-despite-top-democrats-opposition/"
-  ],
-  [
-    "million",
-    15,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "latest",
-    15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "don",
-    15,
-    "https://www.theguardian.com/music/2026/jun/26/interpol-interview-elon-musk-fatherhood-ai-album"
-  ],
-  [
-    "tournament",
-    15,
-    "https://www.theguardian.com/football/2026/jun/26/turkey-usa-world-cup-2026-match-report"
-  ],
-  [
-    "park",
-    15,
-    "https://www.theguardian.com/football/2026/jun/26/zohran-mamdani-world-cup-new-york-mayor"
-  ],
-  [
-    "los",
-    15,
-    "https://www.theguardian.com/sport/2026/jun/25/marina-mabrey-53-points-wnba-scoring-record-toronto-tempo-sparks"
-  ],
-  [
-    "video",
-    15,
-    "https://www.theguardian.com/environment/2026/jun/24/youtube-video-proved-libya-sand-cat-exist-aoe"
-  ],
-  [
-    "company",
-    14,
-    "https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html"
-  ],
-  [
-    "campaign",
-    14,
-    "https://www.nytimes.com/2026/06/25/nyregion/nyc-rent-freeze-vote-mamdani.html"
-  ],
-  [
-    "pro",
-    14,
-    "https://www.nytimes.com/2026/06/26/us/politics/defending-education-smith-transgender.html"
-  ],
-  [
-    "everything",
-    14,
-    "https://www.nytimes.com/2026/06/26/arts/television/late-night-great-american-state-fair-trump.html"
-  ],
-  [
-    "already",
-    14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "won",
-    14,
-    "https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong"
+    "https://www.theguardian.com/us-news/live/2026/jun/26/trump-news-john-bolton-updates-today"
   ],
   [
     "games",
+    16,
+    "https://www.theguardian.com/football/2026/jun/26/world-cup-bielsa-de-la-fuente-spain-fractious-moment-for-uruguay"
+  ],
+  [
+    "video",
+    16,
+    "https://www.theguardian.com/environment/2026/jun/24/youtube-video-proved-libya-sand-cat-exist-aoe"
+  ],
+  [
+    "political",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jun/26/tucker-carlson-marjorie-taylor-greene-republican-split"
+  ],
+  [
+    "law",
+    15,
+    "https://www.theguardian.com/environment/2026/jun/26/california-single-use-plastic-law"
+  ],
+  [
+    "turkey",
+    15,
+    "https://www.theguardian.com/football/2026/jun/26/mauricio-pochettino-chides-press-us-lose-turkey-we-won-the-group"
+  ],
+  [
+    "match",
+    15,
+    "https://www.theguardian.com/football/2026/jun/26/mauricio-pochettino-chides-press-us-lose-turkey-we-won-the-group"
+  ],
+  [
+    "round",
+    15,
+    "https://www.theguardian.com/football/2026/jun/26/netherlands-world-cup-2026-football-daily-newsletter"
+  ],
+  [
+    "little",
+    15,
+    "https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong"
+  ],
+  [
+    "feel",
+    15,
+    "https://www.theguardian.com/film/2026/jun/26/spider-man-brand-new-day-fan-rumours-week-in-geek"
+  ],
+  [
+    "star",
+    15,
+    "https://www.theguardian.com/film/2026/jun/26/the-mission-review-a-surgeon-saves-lives-in-war-torn-gaza-in-a-visceral-portrait-of-human-endurance"
+  ],
+  [
+    "john",
     14,
-    "https://www.theguardian.com/football/2026/jun/26/turkey-usa-world-cup-2026-match-report"
+    "https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html"
   ],
   [
-    "sale",
+    "price",
     14,
-    "https://www.theguardian.com/world/2026/jun/26/wolfgang-porsche-salzburg-villa-up-for-sale-tunnel-austria"
+    "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html"
   ],
   [
-    "decision",
-    13,
-    "https://www.nytimes.com/2026/06/25/us/supreme-court-tps-decision-explainer.html"
-  ],
-  [
-    "south",
-    13,
-    "https://www.nytimes.com/2026/06/25/us/florida-venezuela-earthquake-missing-relatives.html"
-  ],
-  [
-    "states",
-    13,
-    "https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html"
-  ],
-  [
-    "deadly",
-    13,
+    "heat",
+    14,
     "https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html"
   ],
   [
-    "possible",
-    13,
-    "https://www.nytimes.com/2026/06/26/climate/europe-heat-wave-climate-change.html"
+    "young",
+    14,
+    "https://www.nytimes.com/2026/06/26/opinion/cuba-migration-havana-artists.html"
   ],
   [
-    "night",
-    13,
+    "history",
+    14,
     "https://www.nytimes.com/2026/06/26/arts/television/late-night-great-american-state-fair-trump.html"
   ],
   [
-    "guide",
-    13,
-    "https://www.nytimes.com/2026/06/26/world/europe/zelensky-belarus-drones-relay.html"
+    "fire",
+    14,
+    "https://www.washingtonpost.com/lifestyle/2026/06/26/her-house-was-fire-her-poodles-frantic-barking-helped-save-her/"
   ],
   [
-    "israeli",
-    13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "south",
+    14,
+    "https://www.washingtonpost.com/nation/2026/06/25/unlike-rest-us-south-is-growing-its-youth-population/"
   ],
   [
-    "con",
+    "military",
+    14,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "latest",
+    14,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "filter",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/jun/26/best-amazon-prime-day-deals-sales-discounts-day-4"
+  ],
+  [
+    "case",
     13,
-    "https://www.theguardian.com/environment/2026/jun/26/underground-revolution-seine-cooling-network-paris-buildings-heat"
+    "https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html"
   ],
   [
     "thousands",
     13,
+    "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-survivors-displaced.html"
+  ],
+  [
+    "europe",
+    13,
+    "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html"
+  ],
+  [
+    "con",
+    13,
+    "https://www.nytimes.com/2026/06/26/us/politics/freedom-con-christian-men.html"
+  ],
+  [
+    "questions",
+    13,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "million",
+    13,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "tournament",
+    13,
+    "https://www.theguardian.com/football/2026/jun/26/zohran-mamdani-world-cup-new-york-mayor"
+  ],
+  [
+    "watch",
+    13,
+    "https://www.theguardian.com/football/2026/jun/26/zohran-mamdani-world-cup-new-york-mayor"
+  ],
+  [
+    "water",
+    13,
     "https://www.theguardian.com/environment/2026/jun/26/underground-revolution-seine-cooling-network-paris-buildings-heat"
   ],
   [
-    "round",
+    "security",
     13,
-    "https://www.theguardian.com/sport/2026/jun/25/lamelo-ball-hornets-timberwolves-trade-nba"
+    "https://www.theguardian.com/us-news/live/2026/jun/26/trump-news-john-bolton-updates-today"
   ],
   [
-    "filter",
+    "products",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/25/air-purifiers-amazon-prime-day-sale"
+    "https://www.theguardian.com/environment/2026/jun/26/california-single-use-plastic-law"
   ],
   [
-    "americans",
-    12,
-    "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-trump-haiti-race.html"
+    "black",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/26/jeffrey-epstein-leon-black-house-panel"
   ],
   [
-    "power",
-    12,
-    "https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html"
-  ],
-  [
-    "start",
-    12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "political",
-    12,
-    "https://www.theguardian.com/music/2026/jun/26/interpol-interview-elon-musk-fatherhood-ai-album"
+    "always",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jun/26/best-amazon-prime-day-deals-sales-discounts-day-4"
   ]
 ];
