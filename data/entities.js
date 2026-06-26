@@ -3,106 +3,112 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 56,
-      "url": "https://www.theguardian.com/music/2026/jun/26/interpol-interview-elon-musk-fatherhood-ai-album",
+      "count": 75,
+      "url": "https://www.theguardian.com/business/2026/jun/26/ceo-amazon-backed-rivian-carmakers-evs",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 27,
-      "url": "https://www.washingtonpost.com/nation/2026/06/25/unlike-rest-us-south-is-growing-its-youth-population/",
-      "source": "Washington Post"
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/06/26/arts/design/german-declaration-of-independence.html",
+      "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 22,
+      "count": 23,
       "url": "https://www.washingtonpost.com/nation/2026/06/25/california-billionaire-tax-headed-ballot-despite-top-democrats-opposition/",
       "source": "Washington Post"
     },
     {
-      "name": "Venezuela",
-      "count": 20,
-      "url": "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Iran",
-      "count": 20,
+      "count": 18,
       "url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
       "source": "NY Times"
     },
     {
-      "name": "Uk",
-      "count": 20,
-      "url": "https://www.theguardian.com/uk-news/2026/jun/26/male-jury-woman-strangled-by-us-pilot-britain-airbase-trial",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Turkey",
-      "count": 15,
-      "url": "https://www.theguardian.com/football/2026/jun/26/mauricio-pochettino-chides-press-us-lose-turkey-we-won-the-group",
+      "name": "Venezuela",
+      "count": 17,
+      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
       "source": "The Guardian"
     },
     {
       "name": "New York City",
-      "count": 13,
+      "count": 16,
       "url": "https://www.washingtonpost.com/nation/2026/06/25/nyc-passes-rent-freeze-line-with-mamdani-campaign-promise/",
       "source": "Washington Post"
     },
     {
-      "name": "Mexico",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Uk",
+      "count": 14,
+      "url": "https://www.theguardian.com/uk-news/2026/jun/26/male-jury-woman-strangled-by-us-pilot-britain-airbase-trial",
+      "source": "The Guardian"
     },
     {
-      "name": "The United States",
+      "name": "Israel",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/06/26/nyregion/palestinian-dsa-israel-nyc.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "France",
+      "count": 12,
+      "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Paris",
       "count": 11,
-      "url": "https://www.theguardian.com/us-news/live/2026/jun/26/trump-news-john-bolton-updates-today",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/underground-revolution-seine-cooling-network-paris-buildings-heat",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "First 2026 World Cup",
-      "count": 38,
-      "url": "https://www.cbsnews.com/news/us-mens-soccer-2026-world-cup-loss-turkey/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The World Cup Carnival",
-      "count": 10,
-      "url": "https://www.theguardian.com/games/2026/jun/23/the-long-painful-history-of-terrible-world-cup-video-games",
+      "name": "The 2030 World Cup",
+      "count": 43,
+      "url": "https://www.theguardian.com/football/2026/jun/26/mauricio-pochettino-extension-us-soccer-world-cup",
       "source": "The Guardian"
     },
     {
-      "name": "A World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/jun/26/zohran-mamdani-world-cup-new-york-mayor",
-      "source": "The Guardian"
+      "name": "The World Cup And America",
+      "count": 13,
+      "url": "https://www.foxnews.com/opinion/david-marcus-rural-maryland-petty-politics-takes-back-seat-world-cup-fever",
+      "source": "Fox News"
     },
     {
       "name": "World Cup 2026",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/live/2026/jun/26/world-cup-2026-norway-france-senegal-iraq-cape-verde-saudi-arabia-uruguay-spain-egypt-iran-new-zealand-belgium-live",
+      "count": 4,
+      "url": "https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates",
       "source": "The Guardian"
     },
     {
-      "name": "Wimbledon",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/jun/26/serena-williams-sprinkles-stardust-at-wimbledon-with-top-female-players-toiling",
+      "name": "This World Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/football/2026/jun/26/influencers-content-creators-world-cup-2026-broadcasting-youtube",
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
+      "name": "The World Cup Carnival",
       "count": 2,
-      "url": "https://www.cbsnews.com/video/cassidy-trump-berating-senators-during-meeting-im-not-there-to-be-berated/",
-      "source": "CBS News"
+      "url": "https://www.theguardian.com/games/2026/jun/23/the-long-painful-history-of-terrible-world-cup-video-games",
+      "source": "The Guardian"
     },
     {
       "name": "The Iran War’S",
       "count": 1,
       "url": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Revolutionary War",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The American Revolution",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
       "source": "NY Times"
     },
     {
@@ -112,41 +118,41 @@
       "source": "The Guardian"
     },
     {
-      "name": "Match Day",
+      "name": "A World Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/games/2026/jun/23/the-long-painful-history-of-terrible-world-cup-video-games",
-      "source": "The Guardian"
-    },
-    {
-      "name": "World Cup Football",
-      "count": 1,
-      "url": "https://www.theguardian.com/games/2026/jun/23/the-long-painful-history-of-terrible-world-cup-video-games",
+      "url": "https://www.theguardian.com/football/2026/jun/26/zohran-mamdani-world-cup-new-york-mayor",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
-      "name": "John Bolton",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Trump Adviser",
-      "count": 15,
+      "count": 17,
       "url": "https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html",
       "source": "NY Times"
     },
     {
-      "name": "Zohran Mamdani",
-      "count": 8,
-      "url": "https://www.theguardian.com/football/2026/jun/26/zohran-mamdani-world-cup-new-york-mayor",
+      "name": "John Bolton",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/jun/26/john-bolton-guilty-mishandle-classified-information",
       "source": "The Guardian"
     },
     {
-      "name": "Donald Trump ’S",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/jun/26/texas-protesters-anti-ice-convictions",
+      "name": "Leon Black",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/jun/26/jeffrey-epstein-leon-black-house-panel",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Barack Obama",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/26/andy-burnham-labour-hope-mp-makerfield-politics",
       "source": "The Guardian"
     },
     {
@@ -156,97 +162,91 @@
       "source": "NY Times"
     },
     {
-      "name": "Mauricio Pochettino",
+      "name": "Zohran Mamdani",
       "count": 6,
-      "url": "https://www.theguardian.com/football/2026/jun/26/mauricio-pochettino-chides-press-us-lose-turkey-we-won-the-group",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Serena Williams",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/jun/26/serena-williams-sprinkles-stardust-at-wimbledon-with-top-female-players-toiling",
+      "url": "https://www.theguardian.com/football/2026/jun/26/zohran-mamdani-world-cup-new-york-mayor",
       "source": "The Guardian"
     },
     {
       "name": "Gavin Newsom",
-      "count": 4,
-      "url": "https://www.theguardian.com/environment/2026/jun/26/california-single-use-plastic-law",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/jun/26/gavin-newsom-national-billionaires-tax",
       "source": "The Guardian"
     },
     {
-      "name": "Jeffrey Epstein",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/jun/26/jeffrey-epstein-leon-black-house-panel",
+      "name": "Mauricio Pochettino",
+      "count": 6,
+      "url": "https://www.theguardian.com/football/2026/jun/26/mauricio-pochettino-extension-us-soccer-world-cup",
       "source": "The Guardian"
     },
     {
-      "name": "Pan Pro",
-      "count": 4,
-      "url": "https://www.theguardian.com/thefilter-us/2026/jun/26/best-amazon-prime-day-deals-sales-discounts-day-4",
-      "source": "The Guardian"
+      "name": "Marco Rubio",
+      "count": 5,
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Of &Apos;Betrayal&Apos",
-      "count": 41,
-      "url": "https://www.foxnews.com/politics/watch-aoc-accuses-trump-betrayal-after-supreme-court-immigration-rulings",
-      "source": "Fox News"
-    },
-    {
-      "name": "The White House",
-      "count": 21,
-      "url": "https://thehill.com/regulation/court-battles/5942397-john-bolton-guilty-plea-classified-documents-case/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Amazon",
-      "count": 18,
-      "url": "https://www.theguardian.com/thefilter-us/2026/jun/26/best-amazon-prime-day-deals-sales-discounts-day-4",
-      "source": "The Guardian"
+      "name": "Target For Trump",
+      "count": 42,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     },
     {
       "name": "Ai",
-      "count": 13,
-      "url": "https://www.theguardian.com/music/2026/jun/26/interpol-interview-elon-musk-fatherhood-ai-album",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/jun/26/gavin-newsom-national-billionaires-tax",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Amazon",
+      "count": 16,
+      "url": "https://www.theguardian.com/thefilter-us/2026/jun/26/hatch-sunrise-alarm-clock-amazon-prime-deal",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Waffle House",
+      "count": 16,
+      "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/freddy-mike-johnson-republican-world-cup-tourist-videos-00976221",
+      "source": "Politico"
+    },
+    {
+      "name": "Guardian",
+      "count": 11,
+      "url": "https://www.theguardian.com/football/2026/jun/26/mauricio-pochettino-extension-us-soccer-world-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
       "name": "Apple Watch Series 11",
-      "count": 11,
+      "count": 9,
       "url": "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals",
       "source": "The Guardian"
     },
     {
       "name": "The Supreme Court",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/06/26/podcasts/the-headlines/trump-supreme-court-uk-jaguar-cyberattack.html",
-      "source": "NY Times"
+      "count": 9,
+      "url": "https://www.npr.org/2026/06/26/g-s1-130361/up-first-newsletter-venezuela-earthquakes-asylum-claims-farmers",
+      "source": "NPR"
     },
     {
-      "name": "The Filter Us",
-      "count": 10,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/25/netanyahu-trump-iran-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Estados Unidos",
-      "count": 8,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/gol-de-kaan-ayhan-y-tuquia-vuelve-a-separarse-frente-a-estados-unidos-tmvo13197581",
+      "name": "Luego De Un",
+      "count": 6,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/abdoulaye-seck-marca-el-primero-para-senegal-de-cabeza-tmvo13197773",
       "source": "NBC News"
     },
     {
-      "name": "Un",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/jun/25/un-pauses-ship-evacuations-through-strait-of-hormuz-after-vessel-attack",
-      "source": "The Guardian"
+      "name": "Cbs News",
+      "count": 5,
+      "url": "https://www.cbsnews.com/video/judge-declares-mistrial-in-palisades-fire-arson-trial-after-jury-deadlocked/",
+      "source": "CBS News"
     }
   ],
-  "updated": "2026-06-26T15:26:08Z"
+  "updated": "2026-06-26T20:48:59Z"
 };
