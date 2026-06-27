@@ -2,8 +2,8 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "cup",
-    77,
-    "https://www.washingtonpost.com/nation/2026/06/27/us-cities-big-small-summer-crowds-signal-an-urban-comeback/"
+    81,
+    "https://www.nytimes.com/2026/06/27/world/americas/lionel-messi-argentina-statue.html"
   ],
   [
     "trump",
@@ -11,94 +11,99 @@
     "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html"
   ],
   [
-    "court",
-    41,
-    "https://www.nytimes.com/2026/06/27/us/politics/democrats-colorado-redistricting-state-court.html"
-  ],
-  [
     "iran",
-    36,
+    38,
     "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html"
   ],
   [
-    "country",
+    "court",
     36,
-    "https://www.nytimes.com/2026/06/27/opinion/grocery-prices-inflation.html"
-  ],
-  [
-    "game",
-    31,
     "https://www.theguardian.com/sport/2026/jun/27/aryna-sabalenka-interview-tennis-world-no-1-women-not-quitting-french-open"
   ],
   [
     "president",
-    29,
+    33,
     "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html"
   ],
   [
-    "air",
-    28,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "game",
+    33,
+    "https://www.theguardian.com/sport/2026/jun/27/aryna-sabalenka-interview-tennis-world-no-1-women-not-quitting-french-open"
+  ],
+  [
+    "country",
+    31,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "prime",
-    28,
+    30,
     "https://www.theguardian.com/politics/2026/jun/27/andy-burnham-labour-politicians-wonks-influence"
   ],
   [
-    "los",
-    23,
-    "https://www.theguardian.com/us-news/2026/jun/27/boyle-heights-warehouse-fire-smell-los-angeles"
-  ],
-  [
-    "california",
-    21,
-    "https://www.washingtonpost.com/nation/2026/06/25/california-billionaire-tax-headed-ballot-despite-top-democrats-opposition/"
-  ],
-  [
-    "team",
-    21,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "star",
-    21,
-    "https://www.theguardian.com/sport/2026/jun/26/maple-leafs-gavin-mckenna-no-1-pick-nhl-draft"
-  ],
-  [
-    "video",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/jun/27/victims-rights-sarah-steele-us-military-court-uk-jess-phillips"
-  ],
-  [
-    "american",
-    20,
-    "https://www.nytimes.com/2026/06/27/us/great-american-fair-mall.html"
+    "air",
+    26,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "america",
-    20,
+    25,
     "https://www.nytimes.com/2026/06/27/opinion/america-250-trump-division.html"
   ],
   [
+    "california",
+    25,
+    "https://www.washingtonpost.com/nation/2026/06/25/california-billionaire-tax-headed-ballot-despite-top-democrats-opposition/"
+  ],
+  [
+    "fire",
+    25,
+    "https://www.washingtonpost.com/lifestyle/2026/06/26/her-house-was-fire-her-poodles-frantic-barking-helped-save-her/"
+  ],
+  [
     "deals",
-    20,
+    22,
     "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax"
   ],
   [
-    "red",
+    "food",
+    21,
+    "https://www.theguardian.com/us-news/2026/jun/27/fairbanks-alaska-resturant-food-scene"
+  ],
+  [
+    "police",
+    20,
+    "https://www.theguardian.com/society/2026/jun/27/my-dad-bragged-online-fantasy-sexual-abuse-made-it-up"
+  ],
+  [
+    "fans",
+    20,
+    "https://www.theguardian.com/us-news/2026/jun/27/stubhub-world-cup-resale-ticket"
+  ],
+  [
+    "strikes",
     19,
-    "https://www.nytimes.com/2026/06/27/us/great-american-fair-mall.html"
+    "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html"
   ],
   [
     "test",
     19,
-    "https://www.nytimes.com/2026/06/27/us/politics/jeffries-congress-democratic-socialists.html"
+    "https://www.nytimes.com/2026/06/27/us/politics/louisiana-senate-republican-runoff.html"
   ],
   [
-    "strikes",
+    "american",
+    19,
+    "https://www.washingtonpost.com/nation/interactive/2026/06/27/quiz-how-well-do-you-know-american-history-government/"
+  ],
+  [
+    "death",
+    19,
+    "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez"
+  ],
+  [
+    "always",
     18,
-    "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html"
+    "https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html"
   ],
   [
     "everything",
@@ -111,59 +116,39 @@
     "https://www.washingtonpost.com/nation/interactive/2026/06/27/quiz-how-well-do-you-know-american-history-government/"
   ],
   [
-    "fire",
+    "military",
     18,
-    "https://www.washingtonpost.com/lifestyle/2026/06/26/her-house-was-fire-her-poodles-frantic-barking-helped-save-her/"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "fans",
+    "guide",
     18,
-    "https://www.theguardian.com/us-news/2026/jun/27/stubhub-world-cup-resale-ticket"
+    "https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates"
   ],
   [
-    "children",
-    18,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/27/social-media-bans-go-global-big-tech-reckoning-australia-crackdown"
-  ],
-  [
-    "don",
-    18,
-    "https://www.theguardian.com/sport/2026/jun/26/san-francisco-giants-pride-night-mlb-culture-wars"
-  ],
-  [
-    "series",
+    "video",
     18,
     "https://www.theguardian.com/commentisfree/2026/jun/27/victims-rights-sarah-steele-us-military-court-uk-jess-phillips"
   ],
   [
-    "death",
-    18,
-    "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll"
+    "team",
+    17,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "feel",
+    "don",
     17,
-    "https://www.nytimes.com/2026/06/27/magazine/robby-hoffman-interview.html"
+    "https://www.theguardian.com/us-news/2026/jun/27/jd-vance-bill-maher-iran-war"
   ],
   [
-    "military",
+    "children",
     17,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/27/social-media-bans-go-global-big-tech-reckoning-australia-crackdown"
   ],
   [
-    "police",
+    "series",
     17,
-    "https://www.theguardian.com/society/2026/jun/27/my-dad-bragged-online-fantasy-sexual-abuse-made-it-up"
-  ],
-  [
-    "guide",
-    17,
-    "https://www.theguardian.com/football/live/2026/jun/27/world-cup-2026-news-live-england-panama-croatia-ghana-colombia-portugal-dr-congo-uzbekistan-live"
-  ],
-  [
-    "night",
-    17,
-    "https://www.theguardian.com/environment/2026/jun/27/decades-climate-warnings-why-europe-so-unprepared-rising-heat"
+    "https://www.theguardian.com/commentisfree/2026/jun/27/victims-rights-sarah-steele-us-military-court-uk-jess-phillips"
   ],
   [
     "sale",
@@ -171,94 +156,89 @@
     "https://www.theguardian.com/commentisfree/2026/jun/26/the-guardian-view-on-frida-kahlo-the-icon-a-thin-line-between-canonisation-and-commercialisation"
   ],
   [
-    "york",
+    "star",
     16,
-    "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html"
+    "https://www.nytimes.com/2026/06/27/world/americas/lionel-messi-argentina-statue.html"
   ],
   [
-    "political",
+    "tournament",
     16,
-    "https://www.nytimes.com/2026/06/27/us/politics/watergate-vance-trump-nixon.html"
+    "https://www.theguardian.com/football/2026/jun/27/usa-bracket-world-cup-path-to-final"
   ],
   [
-    "always",
-    16,
-    "https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html"
-  ],
-  [
-    "match",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/27/trump-assassination-plot-ufc-fight-tycen-proper"
-  ],
-  [
-    "food",
+    "los",
     16,
     "https://www.theguardian.com/us-news/2026/jun/27/boyle-heights-warehouse-fire-smell-los-angeles"
   ],
   [
-    "gaza",
-    15,
-    "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html"
+    "little",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/jun/26/the-guardian-view-on-frida-kahlo-the-icon-a-thin-line-between-canonisation-and-commercialisation"
   ],
   [
-    "pool",
+    "amazon",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/jun/25/air-purifiers-amazon-prime-day-sale"
+  ],
+  [
+    "feel",
     15,
-    "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html"
+    "https://www.nytimes.com/2026/06/27/magazine/robby-hoffman-interview.html"
+  ],
+  [
+    "gaza",
+    15,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "attack",
+    15,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "response",
+    15,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "social",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/27/stubhub-world-cup-resale-ticket"
   ],
   [
     "donald",
     15,
-    "https://www.nytimes.com/2026/06/27/us/politics/watergate-vance-trump-nixon.html"
+    "https://www.theguardian.com/law/2026/jun/27/board-of-peace-legal-immunity-un"
   ],
   [
-    "media",
+    "political",
     15,
-    "https://www.nytimes.com/2026/06/27/us/politics/watergate-vance-trump-nixon.html"
+    "https://www.theguardian.com/politics/2026/jun/27/andy-burnham-labour-politicians-wonks-influence"
   ],
   [
-    "government",
+    "games",
     15,
-    "https://www.washingtonpost.com/nation/interactive/2026/06/27/quiz-how-well-do-you-know-american-history-government/"
+    "https://www.theguardian.com/games/2026/jun/23/the-long-painful-history-of-terrible-world-cup-video-games"
   ],
   [
-    "england",
-    15,
-    "https://www.theguardian.com/football/2026/jun/27/usa-bracket-world-cup-path-to-final"
-  ],
-  [
-    "climate",
-    15,
-    "https://www.theguardian.com/environment/2026/jun/27/decades-climate-warnings-why-europe-so-unprepared-rising-heat"
-  ],
-  [
-    "heat",
-    15,
-    "https://www.theguardian.com/environment/2026/jun/27/decades-climate-warnings-why-europe-so-unprepared-rising-heat"
-  ],
-  [
-    "little",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/27/summer-travel-essentials"
-  ],
-  [
-    "states",
+    "pool",
     14,
-    "https://www.nytimes.com/2026/06/27/us/great-american-fair-mall.html"
+    "https://www.nytimes.com/2026/06/27/us/reflecting-pool-fence-july-4.html"
   ],
   [
-    "administration",
+    "party",
     14,
-    "https://www.nytimes.com/2026/06/27/world/americas/mexican-officials-us-informants.html"
+    "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html"
   ],
   [
-    "response",
+    "latest",
     14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/06/27/us/politics/louisiana-senate-republican-runoff.html"
   ],
   [
-    "title",
+    "york",
     14,
-    "https://www.theguardian.com/football/2026/jun/27/usa-bracket-world-cup-path-to-final"
+    "https://www.washingtonpost.com/nation/2026/06/25/nyc-passes-rent-freeze-line-with-mamdani-campaign-promise/"
   ],
   [
     "final",
@@ -266,9 +246,19 @@
     "https://www.theguardian.com/sport/2026/jun/27/aryna-sabalenka-interview-tennis-world-no-1-women-not-quitting-french-open"
   ],
   [
+    "media",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/27/stubhub-world-cup-resale-ticket"
+  ],
+  [
+    "weather",
+    14,
+    "https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe"
+  ],
+  [
     "place",
     14,
-    "https://www.theguardian.com/environment/2026/jun/27/trump-epa-court-ruling-soot-pollution"
+    "https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates"
   ],
   [
     "filter",
@@ -276,44 +266,14 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/27/summer-travel-essentials"
   ],
   [
-    "film",
-    14,
-    "https://www.theguardian.com/world/2026/jun/26/california-weinstein-conviction-resentenced"
-  ],
-  [
-    "games",
-    14,
-    "https://www.theguardian.com/games/2026/jun/23/the-long-painful-history-of-terrible-world-cup-video-games"
-  ],
-  [
-    "amazon",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/25/air-purifiers-amazon-prime-day-sale"
-  ],
-  [
-    "war",
+    "strait",
     13,
     "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html"
   ],
   [
-    "party",
+    "hormuz",
     13,
-    "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html"
-  ],
-  [
-    "democrats",
-    13,
-    "https://www.nytimes.com/2026/06/27/us/politics/jeffries-congress-democratic-socialists.html"
-  ],
-  [
-    "latest",
-    13,
-    "https://www.nytimes.com/2026/06/27/us/politics/louisiana-senate-republican-runoff.html"
-  ],
-  [
-    "texas",
-    13,
-    "https://www.washingtonpost.com/lifestyle/2026/06/27/beekeepers-work-save-millions-bees-after-texas-truck-crash/"
+    "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html"
   ],
   [
     "campaign",
@@ -321,9 +281,9 @@
     "https://www.washingtonpost.com/nation/2026/06/25/nyc-passes-rent-freeze-line-with-mamdani-campaign-promise/"
   ],
   [
-    "questions",
+    "medical",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
     "won",
@@ -331,48 +291,88 @@
     "https://www.theguardian.com/football/2026/jun/27/usa-bracket-world-cup-path-to-final"
   ],
   [
-    "tournament",
+    "future",
     13,
-    "https://www.theguardian.com/football/2026/jun/27/usa-bracket-world-cup-path-to-final"
+    "https://www.theguardian.com/us-news/2026/jun/27/next250-declaration-of-interdependence-art-gallery"
   ],
   [
-    "verde",
+    "utah",
     13,
-    "https://www.theguardian.com/football/live/2026/jun/27/world-cup-2026-news-live-england-panama-croatia-ghana-colombia-portugal-dr-congo-uzbekistan-live"
+    "https://www.theguardian.com/us-news/2026/jun/27/firefighters-wildfire-fishlake-national-forest-central-utah"
   ],
   [
-    "child",
+    "british",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/26/trump-democrats-communists-midterms"
+    "https://www.theguardian.com/us-news/2026/jun/27/why-bari-weiss-is-hiring-british-journalists-cbs-news"
+  ],
+  [
+    "heat",
+    13,
+    "https://www.theguardian.com/news/2026/jun/27/profound-lessons-from-dog-training-the-story-of-the-brexit-campaign-and-frances-struggle-with-heat-trap-homes"
+  ],
+  [
+    "climate",
+    13,
+    "https://www.theguardian.com/sport/2026/jun/26/san-francisco-giants-pride-night-mlb-culture-wars"
+  ],
+  [
+    "case",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jun/27/victims-rights-sarah-steele-us-military-court-uk-jess-phillips"
+  ],
+  [
+    "film",
+    13,
+    "https://www.theguardian.com/film/2026/jun/26/spider-man-brand-new-day-fan-rumours-week-in-geek"
+  ],
+  [
+    "title",
+    12,
+    "https://www.nytimes.com/2026/06/27/world/americas/lionel-messi-argentina-statue.html"
+  ],
+  [
+    "local",
+    12,
+    "https://www.washingtonpost.com/lifestyle/2026/06/27/beekeepers-work-save-millions-bees-after-texas-truck-crash/"
+  ],
+  [
+    "democrats",
+    12,
+    "https://www.washingtonpost.com/nation/2026/06/25/california-billionaire-tax-headed-ballot-despite-top-democrats-opposition/"
+  ],
+  [
+    "morning",
+    12,
+    "https://www.theguardian.com/society/2026/jun/27/my-dad-bragged-online-fantasy-sexual-abuse-made-it-up"
+  ],
+  [
+    "hours",
+    12,
+    "https://www.theguardian.com/us-news/2026/jun/27/stubhub-world-cup-resale-ticket"
+  ],
+  [
+    "administration",
+    12,
+    "https://www.theguardian.com/us-news/2026/jun/27/next250-declaration-of-interdependence-art-gallery"
+  ],
+  [
+    "venezuela",
+    12,
+    "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez"
   ],
   [
     "record",
-    13,
-    "https://www.theguardian.com/environment/2026/jun/27/decades-climate-warnings-why-europe-so-unprepared-rising-heat"
-  ],
-  [
-    "apple",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/eero-6-mesh-wifi-router-sale"
-  ],
-  [
-    "lives",
     12,
-    "https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html"
+    "https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe"
   ],
   [
-    "experts",
+    "match",
     12,
-    "https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html"
+    "https://www.theguardian.com/us-news/2026/jun/27/trump-assassination-plot-ufc-fight-tycen-proper"
   ],
   [
-    "supreme",
+    "parents",
     12,
-    "https://www.nytimes.com/2026/06/27/us/politics/democrats-colorado-redistricting-state-court.html"
-  ],
-  [
-    "decision",
-    12,
-    "https://www.nytimes.com/2026/06/27/us/politics/democrats-colorado-redistricting-state-court.html"
+    "https://www.theguardian.com/us-news/2026/jun/27/trump-assassination-plot-ufc-fight-tycen-proper"
   ]
 ];
