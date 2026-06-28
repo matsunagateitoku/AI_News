@@ -2,48 +2,53 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    74,
-    "https://www.nytimes.com/2026/06/27/us/louisiana-senate-republican-runoff-results.html"
+    80,
+    "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html"
   ],
   [
     "cup",
-    73,
+    68,
     "https://www.washingtonpost.com/nation/2026/06/27/us-cities-big-small-summer-crowds-signal-an-urban-comeback/"
   ],
   [
     "president",
-    39,
-    "https://www.nytimes.com/2026/06/27/us/politics/trump-oklahoma-ice-director.html"
+    44,
+    "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html"
   ],
   [
     "game",
-    32,
+    33,
     "https://www.theguardian.com/football/2026/jun/27/england-panama-world-cup-group-l-match-report"
   ],
   [
-    "iran",
-    30,
-    "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html"
-  ],
-  [
     "country",
-    28,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    32,
+    "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html"
   ],
   [
-    "prime",
-    27,
-    "https://www.theguardian.com/politics/2026/jun/27/andy-burnham-labour-politicians-wonks-influence"
+    "iran",
+    28,
+    "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates"
   ],
   [
     "air",
     26,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/"
   ],
   [
-    "court",
+    "prime",
     26,
-    "https://www.theguardian.com/us-news/2026/jun/27/trump-assassination-plot-ufc-fight-tycen-proper"
+    "https://www.theguardian.com/thefilter-us/2026/jun/26/k-beauty-prime-day-sale"
+  ],
+  [
+    "venezuela",
+    23,
+    "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html"
+  ],
+  [
+    "american",
+    22,
+    "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html"
   ],
   [
     "senate",
@@ -56,9 +61,29 @@
     "https://www.washingtonpost.com/nation/2026/06/25/california-billionaire-tax-headed-ballot-despite-top-democrats-opposition/"
   ],
   [
-    "strikes",
+    "fire",
     22,
-    "https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "court",
+    21,
+    "https://www.nytimes.com/2026/06/28/nyregion/whats-the-hottest-spot-in-new-york-for-campaigning-the-club.html"
+  ],
+  [
+    "america",
+    21,
+    "https://www.nytimes.com/2026/06/28/opinion/ai-race-china-us.html"
+  ],
+  [
+    "strikes",
+    21,
+    "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates"
+  ],
+  [
+    "police",
+    21,
+    "https://www.theguardian.com/us-news/2026/jun/27/dog-bodies-bullets-california-animal-shelter"
   ],
   [
     "louisiana",
@@ -66,24 +91,39 @@
     "https://www.nytimes.com/2026/06/27/us/louisiana-senate-republican-runoff-results.html"
   ],
   [
+    "los",
+    20,
+    "https://www.theguardian.com/us-news/2026/jun/28/democratic-socialist-mayor-mamdani-wilson"
+  ],
+  [
     "deals",
     20,
     "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax"
   ],
   [
-    "everything",
-    19,
-    "https://www.nytimes.com/2026/06/27/magazine/robby-hoffman-interview.html"
-  ],
-  [
     "night",
-    19,
-    "https://www.nytimes.com/2026/06/27/us/kentucky-flood-rain-emergency.html"
+    20,
+    "https://www.theguardian.com/football/2026/jun/28/argentian-jordan-world-cup-group-j-match-report"
   ],
   [
-    "fire",
+    "political",
     19,
-    "https://www.washingtonpost.com/lifestyle/2026/06/26/her-house-was-fire-her-poodles-frantic-barking-helped-save-her/"
+    "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html"
+  ],
+  [
+    "primary",
+    19,
+    "https://www.nytimes.com/2026/06/28/us/elections/colorado-governor-democratic-primary.html"
+  ],
+  [
+    "history",
+    19,
+    "https://www.nytimes.com/2026/06/28/world/asia/japan-mayor-maternity-leave.html"
+  ],
+  [
+    "test",
+    19,
+    "https://www.washingtonpost.com/nation/interactive/2026/06/27/quiz-how-well-do-you-know-american-history-government/"
   ],
   [
     "win",
@@ -91,39 +131,49 @@
     "https://www.theguardian.com/football/2026/jun/27/usa-bracket-world-cup-path-to-final"
   ],
   [
-    "police",
+    "social",
     19,
-    "https://www.theguardian.com/us-news/2026/jun/27/dog-bodies-bullets-california-animal-shelter"
-  ],
-  [
-    "director",
-    18,
-    "https://www.nytimes.com/2026/06/27/us/politics/trump-oklahoma-ice-director.html"
-  ],
-  [
-    "america",
-    18,
-    "https://www.nytimes.com/2026/06/28/opinion/ai-race-china-us.html"
-  ],
-  [
-    "american",
-    18,
-    "https://www.washingtonpost.com/nation/interactive/2026/06/27/quiz-how-well-do-you-know-american-history-government/"
-  ],
-  [
-    "history",
-    18,
-    "https://www.washingtonpost.com/nation/interactive/2026/06/27/quiz-how-well-do-you-know-american-history-government/"
-  ],
-  [
-    "political",
-    18,
-    "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019"
+    "https://www.theguardian.com/us-news/2026/jun/27/trump-nomination-ice-director-lance-schroyer"
   ],
   [
     "children",
+    19,
+    "https://www.theguardian.com/uk-news/2026/jun/28/prince-harry-uk-family-visit-refused-police-protection"
+  ],
+  [
+    "york",
     18,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/28/wish-son-wanted-spend-more-time-with-me-annalisa-barbieri"
+    "https://www.nytimes.com/2026/06/28/nyregion/whats-the-hottest-spot-in-new-york-for-campaigning-the-club.html"
+  ],
+  [
+    "party",
+    18,
+    "https://www.washingtonpost.com/nation/2026/06/25/california-billionaire-tax-headed-ballot-despite-top-democrats-opposition/"
+  ],
+  [
+    "everything",
+    18,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "little",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/jun/27/summer-travel-essentials"
+  ],
+  [
+    "food",
+    18,
+    "https://www.theguardian.com/us-news/2026/jun/27/fairbanks-alaska-resturant-food-scene"
+  ],
+  [
+    "video",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/jun/27/victims-rights-sarah-steele-us-military-court-uk-jess-phillips"
+  ],
+  [
+    "del",
+    18,
+    "https://www.theguardian.com/culture/2026/jun/27/my-cultural-awakening-brokeback-mountain-kept-me-in-closet"
   ],
   [
     "runoff",
@@ -131,49 +181,24 @@
     "https://www.nytimes.com/2026/06/27/us/louisiana-senate-republican-runoff-results.html"
   ],
   [
-    "feel",
+    "games",
     17,
-    "https://www.nytimes.com/2026/06/27/magazine/robby-hoffman-interview.html"
-  ],
-  [
-    "party",
-    17,
-    "https://www.washingtonpost.com/nation/2026/06/25/california-billionaire-tax-headed-ballot-despite-top-democrats-opposition/"
-  ],
-  [
-    "venezuela",
-    17,
-    "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez"
-  ],
-  [
-    "death",
-    17,
-    "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez"
-  ],
-  [
-    "food",
-    17,
-    "https://www.theguardian.com/us-news/2026/jun/27/boyle-heights-warehouse-fire-smell-los-angeles"
-  ],
-  [
-    "series",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/jun/27/victims-rights-sarah-steele-us-military-court-uk-jess-phillips"
-  ],
-  [
-    "video",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/jun/27/victims-rights-sarah-steele-us-military-court-uk-jess-phillips"
-  ],
-  [
-    "sale",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/jun/26/the-guardian-view-on-frida-kahlo-the-icon-a-thin-line-between-canonisation-and-commercialisation"
+    "https://www.theguardian.com/uk-news/2026/jun/28/prince-harry-uk-family-visit-refused-police-protection"
   ],
   [
     "amazon",
     17,
     "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals"
+  ],
+  [
+    "death",
+    16,
+    "https://www.nytimes.com/article/venezuela-earthquakes-death-toll-aid-response.html"
+  ],
+  [
+    "response",
+    16,
+    "https://www.nytimes.com/article/venezuela-earthquakes-death-toll-aid-response.html"
   ],
   [
     "letlow",
@@ -186,14 +211,19 @@
     "https://www.nytimes.com/2026/06/27/us/louisiana-senate-republican-runoff-results.html"
   ],
   [
-    "gaza",
+    "bill",
     16,
-    "https://www.nytimes.com/2026/06/27/us/scott-wiener-trans-march-gaza-video.html"
+    "https://www.nytimes.com/2026/06/27/us/louisiana-senate-republican-runoff-results.html"
   ],
   [
-    "always",
+    "power",
     16,
-    "https://www.nytimes.com/2026/06/27/magazine/robby-hoffman-interview.html"
+    "https://www.nytimes.com/2026/06/22/opinion/brexit-britain-europe-power.html"
+  ],
+  [
+    "won",
+    16,
+    "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/"
   ],
   [
     "died",
@@ -201,64 +231,69 @@
     "https://www.washingtonpost.com/obituaries/2026/06/27/paul-ebert-prosecuted-thousands-cases-he-was-best-known-two/"
   ],
   [
-    "attack",
+    "gaza",
     16,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "team",
-    16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "don",
-    16,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/28/mamdani-democratic-socialist-2028-election"
-  ],
-  [
-    "won",
-    16,
-    "https://www.theguardian.com/football/2026/jun/27/usa-bracket-world-cup-path-to-final"
-  ],
-  [
-    "primary",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/27/israel-democrats-palestinians"
-  ],
-  [
-    "star",
-    16,
-    "https://www.theguardian.com/sport/2026/jun/26/maple-leafs-gavin-mckenna-no-1-pick-nhl-draft"
-  ],
-  [
-    "pool",
-    15,
-    "https://www.nytimes.com/2026/06/27/us/reflecting-pool-fence-july-4.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "guide",
-    15,
+    16,
     "https://www.theguardian.com/thefilter-us/2026/jun/27/summer-travel-essentials"
   ],
   [
-    "little",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/27/summer-travel-essentials"
+    "donald",
+    16,
+    "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates"
   ],
   [
-    "social",
-    15,
+    "director",
+    16,
     "https://www.theguardian.com/us-news/2026/jun/27/trump-nomination-ice-director-lance-schroyer"
   ],
   [
-    "match",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/27/trump-assassination-plot-ufc-fight-tycen-proper"
+    "family",
+    16,
+    "https://www.theguardian.com/uk-news/2026/jun/28/prince-harry-uk-family-visit-refused-police-protection"
   ],
   [
-    "games",
+    "son",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/28/wish-son-wanted-spend-more-time-with-me-annalisa-barbieri"
+  ],
+  [
+    "feel",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/28/wish-son-wanted-spend-more-time-with-me-annalisa-barbieri"
+  ],
+  [
+    "sale",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/jun/26/the-guardian-view-on-frida-kahlo-the-icon-a-thin-line-between-canonisation-and-commercialisation"
+  ],
+  [
+    "latest",
     15,
-    "https://www.theguardian.com/football/2026/jun/28/argentian-jordan-world-cup-group-j-match-report"
+    "https://www.nytimes.com/article/venezuela-earthquakes-death-toll-aid-response.html"
+  ],
+  [
+    "series",
+    15,
+    "https://www.nytimes.com/2026/06/28/nyregion/metropolitan-diary.html"
+  ],
+  [
+    "always",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/jun/27/summer-travel-essentials"
+  ],
+  [
+    "states",
+    15,
+    "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates"
+  ],
+  [
+    "media",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/27/kentucky-flood-deaths-storms"
   ],
   [
     "film",
@@ -266,24 +301,44 @@
     "https://www.theguardian.com/football/2026/jun/28/colombia-portugal-world-cup-group-k-match-report"
   ],
   [
-    "bill",
-    14,
-    "https://www.nytimes.com/2026/06/27/us/louisiana-senate-republican-runoff-results.html"
+    "star",
+    15,
+    "https://www.theguardian.com/sport/2026/jun/26/maple-leafs-gavin-mckenna-no-1-pick-nhl-draft"
   ],
   [
-    "schroyer",
-    14,
-    "https://www.nytimes.com/2026/06/27/us/politics/trump-oklahoma-ice-director.html"
+    "gop",
+    15,
+    "https://www.foxnews.com/politics/massie-lashes-out-pressed-ex-girlfriends-allegations-affair-gop-firebrand"
   ],
   [
-    "test",
+    "government",
     14,
-    "https://www.washingtonpost.com/nation/interactive/2026/06/27/quiz-how-well-do-you-know-american-history-government/"
+    "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html"
   ],
   [
-    "military",
+    "earthquakes",
     14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/06/27/world/americas/venezuela-earthquake-volunteers-traffic.html"
+  ],
+  [
+    "killed",
+    14,
+    "https://www.nytimes.com/article/venezuela-earthquakes-death-toll-aid-response.html"
+  ],
+  [
+    "team",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "don",
+    14,
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/28/mamdani-democratic-socialist-2028-election"
+  ],
+  [
+    "england",
+    14,
+    "https://www.theguardian.com/football/2026/jun/27/usa-bracket-world-cup-path-to-final"
   ],
   [
     "filter",
@@ -291,49 +346,24 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/27/summer-travel-essentials"
   ],
   [
-    "donald",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/27/trump-nomination-ice-director-lance-schroyer"
-  ],
-  [
-    "experience",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/27/trump-nomination-ice-director-lance-schroyer"
-  ],
-  [
-    "future",
-    14,
-    "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019"
-  ],
-  [
-    "family",
-    14,
-    "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez"
-  ],
-  [
-    "los",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/27/boyle-heights-warehouse-fire-smell-los-angeles"
-  ],
-  [
     "parents",
     14,
     "https://www.theguardian.com/us-news/2026/jun/27/trump-assassination-plot-ufc-fight-tycen-proper"
   ],
   [
-    "gop",
+    "future",
     14,
-    "https://www.foxnews.com/politics/trump-scores-another-endorsement-win-louisiana-senate-runoff-victory"
+    "https://www.theguardian.com/us-news/2026/jun/27/next250-declaration-of-interdependence-art-gallery"
   ],
   [
-    "que",
-    14,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/colombia-avanza-como-lider-le-jugo-sin-miedo-a-portugal-y-sale-invita-de-miami-rumbo-a-16vos-tmvo13198205"
-  ],
-  [
-    "lance",
+    "russia",
     13,
-    "https://www.nytimes.com/2026/06/27/us/politics/trump-oklahoma-ice-director.html"
+    "https://www.nytimes.com/2026/06/28/world/asia/kazakhstan-trump.html"
+  ],
+  [
+    "war",
+    13,
+    "https://www.nytimes.com/2026/06/28/world/middleeast/beirut-dahiya-israel-lebanon-cease-fire.html"
   ],
   [
     "global",
@@ -341,38 +371,8 @@
     "https://www.nytimes.com/2026/06/22/opinion/brexit-britain-europe-power.html"
   ],
   [
-    "local",
-    13,
-    "https://www.washingtonpost.com/lifestyle/2026/06/27/beekeepers-work-save-millions-bees-after-texas-truck-crash/"
-  ],
-  [
-    "medical",
+    "attack",
     13,
     "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "response",
-    13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "something",
-    13,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/28/mamdani-democratic-socialist-2028-election"
-  ],
-  [
-    "england",
-    13,
-    "https://www.theguardian.com/football/2026/jun/27/usa-bracket-world-cup-path-to-final"
-  ],
-  [
-    "round",
-    13,
-    "https://www.theguardian.com/football/2026/jun/27/usa-bracket-world-cup-path-to-final"
-  ],
-  [
-    "media",
-    13,
-    "https://www.theguardian.com/us-news/2026/jun/27/kentucky-flood-deaths-storms"
   ]
 ];
