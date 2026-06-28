@@ -3,93 +3,99 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 72,
-      "url": "https://www.theguardian.com/football/2026/jun/27/usa-bracket-world-cup-path-to-final",
+      "count": 60,
+      "url": "https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 46,
-      "url": "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html",
+      "count": 43,
+      "url": "https://www.nytimes.com/2026/06/27/world/americas/us-officials-frustrated-with-exiled-venezuelan-leaders-call-for-help.html",
       "source": "NY Times"
     },
     {
       "name": "Iran",
-      "count": 37,
-      "url": "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html",
+      "count": 30,
+      "url": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html",
       "source": "NY Times"
     },
     {
-      "name": "These United States - America",
-      "count": 22,
-      "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-june-28-2026/",
-      "source": "CBS News"
-    },
-    {
       "name": "California",
-      "count": 20,
+      "count": 18,
       "url": "https://www.washingtonpost.com/nation/2026/06/25/california-billionaire-tax-headed-ballot-despite-top-democrats-opposition/",
       "source": "Washington Post"
     },
     {
-      "name": "Uk",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/jun/27/why-bari-weiss-is-hiring-british-journalists-cbs-news",
-      "source": "The Guardian"
-    },
-    {
       "name": "Venezuela",
-      "count": 13,
+      "count": 18,
       "url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
       "source": "The Guardian"
     },
     {
-      "name": "L.A. County",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-06-27/la-county-certifies-2026-primary-election-ballots-los-angeles-mayor-governor",
-      "source": "LA Times"
+      "name": "Uk",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/jun/27/why-bari-weiss-is-hiring-british-journalists-cbs-news",
+      "source": "The Guardian"
     },
     {
-      "name": "Utah County",
+      "name": "These United States - America",
+      "count": 15,
+      "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-june-28-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Utah",
       "count": 13,
-      "url": "https://thehill.com/regulation/court-battles/5943783-utah-judge-charlie-kirk-shooting-tyler-robinson-prosecutor-contempt/",
-      "source": "The Hill"
+      "url": "https://www.theguardian.com/us-news/2026/jun/27/firefighters-wildfire-fishlake-national-forest-central-utah",
+      "source": "The Guardian"
     },
     {
       "name": "New Mexico",
-      "count": 11,
+      "count": 12,
       "url": "https://www.nbcnews.com/weather/wildfires/wildfires-rage-southwest-rcna352056",
       "source": "NBC News"
+    },
+    {
+      "name": "Northern Gaza",
+      "count": 11,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Administration’S",
-      "count": 32,
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/jun/27/nato-leaders-fear-they-can-no-longer-rely-on-us-help-if-russia-attacks-trump-eastern-europe",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/06/27/us/politics/andy-beshear-kentucky-midterms-2028.html",
+      "name": "Trump Picks Lance Schroyer",
+      "count": 50,
+      "url": "https://www.nytimes.com/2026/06/27/us/politics/trump-oklahoma-ice-director.html",
       "source": "NY Times"
     },
     {
-      "name": "Amazon",
-      "count": 15,
-      "url": "https://www.theguardian.com/thefilter-us/2026/jun/25/air-purifiers-amazon-prime-day-sale",
+      "name": "Louisiana Senate",
+      "count": 21,
+      "url": "https://www.foxnews.com/politics/trump-scores-another-endorsement-win-louisiana-senate-runoff-victory",
+      "source": "Fox News"
+    },
+    {
+      "name": "The White House",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/jun/27/trump-america-250-passports-democrats",
       "source": "The Guardian"
     },
     {
-      "name": "Un",
-      "count": 11,
-      "url": "https://www.theguardian.com/law/2026/jun/27/board-of-peace-legal-immunity-un",
+      "name": "Amazon",
+      "count": 16,
+      "url": "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals",
       "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 14,
+      "url": "https://www.foxnews.com/politics/trump-scores-another-endorsement-win-louisiana-senate-runoff-victory",
+      "source": "Fox News"
     },
     {
       "name": "Guardian",
-      "count": 11,
+      "count": 12,
       "url": "https://www.theguardian.com/law/2026/jun/27/board-of-peace-legal-immunity-un",
       "source": "The Guardian"
     },
@@ -100,21 +106,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "Cbs News",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/jun/27/why-bari-weiss-is-hiring-british-journalists-cbs-news",
+      "name": "Ai",
+      "count": 8,
+      "url": "https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets",
       "source": "The Guardian"
     },
     {
       "name": "Apple Watch Series 11",
-      "count": 9,
-      "url": "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
       "count": 8,
-      "url": "https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets",
+      "url": "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals",
       "source": "The Guardian"
     },
     {
@@ -127,26 +127,26 @@
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 48,
+      "count": 44,
       "url": "https://www.theguardian.com/football/2026/jun/27/world-cup-usmnt-migration-nationalism-dhs-opinion",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup Of Political Football",
-      "count": 22,
+      "count": 18,
       "url": "https://www.theguardian.com/commentisfree/2026/jun/27/american-democracy-washington-dc-reflecting-pool",
       "source": "The Guardian"
     },
     {
       "name": "Wimbledon",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/jun/27/wimbledon-centre-court-debentures-tennis",
+      "count": 4,
+      "url": "https://www.theguardian.com/sport/2026/jun/27/novak-djokovic-inspired-serena-williams-wimbledon-tennis",
       "source": "The Guardian"
     },
     {
-      "name": "World Cup 2026",
+      "name": "This World Cup",
       "count": 3,
-      "url": "https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates",
+      "url": "https://www.theguardian.com/football/2026/jun/28/alphonso-davies-returns-canada-world-cup-moment-of-destiny",
       "source": "The Guardian"
     },
     {
@@ -189,15 +189,27 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 22,
+      "count": 27,
       "url": "https://www.theguardian.com/law/2026/jun/27/board-of-peace-legal-immunity-un",
       "source": "The Guardian"
     },
     {
-      "name": "Kevin Morby",
-      "count": 9,
-      "url": "https://www.cbsnews.com/video/saturday-sessions-kevin-morby-performs-javelin/",
-      "source": "CBS News"
+      "name": "Julia Letlow",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/06/27/us/louisiana-senate-republican-runoff-results.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Lance Schroyer",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/06/27/us/politics/trump-oklahoma-ice-director.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Bill Cassidy",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/06/27/us/louisiana-senate-republican-runoff-results.html",
+      "source": "NY Times"
     },
     {
       "name": "Mauricio Pochettino",
@@ -206,47 +218,35 @@
       "source": "The Guardian"
     },
     {
-      "name": "Andy Burnham",
-      "count": 4,
-      "url": "https://www.theguardian.com/politics/2026/jun/27/andy-burnham-labour-politicians-wonks-influence",
-      "source": "The Guardian"
+      "name": "Sen Dan Sullivan",
+      "count": 6,
+      "url": "https://www.foxnews.com/politics/judge-rules-republican-name-sen-dan-sullivan-stay-alaska-primary-ballot",
+      "source": "Fox News"
     },
     {
-      "name": "George Russell",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/jun/27/russell-snatches-controversial-austrian-grand-prix-pole-after-verstappens-late-crash",
-      "source": "The Guardian"
+      "name": "¡Golazo De Messi",
+      "count": 6,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/golazo-de-messi-el-10-firma-otra-genialidad-de-tiro-libre-con-argentina-y-suma-seis-en-el-mundial-tmvo13198239",
+      "source": "NBC News"
     },
     {
-      "name": "Madison Keys",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/jun/27/madison-keys-gets-wimbledon-boost-with-eastbourne-title-but-osaka-faces-injury-worry",
-      "source": "The Guardian"
+      "name": "Treasurer John Fleming",
+      "count": 6,
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-backed-rep-julia-letlow-wins-louisiana-senate-primary-runoff-rcna351624",
+      "source": "NBC News"
     },
     {
-      "name": "Michelle Obama",
-      "count": 4,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/27/josh-hokit-michelle-obama-remark",
-      "source": "The Guardian"
+      "name": "Andy Beshear",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/06/27/us/kentucky-flood-rain-emergency.html",
+      "source": "NY Times"
     },
     {
-      "name": "Hormuz",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/jun/27/jd-vance-bill-maher-iran-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pete Buttigieg",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/jun/26/pete-buttigieg-cps-family-investigation-accusation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Larry David",
-      "count": 4,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/27/life-larry-and-the-pursuit-of-unhappiness-larry-david",
+      "name": "Zohran Mamdani",
+      "count": 5,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/28/mamdani-democratic-socialist-2028-election",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-06-27T20:11:12Z"
+  "updated": "2026-06-28T05:20:18Z"
 };
