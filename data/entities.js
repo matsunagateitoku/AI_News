@@ -3,13 +3,19 @@
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 32,
+      "count": 35,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
+      "name": "Ai",
+      "count": 15,
+      "url": "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres",
+      "source": "The Guardian"
+    },
+    {
       "name": "Amazon",
-      "count": 16,
+      "count": 14,
       "url": "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals",
       "source": "The Guardian"
     },
@@ -20,53 +26,171 @@
       "source": "The Guardian"
     },
     {
-      "name": "Ai",
+      "name": "The Supreme Court",
       "count": 10,
-      "url": "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres",
+      "url": "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-final-decisions.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Un",
+      "count": 8,
+      "url": "https://www.theguardian.com/world/2026/jun/29/is-it-israels-aim-to-kill-our-children-west-bank-parents-implore-end-to-idfs-child-killings-with-impunity",
       "source": "The Guardian"
     },
     {
-      "name": "Guardian",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/28/the-guardian-view-on-us-military-justice-in-britain-a-disturbing-assault-case-should-raise-the-alarm",
+      "name": "Sky News     Business Live",
+      "count": 7,
+      "url": "https://www.theguardian.com/media/2026/jun/29/comcast-spin-off-nbcuniversal-sky-media-mobile-cable-broadband",
       "source": "The Guardian"
     },
     {
       "name": "Apple Watch Series 11",
-      "count": 8,
+      "count": 7,
       "url": "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals",
       "source": "The Guardian"
     },
     {
-      "name": "The Supreme Court",
-      "count": 8,
-      "url": "https://thehill.com/policy/healthcare/5943361-activists-maha-supreme-court-monsanto/",
-      "source": "The Hill"
+      "name": "Gop",
+      "count": 7,
+      "url": "https://www.nbcnews.com/meet-the-press/video/gop-sen-marshall-says-additional-u-s-strikes-in-iran-just-mop-up-operation-full-interview-265834565704",
+      "source": "NBC News"
     },
     {
-      "name": "Un",
+      "name": "Guardian",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/28/the-guardian-view-on-us-military-justice-in-britain-a-disturbing-assault-case-should-raise-the-alarm",
+      "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 20,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/29/america-250th-anniversary-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Zohran Mamdani",
       "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/jun/28/zohran-mamdani-new-democratic-politics",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Bill Cassidy",
+      "count": 7,
+      "url": "https://www.cbsnews.com/video/062826-face-the-nation/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 6,
+      "url": "https://www.theguardian.com/books/2026/jun/29/communion-finding-my-way-back-to-faith-by-jd-vance-review-veep-behnd-the-curtains",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Stephen Eustáquio",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jude Bellingham",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Serena Williams",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/jun/29/serena-williams-wimbledon-2026-tennis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Lewis Hamilton",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/jun/28/lewis-hamilton-ferrari-f1-austrian-gp",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Sudáfrica",
+      "count": 5,
       "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/stephen-eustaquio-marca-un-golazo-y-adelanta-a-canada-ante-sudafrica-en-los-dieciseisavos-de-final-tmvo13198333",
       "source": "NBC News"
     },
     {
-      "name": "Congress",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/06/28/us/politics/federal-buildings-repair-backlog.html",
+      "name": "Erin Brockovich",
+      "count": 4,
+      "url": "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 49,
+      "url": "https://www.theguardian.com/books/2026/jun/29/communion-finding-my-way-back-to-faith-by-jd-vance-review-veep-behnd-the-curtains",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 40,
+      "url": "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html",
       "source": "NY Times"
     },
     {
-      "name": "Gop",
-      "count": 5,
-      "url": "https://www.nbcnews.com/meet-the-press/video/gop-sen-marshall-says-additional-u-s-strikes-in-iran-just-mop-up-operation-full-interview-265834565704",
-      "source": "NBC News"
+      "name": "Iran",
+      "count": 33,
+      "url": "https://www.nytimes.com/2026/06/29/us/politics/israel-iran-democrats-republicans-midterms.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Venezuela",
+      "count": 27,
+      "url": "https://www.nytimes.com/2026/06/29/podcasts/the-headlines/survivors-venezuela-fires-us.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Canada",
+      "count": 14,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "America",
+      "count": 13,
+      "url": "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "California",
+      "count": 13,
+      "url": "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 12,
+      "url": "https://www.theguardian.com/uk-news/2026/jun/29/cambridgeshire-police-face-questions-sexual-assault-case-us-military",
+      "source": "The Guardian"
+    },
+    {
+      "name": "South Africa",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/06/29/briefing/south-africa-immigration.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/luigi-mangione-court",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The 2026 World Cup",
-      "count": 33,
-      "url": "https://www.theguardian.com/football/2026/jun/28/world-cup-2026-colour-chart-fans-all-teams-gallery",
+      "name": "World Cup Carnival",
+      "count": 32,
+      "url": "https://www.theguardian.com/games/2026/jun/23/the-long-painful-history-of-terrible-world-cup-video-games",
       "source": "The Guardian"
     },
     {
@@ -76,9 +200,15 @@
       "source": "The Guardian"
     },
     {
+      "name": "Wimbledon",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/jun/29/serena-williams-wimbledon-2026-tennis",
+      "source": "The Guardian"
+    },
+    {
       "name": "World Cup 2026",
       "count": 3,
-      "url": "https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup",
+      "url": "https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live",
       "source": "The Guardian"
     },
     {
@@ -100,16 +230,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Wimbledon",
+      "name": "The 2026 Bet Awards",
       "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/jun/28/emma-raducanu-pledges-to-do-everything-in-race-for-fitness-at-wimbledon",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Iran War",
-      "count": 2,
-      "url": "https://www.theguardian.com/us-news/2026/jun/28/children-activism-social-justice",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-06-29/2026-bet-awards-memorable-moments-card-b-laryn-hill-sza-doechii",
+      "source": "LA Times"
     },
     {
       "name": "The Fifa World Cup",
@@ -118,135 +242,11 @@
       "source": "LA Times"
     },
     {
-      "name": "Iran Risks Peace Talks",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html",
-      "source": "NY Times"
+      "name": "The Great American Bash",
+      "count": 2,
+      "url": "https://www.foxnews.com/sports/kendal-grey-captures-wwe-nxt-womens-championship-great-american-bash",
+      "source": "Fox News"
     }
   ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 22,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/28/america-250-origin-myth-narrative-power",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Zohran Mamdani",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/jun/28/zohran-mamdani-new-democratic-politics",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vladimir Putin",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Bill Cassidy",
-      "count": 7,
-      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-06-28-2026/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Stephen Eustáquio",
-      "count": 6,
-      "url": "https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gore",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/jun/28/firefighter-deaths-utah-colorado-wildfires",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Lewis Hamilton",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/jun/28/lewis-hamilton-ferrari-f1-austrian-gp",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Sudáfrica",
-      "count": 5,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/stephen-eustaquio-marca-un-golazo-y-adelanta-a-canada-ante-sudafrica-en-los-dieciseisavos-de-final-tmvo13198333",
-      "source": "NBC News"
-    },
-    {
-      "name": "Erin Brockovich",
-      "count": 4,
-      "url": "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Joe Biden",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/trump-news-at-a-glance-biden-calls-president-loser-diminished-us-standing-in-world",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 48,
-      "url": "https://www.theguardian.com/us-news/2026/jun/28/zohran-mamdani-new-democratic-politics",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 42,
-      "url": "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 31,
-      "url": "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 21,
-      "url": "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Canada",
-      "count": 19,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Venezuela",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/06/28/world/americas/caracas-venezuela-earthquake-rescue.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 16,
-      "url": "https://www.theguardian.com/sport/2026/jun/28/audrey-werro-edges-closer-womens-800m-world-record-paris-diamond-league-athletics",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Colorado",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/06/28/us/wildfires-utah-colorado-firefighters-deaths.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Russia",
-      "count": 13,
-      "url": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
-      "source": "The Guardian"
-    },
-    {
-      "name": "America",
-      "count": 12,
-      "url": "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/",
-      "source": "Washington Post"
-    }
-  ],
-  "updated": "2026-06-29T05:54:25Z"
+  "updated": "2026-06-29T12:02:44Z"
 };

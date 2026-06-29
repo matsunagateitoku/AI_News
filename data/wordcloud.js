@@ -3,52 +3,42 @@
   [
     "cup",
     63,
-    "https://www.washingtonpost.com/nation/2026/06/27/us-cities-big-small-summer-crowds-signal-an-urban-comeback/"
+    "https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live"
   ],
   [
     "trump",
-    57,
-    "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html"
-  ],
-  [
-    "president",
-    37,
-    "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html"
-  ],
-  [
-    "air",
-    37,
-    "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/"
+    59,
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-final-decisions.html"
   ],
   [
     "iran",
-    33,
-    "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html"
+    38,
+    "https://www.nytimes.com/2026/06/29/us/politics/israel-iran-democrats-republicans-midterms.html"
   ],
   [
-    "country",
-    30,
-    "https://www.nytimes.com/article/venezuela-earthquakes-death-toll-aid-response.html"
+    "court",
+    33,
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-final-decisions.html"
+  ],
+  [
+    "president",
+    31,
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-final-decisions.html"
   ],
   [
     "american",
-    28,
-    "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html"
+    29,
+    "https://www.nytimes.com/2026/06/29/business/oil-gas-price-iran.html"
   ],
   [
-    "war",
-    28,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "country",
+    29,
+    "https://www.nytimes.com/article/venezuela-earthquakes-death-toll-aid-response.html"
   ],
   [
-    "win",
+    "venezuela",
     27,
-    "https://www.theguardian.com/us-news/2026/jun/28/zohran-mamdani-new-democratic-politics"
-  ],
-  [
-    "prime",
-    27,
-    "https://www.theguardian.com/world/2026/jun/29/ukraine-war-briefing-putin-expects-us-negotiators-moscow-fuel-rationing-siberia"
+    "https://www.nytimes.com/2026/06/29/podcasts/the-headlines/survivors-venezuela-fires-us.html"
   ],
   [
     "game",
@@ -56,199 +46,164 @@
     "https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup"
   ],
   [
-    "court",
-    24,
-    "https://www.theguardian.com/us-news/2026/jun/28/markwayne-mullin-migrants-permanent-residence-tps-ruling"
-  ],
-  [
-    "heat",
-    23,
-    "https://www.nytimes.com/2026/06/28/weather/heat-wave-usa-nyc-dc-philadelpha.html"
-  ],
-  [
     "team",
+    24,
+    "https://www.nytimes.com/2026/06/28/world/americas/deep-under-the-rubble-rescuers-find-an-11-year-old-boy-alive.html"
+  ],
+  [
+    "prime",
+    24,
+    "https://www.theguardian.com/thefilter-us/2026/jun/26/k-beauty-prime-day-sale"
+  ],
+  [
+    "air",
     23,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "california",
-    23,
-    "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres"
-  ],
-  [
-    "always",
-    21,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/28/america-250-origin-myth-narrative-power"
-  ],
-  [
-    "history",
-    20,
-    "https://www.nytimes.com/2026/06/28/arts/250-american-history-states-trump.html"
-  ],
-  [
-    "don",
-    20,
-    "https://www.theguardian.com/thefilter-us/2026/jun/28/tucktec-10-pro-folding-kayak-review"
-  ],
-  [
-    "south",
-    19,
-    "https://www.theguardian.com/us-news/2026/jun/28/heatwave-humidity-fourth-of-july-weather"
+    "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/"
   ],
   [
     "star",
-    19,
-    "https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup"
-  ],
-  [
-    "deals",
-    19,
-    "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals"
-  ],
-  [
-    "everything",
-    18,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "canada",
-    18,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "strikes",
-    18,
-    "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages"
-  ],
-  [
-    "final",
-    18,
-    "https://www.theguardian.com/football/2026/jun/28/iran-world-cup-exit-heartbreak"
+    23,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/29/robin-byrd-documentary-porn-star-late-night-tv-icon"
   ],
   [
     "video",
+    22,
+    "https://www.nytimes.com/2026/06/28/world/americas/deep-under-the-rubble-rescuers-find-an-11-year-old-boy-alive.html"
+  ],
+  [
+    "south",
+    21,
+    "https://www.nytimes.com/2026/06/29/briefing/south-africa-immigration.html"
+  ],
+  [
+    "final",
+    20,
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-final-decisions.html"
+  ],
+  [
+    "children",
+    20,
+    "https://www.theguardian.com/world/2026/jun/29/is-it-israels-aim-to-kill-our-children-west-bank-parents-implore-end-to-idfs-child-killings-with-impunity"
+  ],
+  [
+    "heat",
+    19,
+    "https://www.nytimes.com/2026/06/28/weather/heat-wave-usa-nyc-dc-philadelphia.html"
+  ],
+  [
+    "film",
+    19,
+    "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres"
+  ],
+  [
+    "attacks",
     18,
-    "https://www.theguardian.com/world/video/2026/jun/29/australian-man-charged-murder-thailand-teenager-family-speak-ntwnfb"
+    "https://www.nytimes.com/2026/06/29/business/oil-gas-price-iran.html"
   ],
   [
-    "venezuela",
-    17,
-    "https://www.nytimes.com/2026/06/28/world/americas/caracas-venezuela-earthquake-rescue.html"
-  ],
-  [
-    "killed",
-    17,
+    "latest",
+    18,
     "https://www.nytimes.com/article/venezuela-earthquakes-death-toll-aid-response.html"
   ],
   [
-    "guide",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/jun/28/tucktec-10-pro-folding-kayak-review"
+    "don",
+    18,
+    "https://www.nytimes.com/2026/06/29/world/europe/russia-ukraine-rhetoric.html"
   ],
   [
-    "british",
-    17,
-    "https://www.theguardian.com/culture/2026/jun/29/britain-frenzy-festivals-riots-toilets"
+    "place",
+    18,
+    "https://www.theguardian.com/books/2026/jun/29/communion-finding-my-way-back-to-faith-by-jd-vance-review-veep-behnd-the-curtains"
   ],
   [
-    "amazon",
+    "win",
+    18,
+    "https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live"
+  ],
+  [
+    "love",
+    17,
+    "https://www.nytimes.com/2026/06/29/opinion/politics/trump-vibe-shift.html"
+  ],
+  [
+    "california",
+    17,
+    "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres"
+  ],
+  [
+    "deals",
     17,
     "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals"
   ],
   [
-    "death",
+    "war",
+    16,
+    "https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html"
+  ],
+  [
+    "killed",
     16,
     "https://www.nytimes.com/article/venezuela-earthquakes-death-toll-aid-response.html"
   ],
   [
-    "latest",
+    "political",
     16,
     "https://www.nytimes.com/article/venezuela-earthquakes-death-toll-aid-response.html"
   ],
   [
     "weekend",
     16,
-    "https://www.nytimes.com/2026/06/28/weather/heat-wave-usa-nyc-dc-philadelpha.html"
+    "https://www.nytimes.com/2026/06/28/business/media/supergirl-box-office.html"
   ],
   [
-    "summer",
+    "everything",
     16,
-    "https://www.washingtonpost.com/nation/2026/06/27/us-cities-big-small-summer-crowds-signal-an-urban-comeback/"
+    "https://www.nytimes.com/2026/06/29/opinion/siblings-families-shrinking.html"
   ],
   [
-    "border",
+    "sale",
     16,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/thefilter-us/2026/jun/26/k-beauty-prime-day-sale"
   ],
   [
-    "love",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/jun/28/tucktec-10-pro-folding-kayak-review"
-  ],
-  [
-    "children",
-    16,
-    "https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report"
-  ],
-  [
-    "series",
-    16,
-    "https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report"
-  ],
-  [
-    "los",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/26/mistrial-arson-california-pacific-palisades-wildfire"
-  ],
-  [
-    "championship",
-    16,
-    "https://www.theguardian.com/wellness/2026/jun/28/francis-tolu-pizza-athlete"
-  ],
-  [
-    "little",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/28/spirit-airlines-greyhound-bus-travel-boom"
-  ],
-  [
-    "del",
-    16,
-    "https://www.theguardian.com/culture/2026/jun/27/my-cultural-awakening-brokeback-mountain-kept-me-in-closet"
-  ],
-  [
-    "firefighters",
+    "americans",
     15,
-    "https://www.nytimes.com/2026/06/28/us/wildfires-utah-colorado-firefighters-deaths.html"
+    "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/"
   ],
   [
-    "money",
+    "powerful",
     15,
-    "https://www.nytimes.com/2026/06/29/opinion/ai-economy-affordability.html"
-  ],
-  [
-    "local",
-    15,
-    "https://www.nytimes.com/2026/06/28/nyregion/nyc-pride-parade-march.html"
-  ],
-  [
-    "water",
-    15,
-    "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres"
-  ],
-  [
-    "film",
-    15,
-    "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres"
-  ],
-  [
-    "near",
-    15,
-    "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
     "enough",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/28/tucktec-10-pro-folding-kayak-review"
+    "https://www.theguardian.com/football/2026/jun/28/morocco-netherlands-world-cup-2026-preview"
+  ],
+  [
+    "always",
+    15,
+    "https://www.theguardian.com/football/2026/jun/28/carlo-ancelotti-brazil-japan-world-cup"
+  ],
+  [
+    "strikes",
+    15,
+    "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement"
+  ],
+  [
+    "family",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/29/penelope-keith-star-of-the-good-life-and-to-the-manor-born-dies-aged-86"
+  ],
+  [
+    "guide",
+    15,
+    "https://www.theguardian.com/film/2026/jun/29/the-last-assassins-review-shades-of-blade-runner-in-dystopian-thriller-shrouded-in-silty-green-murk"
+  ],
+  [
+    "games",
+    15,
+    "https://www.theguardian.com/games/2026/jun/23/the-long-painful-history-of-terrible-world-cup-video-games"
   ],
   [
     "filter",
@@ -256,19 +211,9 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/28/tucktec-10-pro-folding-kayak-review"
   ],
   [
-    "family",
+    "amazon",
     15,
-    "https://www.theguardian.com/uk-news/2026/jun/28/kate-completes-three-peaks-challenge-to-raise-money-for-cancer-charity"
-  ],
-  [
-    "sale",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/26/k-beauty-prime-day-sale"
-  ],
-  [
-    "sen",
-    15,
-    "https://www.foxnews.com/media/pro-israel-democrat-california-state-senator-heckled-trans-march-gaza"
+    "https://www.theguardian.com/thefilter-us/2026/jun/24/prime-day-apple-watch-deals"
   ],
   [
     "que",
@@ -276,103 +221,158 @@
     "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/stephen-eustaquio-marca-un-golazo-y-adelanta-a-canada-ante-sudafrica-en-los-dieciseisavos-de-final-tmvo13198333"
   ],
   [
-    "states",
+    "talks",
     14,
     "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html"
   ],
   [
-    "attacks",
+    "social",
     14,
-    "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html"
+    "https://www.nytimes.com/2026/06/29/books/review/liberals-are-preaching-moral-values.html"
   ],
   [
-    "fuel",
+    "history",
     14,
-    "https://www.nytimes.com/2026/06/27/upshot/airfares-jet-fuel-prices.html"
+    "https://www.nytimes.com/2026/06/29/books/review/liberals-are-preaching-moral-values.html"
   ],
   [
-    "fans",
+    "soccer",
     14,
-    "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/"
+    "https://www.nytimes.com/2026/06/29/world/americas/for-these-teens-soccer-is-life-now-the-cartels-want-in.html"
   ],
   [
-    "night",
+    "military",
+    14,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "water",
+    14,
+    "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres"
+  ],
+  [
+    "online",
     14,
     "https://www.theguardian.com/global-development/2026/jun/29/trafficked-beaten-raped-raids-abuse-women-asia-cyberscam-centres"
   ],
   [
+    "summer",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/29/america-250th-anniversary-trump"
+  ],
+  [
     "really",
     14,
-    "https://www.theguardian.com/society/2026/jun/28/do-you-need-electrolytes-will-tea-cool-you-down-is-it-safe-to-drink-beer-how-to-stay-hydrated-in-a-heatwave"
+    "https://www.theguardian.com/us-news/2026/jun/29/fossil-fuel-federal-lands-public-input"
   ],
   [
-    "round",
+    "bill",
     14,
-    "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement"
+    "https://www.theguardian.com/film/2026/jun/29/groundhog-day-feelgood-movie"
   ],
   [
-    "games",
+    "los",
     14,
-    "https://www.theguardian.com/wellness/2026/jun/28/francis-tolu-pizza-athlete"
+    "https://www.latimes.com/california/story/2026-06-29/los-angeles-rescue-team-venezuela-earthquakes-southern-california-mobilizes"
   ],
   [
-    "fire",
+    "states",
     13,
     "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html"
   ],
   [
-    "colorado",
+    "canada",
     13,
-    "https://www.nytimes.com/2026/06/28/us/wildfires-utah-colorado-firefighters-deaths.html"
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "americans",
-    13,
-    "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/"
-  ],
-  [
-    "military",
-    13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "because",
+    "company",
     13,
     "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres"
   ],
   [
-    "russia",
+    "companies",
     13,
-    "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages"
+    "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres"
   ],
   [
-    "bill",
+    "night",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/28/love-gone-but-costs-too-much-to-move-out-ntwnfb"
+    "https://www.theguardian.com/global-development/2026/jun/29/trafficked-beaten-raped-raids-abuse-women-asia-cyberscam-centres"
   ],
   [
-    "peace",
+    "book",
+    13,
+    "https://www.theguardian.com/books/2026/jun/29/communion-finding-my-way-back-to-faith-by-jd-vance-review-veep-behnd-the-curtains"
+  ],
+  [
+    "media",
+    13,
+    "https://www.theguardian.com/media/2026/jun/29/comcast-spin-off-nbcuniversal-sky-media-mobile-cable-broadband"
+  ],
+  [
+    "round",
+    13,
+    "https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup"
+  ],
+  [
+    "democratic",
+    13,
+    "https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.theguardian.com/artanddesign/2026/jun/29/berlin-exhibition-east-german-artist-gabriele-stotzer"
+  ],
+  [
+    "search",
+    12,
+    "https://www.nytimes.com/2026/06/29/podcasts/the-headlines/survivors-venezuela-fires-us.html"
+  ],
+  [
+    "united",
     12,
     "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html"
   ],
   [
+    "supreme",
+    12,
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-final-decisions.html"
+  ],
+  [
+    "earthquakes",
+    12,
+    "https://www.nytimes.com/article/venezuela-earthquakes-death-toll-aid-response.html"
+  ],
+  [
+    "death",
+    12,
+    "https://www.nytimes.com/article/venezuela-earthquakes-death-toll-aid-response.html"
+  ],
+  [
+    "watch",
+    12,
+    "https://www.nytimes.com/2026/06/29/movies/best-movies-2026.html"
+  ],
+  [
+    "experts",
+    12,
+    "https://www.nytimes.com/2026/06/29/well/glp1-drugs-ozempic-longevity.html"
+  ],
+  [
     "temperatures",
     12,
-    "https://www.nytimes.com/2026/06/28/weather/heat-wave-usa-nyc-dc-philadelpha.html"
+    "https://www.nytimes.com/2026/06/28/weather/heat-wave-usa-nyc-dc-philadelphia.html"
   ],
   [
-    "york",
+    "america",
     12,
-    "https://www.nytimes.com/2026/06/28/nyregion/nyc-pride-parade-march.html"
+    "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/"
   ],
   [
-    "place",
+    "deadly",
     12,
-    "https://www.nytimes.com/2026/06/28/nyregion/nyc-pride-parade-march.html"
-  ],
-  [
-    "black",
-    12,
-    "https://www.washingtonpost.com/nation/2026/06/28/why-black-college-graduates-are-struggling-find-jobs-trumps-economy/"
+    "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/"
   ]
 ];
