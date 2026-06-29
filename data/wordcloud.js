@@ -2,38 +2,28 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "court",
-    78,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-late-mail-ballots.html"
+    88,
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
   ],
   [
     "trump",
-    69,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-trump-sexual-assault.html"
-  ],
-  [
-    "cup",
-    63,
-    "https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live"
+    81,
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
   ],
   [
     "supreme",
+    68,
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
+  ],
+  [
+    "cup",
     61,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-late-mail-ballots.html"
+    "https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live"
   ],
   [
     "president",
-    39,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-trump-sexual-assault.html"
-  ],
-  [
-    "iran",
-    31,
-    "https://www.nytimes.com/2026/06/29/us/politics/israel-iran-democrats-republicans-midterms.html"
-  ],
-  [
-    "case",
-    28,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-trump-sexual-assault.html"
+    45,
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
   ],
   [
     "rice",
@@ -41,14 +31,14 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "latest",
+    "case",
     24,
-    "https://www.nytimes.com/2026/06/29/world/americas/for-these-teens-soccer-is-life-now-the-cartels-want-in.html"
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-trump-sexual-assault.html"
   ],
   [
-    "star",
+    "iran",
     24,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/29/robin-byrd-documentary-porn-star-late-night-tv-icon"
+    "https://www.theguardian.com/world/2026/jun/29/oman-safe-reopening-strait-hormuz-iran-us-middle-east"
   ],
   [
     "game",
@@ -56,24 +46,29 @@
     "https://www.theguardian.com/sport/live/2026/jun/29/wimbledon-2026-sinner-sabalenka-djokovic-and-more-in-action-on-day-one-live"
   ],
   [
-    "fire",
+    "decision",
     23,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
   ],
   [
-    "country",
+    "star",
+    23,
+    "https://www.theguardian.com/tv-and-radio/2026/jun/29/robin-byrd-documentary-porn-star-late-night-tv-icon"
+  ],
+  [
+    "law",
     22,
-    "https://www.nytimes.com/2026/06/29/opinion/politics/trump-vibe-shift.html"
+    "https://www.nytimes.com/2026/06/29/us/politics/colorado-supreme-court-rejects-democratic-redistricting-plans.html"
   ],
   [
-    "heat",
+    "california",
     21,
-    "https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html"
+    "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres"
   ],
   [
-    "final",
+    "place",
     21,
-    "https://www.theguardian.com/football/2026/jun/28/carlo-ancelotti-brazil-japan-world-cup"
+    "https://www.theguardian.com/world/2026/jun/29/trump-iran-peace-talks-doha"
   ],
   [
     "air",
@@ -81,29 +76,49 @@
     "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/"
   ],
   [
-    "place",
-    19,
-    "https://www.theguardian.com/books/2026/jun/29/communion-finding-my-way-back-to-faith-by-jd-vance-review-veep-behnd-the-curtains"
-  ],
-  [
-    "win",
-    19,
-    "https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live"
-  ],
-  [
-    "cook",
-    19,
-    "https://www.theguardian.com/thefilter-us/2026/jun/28/tucktec-10-pro-folding-kayak-review"
+    "summer",
+    20,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/29/america-250th-anniversary-trump"
   ],
   [
     "mail",
-    18,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-late-mail-ballots.html"
+    19,
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
+  ],
+  [
+    "ballots",
+    19,
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
+  ],
+  [
+    "election",
+    19,
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
+  ],
+  [
+    "country",
+    19,
+    "https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html"
+  ],
+  [
+    "fire",
+    19,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "team",
+    19,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "don",
+    19,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/29/america-250th-anniversary-trump"
+  ],
+  [
+    "states",
     18,
-    "https://www.nytimes.com/2026/06/28/world/americas/deep-under-the-rubble-rescuers-find-an-11-year-old-boy-alive.html"
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
   ],
   [
     "enough",
@@ -111,44 +126,44 @@
     "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html"
   ],
   [
-    "don",
+    "american",
     18,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/29/america-250th-anniversary-trump"
+    "https://www.nytimes.com/2026/06/29/magazine/american-parenting-french-children.html"
+  ],
+  [
+    "heat",
+    18,
+    "https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html"
+  ],
+  [
+    "power",
+    18,
+    "https://www.nytimes.com/2026/06/29/opinion/supreme-court-firings-trump-ftc-fed.html"
+  ],
+  [
+    "america",
+    18,
+    "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/"
+  ],
+  [
+    "games",
+    18,
+    "https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live"
+  ],
+  [
+    "tournament",
+    17,
+    "https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live"
   ],
   [
     "video",
     17,
-    "https://www.nytimes.com/2026/06/28/world/americas/deep-under-the-rubble-rescuers-find-an-11-year-old-boy-alive.html"
+    "https://www.theguardian.com/music/2026/jun/27/chanel-beads-your-day-will-come-interview"
   ],
   [
-    "american",
-    17,
-    "https://www.nytimes.com/2026/06/29/magazine/american-parenting-french-children.html"
-  ],
-  [
-    "children",
-    17,
-    "https://www.nytimes.com/2026/06/29/magazine/american-parenting-french-children.html"
-  ],
-  [
-    "summer",
-    17,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/29/america-250th-anniversary-trump"
-  ],
-  [
-    "killed",
-    17,
-    "https://www.theguardian.com/world/2026/jun/29/families-of-football-stars-hector-bello-lucas-trejo-killed-venezuela-earthquakes"
-  ],
-  [
-    "ballots",
+    "latest",
     16,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-late-mail-ballots.html"
-  ],
-  [
-    "election",
-    16,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-late-mail-ballots.html"
+    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
   ],
   [
     "million",
@@ -156,54 +171,59 @@
     "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-trump-sexual-assault.html"
   ],
   [
-    "love",
+    "weekend",
     16,
-    "https://www.nytimes.com/2026/06/29/opinion/politics/trump-vibe-shift.html"
+    "https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html"
   ],
   [
-    "company",
+    "americans",
     16,
-    "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres"
+    "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/"
   ],
   [
-    "really",
-    16,
-    "https://www.theguardian.com/us-news/2026/jun/29/fossil-fuel-federal-lands-public-input"
-  ],
-  [
-    "round",
-    16,
-    "https://www.theguardian.com/football/2026/jun/28/morocco-netherlands-world-cup-2026-preview"
-  ],
-  [
-    "military",
+    "save",
     15,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/06/29/us/elections/colorado-primary-gen-z.html"
   ],
   [
-    "night",
+    "children",
     15,
-    "https://www.theguardian.com/global-development/2026/jun/29/trafficked-beaten-raped-raids-abuse-women-asia-cyberscam-centres"
+    "https://www.nytimes.com/2026/06/29/magazine/american-parenting-french-children.html"
   ],
   [
-    "political",
+    "died",
     15,
-    "https://www.theguardian.com/books/2026/jun/29/communion-finding-my-way-back-to-faith-by-jd-vance-review-veep-behnd-the-curtains"
-  ],
-  [
-    "strikes",
-    15,
-    "https://www.theguardian.com/world/2026/jun/29/trump-iran-peace-talks-doha"
+    "https://www.nytimes.com/2026/06/29/us/what-to-know-wildfires-colorado-utah-arizona-new-mexico-nevada.html"
   ],
   [
     "guide",
     15,
-    "https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live"
+    "https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live"
   ],
   [
-    "season",
+    "company",
     15,
-    "https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live"
+    "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres"
+  ],
+  [
+    "cook",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-trump-agency-firings-slaughter-ftc"
+  ],
+  [
+    "killed",
+    15,
+    "https://www.theguardian.com/world/2026/jun/29/strong-aftershock-terrifies-venezuelans-days-after-devastating-twin-quakes"
+  ],
+  [
+    "university",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/29/california-professor-gaza-protest-reinstated"
+  ],
+  [
+    "police",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/29/man-dies-heart-attack-discarding-girlfriend-body"
   ],
   [
     "filter",
@@ -211,54 +231,54 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/29/what-to-know-sleep-masks-skin"
   ],
   [
-    "games",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/29/learning-archery-how-to-shoot-a-bow-and-arrow-my-rookie-era"
-  ],
-  [
-    "tournament",
-    15,
-    "https://www.theguardian.com/football/2026/jun/29/canada-world-cup-2026-hosting-impact"
-  ],
-  [
-    "history",
+    "love",
     14,
-    "https://www.nytimes.com/2026/06/29/books/review/liberals-are-preaching-moral-values.html"
+    "https://www.nytimes.com/2026/06/29/opinion/politics/trump-vibe-shift.html"
   ],
   [
-    "south",
+    "questions",
     14,
-    "https://www.nytimes.com/2026/06/29/briefing/south-africa-immigration.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "americans",
+    "night",
     14,
-    "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/"
+    "https://www.theguardian.com/tv-and-radio/2026/jun/29/robin-byrd-documentary-porn-star-late-night-tv-icon"
   ],
   [
-    "california",
+    "congress",
     14,
-    "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres"
+    "https://www.theguardian.com/commentisfree/2026/jun/29/supreme-court-immigration-rulings-danger"
   ],
   [
-    "film",
+    "park",
     14,
-    "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/29/america-250th-anniversary-trump"
   ],
   [
-    "power",
+    "really",
     14,
-    "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres"
+    "https://www.theguardian.com/us-news/2026/jun/29/fossil-fuel-federal-lands-public-input"
   ],
   [
-    "online",
+    "round",
     14,
-    "https://www.theguardian.com/global-development/2026/jun/29/trafficked-beaten-raped-raids-abuse-women-asia-cyberscam-centres"
+    "https://www.theguardian.com/sport/2026/jun/29/usmnt-bosnia-herzegovina-world-cup-round-of-32-preview"
   ],
   [
-    "always",
+    "york",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/29/learning-archery-how-to-shoot-a-bow-and-arrow-my-rookie-era"
+    "https://www.theguardian.com/football/2026/jun/29/didier-deschamps-france-sweden-world-cup-2026-round-of-32"
+  ],
+  [
+    "final",
+    14,
+    "https://www.theguardian.com/sport/live/2026/jun/29/wimbledon-2026-sinner-sabalenka-djokovic-and-more-in-action-on-day-one-live"
+  ],
+  [
+    "trade",
+    14,
+    "https://www.theguardian.com/sport/2026/jun/29/warriors-reportedly-lining-up-deals-to-unite-lebron-james-stephen-curry-and-anthony-davis"
   ],
   [
     "cooker",
@@ -266,34 +286,9 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "death",
+    "administration",
     13,
-    "https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-death-toll.html"
-  ],
-  [
-    "workers",
-    13,
-    "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html"
-  ],
-  [
-    "comcast",
-    13,
-    "https://www.nytimes.com/2026/06/29/business/comcast-nbcuniversal-spinoff.html"
-  ],
-  [
-    "weekend",
-    13,
-    "https://www.nytimes.com/2026/06/28/weather/heat-wave-usa-nyc-dc-philadelphia.html"
-  ],
-  [
-    "league",
-    13,
-    "https://www.nytimes.com/2026/06/29/world/americas/for-these-teens-soccer-is-life-now-the-cartels-want-in.html"
-  ],
-  [
-    "field",
-    13,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.html"
   ],
   [
     "everything",
@@ -301,29 +296,19 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "trump's",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
     "book",
     13,
-    "https://www.theguardian.com/books/2026/jun/29/communion-finding-my-way-back-to-faith-by-jd-vance-review-veep-behnd-the-curtains"
-  ],
-  [
-    "west",
-    13,
-    "https://www.theguardian.com/books/2026/jun/29/communion-finding-my-way-back-to-faith-by-jd-vance-review-veep-behnd-the-curtains"
+    "https://www.theguardian.com/commentisfree/2026/jun/29/supreme-court-immigration-rulings-danger"
   ],
   [
     "school",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/29/texas-muslims-hate-speech"
+    "https://www.theguardian.com/film/2026/jun/29/tom-hardy-rap-album"
   ],
   [
-    "police",
+    "always",
     13,
-    "https://www.theguardian.com/world/2026/jun/29/shooter-kills-adults-stade-youth-welfare-facility-germany"
+    "https://www.theguardian.com/world/2026/jun/29/oman-safe-reopening-strait-hormuz-iran-us-middle-east"
   ],
   [
     "buying",
@@ -331,19 +316,49 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/29/what-to-know-sleep-masks-skin"
   ],
   [
-    "states",
+    "fifa",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jun/29/supreme-court-immigration-rulings-danger"
+    "https://www.theguardian.com/football/2026/jun/29/how-victor-montagliani-rose-to-the-fifa-elite-despite-past-controversies"
   ],
   [
-    "party",
+    "food",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jun/28/reagan-jd-vance-nixon-watergate-republicans"
+    "https://www.theguardian.com/commentisfree/2026/jun/26/rotisserie-chickens-in-the-trash-i-worked-in-a-supermarket-and-saw-shocking-food-waste-every-day"
   ],
   [
-    "lisa",
+    "political",
     13,
-    "https://www.npr.org/2026/06/29/nx-s1-5557955/supreme-court-fed-lisa-cook"
+    "https://www.theguardian.com/news/2026/jun/29/europe-law-reparative-justice-un-resolution"
+  ],
+  [
+    "prime",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jun/29/the-guardian-view-on-andy-burnhams-speech-rewiring-britain-needs-westminster-to-give-up-real-power"
+  ],
+  [
+    "talks",
+    13,
+    "https://www.theguardian.com/world/2026/jun/29/trump-iran-peace-talks-doha"
+  ],
+  [
+    "ruling",
+    13,
+    "https://www.theguardian.com/environment/2026/jun/27/trump-epa-court-ruling-soot-pollution"
+  ],
+  [
+    "para",
+    13,
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/a-cazar-utopias-paraguay-apela-a-la-unidad-del-equipo-para-enfrentar-a-alemania-tmvo13198625"
+  ],
+  [
+    "colorado",
+    12,
+    "https://www.nytimes.com/2026/06/29/us/politics/colorado-supreme-court-rejects-democratic-redistricting-plans.html"
+  ],
+  [
+    "democratic",
+    12,
+    "https://www.nytimes.com/2026/06/29/us/politics/colorado-supreme-court-rejects-democratic-redistricting-plans.html"
   ],
   [
     "san",
@@ -351,28 +366,13 @@
     "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html"
   ],
   [
-    "business",
+    "stay",
     12,
-    "https://www.nytimes.com/2026/06/29/business/comcast-nbcuniversal-spinoff.html"
+    "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html"
   ],
   [
-    "others",
+    "agencies",
     12,
-    "https://www.nytimes.com/2026/06/29/us/springfield-ohio-haitians-tps.html"
-  ],
-  [
-    "black",
-    12,
-    "https://www.washingtonpost.com/nation/2026/06/28/why-black-college-graduates-are-struggling-find-jobs-trumps-economy/"
-  ],
-  [
-    "won",
-    12,
-    "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/"
-  ],
-  [
-    "attacks",
-    12,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.html"
   ]
 ];
