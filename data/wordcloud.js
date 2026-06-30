@@ -2,138 +2,123 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    92,
-    "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html"
-  ],
-  [
-    "court",
-    84,
-    "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html"
-  ],
-  [
-    "supreme",
-    61,
+    86,
     "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html"
   ],
   [
     "cup",
-    59,
-    "https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report"
+    67,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/30/my-week-savouring-lifes-little-pleasures-drilling-holes-licking-trees"
+  ],
+  [
+    "court",
+    53,
+    "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html"
+  ],
+  [
+    "supreme",
+    44,
+    "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html"
   ],
   [
     "president",
-    45,
+    34,
     "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html"
-  ],
-  [
-    "case",
-    31,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-trump-sexual-assault.html"
-  ],
-  [
-    "rice",
-    29,
-    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
-  ],
-  [
-    "heat",
-    27,
-    "https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html"
-  ],
-  [
-    "air",
-    26,
-    "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/"
   ],
   [
     "los",
-    25,
-    "https://www.nytimes.com/2026/06/29/us/california-election-ballot-counting-money.html"
+    31,
+    "https://www.theguardian.com/sport/2026/jun/30/aqueduct-racetrack-closing-last-day-horse-racing-photos"
   ],
   [
-    "star",
-    25,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/29/robin-byrd-documentary-porn-star-late-night-tv-icon"
+    "rice",
+    28,
+    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
     "game",
-    24,
-    "https://www.theguardian.com/football/2026/jun/29/the-right-path-carlo-ancelotti-keeps-cool-as-brazil-come-from-behind-to-beat-japan"
+    26,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/30/my-week-savouring-lifes-little-pleasures-drilling-holes-licking-trees"
   ],
   [
-    "fire",
-    23,
-    "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html"
-  ],
-  [
-    "million",
-    23,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-trump-sexual-assault.html"
+    "iran",
+    25,
+    "https://www.nytimes.com/2026/06/30/business/strait-hormuz-ships-iran-war.html"
   ],
   [
     "american",
-    23,
-    "https://www.theguardian.com/us-news/video/2026/jun/29/prairieland-zines-stateside-podcast"
+    24,
+    "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news"
   ],
   [
-    "died",
+    "america",
+    24,
+    "https://www.theguardian.com/world/2026/jun/30/nyc-queer-community-america-250-birthday"
+  ],
+  [
+    "heat",
+    23,
+    "https://www.nytimes.com/2026/06/30/podcasts/the-headlines/supreme-court-trump-heat-wave.html"
+  ],
+  [
+    "country",
     22,
-    "https://www.nytimes.com/2026/06/29/us/women-forest-firefighter-deaths-emily-barker.html"
+    "https://www.nytimes.com/2026/06/30/magazine/florida-death-penalty.html"
+  ],
+  [
+    "air",
+    22,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "california",
     21,
-    "https://www.nytimes.com/2026/06/29/us/california-election-ballot-counting-money.html"
+    "https://www.theguardian.com/sport/2026/jun/29/usmnt-bosnia-herzegovina-world-cup-round-of-32-preview"
   ],
   [
-    "don",
-    21,
-    "https://www.theguardian.com/artanddesign/2026/jun/30/bayeux-great-medieval-art-cathedrals"
-  ],
-  [
-    "place",
-    21,
-    "https://www.theguardian.com/football/2026/jun/29/noni-madueke-england-democratic-republic-congo-world-cup-2026"
-  ],
-  [
-    "video",
-    21,
-    "https://www.theguardian.com/world/2026/jun/30/ukraine-war-briefing-zelenskyy-ridicules-russian-military-drive-saying-putin-keeps-postponing-goal-deadlines"
-  ],
-  [
-    "states",
+    "colorado",
     20,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
-  ],
-  [
-    "political",
-    20,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind"
-  ],
-  [
-    "decision",
-    19,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
+    "https://www.nytimes.com/2026/06/29/us/politics/colorado-primaries-what-to-watch.html"
   ],
   [
     "administration",
-    19,
+    20,
     "https://www.nytimes.com/2026/06/29/nyregion/hudson-tunnel-trump-funding-judge-ruling.html"
   ],
   [
-    "country",
+    "university",
+    20,
+    "https://www.nytimes.com/2026/06/30/nyregion/columbia-university-new-president.html"
+  ],
+  [
+    "star",
+    20,
+    "https://www.theguardian.com/culture/2026/jun/30/louis-ck-ridiculous-review-netflix"
+  ],
+  [
+    "fire",
     19,
-    "https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html"
+    "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html"
   ],
   [
-    "power",
-    18,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-independent-regulator-firings.html"
+    "political",
+    19,
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind"
   ],
   [
-    "save",
+    "place",
+    19,
+    "https://www.theguardian.com/world/2026/jun/30/nyc-queer-community-america-250-birthday"
+  ],
+  [
+    "democratic",
     18,
-    "https://www.nytimes.com/2026/06/29/us/elections/colorado-primary-gen-z.html"
+    "https://www.nytimes.com/2026/06/30/us/politics/texas-senate-poll-talarico-paxton.html"
+  ],
+  [
+    "latest",
+    18,
+    "https://www.nytimes.com/2026/06/29/us/politics/colorado-primaries-what-to-watch.html"
   ],
   [
     "americans",
@@ -141,29 +126,29 @@
     "https://www.nytimes.com/2026/06/29/us/politics/trump-housing-bill.html"
   ],
   [
-    "enough",
-    18,
-    "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html"
-  ],
-  [
-    "america",
-    18,
-    "https://www.nytimes.com/2026/06/29/world/americas/peru-presidential-election-keiko-fujimori-conservative.html"
-  ],
-  [
-    "killed",
-    18,
-    "https://www.nytimes.com/2026/06/29/world/europe/germany-shooting-stade.html"
-  ],
-  [
-    "team",
+    "secretary",
     18,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "love",
+    "video",
     18,
-    "https://www.theguardian.com/sport/2026/jun/29/veteran-novak-djokovic-wins-next-generation-shine-wimbledon-2026-tennis"
+    "https://www.theguardian.com/lifeandstyle/2026/jun/30/my-week-savouring-lifes-little-pleasures-drilling-holes-licking-trees"
+  ],
+  [
+    "don",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/jun/30/my-week-savouring-lifes-little-pleasures-drilling-holes-licking-trees"
+  ],
+  [
+    "children",
+    18,
+    "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news"
+  ],
+  [
+    "party",
+    18,
+    "https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud"
   ],
   [
     "cbs",
@@ -171,114 +156,109 @@
     "https://www.latimes.com/entertainment-arts/business/story/2026-06-25/katie-couric-calls-out-former-boss-at-cbs-60-minutes"
   ],
   [
-    "latest",
+    "power",
     17,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
+    "https://www.nytimes.com/2026/06/30/podcasts/the-headlines/supreme-court-trump-heat-wave.html"
   ],
   [
-    "law",
+    "family",
     17,
-    "https://www.nytimes.com/2026/06/29/upshot/assistant-surgeons-loophole-pay.html"
+    "https://www.nytimes.com/2026/06/29/us/politics/gallego-campaign-funds-family.html"
   ],
   [
-    "released",
+    "states",
     17,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/06/30/arts/television/john-oliver-lincoln-memorial-pool-ducks.html"
   ],
   [
-    "cook",
-    16,
-    "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html"
+    "million",
+    17,
+    "https://www.washingtonpost.com/investigations/2026/06/30/trump-ballroom-built-under-secret-500m-no-bid-contract/"
   ],
   [
-    "rules",
-    16,
-    "https://www.nytimes.com/2026/06/29/us/politics/alaska-dan-sullivan-senate-ballot.html"
+    "team",
+    17,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "united",
+    "york",
     16,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind"
+    "https://www.nytimes.com/2026/06/30/us/politics/texas-senate-poll-talarico-paxton.html"
+  ],
+  [
+    "congress",
+    16,
+    "https://www.nytimes.com/2026/06/29/us/politics/tom-kean-returns.html"
   ],
   [
     "act",
     16,
-    "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-mail-in-ballots-election-ruling"
+    "https://www.theguardian.com/commentisfree/2026/jun/30/supreme-court-trump-v-slaughter"
   ],
   [
-    "children",
+    "case",
     16,
-    "https://www.theguardian.com/commentisfree/2026/jun/29/having-children-makes-you-smarter-studies-parents"
+    "https://www.theguardian.com/lifeandstyle/2026/jun/30/my-week-savouring-lifes-little-pleasures-drilling-holes-licking-trees"
   ],
   [
-    "venezuela",
-    15,
-    "https://www.nytimes.com/2026/06/30/opinion/venezuela-earthquake-tragedy.html"
+    "history",
+    16,
+    "https://www.theguardian.com/world/2026/jun/30/nyc-queer-community-america-250-birthday"
   ],
   [
-    "secretary",
-    15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "love",
+    16,
+    "https://www.theguardian.com/sport/2026/jun/29/veteran-novak-djokovic-wins-next-generation-shine-wimbledon-2026-tennis"
   ],
   [
-    "university",
+    "released",
     15,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "night",
+    "final",
     15,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/29/robin-byrd-documentary-porn-star-late-night-tv-icon"
+    "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news"
   ],
   [
     "games",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/29/learning-archery-how-to-shoot-a-bow-and-arrow-my-rookie-era"
+    "https://www.theguardian.com/sport/2026/jun/29/usmnt-bosnia-herzegovina-world-cup-round-of-32-preview"
   ],
   [
-    "kids",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/jun/30/doctor-death-dying-conversation-with-patients"
-  ],
-  [
-    "party",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/jun/28/reagan-jd-vance-nixon-watergate-republicans"
-  ],
-  [
-    "ruling",
+    "primary",
     14,
-    "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html"
+    "https://www.nytimes.com/2026/06/29/us/politics/colorado-primaries-what-to-watch.html"
   ],
   [
-    "election",
+    "democrats",
     14,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
+    "https://www.nytimes.com/2026/06/29/us/politics/colorado-primaries-what-to-watch.html"
+  ],
+  [
+    "enough",
+    14,
+    "https://www.theguardian.com/culture/2026/jun/30/louis-ck-ridiculous-review-netflix"
   ],
   [
     "series",
     14,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
+    "https://www.theguardian.com/culture/2026/jun/30/louis-ck-ridiculous-review-netflix"
   ],
   [
-    "san",
+    "decision",
     14,
-    "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html"
+    "https://www.theguardian.com/commentisfree/2026/jun/30/supreme-court-trump-v-slaughter"
   ],
   [
-    "win",
+    "law",
     14,
-    "https://www.nytimes.com/2026/06/29/world/americas/peru-presidential-election-keiko-fujimori-conservative.html"
+    "https://www.theguardian.com/commentisfree/2026/jun/30/supreme-court-trump-v-slaughter"
   ],
   [
-    "family",
+    "donald",
     14,
-    "https://www.nytimes.com/2026/06/29/world/americas/peru-presidential-election-keiko-fujimori-conservative.html"
-  ],
-  [
-    "social",
-    14,
-    "https://www.theguardian.com/money/2026/jun/30/martin-lewis-finance-expert-interview-online-scams-stolen-identity-life-savings"
+    "https://www.theguardian.com/commentisfree/2026/jun/30/supreme-court-trump-v-slaughter"
   ],
   [
     "because",
@@ -286,9 +266,9 @@
     "https://www.theguardian.com/world/2026/jun/30/cook-islands-fisher-how-survived-lost-pacific-ocean"
   ],
   [
-    "summer",
+    "police",
     14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jun/29/america-250th-anniversary-trump"
+    "https://www.theguardian.com/world/2026/jun/30/monaco-parcel-bomb-blast-ukrainian-oligarch"
   ],
   [
     "always",
@@ -296,14 +276,9 @@
     "https://www.theguardian.com/world/2026/jun/30/freebirth-wellness-influencer-stacey-warnecke-death-ntwnfb"
   ],
   [
-    "paraguay",
+    "prime",
     14,
-    "https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report"
-  ],
-  [
-    "bill",
-    14,
-    "https://www.theguardian.com/film/2026/jun/29/groundhog-day-feelgood-movie"
+    "https://www.theguardian.com/commentisfree/2026/jun/30/ireland-big-tech-lapdog-eu-presidency-digital-sovereignty"
   ],
   [
     "filter",
@@ -316,63 +291,88 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "late",
-    13,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
+    "ses",
+    14,
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/tension-pura-revive-la-tanda-de-penales-con-la-que-marruecos-elimino-a-paises-bajos-en-el-mundial-tmvo13198866"
   ],
   [
-    "ballots",
+    "bajos",
+    14,
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/tension-pura-revive-la-tanda-de-penales-con-la-que-marruecos-elimino-a-paises-bajos-en-el-mundial-tmvo13198866"
+  ],
+  [
+    "united",
     13,
-    "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html"
+    "https://www.nytimes.com/2026/06/30/arts/television/john-oliver-lincoln-memorial-pool-ducks.html"
+  ],
+  [
+    "gaza",
+    13,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "review",
+    13,
+    "https://www.theguardian.com/culture/2026/jun/30/louis-ck-ridiculous-review-netflix"
+  ],
+  [
+    "social",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jun/30/supreme-court-trump-v-slaughter"
   ],
   [
     "thousands",
     13,
-    "https://www.nytimes.com/2026/06/29/us/what-to-know-wildfires-colorado-utah-arizona-new-mexico-nevada.html"
+    "https://www.theguardian.com/world/2026/jun/30/umar-khalid-interview-six-years-indian-jail-without-trial-modi-opposition-political-prisoner"
   ],
   [
-    "round",
+    "paraguay",
     13,
-    "https://www.theguardian.com/artanddesign/2026/jun/30/bayeux-great-medieval-art-cathedrals"
+    "https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live"
   ],
   [
-    "company",
+    "night",
     13,
-    "https://www.theguardian.com/artanddesign/2026/jun/30/bayeux-great-medieval-art-cathedrals"
+    "https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live"
   ],
   [
-    "online",
+    "talks",
     13,
-    "https://www.theguardian.com/money/2026/jun/30/martin-lewis-finance-expert-interview-online-scams-stolen-identity-life-savings"
+    "https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live"
   ],
   [
-    "labor",
+    "rules",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-trump-agency-firings-slaughter-ftc"
+    "https://www.theguardian.com/us-news/2026/jun/30/kash-patel-post-fbi-case-social-media"
+  ],
+  [
+    "summer",
+    13,
+    "https://www.theguardian.com/environment/2026/jun/30/how-i-survived-record-paris-heatwave-while-seven-months-pregnant"
   ],
   [
     "tournament",
     13,
-    "https://www.theguardian.com/sport/2026/jun/29/naomi-osaka-wimbledon-day-one-crowd-kimono-inspired-outfit"
+    "https://www.theguardian.com/sport/2026/jun/29/usmnt-bosnia-herzegovina-world-cup-round-of-32-preview"
   ],
   [
-    "history",
+    "marruecos",
     13,
-    "https://www.theguardian.com/wellness/article/2026/jun/29/what-clothing-to-wear-hot-summer-extreme-weather"
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/tension-pura-revive-la-tanda-de-penales-con-la-que-marruecos-elimino-a-paises-bajos-en-el-mundial-tmvo13198866"
   ],
   [
-    "temperatures",
+    "del",
     13,
-    "https://www.theguardian.com/wellness/article/2026/jun/29/what-clothing-to-wear-hot-summer-extreme-weather"
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/tension-pura-revive-la-tanda-de-penales-con-la-que-marruecos-elimino-a-paises-bajos-en-el-mundial-tmvo13198866"
   ],
   [
-    "really",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/29/learning-archery-how-to-shoot-a-bow-and-arrow-my-rookie-era"
+    "cook",
+    12,
+    "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html"
   ],
   [
-    "iran",
-    13,
-    "https://www.theguardian.com/football/2026/jun/29/world-cup-criticism"
+    "military",
+    12,
+    "https://www.nytimes.com/2026/06/30/world/europe/moscow-drone-attack-russia-ukraine-war.html"
   ]
 ];
