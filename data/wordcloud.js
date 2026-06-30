@@ -2,28 +2,43 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "court",
-    71,
-    "https://www.nytimes.com/2026/06/30/opinion/congress-scotus-trump-slaughter.html"
-  ],
-  [
-    "trump",
-    70,
-    "https://www.nytimes.com/2026/06/29/nyregion/hudson-tunnel-trump-funding-judge-ruling.html"
+    72,
+    "https://www.nytimes.com/2026/06/30/us/supreme-court-campaign-finance.html"
   ],
   [
     "supreme",
-    67,
-    "https://www.nytimes.com/2026/06/30/opinion/congress-scotus-trump-slaughter.html"
+    66,
+    "https://www.nytimes.com/2026/06/30/us/supreme-court-campaign-finance.html"
+  ],
+  [
+    "trump",
+    56,
+    "https://www.nytimes.com/2026/06/30/us/politics/birthright-citizenship-order-explained.html"
   ],
   [
     "cup",
-    49,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/30/my-week-savouring-lifes-little-pleasures-drilling-holes-licking-trees"
+    48,
+    "https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live"
+  ],
+  [
+    "citizenship",
+    31,
+    "https://www.nytimes.com/2026/06/30/us/politics/birthright-citizenship-order-explained.html"
   ],
   [
     "game",
+    30,
+    "https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now"
+  ],
+  [
+    "heat",
     28,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/30/my-week-savouring-lifes-little-pleasures-drilling-holes-licking-trees"
+    "https://www.nytimes.com/2026/06/30/nyregion/nyc-heat-wave.html"
+  ],
+  [
+    "air",
+    27,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "rice",
@@ -31,274 +46,244 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "president",
-    26,
-    "https://www.nytimes.com/2026/06/29/us/politics/trump-housing-bill.html"
-  ],
-  [
-    "campaign",
-    26,
-    "https://www.nytimes.com/2026/06/29/us/politics/gallego-campaign-funds-family.html"
-  ],
-  [
-    "political",
-    26,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind"
-  ],
-  [
-    "los",
-    26,
-    "https://www.theguardian.com/us-news/2026/jun/26/mistrial-arson-california-pacific-palisades-wildfire"
-  ],
-  [
-    "country",
-    23,
-    "https://www.nytimes.com/2026/06/30/magazine/florida-death-penalty.html"
-  ],
-  [
-    "citizenship",
-    23,
-    "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news"
-  ],
-  [
-    "party",
-    23,
-    "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news"
-  ],
-  [
-    "air",
-    22,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "california",
-    22,
-    "https://www.theguardian.com/us-news/2026/jun/29/california-trump-administration-energy-production"
-  ],
-  [
-    "heat",
-    21,
-    "https://www.nytimes.com/2026/06/30/weather/july-fourth-heat-wave-forecast.html"
-  ],
-  [
-    "media",
-    21,
-    "https://www.theguardian.com/global/commentisfree/2026/jun/30/elon-musk-trillion-rightwing-media"
-  ],
-  [
-    "film",
-    21,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/30/my-week-savouring-lifes-little-pleasures-drilling-holes-licking-trees"
+    "birthright",
+    25,
+    "https://www.nytimes.com/2026/06/30/us/politics/birthright-citizenship-order-explained.html"
   ],
   [
     "iran",
-    20,
+    25,
     "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html"
   ],
   [
-    "latest",
-    20,
-    "https://www.nytimes.com/2026/06/29/us/politics/colorado-primaries-what-to-watch.html"
-  ],
-  [
-    "don",
-    20,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/30/my-week-savouring-lifes-little-pleasures-drilling-holes-licking-trees"
-  ],
-  [
-    "birthright",
-    19,
-    "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news"
-  ],
-  [
-    "sports",
-    19,
-    "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news"
-  ],
-  [
-    "war",
-    18,
-    "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html"
-  ],
-  [
-    "enough",
-    18,
-    "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news"
-  ],
-  [
-    "york",
-    17,
-    "https://www.nytimes.com/2026/06/30/us/politics/texas-senate-poll-talarico-paxton.html"
-  ],
-  [
-    "power",
-    17,
-    "https://www.nytimes.com/2026/06/30/science/nih-announces-worlds-largest-integrated-health-database.html"
+    "country",
+    25,
+    "https://www.nytimes.com/2026/06/30/opinion/supreme-court-birthright-citizenship-trump.html"
   ],
   [
     "american",
-    17,
-    "https://www.theguardian.com/world/2026/jun/30/nyc-queer-community-america-250-birthday"
+    24,
+    "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-midterms-campaign-finance.html"
   ],
   [
-    "water",
-    17,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/30/my-week-savouring-lifes-little-pleasures-drilling-holes-licking-trees"
+    "president",
+    24,
+    "https://www.nytimes.com/2026/06/30/us/politics/republicans-house-defense-elections-save-america.html"
   ],
   [
-    "video",
-    17,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/30/my-week-savouring-lifes-little-pleasures-drilling-holes-licking-trees"
+    "team",
+    24,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "police",
-    17,
-    "https://www.theguardian.com/world/2026/jun/30/monaco-parcel-bomb-blast-ukrainian-oligarch"
+    "health",
+    22,
+    "https://www.nytimes.com/2026/06/30/us/politics/tom-kean-return-depression.html"
   ],
   [
-    "democratic",
-    16,
-    "https://www.nytimes.com/2026/06/30/us/politics/texas-senate-poll-talarico-paxton.html"
-  ],
-  [
-    "million",
-    16,
-    "https://www.nytimes.com/2026/06/30/science/nih-announces-worlds-largest-integrated-health-database.html"
-  ],
-  [
-    "israel",
-    16,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "released",
-    16,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "children",
-    16,
+    "media",
+    22,
     "https://www.theguardian.com/global/commentisfree/2026/jun/30/elon-musk-trillion-rightwing-media"
   ],
   [
-    "love",
-    16,
-    "https://www.theguardian.com/global/commentisfree/2026/jun/30/elon-musk-trillion-rightwing-media"
+    "case",
+    22,
+    "https://www.theguardian.com/uk-news/2026/jun/30/david-lammy-to-ask-us-about-case-of-woman-strangled-by-us-fighter-in-uk"
   ],
   [
-    "summer",
-    16,
-    "https://www.theguardian.com/environment/2026/jun/30/how-i-survived-record-paris-heatwave-while-seven-months-pregnant"
+    "political",
+    21,
+    "https://www.nytimes.com/2026/06/30/us/supreme-court-campaign-finance.html"
   ],
   [
-    "young",
-    16,
-    "https://www.theguardian.com/music/2026/jun/30/taylor-swift-songs-about-marriage-and-commitment"
+    "early",
+    19,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "texas",
-    15,
-    "https://www.nytimes.com/2026/06/30/us/politics/texas-senate-poll-talarico-paxton.html"
-  ],
-  [
-    "administration",
-    15,
-    "https://www.nytimes.com/2026/06/29/nyregion/hudson-tunnel-trump-funding-judge-ruling.html"
-  ],
-  [
-    "office",
-    15,
-    "https://www.nytimes.com/2026/06/30/arts/design/met-returns-looted-artifacts-95-million.html"
+    "don",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/jun/30/is-heterosexuality-hopeless"
   ],
   [
     "states",
+    18,
+    "https://www.nytimes.com/2026/06/30/us/politics/medicaid-work-requirements-lawsuit.html"
+  ],
+  [
+    "york",
+    18,
+    "https://www.nytimes.com/2026/06/30/business/media/pentagon-journalists-escort-rule.html"
+  ],
+  [
+    "history",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/jun/30/best-fourth-of-july-deals-sales"
+  ],
+  [
+    "donald",
+    18,
+    "https://www.theguardian.com/us-news/2026/jun/30/us-supreme-court-bithright-citizenship"
+  ],
+  [
+    "million",
+    17,
+    "https://www.nytimes.com/2026/06/30/arts/design/met-returns-looted-artifacts-95-million.html"
+  ],
+  [
+    "enough",
+    17,
+    "https://www.theguardian.com/football/2026/jun/30/mauricio-pochettino-press-conferences-usmnt-world-cup"
+  ],
+  [
+    "star",
+    16,
+    "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html"
+  ],
+  [
+    "always",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/jun/30/best-fourth-of-july-deals-sales"
+  ],
+  [
+    "filter",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/jun/30/best-fourth-of-july-deals-sales"
+  ],
+  [
+    "law",
+    16,
+    "https://www.theguardian.com/music/2026/jun/30/ruben-blades-salsa-megastar-jack-nicholson-bad-bunny-tourism-minister"
+  ],
+  [
+    "video",
+    16,
+    "https://www.theguardian.com/music/2026/jun/30/ruben-blades-salsa-megastar-jack-nicholson-bad-bunny-tourism-minister"
+  ],
+  [
+    "win",
+    16,
+    "https://www.theguardian.com/us-news/2026/jun/30/supreme-court-spending-political-candidates-ruling"
+  ],
+  [
+    "social",
+    16,
+    "https://www.theguardian.com/us-news/2026/jun/30/supreme-court-spending-political-candidates-ruling"
+  ],
+  [
+    "water",
+    16,
+    "https://www.theguardian.com/world/2026/jun/30/tonnes-and-tonnes-of-rubble-more-than-58000-buildings-estimated-to-have-been-destroyed-in-venezuela-earthquakes"
+  ],
+  [
+    "congress",
     15,
-    "https://www.nytimes.com/2026/06/30/arts/television/john-oliver-lincoln-memorial-pool-ducks.html"
+    "https://www.nytimes.com/2026/06/30/us/politics/medicaid-work-requirements-lawsuit.html"
+  ],
+  [
+    "war",
+    15,
+    "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html"
+  ],
+  [
+    "america",
+    15,
+    "https://www.nytimes.com/2026/06/30/weather/ontario-quebec-canada-heat-wave.html"
+  ],
+  [
+    "company",
+    15,
+    "https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html"
+  ],
+  [
+    "israel",
+    15,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "campaign",
+    15,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "guide",
+    15,
+    "https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live"
+  ],
+  [
+    "film",
+    15,
+    "https://www.theguardian.com/music/2026/jun/30/ruben-blades-salsa-megastar-jack-nicholson-bad-bunny-tourism-minister"
+  ],
+  [
+    "ruling",
+    15,
+    "https://www.theguardian.com/us-news/2026/jun/30/supreme-court-spending-political-candidates-ruling"
+  ],
+  [
+    "university",
+    15,
+    "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind"
+  ],
+  [
+    "final",
+    15,
+    "https://www.theguardian.com/football/2026/jun/30/cote-d-ivoire-norway-world-cup-2026-last-32-match-report"
+  ],
+  [
+    "los",
+    15,
+    "https://www.theguardian.com/sport/2026/jun/30/lebron-james-reportedly-leaving-lakers-opening-door-for-union-with-curry-at-warriors"
   ],
   [
     "place",
     15,
-    "https://www.theguardian.com/world/2026/jun/30/nyc-queer-community-america-250-birthday"
+    "https://www.theguardian.com/sport/2026/jun/30/aqueduct-racetrack-closing-last-day-horse-racing-photos"
   ],
   [
-    "spending",
-    15,
-    "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news"
-  ],
-  [
-    "because",
+    "temperatures",
     14,
-    "https://www.nytimes.com/2026/06/29/dining/justin-cherry-half-crown-bakehouse.html"
+    "https://www.nytimes.com/2026/06/30/nyregion/nyc-heat-wave.html"
   ],
   [
-    "fire",
+    "fans",
     14,
-    "https://www.nytimes.com/2026/06/29/dining/justin-cherry-half-crown-bakehouse.html"
+    "https://www.theguardian.com/global/commentisfree/2026/jun/30/elon-musk-trillion-rightwing-media"
   ],
   [
-    "james",
+    "games",
     14,
-    "https://www.nytimes.com/2026/06/30/us/politics/texas-senate-poll-talarico-paxton.html"
-  ],
-  [
-    "americans",
-    14,
-    "https://www.nytimes.com/2026/06/29/us/politics/trump-housing-bill.html"
-  ],
-  [
-    "family",
-    14,
-    "https://www.nytimes.com/2026/06/29/us/politics/gallego-campaign-funds-family.html"
-  ],
-  [
-    "team",
-    14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "america",
-    14,
-    "https://www.theguardian.com/world/2026/jun/30/nyc-queer-community-america-250-birthday"
+    "https://www.theguardian.com/us-news/2026/jun/30/world-cup-matches-extreme-heat"
   ],
   [
     "little",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/jun/30/my-week-savouring-lifes-little-pleasures-drilling-holes-licking-trees"
+    "https://www.theguardian.com/us-news/2026/jun/30/tom-kean-jr-house-absence-returns"
   ],
   [
-    "social",
+    "swift",
     14,
-    "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news"
+    "https://www.theguardian.com/music/2026/jun/30/taylor-swift-songs-about-marriage-and-commitment"
   ],
   [
-    "born",
+    "sports",
     14,
-    "https://www.theguardian.com/world/2026/jun/30/monaco-parcel-bomb-blast-ukrainian-oligarch"
+    "https://www.theguardian.com/sport/2026/jun/30/lebron-james-reportedly-leaving-lakers-opening-door-for-union-with-curry-at-warriors"
   ],
   [
-    "law",
+    "west",
     14,
-    "https://www.theguardian.com/us-news/2026/jun/29/california-trump-administration-energy-production"
+    "https://www.theguardian.com/football/2026/jun/30/tottenham-west-ham-mateus-fernandes-club-record-85m-manchester-united-transfers"
   ],
   [
-    "win",
+    "democratic",
     14,
-    "https://www.theguardian.com/football/2026/jun/30/morocco-netherlands-celebrations-bottle-throwing-dutch-streets-world-cup"
+    "https://www.theguardian.com/sport/2026/jun/30/aqueduct-racetrack-closing-last-day-horse-racing-photos"
   ],
   [
-    "guide",
+    "girls",
     14,
-    "https://www.theguardian.com/football/live/2026/jun/30/cote-divoire-v-norway-world-cup-2026-last-32-live"
-  ],
-  [
-    "star",
-    14,
-    "https://www.theguardian.com/sport/2026/jun/30/ja-morant-trade-grizzlies-trail-blazers-nba"
-  ],
-  [
-    "filter",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/28/tucktec-10-pro-folding-kayak-review"
+    "https://www.theguardian.com/us-news/2026/jun/30/us-supreme-court-upholds-laws-trans-women-sports"
   ],
   [
     "cooker",
@@ -306,14 +291,14 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "congress",
+    "executive",
     13,
-    "https://www.nytimes.com/2026/06/29/us/politics/tom-kean-returns.html"
+    "https://www.nytimes.com/2026/06/30/nyregion/nyc-heat-wave.html"
   ],
   [
-    "money",
+    "born",
     13,
-    "https://www.nytimes.com/2026/06/29/nyregion/hudson-tunnel-trump-funding-judge-ruling.html"
+    "https://www.nytimes.com/2026/06/30/opinion/supreme-court-birthright-citizenship-trump.html"
   ],
   [
     "attack",
@@ -321,58 +306,73 @@
     "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "trump's",
+    "term",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "history",
+    "least",
     13,
-    "https://www.theguardian.com/world/2026/jun/30/nyc-queer-community-america-250-birthday"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "university",
+    "travel",
     13,
-    "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind"
+    "https://www.theguardian.com/thefilter-us/2026/jun/30/best-fourth-of-july-deals-sales"
   ],
   [
-    "always",
+    "children",
     13,
-    "https://www.theguardian.com/world/2026/jun/30/freebirth-wellness-influencer-stacey-warnecke-death-ntwnfb"
+    "https://www.theguardian.com/global/commentisfree/2026/jun/30/elon-musk-trillion-rightwing-media"
   ],
   [
-    "san",
+    "love",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/29/san-francisco-archdiocese-settlement-child-sexual-abuse"
+    "https://www.theguardian.com/global/commentisfree/2026/jun/30/elon-musk-trillion-rightwing-media"
   ],
   [
-    "government",
+    "because",
     13,
-    "https://www.theguardian.com/us-news/2026/jun/29/california-trump-administration-energy-production"
+    "https://www.theguardian.com/global/commentisfree/2026/jun/30/elon-musk-trillion-rightwing-media"
   ],
   [
-    "book",
+    "united",
     13,
-    "https://www.theguardian.com/football/picture/2026/jun/30/david-squires-on-world-cup-penalty-pain-germany-netherlands"
+    "https://www.theguardian.com/us-news/2026/jun/30/us-supreme-court-bithright-citizenship"
   ],
   [
-    "donald",
+    "justice",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jun/30/us-israel-relationship-shift"
+    "https://www.theguardian.com/us-news/2026/jun/30/us-supreme-court-bithright-citizenship"
   ],
   [
-    "review",
+    "killed",
     13,
-    "https://www.theguardian.com/culture/2026/jun/30/louis-ck-ridiculous-review-netflix"
+    "https://www.theguardian.com/uk-news/2026/jun/30/david-lammy-to-ask-us-about-case-of-woman-strangled-by-us-fighter-in-uk"
   ],
   [
-    "company",
+    "international",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/jun/29/the-uneasy-story-about-an-alleged-russian-spy-best-podcasts-of-the-week"
+    "https://www.theguardian.com/us-news/2026/jun/30/las-vegas-airport-jackpot-slot-machine"
   ],
   [
-    "gaza",
-    12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "support",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/30/supreme-court-spending-political-candidates-ruling"
+  ],
+  [
+    "british",
+    13,
+    "https://www.theguardian.com/environment/2026/jun/30/emissions-do-smaller-countries-climate-efforts-matter"
+  ],
+  [
+    "young",
+    13,
+    "https://www.theguardian.com/music/2026/jun/30/taylor-swift-songs-about-marriage-and-commitment"
+  ],
+  [
+    "summer",
+    13,
+    "https://www.theguardian.com/football/2026/jun/30/sebastian-beccacece-ecuador-coach-world-cup"
   ]
 ];

@@ -3,132 +3,194 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 64,
-      "url": "https://www.theguardian.com/world/2026/jun/30/nyc-queer-community-america-250-birthday",
+      "count": 102,
+      "url": "https://www.theguardian.com/thefilter-us/2026/jun/30/best-fourth-of-july-deals-sales",
       "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 29,
-      "url": "https://www.nytimes.com/2026/06/30/business/strait-hormuz-ships-iran-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 20,
-      "url": "https://www.theguardian.com/business/2026/jun/30/uk-intervene-paramount-takeover-warner-bros-discovery",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The State Of California",
-      "count": 19,
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/california-trump-administration-energy-production",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 17,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
     },
     {
       "name": "Iran",
-      "count": 14,
+      "count": 20,
       "url": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
       "source": "NY Times"
     },
     {
-      "name": "Texas",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/jun/30/ice-nun-detained-released-texas",
+      "name": "U.S.",
+      "count": 20,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Uk",
+      "count": 19,
+      "url": "https://www.theguardian.com/music/2026/jun/30/ruben-blades-salsa-megastar-jack-nicholson-bad-bunny-tourism-minister",
       "source": "The Guardian"
     },
     {
-      "name": "L.A. County",
+      "name": "Israel",
+      "count": 16,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "New York City Ahead",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/06/30/nyregion/nyc-heat-wave.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Mexico",
       "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-06-30/los-angeles-juvenile-hall-overdoses-water-jug-lawsuit",
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "L.A.",
+      "count": 12,
+      "url": "https://www.latimes.com/business/story/2026-06-30/l-a-s-world-trade-center-to-become-affordable-housing-in-new-development-campaign",
       "source": "LA Times"
     },
     {
       "name": "America",
-      "count": 12,
+      "count": 11,
       "url": "https://www.theguardian.com/world/2026/jun/30/nyc-queer-community-america-250-birthday",
       "source": "The Guardian"
     },
     {
-      "name": "New Mexico",
+      "name": "California",
       "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/jun/30/us-drug-agents-new-mexico-fentanyl",
+      "url": "https://www.theguardian.com/technology/2026/jun/30/artificial-intelligence-shares",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Administration",
-      "count": 46,
-      "url": "https://www.nytimes.com/2026/06/30/opinion/ezra-klein-podcast-chris-rufo.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Tuesday&Apos;S Supreme Court",
-      "count": 34,
-      "url": "https://www.foxnews.com/outkick-sports/trump-reacts-supreme-court-ruling-trans-athletes",
-      "source": "Fox News"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/06/30/opinion/congress-scotus-trump-slaughter.html",
+      "name": "The Supreme Court Gets Birthright Citizenship Right",
+      "count": 27,
+      "url": "https://www.nytimes.com/2026/06/30/opinion/supreme-court-birthright-citizenship-trump.html",
       "source": "NY Times"
     },
     {
       "name": "The White House",
-      "count": 16,
+      "count": 26,
       "url": "https://www.washingtonpost.com/investigations/2026/06/30/trump-ballroom-built-under-secret-500m-no-bid-contract/",
       "source": "Washington Post"
     },
     {
+      "name": "Target For Trump",
+      "count": 26,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Idaho     Supreme Court",
+      "count": 25,
+      "url": "https://www.theguardian.com/us-news/2026/jun/30/us-supreme-court-upholds-laws-trans-women-sports",
+      "source": "The Guardian"
+    },
+    {
       "name": "Guardian Australia'S",
-      "count": 15,
+      "count": 18,
       "url": "https://www.theguardian.com/artanddesign/video/2026/jun/30/from-developing-photos-in-a-toilet-to-a-viral-messi-shot-40-years-shooting-the-world-cup-video",
       "source": "The Guardian"
     },
     {
-      "name": "Congress",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/06/29/us/politics/tom-kean-returns.html",
+      "name": "The Continental Congress",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/06/30/us/250-american-revolution-john-dickinson.html",
       "source": "NY Times"
     },
     {
       "name": "Ai",
-      "count": 11,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind",
+      "count": 12,
+      "url": "https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll",
       "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
-      "count": 11,
+      "count": 12,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Paraguay",
+      "name": "Amazon",
       "count": 8,
-      "url": "https://www.cbsnews.com/video/stunning-upsets-in-world-cup/",
-      "source": "CBS News"
+      "url": "https://www.theguardian.com/thefilter-us/2026/jun/30/best-fourth-of-july-deals-sales",
+      "source": "The Guardian"
     },
     {
-      "name": "Senate Ethics Committee",
+      "name": "Un",
+      "count": 7,
+      "url": "https://www.theguardian.com/world/2026/jun/30/tonnes-and-tonnes-of-rubble-more-than-58000-buildings-estimated-to-have-been-destroyed-in-venezuela-earthquakes",
+      "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/jun/30/us-supreme-court-bithright-citizenship",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Melania Trump",
+      "count": 17,
+      "url": "https://thehill.com/homenews/lgbtq/5948346-first-lady-transgender-sports-ban/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Taylor Swift",
+      "count": 9,
+      "url": "https://www.theguardian.com/music/2026/jun/30/taylor-swift-songs-about-marriage-and-commitment",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Queenie Jenkins",
+      "count": 9,
+      "url": "https://www.theguardian.com/books/2026/jun/30/queenie-is-working-on-it-by-candice-carty-williams-review-a-smart-sequel-to-a-breakout-bestseller",
+      "source": "The Guardian"
+    },
+    {
+      "name": "El Triunfo De Noruega",
       "count": 8,
-      "url": "https://www.cbsnews.com/news/ruben-gallego-senate-ethics-committee-complaint/",
-      "source": "CBS News"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/noruega-elimina-a-costa-de-marfil-con-un-gol-de-haaland-y-avanza-a-los-octavos-de-final-del-mundial-tmvo13199173",
+      "source": "NBC News"
+    },
+    {
+      "name": "Lebron James",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/jun/30/lebron-james-reportedly-leaving-lakers-opening-door-for-union-with-curry-at-warriors",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Elon Musk",
+      "count": 6,
+      "url": "https://www.theguardian.com/global/commentisfree/2026/jun/30/elon-musk-trillion-rightwing-media",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 6,
+      "url": "https://www.theguardian.com/books/2026/jun/29/communion-finding-my-way-back-to-faith-by-jd-vance-review-veep-behnd-the-curtains",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Lakers",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/jun/30/lebron-james-reportedly-leaving-lakers-opening-door-for-union-with-curry-at-warriors",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Bill De Blasio",
+      "count": 5,
+      "url": "https://thehill.com/homenews/campaign/5948237-deblasio-calls-for-democratic-change/",
+      "source": "The Hill"
     }
   ],
   "EVENT": [
     {
-      "name": "California World Cup",
-      "count": 25,
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/california-world-cup-fan-zone-shooting",
+      "name": "The 2026 World Cup",
+      "count": 23,
+      "url": "https://www.theguardian.com/football/2026/jun/30/usmnt-bosnia-herzegovina-world-cup-round-of-32-preview",
       "source": "The Guardian"
     },
     {
@@ -138,21 +200,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/30/us-israel-relationship-shift",
-      "source": "The Guardian"
-    },
-    {
       "name": "World Cup 2026",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The New England Revolution",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/jun/30/esmir-bajraktarevic-bosnia-and-herzegovina-usmnt",
+      "count": 3,
+      "url": "https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live",
       "source": "The Guardian"
     },
     {
@@ -168,15 +218,9 @@
       "source": "NY Times"
     },
     {
-      "name": "Olympics",
+      "name": "World Cup Last-32",
       "count": 1,
-      "url": "https://www.theguardian.com/business/2026/jun/30/uk-intervene-paramount-takeover-warner-bros-discovery",
-      "source": "The Guardian"
-    },
-    {
-      "name": "World ⁠Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/california-world-cup-fan-zone-shooting",
+      "url": "https://www.theguardian.com/football/2026/jun/30/morocco-netherlands-celebrations-bottle-throwing-dutch-streets-world-cup",
       "source": "The Guardian"
     },
     {
@@ -184,69 +228,25 @@
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/jun/30/sebastian-beccacece-ecuador-coach-world-cup",
       "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Orders Trump",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/06/29/nyregion/hudson-tunnel-trump-funding-judge-ruling.html",
-      "source": "NY Times"
     },
     {
-      "name": "Donald Trump",
-      "count": 11,
+      "name": "Wimbledon",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jun/29/veteran-novak-djokovic-wins-next-generation-shine-wimbledon-2026-tennis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 1,
       "url": "https://www.theguardian.com/commentisfree/2026/jun/30/us-israel-relationship-shift",
       "source": "The Guardian"
     },
     {
-      "name": "Elon Musk",
-      "count": 9,
-      "url": "https://www.theguardian.com/global/commentisfree/2026/jun/30/elon-musk-trillion-rightwing-media",
+      "name": "Match Day",
+      "count": 1,
+      "url": "https://www.theguardian.com/games/2026/jun/23/the-long-painful-history-of-terrible-world-cup-video-games",
       "source": "The Guardian"
-    },
-    {
-      "name": "Queenie Jenkins",
-      "count": 8,
-      "url": "https://www.theguardian.com/books/2026/jun/30/queenie-is-working-on-it-by-candice-carty-williams-review-a-smart-sequel-to-a-breakout-bestseller",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jd Vance",
-      "count": 8,
-      "url": "https://www.theguardian.com/books/2026/jun/29/communion-finding-my-way-back-to-faith-by-jd-vance-review-veep-behnd-the-curtains",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Taylor Swift",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/06/30/style/taylor-swift-wedding-travis-kelce-details.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Zohran Mamdani",
-      "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/30/is-heterosexuality-hopeless",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guo Wengui",
-      "count": 5,
-      "url": "https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Marruecos Sorprenden",
-      "count": 5,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/paraguay-y-marruecos-sorprenden-brasil-responde-y-el-mundial-pierde-a-dos-gigantes-tmvo13198862",
-      "source": "NBC News"
-    },
-    {
-      "name": "La Victoria De Brasil",
-      "count": 5,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/brasil-confirma-su-candidatura-y-paraguay-firma-la-gran-sorpresa-nuestros-expertos-lo-analizan-tmvo13198709",
-      "source": "NBC News"
     }
   ],
-  "updated": "2026-06-30T15:33:50Z"
+  "updated": "2026-06-30T20:59:06Z"
 };
