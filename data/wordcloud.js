@@ -2,58 +2,53 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    104,
+    103,
     "https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html"
   ],
   [
     "court",
-    84,
-    "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-birthright-citizenship.html"
-  ],
-  [
-    "supreme",
-    70,
-    "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-birthright-citizenship.html"
+    68,
+    "https://www.nytimes.com/2026/07/01/podcasts/the-headlines/supreme-court-trump.html"
   ],
   [
     "cup",
-    64,
+    66,
     "https://www.nytimes.com/2026/07/01/opinion/world-cup-soccer-football.html"
   ],
   [
-    "democratic",
-    43,
-    "https://www.nytimes.com/2026/07/01/us/politics/melat-kiros-degette-colorado-democratic-primary.html"
+    "supreme",
+    55,
+    "https://www.nytimes.com/2026/07/01/podcasts/the-headlines/supreme-court-trump.html"
   ],
   [
     "president",
-    39,
+    40,
     "https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html"
   ],
   [
-    "primary",
-    37,
-    "https://www.nytimes.com/2026/07/01/us/politics/melat-kiros-degette-colorado-democratic-primary.html"
+    "democratic",
+    39,
+    "https://www.nytimes.com/2026/07/01/us/politics/colorado-primary-takeaways.html"
   ],
   [
     "game",
-    35,
+    34,
     "https://www.theguardian.com/football/2026/jul/01/mexico-ecuador-world-cup-2026-last-32-match-report"
   ],
   [
-    "colorado",
-    33,
-    "https://www.nytimes.com/2026/07/01/us/politics/melat-kiros-degette-colorado-democratic-primary.html"
-  ],
-  [
-    "citizenship",
-    29,
-    "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-birthright-citizenship.html"
+    "heat",
+    31,
+    "https://www.nytimes.com/2026/07/01/weather/fourth-of-july-heat-wave-latest-updates.html"
   ],
   [
     "air",
-    27,
+    29,
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "primary",
+    27,
+    "https://www.nytimes.com/2026/07/01/us/politics/colorado-primary-takeaways.html"
   ],
   [
     "rice",
@@ -61,154 +56,109 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "birthright",
-    25,
-    "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-birthright-citizenship.html"
+    "states",
+    24,
+    "https://www.nytimes.com/2026/07/01/us/politics/polls-senate-control.html"
   ],
   [
-    "country",
+    "colorado",
     24,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/07/01/us/politics/colorado-primary-takeaways.html"
   ],
   [
     "team",
-    23,
+    24,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "justice",
+    "history",
     22,
+    "https://www.nytimes.com/2026/06/30/us/politics/trump-moneymaking-presidential-history.html"
+  ],
+  [
+    "york",
+    22,
+    "https://www.nytimes.com/2026/07/01/nyregion/new-york-city-mamdani-heat-cold-deaths.html"
+  ],
+  [
+    "american",
+    22,
+    "https://www.nytimes.com/2026/07/01/us/politics/trump-fact-check-american-history.html"
+  ],
+  [
+    "california",
+    22,
+    "https://www.nytimes.com/2026/06/30/us/american-rescue-teams-venezuela-earthquake.html"
+  ],
+  [
+    "country",
+    21,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "citizenship",
+    20,
     "https://www.theguardian.com/us-news/2026/jun/30/us-supreme-court-bithright-citizenship"
   ],
   [
-    "win",
-    22,
-    "https://www.theguardian.com/football/2026/jul/01/mexico-ecuador-world-cup-2026-last-32-match-report"
-  ],
-  [
-    "political",
-    21,
-    "https://www.nytimes.com/2026/06/30/us/supreme-court-campaign-finance.html"
-  ],
-  [
-    "decision",
+    "health",
     20,
-    "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-transgender-athletes.html"
+    "https://www.theguardian.com/us-news/2026/jul/01/new-yorkers-lose-health-insurance-trump-cuts"
   ],
   [
-    "term",
+    "america",
     20,
-    "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-takeaways-term.html"
+    "https://www.theguardian.com/commentisfree/2026/jul/01/what-is-the-united-states-of-america-now"
   ],
   [
-    "heat",
-    20,
-    "https://www.nytimes.com/2026/06/30/nyregion/nyc-heat-wave.html"
-  ],
-  [
-    "ecuador",
-    20,
-    "https://www.theguardian.com/football/2026/jul/01/mexico-ecuador-world-cup-2026-last-32-match-report"
-  ],
-  [
-    "ruling",
-    20,
-    "https://www.theguardian.com/us-news/2026/jun/30/trump-news-at-a-glance-latest-updates-today"
-  ],
-  [
-    "case",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/jul/01/why-meloni-has-hit-back-hard-against-trump-and-his-made-up-photo-claim"
+    "summer",
+    19,
+    "https://www.theguardian.com/artanddesign/ng-interactive/2026/jul/01/ana-mendieta-art-death"
   ],
   [
     "children",
     19,
-    "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-birthright-citizenship.html"
-  ],
-  [
-    "york",
-    19,
-    "https://www.nytimes.com/2026/06/30/nyregion/nyc-heat-wave.html"
-  ],
-  [
-    "american",
-    19,
-    "https://www.theguardian.com/us-news/2026/jun/30/us-supreme-court-bithright-citizenship"
+    "https://www.theguardian.com/film/2026/jul/01/birds-of-war-aleppo-syria-love-carnage"
   ],
   [
     "don",
     19,
-    "https://www.theguardian.com/commentisfree/2026/jun/30/is-heterosexuality-hopeless"
+    "https://www.theguardian.com/film/2026/jul/01/birds-of-war-aleppo-syria-love-carnage"
   ],
   [
-    "history",
+    "birthright",
     18,
-    "https://www.nytimes.com/2026/06/30/us/politics/trump-moneymaking-presidential-history.html"
+    "https://www.nytimes.com/2026/07/01/us/politics/birthright-supreme-court-decision.html"
   ],
   [
-    "states",
-    18,
-    "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-transgender-athletes.html"
+    "least",
+    17,
+    "https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html"
+  ],
+  [
+    "win",
+    17,
+    "https://www.theguardian.com/football/2026/jul/01/mexico-ecuador-world-cup-2026-last-32-match-report"
+  ],
+  [
+    "ecuador",
+    17,
+    "https://www.theguardian.com/football/2026/jul/01/mexico-ecuador-world-cup-2026-last-32-match-report"
+  ],
+  [
+    "term",
+    16,
+    "https://www.nytimes.com/2026/07/01/podcasts/the-headlines/supreme-court-trump.html"
   ],
   [
     "kiros",
-    18,
+    16,
     "https://www.nytimes.com/2026/07/01/us/politics/melat-kiros-degette-colorado-democratic-primary.html"
   ],
   [
-    "video",
-    18,
-    "https://www.theguardian.com/music/2026/jun/30/ruben-blades-salsa-megastar-jack-nicholson-bad-bunny-tourism-minister"
-  ],
-  [
-    "james",
-    17,
-    "https://www.nytimes.com/2026/06/30/us/politics/paxton-talarico-corruption-affordability-texas.html"
-  ],
-  [
-    "far",
-    17,
-    "https://www.nytimes.com/2026/06/30/us/politics/republicans-house-defense-elections-save-america.html"
-  ],
-  [
-    "california",
-    17,
-    "https://www.nytimes.com/2026/06/30/us/american-rescue-teams-venezuela-earthquake.html"
-  ],
-  [
-    "million",
-    17,
-    "https://www.washingtonpost.com/investigations/2026/06/30/trump-ballroom-built-under-secret-500m-no-bid-contract/"
-  ],
-  [
-    "donald",
-    17,
-    "https://www.theguardian.com/us-news/2026/jun/30/us-supreme-court-bithright-citizenship"
-  ],
-  [
-    "congress",
+    "star",
     16,
-    "https://www.nytimes.com/2026/06/30/nyregion/tom-kean-new-jersey-absence.html"
-  ],
-  [
-    "administration",
-    16,
-    "https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html"
-  ],
-  [
-    "early",
-    16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "filter",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/jun/30/best-fourth-of-july-deals-sales"
-  ],
-  [
-    "law",
-    16,
-    "https://www.theguardian.com/music/2026/jun/30/ruben-blades-salsa-megastar-jack-nicholson-bad-bunny-tourism-minister"
+    "https://www.theguardian.com/music/2026/jul/01/rb-star-chris-brown-ordered-to-pay-13m-to-housekeeper-mauled-by-his-dog"
   ],
   [
     "xico",
@@ -216,74 +166,39 @@
     "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/raul-jimenez-aparece-y-consigue-el-segundo-gol-para-mexico-sobre-ecuador-tmvo13199275"
   ],
   [
-    "sports",
+    "mexico",
     15,
-    "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-transgender-athletes.html"
+    "https://www.nytimes.com/2026/07/01/business/economy/usmca-north-america-trade.html"
   ],
   [
-    "health",
+    "united",
     15,
-    "https://www.nytimes.com/2026/06/30/us/politics/tom-kean-return-depression.html"
-  ],
-  [
-    "campaign",
-    15,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "film",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/jun/30/elon-musk-citizen-vigilante-immigration"
-  ],
-  [
-    "star",
-    15,
-    "https://www.theguardian.com/wellness/2026/jun/30/exertional-rhabdomyolysis-cause"
-  ],
-  [
-    "place",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/30/trump-republican-convention-midterms-dallas"
-  ],
-  [
-    "little",
-    15,
-    "https://www.theguardian.com/us-news/2026/jun/30/tom-kean-jr-house-absence-returns"
+    "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-deportees-us-deaths.html"
   ],
   [
     "los",
     15,
-    "https://www.theguardian.com/football/2026/jul/01/belgium-senegal-world-cup-match-preview"
+    "https://www.theguardian.com/artanddesign/ng-interactive/2026/jul/01/ana-mendieta-art-death"
   ],
   [
-    "enough",
+    "travel",
     15,
-    "https://www.theguardian.com/business/2026/jun/30/scott-bessent-oil-gas-companies-prices-warning"
+    "https://www.theguardian.com/thefilter-us/2026/jun/30/best-fourth-of-july-deals-sales"
   ],
   [
-    "rep",
+    "filter",
     15,
-    "https://www.npr.org/2026/06/30/nx-s1-5876222/tom-kean-new-jersey-congress-depression"
+    "https://www.theguardian.com/thefilter-us/2026/jun/30/best-fourth-of-july-deals-sales"
   ],
   [
-    "least",
+    "decision",
     14,
-    "https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html"
+    "https://www.nytimes.com/2026/07/01/us/politics/birthright-supreme-court-decision.html"
   ],
   [
-    "family",
+    "war",
     14,
-    "https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html"
-  ],
-  [
-    "wins",
-    14,
-    "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-takeaways-term.html"
-  ],
-  [
-    "degette",
-    14,
-    "https://www.nytimes.com/2026/07/01/us/politics/melat-kiros-degette-colorado-democratic-primary.html"
+    "https://www.nytimes.com/2026/07/01/world/europe/ukraine-war-pregnant-women-hospitals.html"
   ],
   [
     "nearly",
@@ -291,49 +206,49 @@
     "https://www.nytimes.com/2026/06/30/nyregion/tom-kean-new-jersey-absence.html"
   ],
   [
-    "ahead",
+    "swift",
     14,
-    "https://www.nytimes.com/2026/06/30/nyregion/nyc-heat-wave.html"
+    "https://www.nytimes.com/2026/06/30/style/taylor-swift-wedding-kelce-dress-code.html"
   ],
   [
-    "temperatures",
+    "campaign",
     14,
-    "https://www.nytimes.com/2026/06/30/nyregion/nyc-heat-wave.html"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "travel",
+    "local",
+    14,
+    "https://www.theguardian.com/artanddesign/ng-interactive/2026/jul/01/ana-mendieta-art-death"
+  ],
+  [
+    "video",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jul/01/why-meloni-has-hit-back-hard-against-trump-and-his-made-up-photo-claim"
+  ],
+  [
+    "case",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jul/01/why-meloni-has-hit-back-hard-against-trump-and-his-made-up-photo-claim"
+  ],
+  [
+    "law",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/01/new-yorkers-lose-health-insurance-trump-cuts"
+  ],
+  [
+    "political",
+    14,
+    "https://www.theguardian.com/us-news/2026/jun/30/supreme-court-ruling-birthright-citizenship"
+  ],
+  [
+    "won",
+    14,
+    "https://www.theguardian.com/artanddesign/gallery/2026/jul/01/kraszna-krausz-photography-book-award-winners-in-pictures"
+  ],
+  [
+    "fewer",
     14,
     "https://www.theguardian.com/thefilter-us/2026/jun/30/best-fourth-of-july-deals-sales"
-  ],
-  [
-    "guide",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jun/30/best-fourth-of-july-deals-sales"
-  ],
-  [
-    "party",
-    14,
-    "https://www.theguardian.com/film/2026/jun/30/the-invite-review-seth-rogen-olivia-wilde-penelope-cruz-edward-norton"
-  ],
-  [
-    "social",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/30/trump-republican-convention-midterms-dallas"
-  ],
-  [
-    "media",
-    14,
-    "https://www.theguardian.com/media/2026/jun/30/npr-samuel-alito-supreme-court-story"
-  ],
-  [
-    "final",
-    14,
-    "https://www.theguardian.com/football/2026/jun/30/cote-d-ivoire-norway-world-cup-2026-last-32-match-report"
-  ],
-  [
-    "bans",
-    14,
-    "https://www.theguardian.com/us-news/2026/jun/30/us-supreme-court-upholds-laws-trans-women-sports"
   ],
   [
     "cooker",
@@ -341,38 +256,123 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "west",
+    "enough",
     13,
-    "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-transgender-athletes.html"
+    "https://www.nytimes.com/2026/07/01/us/politics/polls-senate-control.html"
   ],
   [
-    "representative",
+    "degette",
     13,
     "https://www.nytimes.com/2026/07/01/us/politics/melat-kiros-degette-colorado-democratic-primary.html"
   ],
   [
-    "models",
+    "died",
+    13,
+    "https://www.nytimes.com/2026/07/01/nyregion/new-york-city-mamdani-heat-cold-deaths.html"
+  ],
+  [
+    "administration",
     13,
     "https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html"
   ],
   [
-    "water",
+    "always",
     13,
-    "https://www.nytimes.com/2026/06/30/world/americas/venezuela-disease-outbreaks.html"
+    "https://www.nytimes.com/2026/07/01/world/africa/ebola-congo-burials.html"
   ],
   [
-    "swift",
+    "taylor",
     13,
     "https://www.nytimes.com/2026/06/30/style/taylor-swift-wedding-kelce-dress-code.html"
   ],
   [
-    "israel",
+    "love",
     13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.theguardian.com/artanddesign/ng-interactive/2026/jul/01/ana-mendieta-art-death"
   ],
   [
-    "tested",
+    "film",
+    13,
+    "https://www.theguardian.com/artanddesign/ng-interactive/2026/jul/01/ana-mendieta-art-death"
+  ],
+  [
+    "place",
+    13,
+    "https://www.theguardian.com/football/2026/jul/01/mexico-ecuador-world-cup-2026-last-32-match-report"
+  ],
+  [
+    "ruling",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/30/trump-news-at-a-glance-latest-updates-today"
+  ],
+  [
+    "media",
+    13,
+    "https://www.theguardian.com/media/2026/jun/30/npr-samuel-alito-supreme-court-story"
+  ],
+  [
+    "little",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/30/tom-kean-jr-house-absence-returns"
+  ],
+  [
+    "sports",
+    13,
+    "https://www.theguardian.com/us-news/2026/jun/30/supreme-court-ruling-birthright-citizenship"
+  ],
+  [
+    "guide",
     13,
     "https://www.theguardian.com/thefilter-us/2026/jun/30/best-fourth-of-july-deals-sales"
+  ],
+  [
+    "victory",
+    13,
+    "https://www.theguardian.com/football/2026/jun/30/usmnt-penalty-kicks-mauricio-pochettino-world-cup"
+  ],
+  [
+    "james",
+    13,
+    "https://www.theguardian.com/sport/2026/jun/30/lebron-james-reportedly-leaving-lakers-opening-door-for-union-with-curry-at-warriors"
+  ],
+  [
+    "water",
+    13,
+    "https://www.theguardian.com/global-development/2026/jul/01/young-women-kashmir-mountains-hiking-hijab-girls-kargil"
+  ],
+  [
+    "rep",
+    13,
+    "https://www.foxnews.com/opinion/rep-roger-williams-250-years-hard-work-pay-main-street-businesses"
+  ],
+  [
+    "family",
+    12,
+    "https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html"
+  ],
+  [
+    "republicans",
+    12,
+    "https://www.nytimes.com/2026/07/01/us/politics/polls-senate-control.html"
+  ],
+  [
+    "democrats",
+    12,
+    "https://www.nytimes.com/2026/07/01/us/politics/polls-senate-control.html"
+  ],
+  [
+    "socialist",
+    12,
+    "https://www.nytimes.com/2026/07/01/us/politics/colorado-primary-takeaways.html"
+  ],
+  [
+    "million",
+    12,
+    "https://www.nytimes.com/2026/07/01/weather/fourth-of-july-heat-wave-latest-updates.html"
+  ],
+  [
+    "ahead",
+    12,
+    "https://www.nytimes.com/2026/07/01/weather/fourth-of-july-heat-wave-latest-updates.html"
   ]
 ];
