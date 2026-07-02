@@ -2,153 +2,138 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    60,
-    "https://www.nytimes.com/2026/07/02/podcasts/the-headlines/ice-arrests-trump-plane.html"
+    64,
+    "https://www.nytimes.com/2026/07/02/us/politics/tucker-carlson-third-party.html"
   ],
   [
     "cup",
-    55,
-    "https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup"
-  ],
-  [
-    "team",
-    37,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    53,
+    "https://www.theguardian.com/football/live/2026/jul/02/spain-v-austria-world-cup-2026-last-32-live"
   ],
   [
     "air",
-    36,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    35,
+    "https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html"
   ],
   [
-    "democratic",
-    33,
-    "https://www.nytimes.com/2026/07/01/upshot/polls-ohio-iowa-alaska-carolina.html"
-  ],
-  [
-    "heat",
-    33,
-    "https://www.washingtonpost.com/nation/2026/07/02/how-philadelphias-past-tragedy-prepared-city-todays-extreme-heat/"
+    "team",
+    32,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "rice",
-    29,
-    "https://www.theguardian.com/food/2026/jul/02/chicken-broth-orzo-and-arctic-char-whose-fridge-is-this"
+    30,
+    "https://www.theguardian.com/football/2026/jul/02/tuchel-hits-out-at-fifa-as-rule-puts-england-at-huge-disadvantage"
   ],
   [
-    "game",
-    27,
-    "https://www.nytimes.com/2026/07/02/opinion/trans-athletes-sports-supreme-court.html"
+    "heat",
+    29,
+    "https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html"
   ],
   [
     "president",
-    25,
-    "https://www.nytimes.com/2026/07/02/world/europe/russia-putin-ukraine-war-pressure.html"
+    28,
+    "https://www.nytimes.com/2026/07/02/us/politics/tucker-carlson-third-party.html"
   ],
   [
-    "star",
-    25,
-    "https://www.nytimes.com/2026/07/02/style/taylor-swift-wedding-logistics-new-york-msg.html"
+    "los",
+    28,
+    "https://www.theguardian.com/us-news/2026/jul/01/los-angeles-sex-trafficking-arrests"
   ],
   [
-    "win",
-    23,
-    "https://www.nytimes.com/2026/07/02/us/politics/ocasio-cortez-endorses-abdul-el-sayed-in-crucial-michigan-senate-race.html"
+    "game",
+    26,
+    "https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup"
+  ],
+  [
+    "pool",
+    25,
+    "https://www.nytimes.com/2026/07/02/us/reflecting-pool-indictment-david-hearn.html"
+  ],
+  [
+    "swift",
+    25,
+    "https://www.nytimes.com/2026/07/02/style/its-the-nations-big-birthday-weekend-taylor-and-trump-are-each-celebrating-in-their-own-way.html"
+  ],
+  [
+    "york",
+    24,
+    "https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html"
+  ],
+  [
+    "reflecting",
+    24,
+    "https://www.nytimes.com/2026/07/02/us/reflecting-pool-indictment-david-hearn.html"
   ],
   [
     "country",
-    23,
+    24,
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
+    "star",
+    24,
+    "https://www.theguardian.com/music/2026/jul/01/rb-star-chris-brown-ordered-to-pay-13m-to-housekeeper-mauled-by-his-dog"
+  ],
+  [
+    "taylor",
+    22,
+    "https://www.nytimes.com/2026/07/02/style/its-the-nations-big-birthday-weekend-taylor-and-trump-are-each-celebrating-in-their-own-way.html"
+  ],
+  [
     "america",
-    23,
+    22,
     "https://www.theguardian.com/us-news/ng-interactive/2026/jul/02/us-national-parks-history-censorship"
   ],
   [
-    "balogun",
-    23,
-    "https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup"
-  ],
-  [
-    "court",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/jul/02/us-anniversary-250"
-  ],
-  [
-    "weekend",
+    "wedding",
     21,
-    "https://www.nytimes.com/2026/07/02/style/taylor-swift-wedding-logistics-new-york-msg.html"
+    "https://www.nytimes.com/2026/07/02/insider/taylor-swift-wedding.html"
   ],
   [
-    "bosnia",
-    21,
-    "https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup"
-  ],
-  [
-    "fourth",
+    "hearn",
     20,
-    "https://www.washingtonpost.com/weather/2026/07/02/will-it-be-stormy-or-dry-july-fourth-fireworks-where-you-live/"
+    "https://www.nytimes.com/2026/07/02/us/reflecting-pool-indictment-david-hearn.html"
+  ],
+  [
+    "don",
+    20,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/03/my-job-provides-financial-stability-but-my-passion-has-gone"
   ],
   [
     "history",
     19,
-    "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html"
+    "https://www.washingtonpost.com/nation/2026/07/02/evangelists-great-american-state-fair-is-mission-field/"
   ],
   [
-    "red",
-    19,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "don",
-    19,
-    "https://www.theguardian.com/news/2026/jul/02/it-is-comforting-to-be-haunted-how-attitudes-to-abortion-have-changed-through-the-ages"
-  ],
-  [
-    "england",
-    19,
-    "https://www.theguardian.com/football/live/2026/jul/02/world-cup-2026-england-and-belgium-fight-back-spain-v-austria-buildup-and-more-live"
-  ],
-  [
-    "war",
+    "david",
     18,
-    "https://www.nytimes.com/2026/07/02/world/europe/russia-putin-ukraine-war-pressure.html"
+    "https://www.nytimes.com/2026/07/02/us/reflecting-pool-indictment-david-hearn.html"
   ],
   [
-    "supreme",
+    "court",
     18,
-    "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html"
-  ],
-  [
-    "least",
-    18,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "really",
-    18,
-    "https://www.theguardian.com/business/ng-interactive/2026/jul/02/whey-protein-boom-proteinmaxxing-demand"
+    "https://www.nytimes.com/2026/07/02/us/politics/the-docket-roberts-supreme-court.html"
   ],
   [
     "summer",
     18,
-    "https://www.theguardian.com/environment/2026/jul/01/ocean-surface-temperatures-hit-a-record-high-for-june"
+    "https://www.theguardian.com/environment/2026/jul/02/climate-change-yps-sweden-young-planetary-stewards-green-project-jobs"
   ],
   [
-    "attack",
+    "least",
     17,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/07/02/world/europe/russia-attack-on-kyiv.html"
   ],
   [
-    "latest",
+    "american",
     17,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.nytimes.com/2026/07/02/us/politics/trump-allies-firm-organizing-250th.html"
   ],
   [
-    "folarin",
+    "kelce",
     17,
-    "https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup"
+    "https://www.nytimes.com/2026/07/02/opinion/taylor-swift-wedding-msg.html"
   ],
   [
     "filter",
@@ -156,24 +141,19 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/02/best-camping-essentials"
   ],
   [
-    "building",
+    "fans",
     17,
-    "https://www.theguardian.com/artanddesign/2026/jul/02/locals-illustrated-ode-londons-pubs-lydia-wood-artist"
+    "https://www.theguardian.com/football/2026/jul/02/mexico-fans-last-16-tie-england-world-cup"
   ],
   [
-    "enough",
+    "local",
     16,
-    "https://www.nytimes.com/2026/07/01/upshot/polls-ohio-iowa-alaska-carolina.html"
+    "https://www.theguardian.com/football/live/2026/jul/02/spain-v-austria-world-cup-2026-last-32-live"
   ],
   [
-    "taylor",
+    "administration",
     16,
-    "https://www.nytimes.com/2026/07/02/style/taylor-swift-wedding-logistics-new-york-msg.html"
-  ],
-  [
-    "wedding",
-    16,
-    "https://www.nytimes.com/2026/07/02/style/taylor-swift-wedding-logistics-new-york-msg.html"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/02/us-national-parks-history-censorship"
   ],
   [
     "always",
@@ -181,119 +161,74 @@
     "https://www.theguardian.com/us-news/ng-interactive/2026/jul/02/us-national-parks-history-censorship"
   ],
   [
-    "card",
+    "food",
     16,
-    "https://www.theguardian.com/football/2026/jul/01/folarin-balogun-red-card-world-cup-appeal-usmnt"
+    "https://www.theguardian.com/music/2026/jul/02/taylor-swift-travis-kelce-wedding-charity-donation"
   ],
   [
-    "capital",
+    "california",
     16,
-    "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine"
+    "https://www.theguardian.com/us-news/2026/jul/02/climber-rescued-fall-california-mount-shasta"
   ],
   [
-    "season",
-    16,
-    "https://www.theguardian.com/sport/2026/jul/01/wta-finals-calls-time-on-three-year-saudi-arabia-deal-and-heads-for-california"
-  ],
-  [
-    "family",
+    "war",
     15,
-    "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html"
+    "https://www.nytimes.com/2026/07/02/us/politics/tucker-carlson-third-party.html"
   ],
   [
-    "american",
+    "past",
     15,
-    "https://www.nytimes.com/2026/07/01/us/politics/trump-money-conflicts-presidency.html"
-  ],
-  [
-    "mexico",
-    15,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "travel",
-    15,
-    "https://www.theguardian.com/environment/2026/jul/02/arctic-tara-ocean-foundation-expedition-floating-lab-explore-life-adrift-ice"
-  ],
-  [
-    "local",
-    15,
-    "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
     "guide",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/jul/02/best-camping-essentials"
+    "https://www.theguardian.com/football/live/2026/jul/02/spain-v-austria-world-cup-2026-last-32-live"
   ],
   [
-    "deals",
+    "really",
     15,
-    "https://www.theguardian.com/games/2026/jul/01/pushing-buttons-ai-datacentres-memory-console-prices-sony-playstation-xbox"
+    "https://www.theguardian.com/lifeandstyle/2026/jul/03/my-job-provides-financial-stability-but-my-passion-has-gone"
   ],
   [
-    "water",
+    "young",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/jun/28/tucktec-10-pro-folding-kayak-review"
-  ],
-  [
-    "cbs",
-    15,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-06-25/katie-couric-calls-out-former-boss-at-cbs-60-minutes"
-  ],
-  [
-    "senate",
-    14,
-    "https://www.nytimes.com/2026/07/02/us/politics/republican-senate-candidates-super-pac.html"
-  ],
-  [
-    "killed",
-    14,
-    "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html"
-  ],
-  [
-    "past",
-    14,
-    "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html"
-  ],
-  [
-    "fans",
-    14,
-    "https://www.nytimes.com/2026/07/02/arts/music/taylor-swift-wedding-fans-swifties.html"
-  ],
-  [
-    "outside",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jul/02/us-anniversary-250"
-  ],
-  [
-    "place",
-    14,
-    "https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup"
-  ],
-  [
-    "temperatures",
-    14,
-    "https://www.theguardian.com/environment/2026/jul/02/arctic-tara-ocean-foundation-expedition-floating-lab-explore-life-adrift-ice"
-  ],
-  [
-    "ahead",
-    14,
-    "https://www.theguardian.com/environment/2026/jul/02/heatwave-eastern-us"
+    "https://www.theguardian.com/environment/2026/jul/02/climate-change-yps-sweden-young-planetary-stewards-green-project-jobs"
   ],
   [
     "little",
     14,
-    "https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june"
+    "https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html"
   ],
   [
-    "because",
+    "risk",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/02/fda-issues-potato-chip-recall-salmonella-risk"
+    "https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html"
   ],
   [
-    "love",
+    "capital",
     14,
-    "https://www.theguardian.com/stage/2026/jul/02/crazysexycool-tlc-musical-kwame-kwei-armah-interview"
+    "https://www.nytimes.com/2026/07/02/world/europe/russia-attack-on-kyiv.html"
+  ],
+  [
+    "fourth",
+    14,
+    "https://www.nytimes.com/2026/07/02/style/its-the-nations-big-birthday-weekend-taylor-and-trump-are-each-celebrating-in-their-own-way.html"
+  ],
+  [
+    "red",
+    14,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "mexico",
+    14,
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  ],
+  [
+    "park",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/02/us-national-parks-history-censorship"
   ],
   [
     "weekly",
@@ -301,14 +236,14 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/02/best-camping-essentials"
   ],
   [
-    "york",
+    "travis",
     14,
-    "https://www.theguardian.com/music/2026/jul/02/madonna-confessions-ii-album-review"
+    "https://www.theguardian.com/music/2026/jul/02/taylor-swift-travis-kelce-wedding-charity-donation"
   ],
   [
-    "match",
+    "england",
     14,
-    "https://www.theguardian.com/football/2026/jul/01/belgium-senegal-2026-world-cup-last-32-match-report"
+    "https://www.theguardian.com/football/2026/jul/02/tuchel-hits-out-at-fifa-as-rule-puts-england-at-huge-disadvantage"
   ],
   [
     "cooker",
@@ -316,63 +251,128 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "democrats",
+    "win",
     13,
     "https://www.nytimes.com/2026/07/02/us/politics/ocasio-cortez-endorses-abdul-el-sayed-in-crucial-michigan-senate-race.html"
   ],
   [
-    "russia",
+    "everything",
     13,
-    "https://www.nytimes.com/2026/07/02/world/europe/russia-putin-ukraine-war-pressure.html"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "swift",
+    "south",
     13,
-    "https://www.nytimes.com/2026/07/02/style/taylor-swift-wedding-logistics-new-york-msg.html"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/02/us-national-parks-history-censorship"
   ],
   [
-    "something",
-    13,
-    "https://www.nytimes.com/2026/07/02/opinion/trans-athletes-sports-supreme-court.html"
-  ],
-  [
-    "questions",
-    13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "anniversary",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/02/trump-hijacked-250-anniversary"
-  ],
-  [
-    "food",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/02/fda-issues-potato-chip-recall-salmonella-risk"
-  ],
-  [
-    "again",
-    13,
-    "https://www.theguardian.com/stage/2026/jul/02/crazysexycool-tlc-musical-kwame-kwei-armah-interview"
-  ],
-  [
-    "fewer",
+    "buying",
     13,
     "https://www.theguardian.com/thefilter-us/2026/jul/02/best-camping-essentials"
   ],
   [
-    "review",
+    "democratic",
     13,
-    "https://www.theguardian.com/music/2026/jul/02/madonna-confessions-ii-album-review"
+    "https://www.theguardian.com/us-news/2026/jul/02/trump-hijacked-250-anniversary"
   ],
   [
-    "con",
+    "sex",
     13,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/estados-unidos-con-diez-hombres-clasifica-a-octavos-tras-vencer-a-bosnia-y-herzegovina-tmvo13199622"
+    "https://www.theguardian.com/us-news/2026/jul/01/los-angeles-sex-trafficking-arrests"
   ],
   [
-    "iran",
+    "something",
+    13,
+    "https://www.theguardian.com/music/2026/jul/02/new-york-taylor-swift-travis-kelce-msg-wedding"
+  ],
+  [
+    "enough",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/02/death-penalty-capital-punishment"
+  ],
+  [
+    "water",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jun/28/tucktec-10-pro-folding-kayak-review"
+  ],
+  [
+    "wave",
     12,
-    "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html"
+    "https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html"
+  ],
+  [
+    "huge",
+    12,
+    "https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html"
+  ],
+  [
+    "russia",
+    12,
+    "https://www.nytimes.com/2026/07/02/world/europe/russia-attack-on-kyiv.html"
+  ],
+  [
+    "killed",
+    12,
+    "https://www.nytimes.com/2026/07/02/world/europe/russia-attack-on-kyiv.html"
+  ],
+  [
+    "attack",
+    12,
+    "https://www.nytimes.com/2026/07/02/world/europe/nato-russia-attack-ukraine.html"
+  ],
+  [
+    "accused",
+    12,
+    "https://www.nytimes.com/2026/07/02/us/reflecting-pool-indictment-david-hearn.html"
+  ],
+  [
+    "children",
+    12,
+    "https://www.nytimes.com/2026/07/02/upshot/trump-investment-accounts-children.html"
+  ],
+  [
+    "donald",
+    12,
+    "https://www.nytimes.com/2026/07/02/style/its-the-nations-big-birthday-weekend-taylor-and-trump-are-each-celebrating-in-their-own-way.html"
+  ],
+  [
+    "weekend",
+    12,
+    "https://www.nytimes.com/2026/07/02/style/its-the-nations-big-birthday-weekend-taylor-and-trump-are-each-celebrating-in-their-own-way.html"
+  ],
+  [
+    "place",
+    12,
+    "https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup"
+  ],
+  [
+    "anniversary",
+    12,
+    "https://www.theguardian.com/us-news/2026/jul/02/trump-hijacked-250-anniversary"
+  ],
+  [
+    "brown",
+    12,
+    "https://www.theguardian.com/music/2026/jul/01/rb-star-chris-brown-ordered-to-pay-13m-to-housekeeper-mauled-by-his-dog"
+  ],
+  [
+    "outside",
+    12,
+    "https://www.theguardian.com/football/2026/jul/02/world-cup-bosnia-victory-st-louis"
+  ],
+  [
+    "love",
+    12,
+    "https://www.theguardian.com/stage/2026/jul/02/crazysexycool-tlc-musical-kwame-kwei-armah-interview"
+  ],
+  [
+    "cool",
+    12,
+    "https://www.theguardian.com/stage/2026/jul/02/crazysexycool-tlc-musical-kwame-kwei-armah-interview"
+  ],
+  [
+    "health",
+    12,
+    "https://www.theguardian.com/business/ng-interactive/2026/jul/02/whey-protein-boom-proteinmaxxing-demand"
   ]
 ];
