@@ -2,38 +2,38 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    73,
+    102,
     "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html"
   ],
   [
     "cup",
-    60,
-    "https://www.theguardian.com/football/live/2026/jul/01/belgium-v-senegal-world-cup-last-32-live"
-  ],
-  [
-    "court",
-    45,
-    "https://www.theguardian.com/sport/2026/jul/01/caitlin-clark-wnba-treatment-alyssa-thomas"
-  ],
-  [
-    "air",
-    29,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    77,
+    "https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup"
   ],
   [
     "president",
-    28,
+    52,
     "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html"
   ],
   [
-    "team",
-    27,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "court",
+    37,
+    "https://www.theguardian.com/sport/2026/jul/01/caitlin-clark-wnba-treatment-alyssa-thomas"
   ],
   [
-    "supreme",
+    "team",
+    33,
+    "https://www.nytimes.com/2026/07/01/us/kratom-trump-administration.html"
+  ],
+  [
+    "air",
+    32,
+    "https://www.nytimes.com/2026/07/01/us/politics/trump-north-dakota-roosevelt-library.html"
+  ],
+  [
+    "game",
     27,
-    "https://www.theguardian.com/us-news/2026/jul/01/trump-birth-tourism-supreme-court"
+    "https://www.theguardian.com/us-news/2026/jul/01/trump-theodore-roosevelt-north-dakota"
   ],
   [
     "rice",
@@ -46,149 +46,184 @@
     "https://www.theguardian.com/commentisfree/2026/jul/01/democratic-socialists-versus-corporate-democrats"
   ],
   [
-    "heat",
-    26,
-    "https://www.theguardian.com/us-news/2026/jul/01/el-nino-birds-california"
-  ],
-  [
-    "game",
-    25,
-    "https://www.theguardian.com/football/2026/jul/01/england-dr-congo-world-cup-2026-last-32-match-report"
-  ],
-  [
-    "democratic",
-    22,
-    "https://www.nytimes.com/2026/07/01/us/politics/democratic-incumbents-progressive-primary-challengers.html"
-  ],
-  [
-    "country",
-    22,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
     "star",
-    21,
+    24,
     "https://www.nytimes.com/2026/07/01/nyregion/taylor-swift-wedding-police-roads.html"
   ],
   [
-    "children",
-    21,
-    "https://www.nytimes.com/2026/07/01/well/live/chalance-dating-taylor-swift-travis-kelce.html"
+    "supreme",
+    24,
+    "https://www.theguardian.com/us-news/2026/jul/01/trump-birth-tourism-supreme-court"
   ],
   [
     "summer",
-    21,
+    23,
     "https://www.theguardian.com/artanddesign/ng-interactive/2026/jul/01/ana-mendieta-art-death"
   ],
   [
-    "building",
-    19,
-    "https://www.nytimes.com/2026/07/01/nyregion/empire-state-building-climbers.html"
-  ],
-  [
-    "york",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/jul/01/democratic-socialists-versus-corporate-democrats"
-  ],
-  [
-    "fans",
-    19,
-    "https://www.theguardian.com/sport/2026/jul/01/caitlin-clark-wnba-treatment-alyssa-thomas"
-  ],
-  [
-    "mexico",
-    18,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "family",
-    17,
-    "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html"
+    "bosnia",
+    22,
+    "https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup"
   ],
   [
     "america",
-    17,
+    20,
     "https://www.nytimes.com/2026/07/01/movies/what-is-the-definitive-movie-about-america.html"
   ],
   [
+    "country",
+    20,
+    "https://www.nytimes.com/2026/07/01/nyregion/mamdani-usa-250-birthday-nyc.html"
+  ],
+  [
+    "red",
+    20,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "heat",
+    20,
+    "https://www.theguardian.com/us-news/2026/jul/01/donald-trump-great-american-state-fair"
+  ],
+  [
+    "california",
+    20,
+    "https://www.theguardian.com/us-news/2026/jul/01/los-angeles-sex-trafficking-arrests"
+  ],
+  [
+    "family",
+    19,
+    "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html"
+  ],
+  [
+    "los",
+    19,
+    "https://www.nytimes.com/2026/07/01/us/los-angeles-sex-trafficking-figueroa-raid.html"
+  ],
+  [
+    "food",
+    19,
+    "https://www.theguardian.com/us-news/2026/jul/01/donald-trump-great-american-state-fair"
+  ],
+  [
+    "balogun",
+    19,
+    "https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup"
+  ],
+  [
     "love",
+    18,
+    "https://www.theguardian.com/us-news/2026/jul/01/empire-state-building-banner-proposal"
+  ],
+  [
+    "change",
     17,
-    "https://www.nytimes.com/2026/07/01/well/live/chalance-dating-taylor-swift-travis-kelce.html"
+    "https://www.nytimes.com/2026/07/01/us/kratom-trump-administration.html"
   ],
   [
-    "states",
+    "sex",
     17,
-    "https://www.nytimes.com/2026/07/01/us/politics/polls-senate-control.html"
-  ],
-  [
-    "enough",
-    17,
-    "https://www.nytimes.com/2026/07/01/us/politics/polls-senate-control.html"
-  ],
-  [
-    "empire",
-    17,
-    "https://www.nytimes.com/2026/07/01/nyregion/empire-state-building-climbers.html"
-  ],
-  [
-    "history",
-    17,
-    "https://www.theguardian.com/football/2026/jun/30/ronald-koeman-resigns-as-netherlands-head-coach-after-world-cup-loss-to-morocco"
-  ],
-  [
-    "american",
-    16,
-    "https://www.nytimes.com/2026/07/01/business/economy/usmca-north-america-trade.html"
-  ],
-  [
-    "office",
-    16,
-    "https://www.washingtonpost.com/investigations/2026/06/30/trump-ballroom-built-under-secret-500m-no-bid-contract/"
-  ],
-  [
-    "guide",
-    16,
-    "https://www.theguardian.com/football/live/2026/jul/01/belgium-v-senegal-world-cup-last-32-live"
+    "https://www.nytimes.com/2026/07/01/us/los-angeles-sex-trafficking-figueroa-raid.html"
   ],
   [
     "win",
     16,
-    "https://www.theguardian.com/commentisfree/2026/jul/01/democratic-socialists-versus-corporate-democrats"
+    "https://www.nytimes.com/2026/07/01/us/kratom-trump-administration.html"
   ],
   [
-    "california",
+    "history",
     16,
-    "https://www.theguardian.com/us-news/2026/jul/01/el-nino-birds-california"
+    "https://www.nytimes.com/2026/07/01/us/politics/trump-ymca-anthem-village-people.html"
   ],
   [
-    "health",
+    "police",
     16,
-    "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations"
+    "https://www.nytimes.com/2026/07/01/arts/music/victor-willis-dead.html"
   ],
   [
-    "war",
+    "million",
+    16,
+    "https://www.washingtonpost.com/investigations/2026/06/30/trump-ballroom-built-under-secret-500m-no-bid-contract/"
+  ],
+  [
+    "mexico",
+    16,
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  ],
+  [
+    "states",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/jul/01/what-is-the-united-states-of-america-now"
+  ],
+  [
+    "children",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/01/ohio-children-rescue"
+  ],
+  [
+    "enough",
+    16,
+    "https://www.theguardian.com/football/2026/jul/01/frances-fab-front-four-make-them-incomparable-world-cup-favourites"
+  ],
+  [
+    "round",
+    16,
+    "https://www.theguardian.com/sport/2026/jul/01/jaylen-brown-boston-celtics-philadelphia-76ers-trade-nba"
+  ],
+  [
+    "financial",
     15,
-    "https://www.nytimes.com/2026/07/01/us/politics/trump-saudi-crown-prince-iran.html"
+    "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html"
+  ],
+  [
+    "democratic",
+    15,
+    "https://www.nytimes.com/2026/07/01/us/politics/democratic-incumbents-progressive-primary-challengers.html"
+  ],
+  [
+    "york",
+    15,
+    "https://www.nytimes.com/2026/07/01/nyregion/mamdani-usa-250-birthday-nyc.html"
   ],
   [
     "administration",
     15,
-    "https://www.nytimes.com/2026/07/01/us/vance-iran-war-military.html"
+    "https://www.nytimes.com/2026/07/01/us/kratom-trump-administration.html"
   ],
   [
-    "trade",
+    "iran",
     15,
-    "https://www.nytimes.com/2026/07/01/business/economy/usmca-north-america-trade.html"
+    "https://www.nytimes.com/2026/07/02/world/middleeast/iraq-us-dollar-transfers-resumes.html"
   ],
   [
-    "little",
+    "guide",
     15,
-    "https://www.theguardian.com/us-news/2026/jul/01/donald-trump-great-american-state-fair"
+    "https://www.theguardian.com/tv-and-radio/2026/jul/01/netflix-second-season-drop-in-viewers"
+  ],
+  [
+    "fans",
+    15,
+    "https://www.theguardian.com/sport/2026/jul/01/caitlin-clark-wnba-treatment-alyssa-thomas"
+  ],
+  [
+    "donald",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/01/trump-theodore-roosevelt-north-dakota"
   ],
   [
     "water",
     15,
-    "https://www.theguardian.com/global-development/2026/jul/01/young-women-kashmir-mountains-hiking-hijab-girls-kargil"
+    "https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints"
+  ],
+  [
+    "brown",
+    15,
+    "https://www.theguardian.com/music/2026/jul/01/rb-star-chris-brown-ordered-to-pay-13m-to-housekeeper-mauled-by-his-dog"
+  ],
+  [
+    "football",
+    15,
+    "https://www.theguardian.com/music/2026/jul/01/whos-been-invited-will-they-need-to-sign-an-nda-seven-things-you-need-to-know-about-taylor-swift-and-travis-kelces-wedding"
   ],
   [
     "filter",
@@ -196,49 +231,54 @@
     "https://www.theguardian.com/thefilter-us/2026/jun/30/best-fourth-of-july-deals-sales"
   ],
   [
-    "que",
-    15,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/kane-demuestra-la-fuerza-de-inglaterra-y-rd-congo-se-despide-con-orgullo-del-mundial-2026-tmvo13199535"
-  ],
-  [
-    "taylor",
+    "american",
     14,
-    "https://www.nytimes.com/2026/07/01/nyregion/taylor-swift-wedding-police-roads.html"
+    "https://www.nytimes.com/2026/07/01/us/politics/trump-money-conflicts-presidency.html"
   ],
   [
-    "swift",
+    "angeles",
     14,
-    "https://www.nytimes.com/2026/07/01/nyregion/taylor-swift-wedding-police-roads.html"
+    "https://www.nytimes.com/2026/07/01/us/los-angeles-sex-trafficking-figueroa-raid.html"
   ],
   [
-    "primary",
+    "building",
     14,
-    "https://www.nytimes.com/2026/07/01/us/politics/democratic-incumbents-progressive-primary-challengers.html"
+    "https://www.nytimes.com/2026/07/01/nyregion/empire-state-building-climbers.html"
   ],
   [
-    "united",
+    "everything",
     14,
-    "https://www.theguardian.com/commentisfree/2026/jul/01/what-is-the-united-states-of-america-now"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "change",
+    "latest",
     14,
-    "https://www.theguardian.com/commentisfree/2026/jul/01/what-is-the-united-states-of-america-now"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "food",
+    "little",
     14,
     "https://www.theguardian.com/us-news/2026/jul/01/donald-trump-great-american-state-fair"
   ],
   [
-    "los",
+    "case",
     14,
-    "https://www.theguardian.com/artanddesign/ng-interactive/2026/jul/01/ana-mendieta-art-death"
+    "https://www.theguardian.com/tv-and-radio/2026/jul/01/netflix-second-season-drop-in-viewers"
   ],
   [
-    "football",
+    "really",
     14,
-    "https://www.theguardian.com/music/2026/jul/01/whos-been-invited-will-they-need-to-sign-an-nda-seven-things-you-need-to-know-about-taylor-swift-and-travis-kelces-wedding"
+    "https://www.theguardian.com/wellness/2026/jul/01/are-hot-dogs-healthy-bad-for-you"
+  ],
+  [
+    "card",
+    14,
+    "https://www.theguardian.com/football/2026/jul/01/folarin-balogun-red-card-world-cup-appeal-usmnt"
+  ],
+  [
+    "always",
+    14,
+    "https://www.theguardian.com/football/2026/jul/02/germany-no-longer-tournament-team-must-reconnect-with-own-identity-world-cup"
   ],
   [
     "fashion",
@@ -251,34 +291,19 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "power",
+    "office",
     13,
-    "https://www.nytimes.com/2026/07/01/us/politics/trump-saudi-crown-prince-iran.html"
+    "https://www.nytimes.com/2026/07/01/us/politics/trump-money-conflicts-presidency.html"
   ],
   [
-    "accused",
+    "war",
     13,
     "https://www.nytimes.com/2026/07/01/us/vance-iran-war-military.html"
   ],
   [
-    "death",
+    "fire",
     13,
-    "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-bodies-morgues.html"
-  ],
-  [
-    "travis",
-    13,
-    "https://www.nytimes.com/2026/07/01/business/taylor-swift-travis-kelce-prenup.html"
-  ],
-  [
-    "experts",
-    13,
-    "https://www.nytimes.com/2026/07/01/business/taylor-swift-travis-kelce-prenup.html"
-  ],
-  [
-    "black",
-    13,
-    "https://www.nytimes.com/2026/07/01/nyregion/empire-state-building-climbers.html"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "released",
@@ -286,93 +311,68 @@
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "local",
+    "match",
     13,
-    "https://www.theguardian.com/football/live/2026/jul/01/belgium-v-senegal-world-cup-last-32-live"
+    "https://www.theguardian.com/us-news/2026/jul/01/donald-trump-great-american-state-fair"
+  ],
+  [
+    "folarin",
+    13,
+    "https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup"
+  ],
+  [
+    "feel",
+    13,
+    "https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup"
   ],
   [
     "americans",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/01/thomas-jefferson-great-grandson-family-legacy"
+    "https://www.theguardian.com/us-news/2026/jul/01/trump-earnings-second-term-callout"
   ],
   [
-    "citizenship",
+    "local",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/01/trump-birth-tourism-supreme-court"
+    "https://www.theguardian.com/us-news/2026/jul/01/new-orleans-relocation-reactions-climate"
   ],
   [
-    "outside",
+    "trade",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/01/protest-shooting-texas-detention-center"
+    "https://www.theguardian.com/football/2026/jul/01/frances-fab-front-four-make-them-incomparable-world-cup-favourites"
   ],
   [
-    "police",
+    "young",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/01/protest-shooting-texas-detention-center"
+    "https://www.theguardian.com/commentisfree/2026/jul/01/rightwing-gen-z-women-supreme-court"
   ],
   [
-    "support",
+    "fifa",
     13,
-    "https://www.theguardian.com/film/2026/jul/01/lethal-weapon-star-danny-glover-reveals-alzheimers-diagnosis"
+    "https://www.theguardian.com/games/2026/jun/23/the-long-painful-history-of-terrible-world-cup-video-games"
   ],
   [
-    "review",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/01/elle-review-legally-blonde-prequel-lexi-minetree-reese-witherspoon-prime-video"
-  ],
-  [
-    "always",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jul/01/donald-trump-billions-of-dollars-reflecting-pool-washington-dc-algae-state-fair"
-  ],
-  [
-    "fourth",
-    13,
-    "https://www.theguardian.com/world/2026/jul/01/salzburg-bans-tourists-driving-old-town-austria-traffic"
-  ],
-  [
-    "iran",
+    "government",
     12,
-    "https://www.nytimes.com/2026/07/01/us/politics/trump-saudi-crown-prince-iran.html"
+    "https://www.nytimes.com/2026/07/01/us/politics/trump-finances-government-conflicts.html"
   ],
   [
-    "north",
+    "least",
     12,
-    "https://www.nytimes.com/2026/07/01/us/politics/polls-senate-control.html"
+    "https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html"
   ],
   [
-    "million",
+    "because",
     12,
-    "https://www.nytimes.com/2026/07/01/us/politics/russia-ukraine-troop-casualties.html"
+    "https://www.nytimes.com/2026/07/01/nyregion/mamdani-usa-250-birthday-nyc.html"
   ],
   [
-    "sea",
+    "law",
     12,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/07/01/nyregion/taylor-swift-wedding-police-roads.html"
   ],
   [
-    "campaign",
+    "experts",
     12,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "everything",
-    12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "hollywood",
-    12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "here's",
-    12,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "past",
-    12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.nytimes.com/2026/07/01/business/taylor-swift-travis-kelce-prenup.html"
   ]
 ];
