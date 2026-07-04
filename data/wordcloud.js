@@ -2,53 +2,58 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    80,
+    86,
     "https://www.nytimes.com/2026/07/03/us/politics/trump-georgia-doubt-election-integrity.html"
   ],
   [
     "cup",
-    60,
-    "https://www.theguardian.com/thefilter-us/2026/jul/03/extreme-heat-essentials-strategies"
+    67,
+    "https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32"
   ],
   [
     "america",
-    37,
-    "https://www.nytimes.com/2026/07/03/us/july-4-250-photos-videos.html"
-  ],
-  [
-    "heat",
-    37,
+    49,
     "https://www.nytimes.com/2026/07/03/us/july-4-250-photos-videos.html"
   ],
   [
     "president",
-    35,
+    41,
     "https://www.nytimes.com/2026/07/03/us/politics/trump-georgia-doubt-election-integrity.html"
   ],
   [
-    "swift",
-    34,
-    "https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-dress-dior.html"
-  ],
-  [
-    "air",
-    33,
-    "https://www.nytimes.com/2026/07/03/us/politics/trump-pardon-clean-air-act.html"
-  ],
-  [
     "country",
-    32,
+    38,
     "https://www.nytimes.com/2026/07/03/us/july-4-250-photos-videos.html"
   ],
   [
-    "taylor",
-    31,
+    "heat",
+    36,
+    "https://www.nytimes.com/2026/07/03/us/july-4-250-photos-videos.html"
+  ],
+  [
+    "air",
+    35,
+    "https://www.nytimes.com/2026/07/03/us/politics/trump-pardon-clean-air-act.html"
+  ],
+  [
+    "swift",
+    33,
     "https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-dress-dior.html"
   ],
   [
-    "york",
+    "american",
+    32,
+    "https://www.nytimes.com/2026/07/03/weather/heat-wave-weather-delays-injuries.html"
+  ],
+  [
+    "taylor",
     30,
-    "https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-celebrity-guests.html"
+    "https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-dress-dior.html"
+  ],
+  [
+    "fourth",
+    27,
+    "https://www.washingtonpost.com/weather/2026/07/02/will-it-be-stormy-or-dry-july-fourth-fireworks-where-you-live/"
   ],
   [
     "rice",
@@ -56,79 +61,74 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "travis",
+    "york",
     26,
-    "https://www.nytimes.com/2026/07/03/style/adam-sandler-officiant-swift-kelce-wedding.html"
-  ],
-  [
-    "fourth",
-    26,
-    "https://www.washingtonpost.com/weather/2026/07/02/will-it-be-stormy-or-dry-july-fourth-fireworks-where-you-live/"
-  ],
-  [
-    "american",
-    25,
-    "https://www.nytimes.com/2026/07/03/weather/heat-wave-weather-delays-injuries.html"
+    "https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-celebrity-guests.html"
   ],
   [
     "birthday",
-    24,
+    25,
     "https://www.nytimes.com/2026/07/03/dining/america-250-birthday-cake-grace-pak.html"
   ],
   [
-    "kelce",
+    "independence",
+    25,
+    "https://www.theguardian.com/us-news/2026/jul/04/trump-launches-americas-250th-birthday-celebrations-with-partisan-attack"
+  ],
+  [
+    "travis",
     24,
     "https://www.nytimes.com/2026/07/03/style/adam-sandler-officiant-swift-kelce-wedding.html"
   ],
   [
-    "star",
-    23,
-    "https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-dress-dior.html"
-  ],
-  [
-    "police",
-    23,
-    "https://www.theguardian.com/us-news/2026/jul/03/two-people-dead-michigan-mall-shooting"
-  ],
-  [
-    "americans",
-    22,
-    "https://www.washingtonpost.com/nation/interactive/2026/07/03/fireworks-parades-celebrations-photos-around-country/"
-  ],
-  [
-    "history",
-    22,
-    "https://www.washingtonpost.com/nation/2026/07/02/evangelists-great-american-state-fair-is-mission-field/"
+    "games",
+    24,
+    "https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32"
   ],
   [
     "game",
-    22,
-    "https://www.theguardian.com/football/2026/jul/04/argentina-cape-verde-world-cup-2026-last-32-match-report"
+    24,
+    "https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32"
   ],
   [
-    "independence",
-    22,
-    "https://www.theguardian.com/us-news/2026/jul/03/heatwave-world-cup-250th-anniversary"
-  ],
-  [
-    "games",
-    22,
-    "https://www.theguardian.com/sport/2026/jul/02/cade-cavalli-willson-contreras-suspension-brawl"
-  ],
-  [
-    "anniversary",
-    20,
-    "https://www.nytimes.com/2026/07/03/us/july-4-250-photos-videos.html"
+    "americans",
+    23,
+    "https://www.washingtonpost.com/nation/interactive/2026/07/03/fireworks-parades-celebrations-photos-around-country/"
   ],
   [
     "wedding",
+    22,
+    "https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-dress-dior.html"
+  ],
+  [
+    "kelce",
+    22,
+    "https://www.nytimes.com/2026/07/03/style/adam-sandler-officiant-swift-kelce-wedding.html"
+  ],
+  [
+    "fans",
+    22,
+    "https://www.theguardian.com/thefilter-us/2026/jul/03/extreme-heat-essentials-strategies"
+  ],
+  [
+    "anniversary",
+    21,
+    "https://www.nytimes.com/2026/07/03/us/july-4-250-photos-videos.html"
+  ],
+  [
+    "speech",
+    21,
+    "https://www.theguardian.com/us-news/2026/jul/03/250th-anniversary-readers-reflect"
+  ],
+  [
+    "star",
     20,
     "https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-dress-dior.html"
   ],
   [
-    "red",
+    "mexico",
     20,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
     "weekend",
@@ -136,9 +136,9 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/03/extreme-heat-essentials-strategies"
   ],
   [
-    "los",
-    20,
-    "https://www.latimes.com/entertainment-arts/books/story/2026-07-01/los-angeles-english-teachers-american-literary-canon-ai"
+    "enough",
+    19,
+    "https://www.nytimes.com/2026/07/03/us/los-angeles-warehouse-fire-cleanup.html"
   ],
   [
     "don",
@@ -146,14 +146,34 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/03/extreme-heat-essentials-strategies"
   ],
   [
-    "really",
+    "history",
     19,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/03/abandoned-review-disney"
+    "https://www.theguardian.com/football/2026/jul/04/colombia-ghana-world-cup-2026-last-32-match-report"
   ],
   [
-    "team",
+    "los",
+    19,
+    "https://www.latimes.com/california/story/2026-07-03/cars-parking-lot-set-ablaze-in-wilmington-fireworks-suspected-lafd-says"
+  ],
+  [
+    "political",
     18,
-    "https://www.nytimes.com/2026/07/03/opinion/democrats-fund-raising-politics-republicans.html"
+    "https://www.nytimes.com/2026/07/03/us/politics/trump-pardon-clean-air-act.html"
+  ],
+  [
+    "red",
+    18,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "always",
+    18,
+    "https://www.theguardian.com/us-news/2026/jul/04/america-250-anniversary-photos-civil-rights-moon-landing-9-11-gold-rush"
+  ],
+  [
+    "win",
+    18,
+    "https://www.theguardian.com/us-news/2026/jul/04/america-250-anniversary-photos-civil-rights-moon-landing-9-11-gold-rush"
   ],
   [
     "summer",
@@ -161,44 +181,54 @@
     "https://www.theguardian.com/commentisfree/2026/jul/03/america-250-celebration-under-repair"
   ],
   [
-    "young",
-    18,
-    "https://www.theguardian.com/us-news/2026/jul/03/two-people-dead-michigan-mall-shooting"
-  ],
-  [
-    "court",
+    "nation",
     17,
-    "https://www.theguardian.com/us-news/2026/jul/03/louisiana-criminal-indictment-halted-attorney-general-liz-murrill"
+    "https://www.nytimes.com/2026/07/03/us/politics/trump-mount-rushmore-america-250.html"
   ],
   [
-    "political",
+    "team",
+    17,
+    "https://www.nytimes.com/2026/07/03/opinion/democrats-fund-raising-politics-republicans.html"
+  ],
+  [
+    "colombia",
+    17,
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+  ],
+  [
+    "love",
+    17,
+    "https://www.theguardian.com/film/2026/jul/04/america-indie-cinemas-revival"
+  ],
+  [
+    "young",
+    17,
+    "https://www.theguardian.com/environment/2026/jul/02/climate-change-yps-sweden-young-planetary-stewards-green-project-jobs"
+  ],
+  [
+    "administration",
     16,
-    "https://www.nytimes.com/2026/07/03/us/politics/trump-pardon-clean-air-act.html"
+    "https://www.nytimes.com/2026/07/03/your-money/trump-accounts-newborns-social-security-numbers.html"
   ],
   [
-    "expected",
+    "million",
     16,
-    "https://www.nytimes.com/2026/07/03/weather/heat-wave-washington-dc-emergency-calls.html"
+    "https://www.nytimes.com/2026/07/04/us/storms-power-outages-midwest-northeast-ontario.html"
   ],
   [
-    "past",
+    "feel",
+    16,
+    "https://www.nytimes.com/2026/07/03/opinion/democrats-fund-raising-politics-republicans.html"
+  ],
+  [
+    "war",
     16,
     "https://www.nytimes.com/2026/07/04/world/asia/australia-china-politics.html"
   ],
   [
-    "mexico",
+    "fireworks",
     16,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "donald",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/03/250th-anniversary-readers-reflect"
-  ],
-  [
-    "speech",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/03/250th-anniversary-readers-reflect"
+    "https://www.washingtonpost.com/nation/interactive/2026/07/03/fireworks-parades-celebrations-photos-around-country/"
   ],
   [
     "filter",
@@ -206,19 +236,34 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/03/extreme-heat-essentials-strategies"
   ],
   [
+    "verde",
+    16,
+    "https://www.theguardian.com/football/2026/jul/04/argentina-cape-verde-world-cup-2026-last-32-match-report"
+  ],
+  [
+    "argentina",
+    16,
+    "https://www.theguardian.com/football/2026/jul/04/argentina-cape-verde-world-cup-2026-last-32-match-report"
+  ],
+  [
+    "court",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/03/louisiana-criminal-indictment-halted-attorney-general-liz-murrill"
+  ],
+  [
     "match",
     16,
-    "https://www.theguardian.com/football/2026/jul/03/folarin-balogun-red-card-suspension-belgium-world-cup"
+    "https://www.theguardian.com/football/2026/jul/04/what-mexico-fans-feel-about-the-world-cup-and-england"
   ],
   [
-    "que",
+    "police",
     16,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/autogol-argentina-consigue-el-tercero-tras-un-cabezazo-de-romero-y-un-poco-de-fortuna-tmvo13200320"
+    "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran"
   ],
   [
-    "administration",
+    "expected",
     15,
-    "https://www.nytimes.com/2026/07/03/your-money/trump-accounts-newborns-social-security-numbers.html"
+    "https://www.nytimes.com/2026/07/04/world/middleeast/khamenei-funeral-itineray-iran-iraq-shia.html"
   ],
   [
     "food",
@@ -226,24 +271,19 @@
     "https://www.nytimes.com/2026/07/03/us/los-angeles-warehouse-fire-cleanup.html"
   ],
   [
-    "enough",
+    "really",
     15,
-    "https://www.nytimes.com/2026/07/03/us/los-angeles-warehouse-fire-cleanup.html"
+    "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt"
   ],
   [
-    "war",
+    "donald",
     15,
-    "https://www.nytimes.com/2026/07/04/world/asia/australia-china-politics.html"
+    "https://www.theguardian.com/us-news/2026/jul/03/250th-anniversary-readers-reflect"
   ],
   [
-    "video",
+    "england",
     15,
-    "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape"
-  ],
-  [
-    "always",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/03/abandoned-review-disney"
+    "https://www.theguardian.com/football/2026/jul/04/what-mexico-fans-feel-about-the-world-cup-and-england"
   ],
   [
     "fifa",
@@ -251,47 +291,12 @@
     "https://www.theguardian.com/football/2026/jul/03/folarin-balogun-red-card-suspension-belgium-world-cup"
   ],
   [
-    "love",
-    15,
-    "https://www.theguardian.com/sport/2026/jul/03/lewis-hamilton-british-grand-prix-formula-one-ferrari"
-  ],
-  [
     "climate",
     14,
     "https://www.nytimes.com/2026/07/03/upshot/hamburger-beef-july4-climate-guide.html"
   ],
   [
-    "fashion",
-    14,
-    "https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-celebrity-guests.html"
-  ],
-  [
-    "fireworks",
-    14,
-    "https://www.washingtonpost.com/nation/interactive/2026/07/03/fireworks-parades-celebrations-photos-around-country/"
-  ],
-  [
-    "everything",
-    14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "fans",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jul/03/extreme-heat-essentials-strategies"
-  ],
-  [
-    "verde",
-    14,
-    "https://www.theguardian.com/football/2026/jul/04/argentina-cape-verde-world-cup-2026-last-32-match-report"
-  ],
-  [
-    "argentina",
-    14,
-    "https://www.theguardian.com/football/2026/jul/04/argentina-cape-verde-world-cup-2026-last-32-match-report"
-  ],
-  [
-    "garden",
+    "square",
     14,
     "https://www.theguardian.com/music/2026/jul/03/taylor-swift-travis-kelce-wedding-msg-new-york"
   ],
@@ -301,24 +306,9 @@
     "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape"
   ],
   [
-    "family",
+    "won",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/03/abandoned-review-disney"
-  ],
-  [
-    "win",
-    14,
-    "https://www.theguardian.com/football/2026/jul/03/folarin-balogun-red-card-suspension-belgium-world-cup"
-  ],
-  [
-    "little",
-    14,
-    "https://www.theguardian.com/football/2026/jul/03/germany-hold-jurgen-klopp-talks-after-julian-nagelsmann-quits-as-head-coach"
-  ],
-  [
-    "final",
-    14,
-    "https://www.theguardian.com/football/2026/jul/03/roberto-martinez-portugal-croatia-record-four-goals-ruled-out-world-cup-2026"
+    "https://www.theguardian.com/football/2026/jul/03/australia-egypt-world-cup-2026-last-32-match-report"
   ],
   [
     "cooker",
@@ -326,9 +316,34 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "nation",
+    "america's",
+    14,
+    "https://www.latimes.com/california/story/2026-07-02/faces-voices-of-angelenos-on-americas-250th"
+  ],
+  [
+    "rushmore",
     13,
-    "https://www.nytimes.com/2026/07/03/dining/america-250-birthday-cake-grace-pak.html"
+    "https://www.nytimes.com/2026/07/03/us/politics/trump-mount-rushmore-america-250.html"
+  ],
+  [
+    "power",
+    13,
+    "https://www.nytimes.com/2026/07/03/us/politics/trump-pardon-clean-air-act.html"
+  ],
+  [
+    "united",
+    13,
+    "https://www.nytimes.com/2026/07/03/us/july-4-250-photos-videos.html"
+  ],
+  [
+    "states",
+    13,
+    "https://www.nytimes.com/2026/07/03/us/july-4-250-photos-videos.html"
+  ],
+  [
+    "party",
+    13,
+    "https://www.nytimes.com/2026/07/03/us/july-4-250-photos-videos.html"
   ],
   [
     "washington",
@@ -341,38 +356,23 @@
     "https://www.nytimes.com/2026/07/03/upshot/hamburger-beef-july4-climate-guide.html"
   ],
   [
-    "feel",
+    "fashion",
     13,
-    "https://www.nytimes.com/2026/07/03/opinion/democrats-fund-raising-politics-republicans.html"
+    "https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-celebrity-guests.html"
   ],
   [
-    "million",
+    "fire",
     13,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.nytimes.com/2026/07/03/us/los-angeles-warehouse-fire-cleanup.html"
   ],
   [
-    "weekly",
+    "past",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/03/extreme-heat-essentials-strategies"
+    "https://www.nytimes.com/2026/07/04/world/asia/australia-china-politics.html"
   ],
   [
-    "record",
+    "everything",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/03/extreme-heat-essentials-strategies"
-  ],
-  [
-    "media",
-    13,
-    "https://www.theguardian.com/sport/2026/jul/03/caitlin-clark-alyssa-thomas-online-harassment-wnba"
-  ],
-  [
-    "card",
-    13,
-    "https://www.theguardian.com/football/2026/jul/03/folarin-balogun-red-card-suspension-belgium-world-cup"
-  ],
-  [
-    "won",
-    13,
-    "https://www.theguardian.com/football/2026/jul/03/australia-egypt-world-cup-2026-last-32-match-report"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ]
 ];
