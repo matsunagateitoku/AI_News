@@ -2,28 +2,34 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump On America&Apos;S 250Th Independence Day",
-      "count": 39,
-      "url": "https://www.foxnews.com/world/world-leaders-dignitaries-pay-tribute-america-historic-250th-birthday",
-      "source": "Fox News"
+      "name": "Target For Trump",
+      "count": 44,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Paraguay",
+      "count": 14,
+      "url": "https://www.theguardian.com/football/2026/jul/05/paraguay-france-last-16-world-cup-match-report",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
-      "count": 12,
+      "count": 11,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Un",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/jul/03/tibet-china-man-tibetan-flag-set-himself-on-fire-dies-un-united-nations-new-york",
+      "name": "Guardian",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
       "source": "The Guardian"
     },
     {
-      "name": "Guardian",
-      "count": 8,
-      "url": "https://www.theguardian.com/technology/2026/jul/04/elon-musk-uk-race-immigration-spacex-ipo",
-      "source": "The Guardian"
+      "name": "Punch Brothers",
+      "count": 9,
+      "url": "https://www.cbsnews.com/video/saturday-sessions-punch-brothers-perform-song-of-the-water-kelpie-unsung/",
+      "source": "CBS News"
     },
     {
       "name": "Amazon",
@@ -32,189 +38,65 @@
       "source": "The Guardian"
     },
     {
-      "name": "Paraguay De Alfaro",
-      "count": 8,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/francia-esta-rumbo-a-la-calurosa-philadelphia-para-el-duelo-ante-la-sorprendente-paraguay-tmvo13200510",
-      "source": "NBC News"
-    },
-    {
-      "name": "The Supreme Court",
+      "name": "Un",
       "count": 7,
-      "url": "https://www.latimes.com/delos/story/2026-06-19/marla-ramirez-banished-repatriation-citizens-mexican-american-women-trump-birthright",
-      "source": "LA Times"
+      "url": "https://www.theguardian.com/world/2026/jul/03/tibet-china-man-tibetan-flag-set-himself-on-fire-dies-un-united-nations-new-york",
+      "source": "The Guardian"
     },
     {
       "name": "Ai",
       "count": 6,
-      "url": "https://www.theguardian.com/technology/2026/jul/04/elon-musk-uk-race-immigration-spacex-ipo",
+      "url": "https://www.theguardian.com/news/2026/jul/04/an-ai-philosopher-the-conflict-and-chaos-in-taylor-swifts-songs-and-the-erasure-of-us-history-from-national-parks",
       "source": "The Guardian"
     },
     {
-      "name": "Punch Brothers",
+      "name": "The White House",
       "count": 6,
-      "url": "https://www.cbsnews.com/video/saturday-sessions-punch-brothers-perform-new-bike/",
-      "source": "CBS News"
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-earnings-second-term-callout",
+      "source": "The Guardian"
     },
     {
-      "name": "Cdc",
+      "name": "The Supreme Court",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/jul/03/cdc-investigates-parasite-explosive-diarrhea",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 24,
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/trump-launches-americas-250th-birthday-celebrations-with-partisan-attack",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Taylor Swift",
-      "count": 21,
-      "url": "https://www.theguardian.com/music/2026/jul/03/taylor-swift-travis-kelce-wedding-msg-new-york",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Travis Kelce",
-      "count": 13,
-      "url": "https://www.theguardian.com/music/2026/jul/03/taylor-swift-travis-kelce-wedding-msg-new-york",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ayatollah Ali Khamenei",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html",
+      "url": "https://www.nytimes.com/2026/07/04/us/politics/justice-alito-influence-supreme-court.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Madonna",
-      "count": 8,
-      "url": "https://www.theguardian.com/music/2026/jul/02/madonna-confessions-ii-album-review",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Serena Williams",
-      "count": 6,
-      "url": "https://www.foxnews.com/sports/williams-sisters-withdraw-wimbledon-doubles-serena-suffers-knee-injury",
-      "source": "Fox News"
-    },
-    {
-      "name": "Thomas Jefferson",
-      "count": 5,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/04/us-250-britain-special-relationship",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Confessions Ii",
-      "count": 5,
-      "url": "https://www.theguardian.com/music/2026/jul/02/madonna-confessions-ii-album-review",
-      "source": "The Guardian"
-    },
-    {
-      "name": "John Adams",
-      "count": 4,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/04/us-250-britain-special-relationship",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Adam Sandler",
-      "count": 4,
-      "url": "https://www.theguardian.com/music/2026/jul/03/taylor-swift-travis-kelce-wedding-msg-new-york",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "The United States Of America",
-      "count": 74,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/04/us-history-destruction",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Us",
-      "count": 67,
-      "url": "https://www.nytimes.com/2026/07/04/briefing/happy-birthday-to-us.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 23,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Mexico City",
-      "count": 18,
-      "url": "https://www.theguardian.com/football/2026/jul/04/what-mexico-fans-feel-about-the-world-cup-and-england",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. County",
-      "count": 16,
-      "url": "https://www.latimes.com/business/story/2026-07-02/home-insurer-surcharges-for-wildfires-is-legal-judge-rules",
-      "source": "LA Times"
-    },
-    {
-      "name": "London",
-      "count": 15,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/04/us-250-britain-special-relationship",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uk",
-      "count": 13,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/04/us-250-britain-special-relationship",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City’S",
-      "count": 13,
-      "url": "https://www.theguardian.com/music/2026/jul/03/taylor-swift-travis-kelce-wedding-msg-new-york",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Canada",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Washington Dc",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/dc-state-fair-pickle-company-withdrawal",
-      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The Fifa World Cup",
-      "count": 40,
+      "count": 45,
       "url": "https://www.theguardian.com/world/video/2026/jul/04/mexicos-kidnapping-crisis-how-can-they-hold-a-world-cup-video",
       "source": "The Guardian"
     },
     {
-      "name": "The World Cup Quarter",
-      "count": 14,
-      "url": "https://www.theguardian.com/football/2026/jul/04/canada-morocco-last-16-world-cup-match-report",
+      "name": "The World Cup",
+      "count": 12,
+      "url": "https://www.theguardian.com/football/2026/jul/04/some-americans-are-reluctant-to-cheer-for-the-us-at-the-world-cup-they-shouldnt-be",
       "source": "The Guardian"
     },
     {
       "name": "Independence Day",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/jul/03/heatwave-world-cup-250th-anniversary",
+      "url": "https://www.theguardian.com/football/2026/jul/05/paraguay-france-last-16-world-cup-match-report",
       "source": "The Guardian"
     },
     {
-      "name": "Revolutionary War",
+      "name": "The Great American State Fair",
       "count": 4,
-      "url": "https://www.cbsnews.com/news/revolutionary-war-soldier-identified-john-doe-technology-camden/",
-      "source": "CBS News"
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/04/250-years-declaration-of-independence",
+      "source": "The Guardian"
+    },
+    {
+      "name": "This World Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32",
+      "source": "The Guardian"
     },
     {
       "name": "Wimbledon",
       "count": 3,
-      "url": "https://www.theguardian.com/fashion/2026/jul/03/naomi-osaka-wimbledon-tennis-fashion-moment",
+      "url": "https://www.theguardian.com/sport/2026/jul/04/british-wildcard-arthur-fery-fights-back-to-beat-zizou-bergs-in-wimbledon-epic",
       "source": "The Guardian"
     },
     {
@@ -222,12 +104,6 @@
       "count": 2,
       "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-dissidents-crackdown.html",
       "source": "NY Times"
-    },
-    {
-      "name": "The Great American State Fair",
-      "count": 2,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/04/250-years-declaration-of-independence",
-      "source": "The Guardian"
     },
     {
       "name": "Super Bowl",
@@ -248,5 +124,129 @@
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-07-04T20:11:46Z"
+  "GPE": [
+    {
+      "name": "The United States Of America",
+      "count": 73,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/04/us-history-destruction",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Us",
+      "count": 69,
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/america-250-anniversary-photos-civil-rights-moon-landing-9-11-gold-rush",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 30,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "California",
+      "count": 20,
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mexico City",
+      "count": 19,
+      "url": "https://www.theguardian.com/football/2026/jul/04/what-mexico-fans-feel-about-the-world-cup-and-england",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Canada",
+      "count": 17,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Washington Dc",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/trump-speech-dc-evacuation-thunderstorm",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County",
+      "count": 16,
+      "url": "https://www.latimes.com/business/story/2026-07-02/home-insurer-surcharges-for-wildfires-is-legal-judge-rules",
+      "source": "LA Times"
+    },
+    {
+      "name": "Uk",
+      "count": 12,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/04/us-250-britain-special-relationship",
+      "source": "The Guardian"
+    },
+    {
+      "name": "France",
+      "count": 11,
+      "url": "https://www.theguardian.com/football/2026/jul/05/paraguay-france-last-16-world-cup-match-report",
+      "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Taylor Swift",
+      "count": 18,
+      "url": "https://www.theguardian.com/music/2026/jul/03/taylor-swift-travis-kelce-wedding-msg-new-york",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Melania Trump",
+      "count": 16,
+      "url": "https://thehill.com/video-clips/5951865-watch-live-donald-trump-july-4-speech-national-mall-america-250-celebrations-dc/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 14,
+      "url": "https://www.washingtonpost.com/nation/2026/07/04/celebrations-americas-250th-begin-amid-heat-political-division/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Travis Kelce",
+      "count": 11,
+      "url": "https://www.theguardian.com/music/2026/jul/03/taylor-swift-travis-kelce-wedding-msg-new-york",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ayatollah Ali Khamenei",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Madonna",
+      "count": 8,
+      "url": "https://www.theguardian.com/music/2026/jul/02/madonna-confessions-ii-album-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kylian Mbappé",
+      "count": 6,
+      "url": "https://www.theguardian.com/football/2026/jul/05/paraguay-france-last-16-world-cup-match-report",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Chris Brown",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/jul/01/rb-star-chris-brown-ordered-to-pay-13m-to-housekeeper-mauled-by-his-dog",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Confessions Ii",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/jul/02/madonna-confessions-ii-album-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Paul Pelosi",
+      "count": 5,
+      "url": "https://www.latimes.com/california/story/2026-07-04/paul-pelosi-hit-run-charge-napa-county-parked-car",
+      "source": "LA Times"
+    }
+  ],
+  "updated": "2026-07-05T05:00:36Z"
 };
