@@ -2,33 +2,38 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    76,
-    "https://www.nytimes.com/2026/07/04/us/politics/national-mall-evacuated-storms.html"
+    88,
+    "https://www.nytimes.com/2026/07/05/us/politics/trump-speech-fourth-july.html"
   ],
   [
     "cup",
-    74,
-    "https://www.theguardian.com/football/2026/jul/04/some-americans-are-reluctant-to-cheer-for-the-us-at-the-world-cup-they-shouldnt-be"
+    73,
+    "https://www.theguardian.com/football/2026/jul/05/football-centre-of-universe-brazil-not-in-us"
   ],
   [
     "america",
-    64,
-    "https://www.nytimes.com/2026/07/04/us/politics/democrats-clash-trump-america-250th-birthday.html"
+    65,
+    "https://www.nytimes.com/2026/07/05/us/politics/trump-speech-fourth-july.html"
   ],
   [
     "fourth",
     41,
-    "https://www.nytimes.com/2026/07/04/us/politics/this-california-town-banned-fireworks-then-came-the-dogs.html"
+    "https://www.nytimes.com/2026/07/05/us/politics/trump-speech-fourth-july.html"
   ],
   [
     "air",
-    38,
+    41,
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "american",
-    35,
+    "president",
+    40,
     "https://www.nytimes.com/2026/07/04/us/politics/democrats-clash-trump-america-250th-birthday.html"
+  ],
+  [
+    "american",
+    39,
+    "https://www.nytimes.com/2026/07/05/us/politics/trump-speech-fourth-july.html"
   ],
   [
     "country",
@@ -36,24 +41,34 @@
     "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html"
   ],
   [
-    "president",
-    33,
-    "https://www.nytimes.com/2026/07/04/us/politics/democrats-clash-trump-america-250th-birthday.html"
-  ],
-  [
-    "independence",
-    30,
-    "https://www.washingtonpost.com/nation/2026/07/04/each-independence-day-this-small-town-becomes-center-its-own-american-story/"
-  ],
-  [
     "police",
-    27,
+    31,
     "https://www.nytimes.com/2026/07/04/nyregion/fire-brooklyn-bridge-fireworks.html"
   ],
   [
+    "anniversary",
+    30,
+    "https://www.nytimes.com/2026/07/05/us/politics/trump-speech-fourth-july.html"
+  ],
+  [
     "history",
+    29,
+    "https://www.nytimes.com/2026/07/05/us/politics/trump-speech-fourth-july.html"
+  ],
+  [
+    "team",
+    28,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "heat",
+    28,
+    "https://www.theguardian.com/environment/2026/jul/05/europe-air-conditioning-culture-wars-heat-up"
+  ],
+  [
+    "speech",
     27,
-    "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html"
+    "https://www.nytimes.com/2026/07/05/us/politics/trump-speech-fourth-july.html"
   ],
   [
     "rice",
@@ -61,54 +76,24 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "california",
+    "independence",
     26,
-    "https://www.nytimes.com/2026/07/04/us/politics/this-california-town-banned-fireworks-then-came-the-dogs.html"
-  ],
-  [
-    "heat",
-    25,
-    "https://www.nytimes.com/2026/07/04/us/politics/national-mall-evacuated-storms.html"
-  ],
-  [
-    "team",
-    25,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.washingtonpost.com/nation/2026/07/04/each-independence-day-this-small-town-becomes-center-its-own-american-story/"
   ],
   [
     "political",
-    23,
+    25,
     "https://www.nytimes.com/2026/07/04/us/politics/democrats-clash-trump-america-250th-birthday.html"
   ],
   [
-    "star",
+    "game",
     23,
-    "https://www.theguardian.com/music/2026/jul/01/rb-star-chris-brown-ordered-to-pay-13m-to-housekeeper-mauled-by-his-dog"
-  ],
-  [
-    "swift",
-    22,
-    "https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-wedding-recap.html"
+    "https://www.theguardian.com/football/2026/jul/05/football-centre-of-universe-brazil-not-in-us"
   ],
   [
     "americans",
-    22,
+    21,
     "https://www.washingtonpost.com/nation/interactive/2026/07/03/fireworks-parades-celebrations-photos-around-country/"
-  ],
-  [
-    "anniversary",
-    22,
-    "https://www.washingtonpost.com/nation/interactive/2026/07/03/fireworks-parades-celebrations-photos-around-country/"
-  ],
-  [
-    "game",
-    22,
-    "https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32"
-  ],
-  [
-    "match",
-    22,
-    "https://www.theguardian.com/thefilter-us/2026/jul/04/best-hiking-daypacks-tested-reviewed"
   ],
   [
     "birthday",
@@ -121,24 +106,29 @@
     "https://www.nytimes.com/2026/07/04/nyregion/fire-brooklyn-bridge-fireworks.html"
   ],
   [
-    "america's",
+    "party",
     20,
-    "https://www.latimes.com/california/story/2026-07-02/faces-voices-of-angelenos-on-americas-250th"
+    "https://www.nytimes.com/2026/07/04/us/politics/democrats-clash-trump-america-250th-birthday.html"
   ],
   [
-    "taylor",
-    19,
-    "https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-wedding-recap.html"
+    "weather",
+    20,
+    "https://www.washingtonpost.com/nation/2026/07/04/celebrations-americas-250th-begin-amid-heat-political-division/"
   ],
   [
-    "summer",
-    19,
-    "https://www.nytimes.com/2026/07/04/opinion/america-at-250.html"
+    "match",
+    20,
+    "https://www.theguardian.com/thefilter-us/2026/jul/04/best-hiking-daypacks-tested-reviewed"
   ],
   [
-    "games",
+    "star",
+    20,
+    "https://www.theguardian.com/football/2026/jul/04/canada-world-cup-alphonso-davies-injury-management"
+  ],
+  [
+    "california",
     19,
-    "https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32"
+    "https://www.nytimes.com/2026/07/05/opinion/billionaire-wealth-tax-california.html"
   ],
   [
     "paraguay",
@@ -146,29 +136,24 @@
     "https://www.theguardian.com/football/2026/jul/05/paraguay-france-last-16-world-cup-match-report"
   ],
   [
-    "speech",
-    18,
-    "https://www.nytimes.com/2026/07/04/us/politics/national-mall-evacuated-storms.html"
-  ],
-  [
-    "war",
-    18,
-    "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html"
-  ],
-  [
-    "mexico",
-    18,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
     "love",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/jul/04/us-birthday-ufc-event-state-fair"
+    19,
+    "https://www.theguardian.com/world/2026/jul/05/how-kenya-fell-back-in-love-with-darts"
   ],
   [
-    "washington",
-    17,
-    "https://www.nytimes.com/2026/07/04/us/politics/national-mall-evacuated-storms.html"
+    "america's",
+    19,
+    "https://www.latimes.com/sports/soccer/story/2026-07-04/on-americas-birthday-u-s-soccer-team-embodies-founders-dreams"
+  ],
+  [
+    "swift",
+    18,
+    "https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-wedding-recap.html"
+  ],
+  [
+    "games",
+    18,
+    "https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32"
   ],
   [
     "record",
@@ -176,9 +161,14 @@
     "https://www.nytimes.com/2026/07/04/us/politics/democrats-clash-trump-america-250th-birthday.html"
   ],
   [
-    "party",
+    "washington",
     17,
-    "https://www.nytimes.com/2026/07/04/us/politics/democrats-clash-trump-america-250th-birthday.html"
+    "https://www.washingtonpost.com/nation/2026/07/05/july-fourth-extravaganza-los-angeles-celebrated-americas-diversity/"
+  ],
+  [
+    "donald",
+    17,
+    "https://www.washingtonpost.com/nation/2026/07/04/celebrations-americas-250th-begin-amid-heat-political-division/"
   ],
   [
     "always",
@@ -186,54 +176,14 @@
     "https://www.theguardian.com/us-news/2026/jul/04/america-250-anniversary-photos-civil-rights-moon-landing-9-11-gold-rush"
   ],
   [
-    "states",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/04/america-250-anniversary-photos-civil-rights-moon-landing-9-11-gold-rush"
-  ],
-  [
-    "win",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/04/america-250-anniversary-photos-civil-rights-moon-landing-9-11-gold-rush"
-  ],
-  [
-    "fans",
-    17,
-    "https://www.theguardian.com/football/2026/jul/04/some-americans-are-reluctant-to-cheer-for-the-us-at-the-world-cup-they-shouldnt-be"
-  ],
-  [
-    "york",
-    17,
-    "https://www.theguardian.com/music/2026/jul/03/taylor-swift-travis-kelce-wedding-msg-new-york"
-  ],
-  [
-    "los",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/01/los-angeles-sex-trafficking-arrests"
-  ],
-  [
-    "weekend",
-    17,
-    "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes"
+    "war",
+    16,
+    "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html"
   ],
   [
     "court",
     16,
     "https://www.nytimes.com/2026/07/04/us/politics/justice-alito-influence-supreme-court.html"
-  ],
-  [
-    "travis",
-    16,
-    "https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-wedding-recap.html"
-  ],
-  [
-    "weather",
-    16,
-    "https://www.washingtonpost.com/nation/2026/07/04/celebrations-americas-250th-begin-amid-heat-political-division/"
-  ],
-  [
-    "past",
-    16,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
     "canada",
@@ -246,9 +196,34 @@
     "https://www.theguardian.com/us-news/2026/jul/04/america-250-anniversary-photos-civil-rights-moon-landing-9-11-gold-rush"
   ],
   [
-    "car",
+    "win",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/04/america-250-anniversary-photos-civil-rights-moon-landing-9-11-gold-rush"
+  ],
+  [
+    "place",
+    16,
+    "https://www.theguardian.com/football/2026/jul/05/football-centre-of-universe-brazil-not-in-us"
+  ],
+  [
+    "summer",
     16,
     "https://www.theguardian.com/us-news/ng-interactive/2026/jul/04/250-years-declaration-of-independence"
+  ],
+  [
+    "night",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/04/trump-speech-dc-evacuation-thunderstorm"
+  ],
+  [
+    "young",
+    16,
+    "https://www.theguardian.com/world/2026/jul/05/dream-home-turned-nightmare-in-wales-stalker-neighbours-stalked-book"
+  ],
+  [
+    "don",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/05/amateur-tv-detectives-high-potential-sherlock-elsbeth-ludwig-residence"
   ],
   [
     "filter",
@@ -256,17 +231,12 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/04/best-hiking-daypacks-tested-reviewed"
   ],
   [
-    "don",
-    16,
-    "https://www.theguardian.com/football/2026/jul/04/belgium-united-states-world-cup-environment"
+    "taylor",
+    15,
+    "https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-wedding-recap.html"
   ],
   [
-    "young",
-    16,
-    "https://www.theguardian.com/football/2026/jul/04/egypt-hossam-hassan-dallas-police-incident-resolved"
-  ],
-  [
-    "wedding",
+    "event",
     15,
     "https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-wedding-recap.html"
   ],
@@ -276,14 +246,34 @@
     "https://www.washingtonpost.com/nation/2026/07/04/celebrations-americas-250th-begin-amid-heat-political-division/"
   ],
   [
-    "nation",
+    "released",
     15,
-    "https://www.washingtonpost.com/nation/2026/07/04/celebrations-americas-250th-begin-amid-heat-political-division/"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "donald",
+    "states",
     15,
-    "https://www.washingtonpost.com/nation/2026/07/04/celebrations-americas-250th-begin-amid-heat-political-division/"
+    "https://www.theguardian.com/us-news/2026/jul/04/america-250-anniversary-photos-civil-rights-moon-landing-9-11-gold-rush"
+  ],
+  [
+    "car",
+    15,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/04/250-years-declaration-of-independence"
+  ],
+  [
+    "york",
+    15,
+    "https://www.theguardian.com/music/2026/jul/03/taylor-swift-travis-kelce-wedding-msg-new-york"
+  ],
+  [
+    "fans",
+    15,
+    "https://www.theguardian.com/music/2026/jul/03/taylor-swift-travis-kelce-wedding-msg-new-york"
+  ],
+  [
+    "died",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/05/how-cope-grief-guilt-death-husband-partner"
   ],
   [
     "water",
@@ -291,14 +281,14 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/04/best-hiking-daypacks-tested-reviewed"
   ],
   [
-    "far",
+    "weekend",
     15,
-    "https://www.theguardian.com/football/2026/jul/04/what-mexico-fans-feel-about-the-world-cup-and-england"
+    "https://www.theguardian.com/commentisfree/2026/jul/04/us-birthday-ufc-event-state-fair"
   ],
   [
-    "place",
-    15,
-    "https://www.theguardian.com/football/2026/jul/04/canada-world-cup-alphonso-davies-injury-management"
+    "nation",
+    14,
+    "https://www.nytimes.com/2026/07/05/us/politics/trump-speech-fourth-july.html"
   ],
   [
     "supreme",
@@ -306,14 +296,29 @@
     "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html"
   ],
   [
-    "released",
+    "lost",
     14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html"
   ],
   [
-    "feel",
+    "france",
     14,
-    "https://www.theguardian.com/football/2026/jul/04/some-americans-are-reluctant-to-cheer-for-the-us-at-the-world-cup-they-shouldnt-be"
+    "https://www.nytimes.com/2026/07/05/opinion/billionaire-wealth-tax-california.html"
+  ],
+  [
+    "los",
+    14,
+    "https://www.washingtonpost.com/nation/2026/07/05/july-fourth-extravaganza-los-angeles-celebrated-americas-diversity/"
+  ],
+  [
+    "suspected",
+    14,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "mexico",
+    14,
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
     "really",
@@ -321,9 +326,9 @@
     "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt"
   ],
   [
-    "expected",
+    "politics",
     14,
-    "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei"
+    "https://www.theguardian.com/technology/2026/jul/04/elon-musk-uk-race-immigration-spacex-ipo"
   ],
   [
     "cooker",
@@ -331,37 +336,12 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "severe",
-    13,
-    "https://www.nytimes.com/2026/07/04/us/politics/national-mall-evacuated-storms.html"
-  ],
-  [
-    "mall",
-    13,
-    "https://www.nytimes.com/2026/07/04/us/politics/national-mall-evacuated-storms.html"
-  ],
-  [
-    "start",
-    13,
-    "https://www.nytimes.com/2026/07/04/us/politics/national-mall-evacuated-storms.html"
-  ],
-  [
     "fire",
     13,
     "https://www.nytimes.com/2026/07/04/nyregion/fire-brooklyn-bridge-fireworks.html"
   ],
   [
-    "lost",
-    13,
-    "https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html"
-  ],
-  [
-    "kelce",
-    13,
-    "https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-wedding-recap.html"
-  ],
-  [
-    "event",
+    "travis",
     13,
     "https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-wedding-recap.html"
   ],
@@ -371,8 +351,28 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "hotel",
+    "past",
     13,
-    "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "feel",
+    13,
+    "https://www.theguardian.com/environment/2026/jul/04/trump-national-parks"
+  ],
+  [
+    "far",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/05/how-cope-grief-guilt-death-husband-partner"
+  ],
+  [
+    "death",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/05/how-cope-grief-guilt-death-husband-partner"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jul/04/best-hiking-daypacks-tested-reviewed"
   ]
 ];
