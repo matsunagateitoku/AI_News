@@ -2,53 +2,53 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    118,
+    109,
     "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html"
   ],
   [
     "cup",
-    63,
+    66,
     "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html"
-  ],
-  [
-    "president",
-    61,
-    "https://www.nytimes.com/2026/07/06/world/middleeast/nato-summit-turkey-erdogan-trump.html"
   ],
   [
     "fifa",
-    58,
-    "https://www.nytimes.com/2026/07/05/us/politics/trump-fifa-balogun-world-cup.html"
+    63,
+    "https://www.theguardian.com/us-news/2026/jul/06/seattle-business-world-cup"
+  ],
+  [
+    "president",
+    62,
+    "https://www.nytimes.com/2026/07/06/world/middleeast/nato-summit-turkey-erdogan-trump.html"
   ],
   [
     "red",
-    44,
-    "https://www.nytimes.com/2026/07/05/us/politics/trump-fifa-balogun-world-cup.html"
-  ],
-  [
-    "balogun",
-    38,
-    "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html"
+    48,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
     "card",
-    37,
-    "https://www.nytimes.com/2026/07/05/us/politics/trump-fifa-balogun-world-cup.html"
+    44,
+    "https://www.theguardian.com/football/2026/jul/06/trump-fifa-balogun-red-card-review-intervention"
+  ],
+  [
+    "balogun",
+    39,
+    "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html"
   ],
   [
     "folarin",
-    32,
-    "https://www.nytimes.com/2026/07/05/us/politics/trump-fifa-balogun-world-cup.html"
+    37,
+    "https://www.theguardian.com/football/2026/jul/06/trump-fifa-balogun-red-card-review-intervention"
   ],
   [
-    "game",
+    "american",
     29,
-    "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html"
+    "https://www.nytimes.com/2026/07/06/business/george-e-johnson-dead.html"
   ],
   [
-    "suspension",
+    "star",
     28,
-    "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html"
+    "https://www.theguardian.com/film/2026/jul/06/why-the-post-is-my-feelgood-movie"
   ],
   [
     "rice",
@@ -56,239 +56,249 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "review",
-    25,
-    "https://www.nytimes.com/2026/07/05/us/politics/trump-fifa-balogun-world-cup.html"
-  ],
-  [
-    "air",
-    25,
-    "https://www.nytimes.com/2026/07/06/world/europe/ukraine-russia-patriot-air-defense.html"
-  ],
-  [
-    "england",
-    25,
-    "https://www.nytimes.com/2026/07/06/world/europe/england-mexico-world-cup-london.html"
-  ],
-  [
-    "decision",
-    24,
+    "suspension",
+    26,
     "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html"
   ],
   [
-    "team",
+    "game",
+    25,
+    "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html"
+  ],
+  [
+    "senate",
     24,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/07/06/us/politics/michigan-primary-democrats-stevens-el-sayed.html"
+  ],
+  [
+    "air",
+    24,
+    "https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html"
+  ],
+  [
+    "review",
+    24,
+    "https://www.nytimes.com/2026/07/06/arts/music/madonna-confessions-ii-album-review.html"
   ],
   [
     "mexico",
     23,
-    "https://www.nytimes.com/2026/07/06/world/europe/england-mexico-world-cup-london.html"
-  ],
-  [
-    "court",
-    23,
-    "https://www.theguardian.com/world/2026/jul/06/italy-ordered-compensate-woman-rape-allegations-echr"
-  ],
-  [
-    "fourth",
-    22,
-    "https://www.washingtonpost.com/nation/2026/07/05/july-fourth-extravaganza-los-angeles-celebrated-americas-diversity/"
-  ],
-  [
-    "donald",
-    22,
-    "https://www.washingtonpost.com/nation/2026/07/04/celebrations-americas-250th-begin-amid-heat-political-division/"
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
     "match",
+    23,
+    "https://www.theguardian.com/us-news/2026/jul/06/seattle-business-world-cup"
+  ],
+  [
+    "belgium",
+    23,
+    "https://www.theguardian.com/us-news/2026/jul/06/seattle-business-world-cup"
+  ],
+  [
+    "decision",
     22,
-    "https://www.theguardian.com/football/2026/jul/06/donald-trump-folarin-balogun-world-cup-usmnt-intervention"
+    "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html"
   ],
   [
-    "star",
-    22,
-    "https://www.theguardian.com/film/2026/jul/06/why-the-post-is-my-feelgood-movie"
-  ],
-  [
-    "supreme",
+    "donald",
     21,
-    "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html"
-  ],
-  [
-    "california",
-    21,
-    "https://www.nytimes.com/2026/07/06/opinion/university-california-sat-testing-admissions.html"
-  ],
-  [
-    "american",
-    21,
-    "https://www.nytimes.com/2026/07/06/opinion/jewish-america-identity.html"
-  ],
-  [
-    "summer",
-    20,
-    "https://www.theguardian.com/world/2026/jul/06/wildfires-southern-europe-evacuations-tour-de-france-portugal-spain-greece-heatwave"
-  ],
-  [
-    "fans",
-    19,
-    "https://www.nytimes.com/2026/07/06/world/europe/england-mexico-world-cup-london.html"
-  ],
-  [
-    "office",
-    19,
-    "https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html"
-  ],
-  [
-    "place",
-    19,
-    "https://www.theguardian.com/football/2026/jul/06/donald-trump-folarin-balogun-world-cup-usmnt-intervention"
+    "https://www.washingtonpost.com/nation/2026/07/06/donald-trump-jr-joined-charlie-kirks-family-key-court-hearing/"
   ],
   [
     "soccer",
-    19,
+    21,
     "https://www.theguardian.com/us-news/2026/jul/06/seattle-business-world-cup"
+  ],
+  [
+    "york",
+    20,
+    "https://www.nytimes.com/2026/07/05/weather/new-york-city-rain-forecast.html"
+  ],
+  [
+    "country",
+    20,
+    "https://www.washingtonpost.com/nation/interactive/2026/07/03/fireworks-parades-celebrations-photos-around-country/"
+  ],
+  [
+    "fourth",
+    20,
+    "https://www.washingtonpost.com/nation/2026/07/05/july-fourth-extravaganza-los-angeles-celebrated-americas-diversity/"
+  ],
+  [
+    "platner",
+    20,
+    "https://www.theguardian.com/us-news/2026/jul/06/graham-platner-assault-allegation"
+  ],
+  [
+    "los",
+    19,
+    "https://www.washingtonpost.com/nation/2026/07/05/july-fourth-extravaganza-los-angeles-celebrated-americas-diversity/"
+  ],
+  [
+    "team",
+    19,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "england",
+    19,
+    "https://www.theguardian.com/football/live/2026/jul/06/portugal-v-spain-world-cup-2026-last-16-live"
+  ],
+  [
+    "infantino",
+    19,
+    "https://www.theguardian.com/football/2026/jul/06/trump-fifa-balogun-red-card-review-intervention"
+  ],
+  [
+    "ahead",
+    19,
+    "https://www.theguardian.com/sport/2026/jul/06/pogacar-rises-above-wildfire-restrictions-to-take-yellow-jersey-in-deserted-les-angles"
+  ],
+  [
+    "film",
+    18,
+    "https://www.theguardian.com/us-news/2026/jul/06/no-country-for-mothers-film"
   ],
   [
     "children",
     18,
-    "https://www.nytimes.com/2026/07/06/science/autism-assisted-spelling-nonspeaking.html"
+    "https://www.theguardian.com/us-news/2026/jul/06/trump-accounts-trading-day-new-york-stock-exchange"
   ],
   [
-    "political",
+    "play",
     18,
-    "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html"
+    "https://www.theguardian.com/us-news/video/2026/jul/06/im-the-one-who-got-them-to-do-it-donald-trump-says-he-was-behind-fifa-red-card-u-turn-video"
   ],
   [
-    "york",
-    18,
-    "https://www.theguardian.com/us-news/2026/jul/06/trump-denies-delay-e-jean-carroll-judgment-payment"
+    "family",
+    17,
+    "https://www.washingtonpost.com/nation/2026/07/06/donald-trump-jr-joined-charlie-kirks-family-key-court-hearing/"
   ],
   [
-    "belgium",
-    18,
-    "https://www.theguardian.com/us-news/2026/jul/06/seattle-business-world-cup"
+    "court",
+    17,
+    "https://www.washingtonpost.com/nation/2026/07/06/donald-trump-jr-joined-charlie-kirks-family-key-court-hearing/"
+  ],
+  [
+    "place",
+    17,
+    "https://www.theguardian.com/football/2026/jul/06/trump-fifa-balogun-red-card-review-intervention"
   ],
   [
     "love",
-    18,
+    17,
     "https://www.theguardian.com/lifeandstyle/2026/jul/06/the-pet-ill-never-forget-popcorn-the-hamster-who-calmed-me-when-nothing-else-could"
-  ],
-  [
-    "little",
-    17,
-    "https://www.nytimes.com/2026/07/05/us/politics/mcmorrow-senate-suspend-campaign-democrats-michigan.html"
-  ],
-  [
-    "country",
-    17,
-    "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html"
   ],
   [
     "win",
     17,
-    "https://www.theguardian.com/us-news/2026/jul/05/mallory-mcmorrow-drops-out-senate-race-michigan"
-  ],
-  [
-    "something",
-    17,
-    "https://www.theguardian.com/wellness/2026/jul/06/how-to-start-volunteering"
-  ],
-  [
-    "car",
-    17,
-    "https://www.theguardian.com/sport/live/2026/jul/06/tour-de-france-stage-three-goes-ahead-without-fans-amid-wildfire-threat-live"
-  ],
-  [
-    "play",
-    16,
-    "https://www.nytimes.com/2026/07/05/us/politics/trump-fifa-balogun-world-cup.html"
+    "https://www.theguardian.com/football/2026/jul/06/belgium-look-for-a-new-beginning-against-usa"
   ],
   [
     "war",
     16,
-    "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html"
+    "https://www.nytimes.com/2026/07/06/world/middleeast/iran-khamenei-funeral.html"
   ],
   [
-    "los",
+    "america",
     16,
-    "https://www.washingtonpost.com/nation/2026/07/05/july-fourth-extravaganza-los-angeles-celebrated-americas-diversity/"
-  ],
-  [
-    "space",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/jul/06/king-charles-traitor-britain-religious-right-defender-of-all-faiths"
+    "https://www.washingtonpost.com/nation/2026/07/05/how-middle-aged-divorced-people-go-about-making-friends/"
   ],
   [
     "attack",
+    16,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "something",
+    16,
+    "https://www.theguardian.com/wellness/2026/jul/06/how-to-start-volunteering"
+  ],
+  [
+    "nato",
     15,
-    "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html"
+    "https://www.nytimes.com/2026/07/06/world/middleeast/nato-summit-turkey-erdogan-trump.html"
+  ],
+  [
+    "power",
+    15,
+    "https://www.nytimes.com/2026/07/06/world/canada/carney-submariness-canada-military.html"
   ],
   [
     "killed",
     15,
-    "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html"
-  ],
-  [
-    "funeral",
-    15,
-    "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html"
-  ],
-  [
-    "family",
-    15,
-    "https://www.theguardian.com/uk-news/2026/jul/06/buckingham-palace-denies-prince-harry-to-stay-royal-residence-uk-visit-row-duke-of-sussex"
-  ],
-  [
-    "iran",
-    14,
-    "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html"
-  ],
-  [
-    "because",
-    14,
-    "https://www.nytimes.com/2026/07/06/us/research-universities-fewer-phds-science.html"
-  ],
-  [
-    "company",
-    14,
-    "https://www.nytimes.com/2026/07/06/business/bath-body-works-fragrance-factory.html"
-  ],
-  [
-    "america",
-    14,
-    "https://www.washingtonpost.com/nation/2026/07/05/how-middle-aged-divorced-people-go-about-making-friends/"
+    "https://www.nytimes.com/2026/07/06/nyregion/ice-email-lawsuit.html"
   ],
   [
     "everything",
-    14,
+    15,
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
     "early",
+    15,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "fans",
+    15,
+    "https://www.theguardian.com/football/2026/jul/06/erling-haaland-one-of-the-sickest-days-norway-history-beating-brazil-world-cup"
+  ],
+  [
+    "games",
+    15,
+    "https://www.theguardian.com/sport/live/2026/jul/06/wimbledon-2026-de-minaur-fery-and-keys-in-action-on-day-eight-live"
+  ],
+  [
+    "summer",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jul/06/im-having-a-tradwife-summer-but-id-rather-be-a-tradhusband"
+  ],
+  [
+    "china",
+    14,
+    "https://www.nytimes.com/2026/07/06/technology/ai-distillation-china.html"
+  ],
+  [
+    "iran",
+    14,
+    "https://www.nytimes.com/2026/07/06/world/middleeast/iran-khamenei-funeral.html"
+  ],
+  [
+    "thousands",
+    14,
+    "https://www.washingtonpost.com/nation/2026/07/05/july-fourth-extravaganza-los-angeles-celebrated-americas-diversity/"
+  ],
+  [
+    "start",
     14,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "film",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/06/no-country-for-mothers-film"
-  ],
-  [
-    "infantino",
+    "gianni",
     14,
     "https://www.theguardian.com/football/2026/jul/06/trump-fifa-balogun-red-card-review-intervention"
   ],
   [
-    "games",
+    "assault",
     14,
-    "https://www.theguardian.com/uk-news/2026/jul/06/buckingham-palace-denies-prince-harry-to-stay-royal-residence-uk-visit-row-duke-of-sussex"
+    "https://www.theguardian.com/us-news/2026/jul/06/graham-platner-assault-allegation"
   ],
   [
-    "travel",
+    "mother",
     14,
-    "https://www.theguardian.com/artanddesign/2026/jul/06/smithsonian-space-museum-exhibition"
+    "https://www.theguardian.com/us-news/2026/jul/06/idaho-woman-deaths-children"
+  ],
+  [
+    "little",
+    14,
+    "https://www.theguardian.com/world/2026/jul/06/venezuela-search-rescue-effort-volunteers-earthquake-victims-la-guaira"
+  ],
+  [
+    "players",
+    14,
+    "https://www.theguardian.com/football/2026/jul/06/brazil-players-shameful-defeat-norway-world-cup-carlo-ancelotti-embarrassing"
   ],
   [
     "cooker",
@@ -296,69 +306,64 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "balogun's",
-    14,
-    "https://www.latimes.com/sports/soccer/story/2026-07-06/will-folarin-balogun-play-belgium-protest-triggers-fifa-hearing"
-  ],
-  [
-    "con",
-    14,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/wonderwall-retumbo-en-el-azteca-asi-festejo-inglaterra-su-pase-a-cuartos-tras-eliminar-a-mexico-tmvo13200860"
-  ],
-  [
-    "inside",
+    "won",
     13,
-    "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html"
+    "https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html"
   ],
   [
-    "really",
+    "office",
     13,
-    "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html"
+    "https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html"
   ],
   [
-    "start",
+    "political",
     13,
-    "https://www.nytimes.com/2026/07/06/business/economy/gas-station-prices.html"
+    "https://www.washingtonpost.com/nation/2026/07/04/celebrations-americas-250th-begin-amid-heat-political-division/"
   ],
   [
-    "fireworks",
+    "portugal",
     13,
-    "https://www.washingtonpost.com/investigations/2026/07/06/see-how-bad-air-quality-dc-really-got-after-freedom-250-fireworks/"
+    "https://www.theguardian.com/football/live/2026/jul/06/portugal-v-spain-world-cup-2026-last-16-live"
   ],
   [
-    "gaza",
+    "actor",
     13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.theguardian.com/film/2026/jul/06/why-the-post-is-my-feelgood-movie"
   ],
   [
-    "feel",
+    "hand",
     13,
-    "https://www.theguardian.com/wellness/2026/jul/06/how-to-start-volunteering"
+    "https://www.theguardian.com/world/2026/jul/06/hamas-offers-hand-over-authority-gaza-us-backed-administration"
   ],
   [
-    "always",
+    "maine",
     13,
-    "https://www.theguardian.com/wellness/2026/jul/06/how-to-start-volunteering"
+    "https://www.theguardian.com/us-news/2026/jul/06/graham-platner-assault-allegation"
   ],
   [
-    "azteca",
+    "sexual",
     13,
-    "https://www.theguardian.com/football/2026/jul/06/england-azteca-mexico-world-cup"
+    "https://www.theguardian.com/us-news/2026/jul/06/graham-platner-assault-allegation"
   ],
   [
-    "son",
+    "supreme",
     13,
-    "https://www.theguardian.com/football/2026/jul/06/mikel-oyarzabal-spain-world-cup-2026-portugal"
+    "https://www.theguardian.com/world/2026/jul/06/iran-tehran-ali-khamenei-funeral-day-four"
   ],
   [
-    "heat",
+    "car",
     13,
-    "https://www.theguardian.com/sport/live/2026/jul/06/wimbledon-2026-de-minaur-fery-and-keys-in-action-on-day-eight-live"
+    "https://www.theguardian.com/sport/2026/jul/05/lewis-hamilton-ferrari-british-grand-prix-christian-horner-f1-formula-one"
   ],
   [
     "cbs",
     13,
     "https://www.theguardian.com/us-news/2026/jul/06/ncaa-charlie-baker-trans-athlete-rules-supreme-court-ruling"
+  ],
+  [
+    "again",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/06/the-guardian-view-on-atrocities-in-sudan-when-never-again-becomes-again-and-again"
   ],
   [
     "filter",
@@ -369,10 +374,5 @@
     "buying",
     13,
     "https://www.theguardian.com/thefilter-us/2026/jul/05/travel-long-flight-plane-essentials"
-  ],
-  [
-    "party",
-    12,
-    "https://www.nytimes.com/2026/07/06/us/politics/democrats-midterms-trump-mood-fighters.html"
   ]
 ];
