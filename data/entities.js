@@ -2,27 +2,27 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
+      "name": "Trump  National Guard",
+      "count": 62,
+      "url": "https://www.theguardian.com/us-news/2026/jul/06/memphis-national-guard-troops-shoot-man",
+      "source": "The Guardian"
+    },
+    {
       "name": "Fifa",
-      "count": 38,
+      "count": 56,
       "url": "https://www.nytimes.com/2026/07/05/us/politics/trump-fifa-balogun-world-cup.html",
       "source": "NY Times"
     },
     {
-      "name": "Target For Trump",
-      "count": 36,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Ai ‘",
+      "count": 15,
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/tilly-norwood-ai-actor-denounced-actors-union-star-feature-film-rcna353134",
+      "source": "NBC News"
     },
     {
       "name": "The White House",
-      "count": 14,
-      "url": "https://www.theguardian.com/film/2026/jul/06/why-the-post-is-my-feelgood-movie",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
       "count": 11,
-      "url": "https://www.theguardian.com/football/2026/jul/05/belgium-rudi-garcia-world-cup-usmnt-folarin-balogun",
+      "url": "https://www.theguardian.com/film/2026/jul/06/why-the-post-is-my-feelgood-movie",
       "source": "The Guardian"
     },
     {
@@ -32,66 +32,78 @@
       "source": "The Guardian"
     },
     {
-      "name": "Supreme Court",
-      "count": 10,
-      "url": "https://www.latimes.com/politics/story/2026-07-06/even-without-birthright-citizenship-supreme-court-co-signs-much-of-trumps-immigration-agenda",
+      "name": "The Folarin Balogun",
+      "count": 11,
+      "url": "https://www.foxnews.com/sports/banned-former-fifa-president-criticizes-organization-decision-folarin-balogun",
+      "source": "Fox News"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 9,
+      "url": "https://www.latimes.com/politics/story/2026-06-30/supreme-court-will-decide-gun-rights-challenge-to-blue-state-bans-on-assault-weapons",
       "source": "LA Times"
     },
     {
+      "name": "Nato",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/07/06/world/middleeast/nato-summit-turkey-erdogan-trump.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Un País Tan Increíble",
-      "count": 10,
+      "count": 8,
       "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/bellingham-mostro-todo-su-respeto-por-mexico-es-un-equipo-muy-fuerte-juega-con-mucho-corazon-tmvo13200849",
       "source": "NBC News"
     },
     {
-      "name": "Nato Summit",
-      "count": 9,
-      "url": "https://thehill.com/homenews/administration/5954306-trump-zelensky-al-sharaa-nato-summit/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Us Senate",
+      "name": "Cbs News'",
       "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/jul/05/mallory-mcmorrow-drops-out-senate-race-michigan",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Folarin Balogun",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
-      "source": "NY Times"
+      "url": "https://www.cbsnews.com/video/russia-slams-ukraines-capital-with-deadly-attack-ahead-of-nato-summit/",
+      "source": "CBS News"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 29,
+      "count": 42,
       "url": "https://www.washingtonpost.com/nation/2026/07/04/celebrations-americas-250th-begin-amid-heat-political-division/",
       "source": "Washington Post"
     },
     {
       "name": "Folarin Balogun",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Gran Actuación De Noruega",
-      "count": 10,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/la-pasion-y-el-color-la-aportaron-los-hinchas-de-noruega-brasil-inglaterra-y-mexico-tmvo13200811",
-      "source": "NBC News"
-    },
-    {
-      "name": "Harry Kane De Penal",
-      "count": 8,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/inglaterra-aguanta-con-diez-hombres-y-vence-a-mexico-y-se-cita-con-noruega-en-cuartos-de-final-tmvo13200807",
-      "source": "NBC News"
+      "count": 14,
+      "url": "https://www.theguardian.com/football/2026/jul/06/trump-fifa-balogun-red-card-review-intervention",
+      "source": "The Guardian"
     },
     {
       "name": "Ayatollah Ali Khamenei",
-      "count": 7,
+      "count": 10,
       "url": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Gianni Infantino",
+      "count": 8,
+      "url": "https://www.theguardian.com/football/2026/jul/06/trump-fifa-balogun-red-card-review-intervention",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Taylor Swift",
+      "count": 8,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/06/chalant-dating-taylor-swift-pass-notes",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Madonna",
+      "count": 8,
+      "url": "https://www.theguardian.com/music/2026/jul/02/madonna-confessions-ii-album-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Folarin Balogun'S",
+      "count": 8,
+      "url": "https://www.latimes.com/sports/soccer/story/2026-07-06/will-folarin-balogun-play-belgium-protest-triggers-fifa-hearing",
+      "source": "LA Times"
     },
     {
       "name": "David Sedaris",
@@ -100,121 +112,41 @@
       "source": "The Guardian"
     },
     {
-      "name": "Lewis Hamilton",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/jul/05/lewis-hamilton-ferrari-british-grand-prix-christian-horner-f1-formula-one",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Charlie Kirk",
-      "count": 6,
-      "url": "https://www.foxnews.com/us/accused-charlie-kirk-assassin-tyler-robinson-fights-back-against-states-evidence-more-top-headlines",
-      "source": "Fox News"
-    },
-    {
-      "name": "Eliminación De Brasil",
-      "count": 6,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/el-analisis-experto-es-para-la-sublime-actuacion-de-haaland-y-noruega-tmvo13200817",
+      "name": "Gran Actuación De Noruega",
+      "count": 7,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/la-pasion-y-el-color-la-aportaron-los-hinchas-de-noruega-brasil-inglaterra-y-mexico-tmvo13200811",
       "source": "NBC News"
     },
     {
-      "name": "Andy Burnham",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/jul/06/dont-mention-the-special-relationship-how-should-uks-next-pm-handle-donald-trump",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 52,
-      "url": "https://www.theguardian.com/us-news/2026/jul/06/dont-mention-the-special-relationship-how-should-uks-next-pm-handle-donald-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 27,
-      "url": "https://www.nytimes.com/2026/07/06/world/americas/earthquake-venezuela-haiti-us-aid.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Mexico City",
-      "count": 24,
-      "url": "https://www.theguardian.com/football/2026/jul/02/mexico-fans-last-16-tie-england-world-cup",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Belgium",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "America",
-      "count": 20,
-      "url": "https://www.washingtonpost.com/nation/2026/07/05/how-middle-aged-divorced-people-go-about-making-friends/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Uk",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/jul/06/dont-mention-the-special-relationship-how-should-uks-next-pm-handle-donald-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/07/06/opinion/university-california-sat-testing-admissions.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "England",
-      "count": 17,
-      "url": "https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. County",
-      "count": 15,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-05/la-county-heat-advisory-socal-forecast",
-      "source": "LA Times"
-    },
-    {
-      "name": "China",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/07/06/podcasts/the-headlines/huge-crowds-gather-for-ayatollahs-funeral-and-china-tests-long-range-ballistic-missile.html",
-      "source": "NY Times"
+      "name": "Harry Kane De Penal",
+      "count": 7,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/inglaterra-aguanta-con-diez-hombres-y-vence-a-mexico-y-se-cita-con-noruega-en-cuartos-de-final-tmvo13200807",
+      "source": "NBC News"
     }
   ],
   "EVENT": [
     {
       "name": "The Fifa World Cup",
-      "count": 46,
-      "url": "https://www.theguardian.com/world/video/2026/jul/04/mexicos-kidnapping-crisis-how-can-they-hold-a-world-cup-video",
-      "source": "The Guardian"
+      "count": 44,
+      "url": "https://www.npr.org/2026/07/06/g-s1-132097/up-first-newsletter-america-250-trump-democrats-iran-israel-world-cup-folarin-balogun",
+      "source": "NPR"
     },
     {
-      "name": "The World Cup Round",
-      "count": 9,
-      "url": "https://www.foxnews.com/outkick-sports/espn-writer-hates-team-usa-getting-folarin-balogun-back-says-any-world-cup-success-now-tainted",
+      "name": "The World Cup",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/07/05/us/politics/trump-fifa-balogun-world-cup.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Independence Day 2026",
+      "count": 3,
+      "url": "https://www.foxnews.com/outkick-culture/toby-keith-topped-most-streamed-songs-spotify-america-independence-day-2026",
       "source": "Fox News"
     },
     {
-      "name": "Wimbledon",
-      "count": 3,
-      "url": "https://www.theguardian.com/sport/2026/jul/05/osaka-inspired-win-over-sabalenka-wimbledon-2026-tennis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Independence Day",
-      "count": 3,
-      "url": "https://www.theguardian.com/film/2026/jul/03/independence-day-film-30th-anniversary",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The World Cup’S",
+      "name": "This World Cup",
       "count": 2,
-      "url": "https://www.theguardian.com/football/2026/jul/05/freddy-the-german-world-cup-2026",
+      "url": "https://www.theguardian.com/football/2026/jul/06/stutter-step-penalty-world-cup-pele-bruno-guimaraes-norway-analysis",
       "source": "The Guardian"
     },
     {
@@ -222,18 +154,6 @@
       "count": 2,
       "url": "https://www.theguardian.com/film/2026/jul/06/robert-richardson-the-white-devil-review-legendary-cinematographer-tarantino-scorsese-stone",
       "source": "The Guardian"
-    },
-    {
-      "name": "U.S. World Cup",
-      "count": 2,
-      "url": "https://www.cbsnews.com/video/folarin-balogun-will-play-in-us-world-cup-match-against-belgium-after-fifa-suspends-match-ban/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Revolutionary War",
-      "count": 2,
-      "url": "https://www.cbsnews.com/news/revolutionary-war-soldier-identified-john-doe-technology-camden/",
-      "source": "CBS News"
     },
     {
       "name": "The New Year'S Eve",
@@ -246,7 +166,87 @@
       "count": 1,
       "url": "https://www.theguardian.com/film/2026/jul/06/why-the-post-is-my-feelgood-movie",
       "source": "The Guardian"
+    },
+    {
+      "name": "Fantastic Day",
+      "count": 1,
+      "url": "https://www.theguardian.com/culture/2026/jul/06/haircut-100-fantastic-day-nick-heyward",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cup 2026",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cups",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/jul/06/brazil-world-cup-2026-norway-defeat",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-07-06T11:40:02Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 51,
+      "url": "https://www.theguardian.com/football/2026/jul/06/donald-trump-folarin-balogun-world-cup-usmnt-intervention",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 28,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "California",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/07/06/opinion/university-california-sat-testing-admissions.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Mexico City",
+      "count": 22,
+      "url": "https://www.theguardian.com/football/2026/jul/06/england-azteca-mexico-world-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "England",
+      "count": 21,
+      "url": "https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Belgium",
+      "count": 17,
+      "url": "https://www.theguardian.com/us-news/2026/jul/06/seattle-business-world-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "America",
+      "count": 15,
+      "url": "https://www.washingtonpost.com/nation/2026/07/05/how-middle-aged-divorced-people-go-about-making-friends/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "New York City ’S",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/jul/06/seaplane-lands-new-york-city-east-river",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County",
+      "count": 12,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-05/la-county-heat-advisory-socal-forecast",
+      "source": "LA Times"
+    }
+  ],
+  "updated": "2026-07-06T16:24:44Z"
 };
