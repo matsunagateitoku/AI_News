@@ -2,73 +2,63 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    101,
-    "https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html"
-  ],
-  [
-    "cup",
-    71,
-    "https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html"
+    110,
+    "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html"
   ],
   [
     "president",
-    57,
-    "https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html"
+    61,
+    "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html"
+  ],
+  [
+    "cup",
+    59,
+    "https://www.theguardian.com/commentisfree/2026/jul/07/trump-belgium-cheating-world-cup-usmnt-folarin-balogun"
   ],
   [
     "platner",
-    52,
-    "https://www.nytimes.com/2026/07/06/us/politics/graham-platner-maine-assault.html"
-  ],
-  [
-    "red",
-    38,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "fifa",
-    36,
-    "https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html"
+    44,
+    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate.html"
   ],
   [
     "senate",
-    33,
-    "https://www.nytimes.com/2026/07/06/us/politics/graham-platner-maine-assault.html"
-  ],
-  [
-    "air",
-    33,
-    "https://www.washingtonpost.com/investigations/2026/07/06/see-how-bad-air-quality-dc-really-got-after-freedom-250-fireworks/"
+    37,
+    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate.html"
   ],
   [
     "team",
-    32,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    36,
+    "https://www.nytimes.com/2026/07/07/nyregion/gotham-fc-etihad-park-queens.html"
+  ],
+  [
+    "red",
+    31,
+    "https://www.nytimes.com/2026/07/07/nyregion/gotham-fc-etihad-park-queens.html"
+  ],
+  [
+    "court",
+    30,
+    "https://www.washingtonpost.com/nation/2026/07/06/donald-trump-jr-joined-charlie-kirks-family-key-court-hearing/"
   ],
   [
     "belgium",
-    32,
-    "https://www.theguardian.com/us-news/2026/jul/06/seattle-business-world-cup"
+    30,
+    "https://www.theguardian.com/commentisfree/2026/jul/07/trump-belgium-cheating-world-cup-usmnt-folarin-balogun"
   ],
   [
-    "maine",
-    29,
-    "https://www.nytimes.com/2026/07/06/us/politics/graham-platner-maine-assault.html"
-  ],
-  [
-    "balogun",
+    "york",
     28,
-    "https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html"
+    "https://www.nytimes.com/article/nyc-best-burgers.html"
   ],
   [
-    "match",
+    "fifa",
     28,
-    "https://www.theguardian.com/us-news/2026/jul/06/seattle-business-world-cup"
+    "https://www.theguardian.com/commentisfree/2026/jul/07/trump-belgium-cheating-world-cup-usmnt-folarin-balogun"
   ],
   [
-    "los",
+    "air",
     27,
-    "https://www.washingtonpost.com/nation/2026/07/05/july-fourth-extravaganza-los-angeles-celebrated-americas-diversity/"
+    "https://www.washingtonpost.com/investigations/2026/07/06/see-how-bad-air-quality-dc-really-got-after-freedom-250-fireworks/"
   ],
   [
     "rice",
@@ -76,254 +66,289 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
+    "game",
+    26,
+    "https://www.theguardian.com/games/2026/jul/07/how-runescape-survived-to-25"
+  ],
+  [
     "graham",
-    26,
-    "https://www.nytimes.com/2026/07/06/us/politics/graham-platner-maine-assault.html"
-  ],
-  [
-    "court",
-    26,
-    "https://www.nytimes.com/2026/07/06/us/charlie-kirk-hearing.html"
-  ],
-  [
-    "card",
-    26,
-    "https://www.theguardian.com/commentisfree/2026/jul/06/trump-world-cup-intervention"
-  ],
-  [
-    "war",
     24,
-    "https://www.nytimes.com/2026/07/06/business/china-europe-nuctech.html"
-  ],
-  [
-    "york",
-    24,
-    "https://www.nytimes.com/2026/07/06/nyregion/new-jersey-nyc-heat-deaths.html"
+    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate.html"
   ],
   [
     "american",
-    23,
+    24,
     "https://www.nytimes.com/2026/07/06/us/politics/trump-smithsonian-ideological-fight.html"
   ],
   [
-    "democratic",
-    22,
-    "https://www.nytimes.com/2026/07/06/us/politics/graham-platner-maine-assault.html"
-  ],
-  [
     "mexico",
-    22,
+    24,
     "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "game",
+    "democratic",
+    23,
+    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate.html"
+  ],
+  [
+    "maine",
+    23,
+    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate.html"
+  ],
+  [
+    "war",
+    23,
+    "https://www.nytimes.com/2026/07/07/world/europe/estonia-won-the-war-on-fentanyl-what-came-next-was-even-worse.html"
+  ],
+  [
+    "balogun",
+    23,
+    "https://www.theguardian.com/commentisfree/2026/jul/07/trump-belgium-cheating-world-cup-usmnt-folarin-balogun"
+  ],
+  [
+    "los",
     22,
-    "https://www.theguardian.com/commentisfree/2026/jul/06/trump-world-cup-intervention"
+    "https://www.theguardian.com/us-news/2026/jul/06/shootings-fourth-of-july-weekend"
   ],
   [
-    "assault",
+    "something",
     21,
-    "https://www.nytimes.com/2026/07/06/us/politics/graham-platner-maine-assault.html"
+    "https://www.nytimes.com/2026/07/06/us/politics/jenny-racicot-cnn-interview-graham-platner.html"
   ],
   [
-    "star",
+    "nato",
     21,
-    "https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html"
+    "https://www.nytimes.com/2026/07/07/podcasts/the-headlines/what-to-watch-at-the-nato-summit-and-platners-allies-rescind-endorsements.html"
+  ],
+  [
+    "heat",
+    21,
+    "https://www.nytimes.com/2026/07/06/nyregion/new-jersey-nyc-heat-deaths.html"
   ],
   [
     "donald",
     21,
-    "https://www.nytimes.com/2026/07/06/us/charlie-kirk-hearing.html"
+    "https://www.washingtonpost.com/nation/2026/07/07/trumps-big-beautiful-bill-has-cutfood-assistance-millions-americans/"
+  ],
+  [
+    "country",
+    21,
+    "https://www.washingtonpost.com/nation/interactive/2026/07/03/fireworks-parades-celebrations-photos-around-country/"
   ],
   [
     "children",
     21,
-    "https://www.theguardian.com/commentisfree/2026/jul/06/trump-world-cup-intervention"
+    "https://www.theguardian.com/environment/2026/jul/07/big-oil-companies-profiting-fossil-fuel-global-climate-change"
   ],
   [
-    "sexual",
-    20,
-    "https://www.nytimes.com/2026/07/06/us/politics/graham-platner-maine-assault.html"
-  ],
-  [
-    "heat",
-    20,
-    "https://www.nytimes.com/2026/07/06/nyregion/new-jersey-nyc-heat-deaths.html"
-  ],
-  [
-    "decision",
-    20,
-    "https://www.theguardian.com/football/2026/jul/07/cristiano-ronaldo-portugal-roberto-martinez-world-cup-2026-spain"
-  ],
-  [
-    "soccer",
-    19,
-    "https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html"
-  ],
-  [
-    "play",
-    19,
-    "https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html"
-  ],
-  [
-    "folarin",
-    19,
-    "https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html"
-  ],
-  [
-    "nato",
-    19,
-    "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html"
-  ],
-  [
-    "country",
-    19,
-    "https://www.washingtonpost.com/nation/interactive/2026/07/03/fireworks-parades-celebrations-photos-around-country/"
-  ],
-  [
-    "candidate",
-    18,
-    "https://www.nytimes.com/2026/07/06/us/politics/graham-platner-maine-assault.html"
-  ],
-  [
-    "something",
-    18,
-    "https://www.nytimes.com/2026/07/06/us/politics/jenny-racicot-cnn-interview-graham-platner.html"
-  ],
-  [
-    "love",
-    18,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/06/chalant-dating-taylor-swift-pass-notes"
-  ],
-  [
-    "power",
-    17,
-    "https://www.nytimes.com/2026/07/06/world/canada/carney-submariness-canada-military.html"
+    "match",
+    21,
+    "https://www.theguardian.com/us-news/2026/jul/06/seattle-business-world-cup"
   ],
   [
     "review",
-    17,
-    "https://www.nytimes.com/2026/07/06/arts/music/madonna-confessions-ii-album-review.html"
+    20,
+    "https://www.theguardian.com/music/2026/jul/07/madonna-nostalgia-confessions-ii"
   ],
   [
-    "fourth",
-    17,
-    "https://www.washingtonpost.com/nation/2026/07/05/july-fourth-extravaganza-los-angeles-celebrated-americas-diversity/"
+    "democrats",
+    19,
+    "https://www.nytimes.com/2026/07/06/us/politics/who-would-replace-graham-platner-maine.html"
   ],
   [
-    "film",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/06/no-country-for-mothers-film"
-  ],
-  [
-    "ukraine",
-    17,
-    "https://www.theguardian.com/world/2026/jul/07/russia-cities-feel-pinch-amid-worsening-fuel-shortages"
-  ],
-  [
-    "england",
-    17,
-    "https://www.theguardian.com/football/2026/jul/06/mexico-world-cup-exit-england-reaction-fans"
+    "supreme",
+    19,
+    "https://www.theguardian.com/world/2026/jul/06/iran-tehran-ali-khamenei-funeral-day-four"
   ],
   [
     "fans",
-    17,
+    19,
     "https://www.theguardian.com/sport/2026/jul/06/pogacar-rises-above-wildfire-restrictions-to-take-yellow-jersey-in-deserted-les-angles"
   ],
   [
-    "allegation",
-    16,
-    "https://www.nytimes.com/2026/07/06/us/politics/graham-platner-maine-assault.html"
+    "campaign",
+    18,
+    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate.html"
   ],
   [
-    "suspension",
-    16,
-    "https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html"
+    "office",
+    18,
+    "https://www.nytimes.com/2026/07/06/us/politics/mitch-mcconell-health-hospitalization.html"
   ],
   [
-    "charlie",
-    16,
-    "https://www.nytimes.com/2026/07/06/us/charlie-kirk-hearing.html"
+    "iran",
+    18,
+    "https://www.nytimes.com/2026/07/07/world/middleeast/iran-khamenei-qom-funeral.html"
   ],
   [
-    "summer",
+    "card",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/jul/07/trump-belgium-cheating-world-cup-usmnt-folarin-balogun"
+  ],
+  [
+    "star",
+    18,
+    "https://www.theguardian.com/football/2026/jul/06/usa-belgium-world-cup-2026-match-report"
+  ],
+  [
+    "england",
+    18,
+    "https://www.theguardian.com/uk-news/2026/jul/07/us-airman-accused-of-exposing-himself-to-16-year-old-girl-court-martial"
+  ],
+  [
+    "decision",
+    18,
+    "https://www.theguardian.com/world/2026/jul/07/marine-le-pen-political-future-waits-electoral-ban-upheld"
+  ],
+  [
+    "summit",
+    17,
+    "https://www.nytimes.com/2026/07/07/podcasts/the-headlines/what-to-watch-at-the-nato-summit-and-platners-allies-rescind-endorsements.html"
+  ],
+  [
+    "soccer",
+    17,
+    "https://www.nytimes.com/2026/07/07/nyregion/gotham-fc-etihad-park-queens.html"
+  ],
+  [
+    "americans",
+    17,
+    "https://www.nytimes.com/2026/07/07/well/americans-taking-weight-loss-drugs.html"
+  ],
+  [
+    "folarin",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/jul/07/trump-belgium-cheating-world-cup-usmnt-folarin-balogun"
+  ],
+  [
+    "california",
+    17,
+    "https://www.theguardian.com/us-news/2026/jul/07/california-hawaii-solo-rower-journey"
+  ],
+  [
+    "assault",
     16,
-    "https://www.nytimes.com/2026/07/06/us/politics/walmart-price-cuts-beef-trump.html"
+    "https://www.nytimes.com/2026/07/06/us/politics/jenny-racicot-cnn-interview-graham-platner.html"
+  ],
+  [
+    "won",
+    16,
+    "https://www.nytimes.com/2026/07/06/us/politics/mitch-mcconell-health-hospitalization.html"
   ],
   [
     "family",
     16,
-    "https://www.washingtonpost.com/nation/2026/07/06/donald-trump-jr-joined-charlie-kirks-family-key-court-hearing/"
+    "https://www.nytimes.com/2026/07/07/world/americas/cuba-power-crisis-oil-blockade.html"
   ],
   [
-    "won",
-    15,
-    "https://www.nytimes.com/2026/07/06/us/politics/mitch-mcconell-health-hospitalization.html"
-  ],
-  [
-    "again",
-    15,
-    "https://www.nytimes.com/2026/07/06/us/politics/uspstf-meeting-rfk-jr.html"
-  ],
-  [
-    "attack",
-    15,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "campaign",
-    15,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "following",
-    15,
-    "https://www.theguardian.com/global-development/2026/jul/07/dowry-murders-in-india-no-longer-spark-public-anger-or-debate-study-finds"
-  ],
-  [
-    "car",
-    15,
-    "https://www.theguardian.com/sport/2026/jul/06/silverstone-anticlimax-f1-safety-car"
-  ],
-  [
-    "games",
-    15,
-    "https://www.theguardian.com/games/2026/jul/03/paralives-life-simulator-game-the-sims"
-  ],
-  [
-    "que",
-    15,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/mauricio-pochettino-nunca-seguimos-el-ritmo-del-partido-incluso-cuando-marcamos-tmvo13201209"
-  ],
-  [
-    "start",
-    14,
-    "https://www.nytimes.com/2026/07/06/business/china-europe-nuctech.html"
-  ],
-  [
-    "france",
-    14,
-    "https://www.nytimes.com/2026/07/06/climate/dead-chickens-heat-wave-france.html"
+    "fourth",
+    16,
+    "https://www.nytimes.com/2026/07/07/arts/television/kimmel-tiffany-haddish-trump.html"
   ],
   [
     "loss",
-    14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "mother",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/06/idaho-woman-deaths-children"
-  ],
-  [
-    "killed",
-    14,
-    "https://www.theguardian.com/global-development/2026/jul/07/dowry-murders-in-india-no-longer-spark-public-anger-or-debate-study-finds"
+    16,
+    "https://www.nytimes.com/2026/07/07/well/americans-taking-weight-loss-drugs.html"
   ],
   [
     "win",
-    14,
+    16,
     "https://www.theguardian.com/football/2026/jul/07/cristiano-ronaldo-portugal-roberto-martinez-world-cup-2026-spain"
+  ],
+  [
+    "leader",
+    15,
+    "https://www.nytimes.com/2026/07/06/us/politics/trump-smithsonian-ideological-fight.html"
+  ],
+  [
+    "states",
+    15,
+    "https://www.nytimes.com/2026/07/07/weather/hail-damage-cost.html"
+  ],
+  [
+    "gaza",
+    15,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "night",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jul/07/trump-belgium-cheating-world-cup-usmnt-folarin-balogun"
+  ],
+  [
+    "madonna",
+    15,
+    "https://www.theguardian.com/music/2026/jul/07/madonna-nostalgia-confessions-ii"
+  ],
+  [
+    "always",
+    15,
+    "https://www.theguardian.com/music/2026/jul/07/madonna-nostalgia-confessions-ii"
+  ],
+  [
+    "record",
+    15,
+    "https://www.theguardian.com/music/2026/jul/07/madonna-nostalgia-confessions-ii"
+  ],
+  [
+    "love",
+    15,
+    "https://www.theguardian.com/football/2026/jul/06/usa-belgium-world-cup-2026-match-report"
+  ],
+  [
+    "thousands",
+    15,
+    "https://www.theguardian.com/global-development/2026/jul/07/dowry-murders-in-india-no-longer-spark-public-anger-or-debate-study-finds"
+  ],
+  [
+    "don",
+    14,
+    "https://www.nytimes.com/2026/07/07/opinion/ezra-klein-podcast-may-pundak-rula-hardal.html"
+  ],
+  [
+    "really",
+    14,
+    "https://www.washingtonpost.com/investigations/2026/07/06/see-how-bad-air-quality-dc-really-got-after-freedom-250-fireworks/"
+  ],
+  [
+    "north",
+    14,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "candidate",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/06/graham-platner-assault-allegation"
+  ],
+  [
+    "players",
+    14,
+    "https://www.theguardian.com/games/2026/jul/07/how-runescape-survived-to-25"
+  ],
+  [
+    "sports",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/06/seattle-business-world-cup"
+  ],
+  [
+    "film",
+    14,
+    "https://www.theguardian.com/global-development/2026/jul/07/ethiopian-airlines-crash-et302-documentary-film-father-son-edkins-grief-justice"
+  ],
+  [
+    "hours",
+    14,
+    "https://www.theguardian.com/football/2026/jul/06/uefa-fifa-folarin-balogun-controversy-decision-usa-belgium-gianni-infantino-aleksander-ceferin"
+  ],
+  [
+    "power",
+    14,
+    "https://www.theguardian.com/world/2026/jul/06/hamas-offers-hand-over-authority-gaza-us-backed-administration"
+  ],
+  [
+    "games",
+    14,
+    "https://www.theguardian.com/games/2026/jul/03/paralives-life-simulator-game-the-sims"
   ],
   [
     "cooker",
@@ -331,48 +356,23 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "lgica",
+    "que",
     14,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/romelu-lukaku-se-une-a-la-fiesta-entra-y-firma-el-cuarto-para-sellar-la-goleada-de-belgica-tmvo13201143"
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/belgica-celebra-y-team-usa-asume-una-dura-eliminacion-tmvo13201219"
   ],
   [
-    "far",
+    "pressure",
     13,
-    "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html"
+    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate.html"
   ],
   [
-    "case",
+    "accused",
     13,
-    "https://www.washingtonpost.com/nation/2026/07/06/donald-trump-jr-joined-charlie-kirks-family-key-court-hearing/"
+    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate.html"
   ],
   [
-    "already",
+    "play",
     13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "everything",
-    13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "don",
-    13,
-    "https://www.theguardian.com/wellness/2026/jul/06/how-to-start-volunteering"
-  ],
-  [
-    "politico",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/06/graham-platner-assault-allegation"
-  ],
-  [
-    "usa",
-    13,
-    "https://www.theguardian.com/football/2026/jul/06/usa-belgium-world-cup-2026-match-report"
-  ],
-  [
-    "died",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/06/idaho-woman-deaths-children"
+    "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html"
   ]
 ];

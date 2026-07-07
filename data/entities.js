@@ -2,33 +2,33 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Tries To Take Credit For Walmart Price Cuts Of Beef And Other Products",
-      "count": 48,
-      "url": "https://www.nytimes.com/2026/07/06/us/politics/walmart-price-cuts-beef-trump.html",
-      "source": "NY Times"
+      "name": "Associated Press Trump",
+      "count": 57,
+      "url": "https://thehill.com/newsletters/energy-environment/5955828-trump-pardons-clean-air-act-violators/",
+      "source": "The Hill"
     },
     {
       "name": "Fifa",
-      "count": 34,
-      "url": "https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html",
-      "source": "NY Times"
+      "count": 25,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/07/trump-belgium-cheating-world-cup-usmnt-folarin-balogun",
+      "source": "The Guardian"
     },
     {
       "name": "Michigan Senate",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/07/06/us/politics/michigan-primary-democrats-stevens-el-sayed.html",
-      "source": "NY Times"
+      "count": 25,
+      "url": "https://www.cbsnews.com/news/democrats-haley-stevens-abdul-el-sayed-primary-debate-michigan-senate/",
+      "source": "CBS News"
     },
     {
-      "name": "Nato Partners For Its Expanded Submarine Fleet",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/07/06/world/canada/carney-submariness-canada-military.html",
+      "name": "Nato",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html",
       "source": "NY Times"
     },
     {
       "name": "Ai",
       "count": 15,
-      "url": "https://www.theguardian.com/football/2026/jul/05/a-footballing-deepfake-how-bruno-fernandes-fell-victim-to-an-unlicensed-betting-operator",
+      "url": "https://www.theguardian.com/books/2026/jul/07/we-are-not-machines-by-sarah-oconnor-review-can-dignity-at-work-survive-the-tech-revolution",
       "source": "The Guardian"
     },
     {
@@ -38,41 +38,41 @@
       "source": "The Guardian"
     },
     {
+      "name": "The Supreme Court",
+      "count": 11,
+      "url": "https://www.latimes.com/politics/story/2026-06-30/supreme-court-will-decide-gun-rights-challenge-to-blue-state-bans-on-assault-weapons",
+      "source": "LA Times"
+    },
+    {
+      "name": "Guardian",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/07/trump-belgium-cheating-world-cup-usmnt-folarin-balogun",
+      "source": "The Guardian"
+    },
+    {
       "name": "Maine Senate",
-      "count": 10,
+      "count": 8,
       "url": "https://www.theguardian.com/us-news/2026/jul/06/graham-platner-assault-allegation",
       "source": "The Guardian"
     },
     {
       "name": "Folarin Balogun",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/06/trump-world-cup-intervention",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/07/trump-belgium-cheating-world-cup-usmnt-folarin-balogun",
       "source": "The Guardian"
-    },
-    {
-      "name": "Politico",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/jul/06/graham-platner-assault-allegation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 9,
-      "url": "https://www.latimes.com/politics/story/2026-06-30/supreme-court-will-decide-gun-rights-challenge-to-blue-state-bans-on-assault-weapons",
-      "source": "LA Times"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 52,
+      "count": 43,
       "url": "https://www.cbsnews.com/news/us-mens-2026-world-cup-schedule/",
       "source": "CBS News"
     },
     {
-      "name": "The World Cup Quarter",
-      "count": 12,
-      "url": "https://www.theguardian.com/football/2026/jul/06/belgium-reaction-victory-usa-world-cup-red-card",
+      "name": "The World Cup",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/jul/06/seattle-business-world-cup",
       "source": "The Guardian"
     },
     {
@@ -80,12 +80,6 @@
       "count": 2,
       "url": "https://www.washingtonpost.com/investigations/2026/07/06/see-how-bad-air-quality-dc-really-got-after-freedom-250-fireworks/",
       "source": "Washington Post"
-    },
-    {
-      "name": "This World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/jul/06/uefa-fifa-folarin-balogun-controversy-decision-usa-belgium-gianni-infantino-aleksander-ceferin",
-      "source": "The Guardian"
     },
     {
       "name": "Wimbledon",
@@ -106,147 +100,153 @@
       "source": "NBC News"
     },
     {
+      "name": "The War On Fentanyl",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/07/07/world/europe/estonia-won-the-war-on-fentanyl-what-came-next-was-even-worse.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Civil War",
+      "count": 1,
+      "url": "https://www.theguardian.com/technology/2026/jul/07/stymied-datacentre-projects-threaten-global-ai-revolution",
+      "source": "The Guardian"
+    },
+    {
       "name": "Holocaust",
       "count": 1,
       "url": "https://www.theguardian.com/world/2026/jul/07/prosaic-dreams-anthology-europe-wolfram-lotz",
       "source": "The Guardian"
     },
     {
-      "name": "Fantastic Day",
+      "name": "This World Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/culture/2026/jul/06/haircut-100-fantastic-day-nick-heyward",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mid-Pacific",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "url": "https://www.theguardian.com/football/2026/jul/06/uefa-fifa-folarin-balogun-controversy-decision-usa-belgium-gianni-infantino-aleksander-ceferin",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 56,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/06/trump-administration-democracy-resistance",
+      "count": 65,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/07/trump-belgium-cheating-world-cup-usmnt-folarin-balogun",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
       "count": 35,
-      "url": "https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html",
+      "url": "https://www.nytimes.com/2026/07/07/world/americas/cuba-power-crisis-oil-blockade.html",
       "source": "NY Times"
     },
     {
-      "name": "Belgium",
-      "count": 32,
-      "url": "https://www.theguardian.com/us-news/2026/jul/06/seattle-business-world-cup",
+      "name": "Belgium 4",
+      "count": 30,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/07/trump-belgium-cheating-world-cup-usmnt-folarin-balogun",
       "source": "The Guardian"
     },
     {
       "name": "Mexico City’S",
-      "count": 19,
+      "count": 21,
       "url": "https://www.theguardian.com/football/2026/jul/06/mexico-world-cup-exit-england-reaction-fans",
       "source": "The Guardian"
     },
     {
-      "name": "Maine",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/07/06/us/politics/graham-platner-maine-assault.html",
+      "name": "Iran",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-khamenei-qom-funeral.html",
       "source": "NY Times"
     },
     {
-      "name": "Ukraine",
-      "count": 16,
-      "url": "https://www.theguardian.com/world/2026/jul/07/russia-cities-feel-pinch-amid-worsening-fuel-shortages",
+      "name": "New York City ’S",
+      "count": 17,
+      "url": "https://www.theguardian.com/us-news/2026/jul/06/seaplane-lands-new-york-city-east-river",
       "source": "The Guardian"
     },
     {
       "name": "England",
       "count": 16,
-      "url": "https://www.theguardian.com/football/2026/jul/06/mexico-world-cup-exit-england-reaction-fans",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/07/us-airman-accused-of-exposing-himself-to-16-year-old-girl-court-martial",
       "source": "The Guardian"
     },
     {
-      "name": "New York City ’S",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/jul/06/seaplane-lands-new-york-city-east-river",
+      "name": "California",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/jul/07/california-hawaii-solo-rower-journey",
       "source": "The Guardian"
+    },
+    {
+      "name": "Maine",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate.html",
+      "source": "NY Times"
     },
     {
       "name": "Seattle",
       "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/jul/06/seattle-business-world-cup",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. County",
-      "count": 12,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-05/la-county-heat-advisory-socal-forecast",
-      "source": "LA Times"
+      "url": "https://www.washingtonpost.com/nation/2026/07/07/trans-people-are-moving-seattle-unprecedented-levels-under-trump/",
+      "source": "Washington Post"
     }
   ],
   "PERSON": [
     {
-      "name": "Graham Platner",
-      "count": 27,
-      "url": "https://www.nytimes.com/2026/07/06/us/politics/graham-platner-maine-assault.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Graham Platner Disaster",
-      "count": 26,
+      "count": 24,
       "url": "https://www.nytimes.com/2026/07/06/opinion/graham-platner-rape-accusation.html",
       "source": "NY Times"
     },
     {
       "name": "Donald Trump Jr.",
       "count": 21,
-      "url": "https://www.nytimes.com/2026/07/06/us/charlie-kirk-hearing.html",
+      "url": "https://www.washingtonpost.com/nation/2026/07/06/donald-trump-jr-joined-charlie-kirks-family-key-court-hearing/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Graham Platner",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate.html",
       "source": "NY Times"
     },
     {
       "name": "Donald Trump",
       "count": 20,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/06/trump-administration-democracy-resistance",
-      "source": "The Guardian"
+      "url": "https://www.washingtonpost.com/nation/2026/07/07/trumps-big-beautiful-bill-has-cutfood-assistance-millions-americans/",
+      "source": "Washington Post"
     },
     {
-      "name": "Folarin Balogun",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/06/trump-world-cup-intervention",
+      "name": "Madonna",
+      "count": 15,
+      "url": "https://www.theguardian.com/music/2026/jul/07/madonna-nostalgia-confessions-ii",
       "source": "The Guardian"
-    },
-    {
-      "name": "Madonna Returns",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/07/06/arts/music/madonna-confessions-ii-album-review.html",
-      "source": "NY Times"
     },
     {
       "name": "Mitch Mcconnell",
-      "count": 7,
+      "count": 10,
       "url": "https://www.nytimes.com/2026/07/06/us/politics/mitch-mcconell-health-hospitalization.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Folarin Balogun",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/07/trump-belgium-cheating-world-cup-usmnt-folarin-balogun",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Confessions Ii",
+      "count": 7,
+      "url": "https://www.theguardian.com/music/2026/jul/07/madonna-nostalgia-confessions-ii",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mauricio Pochettino",
+      "count": 7,
+      "url": "https://www.theguardian.com/football/2026/jul/07/folarin-balogun-red-card-reversal-trump-usa-belgium-world-cup",
+      "source": "The Guardian"
     },
     {
       "name": "David Sedaris",
       "count": 7,
       "url": "https://www.theguardian.com/books/2026/jul/06/the-land-and-its-people-by-david-sedaris-review-crankiness-and-charm",
       "source": "The Guardian"
-    },
-    {
-      "name": "Lauren Bennett",
-      "count": 6,
-      "url": "https://www.theguardian.com/music/2026/jul/06/lauren-bennett-singer-dies",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kylian Mbappé",
-      "count": 6,
-      "url": "https://www.theguardian.com/football/2026/jul/06/a-despicable-women-kylian-mbappe-hits-out-at-paraguayan-senator-over-racist-attack",
-      "source": "The Guardian"
     }
   ],
-  "updated": "2026-07-07T04:56:49Z"
+  "updated": "2026-07-07T10:28:11Z"
 };
