@@ -2,21 +2,21 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Graham Platner Disaster",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/07/06/opinion/graham-platner-rape-accusation.html",
+      "name": "Graham Platner",
+      "count": 27,
+      "url": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-replacements-democrats.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Platner Supporters Struggle",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/07/07/us/maine-voters-platner.html",
       "source": "NY Times"
     },
     {
       "name": "Donald Trump Jr.",
-      "count": 17,
+      "count": 16,
       "url": "https://www.washingtonpost.com/nation/2026/07/06/donald-trump-jr-joined-charlie-kirks-family-key-court-hearing/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 17,
-      "url": "https://www.washingtonpost.com/nation/2026/07/07/trumps-big-beautiful-bill-has-cutfood-assistance-millions-americans/",
       "source": "Washington Post"
     },
     {
@@ -26,15 +26,21 @@
       "source": "The Guardian"
     },
     {
-      "name": "Graham Platner",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate.html",
+      "name": "Donald Trump",
+      "count": 14,
+      "url": "https://www.washingtonpost.com/nation/2026/07/07/trumps-big-beautiful-bill-has-cutfood-assistance-millions-americans/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Bernie Sanders",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-bernie-sanders-maine.html",
       "source": "NY Times"
     },
     {
-      "name": "Emmanuel Macron",
-      "count": 12,
-      "url": "https://www.theguardian.com/world/2026/jul/07/explosions-rock-damascus-near-hotel-where-french-president-was-staying",
+      "name": "Marshawn Kneeland",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/jul/07/marshawn-kneeland-death-cte",
       "source": "The Guardian"
     },
     {
@@ -44,22 +50,78 @@
       "source": "The Guardian"
     },
     {
-      "name": "Marine Le Pen’S",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Nigel Farage",
-      "count": 6,
-      "url": "https://www.theguardian.com/politics/2026/jul/07/nigel-farage-quits-as-mp-amid-scrunity-over-finances-clacton-reform",
-      "source": "The Guardian"
-    },
-    {
       "name": "Ben Kovar",
       "count": 6,
       "url": "https://www.theguardian.com/food/2026/jul/07/secret-to-great-cafetiere-coffee-kitchen-aide",
       "source": "The Guardian"
+    },
+    {
+      "name": "Mitch Mcconnell",
+      "count": 6,
+      "url": "https://www.foxnews.com/politics/mcconnells-wife-elaine-chao-saw-no-need-immediate-return-from-china-former-gop-leader-hospitalized",
+      "source": "Fox News"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Downplays Black Unemployment",
+      "count": 46,
+      "url": "https://www.nytimes.com/2026/07/07/us/politics/trump-black-voters-unemployment.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Maine Senate",
+      "count": 29,
+      "url": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-bernie-sanders-maine.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Nato",
+      "count": 16,
+      "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Fifa",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/07/07/us/politics/trump-world-cup-fifa.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian",
+      "count": 9,
+      "url": "https://www.theguardian.com/film/2026/jul/07/christopher-nolan-odyssey-critic-reactions-damon-pattinson-holland-hathaway",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-earnings-second-term-callout",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 7,
+      "url": "https://www.theguardian.com/books/2026/jul/07/we-are-not-machines-by-sarah-oconnor-review-can-dignity-at-work-survive-the-tech-revolution",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Un",
+      "count": 7,
+      "url": "https://www.foxnews.com/world/watch-mike-waltz-tells-cuban-delegation-this-not-havana-during-heated-un-speech",
+      "source": "Fox News"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 6,
+      "url": "https://www.latimes.com/business/story/2026-07-07/how-far-right-anti-transgender-campaign-led-to-supreme-court-ruling-undermining-equal-rights",
+      "source": "LA Times"
     }
   ],
   "EVENT": [
@@ -71,7 +133,7 @@
     },
     {
       "name": "The World Cup Quarter",
-      "count": 9,
+      "count": 7,
       "url": "https://www.theguardian.com/football/2026/jul/06/belgium-reaction-victory-usa-world-cup-red-card",
       "source": "The Guardian"
     },
@@ -94,159 +156,97 @@
       "source": "The Guardian"
     },
     {
+      "name": "Los Angeles Olympics",
+      "count": 2,
+      "url": "https://www.npr.org/2026/07/07/nx-s1-5884868/russia-olympics-ban-lifted-ioc-2028-los-angeles-games",
+      "source": "NPR"
+    },
+    {
       "name": "The New Year'S Eve",
       "count": 2,
       "url": "https://www.nbcnews.com/video/new-year-s-eve-ball-drops-in-times-square-for-america-s-250th-266164805781",
       "source": "NBC News"
     },
     {
+      "name": "The World Cup Stood",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/07/07/us/politics/trump-world-cup-fifa.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The American Soul",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/07/07/dining/las-vegas-buffets.html",
+      "source": "NY Times"
+    },
+    {
       "name": "The War On Fentanyl",
       "count": 1,
       "url": "https://www.nytimes.com/2026/07/07/world/europe/estonia-fentanyl-new-drugs.html",
       "source": "NY Times"
-    },
-    {
-      "name": "World Cups",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jul/07/usmnt-world-cup-belgium",
-      "source": "The Guardian"
-    },
-    {
-      "name": "World Cup 2026",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/live/2026/jul/07/world-cup-2026-usa-bounced-out-by-belgium-after-balogun-furore-backlash-against-fifa-builds-argentina-egypt-colombia-switzerlandlive",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Civil War",
-      "count": 1,
-      "url": "https://www.theguardian.com/technology/2026/jul/07/stymied-datacentre-projects-threaten-global-ai-revolution",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Promised A Foreign Investment Boom",
-      "count": 53,
-      "url": "https://www.nytimes.com/2026/07/07/business/economy/trump-foreign-investment.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Nato Summit",
-      "count": 28,
-      "url": "https://thehill.com/homenews/administration/5956322-live-updates-trump-nato-summit-platner-maine-senate/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Michigan Senate",
-      "count": 17,
-      "url": "https://thehill.com/homenews/campaign/5956679-michigan-democratic-senate-debate-el-sayed-stevens/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Fifa",
-      "count": 13,
-      "url": "https://www.theguardian.com/football/live/2026/jul/07/world-cup-2026-usa-bounced-out-by-belgium-after-balogun-furore-backlash-against-fifa-builds-argentina-egypt-colombia-switzerlandlive",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 13,
-      "url": "https://www.latimes.com/business/story/2026-07-07/how-far-right-anti-transgender-campaign-led-to-supreme-court-ruling-undermining-equal-rights",
-      "source": "LA Times"
-    },
-    {
-      "name": "Maine Senate Campaign",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Guardian",
-      "count": 11,
-      "url": "https://www.theguardian.com/film/2026/jul/07/christopher-nolan-odyssey-critic-reactions-damon-pattinson-holland-hathaway",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 8,
-      "url": "https://www.theguardian.com/technology/2026/jul/06/microsoft-cuts-jobs-xbox-overhaul-mass-layoffs",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-earnings-second-term-callout",
-      "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 69,
-      "url": "https://www.theguardian.com/football/2026/jul/07/usmnt-world-cup-belgium",
+      "count": 60,
+      "url": "https://www.theguardian.com/film/2026/jul/07/christopher-nolan-odyssey-critic-reactions-damon-pattinson-holland-hathaway",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 27,
-      "url": "https://www.nytimes.com/2026/07/07/business/economy/us-trade-deficit-may.html",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
       "source": "NY Times"
     },
     {
       "name": "Belgium",
-      "count": 25,
-      "url": "https://www.theguardian.com/football/2026/jul/07/usmnt-world-cup-belgium",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City",
       "count": 18,
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/07/graham-platner-democrats-senate-maine-trump-nato-us-politics-latest-news-updates",
+      "url": "https://www.theguardian.com/football/2026/jul/07/usmnt-world-cup-belgium",
       "source": "The Guardian"
     },
     {
       "name": "Mexico City",
-      "count": 18,
+      "count": 14,
       "url": "https://www.theguardian.com/football/2026/jul/02/mexico-fans-last-16-tie-england-world-cup",
       "source": "The Guardian"
     },
     {
-      "name": "Turkey",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html",
+      "name": "New York City",
+      "count": 13,
+      "url": "https://www.latimes.com/world-nation/story/la-timeless/when-three-presidents-died-on-fourth-of-july-americans-saw-work-of-god",
+      "source": "LA Times"
+    },
+    {
+      "name": "Maine",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-replacements-democrats.html",
       "source": "NY Times"
     },
     {
-      "name": "Uk",
-      "count": 14,
-      "url": "https://www.theguardian.com/politics/2026/jul/07/nigel-farage-quits-as-mp-amid-scrunity-over-finances-clacton-reform",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 13,
-      "url": "https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas",
-      "source": "The Guardian"
-    },
-    {
       "name": "California",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/jul/07/california-hawaii-solo-rower-journey",
-      "source": "The Guardian"
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/07/07/dining/driscolls-berries.html",
+      "source": "NY Times"
     },
     {
-      "name": "England",
+      "name": "L.A. County",
       "count": 12,
-      "url": "https://www.theguardian.com/football/2026/jul/07/usmnt-world-cup-belgium",
+      "url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
+      "source": "LA Times"
+    },
+    {
+      "name": "Uk",
+      "count": 11,
+      "url": "https://www.theguardian.com/thefilter-us/2026/jul/07/yeti-rambler-owala-freesip-water-bottle-reviews",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-07-07T15:45:03Z"
+  "updated": "2026-07-07T20:51:16Z"
 };
