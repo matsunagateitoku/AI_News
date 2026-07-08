@@ -2,53 +2,73 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    77,
-    "https://www.nytimes.com/2026/07/07/us/politics/trump-world-cup-fifa.html"
+    68,
+    "https://www.nytimes.com/2026/07/08/world/europe/trump-nato-summit.html"
+  ],
+  [
+    "platner",
+    58,
+    "https://www.nytimes.com/2026/07/07/briefing/democrats-platner-maine-us-iran-strikes.html"
   ],
   [
     "cup",
-    51,
+    52,
     "https://www.nytimes.com/2026/07/07/us/politics/trump-world-cup-fifa.html"
   ],
   [
     "president",
-    50,
-    "https://www.nytimes.com/2026/07/07/us/politics/trump-world-cup-fifa.html"
-  ],
-  [
-    "platner",
-    48,
-    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-replacements-democrats.html"
+    38,
+    "https://www.nytimes.com/2026/07/08/world/europe/trump-nato-summit.html"
   ],
   [
     "senate",
-    37,
-    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-replacements-democrats.html"
-  ],
-  [
-    "graham",
-    29,
-    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-replacements-democrats.html"
-  ],
-  [
-    "water",
-    29,
-    "https://www.theguardian.com/thefilter-us/2026/jul/07/yeti-rambler-owala-freesip-water-bottle-reviews"
-  ],
-  [
-    "court",
-    27,
-    "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html"
+    35,
+    "https://www.nytimes.com/2026/07/07/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate.html"
   ],
   [
     "maine",
-    24,
-    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-replacements-democrats.html"
+    34,
+    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate-democrats.html"
   ],
   [
-    "american",
+    "graham",
+    33,
+    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate-democrats.html"
+  ],
+  [
+    "race",
+    31,
+    "https://www.nytimes.com/2026/07/07/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate.html"
+  ],
+  [
+    "water",
+    30,
+    "https://www.theguardian.com/thefilter-us/2026/jul/07/yeti-rambler-owala-freesip-water-bottle-reviews"
+  ],
+  [
+    "iran",
+    29,
+    "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html"
+  ],
+  [
+    "team",
+    28,
+    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate-democrats.html"
+  ],
+  [
+    "court",
+    28,
+    "https://www.nytimes.com/2026/07/07/world/europe/le-pen-populists-vs-courts.html"
+  ],
+  [
+    "democrats",
     24,
-    "https://www.nytimes.com/2026/07/07/us/politics/trump-world-cup-fifa.html"
+    "https://www.nytimes.com/2026/07/07/briefing/democrats-platner-maine-us-iran-strikes.html"
+  ],
+  [
+    "campaign",
+    23,
+    "https://www.washingtonpost.com/politics/2026/07/07/ex-girlfriend-graham-platner-says-he-removed-condoms-without-consent/"
   ],
   [
     "air",
@@ -56,64 +76,69 @@
     "https://www.washingtonpost.com/investigations/2026/07/06/see-how-bad-air-quality-dc-really-got-after-freedom-250-fireworks/"
   ],
   [
-    "team",
+    "argentina",
     23,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "race",
-    22,
-    "https://www.nytimes.com/2026/07/07/us/maine-voters-platner.html"
-  ],
-  [
-    "red",
-    21,
-    "https://www.nytimes.com/2026/07/07/style/most-stylish-people-of-2026-so-far.html"
-  ],
-  [
-    "coffee",
-    21,
-    "https://www.theguardian.com/football/live/2026/jul/07/switzerland-v-colombia-world-cup-2026-last-16-live"
+    "https://www.theguardian.com/football/2026/jul/08/switzerland-colombia-world-cup-2026-last-16-match-report"
   ],
   [
     "los",
-    21,
+    22,
     "https://www.theguardian.com/sport/2026/jul/07/ioc-lifts-suspension-russia-compete-la-2028-olympics"
   ],
   [
-    "sexual",
+    "democratic",
+    21,
+    "https://www.nytimes.com/2026/07/07/opinion/democratic-socialist-liberal-progressive.html"
+  ],
+  [
+    "family",
     20,
-    "https://www.nytimes.com/2026/07/07/us/maine-voters-platner.html"
+    "https://www.washingtonpost.com/nation/2026/07/06/donald-trump-jr-joined-charlie-kirks-family-key-court-hearing/"
   ],
   [
-    "americans",
+    "country",
     20,
-    "https://www.nytimes.com/2026/07/07/us/politics/trump-black-voters-unemployment.html"
-  ],
-  [
-    "democrats",
-    19,
-    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-replacements-democrats.html"
-  ],
-  [
-    "iran",
-    19,
-    "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html"
-  ],
-  [
-    "belgium",
-    19,
-    "https://www.theguardian.com/football/2026/jul/07/usmnt-world-cup-belgium"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "war",
-    18,
-    "https://www.nytimes.com/2026/07/07/world/europe/estonia-fentanyl-new-drugs.html"
+    20,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "film",
+    "strikes",
+    19,
+    "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html"
+  ],
+  [
+    "nato",
+    19,
+    "https://www.nytimes.com/2026/07/08/world/europe/trump-nato-summit.html"
+  ],
+  [
+    "school",
+    19,
+    "https://www.nytimes.com/2026/07/07/us/yale-law-school-dean-trump-deal.html"
+  ],
+  [
+    "coffee",
+    19,
+    "https://www.theguardian.com/world/2026/jul/08/china-football-plenty-of-players-no-grassroots"
+  ],
+  [
+    "fans",
+    19,
+    "https://www.theguardian.com/sport/2026/jul/07/novak-djokovic-wins-felix-auger-aliassime-wimbledon-epic-tennis"
+  ],
+  [
+    "loss",
     18,
-    "https://www.theguardian.com/film/2026/jul/07/christopher-nolan-odyssey-critic-reactions-damon-pattinson-holland-hathaway"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "belgium",
+    18,
+    "https://www.theguardian.com/football/2026/jul/07/usmnt-world-cup-belgium"
   ],
   [
     "because",
@@ -121,49 +146,49 @@
     "https://www.theguardian.com/sport/2026/jul/07/ioc-lifts-suspension-russia-compete-la-2028-olympics"
   ],
   [
-    "fans",
-    18,
-    "https://www.theguardian.com/sport/2026/jul/06/silverstone-anticlimax-f1-safety-car"
+    "office",
+    17,
+    "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html"
   ],
   [
-    "allegation",
+    "york",
     17,
-    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-bernie-sanders-maine.html"
+    "https://www.washingtonpost.com/nation/2026/07/06/he-wrote-scathing-message-ice-federal-agents-showed-up-his-door/"
   ],
   [
-    "democratic",
+    "colombia",
     17,
-    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-bernie-sanders-maine.html"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+  ],
+  [
+    "night",
+    17,
+    "https://www.theguardian.com/film/2026/jul/07/christopher-nolan-odyssey-critic-reactions-damon-pattinson-holland-hathaway"
+  ],
+  [
+    "game",
+    17,
+    "https://www.theguardian.com/world/2026/jul/08/china-football-plenty-of-players-no-grassroots"
+  ],
+  [
+    "ukraine",
+    17,
+    "https://www.theguardian.com/sport/2026/jul/07/ioc-lifts-suspension-russia-compete-la-2028-olympics"
   ],
   [
     "oil",
-    17,
-    "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html"
-  ],
-  [
-    "donald",
-    17,
-    "https://www.washingtonpost.com/nation/2026/07/07/trumps-big-beautiful-bill-has-cutfood-assistance-millions-americans/"
-  ],
-  [
-    "family",
-    17,
-    "https://www.washingtonpost.com/nation/2026/07/06/donald-trump-jr-joined-charlie-kirks-family-key-court-hearing/"
-  ],
-  [
-    "country",
-    17,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "campaign",
     16,
-    "https://www.nytimes.com/2026/07/07/us/maine-voters-platner.html"
+    "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html"
   ],
   [
-    "assault",
+    "building",
     16,
-    "https://www.nytimes.com/2026/07/07/us/maine-voters-platner.html"
+    "https://www.nytimes.com/2026/07/07/travel/midtown-hotels-building-collapse.html"
+  ],
+  [
+    "american",
+    16,
+    "https://www.nytimes.com/2026/07/07/us/politics/trump-world-cup-fifa.html"
   ],
   [
     "health",
@@ -171,19 +196,9 @@
     "https://www.nytimes.com/2026/07/07/us/idaho-twins-death-shaw-vaccines-murder.html"
   ],
   [
-    "past",
+    "don",
     16,
-    "https://www.washingtonpost.com/investigations/2026/07/06/see-how-bad-air-quality-dc-really-got-after-freedom-250-fireworks/"
-  ],
-  [
-    "loss",
-    16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "nato",
-    16,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/07/08/world/europe/germany-budweiser-beer.html"
   ],
   [
     "filter",
@@ -191,24 +206,29 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/07/yeti-rambler-owala-freesip-water-bottle-reviews"
   ],
   [
-    "soccer",
+    "strait",
     16,
-    "https://www.theguardian.com/football/2026/jul/07/usmnt-world-cup-belgium"
+    "https://www.theguardian.com/world/live/2026/jul/07/us-military-strikes-iran-war-latest-news-updates"
   ],
   [
-    "little",
+    "hormuz",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/07/little-house-on-the-prairie-netflix-reboot-controversy"
+    "https://www.theguardian.com/world/live/2026/jul/07/us-military-strikes-iran-war-latest-news-updates"
   ],
   [
-    "died",
+    "sports",
     16,
-    "https://www.theguardian.com/sport/2026/jul/07/marshawn-kneeland-death-cte"
+    "https://www.theguardian.com/us-news/2026/jul/06/ncaa-charlie-baker-trans-athlete-rules-supreme-court-ruling"
   ],
   [
-    "que",
-    16,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/enzo-fernandez-anota-el-3-2-para-dar-la-vuelta-a-egipto-tmvo13201430"
+    "attacks",
+    15,
+    "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html"
+  ],
+  [
+    "far",
+    15,
+    "https://www.nytimes.com/2026/07/07/world/europe/le-pen-populists-vs-courts.html"
   ],
   [
     "fifa",
@@ -216,64 +236,49 @@
     "https://www.nytimes.com/2026/07/07/us/politics/trump-world-cup-fifa.html"
   ],
   [
-    "school",
+    "ice",
     15,
-    "https://www.nytimes.com/2026/07/07/us/yale-law-school-dean-trump-deal.html"
-  ],
-  [
-    "french",
-    15,
-    "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html"
-  ],
-  [
-    "far",
-    15,
-    "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html"
-  ],
-  [
-    "case",
-    15,
-    "https://www.nytimes.com/2026/07/07/us/charlie-kirk-assassination-conspiracy-theories.html"
-  ],
-  [
-    "states",
-    15,
-    "https://www.nytimes.com/2026/07/07/opinion/scott-bessent-trade-economy.html"
-  ],
-  [
-    "guide",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jul/07/yeti-rambler-owala-freesip-water-bottle-reviews"
-  ],
-  [
-    "following",
-    15,
-    "https://www.theguardian.com/film/2026/jul/07/christopher-nolan-odyssey-critic-reactions-damon-pattinson-holland-hathaway"
-  ],
-  [
-    "something",
-    15,
-    "https://www.theguardian.com/football/2026/jul/07/usmnt-world-cup-belgium"
-  ],
-  [
-    "star",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/07/mariska-hargitay-78th-primetime-emmy-awards-host"
+    "https://www.nytimes.com/2026/07/07/us/immigration-ice-shooting-houston.html"
   ],
   [
     "love",
     15,
-    "https://www.theguardian.com/film/2026/jul/07/the-invite-polyamory-non-monogamy-seth-rogen-penelope-cruz-olivia-wilde-edward-norton"
+    "https://www.nytimes.com/2026/07/08/world/europe/germany-budweiser-beer.html"
   ],
   [
-    "sports",
+    "donald",
     15,
-    "https://www.theguardian.com/us-news/2026/jul/06/ncaa-charlie-baker-trans-athlete-rules-supreme-court-ruling"
+    "https://www.washingtonpost.com/nation/2026/07/07/trumps-big-beautiful-bill-has-cutfood-assistance-millions-americans/"
   ],
   [
-    "don",
+    "early",
     15,
-    "https://www.theguardian.com/news/2026/jul/07/cotton-capital-reparatory-justice-gender-based-violence"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "film",
+    15,
+    "https://www.theguardian.com/film/2026/jul/07/christopher-nolan-odyssey-critic-reactions-damon-pattinson-holland-hathaway"
+  ],
+  [
+    "star",
+    15,
+    "https://www.theguardian.com/football/2026/jul/07/christian-pulisic-usmnt-world-cup-disappointment"
+  ],
+  [
+    "sexual",
+    15,
+    "https://www.theguardian.com/music/2026/jul/07/menopunkapalooza-menopause-festival"
+  ],
+  [
+    "died",
+    15,
+    "https://www.theguardian.com/sport/2026/jul/07/marshawn-kneeland-death-cte"
+  ],
+  [
+    "games",
+    15,
+    "https://www.theguardian.com/sport/2026/jul/07/ioc-lifts-suspension-russia-compete-la-2028-olympics"
   ],
   [
     "madonna",
@@ -281,69 +286,79 @@
     "https://www.theguardian.com/music/2026/jul/07/madonna-nostalgia-confessions-ii"
   ],
   [
-    "game",
-    15,
-    "https://www.theguardian.com/games/2026/jul/07/how-runescape-survived-to-25"
+    "states",
+    14,
+    "https://www.nytimes.com/2026/07/07/climate/fema-grants-states-election-changes.html"
   ],
   [
-    "office",
+    "allegation",
     14,
-    "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html"
+    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-replacements-maine-democrats.html"
   ],
   [
-    "california",
+    "french",
     14,
-    "https://www.nytimes.com/2026/07/07/dining/driscolls-berries.html"
+    "https://www.nytimes.com/2026/07/07/world/europe/le-pen-populists-vs-courts.html"
   ],
   [
-    "james",
+    "charlie",
     14,
-    "https://www.washingtonpost.com/nation/2026/07/06/donald-trump-jr-joined-charlie-kirks-family-key-court-hearing/"
+    "https://www.nytimes.com/2026/07/07/us/charlie-kirk-tyler-robinson-hearing.html"
   ],
   [
-    "york",
+    "red",
     14,
-    "https://www.washingtonpost.com/nation/2026/07/06/he-wrote-scathing-message-ice-federal-agents-showed-up-his-door/"
+    "https://www.nytimes.com/2026/07/07/style/most-stylish-people-of-2026-so-far.html"
   ],
   [
-    "colombia",
+    "space",
     14,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.nytimes.com/2026/07/07/style/most-stylish-people-of-2026-so-far.html"
   ],
   [
-    "mexico",
+    "little",
     14,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+    "https://www.theguardian.com/tv-and-radio/2026/jul/07/little-house-on-the-prairie-netflix-reboot-controversy"
   ],
   [
-    "ahead",
+    "tested",
     14,
-    "https://www.theguardian.com/film/2026/jul/07/christopher-nolan-odyssey-critic-reactions-damon-pattinson-holland-hathaway"
+    "https://www.theguardian.com/thefilter-us/2026/jul/07/yeti-rambler-owala-freesip-water-bottle-reviews"
   ],
   [
-    "instead",
+    "soccer",
     14,
-    "https://www.theguardian.com/football/2026/jul/07/usmnt-world-cup-belgium"
+    "https://www.theguardian.com/football/2026/jul/07/christian-pulisic-usmnt-world-cup-disappointment"
+  ],
+  [
+    "something",
+    14,
+    "https://www.theguardian.com/books/2026/jul/07/rachel-aviv-interview"
+  ],
+  [
+    "assault",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/07/bernie-sanders-graham-platner-maine-senate-race"
   ],
   [
     "media",
     14,
-    "https://www.theguardian.com/commentisfree/2026/jul/07/jd-vance-rhetoric"
+    "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe"
   ],
   [
-    "video",
+    "review",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/07/charlie-kirk-muder-tyler-james-robinson-utah-hearing"
+    "https://www.theguardian.com/commentisfree/2026/jul/07/how-animals-experience-time-differently"
   ],
   [
-    "balogun",
-    14,
-    "https://www.theguardian.com/football/2026/jul/06/belgium-reaction-victory-usa-world-cup-red-card"
+    "latest",
+    13,
+    "https://www.nytimes.com/2026/07/07/briefing/democrats-platner-maine-us-iran-strikes.html"
   ],
   [
-    "games",
-    14,
-    "https://www.theguardian.com/sport/2026/jul/07/ioc-lifts-suspension-russia-compete-la-2028-olympics"
+    "summit",
+    13,
+    "https://www.nytimes.com/2026/07/08/world/europe/trump-nato-summit.html"
   ],
   [
     "stop",
@@ -351,28 +366,13 @@
     "https://www.nytimes.com/2026/07/07/us/yale-law-school-dean-trump-deal.html"
   ],
   [
-    "space",
+    "california",
     13,
-    "https://www.nytimes.com/2026/07/07/style/most-stylish-people-of-2026-so-far.html"
+    "https://www.nytimes.com/2026/07/07/dining/driscolls-berries.html"
   ],
   [
-    "really",
+    "utah",
     13,
-    "https://www.washingtonpost.com/investigations/2026/07/06/see-how-bad-air-quality-dc-really-got-after-freedom-250-fireworks/"
-  ],
-  [
-    "phone",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "night",
-    13,
-    "https://www.theguardian.com/film/2026/jul/07/christopher-nolan-odyssey-critic-reactions-damon-pattinson-holland-hathaway"
-  ],
-  [
-    "match",
-    13,
-    "https://www.theguardian.com/football/2026/jul/07/usmnt-world-cup-belgium"
+    "https://www.washingtonpost.com/nation/2026/07/06/donald-trump-jr-joined-charlie-kirks-family-key-court-hearing/"
   ]
 ];
