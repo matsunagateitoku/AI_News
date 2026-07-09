@@ -2,43 +2,68 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    113,
-    "https://www.nytimes.com/2026/07/08/us/politics/trump-iran-war.html"
+    105,
+    "https://www.nytimes.com/2026/07/08/us/politics/trump-air-force-one-security.html"
   ],
   [
-    "cup",
+    "platner",
+    70,
+    "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html"
+  ],
+  [
+    "senate",
+    60,
+    "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html"
+  ],
+  [
+    "maine",
     55,
-    "https://www.nytimes.com/2026/07/08/style/world-cup-fans-fashion-best-dressed.html"
+    "https://www.nytimes.com/2026/07/08/us/politics/democrats-republicans-sexual-assault-politicians.html"
   ],
   [
     "president",
-    50,
-    "https://www.nytimes.com/2026/07/08/us/politics/trump-iran-war.html"
+    54,
+    "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html"
+  ],
+  [
+    "cup",
+    51,
+    "https://www.nytimes.com/2026/07/08/style/world-cup-fans-fashion-best-dressed.html"
+  ],
+  [
+    "graham",
+    42,
+    "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html"
   ],
   [
     "court",
     41,
-    "https://www.theguardian.com/us-news/2026/jul/08/trump-e-jean-carroll-settlement"
+    "https://www.nytimes.com/2026/07/08/us/politics/trump-supreme-court-birthright-citizenship.html"
   ],
   [
-    "platner",
-    33,
-    "https://www.nytimes.com/2026/07/08/us/politics/charlie-dingman-maine-democratic-party-chair.html"
+    "campaign",
+    39,
+    "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html"
   ],
   [
     "iran",
-    32,
-    "https://www.nytimes.com/2026/07/08/us/politics/trump-iran-war.html"
+    38,
+    "https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html"
   ],
   [
-    "team",
-    26,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "air",
+    29,
+    "https://www.nytimes.com/2026/07/08/us/politics/trump-air-force-one-security.html"
   ],
   [
-    "country",
-    25,
-    "https://www.nytimes.com/2026/07/08/style/world-cup-fans-fashion-best-dressed.html"
+    "democrats",
+    28,
+    "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html"
+  ],
+  [
+    "final",
+    27,
+    "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html"
   ],
   [
     "emmy",
@@ -46,34 +71,34 @@
     "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html"
   ],
   [
-    "nominations",
+    "strikes",
     25,
+    "https://www.theguardian.com/world/2026/jul/08/us-carries-out-another-wave-of-strikes-on-iran"
+  ],
+  [
+    "nominations",
+    24,
     "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html"
   ],
   [
-    "maine",
-    24,
-    "https://www.nytimes.com/2026/07/08/us/politics/charlie-dingman-maine-democratic-party-chair.html"
+    "race",
+    23,
+    "https://www.nytimes.com/2026/07/08/us/politics/democrats-republicans-sexual-assault-politicians.html"
   ],
   [
     "war",
     23,
-    "https://www.nytimes.com/2026/07/08/us/politics/trump-iran-war.html"
-  ],
-  [
-    "judge",
-    23,
-    "https://www.nytimes.com/2026/07/08/us/politics/trump-e-jean-carroll-5-million-payment.html"
-  ],
-  [
-    "senate",
-    23,
-    "https://www.nytimes.com/2026/07/08/us/politics/charlie-dingman-maine-democratic-party-chair.html"
+    "https://www.nytimes.com/2026/07/08/insider/iran-war-satellite-image-restrictions.html"
   ],
   [
     "democratic",
     23,
-    "https://www.nytimes.com/2026/07/08/us/politics/charlie-dingman-maine-democratic-party-chair.html"
+    "https://www.nytimes.com/2026/07/08/us/politics/hakeem-jeffries-house-democrats-midterms.html"
+  ],
+  [
+    "team",
+    23,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "los",
@@ -81,9 +106,9 @@
     "https://www.theguardian.com/us-news/ng-interactive/2026/jul/08/ice-raided-their-city-thats-not-where-it-ends"
   ],
   [
-    "campaign",
+    "series",
     22,
-    "https://www.washingtonpost.com/politics/2026/07/07/ex-girlfriend-graham-platner-says-he-removed-condoms-without-consent/"
+    "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html"
   ],
   [
     "donald",
@@ -91,39 +116,44 @@
     "https://www.washingtonpost.com/nation/2026/07/07/trumps-big-beautiful-bill-has-cutfood-assistance-millions-americans/"
   ],
   [
-    "food",
+    "star",
+    22,
+    "https://www.theguardian.com/film/2026/jul/08/moana-review-live-action-dwayne-johnson-rock-catherine-lagaaia"
+  ],
+  [
+    "ukraine",
     21,
-    "https://www.washingtonpost.com/nation/2026/07/07/trumps-big-beautiful-bill-has-cutfood-assistance-millions-americans/"
+    "https://www.nytimes.com/2026/07/08/world/europe/a-license-to-make-patriot-defense-systems-may-be-a-big-boost-for-ukraine.html"
   ],
   [
-    "air",
+    "country",
     21,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "nato",
-    20,
-    "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html"
-  ],
-  [
-    "graham",
-    20,
-    "https://www.nytimes.com/2026/07/08/us/politics/charlie-dingman-maine-democratic-party-chair.html"
-  ],
-  [
-    "fans",
-    20,
     "https://www.nytimes.com/2026/07/08/style/world-cup-fans-fashion-best-dressed.html"
   ],
   [
-    "family",
+    "attacks",
     20,
-    "https://www.nytimes.com/2026/07/08/us/houston-ice-shooting.html"
+    "https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html"
   ],
   [
-    "star",
+    "candidate",
     20,
-    "https://www.theguardian.com/film/2026/jul/08/moana-review-live-action-dwayne-johnson-rock-catherine-lagaaia"
+    "https://www.nytimes.com/2026/07/08/opinion/graham-platner-suspends-campaign-democrats-lessons.html"
+  ],
+  [
+    "sexual",
+    20,
+    "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-maine-senate-campaign"
+  ],
+  [
+    "video",
+    20,
+    "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-maine-senate-campaign"
+  ],
+  [
+    "political",
+    19,
+    "https://www.nytimes.com/2026/07/08/us/politics/democrats-republicans-sexual-assault-politicians.html"
   ],
   [
     "love",
@@ -131,64 +161,69 @@
     "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html"
   ],
   [
-    "race",
+    "season",
     19,
-    "https://www.nytimes.com/2026/07/08/us/politics/charlie-dingman-maine-democratic-party-chair.html"
+    "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html"
   ],
   [
-    "democrats",
+    "food",
     19,
-    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-replacements-maine-democrats.html"
+    "https://www.washingtonpost.com/nation/2026/07/07/trumps-big-beautiful-bill-has-cutfood-assistance-millions-americans/"
+  ],
+  [
+    "media",
+    19,
+    "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-maine-senate-campaign"
+  ],
+  [
+    "water",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment"
+  ],
+  [
+    "assault",
+    18,
+    "https://www.nytimes.com/2026/07/08/us/politics/democrats-republicans-sexual-assault-politicians.html"
+  ],
+  [
+    "loss",
+    18,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "far",
-    19,
+    18,
     "https://www.theguardian.com/film/2026/jul/08/evil-dead-burn-review"
-  ],
-  [
-    "health",
-    18,
-    "https://www.nytimes.com/2026/07/08/business/health-insurance-cvs-unitedhealth-breakup.html"
-  ],
-  [
-    "series",
-    18,
-    "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html"
   ],
   [
     "fifa",
     18,
-    "https://www.theguardian.com/us-news/2026/jul/08/trump-fifa-red-card"
+    "https://www.theguardian.com/football/2026/jul/08/usmnt-world-cup-player-grades"
   ],
   [
-    "water",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment"
-  ],
-  [
-    "final",
+    "following",
     17,
-    "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html"
+    "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-maine-senate-campaign"
   ],
   [
-    "political",
+    "social",
     17,
-    "https://www.theguardian.com/business/2026/jul/08/trump-maga-faithful-economy"
+    "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-maine-senate-campaign"
   ],
   [
-    "player",
+    "dead",
     17,
-    "https://www.theguardian.com/us-news/2026/jul/08/trump-fifa-red-card"
+    "https://www.theguardian.com/film/2026/jul/08/evil-dead-burn-review"
   ],
   [
     "game",
     17,
-    "https://www.theguardian.com/us-news/2026/jul/08/trump-fifa-red-card"
+    "https://www.theguardian.com/football/2026/jul/08/reece-james-remains-injury-doubt-england-right-back-woes-norway-world-cup-quarter-final"
   ],
   [
-    "office",
-    17,
-    "https://www.theguardian.com/film/2026/jul/08/evil-dead-burn-review"
+    "california",
+    16,
+    "https://www.nytimes.com/2026/07/08/us/politics/democrats-republicans-sexual-assault-politicians.html"
   ],
   [
     "start",
@@ -196,9 +231,14 @@
     "https://www.nytimes.com/2026/07/08/world/europe/a-license-to-make-patriot-defense-systems-may-be-a-big-boost-for-ukraine.html"
   ],
   [
-    "summit",
+    "fans",
     16,
-    "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html"
+    "https://www.nytimes.com/2026/07/08/style/world-cup-fans-fashion-best-dressed.html"
+  ],
+  [
+    "record",
+    16,
+    "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html"
   ],
   [
     "didn",
@@ -206,29 +246,19 @@
     "https://www.nytimes.com/2026/07/08/us/politics/hakeem-jeffries-house-democrats-midterms.html"
   ],
   [
-    "ice",
+    "family",
     16,
     "https://www.nytimes.com/2026/07/08/us/houston-ice-shooting.html"
   ],
   [
-    "americans",
+    "office",
     16,
-    "https://www.nytimes.com/2026/07/08/opinion/family-caregiver-aging-parents.html"
+    "https://www.theguardian.com/us-news/2026/jul/08/republicans-mitch-mcconnell-health"
   ],
   [
-    "colombia",
+    "oil",
     16,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "death",
-    16,
-    "https://www.theguardian.com/football/2026/jul/08/kylian-mbappe-france-world-cup-2026"
-  ],
-  [
-    "football",
-    16,
-    "https://www.theguardian.com/football/2026/jul/08/kylian-mbappe-france-world-cup-2026"
+    "https://www.theguardian.com/world/2026/jul/09/ukraine-war-briefing-russia-bans-diesel-exports-as-refinery-attacks-trigger-gas-shortages-and-price-spikes"
   ],
   [
     "body",
@@ -236,84 +266,64 @@
     "https://www.theguardian.com/society/2026/jul/08/gen-z-romanticizing-hangovers"
   ],
   [
+    "decision",
+    15,
+    "https://www.nytimes.com/2026/07/08/us/politics/trump-supreme-court-birthright-citizenship.html"
+  ],
+  [
+    "support",
+    15,
+    "https://www.theguardian.com/world/2026/jul/08/erratic-trump-dominates-final-hours-nato-summit"
+  ],
+  [
     "release",
-    16,
+    15,
     "https://www.theguardian.com/us-news/2026/jul/08/trump-e-jean-carroll-settlement"
   ],
   [
-    "games",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/08/trump-fifa-red-card"
-  ],
-  [
-    "dead",
-    16,
+    "film",
+    15,
     "https://www.theguardian.com/film/2026/jul/08/evil-dead-burn-review"
   ],
   [
     "players",
-    16,
+    15,
     "https://www.theguardian.com/football/2026/jul/08/usmnt-world-cup-player-grades"
   ],
   [
-    "season",
-    15,
-    "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html"
+    "nato",
+    14,
+    "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html"
   ],
   [
-    "american",
-    15,
-    "https://www.nytimes.com/2026/07/08/arts/design/native-american-remains-hair-museum.html"
-  ],
-  [
-    "loss",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "again",
-    15,
-    "https://www.theguardian.com/world/2026/jul/08/iran-us-war-ceasefire-peace-agreement-strikes-strait-of-hormuz"
-  ],
-  [
-    "argentina",
-    15,
-    "https://www.theguardian.com/football/2026/jul/08/egyptian-fa-questions-fairness-of-loss-to-argentina-amid-refereeing-furore"
-  ],
-  [
-    "died",
-    15,
-    "https://www.theguardian.com/music/2026/jul/08/sterling-betancourt-steel-pan-music-uk-trinidadian"
-  ],
-  [
-    "carroll",
+    "judge",
     14,
     "https://www.nytimes.com/2026/07/08/us/politics/trump-e-jean-carroll-5-million-payment.html"
   ],
   [
-    "candidate",
+    "million",
     14,
-    "https://www.nytimes.com/2026/07/08/us/politics/charlie-dingman-maine-democratic-party-chair.html"
+    "https://www.nytimes.com/2026/07/08/us/politics/trump-e-jean-carroll-5-million-payment.html"
   ],
   [
-    "power",
+    "administration",
     14,
-    "https://www.nytimes.com/2026/07/08/business/health-insurance-cvs-unitedhealth-breakup.html"
+    "https://www.nytimes.com/2026/07/08/us/politics/vance-wisconsin-visit-fraud.html"
   ],
   [
-    "full",
+    "recent",
     14,
-    "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominees-list-2026.html"
+    "https://www.nytimes.com/2026/07/08/us/politics/hakeem-jeffries-house-democrats-midterms.html"
   ],
   [
-    "questions",
+    "allegation",
     14,
-    "https://www.washingtonpost.com/nation/2026/07/08/questions-remain-about-defense-strategy-man-accused-killing-charlie-kirk/"
+    "https://www.washingtonpost.com/politics/2026/07/07/ex-girlfriend-graham-platner-says-he-removed-condoms-without-consent/"
   ],
   [
-    "sexual",
+    "having",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/08/trump-e-jean-carroll-settlement"
+    "https://www.theguardian.com/commentisfree/2026/jul/08/prince-harry-daily-mail-royal-family"
   ],
   [
     "review",
@@ -321,58 +331,48 @@
     "https://www.theguardian.com/film/2026/jul/08/moana-review-live-action-dwayne-johnson-rock-catherine-lagaaia"
   ],
   [
-    "already",
-    13,
-    "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-replacements-maine-democrats.html"
+    "died",
+    14,
+    "https://www.theguardian.com/film/2026/jul/08/louise-lasser-dies-aged-87-mary-hartman-woody-allen"
   ],
   [
-    "fashion",
-    13,
-    "https://www.theguardian.com/football/2026/jul/08/kylian-mbappe-france-world-cup-2026"
+    "england",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/08/trump-air-force-one-england-trip"
   ],
   [
-    "room",
-    13,
-    "https://www.theguardian.com/football/2026/jul/08/kylian-mbappe-france-world-cup-2026"
+    "games",
+    14,
+    "https://www.theguardian.com/football/2026/jul/08/world-cup-2026-team-rankings-last-16"
   ],
   [
-    "media",
+    "case",
     13,
-    "https://www.theguardian.com/football/2026/jul/08/kylian-mbappe-france-world-cup-2026"
+    "https://www.nytimes.com/2026/07/08/us/politics/vance-wisconsin-visit-fraud.html"
   ],
   [
-    "hours",
+    "health",
     13,
-    "https://www.theguardian.com/world/2026/jul/08/erratic-trump-dominates-final-hours-nato-summit"
+    "https://www.nytimes.com/2026/07/08/us/beshear-mcconnell-kentucky-health.html"
   ],
   [
-    "interest",
+    "horror",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/08/trump-e-jean-carroll-settlement"
+    "https://www.nytimes.com/2026/07/08/world/americas/venezuela-earthquakes-deaths-remains.html"
   ],
   [
-    "match",
+    "james",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/08/trump-fifa-red-card"
+    "https://www.washingtonpost.com/nation/2026/07/08/questions-remain-about-defense-strategy-man-accused-killing-charlie-kirk/"
   ],
   [
-    "administration",
+    "red",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/08/trump-name-kennedy-center-ruling"
+    "https://www.washingtonpost.com/nation/2026/07/07/trans-people-are-moving-seattle-unprecedented-levels-under-trump/"
   ],
   [
-    "having",
+    "americans",
     13,
-    "https://www.theguardian.com/film/2026/jul/08/moana-review-live-action-dwayne-johnson-rock-catherine-lagaaia"
-  ],
-  [
-    "film",
-    13,
-    "https://www.theguardian.com/film/2026/jul/08/evil-dead-burn-review"
-  ],
-  [
-    "always",
-    13,
-    "https://www.theguardian.com/sport/2026/jul/07/wnba-players-were-not-talking-about-enough"
+    "https://www.washingtonpost.com/nation/2026/07/07/trumps-big-beautiful-bill-has-cutfood-assistance-millions-americans/"
   ]
 ];
