@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    105,
-    "https://www.nytimes.com/2026/07/08/us/politics/trump-air-force-one-security.html"
+    75,
+    "https://www.nytimes.com/2026/07/09/world/europe/ukraine-patriots-trump-russia.html"
+  ],
+  [
+    "cup",
+    54,
+    "https://www.nytimes.com/2026/07/09/world/europe/france-morocco-world-cup-soccer.html"
   ],
   [
     "platner",
-    70,
-    "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html"
-  ],
-  [
-    "senate",
-    60,
+    49,
     "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html"
   ],
   [
     "maine",
-    55,
-    "https://www.nytimes.com/2026/07/08/us/politics/democrats-republicans-sexual-assault-politicians.html"
-  ],
-  [
-    "president",
-    54,
-    "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html"
-  ],
-  [
-    "cup",
-    51,
-    "https://www.nytimes.com/2026/07/08/style/world-cup-fans-fashion-best-dressed.html"
-  ],
-  [
-    "graham",
     42,
     "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html"
   ],
   [
-    "court",
-    41,
-    "https://www.nytimes.com/2026/07/08/us/politics/trump-supreme-court-birthright-citizenship.html"
-  ],
-  [
-    "campaign",
-    39,
+    "senate",
+    40,
     "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html"
   ],
   [
     "iran",
-    38,
+    36,
     "https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html"
   ],
   [
-    "air",
-    29,
-    "https://www.nytimes.com/2026/07/08/us/politics/trump-air-force-one-security.html"
+    "graham",
+    32,
+    "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html"
   ],
   [
-    "democrats",
-    28,
+    "president",
+    31,
+    "https://www.nytimes.com/2026/07/09/world/europe/ukraine-patriots-trump-russia.html"
+  ],
+  [
+    "campaign",
+    27,
     "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html"
+  ],
+  [
+    "tyler",
+    27,
+    "https://www.nytimes.com/2026/07/09/arts/music/bonnie-tyler-dead.html"
   ],
   [
     "final",
     27,
-    "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html"
-  ],
-  [
-    "emmy",
-    25,
-    "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html"
-  ],
-  [
-    "strikes",
-    25,
-    "https://www.theguardian.com/world/2026/jul/08/us-carries-out-another-wave-of-strikes-on-iran"
-  ],
-  [
-    "nominations",
-    24,
-    "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html"
+    "https://www.theguardian.com/football/2026/jul/09/world-cup-2026-quarter-final-predictions-france-spain-argentina-england-messi-mbappe-haaland"
   ],
   [
     "race",
+    26,
+    "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-debacle-puts-democrats-in-grave-danger-of-blowing-it-in-the-midterms"
+  ],
+  [
+    "country",
+    25,
+    "https://www.nytimes.com/2026/07/09/world/asia/china-fire-shoe-factory.html"
+  ],
+  [
+    "team",
+    24,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "pop",
     23,
-    "https://www.nytimes.com/2026/07/08/us/politics/democrats-republicans-sexual-assault-politicians.html"
+    "https://www.nytimes.com/2026/07/09/arts/music/bonnie-tyler-dead.html"
   ],
   [
     "war",
     23,
-    "https://www.nytimes.com/2026/07/08/insider/iran-war-satellite-image-restrictions.html"
-  ],
-  [
-    "democratic",
-    23,
-    "https://www.nytimes.com/2026/07/08/us/politics/hakeem-jeffries-house-democrats-midterms.html"
-  ],
-  [
-    "team",
-    23,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "los",
-    23,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/08/ice-raided-their-city-thats-not-where-it-ends"
-  ],
-  [
-    "series",
-    22,
-    "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html"
-  ],
-  [
-    "donald",
-    22,
-    "https://www.washingtonpost.com/nation/2026/07/07/trumps-big-beautiful-bill-has-cutfood-assistance-millions-americans/"
+    "https://www.nytimes.com/2026/07/09/briefing/are-we-at-war-again.html"
   ],
   [
     "star",
-    22,
-    "https://www.theguardian.com/film/2026/jul/08/moana-review-live-action-dwayne-johnson-rock-catherine-lagaaia"
-  ],
-  [
-    "ukraine",
-    21,
-    "https://www.nytimes.com/2026/07/08/world/europe/a-license-to-make-patriot-defense-systems-may-be-a-big-boost-for-ukraine.html"
-  ],
-  [
-    "country",
-    21,
-    "https://www.nytimes.com/2026/07/08/style/world-cup-fans-fashion-best-dressed.html"
-  ],
-  [
-    "attacks",
-    20,
-    "https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html"
-  ],
-  [
-    "candidate",
-    20,
-    "https://www.nytimes.com/2026/07/08/opinion/graham-platner-suspends-campaign-democrats-lessons.html"
-  ],
-  [
-    "sexual",
-    20,
-    "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-maine-senate-campaign"
-  ],
-  [
-    "video",
-    20,
-    "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-maine-senate-campaign"
-  ],
-  [
-    "political",
-    19,
-    "https://www.nytimes.com/2026/07/08/us/politics/democrats-republicans-sexual-assault-politicians.html"
-  ],
-  [
-    "love",
-    19,
-    "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html"
-  ],
-  [
-    "season",
-    19,
-    "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html"
-  ],
-  [
-    "food",
-    19,
-    "https://www.washingtonpost.com/nation/2026/07/07/trumps-big-beautiful-bill-has-cutfood-assistance-millions-americans/"
-  ],
-  [
-    "media",
-    19,
-    "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-maine-senate-campaign"
-  ],
-  [
-    "water",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment"
-  ],
-  [
-    "assault",
-    18,
-    "https://www.nytimes.com/2026/07/08/us/politics/democrats-republicans-sexual-assault-politicians.html"
-  ],
-  [
-    "loss",
-    18,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "far",
-    18,
-    "https://www.theguardian.com/film/2026/jul/08/evil-dead-burn-review"
-  ],
-  [
-    "fifa",
-    18,
-    "https://www.theguardian.com/football/2026/jul/08/usmnt-world-cup-player-grades"
-  ],
-  [
-    "following",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-maine-senate-campaign"
-  ],
-  [
-    "social",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-maine-senate-campaign"
-  ],
-  [
-    "dead",
-    17,
-    "https://www.theguardian.com/film/2026/jul/08/evil-dead-burn-review"
+    23,
+    "https://www.theguardian.com/us-news/2026/jul/09/charlie-kirk-meme-young-supporters"
   ],
   [
     "game",
-    17,
-    "https://www.theguardian.com/football/2026/jul/08/reece-james-remains-injury-doubt-england-right-back-woes-norway-world-cup-quarter-final"
+    23,
+    "https://www.theguardian.com/football/2026/jul/09/the-us-delivered-their-best-modern-world-cup-performance-and-also-let-themselves-down"
   ],
   [
-    "california",
-    16,
-    "https://www.nytimes.com/2026/07/08/us/politics/democrats-republicans-sexual-assault-politicians.html"
+    "heart",
+    22,
+    "https://www.nytimes.com/2026/07/09/arts/music/bonnie-tyler-dead.html"
   ],
   [
-    "start",
-    16,
-    "https://www.nytimes.com/2026/07/08/world/europe/a-license-to-make-patriot-defense-systems-may-be-a-big-boost-for-ukraine.html"
+    "american",
+    21,
+    "https://www.nytimes.com/2026/07/09/world/europe/germany-japan-ukraine-patriot-missiles.html"
   ],
   [
-    "fans",
-    16,
-    "https://www.nytimes.com/2026/07/08/style/world-cup-fans-fashion-best-dressed.html"
+    "cbs",
+    21,
+    "https://www.latimes.com/entertainment-arts/business/story/2026-07-08/seth-doane-jim-axelrod-among-contenders-for-60-minutes-roles"
   ],
   [
-    "record",
-    16,
-    "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html"
+    "bonnie",
+    20,
+    "https://www.nytimes.com/2026/07/09/arts/music/bonnie-tyler-dead.html"
   ],
   [
-    "didn",
-    16,
-    "https://www.nytimes.com/2026/07/08/us/politics/hakeem-jeffries-house-democrats-midterms.html"
+    "power",
+    20,
+    "https://www.theguardian.com/music/2026/jul/09/bonnie-tyler-totally-eclipsed-her-power-ballad-peers"
   ],
   [
-    "family",
-    16,
-    "https://www.nytimes.com/2026/07/08/us/houston-ice-shooting.html"
+    "democrats",
+    19,
+    "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html"
   ],
   [
-    "office",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/08/republicans-mitch-mcconnell-health"
+    "series",
+    19,
+    "https://www.theguardian.com/books/ng-interactive/2026/jul/09/allen-ginsberg-complex-legacy"
   ],
   [
-    "oil",
-    16,
-    "https://www.theguardian.com/world/2026/jul/09/ukraine-war-briefing-russia-bans-diesel-exports-as-refinery-attacks-trigger-gas-shortages-and-price-spikes"
+    "little",
+    19,
+    "https://www.theguardian.com/music/2026/jul/09/bonnie-tyler-totally-eclipsed-her-power-ballad-peers"
   ],
   [
-    "body",
-    16,
-    "https://www.theguardian.com/society/2026/jul/08/gen-z-romanticizing-hangovers"
+    "los",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/jul/09/taylor-swift-wedding-obsession-msg"
   ],
   [
-    "decision",
-    15,
-    "https://www.nytimes.com/2026/07/08/us/politics/trump-supreme-court-birthright-citizenship.html"
-  ],
-  [
-    "support",
-    15,
-    "https://www.theguardian.com/world/2026/jul/08/erratic-trump-dominates-final-hours-nato-summit"
-  ],
-  [
-    "release",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/08/trump-e-jean-carroll-settlement"
-  ],
-  [
-    "film",
-    15,
-    "https://www.theguardian.com/film/2026/jul/08/evil-dead-burn-review"
-  ],
-  [
-    "players",
-    15,
-    "https://www.theguardian.com/football/2026/jul/08/usmnt-world-cup-player-grades"
-  ],
-  [
-    "nato",
-    14,
-    "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html"
-  ],
-  [
-    "judge",
-    14,
-    "https://www.nytimes.com/2026/07/08/us/politics/trump-e-jean-carroll-5-million-payment.html"
-  ],
-  [
-    "million",
-    14,
-    "https://www.nytimes.com/2026/07/08/us/politics/trump-e-jean-carroll-5-million-payment.html"
-  ],
-  [
-    "administration",
-    14,
-    "https://www.nytimes.com/2026/07/08/us/politics/vance-wisconsin-visit-fraud.html"
-  ],
-  [
-    "recent",
-    14,
-    "https://www.nytimes.com/2026/07/08/us/politics/hakeem-jeffries-house-democrats-midterms.html"
-  ],
-  [
-    "allegation",
-    14,
-    "https://www.washingtonpost.com/politics/2026/07/07/ex-girlfriend-graham-platner-says-he-removed-condoms-without-consent/"
-  ],
-  [
-    "having",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jul/08/prince-harry-daily-mail-royal-family"
-  ],
-  [
-    "review",
-    14,
-    "https://www.theguardian.com/film/2026/jul/08/moana-review-live-action-dwayne-johnson-rock-catherine-lagaaia"
+    "court",
+    19,
+    "https://www.theguardian.com/us-news/2026/jul/09/reflecting-pool-case-us-olympian-plea"
   ],
   [
     "died",
-    14,
-    "https://www.theguardian.com/film/2026/jul/08/louise-lasser-dies-aged-87-mary-hartman-woody-allen"
+    19,
+    "https://www.theguardian.com/music/2026/jul/09/bonnie-tyler-80s-pop-legend-known-for-total-eclipse-of-the-heart-and-more-dies-aged-75"
   ],
   [
-    "england",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/08/trump-air-force-one-england-trip"
+    "following",
+    18,
+    "https://www.nytimes.com/video/opinion/100000011020019/the-graham-platner-experiment-failed.html"
+  ],
+  [
+    "didn",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/jul/09/taylor-swift-wedding-obsession-msg"
+  ],
+  [
+    "water",
+    18,
+    "https://www.theguardian.com/us-news/2026/jul/09/new-york-legionnaires-outbreak"
+  ],
+  [
+    "fans",
+    18,
+    "https://www.theguardian.com/music/2026/jul/09/david-byrne-reader-interview-touring-talking-heads-ramones-lou-reed"
+  ],
+  [
+    "democratic",
+    17,
+    "https://www.nytimes.com/2026/07/09/us/politics/platner-maine-democrats-replacement-candidate.html"
+  ],
+  [
+    "france",
+    17,
+    "https://www.nytimes.com/2026/07/09/world/europe/france-morocco-world-cup-soccer.html"
+  ],
+  [
+    "donald",
+    17,
+    "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-debacle-puts-democrats-in-grave-danger-of-blowing-it-in-the-midterms"
+  ],
+  [
+    "company",
+    17,
+    "https://www.theguardian.com/us-news/2026/jul/09/french-national-team-ice-deportation-planes-world-cup"
+  ],
+  [
+    "air",
+    16,
+    "https://www.nytimes.com/2026/07/08/us/politics/trump-air-force-one-security.html"
+  ],
+  [
+    "soccer",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/09/french-national-team-ice-deportation-planes-world-cup"
+  ],
+  [
+    "york",
+    15,
+    "https://www.nytimes.com/2026/07/09/nyregion/nyc-building-collapse-inspection.html"
+  ],
+  [
+    "review",
+    15,
+    "https://www.nytimes.com/2026/07/09/nyregion/nyc-building-collapse-inspection.html"
+  ],
+  [
+    "states",
+    15,
+    "https://www.nytimes.com/2026/07/09/world/europe/ukraine-patriots-trump-russia.html"
+  ],
+  [
+    "again",
+    15,
+    "https://www.nytimes.com/2026/07/09/business/dealbook/iran-war-markets.html"
+  ],
+  [
+    "don",
+    15,
+    "https://www.nytimes.com/2026/07/09/arts/television/late-night-mitch-mcconnell.html"
+  ],
+  [
+    "summer",
+    15,
+    "https://www.theguardian.com/books/ng-interactive/2026/jul/09/allen-ginsberg-complex-legacy"
+  ],
+  [
+    "album",
+    15,
+    "https://www.theguardian.com/music/2026/jul/09/bonnie-tyler-totally-eclipsed-her-power-ballad-peers"
+  ],
+  [
+    "family",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jul/09/taylor-swift-wedding-obsession-msg"
   ],
   [
     "games",
-    14,
-    "https://www.theguardian.com/football/2026/jul/08/world-cup-2026-team-rankings-last-16"
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/09/french-national-team-ice-deportation-planes-world-cup"
   ],
   [
-    "case",
+    "singer",
+    15,
+    "https://www.theguardian.com/music/2026/jul/09/bonnie-tyler-80s-pop-legend-known-for-total-eclipse-of-the-heart-and-more-dies-aged-75"
+  ],
+  [
+    "love",
+    15,
+    "https://www.theguardian.com/music/2026/jul/03/sienna-spiro-visitor-review"
+  ],
+  [
+    "history",
+    14,
+    "https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html"
+  ],
+  [
+    "black",
+    14,
+    "https://www.washingtonpost.com/nation/2026/07/08/majority-black-memphis-anger-over-redistricting-has-turned-into-resolve/"
+  ],
+  [
+    "red",
+    14,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "ice",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "latest",
+    14,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "something",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jul/09/taylor-swift-wedding-obsession-msg"
+  ],
+  [
+    "players",
+    14,
+    "https://www.theguardian.com/music/2026/jul/09/david-byrne-reader-interview-touring-talking-heads-ramones-lou-reed"
+  ],
+  [
+    "art",
+    14,
+    "https://www.theguardian.com/culture/2026/jul/09/schomburg-center-100-years-black-culture"
+  ],
+  [
+    "children",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/09/little-house-on-the-prairie-review-reboot-netflix"
+  ],
+  [
+    "guide",
+    14,
+    "https://www.theguardian.com/football/live/2026/jul/09/world-cup-2026-france-v-morocco-quarter-final-news-live"
+  ],
+  [
+    "food",
+    14,
+    "https://www.theguardian.com/football/2026/jul/09/egypt-world-cup-heartbreak-still-gave-country-reason-to-smile"
+  ],
+  [
+    "global",
     13,
-    "https://www.nytimes.com/2026/07/08/us/politics/vance-wisconsin-visit-fraud.html"
+    "https://www.nytimes.com/2026/07/09/world/europe/france-morocco-world-cup-soccer.html"
+  ],
+  [
+    "total",
+    13,
+    "https://www.nytimes.com/2026/07/09/arts/music/bonnie-tyler-dead.html"
+  ],
+  [
+    "eclipse",
+    13,
+    "https://www.nytimes.com/2026/07/09/arts/music/bonnie-tyler-dead.html"
+  ],
+  [
+    "dies",
+    13,
+    "https://www.nytimes.com/2026/07/09/arts/music/bonnie-tyler-dead.html"
+  ],
+  [
+    "strikes",
+    13,
+    "https://www.theguardian.com/world/live/2026/jul/09/iran-us-middle-east-strikes-centcom-bahrain-kuwait-qatar-strait-of-hormuz-latest-news-updates"
   ],
   [
     "health",
     13,
-    "https://www.nytimes.com/2026/07/08/us/beshear-mcconnell-kentucky-health.html"
+    "https://www.theguardian.com/us-news/2026/jul/09/new-york-legionnaires-outbreak"
   ],
   [
-    "horror",
+    "sexual",
     13,
-    "https://www.nytimes.com/2026/07/08/world/americas/venezuela-earthquakes-deaths-remains.html"
+    "https://www.theguardian.com/us-news/2026/jul/09/court-rejects-trump-delay-e-jean-carroll-payment"
   ],
   [
-    "james",
+    "recent",
     13,
-    "https://www.washingtonpost.com/nation/2026/07/08/questions-remain-about-defense-strategy-man-accused-killing-charlie-kirk/"
+    "https://www.theguardian.com/us-news/2026/jul/09/cyclosporiasis-illness-explainer"
   ],
   [
-    "red",
+    "football",
     13,
-    "https://www.washingtonpost.com/nation/2026/07/07/trans-people-are-moving-seattle-unprecedented-levels-under-trump/"
+    "https://www.theguardian.com/music/2026/jul/09/david-byrne-reader-interview-touring-talking-heads-ramones-lou-reed"
   ],
   [
-    "americans",
+    "fifa",
     13,
-    "https://www.washingtonpost.com/nation/2026/07/07/trumps-big-beautiful-bill-has-cutfood-assistance-millions-americans/"
+    "https://www.theguardian.com/football/2026/jul/09/us-fifa-talks-hosting-2029-club-world-cup"
+  ],
+  [
+    "hard",
+    13,
+    "https://www.theguardian.com/sport/2026/jul/09/republicans-ask-wnba-to-protect-caitlin-clark-from-possible-racially-motivated-attacks"
+  ],
+  [
+    "island",
+    13,
+    "https://www.theguardian.com/environment/2026/jul/09/remote-island-wave-power-energy-security-beaver-island-lake-michigan"
+  ],
+  [
+    "filter",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jul/08/how-to-disinfect-your-home-flu"
+  ],
+  [
+    "past",
+    12,
+    "https://www.nytimes.com/2026/07/09/world/europe/france-morocco-world-cup-soccer.html"
   ]
 ];
