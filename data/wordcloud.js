@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    75,
-    "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html"
+    77,
+    "https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html"
   ],
   [
     "cup",
-    46,
-    "https://www.theguardian.com/football/2026/jul/10/erling-haaland-most-viral-player-world-cup-norway"
+    45,
+    "https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live"
   ],
   [
     "platner",
-    42,
-    "https://www.nytimes.com/2026/07/10/us/politics/women-maine-graham-platner-campaign.html"
+    37,
+    "https://www.nytimes.com/2026/07/10/us/platner-replacement-maine-biden-harris.html"
+  ],
+  [
+    "final",
+    32,
+    "https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live"
   ],
   [
     "president",
-    35,
-    "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html"
+    29,
+    "https://www.nytimes.com/2026/07/10/us/freedom-fuel-gas-stations.html"
   ],
   [
-    "iran",
+    "star",
     27,
-    "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html"
+    "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html"
   ],
   [
-    "country",
-    25,
-    "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html"
+    "los",
+    27,
+    "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar"
   ],
   [
     "maine",
-    24,
+    26,
+    "https://www.nytimes.com/2026/07/10/us/platner-replacement-maine-biden-harris.html"
+  ],
+  [
+    "ice",
+    22,
+    "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html"
+  ],
+  [
+    "game",
+    21,
+    "https://www.theguardian.com/football/2026/jul/10/erling-haaland-england-norway-2026-world-cup-quarter-final-emma-hayes"
+  ],
+  [
+    "air",
+    20,
+    "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html"
+  ],
+  [
+    "bill",
+    20,
+    "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html"
+  ],
+  [
+    "son",
+    19,
+    "https://www.theguardian.com/us-news/2026/jul/10/guaranteed-income-black-single-moms-mississippi"
+  ],
+  [
+    "immigration",
+    18,
+    "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html"
+  ],
+  [
+    "campaign",
+    18,
     "https://www.nytimes.com/2026/07/10/us/politics/women-maine-graham-platner-campaign.html"
   ],
   [
+    "team",
+    18,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "fans",
+    18,
+    "https://www.theguardian.com/film/2026/jul/10/robert-pattinson-the-odyssey-twilight-oscars"
+  ],
+  [
+    "country",
+    17,
+    "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html"
+  ],
+  [
     "power",
-    21,
+    17,
     "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html"
   ],
   [
     "graham",
-    21,
+    17,
     "https://www.nytimes.com/2026/07/10/us/politics/women-maine-graham-platner-campaign.html"
   ],
   [
-    "star",
-    21,
-    "https://www.nytimes.com/2026/06/25/movies/the-invite-movie-review-seth-rogen-olivia-wilde.html"
+    "police",
+    17,
+    "https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html"
   ],
   [
-    "game",
-    20,
-    "https://www.theguardian.com/football/2026/jul/10/argentina-show-heart-flaws-apparent-swizerland-world-cup-quarter-final"
+    "start",
+    17,
+    "https://www.nytimes.com/2026/07/10/business/ai-white-collar-jobs.html"
   ],
   [
-    "los",
-    20,
-    "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar"
-  ],
-  [
-    "air",
-    19,
-    "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html"
-  ],
-  [
-    "video",
-    19,
-    "https://www.theguardian.com/us-news/2026/jul/10/graham-platner-maine-suspension-video"
-  ],
-  [
-    "nato",
-    18,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "war",
+    17,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
     "guide",
-    18,
-    "https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live"
-  ],
-  [
-    "final",
-    18,
-    "https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live"
-  ],
-  [
-    "francia",
-    18,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/mbappe-y-dembele-brillan-con-golazos-en-la-victoria-de-francia-sobre-marruecos-tmvo13202297"
-  ],
-  [
-    "food",
     17,
-    "https://www.nytimes.com/2026/07/10/nyregion/delaney-hall-ice-conditions-unsanitary.html"
+    "https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live"
   ],
   [
     "something",
     17,
-    "https://www.theguardian.com/film/2026/jul/10/the-batman-part-ii-rumours-harvey-dent-victor-zsasz-court-of-owls"
+    "https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live"
   ],
   [
-    "democrats",
+    "family",
     17,
-    "https://www.theguardian.com/commentisfree/2026/jul/10/graham-platner-democrats-image"
-  ],
-  [
-    "california",
-    17,
-    "https://www.latimes.com/business/story/2026-07-10/billionaire-exodus-california-attracted-10-times-more-venture-capital-than-any-other-state"
-  ],
-  [
-    "marruecos",
-    17,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/mbappe-y-dembele-brillan-con-golazos-en-la-victoria-de-francia-sobre-marruecos-tmvo13202297"
-  ],
-  [
-    "american",
-    16,
-    "https://www.nytimes.com/2026/07/10/magazine/american-socialism-democratic-party.html"
-  ],
-  [
-    "start",
-    16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "fans",
-    16,
-    "https://www.theguardian.com/football/2026/jul/10/erling-haaland-most-viral-player-world-cup-norway"
-  ],
-  [
-    "senate",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/10/graham-platner-maine-suspension-video"
-  ],
-  [
-    "died",
-    16,
     "https://www.theguardian.com/us-news/2026/jul/10/texas-crisis-brutal-heat-prison-cells"
   ],
   [
-    "france",
+    "food",
     16,
-    "https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live"
+    "https://www.nytimes.com/2026/07/10/nyregion/delaney-hall-ice-conditions-unsanitary.html"
   ],
   [
-    "mbapp",
+    "housing",
     16,
-    "https://www.theguardian.com/football/2026/jul/10/didier-deschamps-hails-exemplary-kylian-mbappe-as-france-reach-world-cup-semi-finals"
+    "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html"
   ],
   [
-    "campaign",
-    15,
-    "https://www.nytimes.com/2026/07/10/us/politics/women-maine-graham-platner-campaign.html"
+    "killed",
+    16,
+    "https://www.nytimes.com/2026/07/10/us/politics/assassin-caught-by-ice-chile.html"
+  ],
+  [
+    "filter",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/jul/10/best-korean-skincare-brands-products"
+  ],
+  [
+    "buying",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/jul/10/best-korean-skincare-brands-products"
   ],
   [
     "company",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/10/democrat-texas-ag-candidate-spacex-starlink-investigation"
+  ],
+  [
+    "dead",
     15,
-    "https://www.nytimes.com/2026/07/10/business/volkswagen-china-problems-restructuring.html"
+    "https://www.nytimes.com/2026/07/10/us/houston-ice-shooting-witnesses.html"
+  ],
+  [
+    "administration",
+    15,
+    "https://www.nytimes.com/2026/07/10/climate/trump-climate-assessment-wielicki.html"
+  ],
+  [
+    "senate",
+    15,
+    "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html"
+  ],
+  [
+    "died",
+    15,
+    "https://www.nytimes.com/2026/07/10/weather/lake-geneva-wisconsin-storm-what-happened.html"
+  ],
+  [
+    "lost",
+    15,
+    "https://www.washingtonpost.com/nation/2026/07/09/one-city-steps-snap-cuts-leave-families-struggling/"
+  ],
+  [
+    "space",
+    15,
+    "https://www.washingtonpost.com/obituaries/2026/07/09/wally-funk-trailblazing-aviator-who-waited-60-years-go-space-dies-87/"
   ],
   [
     "always",
     15,
-    "https://www.theguardian.com/us-news/2026/jul/10/graham-platner-maine-suspension-video"
+    "https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live"
   ],
   [
-    "beach",
+    "social",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/10/my-holiday-from-hell-my-teenage-daughter-was-drunk-and-we-had-a-12-hour-car-journey-to-get-through"
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/10/guide-to-modern-etiquette"
+  ],
+  [
+    "fewer",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/jul/10/best-korean-skincare-brands-products"
+  ],
+  [
+    "election",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/10/trump-accused-election-rig-federal-commissioners-fired"
   ],
   [
     "summer",
     15,
-    "https://www.theguardian.com/us-news/2026/jul/10/texas-crisis-brutal-heat-prison-cells"
+    "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar"
   ],
   [
-    "police",
+    "political",
     15,
-    "https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live"
+    "https://www.theguardian.com/politics/2026/jul/10/police-investigating-death-of-ann-widdecombe"
   ],
   [
-    "son",
+    "california",
     15,
-    "https://www.theguardian.com/us-news/2026/jul/10/guaranteed-income-black-single-moms-mississippi"
+    "https://www.latimes.com/california/story/2026-07-10/norcal-graduation-shooting-arrest-texas"
   ],
   [
-    "filter",
+    "espa",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/jul/10/best-portable-power-banks-in-the-us"
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/la-furia-roja-estalla-la-emocion-de-los-hinchas-con-el-gol-de-fabian-ruiz-tmvo13202593"
   ],
   [
-    "buying",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jul/10/best-portable-power-banks-in-the-us"
-  ],
-  [
-    "soccer",
-    15,
-    "https://www.theguardian.com/football/2026/jul/10/usmnt-world-cup-qualifying-gold-cup-copa-america"
-  ],
-  [
-    "water",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/09/new-york-legionnaires-outbreak"
-  ],
-  [
-    "tested",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jul/09/magnifique-combo-air-fryer-review"
-  ],
-  [
-    "fire",
+    "iran",
     14,
-    "https://www.nytimes.com/video/us/politics/100000011019171/the-us-and-iran-are-fighting-again-is-the-cease-fire-over.html"
+    "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html"
   ],
   [
-    "ice",
+    "democrats",
     14,
-    "https://www.nytimes.com/2026/07/10/us/houston-ice-shooting-witnesses.html"
+    "https://www.nytimes.com/2026/07/10/us/platner-replacement-maine-biden-harris.html"
   ],
   [
-    "least",
+    "law",
     14,
-    "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html"
+    "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html"
   ],
   [
-    "park",
+    "latest",
     14,
-    "https://www.nytimes.com/2026/07/10/world/europe/fire-climate-change-heat-wave-global-warming.html"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "love",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jul/10/nato-summit-trump-power"
+  ],
+  [
+    "donald",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/10/trump-accused-election-rig-federal-commissioners-fired"
+  ],
+  [
+    "south",
+    14,
+    "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar"
+  ],
+  [
+    "murder",
+    14,
+    "https://www.theguardian.com/politics/2026/jul/10/police-investigating-death-of-ann-widdecombe"
   ],
   [
     "black",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/10/philadelphia-trump-erasure-history"
+    "https://www.theguardian.com/us-news/2026/jul/10/naacp-memphis-safe-taskforce"
   ],
   [
-    "fewer",
-    14,
-    "https://www.theguardian.com/environment/2026/jul/10/pacific-gray-whales-population-climate-change"
-  ],
-  [
-    "players",
-    14,
-    "https://www.theguardian.com/football/2026/jul/10/didier-deschamps-hails-exemplary-kylian-mbappe-as-france-reach-world-cup-semi-finals"
-  ],
-  [
-    "rock",
-    14,
-    "https://www.theguardian.com/music/2026/jul/10/baby-rose-yearnalism-review-gloriously-cinematic-soul-from-the-edge-of-emotional-collapse"
-  ],
-  [
-    "ago",
+    "court",
     13,
-    "https://www.nytimes.com/2026/07/09/us/houston-ice-shooting-lorenzo-salgado-araujo.html"
+    "https://www.nytimes.com/2026/07/10/opinion/executive-power-supreme-court-trump.html"
   ],
   [
-    "lost",
+    "accused",
     13,
-    "https://www.washingtonpost.com/nation/2026/07/09/one-city-steps-snap-cuts-leave-families-struggling/"
-  ],
-  [
-    "war",
-    13,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "love",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jul/10/nato-summit-trump-power"
-  ],
-  [
-    "family",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/10/my-holiday-from-hell-my-teenage-daughter-was-drunk-and-we-had-a-12-hour-car-journey-to-get-through"
-  ],
-  [
-    "death",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/10/texas-crisis-brutal-heat-prison-cells"
-  ],
-  [
-    "murder",
-    13,
-    "https://www.theguardian.com/world/2026/jul/10/monaco-bomb-mystery-deepens-as-ukraines-security-services-are-linked-to-of-prime-suspect"
-  ],
-  [
-    "south",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/10/south-carolina-national-guard-beach-flyover"
-  ],
-  [
-    "having",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/10/best-portable-power-banks-in-the-us"
+    "https://www.washingtonpost.com/nation/2026/07/09/roommate-man-accused-killing-charlie-kirk-recounts-shooting-aftermath/"
   ],
   [
     "weekly",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/10/best-portable-power-banks-in-the-us"
+    "https://www.theguardian.com/thefilter-us/2026/jul/10/best-korean-skincare-brands-products"
   ],
   [
-    "music",
+    "ago",
     13,
-    "https://www.theguardian.com/books/2026/jul/10/transcendent-by-laverne-cox-review-success-against-the-odds"
+    "https://www.theguardian.com/thefilter-us/2026/jul/10/best-korean-skincare-brands-products"
   ],
   [
-    "election",
+    "bipartisan",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/10/housing-bill-becomes-law-without-trump-veto"
+  ],
+  [
+    "texas",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/10/texas-man-ice-immigration"
+  ],
+  [
+    "players",
+    13,
+    "https://www.theguardian.com/football/2026/jul/10/argentina-show-heart-flaws-apparent-swizerland-world-cup-quarter-final"
+  ],
+  [
+    "nearly",
+    13,
+    "https://www.theguardian.com/sport/2026/jul/10/chess-firouzja-wins-in-zagreb-as-carlsen-passes-15-year-milestone-at-the-top"
+  ],
+  [
+    "water",
+    13,
+    "https://www.theguardian.com/books/2026/jul/09/trouble-was-by-charlotte-edwardes-review-a-sharp-childs-eye-view-of-adult-neglect"
+  ],
+  [
+    "shooting",
     12,
-    "https://www.nytimes.com/2026/07/10/us/politics/trump-fires-election-assistance-commission-members.html"
+    "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html"
+  ],
+  [
+    "salgado",
+    12,
+    "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html"
+  ],
+  [
+    "enforcement",
+    12,
+    "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html"
+  ],
+  [
+    "agents",
+    12,
+    "https://www.nytimes.com/2026/07/10/us/houston-ice-shooting-witnesses.html"
   ],
   [
     "british",
     12,
-    "https://www.nytimes.com/2026/07/10/arts/design/bayeux-tapestry-british-museum.html"
+    "https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html"
   ],
   [
-    "attack",
+    "children",
     12,
-    "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html"
+    "https://www.nytimes.com/2026/07/10/weather/lake-geneva-wisconsin-storm-what-happened.html"
   ],
   [
-    "spain",
+    "gaza",
     12,
-    "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "tyler",
+    "nato",
     12,
-    "https://www.washingtonpost.com/nation/2026/07/09/roommate-man-accused-killing-charlie-kirk-recounts-shooting-aftermath/"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "space",
+    "fire",
     12,
-    "https://www.washingtonpost.com/obituaries/2026/07/09/wally-funk-trailblazing-aviator-who-waited-60-years-go-space-dies-87/"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "pilots",
+    "having",
     12,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+    "https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live"
   ],
   [
-    "latest",
+    "role",
     12,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "target",
-    12,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "don",
-    12,
-    "https://www.theguardian.com/us-news/2026/jul/10/graham-platner-maine-suspension-video"
-  ],
-  [
-    "feel",
-    12,
-    "https://www.theguardian.com/football/2026/jul/10/didier-deschamps-hails-exemplary-kylian-mbappe-as-france-reach-world-cup-semi-finals"
-  ],
-  [
-    "donald",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/jul/10/trump-wrecking-ball-nato-summit-alliance-survived"
-  ],
-  [
-    "body",
-    12,
-    "https://www.theguardian.com/world/2026/jul/10/protests-west-bengal-state-india-girl-murder-rape"
-  ],
-  [
-    "island",
-    12,
-    "https://www.theguardian.com/environment/2026/jul/09/remote-island-wave-power-energy-security-beaver-island-lake-michigan"
+    "https://www.theguardian.com/film/2026/jul/10/robert-pattinson-the-odyssey-twilight-oscars"
   ]
 ];
