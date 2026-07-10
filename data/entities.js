@@ -3,39 +3,39 @@
   "ORG": [
     {
       "name": "Trump Administration",
-      "count": 44,
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/trump-administration-fires-members-of-independent-election-group.html",
+      "count": 38,
+      "url": "https://www.nytimes.com/2026/07/10/us/politics/trump-fires-election-assistance-commission-members.html",
       "source": "NY Times"
     },
     {
-      "name": "Meta Ai",
+      "name": "The Us Senate",
       "count": 23,
-      "url": "https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Senate Judiciary Committee",
-      "count": 17,
-      "url": "https://thehill.com/homenews/senate/5961745-senate-grassley-fbi-patel-travel/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Fifa World Cup",
-      "count": 15,
-      "url": "https://www.foxnews.com/sports/fifa-world-cup-champion-praises-team-usa-despite-tournament-end-they-did-surprise-us",
+      "url": "https://www.foxnews.com/politics/socialists-launch-radical-platform-abolish-us-senate-bid-fundamentally-transform-america",
       "source": "Fox News"
     },
     {
-      "name": "The White House",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/07/09/us/politics/new-air-force-one-defensive-countermeasures.html",
-      "source": "NY Times"
+      "name": "Ai",
+      "count": 16,
+      "url": "https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
       "count": 13,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/07/09/us/politics/new-air-force-one-defensive-countermeasures.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Fifa",
+      "count": 10,
+      "url": "https://www.latimes.com/sports/soccer/story/2026-07-09/fifa-grass-nfl-stadiums-reignites-debate-over-artificial-turf",
+      "source": "LA Times"
     },
     {
       "name": "Nato",
@@ -45,103 +45,159 @@
     },
     {
       "name": "Gop",
-      "count": 7,
-      "url": "https://www.washingtonpost.com/nation/2026/07/08/majority-black-memphis-anger-over-redistricting-has-turned-into-resolve/",
-      "source": "Washington Post"
+      "count": 8,
+      "url": "https://www.foxnews.com/outkick-sports/fever-coach-stephanie-white-dodges-question-gop-letter-caitlin-clark-treatment-wnba",
+      "source": "Fox News"
     },
     {
-      "name": "Cbs News",
-      "count": 7,
-      "url": "https://www.cbsnews.com/video/breaking-down-texas-app-store-age-verification-law/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Congress",
+      "name": "Un",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/jul/09/medically-assisted-suicide-hhs-rfk-jr",
+      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Meta",
+      "count": 6,
+      "url": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
+      "source": "The Guardian"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "The 2026 World Cup",
+      "count": 27,
+      "url": "https://www.theguardian.com/football/2026/jul/08/tell-us-do-you-support-a-national-football-team-that-you-have-no-link-to",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup Made Me Norwegian",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/07/10/magazine/world-cup-diary-norway-nationalism.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Wimbledon",
+      "count": 4,
+      "url": "https://www.theguardian.com/sport/2026/jul/10/tennis-tactics-arthur-fery-alexander-zverev-wimbledon-semi-final",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The New Year'S Eve",
+      "count": 2,
+      "url": "https://www.nbcnews.com/video/new-year-s-eve-ball-drops-in-times-square-for-america-s-250th-266164805781",
+      "source": "NBC News"
+    },
+    {
+      "name": "Latin American Foto Festival",
+      "count": 1,
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jul/10/bronx-documentary-center-latin-american-foto-festival-gallery",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Watergate",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/jul/10/graham-platner-maine-suspension-video",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cup 2026",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cup Quarter",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Africa Cup Of Nations",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/jul/10/world-cup-coaches-left-their-jobs",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup Miles",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/jul/10/london-to-lisbon-and-back-every-game-england-rack-up-the-world-cup-miles",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 52,
-      "url": "https://www.theguardian.com/thefilter-us/2026/jul/09/magnifique-combo-air-fryer-review",
+      "count": 51,
+      "url": "https://www.theguardian.com/news/audio/2026/jul/10/the-missing-scientists-at-the-centre-of-a-ufo-conspiracy",
       "source": "The Guardian"
     },
     {
+      "name": "Maine",
+      "count": 27,
+      "url": "https://www.washingtonpost.com/nation/2026/07/09/graham-platners-coastal-maine-hometown-his-fall-is-personal/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Iran",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
+      "source": "NY Times"
+    },
+    {
       "name": "U.S.",
-      "count": 33,
+      "count": 25,
       "url": "https://www.nytimes.com/video/us/politics/100000011019171/the-us-and-iran-are-fighting-again-is-the-cease-fire-over.html",
       "source": "NY Times"
     },
     {
-      "name": "Iran",
-      "count": 31,
-      "url": "https://www.nytimes.com/2026/07/09/us/politics/trump-iran-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Maine",
-      "count": 25,
-      "url": "https://www.nytimes.com/2026/07/09/us/politics/platner-maine-democrats-replacement-candidate.html",
-      "source": "NY Times"
-    },
-    {
       "name": "California",
-      "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/jul/09/california-universities-military-equipment",
-      "source": "The Guardian"
+      "count": 15,
+      "url": "https://www.latimes.com/california/story/2026-07-09/california-wolves-eat-much-more-cattle-than-wild-prey-study-finds",
+      "source": "LA Times"
     },
     {
       "name": "France",
-      "count": 13,
-      "url": "https://www.theguardian.com/music/2026/jul/09/bonnie-tyler-totally-eclipsed-her-power-ballad-peers",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Belgium",
-      "count": 11,
-      "url": "https://www.theguardian.com/football/2026/jul/09/christian-pulisic-injury-world-cup-usmnt",
+      "count": 12,
+      "url": "https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live",
       "source": "The Guardian"
     },
     {
       "name": "Spain",
-      "count": 11,
-      "url": "https://www.theguardian.com/football/2026/jul/09/there-is-a-magnificent-balance-how-spain-built-a-record-breaking-defence",
+      "count": 12,
+      "url": "https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live",
       "source": "The Guardian"
     },
     {
-      "name": "L.A. County",
+      "name": "London",
       "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-07-09/la-unified-budget-finances",
-      "source": "LA Times"
+      "url": "https://www.theguardian.com/us-news/2026/jul/09/san-francisco-airport-private-terminal",
+      "source": "The Guardian"
     },
     {
-      "name": "West Hollywood",
-      "count": 9,
-      "url": "https://www.latimes.com/travel/story/2026-07-08/immersive-dining-goes-high-tech-7-paintings",
-      "source": "LA Times"
+      "name": "Mexico",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/07/09/us/houston-ice-shooting-lorenzo-salgado-araujo.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/jul/09/wally-funk-astronaut-dies",
+      "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
-      "name": "Without Donald Trump",
-      "count": 28,
-      "url": "https://www.nytimes.com/2026/07/09/opinion/graham-platner-maine-democrats.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Graham Platner",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/07/09/us/politics/platner-maine-democrats-replacement-candidate.html",
-      "source": "NY Times"
+      "count": 46,
+      "url": "https://www.washingtonpost.com/nation/2026/07/09/graham-platners-coastal-maine-hometown-his-fall-is-personal/",
+      "source": "Washington Post"
     },
     {
-      "name": "Replace Platner",
+      "name": "Donald J. Trump",
       "count": 17,
-      "url": "https://www.nytimes.com/2026/07/09/upshot/platner-senate-replacements-history.html",
-      "source": "NY Times"
+      "url": "https://www.nbcnews.com/politics/donald-trump/palm-beach-international-airport-tennessee-bridge-renamed-rcna353784",
+      "source": "NBC News"
     },
     {
       "name": "Charlie Kirk",
@@ -150,15 +206,15 @@
       "source": "Washington Post"
     },
     {
-      "name": "Bonnie Tyler",
+      "name": "Donald Trump Jr.",
       "count": 12,
-      "url": "https://www.theguardian.com/music/2026/jul/09/bonnie-tyler-totally-eclipsed-her-power-ballad-peers",
-      "source": "The Guardian"
+      "url": "https://www.foxnews.com/media/donald-trump-jr-argues-charlie-kirk-murder-evidence-puts-conspiracy-theories-rest",
+      "source": "Fox News"
     },
     {
-      "name": "Caitlin Clark",
+      "name": "Lorenzo Salgado Araujo",
       "count": 9,
-      "url": "https://www.theguardian.com/sport/2026/jul/09/republicans-ask-wnba-to-protect-caitlin-clark-from-possible-racially-motivated-attacks",
+      "url": "https://www.theguardian.com/us-news/2026/jul/09/houston-man-killed-ice-agents",
       "source": "The Guardian"
     },
     {
@@ -168,85 +224,29 @@
       "source": "The Guardian"
     },
     {
-      "name": "Moana",
-      "count": 7,
-      "url": "https://www.theguardian.com/film/2026/jul/08/moana-review-live-action-dwayne-johnson-rock-catherine-lagaaia",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kylian Mbappé",
-      "count": 7,
-      "url": "https://www.latimes.com/sports/soccer/story/2026-07-07/kylian-mbappe-paraguay-senator-demands-apology-world-cup-france",
-      "source": "LA Times"
-    },
-    {
       "name": "Tyler James Robinson",
-      "count": 6,
+      "count": 7,
       "url": "https://www.washingtonpost.com/nation/2026/07/09/roommate-man-accused-killing-charlie-kirk-recounts-shooting-aftermath/",
       "source": "Washington Post"
+    },
+    {
+      "name": "Caitlin Clark",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/jul/09/republicans-ask-wnba-to-protect-caitlin-clark-from-possible-racially-motivated-attacks",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Bonnie Tyler",
+      "count": 6,
+      "url": "https://www.theguardian.com/music/2026/jul/09/bonnie-tyler-totally-eclipsed-her-power-ballad-peers",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tyler Robinson",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/jul/09/erika-charlie-kirk-transparency-judge",
+      "source": "The Guardian"
     }
   ],
-  "EVENT": [
-    {
-      "name": "The 2026 World Cup",
-      "count": 36,
-      "url": "https://www.theguardian.com/football/2026/jul/08/tell-us-do-you-support-a-national-football-team-that-you-have-no-link-to",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The World Cup",
-      "count": 11,
-      "url": "https://www.theguardian.com/football/2026/jul/09/christian-pulisic-injury-world-cup-usmnt",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Wimbledon",
-      "count": 3,
-      "url": "https://www.theguardian.com/sport/2026/jul/09/karolina-muchova-into-wimbledon-final-tie-break-defeat-coco-gauff-tennis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "This World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/jul/09/the-us-delivered-their-best-modern-world-cup-performance-and-also-let-themselves-down",
-      "source": "The Guardian"
-    },
-    {
-      "name": "La 2028 Olympics",
-      "count": 2,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-09/warner-bros-ranch-selected-for-media-base-during-los-angeles-olympics",
-      "source": "LA Times"
-    },
-    {
-      "name": "The New Year'S Eve",
-      "count": 2,
-      "url": "https://www.nbcnews.com/video/new-year-s-eve-ball-drops-in-times-square-for-america-s-250th-266164805781",
-      "source": "NBC News"
-    },
-    {
-      "name": "Club World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jul/09/us-fifa-talks-hosting-2029-club-world-cup",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Minutes",
-      "count": 1,
-      "url": "https://www.theguardian.com/uk-news/2026/jul/09/british-women-accused-us-airman-rape-american-military-trial",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Trojan War",
-      "count": 1,
-      "url": "https://www.theguardian.com/books/2026/jul/09/the-odyssey-by-homer-audiobook-review-a-truly-fantastic-journey",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The \"7 Paintings",
-      "count": 1,
-      "url": "https://www.latimes.com/travel/story/2026-07-08/immersive-dining-goes-high-tech-7-paintings",
-      "source": "LA Times"
-    }
-  ],
-  "updated": "2026-07-10T04:56:23Z"
+  "updated": "2026-07-10T10:26:02Z"
 };
