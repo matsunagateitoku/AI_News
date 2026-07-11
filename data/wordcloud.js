@@ -2,48 +2,43 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    89,
+    88,
     "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html"
   ],
   [
     "cup",
-    56,
+    62,
     "https://www.theguardian.com/football/2026/jul/11/america-world-cup-love-football"
   ],
   [
     "president",
-    37,
-    "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html"
-  ],
-  [
-    "platner",
-    30,
-    "https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html"
+    35,
+    "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html"
   ],
   [
     "fans",
-    26,
+    27,
     "https://www.theguardian.com/football/2026/jul/11/america-world-cup-love-football"
   ],
   [
     "iran",
-    24,
-    "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html"
+    23,
+    "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html"
   ],
   [
-    "maine",
+    "air",
+    22,
+    "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html"
+  ],
+  [
+    "platner",
     22,
     "https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html"
   ],
   [
-    "air",
+    "game",
     21,
-    "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html"
-  ],
-  [
-    "senate",
-    21,
-    "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html"
+    "https://www.theguardian.com/thefilter-us/2026/jul/11/best-grill-tools-tested-reviewed"
   ],
   [
     "administration",
@@ -51,164 +46,179 @@
     "https://www.theguardian.com/us-news/ng-interactive/2026/jul/11/inside-homeland-security-campaign-of-fear"
   ],
   [
-    "los",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/jul/11/ai-actor-tilly-norwood-movie"
-  ],
-  [
-    "law",
+    "country",
     20,
-    "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html"
+    "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html"
   ],
   [
-    "water",
+    "summer",
     20,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/11/trapped-at-sea-old-flame-coronavirus"
+    "https://www.theguardian.com/thefilter-us/2026/jul/11/best-grill-tools-tested-reviewed"
   ],
   [
-    "graham",
+    "ago",
     19,
-    "https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html"
+    "https://www.nytimes.com/2026/07/09/us/houston-ice-shooting-lorenzo-salgado-araujo.html"
   ],
   [
-    "climate",
+    "star",
     19,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/11/inside-homeland-security-campaign-of-fear"
+    "https://www.nytimes.com/2026/07/11/magazine/mick-jagger-interview.html"
   ],
   [
-    "something",
+    "york",
+    19,
+    "https://www.theguardian.com/us-news/2026/jul/11/justice-department-subpoenas-new-york-times-air-force-one"
+  ],
+  [
+    "ice",
     18,
-    "https://www.theguardian.com/news/2026/jul/11/the-race-to-develop-robotic-hands-memories-of-legendary-gigs-and-the-sea-as-medicine-for-the-brain"
+    "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html"
+  ],
+  [
+    "israeli",
+    18,
+    "https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html"
+  ],
+  [
+    "team",
+    18,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "guide",
     18,
-    "https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live"
-  ],
-  [
-    "game",
-    18,
-    "https://www.theguardian.com/sport/2026/jul/11/caitlin-clark-trump-wnba-doj-culture-war"
-  ],
-  [
-    "housing",
-    17,
-    "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html"
-  ],
-  [
-    "bill",
-    17,
-    "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html"
-  ],
-  [
-    "dead",
-    17,
-    "https://www.nytimes.com/2026/07/10/us/houston-ice-shooting-witnesses.html"
-  ],
-  [
-    "star",
-    17,
-    "https://www.nytimes.com/2026/07/11/magazine/mick-jagger-interview.html"
-  ],
-  [
-    "team",
-    17,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/thefilter-us/2026/jul/11/best-grill-tools-tested-reviewed"
   ],
   [
     "final",
-    17,
+    18,
     "https://www.theguardian.com/us-news/ng-interactive/2026/jul/11/inside-homeland-security-campaign-of-fear"
+  ],
+  [
+    "los",
+    18,
+    "https://www.theguardian.com/us-news/2026/jul/09/san-francisco-airport-private-terminal"
+  ],
+  [
+    "water",
+    18,
+    "https://www.theguardian.com/global-development/2026/jul/11/every-time-the-rain-falls-the-fear-comes-back-life-in-lagos-under-the-constant-threat-of-floods"
+  ],
+  [
+    "soccer",
+    17,
+    "https://www.nytimes.com/2026/07/11/us/houston-ice-shooting-vigil.html"
+  ],
+  [
+    "senate",
+    17,
+    "https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html"
+  ],
+  [
+    "fewer",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/jul/11/best-grill-tools-tested-reviewed"
+  ],
+  [
+    "something",
+    17,
+    "https://www.theguardian.com/news/2026/jul/11/the-race-to-develop-robotic-hands-memories-of-legendary-gigs-and-the-sea-as-medicine-for-the-brain"
   ],
   [
     "children",
     17,
-    "https://www.theguardian.com/us-news/2026/jul/11/missouri-flooding-airlift-rescue"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/08/ice-raided-their-city-thats-not-where-it-ends"
   ],
   [
-    "country",
+    "center",
     16,
-    "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html"
+    "https://www.nytimes.com/2026/07/11/arts/design/kennedy-center-trump-renovations.html"
   ],
   [
-    "war",
+    "love",
     16,
-    "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html"
+    "https://www.nytimes.com/2026/07/11/us/houston-ice-shooting-vigil.html"
   ],
   [
-    "early",
+    "death",
     16,
-    "https://www.nytimes.com/2026/07/10/nyregion/nyc-building-conversion-investigation.html"
+    "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html"
   ],
   [
-    "role",
+    "maine",
+    16,
+    "https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html"
+  ],
+  [
+    "west",
+    16,
+    "https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html"
+  ],
+  [
+    "start",
+    16,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "filter",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/jul/11/best-grill-tools-tested-reviewed"
+  ],
+  [
+    "album",
+    16,
+    "https://www.theguardian.com/music/2026/jul/11/lizzo-interview-answers-critics-accusations-fat-black-happy-girl-tear-me-down"
+  ],
+  [
+    "league",
     16,
     "https://www.theguardian.com/sport/2026/jul/11/caitlin-clark-trump-wnba-doj-culture-war"
   ],
   [
-    "ice",
-    15,
-    "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html"
+    "football",
+    16,
+    "https://www.theguardian.com/football/2026/jul/11/drenched-by-beer-england-fans-go-wild-for-the-world-cup-pint-toss-celebration"
   ],
   [
-    "tried",
-    15,
-    "https://www.nytimes.com/2026/07/10/us/houston-ice-shooting-witnesses.html"
+    "south",
+    16,
+    "https://www.theguardian.com/football/2026/jul/11/south-africa-world-cup-midfielder-jayden-adams-dies-aged-25"
   ],
   [
-    "book",
+    "court",
     15,
-    "https://www.nytimes.com/2026/07/10/books/kerri-greenidge-the-grimkes.html"
+    "https://www.nytimes.com/2026/07/11/us/elections/kansas-supreme-court-justices-election-abortion.html"
   ],
   [
-    "start",
+    "james",
     15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.washingtonpost.com/nation/2026/07/09/roommate-man-accused-killing-charlie-kirk-recounts-shooting-aftermath/"
   ],
   [
-    "released",
+    "buying",
     15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/thefilter-us/2026/jul/11/best-grill-tools-tested-reviewed"
   ],
   [
-    "love",
+    "fifa",
     15,
     "https://www.theguardian.com/football/2026/jul/11/america-world-cup-love-football"
   ],
   [
-    "ago",
+    "player",
     15,
-    "https://www.theguardian.com/music/2026/jul/11/lizzo-interview-answers-critics-accusations-fat-black-happy-girl-tear-me-down"
+    "https://www.theguardian.com/football/live/2026/jul/11/norway-v-england-world-cup-2026-quarter-final-live"
   ],
   [
-    "football",
-    15,
-    "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans"
+    "force",
+    14,
+    "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html"
   ],
   [
-    "fewer",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/11/we-know-fans-bleed-for-the-jersey-how-norway-used-fierce-football-rivalries-to-get-more-blood-donors"
-  ],
-  [
-    "food",
-    15,
-    "https://www.theguardian.com/football/2026/jul/11/the-ad-machine-how-david-beckham-conquered-america"
-  ],
-  [
-    "actor",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/jul/11/ai-actor-tilly-norwood-movie"
-  ],
-  [
-    "company",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/jul/11/ai-actor-tilly-norwood-movie"
-  ],
-  [
-    "filter",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jul/10/best-korean-skincare-brands-products"
+    "settlers",
+    14,
+    "https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html"
   ],
   [
     "democratic",
@@ -216,19 +226,19 @@
     "https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html"
   ],
   [
-    "york",
-    14,
-    "https://www.nytimes.com/2026/07/10/nyregion/nyc-building-conversion-investigation.html"
-  ],
-  [
-    "rock",
-    14,
-    "https://www.nytimes.com/2026/07/11/magazine/mick-jagger-interview.html"
-  ],
-  [
     "latest",
     14,
     "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "games",
+    14,
+    "https://www.theguardian.com/football/2026/jul/11/america-world-cup-love-football"
+  ],
+  [
+    "food",
+    14,
+    "https://www.theguardian.com/football/2026/jul/11/the-ad-machine-how-david-beckham-conquered-america"
   ],
   [
     "name",
@@ -236,44 +246,49 @@
     "https://www.theguardian.com/music/2026/jul/11/lizzo-interview-answers-critics-accusations-fat-black-happy-girl-tear-me-down"
   ],
   [
-    "england",
+    "career",
     14,
-    "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/11/inside-homeland-security-campaign-of-fear"
   ],
   [
-    "summer",
+    "experience",
     14,
-    "https://www.theguardian.com/politics/2026/jul/11/unstoppable-rise-of-count-binface-clacton-farage"
+    "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank"
+  ],
+  [
+    "california",
+    14,
+    "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank"
   ],
   [
     "police",
     14,
-    "https://www.theguardian.com/politics/2026/jul/11/ann-widdecombe-killed-24-hours-before-body-found"
+    "https://www.theguardian.com/us-news/2026/jul/09/california-universities-military-equipment"
   ],
   [
-    "buying",
+    "far",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/jul/10/best-korean-skincare-brands-products"
+    "https://www.theguardian.com/us-news/2026/jul/09/san-francisco-airport-private-terminal"
   ],
   [
-    "government",
-    13,
-    "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html"
+    "dead",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jul/11/is-mitch-mcconnell-dead"
   ],
   [
-    "american",
+    "israel",
     13,
-    "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html"
+    "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html"
   ],
   [
-    "bipartisan",
+    "graham",
     13,
-    "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html"
+    "https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html"
   ],
   [
-    "campaign",
+    "america",
     13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/07/11/opinion/trump-iran-ceasefire-mcconnell-platner.html"
   ],
   [
     "everything",
@@ -281,29 +296,69 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "games",
+    "released",
+    13,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "weekly",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jul/11/best-grill-tools-tested-reviewed"
+  ],
+  [
+    "record",
     13,
     "https://www.theguardian.com/football/2026/jul/11/america-world-cup-love-football"
   ],
   [
+    "black",
+    13,
+    "https://www.theguardian.com/music/2026/jul/11/lizzo-interview-answers-critics-accusations-fat-black-happy-girl-tear-me-down"
+  ],
+  [
+    "son",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/11/mississippi-nolan-wells-death"
+  ],
+  [
+    "harry",
+    13,
+    "https://www.theguardian.com/football/live/2026/jul/11/norway-v-england-world-cup-2026-quarter-final-live"
+  ],
+  [
     "players",
     13,
-    "https://www.theguardian.com/sport/2026/jul/11/caitlin-clark-trump-wnba-doj-culture-war"
+    "https://www.theguardian.com/football/live/2026/jul/11/norway-v-england-world-cup-2026-quarter-final-live"
   ],
   [
-    "league",
+    "hunter",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/11/hunter-biden-defamation-suit"
+  ],
+  [
+    "clark",
     13,
     "https://www.theguardian.com/sport/2026/jul/11/caitlin-clark-trump-wnba-doj-culture-war"
   ],
   [
-    "angeles",
+    "political",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jul/11/ai-actor-tilly-norwood-movie"
+    "https://www.theguardian.com/sport/2026/jul/11/caitlin-clark-trump-wnba-doj-culture-war"
   ],
   [
     "review",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jul/11/jailing-children-dickensian-delusion-england-wales"
+    "https://www.theguardian.com/music/2026/jul/11/jay-z-concert-review-new-york-city-reasonable-doubt"
+  ],
+  [
+    "company",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/11/ai-actor-tilly-norwood-movie"
+  ],
+  [
+    "book",
+    13,
+    "https://www.theguardian.com/film/2026/jul/10/the-batman-part-ii-rumours-harvey-dent-victor-zsasz-court-of-owls"
   ],
   [
     "music",
@@ -311,68 +366,13 @@
     "https://www.theguardian.com/film/2026/jul/10/kit-connor-joe-locke-interview-heartstoppers-forever-queer-teen-drama-netflix"
   ],
   [
-    "california",
-    13,
-    "https://www.latimes.com/business/story/2026-07-11/world-cup-fans-flock-to-in-n-out-erewhon-for-taste-of-california"
+    "government",
+    12,
+    "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html"
   ],
   [
-    "court",
+    "american",
     12,
-    "https://www.nytimes.com/2026/07/11/us/elections/kansas-supreme-court-justices-election-abortion.html"
-  ],
-  [
-    "immigration",
-    12,
-    "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html"
-  ],
-  [
-    "black",
-    12,
-    "https://www.theguardian.com/music/2026/jul/11/lizzo-interview-answers-critics-accusations-fat-black-happy-girl-tear-me-down"
-  ],
-  [
-    "always",
-    12,
-    "https://www.theguardian.com/music/2026/jul/11/lizzo-interview-answers-critics-accusations-fat-black-happy-girl-tear-me-down"
-  ],
-  [
-    "social",
-    12,
-    "https://www.theguardian.com/music/2026/jul/11/lizzo-interview-answers-critics-accusations-fat-black-happy-girl-tear-me-down"
-  ],
-  [
-    "little",
-    12,
-    "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans"
-  ],
-  [
-    "fan",
-    12,
-    "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans"
-  ],
-  [
-    "party",
-    12,
-    "https://www.theguardian.com/politics/2026/jul/11/unstoppable-rise-of-count-binface-clacton-farage"
-  ],
-  [
-    "americans",
-    12,
-    "https://www.theguardian.com/business/2026/jul/11/disability-ada-lawsuits-small-businesses"
-  ],
-  [
-    "political",
-    12,
-    "https://www.theguardian.com/sport/2026/jul/11/caitlin-clark-trump-wnba-doj-culture-war"
-  ],
-  [
-    "experience",
-    12,
-    "https://www.theguardian.com/us-news/2026/jul/11/graham-platner-democrats-maine-senate"
-  ],
-  [
-    "tilly",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/jul/11/ai-actor-tilly-norwood-movie"
+    "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html"
   ]
 ];
