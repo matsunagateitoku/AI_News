@@ -3,20 +3,14 @@
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 27,
+      "count": 33,
       "url": "https://www.theguardian.com/football/2026/jul/08/tell-us-do-you-support-a-national-football-team-that-you-have-no-link-to",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup Quarter",
       "count": 11,
-      "url": "https://www.theguardian.com/football/2026/jul/10/erling-haaland-england-norway-2026-world-cup-quarter-final-emma-hayes",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Wimbledon",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/jul/10/jannik-sinner-novak-djokovic-wimbledon-semi-final-tennis",
+      "url": "https://www.theguardian.com/football/2026/jul/11/thomas-tuchel-erling-haaland-england-norway-2026-world-cup-quarter-final",
       "source": "The Guardian"
     },
     {
@@ -26,27 +20,27 @@
       "source": "The Guardian"
     },
     {
+      "name": "Wimbledon",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/jul/10/jannik-sinner-novak-djokovic-wimbledon-semi-final-tennis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "La 2028 Olympics",
+      "count": 2,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-09/warner-bros-ranch-selected-for-media-base-during-los-angeles-olympics",
+      "source": "LA Times"
+    },
+    {
       "name": "The New Year'S Eve",
       "count": 2,
       "url": "https://www.nbcnews.com/video/new-year-s-eve-ball-drops-in-times-square-for-america-s-250th-266164805781",
       "source": "NBC News"
     },
     {
-      "name": "Iran Vie",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/07/10/business/iran-shipping-strait-of-hormuz.html",
-      "source": "NY Times"
-    },
-    {
       "name": "The World Cup’S",
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/jul/10/erling-haaland-most-viral-player-world-cup-norway",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Watergate",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/graham-platner-maine-suspension-video",
       "source": "The Guardian"
     },
     {
@@ -60,32 +54,106 @@
       "count": 1,
       "url": "https://www.theguardian.com/books/2026/jul/09/the-odyssey-by-homer-audiobook-review-a-truly-fantastic-journey",
       "source": "The Guardian"
+    },
+    {
+      "name": "Latin American Foto Festival",
+      "count": 1,
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jul/10/bronx-documentary-center-latin-american-foto-festival-gallery",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 51,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/10/nato-summit-trump-power",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 28,
+      "url": "https://www.theguardian.com/sport/2026/jul/10/chess-firouzja-wins-in-zagreb-as-carlsen-passes-15-year-milestone-at-the-top",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 27,
+      "url": "https://www.nytimes.com/2026/07/10/world/americas/mexico-criminal-complaints-immigration-deaths-usa.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Maine",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/07/10/us/platner-replacement-maine-biden-harris.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Spain",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/10/nato-summit-trump-power",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Norway",
+      "count": 10,
+      "url": "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Openai",
+      "count": 10,
+      "url": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Belgium",
+      "count": 8,
+      "url": "https://www.theguardian.com/football/2026/jul/10/spain-belgium-world-cup-2026-quarter-final-match-report",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 8,
+      "url": "https://www.latimes.com/california/story/2026-07-10/norcal-graduation-shooting-arrest-texas",
+      "source": "LA Times"
     }
   ],
   "PERSON": [
     {
       "name": "Graham Platner",
-      "count": 35,
-      "url": "https://www.washingtonpost.com/nation/2026/07/09/graham-platners-coastal-maine-hometown-his-fall-is-personal/",
-      "source": "Washington Post"
+      "count": 47,
+      "url": "https://www.nytimes.com/2026/07/10/nyregion/platner-katz-mamdani-dsa.html",
+      "source": "NY Times"
     },
     {
       "name": "Donald J Trump",
-      "count": 15,
+      "count": 21,
       "url": "https://www.theguardian.com/us-news/2026/jul/08/donald-trump-curse-sports-world-cup",
       "source": "The Guardian"
     },
     {
       "name": "Donald Trump",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/trump-accused-election-rig-federal-commissioners-fired",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/jul/10/housing-bill-becomes-law-without-trump-veto",
       "source": "The Guardian"
     },
     {
       "name": "Lorenzo Salgado Araujo",
-      "count": 10,
+      "count": 11,
       "url": "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Aprovechó Mikel Merino",
+      "count": 10,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/lo-mejor-del-dia-espana-y-su-victoria-de-ultimo-momento-tmvo13202643",
+      "source": "NBC News"
     },
     {
       "name": "Madonna",
@@ -94,104 +162,42 @@
       "source": "The Guardian"
     },
     {
-      "name": "Ann Widdecombe",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html",
+      "name": "Zohran Mamdani",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/07/10/nyregion/platner-katz-mamdani-dsa.html",
       "source": "NY Times"
     },
     {
       "name": "Caitlin Clark",
-      "count": 6,
+      "count": 7,
       "url": "https://www.theguardian.com/sport/2026/jul/09/republicans-ask-wnba-to-protect-caitlin-clark-from-possible-racially-motivated-attacks",
       "source": "The Guardian"
     },
     {
       "name": "Messi",
-      "count": 5,
+      "count": 6,
       "url": "https://www.theguardian.com/football/2026/jul/10/argentina-show-heart-flaws-apparent-swizerland-world-cup-quarter-final",
       "source": "The Guardian"
     },
     {
-      "name": "Zohran Mamdani",
+      "name": "Charlie Kirk",
       "count": 5,
-      "url": "https://www.foxnews.com/politics/mamdani-defends-controversial-nyc-map-omitting-iconic-little-italy-jewish-irish-neighborhoods",
-      "source": "Fox News"
-    },
-    {
-      "name": "Nathan Johnson",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/democrat-texas-ag-candidate-spacex-starlink-investigation",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 55,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/10/nato-summit-trump-power",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Maine",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/07/10/us/platner-replacement-maine-biden-harris.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-07-10/norcal-graduation-shooting-arrest-texas",
-      "source": "LA Times"
-    },
-    {
-      "name": "Spain",
-      "count": 11,
-      "url": "https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/texas-man-ice-immigration",
-      "source": "The Guardian"
-    },
-    {
-      "name": "England",
-      "count": 10,
-      "url": "https://www.theguardian.com/football/2026/jul/10/erling-haaland-england-norway-2026-world-cup-quarter-final-emma-hayes",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "France",
-      "count": 9,
-      "url": "https://www.theguardian.com/football/2026/jul/10/kylian-mbappe-france-world-cup-2026-semi-final",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
+      "url": "https://www.washingtonpost.com/nation/2026/07/09/roommate-man-accused-killing-charlie-kirk-recounts-shooting-aftermath/",
+      "source": "Washington Post"
     }
   ],
   "ORG": [
     {
       "name": "Trump Cuts Habitat Protections For Endangered Species",
-      "count": 42,
+      "count": 49,
       "url": "https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html",
       "source": "NY Times"
+    },
+    {
+      "name": "The Maine Senate",
+      "count": 21,
+      "url": "https://www.foxnews.com/media/maine-contender-replace-platner-grilled-response-public-health-crisis-dem-senator-opposing-run",
+      "source": "Fox News"
     },
     {
       "name": "The Filter Us",
@@ -200,53 +206,47 @@
       "source": "The Guardian"
     },
     {
-      "name": "Democratic Maine Senate",
-      "count": 14,
-      "url": "https://thehill.com/homenews/senate/5962847-shah-urged-to-drop-senate-bid/",
-      "source": "The Hill"
-    },
-    {
       "name": "Nato",
       "count": 12,
       "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Ai Institute",
+      "name": "Apple",
       "count": 12,
+      "url": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Un Partido Que Estaba Empatado",
+      "count": 9,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/lo-mejor-del-dia-espana-y-su-victoria-de-ultimo-momento-tmvo13202643",
+      "source": "NBC News"
+    },
+    {
+      "name": "Ice Killing Dispute The Official Account",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/07/10/briefing/ice-shooting-houston-trump-housing-bill.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ai Institute",
+      "count": 8,
       "url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
       "source": "LA Times"
     },
     {
-      "name": "The White House",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/07/09/us/politics/new-air-force-one-defensive-countermeasures.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Un Women",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/jul/10/one-million-women-without-humanitarian-support-un-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ice Killing",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Netflix &Quot;Little House",
+      "name": "Congress",
       "count": 7,
-      "url": "https://www.foxnews.com/media/beloved-little-house-prairie-faces-wagonload-woke-allegations-netflix-reboot",
-      "source": "Fox News"
+      "url": "https://www.nytimes.com/2026/07/10/opinion/executive-power-supreme-court-trump.html",
+      "source": "NY Times"
     },
     {
-      "name": "Sony Pictures",
-      "count": 6,
-      "url": "https://www.theguardian.com/film/2026/jul/10/letterboxd-netflix-sales-talks",
-      "source": "The Guardian"
+      "name": "Fifa",
+      "count": 7,
+      "url": "https://www.latimes.com/sports/soccer/story/2026-07-09/fifa-grass-nfl-stadiums-reignites-debate-over-artificial-turf",
+      "source": "LA Times"
     }
   ],
-  "updated": "2026-07-10T20:27:22Z"
+  "updated": "2026-07-11T04:16:34Z"
 };
