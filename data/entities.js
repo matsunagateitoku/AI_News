@@ -3,7 +3,7 @@
   "ORG": [
     {
       "name": "Trump White House",
-      "count": 46,
+      "count": 47,
       "url": "https://www.theguardian.com/us-news/2026/jul/11/justice-department-subpoenas-new-york-times-air-force-one",
       "source": "The Guardian"
     },
@@ -20,32 +20,26 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Los Angeles Times",
-      "count": 9,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-07-08/george-j-cotliar-dead-former-la-times-managing-editor-was-94",
-      "source": "LA Times"
-    },
-    {
       "name": "Muse Image Ai",
-      "count": 9,
+      "count": 11,
       "url": "https://thehill.com/policy/technology/5964282-privacy-concerns-instagram-ai/",
       "source": "The Hill"
     },
     {
+      "name": "The U.S. Senate",
+      "count": 9,
+      "url": "https://www.foxnews.com/politics/sen-lindsey-graham-dies-after-brief-sudden-illness-office-says",
+      "source": "Fox News"
+    },
+    {
       "name": "Guardian",
-      "count": 8,
+      "count": 7,
       "url": "https://www.theguardian.com/society/ng-interactive/2026/jul/11/spermageddon-world-facing-male-reproductive-crisis",
       "source": "The Guardian"
     },
     {
-      "name": "The Us Senate",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/jul/11/graham-platner-democrats-maine-senate",
-      "source": "The Guardian"
-    },
-    {
       "name": "Un",
-      "count": 6,
+      "count": 7,
       "url": "https://www.theguardian.com/world/2026/jul/11/europe-considers-proposals-navigational-fees-strait-of-hormuz-iran-us",
       "source": "The Guardian"
     },
@@ -56,85 +50,41 @@
       "source": "LA Times"
     },
     {
+      "name": "The Los Angeles Times",
+      "count": 6,
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-07-08/george-j-cotliar-dead-former-la-times-managing-editor-was-94",
+      "source": "LA Times"
+    },
+    {
       "name": "The World Santa Claus Congress",
       "count": 6,
       "url": "https://www.foxnews.com/lifestyle/christmas-july-hundreds-santas-march-middle-stifling-summer-heat-wave",
       "source": "Fox News"
     }
   ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 29,
-      "url": "https://www.theguardian.com/football/2026/jul/11/america-world-cup-love-football",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Graham Platner",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/graham-platner-maine-senate-officially-withdraws",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jude Bellingham",
-      "count": 11,
-      "url": "https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tilly Norwood",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/11/ai-actor-tilly-norwood-movie",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Madonna",
-      "count": 9,
-      "url": "https://www.theguardian.com/music/2026/jul/07/madonna-nostalgia-confessions-ii",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Su Similar De Noruega",
-      "count": 9,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/harry-kane-vs-noruega-camara-exclusiva-de-todas-sus-acciones-tmvo13202946",
-      "source": "NBC News"
-    },
-    {
-      "name": "Ro Khanna",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mitch Mcconnell",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/jul/11/mitch-mcconnell-senator-health",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Enlisting Clark",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/jul/11/caitlin-clark-trump-wnba-doj-culture-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Harry Kane",
-      "count": 7,
-      "url": "https://www.theguardian.com/football/2026/jul/11/england-world-cup-harry-kane-trump-golf",
-      "source": "The Guardian"
-    }
-  ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 54,
+      "count": 51,
       "url": "https://www.theguardian.com/football/2026/jul/08/tell-us-do-you-support-a-national-football-team-that-you-have-no-link-to",
       "source": "The Guardian"
     },
     {
-      "name": "The World Cup",
-      "count": 14,
-      "url": "https://www.theguardian.com/football/2026/jul/11/america-world-cup-love-football",
+      "name": "The World Cup Quarter-Final",
+      "count": 13,
+      "url": "https://www.theguardian.com/football/2026/jul/12/norway-ball-struck-cable-england-equaliser-stale-solbakken",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War  Economists",
+      "count": 4,
+      "url": "https://www.theguardian.com/business/2026/jul/12/super-el-nino-severe-shock-global-food-prices-lasting-into-2028-economists-warn",
+      "source": "The Guardian"
+    },
+    {
+      "name": "This World Cup",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/2026/jul/12/switzerland-argentina-world-cup-quarter-final-match-report",
       "source": "The Guardian"
     },
     {
@@ -156,6 +106,12 @@
       "source": "NBC News"
     },
     {
+      "name": "World Cup 2026",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live",
+      "source": "The Guardian"
+    },
+    {
       "name": "Wimbledon",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/jul/11/linda-noskova-karolina-muchova-wimbledon-tennis-womens-final",
@@ -166,32 +122,76 @@
       "count": 1,
       "url": "https://www.theguardian.com/books/2026/jul/09/the-odyssey-by-homer-audiobook-review-a-truly-fantastic-journey",
       "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 32,
+      "url": "https://www.theguardian.com/football/2026/jul/11/america-world-cup-love-football",
+      "source": "The Guardian"
     },
     {
-      "name": "This World Cup",
-      "count": 1,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-07-08/lionel-messi-argentina-world-cup-summer-crush",
-      "source": "LA Times"
+      "name": "Lindsey Graham",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
+      "source": "NY Times"
     },
     {
-      "name": "Super Bowl",
-      "count": 1,
-      "url": "https://www.foxnews.com/sports/khosla-family-reaches-deal-buy-super-bowl-champion-seahawks-nfl-record-price-report",
-      "source": "Fox News"
+      "name": "Tilly Norwood",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/11/ai-actor-tilly-norwood-movie",
+      "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
-      "count": 1,
-      "url": "https://thehill.com/homenews/sunday-talk-shows/5964166-trump-air-force-one-iran/",
-      "source": "The Hill"
+      "name": "Graham Platner",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/10/troy-jackson-maine-senate-candidate-populist",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jude Bellingham",
+      "count": 9,
+      "url": "https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Madonna",
+      "count": 9,
+      "url": "https://www.theguardian.com/music/2026/jul/07/madonna-nostalgia-confessions-ii",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ro Khanna",
+      "count": 8,
+      "url": "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mitch Mcconnell",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/jul/11/mitch-mcconnell-senator-health",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Enlisting Clark",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/jul/11/caitlin-clark-trump-wnba-doj-culture-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Dave Portnoy",
+      "count": 7,
+      "url": "https://www.cbsnews.com/news/dave-portnoy-wants-barstool-sports-to-be-like-saturday-night-live/",
+      "source": "CBS News"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 49,
-      "url": "https://www.theguardian.com/football/2026/jul/11/america-world-cup-love-football",
-      "source": "The Guardian"
+      "count": 52,
+      "url": "https://www.nytimes.com/2026/07/12/opinion/america-trump-nato-europe-world.html",
+      "source": "NY Times"
     },
     {
       "name": "Iran",
@@ -201,52 +201,52 @@
     },
     {
       "name": "U.S.",
-      "count": 28,
+      "count": 26,
       "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
       "source": "Wall St. Journal"
     },
     {
-      "name": "England",
-      "count": 23,
-      "url": "https://www.theguardian.com/football/live/2026/jul/11/argentina-v-switzerland-world-cup-2026-quarter-final-live",
-      "source": "The Guardian"
-    },
-    {
       "name": "Norway",
-      "count": 22,
-      "url": "https://www.theguardian.com/football/live/2026/jul/11/argentina-v-switzerland-world-cup-2026-quarter-final-live",
+      "count": 23,
+      "url": "https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report",
       "source": "The Guardian"
     },
     {
-      "name": "El Pase De Argentina",
-      "count": 16,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/scaloni-tras-el-pase-de-argentina-a-semifinal-da-igual-que-sea-inglaterra-o-sea-noruega-tmvo13202956",
+      "name": "England",
+      "count": 21,
+      "url": "https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report",
+      "source": "The Guardian"
+    },
+    {
+      "name": "El Esfuerzo De Argentina",
+      "count": 20,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/argentina-elimina-a-suiza-y-asi-reaccionaron-los-protagonistas-del-partido-tmvo13202988",
       "source": "NBC News"
     },
     {
-      "name": "Spain",
+      "name": "Switzerland",
       "count": 13,
-      "url": "https://www.theguardian.com/football/2026/jul/11/rudi-garcia-belgium-world-cup-thibaut-courtois-spain",
+      "url": "https://www.theguardian.com/football/2026/jul/12/switzerland-argentina-world-cup-quarter-final-match-report",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 12,
+      "count": 11,
       "url": "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank",
       "source": "The Guardian"
     },
     {
-      "name": "Toronto",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
+      "name": "America",
+      "count": 9,
+      "url": "https://www.theguardian.com/football/2026/jul/11/america-world-cup-love-football",
       "source": "The Guardian"
     },
     {
-      "name": "Missouri",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/jul/11/missouri-flooding-airlift-rescue",
-      "source": "The Guardian"
+      "name": "The West Bank",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-07-11/ro-khanna-detained-israeli-settlers-west-bank",
+      "source": "LA Times"
     }
   ],
-  "updated": "2026-07-12T04:27:28Z"
+  "updated": "2026-07-12T09:06:28Z"
 };
