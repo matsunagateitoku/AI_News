@@ -3,8 +3,14 @@
   "ORG": [
     {
       "name": "Trump White House",
-      "count": 47,
-      "url": "https://www.theguardian.com/us-news/2026/jul/11/justice-department-subpoenas-new-york-times-air-force-one",
+      "count": 40,
+      "url": "https://www.politico.com/live-updates/2026/07/10/world-cup-2026/no-olympic-peace-prize-ioc-fifa-balogate-00993493",
+      "source": "Politico"
+    },
+    {
+      "name": "The Us Senate",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/jul/11/graham-platner-democrats-maine-senate",
       "source": "The Guardian"
     },
     {
@@ -15,76 +21,70 @@
     },
     {
       "name": "Fifa",
-      "count": 14,
-      "url": "https://www.theguardian.com/football/2026/jul/11/america-world-cup-love-football",
+      "count": 11,
+      "url": "https://www.theguardian.com/football/2026/jul/12/switzerland-argentina-world-cup-var-mistaken-identity-red-card-breel-emobolo",
       "source": "The Guardian"
     },
     {
-      "name": "Muse Image Ai",
+      "name": "Ai Institute",
       "count": 11,
-      "url": "https://thehill.com/policy/technology/5964282-privacy-concerns-instagram-ai/",
-      "source": "The Hill"
-    },
-    {
-      "name": "The U.S. Senate",
-      "count": 9,
-      "url": "https://www.foxnews.com/politics/sen-lindsey-graham-dies-after-brief-sudden-illness-office-says",
-      "source": "Fox News"
+      "url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
+      "source": "LA Times"
     },
     {
       "name": "Guardian",
-      "count": 7,
-      "url": "https://www.theguardian.com/society/ng-interactive/2026/jul/11/spermageddon-world-facing-male-reproductive-crisis",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/flash-flooding-in-missouri-leaves-one-person-dead-as-200-campers-are-rescued",
       "source": "The Guardian"
     },
     {
       "name": "Un",
       "count": 7,
-      "url": "https://www.theguardian.com/world/2026/jul/11/europe-considers-proposals-navigational-fees-strait-of-hormuz-iran-us",
+      "url": "https://www.theguardian.com/world/2026/jul/12/eu-accused-dragging-its-feet-ban-trade-israeli-settlements",
       "source": "The Guardian"
     },
     {
       "name": "Nfl",
       "count": 6,
-      "url": "https://www.latimes.com/sports/soccer/story/2026-07-09/fifa-grass-nfl-stadiums-reignites-debate-over-artificial-turf",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/sports-analyst-matt-miller-charity-work-inquiry",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cbs News",
+      "count": 6,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-08/seth-doane-jim-axelrod-among-contenders-for-60-minutes-roles",
       "source": "LA Times"
     },
     {
-      "name": "The Los Angeles Times",
-      "count": 6,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-07-08/george-j-cotliar-dead-former-la-times-managing-editor-was-94",
-      "source": "LA Times"
-    },
-    {
-      "name": "The World Santa Claus Congress",
-      "count": 6,
-      "url": "https://www.foxnews.com/lifestyle/christmas-july-hundreds-santas-march-middle-stifling-summer-heat-wave",
-      "source": "Fox News"
+      "name": "Supreme Court",
+      "count": 5,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/12/stephen-miller-birthright-citizenship-arguments",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 51,
+      "count": 38,
       "url": "https://www.theguardian.com/football/2026/jul/08/tell-us-do-you-support-a-national-football-team-that-you-have-no-link-to",
       "source": "The Guardian"
     },
     {
-      "name": "The World Cup Quarter-Final",
+      "name": "The World Cup",
       "count": 13,
-      "url": "https://www.theguardian.com/football/2026/jul/12/norway-ball-struck-cable-england-equaliser-stale-solbakken",
+      "url": "https://www.theguardian.com/football/2026/jul/12/argentina-switzerland-england-world-cup-semi-final",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Wimbledon",
+      "count": 4,
+      "url": "https://www.theguardian.com/sport/live/2026/jul/12/wimbledon-tennis-jannik-sinner-alexander-zverev-mens-singles-final-live",
       "source": "The Guardian"
     },
     {
       "name": "The Iran War  Economists",
-      "count": 4,
+      "count": 3,
       "url": "https://www.theguardian.com/business/2026/jul/12/super-el-nino-severe-shock-global-food-prices-lasting-into-2028-economists-warn",
-      "source": "The Guardian"
-    },
-    {
-      "name": "This World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/jul/12/switzerland-argentina-world-cup-quarter-final-match-report",
       "source": "The Guardian"
     },
     {
@@ -106,147 +106,147 @@
       "source": "NBC News"
     },
     {
+      "name": "Iran War Exit",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "This World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/jul/12/switzerland-argentina-world-cup-quarter-final-match-report",
+      "source": "The Guardian"
+    },
+    {
       "name": "World Cup 2026",
       "count": 1,
       "url": "https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live",
       "source": "The Guardian"
-    },
-    {
-      "name": "Wimbledon",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/jul/11/linda-noskova-karolina-muchova-wimbledon-tennis-womens-final",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Trojan War",
-      "count": 1,
-      "url": "https://www.theguardian.com/books/2026/jul/09/the-odyssey-by-homer-audiobook-review-a-truly-fantastic-journey",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 32,
-      "url": "https://www.theguardian.com/football/2026/jul/11/america-world-cup-love-football",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Lindsey Graham",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Tilly Norwood",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/11/ai-actor-tilly-norwood-movie",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Graham Platner",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/10/troy-jackson-maine-senate-candidate-populist",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jude Bellingham",
-      "count": 9,
-      "url": "https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Madonna",
-      "count": 9,
-      "url": "https://www.theguardian.com/music/2026/jul/07/madonna-nostalgia-confessions-ii",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ro Khanna",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mitch Mcconnell",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/jul/11/mitch-mcconnell-senator-health",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Enlisting Clark",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/jul/11/caitlin-clark-trump-wnba-doj-culture-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dave Portnoy",
-      "count": 7,
-      "url": "https://www.cbsnews.com/news/dave-portnoy-wants-barstool-sports-to-be-like-saturday-night-live/",
-      "source": "CBS News"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 52,
-      "url": "https://www.nytimes.com/2026/07/12/opinion/america-trump-nato-europe-world.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 36,
-      "url": "https://www.theguardian.com/football/2026/jul/11/america-world-cup-love-football",
+      "count": 38,
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/carbon-sequestration-projects-oil-companies-subsidies",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 26,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Norway",
-      "count": 23,
-      "url": "https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "England",
-      "count": 21,
-      "url": "https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report",
-      "source": "The Guardian"
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
+      "source": "NY Times"
     },
     {
       "name": "El Esfuerzo De Argentina",
-      "count": 20,
+      "count": 22,
       "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/argentina-elimina-a-suiza-y-asi-reaccionaron-los-protagonistas-del-partido-tmvo13202988",
       "source": "NBC News"
     },
     {
-      "name": "Switzerland",
-      "count": 13,
-      "url": "https://www.theguardian.com/football/2026/jul/12/switzerland-argentina-world-cup-quarter-final-match-report",
+      "name": "Iran",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "England",
+      "count": 14,
+      "url": "https://www.theguardian.com/football/2026/jul/12/argentina-switzerland-england-world-cup-semi-final",
       "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank",
+      "name": "Norway",
+      "count": 13,
+      "url": "https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 12,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Switzerland",
+      "count": 12,
+      "url": "https://www.theguardian.com/football/2026/jul/12/argentina-switzerland-england-world-cup-semi-final",
       "source": "The Guardian"
     },
     {
       "name": "America",
-      "count": 9,
-      "url": "https://www.theguardian.com/football/2026/jul/11/america-world-cup-love-football",
+      "count": 11,
+      "url": "https://www.theguardian.com/sport/2026/jul/11/caitlin-clark-trump-wnba-doj-culture-war",
       "source": "The Guardian"
     },
     {
-      "name": "The West Bank",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-07-11/ro-khanna-detained-israeli-settlers-west-bank",
-      "source": "LA Times"
+      "name": "Missouri",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/flash-flooding-in-missouri-leaves-one-person-dead-as-200-campers-are-rescued",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-07-12T09:06:28Z"
+  "PERSON": [
+    {
+      "name": "Lindsey Graham",
+      "count": 51,
+      "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 24,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/12/stephen-miller-birthright-citizenship-arguments",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Graham Platner",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/12/graham-platner-political-outsiders",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gracie Abrams",
+      "count": 8,
+      "url": "https://www.cbsnews.com/news/gracie-abrams-daughter-from-hell/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Mcgregor",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/jul/12/conor-mcgregors-knee-injury-ufc-max-holloway",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kiara",
+      "count": 6,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/12/throuples-life-pain-pleasure-paranoia-best-sex-toy",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jude Bellingham",
+      "count": 6,
+      "url": "https://www.theguardian.com/football/2026/jul/12/cablegate-should-jude-bellingham-first-goal-against-norway-have-been-disallowed-england-world-cup-2026",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mary Hartman",
+      "count": 6,
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-07-07/louise-lasser-dead-star-of-mary-hartman-mary-hartman-was-87",
+      "source": "LA Times"
+    },
+    {
+      "name": "Christopher Nolan’S Odyssey",
+      "count": 5,
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/jul/12/christopher-nolan-odyssey-influence",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Harry Styles",
+      "count": 5,
+      "url": "https://www.theguardian.com/fashion/2026/jul/10/harry-styles-concert-fans-wearing-ties",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-07-12T14:27:30Z"
 };
