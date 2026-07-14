@@ -7,43 +7,53 @@
   ],
   [
     "cup",
-    53,
-    "https://www.theguardian.com/media/2026/jul/13/how-unbothered-victoria-beckham-became-one-of-the-world-cups-biggest-memes"
-  ],
-  [
-    "president",
-    44,
-    "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html"
+    56,
+    "https://www.theguardian.com/global/2026/jul/13/world-cup-semi-finals-england-argentina-france-spain"
   ],
   [
     "graham",
-    43,
-    "https://www.nytimes.com/2026/07/13/briefing/hormuz-fee-graham.html"
+    50,
+    "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-complications-gop-agenda.html"
+  ],
+  [
+    "president",
+    41,
+    "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html"
   ],
   [
     "lindsey",
-    35,
-    "https://www.nytimes.com/2026/07/13/briefing/hormuz-fee-graham.html"
+    38,
+    "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html"
+  ],
+  [
+    "water",
+    29,
+    "https://www.theguardian.com/environment/2026/jul/14/bali-water-resource-tourism-rice-fields"
+  ],
+  [
+    "death",
+    28,
+    "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-complications-gop-agenda.html"
   ],
   [
     "iran",
-    31,
+    27,
     "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html"
   ],
   [
     "south",
-    29,
+    25,
     "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html"
   ],
   [
     "senate",
-    26,
-    "https://www.nytimes.com/2026/07/13/briefing/hormuz-fee-graham.html"
+    24,
+    "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html"
   ],
   [
-    "neill",
-    25,
-    "https://www.washingtonpost.com/obituaries/2026/07/13/actor-sam-neill-dies-78/"
+    "family",
+    24,
+    "https://www.nytimes.com/2026/07/13/us/lorenzo-salgado-araujo-houston.html"
   ],
   [
     "team",
@@ -51,64 +61,44 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "final",
-    24,
-    "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-tribute-unselfish-gifted-star-jurassic-park-the-piano"
-  ],
-  [
-    "ice",
-    23,
-    "https://www.nytimes.com/2026/07/13/us/biddeford-maine-ice-shooting.html"
-  ],
-  [
-    "health",
-    23,
-    "https://www.nytimes.com/2026/07/13/well/eat/michigan-cyclospora-outbreak-lettuce-salad-greens.html"
-  ],
-  [
-    "death",
-    22,
-    "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-complications-gop-agenda.html"
-  ],
-  [
-    "family",
-    22,
-    "https://www.nytimes.com/2026/07/13/us/lorenzo-salgado-araujo-houston.html"
-  ],
-  [
     "killed",
     22,
     "https://www.nytimes.com/2026/07/13/us/lorenzo-salgado-araujo-houston.html"
   ],
   [
-    "sam",
+    "health",
     22,
-    "https://www.washingtonpost.com/obituaries/2026/07/13/actor-sam-neill-dies-78/"
+    "https://www.nytimes.com/2026/07/13/well/eat/michigan-cyclospora-outbreak-lettuce-salad-greens.html"
   ],
   [
-    "water",
-    22,
-    "https://www.theguardian.com/us-news/2026/jul/13/yampa-river-colorado-wild-rivers-us"
-  ],
-  [
-    "war",
+    "political",
     21,
-    "https://www.nytimes.com/2026/07/13/world/middleeast/lebanon-south-israel.html"
+    "https://www.nytimes.com/2026/07/13/us/politics/annie-andrews-south-carolina-senate.html"
   ],
   [
-    "american",
+    "maine",
     21,
-    "https://www.nytimes.com/2026/07/13/climate/trump-national-monuments-utah.html"
+    "https://www.nytimes.com/2026/07/13/us/biddeford-maine-ice-shooting.html"
   ],
   [
-    "game",
+    "final",
     21,
-    "https://www.theguardian.com/us-news/2026/jul/14/trump-tariffs-us-refunds"
+    "https://www.theguardian.com/film/2026/jul/14/sam-neill-remembered-lindsay-duncan-charles-dance-peter-webber"
+  ],
+  [
+    "love",
+    21,
+    "https://www.theguardian.com/music/2026/jul/12/gary-jarman-honest-playlist-bee-gees-jennifer-rush-righteous-brothers"
   ],
   [
     "sister",
     20,
-    "https://www.nytimes.com/2026/07/13/briefing/hormuz-fee-graham.html"
+    "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html"
+  ],
+  [
+    "ice",
+    20,
+    "https://www.nytimes.com/2026/07/13/us/biddeford-maine-ice-shooting.html"
   ],
   [
     "park",
@@ -116,29 +106,24 @@
     "https://www.nytimes.com/2026/07/12/us/yellowstone-bison-injures-tourist.html"
   ],
   [
-    "love",
+    "war",
     20,
-    "https://www.theguardian.com/wellness/2026/jul/13/how-to-do-the-splits"
-  ],
-  [
-    "political",
-    19,
-    "https://www.nytimes.com/2026/07/13/us/politics/annie-andrews-south-carolina-senate.html"
+    "https://www.nytimes.com/2026/07/14/opinion/ukraine-russia-patriots-drones.html"
   ],
   [
     "night",
-    19,
-    "https://www.theguardian.com/world/2026/jul/13/us-launches-third-night-of-strikes-on-iran-as-trump-announces-hormuz-blockade"
+    20,
+    "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news"
   ],
   [
-    "shot",
-    19,
-    "https://www.theguardian.com/us-news/2026/jul/13/maine-ice-shooting-death"
+    "game",
+    20,
+    "https://www.theguardian.com/global/2026/jul/13/world-cup-semi-finals-england-argentina-france-spain"
   ],
   [
-    "fans",
+    "states",
     19,
-    "https://www.theguardian.com/film/2026/jul/14/christopher-nolan-fans-are-embarking-on-epic-journeys-to-see-the-odyssey-the-way-he-wants-them-to"
+    "https://www.nytimes.com/2026/07/13/well/eat/michigan-cyclospora-outbreak-lettuce-salad-greens.html"
   ],
   [
     "games",
@@ -146,19 +131,19 @@
     "https://www.theguardian.com/global/2026/jul/13/world-cup-semi-finals-england-argentina-france-spain"
   ],
   [
-    "died",
+    "shot",
     18,
-    "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html"
+    "https://www.theguardian.com/us-news/2026/jul/13/maine-ice-shooting-death"
   ],
   [
-    "france",
+    "film",
     18,
-    "https://www.theguardian.com/world/2026/jul/14/ukraine-war-briefing-zelenskyy-seeks-300-patriots-to-get-through-winter"
+    "https://www.theguardian.com/film/2026/jul/14/they-fight-movie-review-boxing-drama"
   ],
   [
-    "england",
+    "fans",
     18,
-    "https://www.theguardian.com/media/2026/jul/13/how-unbothered-victoria-beckham-became-one-of-the-world-cups-biggest-memes"
+    "https://www.theguardian.com/film/2026/jul/14/christopher-nolan-fans-are-embarking-on-epic-journeys-to-see-the-odyssey-the-way-he-wants-them-to"
   ],
   [
     "carolina",
@@ -166,49 +151,44 @@
     "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html"
   ],
   [
-    "maine",
+    "died",
     17,
-    "https://www.nytimes.com/2026/07/13/us/biddeford-maine-ice-shooting.html"
+    "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html"
   ],
   [
-    "united",
-    17,
-    "https://www.nytimes.com/2026/07/13/well/eat/michigan-cyclospora-outbreak-lettuce-salad-greens.html"
-  ],
-  [
-    "states",
-    17,
-    "https://www.nytimes.com/2026/07/13/well/eat/michigan-cyclospora-outbreak-lettuce-salad-greens.html"
-  ],
-  [
-    "actor",
-    17,
-    "https://www.washingtonpost.com/obituaries/2026/07/13/actor-sam-neill-dies-78/"
-  ],
-  [
-    "early",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "york",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/jul/13/graham-platner-media"
-  ],
-  [
-    "lawsuit",
-    17,
-    "https://www.theguardian.com/media/2026/jul/13/gretchen-carlson-sexual-harassment-lawsuit"
-  ],
-  [
-    "latest",
+    "judge",
     16,
-    "https://www.nytimes.com/2026/07/13/briefing/hormuz-fee-graham.html"
+    "https://www.nytimes.com/2026/07/13/us/politics/trump-irs-suit.html"
   ],
   [
     "air",
     16,
     "https://www.nytimes.com/2026/07/12/us/yellowstone-bison-injures-tourist.html"
+  ],
+  [
+    "fire",
+    16,
+    "https://www.washingtonpost.com/nation/interactive/2026/07/12/california-school-district-wants-trees-removed-community-seeks-stop-it/"
+  ],
+  [
+    "police",
+    16,
+    "https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand"
+  ],
+  [
+    "review",
+    16,
+    "https://www.theguardian.com/film/2026/jul/14/they-fight-movie-review-boxing-drama"
+  ],
+  [
+    "france",
+    16,
+    "https://www.theguardian.com/global/2026/jul/13/world-cup-semi-finals-england-argentina-france-spain"
+  ],
+  [
+    "england",
+    16,
+    "https://www.theguardian.com/global/2026/jul/13/world-cup-semi-finals-england-argentina-france-spain"
   ],
   [
     "los",
@@ -221,59 +201,69 @@
     "https://www.theguardian.com/media/2026/jul/13/gretchen-carlson-sexual-harassment-lawsuit"
   ],
   [
-    "department",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/13/maine-ice-shooting-death"
-  ],
-  [
-    "film",
-    16,
-    "https://www.theguardian.com/film/2026/jul/13/tom-cruise-digger-trailer-transformation-alejandro-gonzalez-inarritu-film"
-  ],
-  [
     "sen",
     16,
     "https://www.latimes.com/politics/story/2026-07-12/lindsey-graham-cause-of-death-preliminary-report"
   ],
   [
-    "strikes",
+    "oil",
     15,
-    "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html"
+    "https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html"
   ],
   [
-    "judge",
+    "term",
     15,
-    "https://www.nytimes.com/2026/07/13/us/politics/trump-irs-suit.html"
+    "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html"
   ],
   [
-    "country",
+    "united",
     15,
-    "https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html"
+    "https://www.nytimes.com/2026/07/13/well/eat/michigan-cyclospora-outbreak-lettuce-salad-greens.html"
   ],
   [
-    "west",
+    "neill",
     15,
-    "https://www.theguardian.com/us-news/2026/jul/13/yampa-river-colorado-wild-rivers-us"
+    "https://www.washingtonpost.com/obituaries/2026/07/13/actor-sam-neill-dies-78/"
   ],
   [
-    "police",
+    "government",
     15,
-    "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s"
+    "https://www.theguardian.com/news/2026/jul/14/this-process-has-turned-into-a-form-of-torture-inside-the-trial-of-erdogans-challenger"
   ],
   [
-    "power",
+    "york",
     15,
-    "https://www.theguardian.com/world/2026/jul/14/ukraine-war-briefing-zelenskyy-seeks-300-patriots-to-get-through-winter"
+    "https://www.theguardian.com/commentisfree/2026/jul/13/graham-platner-media"
+  ],
+  [
+    "food",
+    15,
+    "https://www.theguardian.com/world/2026/jul/14/poland-ukraine-upa-second-world-war-massacre-dispute"
   ],
   [
     "don",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/jul/13/best-open-ear-earbuds"
+    "https://www.theguardian.com/travel/2026/jul/14/family-group-walking-holiday-exmoor"
   ],
   [
-    "term",
+    "graham's",
+    15,
+    "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham"
+  ],
+  [
+    "darline",
     14,
     "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html"
+  ],
+  [
+    "country",
+    14,
+    "https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html"
+  ],
+  [
+    "sam",
+    14,
+    "https://www.washingtonpost.com/obituaries/2026/07/13/actor-sam-neill-dies-78/"
   ],
   [
     "north",
@@ -281,34 +271,39 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "donald",
+    "early",
     14,
-    "https://www.theguardian.com/world/2026/jul/13/us-launches-third-night-of-strikes-on-iran-as-trump-announces-hormuz-blockade"
-  ],
-  [
-    "government",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/14/trump-tariffs-us-refunds"
-  ],
-  [
-    "heat",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/13/heat-dome-radio-signals-us-midwest"
-  ],
-  [
-    "guide",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jul/13/osprey-mira-daypack-hiking-backpack-review"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "sex",
     14,
-    "https://www.theguardian.com/film/2026/jul/13/ladies-first-sacha-baron-cohen-netflix-sexism"
+    "https://www.theguardian.com/lifeandstyle/2026/jul/14/summer-etiquette-47-essential-rules-from-sex-to-sunloungers-to-shopping-in-swimming-trunks"
   ],
   [
-    "graham's",
+    "ago",
     14,
-    "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham"
+    "https://www.theguardian.com/commentisfree/2026/jul/13/graham-platner-media"
+  ],
+  [
+    "donald",
+    14,
+    "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news"
+  ],
+  [
+    "department",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/13/maine-ice-shooting-death"
+  ],
+  [
+    "lawsuit",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/13/trump-irs-ruling-judge-kathleen-williams"
+  ],
+  [
+    "west",
+    14,
+    "https://www.theguardian.com/global-development/2026/jul/14/scottish-marine-scientists-ocean-board-trustees"
   ],
   [
     "espa",
@@ -316,49 +311,39 @@
     "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/fila-india-para-yamal-asi-celebro-espana-su-cumpleanos-en-el-entrenamiento-previo-a-la-semifinal-tmvo13203494"
   ],
   [
-    "movie",
+    "strikes",
     13,
-    "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-tribute-unselfish-gifted-star-jurassic-park-the-piano"
+    "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html"
   ],
   [
-    "ago",
+    "shooting",
+    13,
+    "https://www.nytimes.com/2026/07/13/us/biddeford-maine-ice-shooting.html"
+  ],
+  [
+    "latest",
+    13,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "really",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/14/summer-etiquette-47-essential-rules-from-sex-to-sunloungers-to-shopping-in-swimming-trunks"
+  ],
+  [
+    "social",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/14/summer-etiquette-47-essential-rules-from-sex-to-sunloungers-to-shopping-in-swimming-trunks"
+  ],
+  [
+    "media",
     13,
     "https://www.theguardian.com/commentisfree/2026/jul/13/graham-platner-media"
   ],
   [
-    "food",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/13/cyclospora-outbreak-parasite-explosive-diarrhea"
-  ],
-  [
-    "review",
-    13,
-    "https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai"
-  ],
-  [
     "spain",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/13/osprey-mira-daypack-hiking-backpack-review"
-  ],
-  [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/13/osprey-mira-daypack-hiking-backpack-review"
-  ],
-  [
-    "weekly",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/13/osprey-mira-daypack-hiking-backpack-review"
-  ],
-  [
-    "buying",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/13/osprey-mira-daypack-hiking-backpack-review"
-  ],
-  [
-    "fewer",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/13/osprey-mira-daypack-hiking-backpack-review"
+    "https://www.theguardian.com/global/2026/jul/13/world-cup-semi-finals-england-argentina-france-spain"
   ],
   [
     "football",
@@ -366,13 +351,28 @@
     "https://www.theguardian.com/football/2026/jul/13/knocking-you-out-was-a-huge-joy-reliving-the-dramas-of-england-v-argentina-in-1998-and-2002"
   ],
   [
-    "really",
+    "fifa",
     13,
-    "https://www.theguardian.com/film/2026/jul/13/labyrinth-feelgood-movie"
+    "https://www.latimes.com/sports/soccer/story/2026-07-13/world-cup-semifinals-schedule-watch-tv-previews-results"
   ],
   [
     "que",
     13,
     "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/yamal-se-ve-campeon-del-mundo-y-su-gran-deseo-de-cumpleanos-una-victoria-manana-e-ir-a-nueva-york-tmvo13203471"
+  ],
+  [
+    "nordone",
+    12,
+    "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html"
+  ],
+  [
+    "american",
+    12,
+    "https://www.nytimes.com/2026/07/13/climate/trump-national-monuments-utah.html"
+  ],
+  [
+    "million",
+    12,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ]
 ];
