@@ -3,38 +3,50 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 30,
+      "count": 36,
       "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
       "source": "The Guardian"
     },
     {
       "name": "Lindsey Graham",
-      "count": 27,
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/lindsey-graham-south-carolina-autobiography",
-      "source": "The Guardian"
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/graham-death-russia-sanctions-trump.html",
+      "source": "NY Times"
     },
     {
-      "name": "Sam Neill",
-      "count": 16,
-      "url": "https://www.washingtonpost.com/obituaries/2026/07/13/actor-sam-neill-dies-78/",
-      "source": "Washington Post"
+      "name": "Darline Graham Nordone",
+      "count": 14,
+      "url": "https://thehill.com/homenews/5967990-darline-nordone-lindsey-graham-senator-oath/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Amy Coney Barrett",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-takeaways.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Lamine Yamal",
+      "count": 9,
+      "url": "https://www.theguardian.com/football/2026/jul/14/lamine-yamal-birthday-spain-vs-france-world-cup-semi-final",
+      "source": "The Guardian"
     },
     {
       "name": "Messi",
       "count": 8,
-      "url": "https://www.theguardian.com/football/2026/jul/14/lionel-scaloni-messi-argentina-england-world-cup-hero",
+      "url": "https://www.theguardian.com/football/2026/jul/14/lionel-messis-first-meeting-with-england-will-be-a-contest-of-will-and-aura",
       "source": "The Guardian"
     },
     {
-      "name": "Amy Coney Barrett",
+      "name": "Sam Neill",
       "count": 7,
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/14/ice-shooting-maine-texas-trump-immigration-politics",
-      "source": "The Guardian"
+      "url": "https://www.washingtonpost.com/obituaries/2026/07/13/actor-sam-neill-dies-78/",
+      "source": "Washington Post"
     },
     {
-      "name": "Elena Kagan",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/14/ice-shooting-maine-texas-trump-immigration-politics",
+      "name": "Hormuz",
+      "count": 7,
+      "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
       "source": "The Guardian"
     },
     {
@@ -44,36 +56,92 @@
       "source": "The Guardian"
     },
     {
-      "name": "Todd Blanche",
+      "name": "Kathy Hochul",
       "count": 5,
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/todd-blanche-trump-enemies-emails.html",
+      "url": "https://www.nytimes.com/2026/07/14/nyregion/new-york-data-center-moratorium-hochul.html",
+      "source": "NY Times"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump White House",
+      "count": 66,
+      "url": "https://www.politico.com/live-updates/2026/07/10/world-cup-2026/no-olympic-peace-prize-ioc-fifa-balogate-00993493",
+      "source": "Politico"
+    },
+    {
+      "name": "The U.S. Senate",
+      "count": 27,
+      "url": "https://www.cbsnews.com/video/darline-graham-sworn-in-as-us-senator-replacing-late-brother/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The Us Congress",
+      "count": 12,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/14/todd-blanche-hearings",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/new-york-moratorium-ai-datacenters",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ice",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html",
       "source": "NY Times"
     },
     {
-      "name": "Mitch Mcconnell",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/07/14/arts/television/jon-stewart-mitch-mcconnell-recovery.html",
+      "name": "Supreme Court Security",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-takeaways.html",
       "source": "NY Times"
     },
     {
-      "name": "Sam Neill’S",
-      "count": 5,
-      "url": "https://www.theguardian.com/film/2026/jul/14/sam-neill-remembered-lindsay-duncan-charles-dance-peter-webber",
+      "name": "Fox News",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/ice-vehicle-stops-texas-maine-shootings",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fifa",
+      "count": 8,
+      "url": "https://www.theguardian.com/football/2026/jul/14/folarin-balogun-ban-usa-world-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian Us",
+      "count": 8,
+      "url": "https://www.theguardian.com/news/video/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 38,
+      "count": 43,
       "url": "https://www.theguardian.com/fashion/2026/jul/12/back-to-the-noughties-young-fashion-conscious-england-fans",
       "source": "The Guardian"
     },
     {
-      "name": "The World Cup    Signing",
-      "count": 17,
-      "url": "https://www.theguardian.com/football/2026/jul/14/manchester-city-set-sights-on-signing-morocco-ayyoub-bouaddi-85m-transfer-window",
+      "name": "The World Cup",
+      "count": 11,
+      "url": "https://www.theguardian.com/football/live/2026/jul/14/france-v-spain-world-cup-2026-semi-final-live",
       "source": "The Guardian"
+    },
+    {
+      "name": "La 2028 Olympics",
+      "count": 8,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-09/warner-bros-ranch-selected-for-media-base-during-los-angeles-olympics",
+      "source": "LA Times"
     },
     {
       "name": "Wimbledon",
@@ -82,16 +150,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Iran War Sparks New Price Surge",
+      "name": "This World Cup",
       "count": 2,
-      "url": "https://www.nytimes.com/2026/07/14/business/economy/inflation-data-iran-war-price-surge.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "La 2028 Olympics",
-      "count": 2,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-09/warner-bros-ranch-selected-for-media-base-during-los-angeles-olympics",
-      "source": "LA Times"
+      "url": "https://www.theguardian.com/football/2026/jul/14/diego-maradona-argentina-world-cup",
+      "source": "The Guardian"
     },
     {
       "name": "The New Year'S Eve",
@@ -100,153 +162,91 @@
       "source": "NBC News"
     },
     {
-      "name": "Bastille Day",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "World Cup 2026",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live",
-      "source": "The Guardian"
-    },
-    {
       "name": "France World Cup",
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/jul/14/lamine-yamal-birthday-spain-vs-france-world-cup-semi-final",
       "source": "The Guardian"
     },
     {
-      "name": "Spanish Pm’S",
+      "name": "Scottish Open    Something",
       "count": 1,
-      "url": "https://www.theguardian.com/world/2026/jul/14/spanish-pm-brother-david-sanchez-banned-public-office-misconduct",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump White House",
-      "count": 46,
-      "url": "https://www.politico.com/live-updates/2026/07/10/world-cup-2026/no-olympic-peace-prize-ioc-fifa-balogate-00993493",
-      "source": "Politico"
-    },
-    {
-      "name": "Ai    Continue",
-      "count": 14,
-      "url": "https://www.theguardian.com/technology/2026/jul/13/uk-catch-up-global-ai-race-risks",
+      "url": "https://www.theguardian.com/sport/2026/jul/14/were-all-going-to-die-scottie-scheffler-keeps-things-in-perspective-before-open-defence",
       "source": "The Guardian"
     },
     {
-      "name": "The Supreme Court",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/federal-officials-fired-by-trump-supreme-court-ruling",
+      "name": "The Open Championship",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jul/14/were-all-going-to-die-scottie-scheffler-keeps-things-in-perspective-before-open-defence",
       "source": "The Guardian"
     },
     {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "name": "The Scottish Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jul/14/were-all-going-to-die-scottie-scheffler-keeps-things-in-perspective-before-open-defence",
       "source": "The Guardian"
-    },
-    {
-      "name": "Guardian",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/14/ice-shooting-maine-texas-trump-immigration-politics",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Senate Judiciary Committee",
-      "count": 9,
-      "url": "https://www.foxnews.com/opinion/mike-davis-why-senate-must-ignore-obama-judge-attack-ag-nominee-todd-blanche",
-      "source": "Fox News"
-    },
-    {
-      "name": "Ice",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "The Us Congress",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/14/todd-blanche-hearings",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Fifa",
-      "count": 7,
-      "url": "https://www.cbsnews.com/news/folarin-balogun-fifa-red-card-suspension-world-cup/",
-      "source": "CBS News"
-    },
-    {
-      "name": "House Appropriations",
-      "count": 7,
-      "url": "https://thehill.com/video-clips/5967102-justices-outline-2027-budget/",
-      "source": "The Hill"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 56,
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/misuse-crowd-control-weapons-ice-protesters-blindings-traumatic-brain-injuries-report",
+      "count": 57,
+      "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 31,
-      "url": "https://www.nytimes.com/2026/07/14/business/economy/inflation-data-iran-war-price-surge.html",
+      "count": 29,
+      "url": "https://www.nytimes.com/2026/07/14/business/trump-strait-of-hormuz.html",
       "source": "NY Times"
     },
     {
       "name": "Iran",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/07/14/business/economy/inflation-cpi.html",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html",
       "source": "NY Times"
     },
     {
       "name": "Spain",
-      "count": 18,
-      "url": "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live",
+      "count": 20,
+      "url": "https://www.theguardian.com/football/live/2026/jul/14/france-v-spain-world-cup-2026-semi-final-live",
       "source": "The Guardian"
     },
     {
       "name": "France",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New England",
-      "count": 14,
-      "url": "https://www.theguardian.com/music/2026/jul/14/readers-favourite-albums-of-2026-so-far-from-muna-to-raye-and-j-cole",
+      "count": 18,
+      "url": "https://www.theguardian.com/football/live/2026/jul/14/france-v-spain-world-cup-2026-semi-final-live",
       "source": "The Guardian"
     },
     {
-      "name": "Israel",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
       "name": "Mexico",
-      "count": 12,
+      "count": 15,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Argentina",
-      "count": 12,
-      "url": "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live",
+      "name": "New England",
+      "count": 15,
+      "url": "https://www.theguardian.com/music/2026/jul/14/readers-favourite-albums-of-2026-so-far-from-muna-to-raye-and-j-cole",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 14,
+      "url": "https://www.theguardian.com/environment/2026/jul/14/california-sharks-el-nino",
       "source": "The Guardian"
     },
     {
       "name": "Maine",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/07/13/us/ice-shooting-maine-guerrero.html",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html",
       "source": "NY Times"
+    },
+    {
+      "name": "New York City’S",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/sully-sullenberger-alzheimers-diagnosis",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-07-14T14:56:48Z"
+  "updated": "2026-07-14T20:16:12Z"
 };

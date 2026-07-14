@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    80,
-    "https://www.nytimes.com/2026/07/14/podcasts/the-headlines/trump-strait-of-hormuz-russia-japan-ukraine-war-space-sugar.html"
+    94,
+    "https://www.nytimes.com/2026/07/14/business/trump-strait-of-hormuz.html"
   ],
   [
     "cup",
-    58,
-    "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live"
-  ],
-  [
-    "final",
-    32,
-    "https://www.theguardian.com/film/2026/jul/14/sam-neill-remembered-lindsay-duncan-charles-dance-peter-webber"
+    57,
+    "https://www.theguardian.com/football/live/2026/jul/14/france-v-spain-world-cup-2026-semi-final-live"
   ],
   [
     "graham",
-    29,
-    "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-complications-gop-agenda.html"
+    50,
+    "https://www.nytimes.com/2026/07/14/us/politics/graham-death-russia-sanctions-trump.html"
+  ],
+  [
+    "final",
+    37,
+    "https://www.theguardian.com/football/live/2026/jul/14/france-v-spain-world-cup-2026-semi-final-live"
   ],
   [
     "president",
-    27,
-    "https://www.nytimes.com/2026/07/14/world/middleeast/trump-iran-strait-hormuz-toll-oil.html"
+    32,
+    "https://www.nytimes.com/2026/07/14/business/trump-strait-of-hormuz.html"
+  ],
+  [
+    "lindsey",
+    32,
+    "https://www.nytimes.com/2026/07/14/us/politics/graham-death-russia-sanctions-trump.html"
+  ],
+  [
+    "senate",
+    29,
+    "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html"
   ],
   [
     "water",
-    27,
+    28,
     "https://www.theguardian.com/science/ng-interactive/2026/jul/14/human-hibernation-space-mars"
   ],
   [
-    "death",
+    "iran",
     26,
-    "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-complications-gop-agenda.html"
+    "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html"
   ],
   [
     "star",
-    24,
-    "https://www.theguardian.com/film/2026/jul/14/sam-neill-remembered-lindsay-duncan-charles-dance-peter-webber"
+    26,
+    "https://www.theguardian.com/music/2026/jul/14/dua-lipa-calls-albanian-protests-against-jared-kushner-backed-resort-inspiring"
   ],
   [
-    "neill",
+    "bill",
     23,
-    "https://www.washingtonpost.com/obituaries/2026/07/13/actor-sam-neill-dies-78/"
-  ],
-  [
-    "iran",
-    21,
-    "https://www.nytimes.com/2026/07/14/business/economy/inflation-cpi.html"
-  ],
-  [
-    "oil",
-    21,
-    "https://www.nytimes.com/2026/07/14/business/oil-prices-iran-war.html"
-  ],
-  [
-    "sam",
-    21,
-    "https://www.washingtonpost.com/obituaries/2026/07/13/actor-sam-neill-dies-78/"
+    "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html"
   ],
   [
     "court",
+    23,
+    "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-takeaways.html"
+  ],
+  [
+    "death",
+    22,
+    "https://www.nytimes.com/2026/07/14/us/politics/graham-death-russia-sanctions-trump.html"
+  ],
+  [
+    "game",
+    22,
+    "https://www.theguardian.com/football/2026/jul/14/diego-maradona-argentina-world-cup"
+  ],
+  [
+    "hormuz",
     21,
-    "https://www.theguardian.com/us-news/2026/jul/14/federal-officials-fired-by-trump-supreme-court-ruling"
+    "https://www.nytimes.com/2026/07/14/business/trump-strait-of-hormuz.html"
   ],
   [
-    "american",
-    20,
-    "https://www.nytimes.com/2026/07/14/books/review/catcher-in-the-rye-75th-anniversary-salinger.html"
+    "ice",
+    21,
+    "https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html"
   ],
   [
-    "political",
-    20,
-    "https://www.washingtonpost.com/obituaries/2026/07/13/pat-oliphant-pulitzer-winning-giant-political-cartooning-has-died/"
+    "france",
+    21,
+    "https://www.theguardian.com/football/live/2026/jul/14/france-v-spain-world-cup-2026-semi-final-live"
   ],
   [
-    "south",
-    20,
-    "https://www.theguardian.com/us-news/2026/jul/14/lindsey-graham-south-carolina-autobiography"
+    "family",
+    21,
+    "https://www.theguardian.com/music/2026/jul/14/dua-lipa-calls-albanian-protests-against-jared-kushner-backed-resort-inspiring"
   ],
   [
-    "love",
+    "spain",
     20,
-    "https://www.theguardian.com/sport/2026/jul/14/mlb-storylines-all-star-break-mets-white-sox-yankees-rays"
+    "https://www.theguardian.com/football/live/2026/jul/14/france-v-spain-world-cup-2026-semi-final-live"
+  ],
+  [
+    "strait",
+    19,
+    "https://www.nytimes.com/2026/07/14/business/trump-strait-of-hormuz.html"
   ],
   [
     "war",
     19,
-    "https://www.nytimes.com/2026/07/14/business/economy/inflation-cpi.html"
+    "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html"
   ],
   [
-    "country",
+    "senator",
     19,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "lindsey",
-    19,
-    "https://www.theguardian.com/us-news/2026/jul/14/lindsey-graham-south-carolina-autobiography"
-  ],
-  [
-    "game",
-    19,
-    "https://www.theguardian.com/global/2026/jul/13/world-cup-semi-finals-england-argentina-france-spain"
-  ],
-  [
-    "fans",
-    19,
-    "https://www.theguardian.com/football/2026/jul/14/norway-world-cup-heartbreak-celebration-fans-oslo"
-  ],
-  [
-    "ice",
-    18,
-    "https://www.nytimes.com/2026/07/13/us/ice-shooting-maine-guerrero.html"
-  ],
-  [
-    "france",
-    18,
-    "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html"
-  ],
-  [
-    "team",
-    18,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "police",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/jul/14/lorenzo-salgado-araujo-ice"
-  ],
-  [
-    "family",
-    18,
-    "https://www.theguardian.com/business/2026/jul/14/ryanair-passenger-sucked-through-window-flight"
+    "https://www.nytimes.com/2026/07/14/us/politics/graham-death-russia-sanctions-trump.html"
   ],
   [
     "york",
-    17,
-    "https://www.nytimes.com/2026/07/14/nyregion/new-york-data-center-moratorium-hochul.html"
+    19,
+    "https://www.nytimes.com/2026/07/14/nyregion/nyc-specialized-schools-black-hispanic.html"
   ],
   [
-    "west",
-    17,
-    "https://www.nytimes.com/2026/07/14/science/texas-astronomy-dark-sky-border.html"
+    "love",
+    19,
+    "https://www.theguardian.com/football/2026/jul/14/lionel-messis-first-meeting-with-england-will-be-a-contest-of-will-and-aura"
   ],
   [
-    "actor",
-    17,
-    "https://www.washingtonpost.com/obituaries/2026/07/13/actor-sam-neill-dies-78/"
+    "food",
+    18,
+    "https://www.theguardian.com/science/ng-interactive/2026/jul/14/human-hibernation-space-mars"
   ],
   [
-    "spain",
+    "south",
     17,
-    "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live"
+    "https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html"
   ],
   [
-    "full",
+    "late",
     17,
-    "https://www.theguardian.com/us-news/2026/jul/14/house-committee-advances-daylight-saving-time-bill"
+    "https://www.theguardian.com/wellness/2026/jul/14/anti-ageing-science-longevity-culture"
   ],
   [
-    "games",
+    "don",
     17,
-    "https://www.theguardian.com/global/2026/jul/13/world-cup-semi-finals-england-argentina-france-spain"
+    "https://www.theguardian.com/wellness/2026/jul/14/anti-ageing-science-longevity-culture"
   ],
   [
     "los",
     17,
-    "https://www.theguardian.com/wellness/2026/jul/13/how-to-do-the-splits"
+    "https://www.theguardian.com/culture/2026/jul/14/yoko-ono-cut-piece-the-broad-los-angeles"
   ],
   [
-    "food",
-    16,
-    "https://www.theguardian.com/science/ng-interactive/2026/jul/14/human-hibernation-space-mars"
-  ],
-  [
-    "don",
-    16,
-    "https://www.theguardian.com/science/ng-interactive/2026/jul/14/human-hibernation-space-mars"
-  ],
-  [
-    "film",
-    16,
-    "https://www.theguardian.com/film/2026/jul/14/they-fight-movie-review-boxing-drama"
-  ],
-  [
-    "department",
-    16,
-    "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live"
-  ],
-  [
-    "hormuz",
-    15,
-    "https://www.nytimes.com/2026/07/14/podcasts/the-headlines/trump-strait-of-hormuz-russia-japan-ukraine-war-space-sugar.html"
-  ],
-  [
-    "international",
-    15,
-    "https://www.nytimes.com/2026/07/14/business/oil-prices-iran-war.html"
-  ],
-  [
-    "again",
-    15,
-    "https://www.nytimes.com/2026/07/14/well/appalachian-trail-hiking-record-grey-beard.html"
-  ],
-  [
-    "trade",
-    15,
-    "https://www.theguardian.com/film/2026/jul/14/they-fight-movie-review-boxing-drama"
-  ],
-  [
-    "semi",
-    15,
-    "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live"
+    "young",
+    17,
+    "https://www.theguardian.com/culture/2026/jul/14/yoko-ono-cut-piece-the-broad-los-angeles"
   ],
   [
     "security",
+    16,
+    "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-takeaways.html"
+  ],
+  [
+    "actor",
+    16,
+    "https://www.washingtonpost.com/obituaries/2026/07/13/actor-sam-neill-dies-78/"
+  ],
+  [
+    "summer",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/14/summer-etiquette-47-essential-rules-from-sex-to-sunloungers-to-shopping-in-swimming-trunks"
+  ],
+  [
+    "donald",
+    16,
+    "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news"
+  ],
+  [
+    "american",
+    16,
+    "https://www.theguardian.com/football/2026/jul/14/lionel-messis-first-meeting-with-england-will-be-a-contest-of-will-and-aura"
+  ],
+  [
+    "million",
     15,
-    "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live"
+    "https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html"
+  ],
+  [
+    "country",
+    15,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "england",
     15,
-    "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live"
+    "https://www.theguardian.com/football/2026/jul/14/diego-maradona-argentina-world-cup"
   ],
   [
-    "senate",
+    "social",
     15,
-    "https://www.theguardian.com/us-news/2026/jul/13/who-is-darline-graham-nordone-lindsey-graham"
-  ],
-  [
-    "inflation",
-    14,
-    "https://www.nytimes.com/2026/07/14/business/economy/inflation-cpi.html"
-  ],
-  [
-    "strait",
-    14,
-    "https://www.nytimes.com/2026/07/14/podcasts/the-headlines/trump-strait-of-hormuz-russia-japan-ukraine-war-space-sugar.html"
-  ],
-  [
-    "space",
-    14,
-    "https://www.nytimes.com/2026/07/14/podcasts/the-headlines/trump-strait-of-hormuz-russia-japan-ukraine-war-space-sugar.html"
-  ],
-  [
-    "states",
-    14,
-    "https://www.nytimes.com/2026/07/14/us/politics/republican-supermajority-iowa-ohio.html"
-  ],
-  [
-    "fire",
-    14,
-    "https://www.nytimes.com/2026/07/14/world/europe/ukraine-fire-point-patriot-missiles.html"
-  ],
-  [
-    "park",
-    14,
-    "https://www.washingtonpost.com/obituaries/2026/07/13/actor-sam-neill-dies-78/"
-  ],
-  [
-    "latest",
-    14,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "health",
-    14,
-    "https://www.theguardian.com/science/ng-interactive/2026/jul/14/human-hibernation-space-mars"
-  ],
-  [
-    "summer",
-    14,
     "https://www.theguardian.com/lifeandstyle/2026/jul/14/summer-etiquette-47-essential-rules-from-sex-to-sunloungers-to-shopping-in-swimming-trunks"
+  ],
+  [
+    "darline",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/14/darline-graham-nordone-south-carolina-senator"
+  ],
+  [
+    "sworn",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/14/darline-graham-nordone-south-carolina-senator"
+  ],
+  [
+    "full",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/14/house-committee-advances-daylight-saving-time-bill"
+  ],
+  [
+    "died",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/14/graham-mcconnell-conspiracy-theories"
+  ],
+  [
+    "cut",
+    15,
+    "https://www.theguardian.com/culture/2026/jul/14/yoko-ono-cut-piece-the-broad-los-angeles"
+  ],
+  [
+    "leave",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/jul/14/what-to-bring-stadium-guide"
+  ],
+  [
+    "political",
+    14,
+    "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html"
+  ],
+  [
+    "term",
+    14,
+    "https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html"
   ],
   [
     "review",
     14,
-    "https://www.theguardian.com/film/2026/jul/14/they-fight-movie-review-boxing-drama"
+    "https://www.nytimes.com/2026/07/14/dining/restaurant-review-ambassadors-clubhouse-nyc.html"
   ],
   [
-    "career",
+    "early",
     14,
-    "https://www.theguardian.com/film/2026/jul/14/they-fight-movie-review-boxing-drama"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "far",
+    "mexico",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/14/misuse-crowd-control-weapons-ice-protesters-blindings-traumatic-brain-injuries-report"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news"
-  ],
-  [
-    "football",
-    14,
-    "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live"
-  ],
-  [
-    "became",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/14/new-york-moratorium-ai-datacenters"
-  ],
-  [
-    "ago",
-    14,
-    "https://www.theguardian.com/environment/2026/jul/14/bali-water-resource-tourism-rice-fields"
-  ],
-  [
-    "hard",
-    14,
-    "https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand"
-  ],
-  [
-    "espa",
-    14,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/fila-india-para-yamal-asi-celebro-espana-su-cumpleanos-en-el-entrenamiento-previo-a-la-semifinal-tmvo13203494"
-  ],
-  [
-    "price",
-    13,
-    "https://www.nytimes.com/2026/07/14/business/economy/inflation-cpi.html"
-  ],
-  [
-    "administration",
-    13,
-    "https://www.nytimes.com/2026/07/14/world/middleeast/trump-iran-strait-hormuz-toll-oil.html"
-  ],
-  [
-    "growing",
-    13,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "past",
-    13,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "government",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jul/14/lorenzo-salgado-araujo-ice"
-  ],
-  [
-    "young",
-    13,
-    "https://www.theguardian.com/film/2026/jul/14/they-fight-movie-review-boxing-drama"
-  ],
-  [
-    "supreme",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/14/federal-officials-fired-by-trump-supreme-court-ruling"
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
     "guide",
-    13,
-    "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live"
+    14,
+    "https://www.theguardian.com/football/live/2026/jul/14/france-v-spain-world-cup-2026-semi-final-live"
   ],
   [
-    "expected",
+    "california",
+    14,
+    "https://www.theguardian.com/environment/2026/jul/14/california-sharks-el-nino"
+  ],
+  [
+    "maine",
     13,
-    "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live"
+    "https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html"
+  ],
+  [
+    "case",
+    13,
+    "https://www.nytimes.com/2026/07/14/nyregion/carroll-trump-settlement-million.html"
+  ],
+  [
+    "stop",
+    13,
+    "https://www.theguardian.com/wellness/2026/jul/14/anti-ageing-science-longevity-culture"
+  ],
+  [
+    "stadium",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jul/14/what-to-bring-stadium-guide"
   ],
   [
     "que",
     13,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/yamal-se-ve-campeon-del-mundo-y-su-gran-deseo-de-cumpleanos-una-victoria-manana-e-ir-a-nueva-york-tmvo13203471"
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/espana-pone-el-primero-y-la-hinchada-hace-vibrar-todo-texas-con-el-gol-de-oyarzabal-tmvo13203731"
   ],
   [
-    "prices",
+    "democrats",
     12,
-    "https://www.nytimes.com/2026/07/14/business/economy/inflation-cpi.html"
+    "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html"
+  ],
+  [
+    "defense",
+    12,
+    "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html"
+  ],
+  [
+    "support",
+    12,
+    "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html"
+  ],
+  [
+    "role",
+    12,
+    "https://www.nytimes.com/2026/07/14/us/politics/todd-blanche-trump-enemies-emails.html"
+  ],
+  [
+    "carroll",
+    12,
+    "https://www.nytimes.com/2026/07/14/nyregion/carroll-trump-settlement-million.html"
+  ],
+  [
+    "congress",
+    12,
+    "https://www.nytimes.com/2026/07/14/climate/roger-worthington-portland-oil-industry-lawyer.html"
+  ],
+  [
+    "fight",
+    12,
+    "https://www.nytimes.com/2026/07/14/opinion/ukraine-russia-patriots-drones.html"
+  ],
+  [
+    "neill",
+    12,
+    "https://www.washingtonpost.com/obituaries/2026/07/13/actor-sam-neill-dies-78/"
+  ],
+  [
+    "park",
+    12,
+    "https://www.washingtonpost.com/obituaries/2026/07/13/actor-sam-neill-dies-78/"
+  ],
+  [
+    "military",
+    12,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "released",
+    12,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "team",
+    12,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "ago",
+    12,
+    "https://www.theguardian.com/football/live/2026/jul/14/france-v-spain-world-cup-2026-semi-final-live"
+  ],
+  [
+    "united",
+    12,
+    "https://www.theguardian.com/environment/2026/jul/14/california-sharks-el-nino"
+  ],
+  [
+    "states",
+    12,
+    "https://www.theguardian.com/environment/2026/jul/14/california-sharks-el-nino"
+  ],
+  [
+    "health",
+    12,
+    "https://www.theguardian.com/science/ng-interactive/2026/jul/14/human-hibernation-space-mars"
+  ],
+  [
+    "night",
+    12,
+    "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news"
+  ],
+  [
+    "sister",
+    12,
+    "https://www.theguardian.com/us-news/2026/jul/14/darline-graham-nordone-south-carolina-senator"
   ]
 ];
