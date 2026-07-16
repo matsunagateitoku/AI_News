@@ -3,21 +3,21 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 32,
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/todd-blanche-confirmation-hearing-attorney-general",
+      "count": 27,
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/house-republicans-save-america-act-spending-bill",
       "source": "The Guardian"
     },
     {
-      "name": "Todd Blanche",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/todd-blanche-confirmation-hearing-attorney-general",
-      "source": "The Guardian"
+      "name": "Lionel Messi",
+      "count": 11,
+      "url": "https://www.latimes.com/sports/soccer/story/2026-07-15/how-world-cup-senior-citizens-like-lionel-messi-have-stayed-fit",
+      "source": "LA Times"
     },
     {
-      "name": "Jay Clayton",
-      "count": 9,
-      "url": "https://www.cbsnews.com/video/here-are-the-key-takeaways-from-claytons-confirmation-hearing/",
-      "source": "CBS News"
+      "name": "Lindsey Graham",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/trump-revealing-eulogy-lindsey-graham",
+      "source": "The Guardian"
     },
     {
       "name": "Graham Platner",
@@ -26,27 +26,9 @@
       "source": "NY Times"
     },
     {
-      "name": "Jeffrey Epstein",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/todd-blanche-confirmation-hearing-attorney-general",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Lindsey Graham",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/trump-revealing-eulogy-lindsey-graham",
-      "source": "The Guardian"
-    },
-    {
       "name": "Sarah Brabbs",
       "count": 7,
       "url": "https://www.theguardian.com/us-news/2026/jul/15/datacenter-midterm-democrats-swing-states",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Chelsea Gray",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/jul/15/hilton-grand-vacations-fires-employee-racist-message-chelsea-gray-las-vegas-aces-wnba",
       "source": "The Guardian"
     },
     {
@@ -56,91 +38,41 @@
       "source": "The Guardian"
     },
     {
-      "name": "Lionel Messi",
-      "count": 6,
-      "url": "https://www.latimes.com/sports/soccer/story/2026-07-15/how-world-cup-senior-citizens-like-lionel-messi-have-stayed-fit",
-      "source": "LA Times"
-    }
-  ],
-  "GPE": [
+      "name": "Todd Blanche",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html",
+      "source": "NY Times"
+    },
     {
-      "name": "Us",
-      "count": 55,
+      "name": "Mitch Mcconnell",
+      "count": 5,
       "url": "https://www.theguardian.com/commentisfree/2026/jul/15/mitch-mcconnell-hospital-photo-silence",
       "source": "The Guardian"
     },
     {
-      "name": "England V Argentina",
-      "count": 38,
-      "url": "https://www.theguardian.com/football/2026/jul/15/england-v-argentina-world-cup-2026-love-hate-grudge-match",
+      "name": "Hormuz",
+      "count": 5,
+      "url": "https://www.theguardian.com/world/2026/jul/16/us-attacks-oil-tanker-strait-of-hormuz-iran-tehran-strikes",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/us-iran-hormuz-greater-tunb-island.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/state-dept-ice-iran-deportation.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Spain",
-      "count": 17,
-      "url": "https://www.theguardian.com/football/2026/jul/15/in-this-star-powered-world-cup-spain-show-the-value-of-the-collective-and-control",
-      "source": "The Guardian"
-    },
-    {
-      "name": "France",
-      "count": 16,
-      "url": "https://www.theguardian.com/football/2026/jul/15/kylian-mbappe-next-chapter-world-cup-angst",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/corpse-flowers-huntington-los-angeles-california",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mexico",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "London",
-      "count": 11,
-      "url": "https://www.theguardian.com/music/2026/jul/15/david-bowie-unheard-songs-1965-jimmy-page-the-shel-talmy-recordings",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Washington Dc’S",
-      "count": 11,
-      "url": "https://www.theguardian.com/film/2026/jul/14/they-fight-movie-review-boxing-drama",
+      "name": "Erica Schwartz",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/erica-schwartz-cdc-senate-hearing",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "Brazilian World Cup",
-      "count": 47,
+      "count": 52,
       "url": "https://www.theguardian.com/artanddesign/2026/jul/15/jairzinho-footballer-brazil-rio-favelas-michael-donalds-best-photograph",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup Of Calvinball",
-      "count": 14,
+      "count": 15,
       "url": "https://www.theguardian.com/football/2026/jul/15/world-cup-refereeing-var",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Iran War",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/15/ali-g-is-back-i-really-wish-he-wasnt",
       "source": "The Guardian"
     },
     {
@@ -156,66 +88,140 @@
       "source": "LA Times"
     },
     {
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/15/ali-g-is-back-i-really-wish-he-wasnt",
+      "source": "The Guardian"
+    },
+    {
       "name": "The 2026 World Cup",
       "count": 2,
       "url": "https://www.theguardian.com/fashion/2026/jul/12/back-to-the-noughties-young-fashion-conscious-england-fans",
       "source": "The Guardian"
     },
     {
-      "name": "The 2014 World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jul/15/england-v-argentina-world-cup-2026-love-hate-grudge-match",
+      "name": "The Stanley Cup",
+      "count": 2,
+      "url": "https://www.foxnews.com/outkick-sports/hurricanes-player-william-carrier-fills-stanley-cup-quebecois-delicacy",
+      "source": "Fox News"
+    },
+    {
+      "name": "Revolutionary War",
+      "count": 2,
+      "url": "https://www.cbsnews.com/video/volunteers-deciphering-first-person-revolutionary-war-accounts-written-in-cursive/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The World Cup'S",
+      "count": 2,
+      "url": "https://www.cbsnews.com/video/argentina-stuns-england-world-cup-semifinal-late-comeback/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The New Year'S Eve",
+      "count": 2,
+      "url": "https://www.nbcnews.com/video/new-year-s-eve-ball-drops-in-times-square-for-america-s-250th-266164805781",
+      "source": "NBC News"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 57,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/15/mitch-mcconnell-hospital-photo-silence",
       "source": "The Guardian"
     },
     {
-      "name": "The Scottish Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/jul/15/scottie-scheffler-rory-mcilroy-2026-open-golf",
+      "name": "Argentina",
+      "count": 36,
+      "url": "https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report",
       "source": "The Guardian"
     },
     {
-      "name": "The Olympic Games",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/jul/15/nadia-comaneci-scores-perfect-10s-1976-montreal-olympics",
+      "name": "New England",
+      "count": 30,
+      "url": "https://www.theguardian.com/music/2026/jul/14/readers-favourite-albums-of-2026-so-far-from-muna-to-raye-and-j-cole",
       "source": "The Guardian"
     },
     {
-      "name": "Wimbledon",
-      "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/15/ali-g-is-back-i-really-wish-he-wasnt",
+      "name": "Iran",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-american-released-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-american-released-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Spain",
+      "count": 22,
+      "url": "https://www.theguardian.com/football/2026/jul/15/in-this-star-powered-world-cup-spain-show-the-value-of-the-collective-and-control",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 15,
+      "url": "https://www.theguardian.com/environment/2026/jul/14/california-sharks-el-nino",
+      "source": "The Guardian"
+    },
+    {
+      "name": "France",
+      "count": 13,
+      "url": "https://www.theguardian.com/football/2026/jul/15/kylian-mbappe-next-chapter-world-cup-angst",
+      "source": "The Guardian"
+    },
+    {
+      "name": "London",
+      "count": 11,
+      "url": "https://www.theguardian.com/film/2026/jul/14/project-a-black-plane-film-barbican-pan-africanism",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Pressures Ice",
-      "count": 51,
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/trump-ice-traffic-stops.html",
+      "name": "Trump Administration",
+      "count": 40,
+      "url": "https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html",
       "source": "NY Times"
     },
     {
-      "name": "Darline Graham&Apos;S Senate",
-      "count": 24,
-      "url": "https://www.foxnews.com/media/sunny-hostin-calls-lindsey-grahams-sister-dei-hire-questions-qualifications",
-      "source": "Fox News"
-    },
-    {
-      "name": "The First House",
-      "count": 18,
-      "url": "https://www.theguardian.com/books/2026/jul/15/the-first-house-by-avni-doshi-review-an-intense-portrait-of-marriage-and-freedom",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Blanche Faces Crucial Hurdle After",
-      "count": 14,
+      "name": "Senate",
+      "count": 19,
       "url": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html",
       "source": "NY Times"
     },
     {
+      "name": "The First House",
+      "count": 17,
+      "url": "https://www.theguardian.com/books/2026/jul/15/the-first-house-by-avni-doshi-review-an-intense-portrait-of-marriage-and-freedom",
+      "source": "The Guardian"
+    },
+    {
       "name": "Ai Institute",
-      "count": 14,
+      "count": 16,
       "url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
       "source": "LA Times"
+    },
+    {
+      "name": "Ice",
+      "count": 15,
+      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "The New York Times",
+      "count": 13,
+      "url": "https://www.nytimes.com/video/insider/100000011030047/our-top-editor-on-subpoenas-of-times-journalists.html",
+      "source": "NY Times"
     },
     {
       "name": "The Filter Us",
@@ -225,28 +231,22 @@
     },
     {
       "name": "Guardian",
-      "count": 8,
+      "count": 9,
       "url": "https://www.theguardian.com/commentisfree/2026/jul/15/mitch-mcconnell-hospital-photo-silence",
       "source": "The Guardian"
     },
     {
-      "name": "Fifa",
-      "count": 7,
-      "url": "https://www.theguardian.com/football/2026/jul/15/world-cup-refereeing-var",
+      "name": "Cdc",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/erica-schwartz-cdc-senate-hearing",
       "source": "The Guardian"
     },
     {
-      "name": "Immigration And Customs Enforcement",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/trump-ice-traffic-stops.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Irs",
-      "count": 6,
-      "url": "https://www.latimes.com/politics/story/2026-07-15/blanche-to-face-questions-about-his-independence-at-attorney-general-confirmation-hearing",
-      "source": "LA Times"
+      "name": "Inglaterra",
+      "count": 8,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/argentina-celebra-el-pase-a-la-final-y-en-inglaterra-asimilan-una-dolorosa-eliminacion-tmvo13204227",
+      "source": "NBC News"
     }
   ],
-  "updated": "2026-07-15T20:14:25Z"
+  "updated": "2026-07-16T04:12:21Z"
 };
