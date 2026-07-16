@@ -2,88 +2,68 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    76,
-    "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html"
+    65,
+    "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html"
   ],
   [
     "cup",
-    64,
-    "https://www.theguardian.com/football/2026/jul/15/argentina-embrace-and-overcome-the-chaos-to-ride-the-wave-all-the-way-to-another-final"
+    62,
+    "https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer"
   ],
   [
     "final",
     43,
-    "https://www.theguardian.com/football/2026/jul/15/argentina-embrace-and-overcome-the-chaos-to-ride-the-wave-all-the-way-to-another-final"
-  ],
-  [
-    "iran",
-    32,
-    "https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html"
-  ],
-  [
-    "president",
-    32,
-    "https://www.nytimes.com/2026/07/15/us/politics/trump-immigrant-truck-drivers-veterans.html"
+    "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup"
   ],
   [
     "argentina",
-    31,
-    "https://www.theguardian.com/football/2026/jul/15/argentina-embrace-and-overcome-the-chaos-to-ride-the-wave-all-the-way-to-another-final"
-  ],
-  [
-    "administration",
-    27,
-    "https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html"
-  ],
-  [
-    "ice",
-    27,
-    "https://www.nytimes.com/2026/07/15/us/fbi-search-drugs-houston-ice-shooting.html"
-  ],
-  [
-    "war",
-    26,
-    "https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html"
-  ],
-  [
-    "game",
-    25,
-    "https://www.washingtonpost.com/lifestyle/2026/07/15/sad-eyed-dog-mlb-game-finally-gets-his-hot-dog/"
-  ],
-  [
-    "games",
-    25,
-    "https://www.theguardian.com/sport/2026/jul/14/suni-lee-comeback-la-2028-olympics-gymnastics"
-  ],
-  [
-    "air",
-    23,
-    "https://www.nytimes.com/2026/07/15/business/media/new-york-times-subpoenas-quash.html"
-  ],
-  [
-    "star",
-    23,
-    "https://www.theguardian.com/politics/ng-interactive/2026/jul/16/new-labour-andy-burnham-winding-path-to-power"
+    39,
+    "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup"
   ],
   [
     "england",
+    32,
+    "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup"
+  ],
+  [
+    "president",
+    30,
+    "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html"
+  ],
+  [
+    "game",
+    30,
+    "https://www.washingtonpost.com/lifestyle/2026/07/15/sad-eyed-dog-mlb-game-finally-gets-his-hot-dog/"
+  ],
+  [
+    "war",
+    27,
+    "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html"
+  ],
+  [
+    "air",
+    25,
+    "https://www.nytimes.com/article/wildfire-smoke-health.html"
+  ],
+  [
+    "games",
+    24,
+    "https://www.theguardian.com/us-news/2026/jul/16/dungeons-dragons-tabletop-games-politics"
+  ],
+  [
+    "administration",
     22,
-    "https://www.theguardian.com/football/2026/jul/15/argentina-embrace-and-overcome-the-chaos-to-ride-the-wave-all-the-way-to-another-final"
+    "https://www.nytimes.com/2026/07/16/us/politics/trump-fine-arts-commission-lafayette-park.html"
   ],
   [
-    "american",
+    "star",
+    22,
+    "https://www.theguardian.com/politics/ng-interactive/2026/jul/16/new-labour-andy-burnham-winding-path-to-power"
+  ],
+  [
+    "food",
     21,
-    "https://www.nytimes.com/2026/07/15/world/middleeast/iran-american-released-trump.html"
-  ],
-  [
-    "court",
-    21,
-    "https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html"
-  ],
-  [
-    "senate",
-    20,
-    "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html"
+    "https://www.theguardian.com/global-development/2026/jul/16/haiti-armed-gangs-children-survival-sexual-violence-un-gsf-human-rights"
   ],
   [
     "team",
@@ -91,34 +71,24 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "bill",
-    20,
-    "https://www.theguardian.com/us-news/2026/jul/15/house-republicans-save-america-act-spending-bill"
-  ],
-  [
-    "graham",
-    19,
-    "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-convention.html"
-  ],
-  [
     "family",
+    20,
+    "https://www.theguardian.com/world/2026/jul/16/italy-mafia-law-families-break-free-crime-new-identities"
+  ],
+  [
+    "sam",
     19,
-    "https://www.theguardian.com/us-news/2026/jul/15/san-francisco-alcatraz-boat-capsized"
+    "https://www.nytimes.com/2026/07/16/world/australia/sam-neill-death-cause-pneumonia.html"
   ],
   [
-    "democrats",
-    18,
-    "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html"
+    "review",
+    19,
+    "https://www.theguardian.com/film/2026/jul/16/the-odyssey-sahrawi-people-christopher-nolan-western-sahara"
   ],
   [
-    "israel",
+    "iran",
     18,
-    "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html"
-  ],
-  [
-    "spain",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/jul/16/madrid-landlords-art-investment-fund-creativity"
+    "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html"
   ],
   [
     "don",
@@ -126,24 +96,9 @@
     "https://www.theguardian.com/books/2026/jul/16/i-felt-holden-was-talking-to-me-alone-the-catcher-in-the-rye-at-75"
   ],
   [
-    "leave",
-    17,
-    "https://www.nytimes.com/2026/07/15/world/middleeast/iran-american-released-trump.html"
-  ],
-  [
-    "france",
-    17,
-    "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html"
-  ],
-  [
-    "department",
-    17,
-    "https://www.nytimes.com/2026/07/15/business/media/new-york-times-subpoenas-quash.html"
-  ],
-  [
-    "film",
-    17,
-    "https://www.nytimes.com/2026/07/15/movies/the-odyssey-review.html"
+    "spain",
+    18,
+    "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup"
   ],
   [
     "love",
@@ -151,209 +106,184 @@
     "https://www.theguardian.com/music/2026/jul/16/songs-of-the-summer-2026"
   ],
   [
-    "video",
-    16,
-    "https://www.nytimes.com/2026/07/15/us/ice-public-statements.html"
+    "leave",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/jul/16/diarrhea-outbreak-cyclospora-parasite-cdc"
   ],
   [
-    "security",
+    "start",
     16,
-    "https://www.nytimes.com/video/insider/100000011030047/our-top-editor-on-subpoenas-of-times-journalists.html"
+    "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html"
   ],
   [
-    "review",
+    "neill",
     16,
-    "https://www.nytimes.com/2026/07/15/movies/the-odyssey-review.html"
+    "https://www.nytimes.com/2026/07/16/world/australia/sam-neill-death-cause-pneumonia.html"
   ],
   [
-    "nolan",
+    "actor",
     16,
-    "https://www.nytimes.com/2026/07/15/movies/the-odyssey-review.html"
+    "https://www.nytimes.com/2026/07/16/world/australia/sam-neill-death-cause-pneumonia.html"
   ],
   [
-    "los",
+    "california",
     16,
-    "https://www.theguardian.com/us-news/2026/jul/14/corpse-flowers-huntington-los-angeles-california"
+    "https://www.theguardian.com/tv-and-radio/2026/jul/16/hal-williams-dies"
   ],
   [
-    "del",
+    "political",
     16,
-    "https://www.theguardian.com/music/2026/jul/16/songs-of-the-summer-2026"
+    "https://www.theguardian.com/us-news/2026/jul/16/dungeons-dragons-tabletop-games-politics"
   ],
   [
-    "soccer",
+    "film",
+    16,
+    "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey"
+  ],
+  [
+    "messi",
+    16,
+    "https://www.theguardian.com/football/2026/jul/15/argentina-embrace-and-overcome-the-chaos-to-ride-the-wave-all-the-way-to-another-final"
+  ],
+  [
+    "france",
     16,
     "https://www.theguardian.com/football/2026/jul/15/kylian-mbappe-next-chapter-world-cup-angst"
   ],
   [
-    "party",
-    15,
-    "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html"
-  ],
-  [
-    "inside",
-    15,
-    "https://www.nytimes.com/2026/07/15/us/fbi-search-drugs-houston-ice-shooting.html"
-  ],
-  [
-    "food",
-    15,
-    "https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html"
-  ],
-  [
-    "latest",
-    15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "international",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/16/r-kelly-donald-trump-appeal-commute-prison-sentence-ntwnfb"
-  ],
-  [
-    "support",
-    14,
-    "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html"
-  ],
-  [
     "again",
-    14,
+    15,
     "https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html"
   ],
   [
-    "released",
-    14,
-    "https://www.nytimes.com/2026/07/15/world/middleeast/iran-american-released-trump.html"
+    "water",
+    15,
+    "https://www.nytimes.com/2026/07/15/weather/texas-flooding-boerne.html"
   ],
   [
-    "full",
-    14,
-    "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html"
+    "soccer",
+    15,
+    "https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer"
   ],
   [
-    "defense",
-    14,
-    "https://www.nytimes.com/2026/07/15/us/politics/hegseth-troops-testosterone.html"
+    "night",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality"
   ],
   [
-    "country",
-    14,
-    "https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html"
-  ],
-  [
-    "missing",
-    14,
-    "https://www.nytimes.com/2026/07/15/us/alcatraz-boat-captain.html"
-  ],
-  [
-    "minister",
-    14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "los",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/16/dungeons-dragons-tabletop-games-politics"
   ],
   [
     "sex",
-    14,
+    15,
     "https://www.theguardian.com/film/2026/jul/16/the-minute-i-had-success-i-stopped-taking-drugs-john-waters-on-60-years-of-screen-carnage"
   ],
   [
-    "donald",
+    "company",
+    15,
+    "https://www.theguardian.com/sport/2026/jul/15/hilton-grand-vacations-fires-employee-racist-message-chelsea-gray-las-vegas-aces-wnba"
+  ],
+  [
+    "data",
+    15,
+    "https://www.theguardian.com/world/2026/jul/16/tourists-bucharest-rentals-collapse-earthquake-analysis"
+  ],
+  [
+    "inside",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/15/house-republicans-save-america-act-spending-bill"
+    "https://www.nytimes.com/article/wildfire-smoke-health.html"
+  ],
+  [
+    "far",
+    14,
+    "https://www.nytimes.com/2026/07/16/science/the-fda-approves-a-new-pill-to-slash-cholesterol-levels.html"
   ],
   [
     "death",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/15/man-dies-georgia-ice-detention"
+    "https://www.nytimes.com/2026/07/16/world/australia/sam-neill-death-cause-pneumonia.html"
   ],
   [
-    "lindsey",
+    "full",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/15/trump-revealing-eulogy-lindsey-graham"
+    "https://www.washingtonpost.com/lifestyle/2026/07/15/sad-eyed-dog-mlb-game-finally-gets-his-hot-dog/"
   ],
   [
-    "south",
+    "early",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/15/trump-revealing-eulogy-lindsey-graham"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "country",
+    14,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "summer",
     14,
+    "https://www.theguardian.com/music/2026/jul/16/songs-of-the-summer-2026"
+  ],
+  [
+    "del",
+    14,
+    "https://www.theguardian.com/music/2026/jul/16/songs-of-the-summer-2026"
+  ],
+  [
+    "really",
+    14,
+    "https://www.theguardian.com/books/2026/jul/16/i-felt-holden-was-talking-to-me-alone-the-catcher-in-the-rye-at-75"
+  ],
+  [
+    "fans",
+    14,
     "https://www.theguardian.com/politics/ng-interactive/2026/jul/16/new-labour-andy-burnham-winding-path-to-power"
   ],
   [
-    "california",
+    "guide",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/14/corpse-flowers-huntington-los-angeles-california"
+    "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey"
   ],
   [
-    "united",
-    13,
-    "https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html"
+    "different",
+    14,
+    "https://www.theguardian.com/football/live/2026/jul/16/world-cup-2026-argentina-break-england-hearts-and-head-for-final-with-spain-live"
   ],
   [
-    "san",
+    "american",
     13,
-    "https://www.nytimes.com/2026/07/15/weather/texas-flooding-boerne.html"
+    "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html"
   ],
   [
-    "little",
+    "washington",
     13,
-    "https://www.nytimes.com/2026/07/15/us/ice-public-statements.html"
+    "https://www.washingtonpost.com/investigations/interactive/2026/07/16/reflecting-pool-peeling-likely-caused-by-application-flaws-experts-say/"
   ],
   [
-    "immigration",
+    "season",
     13,
-    "https://www.nytimes.com/2026/07/15/us/fbi-search-drugs-houston-ice-shooting.html"
+    "https://www.theguardian.com/music/2026/jul/16/songs-of-the-summer-2026"
   ],
   [
-    "america",
+    "south",
     13,
-    "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html"
+    "https://www.theguardian.com/world/2026/jul/16/trumps-board-of-peace-drops-full-gaza-recovery-plan-for-tiny-pilot-scheme"
   ],
   [
-    "having",
+    "international",
     13,
-    "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html"
-  ],
-  [
-    "million",
-    13,
-    "https://www.nytimes.com/2026/07/15/us/politics/republicans-francesca-hong-wisconsin-governor.html"
-  ],
-  [
-    "boat",
-    13,
-    "https://www.nytimes.com/2026/07/15/us/alcatraz-boat-captain.html"
-  ],
-  [
-    "dead",
-    13,
-    "https://www.theguardian.com/film/2026/jul/16/the-minute-i-had-success-i-stopped-taking-drugs-john-waters-on-60-years-of-screen-carnage"
-  ],
-  [
-    "media",
-    13,
-    "https://www.theguardian.com/society/2026/jul/16/psychologist-candice-odgers-kids-tech-mental-health-social-media-bans"
-  ],
-  [
-    "shot",
-    13,
-    "https://www.theguardian.com/film/2026/jul/15/the-odyssey-review-christopher-nolan-matt-damon"
+    "https://www.theguardian.com/world/2026/jul/16/trumps-board-of-peace-drops-full-gaza-recovery-plan-for-tiny-pilot-scheme"
   ],
   [
     "oil",
     13,
-    "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates"
+    "https://www.theguardian.com/us-news/2026/jul/16/harold-hamm-trump-oil-israel-iran"
   ],
   [
-    "fifa",
+    "young",
     13,
-    "https://www.theguardian.com/football/2026/jul/15/world-cup-refereeing-var"
-  ],
-  [
-    "company",
-    13,
-    "https://www.theguardian.com/sport/2026/jul/15/hilton-grand-vacations-fires-employee-racist-message-chelsea-gray-las-vegas-aces-wnba"
+    "https://www.theguardian.com/world/2026/jul/16/italy-mafia-law-families-break-free-crime-new-identities"
   ],
   [
     "buying",
@@ -361,18 +291,88 @@
     "https://www.theguardian.com/lifeandstyle/2026/jul/16/you-be-the-judge-should-my-girlfriend-stop-buying-so-many-flowers"
   ],
   [
-    "start",
-    12,
-    "https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html"
+    "government",
+    13,
+    "https://www.theguardian.com/football/live/2026/jul/16/world-cup-2026-argentina-break-england-hearts-and-head-for-final-with-spain-live"
   ],
   [
-    "held",
-    12,
-    "https://www.nytimes.com/2026/07/15/world/middleeast/iran-american-released-trump.html"
+    "league",
+    13,
+    "https://www.theguardian.com/football/2026/jul/15/kylian-mbappe-next-chapter-world-cup-angst"
   ],
   [
-    "past",
+    "started",
+    13,
+    "https://www.theguardian.com/football/2026/jul/15/in-this-star-powered-world-cup-spain-show-the-value-of-the-collective-and-control"
+  ],
+  [
+    "history",
+    13,
+    "https://www.theguardian.com/football/2026/jul/16/nwsl-gotham-spirit-rose-lavelle-trinity-rodman-air-quality"
+  ],
+  [
+    "defense",
     12,
-    "https://www.nytimes.com/2026/07/15/us/ice-public-statements.html"
+    "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html"
+  ],
+  [
+    "israel",
+    12,
+    "https://www.nytimes.com/2026/07/16/podcasts/the-headlines/wildfire-smoke-democrats-israel.html"
+  ],
+  [
+    "odyssey",
+    12,
+    "https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html"
+  ],
+  [
+    "donald",
+    12,
+    "https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html"
+  ],
+  [
+    "place",
+    12,
+    "https://www.nytimes.com/2026/07/16/briefing/theodore-roosevelt-presidential-library-visit.html"
+  ],
+  [
+    "something",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/jul/16/pete-hegseth-testosterone-screening-troops"
+  ],
+  [
+    "felt",
+    12,
+    "https://www.theguardian.com/music/2026/jul/16/songs-of-the-summer-2026"
+  ],
+  [
+    "weekly",
+    12,
+    "https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer"
+  ],
+  [
+    "rise",
+    12,
+    "https://www.theguardian.com/politics/ng-interactive/2026/jul/16/new-labour-andy-burnham-winding-path-to-power"
+  ],
+  [
+    "series",
+    12,
+    "https://www.theguardian.com/world/2026/jul/16/ukraine-40-day-campaign-against-russia-has-it-worked"
+  ],
+  [
+    "dead",
+    12,
+    "https://www.theguardian.com/world/2026/jul/16/hundreds-of-refugees-feared-dead-after-two-suspected-shipwrecks-off-myanmar-un"
+  ],
+  [
+    "fifa",
+    12,
+    "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup"
+  ],
+  [
+    "stop",
+    12,
+    "https://www.theguardian.com/world/2026/jul/16/italy-mafia-law-families-break-free-crime-new-identities"
   ]
 ];
