@@ -3,7 +3,7 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 37,
+      "count": 54,
       "url": "https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html",
       "source": "NY Times"
     },
@@ -15,7 +15,7 @@
     },
     {
       "name": "Lionel Messi",
-      "count": 12,
+      "count": 13,
       "url": "https://www.latimes.com/sports/soccer/story/2026-07-15/how-world-cup-senior-citizens-like-lionel-messi-have-stayed-fit",
       "source": "LA Times"
     },
@@ -26,121 +26,53 @@
       "source": "The Guardian"
     },
     {
-      "name": "Karoline Leavitt",
-      "count": 10,
-      "url": "https://www.theguardian.com/football/2026/jul/16/donald-trump-attending-world-cup-final",
-      "source": "The Guardian"
-    },
-    {
       "name": "Keir Starmer",
       "count": 8,
       "url": "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup",
       "source": "The Guardian"
     },
     {
-      "name": "Thom Tillis",
+      "name": "Todd Blanche Meet",
       "count": 7,
       "url": "https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html",
       "source": "NY Times"
     },
     {
-      "name": "Lindsey Graham",
+      "name": "Graham Platner",
       "count": 7,
-      "url": "https://www.theguardian.com/culture/2026/jul/16/late-night-roundup-seth-meyers-second-trump-presidency",
-      "source": "The Guardian"
+      "url": "https://www.politico.com/news/2026/07/15/maine-democrats-fractures-platner-replacement-00997729",
+      "source": "Politico"
     },
     {
-      "name": "Pete Hegseth",
+      "name": "Marco Rubio",
       "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/16/pete-hegseth-testosterone-screening-troops",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Andy Burnham’S",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/jul/16/ben-jennings-on-andy-burnhams-imminent-arrival-at-no-10",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 64,
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 25,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Argentina",
-      "count": 25,
-      "url": "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup",
+      "name": "Taylor Farms",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/taco-bell-lettuce-cyclosporiasis-outbreak",
       "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 21,
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/greystar-landlord-civil-rights-violations",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Spain",
-      "count": 20,
-      "url": "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup",
-      "source": "The Guardian"
-    },
-    {
-      "name": "England",
-      "count": 19,
-      "url": "https://www.theguardian.com/football/2026/jul/16/thomas-tuchel-england-2026-world-cup-semi-final-argentina-euro-2028",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/07/16/insider/iran-funeral-coverage.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ukraine",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Canada",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "North-West France",
-      "count": 11,
-      "url": "https://www.theguardian.com/uk-news/2026/jul/16/british-yacht-couple-russian-warship-armchair-sailors",
+      "name": "Son",
+      "count": 6,
+      "url": "https://www.theguardian.com/football/2026/jul/16/mls-return-storylines-messi-son-berhalter",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Immigration",
-      "count": 50,
-      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/judge-challenge-trump-immigration-exception-world-cup-visas-00999789",
-      "source": "Politico"
+      "name": "Trump Released Documents",
+      "count": 68,
+      "url": "https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html",
+      "source": "NY Times"
     },
     {
       "name": "The White House",
-      "count": 20,
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Army Veteran Killed Outside His ‘Trump House",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/07/16/us/army-veteran-trump-house.html",
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/07/16/us/politics/trump-election-security-cisa.html",
       "source": "NY Times"
     },
     {
@@ -150,60 +82,72 @@
       "source": "The Guardian"
     },
     {
-      "name": "Ai Institute",
-      "count": 14,
-      "url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
-      "source": "LA Times"
-    },
-    {
-      "name": "Guardian",
-      "count": 12,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/16/pete-hegseth-testosterone-screening-troops",
+      "name": "Senate",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/liz-oyer-doj-todd-blanche-testimony",
       "source": "The Guardian"
     },
     {
       "name": "Fifa",
       "count": 11,
-      "url": "https://www.theguardian.com/football/2026/jul/16/world-cup-heat-players-union",
+      "url": "https://www.theguardian.com/football/2026/jul/16/jt-batson-us-soccer-balogun-trump",
       "source": "The Guardian"
     },
     {
-      "name": "Gop",
-      "count": 10,
-      "url": "https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force",
-      "source": "NPR"
+      "name": "Adelanto Ice",
+      "count": 11,
+      "url": "https://www.latimes.com/california/story/2026-07-16/federal-judge-orders-sweeping-changes-at-adelanto-ice-detention-center",
+      "source": "LA Times"
     },
     {
-      "name": "Ice",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
-      "source": "Wall St. Journal"
+      "name": "Taco Bell",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html",
+      "source": "NY Times"
     },
     {
-      "name": "Inglaterra",
+      "name": "Guardian",
       "count": 8,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/el-abrazo-que-hizo-llorar-a-todos-messi-y-scaloni-unidos-por-el-sueno-de-la-cuarta-estrella-tmvo13204375",
-      "source": "NBC News"
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/16/pete-hegseth-testosterone-screening-troops",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fda",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/pillsbury-general-mills-frozen-bread-rolls-recall",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai Institute",
+      "count": 8,
+      "url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
+      "source": "LA Times"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 36,
+      "count": 32,
       "url": "https://www.theguardian.com/fashion/2026/jul/12/back-to-the-noughties-young-fashion-conscious-england-fans",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
       "count": 12,
-      "url": "https://www.theguardian.com/football/2026/jul/16/thomas-tuchel-england-2026-world-cup-semi-final-argentina-euro-2028",
+      "url": "https://www.theguardian.com/football/2026/jul/16/us-soccer-pochettino-future-sporting-director-vacancy-world-cup",
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
+      "name": "Iran War",
       "count": 2,
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5845818/oil-prices-windfall-tax-iran-war",
-      "source": "NPR"
+      "url": "https://www.nytimes.com/2026/07/16/us/politics/iran-war-save-act.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The 2026 Winter Olympics",
+      "count": 2,
+      "url": "https://www.foxnews.com/sports/olympic-great-lindsey-vonn-reveals-ankle-still-broken-months-after-shocking-crash",
+      "source": "Fox News"
     },
     {
       "name": "The Falklands War",
@@ -212,21 +156,21 @@
       "source": "Politico"
     },
     {
-      "name": "World Cup Edition",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer",
-      "source": "The Guardian"
-    },
-    {
       "name": "’S World Cup",
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/jul/16/jt-batson-us-soccer-balogun-trump",
       "source": "The Guardian"
     },
     {
-      "name": "Open",
+      "name": "The European Championship",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/live/2026/jul/16/the-open-2026-golf-updates-from-day-one-at-royal-birkdale-live",
+      "url": "https://www.theguardian.com/football/article/2024/jul/09/lionel-messi-lamine-yamal-baby-photos-spain",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The 154Th Open Championship",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jul/16/bryson-dechambeau-nick-faldo-jackson-suber-sets-open-pace",
       "source": "The Guardian"
     },
     {
@@ -240,13 +184,69 @@
       "count": 1,
       "url": "https://www.theguardian.com/games/2026/jul/14/d-topia-review-sci-fi-ai-puzzle-game",
       "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 71,
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/democrats-israel-support",
+      "source": "The Guardian"
     },
     {
-      "name": "Soane Medal",
-      "count": 1,
-      "url": "https://www.theguardian.com/artanddesign/2026/jul/16/madelon-vriesendorp-review-sir-john-soanes-museum-london-skyscrapers",
+      "name": "U.S.",
+      "count": 32,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "California",
+      "count": 21,
+      "url": "https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai",
+      "source": "The Guardian"
+    },
+    {
+      "name": "China",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "England",
+      "count": 19,
+      "url": "https://www.theguardian.com/football/2026/jul/16/thomas-tuchel-england-2026-world-cup-semi-final-exit-argentina",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Argentina",
+      "count": 17,
+      "url": "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Spain",
+      "count": 16,
+      "url": "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Canada",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Maine",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/07/16/us/johan-sebastian-guerrero-colombia.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "West Hollywood",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/los-angeles-sinkhole-flooding",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-07-16T20:04:35Z"
+  "updated": "2026-07-17T04:10:50Z"
 };

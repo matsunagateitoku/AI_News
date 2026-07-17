@@ -2,103 +2,113 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    92,
-    "https://www.nytimes.com/2026/07/16/us/politics/white-house-federal-grants-political-review.html"
-  ],
-  [
-    "cup",
-    53,
-    "https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer"
+    128,
+    "https://www.nytimes.com/2026/07/16/us/politics/trump-election-security-cisa.html"
   ],
   [
     "president",
-    47,
-    "https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html"
+    64,
+    "https://www.nytimes.com/2026/07/16/us/politics/trump-mail-voting-elections-speech.html"
   ],
   [
-    "final",
-    41,
-    "https://www.theguardian.com/film/2026/jul/16/sam-neill-readers-pay-tribute"
+    "cup",
+    48,
+    "https://www.theguardian.com/music/2026/jul/16/shakira-20-best-songs-ranked-world-cup-anthems-megastar-duets"
+  ],
+  [
+    "election",
+    39,
+    "https://www.nytimes.com/2026/07/16/us/politics/trump-election-security-cisa.html"
   ],
   [
     "air",
-    31,
-    "https://www.nytimes.com/article/wildfire-smoke-health.html"
+    32,
+    "https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html"
   ],
   [
-    "argentina",
-    28,
-    "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup"
+    "final",
+    32,
+    "https://www.theguardian.com/music/2026/jul/16/shakira-20-best-songs-ranked-world-cup-anthems-megastar-duets"
+  ],
+  [
+    "speech",
+    27,
+    "https://www.theguardian.com/us-news/2026/jul/16/trump-tv-address-thursday"
+  ],
+  [
+    "smoke",
+    24,
+    "https://www.nytimes.com/2026/07/16/weather/what-to-know-canada-wildfires-smoke.html"
   ],
   [
     "war",
-    25,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "film",
     24,
-    "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey"
-  ],
-  [
-    "administration",
-    22,
-    "https://www.nytimes.com/2026/07/16/us/politics/white-house-federal-grants-political-review.html"
-  ],
-  [
-    "california",
-    22,
-    "https://www.theguardian.com/us-news/2026/jul/16/greystar-landlord-civil-rights-violations"
-  ],
-  [
-    "england",
-    22,
-    "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup"
+    "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html"
   ],
   [
     "donald",
-    21,
+    23,
     "https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html"
   ],
   [
-    "game",
-    21,
-    "https://www.washingtonpost.com/lifestyle/2026/07/15/sad-eyed-dog-mlb-game-finally-gets-his-hot-dog/"
-  ],
-  [
-    "star",
-    21,
-    "https://www.theguardian.com/science/2026/jul/16/atmosphere-lhs-1140b-exoplanet-could-water-scientists"
-  ],
-  [
-    "death",
-    20,
-    "https://www.nytimes.com/2026/07/16/well/pediatric-cancer-dmg-treatments.html"
-  ],
-  [
-    "family",
-    20,
-    "https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto"
-  ],
-  [
     "soccer",
-    19,
-    "https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer"
+    23,
+    "https://www.theguardian.com/football/2026/jul/16/striker-the-dog-mascot-origin-story"
   ],
   [
-    "games",
-    19,
-    "https://www.theguardian.com/football/2026/jul/16/world-cup-heat-players-union"
+    "food",
+    22,
+    "https://www.theguardian.com/us-news/2026/jul/16/pillsbury-general-mills-frozen-bread-rolls-recall"
   ],
   [
-    "social",
-    19,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/17/our-sensitive-teen-daughters-self-worth-is-tested-by-social-media-and-peers-what-should-we-do"
+    "night",
+    21,
+    "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html"
   ],
   [
-    "spain",
-    19,
+    "england",
+    21,
+    "https://www.nytimes.com/2026/07/16/weather/what-to-know-canada-wildfires-smoke.html"
+  ],
+  [
+    "china",
+    21,
+    "https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html"
+  ],
+  [
+    "film",
+    21,
+    "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey"
+  ],
+  [
+    "california",
+    21,
+    "https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai"
+  ],
+  [
+    "argentina",
+    21,
     "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup"
+  ],
+  [
+    "administration",
+    20,
+    "https://www.nytimes.com/2026/07/16/us/politics/trump-green-cards-public-assistance.html"
+  ],
+  [
+    "ice",
+    20,
+    "https://www.nytimes.com/2026/07/16/us/johan-sebastian-guerrero-colombia.html"
+  ],
+  [
+    "media",
+    20,
+    "https://www.nytimes.com/2026/07/16/us/us-navy-jet-blue-angels.html"
+  ],
+  [
+    "water",
+    20,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/16/the-five-star-weekend-review-jennifer-garners-holiday-drama-sky-atlantic-now"
   ],
   [
     "leave",
@@ -106,19 +116,39 @@
     "https://www.theguardian.com/commentisfree/2026/jul/16/diarrhea-outbreak-cyclospora-parasite-cdc"
   ],
   [
-    "smoke",
-    18,
-    "https://www.nytimes.com/article/wildfire-smoke-health.html"
+    "sex",
+    19,
+    "https://www.theguardian.com/world/2026/jul/17/even-politburo-members-can-be-touched-what-the-latest-purge-says-about-xi-jinpings-china"
   ],
   [
-    "don",
+    "games",
+    19,
+    "https://www.theguardian.com/football/2026/jul/16/striker-the-dog-mascot-origin-story"
+  ],
+  [
+    "security",
     18,
-    "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html"
+    "https://www.nytimes.com/2026/07/16/us/politics/trump-election-security-cisa.html"
+  ],
+  [
+    "government",
+    18,
+    "https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html"
   ],
   [
     "team",
     18,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/07/16/us/us-navy-jet-blue-angels.html"
+  ],
+  [
+    "social",
+    18,
+    "https://www.nytimes.com/2026/07/16/us/us-navy-jet-blue-angels.html"
+  ],
+  [
+    "star",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/16/the-five-star-weekend-review-jennifer-garners-holiday-drama-sky-atlantic-now"
   ],
   [
     "love",
@@ -126,74 +156,109 @@
     "https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto"
   ],
   [
-    "review",
-    17,
-    "https://www.nytimes.com/2026/07/16/us/politics/white-house-federal-grants-political-review.html"
+    "los",
+    18,
+    "https://www.theguardian.com/us-news/2026/jul/16/los-angeles-sinkhole-flooding"
   ],
   [
-    "food",
+    "don",
+    18,
+    "https://www.theguardian.com/music/2026/jul/16/shakira-20-best-songs-ranked-world-cup-anthems-megastar-duets"
+  ],
+  [
+    "review",
     17,
-    "https://www.theguardian.com/us-news/2026/jul/16/pillsbury-general-mills-frozen-bread-rolls-recall"
+    "https://www.nytimes.com/2026/07/16/us/us-navy-jet-blue-angels.html"
+  ],
+  [
+    "game",
+    17,
+    "https://www.washingtonpost.com/lifestyle/2026/07/15/sad-eyed-dog-mlb-game-finally-gets-his-hot-dog/"
   ],
   [
     "filter",
     17,
-    "https://www.theguardian.com/thefilter-us/2026/jul/16/air-purifiers"
+    "https://www.theguardian.com/thefilter-us/2026/jul/16/alvantor-pop-up-screen-tent"
   ],
   [
-    "media",
+    "family",
     17,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/17/our-sensitive-teen-daughters-self-worth-is-tested-by-social-media-and-peers-what-should-we-do"
-  ],
-  [
-    "iran",
-    16,
-    "https://www.nytimes.com/2026/07/16/insider/iran-funeral-coverage.html"
-  ],
-  [
-    "history",
-    16,
     "https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto"
   ],
   [
-    "del",
-    16,
-    "https://www.theguardian.com/music/2026/jul/16/songs-of-the-summer-2026"
+    "primetime",
+    17,
+    "https://www.theguardian.com/us-news/2026/jul/16/trump-tv-address-thursday"
   ],
   [
-    "bridge",
+    "quality",
     16,
-    "https://www.theguardian.com/music/2026/jul/16/songs-of-the-summer-2026"
-  ],
-  [
-    "water",
-    16,
-    "https://www.theguardian.com/science/2026/jul/16/atmosphere-lhs-1140b-exoplanet-could-water-scientists"
-  ],
-  [
-    "sam",
-    16,
-    "https://www.theguardian.com/film/2026/jul/16/sam-neill-readers-pay-tribute"
-  ],
-  [
-    "future",
-    16,
-    "https://www.theguardian.com/football/2026/jul/16/mls-return-storylines-messi-son-berhalter"
-  ],
-  [
-    "sex",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/16/r-kelly-donald-trump-appeal-commute-prison-sentence-ntwnfb"
+    "https://www.nytimes.com/2026/07/16/weather/what-to-know-canada-wildfires-smoke.html"
   ],
   [
     "minister",
-    15,
-    "https://www.nytimes.com/2026/07/16/weather/ontario-canada-wildfires.html"
+    16,
+    "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html"
   ],
   [
     "political",
+    16,
+    "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html"
+  ],
+  [
+    "attorney",
+    16,
+    "https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html"
+  ],
+  [
+    "death",
+    16,
+    "https://www.nytimes.com/2026/07/16/well/pediatric-cancer-dmg-treatments.html"
+  ],
+  [
+    "announced",
+    16,
+    "https://www.nytimes.com/2026/07/16/us/us-navy-jet-blue-angels.html"
+  ],
+  [
+    "hollywood",
+    16,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "claims",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/16/trump-tv-address-thursday"
+  ],
+  [
+    "fifa",
+    16,
+    "https://www.theguardian.com/football/2026/jul/16/jt-batson-us-soccer-balogun-trump"
+  ],
+  [
+    "canada",
     15,
-    "https://www.nytimes.com/2026/07/16/us/politics/white-house-federal-grants-political-review.html"
+    "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html"
+  ],
+  [
+    "states",
+    15,
+    "https://www.nytimes.com/2026/07/16/us/politics/trump-election-security-cisa.html"
+  ],
+  [
+    "outbreak",
+    15,
+    "https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html"
+  ],
+  [
+    "secretary",
+    15,
+    "https://www.washingtonpost.com/nation/2026/07/16/after-blue-angels-low-flyover-acting-navy-secretary-says-no-firings/"
+  ],
+  [
+    "early",
+    15,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "country",
@@ -201,74 +266,79 @@
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "secretary",
-    15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
     "guide",
     15,
-    "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey"
-  ],
-  [
-    "summer",
-    15,
-    "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey"
-  ],
-  [
-    "york",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality"
-  ],
-  [
-    "night",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality"
-  ],
-  [
-    "fifa",
-    15,
-    "https://www.theguardian.com/football/2026/jul/16/world-cup-heat-players-union"
-  ],
-  [
-    "los",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/16/cockroach-reporter-live-tv-california"
+    "https://www.theguardian.com/thefilter-us/2026/jul/16/alvantor-pop-up-screen-tent"
   ],
   [
     "buying",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/jul/16/air-purifiers"
+    "https://www.theguardian.com/thefilter-us/2026/jul/16/alvantor-pop-up-screen-tent"
   ],
   [
-    "actor",
+    "south",
     15,
-    "https://www.theguardian.com/film/2026/jul/16/nepo-dad-curry-barker-father"
+    "https://www.theguardian.com/world/2026/jul/16/trumps-board-of-peace-drops-full-gaza-recovery-plan-for-tiny-pilot-scheme"
   ],
   [
-    "quality",
-    14,
-    "https://www.nytimes.com/article/wildfire-smoke-health.html"
+    "sam",
+    15,
+    "https://www.theguardian.com/film/2026/jul/16/sam-neill-readers-pay-tribute"
   ],
   [
-    "court",
-    14,
-    "https://www.nytimes.com/2026/07/16/us/paul-pelosi-driving-record.html"
+    "spain",
+    15,
+    "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup"
   ],
   [
-    "weekly",
+    "wildfire",
     14,
-    "https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer"
+    "https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html"
   ],
   [
-    "company",
+    "documents",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/16/greystar-landlord-civil-rights-violations"
+    "https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html"
+  ],
+  [
+    "lettuce",
+    14,
+    "https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html"
+  ],
+  [
+    "prime",
+    14,
+    "https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html"
+  ],
+  [
+    "elections",
+    14,
+    "https://www.nytimes.com/2026/07/16/us/politics/iran-war-save-act.html"
+  ],
+  [
+    "israel",
+    14,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "fewer",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/jul/16/air-purifiers"
+    "https://www.theguardian.com/thefilter-us/2026/jul/16/alvantor-pop-up-screen-tent"
+  ],
+  [
+    "watch",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/16/the-five-star-weekend-review-jennifer-garners-holiday-drama-sky-atlantic-now"
+  ],
+  [
+    "democrats",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/16/democrats-israel-support"
+  ],
+  [
+    "summer",
+    14,
+    "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey"
   ],
   [
     "neill",
@@ -276,103 +346,33 @@
     "https://www.theguardian.com/film/2026/jul/16/sam-neill-readers-pay-tribute"
   ],
   [
-    "sen",
-    14,
-    "https://www.latimes.com/politics/story/2026-07-12/lindsey-graham-cause-of-death-preliminary-report"
+    "american",
+    13,
+    "https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html"
   ],
   [
-    "climate",
+    "gaza",
     13,
-    "https://www.nytimes.com/2026/07/16/climate/national-academies-extreme-weather-attribution.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "trump's",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "weekly",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jul/16/alvantor-pop-up-screen-tent"
   ],
   [
     "support",
     13,
-    "https://www.nytimes.com/2026/07/16/climate/national-academies-extreme-weather-attribution.html"
+    "https://www.theguardian.com/us-news/2026/jul/16/democrats-israel-support"
   ],
   [
-    "military",
+    "health",
     13,
-    "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html"
-  ],
-  [
-    "least",
-    13,
-    "https://www.nytimes.com/2026/07/16/us/paul-pelosi-driving-record.html"
-  ],
-  [
-    "died",
-    13,
-    "https://www.nytimes.com/2026/07/16/us/flooding-central-texas-hill-country.html"
-  ],
-  [
-    "million",
-    13,
-    "https://www.nytimes.com/2026/07/16/us/paxton-vacation-condos-wealth.html"
-  ],
-  [
-    "early",
-    13,
-    "https://www.nytimes.com/2026/07/16/us/elections/maricopa-county-elections-settlement.html"
-  ],
-  [
-    "washington",
-    13,
-    "https://www.washingtonpost.com/investigations/interactive/2026/07/16/reflecting-pool-peeling-likely-caused-by-application-flaws-experts-say/"
-  ],
-  [
-    "hollywood",
-    13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "drug",
-    13,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "place",
-    13,
-    "https://www.theguardian.com/football/2026/jul/16/world-cup-heat-players-union"
-  ],
-  [
-    "data",
-    13,
-    "https://www.theguardian.com/football/2026/jul/16/england-appeared-to-have-lionel-messi-under-control-until-the-crucial-moments"
-  ],
-  [
-    "france",
-    13,
-    "https://www.theguardian.com/sport/2026/jul/16/tim-merlier-tour-de-france-2026-hat-trick-stage-12-crash-hits-sprinters-cycling"
-  ],
-  [
-    "wildfires",
-    12,
-    "https://www.nytimes.com/2026/07/16/weather/ontario-canada-wildfires.html"
-  ],
-  [
-    "texas",
-    12,
-    "https://www.nytimes.com/2026/07/16/us/flooding-central-texas-hill-country.html"
-  ],
-  [
-    "system",
-    12,
-    "https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html"
-  ],
-  [
-    "general",
-    12,
-    "https://www.nytimes.com/2026/07/16/us/paxton-vacation-condos-wealth.html"
-  ],
-  [
-    "odyssey",
-    12,
-    "https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html"
-  ],
-  [
-    "full",
-    12,
-    "https://www.washingtonpost.com/lifestyle/2026/07/15/sad-eyed-dog-mlb-game-finally-gets-his-hot-dog/"
+    "https://www.theguardian.com/us-news/2026/jul/16/taco-bell-lettuce-cyclosporiasis-outbreak"
   ]
 ];
