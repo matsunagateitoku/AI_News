@@ -2,68 +2,78 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    128,
-    "https://www.nytimes.com/2026/07/16/us/politics/trump-election-security-cisa.html"
+    130,
+    "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html"
   ],
   [
     "president",
-    64,
-    "https://www.nytimes.com/2026/07/16/us/politics/trump-mail-voting-elections-speech.html"
+    67,
+    "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html"
   ],
   [
     "cup",
-    48,
-    "https://www.theguardian.com/music/2026/jul/16/shakira-20-best-songs-ranked-world-cup-anthems-megastar-duets"
+    51,
+    "https://www.theguardian.com/football/2026/jul/17/fox-world-cup-coverage-us-2026"
   ],
   [
     "election",
-    39,
-    "https://www.nytimes.com/2026/07/16/us/politics/trump-election-security-cisa.html"
-  ],
-  [
-    "air",
-    32,
-    "https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html"
-  ],
-  [
-    "final",
-    32,
-    "https://www.theguardian.com/music/2026/jul/16/shakira-20-best-songs-ranked-world-cup-anthems-megastar-duets"
+    45,
+    "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html"
   ],
   [
     "speech",
-    27,
-    "https://www.theguardian.com/us-news/2026/jul/16/trump-tv-address-thursday"
+    31,
+    "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html"
   ],
   [
-    "smoke",
-    24,
-    "https://www.nytimes.com/2026/07/16/weather/what-to-know-canada-wildfires-smoke.html"
+    "final",
+    30,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/17/experience-im-a-world-champion-foosball-player"
+  ],
+  [
+    "china",
+    29,
+    "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html"
+  ],
+  [
+    "film",
+    27,
+    "https://www.theguardian.com/film/ng-interactive/2026/jul/17/christopher-nolan-interview-oscars-the-odyssey"
+  ],
+  [
+    "air",
+    26,
+    "https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html"
   ],
   [
     "war",
-    24,
+    26,
     "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html"
   ],
   [
-    "donald",
-    23,
-    "https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html"
+    "burnham",
+    26,
+    "https://www.nytimes.com/2026/07/17/world/europe/andy-burnham-uk-labour-prime-minister.html"
+  ],
+  [
+    "don",
+    24,
+    "https://www.theguardian.com/film/ng-interactive/2026/jul/17/christopher-nolan-interview-oscars-the-odyssey"
+  ],
+  [
+    "los",
+    22,
+    "https://www.theguardian.com/music/2026/jul/17/i-used-to-do-acid-on-a-wednesday-i-dont-have-time-for-that-now-alt-pop-star-steve-lacy-on-his-struggle-to-follow-huge-hit-bad-habit"
+  ],
+  [
+    "games",
+    22,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/17/experience-im-a-world-champion-foosball-player"
   ],
   [
     "soccer",
-    23,
-    "https://www.theguardian.com/football/2026/jul/16/striker-the-dog-mascot-origin-story"
-  ],
-  [
-    "food",
     22,
-    "https://www.theguardian.com/us-news/2026/jul/16/pillsbury-general-mills-frozen-bread-rolls-recall"
-  ],
-  [
-    "night",
-    21,
-    "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html"
+    "https://www.theguardian.com/football/2026/jul/16/striker-the-dog-mascot-origin-story"
   ],
   [
     "england",
@@ -71,154 +81,149 @@
     "https://www.nytimes.com/2026/07/16/weather/what-to-know-canada-wildfires-smoke.html"
   ],
   [
-    "china",
-    21,
-    "https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html"
-  ],
-  [
-    "film",
-    21,
-    "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey"
-  ],
-  [
-    "california",
-    21,
-    "https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai"
-  ],
-  [
-    "argentina",
-    21,
-    "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup"
-  ],
-  [
     "administration",
-    20,
-    "https://www.nytimes.com/2026/07/16/us/politics/trump-green-cards-public-assistance.html"
+    21,
+    "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html"
   ],
   [
-    "ice",
-    20,
-    "https://www.nytimes.com/2026/07/16/us/johan-sebastian-guerrero-colombia.html"
+    "donald",
+    21,
+    "https://www.washingtonpost.com/investigations/interactive/2026/07/16/reflecting-pool-peeling-likely-caused-by-application-flaws-experts-say/"
   ],
   [
     "media",
+    21,
+    "https://www.theguardian.com/world/live/2026/jul/17/us-iran-war-strait-of-hormuz-donald-trump-israel-lebanon-latest-news-updates"
+  ],
+  [
+    "food",
+    21,
+    "https://www.theguardian.com/environment/2026/jul/16/community-sauna-food-waste-r-urban-poplar"
+  ],
+  [
+    "night",
     20,
-    "https://www.nytimes.com/2026/07/16/us/us-navy-jet-blue-angels.html"
+    "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html"
   ],
   [
-    "water",
+    "political",
     20,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/16/the-five-star-weekend-review-jennifer-garners-holiday-drama-sky-atlantic-now"
+    "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html"
   ],
   [
-    "leave",
+    "claims",
+    20,
+    "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html"
+  ],
+  [
+    "andy",
+    20,
+    "https://www.nytimes.com/2026/07/17/world/europe/andy-burnham-uk-labour-prime-minister.html"
+  ],
+  [
+    "star",
+    20,
+    "https://www.theguardian.com/music/2026/jul/17/i-used-to-do-acid-on-a-wednesday-i-dont-have-time-for-that-now-alt-pop-star-steve-lacy-on-his-struggle-to-follow-huge-hit-bad-habit"
+  ],
+  [
+    "argentina",
+    20,
+    "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup"
+  ],
+  [
+    "elections",
     19,
-    "https://www.theguardian.com/commentisfree/2026/jul/16/diarrhea-outbreak-cyclospora-parasite-cdc"
-  ],
-  [
-    "sex",
-    19,
-    "https://www.theguardian.com/world/2026/jul/17/even-politburo-members-can-be-touched-what-the-latest-purge-says-about-xi-jinpings-china"
-  ],
-  [
-    "games",
-    19,
-    "https://www.theguardian.com/football/2026/jul/16/striker-the-dog-mascot-origin-story"
-  ],
-  [
-    "security",
-    18,
-    "https://www.nytimes.com/2026/07/16/us/politics/trump-election-security-cisa.html"
+    "https://www.nytimes.com/2026/07/16/us/politics/iran-war-save-act.html"
   ],
   [
     "government",
-    18,
+    19,
     "https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html"
   ],
   [
-    "team",
+    "water",
+    19,
+    "https://www.theguardian.com/global-development/2026/jul/17/indian-protester-hunger-strike-modi-government-sonam-wangchuk"
+  ],
+  [
+    "california",
+    19,
+    "https://www.theguardian.com/us-news/2026/jul/16/pigeon-california-firefighters"
+  ],
+  [
+    "smoke",
     18,
-    "https://www.nytimes.com/2026/07/16/us/us-navy-jet-blue-angels.html"
+    "https://www.nytimes.com/2026/07/16/weather/what-to-know-canada-wildfires-smoke.html"
+  ],
+  [
+    "support",
+    18,
+    "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html"
+  ],
+  [
+    "prime",
+    18,
+    "https://www.nytimes.com/2026/07/16/us/politics/trump-speech-television-networks.html"
+  ],
+  [
+    "american",
+    18,
+    "https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html"
+  ],
+  [
+    "democrats",
+    18,
+    "https://www.nytimes.com/2026/07/17/opinion/latino-voter-democrats-immigration-trump.html"
+  ],
+  [
+    "fifa",
+    18,
+    "https://www.theguardian.com/football/2026/jul/17/gianni-infantino-fifa-reelection-more-than-200-countries-endorse-despite-balogun-scandal"
   ],
   [
     "social",
     18,
-    "https://www.nytimes.com/2026/07/16/us/us-navy-jet-blue-angels.html"
+    "https://www.theguardian.com/us-news/2026/jul/16/senate-trump-mike-collins-white-nationalism"
   ],
   [
-    "star",
+    "leave",
     18,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/16/the-five-star-weekend-review-jennifer-garners-holiday-drama-sky-atlantic-now"
+    "https://www.theguardian.com/us-news/2026/jul/16/trump-teleprompter-operator-kalshi-bets"
   ],
   [
-    "love",
+    "sex",
     18,
-    "https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto"
-  ],
-  [
-    "los",
-    18,
-    "https://www.theguardian.com/us-news/2026/jul/16/los-angeles-sinkhole-flooding"
-  ],
-  [
-    "don",
-    18,
-    "https://www.theguardian.com/music/2026/jul/16/shakira-20-best-songs-ranked-world-cup-anthems-megastar-duets"
-  ],
-  [
-    "review",
-    17,
-    "https://www.nytimes.com/2026/07/16/us/us-navy-jet-blue-angels.html"
-  ],
-  [
-    "game",
-    17,
-    "https://www.washingtonpost.com/lifestyle/2026/07/15/sad-eyed-dog-mlb-game-finally-gets-his-hot-dog/"
-  ],
-  [
-    "filter",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/jul/16/alvantor-pop-up-screen-tent"
-  ],
-  [
-    "family",
-    17,
-    "https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto"
-  ],
-  [
-    "primetime",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/16/trump-tv-address-thursday"
-  ],
-  [
-    "quality",
-    16,
-    "https://www.nytimes.com/2026/07/16/weather/what-to-know-canada-wildfires-smoke.html"
+    "https://www.theguardian.com/film/2026/jul/17/heartstopper-forever-movie-review"
   ],
   [
     "minister",
-    16,
+    17,
     "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html"
   ],
   [
-    "political",
-    16,
-    "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html"
+    "country",
+    17,
+    "https://www.nytimes.com/2026/07/17/opinion/andy-burnham-britain-prime-minister.html"
   ],
   [
-    "attorney",
-    16,
-    "https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html"
+    "secretary",
+    17,
+    "https://www.washingtonpost.com/nation/2026/07/16/after-blue-angels-low-flyover-acting-navy-secretary-says-no-firings/"
   ],
   [
-    "death",
-    16,
-    "https://www.nytimes.com/2026/07/16/well/pediatric-cancer-dmg-treatments.html"
+    "team",
+    17,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "announced",
+    "summer",
+    17,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/17/experience-im-a-world-champion-foosball-player"
+  ],
+  [
+    "ice",
     16,
-    "https://www.nytimes.com/2026/07/16/us/us-navy-jet-blue-angels.html"
+    "https://www.nytimes.com/2026/07/16/us/johan-sebastian-guerrero-colombia.html"
   ],
   [
     "hollywood",
@@ -226,34 +231,19 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "claims",
+    "primetime",
     16,
     "https://www.theguardian.com/us-news/2026/jul/16/trump-tv-address-thursday"
   ],
   [
-    "fifa",
-    16,
-    "https://www.theguardian.com/football/2026/jul/16/jt-batson-us-soccer-balogun-trump"
+    "chinese",
+    15,
+    "https://www.nytimes.com/2026/07/16/us/chinese-lawyer-wu-shaoping-ice-detention.html"
   ],
   [
-    "canada",
+    "game",
     15,
-    "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html"
-  ],
-  [
-    "states",
-    15,
-    "https://www.nytimes.com/2026/07/16/us/politics/trump-election-security-cisa.html"
-  ],
-  [
-    "outbreak",
-    15,
-    "https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html"
-  ],
-  [
-    "secretary",
-    15,
-    "https://www.washingtonpost.com/nation/2026/07/16/after-blue-angels-low-flyover-acting-navy-secretary-says-no-firings/"
+    "https://www.washingtonpost.com/lifestyle/2026/07/15/sad-eyed-dog-mlb-game-finally-gets-his-hot-dog/"
   ],
   [
     "early",
@@ -261,44 +251,29 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "country",
+    "health",
     15,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/us-news/2026/jul/16/taco-bell-lettuce-cyclosporiasis-outbreak"
   ],
   [
-    "guide",
+    "security",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/jul/16/alvantor-pop-up-screen-tent"
+    "https://www.theguardian.com/us-news/2026/jul/16/democrats-israel-support"
   ],
   [
-    "buying",
+    "review",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/jul/16/alvantor-pop-up-screen-tent"
+    "https://www.theguardian.com/film/2026/jul/17/heartstopper-forever-movie-review"
   ],
   [
-    "south",
+    "del",
     15,
-    "https://www.theguardian.com/world/2026/jul/16/trumps-board-of-peace-drops-full-gaza-recovery-plan-for-tiny-pilot-scheme"
+    "https://www.theguardian.com/film/2026/jul/16/nepo-dad-curry-barker-father"
   ],
   [
-    "sam",
-    15,
-    "https://www.theguardian.com/film/2026/jul/16/sam-neill-readers-pay-tribute"
-  ],
-  [
-    "spain",
-    15,
-    "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup"
-  ],
-  [
-    "wildfire",
+    "nbc",
     14,
-    "https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html"
-  ],
-  [
-    "documents",
-    14,
-    "https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html"
+    "https://www.nytimes.com/2026/07/16/us/politics/trump-speech-television-networks.html"
   ],
   [
     "lettuce",
@@ -306,73 +281,98 @@
     "https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html"
   ],
   [
-    "prime",
+    "outbreak",
     14,
-    "https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html"
+    "https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html"
   ],
   [
-    "elections",
+    "attorney",
     14,
-    "https://www.nytimes.com/2026/07/16/us/politics/iran-war-save-act.html"
+    "https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html"
   ],
   [
-    "israel",
+    "trump's",
     14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "fewer",
+    "odyssey",
+    14,
+    "https://www.theguardian.com/film/ng-interactive/2026/jul/17/christopher-nolan-interview-oscars-the-odyssey"
+  ],
+  [
+    "became",
+    14,
+    "https://www.theguardian.com/music/2026/jul/17/i-used-to-do-acid-on-a-wednesday-i-dont-have-time-for-that-now-alt-pop-star-steve-lacy-on-his-struggle-to-follow-huge-hit-bad-habit"
+  ],
+  [
+    "filter",
     14,
     "https://www.theguardian.com/thefilter-us/2026/jul/16/alvantor-pop-up-screen-tent"
+  ],
+  [
+    "party",
+    14,
+    "https://www.theguardian.com/global-development/2026/jul/17/indian-protester-hunger-strike-modi-government-sonam-wangchuk"
+  ],
+  [
+    "announced",
+    14,
+    "https://www.theguardian.com/politics/live/2026/jul/17/andy-burnham-labour-leader-speech-latest-news-updates"
   ],
   [
     "watch",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/16/the-five-star-weekend-review-jennifer-garners-holiday-drama-sky-atlantic-now"
+    "https://www.theguardian.com/film/2026/jul/17/sam-neill-tara-fitzgerald-poem"
   ],
   [
-    "democrats",
+    "family",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/16/democrats-israel-support"
+    "https://www.theguardian.com/australia-news/2026/jul/17/laos-methanol-poisoning-charges-bianca-jones-holly-bowles-deaths"
   ],
   [
-    "summer",
+    "love",
     14,
-    "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey"
+    "https://www.theguardian.com/music/2026/jul/17/loathe-a-stranger-to-you-review"
   ],
   [
-    "neill",
-    14,
-    "https://www.theguardian.com/film/2026/jul/16/sam-neill-readers-pay-tribute"
+    "military",
+    13,
+    "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html"
   ],
   [
-    "american",
+    "voter",
     13,
     "https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html"
   ],
   [
-    "gaza",
+    "death",
     13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/07/16/well/pediatric-cancer-dmg-treatments.html"
   ],
   [
-    "trump's",
+    "least",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "weekly",
+    "felt",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/16/alvantor-pop-up-screen-tent"
+    "https://www.theguardian.com/film/ng-interactive/2026/jul/17/christopher-nolan-interview-oscars-the-odyssey"
   ],
   [
-    "support",
+    "nolan",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/16/democrats-israel-support"
+    "https://www.theguardian.com/film/ng-interactive/2026/jul/17/christopher-nolan-interview-oscars-the-odyssey"
   ],
   [
-    "health",
+    "because",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/16/taco-bell-lettuce-cyclosporiasis-outbreak"
+    "https://www.theguardian.com/film/ng-interactive/2026/jul/17/christopher-nolan-interview-oscars-the-odyssey"
+  ],
+  [
+    "states",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/16/trump-address-us-elections"
   ]
 ];
