@@ -2,198 +2,153 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    100,
-    "https://www.nytimes.com/2026/07/17/podcasts/the-headlines/iran-trump-speech-election-security.html"
+    85,
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html"
   ],
   [
     "cup",
-    54,
-    "https://www.nytimes.com/2026/07/17/science/mathematical-tribute-soccer-ball.html"
-  ],
-  [
-    "election",
-    49,
-    "https://www.nytimes.com/2026/07/17/podcasts/the-headlines/iran-trump-speech-election-security.html"
+    68,
+    "https://www.nytimes.com/2026/07/14/sports/soccer/world-cup-photos.html"
   ],
   [
     "president",
-    47,
-    "https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html"
+    34,
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html"
   ],
   [
-    "war",
-    33,
-    "https://www.nytimes.com/2026/07/17/world/middleeast/dubai-iran-war-migrant-workers-layoffs.html"
-  ],
-  [
-    "film",
-    29,
-    "https://www.nytimes.com/2026/07/15/movies/the-odyssey-review.html"
+    "election",
+    34,
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html"
   ],
   [
     "air",
-    29,
+    34,
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "china",
+    "film",
+    27,
+    "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger"
+  ],
+  [
+    "war",
     26,
-    "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html"
+    "https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html"
   ],
   [
-    "final",
-    26,
-    "https://www.nytimes.com/2026/07/17/science/mathematical-tribute-soccer-ball.html"
-  ],
-  [
-    "odyssey",
-    24,
-    "https://www.nytimes.com/2026/07/17/movies/the-odyssey-christopher-nolan.html"
-  ],
-  [
-    "iran",
-    23,
-    "https://www.nytimes.com/2026/07/17/podcasts/the-headlines/iran-trump-speech-election-security.html"
-  ],
-  [
-    "speech",
-    23,
-    "https://www.nytimes.com/2026/07/17/podcasts/the-headlines/iran-trump-speech-election-security.html"
-  ],
-  [
-    "claims",
-    22,
-    "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html"
+    "smoke",
+    25,
+    "https://www.nytimes.com/2026/07/17/weather/smoke-forecast.html"
   ],
   [
     "summer",
-    22,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/17/hbo-burning-man-series"
-  ],
-  [
-    "california",
-    22,
+    25,
     "https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike"
   ],
   [
-    "administration",
+    "final",
+    25,
+    "https://www.theguardian.com/football/2026/jul/17/gods-will-destiny-lionel-messi-lamine-yamal-that-photo-and-the-world-cup-final"
+  ],
+  [
+    "games",
+    22,
+    "https://www.theguardian.com/football/2026/jul/18/world-cup-memes-messi-haaland-bellingham-beckham-viking-row-japan"
+  ],
+  [
+    "iran",
     21,
-    "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html"
+    "https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html"
+  ],
+  [
+    "claims",
+    21,
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html"
   ],
   [
     "don",
     21,
-    "https://www.theguardian.com/film/ng-interactive/2026/jul/17/christopher-nolan-interview-oscars-the-odyssey"
+    "https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike"
   ],
   [
-    "star",
-    21,
-    "https://www.theguardian.com/music/2026/jul/17/i-used-to-do-acid-on-a-wednesday-i-dont-have-time-for-that-now-alt-pop-star-steve-lacy-on-his-struggle-to-follow-huge-hit-bad-habit"
+    "speech",
+    20,
+    "https://www.nytimes.com/2026/07/16/us/politics/trump-speech-television-networks.html"
   ],
   [
-    "guide",
-    21,
-    "https://www.theguardian.com/thefilter-us/2026/jul/17/back-to-school-sales-deals"
+    "china",
+    20,
+    "https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html"
+  ],
+  [
+    "political",
+    20,
+    "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html"
   ],
   [
     "food",
-    21,
+    19,
     "https://www.theguardian.com/thefilter-us/2026/jul/17/back-to-school-sales-deals"
   ],
   [
-    "england",
-    20,
-    "https://www.nytimes.com/2026/07/17/world/europe/andy-burnham-uk-labour-prime-minister.html"
+    "california",
+    19,
+    "https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike"
   ],
   [
-    "minister",
-    20,
-    "https://www.nytimes.com/2026/07/17/world/europe/andy-burnham-uk-labour-prime-minister.html"
-  ],
-  [
-    "country",
-    20,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "latest",
-    20,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "games",
-    20,
-    "https://www.theguardian.com/us-news/2026/jul/17/alaska-world-eskimo-indian-olympics-arctic-sports"
+    "again",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/jul/17/trump-speech-election-denialism"
   ],
   [
     "spain",
-    20,
+    18,
     "https://www.theguardian.com/us-news/2026/jul/17/portugal-world-cup-team-ice-deportation-planes"
   ],
   [
-    "water",
-    20,
-    "https://www.theguardian.com/global-development/2026/jul/17/indian-protester-hunger-strike-modi-government-sonam-wangchuk"
+    "graham",
+    18,
+    "https://www.theguardian.com/us-news/2026/jul/17/lindsey-graham-death-south-carolina-legacy"
   ],
   [
-    "prime",
-    19,
-    "https://www.nytimes.com/2026/07/17/world/europe/andy-burnham-uk-labour-prime-minister.html"
+    "love",
+    18,
+    "https://www.theguardian.com/fashion/2026/jul/17/kitten-heel-flip-flops-winning-over-flats-only-gen-z"
   ],
   [
-    "east",
+    "night",
     17,
-    "https://www.nytimes.com/2026/07/17/world/middleeast/dubai-iran-war-migrant-workers-layoffs.html"
-  ],
-  [
-    "ice",
-    17,
-    "https://www.nytimes.com/2026/07/17/us/magnolia-park-houston-mourning-ice-shooting.html"
-  ],
-  [
-    "place",
-    17,
-    "https://www.nytimes.com/2026/07/17/briefing/christopher-nolan-odyssey.html"
-  ],
-  [
-    "team",
-    17,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/society/2026/jul/17/twelve-days-nursing-my-father-in-the-dying-room-taught-me-the-value-of-planning-for-death"
   ],
   [
     "states",
     17,
-    "https://www.theguardian.com/us-news/2026/jul/16/trump-address-us-elections"
+    "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates"
   ],
   [
-    "play",
+    "late",
     17,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/17/experience-im-a-world-champion-foosball-player"
+    "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell"
   ],
   [
-    "smoke",
+    "star",
     17,
-    "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east"
+    "https://www.theguardian.com/film/video/2026/jul/17/the-odyssey-is-nolan-adaptation-worth-the-hype-the-latest"
   ],
   [
-    "media",
+    "full",
     16,
-    "https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html"
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html"
   ],
   [
-    "nolan",
+    "donald",
     16,
-    "https://www.nytimes.com/2026/07/17/movies/the-odyssey-christopher-nolan.html"
+    "https://www.washingtonpost.com/investigations/interactive/2026/07/16/reflecting-pool-peeling-likely-caused-by-application-flaws-experts-say/"
   ],
   [
-    "political",
+    "country",
     16,
-    "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html"
-  ],
-  [
-    "soccer",
-    16,
-    "https://www.nytimes.com/2026/07/17/science/mathematical-tribute-soccer-ball.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "filter",
@@ -201,99 +156,74 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/17/back-to-school-sales-deals"
   ],
   [
-    "love",
+    "guide",
     16,
-    "https://www.theguardian.com/film/2026/jul/17/will-women-love-christopher-nolan-the-odyssey"
+    "https://www.theguardian.com/thefilter-us/2026/jul/17/back-to-school-sales-deals"
   ],
   [
-    "support",
-    15,
-    "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html"
-  ],
-  [
-    "christopher",
-    15,
-    "https://www.nytimes.com/2026/07/17/movies/the-odyssey-christopher-nolan.html"
-  ],
-  [
-    "leave",
-    15,
-    "https://www.nytimes.com/2026/07/17/opinion/trump-smithsonian-cold-war.html"
-  ],
-  [
-    "late",
-    15,
-    "https://www.nytimes.com/2026/07/17/arts/television/late-night-trump-teleprompter-operator-bets.html"
-  ],
-  [
-    "night",
-    15,
-    "https://www.nytimes.com/2026/07/17/arts/television/late-night-trump-teleprompter-operator-bets.html"
-  ],
-  [
-    "donald",
-    15,
-    "https://www.washingtonpost.com/investigations/interactive/2026/07/16/reflecting-pool-peeling-likely-caused-by-application-flaws-experts-say/"
+    "odyssey",
+    16,
+    "https://www.theguardian.com/film/video/2026/jul/17/the-odyssey-is-nolan-adaptation-worth-the-hype-the-latest"
   ],
   [
     "game",
-    15,
+    16,
     "https://www.theguardian.com/us-news/2026/jul/17/alaska-world-eskimo-indian-olympics-arctic-sports"
   ],
   [
-    "social",
+    "water",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/16/los-angeles-sinkhole-flooding"
+  ],
+  [
+    "prime",
     15,
-    "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates"
+    "https://www.nytimes.com/2026/07/16/us/politics/trump-speech-television-networks.html"
   ],
   [
-    "party",
+    "burnham",
     15,
-    "https://www.theguardian.com/politics/2026/jul/17/andy-burnham-becomes-labour-leader-final-step-towards-uk-pm"
+    "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html"
   ],
   [
-    "quality",
+    "minister",
     15,
-    "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east"
-  ],
-  [
-    "health",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell"
-  ],
-  [
-    "senate",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/17/lindsey-graham-death-south-carolina-legacy"
-  ],
-  [
-    "andy",
-    14,
-    "https://www.nytimes.com/2026/07/17/world/europe/andy-burnham-uk-labour-prime-minister.html"
-  ],
-  [
-    "security",
-    14,
-    "https://www.nytimes.com/2026/07/17/podcasts/the-headlines/iran-trump-speech-election-security.html"
-  ],
-  [
-    "secretary",
-    14,
-    "https://www.washingtonpost.com/nation/2026/07/16/after-blue-angels-low-flyover-acting-navy-secretary-says-no-firings/"
-  ],
-  [
-    "million",
-    14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html"
   ],
   [
     "early",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    15,
+    "https://www.nytimes.com/2026/07/17/us/politics/republicans-in-north-carolina-try-to-reduce-early-voting-on-sundays-and-on-campuses.html"
   ],
   [
-    "strikes",
+    "secretary",
+    15,
+    "https://www.washingtonpost.com/nation/2026/07/16/after-blue-angels-low-flyover-acting-navy-secretary-says-no-firings/"
+  ],
+  [
+    "east",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jul/17/trump-speech-election-denialism"
+  ],
+  [
+    "administration",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/17/portugal-world-cup-team-ice-deportation-planes"
+  ],
+  [
+    "place",
+    15,
+    "https://www.theguardian.com/sport/2026/jul/17/tom-pidcock-surges-up-standings-while-mauro-schmid-wins-tour-de-france-stage-13"
+  ],
+  [
+    "lettuce",
     14,
-    "https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran"
+    "https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html"
+  ],
+  [
+    "team",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "buying",
@@ -301,54 +231,64 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/17/back-to-school-sales-deals"
   ],
   [
-    "became",
-    13,
-    "https://www.nytimes.com/2026/07/17/world/europe/andy-burnham-uk-labour-prime-minister.html"
-  ],
-  [
-    "maine",
-    13,
-    "https://www.nytimes.com/2026/07/16/us/johan-sebastian-guerrero-colombia.html"
-  ],
-  [
-    "democrats",
-    13,
-    "https://www.nytimes.com/2026/07/17/opinion/latino-voter-democrats-immigration-trump.html"
-  ],
-  [
-    "today",
-    13,
-    "https://www.theguardian.com/film/ng-interactive/2026/jul/17/christopher-nolan-interview-oscars-the-odyssey"
-  ],
-  [
-    "primetime",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates"
-  ],
-  [
-    "power",
-    13,
-    "https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran"
-  ],
-  [
-    "texas",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/17/climate-change-rains-flash-floods"
-  ],
-  [
     "court",
-    13,
+    14,
     "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger"
   ],
   [
-    "company",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell"
+    "south",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/17/lindsey-graham-death-south-carolina-legacy"
   ],
   [
-    "died",
+    "record",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/17/alaska-world-eskimo-indian-olympics-arctic-sports"
+  ],
+  [
+    "beach",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/17/hbo-burning-man-series"
+  ],
+  [
+    "cbs",
+    14,
+    "https://www.cbsnews.com/news/darline-graham-us-senate-south-carolina-lindsey-graham/"
+  ],
+  [
+    "outbreak",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/17/lindsey-graham-death-south-carolina-legacy"
+    "https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html"
+  ],
+  [
+    "health",
+    13,
+    "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html"
+  ],
+  [
+    "hollywood",
+    13,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "ice",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "canada",
+    13,
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  ],
+  [
+    "mexico",
+    13,
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  ],
+  [
+    "something",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/17/ai-meta-smart-glasses"
   ],
   [
     "weekly",
@@ -361,18 +301,78 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/17/back-to-school-sales-deals"
   ],
   [
-    "burnham",
-    12,
-    "https://www.nytimes.com/2026/07/17/world/europe/andy-burnham-uk-labour-prime-minister.html"
+    "social",
+    13,
+    "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates"
   ],
   [
-    "ukraine",
+    "today",
+    13,
+    "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates"
+  ],
+  [
+    "soccer",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/17/portugal-world-cup-team-ice-deportation-planes"
+  ],
+  [
+    "wildfire",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east"
+  ],
+  [
+    "died",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/17/lindsey-graham-death-south-carolina-legacy"
+  ],
+  [
+    "argentina",
+    13,
+    "https://www.theguardian.com/football/2026/jul/17/world-cup-conspiracy-theories-var-ai-argentina"
+  ],
+  [
+    "watch",
+    13,
+    "https://www.theguardian.com/football/2026/jul/17/telemundo-world-cup-english-speaking-viewers"
+  ],
+  [
+    "france",
+    13,
+    "https://www.theguardian.com/sport/2026/jul/17/tom-pidcock-surges-up-standings-while-mauro-schmid-wins-tour-de-france-stage-13"
+  ],
+  [
+    "county",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/16/la-millionaire-remains-identified"
+  ],
+  [
+    "security",
+    13,
+    "https://www.foxnews.com/politics/white-house-dishes-new-election-security-jab-olive-garden-pasta-pass-id-policy"
+  ],
+  [
+    "past",
     12,
-    "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html"
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html"
+  ],
+  [
+    "black",
+    12,
+    "https://www.nytimes.com/2026/07/17/us/politics/black-representation-voting-rights-act.html"
+  ],
+  [
+    "leave",
+    12,
+    "https://www.nytimes.com/2026/07/17/opinion/trump-smithsonian-cold-war.html"
+  ],
+  [
+    "foot",
+    12,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "campaign",
     12,
-    "https://www.nytimes.com/2026/07/17/opinion/latino-voter-democrats-immigration-trump.html"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ]
 ];
