@@ -2,33 +2,33 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    100,
+    109,
     "https://www.nytimes.com/2026/07/17/us/politics/trump-election-save-act-republicans-midterms.html"
   ],
   [
     "cup",
-    58,
+    59,
     "https://www.nytimes.com/2026/07/14/sports/soccer/world-cup-photos.html"
   ],
   [
     "president",
-    47,
+    50,
     "https://www.nytimes.com/2026/07/17/us/politics/trump-election-save-act-republicans-midterms.html"
   ],
   [
     "smoke",
-    42,
+    40,
     "https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html"
   ],
   [
     "election",
-    38,
+    37,
     "https://www.nytimes.com/2026/07/17/us/politics/trump-election-save-act-republicans-midterms.html"
   ],
   [
-    "air",
-    34,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "war",
+    32,
+    "https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html"
   ],
   [
     "claims",
@@ -36,24 +36,24 @@
     "https://www.nytimes.com/2026/07/17/us/politics/trump-election-save-act-republicans-midterms.html"
   ],
   [
-    "war",
-    30,
-    "https://www.nytimes.com/2026/07/17/briefing/us-iran-attacks-canada-wildfire-smoke.html"
-  ],
-  [
-    "california",
-    30,
-    "https://www.nytimes.com/2026/07/17/us/california-billionaire-tax-opponents-ad-campaign.html"
+    "air",
+    31,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "film",
-    30,
-    "https://www.theguardian.com/film/video/2026/jul/17/the-odyssey-is-nolan-adaptation-worth-the-hype-the-latest"
+    31,
+    "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art"
   ],
   [
-    "games",
-    26,
-    "https://www.theguardian.com/football/2026/jul/18/world-cup-memes-messi-haaland-bellingham-beckham-viking-row-japan"
+    "california",
+    27,
+    "https://www.nytimes.com/2026/07/17/us/california-billionaire-tax-opponents-ad-campaign.html"
+  ],
+  [
+    "iran",
+    24,
+    "https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html"
   ],
   [
     "wildfire",
@@ -61,14 +61,14 @@
     "https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html"
   ],
   [
-    "don",
+    "games",
     24,
-    "https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike"
+    "https://www.theguardian.com/football/2026/jul/18/world-cup-memes-messi-haaland-bellingham-beckham-viking-row-japan"
   ],
   [
-    "summer",
-    23,
-    "https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike"
+    "final",
+    24,
+    "https://www.theguardian.com/football/2026/jul/17/trump-infantino-balogun-2020-election-fifa-council"
   ],
   [
     "pelosi",
@@ -76,49 +76,39 @@
     "https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge"
   ],
   [
-    "final",
-    22,
-    "https://www.theguardian.com/football/2026/jul/17/gods-will-destiny-lionel-messi-lamine-yamal-that-photo-and-the-world-cup-final"
-  ],
-  [
-    "outbreak",
-    21,
-    "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
-  ],
-  [
-    "odyssey",
-    21,
-    "https://www.theguardian.com/film/video/2026/jul/17/the-odyssey-is-nolan-adaptation-worth-the-hype-the-latest"
-  ],
-  [
-    "iran",
-    20,
-    "https://www.nytimes.com/2026/07/17/briefing/us-iran-attacks-canada-wildfire-smoke.html"
-  ],
-  [
-    "canada",
-    20,
-    "https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html"
-  ],
-  [
-    "lettuce",
-    20,
-    "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
-  ],
-  [
     "donald",
-    20,
+    21,
     "https://www.washingtonpost.com/investigations/interactive/2026/07/16/reflecting-pool-peeling-likely-caused-by-application-flaws-experts-say/"
   ],
   [
+    "summer",
+    21,
+    "https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike"
+  ],
+  [
+    "don",
+    21,
+    "https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike"
+  ],
+  [
     "again",
-    19,
+    20,
     "https://www.nytimes.com/video/opinion/100000011034989/on-fire-again.html"
+  ],
+  [
+    "outbreak",
+    20,
+    "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
+  ],
+  [
+    "canada",
+    19,
+    "https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html"
   ],
   [
     "game",
     19,
-    "https://www.theguardian.com/us-news/2026/jul/17/alaska-world-eskimo-indian-olympics-arctic-sports"
+    "https://www.theguardian.com/football/2026/jul/17/trump-infantino-balogun-2020-election-fifa-council"
   ],
   [
     "china",
@@ -131,6 +121,46 @@
     "https://www.nytimes.com/2026/07/17/nyregion/nyc-building-emergency-companies.html"
   ],
   [
+    "lettuce",
+    18,
+    "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
+  ],
+  [
+    "everything",
+    18,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "country",
+    18,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "guide",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
+  ],
+  [
+    "health",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
+  ],
+  [
+    "spain",
+    18,
+    "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season"
+  ],
+  [
+    "star",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/18/an-overnight-success-after-25-years-delicious-ted-lassos-hannah-waddingham-on-sexism-stunts-and-stardom-at-51"
+  ],
+  [
+    "odyssey",
+    18,
+    "https://www.theguardian.com/culture/2026/jul/17/christopher-nolan-forces-all-rivals-to-flee-as-he-dominates-the-battle-of-the-blockbusters"
+  ],
+  [
     "york",
     17,
     "https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html"
@@ -141,62 +171,37 @@
     "https://www.nytimes.com/2026/07/17/weather/oregon-wildfires-smoke-canada.html"
   ],
   [
-    "country",
-    17,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
     "filter",
     17,
     "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
   ],
   [
-    "guide",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
-  ],
-  [
-    "health",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
-  ],
-  [
-    "spain",
-    17,
-    "https://www.theguardian.com/football/2026/jul/17/gods-will-destiny-lionel-messi-lamine-yamal-that-photo-and-the-world-cup-final"
-  ],
-  [
-    "star",
-    17,
-    "https://www.theguardian.com/film/video/2026/jul/17/the-odyssey-is-nolan-adaptation-worth-the-hype-the-latest"
-  ],
-  [
     "love",
     17,
-    "https://www.theguardian.com/fashion/2026/jul/17/kitten-heel-flip-flops-winning-over-flats-only-gen-z"
+    "https://www.theguardian.com/film/2026/jul/17/will-women-love-christopher-nolan-the-odyssey"
+  ],
+  [
+    "american",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/17/trump-claims-primetime-address"
+  ],
+  [
+    "history",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/18/pompeii-out-of-time-with-tom-hiddleston-tearjerking-television-disney"
   ],
   [
     "speech",
-    16,
+    15,
     "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html"
   ],
   [
     "strikes",
-    16,
+    15,
     "https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html"
   ],
   [
     "taylor",
-    16,
-    "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
-  ],
-  [
-    "night",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/jul/17/trump-speech-election-denialism"
-  ],
-  [
-    "farms",
     15,
     "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
   ],
@@ -216,9 +221,9 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "american",
+    "team",
     15,
-    "https://www.theguardian.com/us-news/2026/jul/17/trump-claims-primetime-address"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "weekly",
@@ -231,6 +236,11 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
   ],
   [
+    "because",
+    15,
+    "https://www.theguardian.com/world/2026/jul/18/ukraine-war-briefing-protests-of-fedorovs-dismissal-continue-as-zelenskyy-tries-to-repair-rift-with-poland"
+  ],
+  [
     "argentina",
     15,
     "https://www.theguardian.com/us-news/video/2026/jul/17/who-won-the-world-cup"
@@ -241,14 +251,19 @@
     "https://www.theguardian.com/football/2026/jul/17/smoke-travel-trump-new-york-world-cup-final"
   ],
   [
-    "history",
-    15,
-    "https://www.theguardian.com/football/2026/jul/17/world-cup-conspiracy-theories-var-ai-argentina"
+    "full",
+    14,
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html"
   ],
   [
-    "water",
+    "security",
     14,
-    "https://www.nytimes.com/2026/07/17/briefing/us-iran-attacks-canada-wildfire-smoke.html"
+    "https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html"
+  ],
+  [
+    "watch",
+    14,
+    "https://www.nytimes.com/2026/07/16/weather/wildfire-smoke-from-space.html"
   ],
   [
     "military",
@@ -261,6 +276,11 @@
     "https://www.nytimes.com/2026/07/17/us/politics/trump-endorses-darline-graham-senate.html"
   ],
   [
+    "farms",
+    14,
+    "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
+  ],
+  [
     "secretary",
     14,
     "https://www.washingtonpost.com/nation/2026/07/16/after-blue-angels-low-flyover-acting-navy-secretary-says-no-firings/"
@@ -271,39 +291,44 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
   ],
   [
+    "name",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jul/17/trump-speech-election-denialism"
+  ],
+  [
+    "night",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jul/17/trump-speech-election-denialism"
+  ],
+  [
     "forest",
     14,
     "https://www.theguardian.com/us-news/2026/jul/17/kidnapped-us-forest-service-employees-released"
   ],
   [
-    "nolan",
+    "actor",
     14,
-    "https://www.theguardian.com/film/video/2026/jul/17/the-odyssey-is-nolan-adaptation-worth-the-hype-the-latest"
+    "https://www.theguardian.com/tv-and-radio/2026/jul/18/an-overnight-success-after-25-years-delicious-ted-lassos-hannah-waddingham-on-sexism-stunts-and-stardom-at-51"
   ],
   [
-    "full",
-    13,
-    "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html"
+    "horror",
+    14,
+    "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art"
   ],
   [
-    "government",
-    13,
-    "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html"
+    "paul",
+    14,
+    "https://www.theguardian.com/culture/2026/jul/17/christopher-nolan-forces-all-rivals-to-flee-as-he-dominates-the-battle-of-the-blockbusters"
   ],
   [
-    "security",
-    13,
-    "https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html"
+    "beach",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/17/hbo-burning-man-series"
   ],
   [
-    "latest",
+    "really",
     13,
-    "https://www.nytimes.com/2026/07/17/briefing/us-iran-attacks-canada-wildfire-smoke.html"
-  ],
-  [
-    "past",
-    13,
-    "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html"
+    "https://www.nytimes.com/2026/07/17/us/politics/democrats-republicans-midterms-cash.html"
   ],
   [
     "company",
@@ -311,39 +336,19 @@
     "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
   ],
   [
-    "taco",
-    13,
-    "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
-  ],
-  [
-    "bell",
-    13,
-    "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
-  ],
-  [
-    "foot",
-    13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "several",
-    13,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "team",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "fans",
-    13,
-    "https://www.theguardian.com/wellness/2026/jul/17/dating-a-friends-ex"
-  ],
-  [
     "season",
     13,
     "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
+  ],
+  [
+    "something",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/17/ai-meta-smart-glasses"
+  ],
+  [
+    "missing",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/17/san-francisco-boat-wreckage-alcatraz"
   ],
   [
     "late",
@@ -351,28 +356,23 @@
     "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell"
   ],
   [
-    "because",
-    13,
-    "https://www.theguardian.com/world/2026/jul/18/ukraine-war-briefing-protests-of-fedorovs-dismissal-continue-as-zelenskyy-tries-to-repair-rift-with-poland"
-  ],
-  [
     "recent",
     13,
     "https://www.theguardian.com/world/2026/jul/18/ukraine-war-briefing-protests-of-fedorovs-dismissal-continue-as-zelenskyy-tries-to-repair-rift-with-poland"
   ],
   [
-    "burnham",
+    "almost",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jul/17/andy-burnham-prime-minister-plan-inspiration"
+    "https://www.theguardian.com/world/2026/jul/18/ukraine-war-briefing-protests-of-fedorovs-dismissal-continue-as-zelenskyy-tries-to-repair-rift-with-poland"
   ],
   [
-    "paul",
+    "car",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge"
+    "https://www.theguardian.com/tv-and-radio/2026/jul/18/pompeii-out-of-time-with-tom-hiddleston-tearjerking-television-disney"
   ],
   [
-    "chinese",
-    12,
-    "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html"
+    "experience",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/18/dog-has-bigger-social-network-than-me-tim-dowling"
   ]
 ];

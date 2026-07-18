@@ -3,13 +3,13 @@
   "ORG": [
     {
       "name": "Trump Threatens Canada With Tariffs For",
-      "count": 51,
+      "count": 61,
       "url": "https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html",
       "source": "NY Times"
     },
     {
       "name": "The White House",
-      "count": 19,
+      "count": 20,
       "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html",
       "source": "NY Times"
     },
@@ -27,7 +27,7 @@
     },
     {
       "name": "Taco Bell",
-      "count": 13,
+      "count": 12,
       "url": "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html",
       "source": "NY Times"
     },
@@ -39,7 +39,7 @@
     },
     {
       "name": "Us Senate",
-      "count": 10,
+      "count": 11,
       "url": "https://www.foxnews.com/politics/trump-pushes-lindsey-grahams-sister-run-us-senate-after-she-gets-appointment-finish-out-term",
       "source": "Fox News"
     },
@@ -50,22 +50,84 @@
       "source": "The Guardian"
     },
     {
-      "name": "Ice",
-      "count": 7,
-      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
-      "source": "Wall St. Journal"
-    },
-    {
       "name": "U.S. Forest Service",
       "count": 7,
       "url": "https://www.latimes.com/california/story/2026-07-17/forest-service-workers-taken-hostage-held-at-gunpoint-in-norcal-feds-say",
       "source": "LA Times"
+    },
+    {
+      "name": "Ice",
+      "count": 6,
+      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+      "source": "Wall St. Journal"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "The 2026 World Cup",
+      "count": 41,
+      "url": "https://www.theguardian.com/us-news/video/2026/jul/17/who-won-the-world-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/07/14/sports/soccer/world-cup-photos.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Iran War",
+      "count": 3,
+      "url": "https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "A World Series",
+      "count": 2,
+      "url": "https://www.foxnews.com/sports/jazz-chisholm-jr-knicks-championship-parade-fuels-world-series-hunger-yankees",
+      "source": "Fox News"
+    },
+    {
+      "name": "The Falklands War",
+      "count": 2,
+      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/diplomatic-view-from-d-c-00999880",
+      "source": "Politico"
+    },
+    {
+      "name": "Night Live",
+      "count": 1,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/18/an-overnight-success-after-25-years-delicious-ted-lassos-hannah-waddingham-on-sexism-stunts-and-stardom-at-51",
+      "source": "The Guardian"
+    },
+    {
+      "name": "This World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/jul/17/gods-will-destiny-lionel-messi-lamine-yamal-that-photo-and-the-world-cup-final",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Us World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/jul/17/fox-world-cup-coverage-us-2026",
+      "source": "The Guardian"
+    },
+    {
+      "name": "A World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/jul/17/fox-world-cup-coverage-us-2026",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Open Championship",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jul/17/bryson-dechambeau-the-open-participation-in-doubt-two-stroke-penalty-golf",
+      "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 61,
+      "count": 66,
       "url": "https://www.theguardian.com/us-news/2026/jul/17/trump-claims-primetime-address",
       "source": "The Guardian"
     },
@@ -77,26 +139,26 @@
     },
     {
       "name": "California",
-      "count": 24,
+      "count": 22,
       "url": "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html",
       "source": "NY Times"
     },
     {
+      "name": "Iran",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Spain",
-      "count": 19,
-      "url": "https://www.theguardian.com/football/2026/jul/17/gods-will-destiny-lionel-messi-lamine-yamal-that-photo-and-the-world-cup-final",
+      "count": 20,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
       "source": "The Guardian"
     },
     {
       "name": "Canada",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
       "count": 17,
-      "url": "https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html",
+      "url": "https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html",
       "source": "NY Times"
     },
     {
@@ -139,32 +201,20 @@
     },
     {
       "name": "Taylor Farms De Mexico",
-      "count": 14,
+      "count": 13,
       "url": "https://thehill.com/policy/healthcare/5975363-taylor-farms-iceberg-lettuce-cyclosporiasis/",
       "source": "The Hill"
     },
     {
       "name": "Odyssey",
-      "count": 13,
-      "url": "https://www.theguardian.com/film/video/2026/jul/17/the-odyssey-is-nolan-adaptation-worth-the-hype-the-latest",
+      "count": 11,
+      "url": "https://www.theguardian.com/culture/2026/jul/17/christopher-nolan-forces-all-rivals-to-flee-as-he-dominates-the-battle-of-the-blockbusters",
       "source": "The Guardian"
-    },
-    {
-      "name": "Markwayne Mullin",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html",
-      "source": "NY Times"
     },
     {
       "name": "Caitlin Clark",
       "count": 9,
       "url": "https://www.theguardian.com/sport/2026/jul/17/caitlin-clark-45-points-10-assists-fever-storm-wnba-record",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Paul Pelosi",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge",
       "source": "The Guardian"
     },
     {
@@ -174,79 +224,29 @@
       "source": "LA Times"
     },
     {
+      "name": "Paul Pelosi",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Lindsey Graham",
       "count": 7,
       "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-endorses-darline-graham-senate.html",
       "source": "NY Times"
     },
     {
-      "name": "Andy Burnham",
+      "name": "Nancy Pelosi",
       "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/17/andy-burnham-prime-minister-plan-inspiration",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge",
       "source": "The Guardian"
     }
   ],
-  "EVENT": [
-    {
-      "name": "The 2026 World Cup",
-      "count": 39,
-      "url": "https://www.theguardian.com/us-news/video/2026/jul/17/who-won-the-world-cup",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The World Cup",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/07/14/sports/soccer/world-cup-photos.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "World Eskimo Indian Olympics",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/alaska-world-eskimo-indian-olympics-arctic-sports",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran War Escalates",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/07/17/briefing/us-iran-attacks-canada-wildfire-smoke.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "A World Series",
-      "count": 2,
-      "url": "https://www.foxnews.com/sports/jazz-chisholm-jr-knicks-championship-parade-fuels-world-series-hunger-yankees",
-      "source": "Fox News"
-    },
-    {
-      "name": "The Falklands War",
-      "count": 2,
-      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/diplomatic-view-from-d-c-00999880",
-      "source": "Politico"
-    },
-    {
-      "name": "The Iran War",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "This World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jul/17/gods-will-destiny-lionel-messi-lamine-yamal-that-photo-and-the-world-cup-final",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Wimbledon",
-      "count": 1,
-      "url": "https://www.theguardian.com/fashion/2026/jul/17/kitten-heel-flip-flops-winning-over-flats-only-gen-z",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Us World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jul/17/fox-world-cup-coverage-us-2026",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-07-18T03:57:28Z"
+  "updated": "2026-07-18T08:51:11Z"
 };
