@@ -2,23 +2,28 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    85,
-    "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html"
+    100,
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-election-save-act-republicans-midterms.html"
   ],
   [
     "cup",
-    68,
+    58,
     "https://www.nytimes.com/2026/07/14/sports/soccer/world-cup-photos.html"
   ],
   [
     "president",
-    34,
-    "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html"
+    47,
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-election-save-act-republicans-midterms.html"
+  ],
+  [
+    "smoke",
+    42,
+    "https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html"
   ],
   [
     "election",
-    34,
-    "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html"
+    38,
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-election-save-act-republicans-midterms.html"
   ],
   [
     "air",
@@ -26,109 +31,139 @@
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "film",
-    27,
-    "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger"
+    "claims",
+    31,
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-election-save-act-republicans-midterms.html"
   ],
   [
     "war",
-    26,
-    "https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html"
-  ],
-  [
-    "smoke",
-    25,
-    "https://www.nytimes.com/2026/07/17/weather/smoke-forecast.html"
-  ],
-  [
-    "summer",
-    25,
-    "https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike"
-  ],
-  [
-    "final",
-    25,
-    "https://www.theguardian.com/football/2026/jul/17/gods-will-destiny-lionel-messi-lamine-yamal-that-photo-and-the-world-cup-final"
-  ],
-  [
-    "games",
-    22,
-    "https://www.theguardian.com/football/2026/jul/18/world-cup-memes-messi-haaland-bellingham-beckham-viking-row-japan"
-  ],
-  [
-    "iran",
-    21,
-    "https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html"
-  ],
-  [
-    "claims",
-    21,
-    "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html"
-  ],
-  [
-    "don",
-    21,
-    "https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike"
-  ],
-  [
-    "speech",
-    20,
-    "https://www.nytimes.com/2026/07/16/us/politics/trump-speech-television-networks.html"
-  ],
-  [
-    "china",
-    20,
-    "https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html"
-  ],
-  [
-    "political",
-    20,
-    "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html"
-  ],
-  [
-    "food",
-    19,
-    "https://www.theguardian.com/thefilter-us/2026/jul/17/back-to-school-sales-deals"
+    30,
+    "https://www.nytimes.com/2026/07/17/briefing/us-iran-attacks-canada-wildfire-smoke.html"
   ],
   [
     "california",
-    19,
+    30,
+    "https://www.nytimes.com/2026/07/17/us/california-billionaire-tax-opponents-ad-campaign.html"
+  ],
+  [
+    "film",
+    30,
+    "https://www.theguardian.com/film/video/2026/jul/17/the-odyssey-is-nolan-adaptation-worth-the-hype-the-latest"
+  ],
+  [
+    "games",
+    26,
+    "https://www.theguardian.com/football/2026/jul/18/world-cup-memes-messi-haaland-bellingham-beckham-viking-row-japan"
+  ],
+  [
+    "wildfire",
+    24,
+    "https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html"
+  ],
+  [
+    "don",
+    24,
     "https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike"
   ],
   [
+    "summer",
+    23,
+    "https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike"
+  ],
+  [
+    "pelosi",
+    23,
+    "https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge"
+  ],
+  [
+    "final",
+    22,
+    "https://www.theguardian.com/football/2026/jul/17/gods-will-destiny-lionel-messi-lamine-yamal-that-photo-and-the-world-cup-final"
+  ],
+  [
+    "outbreak",
+    21,
+    "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
+  ],
+  [
+    "odyssey",
+    21,
+    "https://www.theguardian.com/film/video/2026/jul/17/the-odyssey-is-nolan-adaptation-worth-the-hype-the-latest"
+  ],
+  [
+    "iran",
+    20,
+    "https://www.nytimes.com/2026/07/17/briefing/us-iran-attacks-canada-wildfire-smoke.html"
+  ],
+  [
+    "canada",
+    20,
+    "https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html"
+  ],
+  [
+    "lettuce",
+    20,
+    "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
+  ],
+  [
+    "donald",
+    20,
+    "https://www.washingtonpost.com/investigations/interactive/2026/07/16/reflecting-pool-peeling-likely-caused-by-application-flaws-experts-say/"
+  ],
+  [
     "again",
+    19,
+    "https://www.nytimes.com/video/opinion/100000011034989/on-fire-again.html"
+  ],
+  [
+    "game",
+    19,
+    "https://www.theguardian.com/us-news/2026/jul/17/alaska-world-eskimo-indian-olympics-arctic-sports"
+  ],
+  [
+    "china",
     18,
-    "https://www.theguardian.com/commentisfree/2026/jul/17/trump-speech-election-denialism"
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html"
+  ],
+  [
+    "east",
+    18,
+    "https://www.nytimes.com/2026/07/17/nyregion/nyc-building-emergency-companies.html"
+  ],
+  [
+    "york",
+    17,
+    "https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html"
+  ],
+  [
+    "wildfires",
+    17,
+    "https://www.nytimes.com/2026/07/17/weather/oregon-wildfires-smoke-canada.html"
+  ],
+  [
+    "country",
+    17,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "filter",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
+  ],
+  [
+    "guide",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
+  ],
+  [
+    "health",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
   ],
   [
     "spain",
-    18,
-    "https://www.theguardian.com/us-news/2026/jul/17/portugal-world-cup-team-ice-deportation-planes"
-  ],
-  [
-    "graham",
-    18,
-    "https://www.theguardian.com/us-news/2026/jul/17/lindsey-graham-death-south-carolina-legacy"
-  ],
-  [
-    "love",
-    18,
-    "https://www.theguardian.com/fashion/2026/jul/17/kitten-heel-flip-flops-winning-over-flats-only-gen-z"
-  ],
-  [
-    "night",
     17,
-    "https://www.theguardian.com/society/2026/jul/17/twelve-days-nursing-my-father-in-the-dying-room-taught-me-the-value-of-planning-for-death"
-  ],
-  [
-    "states",
-    17,
-    "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates"
-  ],
-  [
-    "late",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell"
+    "https://www.theguardian.com/football/2026/jul/17/gods-will-destiny-lionel-messi-lamine-yamal-that-photo-and-the-world-cup-final"
   ],
   [
     "star",
@@ -136,243 +171,208 @@
     "https://www.theguardian.com/film/video/2026/jul/17/the-odyssey-is-nolan-adaptation-worth-the-hype-the-latest"
   ],
   [
-    "full",
-    16,
-    "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html"
+    "love",
+    17,
+    "https://www.theguardian.com/fashion/2026/jul/17/kitten-heel-flip-flops-winning-over-flats-only-gen-z"
   ],
   [
-    "donald",
+    "speech",
     16,
-    "https://www.washingtonpost.com/investigations/interactive/2026/07/16/reflecting-pool-peeling-likely-caused-by-application-flaws-experts-say/"
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html"
   ],
   [
-    "country",
+    "strikes",
     16,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html"
   ],
   [
-    "filter",
+    "taylor",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/jul/17/back-to-school-sales-deals"
+    "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
   ],
   [
-    "guide",
+    "night",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/jul/17/back-to-school-sales-deals"
+    "https://www.theguardian.com/commentisfree/2026/jul/17/trump-speech-election-denialism"
   ],
   [
-    "odyssey",
-    16,
-    "https://www.theguardian.com/film/video/2026/jul/17/the-odyssey-is-nolan-adaptation-worth-the-hype-the-latest"
-  ],
-  [
-    "game",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/17/alaska-world-eskimo-indian-olympics-arctic-sports"
-  ],
-  [
-    "water",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/16/los-angeles-sinkhole-flooding"
-  ],
-  [
-    "prime",
+    "farms",
     15,
-    "https://www.nytimes.com/2026/07/16/us/politics/trump-speech-television-networks.html"
+    "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
   ],
   [
-    "burnham",
+    "states",
     15,
-    "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html"
+    "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
   ],
   [
-    "minister",
+    "food",
     15,
-    "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html"
+    "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
   ],
   [
     "early",
     15,
-    "https://www.nytimes.com/2026/07/17/us/politics/republicans-in-north-carolina-try-to-reduce-early-voting-on-sundays-and-on-campuses.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "secretary",
+    "american",
     15,
-    "https://www.washingtonpost.com/nation/2026/07/16/after-blue-angels-low-flyover-acting-navy-secretary-says-no-firings/"
+    "https://www.theguardian.com/us-news/2026/jul/17/trump-claims-primetime-address"
   ],
   [
-    "east",
+    "weekly",
     15,
-    "https://www.theguardian.com/commentisfree/2026/jul/17/trump-speech-election-denialism"
+    "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
   ],
   [
-    "administration",
+    "buying",
     15,
-    "https://www.theguardian.com/us-news/2026/jul/17/portugal-world-cup-team-ice-deportation-planes"
+    "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
+  ],
+  [
+    "argentina",
+    15,
+    "https://www.theguardian.com/us-news/video/2026/jul/17/who-won-the-world-cup"
   ],
   [
     "place",
     15,
-    "https://www.theguardian.com/sport/2026/jul/17/tom-pidcock-surges-up-standings-while-mauro-schmid-wins-tour-de-france-stage-13"
+    "https://www.theguardian.com/football/2026/jul/17/smoke-travel-trump-new-york-world-cup-final"
   ],
   [
-    "lettuce",
-    14,
-    "https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html"
-  ],
-  [
-    "team",
-    14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "buying",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jul/17/back-to-school-sales-deals"
-  ],
-  [
-    "court",
-    14,
-    "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger"
-  ],
-  [
-    "south",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/17/lindsey-graham-death-south-carolina-legacy"
-  ],
-  [
-    "record",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/17/alaska-world-eskimo-indian-olympics-arctic-sports"
-  ],
-  [
-    "beach",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/17/hbo-burning-man-series"
-  ],
-  [
-    "cbs",
-    14,
-    "https://www.cbsnews.com/news/darline-graham-us-senate-south-carolina-lindsey-graham/"
-  ],
-  [
-    "outbreak",
-    13,
-    "https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html"
-  ],
-  [
-    "health",
-    13,
-    "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html"
-  ],
-  [
-    "hollywood",
-    13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "ice",
-    13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "canada",
-    13,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "mexico",
-    13,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "something",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jul/17/ai-meta-smart-glasses"
-  ],
-  [
-    "weekly",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/17/back-to-school-sales-deals"
-  ],
-  [
-    "fewer",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/17/back-to-school-sales-deals"
-  ],
-  [
-    "social",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates"
-  ],
-  [
-    "today",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates"
-  ],
-  [
-    "soccer",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/17/portugal-world-cup-team-ice-deportation-planes"
-  ],
-  [
-    "wildfire",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east"
-  ],
-  [
-    "died",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/17/lindsey-graham-death-south-carolina-legacy"
-  ],
-  [
-    "argentina",
-    13,
+    "history",
+    15,
     "https://www.theguardian.com/football/2026/jul/17/world-cup-conspiracy-theories-var-ai-argentina"
   ],
   [
-    "watch",
-    13,
-    "https://www.theguardian.com/football/2026/jul/17/telemundo-world-cup-english-speaking-viewers"
+    "water",
+    14,
+    "https://www.nytimes.com/2026/07/17/briefing/us-iran-attacks-canada-wildfire-smoke.html"
   ],
   [
-    "france",
-    13,
-    "https://www.theguardian.com/sport/2026/jul/17/tom-pidcock-surges-up-standings-while-mauro-schmid-wins-tour-de-france-stage-13"
+    "military",
+    14,
+    "https://www.nytimes.com/2026/07/17/world/europe/ukraine-fedorov-defense-minister.html"
   ],
   [
-    "county",
+    "graham",
+    14,
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-endorses-darline-graham-senate.html"
+  ],
+  [
+    "secretary",
+    14,
+    "https://www.washingtonpost.com/nation/2026/07/16/after-blue-angels-low-flyover-acting-navy-secretary-says-no-firings/"
+  ],
+  [
+    "fewer",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
+  ],
+  [
+    "forest",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/17/kidnapped-us-forest-service-employees-released"
+  ],
+  [
+    "nolan",
+    14,
+    "https://www.theguardian.com/film/video/2026/jul/17/the-odyssey-is-nolan-adaptation-worth-the-hype-the-latest"
+  ],
+  [
+    "full",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/16/la-millionaire-remains-identified"
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html"
+  ],
+  [
+    "government",
+    13,
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html"
   ],
   [
     "security",
     13,
-    "https://www.foxnews.com/politics/white-house-dishes-new-election-security-jab-olive-garden-pasta-pass-id-policy"
+    "https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html"
+  ],
+  [
+    "latest",
+    13,
+    "https://www.nytimes.com/2026/07/17/briefing/us-iran-attacks-canada-wildfire-smoke.html"
   ],
   [
     "past",
-    12,
+    13,
     "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html"
   ],
   [
-    "black",
-    12,
-    "https://www.nytimes.com/2026/07/17/us/politics/black-representation-voting-rights-act.html"
+    "company",
+    13,
+    "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
   ],
   [
-    "leave",
-    12,
-    "https://www.nytimes.com/2026/07/17/opinion/trump-smithsonian-cold-war.html"
+    "taco",
+    13,
+    "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
+  ],
+  [
+    "bell",
+    13,
+    "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html"
   ],
   [
     "foot",
-    12,
+    13,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "campaign",
+    "several",
+    13,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "team",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "fans",
+    13,
+    "https://www.theguardian.com/wellness/2026/jul/17/dating-a-friends-ex"
+  ],
+  [
+    "season",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jul/17/how-to-clean-vegetables-cyclospora"
+  ],
+  [
+    "late",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell"
+  ],
+  [
+    "because",
+    13,
+    "https://www.theguardian.com/world/2026/jul/18/ukraine-war-briefing-protests-of-fedorovs-dismissal-continue-as-zelenskyy-tries-to-repair-rift-with-poland"
+  ],
+  [
+    "recent",
+    13,
+    "https://www.theguardian.com/world/2026/jul/18/ukraine-war-briefing-protests-of-fedorovs-dismissal-continue-as-zelenskyy-tries-to-repair-rift-with-poland"
+  ],
+  [
+    "burnham",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/17/andy-burnham-prime-minister-plan-inspiration"
+  ],
+  [
+    "paul",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge"
+  ],
+  [
+    "chinese",
     12,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html"
   ]
 ];
