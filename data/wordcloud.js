@@ -2,113 +2,103 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    88,
+    74,
     "https://www.nytimes.com/2026/07/18/us/mike-lindell-mypillow-minnsota-governor-election.html"
   ],
   [
     "cup",
-    71,
+    74,
     "https://www.nytimes.com/2026/07/17/arts/television/world-cup.html"
   ],
   [
     "president",
-    41,
+    37,
     "https://www.nytimes.com/2026/07/18/us/mike-lindell-mypillow-minnsota-governor-election.html"
   ],
   [
-    "war",
-    28,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "air",
-    27,
-    "https://www.nytimes.com/2026/07/18/us/politics/trump-air-force-one-travel.html"
+    "final",
+    35,
+    "https://www.theguardian.com/us-news/video/2026/jul/17/who-won-the-world-cup"
   ],
   [
     "iran",
-    27,
-    "https://www.theguardian.com/commentisfree/2026/jul/18/donald-trump-iran-world-danger-bombing-us"
+    29,
+    "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html"
   ],
   [
-    "killed",
-    27,
-    "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict"
-  ],
-  [
-    "final",
-    27,
-    "https://www.theguardian.com/news/2026/jul/18/six-great-reads-flight-attendant-confessions-culture-wars-and-sam-neills-final-interview"
-  ],
-  [
-    "strikes",
-    26,
-    "https://www.nytimes.com/2026/07/18/world/middleeast/us-iran-war-strikes-bridges-bandar-abbas.html"
+    "air",
+    28,
+    "https://www.nytimes.com/2026/07/18/us/politics/trump-air-force-one-travel.html"
   ],
   [
     "service",
-    26,
-    "https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html"
+    27,
+    "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html"
+  ],
+  [
+    "game",
+    27,
+    "https://www.theguardian.com/us-news/video/2026/jul/17/who-won-the-world-cup"
   ],
   [
     "smoke",
-    25,
-    "https://www.nytimes.com/2026/07/18/weather/canada-wildfires-smoke-updates-today.html"
-  ],
-  [
-    "graham",
-    24,
-    "https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html"
-  ],
-  [
-    "canada",
-    23,
-    "https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html"
-  ],
-  [
-    "california",
-    23,
-    "https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge"
-  ],
-  [
-    "york",
-    22,
-    "https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html"
-  ],
-  [
-    "american",
-    22,
-    "https://www.nytimes.com/2026/07/18/opinion/politics-compromise-todd-blanche.html"
-  ],
-  [
-    "england",
-    22,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/18/sports-stars-on-sleep-tips-ezri-konsa-katarina-johnson-thompson-adam-peaty"
-  ],
-  [
-    "senate",
-    21,
-    "https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html"
+    26,
+    "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html"
   ],
   [
     "spain",
-    21,
-    "https://www.theguardian.com/us-news/2026/jul/18/fergie-chambers-stella-schnabel-spain-extradition"
+    25,
+    "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season"
   ],
   [
-    "court",
-    21,
-    "https://www.theguardian.com/us-news/2026/jul/18/fergie-chambers-stella-schnabel-spain-extradition"
+    "killed",
+    24,
+    "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html"
+  ],
+  [
+    "england",
+    24,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/18/sports-stars-on-sleep-tips-ezri-konsa-katarina-johnson-thompson-adam-peaty"
+  ],
+  [
+    "argentina",
+    24,
+    "https://www.theguardian.com/us-news/video/2026/jul/17/who-won-the-world-cup"
   ],
   [
     "missing",
-    21,
-    "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict"
+    23,
+    "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html"
   ],
   [
-    "south",
+    "war",
+    22,
+    "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html"
+  ],
+  [
+    "summer",
+    22,
+    "https://www.nytimes.com/2026/07/17/arts/television/world-cup.html"
+  ],
+  [
+    "love",
+    22,
+    "https://www.theguardian.com/thefilter-us/2026/jul/18/best-screen-free-activities-summer"
+  ],
+  [
+    "por",
+    22,
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/inglaterra-y-francia-regalaron-un-festival-de-goles-en-el-duelo-por-el-tercer-lugar-tmvo13205164"
+  ],
+  [
+    "york",
     21,
-    "https://www.theguardian.com/us-news/2026/jul/18/us-house-ralph-norman-south-carolina-lindsey-graham"
+    "https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html"
+  ],
+  [
+    "canada",
+    21,
+    "https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html"
   ],
   [
     "don",
@@ -116,44 +106,59 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/18/best-screen-free-activities-summer"
   ],
   [
-    "summer",
-    20,
-    "https://www.nytimes.com/2026/07/17/arts/television/world-cup.html"
+    "fifa",
+    21,
+    "https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue"
   ],
   [
-    "health",
+    "jordan",
     20,
-    "https://www.theguardian.com/us-news/2026/jul/18/how-to-file-a-consumer-complaint"
-  ],
-  [
-    "donald",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/jul/18/donald-trump-iran-world-danger-bombing-us"
-  ],
-  [
-    "love",
-    20,
-    "https://www.theguardian.com/us-news/2026/jul/18/fergie-chambers-stella-schnabel-spain-extradition"
-  ],
-  [
-    "members",
-    20,
-    "https://www.theguardian.com/us-news/2026/jul/17/justin-pearson-memphis-rally-progressive-democrat-aoc"
-  ],
-  [
-    "again",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/jul/18/donald-trump-iran-world-danger-bombing-us"
+    "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html"
   ],
   [
     "water",
-    19,
+    20,
     "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season"
   ],
   [
-    "games",
+    "record",
+    20,
+    "https://www.theguardian.com/society/2026/jul/18/trump-cyclosporiasis-outbreak"
+  ],
+  [
+    "american",
+    20,
+    "https://www.theguardian.com/culture/2026/jul/18/black-american-women-south-korea-healthcare"
+  ],
+  [
+    "inglaterra",
+    20,
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/inglaterra-y-francia-regalaron-un-festival-de-goles-en-el-duelo-por-el-tercer-lugar-tmvo13205164"
+  ],
+  [
+    "strikes",
     19,
-    "https://www.theguardian.com/thefilter-us/2026/jul/18/best-screen-free-activities-summer"
+    "https://www.nytimes.com/2026/07/18/world/middleeast/us-iran-war-strikes-bridges-bandar-abbas.html"
+  ],
+  [
+    "party",
+    19,
+    "https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html"
+  ],
+  [
+    "wildfires",
+    19,
+    "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html"
+  ],
+  [
+    "arrested",
+    19,
+    "https://www.nytimes.com/2026/07/18/us/tate-brothers-arrest-miami.html"
+  ],
+  [
+    "california",
+    19,
+    "https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge"
   ],
   [
     "film",
@@ -161,24 +166,24 @@
     "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art"
   ],
   [
-    "game",
-    19,
-    "https://www.theguardian.com/us-news/video/2026/jul/17/who-won-the-world-cup"
+    "star",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/18/an-overnight-success-after-25-years-delicious-ted-lassos-hannah-waddingham-on-sexism-stunts-and-stardom-at-51"
   ],
   [
-    "political",
+    "place",
     18,
-    "https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html"
+    "https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report"
   ],
   [
-    "country",
+    "south",
     18,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/culture/2026/jul/18/black-american-women-south-korea-healthcare"
   ],
   [
-    "history",
+    "games",
     18,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/18/sports-stars-on-sleep-tips-ezri-konsa-katarina-johnson-thompson-adam-peaty"
+    "https://www.theguardian.com/thefilter-us/2026/jul/18/best-screen-free-activities-summer"
   ],
   [
     "filter",
@@ -191,19 +196,34 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/18/best-screen-free-activities-summer"
   ],
   [
-    "election",
-    17,
-    "https://www.nytimes.com/2026/07/18/us/mike-lindell-mypillow-minnsota-governor-election.html"
+    "tercer",
+    18,
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/inglaterra-y-francia-regalaron-un-festival-de-goles-en-el-duelo-por-el-tercer-lugar-tmvo13205164"
   ],
   [
-    "jordan",
-    17,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "mundial",
+    18,
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/inglaterra-y-francia-regalaron-un-festival-de-goles-en-el-duelo-por-el-tercer-lugar-tmvo13205164"
   ],
   [
-    "football",
+    "graham",
     17,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/18/an-overnight-success-after-25-years-delicious-ted-lassos-hannah-waddingham-on-sexism-stunts-and-stardom-at-51"
+    "https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html"
+  ],
+  [
+    "states",
+    17,
+    "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html"
+  ],
+  [
+    "again",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/jul/18/donald-trump-iran-world-danger-bombing-us"
+  ],
+  [
+    "police",
+    17,
+    "https://www.theguardian.com/us-news/2026/jul/17/san-francisco-boat-wreckage-alcatraz"
   ],
   [
     "buying",
@@ -211,59 +231,54 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/18/best-screen-free-activities-summer"
   ],
   [
-    "soccer",
-    17,
-    "https://www.theguardian.com/us-news/video/2026/jul/17/who-won-the-world-cup"
-  ],
-  [
-    "place",
-    17,
-    "https://www.theguardian.com/football/live/2026/jul/18/france-v-england-world-cup-third-place-playoff-live"
-  ],
-  [
-    "states",
-    16,
-    "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html"
-  ],
-  [
-    "wildfire",
-    16,
-    "https://www.nytimes.com/2026/07/18/weather/canada-wildfires-smoke-updates-today.html"
-  ],
-  [
-    "attacks",
-    16,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "star",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/18/an-overnight-success-after-25-years-delicious-ted-lassos-hannah-waddingham-on-sexism-stunts-and-stardom-at-51"
-  ],
-  [
-    "something",
-    16,
-    "https://www.theguardian.com/culture/2026/jul/18/black-american-women-south-korea-healthcare"
-  ],
-  [
     "messi",
+    17,
+    "https://www.theguardian.com/us-news/video/2026/jul/17/who-won-the-world-cup"
+  ],
+  [
+    "iranian",
+    16,
+    "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html"
+  ],
+  [
+    "health",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/18/how-to-file-a-consumer-complaint"
+  ],
+  [
+    "husband",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge"
+  ],
+  [
+    "weekly",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/jul/18/best-screen-free-activities-summer"
+  ],
+  [
+    "soccer",
     16,
     "https://www.theguardian.com/us-news/video/2026/jul/17/who-won-the-world-cup"
   ],
   [
-    "party",
+    "members",
     16,
-    "https://www.theguardian.com/politics/2026/jul/18/inevitable-toxic-mix-fuelling-deadly-political-violence-world"
+    "https://www.theguardian.com/us-news/2026/jul/17/justin-pearson-memphis-rally-progressive-democrat-aoc"
   ],
   [
-    "school",
+    "lugar",
     16,
-    "https://www.theguardian.com/world/2026/jul/18/ukraine-war-briefing-protests-of-fedorovs-dismissal-continue-as-zelenskyy-tries-to-repair-rift-with-poland"
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/inglaterra-y-francia-regalaron-un-festival-de-goles-en-el-duelo-por-el-tercer-lugar-tmvo13205164"
   ],
   [
-    "wildfires",
+    "que",
+    16,
+    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/inglaterra-y-francia-regalaron-un-festival-de-goles-en-el-duelo-por-el-tercer-lugar-tmvo13205164"
+  ],
+  [
+    "military",
     15,
-    "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "everything",
@@ -271,9 +286,19 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
+    "country",
+    15,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
     "lives",
     15,
     "https://www.theguardian.com/tv-and-radio/2026/jul/18/an-overnight-success-after-25-years-delicious-ted-lassos-hannah-waddingham-on-sexism-stunts-and-stardom-at-51"
+  ],
+  [
+    "donald",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jul/18/donald-trump-iran-world-danger-bombing-us"
   ],
   [
     "france",
@@ -281,24 +306,19 @@
     "https://www.theguardian.com/commentisfree/2026/jul/18/the-hill-i-will-die-on-paris-waiters-misunderstood-stereotype"
   ],
   [
-    "iranian",
+    "because",
     15,
-    "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict"
+    "https://www.theguardian.com/news/2026/jul/18/andrew-tristan-tate-arrested-miami"
   ],
   [
-    "east",
+    "los",
     15,
-    "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict"
+    "https://www.theguardian.com/us-news/2026/jul/16/los-angeles-sinkhole-flooding"
   ],
   [
-    "record",
+    "something",
     15,
-    "https://www.theguardian.com/society/2026/jul/18/trump-cyclosporiasis-outbreak"
-  ],
-  [
-    "weekly",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jul/18/best-screen-free-activities-summer"
+    "https://www.theguardian.com/culture/2026/jul/18/black-american-women-south-korea-healthcare"
   ],
   [
     "fewer",
@@ -306,9 +326,14 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/18/best-screen-free-activities-summer"
   ],
   [
-    "name",
+    "del",
     15,
-    "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art"
+    "https://www.theguardian.com/football/2026/jul/18/shackle-rodri-the-metronome-and-argentinas-passion-play-can-floor-spain"
+  ],
+  [
+    "food",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jul/18/nelson-mandela-day-madiba-zohran-mamdani"
   ],
   [
     "odyssey",
@@ -316,14 +341,29 @@
     "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey"
   ],
   [
+    "political",
+    14,
+    "https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html"
+  ],
+  [
     "minister",
     14,
     "https://www.nytimes.com/2026/07/18/nyregion/mamdani-netanyahu-interview.html"
   ],
   [
-    "lindsey",
+    "force",
     14,
-    "https://www.nytimes.com/2026/07/18/opinion/politics-compromise-todd-blanche.html"
+    "https://www.nytimes.com/2026/07/18/us/politics/trump-air-force-one-travel.html"
+  ],
+  [
+    "least",
+    14,
+    "https://www.nytimes.com/2026/07/18/us/boosie-badazz-pardon-lawsuit.html"
+  ],
+  [
+    "miami",
+    14,
+    "https://www.nytimes.com/2026/07/18/us/tate-brothers-arrest-miami.html"
   ],
   [
     "north",
@@ -331,48 +371,8 @@
     "https://www.washingtonpost.com/nation/2026/07/18/litters-red-wolves-born-nc-boosting-critically-endangered-population/"
   ],
   [
-    "military",
+    "team",
     14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "infrastructure",
-    14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "ice",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "norman",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/18/us-house-ralph-norman-south-carolina-lindsey-graham"
-  ],
-  [
-    "anti",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/18/idaho-mother-twins-death-vaccines"
-  ],
-  [
-    "island",
-    14,
-    "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink"
-  ],
-  [
-    "became",
-    14,
-    "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art"
-  ],
-  [
-    "argentina",
-    14,
-    "https://www.theguardian.com/us-news/video/2026/jul/17/who-won-the-world-cup"
-  ],
-  [
-    "lionel",
-    14,
-    "https://www.theguardian.com/us-news/video/2026/jul/17/who-won-the-world-cup"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ]
 ];
