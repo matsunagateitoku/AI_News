@@ -2,22 +2,10 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Gutted Civil Rights Agency",
-      "count": 36,
-      "url": "https://www.nytimes.com/2026/07/19/us/politics/trump-gutted-civil-rights-agency-stifling-us-scrutiny-of-workplace-bias.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Un",
-      "count": 15,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/inglaterra-y-francia-regalaron-un-festival-de-goles-en-el-duelo-por-el-tercer-lugar-tmvo13205164",
-      "source": "NBC News"
-    },
-    {
-      "name": "Congress",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/justin-pearson-memphis-rally-progressive-democrat-aoc",
-      "source": "The Guardian"
+      "name": "Target For Trump",
+      "count": 43,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     },
     {
       "name": "The Filter Us",
@@ -26,162 +14,112 @@
       "source": "The Guardian"
     },
     {
-      "name": "El Tercer Lugar De La Copa Mundial De La Fifa 2026",
-      "count": 11,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/inglaterra-y-francia-regalaron-un-festival-de-goles-en-el-duelo-por-el-tercer-lugar-tmvo13205164",
-      "source": "NBC News"
-    },
-    {
-      "name": "Guardian Us",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/video/2026/jul/17/who-won-the-world-cup",
+      "name": "Modern Ai",
+      "count": 9,
+      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
       "source": "The Guardian"
     },
     {
       "name": "Fifa",
-      "count": 8,
-      "url": "https://www.theguardian.com/football/2026/jul/19/spain-v-argentina-world-cup-final-referee-stats-omens",
+      "count": 9,
+      "url": "https://www.theguardian.com/football/2026/jul/19/donald-trump-world-cup-final",
       "source": "The Guardian"
     },
     {
-      "name": "Inglaterra Y Francia",
+      "name": "White House",
       "count": 8,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/inglaterra-y-francia-regalaron-un-festival-de-goles-en-el-duelo-por-el-tercer-lugar-tmvo13205164",
-      "source": "NBC News"
+      "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-final-trump-halftime-show-shakira-bts-madonna-everything-but-football",
+      "source": "The Guardian"
     },
     {
-      "name": "Shania Twain",
-      "count": 7,
-      "url": "https://www.cbsnews.com/news/shania-twain-on-little-miss-twain/",
-      "source": "CBS News"
+      "name": "Congress",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/justin-pearson-memphis-rally-progressive-democrat-aoc",
+      "source": "The Guardian"
     },
     {
-      "name": "Modern Ai",
+      "name": "Un",
       "count": 6,
-      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
-      "source": "The Guardian"
-    }
-  ],
-  "EVENT": [
-    {
-      "name": "England 2026 World Cup",
-      "count": 54,
-      "url": "https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/mamdani-netanyahu",
       "source": "The Guardian"
     },
     {
-      "name": "The World Cup",
-      "count": 28,
-      "url": "https://www.nytimes.com/2026/07/19/briefing/world-cup-final.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The 2026 World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/us-news/video/2026/jul/17/who-won-the-world-cup",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Falklands War",
-      "count": 2,
-      "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/diplomatic-view-from-d-c-00999880",
-      "source": "Politico"
-    },
-    {
-      "name": "The U.S.-Iran War",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "World Cup 2026",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Watergate",
-      "count": 1,
+      "name": "Guardian",
+      "count": 6,
       "url": "https://www.theguardian.com/commentisfree/2026/jul/19/ice-immigration-maga",
       "source": "The Guardian"
     },
     {
-      "name": "Night Live",
-      "count": 1,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/18/an-overnight-success-after-25-years-delicious-ted-lassos-hannah-waddingham-on-sexism-stunts-and-stardom-at-51",
-      "source": "The Guardian"
+      "name": "Ice",
+      "count": 5,
+      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "Astral Weeks",
-      "count": 1,
-      "url": "https://www.theguardian.com/music/2026/jul/19/tricky-honest-playlist-specials-eric-b-rakim-sia-astral-weeks",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Marimittu Games",
-      "count": 1,
-      "url": "https://www.theguardian.com/games/2026/jul/14/d-topia-review-sci-fi-ai-puzzle-game",
-      "source": "The Guardian"
+      "name": "Hamas",
+      "count": 5,
+      "url": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6",
+      "source": "Wall St. Journal"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 62,
-      "url": "https://www.theguardian.com/us-news/2026/jul/19/virginia-giuffre-abuse-jeffrey-epstein-andrew-mountbatten-windsor-sky-roberts-brother-year-death",
+      "count": 52,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/19/ice-killings-immigration-crackdown",
       "source": "The Guardian"
     },
     {
-      "name": "Argentina",
-      "count": 39,
-      "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live",
-      "source": "The Guardian"
+      "name": "De Argentina",
+      "count": 31,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/juan-musso-en-la-previa-nosotros-seguimos-siendo-esos-pibes-que-sonaban-jugar-un-mundial-tmvo13205253",
+      "source": "NBC News"
     },
     {
       "name": "Spain",
-      "count": 32,
-      "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live",
-      "source": "The Guardian"
-    },
-    {
-      "name": "England",
-      "count": 25,
-      "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live",
+      "count": 27,
+      "url": "https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/07/19/us/immigration-chicago-prosecutors.html",
       "source": "NY Times"
     },
     {
       "name": "Iran",
-      "count": 21,
+      "count": 19,
       "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
       "source": "The Guardian"
     },
     {
+      "name": "New York City’S",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/legionnaires-disease-deaths-new-york-city",
+      "source": "The Guardian"
+    },
+    {
       "name": "California",
-      "count": 20,
+      "count": 17,
       "url": "https://www.theguardian.com/us-news/2026/jul/17/kidnapped-us-forest-service-employees-released",
       "source": "The Guardian"
     },
     {
-      "name": "Miami",
+      "name": "New York City",
       "count": 12,
-      "url": "https://www.nytimes.com/2026/07/18/us/tate-brothers-arrest-miami.html",
+      "url": "https://www.nytimes.com/2026/07/19/nyregion/cyclosporiasis-outbreak-nyc-testing.html",
       "source": "NY Times"
     },
     {
-      "name": "Jordan",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
-      "source": "NY Times"
+      "name": "Israel",
+      "count": 12,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
     },
     {
       "name": "America",
-      "count": 10,
+      "count": 12,
       "url": "https://www.theguardian.com/music/2026/jul/19/alabama-shakes-brittany-howard-interview-i-must-be-dreaming",
       "source": "The Guardian"
     }
@@ -189,64 +127,126 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 18,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/19/trump-foreign-election-interference",
+      "count": 24,
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/trump-palm-beach-airport-renamed",
       "source": "The Guardian"
     },
     {
-      "name": "El Talento De Messi",
-      "count": 12,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/el-cuerpo-tecnico-argentino-explica-que-hace-a-su-seleccion-especial-todo-el-mundial-tmvo13205150",
-      "source": "NBC News"
+      "name": "Margaret Brennan",
+      "count": 19,
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-07-19-2026/",
+      "source": "CBS News"
     },
     {
-      "name": "Bukayo Saka",
-      "count": 11,
-      "url": "https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report",
+      "name": "Zohran Mamdani",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/mamdani-netanyahu",
       "source": "The Guardian"
     },
     {
-      "name": "Replace Platner",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html",
-      "source": "NY Times"
+      "name": "Lionel Messi",
+      "count": 15,
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5899071/2026-world-cup-fifa-argentina-spain-final-championship",
+      "source": "NPR"
     },
     {
-      "name": "Tristan Tate",
-      "count": 9,
-      "url": "https://www.theguardian.com/news/2026/jul/18/andrew-tristan-tate-arrested-miami",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Andrew Giuliani",
-      "count": 9,
-      "url": "https://thehill.com/policy/sports-gaming/5976445-argentina-falklands-banner-white-house/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Odyssey",
-      "count": 8,
-      "url": "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kylian Mbappé",
-      "count": 8,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/inglaterra-y-francia-regalaron-un-festival-de-goles-en-el-duelo-por-el-tercer-lugar-tmvo13205164",
-      "source": "NBC News"
-    },
-    {
-      "name": "Hormuz",
-      "count": 5,
-      "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
+      "name": "Tom Homan",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/ice-record-vehicle-stops-body-camera-mandate-homan",
       "source": "The Guardian"
     },
     {
       "name": "Graham Platner",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/jul/19/graham-platner-double-standard-politics",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/mamdani-netanyahu",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Odyssey",
+      "count": 9,
+      "url": "https://www.theguardian.com/books/2026/jul/16/a-voyage-of-discovery-an-idiots-guide-to-reading-the-odyssey",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mark Warner",
+      "count": 9,
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-07-19-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "El De Lamine Yamal",
+      "count": 7,
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/espana-busca-su-segunda-estrella-con-un-equipo-lleno-de-talento-joven-tmvo13205241",
+      "source": "NBC News"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "The 2026 World Cup",
+      "count": 60,
+      "url": "https://www.nbcnews.com/sports/soccer/soccer-fans-fell-love-america-world-cup-rcna588252",
+      "source": "NBC News"
+    },
+    {
+      "name": "The World Cup",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/07/19/opinion/watching-the-world-cup.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "World Cup Final",
+      "count": 4,
+      "url": "https://www.foxnews.com/sports/trump-takes-jennifer-hudson-incredible-national-anthem-performance-world-cup-final",
+      "source": "Fox News"
+    },
+    {
+      "name": "The Open Championship",
+      "count": 3,
+      "url": "https://www.foxnews.com/outkick-sports/rory-mcilroy-last-golfer-criticize-others-performative-behavior",
+      "source": "Fox News"
+    },
+    {
+      "name": "The Super Bowl",
+      "count": 3,
+      "url": "https://www.foxnews.com/outkick-sports/betting-preview-patriots-falling-short-super-bowl-controversial-offseason",
+      "source": "Fox News"
+    },
+    {
+      "name": "This World Cup",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-final-trump-halftime-show-shakira-bts-madonna-everything-but-football",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cup 2026",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The 2026 World Cup’S",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/jul/19/football-daily-email-gwc-cult-heroes",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Irish Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jul/19/open-championship-final-round-ryan-fox-tommy-fleetwood-scottie-scheffler-rory-mcilroy-golf",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Watergate",
+      "count": 1,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/19/ice-immigration-maga",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-07-19T14:24:43Z"
+  "updated": "2026-07-19T20:08:32Z"
 };
