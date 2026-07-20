@@ -3,21 +3,21 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 41,
+      "count": 44,
       "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 37,
-      "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
+      "name": "Spain",
+      "count": 39,
+      "url": "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html",
       "source": "NY Times"
     },
     {
-      "name": "Spain",
-      "count": 29,
-      "url": "https://www.theguardian.com/football/2026/jul/20/trump-world-cup-trophy-lift-spain-infantino-fifa",
-      "source": "The Guardian"
+      "name": "U.S.",
+      "count": 33,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
     },
     {
       "name": "Iran",
@@ -26,177 +26,115 @@
       "source": "The Guardian"
     },
     {
-      "name": "Argentina",
-      "count": 23,
-      "url": "https://www.theguardian.com/football/live/2026/jul/20/world-cup-2026-final-reaction-news-spain-argentina",
+      "name": "New York City",
+      "count": 22,
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/new-york-explosion-fbi-ice",
       "source": "The Guardian"
     },
     {
       "name": "Uk",
-      "count": 14,
-      "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-uk-prime-minister-meeting-king-charles",
-      "source": "The Guardian"
-    },
-    {
-      "name": "England",
-      "count": 12,
-      "url": "https://www.theguardian.com/football/2026/jul/20/thomas-tuchel-football-assocation-fa-england-world-cup-2026-head-coach",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City’S",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/jul/19/legionnaires-disease-deaths-new-york-city",
-      "source": "The Guardian"
-    },
-    {
-      "name": "China",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html",
       "source": "NY Times"
     },
     {
-      "name": "America",
+      "name": "Argentina",
+      "count": 15,
+      "url": "https://www.theguardian.com/football/2026/jul/20/spain-world-cup-celebration-madrid",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 13,
+      "url": "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New Jersey",
       "count": 11,
-      "url": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/football/2026/jul/20/spain-world-cup-celebration-madrid",
+      "source": "The Guardian"
+    },
+    {
+      "name": "West Hollywood",
+      "count": 11,
+      "url": "https://www.latimes.com/lifestyle/story/2026-06-26/west-hollywood-apartment-made-for-entertaining-not-boring-rentals",
+      "source": "LA Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 23,
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/fetterman-trump-fixation-2020-loss",
+      "count": 32,
+      "url": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Troy Jackson",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Darline Graham Nordone",
+      "count": 14,
+      "url": "https://thehill.com/homenews/campaign/5979077-lindsey-graham-successor-gop-primary/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Lionel Messi",
+      "count": 13,
+      "url": "https://www.theguardian.com/football/2026/jul/20/a-world-cup-of-spectacle-scandal-and-compromise",
       "source": "The Guardian"
     },
     {
       "name": "Andy Burnham",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/britain-new-prime-minister-challenges.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Lionel Messi",
-      "count": 12,
-      "url": "https://www.latimes.com/sports/soccer/story/2026-07-19/spain-defeats-argentina-for-first-world-cup-title-since-2010",
-      "source": "LA Times"
-    },
-    {
-      "name": "Troy Jackson",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html",
       "source": "NY Times"
     },
     {
       "name": "Graham Platner",
-      "count": 6,
+      "count": 9,
       "url": "https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html",
       "source": "NY Times"
     },
     {
-      "name": "Jd Vance",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/jul/19/jd-usha-vance-baby-boy-born",
-      "source": "The Guardian"
-    },
-    {
       "name": "Kevin Keegan",
-      "count": 6,
+      "count": 7,
       "url": "https://www.theguardian.com/football/2026/jul/20/kevin-keegan-liverpool-legend-and-former-newcastle-manager-dies-aged-75",
       "source": "The Guardian"
     },
     {
-      "name": "Dodgers",
-      "count": 6,
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-07-20/dodgers-kyle-tucker-could-find-redemption-in-october",
-      "source": "LA Times"
-    },
-    {
-      "name": "Christopher Nolan’S",
-      "count": 5,
-      "url": "https://www.theguardian.com/film/2026/jul/20/the-odyssey-what-christopher-nolan-changed-invented-left-out",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Odyssey",
-      "count": 5,
-      "url": "https://www.theguardian.com/film/2026/jul/20/the-odyssey-what-christopher-nolan-changed-invented-left-out",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Target For Trump",
-      "count": 36,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Guardian",
-      "count": 13,
+      "name": "Taylor Farms",
+      "count": 7,
       "url": "https://www.theguardian.com/us-news/2026/jul/20/fda-taylor-farms-lettuce-cyclospora-false-positive",
       "source": "The Guardian"
     },
     {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Fifa World Cup",
-      "count": 11,
-      "url": "https://www.foxnews.com/us/fbi-boss-details-agency-secured-record-shattering-fifa-world-cup-more-top-headlines",
+      "name": "Andrew Truelove&Apos;S",
+      "count": 7,
+      "url": "https://www.foxnews.com/us/today-suspect-caught-camera-hate-crime-arrest-rap-sheet-reveals-attempted-kidnapping-conviction",
       "source": "Fox News"
     },
     {
-      "name": "Un",
-      "count": 11,
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ferran-torres-anota-el-gol-que-vale-un-mundial-para-espana-tmvo13205269",
-      "source": "NBC News"
-    },
-    {
-      "name": "Senate Budget Committee",
-      "count": 11,
-      "url": "https://thehill.com/opinion/congress-blog/5976525-senate-byrd-rule-save-act/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Fda",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/fda-taylor-farms-lettuce-cyclospora-false-positive",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pentagon Identifies",
+      "name": "Christopher Nolan’S ‘",
       "count": 6,
-      "url": "https://www.nytimes.com/2026/07/20/us/iran-war-us-soldiers-killed-jordan-identified.html",
+      "url": "https://www.nytimes.com/2026/07/20/movies/the-odyssey-movie-greece.html",
       "source": "NY Times"
-    },
-    {
-      "name": "White House",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/fetterman-trump-fixation-2020-loss",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Medicaid",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/jake-johnson-minnesota-interview",
-      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 45,
-      "url": "https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for",
+      "count": 54,
+      "url": "https://www.theguardian.com/football/2026/jul/20/a-world-cup-of-spectacle-scandal-and-compromise",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 17,
-      "url": "https://www.theguardian.com/football/live/2026/jul/20/world-cup-2026-final-reaction-news-spain-argentina",
+      "count": 15,
+      "url": "https://www.theguardian.com/football/2026/jul/20/gangs-of-new-jersey-how-the-world-cup-final-descended-into-ugly-scenes-between-argentina-and-spain",
       "source": "The Guardian"
     },
     {
@@ -206,10 +144,16 @@
       "source": "Politico"
     },
     {
-      "name": "World Cup 2026",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/live/2026/jul/20/world-cup-2026-final-reaction-news-spain-argentina",
+      "name": "This World Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains",
       "source": "The Guardian"
+    },
+    {
+      "name": "Iran War",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html",
+      "source": "NY Times"
     },
     {
       "name": "Super Bowl",
@@ -218,35 +162,91 @@
       "source": "The Guardian"
     },
     {
-      "name": "The World Cup'S",
-      "count": 2,
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber",
-      "source": "NPR"
-    },
-    {
-      "name": "The Iran War",
-      "count": 2,
-      "url": "https://thehill.com/homenews/administration/5977234-live-updates-trump-iran/",
-      "source": "The Hill"
-    },
-    {
-      "name": "The War",
+      "name": "First World Cup",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/football/2026/jul/20/a-big-red-speaker-louis-vuitton-trophy-trunks-and-a-tattoo-bet-how-spain-celebrated-world-cup-win",
+      "source": "The Guardian"
     },
     {
-      "name": "Ukraine War Momentum Helps Spur Interest",
+      "name": "Club World Cup",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/football/2026/jul/20/trump-world-cup-trophy-lift-spain-infantino-fifa",
+      "source": "The Guardian"
     },
     {
-      "name": "New Pm",
+      "name": "The 2026 Open",
       "count": 1,
-      "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-uk-prime-minister-meeting-king-charles",
+      "url": "https://www.theguardian.com/sport/2026/jul/20/bryson-dechambeau-donald-trump-open-championshiup-penalty-golf-royal-birkdale",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The 154Th Open Cham­Pionship",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jul/19/ryan-fox-the-open-championship-2026-golf-new-zealand",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-07-20T15:14:04Z"
+  "ORG": [
+    {
+      "name": "Trump Administration",
+      "count": 40,
+      "url": "https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Michigan Senate",
+      "count": 13,
+      "url": "https://thehill.com/homenews/campaign/5978758-warren-endorses-el-sayed-michigan-primary/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Fifa",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-air-force-one-qatar",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian",
+      "count": 11,
+      "url": "https://www.theguardian.com/environment/gallery/2026/jul/20/colorado-farming-solar-panels-in-pictures",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fda",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/fda-taylor-farms-lettuce-cyclospora-false-positive",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 9,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Paramount Skydance-Warner Bros.",
+      "count": 9,
+      "url": "https://www.cbsnews.com/video/temporary-restraining-order-granted-to-block-paramount-skydance-warner-bros-merger/",
+      "source": "CBS News"
+    },
+    {
+      "name": "White House",
+      "count": 9,
+      "url": "https://thehill.com/homenews/administration/5978822-trump-dignified-transfer-iran-deaths/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Fbi",
+      "count": 8,
+      "url": "https://www.washingtonpost.com/nation/2026/07/20/man-sets-off-device-federal-building-nyc-triggering-terrorism-probe/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Modern Ai",
+      "count": 8,
+      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-07-20T20:24:47Z"
 };
