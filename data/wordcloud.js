@@ -2,68 +2,68 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "cup",
-    85,
-    "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains"
+    69,
+    "https://www.theguardian.com/football/2026/jul/20/trump-world-cup-trophy-lift-spain-infantino-fifa"
   ],
   [
     "trump",
-    57,
-    "https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html"
-  ],
-  [
-    "final",
-    44,
-    "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains"
+    62,
+    "https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html"
   ],
   [
     "president",
-    34,
-    "https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html"
+    39,
+    "https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html"
   ],
   [
-    "argentina",
-    30,
-    "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains"
-  ],
-  [
-    "spain",
-    29,
-    "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains"
+    "final",
+    37,
+    "https://www.theguardian.com/football/2026/jul/20/gangs-of-new-jersey-how-the-world-cup-final-descended-into-ugly-scenes-between-argentina-and-spain"
   ],
   [
     "iran",
-    28,
-    "https://www.nytimes.com/2026/07/20/business/four-dollar-gas-iran-war.html"
+    29,
+    "https://www.nytimes.com/2026/07/20/us/politics/troops-injured-jordan-iran-war.html"
   ],
   [
-    "killed",
-    28,
-    "https://www.nytimes.com/2026/07/20/podcasts/the-headlines/service-members-killed-iran-federal-cases-protesters.html"
-  ],
-  [
-    "game",
-    28,
-    "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains"
-  ],
-  [
-    "water",
-    25,
-    "https://www.theguardian.com/artanddesign/2026/jul/20/peloponnese-greece-the-odyssey-tourism-development-environment"
-  ],
-  [
-    "country",
-    24,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "spain",
+    27,
+    "https://www.theguardian.com/football/2026/jul/20/trump-world-cup-trophy-lift-spain-infantino-fifa"
   ],
   [
     "war",
-    23,
-    "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html"
+    26,
+    "https://www.nytimes.com/2026/07/20/us/politics/troops-injured-jordan-iran-war.html"
   ],
   [
-    "service",
-    23,
+    "minister",
+    26,
     "https://www.nytimes.com/2026/07/20/podcasts/the-headlines/service-members-killed-iran-federal-cases-protesters.html"
+  ],
+  [
+    "killed",
+    23,
+    "https://www.nytimes.com/2026/07/20/us/iran-war-us-soldiers-killed-jordan-identified.html"
+  ],
+  [
+    "burnham",
+    23,
+    "https://www.nytimes.com/2026/07/20/world/europe/britain-new-prime-minister-challenges.html"
+  ],
+  [
+    "country",
+    23,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "latest",
+    23,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "argentina",
+    23,
+    "https://www.theguardian.com/football/live/2026/jul/20/world-cup-2026-final-reaction-news-spain-argentina"
   ],
   [
     "del",
@@ -71,14 +71,54 @@
     "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ferran-torres-anota-el-gol-que-vale-un-mundial-para-espana-tmvo13205269"
   ],
   [
-    "york",
+    "death",
     22,
+    "https://www.theguardian.com/us-news/2026/jul/20/horse-carriages-central-park-new-york"
+  ],
+  [
+    "water",
+    22,
+    "https://www.theguardian.com/environment/2026/jul/20/trump-pfas-sewage-farm-fertilizer"
+  ],
+  [
+    "prime",
+    21,
+    "https://www.nytimes.com/2026/07/20/podcasts/the-headlines/service-members-killed-iran-federal-cases-protesters.html"
+  ],
+  [
+    "senate",
+    21,
+    "https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html"
+  ],
+  [
+    "york",
+    21,
     "https://www.nytimes.com/2026/07/20/opinion/second-home-tax-nyc-fairness.html"
   ],
   [
-    "minister",
+    "game",
+    21,
+    "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains"
+  ],
+  [
+    "andy",
     20,
-    "https://www.nytimes.com/2026/07/20/podcasts/the-headlines/service-members-killed-iran-federal-cases-protesters.html"
+    "https://www.nytimes.com/2026/07/20/world/europe/britain-new-prime-minister-challenges.html"
+  ],
+  [
+    "global",
+    20,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "film",
+    20,
+    "https://www.theguardian.com/film/2026/jul/20/hollywood-press-tours-gimmicky"
+  ],
+  [
+    "games",
+    20,
+    "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning"
   ],
   [
     "los",
@@ -86,34 +126,44 @@
     "https://www.theguardian.com/us-news/2026/jul/19/los-angeles-central-libarary-centenary"
   ],
   [
-    "california",
-    20,
-    "https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge"
-  ],
-  [
-    "again",
+    "air",
     19,
-    "https://www.nytimes.com/2026/07/20/business/four-dollar-gas-iran-war.html"
+    "https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html"
   ],
   [
-    "global",
+    "star",
     19,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/film/2026/jul/20/hollywood-press-tours-gimmicky"
   ],
   [
-    "games",
+    "power",
     19,
-    "https://www.theguardian.com/games/2026/jul/17/castlevania-belmonts-curse-komani-classic-paris-joan-of-arc-is-a-boss"
+    "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-uk-prime-minister-meeting-king-charles"
   ],
   [
-    "summer",
+    "child",
+    19,
+    "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning"
+  ],
+  [
+    "love",
+    19,
+    "https://www.theguardian.com/football/ng-interactive/2026/jul/20/world-cup-2026-best-30-photographs-gallery"
+  ],
+  [
+    "espa",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/jul/20/world-cup-spain-feels-different-final-argentina-football"
+  ],
+  [
+    "police",
     18,
-    "https://www.theguardian.com/business/2026/jul/20/ryanair-says-planes-safe-passenger-nearly-sucked-out-window"
+    "https://www.washingtonpost.com/nation/2026/07/20/small-town-fight-over-corruption-abuse-could-haunt-candidate-arizona-governor/"
   ],
   [
-    "fifa",
+    "food",
     18,
-    "https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for"
+    "https://www.theguardian.com/us-news/2026/jul/20/fda-taylor-farms-lettuce-cyclospora-false-positive"
   ],
   [
     "mundial",
@@ -121,54 +171,24 @@
     "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ferran-torres-anota-el-gol-que-vale-un-mundial-para-espana-tmvo13205269"
   ],
   [
-    "espa",
-    18,
-    "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ferran-torres-anota-el-gol-que-vale-un-mundial-para-espana-tmvo13205269"
-  ],
-  [
-    "prime",
+    "service",
     17,
     "https://www.nytimes.com/2026/07/20/podcasts/the-headlines/service-members-killed-iran-federal-cases-protesters.html"
   ],
   [
-    "andy",
+    "east",
     17,
-    "https://www.nytimes.com/2026/07/20/world/europe/britain-new-prime-minister-challenges.html"
+    "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news"
   ],
   [
-    "love",
-    17,
-    "https://www.theguardian.com/music/2026/jul/20/shania-twain-little-miss-twain-review"
-  ],
-  [
-    "school",
-    17,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/20/chris-packham-takes-on-a-terrifying-ring-best-podcasts-of-the-week"
-  ],
-  [
-    "burnham",
+    "america",
     16,
-    "https://www.nytimes.com/2026/07/20/world/europe/britain-new-prime-minister-challenges.html"
+    "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html"
   ],
   [
-    "police",
+    "political",
     16,
-    "https://www.washingtonpost.com/nation/2026/07/20/small-town-fight-over-corruption-abuse-could-haunt-candidate-arizona-governor/"
-  ],
-  [
-    "latest",
-    16,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "media",
-    16,
-    "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices"
-  ],
-  [
-    "death",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/19/boxer-hannah-rapp-dies-struck-by-car"
+    "https://www.nytimes.com/2026/07/20/briefing/your-questions-answered.html"
   ],
   [
     "con",
@@ -181,119 +201,94 @@
     "https://www.nytimes.com/2026/07/20/us/politics/arizona-republicans-fighting.html"
   ],
   [
-    "history",
+    "early",
     15,
-    "https://www.nytimes.com/2026/07/20/magazine/ebola-health-workers.html"
-  ],
-  [
-    "recent",
-    15,
-    "https://www.nytimes.com/2026/07/20/opinion/second-home-tax-nyc-fairness.html"
-  ],
-  [
-    "team",
-    15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "something",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/20/everything-i-know-about-evil-i-learned-in-that-small-town-john-carpenter-on-terrifying-the-world-with-halloween-the-thing-and-the-fog"
-  ],
-  [
-    "east",
-    15,
-    "https://www.theguardian.com/books/2026/jul/20/a-sudden-flicker-of-light-by-david-thomson-review-a-brilliantly-eccentric-history-of-the-movies"
-  ],
-  [
-    "messi",
-    15,
-    "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "social",
     15,
-    "https://www.theguardian.com/us-news/2026/jul/19/jd-usha-vance-baby-boy-born"
+    "https://www.theguardian.com/film/2026/jul/20/hollywood-press-tours-gimmicky"
+  ],
+  [
+    "again",
+    15,
+    "https://www.theguardian.com/football/2026/jul/20/trump-world-cup-trophy-lift-spain-infantino-fifa"
   ],
   [
     "family",
     15,
-    "https://www.theguardian.com/business/2026/jul/20/ryanair-says-planes-safe-passenger-nearly-sucked-out-window"
+    "https://www.theguardian.com/us-news/2026/jul/20/jake-johnson-minnesota-interview"
   ],
   [
-    "star",
+    "south",
     15,
-    "https://www.theguardian.com/film/2026/jul/20/hollywood-press-tours-gimmicky"
+    "https://www.theguardian.com/environment/2026/jul/20/louisiana-toxic-air-floodlight"
   ],
   [
-    "night",
+    "fans",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/20/the-rave-secret-why-middle-aged-women-are-larging-it-and-seeing-big-health-benefits"
+    "https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for"
   ],
   [
-    "iraq",
+    "fifa",
     15,
-    "https://www.theguardian.com/film/2026/jul/20/flavours-of-iraq-review-animation"
+    "https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for"
   ],
   [
-    "america",
+    "military",
+    14,
+    "https://www.nytimes.com/2026/07/20/us/politics/troops-injured-jordan-iran-war.html"
+  ],
+  [
+    "north",
+    14,
+    "https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html"
+  ],
+  [
+    "race",
     14,
     "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html"
   ],
   [
-    "party",
+    "study",
     14,
-    "https://www.nytimes.com/2026/07/20/us/politics/arizona-republicans-fighting.html"
+    "https://www.nytimes.com/2026/07/20/opinion/second-home-tax-nyc-fairness.html"
   ],
   [
-    "democratic",
+    "director",
     14,
-    "https://www.nytimes.com/2026/07/20/magazine/ebola-health-workers.html"
+    "https://www.theguardian.com/commentisfree/2026/jul/20/house-democrats-israel-hakeem-jeffries-schumer"
   ],
   [
-    "ice",
+    "something",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/lifeandstyle/2026/jul/20/everything-i-know-about-evil-i-learned-in-that-small-town-john-carpenter-on-terrifying-the-world-with-halloween-the-thing-and-the-fog"
   ],
   [
-    "film",
+    "summer",
     14,
-    "https://www.theguardian.com/artanddesign/2026/jul/20/peloponnese-greece-the-odyssey-tourism-development-environment"
+    "https://www.theguardian.com/film/2026/jul/20/hollywood-press-tours-gimmicky"
   ],
   [
-    "member",
+    "nolan",
     14,
-    "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices"
+    "https://www.theguardian.com/film/2026/jul/20/hollywood-press-tours-gimmicky"
   ],
   [
-    "power",
+    "school",
     14,
-    "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices"
+    "https://www.theguardian.com/us-news/2026/jul/20/trump-grant-funding-attack-scientists"
   ],
   [
-    "strikes",
+    "positive",
     14,
-    "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices"
+    "https://www.theguardian.com/us-news/2026/jul/20/fetterman-trump-fixation-2020-loss"
   ],
   [
-    "missing",
+    "review",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/17/san-francisco-boat-wreckage-alcatraz"
-  ],
-  [
-    "little",
-    14,
-    "https://www.theguardian.com/film/2026/jul/20/why-matilda-is-my-feelgood-movie"
-  ],
-  [
-    "sports",
-    14,
-    "https://www.theguardian.com/sport/2026/jul/19/open-championship-final-round-ryan-fox-tommy-fleetwood-scottie-scheffler-rory-mcilroy-golf"
-  ],
-  [
-    "american",
-    14,
-    "https://www.theguardian.com/sport/2026/jul/19/open-championship-final-round-ryan-fox-tommy-fleetwood-scottie-scheffler-rory-mcilroy-golf"
+    "https://www.theguardian.com/us-news/2026/jul/20/fda-taylor-farms-lettuce-cyclospora-false-positive"
   ],
   [
     "buying",
@@ -301,78 +296,83 @@
     "https://www.theguardian.com/books/2026/jul/20/yellow-pine-by-claire-vaye-watkins-review-messy-portrait-of-protest-subculture"
   ],
   [
-    "food",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jul/17/back-to-school-sales-deals"
+    "graham",
+    13,
+    "https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html"
   ],
   [
-    "air",
+    "held",
     13,
-    "https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "international",
+    "ice",
     13,
-    "https://www.theguardian.com/environment/2026/jul/20/extreme-heat-india-outdoor-workers-poverty"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "lionel",
+    "movie",
     13,
-    "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains"
+    "https://www.theguardian.com/lifeandstyle/2026/jul/20/everything-i-know-about-evil-i-learned-in-that-small-town-john-carpenter-on-terrifying-the-world-with-halloween-the-thing-and-the-fog"
   ],
   [
-    "donald",
+    "media",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/20/fetterman-trump-fixation-2020-loss"
+    "https://www.theguardian.com/film/2026/jul/20/hollywood-press-tours-gimmicky"
   ],
   [
-    "series",
+    "don",
     13,
-    "https://www.theguardian.com/film/2026/jul/20/why-matilda-is-my-feelgood-movie"
+    "https://www.theguardian.com/lifeandstyle/2026/jul/20/the-rave-secret-why-middle-aged-women-are-larging-it-and-seeing-big-health-benefits"
   ],
   [
     "guide",
     13,
-    "https://www.theguardian.com/football/live/2026/jul/20/world-cup-2026-final-reaction-news-spain-argentina"
+    "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-uk-prime-minister-meeting-king-charles"
   ],
   [
-    "political",
+    "little",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jul/20/house-democrats-israel-hakeem-jeffries-schumer"
+    "https://www.theguardian.com/football/2026/jul/20/trump-world-cup-trophy-lift-spain-infantino-fifa"
   ],
   [
-    "members",
-    12,
-    "https://www.nytimes.com/2026/07/20/podcasts/the-headlines/service-members-killed-iran-federal-cases-protesters.html"
+    "stadium",
+    13,
+    "https://www.theguardian.com/football/2026/jul/20/trump-world-cup-trophy-lift-spain-infantino-fifa"
   ],
   [
-    "british",
-    12,
-    "https://www.nytimes.com/2026/07/20/podcasts/the-headlines/service-members-killed-iran-federal-cases-protesters.html"
+    "missing",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/17/san-francisco-boat-wreckage-alcatraz"
   ],
   [
-    "force",
-    12,
-    "https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html"
+    "messi",
+    13,
+    "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains"
   ],
   [
-    "china",
-    12,
-    "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html"
+    "winning",
+    13,
+    "https://www.theguardian.com/football/2026/jul/20/thomas-tuchel-football-assocation-fa-england-world-cup-2026-head-coach"
   ],
   [
-    "race",
-    12,
-    "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html"
+    "american",
+    13,
+    "https://www.theguardian.com/sport/2026/jul/20/bryson-dechambeau-donald-trump-open-championshiup-penalty-golf-royal-birkdale"
   ],
   [
-    "workers",
-    12,
-    "https://www.nytimes.com/2026/07/20/magazine/ebola-health-workers.html"
+    "sports",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jul/14/what-to-bring-stadium-guide"
   ],
   [
-    "study",
+    "cbs",
+    13,
+    "https://www.cbsnews.com/video/tate-brothers-to-appear-in-miami-court-on-uk-rape-sex-trafficking-charges/"
+  ],
+  [
+    "iranian",
     12,
-    "https://www.nytimes.com/2026/07/20/opinion/second-home-tax-nyc-fairness.html"
+    "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html"
   ]
 ];
