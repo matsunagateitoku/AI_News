@@ -2,32 +2,27 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    87,
-    "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html"
+    93,
+    "https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html"
   ],
   [
     "cup",
-    70,
+    72,
     "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html"
   ],
   [
     "president",
-    36,
-    "https://www.nytimes.com/2026/07/20/us/politics/trump-rejected-clemency-applications.html"
+    38,
+    "https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html"
   ],
   [
     "iran",
-    34,
+    36,
     "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html"
   ],
   [
-    "spain",
-    34,
-    "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html"
-  ],
-  [
     "graham",
-    32,
+    33,
     "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html"
   ],
   [
@@ -36,239 +31,254 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "senate",
-    26,
-    "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html"
-  ],
-  [
-    "administration",
-    23,
-    "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html"
-  ],
-  [
-    "country",
-    23,
-    "https://www.nytimes.com/2026/07/20/us/politics/trump-rejected-clemency-applications.html"
-  ],
-  [
-    "food",
-    23,
-    "https://www.theguardian.com/us-news/2026/jul/20/jake-johnson-minnesota-interview"
-  ],
-  [
-    "air",
-    21,
-    "https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html"
+    "spain",
+    27,
+    "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html"
   ],
   [
     "canada",
-    20,
+    24,
     "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "film",
-    20,
-    "https://www.theguardian.com/us-news/video/2026/jul/20/the-odyssey-nolan--mary-beard-stateside-podcast"
+    "senate",
+    23,
+    "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html"
+  ],
+  [
+    "water",
+    23,
+    "https://www.theguardian.com/us-news/2026/jul/20/missing-dog-rescue-san-francisco-bay"
+  ],
+  [
+    "country",
+    22,
+    "https://www.nytimes.com/2026/07/20/us/politics/trump-rejected-clemency-applications.html"
+  ],
+  [
+    "air",
+    22,
+    "https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html"
+  ],
+  [
+    "again",
+    22,
+    "https://www.nytimes.com/2026/07/21/arts/television/late-night-trump-soccer-fifa-curse.html"
   ],
   [
     "full",
-    20,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/20/doomsday-system-physicist-laura-grego-satellites-nuclear-weapons-battle-skies-space-elon-musk"
-  ],
-  [
-    "final",
-    20,
-    "https://www.theguardian.com/us-news/2026/jul/20/trump-air-force-one-qatar"
+    22,
+    "https://www.theguardian.com/us-news/2026/jul/20/lindsey-graham-sister-darline-run-senate"
   ],
   [
     "york",
-    19,
+    21,
     "https://www.washingtonpost.com/nation/2026/07/20/man-sets-off-device-federal-building-nyc-triggering-terrorism-probe/"
   ],
   [
     "term",
-    19,
+    21,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "nolan",
-    19,
-    "https://www.theguardian.com/us-news/video/2026/jul/20/the-odyssey-nolan--mary-beard-stateside-podcast"
+    "united",
+    21,
+    "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs"
   ],
   [
-    "california",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/jul/20/trumps-nominees-integrity"
+    "summer",
+    21,
+    "https://www.theguardian.com/fashion/2026/jul/21/board-shorts-summer-surfer-fashion-trend"
   ],
   [
-    "water",
-    19,
-    "https://www.theguardian.com/us-news/2026/jul/20/ohio-scioto-river-deaths"
+    "little",
+    20,
+    "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html"
   ],
   [
-    "again",
-    19,
-    "https://www.theguardian.com/us-news/2026/jul/20/arizona-elections-trump"
+    "administration",
+    20,
+    "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html"
   ],
   [
-    "games",
-    19,
-    "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning"
+    "final",
+    20,
+    "https://www.nytimes.com/2026/07/21/arts/television/late-night-trump-soccer-fifa-curse.html"
   ],
   [
-    "government",
+    "food",
+    20,
+    "https://www.theguardian.com/environment/2026/jul/20/trump-pfas-sewage-farm-fertilizer"
+  ],
+  [
+    "war",
     18,
-    "https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html"
-  ],
-  [
-    "latest",
-    17,
-    "https://www.nytimes.com/2026/07/20/briefing/trump-canada-tariffs-britain-new-leader.html"
+    "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html"
   ],
   [
     "darline",
+    18,
+    "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html"
+  ],
+  [
+    "don",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/jul/21/meta-smartglasses-child-filmed-ai-risk-technology"
+  ],
+  [
+    "american",
+    18,
+    "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs"
+  ],
+  [
+    "something",
     17,
+    "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html"
+  ],
+  [
+    "love",
+    17,
+    "https://www.theguardian.com/film/2026/jul/21/new-girl-was-so-scary-i-had-to-stop-smoking-pot-jake-johnson-on-perseverance-pickleball-and-prince"
+  ],
+  [
+    "games",
+    17,
+    "https://www.theguardian.com/games/2026/jul/17/castlevania-belmonts-curse-komani-classic-paris-joan-of-arc-is-a-boss"
+  ],
+  [
+    "death",
+    16,
+    "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html"
+  ],
+  [
+    "film",
+    16,
+    "https://www.theguardian.com/film/2026/jul/21/new-girl-was-so-scary-i-had-to-stop-smoking-pot-jake-johnson-on-perseverance-pickleball-and-prince"
+  ],
+  [
+    "son",
+    16,
+    "https://www.theguardian.com/news/ng-interactive/2026/jul/21/she-was-almost-a-batman-figure-mexicos-avenging-mother-courage"
+  ],
+  [
+    "didn",
+    16,
+    "https://www.theguardian.com/news/ng-interactive/2026/jul/21/she-was-almost-a-batman-figure-mexicos-avenging-mother-courage"
+  ],
+  [
+    "california",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/jul/20/trumps-nominees-integrity"
+  ],
+  [
+    "study",
+    16,
+    "https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary"
+  ],
+  [
+    "nolan",
+    16,
+    "https://www.theguardian.com/film/2026/jul/21/odyssey-christopher-nolan-discussion"
+  ],
+  [
+    "government",
+    15,
+    "https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html"
+  ],
+  [
+    "south",
+    15,
+    "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html"
+  ],
+  [
+    "power",
+    15,
+    "https://www.nytimes.com/2026/07/20/us/politics/arizona-house-primary-lamb.html"
+  ],
+  [
+    "team",
+    15,
+    "https://www.nytimes.com/2026/07/20/nyregion/mamdani-shorris-edc.html"
+  ],
+  [
+    "race",
+    15,
+    "https://www.washingtonpost.com/nation/2026/07/20/small-town-fight-over-corruption-abuse-could-haunt-candidate-arizona-governor/"
+  ],
+  [
+    "sea",
+    15,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "donald",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs"
+  ],
+  [
+    "prime",
+    14,
+    "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html"
+  ],
+  [
+    "lindsey",
+    14,
     "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html"
   ],
   [
     "ice",
-    17,
+    14,
     "https://www.nytimes.com/2026/07/20/us/minnesota-immigration-lawsuit.html"
   ],
   [
-    "team",
-    17,
-    "https://www.nytimes.com/2026/07/20/nyregion/mamdani-shorris-edc.html"
-  ],
-  [
-    "american",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs"
-  ],
-  [
-    "united",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs"
-  ],
-  [
-    "minister",
-    16,
-    "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html"
-  ],
-  [
-    "war",
-    16,
-    "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html"
-  ],
-  [
-    "little",
-    16,
-    "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html"
-  ],
-  [
-    "love",
-    16,
-    "https://www.theguardian.com/us-news/video/2026/jul/20/the-odyssey-nolan--mary-beard-stateside-podcast"
-  ],
-  [
-    "taylor",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/20/fda-taylor-farms-lettuce-cyclospora-false-positive"
-  ],
-  [
-    "judge",
-    15,
-    "https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html"
-  ],
-  [
-    "past",
-    15,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "missing",
-    15,
-    "https://www.theguardian.com/us-news/video/2026/jul/20/the-odyssey-nolan--mary-beard-stateside-podcast"
-  ],
-  [
-    "social",
-    15,
-    "https://www.theguardian.com/film/2026/jul/20/hollywood-press-tours-gimmicky"
-  ],
-  [
-    "media",
-    15,
-    "https://www.theguardian.com/film/2026/jul/20/hollywood-press-tours-gimmicky"
-  ],
-  [
-    "support",
-    15,
-    "https://www.theguardian.com/environment/gallery/2026/jul/20/colorado-farming-solar-panels-in-pictures"
-  ],
-  [
-    "study",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/20/the-rave-secret-why-middle-aged-women-are-larging-it-and-seeing-big-health-benefits"
-  ],
-  [
-    "young",
+    "fans",
     14,
-    "https://www.washingtonpost.com/nation/2026/07/20/young-people-prefer-watch-than-join-when-it-comes-politics/"
+    "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html"
   ],
   [
-    "military",
+    "sports",
     14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html"
   ],
   [
-    "odyssey",
+    "late",
     14,
-    "https://www.theguardian.com/us-news/video/2026/jul/20/the-odyssey-nolan--mary-beard-stateside-podcast"
+    "https://www.nytimes.com/2026/07/21/arts/television/late-night-trump-soccer-fifa-curse.html"
   ],
   [
-    "christopher",
+    "night",
     14,
-    "https://www.theguardian.com/us-news/video/2026/jul/20/the-odyssey-nolan--mary-beard-stateside-podcast"
+    "https://www.nytimes.com/2026/07/21/arts/television/late-night-trump-soccer-fifa-curse.html"
   ],
   [
-    "donald",
+    "global",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "child",
+    "latest",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/20/ohio-scioto-river-deaths"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "fifa",
+    "won",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/20/trump-air-force-one-qatar"
+    "https://www.theguardian.com/commentisfree/2026/jul/21/meta-smartglasses-child-filmed-ai-risk-technology"
   ],
   [
     "court",
     14,
-    "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger"
+    "https://www.theguardian.com/us-news/2026/jul/21/d4vd-court-hearing-celeste-rivas-hernandez-killing"
+  ],
+  [
+    "place",
+    14,
+    "https://www.theguardian.com/uk-news/2026/jul/21/petrol-theft-crisis-uk"
   ],
   [
     "school",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/20/jake-johnson-minnesota-interview"
-  ],
-  [
-    "family",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/20/jake-johnson-minnesota-interview"
-  ],
-  [
-    "argentina",
-    14,
-    "https://www.theguardian.com/football/2026/jul/20/gangs-of-new-jersey-how-the-world-cup-final-descended-into-ugly-scenes-between-argentina-and-spain"
-  ],
-  [
-    "because",
-    14,
-    "https://www.theguardian.com/culture/2026/jul/20/matthew-broderick-alan-ruck-on-ferris-buellers-day-off"
+    "https://www.theguardian.com/books/2026/jul/21/cool-machine-by-colson-whitehead-review-final-part-of-the-harlem-trilogy-is-freewheeling-fun"
   ],
   [
     "game",
@@ -276,17 +286,22 @@
     "https://www.theguardian.com/football/2026/jul/20/a-big-red-speaker-louis-vuitton-trophy-trunks-and-a-tattoo-bet-how-spain-celebrated-world-cup-win"
   ],
   [
-    "farms",
-    14,
-    "https://www.theguardian.com/environment/2026/jul/20/trump-pfas-sewage-farm-fertilizer"
-  ],
-  [
     "cooker",
     14,
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "political",
+    "inside",
+    13,
+    "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html"
+  ],
+  [
+    "minister",
+    13,
+    "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html"
+  ],
+  [
+    "case",
     13,
     "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html"
   ],
@@ -296,83 +311,68 @@
     "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html"
   ],
   [
-    "nearly",
+    "held",
     13,
-    "https://www.nytimes.com/2026/07/20/us/politics/trump-rejected-clemency-applications.html"
+    "https://www.nytimes.com/2026/07/21/opinion/israel-gaza-palestinians-genocide.html"
   ],
   [
-    "south",
+    "argentina",
     13,
-    "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html"
+    "https://www.nytimes.com/2026/07/21/arts/television/late-night-trump-soccer-fifa-curse.html"
   ],
   [
-    "something",
+    "military",
     13,
-    "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "hollywood",
+    "doing",
     13,
-    "https://www.nytimes.com/2026/07/20/opinion/paramount-warner-bros-merger-hollywood.html"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "online",
+    "east",
     13,
-    "https://www.washingtonpost.com/nation/2026/07/20/young-people-prefer-watch-than-join-when-it-comes-politics/"
+    "https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon"
   ],
   [
-    "fight",
+    "service",
     13,
-    "https://www.washingtonpost.com/nation/2026/07/20/small-town-fight-over-corruption-abuse-could-haunt-candidate-arizona-governor/"
+    "https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon"
   ],
   [
-    "race",
+    "tariffs",
     13,
-    "https://www.washingtonpost.com/nation/2026/07/20/small-town-fight-over-corruption-abuse-could-haunt-candidate-arizona-governor/"
+    "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs"
   ],
   [
-    "global",
+    "social",
     13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/world/live/2026/jul/21/ukraine-russia-zelenskyy-greece-italy-spain-france-social-media-latest-news-updates"
   ],
   [
-    "despite",
+    "media",
     13,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.theguardian.com/world/live/2026/jul/21/ukraine-russia-zelenskyy-greece-italy-spain-france-social-media-latest-news-updates"
   ],
   [
-    "early",
+    "buying",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/business/2026/jul/21/uk-military-electric-flying-taxi-vertical-aerospace-evtol"
   ],
   [
-    "review",
+    "winning",
     13,
-    "https://www.theguardian.com/us-news/video/2026/jul/20/the-odyssey-nolan--mary-beard-stateside-podcast"
+    "https://www.theguardian.com/football/2026/jul/20/a-big-red-speaker-louis-vuitton-trophy-trunks-and-a-tattoo-bet-how-spain-celebrated-world-cup-win"
   ],
   [
-    "change",
+    "fifa",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/20/doomsday-system-physicist-laura-grego-satellites-nuclear-weapons-battle-skies-space-elon-musk"
+    "https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for"
   ],
   [
-    "star",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/20/doomsday-system-physicist-laura-grego-satellites-nuclear-weapons-battle-skies-space-elon-musk"
-  ],
-  [
-    "director",
-    13,
-    "https://www.theguardian.com/film/2026/jul/20/hollywood-press-tours-gimmicky"
-  ],
-  [
-    "night",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/20/bertha-tropical-depression-us-gulf-coast"
-  ],
-  [
-    "democratic",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/20/troy-jackson-maine-senate-race-graham-platner"
+    "became",
+    12,
+    "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html"
   ]
 ];
