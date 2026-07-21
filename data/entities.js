@@ -3,137 +3,137 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 44,
-      "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
+      "count": 47,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/20/trumps-nominees-integrity",
       "source": "The Guardian"
     },
     {
-      "name": "Spain",
-      "count": 39,
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html",
-      "source": "NY Times"
-    },
-    {
       "name": "U.S.",
-      "count": 33,
+      "count": 36,
       "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
       "source": "Wall St. Journal"
     },
     {
+      "name": "Spain",
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Iran",
-      "count": 26,
+      "count": 29,
       "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
       "source": "The Guardian"
     },
     {
-      "name": "New York City",
-      "count": 22,
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/new-york-explosion-fbi-ice",
-      "source": "The Guardian"
+      "name": "Canada",
+      "count": 17,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     },
     {
       "name": "Uk",
-      "count": 18,
+      "count": 16,
       "url": "https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html",
       "source": "NY Times"
     },
     {
-      "name": "Argentina",
-      "count": 15,
-      "url": "https://www.theguardian.com/football/2026/jul/20/spain-world-cup-celebration-madrid",
-      "source": "The Guardian"
-    },
-    {
       "name": "California",
-      "count": 13,
+      "count": 16,
       "url": "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger",
       "source": "The Guardian"
     },
     {
-      "name": "New Jersey",
-      "count": 11,
-      "url": "https://www.theguardian.com/football/2026/jul/20/spain-world-cup-celebration-madrid",
+      "name": "Argentina",
+      "count": 15,
+      "url": "https://www.theguardian.com/football/2026/jul/20/gangs-of-new-jersey-how-the-world-cup-final-descended-into-ugly-scenes-between-argentina-and-spain",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/new-york-explosion-fbi-ice",
       "source": "The Guardian"
     },
     {
       "name": "West Hollywood",
-      "count": 11,
+      "count": 12,
       "url": "https://www.latimes.com/lifestyle/story/2026-06-26/west-hollywood-apartment-made-for-entertaining-not-boring-rentals",
       "source": "LA Times"
     }
   ],
-  "PERSON": [
+  "ORG": [
     {
-      "name": "Donald Trump",
-      "count": 32,
-      "url": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Troy Jackson",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html",
+      "name": "Trump Administration",
+      "count": 49,
+      "url": "https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html",
       "source": "NY Times"
     },
     {
-      "name": "Darline Graham Nordone",
-      "count": 14,
-      "url": "https://thehill.com/homenews/campaign/5979077-lindsey-graham-successor-gop-primary/",
-      "source": "The Hill"
+      "name": "Democratic Maine Senate",
+      "count": 20,
+      "url": "https://www.cbsnews.com/video/troy-jackson-set-to-become-democratic-maine-senate-nominee/",
+      "source": "CBS News"
     },
     {
-      "name": "Lionel Messi",
+      "name": "The White House",
       "count": 13,
-      "url": "https://www.theguardian.com/football/2026/jul/20/a-world-cup-of-spectacle-scandal-and-compromise",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
       "source": "The Guardian"
     },
     {
-      "name": "Andy Burnham",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Graham Platner",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Kevin Keegan",
-      "count": 7,
-      "url": "https://www.theguardian.com/football/2026/jul/20/kevin-keegan-liverpool-legend-and-former-newcastle-manager-dies-aged-75",
+      "name": "Guardian",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/video/2026/jul/20/the-odyssey-nolan--mary-beard-stateside-podcast",
       "source": "The Guardian"
     },
     {
-      "name": "Taylor Farms",
-      "count": 7,
+      "name": "Fda",
+      "count": 12,
       "url": "https://www.theguardian.com/us-news/2026/jul/20/fda-taylor-farms-lettuce-cyclospora-false-positive",
       "source": "The Guardian"
     },
     {
-      "name": "Andrew Truelove&Apos;S",
-      "count": 7,
-      "url": "https://www.foxnews.com/us/today-suspect-caught-camera-hate-crime-arrest-rap-sheet-reveals-attempted-kidnapping-conviction",
+      "name": "Fbi New York Field Office",
+      "count": 12,
+      "url": "https://thehill.com/policy/national-security/5979252-man-arrested-nyc-federal-building/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Fifa World Cup",
+      "count": 11,
+      "url": "https://www.foxnews.com/politics/trump-admin-taunts-left-praying-world-cup-disaster-dot-touts-record-numbers",
       "source": "Fox News"
     },
     {
-      "name": "Christopher Nolan’S ‘",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/07/20/movies/the-odyssey-movie-greece.html",
-      "source": "NY Times"
+      "name": "United Airlines",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/united-airlines-san-francisco-airport-ice-threat",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 9,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Paramount Skydance",
+      "count": 9,
+      "url": "https://www.nbcnews.com/now/video/judge-temporarily-pauses-paramount-warner-bros-deal-266958917660",
+      "source": "NBC News"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 54,
+      "count": 46,
       "url": "https://www.theguardian.com/football/2026/jul/20/a-world-cup-of-spectacle-scandal-and-compromise",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 15,
+      "count": 12,
       "url": "https://www.theguardian.com/football/2026/jul/20/gangs-of-new-jersey-how-the-world-cup-final-descended-into-ugly-scenes-between-argentina-and-spain",
       "source": "The Guardian"
     },
@@ -144,22 +144,34 @@
       "source": "Politico"
     },
     {
-      "name": "This World Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains",
+      "name": "Hurricane Fausto",
+      "count": 2,
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/bertha-tropical-depression-us-gulf-coast",
       "source": "The Guardian"
     },
     {
-      "name": "Iran War",
+      "name": "This World Cup",
       "count": 2,
-      "url": "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains",
+      "source": "The Guardian"
     },
     {
       "name": "Super Bowl",
       "count": 2,
       "url": "https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for",
       "source": "The Guardian"
+    },
+    {
+      "name": "World Cup Final",
+      "count": 2,
+      "url": "https://www.foxnews.com/sports/fifa-launches-investigation-brawl-spain-defeated-argentina-world-cup-final",
+      "source": "Fox News"
+    },
+    {
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://thehill.com/homenews/administration/5979309-us-servicemembers-killed-iran/",
+      "source": "The Hill"
     },
     {
       "name": "First World Cup",
@@ -172,81 +184,69 @@
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/jul/20/trump-world-cup-trophy-lift-spain-infantino-fifa",
       "source": "The Guardian"
-    },
-    {
-      "name": "The 2026 Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/jul/20/bryson-dechambeau-donald-trump-open-championshiup-penalty-golf-royal-birkdale",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The 154Th Open Cham­Pionship",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/jul/19/ryan-fox-the-open-championship-2026-golf-new-zealand",
-      "source": "The Guardian"
     }
   ],
-  "ORG": [
+  "PERSON": [
     {
-      "name": "Trump Administration",
-      "count": 40,
-      "url": "https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html",
+      "name": "Donald Trump",
+      "count": 31,
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Darline Graham",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html",
       "source": "NY Times"
     },
     {
-      "name": "The Michigan Senate",
-      "count": 13,
-      "url": "https://thehill.com/homenews/campaign/5978758-warren-endorses-el-sayed-michigan-primary/",
-      "source": "The Hill"
+      "name": "Troy Jackson",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html",
+      "source": "NY Times"
     },
     {
-      "name": "Fifa",
+      "name": "Graham Platner",
       "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-air-force-one-qatar",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html",
+      "source": "NY Times"
     },
     {
-      "name": "Guardian",
+      "name": "Taylor Farms De Mexico",
       "count": 11,
-      "url": "https://www.theguardian.com/environment/gallery/2026/jul/20/colorado-farming-solar-panels-in-pictures",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5901356/fda-focused-taylor-farms-lettuce-cyclospora-source-despite-retracted-test",
+      "source": "NPR"
+    },
+    {
+      "name": "Lionel Messi",
+      "count": 9,
+      "url": "https://www.theguardian.com/football/2026/jul/20/a-world-cup-of-spectacle-scandal-and-compromise",
       "source": "The Guardian"
     },
     {
-      "name": "Fda",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/fda-taylor-farms-lettuce-cyclospora-false-positive",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 9,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Paramount Skydance-Warner Bros.",
-      "count": 9,
-      "url": "https://www.cbsnews.com/video/temporary-restraining-order-granted-to-block-paramount-skydance-warner-bros-merger/",
-      "source": "CBS News"
-    },
-    {
-      "name": "White House",
-      "count": 9,
-      "url": "https://thehill.com/homenews/administration/5978822-trump-dignified-transfer-iran-deaths/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Fbi",
+      "name": "Odyssey",
       "count": 8,
-      "url": "https://www.washingtonpost.com/nation/2026/07/20/man-sets-off-device-federal-building-nyc-triggering-terrorism-probe/",
-      "source": "Washington Post"
+      "url": "https://www.theguardian.com/us-news/video/2026/jul/20/the-odyssey-nolan--mary-beard-stateside-podcast",
+      "source": "The Guardian"
     },
     {
-      "name": "Modern Ai",
-      "count": 8,
-      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+      "name": "Andy Burnham",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Lindsey Graham",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/20/trumps-nominees-integrity",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kevin Keegan",
+      "count": 7,
+      "url": "https://www.theguardian.com/football/2026/jul/20/kevin-keegan-liverpool-legend-and-former-newcastle-manager-dies-aged-75",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-07-20T20:24:47Z"
+  "updated": "2026-07-21T04:17:16Z"
 };
