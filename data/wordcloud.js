@@ -2,33 +2,33 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    92,
-    "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html"
-  ],
-  [
-    "arizona",
-    45,
-    "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html"
-  ],
-  [
-    "cup",
-    44,
-    "https://www.theguardian.com/society/2026/jul/22/the-bed-you-thought-was-safe-isnt-safe-how-zoe-watts-survived-drug-facilitated-and-fought-back"
+    106,
+    "https://www.nytimes.com/2026/07/22/podcasts/the-headlines/trump-nuclear-deal-ai-model-rogue.html"
   ],
   [
     "president",
-    36,
-    "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html"
+    41,
+    "https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html"
   ],
   [
-    "primary",
-    33,
-    "https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-secretary-of-state-alexander-kolodin-wins.html"
+    "cup",
+    34,
+    "https://www.theguardian.com/football/2026/jul/22/argentina-black-americans-spain-world-cup-messi-silence"
+  ],
+  [
+    "war",
+    31,
+    "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html"
   ],
   [
     "iran",
-    31,
-    "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html"
+    30,
+    "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html"
+  ],
+  [
+    "summer",
+    29,
+    "https://www.theguardian.com/music/2026/jul/22/pass-the-pit-diapers-why-are-fans-wetting-themselves-to-stand-front-row-at-concerts-olivia-rodrigo-noah-kahan-morgan-wallen"
   ],
   [
     "rice",
@@ -41,234 +41,204 @@
     "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html"
   ],
   [
-    "country",
-    27,
-    "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html"
-  ],
-  [
-    "war",
-    26,
-    "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html"
-  ],
-  [
-    "gop",
-    26,
-    "https://www.washingtonpost.com/nation/2026/07/20/small-town-fight-over-corruption-abuse-could-haunt-candidate-arizona-governor/"
-  ],
-  [
-    "summer",
-    26,
-    "https://www.theguardian.com/commentisfree/2026/jul/21/alexandria-ocasio-cortez-for-president"
-  ],
-  [
-    "secretary",
-    25,
-    "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html"
-  ],
-  [
-    "biggs",
-    24,
-    "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html"
-  ],
-  [
-    "case",
-    23,
-    "https://www.theguardian.com/society/2026/jul/22/the-bed-you-thought-was-safe-isnt-safe-how-zoe-watts-survived-drug-facilitated-and-fought-back"
-  ],
-  [
     "food",
-    22,
-    "https://www.nytimes.com/2026/07/21/well/eat/how-cyclospora-contaminates-food.html"
-  ],
-  [
-    "million",
-    22,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "democratic",
-    20,
-    "https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-secretary-of-state-alexander-kolodin-wins.html"
-  ],
-  [
-    "rep",
-    20,
-    "https://www.washingtonpost.com/nation/2026/07/20/small-town-fight-over-corruption-abuse-could-haunt-candidate-arizona-governor/"
-  ],
-  [
-    "donald",
-    20,
-    "https://www.theguardian.com/us-news/2026/jul/22/saudi-arabia-would-enrich-uranium-under-reported-deal-with-us"
-  ],
-  [
-    "wins",
-    19,
-    "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html"
-  ],
-  [
-    "election",
-    19,
-    "https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-secretary-of-state-alexander-kolodin-wins.html"
-  ],
-  [
-    "governor",
-    18,
-    "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html"
-  ],
-  [
-    "republican",
-    18,
-    "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html"
-  ],
-  [
-    "night",
-    18,
-    "https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html"
-  ],
-  [
-    "senate",
-    18,
-    "https://www.theguardian.com/us-news/2026/jul/21/senate-advances-trump-intelligence-pick-jay-clayton"
-  ],
-  [
-    "defense",
-    17,
-    "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html"
-  ],
-  [
-    "general",
-    17,
-    "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html"
-  ],
-  [
-    "health",
-    17,
-    "https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html"
-  ],
-  [
-    "early",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "california",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/21/medicaid-funding-california-minnesota-paused"
-  ],
-  [
-    "mamdani",
-    16,
-    "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html"
-  ],
-  [
-    "andy",
-    16,
-    "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html"
-  ],
-  [
-    "government",
-    16,
-    "https://www.nytimes.com/2026/07/21/us/politics/house-stopgap-spending-bill-shutdown.html"
-  ],
-  [
-    "review",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/22/a-toxic-love-story-review-michelle-hadley"
-  ],
-  [
-    "far",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/22/americans-politics-threat-survey"
-  ],
-  [
-    "human",
-    15,
-    "https://www.nytimes.com/2026/07/21/well/eat/how-cyclospora-contaminates-food.html"
-  ],
-  [
-    "canada",
-    15,
-    "https://www.nytimes.com/2026/07/22/arts/television/desi-lydic-trump-canada-tariffs.html"
-  ],
-  [
-    "backed",
-    15,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "family",
-    15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/22/steven-judy-serial-killer-siblings"
+    25,
+    "https://www.theguardian.com/society/2026/jul/22/processed-food-firms-courts-obstruct-health-regulations"
   ],
   [
     "social",
+    24,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/22/who-is-jimothy-seven-things-you-need-to-know-about-the-internets-favourite-raccoon"
+  ],
+  [
+    "killed",
+    24,
+    "https://www.theguardian.com/us-news/2026/jul/22/boxer-hannah-rapp-death-community-grief"
+  ],
+  [
+    "canada",
+    20,
+    "https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html"
+  ],
+  [
+    "country",
+    20,
+    "https://www.nytimes.com/2026/07/22/us/politics/teen-pregnancy-prevention-trump.html"
+  ],
+  [
+    "death",
+    20,
+    "https://www.nytimes.com/2026/07/22/us/charlie-kirk-utah-valley-university.html"
+  ],
+  [
+    "nuclear",
+    19,
+    "https://www.nytimes.com/2026/07/22/podcasts/the-headlines/trump-nuclear-deal-ai-model-rogue.html"
+  ],
+  [
+    "donald",
+    19,
+    "https://www.nytimes.com/2026/07/22/business/donald-trump-jr-1789-capital.html"
+  ],
+  [
+    "health",
+    19,
+    "https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html"
+  ],
+  [
+    "case",
+    19,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/22/calvin-duncan-louisiana-maga-white-supremacy"
+  ],
+  [
+    "military",
+    18,
+    "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html"
+  ],
+  [
+    "administration",
+    18,
+    "https://www.nytimes.com/2026/07/22/us/politics/teen-pregnancy-prevention-trump.html"
+  ],
+  [
+    "latest",
+    18,
+    "https://www.nytimes.com/2026/07/22/arts/television/desi-lydic-trump-canada-tariffs.html"
+  ],
+  [
+    "early",
+    18,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "media",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/22/who-is-jimothy-seven-things-you-need-to-know-about-the-internets-favourite-raccoon"
+  ],
+  [
+    "california",
+    18,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/22/ice-claim-immigrants-weaponize-vehicles"
+  ],
+  [
+    "power",
+    18,
+    "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates"
+  ],
+  [
+    "saudi",
+    17,
+    "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html"
+  ],
+  [
+    "iranian",
+    17,
+    "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html"
+  ],
+  [
+    "states",
+    17,
+    "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html"
+  ],
+  [
+    "court",
+    17,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/22/calvin-duncan-louisiana-maga-white-supremacy"
+  ],
+  [
+    "ice",
+    16,
+    "https://www.washingtonpost.com/nation/2026/07/20/man-sets-off-device-federal-building-nyc-triggering-terrorism-probe/"
+  ],
+  [
+    "team",
+    16,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "family",
+    16,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/22/steven-judy-serial-killer-siblings"
+  ],
+  [
+    "water",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/20/missing-dog-rescue-san-francisco-bay"
+  ],
+  [
+    "place",
+    16,
+    "https://www.theguardian.com/sport/live/2026/jul/22/tour-de-france-2026-stage-17-live-cycling-updates"
+  ],
+  [
+    "risk",
     15,
-    "https://www.theguardian.com/us-news/2026/jul/21/mamdani-benjamin-netanyahu-arrest-authority"
+    "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html"
+  ],
+  [
+    "star",
+    15,
+    "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html"
+  ],
+  [
+    "cases",
+    15,
+    "https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html"
+  ],
+  [
+    "east",
+    15,
+    "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates"
   ],
   [
     "series",
     15,
-    "https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb"
+    "https://www.theguardian.com/us-news/2026/jul/22/cdc-cuts-disease-outbreaks-cyclospora-hantavirus-measles"
   ],
   [
-    "game",
+    "far",
     15,
-    "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump"
+    "https://www.theguardian.com/artanddesign/2026/jul/22/venezuelan-family-three-week-journey-daughter-body-home-earthquake"
   ],
   [
-    "latest",
-    14,
-    "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html"
+    "friend",
+    15,
+    "https://www.theguardian.com/film/2026/jul/22/pinocchio-unstrung-review-twisted-childhood-universe"
   ],
   [
-    "hegseth",
-    14,
-    "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html"
-  ],
-  [
-    "military",
-    14,
-    "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html"
-  ],
-  [
-    "netanyahu",
+    "mamdani",
     14,
     "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html"
   ],
   [
-    "arrest",
+    "million",
     14,
-    "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "minister",
+    "america",
     14,
-    "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/22/steven-judy-serial-killer-siblings"
   ],
   [
-    "media",
+    "fans",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/21/mamdani-benjamin-netanyahu-arrest-authority"
+    "https://www.theguardian.com/music/2026/jul/22/pass-the-pit-diapers-why-are-fans-wetting-themselves-to-stand-front-row-at-concerts-olivia-rodrigo-noah-kahan-morgan-wallen"
   ],
   [
     "won",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/22/arizona-republican-primary-andy-biggs-katie-hobbs"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/22/calvin-duncan-louisiana-maga-white-supremacy"
   ],
   [
-    "judge",
+    "nolan",
     14,
-    "https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb"
+    "https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan"
   ],
   [
-    "hearing",
+    "late",
     14,
-    "https://www.theguardian.com/film/2026/jul/22/my-grandfather-charles-manson-documentary-interview"
-  ],
-  [
-    "final",
-    14,
-    "https://www.theguardian.com/football/2026/jul/22/argentina-black-americans-spain-world-cup-messi-silence"
+    "https://www.theguardian.com/culture/2026/jul/22/seth-meyers-trump-canada-wildfires-world-cup"
   ],
   [
     "cooker",
@@ -276,103 +246,133 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "hobbs",
+    "trade",
     13,
-    "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html"
+    "https://www.nytimes.com/2026/07/22/world/asia/iran-pakistan-karachi-trade-oil.html"
+  ],
+  [
+    "american",
+    13,
+    "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html"
+  ],
+  [
+    "hours",
+    13,
+    "https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html"
+  ],
+  [
+    "night",
+    13,
+    "https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html"
+  ],
+  [
+    "attack",
+    13,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "review",
+    13,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/22/ice-claim-immigrants-weaponize-vehicles"
+  ],
+  [
+    "strait",
+    13,
+    "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates"
+  ],
+  [
+    "art",
+    13,
+    "https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan"
+  ],
+  [
+    "lost",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/22/cdc-cuts-disease-outbreaks-cyclospora-hantavirus-measles"
+  ],
+  [
+    "little",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/22/dodgers-white-house-latino-fans"
+  ],
+  [
+    "morning",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/21/bay-area-city-manager-charged-stealing-yacht"
   ],
   [
     "don",
     13,
-    "https://www.nytimes.com/2026/07/21/style/jimothy-raccoon-seattle-videos.html"
+    "https://www.theguardian.com/games/2026/jul/21/ten-years-after-its-release-pokemon-go-still-encourages-me-to-find-wonder-in-the-world-around-me"
   ],
   [
-    "ice",
+    "players",
     13,
-    "https://www.washingtonpost.com/nation/2026/07/20/man-sets-off-device-federal-building-nyc-triggering-terrorism-probe/"
+    "https://www.theguardian.com/games/2026/jul/21/ten-years-after-its-release-pokemon-go-still-encourages-me-to-find-wonder-in-the-world-around-me"
   ],
   [
-    "global",
+    "buying",
     13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/football/2026/jul/22/amazon-founder-jeff-bezos-consortium-stake-liverpool-football"
   ],
   [
-    "didn",
-    13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/22/steven-judy-serial-killer-siblings"
-  ],
-  [
-    "place",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/22/a-moment-that-changed-me-i-painted-a-mans-portrait-and-he-hated-it"
-  ],
-  [
-    "money",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/22/a-moment-that-changed-me-i-painted-a-mans-portrait-and-he-hated-it"
-  ],
-  [
-    "david",
-    13,
-    "https://www.theguardian.com/society/2026/jul/22/the-bed-you-thought-was-safe-isnt-safe-how-zoe-watts-survived-drug-facilitated-and-fought-back"
-  ],
-  [
-    "love",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/22/a-toxic-love-story-review-michelle-hadley"
-  ],
-  [
-    "star",
-    13,
-    "https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb"
-  ],
-  [
-    "film",
-    13,
-    "https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb"
-  ],
-  [
-    "funding",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/21/medicaid-funding-california-minnesota-paused"
-  ],
-  [
-    "water",
-    13,
-    "https://www.theguardian.com/world/2026/jul/22/its-truly-hell-here-airstrikes-repression-and-water-shortages-become-new-normal-for-iranians"
-  ],
-  [
-    "fifa",
-    13,
-    "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football"
-  ],
-  [
-    "johnson",
-    13,
-    "https://www.theguardian.com/film/2026/jul/21/the-dink-review-pickleball-comedy-serves-up-engagingly-silly-laughs"
-  ],
-  [
-    "los",
-    13,
-    "https://www.theguardian.com/film/2026/jul/21/new-girl-was-so-scary-i-had-to-stop-smoking-pot-jake-johnson-on-perseverance-pickleball-and-prince"
-  ],
-  [
-    "sale",
-    13,
-    "https://www.theguardian.com/fashion/2026/jul/21/board-shorts-summer-surfer-fashion-trend"
-  ],
-  [
-    "ukraine",
+    "arabia",
     12,
-    "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html"
+    "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html"
   ],
   [
-    "nomination",
+    "tariffs",
     12,
-    "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html"
+    "https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html"
   ],
   [
-    "again",
+    "artist",
     12,
-    "https://www.nytimes.com/2026/07/22/arts/television/desi-lydic-trump-canada-tariffs.html"
+    "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html"
+  ],
+  [
+    "spent",
+    12,
+    "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html"
+  ],
+  [
+    "chief",
+    12,
+    "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html"
+  ],
+  [
+    "despite",
+    12,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "whose",
+    12,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "human",
+    12,
+    "https://www.theguardian.com/music/2026/jul/22/pass-the-pit-diapers-why-are-fans-wetting-themselves-to-stand-front-row-at-concerts-olivia-rodrigo-noah-kahan-morgan-wallen"
+  ],
+  [
+    "americans",
+    12,
+    "https://www.theguardian.com/football/2026/jul/22/argentina-black-americans-spain-world-cup-messi-silence"
+  ],
+  [
+    "sports",
+    12,
+    "https://www.theguardian.com/football/2026/jul/22/argentina-black-americans-spain-world-cup-messi-silence"
+  ],
+  [
+    "hormuz",
+    12,
+    "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates"
+  ],
+  [
+    "middle",
+    12,
+    "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates"
   ]
 ];

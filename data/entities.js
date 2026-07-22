@@ -3,14 +3,14 @@
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 24,
+      "count": 20,
       "url": "https://www.theguardian.com/football/2026/jul/22/world-cup-2030-very-early-power-rankings",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/21/coldplay-chris-martin-world-cup-trump-infantino-half-time-show",
+      "count": 6,
+      "url": "https://www.theguardian.com/culture/2026/jul/22/seth-meyers-trump-canada-wildfires-world-cup",
       "source": "The Guardian"
     },
     {
@@ -20,10 +20,10 @@
       "source": "Politico"
     },
     {
-      "name": "World Cup 2026",
+      "name": "The Iran War",
       "count": 2,
-      "url": "https://www.theguardian.com/football/gallery/2026/jul/22/the-quirky-side-of-world-cup-2026-in-pictures",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html",
+      "source": "NY Times"
     },
     {
       "name": "Wimbledon",
@@ -38,15 +38,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
-      "count": 2,
-      "url": "https://www.cbsnews.com/news/hegseth-caine-senate-hearing-iran/",
-      "source": "CBS News"
-    },
-    {
       "name": "This World Cup",
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/jul/22/argentina-black-americans-spain-world-cup-messi-silence",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Series",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/jul/22/dodgers-white-house-latino-fans",
       "source": "The Guardian"
     },
     {
@@ -65,51 +65,51 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 48,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/22/a-toxic-love-story-review-michelle-hadley",
+      "count": 63,
+      "url": "https://www.theguardian.com/music/2026/jul/22/pass-the-pit-diapers-why-are-fans-wetting-themselves-to-stand-front-row-at-concerts-olivia-rodrigo-noah-kahan-morgan-wallen",
       "source": "The Guardian"
-    },
-    {
-      "name": "Key Arizona",
-      "count": 40,
-      "url": "https://www.cbsnews.com/news/arizona-primaries-governor-katie-hobbs-andy-biggs-david-schweikert/",
-      "source": "CBS News"
     },
     {
       "name": "U.S.",
       "count": 28,
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html",
+      "url": "https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html",
       "source": "NY Times"
     },
     {
-      "name": "Iran",
+      "name": "The Islamic Republic Of Iran",
       "count": 28,
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html",
-      "source": "NY Times"
+      "url": "https://thehill.com/policy/international/5982794-donald-trump-strike-threat-strait-of-hormuz-turmoil/",
+      "source": "The Hill"
     },
     {
       "name": "New York City",
-      "count": 26,
+      "count": 25,
       "url": "https://www.theguardian.com/us-news/2026/jul/21/mamdani-benjamin-netanyahu-arrest-authority",
       "source": "The Guardian"
     },
     {
+      "name": "Canada",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html",
+      "source": "NY Times"
+    },
+    {
       "name": "California",
       "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/medicaid-funding-california-minnesota-paused",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/22/ice-claim-immigrants-weaponize-vehicles",
       "source": "The Guardian"
     },
     {
-      "name": "Ukraine",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html",
+      "name": "Arizona",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/arizona-primary-takeaways.html",
       "source": "NY Times"
     },
     {
-      "name": "Canada",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/07/22/arts/television/desi-lydic-trump-canada-tariffs.html",
-      "source": "NY Times"
+      "name": "Saudi Arabia Joining Fighter-Jet Program",
+      "count": 11,
+      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+      "source": "Wall St. Journal"
     },
     {
       "name": "America",
@@ -118,115 +118,35 @@
       "source": "The Guardian"
     },
     {
-      "name": "Spain",
-      "count": 10,
-      "url": "https://www.theguardian.com/football/2026/jul/22/argentina-black-americans-spain-world-cup-messi-silence",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 36,
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/saudi-arabia-would-enrich-uranium-under-reported-deal-with-us",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Andy Biggs",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Benjamin Netanyahu",
-      "count": 14,
+      "name": "The United States",
+      "count": 8,
       "url": "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Zohran Mamdani",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Pete Hegseth",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Katie Hobbs",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Hunter Biden",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/21/hunter-biden-for-president-stranger-things-have-happened",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mark Lamb",
-      "count": 8,
-      "url": "https://www.foxnews.com/politics/ex-sheriff-backed-trump-storms-victory-race-replace-longtime-gop-firebrand",
-      "source": "Fox News"
-    },
-    {
-      "name": "Jake Johnson",
-      "count": 7,
-      "url": "https://www.theguardian.com/film/2026/jul/21/the-dink-review-pickleball-comedy-serves-up-engagingly-silly-laughs",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Miranda De Wallace",
-      "count": 7,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/21/she-was-almost-a-batman-figure-mexicos-avenging-mother-courage",
-      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 55,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Trump Reaches Contentious New Nuclear Deal",
+      "count": 65,
+      "url": "https://www.nytimes.com/2026/07/22/podcasts/the-headlines/trump-nuclear-deal-ai-model-rogue.html",
+      "source": "NY Times"
     },
     {
-      "name": "Gop",
-      "count": 27,
-      "url": "https://www.washingtonpost.com/nation/2026/07/20/small-town-fight-over-corruption-abuse-could-haunt-candidate-arizona-governor/",
-      "source": "Washington Post"
+      "name": "Ai",
+      "count": 15,
+      "url": "https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident",
+      "source": "The Guardian"
     },
     {
-      "name": "House Freedom Caucus",
-      "count": 24,
-      "url": "https://thehill.com/homenews/campaign/5982345-arizona-primary-hobbs-biggs-takeaways/",
-      "source": "The Hill"
-    },
-    {
-      "name": "The Maine Senate",
-      "count": 16,
-      "url": "https://www.politico.com/news/2026/07/19/troy-jackson-likely-maine-senate-nominee-platner-01004490",
-      "source": "Politico"
-    },
-    {
-      "name": "Guardian",
+      "name": "The White House",
       "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/immigration-agents-arrest-june-data",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Fifa",
-      "count": 12,
-      "url": "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football",
-      "source": "The Guardian"
+      "url": "https://thehill.com/homenews/administration/5983167-senate-investigates-irs-lawyer-firing/",
+      "source": "The Hill"
     },
     {
       "name": "Amazon",
       "count": 12,
-      "url": "https://www.theguardian.com/thefilter-us/2026/jul/17/back-to-school-sales-deals",
+      "url": "https://www.theguardian.com/football/2026/jul/22/amazon-founder-jeff-bezos-consortium-stake-liverpool-football",
       "source": "The Guardian"
     },
     {
@@ -236,17 +156,97 @@
       "source": "The Guardian"
     },
     {
-      "name": "Pentagon",
+      "name": "Congress",
       "count": 9,
-      "url": "https://www.foxnews.com/politics/house-narrowly-backs-allowing-troops-pentagon-workers-carry-personal-guns-military-bases",
+      "url": "https://www.theguardian.com/us-news/2026/jul/22/saudi-arabia-would-enrich-uranium-under-reported-deal-with-us",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 7,
+      "url": "https://www.foxnews.com/politics/house-dems-hand-gop-win-trans-sports-party-unity-cracks",
       "source": "Fox News"
     },
     {
-      "name": "Defense",
+      "name": "The Maine Senate",
       "count": 7,
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html",
-      "source": "NY Times"
+      "url": "https://www.politico.com/news/2026/07/19/troy-jackson-likely-maine-senate-nominee-platner-01004490",
+      "source": "Politico"
+    },
+    {
+      "name": "Guardian",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/22/ice-claim-immigrants-weaponize-vehicles",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nordstrom",
+      "count": 6,
+      "url": "https://www.theguardian.com/thefilter-us/2026/jul/21/nordstrom-anniversary-sale-good-fashion-deals",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-07-22T09:29:50Z"
+  "PERSON": [
+    {
+      "name": "Donald Trump Jr.",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/07/22/business/donald-trump-jr-1789-capital.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/22/us-politics-trump-arizona-primary-andy-biggs-hegseth-mamdani-netanyahu-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Elon Musk",
+      "count": 9,
+      "url": "https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hormuz",
+      "count": 7,
+      "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Miranda De Wallace",
+      "count": 7,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/21/she-was-almost-a-batman-figure-mexicos-avenging-mother-courage",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nolan Wells",
+      "count": 7,
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902909/independent-autopsy-inconclusive-on-cause-of-death-for-18-year-old-nolan-wells-in-mississippi",
+      "source": "NPR"
+    },
+    {
+      "name": "Kaylee Hottle",
+      "count": 6,
+      "url": "https://www.theguardian.com/film/2026/jul/21/godzilla-v-kong-actor-kaylee-hottle-dies-aged-18",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Christopher Nolan’S",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-07-22T15:07:45Z"
 };
