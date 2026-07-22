@@ -2,33 +2,48 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    82,
-    "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html"
+    92,
+    "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html"
   ],
   [
     "cup",
-    57,
+    54,
     "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football"
   ],
   [
     "president",
-    52,
-    "https://www.nytimes.com/2026/07/21/us/politics/trump-china-russia-election.html"
+    38,
+    "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html"
   ],
   [
-    "summer",
+    "arizona",
+    35,
+    "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html"
+  ],
+  [
+    "secretary",
+    31,
+    "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html"
+  ],
+  [
+    "war",
     30,
-    "https://www.theguardian.com/commentisfree/2026/jul/21/alexandria-ocasio-cortez-for-president"
-  ],
-  [
-    "senate",
-    29,
-    "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate-democrats.html"
+    "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html"
   ],
   [
     "iran",
     28,
-    "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html"
+    "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html"
+  ],
+  [
+    "primary",
+    28,
+    "https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-secretary-of-state-alexander-kolodin-wins.html"
+  ],
+  [
+    "summer",
+    28,
+    "https://www.theguardian.com/commentisfree/2026/jul/21/alexandria-ocasio-cortez-for-president"
   ],
   [
     "rice",
@@ -36,9 +51,9 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "california",
-    27,
-    "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html"
+    "york",
+    26,
+    "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html"
   ],
   [
     "food",
@@ -46,64 +61,79 @@
     "https://www.nytimes.com/2026/07/21/well/eat/how-cyclospora-contaminates-food.html"
   ],
   [
+    "gop",
+    24,
+    "https://www.washingtonpost.com/nation/2026/07/20/small-town-fight-over-corruption-abuse-could-haunt-candidate-arizona-governor/"
+  ],
+  [
+    "democratic",
+    22,
+    "https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-secretary-of-state-alexander-kolodin-wins.html"
+  ],
+  [
     "final",
-    25,
+    22,
     "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football"
-  ],
-  [
-    "war",
-    21,
-    "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html"
-  ],
-  [
-    "administration",
-    21,
-    "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html"
   ],
   [
     "country",
     21,
-    "https://www.nytimes.com/2026/07/21/world/europe/france-social-media-ban.html"
+    "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html"
   ],
   [
-    "american",
+    "health",
     21,
-    "https://www.nytimes.com/2026/07/21/dining/restaurant-review-chez-panisse.html"
+    "https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html"
   ],
   [
-    "air",
+    "california",
     21,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html"
   ],
   [
-    "donald",
-    21,
-    "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football"
-  ],
-  [
-    "democratic",
+    "defense",
     20,
-    "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate-democrats.html"
+    "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html"
+  ],
+  [
+    "biggs",
+    20,
+    "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html"
   ],
   [
     "don",
     20,
-    "https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html"
+    "https://www.nytimes.com/2026/07/21/world/africa/south-africa-immigration-protests-explainer.html"
   ],
   [
-    "york",
+    "rep",
     20,
-    "https://www.washingtonpost.com/nation/2026/07/20/man-sets-off-device-federal-building-nyc-triggering-terrorism-probe/"
+    "https://www.washingtonpost.com/nation/2026/07/20/small-town-fight-over-corruption-abuse-could-haunt-candidate-arizona-governor/"
   ],
   [
-    "health",
+    "hegseth",
     19,
-    "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html"
+    "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html"
   ],
   [
-    "again",
+    "donald",
     19,
     "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football"
+  ],
+  [
+    "game",
+    19,
+    "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump"
+  ],
+  [
+    "military",
+    18,
+    "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html"
+  ],
+  [
+    "senate",
+    18,
+    "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate-democrats.html"
   ],
   [
     "little",
@@ -111,29 +141,39 @@
     "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate-democrats.html"
   ],
   [
-    "film",
-    18,
-    "https://www.theguardian.com/science/2026/jul/21/zendaya-faces-backlash-for-wearing-ancient-iranian-jewellery-at-odyssey-event"
-  ],
-  [
-    "outbreak",
-    18,
-    "https://www.theguardian.com/us-news/2026/jul/21/rfk-jr-cyclospora-outbreak"
-  ],
-  [
-    "game",
-    18,
-    "https://www.theguardian.com/film/2026/jul/21/the-dink-review-pickleball-comedy-serves-up-engagingly-silly-laughs"
-  ],
-  [
     "million",
-    17,
+    18,
     "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "america",
+    "mamdani",
     17,
-    "https://www.theguardian.com/books/2026/jul/21/kim-phillips-fein-country-of-lords"
+    "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html"
+  ],
+  [
+    "wins",
+    17,
+    "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html"
+  ],
+  [
+    "despite",
+    17,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "night",
+    17,
+    "https://www.theguardian.com/world/2026/jul/21/the-explosion-is-what-i-remember-man-nearly-sucked-out-of-ryanair-plane-recounts-ordeal"
+  ],
+  [
+    "case",
+    17,
+    "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football"
+  ],
+  [
+    "again",
+    17,
+    "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football"
   ],
   [
     "won",
@@ -141,29 +181,24 @@
     "https://www.theguardian.com/wellness/2026/jul/21/tick-bites-how-to-protect-yourself"
   ],
   [
-    "johnson",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/21/plas-johnson-saxophonist-dead"
-  ],
-  [
-    "global",
-    16,
-    "https://www.nytimes.com/2026/07/21/world/europe/france-social-media-ban.html"
-  ],
-  [
-    "social",
-    16,
-    "https://www.nytimes.com/2026/07/21/world/europe/france-social-media-ban.html"
-  ],
-  [
     "ice",
     16,
     "https://www.washingtonpost.com/nation/2026/07/20/man-sets-off-device-federal-building-nyc-triggering-terrorism-probe/"
   ],
   [
-    "despite",
+    "backed",
     16,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "air",
+    16,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "early",
+    16,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "fifa",
@@ -171,14 +206,14 @@
     "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football"
   ],
   [
-    "case",
+    "hearing",
     16,
-    "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football"
+    "https://www.theguardian.com/us-news/2026/jul/21/hegseth-pentagon-supplemental-funding-request-senate"
   ],
   [
-    "fans",
+    "car",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/jul/21/summer-heat-products-to-keep-cool"
+    "https://www.theguardian.com/news/ng-interactive/2026/jul/21/she-was-almost-a-batman-figure-mexicos-avenging-mother-courage"
   ],
   [
     "spain",
@@ -186,79 +221,54 @@
     "https://www.theguardian.com/culture/2026/jul/21/seth-meyers-recap-trump-world-cup-spain"
   ],
   [
-    "killed",
+    "minister",
     15,
-    "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html"
+    "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html"
   ],
   [
-    "data",
+    "governor",
     15,
-    "https://www.nytimes.com/2026/07/21/world/africa/south-africa-immigration-protests-explainer.html"
-  ],
-  [
-    "early",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "latest",
-    15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "water",
-    15,
-    "https://www.theguardian.com/world/2026/jul/21/no-electricity-no-water-no-fuel-ukrainian-drone-strikes-bring-darkness-to-crimeas-summer"
-  ],
-  [
-    "study",
-    15,
-    "https://www.theguardian.com/environment/2026/jul/20/slowdown-arctic-sea-ice-melt-largest-winter-decline-record"
-  ],
-  [
-    "series",
-    15,
-    "https://www.theguardian.com/film/2026/jul/22/shin-kamen-rider-movie-hideaki-anno-grasshopper-man-hybrid"
+    "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html"
   ],
   [
     "released",
-    14,
-    "https://www.nytimes.com/2026/07/21/us/politics/trump-china-russia-election.html"
+    15,
+    "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate-democrats.html"
   ],
   [
-    "media",
-    14,
-    "https://www.nytimes.com/2026/07/21/world/europe/france-social-media-ban.html"
+    "funding",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/21/hegseth-pentagon-supplemental-funding-request-senate"
   ],
   [
-    "police",
-    14,
-    "https://www.nytimes.com/2026/07/21/world/asia/india-protests-cockroach-janta-party.html"
+    "david",
+    15,
+    "https://www.theguardian.com/society/2026/jul/22/the-bed-you-thought-was-safe-isnt-safe-how-zoe-watts-survived-drug-facilitated-and-fought-back"
   ],
   [
-    "because",
-    14,
-    "https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html"
+    "buying",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/jul/21/nordstrom-anniversary-sale-good-fashion-deals"
   ],
   [
-    "loss",
+    "general",
     14,
-    "https://www.nytimes.com/2026/07/20/world/americas/venezuela-earthquakes-volunteer-pets.html"
+    "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html"
   ],
   [
-    "military",
+    "government",
     14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/07/21/us/politics/house-stopgap-spending-bill-shutdown.html"
   ],
   [
-    "sea",
+    "data",
     14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/07/21/world/africa/south-africa-immigration-protests-explainer.html"
   ],
   [
-    "secretary",
+    "social",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/books/2026/jul/21/kim-phillips-fein-country-of-lords"
   ],
   [
     "far",
@@ -266,19 +276,24 @@
     "https://www.theguardian.com/wellness/2026/jul/21/tick-bites-how-to-protect-yourself"
   ],
   [
-    "buying",
+    "movement",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/jul/21/summer-heat-products-to-keep-cool"
+    "https://www.theguardian.com/commentisfree/2026/jul/21/alexandria-ocasio-cortez-for-president"
   ],
   [
-    "actor",
+    "late",
     14,
-    "https://www.theguardian.com/film/2026/jul/21/godzilla-v-kong-actor-kaylee-hottle-dies-aged-18"
+    "https://www.theguardian.com/world/2026/jul/21/zelenskyy-replaces-military-leader-and-brings-back-defence-minister-he-sacked"
   ],
   [
-    "love",
+    "los",
     14,
-    "https://www.theguardian.com/film/2026/jul/21/new-girl-was-so-scary-i-had-to-stop-smoking-pot-jake-johnson-on-perseverance-pickleball-and-prince"
+    "https://www.theguardian.com/us-news/2026/jul/21/d4vd-court-hearing-celeste-rivas-hernandez-killing"
+  ],
+  [
+    "series",
+    14,
+    "https://www.theguardian.com/film/2026/jul/22/shin-kamen-rider-movie-hideaki-anno-grasshopper-man-hybrid"
   ],
   [
     "cooker",
@@ -286,93 +301,78 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "democrats",
+    "latest",
     13,
-    "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate-democrats.html"
+    "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html"
+  ],
+  [
+    "cost",
+    13,
+    "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html"
+  ],
+  [
+    "ukraine",
+    13,
+    "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html"
   ],
   [
     "inside",
     13,
+    "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html"
+  ],
+  [
+    "andy",
+    13,
+    "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html"
+  ],
+  [
+    "election",
+    13,
+    "https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-secretary-of-state-alexander-kolodin-wins.html"
+  ],
+  [
+    "administration",
+    13,
+    "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html"
+  ],
+  [
+    "immigration",
+    13,
     "https://www.nytimes.com/2026/07/21/world/africa/south-africa-migrants.html"
   ],
   [
-    "review",
-    13,
-    "https://www.nytimes.com/2026/07/21/dining/restaurant-review-chez-panisse.html"
-  ],
-  [
-    "nearly",
-    13,
-    "https://www.washingtonpost.com/nation/2026/07/21/teens-thrift-store-find-earns-him-nearly-90000-auction/"
-  ],
-  [
-    "attack",
+    "spent",
     13,
     "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "movement",
+    "canada",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jul/21/alexandria-ocasio-cortez-for-president"
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "side",
+    "american",
     13,
-    "https://www.theguardian.com/world/2026/jul/21/houthis-threaten-attack-tankers-saudi-arabian-ports-red-sea-shipping"
+    "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football"
   ],
   [
-    "car",
+    "media",
     13,
-    "https://www.theguardian.com/news/ng-interactive/2026/jul/21/she-was-almost-a-batman-figure-mexicos-avenging-mother-courage"
+    "https://www.theguardian.com/commentisfree/2026/jul/21/hunter-biden-for-president-stranger-things-have-happened"
   ],
   [
-    "act",
+    "court",
     13,
-    "https://www.theguardian.com/lifeandstyle/2025/sep/26/how-does-esim-work"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/21/amazon-tactics-prices"
   ],
   [
-    "service",
-    12,
-    "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html"
+    "judge",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/21/trump-financial-details-bbc-lawsuit"
   ],
   [
-    "defense",
-    12,
-    "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html"
-  ],
-  [
-    "jersey",
-    12,
-    "https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html"
-  ],
-  [
-    "thousands",
-    12,
-    "https://www.nytimes.com/2026/07/21/world/asia/india-protests-cockroach-janta-party.html"
-  ],
-  [
-    "politics",
-    12,
-    "https://www.washingtonpost.com/nation/2026/07/20/young-people-prefer-watch-than-join-when-it-comes-politics/"
-  ],
-  [
-    "term",
-    12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "night",
-    12,
-    "https://www.theguardian.com/world/2026/jul/21/the-explosion-is-what-i-remember-man-nearly-sucked-out-of-ryanair-plane-recounts-ordeal"
-  ],
-  [
-    "history",
-    12,
-    "https://www.theguardian.com/books/2026/jul/21/kim-phillips-fein-country-of-lords"
-  ],
-  [
-    "money",
-    12,
-    "https://www.theguardian.com/us-news/2026/jul/21/medicaid-funding-california-minnesota-paused"
+    "film",
+    13,
+    "https://www.theguardian.com/science/2026/jul/21/zendaya-faces-backlash-for-wearing-ancient-iranian-jewellery-at-odyssey-event"
   ]
 ];

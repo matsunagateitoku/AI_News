@@ -3,38 +3,44 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 37,
+      "count": 34,
       "url": "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football",
       "source": "The Guardian"
     },
     {
       "name": "Pete Hegseth",
-      "count": 10,
-      "url": "https://www.latimes.com/opinion/story/2026-07-18/pete-hegseth-grooming-hormones-standards",
-      "source": "LA Times"
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Andy Biggs",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Katie Hobbs",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html",
+      "source": "NY Times"
     },
     {
       "name": "Hunter Biden",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/21/hunter-biden-for-president-stranger-things-have-happened",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kaylee Hottle",
-      "count": 9,
-      "url": "https://www.theguardian.com/film/2026/jul/21/godzilla-v-kong-actor-kaylee-hottle-dies-aged-18",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Taylor Farms",
-      "count": 8,
-      "url": "https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora",
-      "source": "NPR"
-    },
-    {
-      "name": "Plas Johnson",
       "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/plas-johnson-saxophonist-dead",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/21/hunter-biden-for-president-stranger-things-have-happened",
       "source": "The Guardian"
     },
     {
@@ -44,16 +50,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Joseph Aoun",
+      "name": "Kaylee Hottle",
       "count": 7,
-      "url": "https://www.cbsnews.com/video/trump-says-lebanon-has-been-badly-treated/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Mikie Sherrill",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/film/2026/jul/21/godzilla-v-kong-actor-kaylee-hottle-dies-aged-18",
+      "source": "The Guardian"
     },
     {
       "name": "Bryson Dechambeau",
@@ -62,60 +62,122 @@
       "source": "The Guardian"
     }
   ],
-  "GPE": [
+  "ORG": [
     {
-      "name": "Us",
-      "count": 49,
+      "name": "Trump Pushes Chinese Election Threat",
+      "count": 51,
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-china-russia-election.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Gop",
+      "count": 24,
+      "url": "https://www.washingtonpost.com/nation/2026/07/20/small-town-fight-over-corruption-abuse-could-haunt-candidate-arizona-governor/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "The White House",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-china-russia-election.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Guardian",
+      "count": 17,
+      "url": "https://www.theguardian.com/world/2026/jul/21/the-explosion-is-what-i-remember-man-nearly-sucked-out-of-ryanair-plane-recounts-ordeal",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Maine Senate",
+      "count": 17,
+      "url": "https://www.politico.com/news/2026/07/19/troy-jackson-likely-maine-senate-nominee-platner-01004490",
+      "source": "Politico"
+    },
+    {
+      "name": "Fifa",
+      "count": 14,
       "url": "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football",
       "source": "The Guardian"
     },
     {
-      "name": "California",
+      "name": "Amazon",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/21/amazon-tactics-prices",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/thefilter-us/2026/jul/21/nordstrom-anniversary-sale-good-fashion-deals",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Defense",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ai",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/medicaid-funding-california-minnesota-paused",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 52,
+      "url": "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 31,
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Key Arizona",
+      "count": 31,
+      "url": "https://www.cbsnews.com/news/arizona-primaries-governor-katie-hobbs-andy-biggs-david-schweikert/",
+      "source": "CBS News"
+    },
+    {
+      "name": "New York City",
       "count": 26,
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html",
+      "url": "https://www.nytimes.com/2026/07/21/nyregion/nyc-flooding-storms-rain.html",
       "source": "NY Times"
     },
     {
       "name": "Iran",
       "count": 24,
-      "url": "https://www.theguardian.com/world/2026/jul/21/houthis-threaten-attack-tankers-saudi-arabian-ports-red-sea-shipping",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/deaths-legionnaires-outbreak-new-york",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Spain",
-      "count": 17,
-      "url": "https://www.theguardian.com/culture/2026/jul/21/seth-meyers-recap-trump-world-cup-spain",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-china-russia-election.html",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html",
       "source": "NY Times"
     },
     {
-      "name": "America",
-      "count": 12,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/21/coldplay-chris-martin-world-cup-trump-infantino-half-time-show",
-      "source": "The Guardian"
+      "name": "California",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Spain Great",
+      "count": 16,
+      "url": "https://www.foxnews.com/outkick-sports/world-cup-hero-ferran-torres-doubles-down-criticism-posts-picture-wearing-make-spain-great-again-hat",
+      "source": "Fox News"
+    },
+    {
+      "name": "Ukraine",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html",
+      "source": "NY Times"
     },
     {
       "name": "Canada",
-      "count": 10,
+      "count": 12,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
-    },
-    {
-      "name": "Los Angeles",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/plas-johnson-saxophonist-dead",
-      "source": "The Guardian"
     },
     {
       "name": "Mexico City",
@@ -127,13 +189,13 @@
   "EVENT": [
     {
       "name": "The 2038 World Cup",
-      "count": 31,
+      "count": 28,
       "url": "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 18,
+      "count": 17,
       "url": "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football",
       "source": "The Guardian"
     },
@@ -144,16 +206,16 @@
       "source": "The Guardian"
     },
     {
+      "name": "The Iran War",
+      "count": 4,
+      "url": "https://www.cbsnews.com/news/hegseth-caine-senate-hearing-iran/",
+      "source": "CBS News"
+    },
+    {
       "name": "The Winter Olympics",
       "count": 4,
       "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/saudi-2034-schedule-2035-01004717",
       "source": "Politico"
-    },
-    {
-      "name": "Iran War As Sgt",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html",
-      "source": "NY Times"
     },
     {
       "name": "Hugo",
@@ -168,12 +230,6 @@
       "source": "The Guardian"
     },
     {
-      "name": "Holocaust",
-      "count": 2,
-      "url": "https://www.foxnews.com/media/connecticut-school-board-vice-chair-compares-americas-founding-holocaust-viral-july-4-post",
-      "source": "Fox News"
-    },
-    {
       "name": "The Harris Poll",
       "count": 1,
       "url": "https://www.theguardian.com/business/2026/jul/21/americans-stock-market-poll",
@@ -184,69 +240,13 @@
       "count": 1,
       "url": "https://www.theguardian.com/commentisfree/2026/jul/21/donald-trump-football-golf-world-sport-referee",
       "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Pushes Chinese Election Threat",
-      "count": 42,
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-china-russia-election.html",
-      "source": "NY Times"
     },
     {
-      "name": "The Maine Senate",
-      "count": 23,
-      "url": "https://www.politico.com/news/2026/07/19/troy-jackson-likely-maine-senate-nominee-platner-01004490",
-      "source": "Politico"
-    },
-    {
-      "name": "Guardian",
-      "count": 18,
-      "url": "https://www.theguardian.com/world/2026/jul/21/the-explosion-is-what-i-remember-man-nearly-sucked-out-of-ryanair-plane-recounts-ordeal",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Fifa",
-      "count": 14,
-      "url": "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Amazon",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/21/amazon-tactics-prices",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Espn",
-      "count": 10,
-      "url": "https://www.theguardian.com/sport/2026/jul/21/espn-layoffs-ryan-clark-karl-ravech-nfl-network-disney",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 10,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Defense",
-      "count": 9,
-      "url": "https://www.latimes.com/opinion/story/2026-07-18/pete-hegseth-grooming-hormones-standards",
-      "source": "LA Times"
-    },
-    {
-      "name": "Ai",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/medicaid-funding-california-minnesota-paused",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Fda",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/rfk-jr-cyclospora-outbreak",
+      "name": "The French Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jul/21/french-open-us-open-wimbledon-grand-slam-tournament-prize-money-tennis-players-dispute",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-07-21T20:20:43Z"
+  "updated": "2026-07-22T04:20:34Z"
 };
