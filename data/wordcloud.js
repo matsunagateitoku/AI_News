@@ -2,18 +2,18 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    80,
-    "https://www.nytimes.com/2026/07/22/briefing/the-us-signs-a-nuclear-pact-with-saudi-arabia.html"
+    75,
+    "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html"
   ],
   [
     "cup",
-    37,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/22/who-is-jimothy-seven-things-you-need-to-know-about-the-internets-favourite-raccoon"
+    36,
+    "https://www.theguardian.com/football/2026/jul/23/surprising-success-us-mexico-canada-fans-hosting-world-cup-joy-love-hope-fun-prices-politics"
   ],
   [
-    "war",
-    36,
-    "https://www.nytimes.com/2026/07/22/us/politics/house-republicans-iran-budget-pentagon.html"
+    "summer",
+    34,
+    "https://www.theguardian.com/football/2026/jul/23/surprising-success-us-mexico-canada-fans-hosting-world-cup-joy-love-hope-fun-prices-politics"
   ],
   [
     "president",
@@ -21,14 +21,19 @@
     "https://www.nytimes.com/2026/07/22/us/politics/trump-research-funding-artificial-intelligence.html"
   ],
   [
-    "summer",
+    "police",
+    32,
+    "https://www.washingtonpost.com/nation/2026/07/22/man-fatally-shot-by-police-officer-madison-prompting-protest-city/"
+  ],
+  [
+    "war",
     30,
-    "https://www.theguardian.com/us-news/video/2026/jul/22/congress-change-stateside-podcast"
+    "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html"
   ],
   [
     "iran",
     28,
-    "https://www.nytimes.com/2026/07/22/us/politics/house-republicans-iran-budget-pentagon.html"
+    "https://www.nytimes.com/2026/07/23/opinion/us-defense-geopolitics-elbridge-colby.html"
   ],
   [
     "rice",
@@ -36,84 +41,59 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "food",
-    25,
-    "https://www.nytimes.com/2026/07/23/business/bangladesh-farmers-diesel-water-iran.html"
-  ],
-  [
-    "death",
-    25,
-    "https://www.washingtonpost.com/nation/2026/07/22/independent-autopsy-nolan-wells-inconclusive-investigations-continue/"
-  ],
-  [
     "social",
     24,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/22/who-is-jimothy-seven-things-you-need-to-know-about-the-internets-favourite-raccoon"
-  ],
-  [
-    "police",
-    23,
-    "https://www.washingtonpost.com/nation/2026/07/22/man-fatally-shot-by-police-officer-madison-prompting-protest-city/"
-  ],
-  [
-    "country",
-    23,
-    "https://www.washingtonpost.com/lifestyle/2026/07/21/his-doctors-prescription-his-unbearable-pain-seemed-absurd-it-worked/"
-  ],
-  [
-    "saudi",
-    22,
-    "https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html"
-  ],
-  [
-    "media",
-    22,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/22/who-is-jimothy-seven-things-you-need-to-know-about-the-internets-favourite-raccoon"
+    "https://www.theguardian.com/technology/2026/jul/22/florida-teen-drops-meta-lawsuit"
   ],
   [
     "nuclear",
-    21,
-    "https://www.nytimes.com/2026/07/22/briefing/the-us-signs-a-nuclear-pact-with-saudi-arabia.html"
+    23,
+    "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html"
   ],
   [
-    "health",
-    21,
-    "https://www.theguardian.com/wellness/2026/jul/22/tips-on-cutting-ultra-processed-food"
+    "food",
+    23,
+    "https://www.nytimes.com/2026/07/23/business/bangladesh-farmers-diesel-water-iran.html"
   ],
   [
-    "game",
-    21,
-    "https://www.theguardian.com/games/2026/jul/21/ten-years-after-its-release-pokemon-go-still-encourages-me-to-find-wonder-in-the-world-around-me"
-  ],
-  [
-    "killed",
-    20,
-    "https://www.theguardian.com/us-news/2026/jul/22/man-killed-ice-florida-tourist-visa"
-  ],
-  [
-    "york",
-    19,
-    "https://www.nytimes.com/2026/07/22/nyregion/mamdani-netanyahu-speech.html"
+    "fans",
+    23,
+    "https://www.theguardian.com/film/2026/jul/23/ryan-gosling-hand-la-la-land-poster-change"
   ],
   [
     "million",
-    19,
+    22,
     "https://www.nytimes.com/2026/07/22/us/immigration-civil-fines-self-deportation.html"
   ],
   [
-    "family",
-    19,
-    "https://www.washingtonpost.com/nation/2026/07/22/independent-autopsy-nolan-wells-inconclusive-investigations-continue/"
+    "country",
+    22,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "case",
-    19,
+    "saudi",
+    21,
+    "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html"
+  ],
+  [
+    "york",
+    21,
+    "https://www.nytimes.com/2026/07/22/nyregion/mamdani-netanyahu-speech.html"
+  ],
+  [
+    "media",
+    20,
     "https://www.theguardian.com/technology/2026/jul/22/florida-teen-drops-meta-lawsuit"
   ],
   [
-    "series",
-    19,
-    "https://www.theguardian.com/technology/2026/jul/22/florida-teen-drops-meta-lawsuit"
+    "game",
+    20,
+    "https://www.theguardian.com/environment/2026/jul/23/orcas-ramming-prey-hard-explodes-playing-game"
+  ],
+  [
+    "health",
+    20,
+    "https://www.theguardian.com/us-news/2026/jul/22/cdc-cuts-disease-outbreaks-cyclospora-hantavirus-measles"
   ],
   [
     "mamdani",
@@ -121,9 +101,19 @@
     "https://www.nytimes.com/2026/07/22/nyregion/mamdani-netanyahu-speech.html"
   ],
   [
-    "fans",
+    "late",
     18,
-    "https://www.theguardian.com/film/2026/jul/22/avatar-aang-the-last-airbender-review-paramount"
+    "https://www.nytimes.com/2026/07/22/us/massachusetts-late-term-abortion-rules.html"
+  ],
+  [
+    "death",
+    18,
+    "https://www.washingtonpost.com/nation/2026/07/22/independent-autopsy-nolan-wells-inconclusive-investigations-continue/"
+  ],
+  [
+    "team",
+    18,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "friend",
@@ -131,39 +121,74 @@
     "https://www.theguardian.com/artanddesign/2026/jul/22/a-12-year-old-casualty-of-war-recovers-in-hospital-alessio-mamo-best-photograph"
   ],
   [
-    "far",
+    "family",
     17,
-    "https://www.nytimes.com/2026/07/22/us/politics/house-republicans-iran-budget-pentagon.html"
+    "https://www.washingtonpost.com/nation/2026/07/22/independent-autopsy-nolan-wells-inconclusive-investigations-continue/"
   ],
   [
-    "team",
+    "series",
     17,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/world/2026/jul/23/taiwan-hong-kong-independent-bookstore-raids-china-censorship"
   ],
   [
-    "latest",
-    16,
-    "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html"
+    "killed",
+    17,
+    "https://www.theguardian.com/news/ng-interactive/2026/jul/23/iraqs-impossible-predicament-why-the-country-is-trapped-between-iran-and-the-us"
   ],
   [
-    "democrats",
-    16,
-    "https://www.nytimes.com/2026/07/22/us/politics/trump-research-funding-artificial-intelligence.html"
-  ],
-  [
-    "late",
+    "bill",
     16,
     "https://www.nytimes.com/2026/07/22/us/massachusetts-late-term-abortion-rules.html"
   ],
   [
-    "service",
+    "far",
     16,
-    "https://www.theguardian.com/news/ng-interactive/2026/jul/23/iraqs-impossible-predicament-why-the-country-is-trapped-between-iran-and-the-us"
+    "https://www.theguardian.com/world/ng-interactive/2026/jul/23/most-powerful-passports-ranked"
   ],
   [
-    "video",
+    "film",
+    16,
+    "https://www.theguardian.com/film/2026/jul/23/ryan-gosling-hand-la-la-land-poster-change"
+  ],
+  [
+    "california",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/22/california-toddler-snake-bite-amazon-package"
+  ],
+  [
+    "east",
     15,
     "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html"
+  ],
+  [
+    "latest",
+    15,
+    "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html"
+  ],
+  [
+    "experts",
+    15,
+    "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html"
+  ],
+  [
+    "american",
+    15,
+    "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html"
+  ],
+  [
+    "party",
+    15,
+    "https://www.nytimes.com/2026/07/22/us/politics/amish-shah-arizona-house-democrats.html"
+  ],
+  [
+    "night",
+    15,
+    "https://www.nytimes.com/2026/07/23/arts/television/late-night-trump-administration-tiktok.html"
+  ],
+  [
+    "released",
+    15,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "whose",
@@ -171,27 +196,27 @@
     "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "disease",
+    "book",
     15,
-    "https://www.theguardian.com/wellness/2026/jul/22/tips-on-cutting-ultra-processed-food"
+    "https://www.theguardian.com/world/2026/jul/23/taiwan-hong-kong-independent-bookstore-raids-china-censorship"
   ],
   [
-    "power",
+    "don",
     15,
-    "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news"
+    "https://www.theguardian.com/football/2026/jul/23/surprising-success-us-mexico-canada-fans-hosting-world-cup-joy-love-hope-fun-prices-politics"
   ],
   [
-    "california",
+    "artist",
     15,
-    "https://www.theguardian.com/us-news/2026/jul/22/california-toddler-snake-bite-amazon-package"
+    "https://www.theguardian.com/artanddesign/2026/jul/23/ken-turner-100-year-old-artist-crushed-tesla-with-tank"
   ],
   [
-    "experts",
-    14,
-    "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html"
+    "congress",
+    15,
+    "https://www.theguardian.com/us-news/video/2026/jul/22/congress-change-stateside-podcast"
   ],
   [
-    "american",
+    "agreement",
     14,
     "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html"
   ],
@@ -206,29 +231,29 @@
     "https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html"
   ],
   [
+    "race",
+    14,
+    "https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html"
+  ],
+  [
     "school",
     14,
     "https://www.nytimes.com/2026/07/22/us/head-of-miss-halls-school-indicted.html"
   ],
   [
-    "nolan",
+    "companies",
     14,
-    "https://www.washingtonpost.com/nation/2026/07/22/independent-autopsy-nolan-wells-inconclusive-investigations-continue/"
+    "https://www.theguardian.com/news/ng-interactive/2026/jul/23/iraqs-impossible-predicament-why-the-country-is-trapped-between-iran-and-the-us"
   ],
   [
-    "early",
+    "service",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/news/ng-interactive/2026/jul/23/iraqs-impossible-predicament-why-the-country-is-trapped-between-iran-and-the-us"
   ],
   [
-    "don",
+    "record",
     14,
-    "https://www.theguardian.com/wellness/2026/jul/22/tips-on-cutting-ultra-processed-food"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news"
+    "https://www.theguardian.com/commentisfree/2026/jul/22/stephen-miller-marco-rubio-trump-speeches"
   ],
   [
     "won",
@@ -236,34 +261,34 @@
     "https://www.theguardian.com/us-news/2026/jul/22/trump-iran-war-unpopular-expensive"
   ],
   [
+    "power",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/22/zohran-mamdani-netanyahu-arrest-new-york"
+  ],
+  [
+    "art",
+    14,
+    "https://www.theguardian.com/artanddesign/2026/jul/23/ken-turner-100-year-old-artist-crushed-tesla-with-tank"
+  ],
+  [
+    "hours",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/23/you-be-the-judge-should-girlfriend-stop-queuing-concerts-turning-up-early"
+  ],
+  [
+    "review",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/23/pompeii-out-of-time-with-tom-hiddleston-review"
+  ],
+  [
+    "smith",
+    14,
+    "https://www.theguardian.com/us-news/video/2026/jul/22/congress-change-stateside-podcast"
+  ],
+  [
     "cooker",
     14,
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
-  ],
-  [
-    "military",
-    13,
-    "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html"
-  ],
-  [
-    "middle",
-    13,
-    "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html"
-  ],
-  [
-    "east",
-    13,
-    "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html"
-  ],
-  [
-    "arabia",
-    13,
-    "https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html"
-  ],
-  [
-    "agreement",
-    13,
-    "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html"
   ],
   [
     "democratic",
@@ -276,24 +301,29 @@
     "https://www.nytimes.com/2026/07/22/us/politics/amish-shah-arizona-house-democrats.html"
   ],
   [
-    "global",
+    "ice",
     13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.washingtonpost.com/nation/2026/07/22/ice-raids-took-economic-toll-los-angeles-report-says/"
   ],
   [
-    "released",
+    "sea",
     13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "died",
+    "early",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jul/22/stephen-miller-marco-rubio-trump-speeches"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "night",
+    "little",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/22/steven-judy-serial-killer-siblings"
+    "https://www.theguardian.com/film/2026/jul/23/ryan-gosling-hand-la-la-land-poster-change"
+  ],
+  [
+    "donald",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/22/trump-affordability-georgia-rally"
   ],
   [
     "musk",
@@ -301,78 +331,48 @@
     "https://www.theguardian.com/film/2026/jul/22/the-odyssey-elon-musk-campaign"
   ],
   [
-    "review",
+    "album",
     13,
-    "https://www.theguardian.com/film/2026/jul/22/avatar-aang-the-last-airbender-review-paramount"
+    "https://www.theguardian.com/music/2026/jul/21/ed-askew-psych-folk-bill-callahan"
   ],
   [
-    "congress",
-    13,
-    "https://www.theguardian.com/us-news/video/2026/jul/22/congress-change-stateside-podcast"
+    "middle",
+    12,
+    "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html"
   ],
   [
-    "artist",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jul/22/my-friends-left-ukraine-after-the-russian-invasion-now-i-wonder-if-we-live-in-the-same-world"
+    "mayor",
+    12,
+    "https://www.nytimes.com/2026/07/22/nyregion/mamdani-netanyahu-speech.html"
   ],
   [
-    "gop",
-    13,
-    "https://www.latimes.com/california/story/2026-07-22/gop-gubernatorial-candidate-steve-hilton-pleads-case-to-anti-trump-voters"
+    "minister",
+    12,
+    "https://www.nytimes.com/2026/07/22/nyregion/mamdani-netanyahu-speech.html"
+  ],
+  [
+    "democrats",
+    12,
+    "https://www.nytimes.com/2026/07/22/us/politics/trump-research-funding-artificial-intelligence.html"
   ],
   [
     "republican",
     12,
-    "https://www.nytimes.com/2026/07/22/us/politics/house-republicans-iran-budget-pentagon.html"
+    "https://www.nytimes.com/2026/07/22/us/politics/amish-shah-arizona-house-democrats.html"
   ],
   [
-    "senate",
+    "nolan",
     12,
-    "https://www.nytimes.com/2026/07/22/us/politics/house-republicans-iran-budget-pentagon.html"
+    "https://www.washingtonpost.com/nation/2026/07/22/independent-autopsy-nolan-wells-inconclusive-investigations-continue/"
   ],
   [
-    "risk",
+    "chinese",
     12,
-    "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "race",
+    "died",
     12,
-    "https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html"
-  ],
-  [
-    "bill",
-    12,
-    "https://www.nytimes.com/2026/07/22/us/massachusetts-late-term-abortion-rules.html"
-  ],
-  [
-    "nearly",
-    12,
-    "https://www.washingtonpost.com/nation/2026/07/21/teens-thrift-store-find-earns-him-nearly-90000-auction/"
-  ],
-  [
-    "spent",
-    12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "record",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/jul/22/stephen-miller-marco-rubio-trump-speeches"
-  ],
-  [
-    "cause",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/jul/22/stephen-miller-marco-rubio-trump-speeches"
-  ],
-  [
-    "place",
-    12,
-    "https://www.theguardian.com/wellness/2026/jul/22/tips-on-cutting-ultra-processed-food"
-  ],
-  [
-    "finally",
-    12,
-    "https://www.theguardian.com/film/2026/jul/22/my-grandfather-charles-manson-documentary-interview"
+    "https://www.theguardian.com/world/2026/jul/23/aviation-hero-arthur-whitten-brown-long-lost-granddaughter-uncovers-secret-past"
   ]
 ];
