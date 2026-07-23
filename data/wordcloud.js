@@ -2,18 +2,13 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    101,
-    "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html"
+    107,
+    "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html"
   ],
   [
-    "war",
-    43,
-    "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html"
-  ],
-  [
-    "iran",
-    40,
-    "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html"
+    "president",
+    50,
+    "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html"
   ],
   [
     "cup",
@@ -21,14 +16,14 @@
     "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
   ],
   [
-    "president",
-    33,
-    "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html"
+    "war",
+    31,
+    "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html"
   ],
   [
     "summer",
-    30,
-    "https://www.theguardian.com/football/2026/jul/23/surprising-success-us-mexico-canada-fans-hosting-world-cup-joy-love-hope-fun-prices-politics"
+    28,
+    "https://www.theguardian.com/news/ng-interactive/2026/jul/23/iraqs-impossible-predicament-why-the-country-is-trapped-between-iran-and-the-us"
   ],
   [
     "rice",
@@ -36,174 +31,134 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "food",
-    26,
-    "https://www.nytimes.com/2026/07/23/business/bangladesh-farmers-diesel-water-iran.html"
-  ],
-  [
-    "police",
-    26,
-    "https://www.washingtonpost.com/nation/2026/07/22/man-fatally-shot-by-police-officer-madison-prompting-protest-city/"
-  ],
-  [
-    "death",
-    26,
-    "https://www.washingtonpost.com/nation/2026/07/22/independent-autopsy-nolan-wells-inconclusive-investigations-continue/"
-  ],
-  [
-    "family",
-    24,
-    "https://www.washingtonpost.com/nation/2026/07/22/independent-autopsy-nolan-wells-inconclusive-investigations-continue/"
-  ],
-  [
-    "nuclear",
-    23,
-    "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html"
-  ],
-  [
     "saudi",
-    22,
-    "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html"
+    27,
+    "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html"
   ],
   [
-    "latest",
-    20,
-    "https://www.nytimes.com/2026/07/23/arts/music/willow-smith-interview.html"
+    "iran",
+    27,
+    "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html"
   ],
   [
-    "social",
-    20,
+    "york",
+    25,
+    "https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html"
+  ],
+  [
+    "food",
+    25,
     "https://www.theguardian.com/society/2026/jul/23/luteal-phase-maha"
   ],
   [
     "air",
-    19,
-    "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html"
+    22,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "million",
-    19,
-    "https://www.nytimes.com/2026/07/23/world/africa/ebola-camps-congo-water-aid.html"
-  ],
-  [
-    "won",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/jul/23/trump-white-house-renovation"
-  ],
-  [
-    "school",
-    18,
-    "https://www.theguardian.com/us-news/2026/jul/22/trump-affordability-georgia-rally"
-  ],
-  [
-    "power",
-    17,
-    "https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html"
-  ],
-  [
-    "early",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "because",
-    17,
-    "https://www.theguardian.com/sport/2026/jul/23/how-mlb-players-cope-with-a-losing-season"
+    "nuclear",
+    21,
+    "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html"
   ],
   [
     "donald",
-    17,
+    21,
     "https://www.theguardian.com/commentisfree/2026/jul/23/trump-white-house-renovation"
   ],
   [
-    "york",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/jul/23/trump-white-house-renovation"
+    "questions",
+    19,
+    "https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html"
   ],
   [
     "film",
-    17,
+    19,
     "https://www.theguardian.com/film/2026/jul/23/benedict-cumberbatch-20-best-films-ranked"
   ],
   [
-    "review",
+    "senate",
+    19,
+    "https://www.cbsnews.com/video/senate-judiciary-committee-prepares-to-vote-on-todd-blanches-nomination-for-attorney-general/"
+  ],
+  [
+    "global",
+    18,
+    "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html"
+  ],
+  [
+    "investigation",
+    18,
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+  ],
+  [
+    "police",
     17,
-    "https://www.theguardian.com/science/2026/jul/23/space-datacenters-bezos-blue-origin"
+    "https://www.washingtonpost.com/nation/2026/07/22/man-fatally-shot-by-police-officer-madison-prompting-protest-city/"
   ],
   [
-    "court",
+    "latest",
     17,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/22/ice-claim-immigrants-weaponize-vehicles"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "fans",
+    "security",
     17,
-    "https://www.theguardian.com/us-news/2026/jul/22/dodgers-white-house-latino-fans"
+    "https://www.theguardian.com/world/2026/jul/23/israel-security-minister-itamar-ben-gvir-jewish-extremists-storm-al-aqsa-mosque-compound-jerusalem"
   ],
   [
-    "west",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/jul/23/divided-world-pride-hot-show-film-musical"
-  ],
-  [
-    "oil",
+    "health",
     16,
-    "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html"
+    "https://www.nytimes.com/2026/07/23/well/eat/new-cyclosporiasis-outbreak-fda.html"
   ],
   [
-    "country",
+    "study",
     16,
-    "https://www.nytimes.com/2026/07/23/world/asia/russian-spy-flees-japan.html"
+    "https://www.nytimes.com/2026/07/23/nyregion/new-york-storm-damage-repair-cost-climate-change.html"
   ],
   [
-    "love",
-    16,
-    "https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html"
-  ],
-  [
-    "states",
-    16,
-    "https://www.nytimes.com/2026/07/23/opinion/us-defense-geopolitics-elbridge-colby.html"
-  ],
-  [
-    "nolan",
-    16,
-    "https://www.nytimes.com/2026/07/23/movies/the-odyssey-viking-ship-sweden.html"
-  ],
-  [
-    "east",
+    "won",
     16,
     "https://www.theguardian.com/commentisfree/2026/jul/23/trump-white-house-renovation"
   ],
   [
-    "media",
+    "service",
     16,
-    "https://www.theguardian.com/society/2026/jul/23/luteal-phase-maha"
+    "https://www.theguardian.com/us-news/2026/jul/23/secret-service-agent-vance-investigation"
   ],
   [
-    "political",
-    16,
-    "https://www.theguardian.com/world/2026/jul/23/israel-security-minister-itamar-ben-gvir-jewish-extremists-storm-al-aqsa-mosque-compound-jerusalem"
-  ],
-  [
-    "california",
-    16,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/22/ice-claim-immigrants-weaponize-vehicles"
-  ],
-  [
-    "democrats",
+    "government",
     15,
-    "https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html"
+    "https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html"
   ],
   [
-    "health",
+    "oil",
     15,
-    "https://www.nytimes.com/2026/07/23/health/fda-scientists-rfk-peptides.html"
+    "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html"
   ],
   [
-    "little",
+    "tariffs",
     15,
-    "https://www.nytimes.com/2026/07/23/world/africa/ebola-camps-congo-water-aid.html"
+    "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html"
+  ],
+  [
+    "love",
+    15,
+    "https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html"
+  ],
+  [
+    "vance",
+    15,
+    "https://www.nytimes.com/2026/07/23/opinion/trump-vance-iran-cyclospora.html"
+  ],
+  [
+    "death",
+    15,
+    "https://www.washingtonpost.com/nation/2026/07/22/independent-autopsy-nolan-wells-inconclusive-investigations-continue/"
+  ],
+  [
+    "family",
+    15,
+    "https://www.washingtonpost.com/nation/2026/07/22/independent-autopsy-nolan-wells-inconclusive-investigations-continue/"
   ],
   [
     "israel",
@@ -211,64 +166,99 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
+    "attack",
+    15,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
     "red",
     15,
     "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "released",
+    "media",
     15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/society/2026/jul/23/luteal-phase-maha"
   ],
   [
-    "game",
+    "because",
     15,
-    "https://www.theguardian.com/sport/2026/jul/23/how-mlb-players-cope-with-a-losing-season"
-  ],
-  [
-    "series",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jul/23/best-air-fryer-us"
-  ],
-  [
-    "middle",
-    15,
-    "https://www.theguardian.com/world/2026/jul/23/dubai-offers-tourists-benefits"
-  ],
-  [
-    "killed",
-    15,
-    "https://www.theguardian.com/environment/2026/jul/23/orcas-ramming-prey-hard-explodes-playing-game"
-  ],
-  [
-    "morning",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/21/bay-area-city-manager-charged-stealing-yacht"
-  ],
-  [
-    "google",
-    14,
-    "https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html"
-  ],
-  [
-    "don",
-    14,
-    "https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html"
+    "https://www.theguardian.com/society/2026/jul/23/luteal-phase-maha"
   ],
   [
     "fewer",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/jul/23/best-air-fryer-us"
+  ],
+  [
+    "concerns",
+    15,
+    "https://www.theguardian.com/media/2026/jul/23/new-york-times-reporter-subpoenas-withdraw"
+  ],
+  [
+    "secret",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/23/secret-service-agent-vance-investigation"
+  ],
+  [
+    "school",
+    15,
+    "https://www.theguardian.com/sport/2026/jul/23/cooper-lutkenhaus-us-track-championships-interview"
+  ],
+  [
+    "race",
+    14,
+    "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html"
+  ],
+  [
+    "arabia",
+    14,
+    "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html"
+  ],
+  [
+    "ice",
+    14,
+    "https://www.nytimes.com/2026/07/23/us/winton-nc-ice-detention-center.html"
+  ],
+  [
+    "million",
+    14,
+    "https://www.nytimes.com/2026/07/23/business/media/movie-theaters-popcorn-buckets.html"
+  ],
+  [
+    "storm",
+    14,
+    "https://www.nytimes.com/2026/07/23/nyregion/new-york-storm-damage-repair-cost-climate-change.html"
+  ],
+  [
+    "released",
+    14,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "team",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "social",
+    14,
+    "https://www.theguardian.com/society/2026/jul/23/luteal-phase-maha"
+  ],
+  [
+    "political",
+    14,
+    "https://www.theguardian.com/wellness/2026/jul/23/wellness-culture-synthetic-fabrics-fears"
+  ],
+  [
+    "series",
     14,
     "https://www.theguardian.com/thefilter-us/2026/jul/23/best-air-fryer-us"
   ],
   [
-    "artist",
+    "game",
     14,
-    "https://www.theguardian.com/artanddesign/2026/jul/23/ken-turner-100-year-old-artist-crushed-tesla-with-tank"
-  ],
-  [
-    "dance",
-    14,
-    "https://www.theguardian.com/film/2026/jul/23/ryan-gosling-hand-la-la-land-poster-change"
+    "https://www.theguardian.com/film/2026/jul/23/how-2020s-decade-revolutionised-cinema"
   ],
   [
     "cooker",
@@ -276,34 +266,29 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "administration",
+    "america",
     13,
-    "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html"
-  ],
-  [
-    "arabia",
-    13,
-    "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html"
-  ],
-  [
-    "again",
-    13,
-    "https://www.nytimes.com/2026/07/23/business/dealbook/google-ai-capex.html"
-  ],
-  [
-    "republicans",
-    13,
-    "https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html"
-  ],
-  [
-    "cases",
-    13,
-    "https://www.nytimes.com/2026/07/23/well/eat/new-cyclosporiasis-outbreak-fda.html"
+    "https://www.nytimes.com/2026/07/23/business/cyclospora-lettuce-salad.html"
   ],
   [
     "odyssey",
     13,
-    "https://www.nytimes.com/2026/07/23/movies/the-odyssey-viking-ship-sweden.html"
+    "https://www.nytimes.com/2026/07/23/business/media/movie-theaters-popcorn-buckets.html"
+  ],
+  [
+    "don",
+    13,
+    "https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html"
+  ],
+  [
+    "hot",
+    13,
+    "https://www.washingtonpost.com/nation/2026/07/22/tourists-behave-badly-yellowstones-grand-prismatic-spring/"
+  ],
+  [
+    "watch",
+    13,
+    "https://www.washingtonpost.com/nation/2026/07/22/tourists-behave-badly-yellowstones-grand-prismatic-spring/"
   ],
   [
     "sea",
@@ -311,68 +296,83 @@
     "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "global",
-    13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "investigation",
-    13,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
-  ],
-  [
-    "past",
-    13,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "far",
-    13,
-    "https://www.theguardian.com/world/ng-interactive/2026/jul/23/most-powerful-passports-ranked"
-  ],
-  [
     "buying",
     13,
     "https://www.theguardian.com/thefilter-us/2026/jul/23/best-air-fryer-us"
   ],
   [
-    "data",
+    "court",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/23/new-jersey-noncitizen-republicans-election-fraud"
+    "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs"
   ],
   [
-    "race",
+    "department",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/23/amish-shah-arizona-democratic-congressional-primary"
+    "https://www.theguardian.com/media/2026/jul/23/new-york-times-reporter-subpoenas-withdraw"
   ],
   [
-    "prices",
+    "committee",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/22/trump-affordability-georgia-rally"
+    "https://www.theguardian.com/us-news/2026/jul/23/republican-committee-trump-jack-smith"
   ],
   [
-    "book",
+    "smith",
     13,
-    "https://www.theguardian.com/politics/2026/jul/23/anton-jager-groundbreaking-book-being-devoured-by-left"
+    "https://www.theguardian.com/us-news/2026/jul/23/republican-committee-trump-jack-smith"
+  ],
+  [
+    "review",
+    13,
+    "https://www.theguardian.com/books/ng-interactive/2026/jul/23/matthew-schnipper-rise-above-grief"
+  ],
+  [
+    "west",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/23/divided-world-pride-hot-show-film-musical"
+  ],
+  [
+    "sports",
+    13,
+    "https://www.theguardian.com/sport/2026/jul/23/tour-de-france-stage-18-report-tadej-pogacar-team-illness-richard-carapaz"
+  ],
+  [
+    "today",
+    13,
+    "https://www.theguardian.com/film/2026/jul/22/avatar-aang-the-last-airbender-review-paramount"
   ],
   [
     "art",
     13,
-    "https://www.theguardian.com/artanddesign/2026/jul/23/ken-turner-100-year-old-artist-crushed-tesla-with-tank"
+    "https://www.theguardian.com/books/2026/jul/22/venus-vanishing-by-rebecca-birrell-review-art-desire-and-the-rise-of-the-third-reich"
   ],
   [
-    "hours",
+    "sale",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/23/you-be-the-judge-should-girlfriend-stop-queuing-concerts-turning-up-early"
+    "https://www.theguardian.com/thefilter-us/2026/jul/21/nordstrom-anniversary-sale-good-fashion-deals"
   ],
   [
-    "sex",
+    "member",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/23/jes-staley-barclays-ceo-epstein-hearing"
+    "https://www.theguardian.com/world/2026/jul/23/aviation-hero-arthur-whitten-brown-long-lost-granddaughter-uncovers-secret-past"
   ],
   [
-    "study",
-    13,
-    "https://www.theguardian.com/society/2026/jul/23/road-traffic-noise-parkinsons-disease-study-health"
+    "east",
+    12,
+    "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html"
+  ],
+  [
+    "administration",
+    12,
+    "https://www.nytimes.com/2026/07/23/us/eeoc-subpoena-penn-jewish-list.html"
+  ],
+  [
+    "past",
+    12,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "phone",
+    12,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ]
 ];
