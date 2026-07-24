@@ -2,52 +2,40 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Administration Imposed New Tariffs",
-      "count": 63,
-      "url": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
-      "source": "NY Times"
+      "name": "Trump Vows Retaliation Against Iran",
+      "count": 59,
+      "url": "https://www.today.com/video/trump-vows-retaliation-against-iran-for-houthi-attack-in-red-sea-267213893508",
+      "source": "NBC News"
     },
     {
       "name": "The Filter Us",
-      "count": 11,
+      "count": 12,
       "url": "https://www.theguardian.com/thefilter-us/2026/jul/21/nordstrom-anniversary-sale-good-fashion-deals",
       "source": "The Guardian"
     },
     {
-      "name": "The U.S. Senate",
+      "name": "Amazon Future Engineer",
       "count": 11,
-      "url": "https://www.cbsnews.com/video/major-contenders-vying-south-carolina-senate-seat-replace-lindsey-graham/",
-      "source": "CBS News"
+      "url": "https://www.foxnews.com/us/amazon-teacher-year-winner-accused-preying-14-year-old-student",
+      "source": "Fox News"
     },
     {
-      "name": "House Of Representatives",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/jul/23/republican-committee-trump-jack-smith",
+      "name": "Ai Odyssey",
+      "count": 10,
+      "url": "https://www.theguardian.com/culture/2026/jul/24/seth-meyers-odyssey-movie-elon-musk-ai",
       "source": "The Guardian"
     },
     {
-      "name": "Fda",
+      "name": "Pentagon",
       "count": 9,
-      "url": "https://www.cbsnews.com/video/fda-advisory-panel-recommends-loosening-2-peptide-restrictions/",
-      "source": "CBS News"
-    },
-    {
-      "name": "New York Times Journalists",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html",
+      "url": "https://www.nytimes.com/2026/07/23/us/politics/iran-troop-deaths.html",
       "source": "NY Times"
     },
     {
-      "name": "Eu",
+      "name": "White House Correspondents’ Association",
       "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-white-house-correspondents-dinner",
       "source": "The Guardian"
-    },
-    {
-      "name": "Kagan Says Supreme Court",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/07/23/us/politics/elena-kagan-supreme-court-trump.html",
-      "source": "NY Times"
     },
     {
       "name": "Nordstrom",
@@ -56,10 +44,146 @@
       "source": "The Guardian"
     },
     {
-      "name": "Amazon",
+      "name": "Cbs News'",
       "count": 7,
-      "url": "https://www.theguardian.com/thefilter-us/2026/jul/17/back-to-school-sales-deals",
+      "url": "https://www.cbsnews.com/video/what-to-know-abraham-accords-agreement-trump-wants-saudi-arabia-to-join/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Back Lindsey Graham’S Sister For Senate",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-lindsey-graham-sister-darline-senate.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The White House",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/jul/23/dodgers-white-house-visit-donald-trump",
       "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 45,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/24/public-transit-is-a-lifeline-for-countless-americans-trump-is-derailing-our-protections",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/07/23/us/michael-emmanuel-swinton-iran-soldier.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 16,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/24/public-transit-is-a-lifeline-for-countless-americans-trump-is-derailing-our-protections",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iraq",
+      "count": 11,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/23/iraqs-impossible-predicament-why-the-country-is-trapped-between-iran-and-the-us",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Canada",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York Chinatown",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/new-yorks-chinatown-casino-fears",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 10,
+      "url": "https://www.theguardian.com/business/2026/jul/24/trump-tariffs-uk-disadvantage-eu-turnberry-competition",
+      "source": "The Guardian"
+    },
+    {
+      "name": "China",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A.",
+      "count": 8,
+      "url": "https://www.latimes.com/california/story/2026-07-24/lapd-racial-bias-traffic-stop-complaints-officer-fired",
+      "source": "LA Times"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 22,
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-administration-election-chaos",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Melania Trump",
+      "count": 20,
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-white-house-correspondents-dinner",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Messi",
+      "count": 9,
+      "url": "https://www.theguardian.com/football/2026/jul/24/mls-players-world-cup-2026-ranked",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Laura Loomer",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/maga-influencer-laura-loomer-reverses-course-on-ukraine-after-kyiv-visit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Joe Biden’S",
+      "count": 6,
+      "url": "https://www.politico.com/news/2026/07/22/arizona-republicans-elect-2020-deniers-trump-01007511",
+      "source": "Politico"
+    },
+    {
+      "name": "Anthony Joshua",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/jul/24/tyson-fury-anthony-joshua-shadow-box-100m-showdown-boxing",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/2026/jul/24/new-ali-g-film-sacha-baron-cohen-who-iz-i",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tom Hiddleston",
+      "count": 5,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/23/pompeii-out-of-time-with-tom-hiddleston-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Wilbur Budd",
+      "count": 5,
+      "url": "https://www.theguardian.com/books/2026/jul/23/the-midnight-train-by-matt-haig-audiobook-review-a-cosy-feelgood-journey",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Rams Coo Tony Pastoors",
+      "count": 5,
+      "url": "https://www.latimes.com/sports/rams/story/2026-07-24/rams-fine-with-aaron-donald-taking-time-comeback-decision",
+      "source": "LA Times"
     }
   ],
   "EVENT": [
@@ -70,9 +194,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "The World Cup Live Up",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/07/23/travel/world-cup-tourism-us-canada-mexico.html",
+      "name": "Iran War Appears Lower",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/07/23/us/politics/iran-troop-deaths.html",
       "source": "NY Times"
     },
     {
@@ -82,14 +206,14 @@
       "source": "The Guardian"
     },
     {
-      "name": "Iran War Appears Lower",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/07/23/us/politics/iran-troop-deaths.html",
-      "source": "NY Times"
+      "name": "The World Cup",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/2026/jul/24/germany-confirm-jurgen-klopp-new-head-coach",
+      "source": "The Guardian"
     },
     {
       "name": "The Iran War",
-      "count": 3,
+      "count": 4,
       "url": "https://www.nytimes.com/2026/07/23/us/michael-emmanuel-swinton-iran-soldier.html",
       "source": "NY Times"
     },
@@ -112,141 +236,17 @@
       "source": "Politico"
     },
     {
-      "name": "The Fa Cup",
+      "name": "Operation Epic Fury",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jul/23/andoni-iraola-liverpool-interview-spain",
+      "url": "https://www.theguardian.com/us-news/2026/jul/23/pentagon-service-members-killed-iran",
       "source": "The Guardian"
     },
     {
-      "name": "The League Cup",
+      "name": "Wimbledon",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jul/23/andoni-iraola-liverpool-interview-spain",
+      "url": "https://www.theguardian.com/film/2026/jul/24/new-ali-g-film-sacha-baron-cohen-who-iz-i",
       "source": "The Guardian"
     }
   ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 17,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/23/trump-white-house-renovation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump ’S",
-      "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/jul/23/republican-committee-trump-jack-smith",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Messi",
-      "count": 9,
-      "url": "https://www.theguardian.com/football/2026/jul/24/mls-players-world-cup-2026-ranked",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Joe Biden’S",
-      "count": 6,
-      "url": "https://www.politico.com/news/2026/07/22/arizona-republicans-elect-2020-deniers-trump-01007511",
-      "source": "Politico"
-    },
-    {
-      "name": "Sonam Wangchuk",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/07/23/world/asia/sonam-wangchuk-india-hunger-strike-protests-modi.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Madison",
-      "count": 5,
-      "url": "https://www.washingtonpost.com/nation/2026/07/23/police-monitor-madison-subpoena-department-evidence-shooting/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Marco Rubio",
-      "count": 5,
-      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Vance Boelter",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/jul/23/melissa-hortman-killing-life-sentence-vance-boelter",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Anthony Joshua",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/jul/24/tyson-fury-anthony-joshua-shadow-box-100m-showdown-boxing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Elon Musk ’S",
-      "count": 5,
-      "url": "https://www.theguardian.com/technology/2026/jul/23/tesla-stock-drops-elon-musk",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "New Us",
-      "count": 38,
-      "url": "https://www.theguardian.com/science/2026/jul/23/space-datacenters-bezos-blue-origin",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 29,
-      "url": "https://www.nytimes.com/2026/07/23/us/michael-emmanuel-swinton-iran-soldier.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/07/23/us/michael-emmanuel-swinton-iran-soldier.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/jul/23/child-cancer-california-ladera-ranch",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Spain",
-      "count": 12,
-      "url": "https://www.theguardian.com/world/live/2026/jul/24/france-spain-wildfires-cap-ferret-europe-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City’S",
-      "count": 12,
-      "url": "https://www.nbcnews.com/nightly-news/video/stabbings-near-new-york-city-s-central-park-267194437527",
-      "source": "NBC News"
-    },
-    {
-      "name": "Canada",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "France",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/live/2026/jul/24/france-spain-wildfires-cap-ferret-europe-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "America",
-      "count": 9,
-      "url": "https://www.theguardian.com/sport/2026/jul/23/cooper-lutkenhaus-us-track-championships-interview",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas",
-      "count": 8,
-      "url": "https://www.washingtonpost.com/nation/2026/07/24/after-hometown-soldiers-death-texas-suburb-wrestles-with-trumps-iran-war/",
-      "source": "Washington Post"
-    }
-  ],
-  "updated": "2026-07-24T09:23:47Z"
+  "updated": "2026-07-24T14:59:42Z"
 };
