@@ -2,23 +2,23 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    100,
+    87,
     "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html"
   ],
   [
+    "food",
+    37,
+    "https://www.theguardian.com/us-news/2026/jul/25/food-stamps-children-trump"
+  ],
+  [
     "president",
-    45,
+    34,
     "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html"
   ],
   [
     "iran",
-    32,
+    29,
     "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html"
-  ],
-  [
-    "food",
-    32,
-    "https://www.theguardian.com/us-news/2026/jul/25/lindsay-clancy-murder-trial-postpartum-psychosis"
   ],
   [
     "rice",
@@ -26,79 +26,79 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "air",
-    27,
-    "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html"
-  ],
-  [
     "summer",
-    27,
-    "https://www.nytimes.com/2026/07/25/briefing/what-does-summer-taste-like.html"
+    26,
+    "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html"
   ],
   [
-    "country",
-    25,
-    "https://www.washingtonpost.com/nation/2026/07/24/after-hometown-soldiers-death-texas-suburb-wrestles-with-trumps-iran-war/"
-  ],
-  [
-    "dinner",
-    25,
-    "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington"
-  ],
-  [
-    "cup",
-    25,
-    "https://www.theguardian.com/football/2026/jul/24/mls-players-world-cup-2026-ranked"
-  ],
-  [
-    "because",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
+    "senate",
+    26,
+    "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html"
   ],
   [
     "place",
+    24,
+    "https://www.theguardian.com/film/2026/jul/25/michael-mann-interview-manhunter"
+  ],
+  [
+    "air",
     23,
-    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
+    "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html"
   ],
   [
-    "james",
+    "country",
     23,
-    "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion"
-  ],
-  [
-    "administration",
-    21,
-    "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html"
-  ],
-  [
-    "donald",
-    21,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/pentagon-iran-war-casualties-cover-up"
-  ],
-  [
-    "democrats",
-    21,
-    "https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine"
-  ],
-  [
-    "minister",
-    20,
-    "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html"
-  ],
-  [
-    "war",
-    20,
     "https://www.washingtonpost.com/nation/2026/07/24/after-hometown-soldiers-death-texas-suburb-wrestles-with-trumps-iran-war/"
   ],
   [
+    "war",
+    22,
+    "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html"
+  ],
+  [
+    "family",
+    22,
+    "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
+  ],
+  [
+    "because",
+    22,
+    "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit"
+  ],
+  [
     "york",
-    19,
+    20,
     "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html"
+  ],
+  [
+    "fire",
+    20,
+    "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-cease-fire-collapse.html"
+  ],
+  [
+    "jackson",
+    20,
+    "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html"
+  ],
+  [
+    "cup",
+    20,
+    "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid"
+  ],
+  [
+    "maine",
+    19,
+    "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html"
+  ],
+  [
+    "win",
+    19,
+    "https://www.nytimes.com/2026/07/25/magazine/karl-anthony-towns-interview.html"
   ],
   [
     "office",
     19,
-    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
+    "https://www.theguardian.com/film/2026/jul/25/michael-mann-interview-manhunter"
   ],
   [
     "ukraine",
@@ -106,154 +106,124 @@
     "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit"
   ],
   [
-    "senate",
-    19,
-    "https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine"
-  ],
-  [
-    "states",
+    "million",
     18,
-    "https://www.theguardian.com/commentisfree/2026/jul/25/i-tried-so-hard-salad-eater-cyclospora"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "red",
-    17,
-    "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html"
+    "health",
+    18,
+    "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain"
   ],
   [
-    "maine",
+    "dinner",
+    18,
+    "https://www.theguardian.com/us-news/video/2026/jul/25/donald-trump-dons-trump-2028-hat-and-jokes-about-fourth-term-video"
+  ],
+  [
+    "administration",
     17,
-    "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html"
+    "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html"
+  ],
+  [
+    "hot",
+    17,
+    "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html"
+  ],
+  [
+    "california",
+    17,
+    "https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta"
+  ],
+  [
+    "judge",
+    16,
+    "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html"
   ],
   [
     "odyssey",
-    17,
-    "https://www.nytimes.com/2026/07/25/opinion/odyssey-nolan-greek-mythology.html"
-  ],
-  [
-    "family",
-    17,
-    "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
-  ],
-  [
-    "film",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
-  ],
-  [
-    "correspondents",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington"
-  ],
-  [
-    "south",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/jul/25/the-hill-i-will-die-on-breakfast-cereal-babies-eat-salad-mornings-grownup"
-  ],
-  [
-    "million",
     16,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.nytimes.com/2026/07/25/opinion/odyssey-nolan-greek-mythology.html"
   ],
   [
     "heat",
     16,
-    "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion"
+    "https://www.theguardian.com/film/2026/jul/25/michael-mann-interview-manhunter"
   ],
   [
-    "shot",
+    "feel",
+    16,
+    "https://www.theguardian.com/film/2026/jul/25/michael-mann-interview-manhunter"
+  ],
+  [
+    "don",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/jul/25/i-tried-so-hard-salad-eater-cyclospora"
+  ],
+  [
+    "south",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/jul/25/the-hill-i-will-die-on-breakfast-cereal-babies-eat-salad-mornings-grownup"
+  ],
+  [
+    "death",
     15,
     "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
   ],
   [
-    "attack",
-    15,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "ice",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "feel",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/25/lou-keller-sick-of-it-all-dies-aged-59"
-  ],
-  [
-    "night",
-    15,
-    "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war"
-  ],
-  [
-    "court",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta"
-  ],
-  [
-    "hot",
+    "buying",
     15,
     "https://www.theguardian.com/thefilter-us/2026/jul/25/christmas-in-july"
   ],
   [
-    "don",
+    "donald",
     15,
-    "https://www.theguardian.com/commentisfree/2026/jul/25/i-tried-so-hard-salad-eater-cyclospora"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/pentagon-iran-war-casualties-cover-up"
   ],
   [
-    "thousands",
+    "video",
+    15,
+    "https://www.theguardian.com/us-news/video/2026/jul/25/donald-trump-dons-trump-2028-hat-and-jokes-about-fourth-term-video"
+  ],
+  [
+    "nearly",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jul/25/staff-turnover-trump-second-term"
+  ],
+  [
+    "troy",
     14,
-    "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html"
+    "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html"
   ],
   [
-    "accused",
+    "democratic",
     14,
-    "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html"
+    "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html"
   ],
   [
-    "win",
-    14,
-    "https://www.nytimes.com/2026/07/25/magazine/karl-anthony-towns-interview.html"
-  ],
-  [
-    "government",
-    14,
-    "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html"
-  ],
-  [
-    "death",
-    14,
-    "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
-  ],
-  [
-    "fire",
+    "released",
     14,
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "health",
+    "film",
     14,
-    "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion"
+    "https://www.theguardian.com/film/2026/jul/25/michael-mann-interview-manhunter"
+  ],
+  [
+    "political",
+    14,
+    "https://www.theguardian.com/world/2026/jul/25/history-of-spain-fearless-1970s-trans-rights-political-collective"
+  ],
+  [
+    "wife",
+    14,
+    "https://www.theguardian.com/world/2026/jul/25/hiroshima-memoir-kiyoshi-tanimoto-day-atomic-bomb-fell-exclusive-extract"
   ],
   [
     "water",
     14,
-    "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde"
-  ],
-  [
-    "media",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/25/lou-keller-sick-of-it-all-dies-aged-59"
-  ],
-  [
-    "party",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine"
-  ],
-  [
-    "california",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta"
+    "https://www.theguardian.com/us-news/2026/jul/24/arizona-border-wall-endangered-species"
   ],
   [
     "cooker",
@@ -261,9 +231,24 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "side",
+    "department",
     13,
-    "https://www.nytimes.com/2026/07/24/nyregion/antisemitism-nyc-stabbing-jewish.html"
+    "https://www.nytimes.com/2026/07/25/us/pentagon-iran-war-troops-death-toll.html"
+  ],
+  [
+    "spain",
+    13,
+    "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html"
+  ],
+  [
+    "race",
+    13,
+    "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html"
+  ],
+  [
+    "party",
+    13,
+    "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html"
   ],
   [
     "loss",
@@ -271,59 +256,64 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "spent",
+    "attack",
     13,
     "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "latest",
+    "backed",
     13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "really",
+    "final",
     13,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai"
+    "https://www.theguardian.com/film/2026/jul/25/michael-mann-interview-manhunter"
   ],
   [
-    "little",
+    "states",
     13,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai"
+    "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave"
   ],
   [
-    "nearly",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
-  ],
-  [
-    "lebron",
-    13,
-    "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion"
-  ],
-  [
-    "russian",
+    "media",
     13,
     "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit"
   ],
   [
-    "graham",
+    "son",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine"
+    "https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta"
   ],
   [
-    "buying",
+    "singer",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/25/christmas-in-july"
+    "https://www.theguardian.com/us-news/2026/jul/25/lou-keller-sick-of-it-all-dies-aged-59"
   ],
   [
-    "judge",
-    12,
-    "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html"
+    "game",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/24/trump-canada-wildfires-smoke-scientists"
   ],
   [
-    "jackson",
+    "album",
+    13,
+    "https://www.theguardian.com/music/2026/jul/24/nate-amos-music-interview-singer-in-my-band-album-water-from-your-eyes-this-is-lorelai"
+  ],
+  [
+    "wildfires",
     12,
-    "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html"
+    "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html"
+  ],
+  [
+    "france",
+    12,
+    "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html"
+  ],
+  [
+    "red",
+    12,
+    "https://www.nytimes.com/2026/07/25/opinion/trump-iran-socialism-communism-dsa.html"
   ],
   [
     "police",
@@ -331,48 +321,58 @@
     "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
   ],
   [
-    "held",
+    "spent",
     12,
     "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "global",
+    "sea",
+    12,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "program",
     12,
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "released",
+    "minister",
     12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "point",
+    "fashion",
     12,
-    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
+    "https://www.theguardian.com/thefilter-us/2026/jul/25/christmas-in-july"
   ],
   [
-    "players",
+    "primary",
     12,
-    "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion"
+    "https://www.theguardian.com/us-news/2026/jul/25/troy-jackson-secures-democratic-nomination-maine-senate-seat"
   ],
   [
-    "washington",
+    "graham",
     12,
-    "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington"
+    "https://www.theguardian.com/us-news/2026/jul/25/troy-jackson-secures-democratic-nomination-maine-senate-seat"
+  ],
+  [
+    "democrats",
+    12,
+    "https://www.theguardian.com/us-news/2026/jul/25/troy-jackson-secures-democratic-nomination-maine-senate-seat"
+  ],
+  [
+    "local",
+    12,
+    "https://www.theguardian.com/us-news/2026/jul/25/eight-family-members-dead-michigan-fire"
   ],
   [
     "social",
     12,
-    "https://www.theguardian.com/us-news/2026/jul/25/lou-keller-sick-of-it-all-dies-aged-59"
+    "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit"
   ],
   [
-    "near",
+    "announced",
     12,
-    "https://www.theguardian.com/us-news/2026/jul/25/former-trump-administration-food-safety-official-federal-response-cyclospora"
-  ],
-  [
-    "history",
-    12,
-    "https://www.theguardian.com/us-news/2026/jul/24/trump-smithsonian-history-museum"
+    "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit"
   ]
 ];
