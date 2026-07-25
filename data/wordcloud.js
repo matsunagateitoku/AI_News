@@ -2,28 +2,23 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    126,
-    "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html"
+    100,
+    "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html"
   ],
   [
     "president",
-    47,
-    "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html"
+    45,
+    "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html"
   ],
   [
     "iran",
-    35,
-    "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html"
+    32,
+    "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html"
   ],
   [
-    "war",
-    35,
-    "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html"
-  ],
-  [
-    "dinner",
-    29,
-    "https://www.nytimes.com/2026/07/25/us/politics/is-this-supposed-to-be-fun-trump-hurls-insults-at-correspondents-dinner.html"
+    "food",
+    32,
+    "https://www.theguardian.com/us-news/2026/jul/25/lindsay-clancy-murder-trial-postpartum-psychosis"
   ],
   [
     "rice",
@@ -31,129 +26,134 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "cup",
+    "air",
     27,
-    "https://www.nytimes.com/2026/07/24/world/americas/argentina-world-cup-racism-players.html"
-  ],
-  [
-    "states",
-    26,
-    "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html"
-  ],
-  [
-    "tariffs",
-    26,
-    "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html"
-  ],
-  [
-    "food",
-    26,
-    "https://www.theguardian.com/us-news/2026/jul/24/fda-mifepristone-restrictions"
+    "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html"
   ],
   [
     "summer",
-    26,
-    "https://www.theguardian.com/culture/2026/jul/24/once-the-season-of-surprise-break-out-hits-this-summers-tv-has-lost-its-heat"
-  ],
-  [
-    "court",
-    25,
-    "https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html"
-  ],
-  [
-    "administration",
-    24,
-    "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html"
-  ],
-  [
-    "air",
-    22,
-    "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html"
-  ],
-  [
-    "james",
-    21,
-    "https://www.nytimes.com/2026/07/24/us/politics/trump-lebron-james-racist.html"
+    27,
+    "https://www.nytimes.com/2026/07/25/briefing/what-does-summer-taste-like.html"
   ],
   [
     "country",
-    21,
+    25,
     "https://www.washingtonpost.com/nation/2026/07/24/after-hometown-soldiers-death-texas-suburb-wrestles-with-trumps-iran-war/"
   ],
   [
-    "because",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
+    "dinner",
+    25,
+    "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington"
   ],
   [
-    "correspondents",
-    20,
-    "https://www.nytimes.com/2026/07/25/us/politics/is-this-supposed-to-be-fun-trump-hurls-insults-at-correspondents-dinner.html"
+    "cup",
+    25,
+    "https://www.theguardian.com/football/2026/jul/24/mls-players-world-cup-2026-ranked"
+  ],
+  [
+    "because",
+    23,
+    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
   ],
   [
     "place",
-    20,
+    23,
     "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
   ],
   [
-    "american",
-    19,
-    "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html"
+    "james",
+    23,
+    "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion"
   ],
   [
-    "democrats",
-    19,
-    "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html"
-  ],
-  [
-    "attack",
-    19,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "film",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
-  ],
-  [
-    "south",
-    19,
-    "https://www.theguardian.com/us-news/2026/jul/24/arizona-border-wall-endangered-species"
-  ],
-  [
-    "lebron",
-    18,
-    "https://www.nytimes.com/2026/07/24/us/politics/trump-lebron-james-racist.html"
+    "administration",
+    21,
+    "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html"
   ],
   [
     "donald",
-    18,
-    "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs"
+    21,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/pentagon-iran-war-casualties-cover-up"
   ],
   [
-    "primary",
+    "democrats",
+    21,
+    "https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine"
+  ],
+  [
+    "minister",
+    20,
+    "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html"
+  ],
+  [
+    "war",
+    20,
+    "https://www.washingtonpost.com/nation/2026/07/24/after-hometown-soldiers-death-texas-suburb-wrestles-with-trumps-iran-war/"
+  ],
+  [
+    "york",
+    19,
+    "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html"
+  ],
+  [
+    "office",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
+  ],
+  [
+    "ukraine",
+    19,
+    "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit"
+  ],
+  [
+    "senate",
+    19,
+    "https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine"
+  ],
+  [
+    "states",
     18,
-    "https://www.theguardian.com/us-news/2026/jul/24/democrats-south-carolina-2028-presidential-primaries"
+    "https://www.theguardian.com/commentisfree/2026/jul/25/i-tried-so-hard-salad-eater-cyclospora"
+  ],
+  [
+    "red",
+    17,
+    "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html"
+  ],
+  [
+    "maine",
+    17,
+    "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html"
   ],
   [
     "odyssey",
     17,
-    "https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html"
+    "https://www.nytimes.com/2026/07/25/opinion/odyssey-nolan-greek-mythology.html"
   ],
   [
-    "death",
+    "family",
     17,
     "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
   ],
   [
-    "ice",
+    "film",
     17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
   ],
   [
-    "history",
+    "correspondents",
+    17,
+    "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington"
+  ],
+  [
+    "south",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/jul/25/the-hill-i-will-die-on-breakfast-cereal-babies-eat-salad-mornings-grownup"
+  ],
+  [
+    "million",
     16,
-    "https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
     "heat",
@@ -161,119 +161,99 @@
     "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion"
   ],
   [
-    "california",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/24/paramount-warner-bros-merger"
-  ],
-  [
-    "questions",
-    15,
-    "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html"
-  ],
-  [
-    "killed",
-    15,
-    "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html"
-  ],
-  [
-    "political",
-    15,
-    "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html"
-  ],
-  [
-    "canada",
-    15,
-    "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html"
-  ],
-  [
-    "police",
+    "shot",
     15,
     "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
   ],
   [
-    "million",
+    "attack",
     15,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "office",
+    "ice",
     15,
-    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "east",
+    "feel",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/25/lou-keller-sick-of-it-all-dies-aged-59"
+  ],
+  [
+    "night",
+    15,
+    "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war"
+  ],
+  [
+    "court",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta"
+  ],
+  [
+    "hot",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/jul/25/christmas-in-july"
+  ],
+  [
+    "don",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jul/25/i-tried-so-hard-salad-eater-cyclospora"
+  ],
+  [
+    "thousands",
     14,
-    "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html"
+    "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html"
+  ],
+  [
+    "accused",
+    14,
+    "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html"
+  ],
+  [
+    "win",
+    14,
+    "https://www.nytimes.com/2026/07/25/magazine/karl-anthony-towns-interview.html"
+  ],
+  [
+    "government",
+    14,
+    "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html"
+  ],
+  [
+    "death",
+    14,
+    "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
   ],
   [
     "fire",
     14,
-    "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html"
-  ],
-  [
-    "side",
-    14,
-    "https://www.nytimes.com/2026/07/24/nyregion/antisemitism-nyc-stabbing-jewish.html"
-  ],
-  [
-    "global",
-    14,
-    "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html"
-  ],
-  [
-    "players",
-    14,
-    "https://www.nytimes.com/2026/07/24/world/americas/argentina-world-cup-racism-players.html"
-  ],
-  [
-    "shot",
-    14,
-    "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
-  ],
-  [
-    "military",
-    14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "released",
-    14,
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "really",
+    "health",
     14,
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai"
+    "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion"
   ],
   [
-    "social",
+    "water",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs"
+    "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde"
   ],
   [
-    "washington",
+    "media",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington"
+    "https://www.theguardian.com/us-news/2026/jul/25/lou-keller-sick-of-it-all-dies-aged-59"
   ],
   [
-    "ukraine",
+    "party",
     14,
-    "https://www.theguardian.com/world/2026/jul/25/ukraine-war-briefing-ten-killed-russian-attack-weapons-exhibition-near-kyiv"
+    "https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine"
   ],
   [
-    "hot",
+    "california",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/24/joanna-ruth-shields-big-sur-alcohol-withdrawal-cause-of-death"
-  ],
-  [
-    "night",
-    14,
-    "https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat"
-  ],
-  [
-    "friend",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/25/furious-serial-killer-thriller-is-the-most-staggeringly-feminist-tv-youll-ever-watch"
+    "https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta"
   ],
   [
     "cooker",
@@ -281,98 +261,118 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "judge",
-    13,
-    "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html"
-  ],
-  [
-    "west",
+    "side",
     13,
     "https://www.nytimes.com/2026/07/24/nyregion/antisemitism-nyc-stabbing-jewish.html"
   ],
   [
-    "paramount",
-    13,
-    "https://www.nytimes.com/2026/07/24/business/media/paramount-warner-bros-merger-delayed.html"
-  ],
-  [
-    "merger",
-    13,
-    "https://www.nytimes.com/2026/07/24/business/media/paramount-warner-bros-merger-delayed.html"
-  ],
-  [
     "loss",
     13,
-    "https://www.nytimes.com/2026/07/24/world/americas/argentina-world-cup-racism-players.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "nolan",
+    "spent",
     13,
-    "https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "several",
+    "latest",
     13,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "outside",
+    "really",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/24/trump-smithsonian-history-museum"
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai"
   ],
   [
-    "media",
+    "little",
     13,
-    "https://www.theguardian.com/politics/2026/jul/25/tiktok-andy-burnham-zohran-mamdani-social-media"
-  ],
-  [
-    "win",
-    13,
-    "https://www.theguardian.com/world/2026/jul/25/ukraine-war-briefing-ten-killed-russian-attack-weapons-exhibition-near-kyiv"
-  ],
-  [
-    "don",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/24/trump-tariffs-forced-labor-us-prisons"
-  ],
-  [
-    "record",
-    13,
-    "https://www.theguardian.com/sport/2026/jul/24/pogacar-wins-stage-19-alpe-d-huez-extends-tour-de-france-lead"
-  ],
-  [
-    "game",
-    13,
-    "https://www.theguardian.com/football/2026/jul/24/mls-players-world-cup-2026-ranked"
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai"
   ],
   [
     "nearly",
-    12,
-    "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html"
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
   ],
   [
-    "united",
-    12,
-    "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html"
+    "lebron",
+    13,
+    "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion"
   ],
   [
-    "red",
-    12,
-    "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html"
+    "russian",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit"
   ],
   [
-    "speech",
-    12,
-    "https://www.nytimes.com/2026/07/25/us/politics/is-this-supposed-to-be-fun-trump-hurls-insults-at-correspondents-dinner.html"
+    "graham",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine"
   ],
   [
-    "smithsonian",
-    12,
-    "https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html"
+    "buying",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jul/25/christmas-in-july"
   ],
   [
-    "sea",
+    "judge",
     12,
-    "https://www.nytimes.com/2026/07/25/world/asia/taiwan-china-ships-blockade.html"
+    "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html"
+  ],
+  [
+    "jackson",
+    12,
+    "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html"
+  ],
+  [
+    "police",
+    12,
+    "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
+  ],
+  [
+    "held",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "global",
+    12,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "released",
+    12,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "point",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
+  ],
+  [
+    "players",
+    12,
+    "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion"
+  ],
+  [
+    "washington",
+    12,
+    "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington"
+  ],
+  [
+    "social",
+    12,
+    "https://www.theguardian.com/us-news/2026/jul/25/lou-keller-sick-of-it-all-dies-aged-59"
+  ],
+  [
+    "near",
+    12,
+    "https://www.theguardian.com/us-news/2026/jul/25/former-trump-administration-food-safety-official-federal-response-cyclospora"
+  ],
+  [
+    "history",
+    12,
+    "https://www.theguardian.com/us-news/2026/jul/24/trump-smithsonian-history-museum"
   ]
 ];

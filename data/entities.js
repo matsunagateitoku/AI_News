@@ -2,39 +2,27 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "World Cup Loss Have Something To Say",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/07/24/world/americas/argentina-world-cup-racism-players.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Iran War Powers Resolution",
-      "count": 5,
-      "url": "https://www.foxnews.com/politics/combat-vet-senator-chokes-up-over-fallen-friend-fiery-floor-speech-about-iran-war-we-finish-it",
-      "source": "Fox News"
-    },
-    {
-      "name": "The World Cup",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/07/24/world/americas/argentina-world-cup-racism-players.html",
-      "source": "NY Times"
-    },
-    {
       "name": "The 2026 World Cup",
-      "count": 4,
+      "count": 17,
       "url": "https://www.theguardian.com/football/2026/jul/24/mls-players-world-cup-2026-ranked",
       "source": "The Guardian"
     },
     {
-      "name": "Trump&Apos;S Iran War",
+      "name": "The Iran War",
       "count": 4,
-      "url": "https://www.foxnews.com/media/fired-60-minutes-correspondent-accuses-cbs-news-leadership-meddling-reporting",
-      "source": "Fox News"
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/pentagon-iran-war-casualties-cover-up",
+      "source": "The Guardian"
     },
     {
       "name": "Black Friday",
       "count": 3,
       "url": "https://www.theguardian.com/thefilter-us/2026/jul/23/early-holiday-christmas-in-july-deals",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jul/24/the-week-around-the-world-in-20-pictures",
       "source": "The Guardian"
     },
     {
@@ -50,97 +38,121 @@
       "source": "LA Times"
     },
     {
-      "name": "The U.S.-Israeli War",
+      "name": "The 154Th Open Championship  Means",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/sport/2026/jul/25/golf-ryan-fox-open-birkdale-new-zealand-interview",
+      "source": "The Guardian"
     },
     {
-      "name": "The Open Championship",
+      "name": "Wimbledon",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/jul/24/bryson-dechambeau-says-two-shot-penalty-cost-him-the-open-golf",
+      "url": "https://www.theguardian.com/film/2026/jul/24/new-ali-g-film-sacha-baron-cohen-who-iz-i",
       "source": "The Guardian"
+    },
+    {
+      "name": "L.A. Now",
+      "count": 1,
+      "url": "https://www.latimes.com/world-nation/story/2026-07-24/he-was-homeless-in-la-now-hes-accused-of-hurling-racist-slurs-at-today-host",
+      "source": "LA Times"
+    },
+    {
+      "name": "World Series",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-07-24/5-reasons-dodgers-should-not-go-back-to-white-house-again-next-year",
+      "source": "LA Times"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Orders Warnings Placed At ‘Inaccurate’",
-      "count": 66,
-      "url": "https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html",
-      "source": "NY Times"
+      "name": "Target For Trump",
+      "count": 57,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "Paramount Skydance",
-      "count": 12,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-24/paramount-warner-bros-merger-delayed-what-to-know",
-      "source": "LA Times"
+      "name": "Michigan Senate",
+      "count": 15,
+      "url": "https://www.politico.com/news/2026/07/24/gretchen-whitmer-michigan-senate-race-haley-stevens-01011606",
+      "source": "Politico"
     },
     {
-      "name": "White House Correspondents' Association",
-      "count": 11,
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner",
-      "source": "NPR"
+      "name": "Ai",
+      "count": 14,
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
-      "count": 9,
+      "count": 10,
       "url": "https://www.theguardian.com/thefilter-us/2026/jul/21/nordstrom-anniversary-sale-good-fashion-deals",
       "source": "The Guardian"
     },
     {
-      "name": "Michigan Senate",
+      "name": "Amazon Fire Tv Stick",
+      "count": 10,
+      "url": "https://www.nbcnews.com/select/shopping/amazon-fire-tv-stick-deal-of-the-day-2026-rcna589132",
+      "source": "NBC News"
+    },
+    {
+      "name": "White House Correspondents' Association",
       "count": 9,
-      "url": "https://www.foxnews.com/politics/gretchen-whitmer-endorses-moderate-haley-stevens-tight-upcoming-senate-primary",
-      "source": "Fox News"
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner",
+      "source": "NPR"
     },
     {
-      "name": "Ai Washington",
-      "count": 9,
-      "url": "https://thehill.com/newsletters/technology/5989434-openai-hugging-face-breach-stokes-fear-on-whats-next-for-ai/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Smithsonian History Museum",
+      "name": "Paramount Skydance",
       "count": 8,
-      "url": "https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html",
-      "source": "NY Times"
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-24/paramount-warner-bros-merger-delayed-what-to-know",
+      "source": "LA Times"
     },
     {
-      "name": "Amazon",
+      "name": "Smithsonian Institution’S",
       "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs",
-      "source": "The Guardian"
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-signage-warning-visitors-inaccurate-information-smithsoni-rcna589156",
+      "source": "NBC News"
     },
     {
-      "name": "Nba",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-lebron-james-racist.html",
-      "source": "NY Times"
+      "name": "Ice",
+      "count": 6,
+      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "Guardian Faber Publishing",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/24/apology-ai-boss-sam-altman-rogue-openai-startup-pentagon",
+      "name": "Fda",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/former-trump-administration-food-safety-official-federal-response-cyclospora",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
-      "name": "Trump Switched To Old",
-      "count": 32,
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html",
-      "source": "NY Times"
+      "name": "Donald Trump",
+      "count": 37,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/pentagon-iran-war-casualties-cover-up",
+      "source": "The Guardian"
     },
     {
       "name": "Lebron James",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-lebron-james-racist.html",
+      "count": 13,
+      "url": "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Troy Jackson",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html",
       "source": "NY Times"
     },
     {
-      "name": "Donald Trump",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs",
+      "name": "Laura Loomer",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Koko Kondo",
+      "count": 9,
+      "url": "https://www.theguardian.com/world/2026/jul/25/koko-kondo-last-living-survivors-hiroshima-atomic-bomb-kiyoshi-tanimoto-memoir",
       "source": "The Guardian"
     },
     {
@@ -150,103 +162,91 @@
       "source": "The Guardian"
     },
     {
-      "name": "Odyssey",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics",
+      "name": "Joe Biden",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/former-trump-administration-food-safety-official-federal-response-cyclospora",
       "source": "The Guardian"
     },
     {
-      "name": "Laura Loomer",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/jul/25/ukraine-war-briefing-ten-killed-russian-attack-weapons-exhibition-near-kyiv",
+      "name": "Graham Platner",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine",
       "source": "The Guardian"
     },
     {
-      "name": "Tony Romo",
+      "name": "Susan Collins",
       "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/jul/24/tony-romo-arrest-owi",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html",
+      "source": "NY Times"
     },
     {
-      "name": "Volodymyr Zelenskyy",
+      "name": "Zohran Mamdani",
       "count": 7,
-      "url": "https://www.theguardian.com/world/2026/jul/25/ukraine-war-briefing-ten-killed-russian-attack-weapons-exhibition-near-kyiv",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gretchen Whitmer",
-      "count": 7,
-      "url": "https://www.foxnews.com/politics/gretchen-whitmer-endorses-moderate-haley-stevens-tight-upcoming-senate-primary",
-      "source": "Fox News"
-    },
-    {
-      "name": "Madison Maynard",
-      "count": 7,
-      "url": "https://www.cbsnews.com/video/whca-scholarship-recipients-relive-terrifying-dinner/",
-      "source": "CBS News"
+      "url": "https://www.nytimes.com/2026/07/24/nyregion/antisemitism-nyc-stabbing-jewish.html",
+      "source": "NY Times"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 43,
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs",
+      "count": 47,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/pentagon-iran-war-casualties-cover-up",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html",
+      "count": 27,
+      "url": "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/paramount-warner-bros-merger",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Canada",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html",
       "source": "NY Times"
     },
     {
       "name": "Ukraine",
-      "count": 13,
-      "url": "https://www.theguardian.com/world/2026/jul/25/ukraine-war-briefing-ten-killed-russian-attack-weapons-exhibition-near-kyiv",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
       "source": "The Guardian"
     },
     {
-      "name": "Washington D.C.",
-      "count": 13,
-      "url": "https://thehill.com/policy/international/5989466-speaker-hoyle-us-visit-uk-stability/",
-      "source": "The Hill"
-    },
-    {
-      "name": "The United States Of America",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York Chinatown",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/new-yorks-chinatown-casino-fears",
+      "name": "California",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta",
       "source": "The Guardian"
     },
     {
       "name": "L.A.",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-07-24/l-a-s-homeless-authority-is-in-fight-for-its-survival",
+      "count": 14,
+      "url": "https://www.latimes.com/california/story/2026-07-25/l-a-s-game-of-triage-as-aging-water-system-hits-breaking-point",
       "source": "LA Times"
+    },
+    {
+      "name": "Washington Dc",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/25/staff-turnover-trump-second-term",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Maine",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "India",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Spain",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-07-25T09:02:54Z"
+  "updated": "2026-07-25T14:39:25Z"
 };
