@@ -2,7 +2,7 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    130,
+    126,
     "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html"
   ],
   [
@@ -12,33 +12,18 @@
   ],
   [
     "iran",
-    36,
+    35,
     "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html"
   ],
   [
     "war",
-    32,
+    35,
     "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html"
   ],
   [
-    "food",
-    31,
-    "https://www.theguardian.com/us-news/2026/jul/24/fda-mifepristone-restrictions"
-  ],
-  [
-    "tariffs",
-    28,
-    "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html"
-  ],
-  [
-    "cup",
-    28,
-    "https://www.nytimes.com/2026/07/24/world/americas/argentina-world-cup-racism-players.html"
-  ],
-  [
     "dinner",
-    28,
-    "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington"
+    29,
+    "https://www.nytimes.com/2026/07/25/us/politics/is-this-supposed-to-be-fun-trump-hurls-insults-at-correspondents-dinner.html"
   ],
   [
     "rice",
@@ -46,39 +31,69 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "summer",
+    "cup",
     27,
-    "https://www.theguardian.com/news/video/2026/jul/24/charli-xcx-does-the-new-album-live-up-to-brat-the-latest"
-  ],
-  [
-    "air",
-    26,
-    "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html"
-  ],
-  [
-    "administration",
-    26,
-    "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html"
-  ],
-  [
-    "court",
-    26,
-    "https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html"
+    "https://www.nytimes.com/2026/07/24/world/americas/argentina-world-cup-racism-players.html"
   ],
   [
     "states",
-    25,
+    26,
     "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html"
   ],
   [
-    "james",
+    "tariffs",
+    26,
+    "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html"
+  ],
+  [
+    "food",
+    26,
+    "https://www.theguardian.com/us-news/2026/jul/24/fda-mifepristone-restrictions"
+  ],
+  [
+    "summer",
+    26,
+    "https://www.theguardian.com/culture/2026/jul/24/once-the-season-of-surprise-break-out-hits-this-summers-tv-has-lost-its-heat"
+  ],
+  [
+    "court",
+    25,
+    "https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html"
+  ],
+  [
+    "administration",
+    24,
+    "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html"
+  ],
+  [
+    "air",
     22,
+    "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html"
+  ],
+  [
+    "james",
+    21,
     "https://www.nytimes.com/2026/07/24/us/politics/trump-lebron-james-racist.html"
   ],
   [
-    "school",
+    "country",
+    21,
+    "https://www.washingtonpost.com/nation/2026/07/24/after-hometown-soldiers-death-texas-suburb-wrestles-with-trumps-iran-war/"
+  ],
+  [
+    "because",
+    21,
+    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
+  ],
+  [
+    "correspondents",
     20,
-    "https://www.theguardian.com/fashion/2026/jul/24/secondhand-fashion-thrifting-depop-cost"
+    "https://www.nytimes.com/2026/07/25/us/politics/is-this-supposed-to-be-fun-trump-hurls-insults-at-correspondents-dinner.html"
+  ],
+  [
+    "place",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
   ],
   [
     "american",
@@ -86,19 +101,24 @@
     "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html"
   ],
   [
-    "country",
+    "democrats",
     19,
-    "https://www.washingtonpost.com/nation/2026/07/24/after-hometown-soldiers-death-texas-suburb-wrestles-with-trumps-iran-war/"
+    "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html"
   ],
   [
-    "because",
+    "attack",
     19,
-    "https://www.theguardian.com/football/2026/jul/24/austin-fc-academy-investigation-sexual-abuse-mls"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "history",
-    18,
-    "https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html"
+    "film",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
+  ],
+  [
+    "south",
+    19,
+    "https://www.theguardian.com/us-news/2026/jul/24/arizona-border-wall-endangered-species"
   ],
   [
     "lebron",
@@ -106,29 +126,9 @@
     "https://www.nytimes.com/2026/07/24/us/politics/trump-lebron-james-racist.html"
   ],
   [
-    "police",
-    18,
-    "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
-  ],
-  [
-    "death",
-    18,
-    "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
-  ],
-  [
-    "film",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/jul/25/odyssey-christopher-nolan-end-of-politeness-will-destroy-civilisation"
-  ],
-  [
     "donald",
     18,
     "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs"
-  ],
-  [
-    "california",
-    18,
-    "https://www.theguardian.com/us-news/2026/jul/24/paramount-warner-bros-merger"
   ],
   [
     "primary",
@@ -136,9 +136,14 @@
     "https://www.theguardian.com/us-news/2026/jul/24/democrats-south-carolina-2028-presidential-primaries"
   ],
   [
-    "record",
+    "odyssey",
     17,
-    "https://www.nytimes.com/2026/07/24/briefing/us-measles-cases-hit-a-record.html"
+    "https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html"
+  ],
+  [
+    "death",
+    17,
+    "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
   ],
   [
     "ice",
@@ -146,64 +151,74 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "correspondents",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington"
+    "history",
+    16,
+    "https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html"
   ],
   [
-    "democrats",
+    "heat",
     16,
+    "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion"
+  ],
+  [
+    "california",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/24/paramount-warner-bros-merger"
+  ],
+  [
+    "questions",
+    15,
+    "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html"
+  ],
+  [
+    "killed",
+    15,
+    "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html"
+  ],
+  [
+    "political",
+    15,
     "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html"
   ],
   [
     "canada",
-    16,
+    15,
     "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html"
   ],
   [
-    "released",
-    16,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "police",
+    15,
+    "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
   ],
   [
-    "latest",
+    "million",
     15,
-    "https://www.nytimes.com/2026/07/24/briefing/us-measles-cases-hit-a-record.html"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "office",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
   ],
   [
     "east",
-    15,
+    14,
     "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html"
   ],
   [
-    "global",
-    15,
-    "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html"
-  ],
-  [
-    "department",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/24/trump-smithsonian-history-museum"
-  ],
-  [
-    "fashion",
-    15,
-    "https://www.theguardian.com/fashion/2026/jul/24/secondhand-fashion-thrifting-depop-cost"
-  ],
-  [
-    "album",
-    15,
-    "https://www.theguardian.com/news/video/2026/jul/24/charli-xcx-does-the-new-album-live-up-to-brat-the-latest"
-  ],
-  [
-    "don",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jul/24/baking-pizza-steel-kitchen-tools"
-  ],
-  [
-    "political",
+    "fire",
     14,
-    "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html"
+    "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html"
+  ],
+  [
+    "side",
+    14,
+    "https://www.nytimes.com/2026/07/24/nyregion/antisemitism-nyc-stabbing-jewish.html"
+  ],
+  [
+    "global",
+    14,
+    "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html"
   ],
   [
     "players",
@@ -211,49 +226,54 @@
     "https://www.nytimes.com/2026/07/24/world/americas/argentina-world-cup-racism-players.html"
   ],
   [
-    "attack",
+    "shot",
     14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
   ],
   [
-    "million",
+    "military",
     14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "several",
+    "released",
     14,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "really",
+    14,
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai"
+  ],
+  [
+    "social",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs"
+  ],
+  [
+    "washington",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington"
+  ],
+  [
+    "ukraine",
+    14,
+    "https://www.theguardian.com/world/2026/jul/25/ukraine-war-briefing-ten-killed-russian-attack-weapons-exhibition-near-kyiv"
+  ],
+  [
+    "hot",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/24/joanna-ruth-shields-big-sur-alcohol-withdrawal-cause-of-death"
   ],
   [
     "night",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/24/reasons-you-feel-tired-what-to-do-about-it-fibre-creatine"
+    "https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat"
   ],
   [
-    "south",
+    "friend",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/24/arizona-border-wall-endangered-species"
-  ],
-  [
-    "office",
-    14,
-    "https://www.theguardian.com/law/2026/jul/24/karim-khan-ousted-from-role-as-prosecutor-of-international-criminal-court"
-  ],
-  [
-    "buying",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jul/24/baking-pizza-steel-kitchen-tools"
-  ],
-  [
-    "fewer",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/jul/24/baking-pizza-steel-kitchen-tools"
-  ],
-  [
-    "york",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/24/new-yorks-chinatown-casino-fears"
+    "https://www.theguardian.com/tv-and-radio/2026/jul/25/furious-serial-killer-thriller-is-the-most-staggeringly-feminist-tv-youll-ever-watch"
   ],
   [
     "cooker",
@@ -261,19 +281,9 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "questions",
-    13,
-    "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html"
-  ],
-  [
     "judge",
     13,
     "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html"
-  ],
-  [
-    "killed",
-    13,
-    "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html"
   ],
   [
     "west",
@@ -291,49 +301,44 @@
     "https://www.nytimes.com/2026/07/24/business/media/paramount-warner-bros-merger-delayed.html"
   ],
   [
-    "international",
+    "loss",
     13,
-    "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html"
+    "https://www.nytimes.com/2026/07/24/world/americas/argentina-world-cup-racism-players.html"
   ],
   [
-    "military",
+    "nolan",
     13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html"
   ],
   [
-    "pop",
+    "several",
     13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "health",
-    13,
-    "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion"
-  ],
-  [
-    "heat",
-    13,
-    "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion"
-  ],
-  [
-    "media",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington"
-  ],
-  [
-    "press",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington"
-  ],
-  [
-    "order",
+    "outside",
     13,
     "https://www.theguardian.com/us-news/2026/jul/24/trump-smithsonian-history-museum"
   ],
   [
-    "british",
+    "media",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/24/british-born-man-living-in-us-since-age-of-nine-held-by-ice-under-threat-of-deportation"
+    "https://www.theguardian.com/politics/2026/jul/25/tiktok-andy-burnham-zohran-mamdani-social-media"
+  ],
+  [
+    "win",
+    13,
+    "https://www.theguardian.com/world/2026/jul/25/ukraine-war-briefing-ten-killed-russian-attack-weapons-exhibition-near-kyiv"
+  ],
+  [
+    "don",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/24/trump-tariffs-forced-labor-us-prisons"
+  ],
+  [
+    "record",
+    13,
+    "https://www.theguardian.com/sport/2026/jul/24/pogacar-wins-stage-19-alpe-d-huez-extends-tour-de-france-lead"
   ],
   [
     "game",
@@ -341,38 +346,33 @@
     "https://www.theguardian.com/football/2026/jul/24/mls-players-world-cup-2026-ranked"
   ],
   [
-    "hot",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/24/joanna-ruth-shields-big-sur-alcohol-withdrawal-cause-of-death"
-  ],
-  [
-    "threat",
-    12,
-    "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html"
-  ],
-  [
-    "led",
-    12,
-    "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html"
-  ],
-  [
-    "measles",
-    12,
-    "https://www.nytimes.com/2026/07/24/briefing/us-measles-cases-hit-a-record.html"
-  ],
-  [
     "nearly",
     12,
     "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html"
   ],
   [
-    "early",
-    12,
-    "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html"
-  ],
-  [
-    "fire",
+    "united",
     12,
     "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html"
+  ],
+  [
+    "red",
+    12,
+    "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html"
+  ],
+  [
+    "speech",
+    12,
+    "https://www.nytimes.com/2026/07/25/us/politics/is-this-supposed-to-be-fun-trump-hurls-insults-at-correspondents-dinner.html"
+  ],
+  [
+    "smithsonian",
+    12,
+    "https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html"
+  ],
+  [
+    "sea",
+    12,
+    "https://www.nytimes.com/2026/07/25/world/asia/taiwan-china-ships-blockade.html"
   ]
 ];
