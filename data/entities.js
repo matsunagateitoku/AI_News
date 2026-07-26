@@ -2,126 +2,126 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
+      "name": "Donald  Trump",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/court-rejects-trump-mail-in-voting",
+      "source": "The Guardian"
+    },
+    {
       "name": "Donald Trump",
-      "count": 29,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/pentagon-iran-war-casualties-cover-up",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/former-trump-administration-food-safety-official-federal-response-cyclospora",
       "source": "The Guardian"
     },
     {
       "name": "Troy Jackson",
-      "count": 16,
+      "count": 11,
       "url": "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html",
       "source": "NY Times"
     },
     {
-      "name": "Charles Wesley Godwin",
-      "count": 9,
-      "url": "https://www.cbsnews.com/video/saturday-sessions-charles-wesley-godwin-performs-hallelujah-high/",
-      "source": "CBS News"
-    },
-    {
       "name": "Odyssey",
-      "count": 7,
+      "count": 6,
       "url": "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics",
       "source": "The Guardian"
     },
     {
-      "name": "Lebron James",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/jul/25/why-lebron-james-chose-philadelphia-76ers-final-career",
+      "name": "Anthony Joshua",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/jul/26/anthony-joshua-knocked-down-twice-beats-kristian-prenga-heavyweight-boxing",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Lewis Hamilton",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/jul/25/mclarens-lando-norris-snatches-pole-from-hamilton-at-hungarian-grand-prix",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Austin Fc",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/2026/jul/24/austin-fc-academy-investigation-sexual-abuse-mls",
       "source": "The Guardian"
     },
     {
       "name": "Volodymyr Zelenskyy",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/jul/25/ukraine-war-briefing-ten-killed-russian-attack-weapons-exhibition-near-kyiv",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Laura Loomer",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tony Romo",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/jul/24/tony-romo-arrest-owi",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dodgers",
-      "count": 6,
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-07-17/will-smith-out-dodgers-need-to-trade-for-catcher",
-      "source": "LA Times"
-    },
-    {
-      "name": "Replace Platner",
       "count": 5,
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/world/2026/jul/26/ukraine-war-briefing-iran-accuses-kyiv-vessel-caspian-sea",
+      "source": "The Guardian"
+    },
+    {
+      "name": "This Is Lorelei Aka Nate Amos",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/jul/24/nate-amos-music-interview-singer-in-my-band-album-water-from-your-eyes-this-is-lorelai",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tour De France Stage",
+      "count": 5,
+      "url": "https://www.foxnews.com/outkick-sports/tour-de-france-rider-crashes-back-support-vehicle-slammed-brakes",
+      "source": "Fox News"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 42,
+      "count": 37,
       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
       "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-cease-fire-collapse.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ukraine",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
-      "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 17,
+      "count": 21,
       "url": "https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta",
       "source": "The Guardian"
     },
     {
-      "name": "New York City",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/zohran-mamdani-small-business-policies",
+      "name": "Spain",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-france-spain-bordeaux-madrid.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ukraine",
+      "count": 17,
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
       "source": "The Guardian"
     },
     {
-      "name": "Spain",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html",
+      "name": "U.S.",
+      "count": 15,
+      "url": "https://www.washingtonpost.com/nation/2026/07/25/georgias-okefenokee-swamp-become-unesco-world-heritage-site/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Russia",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "France",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-france-spain-bordeaux-madrid.html",
       "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/zohran-mamdani-small-business-policies",
+      "source": "The Guardian"
     },
     {
       "name": "L.A.",
       "count": 11,
       "url": "https://www.latimes.com/california/story/2026-07-25/l-a-s-game-of-triage-as-aging-water-system-hits-breaking-point",
       "source": "LA Times"
-    },
-    {
-      "name": "France",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Maine",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html",
-      "source": "NY Times"
     }
   ],
   "EVENT": [
@@ -132,15 +132,21 @@
       "source": "LA Times"
     },
     {
-      "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/pentagon-iran-war-casualties-cover-up",
-      "source": "The Guardian"
+      "name": "The Super Bowl",
+      "count": 6,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-22/world-cup-2026-ratings-why-tv-viewers-love-the-beautiful-game",
+      "source": "LA Times"
     },
     {
       "name": "The World Cup",
       "count": 3,
       "url": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 3,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/pentagon-iran-war-casualties-cover-up",
       "source": "The Guardian"
     },
     {
@@ -160,12 +166,6 @@
       "count": 2,
       "url": "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave",
       "source": "The Guardian"
-    },
-    {
-      "name": "The Super Bowl",
-      "count": 2,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-22/world-cup-2026-ratings-why-tv-viewers-love-the-beautiful-game",
-      "source": "LA Times"
     },
     {
       "name": "A Super Bowl",
@@ -189,21 +189,15 @@
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 50,
+      "count": 51,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
       "name": "Michigan Senate",
-      "count": 16,
+      "count": 13,
       "url": "https://www.politico.com/news/2026/07/24/gretchen-whitmer-michigan-senate-race-haley-stevens-01011606",
       "source": "Politico"
-    },
-    {
-      "name": "Ai",
-      "count": 12,
-      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
@@ -212,41 +206,47 @@
       "source": "The Guardian"
     },
     {
+      "name": "Ai",
+      "count": 9,
+      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+      "source": "The Guardian"
+    },
+    {
       "name": "Amazon Fire Tv Stick",
-      "count": 10,
+      "count": 9,
       "url": "https://www.nbcnews.com/select/shopping/amazon-fire-tv-stick-deal-of-the-day-2026-rcna589132",
       "source": "NBC News"
     },
     {
-      "name": "Cbs Mornings Deals",
-      "count": 9,
-      "url": "https://www.cbsnews.com/video/cbs-mornings-deals-072526/",
-      "source": "CBS News"
+      "name": "Guardian",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/25/staff-turnover-trump-second-term",
+      "source": "The Guardian"
     },
     {
-      "name": "The White House Correspondents' Dinner",
-      "count": 9,
-      "url": "https://www.cbsnews.com/video/trump-swipes-at-journalists-at-white-house-correspondents-dinner/",
-      "source": "CBS News"
-    },
-    {
-      "name": "White House Correspondents' Dinner",
-      "count": 9,
-      "url": "https://www.cbsnews.com/video/trump-swipes-at-journalists-at-white-house-correspondents-dinner/",
-      "source": "CBS News"
+      "name": "Fbi",
+      "count": 6,
+      "url": "https://www.theguardian.com/football/2026/jul/24/austin-fc-academy-investigation-sexual-abuse-mls",
+      "source": "The Guardian"
     },
     {
       "name": "Maine Senate Race",
-      "count": 8,
+      "count": 5,
       "url": "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html",
       "source": "NY Times"
     },
     {
-      "name": "Paramount Skydance",
-      "count": 7,
-      "url": "https://www.cbsnews.com/news/paramount-delay-warner-bros-merger-until-as-late-as-june-2027/",
-      "source": "CBS News"
+      "name": "Fda",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/former-trump-administration-food-safety-official-federal-response-cyclospora",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Strokes",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/jul/24/the-strokes-reality-awaits-review",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-07-25T20:12:29Z"
+  "updated": "2026-07-26T04:29:55Z"
 };
