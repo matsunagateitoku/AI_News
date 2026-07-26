@@ -2,228 +2,243 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    81,
-    "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html"
+    68,
+    "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html"
   ],
   [
     "food",
+    37,
+    "https://www.theguardian.com/us-news/2026/jul/26/rfk-jr-alzheimers-us-preventive-services-task-force"
+  ],
+  [
+    "summer",
     32,
-    "https://www.theguardian.com/us-news/2026/jul/25/former-trump-administration-food-safety-official-federal-response-cyclospora"
+    "https://www.theguardian.com/us-news/2026/jul/26/house-republicans-democrats-recess-midterms"
   ],
   [
     "rice",
     32,
-    "https://www.theguardian.com/food/2026/jul/26/i-panic-it-turns-to-rubber-could-i-learn-to-make-omurice-the-worlds-hardest-omelette"
-  ],
-  [
-    "president",
-    30,
-    "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html"
-  ],
-  [
-    "police",
-    28,
-    "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html"
+    "https://www.theguardian.com/sport/live/2026/jul/26/hungarian-grand-prix-formula-one-live"
   ],
   [
     "iran",
-    27,
-    "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html"
+    29,
+    "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html"
   ],
   [
-    "summer",
-    27,
-    "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html"
-  ],
-  [
-    "family",
-    25,
-    "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
-  ],
-  [
-    "air",
+    "president",
     24,
-    "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html"
-  ],
-  [
-    "france",
-    23,
-    "https://www.nytimes.com/2026/07/25/world/europe/wildfires-france-spain-bordeaux-madrid.html"
-  ],
-  [
-    "california",
-    21,
-    "https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta"
-  ],
-  [
-    "hot",
-    20,
-    "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html"
-  ],
-  [
-    "court",
-    20,
-    "https://www.nytimes.com/2026/07/25/us/politics/appeals-court-trump-mail-voting.html"
-  ],
-  [
-    "million",
-    20,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "country",
-    20,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "heat",
-    20,
-    "https://www.theguardian.com/environment/2026/jul/26/how-to-keep-cool-in-a-heatwave-from-people-who-know-best"
-  ],
-  [
-    "place",
-    20,
-    "https://www.theguardian.com/film/2026/jul/25/michael-mann-interview-manhunter"
-  ],
-  [
-    "cup",
-    20,
-    "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid"
+    "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html"
   ],
   [
     "war",
-    19,
+    23,
+    "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html"
+  ],
+  [
+    "family",
+    23,
+    "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html"
+  ],
+  [
+    "police",
+    22,
+    "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html"
+  ],
+  [
+    "cup",
+    22,
+    "https://www.theguardian.com/sport/live/2026/jul/26/hungarian-grand-prix-formula-one-live"
+  ],
+  [
+    "air",
+    21,
     "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html"
   ],
   [
+    "million",
+    21,
+    "https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html"
+  ],
+  [
+    "hot",
+    21,
+    "https://www.theguardian.com/environment/2026/jul/26/how-to-keep-cool-in-a-heatwave-from-people-who-know-best"
+  ],
+  [
     "sea",
-    19,
+    20,
     "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "because",
+    "attack",
     19,
-    "https://www.theguardian.com/environment/2026/jul/26/how-to-keep-cool-in-a-heatwave-from-people-who-know-best"
+    "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
   ],
   [
     "feel",
     19,
-    "https://www.theguardian.com/film/2026/jul/25/michael-mann-interview-manhunter"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai"
   ],
   [
-    "game",
+    "administration",
     18,
-    "https://www.theguardian.com/us-news/2026/jul/24/trump-canada-wildfires-smoke-scientists"
+    "https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html"
   ],
   [
-    "thousands",
-    17,
-    "https://www.nytimes.com/2026/07/25/world/europe/wildfires-france-spain-bordeaux-madrid.html"
+    "berlin",
+    18,
+    "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
   ],
   [
-    "spain",
-    17,
-    "https://www.nytimes.com/2026/07/25/world/europe/wildfires-france-spain-bordeaux-madrid.html"
+    "night",
+    18,
+    "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz"
   ],
   [
-    "wildfires",
-    17,
-    "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html"
+    "south",
+    18,
+    "https://www.theguardian.com/us-news/2026/jul/26/south-carolina-democrat-lindsey-graham-senate-seat"
   ],
   [
-    "ukraine",
+    "black",
+    18,
+    "https://www.theguardian.com/film/2026/jul/26/keith-david-president-curtis-actor-interview"
+  ],
+  [
+    "because",
     17,
-    "https://www.nytimes.com/2026/07/26/opinion/ukraine-lgbt-rights-war.html"
+    "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html"
+  ],
+  [
+    "democrats",
+    17,
+    "https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html"
+  ],
+  [
+    "court",
+    17,
+    "https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html"
+  ],
+  [
+    "heat",
+    17,
+    "https://www.nytimes.com/2026/07/26/weather/europe-heat-what-to-know.html"
+  ],
+  [
+    "country",
+    17,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "media",
+    17,
+    "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route"
   ],
   [
     "york",
     16,
-    "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html"
+    "https://www.nytimes.com/2026/07/26/nyregion/dsa-tax-rich-hochul-mamdani.html"
   ],
   [
-    "local",
+    "place",
     16,
-    "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html"
+    "https://www.nytimes.com/2026/07/26/us/politics/turek-iowa-senate-democrat.html"
   ],
   [
-    "russia",
+    "near",
     16,
-    "https://www.nytimes.com/2026/07/26/opinion/ukraine-lgbt-rights-war.html"
-  ],
-  [
-    "don",
-    16,
-    "https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html"
-  ],
-  [
-    "fire",
-    16,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "lost",
-    16,
-    "https://www.theguardian.com/news/ng-interactive/2026/jul/26/trump-undermine-us-midterms"
-  ],
-  [
-    "administration",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/25/court-rejects-trump-mail-in-voting"
-  ],
-  [
-    "fashion",
-    16,
-    "https://www.theguardian.com/world/2026/jul/26/pirelli-2027-calendar-features-all-indian-cast"
-  ],
-  [
-    "health",
-    16,
-    "https://www.theguardian.com/uk-news/2026/jul/24/parts-of-england-under-heat-alert-with-30c-possible"
-  ],
-  [
-    "killed",
-    15,
-    "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html"
-  ],
-  [
-    "pop",
-    15,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "american",
-    15,
-    "https://www.theguardian.com/news/ng-interactive/2026/jul/26/trump-undermine-us-midterms"
+    "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
   ],
   [
     "hours",
+    16,
+    "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations"
+  ],
+  [
+    "death",
     15,
-    "https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta"
+    "https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html"
+  ],
+  [
+    "don",
+    15,
+    "https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html"
+  ],
+  [
+    "really",
+    15,
+    "https://www.theguardian.com/news/ng-interactive/2026/jul/26/trump-undermine-us-midterms"
+  ],
+  [
+    "little",
+    15,
+    "https://www.theguardian.com/sport/live/2026/jul/26/hungarian-grand-prix-formula-one-live"
+  ],
+  [
+    "buying",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/jul/26/mariana-velasquez-hosting-guide-kitchen-essentials"
+  ],
+  [
+    "fashion",
+    15,
+    "https://www.theguardian.com/world/2026/jul/26/pirelli-2027-calendar-features-all-indian-cast"
+  ],
+  [
+    "holiday",
+    15,
+    "https://www.theguardian.com/uk-news/2026/jul/26/how-the-met-police-spent-25m-hiding-spycop-from-former-partner"
+  ],
+  [
+    "power",
+    14,
+    "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html"
   ],
   [
     "senate",
     14,
-    "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html"
+    "https://www.nytimes.com/2026/07/26/us/politics/jackson-collins-platner-senate-maine.html"
   ],
   [
-    "donald",
+    "again",
     14,
-    "https://www.theguardian.com/news/ng-interactive/2026/jul/26/trump-undermine-us-midterms"
+    "https://www.nytimes.com/2026/07/26/weather/europe-heat-what-to-know.html"
   ],
   [
-    "film",
+    "early",
     14,
-    "https://www.theguardian.com/film/2026/jul/25/michael-mann-interview-manhunter"
+    "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
   ],
   [
-    "holiday",
+    "love",
+    14,
+    "https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html"
+  ],
+  [
+    "game",
+    14,
+    "https://www.nytimes.com/2026/07/26/briefing/chatbots-answer-questions.html"
+  ],
+  [
+    "france",
     14,
     "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations"
   ],
   [
-    "video",
+    "kitchen",
     14,
-    "https://www.theguardian.com/world/2026/jul/26/ukraine-war-briefing-iran-accuses-kyiv-vessel-caspian-sea"
+    "https://www.theguardian.com/global-development/2026/jul/26/we-count-every-litre-how-cubas-energy-crisis-sparked-a-daily-struggle-for-water"
+  ],
+  [
+    "career",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/26/lena-headey-looks-back-game-of-thrones-actor-weinstein"
+  ],
+  [
+    "social",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jul/26/how-to-defeat-authoritarianism-building-community"
   ],
   [
     "cooker",
@@ -231,19 +246,9 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "east",
+    "military",
     13,
-    "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html"
-  ],
-  [
-    "least",
-    13,
-    "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html"
-  ],
-  [
-    "love",
-    13,
-    "https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html"
+    "https://www.washingtonpost.com/nation/2026/07/26/west-point-professors-lawsuit-tests-militarys-tolerance-internal-criticism/"
   ],
   [
     "spent",
@@ -251,69 +256,94 @@
     "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "really",
+    "killed",
     13,
-    "https://www.theguardian.com/news/ng-interactive/2026/jul/26/trump-undermine-us-midterms"
+    "https://www.theguardian.com/books/2026/jul/26/from-author-to-anime-hero-the-unlikely-revival-of-a-japanese-literary-star"
   ],
   [
-    "office",
+    "health",
     13,
-    "https://www.theguardian.com/film/2026/jul/25/michael-mann-interview-manhunter"
+    "https://www.theguardian.com/us-news/2026/jul/26/rfk-jr-alzheimers-us-preventive-services-task-force"
   ],
   [
-    "final",
+    "suspect",
     13,
-    "https://www.theguardian.com/film/2026/jul/25/michael-mann-interview-manhunter"
+    "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route"
   ],
   [
-    "media",
+    "david",
     13,
-    "https://www.theguardian.com/world/2026/jul/26/ukraine-war-briefing-iran-accuses-kyiv-vessel-caspian-sea"
+    "https://www.theguardian.com/sport/live/2026/jul/26/hungarian-grand-prix-formula-one-live"
   ],
   [
     "water",
     13,
+    "https://www.theguardian.com/global-development/2026/jul/26/we-count-every-litre-how-cubas-energy-crisis-sparked-a-daily-struggle-for-water"
+  ],
+  [
+    "final",
+    13,
+    "https://www.theguardian.com/sport/2026/jul/25/why-lebron-james-chose-philadelphia-76ers-final-career"
+  ],
+  [
+    "california",
+    13,
+    "https://www.theguardian.com/sport/2026/jul/25/why-lebron-james-chose-philadelphia-76ers-final-career"
+  ],
+  [
+    "region",
+    13,
+    "https://www.theguardian.com/world/2026/jul/26/typhoon-noul-china-hong-kong"
+  ],
+  [
+    "ukraine",
+    13,
     "https://www.theguardian.com/world/2026/jul/26/ukraine-war-briefing-iran-accuses-kyiv-vessel-caspian-sea"
   ],
   [
-    "south",
-    13,
-    "https://www.theguardian.com/world/2026/jul/26/violent-demonstrations-target-immigrants-south-africa"
-  ],
-  [
-    "odyssey",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jul/25/christopher-nolan-odyssey-homer-epic-film-classics"
-  ],
-  [
-    "wife",
-    13,
-    "https://www.theguardian.com/sport/2026/jul/25/former-patriots-super-bowl-winner-jordan-devey-dies"
-  ],
-  [
-    "buying",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/25/christmas-in-july"
-  ],
-  [
-    "department",
+    "east",
     12,
-    "https://www.nytimes.com/2026/07/25/us/pentagon-iran-war-troops-death-toll.html"
+    "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html"
   ],
   [
-    "attack",
+    "democratic",
     12,
-    "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html"
+    "https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html"
   ],
   [
-    "race",
+    "america",
     12,
-    "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html"
+    "https://www.nytimes.com/2026/07/26/nyregion/dsa-tax-rich-hochul-mamdani.html"
   ],
   [
-    "loss",
+    "meet",
     12,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html"
+  ],
+  [
+    "wildfires",
+    12,
+    "https://www.nytimes.com/2026/07/26/weather/europe-heat-what-to-know.html"
+  ],
+  [
+    "act",
+    12,
+    "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
+  ],
+  [
+    "perfect",
+    12,
+    "https://www.nytimes.com/2026/07/26/opinion/odysseus-christopher-nolan.html"
+  ],
+  [
+    "west",
+    12,
+    "https://www.washingtonpost.com/nation/2026/07/26/west-point-professors-lawsuit-tests-militarys-tolerance-internal-criticism/"
+  ],
+  [
+    "pop",
+    12,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
     "released",
@@ -321,58 +351,28 @@
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "several",
+    "win",
     12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/abdul-el-sayed-michigan-senate"
   ],
   [
-    "again",
+    "late",
     12,
-    "https://www.theguardian.com/news/ng-interactive/2026/jul/26/trump-undermine-us-midterms"
+    "https://www.theguardian.com/us-news/2026/jul/26/south-carolina-democrat-lindsey-graham-senate-seat"
   ],
   [
-    "felt",
+    "political",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/26/the-moment-i-knew-1961-third-date-love"
+    "https://www.theguardian.com/us-news/2026/jul/26/south-carolina-democrat-lindsey-graham-senate-seat"
   ],
   [
-    "series",
+    "filter",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/26/the-moment-i-knew-1961-third-date-love"
+    "https://www.theguardian.com/thefilter-us/2026/jul/26/mariana-velasquez-hosting-guide-kitchen-essentials"
   ],
   [
-    "dinner",
+    "guide",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/26/the-moment-i-knew-1961-third-date-love"
-  ],
-  [
-    "near",
-    12,
-    "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route"
-  ],
-  [
-    "children",
-    12,
-    "https://www.theguardian.com/world/2026/jul/26/ukraine-war-briefing-iran-accuses-kyiv-vessel-caspian-sea"
-  ],
-  [
-    "announced",
-    12,
-    "https://www.theguardian.com/us-news/video/2026/jul/25/donald-trump-dons-trump-2028-hat-and-jokes-about-fourth-term-video"
-  ],
-  [
-    "grand",
-    12,
-    "https://www.theguardian.com/sport/2026/jul/25/mclarens-lando-norris-snatches-pole-from-hamilton-at-hungarian-grand-prix"
-  ],
-  [
-    "tour",
-    12,
-    "https://www.theguardian.com/sport/2026/jul/25/tadej-pogacar-tour-de-france-ricardo-carapaz-wildfires-cycling"
-  ],
-  [
-    "steel",
-    12,
-    "https://www.theguardian.com/uk-news/2026/jul/26/how-the-met-police-spent-25m-hiding-spycop-from-former-partner"
+    "https://www.theguardian.com/thefilter-us/2026/jul/26/mariana-velasquez-hosting-guide-kitchen-essentials"
   ]
 ];
