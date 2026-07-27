@@ -3,27 +3,32 @@
   [
     "trump",
     71,
-    "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html"
+    "https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html"
   ],
   [
     "iran",
-    44,
+    42,
     "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html"
   ],
   [
-    "police",
-    35,
-    "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
+    "war",
+    40,
+    "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html"
+  ],
+  [
+    "killed",
+    40,
+    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
   ],
   [
     "food",
     35,
-    "https://www.theguardian.com/thefilter-us/2026/jul/26/mariana-velasquez-hosting-guide-kitchen-essentials"
+    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
   ],
   [
-    "war",
+    "police",
     33,
-    "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html"
+    "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
   ],
   [
     "rice",
@@ -31,199 +36,199 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "summer",
-    30,
-    "https://www.theguardian.com/thefilter-us/2026/jul/26/mariana-velasquez-hosting-guide-kitchen-essentials"
-  ],
-  [
     "president",
-    25,
+    27,
     "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html"
   ],
   [
-    "nation",
-    24,
-    "https://www.theguardian.com/us-news/2026/jul/26/taylor-farms-white-house-cyclospora-recall"
-  ],
-  [
-    "family",
-    23,
-    "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html"
-  ],
-  [
-    "million",
-    22,
-    "https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html"
-  ],
-  [
-    "killed",
-    21,
-    "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
-  ],
-  [
-    "shot",
-    21,
-    "https://www.washingtonpost.com/nation/2026/07/24/family-man-shot-by-madison-police-calls-justice/"
-  ],
-  [
-    "john",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/jul/26/strait-of-hormuz-north-sea-global-maritime-war-oil-price"
-  ],
-  [
-    "sen",
-    21,
-    "https://www.cbsnews.com/news/united-nations-ambassador-mike-waltz-iran-strikes-pause-diplomacy-trump/"
-  ],
-  [
-    "margaret",
-    21,
-    "https://www.cbsnews.com/news/face-the-nation-full-transcript-07-26-2026/"
-  ],
-  [
-    "brennan",
-    21,
-    "https://www.cbsnews.com/news/face-the-nation-full-transcript-07-26-2026/"
-  ],
-  [
-    "france",
-    20,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/27/the-kindness-of-strangers-when-mum-was-hospitalised-on-a-family-holiday-our-hotels-owners-were-heaven-sent"
-  ],
-  [
-    "because",
-    19,
-    "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html"
-  ],
-  [
-    "suspect",
-    19,
-    "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
-  ],
-  [
-    "media",
-    19,
-    "https://www.theguardian.com/us-news/2026/jul/26/oklahoma-influencer-killed-apparent-murder-suicide"
-  ],
-  [
-    "tour",
-    19,
-    "https://www.theguardian.com/sport/2026/jul/26/relentless-tadej-pogacar-wins-fifth-tour-de-france-to-equal-record"
-  ],
-  [
-    "black",
-    19,
-    "https://www.theguardian.com/film/2026/jul/26/keith-david-president-curtis-actor-interview"
-  ],
-  [
-    "cup",
-    19,
-    "https://www.theguardian.com/football/2026/jul/26/jayden-adams-death-south-africa-world-cup"
-  ],
-  [
-    "senate",
-    18,
-    "https://www.nytimes.com/2026/07/26/us/politics/jackson-collins-platner-senate-maine.html"
-  ],
-  [
-    "place",
-    18,
-    "https://www.nytimes.com/2026/07/26/us/politics/turek-iowa-senate-democrat.html"
-  ],
-  [
-    "berlin",
-    18,
-    "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
-  ],
-  [
-    "ice",
-    18,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "country",
-    18,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "feel",
-    18,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai"
-  ],
-  [
-    "hot",
-    18,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai"
-  ],
-  [
-    "water",
-    18,
+    "summer",
+    27,
     "https://www.theguardian.com/thefilter-us/2026/jul/26/best-camping-chairs"
   ],
   [
-    "waltz",
-    18,
-    "https://www.cbsnews.com/news/united-nations-ambassador-mike-waltz-iran-strikes-pause-diplomacy-trump/"
+    "country",
+    26,
+    "https://www.nytimes.com/2026/07/25/us/politics/utah-birth-rate-fertility-decline.html"
   ],
   [
-    "air",
-    17,
-    "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html"
+    "shot",
+    26,
+    "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany"
   ],
   [
-    "attack",
-    17,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "democratic",
-    16,
-    "https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html"
-  ],
-  [
-    "administration",
-    16,
+    "court",
+    23,
     "https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html"
   ],
   [
-    "buying",
+    "administration",
+    21,
+    "https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html"
+  ],
+  [
+    "million",
+    21,
+    "https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html"
+  ],
+  [
+    "family",
+    21,
+    "https://www.nytimes.com/2026/07/26/us/near-drowning-texas-brain-dead.html"
+  ],
+  [
+    "water",
+    21,
+    "https://www.theguardian.com/thefilter-us/2026/jul/26/best-camping-chairs"
+  ],
+  [
+    "attack",
+    20,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "cup",
+    20,
+    "https://www.theguardian.com/football/2026/jul/26/jayden-adams-death-south-africa-world-cup"
+  ],
+  [
+    "russia",
+    19,
+    "https://www.theguardian.com/world/2026/jul/27/ukraine-war-briefing-air-ceasefire-talk-ahead-of-trump-zelenskyy-meeting"
+  ],
+  [
+    "others",
+    18,
+    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+  ],
+  [
+    "video",
+    18,
+    "https://www.nytimes.com/2026/07/26/nyregion/netanyahu-mamdani-fox-news.html"
+  ],
+  [
+    "media",
+    18,
+    "https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html"
+  ],
+  [
+    "because",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/jul/27/commander-in-chief-of-chaos-victims-trump-wars"
+  ],
+  [
+    "death",
+    17,
+    "https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html"
+  ],
+  [
+    "shooting",
+    17,
+    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+  ],
+  [
+    "near",
+    17,
+    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+  ],
+  [
+    "fire",
+    17,
+    "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html"
+  ],
+  [
+    "released",
+    17,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "feel",
+    17,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai"
+  ],
+  [
+    "full",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/jul/26/mariana-velasquez-hosting-guide-kitchen-essentials"
+    "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html"
+  ],
+  [
+    "dead",
+    16,
+    "https://www.nytimes.com/2026/07/26/us/near-drowning-texas-brain-dead.html"
+  ],
+  [
+    "pop",
+    16,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "director",
+    16,
+    "https://www.theguardian.com/film/2026/jul/27/andrew-ridgeley-wham-china-george-michael-lindsay-anderson"
+  ],
+  [
+    "hot",
+    16,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai"
+  ],
+  [
+    "heat",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/26/us-heat-wave-dome-weather"
   ],
   [
     "south",
     16,
-    "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux"
+    "https://www.theguardian.com/us-news/2026/jul/26/us-heat-wave-dome-weather"
   ],
   [
-    "social",
+    "hours",
     16,
-    "https://www.theguardian.com/us-news/2026/jul/26/oklahoma-influencer-killed-apparent-murder-suicide"
+    "https://www.theguardian.com/society/2026/jul/26/shingles-rise-millennial-women"
   ],
   [
-    "sanders",
+    "don",
     16,
-    "https://www.cbsnews.com/news/united-nations-ambassador-mike-waltz-iran-strikes-pause-diplomacy-trump/"
+    "https://www.theguardian.com/society/2026/jul/26/shingles-rise-millennial-women"
   ],
   [
-    "york",
+    "democratic",
     15,
-    "https://www.nytimes.com/2026/07/26/nyregion/dsa-tax-rich-hochul-mamdani.html"
+    "https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html"
   ],
   [
-    "court",
+    "seattle",
     15,
-    "https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html"
+    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
   ],
   [
-    "death",
+    "suspect",
     15,
-    "https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html"
+    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
   ],
   [
-    "sea",
+    "minister",
     15,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/07/26/nyregion/netanyahu-mamdani-fox-news.html"
+  ],
+  [
+    "died",
+    15,
+    "https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html"
+  ],
+  [
+    "west",
+    15,
+    "https://www.washingtonpost.com/nation/2026/07/26/west-point-professors-lawsuit-tests-militarys-tolerance-internal-criticism/"
+  ],
+  [
+    "air",
+    15,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "mother",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/27/sean-astin-interview-samwise-gamgee-lotr-child-stardom-stranger-things"
   ],
   [
     "really",
@@ -231,49 +236,39 @@
     "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai"
   ],
   [
-    "little",
+    "buying",
     15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai"
+    "https://www.theguardian.com/thefilter-us/2026/jul/26/best-camping-chairs"
   ],
   [
-    "night",
+    "california",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/jul/26/mariana-velasquez-hosting-guide-kitchen-essentials"
+    "https://www.theguardian.com/us-news/2026/jul/26/us-heat-wave-dome-weather"
   ],
   [
-    "donald",
+    "ukraine",
     15,
-    "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz"
+    "https://www.theguardian.com/world/2026/jul/27/ukraine-war-briefing-air-ceasefire-talk-ahead-of-trump-zelenskyy-meeting"
   ],
   [
-    "win",
+    "ukrainian",
     15,
-    "https://www.theguardian.com/sport/2026/jul/26/relentless-tadej-pogacar-wins-fifth-tour-de-france-to-equal-record"
+    "https://www.theguardian.com/world/2026/jul/27/ukraine-war-briefing-air-ceasefire-talk-ahead-of-trump-zelenskyy-meeting"
   ],
   [
-    "final",
+    "black",
     15,
-    "https://www.theguardian.com/sport/2026/jul/26/relentless-tadej-pogacar-wins-fifth-tour-de-france-to-equal-record"
+    "https://www.theguardian.com/world/2026/jul/27/ukraine-war-briefing-air-ceasefire-talk-ahead-of-trump-zelenskyy-meeting"
   ],
   [
-    "don",
+    "place",
     15,
-    "https://www.theguardian.com/sport/2026/jul/26/relentless-tadej-pogacar-wins-fifth-tour-de-france-to-equal-record"
+    "https://www.theguardian.com/world/2026/jul/26/india-cockroach-protest-victory-signals-trouble-ahead-for-narendra-modi"
   ],
   [
-    "full",
+    "john",
     15,
-    "https://www.theguardian.com/film/2026/jul/26/keith-david-president-curtis-actor-interview"
-  ],
-  [
-    "kennedy",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/26/rfk-jr-alzheimers-us-preventive-services-task-force"
-  ],
-  [
-    "ambassador",
-    15,
-    "https://www.theguardian.com/world/2026/jul/26/romania-summons-russia-ambassador-third-drone-shot-down"
+    "https://www.theguardian.com/commentisfree/2026/jul/26/strait-of-hormuz-north-sea-global-maritime-war-oil-price"
   ],
   [
     "fashion",
@@ -281,34 +276,69 @@
     "https://www.theguardian.com/world/2026/jul/26/pirelli-2027-calendar-features-all-indian-cast"
   ],
   [
-    "mike",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/26/the-curse-of-love-island-review-amazon-prime-video"
+    "festival",
+    14,
+    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
   ],
   [
-    "power",
+    "authorities",
     14,
-    "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html"
+    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
   ],
   [
-    "nuclear",
+    "government",
     14,
-    "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html"
+    "https://www.nytimes.com/2026/07/26/nyregion/netanyahu-mamdani-fox-news.html"
   ],
   [
-    "military",
+    "berlin",
     14,
-    "https://www.washingtonpost.com/nation/2026/07/26/west-point-professors-lawsuit-tests-militarys-tolerance-internal-criticism/"
+    "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
   ],
   [
-    "kitchen",
+    "york",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/jul/26/mariana-velasquez-hosting-guide-kitchen-essentials"
+    "https://www.nytimes.com/2026/07/26/nyregion/indians-nyc-cockroach-party-protests.html"
   ],
   [
-    "elections",
+    "spent",
     14,
-    "https://www.theguardian.com/news/ng-interactive/2026/jul/26/trump-undermine-us-midterms"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "sea",
+    14,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "ice",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "playing",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/27/sean-astin-interview-samwise-gamgee-lotr-child-stardom-stranger-things"
+  ],
+  [
+    "night",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jul/26/the-pitt-hospital-work-the-bear"
+  ],
+  [
+    "weekend",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/26/pentagon-iran-war-troop-deaths-casualty-report"
+  ],
+  [
+    "final",
+    14,
+    "https://www.theguardian.com/world/2026/jul/27/ukraine-war-briefing-air-ceasefire-talk-ahead-of-trump-zelenskyy-meeting"
+  ],
+  [
+    "social",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jul/26/how-to-defeat-authoritarianism-building-community"
   ],
   [
     "cooker",
@@ -316,63 +346,33 @@
     "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
   ],
   [
-    "saudi",
-    13,
-    "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html"
+    "senate",
+    14,
+    "https://www.foxnews.com/media/youtube-star-ms-rachel-gives-funds-democratic-socialist-michigan-senate-hopeful-abdul-el-sayed"
   ],
   [
-    "pride",
+    "several",
     13,
-    "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
+    "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html"
   ],
   [
-    "dead",
+    "injured",
     13,
-    "https://www.nytimes.com/2026/07/26/us/near-drowning-texas-brain-dead.html"
+    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
   ],
   [
-    "pop",
+    "states",
     13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html"
   ],
   [
-    "fire",
+    "military",
     13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.washingtonpost.com/nation/2026/07/26/west-point-professors-lawsuit-tests-militarys-tolerance-internal-criticism/"
   ],
   [
-    "released",
+    "park",
     13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "health",
-    13,
-    "https://www.theguardian.com/wellness/2026/jul/26/suzanne-bell-nasa-behavorial-health-scientist"
-  ],
-  [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/26/mariana-velasquez-hosting-guide-kitchen-essentials"
-  ],
-  [
-    "guide",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/26/mariana-velasquez-hosting-guide-kitchen-essentials"
-  ],
-  [
-    "near",
-    13,
-    "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany"
-  ],
-  [
-    "husband",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/26/oklahoma-influencer-killed-apparent-murder-suicide"
-  ],
-  [
-    "game",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/26/lena-headey-looks-back-game-of-thrones-actor-weinstein"
+    "https://www.washingtonpost.com/nation/2026/07/25/georgias-okefenokee-swamp-become-unesco-world-heritage-site/"
   ]
 ];
