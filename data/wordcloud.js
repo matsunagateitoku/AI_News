@@ -2,53 +2,63 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    74,
-    "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html"
+    70,
+    "https://www.nytimes.com/2026/07/27/upshot/transit-projects-trump.html"
   ],
   [
     "iran",
-    48,
-    "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html"
-  ],
-  [
-    "war",
-    45,
-    "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html"
+    41,
+    "https://www.nytimes.com/2026/07/27/podcasts/the-headlines/us-iran-strikes-measles.html"
   ],
   [
     "food",
-    38,
-    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+    32,
+    "https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html"
   ],
   [
-    "killed",
-    37,
-    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
-  ],
-  [
-    "police",
-    33,
-    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
-  ],
-  [
-    "rice",
+    "war",
     31,
-    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
+    "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html"
   ],
   [
     "president",
-    30,
-    "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html"
+    29,
+    "https://www.nytimes.com/2026/07/27/podcasts/the-headlines/us-iran-strikes-measles.html"
   ],
   [
-    "country",
-    24,
-    "https://www.nytimes.com/2026/07/25/us/politics/utah-birth-rate-fertility-decline.html"
+    "france",
+    23,
+    "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html"
   ],
   [
-    "media",
+    "family",
+    23,
+    "https://www.theguardian.com/us-news/2026/jul/27/fires-in-the-night-earth-liberation-front-environment"
+  ],
+  [
+    "killed",
+    22,
+    "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html"
+  ],
+  [
+    "summer",
+    22,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/23/too-hot-to-cook-air-fryer"
+  ],
+  [
+    "police",
     20,
-    "https://www.theguardian.com/commentisfree/ng-interactive/2026/jul/27/tv-cinema-paramount-warner-bros-merger-benedict-cumberbatch-alan-cumming-benedict-wong"
+    "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html"
+  ],
+  [
+    "film",
+    20,
+    "https://www.theguardian.com/music/2026/jul/27/george-michaels-trojan-souls-unreleased-project-elton-john-aretha-franklin-duets-album"
+  ],
+  [
+    "attack",
+    19,
+    "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html"
   ],
   [
     "shooting",
@@ -56,69 +66,44 @@
     "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
   ],
   [
-    "others",
+    "cup",
     19,
-    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+    "https://www.theguardian.com/football/2026/jul/27/gianni-infantino-hits-out-fifa-critics-hate-open-letter-world-cup"
   ],
   [
     "video",
-    19,
+    18,
     "https://www.theguardian.com/lifeandstyle/2026/jul/27/sean-astin-interview-samwise-gamgee-lotr-child-stardom-stranger-things"
   ],
   [
-    "russia",
-    19,
-    "https://www.theguardian.com/world/2026/jul/27/fire-point-ukraine-cruise-missiles-russia"
-  ],
-  [
-    "senate",
-    19,
-    "https://www.theguardian.com/us-news/2026/jul/27/hakeem-jeffries-trump-republicans-midterms"
-  ],
-  [
-    "shot",
-    19,
-    "https://www.theguardian.com/global-development/2026/jul/27/her-screams-echo-in-my-ears-the-trauma-of-so-called-honour-killings-in-pakistan"
-  ],
-  [
-    "family",
-    19,
-    "https://www.theguardian.com/football/2026/jul/26/jayden-adams-death-south-africa-world-cup"
-  ],
-  [
-    "attack",
+    "california",
     18,
-    "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html"
+    "https://www.theguardian.com/us-news/2026/jul/27/ice-california-shooting-lawsuit"
   ],
   [
-    "summer",
+    "star",
     18,
-    "https://www.theguardian.com/film/2026/jul/27/unauthorised-version-of-christopher-nolans-odyssey-shared-on-x"
+    "https://www.theguardian.com/film/2026/jul/27/tom-holland-says-some-of-his-films-are-shit-and-people-shouldnt-see-them"
   ],
   [
-    "cup",
+    "health",
     18,
-    "https://www.theguardian.com/football/2026/jul/26/jayden-adams-death-south-africa-world-cup"
+    "https://www.theguardian.com/commentisfree/2026/jul/27/ai-biological-weapons-defense"
   ],
   [
-    "festival",
+    "race",
     17,
-    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+    "https://www.nytimes.com/2026/07/27/us/wisconsin-governor-democratic-primary.html"
   ],
   [
-    "seattle",
+    "others",
     17,
-    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+    "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html"
   ],
   [
-    "water",
+    "michael",
     17,
-    "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html"
-  ],
-  [
-    "film",
-    17,
-    "https://www.theguardian.com/film/2026/jul/27/andrew-ridgeley-wham-china-george-michael-lindsay-anderson"
+    "https://www.theguardian.com/music/2026/jul/27/george-michaels-trojan-souls-unreleased-project-elton-john-aretha-franklin-duets-album"
   ],
   [
     "fire",
@@ -126,79 +111,79 @@
     "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html"
   ],
   [
-    "released",
+    "system",
     16,
-    "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html"
+    "https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html"
   ],
   [
-    "spent",
+    "sea",
     16,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "early",
+    "north",
     16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "york",
-    15,
-    "https://www.nytimes.com/2026/07/27/us/politics/jeffries-democrats-midterms-affordability.html"
+    "country",
+    16,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "near",
-    15,
-    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+    "accused",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/jul/27/andrew-tristain-tate-democrats"
   ],
   [
-    "far",
-    15,
-    "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html"
+    "night",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/27/fires-in-the-night-earth-liberation-front-environment"
   ],
   [
-    "full",
-    15,
-    "https://www.nytimes.com/2026/07/20/books/review/colson-whitehead-cool-machine.html"
+    "odyssey",
+    16,
+    "https://www.theguardian.com/film/2026/jul/27/tom-holland-says-some-of-his-films-are-shit-and-people-shouldnt-see-them"
   ],
   [
-    "military",
-    15,
-    "https://www.washingtonpost.com/nation/2026/07/26/west-point-professors-lawsuit-tests-militarys-tolerance-internal-criticism/"
-  ],
-  [
-    "million",
-    15,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "donald",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/27/epstein-survivors-todd-blanche-justice"
-  ],
-  [
-    "place",
-    15,
-    "https://www.theguardian.com/film/2026/jul/27/up-in-the-air-george-clooney-movie"
-  ],
-  [
-    "social",
-    15,
-    "https://www.theguardian.com/film/2026/jul/27/the-odyssey-andrei-konchalovsky-hallmark-channel-1997-bernadette-peters-vanessa-williams"
-  ],
-  [
-    "feel",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/jul/27/whatsapp-blue-ticks"
-  ],
-  [
-    "act",
-    14,
-    "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html"
+    "something",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/27/chicago-scream-club-screaming"
   ],
   [
     "win",
-    14,
+    15,
     "https://www.nytimes.com/2026/07/27/us/politics/el-sayed-michigan-senate.html"
+  ],
+  [
+    "early",
+    15,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "media",
+    15,
+    "https://www.theguardian.com/commentisfree/ng-interactive/2026/jul/27/tv-cinema-paramount-warner-bros-merger-benedict-cumberbatch-alan-cumming-benedict-wong"
+  ],
+  [
+    "mother",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/27/sean-astin-interview-samwise-gamgee-lotr-child-stardom-stranger-things"
+  ],
+  [
+    "senate",
+    15,
+    "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates"
+  ],
+  [
+    "buying",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/23/too-hot-to-cook-air-fryer"
+  ],
+  [
+    "bieniemy",
+    15,
+    "https://www.theguardian.com/sport/2026/jul/27/eric-bieniemy-son-shooting-elijah-bieniemy-chiefs"
   ],
   [
     "democrats",
@@ -206,134 +191,109 @@
     "https://www.nytimes.com/2026/07/27/us/politics/el-sayed-michigan-senate.html"
   ],
   [
-    "space",
+    "authorities",
+    14,
+    "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html"
+  ],
+  [
+    "suspect",
+    14,
+    "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html"
+  ],
+  [
+    "water",
+    14,
+    "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html"
+  ],
+  [
+    "festival",
     14,
     "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
   ],
   [
-    "ukrainian",
+    "military",
     14,
-    "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html"
+    "https://www.washingtonpost.com/nation/2026/07/26/west-point-professors-lawsuit-tests-militarys-tolerance-internal-criticism/"
   ],
   [
-    "power",
+    "immigration",
     14,
-    "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "ukraine",
+    "kitchen",
     14,
-    "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html"
+    "https://www.theguardian.com/world/2026/jul/27/off-duty-police-officer-detains-man-attacked-women-knives-paris"
   ],
   [
-    "system",
-    14,
-    "https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html"
-  ],
-  [
-    "michael",
-    14,
-    "https://www.theguardian.com/film/2026/jul/27/andrew-ridgeley-wham-china-george-michael-lindsay-anderson"
-  ],
-  [
-    "director",
-    14,
-    "https://www.theguardian.com/film/2026/jul/27/andrew-ridgeley-wham-china-george-michael-lindsay-anderson"
-  ],
-  [
-    "health",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jul/27/ai-biological-weapons-defense"
-  ],
-  [
-    "control",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/jul/27/ai-biological-weapons-defense"
-  ],
-  [
-    "weekend",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/26/pentagon-iran-war-troop-deaths-casualty-report"
-  ],
-  [
-    "odyssey",
-    14,
-    "https://www.theguardian.com/film/2026/jul/27/unauthorised-version-of-christopher-nolans-odyssey-shared-on-x"
-  ],
-  [
-    "cooker",
-    14,
-    "https://www.theguardian.com/food/2025/jul/31/best-rice-cookers-us"
-  ],
-  [
-    "political",
+    "heat",
     13,
-    "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html"
+    "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html"
   ],
   [
-    "race",
+    "wildfires",
     13,
-    "https://www.nytimes.com/2026/07/27/us/wisconsin-governor-democratic-primary.html"
+    "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html"
   ],
   [
-    "france",
+    "act",
     13,
-    "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html"
+    "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html"
   ],
   [
-    "final",
+    "data",
     13,
-    "https://www.nytimes.com/2026/07/20/books/review/colson-whitehead-cool-machine.html"
+    "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html"
   ],
   [
-    "america",
+    "york",
     13,
-    "https://www.nytimes.com/2026/07/27/opinion/chips-ai-china-trump.html"
+    "https://www.nytimes.com/2026/07/25/nyregion/nyc-history-america-250-clues.html"
   ],
   [
-    "park",
+    "primary",
     13,
-    "https://www.washingtonpost.com/nation/2026/07/25/georgias-okefenokee-swamp-become-unesco-world-heritage-site/"
+    "https://www.nytimes.com/2026/07/27/us/politics/el-sayed-michigan-senate.html"
   ],
   [
-    "china",
+    "because",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/07/27/us/alexander-kolodin-election-denial-arizona.html"
   ],
   [
-    "red",
+    "far",
     13,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html"
   ],
   [
-    "mother",
+    "million",
+    13,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "pop",
+    13,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "office",
     13,
     "https://www.theguardian.com/lifeandstyle/2026/jul/27/sean-astin-interview-samwise-gamgee-lotr-child-stardom-stranger-things"
   ],
   [
-    "started",
+    "shot",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jul/27/commander-in-chief-of-chaos-victims-trump-wars"
+    "https://www.theguardian.com/us-news/2026/jul/27/ice-california-shooting-lawsuit"
   ],
   [
-    "states",
+    "prices",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/26/us-heat-wave-dome-weather"
+    "https://www.theguardian.com/commentisfree/2026/jul/27/tariffs-are-trumps-favorite-plaything-and-his-justifications-are-absurd"
   ],
   [
-    "administration",
+    "feel",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/26/taylor-farms-white-house-cyclospora-recall"
-  ],
-  [
-    "friend",
-    13,
-    "https://www.theguardian.com/music/2026/jul/27/george-michaels-trojan-souls-unreleased-project-elton-john-aretha-franklin-duets-album"
-  ],
-  [
-    "kitchen",
-    13,
-    "https://www.theguardian.com/global-development/2026/jul/26/we-count-every-litre-how-cubas-energy-crisis-sparked-a-daily-struggle-for-water"
+    "https://www.theguardian.com/music/2026/jul/27/you-say-genocide-i-say-war-boy-george-releases-pro-israel-song-we-will-dance-again"
   ],
   [
     "holiday",
@@ -341,38 +301,78 @@
     "https://www.theguardian.com/books/ng-interactive/2026/jul/25/the-perfect-books-for-the-beach-picked-by-freida-mcfadden-mick-herron-robert-harris-and-more"
   ],
   [
-    "growing",
-    12,
-    "https://www.nytimes.com/2026/07/27/podcasts/the-headlines/us-iran-strikes-measles.html"
-  ],
-  [
-    "because",
-    12,
-    "https://www.nytimes.com/2026/07/27/us/alexander-kolodin-election-denial-arizona.html"
-  ],
-  [
-    "data",
-    12,
-    "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html"
-  ],
-  [
-    "local",
-    12,
-    "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html"
-  ],
-  [
     "nearly",
     12,
     "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html"
   ],
   [
-    "authorities",
+    "released",
+    12,
+    "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html"
+  ],
+  [
+    "least",
     12,
     "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
   ],
   [
-    "suspect",
+    "seattle",
     12,
     "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+  ],
+  [
+    "near",
+    12,
+    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+  ],
+  [
+    "red",
+    12,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "again",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/27/sean-astin-interview-samwise-gamgee-lotr-child-stardom-stranger-things"
+  ],
+  [
+    "business",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/27/sean-astin-interview-samwise-gamgee-lotr-child-stardom-stranger-things"
+  ],
+  [
+    "states",
+    12,
+    "https://www.theguardian.com/science/2026/jul/27/nasa-astronauts-for-america-voting-campaign"
+  ],
+  [
+    "party",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/jul/27/andrew-tristain-tate-democrats"
+  ],
+  [
+    "son",
+    12,
+    "https://www.theguardian.com/us-news/2026/jul/27/ice-california-shooting-lawsuit"
+  ],
+  [
+    "donald",
+    12,
+    "https://www.theguardian.com/us-news/2026/jul/27/epstein-survivors-todd-blanche-justice"
+  ],
+  [
+    "death",
+    12,
+    "https://www.theguardian.com/us-news/2026/jul/24/joanna-ruth-shields-big-sur-alcohol-withdrawal-cause-of-death"
+  ],
+  [
+    "filter",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/23/too-hot-to-cook-air-fryer"
+  ],
+  [
+    "weekly",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/28/a-job-that-changed-me-gopher-gofer-errand-runner"
   ]
 ];
