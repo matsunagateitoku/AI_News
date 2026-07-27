@@ -2,183 +2,208 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    70,
+    85,
     "https://www.nytimes.com/2026/07/27/upshot/transit-projects-trump.html"
   ],
   [
-    "iran",
-    41,
-    "https://www.nytimes.com/2026/07/27/podcasts/the-headlines/us-iran-strikes-measles.html"
-  ],
-  [
-    "food",
-    32,
-    "https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html"
-  ],
-  [
-    "war",
-    31,
-    "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html"
-  ],
-  [
     "president",
-    29,
-    "https://www.nytimes.com/2026/07/27/podcasts/the-headlines/us-iran-strikes-measles.html"
-  ],
-  [
-    "france",
-    23,
-    "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html"
-  ],
-  [
-    "family",
-    23,
-    "https://www.theguardian.com/us-news/2026/jul/27/fires-in-the-night-earth-liberation-front-environment"
-  ],
-  [
-    "killed",
-    22,
-    "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html"
-  ],
-  [
-    "summer",
-    22,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/23/too-hot-to-cook-air-fryer"
-  ],
-  [
-    "police",
-    20,
-    "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html"
-  ],
-  [
-    "film",
-    20,
-    "https://www.theguardian.com/music/2026/jul/27/george-michaels-trojan-souls-unreleased-project-elton-john-aretha-franklin-duets-album"
-  ],
-  [
-    "attack",
-    19,
-    "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html"
+    39,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "shooting",
-    19,
-    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+    28,
+    "https://www.theguardian.com/world/2026/jul/27/bite-of-seattle-shooting-center-food-festival"
   ],
   [
-    "cup",
-    19,
-    "https://www.theguardian.com/football/2026/jul/27/gianni-infantino-hits-out-fifa-critics-hate-open-letter-world-cup"
+    "family",
+    26,
+    "https://www.theguardian.com/wellness/2026/jul/27/women-heart-attack-symptoms-testing"
   ],
   [
-    "video",
-    18,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/27/sean-astin-interview-samwise-gamgee-lotr-child-stardom-stranger-things"
+    "iran",
+    25,
+    "https://www.nytimes.com/2026/07/27/us/politics/iran-war-timeline.html"
   ],
   [
-    "california",
-    18,
-    "https://www.theguardian.com/us-news/2026/jul/27/ice-california-shooting-lawsuit"
+    "attack",
+    24,
+    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
   ],
   [
-    "star",
-    18,
-    "https://www.theguardian.com/film/2026/jul/27/tom-holland-says-some-of-his-films-are-shit-and-people-shouldnt-see-them"
+    "mother",
+    24,
+    "https://www.theguardian.com/sport/2026/jul/27/eric-bieniemy-son-shooting-elijah-bieniemy-chiefs"
   ],
   [
-    "health",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/jul/27/ai-biological-weapons-defense"
+    "war",
+    23,
+    "https://www.nytimes.com/2026/07/27/us/politics/iran-war-timeline.html"
   ],
   [
-    "race",
-    17,
-    "https://www.nytimes.com/2026/07/27/us/wisconsin-governor-democratic-primary.html"
-  ],
-  [
-    "others",
-    17,
-    "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html"
-  ],
-  [
-    "michael",
-    17,
-    "https://www.theguardian.com/music/2026/jul/27/george-michaels-trojan-souls-unreleased-project-elton-john-aretha-franklin-duets-album"
-  ],
-  [
-    "fire",
-    16,
-    "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html"
-  ],
-  [
-    "system",
-    16,
+    "food",
+    23,
     "https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html"
   ],
   [
-    "sea",
-    16,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "california",
+    23,
+    "https://www.theguardian.com/us-news/2026/jul/27/ice-california-shooting-lawsuit"
   ],
   [
-    "north",
-    16,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "david",
+    20,
+    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
   ],
   [
-    "country",
-    16,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "summer",
+    20,
+    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
   ],
   [
-    "accused",
+    "cup",
+    20,
+    "https://www.theguardian.com/football/2026/jul/27/relentless-soccer-schedule-world-cup"
+  ],
+  [
+    "immigration",
+    19,
+    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
+  ],
+  [
+    "senate",
+    19,
+    "https://www.nytimes.com/2026/07/27/us/politics/mcconnell-extends-senate-leave-update.html"
+  ],
+  [
+    "health",
+    19,
+    "https://www.nytimes.com/2026/07/27/science/daylight-saving-time-health-safety.html"
+  ],
+  [
+    "killed",
+    19,
+    "https://www.theguardian.com/world/2026/jul/27/bite-of-seattle-shooting-center-food-festival"
+  ],
+  [
+    "suspect",
+    19,
+    "https://www.theguardian.com/world/2026/jul/27/bite-of-seattle-shooting-center-food-festival"
+  ],
+  [
+    "york",
+    18,
+    "https://www.nytimes.com/2026/07/27/nyregion/nyc-legionnaires-disease-epicenter.html"
+  ],
+  [
+    "released",
+    18,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "again",
+    18,
+    "https://www.theguardian.com/wellness/2026/jul/27/women-heart-attack-symptoms-testing"
+  ],
+  [
+    "near",
+    18,
+    "https://www.theguardian.com/world/2026/jul/27/bite-of-seattle-shooting-center-food-festival"
+  ],
+  [
+    "office",
+    18,
+    "https://www.theguardian.com/us-news/2026/jul/27/doj-charges-california-union-leader-david-huerta"
+  ],
+  [
+    "police",
+    18,
+    "https://www.theguardian.com/us-news/2026/jul/24/joanna-ruth-shields-big-sur-alcohol-withdrawal-cause-of-death"
+  ],
+  [
+    "star",
+    17,
+    "https://www.nytimes.com/2026/07/27/movies/johnny-depp-ebenezer-a-christmas-carol-paramount.html"
+  ],
+  [
+    "ice",
+    17,
+    "https://www.nytimes.com/2026/07/27/opinion/ice-immigration-detention-privatization.html"
+  ],
+  [
+    "video",
+    17,
+    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
+  ],
+  [
+    "film",
+    17,
+    "https://www.theguardian.com/film/2026/jul/27/it-reminded-me-of-james-bond-guardian-readers-on-the-odyssey"
+  ],
+  [
+    "son",
+    17,
+    "https://www.theguardian.com/us-news/2026/jul/27/ice-california-shooting-lawsuit"
+  ],
+  [
+    "donald",
+    17,
+    "https://www.theguardian.com/world/2026/jul/27/trump-warns-return-strong-military-action-iran-diplomacy-fails"
+  ],
+  [
+    "republican",
+    17,
+    "https://www.theguardian.com/us-news/2026/jul/27/mitch-mcconnell-health-update"
+  ],
+  [
+    "media",
+    16,
+    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
+  ],
+  [
+    "british",
     16,
     "https://www.theguardian.com/commentisfree/2026/jul/27/andrew-tristain-tate-democrats"
   ],
   [
-    "night",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/27/fires-in-the-night-earth-liberation-front-environment"
+    "france",
+    15,
+    "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html"
+  ],
+  [
+    "love",
+    15,
+    "https://www.nytimes.com/2026/07/27/us/politics/kennedy-center-trump.html"
+  ],
+  [
+    "others",
+    15,
+    "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html"
+  ],
+  [
+    "million",
+    15,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "arrested",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jul/27/andrew-tristain-tate-democrats"
   ],
   [
     "odyssey",
-    16,
-    "https://www.theguardian.com/film/2026/jul/27/tom-holland-says-some-of-his-films-are-shit-and-people-shouldnt-see-them"
-  ],
-  [
-    "something",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/27/chicago-scream-club-screaming"
-  ],
-  [
-    "win",
     15,
-    "https://www.nytimes.com/2026/07/27/us/politics/el-sayed-michigan-senate.html"
+    "https://www.theguardian.com/film/2026/jul/27/it-reminded-me-of-james-bond-guardian-readers-on-the-odyssey"
   ],
   [
-    "early",
+    "authorities",
     15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/world/2026/jul/27/bite-of-seattle-shooting-center-food-festival"
   ],
   [
-    "media",
+    "night",
     15,
-    "https://www.theguardian.com/commentisfree/ng-interactive/2026/jul/27/tv-cinema-paramount-warner-bros-merger-benedict-cumberbatch-alan-cumming-benedict-wong"
-  ],
-  [
-    "mother",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/27/sean-astin-interview-samwise-gamgee-lotr-child-stardom-stranger-things"
-  ],
-  [
-    "senate",
-    15,
-    "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates"
-  ],
-  [
-    "buying",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/23/too-hot-to-cook-air-fryer"
+    "https://www.theguardian.com/us-news/2026/jul/27/celeste-rivas-hernandez-d4vd-court"
   ],
   [
     "bieniemy",
@@ -186,29 +211,19 @@
     "https://www.theguardian.com/sport/2026/jul/27/eric-bieniemy-son-shooting-elijah-bieniemy-chiefs"
   ],
   [
-    "democrats",
+    "political",
     14,
-    "https://www.nytimes.com/2026/07/27/us/politics/el-sayed-michigan-senate.html"
+    "https://www.nytimes.com/2026/07/27/us/politics/mcconnell-extends-senate-leave-update.html"
   ],
   [
-    "authorities",
+    "disease",
     14,
-    "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html"
-  ],
-  [
-    "suspect",
-    14,
-    "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html"
+    "https://www.nytimes.com/2026/07/27/nyregion/nyc-legionnaires-disease-epicenter.html"
   ],
   [
     "water",
     14,
-    "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html"
-  ],
-  [
-    "festival",
-    14,
-    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+    "https://www.washingtonpost.com/nation/2026/07/27/desert-town-may-run-out-water-others-could-face-same-fate/"
   ],
   [
     "military",
@@ -216,39 +231,29 @@
     "https://www.washingtonpost.com/nation/2026/07/26/west-point-professors-lawsuit-tests-militarys-tolerance-internal-criticism/"
   ],
   [
-    "immigration",
+    "something",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/wellness/2026/jul/27/women-heart-attack-symptoms-testing"
   ],
   [
-    "kitchen",
+    "announced",
     14,
-    "https://www.theguardian.com/world/2026/jul/27/off-duty-police-officer-detains-man-attacked-women-knives-paris"
+    "https://www.theguardian.com/us-news/2026/jul/27/new-york-school-humanoid-robot-plan-paused"
   ],
   [
-    "heat",
+    "fire",
     13,
     "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html"
   ],
   [
-    "wildfires",
+    "case",
     13,
-    "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html"
+    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
   ],
   [
-    "act",
+    "administration",
     13,
-    "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html"
-  ],
-  [
-    "data",
-    13,
-    "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html"
-  ],
-  [
-    "york",
-    13,
-    "https://www.nytimes.com/2026/07/25/nyregion/nyc-history-america-250-clues.html"
+    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
   ],
   [
     "primary",
@@ -256,123 +261,118 @@
     "https://www.nytimes.com/2026/07/27/us/politics/el-sayed-michigan-senate.html"
   ],
   [
-    "because",
+    "nearly",
     13,
-    "https://www.nytimes.com/2026/07/27/us/alexander-kolodin-election-denial-arizona.html"
+    "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html"
   ],
   [
-    "far",
+    "power",
     13,
-    "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html"
+    "https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html"
   ],
   [
-    "million",
+    "early",
     13,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "pop",
+    "hospital",
     13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.theguardian.com/wellness/2026/jul/27/women-heart-attack-symptoms-testing"
   ],
   [
-    "office",
+    "kitchen",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/27/sean-astin-interview-samwise-gamgee-lotr-child-stardom-stranger-things"
+    "https://www.theguardian.com/wellness/2026/jul/27/women-heart-attack-symptoms-testing"
   ],
   [
-    "shot",
+    "court",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/27/ice-california-shooting-lawsuit"
+    "https://www.theguardian.com/us-news/2026/jul/27/trump-doj-supreme-court-voting"
   ],
   [
-    "prices",
+    "seattle",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jul/27/tariffs-are-trumps-favorite-plaything-and-his-justifications-are-absurd"
+    "https://www.theguardian.com/world/2026/jul/27/bite-of-seattle-shooting-center-food-festival"
+  ],
+  [
+    "race",
+    13,
+    "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins"
+  ],
+  [
+    "singer",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/27/celeste-rivas-hernandez-d4vd-court"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/23/too-hot-to-cook-air-fryer"
+  ],
+  [
+    "black",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/27/discrimination-eeoc-trump"
   ],
   [
     "feel",
     13,
-    "https://www.theguardian.com/music/2026/jul/27/you-say-genocide-i-say-war-boy-george-releases-pro-israel-song-we-will-dance-again"
+    "https://www.theguardian.com/football/2026/jul/27/relentless-soccer-schedule-world-cup"
   ],
   [
-    "holiday",
+    "berlin",
     13,
-    "https://www.theguardian.com/books/ng-interactive/2026/jul/25/the-perfect-books-for-the-beach-picked-by-freida-mcfadden-mick-herron-robert-harris-and-more"
+    "https://www.theguardian.com/politics/2026/jul/27/german-officials-tighter-extremism-laws-berlin-pride-attack"
   ],
   [
-    "nearly",
+    "sen",
+    13,
+    "https://www.nbcnews.com/politics/congress/mcconnell-releases-health-update-not-ready-return-work-rcna589452"
+  ],
+  [
+    "heat",
     12,
-    "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html"
+    "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html"
   ],
   [
-    "released",
+    "spain",
     12,
-    "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html"
+    "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html"
   ],
   [
-    "least",
+    "democrats",
     12,
-    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+    "https://www.nytimes.com/2026/07/27/us/politics/el-sayed-michigan-senate.html"
   ],
   [
-    "seattle",
+    "statement",
     12,
-    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+    "https://www.nytimes.com/2026/07/27/us/politics/mcconnell-extends-senate-leave-update.html"
   ],
   [
-    "near",
+    "social",
     12,
-    "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html"
+    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
   ],
   [
-    "red",
+    "global",
     12,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "again",
+    "country",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/27/sean-astin-interview-samwise-gamgee-lotr-child-stardom-stranger-things"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "business",
+    "ago",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/27/sean-astin-interview-samwise-gamgee-lotr-child-stardom-stranger-things"
+    "https://www.theguardian.com/wellness/2026/jul/27/women-heart-attack-symptoms-testing"
   ],
   [
-    "states",
-    12,
-    "https://www.theguardian.com/science/2026/jul/27/nasa-astronauts-for-america-voting-campaign"
-  ],
-  [
-    "party",
+    "accused",
     12,
     "https://www.theguardian.com/commentisfree/2026/jul/27/andrew-tristain-tate-democrats"
-  ],
-  [
-    "son",
-    12,
-    "https://www.theguardian.com/us-news/2026/jul/27/ice-california-shooting-lawsuit"
-  ],
-  [
-    "donald",
-    12,
-    "https://www.theguardian.com/us-news/2026/jul/27/epstein-survivors-todd-blanche-justice"
-  ],
-  [
-    "death",
-    12,
-    "https://www.theguardian.com/us-news/2026/jul/24/joanna-ruth-shields-big-sur-alcohol-withdrawal-cause-of-death"
-  ],
-  [
-    "filter",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/23/too-hot-to-cook-air-fryer"
-  ],
-  [
-    "weekly",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/28/a-job-that-changed-me-gopher-gofer-errand-runner"
   ]
 ];
