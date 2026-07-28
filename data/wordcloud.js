@@ -2,23 +2,18 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    94,
+    97,
     "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html"
   ],
   [
     "president",
-    47,
+    45,
     "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html"
   ],
   [
-    "released",
-    29,
-    "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html"
-  ],
-  [
-    "california",
-    28,
-    "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
+    "police",
+    26,
+    "https://www.nytimes.com/2026/07/28/business/china-uyghurs.html"
   ],
   [
     "family",
@@ -26,19 +21,14 @@
     "https://www.theguardian.com/us-news/2026/jul/27/ice-california-shooting-lawsuit"
   ],
   [
-    "senate",
+    "released",
     25,
-    "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
+    "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html"
   ],
   [
-    "police",
-    24,
-    "https://www.nytimes.com/2026/07/28/business/china-uyghurs.html"
-  ],
-  [
-    "summer",
-    23,
-    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
+    "film",
+    25,
+    "https://www.theguardian.com/film/2026/jul/27/the-odyssey-andrei-konchalovsky-hallmark-channel-1997-bernadette-peters-vanessa-williams"
   ],
   [
     "food",
@@ -46,14 +36,39 @@
     "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
   ],
   [
-    "health",
+    "california",
     23,
-    "https://www.nytimes.com/2026/07/27/science/daylight-saving-time-health-safety.html"
+    "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
   ],
   [
     "iran",
-    21,
+    22,
     "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html"
+  ],
+  [
+    "war",
+    22,
+    "https://www.nytimes.com/2026/07/27/us/politics/iran-war-timeline.html"
+  ],
+  [
+    "france",
+    21,
+    "https://www.nytimes.com/2026/07/27/world/europe/europe-wildfires-politician-response.html"
+  ],
+  [
+    "summer",
+    21,
+    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
+  ],
+  [
+    "senate",
+    21,
+    "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
+  ],
+  [
+    "court",
+    21,
+    "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html"
   ],
   [
     "killed",
@@ -61,39 +76,39 @@
     "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
   ],
   [
-    "media",
-    20,
-    "https://www.nytimes.com/2026/07/27/opinion/media-ellison-paramount.html"
-  ],
-  [
-    "court",
-    19,
-    "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html"
-  ],
-  [
     "cup",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/jul/28/kids-summer-holidays-orangutans-playdates-scientists-health-humans"
+  ],
+  [
+    "wildfires",
     19,
-    "https://www.theguardian.com/football/2026/jul/27/relentless-soccer-schedule-world-cup"
+    "https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html"
   ],
   [
-    "war",
+    "health",
+    19,
+    "https://www.theguardian.com/us-news/2026/jul/27/anthony-fauci-trump-covid-journal"
+  ],
+  [
+    "mother",
+    19,
+    "https://www.theguardian.com/film/2026/jul/28/a-child-of-my-own-fake-pregnancy-documentary-netflix"
+  ],
+  [
+    "accused",
     18,
-    "https://www.nytimes.com/2026/07/27/us/politics/iran-war-timeline.html"
+    "https://www.nytimes.com/2026/07/27/world/europe/europe-wildfires-politician-response.html"
   ],
   [
-    "france",
-    18,
-    "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html"
-  ],
-  [
-    "primary",
+    "democratic",
     18,
     "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
   ],
   [
-    "film",
+    "sen",
     18,
-    "https://www.theguardian.com/film/2026/jul/27/the-odyssey-andrei-konchalovsky-hallmark-channel-1997-bernadette-peters-vanessa-williams"
+    "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin"
   ],
   [
     "michigan",
@@ -101,64 +116,94 @@
     "https://www.nytimes.com/2026/07/27/us/politics/trump-michigan-speech-tariffs.html"
   ],
   [
-    "immigration",
-    17,
-    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
-  ],
-  [
-    "administration",
-    17,
-    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
-  ],
-  [
     "star",
     17,
     "https://www.nytimes.com/2026/07/27/movies/johnny-depp-ebenezer-a-christmas-carol-paramount.html"
   ],
   [
-    "killing",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/27/idaho-college-student-killings-bryan-kohberger"
-  ],
-  [
-    "wildfires",
-    16,
-    "https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html"
-  ],
-  [
-    "black",
-    16,
-    "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
-  ],
-  [
     "video",
-    16,
+    17,
+    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
+  ],
+  [
+    "social",
+    17,
+    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
+  ],
+  [
+    "media",
+    17,
     "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
   ],
   [
     "north",
-    16,
+    17,
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
     "early",
-    16,
+    17,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "again",
-    16,
-    "https://www.theguardian.com/wellness/2026/jul/27/women-heart-attack-symptoms-testing"
-  ],
-  [
     "donald",
-    16,
+    17,
     "https://www.theguardian.com/commentisfree/2026/jul/27/tariffs-are-trumps-favorite-plaything-and-his-justifications-are-absurd"
   ],
   [
-    "mother",
+    "administration",
     16,
-    "https://www.theguardian.com/sport/2026/jul/27/eric-bieniemy-son-shooting-elijah-bieniemy-chiefs"
+    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
+  ],
+  [
+    "sayed",
+    16,
+    "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
+  ],
+  [
+    "primary",
+    16,
+    "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
+  ],
+  [
+    "political",
+    16,
+    "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
+  ],
+  [
+    "south",
+    16,
+    "https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html"
+  ],
+  [
+    "shooting",
+    16,
+    "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
+  ],
+  [
+    "york",
+    16,
+    "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
+  ],
+  [
+    "democrats",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/jul/27/andrew-tristain-tate-democrats"
+  ],
+  [
+    "near",
+    16,
+    "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates"
+  ],
+  [
+    "spain",
+    15,
+    "https://www.nytimes.com/2026/07/27/world/europe/europe-wildfires-politician-response.html"
+  ],
+  [
+    "case",
+    15,
+    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
   ],
   [
     "trial",
@@ -166,34 +211,19 @@
     "https://www.nytimes.com/2026/07/27/movies/johnny-depp-ebenezer-a-christmas-carol-paramount.html"
   ],
   [
-    "political",
+    "night",
     15,
-    "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
+    "https://www.nytimes.com/2026/07/28/arts/television/late-night-trump-white-house-correspondents-dinner.html"
   ],
   [
-    "shooting",
-    15,
-    "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
-  ],
-  [
-    "attack",
-    15,
-    "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
-  ],
-  [
-    "york",
+    "black",
     15,
     "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
   ],
   [
-    "social",
+    "again",
     15,
-    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
-  ],
-  [
-    "accused",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/27/ice-california-shooting-lawsuit"
+    "https://www.theguardian.com/wellness/2026/jul/27/women-heart-attack-symptoms-testing"
   ],
   [
     "buying",
@@ -201,64 +231,54 @@
     "https://www.theguardian.com/lifeandstyle/2026/jul/23/too-hot-to-cook-air-fryer"
   ],
   [
-    "odyssey",
+    "killing",
     15,
-    "https://www.theguardian.com/film/2026/jul/27/the-odyssey-andrei-konchalovsky-hallmark-channel-1997-bernadette-peters-vanessa-williams"
+    "https://www.theguardian.com/us-news/2026/jul/27/celeste-rivas-hernandez-d4vd-court"
   ],
   [
-    "power",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/27/wisconsin-tornado"
-  ],
-  [
-    "love",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/27/roster-dating-is-having-five-partners-really-the-key-to-finding-love"
-  ],
-  [
-    "sen",
-    15,
-    "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin"
-  ],
-  [
-    "latest",
+    "order",
     14,
-    "https://www.nytimes.com/2026/07/27/briefing/france-spain-fires-daylight-saving-time.html"
+    "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html"
   ],
   [
-    "sayed",
+    "attack",
     14,
-    "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
+    "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
   ],
   [
-    "democratic",
+    "sea",
     14,
-    "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
+    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
   ],
   [
-    "million",
-    14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "something",
+    "kitchen",
     14,
     "https://www.theguardian.com/wellness/2026/jul/27/women-heart-attack-symptoms-testing"
   ],
   [
-    "michael",
+    "odyssey",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/27/trump-administration-iran-war-casualties-veterans"
+    "https://www.theguardian.com/film/2026/jul/27/the-odyssey-andrei-konchalovsky-hallmark-channel-1997-bernadette-peters-vanessa-williams"
   ],
   [
-    "feel",
+    "johnson",
     14,
-    "https://www.theguardian.com/world/2026/jul/27/it-felt-like-being-in-a-disaster-movie-inside-the-evacuation-from-frances-bordeaux-wildfires"
+    "https://www.theguardian.com/business/2026/jul/28/johnson-johnson-5bn-settlement-talc-cancer-lawsuit"
   ],
   [
-    "case",
-    13,
-    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
+    "legal",
+    14,
+    "https://www.theguardian.com/business/2026/jul/28/johnson-johnson-5bn-settlement-talc-cancer-lawsuit"
+  ],
+  [
+    "hours",
+    14,
+    "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates"
+  ],
+  [
+    "because",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/28/first-alcoholic-drink-16-by-26-six-months-to-live"
   ],
   [
     "david",
@@ -266,29 +286,39 @@
     "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
   ],
   [
+    "nearly",
+    13,
+    "https://www.nytimes.com/2026/07/28/business/china-uyghurs.html"
+  ],
+  [
     "festival",
     13,
     "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
   ],
   [
-    "sea",
+    "party",
     13,
-    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
+    "https://www.nytimes.com/2026/07/28/opinion/ezra-klein-podcast-ben-wikler.html"
   ],
   [
-    "growing",
+    "ice",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "country",
     13,
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "kitchen",
+    "heart",
     13,
     "https://www.theguardian.com/wellness/2026/jul/27/women-heart-attack-symptoms-testing"
   ],
   [
-    "night",
+    "child",
     13,
-    "https://www.theguardian.com/film/2026/jul/27/the-odyssey-andrei-konchalovsky-hallmark-channel-1997-bernadette-peters-vanessa-williams"
+    "https://www.theguardian.com/commentisfree/2026/jul/27/andrew-tristain-tate-democrats"
   ],
   [
     "concerns",
@@ -296,9 +326,9 @@
     "https://www.theguardian.com/us-news/2026/jul/27/dnc-chair-ken-martin-scrutiny"
   ],
   [
-    "singer",
+    "office",
     13,
-    "https://www.theguardian.com/music/2026/jul/27/george-michaels-trojan-souls-unreleased-project-elton-john-aretha-franklin-duets-album"
+    "https://www.theguardian.com/us-news/2026/jul/27/doj-charges-california-union-leader-david-huerta"
   ],
   [
     "judge",
@@ -306,14 +336,29 @@
     "https://www.theguardian.com/us-news/2026/jul/27/celeste-rivas-hernandez-d4vd-court"
   ],
   [
+    "feel",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/28/life-turn-40-east-germany-in-between"
+  ],
+  [
+    "kids",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/28/kids-summer-holidays-orangutans-playdates-scientists-health-humans"
+  ],
+  [
+    "power",
+    13,
+    "https://www.theguardian.com/football/2026/jul/27/mind-the-ever-growing-gap-the-premier-league-keeps-spending"
+  ],
+  [
     "fashion",
     12,
     "https://www.nytimes.com/2026/07/27/us/politics/trump-michigan-speech-tariffs.html"
   ],
   [
-    "nearly",
+    "graham",
     12,
-    "https://www.nytimes.com/2026/07/28/business/china-uyghurs.html"
+    "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html"
   ],
   [
     "fauci",
@@ -326,53 +371,8 @@
     "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html"
   ],
   [
-    "final",
+    "republican",
     12,
-    "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
-  ],
-  [
-    "seattle",
-    12,
-    "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
-  ],
-  [
-    "suspect",
-    12,
-    "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
-  ],
-  [
-    "least",
-    12,
-    "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
-  ],
-  [
-    "because",
-    12,
-    "https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html"
-  ],
-  [
-    "country",
-    12,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "disease",
-    12,
-    "https://www.theguardian.com/wellness/2026/jul/27/women-heart-attack-symptoms-testing"
-  ],
-  [
-    "democrats",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/jul/27/andrew-tristain-tate-democrats"
-  ],
-  [
-    "child",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/jul/27/andrew-tristain-tate-democrats"
-  ],
-  [
-    "guilty",
-    12,
-    "https://www.theguardian.com/us-news/2026/jul/27/idaho-college-student-killings-bryan-kohberger"
+    "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html"
   ]
 ];
