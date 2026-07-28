@@ -2,163 +2,98 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    97,
-    "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html"
+    69,
+    "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html"
   ],
   [
     "president",
-    45,
-    "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html"
+    35,
+    "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html"
   ],
   [
     "police",
-    26,
-    "https://www.nytimes.com/2026/07/28/business/china-uyghurs.html"
+    24,
+    "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html"
   ],
   [
-    "family",
-    26,
-    "https://www.theguardian.com/us-news/2026/jul/27/ice-california-shooting-lawsuit"
+    "johnson",
+    24,
+    "https://www.theguardian.com/culture/2026/jul/28/black-motorcycle-clubs-culture"
   ],
   [
-    "released",
-    25,
-    "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html"
+    "ice",
+    23,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "film",
-    25,
-    "https://www.theguardian.com/film/2026/jul/27/the-odyssey-andrei-konchalovsky-hallmark-channel-1997-bernadette-peters-vanessa-williams"
+    23,
+    "https://www.theguardian.com/film/2026/jul/28/spider-man-brand-new-day-review-zendaya-saves-tom-hollands-semi-cronenberg-style-superhero"
   ],
   [
-    "food",
+    "sen",
     23,
-    "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
-  ],
-  [
-    "california",
-    23,
-    "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
+    "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin"
   ],
   [
     "iran",
     22,
-    "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html"
+    "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html"
+  ],
+  [
+    "democratic",
+    22,
+    "https://www.nytimes.com/2026/07/28/podcasts/the-headlines/democratic-party-wildfires-europe.html"
   ],
   [
     "war",
     22,
-    "https://www.nytimes.com/2026/07/27/us/politics/iran-war-timeline.html"
-  ],
-  [
-    "france",
-    21,
-    "https://www.nytimes.com/2026/07/27/world/europe/europe-wildfires-politician-response.html"
-  ],
-  [
-    "summer",
-    21,
-    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
+    "https://www.nytimes.com/2026/07/28/magazine/heritage-foundation-trump-republicans.html"
   ],
   [
     "senate",
-    21,
+    22,
     "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
   ],
   [
-    "court",
-    21,
-    "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html"
+    "family",
+    22,
+    "https://www.theguardian.com/football/2026/jul/27/gianni-infantino-donald-trump-jamie-raskin"
   ],
   [
-    "killed",
+    "court",
     20,
-    "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
+    "https://www.theguardian.com/uk-news/2026/jul/28/us-airman-accused-of-spree-of-rapes-on-sleeping-women-avoided-uk-courts"
   ],
   [
     "cup",
     20,
-    "https://www.theguardian.com/commentisfree/2026/jul/28/kids-summer-holidays-orangutans-playdates-scientists-health-humans"
+    "https://www.theguardian.com/commentisfree/2026/jul/28/gianni-infantino-world-cup-fifa-instagram"
   ],
   [
-    "wildfires",
+    "summer",
     19,
-    "https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html"
+    "https://www.theguardian.com/culture/2026/jul/28/black-motorcycle-clubs-culture"
   ],
   [
-    "health",
-    19,
-    "https://www.theguardian.com/us-news/2026/jul/27/anthony-fauci-trump-covid-journal"
-  ],
-  [
-    "mother",
-    19,
-    "https://www.theguardian.com/film/2026/jul/28/a-child-of-my-own-fake-pregnancy-documentary-netflix"
-  ],
-  [
-    "accused",
+    "near",
     18,
-    "https://www.nytimes.com/2026/07/27/world/europe/europe-wildfires-politician-response.html"
+    "https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-france-wildfires-smoke.html"
   ],
   [
-    "democratic",
-    18,
-    "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
-  ],
-  [
-    "sen",
-    18,
-    "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin"
-  ],
-  [
-    "michigan",
+    "france",
     17,
-    "https://www.nytimes.com/2026/07/27/us/politics/trump-michigan-speech-tariffs.html"
+    "https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-france-wildfires-smoke.html"
   ],
   [
-    "star",
+    "released",
     17,
-    "https://www.nytimes.com/2026/07/27/movies/johnny-depp-ebenezer-a-christmas-carol-paramount.html"
+    "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html"
   ],
   [
-    "video",
+    "food",
     17,
-    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
-  ],
-  [
-    "social",
-    17,
-    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
-  ],
-  [
-    "media",
-    17,
-    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
-  ],
-  [
-    "north",
-    17,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "early",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "donald",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/jul/27/tariffs-are-trumps-favorite-plaything-and-his-justifications-are-absurd"
-  ],
-  [
-    "administration",
-    16,
-    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
-  ],
-  [
-    "sayed",
-    16,
-    "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
+    "https://www.theguardian.com/global-development/2026/jul/28/giving-birth-haiti-gang-violence-port-au-prince-maternity-services"
   ],
   [
     "primary",
@@ -166,213 +101,278 @@
     "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
   ],
   [
-    "political",
+    "california",
     16,
-    "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
+    "https://www.nytimes.com/2026/07/28/us/newport-beach-california-teen-takeover.html"
   ],
   [
-    "south",
+    "social",
     16,
-    "https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html"
+    "https://www.nytimes.com/2026/07/28/us/newport-beach-california-teen-takeover.html"
   ],
   [
-    "shooting",
+    "graham",
     16,
-    "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
+    "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates"
   ],
   [
-    "york",
-    16,
-    "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
+    "race",
+    15,
+    "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html"
+  ],
+  [
+    "beach",
+    15,
+    "https://www.nytimes.com/2026/07/28/us/newport-beach-california-teen-takeover.html"
+  ],
+  [
+    "feel",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/28/us-iran-war-cost-of-living"
+  ],
+  [
+    "power",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/28/us-iran-war-cost-of-living"
+  ],
+  [
+    "health",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/28/trump-administration-forced-treatment-ice-hunger-striker"
+  ],
+  [
+    "pasta",
+    15,
+    "https://www.theguardian.com/food/2026/jul/28/tears-at-dinner-time-the-science-to-rolling-out-fresh-pasta"
+  ],
+  [
+    "latest",
+    14,
+    "https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-france-wildfires-smoke.html"
+  ],
+  [
+    "experts",
+    14,
+    "https://www.nytimes.com/2026/07/28/well/longevity-expert-tips-middle-age.html"
+  ],
+  [
+    "american",
+    14,
+    "https://www.nytimes.com/2026/07/28/magazine/heritage-foundation-trump-republicans.html"
+  ],
+  [
+    "fauci",
+    14,
+    "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html"
+  ],
+  [
+    "inside",
+    14,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "already",
+    14,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "early",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "authorities",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/28/kentucky-teen-defended-girl-shot"
   ],
   [
     "democrats",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/jul/27/andrew-tristain-tate-democrats"
-  ],
-  [
-    "near",
-    16,
-    "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates"
-  ],
-  [
-    "spain",
-    15,
-    "https://www.nytimes.com/2026/07/27/world/europe/europe-wildfires-politician-response.html"
-  ],
-  [
-    "case",
-    15,
-    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
-  ],
-  [
-    "trial",
-    15,
-    "https://www.nytimes.com/2026/07/27/movies/johnny-depp-ebenezer-a-christmas-carol-paramount.html"
-  ],
-  [
-    "night",
-    15,
-    "https://www.nytimes.com/2026/07/28/arts/television/late-night-trump-white-house-correspondents-dinner.html"
-  ],
-  [
-    "black",
-    15,
-    "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
-  ],
-  [
-    "again",
-    15,
-    "https://www.theguardian.com/wellness/2026/jul/27/women-heart-attack-symptoms-testing"
-  ],
-  [
-    "buying",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/23/too-hot-to-cook-air-fryer"
-  ],
-  [
-    "killing",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/27/celeste-rivas-hernandez-d4vd-court"
-  ],
-  [
-    "order",
     14,
-    "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html"
-  ],
-  [
-    "attack",
-    14,
-    "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
-  ],
-  [
-    "sea",
-    14,
-    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
+    "https://www.theguardian.com/tv-and-radio/2026/jul/28/mary-beth-barone-netflix-special-interview"
   ],
   [
     "kitchen",
     14,
-    "https://www.theguardian.com/wellness/2026/jul/27/women-heart-attack-symptoms-testing"
-  ],
-  [
-    "odyssey",
-    14,
-    "https://www.theguardian.com/film/2026/jul/27/the-odyssey-andrei-konchalovsky-hallmark-channel-1997-bernadette-peters-vanessa-williams"
-  ],
-  [
-    "johnson",
-    14,
-    "https://www.theguardian.com/business/2026/jul/28/johnson-johnson-5bn-settlement-talc-cancer-lawsuit"
-  ],
-  [
-    "legal",
-    14,
-    "https://www.theguardian.com/business/2026/jul/28/johnson-johnson-5bn-settlement-talc-cancer-lawsuit"
-  ],
-  [
-    "hours",
-    14,
-    "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates"
-  ],
-  [
-    "because",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/28/first-alcoholic-drink-16-by-26-six-months-to-live"
-  ],
-  [
-    "david",
-    13,
-    "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html"
-  ],
-  [
-    "nearly",
-    13,
-    "https://www.nytimes.com/2026/07/28/business/china-uyghurs.html"
-  ],
-  [
-    "festival",
-    13,
-    "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
+    "https://www.theguardian.com/environment/2026/jul/28/extreme-rainfall-asia-flash-floods-typhoons-climate-change"
   ],
   [
     "party",
     13,
-    "https://www.nytimes.com/2026/07/28/opinion/ezra-klein-podcast-ben-wikler.html"
+    "https://www.nytimes.com/2026/07/28/podcasts/the-headlines/democratic-party-wildfires-europe.html"
   ],
   [
-    "ice",
+    "art",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/07/28/nyregion/subway-newstand-west-4th-station-nyc.html"
+  ],
+  [
+    "ago",
+    13,
+    "https://www.nytimes.com/2026/07/28/us/gavin-newsom-ruby-rippey-affair.html"
+  ],
+  [
+    "late",
+    13,
+    "https://www.nytimes.com/2026/07/28/arts/television/late-night-trump-white-house-correspondents-dinner.html"
+  ],
+  [
+    "black",
+    13,
+    "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
+  ],
+  [
+    "york",
+    13,
+    "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
+  ],
+  [
+    "million",
+    13,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "because",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/28/first-alcoholic-drink-16-by-26-six-months-to-live"
+  ],
+  [
+    "administration",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/28/barron-trump-tate-brothers-congress"
+  ],
+  [
+    "lindsey",
+    13,
+    "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates"
+  ],
+  [
+    "death",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/28/kentucky-teen-defended-girl-shot"
+  ],
+  [
+    "hours",
+    13,
+    "https://www.theguardian.com/global-development/2026/jul/28/giving-birth-haiti-gang-violence-port-au-prince-maternity-services"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/23/too-hot-to-cook-air-fryer"
+  ],
+  [
+    "japan",
+    12,
+    "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-castle-damage.html"
+  ],
+  [
+    "earthquake",
+    12,
+    "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-castle-damage.html"
   ],
   [
     "country",
-    13,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    12,
+    "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-castle-damage.html"
   ],
   [
-    "heart",
-    13,
-    "https://www.theguardian.com/wellness/2026/jul/27/women-heart-attack-symptoms-testing"
+    "political",
+    12,
+    "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
   ],
   [
-    "child",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jul/27/andrew-tristain-tate-democrats"
+    "media",
+    12,
+    "https://www.nytimes.com/2026/07/28/us/newport-beach-california-teen-takeover.html"
   ],
   [
-    "concerns",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/27/dnc-chair-ken-martin-scrutiny"
+    "video",
+    12,
+    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
   ],
   [
-    "office",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/27/doj-charges-california-union-leader-david-huerta"
+    "nearly",
+    12,
+    "https://www.washingtonpost.com/nation/2026/07/27/desert-town-may-run-out-water-others-could-face-same-fate/"
   ],
   [
-    "judge",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/27/celeste-rivas-hernandez-d4vd-court"
+    "israel",
+    12,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "feel",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jul/28/life-turn-40-east-germany-in-between"
+    "north",
+    12,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "kids",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jul/28/kids-summer-holidays-orangutans-playdates-scientists-health-humans"
+    "hollywood",
+    12,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "power",
-    13,
-    "https://www.theguardian.com/football/2026/jul/27/mind-the-ever-growing-gap-the-premier-league-keeps-spending"
+    "immigration",
+    12,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "south",
+    12,
+    "https://www.theguardian.com/culture/2026/jul/28/black-motorcycle-clubs-culture"
+  ],
+  [
+    "hospital",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/28/first-alcoholic-drink-16-by-26-six-months-to-live"
+  ],
+  [
+    "service",
+    12,
+    "https://www.theguardian.com/us-news/2026/jul/28/trump-administration-forced-treatment-ice-hunger-striker"
+  ],
+  [
+    "case",
+    12,
+    "https://www.theguardian.com/uk-news/2026/jul/28/us-airman-accused-of-spree-of-rapes-on-sleeping-women-avoided-uk-courts"
+  ],
+  [
+    "paul",
+    12,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/28/ice-protests-antifa-minnesota"
+  ],
+  [
+    "outside",
+    12,
+    "https://www.theguardian.com/us-news/2026/jul/28/progressives-religion-civil-liberties-social-justice"
+  ],
+  [
+    "series",
+    12,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/28/mary-beth-barone-netflix-special-interview"
   ],
   [
     "fashion",
     12,
-    "https://www.nytimes.com/2026/07/27/us/politics/trump-michigan-speech-tariffs.html"
+    "https://www.theguardian.com/tv-and-radio/2026/jul/28/mary-beth-barone-netflix-special-interview"
   ],
   [
-    "graham",
+    "actually",
     12,
-    "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html"
+    "https://www.theguardian.com/film/2026/jul/28/spider-man-brand-new-day-review-zendaya-saves-tom-hollands-semi-cronenberg-style-superhero"
   ],
   [
-    "fauci",
+    "mother",
     12,
-    "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html"
+    "https://www.theguardian.com/film/2026/jul/28/a-child-of-my-own-fake-pregnancy-documentary-netflix"
   ],
   [
-    "diary",
+    "shark",
     12,
-    "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html"
+    "https://www.theguardian.com/film/2026/jul/28/shark-week-movies"
   ],
   [
-    "republican",
-    12,
-    "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html"
+    "attack",
+    11,
+    "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html"
   ]
 ];
