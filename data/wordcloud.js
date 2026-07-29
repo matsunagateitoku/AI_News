@@ -2,193 +2,163 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    62,
-    "https://www.nytimes.com/2026/07/29/business/economy/trump-tariffs-china.html"
-  ],
-  [
-    "iran",
-    36,
-    "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces"
-  ],
-  [
-    "fauci",
-    35,
-    "https://www.nytimes.com/2026/07/29/podcasts/the-headlines/ice-airports-fauci-diaries.html"
-  ],
-  [
-    "film",
-    29,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/29/jared-leto-hollywoods-dark-secret-review-abuse-allegations-bbc-iplayer-youtube"
-  ],
-  [
-    "president",
-    28,
-    "https://www.nytimes.com/2026/07/29/us/james-comey-seashells-trump-secret-service.html"
-  ],
-  [
-    "summer",
-    26,
-    "https://www.nytimes.com/2026/07/29/style/devyn-dalton-matt-damon-stuntwoman-odyssey.html"
-  ],
-  [
-    "war",
-    25,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    61,
+    "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html"
   ],
   [
     "senate",
-    24,
-    "https://www.nytimes.com/2026/07/29/us/politics/texas-senate-paxton-fund-raising.html"
+    35,
+    "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-weaponization-payouts.html"
   ],
   [
-    "paul",
+    "case",
+    33,
+    "https://www.theguardian.com/us-news/2026/jul/29/james-comey-secret-service-seashells-investigation-trump"
+  ],
+  [
+    "fauci",
+    32,
+    "https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-hearing-covid"
+  ],
+  [
+    "war",
+    29,
+    "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump/saudi-arabia-makes-a-reluctant-entry-into-the-us-iran-war"
+  ],
+  [
+    "cup",
+    29,
+    "https://www.theguardian.com/commentisfree/picture/2026/jul/29/ben-jennings-gianni-infantino-donald-trumps-fifa-world-cup-cartoon"
+  ],
+  [
+    "president",
+    27,
+    "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html"
+  ],
+  [
+    "iran",
+    27,
+    "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump/saudi-arabia-makes-a-reluctant-entry-into-the-us-iran-war"
+  ],
+  [
+    "film",
+    24,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/29/jared-leto-hollywoods-dark-secret-review-abuse-allegations-bbc-iplayer-youtube"
+  ],
+  [
+    "summer",
     23,
-    "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates"
+    "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html"
+  ],
+  [
+    "democratic",
+    22,
+    "https://www.theguardian.com/us-news/2026/jul/29/free-childcare-wins-midterm-election-votes"
+  ],
+  [
+    "fifth",
+    22,
+    "https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-hearing-covid"
+  ],
+  [
+    "fifa",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/jul/29/the-guardian-view-on-selling-off-the-world-cup-a-red-card-offence-by-gianni-infantino"
+  ],
+  [
+    "shark",
+    20,
+    "https://www.theguardian.com/film/2026/jul/29/the-devils-mouth-review-amazon-shark-thriller"
   ],
   [
     "climate",
-    22,
+    19,
     "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html"
   ],
   [
     "school",
-    22,
+    19,
     "https://www.washingtonpost.com/nation/2026/07/29/west-point-professors-free-comment-publicly-school-declines-appeal-ruling/"
   ],
   [
-    "hearing",
-    22,
-    "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates"
-  ],
-  [
-    "american",
-    21,
-    "https://www.nytimes.com/2026/07/29/us/politics/trump-cuban-deportees-uruguay.html"
-  ],
-  [
     "country",
-    21,
-    "https://www.nytimes.com/2026/07/29/us/politics/trump-cuban-deportees-uruguay.html"
-  ],
-  [
-    "cup",
-    21,
-    "https://www.theguardian.com/football/2026/jul/29/concacaf-joins-criticism-of-fifa-infantino-plan-to-sell-off-world-cup-stakes-to-private-investors"
-  ],
-  [
-    "attack",
-    20,
-    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
-  ],
-  [
-    "million",
     19,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "anthony",
-    18,
-    "https://www.nytimes.com/2026/07/28/us/politics/fauci-diary-fame.html"
-  ],
-  [
-    "york",
-    18,
-    "https://www.nytimes.com/2026/07/29/nyregion/mamdani-manhattan-institute-affordability.html"
-  ],
-  [
-    "black",
-    18,
-    "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
-  ],
-  [
-    "family",
-    18,
-    "https://www.theguardian.com/artanddesign/2026/jul/29/gaza-beekeeper-refusing-to-let-war-end-lifes-work"
-  ],
-  [
-    "record",
-    17,
-    "https://www.theguardian.com/music/2026/jul/29/ella-langley-choosin-texas-song-of-the-year"
-  ],
-  [
-    "covid",
-    17,
-    "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates"
-  ],
-  [
-    "rand",
-    17,
-    "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates"
-  ],
-  [
-    "food",
-    17,
-    "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki"
-  ],
-  [
-    "sen",
-    17,
-    "https://www.npr.org/2026/07/29/nx-s1-5910542/fauci-rand-paul-diary-coronavirus-origin-lab-leak-hearing"
-  ],
-  [
-    "heat",
-    16,
-    "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html"
-  ],
-  [
-    "least",
-    16,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "experts",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/jul/29/wildfires-rage-world-climate-action-scientists-fossil-fuels"
-  ],
-  [
-    "china",
-    15,
-    "https://www.nytimes.com/2026/07/29/business/economy/trump-tariffs-china.html"
-  ],
-  [
-    "japan",
-    15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "crash",
-    15,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
-  ],
-  [
-    "hot",
-    15,
-    "https://www.theguardian.com/music/2026/jul/29/ella-langley-choosin-texas-song-of-the-year"
-  ],
-  [
-    "place",
-    15,
-    "https://www.theguardian.com/artanddesign/photography-blog/live/2026/jul/28/what-makes-the-perfect-news-image-ask-our-head-of-photography-your-questions-now"
-  ],
-  [
-    "committee",
-    15,
-    "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates"
-  ],
-  [
-    "earthquake",
-    15,
-    "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "night",
-    15,
-    "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki"
+    19,
+    "https://www.theguardian.com/culture/2026/jul/29/jordan-klepper-trump-heckled"
   ],
   [
-    "fifa",
+    "body",
+    18,
+    "https://www.nytimes.com/2026/07/29/opinion/health-data-trend-body.html"
+  ],
+  [
+    "million",
+    18,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "hearing",
+    18,
+    "https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-hearing-covid"
+  ],
+  [
+    "rates",
+    18,
+    "https://www.theguardian.com/business/2026/jul/29/federal-reserve-interest-rates"
+  ],
+  [
+    "california",
+    17,
+    "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
+  ],
+  [
+    "anthony",
+    17,
+    "https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-hearing-covid"
+  ],
+  [
+    "again",
+    17,
+    "https://www.theguardian.com/business/2026/jul/29/federal-reserve-interest-rates"
+  ],
+  [
+    "hours",
+    17,
+    "https://www.theguardian.com/music/2026/jul/29/odyssey-christopher-nolan-opera-greek-myths"
+  ],
+  [
+    "family",
+    17,
+    "https://www.theguardian.com/sport/2026/jul/29/eric-bieniemy-wife-mia-bieniemy-shooting-icu-progress"
+  ],
+  [
+    "trial",
+    17,
+    "https://www.theguardian.com/uk-news/2026/jul/29/triple-killer-who-dismembered-bodies-of-two-friends-given-whole-life-jail-sentence"
+  ],
+  [
+    "interest",
+    16,
+    "https://www.theguardian.com/business/2026/jul/29/federal-reserve-interest-rates"
+  ],
+  [
+    "kitchen",
+    16,
+    "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
+  ],
+  [
+    "buying",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/jul/29/tv-speakers-soundbars"
+  ],
+  [
+    "pop",
     15,
-    "https://www.theguardian.com/football/2026/jul/29/concacaf-joins-criticism-of-fifa-infantino-plan-to-sell-off-world-cup-stakes-to-private-investors"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
     "because",
@@ -196,64 +166,94 @@
     "https://www.theguardian.com/us-news/2026/jul/29/california-ocean-rescue-teen-lifeguard"
   ],
   [
-    "states",
-    14,
-    "https://www.nytimes.com/2026/07/29/world/middleeast/jordan-us-military-iran-war.html"
+    "sexual",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/29/jared-leto-hollywoods-dark-secret-review-abuse-allegations-bbc-iplayer-youtube"
   ],
   [
-    "hollywood",
-    14,
-    "https://www.nytimes.com/2026/07/29/movies/john-leguizamo-the-odyssey-christopher-nolan.html"
+    "covid",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-hearing-covid"
   ],
   [
-    "director",
-    14,
-    "https://www.nytimes.com/2026/07/29/us/james-comey-seashells-trump-secret-service.html"
+    "food",
+    15,
+    "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki"
   ],
   [
-    "california",
+    "fewer",
+    14,
+    "https://www.nytimes.com/2026/07/29/climate/france-spain-europe-megafires.html"
+  ],
+  [
+    "heat",
+    14,
+    "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html"
+  ],
+  [
+    "water",
+    14,
+    "https://www.washingtonpost.com/nation/2026/07/29/denvers-drought-turns-lawncare-into-neighborhood-divide/"
+  ],
+  [
+    "black",
     14,
     "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
   ],
   [
-    "questions",
+    "york",
     14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
   ],
   [
-    "released",
+    "attack",
     14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "little",
+    "hollywood",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/jul/29/tv-speakers-soundbars"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "buying",
+    "review",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/jul/29/tv-speakers-soundbars"
+    "https://www.theguardian.com/tv-and-radio/2026/jul/29/jared-leto-hollywoods-dark-secret-review-abuse-allegations-bbc-iplayer-youtube"
   ],
   [
-    "democratic",
+    "post",
     14,
-    "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates"
+    "https://www.theguardian.com/us-news/2026/jul/29/james-comey-secret-service-seashells-investigation-trump"
   ],
   [
-    "season",
+    "experts",
     14,
-    "https://www.theguardian.com/world/2026/jul/29/canada-wildfire-emergency-agency"
+    "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe"
   ],
   [
-    "agency",
+    "south",
     14,
-    "https://www.theguardian.com/world/2026/jul/29/canada-wildfire-emergency-agency"
+    "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe"
   ],
   [
-    "kitchen",
+    "place",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/28/our-place-wonder-oven-pro-sale"
+    "https://www.theguardian.com/media/2026/jul/29/four-women-accuse-jared-leto-criminal-sexual-conduct-teenagers"
+  ],
+  [
+    "music",
+    14,
+    "https://www.theguardian.com/music/2026/jul/29/bts-withdraw-grammys-asian-pop-category"
+  ],
+  [
+    "bieniemy",
+    14,
+    "https://www.theguardian.com/sport/2026/jul/29/eric-bieniemy-wife-mia-bieniemy-shooting-icu-progress"
+  ],
+  [
+    "murder",
+    14,
+    "https://www.theguardian.com/world/2026/jul/29/russia-accuses-telegram-founder-of-aiding-terrorism-pavel-durov"
   ],
   [
     "actually",
@@ -261,24 +261,9 @@
     "https://www.nytimes.com/2026/07/29/opinion/health-data-trend-body.html"
   ],
   [
-    "history",
+    "questions",
     13,
-    "https://www.nytimes.com/2026/07/29/opinion/language-musuems-history-age-well.html"
-  ],
-  [
-    "gaza",
-    13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "backed",
-    13,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "air",
-    13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "team",
@@ -286,34 +271,44 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "review",
+    "american",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/29/jared-leto-hollywoods-dark-secret-review-abuse-allegations-bbc-iplayer-youtube"
-  ],
-  [
-    "fifth",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates"
-  ],
-  [
-    "security",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates"
-  ],
-  [
-    "forces",
-    13,
-    "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces"
-  ],
-  [
-    "middle",
-    13,
-    "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces"
+    "https://www.theguardian.com/commentisfree/2026/jul/29/us-decline-world-order-replacement"
   ],
   [
     "primary",
     13,
-    "https://www.theguardian.com/uk-news/2026/jul/29/why-us-military-prosecutes-alleged-rapes-of-women-in-uk-as-sexual-assaults"
+    "https://www.theguardian.com/us-news/2026/jul/29/free-childcare-wins-midterm-election-votes"
+  ],
+  [
+    "donald",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-hearing-covid"
+  ],
+  [
+    "filter",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jul/29/tv-speakers-soundbars"
+  ],
+  [
+    "guide",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jul/29/tv-speakers-soundbars"
+  ],
+  [
+    "record",
+    13,
+    "https://www.theguardian.com/music/2026/jul/29/ella-langley-choosin-texas-song-of-the-year"
+  ],
+  [
+    "hot",
+    13,
+    "https://www.theguardian.com/music/2026/jul/29/ella-langley-choosin-texas-song-of-the-year"
+  ],
+  [
+    "middle",
+    13,
+    "https://www.theguardian.com/us-news/video/2026/jul/29/iran-forever-war-stateside-podcast"
   ],
   [
     "feel",
@@ -321,58 +316,63 @@
     "https://www.theguardian.com/us-news/2026/jul/29/howard-university-hbcus-black-education"
   ],
   [
+    "wife",
+    13,
+    "https://www.theguardian.com/sport/2026/jul/29/eric-bieniemy-wife-mia-bieniemy-shooting-icu-progress"
+  ],
+  [
     "sleep",
     13,
     "https://www.theguardian.com/thefilter-us/2025/oct/24/sleep-gadgets-aids-tech"
   ],
   [
-    "pandemic",
+    "committee",
     12,
-    "https://www.nytimes.com/2026/07/28/us/politics/fauci-diary-fame.html"
+    "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-weaponization-payouts.html"
   ],
   [
-    "watch",
+    "comey",
     12,
-    "https://www.nytimes.com/2026/07/29/business/federal-reserve-july-meeting.html"
+    "https://www.nytimes.com/2026/07/29/us/james-comey-seashells-trump-secret-service.html"
   ],
   [
-    "actor",
+    "director",
     12,
-    "https://www.nytimes.com/2026/07/29/movies/john-leguizamo-the-odyssey-christopher-nolan.html"
+    "https://www.nytimes.com/2026/07/29/us/james-comey-seashells-trump-secret-service.html"
   ],
   [
-    "south",
+    "latest",
     12,
-    "https://www.nytimes.com/2026/07/29/us/politics/trump-cuban-deportees-uruguay.html"
+    "https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html"
   ],
   [
-    "body",
+    "air",
     12,
-    "https://www.nytimes.com/2026/07/29/opinion/health-data-trend-body.html"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "water",
+    "ice",
     12,
-    "https://www.washingtonpost.com/nation/2026/07/29/denvers-drought-turns-lawncare-into-neighborhood-divide/"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "attacks",
+    "released",
     12,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "strike",
+    "something",
     12,
-    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+    "https://www.theguardian.com/tv-and-radio/2026/jul/29/jared-leto-hollywoods-dark-secret-review-abuse-allegations-bbc-iplayer-youtube"
   ],
   [
-    "workers",
+    "kids",
     12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.theguardian.com/us-news/2026/jul/29/free-childcare-wins-midterm-election-votes"
   ],
   [
-    "past",
+    "care",
     12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.theguardian.com/us-news/2026/jul/29/free-childcare-wins-midterm-election-votes"
   ]
 ];
