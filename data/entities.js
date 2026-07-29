@@ -2,45 +2,57 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Trump Loved Graham",
+      "name": "Donald Trump",
       "count": 32,
-      "url": "https://www.nytimes.com/2026/07/28/us/politics/trump-graham-senate.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/zelenskyy-and-netanyahu-brave-the-whims-of-trumps-darkly-confounding-white-house",
+      "source": "The Guardian"
     },
     {
       "name": "Lindsey Graham",
-      "count": 20,
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
-      "source": "The Guardian"
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-trump-dc.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jay Clayton",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html",
+      "source": "NY Times"
     },
     {
       "name": "Benjamin Netanyahu",
-      "count": 16,
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump",
       "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/jul/28/trump-rfk-jr-cutting-vaccines",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Plas Johnson",
-      "count": 10,
-      "url": "https://www.theguardian.com/music/2026/jul/27/plas-johnson-obituary",
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/zelenskyy-and-netanyahu-brave-the-whims-of-trumps-darkly-confounding-white-house",
       "source": "The Guardian"
     },
     {
       "name": "Volodymyr Zelenskyy",
       "count": 9,
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/zelenskyy-and-netanyahu-brave-the-whims-of-trumps-darkly-confounding-white-house",
       "source": "The Guardian"
     },
     {
-      "name": "Joe Biden",
+      "name": "Plas Johnson",
+      "count": 8,
+      "url": "https://www.theguardian.com/music/2026/jul/27/plas-johnson-obituary",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Larry Rhoden",
       "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/jul/28/joe-biden-audio-tapes",
+      "url": "https://www.nytimes.com/2026/07/28/us/rhoden-wins-south-dakota-governor-republican-primary.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Anthony Fauci",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/trump-administration-fauci-scientists",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gavin Newsom",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/gavin-newsom-ruby-rippey-affair-vanity-fair",
       "source": "The Guardian"
     },
     {
@@ -48,155 +60,19 @@
       "count": 5,
       "url": "https://www.theguardian.com/music/2026/jul/26/shania-twain-honest-playlist-abba-harry-styles-phantom-opera",
       "source": "The Guardian"
-    },
-    {
-      "name": "Mitch Mcconnell",
-      "count": 5,
-      "url": "https://www.nbcnews.com/video/kentucky-gov-beshear-demands-transparency-on-mcconnell-s-health-267404357656",
-      "source": "NBC News"
-    },
-    {
-      "name": "Glp-1S",
-      "count": 4,
-      "url": "https://www.theguardian.com/wellness/2026/jul/28/tips-sleeping-hot-weather",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Administration",
-      "count": 47,
-      "url": "https://www.theguardian.com/us-news/2026/jul/28/trump-administration-fauci-scientists",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 22,
-      "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Democratic Maine Senate",
-      "count": 15,
-      "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
-      "source": "Politico"
-    },
-    {
-      "name": "The White House",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/jul/28/trump-rfk-jr-cutting-vaccines",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Fifa",
-      "count": 11,
-      "url": "https://www.theguardian.com/football/2026/jul/28/fifa-plan-sell-world-cup-commercial-rights-uefa-hits-out",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 10,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/07/28/opinion/alaska-pilot-beer-constitution-eighth-amendment.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Congress",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/28/barron-trump-tate-brothers-congress",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian Faber Publishing",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/28/gianni-infantino-world-cup-fifa-instagram",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ebay",
-      "count": 7,
-      "url": "https://www.theguardian.com/technology/2026/jul/28/ebay-harassment-lawsuit-settlement",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 48,
-      "url": "https://www.theguardian.com/us-news/2026/jul/28/mumia-abu-jamal-un-jail",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California City",
-      "count": 20,
-      "url": "https://www.theguardian.com/us-news/2026/jul/28/california-ice-detention-healthcare-violation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Ukraine",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/video/2026/jul/28/why-so-many-american-jews-are-turning-away-from-israel-video",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Japan",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-damage.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Florida",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/nation/2026/07/28/schools-are-adding-pepper-spraying-drones-help-combat-active-shooters/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Uk",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/28/barron-trump-tate-brothers-congress",
-      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 14,
+      "count": 12,
       "url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-22/world-cup-2026-ratings-why-tv-viewers-love-the-beautiful-game",
       "source": "LA Times"
     },
     {
       "name": "The World Cup",
       "count": 7,
-      "url": "https://www.theguardian.com/football/2026/jul/28/fifa-plan-sell-world-cup-commercial-rights-uefa-hits-out",
+      "url": "https://www.theguardian.com/football/2026/jul/28/fifa-world-cup-plans-explained-gianni-infantino-uefa-football",
       "source": "The Guardian"
     },
     {
@@ -210,24 +86,6 @@
       "count": 3,
       "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/saudi-2034-schedule-2035-01004717",
       "source": "Politico"
-    },
-    {
-      "name": "The Iran War Just Put Another Key Oil Route At Risk",
-      "count": 2,
-      "url": "https://www.nytimes.com/video/business/energy-environment/100000011050115/red-sea-blockade-oil-route.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Toulouse 24 Hours",
-      "count": 1,
-      "url": "https://www.theguardian.com/business/2026/jul/28/qantas-plane-flies-for-more-than-24-hours-in-record-breaking-flight",
-      "source": "The Guardian"
-    },
-    {
-      "name": "A Year Of Hope, Hardship",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/jul/28/joe-biden-audio-tapes",
-      "source": "The Guardian"
     },
     {
       "name": "Shark Week",
@@ -246,7 +104,143 @@
       "count": 1,
       "url": "https://www.latimes.com/world-nation/story/2026-07-24/he-was-homeless-in-la-now-hes-accused-of-hurling-racist-slurs-at-today-host",
       "source": "LA Times"
+    },
+    {
+      "name": "Iran War",
+      "count": 1,
+      "url": "https://www.cbsnews.com/video/trump-meets-with-netanyahu-for-first-time-since-iran-war/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The World Cup'S",
+      "count": 1,
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/china-qualification-soccer-future-01004659",
+      "source": "Politico"
     }
   ],
-  "updated": "2026-07-28T20:18:57Z"
+  "ORG": [
+    {
+      "name": "Trump Administration",
+      "count": 50,
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/trump-administration-fauci-scientists",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Democratic Maine Senate",
+      "count": 21,
+      "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
+      "source": "Politico"
+    },
+    {
+      "name": "The White House",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/trump-rfk-jr-cutting-vaccines",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fifa",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/28/gianni-infantino-world-cup-fifa-instagram",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/28/rogue-ai-agent-instructions",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian Faber Publishing",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/28/gianni-infantino-world-cup-fifa-instagram",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The New York Times",
+      "count": 7,
+      "url": "https://www.theguardian.com/media/2026/jul/28/60-minutes-new-correspondent-nyt-ross-douthat",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ebay",
+      "count": 7,
+      "url": "https://www.theguardian.com/technology/2026/jul/28/ebay-harassment-lawsuit-settlement",
+      "source": "The Guardian"
+    },
+    {
+      "name": "House Oversight Committee",
+      "count": 7,
+      "url": "https://thehill.com/homenews/5995368-comer-warns-fauci-congress/",
+      "source": "The Hill"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 59,
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/zelenskyy-and-netanyahu-brave-the-whims-of-trumps-darkly-confounding-white-house",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/iran-ukraine-tensions.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/07/28/us/duress-password-phone-wipe-charge.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 16,
+      "url": "https://www.foxnews.com/media/israeli-pm-benjamin-netanyahu-vows-visit-new-york-despite-mamdani-repeated-calls-arrest",
+      "source": "Fox News"
+    },
+    {
+      "name": "Tours De France",
+      "count": 15,
+      "url": "https://www.theguardian.com/sport/2026/jul/28/motorbikes-and-mountains-photographing-the-2026-tour-de-france-photo-essay",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Wisconsin",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/wisconsin-tornado",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California City",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/california-ice-detention-healthcare-violation",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ukraine",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/trump-zelensky-netanyahu-wars.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "China",
+      "count": 10,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Israel",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/trump-zelensky-netanyahu-wars.html",
+      "source": "NY Times"
+    }
+  ],
+  "updated": "2026-07-29T04:15:47Z"
 };
