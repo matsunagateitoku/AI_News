@@ -2,28 +2,43 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    88,
+    82,
     "https://www.nytimes.com/2026/07/28/us/politics/trump-zelensky-netanyahu-wars.html"
   ],
   [
     "president",
-    40,
+    35,
     "https://www.nytimes.com/2026/07/28/us/politics/trump-zelensky-netanyahu-wars.html"
   ],
   [
-    "film",
-    30,
-    "https://www.theguardian.com/film/2026/jul/28/spider-man-brand-new-day-review-zendaya-saves-tom-hollands-semi-cronenberg-style-superhero"
-  ],
-  [
     "iran",
-    29,
+    27,
     "https://www.nytimes.com/2026/07/28/us/politics/iran-ukraine-tensions.html"
   ],
   [
-    "director",
+    "york",
+    27,
+    "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
+  ],
+  [
+    "war",
     26,
-    "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html"
+    "https://www.nytimes.com/2026/07/28/us/politics/iran-ukraine-tensions.html"
+  ],
+  [
+    "million",
+    26,
+    "https://www.nytimes.com/2026/07/28/us/politics/trump-supreme-court-carroll.html"
+  ],
+  [
+    "south",
+    26,
+    "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-trump-dc.html"
+  ],
+  [
+    "film",
+    25,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/29/shadow-world-breaking-the-cycle-bradley-club-7-bbc-sounds-podcast"
   ],
   [
     "food",
@@ -31,64 +46,44 @@
     "https://www.theguardian.com/us-news/2026/jul/28/cyclosporiasis-outbreak-us-food-safety"
   ],
   [
-    "war",
-    24,
-    "https://www.nytimes.com/2026/07/28/us/politics/iran-ukraine-tensions.html"
+    "american",
+    23,
+    "https://www.nytimes.com/2026/07/29/world/middleeast/jordan-us-military-iran-war.html"
   ],
   [
     "senate",
-    24,
+    22,
     "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html"
   ],
   [
-    "york",
-    24,
-    "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
-  ],
-  [
-    "cup",
+    "health",
     21,
-    "https://www.theguardian.com/commentisfree/2026/jul/28/gianni-infantino-world-cup-fifa-instagram"
+    "https://www.nytimes.com/2026/07/29/opinion/health-data-trend-body.html"
   ],
   [
-    "ice",
+    "director",
     20,
-    "https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html"
+    "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html"
   ],
   [
-    "million",
+    "school",
     20,
-    "https://www.nytimes.com/2026/07/28/us/politics/trump-supreme-court-carroll.html"
+    "https://www.nytimes.com/2026/07/28/arts/music/jeffrey-epstein-interlochen-arts-abuse.html"
   ],
   [
-    "graham",
+    "air",
     20,
-    "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-trump-dc.html"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "south",
+    "released",
     20,
-    "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-trump-dc.html"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "summer",
     20,
-    "https://www.theguardian.com/culture/2026/jul/28/black-motorcycle-clubs-culture"
-  ],
-  [
-    "power",
-    19,
-    "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-trump-dc.html"
-  ],
-  [
-    "health",
-    19,
-    "https://www.theguardian.com/us-news/2026/jul/28/cyclosporiasis-outbreak-us-food-safety"
-  ],
-  [
-    "american",
-    18,
-    "https://www.nytimes.com/2026/07/29/world/middleeast/some-jordanians-dare-to-speak-out-against-us-troop-presence.html"
+    "https://www.theguardian.com/world/2026/jul/29/extreme-heat-deaths-india-climate-crisis-environment"
   ],
   [
     "court",
@@ -96,9 +91,24 @@
     "https://www.nytimes.com/2026/07/28/us/politics/trump-supreme-court-carroll.html"
   ],
   [
-    "released",
+    "graham",
     18,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-trump-dc.html"
+  ],
+  [
+    "experts",
+    18,
+    "https://www.nytimes.com/2026/07/28/well/longevity-expert-tips-middle-age.html"
+  ],
+  [
+    "night",
+    18,
+    "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates"
+  ],
+  [
+    "sen",
+    18,
+    "https://www.npr.org/2026/07/29/nx-s1-5910542/fauci-rand-paul-diary-coronavirus-origin-lab-leak-hearing"
   ],
   [
     "country",
@@ -106,57 +116,72 @@
     "https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html"
   ],
   [
-    "air",
+    "attack",
     17,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
   ],
   [
-    "france",
+    "climate",
     17,
-    "https://www.theguardian.com/us-news/2026/jul/28/diplomats-un-walkout-france-human-rights-trump-record"
+    "https://www.theguardian.com/commentisfree/2026/jul/29/wildfires-rage-world-climate-action-scientists-fossil-fuels"
   ],
   [
-    "sen",
+    "cup",
     17,
-    "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral"
+    "https://www.theguardian.com/commentisfree/2026/jul/28/gianni-infantino-world-cup-fifa-instagram"
   ],
   [
-    "lindsey",
-    16,
-    "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-trump-dc.html"
-  ],
-  [
-    "family",
-    16,
-    "https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html"
-  ],
-  [
-    "sleep",
-    16,
-    "https://www.theguardian.com/wellness/2026/jul/28/tips-sleeping-hot-weather"
-  ],
-  [
-    "late",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/28/mary-beth-barone-netflix-special-interview"
-  ],
-  [
-    "intelligence",
-    15,
-    "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html"
-  ],
-  [
-    "experts",
-    15,
-    "https://www.nytimes.com/2026/07/28/well/longevity-expert-tips-middle-age.html"
+    "shark",
+    17,
+    "https://www.theguardian.com/film/2026/jul/29/the-devils-mouth-review-amazon-shark-thriller"
   ],
   [
     "primary",
-    15,
+    16,
     "https://www.nytimes.com/2026/07/28/us/rhoden-wins-south-dakota-governor-republican-primary.html"
   ],
   [
     "least",
+    16,
+    "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-rescue-survivors.html"
+  ],
+  [
+    "late",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/28/new-york-resident-college-admission-howard-university"
+  ],
+  [
+    "sleep",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/jul/28/christopher-nolan-sex-the-odyssey"
+  ],
+  [
+    "case",
+    15,
+    "https://www.nytimes.com/2026/07/28/us/politics/trump-supreme-court-carroll.html"
+  ],
+  [
+    "questions",
+    15,
+    "https://www.nytimes.com/2026/07/28/us/politics/mitch-mcconnell-andy-beshear.html"
+  ],
+  [
+    "race",
+    15,
+    "https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html"
+  ],
+  [
+    "family",
+    15,
+    "https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html"
+  ],
+  [
+    "hot",
+    15,
+    "https://www.nytimes.com/2026/07/28/nyregion/noncitizen-voting-new-jersey-sherrill.html"
+  ],
+  [
+    "japan",
     15,
     "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-rescue-survivors.html"
   ],
@@ -166,19 +191,9 @@
     "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/"
   ],
   [
-    "night",
-    15,
-    "https://www.theguardian.com/wellness/2026/jul/28/tips-sleeping-hot-weather"
-  ],
-  [
     "kitchen",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/28/our-place-wonder-oven-pro-sale"
-  ],
-  [
-    "wisconsin",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/28/wisconsin-tornado"
+    "https://www.theguardian.com/environment/2026/jul/28/extreme-rainfall-asia-flash-floods-typhoons-climate-change"
   ],
   [
     "pasta",
@@ -186,9 +201,29 @@
     "https://www.theguardian.com/food/2026/jul/28/tears-at-dinner-time-the-science-to-rolling-out-fresh-pasta"
   ],
   [
-    "case",
+    "political",
     14,
-    "https://www.nytimes.com/2026/07/28/us/politics/trump-supreme-court-carroll.html"
+    "https://www.nytimes.com/2026/07/29/world/middleeast/jordan-us-military-iran-war.html"
+  ],
+  [
+    "intelligence",
+    14,
+    "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html"
+  ],
+  [
+    "hours",
+    14,
+    "https://www.nytimes.com/2026/07/28/us/politics/spy-chief-bill-pulte-final-hours.html"
+  ],
+  [
+    "power",
+    14,
+    "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-trump-dc.html"
+  ],
+  [
+    "lindsey",
+    14,
+    "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-trump-dc.html"
   ],
   [
     "governor",
@@ -196,49 +231,69 @@
     "https://www.nytimes.com/2026/07/28/us/politics/mitch-mcconnell-andy-beshear.html"
   ],
   [
-    "feel",
+    "seat",
     14,
-    "https://www.theguardian.com/wellness/2026/jul/28/tips-sleeping-hot-weather"
+    "https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html"
   ],
   [
-    "east",
+    "earthquake",
     14,
-    "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces"
+    "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-rescue-survivors.html"
+  ],
+  [
+    "fauci",
+    14,
+    "https://www.nytimes.com/2026/07/28/us/politics/fauci-diary-fame.html"
+  ],
+  [
+    "middle",
+    14,
+    "https://www.theguardian.com/artanddesign/photography-blog/live/2026/jul/28/what-makes-the-perfect-news-image-ask-our-head-of-photography-your-questions-now"
+  ],
+  [
+    "place",
+    14,
+    "https://www.theguardian.com/artanddesign/2026/jul/29/gaza-beekeeper-refusing-to-let-war-end-lifes-work"
   ],
   [
     "death",
     14,
-    "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-death-aftershocks"
+    "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates"
   ],
   [
-    "buying",
+    "near",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/23/too-hot-to-cook-air-fryer"
+    "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates"
   ],
   [
-    "political",
-    13,
-    "https://www.nytimes.com/2026/07/29/world/middleeast/some-jordanians-dare-to-speak-out-against-us-troop-presence.html"
+    "love",
+    14,
+    "https://www.theguardian.com/music/2026/jul/29/ella-langley-choosin-texas-song-of-the-year"
   ],
   [
     "states",
     13,
-    "https://www.nytimes.com/2026/07/29/world/middleeast/some-jordanians-dare-to-speak-out-against-us-troop-presence.html"
+    "https://www.nytimes.com/2026/07/29/world/middleeast/jordan-us-military-iran-war.html"
   ],
   [
-    "clayton",
+    "israel",
     13,
-    "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html"
+    "https://www.nytimes.com/2026/07/28/us/politics/trump-zelensky-netanyahu-wars.html"
   ],
   [
-    "community",
+    "ukraine",
     13,
-    "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html"
+    "https://www.nytimes.com/2026/07/28/us/politics/trump-zelensky-netanyahu-wars.html"
   ],
   [
-    "democratic",
+    "others",
     13,
-    "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html"
+    "https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html"
+  ],
+  [
+    "because",
+    13,
+    "https://www.nytimes.com/2026/07/28/us/duress-password-phone-wipe-charge.html"
   ],
   [
     "care",
@@ -246,109 +301,59 @@
     "https://www.nytimes.com/2026/07/28/well/longevity-expert-tips-middle-age.html"
   ],
   [
-    "race",
+    "republican",
     13,
     "https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html"
   ],
   [
-    "hot",
+    "runoff",
     13,
-    "https://www.nytimes.com/2026/07/28/nyregion/noncitizen-voting-new-jersey-sherrill.html"
+    "https://www.nytimes.com/2026/07/28/us/rhoden-wins-south-dakota-governor-republican-primary.html"
   ],
   [
-    "thousands",
+    "gaza",
     13,
-    "https://www.nytimes.com/2026/07/28/nyregion/noncitizen-voting-new-jersey-sherrill.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "school",
-    13,
-    "https://www.nytimes.com/2026/07/28/arts/music/jeffrey-epstein-interlochen-arts-abuse.html"
-  ],
-  [
-    "ago",
-    13,
-    "https://www.nytimes.com/2026/07/28/arts/music/jeffrey-epstein-interlochen-arts-abuse.html"
-  ],
-  [
-    "fauci",
-    13,
-    "https://www.nytimes.com/2026/07/28/us/politics/fauci-diary-fame.html"
-  ],
-  [
-    "immigration",
+    "early",
     13,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "donald",
+    "france",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/28/zelenskyy-and-netanyahu-brave-the-whims-of-trumps-darkly-confounding-white-house"
+    "https://www.theguardian.com/commentisfree/2026/jul/29/wildfires-rage-world-climate-action-scientists-fossil-fuels"
   ],
   [
-    "actually",
+    "paul",
     13,
-    "https://www.theguardian.com/film/2026/jul/28/spider-man-brand-new-day-review-zendaya-saves-tom-hollands-semi-cronenberg-style-superhero"
+    "https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-hearing-covid"
   ],
   [
     "police",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/28/florida-executes-first-of-two-men-single-day"
+    "https://www.theguardian.com/uk-news/2026/jul/29/why-us-military-prosecutes-alleged-rapes-of-women-in-uk-as-sexual-assaults"
   ],
   [
-    "security",
+    "feel",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/28/diplomats-un-walkout-france-human-rights-trump-record"
+    "https://www.theguardian.com/tv-and-radio/2026/jul/27/the-no-1-ladies-detective-agency-creator-best-podcasts-of-the-week"
   ],
   [
-    "near",
+    "buying",
     13,
-    "https://www.theguardian.com/music/2026/jul/28/metal-masters-mastodon-on-loss-of-brent-hinds-new-album-marrow-deep-interview"
+    "https://www.theguardian.com/lifeandstyle/2026/jul/23/too-hot-to-cook-air-fryer"
   ],
   [
-    "strike",
-    12,
-    "https://www.nytimes.com/2026/07/28/us/politics/iran-ukraine-tensions.html"
-  ],
-  [
-    "netanyahu",
-    12,
-    "https://www.nytimes.com/2026/07/28/us/politics/trump-zelensky-netanyahu-wars.html"
-  ],
-  [
-    "agents",
-    12,
-    "https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html"
-  ],
-  [
-    "others",
-    12,
-    "https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html"
-  ],
-  [
-    "because",
-    12,
-    "https://www.nytimes.com/2026/07/28/us/duress-password-phone-wipe-charge.html"
-  ],
-  [
-    "jay",
+    "community",
     12,
     "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html"
   ],
   [
-    "nearly",
+    "bill",
     12,
-    "https://www.nytimes.com/2026/07/28/us/politics/spy-chief-bill-pulte-final-hours.html"
-  ],
-  [
-    "republican",
-    12,
-    "https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html"
-  ],
-  [
-    "seat",
-    12,
-    "https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html"
+    "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html"
   ],
   [
     "full",
@@ -356,23 +361,18 @@
     "https://www.nytimes.com/2026/07/28/us/rhoden-wins-south-dakota-governor-republican-primary.html"
   ],
   [
-    "runoff",
+    "thousands",
     12,
-    "https://www.nytimes.com/2026/07/28/us/rhoden-wins-south-dakota-governor-republican-primary.html"
+    "https://www.nytimes.com/2026/07/28/nyregion/noncitizen-voting-new-jersey-sherrill.html"
   ],
   [
-    "party",
+    "ago",
     12,
-    "https://www.nytimes.com/2026/07/28/us/politics/fauci-diary-fame.html"
+    "https://www.nytimes.com/2026/07/28/arts/music/jeffrey-epstein-interlochen-arts-abuse.html"
   ],
   [
-    "homes",
+    "actually",
     12,
-    "https://www.washingtonpost.com/lifestyle/2026/07/28/grandma-fought-bill-allow-happy-hour-minnesota-senior-homes/"
-  ],
-  [
-    "video",
-    12,
-    "https://www.washingtonpost.com/nation/2026/07/27/federal-probe-investigates-viral-video-showing-attack-sea-lion/"
+    "https://www.nytimes.com/2026/07/29/opinion/health-data-trend-body.html"
   ]
 ];
