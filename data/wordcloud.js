@@ -2,173 +2,178 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    57,
-    "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html"
-  ],
-  [
-    "senate",
-    42,
-    "https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html"
-  ],
-  [
-    "fauci",
-    35,
-    "https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html"
+    56,
+    "https://www.nytimes.com/2026/07/30/briefing/president-trump-james-comey.html"
   ],
   [
     "iran",
-    33,
-    "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html"
+    28,
+    "https://www.nytimes.com/2026/07/30/business/federal-reserve-inflation-iran-war.html"
   ],
   [
-    "president",
-    29,
-    "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html"
+    "health",
+    27,
+    "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries"
   ],
   [
-    "cup",
-    29,
-    "https://www.theguardian.com/commentisfree/picture/2026/jul/29/ben-jennings-gianni-infantino-donald-trumps-fifa-world-cup-cartoon"
+    "country",
+    25,
+    "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html"
   ],
   [
     "war",
-    28,
-    "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html"
-  ],
-  [
-    "summer",
-    25,
-    "https://www.nytimes.com/2026/07/29/style/devyn-dalton-matt-damon-stuntwoman-odyssey.html"
-  ],
-  [
-    "film",
     24,
-    "https://www.theguardian.com/music/2026/jul/29/odyssey-christopher-nolan-opera-greek-myths"
+    "https://www.nytimes.com/2026/07/30/business/federal-reserve-inflation-iran-war.html"
   ],
   [
-    "hearing",
+    "senate",
+    24,
+    "https://www.theguardian.com/us-news/2026/jul/29/ghislaine-maxwell-pardon-senate-resolution"
+  ],
+  [
+    "president",
+    23,
+    "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html"
+  ],
+  [
+    "food",
+    23,
+    "https://www.nytimes.com/2026/07/30/us/boyle-heights-warehouse-fire-smell.html"
+  ],
+  [
+    "fauci",
+    23,
+    "https://www.nytimes.com/2026/07/29/opinion/anthony-fauci-hearing-covid.html"
+  ],
+  [
+    "family",
     22,
-    "https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html"
+    "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html"
+  ],
+  [
+    "americans",
+    21,
+    "https://www.nytimes.com/2026/07/30/opinion/american-gerontocracy-samuel-moyn.html"
+  ],
+  [
+    "california",
+    21,
+    "https://www.nytimes.com/2026/07/30/us/pinot-noir-california-wine-sales-decline.html"
   ],
   [
     "court",
-    22,
-    "https://www.theguardian.com/technology/2026/jul/29/xai-sues-minnesota-nudification-technology"
+    21,
+    "https://www.theguardian.com/us-news/2026/jul/30/black-voters-south-republican-maps"
   ],
   [
-    "attack",
-    20,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "summer",
+    21,
+    "https://www.theguardian.com/world/2026/jul/30/europe-burns-france-spain-visual-guide-wildfires"
   ],
   [
     "fifa",
     20,
-    "https://www.theguardian.com/commentisfree/2026/jul/29/the-guardian-view-on-selling-off-the-world-cup-a-red-card-offence-by-gianni-infantino"
+    "https://www.theguardian.com/football/2026/jul/30/fifa-sales-pitch-revealed-more-tournaments-debt-womens-game-omitted"
   ],
   [
-    "million",
+    "review",
     19,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.theguardian.com/books/2026/jul/30/i-had-a-really-crippling-break-how-author-michael-thomas-lost-20-years-to-mania-depression-and-more"
   ],
   [
     "police",
     19,
-    "https://www.theguardian.com/uk-news/2026/jul/30/uk-ministers-police-justice-review-us-military"
+    "https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv"
   ],
   [
-    "fifth",
+    "cup",
+    19,
+    "https://www.theguardian.com/football/2026/jul/30/fifa-sales-pitch-revealed-more-tournaments-debt-womens-game-omitted"
+  ],
+  [
+    "south",
     18,
-    "https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html"
+    "https://www.theguardian.com/commentisfree/2026/jul/30/europe-burning-trump-war-climate-sanctions-white-house"
   ],
   [
-    "covid",
+    "cbs",
     18,
-    "https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html"
+    "https://www.theguardian.com/commentisfree/2026/jul/30/cbs-news-ross-douthat-tv-experience"
   ],
   [
-    "family",
-    18,
-    "https://www.theguardian.com/news/ng-interactive/2026/jul/30/body-snatchers-young-nigerian-man-lured-london-organ-trafficking-plot"
-  ],
-  [
-    "food",
-    18,
-    "https://www.theguardian.com/us-news/2026/jul/29/seattle-food-festival-bullets-gun-police"
-  ],
-  [
-    "hours",
+    "europe",
     17,
-    "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-weaponization-payouts.html"
+    "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html"
   ],
   [
-    "climate",
+    "poll",
     17,
-    "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html"
+    "https://www.theguardian.com/us-news/2026/jul/30/trump-approval-rating-poll-midterm-elections"
   ],
   [
-    "hollywood",
+    "republican",
     17,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.theguardian.com/us-news/2026/jul/30/trump-approval-rating-poll-midterm-elections"
   ],
   [
-    "body",
-    17,
-    "https://www.theguardian.com/news/ng-interactive/2026/jul/30/body-snatchers-young-nigerian-man-lured-london-organ-trafficking-plot"
+    "million",
+    16,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
     "young",
-    17,
-    "https://www.theguardian.com/news/ng-interactive/2026/jul/30/body-snatchers-young-nigerian-man-lured-london-organ-trafficking-plot"
+    16,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/30/far-right-college-republicans-america-cra"
   ],
   [
-    "author",
-    17,
-    "https://www.theguardian.com/books/2026/jul/30/i-had-a-really-crippling-break-how-author-michael-thomas-lost-20-years-to-mania-depression-and-more"
+    "american",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/jul/30/alive-body-life-experience"
   ],
   [
-    "anthony",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-hearing-covid"
+    "political",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/jul/30/europe-burning-trump-war-climate-sanctions-white-house"
+  ],
+  [
+    "film",
+    16,
+    "https://www.theguardian.com/film/2026/jul/30/maga-joyce-carol-oates-criticises-emily-wilson-for-criticising-nolans-odyssey"
+  ],
+  [
+    "death",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/30/eric-washington-gun-violence-death"
+  ],
+  [
+    "buying",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
+  ],
+  [
+    "sen",
+    16,
+    "https://www.npr.org/2026/07/30/g-s1-136285/up-first-newsletter-anthony-fauci-covid-asylum-rule-medicare-drug-plan"
+  ],
+  [
+    "fire",
+    15,
+    "https://www.nytimes.com/2026/07/30/world/europe/suffolk-wildfire-uk.html"
+  ],
+  [
+    "hollywood",
+    15,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
     "york",
-    16,
-    "https://www.nytimes.com/2026/07/29/nyregion/mamdani-manhattan-institute-affordability.html"
-  ],
-  [
-    "feel",
-    16,
-    "https://www.nytimes.com/2026/07/29/nyregion/new-york-second-home-tax-rollout-anxiety.html"
-  ],
-  [
-    "country",
-    16,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "sexual",
-    16,
+    15,
     "https://www.theguardian.com/books/2026/jul/30/i-had-a-really-crippling-break-how-author-michael-thomas-lost-20-years-to-mania-depression-and-more"
   ],
   [
-    "children",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/29/lindsay-clancy-massachusetts-mother-trial"
-  ],
-  [
-    "health",
-    16,
-    "https://www.theguardian.com/thefilter-us/2025/oct/24/sleep-gadgets-aids-tech"
-  ],
-  [
-    "night",
+    "primary",
     15,
-    "https://www.nytimes.com/2026/07/30/arts/television/late-night-trump-eulogy-lindsey-graham.html"
-  ],
-  [
-    "middle",
-    15,
-    "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news"
+    "https://www.theguardian.com/uk-news/2026/jul/30/uk-ministers-police-justice-review-us-military"
   ],
   [
     "kitchen",
@@ -176,104 +181,124 @@
     "https://www.theguardian.com/environment/2026/jul/30/house-files-uk-plague-homes"
   ],
   [
-    "democratic",
-    15,
-    "https://www.theguardian.com/environment/2026/jul/26/how-to-keep-cool-in-a-heatwave-from-people-who-know-best"
-  ],
-  [
-    "nomination",
+    "latest",
     14,
-    "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html"
+    "https://www.nytimes.com/2026/07/30/business/dealbook/fed-warsh-credibility-shock.html"
   ],
   [
-    "review",
+    "attack",
     14,
-    "https://www.theguardian.com/books/2026/jul/30/i-had-a-really-crippling-break-how-author-michael-thomas-lost-20-years-to-mania-depression-and-more"
+    "https://www.nytimes.com/2026/07/30/world/middleeast/egyptian-port-attack-suez-canal-vulnerability.html"
   ],
   [
-    "primary",
+    "republicans",
     14,
-    "https://www.theguardian.com/uk-news/2026/jul/30/uk-ministers-police-justice-review-us-military"
+    "https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html"
   ],
   [
-    "east",
+    "space",
     14,
-    "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news"
+    "https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html"
   ],
   [
-    "pandemic",
+    "earlier",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-hearing-covid"
+    "https://www.nytimes.com/2026/07/29/nyregion/midtown-manhattan-conversions-steel.html"
   ],
   [
-    "because",
+    "night",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/29/howard-university-hbcus-black-education"
+    "https://www.nytimes.com/2026/07/30/arts/television/late-night-trump-eulogy-lindsey-graham.html"
   ],
   [
-    "buying",
+    "donald",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/jul/29/tv-speakers-soundbars"
-  ],
-  [
-    "strikes",
-    13,
-    "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html"
-  ],
-  [
-    "questions",
-    13,
-    "https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html"
-  ],
-  [
-    "committee",
-    13,
-    "https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html"
-  ],
-  [
-    "odyssey",
-    13,
-    "https://www.nytimes.com/2026/07/29/style/devyn-dalton-matt-damon-stuntwoman-odyssey.html"
-  ],
-  [
-    "military",
-    13,
-    "https://www.washingtonpost.com/nation/2026/07/29/west-point-professors-free-comment-publicly-school-declines-appeal-ruling/"
+    "https://www.nytimes.com/2026/07/30/arts/television/late-night-trump-eulogy-lindsey-graham.html"
   ],
   [
     "air",
-    13,
+    14,
     "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "little",
-    13,
-    "https://www.theguardian.com/books/2026/jul/30/i-had-a-really-crippling-break-how-author-michael-thomas-lost-20-years-to-mania-depression-and-more"
+    "released",
+    14,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "american",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jul/29/us-decline-world-order-replacement"
+    "black",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/30/controversial-flock-ai-surveillance-camera-risk"
   ],
   [
-    "music",
-    13,
-    "https://www.theguardian.com/music/2026/jul/29/odyssey-christopher-nolan-opera-greek-myths"
+    "anthony",
+    14,
+    "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
+  ],
+  [
+    "democratic",
+    14,
+    "https://www.theguardian.com/environment/2026/jul/26/how-to-keep-cool-in-a-heatwave-from-people-who-know-best"
   ],
   [
     "care",
     13,
-    "https://www.theguardian.com/sport/2026/jul/29/eric-bieniemy-wife-mia-bieniemy-shooting-icu-progress"
+    "https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html"
   ],
   [
-    "media",
+    "office",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/29/jason-cloth-fraud"
+    "https://www.nytimes.com/2026/07/29/nyregion/midtown-manhattan-conversions-steel.html"
   ],
   [
-    "kids",
+    "administration",
     13,
-    "https://www.theguardian.com/games/2026/jul/28/playstation-blackout-august-sony"
+    "https://www.nytimes.com/2026/07/30/briefing/president-trump-james-comey.html"
+  ],
+  [
+    "late",
+    13,
+    "https://www.nytimes.com/2026/07/30/arts/television/late-night-trump-eulogy-lindsey-graham.html"
+  ],
+  [
+    "residents",
+    13,
+    "https://www.washingtonpost.com/nation/2026/07/29/denvers-drought-turns-lawncare-into-neighborhood-divide/"
+  ],
+  [
+    "don",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/30/alive-body-life-experience"
+  ],
+  [
+    "author",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/jul/30/how-harlan-coben-became-the-king-of-potboiler-tv"
+  ],
+  [
+    "ago",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/30/europe-burning-trump-war-climate-sanctions-white-house"
+  ],
+  [
+    "paul",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/30/kaohly-her-st-paul-mayor-sexual-harassment"
+  ],
+  [
+    "government",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries"
+  ],
+  [
+    "something",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/29/trump-general-motors-escalades"
+  ],
+  [
+    "guide",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
   ],
   [
     "sleep",
@@ -281,34 +306,44 @@
     "https://www.theguardian.com/thefilter-us/2025/oct/24/sleep-gadgets-aids-tech"
   ],
   [
-    "blanche",
+    "strikes",
     12,
-    "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html"
+    "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html"
   ],
   [
-    "latest",
-    12,
-    "https://www.nytimes.com/2026/07/30/business/china-robots-ban-fcc.html"
-  ],
-  [
-    "republican",
-    12,
-    "https://www.nytimes.com/2026/07/29/us/politics/texas-senate-paxton-fund-raising.html"
-  ],
-  [
-    "space",
+    "power",
     12,
     "https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html"
   ],
   [
-    "start",
+    "died",
     12,
-    "https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html"
+    "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html"
   ],
   [
-    "jordan",
+    "almost",
     12,
-    "https://www.nytimes.com/2026/07/30/arts/television/late-night-trump-eulogy-lindsey-graham.html"
+    "https://www.nytimes.com/2026/07/30/world/europe/suffolk-wildfire-uk.html"
+  ],
+  [
+    "fewer",
+    12,
+    "https://www.nytimes.com/2026/07/29/climate/france-spain-europe-megafires.html"
+  ],
+  [
+    "department",
+    12,
+    "https://www.nytimes.com/2026/07/29/nyregion/midtown-manhattan-conversions-steel.html"
+  ],
+  [
+    "hearing",
+    12,
+    "https://www.nytimes.com/2026/07/29/opinion/anthony-fauci-hearing-covid.html"
+  ],
+  [
+    "military",
+    12,
+    "https://www.washingtonpost.com/nation/2026/07/29/west-point-professors-free-comment-publicly-school-declines-appeal-ruling/"
   ],
   [
     "gaza",
@@ -316,63 +351,28 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "place",
+    "held",
     12,
-    "https://www.theguardian.com/world/2026/jul/30/ukraine-kyiv-replace-lenin-statue-with-cossack-chief-ivan-mazepa"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "ago",
+    "despite",
     12,
-    "https://www.theguardian.com/music/2026/jul/30/ethio-jazz-mulatu-astatke-interview-music-mulatu-plays-mulatu-album"
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "sen",
+    "middle",
     12,
-    "https://www.foxnews.com/opinion/sen-deb-fischer-lefts-war-senate-supreme-court-puts-republic-risk"
+    "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq"
   ],
   [
-    "again",
-    11,
-    "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html"
+    "hours",
+    12,
+    "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq"
   ],
   [
     "states",
-    11,
-    "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html"
-  ],
-  [
-    "accused",
-    11,
-    "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html"
-  ],
-  [
-    "late",
-    11,
-    "https://www.nytimes.com/2026/07/30/arts/television/late-night-trump-eulogy-lindsey-graham.html"
-  ],
-  [
-    "school",
-    11,
-    "https://www.washingtonpost.com/nation/2026/07/29/west-point-professors-free-comment-publicly-school-declines-appeal-ruling/"
-  ],
-  [
-    "pop",
-    11,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "living",
-    11,
-    "https://www.theguardian.com/news/ng-interactive/2026/jul/30/body-snatchers-young-nigerian-man-lured-london-organ-trafficking-plot"
-  ],
-  [
-    "book",
-    11,
-    "https://www.theguardian.com/books/2026/jul/30/i-had-a-really-crippling-break-how-author-michael-thomas-lost-20-years-to-mania-depression-and-more"
-  ],
-  [
-    "politics",
-    11,
-    "https://www.theguardian.com/us-news/2026/jul/29/anthony-fauci-senate-hearing-covid"
+    12,
+    "https://www.theguardian.com/football/2026/jul/30/fifa-sales-pitch-revealed-more-tournaments-debt-womens-game-omitted"
   ]
 ];
