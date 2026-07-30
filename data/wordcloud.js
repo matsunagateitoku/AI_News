@@ -2,178 +2,228 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    56,
-    "https://www.nytimes.com/2026/07/30/briefing/president-trump-james-comey.html"
-  ],
-  [
-    "iran",
-    28,
-    "https://www.nytimes.com/2026/07/30/business/federal-reserve-inflation-iran-war.html"
-  ],
-  [
-    "health",
-    27,
-    "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries"
-  ],
-  [
-    "country",
-    25,
-    "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html"
-  ],
-  [
-    "war",
-    24,
-    "https://www.nytimes.com/2026/07/30/business/federal-reserve-inflation-iran-war.html"
-  ],
-  [
-    "senate",
-    24,
-    "https://www.theguardian.com/us-news/2026/jul/29/ghislaine-maxwell-pardon-senate-resolution"
-  ],
-  [
-    "president",
-    23,
-    "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html"
-  ],
-  [
-    "food",
-    23,
-    "https://www.nytimes.com/2026/07/30/us/boyle-heights-warehouse-fire-smell.html"
-  ],
-  [
-    "fauci",
-    23,
-    "https://www.nytimes.com/2026/07/29/opinion/anthony-fauci-hearing-covid.html"
+    70,
+    "https://www.nytimes.com/2026/07/30/business/economy/trump-tariffs-exemptions.html"
   ],
   [
     "family",
-    22,
-    "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html"
+    30,
+    "https://www.theguardian.com/us-news/2026/jul/30/todd-blanche-attorney-general-doj-nomination-trump"
+  ],
+  [
+    "war",
+    29,
+    "https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html"
+  ],
+  [
+    "president",
+    25,
+    "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-confirmation-irs.html"
+  ],
+  [
+    "health",
+    25,
+    "https://www.nytimes.com/2026/07/30/us/colin-gray-sentencing-apalachee-school-shooting.html"
+  ],
+  [
+    "iran",
+    23,
+    "https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html"
   ],
   [
     "americans",
-    21,
+    23,
     "https://www.nytimes.com/2026/07/30/opinion/american-gerontocracy-samuel-moyn.html"
   ],
   [
-    "california",
-    21,
-    "https://www.nytimes.com/2026/07/30/us/pinot-noir-california-wine-sales-decline.html"
-  ],
-  [
-    "court",
-    21,
-    "https://www.theguardian.com/us-news/2026/jul/30/black-voters-south-republican-maps"
-  ],
-  [
-    "summer",
-    21,
-    "https://www.theguardian.com/world/2026/jul/30/europe-burns-france-spain-visual-guide-wildfires"
-  ],
-  [
-    "fifa",
-    20,
-    "https://www.theguardian.com/football/2026/jul/30/fifa-sales-pitch-revealed-more-tournaments-debt-womens-game-omitted"
-  ],
-  [
-    "review",
-    19,
-    "https://www.theguardian.com/books/2026/jul/30/i-had-a-really-crippling-break-how-author-michael-thomas-lost-20-years-to-mania-depression-and-more"
-  ],
-  [
-    "police",
-    19,
-    "https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv"
-  ],
-  [
-    "cup",
-    19,
-    "https://www.theguardian.com/football/2026/jul/30/fifa-sales-pitch-revealed-more-tournaments-debt-womens-game-omitted"
-  ],
-  [
-    "south",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/europe-burning-trump-war-climate-sanctions-white-house"
-  ],
-  [
-    "cbs",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/cbs-news-ross-douthat-tv-experience"
-  ],
-  [
-    "europe",
-    17,
-    "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html"
-  ],
-  [
-    "poll",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/30/trump-approval-rating-poll-midterm-elections"
-  ],
-  [
-    "republican",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/30/trump-approval-rating-poll-midterm-elections"
+    "hours",
+    23,
+    "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
   ],
   [
     "million",
-    16,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    22,
+    "https://www.nytimes.com/2026/07/30/us/politics/elon-musk-midterms-republicans.html"
   ],
   [
-    "young",
-    16,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/30/far-right-college-republicans-america-cra"
+    "court",
+    22,
+    "https://www.nytimes.com/2026/07/30/us/doj-isis-alien-terrorist-removal-court.html"
   ],
   [
-    "american",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/alive-body-life-experience"
+    "food",
+    22,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/30/peptide-fda-rfk-jr-drug-regulation"
   ],
   [
-    "political",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/europe-burning-trump-war-climate-sanctions-white-house"
+    "summer",
+    22,
+    "https://www.theguardian.com/world/2026/jul/30/europe-burns-france-spain-visual-guide-wildfires"
+  ],
+  [
+    "senate",
+    21,
+    "https://www.nytimes.com/2026/07/30/us/politics/haley-stevens-accent-michigan-senate.html"
+  ],
+  [
+    "country",
+    21,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "film",
-    16,
-    "https://www.theguardian.com/film/2026/jul/30/maga-joyce-carol-oates-criticises-emily-wilson-for-criticising-nolans-odyssey"
+    20,
+    "https://www.theguardian.com/film/2026/jul/30/tomi-adeyemi-children-of-blood-and-bone-film-adaptation-worst-thing-ive-ever-lived-through-hyperventilating-sobbing"
   ],
   [
-    "death",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/30/eric-washington-gun-violence-death"
+    "video",
+    20,
+    "https://www.theguardian.com/film/2026/jul/30/tomi-adeyemi-children-of-blood-and-bone-film-adaptation-worst-thing-ive-ever-lived-through-hyperventilating-sobbing"
   ],
   [
-    "buying",
+    "democratic",
+    19,
+    "https://www.nytimes.com/2026/07/30/us/wisconsin-democratic-primary-for-governor-narrows-as-candidate-exits.html"
+  ],
+  [
+    "republicans",
+    18,
+    "https://www.nytimes.com/2026/07/30/us/politics/elon-musk-midterms-republicans.html"
+  ],
+  [
+    "case",
+    18,
+    "https://www.nytimes.com/2026/07/30/us/doj-isis-alien-terrorist-removal-court.html"
+  ],
+  [
+    "father",
+    18,
+    "https://www.nytimes.com/2026/07/30/us/colin-gray-sentencing-apalachee-school-shooting.html"
+  ],
+  [
+    "school",
+    18,
+    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
+  ],
+  [
+    "body",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
+  ],
+  [
+    "department",
+    18,
+    "https://www.theguardian.com/us-news/2026/jul/30/todd-blanche-attorney-general-doj-nomination-trump"
+  ],
+  [
+    "fifa",
+    18,
+    "https://www.theguardian.com/football/2026/jul/30/fifa-sale-congress-investigation-trump-ties"
+  ],
+  [
+    "children",
+    17,
+    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
+  ],
+  [
+    "media",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/jul/30/cbs-news-ross-douthat-tv-experience"
+  ],
+  [
+    "cup",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/jul/30/gianni-infantino-fifa-statement"
+  ],
+  [
+    "post",
+    17,
+    "https://www.theguardian.com/us-news/2026/jul/30/los-angeles-warehouse-fire-rotting-food"
+  ],
+  [
+    "race",
+    16,
+    "https://www.nytimes.com/2026/07/30/us/wisconsin-democratic-primary-for-governor-narrows-as-candidate-exits.html"
+  ],
+  [
+    "sentenced",
+    16,
+    "https://www.nytimes.com/2026/07/30/us/colin-gray-sentencing-apalachee-school-shooting.html"
+  ],
+  [
+    "los",
+    16,
+    "https://www.nytimes.com/2026/07/30/us/boyle-heights-warehouse-fire-smell.html"
+  ],
+  [
+    "held",
+    16,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "blood",
     16,
     "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
   ],
   [
-    "sen",
+    "author",
     16,
-    "https://www.npr.org/2026/07/30/g-s1-136285/up-first-newsletter-anthony-fauci-covid-asylum-rule-medicare-drug-plan"
+    "https://www.theguardian.com/tv-and-radio/2026/jul/30/how-harlan-coben-became-the-king-of-potboiler-tv"
   ],
   [
-    "fire",
-    15,
-    "https://www.nytimes.com/2026/07/30/world/europe/suffolk-wildfire-uk.html"
-  ],
-  [
-    "hollywood",
-    15,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "york",
-    15,
-    "https://www.theguardian.com/books/2026/jul/30/i-had-a-really-crippling-break-how-author-michael-thomas-lost-20-years-to-mania-depression-and-more"
+    "review",
+    16,
+    "https://www.theguardian.com/media/2026/jul/30/abc-fcc-license-renewal-tv-stations"
   ],
   [
     "primary",
-    15,
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/31/should-i-leave-my-polyamorous-relationship-if-i-want-to-start-a-family"
+  ],
+  [
+    "police",
+    16,
     "https://www.theguardian.com/uk-news/2026/jul/30/uk-ministers-police-justice-review-us-military"
+  ],
+  [
+    "politics",
+    15,
+    "https://www.nytimes.com/2026/07/30/us/politics/haley-stevens-accent-michigan-senate.html"
+  ],
+  [
+    "hearing",
+    15,
+    "https://www.nytimes.com/2026/07/30/us/politics/the-docket-alien-removal-court.html"
+  ],
+  [
+    "angeles",
+    15,
+    "https://www.nytimes.com/2026/07/30/us/boyle-heights-warehouse-fire-smell.html"
+  ],
+  [
+    "military",
+    15,
+    "https://www.washingtonpost.com/nation/2026/07/29/west-point-professors-free-comment-publicly-school-declines-appeal-ruling/"
+  ],
+  [
+    "released",
+    15,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "buying",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
+  ],
+  [
+    "donald",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/30/donald-trump-senate-iran-war-power"
+  ],
+  [
+    "california",
+    15,
+    "https://www.theguardian.com/us-news/2026/jul/30/eric-washington-gun-violence-death"
   ],
   [
     "kitchen",
@@ -181,124 +231,119 @@
     "https://www.theguardian.com/environment/2026/jul/30/house-files-uk-plague-homes"
   ],
   [
+    "son",
+    14,
+    "https://www.nytimes.com/2026/07/30/us/colin-gray-sentencing-apalachee-school-shooting.html"
+  ],
+  [
+    "fire",
+    14,
+    "https://www.nytimes.com/2026/07/30/us/boyle-heights-warehouse-fire-smell.html"
+  ],
+  [
+    "fauci",
+    14,
+    "https://www.nytimes.com/2026/07/29/opinion/anthony-fauci-hearing-covid.html"
+  ],
+  [
+    "ago",
+    14,
+    "https://www.nytimes.com/2026/07/30/science/ancient-small-pox.html"
+  ],
+  [
     "latest",
     14,
-    "https://www.nytimes.com/2026/07/30/business/dealbook/fed-warsh-credibility-shock.html"
+    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
   ],
   [
-    "attack",
+    "green",
     14,
-    "https://www.nytimes.com/2026/07/30/world/middleeast/egyptian-port-attack-suez-canal-vulnerability.html"
-  ],
-  [
-    "republicans",
-    14,
-    "https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html"
-  ],
-  [
-    "space",
-    14,
-    "https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html"
-  ],
-  [
-    "earlier",
-    14,
-    "https://www.nytimes.com/2026/07/29/nyregion/midtown-manhattan-conversions-steel.html"
-  ],
-  [
-    "night",
-    14,
-    "https://www.nytimes.com/2026/07/30/arts/television/late-night-trump-eulogy-lindsey-graham.html"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.nytimes.com/2026/07/30/arts/television/late-night-trump-eulogy-lindsey-graham.html"
-  ],
-  [
-    "air",
-    14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "released",
-    14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "black",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/30/controversial-flock-ai-surveillance-camera-risk"
-  ],
-  [
-    "anthony",
-    14,
-    "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
-  ],
-  [
-    "democratic",
-    14,
-    "https://www.theguardian.com/environment/2026/jul/26/how-to-keep-cool-in-a-heatwave-from-people-who-know-best"
-  ],
-  [
-    "care",
-    13,
-    "https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html"
-  ],
-  [
-    "office",
-    13,
-    "https://www.nytimes.com/2026/07/29/nyregion/midtown-manhattan-conversions-steel.html"
-  ],
-  [
-    "administration",
-    13,
-    "https://www.nytimes.com/2026/07/30/briefing/president-trump-james-comey.html"
-  ],
-  [
-    "late",
-    13,
-    "https://www.nytimes.com/2026/07/30/arts/television/late-night-trump-eulogy-lindsey-graham.html"
-  ],
-  [
-    "residents",
-    13,
     "https://www.washingtonpost.com/nation/2026/07/29/denvers-drought-turns-lawncare-into-neighborhood-divide/"
   ],
   [
     "don",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/alive-body-life-experience"
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
   ],
   [
-    "author",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/jul/30/how-harlan-coben-became-the-king-of-potboiler-tv"
+    "political",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jul/30/ice-detention-center-camp"
   ],
   [
-    "ago",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/europe-burning-trump-war-climate-sanctions-white-house"
+    "earlier",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/30/kathryn-ruemmler-epstein-files-virginia-giuffre"
   ],
   [
-    "paul",
-    13,
-    "https://www.theguardian.com/us-news/2026/jul/30/kaohly-her-st-paul-mayor-sexual-harassment"
+    "night",
+    14,
+    "https://www.theguardian.com/global-development/2026/jul/30/spain-morocco-human-trafficking-modern-slavery-farm"
   ],
   [
-    "government",
+    "feel",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/31/should-i-leave-my-polyamorous-relationship-if-i-want-to-start-a-family"
+  ],
+  [
+    "space",
+    14,
+    "https://www.theguardian.com/environment/2026/jul/30/house-files-uk-plague-homes"
+  ],
+  [
+    "attack",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries"
+    "https://www.nytimes.com/2026/07/30/world/middleeast/egyptian-port-attack-suez-canal-vulnerability.html"
+  ],
+  [
+    "workers",
+    13,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "york",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/30/cbs-news-ross-douthat-tv-experience"
   ],
   [
     "something",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/29/trump-general-motors-escalades"
+    "https://www.theguardian.com/commentisfree/2026/jul/30/cbs-news-ross-douthat-tv-experience"
   ],
   [
-    "guide",
+    "office",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/30/far-right-college-republicans-america-cra"
+  ],
+  [
+    "administration",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/30/ice-detention-center-camp"
+  ],
+  [
+    "again",
+    13,
+    "https://www.theguardian.com/film/2026/jul/30/tomi-adeyemi-children-of-blood-and-bone-film-adaptation-worst-thing-ive-ever-lived-through-hyperventilating-sobbing"
+  ],
+  [
+    "american",
+    13,
+    "https://www.theguardian.com/news/video/2026/jul/30/us-iran-strikes-risk-regional-war-in-middle-east-the-latest"
+  ],
+  [
+    "smith",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/31/should-i-leave-my-polyamorous-relationship-if-i-want-to-start-a-family"
+  ],
+  [
+    "europe",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/30/us-public-rfk-jr-america-healthy-europe-wellness-fads"
+  ],
+  [
+    "black",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/30/controversial-flock-ai-surveillance-camera-risk"
   ],
   [
     "sleep",
@@ -306,73 +351,28 @@
     "https://www.theguardian.com/thefilter-us/2025/oct/24/sleep-gadgets-aids-tech"
   ],
   [
-    "strikes",
-    12,
-    "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html"
-  ],
-  [
-    "power",
-    12,
-    "https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html"
-  ],
-  [
-    "died",
-    12,
-    "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html"
-  ],
-  [
-    "almost",
-    12,
-    "https://www.nytimes.com/2026/07/30/world/europe/suffolk-wildfire-uk.html"
-  ],
-  [
-    "fewer",
-    12,
-    "https://www.nytimes.com/2026/07/29/climate/france-spain-europe-megafires.html"
-  ],
-  [
-    "department",
-    12,
-    "https://www.nytimes.com/2026/07/29/nyregion/midtown-manhattan-conversions-steel.html"
-  ],
-  [
-    "hearing",
-    12,
-    "https://www.nytimes.com/2026/07/29/opinion/anthony-fauci-hearing-covid.html"
-  ],
-  [
-    "military",
-    12,
-    "https://www.washingtonpost.com/nation/2026/07/29/west-point-professors-free-comment-publicly-school-declines-appeal-ruling/"
-  ],
-  [
-    "gaza",
-    12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "held",
-    12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "despite",
-    12,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "middle",
-    12,
-    "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq"
-  ],
-  [
-    "hours",
-    12,
-    "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq"
+    "poll",
+    13,
+    "https://www.latimes.com/food/story/2026-07-29/ultimate-birthday-cake-chosen-by-la-times-readers"
   ],
   [
     "states",
     12,
-    "https://www.theguardian.com/football/2026/jul/30/fifa-sales-pitch-revealed-more-tournaments-debt-womens-game-omitted"
+    "https://www.nytimes.com/2026/07/30/us/politics/elon-musk-midterms-republicans.html"
+  ],
+  [
+    "near",
+    12,
+    "https://www.nytimes.com/2026/07/30/world/middleeast/egyptian-port-attack-suez-canal-vulnerability.html"
+  ],
+  [
+    "because",
+    12,
+    "https://www.nytimes.com/2026/07/30/us/colin-gray-sentencing-apalachee-school-shooting.html"
+  ],
+  [
+    "really",
+    12,
+    "https://www.nytimes.com/2026/07/29/opinion/anthony-fauci-hearing-covid.html"
   ]
 ];
