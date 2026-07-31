@@ -2,13 +2,18 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    74,
-    "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
+    70,
+    "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html"
   ],
   [
     "president",
-    31,
-    "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
+    33,
+    "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html"
+  ],
+  [
+    "family",
+    32,
+    "https://www.theguardian.com/us-news/2026/jul/30/todd-blanche-attorney-general-doj-nomination-trump"
   ],
   [
     "senate",
@@ -17,123 +22,108 @@
   ],
   [
     "food",
-    28,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/30/peptide-fda-rfk-jr-drug-regulation"
-  ],
-  [
-    "family",
     27,
-    "https://www.theguardian.com/us-news/2026/jul/30/todd-blanche-attorney-general-doj-nomination-trump"
-  ],
-  [
-    "health",
-    26,
     "https://www.theguardian.com/us-news/ng-interactive/2026/jul/30/peptide-fda-rfk-jr-drug-regulation"
   ],
   [
     "country",
-    25,
+    26,
     "https://www.nytimes.com/2026/07/31/business/korea-stocks-chips-kospi.html"
   ],
   [
     "democratic",
-    25,
+    26,
     "https://www.theguardian.com/us-news/2026/jul/30/mandela-barnes-wisconsin-governor-race"
   ],
   [
+    "health",
+    25,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/30/peptide-fda-rfk-jr-drug-regulation"
+  ],
+  [
+    "party",
+    22,
+    "https://www.theguardian.com/commentisfree/2026/jul/31/teargas-legal-strife-turkey-chp-opposition-split-new-party-oust-erdogan"
+  ],
+  [
     "war",
-    24,
-    "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html"
-  ],
-  [
-    "gaza",
     21,
     "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html"
   ],
   [
-    "million",
-    21,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "fifa",
+    20,
+    "https://www.theguardian.com/football/2026/jul/30/fifa-sale-congress-investigation-trump-ties"
   ],
   [
     "summer",
     20,
-    "https://www.theguardian.com/world/2026/jul/31/wildfires-french-leaders-climate-crisis-elections"
+    "https://www.theguardian.com/world/2026/jul/31/wildfires-extreme-weather-europe-spain-france-climate-crisis-analysis"
   ],
   [
-    "fifa",
+    "video",
     19,
-    "https://www.theguardian.com/football/2026/jul/30/fifa-sale-congress-investigation-trump-ties"
+    "https://www.nytimes.com/2026/07/31/opinion/face-self-reflection-technology-video.html"
+  ],
+  [
+    "police",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/jul/31/teargas-legal-strife-turkey-chp-opposition-split-new-party-oust-erdogan"
   ],
   [
     "cup",
     19,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/gianni-infantino-fifa-statement"
+    "https://www.theguardian.com/football/2026/jul/31/can-we-kick-it-soccer-documentary"
   ],
   [
-    "nomination",
-    18,
-    "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
-  ],
-  [
-    "air",
-    18,
-    "https://www.nytimes.com/2026/07/30/us/dulles-airport-people-movers-trump.html"
-  ],
-  [
-    "americans",
-    18,
-    "https://www.nytimes.com/2026/07/30/opinion/american-gerontocracy-samuel-moyn.html"
-  ],
-  [
-    "fire",
-    18,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "primary",
-    18,
-    "https://www.theguardian.com/us-news/2026/jul/30/mandela-barnes-wisconsin-governor-race"
-  ],
-  [
-    "political",
+    "gaza",
     17,
-    "https://www.nytimes.com/2026/07/30/world/europe/spain-morocco-ceuta-migrants.html"
-  ],
-  [
-    "republicans",
-    17,
-    "https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html"
-  ],
-  [
-    "father",
-    17,
-    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
-  ],
-  [
-    "children",
-    17,
-    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
-  ],
-  [
-    "film",
-    17,
-    "https://www.theguardian.com/film/2026/jul/30/maga-joyce-carol-oates-criticises-emily-wilson-for-criticising-nolans-odyssey"
-  ],
-  [
-    "blanche",
-    16,
-    "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
+    "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html"
   ],
   [
     "school",
-    16,
+    17,
     "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
   ],
   [
-    "hamas",
+    "review",
+    17,
+    "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack"
+  ],
+  [
+    "primary",
+    17,
+    "https://www.theguardian.com/us-news/2026/jul/30/mandela-barnes-wisconsin-governor-race"
+  ],
+  [
+    "nomination",
     16,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
+  ],
+  [
+    "political",
+    16,
+    "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html"
+  ],
+  [
+    "air",
+    16,
+    "https://www.nytimes.com/2026/07/30/us/dulles-airport-people-movers-trump.html"
+  ],
+  [
+    "iran",
+    16,
+    "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html"
+  ],
+  [
+    "republicans",
+    16,
+    "https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html"
+  ],
+  [
+    "million",
+    16,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
     "released",
@@ -146,9 +136,29 @@
     "https://www.theguardian.com/world/2026/jul/31/china-ai-jobs-workers-labour-market-technology"
   ],
   [
-    "review",
+    "because",
     16,
-    "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack"
+    "https://www.theguardian.com/lifeandstyle/2026/jul/31/experience-i-drive-a-bus-for-dogs"
+  ],
+  [
+    "don",
+    16,
+    "https://www.theguardian.com/music/2026/jul/31/rachel-chinouriri-interview-favourite-uk-pop-star-second-album"
+  ],
+  [
+    "politics",
+    16,
+    "https://www.theguardian.com/us-news/2026/jul/30/todd-blanche-attorney-general-doj-nomination-trump"
+  ],
+  [
+    "republican",
+    15,
+    "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
+  ],
+  [
+    "democrats",
+    15,
+    "https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html"
   ],
   [
     "water",
@@ -156,69 +166,59 @@
     "https://www.washingtonpost.com/nation/2026/07/29/denvers-drought-turns-lawncare-into-neighborhood-divide/"
   ],
   [
-    "held",
+    "hamas",
     15,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "cbs",
+    "fire",
     15,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/cbs-news-ross-douthat-tv-experience"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "because",
+    "workers",
     15,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/ice-detention-center-camp"
-  ],
-  [
-    "police",
-    15,
-    "https://www.theguardian.com/world/2026/jul/30/thousands-enter-spanish-enclave-ceuta-morocco-africa"
-  ],
-  [
-    "video",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/30/mandela-barnes-wisconsin-governor-race"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
     "feel",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/31/should-i-leave-my-polyamorous-relationship-if-i-want-to-start-a-family"
+    "https://www.theguardian.com/games/2026/jul/31/my-family-is-coming-apart-so-its-time-for-one-last-video-game-session"
   ],
   [
-    "kitchen",
+    "died",
     15,
-    "https://www.theguardian.com/environment/2026/jul/30/house-files-uk-plague-homes"
+    "https://www.theguardian.com/commentisfree/2026/jul/30/ice-detention-center-camp"
   ],
   [
-    "general",
+    "blanche",
     14,
     "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
   ],
   [
-    "south",
+    "latest",
     14,
-    "https://www.nytimes.com/2026/07/31/business/korea-stocks-chips-kospi.html"
+    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
   ],
   [
-    "space",
+    "questions",
     14,
-    "https://www.nytimes.com/2026/07/31/world/asia/space-debris-earth.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "workers",
+    "held",
     14,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "don",
+    "hollywood",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "politics",
+    "again",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/30/todd-blanche-attorney-general-doj-nomination-trump"
+    "https://www.theguardian.com/music/2026/jul/31/rachel-chinouriri-interview-favourite-uk-pop-star-second-album"
   ],
   [
     "shooting",
@@ -226,39 +226,59 @@
     "https://www.theguardian.com/us-news/2026/jul/30/seattle-police-chief-food-festival-shooting"
   ],
   [
-    "mother",
+    "wisconsin",
     14,
-    "https://www.theguardian.com/us-news/2026/jul/30/eric-washington-gun-violence-death"
+    "https://www.theguardian.com/us-news/2026/jul/30/mandela-barnes-wisconsin-governor-race"
   ],
   [
-    "court",
+    "film",
     14,
-    "https://www.theguardian.com/sport/2026/jul/29/tennus-ekaterina-alexandrova-collapses-on-court-memphis-classic"
+    "https://www.theguardian.com/film/2026/jul/31/i-was-born-without-self-esteem-hannah-einbinder-on-hacks-her-buzzy-queer-horror-and-being-hollywoods-most-outspoken-star"
   ],
   [
-    "attorney",
+    "care",
+    14,
+    "https://www.theguardian.com/books/2026/jul/31/jacqueline-crooks-toni-morrisons-voice-made-me-want-to-find-my-own"
+  ],
+  [
+    "kitchen",
+    14,
+    "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
+  ],
+  [
+    "general",
     13,
     "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
   ],
   [
-    "thousands",
+    "spain",
     13,
-    "https://www.nytimes.com/2026/07/30/world/europe/spain-morocco-ceuta-migrants.html"
+    "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html"
   ],
   [
-    "latest",
+    "space",
     13,
-    "https://www.nytimes.com/2026/07/30/briefing/economy-blanche-iran.html"
+    "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html"
   ],
   [
-    "fauci",
+    "father",
     13,
-    "https://www.nytimes.com/2026/07/30/health/fauci-allegations-covid-origins.html"
+    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
   ],
   [
-    "west",
+    "least",
     13,
-    "https://www.washingtonpost.com/nation/2026/07/29/west-point-professors-free-comment-publicly-school-declines-appeal-ruling/"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "star",
+    13,
+    "https://www.theguardian.com/music/2026/jul/31/rachel-chinouriri-interview-favourite-uk-pop-star-second-album"
+  ],
+  [
+    "court",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/jul/31/teargas-legal-strife-turkey-chp-opposition-split-new-party-oust-erdogan"
   ],
   [
     "buying",
@@ -266,29 +286,19 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
   ],
   [
-    "ago",
+    "games",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
+    "https://www.theguardian.com/games/2026/jul/31/my-family-is-coming-apart-so-its-time-for-one-last-video-game-session"
   ],
   [
-    "party",
+    "mother",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/30/todd-blanche-attorney-general-doj-nomination-trump"
+    "https://www.theguardian.com/books/2026/jul/31/jacqueline-crooks-toni-morrisons-voice-made-me-want-to-find-my-own"
   ],
   [
-    "department",
+    "nancy",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/30/todd-blanche-attorney-general-doj-nomination-trump"
-  ],
-  [
-    "again",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/us-public-rfk-jr-america-healthy-europe-wellness-fads"
-  ],
-  [
-    "europe",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/us-public-rfk-jr-america-healthy-europe-wellness-fads"
+    "https://www.theguardian.com/music/2026/jul/31/melodies-international-presents-ariwa-sounds-review-mad-professor"
   ],
   [
     "sleep",
@@ -296,14 +306,14 @@
     "https://www.theguardian.com/thefilter-us/2025/oct/24/sleep-gadgets-aids-tech"
   ],
   [
-    "republican",
+    "attorney",
     12,
     "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
   ],
   [
-    "peace",
+    "john",
     12,
-    "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html"
+    "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
   ],
   [
     "intelligence",
@@ -316,29 +326,24 @@
     "https://www.nytimes.com/2026/07/30/us/politics/kennedy-center-tours.html"
   ],
   [
-    "iran",
+    "black",
     12,
-    "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html"
+    "https://www.nytimes.com/2026/07/30/nyregion/mamdani-reparations-slavery.html"
   ],
   [
-    "democrats",
+    "media",
     12,
-    "https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html"
+    "https://www.nytimes.com/2026/07/31/opinion/face-self-reflection-technology-video.html"
   ],
   [
-    "hearing",
+    "children",
     12,
-    "https://www.nytimes.com/2026/07/30/health/fauci-allegations-covid-origins.html"
+    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
   ],
   [
-    "residents",
+    "ice",
     12,
-    "https://www.washingtonpost.com/nation/2026/07/29/denvers-drought-turns-lawncare-into-neighborhood-divide/"
-  ],
-  [
-    "hollywood",
-    12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "filter",
@@ -346,33 +351,28 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
   ],
   [
-    "something",
+    "body",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
+  ],
+  [
+    "department",
+    12,
+    "https://www.theguardian.com/us-news/2026/jul/30/todd-blanche-attorney-general-doj-nomination-trump"
+  ],
+  [
+    "full",
+    12,
+    "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries"
+  ],
+  [
+    "history",
+    12,
+    "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus"
+  ],
+  [
+    "cbs",
     12,
     "https://www.theguardian.com/commentisfree/2026/jul/30/cbs-news-ross-douthat-tv-experience"
-  ],
-  [
-    "states",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/ice-detention-center-camp"
-  ],
-  [
-    "died",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/ice-detention-center-camp"
-  ],
-  [
-    "administration",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/ice-detention-center-camp"
-  ],
-  [
-    "place",
-    12,
-    "https://www.theguardian.com/us-news/2026/jul/28/gavin-newsom-ruby-rippey-affair-vanity-fair"
-  ],
-  [
-    "star",
-    12,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/30/far-right-college-republicans-america-cra"
   ]
 ];
