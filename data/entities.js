@@ -3,225 +3,175 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 28,
-      "url": "https://www.theguardian.com/world/2026/jul/31/iran-strikes-tankers-us-escort-hormuz-strait-trump-gathers-cabinet",
+      "count": 27,
+      "url": "https://www.theguardian.com/us-news/2026/jul/31/trump-cabinet-camp-david-ukraine",
       "source": "The Guardian"
     },
     {
-      "name": "Kalshi",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/jul/31/new-york-sues-kalshi-gambling",
+      "name": "Lindsay Clancy",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/jul/31/lindsay-clancy-murder-trial-jurors",
       "source": "The Guardian"
     },
     {
       "name": "Nancy Guthrie",
-      "count": 5,
+      "count": 7,
       "url": "https://www.theguardian.com/us-news/2026/jul/31/nancy-guthrie-disappearance-wrongful-arrest-lawsuit",
       "source": "The Guardian"
     },
     {
-      "name": "Paul Hayden Miller",
-      "count": 5,
-      "url": "https://thehill.com/opinion/national-security/6000300-rebuild-us-industrial-base/",
-      "source": "The Hill"
-    },
-    {
-      "name": "John Cornyn",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/07/30/us/politics/cornyn-trump-blanche.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Odyssey",
-      "count": 4,
-      "url": "https://www.theguardian.com/film/2026/jul/31/greek-cinema-intermission-the-odyssey",
+      "name": "Ayami Sato",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/jul/31/ayami-sato-womens-professional-baseball-league-los-angeles-queens-profile",
       "source": "The Guardian"
     },
     {
-      "name": "Wrexham",
-      "count": 4,
-      "url": "https://www.theguardian.com/football/2026/jul/30/liverpool-wrexham-pre-season-friendly-rio-ngumoha-goal-match-report",
+      "name": "Kalshi",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/jul/31/new-york-sues-kalshi-gambling",
       "source": "The Guardian"
     },
     {
-      "name": "Boy George",
-      "count": 4,
+      "name": "Jesus Christ Superstar",
+      "count": 6,
       "url": "https://www.theguardian.com/music/2026/jul/31/boy-george-pulls-out-of-jesus-christ-superstar-after-releasing-pro-israel-song",
       "source": "The Guardian"
     },
     {
-      "name": "Fatima Adel",
+      "name": "Tony Romo ‘",
+      "count": 6,
+      "url": "https://www.nbcnews.com/news/us-news/tony-romo-leave-cbs-sports-arrest-suspicion-impaired-driving-wisconsin-rcna590252",
+      "source": "NBC News"
+    },
+    {
+      "name": "Boy George",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/jul/31/boy-george-pulls-out-of-jesus-christ-superstar-after-releasing-pro-israel-song",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Todd Blanche’S",
       "count": 4,
-      "url": "https://www.theguardian.com/global-development/2026/jul/31/the-dead-doctor-and-a-dicey-diet-how-a-ban-made-a-hero-of-egypts-rogue-medic",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html",
+      "source": "NY Times"
     },
     {
-      "name": "Robert Frost",
+      "name": "Adam O’Neal Resigns",
       "count": 4,
-      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 34,
-      "url": "https://www.theguardian.com/us-news/2026/jul/31/unaccompanied-children-manhattan-immigration-court",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/iran-us-military-kuwait-drone-attack.html",
+      "url": "https://www.nytimes.com/2026/07/31/business/media/washington-post-opinion-editor-resigns-after-1-year.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Spain",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/07/31/climate/colorado-river-basin-water-cuts.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "France",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/07/31/france-heat-firebreak-buffer-wildfire.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/07/31/climate/colorado-river-basin-water-cuts.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Hollywood",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Morocco",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York    Chances",
-      "count": 11,
-      "url": "https://www.theguardian.com/football/2026/jul/30/liverpool-wrexham-pre-season-friendly-rio-ngumoha-goal-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Northern Gaza",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 10,
+      "count": 9,
       "url": "https://www.theguardian.com/football/2026/jul/31/can-we-kick-it-soccer-documentary",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 8,
-      "url": "https://www.theguardian.com/football/2026/jul/31/fifa-plan-world-cup-64-teams-2030-tournament",
+      "count": 7,
+      "url": "https://www.theguardian.com/football/2026/jul/31/infantino-under-huge-pressure-after-plan-for-world-cup-sell-off-sparks-resignation-and-rebuke",
       "source": "The Guardian"
     },
     {
-      "name": "The Winter Olympics",
-      "count": 7,
-      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/saudi-2034-schedule-2035-01004717",
-      "source": "Politico"
-    },
-    {
       "name": "A Super Bowl",
-      "count": 6,
+      "count": 5,
       "url": "https://www.latimes.com/sports/rams/story/2026-07-30/puka-nacua-has-to-shut-down-distractions-protect-super-bowl-run",
       "source": "LA Times"
     },
     {
+      "name": "The Winter Olympics",
+      "count": 5,
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/saudi-2034-schedule-2035-01004717",
+      "source": "Politico"
+    },
+    {
       "name": "Civil War-Era",
-      "count": 4,
+      "count": 2,
       "url": "https://www.nbcnews.com/news/us-news/tsa-discovers-five-civil-war-era-cannonballs-travelers-luggage-rcna590198",
       "source": "NBC News"
     },
     {
-      "name": "Iran War Drives Oil Profits",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/07/31/business/energy-environment/exxon-chevron-earnings-iran-war.html",
+      "name": "Wwii",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/07/31/world/americas/plane-douglas-dc3-wwii-colombia.html",
       "source": "NY Times"
+    },
+    {
+      "name": "World War Ii",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/07/31/world/americas/plane-douglas-dc3-wwii-colombia.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "World Cup Mvp",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/jul/31/ayami-sato-womens-professional-baseball-league-los-angeles-queens-profile",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Aids 2026 Conference",
+      "count": 1,
+      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
+      "source": "The Guardian"
     },
     {
       "name": "Vitamix 5200",
       "count": 1,
       "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
       "source": "The Guardian"
-    },
-    {
-      "name": "World War Ii",
-      "count": 1,
-      "url": "https://www.latimes.com/entertainment-arts/books/story/2026-07-31/10-best-books-august-2026",
-      "source": "LA Times"
-    },
-    {
-      "name": "The World Cup'S",
-      "count": 1,
-      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/china-qualification-soccer-future-01004659",
-      "source": "Politico"
-    },
-    {
-      "name": "The Iran War",
-      "count": 1,
-      "url": "https://thehill.com/opinion/national-security/6000300-rebuild-us-industrial-base/",
-      "source": "The Hill"
     }
   ],
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 44,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Trump Blames Minnesota",
+      "count": 45,
+      "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html",
+      "source": "NY Times"
     },
     {
       "name": "Hamas",
-      "count": 16,
+      "count": 19,
       "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
       "source": "NY Times"
     },
     {
       "name": "Fifa",
-      "count": 16,
-      "url": "https://www.theguardian.com/football/2026/jul/31/fifa-plan-world-cup-64-teams-2030-tournament",
+      "count": 15,
+      "url": "https://www.theguardian.com/football/2026/jul/31/infantino-under-huge-pressure-after-plan-for-world-cup-sell-off-sparks-resignation-and-rebuke",
       "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
-      "count": 11,
+      "count": 12,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-07-29/california-teen-lifeguard-rescue-captures-awe",
-      "source": "LA Times"
+      "name": "Democratic Maine Senate",
+      "count": 11,
+      "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
+      "source": "Politico"
     },
     {
-      "name": "Guardian",
-      "count": 7,
-      "url": "https://www.theguardian.com/business/2026/jul/31/ben-jerrys-ice-cream-magnum-boycott",
+      "name": "Ai Claude",
+      "count": 10,
+      "url": "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack",
       "source": "The Guardian"
+    },
+    {
+      "name": "Cbs Sports",
+      "count": 9,
+      "url": "https://www.theguardian.com/sport/2026/jul/31/tony-romo-cbs-leave-owi-arrest-jj-watt-nfl-broadcast",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 8,
+      "url": "https://www.cbsnews.com/news/max-miller-ex-wife-emily-moreno-allegations-restraining-order-lawyer/",
+      "source": "CBS News"
     },
     {
       "name": "Chp",
@@ -230,23 +180,73 @@
       "source": "The Guardian"
     },
     {
-      "name": "Ai Claude",
-      "count": 7,
-      "url": "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Amazon     Continue",
+      "name": "Guardian",
       "count": 6,
-      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
+      "url": "https://www.theguardian.com/business/2026/jul/31/ben-jerrys-ice-cream-magnum-boycott",
       "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 6,
-      "url": "https://www.foxnews.com/politics/house-democrat-blasted-after-early-release-law-freed-inmates-later-charged-murder",
-      "source": "Fox News"
     }
   ],
-  "updated": "2026-07-31T15:22:54Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 36,
+      "url": "https://www.theguardian.com/us-news/2026/jul/31/unaccompanied-children-manhattan-immigration-court",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Spain",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/jul/31/colorado-river-water-cuts",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "France",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Northern Gaza",
+      "count": 12,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "San Diego Comic-Con",
+      "count": 12,
+      "url": "https://www.theguardian.com/film/2026/jul/31/ryan-gosling-ghost-rider-marvel-week-in-geek",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York State",
+      "count": 12,
+      "url": "https://www.cbsnews.com/video/new-york-sues-kalshi-over-alleged-illegal-gambling/",
+      "source": "CBS News"
+    }
+  ],
+  "updated": "2026-07-31T20:22:23Z"
 };
