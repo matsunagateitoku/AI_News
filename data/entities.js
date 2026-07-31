@@ -3,175 +3,163 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 29,
-      "url": "https://www.theguardian.com/us-news/2026/jul/31/republicans-gelatinous-blobs-iran-war",
+      "count": 28,
+      "url": "https://www.theguardian.com/world/2026/jul/31/iran-strikes-tankers-us-escort-hormuz-strait-trump-gathers-cabinet",
       "source": "The Guardian"
     },
     {
-      "name": "Anthropic Says",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Sarah Hall’S Helm",
-      "count": 6,
-      "url": "https://www.theguardian.com/books/2026/jul/30/helm-by-sarah-hall-audiobook-review-a-breath-of-fresh-air-from-the-pennines",
+      "name": "Kalshi",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/jul/31/new-york-sues-kalshi-gambling",
       "source": "The Guardian"
-    },
-    {
-      "name": "Todd Blanche",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/07/30/us/politics/cornyn-trump-blanche.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Fauci Pleading",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/07/30/health/fauci-allegations-covid-origins.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Jackie",
-      "count": 5,
-      "url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
-      "source": "LA Times"
     },
     {
       "name": "Nancy Guthrie",
       "count": 5,
-      "url": "https://www.foxnews.com/us/nancy-guthrie-update-dna-couldnt-profiled-crime-scene-hair-sample-sheriff-says",
-      "source": "Fox News"
+      "url": "https://www.theguardian.com/us-news/2026/jul/31/nancy-guthrie-disappearance-wrongful-arrest-lawsuit",
+      "source": "The Guardian"
     },
     {
-      "name": "Darline Graham",
+      "name": "Paul Hayden Miller",
       "count": 5,
-      "url": "https://www.politico.com/news/2026/07/21/south-carolina-senate-poll-trey-gowdy-graham-01006741",
-      "source": "Politico"
+      "url": "https://thehill.com/opinion/national-security/6000300-rebuild-us-industrial-base/",
+      "source": "The Hill"
     },
     {
       "name": "John Cornyn",
       "count": 4,
-      "url": "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html",
+      "url": "https://www.nytimes.com/2026/07/30/us/politics/cornyn-trump-blanche.html",
       "source": "NY Times"
     },
     {
-      "name": "Gavin Newsom",
+      "name": "Odyssey",
       "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/jul/28/gavin-newsom-ruby-rippey-affair-vanity-fair",
+      "url": "https://www.theguardian.com/film/2026/jul/31/greek-cinema-intermission-the-odyssey",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Wrexham",
+      "count": 4,
+      "url": "https://www.theguardian.com/football/2026/jul/30/liverpool-wrexham-pre-season-friendly-rio-ngumoha-goal-match-report",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Boy George",
+      "count": 4,
+      "url": "https://www.theguardian.com/music/2026/jul/31/boy-george-pulls-out-of-jesus-christ-superstar-after-releasing-pro-israel-song",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fatima Adel",
+      "count": 4,
+      "url": "https://www.theguardian.com/global-development/2026/jul/31/the-dead-doctor-and-a-dicey-diet-how-a-ban-made-a-hero-of-egypts-rogue-medic",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Robert Frost",
+      "count": 4,
+      "url": "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 43,
-      "url": "https://www.theguardian.com/us-news/2026/jul/31/republicans-gelatinous-blobs-iran-war",
+      "count": 34,
+      "url": "https://www.theguardian.com/us-news/2026/jul/31/unaccompanied-children-manhattan-immigration-court",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
+      "name": "Iran",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/iran-us-military-kuwait-drone-attack.html",
       "source": "NY Times"
     },
     {
       "name": "Spain",
-      "count": 13,
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/07/31/climate/colorado-river-basin-water-cuts.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "France",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/07/31/france-heat-firebreak-buffer-wildfire.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/07/31/climate/colorado-river-basin-water-cuts.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Hollywood",
+      "count": 12,
+      "url": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Morocco",
+      "count": 11,
       "url": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
       "source": "NY Times"
     },
     {
-      "name": "Wisconsin",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/jul/30/mandela-barnes-wisconsin-governor-race",
+      "name": "New York    Chances",
+      "count": 11,
+      "url": "https://www.theguardian.com/football/2026/jul/30/liverpool-wrexham-pre-season-friendly-rio-ngumoha-goal-match-report",
       "source": "The Guardian"
-    },
-    {
-      "name": "West Hollywood",
-      "count": 12,
-      "url": "https://www.latimes.com/lifestyle/story/2026-06-26/west-hollywood-apartment-made-for-entertaining-not-boring-rentals",
-      "source": "LA Times"
     },
     {
       "name": "Northern Gaza",
-      "count": 11,
+      "count": 10,
       "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
       "source": "Wall St. Journal"
-    },
-    {
-      "name": "Iran",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "London",
-      "count": 9,
-      "url": "https://www.theguardian.com/music/2026/jul/31/rachel-chinouriri-interview-favourite-uk-pop-star-second-album",
-      "source": "The Guardian"
-    },
-    {
-      "name": "France",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Arizona",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/30/ice-detention-center-camp",
-      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The 2026 World Cup",
-      "count": 9,
+      "count": 10,
       "url": "https://www.theguardian.com/football/2026/jul/31/can-we-kick-it-soccer-documentary",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/30/gianni-infantino-fifa-statement",
+      "count": 8,
+      "url": "https://www.theguardian.com/football/2026/jul/31/fifa-plan-world-cup-64-teams-2030-tournament",
       "source": "The Guardian"
     },
     {
-      "name": "A Super Bowl",
-      "count": 5,
-      "url": "https://www.latimes.com/sports/rams/story/2026-07-30/puka-nacua-has-to-shut-down-distractions-protect-super-bowl-run",
-      "source": "LA Times"
-    },
-    {
       "name": "The Winter Olympics",
-      "count": 5,
+      "count": 7,
       "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/saudi-2034-schedule-2035-01004717",
       "source": "Politico"
     },
     {
-      "name": "Iran War Is Entangling A Growing List",
+      "name": "A Super Bowl",
+      "count": 6,
+      "url": "https://www.latimes.com/sports/rams/story/2026-07-30/puka-nacua-has-to-shut-down-distractions-protect-super-bowl-run",
+      "source": "LA Times"
+    },
+    {
+      "name": "Civil War-Era",
+      "count": 4,
+      "url": "https://www.nbcnews.com/news/us-news/tsa-discovers-five-civil-war-era-cannonballs-travelers-luggage-rcna590198",
+      "source": "NBC News"
+    },
+    {
+      "name": "Iran War Drives Oil Profits",
       "count": 2,
-      "url": "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
+      "url": "https://www.nytimes.com/2026/07/31/business/energy-environment/exxon-chevron-earnings-iran-war.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Iran War Powers",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "World Cups",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/jul/30/uefa-agrees-to-boycott-fifa-competitions-if-world-cup-sell-off-plans-proceed",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gears Of War",
-      "count": 1,
-      "url": "https://www.theguardian.com/games/2026/jul/28/after-40-years-aliens-still-shapes-the-way-we-play-games",
-      "source": "The Guardian"
     },
     {
       "name": "Vitamix 5200",
@@ -180,36 +168,42 @@
       "source": "The Guardian"
     },
     {
-      "name": "L.A. Now",
+      "name": "World War Ii",
       "count": 1,
-      "url": "https://www.latimes.com/world-nation/story/2026-07-24/he-was-homeless-in-la-now-hes-accused-of-hurling-racist-slurs-at-today-host",
+      "url": "https://www.latimes.com/entertainment-arts/books/story/2026-07-31/10-best-books-august-2026",
       "source": "LA Times"
+    },
+    {
+      "name": "The World Cup'S",
+      "count": 1,
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/china-qualification-soccer-future-01004659",
+      "source": "Politico"
+    },
+    {
+      "name": "The Iran War",
+      "count": 1,
+      "url": "https://thehill.com/opinion/national-security/6000300-rebuild-us-industrial-base/",
+      "source": "The Hill"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Officials Stage Patriotic Exhibition",
-      "count": 43,
-      "url": "https://www.nytimes.com/2026/07/30/arts/design/trump-exhibition-patriotism.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Democratic Maine Senate",
-      "count": 21,
-      "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
-      "source": "Politico"
-    },
-    {
-      "name": "Fifa",
-      "count": 18,
-      "url": "https://www.theguardian.com/football/2026/jul/30/fifa-sale-congress-investigation-trump-ties",
-      "source": "The Guardian"
+      "name": "Target For Trump",
+      "count": 44,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     },
     {
       "name": "Hamas",
-      "count": 13,
-      "url": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6",
-      "source": "Wall St. Journal"
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Fifa",
+      "count": 16,
+      "url": "https://www.theguardian.com/football/2026/jul/31/fifa-plan-world-cup-64-teams-2030-tournament",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
@@ -219,34 +213,40 @@
     },
     {
       "name": "The White House",
-      "count": 11,
-      "url": "https://www.foxnews.com/politics/watch-gop-holdout-rejects-trump-threat-ag-nominee-standoff-explodes",
-      "source": "Fox News"
-    },
-    {
-      "name": "Gop",
-      "count": 10,
-      "url": "https://www.latimes.com/politics/story/2026-07-30/trump-might-pause-blanche-nomination-as-gop-senators-object-to-irs-settlement",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-07-29/california-teen-lifeguard-rescue-captures-awe",
       "source": "LA Times"
     },
     {
-      "name": "Withdraw Blanche",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html",
-      "source": "NY Times"
+      "name": "Guardian",
+      "count": 7,
+      "url": "https://www.theguardian.com/business/2026/jul/31/ben-jerrys-ice-cream-magnum-boycott",
+      "source": "The Guardian"
     },
     {
-      "name": "Ai ​Firm Hugging",
-      "count": 8,
+      "name": "Chp",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/31/teargas-legal-strife-turkey-chp-opposition-split-new-party-oust-erdogan",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai Claude",
+      "count": 7,
       "url": "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack",
       "source": "The Guardian"
     },
     {
-      "name": "Cbs News",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/30/cbs-news-ross-douthat-tv-experience",
+      "name": "Amazon     Continue",
+      "count": 6,
+      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
       "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 6,
+      "url": "https://www.foxnews.com/politics/house-democrat-blasted-after-early-release-law-freed-inmates-later-charged-murder",
+      "source": "Fox News"
     }
   ],
-  "updated": "2026-07-31T09:48:56Z"
+  "updated": "2026-07-31T15:22:54Z"
 };

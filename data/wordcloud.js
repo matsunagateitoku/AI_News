@@ -2,213 +2,218 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    70,
-    "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html"
+    75,
+    "https://www.nytimes.com/2026/07/30/us/politics/cornyn-trump-blanche.html"
   ],
   [
     "president",
-    33,
-    "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html"
+    35,
+    "https://www.nytimes.com/2026/07/30/us/politics/cornyn-trump-blanche.html"
   ],
   [
     "family",
-    32,
-    "https://www.theguardian.com/us-news/2026/jul/30/todd-blanche-attorney-general-doj-nomination-trump"
-  ],
-  [
-    "senate",
-    28,
-    "https://www.nytimes.com/2026/07/30/health/fauci-allegations-covid-origins.html"
-  ],
-  [
-    "food",
-    27,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/30/peptide-fda-rfk-jr-drug-regulation"
-  ],
-  [
-    "country",
-    26,
-    "https://www.nytimes.com/2026/07/31/business/korea-stocks-chips-kospi.html"
-  ],
-  [
-    "democratic",
-    26,
-    "https://www.theguardian.com/us-news/2026/jul/30/mandela-barnes-wisconsin-governor-race"
-  ],
-  [
-    "health",
-    25,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/30/peptide-fda-rfk-jr-drug-regulation"
-  ],
-  [
-    "party",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/jul/31/teargas-legal-strife-turkey-chp-opposition-split-new-party-oust-erdogan"
-  ],
-  [
-    "war",
-    21,
-    "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html"
-  ],
-  [
-    "fifa",
-    20,
+    29,
     "https://www.theguardian.com/football/2026/jul/30/fifa-sale-congress-investigation-trump-ties"
   ],
   [
     "summer",
-    20,
-    "https://www.theguardian.com/world/2026/jul/31/wildfires-extreme-weather-europe-spain-france-climate-crisis-analysis"
+    26,
+    "https://www.theguardian.com/us-news/2026/jul/31/unaccompanied-children-manhattan-immigration-court"
   ],
   [
-    "video",
-    19,
-    "https://www.nytimes.com/2026/07/31/opinion/face-self-reflection-technology-video.html"
+    "iran",
+    24,
+    "https://www.nytimes.com/2026/07/31/world/middleeast/iran-us-military-kuwait-drone-attack.html"
+  ],
+  [
+    "country",
+    23,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "water",
+    22,
+    "https://www.nytimes.com/2026/07/31/podcasts/the-headlines/cyberattack-us-water-space-junk-spain-migrants-fifa.html"
+  ],
+  [
+    "food",
+    22,
+    "https://www.theguardian.com/environment/2026/jul/30/europe-wildfires-climate-crisis-heat-summer"
+  ],
+  [
+    "political",
+    20,
+    "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html"
+  ],
+  [
+    "war",
+    20,
+    "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html"
   ],
   [
     "police",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/jul/31/teargas-legal-strife-turkey-chp-opposition-split-new-party-oust-erdogan"
+    20,
+    "https://www.nytimes.com/2026/07/31/nyregion/nypl-queens-bookops-salvatore-magaddino.html"
+  ],
+  [
+    "star",
+    20,
+    "https://www.theguardian.com/film/2026/jul/31/i-was-born-without-self-esteem-hannah-einbinder-on-hacks-her-buzzy-queer-horror-and-being-hollywoods-most-outspoken-star"
   ],
   [
     "cup",
+    20,
+    "https://www.theguardian.com/football/2026/jul/31/fifa-plan-world-cup-64-teams-2030-tournament"
+  ],
+  [
+    "spain",
     19,
-    "https://www.theguardian.com/football/2026/jul/31/can-we-kick-it-soccer-documentary"
+    "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html"
+  ],
+  [
+    "party",
+    19,
+    "https://www.theguardian.com/football/2026/jul/31/fifa-plan-world-cup-64-teams-2030-tournament"
+  ],
+  [
+    "europe",
+    18,
+    "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html"
+  ],
+  [
+    "hamas",
+    18,
+    "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html"
   ],
   [
     "gaza",
     17,
-    "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html"
+    "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html"
   ],
   [
-    "school",
+    "thousands",
     17,
-    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
+    "https://www.nytimes.com/2026/07/31/nyregion/nypl-queens-bookops-salvatore-magaddino.html"
   ],
   [
-    "review",
+    "again",
     17,
-    "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack"
+    "https://www.theguardian.com/world/2026/jul/31/iran-strikes-tankers-us-escort-hormuz-strait-trump-gathers-cabinet"
   ],
   [
-    "primary",
+    "health",
     17,
-    "https://www.theguardian.com/us-news/2026/jul/30/mandela-barnes-wisconsin-governor-race"
+    "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus"
   ],
   [
-    "nomination",
+    "ceuta",
     16,
-    "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
+    "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html"
   ],
   [
-    "political",
+    "military",
     16,
-    "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html"
+    "https://www.nytimes.com/2026/07/31/world/middleeast/iran-us-military-kuwait-drone-attack.html"
+  ],
+  [
+    "france",
+    16,
+    "https://www.nytimes.com/2026/07/31/france-heat-firebreak-buffer-wildfire.html"
   ],
   [
     "air",
     16,
-    "https://www.nytimes.com/2026/07/30/us/dulles-airport-people-movers-trump.html"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "iran",
+    "least",
     16,
-    "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "republicans",
+    "states",
     16,
-    "https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html"
+    "https://www.theguardian.com/commentisfree/2026/jul/31/mccarthyism-trump-surveillance-red-scare"
   ],
   [
-    "million",
+    "democratic",
     16,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.theguardian.com/us-news/2026/jul/31/st-paul-mayor-alleged-sexual-harassment"
   ],
   [
-    "released",
+    "fifa",
     16,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/football/2026/jul/31/fifa-plan-world-cup-64-teams-2030-tournament"
+  ],
+  [
+    "growing",
+    15,
+    "https://www.nytimes.com/2026/07/31/podcasts/the-headlines/cyberattack-us-water-space-junk-spain-migrants-fifa.html"
+  ],
+  [
+    "california",
+    15,
+    "https://www.nytimes.com/2026/07/31/climate/colorado-river-basin-water-cuts.html"
+  ],
+  [
+    "wildfires",
+    15,
+    "https://www.nytimes.com/2026/07/30/climate/france-spain-wildfires-climate-change.html"
+  ],
+  [
+    "questions",
+    15,
+    "https://www.nytimes.com/2026/07/30/science/testosterone-behavior-aggression.html"
+  ],
+  [
+    "latest",
+    15,
+    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
   ],
   [
     "hours",
-    16,
-    "https://www.theguardian.com/world/2026/jul/31/china-ai-jobs-workers-labour-market-technology"
-  ],
-  [
-    "because",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/31/experience-i-drive-a-bus-for-dogs"
-  ],
-  [
-    "don",
-    16,
-    "https://www.theguardian.com/music/2026/jul/31/rachel-chinouriri-interview-favourite-uk-pop-star-second-album"
-  ],
-  [
-    "politics",
-    16,
-    "https://www.theguardian.com/us-news/2026/jul/30/todd-blanche-attorney-general-doj-nomination-trump"
-  ],
-  [
-    "republican",
     15,
-    "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
+    "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths"
+  ],
+  [
+    "americans",
+    15,
+    "https://www.theguardian.com/culture/2026/jul/31/seth-meyers-trump-approval-rating"
   ],
   [
     "democrats",
     15,
-    "https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html"
-  ],
-  [
-    "water",
-    15,
-    "https://www.washingtonpost.com/nation/2026/07/29/denvers-drought-turns-lawncare-into-neighborhood-divide/"
-  ],
-  [
-    "hamas",
-    15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "fire",
-    15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "workers",
-    15,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.theguardian.com/football/2026/jul/30/fifa-sale-congress-investigation-trump-ties"
   ],
   [
     "feel",
     15,
-    "https://www.theguardian.com/games/2026/jul/31/my-family-is-coming-apart-so-its-time-for-one-last-video-game-session"
+    "https://www.theguardian.com/music/2026/jul/31/arca-xxxxx-review"
   ],
   [
-    "died",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/ice-detention-center-camp"
-  ],
-  [
-    "blanche",
+    "court",
     14,
-    "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
+    "https://www.nytimes.com/2026/07/31/us/politics/minnesota-ice-immigration-protests-justice-department-lemon-fort.html"
   ],
   [
-    "latest",
+    "international",
+    14,
+    "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html"
+  ],
+  [
+    "review",
+    14,
+    "https://www.nytimes.com/2026/07/28/movies/spider-man-brand-new-day-review.html"
+  ],
+  [
+    "york",
+    14,
+    "https://www.nytimes.com/2026/07/31/opinion/ezra-klein-podcast-maggie-haberman.html"
+  ],
+  [
+    "children",
     14,
     "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
-  ],
-  [
-    "questions",
-    14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "held",
-    14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
     "hollywood",
@@ -216,19 +221,9 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "again",
+    "camp",
     14,
-    "https://www.theguardian.com/music/2026/jul/31/rachel-chinouriri-interview-favourite-uk-pop-star-second-album"
-  ],
-  [
-    "shooting",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/30/seattle-police-chief-food-festival-shooting"
-  ],
-  [
-    "wisconsin",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/30/mandela-barnes-wisconsin-governor-race"
+    "https://www.theguardian.com/film/2026/jul/31/i-was-born-without-self-esteem-hannah-einbinder-on-hacks-her-buzzy-queer-horror-and-being-hollywoods-most-outspoken-star"
   ],
   [
     "film",
@@ -236,9 +231,29 @@
     "https://www.theguardian.com/film/2026/jul/31/i-was-born-without-self-esteem-hannah-einbinder-on-hacks-her-buzzy-queer-horror-and-being-hollywoods-most-outspoken-star"
   ],
   [
-    "care",
+    "sleep",
     14,
-    "https://www.theguardian.com/books/2026/jul/31/jacqueline-crooks-toni-morrisons-voice-made-me-want-to-find-my-own"
+    "https://www.theguardian.com/lifeandstyle/2026/jul/31/supplements-multivitamins-creatine-collagen-magnesium-omega"
+  ],
+  [
+    "young",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/31/unaccompanied-children-manhattan-immigration-court"
+  ],
+  [
+    "night",
+    14,
+    "https://www.theguardian.com/culture/2026/jul/31/seth-meyers-trump-approval-rating"
+  ],
+  [
+    "future",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/jul/31/haitian-temporary-protected-status-us-trump"
+  ],
+  [
+    "primary",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/30/mandela-barnes-wisconsin-governor-race"
   ],
   [
     "kitchen",
@@ -246,39 +261,39 @@
     "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas"
   ],
   [
-    "general",
+    "everything",
     13,
-    "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
+    "https://www.nytimes.com/2026/07/31/opinion/face-self-reflection-technology-video.html"
   ],
   [
-    "spain",
+    "video",
     13,
-    "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html"
+    "https://www.nytimes.com/2026/07/31/opinion/face-self-reflection-technology-video.html"
   ],
   [
-    "space",
+    "crisis",
     13,
-    "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "father",
+    "million",
     13,
-    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "least",
+    "pop",
     13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "star",
+    "football",
     13,
-    "https://www.theguardian.com/music/2026/jul/31/rachel-chinouriri-interview-favourite-uk-pop-star-second-album"
+    "https://www.theguardian.com/football/2026/jul/31/fifa-plan-world-cup-64-teams-2030-tournament"
   ],
   [
-    "court",
+    "something",
     13,
-    "https://www.theguardian.com/commentisfree/2026/jul/31/teargas-legal-strife-turkey-chp-opposition-split-new-party-oust-erdogan"
+    "https://www.theguardian.com/environment/2026/jul/30/europe-wildfires-climate-crisis-heat-summer"
   ],
   [
     "buying",
@@ -286,93 +301,78 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
   ],
   [
-    "games",
+    "texas",
     13,
-    "https://www.theguardian.com/games/2026/jul/31/my-family-is-coming-apart-so-its-time-for-one-last-video-game-session"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/30/peptide-fda-rfk-jr-drug-regulation"
   ],
   [
-    "mother",
-    13,
-    "https://www.theguardian.com/books/2026/jul/31/jacqueline-crooks-toni-morrisons-voice-made-me-want-to-find-my-own"
-  ],
-  [
-    "nancy",
-    13,
-    "https://www.theguardian.com/music/2026/jul/31/melodies-international-presents-ariwa-sounds-review-mad-professor"
-  ],
-  [
-    "sleep",
-    13,
-    "https://www.theguardian.com/thefilter-us/2025/oct/24/sleep-gadgets-aids-tech"
-  ],
-  [
-    "attorney",
+    "migrants",
     12,
-    "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
+    "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html"
   ],
   [
-    "john",
+    "border",
     12,
-    "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
+    "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html"
   ],
   [
-    "intelligence",
+    "government",
     12,
-    "https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html"
+    "https://www.nytimes.com/2026/07/31/us/politics/minnesota-ice-immigration-protests-justice-department-lemon-fort.html"
   ],
   [
-    "guide",
+    "israel",
     12,
-    "https://www.nytimes.com/2026/07/30/us/politics/kennedy-center-tours.html"
+    "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html"
   ],
   [
-    "black",
+    "inside",
     12,
-    "https://www.nytimes.com/2026/07/30/nyregion/mamdani-reparations-slavery.html"
+    "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html"
   ],
   [
-    "media",
+    "investigation",
     12,
-    "https://www.nytimes.com/2026/07/31/opinion/face-self-reflection-technology-video.html"
+    "https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html"
   ],
   [
-    "children",
+    "republicans",
     12,
-    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
+    "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html"
   ],
   [
-    "ice",
+    "hot",
+    12,
+    "https://www.nytimes.com/2026/07/30/climate/france-spain-wildfires-climate-change.html"
+  ],
+  [
+    "series",
+    12,
+    "https://www.nytimes.com/2026/07/28/movies/spider-man-brand-new-day-review.html"
+  ],
+  [
+    "early",
     12,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "filter",
+    "trying",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
+    "https://www.theguardian.com/world/2026/jul/31/iran-strikes-tankers-us-escort-hormuz-strait-trump-gathers-cabinet"
   ],
   [
-    "body",
+    "spanish",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/jul/30/best-compression-socks"
+    "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths"
   ],
   [
-    "department",
+    "senate",
     12,
-    "https://www.theguardian.com/us-news/2026/jul/30/todd-blanche-attorney-general-doj-nomination-trump"
+    "https://www.theguardian.com/us-news/2026/jul/31/trump-slush-fund-todd-blanche"
   ],
   [
-    "full",
+    "shark",
     12,
-    "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries"
-  ],
-  [
-    "history",
-    12,
-    "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus"
-  ],
-  [
-    "cbs",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/jul/30/cbs-news-ross-douthat-tv-experience"
+    "https://www.theguardian.com/us-news/2026/jul/31/great-white-shark-us-canada-coasts"
   ]
 ];
