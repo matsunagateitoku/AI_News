@@ -2,123 +2,103 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    92,
-    "https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html"
-  ],
-  [
-    "president",
-    39,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-appeal-irs-lawsuit-ruling.html"
+    80,
+    "https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html"
   ],
   [
     "iran",
-    30,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html"
+    36,
+    "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html"
+  ],
+  [
+    "president",
+    35,
+    "https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html"
   ],
   [
     "water",
     30,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html"
-  ],
-  [
-    "cup",
-    25,
-    "https://www.theguardian.com/football/2026/aug/01/fifa-scraps-plan-to-sell-off-stakes-in-world-cup-after-widespread-backlash"
-  ],
-  [
-    "family",
-    25,
-    "https://www.theguardian.com/football/2026/jul/30/fifa-sale-congress-investigation-trump-ties"
-  ],
-  [
-    "released",
-    23,
-    "https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html"
-  ],
-  [
-    "fifa",
-    23,
-    "https://www.theguardian.com/football/2026/aug/01/fifa-scraps-plan-to-sell-off-stakes-in-world-cup-after-widespread-backlash"
-  ],
-  [
-    "party",
-    22,
-    "https://www.nytimes.com/2026/07/31/us/amid-talk-of-a-party-switch-fetterman-vows-never.html"
-  ],
-  [
-    "air",
-    22,
-    "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html"
-  ],
-  [
-    "food",
-    22,
-    "https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions"
-  ],
-  [
-    "blanche",
-    21,
-    "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html"
+    "https://www.theguardian.com/us-news/2026/aug/01/hartman-colorado-town-abandoned"
   ],
   [
     "war",
-    21,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html"
+    28,
+    "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html"
   ],
   [
-    "case",
-    20,
-    "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
+    "family",
+    26,
+    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
+  ],
+  [
+    "cup",
+    24,
+    "https://www.theguardian.com/football/2026/aug/01/gianni-infantino-fifa-world-cup-sell-off-plans-scrapped-reaction-uefa-football"
   ],
   [
     "health",
-    19,
+    22,
     "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
   ],
   [
-    "attorney",
+    "fifa",
+    21,
+    "https://www.theguardian.com/football/2026/aug/01/gianni-infantino-fifa-world-cup-sell-off-plans-scrapped-reaction-uefa-football"
+  ],
+  [
+    "crisis",
+    20,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "food",
+    20,
+    "https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions"
+  ],
+  [
+    "book",
+    20,
+    "https://www.theguardian.com/technology/2026/aug/01/great-british-switch-off-fun-freeing-ways-ditch-smartphone-doomscrolling"
+  ],
+  [
+    "sex",
     19,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-appeal-irs-lawsuit-ruling.html"
-  ],
-  [
-    "nancy",
-    19,
-    "https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html"
-  ],
-  [
-    "david",
-    18,
-    "https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html"
-  ],
-  [
-    "country",
-    18,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html"
+    "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
   ],
   [
     "summer",
-    18,
-    "https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html"
+    19,
+    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
   ],
   [
-    "attack",
+    "air",
     18,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html"
   ],
   [
-    "cbs",
+    "israel",
     18,
-    "https://www.theguardian.com/sport/2026/jul/31/tony-romo-cbs-leave-owi-arrest-jj-watt-nfl-broadcast"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "least",
+    "democratic",
+    18,
+    "https://www.theguardian.com/us-news/2026/aug/01/troy-jackson-maine-senate"
+  ],
+  [
+    "nancy",
+    18,
+    "https://www.theguardian.com/music/2026/jul/31/melodies-international-presents-ariwa-sounds-review-mad-professor"
+  ],
+  [
+    "guthrie",
+    18,
+    "https://www.latimes.com/world-nation/story/2026-07-31/we-never-intended-to-hurt-her-ransom-notes-offer-new-details-in-nancy-guthrie-kidnapping-case"
+  ],
+  [
+    "ukraine",
     17,
-    "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html"
-  ],
-  [
-    "general",
-    17,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-appeal-irs-lawsuit-ruling.html"
+    "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html"
   ],
   [
     "senate",
@@ -126,179 +106,139 @@
     "https://www.nytimes.com/2026/07/31/us/why-mitch-mcconnell-isnt-giving-up-his-senate-seat.html"
   ],
   [
-    "office",
+    "blanche",
     17,
-    "https://www.nytimes.com/2026/07/31/movies/spider-man-brand-new-day-movie.html"
+    "https://www.theguardian.com/us-news/2026/aug/01/senate-committee-todd-blanche-attorney-general-nomination"
   ],
   [
-    "review",
+    "politics",
     17,
-    "https://www.nytimes.com/2026/07/28/movies/spider-man-brand-new-day-review.html"
+    "https://www.theguardian.com/us-news/2026/jul/31/trump-branded-us-passports"
   ],
   [
-    "york",
+    "death",
     17,
-    "https://www.nytimes.com/2026/07/31/opinion/ezra-klein-podcast-maggie-haberman.html"
+    "https://www.theguardian.com/us-news/2026/aug/01/d4vd-hearing-celeste-rivas-hernandez"
   ],
   [
-    "sex",
+    "black",
     17,
+    "https://www.theguardian.com/environment/2026/aug/01/eastern-europe-dried-up-rivers-tourism-energy-mammoth"
+  ],
+  [
+    "buying",
+    17,
+    "https://www.theguardian.com/commentisfree/picture/2026/aug/01/christopher-harry-buying-suv-cartoon"
+  ],
+  [
+    "children",
+    16,
+    "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
+  ],
+  [
+    "strikes",
+    16,
+    "https://www.nytimes.com/2026/08/01/world/middleeast/iran-kuwait-drone-strikes-trump-escalation.html"
+  ],
+  [
+    "dead",
+    16,
+    "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html"
+  ],
+  [
+    "case",
+    16,
     "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
   ],
   [
-    "spanish",
+    "review",
     16,
-    "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco.html"
+    "https://www.theguardian.com/football/2026/aug/01/gianni-infantino-fifa-world-cup-sell-off-plans-scrapped-reaction-uefa-football"
   ],
   [
-    "spain",
+    "fewer",
     16,
-    "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html"
+    "https://www.theguardian.com/us-news/2026/aug/01/troy-jackson-maine-senate"
   ],
   [
-    "government",
+    "york",
     16,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html"
+    "https://www.theguardian.com/us-news/2026/aug/01/new-york-city-flatiron-building-apartments"
   ],
   [
     "notes",
     16,
-    "https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html"
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
+  ],
+  [
+    "administration",
+    15,
+    "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
+  ],
+  [
+    "start",
+    15,
+    "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
   ],
   [
     "heat",
-    16,
-    "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html"
+    15,
+    "https://www.nytimes.com/2026/08/01/climate/heat-workplace-protections-osha-trump.html"
   ],
   [
-    "because",
-    16,
-    "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html"
-  ],
-  [
-    "israel",
-    16,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "star",
-    16,
-    "https://www.theguardian.com/world/2026/aug/01/noma-restaurant-reopens-new-leadership-abuse-allegations"
-  ],
-  [
-    "political",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/jul/31/mccarthyism-trump-surveillance-red-scare"
-  ],
-  [
-    "buying",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/01/alley-cats-ricky-gervais-review-back-boorish-sweary-comedy"
-  ],
-  [
-    "pool",
+    "david",
     15,
     "https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html"
   ],
   [
-    "hours",
+    "attack",
     15,
-    "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html"
-  ],
-  [
-    "department",
-    15,
-    "https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html"
-  ],
-  [
-    "feel",
-    15,
-    "https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html"
-  ],
-  [
-    "crisis",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "million",
-    15,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "donald",
-    15,
-    "https://www.theguardian.com/us-news/video/2026/jul/31/us-midterm-elections-voting-rights-stateside-podcast"
-  ],
-  [
-    "climate",
-    15,
-    "https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability"
-  ],
-  [
-    "states",
-    15,
-    "https://www.theguardian.com/us-news/2026/jul/31/colorado-river-water-cuts"
-  ],
-  [
-    "strikes",
-    15,
-    "https://www.theguardian.com/world/2026/aug/01/ukraine-war-briefing-missile-attack-on-kyiv-kills-at-least-three-as-zelenskyy-pushes-to-use-starlink-for-attacks-in-russia"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
     "energy",
     15,
-    "https://www.theguardian.com/commentisfree/2026/aug/01/us-iran-war-trump-recession"
+    "https://www.theguardian.com/environment/2026/aug/01/eastern-europe-dried-up-rivers-tourism-energy-mammoth"
   ],
   [
-    "start",
+    "states",
     14,
-    "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
+    "https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html"
   ],
   [
-    "children",
+    "democrats",
     14,
-    "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
+    "https://www.nytimes.com/2026/07/31/us/why-mitch-mcconnell-isnt-giving-up-his-senate-seat.html"
   ],
   [
-    "movie",
+    "least",
     14,
-    "https://www.nytimes.com/2026/07/31/movies/spider-man-brand-new-day-movie.html"
+    "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html"
   ],
   [
-    "democratic",
+    "odyssey",
     14,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html"
+    "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html"
   ],
   [
-    "todd",
+    "school",
     14,
-    "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html"
+    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
   ],
   [
-    "guthrie",
+    "series",
     14,
-    "https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html"
+    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
   ],
   [
-    "fewer",
+    "california",
     14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/jul/31/pacific-north-west-wildfires-firefighting-boots"
+    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
   ],
   [
-    "black",
+    "climate",
     14,
-    "https://www.theguardian.com/world/2026/aug/01/ukraine-war-briefing-missile-attack-on-kyiv-kills-at-least-three-as-zelenskyy-pushes-to-use-starlink-for-attacks-in-russia"
-  ],
-  [
-    "san",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/31/san-francisco-pitbull-rescue-tunnel"
-  ],
-  [
-    "politics",
-    14,
-    "https://www.theguardian.com/us-news/2026/jul/31/trump-branded-us-passports"
+    "https://www.theguardian.com/us-news/2026/aug/01/democrats-climate-policy-hushing"
   ],
   [
     "guide",
@@ -308,7 +248,7 @@
   [
     "filter",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/jul/31/tweens-back-to-school-supplies"
+    "https://www.theguardian.com/thefilter-us/2026/aug/01/best-nontoxic-sunscreen-sunblock-spf"
   ],
   [
     "sleep",
@@ -316,29 +256,29 @@
     "https://www.theguardian.com/thefilter-us/2025/oct/24/sleep-gadgets-aids-tech"
   ],
   [
+    "plans",
+    13,
+    "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
+  ],
+  [
+    "prices",
+    13,
+    "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html"
+  ],
+  [
     "died",
     13,
     "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html"
   ],
   [
-    "media",
+    "film",
     13,
-    "https://www.nytimes.com/2026/07/31/world/europe/young-men-poured-into-ceuta-seeking-work.html"
+    "https://www.nytimes.com/2026/07/30/dining/anthony-bourdain-provincetown-tony-movie.html"
   ],
   [
-    "reflecting",
+    "west",
     13,
-    "https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html"
-  ],
-  [
-    "ukraine",
-    13,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html"
-  ],
-  [
-    "wildfires",
-    13,
-    "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html"
+    "https://www.washingtonpost.com/nation/2026/08/01/coyotes-overtake-abandoned-housing-development-vexing-neighbors/"
   ],
   [
     "early",
@@ -346,33 +286,93 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "police",
+    "because",
     13,
-    "https://www.theguardian.com/world/2026/aug/01/wildfire-france-firefighters-battling-france-megafire"
+    "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
   ],
   [
-    "league",
+    "movie",
     13,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/01/glasgow-25-year-gruesome-gangland-feud-finally-over"
+    "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
   ],
   [
-    "cuts",
+    "hot",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/31/colorado-river-water-cuts"
+    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
   ],
   [
-    "california",
+    "don",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/31/colorado-river-water-cuts"
+    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
   ],
   [
-    "death",
+    "donald",
     13,
-    "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco"
+    "https://www.theguardian.com/commentisfree/2026/aug/01/democrats-donald-trump-us-midterms"
+  ],
+  [
+    "attorney",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/01/doj-new-mexico-epstein-documents"
+  ],
+  [
+    "general",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/01/doj-new-mexico-epstein-documents"
+  ],
+  [
+    "department",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/01/doj-new-mexico-epstein-documents"
   ],
   [
     "club",
     13,
     "https://www.theguardian.com/world/2026/aug/01/mystery-briton-found-dead-suitcase-athens"
+  ],
+  [
+    "role",
+    13,
+    "https://www.theguardian.com/sport/2026/jul/31/tony-romo-cbs-leave-owi-arrest-jj-watt-nfl-broadcast"
+  ],
+  [
+    "something",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/01/brazil-usaid-funding-hiv"
+  ],
+  [
+    "far",
+    12,
+    "https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html"
+  ],
+  [
+    "spain",
+    12,
+    "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html"
+  ],
+  [
+    "latest",
+    12,
+    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
+  ],
+  [
+    "released",
+    12,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "hours",
+    12,
+    "https://www.theguardian.com/world/2026/aug/01/wildfire-france-firefighters-battling-france-megafire"
+  ],
+  [
+    "political",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/01/democrats-climate-policy-hushing"
+  ],
+  [
+    "office",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/01/hartman-colorado-town-abandoned"
   ]
 ];
