@@ -2,63 +2,58 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    80,
-    "https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html"
-  ],
-  [
-    "iran",
-    36,
-    "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html"
+    82,
+    "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
   ],
   [
     "president",
-    35,
-    "https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html"
+    28,
+    "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
   ],
   [
     "water",
-    30,
-    "https://www.theguardian.com/us-news/2026/aug/01/hartman-colorado-town-abandoned"
-  ],
-  [
-    "war",
-    28,
-    "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html"
-  ],
-  [
-    "family",
-    26,
-    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
-  ],
-  [
-    "cup",
-    24,
-    "https://www.theguardian.com/football/2026/aug/01/gianni-infantino-fifa-world-cup-sell-off-plans-scrapped-reaction-uefa-football"
+    25,
+    "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html"
   ],
   [
     "health",
-    22,
-    "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
+    25,
+    "https://www.theguardian.com/society/2026/aug/01/ultra-processed-food-companies-hindering-health-drives-by-suing-countries-says-who"
   ],
   [
-    "fifa",
-    21,
-    "https://www.theguardian.com/football/2026/aug/01/gianni-infantino-fifa-world-cup-sell-off-plans-scrapped-reaction-uefa-football"
-  ],
-  [
-    "crisis",
-    20,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "case",
+    24,
+    "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
   ],
   [
     "food",
-    20,
-    "https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions"
+    24,
+    "https://www.nytimes.com/2026/08/01/opinion/poverty-america-oklahoma.html"
   ],
   [
     "book",
+    23,
+    "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain"
+  ],
+  [
+    "pool",
+    22,
+    "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
+  ],
+  [
+    "family",
+    22,
+    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
+  ],
+  [
+    "senate",
     20,
-    "https://www.theguardian.com/technology/2026/aug/01/great-british-switch-off-fun-freeing-ways-ditch-smartphone-doomscrolling"
+    "https://www.theguardian.com/us-news/2026/aug/01/senate-committee-todd-blanche-attorney-general-nomination"
+  ],
+  [
+    "crisis",
+    19,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "sex",
@@ -66,179 +61,199 @@
     "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
   ],
   [
-    "summer",
-    19,
-    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
-  ],
-  [
-    "air",
-    18,
-    "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html"
-  ],
-  [
-    "israel",
-    18,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "democratic",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/01/troy-jackson-maine-senate"
-  ],
-  [
-    "nancy",
-    18,
-    "https://www.theguardian.com/music/2026/jul/31/melodies-international-presents-ariwa-sounds-review-mad-professor"
-  ],
-  [
-    "guthrie",
-    18,
-    "https://www.latimes.com/world-nation/story/2026-07-31/we-never-intended-to-hurt-her-ransom-notes-offer-new-details-in-nancy-guthrie-kidnapping-case"
-  ],
-  [
-    "ukraine",
-    17,
-    "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html"
-  ],
-  [
-    "senate",
-    17,
-    "https://www.nytimes.com/2026/07/31/us/why-mitch-mcconnell-isnt-giving-up-his-senate-seat.html"
-  ],
-  [
-    "blanche",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/01/senate-committee-todd-blanche-attorney-general-nomination"
-  ],
-  [
-    "politics",
-    17,
-    "https://www.theguardian.com/us-news/2026/jul/31/trump-branded-us-passports"
-  ],
-  [
     "death",
-    17,
+    19,
     "https://www.theguardian.com/us-news/2026/aug/01/d4vd-hearing-celeste-rivas-hernandez"
   ],
   [
-    "black",
-    17,
-    "https://www.theguardian.com/environment/2026/aug/01/eastern-europe-dried-up-rivers-tourism-energy-mammoth"
+    "reflecting",
+    18,
+    "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
   ],
   [
-    "buying",
+    "iran",
+    18,
+    "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html"
+  ],
+  [
+    "war",
     17,
-    "https://www.theguardian.com/commentisfree/picture/2026/aug/01/christopher-harry-buying-suv-cartoon"
+    "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html"
+  ],
+  [
+    "democrats",
+    17,
+    "https://www.nytimes.com/2026/08/01/opinion/trump-maga-republican-midterm.html"
+  ],
+  [
+    "school",
+    17,
+    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
+  ],
+  [
+    "summer",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
+  ],
+  [
+    "attorney",
+    16,
+    "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
   ],
   [
     "children",
     16,
-    "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
+    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
   ],
   [
-    "strikes",
+    "air",
     16,
-    "https://www.nytimes.com/2026/08/01/world/middleeast/iran-kuwait-drone-strikes-trump-escalation.html"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "dead",
+    "early",
     16,
-    "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "case",
+    "california",
     16,
-    "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
+    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
   ],
   [
-    "review",
+    "david",
     16,
-    "https://www.theguardian.com/football/2026/aug/01/gianni-infantino-fifa-world-cup-sell-off-plans-scrapped-reaction-uefa-football"
-  ],
-  [
-    "fewer",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/01/troy-jackson-maine-senate"
+    "https://www.theguardian.com/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline"
   ],
   [
     "york",
     16,
-    "https://www.theguardian.com/us-news/2026/aug/01/new-york-city-flatiron-building-apartments"
+    "https://www.theguardian.com/media/2026/aug/01/subpoena-freelance-new-york-times-reporter"
   ],
   [
-    "notes",
+    "democratic",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
+    "https://www.theguardian.com/us-news/2026/aug/01/troy-jackson-maine-senate"
   ],
   [
-    "administration",
+    "black",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/02/the-moment-i-knew-love-story-mother-japan-tsunami"
+  ],
+  [
+    "buying",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/01/alley-cats-ricky-gervais-review-back-boorish-sweary-comedy"
+  ],
+  [
+    "baby",
+    16,
+    "https://www.theguardian.com/fashion/2026/jul/24/secondhand-fashion-thrifting-depop-cost"
+  ],
+  [
+    "released",
     15,
-    "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "start",
+    "don",
     15,
-    "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
+    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
   ],
   [
-    "heat",
+    "social",
     15,
-    "https://www.nytimes.com/2026/08/01/climate/heat-workplace-protections-osha-trump.html"
+    "https://www.theguardian.com/us-news/2026/aug/01/trump-truth-social-early-access"
   ],
   [
-    "david",
+    "guthrie",
     15,
-    "https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html"
+    "https://www.theguardian.com/us-news/2026/aug/01/nancy-guthrie-family-plea-information"
   ],
   [
-    "attack",
+    "sleep",
     15,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.theguardian.com/tv-and-radio/2026/aug/02/rhys-nicholson-comedian-drag-race-down-under-judge-interview-10-questions"
   ],
   [
-    "energy",
+    "cup",
     15,
-    "https://www.theguardian.com/environment/2026/aug/01/eastern-europe-dried-up-rivers-tourism-energy-mammoth"
+    "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
   ],
   [
-    "states",
-    14,
-    "https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html"
-  ],
-  [
-    "democrats",
-    14,
-    "https://www.nytimes.com/2026/07/31/us/why-mitch-mcconnell-isnt-giving-up-his-senate-seat.html"
+    "review",
+    15,
+    "https://www.theguardian.com/film/2026/aug/01/the-odyssey-movie-discourse"
   ],
   [
     "least",
     14,
-    "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html"
+    "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html"
   ],
   [
-    "odyssey",
+    "million",
     14,
-    "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "school",
+    "country",
     14,
-    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "series",
+    "because",
     14,
-    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
+    "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
   ],
   [
-    "california",
+    "recent",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
+    "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
   ],
   [
-    "climate",
+    "events",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/01/democrats-climate-policy-hushing"
+    "https://www.theguardian.com/commentisfree/2026/aug/01/democrats-donald-trump-us-midterms"
+  ],
+  [
+    "league",
+    14,
+    "https://www.theguardian.com/news/ng-interactive/2026/aug/01/glasgow-25-year-gruesome-gangland-feud-finally-over"
+  ],
+  [
+    "general",
+    14,
+    "https://www.theguardian.com/society/2026/aug/01/ultra-processed-food-companies-hindering-health-drives-by-suing-countries-says-who"
+  ],
+  [
+    "notes",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/01/nancy-guthrie-family-plea-information"
+  ],
+  [
+    "dead",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/01/nancy-guthrie-family-plea-information"
+  ],
+  [
+    "night",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/01/nancy-guthrie-family-plea-information"
+  ],
+  [
+    "club",
+    14,
+    "https://www.theguardian.com/technology/2026/aug/01/great-british-switch-off-fun-freeing-ways-ditch-smartphone-doomscrolling"
+  ],
+  [
+    "fifa",
+    14,
+    "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
+  ],
+  [
+    "star",
+    14,
+    "https://www.theguardian.com/education/ng-interactive/2026/aug/01/playbooks-plagiarism-pigs-head-new-claims-surrounding-cambridge-professor-jason-arday"
   ],
   [
     "guide",
@@ -251,19 +266,14 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/01/best-nontoxic-sunscreen-sunblock-spf"
   ],
   [
-    "sleep",
-    14,
-    "https://www.theguardian.com/thefilter-us/2025/oct/24/sleep-gadgets-aids-tech"
+    "justice",
+    13,
+    "https://www.nytimes.com/2026/08/01/us/politics/times-subpoena-reporter-trump-north-korea.html"
   ],
   [
-    "plans",
+    "american",
     13,
-    "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
-  ],
-  [
-    "prices",
-    13,
-    "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html"
+    "https://www.nytimes.com/2026/08/01/world/middleeast/iran-kuwait-drone-strikes-trump-escalation.html"
   ],
   [
     "died",
@@ -271,24 +281,19 @@
     "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html"
   ],
   [
-    "film",
+    "questions",
     13,
-    "https://www.nytimes.com/2026/07/30/dining/anthony-bourdain-provincetown-tony-movie.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "west",
+    "attack",
     13,
-    "https://www.washingtonpost.com/nation/2026/08/01/coyotes-overtake-abandoned-housing-development-vexing-neighbors/"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "early",
+    "hours",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "because",
-    13,
-    "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
+    "https://www.theguardian.com/world/2026/aug/01/wildfire-france-firefighters-battling-france-megafire"
   ],
   [
     "movie",
@@ -301,78 +306,73 @@
     "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
   ],
   [
-    "don",
+    "political",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
+    "https://www.theguardian.com/us-news/2026/aug/01/democrats-climate-policy-hushing"
   ],
   [
-    "donald",
+    "nancy",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/01/democrats-donald-trump-us-midterms"
+    "https://www.theguardian.com/us-news/2026/aug/01/nancy-guthrie-family-plea-information"
   ],
   [
-    "attorney",
+    "republican",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/01/doj-new-mexico-epstein-documents"
+    "https://www.theguardian.com/us-news/2026/aug/01/senate-committee-todd-blanche-attorney-general-nomination"
   ],
   [
-    "general",
+    "fewer",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/01/doj-new-mexico-epstein-documents"
+    "https://www.theguardian.com/us-news/2026/aug/01/troy-jackson-maine-senate"
   ],
   [
-    "department",
+    "race",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/01/doj-new-mexico-epstein-documents"
+    "https://www.theguardian.com/us-news/2026/aug/01/troy-jackson-maine-senate"
   ],
   [
-    "club",
+    "books",
     13,
-    "https://www.theguardian.com/world/2026/aug/01/mystery-briton-found-dead-suitcase-athens"
+    "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain"
   ],
   [
-    "role",
+    "games",
     13,
-    "https://www.theguardian.com/sport/2026/jul/31/tony-romo-cbs-leave-owi-arrest-jj-watt-nfl-broadcast"
+    "https://www.theguardian.com/commentisfree/2026/aug/01/the-hill-i-will-die-on-games-are-the-opposite-of-fun"
   ],
   [
-    "something",
+    "san",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/01/brazil-usaid-funding-hiv"
+    "https://www.theguardian.com/us-news/2026/jul/31/san-francisco-pitbull-rescue-tunnel"
   ],
   [
-    "far",
+    "odyssey",
+    13,
+    "https://www.theguardian.com/film/2026/aug/01/the-odyssey-movie-discourse"
+  ],
+  [
+    "primary",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/31/should-i-leave-my-polyamorous-relationship-if-i-want-to-start-a-family"
+  ],
+  [
+    "campaign",
     12,
-    "https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html"
+    "https://www.nytimes.com/2026/08/01/us/politics/times-subpoena-reporter-trump-north-korea.html"
   ],
   [
-    "spain",
+    "film",
     12,
-    "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html"
+    "https://www.nytimes.com/2026/07/30/dining/anthony-bourdain-provincetown-tony-movie.html"
   ],
   [
-    "latest",
+    "series",
     12,
     "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
   ],
   [
-    "released",
+    "global",
     12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "hours",
-    12,
-    "https://www.theguardian.com/world/2026/aug/01/wildfire-france-firefighters-battling-france-megafire"
-  ],
-  [
-    "political",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/01/democrats-climate-policy-hushing"
-  ],
-  [
-    "office",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/01/hartman-colorado-town-abandoned"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ]
 ];
