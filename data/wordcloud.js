@@ -2,68 +2,68 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    79,
-    "https://www.nytimes.com/2026/07/31/business/corporate-mergers-deals-trump.html"
+    94,
+    "https://www.nytimes.com/2026/07/31/briefing/ceuta-gaza-colorado.html"
   ],
   [
     "president",
-    30,
+    42,
     "https://www.nytimes.com/2026/07/31/us/politics/trump-appeal-irs-lawsuit-ruling.html"
   ],
   [
-    "water",
+    "cup",
     29,
+    "https://www.theguardian.com/commentisfree/2026/jul/31/world-cup-sell-stakes-gianni-infantino-fifa"
+  ],
+  [
+    "water",
+    28,
+    "https://www.nytimes.com/2026/07/31/briefing/ceuta-gaza-colorado.html"
+  ],
+  [
+    "fifa",
+    27,
+    "https://www.theguardian.com/commentisfree/2026/jul/31/world-cup-sell-stakes-gianni-infantino-fifa"
+  ],
+  [
+    "iran",
+    25,
     "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html"
   ],
   [
-    "air",
-    25,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "israel",
-    23,
-    "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html"
-  ],
-  [
-    "summer",
-    23,
-    "https://www.theguardian.com/us-news/2026/jul/31/unaccompanied-children-manhattan-immigration-court"
+    "released",
+    24,
+    "https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html"
   ],
   [
     "family",
-    23,
+    24,
     "https://www.theguardian.com/football/2026/jul/30/fifa-sale-congress-investigation-trump-ties"
   ],
   [
-    "hamas",
-    21,
-    "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html"
-  ],
-  [
-    "gaza",
-    20,
-    "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html"
-  ],
-  [
-    "food",
-    20,
-    "https://www.nytimes.com/2026/07/31/us/cyclospora-cyclosporiasis-nashville.html"
-  ],
-  [
-    "star",
-    20,
-    "https://www.theguardian.com/film/2026/jul/31/i-was-born-without-self-esteem-hannah-einbinder-on-hacks-her-buzzy-queer-horror-and-being-hollywoods-most-outspoken-star"
-  ],
-  [
-    "cup",
-    20,
-    "https://www.theguardian.com/football/2026/jul/31/infantino-under-huge-pressure-after-plan-for-world-cup-sell-off-sparks-resignation-and-rebuke"
-  ],
-  [
     "health",
+    22,
+    "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
+  ],
+  [
+    "blanche",
+    21,
+    "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html"
+  ],
+  [
+    "summer",
+    21,
+    "https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html"
+  ],
+  [
+    "air",
+    21,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "case",
     20,
-    "https://www.theguardian.com/wellness/2026/jul/31/hobbies-can-improve-your-health"
+    "https://www.theguardian.com/thefilter-us/2026/jul/31/tweens-back-to-school-supplies"
   ],
   [
     "party",
@@ -71,54 +71,79 @@
     "https://www.nytimes.com/2026/07/31/us/amid-talk-of-a-party-switch-fetterman-vows-never.html"
   ],
   [
-    "iran",
+    "nancy",
     19,
-    "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html"
+    "https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html"
   ],
   [
-    "released",
-    18,
-    "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html"
+    "israel",
+    19,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "democratic",
+    "david",
     18,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html"
+    "https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html"
   ],
   [
-    "review",
+    "attorney",
     18,
-    "https://www.nytimes.com/2026/07/31/arts/the-odyssey-emily-wilson-christopher-nolan.html"
-  ],
-  [
-    "states",
-    18,
-    "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html"
+    "https://www.nytimes.com/2026/07/31/us/politics/trump-appeal-irs-lawsuit-ruling.html"
   ],
   [
     "country",
     18,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html"
   ],
   [
-    "california",
+    "food",
     18,
-    "https://www.theguardian.com/us-news/2026/jul/31/colorado-river-water-cuts"
+    "https://www.theguardian.com/world/2026/aug/01/ukraine-war-briefing-missile-attack-on-kyiv-kills-at-least-three-as-zelenskyy-pushes-to-use-starlink-for-attacks-in-russia"
   ],
   [
-    "crisis",
-    17,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "political",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/jul/31/mccarthyism-trump-surveillance-red-scare"
   ],
   [
-    "fire",
-    17,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "cbs",
+    18,
+    "https://www.theguardian.com/sport/2026/jul/31/tony-romo-cbs-leave-owi-arrest-jj-watt-nfl-broadcast"
   ],
   [
-    "least",
+    "general",
     17,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.nytimes.com/2026/07/31/us/politics/trump-appeal-irs-lawsuit-ruling.html"
+  ],
+  [
+    "heat",
+    17,
+    "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html"
+  ],
+  [
+    "attack",
+    17,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "star",
+    17,
+    "https://www.theguardian.com/film/2026/jul/31/i-was-born-without-self-esteem-hannah-einbinder-on-hacks-her-buzzy-queer-horror-and-being-hollywoods-most-outspoken-star"
+  ],
+  [
+    "senate",
+    16,
+    "https://www.nytimes.com/2026/07/31/us/why-mitch-mcconnell-isnt-giving-up-his-senate-seat.html"
+  ],
+  [
+    "office",
+    16,
+    "https://www.nytimes.com/2026/07/31/movies/spider-man-brand-new-day-movie.html"
+  ],
+  [
+    "notes",
+    16,
+    "https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html"
   ],
   [
     "york",
@@ -126,119 +151,99 @@
     "https://www.nytimes.com/2026/07/31/opinion/ezra-klein-podcast-maggie-haberman.html"
   ],
   [
-    "political",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/jul/31/mccarthyism-trump-surveillance-red-scare"
-  ],
-  [
-    "role",
-    16,
-    "https://www.theguardian.com/film/2026/jul/31/i-was-born-without-self-esteem-hannah-einbinder-on-hacks-her-buzzy-queer-horror-and-being-hollywoods-most-outspoken-star"
-  ],
-  [
-    "san",
-    16,
-    "https://www.theguardian.com/film/2026/jul/31/ryan-gosling-ghost-rider-marvel-week-in-geek"
-  ],
-  [
-    "fifa",
-    16,
-    "https://www.theguardian.com/football/2026/jul/31/infantino-under-huge-pressure-after-plan-for-world-cup-sell-off-sparks-resignation-and-rebuke"
-  ],
-  [
-    "media",
-    15,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html"
-  ],
-  [
-    "questions",
-    15,
-    "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html"
-  ],
-  [
-    "war",
-    15,
-    "https://www.nytimes.com/2026/07/31/world/americas/plane-douglas-dc3-wwii-colombia.html"
-  ],
-  [
-    "wildfires",
-    15,
-    "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html"
-  ],
-  [
     "spain",
-    15,
+    16,
     "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html"
   ],
   [
-    "started",
+    "spanish",
     15,
-    "https://www.nytimes.com/2026/07/31/us/cyclospora-cyclosporiasis-nashville.html"
+    "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco.html"
   ],
   [
     "children",
     15,
-    "https://www.washingtonpost.com/nation/2026/07/30/colin-gray-father-georgia-school-shooter-sentenced-15-years-prison/"
+    "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
   ],
   [
-    "million",
+    "pool",
     15,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html"
   ],
   [
-    "ice",
+    "government",
     15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html"
   ],
   [
-    "cbs",
+    "department",
     15,
-    "https://www.theguardian.com/sport/2026/jul/31/tony-romo-cbs-leave-owi-arrest-jj-watt-nfl-broadcast"
+    "https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html"
+  ],
+  [
+    "war",
+    15,
+    "https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html"
+  ],
+  [
+    "least",
+    15,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "donald",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/jul/31/world-cup-sell-stakes-gianni-infantino-fifa"
+  ],
+  [
+    "climate",
+    15,
+    "https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability"
+  ],
+  [
+    "democratic",
+    14,
+    "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html"
+  ],
+  [
+    "guthrie",
+    14,
+    "https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html"
+  ],
+  [
+    "again",
+    14,
+    "https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html"
   ],
   [
     "feel",
-    15,
-    "https://www.theguardian.com/music/2026/jul/31/arca-xxxxx-review"
-  ],
-  [
-    "because",
     14,
-    "https://www.nytimes.com/2026/07/31/business/korea-stocks-chips-kospi.html"
+    "https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html"
   ],
   [
-    "senate",
-    14,
-    "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html"
-  ],
-  [
-    "france",
-    14,
-    "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html"
-  ],
-  [
-    "inside",
+    "million",
     14,
     "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "sleep",
+    "north",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/31/supplements-multivitamins-creatine-collagen-magnesium-omega"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "diego",
+    "ice",
     14,
-    "https://www.theguardian.com/film/2026/jul/31/ryan-gosling-ghost-rider-marvel-week-in-geek"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "night",
+    "sell",
     14,
-    "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news"
+    "https://www.theguardian.com/commentisfree/2026/jul/31/world-cup-sell-stakes-gianni-infantino-fifa"
   ],
   [
-    "hours",
+    "role",
     14,
-    "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths"
+    "https://www.theguardian.com/film/2026/jul/31/i-was-born-without-self-esteem-hannah-einbinder-on-hacks-her-buzzy-queer-horror-and-being-hollywoods-most-outspoken-star"
   ],
   [
     "buying",
@@ -246,49 +251,79 @@
     "https://www.theguardian.com/thefilter-us/2026/jul/31/tweens-back-to-school-supplies"
   ],
   [
-    "record",
+    "states",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/31/colorado-river-water-cuts"
+  ],
+  [
+    "energy",
+    14,
+    "https://www.theguardian.com/world/2026/jul/31/iran-strikes-tankers-us-escort-hormuz-strait-trump-gathers-cabinet"
+  ],
+  [
+    "black",
+    14,
+    "https://www.theguardian.com/world/2026/aug/01/ukraine-war-briefing-missile-attack-on-kyiv-kills-at-least-three-as-zelenskyy-pushes-to-use-starlink-for-attacks-in-russia"
+  ],
+  [
+    "san",
+    14,
+    "https://www.theguardian.com/us-news/2026/jul/31/san-francisco-pitbull-rescue-tunnel"
+  ],
+  [
+    "music",
     14,
     "https://www.theguardian.com/music/2026/jul/31/ariana-grande-petal-album-review"
   ],
   [
-    "south",
-    13,
-    "https://www.nytimes.com/2026/07/31/business/korea-stocks-chips-kospi.html"
+    "sleep",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/jul/31/supplements-multivitamins-creatine-collagen-magnesium-omega"
   ],
   [
-    "republicans",
+    "social",
     13,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html"
+    "https://www.nytimes.com/2026/07/31/world/europe/young-men-poured-into-ceuta-seeking-work.html"
   ],
   [
-    "government",
+    "media",
     13,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html"
-  ],
-  [
-    "europe",
-    13,
-    "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html"
-  ],
-  [
-    "pop",
-    13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "camp",
-    13,
-    "https://www.theguardian.com/film/2026/jul/31/i-was-born-without-self-esteem-hannah-einbinder-on-hacks-her-buzzy-queer-horror-and-being-hollywoods-most-outspoken-star"
+    "https://www.nytimes.com/2026/07/31/world/europe/young-men-poured-into-ceuta-seeking-work.html"
   ],
   [
     "cuts",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/31/colorado-river-water-cuts"
+    "https://www.nytimes.com/2026/07/31/briefing/ceuta-gaza-colorado.html"
   ],
   [
-    "donald",
+    "latest",
     13,
-    "https://www.theguardian.com/us-news/2026/jul/31/trump-cabinet-camp-david-ukraine"
+    "https://www.nytimes.com/2026/07/31/briefing/ceuta-gaza-colorado.html"
+  ],
+  [
+    "reflecting",
+    13,
+    "https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html"
+  ],
+  [
+    "review",
+    13,
+    "https://www.nytimes.com/2026/07/28/movies/spider-man-brand-new-day-review.html"
+  ],
+  [
+    "todd",
+    13,
+    "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html"
+  ],
+  [
+    "because",
+    13,
+    "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html"
+  ],
+  [
+    "crisis",
+    13,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "fewer",
@@ -296,29 +331,34 @@
     "https://www.theguardian.com/us-news/ng-interactive/2026/jul/31/pacific-north-west-wildfires-firefighting-boots"
   ],
   [
-    "mother",
-    13,
-    "https://www.theguardian.com/wellness/2026/jul/31/hobbies-can-improve-your-health"
-  ],
-  [
     "filter",
     13,
     "https://www.theguardian.com/thefilter-us/2026/jul/31/tweens-back-to-school-supplies"
   ],
   [
-    "album",
+    "california",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/31/colorado-river-water-cuts"
+  ],
+  [
+    "technology",
+    13,
+    "https://www.theguardian.com/world/2026/aug/01/ukraine-war-briefing-missile-attack-on-kyiv-kills-at-least-three-as-zelenskyy-pushes-to-use-starlink-for-attacks-in-russia"
+  ],
+  [
+    "politics",
+    13,
+    "https://www.theguardian.com/us-news/2026/jul/31/trump-branded-us-passports"
+  ],
+  [
+    "record",
     13,
     "https://www.theguardian.com/music/2026/jul/31/ariana-grande-petal-album-review"
   ],
   [
-    "primary",
+    "history",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/jul/31/should-i-leave-my-polyamorous-relationship-if-i-want-to-start-a-family"
-  ],
-  [
-    "latest",
-    12,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-appeal-irs-lawsuit-ruling.html"
+    "https://www.theguardian.com/sport/2026/jul/31/ayami-sato-womens-professional-baseball-league-los-angeles-queens-profile"
   ],
   [
     "early",
@@ -326,53 +366,13 @@
     "https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-morocco-ceuta-spain.html"
   ],
   [
-    "minnesota",
+    "start",
     12,
-    "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html"
+    "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
   ],
   [
-    "huge",
+    "republican",
     12,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "medical",
-    12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "sex",
-    12,
-    "https://www.theguardian.com/film/2026/jul/31/i-was-born-without-self-esteem-hannah-einbinder-on-hacks-her-buzzy-queer-horror-and-being-hollywoods-most-outspoken-star"
-  ],
-  [
-    "film",
-    12,
-    "https://www.theguardian.com/film/2026/jul/31/i-was-born-without-self-esteem-hannah-einbinder-on-hacks-her-buzzy-queer-horror-and-being-hollywoods-most-outspoken-star"
-  ],
-  [
-    "infantino",
-    12,
-    "https://www.theguardian.com/football/2026/jul/31/infantino-under-huge-pressure-after-plan-for-world-cup-sell-off-sparks-resignation-and-rebuke"
-  ],
-  [
-    "marine",
-    12,
-    "https://www.theguardian.com/world/2026/jul/31/wildfires-french-leaders-climate-crisis-elections"
-  ],
-  [
-    "guide",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/jul/31/tweens-back-to-school-supplies"
-  ],
-  [
-    "case",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/jul/31/tweens-back-to-school-supplies"
-  ],
-  [
-    "release",
-    12,
-    "https://www.theguardian.com/film/2026/jul/31/release-schedule-when-to-wee-and-when-to-wait-during-this-summers-biggest-movies"
+    "https://www.nytimes.com/2026/07/31/us/why-mitch-mcconnell-isnt-giving-up-his-senate-seat.html"
   ]
 ];
