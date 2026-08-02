@@ -4,194 +4,144 @@
     {
       "name": "Us",
       "count": 40,
-      "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/02/pro-israel-lobby-presidents",
       "source": "The Guardian"
     },
     {
-      "name": "The Islamic Republic Of Iran",
-      "count": 29,
-      "url": "https://thehill.com/homenews/administration/6004176-iran-deal-parameters-trump/",
-      "source": "The Hill"
+      "name": "Iran",
+      "count": 27,
+      "url": "https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
+      "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 20,
+      "count": 19,
       "url": "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html",
       "source": "NY Times"
     },
     {
+      "name": "Ohio",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/08/02/us/elections/max-miller-ohio-republican-moreno-election.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Uk",
-      "count": 14,
-      "url": "https://www.theguardian.com/environment/2026/aug/02/alfred-drummond-herdman-animal-dung-fungi-films-aoe",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Spain",
       "count": 11,
-      "url": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Idaho",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/aug/02/bryan-kohberger-idaho-killer-guilty-plea-trial",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/02/donald-trump-iran-afghanistan-25-years-same-mistakes",
       "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/aug/01/california-minimum-wage-increase",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
-      "source": "NY Times"
     },
     {
       "name": "West Hollywood",
-      "count": 7,
+      "count": 8,
       "url": "https://www.washingtonpost.com/nation/2026/08/01/coyotes-overtake-abandoned-housing-development-vexing-neighbors/",
       "source": "Washington Post"
     },
     {
-      "name": "Arizona",
+      "name": "Idaho",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/aug/02/bryan-kohberger-idaho-killer-guilty-plea-trial",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Washington Dc",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/02/donald-trump-iran-afghanistan-25-years-same-mistakes",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County'S",
+      "count": 8,
+      "url": "https://www.latimes.com/california/story/2026-08-02/point-dume-beach-westward-road-parking-lot-restrooms-closed-extreme-erosion",
+      "source": "LA Times"
+    },
+    {
+      "name": "Athens",
       "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/aug/02/us-measles-cases-outbreak",
+      "url": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
-      "name": "Donald Trump",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering",
-      "source": "The Guardian"
-    },
-    {
       "name": "Donald Trump ’S",
-      "count": 16,
+      "count": 17,
       "url": "https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering",
       "source": "The Guardian"
     },
     {
-      "name": "Vincent Pastore",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/aug/01/sopranos-actor-vincent-pastore-dead-80",
-      "source": "The Guardian"
+      "name": "Margaret Brennan",
+      "count": 16,
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-08-02-2026/",
+      "source": "CBS News"
     },
     {
-      "name": "Twin Falls",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say",
-      "source": "The Guardian"
+      "name": "John Kennedy",
+      "count": 15,
+      "url": "https://www.nbcnews.com/meet-the-press/video/gop-sen-john-kennedy-i-wouldn-t-bet-my-house-on-blanche-s-confirmation-as-attorney-general-267645509641",
+      "source": "NBC News"
     },
     {
-      "name": "Olympian David Hearn",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/jul/31/reflecting-pool-damage-olympian",
+      "name": "Rep Max Miller",
+      "count": 14,
+      "url": "https://www.foxnews.com/politics/ohio-gop-family-feud-explodes-sen-bernie-moreno-calls-rep-max-miller-resign",
+      "source": "Fox News"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 14,
+      "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
       "source": "The Guardian"
     },
     {
       "name": "Odyssey",
-      "count": 7,
-      "url": "https://www.theguardian.com/film/2026/aug/01/the-odyssey-movie-discourse",
+      "count": 9,
+      "url": "https://www.theguardian.com/film/2026/aug/02/matt-damon-stunt-double-the-odyssey-devyn-dalton",
       "source": "The Guardian"
+    },
+    {
+      "name": "Marcy Kaptur",
+      "count": 8,
+      "url": "https://www.foxnews.com/politics/ohio-rep-marcy-kaptur-hospitalized-after-car-crash-way-church",
+      "source": "Fox News"
+    },
+    {
+      "name": "Sen Bernie Moreno",
+      "count": 8,
+      "url": "https://www.foxnews.com/politics/ohio-gop-family-feud-explodes-sen-bernie-moreno-calls-rep-max-miller-resign",
+      "source": "Fox News"
+    },
+    {
+      "name": "Mike Turner",
+      "count": 8,
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-08-02-2026/",
+      "source": "CBS News"
     },
     {
       "name": "Alyssa Thomas",
       "count": 6,
       "url": "https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment",
       "source": "The Guardian"
-    },
-    {
-      "name": "Ayami Sato",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/jul/31/ayami-sato-womens-professional-baseball-league-los-angeles-queens-profile",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Wnba",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tarik Skubal",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/aug/02/tarik-skubal-trade-dodgers-tigers-mlb",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Organization’S",
-      "count": 49,
-      "url": "https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 13,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 12,
-      "url": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Democratic Maine Senate",
-      "count": 12,
-      "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
-      "source": "Politico"
-    },
-    {
-      "name": "The Fever And Sophie Cunningham",
-      "count": 11,
-      "url": "https://www.foxnews.com/outkick-sports/wnba-followers-enraged-three-head-coaches-comments-protecting-womens-sports-two-days",
-      "source": "Fox News"
-    },
-    {
-      "name": "Gop",
-      "count": 7,
-      "url": "https://www.foxnews.com/politics/gop-rep-max-miller-pushes-back-against-abuse-allegations-have-nothing-hide",
-      "source": "Fox News"
-    },
-    {
-      "name": "Pokémon Go",
-      "count": 6,
-      "url": "https://www.theguardian.com/games/2026/aug/02/the-language-of-pokemon-is-universal-why-fans-are-still-catching-em-all-after-30-years",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Freelance New York Times",
-      "count": 6,
-      "url": "https://www.theguardian.com/media/2026/aug/01/subpoena-freelance-new-york-times-reporter",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hamas",
-      "count": 5,
-      "url": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Guardian",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/aug/02/ice-death-pittsburgh-daphy-michel-haiti",
-      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The World Cup",
-      "count": 6,
-      "url": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-could-face-leadership-challenge-as-fifa-council-members-rebel",
+      "count": 8,
+      "url": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-fifa-president-pressure-uefa-members-prepare-oppose-re-election",
       "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War On Oil Prices",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "A World Series",
+      "count": 3,
+      "url": "https://www.foxnews.com/outkick-sports/los-angeles-dodgers-trade-tarik-skubal-highlights-major-league-baseballs-massive-problem",
+      "source": "Fox News"
     },
     {
       "name": "The 2026 World Cup",
@@ -200,16 +150,16 @@
       "source": "Politico"
     },
     {
-      "name": "World Series",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/aug/02/tarik-skubal-trade-dodgers-tigers-mlb",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Winter Olympics",
       "count": 2,
       "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/saudi-2034-schedule-2035-01004717",
       "source": "Politico"
+    },
+    {
+      "name": "The War That Could Swallow The World",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
+      "source": "NY Times"
     },
     {
       "name": "The 11 September 2001",
@@ -224,9 +174,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "World Cup Mvp",
+      "name": "Drama Series",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/jul/31/ayami-sato-womens-professional-baseball-league-los-angeles-queens-profile",
+      "url": "https://www.theguardian.com/science/2026/aug/03/hendra-virus-australia-sentinels-book-extract-animal-to-human-disease-spread",
       "source": "The Guardian"
     },
     {
@@ -234,19 +184,69 @@
       "count": 1,
       "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
       "source": "The Guardian"
-    },
+    }
+  ],
+  "ORG": [
     {
-      "name": "Katrina",
-      "count": 1,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/01/blind-date-richard-katrina",
+      "name": "Trump Organization’S",
+      "count": 41,
+      "url": "https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering",
       "source": "The Guardian"
     },
     {
-      "name": "World War Ii",
-      "count": 1,
-      "url": "https://www.latimes.com/entertainment-arts/books/story/2026-07-31/10-best-books-august-2026",
-      "source": "LA Times"
+      "name": "Gop",
+      "count": 16,
+      "url": "https://www.foxnews.com/politics/ohio-gop-family-feud-explodes-sen-bernie-moreno-calls-rep-max-miller-resign",
+      "source": "Fox News"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 14,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 13,
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/02/25-films-to-watch-before-you-turn-25-wizard-oz-trainspotting-totoro-labyrinth-get-out",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Sophie Cunningham",
+      "count": 12,
+      "url": "https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fifa",
+      "count": 10,
+      "url": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-fifa-president-pressure-uefa-members-prepare-oppose-re-election",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Democratic Maine Senate",
+      "count": 9,
+      "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
+      "source": "Politico"
+    },
+    {
+      "name": "Congress",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/08/02/us/politics/five-big-moments-michigan-democratic-senate-primary.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Guardian",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/aug/02/ice-death-pittsburgh-daphy-michel-haiti",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cnn",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/aug/02/rfk-jr-measles-vaccination",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-08-02T14:38:30Z"
+  "updated": "2026-08-02T20:12:12Z"
 };

@@ -2,18 +2,43 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    93,
-    "https://www.nytimes.com/2026/08/01/us/politics/trump-polls-approval-rating.html"
+    80,
+    "https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html"
   ],
   [
     "president",
-    36,
-    "https://www.nytimes.com/2026/08/01/us/politics/trump-polls-approval-rating.html"
+    34,
+    "https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html"
   ],
   [
     "iran",
+    34,
+    "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html"
+  ],
+  [
+    "sen",
+    29,
+    "https://www.latimes.com/delos/story/2026-06-10/sen-dog-de-los-podcast-cuba-documentary-hip-hop-l-a-music"
+  ],
+  [
+    "rep",
     28,
-    "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html"
+    "https://www.theguardian.com/film/ng-interactive/2026/aug/02/25-films-to-watch-before-you-turn-25-wizard-oz-trainspotting-totoro-labyrinth-get-out"
+  ],
+  [
+    "democratic",
+    25,
+    "https://www.nytimes.com/2026/08/02/us/politics/democratic-socialists-america-convention.html"
+  ],
+  [
+    "war",
+    25,
+    "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html"
+  ],
+  [
+    "food",
+    24,
+    "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html"
   ],
   [
     "summer",
@@ -21,64 +46,49 @@
     "https://www.theguardian.com/us-news/2026/aug/02/ice-death-pittsburgh-daphy-michel-haiti"
   ],
   [
-    "food",
-    21,
-    "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html"
-  ],
-  [
-    "sex",
-    21,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/02/this-is-how-we-do-it-married-exciting"
-  ],
-  [
     "health",
-    20,
+    22,
     "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html"
-  ],
-  [
-    "case",
-    20,
-    "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
-  ],
-  [
-    "war",
-    20,
-    "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html"
   ],
   [
     "family",
     20,
-    "https://www.nytimes.com/2026/08/02/briefing/family-road-trip.html"
+    "https://www.theguardian.com/us-news/2026/aug/02/bryan-kohberger-idaho-killer-guilty-plea-trial"
   ],
   [
-    "shooting",
+    "nation",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/aug/02/donald-trump-iran-afghanistan-25-years-same-mistakes"
+  ],
+  [
+    "republican",
     19,
-    "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say"
+    "https://www.nytimes.com/2026/08/02/us/elections/max-miller-ohio-republican-moreno-election.html"
   ],
   [
     "night",
     19,
-    "https://www.theguardian.com/sport/2026/aug/02/tarik-skubal-trade-dodgers-tigers-mlb"
+    "https://www.theguardian.com/commentisfree/2026/aug/02/jimothy-raccoon-memes-grumpy-cat-moo-deng-viral-animals"
   ],
   [
-    "pool",
-    18,
-    "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
+    "water",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/aug/02/the-guardian-view-on-drought-hot-dry-conditions-make-inequality-starker"
   ],
   [
-    "senate",
-    18,
-    "https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html"
+    "sex",
+    19,
+    "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn"
   ],
   [
-    "league",
+    "primary",
     18,
-    "https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment"
+    "https://www.nytimes.com/2026/08/02/us/politics/five-big-moments-michigan-democratic-senate-primary.html"
   ],
   [
-    "book",
+    "buying",
     18,
-    "https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment"
+    "https://www.theguardian.com/thefilter-us/2026/aug/02/salomon-xt-whisper-sneakers"
   ],
   [
     "donald",
@@ -86,39 +96,29 @@
     "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran"
   ],
   [
-    "water",
+    "full",
     18,
-    "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens"
+    "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran"
   ],
   [
-    "buying",
+    "kennedy",
     18,
-    "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading"
+    "https://www.theguardian.com/us-news/2026/aug/02/rfk-jr-measles-vaccination"
   ],
   [
-    "american",
+    "review",
     18,
-    "https://www.theguardian.com/commentisfree/2026/aug/01/democrats-donald-trump-us-midterms"
+    "https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering"
   ],
   [
-    "race",
+    "fire",
     17,
-    "https://www.nytimes.com/2026/08/02/us/politics/five-big-moments-michigan-democratic-senate-primary.html"
+    "https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html"
   ],
   [
     "death",
     17,
-    "https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment"
-  ],
-  [
-    "idaho",
-    17,
     "https://www.theguardian.com/us-news/2026/aug/02/bryan-kohberger-idaho-killer-guilty-plea-trial"
-  ],
-  [
-    "review",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering"
   ],
   [
     "feel",
@@ -126,59 +126,64 @@
     "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading"
   ],
   [
-    "don",
-    16,
-    "https://www.nytimes.com/2026/08/01/us/politics/trump-polls-approval-rating.html"
+    "margaret",
+    17,
+    "https://www.theguardian.com/music/2026/jul/31/add-to-playlist-the-art-pop-showtunes-of-luki-and-the-weeks-best-new-tracks"
   ],
   [
-    "hot",
-    16,
-    "https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html"
-  ],
-  [
-    "primary",
+    "senate",
     16,
     "https://www.nytimes.com/2026/08/02/us/politics/five-big-moments-michigan-democratic-senate-primary.html"
   ],
   [
-    "attack",
+    "hot",
     16,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.theguardian.com/film/ng-interactive/2026/aug/02/25-films-to-watch-before-you-turn-25-wizard-oz-trainspotting-totoro-labyrinth-get-out"
   ],
   [
-    "country",
+    "gop",
     16,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.foxnews.com/politics/ohio-gop-family-feud-explodes-sen-bernie-moreno-calls-rep-max-miller-resign"
   ],
   [
-    "originally",
-    16,
-    "https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment"
+    "police",
+    15,
+    "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html"
   ],
   [
-    "restaurant",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say"
+    "don",
+    15,
+    "https://www.nytimes.com/2026/08/01/us/politics/trump-polls-approval-rating.html"
   ],
   [
-    "dead",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say"
+    "ohio",
+    15,
+    "https://www.nytimes.com/2026/08/02/us/elections/max-miller-ohio-republican-moreno-election.html"
+  ],
+  [
+    "race",
+    15,
+    "https://www.nytimes.com/2026/08/02/us/politics/five-big-moments-michigan-democratic-senate-primary.html"
+  ],
+  [
+    "fewer",
+    15,
+    "https://www.nytimes.com/2026/08/02/business/college-graduates-living-at-home.html"
+  ],
+  [
+    "million",
+    15,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
     "political",
     15,
-    "https://www.nytimes.com/2026/08/01/us/mitch-mcconnell-kentucky-republicans.html"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/02/pro-israel-lobby-presidents"
   ],
   [
-    "democrats",
+    "filter",
     15,
-    "https://www.nytimes.com/2026/08/02/us/chicago-mayors-race.html"
-  ],
-  [
-    "politics",
-    15,
-    "https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment"
+    "https://www.theguardian.com/thefilter-us/2026/aug/02/salomon-xt-whisper-sneakers"
   ],
   [
     "anti",
@@ -186,14 +191,9 @@
     "https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment"
   ],
   [
-    "full",
+    "interview",
     15,
-    "https://www.theguardian.com/games/2026/aug/02/the-language-of-pokemon-is-universal-why-fans-are-still-catching-em-all-after-30-years"
-  ],
-  [
-    "near",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say"
+    "https://www.theguardian.com/us-news/2026/aug/02/rfk-jr-measles-vaccination"
   ],
   [
     "movie",
@@ -201,84 +201,79 @@
     "https://www.theguardian.com/film/ng-interactive/2026/aug/02/25-films-to-watch-before-you-turn-25-wizard-oz-trainspotting-totoro-labyrinth-get-out"
   ],
   [
-    "heat",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/aug/02/summer-survival-tips-august"
-  ],
-  [
-    "hours",
-    15,
-    "https://www.theguardian.com/culture/ng-interactive/2026/aug/01/what-makes-a-good-comic-novel-andrew-sean-greer-on-the-joy-of-funny-writing"
-  ],
-  [
     "sleep",
     15,
     "https://www.theguardian.com/tv-and-radio/2026/aug/02/rhys-nicholson-comedian-drag-race-down-under-judge-interview-10-questions"
   ],
   [
-    "correspondent",
+    "brennan",
     15,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-07-28/new-york-times-writer-ross-douthat-named-60-minutes-correspondent"
+    "https://www.cbsnews.com/news/face-the-nation-full-transcript-08-02-2026/"
+  ],
+  [
+    "law",
+    14,
+    "https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html"
+  ],
+  [
+    "office",
+    14,
+    "https://www.nytimes.com/2026/08/02/us/elections/max-miller-ohio-republican-moreno-election.html"
+  ],
+  [
+    "book",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/02/pro-israel-lobby-presidents"
+  ],
+  [
+    "guide",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/aug/02/salomon-xt-whisper-sneakers"
+  ],
+  [
+    "cunningham",
+    14,
+    "https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment"
+  ],
+  [
+    "star",
+    14,
+    "https://www.theguardian.com/film/2026/aug/02/matt-damon-stunt-double-the-odyssey-devyn-dalton"
+  ],
+  [
+    "near",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/aug/02/summer-survival-tips-august"
+  ],
+  [
+    "restaurant",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/aug/02/comfort-creep"
   ],
   [
     "money",
-    14,
+    13,
     "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html"
   ],
   [
-    "reflecting",
-    14,
-    "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
-  ],
-  [
-    "social",
-    14,
-    "https://www.nytimes.com/2026/07/31/opinion/face-self-reflection-technology-video.html"
-  ],
-  [
-    "ago",
-    14,
-    "https://www.theguardian.com/games/2026/aug/02/the-language-of-pokemon-is-universal-why-fans-are-still-catching-em-all-after-30-years"
-  ],
-  [
-    "local",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/02/mamdani-grocery-store-plan-new-york"
-  ],
-  [
-    "california",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/01/california-minimum-wage-increase"
-  ],
-  [
-    "filter",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/aug/01/best-nontoxic-sunscreen-sunblock-spf"
-  ],
-  [
-    "general",
+    "abuse",
     13,
-    "https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html"
+    "https://www.nytimes.com/2026/08/02/us/elections/max-miller-ohio-republican-moreno-election.html"
   ],
   [
-    "killed",
+    "miller",
     13,
-    "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html"
+    "https://www.nytimes.com/2026/08/02/us/elections/max-miller-ohio-republican-moreno-election.html"
   ],
   [
-    "democratic",
+    "concerns",
     13,
-    "https://www.nytimes.com/2026/08/02/us/politics/democratic-socialists-america-convention.html"
+    "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html"
   ],
   [
-    "questions",
+    "country",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "early",
-    13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "black",
@@ -286,92 +281,97 @@
     "https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment"
   ],
   [
-    "game",
+    "love",
     13,
-    "https://www.theguardian.com/games/2026/aug/02/the-language-of-pokemon-is-universal-why-fans-are-still-catching-em-all-after-30-years"
+    "https://www.theguardian.com/us-news/2026/aug/02/ice-death-pittsburgh-daphy-michel-haiti"
   ],
   [
-    "pro",
+    "video",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/02/pro-israel-lobby-presidents"
-  ],
-  [
-    "fewer",
-    13,
-    "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading"
+    "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens"
   ],
   [
     "cup",
     13,
-    "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-could-face-leadership-challenge-as-fifa-council-members-rebel"
+    "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-fifa-president-pressure-uefa-members-prepare-oppose-re-election"
   ],
   [
-    "baseball",
+    "local",
     13,
-    "https://www.theguardian.com/sport/2026/jul/31/ayami-sato-womens-professional-baseball-league-los-angeles-queens-profile"
+    "https://www.theguardian.com/us-news/2026/aug/02/mamdani-grocery-store-plan-new-york"
   ],
   [
-    "because",
+    "series",
     13,
-    "https://www.theguardian.com/music/2026/jul/31/arca-xxxxx-review"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/03/kindness-of-strangers-lost-in-the-thai-rainforest-a-fellow-backpacker-picked-me-up-and-carried-me-home"
   ],
   [
-    "fight",
+    "trade",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/02/trump-tariffs-weapon"
+  ],
+  [
+    "game",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/02/trump-tariffs-weapon"
+  ],
+  [
+    "shooting",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say"
+  ],
+  [
+    "claims",
     12,
-    "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html"
+    "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html"
   ],
   [
-    "southern",
+    "questions",
     12,
-    "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "europe",
+    "attack",
     12,
-    "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "air",
+    "countries",
     12,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "team",
-    12,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "cunningham",
-    12,
-    "https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment"
-  ],
-  [
-    "role",
-    12,
-    "https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment"
-  ],
-  [
-    "fans",
-    12,
-    "https://www.theguardian.com/games/2026/aug/02/the-language-of-pokemon-is-universal-why-fans-are-still-catching-em-all-after-30-years"
-  ],
-  [
-    "playing",
-    12,
-    "https://www.theguardian.com/games/2026/aug/02/the-language-of-pokemon-is-universal-why-fans-are-still-catching-em-all-after-30-years"
-  ],
-  [
-    "history",
-    12,
-    "https://www.theguardian.com/games/2026/aug/02/the-language-of-pokemon-is-universal-why-fans-are-still-catching-em-all-after-30-years"
-  ],
-  [
-    "win",
+    "idaho",
     12,
     "https://www.theguardian.com/us-news/2026/aug/02/bryan-kohberger-idaho-killer-guilty-plea-trial"
   ],
   [
-    "trade",
+    "ago",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/02/bryan-kohberger-idaho-killer-guilty-plea-trial"
+  ],
+  [
+    "press",
+    12,
+    "https://www.theguardian.com/sport/2026/aug/02/sophie-cunningham-politics-wnba-culture-war-comment"
+  ],
+  [
+    "social",
+    12,
+    "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading"
+  ],
+  [
+    "building",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/aug/02/donald-trump-iran-afghanistan-25-years-same-mistakes"
+  ],
+  [
+    "because",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/aug/02/the-guardian-view-on-global-corporate-tax-a-500bn-prize-that-states-must-seize"
+  ],
+  [
+    "skubal",
     12,
     "https://www.theguardian.com/sport/2026/aug/02/tarik-skubal-trade-dodgers-tigers-mlb"
   ]
