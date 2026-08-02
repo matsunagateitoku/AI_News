@@ -2,12 +2,17 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    85,
+    96,
     "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
   ],
   [
+    "iran",
+    38,
+    "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html"
+  ],
+  [
     "president",
-    30,
+    33,
     "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
   ],
   [
@@ -16,19 +21,9 @@
     "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
   ],
   [
-    "dead",
-    28,
-    "https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html"
-  ],
-  [
     "case",
     27,
     "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
-  ],
-  [
-    "iran",
-    27,
-    "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html"
   ],
   [
     "reflecting",
@@ -37,53 +32,78 @@
   ],
   [
     "war",
-    24,
+    25,
     "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html"
   ],
   [
+    "dead",
+    25,
+    "https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html"
+  ],
+  [
     "food",
-    24,
+    25,
     "https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions"
   ],
   [
     "sex",
     24,
-    "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
-  ],
-  [
-    "health",
-    22,
-    "https://www.nytimes.com/2026/07/29/opinion/health-data-trend-body.html"
+    "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn"
   ],
   [
     "senate",
-    21,
+    22,
     "https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html"
   ],
   [
-    "death",
-    21,
-    "https://www.theguardian.com/us-news/2026/aug/01/d4vd-hearing-celeste-rivas-hernandez"
-  ],
-  [
     "summer",
-    20,
-    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
-  ],
-  [
-    "family",
-    20,
-    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
+    21,
+    "https://www.theguardian.com/environment/2026/aug/02/climate-change-kills-pedro-sanchez-speaks-plain-truth-to-spains-deniers"
   ],
   [
     "book",
-    20,
-    "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain"
+    21,
+    "https://www.theguardian.com/travel/2026/aug/02/poirot-istanbul-jack-london-yukon-francoise-sagan-france-kyrgyzstan-cornwall-du-maurier"
   ],
   [
-    "water",
+    "general",
+    20,
+    "https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html"
+  ],
+  [
+    "restaurant",
+    20,
+    "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say"
+  ],
+  [
+    "death",
+    20,
+    "https://www.theguardian.com/film/2026/aug/02/the-brief-life-and-sudden-death-of-zyzz-why-did-the-bodybuilding-influencer-die-at-just-22"
+  ],
+  [
+    "donald",
     19,
-    "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html"
+    "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran"
+  ],
+  [
+    "family",
+    19,
+    "https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering"
+  ],
+  [
+    "health",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/aug/01/biohacker-bryan-johnson-girlfriend-menstrual-blood"
+  ],
+  [
+    "attorney",
+    18,
+    "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
+  ],
+  [
+    "night",
+    18,
+    "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran"
   ],
   [
     "fifa",
@@ -106,16 +126,6 @@
     "https://www.theguardian.com/us-news/2026/aug/01/sopranos-actor-vincent-pastore-dead-80"
   ],
   [
-    "attorney",
-    17,
-    "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
-  ],
-  [
-    "general",
-    17,
-    "https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html"
-  ],
-  [
     "killed",
     17,
     "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html"
@@ -126,29 +136,29 @@
     "https://www.nytimes.com/2026/08/01/us/mitch-mcconnell-kentucky-republicans.html"
   ],
   [
-    "democrats",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/aug/01/democrats-donald-trump-us-midterms"
-  ],
-  [
-    "donald",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/aug/01/democrats-donald-trump-us-midterms"
-  ],
-  [
     "department",
     17,
     "https://www.theguardian.com/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline"
   ],
   [
-    "restaurant",
+    "anti",
     17,
-    "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say"
+    "https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering"
+  ],
+  [
+    "review",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering"
   ],
   [
     "democratic",
     17,
     "https://www.theguardian.com/us-news/2026/aug/01/troy-jackson-maine-senate"
+  ],
+  [
+    "water",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/01/hartman-colorado-town-abandoned"
   ],
   [
     "sopranos",
@@ -161,14 +171,14 @@
     "https://www.nytimes.com/2026/08/01/us/politics/times-subpoena-reporter-trump-north-korea.html"
   ],
   [
-    "power",
+    "shooting",
     16,
-    "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
+    "https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html"
   ],
   [
-    "anti",
+    "game",
     16,
-    "https://www.theguardian.com/commentisfree/2026/aug/01/democrats-donald-trump-us-midterms"
+    "https://www.theguardian.com/games/2026/aug/02/the-language-of-pokemon-is-universal-why-fans-are-still-catching-em-all-after-30-years"
   ],
   [
     "david",
@@ -176,9 +186,14 @@
     "https://www.theguardian.com/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline"
   ],
   [
-    "sleep",
+    "power",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/02/rhys-nicholson-comedian-drag-race-down-under-judge-interview-10-questions"
+    "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn"
+  ],
+  [
+    "democrats",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/01/troy-jackson-maine-senate"
   ],
   [
     "buying",
@@ -186,29 +201,14 @@
     "https://www.theguardian.com/tv-and-radio/2026/aug/01/alley-cats-ricky-gervais-review-back-boorish-sweary-comedy"
   ],
   [
-    "movie",
-    15,
-    "https://www.nytimes.com/2026/08/01/opinion/citizen-vigilante-right-revenge-movie.html"
+    "sleep",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/02/rhys-nicholson-comedian-drag-race-down-under-judge-interview-10-questions"
   ],
   [
-    "shooting",
+    "idaho",
     15,
     "https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html"
-  ],
-  [
-    "police",
-    15,
-    "https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html"
-  ],
-  [
-    "west",
-    15,
-    "https://www.washingtonpost.com/nation/2026/08/01/coyotes-overtake-abandoned-housing-development-vexing-neighbors/"
-  ],
-  [
-    "crisis",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "air",
@@ -221,6 +221,21 @@
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
+    "full",
+    15,
+    "https://www.theguardian.com/games/2026/aug/02/the-language-of-pokemon-is-universal-why-fans-are-still-catching-em-all-after-30-years"
+  ],
+  [
+    "near",
+    15,
+    "https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions"
+  ],
+  [
+    "hours",
+    15,
+    "https://www.theguardian.com/world/2026/aug/01/wildfire-france-firefighters-battling-france-megafire"
+  ],
+  [
     "drop",
     15,
     "https://www.theguardian.com/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline"
@@ -231,19 +246,24 @@
     "https://www.theguardian.com/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline"
   ],
   [
-    "review",
+    "movie",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering"
+    "https://www.theguardian.com/film/2026/aug/01/the-odyssey-movie-discourse"
   ],
   [
-    "star",
-    15,
-    "https://www.theguardian.com/education/ng-interactive/2026/aug/01/playbooks-plagiarism-pigs-head-new-claims-surrounding-cambridge-professor-jason-arday"
-  ],
-  [
-    "idaho",
+    "crisis",
     14,
-    "https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html"
+    "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html"
+  ],
+  [
+    "west",
+    14,
+    "https://www.washingtonpost.com/nation/2026/08/01/coyotes-overtake-abandoned-housing-development-vexing-neighbors/"
+  ],
+  [
+    "black",
+    14,
+    "https://www.theguardian.com/news/ng-interactive/2026/aug/02/this-is-where-democracy-beats-totalitarianism-ukraines-drone-strike-force-takes-the-fight-to-russia"
   ],
   [
     "york",
@@ -251,24 +271,19 @@
     "https://www.theguardian.com/media/2026/aug/01/subpoena-freelance-new-york-times-reporter"
   ],
   [
-    "black",
-    14,
-    "https://www.theguardian.com/world/2026/aug/02/ukraine-war-briefing-strikes-on-three-russian-oil-refineries-and-sanctioned-ship"
-  ],
-  [
-    "series",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/02/the-moment-i-knew-love-story-mother-japan-tsunami"
-  ],
-  [
     "social",
     14,
     "https://www.theguardian.com/commentisfree/2026/aug/01/elon-musk-truth-interview-editor-economist"
   ],
   [
-    "heat",
+    "star",
     14,
-    "https://www.theguardian.com/environment/2026/aug/01/eastern-europe-dried-up-rivers-tourism-energy-mammoth"
+    "https://www.theguardian.com/education/ng-interactive/2026/aug/01/playbooks-plagiarism-pigs-head-new-claims-surrounding-cambridge-professor-jason-arday"
+  ],
+  [
+    "because",
+    14,
+    "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
   ],
   [
     "filter",
@@ -276,49 +291,14 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/01/best-nontoxic-sunscreen-sunblock-spf"
   ],
   [
-    "fire",
-    13,
-    "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html"
-  ],
-  [
     "early",
     13,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "near",
+    "body",
     13,
-    "https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions"
-  ],
-  [
-    "hours",
-    13,
-    "https://www.theguardian.com/world/2026/aug/01/wildfire-france-firefighters-battling-france-megafire"
-  ],
-  [
-    "because",
-    13,
-    "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex"
-  ],
-  [
-    "hot",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
-  ],
-  [
-    "california",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america"
-  ],
-  [
-    "night",
-    13,
-    "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes"
-  ],
-  [
-    "died",
-    13,
-    "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines"
+    "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say"
   ],
   [
     "republican",
@@ -336,11 +316,6 @@
     "https://www.theguardian.com/us-news/2026/aug/01/troy-jackson-maine-senate"
   ],
   [
-    "having",
-    13,
-    "https://www.theguardian.com/world/2026/aug/02/ukraine-war-briefing-strikes-on-three-russian-oil-refineries-and-sanctioned-ship"
-  ],
-  [
     "media",
     13,
     "https://www.theguardian.com/media/2026/aug/01/fox-news-iran-war-trump-criticism"
@@ -351,14 +326,24 @@
     "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain"
   ],
   [
+    "having",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/02/comfort-creep"
+  ],
+  [
     "school",
     13,
     "https://www.theguardian.com/commentisfree/2026/aug/01/new-york-salamanca-school-robot-teacher-plan"
   ],
   [
-    "game",
+    "hot",
     13,
-    "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
+    "https://www.theguardian.com/world/2026/aug/02/ukraine-war-briefing-strikes-on-three-russian-oil-refineries-and-sanctioned-ship"
+  ],
+  [
+    "heat",
+    13,
+    "https://www.theguardian.com/environment/2026/aug/01/eastern-europe-dried-up-rivers-tourism-energy-mammoth"
   ],
   [
     "pirro",
@@ -366,13 +351,28 @@
     "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html"
   ],
   [
-    "memorial",
-    12,
-    "https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html"
-  ],
-  [
     "fund",
     12,
     "https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html"
+  ],
+  [
+    "blanche",
+    12,
+    "https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html"
+  ],
+  [
+    "fire",
+    12,
+    "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html"
+  ],
+  [
+    "europe",
+    12,
+    "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html"
+  ],
+  [
+    "died",
+    12,
+    "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html"
   ]
 ];
