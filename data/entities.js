@@ -2,52 +2,52 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
+      "name": "Donald Trump ’S",
+      "count": 17,
+      "url": "https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Vincent Pastore Played",
+      "count": 16,
+      "url": "https://www.cbsnews.com/news/vincent-pastore-the-sopranos-dies-at-80/",
+      "source": "CBS News"
+    },
+    {
       "name": "Donald Trump",
-      "count": 27,
+      "count": 15,
       "url": "https://www.theguardian.com/commentisfree/2026/aug/01/democrats-donald-trump-us-midterms",
       "source": "The Guardian"
     },
     {
-      "name": "Odyssey",
-      "count": 11,
-      "url": "https://www.theguardian.com/film/2026/aug/01/the-odyssey-movie-discourse",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Elon Musk",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/01/elon-musk-truth-interview-editor-economist",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Charlie Musselwhite",
-      "count": 9,
-      "url": "https://www.cbsnews.com/video/saturday-sessions-ga-20-and-charlie-musselwhite-perform-i-cant-hold-out/",
-      "source": "CBS News"
-    },
-    {
       "name": "Olympian David Hearn",
-      "count": 8,
+      "count": 12,
       "url": "https://www.theguardian.com/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline",
       "source": "The Guardian"
     },
     {
-      "name": "Nancy Guthrie",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/aug/01/nancy-guthrie-family-plea-information",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jeanine Pirro",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html",
+      "name": "Twin Falls",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html",
       "source": "NY Times"
     },
     {
-      "name": "Lindsey Graham",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/aug/01/ukraine-zelenskyy-trump-iran",
+      "name": "Odyssey",
+      "count": 9,
+      "url": "https://www.theguardian.com/film/2026/aug/01/the-odyssey-movie-discourse",
       "source": "The Guardian"
+    },
+    {
+      "name": "Troy Jackson",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/aug/01/troy-jackson-maine-senate",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Dodgers",
+      "count": 7,
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-08-01/dodgers-acquire-tarik-skubal-trade-deadline-tigers",
+      "source": "LA Times"
     },
     {
       "name": "Ryu Hae-Ran",
@@ -64,22 +64,22 @@
   ],
   "ORG": [
     {
-      "name": "The Working Class Is Fleeing Trump",
-      "count": 50,
-      "url": "https://www.nytimes.com/2026/08/01/opinion/trump-maga-republican-midterm.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ai",
-      "count": 15,
-      "url": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
+      "name": "Trump Organization’S",
+      "count": 46,
+      "url": "https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering",
       "source": "The Guardian"
     },
     {
       "name": "Fifa",
-      "count": 13,
+      "count": 17,
       "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics",
       "source": "The Guardian"
+    },
+    {
+      "name": "Democratic Maine Senate",
+      "count": 14,
+      "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
+      "source": "Politico"
     },
     {
       "name": "The Filter Us",
@@ -88,10 +88,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Democratic Maine Senate",
-      "count": 13,
-      "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
-      "source": "Politico"
+      "name": "Ai",
+      "count": 11,
+      "url": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
+      "source": "The Guardian"
     },
     {
       "name": "Gop",
@@ -100,98 +100,42 @@
       "source": "NBC News"
     },
     {
-      "name": "The White House",
-      "count": 8,
-      "url": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News",
+      "name": "Jeanine Pirro",
       "count": 7,
-      "url": "https://www.cbsnews.com/news/us-investigating-iran-cyberattack-minnesota-water-systems/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Freelance New York Times",
-      "count": 6,
-      "url": "https://www.theguardian.com/media/2026/aug/01/subpoena-freelance-new-york-times-reporter",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Justice Department",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/aug/01/senate-committee-todd-blanche-attorney-general-nomination",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 40,
-      "url": "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 18,
       "url": "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html",
       "source": "NY Times"
     },
     {
-      "name": "Iran",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america",
+      "name": "The Justice Department",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/aug/01/senate-committee-todd-blanche-attorney-general-nomination",
       "source": "The Guardian"
     },
     {
-      "name": "Spain",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ukraine",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/aug/01/ukraine-zelenskyy-trump-iran",
+      "name": "Sophie Cunningham",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/aug/01/sophie-cunningham-transgender-sports-protests-fever-wnba-portland",
       "source": "The Guardian"
     },
     {
-      "name": "New York  City’S",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/aug/01/new-york-city-flatiron-building-apartments",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Russia",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/2026/aug/01/ukraine-war-briefing-missile-attack-on-kyiv-kills-at-least-three-as-zelenskyy-pushes-to-use-starlink-for-attacks-in-russia",
-      "source": "The Guardian"
-    },
-    {
-      "name": "France",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/2026/aug/01/wildfire-france-firefighters-battling-france-megafire",
-      "source": "The Guardian"
-    },
-    {
-      "name": "America",
-      "count": 8,
-      "url": "https://www.theguardian.com/football/2026/jul/31/mls-casemiro-sebastian-berhalter-world-cup-young-american-players",
+      "name": "The White House",
+      "count": 7,
+      "url": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The World Cup",
-      "count": 7,
+      "count": 9,
       "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics",
       "source": "The Guardian"
+    },
+    {
+      "name": "The 2026 World Cup",
+      "count": 5,
+      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/china-qualification-soccer-future-01004659",
+      "source": "Politico"
     },
     {
       "name": "The Winter Olympics",
@@ -200,21 +144,15 @@
       "source": "Politico"
     },
     {
-      "name": "The 2026 World Cup",
-      "count": 4,
-      "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/china-qualification-soccer-future-01004659",
-      "source": "Politico"
+      "name": "World Series",
+      "count": 2,
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-08-01/dodgers-acquire-tarik-skubal-trade-deadline-tigers",
+      "source": "LA Times"
     },
     {
       "name": "The Us War",
       "count": 1,
       "url": "https://www.theguardian.com/commentisfree/2026/aug/01/us-iran-war-trump-recession",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Wimbledon",
-      "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/01/the-hill-i-will-die-on-games-are-the-opposite-of-fun",
       "source": "The Guardian"
     },
     {
@@ -248,5 +186,67 @@
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-08-01T20:11:30Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 41,
+      "url": "https://www.theguardian.com/film/2026/aug/01/gregg-araki-film-i-want-your-sex",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/aug/01/caldo-summer-soup-latin-america",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Idaho",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "France",
+      "count": 9,
+      "url": "https://www.theguardian.com/world/2026/aug/01/wildfire-france-firefighters-battling-france-megafire",
+      "source": "The Guardian"
+    },
+    {
+      "name": "America",
+      "count": 9,
+      "url": "https://www.theguardian.com/football/2026/jul/31/mls-casemiro-sebastian-berhalter-world-cup-young-american-players",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "West Hollywood",
+      "count": 8,
+      "url": "https://www.washingtonpost.com/nation/2026/08/01/coyotes-overtake-abandoned-housing-development-vexing-neighbors/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Ukraine",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/aug/01/ukraine-zelenskyy-trump-iran",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-08-02T04:25:53Z"
 };
