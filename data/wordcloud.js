@@ -2,18 +2,13 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    92,
-    "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html"
+    93,
+    "https://www.nytimes.com/2026/08/03/us/trump-doj-comey-reflecting-pool-blanche.html"
   ],
   [
     "president",
-    40,
-    "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html"
-  ],
-  [
-    "senate",
-    29,
-    "https://www.nytimes.com/2026/08/03/us/michigan-senate-primary-democrats-el-sayed-stevens.html"
+    38,
+    "https://www.nytimes.com/2026/08/03/us/trump-doj-comey-reflecting-pool-blanche.html"
   ],
   [
     "iran",
@@ -21,284 +16,269 @@
     "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html"
   ],
   [
-    "war",
+    "senate",
     26,
-    "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html"
+    "https://www.nytimes.com/2026/08/03/us/michigan-senate-primary-democrats-el-sayed-stevens.html"
   ],
   [
-    "food",
+    "star",
     24,
-    "https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer"
-  ],
-  [
-    "summer",
-    24,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/03/fitness-fans-surgery-injury-health"
-  ],
-  [
-    "democratic",
-    22,
-    "https://www.nytimes.com/2026/08/03/us/michigan-senate-primary-democrats-el-sayed-stevens.html"
-  ],
-  [
-    "movie",
-    22,
-    "https://www.theguardian.com/film/2026/aug/03/spiderman-brand-new-day-global-box-office"
-  ],
-  [
-    "party",
-    21,
-    "https://www.nytimes.com/2026/08/03/us/michigan-senate-primary-democrats-el-sayed-stevens.html"
-  ],
-  [
-    "south",
-    21,
-    "https://www.theguardian.com/us-news/2026/aug/03/trump-dhs-hunger-strikes-force-feeding-ice-detention"
-  ],
-  [
-    "hot",
-    20,
-    "https://www.nytimes.com/2026/08/03/technology/ai-tech-firms-swag-merchandise.html"
-  ],
-  [
-    "water",
-    20,
-    "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates"
-  ],
-  [
-    "california",
-    20,
-    "https://www.theguardian.com/us-news/2026/aug/01/california-minimum-wage-increase"
-  ],
-  [
-    "race",
-    19,
-    "https://www.nytimes.com/2026/08/03/us/michigan-senate-primary-democrats-el-sayed-stevens.html"
-  ],
-  [
-    "least",
-    19,
-    "https://www.nytimes.com/2026/08/02/us/in-n-out-shooting-idaho-victims-suspect.html"
-  ],
-  [
-    "donald",
-    19,
-    "https://www.theguardian.com/world/2026/aug/03/trump-us-iran-talks-strait-of-hormuz-nuclear-programme"
-  ],
-  [
-    "blanche",
-    18,
-    "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html"
-  ],
-  [
-    "fund",
-    18,
-    "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html"
-  ],
-  [
-    "country",
-    18,
-    "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html"
-  ],
-  [
-    "republican",
-    18,
-    "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/"
-  ],
-  [
-    "buying",
-    18,
-    "https://www.theguardian.com/thefilter-us/2026/aug/02/salomon-xt-whisper-sneakers"
-  ],
-  [
-    "health",
-    18,
-    "https://www.theguardian.com/world/2026/aug/03/myanmar-detained-former-leader-aung-san-suu-kyi-red-cross"
+    "https://www.theguardian.com/film/2026/aug/03/spider-man-brand-new-day-new-characters-new-flaws-new-tech-and-brain-exploding-future-consequences-discuss-with-spoilers"
   ],
   [
     "primary",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/03/missouri-senate-primary-cori-bush-wesley-bell"
+    21,
+    "https://www.nytimes.com/2026/08/03/briefing/michigan-senate-primary-race.html"
   ],
   [
-    "sleep",
+    "democratic",
+    20,
+    "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html"
+  ],
+  [
+    "race",
+    20,
+    "https://www.nytimes.com/2026/08/03/us/michigan-senate-primary-democrats-el-sayed-stevens.html"
+  ],
+  [
+    "school",
+    20,
+    "https://www.theguardian.com/global-development/2026/aug/03/senegal-st-louis-talibes-quran-children-forced-beg-human-trafficking-rights"
+  ],
+  [
+    "summer",
+    20,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/03/fitness-fans-surgery-injury-health"
+  ],
+  [
+    "party",
+    19,
+    "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html"
+  ],
+  [
+    "country",
+    19,
+    "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html"
+  ],
+  [
+    "forced",
+    19,
+    "https://www.theguardian.com/global-development/2026/aug/03/senegal-st-louis-talibes-quran-children-forced-beg-human-trafficking-rights"
+  ],
+  [
+    "food",
+    19,
+    "https://www.theguardian.com/global-development/2026/aug/03/senegal-st-louis-talibes-quran-children-forced-beg-human-trafficking-rights"
+  ],
+  [
+    "california",
+    19,
+    "https://www.theguardian.com/us-news/2026/aug/03/erica-fox-shark-bite-autopsy"
+  ],
+  [
+    "local",
+    19,
+    "https://www.theguardian.com/us-news/2026/aug/02/eastern-washington-wildfires"
+  ],
+  [
+    "win",
     18,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/03/is-it-true-that-a-cold-shower-is-the-best-way-to-cool-down-on-a-hot-night"
+    "https://www.nytimes.com/2026/08/03/us/kansas-governor-election-democrats-primary.html"
+  ],
+  [
+    "ice",
+    18,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "anti",
+    18,
+    "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates"
+  ],
+  [
+    "water",
+    18,
+    "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary"
+  ],
+  [
+    "republican",
+    17,
+    "https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html"
+  ],
+  [
+    "administration",
+    17,
+    "https://www.nytimes.com/2026/08/03/us/trump-mcmahon-colleges-letter.html"
   ],
   [
     "office",
     17,
-    "https://www.nytimes.com/2026/08/03/us/kansas-governor-election-democrats-primary.html"
+    "https://www.nytimes.com/2026/08/03/us/politics/kay-granger-dead.html"
   ],
   [
-    "love",
+    "children",
     17,
-    "https://www.nytimes.com/2026/07/31/fashion/best-clothing-stores-reader-favorites.html"
+    "https://www.nytimes.com/2026/08/03/nyregion/mamdani-free-child-care-cost.html"
   ],
   [
-    "political",
+    "least",
     17,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/02/pro-israel-lobby-presidents"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "tour",
+    "social",
     17,
-    "https://www.theguardian.com/commentisfree/2026/aug/02/judges-lawyers-partisan"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/03/irvine-welsh-trainspotting-new-novel-can-nothing-save-us"
   ],
   [
-    "anti",
+    "force",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/03/trump-dhs-hunger-strikes-force-feeding-ice-detention"
+  ],
+  [
+    "fund",
     17,
     "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates"
   ],
   [
-    "body",
+    "media",
     17,
-    "https://www.theguardian.com/us-news/2026/aug/01/d4vd-hearing-celeste-rivas-hernandez"
+    "https://www.theguardian.com/society/commentisfree/2026/aug/03/social-media-addiction-loneliness"
   ],
   [
-    "don",
+    "cup",
     17,
-    "https://www.theguardian.com/commentisfree/2026/aug/03/the-odyssey-the-right-woke-xenia-threat"
+    "https://www.theguardian.com/football/2026/aug/03/wales-become-first-nation-to-drop-support-for-fifa-president-gianni-infantino"
   ],
   [
     "feel",
     17,
-    "https://www.theguardian.com/commentisfree/2026/aug/02/donald-trump-iran-afghanistan-25-years-same-mistakes"
+    "https://www.theguardian.com/music/2026/jul/31/arca-xxxxx-review"
   ],
   [
-    "sex",
+    "sleep",
     17,
-    "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn"
+    "https://www.theguardian.com/thefilter-us/2025/oct/24/sleep-gadgets-aids-tech"
   ],
   [
-    "attack",
+    "abuse",
     16,
-    "https://www.nytimes.com/2026/08/02/us/gunman-acted-alone-in-idaho-in-n-out-attack-authorities-say.html"
+    "https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html"
   ],
   [
-    "killed",
+    "love",
     16,
-    "https://www.nytimes.com/2026/08/02/us/in-n-out-shooting-idaho-victims-suspect.html"
+    "https://www.nytimes.com/2026/07/31/fashion/best-clothing-stores-reader-favorites.html"
   ],
   [
-    "film",
+    "health",
     16,
-    "https://www.theguardian.com/film/2026/aug/02/matt-damon-stunt-double-the-odyssey-devyn-dalton"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/03/irvine-welsh-trainspotting-new-novel-can-nothing-save-us"
   ],
   [
-    "forced",
+    "little",
     16,
-    "https://www.theguardian.com/us-news/2026/aug/03/trump-dhs-hunger-strikes-force-feeding-ice-detention"
+    "https://www.theguardian.com/film/2026/aug/03/spider-man-brand-new-day-new-characters-new-flaws-new-tech-and-brain-exploding-future-consequences-discuss-with-spoilers"
   ],
   [
-    "politics",
-    16,
-    "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates"
-  ],
-  [
-    "school",
-    16,
-    "https://www.theguardian.com/global-development/2026/aug/03/senegal-st-louis-talibes-quran-children-forced-beg-human-trafficking-rights"
-  ],
-  [
-    "attorney",
+    "talks",
     15,
-    "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html"
+    "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html"
   ],
   [
-    "brand",
+    "spain",
     15,
-    "https://www.nytimes.com/2026/08/03/us/kansas-governor-election-democrats-primary.html"
+    "https://www.nytimes.com/2026/08/03/world/europe/spain-ceuta-migrants-sanchez.html"
   ],
   [
-    "experts",
+    "crisis",
     15,
-    "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html"
+    "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html"
   ],
   [
-    "washington",
+    "released",
     15,
-    "https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html"
+    "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html"
   ],
   [
     "texas",
     15,
-    "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/"
+    "https://www.nytimes.com/2026/08/03/us/politics/kay-granger-dead.html"
   ],
   [
-    "ice",
+    "israel",
     15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "book",
-    15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/02/pro-israel-lobby-presidents"
-  ],
-  [
-    "filter",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/aug/02/salomon-xt-whisper-sneakers"
-  ],
-  [
-    "star",
-    15,
-    "https://www.theguardian.com/film/2026/aug/02/matt-damon-stunt-double-the-odyssey-devyn-dalton"
-  ],
-  [
-    "force",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/03/trump-dhs-hunger-strikes-force-feeding-ice-detention"
-  ],
-  [
-    "night",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/03/is-it-true-that-a-cold-shower-is-the-best-way-to-cool-down-on-a-hot-night"
-  ],
-  [
-    "local",
-    15,
-    "https://www.theguardian.com/world/2026/aug/03/ukraine-war-briefing-kyiv-hit-wildberries-again"
-  ],
-  [
-    "tax",
-    14,
-    "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html"
-  ],
-  [
-    "governor",
-    14,
-    "https://www.nytimes.com/2026/08/03/us/kansas-governor-election-democrats-primary.html"
-  ],
-  [
-    "region",
-    14,
-    "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html"
-  ],
-  [
-    "fire",
-    14,
-    "https://www.nytimes.com/2026/08/02/us/gunman-acted-alone-in-idaho-in-n-out-attack-authorities-say.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "questions",
-    14,
+    15,
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "air",
-    14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "latest",
+    15,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "fewer",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/aug/02/salomon-xt-whisper-sneakers"
+    "body",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/03/fitness-fans-surgery-injury-health"
   ],
   [
-    "odyssey",
+    "john",
+    15,
+    "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates"
+  ],
+  [
+    "blanche",
+    15,
+    "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates"
+  ],
+  [
+    "buying",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/aug/03/the-odyssey-nolan-ice"
+  ],
+  [
+    "start",
     14,
-    "https://www.theguardian.com/film/2026/aug/02/matt-damon-stunt-double-the-odyssey-devyn-dalton"
+    "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html"
+  ],
+  [
+    "south",
+    14,
+    "https://www.nytimes.com/2026/08/03/opinion/international-world/trump-ukraine-russia-war.html"
+  ],
+  [
+    "million",
+    14,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "family",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/03/fitness-fans-surgery-injury-health"
+  ],
+  [
+    "nearly",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/02/pro-israel-lobby-presidents"
+  ],
+  [
+    "donald",
+    14,
+    "https://www.theguardian.com/world/2026/aug/03/iran-in-talks-with-oman-over-shipping-route-but-not-us-says-tehran"
+  ],
+  [
+    "police",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/03/in-n-out-shooting-idaho"
+  ],
+  [
+    "film",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/03/john-sayles-matewan-unions"
   ],
   [
     "because",
@@ -306,24 +286,14 @@
     "https://www.theguardian.com/us-news/2026/jul/31/gavin-newsom-california-tax-release"
   ],
   [
-    "books",
+    "games",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/03/irvine-welsh-trainspotting-new-novel-can-nothing-save-us"
+    "https://www.theguardian.com/sport/2026/aug/03/josh-kerr-2026-commonwealth-games-one-mile-gold-athletics"
   ],
   [
-    "little",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/aug/03/trump-administration-authoritarianism"
-  ],
-  [
-    "history",
+    "attorney",
     13,
-    "https://www.nytimes.com/2026/08/03/us/kansas-governor-election-democrats-primary.html"
-  ],
-  [
-    "win",
-    13,
-    "https://www.nytimes.com/2026/08/03/us/kansas-governor-election-democrats-primary.html"
+    "https://www.nytimes.com/2026/08/03/us/trump-doj-comey-reflecting-pool-blanche.html"
   ],
   [
     "wildfires",
@@ -331,48 +301,78 @@
     "https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html"
   ],
   [
-    "center",
+    "return",
     13,
-    "https://www.nytimes.com/2026/08/02/us/in-n-out-shooting-idaho-victims-suspect.html"
+    "https://www.nytimes.com/2026/08/03/us/trump-mcmahon-colleges-letter.html"
   ],
   [
-    "children",
+    "really",
+    13,
+    "https://www.nytimes.com/2026/08/03/us/politics/transgender-troops-ban.html"
+  ],
+  [
+    "war",
+    13,
+    "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html"
+  ],
+  [
+    "child",
     13,
     "https://www.nytimes.com/2026/08/03/nyregion/mamdani-free-child-care-cost.html"
   ],
   [
-    "medical",
+    "york",
     13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/08/03/nyregion/mamdani-free-child-care-cost.html"
   ],
   [
-    "million",
+    "led",
     13,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "weekly",
+    "air",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/02/salomon-xt-whisper-sneakers"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "guide",
+    "books",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/02/salomon-xt-whisper-sneakers"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/03/irvine-welsh-trainspotting-new-novel-can-nothing-save-us"
   ],
   [
-    "robert",
+    "pain",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/02/judges-lawyers-partisan"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/03/fitness-fans-surgery-injury-health"
   ],
   [
-    "southern",
+    "political",
+    13,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/02/pro-israel-lobby-presidents"
+  ],
+  [
+    "support",
+    13,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/02/pro-israel-lobby-presidents"
+  ],
+  [
+    "court",
     13,
     "https://www.theguardian.com/us-news/2026/aug/03/trump-dhs-hunger-strikes-force-feeding-ice-detention"
   ],
   [
-    "spider",
+    "weaponization",
     13,
-    "https://www.theguardian.com/film/2026/aug/03/spiderman-brand-new-day-global-box-office"
+    "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates"
+  ],
+  [
+    "law",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/03/human-rights-campaign-foundation-trump-lawsuit"
+  ],
+  [
+    "death",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/03/erica-fox-shark-bite-autopsy"
   ]
 ];
