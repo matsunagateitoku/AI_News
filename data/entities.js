@@ -2,72 +2,202 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Donald Trump",
-      "count": 21,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/trump-ice-migrants-human-rights",
+      "name": "Max Miller Shrugs Off Trump",
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/08/04/us/politics/max-miller-ohio-congress-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Anthony Fauci",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/anthony-fauci-katie-miller-maga-hypocrite",
       "source": "The Guardian"
     },
     {
-      "name": "Haley Stevens",
-      "count": 13,
+      "name": "Donald Trump ’S",
+      "count": 8,
       "url": "https://www.theguardian.com/us-news/2026/aug/04/michigan-senate-race-abdul-el-sayed-haley-stevens",
       "source": "The Guardian"
     },
     {
+      "name": "Karl Rove",
+      "count": 8,
+      "url": "https://thehill.com/homenews/campaign/6008617-karl-rove-gop-economic-messaging-mistakes/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Lucy Hough",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/video/2026/aug/04/is-gianni-infantinos-time-up-as-fifa-president-the-latest",
+      "source": "The Guardian"
+    },
+    {
+      "name": "David Ellison",
+      "count": 6,
+      "url": "https://www.theguardian.com/business/2026/aug/04/cnn-mega-merger-david-ellison",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Barbie 2",
+      "count": 6,
+      "url": "https://www.theguardian.com/film/2026/aug/03/barbie-2-stalls-margot-robbie-ryan-gosling-greta-gerwig-salary-talks",
+      "source": "The Guardian"
+    },
+    {
       "name": "Abdul El-Sayed",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/aug/04/michigan-senate-race-abdul-el-sayed-haley-stevens",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Haley Stevens",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/aug/04/michigan-senate-race-abdul-el-sayed-haley-stevens",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Bernie Moreno",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/aug/04/max-miller-resign-domestic-abuse-allegations",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 54,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/anthony-fauci-katie-miller-maga-hypocrite",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 14,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Los Angeles County",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/08/04/us/eaton-fire-cause-transmission-tower-report.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ohio",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/08/04/us/politics/max-miller-ohio-congress-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 10,
+      "url": "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "California",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/nation/2026/08/04/whos-winning-california-v-trump-lawsuits-so-far/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Michigan",
       "count": 9,
       "url": "https://www.theguardian.com/us-news/2026/aug/04/michigan-senate-race-abdul-el-sayed-haley-stevens",
       "source": "The Guardian"
     },
     {
-      "name": "Anthony Fauci",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/anthony-fauci-katie-miller-maga-hypocrite",
+      "name": "Russia",
+      "count": 9,
+      "url": "https://www.theguardian.com/books/2026/aug/03/the-august-coup-by-robert-service-review-the-drink-soaked-collapse-of-the-soviet-union",
       "source": "The Guardian"
     },
     {
-      "name": "Allan Nascimento",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/aug/03/allan-nascimento-dies-aged-34-ufc-flyweight-apparent-heart-attack",
-      "source": "The Guardian"
+      "name": "Washington",
+      "count": 8,
+      "url": "https://www.washingtonpost.com/nation/2026/08/04/they-fled-by-boat-middle-lake-spokane-wildfires-closed/",
+      "source": "Washington Post"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump National Golf Club",
+      "count": 41,
+      "url": "https://www.latimes.com/politics/story/2026-08-03/trump-set-to-visit-la-for-fundraiser-attacking-newsom-is-on-agenda",
+      "source": "LA Times"
     },
     {
-      "name": "Aunt Lucy",
-      "count": 6,
-      "url": "https://www.theguardian.com/film/2026/aug/04/post-your-questions-for-imelda-staunton",
-      "source": "The Guardian"
+      "name": "Senate Judiciary Committee",
+      "count": 21,
+      "url": "https://www.cbsnews.com/news/todd-blanche-attorney-general-senate-judiciary-committee/",
+      "source": "CBS News"
     },
     {
-      "name": "David Ellison",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/08/04/opinion/david-ellison-paramount-warner-deal.html",
+      "name": "Gop",
+      "count": 15,
+      "url": "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "American Ai",
+      "count": 15,
+      "url": "https://thehill.com/homenews/senate/6008642-democrats-demand-transparency-ai-policy/",
+      "source": "The Hill"
+    },
+    {
+      "name": "New White House",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-helipad-white-house-construction.html",
       "source": "NY Times"
     },
     {
-      "name": "Roy",
-      "count": 5,
-      "url": "https://www.theguardian.com/books/2026/aug/04/children-of-the-wild-by-kevin-powers-review-gripping-tale-of-a-friendship-forged-in-war",
+      "name": "Ice",
+      "count": 11,
+      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Karl",
-      "count": 5,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/03/pet-ill-never-forget-karl-the-tabby",
+      "name": "Fifa",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/video/2026/aug/04/is-gianni-infantinos-time-up-as-fifa-president-the-latest",
       "source": "The Guardian"
     },
     {
-      "name": "Dodgers",
-      "count": 5,
-      "url": "https://www.latimes.com/sports/story/2026-08-03/rob-reiner-kids-dodgers-first-pitch-michele-jake-romy",
-      "source": "LA Times"
+      "name": "Congress",
+      "count": 8,
+      "url": "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Barbie Night & Nfl",
+      "count": 8,
+      "url": "https://www.foxnews.com/outkick-sports/carrie-underwood-back-snf-angel-reese-celebrates-barbie-night-nfl-wags-training-camp-ready",
+      "source": "Fox News"
     }
   ],
   "EVENT": [
     {
       "name": "The World Cup",
-      "count": 6,
-      "url": "https://www.latimes.com/sports/soccer/story/2026-08-04/gianni-infantino-kushner-linked-cash-grab-fifa-world-cup",
-      "source": "LA Times"
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/video/2026/aug/04/is-gianni-infantinos-time-up-as-fifa-president-the-latest",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New Day",
+      "count": 2,
+      "url": "https://www.theguardian.com/film/2026/aug/03/spider-man-brand-new-day-new-characters-new-flaws-new-tech-and-brain-exploding-future-consequences-discuss-with-spoilers",
+      "source": "The Guardian"
     },
     {
       "name": "Game Freak/Fictions  Game Freak",
@@ -76,15 +206,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "The World Series",
-      "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/post-trade-deadline-futures-bets-worth-taking-world-series-division-winners",
-      "source": "Fox News"
-    },
-    {
-      "name": "Iran War",
+      "name": "Understand Iran’S Defiant Leaders",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html",
+      "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html",
       "source": "NY Times"
     },
     {
@@ -94,9 +218,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "New England Revolution",
+      "name": "The Arab Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/aug/03/mls-dor-turgeman-montreal-new-england-revolution-israel",
+      "url": "https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa",
       "source": "The Guardian"
     },
     {
@@ -112,135 +236,17 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Open Secure Ai Alliance",
+      "name": "The Canadian Open",
       "count": 1,
-      "url": "https://thehill.com/policy/technology/6007254-nvidia-open-source-ai-safety-controls/",
-      "source": "The Hill"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump National Golf Club",
-      "count": 37,
-      "url": "https://www.latimes.com/politics/story/2026-08-03/trump-set-to-visit-la-for-fundraiser-attacking-newsom-is-on-agenda",
-      "source": "LA Times"
+      "url": "https://www.foxnews.com/outkick-sports/social-media-reacts-tennis-star-aryna-sabalenka-comments-wta-transgender-rules",
+      "source": "Fox News"
     },
     {
-      "name": "Senate Judiciary Committee",
-      "count": 29,
-      "url": "https://www.cbsnews.com/news/todd-blanche-attorney-general-senate-judiciary-committee/",
+      "name": "World War Ii",
+      "count": 1,
+      "url": "https://www.cbsnews.com/news/danube-river-wwii-shipwrecks-mammoth-bones/",
       "source": "CBS News"
-    },
-    {
-      "name": "Ai",
-      "count": 15,
-      "url": "https://www.theguardian.com/global-development/2026/aug/04/us-government-mislabelled-map-africa-global-aids-funding-cuts-kenneth-ngure",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 12,
-      "url": "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Ariana Grande",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/08/04/arts/music/ariana-grande-health-weight.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 10,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/anthony-fauci-katie-miller-maga-hypocrite",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michigan Senate",
-      "count": 7,
-      "url": "https://www.cbsnews.com/video/full-interview-abdul-el-sayed-makes-progressive-case-as-democrats-weigh-race-against-haley-stevens/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Blanche",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/aug/04/todd-blanche-attorney-general-senate-committee-vote",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ufc",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/aug/03/allan-nascimento-dies-aged-34-ufc-flyweight-apparent-heart-attack",
-      "source": "The Guardian"
     }
   ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 52,
-      "url": "https://www.theguardian.com/global-development/2026/aug/04/us-government-mislabelled-map-africa-global-aids-funding-cuts-kenneth-ngure",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Washington",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/08/04/podcasts/the-headlines/iran-deal-strait-of-hormuz-trump-spending.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Michigan",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/aug/04/michigan-senate-race-abdul-el-sayed-haley-stevens",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/aug/04/judge-blocks-new-york-ban-ice-officers-masks",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Russia",
-      "count": 13,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/with-russia-at-the-door-and-the-us-backing-away-europe-has-to-build-its-own-way-of-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Los Angeles",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/08/04/business/palisades-mall-wildfires.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/the-hill-i-will-die-on-mr-brightside-wedding-songs",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/",
-      "source": "Washington Post"
-    }
-  ],
-  "updated": "2026-08-04T15:26:22Z"
+  "updated": "2026-08-04T20:38:08Z"
 };
