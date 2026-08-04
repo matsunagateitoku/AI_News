@@ -2,93 +2,83 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    84,
-    "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html"
-  ],
-  [
-    "president",
-    31,
+    76,
     "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html"
   ],
   [
     "senate",
-    28,
+    32,
     "https://www.nytimes.com/2026/08/03/us/politics/graham-south-carolina-senate-debate.html"
   ],
   [
+    "primary",
+    27,
+    "https://www.nytimes.com/2026/08/03/us/politics/democrats-michigan-house-primary-progressives-moderates.html"
+  ],
+  [
     "democratic",
-    25,
+    26,
     "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html"
   ],
   [
-    "primary",
+    "president",
+    25,
+    "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html"
+  ],
+  [
+    "michigan",
     25,
     "https://www.nytimes.com/2026/08/03/us/politics/democrats-michigan-house-primary-progressives-moderates.html"
   ],
   [
+    "war",
+    24,
+    "https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html"
+  ],
+  [
     "sleep",
-    25,
+    24,
     "https://www.theguardian.com/wellness/2026/aug/03/how-to-start-decorating-your-home"
   ],
   [
     "republican",
-    24,
+    23,
     "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/"
   ],
   [
-    "ice",
-    23,
-    "https://www.nytimes.com/2026/08/03/nyregion/ice-mask-ban-new-york.html"
-  ],
-  [
-    "michigan",
-    22,
-    "https://www.nytimes.com/2026/08/03/us/politics/democrats-michigan-house-primary-progressives-moderates.html"
-  ],
-  [
-    "school",
-    22,
-    "https://www.theguardian.com/us-news/2026/aug/03/mfa-writing-programs"
-  ],
-  [
-    "died",
-    21,
-    "https://www.nytimes.com/2026/08/03/nyregion/ice-detention-center-death-delaney-hall-nj.html"
+    "south",
+    20,
+    "https://www.nytimes.com/2026/08/03/us/politics/graham-south-carolina-senate-debate.html"
   ],
   [
     "race",
-    20,
+    19,
     "https://www.nytimes.com/2026/08/03/us/politics/graham-south-carolina-senate-debate.html"
   ],
   [
-    "york",
-    20,
+    "died",
+    19,
+    "https://www.nytimes.com/2026/08/03/nyregion/ice-detention-center-death-delaney-hall-nj.html"
+  ],
+  [
+    "ice",
+    19,
     "https://www.nytimes.com/2026/08/03/nyregion/ice-mask-ban-new-york.html"
   ],
   [
-    "south",
+    "death",
     19,
-    "https://www.nytimes.com/2026/08/03/us/politics/graham-south-carolina-senate-debate.html"
+    "https://www.theguardian.com/us-news/2026/aug/03/nolan-wells-death-threats-officials"
   ],
   [
-    "hot",
-    19,
-    "https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html"
-  ],
-  [
-    "million",
+    "country",
     18,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html"
   ],
   [
-    "summer",
+    "health",
     18,
-    "https://www.theguardian.com/us-news/2026/aug/03/washington-state-fires-spokane"
-  ],
-  [
-    "wildfires",
-    17,
-    "https://www.nytimes.com/2026/08/03/briefing/spokane-cyclosporiasis-blanche.html"
+    "https://www.nytimes.com/2026/08/03/us/politics/fauci-rfk-publisher.html"
   ],
   [
     "candidate",
@@ -96,39 +86,49 @@
     "https://www.nytimes.com/2026/08/03/us/politics/democrats-michigan-house-primary-progressives-moderates.html"
   ],
   [
-    "dead",
+    "local",
     17,
-    "https://www.nytimes.com/2026/08/03/nyregion/ice-detention-center-death-delaney-hall-nj.html"
+    "https://www.nytimes.com/2026/08/03/nyregion/ice-mask-ban-new-york.html"
   ],
   [
-    "health",
+    "million",
     17,
-    "https://www.nytimes.com/2026/08/03/us/politics/fauci-rfk-publisher.html"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "california",
+    "hot",
     17,
-    "https://www.theguardian.com/us-news/2026/aug/03/ice-detention-water-video"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/04/the-ultimate-guide-to-travel-etiquette-how-to-handle-36-tricky-situations-from-manspreaders-to-smelly-armpits"
   ],
   [
-    "start",
+    "york",
     16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/08/03/nyregion/ice-mask-ban-new-york.html"
   ],
   [
-    "buying",
+    "police",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/aug/03/bedjet-cooling-bed-review"
+    "https://www.nytimes.com/2026/08/03/nyregion/ice-mask-ban-new-york.html"
   ],
   [
     "heat",
     16,
-    "https://www.theguardian.com/us-news/2026/aug/03/washington-state-fires-spokane"
+    "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates"
+  ],
+  [
+    "school",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/03/republican-james-fishback-sued-student-debate-money"
+  ],
+  [
+    "summer",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/03/democrats-2024-election-autopsy"
   ],
   [
     "film",
     16,
-    "https://www.theguardian.com/us-news/2026/aug/03/john-sayles-matewan-unions"
+    "https://www.theguardian.com/commentisfree/2026/aug/03/the-odyssey-nolan-ice"
   ],
   [
     "rep",
@@ -136,34 +136,14 @@
     "https://www.cbsnews.com/news/trump-max-miller-call-abuse-allegations/"
   ],
   [
-    "iran",
+    "politics",
     15,
-    "https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html"
+    "https://www.nytimes.com/video/us/politics/100000011064084/democratic-socialists-of-america.html"
   ],
   [
-    "war",
+    "released",
     15,
-    "https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html"
-  ],
-  [
-    "police",
-    15,
-    "https://www.nytimes.com/2026/08/03/nyregion/ice-mask-ban-new-york.html"
-  ],
-  [
-    "love",
-    15,
-    "https://www.nytimes.com/2026/08/03/nyregion/gen-z-dating-too-expensive-cost.html"
-  ],
-  [
-    "los",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/03/ice-detention-water-video"
-  ],
-  [
-    "death",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/03/nolan-wells-death-threats-officials"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "feel",
@@ -171,47 +151,37 @@
     "https://www.theguardian.com/news/ng-interactive/2026/aug/04/war-lesson-learning-ukrainian-culture-ukraine"
   ],
   [
-    "attorney",
-    14,
-    "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html"
+    "california",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/03/ice-detention-water-video"
   ],
   [
-    "pool",
+    "star",
+    15,
+    "https://www.theguardian.com/sport/2026/aug/03/alexandra-eala-dc-open-title-philippines"
+  ],
+  [
+    "case",
     14,
     "https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html"
   ],
   [
-    "washington",
-    14,
-    "https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html"
-  ],
-  [
-    "political",
+    "iran",
     14,
     "https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html"
   ],
   [
-    "party",
+    "fire",
     14,
-    "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html"
+    "https://www.nytimes.com/2026/08/04/us/spokane-wildfires-arson-arrest.html"
   ],
   [
-    "country",
+    "texas",
     14,
-    "https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html"
+    "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/"
   ],
   [
-    "local",
-    14,
-    "https://www.nytimes.com/2026/08/03/nyregion/ice-mask-ban-new-york.html"
-  ],
-  [
-    "books",
-    14,
-    "https://www.nytimes.com/2026/08/03/us/politics/fauci-rfk-publisher.html"
-  ],
-  [
-    "gop",
+    "win",
     14,
     "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/"
   ],
@@ -221,69 +191,34 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "air",
+    "food",
     14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/04/the-ultimate-guide-to-travel-etiquette-how-to-handle-36-tricky-situations-from-manspreaders-to-smelly-armpits"
+  ],
+  [
+    "series",
+    14,
+    "https://www.theguardian.com/world/2026/aug/04/biama-dance-ivorian-pop-culture-cote-d-ivoire-tik-tok"
+  ],
+  [
+    "killed",
+    14,
+    "https://www.theguardian.com/world/2026/aug/04/daphne-caruana-galizia-investigating-suspected-corruption-when-killed-jury-told"
   ],
   [
     "court",
     14,
-    "https://www.theguardian.com/commentisfree/2026/aug/03/trump-administration-authoritarianism"
-  ],
-  [
-    "little",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/aug/03/trump-administration-authoritarianism"
-  ],
-  [
-    "administration",
-    14,
     "https://www.theguardian.com/us-news/2026/aug/03/states-sue-trump-administration-tariffs"
   ],
   [
-    "family",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/03/fitness-fans-surgery-injury-health"
-  ],
-  [
-    "star",
-    14,
-    "https://www.theguardian.com/film/2026/aug/03/spider-man-brand-new-day-new-characters-new-flaws-new-tech-and-brain-exploding-future-consequences-discuss-with-spoilers"
-  ],
-  [
-    "tour",
-    14,
-    "https://www.theguardian.com/sport/2026/aug/03/alexandra-eala-dc-open-title-philippines"
-  ],
-  [
-    "food",
-    14,
-    "https://www.theguardian.com/books/2026/jul/31/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-july"
-  ],
-  [
-    "republicans",
+    "pool",
     13,
-    "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html"
+    "https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html"
   ],
   [
-    "latest",
+    "political",
     13,
-    "https://www.nytimes.com/2026/08/03/briefing/spokane-cyclosporiasis-blanche.html"
-  ],
-  [
-    "democrats",
-    13,
-    "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html"
-  ],
-  [
-    "committee",
-    13,
-    "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html"
-  ],
-  [
-    "politics",
-    13,
-    "https://www.nytimes.com/video/us/politics/100000011064084/democratic-socialists-of-america.html"
+    "https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html"
   ],
   [
     "debate",
@@ -291,47 +226,72 @@
     "https://www.nytimes.com/2026/08/03/us/politics/graham-south-carolina-senate-debate.html"
   ],
   [
-    "weekend",
+    "book",
+    13,
+    "https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html"
+  ],
+  [
+    "spokane",
     13,
     "https://www.nytimes.com/2026/08/03/us/spokane-wildfires-update.html"
   ],
   [
-    "government",
+    "love",
     13,
-    "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html"
+    "https://www.nytimes.com/2026/08/03/nyregion/gen-z-dating-too-expensive-cost.html"
+  ],
+  [
+    "latest",
+    13,
+    "https://www.nytimes.com/2026/08/04/arts/television/late-night-trump-iran-deal.html"
+  ],
+  [
+    "gop",
+    13,
+    "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/"
+  ],
+  [
+    "water",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/03/ice-detention-water-video"
+  ],
+  [
+    "los",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/03/ice-detention-water-video"
   ],
   [
     "because",
     13,
-    "https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html"
+    "https://www.theguardian.com/environment/2026/aug/04/six-mind-bendingly-amazing-facts-about-invertebrates"
   ],
   [
-    "released",
+    "body",
     13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/environment/2026/aug/04/six-mind-bendingly-amazing-facts-about-invertebrates"
   ],
   [
-    "filter",
+    "action",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/03/bedjet-cooling-bed-review"
+    "https://www.theguardian.com/world/2026/aug/03/this-is-india-niha-masih-cockroach-protest-narendra-modi"
   ],
   [
-    "young",
+    "little",
     13,
-    "https://www.theguardian.com/world/2026/aug/03/trump-meets-his-obstinate-match-in-irans-hardball-regime"
+    "https://www.theguardian.com/commentisfree/2026/aug/03/trump-administration-authoritarianism"
   ],
   [
-    "idaho",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/03/in-n-out-shooting-idaho"
-  ],
-  [
-    "blanche",
+    "republicans",
     12,
     "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html"
   ],
   [
-    "case",
+    "attorney",
+    12,
+    "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html"
+  ],
+  [
+    "washington",
     12,
     "https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html"
   ],
@@ -341,19 +301,34 @@
     "https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html"
   ],
   [
+    "democrats",
+    12,
+    "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html"
+  ],
+  [
+    "running",
+    12,
+    "https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html"
+  ],
+  [
+    "dead",
+    12,
+    "https://www.nytimes.com/2026/08/03/nyregion/ice-detention-center-death-delaney-hall-nj.html"
+  ],
+  [
     "led",
     12,
     "https://www.nytimes.com/2026/08/03/us/politics/fauci-rfk-publisher.html"
   ],
   [
-    "weather",
+    "government",
     12,
-    "https://www.nytimes.com/2026/08/03/us/spokane-wildfires-update.html"
+    "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html"
   ],
   [
-    "win",
+    "israeli",
     12,
-    "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
     "north",
@@ -361,18 +336,43 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "fire",
+    "start",
     12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "brand",
+    "russia",
     12,
-    "https://www.theguardian.com/wellness/2026/aug/03/how-to-start-decorating-your-home"
+    "https://www.theguardian.com/commentisfree/2026/aug/04/with-russia-at-the-door-and-the-us-backing-away-europe-has-to-build-its-own-way-of-war"
   ],
   [
-    "weekly",
+    "plastic",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/aug/03/bedjet-cooling-bed-review"
+    "https://www.theguardian.com/world/2026/aug/04/biama-dance-ivorian-pop-culture-cote-d-ivoire-tik-tok"
+  ],
+  [
+    "young",
+    12,
+    "https://www.theguardian.com/books/2026/aug/03/benjamin-alire-saenz-writer-death"
+  ],
+  [
+    "administration",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/03/states-sue-trump-administration-tariffs"
+  ],
+  [
+    "sayed",
+    12,
+    "https://www.theguardian.com/us-news/video/2026/aug/03/michigan-progressive-primary-candidate-stateside-podcast"
+  ],
+  [
+    "buying",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/aug/03/the-odyssey-nolan-ice"
+  ],
+  [
+    "children",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/03/arizona-clergy-child-abuse-confessions-court"
   ]
 ];
