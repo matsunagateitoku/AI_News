@@ -2,153 +2,208 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    75,
-    "https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html"
+    77,
+    "https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html"
+  ],
+  [
+    "primary",
+    73,
+    "https://www.nytimes.com/2026/08/04/us/politics/maasdam-lawrence-michigan-primary.html"
+  ],
+  [
+    "michigan",
+    52,
+    "https://www.nytimes.com/2026/08/04/us/politics/maasdam-lawrence-michigan-primary.html"
+  ],
+  [
+    "democratic",
+    46,
+    "https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html"
   ],
   [
     "senate",
-    40,
-    "https://www.theguardian.com/commentisfree/2026/aug/04/anthony-fauci-katie-miller-maga-hypocrite"
+    42,
+    "https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html"
+  ],
+  [
+    "gop",
+    36,
+    "https://www.theguardian.com/us-news/2026/aug/04/max-miller-resign-domestic-abuse-allegations"
   ],
   [
     "president",
-    30,
-    "https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html"
-  ],
-  [
-    "democrats",
-    25,
-    "https://www.theguardian.com/us-news/2026/aug/04/michigan-senate-race-abdul-el-sayed-haley-stevens"
-  ],
-  [
-    "fire",
-    24,
-    "https://www.nytimes.com/2026/08/04/business/palisades-mall-wildfires.html"
-  ],
-  [
-    "death",
-    24,
-    "https://www.nytimes.com/2026/08/04/nyregion/immigrant-death-delaney-hall.html"
-  ],
-  [
-    "miller",
-    23,
-    "https://www.nytimes.com/2026/08/04/us/politics/max-miller-ohio-congress-trump.html"
-  ],
-  [
-    "family",
-    23,
-    "https://www.nytimes.com/2026/08/04/nyregion/immigrant-death-delaney-hall.html"
+    32,
+    "https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html"
   ],
   [
     "rep",
-    23,
-    "https://www.foxnews.com/politics/embattled-gop-rep-takes-dramatic-step-clear-name-abuse-allegations-engulf-house-race"
+    30,
+    "https://www.foxnews.com/politics/2026-midterms-state-of-play-key-races-unfold-stevens-el-sayed-battle-michigan"
   ],
   [
-    "latest",
-    22,
-    "https://www.nytimes.com/2026/08/04/business/kevin-warsh-federal-reserve-markets.html"
+    "district",
+    28,
+    "https://www.nytimes.com/2026/08/04/us/politics/maasdam-lawrence-michigan-primary.html"
+  ],
+  [
+    "republican",
+    28,
+    "https://www.nytimes.com/2026/08/04/us/politics/maasdam-lawrence-michigan-primary.html"
+  ],
+  [
+    "race",
+    27,
+    "https://www.theguardian.com/us-news/2026/aug/04/protesters-occupy-tree-us-mexico-border"
+  ],
+  [
+    "john",
+    23,
+    "https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html"
+  ],
+  [
+    "fire",
+    23,
+    "https://www.nytimes.com/2026/08/04/us/eaton-fire-cause-transmission-tower-report.html"
   ],
   [
     "south",
+    23,
+    "https://www.nytimes.com/2026/08/04/world/asia/south-korea-birth-rate-nicu-crisis.html"
+  ],
+  [
+    "governor",
     22,
-    "https://www.nytimes.com/2026/08/04/us/politics/trump-helipad-white-house-construction.html"
+    "https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html"
   ],
   [
     "summer",
     22,
-    "https://www.nytimes.com/2026/08/04/style/jack-johnson-summer-surfilmusic.html"
-  ],
-  [
-    "administration",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/aug/04/anthony-fauci-katie-miller-maga-hypocrite"
-  ],
-  [
-    "primary",
-    21,
-    "https://www.theguardian.com/us-news/2026/aug/04/michigan-senate-race-abdul-el-sayed-haley-stevens"
-  ],
-  [
-    "war",
-    19,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "https://www.theguardian.com/film/2026/aug/04/spider-man-brand-new-day-performance"
   ],
   [
     "party",
+    21,
+    "https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html"
+  ],
+  [
+    "election",
+    20,
+    "https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html"
+  ],
+  [
+    "arrested",
+    20,
+    "https://www.nytimes.com/2026/08/04/us/spokane-fire-arson-suspect-witness.html"
+  ],
+  [
+    "backed",
+    20,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "war",
+    20,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "death",
+    20,
+    "https://www.theguardian.com/culture/ng-interactive/2026/aug/04/death-row-lawyer-standup-comedy"
+  ],
+  [
+    "company",
+    20,
+    "https://www.theguardian.com/world/2026/aug/05/ukraine-war-briefing-russian-soldier-crimea-shoots-comrades-civilians"
+  ],
+  [
+    "administration",
     19,
-    "https://www.theguardian.com/us-news/2026/aug/04/michigan-senate-race-abdul-el-sayed-haley-stevens"
+    "https://www.nytimes.com/2026/08/04/us/politics/jan-6-charges-oath-keepers-dismissed.html"
   ],
   [
-    "ice",
-    18,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "police",
+    19,
+    "https://www.nytimes.com/2026/08/04/us/spokane-fire-arson-suspect-witness.html"
   ],
   [
-    "race",
+    "decision",
+    19,
+    "https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds"
+  ],
+  [
+    "democrats",
+    19,
+    "https://www.theguardian.com/us-news/2026/aug/04/todd-blanche-attorney-general-senate-committee-vote"
+  ],
+  [
+    "air",
     18,
-    "https://www.theguardian.com/us-news/2026/aug/04/vivek-ramaswamy-ohio-governor-race"
+    "https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html"
+  ],
+  [
+    "missouri",
+    18,
+    "https://www.theguardian.com/us-news/live/2026/aug/04/midterm-primary-elections-updates-michigan-senate"
+  ],
+  [
+    "win",
+    18,
+    "https://www.theguardian.com/sport/2026/aug/04/marlen-reusser-demi-vollering-tour-de-france-femmes-stage-four-cycling"
+  ],
+  [
+    "wins",
+    17,
+    "https://www.nytimes.com/2026/08/04/us/politics/maasdam-lawrence-michigan-primary.html"
   ],
   [
     "food",
-    18,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/04/the-ultimate-guide-to-travel-etiquette-how-to-handle-36-tricky-situations-from-manspreaders-to-smelly-armpits"
+    17,
+    "https://www.theguardian.com/world/2026/aug/05/ukraine-war-briefing-russian-soldier-crimea-shoots-comrades-civilians"
+  ],
+  [
+    "department",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/04/openai-worker-discrimination-claims-settlement"
+  ],
+  [
+    "david",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/04/ex-olympian-david-hearn-reflecting-pool-case"
   ],
   [
     "film",
-    18,
+    17,
     "https://www.theguardian.com/film/2026/aug/04/lucky-strike-review-scott-eastwood"
-  ],
-  [
-    "max",
-    17,
-    "https://www.nytimes.com/2026/08/04/us/politics/max-miller-ohio-congress-trump.html"
-  ],
-  [
-    "america",
-    17,
-    "https://www.nytimes.com/2026/08/04/upshot/progressive-left-michigan-wisconsin.html"
-  ],
-  [
-    "los",
-    17,
-    "https://www.nytimes.com/2026/08/04/business/palisades-mall-wildfires.html"
   ],
   [
     "health",
     17,
-    "https://www.nytimes.com/2026/08/04/arts/music/ariana-grande-health-weight.html"
+    "https://www.theguardian.com/commentisfree/2026/aug/04/kalshi-predictions-market-clinical-trial"
   ],
   [
-    "air",
+    "congressional",
     17,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.foxnews.com/politics/sunrise-movement-co-founder-defeats-establishment-backed-dems-pivotal-michigan-race"
+  ],
+  [
+    "california",
+    16,
+    "https://www.nytimes.com/2026/08/04/us/eaton-fire-cause-transmission-tower-report.html"
+  ],
+  [
+    "bell",
+    16,
+    "https://www.theguardian.com/us-news/live/2026/aug/04/midterm-primary-elections-updates-michigan-senate"
+  ],
+  [
+    "los",
+    15,
+    "https://www.washingtonpost.com/nation/2026/08/04/jeanine-john-taele-arrested-trump-golf-course-near-la/"
   ],
   [
     "angeles",
-    16,
-    "https://www.nytimes.com/2026/08/04/business/palisades-mall-wildfires.html"
-  ],
-  [
-    "country",
-    16,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "attorney",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/04/ex-olympian-david-hearn-reflecting-pool-case"
-  ],
-  [
-    "company",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/04/eaton-wildfire-cause-los-angeles"
-  ],
-  [
-    "water",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/04/texas-summer-camp-trans-kids"
+    15,
+    "https://www.washingtonpost.com/nation/2026/08/04/jeanine-john-taele-arrested-trump-golf-course-near-la/"
   ],
   [
     "court",
@@ -156,64 +211,34 @@
     "https://www.washingtonpost.com/nation/2026/08/04/whos-winning-california-v-trump-lawsuits-so-far/"
   ],
   [
-    "gop",
+    "music",
     15,
-    "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/"
-  ],
-  [
-    "committee",
-    15,
-    "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/"
-  ],
-  [
-    "michigan",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/04/michigan-senate-race-abdul-el-sayed-haley-stevens"
-  ],
-  [
-    "love",
-    15,
-    "https://www.theguardian.com/sport/2026/aug/04/bijan-robinson-atlanta-falcons-contract-nfl"
-  ],
-  [
-    "game",
-    15,
-    "https://www.theguardian.com/games/2026/aug/04/tanuki-pons-summer-bmx-adventure-japan"
-  ],
-  [
-    "democratic",
-    14,
-    "https://www.nytimes.com/2026/08/04/upshot/progressive-left-michigan-wisconsin.html"
-  ],
-  [
-    "california",
-    14,
-    "https://www.nytimes.com/2026/08/04/us/eaton-fire-cause-transmission-tower-report.html"
-  ],
-  [
-    "medical",
-    14,
-    "https://www.nytimes.com/2026/08/04/nyregion/immigrant-death-delaney-hall.html"
-  ],
-  [
-    "police",
-    14,
-    "https://www.washingtonpost.com/nation/2026/08/04/police-clear-corey-ruiz-protest-encampment-madison-wisconsin/"
-  ],
-  [
-    "republican",
-    14,
-    "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/04/the-ultimate-guide-to-travel-etiquette-how-to-handle-36-tricky-situations-from-manspreaders-to-smelly-armpits"
   ],
   [
     "general",
     14,
+    "https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html"
+  ],
+  [
+    "golf",
+    14,
+    "https://www.washingtonpost.com/nation/2026/08/04/jeanine-john-taele-arrested-trump-golf-course-near-la/"
+  ],
+  [
+    "country",
+    14,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "government",
+    14,
     "https://www.theguardian.com/commentisfree/2026/aug/04/anthony-fauci-katie-miller-maga-hypocrite"
   ],
   [
-    "series",
+    "school",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/04/the-shards-tv-show-thriller-cast-interview"
+    "https://www.theguardian.com/culture/ng-interactive/2026/aug/04/death-row-lawyer-standup-comedy"
   ],
   [
     "hear",
@@ -221,64 +246,84 @@
     "https://www.theguardian.com/environment/2026/aug/04/when-you-kill-it-it-doesnt-die-the-jellyfish-that-has-cracked-the-secret-of-immortality"
   ],
   [
-    "died",
+    "democrat",
     14,
-    "https://www.theguardian.com/commentisfree/2026/aug/04/summer-heat-climate-war-zone"
+    "https://www.theguardian.com/us-news/live/2026/aug/04/midterm-primary-elections-updates-michigan-senate"
+  ],
+  [
+    "bush",
+    14,
+    "https://www.theguardian.com/us-news/live/2026/aug/04/midterm-primary-elections-updates-michigan-senate"
+  ],
+  [
+    "night",
+    14,
+    "https://www.theguardian.com/us-news/live/2026/aug/04/midterm-primary-elections-updates-michigan-senate"
   ],
   [
     "local",
     14,
-    "https://www.theguardian.com/technology/2026/aug/04/x-twitter-blocks-dissident-accounts-saudi-arabia"
+    "https://www.theguardian.com/world/2026/aug/05/ukraine-war-briefing-russian-soldier-crimea-shoots-comrades-civilians"
   ],
   [
-    "children",
+    "kansas",
     14,
-    "https://www.theguardian.com/books/2026/aug/04/children-of-the-wild-by-kevin-powers-review-gripping-tale-of-a-friendship-forged-in-war"
+    "https://www.foxnews.com/politics/dems-hope-defend-governors-mansion-gop-takeover-red-state"
   ],
   [
-    "record",
+    "running",
     13,
-    "https://www.nytimes.com/2026/08/04/business/stock-market-record.html"
+    "https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html"
   ],
   [
-    "iran",
+    "nomination",
     13,
-    "https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html"
+    "https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html"
   ],
   [
     "york",
     13,
-    "https://www.nytimes.com/2026/08/04/nyregion/nyc-parking-stickers.html"
+    "https://www.nytimes.com/2026/08/04/nyregion/nyc-buildings-violations-conversions.html"
   ],
   [
-    "questions",
+    "course",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.washingtonpost.com/nation/2026/08/04/jeanine-john-taele-arrested-trump-golf-course-near-la/"
   ],
   [
-    "wife",
+    "far",
+    13,
+    "https://www.washingtonpost.com/nation/2026/08/04/whos-winning-california-v-trump-lawsuits-so-far/"
+  ],
+  [
+    "family",
+    13,
+    "https://www.washingtonpost.com/nation/2026/08/04/they-fled-by-boat-middle-lake-spokane-wildfires-closed/"
+  ],
+  [
+    "washington",
+    13,
+    "https://www.washingtonpost.com/nation/2026/08/04/they-fled-by-boat-middle-lake-spokane-wildfires-closed/"
+  ],
+  [
+    "republicans",
     13,
     "https://www.theguardian.com/commentisfree/2026/aug/04/anthony-fauci-katie-miller-maga-hypocrite"
   ],
   [
-    "government",
+    "seat",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/04/anthony-fauci-katie-miller-maga-hypocrite"
+    "https://www.theguardian.com/us-news/live/2026/aug/04/midterm-primary-elections-updates-michigan-senate"
   ],
   [
-    "school",
+    "sayed",
     13,
-    "https://www.theguardian.com/culture/ng-interactive/2026/aug/04/death-row-lawyer-standup-comedy"
+    "https://www.theguardian.com/us-news/live/2026/aug/04/midterm-primary-elections-updates-michigan-senate"
   ],
   [
-    "david",
+    "fall",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/04/ex-olympian-david-hearn-reflecting-pool-case"
-  ],
-  [
-    "black",
-    13,
-    "https://www.theguardian.com/culture/2026/aug/05/pleasantville-movie-tobey-maguire-reese-witherspoon"
+    "https://www.theguardian.com/football/2026/aug/04/usmnt-friendlies-mexico-canada"
   ],
   [
     "filter",
@@ -286,49 +331,39 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/03/bedjet-cooling-bed-review"
   ],
   [
-    "clear",
-    12,
-    "https://www.nytimes.com/2026/08/04/business/kevin-warsh-federal-reserve-markets.html"
+    "james",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/04/job-that-changed-me-titanic-theatre-restaurant"
   ],
   [
-    "republicans",
-    12,
-    "https://www.nytimes.com/2026/08/04/us/politics/max-miller-ohio-congress-trump.html"
+    "cbs",
+    13,
+    "https://www.cbsnews.com/news/missouri-5-gop-primary-rick-brattin-emanuel-cleaver-redistricting-trump/"
   ],
   [
-    "election",
-    12,
-    "https://www.nytimes.com/2026/08/04/us/politics/max-miller-ohio-congress-trump.html"
+    "projects",
+    13,
+    "https://www.cbsnews.com/news/missouri-5-gop-primary-rick-brattin-emanuel-cleaver-redistricting-trump/"
   ],
   [
-    "allegations",
+    "battle",
     12,
-    "https://www.nytimes.com/2026/08/04/us/politics/max-miller-ohio-congress-trump.html"
+    "https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html"
   ],
   [
-    "political",
-    12,
-    "https://www.nytimes.com/2026/08/04/nyregion/ronald-lauder-republicans-donor.html"
-  ],
-  [
-    "far",
-    12,
-    "https://www.nytimes.com/2026/08/04/business/uber-sexual-assault-lawsuits.html"
-  ],
-  [
-    "center",
-    12,
-    "https://www.nytimes.com/2026/08/04/business/palisades-mall-wildfires.html"
-  ],
-  [
-    "wildfires",
+    "led",
     12,
     "https://www.washingtonpost.com/nation/2026/08/04/they-fled-by-boat-middle-lake-spokane-wildfires-closed/"
   ],
   [
-    "don",
+    "attack",
     12,
-    "https://www.theguardian.com/wellness/2026/aug/04/joint-friendly-running-cardio-alternative-exercises"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "latest",
+    12,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
     "guide",
@@ -336,43 +371,8 @@
     "https://www.theguardian.com/commentisfree/2026/aug/04/anthony-fauci-katie-miller-maga-hypocrite"
   ],
   [
-    "west",
+    "don",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/04/vivek-ramaswamy-ohio-governor-race"
-  ],
-  [
-    "music",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/04/the-ultimate-guide-to-travel-etiquette-how-to-handle-36-tricky-situations-from-manspreaders-to-smelly-armpits"
-  ],
-  [
-    "night",
-    12,
-    "https://www.theguardian.com/sport/2026/aug/04/ufc-freedom-250-white-house-losses-trump"
-  ],
-  [
-    "nomination",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/04/todd-blanche-attorney-general-senate-committee-vote"
-  ],
-  [
-    "full",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/04/todd-blanche-attorney-general-senate-committee-vote"
-  ],
-  [
-    "john",
-    12,
-    "https://www.theguardian.com/film/2026/aug/04/lucky-strike-review-scott-eastwood"
-  ],
-  [
-    "again",
-    12,
-    "https://www.theguardian.com/environment/2026/aug/04/when-you-kill-it-it-doesnt-die-the-jellyfish-that-has-cracked-the-secret-of-immortality"
-  ],
-  [
-    "cancer",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/04/kalshi-predictions-market-clinical-trial"
+    "https://www.theguardian.com/wellness/2026/aug/04/joint-friendly-running-cardio-alternative-exercises"
   ]
 ];
