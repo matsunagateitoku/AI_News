@@ -3,19 +3,25 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 53,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/05/rfk-jr-youtube-cooking-show-are-trump-officials-doing-job",
+      "count": 52,
+      "url": "https://www.theguardian.com/technology/2026/aug/05/teachers-unions-ai-training",
       "source": "The Guardian"
     },
     {
       "name": "Michigan",
-      "count": 35,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/05/rfk-jr-youtube-cooking-show-are-trump-officials-doing-job",
-      "source": "The Guardian"
+      "count": 37,
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ukraine Wars",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html",
+      "source": "NY Times"
     },
     {
       "name": "Iran",
-      "count": 19,
+      "count": 20,
       "url": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html",
       "source": "NY Times"
     },
@@ -26,43 +32,49 @@
       "source": "NY Times"
     },
     {
-      "name": "Washington",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/08/05/us/politics/todd-blanche-pirro-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 12,
-      "url": "https://www.washingtonpost.com/nation/2026/08/05/utility-tower-spark-confirmed-cause-2025-eaton-fire-california/",
-      "source": "Washington Post"
+      "name": "Florida",
+      "count": 11,
+      "url": "https://www.theguardian.com/media/2026/aug/05/perez-hilton-self-harm-tiktok-criticism",
+      "source": "The Guardian"
     },
     {
       "name": "New Mexico",
-      "count": 8,
+      "count": 10,
       "url": "https://www.theguardian.com/us-news/2026/aug/05/new-mexico-sues-doj-epstein-investigation",
       "source": "The Guardian"
     },
     {
-      "name": "Florida",
+      "name": "California",
       "count": 8,
-      "url": "https://www.theguardian.com/media/2026/aug/05/trump-defamation-lawsuit-murdoch-dismissal",
+      "url": "https://www.washingtonpost.com/nation/2026/08/05/utility-tower-spark-confirmed-cause-2025-eaton-fire-california/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Uk",
+      "count": 8,
+      "url": "https://www.theguardian.com/technology/2026/aug/05/ai-models-have-been-going-rogue-in-tests-how-worried-should-we-be",
       "source": "The Guardian"
     },
     {
-      "name": "London",
-      "count": 8,
-      "url": "https://www.theguardian.com/uk-news/2026/aug/05/woman-arrested-three-stabbed-london-covent-garden",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ukraine",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/william-lawrence-michigan-democratic-house-primary",
+      "name": "New York City’S",
+      "count": 7,
+      "url": "https://www.theguardian.com/wellness/2026/aug/04/joint-friendly-running-cardio-alternative-exercises",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
+    {
+      "name": "La Super Bowl    World Cup",
+      "count": 6,
+      "url": "https://www.theguardian.com/football/2026/aug/05/nwsl-2027-schedule-womens-world-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/2026/aug/05/gianni-infantino-scrambling-for-his-future-in-morocco-with-colombia-next",
+      "source": "The Guardian"
+    },
     {
       "name": "Pro Bowl",
       "count": 2,
@@ -70,15 +82,21 @@
       "source": "The Guardian"
     },
     {
-      "name": "The World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/music/2026/aug/05/jonas-brothers-20-years-in-pop",
-      "source": "The Guardian"
+      "name": "The 2027 Super Bowl",
+      "count": 2,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-05/super-bowl-2027-commercials-espn-abc-sold-out",
+      "source": "LA Times"
     },
     {
-      "name": "The War On Democracy",
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.cbsnews.com/video/former-defense-secretary-chuck-hagel-on-iran-war-sharing-of-information/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Challenge Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley",
+      "url": "https://www.theguardian.com/football/2026/aug/05/nwsl-2027-schedule-womens-world-cup",
       "source": "The Guardian"
     },
     {
@@ -94,115 +112,35 @@
       "source": "The Guardian"
     },
     {
+      "name": "The War On Democracy",
+      "count": 1,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley",
+      "source": "The Guardian"
+    },
+    {
       "name": "Katrina",
       "count": 1,
       "url": "https://www.theguardian.com/lifeandstyle/2026/aug/01/blind-date-richard-katrina",
       "source": "The Guardian"
-    },
-    {
-      "name": "The Cincinnati Open",
-      "count": 1,
-      "url": "https://www.latimes.com/sports/story/2026-08-05/serena-williams-venus-doubles-cincinnati-open",
-      "source": "LA Times"
-    },
-    {
-      "name": "World War Ii",
-      "count": 1,
-      "url": "https://www.cbsnews.com/news/danube-river-wwii-shipwrecks-mammoth-bones/",
-      "source": "CBS News"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump National Golf Course",
-      "count": 52,
-      "url": "https://www.nbcnews.com/politics/politics-news/man-illegal-weapons-home-car-arrested-trump-golf-club-california-rcna590890",
-      "source": "NBC News"
-    },
-    {
-      "name": "Democratic Maine Senate",
-      "count": 33,
-      "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
-      "source": "Politico"
-    },
-    {
-      "name": "Ai Security Institute",
-      "count": 20,
-      "url": "https://www.theguardian.com/technology/2026/aug/05/ai-models-have-been-going-rogue-in-tests-how-worried-should-we-be",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 12,
-      "url": "https://www.washingtonpost.com/nation/2026/08/04/whos-winning-california-v-trump-lawsuits-so-far/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Cdc",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/erica-schwartz-cdc-director-senate-confirmation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michigan Senate",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "El-Sayed",
-      "count": 11,
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
-      "source": "NPR"
-    },
-    {
-      "name": "Gop House",
-      "count": 11,
-      "url": "https://www.nbcnews.com/politics/2026-election/candidate-dropped-beats-trumps-pick-battleground-gop-house-primary-rcna590905",
-      "source": "NBC News"
-    },
-    {
-      "name": "Tiktok",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/08/05/us/perez-hilton-live-stream-tiktok-self-harm.html",
-      "source": "NY Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 28,
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/erica-schwartz-cdc-director-senate-confirmation",
+      "count": 24,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/05/abdul-el-sayed-democrats-trump",
       "source": "The Guardian"
     },
     {
       "name": "Abdul El-Sayed Thinks Progressives Have A Way To Win",
-      "count": 22,
+      "count": 20,
       "url": "https://www.nytimes.com/2026/08/05/opinion/abdul-el-sayed-michigan-democrats.html",
       "source": "NY Times"
     },
     {
-      "name": "Erica Schwartz",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/erica-schwartz-cdc-director-senate-confirmation",
-      "source": "The Guardian"
-    },
-    {
       "name": "Haley Stevens",
-      "count": 12,
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
-      "source": "NPR"
-    },
-    {
-      "name": "Ted Lasso",
-      "count": 9,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/05/ted-lasso-season-four-review-jason-sudeikis",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/video/2026/aug/05/michigan-democratic-senate-primary-video-explainer",
       "source": "The Guardian"
     },
     {
@@ -212,16 +150,22 @@
       "source": "The Guardian"
     },
     {
+      "name": "Ted Lasso",
+      "count": 7,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/05/ted-lasso-season-four-review-jason-sudeikis",
+      "source": "The Guardian"
+    },
+    {
       "name": "Jude",
       "count": 7,
       "url": "https://www.theguardian.com/books/2026/aug/05/a-sense-of-occasion-by-brodie-crellin-review-a-surprising-and-darkly-funny-debut",
       "source": "The Guardian"
     },
     {
-      "name": "Perez Hilton Hospitalized",
-      "count": 7,
-      "url": "https://www.today.com/video/perez-hilton-hospitalized-after-reports-he-livestreamed-self-harm-267807301673",
-      "source": "NBC News"
+      "name": "Erica Schwartz",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/erica-schwartz-cdc-director-senate-confirmation",
+      "source": "The Guardian"
     },
     {
       "name": "Thomas Smith",
@@ -230,11 +174,79 @@
       "source": "The Guardian"
     },
     {
-      "name": "Perez Hilton",
+      "name": "A Virgin Mary",
       "count": 6,
-      "url": "https://www.nytimes.com/2026/08/05/us/perez-hilton-live-stream-tiktok-self-harm.html",
-      "source": "NY Times"
+      "url": "https://www.foxnews.com/us/masked-man-caught-camera-smashing-virgin-mary-statue-outside-nyc-church-hammer",
+      "source": "Fox News"
+    },
+    {
+      "name": "William Lawrence",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/william-lawrence-michigan-democratic-house-primary",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-08-05T20:34:49Z"
+  "ORG": [
+    {
+      "name": "Trump National Golf Club",
+      "count": 52,
+      "url": "https://www.cbsnews.com/news/president-trump-los-angeles-county-golf-club-armed-suspect-arrested/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Democratic Maine Senate",
+      "count": 28,
+      "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
+      "source": "Politico"
+    },
+    {
+      "name": "Ai Security Institute",
+      "count": 27,
+      "url": "https://www.theguardian.com/technology/2026/aug/05/ai-models-have-been-going-rogue-in-tests-how-worried-should-we-be",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Congress Two House",
+      "count": 13,
+      "url": "https://thehill.com/homenews/6012542-democrats-accuse-wright-of-lying-to-congress/",
+      "source": "The Hill"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 10,
+      "url": "https://www.foxnews.com/politics/el-sayed-threat-gop-rival-backfires-conservatives-bring-receipts-who-hell-does-he-think-he-is",
+      "source": "Fox News"
+    },
+    {
+      "name": "Defeat El-Sayed",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Meta",
+      "count": 9,
+      "url": "https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Michigan Senate",
+      "count": 8,
+      "url": "https://www.foxnews.com/politics/el-sayed-threat-gop-rival-backfires-conservatives-bring-receipts-who-hell-does-he-think-he-is",
+      "source": "Fox News"
+    },
+    {
+      "name": "Guardian Australia'S",
+      "count": 7,
+      "url": "https://www.theguardian.com/technology/video/2026/aug/04/meta-glasses-can-you-tell-if-someone-is-filming-you-video",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-08-06T04:16:35Z"
 };

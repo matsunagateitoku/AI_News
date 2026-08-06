@@ -2,193 +2,228 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    90,
-    "https://www.nytimes.com/2026/08/05/us/politics/trump-namesake-warships-cost-increase.html"
-  ],
-  [
-    "senate",
-    50,
-    "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html"
-  ],
-  [
-    "primary",
-    48,
-    "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html"
+    86,
+    "https://www.nytimes.com/2026/08/05/us/politics/trump-hassan-smith-loses-michigan-primary.html"
   ],
   [
     "michigan",
     46,
-    "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html"
+    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
   ],
   [
-    "sayed",
-    36,
-    "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html"
+    "primary",
+    42,
+    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
+  ],
+  [
+    "senate",
+    40,
+    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
   ],
   [
     "democratic",
     35,
-    "https://www.washingtonpost.com/nation/2026/08/05/federal-judge-opens-up-about-threats-he-has-experienced-under-trump/"
-  ],
-  [
-    "party",
-    29,
-    "https://www.theguardian.com/commentisfree/2026/aug/05/abdul-el-sayed-democrats-trump"
+    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
   ],
   [
     "president",
-    26,
-    "https://www.nytimes.com/2026/08/05/us/politics/trump-namesake-warships-cost-increase.html"
+    33,
+    "https://www.nytimes.com/2026/08/05/us/politics/trump-hassan-smith-loses-michigan-primary.html"
   ],
   [
-    "win",
-    25,
-    "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html"
-  ],
-  [
-    "abdul",
-    25,
-    "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html"
+    "sayed",
+    32,
+    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
   ],
   [
     "air",
-    25,
-    "https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html"
+    26,
+    "https://www.nytimes.com/2026/08/05/us/politics/trump-helicopter-jet-marine-one.html"
   ],
   [
-    "race",
+    "fire",
+    26,
+    "https://www.washingtonpost.com/nation/2026/08/05/utility-tower-spark-confirmed-cause-2025-eaton-fire-california/"
+  ],
+  [
+    "party",
+    26,
+    "https://www.theguardian.com/commentisfree/2026/aug/05/abdul-el-sayed-democrats-trump"
+  ],
+  [
+    "health",
+    25,
+    "https://www.theguardian.com/us-news/2026/aug/05/top-democrats-embrace-abdul-el-sayed"
+  ],
+  [
+    "food",
     24,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/05/nolan-wells-death-mississippi-race"
+    "https://www.theguardian.com/commentisfree/2026/aug/05/rfk-jr-youtube-cooking-show-are-trump-officials-doing-job"
+  ],
+  [
+    "abdul",
+    23,
+    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
   ],
   [
     "summer",
     23,
-    "https://www.nytimes.com/2026/08/05/arts/design/soundwalk-jacek-smolicki-central-park.html"
-  ],
-  [
-    "food",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/aug/05/rfk-jr-youtube-cooking-show-are-trump-officials-doing-job"
-  ],
-  [
-    "family",
-    21,
-    "https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html"
-  ],
-  [
-    "health",
-    21,
-    "https://www.theguardian.com/us-news/2026/aug/05/ice-force-feeding-hunger-strike"
-  ],
-  [
-    "sex",
-    21,
-    "https://www.theguardian.com/us-news/2026/aug/05/new-mexico-sues-doj-epstein-investigation"
-  ],
-  [
-    "fire",
-    20,
-    "https://www.nytimes.com/2026/08/05/us/politics/todd-blanche-pirro-trump.html"
-  ],
-  [
-    "democrats",
-    20,
-    "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html"
-  ],
-  [
-    "director",
-    20,
-    "https://www.theguardian.com/us-news/2026/aug/05/erica-schwartz-cdc-director-senate-confirmation"
+    "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html"
   ],
   [
     "iran",
-    19,
+    22,
     "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html"
   ],
   [
-    "election",
-    19,
-    "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html"
+    "family",
+    22,
+    "https://www.washingtonpost.com/nation/2026/08/04/they-fled-by-boat-middle-lake-spokane-wildfires-closed/"
   ],
   [
-    "school",
-    19,
-    "https://www.washingtonpost.com/nation/2026/08/05/west-point-wont-fight-ban-school-policy-limiting-professors-speech/"
+    "ukraine",
+    20,
+    "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html"
   ],
   [
-    "republican",
+    "company",
+    20,
+    "https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training"
+  ],
+  [
+    "video",
+    20,
+    "https://www.theguardian.com/us-news/video/2026/aug/05/michigan-democratic-senate-primary-video-explainer"
+  ],
+  [
+    "campaign",
     19,
-    "https://www.washingtonpost.com/politics/2026/08/05/gop-house-leaders-defer-ethics-committee-max-miller-accusations/"
+    "https://www.nytimes.com/2026/08/05/us/politics/trump-hassan-smith-loses-michigan-primary.html"
+  ],
+  [
+    "despite",
+    19,
+    "https://www.nytimes.com/2026/08/05/business/bessent-wage-gap.html"
+  ],
+  [
+    "whose",
+    19,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "candidate",
+    18,
+    "https://www.nytimes.com/2026/08/05/us/politics/trump-hassan-smith-loses-michigan-primary.html"
+  ],
+  [
+    "security",
+    18,
+    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
+  ],
+  [
+    "judge",
+    18,
+    "https://www.washingtonpost.com/nation/2026/08/05/federal-judge-opens-up-about-threats-he-has-experienced-under-trump/"
   ],
   [
     "death",
     18,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/05/nolan-wells-death-mississippi-race"
+    "https://www.theguardian.com/film/2026/aug/05/horror-movies-obsession-backrooms-tech-props"
   ],
   [
-    "video",
-    18,
-    "https://www.theguardian.com/media/2026/aug/05/perez-hilton-hospitalised-after-live-streaming-self-harm-on-tiktok"
-  ],
-  [
-    "league",
+    "general",
     17,
-    "https://www.theguardian.com/football/2026/aug/05/mls-new-commissioner-larry-berg-priorities"
+    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
   ],
   [
-    "donald",
+    "democrats",
     17,
-    "https://www.theguardian.com/us-news/2026/aug/05/top-democrats-embrace-abdul-el-sayed"
+    "https://www.nytimes.com/2026/08/05/briefing/michigan-democrats-pick-el-sayed.html"
+  ],
+  [
+    "latest",
+    17,
+    "https://www.nytimes.com/2026/08/05/briefing/michigan-democrats-pick-el-sayed.html"
+  ],
+  [
+    "court",
+    17,
+    "https://www.washingtonpost.com/nation/2026/08/04/whos-winning-california-v-trump-lawsuits-so-far/"
+  ],
+  [
+    "sex",
+    17,
+    "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+  ],
+  [
+    "race",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/aug/05/abdul-el-sayed-democrats-trump"
+  ],
+  [
+    "game",
+    17,
+    "https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology"
+  ],
+  [
+    "near",
+    16,
+    "https://www.nytimes.com/2026/08/05/us/politics/trump-helicopter-jet-marine-one.html"
+  ],
+  [
+    "vote",
+    16,
+    "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html"
+  ],
+  [
+    "win",
+    16,
+    "https://www.nytimes.com/2026/08/05/opinion/abdul-el-sayed-michigan-democrats.html"
+  ],
+  [
+    "school",
+    16,
+    "https://www.washingtonpost.com/nation/2026/08/05/west-point-wont-fight-ban-school-policy-limiting-professors-speech/"
+  ],
+  [
+    "least",
+    16,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "progressive",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/aug/05/abdul-el-sayed-democrats-trump"
+  ],
+  [
+    "states",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/aug/05/trump-university-compact"
+  ],
+  [
+    "outbreak",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/aug/05/rfk-jr-youtube-cooking-show-are-trump-officials-doing-job"
+  ],
+  [
+    "million",
+    15,
+    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
+  ],
+  [
+    "black",
+    15,
+    "https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html"
   ],
   [
     "book",
-    17,
-    "https://www.theguardian.com/media/2026/aug/05/trump-defamation-lawsuit-murdoch-dismissal"
-  ],
-  [
-    "confirmed",
-    16,
-    "https://www.washingtonpost.com/nation/2026/08/05/utility-tower-spark-confirmed-cause-2025-eaton-fire-california/"
-  ],
-  [
-    "whose",
-    16,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "series",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/05/ice-force-feeding-hunger-strike"
-  ],
-  [
-    "don",
-    16,
-    "https://www.theguardian.com/football/2026/aug/05/mls-new-commissioner-larry-berg-priorities"
-  ],
-  [
-    "night",
-    16,
-    "https://www.theguardian.com/media/2026/aug/05/perez-hilton-hospitalised-after-live-streaming-self-harm-on-tiktok"
-  ],
-  [
-    "washington",
     15,
-    "https://www.nytimes.com/2026/08/05/us/politics/todd-blanche-pirro-trump.html"
+    "https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html"
   ],
   [
-    "candidate",
+    "district",
     15,
-    "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html"
-  ],
-  [
-    "hilton",
-    15,
-    "https://www.nytimes.com/2026/08/05/us/perez-hilton-live-stream-tiktok-self-harm.html"
-  ],
-  [
-    "far",
-    15,
-    "https://www.washingtonpost.com/nation/2026/08/04/whos-winning-california-v-trump-lawsuits-so-far/"
+    "https://www.washingtonpost.com/nation/2026/08/05/federal-judge-opens-up-about-threats-he-has-experienced-under-trump/"
   ],
   [
     "led",
@@ -196,64 +231,49 @@
     "https://www.washingtonpost.com/nation/2026/08/04/they-fled-by-boat-middle-lake-spokane-wildfires-closed/"
   ],
   [
-    "company",
+    "night",
     15,
-    "https://www.theguardian.com/fashion/ng-interactive/2026/aug/05/facial-analysis-scans-qoves-epica-looksmaxxing"
+    "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
   ],
   [
-    "schwartz",
+    "donald",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/05/erica-schwartz-cdc-director-senate-confirmation"
+    "https://www.theguardian.com/commentisfree/2026/aug/05/abdul-el-sayed-democrats-trump"
   ],
   [
-    "season",
+    "don",
     15,
-    "https://www.theguardian.com/sport/2026/aug/05/stefon-diggs-washington-commanders-contract-nfl-news"
+    "https://www.theguardian.com/technology/video/2026/aug/05/meta-pervert-glasses-opinion-video"
   ],
   [
-    "hear",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/jul/29/tv-speakers-soundbars"
-  ],
-  [
-    "general",
+    "water",
     14,
-    "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html"
+    "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html"
   ],
   [
-    "climate",
+    "control",
     14,
-    "https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html"
+    "https://www.nytimes.com/2026/08/05/us/politics/trump-helicopter-jet-marine-one.html"
   ],
   [
-    "game",
+    "island",
     14,
-    "https://www.nytimes.com/2026/08/05/crosswords/connections-questions.html"
+    "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html"
   ],
   [
-    "court",
+    "review",
     14,
-    "https://www.washingtonpost.com/nation/2026/08/04/whos-winning-california-v-trump-lawsuits-so-far/"
+    "https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html"
   ],
   [
-    "police",
+    "republican",
     14,
-    "https://www.washingtonpost.com/nation/2026/08/04/police-clear-corey-ruiz-protest-encampment-madison-wisconsin/"
+    "https://www.washingtonpost.com/politics/2026/08/05/gop-house-leaders-defer-ethics-committee-max-miller-accusations/"
   ],
   [
-    "campaign",
+    "attack",
     14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "backed",
-    14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "million",
-    14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
     "war",
@@ -261,59 +281,59 @@
     "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "latest",
-    14,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
     "filter",
     14,
     "https://www.theguardian.com/thefilter-us/2026/aug/05/best-nordstrom-anniversary-sales-deals-discounts"
   ],
   [
-    "lost",
+    "administration",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/05/top-democrats-embrace-abdul-el-sayed"
+    "https://www.theguardian.com/us-news/2026/aug/05/erica-schwartz-cdc-director-senate-confirmation"
   ],
   [
-    "return",
+    "florida",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/05/trump-immigration-children-deportation-push"
+    "https://www.theguardian.com/media/2026/aug/05/perez-hilton-self-harm-tiktok-criticism"
   ],
   [
-    "love",
+    "series",
     14,
-    "https://www.theguardian.com/music/2026/aug/05/jonas-brothers-20-years-in-pop"
+    "https://www.theguardian.com/us-news/2026/aug/05/ice-force-feeding-hunger-strike"
   ],
   [
-    "because",
+    "season",
     14,
-    "https://www.theguardian.com/environment/2026/aug/05/leaf-sheep-sea-slug-invertebrates-of-year-2026"
+    "https://www.theguardian.com/film/2026/aug/05/horror-movies-obsession-backrooms-tech-props"
   ],
   [
-    "black",
+    "linked",
     14,
-    "https://www.theguardian.com/football/2026/aug/05/mohamed-salah-book-extract-liverpool-egypt"
+    "https://www.theguardian.com/commentisfree/2026/aug/05/rfk-jr-youtube-cooking-show-are-trump-officials-doing-job"
   ],
   [
-    "players",
+    "hear",
     14,
-    "https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology"
+    "https://www.theguardian.com/film/2026/aug/05/a-child-of-my-own-review-true-crime-fake-pregnancy"
   ],
   [
-    "department",
+    "election",
     13,
-    "https://www.nytimes.com/2026/08/05/us/politics/todd-blanche-pirro-trump.html"
+    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
   ],
   [
-    "progressive",
+    "questions",
     13,
-    "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html"
+    "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html"
   ],
   [
-    "security",
+    "media",
     13,
-    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
+    "https://www.nytimes.com/2026/08/05/world/asia/pakistan-international-news-media-ban.html"
+  ],
+  [
+    "won",
+    13,
+    "https://www.washingtonpost.com/nation/2026/08/05/west-point-wont-fight-ban-school-policy-limiting-professors-speech/"
   ],
   [
     "investigation",
@@ -321,19 +341,14 @@
     "https://www.washingtonpost.com/politics/2026/08/05/gop-house-leaders-defer-ethics-committee-max-miller-accusations/"
   ],
   [
-    "despite",
+    "film",
     13,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
   ],
   [
-    "north",
+    "drone",
     13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "didn",
-    13,
-    "https://www.theguardian.com/fashion/ng-interactive/2026/aug/05/facial-analysis-scans-qoves-epica-looksmaxxing"
+    "https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe"
   ],
   [
     "buying",
@@ -346,33 +361,18 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/05/best-nordstrom-anniversary-sales-deals-discounts"
   ],
   [
-    "administration",
+    "lost",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/05/trump-immigration-children-deportation-push"
-  ],
-  [
-    "vote",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/05/erica-schwartz-cdc-director-senate-confirmation"
-  ],
-  [
-    "started",
-    13,
-    "https://www.theguardian.com/world/2026/aug/05/suspect-washington-state-wildfire"
+    "https://www.theguardian.com/us-news/2026/aug/05/top-democrats-embrace-abdul-el-sayed"
   ],
   [
     "south",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/05/new-mexico-sues-doj-epstein-investigation"
+    "https://www.theguardian.com/us-news/2026/aug/05/florida-python-hunting-contest-winner-2026"
   ],
   [
-    "self",
+    "love",
     13,
-    "https://www.theguardian.com/media/2026/aug/05/perez-hilton-hospitalised-after-live-streaming-self-harm-on-tiktok"
-  ],
-  [
-    "star",
-    13,
-    "https://www.theguardian.com/science/2026/aug/05/unprecedented-images-may-explain-one-of-greatest-mysteries-of-the-sun"
+    "https://www.theguardian.com/technology/video/2026/aug/05/meta-pervert-glasses-opinion-video"
   ]
 ];
