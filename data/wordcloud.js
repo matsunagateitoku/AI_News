@@ -2,213 +2,218 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    79,
-    "https://www.nytimes.com/2026/08/05/us/politics/trump-hassan-smith-loses-michigan-primary.html"
-  ],
-  [
-    "michigan",
-    39,
-    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
+    74,
+    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
   ],
   [
     "senate",
     38,
-    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
-  ],
-  [
-    "president",
-    34,
-    "https://www.nytimes.com/2026/08/05/us/politics/trump-hassan-smith-loses-michigan-primary.html"
-  ],
-  [
-    "primary",
-    33,
-    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
+    "https://www.nytimes.com/2026/08/06/us/politics/a-growing-number-of-election-deniers-hold-key-local-roles-in-midterms.html"
   ],
   [
     "democratic",
-    30,
-    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
+    34,
+    "https://www.nytimes.com/2026/08/06/us/politics/democratic-party-socialists-moderates.html"
   ],
   [
-    "sayed",
-    26,
-    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
+    "fauci",
+    29,
+    "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html"
   ],
   [
-    "fire",
-    24,
-    "https://www.nytimes.com/2026/08/06/opinion/el-syed-democrats-cornyn-tillis-republicans.html"
-  ],
-  [
-    "party",
-    24,
-    "https://www.theguardian.com/us-news/2026/aug/05/erica-schwartz-cdc-director-senate-confirmation"
-  ],
-  [
-    "health",
-    23,
-    "https://www.theguardian.com/travel/2026/aug/06/summer-holiday-lithuania-beach-baltic-coast"
-  ],
-  [
-    "summer",
-    21,
-    "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html"
-  ],
-  [
-    "company",
-    21,
-    "https://www.theguardian.com/technology/2026/aug/06/restaurants-pubs-and-theatres-ban-metas-spy-glasses-over-privacy-fears"
+    "president",
+    28,
+    "https://www.nytimes.com/2026/08/06/us/politics/jd-vance-insults.html"
   ],
   [
     "air",
+    26,
+    "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html"
+  ],
+  [
+    "michigan",
+    26,
+    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
+  ],
+  [
+    "primary",
+    26,
+    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
+  ],
+  [
+    "school",
+    23,
+    "https://www.washingtonpost.com/investigations/interactive/2026/08/06/how-gi-bill-veterans-trade-schools-extracted-millions-sham-class-schemes/"
+  ],
+  [
+    "congress",
+    22,
+    "https://www.nytimes.com/2026/08/06/us/politics/a-growing-number-of-election-deniers-hold-key-local-roles-in-midterms.html"
+  ],
+  [
+    "party",
+    22,
+    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
+  ],
+  [
+    "family",
+    22,
+    "https://www.theguardian.com/us-news/2026/aug/06/wisconsin-police-killing-corey-ruiz"
+  ],
+  [
+    "police",
+    21,
+    "https://www.theguardian.com/us-news/2026/aug/06/wisconsin-police-killing-corey-ruiz"
+  ],
+  [
+    "summer",
+    20,
+    "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html"
+  ],
+  [
+    "health",
+    20,
+    "https://www.theguardian.com/us-news/2026/aug/06/fauci-senate-contempt-vote-covid"
+  ],
+  [
+    "contempt",
     19,
-    "https://www.nytimes.com/2026/08/05/us/politics/trump-helicopter-jet-marine-one.html"
+    "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html"
   ],
   [
-    "abdul",
-    18,
-    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
+    "republican",
+    19,
+    "https://www.washingtonpost.com/politics/2026/08/05/gop-house-leaders-defer-ethics-committee-max-miller-accusations/"
   ],
   [
-    "black",
+    "water",
+    19,
+    "https://www.theguardian.com/environment/2026/aug/06/all-bodies-of-water-england-polluted-toxic-chemicals"
+  ],
+  [
+    "sayed",
     18,
-    "https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html"
+    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
+  ],
+  [
+    "love",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/05/the-shards-review-ryan-murphy-bret-easton-ellis-disney"
   ],
   [
     "food",
     18,
-    "https://www.theguardian.com/film/2026/aug/06/how-to-feed-a-dictator-review-what-was-on-the-menu-for-some-of-the-worlds-most-evil-men"
+    "https://www.theguardian.com/us-news/2026/aug/06/flu-shot-covid-moderna-mrna-mflusiva"
   ],
   [
-    "race",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/05/top-democrats-embrace-abdul-el-sayed"
-  ],
-  [
-    "candidate",
+    "black",
     17,
-    "https://www.nytimes.com/2026/08/05/us/politics/trump-hassan-smith-loses-michigan-primary.html"
+    "https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html"
   ],
   [
-    "campaign",
+    "security",
     17,
-    "https://www.nytimes.com/2026/08/05/us/politics/trump-hassan-smith-loses-michigan-primary.html"
-  ],
-  [
-    "iran",
-    17,
-    "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html"
-  ],
-  [
-    "fauci",
-    17,
-    "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html"
-  ],
-  [
-    "vote",
-    17,
-    "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html"
-  ],
-  [
-    "democrats",
-    17,
-    "https://www.nytimes.com/2026/08/06/opinion/el-syed-democrats-cornyn-tillis-republicans.html"
-  ],
-  [
-    "states",
-    17,
-    "https://www.theguardian.com/film/2026/aug/06/how-to-feed-a-dictator-review-what-was-on-the-menu-for-some-of-the-worlds-most-evil-men"
-  ],
-  [
-    "general",
-    16,
-    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
-  ],
-  [
-    "ukraine",
-    16,
-    "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html"
+    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
   ],
   [
     "questions",
-    16,
-    "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html"
+    17,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "judge",
-    16,
-    "https://www.washingtonpost.com/nation/2026/08/05/federal-judge-opens-up-about-threats-he-has-experienced-under-trump/"
+    "country",
+    17,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "family",
-    16,
-    "https://www.washingtonpost.com/nation/2026/08/04/they-fled-by-boat-middle-lake-spokane-wildfires-closed/"
+    "company",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/06/exclusive-palmer-luckey-political-fundraising"
   ],
   [
-    "south",
+    "body",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/06/wisconsin-police-killing-corey-ruiz"
+  ],
+  [
+    "war",
     16,
-    "https://www.theguardian.com/sport/2026/aug/06/it-just-means-more-black-college-gymnasts-in-a-divided-south"
+    "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html"
+  ],
+  [
+    "star",
+    16,
+    "https://www.nytimes.com/2025/05/01/nyregion/sydney-towle-cancer-videos-tiktok.html"
+  ],
+  [
+    "john",
+    16,
+    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
+  ],
+  [
+    "committee",
+    16,
+    "https://www.washingtonpost.com/politics/2026/08/05/gop-house-leaders-defer-ethics-committee-max-miller-accusations/"
+  ],
+  [
+    "hear",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
+  ],
+  [
+    "review",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/05/the-shards-review-ryan-murphy-bret-easton-ellis-disney"
+  ],
+  [
+    "anthony",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/06/fauci-senate-contempt-vote-covid"
+  ],
+  [
+    "vote",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/06/fauci-senate-contempt-vote-covid"
   ],
   [
     "don",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/06/you-be-the-judge-partner-confronts-driver-road-rage"
+    "https://www.theguardian.com/commentisfree/2026/aug/06/tech-companies-targeted-marketing-social-media-ads-sales"
+  ],
+  [
+    "game",
+    16,
+    "https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology"
+  ],
+  [
+    "sex",
+    16,
+    "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+  ],
+  [
+    "million",
+    15,
+    "https://www.nytimes.com/2026/08/06/us/politics/democratic-party-socialists-moderates.html"
+  ],
+  [
+    "fire",
+    15,
+    "https://www.nytimes.com/2026/08/06/opinion/el-syed-democrats-cornyn-tillis-republicans.html"
   ],
   [
     "book",
     15,
-    "https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html"
+    "https://www.theguardian.com/books/2026/aug/06/howard-zinn-the-peoples-historian-book"
   ],
   [
-    "congress",
-    15,
-    "https://www.nytimes.com/2026/08/05/us/politics/congress-us-israel-defense-partnership.html"
-  ],
-  [
-    "security",
-    15,
-    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
-  ],
-  [
-    "school",
-    15,
-    "https://www.washingtonpost.com/nation/2026/08/05/west-point-wont-fight-ban-school-policy-limiting-professors-speech/"
-  ],
-  [
-    "investigation",
-    15,
-    "https://www.washingtonpost.com/politics/2026/08/05/gop-house-leaders-defer-ethics-committee-max-miller-accusations/"
-  ],
-  [
-    "far",
-    15,
-    "https://www.washingtonpost.com/nation/2026/08/04/whos-winning-california-v-trump-lawsuits-so-far/"
-  ],
-  [
-    "war",
-    15,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "night",
-    15,
-    "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
-  ],
-  [
-    "video",
-    15,
-    "https://www.theguardian.com/us-news/video/2026/aug/05/michigan-democratic-senate-primary-video-explainer"
-  ],
-  [
-    "control",
+    "iran",
     14,
-    "https://www.nytimes.com/2026/08/05/us/politics/trump-helicopter-jet-marine-one.html"
+    "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html"
   ],
   [
-    "republican",
+    "hold",
     14,
-    "https://www.washingtonpost.com/politics/2026/08/05/gop-house-leaders-defer-ethics-committee-max-miller-accusations/"
+    "https://www.nytimes.com/2026/08/06/us/politics/a-growing-number-of-election-deniers-hold-key-local-roles-in-midterms.html"
   ],
   [
     "court",
@@ -216,44 +221,49 @@
     "https://www.washingtonpost.com/nation/2026/08/04/whos-winning-california-v-trump-lawsuits-so-far/"
   ],
   [
-    "police",
-    14,
-    "https://www.washingtonpost.com/nation/2026/08/04/police-clear-corey-ruiz-protest-encampment-madison-wisconsin/"
-  ],
-  [
     "led",
     14,
-    "https://www.washingtonpost.com/nation/2026/08/04/they-fled-by-boat-middle-lake-spokane-wildfires-closed/"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "progressive",
+    "north",
     14,
-    "https://www.theguardian.com/world/2026/aug/06/spains-pedro-sanchez-is-a-progressive-outlier-in-europe-and-over-ceuta-he-is-being-made-to-pay-for-it"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "win",
+    "ice",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/05/top-democrats-embrace-abdul-el-sayed"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "candidate",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
+  ],
+  [
+    "general",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
+  ],
+  [
+    "covid",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/06/fauci-senate-contempt-vote-covid"
   ],
   [
     "donald",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/05/top-democrats-embrace-abdul-el-sayed"
+    "https://www.theguardian.com/world/2026/aug/06/trump-gaza-board-of-peace-first-building-contract-military-base"
   ],
   [
-    "meta",
+    "season",
     14,
-    "https://www.theguardian.com/technology/2026/aug/06/restaurants-pubs-and-theatres-ban-metas-spy-glasses-over-privacy-fears"
+    "https://www.theguardian.com/us-news/2026/aug/06/flu-shot-covid-moderna-mrna-mflusiva"
   ],
   [
-    "game",
+    "parents",
     14,
-    "https://www.theguardian.com/games/2026/aug/06/metroid-at-40-samus-aran-nintendo-video-game-heroine"
-  ],
-  [
-    "linked",
-    14,
-    "https://www.theguardian.com/film/2026/aug/06/american-witchhunt-how-the-mccarthy-blacklist-annihilated-the-hollywood-left"
+    "https://www.theguardian.com/politics/2026/aug/06/is-king-charles-a-white-briton-restore-britain-rupert-lowe-will-not-say"
   ],
   [
     "filter",
@@ -261,118 +271,108 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/05/best-nordstrom-anniversary-sales-deals-discounts"
   ],
   [
-    "outbreak",
+    "cbs",
     14,
-    "https://www.cbsnews.com/news/qdoba-jalapenos-salmonella-outbreak-affects-dozens-of-states/"
+    "https://www.cbsnews.com/video/diarra-kilpatrick-talks-new-season-of-diarra-from-detroit/"
   ],
   [
-    "water",
+    "music",
     13,
-    "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html"
+    "https://www.nytimes.com/2026/08/06/well/shambhala-music-festival-drugs-ketamine-ecstasy.html"
   ],
   [
-    "near",
+    "republicans",
     13,
-    "https://www.nytimes.com/2026/08/05/us/politics/trump-helicopter-jet-marine-one.html"
+    "https://www.nytimes.com/2026/08/06/opinion/el-syed-democrats-cornyn-tillis-republicans.html"
   ],
   [
-    "contempt",
+    "district",
     13,
+    "https://www.washingtonpost.com/nation/2026/08/05/federal-judge-opens-up-about-threats-he-has-experienced-under-trump/"
+  ],
+  [
+    "lost",
+    13,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota"
+  ],
+  [
+    "video",
+    13,
+    "https://www.theguardian.com/film/2026/aug/05/ice-cream-man-review-eli-roth"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.theguardian.com/games/2026/aug/04/tanuki-pons-summer-bmx-adventure-japan"
+  ],
+  [
+    "case",
+    12,
     "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html"
   ],
   [
-    "attack",
-    13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "glasses",
-    13,
-    "https://www.theguardian.com/technology/2026/aug/06/restaurants-pubs-and-theatres-ban-metas-spy-glasses-over-privacy-fears"
-  ],
-  [
-    "death",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/05/toast-the-cat-utah-fire"
-  ],
-  [
-    "hear",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/jul/29/tv-speakers-soundbars"
-  ],
-  [
-    "israel",
+    "because",
     12,
-    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
+    "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html"
   ],
   [
-    "election",
+    "control",
     12,
-    "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html"
+    "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html"
   ],
   [
-    "running",
+    "local",
     12,
-    "https://www.nytimes.com/2026/08/05/us/politics/trump-hassan-smith-loses-michigan-primary.html"
+    "https://www.nytimes.com/2026/08/06/us/politics/a-growing-number-of-election-deniers-hold-key-local-roles-in-midterms.html"
   ],
   [
-    "north",
+    "social",
     12,
-    "https://www.nytimes.com/2026/08/05/us/politics/chuck-edwards-scandal-north-carolina.html"
+    "https://www.nytimes.com/2026/08/06/us/politics/jd-vance-insults.html"
   ],
   [
-    "despite",
+    "support",
     12,
-    "https://www.nytimes.com/2026/08/05/business/bessent-wage-gap.html"
+    "https://www.nytimes.com/2025/05/01/nyregion/sydney-towle-cancer-videos-tiktok.html"
   ],
   [
-    "financial",
+    "near",
     12,
-    "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html"
+    "https://www.nytimes.com/2026/08/06/weather/pacific-hurricane-updates-el-nino.html"
   ],
   [
-    "young",
+    "america",
     12,
     "https://www.nytimes.com/2026/08/06/opinion/ross-douthat-scott-galloway-masculinity.html"
   ],
   [
-    "district",
+    "data",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/05/federal-judge-opens-up-about-threats-he-has-experienced-under-trump/"
+    "https://www.nytimes.com/2026/08/06/briefing/data-centers-gas-power.html"
   ],
   [
-    "country",
+    "everything",
     12,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "film",
+    "past",
     12,
-    "https://www.theguardian.com/film/2026/aug/06/amy-goodman-reporter-interview-steal-this-story-please-democracy-now-news"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "sex",
+    "team",
     12,
-    "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "body",
+    "abdul",
     12,
-    "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
   ],
   [
-    "lost",
+    "hot",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/05/top-democrats-embrace-abdul-el-sayed"
-  ],
-  [
-    "administration",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/05/erica-schwartz-cdc-director-senate-confirmation"
-  ],
-  [
-    "lives",
-    12,
-    "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy"
+    "https://www.theguardian.com/books/2026/aug/05/a-sense-of-occasion-by-brodie-crellin-review-a-surprising-and-darkly-funny-debut"
   ]
 ];
