@@ -2,233 +2,253 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    74,
-    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
+    81,
+    "https://www.nytimes.com/2026/08/06/us/politics/rfk-jr-head-start-antipoverty-program.html"
   ],
   [
     "senate",
     38,
-    "https://www.nytimes.com/2026/08/06/us/politics/a-growing-number-of-election-deniers-hold-key-local-roles-in-midterms.html"
+    "https://www.nytimes.com/2026/08/06/briefing/senate-fauci-contempt-alaska-wave.html"
   ],
   [
     "democratic",
-    34,
-    "https://www.nytimes.com/2026/08/06/us/politics/democratic-party-socialists-moderates.html"
+    31,
+    "https://www.washingtonpost.com/nation/2026/08/05/federal-judge-opens-up-about-threats-he-has-experienced-under-trump/"
   ],
   [
-    "fauci",
+    "family",
     29,
-    "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html"
+    "https://www.theguardian.com/us-news/2026/aug/06/wisconsin-police-killing-corey-ruiz"
+  ],
+  [
+    "health",
+    28,
+    "https://www.nytimes.com/2026/08/06/us/politics/mitch-mcconnell-discharged-hospitalization-senate.html"
   ],
   [
     "president",
-    28,
-    "https://www.nytimes.com/2026/08/06/us/politics/jd-vance-insults.html"
+    27,
+    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
   ],
   [
-    "air",
+    "republican",
     26,
-    "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html"
-  ],
-  [
-    "michigan",
-    26,
-    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
+    "https://www.nytimes.com/2026/08/06/us/politics/mitch-mcconnell-discharged-hospitalization-senate.html"
   ],
   [
     "primary",
     26,
-    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
+    "https://www.nytimes.com/2026/08/06/us/politics/republicans-endorse-cory-mills-opponent.html"
   ],
   [
-    "school",
-    23,
-    "https://www.washingtonpost.com/investigations/interactive/2026/08/06/how-gi-bill-veterans-trade-schools-extracted-millions-sham-class-schemes/"
+    "michigan",
+    25,
+    "https://www.theguardian.com/commentisfree/2026/aug/06/democrats-midterms-general-election"
   ],
   [
-    "congress",
+    "country",
+    24,
+    "https://www.nytimes.com/2026/08/06/nyregion/noncitizen-voter-registration-green-card.html"
+  ],
+  [
+    "fauci",
     22,
-    "https://www.nytimes.com/2026/08/06/us/politics/a-growing-number-of-election-deniers-hold-key-local-roles-in-midterms.html"
-  ],
-  [
-    "party",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
-  ],
-  [
-    "family",
-    22,
-    "https://www.theguardian.com/us-news/2026/aug/06/wisconsin-police-killing-corey-ruiz"
+    "https://www.nytimes.com/2026/08/06/briefing/senate-fauci-contempt-alaska-wave.html"
   ],
   [
     "police",
+    22,
+    "https://www.nytimes.com/2026/08/06/us/converse-texas-school-officer-incident-policing.html"
+  ],
+  [
+    "court",
+    22,
+    "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders"
+  ],
+  [
+    "administration",
     21,
+    "https://www.nytimes.com/2026/08/06/us/politics/rfk-jr-head-start-antipoverty-program.html"
+  ],
+  [
+    "party",
+    21,
+    "https://www.theguardian.com/commentisfree/2026/aug/06/democrats-midterms-general-election"
+  ],
+  [
+    "air",
+    20,
+    "https://www.washingtonpost.com/nation/2026/08/06/this-memphis-news-anchor-fell-asleep-on-air-what-came-next-shocked-her/"
+  ],
+  [
+    "black",
+    20,
     "https://www.theguardian.com/us-news/2026/aug/06/wisconsin-police-killing-corey-ruiz"
   ],
   [
     "summer",
     20,
-    "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html"
-  ],
-  [
-    "health",
-    20,
-    "https://www.theguardian.com/us-news/2026/aug/06/fauci-senate-contempt-vote-covid"
-  ],
-  [
-    "contempt",
-    19,
-    "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html"
-  ],
-  [
-    "republican",
-    19,
-    "https://www.washingtonpost.com/politics/2026/08/05/gop-house-leaders-defer-ethics-committee-max-miller-accusations/"
-  ],
-  [
-    "water",
-    19,
-    "https://www.theguardian.com/environment/2026/aug/06/all-bodies-of-water-england-polluted-toxic-chemicals"
-  ],
-  [
-    "sayed",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
-  ],
-  [
-    "love",
-    18,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/05/the-shards-review-ryan-murphy-bret-easton-ellis-disney"
-  ],
-  [
-    "food",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/06/flu-shot-covid-moderna-mrna-mflusiva"
-  ],
-  [
-    "black",
-    17,
-    "https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html"
-  ],
-  [
-    "security",
-    17,
-    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
+    "https://www.theguardian.com/football/2026/aug/06/arsenal-hopes-dashed-after-vinicius-junior-extends-real-madrid-contract-to-2032"
   ],
   [
     "questions",
-    17,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "country",
-    17,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    19,
+    "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html"
   ],
   [
     "company",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/06/exclusive-palmer-luckey-political-fundraising"
+    19,
+    "https://www.theguardian.com/us-news/2026/aug/06/ice-tracks-thousands-of-immigrants-ankle-monitors"
   ],
   [
-    "body",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/06/wisconsin-police-killing-corey-ruiz"
+    "children",
+    19,
+    "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta"
   ],
   [
-    "war",
-    16,
-    "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html"
+    "game",
+    19,
+    "https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology"
+  ],
+  [
+    "food",
+    19,
+    "https://www.theguardian.com/us-news/2026/aug/06/flu-shot-covid-moderna-mrna-mflusiva"
   ],
   [
     "star",
-    16,
+    18,
     "https://www.nytimes.com/2025/05/01/nyregion/sydney-towle-cancer-videos-tiktok.html"
   ],
   [
-    "john",
+    "california",
+    18,
+    "https://www.washingtonpost.com/nation/2026/08/05/utility-tower-spark-confirmed-cause-2025-eaton-fire-california/"
+  ],
+  [
+    "republicans",
+    17,
+    "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html"
+  ],
+  [
+    "million",
+    17,
+    "https://www.nytimes.com/2026/08/06/style/sydney-towle-dead.html"
+  ],
+  [
+    "school",
+    17,
+    "https://www.nytimes.com/2026/08/06/us/converse-texas-school-officer-incident-policing.html"
+  ],
+  [
+    "orders",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders"
+  ],
+  [
+    "birthright",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders"
+  ],
+  [
+    "don",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/06/trump-jeanine-pirro-reflecting-pool-vandalism"
+  ],
+  [
+    "water",
+    17,
+    "https://www.theguardian.com/world/video/2026/aug/06/europe-wildfires-drought-video"
+  ],
+  [
+    "program",
     16,
-    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
+    "https://www.nytimes.com/2026/08/06/us/politics/rfk-jr-head-start-antipoverty-program.html"
   ],
   [
     "committee",
     16,
-    "https://www.washingtonpost.com/politics/2026/08/05/gop-house-leaders-defer-ethics-committee-max-miller-accusations/"
+    "https://www.nytimes.com/2026/08/06/us/politics/republicans-endorse-cory-mills-opponent.html"
   ],
   [
-    "hear",
+    "led",
+    16,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "citizenship",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders"
+  ],
+  [
+    "sayed",
     16,
     "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
   ],
   [
-    "review",
+    "buying",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/05/the-shards-review-ryan-murphy-bret-easton-ellis-disney"
+    "https://www.theguardian.com/commentisfree/2026/aug/07/the-social-media-algorithm-has-left-me-behind-im-unc-and-im-chopped-and-thats-ok"
   ],
   [
-    "anthony",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/06/fauci-senate-contempt-vote-covid"
-  ],
-  [
-    "vote",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/06/fauci-senate-contempt-vote-covid"
-  ],
-  [
-    "don",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/aug/06/tech-companies-targeted-marketing-social-media-ads-sales"
-  ],
-  [
-    "game",
-    16,
-    "https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology"
-  ],
-  [
-    "sex",
-    16,
-    "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
-  ],
-  [
-    "million",
+    "start",
     15,
-    "https://www.nytimes.com/2026/08/06/us/politics/democratic-party-socialists-moderates.html"
+    "https://www.nytimes.com/2026/08/06/us/politics/rfk-jr-head-start-antipoverty-program.html"
   ],
   [
-    "fire",
+    "contempt",
     15,
-    "https://www.nytimes.com/2026/08/06/opinion/el-syed-democrats-cornyn-tillis-republicans.html"
+    "https://www.nytimes.com/2026/08/06/briefing/senate-fauci-contempt-alaska-wave.html"
   ],
   [
-    "book",
+    "young",
     15,
-    "https://www.theguardian.com/books/2026/aug/06/howard-zinn-the-peoples-historian-book"
+    "https://www.nytimes.com/2026/08/06/us/politics/deportations-southeast-asians-trump.html"
   ],
   [
-    "iran",
-    14,
-    "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html"
+    "war",
+    15,
+    "https://www.nytimes.com/2026/08/06/us/politics/deportations-southeast-asians-trump.html"
   ],
   [
-    "hold",
-    14,
-    "https://www.nytimes.com/2026/08/06/us/politics/a-growing-number-of-election-deniers-hold-key-local-roles-in-midterms.html"
+    "win",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/aug/06/democrats-midterms-general-election"
   ],
   [
-    "court",
-    14,
-    "https://www.washingtonpost.com/nation/2026/08/04/whos-winning-california-v-trump-lawsuits-so-far/"
+    "executive",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders"
   ],
   [
-    "led",
-    14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "running",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/06/priya-dandiya-florida-redistricting-democrat"
   ],
   [
-    "north",
+    "body",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/06/wisconsin-police-killing-corey-ruiz"
+  ],
+  [
+    "latest",
     14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.nytimes.com/2026/08/06/briefing/senate-fauci-contempt-alaska-wave.html"
+  ],
+  [
+    "death",
+    14,
+    "https://www.nytimes.com/2026/08/06/world/middleeast/israel-settler-manslaughter-palestinian-activist.html"
+  ],
+  [
+    "john",
+    14,
+    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
+  ],
+  [
+    "district",
+    14,
+    "https://www.washingtonpost.com/nation/2026/08/05/federal-judge-opens-up-about-threats-he-has-experienced-under-trump/"
   ],
   [
     "ice",
@@ -236,34 +256,39 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "candidate",
+    "community",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota"
+  ],
+  [
+    "love",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/06/best-true-crime-tv-shows-ever"
+  ],
+  [
+    "local",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/06/trump-administration-head-start-changes"
+  ],
+  [
+    "vote",
+    14,
+    "https://www.theguardian.com/media/2026/aug/06/fcc-overturns-limit-local-tv-ownership"
+  ],
+  [
+    "music",
+    14,
+    "https://www.theguardian.com/film/2026/aug/06/james-dean-has-got-nothing-on-that-kid-river-phoenix-films-ranked"
+  ],
+  [
+    "hear",
     14,
     "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
   ],
   [
-    "general",
+    "sex",
     14,
-    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
-  ],
-  [
-    "covid",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/06/fauci-senate-contempt-vote-covid"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.theguardian.com/world/2026/aug/06/trump-gaza-board-of-peace-first-building-contract-military-base"
-  ],
-  [
-    "season",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/06/flu-shot-covid-moderna-mrna-mflusiva"
-  ],
-  [
-    "parents",
-    14,
-    "https://www.theguardian.com/politics/2026/aug/06/is-king-charles-a-white-briton-restore-britain-rupert-lowe-will-not-say"
+    "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
   ],
   [
     "filter",
@@ -271,24 +296,39 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/05/best-nordstrom-anniversary-sales-deals-discounts"
   ],
   [
-    "cbs",
-    14,
-    "https://www.cbsnews.com/video/diarra-kilpatrick-talks-new-season-of-diarra-from-detroit/"
-  ],
-  [
-    "music",
+    "hold",
     13,
-    "https://www.nytimes.com/2026/08/06/well/shambhala-music-festival-drugs-ketamine-ecstasy.html"
+    "https://www.nytimes.com/2026/08/06/briefing/senate-fauci-contempt-alaska-wave.html"
   ],
   [
-    "republicans",
+    "because",
     13,
-    "https://www.nytimes.com/2026/08/06/opinion/el-syed-democrats-cornyn-tillis-republicans.html"
+    "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html"
   ],
   [
-    "district",
+    "tiktok",
+    13,
+    "https://www.nytimes.com/2026/08/06/style/sydney-towle-dead.html"
+  ],
+  [
+    "americans",
+    13,
+    "https://www.nytimes.com/2026/08/06/magazine/scams-origins.html"
+  ],
+  [
+    "democrats",
+    13,
+    "https://www.nytimes.com/2026/08/06/opinion/democrats-bernie-sanders-dsa-el-sayed.html"
+  ],
+  [
+    "judge",
     13,
     "https://www.washingtonpost.com/nation/2026/08/05/federal-judge-opens-up-about-threats-he-has-experienced-under-trump/"
+  ],
+  [
+    "team",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "lost",
@@ -296,14 +336,29 @@
     "https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota"
   ],
   [
-    "video",
+    "university",
     13,
-    "https://www.theguardian.com/film/2026/aug/05/ice-cream-man-review-eli-roth"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota"
   ],
   [
-    "buying",
+    "donald",
     13,
-    "https://www.theguardian.com/games/2026/aug/04/tanuki-pons-summer-bmx-adventure-japan"
+    "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders"
+  ],
+  [
+    "candidate",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/06/aipac-super-pacs-spend-millions-california"
+  ],
+  [
+    "review",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/06/boltinhouse-miss-north-carolina-racist-posts"
+  ],
+  [
+    "involved",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/06/wisconsin-police-killing-corey-ruiz"
   ],
   [
     "case",
@@ -311,68 +366,13 @@
     "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html"
   ],
   [
-    "because",
+    "golf",
     12,
-    "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html"
-  ],
-  [
-    "control",
-    12,
-    "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html"
-  ],
-  [
-    "local",
-    12,
-    "https://www.nytimes.com/2026/08/06/us/politics/a-growing-number-of-election-deniers-hold-key-local-roles-in-midterms.html"
-  ],
-  [
-    "social",
-    12,
-    "https://www.nytimes.com/2026/08/06/us/politics/jd-vance-insults.html"
-  ],
-  [
-    "support",
-    12,
-    "https://www.nytimes.com/2025/05/01/nyregion/sydney-towle-cancer-videos-tiktok.html"
-  ],
-  [
-    "near",
-    12,
-    "https://www.nytimes.com/2026/08/06/weather/pacific-hurricane-updates-el-nino.html"
-  ],
-  [
-    "america",
-    12,
-    "https://www.nytimes.com/2026/08/06/opinion/ross-douthat-scott-galloway-masculinity.html"
-  ],
-  [
-    "data",
-    12,
-    "https://www.nytimes.com/2026/08/06/briefing/data-centers-gas-power.html"
+    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
   ],
   [
     "everything",
     12,
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "past",
-    12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "team",
-    12,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "abdul",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
-  ],
-  [
-    "hot",
-    12,
-    "https://www.theguardian.com/books/2026/aug/05/a-sense-of-occasion-by-brodie-crellin-review-a-surprising-and-darkly-funny-debut"
   ]
 ];
