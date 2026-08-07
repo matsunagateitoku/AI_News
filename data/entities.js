@@ -3,33 +3,33 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 29,
+      "count": 32,
       "url": "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders",
       "source": "The Guardian"
     },
     {
-      "name": "Anthony Fauci",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html",
+      "name": "Andy Ogles Loses",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/08/06/us/politics/andy-ogles-loses-tennessee-primary-charlie-hatcher.html",
       "source": "NY Times"
     },
     {
       "name": "Max Miller",
-      "count": 8,
+      "count": 11,
       "url": "https://www.washingtonpost.com/politics/2026/08/05/gop-house-leaders-defer-ethics-committee-max-miller-accusations/",
       "source": "Washington Post"
     },
     {
-      "name": "Mitch Mcconnell",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/mitch-mcconnell-discharged-hospitalization-senate.html",
+      "name": "Marsha Blackburn",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/08/06/us/elections/marsha-blackburn-tennessee-governor-primary.html",
       "source": "NY Times"
     },
     {
-      "name": "Abdul El-Sayed",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory",
-      "source": "The Guardian"
+      "name": "Mitch Mcconnell",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/08/06/us/politics/mitch-mcconnell-discharged-hospitalization-senate.html",
+      "source": "NY Times"
     },
     {
       "name": "Haley Stevens",
@@ -44,6 +44,12 @@
       "source": "The Guardian"
     },
     {
+      "name": "John Rose",
+      "count": 7,
+      "url": "https://www.foxnews.com/politics/conservative-firebrand-went-viral-anti-ccp-ad-survives-key-primary",
+      "source": "Fox News"
+    },
+    {
       "name": "Roy",
       "count": 6,
       "url": "https://www.theguardian.com/film/2026/aug/06/super-troopers-3-review-misfiring-cop-comedy-threequel",
@@ -54,74 +60,6 @@
       "count": 6,
       "url": "https://www.theguardian.com/film/2026/aug/05/ice-cream-man-review-eli-roth",
       "source": "The Guardian"
-    },
-    {
-      "name": "Thomas Smith",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/republican-trump-rival-michigan-primary",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Administration",
-      "count": 46,
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/rfk-jr-head-start-antipoverty-program.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Democratic Maine Senate",
-      "count": 23,
-      "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
-      "source": "Politico"
-    },
-    {
-      "name": "Congress",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 10,
-      "url": "https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nfl",
-      "count": 9,
-      "url": "https://www.foxnews.com/sports/sam-acho-qa-former-nfl-player-espn-analyst-speaks-civility-accountability-sports-media",
-      "source": "Fox News"
-    },
-    {
-      "name": "The White House",
-      "count": 8,
-      "url": "https://www.politico.com/video/2026/07/27/ive-never-lost-rahm-emanuel-makes-his-case-for-the-white-house-2123533",
-      "source": "Politico"
-    },
-    {
-      "name": "Tiktok",
-      "count": 7,
-      "url": "https://www.nytimes.com/2025/05/01/nyregion/sydney-towle-cancer-videos-tiktok.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Meta",
-      "count": 7,
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "source": "The Guardian"
     }
   ],
   "EVENT": [
@@ -130,6 +68,12 @@
       "count": 7,
       "url": "https://www.npr.org/2026/08/06/nx-s1-5923408/uefa-fifa-world-cup-gianni-infantino",
       "source": "NPR"
+    },
+    {
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.latimes.com/environment/story/2026-08-05/oil-company-profits-are-soaring-heres-what-california-officials-want-to-do",
+      "source": "LA Times"
     },
     {
       "name": "World War Ii",
@@ -144,6 +88,12 @@
       "source": "The Guardian"
     },
     {
+      "name": "Operation Country Roads",
+      "count": 1,
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation",
+      "source": "NPR"
+    },
+    {
       "name": "A Super Bowl",
       "count": 1,
       "url": "https://www.foxnews.com/sports/jahmyr-gibbs-caps-huge-week-nfl-running-backs-biggest-deal-detroit-lions",
@@ -154,56 +104,118 @@
       "count": 1,
       "url": "https://thehill.com/homenews/administration/6015508-indycar-freedom-250-art-safety/",
       "source": "The Hill"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Administration",
+      "count": 49,
+      "url": "https://www.nytimes.com/2026/08/06/us/politics/rfk-jr-head-start-antipoverty-program.html",
+      "source": "NY Times"
     },
     {
-      "name": "Winter Olympics",
-      "count": 1,
-      "url": "https://thehill.com/video-clips/6015019-watch-live-donald-trump-team-usa-olympic-paralympic-reception-white-house/",
-      "source": "The Hill"
+      "name": "Democratic Maine Senate",
+      "count": 15,
+      "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
+      "source": "Politico"
+    },
+    {
+      "name": "The White House",
+      "count": 14,
+      "url": "https://www.politico.com/video/2026/07/27/ive-never-lost-rahm-emanuel-makes-his-case-for-the-white-house-2123533",
+      "source": "Politico"
+    },
+    {
+      "name": "Congress",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/08/06/us/politics/mitch-mcconnell-discharged-hospitalization-senate.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Nbc News",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/aug/06/trump-jeanine-pirro-reflecting-pool-vandalism",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 11,
+      "url": "https://www.foxnews.com/politics/conservative-firebrand-went-viral-anti-ccp-ad-survives-key-primary",
+      "source": "Fox News"
+    },
+    {
+      "name": "Ai",
+      "count": 10,
+      "url": "https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Nfl",
+      "count": 8,
+      "url": "https://www.foxnews.com/sports/sam-acho-qa-former-nfl-player-espn-analyst-speaks-civility-accountability-sports-media",
+      "source": "Fox News"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 43,
+      "count": 44,
       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota",
       "source": "The Guardian"
     },
     {
+      "name": "Tennessee",
+      "count": 31,
+      "url": "https://www.nytimes.com/2026/08/06/us/politics/andy-ogles-loses-tennessee-primary-charlie-hatcher.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/08/06/opinion/treasury-yen-trump-currency-economy.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Michigan",
-      "count": 19,
+      "count": 14,
       "url": "https://www.theguardian.com/commentisfree/2026/aug/06/democrats-midterms-general-election",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 17,
+      "count": 12,
       "url": "https://www.washingtonpost.com/nation/2026/08/05/utility-tower-spark-confirmed-cause-2025-eaton-fire-california/",
       "source": "Washington Post"
     },
     {
-      "name": "U.S.",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/08/06/opinion/treasury-yen-trump-currency-economy.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Iran",
-      "count": 10,
-      "url": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
-      "source": "NPR"
-    },
-    {
-      "name": "L.A.",
-      "count": 8,
-      "url": "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/",
-      "source": "Washington Post"
+      "count": 11,
+      "url": "https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis",
+      "source": "The Guardian"
     },
     {
       "name": "Ohio",
-      "count": 8,
+      "count": 10,
       "url": "https://www.washingtonpost.com/politics/2026/08/05/gop-house-leaders-defer-ethics-committee-max-miller-accusations/",
       "source": "Washington Post"
+    },
+    {
+      "name": "New Mexico",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
+      "source": "NY Times"
     },
     {
       "name": "Israel",
@@ -212,17 +224,11 @@
       "source": "Wall St. Journal"
     },
     {
-      "name": "Washington",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/06/democrats-midterms-general-election",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New Mexico",
+      "name": "Canada",
       "count": 7,
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-08-07T00:42:38Z"
+  "updated": "2026-08-07T03:52:37Z"
 };

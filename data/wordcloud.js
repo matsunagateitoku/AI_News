@@ -2,48 +2,58 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    81,
-    "https://www.nytimes.com/2026/08/06/us/politics/rfk-jr-head-start-antipoverty-program.html"
-  ],
-  [
-    "senate",
-    38,
-    "https://www.nytimes.com/2026/08/06/briefing/senate-fauci-contempt-alaska-wave.html"
-  ],
-  [
-    "democratic",
-    31,
-    "https://www.washingtonpost.com/nation/2026/08/05/federal-judge-opens-up-about-threats-he-has-experienced-under-trump/"
-  ],
-  [
-    "family",
-    29,
-    "https://www.theguardian.com/us-news/2026/aug/06/wisconsin-police-killing-corey-ruiz"
-  ],
-  [
-    "health",
-    28,
-    "https://www.nytimes.com/2026/08/06/us/politics/mitch-mcconnell-discharged-hospitalization-senate.html"
-  ],
-  [
-    "president",
-    27,
-    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
-  ],
-  [
-    "republican",
-    26,
-    "https://www.nytimes.com/2026/08/06/us/politics/mitch-mcconnell-discharged-hospitalization-senate.html"
+    91,
+    "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html"
   ],
   [
     "primary",
-    26,
-    "https://www.nytimes.com/2026/08/06/us/politics/republicans-endorse-cory-mills-opponent.html"
+    51,
+    "https://www.nytimes.com/2026/08/06/us/politics/andy-ogles-loses-tennessee-primary-charlie-hatcher.html"
   ],
   [
-    "michigan",
+    "republican",
+    38,
+    "https://www.nytimes.com/2026/08/06/us/politics/andy-ogles-loses-tennessee-primary-charlie-hatcher.html"
+  ],
+  [
+    "president",
+    33,
+    "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html"
+  ],
+  [
+    "tennessee",
+    33,
+    "https://www.nytimes.com/2026/08/06/us/politics/andy-ogles-loses-tennessee-primary-charlie-hatcher.html"
+  ],
+  [
+    "democratic",
+    30,
+    "https://www.washingtonpost.com/nation/2026/08/05/federal-judge-opens-up-about-threats-he-has-experienced-under-trump/"
+  ],
+  [
+    "health",
+    27,
+    "https://www.nytimes.com/2026/08/06/us/politics/mitch-mcconnell-discharged-hospitalization-senate.html"
+  ],
+  [
+    "family",
+    27,
+    "https://www.theguardian.com/world/2026/aug/07/new-zealand-nz-wool-price-industry-comeback"
+  ],
+  [
+    "senate",
+    26,
+    "https://www.nytimes.com/2026/08/06/briefing/senate-fauci-contempt-alaska-wave.html"
+  ],
+  [
+    "rep",
+    26,
+    "https://www.cbsnews.com/news/trump-endorsed-rep-andy-ogles-loses-gop-primary-in-tennessee-charlie-hatcher/"
+  ],
+  [
+    "court",
     25,
-    "https://www.theguardian.com/commentisfree/2026/aug/06/democrats-midterms-general-election"
+    "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html"
   ],
   [
     "country",
@@ -51,19 +61,14 @@
     "https://www.nytimes.com/2026/08/06/nyregion/noncitizen-voter-registration-green-card.html"
   ],
   [
-    "fauci",
-    22,
-    "https://www.nytimes.com/2026/08/06/briefing/senate-fauci-contempt-alaska-wave.html"
-  ],
-  [
     "police",
-    22,
-    "https://www.nytimes.com/2026/08/06/us/converse-texas-school-officer-incident-policing.html"
+    24,
+    "https://www.theguardian.com/commentisfree/2026/aug/06/jason-arday-dei-race-issues-university-of-cambridge"
   ],
   [
-    "court",
-    22,
-    "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders"
+    "john",
+    23,
+    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
   ],
   [
     "administration",
@@ -71,19 +76,29 @@
     "https://www.nytimes.com/2026/08/06/us/politics/rfk-jr-head-start-antipoverty-program.html"
   ],
   [
-    "party",
+    "black",
+    21,
+    "https://www.washingtonpost.com/nation/2026/08/06/three-people-charged-with-threatening-judge-witnesses-nolan-wells-case/"
+  ],
+  [
+    "district",
+    21,
+    "https://www.washingtonpost.com/nation/2026/08/05/federal-judge-opens-up-about-threats-he-has-experienced-under-trump/"
+  ],
+  [
+    "ice",
+    21,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "michigan",
     21,
     "https://www.theguardian.com/commentisfree/2026/aug/06/democrats-midterms-general-election"
   ],
   [
-    "air",
+    "million",
     20,
-    "https://www.washingtonpost.com/nation/2026/08/06/this-memphis-news-anchor-fell-asleep-on-air-what-came-next-shocked-her/"
-  ],
-  [
-    "black",
-    20,
-    "https://www.theguardian.com/us-news/2026/aug/06/wisconsin-police-killing-corey-ruiz"
+    "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html"
   ],
   [
     "summer",
@@ -91,64 +106,64 @@
     "https://www.theguardian.com/football/2026/aug/06/arsenal-hopes-dashed-after-vinicius-junior-extends-real-madrid-contract-to-2032"
   ],
   [
-    "questions",
+    "citizenship",
     19,
-    "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html"
+    "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html"
   ],
   [
-    "company",
+    "war",
     19,
-    "https://www.theguardian.com/us-news/2026/aug/06/ice-tracks-thousands-of-immigrants-ankle-monitors"
+    "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html"
   ],
   [
     "children",
     19,
-    "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta"
-  ],
-  [
-    "game",
-    19,
-    "https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology"
-  ],
-  [
-    "food",
-    19,
-    "https://www.theguardian.com/us-news/2026/aug/06/flu-shot-covid-moderna-mrna-mflusiva"
-  ],
-  [
-    "star",
-    18,
-    "https://www.nytimes.com/2025/05/01/nyregion/sydney-towle-cancer-videos-tiktok.html"
-  ],
-  [
-    "california",
-    18,
-    "https://www.washingtonpost.com/nation/2026/08/05/utility-tower-spark-confirmed-cause-2025-eaton-fire-california/"
-  ],
-  [
-    "republicans",
-    17,
-    "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html"
-  ],
-  [
-    "million",
-    17,
-    "https://www.nytimes.com/2026/08/06/style/sydney-towle-dead.html"
-  ],
-  [
-    "school",
-    17,
-    "https://www.nytimes.com/2026/08/06/us/converse-texas-school-officer-incident-policing.html"
+    "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders"
   ],
   [
     "orders",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders"
+    18,
+    "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html"
+  ],
+  [
+    "program",
+    18,
+    "https://www.nytimes.com/2026/08/06/us/politics/rfk-jr-head-start-antipoverty-program.html"
+  ],
+  [
+    "questions",
+    18,
+    "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html"
+  ],
+  [
+    "party",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/aug/06/democrats-midterms-general-election"
+  ],
+  [
+    "company",
+    18,
+    "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta"
+  ],
+  [
+    "food",
+    18,
+    "https://www.theguardian.com/us-news/2026/aug/06/flu-shot-covid-moderna-mrna-mflusiva"
   ],
   [
     "birthright",
     17,
-    "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders"
+    "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html"
+  ],
+  [
+    "ogles",
+    17,
+    "https://www.nytimes.com/2026/08/06/us/politics/andy-ogles-loses-tennessee-primary-charlie-hatcher.html"
+  ],
+  [
+    "air",
+    17,
+    "https://www.washingtonpost.com/nation/2026/08/06/this-memphis-news-anchor-fell-asleep-on-air-what-came-next-shocked-her/"
   ],
   [
     "don",
@@ -156,49 +171,44 @@
     "https://www.theguardian.com/us-news/2026/aug/06/trump-jeanine-pirro-reflecting-pool-vandalism"
   ],
   [
+    "race",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/aug/06/jason-arday-dei-race-issues-university-of-cambridge"
+  ],
+  [
     "water",
     17,
     "https://www.theguardian.com/world/video/2026/aug/06/europe-wildfires-drought-video"
   ],
   [
-    "program",
+    "star",
     16,
-    "https://www.nytimes.com/2026/08/06/us/politics/rfk-jr-head-start-antipoverty-program.html"
+    "https://www.nytimes.com/2025/05/01/nyregion/sydney-towle-cancer-videos-tiktok.html"
   ],
   [
-    "committee",
+    "win",
     16,
+    "https://www.theguardian.com/commentisfree/2026/aug/06/democrats-midterms-general-election"
+  ],
+  [
+    "body",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/aug/06/labour-ideal-birth-women-yvette-cooper-maternity-reforms"
+  ],
+  [
+    "latest",
+    15,
+    "https://www.nytimes.com/2026/08/06/briefing/senate-fauci-contempt-alaska-wave.html"
+  ],
+  [
+    "republicans",
+    15,
     "https://www.nytimes.com/2026/08/06/us/politics/republicans-endorse-cory-mills-opponent.html"
   ],
   [
-    "led",
-    16,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "citizenship",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders"
-  ],
-  [
-    "sayed",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
-  ],
-  [
-    "buying",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/aug/07/the-social-media-algorithm-has-left-me-behind-im-unc-and-im-chopped-and-thats-ok"
-  ],
-  [
-    "start",
+    "israeli",
     15,
-    "https://www.nytimes.com/2026/08/06/us/politics/rfk-jr-head-start-antipoverty-program.html"
-  ],
-  [
-    "contempt",
-    15,
-    "https://www.nytimes.com/2026/08/06/briefing/senate-fauci-contempt-alaska-wave.html"
+    "https://www.nytimes.com/2026/08/06/world/middleeast/israel-settler-manslaughter-palestinian-activist.html"
   ],
   [
     "young",
@@ -206,19 +216,19 @@
     "https://www.nytimes.com/2026/08/06/us/politics/deportations-southeast-asians-trump.html"
   ],
   [
-    "war",
+    "school",
     15,
-    "https://www.nytimes.com/2026/08/06/us/politics/deportations-southeast-asians-trump.html"
+    "https://www.washingtonpost.com/investigations/interactive/2026/08/06/how-gi-bill-veterans-trade-schools-extracted-millions-sham-class-schemes/"
   ],
   [
-    "win",
+    "fire",
     15,
-    "https://www.theguardian.com/commentisfree/2026/aug/06/democrats-midterms-general-election"
+    "https://www.washingtonpost.com/nation/2026/08/05/utility-tower-spark-confirmed-cause-2025-eaton-fire-california/"
   ],
   [
-    "executive",
+    "lost",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota"
   ],
   [
     "running",
@@ -226,14 +236,24 @@
     "https://www.theguardian.com/us-news/2026/aug/06/priya-dandiya-florida-redistricting-democrat"
   ],
   [
-    "body",
+    "buying",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/06/wisconsin-police-killing-corey-ruiz"
+    "https://www.theguardian.com/commentisfree/2026/aug/07/the-social-media-algorithm-has-left-me-behind-im-unc-and-im-chopped-and-thats-ok"
   ],
   [
-    "latest",
+    "game",
+    15,
+    "https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology"
+  ],
+  [
+    "start",
     14,
-    "https://www.nytimes.com/2026/08/06/briefing/senate-fauci-contempt-alaska-wave.html"
+    "https://www.nytimes.com/2026/08/06/us/politics/rfk-jr-head-start-antipoverty-program.html"
+  ],
+  [
+    "backed",
+    14,
+    "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html"
   ],
   [
     "death",
@@ -241,24 +261,19 @@
     "https://www.nytimes.com/2026/08/06/world/middleeast/israel-settler-manslaughter-palestinian-activist.html"
   ],
   [
-    "john",
+    "led",
     14,
-    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "district",
+    "past",
     14,
-    "https://www.washingtonpost.com/nation/2026/08/05/federal-judge-opens-up-about-threats-he-has-experienced-under-trump/"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "ice",
+    "team",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "community",
-    14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "love",
@@ -266,29 +281,9 @@
     "https://www.theguardian.com/tv-and-radio/2026/aug/06/best-true-crime-tv-shows-ever"
   ],
   [
-    "local",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/06/trump-administration-head-start-changes"
-  ],
-  [
-    "vote",
-    14,
-    "https://www.theguardian.com/media/2026/aug/06/fcc-overturns-limit-local-tv-ownership"
-  ],
-  [
-    "music",
-    14,
-    "https://www.theguardian.com/film/2026/aug/06/james-dean-has-got-nothing-on-that-kid-river-phoenix-films-ranked"
-  ],
-  [
     "hear",
     14,
     "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
-  ],
-  [
-    "sex",
-    14,
-    "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
   ],
   [
     "filter",
@@ -296,14 +291,19 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/05/best-nordstrom-anniversary-sales-deals-discounts"
   ],
   [
-    "hold",
+    "executive",
     13,
-    "https://www.nytimes.com/2026/08/06/briefing/senate-fauci-contempt-alaska-wave.html"
+    "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html"
   ],
   [
-    "because",
+    "andy",
     13,
-    "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html"
+    "https://www.nytimes.com/2026/08/06/us/politics/andy-ogles-loses-tennessee-primary-charlie-hatcher.html"
+  ],
+  [
+    "blackburn",
+    13,
+    "https://www.nytimes.com/2026/08/06/us/elections/marsha-blackburn-tennessee-governor-primary.html"
   ],
   [
     "tiktok",
@@ -311,9 +311,9 @@
     "https://www.nytimes.com/2026/08/06/style/sydney-towle-dead.html"
   ],
   [
-    "americans",
+    "case",
     13,
-    "https://www.nytimes.com/2026/08/06/magazine/scams-origins.html"
+    "https://www.nytimes.com/2026/08/06/world/middleeast/israel-settler-manslaughter-palestinian-activist.html"
   ],
   [
     "democrats",
@@ -321,24 +321,14 @@
     "https://www.nytimes.com/2026/08/06/opinion/democrats-bernie-sanders-dsa-el-sayed.html"
   ],
   [
-    "judge",
-    13,
-    "https://www.washingtonpost.com/nation/2026/08/05/federal-judge-opens-up-about-threats-he-has-experienced-under-trump/"
-  ],
-  [
-    "team",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "lost",
+    "community",
     13,
     "https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota"
   ],
   [
-    "university",
+    "wife",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota"
+    "https://www.theguardian.com/tv-and-radio/2026/aug/06/best-true-crime-tv-shows-ever"
   ],
   [
     "donald",
@@ -346,9 +336,14 @@
     "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders"
   ],
   [
-    "candidate",
+    "nbc",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/06/aipac-super-pacs-spend-millions-california"
+    "https://www.theguardian.com/us-news/2026/aug/06/trump-jeanine-pirro-reflecting-pool-vandalism"
+  ],
+  [
+    "local",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/06/trump-administration-head-start-changes"
   ],
   [
     "review",
@@ -356,23 +351,28 @@
     "https://www.theguardian.com/us-news/2026/aug/06/boltinhouse-miss-north-carolina-racist-posts"
   ],
   [
-    "involved",
+    "candidate",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/06/wisconsin-police-killing-corey-ruiz"
+    "https://www.theguardian.com/us-news/2026/aug/06/priya-dandiya-florida-redistricting-democrat"
   ],
   [
-    "case",
-    12,
-    "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html"
+    "music",
+    13,
+    "https://www.theguardian.com/film/2026/aug/06/james-dean-has-got-nothing-on-that-kid-river-phoenix-films-ranked"
   ],
   [
-    "golf",
-    12,
-    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
+    "sayed",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory"
   ],
   [
-    "everything",
+    "sex",
+    13,
+    "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review"
+  ],
+  [
+    "fauci",
     12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.nytimes.com/2026/08/06/briefing/senate-fauci-contempt-alaska-wave.html"
   ]
 ];
