@@ -2,16 +2,22 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Administration",
-      "count": 47,
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/rfk-jr-head-start-antipoverty-program.html",
+      "name": "Trump Administration Fast-Tracks Military Partnership With Colombia To",
+      "count": 51,
+      "url": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
       "source": "NY Times"
     },
     {
+      "name": "Ai",
+      "count": 21,
+      "url": "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "source": "The Guardian"
+    },
+    {
       "name": "The White House",
-      "count": 15,
-      "url": "https://www.politico.com/video/2026/07/27/ive-never-lost-rahm-emanuel-makes-his-case-for-the-white-house-2123533",
-      "source": "Politico"
+      "count": 14,
+      "url": "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "source": "The Guardian"
     },
     {
       "name": "Democratic Maine Senate",
@@ -20,189 +26,53 @@
       "source": "Politico"
     },
     {
-      "name": "Congress",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/mitch-mcconnell-discharged-hospitalization-senate.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Nbc News",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/aug/06/trump-jeanine-pirro-reflecting-pool-vandalism",
-      "source": "The Guardian"
+      "name": "Gop",
+      "count": 13,
+      "url": "https://www.foxnews.com/politics/gop-senator-deals-crushing-blow-trumps-ag-nominee-alaska-lobbying-blitz",
+      "source": "Fox News"
     },
     {
       "name": "The Filter Us",
-      "count": 11,
+      "count": 12,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Gop",
-      "count": 11,
-      "url": "https://www.foxnews.com/politics/conservative-firebrand-went-viral-anti-ccp-ad-survives-key-primary",
-      "source": "Fox News"
-    },
-    {
-      "name": "Ai",
+      "name": "Meta And Instagram",
       "count": 10,
-      "url": "https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology",
-      "source": "The Guardian"
+      "url": "https://www.cbsnews.com/news/meta-instagram-new-mexico-court-kids-mental-health/",
+      "source": "CBS News"
     },
     {
-      "name": "Guardian",
-      "count": 9,
-      "url": "https://www.theguardian.com/community/live/2026/aug/07/feast-qa-ask-guardian-food-writer-felicity-cloake-anything",
-      "source": "The Guardian"
+      "name": "The Supreme Court",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html",
+      "source": "NY Times"
     },
     {
-      "name": "Nfl",
-      "count": 9,
-      "url": "https://www.foxnews.com/sports/panthers-rally-past-cardinals-hall-of-fame-game-open-nfl-preseason",
-      "source": "Fox News"
-    }
-  ],
-  "EVENT": [
-    {
-      "name": "The World Cup",
+      "name": "Todd Blanche",
       "count": 7,
-      "url": "https://www.npr.org/2026/08/06/nx-s1-5923408/uefa-fifa-world-cup-gianni-infantino",
-      "source": "NPR"
-    },
-    {
-      "name": "World War Ii",
-      "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/06/wildfires-europe-world-war-two",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/murkowski-todd-blanche-attorney-general",
       "source": "The Guardian"
     },
     {
-      "name": "The War On Democracy",
-      "count": 1,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Operation Country Roads",
-      "count": 1,
-      "url": "https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation",
-      "source": "NPR"
-    },
-    {
-      "name": "A Super Bowl",
-      "count": 1,
-      "url": "https://www.foxnews.com/sports/jahmyr-gibbs-caps-huge-week-nfl-running-backs-biggest-deal-detroit-lions",
-      "source": "Fox News"
-    },
-    {
-      "name": "The Iran War",
-      "count": 1,
-      "url": "https://thehill.com/homenews/administration/6015652-us-crude-supplies-45-year-low-iran-war/",
-      "source": "The Hill"
-    },
-    {
-      "name": "The Freedom 250 Grand Prix",
-      "count": 1,
-      "url": "https://thehill.com/homenews/administration/6015508-indycar-freedom-250-art-safety/",
-      "source": "The Hill"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 45,
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/07/blinded-by-war-documenting-the-aftermath-of-injury-in-ukraine-photo-essay",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tennessee",
-      "count": 31,
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/andy-ogles-loses-tennessee-primary-charlie-hatcher.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/08/06/opinion/treasury-yen-trump-currency-economy.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/2026/aug/07/houthi-strikes-yemen-saudi-arabia-attacks-iran-war-middle-east-crisis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michigan",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New Mexico",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/nation/2026/08/05/utility-tower-spark-confirmed-cause-2025-eaton-fire-california/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "L.A.",
-      "count": 8,
-      "url": "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Ohio",
-      "count": 8,
-      "url": "https://www.washingtonpost.com/politics/2026/08/05/gop-house-leaders-defer-ethics-committee-max-miller-accusations/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Israel",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
+      "name": "Nbc News'",
+      "count": 7,
+      "url": "https://www.nbcnews.com/video/nbc-news-goes-inside-west-bank-town-attacked-by-israeli-settlers-267914821913",
+      "source": "NBC News"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 30,
-      "url": "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-executive-orders",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Andy Ogles Loses",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/andy-ogles-loses-tennessee-primary-charlie-hatcher.html",
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/08/07/opinion/georgia-midterm-black-voters-senate.html",
       "source": "NY Times"
     },
     {
-      "name": "Marsha Blackburn",
+      "name": "Lisa Murkowski",
       "count": 9,
-      "url": "https://www.nytimes.com/2026/08/06/us/elections/marsha-blackburn-tennessee-governor-primary.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Max Miller",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/politics/2026/08/05/gop-house-leaders-defer-ethics-committee-max-miller-accusations/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Mitch Mcconnell",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/mitch-mcconnell-discharged-hospitalization-senate.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Haley Stevens",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/06/abdul-el-sayed-michigan-victory",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/murkowski-todd-blanche-attorney-general",
       "source": "The Guardian"
     },
     {
@@ -212,23 +82,153 @@
       "source": "The Guardian"
     },
     {
-      "name": "John Rose",
+      "name": "Andy Ogles",
       "count": 7,
-      "url": "https://www.foxnews.com/politics/conservative-firebrand-went-viral-anti-ccp-ad-survives-key-primary",
-      "source": "Fox News"
+      "url": "https://www.cbsnews.com/video/trump-backed-candidate-loses-in-tennessee-primary/",
+      "source": "CBS News"
     },
     {
-      "name": "Anthony Fauci",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Charlie Hatcher",
+      "name": "Anthony Bourdain",
       "count": 5,
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/andy-ogles-loses-tennessee-primary-charlie-hatcher.html",
+      "url": "https://www.nytimes.com/2026/08/07/magazine/tony-anthony-bourdain-cult-fandom.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Mitch Mcconnell",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/aug/06/mitch-mcconnell-health-rehab-recovery",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Karl",
+      "count": 5,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/03/pet-ill-never-forget-karl-the-tabby",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Marsha Blackburn",
+      "count": 4,
+      "url": "https://www.nytimes.com/2026/08/06/us/elections/marsha-blackburn-tennessee-governor-primary.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Dominic Sessa",
+      "count": 4,
+      "url": "https://www.theguardian.com/film/2026/aug/07/these-cooks-ripped-each-other-apart-dominic-sessa-on-playing-anthony-bourdain-kitchen-bullies-and-the-joys-of-being-a-70s-barfly",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Liza Shams",
+      "count": 4,
+      "url": "https://www.theguardian.com/global-development/2026/aug/07/afghanistan-women-taliban-violence-battered-beaten",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-08-07T08:17:14Z"
+  "EVENT": [
+    {
+      "name": "The World Cup",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/2026/aug/07/mexico-argentina-gianni-infantino-deepen-football-civil-war-fifa",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympic",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/aug/07/katelyn-ohashi-olympic-comeback-la-2028-gymnastics",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The American Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/aug/07/katelyn-ohashi-olympic-comeback-la-2028-gymnastics",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/trump-windfall-tax-big-oil-iran-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hugo",
+      "count": 1,
+      "url": "https://www.theguardian.com/books/2026/aug/07/the-best-recent-science-fiction-fantasy-and-horror-review-roundup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Tainted Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/books/2026/aug/07/the-best-recent-science-fiction-fantasy-and-horror-review-roundup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Super Bowl",
+      "count": 1,
+      "url": "https://www.foxnews.com/outkick-sports/dallas-cowboys-cheerleaders-dialed-training-camp-dolphins-rivalry-heats-haynes-king-nfl",
+      "source": "Fox News"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 47,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Tennessee",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/08/07/us/elections/tennessee-primary-results.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New Mexico",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "London",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/08/07/world/europe/barbican-london-redevelopment-tower-block.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A.",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Israel",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Britain",
+      "count": 7,
+      "url": "https://www.theguardian.com/environment/2026/aug/06/waste-colonialism-the-turkish-city-carrying-the-weight-of-britains-pollution-problem",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 7,
+      "url": "https://www.theguardian.com/environment/2026/aug/06/waste-colonialism-the-turkish-city-carrying-the-weight-of-britains-pollution-problem",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-08-07T14:14:40Z"
 };
