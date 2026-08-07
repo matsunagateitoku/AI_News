@@ -2,28 +2,48 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    91,
-    "https://www.nytimes.com/2026/08/07/podcasts/the-headlines/trump-birthright-citizenship-israel-abuse.html"
+    90,
+    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
+  ],
+  [
+    "court",
+    41,
+    "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html"
+  ],
+  [
+    "senate",
+    36,
+    "https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html"
   ],
   [
     "president",
-    32,
-    "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html"
+    35,
+    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
   ],
   [
-    "family",
-    32,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/07/sterling-point-prime-tv-show-teen-drama"
-  ],
-  [
-    "school",
-    27,
-    "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html"
+    "bill",
+    29,
+    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
   ],
   [
     "primary",
-    24,
+    26,
     "https://www.nytimes.com/2026/08/07/us/elections/tennessee-primary-results.html"
+  ],
+  [
+    "republican",
+    25,
+    "https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html"
+  ],
+  [
+    "summer",
+    25,
+    "https://www.nytimes.com/2026/08/07/business/economy/heres-the-latest.html"
+  ],
+  [
+    "family",
+    25,
+    "https://www.theguardian.com/us-news/2026/aug/07/kristen-galvan-houston-family"
   ],
   [
     "air",
@@ -31,134 +51,169 @@
     "https://www.washingtonpost.com/nation/2026/08/06/this-memphis-news-anchor-fell-asleep-on-air-what-came-next-shocked-her/"
   ],
   [
-    "water",
-    23,
-    "https://www.nytimes.com/2026/08/07/us/puerto-rico-water-crisis-drought.html"
-  ],
-  [
-    "iran",
+    "administration",
     22,
-    "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html"
+    "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html"
   ],
   [
     "food",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/aug/07/ultra-processed-food-firms-sue-harm-products-regulation"
-  ],
-  [
-    "court",
     21,
-    "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html"
+    "https://www.nytimes.com/2026/08/07/well/eat/cyclospora-symptoms-relapse.html"
   ],
   [
-    "republican",
+    "school",
     21,
-    "https://www.nytimes.com/2026/08/07/us/elections/tennessee-primary-results.html"
+    "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html"
   ],
   [
-    "million",
+    "judge",
     21,
-    "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html"
+    "https://www.washingtonpost.com/nation/2026/08/06/three-people-charged-with-threatening-judge-witnesses-nolan-wells-case/"
   ],
   [
-    "democratic",
+    "music",
     21,
-    "https://www.nytimes.com/2026/08/07/opinion/georgia-midterm-black-voters-senate.html"
-  ],
-  [
-    "health",
-    21,
-    "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok"
-  ],
-  [
-    "administration",
-    19,
-    "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html"
-  ],
-  [
-    "senate",
-    19,
-    "https://www.nytimes.com/2026/08/07/opinion/georgia-midterm-black-voters-senate.html"
-  ],
-  [
-    "citizenship",
-    18,
-    "https://www.nytimes.com/2026/08/07/podcasts/the-headlines/trump-birthright-citizenship-israel-abuse.html"
-  ],
-  [
-    "orders",
-    18,
-    "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html"
-  ],
-  [
-    "country",
-    18,
-    "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html"
-  ],
-  [
-    "summer",
-    18,
-    "https://www.theguardian.com/film/2026/aug/07/these-cooks-ripped-each-other-apart-dominic-sessa-on-playing-anthony-bourdain-kitchen-bullies-and-the-joys-of-being-a-70s-barfly"
-  ],
-  [
-    "lost",
-    18,
-    "https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict"
-  ],
-  [
-    "children",
-    18,
     "https://www.theguardian.com/tv-and-radio/2026/aug/07/music-best-kids-tv-theme-tunes-composers-bluey-peppa-pig-ducktales-byker-grove-danger-mouse-saved-by-the-bell"
   ],
   [
-    "birthright",
-    17,
-    "https://www.nytimes.com/2026/08/07/podcasts/the-headlines/trump-birthright-citizenship-israel-abuse.html"
+    "sen",
+    20,
+    "https://www.foxnews.com/media/sen-lankford-accuses-pornhub-preying-children-blistering-letter"
   ],
   [
-    "again",
-    17,
-    "https://www.nytimes.com/2026/08/07/podcasts/the-headlines/trump-birthright-citizenship-israel-abuse.html"
+    "general",
+    19,
+    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
   ],
   [
-    "black",
+    "fire",
+    19,
+    "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html"
+  ],
+  [
+    "supreme",
+    19,
+    "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html"
+  ],
+  [
+    "sanctions",
+    18,
+    "https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html"
+  ],
+  [
+    "russia",
+    18,
+    "https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html"
+  ],
+  [
+    "death",
     17,
-    "https://www.nytimes.com/2026/08/07/us/elections/tennessee-primary-results.html"
+    "https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html"
   ],
   [
     "review",
     17,
-    "https://www.nytimes.com/2026/08/06/movies/tony-review-dominic-sessa.html"
+    "https://www.nytimes.com/2026/08/05/movies/one-night-only-review.html"
   ],
   [
-    "rep",
+    "democratic",
     17,
-    "https://www.foxnews.com/politics/smithsonians-taxpayer-funds-face-chopping-block-gop-demands-accountability-woke-history"
+    "https://www.washingtonpost.com/nation/2026/08/07/how-neighborhood-nyc-became-center-democratic-socialist-power/"
+  ],
+  [
+    "million",
+    17,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "cup",
+    17,
+    "https://www.theguardian.com/sport/2026/aug/07/katelyn-ohashi-olympic-comeback-la-2028-gymnastics"
+  ],
+  [
+    "iran",
+    16,
+    "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html"
+  ],
+  [
+    "lindsey",
+    16,
+    "https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html"
   ],
   [
     "don",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/aug/07/these-shoes-may-look-like-any-other-but-kiziks-have-a-secret-superpower"
+    "https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-drugs-maha.html"
   ],
   [
-    "jobs",
+    "university",
     16,
-    "https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict"
+    "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities"
   ],
   [
-    "music",
+    "hear",
     16,
     "https://www.theguardian.com/tv-and-radio/2026/aug/07/music-best-kids-tv-theme-tunes-composers-bluey-peppa-pig-ducktales-byker-grove-danger-mouse-saved-by-the-bell"
   ],
   [
-    "tennessee",
-    15,
-    "https://www.nytimes.com/2026/08/07/us/elections/tennessee-primary-results.html"
+    "star",
+    16,
+    "https://www.theguardian.com/sport/2026/aug/07/katelyn-ohashi-olympic-comeback-la-2028-gymnastics"
   ],
   [
-    "fire",
+    "construction",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/07/court-order-trump-white-house-ballroom-project"
+  ],
+  [
+    "died",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/aug/07/trump-healthcare-hospital-quality-patient-safety"
+  ],
+  [
+    "game",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/aug/07/the-guardian-view-on-gianni-infantino-in-the-interests-of-the-game-he-professes-to-love-he-should-go"
+  ],
+  [
+    "attorney",
     15,
-    "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html"
+    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
+  ],
+  [
+    "despite",
+    15,
+    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
+  ],
+  [
+    "country",
+    15,
+    "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html"
+  ],
+  [
+    "night",
+    15,
+    "https://www.nytimes.com/2026/08/07/movies/monica-barbaro-callum-turner-one-night-only.html"
+  ],
+  [
+    "lost",
+    15,
+    "https://www.washingtonpost.com/nation/2026/08/07/mayor-urges-los-angeles-police-department-end-flock-safety-contract/"
+  ],
+  [
+    "case",
+    15,
+    "https://www.washingtonpost.com/nation/2026/08/06/three-people-charged-with-threatening-judge-witnesses-nolan-wells-case/"
+  ],
+  [
+    "children",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/07/music-best-kids-tv-theme-tunes-composers-bluey-peppa-pig-ducktales-byker-grove-danger-mouse-saved-by-the-bell"
+  ],
+  [
+    "ballroom",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/07/court-order-trump-white-house-ballroom-project"
   ],
   [
     "filter",
@@ -166,213 +221,158 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/07/these-shoes-may-look-like-any-other-but-kiziks-have-a-secret-superpower"
   ],
   [
+    "love",
+    15,
+    "https://www.theguardian.com/technology/commentisfree/2026/aug/07/science-fiction-warned-us-about-an-ai-powered-dystopian-future-does-it-also-hold-the-remedy"
+  ],
+  [
     "social",
     15,
     "https://www.theguardian.com/commentisfree/2026/aug/07/le-corbusier-social-housing-france-dream-summer-extreme-heat-nightmare"
   ],
   [
-    "love",
+    "blanche",
     14,
-    "https://www.nytimes.com/2026/08/06/movies/tony-review-dominic-sessa.html"
+    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
   ],
   [
-    "point",
+    "war",
     14,
-    "https://www.washingtonpost.com/nation/2026/08/05/west-point-wont-fight-ban-school-policy-limiting-professors-speech/"
+    "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html"
   ],
   [
-    "because",
+    "south",
     14,
-    "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities"
+    "https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html"
   ],
   [
-    "university",
+    "ice",
     14,
-    "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities"
+    "https://www.nytimes.com/2026/08/07/us/ice-detention-center-hudson-colorado-house.html"
   ],
   [
-    "general",
+    "health",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/07/murkowski-todd-blanche-attorney-general"
+    "https://www.nytimes.com/2026/08/07/well/eat/cyclospora-symptoms-relapse.html"
   ],
   [
-    "hear",
+    "killed",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/07/music-best-kids-tv-theme-tunes-composers-bluey-peppa-pig-ducktales-byker-grove-danger-mouse-saved-by-the-bell"
+    "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html"
   ],
   [
-    "game",
+    "company",
     14,
-    "https://www.theguardian.com/sport/2026/aug/07/haynes-king-panthers-cardinals-hall-of-fame-game"
+    "https://www.washingtonpost.com/nation/2026/08/07/mayor-urges-los-angeles-police-department-end-flock-safety-contract/"
   ],
   [
-    "sen",
+    "past",
     14,
-    "https://www.latimes.com/business/story/2026-08-07/insurance-commissioner-candidates-split-key-endorsements"
+    "https://www.washingtonpost.com/nation/2026/08/07/puerto-rico-starts-rationing-water-drought-conditions-intensify/"
   ],
   [
-    "experts",
-    13,
-    "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html"
-  ],
-  [
-    "drug",
-    13,
-    "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html"
-  ],
-  [
-    "mexico",
-    13,
-    "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html"
-  ],
-  [
-    "judge",
-    13,
-    "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html"
-  ],
-  [
-    "party",
-    13,
-    "https://www.nytimes.com/2026/08/07/opinion/georgia-midterm-black-voters-senate.html"
+    "released",
+    14,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "running",
+    14,
+    "https://www.theguardian.com/sport/2026/aug/07/katelyn-ohashi-olympic-comeback-la-2028-gymnastics"
+  ],
+  [
+    "buying",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/aug/07/these-shoes-may-look-like-any-other-but-kiziks-have-a-secret-superpower"
+  ],
+  [
+    "cassidy",
     13,
-    "https://www.nytimes.com/2026/08/07/opinion/max-miller-moreno-ohio-congressman.html"
+    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
+  ],
+  [
+    "cook",
+    13,
+    "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html"
+  ],
+  [
+    "graham",
+    13,
+    "https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html"
+  ],
+  [
+    "candidate",
+    13,
+    "https://www.nytimes.com/2026/08/07/us/elections/tennessee-primary-results.html"
+  ],
+  [
+    "district",
+    13,
+    "https://www.nytimes.com/2026/08/07/us/elections/tennessee-primary-results.html"
   ],
   [
     "center",
     13,
-    "https://www.washingtonpost.com/nation/2026/08/07/how-neighborhood-nyc-became-center-democratic-socialist-power/"
+    "https://www.nytimes.com/2026/08/07/us/ice-detention-center-hudson-colorado-house.html"
   ],
   [
-    "faces",
+    "police",
     13,
-    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
+    "https://www.washingtonpost.com/nation/2026/08/07/mayor-urges-los-angeles-police-department-end-flock-safety-contract/"
   ],
   [
-    "latest",
+    "ordered",
     13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.washingtonpost.com/nation/2026/08/07/court-deals-setback-trumps-war-wind-pentagon-is-ordered-review-projects/"
   ],
   [
-    "buying",
+    "project",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/07/these-shoes-may-look-like-any-other-but-kiziks-have-a-secret-superpower"
-  ],
-  [
-    "vote",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/07/murkowski-todd-blanche-attorney-general"
-  ],
-  [
-    "gop",
-    13,
-    "https://www.foxnews.com/politics/gop-senator-deals-crushing-blow-trumps-ag-nominee-alaska-lobbying-blitz"
-  ],
-  [
-    "data",
-    12,
-    "https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html"
-  ],
-  [
-    "republicans",
-    12,
-    "https://www.nytimes.com/2026/08/07/us/elections/tennessee-primary-results.html"
-  ],
-  [
-    "little",
-    12,
-    "https://www.nytimes.com/2026/08/06/movies/tony-review-dominic-sessa.html"
-  ],
-  [
-    "meta",
-    12,
-    "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html"
-  ],
-  [
-    "safety",
-    12,
-    "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html"
-  ],
-  [
-    "island",
-    12,
-    "https://www.nytimes.com/2026/08/07/us/puerto-rico-water-crisis-drought.html"
-  ],
-  [
-    "questions",
-    12,
-    "https://www.nytimes.com/2026/08/07/briefing/reader-questions-answered.html"
-  ],
-  [
-    "john",
-    12,
-    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
-  ],
-  [
-    "sea",
-    12,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "war",
-    12,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "past",
-    12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "politics",
-    12,
     "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities"
   ],
   [
-    "decade",
-    12,
-    "https://www.theguardian.com/film/2026/aug/07/these-cooks-ripped-each-other-apart-dominic-sessa-on-playing-anthony-bourdain-kitchen-bullies-and-the-joys-of-being-a-70s-barfly"
+    "because",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities"
   ],
   [
-    "film",
-    12,
-    "https://www.theguardian.com/film/2026/aug/07/these-cooks-ripped-each-other-apart-dominic-sessa-on-playing-anthony-bourdain-kitchen-bullies-and-the-joys-of-being-a-70s-barfly"
-  ],
-  [
-    "company",
-    12,
-    "https://www.theguardian.com/film/2026/aug/07/these-cooks-ripped-each-other-apart-dominic-sessa-on-playing-anthony-bourdain-kitchen-bullies-and-the-joys-of-being-a-70s-barfly"
-  ],
-  [
-    "ago",
-    12,
-    "https://www.theguardian.com/sport/2026/aug/07/katelyn-ohashi-olympic-comeback-la-2028-gymnastics"
-  ],
-  [
-    "guide",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/aug/07/these-shoes-may-look-like-any-other-but-kiziks-have-a-secret-superpower"
+    "ruling",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/07/court-order-trump-white-house-ballroom-project"
   ],
   [
     "fewer",
-    12,
+    13,
     "https://www.theguardian.com/thefilter-us/2026/aug/07/these-shoes-may-look-like-any-other-but-kiziks-have-a-secret-superpower"
   ],
   [
-    "lives",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/07/trump-healthcare-hospital-quality-patient-safety"
+    "king",
+    13,
+    "https://www.theguardian.com/sport/2026/aug/07/haynes-king-panthers-cardinals-hall-of-fame-game"
   ],
   [
-    "nbc",
+    "confirmation",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/06/trump-jeanine-pirro-reflecting-pool-vandalism"
+    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
   ],
   [
-    "candidate",
-    11,
+    "governor",
+    12,
+    "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html"
+  ],
+  [
+    "attack",
+    12,
+    "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html"
+  ],
+  [
+    "york",
+    12,
+    "https://www.nytimes.com/2026/08/07/us/politics/abdul-el-sayed-michigan-primary-interview.html"
+  ],
+  [
+    "black",
+    12,
     "https://www.nytimes.com/2026/08/07/us/elections/tennessee-primary-results.html"
   ]
 ];
