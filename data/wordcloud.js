@@ -2,93 +2,143 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    89,
-    "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html"
-  ],
-  [
-    "senate",
-    43,
-    "https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html"
-  ],
-  [
-    "president",
-    38,
+    74,
     "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
   ],
   [
-    "court",
-    38,
-    "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html"
+    "senate",
+    64,
+    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
   ],
   [
-    "air",
-    34,
-    "https://www.washingtonpost.com/nation/2026/08/06/this-memphis-news-anchor-fell-asleep-on-air-what-came-next-shocked-her/"
+    "president",
+    37,
+    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
   ],
   [
     "school",
-    27,
-    "https://www.nytimes.com/2026/08/07/nyregion/nyc-student-reading-scores-drop.html"
+    29,
+    "https://www.theguardian.com/world/2026/aug/08/iran-journey-israel-us-war"
   ],
   [
-    "family",
+    "general",
+    28,
+    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
+  ],
+  [
+    "blanche",
     25,
-    "https://www.theguardian.com/lifeandstyle/picture/2026/aug/08/discovering-the-joys-of-family-holiday-resorts-the-becky-barnicoat-cartoon"
+    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
   ],
   [
-    "summer",
-    24,
-    "https://www.nytimes.com/2026/08/07/weather/weekend-forecast-points-to-heat-humidty-and-haze.html"
-  ],
-  [
-    "food",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/aug/07/ultra-processed-food-firms-sue-harm-products-regulation"
+    "attorney",
+    25,
+    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
   ],
   [
     "police",
-    21,
-    "https://www.nytimes.com/2026/08/08/world/asia/pellet-guns-sticks-and-tear-gas-how-indias-police-halted-a-youth-march.html"
+    25,
+    "https://www.nytimes.com/2026/08/08/world/asia/india-new-delhi-cjp-protest-march-police.html"
+  ],
+  [
+    "air",
+    24,
+    "https://www.washingtonpost.com/nation/2026/08/06/this-memphis-news-anchor-fell-asleep-on-air-what-came-next-shocked-her/"
+  ],
+  [
+    "family",
+    23,
+    "https://www.theguardian.com/lifeandstyle/picture/2026/aug/08/discovering-the-joys-of-family-holiday-resorts-the-becky-barnicoat-cartoon"
   ],
   [
     "video",
     21,
-    "https://www.theguardian.com/us-news/2026/aug/07/idaho-police-shooting-in-n-out-burger-video"
+    "https://www.theguardian.com/us-news/2026/aug/08/baywatch-ryder-williams-lifeguard"
   ],
   [
-    "administration",
-    19,
-    "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html"
+    "food",
+    21,
+    "https://www.theguardian.com/commentisfree/2026/aug/08/ai-optimized-parenting"
   ],
   [
-    "bill",
+    "war",
+    20,
+    "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html"
+  ],
+  [
+    "court",
+    20,
+    "https://www.washingtonpost.com/nation/2026/08/07/court-deals-setback-trumps-war-wind-pentagon-is-ordered-review-projects/"
+  ],
+  [
+    "film",
+    20,
+    "https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies"
+  ],
+  [
+    "summer",
+    20,
+    "https://www.theguardian.com/uk-news/ng-interactive/2026/aug/08/how-northern-ireland-race-riots-unfolded-belfast"
+  ],
+  [
+    "confirmed",
     19,
     "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
-  ],
-  [
-    "general",
-    19,
-    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
-  ],
-  [
-    "department",
-    19,
-    "https://www.washingtonpost.com/nation/2026/08/07/mayor-urges-los-angeles-police-department-end-flock-safety-contract/"
-  ],
-  [
-    "million",
-    19,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
     "michigan",
-    18,
-    "https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html"
+    19,
+    "https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html"
   ],
   [
-    "released",
+    "government",
+    19,
+    "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html"
+  ],
+  [
+    "york",
+    19,
+    "https://www.nytimes.com/2026/08/08/world/asia/india-new-delhi-cjp-protest-march-police.html"
+  ],
+  [
+    "early",
+    19,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "despite",
     18,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
+  ],
+  [
+    "bill",
+    18,
+    "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill-shutdown.html"
+  ],
+  [
+    "democrats",
+    18,
+    "https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html"
+  ],
+  [
+    "hear",
+    18,
+    "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html"
+  ],
+  [
+    "iran",
+    18,
+    "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html"
+  ],
+  [
+    "country",
+    18,
+    "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html"
+  ],
+  [
+    "star",
+    18,
+    "https://www.theguardian.com/music/ng-interactive/2026/aug/08/ariana-grande-body-debate-eating-disorders"
   ],
   [
     "game",
@@ -96,79 +146,64 @@
     "https://www.theguardian.com/culture/2026/aug/08/bella-ramsey-actor-the-last-of-us-sunny-dancer-maya-celebrity-traitors"
   ],
   [
-    "music",
+    "vote",
     18,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/07/music-best-kids-tv-theme-tunes-composers-bluey-peppa-pig-ducktales-byker-grove-danger-mouse-saved-by-the-bell"
+    "https://www.theguardian.com/us-news/2026/aug/08/todd-blanche-attorney-general-confirmed"
   ],
   [
-    "case",
+    "todd",
     17,
-    "https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html"
-  ],
-  [
-    "republican",
-    17,
-    "https://www.nytimes.com/2026/08/07/us/politics/max-miller-gop.html"
-  ],
-  [
-    "review",
-    17,
-    "https://www.nytimes.com/2026/08/07/nyregion/nyc-student-reading-scores-drop.html"
-  ],
-  [
-    "don",
-    17,
-    "https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-drugs-maha.html"
-  ],
-  [
-    "judge",
-    17,
-    "https://www.washingtonpost.com/nation/2026/08/06/three-people-charged-with-threatening-judge-witnesses-nolan-wells-case/"
-  ],
-  [
-    "authorities",
-    17,
-    "https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill"
-  ],
-  [
-    "attorney",
-    16,
     "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
   ],
   [
-    "fire",
-    16,
-    "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html"
+    "political",
+    17,
+    "https://www.washingtonpost.com/nation/2026/08/08/why-childs-blue-bunny-doll-is-blowing-up-political-race-internet/"
   ],
   [
-    "supreme",
-    16,
-    "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html"
-  ],
-  [
-    "race",
-    16,
-    "https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html"
-  ],
-  [
-    "government",
-    16,
-    "https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html"
-  ],
-  [
-    "running",
-    16,
-    "https://www.nytimes.com/2026/08/07/opinion/max-miller-moreno-ohio-congressman.html"
-  ],
-  [
-    "water",
-    16,
+    "past",
+    17,
     "https://www.washingtonpost.com/nation/2026/08/07/puerto-rico-starts-rationing-water-drought-conditions-intensify/"
   ],
   [
-    "hear",
+    "pop",
+    17,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "social",
+    17,
+    "https://www.theguardian.com/music/ng-interactive/2026/aug/08/ariana-grande-body-debate-eating-disorders"
+  ],
+  [
+    "primary",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/07/music-best-kids-tv-theme-tunes-composers-bluey-peppa-pig-ducktales-byker-grove-danger-mouse-saved-by-the-bell"
+    "https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html"
+  ],
+  [
+    "million",
+    16,
+    "https://www.washingtonpost.com/investigations/2026/08/08/3-5-things-we-learned-probe/"
+  ],
+  [
+    "department",
+    16,
+    "https://www.washingtonpost.com/nation/2026/08/07/mayor-urges-los-angeles-police-department-end-flock-safety-contract/"
+  ],
+  [
+    "democratic",
+    16,
+    "https://www.washingtonpost.com/nation/2026/08/07/how-neighborhood-nyc-became-center-democratic-socialist-power/"
+  ],
+  [
+    "don",
+    16,
+    "https://www.theguardian.com/environment/2026/aug/08/fearless-and-quietly-astonishing-the-dragonfly-that-migrates-further-than-any-other-insect"
+  ],
+  [
+    "sex",
+    16,
+    "https://www.theguardian.com/film/2026/aug/08/anthony-bourdain-tony-film"
   ],
   [
     "filter",
@@ -176,84 +211,89 @@
     "https://www.theguardian.com/lifeandstyle/2026/mar/04/best-beginner-pickleball-gear-according-to-pros"
   ],
   [
-    "despite",
+    "party",
     15,
-    "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
+    "https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html"
   ],
   [
-    "york",
+    "race",
     15,
-    "https://www.nytimes.com/2026/08/08/world/asia/pellet-guns-sticks-and-tear-gas-how-indias-police-halted-a-youth-march.html"
-  ],
-  [
-    "jobs",
-    15,
-    "https://www.nytimes.com/2026/08/07/nyregion/haitian-nyc-workers-tps.html"
-  ],
-  [
-    "island",
-    15,
-    "https://www.washingtonpost.com/nation/2026/08/07/puerto-rico-starts-rationing-water-drought-conditions-intensify/"
-  ],
-  [
-    "past",
-    15,
-    "https://www.washingtonpost.com/nation/2026/08/07/puerto-rico-starts-rationing-water-drought-conditions-intensify/"
-  ],
-  [
-    "start",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "health",
-    15,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts"
-  ],
-  [
-    "because",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/07/chicago-funeral-home-bodies"
+    "https://www.washingtonpost.com/nation/2026/08/08/why-childs-blue-bunny-doll-is-blowing-up-political-race-internet/"
   ],
   [
     "died",
     15,
-    "https://www.theguardian.com/commentisfree/2026/aug/07/trump-healthcare-hospital-quality-patient-safety"
+    "https://www.washingtonpost.com/obituaries/2026/08/08/benjamin-alire-senz-prizewinning-latino-writer-with-ya-hit-dies-71/"
   ],
   [
-    "country",
-    14,
-    "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html"
+    "latest",
+    15,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "politics",
-    14,
-    "https://www.nytimes.com/2026/08/07/style/justin-trudeau-katy-perry-style.html"
+    "full",
+    15,
+    "https://www.theguardian.com/culture/2026/aug/08/bella-ramsey-actor-the-last-of-us-sunny-dancer-maya-celebrity-traitors"
   ],
   [
-    "office",
-    14,
-    "https://www.nytimes.com/2026/08/07/nyregion/dsa-mamdani-buses.html"
+    "university",
+    15,
+    "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts"
   ],
   [
-    "film",
-    14,
-    "https://www.nytimes.com/2026/08/07/business/media/netflix-billboard-marketing-strategy.html"
+    "administration",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps"
   ],
   [
-    "lost",
-    14,
-    "https://www.washingtonpost.com/nation/2026/08/07/mayor-urges-los-angeles-police-department-end-flock-safety-contract/"
+    "running",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/08/new-york-city-rats-trash-bins"
   ],
   [
     "death",
-    14,
+    15,
     "https://www.theguardian.com/us-news/2026/aug/07/russia-sanctions-senate-passed-petroleum"
   ],
   [
-    "primary",
+    "guide",
+    15,
+    "https://www.theguardian.com/culture/2026/aug/07/the-great-frontrow-backlash-ignores-what-makes-films-feel-truly-colossal"
+  ],
+  [
+    "love",
     14,
-    "https://www.theguardian.com/world/2026/aug/08/iran-journey-israel-us-war"
+    "https://www.washingtonpost.com/nation/2026/08/08/mall-rink-where-they-fell-love-skated-nearly-60-years-is-closing/"
+  ],
+  [
+    "fire",
+    14,
+    "https://www.washingtonpost.com/weather/2026/08/07/these-neighborhoods-seemed-safe-wildfire-then-they-burned/"
+  ],
+  [
+    "john",
+    14,
+    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
+  ],
+  [
+    "released",
+    14,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "donald",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/08/todd-blanche-attorney-general-confirmed"
+  ],
+  [
+    "authorities",
+    14,
+    "https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill"
+  ],
+  [
+    "shooting",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings"
   ],
   [
     "buying",
@@ -261,59 +301,64 @@
     "https://www.theguardian.com/lifeandstyle/2026/mar/04/best-beginner-pickleball-gear-according-to-pros"
   ],
   [
-    "cook",
+    "win",
     13,
-    "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html"
+    "https://www.nytimes.com/2026/08/08/us/politics/brian-poindexter-max-miller-ohio-house.html"
   ],
   [
-    "law",
+    "mexico",
     13,
-    "https://www.nytimes.com/2026/08/07/us/politics/prosecutor-fired-lawsuit-justice-department.html"
+    "https://www.washingtonpost.com/obituaries/2026/08/08/benjamin-alire-senz-prizewinning-latino-writer-with-ya-hit-dies-71/"
   ],
   [
-    "accused",
+    "case",
     13,
-    "https://www.nytimes.com/2026/08/07/us/politics/max-miller-gop.html"
+    "https://www.washingtonpost.com/nation/2026/08/06/three-people-charged-with-threatening-judge-witnesses-nolan-wells-case/"
   ],
   [
-    "democrats",
+    "israel",
     13,
-    "https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "iran",
+    "because",
     13,
-    "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html"
+    "https://www.theguardian.com/music/ng-interactive/2026/aug/08/ariana-grande-body-debate-eating-disorders"
   ],
   [
-    "force",
+    "media",
     13,
-    "https://www.nytimes.com/2026/08/08/world/asia/pellet-guns-sticks-and-tear-gas-how-indias-police-halted-a-youth-march.html"
+    "https://www.theguardian.com/music/ng-interactive/2026/aug/08/ariana-grande-body-debate-eating-disorders"
   ],
   [
-    "cup",
+    "little",
     13,
-    "https://www.theguardian.com/culture/2026/aug/08/bella-ramsey-actor-the-last-of-us-sunny-dancer-maya-celebrity-traitors"
+    "https://www.theguardian.com/world/2026/aug/08/spanish-mountain-village-braces-for-astrotourists-lured-by-total-solar-eclipse"
   ],
   [
-    "university",
+    "role",
     13,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts"
+    "https://www.theguardian.com/australia-news/2026/aug/08/david-brat-bound-for-australia-as-diplomat-confirmed-as-next-us-ambassador"
   ],
   [
-    "final",
+    "director",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/07/russia-sanctions-senate-passed-petroleum"
+    "https://www.theguardian.com/commentisfree/2026/aug/08/cdc-abortion-surveillance-schwartz-hawley"
   ],
   [
-    "love",
+    "science",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/07/the-guardian-view-on-gianni-infantino-in-the-interests-of-the-game-he-professes-to-love-he-should-go"
+    "https://www.theguardian.com/commentisfree/2026/aug/08/cdc-abortion-surveillance-schwartz-hawley"
   ],
   [
-    "guide",
+    "music",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/mar/04/best-beginner-pickleball-gear-according-to-pros"
+    "https://www.theguardian.com/commentisfree/2026/aug/08/ai-optimized-parenting"
+  ],
+  [
+    "killed",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/07/idaho-police-shooting-in-n-out-burger-video"
   ],
   [
     "fewer",
@@ -321,58 +366,13 @@
     "https://www.theguardian.com/lifeandstyle/2026/mar/04/best-beginner-pickleball-gear-according-to-pros"
   ],
   [
-    "governor",
-    12,
-    "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html"
-  ],
-  [
-    "backed",
-    12,
-    "https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html"
-  ],
-  [
-    "democratic",
-    12,
-    "https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html"
-  ],
-  [
-    "working",
-    12,
-    "https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html"
-  ],
-  [
     "faces",
     12,
-    "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html"
+    "https://www.nytimes.com/2026/08/08/us/politics/brian-poindexter-max-miller-ohio-house.html"
   ],
   [
-    "pentagon",
+    "company",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/07/court-deals-setback-trumps-war-wind-pentagon-is-ordered-review-projects/"
-  ],
-  [
-    "safe",
-    12,
-    "https://www.washingtonpost.com/weather/2026/08/07/these-neighborhoods-seemed-safe-wildfire-then-they-burned/"
-  ],
-  [
-    "john",
-    12,
-    "https://www.washingtonpost.com/nation/2026/08/05/jeanine-john-taele-arrested-trump-la-golf-course-faces-federal-charges/"
-  ],
-  [
-    "pop",
-    12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "mexico",
-    12,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "something",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/08/blind-date-imogen-andy"
+    "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html"
   ]
 ];
