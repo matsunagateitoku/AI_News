@@ -3,8 +3,8 @@
   "EVENT": [
     {
       "name": "The World Cup",
-      "count": 7,
-      "url": "https://www.theguardian.com/football/2026/aug/07/gianni-infantino-world-cup-sell-off-debacle-fifa-crisis",
+      "count": 8,
+      "url": "https://www.theguardian.com/football/2026/aug/08/two-weeks-that-rocked-fifa-how-gianni-infantinos-implosion-unfolded",
       "source": "The Guardian"
     },
     {
@@ -12,6 +12,12 @@
       "count": 1,
       "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Jason Arday",
+      "count": 1,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/07/the-guardian-view-on-jason-arday-diversity-advocates-must-stand-firm",
+      "source": "The Guardian"
     },
     {
       "name": "The 2022",
@@ -29,12 +35,6 @@
       "name": "The American Cup",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/aug/07/katelyn-ohashi-olympic-comeback-la-2028-gymnastics",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jason Arday",
-      "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/07/the-guardian-view-on-jason-arday-diversity-advocates-must-stand-firm",
       "source": "The Guardian"
     },
     {
@@ -65,8 +65,8 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 35,
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/court-order-trump-white-house-ballroom-project",
+      "count": 36,
+      "url": "https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill",
       "source": "The Guardian"
     },
     {
@@ -100,16 +100,16 @@
       "source": "The Guardian"
     },
     {
+      "name": "Karl Lagerfeld",
+      "count": 6,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/08/sandra-day-oconnor-was-the-first-woman-appointed-to-which-body-the-saturday-quiz",
+      "source": "The Guardian"
+    },
+    {
       "name": "Tommy Crutchfield",
       "count": 6,
       "url": "https://www.theguardian.com/tv-and-radio/2026/aug/07/monsters-of-god-review-hbo-max-documentary-reptile-smugglers",
       "source": "The Guardian"
-    },
-    {
-      "name": "The Twin Falls",
-      "count": 6,
-      "url": "https://www.foxnews.com/us/chilling-new-video-shows-armed-citizens-off-duty-trooper-confront-in-n-out-gunman-deadly-rampage",
-      "source": "Fox News"
     },
     {
       "name": "Lisa D. Cook",
@@ -118,42 +118,42 @@
       "source": "NY Times"
     },
     {
-      "name": "Madonna",
+      "name": "Bella Ramsey",
       "count": 5,
-      "url": "https://www.theguardian.com/music/2026/aug/07/william-orbit-greatest-recordings-prince-madonna-blur-beth-orton",
+      "url": "https://www.theguardian.com/culture/2026/aug/08/bella-ramsey-actor-the-last-of-us-sunny-dancer-maya-celebrity-traitors",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 47,
+      "count": 46,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
       "name": "Michigan Senate",
-      "count": 33,
+      "count": 39,
       "url": "https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html",
       "source": "NY Times"
     },
     {
-      "name": "Ai",
-      "count": 21,
-      "url": "https://www.theguardian.com/wellness/2026/aug/07/biggest-wellness-trends-2026",
-      "source": "The Guardian"
-    },
-    {
       "name": "The White House",
-      "count": 18,
+      "count": 17,
       "url": "https://www.theguardian.com/us-news/2026/aug/07/court-order-trump-white-house-ballroom-project",
       "source": "The Guardian"
     },
     {
       "name": "The Supreme Court",
-      "count": 13,
+      "count": 15,
       "url": "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Pentagon",
+      "count": 14,
+      "url": "https://www.washingtonpost.com/nation/2026/08/07/court-deals-setback-trumps-war-wind-pentagon-is-ordered-review-projects/",
+      "source": "Washington Post"
     },
     {
       "name": "The Filter Us",
@@ -162,66 +162,66 @@
       "source": "The Guardian"
     },
     {
-      "name": "Pentagon",
-      "count": 12,
-      "url": "https://www.washingtonpost.com/nation/2026/08/07/court-deals-setback-trumps-war-wind-pentagon-is-ordered-review-projects/",
-      "source": "Washington Post"
+      "name": "Ai",
+      "count": 9,
+      "url": "https://www.theguardian.com/wellness/2026/aug/07/biggest-wellness-trends-2026",
+      "source": "The Guardian"
     },
     {
-      "name": "Cbs News",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/bari-weiss-cbs-news-60-minutes",
+      "name": "Guardian Australia",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/08/marriage-divorce-gen-z-sensible-generation",
       "source": "The Guardian"
     },
     {
       "name": "Gop",
-      "count": 8,
+      "count": 7,
       "url": "https://www.foxnews.com/media/dem-attorney-backs-gop-hopeful-michigan-race-against-el-sayed-jumping-ship-partys-lunatics",
       "source": "Fox News"
     },
     {
-      "name": "Nato",
-      "count": 7,
-      "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "source": "Wall St. Journal"
+      "name": "Fifa",
+      "count": 6,
+      "url": "https://www.theguardian.com/football/2026/aug/08/two-weeks-that-rocked-fifa-how-gianni-infantinos-implosion-unfolded",
+      "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 54,
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/kristen-galvan-houston-family",
+      "count": 57,
+      "url": "https://www.theguardian.com/culture/2026/aug/08/bella-ramsey-actor-the-last-of-us-sunny-dancer-maya-celebrity-traitors",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 23,
+      "count": 25,
       "url": "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html",
       "source": "NY Times"
     },
     {
       "name": "Iran",
-      "count": 13,
+      "count": 14,
       "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html",
       "source": "NY Times"
     },
     {
       "name": "Michigan",
-      "count": 13,
+      "count": 12,
       "url": "https://www.foxnews.com/media/dem-attorney-backs-gop-hopeful-michigan-race-against-el-sayed-jumping-ship-partys-lunatics",
       "source": "Fox News"
     },
     {
-      "name": "New York City Hall",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/08/07/nyregion/haitian-nyc-workers-tps.html",
+      "name": "Russia",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
       "source": "NY Times"
     },
     {
-      "name": "Russia",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/russia-sanctions-senate-passed-petroleum",
-      "source": "The Guardian"
+      "name": "New York City Hall",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/08/07/nyregion/haitian-nyc-workers-tps.html",
+      "source": "NY Times"
     },
     {
       "name": "Mexico City",
@@ -230,23 +230,23 @@
       "source": "The Guardian"
     },
     {
-      "name": "Idaho",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/idaho-police-shooting-in-n-out-burger-video",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 8,
-      "url": "https://www.theguardian.com/music/2026/aug/07/diiv-interview-indie-music-capitalism-drug-addiction-la-wildfires",
+      "name": "Uk",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/aug/08/us-accused-of-meddling-in-british-politics-with-500000-grant-scheme-promoting-shared-values",
       "source": "The Guardian"
     },
     {
       "name": "L.A. County",
-      "count": 8,
+      "count": 9,
       "url": "https://www.latimes.com/california/story/2026-08-07/nathan-hochman-da-backlash-lapd-officer-recordings-charges",
       "source": "LA Times"
+    },
+    {
+      "name": "Washington Island",
+      "count": 8,
+      "url": "https://www.foxnews.com/us/missing-illinois-kayakers-found-dead-near-strait-called-deaths-door-known-shipwrecks",
+      "source": "Fox News"
     }
   ],
-  "updated": "2026-08-08T02:55:55Z"
+  "updated": "2026-08-08T07:52:21Z"
 };
