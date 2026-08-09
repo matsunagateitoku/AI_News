@@ -2,28 +2,43 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    55,
-    "https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html"
+    50,
+    "https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html"
   ],
   [
     "president",
     38,
-    "https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html"
-  ],
-  [
-    "iran",
-    34,
-    "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html"
+    "https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html"
   ],
   [
     "senate",
-    30,
-    "https://www.nytimes.com/2026/08/08/us/politics/senate-bows-to-reality-leaving-trumps-voting-bill-undone.html"
+    32,
+    "https://www.nytimes.com/2026/08/08/us/politics/trump-save-america-act-republican-voting-bill-senate.html"
+  ],
+  [
+    "school",
+    32,
+    "https://www.theguardian.com/us-news/2026/aug/09/new-orleans-catholic-high-school-settlement"
   ],
   [
     "family",
-    30,
-    "https://www.theguardian.com/global-development/2026/aug/09/cockroach-protests-parents-of-indian-students-who-took-their-own-lives-reveal-pressure-of-leaked-exam-papers-and-resits"
+    29,
+    "https://www.theguardian.com/world/2026/aug/09/russian-family-finland-reprisals-pro-ukraine-activism"
+  ],
+  [
+    "case",
+    27,
+    "https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html"
+  ],
+  [
+    "war",
+    26,
+    "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html"
+  ],
+  [
+    "iran",
+    26,
+    "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html"
   ],
   [
     "food",
@@ -31,64 +46,59 @@
     "https://www.theguardian.com/environment/2026/aug/09/plastics-pollution-food-waste-landfill-recycling-research"
   ],
   [
-    "biden",
-    24,
-    "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-says-his-fathers-cancer-is-worsening.html"
-  ],
-  [
-    "black",
-    23,
-    "https://www.washingtonpost.com/nation/2026/08/06/three-people-charged-with-threatening-judge-witnesses-nolan-wells-case/"
-  ],
-  [
-    "school",
-    23,
-    "https://www.theguardian.com/thefilter-us/2026/aug/08/screen-free-activities-kids"
-  ],
-  [
     "police",
-    22,
+    24,
     "https://www.washingtonpost.com/nation/2026/08/07/mayor-urges-los-angeles-police-department-end-flock-safety-contract/"
   ],
   [
-    "democratic",
-    21,
-    "https://www.washingtonpost.com/nation/2026/08/07/how-neighborhood-nyc-became-center-democratic-socialist-power/"
+    "biden",
+    23,
+    "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-joe-biden-cancer.html"
   ],
   [
     "primary",
     21,
+    "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html"
+  ],
+  [
+    "york",
+    21,
+    "https://www.nytimes.com/2026/08/09/us/elections/poll-voters-political-parties-extreme.html"
+  ],
+  [
+    "ukraine",
+    21,
+    "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html"
+  ],
+  [
+    "military",
+    21,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "love",
+    20,
+    "https://www.washingtonpost.com/nation/2026/08/08/mall-rink-where-they-fell-love-skated-nearly-60-years-is-closing/"
+  ],
+  [
+    "health",
+    20,
+    "https://www.theguardian.com/news/ng-interactive/2026/aug/09/democratic-party-leftwing-michigan-mamdani-aoc"
+  ],
+  [
+    "sex",
+    20,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/09/this-is-how-we-do-it-hrt-revival-sex-life"
+  ],
+  [
+    "democratic",
+    19,
     "https://www.theguardian.com/news/ng-interactive/2026/aug/09/democratic-party-leftwing-michigan-mamdani-aoc"
   ],
   [
     "hours",
-    21,
+    19,
     "https://www.theguardian.com/news/ng-interactive/2026/aug/09/democratic-party-leftwing-michigan-mamdani-aoc"
-  ],
-  [
-    "war",
-    20,
-    "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html"
-  ],
-  [
-    "case",
-    19,
-    "https://www.nytimes.com/2026/08/09/us/politics/hawaii-ed-case-jarrett-keohokalole.html"
-  ],
-  [
-    "country",
-    19,
-    "https://www.nytimes.com/2026/08/09/opinion/trump-washington-landmarks-arch-pool-east-wing.html"
-  ],
-  [
-    "cancer",
-    19,
-    "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-says-his-fathers-cancer-is-worsening.html"
-  ],
-  [
-    "air",
-    19,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "game",
@@ -96,64 +106,64 @@
     "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba"
   ],
   [
-    "summer",
+    "don",
     18,
-    "https://www.nytimes.com/2026/08/08/us/politics/senate-bows-to-reality-leaving-trumps-voting-bill-undone.html"
+    "https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-drugs-maha.html"
   ],
   [
-    "ukraine",
+    "air",
     18,
-    "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html"
-  ],
-  [
-    "died",
-    18,
-    "https://www.washingtonpost.com/obituaries/2026/08/08/benjamin-alire-senz-prizewinning-latino-writer-with-ya-hit-dies-71/"
-  ],
-  [
-    "past",
-    18,
-    "https://www.washingtonpost.com/nation/2026/08/07/puerto-rico-starts-rationing-water-drought-conditions-intensify/"
-  ],
-  [
-    "early",
-    18,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "general",
-    18,
-    "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un"
-  ],
-  [
-    "killed",
-    18,
-    "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un"
-  ],
-  [
-    "video",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/08/baywatch-ryder-williams-lifeguard"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "hear",
     18,
-    "https://www.theguardian.com/environment/2026/aug/08/fearless-and-quietly-astonishing-the-dragonfly-that-migrates-further-than-any-other-insect"
+    "https://www.theguardian.com/us-news/2026/aug/09/lindsay-clancy-murder-trial"
   ],
   [
-    "strait",
-    17,
-    "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html"
+    "killed",
+    18,
+    "https://www.theguardian.com/us-news/2026/aug/09/lindsay-clancy-murder-trial"
   ],
   [
-    "hormuz",
+    "summer",
     17,
-    "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html"
+    "https://www.nytimes.com/2026/08/08/us/politics/trump-save-america-act-republican-voting-bill-senate.html"
   ],
   [
-    "york",
+    "israel",
     17,
-    "https://www.theguardian.com/us-news/2026/aug/09/they-kidnapped-a-hard-working-kid-off-our-streets-the-gardener-seized-by-ice-and-the-new-york-town-fighting-back"
+    "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html"
+  ],
+  [
+    "gaza",
+    17,
+    "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html"
+  ],
+  [
+    "pop",
+    17,
+    "https://www.nytimes.com/2026/08/09/opinion/bts-grammys-pop-genre-racism.html"
+  ],
+  [
+    "black",
+    17,
+    "https://www.washingtonpost.com/nation/2026/08/06/three-people-charged-with-threatening-judge-witnesses-nolan-wells-case/"
+  ],
+  [
+    "latest",
+    17,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "party",
+    17,
+    "https://www.theguardian.com/news/ng-interactive/2026/aug/09/democratic-party-leftwing-michigan-mamdani-aoc"
+  ],
+  [
+    "guide",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/aug/09/the-hill-i-will-die-on-earphones-music-humanity-headphones"
   ],
   [
     "filter",
@@ -161,89 +171,69 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/08/screen-free-activities-kids"
   ],
   [
-    "guide",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/aug/08/screen-free-activities-kids"
-  ],
-  [
-    "issues",
+    "michigan",
     16,
-    "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html"
+    "https://www.nytimes.com/2026/08/09/us/politics/mike-rogers-michigan-senate-elections.html"
   ],
   [
-    "administration",
+    "cancer",
     16,
-    "https://www.nytimes.com/2026/08/09/opinion/trump-washington-landmarks-arch-pool-east-wing.html"
+    "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-joe-biden-cancer.html"
   ],
   [
-    "love",
+    "country",
     16,
-    "https://www.washingtonpost.com/nation/2026/08/08/mall-rink-where-they-fell-love-skated-nearly-60-years-is-closing/"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "party",
+    "general",
     16,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/09/democratic-party-leftwing-michigan-mamdani-aoc"
+    "https://www.theguardian.com/us-news/2026/aug/08/todd-blanche-attorney-general-confirmed"
   ],
   [
-    "sex",
+    "office",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/09/my-husband-wont-make-effort-please-me-in-bed"
-  ],
-  [
-    "death",
-    16,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/08/tennessee-doctor-executions-death-penalty"
-  ],
-  [
-    "government",
-    16,
-    "https://www.theguardian.com/global-development/2026/aug/09/cockroach-protests-parents-of-indian-students-who-took-their-own-lives-reveal-pressure-of-leaked-exam-papers-and-resits"
-  ],
-  [
-    "film",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/09/the-chosen-in-the-wild-with-bear-grylls-review-amazon-prime-video"
-  ],
-  [
-    "don",
-    16,
-    "https://www.theguardian.com/sport/2026/aug/08/murray-ewan-met-ewen-tiger-woods-mistaken-identity-golf"
-  ],
-  [
-    "security",
-    15,
-    "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html"
-  ],
-  [
-    "court",
-    15,
-    "https://www.washingtonpost.com/nation/2026/08/07/court-deals-setback-trumps-war-wind-pentagon-is-ordered-review-projects/"
-  ],
-  [
-    "military",
-    15,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "released",
-    15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "latest",
-    15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/09/the-secret-lives-of-theatre-workers-people-were-having-full-sex-in-the-stalls"
   ],
   [
     "buying",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/aug/08/screen-free-activities-kids"
+    16,
+    "https://www.theguardian.com/music/2026/aug/09/lucy-beaumont-honest-playlist-housemartins-tlc-ed-sheeran"
   ],
   [
-    "body",
+    "race",
     15,
-    "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach"
+    "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html"
+  ],
+  [
+    "america",
+    15,
+    "https://www.nytimes.com/2026/08/09/us/kesey-furthur-bus-san-francisco.html"
+  ],
+  [
+    "died",
+    15,
+    "https://www.washingtonpost.com/obituaries/2026/08/08/benjamin-alire-senz-prizewinning-latino-writer-with-ya-hit-dies-71/"
+  ],
+  [
+    "led",
+    15,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "early",
+    15,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "issues",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/09/my-husband-wont-make-effort-please-me-in-bed"
+  ],
+  [
+    "because",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/09/my-husband-wont-make-effort-please-me-in-bed"
   ],
   [
     "running",
@@ -251,34 +241,69 @@
     "https://www.theguardian.com/us-news/2026/aug/08/government-shutdown-vote-senate-funding-bill"
   ],
   [
-    "russia",
-    14,
-    "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html"
+    "film",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/09/monsters-of-god-hbo-max-documentary"
   ],
   [
-    "republican",
-    14,
-    "https://www.nytimes.com/2026/08/08/us/politics/max-miller-ohio-republican.html"
+    "fashion",
+    15,
+    "https://www.theguardian.com/football/2026/aug/09/nigeria-udinese-goalkeeper-maduka-okoye-football-high-fashion-interview"
   ],
   [
-    "race",
+    "point",
     14,
-    "https://www.nytimes.com/2026/08/08/us/politics/max-miller-ohio-republican.html"
+    "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html"
   ],
   [
     "hunter",
     14,
-    "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-says-his-fathers-cancer-is-worsening.html"
+    "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-joe-biden-cancer.html"
   ],
   [
-    "because",
+    "sleep",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/09/my-husband-wont-make-effort-please-me-in-bed"
+    "https://www.washingtonpost.com/nation/2026/08/08/why-childs-blue-bunny-doll-is-blowing-up-political-race-internet/"
   ],
   [
-    "weekly",
+    "security",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/aug/08/screen-free-activities-kids"
+    "https://www.washingtonpost.com/nation/2026/08/07/court-deals-setback-trumps-war-wind-pentagon-is-ordered-review-projects/"
+  ],
+  [
+    "sea",
+    14,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "fire",
+    14,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "director",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/aug/09/democrats-class-wealth-gap"
+  ],
+  [
+    "killing",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/09/luigi-mangione-trial-press-access"
+  ],
+  [
+    "full",
+    14,
+    "https://www.theguardian.com/world/2026/aug/09/russian-family-finland-reprisals-pro-ukraine-activism"
+  ],
+  [
+    "mother",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/09/lindsay-clancy-murder-trial"
+  ],
+  [
+    "little",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/09/the-chosen-in-the-wild-with-bear-grylls-review-amazon-prime-video"
   ],
   [
     "fewer",
@@ -286,47 +311,7 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/08/screen-free-activities-kids"
   ],
   [
-    "media",
-    14,
-    "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba"
-  ],
-  [
-    "little",
-    14,
-    "https://www.theguardian.com/world/2026/aug/09/blame-brussels-eu-quarter-schuman-square"
-  ],
-  [
-    "office",
-    14,
-    "https://www.theguardian.com/us-news/video/2026/aug/07/trump-allies-latin-america-panama-stateside-podcast"
-  ],
-  [
-    "star",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/08/baywatch-ryder-williams-lifeguard"
-  ],
-  [
-    "mother",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings"
-  ],
-  [
-    "win",
-    13,
-    "https://www.nytimes.com/2026/08/08/us/politics/brian-poindexter-max-miller-ohio-house.html"
-  ],
-  [
-    "father",
-    13,
-    "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-says-his-fathers-cancer-is-worsening.html"
-  ],
-  [
-    "spread",
-    13,
-    "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-says-his-fathers-cancer-is-worsening.html"
-  ],
-  [
-    "water",
+    "past",
     13,
     "https://www.washingtonpost.com/nation/2026/08/07/puerto-rico-starts-rationing-water-drought-conditions-intensify/"
   ],
@@ -336,43 +321,58 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "democrats",
-    13,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/09/democratic-party-leftwing-michigan-mamdani-aoc"
-  ],
-  [
-    "health",
-    13,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/09/democratic-party-leftwing-michigan-mamdani-aoc"
-  ],
-  [
-    "climate",
-    13,
-    "https://www.theguardian.com/environment/2026/aug/09/plastics-pollution-food-waste-landfill-recycling-research"
-  ],
-  [
-    "social",
-    13,
-    "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba"
-  ],
-  [
-    "music",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/aug/09/the-hill-i-will-die-on-earphones-music-humanity-headphones"
-  ],
-  [
     "science",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/08/cdc-abortion-surveillance-schwartz-hawley"
+    "https://www.theguardian.com/us-news/2026/aug/09/democrats-election-disruption-planning-exercises"
   ],
   [
-    "blanche",
-    12,
-    "https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html"
+    "strait",
+    13,
+    "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach"
   ],
   [
-    "bill",
+    "hormuz",
+    13,
+    "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach"
+  ],
+  [
+    "donald",
+    13,
+    "https://www.theguardian.com/world/ng-interactive/2026/aug/08/trump-iran-war-criticism-groundhog-day"
+  ],
+  [
+    "california",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/07/sierra-nevada-foothills-fire-death"
+  ],
+  [
+    "power",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities"
+  ],
+  [
+    "name",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities"
+  ],
+  [
+    "crime",
+    13,
+    "https://www.theguardian.com/world/2026/aug/09/daniel-kinahan-return-ireland-ends-global-game-cat-and-mouse"
+  ],
+  [
+    "weekly",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/08/screen-free-activities-kids"
+  ],
+  [
+    "democrats",
     12,
-    "https://www.nytimes.com/2026/08/08/us/politics/senate-bows-to-reality-leaving-trumps-voting-bill-undone.html"
+    "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html"
+  ],
+  [
+    "political",
+    12,
+    "https://www.nytimes.com/2026/08/09/us/elections/poll-voters-political-parties-extreme.html"
   ]
 ];
