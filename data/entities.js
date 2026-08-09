@@ -3,32 +3,32 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 52,
-      "url": "https://www.theguardian.com/us-news/2026/aug/08/todd-blanche-attorney-general-confirmed",
+      "count": 53,
+      "url": "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 30,
+      "count": 33,
       "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 21,
+      "count": 18,
       "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
       "source": "NY Times"
     },
     {
-      "name": "Michigan",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html",
-      "source": "NY Times"
+      "name": "Ukraine",
+      "count": 16,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/08/president-xi-jinping-global-order-minorities-china",
+      "source": "The Guardian"
     },
     {
-      "name": "Texas",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+      "name": "Russia",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
       "source": "NY Times"
     },
     {
@@ -38,9 +38,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "Uk",
+      "name": "Turkey",
       "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/aug/08/us-accused-of-meddling-in-british-politics-with-500000-grant-scheme-promoting-shared-values",
+      "url": "https://www.theguardian.com/world/2026/aug/09/ukraine-war-briefing-turkey-calls-for-moratorium-on-black-sea-attacks-by-russia-and-ukraine",
       "source": "The Guardian"
     },
     {
@@ -50,10 +50,10 @@
       "source": "NPR"
     },
     {
-      "name": "China",
+      "name": "Texas",
       "count": 8,
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
+      "source": "The Guardian"
     },
     {
       "name": "Mexico City",
@@ -65,30 +65,30 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 25,
+      "count": 20,
       "url": "https://www.theguardian.com/us-news/2026/aug/08/todd-blanche-attorney-general-confirmed",
       "source": "The Guardian"
     },
     {
       "name": "Hunter Biden",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/aug/08/joe-biden-hunter-cancer",
-      "source": "The Guardian"
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-says-his-fathers-cancer-is-worsening.html",
+      "source": "NY Times"
     },
     {
       "name": "Jorge Messi",
-      "count": 13,
+      "count": 14,
       "url": "https://www.theguardian.com/football/2026/aug/08/jorge-messi-dies-father-agent-lionel-messi-argentina-inter-miami",
       "source": "The Guardian"
     },
     {
       "name": "Todd Blanche",
-      "count": 12,
+      "count": 9,
       "url": "https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html",
       "source": "NY Times"
     },
     {
-      "name": "Joe Biden  ’S",
+      "name": "Joe Biden ’S",
       "count": 8,
       "url": "https://www.theguardian.com/us-news/2026/aug/08/joe-biden-hunter-cancer",
       "source": "The Guardian"
@@ -100,46 +100,46 @@
       "source": "The Guardian"
     },
     {
-      "name": "Max Miller",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/brian-poindexter-max-miller-ohio-house.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Bella Ramsey",
-      "count": 5,
-      "url": "https://www.theguardian.com/culture/2026/aug/08/bella-ramsey-actor-the-last-of-us-sunny-dancer-maya-celebrity-traitors",
+      "name": "Wnba",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/aug/08/wnba-transgender-eligibility-cathy-engelbert-sophie-cunningham",
       "source": "The Guardian"
     },
     {
-      "name": "Abelardo De La Espriella",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/video/2026/aug/07/trump-allies-latin-america-panama-stateside-podcast",
+      "name": "Cathy Engelbert",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/aug/08/wnba-transgender-eligibility-cathy-engelbert-sophie-cunningham",
       "source": "The Guardian"
     },
     {
-      "name": "Erica Schwartz",
+      "name": "Perez Hilton",
+      "count": 6,
+      "url": "https://www.nbcnews.com/news/us-news/perez-hilton-hospitalized-serious-stable-condition-will-need-surgery-f-rcna591535",
+      "source": "NBC News"
+    },
+    {
+      "name": "Hormuz",
       "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/08/cdc-abortion-surveillance-schwartz-hawley",
+      "url": "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Target For Trump",
+      "name": "Trump National Golf Club Bedminster",
       "count": 29,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "url": "https://www.foxnews.com/outkick-sports/president-trump-receives-big-cheers-spectators-liv-golf-event-new-jersey-club",
+      "source": "Fox News"
     },
     {
-      "name": "Michigan Senate",
-      "count": 27,
-      "url": "https://www.politico.com/news/2026/08/05/el-sayed-wins-michigan-senate-primary-stevens-01025170",
-      "source": "Politico"
+      "name": "Senate Bows To Reality, Leaving Trump’S",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/senate-bows-to-reality-leaving-trumps-voting-bill-undone.html",
+      "source": "NY Times"
     },
     {
       "name": "Ai",
-      "count": 17,
+      "count": 14,
       "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
       "source": "The Guardian"
     },
@@ -156,48 +156,48 @@
       "source": "The Guardian"
     },
     {
-      "name": "Cdc Atlanta",
-      "count": 10,
-      "url": "https://thehill.com/homenews/administration/6018546-kennedy-visits-atlanta-cdc-office/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Fifa    Uefa",
-      "count": 7,
-      "url": "https://www.theguardian.com/football/2026/aug/08/fifa-gianni-infantino-uefa-employee-departure-payment-allegations-denial",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Justice Department",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html",
-      "source": "NY Times"
+      "name": "The White House",
+      "count": 12,
+      "url": "https://www.cbsnews.com/video/pregnant-haitian-woman-hides-as-tps-ends/",
+      "source": "CBS News"
     },
     {
       "name": "The Us Senate",
-      "count": 6,
+      "count": 7,
       "url": "https://www.theguardian.com/us-news/2026/aug/08/todd-blanche-attorney-general-confirmed",
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
+      "name": "Sophie Cunningham Of",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fifa",
       "count": 6,
-      "url": "https://www.politico.com/video/2026/07/27/ive-never-lost-rahm-emanuel-makes-his-case-for-the-white-house-2123533",
-      "source": "Politico"
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/07/the-guardian-view-on-gianni-infantino-in-the-interests-of-the-game-he-professes-to-love-he-should-go",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Sky’S Dijonai Carrington",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
+    {
+      "name": "The Iran War",
+      "count": 3,
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
+      "source": "NY Times"
+    },
     {
       "name": "The World Cup",
       "count": 2,
       "url": "https://www.theguardian.com/commentisfree/2026/aug/07/the-guardian-view-on-gianni-infantino-in-the-interests-of-the-game-he-professes-to-love-he-should-go",
       "source": "The Guardian"
-    },
-    {
-      "name": "The Iran War",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
-      "source": "NY Times"
     },
     {
       "name": "Groundhog Day",
@@ -212,6 +212,12 @@
       "source": "The Guardian"
     },
     {
+      "name": "The Carabao Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/aug/07/middlesbrough-wrexham-carabao-cup-match-report",
+      "source": "The Guardian"
+    },
+    {
       "name": "World",
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/aug/08/jorge-messi-dies-father-agent-lionel-messi-argentina-inter-miami",
@@ -221,12 +227,6 @@
       "name": "The 2026 Leagues Cup",
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/aug/08/jorge-messi-dies-father-agent-lionel-messi-argentina-inter-miami",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Carabao Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/aug/07/middlesbrough-wrexham-carabao-cup-match-report",
       "source": "The Guardian"
     },
     {
@@ -248,5 +248,5 @@
       "source": "LA Times"
     }
   ],
-  "updated": "2026-08-08T19:34:01Z"
+  "updated": "2026-08-09T03:03:45Z"
 };
