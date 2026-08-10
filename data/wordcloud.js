@@ -2,133 +2,113 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    47,
-    "https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html"
-  ],
-  [
-    "president",
-    31,
-    "https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html"
-  ],
-  [
-    "senate",
-    31,
-    "https://www.nytimes.com/2026/08/09/nyregion/nyc-alexandria-ocasio-cortez-freezing-eggs.html"
-  ],
-  [
-    "food",
-    30,
-    "https://www.theguardian.com/commentisfree/2026/aug/08/ai-optimized-parenting"
+    45,
+    "https://www.nytimes.com/2026/08/09/us/politics/trump-will-scharf-white-house-counsel.html"
   ],
   [
     "democratic",
-    29,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/09/democratic-party-leftwing-michigan-mamdani-aoc"
+    34,
+    "https://www.nytimes.com/2026/08/10/obituaries/ben-jones-dead.html"
   ],
   [
-    "york",
-    28,
-    "https://www.nytimes.com/2026/08/09/nyregion/new-york-harbor-boat-capsizes-dead.html"
+    "senate",
+    27,
+    "https://www.nytimes.com/2026/08/09/nyregion/nyc-alexandria-ocasio-cortez-freezing-eggs.html"
+  ],
+  [
+    "president",
+    26,
+    "https://www.nytimes.com/2026/08/09/us/politics/trump-will-scharf-white-house-counsel.html"
+  ],
+  [
+    "food",
+    26,
+    "https://www.theguardian.com/environment/2026/aug/09/plastics-pollution-food-waste-landfill-recycling-research"
   ],
   [
     "game",
-    28,
-    "https://www.theguardian.com/commentisfree/2026/aug/08/ai-optimized-parenting"
+    25,
+    "https://www.theguardian.com/world/2026/aug/10/movie-paradise-how-malta-became-a-magnet-for-big-film-shoots"
   ],
   [
-    "iran",
-    24,
-    "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html"
-  ],
-  [
-    "war",
+    "air",
     23,
-    "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "school",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities"
+    "york",
+    22,
+    "https://www.nytimes.com/2026/08/09/nyregion/new-york-harbor-boat-capsizes-dead.html"
   ],
   [
     "primary",
     22,
-    "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html"
+    "https://www.theguardian.com/commentisfree/2026/aug/10/centrist-democrats-abdul-el-sayed-michigan-2028-zohran-mamdani"
   ],
   [
-    "don",
-    22,
-    "https://www.nytimes.com/2026/08/09/obituaries/don-nelson-dead.html"
-  ],
-  [
-    "air",
+    "school",
     21,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/us-news/2026/aug/09/new-orleans-catholic-high-school-settlement"
   ],
   [
-    "israel",
+    "iran",
     20,
-    "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html"
+    "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html"
   ],
   [
-    "police",
+    "record",
     20,
-    "https://www.nytimes.com/2026/08/09/nyregion/nyc-alexandria-ocasio-cortez-freezing-eggs.html"
+    "https://www.nytimes.com/2026/08/09/us/lake-mead-water-level-record-low.html"
   ],
   [
     "sayed",
     20,
-    "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html"
+    "https://www.theguardian.com/commentisfree/2026/aug/10/centrist-democrats-abdul-el-sayed-michigan-2028-zohran-mamdani"
+  ],
+  [
+    "party",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/aug/10/centrist-democrats-abdul-el-sayed-michigan-2028-zohran-mamdani"
   ],
   [
     "health",
     20,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/09/democratic-party-leftwing-michigan-mamdani-aoc"
-  ],
-  [
-    "family",
-    20,
-    "https://www.theguardian.com/sport/2026/aug/09/don-nelson-legendary-coach-and-five-time-nba-champion-as-player-dies-at-86"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/10/clarke-carlisle-interview-former-footballer-gambling-depression-mental-health"
   ],
   [
     "film",
+    20,
+    "https://www.theguardian.com/world/2026/aug/10/movie-paradise-how-malta-became-a-magnet-for-big-film-shoots"
+  ],
+  [
+    "don",
+    20,
+    "https://www.theguardian.com/commentisfree/picture/2026/aug/10/meme-factories-are-churning-out-pro-one-nation-ai-slop-on-facebook-im-frightened"
+  ],
+  [
+    "war",
     19,
-    "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses"
+    "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html"
   ],
   [
-    "love",
-    18,
-    "https://www.washingtonpost.com/nation/2026/08/08/mall-rink-where-they-fell-love-skated-nearly-60-years-is-closing/"
+    "israel",
+    19,
+    "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html"
   ],
   [
-    "party",
-    18,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/09/democratic-party-leftwing-michigan-mamdani-aoc"
-  ],
-  [
-    "michigan",
-    17,
-    "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html"
+    "police",
+    19,
+    "https://www.nytimes.com/2026/08/09/nyregion/nyc-alexandria-ocasio-cortez-freezing-eggs.html"
   ],
   [
     "race",
-    17,
-    "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html"
+    18,
+    "https://www.washingtonpost.com/nation/2026/08/09/scientists-race-save-floridas-coral-reef-el-nio-heats-ocean/"
   ],
   [
-    "boat",
+    "love",
     17,
-    "https://www.nytimes.com/2026/08/09/nyregion/new-york-harbor-boat-capsizes-dead.html"
-  ],
-  [
-    "social",
-    17,
-    "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses"
-  ],
-  [
-    "guide",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/aug/09/the-hill-i-will-die-on-earphones-music-humanity-headphones"
+    "https://www.washingtonpost.com/nation/2026/08/08/mall-rink-where-they-fell-love-skated-nearly-60-years-is-closing/"
   ],
   [
     "filter",
@@ -141,24 +121,29 @@
     "https://www.nytimes.com/2026/08/09/us/politics/trump-will-scharf-white-house-counsel.html"
   ],
   [
-    "coach",
-    16,
-    "https://www.nytimes.com/2026/08/09/obituaries/don-nelson-dead.html"
-  ],
-  [
     "water",
     16,
     "https://www.nytimes.com/2026/08/09/us/lake-mead-water-level-record-low.html"
   ],
   [
-    "latest",
+    "sleep",
     16,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.washingtonpost.com/nation/2026/08/08/why-childs-blue-bunny-doll-is-blowing-up-political-race-internet/"
   ],
   [
-    "sex",
+    "michigan",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/09/this-is-how-we-do-it-hrt-revival-sex-life"
+    "https://www.theguardian.com/commentisfree/2026/aug/10/centrist-democrats-abdul-el-sayed-michigan-2028-zohran-mamdani"
+  ],
+  [
+    "something",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/10/clarke-carlisle-interview-former-footballer-gambling-depression-mental-health"
+  ],
+  [
+    "guide",
+    16,
+    "https://www.theguardian.com/culture/2026/aug/07/the-great-frontrow-backlash-ignores-what-makes-films-feel-truly-colossal"
   ],
   [
     "buying",
@@ -166,14 +151,19 @@
     "https://www.theguardian.com/music/2026/aug/09/lucy-beaumont-honest-playlist-housemartins-tlc-ed-sheeran"
   ],
   [
-    "mother",
+    "california",
     15,
-    "https://www.nytimes.com/2026/08/09/nyregion/new-york-harbor-boat-capsizes-dead.html"
+    "https://www.nytimes.com/2026/08/09/us/politics/democrat-huffman-humanist-religion-christianity.html"
   ],
   [
-    "sleep",
+    "climate",
     15,
-    "https://www.washingtonpost.com/nation/2026/08/08/why-childs-blue-bunny-doll-is-blowing-up-political-race-internet/"
+    "https://www.nytimes.com/2026/08/10/world/asia/pakistan-red-chiles-climate-change.html"
+  ],
+  [
+    "social",
+    15,
+    "https://www.nytimes.com/2026/08/10/world/asia/malaysia-social-media-ban-delayed.html"
   ],
   [
     "gaza",
@@ -181,19 +171,24 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "because",
+    "sea",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/09/my-husband-wont-make-effort-please-me-in-bed"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "series",
+    "latest",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/09/alexandria-ocasio-cortez-eggs-fertility"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
     "hear",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/09/lindsay-clancy-murder-trial"
+    "https://www.theguardian.com/music/2026/aug/10/wagner-marathon-bayreuth-ring-cycle-anniversary"
+  ],
+  [
+    "coach",
+    15,
+    "https://www.theguardian.com/sport/2026/aug/09/don-nelson-legendary-coach-and-five-time-nba-champion-as-player-dies-at-86"
   ],
   [
     "fewer",
@@ -201,19 +196,19 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/08/screen-free-activities-kids"
   ],
   [
-    "weekend",
-    14,
-    "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html"
-  ],
-  [
-    "abdul",
-    14,
-    "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html"
-  ],
-  [
-    "arrested",
+    "boat",
     14,
     "https://www.nytimes.com/2026/08/09/nyregion/new-york-harbor-boat-capsizes-dead.html"
+  ],
+  [
+    "series",
+    14,
+    "https://www.nytimes.com/2026/08/10/obituaries/ben-jones-dead.html"
+  ],
+  [
+    "million",
+    14,
+    "https://www.washingtonpost.com/investigations/2026/08/08/3-5-things-we-learned-probe/"
   ],
   [
     "team",
@@ -221,44 +216,24 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "media",
+    "because",
     14,
-    "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses"
+    "https://www.theguardian.com/commentisfree/2026/aug/10/centrist-democrats-abdul-el-sayed-michigan-2028-zohran-mamdani"
   ],
   [
-    "director",
+    "chair",
     14,
-    "https://www.theguardian.com/commentisfree/2026/aug/09/democrats-class-wealth-gap"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/10/clarke-carlisle-interview-former-footballer-gambling-depression-mental-health"
   ],
   [
-    "author",
+    "family",
     14,
-    "https://www.theguardian.com/commentisfree/2026/aug/09/democrats-class-wealth-gap"
+    "https://www.theguardian.com/technology/2026/aug/10/samsung-galaxy-z-fold-8-review-folding-phone"
   ],
   [
-    "little",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/aug/08/cdc-abortion-surveillance-schwartz-hawley"
-  ],
-  [
-    "science",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/aug/08/cdc-abortion-surveillance-schwartz-hawley"
-  ],
-  [
-    "general",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/aug/08/cdc-abortion-surveillance-schwartz-hawley"
-  ],
-  [
-    "power",
+    "weekend",
     13,
-    "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html"
-  ],
-  [
-    "million",
-    13,
-    "https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html"
+    "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html"
   ],
   [
     "ocasio",
@@ -266,24 +241,49 @@
     "https://www.nytimes.com/2026/08/09/nyregion/nyc-alexandria-ocasio-cortez-freezing-eggs.html"
   ],
   [
-    "political",
+    "media",
     13,
-    "https://www.washingtonpost.com/nation/2026/08/08/why-childs-blue-bunny-doll-is-blowing-up-political-race-internet/"
+    "https://www.nytimes.com/2026/08/10/world/asia/malaysia-social-media-ban-delayed.html"
   ],
   [
-    "control",
+    "america",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/09/alexandria-ocasio-cortez-eggs-fertility"
+    "https://www.nytimes.com/2026/08/10/opinion/afghanistan-women-america.html"
   ],
   [
-    "office",
+    "died",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/09/the-secret-lives-of-theatre-workers-people-were-having-full-sex-in-the-stalls"
+    "https://www.washingtonpost.com/obituaries/2026/08/08/benjamin-alire-senz-prizewinning-latino-writer-with-ya-hit-dies-71/"
   ],
   [
-    "university",
+    "everything",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "fire",
+    13,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "abdul",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/10/centrist-democrats-abdul-el-sayed-michigan-2028-zohran-mamdani"
+  ],
+  [
+    "south",
+    13,
+    "https://www.theguardian.com/world/2026/aug/10/movie-paradise-how-malta-became-a-magnet-for-big-film-shoots"
+  ],
+  [
+    "games",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/10/a-new-start-after-60-slalom-skateboarding-darren-miles-world-championships"
+  ],
+  [
+    "author",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/09/democrats-class-wealth-gap"
   ],
   [
     "running",
@@ -291,9 +291,14 @@
     "https://www.theguardian.com/commentisfree/2026/aug/07/the-guardian-view-on-gianni-infantino-in-the-interests-of-the-game-he-professes-to-love-he-should-go"
   ],
   [
-    "climate",
+    "weekly",
     13,
-    "https://www.theguardian.com/environment/2026/aug/09/plastics-pollution-food-waste-landfill-recycling-research"
+    "https://www.theguardian.com/tv-and-radio/2026/aug/10/wholesome-animal-chat-that-will-melt-your-cynicism-best-podcasts-of-the-week"
+  ],
+  [
+    "sex",
+    13,
+    "https://www.theguardian.com/film/2026/aug/08/anthony-bourdain-tony-film"
   ],
   [
     "cortez",
@@ -301,78 +306,73 @@
     "https://www.nytimes.com/2026/08/09/nyregion/nyc-alexandria-ocasio-cortez-freezing-eggs.html"
   ],
   [
-    "democrats",
+    "europe",
     12,
-    "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html"
+    "https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html"
   ],
   [
-    "book",
+    "least",
     12,
-    "https://www.nytimes.com/2026/08/09/us/politics/democrat-huffman-humanist-religion-christianity.html"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "child",
+    "super",
     12,
-    "https://www.nytimes.com/2026/08/09/style/olivia-ferney-top-tier-travel.html"
+    "https://www.theguardian.com/commentisfree/2026/aug/10/centrist-democrats-abdul-el-sayed-michigan-2028-zohran-mamdani"
   ],
   [
-    "company",
+    "decade",
     12,
-    "https://www.nytimes.com/2026/08/09/business/kalshi-tarek-mansour-prediction-markets.html"
-  ],
-  [
-    "charged",
-    12,
-    "https://www.nytimes.com/2026/08/09/nyregion/new-york-harbor-boat-capsizes-dead.html"
-  ],
-  [
-    "america",
-    12,
-    "https://www.nytimes.com/2026/08/09/opinion/america-politics-blue-red-democrats-republicans.html"
-  ],
-  [
-    "died",
-    12,
-    "https://www.washingtonpost.com/obituaries/2026/08/08/benjamin-alire-senz-prizewinning-latino-writer-with-ya-hit-dies-71/"
-  ],
-  [
-    "loss",
-    12,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "past",
-    12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.theguardian.com/world/2026/aug/10/movie-paradise-how-malta-became-a-magnet-for-big-film-shoots"
   ],
   [
     "full",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/09/the-secret-lives-of-theatre-workers-people-were-having-full-sex-in-the-stalls"
+    "https://www.theguardian.com/music/2026/aug/10/wagner-marathon-bayreuth-ring-cycle-anniversary"
   ],
   [
-    "something",
+    "clear",
     12,
-    "https://www.theguardian.com/commentisfree/2026/aug/07/trump-scientific-research-universities"
+    "https://www.theguardian.com/world/live/2026/aug/10/ukraine-drones-russia-oil-facilities-europe-heat-drought-latest-updates-news"
   ],
   [
-    "games",
+    "started",
     12,
-    "https://www.theguardian.com/sport/2026/aug/09/where-are-ugandan-boxers-athletes-vanish-uk-sports-events"
+    "https://www.theguardian.com/us-news/2026/aug/09/us-wildfire-smoke-clean-air-clubs"
   ],
   [
-    "weekly",
+    "career",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/aug/08/screen-free-activities-kids"
+    "https://www.theguardian.com/books/2026/aug/10/john-berger-from-life-by-tom-overton-review-a-vibrant-biography-of-the-pioneering-critic"
   ],
   [
-    "chair",
+    "football",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/jul/26/best-camping-chairs"
+    "https://www.theguardian.com/commentisfree/2026/aug/09/football-team-curse-ted-lasso-mayo-birmingham-city"
   ],
   [
-    "inside",
+    "alexandria",
     11,
-    "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html"
+    "https://www.nytimes.com/2026/08/09/nyregion/nyc-alexandria-ocasio-cortez-freezing-eggs.html"
+  ],
+  [
+    "book",
+    11,
+    "https://www.nytimes.com/2026/08/09/us/politics/democrat-huffman-humanist-religion-christianity.html"
+  ],
+  [
+    "mother",
+    11,
+    "https://www.nytimes.com/2026/08/09/nyregion/new-york-harbor-boat-capsizes-dead.html"
+  ],
+  [
+    "arrested",
+    11,
+    "https://www.nytimes.com/2026/08/09/nyregion/new-york-harbor-boat-capsizes-dead.html"
+  ],
+  [
+    "country",
+    11,
+    "https://www.nytimes.com/2026/08/10/opinion/afghanistan-women-america.html"
   ]
 ];
