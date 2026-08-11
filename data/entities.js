@@ -2,21 +2,21 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Shrugs Off A.I.",
+      "name": "Ap Photo/Justin Rex Trump",
       "count": 40,
-      "url": "https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html",
-      "source": "NY Times"
+      "url": "https://thehill.com/newsletters/technology/6021464-trump-data-center-political-battle/",
+      "source": "The Hill"
     },
     {
-      "name": "Democratic Senate",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/08/10/us/politics/minnesota-senate-primary-flanagan-craig.html",
-      "source": "NY Times"
+      "name": "Michigan Senate",
+      "count": 22,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/10/centrist-democrats-abdul-el-sayed-michigan-2028-zohran-mamdani",
+      "source": "The Guardian"
     },
     {
       "name": "Ai",
-      "count": 16,
-      "url": "https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter",
+      "count": 18,
+      "url": "https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta",
       "source": "The Guardian"
     },
     {
@@ -26,110 +26,172 @@
       "source": "The Guardian"
     },
     {
-      "name": "Hamas",
-      "count": 9,
-      "url": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6",
-      "source": "Wall St. Journal"
-    },
-    {
       "name": "Meta",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/zuckerberg-yacht-boat-alaska",
+      "count": 12,
+      "url": "https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta",
       "source": "The Guardian"
     },
     {
+      "name": "N.C. Gop",
+      "count": 11,
+      "url": "https://www.nbcnews.com/politics/2026-election/north-carolina-gop-committee-jennifer-balkcom-replace-chuck-edwards-rcna591827",
+      "source": "NBC News"
+    },
+    {
+      "name": "The White House",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Guardian Europe",
-      "count": 8,
+      "count": 9,
       "url": "https://www.theguardian.com/commentisfree/2026/aug/10/animorphs-books-tv-series-optimism-catastrophe",
       "source": "The Guardian"
     },
     {
-      "name": "White House Counsel",
+      "name": "Noaa",
       "count": 7,
-      "url": "https://www.foxnews.com/politics/trump-announces-aide-step-white-house-counsel-post",
-      "source": "Fox News"
-    },
-    {
-      "name": "Cbs News'",
-      "count": 7,
-      "url": "https://www.cbsnews.com/video/why-netanyahu-rejected-a-trump-backed-gaza-peace-plan/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The White House",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/july-hottest-month-ever-recorded-heatwaves",
       "source": "The Guardian"
+    },
+    {
+      "name": "Nato",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html",
+      "source": "NY Times"
     }
   ],
   "PERSON": [
     {
-      "name": "Melania Trump",
-      "count": 25,
-      "url": "https://www.theguardian.com/us-news/2026/aug/09/abdul-el-sayed-michigan-senate-trump",
-      "source": "The Guardian"
-    },
-    {
       "name": "Donald Trump",
-      "count": 15,
+      "count": 38,
       "url": "https://www.theguardian.com/us-news/2026/aug/10/francesca-hong-democratic-socialist-wisconsin-governor-race",
       "source": "The Guardian"
     },
     {
-      "name": "Benjamin Netanyahu",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-      "source": "The Guardian"
+      "name": "Jackie The Eagle Entranced",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/08/10/us/jackie-bald-eagle-california-dead.html",
+      "source": "NY Times"
     },
     {
       "name": "Duane “Keffe D” Davis",
-      "count": 9,
+      "count": 11,
       "url": "https://www.theguardian.com/music/2026/aug/10/trial-former-gang-leader-tupac-shakur-murder-duane-keffe-d-davis",
       "source": "The Guardian"
     },
     {
-      "name": "Mark Zuckerberg",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/zuckerberg-yacht-boat-alaska",
-      "source": "The Guardian"
+      "name": "Zohran Mamdani",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/08/10/nyregion/mamdani-rabbis-meeting.html",
+      "source": "NY Times"
     },
     {
-      "name": "Abdul El-Sayed",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/aug/09/abdul-el-sayed-michigan-senate-trump",
+      "name": "Chuck Edwards",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/08/10/us/chuck-edwards-replacement-north-carolina.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "count": 9,
+      "url": "https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta",
       "source": "The Guardian"
     },
     {
       "name": "Tupac Shakur",
+      "count": 7,
+      "url": "https://www.washingtonpost.com/nation/2026/08/10/tupac-shakur-murder-what-know-trial-begins-decades-after-1996-shooting/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "count": 7,
+      "url": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jennifer Balkcom",
       "count": 6,
-      "url": "https://www.nytimes.com/2026/08/10/arts/music/tupac-shakur-murder-trial.html",
+      "url": "https://www.nytimes.com/2026/08/10/us/chuck-edwards-replacement-north-carolina.html",
       "source": "NY Times"
     },
     {
-      "name": "Odyssey",
+      "name": "Francesca Hong",
       "count": 6,
-      "url": "https://www.theguardian.com/environment/2026/aug/10/bootlace-worm-invertebrate-of-the-year-2026",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/francesca-hong-democratic-socialist-wisconsin-governor-race",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 57,
+      "url": "https://www.theguardian.com/us-news/video/2026/aug/10/rebecca-solnit-andrew-tate-trump-misogyny-stateside-podcast",
       "source": "The Guardian"
     },
     {
-      "name": "Ben Jones",
-      "count": 6,
-      "url": "https://www.foxnews.com/entertainment/ben-jones-dukes-hazzard-actor-former-congressman-dead-84",
-      "source": "Fox News"
+      "name": "Iran",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html",
+      "source": "NY Times"
     },
     {
-      "name": "Todd Blanche",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/todd-blanche-attorney-general-sworn-in",
+      "name": "U.S.",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/08/10/us/jackie-bald-eagle-california-dead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Northern Gaza",
+      "count": 13,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Colombia",
+      "count": 12,
+      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
       "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 10,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "New York City’S",
+      "count": 10,
+      "url": "https://www.theguardian.com/wellness/2026/aug/09/brini-maxwell-drag-queen",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A.",
+      "count": 9,
+      "url": "https://www.latimes.com/lifestyle/story/2026-08-10/mold-a-rama-returns-to-los-angeles-at-central-library",
+      "source": "LA Times"
+    },
+    {
+      "name": "Wisconsin",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/08/10/us/francesca-hong-positions-wisconsin-governor.html",
+      "source": "NY Times"
     }
   ],
   "EVENT": [
     {
-      "name": "The 2026 World Cup",
+      "name": "World Cup",
       "count": 4,
-      "url": "https://www.latimes.com/delos/story/2026-07-22/de-los-podcast-suzy-exposito-fidel-martinez-world-cup-mexico-latino-representation-hollywood",
-      "source": "LA Times"
+      "url": "https://www.theguardian.com/football/2026/aug/11/donald-trump-fifa-gianni-infantino",
+      "source": "The Guardian"
     },
     {
       "name": "Los Angeles Olympics",
@@ -144,16 +206,22 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Super Bowl",
+      "name": "Black Friday",
       "count": 2,
-      "url": "https://www.latimes.com/sports/rams/story/2026-08-09/davante-adams-rams-super-bowl-hopes",
-      "source": "LA Times"
+      "url": "https://www.foxnews.com/deals/what-to-buy-labor-day",
+      "source": "Fox News"
     },
     {
-      "name": "Iran Insists Strait",
+      "name": "La Jazz Festival",
+      "count": 2,
+      "url": "https://www.nbcnews.com/news/us-news/re-fyre-festival-l-jazz-festival-called-just-days-scheduled-kickoff-rcna591792",
+      "source": "NBC News"
+    },
+    {
+      "name": "Hurricane Helene",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/jennifer-balkcom-chuck-edwards-north-carolina-midterms",
+      "source": "The Guardian"
     },
     {
       "name": "The Korean War",
@@ -178,75 +246,7 @@
       "count": 1,
       "url": "https://www.theguardian.com/books/2026/aug/07/the-best-recent-science-fiction-fantasy-and-horror-review-roundup",
       "source": "The Guardian"
-    },
-    {
-      "name": "World Skate Games",
-      "count": 1,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/10/a-new-start-after-60-slalom-skateboarding-darren-miles-world-championships",
-      "source": "The Guardian"
     }
   ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 54,
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/us-wildfires-pacific-north-west",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 21,
-      "url": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.-Backed Gaza",
-      "count": 19,
-      "url": "https://www.cbsnews.com/video/why-netanyahu-rejected-a-trump-backed-gaza-peace-plan/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The Islamic Republic Of Iran",
-      "count": 18,
-      "url": "https://thehill.com/homenews/6020786-trump-demands-iran-compensation/",
-      "source": "The Hill"
-    },
-    {
-      "name": "California",
-      "count": 14,
-      "url": "https://www.theguardian.com/music/2026/aug/10/trial-former-gang-leader-tupac-shakur-murder-duane-keffe-d-davis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Colombia",
-      "count": 13,
-      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Michigan",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/aug/09/abdul-el-sayed-michigan-senate-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uk",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/10/poetry-boom-language-violence-chaos-odyssey-ukraine-gaza",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A.",
-      "count": 9,
-      "url": "https://www.latimes.com/lifestyle/story/2026-08-10/mold-a-rama-returns-to-los-angeles-at-central-library",
-      "source": "LA Times"
-    }
-  ],
-  "updated": "2026-08-10T19:55:53Z"
+  "updated": "2026-08-11T03:05:43Z"
 };

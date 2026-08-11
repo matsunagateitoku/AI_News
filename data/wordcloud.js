@@ -2,113 +2,98 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    85,
-    "https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html"
+    91,
+    "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html"
   ],
   [
     "president",
-    33,
-    "https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html"
+    38,
+    "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html"
   ],
   [
     "food",
     30,
-    "https://www.nytimes.com/2026/08/10/well/fda-gras-food-safety.html"
-  ],
-  [
-    "gaza",
-    26,
-    "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html"
+    "https://www.theguardian.com/us-news/2026/aug/10/fda-rfk-jr-food-manufacturer-loophole"
   ],
   [
     "senate",
+    27,
+    "https://www.theguardian.com/us-news/2026/aug/10/todd-blanche-attorney-general-sworn-in"
+  ],
+  [
+    "iran",
     25,
-    "https://www.nytimes.com/2026/08/10/us/politics/minnesota-senate-primary-flanagan-craig.html"
+    "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html"
+  ],
+  [
+    "york",
+    25,
+    "https://www.nytimes.com/2026/08/10/nyregion/mamdani-second-home-tax-ruling-nyc.html"
   ],
   [
     "democratic",
+    23,
+    "https://www.nytimes.com/2026/08/10/us/francesca-hong-positions-wisconsin-governor.html"
+  ],
+  [
+    "race",
+    23,
+    "https://www.washingtonpost.com/nation/2026/08/09/scientists-race-save-floridas-coral-reef-el-nio-heats-ocean/"
+  ],
+  [
+    "air",
+    23,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "primary",
     22,
     "https://www.nytimes.com/2026/08/10/us/francesca-hong-positions-wisconsin-governor.html"
   ],
   [
-    "primary",
+    "order",
     21,
-    "https://www.nytimes.com/2026/08/10/us/francesca-hong-positions-wisconsin-governor.html"
-  ],
-  [
-    "administration",
-    21,
-    "https://www.nytimes.com/2026/08/10/us/politics/minnesota-senate-primary-flanagan-craig.html"
-  ],
-  [
-    "don",
-    21,
-    "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html"
-  ],
-  [
-    "million",
-    21,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles"
   ],
   [
     "hear",
     21,
-    "https://www.theguardian.com/us-news/2026/aug/10/zuckerberg-yacht-boat-alaska"
+    "https://www.theguardian.com/business/2026/aug/10/gen-z-loud-budgeting-small-business-owners"
   ],
   [
-    "health",
+    "administration",
     20,
-    "https://www.theguardian.com/wellness/2026/aug/10/what-is-a-dxa-scan"
+    "https://www.nytimes.com/2026/08/10/us/politics/noncitizens-vote-crackdown.html"
   ],
   [
-    "water",
-    20,
-    "https://www.theguardian.com/world/2026/aug/10/indian-police-use-force-to-disperse-youth-protesters-calling-for-exam-overhaul"
-  ],
-  [
-    "race",
+    "fewer",
     19,
-    "https://www.nytimes.com/2026/08/10/us/politics/minnesota-senate-primary-flanagan-craig.html"
+    "https://www.nytimes.com/2026/08/10/briefing/colombia-earthquake-vaccines.html"
   ],
   [
-    "latest",
+    "donald",
     19,
-    "https://www.nytimes.com/2026/08/10/us/politics/minnesota-senate-primary-flanagan-craig.html"
+    "https://www.theguardian.com/us-news/2026/aug/10/francesca-hong-democratic-socialist-wisconsin-governor-race"
   ],
   [
     "party",
     19,
-    "https://www.nytimes.com/2026/08/10/us/politics/minnesota-senate-primary-flanagan-craig.html"
-  ],
-  [
-    "iran",
-    19,
-    "https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html"
-  ],
-  [
-    "air",
-    19,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "school",
-    19,
-    "https://www.theguardian.com/wellness/2026/aug/10/what-is-a-dxa-scan"
-  ],
-  [
-    "police",
-    18,
-    "https://www.nytimes.com/2026/08/10/well/fda-gras-food-safety.html"
-  ],
-  [
-    "york",
-    18,
-    "https://www.nytimes.com/2026/08/10/nyregion/nyc-boat-deadly-capsize.html"
-  ],
-  [
-    "donald",
-    18,
     "https://www.theguardian.com/us-news/2026/aug/10/francesca-hong-democratic-socialist-wisconsin-governor-race"
+  ],
+  [
+    "gaza",
+    18,
+    "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html"
+  ],
+  [
+    "colombia",
+    18,
+    "https://www.nytimes.com/2026/08/10/briefing/colombia-earthquake-vaccines.html"
+  ],
+  [
+    "vaccines",
+    18,
+    "https://www.nytimes.com/2026/08/10/briefing/colombia-earthquake-vaccines.html"
   ],
   [
     "filter",
@@ -116,39 +101,79 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/10/best-portable-coolers"
   ],
   [
-    "because",
-    18,
-    "https://www.theguardian.com/stage/2026/aug/11/john-cameron-mitchell-actor-performer-interview"
-  ],
-  [
     "buying",
-    17,
+    18,
     "https://www.theguardian.com/thefilter-us/2026/aug/10/best-portable-coolers"
   ],
   [
-    "feel",
-    17,
+    "don",
+    18,
     "https://www.theguardian.com/thefilter-us/2026/aug/10/best-portable-coolers"
+  ],
+  [
+    "media",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/aug/10/media-gadi-eisenkot-anti-netanyahu"
+  ],
+  [
+    "health",
+    18,
+    "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles"
+  ],
+  [
+    "country",
+    17,
+    "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html"
+  ],
+  [
+    "judge",
+    17,
+    "https://www.nytimes.com/2026/08/10/nyregion/mamdani-second-home-tax-ruling-nyc.html"
+  ],
+  [
+    "death",
+    17,
+    "https://www.nytimes.com/2026/08/10/world/americas/earthquake-colombia-cali.html"
+  ],
+  [
+    "political",
+    17,
+    "https://www.nytimes.com/2026/08/10/opinion/rob-sand-democrats-iowa.html"
+  ],
+  [
+    "vaccine",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles"
+  ],
+  [
+    "executive",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles"
+  ],
+  [
+    "school",
+    17,
+    "https://www.theguardian.com/wellness/2026/aug/10/what-is-a-dxa-scan"
+  ],
+  [
+    "killing",
+    16,
+    "https://www.nytimes.com/2026/08/10/world/americas/earthquake-colombia-cali.html"
+  ],
+  [
+    "family",
+    16,
+    "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-venezuela-brothers.html"
   ],
   [
     "died",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/aug/10/the-guardian-view-on-the-failed-gaza-peace-plan-trumps-hollow-claims-are-ignored-in-jerusalem"
+    16,
+    "https://www.nytimes.com/2026/08/10/nyregion/nyc-boat-federal-charges.html"
   ],
   [
-    "win",
+    "social",
     16,
-    "https://www.nytimes.com/2026/08/10/us/francesca-hong-positions-wisconsin-governor.html"
-  ],
-  [
-    "netanyahu",
-    16,
-    "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html"
-  ],
-  [
-    "israeli",
-    16,
-    "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html"
+    "https://www.nytimes.com/2026/08/09/style/single-dating-hobbies-hobbyamory.html"
   ],
   [
     "guide",
@@ -156,79 +181,99 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/10/best-portable-coolers"
   ],
   [
-    "fewer",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/aug/10/best-portable-coolers"
-  ],
-  [
-    "film",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli"
-  ],
-  [
-    "video",
-    16,
-    "https://www.theguardian.com/football/2026/aug/10/mexico-seal-place-at-2028-olympics-after-controversial-var-red-card-in-u-20-win-over-us"
-  ],
-  [
-    "trial",
-    15,
-    "https://www.nytimes.com/2026/08/10/arts/music/tupac-shakur-murder-trial.html"
-  ],
-  [
-    "death",
-    15,
-    "https://www.washingtonpost.com/nation/2026/08/10/tupac-shakur-murder-what-know-trial-begins-decades-after-1996-shooting/"
-  ],
-  [
     "season",
-    15,
+    16,
     "https://www.theguardian.com/us-news/2026/aug/10/us-wildfires-pacific-north-west"
   ],
   [
-    "series",
+    "court",
+    16,
+    "https://www.theguardian.com/sport/2026/aug/10/marketa-vondrousova-doping-ban-tennis-wada-mykhailo-mudryk-chelsea-fa-return-football"
+  ],
+  [
+    "mamdani",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/09/alexandria-ocasio-cortez-eggs-fertility"
+    "https://www.nytimes.com/2026/08/10/nyregion/mamdani-second-home-tax-ruling-nyc.html"
   ],
   [
-    "record",
+    "latest",
     15,
-    "https://www.theguardian.com/commentisfree/2026/aug/10/media-gadi-eisenkot-anti-netanyahu"
+    "https://www.nytimes.com/2026/08/10/briefing/colombia-earthquake-vaccines.html"
   ],
   [
-    "game",
+    "summer",
     15,
-    "https://www.theguardian.com/music/2026/aug/10/jazz-pianist-sullivan-fortner-leave-that-in-there-katrina-new-orleans"
+    "https://www.theguardian.com/film/2026/aug/10/sex-film-one-night-only-the-invite-camp-miasma"
   ],
   [
-    "general",
-    14,
-    "https://www.nytimes.com/2026/08/10/us/paxton-cell-tower-company-texas-senate.html"
+    "sex",
+    15,
+    "https://www.theguardian.com/film/2026/aug/10/sex-film-one-night-only-the-invite-camp-miasma"
   ],
   [
-    "america",
-    14,
-    "https://www.nytimes.com/2026/08/10/style/america-is-atomizing.html"
+    "meta",
+    15,
+    "https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta"
   ],
   [
-    "country",
-    14,
-    "https://www.nytimes.com/2026/08/10/magazine/shania-twain-gen-z.html"
+    "again",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli"
   ],
   [
-    "colombia",
-    14,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "states",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/aug/10/centrist-democrats-abdul-el-sayed-michigan-2028-zohran-mamdani"
   ],
   [
-    "already",
-    14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "water",
+    15,
+    "https://www.theguardian.com/global-development/gallery/2026/aug/10/mercury-pollution-in-the-colombian-amazon-in-pictures"
   ],
   [
-    "drug",
+    "rep",
+    15,
+    "https://www.foxnews.com/media/aoc-tries-laugh-off-crazy-woke-era-thing-past-conservatives-arent-amused"
+  ],
+  [
+    "released",
     14,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+    "https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html"
+  ],
+  [
+    "win",
+    14,
+    "https://www.nytimes.com/2026/08/10/us/francesca-hong-positions-wisconsin-governor.html"
+  ],
+  [
+    "north",
+    14,
+    "https://www.nytimes.com/2026/08/10/us/chuck-edwards-replacement-north-carolina.html"
+  ],
+  [
+    "sexual",
+    14,
+    "https://www.nytimes.com/2026/08/10/us/chuck-edwards-replacement-north-carolina.html"
+  ],
+  [
+    "mother",
+    14,
+    "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-venezuela-brothers.html"
+  ],
+  [
+    "million",
+    14,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "republicans",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/10/francesca-hong-democratic-socialist-wisconsin-governor-race"
+  ],
+  [
+    "case",
+    14,
+    "https://www.theguardian.com/us-news/video/2026/aug/10/rebecca-solnit-andrew-tate-trump-misogyny-stateside-podcast"
   ],
   [
     "weekly",
@@ -236,49 +281,64 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/10/best-portable-coolers"
   ],
   [
-    "sex",
+    "feel",
     14,
-    "https://www.theguardian.com/film/2026/aug/10/sex-film-one-night-only-the-invite-camp-miasma"
+    "https://www.theguardian.com/thefilter-us/2026/aug/10/best-portable-coolers"
   ],
   [
-    "human",
+    "post",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/10/july-hottest-month-ever-recorded-heatwaves"
+    "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return"
   ],
   [
-    "interest",
+    "company",
     14,
-    "https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter"
+    "https://www.theguardian.com/us-news/2026/aug/10/trump-media-company-loss"
   ],
   [
-    "something",
+    "film",
     14,
-    "https://www.theguardian.com/film/2026/aug/10/sam-neill-taika-waititi-hunt-for-the-wilderpeople-julian-dennison"
+    "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli"
   ],
   [
-    "john",
+    "because",
     14,
     "https://www.theguardian.com/stage/2026/aug/11/john-cameron-mitchell-actor-performer-interview"
   ],
   [
-    "united",
-    13,
-    "https://www.nytimes.com/2026/08/10/weather/heat-storms-midwest-northeast-us.html"
+    "michigan",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/aug/10/centrist-democrats-abdul-el-sayed-michigan-2028-zohran-mamdani"
   ],
   [
-    "states",
-    13,
-    "https://www.nytimes.com/2026/08/10/weather/heat-storms-midwest-northeast-us.html"
+    "game",
+    14,
+    "https://www.theguardian.com/music/2026/aug/10/jazz-pianist-sullivan-fortner-leave-that-in-there-katrina-new-orleans"
   ],
   [
-    "medical",
+    "israel",
     13,
-    "https://www.nytimes.com/2026/08/10/opinion/medical-cures-trump-patients.html"
+    "https://www.nytimes.com/2026/08/10/nyregion/mamdani-rabbis-meeting.html"
   ],
   [
-    "place",
+    "boat",
     13,
-    "https://www.washingtonpost.com/nation/2026/08/10/portlands-mall-rink-was-this-couples-happy-place-they-were-its-last-skaters/"
+    "https://www.nytimes.com/2026/08/10/nyregion/nyc-boat-deadly-capsize.html"
+  ],
+  [
+    "already",
+    13,
+    "https://www.nytimes.com/2026/08/10/us/politics/bernie-sanders-ai-moratorum.html"
+  ],
+  [
+    "jackie",
+    13,
+    "https://www.nytimes.com/2026/08/10/us/jackie-bald-eagle-california-dead.html"
+  ],
+  [
+    "california",
+    13,
+    "https://www.nytimes.com/2026/08/10/us/jackie-bald-eagle-california-dead.html"
   ],
   [
     "backed",
@@ -286,93 +346,33 @@
     "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "peace",
+    "record",
     13,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.theguardian.com/commentisfree/2026/aug/10/media-gadi-eisenkot-anti-netanyahu"
   ],
   [
-    "family",
+    "john",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/10/best-portable-coolers"
+    "https://www.theguardian.com/stage/2026/aug/11/john-cameron-mitchell-actor-performer-interview"
   ],
   [
-    "order",
+    "united",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles"
+    "https://www.theguardian.com/sport/2026/aug/10/cycling-tour-de-france-femmes-demi-vollering-tadej-pogacar"
   ],
   [
-    "earthquake",
+    "festival",
     13,
-    "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news"
+    "https://www.theguardian.com/film/2026/aug/10/rl-stines-pumpkinhead-review-goosebumps-author"
   ],
   [
-    "california",
-    13,
-    "https://www.theguardian.com/music/2026/aug/10/trial-former-gang-leader-tupac-shakur-murder-duane-keffe-d-davis"
+    "military",
+    12,
+    "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html"
   ],
   [
-    "sayed",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/09/abdul-el-sayed-michigan-senate-trump"
-  ],
-  [
-    "michigan",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/09/abdul-el-sayed-michigan-senate-trump"
-  ],
-  [
-    "always",
-    13,
-    "https://www.theguardian.com/film/2026/aug/10/sam-neill-taika-waititi-hunt-for-the-wilderpeople-julian-dennison"
-  ],
-  [
-    "attorney",
+    "general",
     12,
     "https://www.nytimes.com/2026/08/10/us/paxton-cell-tower-company-texas-senate.html"
-  ],
-  [
-    "love",
-    12,
-    "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html"
-  ],
-  [
-    "murder",
-    12,
-    "https://www.nytimes.com/2026/08/10/arts/music/tupac-shakur-murder-trial.html"
-  ],
-  [
-    "social",
-    12,
-    "https://www.nytimes.com/2026/08/09/style/single-dating-hobbies-hobbyamory.html"
-  ],
-  [
-    "hard",
-    12,
-    "https://www.nytimes.com/2026/08/10/opinion/medical-cures-trump-patients.html"
-  ],
-  [
-    "nearly",
-    12,
-    "https://www.washingtonpost.com/nation/2026/08/10/tupac-shakur-murder-what-know-trial-begins-decades-after-1996-shooting/"
-  ],
-  [
-    "israel",
-    12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "inside",
-    12,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "finally",
-    12,
-    "https://www.theguardian.com/music/2026/aug/10/trial-former-gang-leader-tupac-shakur-murder-duane-keffe-d-davis"
-  ],
-  [
-    "different",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/09/abdul-el-sayed-michigan-senate-trump"
   ]
 ];
