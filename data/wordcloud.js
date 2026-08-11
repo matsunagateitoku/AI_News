@@ -2,188 +2,243 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    66,
+    68,
     "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html"
-  ],
-  [
-    "president",
-    38,
-    "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html"
-  ],
-  [
-    "iran",
-    33,
-    "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html"
-  ],
-  [
-    "primary",
-    29,
-    "https://www.nytimes.com/video/insider/100000011077518/how-were-covering-an-identity-crisis-in-politics.html"
-  ],
-  [
-    "york",
-    26,
-    "https://www.nytimes.com/video/insider/100000011077518/how-were-covering-an-identity-crisis-in-politics.html"
   ],
   [
     "case",
-    25,
-    "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html"
+    35,
+    "https://www.theguardian.com/us-news/2026/aug/11/samuel-alito-oil-gas-assets-supreme-court-analysis"
   ],
   [
-    "democratic",
-    25,
-    "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html"
+    "york",
+    30,
+    "https://www.nytimes.com/2026/08/11/nyregion/trump-lawsuit-new-york-tuition-immigrants.html"
   ],
   [
     "court",
-    22,
-    "https://www.nytimes.com/2026/08/11/world/americas/cuban-mafia-quintana-roo.html"
-  ],
-  [
-    "summer",
-    22,
-    "https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html"
+    29,
+    "https://www.theguardian.com/us-news/2026/aug/11/samuel-alito-oil-gas-assets-supreme-court-analysis"
   ],
   [
     "death",
-    21,
-    "https://www.nytimes.com/2026/08/10/world/americas/earthquake-colombia-cali.html"
+    27,
+    "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html"
   ],
   [
-    "water",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/aug/11/drought-water-climate-crisis"
-  ],
-  [
-    "country",
-    20,
+    "president",
+    26,
     "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html"
   ],
   [
-    "war",
-    20,
-    "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html"
-  ],
-  [
-    "race",
-    20,
-    "https://www.theguardian.com/us-news/2026/aug/11/wisconsin-primary-election-governor-race"
-  ],
-  [
-    "food",
-    19,
-    "https://www.nytimes.com/2026/08/11/podcasts/the-headlines/evacuate-trump-fda-food-safety-loophole.html"
-  ],
-  [
-    "senate",
-    18,
+    "democratic",
+    26,
     "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html"
   ],
   [
-    "colombia",
-    18,
-    "https://www.nytimes.com/2026/08/10/world/americas/earthquake-colombia-cali.html"
+    "primary",
+    22,
+    "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html"
   ],
   [
-    "record",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/aug/11/drought-water-climate-crisis"
+    "school",
+    22,
+    "https://www.theguardian.com/thefilter-us/2026/aug/11/papier-daily-planner"
   ],
   [
-    "family",
-    17,
-    "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html"
+    "summer",
+    20,
+    "https://www.theguardian.com/news/2026/aug/11/the-great-silence-why-havent-we-found-any-aliens-yet"
+  ],
+  [
+    "judge",
+    20,
+    "https://www.theguardian.com/us-news/2026/aug/11/luigi-mangione-court-appearance-new-york"
+  ],
+  [
+    "film",
+    19,
+    "https://www.theguardian.com/food/2026/aug/11/the-myth-of-anthony-bourdain-how-the-bad-boy-chef-became-a-hero-to-boozehounds-and-bullies"
+  ],
+  [
+    "country",
+    18,
+    "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html"
   ],
   [
     "trial",
-    17,
+    18,
     "https://www.washingtonpost.com/nation/2026/08/10/tupac-shakur-murder-what-know-trial-begins-decades-after-1996-shooting/"
   ],
   [
-    "latest",
+    "released",
+    18,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "office",
+    18,
+    "https://www.theguardian.com/fashion/ng-interactive/2026/aug/11/appearance-jobs-work-social-media"
+  ],
+  [
+    "family",
+    18,
+    "https://www.theguardian.com/world/2026/aug/11/russia-frees-ex-us-marine-robert-gilman"
+  ],
+  [
+    "running",
+    18,
+    "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa"
+  ],
+  [
+    "eclipse",
+    18,
+    "https://www.theguardian.com/travel/2026/aug/11/hotel-prices-europe-total-solar-eclipse-iceland-spain-bookings"
+  ],
+  [
+    "war",
     17,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html"
+  ],
+  [
+    "race",
+    17,
+    "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html"
+  ],
+  [
+    "donald",
+    17,
+    "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates"
   ],
   [
     "game",
     17,
-    "https://www.theguardian.com/sport/2026/aug/11/audley-harrison-fighting-the-system-olympic-gold-boxing-interview"
+    "https://www.theguardian.com/sport/2026/aug/11/wnba-biggest-rivalries-friendships"
+  ],
+  [
+    "iran",
+    16,
+    "https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html"
+  ],
+  [
+    "states",
+    16,
+    "https://www.nytimes.com/2026/08/11/podcasts/the-daily/iran-us-missile-stockpile-trump.html"
+  ],
+  [
+    "wisconsin",
+    16,
+    "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html"
   ],
   [
     "power",
     16,
-    "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html"
+    "https://www.nytimes.com/2026/01/06/well/cdc-vaccine-schedule-recommendations.html"
   ],
   [
-    "crisis",
+    "parents",
     16,
-    "https://www.nytimes.com/video/insider/100000011077518/how-were-covering-an-identity-crisis-in-politics.html"
+    "https://www.nytimes.com/2026/08/11/well/family/children-safety-independence-laws.html"
   ],
   [
-    "near",
+    "love",
     16,
-    "https://www.nytimes.com/2026/08/10/world/americas/colombia-quake-maps.html"
+    "https://www.washingtonpost.com/nation/2026/08/11/jackie-bald-eagle-who-became-live-stream-star-dies-after-illness/"
   ],
   [
-    "running",
+    "died",
     16,
-    "https://www.theguardian.com/artanddesign/gallery/2026/aug/11/worlds-longest-running-photography-exhibition-in-pictures-royal-photographic-society"
+    "https://www.theguardian.com/us-news/2026/aug/11/record-breaking-climber-jacob-whisenant-dies"
   ],
   [
-    "military",
-    15,
-    "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html"
+    "human",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/11/human-rights-groups-trump-lawsuit-icc-sanctions"
   ],
   [
-    "states",
-    15,
-    "https://www.nytimes.com/2026/08/11/world/americas/cuban-mafia-quintana-roo.html"
+    "dead",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/aug/11/trump-wrecking-ball"
   ],
   [
-    "earthquake",
-    15,
-    "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html"
+    "food",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/aug/11/second-baby-parenting-food-teething-poos"
   ],
   [
-    "order",
+    "michigan",
     15,
-    "https://www.theguardian.com/news/2026/aug/11/the-great-silence-why-havent-we-found-any-aliens-yet"
+    "https://www.nytimes.com/2026/08/11/us/university-michigan-grades-freshmen-pass-fail.html"
+  ],
+  [
+    "colombia",
+    15,
+    "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html"
+  ],
+  [
+    "capital",
+    15,
+    "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates"
+  ],
+  [
+    "center",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/11/human-rights-groups-trump-lawsuit-icc-sanctions"
+  ],
+  [
+    "hong",
+    15,
+    "https://www.foxnews.com/media/wisconsin-democratic-chair-dodges-francesca-hongs-thanksgiving-remarks-tiffany-campaign-sounds-alarm"
   ],
   [
     "health",
-    15,
-    "https://www.theguardian.com/science/2026/aug/11/mummified-human-remains-trade-health-warning-curse"
+    14,
+    "https://www.nytimes.com/2026/08/11/us/university-michigan-grades-freshmen-pass-fail.html"
   ],
   [
-    "school",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/aug/11/tuskegee-university-bans-bonnets-durags"
+    "students",
+    14,
+    "https://www.nytimes.com/2026/08/11/us/university-michigan-grades-freshmen-pass-fail.html"
   ],
   [
-    "south",
+    "senate",
     14,
     "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html"
   ],
   [
-    "love",
+    "order",
     14,
-    "https://www.nytimes.com/2026/08/11/magazine/founding-fathers-ai-podcasters.html"
+    "https://www.nytimes.com/2026/01/06/well/cdc-vaccine-schedule-recommendations.html"
   ],
   [
-    "america",
+    "car",
     14,
-    "https://www.nytimes.com/2026/08/11/opinion/dan-osborn-nebraska-independent-democrats.html"
+    "https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html"
   ],
   [
-    "late",
+    "latest",
     14,
-    "https://www.nytimes.com/2026/08/11/arts/television/late-night-trump-hair.html"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "mother",
+    "american",
     14,
-    "https://www.theguardian.com/sport/2026/aug/11/does-sophie-cunningham-benefit-from-white-privilege-of-course-she-does"
+    "https://www.theguardian.com/fashion/ng-interactive/2026/aug/11/appearance-jobs-work-social-media"
+  ],
+  [
+    "don",
+    14,
+    "https://www.theguardian.com/news/2026/aug/11/the-great-silence-why-havent-we-found-any-aliens-yet"
+  ],
+  [
+    "police",
+    14,
+    "https://www.theguardian.com/world/2026/aug/11/russia-frees-ex-us-marine-robert-gilman"
+  ],
+  [
+    "series",
+    14,
+    "https://www.theguardian.com/film/2026/aug/12/michael-mann-miami-vice-reboot-film"
   ],
   [
     "sex",
@@ -191,54 +246,24 @@
     "https://www.theguardian.com/film/2026/aug/10/sex-film-one-night-only-the-invite-camp-miasma"
   ],
   [
-    "released",
+    "military",
     13,
-    "https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html"
+    "https://www.nytimes.com/2026/08/11/podcasts/the-daily/iran-us-missile-stockpile-trump.html"
   ],
   [
-    "wisconsin",
+    "university",
     13,
-    "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html"
+    "https://www.nytimes.com/2026/08/11/us/university-michigan-grades-freshmen-pass-fail.html"
   ],
   [
-    "governor",
+    "political",
     13,
-    "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html"
+    "https://www.nytimes.com/2026/08/11/arts/design/bayeux-tapestry-british-museum.html"
   ],
   [
-    "parents",
+    "social",
     13,
-    "https://www.nytimes.com/2026/08/11/well/family/children-safety-independence-laws.html"
-  ],
-  [
-    "gaza",
-    13,
-    "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html"
-  ],
-  [
-    "far",
-    13,
-    "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html"
-  ],
-  [
-    "car",
-    13,
-    "https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html"
-  ],
-  [
-    "experts",
-    13,
-    "https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html"
-  ],
-  [
-    "ago",
-    13,
-    "https://www.nytimes.com/2026/08/11/business/general-motors-mark-reuss.html"
-  ],
-  [
-    "media",
-    13,
-    "https://www.nytimes.com/2026/08/11/opinion/ezra-klein-podcast-ross-douthat.html"
+    "https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html"
   ],
   [
     "ice",
@@ -246,89 +271,74 @@
     "https://www.washingtonpost.com/nation/2026/08/10/portlands-mall-rink-was-this-couples-happy-place-they-were-its-last-skaters/"
   ],
   [
-    "don",
-    13,
-    "https://www.theguardian.com/news/2026/aug/11/the-great-silence-why-havent-we-found-any-aliens-yet"
-  ],
-  [
-    "office",
-    13,
-    "https://www.theguardian.com/fashion/ng-interactive/2026/aug/11/appearance-jobs-work-social-media"
-  ],
-  [
-    "company",
+    "feel",
     13,
     "https://www.theguardian.com/film/2026/aug/11/whatever-it-takes-documentary-ebay-harassment-scandal"
   ],
   [
-    "donald",
+    "video",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/11/pete-hegseth-pentagon-picks-trump-family-business"
+    "https://www.theguardian.com/us-news/video/2026/aug/11/trump-secretly-switched-planes-via-catering-truck-amid-iran-threat-deconstructed-video"
+  ],
+  [
+    "child",
+    13,
+    "https://www.theguardian.com/global-development/ng-interactive/2026/aug/11/day-in-the-life-of-12-afghanistan-women-taliban"
   ],
   [
     "buying",
     13,
-    "https://www.theguardian.com/science/2026/aug/11/mummified-human-remains-trade-health-warning-curse"
-  ],
-  [
-    "police",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/11/baltimore-police-false-traffic-stop-reports"
-  ],
-  [
-    "charges",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/11/baltimore-police-false-traffic-stop-reports"
+    "https://www.theguardian.com/thefilter-us/2026/aug/11/papier-daily-planner"
   ],
   [
     "shoes",
     13,
-    "https://www.theguardian.com/global-development/2026/aug/11/health-disease-polio-vaccination-india-immunisation-women-remote-children-kashmir"
+    "https://www.theguardian.com/commentisfree/2026/aug/11/tuskegee-university-bans-bonnets-durags"
   ],
   [
-    "something",
-    13,
-    "https://www.theguardian.com/film/2026/aug/11/love-me-love-my-bruised-ego-what-the-narcissist-artist-film-tells-us-about-the-fear-of-ageing"
-  ],
-  [
-    "review",
+    "travel",
     12,
-    "https://www.nytimes.com/2026/08/11/us/politics/dennis-kirk-trump-interior-reflecting-pool-project-2025.html"
+    "https://www.nytimes.com/2026/08/11/world/americas/presidents-secret-flights-trump-turkey.html"
   ],
   [
-    "became",
+    "system",
     12,
-    "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html"
+    "https://www.nytimes.com/2026/08/11/well/family/children-safety-independence-laws.html"
   ],
   [
-    "united",
+    "service",
     12,
-    "https://www.nytimes.com/2026/08/11/world/americas/cuban-mafia-quintana-roo.html"
+    "https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html"
   ],
   [
-    "killing",
+    "crisis",
     12,
-    "https://www.nytimes.com/2026/08/10/world/americas/earthquake-colombia-cali.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "air",
+    "fire",
     12,
-    "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "decades",
+    "though",
     12,
-    "https://www.nytimes.com/2026/08/11/business/general-motors-mark-reuss.html"
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "million",
+    "water",
     12,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.theguardian.com/commentisfree/2026/aug/11/drought-water-climate-crisis"
   ],
   [
-    "inside",
+    "fashion",
     12,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.theguardian.com/fashion/ng-interactive/2026/aug/11/appearance-jobs-work-social-media"
+  ],
+  [
+    "today",
+    12,
+    "https://www.theguardian.com/food/2026/aug/11/the-myth-of-anthony-bourdain-how-the-bad-boy-chef-became-a-hero-to-boozehounds-and-bullies"
   ],
   [
     "always",
@@ -336,43 +346,33 @@
     "https://www.theguardian.com/news/2026/aug/11/the-great-silence-why-havent-we-found-any-aliens-yet"
   ],
   [
-    "film",
+    "charges",
     12,
-    "https://www.theguardian.com/food/2026/aug/11/the-myth-of-anthony-bourdain-how-the-bad-boy-chef-became-a-hero-to-boozehounds-and-bullies"
+    "https://www.theguardian.com/us-news/2026/aug/11/reflecting-pool-david-hearn-doj"
   ],
   [
-    "threat",
+    "weekly",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return"
+    "https://www.theguardian.com/thefilter-us/2026/aug/11/papier-daily-planner"
   ],
   [
-    "human",
+    "guide",
     12,
-    "https://www.theguardian.com/science/2026/aug/11/mummified-human-remains-trade-health-warning-curse"
+    "https://www.theguardian.com/thefilter-us/2026/aug/11/papier-daily-planner"
   ],
   [
-    "style",
+    "green",
     12,
-    "https://www.theguardian.com/stage/ng-interactive/2026/aug/11/isaac-mizrahi-fashion-unzipped"
+    "https://www.theguardian.com/us-news/2026/aug/11/driver-sound-barrier-land-speed-record"
   ],
   [
-    "social",
+    "francesca",
     12,
-    "https://www.theguardian.com/commentisfree/2026/aug/11/tuskegee-university-bans-bonnets-durags"
+    "https://www.foxnews.com/media/wisconsin-democratic-chair-dodges-francesca-hongs-thanksgiving-remarks-tiffany-campaign-sounds-alarm"
   ],
   [
-    "hear",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/11/openai-anthropic-google-deepmind-letter"
-  ],
-  [
-    "judge",
-    12,
-    "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates"
-  ],
-  [
-    "interest",
-    12,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/09/monsters-of-god-hbo-max-documentary"
+    "minnesota",
+    11,
+    "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html"
   ]
 ];
