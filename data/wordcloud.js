@@ -2,53 +2,63 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "primary",
-    57,
-    "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates"
-  ],
-  [
-    "trump",
-    56,
-    "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html"
+    83,
+    "https://www.nytimes.com/2026/08/11/us/politics/minnesota-democratic-senate-primary-flanagan-craig.html"
   ],
   [
     "democratic",
+    61,
+    "https://www.nytimes.com/2026/08/11/us/politics/minnesota-democratic-senate-primary-flanagan-craig.html"
+  ],
+  [
+    "trump",
+    59,
+    "https://www.nytimes.com/2026/08/11/us/elections/minnesota-governor-republican-demuth.html"
+  ],
+  [
+    "minnesota",
     37,
-    "https://www.nytimes.com/2026/08/11/opinion/abdul-el-sayed-michigan-jews-israel-mamdani-aipac.html"
+    "https://www.nytimes.com/2026/08/11/us/politics/minnesota-democratic-senate-primary-flanagan-craig.html"
+  ],
+  [
+    "senate",
+    34,
+    "https://www.nytimes.com/2026/08/11/us/politics/minnesota-democratic-senate-primary-flanagan-craig.html"
   ],
   [
     "president",
     32,
-    "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html"
+    "https://www.nytimes.com/2026/08/11/us/elections/minnesota-governor-republican-demuth.html"
+  ],
+  [
+    "governor",
+    28,
+    "https://www.nytimes.com/2026/08/11/us/politics/minnesota-democratic-senate-primary-flanagan-craig.html"
   ],
   [
     "rep",
-    31,
+    27,
     "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy"
   ],
   [
+    "race",
+    25,
+    "https://www.theguardian.com/us-news/2026/aug/11/minnesota-peggy-flanagan-wins-primary"
+  ],
+  [
+    "wisconsin",
+    25,
+    "https://www.theguardian.com/sport/2026/aug/11/tony-romo-cbs-future-owi-arrest-david-berson-jj-watt"
+  ],
+  [
     "gop",
-    29,
+    24,
     "https://www.latimes.com/opinion/story/2026-08-11/gop-best-party-conservatives"
   ],
   [
-    "power",
+    "progressive",
     23,
-    "https://www.theguardian.com/fashion/ng-interactive/2026/aug/11/appearance-jobs-work-social-media"
-  ],
-  [
-    "race",
-    23,
-    "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates"
-  ],
-  [
-    "court",
-    23,
-    "https://www.theguardian.com/us-news/2026/aug/11/samuel-alito-oil-gas-assets-supreme-court-analysis"
-  ],
-  [
-    "district",
-    23,
-    "https://www.theguardian.com/global-development/2026/aug/11/health-disease-polio-vaccination-india-immunisation-women-remote-children-kashmir"
+    "https://www.nytimes.com/2026/08/11/us/politics/minnesota-democratic-senate-primary-flanagan-craig.html"
   ],
   [
     "war",
@@ -56,124 +66,159 @@
     "https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html"
   ],
   [
-    "school",
+    "projects",
     22,
-    "https://www.theguardian.com/thefilter-us/2026/aug/11/papier-daily-planner"
+    "https://www.washingtonpost.com/nation/2026/08/11/rural-texas-data-center-opposition-is-scrambling-conservative-orthodoxy/"
   ],
   [
-    "senate",
+    "party",
     21,
-    "https://www.nytimes.com/2026/08/11/us/politics/darline-graham-runoff-south-carolina.html"
+    "https://www.nytimes.com/2026/08/11/nyregion/nyc-capsized-boat-passengers-help.html"
   ],
   [
     "south",
     21,
-    "https://www.nytimes.com/2026/08/11/us/politics/darline-graham-runoff-south-carolina.html"
+    "https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say"
   ],
   [
-    "york",
-    21,
-    "https://www.nytimes.com/2026/08/11/nyregion/pied-a-terre-tax-mamdani.html"
+    "republican",
+    20,
+    "https://www.nytimes.com/2026/08/11/us/elections/minnesota-governor-republican-demuth.html"
   ],
   [
-    "death",
-    21,
-    "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html"
-  ],
-  [
-    "summer",
-    21,
-    "https://www.theguardian.com/news/2026/aug/11/the-great-silence-why-havent-we-found-any-aliens-yet"
+    "running",
+    20,
+    "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html"
   ],
   [
     "film",
     20,
-    "https://www.theguardian.com/film/2026/aug/12/ai-boyfriend-dating-chinese-women-replica-miff-documentary"
+    "https://www.theguardian.com/film/2026/aug/12/bruce-dern-northbound-hitchcock-gandhi-edinburgh"
   ],
   [
-    "judge",
+    "power",
+    20,
+    "https://www.theguardian.com/fashion/ng-interactive/2026/aug/11/appearance-jobs-work-social-media"
+  ],
+  [
+    "hong",
+    20,
+    "https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong"
+  ],
+  [
+    "wins",
     19,
-    "https://www.nytimes.com/2026/08/11/nyregion/pied-a-terre-tax-mamdani.html"
+    "https://www.nytimes.com/2026/08/11/us/politics/minnesota-democratic-senate-primary-flanagan-craig.html"
   ],
   [
-    "ice",
+    "sen",
     19,
-    "https://www.washingtonpost.com/nation/2026/08/10/portlands-mall-rink-was-this-couples-happy-place-they-were-its-last-skaters/"
+    "https://www.npr.org/2026/08/11/nx-s1-5928394/2026-minnesota-governor-primary-election-lisa-demuth-mike-lindell"
   ],
   [
-    "states",
+    "iran",
     18,
-    "https://www.nytimes.com/2026/08/11/business/media/david-ellison-hollywood-paramount-warner-bros.html"
+    "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-switch.html"
   ],
   [
     "election",
     18,
-    "https://www.theguardian.com/commentisfree/2026/aug/11/the-guardian-view-on-ai-money-in-us-politics-not-the-way-to-hold-an-urgent-democratic-debate"
+    "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html"
   ],
   [
-    "graham",
-    17,
-    "https://www.nytimes.com/2026/08/11/us/politics/darline-graham-runoff-south-carolina.html"
+    "david",
+    18,
+    "https://www.nytimes.com/2026/08/11/business/media/david-ellison-hollywood-paramount-warner-bros.html"
   ],
   [
     "country",
-    17,
+    18,
     "https://www.nytimes.com/2026/08/11/opinion/dan-osborn-nebraska-independent-democrats.html"
   ],
   [
-    "order",
+    "ice",
+    18,
+    "https://www.washingtonpost.com/nation/2026/08/10/portlands-mall-rink-was-this-couples-happy-place-they-were-its-last-skaters/"
+  ],
+  [
+    "summer",
+    18,
+    "https://www.theguardian.com/world/2026/aug/12/europe-worlds-fastest-warming-continent-climate-crisis-explainer"
+  ],
+  [
+    "don",
+    18,
+    "https://www.theguardian.com/film/2026/aug/12/bruce-dern-northbound-hitchcock-gandhi-edinburgh"
+  ],
+  [
+    "court",
+    18,
+    "https://www.theguardian.com/us-news/2026/aug/11/samuel-alito-oil-gas-assets-supreme-court-analysis"
+  ],
+  [
+    "sex",
+    18,
+    "https://www.theguardian.com/australia-news/2026/aug/12/female-body-suitcase-sex-doll-nsw-police-explained"
+  ],
+  [
+    "school",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/12/a-moment-that-changed-me-stammer-scatman-john"
+  ],
+  [
+    "district",
+    18,
+    "https://www.theguardian.com/us-news/2026/aug/11/reflecting-pool-david-hearn-doj"
+  ],
+  [
+    "flanagan",
     17,
-    "https://www.theguardian.com/society/2026/aug/11/what-effect-will-donald-trumps-childhood-vaccine-recommendations-have-in-the-us-and-beyond"
+    "https://www.nytimes.com/2026/08/11/us/politics/minnesota-democratic-senate-primary-flanagan-craig.html"
+  ],
+  [
+    "latest",
+    17,
+    "https://www.nytimes.com/2026/08/11/us/politics/minnesota-democratic-senate-primary-flanagan-craig.html"
   ],
   [
     "human",
     17,
-    "https://www.theguardian.com/film/2026/aug/12/ai-boyfriend-dating-chinese-women-replica-miff-documentary"
+    "https://www.theguardian.com/australia-news/2026/aug/12/female-body-suitcase-sex-doll-nsw-police-explained"
   ],
   [
-    "office",
-    17,
-    "https://www.theguardian.com/fashion/ng-interactive/2026/aug/11/appearance-jobs-work-social-media"
-  ],
-  [
-    "wisconsin",
-    17,
-    "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates"
-  ],
-  [
-    "service",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/11/record-breaking-climber-jacob-whisenant-dies"
-  ],
-  [
-    "carolina",
+    "military",
     16,
-    "https://www.nytimes.com/2026/08/11/us/politics/darline-graham-runoff-south-carolina.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "north",
+    "nbc",
     16,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.theguardian.com/sport/2026/aug/11/apple-tv-eyes-us-broadcast-rights-to-the-open-as-foray-into-sports-broadcasting-continues"
   ],
   [
     "russia",
     16,
-    "https://www.theguardian.com/world/2026/aug/11/russia-frees-ex-us-marine-robert-gilman"
+    "https://www.theguardian.com/world/2026/aug/12/ukraine-war-briefing-north-korean-missiles-attack-zaporizhzhia"
   ],
   [
-    "sex",
+    "crowley",
     16,
-    "https://www.theguardian.com/environment/2026/aug/12/male-redback-spiders-invite-cannibalism-through-a-self-sacrificial-somersault-during-sex-but-why"
+    "https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong"
   ],
   [
-    "sen",
-    16,
-    "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy"
-  ],
-  [
-    "republican",
+    "threat",
     15,
-    "https://www.nytimes.com/2026/08/11/us/politics/darline-graham-runoff-south-carolina.html"
+    "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html"
+  ],
+  [
+    "states",
+    15,
+    "https://www.nytimes.com/2026/08/11/us/politics/trump-iran-threat-air-force-one.html"
+  ],
+  [
+    "york",
+    15,
+    "https://www.nytimes.com/2026/08/11/nyregion/pied-a-terre-tax-mamdani.html"
   ],
   [
     "health",
@@ -181,44 +226,24 @@
     "https://www.nytimes.com/2026/08/11/us/university-michigan-grades-freshmen-pass-fail.html"
   ],
   [
-    "party",
+    "death",
     15,
-    "https://www.nytimes.com/2026/08/11/nyregion/nyc-capsized-boat-passengers-help.html"
+    "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html"
   ],
   [
-    "love",
-    15,
-    "https://www.washingtonpost.com/nation/2026/08/11/jackie-bald-eagle-who-became-live-stream-star-dies-after-illness/"
-  ],
-  [
-    "military",
-    15,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "million",
+    "backed",
     15,
     "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "latest",
-    15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
     "john",
     15,
-    "https://www.theguardian.com/fashion/ng-interactive/2026/aug/11/appearance-jobs-work-social-media"
+    "https://www.theguardian.com/film/2026/aug/12/bruce-dern-northbound-hitchcock-gandhi-edinburgh"
   ],
   [
-    "minnesota",
+    "series",
     15,
-    "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates"
-  ],
-  [
-    "don",
-    15,
-    "https://www.theguardian.com/news/2026/aug/11/the-great-silence-why-havent-we-found-any-aliens-yet"
+    "https://www.theguardian.com/books/2026/aug/12/a-history-of-the-novel-in-britain-by-philip-hensher-review-a-masterpiece-of-criticism"
   ],
   [
     "food",
@@ -226,19 +251,19 @@
     "https://www.theguardian.com/commentisfree/2026/aug/11/second-baby-parenting-food-teething-poos"
   ],
   [
-    "family",
+    "cbs",
     15,
-    "https://www.theguardian.com/world/2026/aug/11/russia-frees-ex-us-marine-robert-gilman"
+    "https://www.theguardian.com/sport/2026/aug/11/tony-romo-cbs-future-owi-arrest-david-berson-jj-watt"
   ],
   [
-    "series",
+    "graham",
     15,
-    "https://www.theguardian.com/film/2026/aug/12/michael-mann-miami-vice-reboot-film"
+    "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy"
   ],
   [
-    "university",
+    "american",
     14,
-    "https://www.nytimes.com/2026/08/11/us/university-michigan-grades-freshmen-pass-fail.html"
+    "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-switch.html"
   ],
   [
     "california",
@@ -246,9 +271,14 @@
     "https://www.nytimes.com/2026/08/11/business/media/david-ellison-hollywood-paramount-warner-bros.html"
   ],
   [
-    "colombia",
+    "love",
     14,
-    "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html"
+    "https://www.washingtonpost.com/nation/2026/08/11/jackie-bald-eagle-who-became-live-stream-star-dies-after-illness/"
+  ],
+  [
+    "nearly",
+    14,
+    "https://www.washingtonpost.com/nation/2026/08/10/tupac-shakur-murder-what-know-trial-begins-decades-after-1996-shooting/"
   ],
   [
     "fire",
@@ -256,29 +286,54 @@
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "parents",
+    "case",
     14,
-    "https://www.theguardian.com/film/2026/aug/12/ai-boyfriend-dating-chinese-women-replica-miff-documentary"
+    "https://www.theguardian.com/commentisfree/2026/aug/12/ceuta-showed-just-how-easy-it-is-to-divide-europe"
   ],
   [
-    "dead",
+    "review",
     14,
-    "https://www.theguardian.com/commentisfree/2026/aug/11/trump-wrecking-ball"
+    "https://www.theguardian.com/us-news/2026/aug/11/samuel-alito-oil-gas-assets-supreme-court-analysis"
   ],
   [
-    "cbs",
+    "county",
     14,
-    "https://www.theguardian.com/sport/2026/aug/11/tony-romo-cbs-future-owi-arrest-david-berson-jj-watt"
+    "https://www.theguardian.com/us-news/2026/aug/11/record-breaking-climber-jacob-whisenant-dies"
   ],
   [
-    "seat",
+    "family",
     14,
-    "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/12/a-moment-that-changed-me-stammer-scatman-john"
   ],
   [
-    "game",
+    "win",
     14,
-    "https://www.theguardian.com/music/2026/aug/10/jazz-pianist-sullivan-fortner-leave-that-in-there-katrina-new-orleans"
+    "https://www.theguardian.com/sport/2026/aug/11/apple-tv-eyes-us-broadcast-rights-to-the-open-as-foray-into-sports-broadcasting-continues"
+  ],
+  [
+    "carolina",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/11/miss-north-carolina-title-brittany-boltinhouse"
+  ],
+  [
+    "socialist",
+    14,
+    "https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong"
+  ],
+  [
+    "gov",
+    14,
+    "https://www.npr.org/2026/08/11/nx-s1-5927473/2026-minnesota-senate-primary-election-peggy-flanagan"
+  ],
+  [
+    "nomination",
+    14,
+    "https://www.foxnews.com/politics/primary-takeaways-dems-left-center-battle-intensifies-schumer-takes-another-hit-split-decision-trump"
+  ],
+  [
+    "demuth",
+    13,
+    "https://www.nytimes.com/2026/08/11/us/elections/minnesota-governor-republican-demuth.html"
   ],
   [
     "air",
@@ -286,24 +341,9 @@
     "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html"
   ],
   [
-    "threat",
+    "plane",
     13,
     "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html"
-  ],
-  [
-    "american",
-    13,
-    "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-switch.html"
-  ],
-  [
-    "iran",
-    13,
-    "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-switch.html"
-  ],
-  [
-    "michigan",
-    13,
-    "https://www.nytimes.com/2026/08/11/us/university-michigan-grades-freshmen-pass-fail.html"
   ],
   [
     "died",
@@ -311,68 +351,28 @@
     "https://www.nytimes.com/2026/08/11/nyregion/nyc-capsized-boat-passengers-help.html"
   ],
   [
-    "nearly",
+    "university",
     13,
-    "https://www.washingtonpost.com/nation/2026/08/10/tupac-shakur-murder-what-know-trial-begins-decades-after-1996-shooting/"
+    "https://www.nytimes.com/2026/08/11/us/university-michigan-grades-freshmen-pass-fail.html"
   ],
   [
-    "buying",
+    "million",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/11/papier-daily-planner"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "capital",
+    "north",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/11/trump-wrecking-ball"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "security",
+    "released",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "congressional",
+    "past",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats"
-  ],
-  [
-    "running",
-    13,
-    "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa"
-  ],
-  [
-    "shoes",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/aug/11/tuskegee-university-bans-bonnets-durags"
-  ],
-  [
-    "sports",
-    13,
-    "https://www.theguardian.com/sport/2026/aug/11/tony-romo-cbs-future-owi-arrest-david-berson-jj-watt"
-  ],
-  [
-    "decision",
-    13,
-    "https://www.theguardian.com/sport/2026/aug/11/tony-romo-cbs-future-owi-arrest-david-berson-jj-watt"
-  ],
-  [
-    "win",
-    13,
-    "https://www.theguardian.com/sport/2026/aug/11/apple-tv-eyes-us-broadcast-rights-to-the-open-as-foray-into-sports-broadcasting-continues"
-  ],
-  [
-    "russian",
-    13,
-    "https://www.theguardian.com/world/2026/aug/11/russia-frees-ex-us-marine-robert-gilman"
-  ],
-  [
-    "mayor",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/10/judge-pauses-zohran-mamdani-pied-a-terre-tax-second-homes"
-  ],
-  [
-    "runoff",
-    12,
-    "https://www.nytimes.com/2026/08/11/us/politics/darline-graham-runoff-south-carolina.html"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ]
 ];
