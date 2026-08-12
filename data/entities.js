@@ -3,9 +3,21 @@
   "ORG": [
     {
       "name": "Trump Addresses Elaborate Plane Swap Ruse",
-      "count": 40,
+      "count": 43,
       "url": "https://www.today.com/video/iranian-missile-threat-led-to-trump-s-plane-swap-official-says-268170309881",
       "source": "NBC News"
+    },
+    {
+      "name": "The White House",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/kennedy-center-musician-chuck-redd",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 15,
+      "url": "https://www.theguardian.com/thefilter-us/2026/aug/12/logging-off-the-stationery-that-helps-me-set-down-my-screens-is-now-on-sale",
+      "source": "The Guardian"
     },
     {
       "name": "Michigan Senate",
@@ -14,14 +26,8 @@
       "source": "Politico"
     },
     {
-      "name": "Ai",
-      "count": 12,
-      "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Filter Us",
-      "count": 11,
+      "count": 12,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
@@ -32,157 +38,27 @@
       "source": "NBC News"
     },
     {
-      "name": "Guardian",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/12/us-tax-dollars-rightwing-europe-thinktanks-donald-trump-maga",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/reflecting-pool-david-hearn-doj",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nbc News",
-      "count": 8,
-      "url": "https://www.nbcnews.com/politics/2026-election/appointed-sen-darline-graham-advances-gop-senate-primary-runoff-south-rcna591628",
-      "source": "NBC News"
-    },
-    {
-      "name": "Fever’S Sophie Cunningham",
+      "name": "Cbs News",
       "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/aug/12/fevers-white-says-critics-can-go-to-hell-over-handling-of-sophie-cunningham-controversy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Congress",
-      "count": 6,
-      "url": "https://www.latimes.com/sports/story/2026-08-11/congress-demands-answers-mlb-bryce-harper-fanduel-video-gambling-addict",
-      "source": "LA Times"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 20,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/12/us-tax-dollars-rightwing-europe-thinktanks-donald-trump-maga",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Francesca Hong",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/david-crowley-defeats-francesca-hong-to-win-democratic-primary-for-wisconsin-governor",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Lisa Demuth",
-      "count": 7,
-      "url": "https://www.cbsnews.com/news/lisa-demuth-minnesota-republican-governor-primary-projected-winner/",
+      "url": "https://www.cbsnews.com/video/our-suns-magnetic-corona-is-visible-during/",
       "source": "CBS News"
     },
     {
-      "name": "David Crowley Defeats",
-      "count": 7,
-      "url": "https://www.today.com/video/progressive-democrats-ride-wave-of-victory-across-key-primaries-268171333824",
-      "source": "NBC News"
-    },
-    {
-      "name": "John Berger",
+      "name": "Nbc News",
       "count": 6,
-      "url": "https://www.theguardian.com/books/2026/aug/10/john-berger-from-life-by-tom-overton-review-a-vibrant-biography-of-the-pioneering-critic",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tom Overton",
-      "count": 5,
-      "url": "https://www.theguardian.com/books/2026/aug/10/john-berger-from-life-by-tom-overton-review-a-vibrant-biography-of-the-pioneering-critic",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Darline Graham",
-      "count": 5,
-      "url": "https://www.nbcnews.com/politics/2026-election/appointed-sen-darline-graham-advances-gop-senate-primary-runoff-south-rcna591628",
+      "url": "https://www.nbcnews.com/now/video/watch-spain-witnesses-first-total-solar-eclipse-in-27-years-268193861728",
       "source": "NBC News"
     },
     {
-      "name": "Zhu Rongji",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Stephanie White",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/aug/12/fevers-white-says-critics-can-go-to-hell-over-handling-of-sophie-cunningham-controversy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "David Hearn",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/reflecting-pool-david-hearn-doj",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 32,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/12/openai-anthropic-ai-models",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-switch.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 21,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "name": "Hamas",
+      "count": 5,
+      "url": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Wisconsin",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/08/12/us/elections/david-crowley-wisconsin-governors-primary.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 13,
-      "url": "https://www.washingtonpost.com/nation/2026/08/11/jackie-bald-eagle-who-became-live-stream-star-dies-after-illness/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "New York City’S",
-      "count": 12,
-      "url": "https://www.theguardian.com/wellness/2026/aug/09/brini-maxwell-drag-queen",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Minnesota",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-wisconsin-minnesota-primaries.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County",
-      "count": 11,
-      "url": "https://www.latimes.com/politics/story/2026-08-12/prediction-market-bets-on-elections-la-officials-ban-to-safeguard-voters",
-      "source": "LA Times"
-    },
-    {
-      "name": "China",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Spain",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
+      "name": "Truth Social",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/truth-social-suit-trump-early-access-offer",
       "source": "The Guardian"
     }
   ],
@@ -190,19 +66,37 @@
     {
       "name": "The Iran War",
       "count": 4,
-      "url": "https://www.theguardian.com/business/2026/aug/12/inflation-data-july",
+      "url": "https://www.theguardian.com/business/2026/aug/12/panama-canal-fees-iran-war-el-nino-ship-jump-queue",
       "source": "The Guardian"
     },
     {
       "name": "The World Cup",
-      "count": 4,
-      "url": "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa",
+      "count": 3,
+      "url": "https://www.theguardian.com/football/2026/aug/12/manchester-city-chelsea-enzo-fernandez",
       "source": "The Guardian"
     },
     {
       "name": "Hurricane Katrina",
       "count": 2,
       "url": "https://www.theguardian.com/music/2026/aug/10/jazz-pianist-sullivan-fortner-leave-that-in-there-katrina-new-orleans",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Hunger Games",
+      "count": 1,
+      "url": "https://www.theguardian.com/global/2026/aug/12/patriot-games-aka-trumps-school-sports-day",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Live Super Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/live/2026/aug/12/european-super-cup-paris-saint-germain-v-aston-villa-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Super Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/live/2026/aug/12/european-super-cup-paris-saint-germain-v-aston-villa-live",
       "source": "The Guardian"
     },
     {
@@ -218,17 +112,135 @@
       "source": "NPR"
     },
     {
-      "name": "Fedex St Jude Championship",
+      "name": "Elite Series",
       "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/justin-thomas-viktor-hovland-hideki-matsuyama-headline-2026-fedex-st-jude-championship-best-bets",
+      "url": "https://www.foxnews.com/outkick-sports/denny-hamlin-chases-monster-largemouth-bass-texas-bassmaster-pro-chris-zaldain",
       "source": "Fox News"
-    },
-    {
-      "name": "Black Friday",
-      "count": 1,
-      "url": "https://www.nbcnews.com/select/shopping/apple-watch-series-11-deal-of-the-day-2026-rcna591972",
-      "source": "NBC News"
     }
   ],
-  "updated": "2026-08-12T14:21:54Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 35,
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 19,
+      "url": "https://www.washingtonpost.com/education/2026/08/12/foreign-student-enrollment-will-fall-nearly-10-report-predicts/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Wisconsin",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 15,
+      "url": "https://www.washingtonpost.com/nation/2026/08/11/jackie-bald-eagle-who-became-live-stream-star-dies-after-illness/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Spain",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Islamic Republic Of Iran",
+      "count": 13,
+      "url": "https://thehill.com/policy/international/6025783-countries-condemn-iran-protester-executions/",
+      "source": "The Hill"
+    },
+    {
+      "name": "The People’S Republic Of China",
+      "count": 12,
+      "url": "https://www.theguardian.com/world/2026/aug/12/zhu-rongji-obituary",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City’S",
+      "count": 10,
+      "url": "https://www.theguardian.com/wellness/2026/aug/09/brini-maxwell-drag-queen",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Japan",
+      "count": 8,
+      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Israel",
+      "count": 7,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 28,
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Karoline Leavitt",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Francesca Hong",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Nick Reiner",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-08-12/nick-reiner-indictment-rob-michele-slayings",
+      "source": "LA Times"
+    },
+    {
+      "name": "David Crowley",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/david-crowley-defeats-francesca-hong-to-win-democratic-primary-for-wisconsin-governor",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Bob Iger",
+      "count": 8,
+      "url": "https://www.theguardian.com/sport/2026/aug/12/josh-kushner-and-bob-iger-reportedly-buying-los-angeles-lakers-for-12bn",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Rob Marciano",
+      "count": 8,
+      "url": "https://www.cbsnews.com/video/witnesses-describe-total-solar-eclipse/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Zhu Rongji",
+      "count": 6,
+      "url": "https://www.washingtonpost.com/obituaries/2026/08/12/zhu-rongji-former-china-premier-dies-97/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/08/12/us/politics/with-big-choices-ahead-ocasio-cortez-navigates-new-territory.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Kristen Stewart",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/2026/aug/12/the-wrong-girls-review-kristen-stewart-stoner-comedy",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-08-12T20:02:02Z"
 };
