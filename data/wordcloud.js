@@ -2,17 +2,17 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    66,
-    "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-republican-senate-primary-runoff.html"
+    63,
+    "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html"
   ],
   [
     "president",
-    33,
-    "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-republican-senate-primary-runoff.html"
+    34,
+    "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html"
   ],
   [
     "family",
-    24,
+    25,
     "https://www.nytimes.com/2026/08/12/us/politics/karoline-leavitt-trump-press-secretary.html"
   ],
   [
@@ -21,54 +21,49 @@
     "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html"
   ],
   [
-    "court",
-    22,
-    "https://www.nytimes.com/2026/08/12/us/politics/trump-truth-social-lawsuit.html"
-  ],
-  [
-    "reiner",
-    22,
-    "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/"
-  ],
-  [
     "love",
-    22,
+    23,
     "https://www.washingtonpost.com/nation/2026/08/11/rural-texas-data-center-opposition-is-scrambling-conservative-orthodoxy/"
   ],
   [
-    "school",
+    "police",
     22,
-    "https://www.theguardian.com/global/2026/aug/12/patriot-games-aka-trumps-school-sports-day"
-  ],
-  [
-    "eclipse",
-    20,
-    "https://www.nytimes.com/2026/08/12/briefing/eclipse-primaries-ice.html"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/13/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-260"
   ],
   [
     "ice",
-    20,
+    21,
     "https://www.nytimes.com/2026/08/12/us/politics/ice-gloves-shock.html"
   ],
   [
-    "death",
-    19,
-    "https://www.theguardian.com/us-news/2026/aug/12/nick-reiner-indicted-parents-murders"
+    "eclipse",
+    21,
+    "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html"
   ],
   [
-    "primary",
-    18,
-    "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html"
+    "summer",
+    21,
+    "https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html"
   ],
   [
-    "latest",
-    18,
-    "https://www.nytimes.com/2026/08/12/briefing/eclipse-primaries-ice.html"
+    "record",
+    21,
+    "https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html"
   ],
   [
-    "country",
+    "school",
+    21,
+    "https://www.theguardian.com/global/2026/aug/12/patriot-games-aka-trumps-school-sports-day"
+  ],
+  [
+    "court",
+    20,
+    "https://www.theguardian.com/us-news/2026/aug/12/trump-administration-supreme-court-mail-ballots"
+  ],
+  [
+    "administration",
     18,
-    "https://www.nytimes.com/2026/08/12/travel/paul-theroux-king-charles-england-coast-path.html"
+    "https://www.nytimes.com/2026/08/12/us/politics/ice-chicago-agent-guilty.html"
   ],
   [
     "parents",
@@ -76,34 +71,14 @@
     "https://www.nytimes.com/2026/08/12/us/texas-surrogate-baby-abortion-dispute.html"
   ],
   [
-    "mother",
+    "country",
     18,
-    "https://www.nytimes.com/2026/08/12/us/texas-surrogate-baby-abortion-dispute.html"
+    "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html"
   ],
   [
-    "health",
-    18,
-    "https://www.nytimes.com/2026/08/12/business/joshua-kushner-lakers.html"
-  ],
-  [
-    "record",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/12/uss-abraham-lincoln-overboard-extended-deployment"
-  ],
-  [
-    "media",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/12/karoline-leavitt-resigns"
-  ],
-  [
-    "police",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/12/washington-dc-sex-toy-trash-bin"
-  ],
-  [
-    "running",
+    "military",
     17,
-    "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html"
+    "https://www.nytimes.com/2026/08/12/us/politics/trump-air-force-one-secret-flight-passengers.html"
   ],
   [
     "texas",
@@ -111,14 +86,14 @@
     "https://www.nytimes.com/2026/08/12/us/texas-surrogate-baby-abortion-dispute.html"
   ],
   [
-    "buying",
+    "media",
     17,
-    "https://www.theguardian.com/thefilter-us/2026/aug/12/logging-off-the-stationery-that-helps-me-set-down-my-screens-is-now-on-sale"
+    "https://www.theguardian.com/us-news/2026/aug/12/karoline-leavitt-resigns"
   ],
   [
-    "summer",
+    "young",
     17,
-    "https://www.theguardian.com/film/2026/aug/13/hollywood-struggling-in-china-the-odyssey-imax-christopher-nolan-premiere"
+    "https://www.theguardian.com/world/2026/aug/12/israeli-militants-besiege-two-palestinian-families-in-their-west-bank-homes"
   ],
   [
     "hong",
@@ -126,54 +101,74 @@
     "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html"
   ],
   [
-    "near",
+    "primary",
     16,
-    "https://www.nytimes.com/2026/08/12/us/politics/ice-chicago-agent-guilty.html"
+    "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html"
   ],
   [
-    "administration",
+    "party",
     16,
-    "https://www.nytimes.com/2026/08/12/us/politics/ice-chicago-agent-guilty.html"
+    "https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html"
   ],
   [
-    "center",
+    "latest",
     16,
-    "https://www.theguardian.com/us-news/2026/aug/12/doj-arrests-far-right-expert-splc"
+    "https://www.nytimes.com/2026/08/12/us/ice-gun-driver-virginia-immigration.html"
   ],
   [
-    "died",
+    "solar",
     16,
-    "https://www.theguardian.com/commentisfree/2026/aug/12/growing-vegetables-climate-crisis-heatwaves-drought"
+    "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html"
   ],
   [
-    "children",
+    "reiner",
     16,
-    "https://www.theguardian.com/media/2026/aug/12/perez-hilton-mother-files-temporary-custody-children"
+    "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/"
   ],
   [
-    "wisconsin",
+    "buying",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/aug/12/logging-off-the-stationery-that-helps-me-set-down-my-screens-is-now-on-sale"
+  ],
+  [
+    "sex",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/13/death-of-the-kiss-dating"
+  ],
+  [
+    "career",
+    16,
+    "https://www.theguardian.com/sport/2026/aug/13/katie-ledecky-1500m-pan-pacific-championships-swimming-gold"
+  ],
+  [
+    "race",
     15,
     "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html"
   ],
   [
-    "york",
+    "near",
     15,
-    "https://www.nytimes.com/2026/08/12/nyregion/bruce-blakeman-governor-ny.html"
-  ],
-  [
-    "military",
-    15,
-    "https://www.nytimes.com/2026/08/12/us/politics/trump-air-force-one-secret-flight-passengers.html"
-  ],
-  [
-    "social",
-    15,
-    "https://www.nytimes.com/2026/08/12/us/politics/trump-truth-social-lawsuit.html"
+    "https://www.nytimes.com/2026/08/12/us/politics/ice-chicago-agent-guilty.html"
   ],
   [
     "questions",
     15,
-    "https://www.nytimes.com/2026/08/12/opinion/trump-health-questions.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "campaign",
+    15,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "inside",
+    15,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "early",
+    15,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "team",
@@ -181,9 +176,24 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "iran",
+    "died",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/12/uss-abraham-lincoln-overboard-extended-deployment"
+    "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu"
+  ],
+  [
+    "because",
+    15,
+    "https://www.theguardian.com/environment/2026/aug/13/india-planned-coal-production-new-mine"
+  ],
+  [
+    "center",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/12/doj-arrests-far-right-expert-splc"
+  ],
+  [
+    "europe",
+    15,
+    "https://www.theguardian.com/science/ng-interactive/2026/aug/12/cruise-ships-quiet-towns-and-an-all-day-festival-millions-flock-to-eclipse-viewing-spots-across-europe"
   ],
   [
     "games",
@@ -191,9 +201,14 @@
     "https://www.theguardian.com/global/2026/aug/12/patriot-games-aka-trumps-school-sports-day"
   ],
   [
+    "company",
+    15,
+    "https://www.theguardian.com/world/2026/aug/12/trump-greenland-oil"
+  ],
+  [
     "film",
     15,
-    "https://www.theguardian.com/film/2026/aug/13/hollywood-struggling-in-china-the-odyssey-imax-christopher-nolan-premiere"
+    "https://www.theguardian.com/film/2026/aug/13/bill-nighy-and-sons-golf-emojis-prince-ill-advised"
   ],
   [
     "cbs",
@@ -201,39 +216,14 @@
     "https://www.theguardian.com/sport/2026/aug/11/tony-romo-cbs-future-owi-arrest-david-berson-jj-watt"
   ],
   [
-    "sex",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/12/washington-dc-sex-toy-trash-bin"
-  ],
-  [
     "food",
     15,
     "https://www.theguardian.com/music/2026/aug/09/nas-the-roots-review-roots-picnic-crystal-palace-bowl-london"
   ],
   [
-    "governor",
+    "running",
     14,
-    "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html"
-  ],
-  [
-    "race",
-    14,
-    "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html"
-  ],
-  [
-    "solar",
-    14,
-    "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html"
-  ],
-  [
-    "child",
-    14,
-    "https://www.nytimes.com/2026/08/12/us/politics/karoline-leavitt-trump-press-secretary.html"
-  ],
-  [
-    "early",
-    14,
-    "https://www.nytimes.com/2026/08/12/us/politics/trump-truth-social-lawsuit.html"
+    "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html"
   ],
   [
     "baby",
@@ -241,24 +231,14 @@
     "https://www.nytimes.com/2026/08/12/us/texas-surrogate-baby-abortion-dispute.html"
   ],
   [
-    "space",
-    14,
-    "https://www.nytimes.com/2026/08/12/arts/television/lanterns-hbo-dc-comics.html"
-  ],
-  [
     "don",
     14,
     "https://www.nytimes.com/2026/08/12/opinion/israeli-settlers-palestinians-west-bank.html"
   ],
   [
-    "inside",
+    "social",
     14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "party",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/aug/12/francesca-hongs-defeat-wisconsin-lessons"
+    "https://www.theguardian.com/us-news/2026/aug/12/karoline-leavitt-resigns"
   ],
   [
     "case",
@@ -266,44 +246,54 @@
     "https://www.theguardian.com/us-news/2026/aug/12/doj-arrests-far-right-expert-splc"
   ],
   [
-    "because",
+    "death",
     14,
-    "https://www.theguardian.com/us-news/video/2026/aug/12/darrell-hines-capital-punishment-stateside-podcast"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/13/death-of-the-kiss-dating"
   ],
   [
-    "career",
+    "something",
     14,
-    "https://www.theguardian.com/sport/2026/aug/12/russell-westbrook-retires-nba-triple-doubles-record-mvp"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/13/death-of-the-kiss-dating"
   ],
   [
-    "trying",
+    "game",
+    14,
+    "https://www.theguardian.com/football/2026/aug/12/uefa-super-cup-aston-villa-psg-match-report"
+  ],
+  [
+    "children",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/12/kansas-familicide-winfield"
+  ],
+  [
+    "wisconsin",
+    13,
+    "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html"
+  ],
+  [
+    "accused",
     13,
     "https://www.nytimes.com/2026/08/12/us/ice-gun-driver-virginia-immigration.html"
   ],
   [
-    "press",
+    "mother",
     13,
-    "https://www.nytimes.com/2026/08/12/us/politics/karoline-leavitt-trump-press-secretary.html"
+    "https://www.nytimes.com/2026/08/12/us/texas-surrogate-baby-abortion-dispute.html"
   ],
   [
-    "sea",
-    13,
-    "https://www.nytimes.com/2026/08/12/travel/paul-theroux-king-charles-england-coast-path.html"
-  ],
-  [
-    "lakers",
+    "health",
     13,
     "https://www.nytimes.com/2026/08/12/business/joshua-kushner-lakers.html"
   ],
   [
-    "murder",
+    "china",
     13,
-    "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/"
+    "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html"
   ],
   [
-    "campaign",
+    "war",
     13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
     "political",
@@ -311,47 +301,17 @@
     "https://www.theguardian.com/commentisfree/2026/aug/12/francesca-hongs-defeat-wisconsin-lessons"
   ],
   [
-    "water",
+    "future",
     13,
-    "https://www.theguardian.com/world/2026/aug/12/israeli-militants-besiege-two-palestinian-families-in-their-west-bank-homes"
+    "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction"
   ],
   [
-    "young",
+    "iran",
     13,
-    "https://www.theguardian.com/world/2026/aug/12/israeli-militants-besiege-two-palestinian-families-in-their-west-bank-homes"
+    "https://www.theguardian.com/us-news/2026/aug/12/uss-abraham-lincoln-overboard-extended-deployment"
   ],
   [
-    "europe",
-    13,
-    "https://www.theguardian.com/science/ng-interactive/2026/aug/12/cruise-ships-quiet-towns-and-an-all-day-festival-millions-flock-to-eclipse-viewing-spots-across-europe"
-  ],
-  [
-    "spain",
-    13,
-    "https://www.theguardian.com/science/ng-interactive/2026/aug/12/cruise-ships-quiet-towns-and-an-all-day-festival-millions-flock-to-eclipse-viewing-spots-across-europe"
-  ],
-  [
-    "system",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/12/datacenter-everglades-risk"
-  ],
-  [
-    "something",
-    13,
-    "https://www.theguardian.com/environment/2026/aug/12/like-an-alien-invasion-the-neon-flying-squid-that-can-fly-in-formation-above-the-ocean"
-  ],
-  [
-    "game",
-    13,
-    "https://www.theguardian.com/football/2026/aug/12/uefa-super-cup-aston-villa-psg-match-report"
-  ],
-  [
-    "always",
-    13,
-    "https://www.theguardian.com/uk-news/2026/aug/12/jason-arday-cambridge-claim-non-verbal-child"
-  ],
-  [
-    "francesca",
+    "governor",
     12,
     "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html"
   ],
@@ -361,12 +321,7 @@
     "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-republican-senate-primary-runoff.html"
   ],
   [
-    "charged",
-    12,
-    "https://www.nytimes.com/2026/08/12/us/politics/ice-chicago-agent-guilty.html"
-  ],
-  [
-    "leavitt",
+    "press",
     12,
     "https://www.nytimes.com/2026/08/12/us/politics/karoline-leavitt-trump-press-secretary.html"
   ],
@@ -374,5 +329,50 @@
     "secretary",
     12,
     "https://www.nytimes.com/2026/08/12/us/politics/karoline-leavitt-trump-press-secretary.html"
+  ],
+  [
+    "leaving",
+    12,
+    "https://www.nytimes.com/2026/08/12/us/politics/karoline-leavitt-trump-press-secretary.html"
+  ],
+  [
+    "child",
+    12,
+    "https://www.nytimes.com/2026/08/12/us/politics/karoline-leavitt-trump-press-secretary.html"
+  ],
+  [
+    "american",
+    12,
+    "https://www.nytimes.com/2026/08/12/us/hegseth-trump-anti-cartel-coalition.html"
+  ],
+  [
+    "total",
+    12,
+    "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html"
+  ],
+  [
+    "west",
+    12,
+    "https://www.nytimes.com/2026/08/12/world/middleeast/west-bank-palestinians-israeli-settlers.html"
+  ],
+  [
+    "lakers",
+    12,
+    "https://www.nytimes.com/2026/08/12/business/joshua-kushner-lakers.html"
+  ],
+  [
+    "space",
+    12,
+    "https://www.nytimes.com/2026/08/12/arts/television/lanterns-hbo-dc-comics.html"
+  ],
+  [
+    "power",
+    12,
+    "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html"
+  ],
+  [
+    "fewer",
+    12,
+    "https://www.washingtonpost.com/education/2026/08/12/foreign-student-enrollment-will-fall-nearly-10-report-predicts/"
   ]
 ];
