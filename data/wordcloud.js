@@ -2,213 +2,238 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    61,
-    "https://www.nytimes.com/2026/08/13/us/politics/national-firearms-act-gun-control-doj.html"
+    74,
+    "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html"
   ],
   [
     "democratic",
-    32,
+    26,
     "https://www.nytimes.com/2026/08/13/magazine/democratic-socialism-dsa-elections-primaries.html"
   ],
   [
-    "primary",
-    24,
-    "https://www.nytimes.com/2026/08/13/style/thanksgiving-francesca-hong-wisconsin.html"
+    "administration",
+    25,
+    "https://www.nytimes.com/2026/08/13/us/politics/the-docket-supreme-court-trump-losses.html"
   ],
   [
-    "record",
-    24,
-    "https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html"
+    "center",
+    23,
+    "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html"
+  ],
+  [
+    "board",
+    23,
+    "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html"
+  ],
+  [
+    "judge",
+    23,
+    "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html"
   ],
   [
     "president",
-    23,
-    "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html"
-  ],
-  [
-    "summer",
     21,
-    "https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html"
+    "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html"
   ],
   [
     "family",
     21,
-    "https://www.theguardian.com/commentisfree/2026/aug/13/aoc-egg-freezing-announcement"
+    "https://www.theguardian.com/sport/2026/aug/13/the-lakers-have-become-a-poker-chip-for-some-of-the-most-powerful-men-in-america"
   ],
   [
-    "love",
-    20,
-    "https://www.nytimes.com/2026/08/13/arts/ai-podcasts-fashion-pop-avatars.html"
-  ],
-  [
-    "questions",
-    20,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "police",
-    20,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/13/a-bungled-bomb-plot-in-poland-exposed-a-spy-but-whose-spy-was-he"
+    "don",
+    21,
+    "https://www.theguardian.com/stage/2026/aug/13/broadway-shows-on-film-pro-shot"
   ],
   [
     "food",
     20,
-    "https://www.theguardian.com/world/video/2026/aug/13/why-rising-oil-prices-make-food-more-expensive"
+    "https://www.nytimes.com/2026/08/13/dining/mexican-food-scene-united-states-immigration.html"
   ],
   [
-    "hong",
-    19,
-    "https://www.nytimes.com/2026/08/13/style/thanksgiving-francesca-hong-wisconsin.html"
-  ],
-  [
-    "don",
-    19,
-    "https://www.theguardian.com/film/2026/aug/13/bill-nighy-and-sons-golf-emojis-prince-ill-advised"
-  ],
-  [
-    "race",
-    19,
-    "https://www.theguardian.com/environment/2026/aug/13/biodiversity-bat-species-fungus-disease-canada-alaska-white-nose-syndrome"
+    "released",
+    20,
+    "https://www.washingtonpost.com/education/2026/08/12/foreign-student-enrollment-will-fall-nearly-10-report-predicts/"
   ],
   [
     "war",
-    18,
-    "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html"
+    20,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "senate",
-    18,
-    "https://www.nytimes.com/2026/08/13/us/elections/wyoming-legislature-freedom-caucus.html"
+    "summer",
+    20,
+    "https://www.theguardian.com/music/ng-interactive/2026/aug/13/ai-music"
   ],
   [
-    "democrats",
+    "name",
     18,
-    "https://www.washingtonpost.com/investigations/2026/08/13/senate-democrats-request-audit-trumps-ballroom-project/"
+    "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html"
+  ],
+  [
+    "building",
+    18,
+    "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html"
+  ],
+  [
+    "order",
+    18,
+    "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html"
+  ],
+  [
+    "primary",
+    18,
+    "https://www.nytimes.com/2026/08/13/style/thanksgiving-francesca-hong-wisconsin.html"
   ],
   [
     "california",
     18,
-    "https://www.theguardian.com/us-news/2026/aug/13/california-paraquat-ban-pesticide"
+    "https://www.nytimes.com/2026/08/13/us/california-jewish-ethnic-identity.html"
   ],
   [
-    "parents",
+    "american",
+    18,
+    "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html"
+  ],
+  [
+    "company",
+    18,
+    "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html"
+  ],
+  [
+    "donald",
     17,
-    "https://www.nytimes.com/2026/08/12/us/texas-surrogate-baby-abortion-dispute.html"
+    "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html"
+  ],
+  [
+    "health",
+    17,
+    "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html"
+  ],
+  [
+    "israeli",
+    17,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "kennedy",
+    16,
+    "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html"
+  ],
+  [
+    "million",
+    16,
+    "https://www.nytimes.com/2026/08/13/us/politics/homeland-security-parked-airplanes.html"
+  ],
+  [
+    "ago",
+    16,
+    "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html"
+  ],
+  [
+    "experts",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/13/ebikes-e-motorcycles-teenagers"
+  ],
+  [
+    "film",
+    16,
+    "https://www.theguardian.com/stage/2026/aug/13/broadway-shows-on-film-pro-shot"
+  ],
+  [
+    "close",
+    16,
+    "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates"
+  ],
+  [
+    "charges",
+    15,
+    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html"
+  ],
+  [
+    "court",
+    15,
+    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html"
   ],
   [
     "buying",
-    16,
+    15,
     "https://www.nytimes.com/2026/08/13/business/bob-iger-joshua-kushner-lakers.html"
-  ],
-  [
-    "texas",
-    16,
-    "https://www.nytimes.com/2026/08/12/us/texas-surrogate-baby-abortion-dispute.html"
-  ],
-  [
-    "young",
-    16,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/13/a-bungled-bomb-plot-in-poland-exposed-a-spy-but-whose-spy-was-he"
-  ],
-  [
-    "school",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/13/us-school-phone-bans"
   ],
   [
     "york",
     15,
-    "https://www.nytimes.com/2026/08/13/us/hegseth-jason-crow-military-promotions.html"
+    "https://www.nytimes.com/2026/08/13/nyregion/last-nuns-new-york-city.html"
   ],
   [
-    "health",
+    "senate",
     15,
-    "https://www.nytimes.com/2026/08/13/nyregion/new-york-health-insurance-trump-cuts.html"
+    "https://www.washingtonpost.com/investigations/2026/08/13/senate-democrats-request-audit-trumps-ballroom-project/"
   ],
   [
-    "japan",
+    "democrats",
     15,
-    "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html"
+    "https://www.washingtonpost.com/investigations/2026/08/13/senate-democrats-request-audit-trumps-ballroom-project/"
+  ],
+  [
+    "fewer",
+    15,
+    "https://www.washingtonpost.com/education/2026/08/12/foreign-student-enrollment-will-fall-nearly-10-report-predicts/"
   ],
   [
     "country",
     15,
-    "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "billion",
+    "team",
     15,
-    "https://www.washingtonpost.com/nation/2026/08/13/104-billion-powerball-drawing-finds-winner/"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "secretary",
+    15,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "south",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/13/boy-catches-piranha-pennsylvania"
+    "https://www.theguardian.com/sport/2026/aug/13/faded-aura-springboks-outgrew-all-blacks-rugby-union"
+  ],
+  [
+    "guilty",
+    14,
+    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html"
+  ],
+  [
+    "death",
+    14,
+    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html"
   ],
   [
     "party",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/12/wisconsin-primary-democrats-david-crowley"
-  ],
-  [
-    "secretary",
     14,
-    "https://www.nytimes.com/2026/08/13/us/hegseth-jason-crow-military-promotions.html"
+    "https://www.nytimes.com/2026/08/13/nyregion/last-nuns-new-york-city.html"
   ],
   [
-    "global",
+    "record",
     14,
-    "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html"
+    "https://www.theguardian.com/sport/2026/aug/13/the-lakers-have-become-a-poker-chip-for-some-of-the-most-powerful-men-in-america"
   ],
   [
-    "powerball",
+    "lawsuit",
     14,
-    "https://www.washingtonpost.com/nation/2026/08/13/104-billion-powerball-drawing-finds-winner/"
+    "https://www.theguardian.com/us-news/2026/aug/13/max-miller-ex-wife-lawsuit"
   ],
   [
-    "released",
+    "race",
     14,
-    "https://www.washingtonpost.com/education/2026/08/12/foreign-student-enrollment-will-fall-nearly-10-report-predicts/"
+    "https://www.theguardian.com/commentisfree/2026/aug/13/ukraine-cathedrals-gaza-archives-iran-erase-history-war"
   ],
   [
-    "something",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/13/boy-catches-piranha-pennsylvania"
-  ],
-  [
-    "homes",
+    "love",
     13,
-    "https://www.nytimes.com/2026/08/13/podcasts/the-headlines/ice-electric-stun-gloves-palestinian-families.html"
-  ],
-  [
-    "inside",
-    13,
-    "https://www.nytimes.com/2026/08/13/magazine/democratic-socialism-dsa-elections-primaries.html"
-  ],
-  [
-    "francesca",
-    13,
-    "https://www.nytimes.com/2026/08/13/style/thanksgiving-francesca-hong-wisconsin.html"
-  ],
-  [
-    "wisconsin",
-    13,
-    "https://www.nytimes.com/2026/08/13/style/thanksgiving-francesca-hong-wisconsin.html"
-  ],
-  [
-    "europe",
-    13,
-    "https://www.nytimes.com/2026/08/13/weather/europe-heat-wave-extreme-heat-warning.html"
-  ],
-  [
-    "star",
-    13,
-    "https://www.nytimes.com/2026/08/13/arts/ai-podcasts-fashion-pop-avatars.html"
-  ],
-  [
-    "fewer",
-    13,
-    "https://www.washingtonpost.com/education/2026/08/12/foreign-student-enrollment-will-fall-nearly-10-report-predicts/"
+    "https://www.washingtonpost.com/nation/2026/08/11/rural-texas-data-center-opposition-is-scrambling-conservative-orthodoxy/"
   ],
   [
     "review",
@@ -216,19 +241,34 @@
     "https://www.washingtonpost.com/investigations/2026/08/12/trump-administration-set-spend-least-900-million-white-house-construction/"
   ],
   [
-    "because",
+    "trump's",
     13,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/13/a-bungled-bomb-plot-in-poland-exposed-a-spy-but-whose-spy-was-he"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "company",
-    13,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/13/a-bungled-bomb-plot-in-poland-exposed-a-spy-but-whose-spy-was-he"
-  ],
-  [
-    "progressive",
+    "police",
     13,
     "https://www.theguardian.com/commentisfree/2026/aug/13/aoc-mamdani-defund-police-prisons"
+  ],
+  [
+    "iran",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/13/uss-abraham-conditions-hegseth"
+  ],
+  [
+    "university",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/13/trump-harvard-lawsuit-dismissed"
+  ],
+  [
+    "weekly",
+    13,
+    "https://www.theguardian.com/environment/video/2026/aug/13/the-mindblowing-invertebrates-you-have-never-heard-of-video"
+  ],
+  [
+    "filter",
+    13,
+    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
   ],
   [
     "game",
@@ -236,99 +276,79 @@
     "https://www.theguardian.com/sport/2026/aug/13/faded-aura-springboks-outgrew-all-blacks-rugby-union"
   ],
   [
-    "administration",
+    "security",
     12,
-    "https://www.nytimes.com/2026/08/13/us/politics/national-firearms-act-gun-control-doj.html"
+    "https://www.nytimes.com/2026/08/13/us/politics/homeland-security-parked-airplanes.html"
   ],
   [
-    "running",
+    "political",
     12,
-    "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html"
+    "https://www.nytimes.com/2026/08/13/style/thanksgiving-francesca-hong-wisconsin.html"
   ],
   [
-    "killing",
+    "mangione",
     12,
     "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html"
   ],
   [
-    "china",
+    "history",
     12,
-    "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html"
+    "https://www.washingtonpost.com/nation/2026/08/13/104-billion-powerball-drawing-finds-winner/"
   ],
   [
-    "style",
-    12,
-    "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html"
-  ],
-  [
-    "kushner",
-    12,
-    "https://www.nytimes.com/2026/08/13/business/bob-iger-joshua-kushner-lakers.html"
-  ],
-  [
-    "lakers",
-    12,
-    "https://www.nytimes.com/2026/08/13/business/bob-iger-joshua-kushner-lakers.html"
-  ],
-  [
-    "baby",
-    12,
-    "https://www.nytimes.com/2026/08/12/us/texas-surrogate-baby-abortion-dispute.html"
-  ],
-  [
-    "severe",
-    12,
-    "https://www.nytimes.com/2026/08/12/us/texas-surrogate-baby-abortion-dispute.html"
-  ],
-  [
-    "eclipse",
-    12,
-    "https://www.nytimes.com/2026/08/13/briefing/solar-eclipse-photos.html"
-  ],
-  [
-    "night",
-    12,
-    "https://www.nytimes.com/2026/08/13/arts/television/late-night-trump-air-force-one-catering.html"
-  ],
-  [
-    "actor",
+    "parents",
     12,
     "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/"
   ],
   [
-    "military",
+    "fire",
     12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.washingtonpost.com/nation/2026/08/12/polymarket-let-users-bet-wildfires-lawmakers-warn-that-could-spur-arson/"
   ],
   [
-    "despite",
+    "response",
     12,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "order",
+    "killing",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/aug/13/aoc-mamdani-defund-police-prisons"
+  ],
+  [
+    "really",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/aug/13/aoc-mamdani-defund-police-prisons"
+  ],
+  [
+    "harvard",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/13/trump-harvard-lawsuit-dismissed"
+  ],
+  [
+    "plastic",
+    12,
+    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
+  ],
+  [
+    "guide",
+    12,
+    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
+  ],
+  [
+    "young",
     12,
     "https://www.theguardian.com/news/ng-interactive/2026/aug/13/a-bungled-bomb-plot-in-poland-exposed-a-spy-but-whose-spy-was-he"
   ],
   [
-    "film",
+    "league",
     12,
-    "https://www.theguardian.com/film/2026/aug/13/bill-nighy-and-sons-golf-emojis-prince-ill-advised"
+    "https://www.theguardian.com/football/2026/aug/13/we-have-been-staring-at-phil-foden-for-close-to-a-decade-how-well-do-we-actually-know-him"
   ],
   [
-    "west",
+    "school",
     12,
-    "https://www.theguardian.com/film/2026/aug/13/bill-nighy-and-sons-golf-emojis-prince-ill-advised"
-  ],
-  [
-    "american",
-    12,
-    "https://www.theguardian.com/stage/2026/aug/13/broadway-shows-on-film-pro-shot"
-  ],
-  [
-    "japanese",
-    12,
-    "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands"
+    "https://www.theguardian.com/us-news/2026/aug/13/us-school-phone-bans"
   ],
   [
     "sex",
@@ -336,43 +356,23 @@
     "https://www.theguardian.com/lifeandstyle/2026/aug/13/death-of-the-kiss-dating"
   ],
   [
-    "socialist",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/13/aoc-mamdani-defund-police-prisons"
-  ],
-  [
-    "won",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/13/taylor-swift-has-put-her-love-story-out-there-so-why-wont-she-let-us-see-her-wedding-dress"
-  ],
-  [
-    "career",
-    12,
-    "https://www.theguardian.com/sport/2026/aug/13/katie-ledecky-1500m-pan-pacific-championships-swimming-gold"
-  ],
-  [
-    "filter",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/aug/12/logging-off-the-stationery-that-helps-me-set-down-my-screens-is-now-on-sale"
-  ],
-  [
     "cbs",
     12,
     "https://www.latimes.com/entertainment-arts/business/story/2026-08-11/cbs-sports-has-no-timetable-on-determining-tony-romos-return"
   ],
   [
-    "security",
+    "accused",
     11,
-    "https://www.nytimes.com/2026/08/13/us/politics/homeland-security-parked-airplanes.html"
+    "https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html"
   ],
   [
-    "million",
+    "power",
     11,
-    "https://www.nytimes.com/2026/08/13/us/politics/homeland-security-parked-airplanes.html"
+    "https://www.nytimes.com/2026/08/13/magazine/democratic-socialism-dsa-elections-primaries.html"
   ],
   [
-    "governor",
+    "jewish",
     11,
-    "https://www.nytimes.com/2026/08/13/style/thanksgiving-francesca-hong-wisconsin.html"
+    "https://www.nytimes.com/2026/08/13/us/california-jewish-ethnic-identity.html"
   ]
 ];
