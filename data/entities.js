@@ -3,15 +3,27 @@
   "ORG": [
     {
       "name": "Trump Administration Finalizes",
-      "count": 48,
+      "count": 44,
       "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-administration-gender-affirming-care",
       "source": "The Guardian"
     },
     {
-      "name": "The Michigan Senate",
-      "count": 15,
-      "url": "https://www.foxnews.com/media/haley-stevens-condemns-hasan-piker-rallies-behind-el-sayed-narrow-primary-loss",
+      "name": "The White House",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/kevin-rideout-niger-islamic-state.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Wolverine State Senate",
+      "count": 17,
+      "url": "https://www.foxnews.com/politics/fox-news-poll-senate-battle-looms-michigan",
       "source": "Fox News"
+    },
+    {
+      "name": "Ai News",
+      "count": 16,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/13/mark-zuckerberg-future-of-ai",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
@@ -20,66 +32,172 @@
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/donald-trump-private-companies-cyber-attack",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai News",
-      "count": 12,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/13/mark-zuckerberg-future-of-ai",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Harvard University",
-      "count": 11,
-      "url": "https://www.nbcnews.com/politics/trump-administration/judge-dismisses-trump-lawsuit-harvard-antisemitism-rcna592379",
-      "source": "NBC News"
-    },
-    {
-      "name": "Nba",
-      "count": 9,
-      "url": "https://www.theguardian.com/sport/2026/aug/13/the-lakers-have-become-a-poker-chip-for-some-of-the-most-powerful-men-in-america",
-      "source": "The Guardian"
-    },
-    {
       "name": "Guardian",
-      "count": 9,
+      "count": 8,
       "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-press-secretary-lies-karoline-leavitt",
       "source": "The Guardian"
     },
     {
-      "name": "Kennedy Center Board Decides",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
+      "name": "Congress",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html",
       "source": "NY Times"
     },
     {
-      "name": "Cbs News",
+      "name": "Harvard",
       "count": 6,
-      "url": "https://www.cbsnews.com/news/luigi-mangione-possible-federal-plea-deal/",
+      "url": "https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Cbs News'",
+      "count": 6,
+      "url": "https://www.cbsnews.com/video/hegseth-says-conditions-aboard-uss-abraham-lincoln-completely-misrepresented/",
       "source": "CBS News"
+    },
+    {
+      "name": "Hamas",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/08/13/opinion/gaza-hamas-israel-disarmament-palestinians.html",
+      "source": "NY Times"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 49,
+      "url": "https://www.nytimes.com/2026/08/13/opinion/kansas-anti-trans-laws-drivers-license.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/08/13/briefing/immigration-supremecourt-jews.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "China",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A.",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-08-13/adva-lavie-case-explainer",
+      "source": "LA Times"
+    },
+    {
+      "name": "Israel",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Ukraine",
+      "count": 8,
+      "url": "https://www.theguardian.com/world/2026/aug/14/ukraine-war-briefing-crimea-bomb-robert-shageyev-defected",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/13/ukraine-cathedrals-gaza-archives-iran-erase-history-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "London",
+      "count": 8,
+      "url": "https://www.theguardian.com/music/2026/aug/09/nas-the-roots-review-roots-picnic-crystal-palace-bowl-london",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 8,
+      "url": "https://www.foxnews.com/us/hhs-warns-texas-hospitals-denying-life-saving-care-newborn-disability",
+      "source": "Fox News"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 16,
+      "url": "https://www.theguardian.com/sport/2026/aug/13/the-lakers-have-become-a-poker-chip-for-some-of-the-most-powerful-men-in-america",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump ’S",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/kennedy-center-renovations-trump-name",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Luigi Mangione",
+      "count": 8,
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
+      "source": "NPR"
+    },
+    {
+      "name": "Karoline Leavitt",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-press-secretary-lies-karoline-leavitt",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Biden",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-press-secretary-lies-karoline-leavitt",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Rob Reiner",
+      "count": 5,
+      "url": "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "count": 5,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/13/aoc-mamdani-defund-police-prisons",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Sherlock Holmes",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/aug/13/sherlock-holmes-arthur-conan-doyle-boxing-history",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Max Miller",
+      "count": 4,
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/max-miller-ex-wife-lawsuit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Michele Singer Reiner",
+      "count": 4,
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/nick-reiner-indicted-parents-murders",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
-    {
-      "name": "Uefa Super Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/football/2026/aug/12/uefa-super-cup-aston-villa-psg-match-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
-      "source": "The Guardian"
-    },
     {
       "name": "Hurricane Katrina",
       "count": 2,
       "url": "https://www.theguardian.com/music/2026/aug/10/jazz-pianist-sullivan-fortner-leave-that-in-there-katrina-new-orleans",
       "source": "The Guardian"
+    },
+    {
+      "name": "Alien Enemies Act",
+      "count": 2,
+      "url": "https://www.nbcnews.com/politics/immigration/appeals-court-trump-alien-enemies-act-tren-de-aragua-venezuela-rcna592435",
+      "source": "NBC News"
     },
     {
       "name": "Great Performances",
@@ -94,141 +212,23 @@
       "source": "The Guardian"
     },
     {
+      "name": "The Iran War",
+      "count": 1,
+      "url": "https://www.nbcnews.com/politics/politics-news/constitution-standstill-politics-desk-rcna592429",
+      "source": "NBC News"
+    },
+    {
       "name": "The Archive Sale",
       "count": 1,
       "url": "https://www.nbcnews.com/select/shopping/salehe-bembury-new-balance-deal-of-the-day-2026-rcna592325",
       "source": "NBC News"
     },
     {
-      "name": "Civil Rights Act",
+      "name": "The World War Ii Memorial",
       "count": 1,
-      "url": "https://thehill.com/homenews/education/6027947-judge-dismisses-harvard-antisemitism-lawsuit/",
+      "url": "https://thehill.com/homenews/administration/6029165-interior-investigating-vandalism-at-wwii-memorial/",
       "source": "The Hill"
     }
   ],
-  "PERSON": [
-    {
-      "name": "Donald J. Trump",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 11,
-      "url": "https://www.theguardian.com/sport/2026/aug/13/the-lakers-have-become-a-poker-chip-for-some-of-the-most-powerful-men-in-america",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Luigi Mangione",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Bob Iger",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/08/13/business/bob-iger-joshua-kushner-lakers.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Alexandria Ocasio-Cortez",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/13/aoc-mamdani-defund-police-prisons",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Karoline Leavitt",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-press-secretary-lies-karoline-leavitt",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Sherlock Holmes",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/aug/13/sherlock-holmes-arthur-conan-doyle-boxing-history",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vladimir Putin",
-      "count": 5,
-      "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Francesca Hong",
-      "count": 5,
-      "url": "https://www.latimes.com/politics/story/2026-08-12/wisconsin-governors-race-deals-upset-to-favored-progressive-in-another-key-primary",
-      "source": "LA Times"
-    },
-    {
-      "name": "David Crowley",
-      "count": 5,
-      "url": "https://www.latimes.com/politics/story/2026-08-12/wisconsin-governors-race-deals-upset-to-favored-progressive-in-another-key-primary",
-      "source": "LA Times"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 46,
-      "url": "https://www.nytimes.com/2026/08/13/opinion/kansas-anti-trans-laws-drivers-license.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/08/13/us/california-jewish-ethnic-identity.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/uss-abraham-conditions-hegseth",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A.",
-      "count": 11,
-      "url": "https://www.latimes.com/california/story/2026-08-13/federal-judge-blocks-trump-administration-attempt-to-take-control-of-l-a-s-homelessness-programs",
-      "source": "LA Times"
-    },
-    {
-      "name": "Russia",
-      "count": 10,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/13/a-bungled-bomb-plot-in-poland-exposed-a-spy-but-whose-spy-was-he",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ukraine",
-      "count": 10,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/13/a-bungled-bomb-plot-in-poland-exposed-a-spy-but-whose-spy-was-he",
-      "source": "The Guardian"
-    },
-    {
-      "name": "China",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/08/13/business/zhu-rongji-death-mourning-china.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Hollywood",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
-      "source": "Wall St. Journal"
-    }
-  ],
-  "updated": "2026-08-13T19:57:08Z"
+  "updated": "2026-08-14T03:25:12Z"
 };
