@@ -2,148 +2,158 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    76,
-    "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html"
+    71,
+    "https://www.nytimes.com/2026/08/14/us/politics/trump-doj-fraud-california-food-truck.html"
+  ],
+  [
+    "court",
+    34,
+    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
+  ],
+  [
+    "president",
+    30,
+    "https://www.nytimes.com/2026/08/14/arts/television/late-night-jimmy-fallon-karoline-leavitt.html"
   ],
   [
     "summer",
     29,
-    "https://www.theguardian.com/music/ng-interactive/2026/aug/13/ai-music"
-  ],
-  [
-    "president",
-    28,
-    "https://www.nytimes.com/2026/08/14/arts/television/late-night-jimmy-fallon-karoline-leavitt.html"
-  ],
-  [
-    "administration",
-    27,
-    "https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html"
-  ],
-  [
-    "judge",
-    24,
-    "https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html"
-  ],
-  [
-    "don",
-    21,
-    "https://www.theguardian.com/stage/2026/aug/13/broadway-shows-on-film-pro-shot"
-  ],
-  [
-    "accused",
-    21,
-    "https://www.theguardian.com/us-news/2026/aug/13/massachusetts-teen-killing-chatgpt"
+    "https://www.theguardian.com/tv-and-radio/2026/aug/14/john-oliver-days-of-our-lives-general-hospital"
   ],
   [
     "american",
-    20,
-    "https://www.nytimes.com/2026/08/13/us/politics/kevin-rideout-niger-islamic-state.html"
-  ],
-  [
-    "released",
-    19,
-    "https://www.nytimes.com/2026/08/13/us/politics/kevin-rideout-niger-islamic-state.html"
+    23,
+    "https://www.theguardian.com/us-news/2026/aug/14/tennessee-justin-pearson-progressive-candidate"
   ],
   [
     "health",
-    19,
-    "https://www.nytimes.com/2026/08/13/nyregion/delaney-hall-detainee-health-ice.html"
-  ],
-  [
-    "ice",
-    18,
-    "https://www.nytimes.com/2026/08/13/nyregion/delaney-hall-detainee-health-ice.html"
-  ],
-  [
-    "california",
-    18,
-    "https://www.nytimes.com/2026/08/13/us/california-jewish-ethnic-identity.html"
-  ],
-  [
-    "company",
-    18,
-    "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html"
-  ],
-  [
-    "film",
-    18,
-    "https://www.theguardian.com/stage/2026/aug/13/broadway-shows-on-film-pro-shot"
-  ],
-  [
-    "lincoln",
-    17,
-    "https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html"
-  ],
-  [
-    "senate",
-    17,
-    "https://www.washingtonpost.com/investigations/2026/08/13/senate-democrats-request-audit-trumps-ballroom-project/"
-  ],
-  [
-    "power",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/13/donald-trump-private-companies-cyber-attack"
-  ],
-  [
-    "uss",
-    17,
-    "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln"
-  ],
-  [
-    "food",
-    16,
-    "https://www.nytimes.com/2026/08/13/dining/mexican-food-scene-united-states-immigration.html"
-  ],
-  [
-    "ago",
-    16,
-    "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html"
-  ],
-  [
-    "board",
-    16,
-    "https://www.nytimes.com/2026/08/13/opinion/gaza-hamas-israel-disarmament-palestinians.html"
-  ],
-  [
-    "million",
-    16,
-    "https://www.washingtonpost.com/nation/2026/08/13/104-billion-powerball-drawing-finds-winner/"
-  ],
-  [
-    "record",
-    16,
-    "https://www.theguardian.com/sport/2026/aug/13/the-lakers-have-become-a-poker-chip-for-some-of-the-most-powerful-men-in-america"
-  ],
-  [
-    "china",
-    15,
-    "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html"
-  ],
-  [
-    "case",
-    15,
-    "https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html"
+    21,
+    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
   ],
   [
     "social",
-    15,
-    "https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html"
+    21,
+    "https://www.nytimes.com/2026/08/14/nyregion/mamdani-bro-culture-sports.html"
   ],
   [
-    "murder",
+    "war",
+    21,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "york",
+    20,
+    "https://www.nytimes.com/video/books/100000011051376/how-thrillers-hook-you-with-their-first-sentence.html"
+  ],
+  [
+    "democrats",
+    20,
+    "https://www.washingtonpost.com/investigations/2026/08/13/senate-democrats-request-audit-trumps-ballroom-project/"
+  ],
+  [
+    "donald",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/aug/14/karoline-leavitt-legacy-of-lies-trump-aide"
+  ],
+  [
+    "democratic",
+    20,
+    "https://www.theguardian.com/us-news/2026/aug/14/oliver-larkin-democratic-socialist-florida-congress"
+  ],
+  [
+    "name",
+    19,
+    "https://www.theguardian.com/wellness/2026/aug/14/antihistamines-menopause-pmdd"
+  ],
+  [
+    "lincoln",
+    18,
+    "https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html"
+  ],
+  [
+    "school",
+    18,
+    "https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html"
+  ],
+  [
+    "political",
+    18,
+    "https://www.nytimes.com/2026/08/14/briefing/are-political-polls-accurate.html"
+  ],
+  [
+    "parents",
+    18,
+    "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/"
+  ],
+  [
+    "uss",
+    18,
+    "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center"
+  ],
+  [
+    "food",
+    17,
+    "https://www.nytimes.com/2026/08/14/us/politics/trump-doj-fraud-california-food-truck.html"
+  ],
+  [
+    "record",
+    17,
+    "https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html"
+  ],
+  [
+    "released",
+    17,
+    "https://www.washingtonpost.com/education/2026/08/12/foreign-student-enrollment-will-fall-nearly-10-report-predicts/"
+  ],
+  [
+    "center",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/13/kennedy-center-renovations-trump-name"
+  ],
+  [
+    "media",
+    16,
+    "https://www.nytimes.com/2026/08/14/nyregion/mamdani-bro-culture-sports.html"
+  ],
+  [
+    "country",
+    16,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "latest",
+    16,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "film",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/14/hollywood-crime-story-mob"
+  ],
+  [
+    "party",
+    16,
+    "https://www.theguardian.com/politics/ng-interactive/2026/aug/14/clacton-byelection-spoiled-ballot-disgraceful-farage-binface"
+  ],
+  [
+    "close",
     15,
     "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
   ],
   [
-    "west",
+    "buying",
     15,
-    "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html"
+    "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html"
   ],
   [
-    "democrats",
+    "crime",
     15,
-    "https://www.washingtonpost.com/investigations/2026/08/13/senate-democrats-request-audit-trumps-ballroom-project/"
+    "https://www.nytimes.com/2026/08/13/books/best-21st-century-thrillers-movie-tv-adaptations.html"
+  ],
+  [
+    "family",
+    15,
+    "https://www.washingtonpost.com/lifestyle/2026/08/14/brooklyn-man-recovers-cherished-rings-20000-pounds-trash/"
   ],
   [
     "fewer",
@@ -151,94 +161,79 @@
     "https://www.washingtonpost.com/education/2026/08/12/foreign-student-enrollment-will-fall-nearly-10-report-predicts/"
   ],
   [
-    "country",
+    "young",
     15,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/commentisfree/2026/aug/14/karoline-leavitt-legacy-of-lies-trump-aide"
   ],
   [
-    "killing",
+    "don",
     15,
-    "https://www.theguardian.com/commentisfree/2026/aug/13/aoc-mamdani-defund-police-prisons"
-  ],
-  [
-    "family",
-    15,
-    "https://www.theguardian.com/sport/2026/aug/13/the-lakers-have-become-a-poker-chip-for-some-of-the-most-powerful-men-in-america"
-  ],
-  [
-    "center",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/13/kennedy-center-renovations-trump-name"
-  ],
-  [
-    "name",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/13/kennedy-center-renovations-trump-name"
-  ],
-  [
-    "something",
-    15,
-    "https://www.theguardian.com/film/2026/aug/14/coyote-vs-acme-looney-tunes-reboot-film-back-from-the-dead"
+    "https://www.theguardian.com/us-news/2026/aug/14/oliver-larkin-democratic-socialist-florida-congress"
   ],
   [
     "night",
     15,
-    "https://www.theguardian.com/sport/2026/aug/13/fernando-mendoza-raiders-cardinals-nfl-preseason-debut"
+    "https://www.theguardian.com/tv-and-radio/2026/aug/14/john-oliver-days-of-our-lives-general-hospital"
   ],
   [
-    "questions",
+    "death",
     14,
-    "https://www.nytimes.com/2026/08/13/nyregion/delaney-hall-detainee-health-ice.html"
+    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
   ],
   [
-    "experts",
+    "early",
     14,
-    "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html"
+    "https://www.nytimes.com/2026/08/14/nyregion/sushi-discount-japanese-markets-new-york.html"
   ],
   [
-    "love",
+    "israeli",
     14,
-    "https://www.washingtonpost.com/nation/2026/08/11/rural-texas-data-center-opposition-is-scrambling-conservative-orthodoxy/"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "south",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/14/oliver-larkin-democratic-socialist-florida-congress"
+  ],
+  [
+    "board",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/13/kennedy-center-renovations-trump-name"
+  ],
+  [
+    "album",
+    14,
+    "https://www.theguardian.com/football/2026/aug/13/we-have-been-staring-at-phil-foden-for-close-to-a-decade-how-well-do-we-actually-know-him"
+  ],
+  [
+    "west",
+    14,
+    "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates"
+  ],
+  [
+    "administration",
+    13,
+    "https://www.nytimes.com/2026/08/14/us/politics/trump-doj-fraud-california-food-truck.html"
+  ],
+  [
+    "mangione",
+    13,
+    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
+  ],
+  [
+    "case",
+    13,
+    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
   ],
   [
     "review",
-    14,
-    "https://www.washingtonpost.com/investigations/2026/08/12/trump-administration-set-spend-least-900-million-white-house-construction/"
-  ],
-  [
-    "latest",
-    14,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "democratic",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/aug/13/aoc-mamdani-defund-police-prisons"
-  ],
-  [
-    "media",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/13/ebikes-e-motorcycles-teenagers"
-  ],
-  [
-    "party",
-    14,
-    "https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates"
-  ],
-  [
-    "buying",
-    14,
-    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
-  ],
-  [
-    "aboard",
-    14,
-    "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln"
-  ],
-  [
-    "court",
     13,
-    "https://www.nytimes.com/2026/08/13/us/politics/alien-enemies-act-trump-appeals-court.html"
+    "https://www.nytimes.com/video/books/100000011051376/how-thrillers-hook-you-with-their-first-sentence.html"
+  ],
+  [
+    "supreme",
+    13,
+    "https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html"
   ],
   [
     "personal",
@@ -246,54 +241,44 @@
     "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html"
   ],
   [
-    "israeli",
+    "ice",
     13,
-    "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html"
+    "https://www.nytimes.com/2026/08/13/nyregion/delaney-hall-detainee-health-ice.html"
   ],
   [
-    "homes",
+    "human",
     13,
-    "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html"
+    "https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html"
   ],
   [
-    "war",
+    "senate",
     13,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "https://www.washingtonpost.com/investigations/2026/08/13/senate-democrats-request-audit-trumps-ballroom-project/"
   ],
   [
-    "donald",
+    "primary",
     13,
-    "https://www.theguardian.com/sport/2026/aug/13/the-lakers-have-become-a-poker-chip-for-some-of-the-most-powerful-men-in-america"
+    "https://www.theguardian.com/us-news/2026/aug/14/oliver-larkin-democratic-socialist-florida-congress"
   ],
   [
-    "music",
+    "fans",
     13,
-    "https://www.theguardian.com/music/ng-interactive/2026/aug/13/ai-music"
+    "https://www.theguardian.com/politics/ng-interactive/2026/aug/14/clacton-byelection-spoiled-ballot-disgraceful-farage-binface"
   ],
   [
-    "york",
-    13,
-    "https://www.theguardian.com/stage/2026/aug/13/broadway-shows-on-film-pro-shot"
-  ],
-  [
-    "building",
+    "kennedy",
     13,
     "https://www.theguardian.com/us-news/2026/aug/13/kennedy-center-renovations-trump-name"
   ],
   [
-    "young",
+    "debut",
     13,
-    "https://www.theguardian.com/music/2026/aug/14/sam-smith-hazel-eyes-unholy-my-guy"
+    "https://www.theguardian.com/sport/2026/aug/13/fernando-mendoza-raiders-cardinals-nfl-preseason-debut"
   ],
   [
-    "race",
+    "something",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/13/ukraine-cathedrals-gaza-archives-iran-erase-history-war"
-  ],
-  [
-    "conditions",
-    13,
-    "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates"
+    "https://www.theguardian.com/football/2026/aug/13/we-have-been-staring-at-phil-foden-for-close-to-a-decade-how-well-do-we-actually-know-him"
   ],
   [
     "filter",
@@ -301,78 +286,93 @@
     "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
   ],
   [
-    "cbs",
-    13,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-08-11/cbs-sports-has-no-timetable-on-determining-tony-romos-return"
-  ],
-  [
-    "primary",
-    13,
-    "https://www.latimes.com/politics/story/2026-08-12/wisconsin-governors-race-deals-upset-to-favored-progressive-in-another-key-primary"
-  ],
-  [
-    "abraham",
-    12,
-    "https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html"
-  ],
-  [
-    "running",
-    12,
-    "https://www.nytimes.com/2026/08/13/us/politics/alien-enemies-act-trump-appeals-court.html"
-  ],
-  [
-    "immigration",
-    12,
-    "https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html"
-  ],
-  [
-    "charges",
-    12,
-    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
-  ],
-  [
-    "death",
-    12,
-    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
-  ],
-  [
-    "really",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/13/aoc-mamdani-defund-police-prisons"
-  ],
-  [
     "aircraft",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/13/trump-aircraft-carriers-steam-catapults"
+    "https://www.nytimes.com/2026/08/14/podcasts/the-headlines/aircraft-carrier-trump-hacking-effort.html"
   ],
   [
-    "human",
+    "guilty",
+    12,
+    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
+  ],
+  [
+    "john",
+    12,
+    "https://www.nytimes.com/2026/08/13/books/readers-list-100-best-thrillers-century.html"
+  ],
+  [
+    "judge",
+    12,
+    "https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html"
+  ],
+  [
+    "farage",
+    12,
+    "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html"
+  ],
+  [
+    "ballroom",
+    12,
+    "https://www.washingtonpost.com/investigations/2026/08/13/senate-democrats-request-audit-trumps-ballroom-project/"
+  ],
+  [
+    "love",
+    12,
+    "https://www.washingtonpost.com/nation/2026/08/11/rural-texas-data-center-opposition-is-scrambling-conservative-orthodoxy/"
+  ],
+  [
+    "homes",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/14/oliver-larkin-democratic-socialist-florida-congress"
+  ],
+  [
+    "politics",
+    12,
+    "https://www.theguardian.com/politics/ng-interactive/2026/aug/14/clacton-byelection-spoiled-ballot-disgraceful-farage-binface"
+  ],
+  [
+    "hot",
+    12,
+    "https://www.theguardian.com/uk-news/2026/aug/14/digested-week-humid-new-york-london-oven-blast-heat"
+  ],
+  [
+    "company",
     12,
     "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates"
   ],
   [
-    "kennedy",
+    "guide",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/13/kennedy-center-renovations-trump-name"
+    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
   ],
   [
-    "weekly",
+    "sex",
     12,
-    "https://www.theguardian.com/politics/audio/2026/aug/14/donald-trump-great-plane-escape-podcast"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/13/death-of-the-kiss-dating"
   ],
   [
-    "water",
-    12,
-    "https://www.theguardian.com/global-development/2026/aug/14/india-assam-climate-disaster-floods-brahmaputra-homeless-deaths"
+    "charges",
+    11,
+    "https://www.nytimes.com/2026/08/14/us/politics/trump-doj-fraud-california-food-truck.html"
+  ],
+  [
+    "election",
+    11,
+    "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html"
   ],
   [
     "game",
-    12,
-    "https://www.theguardian.com/sport/gallery/2026/aug/14/mlb-field-of-dreams-iowa-baseball-game-pictures"
+    11,
+    "https://www.nytimes.com/video/books/100000011051376/how-thrillers-hook-you-with-their-first-sentence.html"
   ],
   [
-    "plastic",
-    12,
-    "https://www.theguardian.com/environment/2026/aug/13/new-un-plastic-treaty-going-backwards-experts"
+    "team",
+    11,
+    "https://www.nytimes.com/2026/08/14/nyregion/mamdani-bro-culture-sports.html"
+  ],
+  [
+    "pop",
+    11,
+    "https://www.nytimes.com/2026/08/14/nyregion/mamdani-bro-culture-sports.html"
   ]
 ];
