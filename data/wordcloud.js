@@ -2,123 +2,158 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    71,
-    "https://www.nytimes.com/2026/08/14/us/politics/trump-doj-fraud-california-food-truck.html"
-  ],
-  [
-    "court",
-    34,
-    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
+    80,
+    "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html"
   ],
   [
     "president",
-    30,
-    "https://www.nytimes.com/2026/08/14/arts/television/late-night-jimmy-fallon-karoline-leavitt.html"
+    36,
+    "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html"
   ],
   [
     "summer",
-    29,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/14/john-oliver-days-of-our-lives-general-hospital"
+    33,
+    "https://www.theguardian.com/sport/2026/aug/14/donald-trump-patriot-games-tv-review"
   ],
   [
-    "american",
-    23,
-    "https://www.theguardian.com/us-news/2026/aug/14/tennessee-justin-pearson-progressive-candidate"
-  ],
-  [
-    "health",
-    21,
-    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
-  ],
-  [
-    "social",
-    21,
-    "https://www.nytimes.com/2026/08/14/nyregion/mamdani-bro-culture-sports.html"
+    "parents",
+    27,
+    "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/"
   ],
   [
     "war",
-    21,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    25,
+    "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html"
   ],
   [
-    "york",
+    "case",
+    25,
+    "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html"
+  ],
+  [
+    "mangione",
+    24,
+    "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/"
+  ],
+  [
+    "american",
+    24,
+    "https://www.theguardian.com/sport/2026/aug/14/donald-trump-patriot-games-tv-review"
+  ],
+  [
+    "guilty",
+    23,
+    "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/"
+  ],
+  [
+    "family",
+    22,
+    "https://www.washingtonpost.com/lifestyle/2026/08/14/brooklyn-man-recovers-cherished-rings-20000-pounds-trash/"
+  ],
+  [
+    "uss",
+    22,
+    "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates"
+  ],
+  [
+    "court",
     20,
-    "https://www.nytimes.com/video/books/100000011051376/how-thrillers-hook-you-with-their-first-sentence.html"
+    "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html"
   ],
   [
-    "democrats",
-    20,
-    "https://www.washingtonpost.com/investigations/2026/08/13/senate-democrats-request-audit-trumps-ballroom-project/"
-  ],
-  [
-    "donald",
+    "social",
     20,
     "https://www.theguardian.com/commentisfree/2026/aug/14/karoline-leavitt-legacy-of-lies-trump-aide"
   ],
   [
-    "democratic",
+    "health",
     20,
+    "https://www.theguardian.com/us-news/2026/aug/13/california-paraquat-ban-pesticide"
+  ],
+  [
+    "administration",
+    19,
+    "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html"
+  ],
+  [
+    "democratic",
+    19,
     "https://www.theguardian.com/us-news/2026/aug/14/oliver-larkin-democratic-socialist-florida-congress"
   ],
   [
-    "name",
+    "luigi",
     19,
-    "https://www.theguardian.com/wellness/2026/aug/14/antihistamines-menopause-pmdd"
+    "https://www.theguardian.com/us-news/2026/aug/14/luigi-mangione-hearing-federal-case"
+  ],
+  [
+    "film",
+    19,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/14/hollywood-crime-story-mob"
+  ],
+  [
+    "conditions",
+    19,
+    "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france"
+  ],
+  [
+    "charges",
+    18,
+    "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html"
+  ],
+  [
+    "race",
+    18,
+    "https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html"
+  ],
+  [
+    "games",
+    18,
+    "https://www.theguardian.com/sport/2026/aug/14/donald-trump-patriot-games-tv-review"
   ],
   [
     "lincoln",
     18,
-    "https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html"
-  ],
-  [
-    "school",
-    18,
-    "https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html"
-  ],
-  [
-    "political",
-    18,
-    "https://www.nytimes.com/2026/08/14/briefing/are-political-polls-accurate.html"
-  ],
-  [
-    "parents",
-    18,
-    "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/"
-  ],
-  [
-    "uss",
-    18,
-    "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center"
+    "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates"
   ],
   [
     "food",
+    18,
+    "https://www.theguardian.com/environment/2026/aug/14/el-nino-predicted-peak-amazon-rainforest-climate"
+  ],
+  [
+    "south",
     17,
-    "https://www.nytimes.com/2026/08/14/us/politics/trump-doj-fraud-california-food-truck.html"
+    "https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html"
+  ],
+  [
+    "police",
+    17,
+    "https://www.nytimes.com/2026/08/14/world/europe/cezanne-renoir-matisse-heist-recovered.html"
   ],
   [
     "record",
     17,
-    "https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html"
-  ],
-  [
-    "released",
-    17,
-    "https://www.washingtonpost.com/education/2026/08/12/foreign-student-enrollment-will-fall-nearly-10-report-predicts/"
-  ],
-  [
-    "center",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/13/kennedy-center-renovations-trump-name"
+    "https://www.theguardian.com/commentisfree/2026/aug/14/karoline-leavitt-legacy-of-lies-trump-aide"
   ],
   [
     "media",
+    17,
+    "https://www.theguardian.com/wellness/2026/aug/14/antihistamines-menopause-pmdd"
+  ],
+  [
+    "farage",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/aug/14/donald-trump-iran-nigel-farage-bin-populists-losers"
+  ],
+  [
+    "hollywood",
     16,
-    "https://www.nytimes.com/2026/08/14/nyregion/mamdani-bro-culture-sports.html"
+    "https://www.nytimes.com/2026/08/14/style/ian-frazier-coyote-vs-acme-movie.html"
   ],
   [
     "country",
     16,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/08/14/world/asia/afghanistan-us-taliban.html"
   ],
   [
     "latest",
@@ -126,19 +161,29 @@
     "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "film",
+    "primary",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/14/oliver-larkin-democratic-socialist-florida-congress"
+  ],
+  [
+    "york",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/14/luigi-mangione-hearing-federal-case"
+  ],
+  [
+    "crime",
     16,
     "https://www.theguardian.com/tv-and-radio/2026/aug/14/hollywood-crime-story-mob"
   ],
   [
-    "party",
+    "judge",
     16,
-    "https://www.theguardian.com/politics/ng-interactive/2026/aug/14/clacton-byelection-spoiled-ballot-disgraceful-farage-binface"
+    "https://www.latimes.com/world-nation/story/2026-08-13/judge-dismisses-trump-lawsuit-alleging-antisemitism-at-harvard"
   ],
   [
-    "close",
+    "million",
     15,
-    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
+    "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html"
   ],
   [
     "buying",
@@ -146,19 +191,24 @@
     "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html"
   ],
   [
-    "crime",
+    "death",
     15,
-    "https://www.nytimes.com/2026/08/13/books/best-21st-century-thrillers-movie-tv-adaptations.html"
+    "https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html"
   ],
   [
-    "family",
+    "brian",
     15,
-    "https://www.washingtonpost.com/lifestyle/2026/08/14/brooklyn-man-recovers-cherished-rings-20000-pounds-trash/"
+    "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/"
   ],
   [
-    "fewer",
+    "released",
     15,
-    "https://www.washingtonpost.com/education/2026/08/12/foreign-student-enrollment-will-fall-nearly-10-report-predicts/"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "donald",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/aug/14/karoline-leavitt-legacy-of-lies-trump-aide"
   ],
   [
     "young",
@@ -166,119 +216,114 @@
     "https://www.theguardian.com/commentisfree/2026/aug/14/karoline-leavitt-legacy-of-lies-trump-aide"
   ],
   [
-    "don",
+    "killed",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/14/oliver-larkin-democratic-socialist-florida-congress"
+    "https://www.theguardian.com/us-news/2026/aug/14/luigi-mangione-hearing-federal-case"
   ],
   [
-    "night",
+    "fewer",
     15,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/14/john-oliver-days-of-our-lives-general-hospital"
+    "https://www.theguardian.com/commentisfree/2026/aug/15/authoritarian-liberal-democracy-good-life-state-liberalism-one-nation-fidesz-ntwnfb"
   ],
   [
-    "death",
+    "senate",
     14,
-    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
+    "https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html"
+  ],
+  [
+    "arrested",
+    14,
+    "https://www.nytimes.com/2026/08/14/world/europe/cezanne-renoir-matisse-heist-recovered.html"
+  ],
+  [
+    "thompson",
+    14,
+    "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/"
+  ],
+  [
+    "questions",
+    14,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "early",
     14,
-    "https://www.nytimes.com/2026/08/14/nyregion/sushi-discount-japanese-markets-new-york.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "israeli",
+    "night",
     14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.theguardian.com/sport/2026/aug/14/donald-trump-patriot-games-tv-review"
   ],
   [
-    "south",
+    "shot",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/14/oliver-larkin-democratic-socialist-florida-congress"
+    "https://www.theguardian.com/us-news/2026/aug/14/luigi-mangione-hearing-federal-case"
   ],
   [
-    "board",
+    "care",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/13/kennedy-center-renovations-trump-name"
+    "https://www.theguardian.com/us-news/2026/aug/14/mississippi-ice-facility-gas-leak"
   ],
   [
-    "album",
+    "announced",
     14,
-    "https://www.theguardian.com/football/2026/aug/13/we-have-been-staring-at-phil-foden-for-close-to-a-decade-how-well-do-we-actually-know-him"
+    "https://www.theguardian.com/us-news/2026/aug/14/bulldozers-big-bend-national-park-trump"
   ],
   [
-    "west",
+    "school",
     14,
-    "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates"
+    "https://www.theguardian.com/us-news/2026/aug/14/tennessee-justin-pearson-progressive-candidate"
   ],
   [
-    "administration",
-    13,
-    "https://www.nytimes.com/2026/08/14/us/politics/trump-doj-fraud-california-food-truck.html"
+    "game",
+    14,
+    "https://www.theguardian.com/sport/2026/aug/14/nfl-preseason-storylines-are-the-rams-inevitable-and-will-the-pats-survive-scandal"
   ],
   [
-    "mangione",
-    13,
-    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
+    "black",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/14/nolan-wells-parents-nabj"
   ],
   [
-    "case",
+    "washington",
     13,
-    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
+    "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html"
   ],
   [
-    "review",
+    "sex",
     13,
-    "https://www.nytimes.com/video/books/100000011051376/how-thrillers-hook-you-with-their-first-sentence.html"
+    "https://www.nytimes.com/2026/08/14/movies/teenage-sex-and-death-at-camp-miasma-clip.html"
   ],
   [
-    "supreme",
+    "fire",
     13,
-    "https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html"
+    "https://www.nytimes.com/2026/08/14/world/europe/notre-dame-windows-glass-tabouret.html"
   ],
   [
-    "personal",
+    "europe",
     13,
-    "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html"
+    "https://www.nytimes.com/2026/08/14/climate/europe-heat-waves-jet-stream.html"
+  ],
+  [
+    "reiner",
+    13,
+    "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/"
   ],
   [
     "ice",
     13,
-    "https://www.nytimes.com/2026/08/13/nyregion/delaney-hall-detainee-health-ice.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "human",
+    "enough",
     13,
-    "https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html"
+    "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates"
   ],
   [
-    "senate",
+    "won",
     13,
-    "https://www.washingtonpost.com/investigations/2026/08/13/senate-democrats-request-audit-trumps-ballroom-project/"
-  ],
-  [
-    "primary",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/14/oliver-larkin-democratic-socialist-florida-congress"
-  ],
-  [
-    "fans",
-    13,
-    "https://www.theguardian.com/politics/ng-interactive/2026/aug/14/clacton-byelection-spoiled-ballot-disgraceful-farage-binface"
-  ],
-  [
-    "kennedy",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/13/kennedy-center-renovations-trump-name"
-  ],
-  [
-    "debut",
-    13,
-    "https://www.theguardian.com/sport/2026/aug/13/fernando-mendoza-raiders-cardinals-nfl-preseason-debut"
-  ],
-  [
-    "something",
-    13,
-    "https://www.theguardian.com/football/2026/aug/13/we-have-been-staring-at-phil-foden-for-close-to-a-decade-how-well-do-we-actually-know-him"
+    "https://www.theguardian.com/us-news/2026/aug/14/tennessee-justin-pearson-progressive-candidate"
   ],
   [
     "filter",
@@ -286,93 +331,48 @@
     "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
   ],
   [
-    "aircraft",
+    "murder",
     12,
-    "https://www.nytimes.com/2026/08/14/podcasts/the-headlines/aircraft-carrier-trump-hacking-effort.html"
+    "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/"
   ],
   [
-    "guilty",
+    "pop",
     12,
-    "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "john",
+    "past",
     12,
-    "https://www.nytimes.com/2026/08/13/books/readers-list-100-best-thrillers-century.html"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "judge",
+    "because",
     12,
-    "https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html"
+    "https://www.theguardian.com/commentisfree/2026/aug/14/karoline-leavitt-legacy-of-lies-trump-aide"
   ],
   [
-    "farage",
-    12,
-    "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html"
-  ],
-  [
-    "ballroom",
-    12,
-    "https://www.washingtonpost.com/investigations/2026/08/13/senate-democrats-request-audit-trumps-ballroom-project/"
-  ],
-  [
-    "love",
-    12,
-    "https://www.washingtonpost.com/nation/2026/08/11/rural-texas-data-center-opposition-is-scrambling-conservative-orthodoxy/"
-  ],
-  [
-    "homes",
+    "don",
     12,
     "https://www.theguardian.com/us-news/2026/aug/14/oliver-larkin-democratic-socialist-florida-congress"
   ],
   [
-    "politics",
+    "plans",
     12,
-    "https://www.theguardian.com/politics/ng-interactive/2026/aug/14/clacton-byelection-spoiled-ballot-disgraceful-farage-binface"
+    "https://www.theguardian.com/us-news/2026/aug/14/bulldozers-big-bend-national-park-trump"
   ],
   [
-    "hot",
+    "west",
     12,
-    "https://www.theguardian.com/uk-news/2026/aug/14/digested-week-humid-new-york-london-oven-blast-heat"
+    "https://www.theguardian.com/us-news/2026/aug/14/bulldozers-big-bend-national-park-trump"
   ],
   [
-    "company",
+    "party",
     12,
-    "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates"
+    "https://www.theguardian.com/us-news/2026/aug/14/florida-debbie-wasserman-schultz-elijah-manley"
   ],
   [
-    "guide",
+    "human",
     12,
-    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
-  ],
-  [
-    "sex",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/13/death-of-the-kiss-dating"
-  ],
-  [
-    "charges",
-    11,
-    "https://www.nytimes.com/2026/08/14/us/politics/trump-doj-fraud-california-food-truck.html"
-  ],
-  [
-    "election",
-    11,
-    "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html"
-  ],
-  [
-    "game",
-    11,
-    "https://www.nytimes.com/video/books/100000011051376/how-thrillers-hook-you-with-their-first-sentence.html"
-  ],
-  [
-    "team",
-    11,
-    "https://www.nytimes.com/2026/08/14/nyregion/mamdani-bro-culture-sports.html"
-  ],
-  [
-    "pop",
-    11,
-    "https://www.nytimes.com/2026/08/14/nyregion/mamdani-bro-culture-sports.html"
+    "https://www.theguardian.com/environment/2026/aug/14/el-nino-predicted-peak-amazon-rainforest-climate"
   ]
 ];
