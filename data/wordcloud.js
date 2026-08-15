@@ -2,143 +2,118 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    72,
+    60,
     "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html"
   ],
   [
     "president",
     33,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html"
   ],
   [
-    "war",
-    28,
-    "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html"
-  ],
-  [
-    "iran",
+    "south",
     23,
-    "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html"
-  ],
-  [
-    "latest",
-    22,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "summer",
-    22,
-    "https://www.theguardian.com/food/2026/aug/15/best-salad-recipes-lettuce-free-cyclospora"
-  ],
-  [
-    "children",
-    21,
-    "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html"
-  ],
-  [
-    "sea",
-    21,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "country",
-    20,
-    "https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html"
-  ],
-  [
-    "food",
-    19,
-    "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html"
-  ],
-  [
-    "health",
-    18,
-    "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html"
+    "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html"
   ],
   [
     "death",
-    18,
+    22,
     "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
-  ],
-  [
-    "black",
-    18,
-    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
-  ],
-  [
-    "dead",
-    18,
-    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
-  ],
-  [
-    "senate",
-    18,
-    "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html"
   ],
   [
     "star",
-    18,
+    22,
     "https://www.nytimes.com/2026/08/15/magazine/matthew-rhys-interview.html"
   ],
   [
-    "mangione",
-    18,
-    "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/"
+    "american",
+    21,
+    "https://www.washingtonpost.com/nation/2026/08/15/what-fake-ohio-trailer-park-poland-taught-me-about-american-dream/"
+  ],
+  [
+    "summer",
+    21,
+    "https://www.theguardian.com/food/2026/aug/15/best-salad-recipes-lettuce-free-cyclospora"
+  ],
+  [
+    "primary",
+    20,
+    "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html"
+  ],
+  [
+    "democratic",
+    20,
+    "https://www.nytimes.com/2026/08/15/opinion/democrats-midterms-progress.html"
   ],
   [
     "family",
-    18,
+    20,
     "https://www.washingtonpost.com/lifestyle/2026/08/14/brooklyn-man-recovers-cherished-rings-20000-pounds-trash/"
   ],
   [
-    "case",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/15/luigi-mangione-double-jeopardy-state-case"
+    "democrats",
+    19,
+    "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html"
   ],
   [
-    "police",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting"
+    "war",
+    19,
+    "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html"
   ],
   [
-    "uss",
+    "social",
+    19,
+    "https://www.theguardian.com/environment/2026/aug/15/gen-z-flocks-to-birdtok-as-birding-takes-flight-its-a-craving-for-something-real"
+  ],
+  [
+    "food",
     17,
-    "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html"
+    "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html"
   ],
   [
-    "early",
+    "party",
     17,
-    "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html"
+    "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html"
   ],
   [
-    "least",
+    "iran",
     17,
-    "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html"
+    "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html"
+  ],
+  [
+    "children",
+    17,
+    "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html"
+  ],
+  [
+    "school",
+    17,
+    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
   ],
   [
     "shooting",
     17,
-    "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/"
+    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
   ],
   [
-    "guilty",
-    17,
-    "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/"
-  ],
-  [
-    "recent",
+    "don",
     17,
     "https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins"
   ],
   [
-    "young",
+    "film",
     17,
     "https://www.theguardian.com/film/2026/aug/15/will-poulter-interview-union-county-movie"
   ],
   [
-    "michigan",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county"
+    "york",
+    16,
+    "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html"
+  ],
+  [
+    "senate",
+    16,
+    "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html"
   ],
   [
     "questions",
@@ -146,89 +121,69 @@
     "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html"
   ],
   [
-    "killed",
+    "early",
     16,
-    "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html"
+    "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html"
   ],
   [
-    "school",
+    "country",
     16,
-    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
-  ],
-  [
-    "american",
-    16,
-    "https://www.washingtonpost.com/nation/2026/08/15/what-fake-ohio-trailer-park-poland-taught-me-about-american-dream/"
-  ],
-  [
-    "social",
-    16,
-    "https://www.theguardian.com/environment/2026/aug/15/gen-z-flocks-to-birdtok-as-birding-takes-flight-its-a-craving-for-something-real"
-  ],
-  [
-    "media",
-    16,
-    "https://www.theguardian.com/environment/2026/aug/15/gen-z-flocks-to-birdtok-as-birding-takes-flight-its-a-craving-for-something-real"
-  ],
-  [
-    "lincoln",
-    15,
-    "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html"
-  ],
-  [
-    "politics",
-    15,
-    "https://www.nytimes.com/2026/08/14/us/politics/ed-markey-senator-age.html"
-  ],
-  [
-    "court",
-    15,
-    "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/"
-  ],
-  [
-    "don",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins"
-  ],
-  [
-    "south",
-    15,
-    "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "fewer",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/aug/15/best-tech-essentials-college-students"
+  ],
+  [
+    "game",
+    16,
+    "https://www.theguardian.com/sport/2026/aug/15/espn-layoffs-nba-coverage-hot-takes"
+  ],
+  [
+    "health",
     15,
-    "https://www.theguardian.com/commentisfree/2026/aug/15/guilt-afghanistan-freedom-prisoners-taliban"
+    "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html"
   ],
   [
-    "primary",
+    "race",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/14/florida-debbie-wasserman-schultz-elijah-manley"
+    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
   ],
   [
-    "trial",
-    14,
-    "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html"
+    "black",
+    15,
+    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
   ],
   [
-    "administration",
-    14,
-    "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html"
+    "past",
+    15,
+    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
   ],
   [
-    "democrats",
-    14,
-    "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html"
+    "latest",
+    15,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "party",
-    14,
-    "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html"
+    "case",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/15/luigi-mangione-double-jeopardy-state-case"
   ],
   [
-    "europe",
+    "media",
+    15,
+    "https://www.theguardian.com/environment/2026/aug/15/gen-z-flocks-to-birdtok-as-birding-takes-flight-its-a-craving-for-something-real"
+  ],
+  [
+    "police",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/aug/15/aoc-woke-1"
+  ],
+  [
+    "sea",
     14,
-    "https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
     "everything",
@@ -236,69 +191,94 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "past",
+    "recent",
     14,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "york",
-    14,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/15/will-aoc-run-for-president"
-  ],
-  [
-    "game",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/15/secret-botox-boob-jobs-hair-transplants"
-  ],
-  [
-    "parents",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/14/surrogate-baby-texas-parents"
-  ],
-  [
-    "care",
-    13,
-    "https://www.nytimes.com/2026/08/15/opinion/trump-health-care-cuts.html"
-  ],
-  [
-    "film",
-    13,
-    "https://www.theguardian.com/film/2026/aug/15/will-poulter-interview-union-county-movie"
+    "https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins"
   ],
   [
     "enough",
-    13,
+    14,
     "https://www.theguardian.com/film/2026/aug/15/will-poulter-interview-union-county-movie"
   ],
   [
-    "killing",
-    13,
-    "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says"
-  ],
-  [
-    "ukraine",
-    13,
-    "https://www.theguardian.com/world/2026/aug/15/ukraine-war-briefing-zelenskyy-warns-egypt-of-food-supply-threat-caused-by-russian-strikes-in-black-sea"
-  ],
-  [
     "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/aug/15/best-tech-essentials-college-students"
   ],
   [
     "buying",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/aug/15/best-tech-essentials-college-students"
+  ],
+  [
+    "political",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/aug/15/aoc-woke-1"
+  ],
+  [
+    "michigan",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county"
+  ],
+  [
+    "administration",
     13,
-    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
+    "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html"
   ],
   [
-    "judge",
-    12,
-    "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html"
+    "air",
+    13,
+    "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html"
   ],
   [
-    "led",
-    12,
-    "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html"
+    "dead",
+    13,
+    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
+  ],
+  [
+    "court",
+    13,
+    "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/"
+  ],
+  [
+    "israel",
+    13,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "million",
+    13,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "immigration",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "released",
+    13,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "david",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins"
+  ],
+  [
+    "weekly",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/15/best-tech-essentials-college-students"
+  ],
+  [
+    "guide",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/15/best-tech-essentials-college-students"
+  ],
+  [
+    "record",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/15/guilt-afghanistan-freedom-prisoners-taliban"
   ],
   [
     "donald",
@@ -306,73 +286,93 @@
     "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html"
   ],
   [
-    "attacks",
-    12,
-    "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html"
-  ],
-  [
-    "race",
+    "professor",
     12,
     "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
   ],
   [
-    "trying",
+    "mangione",
     12,
-    "https://www.nytimes.com/2026/08/15/opinion/trump-health-care-cuts.html"
+    "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/"
   ],
   [
-    "pop",
+    "guilty",
     12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/"
+  ],
+  [
+    "art",
+    12,
+    "https://www.washingtonpost.com/nation/2026/08/14/landlord-was-cleaning-out-vacant-apartment-then-he-found-lost-picasso/"
+  ],
+  [
+    "least",
+    12,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "young",
+    12,
+    "https://www.theguardian.com/film/2026/aug/15/will-poulter-interview-union-county-movie"
+  ],
+  [
+    "uss",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health"
+  ],
+  [
+    "killing",
+    12,
+    "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says"
+  ],
+  [
+    "morning",
+    12,
+    "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says"
+  ],
+  [
+    "love",
+    12,
+    "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires"
+  ],
+  [
+    "trial",
+    11,
+    "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html"
+  ],
+  [
+    "led",
+    11,
+    "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html"
+  ],
+  [
+    "thousands",
+    11,
+    "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html"
   ],
   [
     "university",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins"
+    11,
+    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
   ],
   [
-    "hear",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/15/wisconsin-healthcare-democrats-canvassers"
+    "inside",
+    11,
+    "https://www.washingtonpost.com/nation/2026/08/15/what-fake-ohio-trailer-park-poland-taught-me-about-american-dream/"
   ],
   [
-    "murder",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/15/luigi-mangione-double-jeopardy-state-case"
+    "playing",
+    11,
+    "https://www.washingtonpost.com/nation/2026/08/15/what-fake-ohio-trailer-park-poland-taught-me-about-american-dream/"
   ],
   [
-    "london",
-    12,
-    "https://www.theguardian.com/uk-news/2026/aug/15/jason-arday-tributes-paid-to-former-cambridge-professor"
+    "lost",
+    11,
+    "https://www.washingtonpost.com/nation/2026/08/14/landlord-was-cleaning-out-vacant-apartment-then-he-found-lost-picasso/"
   ],
   [
-    "security",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/15/immigration-judges-deportation-hearings"
-  ],
-  [
-    "crime",
-    12,
-    "https://www.theguardian.com/books/ng-interactive/2026/aug/15/christopher-berry-dee-bestselling-true-crime-author-investigation"
-  ],
-  [
-    "progressives",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/15/woke-1-aoc-progressives"
-  ],
-  [
-    "farage",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/14/donald-trump-iran-nigel-farage-bin-populists-losers"
-  ],
-  [
-    "threat",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/14/donald-trump-iran-nigel-farage-bin-populists-losers"
-  ],
-  [
-    "fight",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/14/the-guardian-view-on-nigel-farage-clacton-cannot-acquit-him"
+    "military",
+    11,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ]
 ];
