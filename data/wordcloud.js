@@ -2,163 +2,133 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    53,
-    "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html"
+    58,
+    "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html"
   ],
   [
     "war",
-    26,
-    "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html"
-  ],
-  [
-    "president",
     25,
-    "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html"
-  ],
-  [
-    "death",
-    24,
-    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
-  ],
-  [
-    "police",
-    22,
-    "https://www.nytimes.com/2026/08/16/world/asia/india-women-protests-online-abuse.html"
-  ],
-  [
-    "questions",
-    21,
-    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
-  ],
-  [
-    "south",
-    20,
-    "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html"
-  ],
-  [
-    "family",
-    20,
-    "https://www.washingtonpost.com/lifestyle/2026/08/14/brooklyn-man-recovers-cherished-rings-20000-pounds-trash/"
-  ],
-  [
-    "iran",
-    19,
-    "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html"
-  ],
-  [
-    "children",
-    19,
-    "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it"
+    "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html"
   ],
   [
     "summer",
-    19,
-    "https://www.theguardian.com/food/2026/aug/15/best-salad-recipes-lettuce-free-cyclospora"
+    25,
+    "https://www.theguardian.com/commentisfree/2026/aug/16/odysseus-odyssey-cate-blanchett-electra-persona-women-ancient-greece"
   ],
   [
-    "york",
-    18,
-    "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html"
+    "family",
+    21,
+    "https://www.nytimes.com/2026/08/16/arts/zilversmit-netherlands-podcast-book-holocaust-nazi.html"
   ],
   [
     "school",
-    18,
-    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
+    21,
+    "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it"
   ],
   [
-    "latest",
-    18,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "president",
+    19,
+    "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html"
   ],
   [
-    "russia",
-    18,
+    "record",
+    19,
     "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
+  ],
+  [
+    "south",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/aug/16/odysseus-odyssey-cate-blanchett-electra-persona-women-ancient-greece"
+  ],
+  [
+    "water",
+    18,
+    "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis"
+  ],
+  [
+    "california",
+    18,
+    "https://www.theguardian.com/us-news/2026/aug/16/california-law-chemicals-diapers"
   ],
   [
     "primary",
     17,
-    "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html"
+    "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html"
   ],
   [
-    "race",
+    "iran",
     17,
-    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
+    "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html"
   ],
   [
-    "shooting",
-    17,
-    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
-  ],
-  [
-    "crime",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/15/ex-police-officer-released-new-orleans-attack"
-  ],
-  [
-    "senate",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/15/alaska-mary-peltola-rejects-kamala-harris-unsolicited-support"
-  ],
-  [
-    "michigan",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county"
-  ],
-  [
-    "star",
+    "party",
     16,
-    "https://www.nytimes.com/2026/08/15/magazine/matthew-rhys-interview.html"
-  ],
-  [
-    "least",
-    16,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html"
   ],
   [
     "past",
-    15,
-    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
+    16,
+    "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html"
   ],
   [
-    "food",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
+    "questions",
+    16,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "latest",
+    16,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
     "media",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/15/trump-washington-post-drug-prices"
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/16/new-orleans-journalist-handcuffing"
   ],
   [
-    "love",
-    15,
+    "police",
+    16,
+    "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday"
+  ],
+  [
+    "social",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/13/ebikes-e-motorcycles-teenagers"
+  ],
+  [
+    "really",
+    16,
     "https://www.theguardian.com/lifeandstyle/2026/aug/16/havent-dated-for-years-how-do-i-prepare-annalisa-barbieri"
   ],
   [
-    "fewer",
+    "love",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/16/havent-dated-for-years-how-do-i-prepare-annalisa-barbieri"
+  ],
+  [
+    "american",
     15,
-    "https://www.theguardian.com/commentisfree/2026/aug/15/guilt-afghanistan-freedom-prisoners-taliban"
+    "https://www.washingtonpost.com/nation/2026/08/15/what-fake-ohio-trailer-park-poland-taught-me-about-american-dream/"
   ],
   [
-    "air",
-    14,
-    "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html"
+    "least",
+    15,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "democrats",
-    14,
-    "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html"
+    "don",
+    15,
+    "https://www.theguardian.com/fashion/2026/aug/16/stylish-people-what-clothes-wear-every-day-why"
   ],
   [
-    "military",
-    14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "children",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/aug/16/odysseus-odyssey-cate-blanchett-electra-persona-women-ancient-greece"
   ],
   [
-    "everything",
+    "court",
     14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/"
   ],
   [
     "country",
@@ -166,64 +136,59 @@
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "ukraine",
+    "released",
+    14,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "food",
     14,
     "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
   ],
   [
-    "social",
+    "again",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/15/trump-washington-post-drug-prices"
+    "https://www.theguardian.com/us-news/2026/aug/16/trumps-midterm-malaise-endless-war-and-high-prices-could-spell-doom-for-republicans-in-november"
   ],
   [
-    "california",
+    "senate",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/15/teen-pleas-guilty-california-sea-lion-attack"
+    "https://www.theguardian.com/us-news/2026/aug/16/california-law-chemicals-diapers"
   ],
   [
-    "security",
+    "democrats",
     14,
-    "https://www.theguardian.com/world/2026/aug/16/ukraine-war-briefing-kyiv-faces-missile-barrage-after-zelenskyy-targets-russian-satellite-network"
-  ],
-  [
-    "london",
-    14,
-    "https://www.theguardian.com/world/2026/aug/16/biopic-of-war-hero-charles-de-gaulle-becomes-surprise-hit-france"
+    "https://www.theguardian.com/commentisfree/2026/aug/15/woke-1-aoc-progressives"
   ],
   [
     "film",
     14,
-    "https://www.theguardian.com/commentisfree/2026/aug/14/the-guardian-view-on-booming-poetry-sales-homer-meet-the-instapoets"
+    "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making"
   ],
   [
-    "buying",
+    "michigan",
     14,
-    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/15/steven-scott-grogin-best-phone-picture-bullfrog"
   ],
   [
-    "party",
+    "democratic",
     13,
-    "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html"
+    "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html"
   ],
   [
-    "dead",
+    "university",
     13,
-    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
+    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
   ],
   [
-    "american",
+    "sea",
     13,
-    "https://www.nytimes.com/2026/08/16/opinion/america-weed-cannabis-europe.html"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "health",
+    "everything",
     13,
-    "https://www.nytimes.com/2026/08/12/opinion/trump-health-questions.html"
-  ],
-  [
-    "won",
-    13,
-    "https://www.washingtonpost.com/obituaries/2026/08/15/bishop-rainey-cheeks-taekwondo-master-dc-lgbtq-leader-dies-74/"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
     "early",
@@ -231,39 +196,29 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "record",
+    "donald",
     13,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis"
+    "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
   ],
   [
-    "don",
+    "race",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins"
+    "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
   ],
   [
-    "uss",
+    "near",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health"
+    "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire"
   ],
   [
-    "lincoln",
+    "island",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health"
+    "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall"
   ],
   [
-    "case",
+    "crime",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/15/luigi-mangione-double-jeopardy-state-case"
-  ],
-  [
-    "killed",
-    13,
-    "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake"
-  ],
-  [
-    "political",
-    13,
-    "https://www.theguardian.com/world/2026/aug/16/biopic-of-war-hero-charles-de-gaulle-becomes-surprise-hit-france"
+    "https://www.theguardian.com/us-news/2026/aug/15/teen-pleas-guilty-california-sea-lion-attack"
   ],
   [
     "game",
@@ -271,39 +226,69 @@
     "https://www.theguardian.com/sport/2026/aug/15/espn-layoffs-nba-coverage-hot-takes"
   ],
   [
+    "album",
+    13,
+    "https://www.theguardian.com/music/2026/aug/16/james-ellis-ford-music-producer-interview-lost-in-another-world-leukaemia-arctic-monkeys-florence-machine"
+  ],
+  [
     "filter",
     13,
     "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
   ],
   [
-    "attack",
-    12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "weekly",
+    13,
+    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
   ],
   [
-    "campaign",
+    "buying",
+    13,
+    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
+  ],
+  [
+    "fewer",
+    13,
+    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
+  ],
+  [
+    "power",
+    12,
+    "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html"
+  ],
+  [
+    "shooting",
+    12,
+    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
+  ],
+  [
+    "led",
     12,
     "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "released",
+    "died",
     12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall"
   ],
   [
-    "water",
+    "recent",
     12,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis"
+    "https://www.theguardian.com/us-news/2026/aug/16/new-orleans-journalist-handcuffing"
   ],
   [
-    "island",
+    "sex",
     12,
-    "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/16/this-is-how-we-do-it-now-if-we-fight-we-cant-just-have-sex"
   ],
   [
-    "weekly",
+    "young",
     12,
-    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
+    "https://www.theguardian.com/environment/2026/aug/15/gen-z-flocks-to-birdtok-as-birding-takes-flight-its-a-craving-for-something-real"
+  ],
+  [
+    "death",
+    12,
+    "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident"
   ],
   [
     "guide",
@@ -311,24 +296,34 @@
     "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
   ],
   [
-    "donald",
+    "fire",
     11,
-    "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html"
+    "https://www.washingtonpost.com/lifestyle/2026/08/16/pet-goose-honks-alert-family-fire-helping-save-dozens-birds/"
   ],
   [
-    "black",
+    "community",
     11,
-    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
+    "https://www.washingtonpost.com/obituaries/2026/08/15/bishop-rainey-cheeks-taekwondo-master-dc-lgbtq-leader-dies-74/"
   ],
   [
-    "university",
+    "shoes",
     11,
-    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
+    "https://www.theguardian.com/fashion/2026/aug/16/stylish-people-what-clothes-wear-every-day-why"
   ],
   [
-    "border",
+    "los",
     11,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/us-news/2026/aug/16/los-angeles-movies-cinerama-dome"
+  ],
+  [
+    "political",
+    11,
+    "https://www.theguardian.com/us-news/2026/aug/16/trumps-midterm-malaise-endless-war-and-high-prices-could-spell-doom-for-republicans-in-november"
+  ],
+  [
+    "uss",
+    11,
+    "https://www.theguardian.com/us-news/2026/aug/16/navy-families-denounce-trump-hegseth"
   ],
   [
     "kids",
@@ -336,43 +331,48 @@
     "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it"
   ],
   [
-    "recent",
+    "progressives",
     11,
-    "https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins"
-  ],
-  [
-    "abraham",
-    11,
-    "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health"
-  ],
-  [
-    "heavy",
-    11,
-    "https://www.theguardian.com/world/2026/aug/16/torrential-rain-and-flood-kill-nine-in-japan-amid-wettest-month-in-decades"
-  ],
-  [
-    "died",
-    11,
-    "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake"
+    "https://www.theguardian.com/commentisfree/2026/aug/15/woke-1-aoc-progressives"
   ],
   [
     "enough",
     11,
-    "https://www.theguardian.com/us-news/2026/aug/15/ex-police-officer-released-new-orleans-attack"
+    "https://www.theguardian.com/commentisfree/2026/aug/14/trump-administration-investigate-progressive-groups"
   ],
   [
     "fans",
     11,
-    "https://www.theguardian.com/environment/2026/aug/16/bearcam-fishing-brown-bears-brooks-falls-alaska-salmon-fat-bear-week-aoe"
+    "https://www.theguardian.com/sport/2026/aug/16/european-athletics-championships-security-scare-stadium"
   ],
   [
-    "return",
+    "star",
     11,
-    "https://www.theguardian.com/world/2026/aug/16/ukraine-war-briefing-kyiv-faces-missile-barrage-after-zelenskyy-targets-russian-satellite-network"
+    "https://www.theguardian.com/sport/2026/aug/15/espn-layoffs-nba-coverage-hot-takes"
   ],
   [
-    "feel",
+    "debut",
     11,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/16/havent-dated-for-years-how-do-i-prepare-annalisa-barbieri"
+    "https://www.theguardian.com/music/2026/aug/16/james-ellis-ford-music-producer-interview-lost-in-another-world-leukaemia-arctic-monkeys-florence-machine"
+  ],
+  [
+    "light",
+    11,
+    "https://www.theguardian.com/artanddesign/2026/aug/14/the-beverly-hills-housewife-by-james-cahill-review-a-trip-inside-hockneys-world"
+  ],
+  [
+    "tested",
+    11,
+    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
+  ],
+  [
+    "program",
+    10,
+    "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html"
+  ],
+  [
+    "shot",
+    10,
+    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
   ]
 ];

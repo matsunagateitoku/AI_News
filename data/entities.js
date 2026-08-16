@@ -3,199 +3,75 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 36,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
+      "count": 44,
+      "url": "https://www.nytimes.com/2026/08/13/opinion/kansas-anti-trans-laws-drivers-license.html",
       "source": "NY Times"
     },
     {
       "name": "Iran",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
       "source": "NY Times"
     },
     {
-      "name": "Russia",
-      "count": 17,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michigan",
+      "name": "California",
       "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county",
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/california-law-chemicals-diapers",
       "source": "The Guardian"
     },
     {
-      "name": "Ukraine",
-      "count": 13,
-      "url": "https://www.theguardian.com/world/2026/aug/16/ukraine-war-briefing-kyiv-faces-missile-barrage-after-zelenskyy-targets-russian-satellite-network",
-      "source": "The Guardian"
-    },
-    {
-      "name": "London",
+      "name": "U.S.",
       "count": 12,
-      "url": "https://www.theguardian.com/world/2026/aug/16/biopic-of-war-hero-charles-de-gaulle-becomes-surprise-hit-france",
+      "url": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 12,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/16/odysseus-odyssey-cate-blanchett-electra-persona-women-ancient-greece",
       "source": "The Guardian"
     },
     {
       "name": "Hawaii",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/hawaii-tropical-storm-lala",
+      "count": 12,
+      "url": "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall",
       "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/aug/15/teen-pleas-guilty-california-sea-lion-attack",
+      "name": "Michigan",
+      "count": 12,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/15/steven-scott-grogin-best-phone-picture-bullfrog",
       "source": "The Guardian"
     },
     {
-      "name": "Indonesia",
+      "name": "Ukraine",
       "count": 9,
-      "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake",
-      "source": "The Guardian"
-    }
-  ],
-  "EVENT": [
-    {
-      "name": "The World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/aug/15/community-shield-offers-insight-into-arsenals-desire-and-marescas-manchester-city-impact",
+      "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
       "source": "The Guardian"
     },
     {
-      "name": "Hurricane Lala",
-      "count": 2,
-      "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
-      "source": "LA Times"
-    },
-    {
-      "name": "World Taekwondo Championships",
-      "count": 1,
-      "url": "https://www.washingtonpost.com/obituaries/2026/08/15/bishop-rainey-cheeks-taekwondo-master-dc-lgbtq-leader-dies-74/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Iran War",
-      "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Ukraine War",
-      "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Cincinnati Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/aug/15/novak-djokovic-suffers-in-cincinnati-heat-as-thiago-agustin-tirante-inflicts-shock-defeat",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Super Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-barcelona-transfer-window",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Holocaust",
-      "count": 1,
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/15/art-spiegelman-the-us-needs-a-counter-revolution",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The \"Revenge Of The Nerds",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-08-15/robert-carradine-family-lawsuit-suing-ucla-wrongful-death",
-      "source": "LA Times"
-    },
-    {
-      "name": "The World War Ii-Era",
-      "count": 1,
-      "url": "https://thehill.com/policy/defense/6031688-navy-carrier-design-trump/",
-      "source": "The Hill"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
+      "name": "Texas",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html",
       "source": "NY Times"
     },
     {
-      "name": "Marco Rubio",
-      "count": 7,
-      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "name": "Italy Supports",
+      "count": 8,
+      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
       "source": "Wall St. Journal"
-    },
-    {
-      "name": "Christopher Nolan’S",
-      "count": 5,
-      "url": "https://www.theguardian.com/environment/2026/aug/16/bearcam-fishing-brown-bears-brooks-falls-alaska-salmon-fat-bear-week-aoe",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Alexandria Ocasio-Cortez",
-      "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/15/woke-1-aoc-progressives",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Brian Thompson",
-      "count": 4,
-      "url": "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Luigi Mangione ’S",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/aug/15/luigi-mangione-double-jeopardy-state-case",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nigel Farage",
-      "count": 4,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/14/donald-trump-iran-nigel-farage-bin-populists-losers",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kaye Scott",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/aug/16/claressa-shields-kaye-scott-middleweight-titles-boxing-atlanta",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Joshua Báez",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/aug/15/joshua-baez-three-home-runs-cardinals-cubs-mlb-record",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dave Green",
-      "count": 4,
-      "url": "https://www.theguardian.com/film/2026/aug/14/coyote-vs-acme-looney-tunes-reboot-film-back-from-the-dead",
-      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Hush-Money Trial",
-      "count": 32,
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
-      "source": "NY Times"
+      "name": "Target For Trump",
+      "count": 37,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     },
     {
       "name": "Michigan Senate",
-      "count": 15,
+      "count": 14,
       "url": "https://www.politico.com/news/2026/08/05/el-sayed-wins-michigan-senate-primary-stevens-01025170",
       "source": "Politico"
     },
@@ -212,22 +88,22 @@
       "source": "The Guardian"
     },
     {
-      "name": "Guardian",
-      "count": 9,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
+      "name": "Ai",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
       "source": "The Guardian"
     },
     {
-      "name": "The U.S. Army",
+      "name": "Congress",
       "count": 5,
-      "url": "https://www.cbsnews.com/news/army-apache-helicopter-training-flights-temporarily-grounded-fatal-crash-fort-hood/",
-      "source": "CBS News"
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/us-law-foodborne-illness-delay",
+      "source": "The Guardian"
     },
     {
-      "name": "Gop",
+      "name": "Nfl",
       "count": 5,
-      "url": "https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353",
-      "source": "Politico"
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-11/cbs-sports-has-no-timetable-on-determining-tony-romos-return",
+      "source": "LA Times"
     },
     {
       "name": "Nato",
@@ -236,10 +112,10 @@
       "source": "Wall St. Journal"
     },
     {
-      "name": "Ice",
+      "name": "Guardian",
       "count": 4,
-      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
-      "source": "Wall St. Journal"
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
+      "source": "The Guardian"
     },
     {
       "name": "Eu",
@@ -248,5 +124,129 @@
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-08-16T07:34:45Z"
+  "EVENT": [
+    {
+      "name": "Iran War Turns Into Economic Battle",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "World Taekwondo Championships",
+      "count": 1,
+      "url": "https://www.washingtonpost.com/obituaries/2026/08/15/bishop-rainey-cheeks-taekwondo-master-dc-lgbtq-leader-dies-74/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "The Ukraine War",
+      "count": 1,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/navy-families-denounce-trump-hegseth",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Cincinnati Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/aug/15/novak-djokovic-suffers-in-cincinnati-heat-as-thiago-agustin-tirante-inflicts-shock-defeat",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Holocaust",
+      "count": 1,
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/15/art-spiegelman-the-us-needs-a-counter-revolution",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hurricane Lala",
+      "count": 1,
+      "url": "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The \"Revenge Of The Nerds",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-08-15/robert-carradine-family-lawsuit-suing-ucla-wrongful-death",
+      "source": "LA Times"
+    },
+    {
+      "name": "Hugo",
+      "count": 1,
+      "url": "https://www.foxnews.com/food-drink/move-over-aperol-viral-italian-spritz-arrives-us-eye-catching-twist",
+      "source": "Fox News"
+    },
+    {
+      "name": "The Dust Bowl",
+      "count": 1,
+      "url": "https://www.cbsnews.com/video/a-summer-of-extremes-weathering-a-hotter-world/",
+      "source": "CBS News"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 20,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Marco Rubio",
+      "count": 7,
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Rams Qb Ty Simpson",
+      "count": 7,
+      "url": "https://www.foxnews.com/sports/wise-not-trust-nfl-preseason-holy-moly-rams-qb-ty-simpson-looks-like-stud",
+      "source": "Fox News"
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/15/woke-1-aoc-progressives",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Charles De Gaulle",
+      "count": 4,
+      "url": "https://www.theguardian.com/world/2026/aug/16/biopic-of-war-hero-charles-de-gaulle-becomes-surprise-hit-france",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Christopher Berry-Dee",
+      "count": 4,
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/15/christopher-berry-dee-bestselling-true-crime-author-investigation",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Dodgers",
+      "count": 4,
+      "url": "https://www.latimes.com/business/story/2026-08-16/whats-at-stake-for-dodgers-owner-mark-walter-as-authorities-probe-his-businesses",
+      "source": "LA Times"
+    },
+    {
+      "name": "Danube",
+      "count": 3,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tyler Muehl",
+      "count": 3,
+      "url": "https://www.theguardian.com/us-news/2026/aug/15/teen-pleas-guilty-california-sea-lion-attack",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Katie Ledecky",
+      "count": 3,
+      "url": "https://www.theguardian.com/sport/2026/aug/16/lani-pallister-katie-ledecky-pan-pacs-800m-freestyle-record-swimming",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-08-16T13:34:46Z"
 };
