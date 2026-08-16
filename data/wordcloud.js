@@ -2,12 +2,17 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    64,
+    53,
+    "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html"
+  ],
+  [
+    "war",
+    26,
     "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html"
   ],
   [
     "president",
-    32,
+    25,
     "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html"
   ],
   [
@@ -17,48 +22,38 @@
   ],
   [
     "police",
-    23,
-    "https://www.nytimes.com/2026/08/15/nyregion/central-synagogue-shabbat-assault.html"
-  ],
-  [
-    "south",
     22,
-    "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html"
-  ],
-  [
-    "iran",
-    20,
-    "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html"
+    "https://www.nytimes.com/2026/08/16/world/asia/india-women-protests-online-abuse.html"
   ],
   [
     "questions",
-    20,
+    21,
     "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
   ],
   [
-    "shooting",
+    "south",
     20,
-    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
+    "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html"
   ],
   [
-    "war",
+    "family",
+    20,
+    "https://www.washingtonpost.com/lifestyle/2026/08/14/brooklyn-man-recovers-cherished-rings-20000-pounds-trash/"
+  ],
+  [
+    "iran",
     19,
     "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html"
   ],
   [
-    "primary",
+    "children",
     19,
-    "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html"
+    "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it"
   ],
   [
-    "star",
+    "summer",
     19,
-    "https://www.nytimes.com/2026/08/15/weather/hurricane-iniki-hawaii-history-lala.html"
-  ],
-  [
-    "latest",
-    19,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/food/2026/aug/15/best-salad-recipes-lettuce-free-cyclospora"
   ],
   [
     "york",
@@ -71,54 +66,34 @@
     "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
   ],
   [
-    "family",
+    "latest",
     18,
-    "https://www.washingtonpost.com/lifestyle/2026/08/14/brooklyn-man-recovers-cherished-rings-20000-pounds-trash/"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "social",
+    "russia",
     18,
-    "https://www.theguardian.com/us-news/2026/aug/15/trump-washington-post-drug-prices"
+    "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
   ],
   [
-    "michigan",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county"
-  ],
-  [
-    "american",
+    "primary",
     17,
-    "https://www.washingtonpost.com/nation/2026/08/15/what-fake-ohio-trailer-park-poland-taught-me-about-american-dream/"
+    "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html"
   ],
   [
-    "summer",
+    "race",
     17,
-    "https://www.theguardian.com/food/2026/aug/15/best-salad-recipes-lettuce-free-cyclospora"
+    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
   ],
   [
-    "don",
+    "shooting",
     17,
-    "https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins"
+    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
   ],
   [
-    "uss",
+    "crime",
     17,
-    "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health"
-  ],
-  [
-    "media",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/15/trump-washington-post-drug-prices"
-  ],
-  [
-    "children",
-    17,
-    "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says"
-  ],
-  [
-    "california",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/15/teen-pleas-guilty-california-sea-lion-attack"
+    "https://www.theguardian.com/us-news/2026/aug/15/ex-police-officer-released-new-orleans-attack"
   ],
   [
     "senate",
@@ -126,54 +101,49 @@
     "https://www.theguardian.com/us-news/2026/aug/15/alaska-mary-peltola-rejects-kamala-harris-unsolicited-support"
   ],
   [
-    "film",
-    16,
-    "https://www.theguardian.com/film/2026/aug/15/will-poulter-interview-union-county-movie"
+    "michigan",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county"
   ],
   [
-    "fewer",
+    "star",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/aug/15/best-tech-essentials-college-students"
+    "https://www.nytimes.com/2026/08/15/magazine/matthew-rhys-interview.html"
+  ],
+  [
+    "least",
+    16,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "past",
+    15,
+    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
+  ],
+  [
+    "food",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
+  ],
+  [
+    "media",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/15/trump-washington-post-drug-prices"
   ],
   [
     "love",
-    16,
-    "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires"
-  ],
-  [
-    "race",
     15,
-    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/16/havent-dated-for-years-how-do-i-prepare-annalisa-barbieri"
   ],
   [
-    "record",
+    "fewer",
     15,
-    "https://www.nytimes.com/2026/08/15/business/sports-team-values-billionaires.html"
+    "https://www.theguardian.com/commentisfree/2026/aug/15/guilt-afghanistan-freedom-prisoners-taliban"
   ],
   [
-    "everything",
-    15,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "lincoln",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health"
-  ],
-  [
-    "crime",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/15/ex-police-officer-released-new-orleans-attack"
-  ],
-  [
-    "buying",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/aug/15/best-tech-essentials-college-students"
-  ],
-  [
-    "donald",
+    "air",
     14,
-    "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html"
+    "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html"
   ],
   [
     "democrats",
@@ -181,19 +151,14 @@
     "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html"
   ],
   [
-    "dead",
+    "military",
     14,
-    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "health",
+    "everything",
     14,
-    "https://www.nytimes.com/2026/08/12/opinion/trump-health-questions.html"
-  ],
-  [
-    "sea",
-    14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
     "country",
@@ -201,34 +166,39 @@
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "released",
+    "ukraine",
     14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
   ],
   [
-    "recent",
+    "social",
     14,
-    "https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins"
+    "https://www.theguardian.com/us-news/2026/aug/15/trump-washington-post-drug-prices"
   ],
   [
-    "food",
+    "california",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/15/egg-recall-us-south-and-south-west-salmonella-outbreak"
+    "https://www.theguardian.com/us-news/2026/aug/15/teen-pleas-guilty-california-sea-lion-attack"
   ],
   [
-    "filter",
+    "security",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/aug/15/best-tech-essentials-college-students"
+    "https://www.theguardian.com/world/2026/aug/16/ukraine-war-briefing-kyiv-faces-missile-barrage-after-zelenskyy-targets-russian-satellite-network"
   ],
   [
-    "guide",
+    "london",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/aug/15/best-tech-essentials-college-students"
+    "https://www.theguardian.com/world/2026/aug/16/biopic-of-war-hero-charles-de-gaulle-becomes-surprise-hit-france"
   ],
   [
-    "democratic",
+    "film",
     14,
-    "https://www.cbsnews.com/news/democratic-national-committee-presidential-primary-south-carolina-vote/"
+    "https://www.theguardian.com/commentisfree/2026/aug/14/the-guardian-view-on-booming-poetry-sales-homer-meet-the-instapoets"
+  ],
+  [
+    "buying",
+    14,
+    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
   ],
   [
     "party",
@@ -236,29 +206,49 @@
     "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html"
   ],
   [
-    "least",
+    "dead",
     13,
-    "https://www.nytimes.com/2026/08/15/weather/hurricane-iniki-hawaii-history-lala.html"
+    "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
   ],
   [
-    "los",
+    "american",
     13,
-    "https://www.nytimes.com/2026/08/15/business/sports-team-values-billionaires.html"
+    "https://www.nytimes.com/2026/08/16/opinion/america-weed-cannabis-europe.html"
   ],
   [
-    "university",
+    "health",
     13,
-    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
+    "https://www.nytimes.com/2026/08/12/opinion/trump-health-questions.html"
   ],
   [
-    "past",
+    "won",
     13,
-    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
+    "https://www.washingtonpost.com/obituaries/2026/08/15/bishop-rainey-cheeks-taekwondo-master-dc-lgbtq-leader-dies-74/"
   ],
   [
-    "enough",
+    "early",
     13,
-    "https://www.theguardian.com/film/2026/aug/15/will-poulter-interview-union-county-movie"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "record",
+    13,
+    "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis"
+  ],
+  [
+    "don",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins"
+  ],
+  [
+    "uss",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health"
+  ],
+  [
+    "lincoln",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health"
   ],
   [
     "case",
@@ -266,14 +256,14 @@
     "https://www.theguardian.com/us-news/2026/aug/15/luigi-mangione-double-jeopardy-state-case"
   ],
   [
-    "weekly",
+    "killed",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/15/best-tech-essentials-college-students"
+    "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake"
   ],
   [
     "political",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/15/aoc-woke-1"
+    "https://www.theguardian.com/world/2026/aug/16/biopic-of-war-hero-charles-de-gaulle-becomes-surprise-hit-france"
   ],
   [
     "game",
@@ -281,64 +271,49 @@
     "https://www.theguardian.com/sport/2026/aug/15/espn-layoffs-nba-coverage-hot-takes"
   ],
   [
-    "early",
+    "filter",
+    13,
+    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
+  ],
+  [
+    "attack",
     12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "abraham",
+    "campaign",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "middle",
+    "released",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "security",
+    "water",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/15/immigration-judges-deportation-hearings"
+    "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis"
   ],
   [
-    "tested",
+    "island",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/aug/15/best-tech-essentials-college-students"
+    "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake"
   ],
   [
-    "lala",
+    "weekly",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/14/hawaii-tropical-storm-lala"
+    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
   ],
   [
-    "territory",
+    "guide",
     12,
-    "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta"
+    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
   ],
   [
-    "ago",
-    11,
-    "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html"
-  ],
-  [
-    "led",
+    "donald",
     11,
     "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html"
-  ],
-  [
-    "candidate",
-    11,
-    "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html"
-  ],
-  [
-    "hurricane",
-    11,
-    "https://www.nytimes.com/2026/08/15/weather/hurricane-iniki-hawaii-history-lala.html"
-  ],
-  [
-    "hawaii",
-    11,
-    "https://www.nytimes.com/2026/08/15/weather/hurricane-iniki-hawaii-history-lala.html"
   ],
   [
     "black",
@@ -346,33 +321,58 @@
     "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
   ],
   [
-    "night",
+    "university",
     11,
-    "https://www.nytimes.com/2026/08/15/nyregion/central-synagogue-shabbat-assault.html"
+    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
   ],
   [
-    "inside",
+    "border",
     11,
-    "https://www.washingtonpost.com/nation/2026/08/15/what-fake-ohio-trailer-park-poland-taught-me-about-american-dream/"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "art",
+    "kids",
     11,
-    "https://www.washingtonpost.com/nation/2026/08/14/landlord-was-cleaning-out-vacant-apartment-then-he-found-lost-picasso/"
+    "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it"
   ],
   [
-    "hear",
+    "recent",
     11,
-    "https://www.theguardian.com/us-news/2026/aug/15/wisconsin-healthcare-democrats-canvassers"
+    "https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins"
   ],
   [
-    "young",
+    "abraham",
     11,
-    "https://www.theguardian.com/film/2026/aug/15/will-poulter-interview-union-county-movie"
+    "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health"
   ],
   [
-    "killed",
+    "heavy",
     11,
-    "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says"
+    "https://www.theguardian.com/world/2026/aug/16/torrential-rain-and-flood-kill-nine-in-japan-amid-wettest-month-in-decades"
+  ],
+  [
+    "died",
+    11,
+    "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake"
+  ],
+  [
+    "enough",
+    11,
+    "https://www.theguardian.com/us-news/2026/aug/15/ex-police-officer-released-new-orleans-attack"
+  ],
+  [
+    "fans",
+    11,
+    "https://www.theguardian.com/environment/2026/aug/16/bearcam-fishing-brown-bears-brooks-falls-alaska-salmon-fat-bear-week-aoe"
+  ],
+  [
+    "return",
+    11,
+    "https://www.theguardian.com/world/2026/aug/16/ukraine-war-briefing-kyiv-faces-missile-barrage-after-zelenskyy-targets-russian-satellite-network"
+  ],
+  [
+    "feel",
+    11,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/16/havent-dated-for-years-how-do-i-prepare-annalisa-barbieri"
   ]
 ];
