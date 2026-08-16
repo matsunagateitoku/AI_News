@@ -2,18 +2,43 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    58,
-    "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html"
+    56,
+    "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html"
+  ],
+  [
+    "democratic",
+    28,
+    "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html"
+  ],
+  [
+    "president",
+    27,
+    "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html"
+  ],
+  [
+    "don",
+    24,
+    "https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html"
   ],
   [
     "war",
-    25,
+    23,
     "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html"
   ],
   [
     "summer",
-    25,
+    23,
     "https://www.theguardian.com/commentisfree/2026/aug/16/odysseus-odyssey-cate-blanchett-electra-persona-women-ancient-greece"
+  ],
+  [
+    "rep",
+    23,
+    "https://www.cbsnews.com/video/face-the-nation-salvanto-rabb-political-panel/"
+  ],
+  [
+    "health",
+    22,
+    "https://www.theguardian.com/us-news/2026/aug/16/democrats-trump-uss-abraham-lincoln"
   ],
   [
     "family",
@@ -21,39 +46,54 @@
     "https://www.nytimes.com/2026/08/16/arts/zilversmit-netherlands-podcast-book-holocaust-nazi.html"
   ],
   [
+    "shooting",
+    21,
+    "https://www.nytimes.com/2026/08/16/world/canada/us-consulate-synagogue-shooting-toronto-canada.html"
+  ],
+  [
     "school",
     21,
-    "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it"
+    "https://www.theguardian.com/games/2026/aug/17/pokemon-30th-anniversary-japan-australia"
   ],
   [
-    "president",
-    19,
-    "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html"
+    "nation",
+    21,
+    "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean"
   ],
   [
-    "record",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
+    "party",
+    20,
+    "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html"
+  ],
+  [
+    "university",
+    20,
+    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
+  ],
+  [
+    "food",
+    20,
+    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
   ],
   [
     "south",
-    18,
+    19,
     "https://www.theguardian.com/commentisfree/2026/aug/16/odysseus-odyssey-cate-blanchett-electra-persona-women-ancient-greece"
   ],
   [
-    "water",
+    "least",
     18,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis"
+    "https://www.nytimes.com/2026/08/13/us/storm-damage-midwest.html"
   ],
   [
-    "california",
+    "really",
     18,
-    "https://www.theguardian.com/us-news/2026/aug/16/california-law-chemicals-diapers"
+    "https://www.theguardian.com/wellness/2026/aug/16/can-exercise-help-improve-sex-life"
   ],
   [
-    "primary",
-    17,
-    "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html"
+    "margaret",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/16/dining-across-the-divide-at-one-point-she-said-i-dont-want-to-offend-you-but-you-seem-quite-privileged"
   ],
   [
     "iran",
@@ -61,79 +101,89 @@
     "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html"
   ],
   [
-    "party",
-    16,
-    "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html"
+    "john",
+    17,
+    "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html"
   ],
   [
-    "past",
-    16,
-    "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html"
+    "early",
+    17,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "questions",
-    16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "brennan",
+    17,
+    "https://www.cbsnews.com/news/face-the-nation-full-transcript-08-16-2026/"
   ],
   [
-    "latest",
+    "democrats",
     16,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html"
   ],
   [
-    "media",
+    "power",
     16,
-    "https://www.theguardian.com/us-news/2026/aug/16/new-orleans-journalist-handcuffing"
+    "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html"
   ],
   [
-    "police",
+    "died",
     16,
-    "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday"
+    "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall"
   ],
   [
-    "social",
+    "elections",
     16,
-    "https://www.theguardian.com/us-news/2026/aug/13/ebikes-e-motorcycles-teenagers"
+    "https://www.theguardian.com/us-news/2026/aug/16/iowa-midterm-elections-republicans-democrats"
   ],
   [
-    "really",
+    "political",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/16/havent-dated-for-years-how-do-i-prepare-annalisa-barbieri"
+    "https://www.theguardian.com/us-news/2026/aug/16/iowa-midterm-elections-republicans-democrats"
+  ],
+  [
+    "game",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/17/kindness-of-strangers-australia-health-parkinsons-grief-officeworks"
   ],
   [
     "love",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/16/havent-dated-for-years-how-do-i-prepare-annalisa-barbieri"
+    "https://www.theguardian.com/music/2026/aug/16/natalie-imbruglia-honest-playlist-michael-jackson-joni-mitchell-torn"
   ],
   [
-    "american",
+    "tommy",
     15,
-    "https://www.washingtonpost.com/nation/2026/08/15/what-fake-ohio-trailer-park-poland-taught-me-about-american-dream/"
+    "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html"
   ],
   [
-    "least",
+    "star",
     15,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/"
   ],
   [
-    "don",
+    "police",
     15,
-    "https://www.theguardian.com/fashion/2026/aug/16/stylish-people-what-clothes-wear-every-day-why"
+    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
   ],
   [
-    "children",
+    "death",
     15,
-    "https://www.theguardian.com/commentisfree/2026/aug/16/odysseus-odyssey-cate-blanchett-electra-persona-women-ancient-greece"
+    "https://www.theguardian.com/us-news/2026/aug/16/california-jackie-the-bald-eagle-legacy"
   ],
   [
-    "court",
-    14,
-    "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/"
+    "fewer",
+    15,
+    "https://www.theguardian.com/world/2026/aug/16/tallest-statue-virgin-mary-poland-europe"
   ],
   [
-    "country",
-    14,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "race",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
+  ],
+  [
+    "film",
+    15,
+    "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making"
   ],
   [
     "released",
@@ -141,134 +191,134 @@
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "food",
+    "sex",
     14,
-    "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
+    "https://www.theguardian.com/wellness/2026/aug/16/can-exercise-help-improve-sex-life"
   ],
   [
-    "again",
+    "california",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/16/trumps-midterm-malaise-endless-war-and-high-prices-could-spell-doom-for-republicans-in-november"
+    "https://www.theguardian.com/us-news/2026/aug/16/california-jackie-the-bald-eagle-legacy"
   ],
   [
-    "senate",
+    "dead",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/16/california-law-chemicals-diapers"
-  ],
-  [
-    "democrats",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/aug/15/woke-1-aoc-progressives"
-  ],
-  [
-    "film",
-    14,
-    "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making"
-  ],
-  [
-    "michigan",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/15/steven-scott-grogin-best-phone-picture-bullfrog"
-  ],
-  [
-    "democratic",
-    13,
-    "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html"
-  ],
-  [
-    "university",
-    13,
-    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
-  ],
-  [
-    "sea",
-    13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "everything",
-    13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "early",
-    13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "donald",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
-  ],
-  [
-    "race",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
-  ],
-  [
-    "near",
-    13,
-    "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire"
-  ],
-  [
-    "island",
-    13,
-    "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall"
-  ],
-  [
-    "crime",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/15/teen-pleas-guilty-california-sea-lion-attack"
-  ],
-  [
-    "game",
-    13,
-    "https://www.theguardian.com/sport/2026/aug/15/espn-layoffs-nba-coverage-hot-takes"
-  ],
-  [
-    "album",
-    13,
-    "https://www.theguardian.com/music/2026/aug/16/james-ellis-ford-music-producer-interview-lost-in-another-world-leukaemia-arctic-monkeys-florence-machine"
+    "https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support"
   ],
   [
     "filter",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
+  ],
+  [
+    "guide",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
+  ],
+  [
+    "buying",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
+  ],
+  [
+    "album",
+    14,
+    "https://www.theguardian.com/music/2026/aug/16/ariana-grande-eternal-sunshine-tour-review-o2-london"
+  ],
+  [
+    "past",
     13,
-    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
+    "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html"
+  ],
+  [
+    "surgery",
+    13,
+    "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html"
+  ],
+  [
+    "young",
+    13,
+    "https://www.nytimes.com/2026/08/16/world/canada/us-consulate-synagogue-shooting-toronto-canada.html"
+  ],
+  [
+    "country",
+    13,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "fans",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/16/california-jackie-the-bald-eagle-legacy"
+  ],
+  [
+    "record",
+    13,
+    "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis"
+  ],
+  [
+    "host",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/16/todd-blanche-doj-independence-trump-white-house"
   ],
   [
     "weekly",
     13,
-    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
+    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
   ],
   [
-    "buying",
+    "social",
     13,
-    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
+    "https://www.theguardian.com/commentisfree/2026/aug/15/woke-1-aoc-progressives"
   ],
   [
-    "fewer",
+    "kentucky",
     13,
-    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
+    "https://www.foxnews.com/us/lexington-kentucky-park-shooting-kills-injures-live-band-performance"
   ],
   [
-    "power",
+    "york",
     12,
-    "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html"
+    "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html"
   ],
   [
-    "shooting",
+    "primary",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
+    "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html"
   ],
   [
-    "led",
+    "michigan",
+    12,
+    "https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html"
+  ],
+  [
+    "dies",
+    12,
+    "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html"
+  ],
+  [
+    "fire",
+    12,
+    "https://www.washingtonpost.com/lifestyle/2026/08/16/pet-goose-honks-alert-family-fire-helping-save-dozens-birds/"
+  ],
+  [
+    "questions",
+    12,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "sea",
     12,
     "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "died",
+    "everything",
     12,
-    "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "general",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/16/democrats-trump-uss-abraham-lincoln"
   ],
   [
     "recent",
@@ -276,103 +326,53 @@
     "https://www.theguardian.com/us-news/2026/aug/16/new-orleans-journalist-handcuffing"
   ],
   [
-    "sex",
+    "midterm",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/16/this-is-how-we-do-it-now-if-we-fight-we-cant-just-have-sex"
+    "https://www.theguardian.com/us-news/2026/aug/16/iowa-midterm-elections-republicans-democrats"
   ],
   [
-    "young",
+    "tested",
     12,
-    "https://www.theguardian.com/environment/2026/aug/15/gen-z-flocks-to-birdtok-as-birding-takes-flight-its-a-craving-for-something-real"
+    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
   ],
   [
-    "death",
+    "anthony",
     12,
-    "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident"
+    "https://www.theguardian.com/commentisfree/2026/aug/15/covid-19-origins"
   ],
   [
-    "guide",
+    "following",
     12,
-    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
+    "https://www.theguardian.com/film/2026/aug/12/chum-review-shark-attack"
   ],
   [
-    "fire",
-    11,
-    "https://www.washingtonpost.com/lifestyle/2026/08/16/pet-goose-honks-alert-family-fire-helping-save-dozens-birds/"
+    "cbs",
+    12,
+    "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit"
   ],
   [
-    "community",
+    "air",
     11,
-    "https://www.washingtonpost.com/obituaries/2026/08/15/bishop-rainey-cheeks-taekwondo-master-dc-lgbtq-leader-dies-74/"
+    "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html"
   ],
   [
-    "shoes",
+    "republican",
     11,
-    "https://www.theguardian.com/fashion/2026/aug/16/stylish-people-what-clothes-wear-every-day-why"
-  ],
-  [
-    "los",
-    11,
-    "https://www.theguardian.com/us-news/2026/aug/16/los-angeles-movies-cinerama-dome"
-  ],
-  [
-    "political",
-    11,
-    "https://www.theguardian.com/us-news/2026/aug/16/trumps-midterm-malaise-endless-war-and-high-prices-could-spell-doom-for-republicans-in-november"
-  ],
-  [
-    "uss",
-    11,
-    "https://www.theguardian.com/us-news/2026/aug/16/navy-families-denounce-trump-hegseth"
-  ],
-  [
-    "kids",
-    11,
-    "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it"
+    "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html"
   ],
   [
     "progressives",
     11,
-    "https://www.theguardian.com/commentisfree/2026/aug/15/woke-1-aoc-progressives"
+    "https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html"
   ],
   [
-    "enough",
+    "pitcher",
     11,
-    "https://www.theguardian.com/commentisfree/2026/aug/14/trump-administration-investigate-progressive-groups"
+    "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html"
   ],
   [
-    "fans",
+    "whose",
     11,
-    "https://www.theguardian.com/sport/2026/aug/16/european-athletics-championships-security-scare-stadium"
-  ],
-  [
-    "star",
-    11,
-    "https://www.theguardian.com/sport/2026/aug/15/espn-layoffs-nba-coverage-hot-takes"
-  ],
-  [
-    "debut",
-    11,
-    "https://www.theguardian.com/music/2026/aug/16/james-ellis-ford-music-producer-interview-lost-in-another-world-leukaemia-arctic-monkeys-florence-machine"
-  ],
-  [
-    "light",
-    11,
-    "https://www.theguardian.com/artanddesign/2026/aug/14/the-beverly-hills-housewife-by-james-cahill-review-a-trip-inside-hockneys-world"
-  ],
-  [
-    "tested",
-    11,
-    "https://www.theguardian.com/thefilter-us/2025/nov/16/best-shower-curtains"
-  ],
-  [
-    "program",
-    10,
-    "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html"
-  ],
-  [
-    "shot",
-    10,
-    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
+    "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/"
   ]
 ];
