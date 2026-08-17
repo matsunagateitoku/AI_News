@@ -2,133 +2,138 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    68,
+    80,
     "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html"
   ],
   [
     "president",
-    35,
+    39,
     "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html"
   ],
   [
     "south",
-    30,
-    "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un"
-  ],
-  [
-    "health",
-    28,
-    "https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html"
+    33,
+    "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html"
   ],
   [
     "war",
-    24,
-    "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html"
-  ],
-  [
-    "school",
-    24,
-    "https://www.nytimes.com/2026/08/16/nyregion/mamdani-mandarin-video.html"
-  ],
-  [
-    "least",
-    23,
-    "https://www.nytimes.com/2026/08/13/us/storm-damage-midwest.html"
-  ],
-  [
-    "summer",
-    22,
-    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
-  ],
-  [
-    "democratic",
-    22,
-    "https://www.theguardian.com/us-news/2026/aug/16/democrats-trump-uss-abraham-lincoln"
-  ],
-  [
-    "university",
-    21,
-    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
-  ],
-  [
-    "party",
-    20,
-    "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html"
+    32,
+    "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html"
   ],
   [
     "korea",
+    25,
+    "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html"
+  ],
+  [
+    "health",
+    23,
+    "https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html"
+  ],
+  [
+    "death",
+    22,
+    "https://www.theguardian.com/music/2026/aug/17/bob-dylan-gary-stewart-honky-tonk-hellraiser"
+  ],
+  [
+    "summer",
+    21,
+    "https://www.theguardian.com/global-development/2026/aug/17/india-disasters-heatwaves-slum-diaries-delhi-vulnerable-temperatures"
+  ],
+  [
+    "iran",
     20,
-    "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un"
+    "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html"
+  ],
+  [
+    "country",
+    20,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "democratic",
+    20,
+    "https://www.theguardian.com/us-news/2026/aug/16/democrats-trump-uss-abraham-lincoln"
+  ],
+  [
+    "record",
+    19,
+    "https://www.theguardian.com/us-news/2026/aug/16/indiana-storms-flooding-deaths"
   ],
   [
     "power",
-    19,
+    18,
     "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html"
   ],
   [
-    "john",
-    19,
-    "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html"
-  ],
-  [
-    "early",
-    19,
-    "https://www.nytimes.com/2026/08/16/arts/television/zale-parry-dead.html"
-  ],
-  [
-    "blanche",
+    "least",
     18,
-    "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html"
-  ],
-  [
-    "family",
-    18,
-    "https://www.nytimes.com/2026/08/16/arts/zilversmit-netherlands-podcast-book-holocaust-nazi.html"
-  ],
-  [
-    "race",
-    18,
-    "https://www.nytimes.com/2026/08/16/opinion/america-weed-cannabis-europe.html"
-  ],
-  [
-    "shooting",
-    18,
-    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
-  ],
-  [
-    "food",
-    18,
-    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
-  ],
-  [
-    "really",
-    18,
-    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
-  ],
-  [
-    "died",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/16/indiana-storms-flooding-deaths"
+    "https://www.nytimes.com/2026/08/13/us/storm-damage-midwest.html"
   ],
   [
     "star",
     17,
-    "https://www.nytimes.com/2026/08/16/arts/television/zale-parry-dead.html"
+    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html"
   ],
   [
-    "game",
+    "dies",
     17,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/17/kindness-of-strangers-australia-health-parkinsons-grief-officeworks"
+    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html"
   ],
   [
-    "attorney",
+    "party",
+    17,
+    "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html"
+  ],
+  [
+    "john",
+    17,
+    "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/"
+  ],
+  [
+    "police",
+    17,
+    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
+  ],
+  [
+    "questions",
+    17,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "food",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
+  ],
+  [
+    "really",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
+  ],
+  [
+    "ukraine",
+    17,
+    "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un"
+  ],
+  [
+    "love",
+    17,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36"
+  ],
+  [
+    "blanche",
     16,
     "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html"
   ],
   [
-    "general",
+    "lincoln",
     16,
-    "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html"
+    "https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html"
+  ],
+  [
+    "panettiere",
+    16,
+    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html"
   ],
   [
     "democrats",
@@ -136,84 +141,44 @@
     "https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html"
   ],
   [
-    "don",
-    16,
-    "https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html"
-  ],
-  [
-    "dies",
-    16,
-    "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html"
-  ],
-  [
-    "film",
-    16,
-    "https://www.nytimes.com/2026/08/16/arts/television/zale-parry-dead.html"
-  ],
-  [
-    "police",
+    "university",
     16,
     "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
   ],
   [
-    "island",
+    "died",
     16,
-    "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall"
-  ],
-  [
-    "love",
-    16,
-    "https://www.theguardian.com/music/2026/aug/16/natalie-imbruglia-honest-playlist-michael-jackson-joni-mitchell-torn"
-  ],
-  [
-    "iran",
-    15,
-    "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html"
-  ],
-  [
-    "tommy",
-    15,
-    "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html"
-  ],
-  [
-    "surgery",
-    15,
-    "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html"
-  ],
-  [
-    "questions",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "kids",
-    15,
-    "https://www.theguardian.com/games/2026/aug/17/pokemon-30th-anniversary-japan-australia"
-  ],
-  [
-    "children",
-    15,
-    "https://www.theguardian.com/games/2026/aug/17/pokemon-30th-anniversary-japan-australia"
-  ],
-  [
-    "death",
-    15,
-    "https://www.theguardian.com/games/2026/aug/17/pokemon-30th-anniversary-japan-australia"
-  ],
-  [
-    "california",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/16/california-jackie-the-bald-eagle-legacy"
-  ],
-  [
-    "record",
-    15,
     "https://www.theguardian.com/us-news/2026/aug/16/indiana-storms-flooding-deaths"
   ],
   [
-    "lincoln",
-    14,
-    "https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html"
+    "race",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
+  ],
+  [
+    "school",
+    16,
+    "https://www.theguardian.com/film/2026/aug/12/dont-say-good-luck-review-high-school-musical-weepie-puts-sunny-sandler-in-the-spotlight"
+  ],
+  [
+    "military",
+    15,
+    "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html"
+  ],
+  [
+    "general",
+    15,
+    "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html"
+  ],
+  [
+    "body",
+    15,
+    "https://www.theguardian.com/wellness/2026/aug/16/can-exercise-help-improve-sex-life"
+  ],
+  [
+    "island",
+    15,
+    "https://www.theguardian.com/music/2026/aug/17/brandon-flowers-thrasher-review-killers-frontman-country-album"
   ],
   [
     "progressives",
@@ -221,79 +186,99 @@
     "https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html"
   ],
   [
-    "released",
+    "early",
     14,
-    "https://www.nytimes.com/2026/08/16/nyregion/mamdani-mandarin-video.html"
+    "https://www.nytimes.com/2026/08/16/arts/television/zale-parry-dead.html"
   ],
   [
-    "whose",
+    "led",
     14,
-    "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/"
+    "https://www.nytimes.com/2026/08/16/arts/television/zale-parry-dead.html"
   ],
   [
-    "country",
+    "shooting",
     14,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/"
   ],
   [
-    "filter",
+    "family",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
+    "https://www.washingtonpost.com/lifestyle/2026/08/16/pet-goose-honks-alert-family-fire-helping-save-dozens-birds/"
   ],
   [
-    "buying",
+    "children",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
+    "https://www.theguardian.com/global-development/2026/aug/17/india-disasters-heatwaves-slum-diaries-delhi-vulnerable-temperatures"
   ],
   [
-    "fewer",
+    "because",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
+    "https://www.theguardian.com/music/2026/aug/17/bob-dylan-gary-stewart-honky-tonk-hellraiser"
+  ],
+  [
+    "relationship",
+    14,
+    "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un"
+  ],
+  [
+    "political",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting"
   ],
   [
     "album",
     14,
-    "https://www.theguardian.com/music/2026/aug/16/ariana-grande-eternal-sunshine-tour-review-o2-london"
+    "https://www.theguardian.com/music/2026/aug/17/brandon-flowers-thrasher-review-killers-frontman-country-album"
   ],
   [
-    "recent",
+    "lala",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/16/new-orleans-journalist-handcuffing"
+    "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall"
   ],
   [
-    "nearly",
-    13,
-    "https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html"
+    "hawaii",
+    14,
+    "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall"
   ],
   [
-    "again",
+    "gaza",
     13,
-    "https://www.nytimes.com/2026/08/15/business/inflation-worker-pay.html"
+    "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html"
   ],
   [
-    "led",
+    "fire",
     13,
-    "https://www.nytimes.com/2026/08/16/arts/television/zale-parry-dead.html"
+    "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html"
   ],
   [
-    "guide",
+    "exercises",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
+    "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html"
   ],
   [
-    "relationship",
+    "social",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/17/disordered-eating-relationship-built-on-control"
+    "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html"
   ],
   [
-    "young",
+    "hayden",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/17/disordered-eating-relationship-built-on-control"
+    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html"
   ],
   [
-    "todd",
+    "game",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/16/todd-blanche-doj-independence-trump-white-house"
+    "https://www.nytimes.com/2026/08/17/opinion/cuba-trump-rubio-venezuela.html"
+  ],
+  [
+    "won",
+    13,
+    "https://www.nytimes.com/2026/08/17/world/europe/posh-george-nigel-farage-reform.html"
+  ],
+  [
+    "start",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "killed",
@@ -301,78 +286,93 @@
     "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history"
   ],
   [
-    "political",
+    "california",
     13,
-    "https://www.theguardian.com/world/2026/aug/17/strait-hormuz-alternative-china-ships-north-sea-route-arctic-ice-silk-road"
+    "https://www.theguardian.com/sport/2026/aug/16/lani-pallister-katie-ledecky-pan-pacs-800m-freestyle-record-swimming"
   ],
   [
-    "lala",
-    13,
-    "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall"
-  ],
-  [
-    "hawaii",
-    13,
-    "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall"
-  ],
-  [
-    "black",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/15/ex-police-officer-released-new-orleans-attack"
-  ],
-  [
-    "gaza",
+    "hamas",
     12,
     "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html"
   ],
   [
-    "always",
+    "far",
+    12,
+    "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html"
+  ],
+  [
+    "north",
+    12,
+    "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html"
+  ],
+  [
+    "attorney",
     12,
     "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html"
   ],
   [
-    "pitcher",
+    "air",
     12,
-    "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html"
+    "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html"
   ],
   [
-    "fire",
+    "again",
     12,
-    "https://www.washingtonpost.com/lifestyle/2026/08/16/pet-goose-honks-alert-family-fire-helping-save-dozens-birds/"
+    "https://www.nytimes.com/2026/08/15/business/inflation-worker-pay.html"
   ],
   [
-    "military",
+    "film",
     12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/08/16/arts/television/zale-parry-dead.html"
   ],
   [
-    "sea",
+    "tommy",
     12,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/"
   ],
   [
-    "everything",
+    "whose",
     12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/"
   ],
   [
-    "start",
+    "surgery",
     12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/"
   ],
   [
-    "latest",
+    "different",
     12,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.washingtonpost.com/nation/2026/08/15/what-fake-ohio-trailer-park-poland-taught-me-about-american-dream/"
   ],
   [
-    "tested",
+    "order",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
+    "https://www.theguardian.com/music/2026/aug/17/bob-dylan-gary-stewart-honky-tonk-hellraiser"
   ],
   [
-    "weekly",
+    "company",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
+    "https://www.theguardian.com/commentisfree/2026/aug/17/italy-month-off-august-economic-productivity"
+  ],
+  [
+    "donald",
+    12,
+    "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un"
+  ],
+  [
+    "recent",
+    12,
+    "https://www.theguardian.com/world/2026/aug/17/strait-hormuz-alternative-china-ships-north-sea-route-arctic-ice-silk-road"
+  ],
+  [
+    "young",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/aug/17/disordered-eating-relationship-built-on-control"
+  ],
+  [
+    "win",
+    12,
+    "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
   ]
 ];

@@ -3,70 +3,94 @@
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 43,
+      "count": 49,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
-      "name": "The Filter Us",
-      "count": 14,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
       "name": "The White House",
-      "count": 12,
+      "count": 13,
       "url": "https://www.theguardian.com/us-news/2026/aug/16/todd-blanche-doj-independence-trump-white-house",
       "source": "The Guardian"
     },
     {
-      "name": "Michigan Senate",
-      "count": 11,
-      "url": "https://www.foxnews.com/media/haley-stevens-urges-el-sayed-ditch-hasan-piker-affiliation-michigan-primary",
-      "source": "Fox News"
-    },
-    {
       "name": "Ai",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
+      "count": 12,
+      "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
       "source": "The Guardian"
     },
     {
-      "name": "Gop",
-      "count": 8,
-      "url": "https://www.cbsnews.com/video/081626-face-the-nation/",
-      "source": "CBS News"
-    },
-    {
       "name": "Hamas",
-      "count": 7,
+      "count": 10,
       "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
       "source": "NY Times"
     },
     {
-      "name": "Mlb All-Star",
-      "count": 7,
-      "url": "https://www.cbsnews.com/news/tommy-john-mlb-baseball-player-dies-83/",
-      "source": "CBS News"
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
     },
     {
-      "name": "Virginia State University",
-      "count": 6,
-      "url": "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/",
-      "source": "Washington Post"
+      "name": "Michigan Senate",
+      "count": 9,
+      "url": "https://www.foxnews.com/media/haley-stevens-urges-el-sayed-ditch-hasan-piker-affiliation-michigan-primary",
+      "source": "Fox News"
+    },
+    {
+      "name": "Pentagon",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Guardian",
+      "count": 7,
+      "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 7,
+      "url": "https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353",
+      "source": "Politico"
     },
     {
       "name": "Cbs News",
       "count": 6,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit",
-      "source": "LA Times"
+      "url": "https://www.theguardian.com/world/2026/aug/17/ukraine-war-briefing-kyiv-capable-ballistic-missiles-russia-in-months",
+      "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 43,
-      "url": "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items",
+      "count": 42,
+      "url": "https://www.theguardian.com/music/2026/aug/17/bob-dylan-gary-stewart-honky-tonk-hellraiser",
+      "source": "The Guardian"
+    },
+    {
+      "name": "South Korea",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ukraine",
+      "count": 14,
+      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
       "source": "The Guardian"
     },
     {
@@ -76,55 +100,99 @@
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
-      "source": "NY Times"
-    },
-    {
       "name": "California",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/california-jackie-the-bald-eagle-legacy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "South Korea",
-      "count": 12,
-      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
       "count": 11,
-      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/sport/2026/aug/16/lani-pallister-katie-ledecky-pan-pacs-800m-freestyle-record-swimming",
+      "source": "The Guardian"
     },
     {
       "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/16/odysseus-odyssey-cate-blanchett-electra-persona-women-ancient-greece",
+      "count": 10,
+      "url": "https://www.theguardian.com/books/2026/aug/17/conversations-with-an-executioner-a-chilling-classic-reveals-the-mind-of-a-nazi-mass-murderer",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Russia",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat",
       "source": "The Guardian"
     },
     {
       "name": "London",
       "count": 10,
-      "url": "https://www.theguardian.com/music/2026/aug/16/ariana-grande-eternal-sunshine-tour-review-o2-london",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Australia",
-      "count": 8,
-      "url": "https://www.theguardian.com/games/2026/aug/17/pokemon-30th-anniversary-japan-australia",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Florida",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/16/odysseus-odyssey-cate-blanchett-electra-persona-women-ancient-greece",
       "source": "The Guardian"
     }
   ],
+  "PERSON": [
+    {
+      "name": "Advance Trump",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Hayden Panettiere",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 12,
+      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tommy John",
+      "count": 11,
+      "url": "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Todd Blanche",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/todd-blanche-doj-independence-trump-white-house",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Marco Rubio",
+      "count": 8,
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/15/woke-1-aoc-progressives",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kristen Stewart",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/2026/aug/12/the-wrong-girls-review-kristen-stewart-stoner-comedy",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ro Khanna",
+      "count": 5,
+      "url": "https://www.foxnews.com/media/hakeem-jeffries-rejects-medicare-all-dsa-agenda-ro-khanna-calls-health-plan-most-important-priority",
+      "source": "Fox News"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "count": 4,
+      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+      "source": "NY Times"
+    }
+  ],
   "EVENT": [
+    {
+      "name": "The Ukraine War",
+      "count": 3,
+      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+      "source": "The Guardian"
+    },
     {
       "name": "Hurricane Lala",
       "count": 3,
@@ -132,22 +200,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Iran War Turns Into Economic Battle",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Ukraine War",
-      "count": 2,
-      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Cincinnati Open",
-      "count": 2,
-      "url": "https://www.nbcnews.com/sports/tennis/novak-djokovic-reveals-health-issue-ouster-cincinnati-open-rcna592768",
-      "source": "NBC News"
+      "name": "The Iran War",
+      "count": 3,
+      "url": "https://www.cbsnews.com/video/majority-americans-not-satisfied-us-economy-cbs-news-poll-finds/",
+      "source": "CBS News"
     },
     {
       "name": "World Taekwondo Championships",
@@ -184,69 +240,13 @@
       "count": 1,
       "url": "https://www.latimes.com/sports/story/2026-08-16/how-la28-aims-to-stage-best-paralympic-games-ever",
       "source": "LA Times"
+    },
+    {
+      "name": "Olympics",
+      "count": 1,
+      "url": "https://www.latimes.com/sports/story/2026-08-16/how-la28-aims-to-stage-best-paralympic-games-ever",
+      "source": "LA Times"
     }
   ],
-  "PERSON": [
-    {
-      "name": "Advance Trump",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Tommy John",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Todd Blanche",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/todd-blanche-doj-independence-trump-white-house",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/todd-blanche-doj-independence-trump-white-house",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Marco Rubio",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Alexandria Ocasio-Cortez",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/15/woke-1-aoc-progressives",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Haley Stevens",
-      "count": 5,
-      "url": "https://www.foxnews.com/media/haley-stevens-urges-el-sayed-ditch-hasan-piker-affiliation-michigan-primary",
-      "source": "Fox News"
-    },
-    {
-      "name": "Ro Khanna",
-      "count": 5,
-      "url": "https://www.foxnews.com/media/hakeem-jeffries-rejects-medicare-all-dsa-agenda-ro-khanna-calls-health-plan-most-important-priority",
-      "source": "Fox News"
-    },
-    {
-      "name": "Kim Jong Un",
-      "count": 4,
-      "url": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Bill Cassidy",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-08-17T02:21:01Z"
+  "updated": "2026-08-17T07:55:17Z"
 };
