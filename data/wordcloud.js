@@ -2,333 +2,313 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    80,
-    "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html"
+    76,
+    "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html"
   ],
   [
     "president",
     34,
-    "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html"
-  ],
-  [
-    "war",
-    33,
-    "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html"
+    "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html"
   ],
   [
     "panettiere",
     30,
-    "https://www.nytimes.com/2026/08/17/podcasts/the-headlines/us-iran-deadline-war-islamophobia-texas.html"
-  ],
-  [
-    "south",
-    27,
-    "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html"
-  ],
-  [
-    "health",
-    25,
-    "https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html"
-  ],
-  [
-    "death",
-    25,
-    "https://www.washingtonpost.com/nation/2026/08/17/after-beloved-jackie-eagles-death-fans-turned-her-caretakers/"
+    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html"
   ],
   [
     "country",
-    24,
+    28,
     "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html"
+  ],
+  [
+    "trial",
+    27,
+    "https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html"
   ],
   [
     "hayden",
     24,
-    "https://www.nytimes.com/2026/08/17/podcasts/the-headlines/us-iran-deadline-war-islamophobia-texas.html"
+    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html"
+  ],
+  [
+    "death",
+    23,
+    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html"
+  ],
+  [
+    "court",
+    23,
+    "https://www.nytimes.com/2026/08/17/us/politics/supreme-court-trump-carroll.html"
+  ],
+  [
+    "murder",
+    23,
+    "https://www.nytimes.com/2026/08/17/us/baltimore-historic-decline-murder-homicide.html"
   ],
   [
     "iran",
-    21,
+    22,
     "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html"
   ],
   [
-    "latest",
-    21,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "war",
+    20,
+    "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html"
   ],
   [
-    "film",
-    21,
-    "https://www.theguardian.com/film/2026/aug/17/my-feelgood-movie-barcelona-whit-stillman"
-  ],
-  [
-    "korea",
+    "south",
     20,
     "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html"
   ],
   [
     "questions",
-    20,
-    "https://www.washingtonpost.com/nation/2026/08/17/after-beloved-jackie-eagles-death-fans-turned-her-caretakers/"
-  ],
-  [
-    "court",
-    20,
-    "https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws"
-  ],
-  [
-    "summer",
     19,
-    "https://www.theguardian.com/global-development/2026/aug/17/india-disasters-heatwaves-slum-diaries-delhi-vulnerable-temperatures"
-  ],
-  [
-    "murder",
-    18,
-    "https://www.nytimes.com/2026/08/17/us/baltimore-historic-decline-murder-homicide.html"
-  ],
-  [
-    "ukraine",
-    18,
-    "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html"
+    "https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html"
   ],
   [
     "family",
-    17,
+    19,
     "https://www.washingtonpost.com/lifestyle/2026/08/16/pet-goose-honks-alert-family-fire-helping-save-dozens-birds/"
   ],
   [
-    "gaza",
-    17,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "latest",
+    19,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "food",
-    17,
-    "https://www.theguardian.com/food/video/2026/aug/17/cheese-and-onion-crisps-topping-wasnt-on-my-bingo-card-exploring-british-style-pizza"
-  ],
-  [
-    "fire",
-    16,
-    "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html"
-  ],
-  [
-    "north",
-    16,
-    "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html"
-  ],
-  [
-    "lincoln",
-    16,
-    "https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html"
-  ],
-  [
-    "democratic",
-    16,
-    "https://www.nytimes.com/2026/08/17/us/florida-primaries-democratic-socialists.html"
-  ],
-  [
-    "york",
-    16,
-    "https://www.nytimes.com/2026/08/17/us/share-your-experiences-with-the-public-health-system-in-louisiana.html"
-  ],
-  [
-    "company",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/17/the-one-change-that-worked-i-sent-myself-a-letter-and-realised-whats-missing-in-this-world-of-whatsapp"
-  ],
-  [
-    "love",
-    16,
-    "https://www.theguardian.com/music/2026/aug/17/greg-dulli-grunge-misogyny-afghan-whigs-glorious-return"
-  ],
-  [
-    "donald",
-    16,
-    "https://www.theguardian.com/world/2026/aug/17/donald-trump-threatens-bomb-oman"
-  ],
-  [
-    "social",
-    16,
-    "https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws"
-  ],
-  [
-    "actor",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36"
-  ],
-  [
-    "body",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/17/is-it-harder-for-women-to-do-pull-ups"
-  ],
-  [
-    "dies",
-    15,
-    "https://www.nytimes.com/2026/08/17/podcasts/the-headlines/us-iran-deadline-war-islamophobia-texas.html"
-  ],
-  [
-    "general",
-    15,
-    "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html"
-  ],
-  [
-    "nashville",
-    15,
-    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html"
-  ],
-  [
-    "died",
-    15,
-    "https://www.theguardian.com/music/2026/aug/17/greg-dulli-grunge-misogyny-afghan-whigs-glorious-return"
-  ],
-  [
-    "young",
-    15,
-    "https://www.theguardian.com/music/2026/aug/17/greg-dulli-grunge-misogyny-afghan-whigs-glorious-return"
+    "film",
+    19,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-actor-shows-rewritten-heroes-claire"
   ],
   [
     "media",
-    15,
-    "https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws"
+    19,
+    "https://www.theguardian.com/world/2026/aug/17/andrei-klepach-russian-banker-fired-warning-economy"
   ],
   [
-    "political",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/aug/17/dating-gen-z-romance-expensive"
+    "general",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/18/job-that-changed-me-marriage-celebrant"
+  ],
+  [
+    "star",
+    17,
+    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html"
+  ],
+  [
+    "actor",
+    17,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-actor-shows-rewritten-heroes-claire"
+  ],
+  [
+    "california",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war"
+  ],
+  [
+    "love",
+    17,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36"
+  ],
+  [
+    "social",
+    17,
+    "https://www.theguardian.com/wellness/2026/aug/17/content-creators-finanaces-debt"
   ],
   [
     "race",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
+    17,
+    "https://www.theguardian.com/commentisfree/2026/aug/17/the-guardian-view-on-jason-arday-a-tragedy-that-demands-reflection"
   ],
   [
-    "democrats",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/16/democrats-trump-uss-abraham-lincoln"
+    "case",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/aug/17/the-guardian-view-on-jason-arday-a-tragedy-that-demands-reflection"
   ],
   [
-    "really",
-    15,
-    "https://www.theguardian.com/film/2026/aug/13/the-end-of-tom-six-review-human-centipede-director"
+    "gaza",
+    16,
+    "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html"
   ],
   [
-    "whose",
-    14,
-    "https://www.nytimes.com/2026/08/17/us/baltimore-historic-decline-murder-homicide.html"
+    "military",
+    16,
+    "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html"
   ],
   [
-    "trial",
-    14,
-    "https://www.nytimes.com/2026/08/10/arts/music/tupac-shakur-murder-trial.html"
+    "million",
+    16,
+    "https://www.nytimes.com/2026/08/17/us/politics/supreme-court-trump-carroll.html"
   ],
   [
-    "fans",
-    14,
+    "died",
+    16,
+    "https://www.washingtonpost.com/obituaries/2026/08/17/hayden-panettiere-former-child-actress-who-starred-heroes-dies-36/"
+  ],
+  [
+    "health",
+    16,
     "https://www.washingtonpost.com/nation/2026/08/17/after-beloved-jackie-eagles-death-fans-turned-her-caretakers/"
   ],
   [
     "john",
-    14,
+    16,
     "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/"
   ],
   [
-    "least",
-    14,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "body",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/17/louisiana-killing-wife-passenger-seat"
   ],
   [
-    "place",
+    "food",
+    16,
+    "https://www.theguardian.com/food/video/2026/aug/17/cheese-and-onion-crisps-topping-wasnt-on-my-bingo-card-exploring-british-style-pizza"
+  ],
+  [
+    "series",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-actor-shows-rewritten-heroes-claire"
+  ],
+  [
+    "summer",
+    15,
+    "https://www.theguardian.com/global-development/2026/aug/17/india-disasters-heatwaves-slum-diaries-delhi-vulnerable-temperatures"
+  ],
+  [
+    "cbs",
+    15,
+    "https://www.latimes.com/entertainment-arts/business/story/2026-08-11/cbs-sports-has-no-timetable-on-determining-tony-romos-return"
+  ],
+  [
+    "nashville",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/17/the-one-change-that-worked-i-sent-myself-a-letter-and-realised-whats-missing-in-this-world-of-whatsapp"
+    "https://www.nytimes.com/2026/05/17/books/review/hayden-panettiere-this-is-me.html"
+  ],
+  [
+    "party",
+    14,
+    "https://www.nytimes.com/2026/08/17/world/europe/russia-yabloko-party-election.html"
+  ],
+  [
+    "several",
+    14,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
     "because",
     14,
-    "https://www.theguardian.com/music/2026/aug/17/bob-dylan-gary-stewart-honky-tonk-hellraiser"
+    "https://www.theguardian.com/us-news/2026/aug/17/right-to-repair-laws"
   ],
   [
-    "record",
+    "park",
     14,
-    "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat"
+    "https://www.theguardian.com/us-news/2026/aug/17/trump-big-bend-national-park-texas-construction"
   ],
   [
-    "game",
+    "community",
     14,
-    "https://www.theguardian.com/sport/2026/aug/16/novak-djokovic-cincinnati-open-2026-tennis-us-open"
+    "https://www.theguardian.com/us-news/2026/aug/17/louisiana-killing-wife-passenger-seat"
   ],
   [
-    "uss",
+    "beach",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/16/democrats-trump-uss-abraham-lincoln"
+    "https://www.theguardian.com/commentisfree/2026/aug/17/italy-month-off-august-economic-productivity"
   ],
   [
-    "california",
-    14,
-    "https://www.theguardian.com/music/2026/aug/16/natalie-imbruglia-honest-playlist-michael-jackson-joni-mitchell-torn"
+    "heroes",
+    13,
+    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html"
   ],
   [
-    "military",
+    "korea",
     13,
     "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html"
   ],
   [
-    "star",
+    "states",
     13,
-    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html"
+    "https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html"
   ],
   [
-    "sea",
+    "democrats",
     13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/08/17/opinion/democratic-presidential-primary-2028.html"
   ],
   [
-    "peace",
+    "fewer",
     13,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.theguardian.com/thefilter-us/2026/aug/17/biogents-mosquitire-mosquito-trap-review"
   ],
   [
-    "return",
+    "strait",
     13,
-    "https://www.theguardian.com/music/2026/aug/17/greg-dulli-grunge-misogyny-afghan-whigs-glorious-return"
+    "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war"
   ],
   [
-    "album",
+    "hormuz",
     13,
-    "https://www.theguardian.com/music/2026/aug/17/greg-dulli-grunge-misogyny-afghan-whigs-glorious-return"
+    "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war"
   ],
   [
-    "win",
+    "uss",
     13,
-    "https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws"
+    "https://www.theguardian.com/us-news/2026/aug/17/us-navy-destroyer-south-china-sea"
   ],
   [
-    "meet",
-    12,
-    "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html"
+    "attorney",
+    13,
+    "https://www.theguardian.com/wellness/2026/aug/17/content-creators-finanaces-debt"
   ],
   [
-    "heroes",
+    "enough",
     12,
-    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html"
+    "https://www.nytimes.com/2026/08/17/technology/ai-slop.html"
   ],
   [
-    "won",
+    "democratic",
     12,
-    "https://www.nytimes.com/2026/08/17/us/politics/islamophobia-texas.html"
+    "https://www.nytimes.com/2026/08/17/opinion/democratic-presidential-primary-2028.html"
   ],
   [
-    "near",
+    "whose",
     12,
-    "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html"
+    "https://www.nytimes.com/2026/08/17/us/baltimore-historic-decline-murder-homicide.html"
   ],
   [
-    "start",
+    "dies",
     12,
-    "https://www.nytimes.com/2026/08/17/opinion/silicon-valley-war-pentagon.html"
+    "https://www.washingtonpost.com/obituaries/2026/08/17/hayden-panettiere-former-child-actress-who-starred-heroes-dies-36/"
   ],
   [
-    "air",
+    "role",
     12,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-actor-shows-rewritten-heroes-claire"
+  ],
+  [
+    "young",
+    12,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-actor-shows-rewritten-heroes-claire"
+  ],
+  [
+    "light",
+    12,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-actor-shows-rewritten-heroes-claire"
+  ],
+  [
+    "donald",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/aug/17/trump-tough-guy-image-catering-truck"
+  ],
+  [
+    "york",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/aug/17/trump-tough-guy-image-catering-truck"
+  ],
+  [
+    "name",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/17/alaska-senate-dan-sullivan-mary-peltola"
   ],
   [
     "primary",
@@ -336,43 +316,63 @@
     "https://www.theguardian.com/us-news/2026/aug/17/alaska-senate-dan-sullivan-mary-peltola"
   ],
   [
-    "post",
+    "buying",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/17/the-one-change-that-worked-i-sent-myself-a-letter-and-realised-whats-missing-in-this-world-of-whatsapp"
-  ],
-  [
-    "weekend",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/17/kentucky-mass-shooting-teenager-charged-murder"
+    "https://www.theguardian.com/thefilter-us/2026/aug/17/biogents-mosquitire-mosquito-trap-review"
   ],
   [
     "talks",
     12,
-    "https://www.theguardian.com/film/2026/aug/17/my-feelgood-movie-barcelona-whit-stillman"
+    "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war"
+  ],
+  [
+    "oman",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war"
+  ],
+  [
+    "place",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/aug/17/italy-month-off-august-economic-productivity"
+  ],
+  [
+    "company",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/aug/17/italy-month-off-august-economic-productivity"
   ],
   [
     "green",
     12,
-    "https://www.theguardian.com/culture/2026/aug/17/post-your-questions-for-actor-and-musician-samantha-morton"
+    "https://www.theguardian.com/tv-and-radio/2026/aug/17/lanterns-review-green-lantern-kyle-chandler-aaron-pierre-dc-comics-universe-superhero"
   ],
   [
-    "today",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/17/dating-gen-z-romance-expensive"
-  ],
-  [
-    "fewer",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/17/every-year-humans-speak-less-and-less-thats-bad-news-even-if-you-hate-mindless-chit-chat"
-  ],
-  [
-    "far",
+    "minister",
     11,
-    "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html"
+    "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html"
   ],
   [
-    "power",
+    "strike",
     11,
-    "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html"
+    "https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html"
+  ],
+  [
+    "sea",
+    11,
+    "https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html"
+  ],
+  [
+    "trying",
+    11,
+    "https://www.nytimes.com/2026/08/17/technology/ai-slop.html"
+  ],
+  [
+    "full",
+    11,
+    "https://www.nytimes.com/2026/08/17/technology/ai-slop.html"
+  ],
+  [
+    "play",
+    11,
+    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html"
   ]
 ];

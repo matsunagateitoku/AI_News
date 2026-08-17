@@ -3,27 +3,33 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 29,
-      "url": "https://www.theguardian.com/world/2026/aug/17/donald-trump-threatens-bomb-oman",
+      "count": 35,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/17/trump-tough-guy-image-catering-truck",
       "source": "The Guardian"
     },
     {
       "name": "Hayden Panettiere Is Dead",
-      "count": 18,
+      "count": 15,
       "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
       "source": "NY Times"
     },
     {
-      "name": "Marco Rubio",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
-      "source": "Wall St. Journal"
+      "name": "Tommy John",
+      "count": 7,
+      "url": "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/",
+      "source": "Washington Post"
     },
     {
-      "name": "Benjamin Netanyahu",
+      "name": "Tupac Shakur",
       "count": 7,
-      "url": "https://www.cbsnews.com/news/jared-kushner-hamas-netanyahu-gaza-peace-deal-negotiations/",
-      "source": "CBS News"
+      "url": "https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-duane-davis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Andy Burnham",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/17/the-guardian-view-on-jason-arday-a-tragedy-that-demands-reflection",
+      "source": "The Guardian"
     },
     {
       "name": "Todd Blanche",
@@ -32,178 +38,36 @@
       "source": "The Guardian"
     },
     {
-      "name": "Jared Kushner",
+      "name": "Mike Johnson",
       "count": 6,
-      "url": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
-      "source": "NPR"
-    },
-    {
-      "name": "Tommy John",
-      "count": 5,
-      "url": "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Greg Dulli",
-      "count": 5,
-      "url": "https://www.theguardian.com/music/2026/aug/17/greg-dulli-grunge-misogyny-afghan-whigs-glorious-return",
-      "source": "The Guardian"
-    },
-    {
-      "name": "John Hughes-Inspired",
-      "count": 5,
-      "url": "https://www.latimes.com/delos/story/2026-08-07/this-director-made-john-hughes-inspired-movie-about-mexican-american-teen",
-      "source": "LA Times"
-    },
-    {
-      "name": "Alexandria Ocasio-Cortez",
-      "count": 5,
-      "url": "https://www.foxnews.com/politics/far-left-politicians-still-using-actblue-88-year-old-disputes-donating-nearly-150000-fundraising-giant",
+      "url": "https://www.foxnews.com/politics/mike-johnson-taunts-hakeem-jeffries-losing-dems-civil-war-in-his-own-backyard",
       "source": "Fox News"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Target For Trump",
-      "count": 47,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
     },
     {
-      "name": "The White House",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/todd-blanche-doj-independence-trump-white-house",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 13,
-      "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 10,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michigan Senate",
-      "count": 10,
-      "url": "https://www.politico.com/news/2026/08/05/el-sayed-wins-michigan-senate-primary-stevens-01025170",
-      "source": "Politico"
-    },
-    {
-      "name": "Guardian",
-      "count": 9,
-      "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hamas",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Nato",
+      "name": "Kushner Meets Netanyahu",
       "count": 5,
-      "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "source": "Wall St. Journal"
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+      "source": "NY Times"
     },
     {
-      "name": "Abc News",
+      "name": "Lindsay Clancy",
       "count": 5,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nbc",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/todd-blanche-doj-independence-trump-white-house",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 40,
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/alaska-senate-dan-sullivan-mary-peltola",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ukraine",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Nashville",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/05/17/books/review/hayden-panettiere-this-is-me.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City",
-      "count": 13,
       "url": "https://www.theguardian.com/us-news/2026/aug/17/lindsay-clancy-trial-conspiracy-theories-postpartum-psychosis",
       "source": "The Guardian"
     },
     {
-      "name": "Northern Gaza",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "California",
-      "count": 12,
-      "url": "https://www.theguardian.com/lifeandstyle/gallery/2026/aug/16/worlds-ugliest-dog-contest-2026-in-pictures",
-      "source": "The Guardian"
-    },
-    {
-      "name": "North And South Korea",
-      "count": 12,
-      "url": "https://thehill.com/homenews/senate/6032751-mark-kelly-donald-trump-pentagon-south-korea-military-exercise-reduction/",
-      "source": "The Hill"
-    },
-    {
-      "name": "London",
-      "count": 10,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/17/the-one-change-that-worked-i-sent-myself-a-letter-and-realised-whats-missing-in-this-world-of-whatsapp",
+      "name": "Duane Davis",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-duane-davis",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The Ukraine War",
-      "count": 3,
-      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Iran War",
-      "count": 3,
+      "count": 2,
       "url": "https://www.theguardian.com/commentisfree/2026/aug/17/trump-tough-guy-image-catering-truck",
       "source": "The Guardian"
-    },
-    {
-      "name": "Hurricane Lala",
-      "count": 3,
-      "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
-      "source": "LA Times"
     },
     {
       "name": "A War Footing",
@@ -212,15 +76,21 @@
       "source": "NY Times"
     },
     {
-      "name": "Post-Franco",
+      "name": "Jason Arday",
       "count": 1,
-      "url": "https://www.theguardian.com/film/2026/aug/17/my-feelgood-movie-barcelona-whit-stillman",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/17/the-guardian-view-on-jason-arday-a-tragedy-that-demands-reflection",
       "source": "The Guardian"
     },
     {
-      "name": "World Cup",
+      "name": "Hurricane Lala",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/aug/16/rodri-set-to-complete-barcelona-move-after-manchester-city-accept-654m-bid",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/storm-lala-hawaii-damage",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Post-Franco",
+      "count": 1,
+      "url": "https://www.theguardian.com/film/2026/aug/17/my-feelgood-movie-barcelona-whit-stillman",
       "source": "The Guardian"
     },
     {
@@ -242,11 +112,141 @@
       "source": "LA Times"
     },
     {
-      "name": "Olympic",
+      "name": "World Cup",
       "count": 1,
-      "url": "https://www.foxnews.com/sports/meet-kandi-krush-former-olympic-hopeful-rising-ranks-women-wrestling",
-      "source": "Fox News"
+      "url": "https://www.latimes.com/delos/story/2026-07-02/mana-frontman-calls-out-liam-gallagher-over-mexico-england-world-cup-prediction",
+      "source": "LA Times"
+    },
+    {
+      "name": "The Archive Sale",
+      "count": 1,
+      "url": "https://www.nbcnews.com/select/shopping/salehe-bembury-new-balance-deal-of-the-day-2026-rcna592325",
+      "source": "NBC News"
     }
   ],
-  "updated": "2026-08-17T13:42:16Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 55,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/17/trump-tough-guy-image-catering-truck",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 20,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Iran",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nashville",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/05/17/books/review/hayden-panettiere-this-is-me.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Oman",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Northern Gaza",
+      "count": 10,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Italy Supports",
+      "count": 10,
+      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "New York City",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/lindsay-clancy-trial-conspiracy-theories-postpartum-psychosis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "London",
+      "count": 9,
+      "url": "https://www.theguardian.com/food/video/2026/aug/17/cheese-and-onion-crisps-topping-wasnt-on-my-bingo-card-exploring-british-style-pizza",
+      "source": "The Guardian"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Target For Trump",
+      "count": 44,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "The White House",
+      "count": 20,
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/todd-blanche-doj-independence-trump-white-house",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai Slop Is Everywhere",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cbs News",
+      "count": 10,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit",
+      "source": "LA Times"
+    },
+    {
+      "name": "Michigan Senate",
+      "count": 8,
+      "url": "https://www.politico.com/news/2026/08/05/el-sayed-wins-michigan-senate-primary-stevens-01025170",
+      "source": "Politico"
+    },
+    {
+      "name": "Hamas",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Guardian",
+      "count": 6,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 6,
+      "url": "https://www.foxnews.com/politics/house-republican-suggests-sen-darline-graham-ally-swamp",
+      "source": "Fox News"
+    },
+    {
+      "name": "Nbc News'",
+      "count": 6,
+      "url": "https://www.nbcnews.com/now/video/tupac-murder-trial-legal-teams-lay-out-framework-of-their-case-in-opening-statements-268415045519",
+      "source": "NBC News"
+    }
+  ],
+  "updated": "2026-08-17T19:31:41Z"
 };
