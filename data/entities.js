@@ -3,14 +3,32 @@
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 5,
+      "count": 4,
       "url": "https://www.theguardian.com/commentisfree/2026/aug/17/trump-tough-guy-image-catering-truck",
       "source": "The Guardian"
     },
     {
+      "name": "Olympics",
+      "count": 2,
+      "url": "https://www.theguardian.com/stage/2026/aug/18/pole-dancing-strip-clubs-serious-art-edinburgh-fringe",
+      "source": "The Guardian"
+    },
+    {
       "name": "The World Cup",
-      "count": 4,
+      "count": 2,
       "url": "https://www.theguardian.com/football/2026/aug/17/fifa-chief-sacked-criticism-infantino-world-cup-sell-off-plan-kevin-lamour",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Kurds Show A Way Forward",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/08/18/opinion/turkey-kurds-pkk-hamas.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ai",
+      "count": 1,
+      "url": "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology",
       "source": "The Guardian"
     },
     {
@@ -38,166 +56,18 @@
       "source": "The Guardian"
     },
     {
-      "name": "New Year'S Eve",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-08-17/keith-porter-jr-family-ice-agent-shooting-grand-jury-investigation",
-      "source": "LA Times"
-    },
-    {
       "name": "Paralympic Games",
       "count": 1,
       "url": "https://www.latimes.com/sports/story/2026-08-16/how-la28-aims-to-stage-best-paralympic-games-ever",
-      "source": "LA Times"
-    },
-    {
-      "name": "Olympics",
-      "count": 1,
-      "url": "https://www.latimes.com/sports/story/2026-08-16/how-la28-aims-to-stage-best-paralympic-games-ever",
-      "source": "LA Times"
-    },
-    {
-      "name": "Pro Bowl",
-      "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/falcons-coach-kevin-stefanski-poach-former-pro-bowl-pass-rusher-browns-team-fired-him",
-      "source": "Fox News"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Votes By Mail Again",
-      "count": 51,
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-mail-vote-florida-election.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "House Ethics Committee",
-      "count": 12,
-      "url": "https://www.latimes.com/politics/story/2026-08-17/house-ethics-committee-announces-sexual-misconduct-investigation-into-rep-jimmy-gomez",
-      "source": "LA Times"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michigan Senate",
-      "count": 10,
-      "url": "https://www.politico.com/news/2026/08/05/el-sayed-wins-michigan-senate-primary-stevens-01025170",
-      "source": "Politico"
-    },
-    {
-      "name": "Cbs News",
-      "count": 9,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit",
-      "source": "LA Times"
-    },
-    {
-      "name": "Penn State University",
-      "count": 9,
-      "url": "https://www.nbcnews.com/news/us-news/penn-state-students-accused-running-drug-ring-campus-fraternities-rcna592990",
-      "source": "NBC News"
-    },
-    {
-      "name": "Ai Slop Is Everywhere",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Cdc",
-      "count": 8,
-      "url": "https://www.theguardian.com/thefilter-us/2026/aug/17/biogents-mosquitire-mosquito-trap-review",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hamas",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Guardian",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/election-denier-tina-peters-shasta-county",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 27,
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hayden Panettiere",
-      "count": 19,
-      "url": "https://www.washingtonpost.com/obituaries/2026/08/17/hayden-panettiere-former-child-actress-who-starred-heroes-dies-36/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Lindsay Clancy",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/lindsay-clancy-trial-conspiracy-theories-postpartum-psychosis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nick Reiner",
-      "count": 6,
-      "url": "https://www.latimes.com/california/story/2026-08-16/nick-reiner-rob-michele-reiner-trust-fund-murder-trial",
-      "source": "LA Times"
-    },
-    {
-      "name": "Kushner Meets Netanyahu",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Lala",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/storm-lala-hawaii-damage",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Duane Davis",
-      "count": 5,
-      "url": "https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-duane-davis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tina Peters",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/election-denier-tina-peters-shasta-county",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Greg Dulli",
-      "count": 5,
-      "url": "https://www.theguardian.com/music/2026/aug/17/greg-dulli-grunge-misogyny-afghan-whigs-glorious-return",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jimmy Gomez",
-      "count": 5,
-      "url": "https://www.latimes.com/politics/story/2026-08-17/house-ethics-committee-announces-sexual-misconduct-investigation-into-rep-jimmy-gomez",
       "source": "LA Times"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 52,
-      "url": "https://www.theguardian.com/wellness/2026/aug/17/content-creators-finanaces-debt",
+      "count": 49,
+      "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
       "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 27,
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html",
-      "source": "NY Times"
     },
     {
       "name": "U.S.",
@@ -206,27 +76,39 @@
       "source": "NY Times"
     },
     {
-      "name": "New York City",
-      "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/lindsay-clancy-trial-conspiracy-theories-postpartum-psychosis",
-      "source": "The Guardian"
+      "name": "Iran",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html",
+      "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-oval-office-california-resuced-teen-viral",
+      "count": 19,
+      "url": "https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states",
       "source": "The Guardian"
+    },
+    {
+      "name": "New York City",
+      "count": 17,
+      "url": "https://www.theguardian.com/world/2026/aug/17/netanyahu-party-campaign-billboard-mamdani-iran-hezbollah",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hawaii",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/08/17/us/hurricane-lala-hawaii-damage.html",
+      "source": "NY Times"
     },
     {
       "name": "South Korea",
       "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
+      "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
       "source": "The Guardian"
     },
     {
       "name": "Nashville",
-      "count": 13,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36",
+      "count": 11,
+      "url": "https://www.theguardian.com/music/2026/aug/17/bob-dylan-gary-stewart-honky-tonk-hellraiser",
       "source": "The Guardian"
     },
     {
@@ -236,17 +118,135 @@
       "source": "NY Times"
     },
     {
-      "name": "Hawaii",
+      "name": "Uk",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/08/17/us/hurricane-lala-hawaii-damage.html",
+      "url": "https://www.theguardian.com/science/audio/2026/aug/18/ultra-rich-collecting-fossils-bad-for-science-podcast",
+      "source": "The Guardian"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump White House",
+      "count": 54,
+      "url": "https://www.foxnews.com/media/cnn-fires-back-trump-white-house-attacks-reporter-calls-beneath-office",
+      "source": "Fox News"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "House Ethics Committee",
+      "count": 10,
+      "url": "https://www.latimes.com/politics/story/2026-08-17/house-ethics-committee-announces-sexual-misconduct-investigation-into-rep-jimmy-gomez",
+      "source": "LA Times"
+    },
+    {
+      "name": "Michigan Senate",
+      "count": 10,
+      "url": "https://www.politico.com/news/2026/08/05/el-sayed-wins-michigan-senate-primary-stevens-01025170",
+      "source": "Politico"
+    },
+    {
+      "name": "Hamas",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
       "source": "NY Times"
     },
     {
-      "name": "Florida",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-mail-vote-florida-election.html",
-      "source": "NY Times"
+      "name": "Guardian",
+      "count": 8,
+      "url": "https://www.theguardian.com/science/audio/2026/aug/18/ultra-rich-collecting-fossils-bad-for-science-podcast",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 8,
+      "url": "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cdc",
+      "count": 8,
+      "url": "https://www.theguardian.com/thefilter-us/2026/aug/17/biogents-mosquitire-mosquito-trap-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cbs News",
+      "count": 8,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit",
+      "source": "LA Times"
+    },
+    {
+      "name": "Eu",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/18/far-right-grip-eu-centrist-coalition-afd-national-rally",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-08-18T02:16:56Z"
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 28,
+      "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hayden Panettiere",
+      "count": 17,
+      "url": "https://www.washingtonpost.com/obituaries/2026/08/17/hayden-panettiere-former-child-actress-who-starred-heroes-dies-36/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Jeanie Buss",
+      "count": 8,
+      "url": "https://www.theguardian.com/sport/2026/aug/17/jeanie-buss-reportedly-attempting-to-halt-her-siblings-attempt-to-sell-remaining-stake-in-lakers",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tina Peters",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/08/17/us/california-voting-shasta-county-tina-peters.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Rick Baker",
+      "count": 7,
+      "url": "https://www.theguardian.com/film/2026/aug/18/rick-baker-interview-visual-effects-makeup-gremlins-thriller",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nicola Davis",
+      "count": 6,
+      "url": "https://www.theguardian.com/science/audio/2026/aug/18/ultra-rich-collecting-fossils-bad-for-science-podcast",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Lindsay Clancy",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/lindsay-clancy-trial-mother-witness-testimony",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kushner Meets Netanyahu",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Tupac Shakur",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-duane-davis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Lala",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/storm-lala-hawaii-damage",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-08-18T07:41:36Z"
 };
