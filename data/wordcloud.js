@@ -2,18 +2,23 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    87,
-    "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html"
+    82,
+    "https://www.nytimes.com/2026/08/18/podcasts/the-headlines/trump-border-wall-tupac-murder-trial.html"
   ],
   [
     "president",
-    37,
+    35,
     "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html"
   ],
   [
     "family",
-    31,
-    "https://www.nytimes.com/2026/08/17/us/biddeford-maine-ice-shooting-hearing.html"
+    34,
+    "https://www.theguardian.com/us-news/2026/aug/18/scientists-onlyfans-marmots-crypto"
+  ],
+  [
+    "death",
+    30,
+    "https://www.washingtonpost.com/nation/2026/08/17/after-beloved-jackie-eagles-death-fans-turned-her-caretakers/"
   ],
   [
     "iran",
@@ -23,292 +28,267 @@
   [
     "war",
     27,
-    "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-truce-oman.html"
-  ],
-  [
-    "trial",
-    26,
-    "https://www.washingtonpost.com/nation/2026/08/17/judge-delays-mangiones-state-trial-after-lawyers-sought-dismissal/"
-  ],
-  [
-    "death",
-    25,
-    "https://www.nytimes.com/2026/08/17/opinion/jason-arday-cambridge-plagiarism-media.html"
-  ],
-  [
-    "panettiere",
-    24,
-    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html"
-  ],
-  [
-    "social",
-    24,
-    "https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states"
+    "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html"
   ],
   [
     "hayden",
+    26,
+    "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-child-star-struggles.html"
+  ],
+  [
+    "panettiere",
+    26,
+    "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-child-star-struggles.html"
+  ],
+  [
+    "primary",
+    24,
+    "https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html"
+  ],
+  [
+    "trial",
     23,
-    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html"
+    "https://www.nytimes.com/2026/08/18/podcasts/the-headlines/trump-border-wall-tupac-murder-trial.html"
+  ],
+  [
+    "american",
+    23,
+    "https://www.washingtonpost.com/business/2026/08/18/fewer-american-adults-say-theyre-gambling/"
   ],
   [
     "court",
     22,
-    "https://www.nytimes.com/2026/08/17/us/us-attorneys-interim-appointments.html"
+    "https://www.nytimes.com/2026/08/18/business/media/abc-fcc-lawsuit-broadcast-licenses.html"
   ],
   [
-    "california",
-    22,
-    "https://www.nytimes.com/2026/08/17/us/california-voting-shasta-county-tina-peters.html"
-  ],
-  [
-    "country",
+    "summer",
     21,
-    "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html"
+    "https://www.theguardian.com/film/2026/aug/18/wet-hot-american-summer-film"
   ],
   [
-    "media",
-    21,
-    "https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states"
-  ],
-  [
-    "case",
-    21,
-    "https://www.theguardian.com/us-news/2026/aug/17/lindsay-clancy-trial-mother-witness-testimony"
-  ],
-  [
-    "child",
+    "early",
     20,
-    "https://www.nytimes.com/2026/08/17/arts/elizabeth-smart-kidnapping-podcast-true-crime.html"
+    "https://www.nytimes.com/2026/08/18/us/politics/what-to-watch-primary-elections.html"
+  ],
+  [
+    "social",
+    20,
+    "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html"
   ],
   [
     "york",
-    20,
-    "https://www.theguardian.com/stage/2026/aug/18/pole-dancing-strip-clubs-serious-art-edinburgh-fringe"
+    19,
+    "https://www.theguardian.com/commentisfree/2026/aug/18/woke-progressives-rightwing-backlash-equality"
   ],
   [
-    "south",
-    20,
-    "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un"
+    "food",
+    19,
+    "https://www.theguardian.com/global-development/2026/aug/18/sudanese-refugee-samira-war-injury"
   ],
   [
-    "black",
-    20,
-    "https://www.theguardian.com/uk-news/2026/aug/17/tens-of-thousands-pay-tribute-jason-arday-trafalgar-square-vigil"
+    "florida",
+    18,
+    "https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html"
+  ],
+  [
+    "media",
+    18,
+    "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html"
+  ],
+  [
+    "country",
+    18,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "democratic",
-    19,
-    "https://www.nytimes.com/2026/08/17/us/politics/peltola-campaign-staff-change-primary.html"
-  ],
-  [
-    "shooting",
     18,
-    "https://www.nytimes.com/2026/08/17/us/biddeford-maine-ice-shooting-hearing.html"
-  ],
-  [
-    "latest",
-    18,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "race",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/aug/17/the-guardian-view-on-jason-arday-a-tragedy-that-demands-reflection"
-  ],
-  [
-    "film",
-    17,
-    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-nashville-heroes-streaming.html"
-  ],
-  [
-    "children",
-    17,
-    "https://www.nytimes.com/2026/08/17/well/vaccine-exemptions-rates.html"
-  ],
-  [
-    "actor",
-    17,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-hollywood-child-stars"
-  ],
-  [
-    "company",
-    17,
-    "https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states"
-  ],
-  [
-    "personal",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/17/trump-big-bend-national-park-texas-construction"
-  ],
-  [
-    "school",
-    17,
-    "https://www.theguardian.com/world/2026/aug/18/philippines-school-shooting-two-dead-zamboanga"
-  ],
-  [
-    "korea",
-    16,
-    "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html"
-  ],
-  [
-    "questions",
-    16,
-    "https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html"
-  ],
-  [
-    "order",
-    16,
-    "https://www.nytimes.com/2026/08/17/well/vaccine-exemptions-rates.html"
+    "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology"
   ],
   [
     "power",
-    16,
-    "https://www.nytimes.com/2026/08/17/us/hurricane-lala-hawaii-damage.html"
-  ],
-  [
-    "administration",
-    15,
-    "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html"
-  ],
-  [
-    "water",
-    15,
-    "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html"
-  ],
-  [
-    "investigation",
-    15,
-    "https://www.nytimes.com/2026/08/17/us/biddeford-maine-ice-shooting-hearing.html"
-  ],
-  [
-    "place",
-    15,
-    "https://www.nytimes.com/2026/08/17/us/us-attorneys-interim-appointments.html"
-  ],
-  [
-    "primary",
-    15,
-    "https://www.nytimes.com/2026/08/17/us/politics/peltola-campaign-staff-change-primary.html"
-  ],
-  [
-    "lala",
-    15,
-    "https://www.nytimes.com/2026/08/17/us/hurricane-lala-hawaii-damage.html"
-  ],
-  [
-    "star",
-    15,
-    "https://www.washingtonpost.com/obituaries/2026/08/17/hayden-panettiere-former-child-actress-who-starred-heroes-dies-36/"
-  ],
-  [
-    "died",
-    15,
-    "https://www.washingtonpost.com/obituaries/2026/08/17/hayden-panettiere-former-child-actress-who-starred-heroes-dies-36/"
-  ],
-  [
-    "released",
-    15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "defense",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/17/lindsay-clancy-trial-mother-witness-testimony"
-  ],
-  [
-    "murder",
-    15,
-    "https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-duane-davis"
-  ],
-  [
-    "green",
-    15,
-    "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall"
-  ],
-  [
-    "love",
-    15,
-    "https://www.theguardian.com/film/2026/aug/18/rick-baker-interview-visual-effects-makeup-gremlins-thriller"
-  ],
-  [
-    "body",
-    15,
-    "https://www.theguardian.com/football/2026/aug/17/fifa-chief-sacked-criticism-infantino-world-cup-sell-off-plan-kevin-lamour"
-  ],
-  [
-    "future",
-    14,
-    "https://www.nytimes.com/2026/08/17/us/politics/fbi-headquarters-maryland-trump.html"
-  ],
-  [
-    "killing",
-    14,
-    "https://www.nytimes.com/2026/08/17/us/biddeford-maine-ice-shooting-hearing.html"
+    17,
+    "https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html"
   ],
   [
     "campaign",
-    14,
-    "https://www.nytimes.com/2026/08/17/us/politics/peltola-campaign-staff-change-primary.html"
+    17,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "mangione",
+    "party",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/18/florida-primary-election-senate-governor-races"
+  ],
+  [
+    "voters",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/aug/18/andy-burnham-climate-security-net-zero-jobs"
+  ],
+  [
+    "strait",
+    16,
+    "https://www.nytimes.com/2026/08/18/business/strait-of-hormuz-ship-attack.html"
+  ],
+  [
+    "administration",
+    16,
+    "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html"
+  ],
+  [
+    "child",
+    16,
+    "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html"
+  ],
+  [
+    "young",
+    16,
+    "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html"
+  ],
+  [
+    "everything",
+    16,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "law",
+    16,
+    "https://www.theguardian.com/sport/2026/aug/18/tony-romo-cbs-nfl-future"
+  ],
+  [
+    "west",
+    15,
+    "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html"
+  ],
+  [
+    "tech",
+    15,
+    "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html"
+  ],
+  [
+    "charges",
+    15,
+    "https://www.washingtonpost.com/nation/2026/08/17/judge-delays-mangiones-state-trial-after-lawyers-sought-dismissal/"
+  ],
+  [
+    "john",
+    15,
+    "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/"
+  ],
+  [
+    "latest",
+    15,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "los",
+    15,
+    "https://www.theguardian.com/film/2026/aug/18/wet-hot-american-summer-film"
+  ],
+  [
+    "south",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/18/miami-sargassum-seaweed-problem-climate-crisis"
+  ],
+  [
+    "school",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/18/virginia-teacher-firefighters-python-school-fire"
+  ],
+  [
+    "senate",
+    14,
+    "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html"
+  ],
+  [
+    "california",
+    14,
+    "https://www.nytimes.com/2026/08/18/us/politics/trump-lifeguard-cnn-reporter.html"
+  ],
+  [
+    "star",
+    14,
+    "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-child-star-struggles.html"
+  ],
+  [
+    "company",
+    14,
+    "https://www.nytimes.com/2026/08/18/opinion/ezra-klein-podcast-helen-toner.html"
+  ],
+  [
+    "order",
     14,
     "https://www.washingtonpost.com/nation/2026/08/17/judge-delays-mangiones-state-trial-after-lawyers-sought-dismissal/"
   ],
   [
-    "health",
-    14,
-    "https://www.washingtonpost.com/nation/2026/08/17/after-beloved-jackie-eagles-death-fans-turned-her-caretakers/"
-  ],
-  [
-    "american",
+    "future",
     14,
     "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology"
   ],
   [
-    "donald",
+    "film",
     14,
-    "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un"
+    "https://www.theguardian.com/film/2026/aug/18/wet-hot-american-summer-film"
+  ],
+  [
+    "angeles",
+    14,
+    "https://www.theguardian.com/film/2026/aug/18/wet-hot-american-summer-film"
+  ],
+  [
+    "heat",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/aug/18/woke-progressives-rightwing-backlash-equality"
+  ],
+  [
+    "children",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/18/trump-federal-data-deleted-altered"
+  ],
+  [
+    "sonic",
+    14,
+    "https://www.theguardian.com/games/2026/aug/18/sonic-the-hedgehog-at-35"
+  ],
+  [
+    "hormuz",
+    13,
+    "https://www.nytimes.com/2026/08/18/business/strait-of-hormuz-ship-attack.html"
+  ],
+  [
+    "again",
+    13,
+    "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html"
+  ],
+  [
+    "past",
+    13,
+    "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html"
+  ],
+  [
+    "investigation",
+    13,
+    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html"
+  ],
+  [
+    "play",
+    13,
+    "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html"
+  ],
+  [
+    "recent",
+    13,
+    "https://www.nytimes.com/2026/08/18/opinion/ezra-klein-podcast-helen-toner.html"
   ],
   [
     "fewer",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/aug/17/every-year-humans-speak-less-and-less-thats-bad-news-even-if-you-hate-mindless-chit-chat"
-  ],
-  [
-    "food",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
-  ],
-  [
-    "israel",
     13,
-    "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html"
+    "https://www.washingtonpost.com/business/2026/08/18/fewer-american-adults-say-theyre-gambling/"
   ],
   [
-    "border",
+    "health",
     13,
-    "https://www.nytimes.com/2026/08/17/us/big-bend-border-wall-texas-construction.html"
-  ],
-  [
-    "election",
-    13,
-    "https://www.nytimes.com/2026/08/17/us/california-voting-shasta-county-tina-peters.html"
-  ],
-  [
-    "hawaii",
-    13,
-    "https://www.nytimes.com/2026/08/17/us/hurricane-lala-hawaii-damage.html"
-  ],
-  [
-    "island",
-    13,
-    "https://www.nytimes.com/2026/08/17/us/hurricane-lala-hawaii-damage.html"
-  ],
-  [
-    "leading",
-    13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.washingtonpost.com/nation/2026/08/17/after-beloved-jackie-eagles-death-fans-turned-her-caretakers/"
   ],
   [
     "several",
@@ -316,63 +296,83 @@
     "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "mother",
+    "place",
     13,
-    "https://www.theguardian.com/stage/2026/aug/18/pole-dancing-strip-clubs-serious-art-edinburgh-fringe"
-  ],
-  [
-    "because",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/aug/18/far-right-grip-eu-centrist-coalition-afd-national-rally"
-  ],
-  [
-    "young",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-hollywood-child-stars"
-  ],
-  [
-    "party",
-    13,
-    "https://www.theguardian.com/world/2026/aug/17/netanyahu-party-campaign-billboard-mamdani-iran-hezbollah"
-  ],
-  [
-    "heat",
-    13,
-    "https://www.theguardian.com/global-development/2026/aug/18/northern-iraq-villages-islamic-state-climate-crisis"
-  ],
-  [
-    "trip",
-    13,
-    "https://www.theguardian.com/world/2026/aug/18/kuril-islands-putin-takaichi-dispute-japan-russia-northern-territories"
-  ],
-  [
-    "sex",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/16/this-is-how-we-do-it-now-if-we-fight-we-cant-just-have-sex"
+    "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology"
   ],
   [
     "cbs",
     13,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit"
+    "https://www.theguardian.com/sport/2026/aug/18/tony-romo-cbs-nfl-future"
   ],
   [
-    "gaza",
-    12,
-    "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html"
+    "body",
+    13,
+    "https://www.theguardian.com/sport/2026/aug/18/tony-romo-cbs-nfl-future"
   ],
   [
-    "military",
-    12,
-    "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html"
+    "donald",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/18/woke-progressives-rightwing-backlash-equality"
   ],
   [
-    "crisis",
-    12,
-    "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html"
+    "black",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/18/woke-progressives-rightwing-backlash-equality"
   ],
   [
-    "park",
+    "sex",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/18/why-tv-vampires-are-so-intoxicating-vampire-lestat-lsd-blood"
+  ],
+  [
+    "love",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/18/why-tv-vampires-are-so-intoxicating-vampire-lestat-lsd-blood"
+  ],
+  [
+    "race",
     12,
-    "https://www.nytimes.com/2026/08/17/us/big-bend-border-wall-texas-construction.html"
+    "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html"
+  ],
+  [
+    "name",
+    12,
+    "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html"
+  ],
+  [
+    "israel",
+    12,
+    "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html"
+  ],
+  [
+    "abc",
+    12,
+    "https://www.nytimes.com/2026/08/18/business/media/abc-fcc-lawsuit-broadcast-licenses.html"
+  ],
+  [
+    "parents",
+    12,
+    "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html"
+  ],
+  [
+    "because",
+    12,
+    "https://www.nytimes.com/2026/08/18/theater/les-miserables.html"
+  ],
+  [
+    "enough",
+    12,
+    "https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html"
+  ],
+  [
+    "personal",
+    12,
+    "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-child-star-struggles.html"
+  ],
+  [
+    "questions",
+    12,
+    "https://www.washingtonpost.com/nation/2026/08/17/after-beloved-jackie-eagles-death-fans-turned-her-caretakers/"
   ]
 ];
