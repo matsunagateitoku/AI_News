@@ -2,34 +2,16 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 56,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Trump Tries Economic Pressure",
+      "count": 49,
+      "url": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
+      "source": "NY Times"
     },
     {
-      "name": "Gop Rep",
-      "count": 35,
-      "url": "https://thehill.com/homenews/campaign/6024512-rogers-wins-florida-house-primary/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Michigan Senate",
-      "count": 26,
-      "url": "https://www.politico.com/news/2026/08/05/el-sayed-wins-michigan-senate-primary-stevens-01025170",
-      "source": "Politico"
-    },
-    {
-      "name": "House Ethics Committee",
-      "count": 18,
-      "url": "https://www.latimes.com/politics/story/2026-08-17/house-ethics-committee-announces-sexual-misconduct-investigation-into-rep-jimmy-gomez",
-      "source": "LA Times"
-    },
-    {
-      "name": "Nbc News Senior National Politics",
-      "count": 13,
-      "url": "https://www.nbcnews.com/meet-the-press/video/-resign-you-re-destroying-the-country-republican-voter-in-key-ohio-district-slams-trump-268491333778",
-      "source": "NBC News"
+      "name": "Democratic Senate",
+      "count": 14,
+      "url": "https://www.cbsnews.com/video/democratic-socialist-angie-nixon-florida-primary/",
+      "source": "CBS News"
     },
     {
       "name": "The Filter Us",
@@ -38,177 +20,83 @@
       "source": "The Guardian"
     },
     {
-      "name": "Guardian Australia’S",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/18/low-carb-gluten-free-with-collagen-or-electrolytes-is-it-really-possible-for-alcohol-to-be-healthy",
-      "source": "The Guardian"
+      "name": "Gop",
+      "count": 10,
+      "url": "https://www.cbsnews.com/news/angie-nixon-interview-democratic-socialist-victory-florida/",
+      "source": "CBS News"
     },
     {
-      "name": "Islamic State",
+      "name": "Guardian",
       "count": 9,
-      "url": "https://www.theguardian.com/global-development/2026/aug/18/northern-iraq-villages-islamic-state-climate-crisis",
+      "url": "https://www.theguardian.com/media/ng-interactive/2026/aug/19/brendan-carr-fcc-white-house-exclusive",
       "source": "The Guardian"
-    },
-    {
-      "name": "Ice",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/08/18/us/ice-haiti-detention-springfield-tps-immigration.html",
-      "source": "NY Times"
     },
     {
       "name": "The White House",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/trump-ballroom-project-supreme-court",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 44,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/19/rightwing-witch-hunt-jason-arday-legitimate-journalism",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Florida",
-      "count": 38,
-      "url": "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 32,
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Canada",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Wyoming",
-      "count": 14,
-      "url": "https://www.theguardian.com/books/2026/aug/18/sunrise-by-tea-obreht-review-secrets-and-myths-in-the-american-west",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/08/18/us/california-tires-energy-efficient-standards.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Alaska",
-      "count": 13,
-      "url": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
-      "source": "NPR"
-    },
-    {
-      "name": "Texas",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "South Korea",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ukraine",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 33,
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Angie Nixon",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Rick Baker",
-      "count": 8,
-      "url": "https://www.theguardian.com/film/2026/aug/18/rick-baker-interview-visual-effects-makeup-gremlins-thriller",
-      "source": "The Guardian"
-    },
-    {
-      "name": "David Ellison'S",
-      "count": 8,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-17/paramount-demands-states-post-2-billion-bond-warner-deal-delays",
-      "source": "LA Times"
-    },
-    {
-      "name": "Williams",
-      "count": 7,
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/18/architect-paul-revere-williams-racism-los-angeles",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Byron Donalds",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dan Sullivan Advance",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/08/19/us/politics/peltola-sullivan-alaska-senate-primary.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Jeanie Buss",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/aug/17/jeanie-buss-reportedly-attempting-to-halt-her-siblings-attempt-to-sell-remaining-stake-in-lakers",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Phyllida Law",
-      "count": 6,
-      "url": "https://www.theguardian.com/stage/2026/aug/18/phyllida-law-obituary",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Harriet Hageman",
-      "count": 6,
-      "url": "https://www.foxnews.com/politics/trump-aligned-conservative-emerges-from-crowded-primary-decide-wyoming-house-seat",
+      "count": 9,
+      "url": "https://www.foxnews.com/politics/massive-piece-9-11-history-embarks-stunning-10500-mile-journey-across-america",
       "source": "Fox News"
+    },
+    {
+      "name": "Nbc News Senior National Politics",
+      "count": 9,
+      "url": "https://www.nbcnews.com/meet-the-press/video/-resign-you-re-destroying-the-country-republican-voter-in-key-ohio-district-slams-trump-268491333778",
+      "source": "NBC News"
+    },
+    {
+      "name": "Sonic",
+      "count": 7,
+      "url": "https://www.theguardian.com/games/2026/aug/18/sonic-the-hedgehog-at-35",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 5,
+      "url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pentagon",
+      "count": 5,
+      "url": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The World Cup",
-      "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/18/where-on-earth-is-melania-trump",
+      "count": 4,
+      "url": "https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodri-from-madrid-and-make-him-new-busquets",
       "source": "The Guardian"
     },
     {
-      "name": "Super Bowl",
+      "name": "Hurricane Lala",
       "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/nfl-commissioner-roger-goodell-confirms-league-wants-multiple-teams-based-outside-us-no-doubt",
-      "source": "Fox News"
-    },
-    {
-      "name": "Ai",
-      "count": 1,
-      "url": "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/08/19/briefing/hurricane-lala-aftermath.html",
+      "source": "NY Times"
     },
     {
       "name": "The Iran War",
       "count": 1,
-      "url": "https://www.latimes.com/opinion/story/2026-08-17/iran-war-has-exposed-limits-of-u-s-military",
+      "url": "https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Wimbledon",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/aug/19/nick-kyrgios-suspended-from-tennis-after-testing-positive-for-cocaine",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 1,
+      "url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Councilmember Hugo",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-08-19/la-city-council-repeals-homeless-camping-bans-in-echo-park-silver-lake-hollywood",
       "source": "LA Times"
     },
     {
@@ -218,11 +106,147 @@
       "source": "LA Times"
     },
     {
+      "name": "The American Revolution",
+      "count": 1,
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
+      "source": "NPR"
+    },
+    {
+      "name": "World Championship",
+      "count": 1,
+      "url": "https://www.foxnews.com/outkick-sports/aew-willow-nightingale-opens-winning-title-all-in-expectations-ahead-mercedes-mone-match",
+      "source": "Fox News"
+    },
+    {
       "name": "Decision Day",
       "count": 1,
       "url": "https://www.nbcnews.com/meet-the-press/video/-resign-you-re-destroying-the-country-republican-voter-in-key-ohio-district-slams-trump-268491333778",
       "source": "NBC News"
     }
   ],
-  "updated": "2026-08-19T07:42:33Z"
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 24,
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/natalie-harp-trump-aide",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Angie Nixon",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jessica Williams",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/08/19/arts/television/jessica-williams-shrinking-emmy.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Hayden Panettiere",
+      "count": 8,
+      "url": "https://www.washingtonpost.com/obituaries/2026/08/17/hayden-panettiere-former-child-actress-who-starred-heroes-dies-36/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "David Ellison'S",
+      "count": 8,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-17/paramount-demands-states-post-2-billion-bond-warner-deal-delays",
+      "source": "LA Times"
+    },
+    {
+      "name": "Nominate Heidi Overton",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Brian Hickerson",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Natalie Harp",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Greg Dulli",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/aug/17/greg-dulli-grunge-misogyny-afghan-whigs-glorious-return",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Frank Beard",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/aug/18/frank-beard-dies-zz-top",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 38,
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/natalie-harp-trump-aide",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Florida",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/08/19/arts/television/rosie-odonnell-late-night-trump-strait-of-hormuz.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 14,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Canada",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Bus Routes Of South London",
+      "count": 12,
+      "url": "https://www.theguardian.com/music/2026/aug/19/jah-wobble-interview-beatles-bassist-public-image-ltd",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County",
+      "count": 12,
+      "url": "https://www.latimes.com/california/story/2026-08-19/ai-hallucinations-case-law-state-farm-la-county-fire-dispute",
+      "source": "LA Times"
+    },
+    {
+      "name": "Ukraine",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/live/2026/aug/19/europe-ukraine-zelenskyy-mykhailo-fedorov-parliament-vote-corruption-probe-russia-belgium-wildfires-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/08/18/us/california-tires-energy-efficient-standards.html",
+      "source": "NY Times"
+    }
+  ],
+  "updated": "2026-08-19T13:48:52Z"
 };
