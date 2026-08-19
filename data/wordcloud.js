@@ -2,88 +2,83 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    82,
-    "https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html"
+    96,
+    "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html"
   ],
   [
     "primary",
-    66,
-    "https://www.nytimes.com/2026/08/18/us/politics/mills-elijah-florida-republican-primary.html"
-  ],
-  [
-    "florida",
     64,
-    "https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html"
-  ],
-  [
-    "democratic",
-    40,
     "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results"
   ],
   [
     "president",
+    45,
+    "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html"
+  ],
+  [
+    "florida",
     38,
-    "https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html"
+    "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html"
   ],
   [
-    "rep",
+    "democratic",
     36,
-    "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary"
-  ],
-  [
-    "gop",
-    32,
-    "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers"
-  ],
-  [
-    "senate",
-    30,
-    "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results"
-  ],
-  [
-    "republican",
-    26,
-    "https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html"
-  ],
-  [
-    "district",
-    26,
-    "https://www.theguardian.com/us-news/2026/aug/18/teen-dies-abandoned-high-rise-new-orleans"
+    "https://www.nytimes.com/2026/08/19/us/politics/peltola-sullivan-alaska-senate-primary.html"
   ],
   [
     "south",
-    23,
-    "https://www.nytimes.com/2026/08/18/us/politics/trumps-upside-down-world.html"
+    36,
+    "https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html"
+  ],
+  [
+    "gop",
+    35,
+    "https://www.foxnews.com/politics/gop-senator-ex-house-dem-emerge-alaskas-jungle-primary-despite-far-left-meddling"
+  ],
+  [
+    "senate",
+    34,
+    "https://www.nytimes.com/2026/08/19/us/politics/peltola-sullivan-alaska-senate-primary.html"
+  ],
+  [
+    "rep",
+    32,
+    "https://www.latimes.com/politics/story/2026-08-17/house-ethics-committee-announces-sexual-misconduct-investigation-into-rep-jimmy-gomez"
   ],
   [
     "war",
-    23,
+    30,
     "https://www.washingtonpost.com/politics/2026/08/18/jill-stein-green-party-candidate-faces-assault-charges-missouri/"
   ],
   [
-    "death",
+    "republican",
     23,
-    "https://www.washingtonpost.com/nation/2026/08/17/after-beloved-jackie-eagles-death-fans-turned-her-caretakers/"
-  ],
-  [
-    "trial",
-    22,
-    "https://www.washingtonpost.com/nation/2026/08/17/judge-delays-mangiones-state-trial-after-lawyers-sought-dismissal/"
-  ],
-  [
-    "family",
-    22,
-    "https://www.theguardian.com/artanddesign/2026/aug/18/architect-paul-revere-williams-racism-los-angeles"
-  ],
-  [
-    "media",
-    21,
-    "https://www.theguardian.com/sport/2026/aug/18/tony-romo-cbs-nfl-future"
+    "https://www.nytimes.com/2026/08/19/us/politics/peltola-sullivan-alaska-senate-primary.html"
   ],
   [
     "race",
+    23,
+    "https://www.theguardian.com/commentisfree/2026/aug/19/rightwing-witch-hunt-jason-arday-legitimate-journalism"
+  ],
+  [
+    "korea",
+    22,
+    "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html"
+  ],
+  [
+    "death",
     21,
-    "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results"
+    "https://www.washingtonpost.com/nation/2026/08/17/after-beloved-jackie-eagles-death-fans-turned-her-caretakers/"
+  ],
+  [
+    "family",
+    21,
+    "https://www.theguardian.com/artanddesign/2026/aug/18/architect-paul-revere-williams-racism-los-angeles"
+  ],
+  [
+    "district",
+    21,
+    "https://www.theguardian.com/us-news/2026/aug/18/teen-dies-abandoned-high-rise-new-orleans"
   ],
   [
     "seat",
@@ -91,34 +86,39 @@
     "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary"
   ],
   [
-    "court",
+    "died",
     20,
-    "https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html"
+    "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html"
   ],
   [
-    "california",
+    "election",
     19,
-    "https://www.nytimes.com/2026/08/18/us/california-tires-energy-efficient-standards.html"
+    "https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html"
+  ],
+  [
+    "health",
+    19,
+    "https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html"
   ],
   [
     "social",
     19,
-    "https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states"
+    "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
   ],
   [
-    "donalds",
+    "general",
+    19,
+    "https://www.theguardian.com/us-news/2026/aug/18/minnesota-ice-agent-lawsuit-texas"
+  ],
+  [
+    "media",
     18,
-    "https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html"
+    "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
   ],
   [
-    "health",
+    "wyoming",
     18,
-    "https://www.washingtonpost.com/nation/2026/08/17/after-beloved-jackie-eagles-death-fans-turned-her-caretakers/"
-  ],
-  [
-    "american",
-    17,
-    "https://www.nytimes.com/2026/08/18/us/california-tires-energy-efficient-standards.html"
+    "https://www.theguardian.com/books/2026/aug/18/sunrise-by-tea-obreht-review-secrets-and-myths-in-the-american-west"
   ],
   [
     "review",
@@ -126,99 +126,89 @@
     "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/"
   ],
   [
-    "cut",
+    "donald",
     17,
-    "https://www.washingtonpost.com/nation/2026/08/18/vandals-are-destroying-license-plate-cameras-amid-anger-over-surveillance/"
+    "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
   ],
   [
-    "administration",
+    "david",
+    17,
+    "https://www.theguardian.com/sport/2026/aug/18/brewers-mariners-22-0-modern-era-shutout-record"
+  ],
+  [
+    "tariffs",
+    16,
+    "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html"
+  ],
+  [
+    "canada",
+    16,
+    "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html"
+  ],
+  [
+    "court",
     16,
     "https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html"
   ],
   [
-    "love",
-    16,
-    "https://www.nytimes.com/2026/08/18/well/family/forty-first-dates-and-still-searching.html"
-  ],
-  [
-    "died",
-    16,
-    "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html"
-  ],
-  [
-    "party",
-    16,
-    "https://www.washingtonpost.com/politics/2026/08/18/jill-stein-green-party-candidate-faces-assault-charges-missouri/"
-  ],
-  [
-    "nixon",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results"
-  ],
-  [
-    "general",
-    16,
-    "https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states"
-  ],
-  [
-    "election",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/18/jon-ossoff-trump"
-  ],
-  [
-    "trying",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/18/nyc-synagogue-federal-hate-crime-charges"
-  ],
-  [
-    "wins",
-    15,
-    "https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html"
-  ],
-  [
-    "governor",
-    15,
-    "https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html"
-  ],
-  [
-    "mills",
-    15,
-    "https://www.nytimes.com/2026/08/18/us/politics/mills-elijah-florida-republican-primary.html"
-  ],
-  [
-    "gaza",
-    15,
-    "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html"
-  ],
-  [
-    "hayden",
-    15,
-    "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html"
-  ],
-  [
     "political",
-    15,
+    16,
     "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/"
   ],
   [
-    "cbs",
-    15,
-    "https://www.theguardian.com/sport/2026/aug/18/tony-romo-cbs-nfl-future"
+    "trial",
+    16,
+    "https://www.washingtonpost.com/nation/2026/08/17/judge-delays-mangiones-state-trial-after-lawyers-sought-dismissal/"
   ],
   [
-    "summer",
-    15,
-    "https://www.theguardian.com/film/2026/aug/18/wet-hot-american-summer-film"
-  ],
-  [
-    "won",
-    15,
+    "governor",
+    16,
     "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results"
+  ],
+  [
+    "baby",
+    16,
+    "https://www.theguardian.com/film/2026/aug/18/waves-turn-review-wellen-wende-motherhood"
+  ],
+  [
+    "win",
+    15,
+    "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html"
+  ],
+  [
+    "alaska",
+    15,
+    "https://www.nytimes.com/2026/08/19/us/politics/peltola-sullivan-alaska-senate-primary.html"
   ],
   [
     "security",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/18/pentagon-funding-colleges-harvard"
+    "https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html"
+  ],
+  [
+    "administration",
+    15,
+    "https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html"
+  ],
+  [
+    "joint",
+    15,
+    "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html"
+  ],
+  [
+    "cut",
+    15,
+    "https://www.washingtonpost.com/nation/2026/08/18/vandals-are-destroying-license-plate-cameras-amid-anger-over-surveillance/"
+  ],
+  [
+    "country",
+    15,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "wins",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results"
   ],
   [
     "food",
@@ -226,29 +216,14 @@
     "https://www.theguardian.com/global-development/2026/aug/18/sudanese-refugee-samira-war-injury"
   ],
   [
-    "child",
-    15,
-    "https://www.theguardian.com/games/2026/aug/17/ithaca-pixel-hunt"
-  ],
-  [
-    "baby",
-    15,
-    "https://www.cbsnews.com/news/california-diaper-program-baby2baby-newsom/"
-  ],
-  [
-    "lost",
+    "succeed",
     14,
-    "https://www.nytimes.com/2026/08/18/us/politics/mills-elijah-florida-republican-primary.html"
+    "https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html"
   ],
   [
-    "panettiere",
+    "military",
     14,
-    "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html"
-  ],
-  [
-    "green",
-    14,
-    "https://www.washingtonpost.com/politics/2026/08/18/jill-stein-green-party-candidate-faces-assault-charges-missouri/"
+    "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html"
   ],
   [
     "order",
@@ -261,54 +236,29 @@
     "https://www.washingtonpost.com/nation/2026/08/17/most-americans-have-lived-with-romantic-partner-by-their-early-40s/"
   ],
   [
-    "star",
+    "projects",
     14,
-    "https://www.washingtonpost.com/obituaries/2026/08/17/hayden-panettiere-former-child-actress-who-starred-heroes-dies-36/"
+    "https://www.theguardian.com/artanddesign/2026/aug/18/architect-paul-revere-williams-racism-los-angeles"
+  ],
+  [
+    "something",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/19/a-moment-that-changed-me-my-husband-died-and-birds-began-behaving-strangely-towards-me"
+  ],
+  [
+    "child",
+    14,
+    "https://www.theguardian.com/artanddesign/gallery/2026/aug/19/wendy-mcmurdo-digital-child-tech-computers-internet"
+  ],
+  [
+    "play",
+    14,
+    "https://www.theguardian.com/artanddesign/gallery/2026/aug/19/wendy-mcmurdo-digital-child-tech-computers-internet"
   ],
   [
     "body",
     14,
-    "https://www.theguardian.com/sport/2026/aug/18/tony-romo-cbs-nfl-future"
-  ],
-  [
-    "police",
-    14,
-    "https://www.theguardian.com/sport/2026/aug/18/tony-romo-cbs-nfl-future"
-  ],
-  [
-    "film",
-    14,
-    "https://www.theguardian.com/film/2026/aug/18/wet-hot-american-summer-film"
-  ],
-  [
-    "tech",
-    14,
-    "https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states"
-  ],
-  [
-    "company",
-    14,
-    "https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/18/jon-ossoff-trump"
-  ],
-  [
-    "enough",
-    14,
-    "https://www.theguardian.com/world/commentisfree/2026/aug/18/clarke-gayford-sam-neill-death-life-legacy-of-decency"
-  ],
-  [
-    "extreme",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/aug/17/trump-tough-guy-image-catering-truck"
-  ],
-  [
-    "decision",
-    14,
-    "https://www.theguardian.com/football/2026/aug/18/israel-withdraws-support-for-embattled-fifa-president-gianni-infantino"
+    "https://www.theguardian.com/commentisfree/2026/aug/18/where-on-earth-is-melania-trump"
   ],
   [
     "sonic",
@@ -316,9 +266,14 @@
     "https://www.theguardian.com/games/2026/aug/18/sonic-the-hedgehog-at-35"
   ],
   [
-    "meta",
+    "drills",
     13,
-    "https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html"
+    "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html"
+  ],
+  [
+    "love",
+    13,
+    "https://www.nytimes.com/2026/08/18/science/primates-pets.html"
   ],
   [
     "past",
@@ -326,53 +281,98 @@
     "https://www.nytimes.com/2026/08/18/science/primates-pets.html"
   ],
   [
-    "backed",
+    "don",
     13,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html"
   ],
   [
-    "everything",
+    "american",
     13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.nytimes.com/2026/08/18/us/california-tires-energy-efficient-standards.html"
   ],
   [
-    "country",
+    "questions",
     13,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.washingtonpost.com/nation/2026/08/17/after-beloved-jackie-eagles-death-fans-turned-her-caretakers/"
   ],
   [
-    "latest",
+    "summer",
     13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/19/why-do-you-never-buy-a-round-20-mortifying-money-conversations-with-friends-and-how-to-handle-them"
   ],
   [
-    "los",
+    "won",
     13,
-    "https://www.theguardian.com/artanddesign/2026/aug/18/architect-paul-revere-williams-racism-los-angeles"
-  ],
-  [
-    "projects",
-    13,
-    "https://www.theguardian.com/artanddesign/2026/aug/18/architect-paul-revere-williams-racism-los-angeles"
-  ],
-  [
-    "county",
-    13,
-    "https://www.theguardian.com/artanddesign/2026/aug/18/architect-paul-revere-williams-racism-los-angeles"
+    "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results"
   ],
   [
     "future",
     13,
-    "https://www.theguardian.com/sport/2026/aug/18/tony-romo-cbs-nfl-future"
+    "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology"
+  ],
+  [
+    "mother",
+    13,
+    "https://www.theguardian.com/books/2026/aug/19/where-are-the-kings-by-donal-ryan-review-a-timeless-tale-of-family-sorrows-and-joys"
+  ],
+  [
+    "tech",
+    13,
+    "https://www.theguardian.com/artanddesign/gallery/2026/aug/19/wendy-mcmurdo-digital-child-tech-computers-internet"
   ],
   [
     "sex",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/18/why-tv-vampires-are-so-intoxicating-vampire-lestat-lsd-blood"
+  ],
+  [
+    "nbc",
     13,
     "https://www.theguardian.com/commentisfree/2026/aug/18/where-on-earth-is-melania-trump"
   ],
   [
     "products",
     13,
+    "https://www.theguardian.com/commentisfree/2026/aug/18/low-carb-gluten-free-with-collagen-or-electrolytes-is-it-really-possible-for-alcohol-to-be-healthy"
+  ],
+  [
+    "decision",
+    13,
+    "https://www.theguardian.com/football/2026/aug/18/israel-withdraws-support-for-embattled-fifa-president-gianni-infantino"
+  ],
+  [
+    "company",
+    13,
     "https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states"
+  ],
+  [
+    "sen",
+    13,
+    "https://www.cbsnews.com/news/florida-senate-primary-results-ashley-moody-angie-nixon/"
+  ],
+  [
+    "nixon",
+    12,
+    "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html"
+  ],
+  [
+    "graham",
+    12,
+    "https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html"
+  ],
+  [
+    "friends",
+    12,
+    "https://www.nytimes.com/2026/08/18/us/politics/trumps-upside-down-world.html"
+  ],
+  [
+    "gaza",
+    12,
+    "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html"
+  ],
+  [
+    "hayden",
+    12,
+    "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html"
   ]
 ];
