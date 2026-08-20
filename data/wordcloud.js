@@ -2,18 +2,23 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    89,
+    95,
     "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
   ],
   [
     "president",
-    46,
+    42,
     "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
   ],
   [
     "family",
-    25,
+    29,
     "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html"
+  ],
+  [
+    "latest",
+    24,
+    "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html"
   ],
   [
     "police",
@@ -23,32 +28,37 @@
   [
     "democratic",
     23,
-    "https://www.theguardian.com/world/2026/aug/19/mykhailo-fedorov-zelenskyy-loyalist-opponent-ukraine"
-  ],
-  [
-    "latest",
-    22,
-    "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html"
+    "https://www.theguardian.com/us-news/2026/aug/19/angie-nixon-florida-democratic-socialist"
   ],
   [
     "primary",
-    21,
+    23,
     "https://www.theguardian.com/us-news/2026/aug/19/mike-lindell-recount-minnesota-primary"
   ],
   [
     "country",
+    22,
+    "https://www.nytimes.com/2026/08/20/opinion/trump-brazil-election-bolsonaro.html"
+  ],
+  [
+    "iran",
+    21,
+    "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
+  ],
+  [
+    "florida",
     20,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/us-news/2026/aug/19/angie-nixon-florida-democratic-socialist"
   ],
   [
     "media",
-    19,
-    "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
+    18,
+    "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html"
   ],
   [
-    "game",
-    19,
-    "https://www.theguardian.com/sport/2026/aug/19/eddie-gaedel-bill-veeck-st-louis-browns-75th-anniversary"
+    "children",
+    18,
+    "https://www.nytimes.com/2026/08/19/us/politics/migrant-children-pentagon-lawyers.html"
   ],
   [
     "died",
@@ -56,59 +66,24 @@
     "https://www.nytimes.com/2026/08/19/arts/music/hayden-panettiere-death-what-to-know.html"
   ],
   [
-    "california",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/19/reporters-held-gunpoint-california-space-force-base"
-  ],
-  [
-    "debt",
-    17,
-    "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
-  ],
-  [
-    "iran",
-    17,
-    "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
-  ],
-  [
-    "north",
-    17,
-    "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html"
-  ],
-  [
-    "children",
-    17,
-    "https://www.nytimes.com/2026/08/19/us/politics/migrant-children-pentagon-lawyers.html"
-  ],
-  [
-    "don",
-    17,
-    "https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html"
-  ],
-  [
     "political",
     17,
     "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/"
   ],
   [
-    "campaign",
+    "school",
     17,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.theguardian.com/news/2026/aug/20/long-shadow-argentinas-dictatorship-she-was-not-who-she-thought-she-was-neither-was-her-father"
   ],
   [
-    "florida",
+    "california",
     17,
-    "https://www.theguardian.com/us-news/2026/aug/19/angie-nixon-florida-democratic-socialist"
+    "https://www.theguardian.com/us-news/2026/aug/19/reporters-held-gunpoint-california-space-force-base"
   ],
   [
-    "food",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/19/heidi-overton-fda-commissioner-nomination"
-  ],
-  [
-    "black",
+    "economic",
     16,
-    "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html"
+    "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html"
   ],
   [
     "death",
@@ -116,59 +91,59 @@
     "https://www.nytimes.com/2026/08/19/arts/television/hayden-panettiere-dea-investigation-drugs.html"
   ],
   [
-    "center",
+    "campaign",
     16,
-    "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "park",
+    16,
+    "https://www.theguardian.com/world/2026/aug/20/baby-shark-boy-geonroung-park-k-pop-wave"
+  ],
+  [
+    "game",
+    16,
+    "https://www.theguardian.com/sport/2026/aug/19/eddie-gaedel-bill-veeck-st-louis-browns-75th-anniversary"
+  ],
+  [
+    "debt",
+    15,
+    "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
+  ],
+  [
+    "announced",
+    15,
+    "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html"
+  ],
+  [
+    "north",
+    15,
+    "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html"
   ],
   [
     "early",
-    16,
+    15,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "team",
-    16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
     "donald",
-    16,
+    15,
     "https://www.theguardian.com/us-news/2026/aug/19/us-debt-40-trillion"
   ],
   [
-    "senate",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/19/angie-nixon-florida-democratic-socialist"
-  ],
-  [
-    "lost",
+    "killed",
     15,
-    "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html"
+    "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack"
   ],
   [
-    "democrats",
-    15,
-    "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html"
-  ],
-  [
-    "star",
-    15,
-    "https://www.nytimes.com/2026/08/19/arts/music/hayden-panettiere-death-what-to-know.html"
-  ],
-  [
-    "york",
-    15,
-    "https://www.nytimes.com/2026/08/19/nyregion/mamdani-ny-city-council-lawsuit-teachers.html"
-  ],
-  [
-    "film",
-    15,
-    "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance"
-  ],
-  [
-    "social",
+    "don",
     15,
     "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
+  ],
+  [
+    "food",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/aug/16/best-picnic-items"
   ],
   [
     "war",
@@ -176,44 +151,64 @@
     "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
   ],
   [
-    "department",
+    "lost",
     14,
-    "https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html"
+    "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html"
   ],
   [
-    "administration",
+    "prince",
     14,
-    "https://www.nytimes.com/2026/08/19/us/politics/migrant-children-pentagon-lawyers.html"
+    "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html"
   ],
   [
-    "americans",
+    "harry",
     14,
-    "https://www.nytimes.com/2026/08/19/opinion/friendship-luxury-good.html"
+    "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html"
   ],
   [
-    "gaza",
+    "meghan",
     14,
-    "https://www.washingtonpost.com/politics/2026/08/18/jill-stein-green-party-candidate-faces-assault-charges-missouri/"
+    "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html"
   ],
   [
-    "name",
+    "return",
     14,
-    "https://www.theguardian.com/world/2026/aug/19/mykhailo-fedorov-zelenskyy-loyalist-opponent-ukraine"
+    "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html"
   ],
   [
-    "race",
+    "social",
     14,
-    "https://www.theguardian.com/commentisfree/2026/aug/19/rightwing-witch-hunt-jason-arday-legitimate-journalism"
+    "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html"
   ],
   [
-    "killed",
+    "democrats",
     14,
-    "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed"
+    "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html"
+  ],
+  [
+    "released",
+    14,
+    "https://www.nytimes.com/2026/08/19/arts/music/hayden-panettiere-death-what-to-know.html"
+  ],
+  [
+    "york",
+    14,
+    "https://www.nytimes.com/2026/08/19/nyregion/mamdani-ny-city-council-lawsuit-teachers.html"
+  ],
+  [
+    "team",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "summer",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/19/san-francisco-trans-landmark-ice"
+    "https://www.theguardian.com/news/2026/aug/20/long-shadow-argentinas-dictatorship-she-was-not-who-she-thought-she-was-neither-was-her-father"
+  ],
+  [
+    "name",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-renovations"
   ],
   [
     "sonic",
@@ -221,39 +216,39 @@
     "https://www.theguardian.com/games/2026/aug/18/sonic-the-hedgehog-at-35"
   ],
   [
-    "announced",
+    "win",
     13,
-    "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html"
+    "https://www.nytimes.com/2026/08/19/us/missouri-redistricting-midterms.html"
   ],
   [
-    "investigation",
+    "pennsylvania",
     13,
-    "https://www.nytimes.com/2026/08/19/arts/television/hayden-panettiere-dea-investigation-drugs.html"
+    "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/"
   ],
   [
-    "released",
+    "americans",
     13,
-    "https://www.nytimes.com/2026/08/19/arts/music/hayden-panettiere-death-what-to-know.html"
+    "https://www.washingtonpost.com/nation/2026/08/18/vandals-are-destroying-license-plate-cameras-amid-anger-over-surveillance/"
   ],
   [
-    "tested",
+    "far",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/14/best-sleep-products-blackout-tent"
+    "https://www.theguardian.com/commentisfree/2026/aug/20/hot-summer-wet-winter-welcome-to-the-age-of-climate-whiplash"
   ],
   [
-    "buying",
+    "trial",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/14/best-sleep-products-blackout-tent"
+    "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
   ],
   [
-    "park",
+    "senate",
     13,
-    "https://www.theguardian.com/world/2026/aug/20/baby-shark-boy-geonroung-park-k-pop-wave"
+    "https://www.theguardian.com/us-news/2026/aug/19/angie-nixon-florida-democratic-socialist"
   ],
   [
-    "cbs",
-    13,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit"
+    "questions",
+    12,
+    "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html"
   ],
   [
     "working",
@@ -261,19 +256,14 @@
     "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html"
   ],
   [
-    "republican",
-    12,
-    "https://www.nytimes.com/2026/08/19/us/politics/trump-primary-election-republican-endorsements.html"
-  ],
-  [
     "party",
     12,
     "https://www.nytimes.com/2026/08/19/us/politics/trump-primary-election-republican-endorsements.html"
   ],
   [
-    "something",
+    "kim",
     12,
-    "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html"
+    "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html"
   ],
   [
     "guide",
@@ -281,29 +271,14 @@
     "https://www.washingtonpost.com/obituaries/2026/08/18/martin-cohen-who-helped-guide-posts-finances-dies-94/"
   ],
   [
-    "loss",
+    "gaza",
     12,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.washingtonpost.com/politics/2026/08/18/jill-stein-green-party-candidate-faces-assault-charges-missouri/"
   ],
   [
-    "already",
+    "film",
     12,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "filter",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/aug/14/best-sleep-products-blackout-tent"
-  ],
-  [
-    "trial",
-    12,
-    "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
-  ],
-  [
-    "tech",
-    12,
-    "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
+    "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance"
   ],
   [
     "company",
@@ -311,19 +286,39 @@
     "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
   ],
   [
+    "students",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai"
+  ],
+  [
     "because",
     12,
     "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai"
   ],
   [
-    "remains",
+    "politics",
     12,
-    "https://www.theguardian.com/world/2026/aug/19/kim-jong-un-sister-doubt-trump-claims-secret-us-north-korea-talks"
+    "https://www.theguardian.com/us-news/2026/aug/19/angie-nixon-florida-democratic-socialist"
   ],
   [
     "body",
     12,
-    "https://www.theguardian.com/film/2026/aug/19/producer-christine-vachon-offensive-movies-kids-poison-swoon"
+    "https://www.theguardian.com/us-news/2026/aug/19/lake-mead-human-remains"
+  ],
+  [
+    "helicopter",
+    12,
+    "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash"
+  ],
+  [
+    "buying",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/aug/14/best-sleep-products-blackout-tent"
+  ],
+  [
+    "cbs",
+    12,
+    "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit"
   ],
   [
     "america",
@@ -331,29 +326,29 @@
     "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
   ],
   [
-    "government",
+    "star",
     11,
-    "https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html"
+    "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html"
   ],
   [
-    "economic",
+    "republican",
     11,
-    "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html"
+    "https://www.nytimes.com/2026/08/19/us/politics/trump-primary-election-republican-endorsements.html"
   ],
   [
-    "prince",
+    "voters",
     11,
-    "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html"
+    "https://www.nytimes.com/2026/08/19/us/politics/trump-primary-election-republican-endorsements.html"
   ],
   [
-    "return",
+    "administration",
     11,
-    "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html"
+    "https://www.nytimes.com/2026/08/19/us/politics/migrant-children-pentagon-lawyers.html"
   ],
   [
-    "trying",
+    "play",
     11,
-    "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html"
+    "https://www.nytimes.com/2026/08/19/arts/television/hayden-panettiere-dea-investigation-drugs.html"
   ],
   [
     "really",
@@ -361,9 +356,9 @@
     "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html"
   ],
   [
-    "kim",
+    "center",
     11,
-    "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html"
+    "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/"
   ],
   [
     "review",
@@ -371,8 +366,13 @@
     "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/"
   ],
   [
-    "facing",
+    "candidate",
     11,
     "https://www.washingtonpost.com/politics/2026/08/18/jill-stein-green-party-candidate-faces-assault-charges-missouri/"
+  ],
+  [
+    "already",
+    11,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ]
 ];
