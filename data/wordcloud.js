@@ -2,93 +2,78 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    85,
-    "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html"
+    82,
+    "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html"
   ],
   [
     "president",
-    38,
-    "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html"
+    32,
+    "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html"
   ],
   [
-    "family",
-    29,
-    "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html"
-  ],
-  [
-    "iran",
-    23,
-    "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html"
-  ],
-  [
-    "military",
-    21,
-    "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html"
-  ],
-  [
-    "california",
-    21,
-    "https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html"
-  ],
-  [
-    "country",
-    21,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "primary",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/aug/20/corporate-democrats-decline"
-  ],
-  [
-    "food",
-    20,
-    "https://www.theguardian.com/film/2026/aug/20/it-ends-horror-movie-review"
-  ],
-  [
-    "south",
-    19,
-    "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html"
-  ],
-  [
-    "korea",
-    19,
-    "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html"
-  ],
-  [
-    "war",
-    19,
-    "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
-  ],
-  [
-    "party",
-    19,
-    "https://www.nytimes.com/2026/08/19/us/politics/trump-primary-election-republican-endorsements.html"
-  ],
-  [
-    "death",
-    19,
-    "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html"
-  ],
-  [
-    "north",
-    19,
-    "https://www.nytimes.com/2026/08/20/arts/television/jimmy-fallon-trump-kim-jong-un.html"
+    "democratic",
+    26,
+    "https://www.nytimes.com/2026/08/20/us/politics/democrats-primary-election-moderates-progressives.html"
   ],
   [
     "police",
-    19,
-    "https://www.nytimes.com/2026/08/19/arts/television/hayden-panettiere-dea-investigation-drugs.html"
+    25,
+    "https://www.washingtonpost.com/nation/2026/08/19/la-prosecutor-backs-off-case-that-critics-said-could-deter-whistleblowers/"
+  ],
+  [
+    "death",
+    23,
+    "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html"
+  ],
+  [
+    "country",
+    22,
+    "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html"
+  ],
+  [
+    "iran",
+    21,
+    "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html"
+  ],
+  [
+    "political",
+    20,
+    "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html"
   ],
   [
     "summer",
-    19,
+    20,
     "https://www.theguardian.com/music/2026/aug/20/paul-simon-graceland-anniversary"
   ],
   [
-    "economic",
+    "california",
+    19,
+    "https://www.nytimes.com/2026/08/20/us/prince-harry-meghan-montecito-california-uk.html"
+  ],
+  [
+    "food",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/aug/20/the-guardian-view-on-trumps-mmr-executive-order-endangering-the-children-he-claims-to-care-about"
+  ],
+  [
+    "family",
     18,
-    "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html"
+    "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html"
+  ],
+  [
+    "fbi",
+    18,
+    "https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html"
+  ],
+  [
+    "eric",
+    18,
+    "https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html"
+  ],
+  [
+    "sexual",
+    17,
+    "https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html"
   ],
   [
     "democrats",
@@ -96,24 +81,39 @@
     "https://www.nytimes.com/2026/08/20/opinion/trump-maga-immigration-woke-democrats.html"
   ],
   [
-    "democratic",
+    "accused",
     17,
-    "https://www.theguardian.com/commentisfree/2026/aug/20/corporate-democrats-decline"
+    "https://www.washingtonpost.com/nation/2026/08/19/la-prosecutor-backs-off-case-that-critics-said-could-deter-whistleblowers/"
   ],
   [
-    "harry",
-    16,
-    "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html"
+    "children",
+    17,
+    "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans"
   ],
   [
-    "political",
+    "cbs",
+    17,
+    "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit"
+  ],
+  [
+    "data",
     16,
     "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/"
   ],
   [
-    "company",
+    "south",
+    16,
+    "https://www.theguardian.com/music/2026/aug/20/paul-simon-graceland-anniversary"
+  ],
+  [
+    "korea",
+    16,
+    "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills"
+  ],
+  [
+    "bond",
     15,
-    "https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html"
+    "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html"
   ],
   [
     "senate",
@@ -121,24 +121,49 @@
     "https://www.nytimes.com/2026/08/20/us/ken-paxton-montblanc-pen.html"
   ],
   [
-    "because",
+    "swalwell",
     15,
-    "https://www.theguardian.com/commentisfree/2026/aug/20/corporate-democrats-decline"
+    "https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html"
   ],
   [
-    "case",
+    "military",
     15,
-    "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "tech",
+    "north",
     15,
-    "https://www.theguardian.com/commentisfree/2026/aug/20/elon-musk-climate-crisis-spacex-kardashev-scale-energy-production"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "debt",
+    "body",
+    15,
+    "https://www.theguardian.com/fashion/ng-interactive/2026/aug/20/plus-size-clothes-glp-1"
+  ],
+  [
+    "administration",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/20/trump-oil-drilling-world-heritage-site-new-mexico"
+  ],
+  [
+    "media",
+    15,
+    "https://www.theguardian.com/uk-news/video/2026/aug/20/why-are-prince-harry-and-meghan-moving-back-to-the-uk-the-latest"
+  ],
+  [
+    "school",
+    15,
+    "https://www.theguardian.com/news/2026/aug/20/long-shadow-argentinas-dictatorship-she-was-not-who-she-thought-she-was-neither-was-her-father"
+  ],
+  [
+    "china",
     14,
-    "https://www.nytimes.com/2026/08/20/podcasts/the-headlines/us-debt-vaccine-skin-cancer.html"
+    "https://www.nytimes.com/2026/08/20/us/politics/scholar-china-wrongfully-detained.html"
+  ],
+  [
+    "york",
+    14,
+    "https://www.nytimes.com/2026/08/20/nyregion/hochul-mamdani-israel-new-york.html"
   ],
   [
     "led",
@@ -146,129 +171,164 @@
     "https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html"
   ],
   [
-    "questions",
-    14,
-    "https://www.nytimes.com/2026/08/19/us/politics/trump-primary-election-republican-endorsements.html"
-  ],
-  [
-    "school",
-    14,
-    "https://www.nytimes.com/2026/08/20/style/ai-data-centers-teens.html"
-  ],
-  [
-    "gaza",
+    "war",
     14,
     "https://www.washingtonpost.com/politics/2026/08/18/jill-stein-green-party-candidate-faces-assault-charges-missouri/"
   ],
   [
-    "trial",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/20/larry-david-alan-dershowitz-friendship-trump-epstein"
-  ],
-  [
-    "murder",
-    14,
-    "https://www.theguardian.com/film/2026/aug/20/it-ends-horror-movie-review"
-  ],
-  [
-    "night",
-    14,
-    "https://www.theguardian.com/film/2026/aug/20/it-ends-horror-movie-review"
-  ],
-  [
-    "game",
-    14,
-    "https://www.theguardian.com/sport/2026/aug/20/michele-tafoya-minnesota-us-senate-election"
-  ],
-  [
-    "sonic",
-    14,
-    "https://www.theguardian.com/games/2026/aug/18/sonic-the-hedgehog-at-35"
-  ],
-  [
-    "united",
-    13,
-    "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html"
-  ],
-  [
-    "media",
-    13,
-    "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html"
-  ],
-  [
-    "prince",
-    13,
-    "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html"
-  ],
-  [
-    "israel",
-    13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
     "sea",
-    13,
+    14,
     "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "season",
-    13,
-    "https://www.theguardian.com/environment/2026/aug/20/axis-deer-hawaii"
+    "primary",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/aug/20/corporate-democrats-decline"
   ],
   [
-    "industry",
+    "devices",
+    14,
+    "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates"
+  ],
+  [
+    "cut",
+    14,
+    "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans"
+  ],
+  [
+    "debt",
+    14,
+    "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans"
+  ],
+  [
+    "government",
     13,
-    "https://www.theguardian.com/environment/2026/aug/20/axis-deer-hawaii"
+    "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html"
+  ],
+  [
+    "having",
+    13,
+    "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html"
+  ],
+  [
+    "party",
+    13,
+    "https://www.nytimes.com/2026/08/20/us/politics/democrats-primary-election-moderates-progressives.html"
+  ],
+  [
+    "investigation",
+    13,
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+  ],
+  [
+    "latest",
+    13,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "team",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "album",
+    13,
+    "https://www.theguardian.com/music/2026/aug/20/weezer-rivers-cuomo-patrick-wilson-ceo"
+  ],
+  [
+    "because",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/20/corporate-democrats-decline"
+  ],
+  [
+    "style",
+    13,
+    "https://www.theguardian.com/music/2026/aug/20/paul-simon-graceland-anniversary"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/20/ninja-slushi-twist-review"
+  ],
+  [
+    "tech",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/20/elon-musk-climate-crisis-spacex-kardashev-scale-energy-production"
   ],
   [
     "film",
     13,
-    "https://www.theguardian.com/film/2026/aug/20/it-ends-horror-movie-review"
+    "https://www.theguardian.com/business/2026/aug/20/man-arrested-nord-stream-volodymyr-zhuravlev-consultant-film-sean-penn-snake-island"
   ],
   [
-    "lost",
+    "don",
     13,
-    "https://www.theguardian.com/film/2026/aug/20/it-ends-horror-movie-review"
+    "https://www.theguardian.com/us-news/2026/aug/19/us-firefighters-staffing-shortage"
   ],
   [
-    "league",
-    13,
-    "https://www.theguardian.com/football/2026/aug/20/mls-playoff-format-overhaul"
+    "market",
+    12,
+    "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html"
   ],
   [
-    "meghan",
+    "several",
+    12,
+    "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html"
+  ],
+  [
+    "harry",
     12,
     "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html"
   ],
   [
-    "working",
+    "sex",
     12,
-    "https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html"
+    "https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html"
   ],
   [
-    "center",
+    "authorities",
+    12,
+    "https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html"
+  ],
+  [
+    "matter",
+    12,
+    "https://www.nytimes.com/2026/08/20/opinion/trump-maga-immigration-woke-democrats.html"
+  ],
+  [
+    "review",
     12,
     "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/"
   ],
   [
-    "already",
+    "loss",
     12,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "early",
+    "single",
     12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/music/2026/aug/20/weezer-rivers-cuomo-patrick-wilson-ceo"
   ],
   [
-    "team",
+    "season",
     12,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/music/2026/aug/20/weezer-rivers-cuomo-patrick-wilson-ceo"
   ],
   [
-    "far",
+    "fewer",
     12,
-    "https://www.theguardian.com/music/2026/aug/20/paul-simon-graceland-anniversary"
+    "https://www.theguardian.com/music/2026/aug/20/weezer-rivers-cuomo-patrick-wilson-ceo"
+  ],
+  [
+    "industry",
+    12,
+    "https://www.theguardian.com/fashion/ng-interactive/2026/aug/20/plus-size-clothes-glp-1"
+  ],
+  [
+    "allegations",
+    12,
+    "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates"
   ],
   [
     "donald",
@@ -276,103 +336,43 @@
     "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
   ],
   [
-    "tested",
+    "security",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/aug/14/best-sleep-products-blackout-tent"
+    "https://www.theguardian.com/world/2026/aug/20/israel-ben-gvir-video-gallows-site-hanging-palestinians"
   ],
   [
-    "cbs",
+    "filter",
     12,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit"
+    "https://www.theguardian.com/thefilter-us/2026/aug/20/ninja-slushi-twist-review"
   ],
   [
-    "bond",
+    "game",
+    12,
+    "https://www.theguardian.com/sport/2026/aug/20/michele-tafoya-minnesota-us-senate-election"
+  ],
+  [
+    "oil",
     11,
     "https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html"
   ],
   [
-    "social",
+    "department",
     11,
-    "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html"
+    "https://www.nytimes.com/2026/08/20/us/politics/scholar-china-wrongfully-detained.html"
   ],
   [
-    "americans",
+    "horror",
     11,
-    "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html"
+    "https://www.nytimes.com/2026/08/20/magazine/tick-season-lone-star-alpha-gal-syndrome-lyme.html"
   ],
   [
-    "race",
+    "ice",
     11,
-    "https://www.nytimes.com/2026/08/20/us/ken-paxton-montblanc-pen.html"
+    "https://www.nytimes.com/2026/08/20/nyregion/hochul-mamdani-israel-new-york.html"
   ],
   [
-    "win",
+    "won",
     11,
-    "https://www.nytimes.com/2026/08/19/us/missouri-redistricting-midterms.html"
-  ],
-  [
-    "enough",
-    11,
-    "https://www.nytimes.com/2026/08/20/opinion/trump-maga-immigration-woke-democrats.html"
-  ],
-  [
-    "review",
-    11,
-    "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/"
-  ],
-  [
-    "fire",
-    11,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "florida",
-    11,
-    "https://www.theguardian.com/commentisfree/2026/aug/20/corporate-democrats-decline"
-  ],
-  [
-    "today",
-    11,
-    "https://www.theguardian.com/news/2026/aug/20/long-shadow-argentinas-dictatorship-she-was-not-who-she-thought-she-was-neither-was-her-father"
-  ],
-  [
-    "ahead",
-    11,
-    "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates"
-  ],
-  [
-    "killed",
-    11,
-    "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack"
-  ],
-  [
-    "career",
-    11,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/20/larry-david-alan-dershowitz-friendship-trump-epstein"
-  ],
-  [
-    "body",
-    11,
-    "https://www.theguardian.com/fashion/ng-interactive/2026/aug/20/plus-size-clothes-glp-1"
-  ],
-  [
-    "american",
-    11,
-    "https://www.theguardian.com/environment/2026/aug/20/biodiversity-gardens-wildlife-lawns-grass-ecosystems-native-plants-america-aoe"
-  ],
-  [
-    "band",
-    11,
-    "https://www.theguardian.com/music/2026/aug/20/lambchop-punching-the-clown-review"
-  ],
-  [
-    "don",
-    11,
-    "https://www.theguardian.com/us-news/2026/aug/19/us-firefighters-staffing-shortage"
-  ],
-  [
-    "filter",
-    11,
-    "https://www.theguardian.com/thefilter-us/2026/aug/14/best-sleep-products-blackout-tent"
+    "https://www.nytimes.com/2026/08/20/us/politics/democrats-primary-election-moderates-progressives.html"
   ]
 ];
