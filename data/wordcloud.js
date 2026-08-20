@@ -2,108 +2,103 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    110,
-    "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html"
+    89,
+    "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
   ],
   [
     "president",
-    54,
-    "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html"
-  ],
-  [
-    "democratic",
-    30,
-    "https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html"
-  ],
-  [
-    "primary",
-    26,
-    "https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html"
-  ],
-  [
-    "florida",
-    25,
-    "https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html"
-  ],
-  [
-    "latest",
-    25,
-    "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html"
-  ],
-  [
-    "north",
-    22,
-    "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html"
-  ],
-  [
-    "donald",
-    21,
-    "https://www.nytimes.com/2026/08/19/arts/music/judge-trump-name-kennedy-center.html"
-  ],
-  [
-    "don",
-    21,
-    "https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html"
+    46,
+    "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
   ],
   [
     "family",
+    25,
+    "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html"
+  ],
+  [
+    "police",
+    24,
+    "https://www.nytimes.com/2026/08/19/arts/television/hayden-panettiere-dea-investigation-drugs.html"
+  ],
+  [
+    "democratic",
+    23,
+    "https://www.theguardian.com/world/2026/aug/19/mykhailo-fedorov-zelenskyy-loyalist-opponent-ukraine"
+  ],
+  [
+    "latest",
+    22,
+    "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html"
+  ],
+  [
+    "primary",
     21,
-    "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed"
+    "https://www.theguardian.com/us-news/2026/aug/19/mike-lindell-recount-minnesota-primary"
   ],
   [
     "country",
     20,
-    "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "police",
-    20,
-    "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html"
-  ],
-  [
-    "early",
-    20,
-    "https://www.washingtonpost.com/nation/2026/08/17/most-americans-have-lived-with-romantic-partner-by-their-early-40s/"
-  ],
-  [
-    "senate",
+    "media",
     19,
-    "https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html"
-  ],
-  [
-    "campaign",
-    19,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "death",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/aug/19/rightwing-witch-hunt-jason-arday-legitimate-journalism"
+    "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
   ],
   [
     "game",
-    18,
+    19,
     "https://www.theguardian.com/sport/2026/aug/19/eddie-gaedel-bill-veeck-st-louis-browns-75th-anniversary"
   ],
   [
-    "south",
-    17,
-    "https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html"
+    "died",
+    18,
+    "https://www.nytimes.com/2026/08/19/arts/music/hayden-panettiere-death-what-to-know.html"
   ],
   [
-    "kim",
+    "california",
+    18,
+    "https://www.theguardian.com/us-news/2026/aug/19/reporters-held-gunpoint-california-space-force-base"
+  ],
+  [
+    "debt",
+    17,
+    "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
+  ],
+  [
+    "iran",
+    17,
+    "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
+  ],
+  [
+    "north",
     17,
     "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html"
   ],
   [
-    "film",
+    "children",
     17,
-    "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance"
+    "https://www.nytimes.com/2026/08/19/us/politics/migrant-children-pentagon-lawyers.html"
   ],
   [
-    "black",
+    "don",
     17,
-    "https://www.theguardian.com/commentisfree/2026/aug/19/rightwing-witch-hunt-jason-arday-legitimate-journalism"
+    "https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html"
+  ],
+  [
+    "political",
+    17,
+    "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/"
+  ],
+  [
+    "campaign",
+    17,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "florida",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/19/angie-nixon-florida-democratic-socialist"
   ],
   [
     "food",
@@ -111,54 +106,64 @@
     "https://www.theguardian.com/us-news/2026/aug/19/heidi-overton-fda-commissioner-nomination"
   ],
   [
-    "gaza",
+    "black",
     16,
-    "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html"
+    "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html"
   ],
   [
-    "election",
+    "death",
     16,
-    "https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html"
+    "https://www.nytimes.com/2026/08/19/arts/television/hayden-panettiere-dea-investigation-drugs.html"
   ],
   [
-    "american",
+    "center",
     16,
-    "https://www.washingtonpost.com/business/2026/08/18/fewer-american-adults-say-theyre-gambling/"
+    "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/"
   ],
   [
-    "california",
+    "early",
     16,
-    "https://www.theguardian.com/us-news/2026/aug/19/natalie-harp-trump-aide"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "team",
+    16,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "donald",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/19/us-debt-40-trillion"
+  ],
+  [
+    "senate",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/19/angie-nixon-florida-democratic-socialist"
+  ],
+  [
+    "lost",
+    15,
+    "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html"
   ],
   [
     "democrats",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/aug/19/poll-progressive-candidates-election-economy"
+    15,
+    "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html"
   ],
   [
-    "county",
+    "star",
     15,
-    "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html"
+    "https://www.nytimes.com/2026/08/19/arts/music/hayden-panettiere-death-what-to-know.html"
   ],
   [
-    "jong",
+    "york",
     15,
-    "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html"
+    "https://www.nytimes.com/2026/08/19/nyregion/mamdani-ny-city-council-lawsuit-teachers.html"
   ],
   [
-    "loss",
+    "film",
     15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "tested",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/aug/14/best-sleep-products-blackout-tent"
-  ],
-  [
-    "far",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/aug/19/rightwing-witch-hunt-jason-arday-legitimate-journalism"
+    "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance"
   ],
   [
     "social",
@@ -166,89 +171,49 @@
     "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
   ],
   [
-    "media",
-    15,
-    "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
+    "war",
+    14,
+    "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
   ],
   [
-    "overton",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/19/heidi-overton-fda-commissioner-nomination"
+    "department",
+    14,
+    "https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html"
   ],
   [
     "administration",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/19/heidi-overton-fda-commissioner-nomination"
-  ],
-  [
-    "sex",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/19/san-francisco-trans-landmark-ice"
-  ],
-  [
-    "international",
     14,
-    "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html"
+    "https://www.nytimes.com/2026/08/19/us/politics/migrant-children-pentagon-lawyers.html"
   ],
   [
-    "data",
+    "americans",
     14,
-    "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html"
+    "https://www.nytimes.com/2026/08/19/opinion/friendship-luxury-good.html"
   ],
   [
-    "really",
-    14,
-    "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html"
-  ],
-  [
-    "name",
-    14,
-    "https://www.nytimes.com/2026/08/19/arts/music/judge-trump-name-kennedy-center.html"
-  ],
-  [
-    "center",
-    14,
-    "https://www.nytimes.com/2026/08/19/arts/music/judge-trump-name-kennedy-center.html"
-  ],
-  [
-    "political",
-    14,
-    "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/"
-  ],
-  [
-    "war",
+    "gaza",
     14,
     "https://www.washingtonpost.com/politics/2026/08/18/jill-stein-green-party-candidate-faces-assault-charges-missouri/"
   ],
   [
-    "trial",
+    "name",
     14,
-    "https://www.washingtonpost.com/nation/2026/08/17/judge-delays-mangiones-state-trial-after-lawyers-sought-dismissal/"
+    "https://www.theguardian.com/world/2026/aug/19/mykhailo-fedorov-zelenskyy-loyalist-opponent-ukraine"
+  ],
+  [
+    "race",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/aug/19/rightwing-witch-hunt-jason-arday-legitimate-journalism"
+  ],
+  [
+    "killed",
+    14,
+    "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed"
   ],
   [
     "summer",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/19/us-firefighters-staffing-shortage"
-  ],
-  [
-    "tech",
-    14,
-    "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
-  ],
-  [
-    "heidi",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/19/heidi-overton-fda-commissioner-nomination"
-  ],
-  [
-    "republican",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/19/natalie-harp-trump-aide"
-  ],
-  [
-    "star",
-    14,
-    "https://www.theguardian.com/artanddesign/2026/aug/18/architect-paul-revere-williams-racism-los-angeles"
+    "https://www.theguardian.com/us-news/2026/aug/19/san-francisco-trans-landmark-ice"
   ],
   [
     "sonic",
@@ -256,44 +221,24 @@
     "https://www.theguardian.com/games/2026/aug/18/sonic-the-hedgehog-at-35"
   ],
   [
-    "iran",
+    "announced",
     13,
-    "https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html"
+    "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html"
   ],
   [
-    "military",
+    "investigation",
     13,
-    "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html"
+    "https://www.nytimes.com/2026/08/19/arts/television/hayden-panettiere-dea-investigation-drugs.html"
   ],
   [
-    "graham",
+    "released",
     13,
-    "https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html"
+    "https://www.nytimes.com/2026/08/19/arts/music/hayden-panettiere-death-what-to-know.html"
   ],
   [
-    "voters",
+    "tested",
     13,
-    "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html"
-  ],
-  [
-    "something",
-    13,
-    "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html"
-  ],
-  [
-    "korea",
-    13,
-    "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html"
-  ],
-  [
-    "case",
-    13,
-    "https://www.washingtonpost.com/nation/2026/08/19/la-prosecutor-backs-off-case-that-critics-said-could-deter-whistleblowers/"
-  ],
-  [
-    "team",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/thefilter-us/2026/aug/14/best-sleep-products-blackout-tent"
   ],
   [
     "buying",
@@ -301,54 +246,49 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/14/best-sleep-products-blackout-tent"
   ],
   [
-    "health",
+    "park",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/19/rightwing-witch-hunt-jason-arday-legitimate-journalism"
+    "https://www.theguardian.com/world/2026/aug/20/baby-shark-boy-geonroung-park-k-pop-wave"
   ],
   [
-    "sexual",
+    "cbs",
     13,
-    "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
+    "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit"
   ],
   [
-    "primaries",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/19/key-takeaways-primaries-florida-alaska-wyoming"
-  ],
-  [
-    "law",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/19/florida-governor-suspends-ally-child-sexual-abuse-charges"
-  ],
-  [
-    "socialist",
+    "working",
     12,
-    "https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html"
+    "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html"
   ],
   [
-    "elections",
+    "republican",
     12,
-    "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html"
+    "https://www.nytimes.com/2026/08/19/us/politics/trump-primary-election-republican-endorsements.html"
   ],
   [
-    "americans",
+    "party",
     12,
-    "https://www.nytimes.com/2026/08/19/opinion/friendship-luxury-good.html"
+    "https://www.nytimes.com/2026/08/19/us/politics/trump-primary-election-republican-endorsements.html"
   ],
   [
-    "los",
+    "something",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/19/la-prosecutor-backs-off-case-that-critics-said-could-deter-whistleblowers/"
+    "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html"
   ],
   [
-    "review",
-    12,
-    "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/"
-  ],
-  [
-    "post",
+    "guide",
     12,
     "https://www.washingtonpost.com/obituaries/2026/08/18/martin-cohen-who-helped-guide-posts-finances-dies-94/"
+  ],
+  [
+    "loss",
+    12,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "already",
+    12,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "filter",
@@ -356,23 +296,83 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/14/best-sleep-products-blackout-tent"
   ],
   [
-    "night",
+    "trial",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/aug/14/best-sleep-products-blackout-tent"
+    "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
   ],
   [
-    "race",
+    "tech",
     12,
-    "https://www.theguardian.com/commentisfree/2026/aug/19/rightwing-witch-hunt-jason-arday-legitimate-journalism"
-  ],
-  [
-    "america",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/19/rightwing-witch-hunt-jason-arday-legitimate-journalism"
+    "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
   ],
   [
     "company",
     12,
     "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony"
+  ],
+  [
+    "because",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai"
+  ],
+  [
+    "remains",
+    12,
+    "https://www.theguardian.com/world/2026/aug/19/kim-jong-un-sister-doubt-trump-claims-secret-us-north-korea-talks"
+  ],
+  [
+    "body",
+    12,
+    "https://www.theguardian.com/film/2026/aug/19/producer-christine-vachon-offensive-movies-kids-poison-swoon"
+  ],
+  [
+    "america",
+    11,
+    "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
+  ],
+  [
+    "government",
+    11,
+    "https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html"
+  ],
+  [
+    "economic",
+    11,
+    "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html"
+  ],
+  [
+    "prince",
+    11,
+    "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html"
+  ],
+  [
+    "return",
+    11,
+    "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html"
+  ],
+  [
+    "trying",
+    11,
+    "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html"
+  ],
+  [
+    "really",
+    11,
+    "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html"
+  ],
+  [
+    "kim",
+    11,
+    "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html"
+  ],
+  [
+    "review",
+    11,
+    "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/"
+  ],
+  [
+    "facing",
+    11,
+    "https://www.washingtonpost.com/politics/2026/08/18/jill-stein-green-party-candidate-faces-assault-charges-missouri/"
   ]
 ];
