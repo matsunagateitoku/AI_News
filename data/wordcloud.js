@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    81,
-    "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html"
+    88,
+    "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
   ],
   [
     "president",
-    41,
-    "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html"
+    44,
+    "https://www.nytimes.com/2026/08/20/us/politics/trump-radio-michael-cohen.html"
   ],
   [
-    "california",
-    38,
-    "https://www.nytimes.com/2026/08/20/us/politics/wahab-hernandez-california-special-election.html"
+    "political",
+    27,
+    "https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html"
   ],
   [
     "iran",
-    27,
+    24,
     "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html"
-  ],
-  [
-    "democratic",
-    26,
-    "https://www.nytimes.com/2026/08/20/us/politics/wahab-hernandez-california-special-election.html"
   ],
   [
     "country",
     24,
-    "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html"
+    "https://www.nytimes.com/2026/08/21/world/europe/giorgia-meloni-rare-interview-takeaways.html"
   ],
   [
-    "death",
-    24,
-    "https://www.nytimes.com/2026/08/20/science/a-14th-century-skeleton-had-injuries-that-looked-like-a-car-crash-what-killed-him.html"
-  ],
-  [
-    "election",
+    "cohen",
     22,
-    "https://www.nytimes.com/2026/08/20/us/politics/trump-2024-election-classified-files.html"
+    "https://www.nytimes.com/2026/08/20/us/politics/trump-radio-michael-cohen.html"
   ],
   [
-    "swalwell",
+    "film",
+    22,
+    "https://www.theguardian.com/film/2026/aug/21/the-odyssey-highest-grossing-r-rated-film-of-all-time"
+  ],
+  [
+    "california",
     21,
-    "https://www.nytimes.com/2026/08/20/us/politics/wahab-hernandez-california-special-election.html"
+    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
   ],
   [
-    "political",
-    21,
-    "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html"
-  ],
-  [
-    "police",
-    21,
-    "https://www.washingtonpost.com/nation/2026/08/19/la-prosecutor-backs-off-case-that-critics-said-could-deter-whistleblowers/"
-  ],
-  [
-    "war",
+    "economic",
     19,
     "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html"
   ],
   [
-    "eric",
+    "death",
     19,
-    "https://www.nytimes.com/2026/08/20/us/politics/wahab-hernandez-california-special-election.html"
+    "https://www.theguardian.com/sport/2026/aug/21/kai-spears-alabama-basketball-defamation-case-new-york-times"
   ],
   [
-    "film",
-    19,
-    "https://www.theguardian.com/film/2026/aug/21/it-is-the-riskiest-film-ive-ever-made-pedro-almodovar-on-being-the-villain-in-his-own-movie"
-  ],
-  [
-    "body",
-    19,
-    "https://www.theguardian.com/society/2026/aug/21/family-joy-as-boy-who-helped-legalise-cannabis-medicine-in-uk-turns-21"
-  ],
-  [
-    "center",
+    "war",
     18,
-    "https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-renovations"
+    "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html"
   ],
   [
-    "game",
+    "questions",
     18,
-    "https://www.theguardian.com/football/2026/aug/20/ronaldinho-46-serie-c-ravenna-unveiling-comeback"
+    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
   ],
   [
-    "video",
-    17,
-    "https://www.theguardian.com/sport/2026/aug/20/novak-djokovic-wolf-in-winter-documentary-jason-hehir-interview"
+    "art",
+    18,
+    "https://www.nytimes.com/2026/08/21/opinion/civil-war-novels.html"
   ],
   [
-    "loss",
-    16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "cohen",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/20/michael-cohen-trump-radio-interview"
-  ],
-  [
-    "debt",
-    16,
-    "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans"
-  ],
-  [
-    "administration",
-    16,
-    "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans"
+    "democratic",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/aug/20/corporate-democrats-decline"
   ],
   [
     "food",
+    18,
+    "https://www.theguardian.com/film/2026/aug/20/it-ends-horror-movie-review"
+  ],
+  [
+    "american",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/aug/21/icc-sanctions-trump-war-criminals"
+  ],
+  [
+    "college",
+    17,
+    "https://www.theguardian.com/sport/2026/aug/21/kai-spears-alabama-basketball-defamation-case-new-york-times"
+  ],
+  [
+    "game",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/aug/21/womens-football-ted-lasso-shouldnt-copy-mens-game"
+  ],
+  [
+    "michael",
     16,
-    "https://www.theguardian.com/commentisfree/2026/aug/20/the-guardian-view-on-trumps-mmr-executive-order-endangering-the-children-he-claims-to-care-about"
-  ],
-  [
-    "tech",
-    15,
-    "https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html"
-  ],
-  [
-    "special",
-    15,
-    "https://www.nytimes.com/2026/08/20/us/politics/wahab-hernandez-california-special-election.html"
-  ],
-  [
-    "night",
-    15,
-    "https://www.nytimes.com/2026/08/20/us/florida-california-election-ballots.html"
+    "https://www.nytimes.com/2026/08/20/us/politics/trump-radio-michael-cohen.html"
   ],
   [
     "family",
-    15,
-    "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html"
-  ],
-  [
-    "donald",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/20/michael-cohen-trump-radio-interview"
+    16,
+    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
   ],
   [
     "york",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/20/michael-cohen-trump-radio-interview"
+    16,
+    "https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html"
   ],
   [
-    "because",
-    15,
-    "https://www.theguardian.com/film/2026/aug/21/it-is-the-riskiest-film-ive-ever-made-pedro-almodovar-on-being-the-villain-in-his-own-movie"
+    "data",
+    16,
+    "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html"
   ],
   [
-    "children",
-    15,
-    "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans"
+    "star",
+    16,
+    "https://www.theguardian.com/sport/2026/aug/21/los-angeles-lakers-12-5bn-sale-bob-iger-josh-kushner-private-equity-nba"
   ],
   [
-    "race",
+    "loss",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/20/mcdonalds-congress-affordability-democrats"
-  ],
-  [
-    "wahab",
-    14,
-    "https://www.nytimes.com/2026/08/20/us/politics/wahab-hernandez-california-special-election.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "term",
-    14,
-    "https://www.nytimes.com/2026/08/20/us/politics/wahab-hernandez-california-special-election.html"
-  ],
-  [
-    "sexual",
-    14,
-    "https://www.nytimes.com/2026/08/20/us/politics/wahab-hernandez-california-special-election.html"
-  ],
-  [
-    "primary",
-    14,
-    "https://www.nytimes.com/2026/08/20/us/florida-california-election-ballots.html"
+    15,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "site",
-    14,
+    15,
     "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "summer",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/21/experience-fell-bouldering-smashed-pelvis"
+    "album",
+    15,
+    "https://www.theguardian.com/music/2026/aug/21/mike-d-diamond-beastie-buys-inteview-solo-album-thank-you"
   ],
   [
-    "album",
+    "fight",
     14,
-    "https://www.theguardian.com/music/2026/aug/20/weezer-rivers-cuomo-patrick-wilson-ceo"
+    "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
+  ],
+  [
+    "hard",
+    14,
+    "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
+  ],
+  [
+    "office",
+    14,
+    "https://www.nytimes.com/2026/08/21/world/europe/orbans-office-thrown-open-is-not-the-den-hungarians-expected.html"
   ],
   [
     "review",
     14,
-    "https://www.theguardian.com/film/2026/aug/21/spa-weekend-review-comedy"
-  ],
-  [
-    "senate",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/aug/20/corporate-democrats-decline"
-  ],
-  [
-    "love",
-    14,
-    "https://www.theguardian.com/football/2026/aug/20/ronaldinho-46-serie-c-ravenna-unveiling-comeback"
-  ],
-  [
-    "having",
-    13,
-    "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html"
-  ],
-  [
-    "government",
-    13,
-    "https://www.nytimes.com/2026/08/21/world/europe/orbans-office-thrown-open-is-not-the-den-hungarians-expected.html"
+    "https://www.nytimes.com/2026/08/21/books/review/life-of-m-rachel-cusk.html"
   ],
   [
     "military",
-    13,
+    14,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "questions",
-    13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "team",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "latest",
+    "donald",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/aug/21/icc-sanctions-trump-war-criminals"
+  ],
+  [
+    "football",
+    14,
+    "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off"
+  ],
+  [
+    "politics",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/21/midterms-trump-election-monitors"
+  ],
+  [
+    "aircraft",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/21/charter-plane-crash-alaska-deaths"
+  ],
+  [
+    "filter",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/aug/21/best-dorm-room-essentials-college"
+  ],
+  [
+    "buying",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/aug/21/best-dorm-room-essentials-college"
+  ],
+  [
+    "name",
+    14,
+    "https://www.theguardian.com/sport/2026/aug/21/teofimo-lopez-rolly-romero-fight-preview-wba-welterweight-title"
+  ],
+  [
+    "interview",
     13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.nytimes.com/2026/08/20/us/politics/trump-radio-michael-cohen.html"
+  ],
+  [
+    "return",
+    13,
+    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
+  ],
+  [
+    "school",
+    13,
+    "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees"
+  ],
+  [
+    "summer",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/21/when-tv-turns-sour-the-shows-we-simply-cannot-stomach-any-more"
   ],
   [
     "season",
     13,
-    "https://www.theguardian.com/music/2026/aug/20/weezer-rivers-cuomo-patrick-wilson-ceo"
+    "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off"
   ],
   [
-    "data",
-    13,
-    "https://www.theguardian.com/music/2026/aug/20/weezer-rivers-cuomo-patrick-wilson-ceo"
-  ],
-  [
-    "dead",
-    13,
-    "https://www.theguardian.com/music/2026/aug/20/tupac-trial-keffe-davis-shooting"
-  ],
-  [
-    "weekend",
-    13,
-    "https://www.theguardian.com/film/2026/aug/21/spa-weekend-review-comedy"
-  ],
-  [
-    "filter",
-    13,
-    "https://www.theguardian.com/film/2026/aug/21/spa-weekend-review-comedy"
-  ],
-  [
-    "league",
+    "really",
     13,
     "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off"
   ],
   [
-    "plane",
+    "alaska",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/19/freefall-a-reckoning-for-boeing-review-like-a-horror-movie-movie"
+    "https://www.theguardian.com/us-news/2026/aug/21/charter-plane-crash-alaska-deaths"
   ],
   [
-    "rep",
+    "black",
     13,
-    "https://www.latimes.com/california/story/2026-08-20/aisha-wahab-wins-election-to-complete-former-rep-eric-swalwells-term"
-  ],
-  [
-    "san",
-    12,
-    "https://www.nytimes.com/2026/08/20/us/politics/uss-abraham-lincoln-iran.html"
-  ],
-  [
-    "led",
-    12,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "early",
-    12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "past",
-    12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live"
   ],
   [
     "fewer",
-    12,
-    "https://www.theguardian.com/music/2026/aug/20/weezer-rivers-cuomo-patrick-wilson-ceo"
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/21/best-dorm-room-essentials-college"
   ],
   [
-    "outside",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement"
+    "senate",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/20/corporate-democrats-decline"
   ],
   [
-    "system",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling"
+    "primary",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/20/corporate-democrats-decline"
   ],
   [
-    "fashion",
-    12,
-    "https://www.theguardian.com/fashion/2026/aug/20/if-im-spending-that-kind-of-money-the-shoe-has-to-do-everything-the-backlash-to-the-three-figure-trainer"
+    "race",
+    13,
+    "https://www.theguardian.com/sport/2026/aug/21/tadej-pogacar-looks-unstoppable-as-he-sets-sights-on-another-slice-of-history-at-vuelta-a-espana"
   ],
   [
-    "don",
+    "harry",
     12,
-    "https://www.theguardian.com/fashion/2026/aug/20/if-im-spending-that-kind-of-money-the-shoe-has-to-do-everything-the-backlash-to-the-three-figure-trainer"
+    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
   ],
   [
-    "buying",
+    "history",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/aug/20/ninja-slushi-twist-review"
+    "https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html"
   ],
   [
-    "really",
+    "campaign",
     12,
-    "https://www.theguardian.com/music/2026/aug/20/amy-lee-of-evanescence-i-could-happily-do-an-entire-album-of-nothing-but-portishead-covers"
+    "https://www.nytimes.com/2026/08/21/nyregion/ny-ramos-campaign-expense-charges.html"
   ],
   [
-    "hayden",
+    "several",
     12,
-    "https://www.latimes.com/entertainment-arts/story/2026-08-20/hayden-panettiere-death-ex-brian-hickerson-history-of-abuse"
+    "https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html"
   ],
   [
-    "middle",
+    "tech",
+    12,
+    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
+  ],
+  [
+    "young",
+    12,
+    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
+  ],
+  [
+    "america",
+    12,
+    "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees"
+  ],
+  [
+    "love",
+    12,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/21/when-tv-turns-sour-the-shows-we-simply-cannot-stomach-any-more"
+  ],
+  [
+    "almost",
+    12,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/21/when-tv-turns-sour-the-shows-we-simply-cannot-stomach-any-more"
+  ],
+  [
+    "something",
+    12,
+    "https://www.theguardian.com/music/2026/aug/21/add-to-playlist-jawdropped"
+  ],
+  [
+    "music",
+    12,
+    "https://www.theguardian.com/music/2026/aug/21/add-to-playlist-jawdropped"
+  ],
+  [
+    "weekend",
+    12,
+    "https://www.theguardian.com/football/live/2026/aug/21/premier-league-returns-with-arsenal-v-coventry-transfer-news-and-more-football-live"
+  ],
+  [
+    "government",
     11,
-    "https://www.nytimes.com/2026/08/20/us/politics/uss-abraham-lincoln-iran.html"
+    "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
   ],
   [
-    "sea",
+    "radio",
     11,
-    "https://www.nytimes.com/2026/08/20/us/politics/uss-abraham-lincoln-iran.html"
+    "https://www.nytimes.com/2026/08/20/us/politics/trump-radio-michael-cohen.html"
   ],
   [
-    "aircraft",
+    "personal",
     11,
-    "https://www.nytimes.com/2026/08/20/us/politics/uss-abraham-lincoln-iran.html"
+    "https://www.nytimes.com/2026/08/20/us/politics/trump-radio-michael-cohen.html"
   ],
   [
-    "south",
+    "sanctions",
     11,
-    "https://www.nytimes.com/2026/08/20/us/politics/darline-graham-debate-south-carolina.html"
+    "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html"
   ],
   [
-    "horror",
+    "far",
     11,
-    "https://www.nytimes.com/2026/08/20/magazine/tick-season-lone-star-alpha-gal-syndrome-lyme.html"
+    "https://www.nytimes.com/2026/08/21/business/dealbook/bessent-bonds-tool-kit.html"
   ],
   [
-    "mask",
+    "working",
     11,
-    "https://www.nytimes.com/2026/08/20/us/chucky-doll-mask-kick-philadelphia.html"
+    "https://www.nytimes.com/2026/08/21/business/dealbook/bessent-bonds-tool-kit.html"
   ],
   [
-    "inside",
+    "building",
     11,
-    "https://www.nytimes.com/2026/08/20/science/a-14th-century-skeleton-had-injuries-that-looked-like-a-car-crash-what-killed-him.html"
+    "https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html"
   ],
   [
     "attack",
     11,
-    "https://www.washingtonpost.com/nation/2026/08/20/fight-over-airport-washing-stations-is-latest-anti-muslim-salvo-gop/"
+    "https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html"
+  ],
+  [
+    "career",
+    11,
+    "https://www.nytimes.com/2026/08/21/books/review/life-of-m-rachel-cusk.html"
+  ],
+  [
+    "system",
+    11,
+    "https://www.nytimes.com/2026/08/21/opinion/civil-war-novels.html"
+  ],
+  [
+    "video",
+    11,
+    "https://www.washingtonpost.com/investigations/2026/08/21/inside-police-investigation-how-rep-max-millers-daughter-got-hurt/"
   ]
 ];
