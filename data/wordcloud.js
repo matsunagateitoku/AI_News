@@ -2,188 +2,193 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    88,
-    "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
+    100,
+    "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html"
   ],
   [
     "president",
-    44,
-    "https://www.nytimes.com/2026/08/20/us/politics/trump-radio-michael-cohen.html"
+    39,
+    "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html"
+  ],
+  [
+    "court",
+    33,
+    "https://www.nytimes.com/2026/08/21/nyregion/mamdani-second-home-tax-rollout.html"
+  ],
+  [
+    "food",
+    21,
+    "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html"
   ],
   [
     "political",
-    27,
+    21,
     "https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html"
   ],
   [
-    "iran",
-    24,
-    "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html"
+    "death",
+    21,
+    "https://www.theguardian.com/sport/2026/aug/21/kai-spears-alabama-basketball-defamation-case-new-york-times"
+  ],
+  [
+    "series",
+    19,
+    "https://www.theguardian.com/society/2026/aug/21/jon-ronson-chris-mark-mysterious-connecticut-castle-masculinity-crisis"
   ],
   [
     "country",
-    24,
-    "https://www.nytimes.com/2026/08/21/world/europe/giorgia-meloni-rare-interview-takeaways.html"
-  ],
-  [
-    "cohen",
-    22,
-    "https://www.nytimes.com/2026/08/20/us/politics/trump-radio-michael-cohen.html"
-  ],
-  [
-    "film",
-    22,
-    "https://www.theguardian.com/film/2026/aug/21/the-odyssey-highest-grossing-r-rated-film-of-all-time"
-  ],
-  [
-    "california",
-    21,
-    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
-  ],
-  [
-    "economic",
-    19,
-    "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html"
-  ],
-  [
-    "death",
-    19,
-    "https://www.theguardian.com/sport/2026/aug/21/kai-spears-alabama-basketball-defamation-case-new-york-times"
+    18,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "war",
     18,
-    "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html"
-  ],
-  [
-    "questions",
-    18,
-    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
-  ],
-  [
-    "art",
-    18,
-    "https://www.nytimes.com/2026/08/21/opinion/civil-war-novels.html"
-  ],
-  [
-    "democratic",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/aug/20/corporate-democrats-decline"
-  ],
-  [
-    "food",
-    18,
-    "https://www.theguardian.com/film/2026/aug/20/it-ends-horror-movie-review"
-  ],
-  [
-    "american",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/aug/21/icc-sanctions-trump-war-criminals"
-  ],
-  [
-    "college",
-    17,
-    "https://www.theguardian.com/sport/2026/aug/21/kai-spears-alabama-basketball-defamation-case-new-york-times"
-  ],
-  [
-    "game",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/aug/21/womens-football-ted-lasso-shouldnt-copy-mens-game"
-  ],
-  [
-    "michael",
-    16,
-    "https://www.nytimes.com/2026/08/20/us/politics/trump-radio-michael-cohen.html"
-  ],
-  [
-    "family",
-    16,
-    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
-  ],
-  [
-    "york",
-    16,
-    "https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html"
-  ],
-  [
-    "data",
-    16,
-    "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html"
-  ],
-  [
-    "star",
-    16,
-    "https://www.theguardian.com/sport/2026/aug/21/los-angeles-lakers-12-5bn-sale-bob-iger-josh-kushner-private-equity-nba"
-  ],
-  [
-    "loss",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "term",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "site",
-    15,
     "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "album",
-    15,
-    "https://www.theguardian.com/music/2026/aug/21/mike-d-diamond-beastie-buys-inteview-solo-album-thank-you"
+    "legal",
+    17,
+    "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html"
   ],
   [
-    "fight",
-    14,
-    "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
-  ],
-  [
-    "hard",
-    14,
-    "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
-  ],
-  [
-    "office",
-    14,
-    "https://www.nytimes.com/2026/08/21/world/europe/orbans-office-thrown-open-is-not-the-den-hungarians-expected.html"
-  ],
-  [
-    "review",
-    14,
-    "https://www.nytimes.com/2026/08/21/books/review/life-of-m-rachel-cusk.html"
-  ],
-  [
-    "military",
-    14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "family",
+    17,
+    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
   ],
   [
     "team",
-    14,
+    17,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "donald",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/aug/21/icc-sanctions-trump-war-criminals"
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/21/navy-carrier-black-war-hero-trump-report"
   ],
   [
-    "football",
-    14,
-    "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off"
+    "supreme",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/21/white-house-ballroom-construction-scotus"
   ],
   [
-    "politics",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/21/midterms-trump-election-monitors"
+    "ballroom",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/21/white-house-ballroom-construction-scotus"
   ],
   [
-    "aircraft",
+    "art",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/aug/21/the-guardian-view-on-the-export-of-fossils-they-deserve-national-treasure-status"
+  ],
+  [
+    "harry",
+    16,
+    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
+  ],
+  [
+    "questions",
+    16,
+    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
+  ],
+  [
+    "case",
+    16,
+    "https://www.nytimes.com/2026/08/21/nyregion/nyc-mamdani-rent-freeze-courts.html"
+  ],
+  [
+    "california",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/aug/21/harry-meghan-return-to-britain-theories-california"
+  ],
+  [
+    "body",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/21/best-baby-products-toiletries-for-adults"
+  ],
+  [
+    "race",
+    16,
+    "https://www.theguardian.com/sport/2026/aug/21/contenders-primed-to-chase-down-antonelli-as-f1-season-resumes"
+  ],
+  [
+    "american",
+    15,
+    "https://www.nytimes.com/2026/08/21/us/politics/uzbekistan-gazebos-trump.html"
+  ],
+  [
+    "construction",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/21/navy-carrier-black-war-hero-trump-report"
+  ],
+  [
+    "college",
+    15,
+    "https://www.theguardian.com/sport/2026/aug/21/kai-spears-alabama-basketball-defamation-case-new-york-times"
+  ],
+  [
+    "game",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/aug/21/womens-football-ted-lasso-shouldnt-copy-mens-game"
+  ],
+  [
+    "film",
+    15,
+    "https://www.theguardian.com/film/2026/aug/21/the-odyssey-highest-grossing-r-rated-film-of-all-time"
+  ],
+  [
+    "beef",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/21/charter-plane-crash-alaska-deaths"
+    "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html"
+  ],
+  [
+    "return",
+    14,
+    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
+  ],
+  [
+    "iran",
+    14,
+    "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html"
+  ],
+  [
+    "economic",
+    14,
+    "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html"
+  ],
+  [
+    "loss",
+    14,
+    "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html"
+  ],
+  [
+    "decision",
+    14,
+    "https://www.nytimes.com/2026/08/21/nyregion/nyc-mamdani-rent-freeze-courts.html"
+  ],
+  [
+    "administration",
+    14,
+    "https://www.nytimes.com/2026/08/21/us/politics/online-gun-sales-trump.html"
+  ],
+  [
+    "media",
+    14,
+    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
+  ],
+  [
+    "young",
+    14,
+    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
+  ],
+  [
+    "summer",
+    14,
+    "https://www.theguardian.com/society/2026/aug/21/jon-ronson-chris-mark-mysterious-connecticut-castle-masculinity-crisis"
+  ],
+  [
+    "carolina",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/21/neutrogena-hayden-panettiere-statement"
   ],
   [
     "filter",
@@ -196,49 +201,79 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/21/best-dorm-room-essentials-college"
   ],
   [
-    "name",
+    "love",
     14,
-    "https://www.theguardian.com/sport/2026/aug/21/teofimo-lopez-rolly-romero-fight-preview-wba-welterweight-title"
-  ],
-  [
-    "interview",
-    13,
-    "https://www.nytimes.com/2026/08/20/us/politics/trump-radio-michael-cohen.html"
-  ],
-  [
-    "return",
-    13,
-    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
-  ],
-  [
-    "school",
-    13,
-    "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees"
-  ],
-  [
-    "summer",
-    13,
     "https://www.theguardian.com/tv-and-radio/2026/aug/21/when-tv-turns-sour-the-shows-we-simply-cannot-stomach-any-more"
+  ],
+  [
+    "latest",
+    13,
+    "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html"
+  ],
+  [
+    "hard",
+    13,
+    "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
+  ],
+  [
+    "prices",
+    13,
+    "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html"
+  ],
+  [
+    "york",
+    13,
+    "https://www.nytimes.com/2026/08/21/nyregion/mamdani-second-home-tax-rollout.html"
+  ],
+  [
+    "campaign",
+    13,
+    "https://www.nytimes.com/2026/08/21/nyregion/ny-ramos-campaign-expense-charges.html"
+  ],
+  [
+    "far",
+    13,
+    "https://www.washingtonpost.com/politics/2026/08/21/democrats-remain-far-behind-gop-cash-hand-midterms-near/"
+  ],
+  [
+    "democratic",
+    13,
+    "https://www.washingtonpost.com/politics/2026/08/21/democrats-remain-far-behind-gop-cash-hand-midterms-near/"
+  ],
+  [
+    "police",
+    13,
+    "https://www.washingtonpost.com/investigations/2026/08/21/inside-police-investigation-how-rep-max-millers-daughter-got-hurt/"
+  ],
+  [
+    "ice",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "trump's",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "something",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/21/harry-meghan-return-to-britain-theories-california"
   ],
   [
     "season",
     13,
-    "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/21/dont-overdo-botox-stop-referring-to-yourself-as-old-extend-your-hotspan"
   ],
   [
-    "really",
+    "dead",
     13,
-    "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off"
+    "https://www.theguardian.com/tv-and-radio/2026/aug/21/neutrogena-hayden-panettiere-statement"
   ],
   [
-    "alaska",
+    "name",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/21/charter-plane-crash-alaska-deaths"
-  ],
-  [
-    "black",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live"
+    "https://www.theguardian.com/tv-and-radio/2026/aug/21/meghan-duchess-of-sussex-guy-ritchie-the-gentlemen"
   ],
   [
     "fewer",
@@ -246,79 +281,89 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/21/best-dorm-room-essentials-college"
   ],
   [
+    "weekend",
+    13,
+    "https://www.theguardian.com/sport/2026/aug/21/contenders-primed-to-chase-down-antonelli-as-f1-season-resumes"
+  ],
+  [
+    "album",
+    13,
+    "https://www.theguardian.com/music/2026/aug/21/mike-d-diamond-beastie-buys-inteview-solo-album-thank-you"
+  ],
+  [
+    "voters",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/20/mcdonalds-congress-affordability-democrats"
+  ],
+  [
     "senate",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/20/corporate-democrats-decline"
+    "https://www.foxnews.com/politics/top-5-most-heated-moments-progressives-spar-over-who-farther-left-final-dem-senate-debate"
   ],
   [
-    "primary",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/aug/20/corporate-democrats-decline"
-  ],
-  [
-    "race",
-    13,
-    "https://www.theguardian.com/sport/2026/aug/21/tadej-pogacar-looks-unstoppable-as-he-sets-sights-on-another-slice-of-history-at-vuelta-a-espana"
-  ],
-  [
-    "harry",
+    "fight",
     12,
-    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
+    "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
   ],
   [
-    "history",
+    "university",
     12,
-    "https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html"
+    "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
   ],
   [
-    "campaign",
+    "states",
     12,
-    "https://www.nytimes.com/2026/08/21/nyregion/ny-ramos-campaign-expense-charges.html"
+    "https://www.nytimes.com/2026/08/21/business/shein-ipo-questions.html"
+  ],
+  [
+    "star",
+    12,
+    "https://www.nytimes.com/2026/08/21/arts/television/richard-gadd-emmys-half-man.html"
+  ],
+  [
+    "water",
+    12,
+    "https://www.washingtonpost.com/nation/2026/08/21/government-will-cut-water-ariz-calif-nevada-colorado-river-runs-low/"
+  ],
+  [
+    "social",
+    12,
+    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
+  ],
+  [
+    "released",
+    12,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "several",
     12,
-    "https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "tech",
+    "don",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/21/dont-overdo-botox-stop-referring-to-yourself-as-old-extend-your-hotspan"
   ],
   [
-    "young",
+    "review",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
+    "https://www.theguardian.com/us-news/2026/aug/21/dhs-confirm-nevada-voter-numbers"
   ],
   [
-    "america",
+    "children",
     12,
-    "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/21/best-baby-products-toiletries-for-adults"
   ],
   [
-    "love",
+    "different",
     12,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/21/when-tv-turns-sour-the-shows-we-simply-cannot-stomach-any-more"
-  ],
-  [
-    "almost",
-    12,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/21/when-tv-turns-sour-the-shows-we-simply-cannot-stomach-any-more"
-  ],
-  [
-    "something",
-    12,
-    "https://www.theguardian.com/music/2026/aug/21/add-to-playlist-jawdropped"
+    "https://www.theguardian.com/commentisfree/2026/aug/21/womens-football-ted-lasso-shouldnt-copy-mens-game"
   ],
   [
     "music",
     12,
-    "https://www.theguardian.com/music/2026/aug/21/add-to-playlist-jawdropped"
-  ],
-  [
-    "weekend",
-    12,
-    "https://www.theguardian.com/football/live/2026/aug/21/premier-league-returns-with-arsenal-v-coventry-transfer-news-and-more-football-live"
+    "https://www.theguardian.com/music/2026/aug/21/mike-d-diamond-beastie-buys-inteview-solo-album-thank-you"
   ],
   [
     "government",
@@ -326,53 +371,8 @@
     "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
   ],
   [
-    "radio",
+    "lower",
     11,
-    "https://www.nytimes.com/2026/08/20/us/politics/trump-radio-michael-cohen.html"
-  ],
-  [
-    "personal",
-    11,
-    "https://www.nytimes.com/2026/08/20/us/politics/trump-radio-michael-cohen.html"
-  ],
-  [
-    "sanctions",
-    11,
-    "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html"
-  ],
-  [
-    "far",
-    11,
-    "https://www.nytimes.com/2026/08/21/business/dealbook/bessent-bonds-tool-kit.html"
-  ],
-  [
-    "working",
-    11,
-    "https://www.nytimes.com/2026/08/21/business/dealbook/bessent-bonds-tool-kit.html"
-  ],
-  [
-    "building",
-    11,
-    "https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html"
-  ],
-  [
-    "attack",
-    11,
-    "https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html"
-  ],
-  [
-    "career",
-    11,
-    "https://www.nytimes.com/2026/08/21/books/review/life-of-m-rachel-cusk.html"
-  ],
-  [
-    "system",
-    11,
-    "https://www.nytimes.com/2026/08/21/opinion/civil-war-novels.html"
-  ],
-  [
-    "video",
-    11,
-    "https://www.washingtonpost.com/investigations/2026/08/21/inside-police-investigation-how-rep-max-millers-daughter-got-hurt/"
+    "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html"
   ]
 ];
