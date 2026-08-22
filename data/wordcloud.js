@@ -2,48 +2,83 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    100,
+    117,
     "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html"
   ],
   [
     "president",
-    39,
+    49,
     "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html"
   ],
   [
+    "country",
+    25,
+    "https://www.nytimes.com/2026/08/21/world/africa/us-deportees-liberia-equatorial-guinea.html"
+  ],
+  [
+    "administration",
+    24,
+    "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html"
+  ],
+  [
     "court",
-    33,
-    "https://www.nytimes.com/2026/08/21/nyregion/mamdani-second-home-tax-rollout.html"
+    24,
+    "https://www.theguardian.com/us-news/2026/aug/21/alex-jones-texas-court-sandy-hook-school-shooting-hoax"
   ],
   [
-    "food",
-    21,
-    "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html"
+    "children",
+    22,
+    "https://www.nytimes.com/2026/08/21/us/politics/newsom-trump-accounts.html"
   ],
   [
-    "political",
-    21,
-    "https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html"
+    "department",
+    22,
+    "https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html"
+  ],
+  [
+    "campaign",
+    20,
+    "https://www.nytimes.com/2026/08/21/nyregion/kean-campaign-johnson.html"
+  ],
+  [
+    "donald",
+    20,
+    "https://www.theguardian.com/us-news/2026/aug/21/dhs-confirm-nevada-voter-numbers"
+  ],
+  [
+    "graham",
+    20,
+    "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory"
+  ],
+  [
+    "film",
+    20,
+    "https://www.theguardian.com/film/2026/aug/21/avengers-doomsday-robert-downey-jr-tony-stark-david-harbour-marvel"
   ],
   [
     "death",
-    21,
-    "https://www.theguardian.com/sport/2026/aug/21/kai-spears-alabama-basketball-defamation-case-new-york-times"
+    20,
+    "https://www.theguardian.com/sport/2026/aug/21/los-angeles-lakers-12-5bn-sale-bob-iger-josh-kushner-private-equity-nba"
   ],
   [
-    "series",
+    "food",
     19,
-    "https://www.theguardian.com/society/2026/aug/21/jon-ronson-chris-mark-mysterious-connecticut-castle-masculinity-crisis"
+    "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage"
   ],
   [
-    "country",
+    "american",
     18,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/08/21/us/politics/midterm-primaries-south-carolina-wisconsin-michigan.html"
   ],
   [
-    "war",
+    "support",
     18,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "https://www.theguardian.com/commentisfree/2026/aug/21/harry-meghan-return-to-britain-theories-california"
+  ],
+  [
+    "body",
+    18,
+    "https://www.theguardian.com/us-news/2026/aug/21/trump-administration-united-nations-payment"
   ],
   [
     "legal",
@@ -51,144 +86,124 @@
     "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html"
   ],
   [
-    "family",
+    "police",
     17,
-    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
+    "https://www.nytimes.com/2026/08/21/nyregion/kean-campaign-johnson.html"
   ],
   [
-    "team",
+    "south",
     17,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/08/21/world/americas/rare-south-american-diseases-climate-change-pandemics.html"
   ],
   [
-    "donald",
+    "don",
     17,
-    "https://www.theguardian.com/us-news/2026/aug/21/navy-carrier-black-war-hero-trump-report"
+    "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory"
   ],
   [
-    "supreme",
+    "york",
     17,
-    "https://www.theguardian.com/us-news/2026/aug/21/white-house-ballroom-construction-scotus"
+    "https://www.theguardian.com/us-news/2026/aug/21/tornado-new-york-long-island-delaware"
   ],
   [
-    "ballroom",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/21/white-house-ballroom-construction-scotus"
+    "political",
+    16,
+    "https://www.nytimes.com/2026/08/21/us/politics/midterm-primaries-south-carolina-wisconsin-michigan.html"
   ],
   [
     "art",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/aug/21/the-guardian-view-on-the-export-of-fossils-they-deserve-national-treasure-status"
-  ],
-  [
-    "harry",
     16,
-    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
-  ],
-  [
-    "questions",
-    16,
-    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
-  ],
-  [
-    "case",
-    16,
-    "https://www.nytimes.com/2026/08/21/nyregion/nyc-mamdani-rent-freeze-courts.html"
-  ],
-  [
-    "california",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/aug/21/harry-meghan-return-to-britain-theories-california"
-  ],
-  [
-    "body",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/21/best-baby-products-toiletries-for-adults"
-  ],
-  [
-    "race",
-    16,
-    "https://www.theguardian.com/sport/2026/aug/21/contenders-primed-to-chase-down-antonelli-as-f1-season-resumes"
-  ],
-  [
-    "american",
-    15,
-    "https://www.nytimes.com/2026/08/21/us/politics/uzbekistan-gazebos-trump.html"
-  ],
-  [
-    "construction",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/21/navy-carrier-black-war-hero-trump-report"
+    "https://www.nytimes.com/2026/08/21/opinion/civil-war-novels.html"
   ],
   [
     "college",
-    15,
-    "https://www.theguardian.com/sport/2026/aug/21/kai-spears-alabama-basketball-defamation-case-new-york-times"
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/aug/21/best-dorm-room-essentials-college"
   ],
   [
-    "game",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/aug/21/womens-football-ted-lasso-shouldnt-copy-mens-game"
+    "buying",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/aug/21/best-dorm-room-essentials-college"
   ],
   [
-    "film",
-    15,
-    "https://www.theguardian.com/film/2026/aug/21/the-odyssey-highest-grossing-r-rated-film-of-all-time"
-  ],
-  [
-    "beef",
-    14,
-    "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html"
-  ],
-  [
-    "return",
-    14,
-    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
-  ],
-  [
-    "iran",
-    14,
-    "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html"
-  ],
-  [
-    "economic",
-    14,
-    "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html"
-  ],
-  [
-    "loss",
-    14,
-    "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html"
-  ],
-  [
-    "decision",
-    14,
-    "https://www.nytimes.com/2026/08/21/nyregion/nyc-mamdani-rent-freeze-courts.html"
-  ],
-  [
-    "administration",
-    14,
-    "https://www.nytimes.com/2026/08/21/us/politics/online-gun-sales-trump.html"
-  ],
-  [
-    "media",
-    14,
-    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
-  ],
-  [
-    "young",
-    14,
-    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
-  ],
-  [
-    "summer",
-    14,
+    "series",
+    16,
     "https://www.theguardian.com/society/2026/aug/21/jon-ronson-chris-mark-mysterious-connecticut-castle-masculinity-crisis"
   ],
   [
-    "carolina",
+    "darline",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory"
+  ],
+  [
+    "latest",
+    15,
+    "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html"
+  ],
+  [
+    "justice",
+    15,
+    "https://www.nytimes.com/2026/08/21/briefing/supreme-court-ballroom-ai-china.html"
+  ],
+  [
+    "million",
+    15,
+    "https://www.nytimes.com/2026/08/21/world/europe/prince-harry-daily-mail-publisher-pay.html"
+  ],
+  [
+    "media",
+    15,
+    "https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html"
+  ],
+  [
+    "war",
+    15,
+    "https://www.nytimes.com/2026/08/21/opinion/civil-war-novels.html"
+  ],
+  [
+    "experts",
+    15,
+    "https://www.washingtonpost.com/nation/2026/08/20/fight-over-airport-washing-stations-is-latest-anti-muslim-salvo-gop/"
+  ],
+  [
+    "questions",
+    15,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "team",
+    15,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "water",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/21/neutrogena-hayden-panettiere-statement"
+    "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html"
+  ],
+  [
+    "california",
+    14,
+    "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html"
+  ],
+  [
+    "ballroom",
+    14,
+    "https://www.nytimes.com/2026/08/21/briefing/supreme-court-ballroom-ai-china.html"
+  ],
+  [
+    "season",
+    14,
+    "https://www.nytimes.com/2026/08/21/business/meghan-sussex-the-gentlemen-netflix.html"
+  ],
+  [
+    "model",
+    14,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "san",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/21/san-diego-california-ice-arrest"
   ],
   [
     "filter",
@@ -196,39 +211,49 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/21/best-dorm-room-essentials-college"
   ],
   [
-    "buying",
+    "little",
     14,
     "https://www.theguardian.com/thefilter-us/2026/aug/21/best-dorm-room-essentials-college"
   ],
   [
-    "love",
+    "stop",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/21/when-tv-turns-sour-the-shows-we-simply-cannot-stomach-any-more"
+    "https://www.theguardian.com/us-news/2026/aug/21/colorado-river-water-crisis-plan"
   ],
   [
-    "latest",
-    13,
-    "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html"
+    "review",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/21/dhs-confirm-nevada-voter-numbers"
   ],
   [
-    "hard",
-    13,
-    "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
+    "different",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/21/trump-lawsuit-threat-national-guard-deployment-report"
   ],
   [
-    "prices",
-    13,
-    "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html"
+    "star",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/21/darth-vader-flock-cameras-san-diego"
   ],
   [
-    "york",
+    "stars",
     13,
-    "https://www.nytimes.com/2026/08/21/nyregion/mamdani-second-home-tax-rollout.html"
+    "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html"
   ],
   [
-    "campaign",
+    "chief",
     13,
-    "https://www.nytimes.com/2026/08/21/nyregion/ny-ramos-campaign-expense-charges.html"
+    "https://www.nytimes.com/2026/08/21/briefing/supreme-court-ballroom-ai-china.html"
+  ],
+  [
+    "summer",
+    13,
+    "https://www.nytimes.com/2026/08/21/us/politics/midterm-primaries-south-carolina-wisconsin-michigan.html"
+  ],
+  [
+    "social",
+    13,
+    "https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html"
   ],
   [
     "far",
@@ -236,39 +261,44 @@
     "https://www.washingtonpost.com/politics/2026/08/21/democrats-remain-far-behind-gop-cash-hand-midterms-near/"
   ],
   [
-    "democratic",
+    "attack",
     13,
-    "https://www.washingtonpost.com/politics/2026/08/21/democrats-remain-far-behind-gop-cash-hand-midterms-near/"
+    "https://www.washingtonpost.com/nation/2026/08/20/fight-over-airport-washing-stations-is-latest-anti-muslim-salvo-gop/"
   ],
   [
-    "police",
+    "released",
     13,
-    "https://www.washingtonpost.com/investigations/2026/08/21/inside-police-investigation-how-rep-max-millers-daughter-got-hurt/"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "ice",
-    13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "trump's",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "something",
+    "night",
     13,
     "https://www.theguardian.com/commentisfree/2026/aug/21/harry-meghan-return-to-britain-theories-california"
   ],
   [
-    "season",
+    "killed",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/21/dont-overdo-botox-stop-referring-to-yourself-as-old-extend-your-hotspan"
+    "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih"
   ],
   [
-    "dead",
+    "carolina",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/21/neutrogena-hayden-panettiere-statement"
+    "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory"
+  ],
+  [
+    "iran",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory"
+  ],
+  [
+    "late",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory"
+  ],
+  [
+    "senate",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory"
   ],
   [
     "name",
@@ -276,103 +306,73 @@
     "https://www.theguardian.com/tv-and-radio/2026/aug/21/meghan-duchess-of-sussex-guy-ritchie-the-gentlemen"
   ],
   [
-    "fewer",
+    "game",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/21/best-dorm-room-essentials-college"
-  ],
-  [
-    "weekend",
-    13,
-    "https://www.theguardian.com/sport/2026/aug/21/contenders-primed-to-chase-down-antonelli-as-f1-season-resumes"
-  ],
-  [
-    "album",
-    13,
-    "https://www.theguardian.com/music/2026/aug/21/mike-d-diamond-beastie-buys-inteview-solo-album-thank-you"
-  ],
-  [
-    "voters",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/20/mcdonalds-congress-affordability-democrats"
-  ],
-  [
-    "senate",
-    13,
-    "https://www.foxnews.com/politics/top-5-most-heated-moments-progressives-spar-over-who-farther-left-final-dem-senate-debate"
-  ],
-  [
-    "fight",
-    12,
-    "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
-  ],
-  [
-    "university",
-    12,
-    "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
-  ],
-  [
-    "states",
-    12,
-    "https://www.nytimes.com/2026/08/21/business/shein-ipo-questions.html"
-  ],
-  [
-    "star",
-    12,
-    "https://www.nytimes.com/2026/08/21/arts/television/richard-gadd-emmys-half-man.html"
-  ],
-  [
-    "water",
-    12,
-    "https://www.washingtonpost.com/nation/2026/08/21/government-will-cut-water-ariz-calif-nevada-colorado-river-runs-low/"
-  ],
-  [
-    "social",
-    12,
-    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
-  ],
-  [
-    "released",
-    12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "several",
-    12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "don",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/21/dont-overdo-botox-stop-referring-to-yourself-as-old-extend-your-hotspan"
-  ],
-  [
-    "review",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/21/dhs-confirm-nevada-voter-numbers"
-  ],
-  [
-    "children",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/21/best-baby-products-toiletries-for-adults"
-  ],
-  [
-    "different",
-    12,
     "https://www.theguardian.com/commentisfree/2026/aug/21/womens-football-ted-lasso-shouldnt-copy-mens-game"
   ],
   [
-    "music",
+    "military",
     12,
-    "https://www.theguardian.com/music/2026/aug/21/mike-d-diamond-beastie-buys-inteview-solo-album-thank-you"
+    "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html"
   ],
   [
-    "government",
-    11,
-    "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
+    "stripes",
+    12,
+    "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html"
   ],
   [
-    "lower",
-    11,
-    "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html"
+    "harry",
+    12,
+    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-royal-return-public-opinion.html"
+  ],
+  [
+    "return",
+    12,
+    "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-royal-return-public-opinion.html"
+  ],
+  [
+    "lost",
+    12,
+    "https://www.nytimes.com/2026/08/21/world/europe/prince-harry-daily-mail-publisher-pay.html"
+  ],
+  [
+    "america",
+    12,
+    "https://www.nytimes.com/2026/08/21/us/politics/midterm-primaries-south-carolina-wisconsin-michigan.html"
+  ],
+  [
+    "company",
+    12,
+    "https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html"
+  ],
+  [
+    "young",
+    12,
+    "https://www.nytimes.com/2026/08/21/us/lindsay-clancy-trial-defense.html"
+  ],
+  [
+    "space",
+    12,
+    "https://www.washingtonpost.com/nation/2026/08/21/white-house-space-policy-aims-1000-launches-year-by-2030/"
+  ],
+  [
+    "near",
+    12,
+    "https://www.washingtonpost.com/politics/2026/08/21/democrats-remain-far-behind-gop-cash-hand-midterms-near/"
+  ],
+  [
+    "democratic",
+    12,
+    "https://www.washingtonpost.com/politics/2026/08/21/democrats-remain-far-behind-gop-cash-hand-midterms-near/"
+  ],
+  [
+    "loss",
+    12,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "diego",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/21/san-diego-california-ice-arrest"
   ]
 ];
