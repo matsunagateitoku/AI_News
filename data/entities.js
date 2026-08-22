@@ -3,45 +3,39 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 40,
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/dhs-confirm-nevada-voter-numbers",
+      "count": 32,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights",
       "source": "The Guardian"
     },
     {
       "name": "Darline Graham",
-      "count": 19,
+      "count": 12,
       "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
       "source": "NY Times"
     },
     {
-      "name": "Jd Vance",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
-      "source": "The Guardian"
+      "name": "Mark Carney",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+      "source": "NY Times"
     },
     {
       "name": "Harry Reid International Airport",
-      "count": 9,
-      "url": "https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts",
-      "source": "Fox News"
-    },
-    {
-      "name": "Hayden Panettiere",
-      "count": 8,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/neutrogena-hayden-panettiere-statement",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Karoline Leavitt",
-      "count": 8,
-      "url": "https://www.nbcnews.com/politics/white-house/karoline-leavitt-work-trump-affiliated-super-pac-leaving-white-house-rcna593824",
+      "count": 7,
+      "url": "https://www.nbcnews.com/news/us-news/missing-new-york-city-grandmother-found-dead-las-vegas-rcna593833",
       "source": "NBC News"
     },
     {
-      "name": "Mark Carney",
+      "name": "Jon Allen",
+      "count": 6,
+      "url": "https://www.nbcnews.com/meet-the-press/video/-dear-donald-battleground-district-voters-share-their-message-to-trump-268689477753",
+      "source": "NBC News"
+    },
+    {
+      "name": "Lindsay Clancy",
       "count": 5,
-      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/us-news/2026/aug/22/lindsay-clancy-trial-what-happened-this-week",
+      "source": "The Guardian"
     },
     {
       "name": "Gilberto Gil",
@@ -50,147 +44,35 @@
       "source": "The Guardian"
     },
     {
-      "name": "Greg Abbott",
-      "count": 4,
-      "url": "https://www.washingtonpost.com/nation/2026/08/21/texas-governor-calls-justice-dept-probe-muslim-washing-stations/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Jannik Sinner",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/aug/21/jannik-sinner-out-of-us-open-tennis-with-knee-injury",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Threatens Defamation Suit Over National Guard Report",
-      "count": 62,
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The White House",
-      "count": 22,
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-white-house-ballroom-rcna592899",
-      "source": "NBC News"
-    },
-    {
-      "name": "Ai",
-      "count": 18,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Florida Senate",
-      "count": 11,
-      "url": "https://www.foxnews.com/media/florida-democrat-senate-nominee-angie-nixon-insists-im-not-socialist-after-joining-dsa",
+      "name": "Mike Rogers",
+      "count": 5,
+      "url": "https://www.foxnews.com/politics/democrats-face-do-or-die-split-key-voting-bloc-razor-close-senate-race",
       "source": "Fox News"
     },
     {
-      "name": "Pentagon",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html",
-      "source": "NY Times"
+      "name": "Karoline Leavitt",
+      "count": 5,
+      "url": "https://www.nbcnews.com/politics/white-house/karoline-leavitt-work-trump-affiliated-super-pac-leaving-white-house-rcna593824",
+      "source": "NBC News"
     },
     {
-      "name": "The Supreme Court",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Netflix",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/08/21/business/meghan-sussex-the-gentlemen-netflix.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Guardian Faber Publishing",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/21/harry-meghan-return-to-britain-theories-california",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop Senate",
-      "count": 8,
-      "url": "https://thehill.com/homenews/campaign/6044561-donald-trump-darline-graham-defense-debate-mistake/",
-      "source": "The Hill"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Vogue Us",
-      "count": 48,
-      "url": "https://www.theguardian.com/fashion/2026/aug/21/adept-cover-stars-dogs-fashion-ai-face-era-vogue-dogue",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Canada",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/tornado-new-york-long-island-delaware",
-      "source": "The Guardian"
-    },
-    {
-      "name": "South Carolina",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Las Vegas",
-      "count": 11,
-      "url": "https://www.theguardian.com/sport/2026/aug/21/teofimo-lopez-rolly-romero-fight-preview-wba-welterweight-title",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nevada",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory",
-      "source": "The Guardian"
+      "name": "Bass",
+      "count": 4,
+      "url": "https://www.latimes.com/california/story/2026-08-21/recent-college-graduate-identified-as-creator-of-phony-la-mayors-race-poll",
+      "source": "LA Times"
     }
   ],
   "EVENT": [
     {
-      "name": "World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/aug/21/fifa-leandro-paredes-argentina-spain-world-cup-final-brawl",
+      "name": "Decision Day",
+      "count": 5,
+      "url": "https://www.nbcnews.com/meet-the-press/video/-dear-donald-battleground-district-voters-share-their-message-to-trump-268689477753",
+      "source": "NBC News"
+    },
+    {
+      "name": "The World Cup",
+      "count": 4,
+      "url": "https://www.theguardian.com/football/2026/aug/22/us-soccer-wants-excitement-after-the-world-cup-the-open-cup-provides-it",
       "source": "The Guardian"
     },
     {
@@ -200,21 +82,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Us Open",
+      "name": "World Humanoid Robot Games",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/aug/21/jannik-sinner-out-of-us-open-tennis-with-knee-injury",
+      "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
       "source": "The Guardian"
     },
     {
-      "name": "Wimbledon",
+      "name": "The World Athletics Championships",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/aug/21/jannik-sinner-out-of-us-open-tennis-with-knee-injury",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Chaco Culture",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/trump-oil-drilling-world-heritage-site-new-mexico",
+      "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
       "source": "The Guardian"
     },
     {
@@ -224,17 +100,135 @@
       "source": "NPR"
     },
     {
-      "name": "The Magnolia Bowl",
+      "name": "World War I And Ii",
       "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/espn-confirms-lsu-ole-miss-college-gameday-week-three-destination-amid-speculation",
-      "source": "Fox News"
-    },
-    {
-      "name": "U.S. Open",
-      "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/top-ranked-jannik-sinner-withdraws-us-open-right-knee-injury-sad-disappointed",
-      "source": "Fox News"
+      "url": "https://www.cbsnews.com/news/europe-wildfires-bombs-explosives-world-war-history/",
+      "source": "CBS News"
     }
   ],
-  "updated": "2026-08-22T07:35:22Z"
+  "GPE": [
+    {
+      "name": "Vogue Us",
+      "count": 46,
+      "url": "https://www.theguardian.com/fashion/2026/aug/21/adept-cover-stars-dogs-fashion-ai-face-era-vogue-dogue",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 30,
+      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 17,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Canada",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/22/trump-iran-war-midterm-elections",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/tornado-new-york-long-island-delaware",
+      "source": "The Guardian"
+    },
+    {
+      "name": "America",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/22/sean-duffy-reality-road-trip-tv-youtube",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 9,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A.",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-08-21/recent-college-graduate-identified-as-creator-of-phony-la-mayors-race-poll",
+      "source": "LA Times"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Target For Trump",
+      "count": 48,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "The White House",
+      "count": 21,
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-white-house-ballroom-rcna592899",
+      "source": "NBC News"
+    },
+    {
+      "name": "Ai",
+      "count": 18,
+      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ohio Senate",
+      "count": 11,
+      "url": "https://www.politico.com/news/2026/08/20/republican-mike-rogers-michigan-data-center-moratorium-01044140",
+      "source": "Politico"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Guardian Faber Publishing",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/21/harry-meghan-return-to-britain-theories-california",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 9,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 8,
+      "url": "https://www.washingtonpost.com/politics/2026/08/21/democrats-remain-far-behind-gop-cash-hand-midterms-near/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Nbc News Senior National Politics",
+      "count": 7,
+      "url": "https://www.nbcnews.com/meet-the-press/video/-resign-you-re-destroying-the-country-republican-voter-in-key-ohio-district-slams-trump-268491333778",
+      "source": "NBC News"
+    },
+    {
+      "name": "Netflix",
+      "count": 6,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-08-22T13:34:56Z"
 };
