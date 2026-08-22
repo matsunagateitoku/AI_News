@@ -2,83 +2,53 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    89,
-    "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html"
+    74,
+    "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
   ],
   [
     "president",
-    40,
-    "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html"
+    36,
+    "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
   ],
   [
     "court",
-    34,
+    26,
     "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html"
   ],
   [
-    "country",
-    25,
-    "https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html"
+    "tariffs",
+    23,
+    "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
   ],
   [
     "children",
-    25,
+    22,
     "https://www.nytimes.com/2026/08/22/world/europe/harry-meghan-children-schools.html"
   ],
   [
-    "war",
-    22,
-    "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html"
-  ],
-  [
-    "american",
-    21,
-    "https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html"
-  ],
-  [
-    "series",
-    21,
-    "https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip"
+    "food",
+    20,
+    "https://www.theguardian.com/us-news/2026/aug/22/indiana-residents-11th-day-without-power"
   ],
   [
     "film",
-    21,
+    19,
     "https://www.theguardian.com/film/2026/aug/22/stand-by-me-40th-anniversary"
   ],
   [
-    "tariffs",
-    20,
-    "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html"
-  ],
-  [
-    "york",
-    20,
-    "https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html"
-  ],
-  [
-    "don",
-    20,
-    "https://www.theguardian.com/society/2026/aug/22/my-ability-to-cope-was-unravelling-how-i-navigated-adhd-and-childbirth-and-seven-things-i-learned"
-  ],
-  [
     "trade",
-    19,
-    "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html"
-  ],
-  [
-    "body",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights"
-  ],
-  [
-    "death",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights"
-  ],
-  [
-    "administration",
     18,
-    "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html"
+    "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html"
+  ],
+  [
+    "war",
+    18,
+    "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html"
+  ],
+  [
+    "american",
+    18,
+    "https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html"
   ],
   [
     "art",
@@ -91,9 +61,9 @@
     "https://www.nytimes.com/2026/08/22/us/haiti-tps-springfield-ankle-monitors.html"
   ],
   [
-    "social",
+    "death",
     18,
-    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
+    "https://www.nytimes.com/2026/08/22/us/francis-clifford-smith-dead.html"
   ],
   [
     "media",
@@ -106,54 +76,69 @@
     "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream"
   ],
   [
-    "donald",
+    "don",
     18,
+    "https://www.theguardian.com/society/2026/aug/22/my-ability-to-cope-was-unravelling-how-i-navigated-adhd-and-childbirth-and-seven-things-i-learned"
+  ],
+  [
+    "california",
+    17,
+    "https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html"
+  ],
+  [
+    "administration",
+    17,
+    "https://www.washingtonpost.com/nation/2026/08/21/white-house-space-policy-aims-1000-launches-year-by-2030/"
+  ],
+  [
+    "country",
+    17,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "team",
+    17,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "because",
+    17,
     "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights"
   ],
   [
     "canada",
-    17,
-    "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html"
-  ],
-  [
-    "summer",
-    17,
-    "https://www.nytimes.com/2026/08/22/briefing/sun-screen.html"
-  ],
-  [
-    "again",
-    17,
-    "https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs"
-  ],
-  [
-    "food",
-    17,
-    "https://www.theguardian.com/environment/2026/aug/22/subterranean-salad-underground-farmers-seek-solution-to-food-crisis-in-disused-uk-mines"
-  ],
-  [
-    "states",
-    15,
-    "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html"
+    16,
+    "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html"
   ],
   [
     "race",
-    15,
+    16,
     "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html"
   ],
   [
-    "israel",
-    15,
-    "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html"
-  ],
-  [
-    "model",
-    15,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "summer",
+    16,
+    "https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs"
   ],
   [
     "games",
-    15,
+    16,
     "https://www.theguardian.com/sport/2026/aug/22/wnba-sex-toys-thrown-court-natasha-cloud-basketball"
+  ],
+  [
+    "political",
+    15,
+    "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html"
+  ],
+  [
+    "social",
+    15,
+    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
+  ],
+  [
+    "donald",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights"
   ],
   [
     "love",
@@ -161,64 +146,54 @@
     "https://www.theguardian.com/commentisfree/2026/aug/22/the-black-farmer-tv-clarksons-farm-minorities"
   ],
   [
-    "mark",
+    "states",
     14,
-    "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html"
+    "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html"
+  ],
+  [
+    "red",
+    14,
+    "https://www.nytimes.com/2026/08/22/us/politics/angie-nixon-florida-senate-socialist.html"
+  ],
+  [
+    "harry",
+    14,
+    "https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html"
+  ],
+  [
+    "star",
+    14,
+    "https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html"
+  ],
+  [
+    "body",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights"
   ],
   [
     "buying",
     14,
-    "https://www.nytimes.com/2026/08/22/business/gen-z-houses-investing.html"
-  ],
-  [
-    "political",
-    14,
-    "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html"
-  ],
-  [
-    "million",
-    14,
-    "https://www.nytimes.com/2026/08/22/nyregion/nyc-gustavo-gordillo-democratic-socialist.html"
-  ],
-  [
-    "democratic",
-    14,
-    "https://www.nytimes.com/2026/08/22/nyregion/nyc-gustavo-gordillo-democratic-socialist.html"
-  ],
-  [
-    "america",
-    14,
-    "https://www.nytimes.com/2026/08/22/nyregion/nyc-gustavo-gordillo-democratic-socialist.html"
-  ],
-  [
-    "released",
-    14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "press",
-    14,
-    "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine"
-  ],
-  [
-    "online",
-    14,
-    "https://www.theguardian.com/artanddesign/2026/aug/22/the-faces-behind-the-feeds-gen-zs-private-lives-and-public-posts-in-pictures"
+    "https://www.theguardian.com/thefilter-us/2026/aug/22/best-cheese-storage"
   ],
   [
     "game",
     14,
-    "https://www.theguardian.com/football/2026/aug/22/lionel-messi-fine-slapping-opposition-player-quinn-sullivanmls-soccer-football"
+    "https://www.theguardian.com/sport/2026/aug/22/bills-mourn-unthinkable-tragedy-after-death-of-ed-olivers-two-year-old-son"
   ],
   [
-    "graham",
+    "mark",
     13,
-    "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html"
+    "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
   ],
   [
-    "supreme",
+    "despite",
     13,
-    "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html"
+    "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
+  ],
+  [
+    "million",
+    13,
+    "https://www.nytimes.com/2026/08/22/nyregion/nyc-gustavo-gordillo-democratic-socialist.html"
   ],
   [
     "dollar",
@@ -226,14 +201,54 @@
     "https://www.nytimes.com/2026/08/22/nyregion/nyc-gustavo-gordillo-democratic-socialist.html"
   ],
   [
-    "something",
+    "democratic",
     13,
-    "https://www.nytimes.com/2026/08/22/briefing/sun-screen.html"
+    "https://www.nytimes.com/2026/08/22/nyregion/nyc-gustavo-gordillo-democratic-socialist.html"
   ],
   [
-    "because",
+    "america",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights"
+    "https://www.nytimes.com/2026/08/22/nyregion/nyc-gustavo-gordillo-democratic-socialist.html"
+  ],
+  [
+    "campaign",
+    13,
+    "https://www.washingtonpost.com/nation/2026/08/21/texas-governor-calls-justice-dept-probe-muslim-washing-stations/"
+  ],
+  [
+    "police",
+    13,
+    "https://www.washingtonpost.com/investigations/2026/08/21/inside-police-investigation-how-rep-max-millers-daughter-got-hurt/"
+  ],
+  [
+    "released",
+    13,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "again",
+    13,
+    "https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs"
+  ],
+  [
+    "series",
+    13,
+    "https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip"
+  ],
+  [
+    "school",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/22/omaha-nebraska-school-district-shock-gloves-police"
+  ],
+  [
+    "stop",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/22/omaha-nebraska-school-district-shock-gloves-police"
+  ],
+  [
+    "york",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/22/eyedrop-recall-clear-eyes"
   ],
   [
     "iran",
@@ -241,79 +256,74 @@
     "https://www.theguardian.com/us-news/ng-interactive/2026/aug/22/trump-iran-war-midterm-elections"
   ],
   [
-    "talks",
-    12,
-    "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html"
+    "balance",
+    13,
+    "https://www.theguardian.com/film/2026/aug/22/stand-by-me-40th-anniversary"
+  ],
+  [
+    "products",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/22/best-cheese-storage"
+  ],
+  [
+    "sex",
+    13,
+    "https://www.theguardian.com/sport/2026/aug/22/wnba-sex-toys-thrown-court-natasha-cloud-basketball"
+  ],
+  [
+    "san",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/21/darth-vader-flock-cameras-san-diego"
   ],
   [
     "minister",
     12,
-    "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html"
+    "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
   ],
   [
-    "politics",
+    "hollywood",
     12,
-    "https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html"
+    "https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html"
   ],
   [
-    "primary",
+    "music",
     12,
-    "https://www.nytimes.com/2026/08/22/us/politics/angie-nixon-florida-senate-socialist.html"
+    "https://www.washingtonpost.com/obituaries/2026/08/22/she-set-aside-fiddle-raise-nine-children-99-she-made-her-opry-debut/"
   ],
   [
-    "south",
-    12,
-    "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html"
-  ],
-  [
-    "feel",
-    12,
-    "https://www.nytimes.com/2026/08/22/us/haiti-tps-springfield-ankle-monitors.html"
-  ],
-  [
-    "school",
-    12,
-    "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html"
-  ],
-  [
-    "industry",
+    "space",
     12,
     "https://www.washingtonpost.com/nation/2026/08/21/white-house-space-policy-aims-1000-launches-year-by-2030/"
   ],
   [
-    "young",
-    12,
-    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
-  ],
-  [
-    "police",
+    "case",
     12,
     "https://www.washingtonpost.com/investigations/2026/08/21/inside-police-investigation-how-rep-max-millers-daughter-got-hurt/"
   ],
   [
-    "loss",
+    "failed",
     12,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.washingtonpost.com/investigations/2026/08/21/inside-police-investigation-how-rep-max-millers-daughter-got-hurt/"
   ],
   [
-    "everything",
+    "israel",
     12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "team",
+    "economic",
     12,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "support",
+    "company",
+    12,
+    "https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs"
+  ],
+  [
+    "son",
     12,
     "https://www.theguardian.com/society/2026/aug/22/my-ability-to-cope-was-unravelling-how-i-navigated-adhd-and-childbirth-and-seven-things-i-learned"
-  ],
-  [
-    "trial",
-    12,
-    "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
   ],
   [
     "senate",
@@ -321,58 +331,48 @@
     "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory"
   ],
   [
-    "dead",
+    "guide",
     12,
-    "https://www.theguardian.com/film/2026/aug/22/stand-by-me-40th-anniversary"
-  ],
-  [
-    "balance",
-    12,
-    "https://www.theguardian.com/film/2026/aug/22/stand-by-me-40th-anniversary"
-  ],
-  [
-    "decision",
-    12,
-    "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision"
+    "https://www.theguardian.com/thefilter-us/2026/aug/22/best-cheese-storage"
   ],
   [
     "prime",
     11,
-    "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html"
+    "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
   ],
   [
-    "building",
+    "human",
     11,
-    "https://www.nytimes.com/2026/08/22/business/gen-z-houses-investing.html"
+    "https://www.nytimes.com/2026/08/22/magazine/priya-parker-interview.html"
   ],
   [
-    "carolina",
+    "water",
     11,
-    "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html"
+    "https://www.washingtonpost.com/nation/2026/08/21/government-will-cut-water-ariz-calif-nevada-colorado-river-runs-low/"
   ],
   [
-    "darline",
+    "young",
     11,
-    "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html"
+    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
   ],
   [
-    "california",
+    "support",
     11,
-    "https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html"
+    "https://www.theguardian.com/society/2026/aug/22/my-ability-to-cope-was-unravelling-how-i-navigated-adhd-and-childbirth-and-seven-things-i-learned"
   ],
   [
-    "star",
+    "experts",
     11,
-    "https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html"
-  ],
-  [
-    "season",
-    11,
-    "https://www.nytimes.com/2026/08/22/briefing/sun-screen.html"
+    "https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip"
   ],
   [
     "office",
     11,
-    "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html"
+    "https://www.theguardian.com/us-news/2026/aug/22/ice-agent-jailed-louisiana"
+  ],
+  [
+    "trial",
+    11,
+    "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
   ]
 ];

@@ -3,21 +3,27 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 32,
+      "count": 27,
       "url": "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights",
       "source": "The Guardian"
     },
     {
+      "name": "Grace Potter",
+      "count": 9,
+      "url": "https://www.cbsnews.com/video/saturday-sessions-grace-potter-performs-run-baby-run/",
+      "source": "CBS News"
+    },
+    {
       "name": "Darline Graham",
-      "count": 12,
+      "count": 7,
       "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
       "source": "NY Times"
     },
     {
-      "name": "Mark Carney",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-      "source": "NY Times"
+      "name": "Lindsay Clancy",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/aug/22/lindsay-clancy-trial-what-happened-this-week",
+      "source": "The Guardian"
     },
     {
       "name": "Harry Reid International Airport",
@@ -26,16 +32,10 @@
       "source": "NBC News"
     },
     {
-      "name": "Jon Allen",
-      "count": 6,
-      "url": "https://www.nbcnews.com/meet-the-press/video/-dear-donald-battleground-district-voters-share-their-message-to-trump-268689477753",
-      "source": "NBC News"
-    },
-    {
-      "name": "Lindsay Clancy",
+      "name": "Mark Carney",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/aug/22/lindsay-clancy-trial-what-happened-this-week",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
+      "source": "NY Times"
     },
     {
       "name": "Gilberto Gil",
@@ -44,36 +44,104 @@
       "source": "The Guardian"
     },
     {
-      "name": "Mike Rogers",
-      "count": 5,
-      "url": "https://www.foxnews.com/politics/democrats-face-do-or-die-split-key-voting-bloc-razor-close-senate-race",
+      "name": "Mike Macdonald",
+      "count": 4,
+      "url": "https://www.foxnews.com/outkick-sports/seattle-seahawks-lose-wide-receiver-jake-bobo-serious-knee-injury-joint-practice",
       "source": "Fox News"
     },
     {
-      "name": "Karoline Leavitt",
-      "count": 5,
-      "url": "https://www.nbcnews.com/politics/white-house/karoline-leavitt-work-trump-affiliated-super-pac-leaving-white-house-rcna593824",
+      "name": "Olympian Jenny Simpson",
+      "count": 4,
+      "url": "https://www.cbsnews.com/news/jenny-simpson-cardiac-event-heart-condition-recovery-running/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Marco Rubio",
+      "count": 3,
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Target For Trump",
+      "count": 47,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Ai",
+      "count": 16,
+      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 13,
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-white-house-ballroom-rcna592899",
       "source": "NBC News"
     },
     {
-      "name": "Bass",
-      "count": 4,
-      "url": "https://www.latimes.com/california/story/2026-08-21/recent-college-graduate-identified-as-creator-of-phony-la-mayors-race-poll",
-      "source": "LA Times"
+      "name": "The U.S. Senate",
+      "count": 11,
+      "url": "https://www.cbsnews.com/news/nancy-kassebaum-baker-former-united-states-senator-kansas-dies-at-94/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian Faber Publishing",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/21/harry-meghan-return-to-britain-theories-california",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Gop",
+      "count": 6,
+      "url": "https://www.washingtonpost.com/politics/2026/08/21/democrats-remain-far-behind-gop-cash-hand-midterms-near/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Ice",
+      "count": 5,
+      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Amazon",
+      "count": 5,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/22/the-black-farmer-tv-clarksons-farm-minorities",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
-    {
-      "name": "Decision Day",
-      "count": 5,
-      "url": "https://www.nbcnews.com/meet-the-press/video/-dear-donald-battleground-district-voters-share-their-message-to-trump-268689477753",
-      "source": "NBC News"
-    },
     {
       "name": "The World Cup",
       "count": 4,
       "url": "https://www.theguardian.com/football/2026/aug/22/us-soccer-wants-excitement-after-the-world-cup-the-open-cup-provides-it",
       "source": "The Guardian"
+    },
+    {
+      "name": "The Freedom 250 Grand Prix",
+      "count": 3,
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
+      "source": "NPR"
+    },
+    {
+      "name": "The U.S. Open",
+      "count": 2,
+      "url": "https://www.cbsnews.com/news/serena-williams-carlos-alcarez-us-open-mixed-doubles-tennis-sports/",
+      "source": "CBS News"
     },
     {
       "name": "Finding Freedom 2: Back",
@@ -94,16 +162,22 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Freedom 250 Grand Prix",
+      "name": "Labor Day",
       "count": 1,
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
-      "source": "NPR"
+      "url": "https://www.cbsnews.com/news/u-s-set-to-impose-50-percent-tariffs-on-canada-after-failed-talks/",
+      "source": "CBS News"
     },
     {
       "name": "World War I And Ii",
       "count": 1,
       "url": "https://www.cbsnews.com/news/europe-wildfires-bombs-explosives-world-war-history/",
       "source": "CBS News"
+    },
+    {
+      "name": "Decision Day",
+      "count": 1,
+      "url": "https://www.nbcnews.com/meet-the-press/video/-dear-donald-battleground-district-voters-share-their-message-to-trump-268689477753",
+      "source": "NBC News"
     }
   ],
   "GPE": [
@@ -115,8 +189,8 @@
     },
     {
       "name": "U.S.",
-      "count": 30,
-      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+      "count": 31,
+      "url": "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html",
       "source": "NY Times"
     },
     {
@@ -126,9 +200,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "Canada",
+      "name": "California",
       "count": 15,
-      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Canada",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html",
       "source": "NY Times"
     },
     {
@@ -138,97 +218,29 @@
       "source": "The Guardian"
     },
     {
-      "name": "Israel",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/tornado-new-york-long-island-delaware",
-      "source": "The Guardian"
-    },
-    {
-      "name": "America",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/22/sean-duffy-reality-road-trip-tv-youtube",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 9,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
-      "source": "The Guardian"
+      "name": "East Hollywood",
+      "count": 11,
+      "url": "https://www.latimes.com/california/story/2026-08-22/motorcyclist-loses-leg-28-million-lafd-firetruck-crash-verdict",
+      "source": "LA Times"
     },
     {
       "name": "L.A.",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-08-21/recent-college-graduate-identified-as-creator-of-phony-la-mayors-race-poll",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-08-22/in-l-a-s-chinese-beverly-hills-fighting-back-against-chinese-communist-infiltration",
       "source": "LA Times"
-    }
-  ],
-  "ORG": [
+    },
     {
-      "name": "Target For Trump",
-      "count": 48,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "name": "Israel",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
       "source": "Wall St. Journal"
     },
     {
-      "name": "The White House",
-      "count": 21,
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-white-house-ballroom-rcna592899",
-      "source": "NBC News"
-    },
-    {
-      "name": "Ai",
-      "count": 18,
-      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ohio Senate",
-      "count": 11,
-      "url": "https://www.politico.com/news/2026/08/20/republican-mike-rogers-michigan-data-center-moratorium-01044140",
-      "source": "Politico"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Guardian Faber Publishing",
+      "name": "New York City",
       "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/21/harry-meghan-return-to-britain-theories-california",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 9,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 8,
-      "url": "https://www.washingtonpost.com/politics/2026/08/21/democrats-remain-far-behind-gop-cash-hand-midterms-near/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Nbc News Senior National Politics",
-      "count": 7,
-      "url": "https://www.nbcnews.com/meet-the-press/video/-resign-you-re-destroying-the-country-republican-voter-in-key-ohio-district-slams-trump-268491333778",
-      "source": "NBC News"
-    },
-    {
-      "name": "Netflix",
-      "count": 6,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/tornado-new-york-long-island-delaware",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-08-22T13:34:56Z"
+  "updated": "2026-08-22T19:26:05Z"
 };
