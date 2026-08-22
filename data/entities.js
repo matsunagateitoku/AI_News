@@ -3,15 +3,27 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 41,
+      "count": 40,
       "url": "https://www.theguardian.com/us-news/2026/aug/21/dhs-confirm-nevada-voter-numbers",
       "source": "The Guardian"
     },
     {
       "name": "Darline Graham",
       "count": 19,
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
       "source": "The Guardian"
+    },
+    {
+      "name": "Harry Reid International Airport",
+      "count": 9,
+      "url": "https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts",
+      "source": "Fox News"
     },
     {
       "name": "Hayden Panettiere",
@@ -20,16 +32,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "Jd Vance",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/jd-vance-middletown-ohio.html",
-      "source": "NY Times"
+      "name": "Karoline Leavitt",
+      "count": 8,
+      "url": "https://www.nbcnews.com/politics/white-house/karoline-leavitt-work-trump-affiliated-super-pac-leaving-white-house-rcna593824",
+      "source": "NBC News"
     },
     {
-      "name": "Harry Reid International Airport",
-      "count": 7,
-      "url": "https://www.nbcnews.com/news/us-news/missing-new-york-city-grandmother-found-dead-las-vegas-rcna593833",
-      "source": "NBC News"
+      "name": "Mark Carney",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+      "source": "NY Times"
     },
     {
       "name": "Gilberto Gil",
@@ -38,28 +50,140 @@
       "source": "The Guardian"
     },
     {
-      "name": "Alan Dershowitz",
-      "count": 5,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/20/larry-david-alan-dershowitz-friendship-trump-epstein",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Karoline Leavitt",
-      "count": 5,
-      "url": "https://www.nbcnews.com/politics/white-house/karoline-leavitt-work-trump-affiliated-super-pac-leaving-white-house-rcna593824",
-      "source": "NBC News"
-    },
-    {
-      "name": "Vance Campaigns",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/jd-vance-middletown-ohio.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Greg Abbott",
       "count": 4,
       "url": "https://www.washingtonpost.com/nation/2026/08/21/texas-governor-calls-justice-dept-probe-muslim-washing-stations/",
       "source": "Washington Post"
+    },
+    {
+      "name": "Jannik Sinner",
+      "count": 4,
+      "url": "https://www.theguardian.com/sport/2026/aug/21/jannik-sinner-out-of-us-open-tennis-with-knee-injury",
+      "source": "The Guardian"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Threatens Defamation Suit Over National Guard Report",
+      "count": 62,
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The White House",
+      "count": 22,
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-white-house-ballroom-rcna592899",
+      "source": "NBC News"
+    },
+    {
+      "name": "Ai",
+      "count": 18,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Florida Senate",
+      "count": 11,
+      "url": "https://www.foxnews.com/media/florida-democrat-senate-nominee-angie-nixon-insists-im-not-socialist-after-joining-dsa",
+      "source": "Fox News"
+    },
+    {
+      "name": "Pentagon",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Netflix",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/08/21/business/meghan-sussex-the-gentlemen-netflix.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Guardian Faber Publishing",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/21/harry-meghan-return-to-britain-theories-california",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop Senate",
+      "count": 8,
+      "url": "https://thehill.com/homenews/campaign/6044561-donald-trump-darline-graham-defense-debate-mistake/",
+      "source": "The Hill"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Vogue Us",
+      "count": 48,
+      "url": "https://www.theguardian.com/fashion/2026/aug/21/adept-cover-stars-dogs-fashion-ai-face-era-vogue-dogue",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Canada",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/tornado-new-york-long-island-delaware",
+      "source": "The Guardian"
+    },
+    {
+      "name": "South Carolina",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 11,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Las Vegas",
+      "count": 11,
+      "url": "https://www.theguardian.com/sport/2026/aug/21/teofimo-lopez-rolly-romero-fight-preview-wba-welterweight-title",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nevada",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
@@ -67,12 +191,6 @@
       "name": "World Cup",
       "count": 2,
       "url": "https://www.theguardian.com/football/2026/aug/21/fifa-leandro-paredes-argentina-spain-world-cup-final-brawl",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Fat Marmot Week",
-      "count": 2,
-      "url": "https://www.theguardian.com/environment/2026/aug/21/fat-marmot-week-research-funding",
       "source": "The Guardian"
     },
     {
@@ -100,12 +218,6 @@
       "source": "The Guardian"
     },
     {
-      "name": "Groundhog Day",
-      "count": 1,
-      "url": "https://www.theguardian.com/film/2026/aug/20/it-ends-horror-movie-review",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Freedom 250 Grand Prix",
       "count": 1,
       "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
@@ -124,129 +236,5 @@
       "source": "Fox News"
     }
   ],
-  "ORG": [
-    {
-      "name": "Trump Threatens Defamation Suit Over National Guard Report",
-      "count": 66,
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The White House",
-      "count": 22,
-      "url": "https://www.nbcnews.com/nightly-news/video/supreme-court-allows-white-house-ballroom-construction-for-now-268695109794",
-      "source": "NBC News"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 12,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Florida Senate",
-      "count": 11,
-      "url": "https://www.foxnews.com/media/florida-democrat-senate-nominee-angie-nixon-insists-im-not-socialist-after-joining-dsa",
-      "source": "Fox News"
-    },
-    {
-      "name": "Gop Senate",
-      "count": 11,
-      "url": "https://thehill.com/homenews/campaign/6044561-donald-trump-darline-graham-defense-debate-mistake/",
-      "source": "The Hill"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 9,
-      "url": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
-      "source": "NPR"
-    },
-    {
-      "name": "Pentagon",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Guardian Faber Publishing",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/21/harry-meghan-return-to-britain-theories-california",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Justice Department",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html",
-      "source": "NY Times"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Vogue Us",
-      "count": 47,
-      "url": "https://www.theguardian.com/fashion/2026/aug/21/adept-cover-stars-dogs-fashion-ai-face-era-vogue-dogue",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/tornado-new-york-long-island-delaware",
-      "source": "The Guardian"
-    },
-    {
-      "name": "South Carolina",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory",
-      "source": "The Guardian"
-    },
-    {
-      "name": "San Diego Flock",
-      "count": 11,
-      "url": "https://www.latimes.com/california/story/2026-08-21/darth-vader-to-san-diego-city-council-emperor-want-flock-surveillance-cameras",
-      "source": "LA Times"
-    },
-    {
-      "name": "America",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/midterm-primaries-south-carolina-wisconsin-michigan.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/nation/2026/08/21/texas-governor-calls-justice-dept-probe-muslim-washing-stations/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Nevada",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
-      "source": "NY Times"
-    }
-  ],
-  "updated": "2026-08-22T02:17:13Z"
+  "updated": "2026-08-22T07:35:22Z"
 };
