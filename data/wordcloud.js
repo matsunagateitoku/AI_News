@@ -2,133 +2,158 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    71,
+    56,
     "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
   ],
   [
     "president",
-    47,
+    48,
     "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
+  ],
+  [
+    "nation",
+    29,
+    "https://www.latimes.com/politics/story/2026-08-23/will-trump-interfere-in-midterms-democrats-their-allies-are-preparing"
   ],
   [
     "war",
-    28,
+    26,
     "https://www.nytimes.com/2026/08/23/us/politics/midterms-feel-like-2006-all-over-again.html"
   ],
   [
-    "canada",
-    27,
-    "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html"
+    "margaret",
+    23,
+    "https://www.cbsnews.com/news/seth-moulton-massachusetts-face-the-nation-08-23-2026/"
+  ],
+  [
+    "brennan",
+    23,
+    "https://www.cbsnews.com/news/seth-moulton-massachusetts-face-the-nation-08-23-2026/"
   ],
   [
     "country",
-    23,
-    "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/"
+    21,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "family",
-    20,
-    "https://www.theguardian.com/culture/2026/aug/23/black-august-study-meditate-read"
-  ],
-  [
-    "race",
-    19,
-    "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html"
-  ],
-  [
-    "court",
-    19,
-    "https://www.theguardian.com/us-news/2026/aug/23/luigi-mangione-state-case-brian-thompson"
-  ],
-  [
-    "political",
-    18,
-    "https://www.nytimes.com/2026/08/23/opinion/culture/heroine-journey-odyssey-barbie.html"
-  ],
-  [
-    "black",
-    18,
-    "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea"
-  ],
-  [
-    "products",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/23/personal-care-products-unlabeled-toxic-chemicals"
-  ],
-  [
-    "tariffs",
-    17,
-    "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html"
-  ],
-  [
-    "crisis",
-    17,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "team",
-    17,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "because",
-    17,
-    "https://www.theguardian.com/music/2026/aug/23/jorja-smith-what-are-the-odds-interview"
-  ],
-  [
-    "series",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/23/trump-sowing-election-distrust"
-  ],
-  [
-    "food",
-    17,
-    "https://www.theguardian.com/environment/2026/aug/22/subterranean-salad-underground-farmers-seek-solution-to-food-crisis-in-disused-uk-mines"
+    21,
+    "https://www.theguardian.com/books/2026/aug/23/my-husband-died-surfing-accident-grief"
   ],
   [
     "democratic",
-    16,
+    20,
     "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
   ],
   [
-    "body",
+    "food",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/aug/24/what-buddhist-wisdom-teaches-us-about-desire"
+  ],
+  [
+    "crisis",
+    18,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "because",
+    18,
+    "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis"
+  ],
+  [
+    "police",
+    18,
+    "https://www.theguardian.com/us-news/2026/aug/23/massachusetts-officer-death-home-wife-arrest-warrant"
+  ],
+  [
+    "race",
+    17,
+    "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html"
+  ],
+  [
+    "mark",
+    17,
+    "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html"
+  ],
+  [
+    "death",
+    17,
+    "https://www.nytimes.com/2026/08/23/arts/television/hayden-panettiere-brian-hickerson-boyfriend-book-tour.html"
+  ],
+  [
+    "products",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/23/personal-care-products-unlabeled-toxic-chemicals"
+  ],
+  [
+    "democrats",
     16,
+    "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html"
+  ],
+  [
+    "fire",
+    16,
+    "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html"
+  ],
+  [
+    "black",
+    16,
+    "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea"
+  ],
+  [
+    "political",
+    16,
+    "https://www.theguardian.com/environment/2026/aug/23/london-low-emission-zone-working-other-cities-cautious-clean-air"
+  ],
+  [
+    "health",
+    16,
+    "https://www.theguardian.com/environment/2026/aug/23/london-low-emission-zone-working-other-cities-cautious-clean-air"
+  ],
+  [
+    "media",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war"
+  ],
+  [
+    "scott",
+    16,
+    "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis"
+  ],
+  [
+    "rep",
+    16,
+    "https://www.foxnews.com/politics/el-sayed-fire-online-taking-aim-usha-vance-female-trump-aide-weekend-social-media-posts"
+  ],
+  [
+    "governor",
+    15,
+    "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html"
+  ],
+  [
+    "freedom",
+    15,
+    "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/"
+  ],
+  [
+    "primary",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/23/democrats-abdul-el-sayed-progressives"
+  ],
+  [
+    "body",
+    15,
     "https://www.theguardian.com/music/2026/aug/23/jorja-smith-what-are-the-odds-interview"
   ],
   [
     "summer",
-    16,
+    15,
     "https://www.theguardian.com/us-news/2026/aug/23/trump-sowing-election-distrust"
   ],
   [
-    "democrats",
+    "aug",
     15,
-    "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html"
-  ],
-  [
-    "feel",
-    15,
-    "https://www.nytimes.com/2026/08/23/us/politics/midterms-feel-like-2006-all-over-again.html"
-  ],
-  [
-    "decision",
-    15,
-    "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis"
-  ],
-  [
-    "death",
-    15,
-    "https://www.theguardian.com/sport/2026/aug/22/bills-mourn-unthinkable-tragedy-after-death-of-ed-olivers-two-year-old-son"
-  ],
-  [
-    "administration",
-    14,
-    "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
-  ],
-  [
-    "governor",
-    14,
-    "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html"
+    "https://www.latimes.com/delos/story/2026-08-18/ritchie-valens-family-tribute-free-dtla-show-grand-performances"
   ],
   [
     "senate",
@@ -136,24 +161,44 @@
     "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html"
   ],
   [
-    "trade",
+    "canada",
     14,
-    "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html"
+    "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html"
   ],
   [
-    "london",
+    "iran",
     14,
-    "https://www.theguardian.com/music/2026/aug/23/jorja-smith-what-are-the-odds-interview"
+    "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html"
   ],
   [
-    "health",
+    "campaign",
     14,
-    "https://www.theguardian.com/environment/2026/aug/23/london-low-emission-zone-working-other-cities-cautious-clean-air"
+    "https://www.washingtonpost.com/nation/2026/08/21/texas-governor-calls-justice-dept-probe-muslim-washing-stations/"
   ],
   [
-    "donald",
+    "team",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/23/trump-sowing-election-distrust"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "secretary",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "balance",
+    14,
+    "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis"
+  ],
+  [
+    "david",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/23/aardman-animations-founders-peter-lord-david-sproxton-interview-oscars-wallace-gromit-chicken-run"
+  ],
+  [
+    "don",
+    14,
+    "https://www.theguardian.com/film/2026/aug/22/stand-by-me-40th-anniversary"
   ],
   [
     "film",
@@ -161,34 +206,29 @@
     "https://www.theguardian.com/film/2026/aug/22/stand-by-me-40th-anniversary"
   ],
   [
-    "states",
-    13,
-    "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html"
-  ],
-  [
-    "mark",
-    13,
-    "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html"
-  ],
-  [
-    "american",
-    13,
-    "https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html"
-  ],
-  [
-    "freedom",
+    "donald",
     13,
     "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/"
   ],
   [
-    "children",
+    "despite",
     13,
-    "https://www.washingtonpost.com/obituaries/2026/08/22/she-set-aside-fiddle-raise-nine-children-99-she-made-her-opry-debut/"
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "trump's",
+    "ice",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "several",
+    13,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "love",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/23/democrats-abdul-el-sayed-progressives"
   ],
   [
     "social",
@@ -196,29 +236,34 @@
     "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war"
   ],
   [
-    "sex",
+    "series",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/23/this-is-how-we-do-it-since-having-cancer-im-more-open-before-i-was-straight-now-im-queer"
+    "https://www.theguardian.com/us-news/2026/aug/23/trump-sowing-election-distrust"
   ],
   [
-    "stop",
+    "company",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/21/colorado-river-water-crisis-plan"
+    "https://www.theguardian.com/us-news/2026/aug/23/iryna-zarutska-charlotte-nc-lawsuit"
   ],
   [
-    "balance",
+    "video",
     13,
-    "https://www.theguardian.com/film/2026/aug/22/stand-by-me-40th-anniversary"
+    "https://www.theguardian.com/us-news/2026/aug/23/massachusetts-officer-death-home-wife-arrest-warrant"
   ],
   [
-    "led",
-    12,
-    "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
+    "running",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/23/best-womens-trail-road-running-shoes"
   ],
   [
-    "voters",
-    12,
-    "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html"
+    "buying",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/23/best-womens-trail-road-running-shoes"
+  ],
+  [
+    "candidate",
+    13,
+    "https://www.latimes.com/california/story/2026-08-23/how-did-nithya-do-as"
   ],
   [
     "again",
@@ -226,84 +271,64 @@
     "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html"
   ],
   [
-    "politics",
-    12,
-    "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html"
-  ],
-  [
-    "fire",
-    12,
-    "https://www.washingtonpost.com/nation/2026/08/23/can-you-rebuild-community-before-you-rebuild-its-homes/"
-  ],
-  [
-    "space",
-    12,
-    "https://www.washingtonpost.com/nation/2026/08/21/white-house-space-policy-aims-1000-launches-year-by-2030/"
-  ],
-  [
-    "past",
-    12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "british",
-    12,
-    "https://www.theguardian.com/music/2026/aug/23/jorja-smith-what-are-the-odds-interview"
-  ],
-  [
-    "love",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/23/democrats-abdul-el-sayed-progressives"
-  ],
-  [
     "experts",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/23/trump-sowing-election-distrust"
-  ],
-  [
-    "full",
-    12,
-    "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei"
+    "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis"
   ],
   [
     "york",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/23/luigi-mangione-state-case-brian-thompson"
+    "https://www.theguardian.com/us-news/2026/aug/23/hakeem-jeffries-jared-kushner-meeting"
   ],
   [
-    "police",
+    "late",
     12,
-    "https://www.theguardian.com/culture/2026/aug/23/black-august-study-meditate-read"
+    "https://www.theguardian.com/us-news/2026/aug/23/ex-abercrombie-ceo-mentally-fit-sex-trafficking-trial"
   ],
   [
-    "system",
+    "filter",
     12,
-    "https://www.theguardian.com/culture/2026/aug/23/black-august-study-meditate-read"
+    "https://www.theguardian.com/thefilter-us/2026/aug/23/best-womens-trail-road-running-shoes"
   ],
   [
-    "don",
+    "guide",
     12,
-    "https://www.theguardian.com/culture/2026/aug/23/the-country-of-my-birth-has-lost-its-heart-miriam-margolyes-on-how-to-fix-broken-britain"
+    "https://www.theguardian.com/thefilter-us/2026/aug/23/best-womens-trail-road-running-shoes"
   ],
   [
-    "travel",
+    "point",
     12,
-    "https://www.theguardian.com/commentisfree/2026/aug/22/natalie-harp-republicans-feminists"
+    "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide"
   ],
   [
-    "games",
+    "game",
     12,
-    "https://www.theguardian.com/sport/2026/aug/22/wnba-sex-toys-thrown-court-natasha-cloud-basketball"
+    "https://www.theguardian.com/football/2026/aug/23/hull-punish-manchester-united-defence-michael-carrick-attack-bigger-concern"
   ],
   [
-    "buying",
+    "stop",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/aug/22/best-cheese-storage"
+    "https://www.theguardian.com/us-news/2026/aug/21/colorado-river-water-crisis-plan"
   ],
   [
-    "iran",
+    "sen",
+    12,
+    "https://www.cbsnews.com/video/senate-primary-candidate-rep-seth-moulton-says-generational-change-is-an-authentic-issue/"
+  ],
+  [
+    "line",
     11,
-    "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html"
+    "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
+  ],
+  [
+    "led",
+    11,
+    "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
+  ],
+  [
+    "feel",
+    11,
+    "https://www.nytimes.com/2026/08/23/us/politics/midterms-feel-like-2006-all-over-again.html"
   ],
   [
     "global",
@@ -311,29 +336,19 @@
     "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html"
   ],
   [
-    "oil",
+    "local",
     11,
-    "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html"
+    "https://www.nytimes.com/2026/08/22/us/gary-indiana-11-day-power-outage.html"
   ],
   [
-    "trial",
+    "indycar",
     11,
-    "https://www.nytimes.com/2026/08/23/briefing/a-murder-trial-in-massachusetts.html"
+    "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/"
   ],
   [
-    "campaign",
+    "grand",
     11,
-    "https://www.washingtonpost.com/nation/2026/08/21/texas-governor-calls-justice-dept-probe-muslim-washing-stations/"
-  ],
-  [
-    "far",
-    11,
-    "https://www.washingtonpost.com/politics/2026/08/21/democrats-remain-far-behind-gop-cash-hand-midterms-near/"
-  ],
-  [
-    "china",
-    11,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/"
   ],
   [
     "loss",
@@ -341,38 +356,23 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "questions",
+    "field",
     11,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "several",
+    "north",
     11,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "minister",
+    "debt",
     11,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis"
   ],
   [
-    "south",
+    "young",
     11,
-    "https://www.theguardian.com/music/2026/aug/23/jorja-smith-what-are-the-odds-interview"
-  ],
-  [
-    "media",
-    11,
-    "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war"
-  ],
-  [
-    "different",
-    11,
-    "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane"
-  ],
-  [
-    "company",
-    11,
-    "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane"
+    "https://www.theguardian.com/environment/2026/aug/23/london-low-emission-zone-working-other-cities-cautious-clean-air"
   ]
 ];
