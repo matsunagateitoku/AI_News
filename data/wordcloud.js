@@ -2,43 +2,33 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    75,
+    76,
     "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
   ],
   [
     "president",
-    47,
+    49,
     "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
   ],
   [
     "war",
-    28,
+    34,
     "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html"
   ],
   [
     "canada",
-    25,
+    24,
     "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html"
   ],
   [
-    "american",
-    21,
-    "https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html"
-  ],
-  [
-    "death",
-    21,
-    "https://www.nytimes.com/2026/08/22/us/francis-clifford-smith-dead.html"
+    "family",
+    23,
+    "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream"
   ],
   [
     "children",
-    21,
+    22,
     "https://www.washingtonpost.com/obituaries/2026/08/22/she-set-aside-fiddle-raise-nine-children-99-she-made-her-opry-debut/"
-  ],
-  [
-    "family",
-    21,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream"
   ],
   [
     "trade",
@@ -51,64 +41,74 @@
     "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
   ],
   [
+    "series",
+    20,
+    "https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip"
+  ],
+  [
     "food",
     20,
-    "https://www.theguardian.com/us-news/2026/aug/22/eyedrop-recall-clear-eyes"
+    "https://www.theguardian.com/thefilter-us/2026/aug/22/best-cheese-storage"
   ],
   [
-    "media",
+    "american",
     19,
-    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
+    "https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html"
   ],
   [
-    "police",
+    "art",
     19,
-    "https://www.washingtonpost.com/investigations/2026/08/21/inside-police-investigation-how-rep-max-millers-daughter-got-hurt/"
+    "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html"
   ],
   [
-    "because",
+    "country",
+    19,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "death",
     19,
     "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights"
   ],
   [
-    "art",
-    18,
-    "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html"
+    "trial",
+    19,
+    "https://www.theguardian.com/us-news/2026/aug/22/karmelo-anthony-texas-trial"
   ],
   [
-    "social",
+    "media",
     18,
     "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
   ],
   [
-    "country",
+    "police",
     18,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.washingtonpost.com/investigations/2026/08/21/inside-police-investigation-how-rep-max-millers-daughter-got-hurt/"
   ],
   [
-    "trial",
+    "because",
     18,
-    "https://www.theguardian.com/us-news/2026/aug/22/karmelo-anthony-texas-trial"
-  ],
-  [
-    "film",
-    18,
-    "https://www.theguardian.com/film/2026/aug/22/stand-by-me-40th-anniversary"
-  ],
-  [
-    "ice",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/culture/2026/aug/23/the-country-of-my-birth-has-lost-its-heart-miriam-margolyes-on-how-to-fix-broken-britain"
   ],
   [
     "don",
-    17,
-    "https://www.theguardian.com/society/2026/aug/22/my-ability-to-cope-was-unravelling-how-i-navigated-adhd-and-childbirth-and-seven-things-i-learned"
+    18,
+    "https://www.theguardian.com/culture/2026/aug/23/the-country-of-my-birth-has-lost-its-heart-miriam-margolyes-on-how-to-fix-broken-britain"
   ],
   [
-    "son",
+    "black",
+    18,
+    "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea"
+  ],
+  [
+    "political",
     17,
-    "https://www.theguardian.com/society/2026/aug/22/my-ability-to-cope-was-unravelling-how-i-navigated-adhd-and-childbirth-and-seven-things-i-learned"
+    "https://www.nytimes.com/2026/08/23/opinion/culture/heroine-journey-odyssey-barbie.html"
+  ],
+  [
+    "social",
+    17,
+    "https://www.washingtonpost.com/nation/2026/08/21/california-set-pass-strict-social-media-restrictions-protect-teens/"
   ],
   [
     "court",
@@ -116,14 +116,19 @@
     "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine"
   ],
   [
-    "series",
+    "film",
     17,
-    "https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip"
+    "https://www.theguardian.com/film/2026/aug/22/stand-by-me-40th-anniversary"
   ],
   [
-    "administration",
+    "race",
     16,
-    "https://www.washingtonpost.com/nation/2026/08/21/white-house-space-policy-aims-1000-launches-year-by-2030/"
+    "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html"
+  ],
+  [
+    "ice",
+    16,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "team",
@@ -131,9 +136,19 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "despite",
-    15,
-    "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
+    "body",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights"
+  ],
+  [
+    "donald",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights"
+  ],
+  [
+    "iran",
+    16,
+    "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei"
   ],
   [
     "states",
@@ -141,24 +156,29 @@
     "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html"
   ],
   [
-    "race",
+    "led",
     15,
-    "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html"
+    "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html"
   ],
   [
-    "body",
+    "power",
     15,
-    "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights"
+    "https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html"
   ],
   [
-    "summer",
+    "office",
     15,
-    "https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs"
+    "https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html"
   ],
   [
-    "black",
+    "administration",
     15,
-    "https://www.theguardian.com/music/2026/aug/22/the-beatles-abbey-road-album-cover-zebra-crossing"
+    "https://www.washingtonpost.com/nation/2026/08/21/white-house-space-policy-aims-1000-launches-year-by-2030/"
+  ],
+  [
+    "killed",
+    15,
+    "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea"
   ],
   [
     "minister",
@@ -166,34 +186,19 @@
     "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
   ],
   [
-    "led",
+    "several",
     14,
-    "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "star",
+    "trump's",
     14,
-    "https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "campaign",
+    "record",
     14,
-    "https://www.washingtonpost.com/nation/2026/08/21/texas-governor-calls-justice-dept-probe-muslim-washing-stations/"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights"
-  ],
-  [
-    "political",
-    14,
-    "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail"
-  ],
-  [
-    "stop",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/22/omaha-nebraska-school-district-shock-gloves-police"
+    "https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip"
   ],
   [
     "season",
@@ -201,14 +206,19 @@
     "https://www.theguardian.com/film/2026/aug/22/meghan-markles-casting-in-the-gentlemen-reportedly-withdrawn-after-uk-backlash"
   ],
   [
-    "love",
+    "company",
     14,
-    "https://www.theguardian.com/commentisfree/2026/aug/22/the-black-farmer-tv-clarksons-farm-minorities"
+    "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
   ],
   [
-    "game",
+    "products",
     14,
-    "https://www.theguardian.com/football/2026/aug/23/jose-mourinho-real-madrid-romance-espanyol-la-liga"
+    "https://www.theguardian.com/thefilter-us/2026/aug/22/best-cheese-storage"
+  ],
+  [
+    "feel",
+    13,
+    "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html"
   ],
   [
     "mark",
@@ -216,9 +226,19 @@
     "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
   ],
   [
-    "red",
+    "despite",
     13,
-    "https://www.nytimes.com/2026/08/22/us/politics/angie-nixon-florida-senate-socialist.html"
+    "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
+  ],
+  [
+    "united",
+    13,
+    "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html"
+  ],
+  [
+    "politics",
+    13,
+    "https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html"
   ],
   [
     "california",
@@ -226,14 +246,29 @@
     "https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html"
   ],
   [
-    "power",
+    "star",
     13,
     "https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html"
   ],
   [
-    "died",
+    "governor",
     13,
-    "https://www.washingtonpost.com/obituaries/2026/08/22/she-set-aside-fiddle-raise-nine-children-99-she-made-her-opry-debut/"
+    "https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html"
+  ],
+  [
+    "again",
+    13,
+    "https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html"
+  ],
+  [
+    "campaign",
+    13,
+    "https://www.washingtonpost.com/nation/2026/08/21/texas-governor-calls-justice-dept-probe-muslim-washing-stations/"
+  ],
+  [
+    "economic",
+    13,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "released",
@@ -241,19 +276,19 @@
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "killed",
+    "russian",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights"
+    "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea"
   ],
   [
-    "record",
+    "judge",
     13,
-    "https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip"
+    "https://www.theguardian.com/us-news/2026/aug/22/karmelo-anthony-texas-trial"
   ],
   [
-    "york",
+    "stop",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/22/eyedrop-recall-clear-eyes"
+    "https://www.theguardian.com/us-news/2026/aug/22/omaha-nebraska-school-district-shock-gloves-police"
   ],
   [
     "freedom",
@@ -266,14 +301,19 @@
     "https://www.theguardian.com/film/2026/aug/22/stand-by-me-40th-anniversary"
   ],
   [
-    "products",
+    "buying",
     13,
     "https://www.theguardian.com/thefilter-us/2026/aug/22/best-cheese-storage"
   ],
   [
-    "buying",
+    "online",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/22/best-cheese-storage"
+    "https://www.theguardian.com/artanddesign/2026/aug/22/the-faces-behind-the-feeds-gen-zs-private-lives-and-public-posts-in-pictures"
+  ],
+  [
+    "game",
+    13,
+    "https://www.theguardian.com/football/2026/aug/23/jose-mourinho-real-madrid-romance-espanyol-la-liga"
   ],
   [
     "games",
@@ -281,39 +321,24 @@
     "https://www.theguardian.com/sport/2026/aug/22/wnba-sex-toys-thrown-court-natasha-cloud-basketball"
   ],
   [
+    "son",
+    13,
+    "https://www.theguardian.com/sport/2026/aug/22/bills-mourn-unthinkable-tragedy-after-death-of-ed-olivers-two-year-old-son"
+  ],
+  [
+    "love",
+    13,
+    "https://www.theguardian.com/sport/2026/aug/22/bills-mourn-unthinkable-tragedy-after-death-of-ed-olivers-two-year-old-son"
+  ],
+  [
     "ukraine",
     13,
     "https://www.theguardian.com/world/2026/aug/23/ukraine-war-briefing-macron-focuses-on-delivery-of-missile-interceptors-as-russian-attacks-intensify"
   ],
   [
-    "united",
+    "red",
     12,
-    "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html"
-  ],
-  [
-    "human",
-    12,
-    "https://www.nytimes.com/2026/08/22/magazine/priya-parker-interview.html"
-  ],
-  [
-    "democratic",
-    12,
-    "https://www.nytimes.com/2026/08/22/opinion/andy-beshear-president-kentucky.html"
-  ],
-  [
-    "governor",
-    12,
-    "https://www.nytimes.com/2026/08/22/opinion/andy-beshear-president-kentucky.html"
-  ],
-  [
-    "music",
-    12,
-    "https://www.washingtonpost.com/obituaries/2026/08/22/she-set-aside-fiddle-raise-nine-children-99-she-made-her-opry-debut/"
-  ],
-  [
-    "million",
-    12,
-    "https://www.washingtonpost.com/politics/2026/08/21/democrats-remain-far-behind-gop-cash-hand-midterms-near/"
+    "https://www.nytimes.com/2026/08/22/us/politics/angie-nixon-florida-senate-socialist.html"
   ],
   [
     "least",
@@ -321,58 +346,33 @@
     "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "several",
+    "past",
     12,
     "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "company",
+    "return",
     12,
-    "https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs"
+    "https://www.theguardian.com/culture/2026/aug/23/the-country-of-my-birth-has-lost-its-heart-miriam-margolyes-on-how-to-fix-broken-britain"
   ],
   [
-    "judge",
+    "french",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/22/karmelo-anthony-texas-trial"
+    "https://www.theguardian.com/commentisfree/2026/aug/23/is-a-french-sunday-the-secret-to-a-healthier-happier-life"
+  ],
+  [
+    "decision",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/22/omaha-nebraska-school-district-shock-gloves-police"
+  ],
+  [
+    "senate",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory"
   ],
   [
     "guide",
     12,
     "https://www.theguardian.com/thefilter-us/2026/aug/22/best-cheese-storage"
-  ],
-  [
-    "online",
-    12,
-    "https://www.theguardian.com/artanddesign/2026/aug/22/the-faces-behind-the-feeds-gen-zs-private-lives-and-public-posts-in-pictures"
-  ],
-  [
-    "sex",
-    12,
-    "https://www.theguardian.com/sport/2026/aug/22/wnba-sex-toys-thrown-court-natasha-cloud-basketball"
-  ],
-  [
-    "prime",
-    11,
-    "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html"
-  ],
-  [
-    "grand",
-    11,
-    "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html"
-  ],
-  [
-    "meghan",
-    11,
-    "https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html"
-  ],
-  [
-    "residents",
-    11,
-    "https://www.nytimes.com/2026/08/22/us/gary-indiana-11-day-power-outage.html"
-  ],
-  [
-    "working",
-    11,
-    "https://www.nytimes.com/2026/08/22/opinion/andy-beshear-president-kentucky.html"
   ]
 ];
