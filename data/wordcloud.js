@@ -2,113 +2,118 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    69,
-    "https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html"
+    68,
+    "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html"
   ],
   [
     "president",
-    34,
-    "https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html"
+    30,
+    "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html"
   ],
   [
     "iran",
-    31,
-    "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html"
+    30,
+    "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran"
+  ],
+  [
+    "ukraine",
+    29,
+    "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html"
   ],
   [
     "fire",
-    28,
-    "https://www.washingtonpost.com/nation/2026/08/23/can-you-rebuild-community-before-you-rebuild-its-homes/"
-  ],
-  [
-    "children",
-    28,
-    "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-social-media-conspiracy-theories"
-  ],
-  [
-    "dan",
-    26,
-    "https://www.theguardian.com/us-news/2026/aug/24/dan-sullivan-endorsement-alaska-senate-election"
-  ],
-  [
-    "race",
-    26,
-    "https://www.theguardian.com/us-news/2026/aug/24/dan-sullivan-endorsement-alaska-senate-election"
-  ],
-  [
-    "political",
     25,
-    "https://www.theguardian.com/us-news/2026/aug/24/us-companies-voting-rights-raga"
+    "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html"
+  ],
+  [
+    "media",
+    25,
+    "https://www.theguardian.com/sport/2026/aug/24/the-men-claiming-to-defend-womens-sports-are-throwing-sex-toys-at-female-athletes"
   ],
   [
     "economic",
     24,
-    "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "senate",
+    "social",
     24,
-    "https://www.nytimes.com/2026/08/24/us/politics/democrats-republicans-midterms-senate-majority.html"
-  ],
-  [
-    "canada",
-    23,
-    "https://www.nytimes.com/2026/08/24/podcasts/the-headlines/canada-tariffs-usps-ballots.html"
+    "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-social-media-conspiracy-theories"
   ],
   [
     "war",
-    23,
-    "https://www.nytimes.com/2026/08/24/podcasts/the-headlines/canada-tariffs-usps-ballots.html"
-  ],
-  [
-    "family",
-    23,
-    "https://www.theguardian.com/film/2026/aug/24/my-feelgood-movie-saw"
-  ],
-  [
-    "country",
     22,
-    "https://www.nytimes.com/2026/08/24/magazine/huckleberry-finn-teachers-students-schools.html"
+    "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html"
   ],
   [
-    "freedom",
-    21,
-    "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/"
+    "food",
+    22,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/24/us-tipping-culture-uk-service-charges"
   ],
   [
-    "sullivan",
+    "senate",
     21,
-    "https://www.theguardian.com/us-news/2026/aug/24/dan-sullivan-endorsement-alaska-senate-election"
+    "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html"
   ],
   [
     "death",
-    20,
+    21,
     "https://www.washingtonpost.com/nation/2026/08/24/illinois-officer-convicted-sonya-massey-killing-has-died-lawyer-says/"
   ],
   [
-    "thousands",
-    19,
-    "https://www.nytimes.com/2026/08/24/us/politics/farmers-federal-workers-exodus.html"
+    "children",
+    21,
+    "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-social-media-conspiracy-theories"
   ],
   [
-    "administration",
-    19,
-    "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates"
+    "political",
+    21,
+    "https://www.theguardian.com/us-news/2026/aug/24/us-companies-voting-rights-raga"
   ],
   [
-    "black",
-    19,
-    "https://www.theguardian.com/world/2026/aug/24/scrapping-of-berlin-swimming-day-for-black-children-becomes-latest-in-long-list-of-race-linked-pool-rows"
+    "canada",
+    20,
+    "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html"
+  ],
+  [
+    "products",
+    20,
+    "https://www.theguardian.com/thefilter-us/2026/aug/24/best-labor-day-sales-deals"
+  ],
+  [
+    "race",
+    20,
+    "https://www.theguardian.com/us-news/2026/aug/24/dan-sullivan-endorsement-alaska-senate-election"
   ],
   [
     "trade",
-    18,
-    "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html"
+    19,
+    "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html"
   ],
   [
-    "media",
+    "enough",
+    19,
+    "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html"
+  ],
+  [
+    "democratic",
+    19,
+    "https://www.nytimes.com/2026/08/23/style/eon-huntley-dsa-bergdorf-goodman.html"
+  ],
+  [
+    "campaign",
+    19,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "ice",
+    19,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "latest",
     18,
-    "https://www.theguardian.com/sport/2026/aug/24/the-men-claiming-to-defend-womens-sports-are-throwing-sex-toys-at-female-athletes"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
     "trial",
@@ -116,109 +121,104 @@
     "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-social-media-conspiracy-theories"
   ],
   [
-    "latest",
-    17,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "social",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-social-media-conspiracy-theories"
-  ],
-  [
-    "food",
-    17,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/24/us-tipping-culture-uk-service-charges"
-  ],
-  [
-    "democratic",
-    16,
-    "https://www.nytimes.com/2026/08/24/us/politics/independent-candidates-challenge-republicans.html"
-  ],
-  [
-    "california",
-    16,
-    "https://www.nytimes.com/2026/08/24/us/california-bonta-paramount-warner-settlement-talks.html"
-  ],
-  [
-    "ice",
-    16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "because",
-    16,
-    "https://www.theguardian.com/film/2026/aug/24/my-feelgood-movie-saw"
-  ],
-  [
-    "secretary",
-    15,
-    "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html"
-  ],
-  [
-    "sanctions",
-    15,
-    "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html"
-  ],
-  [
-    "democrats",
-    15,
-    "https://www.nytimes.com/2026/08/24/us/politics/democrats-republicans-midterms-senate-majority.html"
-  ],
-  [
-    "campaign",
-    15,
-    "https://www.nytimes.com/2026/08/24/us/politics/military-boat-strike.html"
-  ],
-  [
-    "game",
-    15,
-    "https://www.theguardian.com/sport/2026/aug/24/the-men-claiming-to-defend-womens-sports-are-throwing-sex-toys-at-female-athletes"
+    "dan",
+    18,
+    "https://www.theguardian.com/us-news/2026/aug/24/dan-sullivan-endorsement-alaska-senate-election"
   ],
   [
     "body",
-    15,
+    17,
     "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-social-media-conspiracy-theories"
   ],
   [
-    "reno",
+    "california",
+    17,
+    "https://www.theguardian.com/football/2026/aug/24/toddler-pitch-invader-mls-minnesota-united-san-jose-earthquakes"
+  ],
+  [
+    "paramount",
+    17,
+    "https://www.theguardian.com/film/2026/aug/24/mark-ruffalo-fires-back-paramount-oracle-accused-antisemitic-tropes-israel"
+  ],
+  [
+    "south",
+    16,
+    "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html"
+  ],
+  [
+    "working",
+    16,
+    "https://www.nytimes.com/2026/08/23/style/eon-huntley-dsa-bergdorf-goodman.html"
+  ],
+  [
+    "york",
+    16,
+    "https://www.nytimes.com/2026/08/23/style/eon-huntley-dsa-bergdorf-goodman.html"
+  ],
+  [
+    "mark",
+    16,
+    "https://www.nytimes.com/2026/08/24/business/mark-walter-insurance-dodgers-lakers.html"
+  ],
+  [
+    "died",
+    16,
+    "https://www.washingtonpost.com/nation/2026/08/24/illinois-officer-convicted-sonya-massey-killing-has-died-lawyer-says/"
+  ],
+  [
+    "bessent",
+    16,
+    "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt"
+  ],
+  [
+    "family",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/24/the-pet-ill-never-forget-ernie-the-danger-dog-who-loves-dicing-with-death"
+  ],
+  [
+    "tariffs",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations"
+    "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html"
   ],
   [
-    "nevada",
+    "summer",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations"
+    "https://www.theguardian.com/thefilter-us/2026/aug/24/best-labor-day-sales-deals"
   ],
   [
-    "coffee",
+    "black",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/24/nypd-investigation-video-people-manhole"
+  ],
+  [
+    "san",
+    15,
+    "https://www.theguardian.com/sport/2026/aug/24/san-francisco-49ers-owner-jed-york-pleads-no-contest-after-arrest-at-ohio-trailer-park"
+  ],
+  [
+    "sullivan",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/24/dan-sullivan-endorsement-alaska-senate-election"
+  ],
+  [
+    "arrested",
     14,
-    "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html"
+    "https://www.nytimes.com/2026/08/24/us/uss-lincoln-sailor-father-arrested-immigration.html"
   ],
   [
-    "experts",
-    14,
-    "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html"
-  ],
-  [
-    "treasury",
-    14,
-    "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html"
-  ],
-  [
-    "american",
+    "ago",
     14,
     "https://www.nytimes.com/2026/08/24/us/west-texas-border-wall-ruidosa-corazon-sagrado.html"
   ],
   [
-    "died",
+    "far",
     14,
-    "https://www.washingtonpost.com/nation/2026/08/24/illinois-officer-convicted-sonya-massey-killing-has-died-lawyer-says/"
+    "https://www.nytimes.com/2026/08/24/us/politics/democrats-republicans-midterms-senate-majority.html"
   ],
   [
-    "team",
+    "freedom",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/"
   ],
   [
     "care",
@@ -226,44 +226,89 @@
     "https://www.theguardian.com/sport/2026/aug/24/the-men-claiming-to-defend-womens-sports-are-throwing-sex-toys-at-female-athletes"
   ],
   [
-    "feel",
+    "clancy",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/24/us-tipping-culture-uk-service-charges"
+    "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-social-media-conspiracy-theories"
   ],
   [
-    "summer",
+    "sanctions",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/24/indigenous-rock-art-border-wall"
+    "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran"
+  ],
+  [
+    "post",
+    14,
+    "https://www.theguardian.com/business/2026/aug/24/washington-post-reinstate-karen-attiah"
+  ],
+  [
+    "video",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/24/nypd-investigation-video-people-manhole"
+  ],
+  [
+    "treasury",
+    14,
+    "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt"
+  ],
+  [
+    "party",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/aug/24/new-york-times-divisive-progressives"
+  ],
+  [
+    "near",
+    13,
+    "https://www.nytimes.com/2026/08/24/us/west-texas-border-wall-ruidosa-corazon-sagrado.html"
   ],
   [
     "running",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/24/election-deniers-running-for-office"
-  ],
-  [
-    "road",
-    14,
-    "https://www.theguardian.com/world/2026/aug/24/distracted-italian-pedestrians-who-cross-road-while-on-phone-could-be-fined-under-new-code"
-  ],
-  [
-    "support",
     13,
-    "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html"
+    "https://www.nytimes.com/2026/08/23/style/eon-huntley-dsa-bergdorf-goodman.html"
   ],
   [
-    "republican",
+    "states",
     13,
-    "https://www.nytimes.com/2026/08/24/us/politics/aipac-rogers-michigan-senate.html"
+    "https://www.nytimes.com/2026/08/24/climate/cloud-seeding-west-drought-rain.html"
   ],
   [
-    "history",
+    "data",
     13,
-    "https://www.nytimes.com/2026/08/24/us/west-texas-border-wall-ruidosa-corazon-sagrado.html"
+    "https://www.nytimes.com/2026/08/24/climate/cloud-seeding-west-drought-rain.html"
   ],
   [
-    "ago",
+    "thousands",
     13,
-    "https://www.nytimes.com/2026/08/24/us/west-texas-border-wall-ruidosa-corazon-sagrado.html"
+    "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html"
+  ],
+  [
+    "nevada",
+    13,
+    "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html"
+  ],
+  [
+    "secretary",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "announced",
+    13,
+    "https://www.theguardian.com/music/2026/aug/24/meg-white-white-stripes-fascination"
+  ],
+  [
+    "music",
+    13,
+    "https://www.theguardian.com/music/2026/aug/24/meg-white-white-stripes-fascination"
+  ],
+  [
+    "filter",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/24/best-labor-day-sales-deals"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/24/best-labor-day-sales-deals"
   ],
   [
     "little",
@@ -276,103 +321,58 @@
     "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-social-media-conspiracy-theories"
   ],
   [
-    "enough",
+    "french",
     13,
+    "https://www.theguardian.com/world/2026/aug/24/parisians-out-why-french-have-had-enough-of-french-tourists"
+  ],
+  [
+    "kyiv",
+    12,
+    "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html"
+  ],
+  [
+    "country",
+    12,
+    "https://www.nytimes.com/2026/08/24/magazine/huckleberry-finn-teachers-students-schools.html"
+  ],
+  [
+    "reno",
+    12,
+    "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html"
+  ],
+  [
+    "military",
+    12,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "feel",
+    12,
     "https://www.theguardian.com/lifeandstyle/2026/aug/24/us-tipping-culture-uk-service-charges"
   ],
   [
-    "film",
-    13,
-    "https://www.theguardian.com/film/2026/aug/24/my-feelgood-movie-saw"
+    "officers",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/24/uscis-immigration-officers-reassigned"
   ],
   [
     "power",
-    13,
+    12,
     "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations"
   ],
   [
-    "career",
-    13,
-    "https://www.theguardian.com/artanddesign/2026/aug/24/nick-haymes-sons-entire-lives-chronograph"
-  ],
-  [
-    "party",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/aug/24/the-hill-i-will-die-on-music-festival-children-families"
-  ],
-  [
-    "filter",
-    13,
-    "https://www.theguardian.com/film/2026/aug/21/spa-weekend-review-comedy"
-  ],
-  [
-    "buying",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/23/best-womens-trail-road-running-shoes"
+    "valley",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations"
   ],
   [
     "scott",
     12,
-    "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html"
+    "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt"
   ],
   [
-    "states",
+    "film",
     12,
-    "https://www.nytimes.com/2026/08/24/us/politics/independent-candidates-challenge-republicans.html"
-  ],
-  [
-    "working",
-    12,
-    "https://www.nytimes.com/2026/08/24/us/conservative-women-manosphere-disapproval.html"
-  ],
-  [
-    "center",
-    12,
-    "https://www.nytimes.com/2026/08/24/us/conservative-women-manosphere-disapproval.html"
-  ],
-  [
-    "mark",
-    12,
-    "https://www.nytimes.com/2026/08/24/opinion/mark-carney-tariffs-canada-america.html"
-  ],
-  [
-    "whose",
-    12,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "wnba",
-    12,
-    "https://www.theguardian.com/sport/2026/aug/24/the-men-claiming-to-defend-womens-sports-are-throwing-sex-toys-at-female-athletes"
-  ],
-  [
-    "sky",
-    12,
-    "https://www.theguardian.com/sport/2026/aug/24/the-men-claiming-to-defend-womens-sports-are-throwing-sex-toys-at-female-athletes"
-  ],
-  [
-    "full",
-    12,
-    "https://www.theguardian.com/sport/2026/aug/24/the-men-claiming-to-defend-womens-sports-are-throwing-sex-toys-at-female-athletes"
-  ],
-  [
-    "clancy",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-social-media-conspiracy-theories"
-  ],
-  [
-    "review",
-    12,
-    "https://www.theguardian.com/books/2026/aug/24/betrayal-by-luke-harding-review-is-donald-trump-a-russian-asset"
-  ],
-  [
-    "possible",
-    12,
-    "https://www.theguardian.com/books/2026/aug/24/betrayal-by-luke-harding-review-is-donald-trump-a-russian-asset"
-  ],
-  [
-    "local",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/24/ice-officers-electric-shock-gloves"
+    "https://www.theguardian.com/tv-and-radio/2026/aug/24/john-oliver-subscriptions-smart-appliances"
   ]
 ];
