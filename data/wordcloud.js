@@ -2,78 +2,113 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    65,
-    "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html"
+    61,
+    "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html"
   ],
   [
     "president",
-    41,
+    42,
     "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
   ],
   [
-    "war",
-    27,
-    "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html"
-  ],
-  [
     "family",
-    27,
+    31,
     "https://www.theguardian.com/books/2026/aug/23/my-husband-died-surfing-accident-grief"
   ],
   [
     "race",
-    26,
+    29,
     "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html"
   ],
   [
-    "country",
-    26,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "fire",
-    23,
-    "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html"
-  ],
-  [
-    "crisis",
-    23,
-    "https://www.nytimes.com/2026/08/22/science/gulf-coast-hypoxia-fish.html"
-  ],
-  [
-    "death",
-    22,
-    "https://www.nytimes.com/2026/08/23/arts/television/hayden-panettiere-brian-hickerson-boyfriend-book-tour.html"
-  ],
-  [
     "freedom",
-    22,
+    26,
     "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/"
   ],
   [
+    "fire",
+    25,
+    "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html"
+  ],
+  [
+    "war",
+    23,
+    "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html"
+  ],
+  [
+    "death",
+    23,
+    "https://www.nytimes.com/2026/08/23/arts/television/hayden-panettiere-brian-hickerson-boyfriend-book-tour.html"
+  ],
+  [
+    "country",
+    23,
+    "https://www.nytimes.com/2026/08/24/world/asia/indonesia-el-nino-borneo-fire.html"
+  ],
+  [
     "canada",
-    19,
+    22,
     "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html"
   ],
   [
+    "black",
+    22,
+    "https://www.theguardian.com/world/2026/aug/24/ill-probably-feel-emotional-kindertransport-centenarian-prepares-to-revisit-site-of-family-separation"
+  ],
+  [
+    "game",
+    21,
+    "https://www.theguardian.com/sport/2026/aug/23/frustrated-lewis-hamilton-claims-ferrari-strategy-cost-him-f1-dutch-gp-podium"
+  ],
+  [
     "california",
+    20,
+    "https://www.nytimes.com/2026/08/24/us/california-bonta-paramount-warner-settlement-talks.html"
+  ],
+  [
+    "political",
+    20,
+    "https://www.theguardian.com/culture/2026/aug/23/black-august-study-meditate-read"
+  ],
+  [
+    "dan",
+    20,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/23/the-terror-devil-in-silver-review-hospital-horror"
+  ],
+  [
+    "food",
     19,
-    "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/24/new-start-after-60-grocer-brooklyn"
+  ],
+  [
+    "sullivan",
+    19,
+    "https://www.nbcnews.com/politics/2026-election/dan-sullivan-endorses-dan-sullivan-beat-dan-sullivan-perplexing-alaska-rcna594063"
+  ],
+  [
+    "iran",
+    18,
+    "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html"
+  ],
+  [
+    "senate",
+    18,
+    "https://www.nytimes.com/2026/08/24/us/politics/aipac-rogers-michigan-senate.html"
+  ],
+  [
+    "company",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/23/andrew-hiers-opera-singer-car-salesman"
+  ],
+  [
+    "media",
+    18,
+    "https://www.theguardian.com/us-news/2026/aug/23/natalie-harp-january-6-trump-capitol-tweets"
   ],
   [
     "because",
     18,
-    "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis"
-  ],
-  [
-    "food",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/aug/24/what-buddhist-wisdom-teaches-us-about-desire"
-  ],
-  [
-    "game",
-    18,
-    "https://www.theguardian.com/sport/2026/aug/23/frustrated-lewis-hamilton-claims-ferrari-strategy-cost-him-f1-dutch-gp-podium"
+    "https://www.theguardian.com/world/2026/aug/24/ill-probably-feel-emotional-kindertransport-centenarian-prepares-to-revisit-site-of-family-separation"
   ],
   [
     "democrats",
@@ -81,77 +116,62 @@
     "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
   ],
   [
-    "team",
+    "crisis",
     17,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/08/22/science/gulf-coast-hypoxia-fish.html"
   ],
   [
-    "company",
+    "social",
     17,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/23/andrew-hiers-opera-singer-car-salesman"
-  ],
-  [
-    "products",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/23/personal-care-products-unlabeled-toxic-chemicals"
-  ],
-  [
-    "political",
-    17,
-    "https://www.theguardian.com/environment/ng-interactive/2026/aug/23/drill-burnham-north-sea-oil-basin-totem-trump-headache-britain"
-  ],
-  [
-    "black",
-    17,
-    "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea"
-  ],
-  [
-    "iran",
-    15,
-    "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html"
-  ],
-  [
-    "democratic",
-    15,
-    "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
-  ],
-  [
-    "health",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/23/child-dies-brain-eating-amoeba-infection-louisiana"
-  ],
-  [
-    "video",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/23/massachusetts-officer-death-home-wife-arrest-warrant"
-  ],
-  [
-    "body",
-    15,
-    "https://www.theguardian.com/music/2026/aug/23/jorja-smith-what-are-the-odds-interview"
-  ],
-  [
-    "senate",
-    14,
-    "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html"
+    "https://www.theguardian.com/us-news/2026/aug/23/natalie-harp-january-6-trump-capitol-tweets"
   ],
   [
     "summer",
-    14,
+    16,
     "https://www.nytimes.com/2026/08/23/us/politics/trump-indycar-race-dc-america-250.html"
   ],
   [
     "music",
-    14,
+    16,
     "https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html"
   ],
   [
-    "field",
-    14,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "children",
+    15,
+    "https://www.washingtonpost.com/obituaries/2026/08/22/she-set-aside-fiddle-raise-nine-children-99-she-made-her-opry-debut/"
   ],
   [
-    "minister",
+    "latest",
+    15,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "love",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/23/democrats-abdul-el-sayed-progressives"
+  ],
+  [
+    "body",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/24/new-start-after-60-grocer-brooklyn"
+  ],
+  [
+    "trade",
+    14,
+    "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html"
+  ],
+  [
+    "reno",
+    14,
+    "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html"
+  ],
+  [
+    "ice",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "team",
     14,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
@@ -161,14 +181,9 @@
     "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-indycar-race-dc"
   ],
   [
-    "love",
+    "ukraine",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/23/democrats-abdul-el-sayed-progressives"
-  ],
-  [
-    "late",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/23/ex-abercrombie-ceo-mentally-fit-sex-trafficking-trial"
+    "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates"
   ],
   [
     "balance",
@@ -178,7 +193,7 @@
   [
     "economic",
     13,
-    "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html"
+    "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html"
   ],
   [
     "tariffs",
@@ -186,22 +201,32 @@
     "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html"
   ],
   [
+    "democratic",
+    13,
+    "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
+  ],
+  [
     "mark",
     13,
     "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html"
   ],
   [
-    "reno",
+    "york",
     13,
-    "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html"
+    "https://www.nytimes.com/2026/08/23/nyregion/new-york-dna-analysts-sued-rape-conviction.html"
   ],
   [
-    "ice",
+    "died",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/08/23/nyregion/nyc-cycling-bike-deaths.html"
   ],
   [
-    "running",
+    "loss",
+    13,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "guide",
     13,
     "https://www.theguardian.com/thefilter-us/2026/aug/23/best-womens-trail-road-running-shoes"
   ],
@@ -211,19 +236,24 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/23/best-womens-trail-road-running-shoes"
   ],
   [
-    "police",
+    "party",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/23/massachusetts-officer-death-home-wife-arrest-warrant"
+    "https://www.theguardian.com/us-news/2026/aug/23/democrats-abdul-el-sayed-progressives"
+  ],
+  [
+    "nevada",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire"
+  ],
+  [
+    "father",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/24/uss-lincoln-sailor-deployed-iran-war-father-arrested-by-ice"
   ],
   [
     "experts",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/23/luigi-mangione-state-case-brian-thompson"
-  ],
-  [
-    "young",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/24/the-kindness-of-strangers-i-was-a-young-solo-tourist-when-a-taxi-driver-became-aggressive-then-two-men-stepped-in"
+    "https://www.theguardian.com/us-news/2026/aug/21/colorado-river-water-crisis-plan"
   ],
   [
     "light",
@@ -236,19 +266,24 @@
     "https://www.theguardian.com/film/2026/aug/22/stand-by-me-40th-anniversary"
   ],
   [
+    "administration",
+    12,
+    "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
+  ],
+  [
+    "together",
+    12,
+    "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
+  ],
+  [
     "states",
     12,
-    "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html"
+    "https://www.nytimes.com/2026/08/24/us/california-bonta-paramount-warner-settlement-talks.html"
   ],
   [
-    "trade",
+    "thousands",
     12,
-    "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html"
-  ],
-  [
-    "indycar",
-    12,
-    "https://www.nytimes.com/2026/08/23/us/politics/trump-indycar-race-dc-america-250.html"
+    "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html"
   ],
   [
     "ago",
@@ -256,44 +291,24 @@
     "https://www.nytimes.com/2026/08/23/us/arizona-canals-colorado-river.html"
   ],
   [
-    "won",
-    12,
-    "https://www.nytimes.com/2026/08/23/us/arizona-canals-colorado-river.html"
-  ],
-  [
-    "expected",
-    12,
-    "https://www.nytimes.com/2026/08/23/weather/southwest-heat-wave.html"
-  ],
-  [
-    "york",
-    12,
-    "https://www.nytimes.com/2026/08/23/nyregion/new-york-dna-analysts-sued-rape-conviction.html"
-  ],
-  [
-    "died",
+    "far",
     12,
     "https://www.nytimes.com/2026/08/23/nyregion/nyc-cycling-bike-deaths.html"
   ],
   [
-    "grand",
+    "american",
     12,
-    "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/"
+    "https://www.washingtonpost.com/obituaries/2026/08/22/she-set-aside-fiddle-raise-nine-children-99-she-made-her-opry-debut/"
   ],
   [
-    "loss",
+    "field",
     12,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "despite",
+    "running",
     12,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "latest",
-    12,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/thefilter-us/2026/aug/23/best-womens-trail-road-running-shoes"
   ],
   [
     "filter",
@@ -301,14 +316,14 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/23/best-womens-trail-road-running-shoes"
   ],
   [
-    "guide",
+    "dies",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/aug/23/best-womens-trail-road-running-shoes"
+    "https://www.theguardian.com/us-news/2026/aug/23/child-dies-brain-eating-amoeba-infection-louisiana"
   ],
   [
-    "nevada",
+    "health",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire"
+    "https://www.theguardian.com/us-news/2026/aug/23/child-dies-brain-eating-amoeba-infection-louisiana"
   ],
   [
     "elections",
@@ -316,63 +331,48 @@
     "https://www.theguardian.com/us-news/2026/aug/23/hakeem-jeffries-jared-kushner-meeting"
   ],
   [
-    "social",
+    "late",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war"
+    "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke"
   ],
   [
-    "media",
+    "san",
     12,
-    "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war"
+    "https://www.theguardian.com/us-news/2026/aug/21/darth-vader-flock-cameras-san-diego"
   ],
   [
-    "ukraine",
+    "young",
     12,
-    "https://www.theguardian.com/world/2026/aug/24/ukraine-war-briefing-nord-stream-bombings-were-not-us-zelenskyy-insists"
+    "https://www.theguardian.com/artanddesign/2026/aug/24/nick-haymes-sons-entire-lives-chronograph"
   ],
   [
-    "series",
+    "sky",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/24/the-kindness-of-strangers-i-was-a-young-solo-tourist-when-a-taxi-driver-became-aggressive-then-two-men-stepped-in"
+    "https://www.theguardian.com/sport/2026/aug/23/enes-kanter-wnba-ejected-natasha-cloud"
   ],
   [
-    "line",
-    11,
-    "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html"
+    "film",
+    12,
+    "https://www.theguardian.com/film/2026/aug/24/on-different-grounds-review-nollywood-bollywood"
   ],
   [
-    "son",
+    "start",
     11,
-    "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
+    "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html"
   ],
   [
-    "administration",
+    "global",
     11,
-    "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
+    "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html"
   ],
   [
-    "again",
+    "talks",
     11,
-    "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html"
+    "https://www.nytimes.com/2026/08/24/us/california-bonta-paramount-warner-settlement-talks.html"
   ],
   [
-    "office",
+    "paramount",
     11,
-    "https://www.nytimes.com/2026/08/23/nyregion/new-york-dna-analysts-sued-rape-conviction.html"
-  ],
-  [
-    "far",
-    11,
-    "https://www.nytimes.com/2026/08/23/nyregion/nyc-cycling-bike-deaths.html"
-  ],
-  [
-    "american",
-    11,
-    "https://www.washingtonpost.com/obituaries/2026/08/22/she-set-aside-fiddle-raise-nine-children-99-she-made-her-opry-debut/"
-  ],
-  [
-    "sea",
-    11,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/08/24/us/california-bonta-paramount-warner-settlement-talks.html"
   ]
 ];
