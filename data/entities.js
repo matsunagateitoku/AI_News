@@ -3,170 +3,76 @@
   "GPE": [
     {
       "name": "Vogue Us",
-      "count": 42,
+      "count": 49,
       "url": "https://www.theguardian.com/fashion/2026/aug/21/adept-cover-stars-dogs-fashion-ai-face-era-vogue-dogue",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 14,
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/aug/23/drill-burnham-north-sea-oil-basin-totem-trump-headache-britain",
-      "source": "The Guardian"
     },
     {
       "name": "Canada",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 11,
-      "url": "https://www.theguardian.com/culture/2026/aug/23/black-august-study-meditate-read",
+      "count": 18,
+      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 16,
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/aug/23/drill-burnham-north-sea-oil-basin-totem-trump-headache-britain",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ukraine",
+      "count": 13,
+      "url": "https://www.theguardian.com/world/2026/aug/24/ukraine-war-briefing-nord-stream-bombings-were-not-us-zelenskyy-insists",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Reno",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
       "source": "The Guardian"
     },
     {
       "name": "L.A.",
-      "count": 11,
-      "url": "https://www.latimes.com/california/story/2026-08-23/how-did-nithya-do-as",
+      "count": 12,
+      "url": "https://www.latimes.com/california/story/2026-08-23/socal-weather-forecast-hottest-week-of-year-ahead",
       "source": "LA Times"
     },
     {
-      "name": "Texas",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/nation/2026/08/21/texas-governor-calls-justice-dept-probe-muslim-washing-stations/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "London",
-      "count": 9,
-      "url": "https://www.theguardian.com/environment/2026/aug/23/london-low-emission-zone-working-other-cities-cautious-clean-air",
+      "name": "Washington Dc",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-indycar-race-dc",
       "source": "The Guardian"
-    },
-    {
-      "name": "Florida",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
-      "source": "NY Times"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Margaret Brennan",
-      "count": 23,
-      "url": "https://www.cbsnews.com/news/seth-moulton-massachusetts-face-the-nation-08-23-2026/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Donald Trump ’S",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/trump-sowing-election-distrust",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Byron Donalds",
-      "count": 9,
-      "url": "https://www.cbsnews.com/news/byron-donalds-florida-governor-candidate-face-the-nation-transcript-08-23-2026/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Darline Graham",
-      "count": 9,
-      "url": "https://www.nbcnews.com/meet-the-press/video/tim-scott-says-without-question-darline-graham-is-qualified-for-senate-268736581916",
-      "source": "NBC News"
-    },
-    {
-      "name": "Seth Moulton",
-      "count": 8,
-      "url": "https://www.cbsnews.com/news/seth-moulton-massachusetts-face-the-nation-08-23-2026/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 8,
-      "url": "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Neel Kashkari",
-      "count": 7,
-      "url": "https://www.cbsnews.com/news/neel-kashkari-minneapolis-fed-face-the-nation-transcript-08-23-2026/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Tim Scott",
-      "count": 6,
-      "url": "https://www.nbcnews.com/meet-the-press/video/tim-scott-says-without-question-darline-graham-is-qualified-for-senate-268736581916",
-      "source": "NBC News"
-    },
-    {
-      "name": "Mark Ruffalo",
-      "count": 6,
-      "url": "https://www.nbcnews.com/news/us-news/mark-ruffalo-paramount-antisemitism-accusation-dishonest-rcna594004",
-      "source": "NBC News"
-    },
-    {
-      "name": "Mark Carney",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html",
-      "source": "NY Times"
-    }
-  ],
-  "EVENT": [
-    {
-      "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Dutch Gp",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/aug/23/lando-norris-kimi-antonelli-george-russell-max-verstappen-crash-f1-dutch-grand-prix",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hurricane Sandy",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hurricane Lala",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Freedom 250 Grand Prix",
-      "count": 1,
-      "url": "https://thehill.com/homenews/administration/6045425-live-updates-canada-trade-war-indycar-race/",
-      "source": "The Hill"
     }
   ],
   "ORG": [
     {
       "name": "Trump Administration'S",
-      "count": 32,
+      "count": 36,
       "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
       "source": "NPR"
     },
     {
       "name": "The White House",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/trump-sowing-election-distrust",
+      "count": 19,
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-indycar-race-dc",
       "source": "The Guardian"
     },
     {
@@ -194,29 +100,141 @@
       "source": "NBC News"
     },
     {
-      "name": "Red Guardian",
+      "name": "Indycar",
       "count": 7,
-      "url": "https://www.theguardian.com/film/2026/aug/21/avengers-doomsday-robert-downey-jr-tony-stark-david-harbour-marvel",
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Hamas",
+      "count": 7,
+      "url": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Cnn",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/natalie-harp-january-6-trump-capitol-tweets",
       "source": "The Guardian"
     },
     {
-      "name": "Gop",
-      "count": 6,
-      "url": "https://www.cbsnews.com/video/face-the-nation-gottlieb-donalds-moulton/",
+      "name": "Guardian",
+      "count": 5,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/23/the-guardian-view-on-the-new-hungary-de-orbanising-at-pace",
+      "source": "The Guardian"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The U.S. Open",
+      "count": 2,
+      "url": "https://www.cbsnews.com/news/serena-williams-carlos-alcarez-us-open-mixed-doubles-tennis-sports/",
       "source": "CBS News"
     },
     {
-      "name": "Indycar Freedom 250 Grand Prix",
-      "count": 6,
-      "url": "https://www.foxnews.com/outkick-sports/drivers-hit-penalties-indycar-freedom-250-grand-prix-washington-dc",
-      "source": "Fox News"
+      "name": "The Freedom 250 Grand Prix",
+      "count": 2,
+      "url": "https://thehill.com/blogs/in-the-know/6045927-melania-trump-freedom-250-grand-prix/",
+      "source": "The Hill"
     },
     {
-      "name": "The Indycar Freedom 250 Grand Prix",
-      "count": 5,
-      "url": "https://www.foxnews.com/outkick-sports/trump-takes-honorary-lap-indycar-track-washington-freedom-250-grand-prix",
-      "source": "Fox News"
+      "name": "Wwii",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/08/23/opinion/housing-crisis-world-war-ii-shortage.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "World War Ii",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/08/23/opinion/housing-crisis-world-war-ii-shortage.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Hurricane Lala",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hurricane Sandy",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Labor Day",
+      "count": 1,
+      "url": "https://www.cbsnews.com/news/u-s-set-to-impose-50-percent-tariffs-on-canada-after-failed-talks/",
+      "source": "CBS News"
     }
   ],
-  "updated": "2026-08-23T19:25:11Z"
+  "PERSON": [
+    {
+      "name": "Donald Trump ’S",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/trump-sowing-election-distrust",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Melania Trump",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-indycar-race-dc",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Darline Graham",
+      "count": 9,
+      "url": "https://www.nbcnews.com/meet-the-press/video/tim-scott-says-without-question-darline-graham-is-qualified-for-senate-268736581916",
+      "source": "NBC News"
+    },
+    {
+      "name": "Mark Carney",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Kyle Kirkwood",
+      "count": 7,
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Sean Grayson",
+      "count": 6,
+      "url": "https://www.cbsnews.com/news/sean-grayson-former-sangamon-county-deputy-dies-in-prison/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Gilberto Gil",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/aug/21/gaia-wilmer-large-ensemble-parabolico-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Stewart Copeland",
+      "count": 5,
+      "url": "https://www.cbsnews.com/news/stewart-copeland-turns-his-studio-into-a-wild-orchestra-60-minutes/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Rachel Goldberg-Polin",
+      "count": 5,
+      "url": "https://www.cbsnews.com/news/extended-interview-rachel-goldberg-polin-on-grief-after-death-of-son-hersh-60-minutes/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Natalie Harp",
+      "count": 4,
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/natalie-harp-january-6-trump-capitol-tweets",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-08-24T02:23:54Z"
 };
