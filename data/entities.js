@@ -2,89 +2,83 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Has Quietly Sought Control Over Postal Service",
-      "count": 54,
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/mail-voting-supreme-court-postal-service-trump.html",
+      "name": "Trump Faces Limits",
+      "count": 50,
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-iran-maximum-sanctions.html",
       "source": "NY Times"
     },
     {
       "name": "The Us Senate",
-      "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/democrat-adam-hamilton-kansas-senate",
+      "count": 23,
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/ken-paxton-datacenters-plan-texas",
       "source": "The Guardian"
     },
     {
       "name": "Ai Overviews",
-      "count": 15,
+      "count": 17,
       "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
       "source": "The Guardian"
     },
     {
-      "name": "Gop Senate",
+      "name": "Cia",
       "count": 12,
-      "url": "https://www.nbcnews.com/video/kornacki-cam-watch-steve-analyze-south-carolina-runoff-election-results-268774981838",
-      "source": "NBC News"
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
-      "count": 11,
+      "count": 12,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Nfl",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/08/25/us/nfl-cte-brain-disease.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Us Treasury",
-      "count": 9,
-      "url": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The California Supreme Court",
-      "count": 9,
-      "url": "https://www.foxnews.com/politics/california-sheriff-doubles-down-seizing-ballots-state-supreme-court-hears-whether-he-must-return-them",
-      "source": "Fox News"
-    },
-    {
       "name": "Trump White House",
-      "count": 8,
+      "count": 11,
       "url": "https://www.theguardian.com/commentisfree/2026/aug/25/trump-justice-department-presidents-accountability",
       "source": "The Guardian"
     },
     {
-      "name": "Google Search",
-      "count": 7,
-      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
+      "name": "Gop Senate",
+      "count": 10,
+      "url": "https://www.nbcnews.com/video/kornacki-cam-watch-steve-analyze-south-carolina-runoff-election-results-268774981838",
+      "source": "NBC News"
+    },
+    {
+      "name": "Nfl",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/08/25/us/nfl-cte-brain-disease.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Guardian",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/ice-signal-chat-minnesota",
       "source": "The Guardian"
+    },
+    {
+      "name": "Supreme Court Ruling On Mail",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/08/25/us/mail-in-voting-states.html",
+      "source": "NY Times"
     }
   ],
   "EVENT": [
     {
-      "name": "Wimbledon",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/aug/25/arthur-fery-wimbledon-tennis-us-open-interview",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hurricane Helene",
-      "count": 2,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/24/north-carolina-senate-race-hurricane-helene",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Decision Day",
-      "count": 2,
-      "url": "https://www.nbcnews.com/meet-the-press/video/-dear-donald-battleground-district-voters-share-their-message-to-trump-268689477753",
-      "source": "NBC News"
-    },
-    {
-      "name": "World Robot Conference",
+      "name": "Iran Sanctions",
       "count": 1,
-      "url": "https://www.theguardian.com/world/gallery/2026/aug/25/from-mixed-martial-arts-to-mechanical-dogs-the-world-robot-conference-2026-in-pictures",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-iran-maximum-sanctions.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Operation Economic Outcast",
+      "count": 1,
+      "url": "https://www.theguardian.com/news/video/2026/aug/25/economic-d-day-how-desperate-is-trump-to-end-iran-war-the-latest",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hugo",
+      "count": 1,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/25/the-airport-chaplain-netflix-sbs-review-thoroughly-bingeable-tv-hugo-weaving",
       "source": "The Guardian"
     },
     {
@@ -94,16 +88,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Ukraine War",
+      "name": "Pro Bowl",
       "count": 1,
-      "url": "https://www.theguardian.com/music/2026/aug/25/kanye-west-ye-russia-concert-st-petersburg-gazprom-arena",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Earshot",
-      "count": 1,
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/25/ear-witness-turner-winner-lawrence-abu-hamdan-earshot-sound-evidence-exposees-of-human-rights-abuses",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/sports/story/2026-08-25/allen-robinson-retiring-nfl-receiver-jaguars-rams-bears-steelers",
+      "source": "LA Times"
     },
     {
       "name": "World Series",
@@ -112,127 +100,65 @@
       "source": "LA Times"
     },
     {
-      "name": "Operation Economic Outcast",
+      "name": "The U.S.-Israeli War",
       "count": 1,
-      "url": "https://thehill.com/policy/international/6048535-iran-retaliation-threat-trump-administration-us-sanctions-operation-economic-outcast/",
+      "url": "https://thehill.com/policy/international/6049608-pakistan-iran-peace-progress/",
       "source": "The Hill"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Vogue Us",
-      "count": 35,
-      "url": "https://www.theguardian.com/fashion/2026/aug/21/adept-cover-stars-dogs-fashion-ai-face-era-vogue-dogue",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 27,
-      "url": "https://www.nytimes.com/2026/08/25/business/us-bessent-china-iran.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Canada",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 25,
-      "url": "https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/nevada-federal-lawsuit-colorado-river",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Lake Ontario",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nevada",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/nevada-federal-lawsuit-colorado-river",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A.",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-08-24/why-this-summers-socal-heat-waves-feel-so-bad-hotter-nights-broiling-beaches",
-      "source": "LA Times"
-    },
-    {
-      "name": "Pennsylvania",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/john-fetterman-poll-republicans-democrats-pennsylvania.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City",
-      "count": 8,
-      "url": "https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley",
-      "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
+      "name": "Dolly Parton",
+      "count": 35,
+      "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Trump Tightens",
-      "count": 19,
+      "count": 22,
       "url": "https://www.nytimes.com/2026/08/25/business/us-bessent-china-iran.html",
       "source": "NY Times"
     },
     {
       "name": "Donald Trump",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/08/25/arts/television/jelly-roll-jimmy-kimmel-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Darline Graham",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/south-carolina-senate-runoff-election",
+      "count": 15,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/25/trump-justice-department-presidents-accountability",
       "source": "The Guardian"
     },
     {
       "name": "Lindsay Clancy",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/08/25/opinion/lindsay-clancy-postpartum-mom-kids-death.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Darline Graham",
       "count": 8,
-      "url": "https://www.nytimes.com/2026/08/24/us/lindsay-clancy-trial-religion-catholic.html",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/south-carolina-runoff-trump-test.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "John Ratcliffe",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Abdul El-Sayed",
+      "count": 7,
+      "url": "https://www.foxnews.com/media/second-lady-usha-vance-fires-back-pointed-jab-democratic-senate-nominee-abdul-el-sayed",
+      "source": "Fox News"
+    },
+    {
+      "name": "Ralph Norman",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/south-carolina-runoff-trump-test.html",
       "source": "NY Times"
     },
     {
       "name": "Bryan Armen Graham",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/aug/25/enes-kanter-freedom-transgender-wnba-natasha-cloud-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ralph Norman",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/south-carolina-senate-runoff-election",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mark Carney",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/25/canadians-trade-war-bullied-donald-trump-alliance-rupture",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Scott Bessent ‘",
-      "count": 6,
-      "url": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Harry Potter Tv",
       "count": 5,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/25/kit-harington-nicholas-hoult-hbo-harry-potter-tv-series",
+      "url": "https://www.theguardian.com/sport/2026/aug/25/enes-kanter-freedom-transgender-wnba-natasha-cloud-trump",
       "source": "The Guardian"
     },
     {
@@ -242,5 +168,67 @@
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-08-25T13:54:11Z"
+  "GPE": [
+    {
+      "name": "Vogue Us",
+      "count": 66,
+      "url": "https://www.theguardian.com/fashion/2026/aug/21/adept-cover-stars-dogs-fashion-ai-face-era-vogue-dogue",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-iran-maximum-sanctions.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Canada",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 22,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "China",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/08/25/business/us-bessent-china-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 13,
+      "url": "https://www.nytimes.com/article/where-to-eat-nyc-restaurants.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 10,
+      "url": "https://www.washingtonpost.com/nation/2026/08/24/ken-paxton-unveils-anti-data-center-plan-gop-voter-anger-mounts-texas/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Moscow",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Russia",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/25/young-americans-catholic-church-revival",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-08-25T19:35:32Z"
 };
