@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    95,
-    "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html"
-  ],
-  [
-    "parton",
-    79,
-    "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html"
+    77,
+    "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html"
   ],
   [
     "dolly",
-    76,
-    "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html"
+    71,
+    "https://www.nytimes.com/2026/08/26/podcasts/the-headlines/hegseth-military-generals-midterms-polls-dolly-parton.html"
+  ],
+  [
+    "parton",
+    70,
+    "https://www.nytimes.com/2026/08/26/podcasts/the-headlines/hegseth-military-generals-midterms-polls-dolly-parton.html"
   ],
   [
     "country",
-    52,
+    41,
     "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html"
   ],
   [
     "president",
-    48,
-    "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html"
+    40,
+    "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html"
   ],
   [
     "senate",
-    38,
-    "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html"
+    34,
+    "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html"
   ],
   [
     "music",
-    37,
+    30,
     "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html"
   ],
   [
-    "graham",
-    35,
-    "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html"
-  ],
-  [
-    "south",
-    33,
-    "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html"
-  ],
-  [
-    "runoff",
-    33,
-    "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html"
-  ],
-  [
-    "sen",
+    "american",
     29,
-    "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement"
+    "https://www.nytimes.com/2026/08/26/us/nfl-cte.html"
   ],
   [
-    "primary",
-    26,
-    "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html"
+    "graham",
+    24,
+    "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html"
   ],
   [
     "war",
-    26,
-    "https://www.nytimes.com/2026/08/25/us/hegseth-purge-army-generals.html"
+    23,
+    "https://www.nytimes.com/2026/08/26/business/energy-environment/diesel-prices-iran-war-oil.html"
   ],
   [
-    "late",
-    26,
-    "https://www.theguardian.com/us-news/2026/aug/25/us-weather-heat-dome-south-west"
+    "death",
+    23,
+    "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/"
   ],
   [
-    "tariffs",
-    25,
-    "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html"
-  ],
-  [
-    "died",
-    25,
-    "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-cancer-cause-death.html"
-  ],
-  [
-    "gop",
-    24,
-    "https://www.washingtonpost.com/nation/2026/08/24/ken-paxton-unveils-anti-data-center-plan-gop-voter-anger-mounts-texas/"
-  ],
-  [
-    "canada",
-    22,
-    "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html"
-  ],
-  [
-    "republican",
-    22,
-    "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html"
+    "star",
+    23,
+    "https://www.washingtonpost.com/obituaries/2026/08/25/dolly-parton-country-music-singer-cultural-icon-dies-80/"
   ],
   [
     "social",
     22,
-    "https://www.nytimes.com/2026/08/25/nyregion/us-open-2026-tennis.html"
+    "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html"
   ],
   [
-    "american",
+    "food",
     22,
-    "https://www.washingtonpost.com/obituaries/2026/08/25/dolly-parton-country-music-singer-cultural-icon-dies-80/"
+    "https://www.nytimes.com/2026/08/25/us/politics/trump-indycar-diplomatic-snub.html"
   ],
   [
-    "family",
-    22,
-    "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-music-career"
-  ],
-  [
-    "win",
-    22,
-    "https://www.theguardian.com/us-news/2026/aug/25/native-american-tribe-drove-out-mining-company"
-  ],
-  [
-    "carolina",
+    "products",
     21,
-    "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html"
+    "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html"
   ],
   [
-    "oklahoma",
+    "children",
     21,
-    "https://www.nytimes.com/2026/08/25/us/elections/oklahoma-governor-drummond-mazzei.html"
+    "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html"
   ],
   [
-    "center",
-    20,
-    "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-cancer-cause-death.html"
-  ],
-  [
-    "star",
-    20,
-    "https://www.nytimes.com/2026/08/25/us/nashville-mourns-dolly-parton.html"
-  ],
-  [
-    "iran",
-    20,
-    "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html"
-  ],
-  [
-    "trade",
-    20,
-    "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html"
-  ],
-  [
-    "fire",
-    20,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "latest",
-    20,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "republican",
+    21,
+    "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html"
   ],
   [
     "media",
     20,
-    "https://www.theguardian.com/global-development/2026/aug/26/iran-criminalises-contact-foreign-media-human-rights-crackdown"
+    "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html"
   ],
   [
-    "products",
+    "died",
     20,
-    "https://www.theguardian.com/world/2026/aug/25/canada-retaliatory-tariffs-on-range-of-us-goods"
-  ],
-  [
-    "food",
-    19,
-    "https://www.nytimes.com/2026/08/25/us/politics/trump-indycar-diplomatic-snub.html"
-  ],
-  [
-    "death",
-    19,
-    "https://www.nytimes.com/2026/08/25/us/nashville-mourns-dolly-parton.html"
-  ],
-  [
-    "darline",
-    19,
-    "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html"
-  ],
-  [
-    "sullivan",
-    19,
-    "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html"
-  ],
-  [
-    "released",
-    19,
-    "https://www.washingtonpost.com/nation/2026/08/24/illinois-officer-convicted-sonya-massey-killing-has-died-lawyer-says/"
-  ],
-  [
-    "china",
-    19,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "record",
-    19,
-    "https://www.theguardian.com/us-news/2026/aug/25/us-weather-heat-dome-south-west"
-  ],
-  [
-    "campaign",
-    18,
-    "https://www.nytimes.com/2026/08/25/us/elections/oklahoma-governor-drummond-mazzei.html"
-  ],
-  [
-    "law",
-    18,
-    "https://www.nytimes.com/2026/08/25/business/trump-canada-tariffs.html"
-  ],
-  [
-    "donald",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/aug/26/donald-trump-friends-diplomatic-iran-war-us-president"
-  ],
-  [
-    "term",
-    17,
-    "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html"
-  ],
-  [
-    "race",
-    17,
-    "https://www.nytimes.com/2026/08/25/us/politics/trump-indycar-diplomatic-snub.html"
-  ],
-  [
-    "election",
-    17,
-    "https://www.nytimes.com/2026/08/25/us/politics/everton-blair-georgia-runoff-house-david-scott.html"
-  ],
-  [
-    "dan",
-    17,
-    "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html"
-  ],
-  [
-    "democratic",
-    17,
-    "https://www.washingtonpost.com/nation/2026/08/24/some-texas-conservatives-are-planning-vote-democrat/"
-  ],
-  [
-    "crisis",
-    17,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "political",
-    17,
-    "https://www.theguardian.com/us-news/2026/aug/25/abdul-el-sayed-criticism-affordability-message"
-  ],
-  [
-    "singer",
-    16,
-    "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html"
-  ],
-  [
-    "mike",
-    16,
-    "https://www.nytimes.com/2026/08/25/us/elections/oklahoma-governor-drummond-mazzei.html"
-  ],
-  [
-    "wins",
-    16,
-    "https://www.nytimes.com/2026/08/25/us/elections/oklahoma-governor-drummond-mazzei.html"
-  ],
-  [
-    "governor",
-    16,
-    "https://www.nytimes.com/2026/08/25/us/elections/oklahoma-governor-drummond-mazzei.html"
-  ],
-  [
-    "scott",
-    16,
-    "https://www.nytimes.com/2026/08/25/us/politics/everton-blair-georgia-runoff-house-david-scott.html"
-  ],
-  [
-    "response",
-    16,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "career",
-    16,
-    "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-music-career"
-  ],
-  [
-    "court",
-    16,
-    "https://www.theguardian.com/world/2026/aug/26/yorgen-fenech-trial-daphne-caruana-galizia-claims-framed"
-  ],
-  [
-    "rep",
-    16,
-    "https://www.foxnews.com/us/prosecutor-infamous-killer-mom-case-says-women-lindsay-clancy-jury-may-bring-strange-twist-verdict"
-  ],
-  [
-    "cancer",
-    15,
     "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-cancer-cause-death.html"
   ],
   [
-    "mazzei",
-    15,
-    "https://www.nytimes.com/2026/08/25/us/elections/oklahoma-governor-drummond-mazzei.html"
+    "family",
+    20,
+    "https://www.nytimes.com/2026/08/26/arts/design/paul-williams-architect.html"
   ],
   [
-    "review",
-    15,
-    "https://www.nytimes.com/2026/08/25/us/politics/trump-saudi-nuclear-deal-congress-review.html"
+    "game",
+    20,
+    "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda"
   ],
   [
-    "early",
-    15,
-    "https://www.nytimes.com/2026/08/25/nyregion/serena-williams-alcaraz-us-open-photos.html"
+    "south",
+    19,
+    "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html"
   ],
   [
-    "projects",
+    "trial",
+    19,
+    "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/"
+  ],
+  [
+    "primary",
+    18,
+    "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html"
+  ],
+  [
+    "dan",
+    18,
+    "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html"
+  ],
+  [
+    "sullivan",
+    18,
+    "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html"
+  ],
+  [
+    "race",
+    18,
+    "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html"
+  ],
+  [
+    "latest",
+    18,
+    "https://www.nytimes.com/2026/08/26/world/canada/carney-canada-trump-tariffs-retaliate.html"
+  ],
+  [
+    "summer",
+    18,
+    "https://www.theguardian.com/us-news/2026/aug/26/new-york-subway-extreme-heat"
+  ],
+  [
+    "win",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/aug/26/democrats-voters-november-elections"
+  ],
+  [
+    "feel",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/26/algorithm-pick-your-friends-paid-free-meetup-apps-cliq-ply"
+  ],
+  [
+    "health",
+    17,
+    "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-cancer-cause-death.html"
+  ],
+  [
+    "california",
+    17,
+    "https://www.nytimes.com/2026/08/26/arts/design/paul-williams-architect.html"
+  ],
+  [
+    "running",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/aug/26/democrats-voters-november-elections"
+  ],
+  [
+    "season",
+    17,
+    "https://www.theguardian.com/film/2026/aug/25/the-dog-stars-ridley-scott-review"
+  ],
+  [
+    "states",
+    16,
+    "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html"
+  ],
+  [
+    "darline",
+    16,
+    "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html"
+  ],
+  [
+    "fire",
+    16,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "late",
+    16,
+    "https://www.theguardian.com/music/2026/aug/26/dolly-parton-best-songs-jolene"
+  ],
+  [
+    "parton's",
+    16,
+    "https://www.latimes.com/entertainment-arts/tv/story/2026-08-26/dolly-parton-television-shows-specials"
+  ],
+  [
+    "sen",
+    16,
+    "https://www.foxnews.com/politics/seeing-double-second-dan-sullivan-advances-setting-up-bizarre-alaska-senate-ballot"
+  ],
+  [
+    "whose",
+    15,
+    "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html"
+  ],
+  [
+    "singer",
+    15,
+    "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html"
+  ],
+  [
+    "child",
+    15,
+    "https://www.nytimes.com/2026/08/26/opinion/child-actor-hayden-panettiere-alison-pill.html"
+  ],
+  [
+    "actor",
+    15,
+    "https://www.nytimes.com/2026/08/26/opinion/child-actor-hayden-panettiere-alison-pill.html"
+  ],
+  [
+    "expected",
+    15,
+    "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/"
+  ],
+  [
+    "gop",
     15,
     "https://www.washingtonpost.com/nation/2026/08/24/ken-paxton-unveils-anti-data-center-plan-gop-voter-anger-mounts-texas/"
   ],
   [
-    "military",
+    "released",
     15,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "summer",
+    "wine",
     15,
-    "https://www.theguardian.com/film/2026/aug/25/the-dog-stars-ridley-scott-review"
+    "https://www.theguardian.com/us-news/2026/aug/25/gavin-newsom-california-mansion-for-sale"
   ],
   [
-    "season",
+    "working",
     15,
-    "https://www.theguardian.com/film/2026/aug/25/the-dog-stars-ridley-scott-review"
-  ],
-  [
-    "party",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/aug/25/sex-sells-and-wins-votes-the-democrats-know-it"
-  ],
-  [
-    "climate",
-    15,
-    "https://www.theguardian.com/world/2026/aug/26/call-ban-marmot-hunting-france-climate-crisis"
-  ],
-  [
-    "buying",
-    15,
-    "https://www.theguardian.com/membership/ng-interactive/2026/aug/25/we-asked-our-climate-reporters-to-highlight-one-idea-for-positive-change-we-got-a-chronicle-of-global-transformation"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/25/los-angeles-gangs-youth-gun-violence"
   ],
   [
     "because",
     14,
-    "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-cancer-cause-death.html"
+    "https://www.nytimes.com/2026/08/26/business/energy-environment/diesel-prices-iran-war-oil.html"
   ],
   [
-    "backed",
+    "iran",
     14,
-    "https://www.nytimes.com/2026/08/25/us/elections/oklahoma-governor-drummond-mazzei.html"
+    "https://www.nytimes.com/2026/08/26/business/energy-environment/diesel-prices-iran-war-oil.html"
   ],
   [
-    "nuclear",
+    "carolina",
     14,
-    "https://www.nytimes.com/2026/08/25/us/politics/trump-saudi-nuclear-deal-congress-review.html"
+    "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html"
   ],
   [
-    "democrats",
+    "book",
     14,
-    "https://www.nytimes.com/2026/08/25/us/politics/trump-saudi-nuclear-deal-congress-review.html"
+    "https://www.theguardian.com/books/2026/aug/26/rachel-cusk-natalie-portman-novel-biogossip-literature"
   ],
   [
-    "team",
+    "full",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada"
+  ],
+  [
+    "school",
+    14,
+    "https://www.theguardian.com/uk-news/2026/aug/26/duke-duchess-sussex-back-in-uk-prince-harry-meghan"
+  ],
+  [
+    "runoff",
+    13,
+    "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html"
+  ],
+  [
+    "americans",
+    13,
+    "https://www.nytimes.com/2026/08/26/us/nfl-cte.html"
+  ],
+  [
+    "least",
+    13,
+    "https://www.nytimes.com/2026/08/25/us/cte-nfl-football-takeaways.html"
+  ],
+  [
+    "canada",
+    13,
+    "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html"
+  ],
+  [
+    "term",
+    13,
+    "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html"
+  ],
+  [
+    "early",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "climate",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/26/new-york-subway-extreme-heat"
+  ],
+  [
+    "political",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/26/mark-carney-speeches-trump"
+  ],
+  [
+    "career",
+    13,
+    "https://www.theguardian.com/music/2026/aug/26/dolly-parton-best-songs-jolene"
+  ],
+  [
+    "administration",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/26/democrats-voters-november-elections"
+  ],
+  [
+    "company",
+    13,
+    "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement"
+  ],
+  [
+    "court",
+    13,
+    "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement"
+  ],
+  [
+    "donald",
+    13,
+    "https://www.theguardian.com/world/2026/aug/26/jared-huffman-rising-christian-nationalism-no-prophets-book"
+  ],
+  [
+    "review",
+    13,
+    "https://www.theguardian.com/books/2026/aug/26/passage-by-colin-thubron-review-mortality-and-memory-in-a-gem-of-a-novel"
+  ],
+  [
+    "law",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/26/donald-trump-friends-diplomatic-iran-war-us-president"
+  ],
+  [
+    "tested",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/25/best-dog-beds"
+  ],
+  [
+    "shoes",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/23/best-womens-trail-road-running-shoes"
+  ],
+  [
+    "meta",
+    12,
+    "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html"
+  ],
+  [
+    "ahead",
+    12,
+    "https://www.nytimes.com/2026/08/26/business/scott-bessent-economy-markets.html"
   ]
 ];

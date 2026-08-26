@@ -2,84 +2,78 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Dolly Parton",
-      "count": 45,
-      "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
-      "source": "NY Times"
+      "name": "Abdul El-Sayed&Apos;S Dolly Parton",
+      "count": 34,
+      "url": "https://www.foxnews.com/politics/el-sayeds-tribute-dolly-parton-after-her-death-sparks-internet-fury-critics-cry-foul-gimme-break",
+      "source": "Fox News"
     },
     {
       "name": "Donald Trump",
-      "count": 33,
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/hakeem-jeffries-defends-jared-kushner-meeting",
+      "count": 22,
+      "url": "https://www.theguardian.com/world/2026/aug/26/jared-huffman-rising-christian-nationalism-no-prophets-book",
       "source": "The Guardian"
     },
     {
-      "name": "Darline Graham",
-      "count": 28,
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html",
-      "source": "NY Times"
+      "name": "Darline Graham Wins South Carolina",
+      "count": 14,
+      "url": "https://www.today.com/video/darline-graham-wins-south-carolina-gop-senate-primary-runoff-268880965562",
+      "source": "NBC News"
     },
     {
-      "name": "Mike Mazzei",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/08/25/us/elections/oklahoma-governor-drummond-mazzei.html",
+      "name": "Dan Sullivan Advances",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html",
       "source": "NY Times"
     },
     {
       "name": "Dolly Parton'S",
       "count": 10,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-08-25/dolly-parton-dead-celebrities-react-tributes",
+      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-08-26/dolly-parton-television-shows-specials",
       "source": "LA Times"
     },
     {
-      "name": "Dan Sullivan Advances",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html",
+      "name": "Natalie Portman",
+      "count": 7,
+      "url": "https://www.theguardian.com/books/2026/aug/26/rachel-cusk-natalie-portman-novel-biogossip-literature",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Lindsay Clancy",
+      "count": 6,
+      "url": "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Mike Mazzei",
+      "count": 6,
+      "url": "https://www.nbcnews.com/politics/2026-election/mike-mazzei-winner-oklahoma-republican-governor-primary-trump-rcna593583",
+      "source": "NBC News"
+    },
+    {
+      "name": "Darline Graham",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html",
       "source": "NY Times"
     },
     {
       "name": "Lindsey Graham",
-      "count": 8,
-      "url": "https://www.foxnews.com/politics/trump-endorsement-boosts-sister-late-lindsey-graham-historic-runoff-win",
-      "source": "Fox News"
-    },
-    {
-      "name": "Everton Blair Jr. Wins Race",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/everton-blair-georgia-runoff-house-david-scott.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Scott Bessent",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/08/26/world/europe/iran-melli-bank-us-sanctions.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ralph Norman",
-      "count": 6,
-      "url": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
-      "source": "NPR"
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates",
+      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Administration Sends",
-      "count": 53,
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-saudi-nuclear-deal-congress-review.html",
-      "source": "NY Times"
+      "name": "Target For Trump",
+      "count": 45,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "Democratic Senate",
-      "count": 27,
-      "url": "https://thehill.com/homenews/campaign/6049624-democratic-socialist-wins-oklahoma-senate-primary/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Gop Senate",
-      "count": 24,
-      "url": "https://www.nbcnews.com/video/graham-thanks-trump-after-winning-gop-senate-primary-runoff-in-s-c-268866117945",
-      "source": "NBC News"
+      "name": "Michigan Senate",
+      "count": 23,
+      "url": "https://www.foxnews.com/politics/el-sayeds-tribute-dolly-parton-after-her-death-sparks-internet-fury-critics-cry-foul-gimme-break",
+      "source": "Fox News"
     },
     {
       "name": "Ai Overviews",
@@ -88,16 +82,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Trump White House",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/25/trump-justice-department-presidents-accountability",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nbc News",
-      "count": 11,
-      "url": "https://www.nbcnews.com/politics/2026-election/second-dan-sullivan-makes-general-election-alaskas-senate-race-rcna593464",
-      "source": "NBC News"
+      "name": "Gop Senate",
+      "count": 16,
+      "url": "https://www.politico.com/news/2026/08/25/darline-graham-wins-south-carolina-senate-runoff-01050320",
+      "source": "Politico"
     },
     {
       "name": "The Filter Us",
@@ -107,52 +95,144 @@
     },
     {
       "name": "Guardian",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/26/donald-trump-friends-diplomatic-iran-war-us-president",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cia",
       "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
+      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nfl",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/08/26/us/nfl-cte.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Google Search",
+      "count": 6,
+      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Amazon",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/2026/aug/26/the-last-sunrise-movie-review-amazon",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Meta Platforms",
+      "count": 5,
+      "url": "https://www.nbcnews.com/tech/social-media/meta-settles-social-media-addiction-suit-16-billion-rcna594492",
+      "source": "NBC News"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 59,
+      "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/08/26/arts/design/paul-williams-architect.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/08/26/business/energy-environment/diesel-prices-iran-war-oil.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "South Carolina",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Canada",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "China",
+      "count": 8,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Uk",
+      "count": 8,
+      "url": "https://www.theguardian.com/uk-news/2026/aug/26/duke-duchess-sussex-back-in-uk-prince-harry-meghan",
+      "source": "The Guardian"
+    },
+    {
+      "name": "America",
+      "count": 7,
+      "url": "https://www.theguardian.com/music/2026/aug/26/dolly-parton-best-songs-jolene",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Parton",
+      "count": 7,
+      "url": "https://www.theguardian.com/music/2026/aug/26/dolly-parton-best-songs-jolene",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The Us Open",
+      "name": "The World Cup",
+      "count": 4,
+      "url": "https://www.theguardian.com/football/2026/aug/26/olivia-moultrie-injury-uswnt-world-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Reproductive Freedom For All",
       "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/haters-fashion-attack-aryna-sabalenka-streetwalker-insult-fishnet-us-open",
-      "source": "Fox News"
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/abortion-rights-group-endorses-democrat-troy-jackson-in-critical-maine-senate-race",
+      "source": "The Guardian"
     },
     {
-      "name": "Iran Sanctions",
+      "name": "Black Swan",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-iran-maximum-sanctions.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S. Open",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/08/25/nyregion/us-open-2026-tennis.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "World War Iii",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/08/25/opinion/has-world-war-iii-already-started.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/books/2026/aug/26/rachel-cusk-natalie-portman-novel-biogossip-literature",
+      "source": "The Guardian"
     },
     {
       "name": "The Iran War",
       "count": 1,
       "url": "https://www.theguardian.com/commentisfree/2026/aug/26/donald-trump-friends-diplomatic-iran-war-us-president",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The 2027",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/aug/26/olivia-moultrie-injury-uswnt-world-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World No 10",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/aug/26/amanda-anisimova-tennis-burnout-us-open-grand-slam",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The French Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/aug/26/amanda-anisimova-tennis-burnout-us-open-grand-slam",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Us Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/aug/26/amanda-anisimova-tennis-burnout-us-open-grand-slam",
       "source": "The Guardian"
     },
     {
@@ -166,81 +246,7 @@
       "count": 1,
       "url": "https://www.theguardian.com/games/2026/aug/24/a-cognitive-cacophony-hands-on-with-the-call-of-duty-modern-warfare-4-beta-test",
       "source": "The Guardian"
-    },
-    {
-      "name": "The Southside Crips",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-08-25/ex-compton-detective-says-proof-of-who-killed-tupac-shakur-is-in-gang-war-that-followed",
-      "source": "LA Times"
-    },
-    {
-      "name": "The Year Award",
-      "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/colin-kaepernick-receive-muhammad-ali-award-fighting-racial-injustice",
-      "source": "Fox News"
     }
   ],
-  "GPE": [
-    {
-      "name": "Vogue Us",
-      "count": 75,
-      "url": "https://www.theguardian.com/fashion/2026/aug/21/adept-cover-stars-dogs-fashion-ai-face-era-vogue-dogue",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 25,
-      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Canada",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "South Carolina",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "China",
-      "count": 17,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Oklahoma",
-      "count": 17,
-      "url": "https://www.foxnews.com/politics/democratic-newcomer-scores-runoff-upset-oklahoma-vows-impeach-trump-elected",
-      "source": "Fox News"
-    },
-    {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 11,
-      "url": "https://www.theguardian.com/technology/2026/aug/25/instagram-ceo-teen-safety-lawsuit",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/08/25/us/texas-surrogate-custody.html",
-      "source": "NY Times"
-    }
-  ],
-  "updated": "2026-08-26T07:50:43Z"
+  "updated": "2026-08-26T13:57:24Z"
 };
