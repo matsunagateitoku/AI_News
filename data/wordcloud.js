@@ -2,103 +2,118 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    102,
-    "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html"
+    110,
+    "https://www.nytimes.com/2026/08/28/us/politics/trump-iran-war.html"
   ],
   [
     "president",
-    36,
-    "https://www.nytimes.com/2026/08/28/world/middleeast/iranians-war-six-months-losing-hope.html"
+    41,
+    "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html"
+  ],
+  [
+    "dolly",
+    30,
+    "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
   ],
   [
     "war",
-    32,
-    "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html"
-  ],
-  [
-    "nepal",
-    32,
-    "https://www.nytimes.com/2026/08/28/world/australia/nepal-flood-glacier-collapse.html"
-  ],
-  [
-    "judge",
-    31,
-    "https://www.washingtonpost.com/business/2026/08/26/trump-administrations-pay-cuts-migrant-farmworkers-ruled-illegal/"
-  ],
-  [
-    "died",
-    27,
-    "https://www.washingtonpost.com/nation/2026/08/26/dolly-parton-died-after-brief-period-cancer/"
-  ],
-  [
-    "game",
-    26,
-    "https://www.nytimes.com/2026/08/28/us/gila-bend-election-tiebreaker.html"
-  ],
-  [
-    "missing",
-    22,
-    "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates"
-  ],
-  [
-    "latest",
-    21,
-    "https://www.nytimes.com/2026/08/28/magazine/rachel-cusk-natalie-portman-life-of-m.html"
-  ],
-  [
-    "food",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/aug/27/the-guardian-view-on-the-nepal-tibet-floods-prepare-for-more-climate-linked-disasters"
-  ],
-  [
-    "politics",
-    19,
-    "https://www.nytimes.com/2026/08/27/us/politics/national-debt-trump-reaction.html"
-  ],
-  [
-    "floods",
-    19,
-    "https://www.nytimes.com/2026/08/28/realestate/as-ai-money-floods-the-market-san-francisco-renters-weigh-buyouts.html"
-  ],
-  [
-    "death",
-    19,
-    "https://www.nytimes.com/2026/08/28/nyregion/nob-hill-private-equity-fire.html"
-  ],
-  [
-    "company",
-    18,
-    "https://www.nytimes.com/2026/08/28/science/ai-hurricane-forecasts-google.html"
-  ],
-  [
-    "decades",
-    18,
-    "https://www.nytimes.com/2026/08/28/nyregion/nob-hill-private-equity-fire.html"
-  ],
-  [
-    "trial",
-    18,
-    "https://www.nytimes.com/2026/08/27/style/lindsay-clancy-trial-support.html"
-  ],
-  [
-    "because",
-    18,
-    "https://www.nytimes.com/2026/08/28/briefing/a-disaster-in-nepal.html"
-  ],
-  [
-    "country",
-    18,
-    "https://www.washingtonpost.com/nation/2026/08/26/united-states-dolly-was-country-star-our-last-bipartisan-icon/"
-  ],
-  [
-    "star",
-    18,
-    "https://www.washingtonpost.com/nation/2026/08/26/united-states-dolly-was-country-star-our-last-bipartisan-icon/"
+    29,
+    "https://www.nytimes.com/2026/08/28/us/politics/trump-iran-war.html"
   ],
   [
     "political",
-    18,
+    26,
     "https://www.theguardian.com/commentisfree/2026/aug/28/trump-midterm-campaign-devotion"
+  ],
+  [
+    "nepal",
+    25,
+    "https://www.nytimes.com/2026/08/28/briefing/nepal-flood-missing-trump-space-academy.html"
+  ],
+  [
+    "judge",
+    25,
+    "https://www.nytimes.com/2026/08/28/us/politics/september11-confession-trial.html"
+  ],
+  [
+    "parton",
+    24,
+    "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
+  ],
+  [
+    "donald",
+    23,
+    "https://www.theguardian.com/commentisfree/2026/aug/28/trump-midterm-campaign-devotion"
+  ],
+  [
+    "space",
+    21,
+    "https://www.nytimes.com/2026/08/28/briefing/nepal-flood-missing-trump-space-academy.html"
+  ],
+  [
+    "country",
+    21,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "star",
+    21,
+    "https://www.theguardian.com/environment/2026/aug/28/rhode-island-grocery-store-restrictive-covenants"
+  ],
+  [
+    "death",
+    20,
+    "https://www.nytimes.com/2026/08/28/us/politics/september11-confession-trial.html"
+  ],
+  [
+    "court",
+    20,
+    "https://www.washingtonpost.com/politics/2026/08/28/trump-asks-supreme-court-allow-military-discharge-transgender-troops/"
+  ],
+  [
+    "administration",
+    19,
+    "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html"
+  ],
+  [
+    "far",
+    19,
+    "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
+  ],
+  [
+    "clancy",
+    19,
+    "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/"
+  ],
+  [
+    "because",
+    19,
+    "https://www.theguardian.com/environment/2026/aug/28/rhode-island-grocery-store-restrictive-covenants"
+  ],
+  [
+    "film",
+    19,
+    "https://www.theguardian.com/film/2026/aug/28/louis-garrel-interview-just-an-illusion-movie-heartbeats-dreamers-saint-laurent"
+  ],
+  [
+    "iran",
+    18,
+    "https://www.nytimes.com/2026/08/28/us/politics/trump-iran-war.html"
+  ],
+  [
+    "ice",
+    18,
+    "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html"
+  ],
+  [
+    "died",
+    18,
+    "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
+  ],
+  [
+    "food",
+    18,
+    "https://www.theguardian.com/environment/2026/aug/28/rhode-island-grocery-store-restrictive-covenants"
   ],
   [
     "summer",
@@ -106,273 +121,258 @@
     "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide"
   ],
   [
-    "iran",
+    "latest",
     17,
-    "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html"
+    "https://www.nytimes.com/2026/08/28/briefing/nepal-flood-missing-trump-space-academy.html"
   ],
   [
-    "jury",
+    "team",
     17,
-    "https://www.nytimes.com/2026/08/28/us/lindsay-clancy-trial-jury-deliberation.html"
+    "https://www.nytimes.com/2026/08/28/us/politics/new-york-jets-house-race-feely-shah.html"
   ],
   [
-    "dolly",
+    "late",
     17,
-    "https://www.washingtonpost.com/weather/2026/08/27/tropical-storm-dolly-tracker-map-projected-storm-path/"
+    "https://www.theguardian.com/tv-and-radio/2026/aug/29/the-rainmaker-review-john-grisham-milo-callaghan-itv-itvx"
   ],
   [
-    "senate",
+    "game",
     17,
-    "https://www.theguardian.com/commentisfree/2026/aug/27/democrats-survey-populism-economy"
+    "https://www.theguardian.com/football/2026/aug/28/crystal-palace-manchester-city-premier-league-match-report"
+  ],
+  [
+    "yiannopoulos",
+    16,
+    "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html"
+  ],
+  [
+    "trial",
+    16,
+    "https://www.nytimes.com/2026/08/28/us/politics/september11-confession-trial.html"
   ],
   [
     "lindsay",
     16,
-    "https://www.nytimes.com/2026/08/27/style/lindsay-clancy-trial-support.html"
+    "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/"
   ],
   [
-    "administration",
+    "campaign",
     16,
-    "https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html"
-  ],
-  [
-    "child",
-    16,
-    "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
-  ],
-  [
-    "donald",
-    16,
-    "https://www.theguardian.com/world/ng-interactive/2026/aug/28/how-the-iran-war-unfolded-every-attack-and-oil-price-change-visualised"
-  ],
-  [
-    "film",
-    16,
-    "https://www.theguardian.com/film/2026/aug/28/louis-garrel-interview-just-an-illusion-movie-heartbeats-dreamers-saint-laurent"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
     "running",
     16,
-    "https://www.theguardian.com/film/2026/aug/28/louis-garrel-interview-just-an-illusion-movie-heartbeats-dreamers-saint-laurent"
+    "https://www.theguardian.com/us-news/2026/aug/28/tyrin-johnson-national-guard-shooting"
   ],
   [
     "review",
     16,
-    "https://www.theguardian.com/film/2026/aug/28/the-whisper-man-robert-de-niro-netflix-movie-review"
+    "https://www.theguardian.com/tv-and-radio/2026/aug/29/the-rainmaker-review-john-grisham-milo-callaghan-itv-itvx"
   ],
   [
-    "body",
-    16,
-    "https://www.theguardian.com/sport/2026/aug/28/college-football-2026-season-preview-indiana-nil-transfer-portal"
-  ],
-  [
-    "experts",
+    "little",
     15,
-    "https://www.nytimes.com/2026/08/28/world/australia/nepal-flood-glacier-collapse.html"
+    "https://www.nytimes.com/2026/08/28/world/asia/nepal-flood-survivors.html"
   ],
   [
-    "government",
+    "hundreds",
     15,
-    "https://www.nytimes.com/2026/08/27/us/politics/national-debt-trump-reaction.html"
+    "https://www.theguardian.com/us-news/2026/aug/28/los-angeles-wildfire-survivors-federal-aid"
   ],
   [
-    "family",
-    15,
-    "https://www.nytimes.com/2026/08/28/nyregion/nob-hill-private-equity-fire.html"
-  ],
-  [
-    "flood",
-    15,
-    "https://www.nytimes.com/2026/08/28/briefing/a-disaster-in-nepal.html"
-  ],
-  [
-    "season",
-    15,
-    "https://www.washingtonpost.com/weather/2026/08/27/tropical-storm-dolly-tracker-map-projected-storm-path/"
-  ],
-  [
-    "actor",
-    15,
-    "https://www.washingtonpost.com/obituaries/2026/08/27/peter-cullen-who-voiced-optimus-prime-transformers-dies-85/"
-  ],
-  [
-    "democratic",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide"
-  ],
-  [
-    "crisis",
+    "service",
     14,
-    "https://www.nytimes.com/2026/08/28/world/middleeast/iranians-war-six-months-losing-hope.html"
-  ],
-  [
-    "series",
-    14,
-    "https://www.nytimes.com/2026/08/27/arts/grand-theft-auto-vi-trailer-extended-look-rockstar.html"
-  ],
-  [
-    "products",
-    14,
-    "https://www.washingtonpost.com/nation/2026/08/27/canadian-retailers-scramble-deal-with-staggering-us-tariffs/"
-  ],
-  [
-    "center",
-    14,
-    "https://www.washingtonpost.com/nation/2026/08/26/dolly-parton-died-after-brief-period-cancer/"
-  ],
-  [
-    "questions",
-    14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "million",
-    14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.nytimes.com/2026/08/28/us/politics/trump-appeal-mail-ballot.html"
   ],
   [
     "released",
     14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/08/28/business/china-artificial-intelligence-zai.html"
   ],
   [
-    "least",
+    "center",
     14,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.nytimes.com/2026/08/28/nyregion/9-11-footage-25-years-unreleased.html"
   ],
   [
-    "border",
+    "government",
     14,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.washingtonpost.com/investigations/2026/08/28/white-house-says-its-ballroom-is-65-complete-its-documents-suggest-otherwise/"
   ],
   [
-    "music",
+    "power",
     14,
-    "https://www.theguardian.com/music/2026/aug/28/katseye-essay-kpop-wild-ep-manon-kpop-hybe-girl-group-pop"
+    "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
   ],
   [
-    "american",
+    "politics",
     14,
-    "https://www.theguardian.com/music/2026/aug/28/katseye-essay-kpop-wild-ep-manon-kpop-hybe-girl-group-pop"
-  ],
-  [
-    "name",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide"
-  ],
-  [
-    "album",
-    14,
-    "https://www.theguardian.com/music/2026/aug/28/erykah-badu-before-the-world-blows-interview"
-  ],
-  [
-    "flash",
-    14,
-    "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates"
-  ],
-  [
-    "having",
-    14,
-    "https://www.theguardian.com/uk-news/2026/aug/28/seven-charged-damaging-trump-scottish-golf-course-accused-terrorist-connection"
-  ],
-  [
-    "hundreds",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/28/new-orleans-catholic-church-sex-abuse-settlement"
+    "https://www.theguardian.com/commentisfree/2026/aug/28/trump-midterm-campaign-devotion"
   ],
   [
     "tested",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/aug/27/eufy-omni-e28-robot-vacuum-review"
+    "https://www.theguardian.com/thefilter-us/2026/aug/28/best-pet-hair-removal-tools"
   ],
   [
-    "won",
-    13,
-    "https://www.nytimes.com/2026/08/28/business/dealbook/warsh-fed-jackson-hole.html"
+    "decades",
+    14,
+    "https://www.theguardian.com/music/2026/aug/28/katseye-essay-kpop-wild-ep-manon-kpop-hybe-girl-group-pop"
   ],
   [
-    "again",
-    13,
-    "https://www.nytimes.com/2026/08/28/magazine/rachel-cusk-natalie-portman-life-of-m.html"
+    "international",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/28/milo-yiannopoulos-detained-ice"
   ],
   [
-    "clancy",
-    13,
-    "https://www.nytimes.com/2026/08/27/style/lindsay-clancy-trial-support.html"
+    "football",
+    14,
+    "https://www.theguardian.com/sport/2026/aug/28/jerry-sandusky-penn-state-abuse-recantation-hearing"
   ],
   [
-    "king",
-    13,
-    "https://www.nytimes.com/2026/08/28/world/europe/king-harald-v-dead.html"
+    "body",
+    14,
+    "https://www.theguardian.com/sport/2026/aug/28/college-football-2026-season-preview-indiana-nil-transfer-portal"
   ],
   [
-    "love",
-    13,
-    "https://www.washingtonpost.com/obituaries/2026/08/28/norway-king-harald-dies/"
+    "family",
+    14,
+    "https://www.theguardian.com/world/2026/aug/28/norway-king-harald-dies-leaving-stormy-succession-mette-marit-crown-princesss-epstein-links"
   ],
   [
-    "mail",
+    "million",
     13,
-    "https://www.washingtonpost.com/politics/2026/08/26/judge-lifts-block-trump-changes-mail-voting-though-legal-fights-continue/"
+    "https://www.nytimes.com/2026/08/28/business/energy-environment/oil-storage-iran-war.html"
   ],
   [
-    "parton",
+    "milo",
     13,
-    "https://www.washingtonpost.com/nation/2026/08/26/dolly-parton-died-after-brief-period-cancer/"
+    "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html"
   ],
   [
-    "campaign",
+    "support",
     13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html"
   ],
   [
-    "tibet",
+    "york",
     13,
-    "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates"
+    "https://www.nytimes.com/2026/08/28/nyregion/nyc-manhattan-building-collapse-pfizer-columns-steel.html"
   ],
   [
-    "space",
+    "california",
     13,
-    "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates"
+    "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
+  ],
+  [
+    "law",
+    13,
+    "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
+  ],
+  [
+    "jury",
+    13,
+    "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/"
+  ],
+  [
+    "course",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-trump-canada"
+  ],
+  [
+    "having",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/28/best-pet-hair-removal-tools"
   ],
   [
     "buying",
     13,
-    "https://www.theguardian.com/business/live/2026/aug/28/us-federal-reserve-kevin-warsh-jackson-hole-conference-inflation-economy-ftse-stock-markets-latest-updates"
+    "https://www.theguardian.com/thefilter-us/2026/aug/28/best-pet-hair-removal-tools"
   ],
   [
-    "place",
+    "company",
     13,
-    "https://www.theguardian.com/film/2026/aug/28/tormented-jazz-legend-bill-evans-grant-gee"
+    "https://www.theguardian.com/music/2026/aug/28/katseye-essay-kpop-wild-ep-manon-kpop-hybe-girl-group-pop"
   ],
   [
-    "democrats",
+    "plans",
     13,
-    "https://www.theguardian.com/commentisfree/2026/aug/27/democrats-survey-populism-economy"
+    "https://www.theguardian.com/tv-and-radio/2026/aug/29/the-rainmaker-review-john-grisham-milo-callaghan-itv-itvx"
   ],
   [
-    "south",
-    13,
-    "https://www.theguardian.com/football/2026/aug/27/inter-miami-kily-gonzalez-lionel-messi-guillermo-hoyos"
-  ],
-  [
-    "court",
-    13,
-    "https://www.theguardian.com/news/2026/aug/27/andrew-tate-tristan-bail-miami"
-  ],
-  [
-    "economic",
+    "airport",
     12,
-    "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html"
+    "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html"
   ],
   [
-    "murder",
+    "mail",
     12,
-    "https://www.nytimes.com/2026/08/27/style/lindsay-clancy-trial-support.html"
+    "https://www.nytimes.com/2026/08/28/us/politics/trump-appeal-mail-ballot.html"
   ],
   [
-    "survivors",
+    "record",
+    12,
+    "https://www.nytimes.com/2026/08/28/business/ai-stock-market-bull-rally.html"
+  ],
+  [
+    "singer",
+    12,
+    "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
+  ],
+  [
+    "won",
     12,
     "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
+  ],
+  [
+    "products",
+    12,
+    "https://www.washingtonpost.com/nation/2026/08/27/canadian-retailers-scramble-deal-with-staggering-us-tariffs/"
+  ],
+  [
+    "crisis",
+    12,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "least",
+    12,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "series",
+    12,
+    "https://www.theguardian.com/music/2026/aug/28/katseye-essay-kpop-wild-ep-manon-kpop-hybe-girl-group-pop"
+  ],
+  [
+    "floods",
+    12,
+    "https://www.theguardian.com/world/ng-interactive/2026/aug/28/the-flood-took-everything-i-have-survivors-grieve-for-relatives-and-homes-swept-away-in-nepal"
+  ],
+  [
+    "don",
+    12,
+    "https://www.theguardian.com/film/2026/aug/28/louis-garrel-interview-just-an-illusion-movie-heartbeats-dreamers-saint-laurent"
+  ],
+  [
+    "player",
+    12,
+    "https://www.theguardian.com/fashion/2026/aug/28/dads-and-dudes-the-two-style-clans-that-dominate-menswear"
+  ],
+  [
+    "order",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/28/louisiana-alligator-hunt-recreational"
+  ],
+  [
+    "book",
+    12,
+    "https://www.theguardian.com/music/2026/aug/27/billy-strings-so-much-for-goodbyes-review"
+  ],
+  [
+    "past",
+    11,
+    "https://www.nytimes.com/2026/08/28/us/politics/trump-iran-war.html"
   ]
 ];
