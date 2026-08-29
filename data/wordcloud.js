@@ -2,223 +2,248 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    110,
-    "https://www.nytimes.com/2026/08/28/us/politics/trump-iran-war.html"
+    115,
+    "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
   ],
   [
     "president",
-    41,
-    "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html"
+    49,
+    "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
   ],
   [
     "dolly",
-    30,
+    35,
     "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
-  ],
-  [
-    "war",
-    29,
-    "https://www.nytimes.com/2026/08/28/us/politics/trump-iran-war.html"
-  ],
-  [
-    "political",
-    26,
-    "https://www.theguardian.com/commentisfree/2026/aug/28/trump-midterm-campaign-devotion"
-  ],
-  [
-    "nepal",
-    25,
-    "https://www.nytimes.com/2026/08/28/briefing/nepal-flood-missing-trump-space-academy.html"
-  ],
-  [
-    "judge",
-    25,
-    "https://www.nytimes.com/2026/08/28/us/politics/september11-confession-trial.html"
   ],
   [
     "parton",
-    24,
+    29,
     "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
   ],
   [
-    "donald",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/aug/28/trump-midterm-campaign-devotion"
+    "administration",
+    27,
+    "https://www.nytimes.com/2026/08/28/business/energy-environment/chevron-venezuela-oil-deal.html"
   ],
   [
-    "space",
-    21,
-    "https://www.nytimes.com/2026/08/28/briefing/nepal-flood-missing-trump-space-academy.html"
+    "political",
+    27,
+    "https://www.theguardian.com/us-news/2026/aug/28/milo-yiannopoulos-detained-ice"
   ],
   [
     "country",
-    21,
+    24,
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "star",
-    21,
-    "https://www.theguardian.com/environment/2026/aug/28/rhode-island-grocery-store-restrictive-covenants"
+    "nepal",
+    23,
+    "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue"
   ],
   [
-    "death",
-    20,
-    "https://www.nytimes.com/2026/08/28/us/politics/september11-confession-trial.html"
+    "company",
+    22,
+    "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
   ],
   [
-    "court",
-    20,
-    "https://www.washingtonpost.com/politics/2026/08/28/trump-asks-supreme-court-allow-military-discharge-transgender-troops/"
-  ],
-  [
-    "administration",
-    19,
-    "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html"
-  ],
-  [
-    "far",
-    19,
-    "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
-  ],
-  [
-    "clancy",
-    19,
-    "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/"
-  ],
-  [
-    "because",
-    19,
-    "https://www.theguardian.com/environment/2026/aug/28/rhode-island-grocery-store-restrictive-covenants"
-  ],
-  [
-    "film",
-    19,
-    "https://www.theguardian.com/film/2026/aug/28/louis-garrel-interview-just-an-illusion-movie-heartbeats-dreamers-saint-laurent"
-  ],
-  [
-    "iran",
-    18,
+    "war",
+    22,
     "https://www.nytimes.com/2026/08/28/us/politics/trump-iran-war.html"
   ],
   [
-    "ice",
-    18,
-    "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html"
-  ],
-  [
     "died",
-    18,
+    22,
     "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
   ],
   [
     "food",
-    18,
-    "https://www.theguardian.com/environment/2026/aug/28/rhode-island-grocery-store-restrictive-covenants"
+    21,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/29/blind-date-mike-caterina"
   ],
   [
-    "summer",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide"
+    "donald",
+    21,
+    "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement"
   ],
   [
-    "latest",
-    17,
-    "https://www.nytimes.com/2026/08/28/briefing/nepal-flood-missing-trump-space-academy.html"
+    "control",
+    20,
+    "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
   ],
   [
-    "team",
-    17,
-    "https://www.nytimes.com/2026/08/28/us/politics/new-york-jets-house-race-feely-shah.html"
-  ],
-  [
-    "late",
-    17,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/29/the-rainmaker-review-john-grisham-milo-callaghan-itv-itvx"
+    "oil",
+    20,
+    "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
   ],
   [
     "game",
-    17,
+    20,
     "https://www.theguardian.com/football/2026/aug/28/crystal-palace-manchester-city-premier-league-match-report"
   ],
   [
-    "yiannopoulos",
+    "airport",
+    19,
+    "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html"
+  ],
+  [
+    "park",
+    18,
+    "https://www.nytimes.com/2026/08/28/us/trump-administration-yosemite-private-developer.html"
+  ],
+  [
+    "death",
+    18,
+    "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/"
+  ],
+  [
+    "star",
+    18,
+    "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch"
+  ],
+  [
+    "military",
+    17,
+    "https://www.washingtonpost.com/politics/2026/08/28/trump-asks-supreme-court-allow-military-discharge-transgender-troops/"
+  ],
+  [
+    "summer",
+    17,
+    "https://www.theguardian.com/politics/2026/aug/29/gordon-brown-tame-global-chaos-keep-fit-in-his-70s-scotland-football-shirt"
+  ],
+  [
+    "ice",
     16,
     "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html"
   ],
   [
-    "trial",
+    "released",
     16,
-    "https://www.nytimes.com/2026/08/28/us/politics/september11-confession-trial.html"
+    "https://www.nytimes.com/2026/08/28/business/china-artificial-intelligence-zai.html"
   ],
   [
-    "lindsay",
+    "far",
     16,
-    "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/"
+    "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
   ],
   [
-    "campaign",
+    "attacks",
     16,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "running",
+    "team",
     16,
-    "https://www.theguardian.com/us-news/2026/aug/28/tyrin-johnson-national-guard-shooting"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "review",
+    "family",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/29/the-rainmaker-review-john-grisham-milo-callaghan-itv-itvx"
+    "https://www.theguardian.com/politics/2026/aug/29/gordon-brown-tame-global-chaos-keep-fit-in-his-70s-scotland-football-shirt"
   ],
   [
-    "little",
+    "announced",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement"
+  ],
+  [
+    "win",
+    15,
+    "https://www.nytimes.com/2026/08/28/business/energy-environment/chevron-venezuela-oil-deal.html"
+  ],
+  [
+    "flood",
     15,
     "https://www.nytimes.com/2026/08/28/world/asia/nepal-flood-survivors.html"
   ],
   [
-    "hundreds",
+    "latest",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/28/los-angeles-wildfire-survivors-federal-aid"
-  ],
-  [
-    "service",
-    14,
-    "https://www.nytimes.com/2026/08/28/us/politics/trump-appeal-mail-ballot.html"
-  ],
-  [
-    "released",
-    14,
     "https://www.nytimes.com/2026/08/28/business/china-artificial-intelligence-zai.html"
   ],
   [
-    "center",
+    "health",
+    15,
+    "https://www.washingtonpost.com/nation/2026/08/28/gay-bisexual-trans-people-struggle-get-health-care-study-says/"
+  ],
+  [
+    "air",
+    15,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "football",
+    15,
+    "https://www.theguardian.com/politics/2026/aug/29/gordon-brown-tame-global-chaos-keep-fit-in-his-70s-scotland-football-shirt"
+  ],
+  [
+    "because",
+    15,
+    "https://www.theguardian.com/politics/2026/aug/29/gordon-brown-tame-global-chaos-keep-fit-in-his-70s-scotland-football-shirt"
+  ],
+  [
+    "review",
+    15,
+    "https://www.theguardian.com/music/2026/aug/29/charli-xcx-reading-festival-review-pretentious-just-a-bit-but-nietzsche-would-have-loved-it"
+  ],
+  [
+    "south",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/aug/29/sunsets-disasters-dinners-record-phones-camera-reality"
+  ],
+  [
+    "russia",
+    15,
+    "https://www.theguardian.com/world/2026/aug/29/ukraine-war-family-wedding-eastern-frontline-russia"
+  ],
+  [
+    "ukraine",
+    15,
+    "https://www.theguardian.com/world/2026/aug/29/ukraine-war-family-wedding-eastern-frontline-russia"
+  ],
+  [
+    "judge",
+    15,
+    "https://www.theguardian.com/sport/2026/aug/28/jerry-sandusky-penn-state-abuse-recantation-hearing"
+  ],
+  [
+    "space",
+    15,
+    "https://www.theguardian.com/film/2026/aug/28/ridley-scott-alien-covenant-follow-up"
+  ],
+  [
+    "attack",
     14,
     "https://www.nytimes.com/2026/08/28/nyregion/9-11-footage-25-years-unreleased.html"
   ],
   [
-    "government",
+    "security",
     14,
-    "https://www.washingtonpost.com/investigations/2026/08/28/white-house-says-its-ballroom-is-65-complete-its-documents-suggest-otherwise/"
+    "https://www.nytimes.com/2026/08/28/business/china-artificial-intelligence-zai.html"
   ],
   [
-    "power",
+    "won",
     14,
     "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
   ],
   [
-    "politics",
+    "response",
     14,
-    "https://www.theguardian.com/commentisfree/2026/aug/28/trump-midterm-campaign-devotion"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "tested",
+    "games",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/aug/28/best-pet-hair-removal-tools"
+    "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race"
   ],
   [
-    "decades",
+    "record",
     14,
-    "https://www.theguardian.com/music/2026/aug/28/katseye-essay-kpop-wild-ep-manon-kpop-hybe-girl-group-pop"
+    "https://www.theguardian.com/commentisfree/2026/aug/29/sunsets-disasters-dinners-record-phones-camera-reality"
+  ],
+  [
+    "missing",
+    14,
+    "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue"
   ],
   [
     "international",
@@ -226,153 +251,128 @@
     "https://www.theguardian.com/us-news/2026/aug/28/milo-yiannopoulos-detained-ice"
   ],
   [
-    "football",
+    "having",
     14,
-    "https://www.theguardian.com/sport/2026/aug/28/jerry-sandusky-penn-state-abuse-recantation-hearing"
+    "https://www.theguardian.com/stage/2026/aug/29/chris-cantrill-rewilding-review-monkey-barrel-comedy-edinburgh"
   ],
   [
-    "body",
-    14,
-    "https://www.theguardian.com/sport/2026/aug/28/college-football-2026-season-preview-indiana-nil-transfer-portal"
+    "venezuela",
+    13,
+    "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
   ],
   [
-    "family",
-    14,
-    "https://www.theguardian.com/world/2026/aug/28/norway-king-harald-dies-leaving-stormy-succession-mette-marit-crown-princesss-epstein-links"
-  ],
-  [
-    "million",
+    "states",
     13,
     "https://www.nytimes.com/2026/08/28/business/energy-environment/oil-storage-iran-war.html"
   ],
   [
-    "milo",
+    "past",
+    13,
+    "https://www.nytimes.com/2026/08/28/us/politics/trump-iran-war.html"
+  ],
+  [
+    "yiannopoulos",
     13,
     "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html"
   ],
   [
-    "support",
-    13,
-    "https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html"
-  ],
-  [
-    "york",
-    13,
-    "https://www.nytimes.com/2026/08/28/nyregion/nyc-manhattan-building-collapse-pfizer-columns-steel.html"
-  ],
-  [
-    "california",
-    13,
-    "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
-  ],
-  [
-    "law",
-    13,
-    "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
-  ],
-  [
-    "jury",
+    "clancy",
     13,
     "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/"
   ],
   [
-    "course",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-trump-canada"
-  ],
-  [
-    "having",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/28/best-pet-hair-removal-tools"
-  ],
-  [
-    "buying",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/28/best-pet-hair-removal-tools"
-  ],
-  [
-    "company",
-    13,
-    "https://www.theguardian.com/music/2026/aug/28/katseye-essay-kpop-wild-ep-manon-kpop-hybe-girl-group-pop"
-  ],
-  [
-    "plans",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/29/the-rainmaker-review-john-grisham-milo-callaghan-itv-itvx"
-  ],
-  [
-    "airport",
-    12,
-    "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html"
-  ],
-  [
-    "mail",
-    12,
-    "https://www.nytimes.com/2026/08/28/us/politics/trump-appeal-mail-ballot.html"
-  ],
-  [
-    "record",
-    12,
-    "https://www.nytimes.com/2026/08/28/business/ai-stock-market-bull-rally.html"
-  ],
-  [
-    "singer",
-    12,
-    "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
-  ],
-  [
-    "won",
-    12,
-    "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
-  ],
-  [
-    "products",
-    12,
-    "https://www.washingtonpost.com/nation/2026/08/27/canadian-retailers-scramble-deal-with-staggering-us-tariffs/"
-  ],
-  [
     "crisis",
-    12,
+    13,
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "least",
-    12,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "campaign",
+    13,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "series",
-    12,
-    "https://www.theguardian.com/music/2026/aug/28/katseye-essay-kpop-wild-ep-manon-kpop-hybe-girl-group-pop"
-  ],
-  [
-    "floods",
-    12,
-    "https://www.theguardian.com/world/ng-interactive/2026/aug/28/the-flood-took-everything-i-have-survivors-grieve-for-relatives-and-homes-swept-away-in-nepal"
+    "secretary",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "don",
-    12,
-    "https://www.theguardian.com/film/2026/aug/28/louis-garrel-interview-just-an-illusion-movie-heartbeats-dreamers-saint-laurent"
+    13,
+    "https://www.theguardian.com/politics/2026/aug/29/gordon-brown-tame-global-chaos-keep-fit-in-his-70s-scotland-football-shirt"
   ],
   [
-    "player",
-    12,
-    "https://www.theguardian.com/fashion/2026/aug/28/dads-and-dudes-the-two-style-clans-that-dominate-menswear"
+    "film",
+    13,
+    "https://www.theguardian.com/music/2026/aug/29/charli-xcx-reading-festival-review-pretentious-just-a-bit-but-nietzsche-would-have-loved-it"
   ],
   [
-    "order",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/28/louisiana-alligator-hunt-recreational"
+    "album",
+    13,
+    "https://www.theguardian.com/music/2026/aug/29/charli-xcx-reading-festival-review-pretentious-just-a-bit-but-nietzsche-would-have-loved-it"
+  ],
+  [
+    "nearly",
+    13,
+    "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue"
+  ],
+  [
+    "los",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/28/los-angeles-wildfire-survivors-federal-aid"
+  ],
+  [
+    "angeles",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/28/los-angeles-wildfire-survivors-federal-aid"
+  ],
+  [
+    "late",
+    13,
+    "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price"
   ],
   [
     "book",
-    12,
-    "https://www.theguardian.com/music/2026/aug/27/billy-strings-so-much-for-goodbyes-review"
+    13,
+    "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch"
   ],
   [
-    "past",
-    11,
-    "https://www.nytimes.com/2026/08/28/us/politics/trump-iran-war.html"
+    "killed",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/28/the-guardian-view-on-the-loan-of-the-bayeux-tapestry-a-manifestation-of-soft-power"
+  ],
+  [
+    "risk",
+    13,
+    "https://www.theguardian.com/australia-news/2026/aug/29/statins-reduce-risk-heart-attack-stroke-over-70s-clinical-trial"
+  ],
+  [
+    "industry",
+    12,
+    "https://www.nytimes.com/2026/08/28/business/energy-environment/chevron-venezuela-oil-deal.html"
+  ],
+  [
+    "million",
+    12,
+    "https://www.nytimes.com/2026/08/28/business/energy-environment/oil-storage-iran-war.html"
+  ],
+  [
+    "system",
+    12,
+    "https://www.nytimes.com/2026/08/28/us/trump-administration-yosemite-private-developer.html"
+  ],
+  [
+    "night",
+    12,
+    "https://www.nytimes.com/2026/08/28/arts/music/foo-fighters-live-setlist.html"
+  ],
+  [
+    "york",
+    12,
+    "https://www.nytimes.com/2026/08/28/nyregion/nyc-manhattan-building-collapse-pfizer-columns-steel.html"
+  ],
+  [
+    "fashion",
+    12,
+    "https://www.nytimes.com/2026/08/28/style/galliano-met-gala-critics.html"
   ]
 ];
