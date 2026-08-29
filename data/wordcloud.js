@@ -2,53 +2,53 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    100,
-    "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
+    103,
+    "https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html"
   ],
   [
     "president",
-    53,
-    "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
+    51,
+    "https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html"
   ],
   [
     "dolly",
-    36,
-    "https://www.nytimes.com/2026/08/29/opinion/dolly-parton-style-branding-personality.html"
-  ],
-  [
-    "parton",
     31,
     "https://www.nytimes.com/2026/08/29/opinion/dolly-parton-style-branding-personality.html"
   ],
   [
-    "nepal",
-    28,
-    "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html"
-  ],
-  [
     "country",
-    25,
+    30,
     "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html"
   ],
   [
-    "social",
-    22,
-    "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html"
+    "nepal",
+    29,
+    "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html"
+  ],
+  [
+    "parton",
+    28,
+    "https://www.nytimes.com/2026/08/29/opinion/dolly-parton-style-branding-personality.html"
   ],
   [
     "media",
-    22,
-    "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html"
-  ],
-  [
-    "political",
-    21,
+    24,
     "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html"
   ],
   [
-    "game",
+    "political",
+    22,
+    "https://www.nytimes.com/2026/08/29/opinion/india-gen-z-cockroach-movement.html"
+  ],
+  [
+    "war",
     21,
-    "https://www.theguardian.com/football/live/2026/aug/29/tottenham-hotspur-v-newcastle-premier-league-live"
+    "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html"
+  ],
+  [
+    "team",
+    21,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "family",
@@ -56,29 +56,29 @@
     "https://www.theguardian.com/culture/2026/aug/29/spades-bid-whist-card-game-black-family"
   ],
   [
-    "meta",
-    19,
-    "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html"
+    "social",
+    20,
+    "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html"
   ],
   [
-    "american",
-    19,
-    "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
+    "oil",
+    20,
+    "https://www.nytimes.com/2026/08/29/world/americas/venezuela-oil-us-takeover.html"
   ],
   [
-    "space",
+    "yiannopoulos",
     19,
-    "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman"
+    "https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html"
   ],
   [
-    "control",
+    "missing",
+    19,
+    "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html"
+  ],
+  [
+    "milo",
     18,
-    "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
-  ],
-  [
-    "food",
-    18,
-    "https://www.nytimes.com/2026/08/29/magazine/ina-garten-interview.html"
+    "https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html"
   ],
   [
     "donald",
@@ -86,9 +86,24 @@
     "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump"
   ],
   [
-    "missing",
+    "game",
+    18,
+    "https://www.theguardian.com/culture/2026/aug/29/spades-bid-whist-card-game-black-family"
+  ],
+  [
+    "control",
     17,
-    "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html"
+    "https://www.nytimes.com/2026/08/29/world/americas/venezuela-oil-us-takeover.html"
+  ],
+  [
+    "ice",
+    17,
+    "https://www.nytimes.com/2026/08/29/us/christian-castro-ice-agent-minnesota-texas.html"
+  ],
+  [
+    "death",
+    17,
+    "https://www.washingtonpost.com/nation/2026/08/29/they-met-line-dollywood-long-ago-then-became-each-others-family/"
   ],
   [
     "don",
@@ -96,19 +111,24 @@
     "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america"
   ],
   [
-    "company",
+    "democrats",
     16,
-    "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
+    "https://www.nytimes.com/2026/08/29/us/politics/el-sayed-apology-jewish-democrats.html"
   ],
   [
-    "war",
+    "deported",
     16,
-    "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html"
+    "https://www.nytimes.com/2026/08/29/us/afghans-deported-us-central-african-republic.html"
   ],
   [
-    "death",
+    "food",
     16,
-    "https://www.washingtonpost.com/nation/2026/08/29/they-met-line-dollywood-long-ago-then-became-each-others-family/"
+    "https://www.nytimes.com/2026/08/29/magazine/ina-garten-interview.html"
+  ],
+  [
+    "american",
+    16,
+    "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
   ],
   [
     "trial",
@@ -116,17 +136,27 @@
     "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/"
   ],
   [
-    "least",
+    "released",
     16,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "oil",
+    "south",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/29/republican-voters-south-carolina-communism"
+  ],
+  [
+    "meta",
     15,
-    "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
+    "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html"
   ],
   [
     "singer",
+    15,
+    "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
+  ],
+  [
+    "died",
     15,
     "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
   ],
@@ -136,19 +166,9 @@
     "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "team",
+    "space",
     15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "florida",
-    15,
-    "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman"
-  ],
-  [
-    "south",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/29/republican-voters-south-carolina-communism"
+    "https://www.theguardian.com/science/2026/aug/29/artemis-ii-astronauts-congressional-space-medal-of-honor"
   ],
   [
     "football",
@@ -156,144 +176,104 @@
     "https://www.theguardian.com/politics/2026/aug/29/gordon-brown-tame-global-chaos-keep-fit-in-his-70s-scotland-football-shirt"
   ],
   [
-    "video",
-    15,
-    "https://www.theguardian.com/books/ng-interactive/2026/aug/29/how-to-make-a-bestseller-insiders-reveal-the-tricks-of-the-book-trade"
-  ],
-  [
-    "billion",
+    "win",
     14,
-    "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html"
+    "https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html"
   ],
   [
-    "support",
+    "latest",
     14,
-    "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html"
+    "https://www.nytimes.com/2026/08/29/us/afghans-deported-us-central-african-republic.html"
   ],
   [
-    "floods",
+    "company",
     14,
-    "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html"
+    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
   ],
   [
-    "race",
+    "late",
     14,
-    "https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html"
+    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
   ],
   [
-    "near",
+    "law",
     14,
-    "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html"
+    "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
   ],
   [
-    "california",
+    "least",
     14,
-    "https://www.nytimes.com/2026/08/29/us/salinas-california-taylor-farms-lettuce-cyclospora.html"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "clancy",
+    "buying",
     14,
-    "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/"
-  ],
-  [
-    "red",
-    14,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "children",
-    14,
-    "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37"
-  ],
-  [
-    "enough",
-    14,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race"
-  ],
-  [
-    "los",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/28/los-angeles-wildfire-survivors-federal-aid"
-  ],
-  [
-    "settlement",
-    13,
-    "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html"
-  ],
-  [
-    "lake",
-    13,
-    "https://www.nytimes.com/2026/08/28/nyregion/lake-america-ontario-trump-canada.html"
-  ],
-  [
-    "won",
-    13,
-    "https://www.nytimes.com/2026/08/28/nyregion/lake-america-ontario-trump-canada.html"
+    "https://www.theguardian.com/thefilter-us/2026/aug/29/best-body-lotion"
   ],
   [
     "administration",
     13,
-    "https://www.nytimes.com/2026/08/28/us/politics/trump-stanford-students-deport-constitution.html"
-  ],
-  [
-    "ice",
-    13,
-    "https://www.nytimes.com/2026/08/29/us/christian-castro-ice-agent-minnesota-texas.html"
-  ],
-  [
-    "latest",
-    13,
     "https://www.nytimes.com/2026/08/29/us/afghans-deported-us-central-african-republic.html"
   ],
   [
-    "loss",
+    "floods",
     13,
-    "https://www.nytimes.com/2026/08/29/business/nepal-hydropower-flood.html"
+    "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html"
   ],
   [
-    "governor",
+    "near",
     13,
-    "https://www.nytimes.com/2026/08/29/us/alaska-governor-candidates.html"
+    "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html"
   ],
   [
-    "past",
-    13,
-    "https://www.nytimes.com/2026/08/29/briefing/fast-forward.html"
-  ],
-  [
-    "late",
+    "million",
     13,
     "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
   ],
   [
-    "died",
+    "lake",
     13,
-    "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
+    "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
   ],
   [
-    "law",
+    "love",
     13,
-    "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
+    "https://www.washingtonpost.com/obituaries/2026/08/28/norway-king-harald-dies/"
   ],
   [
-    "released",
+    "growing",
     13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "ago",
+    "games",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/29/fbi-apllicants-sex-workers"
+    "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race"
   ],
   [
-    "democrats",
+    "enough",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/29/democrats-uncommitted-movement-midterms"
+    "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race"
   ],
   [
-    "himself",
+    "los",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/29/republican-voters-south-carolina-communism"
+    "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death"
+  ],
+  [
+    "filter",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/29/best-body-lotion"
+  ],
+  [
+    "judge",
+    13,
+    "https://www.theguardian.com/sport/2026/aug/28/jerry-sandusky-penn-state-abuse-recantation-hearing"
+  ],
+  [
+    "hundreds",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/28/los-angeles-wildfire-survivors-federal-aid"
   ],
   [
     "book",
@@ -301,39 +281,49 @@
     "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch"
   ],
   [
-    "film",
-    13,
-    "https://www.theguardian.com/film/2026/aug/28/ridley-scott-alien-covenant-follow-up"
-  ],
-  [
-    "rose",
-    13,
-    "https://www.theguardian.com/music/2026/aug/29/at-band-interview-victoria-rose-stone-rosenberg"
-  ],
-  [
-    "order",
+    "politics",
     12,
-    "https://www.nytimes.com/2026/08/28/nyregion/lake-america-ontario-trump-canada.html"
+    "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html"
   ],
   [
-    "hundreds",
-    12,
-    "https://www.nytimes.com/2026/08/28/world/asia/nepal-bodies-morgues.html"
-  ],
-  [
-    "place",
+    "governor",
     12,
     "https://www.nytimes.com/2026/08/29/us/alaska-governor-candidates.html"
   ],
   [
-    "fashion",
+    "early",
     12,
-    "https://www.nytimes.com/2026/08/28/style/galliano-met-gala-critics.html"
+    "https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html"
   ],
   [
-    "texas",
+    "himself",
     12,
-    "https://www.washingtonpost.com/politics/2026/08/29/how-texas-fight-over-an-ice-agent-could-open-new-political-battleground/"
+    "https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html"
+  ],
+  [
+    "settlement",
+    12,
+    "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html"
+  ],
+  [
+    "young",
+    12,
+    "https://www.nytimes.com/2026/08/26/technology/meta-instagram-facebook-settlement.html"
+  ],
+  [
+    "inside",
+    12,
+    "https://www.nytimes.com/2026/08/29/opinion/india-gen-z-cockroach-movement.html"
+  ],
+  [
+    "far",
+    12,
+    "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
+  ],
+  [
+    "nearly",
+    12,
+    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
   ],
   [
     "name",
@@ -341,38 +331,48 @@
     "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
   ],
   [
-    "nashville",
+    "california",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
+    "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
   ],
   [
-    "airport",
+    "child",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
+    "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
   ],
   [
-    "weekend",
+    "clancy",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/28/burning-man-begins-this-weekend-hawk-fire-reaches-95-containment/"
+    "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/"
   ],
   [
-    "fire",
+    "hollywood",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/28/burning-man-begins-this-weekend-hawk-fire-reaches-95-containment/"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "products",
+    "water",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/27/canadian-retailers-scramble-deal-with-staggering-us-tariffs/"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/30/the-moment-i-knew-id-never-had-romantic-feelings-for-a-man-then-he-touched-my-hand-and-it-felt-electric"
   ],
   [
-    "growing",
+    "children",
     12,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37"
   ],
   [
-    "travel",
+    "bill",
     12,
-    "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america"
+    "https://www.theguardian.com/music/2026/aug/29/tennessee-dolly-parton-airport-name-change"
+  ],
+  [
+    "ago",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/29/fbi-apllicants-sex-workers"
+  ],
+  [
+    "fewer",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/aug/29/best-body-lotion"
   ]
 ];
