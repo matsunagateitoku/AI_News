@@ -2,9 +2,15 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "The Us Open",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/aug/30/us-open-ticket-prices-usta-resale-affordability",
+      "name": "A Super Bowl",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/aug/30/all-time-great-aaron-donald-comes-out-of-retirement-to-rejoin-stacked-la-rams",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fat Marmot Week 2026",
+      "count": 4,
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/marmot-winner-fat-marmot-week-contest",
       "source": "The Guardian"
     },
     {
@@ -12,6 +18,12 @@
       "count": 1,
       "url": "https://www.nytimes.com/2026/08/30/podcasts/the-daily/who-will-rule-the-2026-us-open.html",
       "source": "NY Times"
+    },
+    {
+      "name": "The Us Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/aug/30/us-open-ticket-prices-usta-resale-affordability",
+      "source": "The Guardian"
     },
     {
       "name": "Protester Tess Asplund",
@@ -23,12 +35,6 @@
       "name": "Operation Economic Outcast",
       "count": 1,
       "url": "https://www.theguardian.com/commentisfree/2026/aug/30/trump-economic-d-day-iran-stakes-higher-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The 2022 World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/aug/30/emiliano-martinez-aston-villa-exit-move-chelsea",
       "source": "The Guardian"
     },
     {
@@ -54,87 +60,31 @@
       "count": 1,
       "url": "https://www.theguardian.com/games/2026/aug/26/gamers-are-pushing-back-against-the-end-of-physical-media",
       "source": "The Guardian"
-    },
-    {
-      "name": "Hugo",
-      "count": 1,
-      "url": "https://www.theguardian.com/culture/2026/aug/29/from-dalliance-to-billy-strings-the-week-in-rave-reviews",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 24,
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dolly Parton",
-      "count": 12,
-      "url": "https://www.washingtonpost.com/nation/2026/08/29/they-met-line-dollywood-long-ago-then-became-each-others-family/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Margaret Brennan",
-      "count": 11,
-      "url": "https://www.cbsnews.com/video/face-the-nation-becker-alizai/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Ted Cruz",
-      "count": 7,
-      "url": "https://www.nbcnews.com/meet-the-press/video/ted-cruz-says-there-will-be-a-time-to-make-a-decision-on-a-2028-run-for-president-269067334000",
-      "source": "NBC News"
-    },
-    {
-      "name": "Richard Blumenthal",
-      "count": 6,
-      "url": "https://www.cbsnews.com/video/sen-blumenthal-urges-house-to-pass-russia-sanctions-bill-amid-moment-of-extreme-urgency/",
-      "source": "CBS News"
-    },
-    {
-      "name": "James Clyburn",
-      "count": 6,
-      "url": "https://www.nbcnews.com/meet-the-press/video/jim-clyburn-calls-to-expand-the-supreme-court-to-a-baker-s-dozen-269070917504",
-      "source": "NBC News"
-    },
-    {
-      "name": "Angie Nixon",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate",
-      "source": "The Guardian"
-    },
-    {
-      "name": "William Jewell College",
-      "count": 5,
-      "url": "https://www.nbcnews.com/news/us-news/college-football-player-dies-sidelines-rcna595123",
-      "source": "NBC News"
-    },
-    {
-      "name": "Milo Yiannopoulos",
-      "count": 4,
-      "url": "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Abdul El-Sayed",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/abdul-el-sayed-apology-michigan-synagogue-attack-comment",
-      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 50,
+      "count": 59,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
       "name": "Ai Overviews",
-      "count": 17,
+      "count": 14,
       "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The U.S. Senate",
+      "count": 14,
+      "url": "https://www.latimes.com/politics/story/2026-08-30/midterm-election-senate-control-alaska-iowa-maine-michigan-ohio-texas",
+      "source": "LA Times"
+    },
+    {
+      "name": "The White House",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
       "source": "The Guardian"
     },
     {
@@ -150,103 +100,153 @@
       "source": "The Guardian"
     },
     {
+      "name": "Nasa",
+      "count": 10,
+      "url": "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman",
+      "source": "The Guardian"
+    },
+    {
       "name": "The Filter Us",
       "count": 10,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "The U.S. Senate",
-      "count": 10,
-      "url": "https://www.latimes.com/politics/story/2026-08-30/midterm-election-senate-control-alaska-iowa-maine-michigan-ohio-texas",
-      "source": "LA Times"
-    },
-    {
-      "name": "Nasa",
+      "name": "Nbc",
       "count": 9,
-      "url": "https://www.nytimes.com/2026/08/30/science/spacex-roman-telescope-launch.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The White House",
-      "count": 8,
-      "url": "https://www.washingtonpost.com/investigations/2026/08/28/white-house-says-its-ballroom-is-65-complete-its-documents-suggest-otherwise/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Amazon",
-      "count": 8,
-      "url": "https://www.theguardian.com/thefilter-us/2026/jan/07/best-packing-cubes",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-nbc-kristen-welker-fcc",
       "source": "The Guardian"
     },
     {
-      "name": "Nbc News'S",
-      "count": 8,
-      "url": "https://thehill.com/homenews/media/6059558-trump-threatens-nbc-welker-fcc/",
-      "source": "The Hill"
+      "name": "Amazon",
+      "count": 7,
+      "url": "https://www.theguardian.com/thefilter-us/2026/jan/07/best-packing-cubes",
+      "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 64,
+      "count": 58,
       "url": "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/08/30/briefing/tenniss-lost-shot.html",
-      "source": "NY Times"
+      "count": 20,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "Iran",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur",
+      "name": "Michigan",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/abdul-el-sayed-apology-michigan-synagogue-attack-comment",
       "source": "The Guardian"
     },
     {
-      "name": "Nepal",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "China",
+      "name": "California",
       "count": 12,
-      "url": "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Lake Ontario",
-      "count": 12,
-      "url": "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Texas",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo",
+      "source": "The Guardian"
     },
     {
       "name": "Florida",
-      "count": 10,
+      "count": 11,
       "url": "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate",
       "source": "The Guardian"
     },
     {
-      "name": "Uk",
+      "name": "Nepal",
       "count": 10,
-      "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/30/the-best-films-of-autumn-2026",
+      "url": "https://www.nytimes.com/2026/08/26/world/asia/nepal-tibet-floods-wtk.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Canada",
+      "count": 10,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Iran",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Hollywood",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Los Angeles",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-08-30T17:15:51Z"
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 25,
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Margaret Brennan",
+      "count": 14,
+      "url": "https://www.cbsnews.com/video/former-afghan-general-says-chaos-at-kabul-airport-was-the-worst-situation-of-my-life/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Richard Blumenthal",
+      "count": 10,
+      "url": "https://www.cbsnews.com/news/richard-blumenthal-connecticut-democrat-face-the-nation-transcript-08-30-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Dolly Parton",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/nation/2026/08/29/they-met-line-dollywood-long-ago-then-became-each-others-family/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Angie Nixon",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Aaron Donald",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/aug/30/all-time-great-aaron-donald-comes-out-of-retirement-to-rejoin-stacked-la-rams",
+      "source": "The Guardian"
+    },
+    {
+      "name": "John James",
+      "count": 6,
+      "url": "https://www.cbsnews.com/news/john-james-michigan-republican-face-the-nation-transcript-08-30-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "James Clyburn",
+      "count": 6,
+      "url": "https://www.nbcnews.com/meet-the-press/video/jim-clyburn-calls-to-expand-the-supreme-court-to-a-baker-s-dozen-269070917504",
+      "source": "NBC News"
+    },
+    {
+      "name": "Milo Yiannopoulos",
+      "count": 5,
+      "url": "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Roman Space Telescope",
+      "count": 5,
+      "url": "https://www.latimes.com/science/story/2026-08-30/nasas-roman-space-telescope-launches-with-jpl-tech-aboard",
+      "source": "LA Times"
+    }
+  ],
+  "updated": "2026-08-30T21:52:30Z"
 };

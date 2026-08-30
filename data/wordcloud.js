@@ -2,48 +2,43 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    74,
+    84,
     "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html"
   ],
   [
     "president",
-    39,
+    41,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "lake",
-    29,
-    "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
-  ],
-  [
-    "country",
-    25,
-    "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html"
+    "political",
+    22,
+    "https://www.washingtonpost.com/politics/2026/08/29/how-texas-fight-over-an-ice-agent-could-open-new-political-battleground/"
   ],
   [
     "dolly",
-    25,
-    "https://www.nytimes.com/2026/08/30/opinion/dolly-parton-tennessee.html"
-  ],
-  [
-    "nepal",
-    23,
-    "https://www.nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html"
-  ],
-  [
-    "political",
-    23,
-    "https://www.nytimes.com/2026/08/29/opinion/india-gen-z-cockroach-movement.html"
-  ],
-  [
-    "parton",
-    23,
+    22,
     "https://www.washingtonpost.com/nation/2026/08/29/they-met-line-dollywood-long-ago-then-became-each-others-family/"
   ],
   [
+    "missing",
+    21,
+    "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
+  ],
+  [
+    "lake",
+    21,
+    "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
+  ],
+  [
+    "donald",
+    21,
+    "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
+  ],
+  [
     "food",
-    22,
-    "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-aid-drone.html"
+    21,
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
   ],
   [
     "war",
@@ -51,14 +46,19 @@
     "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html"
   ],
   [
-    "death",
+    "family",
     20,
-    "https://www.washingtonpost.com/investigations/2026/08/30/20-years-later-new-dispute-emerges-over-notorious-dupont-circle-killing/"
+    "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death"
   ],
   [
-    "data",
+    "space",
+    20,
+    "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman"
+  ],
+  [
+    "senate",
     19,
-    "https://www.nytimes.com/2026/08/30/science/spacex-roman-telescope-launch.html"
+    "https://www.nytimes.com/2026/08/30/us/politics/ed-markey-seth-moulton-transgender-athletes-massachusetts.html"
   ],
   [
     "game",
@@ -66,69 +66,54 @@
     "https://www.theguardian.com/sport/live/2026/aug/30/us-open-tennis-2026-pegula-norrie-and-medvedev-in-action-on-day-one-live"
   ],
   [
-    "early",
+    "country",
     18,
-    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
-  ],
-  [
-    "ontario",
-    18,
-    "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
-  ],
-  [
-    "campaign",
-    18,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "team",
-    18,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "america",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
-  ],
-  [
-    "space",
-    18,
-    "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman"
-  ],
-  [
-    "sen",
-    18,
-    "https://www.cbsnews.com/video/sen-blumenthal-urges-house-to-pass-russia-sanctions-bill-amid-moment-of-extreme-urgency/"
-  ],
-  [
-    "iran",
-    17,
     "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html"
   ],
   [
-    "season",
+    "nepal",
     17,
-    "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
+    "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
   ],
   [
-    "senate",
-    16,
-    "https://www.nytimes.com/2026/08/30/us/politics/ed-markey-seth-moulton-transgender-athletes-massachusetts.html"
+    "democratic",
+    17,
+    "https://www.nytimes.com/2026/08/30/us/dan-mckee-rhode-island-bridge.html"
   ],
   [
-    "name",
-    16,
-    "https://www.washingtonpost.com/investigations/2026/08/30/20-years-later-new-dispute-emerges-over-notorious-dupont-circle-killing/"
+    "water",
+    17,
+    "https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html"
   ],
   [
-    "late",
-    16,
+    "early",
+    17,
     "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
   ],
   [
-    "died",
+    "parton",
+    17,
+    "https://www.washingtonpost.com/nation/2026/08/29/they-met-line-dollywood-long-ago-then-became-each-others-family/"
+  ],
+  [
+    "michigan",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/30/abdul-el-sayed-apology-michigan-synagogue-attack-comment"
+  ],
+  [
+    "nation",
+    17,
+    "https://www.cbsnews.com/video/former-afghan-general-says-chaos-at-kabul-airport-was-the-worst-situation-of-my-life/"
+  ],
+  [
+    "death",
     16,
-    "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
+    "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
+  ],
+  [
+    "james",
+    16,
+    "https://www.nytimes.com/2026/08/30/books/review/the-disappearers-marlon-james.html"
   ],
   [
     "least",
@@ -136,129 +121,104 @@
     "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "night",
+    "because",
     16,
-    "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
-  ],
-  [
-    "donald",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
-  ],
-  [
-    "family",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death"
-  ],
-  [
-    "nation",
-    16,
-    "https://www.cbsnews.com/video/face-the-nation-becker-alizai/"
-  ],
-  [
-    "ice",
-    15,
-    "https://www.nytimes.com/2026/08/30/world/africa/us-deportation-flight-ice-detention-liberia.html"
-  ],
-  [
-    "win",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
-  ],
-  [
-    "google",
-    15,
     "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans"
   ],
   [
-    "water",
-    15,
-    "https://www.theguardian.com/us-news/2026/aug/30/indiana-flooding-emergency-response"
+    "win",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
   ],
   [
     "social",
-    15,
+    16,
     "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits"
   ],
   [
-    "democrats",
+    "sen",
+    16,
+    "https://www.cbsnews.com/news/richard-blumenthal-connecticut-democrat-face-the-nation-transcript-08-30-2026/"
+  ],
+  [
+    "book",
+    15,
+    "https://www.nytimes.com/2026/08/30/books/review/the-disappearers-marlon-james.html"
+  ],
+  [
+    "late",
+    15,
+    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
+  ],
+  [
+    "american",
+    15,
+    "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
+  ],
+  [
+    "police",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death"
+  ],
+  [
+    "margaret",
+    15,
+    "https://www.theguardian.com/books/2026/aug/29/laurie-anderson-manuscript-88-years-future-library-oslo"
+  ],
+  [
+    "flash",
     14,
+    "https://www.nytimes.com/2026/08/26/world/asia/nepal-tibet-floods-wtk.html"
+  ],
+  [
+    "ontario",
+    14,
+    "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
+  ],
+  [
+    "campaign",
+    14,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "night",
+    14,
+    "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo"
+  ],
+  [
+    "season",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
+  ],
+  [
+    "america",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
+  ],
+  [
+    "killed",
+    14,
+    "https://www.theguardian.com/world/2026/aug/30/people-return-remains-homes-nepal-floods-devighat-trishuli-river"
+  ],
+  [
+    "brennan",
+    14,
+    "https://www.cbsnews.com/video/former-afghan-general-says-chaos-at-kabul-airport-was-the-worst-situation-of-my-life/"
+  ],
+  [
+    "ice",
+    13,
+    "https://www.nytimes.com/2026/08/30/world/africa/us-deportation-flight-ice-detention-liberia.html"
+  ],
+  [
+    "democrats",
+    13,
     "https://www.nytimes.com/2026/08/30/us/politics/mail-voting-trump-midterms-supreme-court.html"
   ],
   [
     "primary",
-    14,
+    13,
     "https://www.nytimes.com/2026/08/30/us/politics/ed-markey-seth-moulton-transgender-athletes-massachusetts.html"
-  ],
-  [
-    "democratic",
-    14,
-    "https://www.nytimes.com/2026/08/30/us/dan-mckee-rhode-island-bridge.html"
-  ],
-  [
-    "book",
-    14,
-    "https://www.nytimes.com/2026/08/30/books/review/the-disappearers-marlon-james.html"
-  ],
-  [
-    "james",
-    14,
-    "https://www.nytimes.com/2026/08/30/books/review/the-disappearers-marlon-james.html"
-  ],
-  [
-    "far",
-    14,
-    "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
-  ],
-  [
-    "supreme",
-    14,
-    "https://www.washingtonpost.com/politics/2026/08/28/trump-asks-supreme-court-allow-military-discharge-transgender-troops/"
-  ],
-  [
-    "israeli",
-    14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "air",
-    14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "latest",
-    14,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "california",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur"
-  ],
-  [
-    "court",
-    13,
-    "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html"
-  ],
-  [
-    "china",
-    13,
-    "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html"
-  ],
-  [
-    "missing",
-    13,
-    "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html"
-  ],
-  [
-    "released",
-    13,
-    "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html"
-  ],
-  [
-    "care",
-    13,
-    "https://www.nytimes.com/2026/08/30/magazine/greg-chism-youtube-bad-baby.html"
   ],
   [
     "company",
@@ -266,24 +226,34 @@
     "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
   ],
   [
-    "million",
-    13,
-    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
-  ],
-  [
-    "american",
-    13,
-    "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
-  ],
-  [
     "fire",
     13,
-    "https://www.washingtonpost.com/nation/2026/08/28/burning-man-begins-this-weekend-hawk-fire-reaches-95-containment/"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "government",
+    "latest",
     13,
-    "https://www.washingtonpost.com/investigations/2026/08/28/white-house-says-its-ballroom-is-65-complete-its-documents-suggest-otherwise/"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "team",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "festival",
+    13,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans"
+  ],
+  [
+    "california",
+    13,
+    "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo"
+  ],
+  [
+    "florida",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
   ],
   [
     "film",
@@ -291,88 +261,118 @@
     "https://www.theguardian.com/film/ng-interactive/2026/aug/30/the-best-films-of-autumn-2026"
   ],
   [
-    "killed",
+    "government",
     13,
-    "https://www.theguardian.com/world/2026/aug/30/people-return-remains-homes-nepal-floods-devighat-trishuli-river"
+    "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name"
   ],
   [
-    "star",
+    "order",
     13,
-    "https://www.theguardian.com/film/2026/aug/28/louis-garrel-interview-just-an-illusion-movie-heartbeats-dreamers-saint-laurent"
+    "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation"
   ],
   [
-    "tested",
+    "los",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/27/best-running-shoes"
-  ],
-  [
-    "texas",
-    12,
-    "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html"
-  ],
-  [
-    "governor",
-    12,
-    "https://www.nytimes.com/2026/08/30/us/dan-mckee-rhode-island-bridge.html"
-  ],
-  [
-    "telescope",
-    12,
-    "https://www.nytimes.com/2026/08/30/science/spacex-roman-telescope-launch.html"
-  ],
-  [
-    "party",
-    12,
-    "https://www.washingtonpost.com/politics/2026/08/28/prominent-texas-republican-predicts-gop-losses-over-data-centers/"
-  ],
-  [
-    "growing",
-    12,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "past",
-    12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "tech",
-    12,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans"
-  ],
-  [
-    "because",
-    12,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans"
-  ],
-  [
-    "michigan",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/30/abdul-el-sayed-apology-michigan-synagogue-attack-comment"
-  ],
-  [
-    "young",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/30/ghislaine-maxwell-conviction-overturn-attempts"
-  ],
-  [
-    "region",
-    12,
-    "https://www.theguardian.com/world/2026/aug/30/president-penthouse-madrid-government-63m-euros-temporary-office-isabel-diaz-ayuso"
-  ],
-  [
-    "police",
-    12,
     "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death"
   ],
   [
     "running",
-    12,
+    13,
     "https://www.theguardian.com/sport/2026/aug/29/division-ii-running-back-dies-after-experiencing-medical-emergency-on-the-sideline-shortly-after-scoring-touchdown"
   ],
   [
-    "search",
+    "telescope",
+    13,
+    "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman"
+  ],
+  [
+    "rep",
+    13,
+    "https://www.cbsnews.com/news/john-james-michigan-republican-face-the-nation-transcript-08-30-2026/"
+  ],
+  [
+    "floods",
     12,
-    "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus"
+    "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
+  ],
+  [
+    "states",
+    12,
+    "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html"
+  ],
+  [
+    "court",
+    12,
+    "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html"
+  ],
+  [
+    "far",
+    12,
+    "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
+  ],
+  [
+    "oil",
+    12,
+    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
+  ],
+  [
+    "million",
+    12,
+    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
+  ],
+  [
+    "politics",
+    12,
+    "https://www.washingtonpost.com/politics/2026/08/29/how-texas-fight-over-an-ice-agent-could-open-new-political-battleground/"
+  ],
+  [
+    "israeli",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "released",
+    12,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "filter",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/aug/30/fall-travel-getaway-hotels-cabins-inns"
+  ],
+  [
+    "candidate",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
+  ],
+  [
+    "republicans",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/aug/30/why-is-vegan-suddenly-being-used-as-a-slur"
+  ],
+  [
+    "died",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/aug/30/ratko-mladic-butcher-bosnia-death-legacy-serbia"
+  ],
+  [
+    "young",
+    12,
+    "https://www.theguardian.com/business/2026/aug/30/nurture-not-nature-how-young-women-can-learn-to-better-wield-economic-power"
+  ],
+  [
+    "tested",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/27/best-running-shoes"
+  ],
+  [
+    "buying",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/27/best-running-shoes"
+  ],
+  [
+    "review",
+    11,
+    "https://www.nytimes.com/2026/08/30/books/review/the-disappearers-marlon-james.html"
   ]
 ];
