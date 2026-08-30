@@ -3,95 +3,89 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 47,
-      "url": "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump",
+      "count": 52,
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/30/youre-at-war-when-you-get-attacked-mark-carney-shows-combative-nature-in-face-off-with-trump",
       "source": "The Guardian"
     },
     {
+      "name": "U.S.",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/08/30/briefing/tenniss-lost-shot.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Uk",
-      "count": 22,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/30/the-moment-i-knew-id-never-had-romantic-feelings-for-a-man-then-he-touched-my-hand-and-it-felt-electric",
+      "count": 18,
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/30/the-best-films-of-autumn-2026",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-lake-america-ontario",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 18,
-      "url": "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/",
-      "source": "Washington Post"
+      "count": 15,
+      "url": "https://www.latimes.com/california/story/2026-08-29/california-lawmakers-reach-deal-in-high-stakes-fight-over-regulating-data-centers",
+      "source": "LA Times"
     },
     {
-      "name": "U.S.",
-      "count": 17,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Michigan",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/08/29/us/politics/el-sayed-apology-jewish-democrats.html",
+      "name": "Nepal",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html",
       "source": "NY Times"
     },
     {
       "name": "Texas",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/08/29/us/politics/midterms-senate-race-georgia-alaska-texas-fact-check.html",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html",
       "source": "NY Times"
     },
     {
-      "name": "Hollywood Bowl",
-      "count": 11,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-08-29/la-phil-offers-10-hollywood-bowl-tickets-for-medi-cal-ebt-users",
-      "source": "LA Times"
-    },
-    {
       "name": "Los Angeles",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/30/italy-phone-street-ban",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City",
+      "count": 11,
+      "url": "https://www.theguardian.com/society/2026/aug/30/new-york-city-cooling-towers-legionnaires-outbreaks",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Florida",
       "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death",
+      "url": "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman",
       "source": "The Guardian"
-    },
-    {
-      "name": "Nepal",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/2026/aug/29/nepal-flood-missing-kathmandu-hospital",
-      "source": "The Guardian"
-    },
-    {
-      "name": "East Tennessee",
-      "count": 8,
-      "url": "https://www.washingtonpost.com/nation/2026/08/29/they-met-line-dollywood-long-ago-then-became-each-others-family/",
-      "source": "Washington Post"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump ’S",
-      "count": 19,
-      "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-arch-sightlines-washington-dc",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/state-department-global-engagement-center-leaked-documents-foreign-propaganda",
       "source": "The Guardian"
     },
     {
       "name": "Donald Trump",
-      "count": 18,
-      "url": "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-lake-america-ontario",
       "source": "The Guardian"
     },
     {
       "name": "Milo Yiannopoulos",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Dolly Parton",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/nation/2026/08/29/they-met-line-dollywood-long-ago-then-became-each-others-family/",
+      "count": 13,
+      "url": "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/",
       "source": "Washington Post"
     },
     {
-      "name": "Abdul El-Sayed",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/08/29/us/politics/el-sayed-apology-jewish-democrats.html",
-      "source": "NY Times"
+      "name": "Dolly Parton",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/nation/2026/08/29/they-met-line-dollywood-long-ago-then-became-each-others-family/",
+      "source": "Washington Post"
     },
     {
       "name": "Darline Graham",
@@ -100,46 +94,58 @@
       "source": "Politico"
     },
     {
-      "name": "Lindsay Clancy",
-      "count": 6,
-      "url": "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/",
-      "source": "Washington Post"
+      "name": "Angie Nixon",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/aug/30/us-open-ticket-prices-usta-resale-affordability",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Chelsea V Brighton",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/live/2026/aug/30/chelsea-brighton-leeds-brentford-sunderland-fulham-premier-league-live",
+      "source": "The Guardian"
     },
     {
       "name": "Micahjo Barnett",
-      "count": 6,
+      "count": 5,
       "url": "https://www.theguardian.com/sport/2026/aug/29/division-ii-running-back-dies-after-experiencing-medical-emergency-on-the-sideline-shortly-after-scoring-touchdown",
       "source": "The Guardian"
     },
     {
-      "name": "Filip Hrgovic",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/aug/30/filip-hrgovic-stuns-moses-itauma-ibf-world-boxing-heavyweight-title",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mclaren",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/aug/29/formula-one-lando-norris-new-contract-mclaren",
+      "name": "Tom Cruise",
+      "count": 4,
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/30/the-best-films-of-autumn-2026",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 57,
+      "count": 52,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
       "name": "Ai Overviews",
-      "count": 15,
+      "count": 16,
       "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
       "source": "The Guardian"
     },
     {
+      "name": "Nasa",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/08/30/science/spacex-roman-telescope-launch.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Guardian",
-      "count": 11,
+      "count": 10,
       "url": "https://www.theguardian.com/commentisfree/2026/aug/29/lake-america-trump-approval-ratings",
       "source": "The Guardian"
     },
@@ -150,59 +156,83 @@
       "source": "The Guardian"
     },
     {
-      "name": "Gop Senate",
-      "count": 10,
-      "url": "https://www.politico.com/news/2026/08/25/darline-graham-wins-south-carolina-senate-runoff-01050320",
-      "source": "Politico"
-    },
-    {
       "name": "Google Search",
       "count": 9,
       "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
       "source": "The Guardian"
     },
     {
-      "name": "Usc",
+      "name": "U.S. Senate",
       "count": 9,
-      "url": "https://www.latimes.com/sports/usc/story/2026-08-29/usc-football-defeats-san-jose-state-season-opener",
-      "source": "LA Times"
+      "url": "https://www.cbsnews.com/news/abdul-el-sayed-synagogue-attack-comments-apology/",
+      "source": "CBS News"
     },
     {
-      "name": "Nbc News",
+      "name": "Gop Senate",
+      "count": 9,
+      "url": "https://www.politico.com/news/2026/08/25/darline-graham-wins-south-carolina-senate-runoff-01050320",
+      "source": "Politico"
+    },
+    {
+      "name": "Amazon",
       "count": 8,
-      "url": "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
+      "url": "https://www.theguardian.com/thefilter-us/2026/jan/07/best-packing-cubes",
       "source": "The Guardian"
     },
     {
-      "name": "Fbi",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/aug/29/michigan-senate-candidate-mike-rogers-osama-bin-laden",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
+      "name": "Ice",
       "count": 7,
-      "url": "https://www.washingtonpost.com/investigations/2026/08/28/white-house-says-its-ballroom-is-65-complete-its-documents-suggest-otherwise/",
-      "source": "Washington Post"
+      "url": "https://www.nytimes.com/2026/08/30/world/africa/us-deportation-flight-ice-detention-liberia.html",
+      "source": "NY Times"
     }
   ],
   "EVENT": [
     {
       "name": "The Us Open",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/aug/29/novak-djokovic-in-good-shape-as-he-aims-for-25th-grand-slam-title-in-new-york",
+      "count": 4,
+      "url": "https://www.theguardian.com/sport/2026/aug/30/us-open-ticket-prices-usta-resale-affordability",
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
+      "name": "Hurricane Ida",
       "count": 2,
-      "url": "https://www.cbsnews.com/video/school-district-faces-tens-of-thousands-of-dollars-in-extra-fuel-costs-as-diesel-price-soars/",
-      "source": "CBS News"
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/louisiana-home-insurance-fraud-hurricane-ida",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S. Open",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/08/30/podcasts/the-daily/who-will-rule-the-2026-us-open.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran Show War",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Protester Tess Asplund",
+      "count": 1,
+      "url": "https://www.theguardian.com/world/2026/aug/30/sweden-neo-nazi-resistance-2016-tess-asplund-far-right",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Operation Economic Outcast",
+      "count": 1,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/30/trump-economic-d-day-iran-stakes-higher-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The 2022 World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/aug/30/emiliano-martinez-aston-villa-exit-move-chelsea",
+      "source": "The Guardian"
     },
     {
       "name": "Wimbledon",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/aug/29/britons-unhappy-us-open-tennis-practice-courts-smell-marijuana-new-york",
+      "url": "https://www.theguardian.com/sport/2026/aug/29/novak-djokovic-in-good-shape-as-he-aims-for-25th-grand-slam-title-in-new-york",
       "source": "The Guardian"
     },
     {
@@ -216,37 +246,7 @@
       "count": 1,
       "url": "https://www.theguardian.com/books/2026/aug/27/kolkhoz-by-emmanuel-carrere-review-intricate-portrait-of-an-elite-french-family",
       "source": "The Guardian"
-    },
-    {
-      "name": "Black Swan",
-      "count": 1,
-      "url": "https://www.theguardian.com/books/2026/aug/26/rachel-cusk-natalie-portman-novel-biogossip-literature",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Stop Killing Games",
-      "count": 1,
-      "url": "https://www.theguardian.com/games/2026/aug/26/gamers-are-pushing-back-against-the-end-of-physical-media",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hugo",
-      "count": 1,
-      "url": "https://www.theguardian.com/culture/2026/aug/29/from-dalliance-to-billy-strings-the-week-in-rave-reviews",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Great British Bake Off Guardian",
-      "count": 1,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/28/tell-us-about-the-tv-shows-that-that-have-turned-sour-for-you",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The 2026 Presidents Cup",
-      "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/pga-tour-taps-donald-trump-reprise-honorary-chairman-role-presidents-cup-white-house-confirms",
-      "source": "Fox News"
     }
   ],
-  "updated": "2026-08-30T06:22:22Z"
+  "updated": "2026-08-30T12:41:24Z"
 };

@@ -2,168 +2,153 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    99,
-    "https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html"
+    90,
+    "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html"
   ],
   [
     "president",
-    50,
+    39,
     "https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html"
   ],
   [
     "country",
-    29,
-    "https://www.nytimes.com/2026/08/29/business/energy-environment/venezuela-alejandro-betancourt-oil-trump.html"
+    25,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "police",
+    24,
+    "https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland"
+  ],
+  [
+    "space",
+    22,
+    "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman"
   ],
   [
     "dolly",
-    24,
-    "https://www.washingtonpost.com/nation/2026/08/29/they-met-line-dollywood-long-ago-then-became-each-others-family/"
-  ],
-  [
-    "parton",
-    24,
-    "https://www.washingtonpost.com/nation/2026/08/29/they-met-line-dollywood-long-ago-then-became-each-others-family/"
-  ],
-  [
-    "nepal",
     21,
-    "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html"
+    "https://www.nytimes.com/2026/08/30/opinion/dolly-parton-tennessee.html"
   ],
   [
     "political",
     21,
-    "https://www.nytimes.com/2026/08/29/opinion/india-gen-z-cockroach-movement.html"
+    "https://www.washingtonpost.com/politics/2026/08/29/how-texas-fight-over-an-ice-agent-could-open-new-political-battleground/"
+  ],
+  [
+    "nepal",
+    20,
+    "https://www.nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html"
+  ],
+  [
+    "carolina",
+    19,
+    "https://www.theguardian.com/sport/gallery/2026/aug/29/unc-tcu-dublin-game-college-football-photos"
+  ],
+  [
+    "iran",
+    18,
+    "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html"
+  ],
+  [
+    "parton",
+    18,
+    "https://www.washingtonpost.com/nation/2026/08/29/they-met-line-dollywood-long-ago-then-became-each-others-family/"
   ],
   [
     "team",
-    21,
+    18,
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "donald",
-    21,
-    "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump"
-  ],
-  [
-    "death",
-    20,
-    "https://www.washingtonpost.com/nation/2026/08/29/they-met-line-dollywood-long-ago-then-became-each-others-family/"
-  ],
-  [
-    "game",
-    20,
-    "https://www.theguardian.com/culture/2026/aug/29/spades-bid-whist-card-game-black-family"
-  ],
-  [
-    "family",
-    20,
-    "https://www.theguardian.com/culture/2026/aug/29/spades-bid-whist-card-game-black-family"
-  ],
-  [
-    "police",
-    20,
-    "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death"
-  ],
-  [
-    "democrats",
     18,
-    "https://www.nytimes.com/2026/08/29/us/politics/el-sayed-apology-jewish-democrats.html"
+    "https://www.theguardian.com/us-news/2026/aug/30/trump-lake-america-ontario"
   ],
   [
-    "food",
-    18,
-    "https://www.nytimes.com/2026/08/29/magazine/ina-garten-interview.html"
-  ],
-  [
-    "california",
-    18,
-    "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
+    "telescope",
+    17,
+    "https://www.nytimes.com/2026/08/30/science/spacex-roman-telescope-launch.html"
   ],
   [
     "war",
-    18,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    17,
+    "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html"
   ],
   [
-    "don",
+    "late",
     17,
-    "https://www.nytimes.com/2026/08/30/opinion/women-men-gender-quit.html"
+    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
   ],
   [
-    "carolina",
+    "game",
     17,
-    "https://www.theguardian.com/us-news/2026/aug/29/republican-voters-south-carolina-communism"
+    "https://www.theguardian.com/music/2026/aug/30/jennifer-herrema-honest-playlist-sugarhill-gang-van-halen-lou-reed-acdc"
+  ],
+  [
+    "food",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
+  ],
+  [
+    "ice",
+    16,
+    "https://www.nytimes.com/2026/08/30/world/africa/us-deportation-flight-ice-detention-liberia.html"
+  ],
+  [
+    "primary",
+    16,
+    "https://www.nytimes.com/2026/08/30/us/politics/ed-markey-seth-moulton-transgender-athletes-massachusetts.html"
+  ],
+  [
+    "book",
+    16,
+    "https://www.nytimes.com/2026/08/30/books/review/the-disappearers-marlon-james.html"
+  ],
+  [
+    "death",
+    16,
+    "https://www.washingtonpost.com/investigations/2026/08/30/20-years-later-new-dispute-emerges-over-notorious-dupont-circle-killing/"
+  ],
+  [
+    "center",
+    16,
+    "https://www.theguardian.com/us-news/2026/aug/30/state-department-global-engagement-center-leaked-documents-foreign-propaganda"
+  ],
+  [
+    "water",
+    16,
+    "https://www.theguardian.com/society/2026/aug/30/new-york-city-cooling-towers-legionnaires-outbreaks"
   ],
   [
     "social",
     16,
-    "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html"
+    "https://www.theguardian.com/film/2026/aug/30/big-tech-hollywood-the-social-reckoning-artificial"
   ],
   [
-    "late",
+    "family",
     16,
+    "https://www.theguardian.com/sport/2026/aug/29/division-ii-running-back-dies-after-experiencing-medical-emergency-on-the-sideline-shortly-after-scoring-touchdown"
+  ],
+  [
+    "california",
+    16,
+    "https://www.latimes.com/california/story/2026-08-29/california-lawmakers-reach-deal-in-high-stakes-fight-over-regulating-data-centers"
+  ],
+  [
+    "democrats",
+    15,
+    "https://www.nytimes.com/2026/08/30/us/politics/mail-voting-trump-midterms-supreme-court.html"
+  ],
+  [
+    "released",
+    15,
+    "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html"
+  ],
+  [
+    "million",
+    15,
     "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
-  ],
-  [
-    "lake",
-    16,
-    "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
-  ],
-  [
-    "south",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/29/republican-voters-south-carolina-communism"
-  ],
-  [
-    "michigan",
-    15,
-    "https://www.nytimes.com/2026/08/29/us/politics/el-sayed-apology-jewish-democrats.html"
-  ],
-  [
-    "ice",
-    15,
-    "https://www.nytimes.com/2026/08/29/us/christian-castro-ice-agent-minnesota-texas.html"
-  ],
-  [
-    "yiannopoulos",
-    15,
-    "https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html"
-  ],
-  [
-    "missing",
-    15,
-    "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html"
-  ],
-  [
-    "israeli",
-    15,
-    "https://www.nytimes.com/2026/08/29/world/middleeast/israel-settlers-west-bank-attacks-netanyahu-rebuke.html"
-  ],
-  [
-    "died",
-    15,
-    "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
-  ],
-  [
-    "fire",
-    15,
-    "https://www.washingtonpost.com/nation/2026/08/28/burning-man-begins-this-weekend-hawk-fire-reaches-95-containment/"
-  ],
-  [
-    "north",
-    15,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "least",
-    15,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "school",
-    15,
-    "https://www.theguardian.com/lifeandstyle/picture/2026/aug/29/with-the-kids-back-at-school-i-finally-get-a-break-back-at-my-desk-the-becky-barnicoat-cartoon"
   ],
   [
     "tested",
@@ -171,174 +156,149 @@
     "https://www.theguardian.com/lifeandstyle/2026/aug/27/best-running-shoes"
   ],
   [
-    "company",
+    "north",
     14,
-    "https://www.nytimes.com/2026/08/29/business/energy-environment/venezuela-alejandro-betancourt-oil-trump.html"
+    "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html"
   ],
   [
-    "media",
+    "data",
     14,
-    "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html"
+    "https://www.nytimes.com/2026/08/30/science/spacex-roman-telescope-launch.html"
   ],
   [
-    "himself",
+    "york",
     14,
-    "https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html"
+    "https://www.nytimes.com/2026/08/30/nyregion/us-open-economic-impact-new-york-city.html"
   ],
   [
     "name",
     14,
+    "https://www.washingtonpost.com/investigations/2026/08/30/20-years-later-new-dispute-emerges-over-notorious-dupont-circle-killing/"
+  ],
+  [
+    "american",
+    14,
     "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
   ],
   [
-    "love",
+    "least",
     14,
-    "https://www.washingtonpost.com/obituaries/2026/08/28/norway-king-harald-dies/"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "released",
+    "search",
     14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/world/2026/aug/30/nepal-tibet-floods-china-search-rescue-operations-looking-for-survivors"
   ],
   [
-    "office",
+    "school",
     14,
-    "https://www.theguardian.com/world/2026/aug/30/president-penthouse-madrid-government-63m-euros-temporary-office-isabel-diaz-ayuso"
+    "https://www.theguardian.com/sport/2026/aug/29/division-ii-running-back-dies-after-experiencing-medical-emergency-on-the-sideline-shortly-after-scoring-touchdown"
   ],
   [
-    "control",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/29/us-swimmers-drowning-deaths-heatwave"
-  ],
-  [
-    "democratic",
+    "texas",
     13,
-    "https://www.nytimes.com/2026/08/29/us/politics/el-sayed-apology-jewish-democrats.html"
+    "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html"
   ],
   [
     "senate",
     13,
-    "https://www.nytimes.com/2026/08/29/us/politics/el-sayed-apology-jewish-democrats.html"
+    "https://www.nytimes.com/2026/08/30/us/politics/ed-markey-seth-moulton-transgender-athletes-massachusetts.html"
   ],
   [
-    "milo",
+    "missing",
     13,
-    "https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html"
+    "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html"
   ],
   [
-    "early",
+    "company",
     13,
-    "https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html"
-  ],
-  [
-    "nearly",
-    13,
-    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
-  ],
-  [
-    "american",
-    13,
-    "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
-  ],
-  [
-    "loss",
-    13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "campaign",
-    13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "hollywood",
-    13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.nytimes.com/2026/08/28/opinion/ai-power-lobbying-military-britain-east-india-company.html"
   ],
   [
     "growing",
     13,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/08/28/opinion/ai-power-lobbying-military-britain-east-india-company.html"
   ],
   [
-    "young",
+    "far",
     13,
-    "https://www.theguardian.com/culture/2026/aug/29/spades-bid-whist-card-game-black-family"
+    "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
   ],
   [
-    "los",
+    "yiannopoulos",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death"
+    "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
   ],
   [
-    "because",
+    "early",
     13,
-    "https://www.theguardian.com/culture/2026/aug/30/stewart-lee-comedian-interview-divorce-adoption-retelling-owl-and-the-pussycat"
+    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
+  ],
+  [
+    "change",
+    13,
+    "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
   ],
   [
     "film",
     13,
-    "https://www.theguardian.com/film/2026/aug/30/big-tech-hollywood-the-social-reckoning-artificial"
+    "https://www.theguardian.com/film/ng-interactive/2026/aug/30/the-best-films-of-autumn-2026"
   ],
   [
-    "season",
+    "los",
     13,
-    "https://www.theguardian.com/sport/2026/aug/29/division-ii-running-back-dies-after-experiencing-medical-emergency-on-the-sideline-shortly-after-scoring-touchdown"
+    "https://www.theguardian.com/commentisfree/2026/aug/30/italy-phone-street-ban"
   ],
   [
-    "space",
+    "south",
     13,
-    "https://www.theguardian.com/science/2026/aug/29/artemis-ii-astronauts-congressional-space-medal-of-honor"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/30/sex-doll-market-booming-ai-vaginas-customisable-personalities-fake-bruises"
   ],
   [
-    "win",
-    12,
-    "https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html"
+    "media",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/aug/29/lake-america-trump-approval-ratings"
   ],
   [
-    "texas",
-    12,
-    "https://www.nytimes.com/2026/08/29/us/politics/midterms-senate-race-georgia-alaska-texas-fact-check.html"
+    "games",
+    13,
+    "https://www.theguardian.com/games/2026/aug/27/trainwatch-alone-with-your-thoughts-on-a-railway-line-to-nowhere"
   ],
   [
-    "governor",
-    12,
-    "https://www.nytimes.com/2026/08/29/us/alaska-governor-candidates.html"
+    "test",
+    13,
+    "https://www.theguardian.com/music/2026/aug/28/dolly-parton-sister-stella-tribute-act-of-kindness-cancer-drugs"
   ],
   [
-    "place",
+    "court",
     12,
-    "https://www.nytimes.com/2026/08/29/us/alaska-governor-candidates.html"
+    "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html"
   ],
   [
-    "primary",
+    "tibet",
     12,
-    "https://www.nytimes.com/2026/08/29/us/alaska-governor-candidates.html"
+    "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html"
   ],
   [
-    "deported",
+    "nasa",
     12,
-    "https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html"
+    "https://www.nytimes.com/2026/08/30/science/spacex-roman-telescope-launch.html"
   ],
   [
-    "bill",
+    "latest",
     12,
-    "https://www.nytimes.com/2026/08/29/us/stop-nick-shirley-immigration-shield-california.html"
+    "https://www.nytimes.com/2026/08/28/science/nasa-nancy-grace-roman-space-telescope.html"
   ],
   [
-    "industry",
+    "care",
     12,
-    "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html"
+    "https://www.nytimes.com/2026/08/30/magazine/greg-chism-youtube-bad-baby.html"
   ],
   [
-    "inside",
+    "milo",
     12,
-    "https://www.nytimes.com/2026/08/29/opinion/india-gen-z-cockroach-movement.html"
-  ],
-  [
-    "million",
-    12,
-    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
+    "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
   ],
   [
     "singer",
@@ -346,33 +306,73 @@
     "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
   ],
   [
-    "health",
+    "died",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/28/gay-bisexual-trans-people-struggle-get-health-care-study-says/"
+    "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/"
   ],
   [
-    "law",
+    "campaign",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "child",
+    "economic",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "angeles",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/aug/30/italy-phone-street-ban"
+  ],
+  [
+    "killed",
+    12,
+    "https://www.theguardian.com/world/2026/aug/30/nepal-tibet-floods-china-search-rescue-operations-looking-for-survivors"
+  ],
+  [
+    "florida",
+    12,
+    "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman"
+  ],
+  [
+    "accused",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/30/louisiana-home-insurance-fraud-hurricane-ida"
+  ],
+  [
+    "clear",
+    12,
+    "https://www.theguardian.com/film/2026/aug/30/big-tech-hollywood-the-social-reckoning-artificial"
   ],
   [
     "sex",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/28/california-schools-cities-face-financial-strain-child-sex-abuse-lawsuits/"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/30/this-is-how-we-do-it-ex-wouldnt-kiss-during-sex-marcus-takes-time"
   ],
   [
-    "latest",
+    "don",
     12,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/commentisfree/2026/aug/29/lake-america-trump-approval-ratings"
   ],
   [
-    "games",
+    "buying",
     12,
-    "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race"
+    "https://www.theguardian.com/lifeandstyle/2026/aug/27/best-running-shoes"
+  ],
+  [
+    "department",
+    11,
+    "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html"
+  ],
+  [
+    "win",
+    11,
+    "https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html"
+  ],
+  [
+    "governor",
+    11,
+    "https://www.nytimes.com/2026/08/30/us/dan-mckee-rhode-island-bridge.html"
   ]
 ];
