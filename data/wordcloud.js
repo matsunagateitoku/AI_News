@@ -2,123 +2,183 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    65,
-    "https://www.nytimes.com/2026/08/31/podcasts/the-headlines/navy-supply-chain-iran-strikes-trump-oil-venezuela.html"
-  ],
-  [
-    "missing",
-    37,
-    "https://www.nytimes.com/2026/08/26/world/asia/nepal-tibet-floods-wtk.html"
-  ],
-  [
-    "nepal",
-    33,
-    "https://www.nytimes.com/2026/08/31/world/asia/china-nepal-tibet-flood-himalayas-risk.html"
+    92,
+    "https://www.nytimes.com/2026/08/31/us/justice-department-subpoena-james-comey-richman-trump.html"
   ],
   [
     "president",
-    30,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    47,
+    "https://www.nytimes.com/2026/08/31/us/justice-department-subpoena-james-comey-richman-trump.html"
   ],
   [
-    "floods",
-    28,
-    "https://www.nytimes.com/2026/08/26/world/asia/nepal-tibet-floods-wtk.html"
+    "court",
+    30,
+    "https://www.nytimes.com/2026/08/31/briefing/supreme-court-trump-ballroom-met-gala.html"
+  ],
+  [
+    "senate",
+    26,
+    "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html"
+  ],
+  [
+    "missing",
+    23,
+    "https://www.nytimes.com/2026/08/31/us/grand-canyon-flash-floods.html"
+  ],
+  [
+    "secretary",
+    23,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "food",
-    28,
-    "https://www.theguardian.com/business/2026/aug/31/starbucks-documentary-baristas-billionaires"
-  ],
-  [
-    "iran",
-    26,
-    "https://www.nytimes.com/2026/08/31/world/middleeast/us-iran-uae-jordan-attacks.html"
-  ],
-  [
-    "flash",
-    26,
-    "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html"
-  ],
-  [
-    "grand",
     23,
-    "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html"
-  ],
-  [
-    "country",
-    22,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "canyon",
-    21,
-    "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html"
-  ],
-  [
-    "donald",
-    21,
-    "https://www.theguardian.com/culture/2026/aug/31/british-museum-hosted-palantir-founder-peter-thiel-private-viewing-bayeux-tapestry"
-  ],
-  [
-    "death",
-    19,
-    "https://www.washingtonpost.com/investigations/2026/08/30/20-years-later-new-dispute-emerges-over-notorious-dupont-circle-killing/"
-  ],
-  [
-    "game",
-    19,
-    "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action"
+    "https://www.theguardian.com/global-development/2026/aug/31/south-africa-river-pollution-water-treatment-food-security-climate"
   ],
   [
     "latest",
-    18,
-    "https://www.nytimes.com/2026/08/31/world/middleeast/us-iran-uae-jordan-attacks.html"
+    22,
+    "https://www.nytimes.com/2026/08/31/us/justice-department-subpoena-james-comey-richman-trump.html"
   ],
   [
-    "family",
-    18,
-    "https://www.theguardian.com/us-news/2026/aug/31/georgia-police-officer-on-leave-donkey-killed"
-  ],
-  [
-    "voters",
-    17,
-    "https://www.nytimes.com/2026/08/31/us/politics/postal-service-mail-ballots-delays-midterms-voting.html"
-  ],
-  [
-    "oil",
-    17,
-    "https://www.nytimes.com/2026/08/31/podcasts/the-headlines/navy-supply-chain-iran-strikes-trump-oil-venezuela.html"
-  ],
-  [
-    "decision",
-    17,
-    "https://www.nytimes.com/2026/08/31/style/john-galliano-met-gala-canceled.html"
-  ],
-  [
-    "flood",
-    16,
-    "https://www.nytimes.com/2026/08/31/world/asia/china-nepal-tibet-flood-himalayas-risk.html"
-  ],
-  [
-    "because",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/aug/31/trumps-plan-to-sell-off-a-part-of-yosemite-is-what-oligarchy-looks-like"
-  ],
-  [
-    "company",
-    16,
-    "https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude"
+    "ballroom",
+    22,
+    "https://www.nytimes.com/2026/08/31/briefing/supreme-court-trump-ballroom-met-gala.html"
   ],
   [
     "political",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/31/annie-andrews-south-carolina-senate"
+    21,
+    "https://www.nytimes.com/2026/08/31/us/justice-department-subpoena-james-comey-richman-trump.html"
   ],
   [
-    "past",
-    15,
-    "https://www.nytimes.com/2026/08/31/science/dog-breeding-gene-editing-crispr.html"
+    "war",
+    20,
+    "https://www.nytimes.com/2026/08/31/us/politics/iraq-war-marine-death.html"
+  ],
+  [
+    "murder",
+    20,
+    "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
+  ],
+  [
+    "team",
+    20,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "grand",
+    19,
+    "https://www.nytimes.com/2026/08/31/us/justice-department-subpoena-james-comey-richman-trump.html"
+  ],
+  [
+    "country",
+    19,
+    "https://www.nytimes.com/2026/08/31/climate/nepal-disaster-cost-climate.html"
+  ],
+  [
+    "company",
+    19,
+    "https://www.theguardian.com/us-news/2026/aug/31/george-santos-kalshi-lifetime-ban"
+  ],
+  [
+    "health",
+    18,
+    "https://www.nytimes.com/2026/08/31/health/measles-deaths-pennsylvania-schwartz-kennedy-shapiro.html"
+  ],
+  [
+    "supreme",
+    18,
+    "https://www.nytimes.com/2026/08/31/briefing/supreme-court-trump-ballroom-met-gala.html"
+  ],
+  [
+    "again",
+    18,
+    "https://www.nytimes.com/2026/08/31/us/politics/new-hampshire-senate-scott-brown.html"
+  ],
+  [
+    "tested",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/aug/31/best-work-from-home-office-setup-upgrades"
+  ],
+  [
+    "donald",
+    18,
+    "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns"
+  ],
+  [
+    "construction",
+    17,
+    "https://www.nytimes.com/2026/08/31/briefing/supreme-court-trump-ballroom-met-gala.html"
+  ],
+  [
+    "flash",
+    17,
+    "https://www.nytimes.com/2026/08/31/travel/flash-floods-hiking-what-to-know.html"
+  ],
+  [
+    "trade",
+    17,
+    "https://www.washingtonpost.com/business/2026/08/31/amazon-secretly-inflated-ad-prices-ftc-22-states-allege-lawsuit/"
+  ],
+  [
+    "dan",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns"
+  ],
+  [
+    "south",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/31/james-clyburn-clarence-thomas-supreme-court"
+  ],
+  [
+    "santos",
+    17,
+    "https://www.theguardian.com/us-news/2026/aug/31/george-santos-kalshi-lifetime-ban"
+  ],
+  [
+    "iran",
+    16,
+    "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html"
+  ],
+  [
+    "data",
+    16,
+    "https://www.nytimes.com/2026/08/31/climate/pennsylvanias-ai-gold-rush-meets-second-thoughts.html"
+  ],
+  [
+    "michigan",
+    16,
+    "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html"
+  ],
+  [
+    "carolina",
+    16,
+    "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
+  ],
+  [
+    "park",
+    16,
+    "https://www.washingtonpost.com/nation/2026/08/30/grand-canyon-flooding-leaves-over-20-missing-dozens-evacuated-nps-says/"
+  ],
+  [
+    "argentina",
+    16,
+    "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can"
+  ],
+  [
+    "review",
+    16,
+    "https://www.theguardian.com/film/2026/aug/31/onslaught-movie-review-adria-arjona-adam-wingard"
+  ],
+  [
+    "running",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/31/100-ultramarathons-100-days-rugby-brain-injury-david-jacko-jackson"
+  ],
+  [
+    "football",
+    16,
+    "https://www.theguardian.com/sport/2026/aug/31/nfl-alleged-scam-daejon-love"
   ],
   [
     "government",
@@ -126,34 +186,29 @@
     "https://www.nytimes.com/2026/08/31/world/middleeast/west-bank-israel.html"
   ],
   [
-    "search",
+    "because",
     15,
-    "https://www.nytimes.com/2026/08/31/travel/grand-canyon-reopen-floods-what-to-know.html"
+    "https://www.nytimes.com/2026/08/31/climate/nepal-disaster-cost-climate.html"
   ],
   [
-    "americans",
+    "canyon",
     15,
-    "https://www.nytimes.com/2026/08/31/opinion/data-centers-ai-populism.html"
+    "https://www.nytimes.com/2026/08/31/us/grand-canyon-floods.html"
   ],
   [
-    "system",
+    "john",
     15,
-    "https://www.theguardian.com/commentisfree/2026/aug/31/trumps-plan-to-sell-off-a-part-of-yosemite-is-what-oligarchy-looks-like"
+    "https://www.nytimes.com/2026/08/31/style/john-galliano-met-gala-canceled.html"
   ],
   [
-    "night",
+    "love",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/31/the-one-change-that-worked-stopped-listening-to-podcasts-creativity"
+    "https://www.washingtonpost.com/obituaries/2026/08/30/surgeon-who-never-turned-away-patient-need-other-lives-weve-lost/"
   ],
   [
-    "water",
+    "messi",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood"
-  ],
-  [
-    "tested",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/aug/31/best-work-from-home-office-setup-upgrades"
+    "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can"
   ],
   [
     "guide",
@@ -161,218 +216,163 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/31/best-work-from-home-office-setup-upgrades"
   ],
   [
-    "review",
-    15,
-    "https://www.theguardian.com/food/2026/aug/31/chefs-say-michelin-guide-at-risk-of-losing-credibility-over-suspected-lack-of-inspectors"
-  ],
-  [
-    "least",
-    14,
-    "https://www.nytimes.com/2026/08/31/us/politics/the-least-transparent-midterm-how-dark-money-is-washing-over-the-2026-election.html"
-  ],
-  [
-    "war",
-    14,
-    "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html"
-  ],
-  [
-    "border",
-    14,
-    "https://www.nytimes.com/2026/08/31/world/asia/china-nepal-tibet-flood-himalayas-risk.html"
-  ],
-  [
-    "south",
-    14,
-    "https://www.theguardian.com/music/2026/aug/31/tupac-shakur-trial-closing-arguments"
-  ],
-  [
-    "senate",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/31/annie-andrews-south-carolina-senate"
-  ],
-  [
     "buying",
-    14,
+    15,
     "https://www.theguardian.com/thefilter-us/2026/aug/31/best-work-from-home-office-setup-upgrades"
   ],
   [
-    "season",
+    "driscoll",
+    15,
+    "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns"
+  ],
+  [
+    "night",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/aug/31/the-one-change-that-worked-stopped-listening-to-podcasts-creativity"
+  ],
+  [
+    "nepal",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/31/goodbye-to-babylon-berlin-the-1920s-tv-drama-that-has-eerily-foreshadowed-real-life-politics"
+    "https://www.nytimes.com/2026/08/31/briefing/supreme-court-trump-ballroom-met-gala.html"
   ],
   [
-    "festival",
+    "death",
     14,
-    "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo"
+    "https://www.nytimes.com/2026/08/31/us/politics/iraq-war-marine-death.html"
   ],
   [
-    "nbc",
+    "search",
     14,
-    "https://www.foxnews.com/media/masked-israeli-settlers-attack-nbc-news-crew-palestinian-family-west-bank"
+    "https://www.nytimes.com/2026/08/31/us/grand-canyon-floods.html"
   ],
   [
-    "late",
-    13,
-    "https://www.nytimes.com/2026/08/31/us/politics/postal-service-mail-ballots-delays-midterms-voting.html"
+    "decision",
+    14,
+    "https://www.nytimes.com/2026/08/31/style/john-galliano-met-gala-canceled.html"
   ],
   [
-    "attacks",
-    13,
-    "https://www.nytimes.com/2026/08/31/world/middleeast/us-iran-uae-jordan-attacks.html"
+    "fashion",
+    14,
+    "https://www.nytimes.com/2026/08/31/style/john-galliano-met-gala-canceled.html"
   ],
   [
-    "hundreds",
-    13,
-    "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-teacher.html"
+    "california",
+    14,
+    "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
   ],
   [
-    "history",
-    13,
-    "https://www.nytimes.com/2026/08/31/books/review/francis-fukuyama-in-the-realm-of-the-last-man-end-of-history.html"
+    "early",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "dead",
-    13,
-    "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html"
+    "union",
+    14,
+    "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake"
   ],
   [
-    "park",
-    13,
-    "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html"
+    "kalshi",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/31/george-santos-kalshi-lifetime-ban"
   ],
   [
-    "democrats",
-    13,
-    "https://www.nytimes.com/2026/08/31/opinion/democrats-wokeness-republicans.html"
+    "accused",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/31/george-santos-kalshi-lifetime-ban"
   ],
   [
-    "united",
-    13,
-    "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
+    "oil",
+    14,
+    "https://www.theguardian.com/environment/2026/aug/31/turkmenistan-methane-leaks-un-alerts-mars"
   ],
   [
-    "race",
+    "campaign",
     13,
-    "https://www.theguardian.com/world/2026/aug/31/nepal-tibet-floods-rescuers-hundreds-trapped-hydropower"
+    "https://www.nytimes.com/2026/08/31/us/justice-department-subpoena-james-comey-richman-trump.html"
+  ],
+  [
+    "director",
+    13,
+    "https://www.nytimes.com/2026/08/31/health/measles-deaths-pennsylvania-schwartz-kennedy-shapiro.html"
+  ],
+  [
+    "states",
+    13,
+    "https://www.nytimes.com/2026/08/31/health/measles-deaths-pennsylvania-schwartz-kennedy-shapiro.html"
+  ],
+  [
+    "growing",
+    13,
+    "https://www.nytimes.com/2026/08/31/world/middleeast/west-bank-israel.html"
+  ],
+  [
+    "sayed",
+    13,
+    "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html"
+  ],
+  [
+    "democratic",
+    13,
+    "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html"
+  ],
+  [
+    "died",
+    13,
+    "https://www.nytimes.com/2026/08/31/us/politics/iraq-war-marine-death.html"
+  ],
+  [
+    "family",
+    13,
+    "https://www.nytimes.com/2026/08/31/us/politics/iraq-war-marine-death.html"
+  ],
+  [
+    "floods",
+    13,
+    "https://www.nytimes.com/2026/08/31/travel/flash-floods-hiking-what-to-know.html"
+  ],
+  [
+    "loss",
+    13,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "fewer",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/31/best-work-from-home-office-setup-upgrades"
+  ],
+  [
+    "army",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns"
+  ],
+  [
+    "hard",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/31/james-clyburn-clarence-thomas-supreme-court"
+  ],
+  [
+    "record",
+    13,
+    "https://www.theguardian.com/us-news/2026/aug/31/oldest-hiker-appalachian-trail"
+  ],
+  [
+    "film",
+    13,
+    "https://www.theguardian.com/film/2026/aug/31/onslaught-movie-review-adria-arjona-adam-wingard"
   ],
   [
     "trial",
     13,
-    "https://www.theguardian.com/music/2026/aug/31/tupac-shakur-trial-closing-arguments"
+    "https://www.theguardian.com/commentisfree/2026/aug/31/the-guardian-view-on-regulating-big-tech-meta-has-got-off-too-lightly"
   ],
   [
-    "american",
+    "singer",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/31/ohio-fallout-israeli-settler-violence-west-bank"
+    "https://www.theguardian.com/sport/2026/aug/31/tennessee-to-wear-dolly-parton-tribute-on-helmets-during-2026-college-football-season"
   ],
   [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/31/best-work-from-home-office-setup-upgrades"
-  ],
-  [
-    "politics",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/aug/31/goodbye-to-babylon-berlin-the-1920s-tv-drama-that-has-eerily-foreshadowed-real-life-politics"
-  ],
-  [
-    "children",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/aug/31/ireland-maternity-care-birth-pay-safe-state-care"
-  ],
-  [
-    "weekend",
-    13,
-    "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action"
-  ],
-  [
-    "clancy",
-    13,
-    "https://www.theguardian.com/wellness/2026/aug/27/what-is-postpartum-psychosis"
-  ],
-  [
-    "china",
+    "response",
     12,
-    "https://www.nytimes.com/2026/08/31/world/asia/china-nepal-tibet-flood-himalayas-risk.html"
-  ],
-  [
-    "book",
-    12,
-    "https://www.washingtonpost.com/obituaries/2026/08/30/surgeon-who-never-turned-away-patient-need-other-lives-weve-lost/"
-  ],
-  [
-    "campaign",
-    12,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "countries",
-    12,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "film",
-    12,
-    "https://www.theguardian.com/film/2026/aug/31/little-women-1994-feelgood-movie"
-  ],
-  [
-    "sleep",
-    12,
-    "https://www.theguardian.com/science/2026/aug/31/retatrutide-weight-loss-drug-gray-market"
-  ],
-  [
-    "hard",
-    12,
-    "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates"
-  ],
-  [
-    "killed",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/31/georgia-police-officer-on-leave-donkey-killed"
-  ],
-  [
-    "graham",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/31/annie-andrews-south-carolina-senate"
-  ],
-  [
-    "trade",
-    12,
-    "https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada"
-  ],
-  [
-    "players",
-    12,
-    "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action"
-  ],
-  [
-    "win",
-    12,
-    "https://www.theguardian.com/sport/2026/aug/30/all-time-great-aaron-donald-comes-out-of-retirement-to-rejoin-stacked-la-rams"
-  ],
-  [
-    "experts",
-    12,
-    "https://www.theguardian.com/environment/2026/aug/31/turkmenistan-methane-leaks-un-alerts-mars"
-  ],
-  [
-    "service",
-    11,
-    "https://www.nytimes.com/2026/08/31/us/politics/postal-service-mail-ballots-delays-midterms-voting.html"
-  ],
-  [
-    "early",
-    11,
-    "https://www.nytimes.com/2026/08/31/us/politics/postal-service-mail-ballots-delays-midterms-voting.html"
-  ],
-  [
-    "space",
-    11,
-    "https://www.nytimes.com/2026/08/31/podcasts/the-headlines/navy-supply-chain-iran-strikes-trump-oil-venezuela.html"
-  ],
-  [
-    "fashion",
-    11,
-    "https://www.nytimes.com/2026/08/31/style/john-galliano-met-gala-canceled.html"
+    "https://www.nytimes.com/2026/08/31/us/politics/us-strikes-iran-new-naval-mine.html"
   ]
 ];
