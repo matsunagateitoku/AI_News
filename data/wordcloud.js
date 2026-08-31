@@ -2,228 +2,278 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    84,
-    "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html"
+    78,
+    "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
   ],
   [
     "president",
-    41,
+    35,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "political",
-    22,
-    "https://www.washingtonpost.com/politics/2026/08/29/how-texas-fight-over-an-ice-agent-could-open-new-political-battleground/"
-  ],
-  [
-    "dolly",
-    22,
-    "https://www.washingtonpost.com/nation/2026/08/29/they-met-line-dollywood-long-ago-then-became-each-others-family/"
-  ],
-  [
     "missing",
-    21,
+    33,
     "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
   ],
   [
-    "lake",
-    21,
-    "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
-  ],
-  [
-    "donald",
-    21,
-    "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
-  ],
-  [
-    "food",
-    21,
-    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
-  ],
-  [
-    "war",
-    20,
-    "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html"
-  ],
-  [
-    "family",
-    20,
-    "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death"
-  ],
-  [
-    "space",
-    20,
-    "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman"
-  ],
-  [
-    "senate",
-    19,
-    "https://www.nytimes.com/2026/08/30/us/politics/ed-markey-seth-moulton-transgender-athletes-massachusetts.html"
-  ],
-  [
-    "game",
-    19,
-    "https://www.theguardian.com/sport/live/2026/aug/30/us-open-tennis-2026-pegula-norrie-and-medvedev-in-action-on-day-one-live"
-  ],
-  [
-    "country",
-    18,
-    "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html"
+    "flash",
+    28,
+    "https://www.nytimes.com/2026/08/26/world/asia/nepal-tibet-floods-wtk.html"
   ],
   [
     "nepal",
-    17,
+    26,
     "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
   ],
   [
-    "democratic",
-    17,
-    "https://www.nytimes.com/2026/08/30/us/dan-mckee-rhode-island-bridge.html"
+    "canyon",
+    25,
+    "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html"
   ],
   [
-    "water",
-    17,
-    "https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html"
+    "political",
+    25,
+    "https://www.washingtonpost.com/politics/2026/08/29/how-texas-fight-over-an-ice-agent-could-open-new-political-battleground/"
   ],
   [
-    "early",
+    "space",
+    24,
+    "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman"
+  ],
+  [
+    "family",
+    23,
+    "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla"
+  ],
+  [
+    "game",
+    23,
+    "https://www.theguardian.com/games/ng-interactive/2026/aug/31/the-biggest-video-games-for-autumn-2026-gta-vi"
+  ],
+  [
+    "donald",
+    22,
+    "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name"
+  ],
+  [
+    "social",
+    22,
+    "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits"
+  ],
+  [
+    "food",
+    22,
+    "https://www.theguardian.com/travel/2026/aug/31/perfect-pierogi-polish-dumplings-gdansk-poland"
+  ],
+  [
+    "ice",
+    21,
+    "https://www.nytimes.com/2026/08/30/world/africa/us-deportation-flight-ice-detention-liberia.html"
+  ],
+  [
+    "grand",
+    21,
+    "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html"
+  ],
+  [
+    "flood",
+    20,
+    "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html"
+  ],
+  [
+    "country",
+    19,
+    "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html"
+  ],
+  [
+    "war",
+    19,
+    "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html"
+  ],
+  [
+    "floods",
+    19,
+    "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
+  ],
+  [
+    "death",
+    19,
+    "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
+  ],
+  [
+    "autumn",
+    18,
+    "https://www.theguardian.com/stage/ng-interactive/2026/aug/31/plays-shows-and-dance-this-autumn"
+  ],
+  [
+    "michigan",
+    18,
+    "https://www.theguardian.com/us-news/2026/aug/30/abdul-el-sayed-apology-michigan-synagogue-attack-comment"
+  ],
+  [
+    "dolly",
     17,
-    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
+    "https://www.nytimes.com/2026/08/30/us/dolly-parton-southern-christianity.html"
   ],
   [
     "parton",
     17,
-    "https://www.washingtonpost.com/nation/2026/08/29/they-met-line-dollywood-long-ago-then-became-each-others-family/"
+    "https://www.nytimes.com/2026/08/30/us/dolly-parton-southern-christianity.html"
   ],
   [
-    "michigan",
+    "lake",
     17,
-    "https://www.theguardian.com/us-news/2026/aug/30/abdul-el-sayed-apology-michigan-synagogue-attack-comment"
+    "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
   ],
   [
-    "nation",
+    "season",
     17,
-    "https://www.cbsnews.com/video/former-afghan-general-says-chaos-at-kabul-airport-was-the-worst-situation-of-my-life/"
+    "https://www.theguardian.com/tv-and-radio/2026/aug/31/goodbye-to-babylon-berlin-the-1920s-tv-drama-that-has-eerily-foreshadowed-real-life-politics"
   ],
   [
-    "death",
+    "telescope",
+    17,
+    "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman"
+  ],
+  [
+    "late",
     16,
-    "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
+    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
   ],
   [
-    "james",
+    "early",
     16,
-    "https://www.nytimes.com/2026/08/30/books/review/the-disappearers-marlon-james.html"
+    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
   ],
   [
-    "least",
+    "campaign",
     16,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "because",
-    16,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans"
-  ],
-  [
-    "win",
+    "senate",
     16,
     "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
   ],
   [
-    "social",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits"
-  ],
-  [
-    "sen",
-    16,
-    "https://www.cbsnews.com/news/richard-blumenthal-connecticut-democrat-face-the-nation-transcript-08-30-2026/"
-  ],
-  [
-    "book",
+    "iran",
     15,
-    "https://www.nytimes.com/2026/08/30/books/review/the-disappearers-marlon-james.html"
+    "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html"
   ],
   [
-    "late",
+    "dead",
+    15,
+    "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
+  ],
+  [
+    "democratic",
+    15,
+    "https://www.nytimes.com/2026/08/30/us/dan-mckee-rhode-island-bridge.html"
+  ],
+  [
+    "park",
+    15,
+    "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html"
+  ],
+  [
+    "oil",
     15,
     "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
   ],
   [
-    "american",
+    "company",
     15,
-    "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
+    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
   ],
   [
-    "police",
+    "california",
     15,
-    "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death"
+    "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo"
   ],
   [
-    "margaret",
+    "night",
     15,
-    "https://www.theguardian.com/books/2026/aug/29/laurie-anderson-manuscript-88-years-future-library-oslo"
+    "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo"
   ],
   [
-    "flash",
+    "because",
+    15,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans"
+  ],
+  [
+    "flooding",
     14,
     "https://www.nytimes.com/2026/08/26/world/asia/nepal-tibet-floods-wtk.html"
   ],
   [
-    "ontario",
+    "primary",
+    14,
+    "https://www.nytimes.com/2026/08/30/us/dan-mckee-rhode-island-bridge.html"
+  ],
+  [
+    "least",
+    14,
+    "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html"
+  ],
+  [
+    "service",
+    14,
+    "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html"
+  ],
+  [
+    "york",
+    14,
+    "https://www.nytimes.com/2026/08/30/nyregion/nyc-conversions-analysis-pfizer.html"
+  ],
+  [
+    "american",
     14,
     "https://www.washingtonpost.com/business/2026/08/29/lake-ontario-boat-captains-spurn-lake-america-name/"
   ],
   [
-    "campaign",
+    "florida",
     14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake"
   ],
   [
-    "night",
+    "government",
     14,
-    "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo"
+    "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name"
   ],
   [
-    "season",
+    "died",
+    14,
+    "https://www.theguardian.com/us-news/2026/aug/30/grand-canyon-flash-flood-arizona-people-missing-evacuated"
+  ],
+  [
+    "running",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/aug/31/goodbye-to-babylon-berlin-the-1920s-tv-drama-that-has-eerily-foreshadowed-real-life-politics"
+  ],
+  [
+    "win",
     14,
     "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
   ],
   [
-    "america",
+    "police",
     14,
-    "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
+    "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death"
   ],
   [
-    "killed",
+    "film",
     14,
-    "https://www.theguardian.com/world/2026/aug/30/people-return-remains-homes-nepal-floods-devighat-trishuli-river"
+    "https://www.theguardian.com/film/ng-interactive/2026/aug/30/the-best-films-of-autumn-2026"
   ],
   [
-    "brennan",
-    14,
-    "https://www.cbsnews.com/video/former-afghan-general-says-chaos-at-kabul-airport-was-the-worst-situation-of-my-life/"
-  ],
-  [
-    "ice",
+    "british",
     13,
-    "https://www.nytimes.com/2026/08/30/world/africa/us-deportation-flight-ice-detention-liberia.html"
+    "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
   ],
   [
-    "democrats",
+    "attack",
     13,
-    "https://www.nytimes.com/2026/08/30/us/politics/mail-voting-trump-midterms-supreme-court.html"
-  ],
-  [
-    "primary",
-    13,
-    "https://www.nytimes.com/2026/08/30/us/politics/ed-markey-seth-moulton-transgender-athletes-massachusetts.html"
-  ],
-  [
-    "company",
-    13,
-    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
     "fire",
@@ -231,9 +281,9 @@
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "latest",
+    "released",
     13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "team",
@@ -243,57 +293,27 @@
   [
     "festival",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans"
-  ],
-  [
-    "california",
-    13,
     "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo"
   ],
   [
-    "florida",
+    "weekend",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
+    "https://www.theguardian.com/thefilter-us/2026/aug/30/fall-travel-getaway-hotels-cabins-inns"
   ],
   [
-    "film",
+    "young",
     13,
-    "https://www.theguardian.com/film/ng-interactive/2026/aug/30/the-best-films-of-autumn-2026"
+    "https://www.theguardian.com/society/ng-interactive/2026/aug/31/online-extortion-grooming-764-social-media-apps-ntwnfb"
   ],
   [
-    "government",
+    "republicans",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name"
+    "https://www.theguardian.com/commentisfree/2026/aug/30/why-is-vegan-suddenly-being-used-as-a-slur"
   ],
   [
-    "order",
+    "media",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation"
-  ],
-  [
-    "los",
-    13,
-    "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death"
-  ],
-  [
-    "running",
-    13,
-    "https://www.theguardian.com/sport/2026/aug/29/division-ii-running-back-dies-after-experiencing-medical-emergency-on-the-sideline-shortly-after-scoring-touchdown"
-  ],
-  [
-    "telescope",
-    13,
-    "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman"
-  ],
-  [
-    "rep",
-    13,
-    "https://www.cbsnews.com/news/john-james-michigan-republican-face-the-nation-transcript-08-30-2026/"
-  ],
-  [
-    "floods",
-    12,
-    "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
+    "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits"
   ],
   [
     "states",
@@ -301,39 +321,34 @@
     "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html"
   ],
   [
-    "court",
+    "private",
     12,
-    "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html"
+    "https://www.nytimes.com/2026/08/30/arts/music/dolly-parton-carl-dean-marriage-relationship.html"
   ],
   [
-    "far",
+    "book",
     12,
-    "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
+    "https://www.washingtonpost.com/obituaries/2026/08/30/surgeon-who-never-turned-away-patient-need-other-lives-weve-lost/"
   ],
   [
-    "oil",
+    "name",
     12,
-    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
+    "https://www.washingtonpost.com/investigations/2026/08/30/20-years-later-new-dispute-emerges-over-notorious-dupont-circle-killing/"
   ],
   [
-    "million",
+    "growing",
     12,
-    "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "politics",
+    "border",
     12,
-    "https://www.washingtonpost.com/politics/2026/08/29/how-texas-fight-over-an-ice-agent-could-open-new-political-battleground/"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "israeli",
+    "parents",
     12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "released",
-    12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo"
   ],
   [
     "filter",
@@ -341,38 +356,23 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/30/fall-travel-getaway-hotels-cabins-inns"
   ],
   [
-    "candidate",
+    "video",
+    12,
+    "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name"
+  ],
+  [
+    "games",
+    12,
+    "https://www.theguardian.com/games/ng-interactive/2026/aug/31/the-biggest-video-games-for-autumn-2026-gta-vi"
+  ],
+  [
+    "democrats",
     12,
     "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate"
   ],
   [
-    "republicans",
+    "support",
     12,
-    "https://www.theguardian.com/commentisfree/2026/aug/30/why-is-vegan-suddenly-being-used-as-a-slur"
-  ],
-  [
-    "died",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/aug/30/ratko-mladic-butcher-bosnia-death-legacy-serbia"
-  ],
-  [
-    "young",
-    12,
-    "https://www.theguardian.com/business/2026/aug/30/nurture-not-nature-how-young-women-can-learn-to-better-wield-economic-power"
-  ],
-  [
-    "tested",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/27/best-running-shoes"
-  ],
-  [
-    "buying",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/aug/27/best-running-shoes"
-  ],
-  [
-    "review",
-    11,
-    "https://www.nytimes.com/2026/08/30/books/review/the-disappearers-marlon-james.html"
+    "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-the-rise-of-germanys-afd-mainstream-parties-must-deliver-a-bolder-response"
   ]
 ];
