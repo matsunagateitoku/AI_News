@@ -2,218 +2,223 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    86,
-    "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html"
+    93,
+    "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html"
   ],
   [
     "president",
-    40,
-    "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html"
+    46,
+    "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-coalition.html"
+  ],
+  [
+    "government",
+    24,
+    "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html"
   ],
   [
     "country",
-    23,
-    "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html"
-  ],
-  [
-    "trial",
-    22,
-    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
-  ],
-  [
-    "judge",
-    22,
-    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
-  ],
-  [
-    "murder",
-    22,
-    "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
-  ],
-  [
-    "america",
-    22,
-    "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy"
-  ],
-  [
-    "york",
-    21,
-    "https://www.theguardian.com/film/2026/sep/01/9-11-documentary-netflix-turning-point"
-  ],
-  [
-    "food",
-    21,
-    "https://www.theguardian.com/film/2026/sep/01/pin-de-fartie-review-samuel-beckett-endgame"
+    24,
+    "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html"
   ],
   [
     "california",
-    20,
+    24,
     "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
   ],
   [
-    "police",
-    19,
-    "https://www.nytimes.com/2026/08/31/nyregion/times-square-subway-stabbing-nypd-shooting.html"
-  ],
-  [
-    "early",
-    19,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "jury",
-    18,
+    "trial",
+    23,
     "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
   ],
   [
-    "summer",
-    18,
-    "https://www.washingtonpost.com/lifestyle/2026/09/01/hes-98-still-an-avid-reader-this-summer-he-took-challenge/"
+    "iran",
+    22,
+    "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html"
+  ],
+  [
+    "latest",
+    21,
+    "https://www.nytimes.com/2026/09/01/business/ships-oil-hormuz-iran-war.html"
+  ],
+  [
+    "judge",
+    21,
+    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
   ],
   [
     "ice",
-    18,
+    21,
     "https://www.washingtonpost.com/immigration/2026/09/01/haitian-immigrant-ohio-takes-his-own-life-after-losing-temporary-protected-status-family-says/"
   ],
   [
-    "film",
-    18,
-    "https://www.theguardian.com/film/2026/sep/01/9-11-documentary-netflix-turning-point"
-  ],
-  [
-    "donald",
-    18,
-    "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada"
-  ],
-  [
-    "killed",
-    17,
-    "https://www.nytimes.com/2026/08/31/nyregion/times-square-subway-stabbing-nypd-shooting.html"
-  ],
-  [
-    "security",
-    17,
-    "https://www.washingtonpost.com/transportation/2026/09/01/110-commercial-trucking-schools-ordered-close-over-over-english-language-rules/"
-  ],
-  [
-    "system",
-    16,
-    "https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html"
-  ],
-  [
-    "clancy",
-    16,
-    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
-  ],
-  [
-    "nepal",
-    16,
-    "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html"
-  ],
-  [
-    "death",
-    16,
-    "https://www.washingtonpost.com/nation/2026/08/31/ex-gang-leader-convicted-murder-30-years-after-tupac-shakurs-death/"
-  ],
-  [
-    "secretary",
-    16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "senate",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/sep/01/hasan-piker-mike-rogers-media"
-  ],
-  [
-    "oil",
-    15,
-    "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html"
-  ],
-  [
-    "primary",
-    15,
-    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-election-what-to-watch.html"
+    "food",
+    20,
+    "https://www.theguardian.com/film/2026/sep/01/pin-de-fartie-review-samuel-beckett-endgame"
   ],
   [
     "political",
-    15,
+    19,
     "https://www.washingtonpost.com/health/2026/08/31/new-cdc-director-delays-adding-pennsylvania-deaths-measles-data/"
   ],
   [
     "campaign",
-    15,
+    19,
     "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "latest",
-    15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "search",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/01/border-patrol-missing-person-grand-canyon-flood"
-  ],
-  [
-    "climate",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/sep/01/nepal-flooding-climate-disaster"
-  ],
-  [
-    "iran",
-    14,
-    "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html"
-  ],
-  [
-    "court",
-    14,
-    "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-internal-records-sealed.html"
-  ],
-  [
-    "floods",
-    14,
-    "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html"
-  ],
-  [
-    "park",
-    14,
-    "https://www.washingtonpost.com/nation/2026/08/30/grand-canyon-flooding-leaves-over-20-missing-dozens-evacuated-nps-says/"
-  ],
-  [
-    "hollywood",
-    14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
     "war",
-    14,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    18,
+    "https://www.nytimes.com/2026/09/01/business/economy/bessent-iran-g20.html"
+  ],
+  [
+    "attack",
+    18,
+    "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
+  ],
+  [
+    "lindsay",
+    18,
+    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
+  ],
+  [
+    "donald",
+    18,
+    "https://www.washingtonpost.com/nation/2026/09/01/most-americans-disapprove-lake-ontario-name-change/"
+  ],
+  [
+    "murder",
+    18,
+    "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
+  ],
+  [
+    "primary",
+    17,
+    "https://www.nytimes.com/2026/08/31/us/markey-moulton-massachusetts-primary-democrats-age.html"
+  ],
+  [
+    "killed",
+    17,
+    "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
+  ],
+  [
+    "summer",
+    17,
+    "https://www.washingtonpost.com/lifestyle/2026/09/01/hes-98-still-an-avid-reader-this-summer-he-took-challenge/"
+  ],
+  [
+    "film",
+    17,
+    "https://www.theguardian.com/film/2026/sep/01/9-11-documentary-netflix-turning-point"
+  ],
+  [
+    "mail",
+    17,
+    "https://www.theguardian.com/us-news/2026/sep/01/usps-whistleblower-mail-in-ballots-trump"
+  ],
+  [
+    "jury",
+    16,
+    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
+  ],
+  [
+    "funding",
+    16,
+    "https://www.washingtonpost.com/nation/2026/09/01/trumps-withholding-ny-counterterror-funds-threatens-safety-governor-says/"
+  ],
+  [
+    "tested",
+    16,
+    "https://www.theguardian.com/us-news/2026/sep/01/usps-whistleblower-mail-in-ballots-trump"
+  ],
+  [
+    "cbs",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/sep/01/trump-kristen-welker-fcc-media"
+  ],
+  [
+    "administration",
+    15,
+    "https://www.nytimes.com/2026/09/01/business/economy/bessent-iran-g20.html"
+  ],
+  [
+    "senate",
+    15,
+    "https://www.nytimes.com/2026/08/31/us/markey-moulton-massachusetts-primary-democrats-age.html"
+  ],
+  [
+    "massachusetts",
+    15,
+    "https://www.nytimes.com/2026/08/31/us/markey-moulton-massachusetts-primary-democrats-age.html"
+  ],
+  [
+    "america",
+    15,
+    "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
+  ],
+  [
+    "clancy",
+    15,
+    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
+  ],
+  [
+    "early",
+    15,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "star",
-    14,
+    15,
     "https://www.theguardian.com/us-news/2026/sep/01/girls-gone-bible-podcast-young-women-christianity"
   ],
   [
-    "season",
+    "game",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/sep/01/best-coffee-upgrades"
+  ],
+  [
+    "oil",
+    14,
+    "https://www.nytimes.com/2026/09/01/business/ships-oil-hormuz-iran-war.html"
+  ],
+  [
+    "john",
+    14,
+    "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html"
+  ],
+  [
+    "nearly",
+    14,
+    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
+  ],
+  [
+    "team",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "maga",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/01/leaving-maga-support-group"
+  ],
+  [
+    "nfl",
     14,
     "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy"
   ],
   [
-    "decision",
+    "system",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/01/lindsay-clancy-jury-deliberating"
+    "https://www.theguardian.com/us-news/2026/sep/01/usps-whistleblower-mail-in-ballots-trump"
   ],
   [
-    "labor",
+    "company",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/01/lindsay-clancy-jury-deliberating"
+    "https://www.theguardian.com/film/2026/sep/01/jewish-artist-support-mark-ruffalo-antisemitism"
   ],
   [
-    "because",
+    "democrats",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/01/us-public-libraries-report"
+    "https://www.theguardian.com/us-news/2026/sep/01/house-bill-prevents-government-shutdown"
   ],
   [
     "night",
@@ -221,158 +226,153 @@
     "https://www.theguardian.com/tv-and-radio/2026/sep/01/modern-family-mitch-cam-groundbreaking-love-jesse-tyler-ferguson-eric-stonestreet"
   ],
   [
-    "cbs",
+    "action",
     14,
     "https://www.theguardian.com/commentisfree/2026/sep/01/trump-kristen-welker-fcc-media"
   ],
   [
-    "center",
-    13,
-    "https://www.nytimes.com/2026/09/01/business/japan-finance-minister-yen.html"
+    "because",
+    14,
+    "https://www.theguardian.com/environment/2026/aug/31/turkmenistan-methane-leaks-un-alerts-mars"
   ],
   [
-    "mail",
+    "attacks",
     13,
-    "https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html"
+    "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html"
   ],
   [
-    "lindsay",
+    "offer",
     13,
-    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
+    "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html"
   ],
   [
-    "children",
+    "really",
     13,
-    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
+    "https://www.nytimes.com/2026/09/01/style/john-galliano-dior-margiela-met.html"
   ],
   [
-    "media",
+    "nepal",
     13,
-    "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html"
-  ],
-  [
-    "attack",
-    13,
-    "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html"
-  ],
-  [
-    "john",
-    13,
-    "https://www.nytimes.com/2026/09/01/briefing/a-fashion-disaster.html"
-  ],
-  [
-    "grand",
-    13,
-    "https://www.washingtonpost.com/weather/2026/08/31/two-bodies-recovered-after-grand-canyon-flash-flood/"
+    "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html"
   ],
   [
     "flash",
     13,
-    "https://www.washingtonpost.com/weather/2026/08/31/two-bodies-recovered-after-grand-canyon-flash-flood/"
+    "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-tibet-aid-relief-how-donate.html"
   ],
   [
-    "missing",
+    "weekend",
     13,
-    "https://www.washingtonpost.com/weather/2026/08/31/two-bodies-recovered-after-grand-canyon-flash-flood/"
+    "https://www.theguardian.com/us-news/2026/sep/01/border-patrol-missing-person-grand-canyon-flood"
   ],
   [
-    "red",
-    13,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "strikes",
+    12,
+    "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html"
   ],
   [
-    "team",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "trying",
+    12,
+    "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html"
   ],
   [
-    "maga",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/01/leaving-maga-support-group"
+    "police",
+    12,
+    "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
+  ],
+  [
+    "stop",
+    12,
+    "https://www.nytimes.com/2026/09/01/world/canada/carney-trump-trade-war.html"
+  ],
+  [
+    "minister",
+    12,
+    "https://www.nytimes.com/2026/09/01/world/canada/carney-trump-trade-war.html"
+  ],
+  [
+    "south",
+    12,
+    "https://www.washingtonpost.com/nation/2026/08/31/ex-gang-leader-convicted-murder-30-years-after-tupac-shakurs-death/"
+  ],
+  [
+    "held",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "term",
+    12,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "republican",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/01/hasan-piker-mike-rogers-media"
   ],
   [
     "non",
-    13,
+    12,
     "https://www.theguardian.com/us-news/2026/sep/01/leaving-maga-support-group"
   ],
   [
     "breaking",
-    13,
+    12,
+    "https://www.theguardian.com/us-news/2026/sep/01/leaving-maga-support-group"
+  ],
+  [
+    "children",
+    12,
     "https://www.theguardian.com/us-news/2026/sep/01/leaving-maga-support-group"
   ],
   [
     "ago",
-    13,
+    12,
     "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy"
   ],
   [
     "american",
-    13,
+    12,
     "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy"
   ],
   [
-    "tested",
-    13,
+    "voting",
+    12,
     "https://www.theguardian.com/us-news/2026/sep/01/usps-whistleblower-mail-in-ballots-trump"
   ],
   [
-    "democrats",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/01/lawmakers-trump-obscure-law-investigation"
-  ],
-  [
-    "action",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/sep/01/trump-kristen-welker-fcc-media"
-  ],
-  [
-    "history",
+    "running",
     12,
-    "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-internal-records-sealed.html"
+    "https://www.theguardian.com/us-news/2026/sep/01/former-maga-supporters-trump"
   ],
   [
-    "massachusetts",
+    "filter",
     12,
-    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-election-what-to-watch.html"
+    "https://www.theguardian.com/thefilter-us/2026/sep/01/best-coffee-upgrades"
   ],
   [
-    "company",
+    "buying",
     12,
-    "https://www.nytimes.com/2026/09/01/business/novo-nordisk-ozempic-wegovy-glp1s-stocks.html"
+    "https://www.theguardian.com/thefilter-us/2026/sep/01/best-coffee-upgrades"
   ],
   [
-    "fashion",
+    "festival",
     12,
-    "https://www.nytimes.com/2026/09/01/briefing/a-fashion-disaster.html"
+    "https://www.theguardian.com/commentisfree/2026/sep/01/olivia-rodrigo-is-standing-up-for-the-vulnerable-i-wish-taylor-swift-would-do-the-same"
   ],
   [
-    "nearly",
-    12,
-    "https://www.washingtonpost.com/education/2026/02/09/colleges-free-tuition/"
+    "support",
+    11,
+    "https://www.nytimes.com/2026/09/01/business/economy/bessent-iran-g20.html"
   ],
   [
-    "again",
-    12,
-    "https://www.washingtonpost.com/lifestyle/2026/09/01/hes-98-still-an-avid-reader-this-summer-he-took-challenge/"
+    "decade",
+    11,
+    "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html"
   ],
   [
-    "authorities",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/01/border-patrol-missing-person-grand-canyon-flood"
-  ],
-  [
-    "tom",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/01/trump-roadless-rule-old-growth-forests"
-  ],
-  [
-    "full",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/01/ultramarathon-runners-training-months-what-happens-dont-finish-race"
-  ],
-  [
-    "review",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/sep/01/trump-kristen-welker-fcc-media"
+    "shutdown",
+    11,
+    "https://www.nytimes.com/2026/09/01/us/politics/house-vote-government-shutdown.html"
   ]
 ];

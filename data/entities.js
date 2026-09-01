@@ -2,69 +2,69 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "The Venezuelan Oil Business Under Trump",
-      "count": 57,
-      "url": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
-      "source": "NY Times"
+      "name": "Trump Administration’S",
+      "count": 62,
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/lawmakers-trump-obscure-law-investigation",
+      "source": "The Guardian"
     },
     {
       "name": "Ai Overviews",
-      "count": 20,
+      "count": 23,
       "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
-      "count": 13,
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5950587/supreme-court-trump-white-house-ballroom-separation-powers",
-      "source": "NPR"
-    },
-    {
-      "name": "Operation Rotten Apple",
-      "count": 12,
-      "url": "https://www.cbsnews.com/video/dhs-secretary-mullin-gives-update-on-operation-rotten-apple/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Massachusetts Senate",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/sep/01/ed-markey-massachusetts-senate-democrats",
-      "source": "The Guardian"
+      "name": "House Votes To Avert Government Shutdown Before Midterm Elections",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/house-vote-government-shutdown.html",
+      "source": "NY Times"
     },
     {
       "name": "Nfl",
-      "count": 9,
+      "count": 12,
       "url": "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy",
       "source": "The Guardian"
     },
     {
+      "name": "Congress",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/usps-whistleblower-mail-in-ballots-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Immigration And Customs Enforcement ( Ice",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/milo-yiannopoulos-deported-trump-support",
+      "source": "The Guardian"
+    },
+    {
       "name": "The Filter Us",
-      "count": 9,
+      "count": 10,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Ice",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
-      "source": "Wall St. Journal"
+      "name": "Cbs Sports",
+      "count": 9,
+      "url": "https://www.cbsnews.com/news/tony-romo-no-contest-wisconsin-owi-9-1-2026/",
+      "source": "CBS News"
     },
     {
-      "name": "Ucla",
-      "count": 8,
-      "url": "https://www.latimes.com/california/story/2026-08-31/ucla-pro-palestinian-protest-discipline-lawsuit",
-      "source": "LA Times"
+      "name": "The Democratic Us Senate",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/abdul-el-sayed-jd-vance-evil",
+      "source": "The Guardian"
     },
     {
-      "name": "Army",
-      "count": 8,
-      "url": "https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting",
-      "source": "NPR"
+      "name": "Guardian",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/lawmakers-trump-obscure-law-investigation",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The Us Open     You",
+      "name": "The Us Open",
       "count": 2,
       "url": "https://www.theguardian.com/sport/live/2026/sep/01/us-open-2026-rybakina-fery-fritz-keys-andreeva-de-minaur-day-three-live",
       "source": "The Guardian"
@@ -72,14 +72,8 @@
     {
       "name": "World Cup",
       "count": 2,
-      "url": "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement",
+      "url": "https://www.theguardian.com/football/2026/sep/01/lionel-messi-argentina-international-career",
       "source": "The Guardian"
-    },
-    {
-      "name": "Super Bowl",
-      "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/ex-nfl-star-chad-ochocinco-dishes-storybook-super-bowl-matchup-2026-nfl-season",
-      "source": "Fox News"
     },
     {
       "name": "Olympic",
@@ -133,83 +127,83 @@
     },
     {
       "name": "U.S.",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
       "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 17,
-      "url": "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "New York City'S",
-      "count": 15,
-      "url": "https://www.cbsnews.com/video/victim-in-times-square-stabbing-bank-of-america/",
-      "source": "CBS News"
     },
     {
       "name": "Iran",
-      "count": 14,
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California County'S",
+      "count": 22,
+      "url": "https://thehill.com/homenews/state-watch/6064127-tina-peters-declines-shasta-job/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Russia",
+      "count": 12,
       "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
       "source": "NY Times"
     },
     {
-      "name": "America",
-      "count": 12,
-      "url": "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Spain",
-      "count": 12,
-      "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hollywood",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
-      "source": "Wall St. Journal"
-    },
-    {
       "name": "Massachusetts",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/sep/01/lindsay-clancy-jury-deliberating",
-      "source": "The Guardian"
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/08/31/us/markey-moulton-massachusetts-primary-democrats-age.html",
+      "source": "NY Times"
     },
     {
       "name": "Uk",
-      "count": 10,
-      "url": "https://www.theguardian.com/politics/2026/sep/01/keir-starmer-to-stand-down-as-mp",
+      "count": 11,
+      "url": "https://www.theguardian.com/news/video/2026/sep/01/british-activist-abducted-by-west-bank-settlers-deported-by-israel-the-latest",
       "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/tropical-storm-edouard-texas-louisiana",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ukraine",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/world/2026/08/31/russian-finance-minister-invited-by-trump-draws-objections-g-20-meeting/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "L.A.",
+      "count": 9,
+      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-09-01/the-drop-a-snowfall-saga-fx-gail-bean-asante-blackk-fall-preview",
+      "source": "LA Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 24,
-      "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
-      "source": "The Guardian"
+      "count": 28,
+      "url": "https://www.washingtonpost.com/nation/2026/09/01/most-americans-disapprove-lake-ontario-name-change/",
+      "source": "Washington Post"
     },
     {
       "name": "Lindsay Clancy",
-      "count": 12,
+      "count": 13,
       "url": "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html",
       "source": "NY Times"
     },
     {
       "name": "Colin Kaepernick",
-      "count": 10,
+      "count": 8,
       "url": "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy",
       "source": "The Guardian"
     },
     {
-      "name": "Tupac Shakur",
-      "count": 7,
-      "url": "https://www.washingtonpost.com/nation/2026/08/31/ex-gang-leader-convicted-murder-30-years-after-tupac-shakurs-death/",
-      "source": "Washington Post"
+      "name": "Tony Romo",
+      "count": 8,
+      "url": "https://www.theguardian.com/sport/2026/sep/01/former-nfl-star-tony-romo-given-driving-ban-and-vows-to-own-my-mistakes-after-owi-arrest",
+      "source": "The Guardian"
     },
     {
       "name": "Leaving Maga",
@@ -230,15 +224,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "Dan Driscoll",
-      "count": 6,
-      "url": "https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting",
-      "source": "NPR"
-    },
-    {
       "name": "Mike Rogers",
       "count": 5,
       "url": "https://www.theguardian.com/commentisfree/2026/sep/01/hasan-piker-mike-rogers-media",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/abdul-el-sayed-jd-vance-evil",
       "source": "The Guardian"
     },
     {
@@ -248,5 +242,5 @@
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-09-01T17:15:09Z"
+  "updated": "2026-09-01T21:39:39Z"
 };
