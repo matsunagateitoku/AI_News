@@ -3,31 +3,19 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 69,
-      "url": "https://www.theguardian.com/thefilter-us/2026/aug/31/best-work-from-home-office-setup-upgrades",
+      "count": 68,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/31/trumps-plan-to-sell-off-a-part-of-yosemite-is-what-oligarchy-looks-like",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 31,
-      "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Argentina",
-      "count": 17,
-      "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 13,
+      "count": 21,
       "url": "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/",
       "source": "Washington Post"
     },
@@ -38,49 +26,167 @@
       "source": "NY Times"
     },
     {
+      "name": "China",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Canada",
-      "count": 11,
+      "count": 9,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
-      "name": "New York City",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/2026/aug/29/new-york-nepal-tibet-disaster",
+      "name": "San Diego",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/san-diego-mosque-shooting-teen-livestream-charged",
       "source": "The Guardian"
     },
     {
-      "name": "L.A. County",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-08-31/d4vd-private-attorneys-public-defender-murder-case",
-      "source": "LA Times"
+      "name": "The United States Of America",
+      "count": 9,
+      "url": "https://thehill.com/newsletters/energy-environment/6062207-trump-us-has-control-of-large-slice-of-venezuelas-oil/",
+      "source": "The Hill"
     },
     {
-      "name": "Venezuela",
+      "name": "Israel",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-committee.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
+      "source": "NY Times"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 26,
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tupac Shakur",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-murder.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Prof&Nbsp;Daniel M Davis",
+      "count": 14,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/31/is-it-true-that-mental-health-is-affected-by-inflammation",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Abdul El-Sayed ‘Evil",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Dan Driscoll",
       "count": 10,
-      "url": "https://www.npr.org/2026/08/31/g-s1-141187/up-first-newsletter-venezuela-oil-iran-war-house-government-funding-grand-canyon-flash-flooding",
-      "source": "NPR"
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns",
+      "source": "The Guardian"
+    },
+    {
+      "name": "George Santos",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/george-santos-kalshi-lifetime-ban",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Vance Defends Approach",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-committee.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Lindsey Graham",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/annie-andrews-south-carolina-senate",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Duane Keith Davis",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-murder-duane-davis-guilty-convicted.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jd Vance Called",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html",
+      "source": "NY Times"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "The Venezuelan Oil Business Under Trump",
+      "count": 60,
+      "url": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ai Overviews",
+      "count": 27,
+      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Michigan Senate",
+      "count": 17,
+      "url": "https://www.foxnews.com/media/cbs-news-takes-heat-over-report-dem-hopeful-abdul-el-sayeds-now-deleted-9-11-posts",
+      "source": "Fox News"
+    },
+    {
+      "name": "Army",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The White House",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns",
+      "source": "The Guardian"
+    },
+    {
+      "name": "White House Ballroom Construction",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/08/31/us/politics/supreme-court-trump-ballroom.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Guardian Europe",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 9,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Amazon",
+      "count": 8,
+      "url": "https://www.washingtonpost.com/business/2026/08/31/amazon-secretly-inflated-ad-prices-ftc-22-states-allege-lawsuit/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/31/the-guardian-view-on-trumps-immigration-crackdown-who-will-have-fewer-rights-next",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
-    {
-      "name": "A Super Bowl",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/aug/30/all-time-great-aaron-donald-comes-out-of-retirement-to-rejoin-stacked-la-rams",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The 2026 World Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messi-retires-from-international-football-argentina",
-      "source": "The Guardian"
-    },
     {
       "name": "The Us Open",
       "count": 2,
@@ -88,10 +194,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Iraq War",
+      "name": "The 2026 World Cup",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/08/31/us/politics/iraq-war-marine-death.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can",
+      "source": "The Guardian"
     },
     {
       "name": "Resignation",
@@ -112,141 +218,35 @@
       "source": "The Guardian"
     },
     {
-      "name": "26Th Us Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/aug/31/venus-williams-sofia-kenin-us-open-first-round",
-      "source": "The Guardian"
-    },
-    {
       "name": "Night Live",
       "count": 1,
       "url": "https://www.theguardian.com/stage/2026/aug/29/chris-cantrill-rewilding-review-monkey-barrel-comedy-edinburgh",
       "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
+    },
     {
-      "name": "Donald Trump",
-      "count": 31,
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns",
+      "name": "Black Swan",
+      "count": 1,
+      "url": "https://www.theguardian.com/books/2026/aug/26/rachel-cusk-natalie-portman-novel-biogossip-literature",
       "source": "The Guardian"
     },
     {
-      "name": "George Santos",
-      "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/george-santos-kalshi-lifetime-ban",
+      "name": "The Great British Bake Off Guardian",
+      "count": 1,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/28/tell-us-about-the-tv-shows-that-that-have-turned-sour-for-you",
       "source": "The Guardian"
     },
     {
-      "name": "Messi",
-      "count": 15,
-      "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can",
-      "source": "The Guardian"
+      "name": "Super Bowl",
+      "count": 1,
+      "url": "https://www.latimes.com/sports/rams/story/2026-08-30/aaron-donald-to-come-out-of-retirement-to-rejoin-rams",
+      "source": "LA Times"
     },
     {
-      "name": "Dan Driscoll",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Press Kalshi",
-      "count": 13,
-      "url": "https://thehill.com/newsletters/technology/6061870-kalshi-bans-george-santos-for-life/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Abdul El-Sayed ‘Evil",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Dolly Parton",
-      "count": 8,
-      "url": "https://www.theguardian.com/sport/2026/aug/31/tennessee-to-wear-dolly-parton-tribute-on-helmets-during-2026-college-football-season",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Lindsey Graham",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/annie-andrews-south-carolina-senate",
-      "source": "The Guardian"
-    },
-    {
-      "name": "David ‘Jacko’ Jackson",
-      "count": 7,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/31/100-ultramarathons-100-days-rugby-brain-injury-david-jacko-jackson",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Lindsay Clancy",
-      "count": 7,
-      "url": "https://www.theguardian.com/wellness/2026/aug/27/what-is-postpartum-psychosis",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Irs Audit Revenue Has Plummeted Under Trump",
-      "count": 60,
-      "url": "https://www.nytimes.com/2026/08/31/business/irs-audit-revenue.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Michigan Senate",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "White House Ballroom Construction To Continue",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/08/31/briefing/supreme-court-trump-ballroom-met-gala.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ai Overviews",
-      "count": 18,
-      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 15,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/31/the-guardian-view-on-trumps-immigration-crackdown-who-will-have-fewer-rights-next",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S. Army",
-      "count": 11,
-      "url": "https://www.cbsnews.com/video/army-secretary-dan-driscoll-resigns-after-friction-with-hegseth/",
+      "name": "U.S. Open",
+      "count": 1,
+      "url": "https://www.cbsnews.com/video/could-an-american-win-mens-singles-at-this-years-us-open/",
       "source": "CBS News"
-    },
-    {
-      "name": "Amazon",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/business/2026/08/31/amazon-secretly-inflated-ad-prices-ftc-22-states-allege-lawsuit/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Guardian",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/31/trumps-plan-to-sell-off-a-part-of-yosemite-is-what-oligarchy-looks-like",
-      "source": "The Guardian"
     }
   ],
-  "updated": "2026-08-31T23:09:31Z"
+  "updated": "2026-09-01T06:08:48Z"
 };
