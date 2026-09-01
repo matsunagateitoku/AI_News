@@ -3,45 +3,39 @@
   "ORG": [
     {
       "name": "The Venezuelan Oil Business Under Trump",
-      "count": 64,
+      "count": 57,
       "url": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
       "source": "NY Times"
     },
     {
       "name": "Ai Overviews",
-      "count": 18,
+      "count": 20,
       "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
       "source": "The Guardian"
     },
     {
-      "name": "Massachusetts Senate",
-      "count": 12,
-      "url": "https://www.foxnews.com/politics/democrats-generational-battle-erupts-80-year-old-senator-faces-younger-challenger",
-      "source": "Fox News"
-    },
-    {
-      "name": "Nbc News Senior National Politics",
-      "count": 12,
-      "url": "https://www.nbcnews.com/meet-the-press/video/trump-doesn-t-have-a-plan-on-iran-voters-in-key-pennsylvania-district-upset-with-handling-of-war-268422725765",
-      "source": "NBC News"
-    },
-    {
-      "name": "White House Ballroom Construction",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/08/31/us/politics/supreme-court-trump-ballroom.html",
-      "source": "NY Times"
-    },
-    {
       "name": "The White House",
+      "count": 13,
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5950587/supreme-court-trump-white-house-ballroom-separation-powers",
+      "source": "NPR"
+    },
+    {
+      "name": "Operation Rotten Apple",
+      "count": 12,
+      "url": "https://www.cbsnews.com/video/dhs-secretary-mullin-gives-update-on-operation-rotten-apple/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Massachusetts Senate",
       "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns",
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/ed-markey-massachusetts-senate-democrats",
       "source": "The Guardian"
     },
     {
-      "name": "Congress",
+      "name": "Nfl",
       "count": 9,
-      "url": "https://www.nytimes.com/2026/08/31/us/politics/supreme-court-trump-ballroom.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
@@ -50,41 +44,53 @@
       "source": "The Guardian"
     },
     {
-      "name": "Massachusetts ▪ Army",
-      "count": 9,
-      "url": "https://thehill.com/newsletters/morning-report/6062732-tough-primary-season-incumbents-grand-finale-massachusetts-markey-moulton/",
-      "source": "The Hill"
+      "name": "Ice",
+      "count": 8,
+      "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "Fcc",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/01/trump-kristen-welker-fcc-media",
-      "source": "The Guardian"
+      "name": "Ucla",
+      "count": 8,
+      "url": "https://www.latimes.com/california/story/2026-08-31/ucla-pro-palestinian-protest-discipline-lawsuit",
+      "source": "LA Times"
+    },
+    {
+      "name": "Army",
+      "count": 8,
+      "url": "https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting",
+      "source": "NPR"
     }
   ],
   "EVENT": [
     {
-      "name": "The Paris Olympics",
+      "name": "The Us Open     You",
       "count": 2,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/01/raygun-breaking-badly-review-netflix-ridiculed-olympic-breakdancer-total-joy",
+      "url": "https://www.theguardian.com/sport/live/2026/sep/01/us-open-2026-rybakina-fery-fritz-keys-andreeva-de-minaur-day-three-live",
       "source": "The Guardian"
     },
     {
-      "name": "Decision Day",
+      "name": "World Cup",
       "count": 2,
-      "url": "https://www.nbcnews.com/meet-the-press/video/trump-doesn-t-have-a-plan-on-iran-voters-in-key-pennsylvania-district-upset-with-handling-of-war-268422725765",
-      "source": "NBC News"
+      "url": "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement",
+      "source": "The Guardian"
     },
     {
-      "name": "The World Today",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/09/01/arts/music/yo-yo-ma-profile.html",
-      "source": "NY Times"
+      "name": "Super Bowl",
+      "count": 2,
+      "url": "https://www.foxnews.com/outkick-sports/ex-nfl-star-chad-ochocinco-dishes-storybook-super-bowl-matchup-2026-nfl-season",
+      "source": "Fox News"
     },
     {
-      "name": "Resignation",
+      "name": "Olympic",
       "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns",
+      "url": "https://www.theguardian.com/sport/2026/sep/01/raygun-netflix-documentary-breaking-badly-review-olympics",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Paris Olympics",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/sep/01/raygun-netflix-documentary-breaking-badly-review-olympics",
       "source": "The Guardian"
     },
     {
@@ -94,21 +100,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Us Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/sep/01/alex-eala-us-open-philippines",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Us Open’S",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/sep/01/alex-eala-us-open-philippines",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The 2026 World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can",
       "source": "The Guardian"
     },
     {
@@ -122,94 +116,106 @@
       "count": 1,
       "url": "https://www.theguardian.com/tv-and-radio/2026/aug/28/tell-us-about-the-tv-shows-that-that-have-turned-sour-for-you",
       "source": "The Guardian"
+    },
+    {
+      "name": "The Rose Bowl",
+      "count": 1,
+      "url": "https://www.latimes.com/sports/ucla/story/2026-09-01/martin-jarmond-ucla-legacy-football-turmoil-money-woes",
+      "source": "LA Times"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 49,
-      "url": "https://www.theguardian.com/film/2026/sep/01/9-11-documentary-netflix-turning-point",
+      "count": 67,
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/girls-gone-bible-podcast-young-women-christianity",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 21,
+      "count": 19,
       "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 20,
+      "count": 17,
       "url": "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/",
       "source": "Washington Post"
     },
     {
-      "name": "Nepal",
+      "name": "New York City'S",
       "count": 15,
-      "url": "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "China",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County",
-      "count": 11,
-      "url": "https://www.latimes.com/california/story/2026-08-31/d4vd-private-attorneys-public-defender-murder-case",
-      "source": "LA Times"
+      "url": "https://www.cbsnews.com/video/victim-in-times-square-stabbing-bank-of-america/",
+      "source": "CBS News"
     },
     {
       "name": "Iran",
-      "count": 10,
+      "count": 14,
       "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
       "source": "NY Times"
     },
     {
-      "name": "Michigan",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Massachusetts",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/sep/01/ed-markey-massachusetts-senate-democrats",
+      "name": "America",
+      "count": 12,
+      "url": "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy",
       "source": "The Guardian"
     },
     {
       "name": "Spain",
-      "count": 9,
+      "count": 12,
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hollywood",
+      "count": 11,
+      "url": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Massachusetts",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/lindsay-clancy-jury-deliberating",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 10,
+      "url": "https://www.theguardian.com/politics/2026/sep/01/keir-starmer-to-stand-down-as-mp",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 25,
-      "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-roadless-rule-old-growth-forests",
+      "count": 24,
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Lindsay Clancy",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Colin Kaepernick",
+      "count": 10,
+      "url": "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy",
       "source": "The Guardian"
     },
     {
       "name": "Tupac Shakur",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/09/01/podcasts/the-headlines/supreme-court-secret-documents-cdc-director-tupac-trial.html",
-      "source": "NY Times"
+      "count": 7,
+      "url": "https://www.washingtonpost.com/nation/2026/08/31/ex-gang-leader-convicted-murder-30-years-after-tupac-shakurs-death/",
+      "source": "Washington Post"
     },
     {
-      "name": "Prof&Nbsp;Daniel M Davis",
-      "count": 10,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/31/is-it-true-that-mental-health-is-affected-by-inflammation",
+      "name": "Leaving Maga",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/former-maga-supporters-trump",
       "source": "The Guardian"
-    },
-    {
-      "name": "Abdul El-Sayed ‘Evil",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html",
-      "source": "NY Times"
     },
     {
       "name": "Darline Graham",
@@ -218,35 +224,29 @@
       "source": "Politico"
     },
     {
-      "name": "Colin Kaepernick",
+      "name": "Jerry",
       "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/31/the-pet-ill-never-forget-jerry-the-king-of-dogs-who-taught-me-how-to-live",
       "source": "The Guardian"
     },
     {
       "name": "Dan Driscoll",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns",
+      "url": "https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting",
+      "source": "NPR"
+    },
+    {
+      "name": "Mike Rogers",
+      "count": 5,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/01/hasan-piker-mike-rogers-media",
       "source": "The Guardian"
     },
     {
-      "name": "George Santos",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/george-santos-kalshi-lifetime-ban",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Bill Mcguire",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/01/nepal-tibet-flood-alaska-himalayas-andes-greenland-alps",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dolly Parton",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/aug/31/tennessee-to-wear-dolly-parton-tribute-on-helmets-during-2026-college-football-season",
+      "name": "Olivia Rodrigo",
+      "count": 5,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/01/olivia-rodrigo-is-standing-up-for-the-vulnerable-i-wish-taylor-swift-would-do-the-same",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-09-01T12:28:24Z"
+  "updated": "2026-09-01T17:15:09Z"
 };
