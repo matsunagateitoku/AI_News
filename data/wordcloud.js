@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    89,
-    "https://www.nytimes.com/2026/08/31/us/politics/supreme-court-trump-ballroom.html"
+    90,
+    "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html"
   ],
   [
     "president",
-    46,
-    "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html"
-  ],
-  [
-    "murder",
-    33,
-    "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-murder-duane-davis-guilty-convicted.html"
-  ],
-  [
-    "grand",
-    23,
-    "https://www.washingtonpost.com/weather/2026/08/31/two-bodies-recovered-after-grand-canyon-flash-flood/"
-  ],
-  [
-    "secretary",
-    22,
-    "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html"
+    45,
+    "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html"
   ],
   [
     "court",
-    22,
-    "https://www.nytimes.com/2026/08/31/us/politics/supreme-court-trump-ballroom.html"
+    27,
+    "https://www.nytimes.com/2026/09/01/podcasts/the-headlines/supreme-court-secret-documents-cdc-director-tupac-trial.html"
   ],
   [
-    "food",
-    22,
-    "https://www.theguardian.com/global-development/2026/aug/31/south-africa-river-pollution-water-treatment-food-security-climate"
-  ],
-  [
-    "senate",
-    21,
-    "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html"
-  ],
-  [
-    "flash",
-    21,
-    "https://www.washingtonpost.com/weather/2026/08/31/two-bodies-recovered-after-grand-canyon-flash-flood/"
+    "murder",
+    27,
+    "https://www.nytimes.com/2026/09/01/podcasts/the-headlines/supreme-court-secret-documents-cdc-director-tupac-trial.html"
   ],
   [
     "california",
-    21,
+    24,
     "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
   ],
   [
-    "tupac",
-    20,
-    "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-murder-duane-davis-guilty-convicted.html"
-  ],
-  [
-    "missing",
-    20,
-    "https://www.washingtonpost.com/weather/2026/08/31/two-bodies-recovered-after-grand-canyon-flash-flood/"
-  ],
-  [
-    "davis",
-    19,
-    "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-murder-duane-davis-guilty-convicted.html"
-  ],
-  [
-    "shakur",
-    19,
-    "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-murder-duane-davis-guilty-convicted.html"
-  ],
-  [
-    "south",
-    19,
-    "https://www.nytimes.com/2026/08/31/arts/music/duane-davis-keffe-d-tupac-murder.html"
-  ],
-  [
-    "sayed",
-    19,
-    "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html"
-  ],
-  [
-    "canyon",
-    19,
-    "https://www.washingtonpost.com/weather/2026/08/31/two-bodies-recovered-after-grand-canyon-flash-flood/"
-  ],
-  [
-    "political",
-    19,
-    "https://www.washingtonpost.com/health/2026/08/31/new-cdc-director-delays-adding-pennsylvania-deaths-measles-data/"
-  ],
-  [
-    "donald",
-    19,
-    "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns"
-  ],
-  [
-    "guilty",
-    18,
-    "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-murder-duane-davis-guilty-convicted.html"
-  ],
-  [
-    "democratic",
-    18,
-    "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html"
-  ],
-  [
-    "country",
-    18,
-    "https://www.nytimes.com/2026/08/31/climate/nepal-disaster-cost-climate.html"
-  ],
-  [
-    "because",
-    18,
-    "https://www.nytimes.com/2026/08/31/climate/nepal-disaster-cost-climate.html"
+    "nepal",
+    22,
+    "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html"
   ],
   [
     "death",
-    18,
+    22,
     "https://www.washingtonpost.com/nation/2026/08/31/ex-gang-leader-convicted-murder-30-years-after-tupac-shakurs-death/"
   ],
   [
-    "war",
-    18,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "food",
+    21,
+    "https://www.theguardian.com/global-development/2026/aug/31/south-africa-river-pollution-water-treatment-food-security-climate"
   ],
   [
-    "company",
+    "john",
+    20,
+    "https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html"
+  ],
+  [
+    "primary",
+    20,
+    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-election-what-to-watch.html"
+  ],
+  [
+    "latest",
+    20,
+    "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html"
+  ],
+  [
+    "tupac",
+    19,
+    "https://www.nytimes.com/2026/09/01/podcasts/the-headlines/supreme-court-secret-documents-cdc-director-tupac-trial.html"
+  ],
+  [
+    "family",
+    19,
+    "https://www.washingtonpost.com/immigration/2026/09/01/haitian-immigrant-ohio-takes-his-own-life-after-losing-temporary-protected-status-family-says/"
+  ],
+  [
+    "country",
+    19,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "senate",
     18,
-    "https://www.theguardian.com/us-news/2026/aug/31/george-santos-kalshi-lifetime-ban"
+    "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html"
+  ],
+  [
+    "floods",
+    18,
+    "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html"
+  ],
+  [
+    "summer",
+    18,
+    "https://www.washingtonpost.com/lifestyle/2026/09/01/hes-98-still-an-avid-reader-this-summer-he-took-challenge/"
   ],
   [
     "american",
     18,
-    "https://www.theguardian.com/us-news/2026/aug/31/ohio-fallout-israeli-settler-violence-west-bank"
-  ],
-  [
-    "army",
-    17,
-    "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html"
-  ],
-  [
-    "administration",
-    17,
-    "https://www.nytimes.com/2026/08/31/us/politics/supreme-court-trump-ballroom.html"
-  ],
-  [
-    "health",
-    17,
-    "https://www.nytimes.com/2026/08/31/health/measles-deaths-pennsylvania-schwartz-kennedy-shapiro.html"
-  ],
-  [
-    "states",
-    17,
-    "https://www.nytimes.com/2026/08/31/health/measles-deaths-pennsylvania-schwartz-kennedy-shapiro.html"
-  ],
-  [
-    "tech",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/aug/31/best-work-from-home-office-setup-upgrades"
+    "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy"
   ],
   [
     "film",
+    18,
+    "https://www.theguardian.com/film/2026/sep/01/9-11-documentary-netflix-turning-point"
+  ],
+  [
+    "davis",
     17,
-    "https://www.theguardian.com/film/2026/aug/31/onslaught-movie-review-adria-arjona-adam-wingard"
-  ],
-  [
-    "driscoll",
-    16,
-    "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html"
-  ],
-  [
-    "duane",
-    16,
     "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-murder-duane-davis-guilty-convicted.html"
   ],
   [
-    "killed",
-    16,
-    "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-murder.html"
+    "police",
+    17,
+    "https://www.nytimes.com/2026/08/31/nyregion/times-square-subway-stabbing-nypd-shooting.html"
   ],
   [
-    "vance",
-    16,
-    "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html"
+    "grand",
+    17,
+    "https://www.washingtonpost.com/weather/2026/08/31/two-bodies-recovered-after-grand-canyon-flash-flood/"
   ],
   [
-    "michigan",
+    "missing",
+    17,
+    "https://www.washingtonpost.com/weather/2026/08/31/two-bodies-recovered-after-grand-canyon-flash-flood/"
+  ],
+  [
+    "war",
+    17,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "season",
+    17,
+    "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy"
+  ],
+  [
+    "donald",
+    17,
+    "https://www.theguardian.com/us-news/2026/sep/01/trump-roadless-rule-old-growth-forests"
+  ],
+  [
+    "china",
     16,
+    "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html"
+  ],
+  [
+    "shakur",
+    16,
+    "https://www.nytimes.com/2026/09/01/podcasts/the-headlines/supreme-court-secret-documents-cdc-director-tupac-trial.html"
+  ],
+  [
+    "system",
+    16,
+    "https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html"
+  ],
+  [
+    "flash",
+    16,
+    "https://www.washingtonpost.com/weather/2026/08/31/two-bodies-recovered-after-grand-canyon-flash-flood/"
+  ],
+  [
+    "health",
+    15,
+    "https://www.nytimes.com/2026/08/31/health/measles-deaths-pennsylvania-schwartz-kennedy-shapiro.html"
+  ],
+  [
+    "democratic",
+    15,
     "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html"
   ],
   [
     "fashion",
-    16,
-    "https://www.nytimes.com/2026/08/31/business/shein-ipo-china.html"
-  ],
-  [
-    "trade",
-    16,
-    "https://www.nytimes.com/2026/08/31/business/shein-ipo-china.html"
-  ],
-  [
-    "york",
-    16,
-    "https://www.theguardian.com/us-news/2026/aug/31/new-york-city-stabbing-times-square"
-  ],
-  [
-    "review",
-    16,
-    "https://www.theguardian.com/film/2026/aug/31/onslaught-movie-review-adria-arjona-adam-wingard"
-  ],
-  [
-    "again",
-    16,
-    "https://www.theguardian.com/film/2026/aug/31/onslaught-movie-review-adria-arjona-adam-wingard"
-  ],
-  [
-    "data",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/aug/31/the-guardian-view-on-regulating-big-tech-meta-has-got-off-too-lightly"
-  ],
-  [
-    "search",
-    16,
-    "https://www.theguardian.com/sport/2026/aug/31/nfl-alleged-scam-daejon-love"
-  ],
-  [
-    "dead",
     15,
-    "https://www.nytimes.com/2026/08/31/nyregion/times-square-subway-stabbing-nypd-shooting.html"
+    "https://www.nytimes.com/2026/09/01/briefing/a-fashion-disaster.html"
   ],
   [
-    "oil",
+    "canyon",
     15,
-    "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html"
+    "https://www.washingtonpost.com/weather/2026/08/31/two-bodies-recovered-after-grand-canyon-flash-flood/"
   ],
   [
-    "family",
+    "political",
     15,
-    "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html"
+    "https://www.washingtonpost.com/health/2026/08/31/new-cdc-director-delays-adding-pennsylvania-deaths-measles-data/"
   ],
   [
-    "carolina",
+    "little",
     15,
-    "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
-  ],
-  [
-    "latest",
-    15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/01/modern-family-mitch-cam-groundbreaking-love-jesse-tyler-ferguson-eric-stonestreet"
   ],
   [
     "tested",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/aug/31/best-work-from-home-office-setup-upgrades"
+    "https://www.theguardian.com/sport/2026/aug/31/stefanos-tsitsipas-says-nick-kyrgioss-cocaine-ban-was-pretty-much-expected"
   ],
   [
-    "case",
-    15,
-    "https://www.theguardian.com/music/2026/aug/31/tupac-shakur-killing-duane-keith-davis"
-  ],
-  [
-    "voters",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/aug/31/ai-politics-voters"
-  ],
-  [
-    "john",
-    15,
-    "https://www.theguardian.com/fashion/2026/aug/31/met-gala-john-galliano-cancelled"
-  ],
-  [
-    "square",
+    "trial",
     14,
-    "https://www.nytimes.com/2026/08/31/us/politics/supreme-court-trump-ballroom.html"
+    "https://www.nytimes.com/2026/09/01/podcasts/the-headlines/supreme-court-secret-documents-cdc-director-tupac-trial.html"
   ],
   [
-    "shooting",
+    "secretary",
+    14,
+    "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html"
+  ],
+  [
+    "duane",
     14,
     "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-murder-duane-davis-guilty-convicted.html"
   ],
   [
-    "killing",
+    "guilty",
     14,
-    "https://www.nytimes.com/2026/08/31/nyregion/times-square-subway-stabbing-nypd-shooting.html"
+    "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-murder-duane-davis-guilty-convicted.html"
   ],
   [
-    "police",
+    "campaign",
     14,
-    "https://www.nytimes.com/2026/08/31/nyregion/times-square-subway-stabbing-nypd-shooting.html"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "abdul",
+    "early",
     14,
-    "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "night",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/01/tropical-storm-edouard-texas-louisiana"
   ],
   [
     "democrats",
     14,
-    "https://www.nytimes.com/2026/08/31/opinion/el-sayed-hasan-piker.html"
+    "https://www.theguardian.com/us-news/2026/sep/01/ed-markey-massachusetts-senate-democrats"
   ],
   [
-    "least",
+    "review",
     14,
-    "https://www.washingtonpost.com/weather/2026/08/31/two-bodies-recovered-after-grand-canyon-flash-flood/"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/01/raygun-breaking-badly-review-netflix-ridiculed-olympic-breakdancer-total-joy"
   ],
   [
-    "park",
-    14,
-    "https://www.washingtonpost.com/nation/2026/08/30/grand-canyon-flooding-leaves-over-20-missing-dozens-evacuated-nps-says/"
+    "global",
+    13,
+    "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html"
   ],
   [
-    "love",
-    14,
-    "https://www.washingtonpost.com/obituaries/2026/08/30/surgeon-who-never-turned-away-patient-need-other-lives-weve-lost/"
-  ],
-  [
-    "decision",
-    14,
-    "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake"
-  ],
-  [
-    "dan",
-    14,
-    "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns"
+    "supreme",
+    13,
+    "https://www.nytimes.com/2026/09/01/podcasts/the-headlines/supreme-court-secret-documents-cdc-director-tupac-trial.html"
   ],
   [
     "director",
     13,
-    "https://www.nytimes.com/2026/08/31/health/measles-deaths-pennsylvania-schwartz-kennedy-shapiro.html"
+    "https://www.nytimes.com/2026/09/01/podcasts/the-headlines/supreme-court-secret-documents-cdc-director-tupac-trial.html"
   ],
   [
-    "china",
+    "army",
     13,
-    "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html"
-  ],
-  [
-    "past",
-    13,
-    "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html"
-  ],
-  [
-    "north",
-    13,
-    "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
-  ],
-  [
-    "growing",
-    13,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html"
   ],
   [
     "died",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/aug/31/grand-canyon-flash-flood-causes"
+    "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-internal-records-sealed.html"
   ],
   [
-    "guide",
+    "ballroom",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/31/best-work-from-home-office-setup-upgrades"
+    "https://www.nytimes.com/2026/08/31/us/politics/supreme-court-trump-ballroom.html"
   ],
   [
-    "buying",
+    "south",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/aug/31/best-work-from-home-office-setup-upgrades"
+    "https://www.nytimes.com/2026/08/31/arts/music/duane-davis-keffe-d-tupac-murder.html"
   ],
   [
-    "floods",
+    "killed",
     13,
-    "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood"
+    "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-murder.html"
   ],
   [
-    "don",
+    "michigan",
     13,
-    "https://www.theguardian.com/music/2026/sep/01/freddie-mercury-lover-mary-austin-interview"
+    "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html"
+  ],
+  [
+    "career",
+    13,
+    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-election-what-to-watch.html"
+  ],
+  [
+    "faces",
+    13,
+    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-election-what-to-watch.html"
+  ],
+  [
+    "today",
+    13,
+    "https://www.nytimes.com/2026/09/01/arts/music/yo-yo-ma-profile.html"
+  ],
+  [
+    "again",
+    13,
+    "https://www.washingtonpost.com/lifestyle/2026/09/01/hes-98-still-an-avid-reader-this-summer-he-took-challenge/"
+  ],
+  [
+    "past",
+    13,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "ago",
+    13,
+    "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy"
+  ],
+  [
+    "york",
+    13,
+    "https://www.theguardian.com/film/2026/sep/01/9-11-documentary-netflix-turning-point"
+  ],
+  [
+    "late",
+    13,
+    "https://www.theguardian.com/news/2026/sep/01/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us"
+  ],
+  [
+    "republicans",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/01/house-republicans-unions-investigation"
+  ],
+  [
+    "labor",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/01/house-republicans-unions-investigation"
+  ],
+  [
+    "water",
+    13,
+    "https://www.theguardian.com/music/2026/sep/01/how-alt-country-won-over-a-new-generation"
+  ],
+  [
+    "iran",
+    12,
+    "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html"
+  ],
+  [
+    "oil",
+    12,
+    "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html"
+  ],
+  [
+    "history",
+    12,
+    "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-internal-records-sealed.html"
+  ],
+  [
+    "massachusetts",
+    12,
+    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-election-what-to-watch.html"
+  ],
+  [
+    "north",
+    12,
+    "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
+  ],
+  [
+    "team",
+    12,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "series",
+    12,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/01/raygun-breaking-badly-review-netflix-ridiculed-olympic-breakdancer-total-joy"
+  ],
+  [
+    "action",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/01/trump-kristen-welker-fcc-media"
+  ],
+  [
+    "climate",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/01/nepal-flooding-climate-disaster"
   ]
 ];
