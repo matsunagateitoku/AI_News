@@ -2,53 +2,103 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    93,
-    "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html"
+    96,
+    "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html"
   ],
   [
     "president",
-    46,
-    "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-coalition.html"
+    47,
+    "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html"
   ],
   [
-    "government",
-    24,
-    "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html"
+    "massachusetts",
+    38,
+    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-primary-election-results-takeaways.html"
   ],
   [
-    "country",
-    24,
-    "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html"
+    "primary",
+    38,
+    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-democratic-primary-lynch-roath.html"
   ],
   [
-    "california",
-    24,
-    "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
+    "murder",
+    37,
+    "https://www.nytimes.com/2026/09/01/arts/music/tupac-murder-duane-davis-keffe-d.html"
   ],
   [
-    "trial",
-    23,
-    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
+    "democratic",
+    35,
+    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-primary-election-results-takeaways.html"
   ],
   [
     "iran",
-    22,
-    "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html"
-  ],
-  [
-    "latest",
-    21,
-    "https://www.nytimes.com/2026/09/01/business/ships-oil-hormuz-iran-war.html"
+    30,
+    "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html"
   ],
   [
     "judge",
-    21,
-    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
+    28,
+    "https://www.nytimes.com/2026/09/01/us/charlie-kirk-shooting.html"
   ],
   [
-    "ice",
+    "trial",
+    26,
+    "https://www.nytimes.com/2026/09/01/arts/music/tupac-murder-duane-davis-keffe-d.html"
+  ],
+  [
+    "senate",
+    23,
+    "https://www.theguardian.com/commentisfree/2026/sep/01/hasan-piker-mike-rogers-media"
+  ],
+  [
+    "change",
+    22,
+    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-primary-election-results-takeaways.html"
+  ],
+  [
+    "country",
+    22,
+    "https://www.washingtonpost.com/transportation/2026/09/01/110-commercial-trucking-schools-ordered-close-over-over-english-language-rules/"
+  ],
+  [
+    "police",
     21,
-    "https://www.washingtonpost.com/immigration/2026/09/01/haitian-immigrant-ohio-takes-his-own-life-after-losing-temporary-protected-status-family-says/"
+    "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
+  ],
+  [
+    "department",
+    21,
+    "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
+  ],
+  [
+    "tupac",
+    21,
+    "https://www.nytimes.com/2026/09/01/arts/music/tupac-murder-duane-davis-keffe-d.html"
+  ],
+  [
+    "death",
+    21,
+    "https://www.washingtonpost.com/nation/2026/09/01/tyler-robinson-accused-killing-charlie-kirk-faces-potential-death-penalty/"
+  ],
+  [
+    "accused",
+    20,
+    "https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html"
+  ],
+  [
+    "shooting",
+    20,
+    "https://www.nytimes.com/2026/09/01/nyregion/times-square-shooting-stabbing-nypd.html"
+  ],
+  [
+    "guilty",
+    20,
+    "https://www.nytimes.com/2026/09/01/arts/music/tupac-murder-duane-davis-keffe-d.html"
+  ],
+  [
+    "donald",
+    20,
+    "https://www.washingtonpost.com/nation/2026/09/01/most-americans-disapprove-lake-ontario-name-change/"
   ],
   [
     "food",
@@ -56,79 +106,104 @@
     "https://www.theguardian.com/film/2026/sep/01/pin-de-fartie-review-samuel-beckett-endgame"
   ],
   [
-    "political",
+    "killed",
     19,
-    "https://www.washingtonpost.com/health/2026/08/31/new-cdc-director-delays-adding-pennsylvania-deaths-measles-data/"
-  ],
-  [
-    "campaign",
-    19,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "war",
-    18,
-    "https://www.nytimes.com/2026/09/01/business/economy/bessent-iran-g20.html"
+    "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
   ],
   [
     "attack",
-    18,
+    19,
     "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
   ],
   [
-    "lindsay",
-    18,
-    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
+    "markey",
+    19,
+    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-primary-election-results-takeaways.html"
   ],
   [
-    "donald",
-    18,
-    "https://www.washingtonpost.com/nation/2026/09/01/most-americans-disapprove-lake-ontario-name-change/"
+    "ice",
+    19,
+    "https://www.washingtonpost.com/immigration/2026/09/01/haitian-immigrant-ohio-takes-his-own-life-after-losing-temporary-protected-status-family-says/"
   ],
   [
-    "murder",
-    18,
+    "california",
+    19,
     "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
   ],
   [
-    "primary",
-    17,
-    "https://www.nytimes.com/2026/08/31/us/markey-moulton-massachusetts-primary-democrats-age.html"
+    "jury",
+    19,
+    "https://www.theguardian.com/us-news/2026/aug/31/tupac-shakur-trial-conviction-duane-davis"
   ],
   [
-    "killed",
+    "secretary",
+    18,
+    "https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html"
+  ],
+  [
+    "latest",
+    18,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "film",
+    18,
+    "https://www.theguardian.com/film/2026/sep/01/9-11-documentary-netflix-turning-point"
+  ],
+  [
+    "rep",
+    18,
+    "https://www.npr.org/2026/09/01/nx-s1-5953111/ed-markey-wins-massachusetts-democratic-primary-us-senate-seth-moulton"
+  ],
+  [
+    "war",
+    17,
+    "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html"
+  ],
+  [
+    "america",
     17,
     "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
   ],
   [
-    "summer",
+    "davis",
     17,
-    "https://www.washingtonpost.com/lifestyle/2026/09/01/hes-98-still-an-avid-reader-this-summer-he-took-challenge/"
+    "https://www.nytimes.com/2026/09/01/arts/music/tupac-murder-duane-davis-keffe-d.html"
   ],
   [
-    "film",
+    "case",
     17,
-    "https://www.theguardian.com/film/2026/sep/01/9-11-documentary-netflix-turning-point"
+    "https://www.nytimes.com/2026/09/01/us/charlie-kirk-shooting.html"
   ],
   [
-    "mail",
+    "moulton",
     17,
-    "https://www.theguardian.com/us-news/2026/sep/01/usps-whistleblower-mail-in-ballots-trump"
+    "https://www.theguardian.com/us-news/2026/sep/01/massachusetts-senate-democratic-primary"
   ],
   [
-    "jury",
-    16,
-    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
+    "democrats",
+    17,
+    "https://www.theguardian.com/us-news/2026/sep/01/lawmakers-trump-obscure-law-investigation"
   ],
   [
-    "funding",
+    "strikes",
     16,
-    "https://www.washingtonpost.com/nation/2026/09/01/trumps-withholding-ny-counterterror-funds-threatens-safety-governor-says/"
+    "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html"
   ],
   [
-    "tested",
+    "south",
     16,
-    "https://www.theguardian.com/us-news/2026/sep/01/usps-whistleblower-mail-in-ballots-trump"
+    "https://www.washingtonpost.com/nation/2026/08/31/ex-gang-leader-convicted-murder-30-years-after-tupac-shakurs-death/"
+  ],
+  [
+    "campaign",
+    16,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "american",
+    16,
+    "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch"
   ],
   [
     "cbs",
@@ -136,29 +211,14 @@
     "https://www.theguardian.com/commentisfree/2026/sep/01/trump-kristen-welker-fcc-media"
   ],
   [
-    "administration",
+    "killing",
     15,
-    "https://www.nytimes.com/2026/09/01/business/economy/bessent-iran-g20.html"
+    "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html"
   ],
   [
-    "senate",
+    "flash",
     15,
-    "https://www.nytimes.com/2026/08/31/us/markey-moulton-massachusetts-primary-democrats-age.html"
-  ],
-  [
-    "massachusetts",
-    15,
-    "https://www.nytimes.com/2026/08/31/us/markey-moulton-massachusetts-primary-democrats-age.html"
-  ],
-  [
-    "america",
-    15,
-    "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
-  ],
-  [
-    "clancy",
-    15,
-    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
+    "https://www.washingtonpost.com/weather/2026/08/31/two-bodies-recovered-after-grand-canyon-flash-flood/"
   ],
   [
     "early",
@@ -166,19 +226,24 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
+    "government",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/01/trump-venezuela-oil-deal"
+  ],
+  [
     "star",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/01/girls-gone-bible-podcast-young-women-christianity"
+    "https://www.theguardian.com/news/audio/2026/sep/02/is-tupac-shakur-death-solved-at-last-podcast"
   ],
   [
-    "game",
+    "decision",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/sep/01/best-coffee-upgrades"
+    "https://www.theguardian.com/commentisfree/2026/sep/01/trump-ballroom-architecture-legacy"
   ],
   [
-    "oil",
+    "support",
     14,
-    "https://www.nytimes.com/2026/09/01/business/ships-oil-hormuz-iran-war.html"
+    "https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html"
   ],
   [
     "john",
@@ -186,193 +251,128 @@
     "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html"
   ],
   [
-    "nearly",
+    "defense",
     14,
-    "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html"
+    "https://www.nytimes.com/2026/09/01/us/hegseth-purge-army-officers.html"
   ],
   [
-    "team",
+    "shakur",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/09/01/arts/music/tupac-murder-duane-davis-keffe-d.html"
   ],
   [
-    "maga",
+    "charged",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/01/leaving-maga-support-group"
+    "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
   ],
   [
-    "nfl",
+    "democrat",
     14,
-    "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy"
-  ],
-  [
-    "system",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/01/usps-whistleblower-mail-in-ballots-trump"
-  ],
-  [
-    "company",
-    14,
-    "https://www.theguardian.com/film/2026/sep/01/jewish-artist-support-mark-ruffalo-antisemitism"
-  ],
-  [
-    "democrats",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/01/house-bill-prevents-government-shutdown"
-  ],
-  [
-    "night",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/01/modern-family-mitch-cam-groundbreaking-love-jesse-tyler-ferguson-eric-stonestreet"
-  ],
-  [
-    "action",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/sep/01/trump-kristen-welker-fcc-media"
+    "https://www.theguardian.com/commentisfree/2026/sep/01/hasan-piker-mike-rogers-media"
   ],
   [
     "because",
     14,
-    "https://www.theguardian.com/environment/2026/aug/31/turkmenistan-methane-leaks-un-alerts-mars"
+    "https://www.theguardian.com/world/2026/sep/02/uss-abraham-lincoln-arrives-thailand-after-270-days-at-sea"
   ],
   [
-    "attacks",
+    "died",
+    14,
+    "https://www.theguardian.com/world/2026/sep/01/russia-targets-ukraines-rail-network-as-war-enters-deadly-new-phase"
+  ],
+  [
+    "children",
+    14,
+    "https://www.theguardian.com/world/2026/sep/01/russia-targets-ukraines-rail-network-as-war-enters-deadly-new-phase"
+  ],
+  [
+    "damage",
     13,
     "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html"
   ],
   [
-    "offer",
+    "york",
     13,
-    "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html"
+    "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
   ],
   [
-    "really",
+    "progressive",
     13,
-    "https://www.nytimes.com/2026/09/01/style/john-galliano-dior-margiela-met.html"
+    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-democratic-primary-lynch-roath.html"
   ],
   [
-    "nepal",
+    "district",
     13,
-    "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html"
+    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-democratic-primary-6th-district.html"
   ],
   [
-    "flash",
+    "republican",
     13,
-    "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-tibet-aid-relief-how-donate.html"
+    "https://www.nytimes.com/2026/09/01/us/politics/house-censure-chuck-edwards.html"
+  ],
+  [
+    "charlie",
+    13,
+    "https://www.nytimes.com/2026/09/01/us/charlie-kirk-shooting.html"
+  ],
+  [
+    "administration",
+    13,
+    "https://www.washingtonpost.com/nation/2026/09/01/trumps-withholding-ny-counterterror-funds-threatens-safety-governor-says/"
+  ],
+  [
+    "lake",
+    13,
+    "https://www.washingtonpost.com/nation/2026/09/01/most-americans-disapprove-lake-ontario-name-change/"
+  ],
+  [
+    "nearly",
+    13,
+    "https://www.washingtonpost.com/education/2026/02/09/colleges-free-tuition/"
+  ],
+  [
+    "summer",
+    13,
+    "https://www.washingtonpost.com/lifestyle/2026/09/01/hes-98-still-an-avid-reader-this-summer-he-took-challenge/"
+  ],
+  [
+    "challenge",
+    13,
+    "https://www.washingtonpost.com/lifestyle/2026/09/01/hes-98-still-an-avid-reader-this-summer-he-took-challenge/"
+  ],
+  [
+    "missing",
+    13,
+    "https://www.washingtonpost.com/weather/2026/08/31/two-bodies-recovered-after-grand-canyon-flash-flood/"
+  ],
+  [
+    "political",
+    13,
+    "https://www.washingtonpost.com/health/2026/08/31/new-cdc-director-delays-adding-pennsylvania-deaths-measles-data/"
+  ],
+  [
+    "hollywood",
+    13,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "team",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "tested",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/sep/01/best-coffee-upgrades"
+  ],
+  [
+    "ago",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/01/former-maga-supporters-trump"
   ],
   [
     "weekend",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/01/border-patrol-missing-person-grand-canyon-flood"
-  ],
-  [
-    "strikes",
-    12,
-    "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html"
-  ],
-  [
-    "trying",
-    12,
-    "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html"
-  ],
-  [
-    "police",
-    12,
-    "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
-  ],
-  [
-    "stop",
-    12,
-    "https://www.nytimes.com/2026/09/01/world/canada/carney-trump-trade-war.html"
-  ],
-  [
-    "minister",
-    12,
-    "https://www.nytimes.com/2026/09/01/world/canada/carney-trump-trade-war.html"
-  ],
-  [
-    "south",
-    12,
-    "https://www.washingtonpost.com/nation/2026/08/31/ex-gang-leader-convicted-murder-30-years-after-tupac-shakurs-death/"
-  ],
-  [
-    "held",
-    12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "term",
-    12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "republican",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/sep/01/hasan-piker-mike-rogers-media"
-  ],
-  [
-    "non",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/01/leaving-maga-support-group"
-  ],
-  [
-    "breaking",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/01/leaving-maga-support-group"
-  ],
-  [
-    "children",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/01/leaving-maga-support-group"
-  ],
-  [
-    "ago",
-    12,
-    "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy"
-  ],
-  [
-    "american",
-    12,
-    "https://www.theguardian.com/sport/2026/sep/01/colin-kaepernick-kneeling-protest-10-years-nfl-legacy"
-  ],
-  [
-    "voting",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/01/usps-whistleblower-mail-in-ballots-trump"
-  ],
-  [
-    "running",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/01/former-maga-supporters-trump"
-  ],
-  [
-    "filter",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/sep/01/best-coffee-upgrades"
-  ],
-  [
-    "buying",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/sep/01/best-coffee-upgrades"
-  ],
-  [
-    "festival",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/sep/01/olivia-rodrigo-is-standing-up-for-the-vulnerable-i-wish-taylor-swift-would-do-the-same"
-  ],
-  [
-    "support",
-    11,
-    "https://www.nytimes.com/2026/09/01/business/economy/bessent-iran-g20.html"
-  ],
-  [
-    "decade",
-    11,
-    "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html"
-  ],
-  [
-    "shutdown",
-    11,
-    "https://www.nytimes.com/2026/09/01/us/politics/house-vote-government-shutdown.html"
+    "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch"
   ]
 ];
