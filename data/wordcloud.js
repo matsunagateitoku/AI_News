@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    103,
-    "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html"
+    102,
+    "https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html"
   ],
   [
     "president",
-    46,
-    "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html"
-  ],
-  [
-    "democratic",
-    36,
-    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-primary-election-results-takeaways.html"
-  ],
-  [
-    "iran",
-    32,
-    "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html"
-  ],
-  [
-    "primary",
-    30,
-    "https://www.theguardian.com/us-news/2026/sep/01/massachusetts-senate-democratic-primary"
-  ],
-  [
-    "massachusetts",
-    27,
-    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-primary-election-results-takeaways.html"
-  ],
-  [
-    "war",
-    25,
-    "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html"
-  ],
-  [
-    "police",
-    25,
-    "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
-  ],
-  [
-    "judge",
-    25,
-    "https://www.theguardian.com/us-news/2026/sep/01/trump-trans-athletes-california-lawsuit-dismissed"
-  ],
-  [
-    "food",
-    23,
-    "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html"
+    49,
+    "https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html"
   ],
   [
     "film",
-    23,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/02/francis-fukuyama-interview-memoir-book-end-history-last-man"
+    30,
+    "https://www.theguardian.com/film/2026/sep/02/was-paul-mescal-being-not-masculine-enough-the-reason-gladiator-ii-flopped"
   ],
   [
-    "country",
-    22,
-    "https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html"
+    "iran",
+    28,
+    "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html"
   ],
   [
-    "california",
-    22,
-    "https://www.nytimes.com/2026/09/02/opinion/steve-hilton-california-trump.html"
+    "war",
+    26,
+    "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html"
   ],
   [
-    "death",
-    22,
-    "https://www.washingtonpost.com/nation/2026/09/01/tyler-robinson-accused-killing-charlie-kirk-faces-potential-death-penalty/"
+    "food",
+    26,
+    "https://www.theguardian.com/us-news/2026/sep/02/flu-covid-vaccines-guidance"
   ],
   [
     "donald",
     22,
-    "https://www.washingtonpost.com/nation/2026/09/01/most-americans-disapprove-lake-ontario-name-change/"
+    "https://www.theguardian.com/commentisfree/2026/sep/02/milo-yiannopoulos-deportation-maga"
   ],
   [
-    "trial",
+    "country",
     21,
-    "https://www.washingtonpost.com/nation/2026/09/01/tyler-robinson-accused-killing-charlie-kirk-faces-potential-death-penalty/"
-  ],
-  [
-    "murder",
-    21,
-    "https://www.washingtonpost.com/nation/2026/09/01/tyler-robinson-accused-killing-charlie-kirk-faces-potential-death-penalty/"
-  ],
-  [
-    "democrats",
-    20,
-    "https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html"
-  ],
-  [
-    "latest",
-    20,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "senate",
-    20,
-    "https://www.theguardian.com/us-news/2026/sep/01/abdul-el-sayed-jd-vance-evil"
-  ],
-  [
-    "oil",
-    19,
-    "https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html"
-  ],
-  [
-    "strikes",
-    19,
-    "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html"
-  ],
-  [
-    "killed",
-    19,
-    "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html"
-  ],
-  [
-    "experts",
-    19,
-    "https://www.nytimes.com/2026/09/01/nyregion/times-square-shooting-stabbing-nypd.html"
+    "https://www.nytimes.com/2026/09/02/opinion/indian-identity-princeton.html"
   ],
   [
     "star",
     19,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/02/francis-fukuyama-interview-memoir-book-end-history-last-man"
+    "https://www.nytimes.com/2026/09/02/style/maybe-leanne-morgan-can-heal-america.html"
   ],
   [
-    "america",
+    "democrats",
     18,
-    "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
-  ],
-  [
-    "attack",
-    18,
-    "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
-  ],
-  [
-    "political",
-    18,
-    "https://www.washingtonpost.com/health/2026/08/31/new-cdc-director-delays-adding-pennsylvania-deaths-measles-data/"
-  ],
-  [
-    "markey",
-    17,
-    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-primary-election-results-takeaways.html"
-  ],
-  [
-    "change",
-    17,
-    "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-primary-election-results-takeaways.html"
-  ],
-  [
-    "ice",
-    17,
-    "https://www.washingtonpost.com/immigration/2026/09/01/haitian-immigrant-ohio-takes-his-own-life-after-losing-temporary-protected-status-family-says/"
-  ],
-  [
-    "early",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "tested",
-    17,
-    "https://www.theguardian.com/us-news/2026/sep/01/usps-whistleblower-mail-in-ballots-trump"
-  ],
-  [
-    "court",
-    16,
-    "https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html"
-  ],
-  [
-    "children",
-    16,
-    "https://www.nytimes.com/2026/09/01/world/europe/ukraine-underground-schools.html"
-  ],
-  [
-    "full",
-    16,
-    "https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html"
-  ],
-  [
-    "russia",
-    15,
-    "https://www.nytimes.com/2026/09/02/podcasts/the-headlines/russia-kyiv-strikes-whistleblower-warning-mail-voting.html"
-  ],
-  [
-    "night",
-    15,
-    "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html"
-  ],
-  [
-    "shooting",
-    15,
-    "https://www.nytimes.com/2026/09/02/magazine/iv-drip-vitamin-wellness.html"
-  ],
-  [
-    "media",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/sep/02/milo-yiannopoulos-deportation-maga"
-  ],
-  [
-    "republicans",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/02/teamsters-union-republican-endorsement"
-  ],
-  [
-    "review",
-    15,
-    "https://www.theguardian.com/film/2026/sep/02/late-fame-review-willem-dafoe"
-  ],
-  [
-    "sen",
-    15,
-    "https://www.npr.org/2026/09/02/nx-s1-5947220/morning-news-brief"
-  ],
-  [
-    "health",
-    14,
-    "https://www.nytimes.com/2026/09/02/business/health-insurance-increases.html"
-  ],
-  [
-    "attacks",
-    14,
-    "https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html"
+    "https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html"
   ],
   [
     "american",
-    14,
+    17,
     "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html"
   ],
   [
-    "john",
-    14,
-    "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html"
+    "york",
+    17,
+    "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
   ],
   [
-    "york",
-    14,
+    "latest",
+    17,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "media",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/sep/02/milo-yiannopoulos-deportation-maga"
+  ],
+  [
+    "political",
+    17,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/02/eeoc-workplace-discrimination-data-trump"
+  ],
+  [
+    "woods",
+    17,
+    "https://www.theguardian.com/sport/2026/sep/02/tiger-woods-change-plea-dui-florida-crash"
+  ],
+  [
+    "company",
+    17,
+    "https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting"
+  ],
+  [
+    "strikes",
+    16,
+    "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html"
+  ],
+  [
+    "police",
+    16,
     "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
+  ],
+  [
+    "california",
+    16,
+    "https://www.nytimes.com/2026/09/02/opinion/steve-hilton-california-trump.html"
+  ],
+  [
+    "late",
+    16,
+    "https://www.theguardian.com/film/2026/sep/02/was-paul-mescal-being-not-masculine-enough-the-reason-gladiator-ii-flopped"
   ],
   [
     "department",
-    14,
+    15,
     "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
   ],
   [
-    "fire",
-    14,
-    "https://www.nytimes.com/2026/09/01/nyregion/times-square-shooting-stabbing-nypd.html"
+    "red",
+    15,
+    "https://www.nytimes.com/2026/09/02/style/maybe-leanne-morgan-can-heal-america.html"
   ],
   [
-    "support",
+    "guide",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/sep/02/samsung-frame-pro-tv-review"
+  ],
+  [
+    "cbs",
+    15,
+    "https://www.cbsnews.com/video/chinas-high-tech-electric-vehicles-expand-to-canadian-market/"
+  ],
+  [
+    "court",
     14,
-    "https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html"
+    "https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html"
   ],
   [
     "states",
     14,
-    "https://www.washingtonpost.com/business/2026/09/01/bessent-says-us-plan-asphyxiate-irans-economy-has-allies-support/"
+    "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html"
   ],
   [
-    "administration",
+    "america",
     14,
-    "https://www.washingtonpost.com/nation/2026/09/01/trumps-withholding-ny-counterterror-funds-threatens-safety-governor-says/"
+    "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html"
   ],
   [
-    "summer",
+    "don",
     14,
-    "https://www.washingtonpost.com/lifestyle/2026/09/01/hes-98-still-an-avid-reader-this-summer-he-took-challenge/"
+    "https://www.nytimes.com/2026/09/01/nyregion/times-square-stabbing-suspect.html"
   ],
   [
-    "really",
+    "driving",
+    14,
+    "https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html"
+  ],
+  [
+    "secretary",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "data",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/02/eeoc-workplace-discrimination-data-trump"
+  ],
+  [
+    "book",
     14,
     "https://www.theguardian.com/lifeandstyle/2026/sep/02/francis-fukuyama-interview-memoir-book-end-history-last-man"
   ],
   [
-    "late",
+    "because",
     14,
-    "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/02/furious-disney-the-most-outstanding-tv-show-of-the-year"
   ],
   [
-    "government",
+    "south",
     14,
-    "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran"
+    "https://www.theguardian.com/music/2026/sep/02/pop-rocker-graham-parker-interview"
   ],
   [
-    "moulton",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/01/massachusetts-senate-democratic-primary"
+    "tech",
+    13,
+    "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html"
   ],
   [
-    "case",
-    14,
+    "health",
+    13,
+    "https://www.nytimes.com/2026/09/02/business/health-insurance-increases.html"
+  ],
+  [
+    "released",
+    13,
+    "https://www.nytimes.com/2026/09/02/us/los-angeles-jail-inmate-beating.html"
+  ],
+  [
+    "pop",
+    13,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "growing",
+    13,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "really",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/02/female-gangsters-crime-tv-the-gentlemen"
+  ],
+  [
+    "body",
+    13,
+    "https://www.theguardian.com/world/2026/sep/02/after-the-flood-human-suffering-nepal-worst-hit-districts"
+  ],
+  [
+    "administration",
+    13,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/02/eeoc-workplace-discrimination-data-trump"
+  ],
+  [
+    "tiger",
+    13,
     "https://www.theguardian.com/sport/2026/sep/02/tiger-woods-change-plea-dui-florida-crash"
   ],
   [
-    "gop",
-    14,
-    "https://www.foxnews.com/politics/ron-desantis-byron-donalds-florida-governor"
+    "children",
+    13,
+    "https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting"
   ],
   [
-    "because",
+    "festival",
     13,
-    "https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html"
+    "https://www.theguardian.com/film/2026/sep/02/george-clooney-defends-mark-ruffalo-paramount-warner-bros-merger"
+  ],
+  [
+    "support",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/02/teamsters-union-republican-endorsement"
+  ],
+  [
+    "case",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/02/furious-disney-the-most-outstanding-tv-show-of-the-year"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/sep/02/samsung-frame-pro-tv-review"
   ],
   [
     "center",
-    13,
+    12,
     "https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html"
   ],
   [
-    "point",
-    13,
-    "https://www.nytimes.com/2026/09/02/magazine/iv-drip-vitamin-wellness.html"
+    "justice",
+    12,
+    "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html"
   ],
   [
-    "plans",
-    13,
-    "https://www.washingtonpost.com/lifestyle/2026/09/01/hes-98-still-an-avid-reader-this-summer-he-took-challenge/"
+    "military",
+    12,
+    "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html"
+  ],
+  [
+    "judge",
+    12,
+    "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html"
   ],
   [
     "loss",
-    13,
+    12,
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "campaign",
-    13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "attack",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "red",
-    13,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "medical",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "company",
-    13,
+    "early",
+    12,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "crash",
+    12,
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+  ],
+  [
+    "maga",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/02/milo-yiannopoulos-deportation-maga"
+  ],
+  [
+    "movie",
+    12,
+    "https://www.theguardian.com/film/2026/sep/02/was-paul-mescal-being-not-masculine-enough-the-reason-gladiator-ii-flopped"
+  ],
+  [
+    "republicans",
+    12,
+    "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran"
+  ],
+  [
+    "school",
+    12,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/02/harry-potter-hbo-tv-show-trailer"
+  ],
+  [
+    "nfl",
+    12,
     "https://www.theguardian.com/sport/2026/sep/02/nate-boyer-colin-kaepernick-national-anthem-protest-nfl"
   ],
   [
-    "bill",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran"
-  ],
-  [
-    "congress",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran"
-  ],
-  [
-    "working",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran"
-  ],
-  [
     "game",
-    13,
+    12,
     "https://www.theguardian.com/sport/2026/sep/02/los-angeles-rams-aaron-donald-myles-garrett-matthew-stafford"
   ],
   [
-    "texas",
-    13,
-    "https://www.theguardian.com/film/2026/sep/02/waking-life-richard-linklater-film-review-indie-masterpiece-disney"
+    "fewer",
+    12,
+    "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026"
   ],
   [
-    "again",
+    "near",
     12,
-    "https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html"
+    "https://www.theguardian.com/us-news/2026/sep/02/lake-tahoe-otter-attack"
   ],
   [
-    "sea",
+    "oil",
     12,
-    "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html"
+    "https://www.theguardian.com/world/2026/sep/02/venezuela-oil-deal-trump-chris-wright"
+  ],
+  [
+    "tested",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/sep/01/best-coffee-upgrades"
+  ],
+  [
+    "tried",
+    11,
+    "https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html"
+  ],
+  [
+    "review",
+    11,
+    "https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html"
+  ],
+  [
+    "john",
+    11,
+    "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html"
+  ],
+  [
+    "united",
+    11,
+    "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html"
+  ],
+  [
+    "google",
+    11,
+    "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html"
+  ],
+  [
+    "break",
+    11,
+    "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html"
+  ],
+  [
+    "london",
+    11,
+    "https://www.nytimes.com/2026/09/02/business/media/saturday-evening-post-stop-printing.html"
   ]
 ];
