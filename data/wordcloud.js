@@ -3,282 +3,242 @@
   [
     "trump",
     93,
-    "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html"
+    "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html"
   ],
   [
     "president",
-    50,
-    "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html"
-  ],
-  [
-    "iran",
-    26,
-    "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html"
-  ],
-  [
-    "food",
-    25,
-    "https://www.theguardian.com/news/ng-interactive/2026/sep/03/a-crisis-of-authenticity-the-truth-about-food-influencers"
-  ],
-  [
-    "star",
-    24,
-    "https://www.nytimes.com/2026/09/02/arts/design/george-lucas-museum-narrative-art-opening.html"
-  ],
-  [
-    "support",
-    24,
-    "https://www.washingtonpost.com/business/2026/09/01/bessent-says-us-plan-asphyxiate-irans-economy-has-allies-support/"
-  ],
-  [
-    "war",
-    23,
-    "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html"
-  ],
-  [
-    "killed",
-    23,
-    "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html"
-  ],
-  [
-    "shooting",
-    23,
-    "https://www.washingtonpost.com/nation/2026/09/01/tyler-robinson-accused-killing-charlie-kirk-faces-potential-death-penalty/"
-  ],
-  [
-    "team",
-    22,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "judge",
-    21,
+    52,
     "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html"
   ],
   [
     "country",
+    29,
+    "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html"
+  ],
+  [
+    "steinem",
+    27,
+    "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html"
+  ],
+  [
+    "democrats",
+    27,
+    "https://www.nytimes.com/2026/09/02/us/politics/el-sayed-michigan-jewish-democrats.html"
+  ],
+  [
+    "food",
+    27,
+    "https://www.theguardian.com/news/ng-interactive/2026/sep/03/a-crisis-of-authenticity-the-truth-about-food-influencers"
+  ],
+  [
+    "judge",
+    26,
+    "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html"
+  ],
+  [
+    "gloria",
+    24,
+    "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html"
+  ],
+  [
+    "war",
+    23,
+    "https://www.nytimes.com/2026/09/03/world/europe/ukraine-russia-jet-powered-drones.html"
+  ],
+  [
+    "iran",
+    22,
+    "https://www.washingtonpost.com/business/2026/09/01/bessent-says-us-plan-asphyxiate-irans-economy-has-allies-support/"
+  ],
+  [
+    "game",
     21,
-    "https://www.washingtonpost.com/transportation/2026/09/01/110-commercial-trucking-schools-ordered-close-over-over-english-language-rules/"
+    "https://www.theguardian.com/sport/2026/sep/03/bill-simmons-ai-ads-podcast-ringer"
   ],
   [
-    "york",
+    "support",
     20,
-    "https://www.washingtonpost.com/politics/2026/09/02/watch-ontario-new-york-residents-sound-off-lake-america-name-change/"
+    "https://www.washingtonpost.com/business/2026/09/01/bessent-says-us-plan-asphyxiate-irans-economy-has-allies-support/"
   ],
   [
-    "late",
-    20,
-    "https://www.theguardian.com/world/2026/sep/02/iran-us-missile-blast-wedding"
-  ],
-  [
-    "clancy",
+    "team",
     19,
-    "https://www.nytimes.com/2026/09/02/us/lindsay-clancy-trial-judge-questions-jurors.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "film",
+    "star",
     19,
-    "https://www.washingtonpost.com/obituaries/2026/09/02/friday-13th-screenwriter-victor-miller-creator-jason-voorhees-dies-86/"
-  ],
-  [
-    "donald",
-    18,
-    "https://www.washingtonpost.com/nation/2026/09/01/most-americans-disapprove-lake-ontario-name-change/"
-  ],
-  [
-    "american",
-    17,
-    "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html"
-  ],
-  [
-    "republicans",
-    17,
-    "https://www.nytimes.com/2026/09/02/us/politics/trump-midterm-convention-republicans.html"
-  ],
-  [
-    "lindsay",
-    17,
-    "https://www.nytimes.com/2026/09/02/us/lindsay-clancy-trial-judge-questions-jurors.html"
-  ],
-  [
-    "media",
-    17,
-    "https://www.washingtonpost.com/obituaries/2026/09/02/friday-13th-screenwriter-victor-miller-creator-jason-voorhees-dies-86/"
-  ],
-  [
-    "america",
-    17,
-    "https://www.washingtonpost.com/politics/2026/09/02/watch-ontario-new-york-residents-sound-off-lake-america-name-change/"
-  ],
-  [
-    "medical",
-    17,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "police",
-    17,
-    "https://www.theguardian.com/us-news/2026/sep/02/downtown-minneapolis-shooting"
-  ],
-  [
-    "company",
-    17,
-    "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america"
+    "https://www.theguardian.com/sport/2026/sep/02/la-clippers-kawhi-leonard-fine-salary-cap-nba"
   ],
   [
     "video",
-    17,
+    18,
     "https://www.theguardian.com/news/ng-interactive/2026/sep/03/a-crisis-of-authenticity-the-truth-about-food-influencers"
+  ],
+  [
+    "company",
+    18,
+    "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit"
+  ],
+  [
+    "south",
+    18,
+    "https://www.theguardian.com/sport/2026/sep/03/south-africa-airline-behind-greatest-rivalry-flyby-cancels-repeat-display-rugby-union"
   ],
   [
     "political",
     17,
-    "https://www.theguardian.com/commentisfree/2026/sep/02/trump-deportation-refugees-south-africa"
+    "https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html"
   ],
   [
-    "senate",
+    "shooting",
     17,
-    "https://www.foxnews.com/politics/primary-over-now-come-primetime-mistakes"
+    "https://www.washingtonpost.com/nation/2026/09/01/tyler-robinson-accused-killing-charlie-kirk-faces-potential-death-penalty/"
   ],
   [
-    "attack",
+    "administration",
+    17,
+    "https://www.washingtonpost.com/nation/2026/09/01/trumps-withholding-ny-counterterror-funds-threatens-safety-governor-says/"
+  ],
+  [
+    "died",
+    17,
+    "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92"
+  ],
+  [
+    "american",
     16,
     "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html"
   ],
   [
-    "court",
+    "lake",
     16,
-    "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html"
+    "https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html"
   ],
   [
-    "los",
+    "america",
+    16,
+    "https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html"
+  ],
+  [
+    "senate",
+    16,
+    "https://www.nytimes.com/2026/09/02/us/politics/el-sayed-michigan-jewish-democrats.html"
+  ],
+  [
+    "democratic",
     16,
     "https://www.nytimes.com/2026/09/02/us/nithya-raman-dsa-la-mayor.html"
   ],
   [
-    "office",
+    "record",
     16,
-    "https://www.nytimes.com/2026/09/02/us/politics/midterms-nepo-baby-shaheen.html"
+    "https://www.nytimes.com/2026/09/03/world/europe/italy-air-conditioning-heat.html"
   ],
   [
-    "california",
+    "data",
     16,
-    "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
+    "https://www.washingtonpost.com/nation/2026/09/03/how-data-center-backlash-is-growing-us-statehouses/"
   ],
   [
-    "don",
+    "film",
     16,
-    "https://www.theguardian.com/us-news/2026/sep/02/trump-one-dollar-coin"
+    "https://www.washingtonpost.com/obituaries/2026/09/02/friday-13th-screenwriter-victor-miller-creator-jason-voorhees-dies-86/"
   ],
   [
-    "graham",
+    "gop",
     16,
-    "https://www.theguardian.com/film/2026/sep/02/ink-review-danny-boyle-jack-oconnell"
+    "https://www.latimes.com/opinion/story/2026-09-03/trump-popularity-midterm-elections-republican-mail-voting"
   ],
   [
-    "states",
+    "clancy",
     15,
-    "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html"
+    "https://www.nytimes.com/2026/09/03/us/lindsay-clancy-trial-hung-jury.html"
   ],
   [
-    "because",
-    15,
-    "https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html"
-  ],
-  [
-    "full",
-    15,
-    "https://www.nytimes.com/2026/09/02/style/john-galliano-met-exhibition-cancel-anna-wintour.html"
-  ],
-  [
-    "clippers",
-    15,
-    "https://www.nytimes.com/2026/09/02/podcasts/the-nba-brings-the-hammer-on-kawhi-leonard-and-the-clippers.html"
-  ],
-  [
-    "democrats",
+    "party",
     15,
     "https://www.nytimes.com/2026/09/02/us/politics/democrats-defections-internal-feud-midterms.html"
   ],
   [
-    "name",
-    15,
-    "https://www.nytimes.com/2026/09/02/us/politics/midterms-nepo-baby-shaheen.html"
-  ],
-  [
-    "care",
-    15,
-    "https://www.nytimes.com/2026/09/02/well/doctors-patients-postpartum-mental-health-clancy-trial.html"
-  ],
-  [
-    "canada",
-    15,
-    "https://www.nytimes.com/2026/09/03/opinion/canada-alberta-separatists-trump-maga.html"
-  ],
-  [
-    "campaign",
-    15,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "law",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/02/trump-one-dollar-coin"
-  ],
-  [
-    "south",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/sep/02/trump-deportation-refugees-south-africa"
-  ],
-  [
-    "order",
-    14,
-    "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html"
-  ],
-  [
-    "minneapolis",
-    14,
-    "https://www.nytimes.com/2026/09/02/us/shooting-minneapolis-downtown.html"
-  ],
-  [
     "dead",
-    14,
+    15,
     "https://www.nytimes.com/2026/09/02/us/shooting-minneapolis-downtown.html"
   ],
   [
-    "jury",
-    14,
-    "https://www.nytimes.com/2026/09/02/us/lindsay-clancy-trial-judge-questions-jurors.html"
+    "children",
+    15,
+    "https://www.washingtonpost.com/nation/2026/09/02/lindsay-clancy-jury-deadlocked-second-consecutive-day/"
   ],
   [
-    "maga",
-    14,
-    "https://www.nytimes.com/2026/09/03/opinion/canada-alberta-separatists-trump-maga.html"
+    "media",
+    15,
+    "https://www.washingtonpost.com/obituaries/2026/09/02/friday-13th-screenwriter-victor-miller-creator-jason-voorhees-dies-86/"
   ],
   [
-    "lake",
-    14,
+    "york",
+    15,
     "https://www.washingtonpost.com/politics/2026/09/02/watch-ontario-new-york-residents-sound-off-lake-america-name-change/"
   ],
   [
-    "death",
-    14,
-    "https://www.washingtonpost.com/nation/2026/09/01/tyler-robinson-accused-killing-charlie-kirk-faces-potential-death-penalty/"
+    "donald",
+    15,
+    "https://www.washingtonpost.com/nation/2026/09/01/most-americans-disapprove-lake-ontario-name-change/"
   ],
   [
-    "murder",
-    14,
-    "https://www.washingtonpost.com/nation/2026/09/01/tyler-robinson-accused-killing-charlie-kirk-faces-potential-death-penalty/"
+    "early",
+    15,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "department",
+    "feminist",
     14,
-    "https://www.washingtonpost.com/transportation/2026/09/01/110-commercial-trucking-schools-ordered-close-over-over-english-language-rules/"
+    "https://www.nytimes.com/2026/09/03/style/gloria-steinem-style-feminism.html"
   ],
   [
-    "games",
+    "killed",
     14,
-    "https://www.theguardian.com/sport/2026/sep/02/jordan-chiles-gymnastics-comeback-la-2028-olympics-michael-jordan"
+    "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html"
+  ],
+  [
+    "full",
+    14,
+    "https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html"
+  ],
+  [
+    "los",
+    14,
+    "https://www.nytimes.com/2026/09/02/us/nithya-raman-dsa-la-mayor.html"
+  ],
+  [
+    "sea",
+    14,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "red",
+    14,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "pop",
+    14,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "history",
+    14,
+    "https://www.theguardian.com/news/ng-interactive/2026/sep/03/a-crisis-of-authenticity-the-truth-about-food-influencers"
+  ],
+  [
+    "ahead",
+    14,
+    "https://www.theguardian.com/artanddesign/2026/sep/03/maurizio-cattelan-art-world-prankster-religion-bananas-hitler"
+  ],
+  [
+    "race",
+    14,
+    "https://www.theguardian.com/environment/2026/sep/03/the-place-that-never-freezes-the-arctic-habitat-where-global-heating-threatens-more-ice-not-less"
   ],
   [
     "tested",
@@ -286,93 +246,133 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/01/best-coffee-upgrades"
   ],
   [
-    "leonard",
+    "republicans",
+    14,
+    "https://www.cbsnews.com/news/house-vote-condemns-socialism-supports-save-act/"
+  ],
+  [
+    "order",
     13,
-    "https://www.nytimes.com/2026/09/02/podcasts/the-nba-brings-the-hammer-on-kawhi-leonard-and-the-clippers.html"
+    "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html"
   ],
   [
-    "angeles",
+    "lindsay",
     13,
-    "https://www.nytimes.com/2026/09/02/us/nithya-raman-dsa-la-mayor.html"
+    "https://www.nytimes.com/2026/09/03/us/lindsay-clancy-trial-hung-jury.html"
   ],
   [
-    "trial",
+    "care",
     13,
-    "https://www.nytimes.com/2026/09/02/us/lindsay-clancy-trial-judge-questions-jurors.html"
-  ],
-  [
-    "killing",
-    13,
-    "https://www.washingtonpost.com/nation/2026/09/01/tyler-robinson-accused-killing-charlie-kirk-faces-potential-death-penalty/"
-  ],
-  [
-    "sea",
-    13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "early",
-    13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "center",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/02/downtown-minneapolis-shooting"
-  ],
-  [
-    "steve",
-    13,
-    "https://www.theguardian.com/sport/2026/sep/02/la-clippers-kawhi-leonard-fine-salary-cap-nba"
-  ],
-  [
-    "buying",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/02/samsung-frame-pro-tv-review"
-  ],
-  [
-    "london",
-    13,
-    "https://www.theguardian.com/news/ng-interactive/2026/sep/03/a-crisis-of-authenticity-the-truth-about-food-influencers"
-  ],
-  [
-    "others",
-    12,
-    "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html"
-  ],
-  [
-    "kawhi",
-    12,
-    "https://www.nytimes.com/2026/09/02/podcasts/the-nba-brings-the-hammer-on-kawhi-leonard-and-the-clippers.html"
-  ],
-  [
-    "health",
-    12,
     "https://www.nytimes.com/2026/09/02/well/doctors-patients-postpartum-mental-health-clancy-trial.html"
   ],
   [
-    "nearly",
-    12,
-    "https://www.washingtonpost.com/obituaries/2026/09/02/friday-13th-screenwriter-victor-miller-creator-jason-voorhees-dies-86/"
+    "midterms",
+    13,
+    "https://www.nytimes.com/2026/09/02/us/politics/democrats-defections-internal-feud-midterms.html"
   ],
   [
-    "fall",
+    "air",
+    13,
+    "https://www.nytimes.com/2026/09/03/world/europe/italy-air-conditioning-heat.html"
+  ],
+  [
+    "canada",
+    13,
+    "https://www.nytimes.com/2026/09/03/opinion/canada-alberta-separatists-trump-maga.html"
+  ],
+  [
+    "growing",
+    13,
+    "https://www.washingtonpost.com/nation/2026/09/03/how-data-center-backlash-is-growing-us-statehouses/"
+  ],
+  [
+    "security",
+    13,
+    "https://www.washingtonpost.com/business/2026/09/02/experts-predict-future-social-security/"
+  ],
+  [
+    "states",
+    13,
+    "https://www.washingtonpost.com/business/2026/09/01/bessent-says-us-plan-asphyxiate-irans-economy-has-allies-support/"
+  ],
+  [
+    "california",
+    13,
+    "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
+  ],
+  [
+    "nepal",
+    13,
+    "https://www.theguardian.com/world/2026/sep/03/nepal-floods-rasuwagadhi-hydropower-hydro-tunnel-trapped-workers-search-rescue"
+  ],
+  [
+    "weather",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/02/project-camp-spokane-wildfire-recovery"
+  ],
+  [
+    "michael",
+    13,
+    "https://www.theguardian.com/sport/2026/sep/03/michael-zheng-us-open-americans-shelton-tiafoe-pegula"
+  ],
+  [
+    "dies",
+    12,
+    "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html"
+  ],
+  [
+    "ice",
+    12,
+    "https://www.nytimes.com/2026/09/03/us/ice-recruits-national-security-risk-whistleblower.html"
+  ],
+  [
+    "department",
+    12,
+    "https://www.nytimes.com/2026/09/03/briefing/pete-hegseths-military.html"
+  ],
+  [
+    "guide",
     12,
     "https://www.washingtonpost.com/health/2026/09/02/fall-vaccine-guide-what-know-about-covid-flu-rsv-shots-this-year/"
   ],
   [
-    "executive",
+    "experts",
     12,
-    "https://www.washingtonpost.com/nation/2026/09/01/most-americans-disapprove-lake-ontario-name-change/"
+    "https://www.washingtonpost.com/business/2026/09/02/experts-predict-future-social-security/"
   ],
   [
-    "leading",
+    "death",
+    12,
+    "https://www.washingtonpost.com/nation/2026/09/01/tyler-robinson-accused-killing-charlie-kirk-faces-potential-death-penalty/"
+  ],
+  [
+    "murder",
+    12,
+    "https://www.washingtonpost.com/nation/2026/09/01/tyler-robinson-accused-killing-charlie-kirk-faces-potential-death-penalty/"
+  ],
+  [
+    "gaza",
+    12,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "china",
     12,
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "response",
+    "hollywood",
     12,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "latest",
+    12,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "late",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/03/i-dont-chase-the-dollar-i-never-did-the-astonishing-hidden-life-of-mr-t"
   ]
 ];
