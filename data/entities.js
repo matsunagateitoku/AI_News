@@ -2,22 +2,34 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Gloria Steinem Came",
-      "count": 30,
-      "url": "https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Blocks Trump",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html",
-      "source": "NY Times"
+      "name": "Gloria Steinem Dies",
+      "count": 32,
+      "url": "https://www.today.com/video/gloria-steinem-trailblazing-feminist-and-social-activist-dies-at-92-269263429859",
+      "source": "NBC News"
     },
     {
       "name": "Jd Vance",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/sep/02/jd-vance-god-podcast-end-times",
-      "source": "The Guardian"
+      "count": 23,
+      "url": "https://www.foxnews.com/politics/vance-jokes-about-rubbing-elbows-former-president-ground-zero-intense-intellectual-conversations",
+      "source": "Fox News"
+    },
+    {
+      "name": "Donald J. Trump",
+      "count": 23,
+      "url": "https://www.cbsnews.com/news/trump-1-dollar-coins-us-mint-sale/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Maria Bartiromo",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Lindsay Clancy",
+      "count": 13,
+      "url": "https://www.washingtonpost.com/nation/2026/09/03/lindsay-clancys-attorney-asks-judge-remove-juror/",
+      "source": "Washington Post"
     },
     {
       "name": "Donald Trump",
@@ -26,111 +38,155 @@
       "source": "NY Times"
     },
     {
-      "name": "Lindsay Clancy",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/nation/2026/09/02/lindsay-clancy-jury-deadlocked-second-consecutive-day/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Josh Homme",
-      "count": 8,
-      "url": "https://www.theguardian.com/music/2026/sep/03/queens-of-the-stone-ages-josh-homme-kicked-a-woman-and-his-ex-wife-alleged-domestic-abuse-why-the-cosy-makeover",
+      "name": "Leon Black",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates",
       "source": "The Guardian"
     },
     {
-      "name": "Darline Graham",
-      "count": 8,
-      "url": "https://www.foxnews.com/politics/rep-ralph-norman-affirms-support-ex-rival-sen-lindsey-graham-election",
-      "source": "Fox News"
-    },
-    {
-      "name": "Norah O'Donnell​",
+      "name": "Martin Mcdonagh",
       "count": 7,
-      "url": "https://www.cbsnews.com/news/norah-odonnell-returning-host-cbs-mornings/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Mike Vrabel Violated Its Standards",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/09/03/business/athletic-russini-vrabel-relationship.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/film/2026/sep/03/martin-mcdonagh-wild-horse-nine-cia-awful-things",
+      "source": "The Guardian"
     },
     {
       "name": "Bill Simmons",
       "count": 6,
       "url": "https://www.theguardian.com/sport/2026/sep/03/bill-simmons-ai-ads-podcast-ringer",
       "source": "The Guardian"
+    },
+    {
+      "name": "Itamar Ben-Gvir",
+      "count": 6,
+      "url": "https://www.theguardian.com/world/2026/sep/03/israel-far-right-minister-itamar-ben-gvir-plan-removal-palestinians-gaza",
+      "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 61,
+      "count": 58,
       "url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
       "source": "The Guardian"
     },
     {
+      "name": "Iran",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html",
+      "source": "NY Times"
+    },
+    {
       "name": "U.S.",
-      "count": 22,
+      "count": 19,
       "url": "https://www.nytimes.com/2026/09/03/business/economy/us-trade-defecit-july.html",
       "source": "NY Times"
     },
     {
-      "name": "Iran",
-      "count": 19,
-      "url": "https://www.washingtonpost.com/business/2026/09/01/bessent-says-us-plan-asphyxiate-irans-economy-has-allies-support/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Israel",
-      "count": 13,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
       "name": "Uk",
-      "count": 12,
+      "count": 15,
       "url": "https://www.theguardian.com/thefilter-us/2025/oct/23/best-e-readers-kindle-kobo",
       "source": "The Guardian"
     },
     {
-      "name": "Nepal",
+      "name": "California",
       "count": 12,
-      "url": "https://www.theguardian.com/world/2026/sep/03/nepal-floods-rasuwagadhi-hydropower-hydro-tunnel-trapped-workers-search-rescue",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit",
       "source": "The Guardian"
     },
     {
       "name": "New York City’S",
-      "count": 12,
+      "count": 11,
       "url": "https://www.theguardian.com/stage/2026/sep/03/public-record-new-york-city-central-park",
       "source": "The Guardian"
     },
     {
-      "name": "Hollywood Hills",
-      "count": 11,
-      "url": "https://www.latimes.com/opinion/story/2026-09-02/forest-lawn-drive-safety-lane-sacramento",
-      "source": "LA Times"
+      "name": "Israel",
+      "count": 10,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "South Carolina",
+      "name": "London",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/gloria-steinem-us-feminist-movement",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Minneapolis",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/sep/03/ice-officer-charged-venzuela-man-shot-minneapolis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A.",
+      "count": 8,
+      "url": "https://www.latimes.com/california/story/2026-09-03/abandoned-mulholland-drive-home-safety-concerns",
+      "source": "LA Times"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Associated Press Trump",
+      "count": 59,
+      "url": "https://thehill.com/newsletters/technology/6070307-trump-takes-the-risk-on-data-centers/",
+      "source": "The Hill"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 16,
+      "url": "https://www.washingtonpost.com/politics/2026/09/03/judge-blocks-trumps-latest-attempt-limit-birthright-citizenship/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Ai Overviews",
+      "count": 15,
+      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fox News Media",
+      "count": 14,
+      "url": "https://www.theguardian.com/media/2026/sep/03/maria-bartiromo-fox-news-departure",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian",
+      "count": 12,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/03/farewell-chicken-shop-date-youtube-tv-amelia-dimoldenberg",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
       "count": 11,
-      "url": "https://www.foxnews.com/politics/rep-ralph-norman-affirms-support-ex-rival-sen-lindsey-graham-election",
+      "url": "https://www.foxnews.com/politics/white-house-classic-arcade-games-maga-makeover-online-launch",
       "source": "Fox News"
     },
     {
-      "name": "Canada",
+      "name": "The Filter Us",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/09/03/opinion/canada-alberta-separatists-trump-maga.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The El Niño",
+      "count": 9,
+      "url": "https://www.theguardian.com/environment/2026/sep/03/el-nino-supersizing-before-our-eyes-united-nations",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The U.S. Postal Service",
+      "count": 9,
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
+      "source": "NPR"
+    },
+    {
+      "name": "Texas Senate",
+      "count": 9,
+      "url": "https://thehill.com/homenews/campaign/6070144-rove-paxton-texas-senate-time/",
+      "source": "The Hill"
     }
   ],
   "EVENT": [
-    {
-      "name": "The World Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/football/2026/sep/03/summer-transfer-window-2026-trends-premier-league-la-liga-serie-a-bundesliga-ligue-1",
-      "source": "The Guardian"
-    },
     {
       "name": "Wild Horse Nine",
       "count": 2,
@@ -138,103 +194,23 @@
       "source": "The Guardian"
     },
     {
-      "name": "Olympics",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/sep/02/jordan-chiles-gymnastics-comeback-la-2028-olympics-michael-jordan",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Iran War",
-      "count": 2,
-      "url": "https://thehill.com/homenews/administration/6069276-trump-claims-unlimited-ammunition/",
-      "source": "The Hill"
-    },
-    {
-      "name": "La 2028",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/sep/02/jordan-chiles-gymnastics-comeback-la-2028-olympics-michael-jordan",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Cold War",
-      "count": 1,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-09-03/mayday-review-ryan-reynolds-kenneth-branagh-apple-tv-cold-war",
-      "source": "LA Times"
-    },
-    {
-      "name": "Today",
-      "count": 1,
-      "url": "https://www.today.com/video/gunman-opens-fire-in-minneapolis-apartment-building-killing-2-269265477753",
-      "source": "NBC News"
-    },
-    {
       "name": "Labor Day",
       "count": 1,
-      "url": "https://thehill.com/homenews/house/6069343-comer-mitch-mcconnell-absence-return-update/",
+      "url": "https://www.cbsnews.com/news/diesel-fuel-prices-record-gas-august/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The Sept. 11, 2001",
+      "count": 1,
+      "url": "https://thehill.com/homenews/administration/6070277-jd-vance-sept-11-memorial/",
+      "source": "The Hill"
+    },
+    {
+      "name": "The Great Triumphal Arch And Military Observation Deck",
+      "count": 1,
+      "url": "https://thehill.com/policy/energy-environment/6070202-trump-dc-arch-interior/",
       "source": "The Hill"
     }
   ],
-  "ORG": [
-    {
-      "name": "Target For Trump",
-      "count": 48,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Ai Overviews",
-      "count": 13,
-      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kansas Senate",
-      "count": 13,
-      "url": "https://www.foxnews.com/politics/teamsters-leader-turned-maga-world-darling-backs-republican-key-senate-showdown",
-      "source": "Fox News"
-    },
-    {
-      "name": "Falling House",
-      "count": 10,
-      "url": "https://www.theguardian.com/film/2026/sep/03/falling-house-review-mohsen-gharaei-iran-prison-guard",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nba",
-      "count": 9,
-      "url": "https://www.theguardian.com/sport/2026/sep/03/bill-simmons-ai-ads-podcast-ringer",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 9,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/sep/03/attorneys-rally-children-immigration-custody",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Los Angeles Clippers",
-      "count": 8,
-      "url": "https://www.theguardian.com/sport/2026/sep/03/will-the-clippers-30m-fine-tame-the-nbas-billionaire-class-were-about-to-find-out",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Google Search",
-      "count": 7,
-      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs Mornings Deals",
-      "count": 6,
-      "url": "https://www.cbsnews.com/video/cbs-mornings-deals-090326/",
-      "source": "CBS News"
-    }
-  ],
-  "updated": "2026-09-03T16:58:54Z"
+  "updated": "2026-09-03T21:35:59Z"
 };

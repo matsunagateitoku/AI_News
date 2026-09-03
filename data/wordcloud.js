@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    78,
+    94,
     "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html"
   ],
   [
     "president",
-    48,
-    "https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html"
+    50,
+    "https://www.nytimes.com/2026/09/03/us/federal-prosecution-minnesota-ice-shooting.html"
   ],
   [
     "steinem",
-    39,
-    "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html"
-  ],
-  [
-    "gloria",
-    31,
+    44,
     "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html"
   ],
   [
     "judge",
+    34,
+    "https://www.nytimes.com/2026/09/03/us/politics/mail-ballots-usps-restraining-order.html"
+  ],
+  [
+    "gloria",
+    33,
+    "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html"
+  ],
+  [
+    "court",
     27,
-    "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html"
+    "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html"
   ],
   [
-    "country",
-    26,
-    "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html"
-  ],
-  [
-    "democrats",
+    "film",
     24,
-    "https://www.nytimes.com/2026/09/02/us/politics/el-sayed-michigan-jewish-democrats.html"
-  ],
-  [
-    "latest",
-    23,
-    "https://www.washingtonpost.com/politics/2026/09/03/judge-blocks-trumps-latest-attempt-limit-birthright-citizenship/"
+    "https://www.washingtonpost.com/obituaries/2026/09/02/friday-13th-screenwriter-victor-miller-creator-jason-voorhees-dies-86/"
   ],
   [
     "food",
     23,
-    "https://www.theguardian.com/world/2026/sep/03/indonesia-food-poisoning-hundreds-students-teachers-sick-government-free-meals"
+    "https://www.theguardian.com/environment/2026/sep/03/angela-eagle-uk-stock-up-supplies-el-nino-warning"
   ],
   [
-    "film",
+    "vance",
+    23,
+    "https://www.foxnews.com/politics/vance-reveals-whos-behind-his-recent-weight-loss-first-white-house-press-briefing-since-july"
+  ],
+  [
+    "iran",
+    22,
+    "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html"
+  ],
+  [
+    "administration",
+    22,
+    "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html"
+  ],
+  [
+    "country",
+    22,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "mail",
     21,
-    "https://www.washingtonpost.com/obituaries/2026/09/02/friday-13th-screenwriter-victor-miller-creator-jason-voorhees-dies-86/"
+    "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html"
+  ],
+  [
+    "clancy",
+    21,
+    "https://www.nytimes.com/2026/09/03/us/clancy-lawyer-kevin-reddington.html"
   ],
   [
     "death",
     21,
-    "https://www.washingtonpost.com/nation/2026/09/01/tyler-robinson-accused-killing-charlie-kirk-faces-potential-death-penalty/"
-  ],
-  [
-    "south",
-    21,
-    "https://www.theguardian.com/film/2026/sep/03/by-any-means-review-mark-wahlberg-yahya-abdul-mateen-ii-elegance-bratton"
-  ],
-  [
-    "iran",
-    20,
-    "https://www.washingtonpost.com/business/2026/09/01/bessent-says-us-plan-asphyxiate-irans-economy-has-allies-support/"
-  ],
-  [
-    "york",
-    19,
-    "https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html"
-  ],
-  [
-    "family",
-    19,
-    "https://www.nytimes.com/2026/09/03/books/review/the-corrections-jonathan-franzen-25th-anniversary.html"
+    "https://www.nytimes.com/2026/09/03/us/gloria-steinem-death-hillary-clinton-meghan-markle.html"
   ],
   [
     "security",
-    19,
+    21,
     "https://www.washingtonpost.com/business/2026/09/02/experts-predict-future-social-security/"
   ],
   [
-    "game",
-    19,
-    "https://www.theguardian.com/sport/2026/sep/03/bill-simmons-ai-ads-podcast-ringer"
+    "lindsay",
+    20,
+    "https://www.nytimes.com/2026/09/03/us/clancy-lawyer-kevin-reddington.html"
+  ],
+  [
+    "trial",
+    20,
+    "https://www.nytimes.com/2026/09/03/us/clancy-lawyer-kevin-reddington.html"
+  ],
+  [
+    "latest",
+    20,
+    "https://www.washingtonpost.com/politics/2026/09/03/judge-blocks-trumps-latest-attempt-limit-birthright-citizenship/"
   ],
   [
     "died",
-    19,
+    20,
     "https://www.theguardian.com/world/2026/sep/03/gloria-steinem-obituary"
   ],
   [
-    "star",
+    "war",
     19,
-    "https://www.theguardian.com/music/2026/sep/03/queens-of-the-stone-ages-josh-homme-kicked-a-woman-and-his-ex-wife-alleged-domestic-abuse-why-the-cosy-makeover"
+    "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html"
   ],
   [
-    "support",
+    "start",
     18,
-    "https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html"
+    "https://www.nytimes.com/2026/09/03/nyregion/assisted-suicide-quietus-new-york.html"
   ],
   [
-    "senate",
+    "record",
     18,
-    "https://www.nytimes.com/2026/09/02/us/politics/el-sayed-michigan-jewish-democrats.html"
+    "https://www.washingtonpost.com/nation/2026/09/03/how-data-center-backlash-is-growing-us-statehouses/"
   ],
   [
-    "company",
+    "press",
     18,
-    "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit"
+    "https://www.theguardian.com/us-news/2026/sep/03/ice-officer-charged-venzuela-man-shot-minneapolis"
+  ],
+  [
+    "star",
+    18,
+    "https://www.theguardian.com/football/2026/sep/03/thierry-henry-fifa-scandal-players"
+  ],
+  [
+    "york",
+    17,
+    "https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html"
+  ],
+  [
+    "shooting",
+    17,
+    "https://www.nytimes.com/2026/09/03/us/federal-prosecution-minnesota-ice-shooting.html"
   ],
   [
     "political",
     17,
-    "https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html"
+    "https://www.theguardian.com/world/2026/sep/03/gloria-steinem-obituary"
   ],
   [
-    "war",
-    17,
-    "https://www.nytimes.com/2026/09/03/world/europe/ukraine-russia-jet-powered-drones.html"
-  ],
-  [
-    "nepal",
-    17,
-    "https://www.theguardian.com/world/2026/sep/03/nepal-floods-rasuwagadhi-hydropower-hydro-tunnel-trapped-workers-search-rescue"
-  ],
-  [
-    "lake",
+    "department",
     16,
-    "https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html"
+    "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html"
   ],
   [
-    "full",
+    "supreme",
     16,
-    "https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html"
+    "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html"
   ],
   [
-    "court",
+    "social",
     16,
-    "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html"
+    "https://www.washingtonpost.com/business/2026/09/02/experts-predict-future-social-security/"
   ],
   [
-    "republicans",
+    "military",
     16,
-    "https://www.nytimes.com/2026/09/03/us/elon-musk-republican-spending.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "case",
+    "leading",
     16,
-    "https://www.theguardian.com/us-news/2026/sep/03/federal-judge-usps-mail-ballot-changes"
-  ],
-  [
-    "ice",
-    15,
-    "https://www.nytimes.com/2026/09/03/us/federal-prosecution-minnesota-ice-shooting.html"
-  ],
-  [
-    "order",
-    15,
-    "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html"
-  ],
-  [
-    "investigation",
-    15,
-    "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html"
-  ],
-  [
-    "start",
-    15,
-    "https://www.nytimes.com/2026/09/03/nyregion/assisted-suicide-quietus-new-york.html"
-  ],
-  [
-    "questions",
-    15,
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "early",
-    15,
+    16,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "border",
-    15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "model",
+    16,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "election",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/03/federal-judge-usps-mail-ballot-changes"
+    "game",
+    16,
+    "https://www.theguardian.com/sport/2026/sep/03/bill-simmons-ai-ads-podcast-ringer"
   ],
   [
-    "los",
-    15,
-    "https://www.theguardian.com/sport/2026/sep/03/will-the-clippers-30m-fine-tame-the-nbas-billionaire-class-were-about-to-find-out"
+    "american",
+    16,
+    "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates"
   ],
   [
-    "america",
-    14,
-    "https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html"
+    "race",
+    15,
+    "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html"
+  ],
+  [
+    "service",
+    15,
+    "https://www.nytimes.com/2026/09/03/us/politics/mail-ballots-usps-restraining-order.html"
   ],
   [
     "feminist",
-    14,
+    15,
     "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html"
   ],
   [
-    "spent",
-    14,
-    "https://www.nytimes.com/2026/09/03/science/what-did-jurassic-forests-sound-like-like-this.html"
+    "fox",
+    15,
+    "https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html"
   ],
   [
-    "decade",
-    14,
-    "https://www.nytimes.com/2026/09/03/science/what-did-jurassic-forests-sound-like-like-this.html"
+    "jury",
+    15,
+    "https://www.washingtonpost.com/nation/2026/09/02/lindsay-clancy-jury-deadlocked-second-consecutive-day/"
   ],
   [
-    "administration",
-    14,
-    "https://www.washingtonpost.com/education/2026/09/03/trump-administration-aims-strip-schools-tax-exemption-if-they-consider-race/"
+    "media",
+    15,
+    "https://www.washingtonpost.com/obituaries/2026/09/02/friday-13th-screenwriter-victor-miller-creator-jason-voorhees-dies-86/"
   ],
   [
-    "israel",
-    14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "murder",
+    15,
+    "https://www.washingtonpost.com/nation/2026/09/01/tyler-robinson-accused-killing-charlie-kirk-faces-potential-death-penalty/"
   ],
   [
-    "sea",
+    "case",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/03/pardon-attorney-liz-oyer-mel-gibson"
+  ],
+  [
+    "season",
+    15,
+    "https://www.theguardian.com/sport/2026/sep/03/lewis-hamilton-targets-phenomenal-italian-grand-prix-victory-with-ferrari"
+  ],
+  [
+    "california",
+    15,
+    "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit"
+  ],
+  [
+    "voting",
     14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html"
+  ],
+  [
+    "justice",
+    14,
+    "https://www.nytimes.com/2026/09/03/us/federal-prosecution-minnesota-ice-shooting.html"
+  ],
+  [
+    "democrats",
+    14,
+    "https://www.nytimes.com/2026/09/02/us/politics/el-sayed-michigan-jewish-democrats.html"
+  ],
+  [
+    "forward",
+    14,
+    "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
+  ],
+  [
+    "violence",
+    14,
+    "https://www.theguardian.com/world/2026/sep/03/gloria-steinem-obituary"
+  ],
+  [
+    "don",
+    14,
+    "https://www.theguardian.com/sport/2026/sep/03/bill-simmons-ai-ads-podcast-ringer"
+  ],
+  [
+    "black",
+    14,
+    "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates"
+  ],
+  [
+    "something",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/sep/03/best-home-organization-tips"
+  ],
+  [
+    "company",
+    14,
+    "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release"
   ],
   [
     "domestic",
     14,
-    "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92"
+    "https://www.theguardian.com/us-news/2026/sep/03/us-domestic-violence-killings-homicide"
   ],
   [
-    "video",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/03/farewell-chicken-shop-date-youtube-tv-amelia-dimoldenberg"
-  ],
-  [
-    "love",
-    14,
-    "https://www.theguardian.com/sport/live/2026/sep/03/tennis-us-open-tennis-swiatek-osaka-gauff-zverev-fritz-day-five"
-  ],
-  [
-    "fire",
+    "oil",
     13,
-    "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html"
+    "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html"
   ],
   [
-    "record",
+    "postal",
     13,
-    "https://www.washingtonpost.com/nation/2026/09/03/how-data-center-backlash-is-growing-us-statehouses/"
+    "https://www.nytimes.com/2026/09/03/us/politics/mail-ballots-usps-restraining-order.html"
   ],
   [
-    "media",
+    "growing",
     13,
-    "https://www.washingtonpost.com/obituaries/2026/09/02/friday-13th-screenwriter-victor-miller-creator-jason-voorhees-dies-86/"
+    "https://www.nytimes.com/2026/09/03/business/volkswagen-job-cuts.html"
   ],
   [
-    "social",
+    "rights",
     13,
-    "https://www.washingtonpost.com/business/2026/09/02/experts-predict-future-social-security/"
+    "https://www.nytimes.com/2026/09/03/us/gloria-steinem-death-hillary-clinton-meghan-markle.html"
   ],
   [
-    "leading",
+    "ice",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/09/03/us/federal-prosecution-minnesota-ice-shooting.html"
   ],
   [
-    "inside",
+    "republicans",
     13,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "hollywood",
-    13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "drug",
-    13,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "don",
-    13,
-    "https://www.theguardian.com/sport/2026/sep/03/bill-simmons-ai-ads-podcast-ringer"
-  ],
-  [
-    "cbs",
-    13,
-    "https://www.theguardian.com/media/2026/sep/03/cbs-norah-odonnell-morning-show"
-  ],
-  [
-    "season",
-    13,
-    "https://www.theguardian.com/media/2026/sep/03/cbs-norah-odonnell-morning-show"
-  ],
-  [
-    "tested",
-    13,
-    "https://www.theguardian.com/thefilter-us/2025/oct/23/best-e-readers-kindle-kobo"
-  ],
-  [
-    "late",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/03/i-dont-chase-the-dollar-i-never-did-the-astonishing-hidden-life-of-mr-t"
-  ],
-  [
-    "weather",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/sep/03/september-reset-better-person-workout-october"
-  ],
-  [
-    "rock",
-    13,
-    "https://www.theguardian.com/music/2026/sep/03/queens-of-the-stone-ages-josh-homme-kicked-a-woman-and-his-ex-wife-alleged-domestic-abuse-why-the-cosy-makeover"
-  ],
-  [
-    "department",
-    12,
-    "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html"
-  ],
-  [
-    "water",
-    12,
-    "https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html"
-  ],
-  [
-    "dies",
-    12,
-    "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html"
-  ],
-  [
-    "book",
-    12,
-    "https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html"
-  ],
-  [
-    "clancy",
-    12,
-    "https://www.nytimes.com/2026/09/03/us/clancy-lawyer-kevin-reddington.html"
-  ],
-  [
-    "musk",
-    12,
     "https://www.nytimes.com/2026/09/03/us/elon-musk-republican-spending.html"
   ],
   [
     "donald",
-    12,
+    13,
     "https://www.nytimes.com/2026/09/03/us/elon-musk-republican-spending.html"
   ],
   [
-    "relationship",
-    12,
-    "https://www.nytimes.com/2026/09/03/business/athletic-russini-vrabel-relationship.html"
+    "maria",
+    13,
+    "https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html"
   ],
   [
-    "hundreds",
-    12,
-    "https://www.washingtonpost.com/health/2026/09/02/fall-vaccine-guide-what-know-about-covid-flu-rsv-shots-this-year/"
+    "bartiromo",
+    13,
+    "https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html"
+  ],
+  [
+    "because",
+    13,
+    "https://www.nytimes.com/2026/09/03/opinion/gloria-steinem-feminism-abortion.html"
+  ],
+  [
+    "full",
+    13,
+    "https://www.washingtonpost.com/business/2026/09/02/experts-predict-future-social-security/"
+  ],
+  [
+    "questions",
+    13,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "pop",
-    12,
+    13,
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "several",
-    12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "bill",
+    13,
+    "https://www.theguardian.com/sport/2026/sep/03/bill-simmons-ai-ads-podcast-ringer"
+  ],
+  [
+    "party",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/03/jeffrey-epstein-leon-black-congress-deposition"
+  ],
+  [
+    "almost",
+    13,
+    "https://www.theguardian.com/news/video/2026/sep/03/godzilla-level-el-nino-could-cause-hottest-year-on-record-the-latest"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/sep/03/best-home-organization-tips"
+  ],
+  [
+    "review",
+    13,
+    "https://www.theguardian.com/books/2026/sep/03/an-unexpected-life-by-gloria-steinem-review-a-fitting-tribute-to-a-feminist-icon"
   ]
 ];
