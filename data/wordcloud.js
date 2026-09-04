@@ -2,368 +2,288 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    94,
-    "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html"
+    97,
+    "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html"
   ],
   [
     "president",
-    50,
-    "https://www.nytimes.com/2026/09/03/us/federal-prosecution-minnesota-ice-shooting.html"
+    54,
+    "https://www.nytimes.com/2026/09/03/us/politics/vance-iran-press-briefing.html"
   ],
   [
     "steinem",
-    44,
-    "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html"
-  ],
-  [
-    "judge",
-    34,
-    "https://www.nytimes.com/2026/09/03/us/politics/mail-ballots-usps-restraining-order.html"
-  ],
-  [
-    "gloria",
-    33,
+    43,
     "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html"
   ],
   [
     "court",
-    27,
+    43,
+    "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html"
+  ],
+  [
+    "gloria",
+    40,
+    "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html"
+  ],
+  [
+    "judge",
+    35,
+    "https://www.washingtonpost.com/nation/2026/09/03/lindsay-clancys-attorney-asks-judge-remove-juror/"
+  ],
+  [
+    "supreme",
+    28,
+    "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html"
+  ],
+  [
+    "mail",
+    23,
     "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html"
   ],
   [
     "film",
-    24,
+    23,
     "https://www.washingtonpost.com/obituaries/2026/09/02/friday-13th-screenwriter-victor-miller-creator-jason-voorhees-dies-86/"
   ],
   [
     "food",
     23,
-    "https://www.theguardian.com/environment/2026/sep/03/angela-eagle-uk-stock-up-supplies-el-nino-warning"
+    "https://www.theguardian.com/world/2026/sep/04/uss-abraham-lincoln-sailors-party-resort-pattaya-thailand"
   ],
   [
-    "vance",
-    23,
-    "https://www.foxnews.com/politics/vance-reveals-whos-behind-his-recent-weight-loss-first-white-house-press-briefing-since-july"
-  ],
-  [
-    "iran",
+    "secretary",
     22,
-    "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html"
+    "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html"
   ],
   [
-    "administration",
+    "missouri",
     22,
-    "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html"
+    "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html"
   ],
   [
-    "country",
-    22,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "defense",
+    20,
+    "https://www.nytimes.com/2026/09/03/us/politics/trump-acting-army-secretary.html"
   ],
   [
-    "mail",
-    21,
-    "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html"
+    "republicans",
+    20,
+    "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html"
   ],
   [
     "clancy",
-    21,
-    "https://www.nytimes.com/2026/09/03/us/clancy-lawyer-kevin-reddington.html"
+    20,
+    "https://www.washingtonpost.com/nation/2026/09/03/lindsay-clancys-attorney-asks-judge-remove-juror/"
   ],
   [
     "death",
-    21,
-    "https://www.nytimes.com/2026/09/03/us/gloria-steinem-death-hillary-clinton-meghan-markle.html"
-  ],
-  [
-    "security",
-    21,
-    "https://www.washingtonpost.com/business/2026/09/02/experts-predict-future-social-security/"
+    19,
+    "https://www.nytimes.com/2026/09/03/nyregion/gloria-steinem-home-new-york.html"
   ],
   [
     "lindsay",
-    20,
-    "https://www.nytimes.com/2026/09/03/us/clancy-lawyer-kevin-reddington.html"
+    19,
+    "https://www.washingtonpost.com/nation/2026/09/03/lindsay-clancys-attorney-asks-judge-remove-juror/"
   ],
   [
     "trial",
-    20,
-    "https://www.nytimes.com/2026/09/03/us/clancy-lawyer-kevin-reddington.html"
+    19,
+    "https://www.washingtonpost.com/nation/2026/09/02/lindsay-clancy-jury-deadlocked-second-consecutive-day/"
   ],
   [
-    "latest",
-    20,
-    "https://www.washingtonpost.com/politics/2026/09/03/judge-blocks-trumps-latest-attempt-limit-birthright-citizenship/"
+    "case",
+    18,
+    "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html"
   ],
   [
     "died",
-    20,
-    "https://www.theguardian.com/world/2026/sep/03/gloria-steinem-obituary"
-  ],
-  [
-    "war",
-    19,
-    "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html"
-  ],
-  [
-    "start",
     18,
-    "https://www.nytimes.com/2026/09/03/nyregion/assisted-suicide-quietus-new-york.html"
+    "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-best-quotes"
   ],
   [
-    "record",
+    "game",
     18,
-    "https://www.washingtonpost.com/nation/2026/09/03/how-data-center-backlash-is-growing-us-statehouses/"
+    "https://www.theguardian.com/sport/2026/sep/03/bill-simmons-ai-ads-podcast-ringer"
   ],
   [
-    "press",
-    18,
-    "https://www.theguardian.com/us-news/2026/sep/03/ice-officer-charged-venzuela-man-shot-minneapolis"
-  ],
-  [
-    "star",
+    "political",
     18,
     "https://www.theguardian.com/football/2026/sep/03/thierry-henry-fifa-scandal-players"
   ],
   [
-    "york",
+    "iran",
     17,
-    "https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html"
+    "https://www.nytimes.com/2026/09/03/us/politics/vance-iran-press-briefing.html"
   ],
   [
-    "shooting",
+    "war",
     17,
-    "https://www.nytimes.com/2026/09/03/us/federal-prosecution-minnesota-ice-shooting.html"
-  ],
-  [
-    "political",
-    17,
-    "https://www.theguardian.com/world/2026/sep/03/gloria-steinem-obituary"
-  ],
-  [
-    "department",
-    16,
-    "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html"
-  ],
-  [
-    "supreme",
-    16,
-    "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html"
-  ],
-  [
-    "social",
-    16,
-    "https://www.washingtonpost.com/business/2026/09/02/experts-predict-future-social-security/"
-  ],
-  [
-    "military",
-    16,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "leading",
-    16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "early",
-    16,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "model",
-    16,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "game",
-    16,
-    "https://www.theguardian.com/sport/2026/sep/03/bill-simmons-ai-ads-podcast-ringer"
-  ],
-  [
-    "american",
-    16,
-    "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates"
-  ],
-  [
-    "race",
-    15,
-    "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html"
-  ],
-  [
-    "service",
-    15,
-    "https://www.nytimes.com/2026/09/03/us/politics/mail-ballots-usps-restraining-order.html"
-  ],
-  [
-    "feminist",
-    15,
-    "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html"
-  ],
-  [
-    "fox",
-    15,
-    "https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html"
-  ],
-  [
-    "jury",
-    15,
-    "https://www.washingtonpost.com/nation/2026/09/02/lindsay-clancy-jury-deadlocked-second-consecutive-day/"
-  ],
-  [
-    "media",
-    15,
-    "https://www.washingtonpost.com/obituaries/2026/09/02/friday-13th-screenwriter-victor-miller-creator-jason-voorhees-dies-86/"
-  ],
-  [
-    "murder",
-    15,
-    "https://www.washingtonpost.com/nation/2026/09/01/tyler-robinson-accused-killing-charlie-kirk-faces-potential-death-penalty/"
-  ],
-  [
-    "case",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/03/pardon-attorney-liz-oyer-mel-gibson"
-  ],
-  [
-    "season",
-    15,
-    "https://www.theguardian.com/sport/2026/sep/03/lewis-hamilton-targets-phenomenal-italian-grand-prix-victory-with-ferrari"
-  ],
-  [
-    "california",
-    15,
-    "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit"
-  ],
-  [
-    "voting",
-    14,
-    "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html"
-  ],
-  [
-    "justice",
-    14,
-    "https://www.nytimes.com/2026/09/03/us/federal-prosecution-minnesota-ice-shooting.html"
+    "https://www.nytimes.com/2026/09/03/us/politics/vance-iran-press-briefing.html"
   ],
   [
     "democrats",
-    14,
-    "https://www.nytimes.com/2026/09/02/us/politics/el-sayed-michigan-jewish-democrats.html"
+    17,
+    "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html"
   ],
   [
-    "forward",
-    14,
+    "administration",
+    17,
+    "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html"
+  ],
+  [
+    "latest",
+    17,
+    "https://www.washingtonpost.com/politics/2026/09/03/judge-blocks-trumps-latest-attempt-limit-birthright-citizenship/"
+  ],
+  [
+    "campaign",
+    17,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "country",
+    17,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "murder",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/sep/03/the-guardian-view-on-press-freedom-to-defend-democracy-stand-up-for-journalists"
+  ],
+  [
+    "california",
+    17,
+    "https://www.latimes.com/world-nation/story/2026-09-03/trump-tax-exempt-status-schools-race"
+  ],
+  [
+    "start",
+    16,
+    "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html"
+  ],
+  [
+    "donald",
+    16,
     "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
   ],
   [
-    "violence",
-    14,
-    "https://www.theguardian.com/world/2026/sep/03/gloria-steinem-obituary"
+    "record",
+    16,
+    "https://www.washingtonpost.com/nation/2026/09/03/how-data-center-backlash-is-growing-us-statehouses/"
   ],
   [
-    "don",
-    14,
-    "https://www.theguardian.com/sport/2026/sep/03/bill-simmons-ai-ads-podcast-ringer"
+    "season",
+    16,
+    "https://www.theguardian.com/sport/2026/sep/03/gael-monfils-learner-tien-us-open-final-grand-slam-match"
   ],
   [
-    "black",
+    "star",
+    16,
+    "https://www.theguardian.com/sport/2026/sep/04/nick-kyrgios-tennis-one-month-ban-for-cocaine-use-treatment-program"
+  ],
+  [
+    "plans",
+    15,
+    "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html"
+  ],
+  [
+    "army",
+    15,
+    "https://www.nytimes.com/2026/09/03/us/politics/trump-acting-army-secretary.html"
+  ],
+  [
+    "rights",
+    15,
+    "https://www.nytimes.com/2026/09/03/us/gloria-steinem-death-hillary-clinton-meghan-markle.html"
+  ],
+  [
+    "elections",
+    15,
+    "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
+  ],
+  [
+    "pop",
+    15,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "growing",
     14,
-    "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates"
+    "https://www.nytimes.com/2026/09/03/business/volkswagen-job-cuts.html"
+  ],
+  [
+    "map",
+    14,
+    "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html"
   ],
   [
     "something",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/sep/03/best-home-organization-tips"
+    "https://www.nytimes.com/2026/09/04/opinion/afd-germany-saxony-anhalt.html"
+  ],
+  [
+    "race",
+    14,
+    "https://www.washingtonpost.com/education/2026/09/03/trump-administration-aims-strip-schools-tax-exemption-if-they-consider-race/"
+  ],
+  [
+    "words",
+    14,
+    "https://www.washingtonpost.com/health/2026/09/03/gen-z-stare-decline-saying-things-out-loud/"
+  ],
+  [
+    "jury",
+    14,
+    "https://www.washingtonpost.com/nation/2026/09/02/lindsay-clancy-jury-deadlocked-second-consecutive-day/"
+  ],
+  [
+    "children",
+    14,
+    "https://www.washingtonpost.com/nation/2026/09/02/lindsay-clancy-jury-deadlocked-second-consecutive-day/"
+  ],
+  [
+    "early",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "video",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/03/farewell-chicken-shop-date-youtube-tv-amelia-dimoldenberg"
+  ],
+  [
+    "party",
+    14,
+    "https://www.theguardian.com/world/2026/sep/04/new-zealand-approves-mdma-to-treat-severe-ptsd"
+  ],
+  [
+    "late",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/03/federal-judge-blocks-trump-birthright-citizenship-order"
   ],
   [
     "company",
     14,
-    "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release"
+    "https://www.theguardian.com/commentisfree/2026/sep/04/capitalism-luton-car-workers-vauxhall-motors-labour-unions-reform"
   ],
   [
-    "domestic",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/03/us-domestic-violence-killings-homicide"
-  ],
-  [
-    "oil",
+    "justice",
     13,
-    "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html"
+    "https://www.nytimes.com/2026/09/03/world/middleeast/syria-justice-abuse-assad.html"
   ],
   [
-    "postal",
+    "leading",
     13,
-    "https://www.nytimes.com/2026/09/03/us/politics/mail-ballots-usps-restraining-order.html"
+    "https://www.nytimes.com/2026/09/02/headway/india-delhi-metro-public-transit.html"
   ],
   [
-    "growing",
+    "media",
     13,
-    "https://www.nytimes.com/2026/09/03/business/volkswagen-job-cuts.html"
-  ],
-  [
-    "rights",
-    13,
-    "https://www.nytimes.com/2026/09/03/us/gloria-steinem-death-hillary-clinton-meghan-markle.html"
+    "https://www.washingtonpost.com/obituaries/2026/09/02/friday-13th-screenwriter-victor-miller-creator-jason-voorhees-dies-86/"
   ],
   [
     "ice",
     13,
-    "https://www.nytimes.com/2026/09/03/us/federal-prosecution-minnesota-ice-shooting.html"
-  ],
-  [
-    "republicans",
-    13,
-    "https://www.nytimes.com/2026/09/03/us/elon-musk-republican-spending.html"
-  ],
-  [
-    "donald",
-    13,
-    "https://www.nytimes.com/2026/09/03/us/elon-musk-republican-spending.html"
-  ],
-  [
-    "maria",
-    13,
-    "https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html"
-  ],
-  [
-    "bartiromo",
-    13,
-    "https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html"
-  ],
-  [
-    "because",
-    13,
-    "https://www.nytimes.com/2026/09/03/opinion/gloria-steinem-feminism-abortion.html"
-  ],
-  [
-    "full",
-    13,
-    "https://www.washingtonpost.com/business/2026/09/02/experts-predict-future-social-security/"
-  ],
-  [
-    "questions",
-    13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "pop",
-    13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "bill",
-    13,
-    "https://www.theguardian.com/sport/2026/sep/03/bill-simmons-ai-ads-podcast-ringer"
-  ],
-  [
-    "party",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/03/jeffrey-epstein-leon-black-congress-deposition"
-  ],
-  [
-    "almost",
-    13,
-    "https://www.theguardian.com/news/video/2026/sep/03/godzilla-level-el-nino-could-cause-hottest-year-on-record-the-latest"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "buying",
@@ -371,8 +291,88 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/03/best-home-organization-tips"
   ],
   [
-    "review",
+    "family",
     13,
-    "https://www.theguardian.com/books/2026/sep/03/an-unexpected-life-by-gloria-steinem-review-a-fitting-tribute-to-a-feminist-icon"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/03/gun-safety-rural-america"
+  ],
+  [
+    "rules",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/03/federal-judge-blocks-trump-birthright-citizenship-order"
+  ],
+  [
+    "american",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/03/federal-judge-blocks-trump-birthright-citizenship-order"
+  ],
+  [
+    "art",
+    13,
+    "https://www.theguardian.com/music/2026/sep/04/art-garfunkel-what-a-wonderful-world-tour-interview"
+  ],
+  [
+    "violence",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/sep/03/the-guardian-view-on-press-freedom-to-defend-democracy-stand-up-for-journalists"
+  ],
+  [
+    "mark",
+    13,
+    "https://www.theguardian.com/film/2026/sep/03/by-any-means-review-mark-wahlberg-yahya-abdul-mateen-ii-elegance-bratton"
+  ],
+  [
+    "gop",
+    13,
+    "https://www.latimes.com/opinion/story/2026-09-03/trump-popularity-midterm-elections-republican-mail-voting"
+  ],
+  [
+    "attack",
+    12,
+    "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html"
+  ],
+  [
+    "announced",
+    12,
+    "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html"
+  ],
+  [
+    "feminist",
+    12,
+    "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html"
+  ],
+  [
+    "dies",
+    12,
+    "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html"
+  ],
+  [
+    "following",
+    12,
+    "https://www.nytimes.com/2026/09/03/nyregion/gloria-steinem-home-new-york.html"
+  ],
+  [
+    "win",
+    12,
+    "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html"
+  ],
+  [
+    "voters",
+    12,
+    "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html"
+  ],
+  [
+    "bartiromo",
+    12,
+    "https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html"
+  ],
+  [
+    "fox",
+    12,
+    "https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html"
+  ],
+  [
+    "gaza",
+    12,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ]
 ];
