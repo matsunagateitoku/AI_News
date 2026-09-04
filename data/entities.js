@@ -3,63 +3,181 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 67,
-      "url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
-      "source": "The Guardian"
+      "count": 69,
+      "url": "https://www.nytimes.com/2026/09/04/opinion/gloria-steinem-feminism.html",
+      "source": "NY Times"
     },
     {
       "name": "U.S.",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ukraine",
       "count": 17,
-      "url": "https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html",
+      "url": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html",
       "source": "NY Times"
     },
     {
       "name": "Iran",
-      "count": 15,
-      "url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
-      "source": "The Guardian"
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html",
+      "source": "NY Times"
     },
     {
-      "name": "Missouri",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/sep/03/thomas-ross-missouri-plotting-cocaine",
+      "name": "Russia",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California City",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/ice-california-detention-contact-visits",
       "source": "The Guardian"
     },
     {
       "name": "Uk",
       "count": 12,
-      "url": "https://www.theguardian.com/environment/2026/sep/03/angela-eagle-uk-stock-up-supplies-el-nino-warning",
+      "url": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
       "source": "The Guardian"
     },
     {
-      "name": "L.A.",
+      "name": "L.A. County'S",
       "count": 12,
-      "url": "https://www.latimes.com/california/story/2026-09-03/bass-is-asked-to-testify-before-congress-about-waste-fraud-in-l-a-s-response-to-homelessness",
+      "url": "https://www.latimes.com/california/story/2026-09-04/payouts-delayed-la-county-4-billion-sex-abuse-settlement",
       "source": "LA Times"
-    },
-    {
-      "name": "California",
-      "count": 12,
-      "url": "https://www.latimes.com/world-nation/story/2026-09-03/trump-tax-exempt-status-schools-race",
-      "source": "LA Times"
-    },
-    {
-      "name": "Ukraine",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ukraine-iran-wars-trump",
-      "source": "The Guardian"
     },
     {
       "name": "Israel",
-      "count": 9,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/09/03/nyregion/jewish-new-yorkers-israel-gaza.html",
+      "source": "NY Times"
     },
     {
-      "name": "Washington Dc",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/sep/03/trump-arch-washington-excavation-work",
+      "name": "Nepal",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/2026/sep/04/nepal-tunnel-found-alive-flood-two-workers-hydropower-rescue",
       "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 30,
+      "url": "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Gloria Steinem",
+      "count": 27,
+      "url": "https://www.nytimes.com/2026/09/03/style/gloria-steinem-photos.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Lindsay Clancy Case",
+      "count": 16,
+      "url": "https://www.today.com/video/lindsay-clancy-jury-split-11-1-judge-to-question-lone-holdout-269320773982",
+      "source": "NBC News"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 10,
+      "url": "https://www.politico.com/news/2026/09/01/republican-jewish-coalition-jd-vance-tucker-carlson-01060877",
+      "source": "Politico"
+    },
+    {
+      "name": "Itamar Ben-Gvir",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ben-gvir-palestinian-comments",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Maria Bartiromo",
+      "count": 6,
+      "url": "https://www.theguardian.com/media/2026/sep/03/maria-bartiromo-fox-news-departure",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Volodymyr Zelenskyy",
+      "count": 6,
+      "url": "https://www.theguardian.com/world/2026/sep/04/ukraine-war-briefing-us-envoy-to-visit-kyiv-in-coming-days-zelenskyy-says-as-putin-signals-chance-of-peace",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Vladimir Putin",
+      "count": 5,
+      "url": "https://www.theguardian.com/world/2026/sep/04/ukraine-war-briefing-us-envoy-to-visit-kyiv-in-coming-days-zelenskyy-says-as-putin-signals-chance-of-peace",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gloria Allred",
+      "count": 5,
+      "url": "https://www.cbsnews.com/video/reactions-pour-gloria-steinem-words-spirit-live-on/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Art Garfunkel",
+      "count": 4,
+      "url": "https://www.theguardian.com/music/2026/sep/04/art-garfunkel-what-a-wonderful-world-tour-interview",
+      "source": "The Guardian"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "The World Cup",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/sep/01/getting-hype-for-the-fiba-world-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Labor Day 2026",
+      "count": 3,
+      "url": "https://www.nbcnews.com/select/shopping/best-labor-day-sales-2026-rcna596001",
+      "source": "NBC News"
+    },
+    {
+      "name": "The L.A. Olympics",
+      "count": 2,
+      "url": "https://www.latimes.com/california/story/2026-09-04/5-900-homeless-will-be-displaced-by-la-olympics",
+      "source": "LA Times"
+    },
+    {
+      "name": "The Us Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/sep/04/us-open-disturb-the-game-betting-taking-over-tennis-courts-around-the-world",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hurricane Karina",
+      "count": 1,
+      "url": "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hurricane Lowell",
+      "count": 1,
+      "url": "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World War Ii",
+      "count": 1,
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+      "source": "NPR"
+    },
+    {
+      "name": "The Iran War",
+      "count": 1,
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diesel-gas-prices-labor-day/",
+      "source": "CBS News"
+    },
+    {
+      "name": "World Cup Of",
+      "count": 1,
+      "url": "https://www.cbsnews.com/video/world-cup-tiramisu-competition-seeks-judges/",
+      "source": "CBS News"
     }
   ],
   "ORG": [
@@ -71,38 +189,14 @@
     },
     {
       "name": "House Appropriations",
-      "count": 18,
+      "count": 12,
       "url": "https://thehill.com/homenews/house/6070508-pentagon-nih-diverts-funds-democrats-statement/",
       "source": "The Hill"
     },
     {
-      "name": "Gop Senate",
-      "count": 16,
-      "url": "https://www.politico.com/news/2026/08/25/darline-graham-wins-south-carolina-senate-runoff-01050320",
-      "source": "Politico"
-    },
-    {
       "name": "Guardian",
-      "count": 13,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/03/farewell-chicken-shop-date-youtube-tv-amelia-dimoldenberg",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Missouri Supreme Court",
-      "count": 12,
-      "url": "https://www.foxnews.com/politics/missouri-high-court-blocks-gop-backed-congressional-maps-ahead-midterms-trump-blasts-ridiculous-ruling",
-      "source": "Fox News"
-    },
-    {
-      "name": "Fox News Media",
       "count": 11,
-      "url": "https://www.theguardian.com/media/2026/sep/03/maria-bartiromo-fox-news-departure",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Fbi",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/sep/03/us-domestic-violence-killings-homicide",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ben-gvir-palestinian-comments",
       "source": "The Guardian"
     },
     {
@@ -118,111 +212,35 @@
       "source": "The Guardian"
     },
     {
-      "name": "The El Niño",
-      "count": 9,
-      "url": "https://www.theguardian.com/environment/2026/sep/03/el-nino-supersizing-before-our-eyes-united-nations",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Gloria Steinem",
-      "count": 36,
-      "url": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 33,
-      "url": "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Lindsay Clancy",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/nation/2026/09/03/lindsay-clancys-attorney-asks-judge-remove-juror/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Maria Bartiromo",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Jd Vance",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/09/03/us/politics/vance-iran-press-briefing.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Martin Mcdonagh",
-      "count": 7,
-      "url": "https://www.theguardian.com/film/2026/sep/03/martin-mcdonagh-wild-horse-nine-cia-awful-things",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Itamar Ben-Gvir",
-      "count": 6,
-      "url": "https://www.theguardian.com/world/2026/sep/03/israel-far-right-minister-itamar-ben-gvir-plan-removal-palestinians-gaza",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Adam Telle",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/sep/03/adam-telle-acting-army-secretary",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Volodymyr Zelenskyy",
-      "count": 6,
-      "url": "https://www.theguardian.com/world/2026/sep/04/ukraine-war-briefing-us-envoy-to-visit-kyiv-in-coming-days-zelenskyy-says-as-putin-signals-chance-of-peace",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Darline Graham",
-      "count": 6,
+      "name": "Gop Senate",
+      "count": 10,
       "url": "https://www.politico.com/news/2026/08/25/darline-graham-wins-south-carolina-senate-runoff-01050320",
       "source": "Politico"
-    }
-  ],
-  "EVENT": [
+    },
     {
-      "name": "World Cup Of",
-      "count": 3,
-      "url": "https://www.cbsnews.com/video/world-cup-tiramisu-competition-seeks-judges/",
+      "name": "The Missouri Supreme Court",
+      "count": 8,
+      "url": "https://www.cbsnews.com/news/missouri-court-blocks-house-map-redistricting-orders-vote/",
       "source": "CBS News"
     },
     {
-      "name": "Wild Horse Nine",
-      "count": 2,
-      "url": "https://www.theguardian.com/film/2026/sep/03/martin-mcdonagh-wild-horse-nine-cia-awful-things",
+      "name": "Congress",
+      "count": 8,
+      "url": "https://www.cbsnews.com/news/automakers-urge-congress-ban-chinese-vehicles/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Google Search",
+      "count": 7,
+      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
       "source": "The Guardian"
     },
     {
-      "name": "Labor Day",
-      "count": 2,
-      "url": "https://www.cbsnews.com/news/diesel-fuel-prices-record-gas-august/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Great Triumphal Arch",
-      "count": 1,
-      "url": "https://www.foxnews.com/politics/excavation-begin-trump-administration-250-foot-triumphal-arch-amid-legal-battle",
-      "source": "Fox News"
-    },
-    {
-      "name": "World Championship",
-      "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/will-ospreay-era-aew-champion-begins-learns-title-defense-all-out-standard-now",
-      "source": "Fox News"
-    },
-    {
-      "name": "Venice Film Festival",
-      "count": 1,
-      "url": "https://www.foxnews.com/entertainment/sydney-sweeney-scooter-braun-pack-pda-during-romantic-gondola-ride-venice",
-      "source": "Fox News"
+      "name": "Lsu",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/sep/04/lsu-lane-kiffin-lawsuit-kim-mulkey-sec-ncaa",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-09-04T05:40:19Z"
+  "updated": "2026-09-04T12:02:37Z"
 };
