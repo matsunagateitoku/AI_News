@@ -2,103 +2,113 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    95,
-    "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html"
+    71,
+    "https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html"
   ],
   [
     "president",
-    50,
-    "https://www.nytimes.com/2026/09/04/world/americas/venezuela-oil-trump-alejandro-betancourt.html"
-  ],
-  [
-    "court",
     41,
-    "https://www.nytimes.com/2026/09/04/us/politics/josh-turek-iowa-senate-race.html"
-  ],
-  [
-    "steinem",
-    34,
-    "https://www.nytimes.com/2026/09/03/nyregion/gloria-steinem-home-new-york.html"
-  ],
-  [
-    "gloria",
-    31,
-    "https://www.nytimes.com/2026/09/03/style/gloria-steinem-photos.html"
-  ],
-  [
-    "judge",
-    26,
-    "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html"
-  ],
-  [
-    "war",
-    24,
-    "https://www.nytimes.com/2026/09/04/podcasts/the-headlines/russia-sabotage-attacks-elon-musk.html"
-  ],
-  [
-    "supreme",
-    24,
-    "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html"
-  ],
-  [
-    "food",
-    24,
-    "https://www.theguardian.com/environment/2026/sep/03/un-fish-farms-food-oceans-aquaculture"
-  ],
-  [
-    "record",
-    23,
-    "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html"
-  ],
-  [
-    "country",
-    22,
-    "https://www.nytimes.com/2026/08/31/arts/music/ella-langley-choosin-texas-record.html"
-  ],
-  [
-    "mail",
-    22,
-    "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html"
+    "https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html"
   ],
   [
     "clancy",
-    21,
-    "https://www.washingtonpost.com/nation/2026/09/03/lindsay-clancys-attorney-asks-judge-remove-juror/"
+    34,
+    "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
   ],
   [
-    "school",
-    21,
-    "https://www.theguardian.com/film/2026/sep/04/brailled-it-blind-documentary"
-  ],
-  [
-    "democrats",
-    20,
-    "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html"
+    "judge",
+    30,
+    "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
   ],
   [
     "lindsay",
-    20,
-    "https://www.washingtonpost.com/nation/2026/09/03/lindsay-clancys-attorney-asks-judge-remove-juror/"
+    29,
+    "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
   ],
   [
-    "republicans",
-    19,
-    "https://www.nytimes.com/2026/09/04/us/politics/josh-turek-iowa-senate-race.html"
+    "death",
+    28,
+    "https://www.theguardian.com/us-news/2026/sep/04/texas-man-sentenced-death-teen-1980s"
   ],
   [
-    "ukraine",
-    18,
-    "https://www.nytimes.com/2026/09/04/world/europe/ukraine-russia-talks-kyrylo-budanov.html"
-  ],
-  [
-    "nepal",
-    18,
-    "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue-operation-trishuli.html"
+    "food",
+    25,
+    "https://www.theguardian.com/environment/2026/sep/04/seed-bank-hope-farming-project-gaza-al-qarara"
   ],
   [
     "film",
+    24,
+    "https://www.nytimes.com/2026/09/04/movies/practical-magic-sandra-bullock-nicole-kidman.html"
+  ],
+  [
+    "trial",
+    24,
+    "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
+  ],
+  [
+    "war",
+    22,
+    "https://www.nytimes.com/2026/09/04/us/politics/iran-war-intelligence-reports.html"
+  ],
+  [
+    "school",
+    22,
+    "https://www.theguardian.com/sport/2026/sep/04/lsu-lane-kiffin-lawsuit-kim-mulkey-sec-ncaa"
+  ],
+  [
+    "labor",
+    21,
+    "https://www.washingtonpost.com/business/2026/09/04/lori-chavez-deremer-former-labor-secretary-drank-job-misused-funds-report-finds/"
+  ],
+  [
+    "children",
+    21,
+    "https://www.washingtonpost.com/nation/2026/09/02/lindsay-clancy-jury-deadlocked-second-consecutive-day/"
+  ],
+  [
+    "defense",
+    20,
+    "https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html"
+  ],
+  [
+    "mistrial",
+    20,
+    "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
+  ],
+  [
+    "latest",
+    20,
+    "https://www.washingtonpost.com/politics/2026/09/03/judge-blocks-trumps-latest-attempt-limit-birthright-citizenship/"
+  ],
+  [
+    "country",
+    20,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "murder",
+    19,
+    "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
+  ],
+  [
+    "director",
+    19,
+    "https://www.theguardian.com/film/2026/sep/04/israel-director-amos-gitai-gaza-the-road-to-jericho-venice"
+  ],
+  [
+    "court",
     18,
-    "https://www.washingtonpost.com/obituaries/2026/09/02/friday-13th-screenwriter-victor-miller-creator-jason-voorhees-dies-86/"
+    "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
+  ],
+  [
+    "jobs",
+    18,
+    "https://www.theguardian.com/us-news/2026/sep/04/private-equity-boom-hospital-job-layoff"
+  ],
+  [
+    "art",
+    18,
+    "https://www.theguardian.com/music/2026/sep/04/art-garfunkel-what-a-wonderful-world-tour-interview"
   ],
   [
     "season",
@@ -106,22 +116,17 @@
     "https://www.theguardian.com/sport/2026/sep/04/lsu-lane-kiffin-lawsuit-kim-mulkey-sec-ncaa"
   ],
   [
-    "murder",
+    "game",
     18,
-    "https://www.theguardian.com/us-news/2026/sep/02/tupac-shakur-murder-conviction-fan-reaction"
+    "https://www.theguardian.com/law/ng-interactive/2026/sep/04/high-school-journalism-splc"
   ],
   [
-    "iran",
+    "gloria",
     17,
-    "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html"
+    "https://www.nytimes.com/2026/09/04/us/politics/gloria-steinem-feminism-manosphere.html"
   ],
   [
-    "media",
-    17,
-    "https://www.nytimes.com/2026/09/04/nyregion/mamdani-influencers-emilia-rowland.html"
-  ],
-  [
-    "trial",
+    "jury",
     17,
     "https://www.washingtonpost.com/nation/2026/09/02/lindsay-clancy-jury-deadlocked-second-consecutive-day/"
   ],
@@ -131,248 +136,243 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "game",
+    "case",
     17,
-    "https://www.theguardian.com/sport/2026/sep/04/us-open-disturb-the-game-betting-taking-over-tennis-courts-around-the-world"
+    "https://www.theguardian.com/us-news/live/2026/sep/04/lindsay-clancy-mistrial-live-updates"
   ],
   [
-    "russia",
+    "iran",
     16,
-    "https://www.nytimes.com/2026/09/04/world/europe/ukraine-russia-talks-kyrylo-budanov.html"
+    "https://www.nytimes.com/2026/09/04/us/politics/iran-war-intelligence-reports.html"
   ],
   [
-    "secretary",
+    "steinem",
     16,
-    "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html"
-  ],
-  [
-    "rights",
-    16,
-    "https://www.nytimes.com/2026/09/03/style/gloria-steinem-photos.html"
-  ],
-  [
-    "fall",
-    16,
-    "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html"
-  ],
-  [
-    "voters",
-    16,
-    "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html"
-  ],
-  [
-    "win",
-    16,
-    "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html"
-  ],
-  [
-    "died",
-    16,
-    "https://www.nytimes.com/2026/09/04/opinion/gloria-steinem-feminism.html"
-  ],
-  [
-    "late",
-    16,
-    "https://www.washingtonpost.com/education/2026/09/04/college-loans-were-late-due-new-federal-rules-students-are-paying-price/"
-  ],
-  [
-    "history",
-    16,
-    "https://www.theguardian.com/music/2026/sep/04/art-garfunkel-what-a-wonderful-world-tour-interview"
+    "https://www.nytimes.com/2026/09/04/us/politics/gloria-steinem-feminism-manosphere.html"
   ],
   [
     "california",
     16,
-    "https://www.theguardian.com/film/2026/sep/04/brailled-it-blind-documentary"
+    "https://www.theguardian.com/us-news/2026/sep/04/ice-california-detention-contact-visits"
   ],
   [
-    "political",
+    "late",
     15,
-    "https://www.nytimes.com/2026/09/04/podcasts/the-headlines/russia-sabotage-attacks-elon-musk.html"
+    "https://www.washingtonpost.com/education/2026/09/04/college-loans-were-late-due-new-federal-rules-students-are-paying-price/"
   ],
   [
-    "death",
+    "record",
     15,
-    "https://www.nytimes.com/2026/09/03/nyregion/gloria-steinem-home-new-york.html"
+    "https://www.washingtonpost.com/nation/2026/09/03/how-data-center-backlash-is-growing-us-statehouses/"
   ],
   [
-    "race",
+    "music",
     15,
-    "https://www.washingtonpost.com/education/2026/09/03/trump-administration-aims-strip-schools-tax-exemption-if-they-consider-race/"
+    "https://www.theguardian.com/music/2026/sep/04/piss-band-unforgettable-live-show-noise-punk-album"
   ],
   [
-    "latest",
-    15,
-    "https://www.washingtonpost.com/politics/2026/09/03/judge-blocks-trumps-latest-attempt-limit-birthright-citizenship/"
+    "media",
+    14,
+    "https://www.nytimes.com/2026/09/04/nyregion/mamdani-influencers-emilia-rowland.html"
   ],
   [
-    "jury",
-    15,
-    "https://www.washingtonpost.com/nation/2026/09/02/lindsay-clancy-jury-deadlocked-second-consecutive-day/"
+    "killed",
+    14,
+    "https://www.nytimes.com/2026/09/04/nyregion/nypd-shooting-brooklyn-bridge.html"
   ],
   [
-    "children",
-    15,
-    "https://www.washingtonpost.com/nation/2026/09/02/lindsay-clancy-jury-deadlocked-second-consecutive-day/"
+    "health",
+    14,
+    "https://www.washingtonpost.com/health/2026/09/04/behind-the-scenes-effort-contain-pennsylvanias-measles-outbreak/"
   ],
   [
-    "director",
-    15,
-    "https://www.theguardian.com/film/2026/sep/04/brailled-it-blind-documentary"
+    "guide",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/04/sign-up-to-the-stakes-2026-your-weekly-guide-to-the-us-midterms"
   ],
   [
-    "party",
-    15,
-    "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates"
+    "family",
+    14,
+    "https://www.theguardian.com/environment/2026/sep/04/seed-bank-hope-farming-project-gaza-al-qarara"
+  ],
+  [
+    "win",
+    14,
+    "https://www.theguardian.com/sport/2026/sep/04/andy-ruiz-jr-damian-knyba-heavyweight-boxing-comeback"
+  ],
+  [
+    "tested",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/sep/01/best-coffee-upgrades"
   ],
   [
     "american",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/03/federal-judge-blocks-trump-birthright-citizenship-order"
+    13,
+    "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-trial-reasonable-doubt.html"
   ],
   [
-    "plans",
-    14,
-    "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html"
-  ],
-  [
-    "case",
-    14,
-    "https://www.nytimes.com/2026/09/04/us/choosin-texas-southern-ella-langley.html"
-  ],
-  [
-    "floods",
-    14,
-    "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html"
-  ],
-  [
-    "administration",
-    14,
-    "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html"
-  ],
-  [
-    "missouri",
-    14,
-    "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html"
-  ],
-  [
-    "gaza",
-    14,
-    "https://www.nytimes.com/2026/09/03/nyregion/jewish-new-yorkers-israel-gaza.html"
-  ],
-  [
-    "growing",
-    14,
-    "https://www.nytimes.com/2026/09/03/business/volkswagen-job-cuts.html"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
-  ],
-  [
-    "elections",
-    14,
-    "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
-  ],
-  [
-    "change",
-    14,
-    "https://www.washingtonpost.com/politics/2026/09/02/watch-ontario-new-york-residents-sound-off-lake-america-name-change/"
-  ],
-  [
-    "ice",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "fire",
-    14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "team",
-    14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "art",
-    14,
-    "https://www.theguardian.com/music/2026/sep/04/art-garfunkel-what-a-wonderful-world-tour-interview"
-  ],
-  [
-    "company",
-    14,
-    "https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta"
-  ],
-  [
-    "far",
-    14,
-    "https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta"
-  ],
-  [
-    "video",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/sep/03/ben-gvir-palestinian-comments"
-  ],
-  [
-    "europe",
+    "series",
     13,
     "https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html"
   ],
   [
-    "diesel",
+    "democrats",
     13,
-    "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html"
+    "https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html"
   ],
   [
-    "defense",
+    "administration",
     13,
-    "https://www.nytimes.com/2026/09/03/us/politics/trump-acting-army-secretary.html"
+    "https://www.nytimes.com/2026/09/04/climate/epa-wetlands-water-protections.html"
   ],
   [
-    "labor",
+    "change",
     13,
-    "https://www.nytimes.com/2026/09/03/business/economy/labor-secretary-chavez-deremer-report.html"
+    "https://www.nytimes.com/2026/09/04/dining/gloria-steinem-dinners-food.html"
   ],
   [
-    "map",
+    "political",
     13,
-    "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html"
+    "https://www.nytimes.com/2026/09/04/upshot/states-carbon-emissions-goals.html"
   ],
   [
-    "rules",
+    "growing",
+    13,
+    "https://www.washingtonpost.com/health/2026/09/04/behind-the-scenes-effort-contain-pennsylvanias-measles-outbreak/"
+  ],
+  [
+    "summer",
     13,
     "https://www.washingtonpost.com/education/2026/09/04/college-loans-were-late-due-new-federal-rules-students-are-paying-price/"
   ],
   [
-    "students",
+    "fall",
     13,
     "https://www.washingtonpost.com/education/2026/09/04/college-loans-were-late-due-new-federal-rules-students-are-paying-price/"
   ],
   [
-    "leading",
+    "campaign",
     13,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "past",
+    13,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "stay",
+    13,
+    "https://www.theguardian.com/us-news/live/2026/sep/04/lindsay-clancy-mistrial-live-updates"
+  ],
+  [
+    "buying",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/28/best-labor-day-sales-deals"
+  ],
+  [
+    "inside",
+    12,
+    "https://www.nytimes.com/2026/09/04/nyregion/mamdani-influencers-emilia-rowland.html"
+  ],
+  [
+    "climate",
+    12,
+    "https://www.nytimes.com/2026/09/04/magazine/climate-change-disaster-rebuilding.html"
+  ],
+  [
+    "broken",
+    12,
+    "https://www.nytimes.com/2026/09/04/opinion/clinical-trials-drugs-science.html"
+  ],
+  [
+    "gaza",
+    12,
+    "https://www.nytimes.com/2026/09/03/nyregion/jewish-new-yorkers-israel-gaza.html"
+  ],
+  [
+    "morning",
+    12,
+    "https://www.nytimes.com/2026/09/04/nyregion/nypd-shooting-brooklyn-bridge.html"
+  ],
+  [
+    "race",
+    12,
+    "https://www.washingtonpost.com/education/2026/09/03/trump-administration-aims-strip-schools-tax-exemption-if-they-consider-race/"
+  ],
+  [
+    "fewer",
+    12,
+    "https://www.washingtonpost.com/health/2026/09/03/gen-z-stare-decline-saying-things-out-loud/"
+  ],
+  [
+    "questions",
+    12,
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "border",
-    13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "team",
+    12,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "election",
-    13,
-    "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates"
+    "company",
+    12,
+    "https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta"
+  ],
+  [
+    "video",
+    12,
+    "https://www.theguardian.com/us-news/2026/sep/04/florida-woman-stand-your-ground-law-charges"
+  ],
+  [
+    "filter",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/aug/28/best-labor-day-sales-deals"
+  ],
+  [
+    "republicans",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/04/donald-trump-winning-midterms-us-president"
   ],
   [
     "games",
-    13,
-    "https://www.theguardian.com/sport/2026/sep/01/getting-hype-for-the-fiba-world-cup"
+    12,
+    "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade"
   ],
   [
-    "prices",
+    "party",
     12,
-    "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html"
+    "https://www.theguardian.com/world/2026/sep/04/uss-abraham-lincoln-sailors-party-resort-pattaya-thailand"
+  ],
+  [
+    "love",
+    12,
+    "https://www.theguardian.com/film/2026/sep/04/1518-a-place-to-heal-review-heartfelt-docu-realist-study-of-a-french-teen-psychiatric-facility"
+  ],
+  [
+    "died",
+    12,
+    "https://www.theguardian.com/film/2026/sep/04/latcho-drom-director-tony-gatlif-dies-aged-77"
+  ],
+  [
+    "intelligence",
+    11,
+    "https://www.nytimes.com/2026/09/04/us/politics/iran-war-intelligence-reports.html"
+  ],
+  [
+    "near",
+    11,
+    "https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html"
+  ],
+  [
+    "trade",
+    11,
+    "https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html"
+  ],
+  [
+    "israeli",
+    11,
+    "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html"
   ]
 ];
