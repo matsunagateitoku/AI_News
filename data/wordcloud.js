@@ -2,38 +2,53 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    71,
+    90,
     "https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html"
   ],
   [
     "president",
-    41,
+    47,
     "https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html"
   ],
   [
-    "clancy",
-    34,
-    "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
+    "lindsay",
+    45,
+    "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-murder-hung-jury-what-next.html"
   ],
   [
-    "judge",
+    "clancy",
+    39,
+    "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-murder-hung-jury-what-next.html"
+  ],
+  [
+    "death",
+    32,
+    "https://www.washingtonpost.com/health/2026/09/04/infant-died-measles-pennsylvania-coroner-confirms/"
+  ],
+  [
+    "court",
+    30,
+    "https://www.nytimes.com/2026/09/04/us/politics/supreme-court-republicans-ads.html"
+  ],
+  [
+    "mistrial",
     30,
     "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
   ],
   [
-    "lindsay",
+    "judge",
     29,
+    "https://www.nytimes.com/2026/09/04/us/politics/trump-administration-fund-compensation-jan-6.html"
+  ],
+  [
+    "case",
+    28,
     "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
   ],
   [
-    "death",
-    28,
-    "https://www.theguardian.com/us-news/2026/sep/04/texas-man-sentenced-death-teen-1980s"
-  ],
-  [
-    "food",
-    25,
-    "https://www.theguardian.com/environment/2026/sep/04/seed-bank-hope-farming-project-gaza-al-qarara"
+    "trial",
+    24,
+    "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-murder-hung-jury-what-next.html"
   ],
   [
     "film",
@@ -41,149 +56,169 @@
     "https://www.nytimes.com/2026/09/04/movies/practical-magic-sandra-bullock-nicole-kidman.html"
   ],
   [
-    "trial",
-    24,
-    "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
-  ],
-  [
-    "war",
-    22,
-    "https://www.nytimes.com/2026/09/04/us/politics/iran-war-intelligence-reports.html"
-  ],
-  [
     "school",
-    22,
-    "https://www.theguardian.com/sport/2026/sep/04/lsu-lane-kiffin-lawsuit-kim-mulkey-sec-ncaa"
+    24,
+    "https://www.theguardian.com/law/ng-interactive/2026/sep/04/high-school-journalism-splc"
   ],
   [
     "labor",
-    21,
+    22,
     "https://www.washingtonpost.com/business/2026/09/04/lori-chavez-deremer-former-labor-secretary-drank-job-misused-funds-report-finds/"
   ],
   [
-    "children",
-    21,
-    "https://www.washingtonpost.com/nation/2026/09/02/lindsay-clancy-jury-deadlocked-second-consecutive-day/"
-  ],
-  [
-    "defense",
-    20,
-    "https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html"
-  ],
-  [
-    "mistrial",
-    20,
-    "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
-  ],
-  [
-    "latest",
-    20,
-    "https://www.washingtonpost.com/politics/2026/09/03/judge-blocks-trumps-latest-attempt-limit-birthright-citizenship/"
-  ],
-  [
-    "country",
-    20,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "food",
+    22,
+    "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade"
   ],
   [
     "murder",
+    20,
+    "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-murder-hung-jury-what-next.html"
+  ],
+  [
+    "jury",
     19,
-    "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
+    "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-murder-hung-jury-what-next.html"
   ],
   [
-    "director",
+    "season",
     19,
-    "https://www.theguardian.com/film/2026/sep/04/israel-director-amos-gitai-gaza-the-road-to-jericho-venice"
+    "https://www.theguardian.com/sport/2026/sep/04/kimi-antonelli-f1-environment-great-but-brutal-mercedes-italian-grand-prix"
   ],
   [
-    "court",
+    "administration",
     18,
-    "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
+    "https://www.nytimes.com/2026/09/04/us/politics/trump-nevada-voter-data-subpoena.html"
   ],
   [
-    "jobs",
+    "democrats",
     18,
-    "https://www.theguardian.com/us-news/2026/sep/04/private-equity-boom-hospital-job-layoff"
+    "https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html"
+  ],
+  [
+    "ice",
+    18,
+    "https://www.nytimes.com/2026/09/04/us/christian-castro-ice-agent-charges-minnesota-shooting.html"
+  ],
+  [
+    "company",
+    18,
+    "https://www.nytimes.com/2026/09/04/business/energy-environment/venezuela-oil-fields-betancourt-trump.html"
   ],
   [
     "art",
     18,
-    "https://www.theguardian.com/music/2026/sep/04/art-garfunkel-what-a-wonderful-world-tour-interview"
+    "https://www.theguardian.com/culture/2026/sep/04/george-lucas-art-museum-los-angeles"
   ],
   [
-    "season",
-    18,
-    "https://www.theguardian.com/sport/2026/sep/04/lsu-lane-kiffin-lawsuit-kim-mulkey-sec-ncaa"
+    "died",
+    17,
+    "https://www.nytimes.com/2026/09/04/well/measles-infant-pennsylvania-death.html"
+  ],
+  [
+    "county",
+    17,
+    "https://www.washingtonpost.com/health/2026/09/04/infant-died-measles-pennsylvania-coroner-confirms/"
+  ],
+  [
+    "donald",
+    17,
+    "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
   ],
   [
     "game",
-    18,
+    17,
     "https://www.theguardian.com/law/ng-interactive/2026/sep/04/high-school-journalism-splc"
   ],
   [
-    "gloria",
-    17,
-    "https://www.nytimes.com/2026/09/04/us/politics/gloria-steinem-feminism-manosphere.html"
-  ],
-  [
-    "jury",
-    17,
-    "https://www.washingtonpost.com/nation/2026/09/02/lindsay-clancy-jury-deadlocked-second-consecutive-day/"
-  ],
-  [
-    "pop",
-    17,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "case",
-    17,
-    "https://www.theguardian.com/us-news/live/2026/sep/04/lindsay-clancy-mistrial-live-updates"
-  ],
-  [
-    "iran",
+    "supreme",
     16,
-    "https://www.nytimes.com/2026/09/04/us/politics/iran-war-intelligence-reports.html"
+    "https://www.nytimes.com/2026/09/04/us/politics/supreme-court-republicans-ads.html"
   ],
   [
-    "steinem",
+    "republicans",
     16,
-    "https://www.nytimes.com/2026/09/04/us/politics/gloria-steinem-feminism-manosphere.html"
+    "https://www.nytimes.com/2026/09/04/us/politics/supreme-court-republicans-ads.html"
   ],
   [
-    "california",
+    "political",
     16,
-    "https://www.theguardian.com/us-news/2026/sep/04/ice-california-detention-contact-visits"
+    "https://www.nytimes.com/2026/09/04/us/politics/supreme-court-republicans-ads.html"
   ],
   [
-    "late",
-    15,
-    "https://www.washingtonpost.com/education/2026/09/04/college-loans-were-late-due-new-federal-rules-students-are-paying-price/"
-  ],
-  [
-    "record",
-    15,
-    "https://www.washingtonpost.com/nation/2026/09/03/how-data-center-backlash-is-growing-us-statehouses/"
-  ],
-  [
-    "music",
-    15,
-    "https://www.theguardian.com/music/2026/sep/04/piss-band-unforgettable-live-show-noise-punk-album"
-  ],
-  [
-    "media",
-    14,
-    "https://www.nytimes.com/2026/09/04/nyregion/mamdani-influencers-emilia-rowland.html"
-  ],
-  [
-    "killed",
-    14,
-    "https://www.nytimes.com/2026/09/04/nyregion/nypd-shooting-brooklyn-bridge.html"
+    "campaign",
+    16,
+    "https://www.nytimes.com/2026/09/04/us/politics/gloria-steinem-clinton-sanders-2016.html"
   ],
   [
     "health",
-    14,
+    16,
     "https://www.washingtonpost.com/health/2026/09/04/behind-the-scenes-effort-contain-pennsylvanias-measles-outbreak/"
+  ],
+  [
+    "late",
+    16,
+    "https://www.washingtonpost.com/education/2026/09/04/college-loans-were-late-due-new-federal-rules-students-are-paying-price/"
+  ],
+  [
+    "latest",
+    16,
+    "https://www.washingtonpost.com/politics/2026/09/03/judge-blocks-trumps-latest-attempt-limit-birthright-citizenship/"
+  ],
+  [
+    "pop",
+    16,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "country",
+    16,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "director",
+    16,
+    "https://www.theguardian.com/film/2026/sep/04/israel-director-amos-gitai-gaza-the-road-to-jericho-venice"
+  ],
+  [
+    "steinem",
+    15,
+    "https://www.nytimes.com/2026/09/04/us/politics/gloria-steinem-feminism-manosphere.html"
+  ],
+  [
+    "questions",
+    15,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "california",
+    15,
+    "https://www.theguardian.com/culture/2026/sep/04/george-lucas-art-museum-los-angeles"
+  ],
+  [
+    "declared",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/04/lindsay-clancy-mistrial"
+  ],
+  [
+    "party",
+    15,
+    "https://www.theguardian.com/news/video/2026/sep/04/reform-donations-scandal-is-this-the-final-blow-for-farage-the-latest"
+  ],
+  [
+    "war",
+    14,
+    "https://www.nytimes.com/2026/09/04/us/politics/iran-war-intelligence-reports.html"
+  ],
+  [
+    "rates",
+    14,
+    "https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html"
+  ],
+  [
+    "record",
+    14,
+    "https://www.washingtonpost.com/nation/2026/09/03/how-data-center-backlash-is-growing-us-statehouses/"
   ],
   [
     "guide",
@@ -191,49 +226,14 @@
     "https://www.theguardian.com/us-news/2026/sep/04/sign-up-to-the-stakes-2026-your-weekly-guide-to-the-us-midterms"
   ],
   [
-    "family",
-    14,
-    "https://www.theguardian.com/environment/2026/sep/04/seed-bank-hope-farming-project-gaza-al-qarara"
-  ],
-  [
-    "win",
-    14,
-    "https://www.theguardian.com/sport/2026/sep/04/andy-ruiz-jr-damian-knyba-heavyweight-boxing-comeback"
-  ],
-  [
-    "tested",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/sep/01/best-coffee-upgrades"
-  ],
-  [
-    "american",
+    "children",
     13,
-    "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-trial-reasonable-doubt.html"
+    "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-murder-hung-jury-what-next.html"
   ],
   [
-    "series",
+    "gloria",
     13,
-    "https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html"
-  ],
-  [
-    "democrats",
-    13,
-    "https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html"
-  ],
-  [
-    "administration",
-    13,
-    "https://www.nytimes.com/2026/09/04/climate/epa-wetlands-water-protections.html"
-  ],
-  [
-    "change",
-    13,
-    "https://www.nytimes.com/2026/09/04/dining/gloria-steinem-dinners-food.html"
-  ],
-  [
-    "political",
-    13,
-    "https://www.nytimes.com/2026/09/04/upshot/states-carbon-emissions-goals.html"
+    "https://www.nytimes.com/2026/09/04/us/politics/gloria-steinem-feminism-manosphere.html"
   ],
   [
     "growing",
@@ -241,29 +241,24 @@
     "https://www.washingtonpost.com/health/2026/09/04/behind-the-scenes-effort-contain-pennsylvanias-measles-outbreak/"
   ],
   [
-    "summer",
+    "north",
     13,
-    "https://www.washingtonpost.com/education/2026/09/04/college-loans-were-late-due-new-federal-rules-students-are-paying-price/"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "fall",
+    "video",
     13,
-    "https://www.washingtonpost.com/education/2026/09/04/college-loans-were-late-due-new-federal-rules-students-are-paying-price/"
+    "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade"
   ],
   [
-    "campaign",
+    "family",
     13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.theguardian.com/society/2026/sep/04/lindsay-clancy-trial-postpartum-psychosis-experts"
   ],
   [
-    "past",
+    "review",
     13,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "stay",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/sep/04/lindsay-clancy-mistrial-live-updates"
+    "https://www.theguardian.com/film/2026/sep/04/the-basics-of-philosophy-review-paul-schrader-back-to-his-cool-cruel-best"
   ],
   [
     "buying",
@@ -271,29 +266,44 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/28/best-labor-day-sales-deals"
   ],
   [
-    "inside",
-    12,
-    "https://www.nytimes.com/2026/09/04/nyregion/mamdani-influencers-emilia-rowland.html"
+    "tested",
+    13,
+    "https://www.theguardian.com/thefilter-us/2025/oct/23/best-e-readers-kindle-kobo"
   ],
   [
-    "climate",
+    "jobs",
     12,
-    "https://www.nytimes.com/2026/09/04/magazine/climate-change-disaster-rebuilding.html"
+    "https://www.nytimes.com/2026/09/04/business/economy/jobs-unemployment.html"
   ],
   [
-    "broken",
+    "department",
     12,
-    "https://www.nytimes.com/2026/09/04/opinion/clinical-trials-drugs-science.html"
+    "https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html"
   ],
   [
-    "gaza",
+    "series",
     12,
-    "https://www.nytimes.com/2026/09/03/nyregion/jewish-new-yorkers-israel-gaza.html"
+    "https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html"
   ],
   [
-    "morning",
+    "trip",
     12,
-    "https://www.nytimes.com/2026/09/04/nyregion/nypd-shooting-brooklyn-bridge.html"
+    "https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html"
+  ],
+  [
+    "american",
+    12,
+    "https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html"
+  ],
+  [
+    "summer",
+    12,
+    "https://www.washingtonpost.com/education/2026/09/04/college-loans-were-late-due-new-federal-rules-students-are-paying-price/"
+  ],
+  [
+    "fall",
+    12,
+    "https://www.washingtonpost.com/education/2026/09/04/college-loans-were-late-due-new-federal-rules-students-are-paying-price/"
   ],
   [
     "race",
@@ -301,29 +311,19 @@
     "https://www.washingtonpost.com/education/2026/09/03/trump-administration-aims-strip-schools-tax-exemption-if-they-consider-race/"
   ],
   [
-    "fewer",
+    "past",
     12,
-    "https://www.washingtonpost.com/health/2026/09/03/gen-z-stare-decline-saying-things-out-loud/"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "questions",
+    "love",
     12,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.theguardian.com/sport/2026/sep/04/kimi-antonelli-f1-environment-great-but-brutal-mercedes-italian-grand-prix"
   ],
   [
-    "team",
+    "full",
     12,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "company",
-    12,
-    "https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta"
-  ],
-  [
-    "video",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/04/florida-woman-stand-your-ground-law-charges"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/04/sharon-horgan-post-divorce-comedy-youth"
   ],
   [
     "filter",
@@ -331,48 +331,48 @@
     "https://www.theguardian.com/thefilter-us/2026/aug/28/best-labor-day-sales-deals"
   ],
   [
-    "republicans",
+    "music",
     12,
-    "https://www.theguardian.com/commentisfree/2026/sep/04/donald-trump-winning-midterms-us-president"
+    "https://www.theguardian.com/commentisfree/2026/sep/04/ukraine-artists-rage-requiem-resistance-literature-homer"
   ],
   [
-    "games",
+    "win",
     12,
-    "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade"
+    "https://www.theguardian.com/sport/2026/sep/04/andy-ruiz-jr-damian-knyba-heavyweight-boxing-comeback"
   ],
   [
-    "party",
-    12,
-    "https://www.theguardian.com/world/2026/sep/04/uss-abraham-lincoln-sailors-party-resort-pattaya-thailand"
-  ],
-  [
-    "love",
-    12,
-    "https://www.theguardian.com/film/2026/sep/04/1518-a-place-to-heal-review-heartfelt-docu-realist-study-of-a-french-teen-psychiatric-facility"
-  ],
-  [
-    "died",
-    12,
-    "https://www.theguardian.com/film/2026/sep/04/latcho-drom-director-tony-gatlif-dies-aged-77"
-  ],
-  [
-    "intelligence",
+    "faces",
     11,
-    "https://www.nytimes.com/2026/09/04/us/politics/iran-war-intelligence-reports.html"
+    "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-murder-hung-jury-what-next.html"
   ],
   [
-    "near",
+    "charges",
     11,
-    "https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html"
+    "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-murder-hung-jury-what-next.html"
   ],
   [
-    "trade",
+    "states",
     11,
-    "https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html"
+    "https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html"
   ],
   [
-    "israeli",
+    "fight",
     11,
-    "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html"
+    "https://www.nytimes.com/2026/09/04/us/politics/supreme-court-republicans-ads.html"
+  ],
+  [
+    "experts",
+    11,
+    "https://www.nytimes.com/2026/09/04/us/politics/mullin-homeland-security-ballot-devices.html"
+  ],
+  [
+    "data",
+    11,
+    "https://www.nytimes.com/2026/09/04/us/politics/trump-nevada-voter-data-subpoena.html"
+  ],
+  [
+    "don",
+    11,
+    "https://www.nytimes.com/2026/09/04/us/jetski-stranded-sea.html"
   ]
 ];
