@@ -2,28 +2,22 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Lindsay Clancy",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-trial-unanimous-verdicts.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Orders Trump",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/trump-administration-fund-compensation-jan-6.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Gloria Steinem ’S",
-      "count": 13,
-      "url": "https://www.theguardian.com/books/2026/sep/05/how-gloria-steinems-lifechanging-stay-in-india-shaped-her-approach-to-feminism",
-      "source": "The Guardian"
-    },
-    {
       "name": "Donald Trump",
-      "count": 9,
+      "count": 25,
       "url": "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/",
       "source": "Washington Post"
+    },
+    {
+      "name": "Lindsay Clancy",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Gloria Steinem",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/09/04/business/media/gloria-steinem-ms-magazine.html",
+      "source": "NY Times"
     },
     {
       "name": "Amy Berryhill",
@@ -44,22 +38,90 @@
       "source": "The Guardian"
     },
     {
-      "name": "Lindsay Clancy'S",
-      "count": 6,
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
-      "source": "NPR"
-    },
-    {
-      "name": "Sharon Horgan",
+      "name": "Colin Hitschler",
       "count": 5,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/04/sharon-horgan-post-divorce-comedy-youth",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/sports/ucla/story/2026-09-04/bruin-bullies-focused-on-creating-havoc-during-ucla-opener-at-cal",
+      "source": "LA Times"
     },
     {
       "name": "Jd Vance",
       "count": 5,
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diesel-gas-prices-labor-day/",
       "source": "CBS News"
+    },
+    {
+      "name": "Darline Graham",
+      "count": 5,
+      "url": "https://www.politico.com/news/2026/08/25/darline-graham-wins-south-carolina-senate-runoff-01050320",
+      "source": "Politico"
+    },
+    {
+      "name": "Lori Chavez-Deremer",
+      "count": 4,
+      "url": "https://www.washingtonpost.com/business/2026/09/04/lori-chavez-deremer-former-labor-secretary-drank-job-misused-funds-report-finds/",
+      "source": "Washington Post"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Administration",
+      "count": 63,
+      "url": "https://www.theguardian.com/environment/video/2026/sep/03/how-climate-denialism-finds-its-way-to-the-us-s-highest-office-video-explainer",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai Overviews",
+      "count": 17,
+      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop Senate",
+      "count": 13,
+      "url": "https://www.politico.com/news/2026/08/25/darline-graham-wins-south-carolina-senate-runoff-01050320",
+      "source": "Politico"
+    },
+    {
+      "name": "Guardian",
+      "count": 12,
+      "url": "https://www.theguardian.com/culture/2026/sep/05/the-rise-of-south-east-asias-girl-bands-bini-no-na-4eve-dolla",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pentagon",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/judge-pentagon-stars-and-stripes",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nfl",
+      "count": 9,
+      "url": "https://www.theguardian.com/sport/2026/sep/05/cte-football-players-nfl",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 9,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Reform Uk’S",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/05/andy-burnham-reform-uk-labour-rightwing-voters",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 7,
+      "url": "https://www.washingtonpost.com/politics/2026/09/04/supreme-court-rules-political-parties-should-get-discounted-tv-ad-rates/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Cbs News",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/midterms-democrats-socialists-leftist",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
@@ -70,15 +132,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Us Open",
+      "name": "The Iran War",
       "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/sep/05/serena-venus-williams-us-open-doubles-defeat",
-      "source": "The Guardian"
-    },
-    {
-      "name": "World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/sep/04/caitlin-clark-usa-china-womens-basketball-world-cup",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/pete-hegseth-pentagon-military",
       "source": "The Guardian"
     },
     {
@@ -88,9 +144,27 @@
       "source": "LA Times"
     },
     {
+      "name": "The War",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html",
+      "source": "NY Times"
+    },
+    {
       "name": "World Central",
       "count": 1,
-      "url": "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation",
+      "url": "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Us Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/sep/05/serena-venus-williams-us-open-doubles-defeat",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
       "source": "The Guardian"
     },
     {
@@ -106,147 +180,73 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Korean War",
+      "name": "The Muppet Show",
       "count": 1,
-      "url": "https://www.theguardian.com/film/2026/sep/05/a-long-winter-review-andrew-haigh-ebon-moss-bachrach",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/05/50-moi-how-the-muppets-rocked-the-world-with-anarchy-nonsense-and-the-inimitable-miss-piggy",
       "source": "The Guardian"
-    },
-    {
-      "name": "Iran War",
-      "count": 1,
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diesel-gas-prices-labor-day/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Labor Day 2026",
-      "count": 1,
-      "url": "https://www.nbcnews.com/select/shopping/best-labor-day-sales-2026-rcna596001",
-      "source": "NBC News"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 52,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/04/donald-trump-winning-midterms-us-president",
+      "count": 45,
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/us-judge-trump-mail-in-voting",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 16,
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/05/why-bayeux-tapestry-franco-british-politics-natural-bedfellows",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 19,
+      "count": 14,
       "url": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html",
       "source": "NY Times"
     },
     {
-      "name": "Pennsylvania",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/cdc-measles-deaths.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California City",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/ice-california-detention-contact-visits",
+      "name": "California",
+      "count": 11,
+      "url": "https://www.theguardian.com/sport/2026/sep/04/andy-ruiz-jr-damian-knyba-heavyweight-boxing-comeback",
       "source": "The Guardian"
     },
     {
       "name": "L.A. County'S",
-      "count": 12,
+      "count": 11,
       "url": "https://www.latimes.com/california/story/2026-09-04/payouts-delayed-la-county-4-billion-sex-abuse-settlement",
       "source": "LA Times"
     },
     {
-      "name": "Uk",
+      "name": "Ukraine",
       "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+      "source": "NY Times"
     },
     {
-      "name": "Lancaster County",
-      "count": 8,
+      "name": "Pennsylvania",
+      "count": 9,
       "url": "https://www.washingtonpost.com/health/2026/09/04/infant-died-measles-pennsylvania-coroner-confirms/",
       "source": "Washington Post"
     },
     {
-      "name": "China",
+      "name": "Michigan",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/hyperbaric-chamber-sentencing-child-death",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/mamdani-september-11-day-of-rememberance",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
       "count": 8,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Canada",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "New York City’S",
-      "count": 8,
-      "url": "https://www.theguardian.com/stage/2026/sep/03/public-record-new-york-city-central-park",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Administration",
-      "count": 57,
-      "url": "https://www.theguardian.com/environment/video/2026/sep/03/how-climate-denialism-finds-its-way-to-the-us-s-highest-office-video-explainer",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai Overviews",
-      "count": 14,
-      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian",
-      "count": 12,
-      "url": "https://www.theguardian.com/culture/2026/sep/05/the-rise-of-south-east-asias-girl-bands-bini-no-na-4eve-dolla",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop Senate",
-      "count": 10,
-      "url": "https://www.politico.com/news/2026/08/25/darline-graham-wins-south-carolina-senate-runoff-01050320",
-      "source": "Politico"
-    },
-    {
-      "name": "Pentagon",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/judge-pentagon-stars-and-stripes",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News",
-      "count": 7,
-      "url": "https://www.foxnews.com/media/norah-odonnell-urges-liberal-bari-weiss-critics-give-cbs-mornings-chance-returns-program",
-      "source": "Fox News"
-    },
-    {
-      "name": "The Missouri Supreme Court",
-      "count": 7,
-      "url": "https://www.politico.com/news/2026/09/03/missouri-gerrymander-paused-2026-election-01064420",
-      "source": "Politico"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/judge-blocks-trump-mail-ballots.html",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html",
       "source": "NY Times"
-    },
-    {
-      "name": "U.N.",
-      "count": 6,
-      "url": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
-      "source": "Wall St. Journal"
     }
   ],
-  "updated": "2026-09-05T05:27:15Z"
+  "updated": "2026-09-05T11:12:02Z"
 };
