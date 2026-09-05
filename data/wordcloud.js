@@ -2,72 +2,67 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    88,
+    77,
     "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
   ],
   [
     "president",
-    48,
+    43,
     "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
   ],
   [
     "judge",
-    37,
+    33,
     "https://www.washingtonpost.com/politics/2026/09/04/judge-orders-doj-disclose-who-conceived-now-defunct-payout-fund/"
   ],
   [
     "court",
-    35,
-    "https://www.nytimes.com/2026/09/05/us/elections/appeals-court-voter-data.html"
+    29,
+    "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html"
   ],
   [
-    "died",
-    27,
-    "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html"
-  ],
-  [
-    "food",
-    26,
-    "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel"
-  ],
-  [
-    "war",
-    25,
+    "military",
+    28,
     "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html"
   ],
   [
-    "labor",
-    25,
-    "https://www.washingtonpost.com/business/2026/09/04/lori-chavez-deremer-former-labor-secretary-drank-job-misused-funds-report-finds/"
-  ],
-  [
     "school",
-    24,
+    27,
     "https://www.nytimes.com/2026/09/04/business/notre-dame-sofi-jersey-patch.html"
   ],
   [
-    "lindsay",
-    21,
-    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html"
-  ],
-  [
-    "democrats",
-    21,
-    "https://www.nytimes.com/2026/09/05/us/politics/democrats-republicans-voters-gallup-midterms.html"
-  ],
-  [
     "clancy",
-    20,
+    26,
     "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html"
   ],
   [
-    "order",
-    20,
-    "https://www.nytimes.com/2026/09/05/us/red-states-republicans-flock-cameras.html"
+    "lindsay",
+    25,
+    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html"
+  ],
+  [
+    "food",
+    25,
+    "https://www.theguardian.com/artanddesign/2026/sep/05/september-11-missing-posters-exhibition"
+  ],
+  [
+    "died",
+    22,
+    "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html"
+  ],
+  [
+    "trial",
+    22,
+    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html"
+  ],
+  [
+    "death",
+    22,
+    "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation"
   ],
   [
     "political",
-    20,
+    21,
     "https://www.washingtonpost.com/politics/2026/09/04/supreme-court-rules-political-parties-should-get-discounted-tv-ad-rates/"
   ],
   [
@@ -76,9 +71,19 @@
     "https://www.washingtonpost.com/politics/2026/09/04/judge-orders-doj-disclose-who-conceived-now-defunct-payout-fund/"
   ],
   [
-    "death",
+    "party",
     20,
-    "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel"
+    "https://www.theguardian.com/politics/2026/sep/05/marina-hyde-exclusive-book-extract-what-a-time-to-be-alive"
+  ],
+  [
+    "music",
+    20,
+    "https://www.theguardian.com/music/2026/sep/05/jay-z-30-tour-review"
+  ],
+  [
+    "war",
+    19,
+    "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html"
   ],
   [
     "game",
@@ -86,9 +91,9 @@
     "https://www.nytimes.com/2026/09/05/style/naomi-osaka-fashion-us-open.html"
   ],
   [
-    "party",
-    19,
-    "https://www.theguardian.com/politics/2026/sep/05/marina-hyde-guardian-columnist-answers-readers-questions"
+    "mistrial",
+    18,
+    "https://www.washingtonpost.com/nation/2026/09/04/whats-next-lindsay-clancy-case/"
   ],
   [
     "case",
@@ -96,159 +101,139 @@
     "https://www.washingtonpost.com/nation/2026/09/04/whats-next-lindsay-clancy-case/"
   ],
   [
-    "questions",
-    18,
-    "https://www.theguardian.com/politics/2026/sep/05/marina-hyde-guardian-columnist-answers-readers-questions"
-  ],
-  [
-    "film",
-    18,
-    "https://www.theguardian.com/politics/2026/sep/05/marina-hyde-guardian-columnist-answers-readers-questions"
-  ],
-  [
-    "military",
-    17,
-    "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html"
-  ],
-  [
-    "law",
-    17,
-    "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
-  ],
-  [
-    "guide",
-    17,
-    "https://www.nytimes.com/2026/09/05/books/review/harlan-coben-plot-twist-writing-guide.html"
-  ],
-  [
-    "supreme",
-    17,
-    "https://www.nytimes.com/2026/09/05/opinion/not-so-supreme-mr-roberts.html"
-  ],
-  [
-    "season",
-    17,
-    "https://www.nytimes.com/2026/09/05/briefing/scenic-route.html"
-  ],
-  [
     "country",
-    17,
-    "https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html"
+    18,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "video",
-    17,
-    "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade"
+    "love",
+    18,
+    "https://www.theguardian.com/sport/live/2026/sep/05/us-open-tennis-fritz-gauff-swiatek-keys-cobolli-day-seven-live"
+  ],
+  [
+    "reform",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/sep/05/andy-burnham-reform-uk-labour-rightwing-voters"
   ],
   [
     "republicans",
-    16,
+    17,
     "https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html"
   ],
   [
-    "book",
-    16,
-    "https://www.nytimes.com/2026/09/05/books/review/harlan-coben-plot-twist-writing-guide.html"
+    "democrats",
+    17,
+    "https://www.nytimes.com/2026/09/05/us/politics/democrats-republicans-voters-gallup-midterms.html"
   ],
   [
-    "health",
-    16,
-    "https://www.washingtonpost.com/nation/2026/09/04/whats-next-lindsay-clancy-case/"
+    "film",
+    17,
+    "https://www.theguardian.com/world/2026/sep/05/colonialism-for-clicks-influencers-attempting-meet-film-worlds-most-isolated-tribes"
   ],
   [
-    "workers",
+    "iran",
     16,
-    "https://www.washingtonpost.com/health/2026/09/04/behind-the-scenes-effort-contain-pennsylvanias-measles-outbreak/"
+    "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html"
   ],
   [
-    "secretary",
+    "family",
+    16,
+    "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html"
+  ],
+  [
+    "murder",
+    16,
+    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html"
+  ],
+  [
+    "order",
+    16,
+    "https://www.nytimes.com/2026/09/05/us/red-states-republicans-flock-cameras.html"
+  ],
+  [
+    "supreme",
+    16,
+    "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html"
+  ],
+  [
+    "labor",
     16,
     "https://www.washingtonpost.com/business/2026/09/04/lori-chavez-deremer-former-labor-secretary-drank-job-misused-funds-report-finds/"
   ],
   [
-    "pop",
+    "late",
     16,
-    "https://www.theguardian.com/culture/2026/sep/05/the-rise-of-south-east-asias-girl-bands-bini-no-na-4eve-dolla"
+    "https://www.washingtonpost.com/education/2026/09/04/college-loans-were-late-due-new-federal-rules-students-are-paying-price/"
   ],
   [
     "american",
     16,
-    "https://www.theguardian.com/sport/2026/sep/05/serena-venus-williams-us-open-doubles-defeat"
+    "https://www.theguardian.com/sport/live/2026/sep/05/us-open-tennis-fritz-gauff-swiatek-keys-cobolli-day-seven-live"
   ],
   [
-    "family",
+    "iranian",
     15,
-    "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html"
+    "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
   ],
   [
-    "mistrial",
+    "book",
+    15,
+    "https://www.nytimes.com/2026/09/05/books/review/harlan-coben-plot-twist-writing-guide.html"
+  ],
+  [
+    "season",
+    15,
+    "https://www.nytimes.com/2026/09/05/briefing/scenic-route.html"
+  ],
+  [
+    "children",
     15,
     "https://www.washingtonpost.com/nation/2026/09/04/whats-next-lindsay-clancy-case/"
   ],
   [
-    "again",
+    "power",
     15,
-    "https://www.washingtonpost.com/business/2026/09/04/wages-keep-falling-behind-inflation-heres-what-it-tells-us-about-economy/"
+    "https://www.theguardian.com/us-news/2026/sep/05/memphis-storm-community"
   ],
   [
-    "love",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/sep/05/losing-parent-bewildering-lonely-experience"
+    "oil",
+    14,
+    "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
   ],
   [
-    "reform",
-    15,
-    "https://www.theguardian.com/politics/2026/sep/05/marina-hyde-guardian-columnist-answers-readers-questions"
+    "law",
+    14,
+    "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
+  ],
+  [
+    "met",
+    14,
+    "https://www.theguardian.com/fashion/2026/sep/05/met-gala-john-galliano-anna-wintour"
+  ],
+  [
+    "support",
+    14,
+    "https://www.theguardian.com/sport/2026/sep/05/cte-football-players-nfl"
   ],
   [
     "investigation",
-    14,
+    13,
     "https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html"
   ],
   [
-    "late",
-    14,
-    "https://www.washingtonpost.com/education/2026/09/04/college-loans-were-late-due-new-federal-rules-students-are-paying-price/"
-  ],
-  [
-    "mail",
-    14,
-    "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
-  ],
-  [
-    "music",
-    14,
-    "https://www.theguardian.com/culture/2026/sep/05/the-rise-of-south-east-asias-girl-bands-bini-no-na-4eve-dolla"
-  ],
-  [
-    "director",
-    14,
-    "https://www.theguardian.com/film/2026/sep/04/israel-director-amos-gitai-gaza-the-road-to-jericho-venice"
-  ],
-  [
-    "trump's",
-    14,
-    "https://www.latimes.com/politics/story/2026-09-04/judge-again-halts-usps-mail-ballot-plan-citing"
-  ],
-  [
-    "campaign",
+    "missouri",
     13,
-    "https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html"
+    "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html"
   ],
   [
-    "police",
+    "fashion",
     13,
-    "https://www.nytimes.com/2026/09/05/us/red-states-republicans-flock-cameras.html"
+    "https://www.nytimes.com/2026/09/05/style/naomi-osaka-fashion-us-open.html"
   ],
   [
-    "block",
+    "guide",
     13,
-    "https://www.nytimes.com/2026/09/05/us/elections/appeals-court-voter-data.html"
-  ],
-  [
-    "steinem",
-    13,
-    "https://www.nytimes.com/2026/09/04/business/media/gloria-steinem-ms-magazine.html"
+    "https://www.nytimes.com/2026/09/05/books/review/harlan-coben-plot-twist-writing-guide.html"
   ],
   [
     "company",
@@ -256,64 +241,114 @@
     "https://www.nytimes.com/2026/09/04/business/notre-dame-sofi-jersey-patch.html"
   ],
   [
-    "don",
+    "department",
     13,
-    "https://www.theguardian.com/commentisfree/2026/sep/05/losing-parent-bewildering-lonely-experience"
+    "https://www.washingtonpost.com/investigations/2026/09/04/senators-call-investigation-into-gi-bill-trade-schools-citing-post-series/"
+  ],
+  [
+    "secretary",
+    13,
+    "https://www.washingtonpost.com/business/2026/09/04/lori-chavez-deremer-former-labor-secretary-drank-job-misused-funds-report-finds/"
+  ],
+  [
+    "questions",
+    13,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "pop",
+    13,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
     "art",
     13,
-    "https://www.theguardian.com/world/2026/sep/05/nazi-looted-painting-must-be-returned-to-jewish-art-dealers-heir-argentina-court-rules"
+    "https://www.theguardian.com/fashion/2026/sep/05/met-gala-john-galliano-anna-wintour"
   ],
   [
-    "support",
+    "don",
     13,
-    "https://www.theguardian.com/sport/2026/sep/05/cte-football-players-nfl"
+    "https://www.theguardian.com/us-news/2026/sep/05/midterms-democrats-socialists-leftist"
   ],
   [
-    "games",
+    "seat",
     13,
-    "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade"
+    "https://www.theguardian.com/us-news/2026/sep/05/midterms-democrats-socialists-leftist"
   ],
   [
-    "ukraine",
-    12,
-    "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
-  ],
-  [
-    "trial",
+    "term",
     12,
     "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html"
   ],
   [
-    "voting",
+    "map",
     12,
-    "https://www.nytimes.com/2026/09/05/business/media/maria-bartiromo-fox-news.html"
+    "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html"
   ],
   [
-    "gloria",
+    "voters",
     12,
-    "https://www.nytimes.com/2026/09/04/business/media/gloria-steinem-ms-magazine.html"
+    "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html"
   ],
   [
-    "children",
+    "health",
     12,
     "https://www.washingtonpost.com/nation/2026/09/04/whats-next-lindsay-clancy-case/"
   ],
   [
-    "department",
+    "several",
+    12,
+    "https://www.washingtonpost.com/politics/2026/09/04/judge-orders-doj-disclose-who-conceived-now-defunct-payout-fund/"
+  ],
+  [
+    "series",
     12,
     "https://www.washingtonpost.com/investigations/2026/09/04/senators-call-investigation-into-gi-bill-trade-schools-citing-post-series/"
   ],
   [
-    "fall",
+    "attorney",
+    12,
+    "https://www.washingtonpost.com/nation/2026/09/03/lindsay-clancys-attorney-asks-judge-remove-juror/"
+  ],
+  [
+    "summer",
     12,
     "https://www.washingtonpost.com/education/2026/09/04/college-loans-were-late-due-new-federal-rules-students-are-paying-price/"
   ],
   [
+    "mail",
+    12,
+    "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
+  ],
+  [
+    "donald",
+    12,
+    "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
+  ],
+  [
+    "medical",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "latest",
+    12,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "office",
+    12,
+    "https://www.theguardian.com/artanddesign/2026/sep/05/september-11-missing-posters-exhibition"
+  ],
+  [
+    "america",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/05/todd-blanche-gender-transitions-schools"
+  ],
+  [
     "killed",
     12,
-    "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel"
+    "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation"
   ],
   [
     "british",
@@ -321,9 +356,14 @@
     "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation"
   ],
   [
-    "far",
+    "election",
     12,
-    "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior"
+    "https://www.theguardian.com/us-news/2026/sep/04/us-judge-trump-mail-in-voting"
+  ],
+  [
+    "decades",
+    12,
+    "https://www.theguardian.com/world/2026/sep/05/nazi-looted-painting-must-be-returned-to-jewish-art-dealers-heir-argentina-court-rules"
   ],
   [
     "pentagon",
@@ -331,48 +371,8 @@
     "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html"
   ],
   [
-    "star",
+    "strikes",
     11,
-    "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html"
-  ],
-  [
-    "data",
-    11,
-    "https://www.nytimes.com/2026/09/05/us/politics/democrats-republicans-voters-gallup-midterms.html"
-  ],
-  [
-    "start",
-    11,
-    "https://www.nytimes.com/2026/09/04/business/media/gloria-steinem-ms-magazine.html"
-  ],
-  [
-    "fashion",
-    11,
-    "https://www.nytimes.com/2026/09/05/style/naomi-osaka-fashion-us-open.html"
-  ],
-  [
-    "measles",
-    11,
-    "https://www.washingtonpost.com/health/2026/09/04/infant-died-measles-pennsylvania-coroner-confirms/"
-  ],
-  [
-    "defense",
-    11,
-    "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
-  ],
-  [
-    "plans",
-    11,
-    "https://www.washingtonpost.com/politics/2026/09/04/judge-orders-doj-disclose-who-conceived-now-defunct-payout-fund/"
-  ],
-  [
-    "donald",
-    11,
-    "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
-  ],
-  [
-    "latest",
-    11,
-    "https://www.washingtonpost.com/politics/2026/09/03/judge-blocks-trumps-latest-attempt-limit-birthright-citizenship/"
+    "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
   ]
 ];
