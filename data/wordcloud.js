@@ -2,43 +2,53 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    71,
-    "https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html"
+    63,
+    "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html"
   ],
   [
     "president",
-    40,
-    "https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html"
+    42,
+    "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html"
   ],
   [
     "war",
-    26,
+    30,
     "https://www.nytimes.com/2026/09/06/us/elections/trump-mail-in-voting-confusion.html"
   ],
   [
-    "school",
-    26,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/06/dysfunctional-siblings-divorce-myself-annalisa-barbieri"
-  ],
-  [
-    "political",
-    24,
-    "https://www.washingtonpost.com/politics/2026/09/04/supreme-court-rules-political-parties-should-get-discounted-tv-ad-rates/"
-  ],
-  [
-    "music",
-    23,
-    "https://www.theguardian.com/culture/2026/sep/06/infinity-song-momo-boyd-profile"
-  ],
-  [
-    "american",
-    22,
-    "https://www.nytimes.com/2026/09/06/us/highland-park-united-methodist-church-dallas.html"
-  ],
-  [
     "food",
-    22,
+    29,
     "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know"
+  ],
+  [
+    "secretary",
+    27,
+    "https://www.washingtonpost.com/business/2026/09/06/us-is-not-only-country-grappling-with-soaring-debt/"
+  ],
+  [
+    "administration",
+    24,
+    "https://www.nytimes.com/2026/09/06/us/politics/nate-hochman-state-dept.html"
+  ],
+  [
+    "talks",
+    22,
+    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
+  ],
+  [
+    "iran",
+    22,
+    "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html"
+  ],
+  [
+    "michigan",
+    22,
+    "https://www.theguardian.com/us-news/2026/sep/05/midterms-democrats-socialists-leftist"
+  ],
+  [
+    "democrats",
+    20,
+    "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html"
   ],
   [
     "game",
@@ -46,104 +56,79 @@
     "https://www.theguardian.com/tv-and-radio/2026/sep/06/maisie-williams-actor-interview-game-of-thrones-practical-magic-2"
   ],
   [
-    "democrats",
+    "music",
+    20,
+    "https://www.theguardian.com/culture/2026/sep/06/infinity-song-momo-boyd-profile"
+  ],
+  [
+    "steinem",
+    20,
+    "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85"
+  ],
+  [
+    "american",
     19,
-    "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html"
-  ],
-  [
-    "million",
-    19,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "death",
-    19,
-    "https://www.theguardian.com/news/ng-interactive/2026/sep/06/tupac-shakur-murder-investigation"
-  ],
-  [
-    "michigan",
-    19,
-    "https://www.theguardian.com/us-news/2026/sep/05/midterms-democrats-socialists-leftist"
-  ],
-  [
-    "military",
-    18,
-    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html"
-  ],
-  [
-    "love",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/sep/05/todd-blanche-gender-transitions-schools"
-  ],
-  [
-    "win",
-    17,
-    "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
+    "https://www.nytimes.com/2026/09/06/us/highland-park-united-methodist-church-dallas.html"
   ],
   [
     "died",
-    17,
+    19,
     "https://www.washingtonpost.com/obituaries/2026/09/05/mary-tsingou-menzel-overlooked-contributor-landmark-experiment-dies-97/"
   ],
   [
-    "judge",
-    17,
-    "https://www.washingtonpost.com/politics/2026/09/04/judge-orders-doj-disclose-who-conceived-now-defunct-payout-fund/"
-  ],
-  [
     "labor",
-    17,
-    "https://www.washingtonpost.com/business/2026/09/04/lori-chavez-deremer-former-labor-secretary-drank-job-misused-funds-report-finds/"
+    19,
+    "https://www.theguardian.com/us-news/2026/sep/04/lori-chavez-deremer-misconduct-report"
   ],
   [
-    "control",
-    17,
-    "https://www.theguardian.com/us-news/2026/sep/04/judge-pentagon-stars-and-stripes"
-  ],
-  [
-    "hurricane",
-    17,
-    "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic"
-  ],
-  [
-    "iran",
-    16,
-    "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html"
-  ],
-  [
-    "health",
-    16,
-    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html"
-  ],
-  [
-    "children",
-    16,
-    "https://www.washingtonpost.com/nation/2026/09/04/whats-next-lindsay-clancy-case/"
-  ],
-  [
-    "court",
-    16,
+    "political",
+    18,
     "https://www.washingtonpost.com/politics/2026/09/04/supreme-court-rules-political-parties-should-get-discounted-tv-ad-rates/"
   ],
   [
-    "california",
-    16,
-    "https://www.theguardian.com/us-news/2026/sep/05/judge-trump-administration-anti-weaponization-fund"
+    "school",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/06/dysfunctional-siblings-divorce-myself-annalisa-barbieri"
   ],
   [
-    "ukraine",
-    15,
-    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html"
+    "gloria",
+    18,
+    "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85"
   ],
   [
     "voters",
-    15,
+    17,
     "https://www.nytimes.com/2026/09/06/us/elections/trump-mail-in-voting-confusion.html"
   ],
   [
-    "senate",
-    15,
+    "john",
+    17,
     "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html"
+  ],
+  [
+    "ukraine",
+    17,
+    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html"
+  ],
+  [
+    "lost",
+    16,
+    "https://www.nytimes.com/2026/09/06/us/politics/nate-hochman-state-dept.html"
+  ],
+  [
+    "latest",
+    16,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "death",
+    16,
+    "https://www.theguardian.com/news/ng-interactive/2026/sep/06/tupac-shakur-murder-investigation"
+  ],
+  [
+    "don",
+    16,
+    "https://www.theguardian.com/us-news/2026/sep/05/midterms-democrats-socialists-leftist"
   ],
   [
     "race",
@@ -151,34 +136,24 @@
     "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html"
   ],
   [
-    "election",
+    "military",
+    15,
+    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html"
+  ],
+  [
+    "putin",
+    15,
+    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
+  ],
+  [
+    "power",
     15,
     "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
   ],
   [
-    "defense",
+    "health",
     15,
     "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html"
-  ],
-  [
-    "clancy",
-    15,
-    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html"
-  ],
-  [
-    "trial",
-    15,
-    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html"
-  ],
-  [
-    "young",
-    15,
-    "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html"
-  ],
-  [
-    "secretary",
-    15,
-    "https://www.nytimes.com/2026/09/06/opinion/hegseth-national-security-military-generals.html"
   ],
   [
     "star",
@@ -186,37 +161,37 @@
     "https://www.theguardian.com/news/ng-interactive/2026/sep/06/tupac-shakur-murder-investigation"
   ],
   [
-    "night",
+    "control",
     15,
-    "https://www.theguardian.com/world/2026/sep/06/taraneh-romina-rahimi-twin-sisters-jailed-over-iran-protests"
+    "https://www.theguardian.com/us-news/2026/sep/06/midterm-elections-control-of-congress"
   ],
   [
-    "working",
+    "love",
+    15,
+    "https://www.theguardian.com/film/2026/sep/06/possible-love-review-a-tale-of-two-couples-is-finely-judged-study-of-exploitation-and-friendship"
+  ],
+  [
+    "won",
     14,
-    "https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html"
+    "https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html"
   ],
   [
-    "party",
+    "air",
     14,
     "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
   ],
   [
-    "country",
-    14,
-    "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html"
-  ],
-  [
-    "lindsay",
+    "trial",
     14,
     "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html"
   ],
   [
-    "texas",
+    "young",
     14,
-    "https://www.nytimes.com/2026/09/06/us/highland-park-united-methodist-church-dallas.html"
+    "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html"
   ],
   [
-    "case",
+    "children",
     14,
     "https://www.washingtonpost.com/nation/2026/09/04/whats-next-lindsay-clancy-case/"
   ],
@@ -226,119 +201,124 @@
     "https://www.washingtonpost.com/health/2026/09/04/behind-the-scenes-effort-contain-pennsylvanias-measles-outbreak/"
   ],
   [
-    "because",
+    "morning",
     14,
     "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know"
   ],
   [
-    "don",
+    "film",
     14,
-    "https://www.theguardian.com/music/2026/sep/05/oasis-dont-look-back-in-anger-tour-movie-review"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/06/maisie-williams-actor-interview-game-of-thrones-practical-magic-2"
   ],
   [
-    "gloria",
+    "night",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85"
+    "https://www.theguardian.com/world/2026/sep/06/taraneh-romina-rahimi-twin-sisters-jailed-over-iran-protests"
   ],
   [
-    "steinem",
+    "company",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85"
+    "https://www.theguardian.com/technology/2026/sep/05/flock-cameras-political-backlash"
+  ],
+  [
+    "working",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/06/this-smokejumper-says-the-us-has-lost-its-empathy-thats-why-hes-running-for-congress"
   ],
   [
     "book",
     14,
-    "https://www.theguardian.com/books/2026/sep/06/book-of-genocides-dana-mashoian-walrath"
+    "https://www.theguardian.com/books/2026/sep/06/edna-obrien-chronicle-novelist-craft-loss-nonfiction"
   ],
   [
-    "it's",
-    14,
-    "https://www.theguardian.com/environment/video/2026/sep/03/how-climate-denialism-finds-its-way-to-the-us-s-highest-office-video-explainer"
-  ],
-  [
-    "envoys",
+    "party",
     13,
-    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
+    "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
   ],
   [
-    "putin",
+    "win",
     13,
-    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
+    "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
   ],
   [
-    "lost",
+    "election",
     13,
-    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html"
+    "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
   ],
   [
-    "republicans",
+    "everything",
     13,
-    "https://www.nytimes.com/2026/09/06/us/politics/trump-miderm-elections-republicans.html"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "murder",
+    "trump's",
     13,
-    "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "administration",
+    "california",
     13,
-    "https://www.washingtonpost.com/politics/2026/09/04/judge-orders-doj-disclose-who-conceived-now-defunct-payout-fund/"
+    "https://www.theguardian.com/us-news/2026/sep/05/judge-trump-administration-anti-weaponization-fund"
   ],
   [
-    "inside",
+    "george",
     13,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.theguardian.com/commentisfree/2026/sep/06/prediction-markets-gambling-american-pastime"
   ],
   [
-    "center",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/05/cuban-hunger-striker-ice-force-feeding"
-  ],
-  [
-    "company",
-    13,
-    "https://www.theguardian.com/technology/2026/sep/05/flock-cameras-political-backlash"
-  ],
-  [
-    "family",
-    13,
-    "https://www.theguardian.com/culture/2026/sep/06/infinity-song-momo-boyd-profile"
-  ],
-  [
-    "football",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/sep/06/when-dad-asked-me-to-edit-his-novel-fathers-day"
-  ],
-  [
-    "games",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/sep/06/when-dad-asked-me-to-edit-his-novel-fathers-day"
-  ],
-  [
-    "support",
-    13,
-    "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates"
-  ],
-  [
-    "season",
+    "hurricane",
     13,
     "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic"
   ],
   [
-    "parents",
+    "court",
     12,
-    "https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html"
+    "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html"
   ],
   [
-    "met",
+    "democratic",
+    12,
+    "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html"
+  ],
+  [
+    "envoys",
     12,
     "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
   ],
   [
-    "power",
+    "witkoff",
     12,
-    "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
+    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
+  ],
+  [
+    "kushner",
+    12,
+    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
+  ],
+  [
+    "kyiv",
+    12,
+    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
+  ],
+  [
+    "oil",
+    12,
+    "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html"
+  ],
+  [
+    "country",
+    12,
+    "https://www.washingtonpost.com/business/2026/09/06/us-is-not-only-country-grappling-with-soaring-debt/"
+  ],
+  [
+    "media",
+    12,
+    "https://www.washingtonpost.com/nation/2026/09/06/army-veteran-may-have-found-american-dream-by-claiming-it-was-dead/"
+  ],
+  [
+    "attack",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
     "pop",
@@ -346,33 +326,53 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "nearly",
+    "drug",
     12,
-    "https://www.theguardian.com/news/ng-interactive/2026/sep/06/tupac-shakur-murder-investigation"
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "film",
+    "because",
     12,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/06/maisie-williams-actor-interview-game-of-thrones-practical-magic-2"
+    "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know"
   ],
   [
-    "hours",
+    "change",
     12,
-    "https://www.theguardian.com/music/2026/sep/05/oasis-dont-look-back-in-anger-tour-movie-review"
+    "https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access"
   ],
   [
-    "late",
+    "energy",
     12,
-    "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia"
+    "https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access"
   ],
   [
-    "general",
+    "met",
+    12,
+    "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war"
+  ],
+  [
+    "america",
+    12,
+    "https://www.theguardian.com/us-news/2026/sep/05/lindsay-clancy-murder-trial-retrial"
+  ],
+  [
+    "art",
+    12,
+    "https://www.theguardian.com/fashion/2026/sep/06/john-galliano-anna-wintour-met-gala"
+  ],
+  [
+    "guide",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/sep/06/naturepedic-serenade-organic-mattress-review"
+  ],
+  [
+    "republicans",
     11,
-    "https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html"
+    "https://www.nytimes.com/2026/09/06/us/politics/trump-miderm-elections-republicans.html"
   ],
   [
-    "won",
+    "attacks",
     11,
-    "https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html"
+    "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html"
   ]
 ];
