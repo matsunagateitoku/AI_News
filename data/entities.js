@@ -2,40 +2,40 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Donald Trump",
+      "name": "Margaret Brennan",
       "count": 20,
-      "url": "https://www.theguardian.com/world/2026/sep/06/iran-war-trump-leon-panetta-interview",
+      "url": "https://www.cbsnews.com/news/jocelyn-benson-michigan-secretary-of-state-face-the-nation-transcript-09-06-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 17,
+      "url": "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting",
       "source": "The Guardian"
     },
     {
       "name": "Gloria Steinem",
-      "count": 18,
+      "count": 15,
       "url": "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85",
       "source": "The Guardian"
     },
     {
+      "name": "Chris Wright",
+      "count": 13,
+      "url": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
+      "source": "The Guardian"
+    },
+    {
       "name": "Vladimir V. Putin",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Jared Kushner",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Steve Witkoff",
       "count": 8,
       "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
       "source": "NY Times"
     },
     {
-      "name": "Lindsay Clancy",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html",
-      "source": "NY Times"
+      "name": "Jason Crow",
+      "count": 8,
+      "url": "https://www.cbsnews.com/news/jason-crow-pete-hegseth-leak-investigation-congress-briefing/",
+      "source": "CBS News"
     },
     {
       "name": "Amy Berryhill",
@@ -44,30 +44,30 @@
       "source": "The Guardian"
     },
     {
-      "name": "Robert De Niro",
-      "count": 7,
-      "url": "https://www.cbsnews.com/news/robert-de-niro-on-helping-revive-lower-manhattan-after-911/",
+      "name": "Jared Kushner",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Mike Lawler",
+      "count": 6,
+      "url": "https://www.foxnews.com/media/army-combat-veteran-challenging-mike-lawler-calls-hegseth-national-security-hazard-backs-impeachment",
+      "source": "Fox News"
+    },
+    {
+      "name": "Lisa Mcclain",
+      "count": 6,
+      "url": "https://www.cbsnews.com/news/max-miller-house-republican-conference-chair-lisa-mcclain-face-the-nation-09-06-2026/",
       "source": "CBS News"
-    },
-    {
-      "name": "Hail Mary",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/sep/06/michigan-controversy-western-michigan-hail-mary",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pete Hegseth",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/sep/05/pete-hegseth-pentagon-military",
-      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The Super Bowl",
-      "count": 6,
-      "url": "https://www.latimes.com/sports/rams/story/2026-09-06/rams-will-go-undefeated-win-super-bowl-title",
-      "source": "LA Times"
+      "name": "Hurricane Lowell",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency",
+      "source": "The Guardian"
     },
     {
       "name": "The Iran War",
@@ -77,14 +77,8 @@
     },
     {
       "name": "The World Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hurricane Lowell",
-      "count": 3,
-      "url": "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic",
+      "count": 2,
+      "url": "https://www.theguardian.com/music/2026/sep/05/oasis-dont-look-back-in-anger-tour-movie-review",
       "source": "The Guardian"
     },
     {
@@ -94,10 +88,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "The September 11",
+      "name": "The Super Bowl",
       "count": 2,
-      "url": "https://www.cbsnews.com/news/911-changed-the-u-s-can-we-change-back/",
-      "source": "CBS News"
+      "url": "https://www.latimes.com/sports/rams/story/2026-09-06/rams-will-go-undefeated-win-super-bowl-title",
+      "source": "LA Times"
     },
     {
       "name": "Game Of Thrones",
@@ -106,9 +100,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "Us Open",
+      "name": "Hurricane Karina",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/sep/05/francisco-cerundolo-roars-back-stun-home-hope-taylor-fritz-us-open-tennis",
+      "url": "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic",
       "source": "The Guardian"
     },
     {
@@ -118,28 +112,46 @@
       "source": "The Guardian"
     },
     {
-      "name": "Hurricane Karina",
+      "name": "The Muppet Show",
       "count": 1,
-      "url": "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/05/50-moi-how-the-muppets-rocked-the-world-with-anarchy-nonsense-and-the-inimitable-miss-piggy",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Portsmouth",
+      "count": 1,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/06/the-moment-i-knew-id-lost-his-number-and-was-about-to-switch-off-my-old-phone-for-good-then-a-text-pinged",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Trump Administration Again Asks Supreme Court",
-      "count": 53,
+      "count": 57,
       "url": "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html",
       "source": "NY Times"
     },
     {
+      "name": "Amazon Labor Day",
+      "count": 23,
+      "url": "https://www.nbcnews.com/select/shopping/best-amazon-labor-day-deals-2026-rcna595971",
+      "source": "NBC News"
+    },
+    {
       "name": "Ai Overviews",
-      "count": 19,
+      "count": 20,
       "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
       "source": "The Guardian"
     },
     {
+      "name": "Meet The Press Congress",
+      "count": 11,
+      "url": "https://www.nbcnews.com/meet-the-press/video/gop-sen-john-kennedy-says-the-u-s-must-choke-putin-to-death-as-trump-admin-meets-with-him-269407813567",
+      "source": "NBC News"
+    },
+    {
       "name": "Gop Senate",
-      "count": 12,
+      "count": 11,
       "url": "https://www.politico.com/news/2026/08/25/darline-graham-wins-south-carolina-senate-runoff-01050320",
       "source": "Politico"
     },
@@ -150,103 +162,91 @@
       "source": "The Guardian"
     },
     {
-      "name": "Ucla Health",
+      "name": "State Dept",
       "count": 9,
+      "url": "https://www.nytimes.com/2026/09/06/us/politics/nate-hochman-state-dept.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Nfl",
+      "count": 9,
+      "url": "https://www.theguardian.com/sport/2026/sep/06/roger-goodells-nfl-reign-to-reach-24-years-after-new-contract-extension",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian Australia",
+      "count": 8,
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ucla Health",
+      "count": 7,
       "url": "https://www.latimes.com/business/story/2026-09-05/low-income-patients-at-ucla-health-scramble-to-find-new-doctors-as-contract-ends",
       "source": "LA Times"
-    },
-    {
-      "name": "Guardian Us",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/sep/06/iran-war-trump-leon-panetta-interview",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Google Search",
-      "count": 6,
-      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nbc News",
-      "count": 6,
-      "url": "https://www.nbcnews.com/politics/2026-election/trump-data-centers-voters-key-midterm-races-rcna594914",
-      "source": "NBC News"
-    },
-    {
-      "name": "Abc News",
-      "count": 5,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-09-04/former-abc-news-employee-drops-harassment-charge-against-cbs-correspondent-matt-gutman",
-      "source": "LA Times"
-    },
-    {
-      "name": "Carter White House",
-      "count": 5,
-      "url": "https://www.cbsnews.com/news/911-changed-the-u-s-can-we-change-back/",
-      "source": "CBS News"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 44,
+      "count": 58,
       "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-military-audits-spending-weapons.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 28,
+      "count": 23,
       "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
       "source": "NY Times"
     },
     {
+      "name": "Michigan",
+      "count": 20,
+      "url": "https://www.theguardian.com/sport/2026/sep/06/michigan-controversy-western-michigan-hail-mary",
+      "source": "The Guardian"
+    },
+    {
       "name": "Iran",
-      "count": 17,
+      "count": 18,
       "url": "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html",
       "source": "NY Times"
     },
     {
-      "name": "Ukraine",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Michigan",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/sep/05/midterms-democrats-socialists-leftist",
-      "source": "The Guardian"
-    },
-    {
-      "name": "America",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/sep/05/lindsay-clancy-murder-trial-retrial",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/sep/05/judge-trump-administration-anti-weaponization-fund",
-      "source": "The Guardian"
-    },
-    {
       "name": "Uk",
-      "count": 11,
+      "count": 12,
       "url": "https://www.theguardian.com/commentisfree/2026/sep/06/world-brink-thugs-dictators-brighter-future-ordinary-people",
       "source": "The Guardian"
     },
     {
+      "name": "California",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/california-big-sur-overtourism",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Miami",
+      "count": 11,
+      "url": "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/",
+      "source": "Washington Post"
+    },
+    {
       "name": "L.A.",
       "count": 11,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-09-03/david-lynch-photography-pace-gallery-fall-preview-2026",
+      "url": "https://www.latimes.com/california/story/2026-09-05/2-400-catalytic-converters-seized-in-4-3-million-la-oc-bust",
       "source": "LA Times"
     },
     {
-      "name": "Kyiv",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
-      "source": "The Guardian"
+      "name": "Ukraine",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "China",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-09-06T16:04:32Z"
+  "updated": "2026-09-06T21:09:34Z"
 };

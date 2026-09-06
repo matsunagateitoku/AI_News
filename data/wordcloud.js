@@ -2,18 +2,18 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    63,
-    "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html"
+    64,
+    "https://www.nytimes.com/2026/09/06/us/politics/michael-cohen-donald-trump-interview.html"
   ],
   [
     "president",
-    42,
-    "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html"
+    30,
+    "https://www.nytimes.com/2026/09/06/us/politics/michael-cohen-donald-trump-interview.html"
   ],
   [
-    "war",
-    30,
-    "https://www.nytimes.com/2026/09/06/us/elections/trump-mail-in-voting-confusion.html"
+    "secretary",
+    29,
+    "https://www.washingtonpost.com/business/2026/09/06/us-is-not-only-country-grappling-with-soaring-debt/"
   ],
   [
     "food",
@@ -21,104 +21,124 @@
     "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know"
   ],
   [
-    "secretary",
-    27,
-    "https://www.washingtonpost.com/business/2026/09/06/us-is-not-only-country-grappling-with-soaring-debt/"
-  ],
-  [
     "administration",
-    24,
+    27,
     "https://www.nytimes.com/2026/09/06/us/politics/nate-hochman-state-dept.html"
   ],
   [
-    "talks",
-    22,
-    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
-  ],
-  [
-    "iran",
-    22,
-    "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html"
-  ],
-  [
-    "michigan",
-    22,
-    "https://www.theguardian.com/us-news/2026/sep/05/midterms-democrats-socialists-leftist"
-  ],
-  [
-    "democrats",
-    20,
-    "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html"
-  ],
-  [
-    "game",
-    20,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/06/maisie-williams-actor-interview-game-of-thrones-practical-magic-2"
-  ],
-  [
-    "music",
-    20,
-    "https://www.theguardian.com/culture/2026/sep/06/infinity-song-momo-boyd-profile"
-  ],
-  [
-    "steinem",
-    20,
-    "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85"
-  ],
-  [
-    "american",
-    19,
-    "https://www.nytimes.com/2026/09/06/us/highland-park-united-methodist-church-dallas.html"
-  ],
-  [
-    "died",
-    19,
-    "https://www.washingtonpost.com/obituaries/2026/09/05/mary-tsingou-menzel-overlooked-contributor-landmark-experiment-dies-97/"
-  ],
-  [
-    "labor",
-    19,
-    "https://www.theguardian.com/us-news/2026/sep/04/lori-chavez-deremer-misconduct-report"
-  ],
-  [
-    "political",
-    18,
-    "https://www.washingtonpost.com/politics/2026/09/04/supreme-court-rules-political-parties-should-get-discounted-tv-ad-rates/"
-  ],
-  [
-    "school",
-    18,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/06/dysfunctional-siblings-divorce-myself-annalisa-barbieri"
-  ],
-  [
-    "gloria",
-    18,
-    "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85"
-  ],
-  [
-    "voters",
-    17,
+    "war",
+    27,
     "https://www.nytimes.com/2026/09/06/us/elections/trump-mail-in-voting-confusion.html"
   ],
   [
-    "john",
-    17,
+    "michigan",
+    25,
+    "https://www.theguardian.com/sport/2026/sep/06/michigan-controversy-western-michigan-hail-mary"
+  ],
+  [
+    "court",
+    24,
+    "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html"
+  ],
+  [
+    "iran",
+    23,
+    "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html"
+  ],
+  [
+    "amazon",
+    23,
+    "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/"
+  ],
+  [
+    "democrats",
+    22,
     "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html"
   ],
   [
-    "ukraine",
-    17,
+    "military",
+    21,
     "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html"
   ],
   [
-    "lost",
-    16,
-    "https://www.nytimes.com/2026/09/06/us/politics/nate-hochman-state-dept.html"
+    "brennan",
+    21,
+    "https://www.theguardian.com/sport/2026/sep/06/matthew-brennan-vuelta-a-espana-heat-wout-van-aert-stage-15-cycling"
   ],
   [
-    "latest",
+    "nation",
+    21,
+    "https://www.cbsnews.com/news/jocelyn-benson-michigan-secretary-of-state-face-the-nation-transcript-09-06-2026/"
+  ],
+  [
+    "john",
+    20,
+    "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html"
+  ],
+  [
+    "died",
+    20,
+    "https://www.washingtonpost.com/obituaries/2026/09/05/mary-tsingou-menzel-overlooked-contributor-landmark-experiment-dies-97/"
+  ],
+  [
+    "rep",
+    20,
+    "https://www.foxnews.com/media/army-combat-veteran-challenging-mike-lawler-calls-hegseth-national-security-hazard-backs-impeachment"
+  ],
+  [
+    "mail",
+    19,
+    "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html"
+  ],
+  [
+    "hurricane",
+    19,
+    "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency"
+  ],
+  [
+    "margaret",
+    19,
+    "https://www.theguardian.com/books/2026/sep/05/gloria-steinem-tributes-dua-lipa-margaret-atwood-lynda-carter"
+  ],
+  [
+    "game",
+    18,
+    "https://www.theguardian.com/sport/live/2026/sep/06/us-open-tennis-2026-aryna-sabalenka-and-marta-kostyuk-in-action-on-day-eight-live"
+  ],
+  [
+    "music",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/06/jasmin-graham-shark-scientist"
+  ],
+  [
+    "miami",
+    17,
+    "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/"
+  ],
+  [
+    "control",
+    17,
+    "https://www.theguardian.com/us-news/2026/sep/06/midterm-elections-control-of-congress"
+  ],
+  [
+    "supreme",
     16,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html"
+  ],
+  [
+    "voters",
+    16,
+    "https://www.nytimes.com/2026/09/06/us/elections/trump-mail-in-voting-confusion.html"
+  ],
+  [
+    "plane",
+    16,
+    "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/"
+  ],
+  [
+    "don",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/07/dr-norman-swan-new-book-science-of-ageing-cognitive-decline"
   ],
   [
     "death",
@@ -126,24 +146,14 @@
     "https://www.theguardian.com/news/ng-interactive/2026/sep/06/tupac-shakur-murder-investigation"
   ],
   [
-    "don",
+    "steinem",
     16,
-    "https://www.theguardian.com/us-news/2026/sep/05/midterms-democrats-socialists-leftist"
+    "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85"
   ],
   [
-    "race",
-    15,
-    "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html"
-  ],
-  [
-    "military",
-    15,
-    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html"
-  ],
-  [
-    "putin",
-    15,
-    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
+    "sept",
+    16,
+    "https://www.latimes.com/entertainment-arts/business/story/2026-08-31/to-catch-a-predator-film-why-chris-hansen-hasnt-seen-it"
   ],
   [
     "power",
@@ -151,59 +161,69 @@
     "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
   ],
   [
-    "health",
+    "american",
     15,
-    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html"
+    "https://www.washingtonpost.com/nation/2026/09/06/army-veteran-may-have-found-american-dream-by-claiming-it-was-dead/"
   ],
   [
-    "star",
+    "political",
     15,
-    "https://www.theguardian.com/news/ng-interactive/2026/sep/06/tupac-shakur-murder-investigation"
+    "https://www.washingtonpost.com/politics/2026/09/04/supreme-court-rules-political-parties-should-get-discounted-tv-ad-rates/"
   ],
   [
-    "control",
+    "energy",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/06/midterm-elections-control-of-congress"
+    "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright"
   ],
   [
-    "love",
+    "gloria",
     15,
-    "https://www.theguardian.com/film/2026/sep/06/possible-love-review-a-tale-of-two-couples-is-finely-judged-study-of-exploitation-and-friendship"
+    "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85"
   ],
   [
-    "won",
+    "chair",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/05/50-moi-how-the-muppets-rocked-the-world-with-anarchy-nonsense-and-the-inimitable-miss-piggy"
+  ],
+  [
+    "lost",
     14,
-    "https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html"
+    "https://www.nytimes.com/2026/09/06/us/politics/nate-hochman-state-dept.html"
   ],
   [
-    "air",
+    "party",
     14,
     "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
   ],
   [
-    "trial",
+    "election",
     14,
-    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html"
+    "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
   ],
   [
-    "young",
+    "country",
     14,
-    "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html"
+    "https://www.nytimes.com/2026/09/02/opinion/indian-identity-princeton.html"
   ],
   [
-    "children",
+    "company",
     14,
-    "https://www.washingtonpost.com/nation/2026/09/04/whats-next-lindsay-clancy-case/"
+    "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html"
   ],
   [
-    "growing",
+    "runway",
     14,
-    "https://www.washingtonpost.com/health/2026/09/04/behind-the-scenes-effort-contain-pennsylvanias-measles-outbreak/"
+    "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/"
   ],
   [
-    "morning",
+    "airport",
     14,
-    "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know"
+    "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/"
+  ],
+  [
+    "book",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/07/dr-norman-swan-new-book-science-of-ageing-cognitive-decline"
   ],
   [
     "film",
@@ -211,114 +231,79 @@
     "https://www.theguardian.com/tv-and-radio/2026/sep/06/maisie-williams-actor-interview-game-of-thrones-practical-magic-2"
   ],
   [
-    "night",
+    "judge",
     14,
-    "https://www.theguardian.com/world/2026/sep/06/taraneh-romina-rahimi-twin-sisters-jailed-over-iran-protests"
+    "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting"
   ],
   [
-    "company",
-    14,
-    "https://www.theguardian.com/technology/2026/sep/05/flock-cameras-political-backlash"
-  ],
-  [
-    "working",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/06/this-smokejumper-says-the-us-has-lost-its-empathy-thats-why-hes-running-for-congress"
-  ],
-  [
-    "book",
-    14,
-    "https://www.theguardian.com/books/2026/sep/06/edna-obrien-chronicle-novelist-craft-loss-nonfiction"
-  ],
-  [
-    "party",
+    "won",
     13,
-    "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
+    "https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html"
+  ],
+  [
+    "chris",
+    13,
+    "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html"
+  ],
+  [
+    "republicans",
+    13,
+    "https://www.nytimes.com/2026/09/06/us/politics/trump-miderm-elections-republicans.html"
+  ],
+  [
+    "because",
+    13,
+    "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html"
+  ],
+  [
+    "fire",
+    13,
+    "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/"
+  ],
+  [
+    "star",
+    13,
+    "https://www.theguardian.com/news/ng-interactive/2026/sep/06/tupac-shakur-murder-investigation"
+  ],
+  [
+    "wright",
+    13,
+    "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright"
+  ],
+  [
+    "midterm",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting"
+  ],
+  [
+    "season",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency"
+  ],
+  [
+    "labor",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/aug/28/best-labor-day-sales-deals"
+  ],
+  [
+    "video",
+    12,
+    "https://www.nytimes.com/2026/09/06/us/politics/nate-hochman-state-dept.html"
   ],
   [
     "win",
-    13,
+    12,
     "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
   ],
   [
-    "election",
-    13,
-    "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
-  ],
-  [
-    "everything",
-    13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "trump's",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "california",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/05/judge-trump-administration-anti-weaponization-fund"
-  ],
-  [
-    "george",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/sep/06/prediction-markets-gambling-american-pastime"
-  ],
-  [
-    "hurricane",
-    13,
-    "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic"
-  ],
-  [
-    "court",
+    "again",
     12,
     "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html"
   ],
   [
-    "democratic",
+    "cargo",
     12,
-    "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html"
-  ],
-  [
-    "envoys",
-    12,
-    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
-  ],
-  [
-    "witkoff",
-    12,
-    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
-  ],
-  [
-    "kushner",
-    12,
-    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
-  ],
-  [
-    "kyiv",
-    12,
-    "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
-  ],
-  [
-    "oil",
-    12,
-    "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html"
-  ],
-  [
-    "country",
-    12,
-    "https://www.washingtonpost.com/business/2026/09/06/us-is-not-only-country-grappling-with-soaring-debt/"
-  ],
-  [
-    "media",
-    12,
-    "https://www.washingtonpost.com/nation/2026/09/06/army-veteran-may-have-found-american-dream-by-claiming-it-was-dead/"
-  ],
-  [
-    "attack",
-    12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/"
   ],
   [
     "pop",
@@ -326,39 +311,29 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
+    "growing",
+    12,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
     "drug",
     12,
     "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "because",
+    "elections",
     12,
-    "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know"
+    "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting"
   ],
   [
-    "change",
+    "order",
     12,
-    "https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access"
+    "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting"
   ],
   [
-    "energy",
+    "support",
     12,
-    "https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access"
-  ],
-  [
-    "met",
-    12,
-    "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war"
-  ],
-  [
-    "america",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/05/lindsay-clancy-murder-trial-retrial"
-  ],
-  [
-    "art",
-    12,
-    "https://www.theguardian.com/fashion/2026/sep/06/john-galliano-anna-wintour-met-gala"
+    "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund"
   ],
   [
     "guide",
@@ -366,13 +341,38 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/06/naturepedic-serenade-organic-mattress-review"
   ],
   [
-    "republicans",
-    11,
-    "https://www.nytimes.com/2026/09/06/us/politics/trump-miderm-elections-republicans.html"
+    "california",
+    12,
+    "https://www.theguardian.com/us-news/2026/sep/05/california-big-sur-overtourism"
   ],
   [
-    "attacks",
+    "festival",
+    12,
+    "https://www.theguardian.com/film/2026/sep/06/cult-male-genius-holding-female-film-makers-back-woman-unknown-director-may-el-toukhy"
+  ],
+  [
+    "hegseth",
     11,
-    "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html"
+    "https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html"
+  ],
+  [
+    "far",
+    11,
+    "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
+  ],
+  [
+    "ballots",
+    11,
+    "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html"
+  ],
+  [
+    "vote",
+    11,
+    "https://www.nytimes.com/2026/09/06/us/elections/trump-mail-in-voting-confusion.html"
+  ],
+  [
+    "republican",
+    11,
+    "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html"
   ]
 ];
