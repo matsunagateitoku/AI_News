@@ -2,33 +2,13 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    78,
+    72,
     "https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html"
   ],
   [
     "president",
-    50,
+    43,
     "https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html"
-  ],
-  [
-    "judge",
-    34,
-    "https://www.washingtonpost.com/politics/2026/09/04/judge-orders-doj-disclose-who-conceived-now-defunct-payout-fund/"
-  ],
-  [
-    "court",
-    33,
-    "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html"
-  ],
-  [
-    "military",
-    27,
-    "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html"
-  ],
-  [
-    "died",
-    25,
-    "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html"
   ],
   [
     "school",
@@ -41,104 +21,154 @@
     "https://www.theguardian.com/artanddesign/2026/sep/05/september-11-missing-posters-exhibition"
   ],
   [
+    "died",
+    23,
+    "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html"
+  ],
+  [
     "death",
-    24,
+    22,
     "https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation"
   ],
   [
+    "game",
+    22,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/06/maisie-williams-actor-interview-game-of-thrones-practical-magic-2"
+  ],
+  [
+    "war",
+    21,
+    "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
+  ],
+  [
+    "military",
+    21,
+    "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
+  ],
+  [
     "political",
-    23,
+    21,
     "https://www.washingtonpost.com/politics/2026/09/04/supreme-court-rules-political-parties-should-get-discounted-tv-ad-rates/"
   ],
   [
-    "lindsay",
-    20,
-    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html"
+    "judge",
+    21,
+    "https://www.washingtonpost.com/politics/2026/09/04/judge-orders-doj-disclose-who-conceived-now-defunct-payout-fund/"
   ],
   [
-    "game",
+    "american",
+    21,
+    "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers"
+  ],
+  [
+    "clancy",
     20,
-    "https://www.nytimes.com/2026/09/05/style/naomi-osaka-fashion-us-open.html"
+    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html"
   ],
   [
     "music",
     20,
-    "https://www.theguardian.com/music/2026/sep/05/jay-z-30-tour-review"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/05/50-moi-how-the-muppets-rocked-the-world-with-anarchy-nonsense-and-the-inimitable-miss-piggy"
   ],
   [
-    "republicans",
+    "lindsay",
     19,
-    "https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html"
+    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html"
   ],
   [
-    "war",
+    "case",
     19,
-    "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html"
+    "https://www.nytimes.com/2026/09/05/us/timothy-cruz-lindsay-clancy-retrial-decision.html"
   ],
   [
-    "clancy",
-    18,
-    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html"
+    "power",
+    19,
+    "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
   ],
   [
-    "american",
+    "million",
+    19,
+    "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
+  ],
+  [
+    "season",
+    19,
+    "https://www.theguardian.com/sport/2026/sep/05/cte-football-players-nfl"
+  ],
+  [
+    "oil",
     18,
-    "https://www.theguardian.com/sport/live/2026/sep/05/us-open-tennis-fritz-gauff-swiatek-keys-cobolli-day-seven-live"
+    "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
+  ],
+  [
+    "love",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/sep/05/todd-blanche-gender-transitions-schools"
+  ],
+  [
+    "michigan",
+    18,
+    "https://www.theguardian.com/us-news/2026/sep/05/midterms-democrats-socialists-leftist"
+  ],
+  [
+    "labor",
+    17,
+    "https://www.washingtonpost.com/business/2026/09/04/lori-chavez-deremer-former-labor-secretary-drank-job-misused-funds-report-finds/"
   ],
   [
     "games",
-    18,
+    17,
     "https://www.theguardian.com/commentisfree/2026/sep/06/when-dad-asked-me-to-edit-his-novel-fathers-day"
-  ],
-  [
-    "administration",
-    17,
-    "https://www.washingtonpost.com/politics/2026/09/04/judge-orders-doj-disclose-who-conceived-now-defunct-payout-fund/"
-  ],
-  [
-    "country",
-    17,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "iran",
     16,
-    "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html"
+    "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
   ],
   [
-    "oil",
+    "star",
     16,
-    "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
+    "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html"
   ],
   [
     "trial",
     16,
+    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html"
+  ],
+  [
+    "murder",
+    16,
     "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html"
   ],
   [
-    "case",
+    "country",
     16,
-    "https://www.nytimes.com/2026/09/05/us/timothy-cruz-lindsay-clancy-retrial-decision.html"
-  ],
-  [
-    "democrats",
-    16,
-    "https://www.nytimes.com/2026/09/05/us/politics/democrats-republicans-voters-gallup-midterms.html"
-  ],
-  [
-    "series",
-    16,
-    "https://www.washingtonpost.com/investigations/2026/09/04/senators-call-investigation-into-gi-bill-trade-schools-citing-post-series/"
-  ],
-  [
-    "love",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/sep/05/todd-blanche-gender-transitions-schools"
+    "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html"
   ],
   [
     "film",
     16,
-    "https://www.theguardian.com/film/2026/sep/05/werner-herzog-bucking-fastard-kate-rooney-mara"
+    "https://www.theguardian.com/music/2026/sep/05/oasis-dont-look-back-in-anger-tour-movie-review"
+  ],
+  [
+    "democrats",
+    16,
+    "https://www.theguardian.com/us-news/2026/sep/05/us-voters-democrats-republicans"
+  ],
+  [
+    "gloria",
+    16,
+    "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85"
+  ],
+  [
+    "steinem",
+    16,
+    "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85"
+  ],
+  [
+    "republicans",
+    15,
+    "https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html"
   ],
   [
     "iranian",
@@ -146,29 +176,14 @@
     "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
   ],
   [
-    "star",
+    "tankers",
     15,
-    "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html"
+    "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
   ],
   [
-    "family",
+    "health",
     15,
-    "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html"
-  ],
-  [
-    "supreme",
-    15,
-    "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html"
-  ],
-  [
-    "voters",
-    15,
-    "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html"
-  ],
-  [
-    "book",
-    15,
-    "https://www.nytimes.com/2026/09/05/books/review/harlan-coben-plot-twist-writing-guide.html"
+    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html"
   ],
   [
     "children",
@@ -176,44 +191,54 @@
     "https://www.washingtonpost.com/nation/2026/09/04/whats-next-lindsay-clancy-case/"
   ],
   [
-    "labor",
+    "court",
     15,
-    "https://www.washingtonpost.com/business/2026/09/04/lori-chavez-deremer-former-labor-secretary-drank-job-misused-funds-report-finds/"
+    "https://www.washingtonpost.com/politics/2026/09/04/supreme-court-rules-political-parties-should-get-discounted-tv-ad-rates/"
   ],
   [
-    "mail",
+    "late",
     15,
-    "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
-  ],
-  [
-    "donald",
-    15,
-    "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
-  ],
-  [
-    "questions",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "gloria",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85"
-  ],
-  [
-    "steinem",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85"
+    "https://www.washingtonpost.com/education/2026/09/04/college-loans-were-late-due-new-federal-rules-students-are-paying-price/"
   ],
   [
     "don",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/05/midterms-democrats-socialists-leftist"
+    "https://www.theguardian.com/music/2026/sep/05/oasis-dont-look-back-in-anger-tour-movie-review"
   ],
   [
-    "law",
+    "california",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/05/judge-trump-administration-anti-weaponization-fund"
+  ],
+  [
+    "football",
+    15,
+    "https://www.theguardian.com/sport/2026/sep/05/cte-football-players-nfl"
+  ],
+  [
+    "hurricane",
+    15,
+    "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic"
+  ],
+  [
+    "working",
+    14,
+    "https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html"
+  ],
+  [
+    "inside",
+    14,
+    "https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html"
+  ],
+  [
+    "strikes",
     14,
     "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
+  ],
+  [
+    "win",
+    14,
+    "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
   ],
   [
     "guide",
@@ -221,44 +246,34 @@
     "https://www.nytimes.com/2026/09/05/books/review/harlan-coben-plot-twist-writing-guide.html"
   ],
   [
-    "health",
+    "latest",
     14,
-    "https://www.washingtonpost.com/nation/2026/09/04/whats-next-lindsay-clancy-case/"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "voters",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/05/us-voters-democrats-republicans"
+  ],
+  [
+    "race",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/01/ultramarathon-runners-training-months-what-happens-dont-finish-race"
+  ],
+  [
+    "party",
+    13,
+    "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html"
+  ],
+  [
+    "administration",
+    13,
+    "https://www.washingtonpost.com/politics/2026/09/04/judge-orders-doj-disclose-who-conceived-now-defunct-payout-fund/"
   ],
   [
     "growing",
-    14,
+    13,
     "https://www.washingtonpost.com/health/2026/09/04/behind-the-scenes-effort-contain-pennsylvanias-measles-outbreak/"
-  ],
-  [
-    "season",
-    14,
-    "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic"
-  ],
-  [
-    "inside",
-    13,
-    "https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html"
-  ],
-  [
-    "ahead",
-    13,
-    "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
-  ],
-  [
-    "murder",
-    13,
-    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html"
-  ],
-  [
-    "order",
-    13,
-    "https://www.nytimes.com/2026/09/05/us/red-states-republicans-flock-cameras.html"
-  ],
-  [
-    "late",
-    13,
-    "https://www.washingtonpost.com/education/2026/09/04/college-loans-were-late-due-new-federal-rules-students-are-paying-price/"
   ],
   [
     "pop",
@@ -266,19 +281,19 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "power",
+    "center",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/05/memphis-storm-community"
+    "https://www.theguardian.com/us-news/2026/sep/05/cuban-hunger-striker-ice-force-feeding"
   ],
   [
-    "video",
+    "company",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/05/christa-pike-death-row-clemency-petition"
+    "https://www.theguardian.com/technology/2026/sep/05/flock-cameras-political-backlash"
   ],
   [
-    "movement",
+    "senate",
     13,
-    "https://www.theguardian.com/books/2026/sep/05/gloria-steinem-tributes-dua-lipa-margaret-atwood-lynda-carter"
+    "https://www.theguardian.com/us-news/2026/sep/05/midterms-democrats-socialists-leftist"
   ],
   [
     "art",
@@ -286,93 +301,78 @@
     "https://www.theguardian.com/fashion/2026/sep/05/met-gala-john-galliano-anna-wintour"
   ],
   [
-    "strikes",
+    "air",
     12,
-    "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
-  ],
-  [
-    "fire",
-    12,
-    "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
-  ],
-  [
-    "mistrial",
-    12,
-    "https://www.nytimes.com/2026/09/05/us/timothy-cruz-lindsay-clancy-retrial-decision.html"
-  ],
-  [
-    "texas",
-    12,
-    "https://www.nytimes.com/2026/09/05/us/red-states-republicans-flock-cameras.html"
+    "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html"
   ],
   [
     "defense",
     12,
-    "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
+    "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html"
   ],
   [
-    "several",
+    "series",
     12,
-    "https://www.washingtonpost.com/politics/2026/09/04/judge-orders-doj-disclose-who-conceived-now-defunct-payout-fund/"
+    "https://www.washingtonpost.com/investigations/2026/09/04/senators-call-investigation-into-gi-bill-trade-schools-citing-post-series/"
   ],
   [
-    "race",
+    "attack",
     12,
-    "https://www.washingtonpost.com/education/2026/09/03/trump-administration-aims-strip-schools-tax-exemption-if-they-consider-race/"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "hollywood",
+    "hours",
     12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.theguardian.com/music/2026/sep/05/oasis-dont-look-back-in-anger-tour-movie-review"
   ],
   [
-    "general",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/sep/05/todd-blanche-gender-transitions-schools"
-  ],
-  [
-    "ago",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/sep/05/camp-stove-jetboil-competition"
-  ],
-  [
-    "missing",
-    12,
-    "https://www.theguardian.com/artanddesign/2026/sep/05/september-11-missing-posters-exhibition"
-  ],
-  [
-    "center",
+    "texas",
     12,
     "https://www.theguardian.com/us-news/2026/sep/05/cuban-hunger-striker-ice-force-feeding"
   ],
   [
-    "light",
+    "media",
     12,
-    "https://www.theguardian.com/us-news/2026/sep/05/memphis-storm-community"
+    "https://www.theguardian.com/us-news/2026/sep/05/robin-morgan-feminist-poet-editor-dies-aged-85"
   ],
   [
-    "lawsuit",
+    "control",
     12,
-    "https://www.theguardian.com/us-news/2026/sep/05/judge-trump-administration-anti-weaponization-fund"
+    "https://www.theguardian.com/us-news/2026/sep/04/judge-pentagon-stars-and-stripes"
   ],
   [
-    "michigan",
+    "players",
     12,
-    "https://www.theguardian.com/us-news/2026/sep/05/midterms-democrats-socialists-leftist"
+    "https://www.theguardian.com/sport/2026/sep/05/cte-football-players-nfl"
   ],
   [
-    "island",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/03/catalina-island-deer-california"
+    "parents",
+    11,
+    "https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html"
   ],
   [
-    "party",
-    12,
-    "https://www.theguardian.com/politics/2026/sep/05/marina-hyde-exclusive-book-extract-what-a-time-to-be-alive"
+    "ukraine",
+    11,
+    "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
   ],
   [
-    "politics",
-    12,
-    "https://www.theguardian.com/politics/2026/sep/05/i-wasnt-even-listening-farage-says-of-donations-scandal-meeting"
+    "ahead",
+    11,
+    "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
+  ],
+  [
+    "mistrial",
+    11,
+    "https://www.nytimes.com/2026/09/05/us/timothy-cruz-lindsay-clancy-retrial-decision.html"
+  ],
+  [
+    "nepal",
+    11,
+    "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html"
+  ],
+  [
+    "book",
+    11,
+    "https://www.nytimes.com/2026/09/05/books/review/harlan-coben-plot-twist-writing-guide.html"
   ]
 ];
