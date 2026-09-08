@@ -2,88 +2,98 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    78,
-    "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
-  ],
-  [
-    "war",
-    35,
-    "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
+    89,
+    "https://www.nytimes.com/2026/09/08/us/politics/trump-supreme-court-dhs-citizenship.html"
   ],
   [
     "president",
-    32,
-    "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
-  ],
-  [
-    "family",
-    25,
-    "https://www.theguardian.com/us-news/2026/sep/08/d4vd-death-penalty-murder-trial"
-  ],
-  [
-    "attacks",
-    22,
-    "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-secretary-lonnie-bunch-resigns.html"
-  ],
-  [
-    "plane",
-    22,
-    "https://www.nytimes.com/2026/09/08/us/politics/hmong-refugee-deportation-michigan-laos.html"
-  ],
-  [
-    "tariffs",
-    21,
-    "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
-  ],
-  [
-    "amazon",
-    21,
-    "https://www.washingtonpost.com/transportation/2026/09/07/van-carrying-seven-people-among-two-vehicles-crushed-by-amazon-cargo-plane-miami/"
-  ],
-  [
-    "trade",
-    20,
-    "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
-  ],
-  [
-    "don",
-    20,
-    "https://www.nytimes.com/2026/09/08/us/politics/hmong-refugee-deportation-michigan-laos.html"
+    36,
+    "https://www.nytimes.com/2026/09/08/style/trump-space-force-uniforms-starship-troopers.html"
   ],
   [
     "film",
-    20,
-    "https://www.theguardian.com/film/2026/sep/08/state-handouts-10000-lasers-and-trumps-election-six-things-we-learned-from-the-elon-musk-film"
+    31,
+    "https://www.theguardian.com/fashion/2026/sep/08/phoebe-bridgers-venice-festival-leg-armpit-hair-women-beauty-shaving"
   ],
   [
-    "latest",
-    19,
-    "https://www.washingtonpost.com/business/2026/09/08/us-treasury-places-sanctions-dozens-iranian-airlines-pressure-tehran/"
+    "company",
+    27,
+    "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html"
   ],
   [
-    "far",
-    19,
-    "https://www.washingtonpost.com/business/2026/09/05/mortgage-lending-standards-us-are-too-strict-pew-report-argues/"
+    "america",
+    24,
+    "https://www.theguardian.com/commentisfree/2026/sep/08/america-gulf-lake-state-donald-trump-renaming-new-mexico"
   ],
   [
-    "star",
-    19,
-    "https://www.theguardian.com/culture/2026/sep/08/star-trek-at-60-william-shatner"
+    "american",
+    23,
+    "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-secretary-lonnie-bunch-resigns.html"
   ],
   [
-    "media",
-    19,
-    "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses"
+    "war",
+    22,
+    "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html"
+  ],
+  [
+    "south",
+    22,
+    "https://www.washingtonpost.com/nation/2026/09/08/little-known-tale-behind-one-only-planes-allowed-fly-after-911/"
   ],
   [
     "water",
-    19,
+    22,
     "https://www.theguardian.com/us-news/2026/sep/08/us-datacenters-wastewater-pollution"
   ],
   [
     "israeli",
+    21,
+    "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html"
+  ],
+  [
+    "court",
+    21,
+    "https://www.nytimes.com/2026/09/08/us/politics/trump-supreme-court-dhs-citizenship.html"
+  ],
+  [
+    "attacks",
+    20,
+    "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html"
+  ],
+  [
+    "plane",
+    20,
+    "https://www.nytimes.com/2026/09/08/us/politics/hmong-refugee-deportation-michigan-laos.html"
+  ],
+  [
+    "family",
+    20,
+    "https://www.theguardian.com/us-news/2026/sep/08/d4vd-death-penalty-murder-trial"
+  ],
+  [
+    "season",
+    19,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/08/south-park-changes-name-to-south-america-trump"
+  ],
+  [
+    "canada",
     18,
     "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html"
+  ],
+  [
+    "amazon",
+    18,
+    "https://www.washingtonpost.com/transportation/2026/09/07/van-carrying-seven-people-among-two-vehicles-crushed-by-amazon-cargo-plane-miami/"
+  ],
+  [
+    "air",
+    18,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "because",
+    18,
+    "https://www.theguardian.com/media/2026/sep/08/60-minutes-managing-editor-facebook-post"
   ],
   [
     "food",
@@ -91,29 +101,34 @@
     "https://www.theguardian.com/news/ng-interactive/2026/sep/08/this-is-dangerous-slime-moulds-and-the-bitter-debate-over-the-nature-of-intelligence"
   ],
   [
+    "game",
+    18,
+    "https://www.theguardian.com/sport/2026/sep/08/university-iowa-marching-band-derek-phillips-heat-collapse"
+  ],
+  [
     "history",
     17,
     "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-secretary-lonnie-bunch-resigns.html"
   ],
   [
-    "donald",
+    "social",
     17,
-    "https://www.washingtonpost.com/politics/2026/09/08/rare-charges-against-agent-highlight-broader-retreat-ice-shooting-probes/"
+    "https://www.washingtonpost.com/politics/2026/09/08/dhs-asks-supreme-court-ok-use-social-security-data-verify-voting-eligibility/"
   ],
   [
-    "season",
-    17,
-    "https://www.theguardian.com/sport/2026/sep/08/wnba-stalkers-basketball"
-  ],
-  [
-    "game",
-    17,
-    "https://www.theguardian.com/football/2026/sep/08/cavan-sullivan-analyisis-mls-philadelphia-union"
-  ],
-  [
-    "museum",
+    "administration",
     16,
-    "https://www.nytimes.com/2026/09/08/arts/renoir-museum-artworks-theft-france.html"
+    "https://www.nytimes.com/2026/09/08/us/politics/trump-supreme-court-dhs-citizenship.html"
+  ],
+  [
+    "california",
+    16,
+    "https://www.nytimes.com/2026/09/08/weather/southern-california-heat-wave-la.html"
+  ],
+  [
+    "york",
+    16,
+    "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-rejects-mom-bid-son-school-vaccine-exemption-new-york/"
   ],
   [
     "miami",
@@ -121,89 +136,79 @@
     "https://www.washingtonpost.com/transportation/2026/09/07/van-carrying-seven-people-among-two-vehicles-crushed-by-amazon-cargo-plane-miami/"
   ],
   [
-    "crash",
+    "festival",
     16,
+    "https://www.theguardian.com/fashion/2026/sep/08/phoebe-bridgers-venice-festival-leg-armpit-hair-women-beauty-shaving"
+  ],
+  [
+    "star",
+    16,
+    "https://www.theguardian.com/film/2026/sep/08/practical-magic-2-movie-review"
+  ],
+  [
+    "trial",
+    16,
+    "https://www.theguardian.com/us-news/2026/sep/08/d4vd-death-penalty-murder-trial"
+  ],
+  [
+    "feel",
+    16,
+    "https://www.theguardian.com/film/2026/sep/08/company-review-casey-affleck-creepy-anthology"
+  ],
+  [
+    "don",
+    15,
+    "https://www.nytimes.com/2026/09/08/us/politics/hmong-refugee-deportation-michigan-laos.html"
+  ],
+  [
+    "crash",
+    15,
     "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
   ],
   [
-    "company",
-    16,
-    "https://www.theguardian.com/us-news/2026/sep/08/racist-plane-real-estate-agent-tied"
-  ],
-  [
-    "canada",
-    15,
-    "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
-  ],
-  [
-    "american",
-    15,
-    "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-secretary-lonnie-bunch-resigns.html"
-  ],
-  [
-    "oil",
-    15,
-    "https://www.nytimes.com/2026/09/08/business/oil-prices-iran-war.html"
-  ],
-  [
-    "election",
-    15,
-    "https://www.nytimes.com/2026/09/08/opinion/democrats-midterms.html"
-  ],
-  [
-    "social",
-    15,
-    "https://www.washingtonpost.com/business/2026/09/08/social-security-fund-runs-dry-some-republicans-say-its-time-raise-taxes/"
-  ],
-  [
-    "air",
-    15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "love",
-    15,
-    "https://www.theguardian.com/culture/2026/sep/08/star-trek-at-60-william-shatner"
-  ],
-  [
-    "saudi",
+    "trade",
     14,
-    "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html"
+    "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html"
   ],
   [
-    "effect",
+    "bank",
     14,
-    "https://www.washingtonpost.com/business/2026/09/08/trump-threatens-ban-bombardier-jet-sales-canadas-tariffs-take-effect/"
+    "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html"
   ],
   [
-    "cargo",
+    "children",
     14,
-    "https://www.washingtonpost.com/transportation/2026/09/07/van-carrying-seven-people-among-two-vehicles-crushed-by-amazon-cargo-plane-miami/"
-  ],
-  [
-    "airport",
-    14,
-    "https://www.washingtonpost.com/transportation/2026/09/07/van-carrying-seven-people-among-two-vehicles-crushed-by-amazon-cargo-plane-miami/"
+    "https://www.nytimes.com/2026/09/08/well/rfk-jr-maha-report-childrens-health.html"
   ],
   [
     "series",
     14,
-    "https://www.theguardian.com/culture/2026/sep/08/star-trek-at-60-william-shatner"
+    "https://www.nytimes.com/2026/09/08/us/politics/trump-sept-11-firefighters.html"
   ],
   [
-    "again",
+    "data",
     14,
-    "https://www.theguardian.com/sport/live/2026/sep/08/us-open-tennis-2026-quarter-finals-sabalenka-noskova-tiafoe-michelsen-live"
+    "https://www.washingtonpost.com/politics/2026/09/08/dhs-asks-supreme-court-ok-use-social-security-data-verify-voting-eligibility/"
   ],
   [
-    "america",
+    "clancy",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/08/lindsay-clancy-mistrial-lawyer-appeal-trump-pardon"
+    "https://www.washingtonpost.com/politics/2026/09/08/lindsay-clancys-attorney-makes-public-plea-trump-pardon/"
   ],
   [
-    "court",
+    "donald",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/08/racist-plane-real-estate-agent-tied"
+    "https://www.washingtonpost.com/politics/2026/09/08/rare-charges-against-agent-highlight-broader-retreat-ice-shooting-probes/"
+  ],
+  [
+    "media",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/sep/08/america-gulf-lake-state-donald-trump-renaming-new-mexico"
+  ],
+  [
+    "hair",
+    14,
+    "https://www.theguardian.com/fashion/2026/sep/08/phoebe-bridgers-venice-festival-leg-armpit-hair-women-beauty-shaving"
   ],
   [
     "guide",
@@ -211,94 +216,109 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/08/dash-my-mug-deluxe-gelato-ice-cream-maker-soft-serve-machine-review"
   ],
   [
-    "school",
-    14,
-    "https://www.theguardian.com/sport/2026/sep/07/belichick-denies-he-has-lost-control-of-unc-football-program-amid-off-field-turmoil"
-  ],
-  [
-    "bunch",
-    13,
-    "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-secretary-lonnie-bunch-resigns.html"
-  ],
-  [
-    "party",
-    13,
-    "https://www.nytimes.com/2026/09/08/us/politics/democrats-ai-pac.html"
-  ],
-  [
-    "ice",
-    13,
-    "https://www.washingtonpost.com/politics/2026/09/08/rare-charges-against-agent-highlight-broader-retreat-ice-shooting-probes/"
-  ],
-  [
-    "term",
-    13,
-    "https://www.washingtonpost.com/politics/2026/09/08/rare-charges-against-agent-highlight-broader-retreat-ice-shooting-probes/"
-  ],
-  [
-    "released",
-    13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "government",
-    13,
-    "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing"
-  ],
-  [
-    "review",
-    13,
-    "https://www.theguardian.com/film/2026/sep/08/elon-musk-ashley-st-clair-documentary-venice"
-  ],
-  [
-    "because",
-    13,
-    "https://www.theguardian.com/film/2026/sep/08/elon-musk-ashley-st-clair-documentary-venice"
-  ],
-  [
-    "control",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/07/trump-administration-attacks-uk-social-media-plans"
-  ],
-  [
-    "members",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/07/labor-unions-membership-increase"
-  ],
-  [
     "fewer",
-    13,
+    14,
     "https://www.theguardian.com/thefilter-us/2026/sep/08/dash-my-mug-deluxe-gelato-ice-cream-maker-soft-serve-machine-review"
   ],
   [
-    "harry",
+    "review",
+    14,
+    "https://www.theguardian.com/film/2026/sep/08/practical-magic-2-movie-review"
+  ],
+  [
+    "hampshire",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/08/new-hampshire-primary-democrats-republicans"
+  ],
+  [
+    "tariffs",
+    14,
+    "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump"
+  ],
+  [
+    "running",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/aug/23/best-womens-trail-road-running-shoes"
+  ],
+  [
+    "health",
     13,
-    "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live"
+    "https://www.nytimes.com/2026/09/08/well/rfk-jr-maha-report-childrens-health.html"
   ],
   [
-    "british",
+    "latest",
     13,
-    "https://www.theguardian.com/sport/2026/sep/08/vuelta-a-espana-matthew-brennan-four-timer-stage-16"
+    "https://www.nytimes.com/2026/09/08/style/trump-space-force-uniforms-starship-troopers.html"
   ],
   [
-    "cbs",
+    "ago",
     13,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-09-03/norah-odonnell-returns-to-cbs-mornings-as-co-host"
+    "https://www.nytimes.com/2026/09/08/us/politics/sept11-victims-memorial.html"
   ],
   [
-    "goods",
-    12,
-    "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
+    "office",
+    13,
+    "https://www.nytimes.com/2026/09/08/us/politics/paxton-whistleblower-talarico-ad.html"
   ],
   [
-    "iran",
-    12,
-    "https://www.nytimes.com/2026/09/08/business/stock-market-interest-rates.html"
+    "effect",
+    13,
+    "https://www.washingtonpost.com/business/2026/09/08/trump-threatens-ban-bombardier-jet-sales-canadas-tariffs-take-effect/"
   ],
   [
-    "smithsonian",
+    "lindsay",
+    13,
+    "https://www.washingtonpost.com/politics/2026/09/08/lindsay-clancys-attorney-makes-public-plea-trump-pardon/"
+  ],
+  [
+    "far",
+    13,
+    "https://www.washingtonpost.com/business/2026/09/05/mortgage-lending-standards-us-are-too-strict-pew-report-argues/"
+  ],
+  [
+    "north",
+    13,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "love",
+    13,
+    "https://www.theguardian.com/film/2026/sep/08/practical-magic-2-movie-review"
+  ],
+  [
+    "dead",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/08/amazon-cargo-plane-crash-victims"
+  ],
+  [
+    "primary",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/08/new-hampshire-primary-democrats-republicans"
+  ],
+  [
+    "settlements",
     12,
-    "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-secretary-lonnie-bunch-resigns.html"
+    "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html"
+  ],
+  [
+    "announced",
+    12,
+    "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html"
+  ],
+  [
+    "west",
+    12,
+    "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html"
+  ],
+  [
+    "openai",
+    12,
+    "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html"
+  ],
+  [
+    "senate",
+    12,
+    "https://www.nytimes.com/2026/09/08/us/politics/republican-senate-candidates-trump-convention.html"
   ],
   [
     "others",
@@ -306,73 +326,53 @@
     "https://www.nytimes.com/2026/09/08/us/politics/republican-senate-candidates-trump-convention.html"
   ],
   [
-    "office",
+    "death",
     12,
-    "https://www.nytimes.com/2026/09/08/us/politics/paxton-whistleblower-talarico-ad.html"
+    "https://www.nytimes.com/2026/09/08/opinion/911-twin-towers-life-death.html"
   ],
   [
-    "children",
-    12,
-    "https://www.nytimes.com/2026/09/08/well/rfk-jr-maha-report-childrens-health.html"
-  ],
-  [
-    "health",
-    12,
-    "https://www.nytimes.com/2026/09/08/well/rfk-jr-maha-report-childrens-health.html"
-  ],
-  [
-    "california",
-    12,
-    "https://www.washingtonpost.com/nation/2026/09/08/little-known-tale-behind-one-only-planes-allowed-fly-after-911/"
-  ],
-  [
-    "little",
+    "ice",
     12,
     "https://www.washingtonpost.com/politics/2026/09/08/rare-charges-against-agent-highlight-broader-retreat-ice-shooting-probes/"
   ],
   [
-    "country",
+    "case",
     12,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.washingtonpost.com/politics/2026/09/08/rare-charges-against-agent-highlight-broader-retreat-ice-shooting-probes/"
+  ],
+  [
+    "cargo",
+    12,
+    "https://www.washingtonpost.com/transportation/2026/09/07/van-carrying-seven-people-among-two-vehicles-crushed-by-amazon-cargo-plane-miami/"
+  ],
+  [
+    "airport",
+    12,
+    "https://www.washingtonpost.com/transportation/2026/09/07/van-carrying-seven-people-among-two-vehicles-crushed-by-amazon-cargo-plane-miami/"
+  ],
+  [
+    "released",
+    12,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "least",
+    12,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "support",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/08/america-gulf-lake-state-donald-trump-renaming-new-mexico"
+  ],
+  [
+    "name",
+    12,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/08/south-park-changes-name-to-south-america-trump"
   ],
   [
     "science",
     12,
-    "https://www.theguardian.com/culture/2026/sep/08/star-trek-at-60-william-shatner"
-  ],
-  [
-    "really",
-    12,
-    "https://www.theguardian.com/culture/2026/sep/08/star-trek-at-60-william-shatner"
-  ],
-  [
-    "shop",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/08/san-diego-taxidermy-museum"
-  ],
-  [
-    "london",
-    12,
-    "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live"
-  ],
-  [
-    "dead",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/07/illinois-woman-charged-lindsay-clancy-trial"
-  ],
-  [
-    "feel",
-    12,
-    "https://www.theguardian.com/books/2026/sep/08/she-blazed-in-and-opened-my-eyes-to-the-real-world-readers-remember-gloria-steinem"
-  ],
-  [
-    "missing",
-    12,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/07/a-crucial-look-at-the-disappearance-of-austin-tice-best-podcasts-of-the-week"
-  ],
-  [
-    "south",
-    11,
-    "https://www.nytimes.com/2026/09/08/arts/renoir-museum-artworks-theft-france.html"
+    "https://www.theguardian.com/science/video/2026/sep/08/are-rich-people-really-worse-behaved-heres-the-science-video"
   ]
 ];
