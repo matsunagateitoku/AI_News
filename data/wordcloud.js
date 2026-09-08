@@ -2,76 +2,71 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    65,
-    "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html"
-  ],
-  [
-    "far",
-    35,
-    "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html"
+    69,
+    "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
   ],
   [
     "president",
-    34,
-    "https://www.nytimes.com/2026/09/07/us/politics/trump-dc-makeover-projects.html"
+    42,
+    "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
   ],
   [
     "labor",
-    34,
+    33,
     "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html"
   ],
   [
     "family",
-    31,
+    33,
     "https://www.theguardian.com/sport/2026/sep/07/us-open-tennis-influencers-noise-weed"
   ],
   [
-    "hurricane",
-    30,
-    "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic"
-  ],
-  [
-    "party",
-    27,
-    "https://www.nytimes.com/2026/09/07/us/trump-tariffs-iran-congress-colorado.html"
-  ],
-  [
     "american",
-    26,
-    "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html"
+    30,
+    "https://www.nytimes.com/2026/09/07/nyregion/west-indian-american-parade-haitians.html"
   ],
   [
     "war",
-    26,
-    "https://www.nytimes.com/2026/09/07/us/trump-tariffs-iran-congress-colorado.html"
+    28,
+    "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
   ],
   [
-    "amazon",
-    23,
-    "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html"
+    "far",
+    26,
+    "https://www.nytimes.com/2026/09/07/us/california-black-bears.html"
   ],
   [
     "plane",
-    22,
+    25,
     "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html"
   ],
   [
     "food",
-    21,
+    25,
     "https://www.nytimes.com/2026/09/07/us/california-black-bears.html"
   ],
   [
-    "political",
-    21,
-    "https://www.theguardian.com/us-news/2026/sep/07/hhs-report-trans-support-authoritarianism"
-  ],
-  [
-    "country",
-    20,
-    "https://www.nytimes.com/2026/09/07/us/trump-tariffs-iran-congress-colorado.html"
+    "amazon",
+    24,
+    "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html"
   ],
   [
     "cargo",
+    23,
+    "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html"
+  ],
+  [
+    "media",
+    21,
+    "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html"
+  ],
+  [
+    "country",
+    21,
+    "https://www.nytimes.com/2026/09/07/business/china-social-media-pessimism.html"
+  ],
+  [
+    "miami",
     20,
     "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html"
   ],
@@ -81,9 +76,19 @@
     "https://www.theguardian.com/football/2026/sep/07/cbss-champions-league-studio-panel-are-back-and-ready-to-irritate-each-other"
   ],
   [
-    "water",
+    "film",
     19,
-    "https://www.theguardian.com/thefilter-us/2026/sep/07/zojirushi-water-warmer-and-dispenser-review"
+    "https://www.nytimes.com/2026/09/07/movies/france-south-korea-film-industry-hollywood.html"
+  ],
+  [
+    "game",
+    19,
+    "https://www.theguardian.com/sport/2026/sep/07/ronald-acuna-jr-hancel-rincon-umpire-tilted-cap-baseball"
+  ],
+  [
+    "political",
+    19,
+    "https://www.theguardian.com/world/2026/sep/08/ukraine-war-briefing-new-political-turmoil-in-kyiv-as-prosecutor-general-resigns"
   ],
   [
     "democrats",
@@ -91,69 +96,69 @@
     "https://www.nytimes.com/2026/09/07/us/amy-klobuchar-governor-minnesota.html"
   ],
   [
-    "school",
+    "water",
     18,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/08/a-job-that-changed-me-i-went-off-the-rails-in-school-and-worked-nights-at-a-blast-furnace-it-was-like-gazing-into-the-fiery-pit-of-hell"
+    "https://www.theguardian.com/thefilter-us/2026/sep/07/zojirushi-water-warmer-and-dispenser-review"
   ],
   [
-    "media",
-    17,
-    "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html"
+    "company",
+    18,
+    "https://www.theguardian.com/uk-news/2026/sep/08/argentina-criminal-charges-navitas-petroleum-falkland-islands-drilling"
   ],
   [
-    "miami",
-    17,
-    "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html"
-  ],
-  [
-    "early",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "game",
-    17,
-    "https://www.theguardian.com/sport/2026/sep/07/ronald-acuna-jr-hancel-rincon-umpire-tilted-cap-baseball"
-  ],
-  [
-    "control",
-    17,
-    "https://www.theguardian.com/us-news/2026/sep/07/trump-administration-attacks-uk-social-media-plans"
-  ],
-  [
-    "election",
-    16,
-    "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html"
+    "hurricane",
+    18,
+    "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency"
   ],
   [
     "crash",
-    16,
+    17,
     "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html"
   ],
   [
-    "lost",
-    16,
-    "https://www.nytimes.com/2026/09/07/us/amy-klobuchar-governor-minnesota.html"
+    "party",
+    17,
+    "https://www.nytimes.com/2026/09/07/business/china-social-media-pessimism.html"
   ],
   [
     "north",
-    16,
+    17,
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "death",
+    "mother",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/sep/07/zojirushi-water-warmer-and-dispenser-review"
+  ],
+  [
+    "dead",
+    17,
+    "https://www.theguardian.com/us-news/2026/sep/07/illinois-woman-charged-lindsay-clancy-trial"
+  ],
+  [
+    "air",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/07/death-of-hello-gen-z-and-scammers"
+    "https://www.nytimes.com/2026/09/07/nyregion/sept-11-air-quality-cancer.html"
   ],
   [
-    "win",
-    15,
-    "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html"
+    "don",
+    16,
+    "https://www.theguardian.com/stage/2026/sep/08/thelma-and-louise-writer-prey-musical-callie-khouri"
   ],
   [
-    "midterm",
+    "airport",
     15,
-    "https://www.nytimes.com/2026/09/07/us/politics/midterms-key-races-to-watch.html"
+    "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html"
+  ],
+  [
+    "vehicles",
+    15,
+    "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html"
+  ],
+  [
+    "social",
+    15,
+    "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html"
   ],
   [
     "working",
@@ -161,74 +166,54 @@
     "https://www.nytimes.com/2026/09/07/business/china-social-media-pessimism.html"
   ],
   [
-    "despite",
+    "case",
     15,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.theguardian.com/commentisfree/2026/sep/07/lindsay-clancy-case-rorschach-test"
   ],
   [
-    "mother",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/sep/07/zojirushi-water-warmer-and-dispenser-review"
-  ],
-  [
-    "again",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/07/republican-midterm-convention-trump"
-  ],
-  [
-    "late",
+    "international",
     15,
     "https://www.theguardian.com/us-news/2026/sep/07/amazon-cargo-plane-crash-miami-airport"
   ],
   [
-    "lowell",
+    "because",
     15,
-    "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic"
+    "https://www.theguardian.com/world/2026/sep/08/nepal-tibet-flood-disaster-china-clean-internet-media-censorship-suppression"
+  ],
+  [
+    "school",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/08/a-job-that-changed-me-i-went-off-the-rails-in-school-and-worked-nights-at-a-blast-furnace-it-was-like-gazing-into-the-fiery-pit-of-hell"
   ],
   [
     "games",
     15,
-    "https://www.theguardian.com/sport/2026/sep/07/zheng-qinwen-erases-another-5-0-deficit-to-stun-swiatek-and-reach-us-open-quarter-finals"
+    "https://www.theguardian.com/football/2026/sep/07/mauricio-pochettino-usmnt-soccer-head-coach"
   ],
   [
-    "film",
-    15,
-    "https://www.theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say"
-  ],
-  [
-    "mexico",
+    "government",
     14,
-    "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html"
+    "https://www.nytimes.com/2026/09/07/us/amy-klobuchar-governor-minnesota.html"
   ],
   [
-    "latest",
+    "fall",
     14,
-    "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html"
+    "https://www.nytimes.com/2026/09/07/us/politics/midterms-key-races-to-watch.html"
   ],
   [
-    "victory",
+    "iran",
     14,
-    "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html"
+    "https://www.nytimes.com/2026/09/07/us/politics/midterms-key-races-to-watch.html"
   ],
   [
-    "airport",
+    "early",
     14,
-    "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html"
-  ],
-  [
-    "weekend",
-    14,
-    "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "several",
     14,
-    "https://www.nytimes.com/2026/09/06/us/miami-plane-crash-what-we-know.html"
-  ],
-  [
-    "states",
-    14,
-    "https://www.washingtonpost.com/business/2026/09/06/us-is-not-only-country-grappling-with-soaring-debt/"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
     "guide",
@@ -236,44 +221,44 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/07/zojirushi-water-warmer-and-dispenser-review"
   ],
   [
-    "judge",
+    "met",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/07/former-louisiana-mayor-misty-robert-completes-jail-sentence"
+    "https://www.theguardian.com/us-news/2026/sep/07/strangers-twin-towers-escape-september-11"
   ],
   [
-    "season",
+    "south",
     14,
-    "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic"
+    "https://www.theguardian.com/us-news/2026/sep/07/strangers-twin-towers-escape-september-11"
+  ],
+  [
+    "died",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/07/strangers-twin-towers-escape-september-11"
+  ],
+  [
+    "court",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/07/illinois-woman-charged-lindsay-clancy-trial"
+  ],
+  [
+    "nuclear",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/08/the-pest-ill-never-forget-cockroaches-everywhere-wine-glasses"
+  ],
+  [
+    "control",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/08/the-pest-ill-never-forget-cockroaches-everywhere-wine-glasses"
   ],
   [
     "festival",
     14,
-    "https://www.theguardian.com/media/gallery/2026/sep/07/visa-pour-limage-perpignan-festival-of-photojournalism-2026-in-pictures"
+    "https://www.theguardian.com/music/2026/sep/07/timpani-philharmonia-orchestra-virtual-headset-william-tell"
   ],
   [
-    "because",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/sep/07/afd-win-germany-far-right-europe-democracy"
-  ],
-  [
-    "children",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/sep/07/why-does-the-hard-right-have-such-a-high-tolerance-for-domestic-abusers-in-their-midst"
-  ],
-  [
-    "fashion",
-    14,
-    "https://www.theguardian.com/football/2026/sep/07/mauricio-pochettino-usmnt-soccer-head-coach"
-  ],
-  [
-    "dead",
-    14,
-    "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico"
-  ],
-  [
-    "germany",
+    "tariffs",
     13,
-    "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html"
+    "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
   ],
   [
     "search",
@@ -281,14 +266,29 @@
     "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html"
   ],
   [
-    "california",
+    "mexico",
     13,
-    "https://www.nytimes.com/2026/09/07/us/california-black-bears.html"
+    "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html"
+  ],
+  [
+    "lost",
+    13,
+    "https://www.nytimes.com/2026/09/07/us/amy-klobuchar-governor-minnesota.html"
+  ],
+  [
+    "china",
+    13,
+    "https://www.nytimes.com/2026/09/07/business/china-social-media-pessimism.html"
   ],
   [
     "republicans",
     13,
     "https://www.washingtonpost.com/business/2026/09/08/social-security-fund-runs-dry-some-republicans-say-its-time-raise-taxes/"
+  ],
+  [
+    "workers",
+    13,
+    "https://www.washingtonpost.com/nation/2026/09/06/amazon-cargo-plane-crashes-after-veering-off-runway-miami-airport/"
   ],
   [
     "full",
@@ -301,19 +301,14 @@
     "https://www.theguardian.com/sport/2026/sep/07/us-open-tennis-influencers-noise-weed"
   ],
   [
-    "different",
+    "election",
     13,
-    "https://www.theguardian.com/sport/2026/sep/07/us-open-tennis-influencers-noise-weed"
+    "https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy"
   ],
   [
-    "met",
+    "late",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/07/strangers-twin-towers-escape-september-11"
-  ],
-  [
-    "south",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/07/strangers-twin-towers-escape-september-11"
+    "https://www.theguardian.com/us-news/2026/sep/07/amazon-cargo-plane-crash-miami-airport"
   ],
   [
     "support",
@@ -326,29 +321,14 @@
     "https://www.theguardian.com/us-news/2026/sep/07/hhs-report-trans-support-authoritarianism"
   ],
   [
-    "nuclear",
-    13,
-    "https://www.theguardian.com/world/2026/sep/07/syrian-reactor-could-nuclear-weapons-if-completed-un"
-  ],
-  [
-    "international",
-    13,
-    "https://www.theguardian.com/world/2026/sep/07/syrian-reactor-could-nuclear-weapons-if-completed-un"
-  ],
-  [
-    "stop",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/07/amazon-cargo-plane-crash-miami-airport"
-  ],
-  [
-    "court",
+    "judge",
     13,
     "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting"
   ],
   [
-    "record",
+    "won",
     13,
-    "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic"
+    "https://www.theguardian.com/stage/2026/sep/08/thelma-and-louise-writer-prey-musical-callie-khouri"
   ],
   [
     "hard",
@@ -356,23 +336,43 @@
     "https://www.theguardian.com/artanddesign/2026/sep/07/breath-liz-larner-hair-lashes-nasa-asteroids"
   ],
   [
-    "company",
+    "death",
     13,
-    "https://www.theguardian.com/world/2026/sep/07/ukraine-seeks-to-seize-water-company-owned-by-billionaire-family-of-british-theatre-mogul"
+    "https://www.theguardian.com/commentisfree/2026/sep/08/we-have-fact-sheets-for-many-health-conditions-why-isnt-there-one-for-what-to-do-on-the-day-your-loved-one-dies"
   ],
   [
-    "voters",
+    "weekend",
     12,
-    "https://www.nytimes.com/2026/09/07/us/trump-tariffs-iran-congress-colorado.html"
+    "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html"
   ],
   [
-    "fall",
+    "latest",
     12,
-    "https://www.nytimes.com/2026/09/07/us/politics/midterms-key-races-to-watch.html"
+    "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html"
   ],
   [
-    "iran",
+    "los",
     12,
-    "https://www.nytimes.com/2026/09/07/us/politics/midterms-key-races-to-watch.html"
+    "https://www.nytimes.com/2026/09/07/us/california-black-bears.html"
+  ],
+  [
+    "california",
+    12,
+    "https://www.nytimes.com/2026/09/07/us/california-black-bears.html"
+  ],
+  [
+    "safety",
+    12,
+    "https://www.washingtonpost.com/transportation/2026/09/07/van-carrying-seven-people-among-two-vehicles-crushed-by-amazon-cargo-plane-miami/"
+  ],
+  [
+    "states",
+    12,
+    "https://www.washingtonpost.com/business/2026/09/06/us-is-not-only-country-grappling-with-soaring-debt/"
+  ],
+  [
+    "israel",
+    12,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ]
 ];

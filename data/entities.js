@@ -3,9 +3,15 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 19,
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union",
+      "count": 25,
+      "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
       "source": "The Guardian"
+    },
+    {
+      "name": "Lindsay Clancy Case Ends",
+      "count": 8,
+      "url": "https://www.today.com/video/will-lindsay-clancy-be-tried-again-after-mistrial-269428805910",
+      "source": "NBC News"
     },
     {
       "name": "Anna Wintour",
@@ -14,34 +20,28 @@
       "source": "The Guardian"
     },
     {
-      "name": "Amy Acton",
+      "name": "Rudy Giuliani",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/sep/06/amy-acton-ohio-governor-candidate-attack",
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/911-ceremony-giuliani-mamdani",
       "source": "The Guardian"
     },
     {
-      "name": "Zheng Qinwen",
+      "name": "Elizabeth Holmes",
       "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/sep/07/zheng-qinwen-erases-another-5-0-deficit-to-stun-swiatek-and-reach-us-open-quarter-finals",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-09-07/nathan-fielder-elizabeth-holmes-doc-you-can-see-everything-surprises-telluride",
+      "source": "LA Times"
     },
     {
-      "name": "Prince Harry",
+      "name": "Steve Witkoff",
       "count": 6,
-      "url": "https://www.cbsnews.com/news/king-charles-prince-harry-meghan-private-citizens-uk-return/",
-      "source": "CBS News"
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+      "source": "NPR"
     },
     {
-      "name": "Lindsay Clancy Case Ends",
-      "count": 6,
-      "url": "https://www.today.com/video/will-lindsay-clancy-be-tried-again-after-mistrial-269428805910",
-      "source": "NBC News"
-    },
-    {
-      "name": "Gloria Steinem",
+      "name": "Zohran Mamdani",
       "count": 5,
-      "url": "https://www.nytimes.com/2026/09/07/opinion/gloria-steinem-aging-feminism.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/911-ceremony-giuliani-mamdani",
+      "source": "The Guardian"
     },
     {
       "name": "Paul Smith",
@@ -50,22 +50,84 @@
       "source": "The Guardian"
     },
     {
-      "name": "Erika Kirk",
+      "name": "Prince Harry",
       "count": 5,
-      "url": "https://www.foxnews.com/media/erika-kirk-reflects-first-year-grief-charlie-kirk-assassination-nyt-essay",
-      "source": "Fox News"
+      "url": "https://www.cbsnews.com/news/king-charles-prince-harry-meghan-private-citizens-uk-return/",
+      "source": "CBS News"
     },
     {
-      "name": "Jimmy Carter",
+      "name": "Nathan Fielder",
       "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/republican-midterm-convention-trump",
+      "url": "https://www.nytimes.com/2026/09/07/movies/elizabeth-holmes-documentary-nathan-fielder-a24.html",
+      "source": "NY Times"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 62,
+      "url": "https://www.theguardian.com/sport/2026/sep/07/us-open-tennis-influencers-noise-weed",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 23,
+      "url": "https://www.theguardian.com/politics/ng-interactive/2026/sep/08/how-a-black-clad-christian-vigilante-group-swarmed-portsmouth",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/09/06/world/americas/haiti-deportees.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "China",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/09/07/business/china-social-media-pessimism.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Germany",
+      "count": 15,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Iran",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/09/07/us/politics/midterms-key-races-to-watch.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Miami",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/09/07/us/miami-crash-emas-buffer-runways.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Canada",
+      "count": 11,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Baja California",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hawaii",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Trump Relishes Renovation Projects",
-      "count": 42,
+      "count": 43,
       "url": "https://www.nytimes.com/2026/09/07/us/politics/trump-dc-makeover-projects.html",
       "source": "NY Times"
     },
@@ -77,15 +139,9 @@
     },
     {
       "name": "Ai Overviews",
-      "count": 15,
+      "count": 13,
       "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
       "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News",
-      "count": 12,
-      "url": "https://www.cbsnews.com/video/fall-television-season-set-to-begin/",
-      "source": "CBS News"
     },
     {
       "name": "The Filter Us",
@@ -95,14 +151,26 @@
     },
     {
       "name": "Gop Senate",
-      "count": 8,
+      "count": 9,
       "url": "https://www.politico.com/news/2026/08/25/darline-graham-wins-south-carolina-senate-runoff-01050320",
       "source": "Politico"
     },
     {
+      "name": "Ntsb",
+      "count": 8,
+      "url": "https://www.washingtonpost.com/transportation/2026/09/07/van-carrying-seven-people-among-two-vehicles-crushed-by-amazon-cargo-plane-miami/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Cbs News'",
+      "count": 8,
+      "url": "https://www.cbsnews.com/video/state-of-emergency-hawaii-hurricane-lowell-approaches/",
+      "source": "CBS News"
+    },
+    {
       "name": "Guardian",
       "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/07/reform-uk-nigel-farage-scandals",
+      "url": "https://www.theguardian.com/science/audio/2026/sep/08/ig-noble-prizes-rich-people-worse-behaved-science-podcast",
       "source": "The Guardian"
     },
     {
@@ -114,38 +182,32 @@
     {
       "name": "Saxony-Anhalt",
       "count": 6,
-      "url": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The U.S. Senate",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/josh-turek-iowa-senate-race.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "Hurricane Lowell",
-      "count": 10,
-      "url": "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic",
-      "source": "The Guardian"
+      "name": "Hurricane Lowell Barrels",
+      "count": 9,
+      "url": "https://www.nbcnews.com/nightly-news/video/hurricane-lowell-barrels-towards-hawaii-269456453579",
+      "source": "NBC News"
     },
     {
       "name": "Labor Day Weekend",
-      "count": 5,
-      "url": "https://www.theguardian.com/thefilter-us/2026/aug/28/best-labor-day-sales-deals",
-      "source": "The Guardian"
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html",
+      "source": "NY Times"
     },
     {
-      "name": "The Super Bowl",
-      "count": 4,
-      "url": "https://www.latimes.com/sports/rams/story/2026-09-06/rams-will-go-undefeated-win-super-bowl-title",
+      "name": "First Super Bowl",
+      "count": 3,
+      "url": "https://www.latimes.com/sports/story/2026-09-06/nfl-grand-expectations-sofi-stadium-super-bowl",
       "source": "LA Times"
     },
     {
       "name": "The Us Open",
-      "count": 3,
+      "count": 2,
       "url": "https://www.theguardian.com/sport/2026/sep/07/us-open-tennis-influencers-noise-weed",
       "source": "The Guardian"
     },
@@ -156,10 +218,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "Portsmouth",
+      "name": "The Super Bowl",
       "count": 2,
-      "url": "https://www.theguardian.com/news/video/2026/sep/07/who-is-the-man-behind-thuggish-far-right-protests-in-dover-and-portsmouth-the-latest",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/sports/rams/story/2026-09-06/rams-will-go-undefeated-win-super-bowl-title",
+      "source": "LA Times"
+    },
+    {
+      "name": "Trade War Intensifies",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html",
+      "source": "NY Times"
     },
     {
       "name": "The Australian Open",
@@ -178,75 +246,7 @@
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/sep/07/ronald-acuna-jr-hancel-rincon-umpire-tilted-cap-baseball",
       "source": "The Guardian"
-    },
-    {
-      "name": "Hurricane Karina",
-      "count": 1,
-      "url": "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic",
-      "source": "The Guardian"
     }
   ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 55,
-      "url": "https://www.theguardian.com/sport/2026/sep/07/us-open-tennis-influencers-noise-weed",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 23,
-      "url": "https://www.washingtonpost.com/business/2026/09/06/us-is-not-only-country-grappling-with-soaring-debt/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Uk",
-      "count": 21,
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-administration-attacks-uk-social-media-plans",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Germany",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New Mexico",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/nation/2026/09/07/new-mexico-promised-free-child-care-all-many-families-are-still-waiting/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Baja California",
-      "count": 13,
-      "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
-      "source": "The Guardian"
-    },
-    {
-      "name": "China",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/09/07/business/china-social-media-pessimism.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/09/07/us/politics/midterms-key-races-to-watch.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Hawaii",
-      "count": 11,
-      "url": "https://www.theguardian.com/environment/2026/sep/04/weather-tracker-hurricanes-pacific-none-yet-in-atlantic",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Los Angeles",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/09/07/us/california-black-bears.html",
-      "source": "NY Times"
-    }
-  ],
-  "updated": "2026-09-07T21:56:35Z"
+  "updated": "2026-09-08T05:45:00Z"
 };
