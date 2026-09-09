@@ -2,22 +2,34 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Tries To Rule The Institution",
-      "count": 54,
-      "url": "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-secretary-lonnie-bunch-resigns.html",
+      "name": "Trump Awards Medal Of Freedom To",
+      "count": 59,
+      "url": "https://www.nytimes.com/2026/09/08/us/politics/trump-welles-crowther-sept-11-red-bandanna.html",
       "source": "NY Times"
     },
     {
-      "name": "Amazon Mgm Studios",
-      "count": 18,
-      "url": "https://www.theguardian.com/film/2026/sep/08/andrew-garfield-sam-altman-artificial-movie-openai",
+      "name": "The White House",
+      "count": 21,
+      "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
       "source": "The Guardian"
     },
     {
-      "name": "Ai Overviews",
-      "count": 17,
-      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
-      "source": "The Guardian"
+      "name": "Gop Senate",
+      "count": 21,
+      "url": "https://www.politico.com/news/2026/08/25/darline-graham-wins-south-carolina-senate-runoff-01050320",
+      "source": "Politico"
+    },
+    {
+      "name": "The U.S. Senate",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-republican-senate-primary.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Amazon Cargo Jet Pilots Appeared",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/09/09/us/politics/dc-miami-crash-ntsb.html",
+      "source": "NY Times"
     },
     {
       "name": "Guardian Faber Publishing",
@@ -26,10 +38,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "Maine Senate",
-      "count": 12,
-      "url": "https://www.foxnews.com/politics/government-land-grab-agenda-hits-key-senate-race-dem-backs-property-takeovers-echoing-mamdani",
-      "source": "Fox News"
+      "name": "The Missouri Supreme Court",
+      "count": 14,
+      "url": "https://www.nbcnews.com/politics/supreme-court/rejects-missouri-republicans-request-use-new-congressional-map-midterm-rcna596454",
+      "source": "NBC News"
+    },
+    {
+      "name": "Ai Overviews",
+      "count": 13,
+      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
@@ -38,152 +56,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Google Search",
-      "count": 10,
-      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Supreme Court",
+      "name": "Nfl",
       "count": 8,
-      "url": "https://www.nytimes.com/2026/09/08/us/politics/trump-mail-voting-what-to-know-supreme-court.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "White House",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-secretary-lonnie-bunch-resigns.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Gop",
-      "count": 8,
-      "url": "https://www.washingtonpost.com/business/2026/09/08/social-security-fund-runs-dry-some-republicans-say-its-time-raise-taxes/",
-      "source": "Washington Post"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump ’S",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-new-mexico-rename-democrats",
+      "url": "https://www.theguardian.com/sport/2026/sep/09/nfl-2026-game-australia-rams-vs-49ers-melbourne-mcg-flag-football",
       "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 13,
-      "url": "https://www.washingtonpost.com/politics/2026/09/08/rare-charges-against-agent-highlight-broader-retreat-ice-shooting-probes/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Lindsay Clancy",
-      "count": 12,
-      "url": "https://www.washingtonpost.com/politics/2026/09/08/lindsay-clancys-attorney-makes-public-plea-trump-pardon/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Alex Gibney",
-      "count": 6,
-      "url": "https://www.theguardian.com/film/2026/sep/08/state-handouts-10000-lasers-and-trumps-election-six-things-we-learned-from-the-elon-musk-film",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Zohran Mamdani",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/911-ceremony-giuliani-mamdani",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Rudy Giuliani",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/911-ceremony-giuliani-mamdani",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ed Miliband",
-      "count": 5,
-      "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Chris Pappas",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/sep/08/new-hampshire-primary-democrats-republicans",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Caitlin Clark",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/sep/08/wnba-stalkers-basketball",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mark Verkerk",
-      "count": 5,
-      "url": "https://www.theguardian.com/film/2026/sep/07/sharks-film-stars-jacques-cousteau-north-sea-nature-untamed",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 50,
-      "url": "https://www.washingtonpost.com/politics/2026/09/08/dhs-asks-supreme-court-ok-use-social-security-data-verify-voting-eligibility/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "U.S.",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/09/08/world/europe/iceland-summon-ambassador-trump-map-greenland.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 21,
-      "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Canada",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 15,
-      "url": "https://www.washingtonpost.com/nation/2026/09/08/little-known-tale-behind-one-only-planes-allowed-fly-after-911/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "New Hampshire",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/sep/08/new-hampshire-primary-democrats-republicans",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Openai",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Miami",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/transportation/2026/09/07/van-carrying-seven-people-among-two-vehicles-crushed-by-amazon-cargo-plane-miami/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Great Britain",
-      "count": 10,
-      "url": "https://www.theguardian.com/environment/2026/sep/08/cities-great-britain-most-vulnerable-extreme-heat-revealed",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The West Bank",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
-      "source": "NY Times"
     }
   ],
   "EVENT": [
@@ -194,33 +70,27 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
+      "name": "The Sept. 11, 2001",
       "count": 2,
-      "url": "https://www.cbsnews.com/news/oil-prices-forecast-goldman-sachs-iran-war/",
-      "source": "CBS News"
+      "url": "https://www.npr.org/2026/09/09/g-s1-142480/tsa-gate-access-25-years-after-9-11",
+      "source": "NPR"
     },
     {
-      "name": "The Telluride Film Festival",
-      "count": 2,
-      "url": "https://www.today.com/video/nathan-fielder-s-secret-elizabeth-holmes-doc-shocks-viewers-269471813683",
-      "source": "NBC News"
-    },
-    {
-      "name": "The Brink Of War",
+      "name": "Brisbane 2032    Possibility",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Us Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/live/2026/sep/08/us-open-tennis-2026-quarter-finals-sabalenka-noskova-tiafoe-michelsen-live",
+      "url": "https://www.theguardian.com/sport/2026/sep/09/nfl-2026-game-australia-rams-vs-49ers-melbourne-mcg-flag-football",
       "source": "The Guardian"
     },
     {
-      "name": "Wimbledon",
+      "name": "The Brisbane Olympics",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/live/2026/sep/08/us-open-tennis-2026-quarter-finals-sabalenka-noskova-tiafoe-michelsen-live",
+      "url": "https://www.theguardian.com/sport/2026/sep/09/nfl-2026-game-australia-rams-vs-49ers-melbourne-mcg-flag-football",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Super Bowl",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/sep/08/san-francisco-49ers-jed-york-daejon-love-nfl",
       "source": "The Guardian"
     },
     {
@@ -236,17 +106,147 @@
       "source": "The Guardian"
     },
     {
-      "name": "Super Bowl",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/sep/08/san-francisco-49ers-jed-york-daejon-love-nfl",
-      "source": "The Guardian"
-    },
-    {
       "name": "Met Gala",
       "count": 1,
       "url": "https://www.theguardian.com/fashion/2026/sep/05/met-gala-john-galliano-anna-wintour",
       "source": "The Guardian"
+    },
+    {
+      "name": "The Great British Bake Off Guardian",
+      "count": 1,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/28/tell-us-about-the-tv-shows-that-that-have-turned-sour-for-you",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Series",
+      "count": 1,
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-09-08/october-bye-bye-dodgers-need-bye-to-save-shohei-ohtani",
+      "source": "LA Times"
     }
   ],
-  "updated": "2026-09-08T21:42:58Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 48,
+      "url": "https://www.washingtonpost.com/politics/2026/09/08/dhs-asks-supreme-court-ok-use-social-security-data-verify-voting-eligibility/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "U.S.",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Canada",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New Hampshire Senate",
+      "count": 22,
+      "url": "https://www.cbsnews.com/news/new-hampshire-senate-primary-results-chris-pappas-john-sununu/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Uk",
+      "count": 20,
+      "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/sep/08/air-quality-september-11-attacks-documents-release",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Missouri",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congressional-map.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 13,
+      "url": "https://www.washingtonpost.com/nation/2026/09/08/little-known-tale-behind-one-only-planes-allowed-fly-after-911/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Australia",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/sep/08/lindsay-clancy-juror-trial",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A.",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-09-08/l-a-s-record-level-humidity-can-make-you-sick-how-to-survive",
+      "source": "LA Times"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Chris Pappas",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/sep/08/new-hampshire-democratic-senate-primary",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 16,
+      "url": "https://www.washingtonpost.com/politics/2026/09/08/rare-charges-against-agent-highlight-broader-retreat-ice-shooting-probes/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Donald Trump ’S",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/sep/08/smithsonian-secretary-lonnie-bunch-retires",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Lindsay Clancy",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/09/08/us/jurors-lindsay-clancy-trial.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "John E. Sununu Wins",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-republican-senate-primary.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-republican-senate-primary.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Alex Gibney",
+      "count": 6,
+      "url": "https://www.theguardian.com/film/2026/sep/08/state-handouts-10000-lasers-and-trumps-election-six-things-we-learned-from-the-elon-musk-film",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/sep/08/air-quality-september-11-attacks-documents-release",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Anna Wintour",
+      "count": 6,
+      "url": "https://www.theguardian.com/fashion/2026/sep/05/met-gala-john-galliano-anna-wintour",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kelly Ayotte",
+      "count": 6,
+      "url": "https://www.foxnews.com/politics/incumbent-gop-governor-rolls-primary-victory-keeping-trump-distance",
+      "source": "Fox News"
+    }
+  ],
+  "updated": "2026-09-09T05:49:32Z"
 };
