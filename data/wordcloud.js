@@ -2,18 +2,13 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    90,
-    "https://www.nytimes.com/2026/09/08/us/politics/trump-supreme-court-dhs-citizenship.html"
-  ],
-  [
-    "court",
-    41,
-    "https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congressional-map.html"
+    94,
+    "https://www.nytimes.com/2026/09/09/podcasts/the-headlines/trump-republicans-texas-iran-us-warships.html"
   ],
   [
     "president",
-    39,
-    "https://www.nytimes.com/2026/09/08/us/lindsay-clancy-lawyer-trump-pardon-murder.html"
+    40,
+    "https://www.nytimes.com/2026/09/08/us/politics/trump-republicans-midterms-voters.html"
   ],
   [
     "war",
@@ -21,319 +16,284 @@
     "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html"
   ],
   [
-    "primary",
-    27,
-    "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-senate-pappas-manzur.html"
-  ],
-  [
     "republicans",
-    26,
-    "https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congressional-map.html"
-  ],
-  [
-    "senate",
-    26,
-    "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-senate-pappas-manzur.html"
+    30,
+    "https://www.nytimes.com/2026/09/09/podcasts/the-headlines/trump-republicans-texas-iran-us-warships.html"
   ],
   [
     "food",
-    26,
+    27,
     "https://www.theguardian.com/world/2026/sep/09/miserable-and-impossible-food-scarce-in-kyiv-ukraine-as-russia-targets-supply-chains"
   ],
   [
-    "hampshire",
-    25,
-    "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-senate-pappas-manzur.html"
-  ],
-  [
-    "attacks",
-    25,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "film",
-    24,
-    "https://www.theguardian.com/fashion/2026/sep/08/phoebe-bridgers-venice-festival-leg-armpit-hair-women-beauty-shaving"
-  ],
-  [
-    "democratic",
-    24,
-    "https://www.theguardian.com/us-news/2026/sep/08/new-hampshire-democratic-senate-primary"
-  ],
-  [
-    "water",
-    24,
-    "https://www.theguardian.com/us-news/2026/sep/08/mississippi-clean-water-case-constitutional-right"
-  ],
-  [
-    "pappas",
-    23,
-    "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-senate-pappas-manzur.html"
-  ],
-  [
-    "gop",
-    23,
-    "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-blocks-missouri-congressional-map-favoring-gop/"
-  ],
-  [
-    "american",
-    22,
-    "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-lonnie-bunch-departure-reaction.html"
-  ],
-  [
-    "plane",
-    21,
-    "https://www.nytimes.com/2026/09/09/us/politics/dc-miami-crash-ntsb.html"
+    "latest",
+    26,
+    "https://www.washingtonpost.com/business/2026/09/08/us-treasury-places-sanctions-dozens-iranian-airlines-pressure-tehran/"
   ],
   [
     "family",
-    21,
-    "https://www.theguardian.com/sport/2026/sep/08/university-iowa-marching-band-derek-phillips-heat-collapse"
+    25,
+    "https://www.nytimes.com/2026/09/09/us/jim-pillen-ice-nebraska-undocumented-workers.html"
   ],
   [
-    "air",
-    20,
-    "https://www.washingtonpost.com/transportation/2026/09/08/amazon-cargo-plane-appeared-consider-aborting-landing-before-miami-crash-investigators-say/"
+    "oil",
+    22,
+    "https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html"
+  ],
+  [
+    "court",
+    22,
+    "https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congressional-map.html"
+  ],
+  [
+    "gop",
+    22,
+    "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-blocks-missouri-congressional-map-favoring-gop/"
   ],
   [
     "don",
+    22,
+    "https://www.theguardian.com/books/2026/sep/09/all-about-my-mother-by-rachael-stirling-review-a-joyous-love-letter-to-diana-rigg"
+  ],
+  [
+    "game",
+    22,
+    "https://www.theguardian.com/sport/2026/sep/09/ben-shelton-dethrones-carlos-alcaraz-five-set-thriller-latest-us-open-tennis-finish"
+  ],
+  [
+    "democratic",
+    21,
+    "https://www.theguardian.com/us-news/2026/sep/09/republicans-midterm-convention-trump"
+  ],
+  [
+    "iran",
     20,
-    "https://www.theguardian.com/artanddesign/2026/sep/09/european-prize-urban-public-space-climate-crisis-architects"
+    "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html"
   ],
   [
-    "supreme",
-    19,
-    "https://www.nytimes.com/2026/09/08/us/politics/trump-supreme-court-dhs-citizenship.html"
+    "midterm",
+    20,
+    "https://www.nytimes.com/2026/09/08/us/politics/trump-republicans-midterms-voters.html"
   ],
   [
-    "trade",
-    19,
-    "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
+    "senate",
+    20,
+    "https://www.nytimes.com/2026/09/09/us/politics/new-hampshire-primaries-takeaways.html"
   ],
   [
-    "seat",
+    "convention",
+    20,
+    "https://www.theguardian.com/us-news/2026/sep/09/republicans-midterm-convention-trump"
+  ],
+  [
+    "air",
     19,
-    "https://www.washingtonpost.com/transportation/2026/09/07/seat-belt-chimes-are-meant-save-lives-some-people-still-resent-them/"
+    "https://www.washingtonpost.com/transportation/2026/09/08/amazon-cargo-plane-appeared-consider-aborting-landing-before-miami-crash-investigators-say/"
+  ],
+  [
+    "administration",
+    19,
+    "https://www.washingtonpost.com/business/2026/09/08/us-announces-ban-certain-canadian-imports-dairy-alcohol-other-products/"
+  ],
+  [
+    "water",
+    19,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/09/i-lost-everything-lost-my-friends-lost-my-legs-rob-pike-accident-changed-life"
   ],
   [
     "because",
     19,
-    "https://www.theguardian.com/media/2026/sep/08/60-minutes-managing-editor-facebook-post"
+    "https://www.theguardian.com/us-news/2026/sep/09/progressive-democrats-young-voters-midterms"
   ],
   [
-    "tariffs",
+    "pappas",
     18,
-    "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
+    "https://www.nytimes.com/2026/09/09/us/politics/new-hampshire-primaries-takeaways.html"
   ],
   [
-    "case",
+    "plane",
     18,
-    "https://www.washingtonpost.com/nation/2026/09/08/judge-rules-west-point-policy-restricting-professors-speech-is-unconstitutional/"
+    "https://www.nytimes.com/2026/09/09/us/politics/dc-miami-crash-ntsb.html"
   ],
   [
-    "york",
+    "trump's",
     18,
-    "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-rejects-mom-bid-son-school-vaccine-exemption-new-york/"
+    "https://www.washingtonpost.com/business/2026/09/08/trump-threatens-ban-bombardier-jet-sales-canadas-tariffs-take-effect/"
   ],
   [
-    "game",
-    18,
-    "https://www.theguardian.com/sport/live/2026/sep/08/ben-shelton-v-carlos-alcaraz-us-open-2026-quarter-final-live-updates"
-  ],
-  [
-    "missouri",
+    "primary",
     17,
-    "https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congressional-map.html"
+    "https://www.nytimes.com/2026/09/09/us/politics/new-hampshire-primaries-takeaways.html"
   ],
   [
-    "race",
+    "clancy",
     17,
-    "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-republican-senate-primary.html"
+    "https://www.nytimes.com/2026/09/08/us/jurors-lindsay-clancy-trial.html"
   ],
   [
-    "california",
+    "attacks",
     17,
-    "https://www.nytimes.com/2026/09/08/weather/southern-california-heat-wave-la.html"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "star",
+    "democrats",
     17,
-    "https://www.theguardian.com/film/2026/sep/08/practical-magic-2-movie-review"
+    "https://www.theguardian.com/us-news/2026/sep/09/republicans-midterm-convention-trump"
   ],
   [
-    "company",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/sep/08/openai-rogue-models-hugging-face-investigation"
-  ],
-  [
-    "chris",
+    "america",
     16,
-    "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-senate-pappas-manzur.html"
+    "https://www.nytimes.com/2026/09/09/opinion/911-flight-93-america-nation.html"
   ],
   [
-    "canada",
+    "voters",
     16,
-    "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
+    "https://www.washingtonpost.com/politics/2026/09/08/dhs-asks-supreme-court-ok-use-social-security-data-verify-voting-eligibility/"
   ],
   [
-    "latest",
+    "control",
     16,
-    "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
-  ],
-  [
-    "guide",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/sep/08/dash-my-mug-deluxe-gelato-ice-cream-maker-soft-serve-machine-review"
+    "https://www.theguardian.com/us-news/2026/sep/09/republicans-midterm-convention-trump"
   ],
   [
     "won",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/09/last-seen-review-gripping-apple-tv-thriller-standout-shows-2026"
+    "https://www.theguardian.com/us-news/2026/sep/09/progressive-democrats-young-voters-midterms"
   ],
   [
-    "map",
+    "company",
+    16,
+    "https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone"
+  ],
+  [
+    "hampshire",
     15,
-    "https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congressional-map.html"
+    "https://www.nytimes.com/2026/09/09/us/politics/new-hampshire-primaries-takeaways.html"
   ],
   [
-    "administration",
+    "john",
     15,
-    "https://www.nytimes.com/2026/09/08/us/politics/trump-supreme-court-dhs-citizenship.html"
+    "https://www.nytimes.com/2026/09/09/us/politics/new-hampshire-primaries-takeaways.html"
   ],
   [
-    "country",
+    "win",
     15,
-    "https://www.nytimes.com/2026/09/08/us/lindsay-clancy-lawyer-trump-pardon-murder.html"
+    "https://www.nytimes.com/2026/09/09/us/politics/new-hampshire-primaries-takeaways.html"
   ],
   [
-    "director",
+    "election",
     15,
-    "https://www.nytimes.com/2026/09/08/t-magazine/top-fashion-photographs.html"
+    "https://www.nytimes.com/2026/09/09/us/jim-pillen-ice-nebraska-undocumented-workers.html"
   ],
   [
-    "amazon",
-    15,
-    "https://www.nytimes.com/2026/09/09/us/politics/dc-miami-crash-ntsb.html"
-  ],
-  [
-    "feel",
-    15,
-    "https://www.nytimes.com/2026/09/09/world/asia/nepal-floods-usaid-trump-relief.html"
-  ],
-  [
-    "social",
+    "security",
     15,
     "https://www.washingtonpost.com/politics/2026/09/08/dhs-asks-supreme-court-ok-use-social-security-data-verify-voting-eligibility/"
   ],
   [
-    "donald",
+    "york",
     15,
-    "https://www.washingtonpost.com/politics/2026/09/08/rare-charges-against-agent-highlight-broader-retreat-ice-shooting-probes/"
+    "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-rejects-mom-bid-son-school-vaccine-exemption-new-york/"
   ],
   [
-    "support",
+    "california",
     15,
-    "https://www.theguardian.com/commentisfree/2026/sep/08/america-gulf-lake-state-donald-trump-renaming-new-mexico"
+    "https://www.washingtonpost.com/nation/2026/09/08/little-known-tale-behind-one-only-planes-allowed-fly-after-911/"
+  ],
+  [
+    "love",
+    15,
+    "https://www.theguardian.com/books/2026/sep/09/all-about-my-mother-by-rachael-stirling-review-a-joyous-love-letter-to-diana-rigg"
+  ],
+  [
+    "star",
+    15,
+    "https://www.theguardian.com/books/2026/sep/09/all-about-my-mother-by-rachael-stirling-review-a-joyous-love-letter-to-diana-rigg"
+  ],
+  [
+    "american",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/08/trump-labor-day-weekend-posts"
+  ],
+  [
+    "feel",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/sep/09/want-to-start-lazymaxxing-here-are-some-low-effort-ways-to-improve-your-life"
   ],
   [
     "hair",
     15,
-    "https://www.theguardian.com/fashion/2026/sep/08/phoebe-bridgers-venice-festival-leg-armpit-hair-women-beauty-shaving"
+    "https://www.theguardian.com/culture/2026/sep/07/how-mari-wilson-made-just-what-i-always-wanted-beehive"
   ],
   [
-    "ago",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/09/last-seen-review-gripping-apple-tv-thriller-standout-shows-2026"
-  ],
-  [
-    "democrats",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/sep/08/democrats-elections-affordability-accountability"
-  ],
-  [
-    "congressional",
+    "party",
     14,
-    "https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congressional-map.html"
+    "https://www.nytimes.com/2026/09/08/us/politics/trump-republicans-midterms-voters.html"
   ],
   [
-    "control",
+    "republican",
     14,
-    "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-republican-senate-primary.html"
+    "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html"
   ],
   [
-    "effect",
+    "lindsay",
     14,
-    "https://www.nytimes.com/2026/09/08/world/canada/carney-trump-canada-us-trade-war.html"
+    "https://www.nytimes.com/2026/09/08/us/jurors-lindsay-clancy-trial.html"
   ],
   [
-    "political",
+    "country",
     14,
-    "https://www.nytimes.com/2026/09/08/us/politics/trump-sept-11-firefighters.html"
+    "https://www.nytimes.com/2026/09/08/us/lindsay-clancy-lawyer-trump-pardon-murder.html"
   ],
   [
-    "mother",
+    "amazon",
     14,
-    "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-rejects-mom-bid-son-school-vaccine-exemption-new-york/"
+    "https://www.nytimes.com/2026/09/09/us/politics/dc-miami-crash-ntsb.html"
   ],
   [
-    "released",
+    "smith",
     14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.washingtonpost.com/weather/2026/09/09/family-awaits-news-search-continues-last-person-missing-grand-canyon/"
   ],
   [
-    "history",
+    "prices",
     14,
-    "https://www.theguardian.com/commentisfree/2026/sep/08/america-gulf-lake-state-donald-trump-renaming-new-mexico"
+    "https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery"
   ],
   [
-    "review",
+    "study",
     14,
-    "https://www.theguardian.com/film/2026/sep/08/practical-magic-2-movie-review"
+    "https://www.theguardian.com/society/2026/sep/09/hot-drinks-triples-risk-oesophageal-cancer-study"
   ],
   [
     "health",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/08/air-quality-september-11-attacks-documents-release"
+    "https://www.theguardian.com/commentisfree/2026/sep/09/want-to-start-lazymaxxing-here-are-some-low-effort-ways-to-improve-your-life"
   ],
   [
-    "season",
-    14,
-    "https://www.theguardian.com/sport/2026/sep/09/nfl-2026-game-australia-rams-vs-49ers-melbourne-mcg-flag-football"
-  ],
-  [
-    "clancy",
+    "start",
     13,
-    "https://www.nytimes.com/2026/09/08/us/jurors-lindsay-clancy-trial.html"
+    "https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html"
   ],
   [
-    "john",
+    "million",
     13,
-    "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-senate-pappas-manzur.html"
+    "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html"
   ],
   [
-    "sununu",
+    "review",
     13,
-    "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-senate-pappas-manzur.html"
+    "https://www.nytimes.com/2026/09/06/books/review/switzy-emma-cline.html"
   ],
   [
-    "republican",
+    "father",
     13,
-    "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-senate-pappas-manzur.html"
+    "https://www.nytimes.com/2026/09/09/opinion/911-flight-93-america-nation.html"
   ],
   [
-    "general",
+    "late",
     13,
-    "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-republican-senate-primary.html"
-  ],
-  [
-    "shaheen",
-    13,
-    "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-republican-senate-primary.html"
-  ],
-  [
-    "cargo",
-    13,
-    "https://www.nytimes.com/2026/09/09/us/politics/dc-miami-crash-ntsb.html"
+    "https://www.nytimes.com/2026/09/09/arts/television/jimmy-kimmel-trump-new-hair.html"
   ],
   [
     "miami",
@@ -341,19 +301,9 @@
     "https://www.nytimes.com/2026/09/09/us/politics/dc-miami-crash-ntsb.html"
   ],
   [
-    "campaign",
+    "ban",
     13,
-    "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-lonnie-bunch-departure-reaction.html"
-  ],
-  [
-    "america",
-    13,
-    "https://www.nytimes.com/2026/09/08/opinion/israel-us-elections-midterms-netanyahu-trump.html"
-  ],
-  [
-    "judge",
-    13,
-    "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-blocks-missouri-congressional-map-favoring-gop/"
+    "https://www.washingtonpost.com/business/2026/09/08/trump-threatens-ban-bombardier-jet-sales-canadas-tariffs-take-effect/"
   ],
   [
     "hard",
@@ -361,18 +311,68 @@
     "https://www.washingtonpost.com/business/2026/09/05/mortgage-lending-standards-us-are-too-strict-pew-report-argues/"
   ],
   [
-    "israeli",
+    "released",
     13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "border",
+    13,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "ago",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/sep/09/far-right-europe-afd-germany-nigel-farage"
+  ],
+  [
+    "car",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/09/i-lost-everything-lost-my-friends-lost-my-legs-rob-pike-accident-changed-life"
+  ],
+  [
+    "hot",
+    13,
+    "https://www.theguardian.com/society/2026/sep/09/hot-drinks-triples-risk-oesophageal-cancer-study"
+  ],
+  [
+    "film",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/09/a-killer-story-series-review"
   ],
   [
     "children",
     13,
-    "https://www.theguardian.com/film/2026/sep/08/state-handouts-10000-lasers-and-trumps-election-six-things-we-learned-from-the-elon-musk-film"
+    "https://www.theguardian.com/commentisfree/2026/sep/09/russia-raining-death-ukraines-women-children-hands-shake-keep-going-for-love"
   ],
   [
-    "money",
+    "guide",
     13,
-    "https://www.theguardian.com/film/2026/sep/08/state-handouts-10000-lasers-and-trumps-election-six-things-we-learned-from-the-elon-musk-film"
+    "https://www.theguardian.com/science/2026/sep/08/how-meteorologists-helped-recreate-one-of-historys-most-important-weather-forecasts"
+  ],
+  [
+    "art",
+    13,
+    "https://www.theguardian.com/games/2026/sep/02/pushing-buttons-newsletter-grand-theft-auto-vi-cultural-phenomenon"
+  ],
+  [
+    "cost",
+    12,
+    "https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html"
+  ],
+  [
+    "race",
+    12,
+    "https://www.nytimes.com/2026/09/09/us/politics/new-hampshire-primaries-takeaways.html"
+  ],
+  [
+    "trial",
+    12,
+    "https://www.nytimes.com/2026/09/08/us/jurors-lindsay-clancy-trial.html"
+  ],
+  [
+    "died",
+    12,
+    "https://www.nytimes.com/2026/09/09/opinion/911-flight-93-america-nation.html"
   ]
 ];
