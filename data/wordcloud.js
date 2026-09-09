@@ -2,203 +2,273 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    91,
-    "https://www.nytimes.com/2026/09/09/us/politics/trump-republican-midterm-convention.html"
+    92,
+    "https://www.nytimes.com/2026/09/09/us/politics/election-officials-confusion-mail-ballots.html"
   ],
   [
     "war",
-    34,
-    "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html"
-  ],
-  [
-    "food",
-    32,
-    "https://www.theguardian.com/commentisfree/2026/sep/09/gaza-ukraine-aid-workers-world-central-kitchen-workers-idf-geneva-conventions"
+    40,
+    "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html"
   ],
   [
     "president",
-    30,
-    "https://www.nytimes.com/2026/09/09/us/politics/trump-republican-midterm-convention.html"
-  ],
-  [
-    "game",
-    27,
-    "https://www.theguardian.com/sport/2026/sep/09/donald-trump-sports"
+    34,
+    "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html"
   ],
   [
     "court",
+    30,
+    "https://www.nytimes.com/2026/09/09/us/politics/election-officials-confusion-mail-ballots.html"
+  ],
+  [
+    "food",
     25,
-    "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-blocks-missouri-congressional-map-favoring-gop/"
+    "https://www.theguardian.com/commentisfree/2026/sep/09/gaza-ukraine-aid-workers-world-central-kitchen-workers-idf-geneva-conventions"
+  ],
+  [
+    "game",
+    23,
+    "https://www.theguardian.com/sport/live/2026/sep/09/us-open-tennis-2026-quarter-finals-rybakina-zheng-andreeva-gauff-blockx-khachanov-live"
+  ],
+  [
+    "iphone",
+    22,
+    "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html"
   ],
   [
     "oil",
-    22,
-    "https://www.nytimes.com/2026/09/09/business/saudi-arabia-houthis-red-sea-oil-shipping.html"
-  ],
-  [
-    "latest",
-    22,
-    "https://www.washingtonpost.com/business/2026/09/08/us-treasury-places-sanctions-dozens-iranian-airlines-pressure-tehran/"
-  ],
-  [
-    "don",
-    22,
-    "https://www.theguardian.com/us-news/2026/sep/09/us-military-pentagon-allies-ai"
-  ],
-  [
-    "administration",
     21,
-    "https://www.nytimes.com/2026/09/09/us/politics/trump-natalie-harp-cash-gift-martin-harris.html"
+    "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html"
   ],
   [
-    "family",
+    "convention",
     21,
-    "https://www.nytimes.com/2026/09/09/us/jim-pillen-ice-nebraska-undocumented-workers.html"
+    "https://www.nytimes.com/2026/09/09/us/politics/trump-republican-midterm-convention-gop-party.html"
   ],
   [
-    "california",
+    "apple",
     21,
-    "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html"
-  ],
-  [
-    "iran",
-    20,
-    "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html"
-  ],
-  [
-    "water",
-    20,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/09/i-lost-everything-lost-my-friends-lost-my-legs-rob-pike-accident-changed-life"
+    "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html"
   ],
   [
     "film",
-    19,
-    "https://www.nytimes.com/2026/09/09/movies/ai-tv-movies-robots-science-fiction.html"
+    21,
+    "https://www.theguardian.com/film/2026/sep/09/union-town-review-barbara-kopple-amazon-ups"
   ],
   [
-    "company",
-    19,
-    "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html"
+    "republican",
+    20,
+    "https://www.nytimes.com/2026/09/09/us/politics/trump-republican-midterm-convention-gop-party.html"
   ],
   [
-    "because",
+    "case",
+    20,
+    "https://www.washingtonpost.com/politics/2026/09/09/lindsay-clancy-case-holdout-juror-had-reasonable-doubt-foreperson-says/"
+  ],
+  [
+    "family",
+    20,
+    "https://www.washingtonpost.com/weather/2026/09/09/family-awaits-news-search-continues-last-person-missing-grand-canyon/"
+  ],
+  [
+    "clancy",
+    19,
+    "https://www.washingtonpost.com/politics/2026/09/09/lindsay-clancy-case-holdout-juror-had-reasonable-doubt-foreperson-says/"
+  ],
+  [
+    "california",
+    19,
+    "https://www.washingtonpost.com/nation/2026/09/08/little-known-tale-behind-one-only-planes-allowed-fly-after-911/"
+  ],
+  [
+    "dog",
+    19,
+    "https://www.theguardian.com/thefilter-us/ng-interactive/2026/sep/09/best-dog-toys-tools-tips-enrichment"
+  ],
+  [
+    "government",
     18,
-    "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction"
+    "https://www.nytimes.com/2026/09/09/business/economy/treasury-repurchase-bessent.html"
+  ],
+  [
+    "political",
+    18,
+    "https://www.nytimes.com/2026/09/09/us/texas-republicans-data-center-anger.html"
+  ],
+  [
+    "latest",
+    18,
+    "https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html"
+  ],
+  [
+    "judge",
+    18,
+    "https://www.washingtonpost.com/nation/2026/09/09/tate-brothers-stay-jailed-rape-sex-trafficking-charges-judge-rules/"
+  ],
+  [
+    "hot",
+    18,
+    "https://www.theguardian.com/us-news/2026/sep/09/progressive-democrats-young-voters-midterms"
+  ],
+  [
+    "midterm",
+    17,
+    "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html"
   ],
   [
     "republicans",
     17,
-    "https://www.nytimes.com/2026/09/09/us/politics/trump-republican-midterm-convention.html"
+    "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html"
   ],
   [
-    "attacks",
+    "star",
     17,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.nytimes.com/2026/09/09/obituaries/lucien-smith-dead.html"
   ],
   [
-    "dog",
+    "air",
     17,
-    "https://www.theguardian.com/thefilter-us/ng-interactive/2026/sep/09/best-dog-toys-tools-tips-enrichment"
+    "https://www.washingtonpost.com/transportation/2026/09/08/amazon-cargo-plane-appeared-consider-aborting-landing-before-miami-crash-investigators-say/"
   ],
   [
-    "hot",
+    "water",
     17,
+    "https://www.theguardian.com/commentisfree/2026/sep/09/gaza-ukraine-aid-workers-world-central-kitchen-workers-idf-geneva-conventions"
+  ],
+  [
+    "american",
+    16,
+    "https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html"
+  ],
+  [
+    "hard",
+    16,
+    "https://www.nytimes.com/2026/09/09/opinion/openai-ai-companies-safety-regulation.html"
+  ],
+  [
+    "really",
+    16,
+    "https://www.theguardian.com/us-news/2026/sep/09/islamophobia-9-11-rozina-ali-interview"
+  ],
+  [
+    "democrats",
+    16,
     "https://www.theguardian.com/us-news/2026/sep/09/progressive-democrats-young-voters-midterms"
   ],
   [
-    "summer",
-    17,
-    "https://www.theguardian.com/us-news/2026/sep/09/haitians-ohio-city-trump-anti-immigrant-crackdown"
-  ],
-  [
-    "party",
+    "cbs",
     16,
-    "https://www.nytimes.com/2026/09/09/us/politics/trump-republican-midterm-convention.html"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/09/a-killer-story-series-review"
   ],
   [
-    "clancy",
-    16,
-    "https://www.nytimes.com/2026/09/08/us/jurors-lindsay-clancy-trial.html"
-  ],
-  [
-    "lindsay",
-    16,
-    "https://www.nytimes.com/2026/09/08/us/jurors-lindsay-clancy-trial.html"
-  ],
-  [
-    "case",
-    16,
-    "https://www.washingtonpost.com/politics/2026/09/09/lindsay-clancy-case-holdout-juror-had-reasonable-doubt-foreperson-says/"
-  ],
-  [
-    "voters",
-    16,
-    "https://www.washingtonpost.com/politics/2026/09/08/dhs-asks-supreme-court-ok-use-social-security-data-verify-voting-eligibility/"
-  ],
-  [
-    "republican",
+    "fight",
     15,
-    "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html"
+    "https://www.nytimes.com/2026/09/09/us/missouri-redistricting-congress-contempt.html"
   ],
   [
-    "canada",
+    "iran",
     15,
-    "https://www.washingtonpost.com/nation/2026/09/09/ap-says-it-will-refer-lake-ontario-by-its-original-name-despite-trumps-order/"
+    "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html"
   ],
   [
     "smith",
     15,
-    "https://www.washingtonpost.com/weather/2026/09/09/family-awaits-news-search-continues-last-person-missing-grand-canyon/"
+    "https://www.nytimes.com/2026/09/09/obituaries/lucien-smith-dead.html"
   ],
   [
-    "american",
+    "plane",
     15,
-    "https://www.theguardian.com/commentisfree/2026/sep/09/gloria-steinem-feminist-writers-global-panel-american-civil-rights-activist"
+    "https://www.washingtonpost.com/nation/2026/09/09/widow-amazon-cargo-plane-crash-victim-files-lawsuit/"
   ],
   [
-    "really",
+    "donald",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/09/islamophobia-9-11-rozina-ali-interview"
+    "https://www.washingtonpost.com/nation/2026/09/09/ap-says-it-will-refer-lake-ontario-by-its-original-name-despite-trumps-order/"
   ],
   [
-    "political",
+    "because",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/09/texas-socialist-party"
+    "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction"
   ],
   [
-    "health",
+    "summer",
     15,
-    "https://www.theguardian.com/commentisfree/2026/sep/09/gaza-ukraine-aid-workers-world-central-kitchen-workers-idf-geneva-conventions"
+    "https://www.theguardian.com/us-news/2026/sep/09/haitians-ohio-city-trump-anti-immigrant-crackdown"
   ],
   [
-    "hair",
+    "don",
     15,
-    "https://www.theguardian.com/culture/2026/sep/07/how-mari-wilson-made-just-what-i-always-wanted-beehive"
+    "https://www.theguardian.com/artanddesign/2026/sep/09/devil-smoke-fire-downtown-la-jerry-hsu-best-photograph"
+  ],
+  [
+    "study",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/sep/09/want-to-start-lazymaxxing-here-are-some-low-effort-ways-to-improve-your-life"
+  ],
+  [
+    "director",
+    15,
+    "https://www.theguardian.com/football/2026/sep/09/gianni-infantino-loyalist-caribbean-fifa-split-gelson-fernandes"
+  ],
+  [
+    "missouri",
+    14,
+    "https://www.nytimes.com/2026/09/09/us/missouri-redistricting-congress-contempt.html"
+  ],
+  [
+    "texas",
+    14,
+    "https://www.nytimes.com/2026/09/09/us/texas-republicans-data-center-anger.html"
+  ],
+  [
+    "phone",
+    14,
+    "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html"
+  ],
+  [
+    "company",
+    14,
+    "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html"
+  ],
+  [
+    "anthropic",
+    14,
+    "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html"
   ],
   [
     "america",
     14,
-    "https://www.nytimes.com/2026/09/09/world/americas/us-boat-strikes-south-america.html"
-  ],
-  [
-    "election",
-    14,
-    "https://www.nytimes.com/2026/09/09/us/jim-pillen-ice-nebraska-undocumented-workers.html"
-  ],
-  [
-    "crisis",
-    14,
-    "https://www.nytimes.com/2026/09/09/magazine/maui-wildfire-hawaii-housing.html"
+    "https://www.nytimes.com/2026/09/09/opinion/data-center-ai-resistance.html"
   ],
   [
     "amazon",
     14,
-    "https://www.washingtonpost.com/transportation/2026/09/08/amazon-cargo-plane-appeared-consider-aborting-landing-before-miami-crash-investigators-say/"
+    "https://www.washingtonpost.com/nation/2026/09/09/widow-amazon-cargo-plane-crash-victim-files-lawsuit/"
   ],
   [
-    "email",
+    "charges",
     14,
-    "https://www.theguardian.com/commentisfree/2026/sep/09/gloria-steinem-feminist-writers-global-panel-american-civil-rights-activist"
+    "https://www.washingtonpost.com/nation/2026/09/09/tate-brothers-stay-jailed-rape-sex-trafficking-charges-judge-rules/"
+  ],
+  [
+    "lindsay",
+    14,
+    "https://www.washingtonpost.com/politics/2026/09/09/lindsay-clancy-case-holdout-juror-had-reasonable-doubt-foreperson-says/"
+  ],
+  [
+    "response",
+    14,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "attacks",
+    14,
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+  ],
+  [
+    "scott",
+    14,
+    "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback"
   ],
   [
     "won",
@@ -206,54 +276,54 @@
     "https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates"
   ],
   [
-    "midterm",
-    13,
-    "https://www.nytimes.com/2026/09/09/us/politics/trump-republican-midterm-convention.html"
+    "john",
+    14,
+    "https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone"
   ],
   [
-    "convention",
+    "election",
     13,
-    "https://www.nytimes.com/2026/09/09/us/politics/trump-republican-midterm-convention.html"
+    "https://www.nytimes.com/2026/09/09/us/politics/election-officials-confusion-mail-ballots.html"
   ],
   [
-    "million",
+    "supreme",
     13,
-    "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html"
+    "https://www.nytimes.com/2026/09/09/us/politics/election-officials-confusion-mail-ballots.html"
   ],
   [
-    "south",
+    "voters",
     13,
-    "https://www.nytimes.com/2026/09/09/world/americas/us-boat-strikes-south-america.html"
+    "https://www.nytimes.com/2026/09/09/us/texas-republicans-data-center-anger.html"
   ],
   [
-    "ice",
+    "foldable",
     13,
-    "https://www.nytimes.com/2026/09/09/us/jim-pillen-ice-nebraska-undocumented-workers.html"
+    "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html"
   ],
   [
-    "workers",
+    "change",
     13,
-    "https://www.nytimes.com/2026/09/09/us/jim-pillen-ice-nebraska-undocumented-workers.html"
+    "https://www.nytimes.com/2026/09/09/opinion/data-center-ai-resistance.html"
   ],
   [
-    "missing",
+    "killed",
     13,
-    "https://www.washingtonpost.com/weather/2026/09/09/family-awaits-news-search-continues-last-person-missing-grand-canyon/"
+    "https://www.washingtonpost.com/nation/2026/09/09/widow-amazon-cargo-plane-crash-victim-files-lawsuit/"
   ],
   [
-    "trade",
+    "sex",
     13,
-    "https://www.washingtonpost.com/business/2026/09/08/us-announces-ban-certain-canadian-imports-dairy-alcohol-other-products/"
+    "https://www.washingtonpost.com/nation/2026/09/09/tate-brothers-stay-jailed-rape-sex-trafficking-charges-judge-rules/"
   ],
   [
     "gop",
     13,
-    "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-blocks-missouri-congressional-map-favoring-gop/"
+    "https://www.washingtonpost.com/politics/2026/09/09/missouri-electoral-map-chaos-after-clashing-rulings-by-kavanaugh-judge/"
   ],
   [
-    "trump's",
+    "miami",
     13,
-    "https://www.washingtonpost.com/business/2026/09/08/trump-threatens-ban-bombardier-jet-sales-canadas-tariffs-take-effect/"
+    "https://www.washingtonpost.com/transportation/2026/09/08/amazon-cargo-plane-appeared-consider-aborting-landing-before-miami-crash-investigators-say/"
   ],
   [
     "york",
@@ -261,118 +331,48 @@
     "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-rejects-mom-bid-son-school-vaccine-exemption-new-york/"
   ],
   [
-    "hard",
+    "million",
     13,
-    "https://www.washingtonpost.com/business/2026/09/05/mortgage-lending-standards-us-are-too-strict-pew-report-argues/"
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "democrats",
+    "already",
+    13,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "country",
+    13,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "young",
+    13,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/09/turning-point-usa-charlie-kirk-killing-one-year-later"
+  ],
+  [
+    "race",
     13,
     "https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates"
   ],
   [
-    "series",
+    "primary",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/09/texas-brandon-herrera-republican-house"
-  ],
-  [
-    "late",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/sep/09/far-right-europe-afd-germany-nigel-farage"
-  ],
-  [
-    "night",
-    13,
-    "https://www.theguardian.com/sport/2026/sep/09/ben-shelton-carlos-alcaraz-us-open"
-  ],
-  [
-    "star",
-    13,
-    "https://www.theguardian.com/sport/2026/sep/09/ben-shelton-carlos-alcaraz-us-open"
-  ],
-  [
-    "intelligence",
-    12,
-    "https://www.nytimes.com/2026/09/09/movies/ai-tv-movies-robots-science-fiction.html"
-  ],
-  [
-    "plane",
-    12,
-    "https://www.washingtonpost.com/transportation/2026/09/08/amazon-cargo-plane-appeared-consider-aborting-landing-before-miami-crash-investigators-say/"
-  ],
-  [
-    "miami",
-    12,
-    "https://www.washingtonpost.com/transportation/2026/09/08/amazon-cargo-plane-appeared-consider-aborting-landing-before-miami-crash-investigators-say/"
-  ],
-  [
-    "missouri",
-    12,
-    "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-blocks-missouri-congressional-map-favoring-gop/"
-  ],
-  [
-    "far",
-    12,
-    "https://www.washingtonpost.com/business/2026/09/05/mortgage-lending-standards-us-are-too-strict-pew-report-argues/"
-  ],
-  [
-    "least",
-    12,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "something",
-    12,
-    "https://www.theguardian.com/thefilter-us/ng-interactive/2026/sep/09/best-dog-toys-tools-tips-enrichment"
-  ],
-  [
-    "changed",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/09/a-moment-that-changed-me-naturists-cured-my-shy-bladder"
-  ],
-  [
-    "tried",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/09/i-lost-everything-lost-my-friends-lost-my-legs-rob-pike-accident-changed-life"
-  ],
-  [
-    "race",
-    12,
     "https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates"
   ],
   [
     "different",
-    12,
+    13,
     "https://www.theguardian.com/artanddesign/2026/sep/09/devil-smoke-fire-downtown-la-jerry-hsu-best-photograph"
   ],
   [
-    "feel",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/sep/09/want-to-start-lazymaxxing-here-are-some-low-effort-ways-to-improve-your-life"
+    "children",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/sep/09/russia-raining-death-ukraines-women-children-hands-shake-keep-going-for-love"
   ],
   [
-    "lead",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/sep/08/uk-sanctions-israel-two-state-solution-middle-east-palestinians-andy-burnham"
-  ],
-  [
-    "director",
-    12,
-    "https://www.theguardian.com/film/2026/sep/09/dau-director-defends-russian-lead-actor-ukraine-criticism"
-  ],
-  [
-    "cbs",
-    12,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/09/a-killer-story-series-review"
-  ],
-  [
-    "prices",
-    12,
-    "https://www.theguardian.com/culture/2026/sep/09/jon-stewart-donald-trump-denial-reality"
-  ],
-  [
-    "iranian",
-    11,
-    "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html"
+    "hair",
+    13,
+    "https://www.theguardian.com/culture/2026/sep/07/how-mari-wilson-made-just-what-i-always-wanted-beehive"
   ]
 ];
