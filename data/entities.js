@@ -2,57 +2,45 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Melania Trump",
-      "count": 15,
-      "url": "https://www.foxnews.com/politics/radical-leftist-podcaster-viciously-attacks-melania-trump-graphic-curse-laden-rant",
+      "name": "Donald Trump",
+      "count": 22,
+      "url": "https://www.washingtonpost.com/nation/2026/09/09/ap-says-it-will-refer-lake-ontario-by-its-original-name-despite-trumps-order/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Donald Trump ’S",
+      "count": 17,
+      "url": "https://www.theguardian.com/culture/2026/sep/09/jon-stewart-donald-trump-denial-reality",
+      "source": "The Guardian"
+    },
+    {
+      "name": "John Fetterman",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/09/09/us/politics/john-fetterman-trump-republican-convention.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Dan Mckee",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/sep/09/rhode-island-primary-results-dan-mckee",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Seahawks Qb Sam Darnold",
+      "count": 8,
+      "url": "https://www.foxnews.com/outkick-sports/seahawks-sam-darnold-suffers-hip-injury-questionable-return-after-just-5-snaps-nfl-season",
       "source": "Fox News"
     },
     {
-      "name": "Lindsay Clancy Mistrial",
-      "count": 13,
-      "url": "https://www.cbsnews.com/video/lindsay-clancy-mistrial-kevin-reddington-48-hours-case-by-case/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Donald Trump Jr.'S",
-      "count": 12,
-      "url": "https://www.cbsnews.com/video/donald-trump-jrs-venture-capital-firm-rejects-accusations-of-insider-political-influence/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Anthropic",
-      "count": 8,
-      "url": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
+      "name": "Charlie Kirk",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/09/turning-point-usa-charlie-kirk-killing-one-year-later",
       "source": "The Guardian"
     },
     {
       "name": "Andrew Garfield",
-      "count": 8,
+      "count": 6,
       "url": "https://www.theguardian.com/film/2026/sep/09/the-uprising-movie-review",
-      "source": "The Guardian"
-    },
-    {
-      "name": "John Malkovich",
-      "count": 7,
-      "url": "https://www.theguardian.com/film/2026/sep/09/john-malkovich-cancels-israel-trip-over-fabricated-solidarity-quote",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ben Shelton",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/sep/09/ben-shelton-carlos-alcaraz-us-open",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tristan Tate",
-      "count": 6,
-      "url": "https://www.washingtonpost.com/nation/2026/09/09/tate-brothers-stay-jailed-rape-sex-trafficking-charges-judge-rules/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Zheng Qinwen",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/live/2026/sep/09/us-open-tennis-2026-quarter-finals-rybakina-zheng-andreeva-gauff-blockx-khachanov-live",
       "source": "The Guardian"
     },
     {
@@ -60,31 +48,111 @@
       "count": 6,
       "url": "https://www.theguardian.com/tv-and-radio/2026/sep/09/i-am-not-a-monster-podcast-josh-baker-interview-bbc-where-is-austin-tice",
       "source": "The Guardian"
+    },
+    {
+      "name": "John Malkovich",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/2026/sep/09/john-malkovich-cancels-israel-trip-over-fabricated-solidarity-quote",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Oscar",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/2026/sep/09/john-malkovich-cancels-israel-trip-over-fabricated-solidarity-quote",
+      "source": "The Guardian"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Target For Trump",
+      "count": 59,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Gop",
+      "count": 32,
+      "url": "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-blocks-missouri-congressional-map-favoring-gop/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Apple Unveils The Iphone Duo",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ai Overviews",
+      "count": 19,
+      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Texas Senate",
+      "count": 15,
+      "url": "https://www.foxnews.com/politics/talarico-missed-mark-backtracks-controversial-woke-statements",
+      "source": "Fox News"
+    },
+    {
+      "name": "White House",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-911-falsehoods",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Missouri Supreme Court",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/09/09/us/missouri-redistricting-congress-contempt.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Amazon",
+      "count": 10,
+      "url": "https://www.washingtonpost.com/nation/2026/09/09/widow-amazon-cargo-plane-crash-victim-files-lawsuit/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nfl",
+      "count": 10,
+      "url": "https://www.latimes.com/sports/story/2026-09-09/nfl-week-1-picks-score-predictions-odds-favorites",
+      "source": "LA Times"
     }
   ],
   "EVENT": [
     {
-      "name": "The Us Open",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/sep/09/ben-shelton-carlos-alcaraz-us-open",
+      "name": "The Super Bowl",
+      "count": 4,
+      "url": "https://www.nbcnews.com/sports/nfl/seahawks-quarterback-sam-darnold-injury-patriots-nfl-rcna596939",
+      "source": "NBC News"
+    },
+    {
+      "name": "The World Cup",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/2026/sep/09/mens-ballon-d-or-2026-winner-harry-kane-rodri-kylian-mbappe",
       "source": "The Guardian"
     },
     {
       "name": "Hurricane Lowell",
       "count": 2,
-      "url": "https://www.theguardian.com/us-news/2026/sep/09/hawaii-hurricane-lowell-damage",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vietnam War",
-      "count": 2,
-      "url": "https://www.foxnews.com/entertainment/rick-springfield-killed-man-entertaining-troops-vietnam-war",
-      "source": "Fox News"
+      "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-flooding-destruction-hawaii-kauai-rcna596804",
+      "source": "NBC News"
     },
     {
       "name": "Iran War",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html",
+      "url": "https://www.nytimes.com/2026/09/09/us/politics/republican-senate-candidates-trump-convention.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The U.S.-Canada Relationship",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/09/09/us/politics/trump-canada-tariffs.html",
       "source": "NY Times"
     },
     {
@@ -97,12 +165,6 @@
       "name": "The September 11, 2001",
       "count": 1,
       "url": "https://www.theguardian.com/us-news/2026/sep/09/islamophobia-9-11-rozina-ali-interview",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/sep/09/mens-ballon-d-or-2026-winner-harry-kane-rodri-kylian-mbappe",
       "source": "The Guardian"
     },
     {
@@ -124,129 +186,67 @@
       "source": "The Guardian"
     }
   ],
-  "ORG": [
-    {
-      "name": "Target For Trump",
-      "count": 62,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Apple Unveils The Iphone Duo",
-      "count": 25,
-      "url": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ai Overviews",
-      "count": 24,
-      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Amazon",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/nation/2026/09/09/widow-amazon-cargo-plane-crash-victim-files-lawsuit/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "The White House",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 13,
-      "url": "https://www.washingtonpost.com/politics/2026/09/09/missouri-electoral-map-chaos-after-clashing-rulings-by-kavanaugh-judge/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Cbs News",
-      "count": 11,
-      "url": "https://www.cbsnews.com/video/apple-unveils-first-foldable-iphone/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 10,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/sep/09/islamophobia-9-11-rozina-ali-interview",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Apple Iphone",
-      "count": 8,
-      "url": "https://thehill.com/policy/technology/6079703-apple-foldable-phone-launch/",
-      "source": "The Hill"
-    }
-  ],
   "GPE": [
     {
       "name": "Us",
-      "count": 65,
+      "count": 76,
       "url": "https://www.theguardian.com/wellness/2026/sep/09/glp-1s-affecting-relationships",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 28,
-      "url": "https://www.nytimes.com/2026/09/09/nyregion/tennis-us-open-ambassadors.html",
+      "count": 25,
+      "url": "https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html",
       "source": "NY Times"
     },
     {
+      "name": "Rhode Island",
+      "count": 20,
+      "url": "https://www.theguardian.com/us-news/2026/sep/09/rhode-island-primary-results-dan-mckee",
+      "source": "The Guardian"
+    },
+    {
       "name": "Uk",
-      "count": 21,
+      "count": 18,
       "url": "https://www.theguardian.com/wellness/2026/sep/09/glp-1s-affecting-relationships",
       "source": "The Guardian"
     },
     {
-      "name": "California",
+      "name": "L.A. County",
       "count": 15,
+      "url": "https://www.latimes.com/california/story/2026-09-09/doj-la-central-mens-jail-probe-launched",
+      "source": "LA Times"
+    },
+    {
+      "name": "Dallas",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-republican-convention-speech-midterm-elections",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 12,
       "url": "https://www.washingtonpost.com/nation/2026/09/08/little-known-tale-behind-one-only-planes-allowed-fly-after-911/",
       "source": "Washington Post"
     },
     {
       "name": "Texas",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/09/09/us/texas-republicans-data-center-anger.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html",
-      "source": "NY Times"
+      "count": 12,
+      "url": "https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030",
+      "source": "The Guardian"
     },
     {
       "name": "Missouri",
-      "count": 12,
+      "count": 11,
       "url": "https://www.nytimes.com/2026/09/09/us/missouri-redistricting-congress-contempt.html",
       "source": "NY Times"
     },
     {
-      "name": "Miami",
-      "count": 12,
-      "url": "https://www.washingtonpost.com/transportation/2026/09/08/amazon-cargo-plane-appeared-consider-aborting-landing-before-miami-crash-investigators-say/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "L.A.",
-      "count": 12,
-      "url": "https://www.latimes.com/california/story/2026-09-09/what-happened-to-l-a-s-perfect-mediterranean-weather-humidity-challenges-birthright",
-      "source": "LA Times"
-    },
-    {
-      "name": "Florida",
-      "count": 11,
-      "url": "https://www.washingtonpost.com/nation/2026/09/09/tate-brothers-stay-jailed-rape-sex-trafficking-charges-judge-rules/",
-      "source": "Washington Post"
+      "name": "Iran",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-09-09T21:33:35Z"
+  "updated": "2026-09-10T05:44:02Z"
 };
