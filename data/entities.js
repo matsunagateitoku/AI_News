@@ -4,14 +4,20 @@
     {
       "name": "Donald Trump",
       "count": 25,
-      "url": "https://www.theguardian.com/us-news/2026/sep/11/donald-trump-republican-midterm-convention",
-      "source": "The Guardian"
+      "url": "https://www.washingtonpost.com/immigration/2026/09/11/dhs-hires-catholic-theologian-who-opposes-bishops-pope-immigration/",
+      "source": "Washington Post"
     },
     {
       "name": "Jd Vance",
-      "count": 14,
-      "url": "https://www.foxnews.com/us/9-11-widow-terry-strada-accuses-us-protecting-saudi-arabia-25-years-after-terror-attacks-addresses-vance",
-      "source": "Fox News"
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/sep/10/jd-vance-republican-midterm-convention",
+      "source": "The Guardian"
+    },
+    {
+      "name": "George W. Bush",
+      "count": 10,
+      "url": "https://www.cbsnews.com/video/how-911-changed-american-presidency/",
+      "source": "CBS News"
     },
     {
       "name": "Houthis",
@@ -22,13 +28,19 @@
     {
       "name": "Osama Bin Laden",
       "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/11/osama-bin-laden-9-11-al-qaida-us-middle-east-muslim",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live",
       "source": "The Guardian"
     },
     {
-      "name": "James Talarico",
+      "name": "Anthropic",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/sep/10/james-talarico-ken-paxton-epstein-survivors",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/11/risky-ai-research-pause-humanity",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Harry Styles",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/sep/11/haruomi-hosono-yours-sincerely-review",
       "source": "The Guardian"
     },
     {
@@ -38,93 +50,87 @@
       "source": "LA Times"
     },
     {
-      "name": "Zohran Mamdani",
+      "name": "Kamala Harris",
       "count": 5,
-      "url": "https://www.foxnews.com/politics/giuliani-blasts-mamdanis-9-11-toxic-air-blame-buried-city-records-come-light",
+      "url": "https://www.foxnews.com/media/kamala-harris-claims-gop-cheating-ahead-midterms-says-focused-stopping-madness",
       "source": "Fox News"
     },
     {
-      "name": "Rudy Giuliani",
-      "count": 5,
-      "url": "https://thehill.com/homenews/state-watch/6084719-mamdani-and-giuliani-shake-hands-at-9-11-commemoration/",
-      "source": "The Hill"
-    },
-    {
-      "name": "George W. Bush",
+      "name": "Charles",
       "count": 4,
-      "url": "https://www.nytimes.com/2026/09/11/us/politics/cia-sept-11-intelligence.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Catherine Connolly",
-      "count": 4,
-      "url": "https://www.theguardian.com/world/2026/sep/11/ireland-president-catherine-connolly-meet-donald-trump-dublin",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/11/king-charles-sussexes-reality-tv-harry-meghan-celebrity",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 45,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Trump Administration",
+      "count": 48,
+      "url": "https://thehill.com/homenews/administration/6085200-justice-department-deports-afghan-woman/",
+      "source": "The Hill"
     },
     {
       "name": "Ai",
-      "count": 23,
+      "count": 26,
       "url": "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-",
       "source": "The Guardian"
     },
     {
       "name": "Gop",
-      "count": 19,
-      "url": "https://www.washingtonpost.com/business/2026/09/10/many-republicans-skeptical-about-trump-plan-tie-5000-dividends-gop-wins/",
+      "count": 16,
+      "url": "https://www.washingtonpost.com/business/2026/09/11/inflation-remained-stubbornly-higher-august-met-expectations/",
       "source": "Washington Post"
     },
     {
-      "name": "The World Trade Center",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/11/september-11-dark-legacy",
-      "source": "The Guardian"
+      "name": "Cia",
+      "count": 15,
+      "url": "https://www.foxnews.com/media/uss-cole-commander-recalls-chilling-911-warning-cia-20-minutes-before-first-plane-hit",
+      "source": "Fox News"
     },
     {
       "name": "Pentagon",
       "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/sep/11/matthew-klimow-9-11-pentagon",
+      "url": "https://www.washingtonpost.com/nation/interactive/2026/09/11/photos-911-remembrance-ceremonies-new-york-pennsylvania/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Guardian Faber",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/11/king-charles-sussexes-reality-tv-harry-meghan-celebrity",
       "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
-      "count": 12,
+      "count": 11,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Guardian",
-      "count": 8,
-      "url": "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-",
+      "name": "Cbs News Special Report",
+      "count": 10,
+      "url": "https://www.cbsnews.com/video/remembering-911-25-years-later-watch-special-coverage/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The World Trade Center",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/11/george-w-bush-torture-9-11-trump",
       "source": "The Guardian"
     },
     {
-      "name": "Ground Zero",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/sep/11/september-11-commemorations",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Congress",
+      "name": "Tiktok",
       "count": 6,
-      "url": "https://www.washingtonpost.com/politics/2026/09/10/sending-armed-ice-agents-polling-places-would-be-federal-crime-lawsuit-says/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Senate",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/sep/10/james-talarico-ken-paxton-epstein-survivors",
+      "url": "https://www.theguardian.com/music/2026/sep/11/somewhere-to-be-themselves-and-be-kind-the-filipino-folk-popper-creating-a-hand-drawn-world-for-gen-z-to-escape-to",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
+    {
+      "name": "The Sept. 11, 2001",
+      "count": 3,
+      "url": "https://www.washingtonpost.com/nation/interactive/2026/09/11/photos-911-remembrance-ceremonies-new-york-pennsylvania/",
+      "source": "Washington Post"
+    },
     {
       "name": "Hurricane Lowell",
       "count": 3,
@@ -132,10 +138,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "The September 11, 2001",
+      "name": "The Civil War",
       "count": 2,
-      "url": "https://www.cbsnews.com/video/priest-shares-how-trinity-church-gave-amazing-grace-to-weary-911-recovery-workers/",
-      "source": "CBS News"
+      "url": "https://www.washingtonpost.com/politics/2026/09/10/sending-armed-ice-agents-polling-places-would-be-federal-crime-lawsuit-says/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "World Cup",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend",
+      "source": "The Guardian"
     },
     {
       "name": "The Incredible Art Of Being Jeff Koons",
@@ -144,16 +156,10 @@
       "source": "NY Times"
     },
     {
-      "name": "The Civil War",
+      "name": "The Iran War",
       "count": 1,
-      "url": "https://www.washingtonpost.com/politics/2026/09/10/sending-armed-ice-agents-polling-places-would-be-federal-crime-lawsuit-says/",
+      "url": "https://www.washingtonpost.com/immigration/2026/09/11/dhs-hires-catholic-theologian-who-opposes-bishops-pope-immigration/",
       "source": "Washington Post"
-    },
-    {
-      "name": "The National September 11 Memorial &",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/sep/11/september-11-commemorations",
-      "source": "The Guardian"
     },
     {
       "name": "The Vietnam War",
@@ -162,9 +168,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "World Cup",
+      "name": "This Solheim Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/sep/11/mauricio-pochettino-usmnt-tottenham-europe",
+      "url": "https://www.theguardian.com/sport/2026/sep/11/solheim-cup-usa-fightback-sparks-hope-of-away-win-after-europes-fast-start",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Us Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/sep/11/the-week-around-the-world-in-20-pictures",
       "source": "The Guardian"
     },
     {
@@ -172,81 +184,69 @@
       "count": 1,
       "url": "https://www.theguardian.com/artanddesign/gallery/2026/sep/11/bredaphoto-festival-in-pictures",
       "source": "The Guardian"
-    },
-    {
-      "name": "The Game Awards’ Most Anticipated",
-      "count": 1,
-      "url": "https://www.theguardian.com/games/2026/sep/09/grand-theft-auto-vi-can-playing-a-video-game-count-as-cheating-on-your-partner",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Telluride Film Festival",
-      "count": 1,
-      "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-09-08/6-best-movies-telluride-2026-elsinore-the-debut-wild-horse-nine-you-can-see-everything",
-      "source": "LA Times"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 57,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/11/september-11-dark-legacy",
+      "count": 48,
+      "url": "https://www.theguardian.com/sport/live/2026/sep/11/us-open-tennis-2026-mens-semi-final-alexander-zverev-v-karen-khachanov-live",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 24,
-      "url": "https://www.washingtonpost.com/health/2026/09/11/alcohol-related-cancer-deaths-doubled-recent-decades-study-finds/",
+      "count": 27,
+      "url": "https://www.nytimes.com/2026/09/11/business/diesel-fuel-prices-oil-iran-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 20,
+      "url": "https://www.washingtonpost.com/nation/interactive/2026/09/11/photos-911-remembrance-ceremonies-new-york-pennsylvania/",
       "source": "Washington Post"
     },
     {
       "name": "Iran",
-      "count": 17,
+      "count": 19,
       "url": "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html",
       "source": "NY Times"
     },
     {
-      "name": "Uk",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/sep/11/tyrannosaurus-rex-footprints-north-dakota",
-      "source": "The Guardian"
-    },
-    {
-      "name": "West L.A.",
-      "count": 15,
-      "url": "https://www.latimes.com/california/story/2026-09-11/va-homeless-housing-estimated-to-cost-record-1-25-million-a-unit",
-      "source": "LA Times"
-    },
-    {
-      "name": "New York City'S",
-      "count": 13,
-      "url": "https://www.cbsnews.com/video/priest-shares-how-trinity-church-gave-amazing-grace-to-weary-911-recovery-workers/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Israel",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/nation/2026/09/10/gina-hinojosa-ad-injects-abortion-into-tight-texas-governors-race/",
-      "source": "Washington Post"
-    },
-    {
       "name": "California",
-      "count": 8,
+      "count": 15,
       "url": "https://www.washingtonpost.com/nation/2026/09/10/newsom-signs-bill-banning-addictive-features-social-media-protect-teens/",
       "source": "Washington Post"
     },
     {
+      "name": "L.A.",
+      "count": 13,
+      "url": "https://www.latimes.com/business/story/2026-09-11/la-renters-lust-for-las-vegas-few-outsiders-consider-la-option-survey-shows",
+      "source": "LA Times"
+    },
+    {
+      "name": "Michigan",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/09/11/climate/coal-plant-michigan-court.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 12,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/11/king-charles-sussexes-reality-tv-harry-meghan-celebrity",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 11,
+      "url": "https://www.washingtonpost.com/nation/2026/09/10/gina-hinojosa-ad-injects-abortion-into-tight-texas-governors-race/",
+      "source": "Washington Post"
+    },
+    {
       "name": "Missouri",
-      "count": 8,
+      "count": 10,
       "url": "https://www.washingtonpost.com/politics/2026/09/10/supreme-court-again-blocks-new-missouri-congressional-map-favoring-gop/",
       "source": "Washington Post"
     }
   ],
-  "updated": "2026-09-11T16:57:51Z"
+  "updated": "2026-09-11T21:36:41Z"
 };

@@ -2,278 +2,273 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    74,
-    "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html"
+    79,
+    "https://www.nytimes.com/2026/09/11/climate/coal-plant-michigan-court.html"
   ],
   [
     "president",
-    34,
+    41,
     "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html"
   ],
   [
-    "war",
-    33,
-    "https://www.nytimes.com/2026/09/11/world/middleeast/tyre-engulfed-war-lebanon.html"
-  ],
-  [
-    "film",
-    28,
-    "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-"
+    "court",
+    35,
+    "https://www.nytimes.com/2026/09/11/climate/coal-plant-michigan-court.html"
   ],
   [
     "attacks",
-    27,
-    "https://www.nytimes.com/2026/09/11/us/politics/cia-sept-11-intelligence.html"
+    34,
+    "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html"
+  ],
+  [
+    "film",
+    33,
+    "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-"
+  ],
+  [
+    "war",
+    28,
+    "https://www.washingtonpost.com/immigration/2026/09/11/dhs-hires-catholic-theologian-who-opposes-bishops-pope-immigration/"
   ],
   [
     "food",
     26,
-    "https://www.theguardian.com/world/2026/sep/11/favela-mare-food-tour-comida-rio-de-janeiro"
-  ],
-  [
-    "convention",
-    25,
-    "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html"
+    "https://www.nytimes.com/2026/09/11/us/alaska-bering-sea-rescue-boy.html"
   ],
   [
     "republicans",
-    24,
+    23,
     "https://www.nytimes.com/2026/09/11/us/politics/trump-republican-convention-influencers-message.html"
-  ],
-  [
-    "midterm",
-    21,
-    "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html"
-  ],
-  [
-    "trade",
-    20,
-    "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html"
-  ],
-  [
-    "american",
-    20,
-    "https://www.washingtonpost.com/nation/2026/09/11/little-known-story-sculpture-that-bore-witness-911/"
-  ],
-  [
-    "gop",
-    20,
-    "https://www.washingtonpost.com/business/2026/09/10/many-republicans-skeptical-about-trump-plan-tie-5000-dividends-gop-wins/"
-  ],
-  [
-    "court",
-    20,
-    "https://www.washingtonpost.com/politics/2026/09/10/supreme-court-again-blocks-new-missouri-congressional-map-favoring-gop/"
-  ],
-  [
-    "latest",
-    20,
-    "https://www.washingtonpost.com/politics/2026/09/10/supreme-court-again-blocks-new-missouri-congressional-map-favoring-gop/"
-  ],
-  [
-    "political",
-    20,
-    "https://www.washingtonpost.com/obituaries/2026/09/10/remembering-roger-simon-political-journalist-with-toughness-wit/"
-  ],
-  [
-    "night",
-    19,
-    "https://www.nytimes.com/2026/09/11/arts/television/republican-midterm-convention-trump-notebook.html"
-  ],
-  [
-    "global",
-    19,
-    "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html"
-  ],
-  [
-    "iran",
-    19,
-    "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html"
-  ],
-  [
-    "center",
-    19,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/11/september-11-dark-legacy"
-  ],
-  [
-    "summer",
-    19,
-    "https://www.theguardian.com/us-news/2026/sep/11/us-lettuce-prices"
-  ],
-  [
-    "sept",
-    18,
-    "https://www.nytimes.com/2026/09/11/briefing/twenty-five-years.html"
   ],
   [
     "york",
-    18,
-    "https://www.washingtonpost.com/nation/2026/09/11/new-york-changed-dramatic-surprising-ways-25-years-since-911/"
+    23,
+    "https://www.washingtonpost.com/nation/interactive/2026/09/11/photos-911-remembrance-ceremonies-new-york-pennsylvania/"
   ],
   [
-    "country",
-    18,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "government",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/sep/11/9-11-islamophobia-us-politics"
-  ],
-  [
-    "family",
-    18,
-    "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-"
+    "american",
+    23,
+    "https://www.washingtonpost.com/nation/2026/09/11/little-known-story-sculpture-that-bore-witness-911/"
   ],
   [
     "festival",
-    18,
-    "https://www.theguardian.com/film/2026/sep/11/motelx-lisbon-portugal-horror-film-festival"
+    23,
+    "https://www.theguardian.com/culture/2026/sep/08/burning-man-deaths-nevada"
   ],
   [
-    "sea",
-    17,
+    "iran",
+    20,
     "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html"
   ],
   [
-    "young",
-    17,
-    "https://www.washingtonpost.com/business/2026/09/11/are-you-young-person-who-isnt-working-or-school-we-want-hear-you/"
-  ],
-  [
-    "americans",
-    17,
-    "https://www.washingtonpost.com/business/2026/09/11/are-you-young-person-who-isnt-working-or-school-we-want-hear-you/"
-  ],
-  [
-    "prices",
-    17,
-    "https://www.theguardian.com/business/2026/sep/11/inflation-august-interest-rates"
-  ],
-  [
-    "game",
-    17,
-    "https://www.theguardian.com/games/2026/sep/11/tomb-raider-legacy-of-atlantis-lara-croft-remake"
-  ],
-  [
-    "media",
-    16,
-    "https://www.nytimes.com/2026/09/11/us/politics/trump-republican-convention-influencers-message.html"
-  ],
-  [
-    "attack",
-    16,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "case",
-    16,
-    "https://www.theguardian.com/us-news/2026/sep/11/us-lettuce-prices"
-  ],
-  [
-    "republican",
-    15,
+    "night",
+    20,
     "https://www.nytimes.com/2026/09/11/arts/television/republican-midterm-convention-trump-notebook.html"
   ],
   [
-    "fall",
-    15,
-    "https://www.nytimes.com/2026/09/11/science/heart-drug-failed-novartis.html"
+    "game",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/sep/11/king-charles-sussexes-reality-tv-harry-meghan-celebrity"
   ],
   [
-    "ago",
-    15,
-    "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html"
+    "media",
+    19,
+    "https://www.nytimes.com/2026/09/11/us/politics/trump-republican-convention-influencers-message.html"
   ],
   [
-    "really",
-    15,
-    "https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html"
+    "political",
+    18,
+    "https://www.nytimes.com/2026/09/11/opinion/ezra-klein-podcast-francis-fukuyama.html"
   ],
   [
-    "died",
-    15,
-    "https://www.washingtonpost.com/nation/2026/09/10/least-1000-boys-girls-who-died-state-custody-are-buried-graves-across-us/"
+    "latest",
+    18,
+    "https://www.washingtonpost.com/politics/2026/09/10/supreme-court-again-blocks-new-missouri-congressional-map-favoring-gop/"
   ],
   [
-    "donald",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/11/donald-trump-republican-midterm-convention"
+    "gop",
+    17,
+    "https://www.washingtonpost.com/business/2026/09/11/inflation-remained-stubbornly-higher-august-met-expectations/"
   ],
   [
-    "different",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/11/us-lettuce-prices"
+    "past",
+    17,
+    "https://www.washingtonpost.com/business/2026/09/11/inflation-remained-stubbornly-higher-august-met-expectations/"
   ],
   [
-    "released",
-    14,
-    "https://www.nytimes.com/2026/09/11/us/politics/cia-sept-11-intelligence.html"
+    "sept",
+    17,
+    "https://www.washingtonpost.com/nation/interactive/2026/09/11/photos-911-remembrance-ceremonies-new-york-pennsylvania/"
   ],
   [
-    "inflation",
-    14,
-    "https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html"
+    "summer",
+    17,
+    "https://www.theguardian.com/music/2026/sep/11/somewhere-to-be-themselves-and-be-kind-the-filipino-folk-popper-creating-a-hand-drawn-world-for-gen-z-to-escape-to"
   ],
   [
-    "cost",
-    14,
-    "https://www.nytimes.com/2026/09/11/business/economy/social-security-cola.html"
-  ],
-  [
-    "near",
-    14,
-    "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html"
-  ],
-  [
-    "morning",
-    14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/11/september-11-dark-legacy"
-  ],
-  [
-    "watch",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/sep/11/9-11-islamophobia-us-politics"
-  ],
-  [
-    "stop",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/11/sorting-science-from-hype-about-weight-loss-drugs"
+    "control",
+    16,
+    "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html"
   ],
   [
     "because",
-    14,
+    16,
+    "https://www.nytimes.com/2026/09/11/climate/reflecting-pool-contractor-trump.html"
+  ],
+  [
+    "democrats",
+    16,
+    "https://www.nytimes.com/2026/09/11/us/politics/trump-democats-senate-races-fact-check.html"
+  ],
+  [
+    "young",
+    16,
+    "https://www.washingtonpost.com/business/2026/09/11/are-you-young-person-who-isnt-working-or-school-we-want-hear-you/"
+  ],
+  [
+    "working",
+    16,
+    "https://www.washingtonpost.com/business/2026/09/11/are-you-young-person-who-isnt-working-or-school-we-want-hear-you/"
+  ],
+  [
+    "california",
+    16,
+    "https://www.washingtonpost.com/nation/2026/09/10/newsom-signs-bill-banning-addictive-features-social-media-protect-teens/"
+  ],
+  [
+    "health",
+    16,
     "https://www.theguardian.com/lifeandstyle/2026/sep/11/sorting-science-from-hype-about-weight-loss-drugs"
   ],
   [
-    "pentagon",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/11/matthew-klimow-9-11-pentagon"
+    "full",
+    16,
+    "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-"
   ],
   [
-    "buying",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/sep/11/horl-3-knife-sharpener-review"
+    "family",
+    16,
+    "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-"
   ],
   [
-    "hot",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/sep/07/zojirushi-water-warmer-and-dispenser-review"
+    "sea",
+    15,
+    "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html"
+  ],
+  [
+    "global",
+    15,
+    "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html"
+  ],
+  [
+    "grand",
+    15,
+    "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html"
+  ],
+  [
+    "convention",
+    15,
+    "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html"
   ],
   [
     "little",
-    13,
+    15,
+    "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html"
+  ],
+  [
+    "million",
+    15,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "country",
+    15,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "released",
+    15,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "government",
+    15,
+    "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-"
+  ],
+  [
+    "center",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/sep/11/george-w-bush-torture-9-11-trump"
+  ],
+  [
+    "hot",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/sep/07/zojirushi-water-warmer-and-dispenser-review"
+  ],
+  [
+    "cia",
+    15,
+    "https://www.foxnews.com/media/uss-cole-commander-recalls-chilling-911-warning-cia-20-minutes-before-first-plane-hit"
+  ],
+  [
+    "midterm",
+    14,
+    "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html"
+  ],
+  [
+    "clear",
+    14,
     "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html"
   ],
   [
     "tried",
+    14,
+    "https://www.nytimes.com/2026/09/11/arts/television/republican-midterm-convention-trump-notebook.html"
+  ],
+  [
+    "pentagon",
+    14,
+    "https://www.washingtonpost.com/nation/interactive/2026/09/11/photos-911-remembrance-ceremonies-new-york-pennsylvania/"
+  ],
+  [
+    "leading",
+    14,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "self",
+    14,
+    "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-"
+  ],
+  [
+    "company",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/sep/11/king-charles-sussexes-reality-tv-harry-meghan-celebrity"
+  ],
+  [
+    "record",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/11/cyclospora-outbreak-end"
+  ],
+  [
+    "games",
+    14,
+    "https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend"
+  ],
+  [
+    "trade",
+    13,
+    "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html"
+  ],
+  [
+    "republican",
     13,
     "https://www.nytimes.com/2026/09/11/arts/television/republican-midterm-convention-trump-notebook.html"
   ],
   [
-    "red",
+    "social",
     13,
-    "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html"
+    "https://www.nytimes.com/2026/09/11/business/economy/social-security-cola.html"
   ],
   [
     "art",
@@ -281,14 +276,39 @@
     "https://www.nytimes.com/2026/09/11/t-magazine/jeff-koons-sculpture-art.html"
   ],
   [
+    "donald",
+    13,
+    "https://www.washingtonpost.com/immigration/2026/09/11/dhs-hires-catholic-theologian-who-opposes-bishops-pope-immigration/"
+  ],
+  [
+    "americans",
+    13,
+    "https://www.washingtonpost.com/nation/interactive/2026/09/11/photos-911-remembrance-ceremonies-new-york-pennsylvania/"
+  ],
+  [
     "readers",
     13,
     "https://www.washingtonpost.com/business/2026/09/11/do-you-run-or-work-business-that-has-been-impacted-by-trumps-immigration-policies/"
   ],
   [
-    "changed",
+    "nearly",
     13,
-    "https://www.washingtonpost.com/nation/2026/09/11/new-york-changed-dramatic-surprising-ways-25-years-since-911/"
+    "https://www.washingtonpost.com/business/2026/09/11/are-you-young-person-who-isnt-working-or-school-we-want-hear-you/"
+  ],
+  [
+    "least",
+    13,
+    "https://www.washingtonpost.com/nation/2026/09/10/least-1000-boys-girls-who-died-state-custody-are-buried-graves-across-us/"
+  ],
+  [
+    "ago",
+    13,
+    "https://www.washingtonpost.com/nation/2026/09/10/how-charlie-kirk-shooting-changed-their-lives/"
+  ],
+  [
+    "questions",
+    13,
+    "https://www.washingtonpost.com/health/2026/09/10/scientists-are-investigating-whether-popular-supplements-could-harm-aging-brain/"
   ],
   [
     "gaza",
@@ -296,49 +316,54 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "terrorist",
-    13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/11/september-11-dark-legacy"
-  ],
-  [
     "hair",
     13,
     "https://www.theguardian.com/lifeandstyle/2026/sep/11/sorting-science-from-hype-about-weight-loss-drugs"
   ],
   [
-    "democrats",
+    "stop",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/11/donald-trump-republican-midterm-convention"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/11/sorting-science-from-hype-about-weight-loss-drugs"
   ],
   [
-    "control",
+    "experts",
     13,
-    "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/11/sorting-science-from-hype-about-weight-loss-drugs"
   ],
   [
-    "star",
+    "watch",
     13,
-    "https://www.theguardian.com/music/2026/sep/11/celine-dion-fans-paris-sold-out-comeback-shows"
+    "https://www.theguardian.com/commentisfree/2026/sep/11/george-w-bush-torture-9-11-trump"
   ],
   [
-    "fewer",
+    "data",
+    13,
+    "https://www.theguardian.com/business/2026/sep/11/inflation-august-interest-rates"
+  ],
+  [
+    "filter",
     13,
     "https://www.theguardian.com/thefilter-us/2026/sep/11/horl-3-knife-sharpener-review"
   ],
   [
-    "support",
+    "director",
     13,
-    "https://www.theguardian.com/commentisfree/2026/sep/11/gaza-horror-global-powers-support-blueprint-palestinians-israel"
+    "https://www.theguardian.com/film/2026/sep/11/faith-review-erin-doherty-james-mcavoy"
   ],
   [
-    "death",
+    "industry",
     13,
-    "https://www.theguardian.com/commentisfree/2026/sep/11/gaza-horror-global-powers-support-blueprint-palestinians-israel"
+    "https://www.theguardian.com/film/2026/sep/11/faith-review-erin-doherty-james-mcavoy"
   ],
   [
-    "review",
+    "different",
     13,
-    "https://www.theguardian.com/football/2026/sep/11/champions-league-review-troy-parrott-jose-mourinho-michael-olise"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/12/living-with-tinnitus-can-be-distressing-which-therapy-can-help"
+  ],
+  [
+    "case",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-controlling-ai-humanity-cannot-outsource-its-survival"
   ],
   [
     "smith",
@@ -346,33 +371,8 @@
     "https://www.theguardian.com/lifeandstyle/2026/sep/11/leading-questions-mother-in-law-buys-overly-girly-clothes-for-daughter"
   ],
   [
-    "vance",
-    13,
-    "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting"
-  ],
-  [
-    "ground",
+    "island",
     12,
     "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html"
-  ],
-  [
-    "response",
-    12,
-    "https://www.nytimes.com/2026/09/11/opinion/911-war-on-terror-heroes.html"
-  ],
-  [
-    "working",
-    12,
-    "https://www.washingtonpost.com/business/2026/09/11/are-you-young-person-who-isnt-working-or-school-we-want-hear-you/"
-  ],
-  [
-    "don",
-    12,
-    "https://www.washingtonpost.com/education/2026/09/11/student-loan-payments-will-soar-if-borrowers-dont-act-soon-glitches-abound/"
-  ],
-  [
-    "supreme",
-    12,
-    "https://www.washingtonpost.com/politics/2026/09/10/supreme-court-again-blocks-new-missouri-congressional-map-favoring-gop/"
   ]
 ];
