@@ -2,308 +2,288 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    86,
-    "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html"
+    79,
+    "https://www.nytimes.com/2026/09/10/us/politics/trump-sept-11-terrorism.html"
   ],
   [
     "president",
-    50,
-    "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html"
-  ],
-  [
-    "convention",
-    37,
-    "https://www.theguardian.com/us-news/2026/sep/10/jd-vance-republican-midterm-convention"
-  ],
-  [
-    "midterm",
-    31,
-    "https://www.washingtonpost.com/politics/2026/09/09/missouri-electoral-map-chaos-after-clashing-rulings-by-kavanaugh-judge/"
+    48,
+    "https://www.nytimes.com/2026/09/10/us/politics/trump-sept-11-terrorism.html"
   ],
   [
     "war",
-    28,
-    "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html"
-  ],
-  [
-    "republicans",
-    28,
-    "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-republicans-inflation.html"
-  ],
-  [
-    "american",
-    27,
-    "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-republicans-inflation.html"
-  ],
-  [
-    "gop",
-    26,
-    "https://www.washingtonpost.com/business/2026/09/10/many-republicans-skeptical-about-trump-plan-tie-5000-dividends-gop-wins/"
-  ],
-  [
-    "film",
-    26,
-    "https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film"
-  ],
-  [
-    "vance",
-    25,
-    "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html"
+    32,
+    "https://www.nytimes.com/2026/09/10/us/politics/trump-sept-11-terrorism.html"
   ],
   [
     "attacks",
-    24,
-    "https://www.nytimes.com/2026/09/10/opinion/911-ai-terrorist-attack-america.html"
+    31,
+    "https://www.nytimes.com/2026/09/11/nyregion/911-attacks-muslim-sikh-new-yorkers.html"
   ],
   [
-    "game",
-    24,
-    "https://www.theguardian.com/sport/2026/sep/10/angel-reese-caitlin-clark-fiba-world-cup-basketball-usa-hungary"
+    "convention",
+    31,
+    "https://www.nytimes.com/2026/09/11/us/politics/vance-republican-convention-speech-trump.html"
   ],
   [
-    "republican",
-    23,
+    "midterm",
+    28,
+    "https://www.nytimes.com/2026/09/11/us/politics/republican-midterm-convention-vance-takeaways.html"
+  ],
+  [
+    "republicans",
+    27,
     "https://www.washingtonpost.com/business/2026/09/10/many-republicans-skeptical-about-trump-plan-tie-5000-dividends-gop-wins/"
   ],
   [
-    "death",
+    "gop",
+    25,
+    "https://www.washingtonpost.com/business/2026/09/10/many-republicans-skeptical-about-trump-plan-tie-5000-dividends-gop-wins/"
+  ],
+  [
+    "game",
+    25,
+    "https://www.theguardian.com/games/2026/sep/11/tomb-raider-legacy-of-atlantis-lara-croft-remake"
+  ],
+  [
+    "american",
     23,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/10/the-paper-season-two-review-one-of-the-best-comedies-on-tv-right-now"
+    "https://www.nytimes.com/2026/09/10/us/politics/trump-sept-11-terrorism.html"
   ],
   [
-    "kirk",
-    22,
-    "https://www.washingtonpost.com/nation/2026/09/10/how-charlie-kirk-shooting-changed-their-lives/"
-  ],
-  [
-    "family",
-    21,
-    "https://www.washingtonpost.com/weather/2026/09/09/family-awaits-news-search-continues-last-person-missing-grand-canyon/"
+    "americans",
+    23,
+    "https://www.nytimes.com/2026/09/11/nyregion/911-attacks-muslim-sikh-new-yorkers.html"
   ],
   [
     "night",
-    21,
-    "https://www.theguardian.com/us-news/2026/sep/10/jd-vance-republican-midterm-convention"
-  ],
-  [
-    "court",
-    20,
-    "https://www.nytimes.com/2026/09/10/briefing/supreme-court-voting-map-missouri.html"
-  ],
-  [
-    "political",
-    20,
-    "https://www.nytimes.com/2026/09/10/us/digenova-steps-down-grand-conspiracy-case.html"
-  ],
-  [
-    "company",
-    20,
-    "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html"
-  ],
-  [
-    "charlie",
-    20,
-    "https://www.washingtonpost.com/nation/2026/09/10/how-charlie-kirk-shooting-changed-their-lives/"
+    23,
+    "https://www.nytimes.com/2026/09/11/us/politics/republican-midterm-convention-vance-takeaways.html"
   ],
   [
     "country",
-    20,
+    23,
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "government",
-    19,
-    "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html"
+    "film",
+    23,
+    "https://www.theguardian.com/film/2026/sep/11/people-think-fame-is-a-magic-wand-jarvis-cocker-on-old-songs-young-fans-and-his-grannys-verdict-on-pulp"
   ],
   [
-    "summer",
-    19,
-    "https://www.theguardian.com/wellness/2026/sep/10/bananas-blueberries-smoothies-antioxidants"
+    "political",
+    22,
+    "https://www.nytimes.com/2026/09/11/nyregion/911-attacks-muslim-sikh-new-yorkers.html"
   ],
   [
-    "democrats",
+    "latest",
+    21,
+    "https://www.washingtonpost.com/politics/2026/09/10/supreme-court-again-blocks-new-missouri-congressional-map-favoring-gop/"
+  ],
+  [
+    "food",
+    21,
+    "https://www.theguardian.com/world/2026/sep/11/favela-mare-food-tour-comida-rio-de-janeiro"
+  ],
+  [
+    "republican",
+    20,
+    "https://www.nytimes.com/2026/09/11/us/politics/republican-midterm-convention-vance-takeaways.html"
+  ],
+  [
+    "family",
+    20,
+    "https://www.theguardian.com/music/2026/sep/11/neil-young-and-the-chrome-hearts-second-song-review-shaky-album-occasionally-strikes-gold"
+  ],
+  [
+    "vance",
     19,
-    "https://www.theguardian.com/us-news/2026/sep/10/jd-vance-republican-midterm-convention"
+    "https://www.nytimes.com/2026/09/11/podcasts/the-headlines/jd-vance-iran-war-ai.html"
+  ],
+  [
+    "sept",
+    19,
+    "https://www.nytimes.com/2026/09/11/briefing/twenty-five-years.html"
+  ],
+  [
+    "center",
+    18,
+    "https://www.nytimes.com/2026/09/11/us/politics/republican-midterm-convention-vance-takeaways.html"
+  ],
+  [
+    "iran",
+    18,
+    "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html"
+  ],
+  [
+    "sea",
+    18,
+    "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html"
+  ],
+  [
+    "court",
+    18,
+    "https://www.washingtonpost.com/politics/2026/09/10/supreme-court-again-blocks-new-missouri-congressional-map-favoring-gop/"
   ],
   [
     "review",
     18,
-    "https://www.nytimes.com/2026/09/10/insider/apple-iphone-duo-tech-reviews-journalists.html"
-  ],
-  [
-    "americans",
-    18,
-    "https://www.nytimes.com/2026/09/10/opinion/911-canada-gander-newfoundland-come-from-away.html"
-  ],
-  [
-    "global",
-    17,
-    "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html"
-  ],
-  [
-    "season",
-    17,
-    "https://www.washingtonpost.com/health/2026/09/02/fall-vaccine-guide-what-know-about-covid-flu-rsv-shots-this-year/"
-  ],
-  [
-    "york",
-    17,
-    "https://www.theguardian.com/us-news/2026/sep/10/cia-9-11-attacks"
-  ],
-  [
-    "water",
-    17,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/10/puerto-rico-water-access"
-  ],
-  [
-    "iran",
-    16,
-    "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html"
-  ],
-  [
-    "midterms",
-    16,
-    "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-republicans-inflation.html"
-  ],
-  [
-    "lawsuit",
-    16,
-    "https://www.washingtonpost.com/politics/2026/09/10/sending-armed-ice-agents-polling-places-would-be-federal-crime-lawsuit-says/"
-  ],
-  [
-    "air",
-    16,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "food",
-    16,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/10/puerto-rico-water-access"
-  ],
-  [
-    "school",
-    16,
-    "https://www.theguardian.com/books/2026/sep/11/taipei-story-by-rebecca-f-kuang-review-the-torture-and-hilarity-of-learning-chinese"
-  ],
-  [
-    "democratic",
-    16,
-    "https://www.theguardian.com/us-news/2026/sep/10/james-talarico-ken-paxton-epstein-survivors"
-  ],
-  [
-    "point",
-    16,
-    "https://www.theguardian.com/environment/2026/sep/10/climate-feedback-loops-global-warming-study"
-  ],
-  [
-    "cbs",
-    16,
-    "https://www.foxnews.com/media/democratic-rep-tells-abc-cbs-grow-spine-after-kimmel-announces-alternative-talarico-interview"
-  ],
-  [
-    "vice",
-    15,
-    "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html"
-  ],
-  [
-    "latest",
-    15,
-    "https://www.nytimes.com/2026/09/10/briefing/supreme-court-voting-map-missouri.html"
-  ],
-  [
-    "pledge",
-    15,
-    "https://www.washingtonpost.com/business/2026/09/10/many-republicans-skeptical-about-trump-plan-tie-5000-dividends-gop-wins/"
+    "https://www.theguardian.com/music/2026/sep/11/neil-young-and-the-chrome-hearts-second-song-review-shaky-album-occasionally-strikes-gold"
   ],
   [
     "media",
-    15,
+    17,
     "https://www.washingtonpost.com/nation/2026/09/10/newsom-signs-bill-banning-addictive-features-social-media-protect-teens/"
   ],
   [
-    "ago",
+    "donald",
+    17,
+    "https://www.washingtonpost.com/nation/2026/09/09/ap-says-it-will-refer-lake-ontario-by-its-original-name-despite-trumps-order/"
+  ],
+  [
+    "democrats",
+    17,
+    "https://www.theguardian.com/us-news/2026/sep/10/jd-vance-republican-midterm-convention"
+  ],
+  [
+    "elections",
+    16,
+    "https://www.nytimes.com/video/us/politics/100000011133866/how-trump-is-using-the-postal-service-to-intervene-in-elections.html"
+  ],
+  [
+    "trade",
+    16,
+    "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html"
+  ],
+  [
+    "season",
+    16,
+    "https://www.washingtonpost.com/health/2026/09/02/fall-vaccine-guide-what-know-about-covid-flu-rsv-shots-this-year/"
+  ],
+  [
+    "america",
+    16,
+    "https://www.theguardian.com/politics/video/2026/sep/11/trump-a-palooza-why-are-republicans-avoiding-the-president-politics-weekly-america"
+  ],
+  [
+    "china",
     15,
-    "https://www.washingtonpost.com/nation/2026/09/10/how-charlie-kirk-shooting-changed-their-lives/"
+    "https://www.nytimes.com/2026/09/11/world/asia/china-ai-attack-wechat.html"
   ],
   [
-    "late",
+    "texas",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/10/bald-eagle-us-canada-trade-war"
+    "https://www.washingtonpost.com/nation/2026/09/10/gina-hinojosa-ad-injects-abortion-into-tight-texas-governors-race/"
   ],
   [
-    "remains",
+    "victims",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/10/9-11-victim-families-saudi-arabia"
+    "https://www.washingtonpost.com/health/2026/09/09/cancers-toll-911-survivors-is-accelerating-25-years-later/"
   ],
   [
-    "interview",
+    "young",
     15,
-    "https://www.theguardian.com/commentisfree/2026/sep/10/trump-iran-violence"
+    "https://www.theguardian.com/music/2026/sep/11/neil-young-and-the-chrome-hearts-second-song-review-shaky-album-occasionally-strikes-gold"
   ],
   [
-    "grand",
-    14,
-    "https://www.nytimes.com/2026/09/10/us/digenova-steps-down-grand-conspiracy-case.html"
+    "company",
+    15,
+    "https://www.theguardian.com/technology/2026/sep/10/anthropic-report-details-ai-misuse"
   ],
   [
-    "million",
-    14,
-    "https://www.nytimes.com/2026/09/10/world/asia/toyohiro-akiyama-dead.html"
+    "star",
+    15,
+    "https://www.theguardian.com/music/2026/sep/11/celine-dion-fans-paris-sold-out-comeback-shows"
   ],
   [
-    "children",
-    14,
-    "https://www.washingtonpost.com/nation/2026/09/10/least-1000-boys-girls-who-died-state-custody-are-buried-graves-across-us/"
+    "control",
+    15,
+    "https://www.theguardian.com/world/ng-interactive/2026/sep/11/app-tracks-south-korea-stalkers-in-real-time"
   ],
   [
-    "killing",
+    "attack",
     14,
-    "https://www.washingtonpost.com/nation/2026/09/10/how-charlie-kirk-shooting-changed-their-lives/"
+    "https://www.nytimes.com/2026/09/10/us/politics/trump-sept-11-terrorism.html"
   ],
   [
-    "security",
+    "full",
     14,
-    "https://www.washingtonpost.com/nation/2026/09/10/how-charlie-kirk-shooting-changed-their-lives/"
+    "https://www.nytimes.com/2026/09/10/arts/design/bayeux-tapestry-replicas.html"
   ],
   [
     "near",
     14,
-    "https://www.washingtonpost.com/health/2026/09/02/fall-vaccine-guide-what-know-about-covid-flu-rsv-shots-this-year/"
+    "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html"
   ],
   [
-    "control",
+    "ago",
     14,
-    "https://www.theguardian.com/commentisfree/2026/sep/10/ai-control-sci-fi"
+    "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html"
   ],
   [
-    "documentary",
+    "global",
     14,
-    "https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film"
+    "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html"
   ],
   [
-    "director",
+    "today",
     14,
-    "https://www.theguardian.com/film/2026/sep/11/people-think-fame-is-a-magic-wand-jarvis-cocker-on-old-songs-young-fans-and-his-grannys-verdict-on-pulp"
+    "https://www.nytimes.com/2026/09/11/opinion/911-war-on-terror-heroes.html"
   ],
   [
-    "book",
+    "cost",
     14,
-    "https://www.theguardian.com/sport/2026/sep/11/elena-rybakina-beats-coco-gauff-us-open-womens-semi-final"
+    "https://www.washingtonpost.com/business/2026/09/10/many-republicans-skeptical-about-trump-plan-tie-5000-dividends-gop-wins/"
   ],
   [
-    "hot",
+    "industry",
     14,
-    "https://www.theguardian.com/environment/2026/sep/10/august-joint-hottest-month-recorded-globally"
+    "https://www.theguardian.com/music/2026/sep/11/neil-young-and-the-chrome-hearts-second-song-review-shaky-album-occasionally-strikes-gold"
+  ],
+  [
+    "games",
+    14,
+    "https://www.theguardian.com/sport/2026/sep/11/nfl-melbourne-mcg-fans-crowds-score-rams-49ers"
+  ],
+  [
+    "democratic",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/10/james-talarico-ken-paxton-epstein-survivors"
+  ],
+  [
+    "different",
+    13,
+    "https://www.nytimes.com/2026/09/11/business/bond-market-interest-rates.html"
+  ],
+  [
+    "vice",
+    13,
+    "https://www.nytimes.com/2026/09/11/us/politics/vance-republican-convention-speech-trump.html"
+  ],
+  [
+    "politics",
+    13,
+    "https://www.nytimes.com/video/us/politics/100000011133866/how-trump-is-using-the-postal-service-to-intervene-in-elections.html"
   ],
   [
     "administration",
     13,
-    "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html"
+    "https://www.nytimes.com/video/us/politics/100000011133866/how-trump-is-using-the-postal-service-to-intervene-in-elections.html"
   ],
   [
-    "win",
+    "red",
     13,
-    "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-republicans-inflation.html"
+    "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html"
+  ],
+  [
+    "prices",
+    13,
+    "https://www.nytimes.com/2026/09/11/business/diesel-fuel-prices.html"
+  ],
+  [
+    "york",
+    13,
+    "https://www.washingtonpost.com/nation/2026/09/11/new-york-changed-dramatic-surprising-ways-25-years-since-911/"
   ],
   [
     "trump's",
@@ -311,68 +291,88 @@
     "https://www.washingtonpost.com/business/2026/09/10/many-republicans-skeptical-about-trump-plan-tie-5000-dividends-gop-wins/"
   ],
   [
-    "cost",
+    "missouri",
     13,
-    "https://www.washingtonpost.com/business/2026/09/10/many-republicans-skeptical-about-trump-plan-tie-5000-dividends-gop-wins/"
+    "https://www.washingtonpost.com/politics/2026/09/10/supreme-court-again-blocks-new-missouri-congressional-map-favoring-gop/"
   ],
   [
-    "texas",
+    "questions",
     13,
-    "https://www.washingtonpost.com/nation/2026/09/10/gina-hinojosa-ad-injects-abortion-into-tight-texas-governors-race/"
+    "https://www.washingtonpost.com/health/2026/09/10/scientists-are-investigating-whether-popular-supplements-could-harm-aging-brain/"
   ],
   [
-    "growing",
+    "canada",
     13,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.washingtonpost.com/nation/2026/09/09/ap-says-it-will-refer-lake-ontario-by-its-original-name-despite-trumps-order/"
   ],
   [
-    "dallas",
+    "trial",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/10/jd-vance-republican-midterm-convention"
+    "https://www.washingtonpost.com/politics/2026/09/09/lindsay-clancy-case-holdout-juror-had-reasonable-doubt-foreperson-says/"
+  ],
+  [
+    "led",
+    13,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "lost",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/10/cia-9-11-attacks"
+  ],
+  [
+    "place",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/sep/11/trump-carney-canada-imperialism"
   ],
   [
     "festival",
     13,
-    "https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film"
+    "https://www.theguardian.com/music/2026/sep/11/100-years-after-john-coltranes-birth-secret-tapes-are-emerging-what-can-they-tell-us-about-jazzs-great-rulebreaker"
   ],
   [
-    "young",
+    "summer",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/10/lindsay-clancy-lawyer-mistrial"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/11/experience-ive-visited-every-motorway-service-station-in-britain"
   ],
   [
-    "buying",
+    "senate",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/10/puerto-rico-water-access"
+    "https://www.theguardian.com/us-news/2026/sep/10/james-talarico-ken-paxton-epstein-survivors"
   ],
   [
-    "really",
+    "smith",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/11/a-killer-story-review-dana-chandler"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/11/leading-questions-mother-in-law-buys-overly-girly-clothes-for-daughter"
   ],
   [
-    "star",
-    13,
-    "https://www.theguardian.com/film/2026/sep/10/scherzetto-review-toni-servillo-mario-martone-domenico-starnone-trick"
-  ],
-  [
-    "conspiracy",
+    "generation",
     12,
-    "https://www.nytimes.com/2026/09/10/us/digenova-steps-down-grand-conspiracy-case.html"
+    "https://www.nytimes.com/2026/09/11/nyregion/911-attacks-muslim-sikh-new-yorkers.html"
   ],
   [
-    "california",
+    "threat",
     12,
-    "https://www.washingtonpost.com/nation/2026/09/10/newsom-signs-bill-banning-addictive-features-social-media-protect-teens/"
+    "https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html"
   ],
   [
-    "study",
+    "little",
     12,
-    "https://www.washingtonpost.com/nation/2026/09/10/least-1000-boys-girls-who-died-state-custody-are-buried-graves-across-us/"
+    "https://www.washingtonpost.com/nation/2026/09/11/little-known-story-sculpture-that-bore-witness-911/"
   ],
   [
-    "race",
+    "government",
     12,
-    "https://www.washingtonpost.com/nation/2026/09/10/gina-hinojosa-ad-injects-abortion-into-tight-texas-governors-race/"
+    "https://www.washingtonpost.com/nation/2026/09/09/ap-says-it-will-refer-lake-ontario-by-its-original-name-despite-trumps-order/"
+  ],
+  [
+    "growing",
+    12,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "morning",
+    12,
+    "https://www.theguardian.com/sport/2026/sep/11/nfl-melbourne-mcg-fans-crowds-score-rams-49ers"
   ]
 ];
