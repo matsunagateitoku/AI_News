@@ -2,48 +2,53 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    73,
+    90,
     "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
   ],
   [
     "president",
-    45,
+    55,
     "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
   ],
   [
+    "war",
+    27,
+    "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html"
+  ],
+  [
     "attacks",
-    33,
+    24,
     "https://www.nytimes.com/2026/09/12/us/politics/trump-democrats-communism-midterms.html"
   ],
   [
-    "war",
-    33,
-    "https://www.nytimes.com/2026/09/12/world/middleeast/mokha-yemen-houthis-mocha-coffee.html"
-  ],
-  [
-    "york",
-    25,
-    "https://www.nytimes.com/2026/09/11/nyregion/9-11-anniversary-ceremony-nyc.html"
-  ],
-  [
-    "court",
-    23,
-    "https://www.washingtonpost.com/politics/2026/09/10/supreme-court-again-blocks-new-missouri-congressional-map-favoring-gop/"
-  ],
-  [
     "night",
-    22,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/12/emmys-2026-predictions-winners-pluribus-hacks-the-pitt"
+    24,
+    "https://www.theguardian.com/us-news/2026/sep/12/democrats-republican-midterm-convention"
   ],
   [
     "country",
-    21,
+    23,
     "https://www.nytimes.com/2026/09/12/us/politics/trump-democrats-communism-midterms.html"
   ],
   [
     "political",
-    21,
+    23,
     "https://www.washingtonpost.com/obituaries/2026/09/10/remembering-roger-simon-political-journalist-with-toughness-wit/"
+  ],
+  [
+    "film",
+    23,
+    "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-film-producer-kindly-cambridge-don-cool-uncle"
+  ],
+  [
+    "american",
+    22,
+    "https://www.washingtonpost.com/nation/2026/09/11/little-known-story-sculpture-that-bore-witness-911/"
+  ],
+  [
+    "republicans",
+    21,
+    "https://www.nytimes.com/2026/09/12/us/politics/trump-democrats-communism-midterms.html"
   ],
   [
     "food",
@@ -51,9 +56,9 @@
     "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab"
   ],
   [
-    "game",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/sep/12/the-hill-i-will-die-on-comedians-not-hot"
+    "control",
+    19,
+    "https://www.nytimes.com/2026/09/12/technology/why-its-tough-for-tech-companies-to-keep-ai-out-of-trouble.html"
   ],
   [
     "don",
@@ -61,54 +66,49 @@
     "https://www.washingtonpost.com/education/2026/09/11/student-loan-payments-will-soar-if-borrowers-dont-act-soon-glitches-abound/"
   ],
   [
+    "summer",
+    19,
+    "https://www.theguardian.com/us-news/2026/sep/12/west-nile-virus-chickens-delaware"
+  ],
+  [
+    "game",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/sep/12/the-hill-i-will-die-on-comedians-not-hot"
+  ],
+  [
     "heat",
     19,
     "https://www.theguardian.com/environment/2026/sep/11/supermarket-salad-rooftop-garden-berlin"
   ],
   [
-    "film",
-    19,
-    "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-"
-  ],
-  [
-    "family",
-    19,
-    "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-"
-  ],
-  [
-    "control",
+    "york",
     18,
-    "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html"
+    "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/"
   ],
   [
-    "iran",
+    "college",
     18,
-    "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html"
+    "https://www.theguardian.com/technology/2026/sep/12/chatbots-feel-dream-meet-man-leading-fight-ai-artificial-intelligence-rights"
   ],
   [
-    "book",
+    "love",
     18,
-    "https://www.nytimes.com/2026/09/12/magazine/naomi-klein-astra-taylor-interview.html"
+    "https://www.theguardian.com/us-news/2026/sep/12/donald-trump-says-he-would-love-to-see-united-ireland"
   ],
   [
-    "summer",
+    "star",
     18,
-    "https://www.theguardian.com/us-news/2026/sep/12/west-nile-virus-chickens-delaware"
-  ],
-  [
-    "full",
-    18,
-    "https://www.theguardian.com/media/2026/sep/12/david-brooks-podcast-permanent-questions"
+    "https://www.theguardian.com/us-news/2026/sep/12/trump-dallas-midterms-convention-republicans"
   ],
   [
     "hot",
     18,
-    "https://www.theguardian.com/commentisfree/2026/sep/12/the-hill-i-will-die-on-comedians-not-hot"
+    "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem"
   ],
   [
-    "grand",
+    "republican",
     17,
-    "https://www.washingtonpost.com/weather/2026/09/12/park-officials-pushed-grand-canyon-trail-remain-closed-then-floods-came/"
+    "https://www.nytimes.com/2026/09/12/us/politics/paxton-republican-pac-spending-midterms.html"
   ],
   [
     "young",
@@ -116,34 +116,64 @@
     "https://www.washingtonpost.com/business/2026/09/11/are-you-young-person-who-isnt-working-or-school-we-want-hear-you/"
   ],
   [
-    "california",
+    "museum",
     17,
-    "https://www.washingtonpost.com/nation/2026/09/10/newsom-signs-bill-banning-addictive-features-social-media-protect-teens/"
+    "https://www.washingtonpost.com/nation/2026/09/11/little-known-story-sculpture-that-bore-witness-911/"
   ],
   [
-    "republicans",
+    "latest",
+    17,
+    "https://www.washingtonpost.com/politics/2026/09/10/supreme-court-again-blocks-new-missouri-congressional-map-favoring-gop/"
+  ],
+  [
+    "music",
+    17,
+    "https://www.theguardian.com/us-news/2026/sep/12/trump-dallas-midterms-convention-republicans"
+  ],
+  [
+    "visit",
     16,
-    "https://www.nytimes.com/2026/09/12/us/politics/trump-democrats-communism-midterms.html"
+    "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html"
   ],
   [
-    "trade",
+    "midterm",
     16,
-    "https://www.nytimes.com/2026/09/12/world/middleeast/mokha-yemen-houthis-mocha-coffee.html"
+    "https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html"
   ],
   [
-    "past",
+    "win",
+    16,
+    "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html"
+  ],
+  [
+    "grand",
+    16,
+    "https://www.washingtonpost.com/weather/2026/09/12/park-officials-pushed-grand-canyon-trail-remain-closed-then-floods-came/"
+  ],
+  [
+    "gop",
     16,
     "https://www.washingtonpost.com/business/2026/09/11/inflation-remained-stubbornly-higher-august-met-expectations/"
   ],
   [
-    "american",
+    "little",
     16,
     "https://www.washingtonpost.com/nation/2026/09/11/little-known-story-sculpture-that-bore-witness-911/"
   ],
   [
-    "media",
+    "california",
     16,
     "https://www.washingtonpost.com/nation/2026/09/10/newsom-signs-bill-banning-addictive-features-social-media-protect-teens/"
+  ],
+  [
+    "court",
+    16,
+    "https://www.washingtonpost.com/politics/2026/09/10/supreme-court-again-blocks-new-missouri-congressional-map-favoring-gop/"
+  ],
+  [
+    "leading",
+    16,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "questions",
@@ -151,119 +181,144 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "health",
+    "family",
     16,
-    "https://www.theguardian.com/us-news/2026/sep/12/black-lung-worker-deaths"
-  ],
-  [
-    "author",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/sep/11/gaza-horror-global-powers-support-blueprint-palestinians-israel"
-  ],
-  [
-    "nearly",
-    15,
-    "https://www.washingtonpost.com/business/2026/09/11/are-you-young-person-who-isnt-working-or-school-we-want-hear-you/"
-  ],
-  [
-    "latest",
-    15,
-    "https://www.washingtonpost.com/politics/2026/09/10/supreme-court-again-blocks-new-missouri-congressional-map-favoring-gop/"
-  ],
-  [
-    "black",
-    15,
-    "https://www.washingtonpost.com/nation/2026/09/10/least-1000-boys-girls-who-died-state-custody-are-buried-graves-across-us/"
-  ],
-  [
-    "global",
-    15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "murder",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/11/california-woman-murder-charge-flagpole"
-  ],
-  [
-    "star",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/11/lil-durk-not-guilty-murder-for-hire-scheme"
-  ],
-  [
-    "because",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/12/trump-dallas-midterms-convention-republicans"
+    "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-"
   ],
   [
     "power",
-    14,
+    15,
     "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
   ],
   [
-    "sept",
-    14,
-    "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/"
+    "ireland",
+    15,
+    "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html"
   ],
   [
-    "gop",
-    14,
-    "https://www.washingtonpost.com/business/2026/09/11/inflation-remained-stubbornly-higher-august-met-expectations/"
+    "million",
+    15,
+    "https://www.nytimes.com/2026/09/12/us/politics/paxton-republican-pac-spending-midterms.html"
   ],
   [
-    "leading",
-    14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "donald",
+    15,
+    "https://www.washingtonpost.com/immigration/2026/09/11/dhs-hires-catholic-theologian-who-opposes-bishops-pope-immigration/"
   ],
   [
-    "attack",
-    14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "media",
+    15,
+    "https://www.washingtonpost.com/nation/2026/09/10/newsom-signs-bill-banning-addictive-features-social-media-protect-teens/"
   ],
   [
-    "response",
-    14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "full",
+    15,
+    "https://www.theguardian.com/media/2026/sep/12/david-brooks-podcast-permanent-questions"
   ],
   [
-    "air",
-    14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "author",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-art-heists-dont-believe-the-hollywood-hype"
   ],
   [
-    "released",
-    14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "ago",
-    14,
-    "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future"
+    "health",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/12/black-lung-worker-deaths"
   ],
   [
     "guide",
-    14,
+    15,
     "https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data"
   ],
   [
     "festival",
+    15,
+    "https://www.theguardian.com/film/2026/sep/12/everybody-wants-to-fck-me-review-taron-egerton"
+  ],
+  [
+    "government",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/12/harivansh-verma-best-phone-picture-balloons"
+    "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
   ],
   [
-    "politics",
-    13,
-    "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html"
+    "democrats",
+    14,
+    "https://www.nytimes.com/2026/09/12/us/politics/trump-democrats-communism-midterms.html"
   ],
   [
-    "saudi",
-    13,
-    "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html"
+    "iran",
+    14,
+    "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html"
   ],
   [
-    "americans",
+    "book",
+    14,
+    "https://www.nytimes.com/2026/09/12/magazine/naomi-klein-astra-taylor-interview.html"
+  ],
+  [
+    "past",
+    14,
+    "https://www.washingtonpost.com/business/2026/09/11/inflation-remained-stubbornly-higher-august-met-expectations/"
+  ],
+  [
+    "nearly",
+    14,
+    "https://www.washingtonpost.com/business/2026/09/11/are-you-young-person-who-isnt-working-or-school-we-want-hear-you/"
+  ],
+  [
+    "again",
+    14,
+    "https://www.washingtonpost.com/politics/2026/09/10/supreme-court-again-blocks-new-missouri-congressional-map-favoring-gop/"
+  ],
+  [
+    "black",
+    14,
+    "https://www.washingtonpost.com/nation/2026/09/10/least-1000-boys-girls-who-died-state-custody-are-buried-graves-across-us/"
+  ],
+  [
+    "global",
+    14,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "pop",
+    14,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "team",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "company",
+    14,
+    "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown"
+  ],
+  [
+    "industry",
+    14,
+    "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown"
+  ],
+  [
+    "campaign",
     13,
-    "https://www.washingtonpost.com/nation/2026/09/12/ranchers-loyalty-trump-wavers-some-bristle-over-beef-imports/"
+    "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
+  ],
+  [
+    "decades",
+    13,
+    "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html"
+  ],
+  [
+    "brand",
+    13,
+    "https://www.nytimes.com/2026/09/12/us/politics/trump-democrats-communism-midterms.html"
+  ],
+  [
+    "texas",
+    13,
+    "https://www.nytimes.com/2026/09/12/us/politics/paxton-republican-pac-spending-midterms.html"
   ],
   [
     "fire",
@@ -271,24 +326,19 @@
     "https://www.washingtonpost.com/weather/2026/09/12/park-officials-pushed-grand-canyon-trail-remain-closed-then-floods-came/"
   ],
   [
-    "little",
-    13,
-    "https://www.washingtonpost.com/nation/2026/09/11/little-known-story-sculpture-that-bore-witness-911/"
-  ],
-  [
     "gaza",
     13,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "million",
+    "attack",
     13,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "team",
+    "air",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "system",
@@ -296,83 +346,33 @@
     "https://www.theguardian.com/us-news/2026/sep/12/west-nile-virus-chickens-delaware"
   ],
   [
-    "win",
+    "party",
     13,
     "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future"
   ],
   [
-    "love",
+    "convention",
     13,
-    "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates"
+    "https://www.theguardian.com/us-news/2026/sep/12/democrats-republican-midterm-convention"
   ],
   [
-    "different",
+    "because",
     13,
-    "https://www.theguardian.com/education/2026/sep/12/graduate-survey-many-regret-subject-choices-hindsight"
+    "https://www.theguardian.com/us-news/2026/sep/12/trump-dallas-midterms-convention-republicans"
   ],
   [
-    "smith",
+    "experience",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/11/leading-questions-mother-in-law-buys-overly-girly-clothes-for-daughter"
+    "https://www.theguardian.com/football/2026/sep/12/fifa-gianni-infantino-donald-trump-change"
   ],
   [
-    "jason",
+    "murder",
     13,
-    "https://www.theguardian.com/games/2026/sep/09/grand-theft-auto-vi-can-playing-a-video-game-count-as-cheating-on-your-partner"
+    "https://www.theguardian.com/us-news/2026/sep/11/california-woman-murder-charge-flagpole"
   ],
   [
-    "government",
-    12,
-    "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
-  ],
-  [
-    "campaign",
-    12,
-    "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
-  ],
-  [
-    "democrats",
-    12,
-    "https://www.nytimes.com/2026/09/12/us/politics/trump-democrats-communism-midterms.html"
-  ],
-  [
-    "oil",
-    12,
-    "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html"
-  ],
-  [
-    "red",
-    12,
-    "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html"
-  ],
-  [
-    "yemen",
-    12,
-    "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html"
-  ],
-  [
-    "anniversary",
-    12,
-    "https://www.nytimes.com/2026/09/11/nyregion/9-11-anniversary-ceremony-nyc.html"
-  ],
-  [
-    "north",
-    12,
-    "https://www.washingtonpost.com/weather/2026/09/12/park-officials-pushed-grand-canyon-trail-remain-closed-then-floods-came/"
-  ],
-  [
-    "outbreak",
-    12,
-    "https://www.washingtonpost.com/health/2026/09/10/federal-officials-poised-declare-end-uss-largest-known-cyclosporiasis-outbreak/"
-  ],
-  [
-    "here's",
-    12,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "job",
-    12,
-    "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future"
+    "filter",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/sep/12/breville-eye-q-toaster-review"
   ]
 ];
