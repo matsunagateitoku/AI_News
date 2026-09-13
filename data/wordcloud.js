@@ -2,78 +2,58 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    69,
-    "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
+    62,
+    "https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html"
   ],
   [
     "president",
-    54,
-    "https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html"
+    52,
+    "https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html"
   ],
   [
     "war",
-    31,
-    "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html"
+    32,
+    "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html"
   ],
   [
-    "film",
-    28,
-    "https://www.theguardian.com/music/2026/sep/13/celine-dion-review-paris-comeback-emotional-triumphant-return-plenitude-arena"
-  ],
-  [
-    "night",
-    24,
-    "https://www.theguardian.com/commentisfree/2026/sep/12/trump-voters-woman"
+    "food",
+    26,
+    "https://www.theguardian.com/news/ng-interactive/2026/sep/13/france-disappearing-bistros-rural-french-village"
   ],
   [
     "court",
+    26,
+    "https://www.theguardian.com/us-news/2026/sep/13/new-orleans-lawyer-hurricane-ida-insurance-fraud"
+  ],
+  [
+    "film",
     24,
-    "https://www.theguardian.com/us-news/2026/sep/12/surrogate-mother-texas-custody-supreme-court-appeal"
-  ],
-  [
-    "political",
-    23,
-    "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html"
-  ],
-  [
-    "country",
-    23,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "california",
-    23,
-    "https://www.theguardian.com/us-news/2026/sep/12/surrogate-mother-texas-custody-supreme-court-appeal"
+    "https://www.theguardian.com/music/2026/sep/13/celine-dion-review-paris-comeback-emotional-triumphant-return-plenitude-arena"
   ],
   [
     "game",
-    23,
-    "https://www.theguardian.com/sport/2026/sep/13/elena-rybakina-beats-aryna-sabalenka-us-open-title-tennis"
+    24,
+    "https://www.theguardian.com/sport/2026/sep/12/missouri-kansas-border-war-slavery-eli-drinkwitz-football"
   ],
   [
     "family",
     23,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/13/partners-sister-family-memoir-misrepresents-him-annalisa-barbieri"
+    "https://www.theguardian.com/global-development/2026/sep/13/palestinian-men-war-gaza-israel-war"
+  ],
+  [
+    "night",
+    23,
+    "https://www.theguardian.com/music/2026/sep/13/celine-dion-review-paris-comeback-emotional-triumphant-return-plenitude-arena"
   ],
   [
     "attacks",
-    22,
+    21,
     "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "food",
-    22,
-    "https://www.theguardian.com/news/ng-interactive/2026/sep/13/france-disappearing-bistros-rural-french-village"
-  ],
-  [
-    "festival",
-    22,
-    "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review"
-  ],
-  [
-    "anthropic",
+    "republicans",
     21,
-    "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html"
+    "https://www.theguardian.com/us-news/2026/sep/12/trump-midterm-dividend-funding"
   ],
   [
     "ukraine",
@@ -81,14 +61,54 @@
     "https://www.theguardian.com/commentisfree/2026/sep/13/putin-ukraine-nato-russia-forever-war-crime-against-humanity-western-democracies"
   ],
   [
-    "star",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/sep/12/trump-voters-woman"
+    "california",
+    20,
+    "https://www.theguardian.com/us-news/2026/sep/12/surrogate-mother-texas-custody-supreme-court-appeal"
   ],
   [
-    "latest",
+    "country",
+    19,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "political",
+    18,
+    "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html"
+  ],
+  [
+    "texas",
+    18,
+    "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html"
+  ],
+  [
+    "mother",
+    18,
+    "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review"
+  ],
+  [
+    "festival",
+    18,
+    "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review"
+  ],
+  [
+    "nfl",
+    18,
+    "https://www.theguardian.com/fashion/2026/sep/11/slam-dunk-tommy-hilfiger-plaza-homecoming-fashion-new-york"
+  ],
+  [
+    "gop",
+    18,
+    "https://www.foxnews.com/politics/gop-women-sound-alarm-lindsay-clancy-backlash-revives-calls-repeal-19th-amendment-definitely-threat"
+  ],
+  [
+    "democrats",
     17,
-    "https://www.nytimes.com/2026/09/12/arts/design/trump-smithsonian-washington-statue.html"
+    "https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html"
+  ],
+  [
+    "pop",
+    17,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
     "past",
@@ -96,154 +116,114 @@
     "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "republicans",
+    "don",
     17,
-    "https://www.theguardian.com/commentisfree/2026/sep/12/trump-voters-woman"
+    "https://www.theguardian.com/commentisfree/2026/sep/13/trump-administration-bike-lanes-dei"
   ],
   [
-    "ceo",
+    "media",
     17,
     "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown"
   ],
   [
-    "attack",
-    16,
-    "https://www.nytimes.com/2026/09/12/arts/design/trump-smithsonian-washington-statue.html"
-  ],
-  [
-    "director",
-    16,
-    "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html"
-  ],
-  [
-    "media",
-    16,
-    "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html"
-  ],
-  [
-    "mother",
-    16,
-    "https://www.theguardian.com/us-news/2026/sep/12/mississippi-police-arrests-tasia-fortune-death-tree"
+    "law",
+    17,
+    "https://www.theguardian.com/us-news/2026/sep/13/new-orleans-lawyer-hurricane-ida-insurance-fraud"
   ],
   [
     "party",
     16,
-    "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown"
+    "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government"
   ],
   [
-    "york",
+    "young",
     16,
-    "https://www.theguardian.com/sport/2026/sep/13/elena-rybakina-beats-aryna-sabalenka-us-open-title-tennis"
+    "https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-art-heists-dont-believe-the-hollywood-hype"
   ],
   [
-    "school",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/13/the-moment-i-knew-i-had-planned-to-break-up-with-him-then-he-snuck-out-of-school-to-buy-me-hot-chips"
-  ],
-  [
-    "harris",
-    16,
-    "https://www.theguardian.com/food/2026/aug/21/americans-food-monthly-spending"
-  ],
-  [
-    "industry",
+    "anthropic",
     15,
     "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html"
   ],
   [
-    "win",
+    "line",
     15,
-    "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "million",
+    "secretary",
     15,
-    "https://www.nytimes.com/2026/09/12/us/politics/paxton-republican-pac-spending-midterms.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "young",
+    "government",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/12/fired-showdown-donald-trump-us-president-interview-stories"
+    "https://www.theguardian.com/commentisfree/2026/sep/13/trump-administration-bike-lanes-dei"
   ],
   [
-    "control",
+    "because",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/sep/13/trump-administration-bike-lanes-dei"
+  ],
+  [
+    "late",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga"
+  ],
+  [
+    "interview",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/12/trump-midterm-dividend-funding"
+  ],
+  [
+    "american",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth"
+  ],
+  [
+    "full",
+    15,
+    "https://www.theguardian.com/music/2026/sep/13/celine-dion-review-paris-comeback-emotional-triumphant-return-plenitude-arena"
+  ],
+  [
+    "star",
     15,
     "https://www.theguardian.com/commentisfree/2026/sep/12/trump-voters-woman"
   ],
   [
-    "law",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/12/alaska-drops-case-american-samoans-citizen-voting-form"
+    "million",
+    14,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
   ],
   [
-    "don",
-    15,
-    "https://www.theguardian.com/culture/2026/sep/12/lonnie-bunch-smithsonian-resignation-trump"
+    "music",
+    14,
+    "https://www.theguardian.com/music/2026/sep/13/kylie-minogue-cant-get-you-out-of-my-head-michael-cragg-book-extract"
   ],
   [
-    "author",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-art-heists-dont-believe-the-hollywood-hype"
+    "vice",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga"
   ],
   [
-    "love",
-    15,
-    "https://www.theguardian.com/film/2026/sep/12/woman-unknown-wins-venice-film-festival-as-naza-takes-special-jury-prize"
+    "donald",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga"
+  ],
+  [
+    "alleged",
+    14,
+    "https://www.theguardian.com/world/2026/sep/13/spain-james-fergie-chambers-extradition-request"
   ],
   [
     "summer",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/10/hawaii-hurricane-damage-el-nino"
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth"
   ],
   [
-    "american",
+    "york",
     14,
-    "https://www.nytimes.com/2026/09/12/arts/design/trump-smithsonian-washington-statue.html"
-  ],
-  [
-    "west",
-    14,
-    "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html"
-  ],
-  [
-    "book",
-    14,
-    "https://www.nytimes.com/2026/09/12/magazine/naomi-klein-astra-taylor-interview.html"
-  ],
-  [
-    "russia",
-    14,
-    "https://www.nytimes.com/2026/09/12/opinion/moldova-russia-european-union.html"
-  ],
-  [
-    "growing",
-    14,
-    "https://www.nytimes.com/2026/09/12/headway/can-a-teach-for-america-model-save-public-defense.html"
-  ],
-  [
-    "leading",
-    14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "released",
-    14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "guide",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/sep/12/breville-eye-q-toaster-review"
-  ],
-  [
-    "little",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/sep/12/breville-eye-q-toaster-review"
-  ],
-  [
-    "police",
-    14,
-    "https://www.theguardian.com/world/ng-interactive/2026/sep/13/iraq-normal-again-mass-arrests-cash-seizures-end-corruption"
+    "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review"
   ],
   [
     "hot",
@@ -251,69 +231,79 @@
     "https://www.theguardian.com/commentisfree/2026/sep/12/trump-voters-woman"
   ],
   [
-    "interview",
+    "author",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/12/trump-midterm-dividend-funding"
+    "https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-art-heists-dont-believe-the-hollywood-hype"
   ],
   [
-    "music",
+    "buying",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/12/trump-dallas-midterms-convention-republicans"
+    "https://www.theguardian.com/environment/2026/sep/13/kenyan-fruit-farmers-pesticide-environment"
+  ],
+  [
+    "guide",
+    14,
+    "https://www.theguardian.com/culture/2026/sep/11/from-oasis-to-k-pop-music-is-going-mad-for-the-big-screen-documentary"
+  ],
+  [
+    "school",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/13/the-moment-i-knew-i-had-planned-to-break-up-with-him-then-he-snuck-out-of-school-to-buy-me-hot-chips"
+  ],
+  [
+    "harris",
+    14,
+    "https://www.theguardian.com/food/2026/aug/21/americans-food-monthly-spending"
+  ],
+  [
+    "midterm",
+    13,
+    "https://www.nytimes.com/2026/09/13/us/politics/political-candidates-affordability-midterms.html"
   ],
   [
     "health",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/11/los-angeles-mountain-lion-griffith-park-sculpture"
-  ],
-  [
-    "cup",
-    14,
-    "https://www.theguardian.com/sport/2026/sep/12/usa-spain-womens-basketball-world-cup-semi-final"
-  ],
-  [
-    "kamala",
-    14,
-    "https://www.latimes.com/california/story/2026-09-12/trespasser-stopped-at-former-vice-president-kamala-harris-malibu-home"
-  ],
-  [
-    "power",
     13,
-    "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
+    "https://www.nytimes.com/2026/09/13/us/politics/political-candidates-affordability-midterms.html"
   ],
   [
-    "iran",
-    13,
-    "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html"
-  ],
-  [
-    "republican",
-    13,
-    "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html"
-  ],
-  [
-    "because",
-    13,
-    "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html"
-  ],
-  [
-    "line",
-    13,
-    "https://www.nytimes.com/2026/09/12/opinion/moldova-russia-european-union.html"
-  ],
-  [
-    "pop",
-    13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "fire",
+    "released",
     13,
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "donald",
+    "lost",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/12/fired-showdown-donald-trump-us-president-interview-stories"
+    "https://www.theguardian.com/music/2026/sep/13/kylie-minogue-cant-get-you-out-of-my-head-michael-cragg-book-extract"
+  ],
+  [
+    "artist",
+    13,
+    "https://www.theguardian.com/music/2026/sep/13/kylie-minogue-cant-get-you-out-of-my-head-michael-cragg-book-extract"
+  ],
+  [
+    "russia",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/sep/13/putin-ukraine-nato-russia-forever-war-crime-against-humanity-western-democracies"
+  ],
+  [
+    "ceo",
+    13,
+    "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown"
+  ],
+  [
+    "season",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/sep/13/ketchup-sunday-roast-gen-z"
+  ],
+  [
+    "little",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-controlling-ai-humanity-cannot-outsource-its-survival"
+  ],
+  [
+    "weekly",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/13/the-moment-i-knew-i-had-planned-to-break-up-with-him-then-he-snuck-out-of-school-to-buy-me-hot-chips"
   ],
   [
     "filter",
@@ -321,58 +311,68 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/12/breville-eye-q-toaster-review"
   ],
   [
-    "buying",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/12/breville-eye-q-toaster-review"
-  ],
-  [
-    "hair",
-    13,
-    "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility"
-  ],
-  [
-    "black",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/12/mississippi-police-arrests-tasia-fortune-death-tree"
-  ],
-  [
-    "case",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/12/surrogate-mother-texas-custody-supreme-court-appeal"
-  ],
-  [
-    "late",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/11/los-angeles-mountain-lion-griffith-park-sculpture"
-  ],
-  [
-    "full",
-    13,
-    "https://www.theguardian.com/music/2026/sep/13/celine-dion-review-paris-comeback-emotional-triumphant-return-plenitude-arena"
-  ],
-  [
-    "vice",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/sep/11/george-w-bush-torture-9-11-trump"
-  ],
-  [
     "smith",
     13,
     "https://www.theguardian.com/lifeandstyle/2026/sep/11/leading-questions-mother-in-law-buys-overly-girly-clothes-for-daughter"
   ],
   [
-    "democrats",
+    "attack",
     12,
-    "https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html"
+    "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html"
   ],
   [
-    "museum",
+    "campaign",
     12,
-    "https://www.nytimes.com/2026/09/12/arts/design/trump-smithsonian-washington-statue.html"
+    "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html"
   ],
   [
-    "military",
+    "voters",
     12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/09/13/us/democrats-populists.html"
+  ],
+  [
+    "property",
+    12,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "least",
+    12,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "song",
+    12,
+    "https://www.theguardian.com/music/2026/sep/13/kylie-minogue-cant-get-you-out-of-my-head-michael-cragg-book-extract"
+  ],
+  [
+    "child",
+    12,
+    "https://www.theguardian.com/global-development/2026/sep/13/palestinian-men-war-gaza-israel-war"
+  ],
+  [
+    "something",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/13/trump-administration-bike-lanes-dei"
+  ],
+  [
+    "los",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/13/trump-administration-bike-lanes-dei"
+  ],
+  [
+    "book",
+    12,
+    "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga"
+  ],
+  [
+    "again",
+    12,
+    "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga"
+  ],
+  [
+    "russian",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/13/putin-ukraine-nato-russia-forever-war-crime-against-humanity-western-democracies"
   ]
 ];
