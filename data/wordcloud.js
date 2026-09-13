@@ -2,63 +2,63 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    57,
+    66,
     "https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html"
   ],
   [
     "president",
-    48,
+    49,
     "https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html"
   ],
   [
     "war",
-    30,
+    32,
     "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
-  ],
-  [
-    "film",
-    27,
-    "https://www.theguardian.com/film/2026/sep/12/bold-bravura-choices-venice-film-festival-woman-unknown-possible-love-naza"
-  ],
-  [
-    "night",
-    26,
-    "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates"
   ],
   [
     "family",
-    25,
+    26,
     "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
   ],
   [
-    "food",
-    25,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
+    "film",
+    26,
+    "https://www.theguardian.com/film/2026/sep/13/i-play-rocky-review-stallone-biopic"
   ],
   [
     "political",
-    22,
+    25,
     "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html"
   ],
   [
-    "festival",
-    22,
-    "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age"
-  ],
-  [
     "nation",
-    21,
+    24,
     "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
   ],
   [
-    "american",
-    20,
-    "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth"
+    "food",
+    23,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
   ],
   [
-    "court",
+    "american",
+    22,
+    "https://www.theguardian.com/sport/live/2026/sep/13/us-open-tennis-2026-mens-final-alexander-zverev-v-ben-shelton-live-updates"
+  ],
+  [
+    "iran",
+    21,
+    "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html"
+  ],
+  [
+    "festival",
+    21,
+    "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age"
+  ],
+  [
+    "night",
     20,
-    "https://www.theguardian.com/sport/2026/sep/13/us-open-disneyland-tennis-premiumization-craig-tiley"
+    "https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser"
   ],
   [
     "law",
@@ -66,119 +66,129 @@
     "https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser"
   ],
   [
-    "don",
+    "court",
+    19,
+    "https://www.theguardian.com/us-news/2026/sep/13/new-orleans-lawyer-hurricane-ida-insurance-fraud"
+  ],
+  [
+    "because",
     18,
     "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
   ],
   [
-    "because",
+    "guide",
+    18,
+    "https://www.theguardian.com/environment/ng-interactive/2026/sep/13/bird-ecuador-rare-species-jocotoco-antpitta-foundation-conservation-biodiversity-aoe"
+  ],
+  [
+    "buying",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
+  ],
+  [
+    "party",
+    17,
+    "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age"
+  ],
+  [
+    "don",
     17,
     "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
   ],
   [
-    "government",
+    "elections",
     17,
-    "https://www.theguardian.com/world/2026/sep/13/spain-james-fergie-chambers-extradition-request"
+    "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats"
   ],
   [
     "democrats",
-    16,
-    "https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html"
-  ],
-  [
-    "lost",
-    16,
-    "https://www.washingtonpost.com/obituaries/2026/09/13/98-year-old-activist-who-always-felt-dandy-other-lives-weve-lost/"
-  ],
-  [
-    "guide",
-    16,
-    "https://www.theguardian.com/environment/ng-interactive/2026/sep/13/bird-ecuador-rare-species-jocotoco-antpitta-foundation-conservation-biodiversity-aoe"
-  ],
-  [
-    "experts",
-    16,
-    "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats"
-  ],
-  [
-    "party",
-    16,
-    "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats"
+    17,
+    "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates"
   ],
   [
     "california",
-    16,
+    17,
     "https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser"
   ],
   [
-    "buying",
+    "director",
+    17,
+    "https://www.theguardian.com/film/2026/sep/12/bold-bravura-choices-venice-film-festival-woman-unknown-possible-love-naza"
+  ],
+  [
+    "senate",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/sep/13/how-to-start-your-own-tool-library"
+    "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html"
+  ],
+  [
+    "country",
+    16,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "game",
     16,
-    "https://www.theguardian.com/sport/2026/sep/12/missouri-kansas-border-war-slavery-eli-drinkwitz-football"
+    "https://www.theguardian.com/sport/live/2026/sep/13/us-open-tennis-2026-mens-final-alexander-zverev-v-ben-shelton-live-updates"
   ],
   [
-    "mother",
+    "republicans",
     16,
-    "https://www.theguardian.com/us-news/2026/sep/12/surrogate-mother-texas-custody-supreme-court-appeal"
+    "https://www.theguardian.com/us-news/2026/sep/13/trump-5000-dividend-pledge"
   ],
   [
-    "iran",
+    "filter",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
+  ],
+  [
+    "industry",
+    16,
+    "https://www.theguardian.com/us-news/2026/sep/12/black-lung-worker-deaths"
+  ],
+  [
+    "cbs",
+    16,
+    "https://www.cbsnews.com/news/poll-trump-battleground-tracker-house-control-2026-midterm-elections/"
+  ],
+  [
+    "anthropic",
     15,
-    "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html"
+    "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html"
   ],
   [
-    "senate",
+    "full",
     15,
-    "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html"
+    "https://www.theguardian.com/sport/live/2026/sep/13/us-open-tennis-2026-mens-final-alexander-zverev-v-ben-shelton-live-updates"
   ],
   [
-    "republican",
-    15,
-    "https://www.nytimes.com/2026/09/13/us/politics/angie-nixon-florida-senate.html"
-  ],
-  [
-    "future",
-    15,
-    "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/"
-  ],
-  [
-    "country",
-    15,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "least",
-    15,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "always",
+    "art",
     15,
     "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
   ],
   [
-    "author",
+    "government",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
+    "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates"
   ],
   [
-    "vice",
+    "museum",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga"
+    "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/13/if-emmett-till-lived-exhibition-chicago"
+  ],
+  [
+    "young",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/14/kindness-of-strangers-child-vomit-man-helped"
   ],
   [
     "fewer",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/sep/13/how-to-start-your-own-tool-library"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
   ],
   [
-    "director",
+    "mother",
     15,
-    "https://www.theguardian.com/film/2026/sep/12/bold-bravura-choices-venice-film-festival-woman-unknown-possible-love-naza"
+    "https://www.theguardian.com/us-news/2026/sep/12/surrogate-mother-texas-custody-supreme-court-appeal"
   ],
   [
     "interview",
@@ -186,34 +196,34 @@
     "https://www.theguardian.com/lifeandstyle/2026/sep/12/tim-dowling-how-not-to-interview-eminent-scientists-a-control-freaks-guide"
   ],
   [
-    "washington",
+    "campaign",
     14,
-    "https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html"
+    "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html"
   ],
   [
-    "anthropic",
+    "republican",
     14,
-    "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html"
+    "https://www.nytimes.com/2026/09/13/us/politics/angie-nixon-florida-senate.html"
   ],
   [
-    "something",
+    "died",
     14,
-    "https://www.nytimes.com/2026/09/13/opinion/ella-langley-landman-rural-politics.html"
+    "https://www.nytimes.com/2026/09/13/well/unvaccinated-woman-measles-complications-death.html"
   ],
   [
-    "win",
+    "lost",
     14,
-    "https://www.nytimes.com/2026/09/13/arts/design/did-trump-win-the-battle-over-the-smithsonian.html"
+    "https://www.washingtonpost.com/obituaries/2026/09/13/98-year-old-activist-who-always-felt-dandy-other-lives-weve-lost/"
   ],
   [
-    "york",
+    "gop",
+    14,
+    "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
+  ],
+  [
+    "future",
     14,
     "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/"
-  ],
-  [
-    "fire",
-    14,
-    "https://www.washingtonpost.com/weather/2026/09/12/park-officials-pushed-grand-canyon-trail-remain-closed-then-floods-came/"
   ],
   [
     "pop",
@@ -221,9 +231,19 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "growing",
+    "midterm",
     14,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats"
+  ],
+  [
+    "win",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats"
+  ],
+  [
+    "vice",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga"
   ],
   [
     "late",
@@ -231,74 +251,49 @@
     "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga"
   ],
   [
-    "filter",
+    "weekly",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/sep/13/how-to-start-your-own-tool-library"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
   ],
   [
-    "health",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/sep/14/how-to-have-healthier-relationship-with-ai-chatbots-human-intimacy"
-  ],
-  [
-    "emergency",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/13/wisconsin-congressman-plane-emergency-landing-lake"
-  ],
-  [
-    "industry",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/12/black-lung-worker-deaths"
-  ],
-  [
-    "young",
-    14,
-    "https://www.theguardian.com/music/2026/sep/11/100-years-after-john-coltranes-birth-secret-tapes-are-emerging-what-can-they-tell-us-about-jazzs-great-rulebreaker"
-  ],
-  [
-    "congress",
+    "johnson",
     13,
     "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html"
   ],
   [
-    "development",
+    "death",
     13,
-    "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html"
+    "https://www.nytimes.com/2026/09/13/well/unvaccinated-woman-measles-complications-death.html"
   ],
   [
-    "love",
+    "safety",
     13,
-    "https://www.washingtonpost.com/obituaries/2026/09/13/98-year-old-activist-who-always-felt-dandy-other-lives-weve-lost/"
+    "https://www.washingtonpost.com/weather/2026/09/12/park-officials-pushed-grand-canyon-trail-remain-closed-then-floods-came/"
   ],
   [
-    "elections",
+    "author",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
+  ],
+  [
+    "experts",
     13,
     "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats"
   ],
   [
-    "republicans",
+    "water",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/13/trump-5000-dividend-pledge"
+    "https://www.theguardian.com/us-news/2026/sep/13/wisconsin-congressman-plane-emergency-landing-lake"
   ],
   [
-    "review",
+    "dog",
     13,
-    "https://www.theguardian.com/film/2026/sep/13/i-play-rocky-review-stallone-biopic"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
   ],
   [
-    "star",
+    "something",
     13,
-    "https://www.theguardian.com/music/2026/sep/11/100-years-after-john-coltranes-birth-secret-tapes-are-emerging-what-can-they-tell-us-about-jazzs-great-rulebreaker"
-  ],
-  [
-    "games",
-    13,
-    "https://www.theguardian.com/music/2026/sep/11/haruomi-hosono-yours-sincerely-review"
-  ],
-  [
-    "little",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/12/breville-eye-q-toaster-review"
+    "https://www.theguardian.com/commentisfree/2026/sep/13/trump-administration-bike-lanes-dei"
   ],
   [
     "school",
@@ -311,9 +306,39 @@
     "https://www.theguardian.com/lifeandstyle/2026/sep/11/leading-questions-mother-in-law-buys-overly-girly-clothes-for-daughter"
   ],
   [
+    "risks",
+    12,
+    "https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html"
+  ],
+  [
+    "congress",
+    12,
+    "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html"
+  ],
+  [
+    "start",
+    12,
+    "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html"
+  ],
+  [
     "texas",
     12,
     "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html"
+  ],
+  [
+    "million",
+    12,
+    "https://www.nytimes.com/2026/09/13/business/guidepost-montessori-higher-ground-education-ray-girn.html"
+  ],
+  [
+    "measles",
+    12,
+    "https://www.nytimes.com/2026/09/13/well/unvaccinated-woman-measles-complications-death.html"
+  ],
+  [
+    "case",
+    12,
+    "https://www.nytimes.com/2026/09/13/well/unvaccinated-woman-measles-complications-death.html"
   ],
   [
     "stop",
@@ -321,14 +346,24 @@
     "https://www.washingtonpost.com/transportation/2026/09/13/why-stopping-plane-skidding-off-runway-is-challenge/"
   ],
   [
-    "gop",
+    "sept",
     12,
-    "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
+    "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/"
   ],
   [
-    "past",
+    "york",
     12,
-    "https://www.washingtonpost.com/business/2026/09/11/inflation-remained-stubbornly-higher-august-met-expectations/"
+    "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/"
+  ],
+  [
+    "gaza",
+    12,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "red",
+    12,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
     "term",
@@ -336,43 +371,8 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "possible",
+    "growing",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
-  ],
-  [
-    "book",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
-  ],
-  [
-    "lot",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
-  ],
-  [
-    "art",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
-  ],
-  [
-    "rare",
-    12,
-    "https://www.theguardian.com/environment/ng-interactive/2026/sep/13/bird-ecuador-rare-species-jocotoco-antpitta-foundation-conservation-biodiversity-aoe"
-  ],
-  [
-    "weekly",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/sep/13/how-to-start-your-own-tool-library"
-  ],
-  [
-    "outside",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/sep/13/how-to-start-your-own-tool-library"
-  ],
-  [
-    "song",
-    12,
-    "https://www.theguardian.com/music/2026/sep/13/kylie-minogue-cant-get-you-out-of-my-head-michael-cragg-book-extract"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ]
 ];
