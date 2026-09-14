@@ -2,22 +2,28 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
+      "name": "Ai",
+      "count": 46,
+      "url": "https://www.theguardian.com/stage/2026/sep/14/jack-thorne-scriptwriters-ai-artificial-intelligence",
+      "source": "The Guardian"
+    },
+    {
       "name": "Trump     Central",
-      "count": 42,
+      "count": 46,
       "url": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.-China Ai",
-      "count": 40,
-      "url": "https://www.cbsnews.com/video/anthropic-ceo-dario-amodei-says-us-china-ai-race-poses-toughest-dilemma/",
+      "name": "U.S. Air Force",
+      "count": 20,
+      "url": "https://www.cbsnews.com/news/rescuing-bravo-air-force-officer-iran-60-minutes/",
       "source": "CBS News"
     },
     {
-      "name": "The White House",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth",
-      "source": "The Guardian"
+      "name": "Gop",
+      "count": 15,
+      "url": "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/",
+      "source": "Washington Post"
     },
     {
       "name": "The Filter Us",
@@ -26,54 +32,110 @@
       "source": "The Guardian"
     },
     {
-      "name": "Gop",
-      "count": 13,
-      "url": "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/",
-      "source": "Washington Post"
-    },
-    {
       "name": "Congress",
-      "count": 12,
+      "count": 10,
       "url": "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html",
       "source": "NY Times"
     },
     {
-      "name": "Candidate For Senate",
+      "name": "The White House",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/09/13/us/politics/angie-nixon-florida-senate.html",
+      "url": "https://www.nytimes.com/2026/09/13/arts/design/did-trump-win-the-battle-over-the-smithsonian.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Cbs News Battleground Tracker",
-      "count": 10,
-      "url": "https://www.cbsnews.com/news/poll-trump-battleground-tracker-house-control-2026-midterm-elections/",
-      "source": "CBS News"
     },
     {
       "name": "Guardian",
       "count": 8,
-      "url": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
+      "url": "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb",
       "source": "The Guardian"
     },
     {
-      "name": "Ucla",
-      "count": 5,
-      "url": "https://www.latimes.com/california/story/2026-09-12/ucla-chancellor-law-school-9-11-event",
+      "name": "Amazon",
+      "count": 8,
+      "url": "https://www.theguardian.com/film/2026/sep/13/love-of-your-life-review-toronto",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Democratic Us Senate",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 55,
+      "url": "https://www.theguardian.com/artanddesign/2026/sep/14/washington-dc-arch-bunker-ballroom-trump-blingfest-achitectural-atrocity",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 39,
+      "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 21,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "California",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York",
+      "count": 14,
+      "url": "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Toronto",
+      "count": 13,
+      "url": "https://www.theguardian.com/film/2026/sep/13/love-of-your-life-review-toronto",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 11,
+      "url": "https://www.theguardian.com/politics/2026/sep/14/election-candidates-england-abuse-electoral-commission-report",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ukraine",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "South L.A.",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-09-13/crash-involving-la-fire-department-vehicle-sends-7-to-hospital",
       "source": "LA Times"
+    },
+    {
+      "name": "Texas",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/09/13/us/bo-french-racist-post-republicans-texas.html",
+      "source": "NY Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 24,
-      "url": "https://www.theguardian.com/uk-news/2026/sep/13/donald-trump-doubles-down-on-support-for-united-ireland",
+      "count": 27,
+      "url": "https://www.theguardian.com/artanddesign/2026/sep/14/washington-dc-arch-bunker-ballroom-trump-blingfest-achitectural-atrocity",
       "source": "The Guardian"
     },
     {
-      "name": "Margaret Brennan",
-      "count": 10,
-      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-13-2026/",
-      "source": "CBS News"
+      "name": "Ben Shelton",
+      "count": 9,
+      "url": "https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton",
+      "source": "The Guardian"
     },
     {
       "name": "Jd Vance",
@@ -82,28 +144,22 @@
       "source": "The Guardian"
     },
     {
-      "name": "Mike Johnson",
+      "name": "Rams",
       "count": 7,
-      "url": "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html",
+      "url": "https://www.latimes.com/sports/rams/story/2026-09-13/myles-garrett-knee-injury-warning-sign-rams-defense",
+      "source": "LA Times"
+    },
+    {
+      "name": "Dario Amodei Argued",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
       "source": "NY Times"
     },
     {
-      "name": "Abdul El-Sayed",
-      "count": 7,
-      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-13-2026/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Spencer Cox",
-      "count": 7,
-      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-13-2026/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Anthropic Ai",
-      "count": 7,
-      "url": "https://www.nbcnews.com/tech/security/anthropic-whistleblower-congress-ai-companies-regulation-rcna597465",
-      "source": "NBC News"
+      "name": "Zohran Mamdani",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/14/9-11-anniversary-islamophobia-us-politics-zohran-mamdani",
+      "source": "The Guardian"
     },
     {
       "name": "Charlie Kirk",
@@ -112,37 +168,25 @@
       "source": "The Guardian"
     },
     {
-      "name": "Tom Tiffany",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/sep/13/wisconsin-congressman-plane-emergency-landing-lake",
+      "name": "Boris Johnson",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Oscar",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb",
       "source": "The Guardian"
     },
     {
-      "name": "Dario Amodei Argued",
+      "name": "Anthony Ippolito",
       "count": 5,
-      "url": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/film/2026/sep/13/i-play-rocky-review-stallone-biopic",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
-    {
-      "name": "Fiba World Cup",
-      "count": 4,
-      "url": "https://www.cbsnews.com/news/us-women-fiba-world-cup-title-france/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Sept. 11, 2001",
-      "count": 2,
-      "url": "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/",
-      "source": "Washington Post"
-    },
     {
       "name": "Hurricane Ida",
       "count": 2,
@@ -150,10 +194,28 @@
       "source": "The Guardian"
     },
     {
-      "name": "Holocaust",
+      "name": "Cold War",
       "count": 2,
-      "url": "https://www.cbsnews.com/news/a-train-near-magdeburg-uncovering-a-holocaust-survival-story/",
+      "url": "https://www.foxnews.com/media/anthropic-ceo-likens-ai-fight-china-cold-war-seeks-disarmament-negotiations",
+      "source": "Fox News"
+    },
+    {
+      "name": "Fiba World Cup",
+      "count": 2,
+      "url": "https://www.cbsnews.com/news/us-women-fiba-world-cup-title-france/",
       "source": "CBS News"
+    },
+    {
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://thehill.com/homenews/administration/6087423-trump-urges-ukraine-halt-russia-oil-strikes/",
+      "source": "The Hill"
+    },
+    {
+      "name": "The Sept. 11, 2001",
+      "count": 1,
+      "url": "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/",
+      "source": "Washington Post"
     },
     {
       "name": "Easter Sunday",
@@ -168,85 +230,23 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Solheim Cup’S",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/sep/13/europe-win-solheim-cup-against-usa-anna-nordqvist-golf-report",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Get Out",
-      "count": 1,
-      "url": "https://www.theguardian.com/film/2026/sep/12/everybody-wants-to-fck-me-review-taron-egerton",
-      "source": "The Guardian"
-    },
-    {
       "name": "Station Eleven",
       "count": 1,
       "url": "https://www.theguardian.com/books/2026/sep/13/emily-st-john-mandel-when-half-the-electorate-disagrees-on-basic-reality-how-do-you-come-back-from-that",
       "source": "The Guardian"
-    }
-  ],
-  "GPE": [
+    },
     {
-      "name": "Us",
-      "count": 53,
-      "url": "https://www.theguardian.com/sport/live/2026/sep/13/us-open-tennis-2026-mens-final-alexander-zverev-v-ben-shelton-live-updates",
+      "name": "Summer Days",
+      "count": 1,
+      "url": "https://www.theguardian.com/fashion/2026/sep/12/boldness-of-modernism-new-york-fashion-week-goes-highbrow",
       "source": "The Guardian"
     },
     {
-      "name": "Uk",
-      "count": 19,
-      "url": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 15,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "California",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A.",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-09-13/pratt-voters-could-play-pivotal-role-in-deciding-l-a-s-next-mayor",
+      "name": "Toronto International Film Festival",
+      "count": 1,
+      "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-09-11/photos-toronto-international-film-festival-celebrity-portraits-studio-gallery-tiff-2026",
       "source": "LA Times"
-    },
-    {
-      "name": "New York City",
-      "count": 12,
-      "url": "https://www.washingtonpost.com/nation/interactive/2026/09/11/photos-911-remembrance-ceremonies-new-york-pennsylvania/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Texas",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "America",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/nation/interactive/2026/09/11/photos-911-remembrance-ceremonies-new-york-pennsylvania/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Toronto",
-      "count": 9,
-      "url": "https://www.theguardian.com/film/2026/sep/13/i-play-rocky-review-stallone-biopic",
-      "source": "The Guardian"
     }
   ],
-  "updated": "2026-09-13T21:18:47Z"
+  "updated": "2026-09-14T05:57:26Z"
 };

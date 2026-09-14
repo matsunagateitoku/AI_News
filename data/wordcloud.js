@@ -2,83 +2,98 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    66,
-    "https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html"
-  ],
-  [
-    "president",
-    49,
-    "https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html"
-  ],
-  [
-    "war",
-    32,
-    "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
-  ],
-  [
-    "family",
-    26,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
-  ],
-  [
-    "film",
-    26,
-    "https://www.theguardian.com/film/2026/sep/13/i-play-rocky-review-stallone-biopic"
-  ],
-  [
-    "political",
-    25,
-    "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html"
-  ],
-  [
-    "nation",
-    24,
-    "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
-  ],
-  [
-    "food",
-    23,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
-  ],
-  [
-    "american",
-    22,
-    "https://www.theguardian.com/sport/live/2026/sep/13/us-open-tennis-2026-mens-final-alexander-zverev-v-ben-shelton-live-updates"
-  ],
-  [
-    "iran",
-    21,
+    78,
     "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html"
   ],
   [
+    "president",
+    55,
+    "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html"
+  ],
+  [
+    "iran",
+    41,
+    "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html"
+  ],
+  [
+    "air",
+    33,
+    "https://www.washingtonpost.com/nation/2026/09/12/federal-judge-rules-trump-plan-cut-fema-by-50-percent-was-illegal/"
+  ],
+  [
+    "film",
+    31,
+    "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb"
+  ],
+  [
     "festival",
-    21,
-    "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age"
+    30,
+    "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival"
+  ],
+  [
+    "war",
+    29,
+    "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
   ],
   [
     "night",
+    24,
+    "https://www.nytimes.com/2026/09/13/business/media/emmys-what-to-expect.html"
+  ],
+  [
+    "force",
+    22,
+    "https://www.theguardian.com/commentisfree/2026/sep/14/9-11-anniversary-islamophobia-us-politics-zohran-mamdani"
+  ],
+  [
+    "food",
+    22,
+    "https://www.theguardian.com/commentisfree/2026/sep/13/putin-ukraine-nato-russia-forever-war-crime-against-humanity-western-democracies"
+  ],
+  [
+    "safety",
     20,
-    "https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser"
+    "https://www.nytimes.com/2026/09/13/technology/silicon-valley-ai-slowdown.html"
   ],
   [
-    "law",
-    19,
-    "https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser"
+    "american",
+    20,
+    "https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton"
   ],
   [
-    "court",
+    "game",
+    20,
+    "https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton"
+  ],
+  [
+    "shot",
+    20,
+    "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/13/if-emmett-till-lived-exhibition-chicago"
+  ],
+  [
+    "family",
     19,
-    "https://www.theguardian.com/us-news/2026/sep/13/new-orleans-lawyer-hurricane-ida-insurance-fraud"
+    "https://www.theguardian.com/global-development/2026/sep/13/palestinian-men-war-gaza-israel-war"
   ],
   [
     "because",
-    18,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
+    19,
+    "https://www.theguardian.com/film/2026/sep/13/life-and-deaths-of-wilson-shedd-review"
   ],
   [
-    "guide",
+    "win",
     18,
-    "https://www.theguardian.com/environment/ng-interactive/2026/sep/13/bird-ecuador-rare-species-jocotoco-antpitta-foundation-conservation-biodiversity-aoe"
+    "https://www.nytimes.com/2026/09/13/arts/design/did-trump-win-the-battle-over-the-smithsonian.html"
+  ],
+  [
+    "industry",
+    18,
+    "https://www.theguardian.com/stage/2026/sep/14/jack-thorne-scriptwriters-ai-artificial-intelligence"
+  ],
+  [
+    "political",
+    18,
+    "https://www.theguardian.com/us-news/2026/sep/13/trump-5000-dividend-pledge"
   ],
   [
     "buying",
@@ -86,54 +101,44 @@
     "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
   ],
   [
-    "party",
+    "york",
     17,
-    "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age"
+    "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/"
   ],
   [
-    "don",
+    "review",
     17,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
+    "https://www.theguardian.com/film/2026/sep/13/love-of-your-life-review-toronto"
   ],
   [
-    "elections",
-    17,
-    "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats"
-  ],
-  [
-    "democrats",
-    17,
-    "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates"
-  ],
-  [
-    "california",
-    17,
-    "https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser"
-  ],
-  [
-    "director",
-    17,
-    "https://www.theguardian.com/film/2026/sep/12/bold-bravura-choices-venice-film-festival-woman-unknown-possible-love-naza"
-  ],
-  [
-    "senate",
+    "minutes",
     16,
-    "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html"
-  ],
-  [
-    "country",
-    16,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "game",
-    16,
-    "https://www.theguardian.com/sport/live/2026/sep/13/us-open-tennis-2026-mens-final-alexander-zverev-v-ben-shelton-live-updates"
+    "https://www.nytimes.com/2026/09/13/business/media/60-minutes-season-premiere-bari-weiss.html"
   ],
   [
     "republicans",
     16,
-    "https://www.theguardian.com/us-news/2026/sep/13/trump-5000-dividend-pledge"
+    "https://www.nytimes.com/2026/09/13/us/bo-french-racist-post-republicans-texas.html"
+  ],
+  [
+    "lost",
+    16,
+    "https://www.washingtonpost.com/obituaries/2026/09/13/98-year-old-activist-who-always-felt-dandy-other-lives-weve-lost/"
+  ],
+  [
+    "gop",
+    16,
+    "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
+  ],
+  [
+    "future",
+    16,
+    "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/"
+  ],
+  [
+    "died",
+    16,
+    "https://www.washingtonpost.com/obituaries/2026/09/12/jay-maisel-cigar-chomping-giant-photography-has-died/"
   ],
   [
     "filter",
@@ -141,44 +146,49 @@
     "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
   ],
   [
-    "industry",
+    "guide",
     16,
-    "https://www.theguardian.com/us-news/2026/sep/12/black-lung-worker-deaths"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
   ],
   [
-    "cbs",
+    "school",
     16,
-    "https://www.cbsnews.com/news/poll-trump-battleground-tracker-house-control-2026-midterm-elections/"
+    "https://www.theguardian.com/film/2026/sep/13/life-and-deaths-of-wilson-shedd-review"
   ],
   [
-    "anthropic",
+    "love",
     15,
-    "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html"
+    "https://www.washingtonpost.com/obituaries/2026/09/13/98-year-old-activist-who-always-felt-dandy-other-lives-weve-lost/"
   ],
   [
-    "full",
+    "global",
     15,
-    "https://www.theguardian.com/sport/live/2026/sep/13/us-open-tennis-2026-mens-final-alexander-zverev-v-ben-shelton-live-updates"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "art",
+    "country",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "government",
+    "growing",
     15,
-    "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "museum",
+    "police",
     15,
-    "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/13/if-emmett-till-lived-exhibition-chicago"
+    "https://www.theguardian.com/us-news/2026/sep/13/missing-isle-royale-hiker-70-years-old-found-rescued"
   ],
   [
-    "young",
+    "california",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/14/kindness-of-strangers-child-vomit-man-helped"
+    "https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser"
+  ],
+  [
+    "dog",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
   ],
   [
     "fewer",
@@ -186,119 +196,124 @@
     "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
   ],
   [
-    "mother",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/12/surrogate-mother-texas-custody-supreme-court-appeal"
+    "oil",
+    14,
+    "https://www.nytimes.com/2026/09/13/business/oil-prices-jump-on-energy-supply-worries.html"
+  ],
+  [
+    "democrats",
+    14,
+    "https://www.nytimes.com/2026/09/13/us/democrats-populists.html"
+  ],
+  [
+    "party",
+    14,
+    "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age"
+  ],
+  [
+    "drama",
+    14,
+    "https://www.theguardian.com/stage/2026/sep/14/jack-thorne-scriptwriters-ai-artificial-intelligence"
+  ],
+  [
+    "toronto",
+    14,
+    "https://www.theguardian.com/film/2026/sep/13/love-of-your-life-review-toronto"
+  ],
+  [
+    "something",
+    14,
+    "https://www.theguardian.com/film/2026/sep/13/life-and-deaths-of-wilson-shedd-review"
+  ],
+  [
+    "tried",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/14/kindness-of-strangers-child-vomit-man-helped"
+  ],
+  [
+    "art",
+    14,
+    "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/13/if-emmett-till-lived-exhibition-chicago"
   ],
   [
     "interview",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/12/tim-dowling-how-not-to-interview-eminent-scientists-a-control-freaks-guide"
-  ],
-  [
-    "campaign",
     14,
-    "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html"
+    "https://www.latimes.com/opinion/story/2026-09-13/milo-yiannopoulos-deported-misogynist-right-wing-provocateur"
   ],
   [
-    "republican",
-    14,
-    "https://www.nytimes.com/2026/09/13/us/politics/angie-nixon-florida-senate.html"
-  ],
-  [
-    "died",
-    14,
-    "https://www.nytimes.com/2026/09/13/well/unvaccinated-woman-measles-complications-death.html"
-  ],
-  [
-    "lost",
-    14,
-    "https://www.washingtonpost.com/obituaries/2026/09/13/98-year-old-activist-who-always-felt-dandy-other-lives-weve-lost/"
-  ],
-  [
-    "gop",
-    14,
-    "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
-  ],
-  [
-    "future",
-    14,
-    "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/"
-  ],
-  [
-    "pop",
-    14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "midterm",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats"
-  ],
-  [
-    "win",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats"
-  ],
-  [
-    "vice",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga"
-  ],
-  [
-    "late",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga"
-  ],
-  [
-    "weekly",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
-  ],
-  [
-    "johnson",
+    "risks",
     13,
     "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html"
   ],
   [
-    "death",
+    "slow",
     13,
-    "https://www.nytimes.com/2026/09/13/well/unvaccinated-woman-measles-complications-death.html"
+    "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html"
   ],
   [
-    "safety",
+    "technology",
     13,
-    "https://www.washingtonpost.com/weather/2026/09/12/park-officials-pushed-grand-canyon-trail-remain-closed-then-floods-came/"
+    "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html"
   ],
   [
-    "author",
+    "local",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations"
+    "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
   ],
   [
-    "experts",
+    "red",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats"
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "water",
+    "pop",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/13/wisconsin-congressman-plane-emergency-landing-lake"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "dog",
+    "early",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "whose",
+    13,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "album",
+    13,
+    "https://www.theguardian.com/music/2026/sep/14/ive-never-been-more-terrified-carly-rae-jepsen-on-motherhood-stardom-and-her-horniest-album-ever"
+  ],
+  [
+    "play",
+    13,
+    "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival"
+  ],
+  [
+    "don",
+    13,
+    "https://www.theguardian.com/wellness/2026/sep/13/dandruff-home-treatment-symptoms"
+  ],
+  [
+    "law",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser"
+  ],
+  [
+    "weekly",
     13,
     "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
   ],
   [
-    "something",
+    "death",
     13,
-    "https://www.theguardian.com/commentisfree/2026/sep/13/trump-administration-bike-lanes-dei"
+    "https://www.theguardian.com/us-news/2026/sep/13/pennsylvania-third-measles-death-outbreak"
   ],
   [
-    "school",
+    "officer",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/06/naturepedic-serenade-organic-mattress-review"
+    "https://www.theguardian.com/us-news/2026/sep/13/san-jose-officer-fired-flock-camera-misuse"
   ],
   [
     "smith",
@@ -306,54 +321,24 @@
     "https://www.theguardian.com/lifeandstyle/2026/sep/11/leading-questions-mother-in-law-buys-overly-girly-clothes-for-daughter"
   ],
   [
-    "risks",
+    "prices",
     12,
-    "https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html"
+    "https://www.nytimes.com/2026/09/13/business/oil-prices-jump-on-energy-supply-worries.html"
   ],
   [
-    "congress",
+    "cbs",
     12,
-    "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html"
+    "https://www.nytimes.com/2026/09/13/business/media/60-minutes-season-premiere-bari-weiss.html"
   ],
   [
-    "start",
+    "democratic",
     12,
-    "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html"
+    "https://www.nytimes.com/2026/09/13/us/democrats-populists.html"
   ],
   [
-    "texas",
+    "side",
     12,
-    "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html"
-  ],
-  [
-    "million",
-    12,
-    "https://www.nytimes.com/2026/09/13/business/guidepost-montessori-higher-ground-education-ray-girn.html"
-  ],
-  [
-    "measles",
-    12,
-    "https://www.nytimes.com/2026/09/13/well/unvaccinated-woman-measles-complications-death.html"
-  ],
-  [
-    "case",
-    12,
-    "https://www.nytimes.com/2026/09/13/well/unvaccinated-woman-measles-complications-death.html"
-  ],
-  [
-    "stop",
-    12,
-    "https://www.washingtonpost.com/transportation/2026/09/13/why-stopping-plane-skidding-off-runway-is-challenge/"
-  ],
-  [
-    "sept",
-    12,
-    "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/"
-  ],
-  [
-    "york",
-    12,
-    "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/"
+    "https://www.nytimes.com/2026/09/13/arts/music/celine-dion-paris-comeback-concert.html"
   ],
   [
     "gaza",
@@ -361,18 +346,33 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "red",
+    "released",
     12,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "term",
+    "little",
     12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival"
   ],
   [
-    "growing",
+    "brand",
     12,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival"
+  ],
+  [
+    "experts",
+    12,
+    "https://www.theguardian.com/wellness/2026/sep/13/dandruff-home-treatment-symptoms"
+  ],
+  [
+    "wins",
+    12,
+    "https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton"
+  ],
+  [
+    "vice",
+    12,
+    "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga"
   ]
 ];
