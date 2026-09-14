@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    78,
-    "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html"
+    63,
+    "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html"
   ],
   [
     "president",
-    55,
-    "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html"
+    35,
+    "https://www.nytimes.com/2026/09/14/us/politics/sullivan-trump-republican-tariffs-alaska.html"
   ],
   [
     "iran",
-    41,
-    "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html"
+    28,
+    "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html"
   ],
   [
     "air",
-    33,
+    28,
     "https://www.washingtonpost.com/nation/2026/09/12/federal-judge-rules-trump-plan-cut-fema-by-50-percent-was-illegal/"
   ],
   [
-    "film",
-    31,
-    "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb"
-  ],
-  [
-    "festival",
-    30,
-    "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival"
-  ],
-  [
-    "war",
-    29,
-    "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
-  ],
-  [
-    "night",
-    24,
-    "https://www.nytimes.com/2026/09/13/business/media/emmys-what-to-expect.html"
-  ],
-  [
-    "force",
+    "leaders",
     22,
-    "https://www.theguardian.com/commentisfree/2026/sep/14/9-11-anniversary-islamophobia-us-politics-zohran-mamdani"
-  ],
-  [
-    "food",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/sep/13/putin-ukraine-nato-russia-forever-war-crime-against-humanity-western-democracies"
-  ],
-  [
-    "safety",
-    20,
-    "https://www.nytimes.com/2026/09/13/technology/silicon-valley-ai-slowdown.html"
-  ],
-  [
-    "american",
-    20,
-    "https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton"
-  ],
-  [
-    "game",
-    20,
-    "https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton"
-  ],
-  [
-    "shot",
-    20,
-    "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/13/if-emmett-till-lived-exhibition-chicago"
-  ],
-  [
-    "family",
-    19,
-    "https://www.theguardian.com/global-development/2026/sep/13/palestinian-men-war-gaza-israel-war"
-  ],
-  [
-    "because",
-    19,
-    "https://www.theguardian.com/film/2026/sep/13/life-and-deaths-of-wilson-shedd-review"
-  ],
-  [
-    "win",
-    18,
-    "https://www.nytimes.com/2026/09/13/arts/design/did-trump-win-the-battle-over-the-smithsonian.html"
-  ],
-  [
-    "industry",
-    18,
-    "https://www.theguardian.com/stage/2026/sep/14/jack-thorne-scriptwriters-ai-artificial-intelligence"
-  ],
-  [
-    "political",
-    18,
-    "https://www.theguardian.com/us-news/2026/sep/13/trump-5000-dividend-pledge"
-  ],
-  [
-    "buying",
-    18,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
-  ],
-  [
-    "york",
-    17,
-    "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/"
-  ],
-  [
-    "review",
-    17,
-    "https://www.theguardian.com/film/2026/sep/13/love-of-your-life-review-toronto"
-  ],
-  [
-    "minutes",
-    16,
-    "https://www.nytimes.com/2026/09/13/business/media/60-minutes-season-premiere-bari-weiss.html"
-  ],
-  [
-    "republicans",
-    16,
-    "https://www.nytimes.com/2026/09/13/us/bo-french-racist-post-republicans-texas.html"
-  ],
-  [
-    "lost",
-    16,
-    "https://www.washingtonpost.com/obituaries/2026/09/13/98-year-old-activist-who-always-felt-dandy-other-lives-weve-lost/"
-  ],
-  [
-    "gop",
-    16,
-    "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
+    "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html"
   ],
   [
     "future",
-    16,
-    "https://www.washingtonpost.com/education/2026/09/12/these-students-werent-alive-911-theyre-reading-letters-teens-who-were/"
+    21,
+    "https://www.theguardian.com/commentisfree/2026/sep/14/9-11-anniversary-islamophobia-us-politics-zohran-mamdani"
   ],
   [
-    "died",
-    16,
-    "https://www.washingtonpost.com/obituaries/2026/09/12/jay-maisel-cigar-chomping-giant-photography-has-died/"
+    "review",
+    20,
+    "https://www.theguardian.com/film/2026/sep/13/love-of-your-life-review-toronto"
   ],
   [
-    "filter",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
+    "war",
+    19,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "guide",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
+    "food",
+    19,
+    "https://www.theguardian.com/global-development/2026/sep/14/south-africa-weigh-and-pay-shops-food-poverty"
   ],
   [
-    "school",
-    16,
-    "https://www.theguardian.com/film/2026/sep/13/life-and-deaths-of-wilson-shedd-review"
+    "game",
+    19,
+    "https://www.theguardian.com/sport/2026/sep/14/nfl-bills-texans-josh-allen"
+  ],
+  [
+    "intelligence",
+    18,
+    "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html"
+  ],
+  [
+    "family",
+    18,
+    "https://www.nytimes.com/2026/09/14/us/politics/sullivan-trump-republican-tariffs-alaska.html"
+  ],
+  [
+    "film",
+    18,
+    "https://www.theguardian.com/film/2026/sep/13/love-of-your-life-review-toronto"
+  ],
+  [
+    "climate",
+    17,
+    "https://www.nytimes.com/2026/09/13/climate/epa-power-plant-climate-rules.html"
+  ],
+  [
+    "warnings",
+    17,
+    "https://www.nytimes.com/2026/09/14/podcasts/the-headlines/warnings-ai-deadly-street-drug.html"
+  ],
+  [
+    "artificial",
+    17,
+    "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html"
+  ],
+  [
+    "america",
+    17,
+    "https://www.nytimes.com/2026/09/14/opinion/america-killing-abandoment.html"
+  ],
+  [
+    "latest",
+    17,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "because",
+    17,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/14/the-pet-ill-never-forget-polly-the-golden-retriever-who-saved-my-husbands-life"
   ],
   [
     "love",
-    15,
+    16,
     "https://www.washingtonpost.com/obituaries/2026/09/13/98-year-old-activist-who-always-felt-dandy-other-lives-weve-lost/"
   ],
   [
-    "global",
-    15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "country",
-    15,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "growing",
-    15,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "police",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/13/missing-isle-royale-hiker-70-years-old-found-rescued"
-  ],
-  [
-    "california",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser"
+    "early",
+    16,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "dog",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/14/the-pet-ill-never-forget-polly-the-golden-retriever-who-saved-my-husbands-life"
   ],
   [
-    "fewer",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
+    "change",
+    16,
+    "https://www.theguardian.com/us-news/2026/sep/14/midterm-candidates-climate-datacenter-policies"
   ],
   [
-    "oil",
+    "political",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/sep/14/labor-unions-ai-datacenters"
+  ],
+  [
+    "industry",
+    15,
+    "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html"
+  ],
+  [
+    "republicans",
+    15,
+    "https://www.nytimes.com/2026/09/13/us/bo-french-racist-post-republicans-texas.html"
+  ],
+  [
+    "don",
+    15,
+    "https://www.nytimes.com/2026/09/14/world/scandal-shame-politics-polarization.html"
+  ],
+  [
+    "album",
+    15,
+    "https://www.theguardian.com/music/2026/sep/14/ive-never-been-more-terrified-carly-rae-jepsen-on-motherhood-stardom-and-her-horniest-album-ever"
+  ],
+  [
+    "festival",
+    15,
+    "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival"
+  ],
+  [
+    "gop",
+    15,
+    "https://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates"
+  ],
+  [
+    "died",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/14/haitian-youths-springfield-ohio-trump"
+  ],
+  [
+    "book",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga"
+  ],
+  [
+    "amazon",
+    15,
+    "https://www.theguardian.com/film/2026/sep/13/love-of-your-life-review-toronto"
+  ],
+  [
+    "really",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/14/is-it-true-that-having-a-hot-drink-will-cool-you-down"
+  ],
+  [
+    "author",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/14/is-it-true-that-having-a-hot-drink-will-cool-you-down"
+  ],
+  [
+    "tech",
     14,
-    "https://www.nytimes.com/2026/09/13/business/oil-prices-jump-on-energy-supply-worries.html"
+    "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html"
+  ],
+  [
+    "anthropic",
+    14,
+    "https://www.nytimes.com/2026/09/14/podcasts/the-daily/the-ai-researcher-whose-rebellion-is-changing-everything.html"
+  ],
+  [
+    "stop",
+    14,
+    "https://www.nytimes.com/2026/09/14/us/san-francisco-autopsy-cychlorphine.html"
+  ],
+  [
+    "despite",
+    14,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "politics",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/sep/14/9-11-anniversary-islamophobia-us-politics-zohran-mamdani"
+  ],
+  [
+    "play",
+    14,
+    "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival"
+  ],
+  [
+    "development",
+    14,
+    "https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown"
   ],
   [
     "democrats",
     14,
-    "https://www.nytimes.com/2026/09/13/us/democrats-populists.html"
-  ],
-  [
-    "party",
-    14,
-    "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age"
-  ],
-  [
-    "drama",
-    14,
-    "https://www.theguardian.com/stage/2026/sep/14/jack-thorne-scriptwriters-ai-artificial-intelligence"
-  ],
-  [
-    "toronto",
-    14,
-    "https://www.theguardian.com/film/2026/sep/13/love-of-your-life-review-toronto"
-  ],
-  [
-    "something",
-    14,
-    "https://www.theguardian.com/film/2026/sep/13/life-and-deaths-of-wilson-shedd-review"
-  ],
-  [
-    "tried",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/14/kindness-of-strangers-child-vomit-man-helped"
-  ],
-  [
-    "art",
-    14,
-    "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/13/if-emmett-till-lived-exhibition-chicago"
-  ],
-  [
-    "interview",
-    14,
-    "https://www.latimes.com/opinion/story/2026-09-13/milo-yiannopoulos-deported-misogynist-right-wing-provocateur"
-  ],
-  [
-    "risks",
-    13,
-    "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html"
+    "https://www.theguardian.com/us-news/2026/sep/14/democratic-poll-monitors-prevent-republican-election-interference"
   ],
   [
     "slow",
     13,
-    "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html"
+    "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html"
   ],
   [
     "technology",
     13,
-    "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html"
+    "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html"
   ],
   [
-    "local",
+    "night",
     13,
-    "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
+    "https://www.nytimes.com/2026/09/14/arts/television/how-to-watch-the-2026-emmy-awards.html"
   ],
   [
-    "red",
+    "york",
     13,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.nytimes.com/2026/09/14/us/politics/democrat-senate-menopause-gillibrand.html"
   ],
   [
-    "pop",
+    "media",
     13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.nytimes.com/2026/09/13/us/bo-french-racist-post-republicans-texas.html"
   ],
   [
-    "early",
+    "cbs",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/09/13/business/media/60-minutes-season-premiere-bari-weiss.html"
   ],
   [
-    "whose",
+    "israel",
     13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "album",
-    13,
-    "https://www.theguardian.com/music/2026/sep/14/ive-never-been-more-terrified-carly-rae-jepsen-on-motherhood-stardom-and-her-horniest-album-ever"
-  ],
-  [
-    "play",
+    "little",
     13,
     "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival"
   ],
   [
-    "don",
+    "games",
     13,
-    "https://www.theguardian.com/wellness/2026/sep/13/dandruff-home-treatment-symptoms"
+    "https://www.theguardian.com/football/2026/sep/14/premier-league-10-talking-points-from-the-weekends-action"
   ],
   [
-    "law",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser"
-  ],
-  [
-    "weekly",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
-  ],
-  [
-    "death",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/13/pennsylvania-third-measles-death-outbreak"
-  ],
-  [
-    "officer",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/13/san-jose-officer-fired-flock-camera-misuse"
-  ],
-  [
-    "smith",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/11/leading-questions-mother-in-law-buys-overly-girly-clothes-for-daughter"
-  ],
-  [
-    "prices",
+    "united",
     12,
-    "https://www.nytimes.com/2026/09/13/business/oil-prices-jump-on-energy-supply-worries.html"
+    "https://www.nytimes.com/2026/09/13/climate/epa-power-plant-climate-rules.html"
   ],
   [
-    "cbs",
+    "global",
+    12,
+    "https://www.nytimes.com/2026/09/14/climate/global-warming-limit-paris-climate-agreement.html"
+  ],
+  [
+    "past",
+    12,
+    "https://www.nytimes.com/2026/09/14/climate/global-warming-limit-paris-climate-agreement.html"
+  ],
+  [
+    "series",
+    12,
+    "https://www.nytimes.com/2026/09/14/us/politics/hegseth-pentagon-turmoil.html"
+  ],
+  [
+    "oil",
+    12,
+    "https://www.nytimes.com/2026/09/13/business/oil-prices-iran-war.html"
+  ],
+  [
+    "train",
+    12,
+    "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html"
+  ],
+  [
+    "ukraine",
+    12,
+    "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html"
+  ],
+  [
+    "border",
+    12,
+    "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html"
+  ],
+  [
+    "west",
+    12,
+    "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html"
+  ],
+  [
+    "minutes",
     12,
     "https://www.nytimes.com/2026/09/13/business/media/60-minutes-season-premiere-bari-weiss.html"
   ],
   [
-    "democratic",
+    "court",
     12,
-    "https://www.nytimes.com/2026/09/13/us/democrats-populists.html"
+    "https://www.washingtonpost.com/politics/2026/09/14/flurry-election-lawsuits-creates-confusion-before-midterms/"
   ],
   [
-    "side",
+    "sea",
     12,
-    "https://www.nytimes.com/2026/09/13/arts/music/celine-dion-paris-comeback-concert.html"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "gaza",
+    "led",
     12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "released",
+    "different",
     12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.theguardian.com/commentisfree/2026/sep/14/9-11-anniversary-islamophobia-us-politics-zohran-mamdani"
   ],
   [
-    "little",
+    "force",
     12,
-    "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival"
+    "https://www.theguardian.com/commentisfree/2026/sep/14/9-11-anniversary-islamophobia-us-politics-zohran-mamdani"
   ],
   [
-    "brand",
+    "british",
     12,
-    "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival"
+    "https://www.theguardian.com/music/2026/sep/14/ive-never-been-more-terrified-carly-rae-jepsen-on-motherhood-stardom-and-her-horniest-album-ever"
   ],
   [
-    "experts",
+    "american",
     12,
-    "https://www.theguardian.com/wellness/2026/sep/13/dandruff-home-treatment-symptoms"
+    "https://www.theguardian.com/politics/2026/sep/14/ministers-us-diplomat-accused-indecent-images-children-uk"
   ],
   [
-    "wins",
+    "playing",
     12,
-    "https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton"
+    "https://www.theguardian.com/sport/2026/sep/14/ariarne-titmus-comments-sydney-sweeney-sexualising-womens-sport"
   ],
   [
-    "vice",
+    "buying",
     12,
-    "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/10/the-filter-walking-the-dog"
+  ],
+  [
+    "smith",
+    12,
+    "https://www.theguardian.com/fashion/2026/sep/11/charlotte-mensah-exhibition-beauty-industry-black-hair"
+  ],
+  [
+    "power",
+    11,
+    "https://www.nytimes.com/2026/09/13/climate/epa-power-plant-climate-rules.html"
+  ],
+  [
+    "companies",
+    11,
+    "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html"
+  ],
+  [
+    "win",
+    11,
+    "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html"
   ]
 ];
