@@ -2,38 +2,68 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    104,
-    "https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html"
+    123,
+    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html"
   ],
   [
     "president",
-    50,
-    "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html"
+    63,
+    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html"
+  ],
+  [
+    "court",
+    36,
+    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html"
+  ],
+  [
+    "administration",
+    28,
+    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html"
   ],
   [
     "war",
     28,
-    "https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html"
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "administration",
+    "power",
+    27,
+    "https://www.nytimes.com/2026/09/14/us/ai-fears-human-role.html"
+  ],
+  [
+    "supreme",
     26,
-    "https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html"
+    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html"
+  ],
+  [
+    "climate",
+    25,
+    "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison"
+  ],
+  [
+    "emmys",
+    24,
+    "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html"
+  ],
+  [
+    "mail",
+    23,
+    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html"
+  ],
+  [
+    "california",
+    22,
+    "https://www.nytimes.com/2026/09/14/us/politics/gavin-newsom-kamala-harris-2028-president.html"
+  ],
+  [
+    "night",
+    22,
+    "https://www.theguardian.com/tv-and-radio/live/2026/sep/15/emmys-2026-live-updates-awards-winners-losers-biggest-shows-red-carpet-speeches-latest"
   ],
   [
     "iran",
-    26,
-    "https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html"
-  ],
-  [
-    "tour",
     22,
-    "https://www.theguardian.com/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine"
-  ],
-  [
-    "film",
-    22,
-    "https://www.theguardian.com/film/2026/sep/14/elsinore-movie-review-andrew-scott"
+    "https://www.theguardian.com/world/2026/sep/15/houthi-rebels-seize-red-sea-hanish-islands-saudi-oil-warning"
   ],
   [
     "leaders",
@@ -41,79 +71,49 @@
     "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html"
   ],
   [
-    "family",
-    21,
-    "https://www.nytimes.com/2026/09/14/us/politics/donald-trump-jr-wedding-russian-businessman.html"
-  ],
-  [
-    "death",
-    21,
-    "https://www.theguardian.com/society/2026/sep/14/trump-administration-cdc-measles-deaths-pennsylvania"
-  ],
-  [
-    "power",
-    20,
-    "https://www.nytimes.com/2026/09/14/us/ai-fears-human-role.html"
-  ],
-  [
     "donald",
-    20,
+    21,
     "https://www.nytimes.com/2026/09/14/us/politics/donald-trump-jr-wedding-russian-businessman.html"
+  ],
+  [
+    "actor",
+    21,
+    "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html"
+  ],
+  [
+    "ukraine",
+    20,
+    "https://www.theguardian.com/world/2026/sep/15/ukraine-war-briefing-no-energy-ceasefire-until-russia-stops-zelenskyy-confirms-after-trump-claim"
+  ],
+  [
+    "won",
+    19,
+    "https://www.nytimes.com/2026/09/14/us/politics/gavin-newsom-kamala-harris-2028-president.html"
+  ],
+  [
+    "harris",
+    19,
+    "https://www.nytimes.com/2026/09/14/us/politics/gavin-newsom-kamala-harris-2028-president.html"
   ],
   [
     "because",
-    20,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/14/a-double-entendre-in-every-crevice-what-beyond-near-naked-tennis-is-sydney-sweeneys-game"
-  ],
-  [
-    "saudi",
     19,
-    "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html"
-  ],
-  [
-    "designer",
-    19,
-    "https://www.nytimes.com/2026/09/14/style/bob-mackie-dead.html"
-  ],
-  [
-    "court",
-    18,
-    "https://www.nytimes.com/2026/09/14/us/politics/trump-mail-ballot-nichols-supreme-court.html"
-  ],
-  [
-    "night",
-    18,
-    "https://www.nytimes.com/2026/09/14/arts/television/emmy-awards-how-to-watch.html"
-  ],
-  [
-    "oil",
-    18,
-    "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-leader-meets-centcom.html"
-  ],
-  [
-    "fire",
-    18,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "game",
-    18,
     "https://www.theguardian.com/tv-and-radio/2026/sep/14/a-double-entendre-in-every-crevice-what-beyond-near-naked-tennis-is-sydney-sweeneys-game"
-  ],
-  [
-    "school",
-    18,
-    "https://www.theguardian.com/film/2026/sep/14/valley-girl-my-feelgood-movie"
   ],
   [
     "democrats",
-    18,
-    "https://www.theguardian.com/us-news/2026/sep/14/house-democrats-bill-wages-garnished-medical-debt"
+    19,
+    "https://www.theguardian.com/us-news/2026/sep/14/midterm-candidates-climate-datacenter-policies"
   ],
   [
-    "political",
+    "family",
     18,
-    "https://www.theguardian.com/commentisfree/2026/sep/14/labor-unions-ai-datacenters"
+    "https://www.nytimes.com/2026/09/14/us/politics/donald-trump-jr-wedding-russian-businessman.html"
+  ],
+  [
+    "rules",
+    18,
+    "https://www.theguardian.com/world/2026/sep/15/ukraine-war-briefing-no-energy-ceasefire-until-russia-stops-zelenskyy-confirms-after-trump-claim"
   ],
   [
     "food",
@@ -121,24 +121,34 @@
     "https://www.theguardian.com/music/2026/sep/14/touring-mental-health-support-scheme-radiohead-therapist-collective"
   ],
   [
-    "latest",
+    "biggest",
     17,
-    "https://www.nytimes.com/2026/09/14/well/brain-implant-helps-woman-communicate-in-real-time.html"
+    "https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-reader-comments.html"
   ],
   [
-    "air",
+    "game",
     17,
-    "https://www.washingtonpost.com/nation/2026/09/12/federal-judge-rules-trump-plan-cut-fema-by-50-percent-was-illegal/"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/14/a-double-entendre-in-every-crevice-what-beyond-near-naked-tennis-is-sydney-sweeneys-game"
+  ],
+  [
+    "future",
+    17,
+    "https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais"
+  ],
+  [
+    "tour",
+    17,
+    "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison"
   ],
   [
     "review",
     17,
-    "https://www.theguardian.com/film/2026/sep/14/elsinore-movie-review-andrew-scott"
+    "https://www.theguardian.com/stage/2026/sep/14/pre-existing-condition-review-lupita-nyongo"
   ],
   [
-    "cbs",
+    "school",
     17,
-    "https://www.theguardian.com/media/2026/sep/14/cbs-60-minutes-iran-war-propaganda"
+    "https://www.theguardian.com/film/2026/sep/14/valley-girl-my-feelgood-movie"
   ],
   [
     "intelligence",
@@ -146,104 +156,174 @@
     "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html"
   ],
   [
-    "pro",
+    "russian",
     16,
-    "https://www.nytimes.com/2026/09/14/nyregion/mahmoud-khalil-columbia-lawsuit.html"
-  ],
-  [
-    "john",
-    16,
-    "https://www.washingtonpost.com/religion/2026/09/14/why-lawyer-who-launched-christian-legal-movement-believes-its-gone-astray/"
-  ],
-  [
-    "israel",
-    16,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "team",
-    16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "despite",
-    15,
-    "https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html"
-  ],
-  [
-    "sports",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/14/a-double-entendre-in-every-crevice-what-beyond-near-naked-tennis-is-sydney-sweeneys-game"
-  ],
-  [
-    "buying",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/sep/14/best-diy-home-ownership-lessons-tips-women"
-  ],
-  [
-    "york",
-    15,
-    "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai"
-  ],
-  [
-    "measles",
-    15,
-    "https://www.theguardian.com/society/2026/sep/14/trump-administration-cdc-measles-deaths-pennsylvania"
-  ],
-  [
-    "died",
-    15,
-    "https://www.theguardian.com/fashion/costume-and-culture/2026/sep/14/bob-mackie-costume-designer-dies"
-  ],
-  [
-    "texas",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/14/jasmine-crockett-chris-brown-texas-backlash"
-  ],
-  [
-    "climate",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/14/midterm-candidates-climate-datacenter-policies"
-  ],
-  [
-    "album",
-    15,
-    "https://www.theguardian.com/music/2026/sep/14/ive-never-been-more-terrified-carly-rae-jepsen-on-motherhood-stardom-and-her-horniest-album-ever"
-  ],
-  [
-    "american",
-    14,
     "https://www.nytimes.com/2026/09/14/us/politics/donald-trump-jr-wedding-russian-businessman.html"
   ],
   [
-    "prices",
-    14,
-    "https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html"
+    "awards",
+    16,
+    "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html"
   ],
   [
-    "future",
-    14,
-    "https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais"
+    "lead",
+    16,
+    "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html"
   ],
   [
-    "dog",
+    "red",
+    16,
+    "https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-reader-comments.html"
+  ],
+  [
+    "senate",
+    16,
+    "https://www.nytimes.com/2026/09/14/us/politics/mcconnell-senate-absence.html"
+  ],
+  [
+    "designer",
+    16,
+    "https://www.nytimes.com/2026/09/14/style/bob-mackie-cher-tina-turner.html"
+  ],
+  [
+    "fire",
+    16,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "film",
+    16,
+    "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison"
+  ],
+  [
+    "york",
+    16,
+    "https://www.theguardian.com/technology/2026/sep/15/the-wilting-rose-emoji-what-its-rise-and-fall-tells-us-about-gen-alpha"
+  ],
+  [
+    "political",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/sep/14/labor-unions-ai-datacenters"
+  ],
+  [
+    "control",
+    15,
+    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html"
+  ],
+  [
+    "bay",
+    15,
+    "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html"
+  ],
+  [
+    "emmy",
+    15,
+    "https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-reader-comments.html"
+  ],
+  [
+    "democratic",
+    15,
+    "https://www.nytimes.com/2026/09/14/nyregion/gallant-bondage-photos-democrat.html"
+  ],
+  [
+    "newsom",
+    15,
+    "https://www.nytimes.com/2026/09/14/us/politics/gavin-newsom-kamala-harris-2028-president.html"
+  ],
+  [
+    "gop",
+    15,
+    "https://www.washingtonpost.com/nation/2026/09/14/florida-candidate-marshall-rawson-marched-alongside-neo-nazis-charlottesville/"
+  ],
+  [
+    "elections",
     14,
-    "https://www.theguardian.com/culture/2026/sep/14/eye-how-we-made-cave-horror-classic-the-descent-child-crawler"
+    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html"
+  ],
+  [
+    "industry",
+    14,
+    "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html"
+  ],
+  [
+    "stars",
+    14,
+    "https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-reader-comments.html"
+  ],
+  [
+    "john",
+    14,
+    "https://www.washingtonpost.com/religion/2026/09/14/why-lawyer-who-launched-christian-legal-movement-believes-its-gone-astray/"
+  ],
+  [
+    "million",
+    14,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "global",
+    14,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "growing",
+    14,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "latest",
+    14,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "team",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "buying",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/sep/14/best-diy-home-ownership-lessons-tips-women"
+  ],
+  [
+    "death",
+    14,
+    "https://www.theguardian.com/society/2026/sep/14/trump-administration-cdc-measles-deaths-pennsylvania"
+  ],
+  [
+    "heat",
+    14,
+    "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison"
   ],
   [
     "change",
     14,
-    "https://www.theguardian.com/sport/2026/sep/14/lack-of-overtaking-madring-fi-spanish-grand-prix"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/15/the-pirates-arrived-with-ak-47s-they-took-us-hostage-then-the-torture-began"
   ],
   [
-    "book",
+    "something",
     14,
-    "https://www.theguardian.com/books/2026/sep/14/farewell-to-eden-by-sebastian-faulks-review-conflict-and-compromise-from-a-veteran-of-the-genre"
+    "https://www.theguardian.com/technology/2026/sep/15/the-wilting-rose-emoji-what-its-rise-and-fall-tells-us-about-gen-alpha"
   ],
   [
-    "gop",
+    "cbs",
     14,
-    "https://www.latimes.com/world-nation/story/2026-09-10/trump-midterms-5000-pledge"
+    "https://www.theguardian.com/sport/2026/sep/13/jj-watt-tony-romo-cbs-nfl-analysts"
+  ],
+  [
+    "plants",
+    14,
+    "https://www.latimes.com/lifestyle/story/2026-09-02/floral-earrings-accessories-made-in-los-angeles-by-bunga-vidanska"
+  ],
+  [
+    "despite",
+    13,
+    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html"
+  ],
+  [
+    "concerns",
+    13,
+    "https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html"
   ],
   [
     "government",
@@ -251,44 +331,39 @@
     "https://www.nytimes.com/2026/09/14/us/politics/immigrants-foia.html"
   ],
   [
-    "global",
-    13,
-    "https://www.nytimes.com/2026/09/14/business/10-year-treasury-yield-5-percent.html"
-  ],
-  [
-    "united",
-    13,
-    "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-leader-meets-centcom.html"
-  ],
-  [
-    "palestinian",
-    13,
-    "https://www.nytimes.com/2026/09/14/nyregion/mahmoud-khalil-columbia-lawsuit.html"
-  ],
-  [
-    "growing",
-    13,
-    "https://www.nytimes.com/2026/09/12/us/influencers-social-media-algorithm.html"
-  ],
-  [
     "stop",
     13,
-    "https://www.washingtonpost.com/transportation/2026/09/13/why-stopping-plane-skidding-off-runway-is-challenge/"
+    "https://www.nytimes.com/2026/09/14/us/san-francisco-autopsy-cychlorphine.html"
   ],
   [
-    "gaza",
+    "far",
     13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/09/14/us/san-francisco-autopsy-cychlorphine.html"
   ],
   [
-    "country",
+    "voting",
     13,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.washingtonpost.com/politics/2026/09/14/supreme-court-blocks-sweeping-mail-ballot-restrictions-midterm-elections/"
   ],
   [
-    "released",
+    "love",
     13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.washingtonpost.com/obituaries/2026/09/13/98-year-old-activist-who-always-felt-dandy-other-lives-weve-lost/"
+  ],
+  [
+    "crisis",
+    13,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "sea",
+    13,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "campaign",
+    13,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
     "whose",
@@ -296,83 +371,8 @@
     "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "actor",
+    "tried",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/14/a-double-entendre-in-every-crevice-what-beyond-near-naked-tennis-is-sydney-sweeneys-game"
-  ],
-  [
-    "really",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/14/a-double-entendre-in-every-crevice-what-beyond-near-naked-tennis-is-sydney-sweeneys-game"
-  ],
-  [
-    "politics",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/14/russian-oligarch-trump-jr-wedding"
-  ],
-  [
-    "young",
-    13,
-    "https://www.theguardian.com/film/2026/sep/14/ancestors-review-aids-crisis-toronto-film-festival"
-  ],
-  [
-    "california",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/14/northern-california-lucas-fire-containment"
-  ],
-  [
-    "smith",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/11/leading-questions-mother-in-law-buys-overly-girly-clothes-for-daughter"
-  ],
-  [
-    "industry",
-    12,
-    "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html"
-  ],
-  [
-    "control",
-    12,
-    "https://www.nytimes.com/2026/09/14/us/ai-fears-human-role.html"
-  ],
-  [
-    "russian",
-    12,
-    "https://www.nytimes.com/2026/09/14/us/politics/donald-trump-jr-wedding-russian-businessman.html"
-  ],
-  [
-    "florida",
-    12,
-    "https://www.nytimes.com/2026/09/14/us/alligator-alcatraz-dhs-inspector-general.html"
-  ],
-  [
-    "west",
-    12,
-    "https://www.nytimes.com/2026/09/14/us/haitian-workers-key-west-tourism.html"
-  ],
-  [
-    "attacks",
-    12,
-    "https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html"
-  ],
-  [
-    "bob",
-    12,
-    "https://www.nytimes.com/2026/09/14/style/bob-mackie-dead.html"
-  ],
-  [
-    "mackie",
-    12,
-    "https://www.nytimes.com/2026/09/14/style/bob-mackie-dead.html"
-  ],
-  [
-    "fashion",
-    12,
-    "https://www.nytimes.com/2026/09/14/style/bob-mackie-dead.html"
-  ],
-  [
-    "university",
-    12,
-    "https://www.nytimes.com/2026/09/14/nyregion/mahmoud-khalil-columbia-lawsuit.html"
+    "https://www.theguardian.com/us-news/2026/sep/14/supreme-court-rejects-mail-ballot-restrictions"
   ]
 ];
