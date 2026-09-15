@@ -2,253 +2,253 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    123,
-    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html"
+    105,
+    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html"
   ],
   [
     "president",
-    63,
+    53,
     "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html"
   ],
   [
     "court",
-    36,
-    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html"
-  ],
-  [
-    "administration",
-    28,
-    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html"
-  ],
-  [
-    "war",
-    28,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "power",
-    27,
-    "https://www.nytimes.com/2026/09/14/us/ai-fears-human-role.html"
+    33,
+    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html"
   ],
   [
     "supreme",
-    26,
-    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html"
+    24,
+    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html"
   ],
   [
-    "climate",
-    25,
-    "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison"
-  ],
-  [
-    "emmys",
+    "actor",
     24,
     "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html"
   ],
   [
     "mail",
     23,
-    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html"
+    "https://www.nytimes.com/2026/09/15/us/politics/mail-ballots-trump-supreme-court-trust.html"
   ],
   [
-    "california",
-    22,
-    "https://www.nytimes.com/2026/09/14/us/politics/gavin-newsom-kamala-harris-2028-president.html"
+    "democrats",
+    23,
+    "https://www.nytimes.com/2026/09/15/podcasts/the-headlines/new-poll-democrats-midterms-momentum-trump-ai-fears-hoax.html"
   ],
   [
     "night",
     22,
-    "https://www.theguardian.com/tv-and-radio/live/2026/sep/15/emmys-2026-live-updates-awards-winners-losers-biggest-shows-red-carpet-speeches-latest"
+    "https://www.nytimes.com/2026/09/15/podcasts/the-headlines/new-poll-democrats-midterms-momentum-trump-ai-fears-hoax.html"
   ],
   [
-    "iran",
+    "director",
     22,
-    "https://www.theguardian.com/world/2026/sep/15/houthi-rebels-seize-red-sea-hanish-islands-saudi-oil-warning"
+    "https://www.theguardian.com/us-news/2026/sep/15/julia-curlee-trans-cia-official-trump"
   ],
   [
-    "leaders",
-    21,
-    "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html"
-  ],
-  [
-    "donald",
-    21,
-    "https://www.nytimes.com/2026/09/14/us/politics/donald-trump-jr-wedding-russian-businessman.html"
-  ],
-  [
-    "actor",
+    "lead",
     21,
     "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html"
   ],
   [
-    "ukraine",
+    "donald",
     20,
-    "https://www.theguardian.com/world/2026/sep/15/ukraine-war-briefing-no-energy-ceasefire-until-russia-stops-zelenskyy-confirms-after-trump-claim"
+    "https://www.theguardian.com/technology/2026/sep/15/trump-ai-guardrails-democrats-republicans"
   ],
   [
-    "won",
-    19,
-    "https://www.nytimes.com/2026/09/14/us/politics/gavin-newsom-kamala-harris-2028-president.html"
+    "future",
+    20,
+    "https://www.theguardian.com/us-news/video/2026/sep/15/taylor-lorenz-social-media-bans-podcast"
   ],
   [
-    "harris",
+    "war",
     19,
-    "https://www.nytimes.com/2026/09/14/us/politics/gavin-newsom-kamala-harris-2028-president.html"
+    "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html"
   ],
   [
-    "because",
+    "chief",
     19,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/14/a-double-entendre-in-every-crevice-what-beyond-near-naked-tennis-is-sydney-sweeneys-game"
+    "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html"
   ],
   [
-    "democrats",
+    "gop",
     19,
-    "https://www.theguardian.com/us-news/2026/sep/14/midterm-candidates-climate-datacenter-policies"
+    "https://www.washingtonpost.com/nation/2026/09/14/florida-candidate-marshall-rawson-marched-alongside-neo-nazis-charlottesville/"
+  ],
+  [
+    "media",
+    19,
+    "https://www.theguardian.com/us-news/video/2026/sep/15/taylor-lorenz-social-media-bans-podcast"
+  ],
+  [
+    "biggest",
+    18,
+    "https://www.nytimes.com/2026/09/15/podcasts/the-headlines/new-poll-democrats-midterms-momentum-trump-ai-fears-hoax.html"
+  ],
+  [
+    "awards",
+    18,
+    "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html"
   ],
   [
     "family",
     18,
-    "https://www.nytimes.com/2026/09/14/us/politics/donald-trump-jr-wedding-russian-businessman.html"
+    "https://www.nytimes.com/2026/09/15/world/asia/thai-singha-beer-family-abuse-accusations.html"
   ],
   [
-    "rules",
+    "latest",
     18,
-    "https://www.theguardian.com/world/2026/sep/15/ukraine-war-briefing-no-energy-ceasefire-until-russia-stops-zelenskyy-confirms-after-trump-claim"
+    "https://www.nytimes.com/2026/09/15/world/europe/denmark-russia-flares-helicopter.html"
+  ],
+  [
+    "won",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/15/matthew-rhys-widows-bay-actor-broke-emmy-award-records"
+  ],
+  [
+    "because",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/sep/15/sydney-sweeney-sports-betting-ad"
+  ],
+  [
+    "climate",
+    18,
+    "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison"
+  ],
+  [
+    "party",
+    18,
+    "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age"
+  ],
+  [
+    "power",
+    18,
+    "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age"
   ],
   [
     "food",
     18,
-    "https://www.theguardian.com/music/2026/sep/14/touring-mental-health-support-scheme-radiohead-therapist-collective"
+    "https://www.theguardian.com/thefilter-us/2026/sep/11/horl-3-knife-sharpener-review"
   ],
   [
-    "biggest",
+    "american",
     17,
-    "https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-reader-comments.html"
+    "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html"
   ],
   [
-    "game",
+    "leaders",
     17,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/14/a-double-entendre-in-every-crevice-what-beyond-near-naked-tennis-is-sydney-sweeneys-game"
+    "https://www.nytimes.com/2026/09/15/us/universities-ai-warnings-enthusiasm.html"
   ],
   [
-    "future",
+    "emmys",
     17,
-    "https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais"
+    "https://www.nytimes.com/2026/09/15/arts/television/emmys-best-worst-moments.html"
   ],
   [
-    "tour",
+    "full",
     17,
-    "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison"
+    "https://www.nytimes.com/2026/09/14/arts/television/emmy-winners-list.html"
   ],
   [
-    "review",
+    "china",
     17,
-    "https://www.theguardian.com/stage/2026/sep/14/pre-existing-condition-review-lupita-nyongo"
-  ],
-  [
-    "school",
-    17,
-    "https://www.theguardian.com/film/2026/sep/14/valley-girl-my-feelgood-movie"
-  ],
-  [
-    "intelligence",
-    16,
-    "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html"
-  ],
-  [
-    "russian",
-    16,
-    "https://www.nytimes.com/2026/09/14/us/politics/donald-trump-jr-wedding-russian-businessman.html"
-  ],
-  [
-    "awards",
-    16,
-    "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html"
-  ],
-  [
-    "lead",
-    16,
-    "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html"
-  ],
-  [
-    "red",
-    16,
-    "https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-reader-comments.html"
-  ],
-  [
-    "senate",
-    16,
-    "https://www.nytimes.com/2026/09/14/us/politics/mcconnell-senate-absence.html"
-  ],
-  [
-    "designer",
-    16,
-    "https://www.nytimes.com/2026/09/14/style/bob-mackie-cher-tina-turner.html"
+    "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html"
   ],
   [
     "fire",
-    16,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    17,
+    "https://www.washingtonpost.com/immigration/2026/09/15/ice-is-quietly-firing-new-hires-one-recruit-it-was-devastating/"
   ],
   [
-    "film",
-    16,
-    "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison"
-  ],
-  [
-    "york",
-    16,
-    "https://www.theguardian.com/technology/2026/sep/15/the-wilting-rose-emoji-what-its-rise-and-fall-tells-us-about-gen-alpha"
+    "trump's",
+    17,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "political",
-    16,
+    17,
     "https://www.theguardian.com/commentisfree/2026/sep/14/labor-unions-ai-datacenters"
   ],
   [
-    "control",
-    15,
-    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html"
+    "administration",
+    16,
+    "https://www.nytimes.com/2026/09/15/business/fed-interest-rates-warsh.html"
   ],
   [
-    "bay",
-    15,
-    "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html"
+    "water",
+    16,
+    "https://www.nytimes.com/2026/09/15/nyregion/road-cleaning-stripe-hog-nyc.html"
   ],
   [
-    "emmy",
-    15,
-    "https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-reader-comments.html"
+    "change",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/15/the-pirates-arrived-with-ak-47s-they-took-us-hostage-then-the-torture-began"
   ],
   [
-    "democratic",
-    15,
-    "https://www.nytimes.com/2026/09/14/nyregion/gallant-bondage-photos-democrat.html"
+    "social",
+    16,
+    "https://www.theguardian.com/us-news/video/2026/sep/15/taylor-lorenz-social-media-bans-podcast"
   ],
   [
-    "newsom",
-    15,
-    "https://www.nytimes.com/2026/09/14/us/politics/gavin-newsom-kamala-harris-2028-president.html"
+    "california",
+    16,
+    "https://www.theguardian.com/us-news/2026/sep/14/northern-california-lucas-fire-containment"
   ],
   [
-    "gop",
-    15,
-    "https://www.washingtonpost.com/nation/2026/09/14/florida-candidate-marshall-rawson-marched-alongside-neo-nazis-charlottesville/"
+    "review",
+    16,
+    "https://www.theguardian.com/film/2026/sep/15/the-debut-review-julianne-moore"
   ],
   [
-    "elections",
+    "concerns",
+    15,
+    "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html"
+  ],
+  [
+    "film",
+    15,
+    "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison"
+  ],
+  [
+    "job",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/15/the-pirates-arrived-with-ak-47s-they-took-us-hostage-then-the-torture-began"
+  ],
+  [
+    "congress",
+    15,
+    "https://www.theguardian.com/technology/2026/sep/15/trump-ai-guardrails-democrats-republicans"
+  ],
+  [
+    "washington",
+    15,
+    "https://www.theguardian.com/us-news/live/2026/sep/15/supreme-court-mail-ballot-restrictions-midterm-elections-trump-ai-politics-latest-news-updates"
+  ],
+  [
+    "health",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/15/nicole-saphier-supplement-sales-surgeon-general-nominee"
+  ],
+  [
+    "senate",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/15/nicole-saphier-supplement-sales-surgeon-general-nominee"
+  ],
+  [
+    "buying",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/sep/14/best-diy-home-ownership-lessons-tips-women"
+  ],
+  [
+    "air",
     14,
-    "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html"
+    "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html"
   ],
   [
-    "industry",
+    "race",
     14,
-    "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html"
-  ],
-  [
-    "stars",
-    14,
-    "https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-reader-comments.html"
+    "https://www.nytimes.com/2026/09/15/opinion/ezra-klein-podcast-matt-sheehan.html"
   ],
   [
     "john",
@@ -256,123 +256,123 @@
     "https://www.washingtonpost.com/religion/2026/09/14/why-lawyer-who-launched-christian-legal-movement-believes-its-gone-astray/"
   ],
   [
-    "million",
+    "crisis",
     14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "global",
+    "win",
     14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/15/matthew-rhys-widows-bay-actor-broke-emmy-award-records"
   ],
   [
-    "growing",
+    "series",
     14,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/15/matthew-rhys-widows-bay-actor-broke-emmy-award-records"
   ],
   [
-    "latest",
+    "really",
     14,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/commentisfree/2026/sep/15/sydney-sweeney-sports-betting-ad"
   ],
   [
-    "team",
-    14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "buying",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/sep/14/best-diy-home-ownership-lessons-tips-women"
-  ],
-  [
-    "death",
-    14,
-    "https://www.theguardian.com/society/2026/sep/14/trump-administration-cdc-measles-deaths-pennsylvania"
-  ],
-  [
-    "heat",
+    "tour",
     14,
     "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison"
   ],
   [
-    "change",
+    "body",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/15/the-pirates-arrived-with-ak-47s-they-took-us-hostage-then-the-torture-began"
+    "https://www.theguardian.com/society/2026/sep/15/double-cleansing-should-we-really-be-cleaning-ourselves-twice-in-each-shower"
   ],
   [
-    "something",
+    "game",
     14,
-    "https://www.theguardian.com/technology/2026/sep/15/the-wilting-rose-emoji-what-its-rise-and-fall-tells-us-about-gen-alpha"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/14/a-double-entendre-in-every-crevice-what-beyond-near-naked-tennis-is-sydney-sweeneys-game"
   ],
   [
-    "cbs",
+    "democratic",
     14,
-    "https://www.theguardian.com/sport/2026/sep/13/jj-watt-tony-romo-cbs-nfl-analysts"
+    "https://www.theguardian.com/commentisfree/2026/sep/14/the-guardian-view-on-the-united-ireland-debate-shifting-dynamics-need-to-be-treated-with-caution"
   ],
   [
-    "plants",
+    "texas",
     14,
-    "https://www.latimes.com/lifestyle/story/2026-09-02/floral-earrings-accessories-made-in-los-angeles-by-bunga-vidanska"
+    "https://www.theguardian.com/us-news/2026/sep/14/greg-abbott-texas-datacenter-water-laws"
   ],
   [
-    "despite",
+    "elections",
     13,
     "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html"
   ],
   [
-    "concerns",
-    13,
-    "https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html"
-  ],
-  [
-    "government",
-    13,
-    "https://www.nytimes.com/2026/09/14/us/politics/immigrants-foia.html"
-  ],
-  [
-    "stop",
-    13,
-    "https://www.nytimes.com/2026/09/14/us/san-francisco-autopsy-cychlorphine.html"
-  ],
-  [
-    "far",
-    13,
-    "https://www.nytimes.com/2026/09/14/us/san-francisco-autopsy-cychlorphine.html"
-  ],
-  [
     "voting",
     13,
-    "https://www.washingtonpost.com/politics/2026/09/14/supreme-court-blocks-sweeping-mail-ballot-restrictions-midterm-elections/"
+    "https://www.nytimes.com/2026/09/15/us/politics/mail-ballots-trump-supreme-court-trust.html"
   ],
   [
-    "love",
+    "emmy",
     13,
-    "https://www.washingtonpost.com/obituaries/2026/09/13/98-year-old-activist-who-always-felt-dandy-other-lives-weve-lost/"
+    "https://www.nytimes.com/2026/09/14/arts/television/emmy-winners-list.html"
   ],
   [
-    "crisis",
+    "past",
+    13,
+    "https://www.washingtonpost.com/immigration/2026/09/15/ice-is-quietly-firing-new-hires-one-recruit-it-was-devastating/"
+  ],
+  [
+    "leading",
     13,
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "sea",
+    "country",
     13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "campaign",
+    "drama",
     13,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/15/matthew-rhys-widows-bay-actor-broke-emmy-award-records"
   ],
   [
-    "whose",
+    "summer",
     13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison"
   ],
   [
-    "tried",
+    "heat",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/14/supreme-court-rejects-mail-ballot-restrictions"
+    "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison"
+  ],
+  [
+    "office",
+    13,
+    "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison"
+  ],
+  [
+    "center",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/15/nicole-saphier-supplement-sales-surgeon-general-nominee"
+  ],
+  [
+    "local",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/15/datacenters-local-elections"
+  ],
+  [
+    "law",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/15/fast-furious-and-potentially-fatal-why-are-supercars-suddenly-so-popular"
+  ],
+  [
+    "states",
+    12,
+    "https://www.nytimes.com/2026/09/15/us/politics/mail-ballots-trump-supreme-court-trust.html"
+  ],
+  [
+    "red",
+    12,
+    "https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-best-looks.html"
   ]
 ];
