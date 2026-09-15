@@ -2,46 +2,46 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Administration’S",
-      "count": 61,
+      "name": "Trump Slams Supreme Court Over Mail-In Voting Ruling",
+      "count": 53,
+      "url": "https://www.nytimes.com/2026/09/15/us/politics/trump-supreme-court-mail-voting.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ai As &Quot;Two",
+      "count": 49,
+      "url": "https://www.foxnews.com/politics/kamala-harris-mocked-resurfaced-bumbling-two-words-explanation-ai-desperate-call",
+      "source": "Fox News"
+    },
+    {
+      "name": "Fbi",
+      "count": 22,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/kash-patel-fbi-hiring-policy-bestiality",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 17,
       "url": "https://www.theguardian.com/us-news/2026/sep/15/julia-curlee-trans-cia-official-trump",
       "source": "The Guardian"
     },
     {
-      "name": "Ai",
-      "count": 57,
-      "url": "https://www.theguardian.com/technology/2026/sep/15/trump-ai-guardrails-democrats-republicans",
-      "source": "The Guardian"
-    },
-    {
       "name": "Gop",
-      "count": 18,
+      "count": 14,
       "url": "https://www.washingtonpost.com/nation/2026/09/14/florida-candidate-marshall-rawson-marched-alongside-neo-nazis-charlottesville/",
       "source": "Washington Post"
     },
     {
-      "name": "Congress",
-      "count": 15,
-      "url": "https://www.theguardian.com/technology/2026/sep/15/trump-ai-guardrails-democrats-republicans",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S. Senate",
-      "count": 13,
-      "url": "https://www.cbsnews.com/news/delaware-primaries-2026-midterm-elections/",
+      "name": "Senate Judiciary Committee",
+      "count": 14,
+      "url": "https://www.cbsnews.com/video/kash-patel-sen-welch-spar-over-fbis-role-in-us-elections/",
       "source": "CBS News"
     },
     {
-      "name": "House Appropriations Committee",
+      "name": "Congress Iran",
       "count": 11,
-      "url": "https://thehill.com/the-hill-notable-staffers-2026/6073858-marcus-towns-member-services-director-house-appropriations-committee-republicans/",
+      "url": "https://thehill.com/policy/defense/6090292-pentagon-iran-war-cost-increase/",
       "source": "The Hill"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 10,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
     },
     {
       "name": "Guardian Faber",
@@ -50,84 +50,22 @@
       "source": "The Guardian"
     },
     {
-      "name": "Supreme Court Blocks Trump’S",
+      "name": "The Filter Us",
       "count": 9,
-      "url": "https://www.today.com/video/supreme-court-blocks-trump-s-bid-to-restrict-mail-in-ballot-rules-269865541505",
-      "source": "NBC News"
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
     },
     {
-      "name": "Fbi",
+      "name": "Pentagon",
       "count": 8,
-      "url": "https://www.foxnews.com/us/pennsylvania-man-accused-plotting-isis-attack-arrested-rifle-190-rounds-ammunition-doj",
-      "source": "Fox News"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 42,
-      "url": "https://www.theguardian.com/technology/2026/sep/15/trump-ai-guardrails-democrats-republicans",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/sep/14/northern-california-lucas-fire-containment",
-      "source": "The Guardian"
-    },
-    {
-      "name": "China",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Uk",
-      "count": 12,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/15/fast-furious-and-potentially-fatal-why-are-supercars-suddenly-so-popular",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Washington Dc",
-      "count": 12,
-      "url": "https://www.theguardian.com/books/2026/sep/15/all-the-wrong-moves-by-anthony-scaramucci-review-confessions-of-an-ex-trumper",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/sep/14/greg-abbott-texas-datacenter-water-laws",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/09/15/nyregion/road-cleaning-stripe-hog-nyc.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Britain",
-      "count": 10,
-      "url": "https://www.theguardian.com/politics/2026/sep/15/legal-experts-say-sanctions-israel-fall-far-short-uk-obligations",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. County",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-09-15/la-county-had-no-plan-to-guide-recovery-after-2025-fires-new-report-finds",
-      "source": "LA Times"
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-oil-strait-of-hormuz/",
+      "source": "CBS News"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 5,
+      "count": 3,
       "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html",
       "source": "NY Times"
     },
@@ -156,16 +94,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "New England Revolution",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/sep/15/usmnt-roster-prediction",
-      "source": "The Guardian"
+      "name": "World Heavyweight Championship",
+      "count": 2,
+      "url": "https://www.foxnews.com/outkick-sports/roman-reigns-survives-penta-world-heavyweight-championship-challenge-la-knight-makes-statement",
+      "source": "Fox News"
     },
     {
-      "name": "The World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/sep/15/promise-david-brighton-have-albion-canada-world-cup",
-      "source": "The Guardian"
+      "name": "The Civil War",
+      "count": 2,
+      "url": "https://thehill.com/homenews/senate/6090437-durbin-trump-voting-challenge/",
+      "source": "The Hill"
     },
     {
       "name": "Us Open",
@@ -176,77 +114,139 @@
     {
       "name": "The Carabao Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/sep/15/manchester-united-premier-league-analysis",
+      "url": "https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave",
       "source": "The Guardian"
     },
     {
-      "name": "The Jewish War",
+      "name": "New England Revolution",
       "count": 1,
-      "url": "https://www.theguardian.com/film/2026/sep/15/legend-of-destruction-review-starry-voices-grace-animated-telling-of-thejewish-revolt-against-the-romans",
+      "url": "https://www.theguardian.com/football/2026/sep/15/usmnt-roster-prediction",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 42,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/kash-patel-fbi-hiring-policy-bestiality",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Russia",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 21,
+      "url": "https://www.washingtonpost.com/business/2026/09/15/us-poverty-rate-drops-slightly-experts-fear-worse-ahead/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "California",
+      "count": 17,
+      "url": "https://www.theguardian.com/us-news/2026/sep/14/gavin-newsom-president-kamala-harris",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/09/15/us/gina-hinojosa-governor-texas.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Los Angeles County",
+      "count": 12,
+      "url": "https://www.latimes.com/california/story/2026-09-15/nick-reiner-death-penalty-decision",
+      "source": "LA Times"
+    },
+    {
+      "name": "China",
+      "count": 11,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "L.A. County",
+      "count": 11,
+      "url": "https://www.latimes.com/california/story/2026-09-15/la-county-had-no-plan-to-guide-recovery-after-2025-fires-new-report-finds",
+      "source": "LA Times"
+    },
+    {
+      "name": "Ukraine",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/stolen-new-york-city-bodega-cat",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Bettina Trump",
-      "count": 25,
+      "count": 18,
       "url": "https://www.nbcnews.com/politics/politics-news/donald-trump-jr-russian-oligarch-umar-kremlev-ties-putin-wedding-celeb-rcna597735",
-      "source": "NBC News"
-    },
-    {
-      "name": "Donald Trump Jr.",
-      "count": 12,
-      "url": "https://www.nbcnews.com/politics/politics-news/donald-trump-jr-russian-oligarch-umar-kremlev-ties-putin-wedding-celeb-rcna597735",
-      "source": "NBC News"
-    },
-    {
-      "name": "Matthew Rhys",
-      "count": 10,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/15/matthew-rhys-widows-bay-actor-broke-emmy-award-records",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mitch Mcconnell",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/sep/14/mitch-mcconnell-return-senate",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kamala Harris",
-      "count": 7,
-      "url": "https://www.nbcnews.com/politics/2028-election/gavin-newsom-says-wont-run-2028-kamala-harris-rcna597825",
       "source": "NBC News"
     },
     {
       "name": "Kash Patel",
-      "count": 6,
-      "url": "https://www.foxnews.com/politics/kash-patel-tout-largest-year-to-year-violent-crime-drop-us-history",
-      "source": "Fox News"
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/kash-patel-fbi-hiring-policy-bestiality",
+      "source": "The Guardian"
     },
     {
-      "name": "Anthropic Co-",
-      "count": 6,
-      "url": "https://www.cbsnews.com/video/trump-says-us-needs-high-iq-president-handle-ai/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Jensen Huang",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
+      "name": "Nick Reiner",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/09/15/movies/nick-reiner-death-penalty-murder-trial.html",
       "source": "NY Times"
     },
     {
-      "name": "Joe Biden",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/sep/15/julia-curlee-trans-cia-official-trump",
+      "name": "Donald Trump Jr’S",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/who-is-umar-kremlev-russian-oligarch-donald-trump-jr",
       "source": "The Guardian"
     },
     {
-      "name": "Vladimir Putin",
-      "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/sep/14/nhl-star-alex-ovechkin-appears-in-campaign-ad-for-pro-putin-united-russia-party",
+      "name": "Matthew Rhys",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/09/14/arts/television/emmys-candid-photos.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Rob Reiner",
+      "count": 11,
+      "url": "https://www.washingtonpost.com/nation/2026/09/15/nick-reiner-will-not-face-possibility-death-penalty-trial-prosecutors-say/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Kamala Harris",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/sep/14/gavin-newsom-president-kamala-harris",
       "source": "The Guardian"
+    },
+    {
+      "name": "Umar Kremlev",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/who-is-umar-kremlev-russian-oligarch-donald-trump-jr",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Dick Durbin",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/kash-patel-fbi-hiring-policy-bestiality",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mariska Hargitay",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/09/15/arts/television/emmys-best-worst-moments.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-09-15T12:33:19Z"
+  "updated": "2026-09-15T17:34:34Z"
 };
