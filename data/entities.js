@@ -3,187 +3,63 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 19,
+      "count": 28,
       "url": "https://www.washingtonpost.com/business/2026/09/15/senate-fails-advance-crypto-bill-dooming-effort-this-congress/",
       "source": "Washington Post"
     },
     {
-      "name": "Donald Trump Jr.’S",
-      "count": 13,
-      "url": "https://thehill.com/homenews/senate/6091443-blumenthal-presses-trump-son-wedding/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Nick Reiner",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/09/15/movies/nick-reiner-death-penalty-murder-trial.html",
-      "source": "NY Times"
+      "name": "Ed Sheeran ’S",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas",
+      "source": "The Guardian"
     },
     {
       "name": "Matthew Rhys",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/09/14/arts/television/emmys-candid-photos.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Kash Patel",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/sep/15/kash-patel-fbi-hiring-policy-bestiality",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ed Sheeran",
       "count": 7,
-      "url": "https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/15/matthew-rhys-widows-bay-actor-broke-emmy-award-records",
       "source": "The Guardian"
     },
     {
-      "name": "Bernie Sanders Demand Tighter Controls",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
-      "source": "NY Times"
+      "name": "Bernie Sanders",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/bernie-sanders-steve-bannon-ai-summit",
+      "source": "The Guardian"
     },
     {
-      "name": "Rob Reiner",
+      "name": "Pete Hegseth",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/thomas-massie-pete-hegseth-iran-war",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Adam Silver",
       "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/sep/15/sophie-cunningham-says-she-spoke-to-adam-silver-about-next-wnba-commissioner",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nick Reiner",
+      "count": 5,
       "url": "https://www.washingtonpost.com/nation/2026/09/15/nick-reiner-will-not-face-possibility-death-penalty-trial-prosecutors-say/",
       "source": "Washington Post"
     },
     {
-      "name": "Michele Singer Reiner",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/sep/15/nick-reiner-conviction-la-district-attorney",
+      "name": "Steve Bannon",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/bernie-sanders-steve-bannon-ai-summit",
       "source": "The Guardian"
     },
     {
-      "name": "Kamala Harris",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/sep/14/gavin-newsom-president-kamala-harris",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Slams Supreme Court Over Mail-In Voting Ruling",
-      "count": 46,
-      "url": "https://www.nytimes.com/2026/09/15/us/politics/trump-supreme-court-mail-voting.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ai",
-      "count": 46,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death",
+      "name": "Kennedy Center",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/trump-kennedy-center-renovations",
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
-      "count": 21,
-      "url": "https://www.theguardian.com/us-news/2026/sep/15/julia-curlee-trans-cia-official-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Delaware Senate",
-      "count": 16,
-      "url": "https://thehill.com/homenews/campaign/6090125-live-results-delaware-senate-primary/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Fbi",
-      "count": 15,
+      "name": "Kash Patel",
+      "count": 5,
       "url": "https://www.theguardian.com/us-news/2026/sep/15/kash-patel-fbi-hiring-policy-bestiality",
       "source": "The Guardian"
-    },
-    {
-      "name": "Gop Rep Thomas Massie",
-      "count": 15,
-      "url": "https://www.foxnews.com/politics/gop-rep-thomas-massie-introduces-8-articles-impeachment-against-war-secretary-pete-hegseth",
-      "source": "Fox News"
-    },
-    {
-      "name": "Guardian Faber",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/15/sydney-sweeney-sports-betting-ad",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 10,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Board Of The Kennedy Center",
-      "count": 10,
-      "url": "https://thehill.com/regulation/court-battles/6091551-trump-threatens-kennedy-center-renovation/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Nfl",
-      "count": 9,
-      "url": "https://www.theguardian.com/sport/2026/sep/14/patrick-mahomes-triumphant-on-nfl-return-as-chiefs-beat-up-misfiring-broncos",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 44,
-      "url": "https://www.theguardian.com/us-news/2026/sep/15/pennsylvania-measles-outbreak-death",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 19,
-      "url": "https://www.theguardian.com/us-news/2026/sep/14/gavin-newsom-president-kamala-harris",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 18,
-      "url": "https://www.washingtonpost.com/business/2026/09/15/us-poverty-rate-drops-slightly-experts-fear-worse-ahead/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Iran",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-houthis-weapons.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/sep/15/republicans-criticize-texas-candidate-social-media-post",
-      "source": "The Guardian"
-    },
-    {
-      "name": "China",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/09/15/opinion/ai-china-us-tech-future.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Los Angeles County",
-      "count": 12,
-      "url": "https://www.latimes.com/business/story/2026-09-15/governor-signs-mortgage-relief-bills-for-la-county-state-wildfire-victims",
-      "source": "LA Times"
-    },
-    {
-      "name": "Pennsylvania",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/sep/15/pennsylvania-measles-outbreak-death",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. County",
-      "count": 10,
-      "url": "https://www.latimes.com/business/story/2026-09-15/governor-signs-mortgage-relief-bills-for-la-county-state-wildfire-victims",
-      "source": "LA Times"
-    },
-    {
-      "name": "New York City",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/09/15/us/politics/democratic-socialism-poll.html",
-      "source": "NY Times"
     }
   ],
   "EVENT": [
@@ -194,33 +70,27 @@
       "source": "CBS News"
     },
     {
-      "name": "The 2026 Emmy Awards",
-      "count": 3,
-      "url": "https://www.nbcnews.com/video/watch-highlights-of-the-2026-emmy-awards-in-3-minutes-269855301982",
-      "source": "NBC News"
-    },
-    {
       "name": "The 2014 World Cup",
       "count": 2,
       "url": "https://www.theguardian.com/artanddesign/2026/sep/15/every-magazine-cover-needs-to-seduce-designers-pick-their-favourites",
       "source": "The Guardian"
     },
     {
-      "name": "The Paris Olympics",
-      "count": 2,
-      "url": "https://www.latimes.com/california/story/2026-09-15/olympic-windfall-coming-to-socal-report-says",
-      "source": "LA Times"
-    },
-    {
-      "name": "The Us Open",
-      "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/german-tennis-star-takes-jab-trinity-rodman-losers-try-cancel-ella-langley-old-hunting-photos",
-      "source": "Fox News"
+      "name": "The Civil War",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/09/15/us/politics/postal-service-trump-democracy-history.html",
+      "source": "NY Times"
     },
     {
       "name": "The Carabao Cup",
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Us Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/sep/14/us-open-2026-worst-grand-slam-tournament-in-recent-memory",
       "source": "The Guardian"
     },
     {
@@ -236,17 +106,147 @@
       "source": "The Guardian"
     },
     {
-      "name": "Station Eleven",
-      "count": 1,
-      "url": "https://www.theguardian.com/books/2026/sep/13/emily-st-john-mandel-when-half-the-electorate-disagrees-on-basic-reality-how-do-you-come-back-from-that",
-      "source": "The Guardian"
-    },
-    {
       "name": "Summer Days",
       "count": 1,
       "url": "https://www.theguardian.com/fashion/2026/sep/12/boldness-of-modernism-new-york-fashion-week-goes-highbrow",
       "source": "The Guardian"
+    },
+    {
+      "name": "Iran War'S",
+      "count": 1,
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-oil-strait-of-hormuz/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Holocaust",
+      "count": 1,
+      "url": "https://www.cbsnews.com/video/091326-sunday-morning/",
+      "source": "CBS News"
     }
   ],
-  "updated": "2026-09-15T22:00:29Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 37,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/russia-us-killings-plot",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 19,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/julia-curlee-trans-cia-official-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Los Angeles County",
+      "count": 19,
+      "url": "https://www.latimes.com/business/story/2026-09-15/governor-signs-mortgage-relief-bills-for-la-county-state-wildfire-victims",
+      "source": "LA Times"
+    },
+    {
+      "name": "Texas",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/republicans-criticize-texas-candidate-social-media-post",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/seattle-non-monogamy",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/09/15/us/politics/trump-israel-bombs.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "United Russia",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/16/threat-britain-fake-democracy-russia-vladimir-putin",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County",
+      "count": 12,
+      "url": "https://www.latimes.com/business/story/2026-09-15/governor-signs-mortgage-relief-bills-for-la-county-state-wildfire-victims",
+      "source": "LA Times"
+    },
+    {
+      "name": "Northern Gaza",
+      "count": 11,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Washington Dc",
+      "count": 11,
+      "url": "https://www.theguardian.com/books/2026/sep/15/all-the-wrong-moves-by-anthony-scaramucci-review-confessions-of-an-ex-trumper",
+      "source": "The Guardian"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Slams Supreme Court Over Mail-In Voting Ruling",
+      "count": 49,
+      "url": "https://www.nytimes.com/2026/09/15/us/politics/trump-supreme-court-mail-voting.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ai",
+      "count": 41,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death",
+      "source": "The Guardian"
+    },
+    {
+      "name": "House Of Representatives",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/leon-black-epstein-house-contempt-vote",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 17,
+      "url": "https://www.washingtonpost.com/nation/2026/09/14/florida-candidate-marshall-rawson-marched-alongside-neo-nazis-charlottesville/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Fbi",
+      "count": 17,
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/russia-us-killings-plot",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Michigan Senate",
+      "count": 14,
+      "url": "https://thehill.com/homenews/campaign/6091986-el-sayed-on-rogers-avoiding-debate-the-elephant-was-not-in-the-room/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Supreme Court Blocks Trump’S",
+      "count": 11,
+      "url": "https://www.today.com/video/supreme-court-blocks-trump-s-bid-to-restrict-mail-in-ballot-rules-269865541505",
+      "source": "NBC News"
+    },
+    {
+      "name": "Congress",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/09/15/us/elections/congress-trump-iran-war-approval.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nba",
+      "count": 9,
+      "url": "https://www.theguardian.com/sport/2026/sep/15/sophie-cunningham-says-she-spoke-to-adam-silver-about-next-wnba-commissioner",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-09-16T05:48:49Z"
 };

@@ -2,43 +2,48 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    79,
-    "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html"
+    80,
+    "https://www.nytimes.com/2026/09/15/us/politics/trump-truth-social-ai-data-centers.html"
   ],
   [
     "president",
     44,
-    "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html"
-  ],
-  [
-    "war",
-    32,
-    "https://www.nytimes.com/2026/09/15/us/politics/iran-war-cost.html"
+    "https://www.nytimes.com/2026/09/15/us/politics/trump-truth-social-ai-data-centers.html"
   ],
   [
     "court",
-    28,
-    "https://www.nytimes.com/2026/09/15/us/politics/supreme-court-trump-mail-ballots.html"
+    39,
+    "https://www.nytimes.com/2026/09/15/us/politics/trump-supreme-court-mail-voting.html"
   ],
   [
-    "democrats",
+    "war",
+    34,
+    "https://www.nytimes.com/2026/09/15/us/elections/congress-trump-iran-war-approval.html"
+  ],
+  [
+    "supreme",
     27,
-    "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html"
-  ],
-  [
-    "center",
-    25,
-    "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html"
-  ],
-  [
-    "game",
-    25,
-    "https://www.theguardian.com/sport/2026/sep/15/arch-manning-apology-holly-rowe-ai-video"
+    "https://www.nytimes.com/2026/09/15/us/politics/trump-supreme-court-mail-voting.html"
   ],
   [
     "iran",
+    26,
+    "https://www.nytimes.com/2026/09/15/us/elections/congress-trump-iran-war-approval.html"
+  ],
+  [
+    "mail",
+    24,
+    "https://www.nytimes.com/2026/09/15/us/politics/trump-supreme-court-mail-voting.html"
+  ],
+  [
+    "los",
     22,
-    "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-houthis-weapons.html"
+    "https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html"
+  ],
+  [
+    "angeles",
+    22,
+    "https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html"
   ],
   [
     "food",
@@ -46,139 +51,109 @@
     "https://www.theguardian.com/commentisfree/2026/sep/15/there-are-two-kinds-of-people-in-this-world-hosts-or-guests-nobody-can-be-both"
   ],
   [
-    "kennedy",
-    21,
-    "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html"
-  ],
-  [
-    "republicans",
-    21,
-    "https://www.nytimes.com/2026/09/15/us/politics/trump-midterm-election-poll.html"
-  ],
-  [
-    "death",
-    21,
-    "https://www.nytimes.com/2026/09/15/opinion/ai-trump-amodei-coxon.html"
-  ],
-  [
-    "safety",
-    20,
-    "https://www.nytimes.com/2026/09/15/business/economy/poverty-rate-trump-safety-net.html"
-  ],
-  [
-    "office",
-    20,
-    "https://www.nytimes.com/2026/09/15/us/politics/iran-war-cost.html"
-  ],
-  [
-    "because",
-    20,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death"
-  ],
-  [
-    "texas",
-    20,
-    "https://www.theguardian.com/us-news/2026/sep/15/republicans-criticize-texas-candidate-social-media-post"
-  ],
-  [
-    "building",
-    19,
-    "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html"
-  ],
-  [
-    "senate",
-    19,
-    "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html"
-  ],
-  [
-    "reiner",
-    19,
-    "https://www.nytimes.com/2026/09/15/movies/nick-reiner-death-penalty-murder-trial.html"
-  ],
-  [
-    "board",
-    19,
-    "https://www.theguardian.com/us-news/2026/sep/15/trump-kennedy-center-renovations"
-  ],
-  [
-    "close",
-    19,
-    "https://www.theguardian.com/us-news/2026/sep/15/trump-kennedy-center-renovations"
-  ],
-  [
-    "republican",
-    18,
-    "https://www.washingtonpost.com/nation/2026/09/14/florida-candidate-marshall-rawson-marched-alongside-neo-nazis-charlottesville/"
-  ],
-  [
     "night",
-    18,
+    21,
     "https://www.theguardian.com/tv-and-radio/2026/sep/15/matthew-rhys-widows-bay-actor-broke-emmy-award-records"
   ],
   [
-    "health",
-    18,
-    "https://www.theguardian.com/us-news/2026/sep/15/pennsylvania-measles-outbreak-death"
+    "texas",
+    21,
+    "https://www.theguardian.com/us-news/2026/sep/15/republicans-criticize-texas-candidate-social-media-post"
   ],
   [
-    "judge",
-    17,
+    "center",
+    20,
     "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html"
   ],
   [
-    "concerns",
-    17,
-    "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html"
+    "family",
+    20,
+    "https://www.theguardian.com/us-news/2026/sep/15/seattle-non-monogamy"
   ],
   [
-    "supreme",
-    17,
-    "https://www.nytimes.com/2026/09/15/us/politics/supreme-court-trump-mail-ballots.html"
+    "government",
+    19,
+    "https://www.nytimes.com/2026/09/15/us/politics/doge-federal-work-force.html"
   ],
   [
-    "democratic",
-    17,
-    "https://www.nytimes.com/2026/09/15/us/politics/democratic-socialism-poll.html"
+    "republicans",
+    19,
+    "https://www.nytimes.com/2026/09/15/us/politics/trump-maga-inc-midterm-spending.html"
   ],
   [
-    "china",
-    17,
-    "https://www.nytimes.com/2026/09/15/opinion/ai-china-us-tech-future.html"
+    "democrats",
+    19,
+    "https://www.nytimes.com/2026/09/15/us/politics/house-trump-impeachment-democrats.html"
   ],
   [
-    "water",
-    17,
-    "https://www.theguardian.com/environment/2026/sep/15/air-pollution-linked-to-higher-suicide-risk-research-suggests"
+    "game",
+    19,
+    "https://www.theguardian.com/football/2026/sep/15/liverpool-tottenham-carabao-cup-third-round-match-report"
   ],
   [
-    "tour",
-    17,
-    "https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment"
+    "kennedy",
+    18,
+    "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html"
   ],
   [
-    "fbi",
-    16,
-    "https://www.nytimes.com/2026/09/15/us/politics/patel-fbi-agents-election.html"
+    "helicopter",
+    18,
+    "https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html"
   ],
   [
-    "cost",
-    16,
-    "https://www.nytimes.com/2026/09/15/us/politics/iran-war-cost.html"
+    "senate",
+    18,
+    "https://www.washingtonpost.com/business/2026/09/15/senate-fails-advance-crypto-bill-dooming-effort-this-congress/"
   ],
   [
     "gop",
-    16,
+    18,
     "https://www.washingtonpost.com/nation/2026/09/14/florida-candidate-marshall-rawson-marched-alongside-neo-nazis-charlottesville/"
   ],
   [
-    "hearing",
-    16,
-    "https://www.theguardian.com/us-news/2026/sep/15/kash-patel-fbi-hiring-policy-bestiality"
+    "because",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death"
   ],
   [
-    "macklemore",
+    "secretary",
+    17,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "fbi",
+    17,
+    "https://www.theguardian.com/us-news/2026/sep/15/russia-us-killings-plot"
+  ],
+  [
+    "name",
     16,
-    "https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment"
+    "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html"
+  ],
+  [
+    "republican",
+    16,
+    "https://www.nytimes.com/2026/09/15/us/elections/congress-trump-iran-war-approval.html"
+  ],
+  [
+    "death",
+    16,
+    "https://www.washingtonpost.com/nation/2026/09/15/nick-reiner-will-not-face-possibility-death-penalty-trial-prosecutors-say/"
+  ],
+  [
+    "gaza",
+    16,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "air",
+    16,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "health",
+    16,
+    "https://www.theguardian.com/world/2026/sep/16/gaza-students-devastated-belgium-university-scholarships"
   ],
   [
     "video",
@@ -186,69 +161,79 @@
     "https://www.theguardian.com/sport/2026/sep/15/arch-manning-apology-holly-rowe-ai-video"
   ],
   [
-    "name",
-    15,
-    "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html"
-  ],
-  [
-    "york",
-    15,
-    "https://www.nytimes.com/2026/09/15/us/politics/trump-midterm-election-poll.html"
-  ],
-  [
-    "donald",
-    15,
-    "https://www.washingtonpost.com/business/2026/09/15/senate-fails-advance-crypto-bill-dooming-effort-this-congress/"
-  ],
-  [
-    "experts",
-    15,
-    "https://www.washingtonpost.com/business/2026/09/15/us-poverty-rate-drops-slightly-experts-fear-worse-ahead/"
-  ],
-  [
-    "administration",
-    15,
-    "https://www.washingtonpost.com/politics/2026/09/14/supreme-court-blocks-sweeping-mail-ballot-restrictions-midterm-elections/"
-  ],
-  [
-    "air",
-    15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "cbs",
+    16,
+    "https://www.foxnews.com/media/cnn-nbc-cbs-interviewing-viral-ai-actress-tilly-norwood-raises-eyebrows-critics"
   ],
   [
     "media",
     15,
+    "https://www.nytimes.com/2026/09/15/us/politics/trump-truth-social-ai-data-centers.html"
+  ],
+  [
+    "safety",
+    15,
+    "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html"
+  ],
+  [
+    "judge",
+    15,
+    "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html"
+  ],
+  [
+    "country",
+    15,
+    "https://www.nytimes.com/2026/09/15/world/australia/electric-cars-iran-war-gas-australia.html"
+  ],
+  [
+    "dead",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death"
+  ],
+  [
+    "close",
+    15,
+    "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east"
+  ],
+  [
+    "decision",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/15/trump-kennedy-center-renovations"
+  ],
+  [
+    "tour",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas"
+  ],
+  [
+    "democratic",
+    15,
     "https://www.theguardian.com/us-news/2026/sep/15/republicans-criticize-texas-candidate-social-media-post"
   ],
   [
-    "family",
+    "body",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/sep/15/best-home-security-products"
+    "https://www.theguardian.com/film/2026/sep/15/talent-for-murder-movie-review"
   ],
   [
-    "heat",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/15/connecticut-firefighters-pfas-lawsuit"
-  ],
-  [
-    "california",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/14/gavin-newsom-president-kamala-harris"
-  ],
-  [
-    "emmys",
+    "nbc",
     14,
-    "https://www.nytimes.com/2026/09/15/arts/television/emmys-best-worst-moments.html"
+    "https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html"
   ],
   [
-    "growing",
+    "voting",
     14,
-    "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-houthis-weapons.html"
+    "https://www.nytimes.com/2026/09/15/us/politics/trump-supreme-court-mail-voting.html"
   ],
   [
-    "social",
+    "fire",
     14,
-    "https://www.washingtonpost.com/business/2026/09/15/us-poverty-rate-drops-slightly-experts-fear-worse-ahead/"
+    "https://www.nytimes.com/2026/09/15/us/politics/trump-maga-inc-midterm-spending.html"
+  ],
+  [
+    "united",
+    14,
+    "https://www.nytimes.com/2026/09/15/opinion/ai-china-us-tech-future.html"
   ],
   [
     "latest",
@@ -261,24 +246,44 @@
     "https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death"
   ],
   [
-    "again",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death"
-  ],
-  [
-    "actor",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/15/matthew-rhys-widows-bay-actor-broke-emmy-award-records"
-  ],
-  [
     "won",
     14,
     "https://www.theguardian.com/tv-and-radio/2026/sep/15/matthew-rhys-widows-bay-actor-broke-emmy-award-records"
   ],
   [
-    "running",
+    "washington",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/15/republicans-criticize-texas-candidate-social-media-post"
+    "https://www.theguardian.com/us-news/2026/sep/15/bernie-sanders-steve-bannon-ai-summit"
+  ],
+  [
+    "california",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/15/seattle-non-monogamy"
+  ],
+  [
+    "full",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/15/leon-black-epstein-house-contempt-vote"
+  ],
+  [
+    "political",
+    14,
+    "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance"
+  ],
+  [
+    "smith",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/16/slow-horses-season-six-review-gary-oldman-spy-thriller-apple-tv"
+  ],
+  [
+    "water",
+    14,
+    "https://www.theguardian.com/wellness/2026/sep/15/do-you-need-filter-tap-water-us"
+  ],
+  [
+    "guide",
+    14,
+    "https://www.theguardian.com/artanddesign/2026/sep/15/every-magazine-cover-needs-to-seduce-designers-pick-their-favourites"
   ],
   [
     "buying",
@@ -286,93 +291,88 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/15/best-home-security-products"
   ],
   [
-    "body",
-    14,
-    "https://www.theguardian.com/wellness/2026/sep/14/how-to-start-handstands-tips"
-  ],
-  [
-    "patel",
+    "building",
     13,
-    "https://www.nytimes.com/2026/09/15/us/politics/patel-fbi-agents-election.html"
-  ],
-  [
-    "election",
-    13,
-    "https://www.nytimes.com/2026/09/15/us/politics/patel-fbi-agents-election.html"
-  ],
-  [
-    "secretary",
-    13,
-    "https://www.nytimes.com/2026/09/15/business/economy/scott-bessent-congress.html"
-  ],
-  [
-    "record",
-    13,
-    "https://www.nytimes.com/2026/09/15/business/economy/poverty-rate-trump-safety-net.html"
+    "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html"
   ],
   [
     "past",
     13,
-    "https://www.washingtonpost.com/immigration/2026/09/15/ice-is-quietly-firing-new-hires-one-recruit-it-was-devastating/"
+    "https://www.nytimes.com/2026/09/16/opinion/britain-andy-burnham-catholic-church.html"
   ],
   [
-    "john",
-    13,
-    "https://www.washingtonpost.com/religion/2026/09/14/why-lawyer-who-launched-christian-legal-movement-believes-its-gone-astray/"
-  ],
-  [
-    "crisis",
-    13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "country",
+    "growing",
     13,
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "series",
+    "bus",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/15/matthew-rhys-widows-bay-actor-broke-emmy-award-records"
+    "https://www.theguardian.com/us-news/2026/sep/16/los-angeles-helicopter-crash"
   ],
   [
     "sheeran",
     13,
-    "https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment"
+    "https://www.theguardian.com/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas"
   ],
   [
-    "los",
+    "office",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/15/datacenters-local-elections"
-  ],
-  [
-    "angeles",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/15/datacenters-local-elections"
+    "https://www.theguardian.com/us-news/2026/sep/15/republicans-criticize-texas-candidate-social-media-post"
   ],
   [
     "filter",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/15/best-home-security-products"
+    "https://www.theguardian.com/wellness/2026/sep/15/do-you-need-filter-tap-water-us"
   ],
   [
-    "fewer",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/15/best-home-security-products"
-  ],
-  [
-    "full",
-    13,
-    "https://www.theguardian.com/books/2026/sep/15/all-the-wrong-moves-by-anthony-scaramucci-review-confessions-of-an-ex-trumper"
-  ],
-  [
-    "steve",
+    "social",
     12,
-    "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html"
+    "https://www.nytimes.com/2026/09/15/us/politics/trump-truth-social-ai-data-centers.html"
   ],
   [
-    "attack",
+    "military",
     12,
-    "https://www.nytimes.com/2026/09/15/us/politics/trump-supreme-court-mail-voting.html"
+    "https://www.nytimes.com/2026/09/15/us/politics/pentagon-inspector-general-iran-war.html"
+  ],
+  [
+    "least",
+    12,
+    "https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html"
+  ],
+  [
+    "elections",
+    12,
+    "https://www.nytimes.com/2026/09/15/us/politics/postal-service-trump-democracy-history.html"
+  ],
+  [
+    "party",
+    12,
+    "https://www.nytimes.com/2026/09/15/us/politics/trump-maga-inc-midterm-spending.html"
+  ],
+  [
+    "post",
+    12,
+    "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html"
+  ],
+  [
+    "questions",
+    12,
+    "https://www.nytimes.com/2026/09/14/science/ai-questions-callout.html"
+  ],
+  [
+    "ahead",
+    12,
+    "https://www.nytimes.com/2026/09/15/world/australia/electric-cars-iran-war-gas-australia.html"
+  ],
+  [
+    "rate",
+    12,
+    "https://www.washingtonpost.com/business/2026/09/15/us-poverty-rate-drops-slightly-experts-fear-worse-ahead/"
+  ],
+  [
+    "experts",
+    12,
+    "https://www.washingtonpost.com/business/2026/09/15/us-poverty-rate-drops-slightly-experts-fear-worse-ahead/"
   ]
 ];
