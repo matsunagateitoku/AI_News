@@ -3,139 +3,77 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 47,
-      "url": "https://www.theguardian.com/community/live/2026/sep/15/reader-qa-how-united-are-the-democrats-ahead-of-the-midterms-post-your-questions-now",
+      "count": 53,
+      "url": "https://www.theguardian.com/music/commentisfree/2026/sep/16/ed-sheeran-macklemore-loop-tour-support-acts-quit-robert-kraft",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 27,
-      "url": "https://www.nytimes.com/2026/09/15/us/politics/trump-israel-bombs.html",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
       "source": "NY Times"
     },
     {
       "name": "Texas",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/09/16/us/attack-on-university-of-texas-students-tests-texas-gop-unity.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 14,
-      "url": "https://www.latimes.com/california/story/2026-09-16/prompted-by-new-california-u-s-laws-two-new-lawsuits-demand-return-of-nazi-looted-art",
-      "source": "LA Times"
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/sep/16/pregnant-woman-denied-abortion-ken-paxton-lawsuit",
+      "source": "The Guardian"
     },
     {
       "name": "Los Angeles",
       "count": 13,
-      "url": "https://www.washingtonpost.com/nation/2026/09/16/3-dead-after-nbc-news-helicopter-crashes-near-los-angeles-bus-accident/",
-      "source": "Washington Post"
+      "url": "https://www.nytimes.com/2026/09/16/us/la-helicopter-crash-victims-eliana-moreno-george-marciniw.html",
+      "source": "NY Times"
     },
     {
-      "name": "Washington Dc",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/sep/16/ice-new-york-warning-notice-dhs",
+      "name": "Iran",
+      "count": 13,
+      "url": "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "London",
+      "count": 10,
+      "url": "https://www.theguardian.com/music/2026/sep/16/orville-peck-interview-new-album-mule",
       "source": "The Guardian"
     },
     {
       "name": "Georgia",
-      "count": 11,
-      "url": "https://www.theguardian.com/community/live/2026/sep/15/reader-qa-how-united-are-the-democrats-ahead-of-the-midterms-post-your-questions-now",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City",
       "count": 10,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/16/us-protest-clowns",
+      "url": "https://www.theguardian.com/us-news/2026/sep/16/georgia-senator-jon-ossoff-image",
       "source": "The Guardian"
     },
     {
-      "name": "Russia",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/sep/15/private-equity-firms-energy-assets-greenhouse-gas",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Administration",
-      "count": 61,
-      "url": "https://www.nbcnews.com/politics/doge/trump-doge-employee-leave-billions-rcna598108",
-      "source": "NBC News"
-    },
-    {
-      "name": "Pentagon Ai",
-      "count": 48,
-      "url": "https://www.foxnews.com/politics/ai-doomers-risk-kneecapping-us-vs-china-ex-pentagon-vet-says-both-extremes-miss-mark",
-      "source": "Fox News"
-    },
-    {
-      "name": "House Of Representatives",
-      "count": 28,
-      "url": "https://www.theguardian.com/us-news/2026/sep/16/republicans-iran-war-midterm-elections",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 22,
-      "url": "https://www.washingtonpost.com/nation/2026/09/14/florida-candidate-marshall-rawson-marched-alongside-neo-nazis-charlottesville/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Michigan Senate",
-      "count": 14,
-      "url": "https://www.cbsnews.com/video/abdul-el-sayed-blasts-gop-opponent-mike-rogers-skipping-michigan-senate-debate/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 10,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nbc Los Angeles",
+      "name": "California",
       "count": 9,
-      "url": "https://www.today.com/video/nbc-la-helicopter-crashes-leaves-3-dead-269956165570",
-      "source": "NBC News"
+      "url": "https://www.theguardian.com/us-news/2026/sep/16/los-angeles-homelessness-nonprofit-arrests",
+      "source": "The Guardian"
     },
     {
-      "name": "Fbi",
-      "count": 8,
-      "url": "https://www.foxnews.com/politics/worse-than-watergate-new-fbi-files-detail-agent-push-join-trump-probe-investigate-elon-musk",
-      "source": "Fox News"
-    },
-    {
-      "name": "Ice",
-      "count": 7,
-      "url": "https://www.washingtonpost.com/nation/2026/09/16/ice-likely-violated-first-amendment-by-issuing-warning-critic-judge-rules/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Cbs News'",
-      "count": 7,
-      "url": "https://www.cbsnews.com/video/family-blames-texas-abortion-ban-pregnant-woman-death-files-lawsuit/",
-      "source": "CBS News"
+      "name": "Uk",
+      "count": 9,
+      "url": "https://www.theguardian.com/thefilter-us/2026/sep/16/weighted-blanket-sleep-benefits",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "A World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/sep/16/usa-brazil-u20-womens-world-cup",
+      "name": "The Iran War",
+      "count": 4,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/16/the-guardian-view-on-the-houthi-advance-in-yemen-another-vital-middle-east-artery-becomes-a-battlefield",
       "source": "The Guardian"
     },
     {
-      "name": "An Iran War",
+      "name": "Post-World Cup",
       "count": 1,
-      "url": "https://www.nytimes.com/video/us/100000011145234/is-iran-shaping-up-to-be-a-forever-war.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-usmnt",
+      "source": "The Guardian"
     },
     {
       "name": "Game 5",
@@ -144,21 +82,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Dp World Tour",
+      "name": "The Carabao Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/sep/15/golf-players-return-pga-tour-dp-world-tour-liv-bankruptcy-filing",
+      "url": "https://www.theguardian.com/football/2026/sep/16/manchester-united-brighton-carabao-cup-third-round-match-report",
       "source": "The Guardian"
     },
     {
       "name": "Microplastics",
       "count": 1,
       "url": "https://www.theguardian.com/environment/2026/sep/16/soil-microplastics-trojan-horse-toxins",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Jewish War",
-      "count": 1,
-      "url": "https://www.theguardian.com/film/2026/sep/15/legend-of-destruction-review-starry-voices-grace-animated-telling-of-thejewish-revolt-against-the-romans",
       "source": "The Guardian"
     },
     {
@@ -174,24 +106,48 @@
       "source": "LA Times"
     },
     {
+      "name": "Emmy Awards",
+      "count": 1,
+      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-09-14/78th-emmy-awards-review-mariska-hargitay-nbc-peacock",
+      "source": "LA Times"
+    },
+    {
       "name": "A Super Bowl",
       "count": 1,
       "url": "https://www.latimes.com/sports/rams/story/2026-09-16/matthew-stafford-sean-mcvay-need-to-fix-rams-broken-offense",
       "source": "LA Times"
     },
     {
-      "name": "Hollywood Bowl",
+      "name": "Arch Manning&Apos;S Ai",
       "count": 1,
-      "url": "https://www.latimes.com/entertainment-arts/music/story/2026-09-16/squeeze-is-back-bigger-than-ever-with-headlining-hollywood-bowl-gig",
-      "source": "LA Times"
+      "url": "https://www.foxnews.com/outkick-sports/reporter-athletic-fumes-arch-manning-silent-josh-jacobs-alleged-violence-woman",
+      "source": "Fox News"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 31,
+      "count": 18,
       "url": "https://www.washingtonpost.com/business/2026/09/15/senate-fails-advance-crypto-bill-dooming-effort-this-congress/",
       "source": "Washington Post"
+    },
+    {
+      "name": "Susie Wiles",
+      "count": 11,
+      "url": "https://www.foxnews.com/politics/white-house-chief-staff-susie-wiles-announces-she-cancer-free",
+      "source": "Fox News"
+    },
+    {
+      "name": "Leon Black",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/sep/16/leon-black-contempt-congress-epstein",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ed Sheeran ’S",
+      "count": 8,
+      "url": "https://www.theguardian.com/music/2026/sep/16/macklemore-ed-sheeran-tour-salary-palestine",
+      "source": "The Guardian"
     },
     {
       "name": "Annie Dillard",
@@ -200,46 +156,28 @@
       "source": "NY Times"
     },
     {
-      "name": "Elon Musk",
+      "name": "Jeffrey Epstein",
       "count": 6,
-      "url": "https://www.theguardian.com/technology/2026/sep/16/us-government-failing-americans-ai",
+      "url": "https://www.nytimes.com/2026/09/16/us/politics/leon-black-contempt-congress.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Colin Kaepernick",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/sep/16/colin-kaepernick-nfl-owners-ed-sheeran-macklemore-tour",
       "source": "The Guardian"
     },
     {
       "name": "Sunny Obama",
-      "count": 6,
+      "count": 5,
       "url": "https://www.theguardian.com/us-news/2026/sep/16/obama-family-dog-sunny-dies",
       "source": "The Guardian"
     },
     {
-      "name": "Taylor Horne",
+      "name": "Kamala Harris",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/16/us-protest-clowns",
-      "source": "The Guardian"
-    },
-    {
-      "name": "David Streever",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/sep/16/ice-new-york-warning-notice-dhs",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Houthis",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Abdul El-Sayed",
-      "count": 4,
-      "url": "https://www.theguardian.com/community/live/2026/sep/15/reader-qa-how-united-are-the-democrats-ahead-of-the-midterms-post-your-questions-now",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jon Ossoff",
-      "count": 4,
-      "url": "https://www.theguardian.com/community/live/2026/sep/15/reader-qa-how-united-are-the-democrats-ahead-of-the-midterms-post-your-questions-now",
-      "source": "The Guardian"
+      "url": "https://www.foxnews.com/politics/ex-dem-insider-drops-bombshell-where-harris-ranked-secret-poll-biden-replacements",
+      "source": "Fox News"
     },
     {
       "name": "Natalie Harp",
@@ -248,5 +186,67 @@
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-09-16T17:33:47Z"
+  "ORG": [
+    {
+      "name": "Trump Administration",
+      "count": 53,
+      "url": "https://www.nytimes.com/2026/09/16/arts/design/trump-signs-smithsonian-history-museum.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ai",
+      "count": 53,
+      "url": "https://www.washingtonpost.com/religion/2026/09/16/us-catholic-bishops-meet-with-ai-firms-about-catastrophic-risk/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "The White House",
+      "count": 40,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/16/why-is-the-white-house-being-so-weird-about-natalie-harp-again",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Michigan Senate",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/09/16/us/elections/democrats-put-aside-rifts-with-el-sayed-uniting-to-win-in-michigan.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Congress",
+      "count": 17,
+      "url": "https://www.washingtonpost.com/business/2026/09/15/senate-fails-advance-crypto-bill-dooming-effort-this-congress/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Gop",
+      "count": 15,
+      "url": "https://www.washingtonpost.com/nation/2026/09/14/florida-candidate-marshall-rawson-marched-alongside-neo-nazis-charlottesville/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Fed Signals",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/09/16/business/fed-interest-rates-dot-plot.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ice",
+      "count": 7,
+      "url": "https://www.washingtonpost.com/nation/2026/09/16/ice-likely-violated-first-amendment-by-issuing-warning-critic-judge-rules/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "The Federal Reserve",
+      "count": 6,
+      "url": "https://www.washingtonpost.com/business/2026/09/16/fed-raises-rates-steady-inflation-challenges-grow/",
+      "source": "Washington Post"
+    }
+  ],
+  "updated": "2026-09-16T21:58:32Z"
 };
