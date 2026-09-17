@@ -3,26 +3,38 @@
   "ORG": [
     {
       "name": "Trump Air Force One",
-      "count": 52,
+      "count": 58,
       "url": "https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html",
       "source": "NY Times"
     },
     {
-      "name": "Ai",
-      "count": 32,
-      "url": "https://www.washingtonpost.com/religion/2026/09/16/us-catholic-bishops-meet-with-ai-firms-about-catastrophic-risk/",
-      "source": "Washington Post"
+      "name": "Walmart Ai",
+      "count": 43,
+      "url": "https://thehill.com/homenews/senate/6096740-scotts-baldwin-ftc-letter/",
+      "source": "The Hill"
+    },
+    {
+      "name": "The White House",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/lance-schroyer-ice-director-nomination-withdrawn",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Michigan Senate",
+      "count": 15,
+      "url": "https://thehill.com/homenews/campaign/6096459-mike-rogers-gas-tax-suspension/",
+      "source": "The Hill"
     },
     {
       "name": "Gop",
-      "count": 16,
+      "count": 14,
       "url": "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/",
       "source": "Washington Post"
     },
     {
-      "name": "Us Senate",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/17/donald-trump-democrats-republicans-russia-sanctions-us-politics-latest-news",
+      "name": "Immigration And Customs Enforcement ( Ice",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/lance-schroyer-ice-director-nomination-withdrawn",
       "source": "The Guardian"
     },
     {
@@ -32,21 +44,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "Ice",
-      "count": 11,
-      "url": "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Fed",
+      "name": "Eu",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/09/17/business/trump-warsh-fed-interest-rates.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Nfl",
-      "count": 10,
-      "url": "https://www.theguardian.com/sport/2026/sep/17/robert-kraft-macklemore-ed-sheeran-stadium-ban-nfl",
+      "url": "https://www.theguardian.com/news/video/2026/sep/17/taking-on-trump-canada-and-eu-forge-closer-ties-the-latest",
       "source": "The Guardian"
     },
     {
@@ -56,133 +56,71 @@
       "source": "Washington Post"
     },
     {
-      "name": "Guardian",
-      "count": 9,
-      "url": "https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 53,
-      "url": "https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/09/17/world/europe/canada-carney-eu.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Canada",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/09/17/world/europe/canada-carney-eu.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/17/donald-trump-democrats-republicans-russia-sanctions-us-politics-latest-news",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Arizona",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/09/17/us/politics/jon-kyl-dead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Florida",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/nation/2026/09/16/ballot-measure-would-slash-florida-property-taxes-batter-local-budgets/",
+      "name": "Fed",
+      "count": 8,
+      "url": "https://www.washingtonpost.com/business/2026/09/16/trump-says-he-told-fed-chief-do-what-you-want/",
       "source": "Washington Post"
-    },
-    {
-      "name": "California",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-09-17/young-california-latinas-want-to-fight-trump-more-than-latinos-study",
-      "source": "LA Times"
-    },
-    {
-      "name": "L.A. Here'S",
-      "count": 10,
-      "url": "https://www.latimes.com/delos/story/2026-09-15/dual-citizenship-how-to-los-angeles-mexican-consulate",
-      "source": "LA Times"
-    },
-    {
-      "name": "America",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/09/17/arts/design/peter-max-appraisal.html",
-      "source": "NY Times"
     }
   ],
   "PERSON": [
     {
-      "name": "Warsh Escapes Trump",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/09/17/business/trump-warsh-fed-interest-rates.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Jon Kyl",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/09/17/us/politics/jon-kyl-dead.html",
-      "source": "NY Times"
+      "name": "Donald Trump",
+      "count": 14,
+      "url": "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/",
+      "source": "Washington Post"
     },
     {
       "name": "Donald Trump Jr’S",
-      "count": 8,
+      "count": 11,
       "url": "https://www.theguardian.com/culture/2026/sep/17/jimmy-kimmel-trump-hegseth-don-jr-wedding",
       "source": "The Guardian"
     },
     {
-      "name": "Ed Sheeran",
+      "name": "Marco Rubio",
       "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/17/ed-sheeran-musicians-politics-stadium-support-acts",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Travis Kelce",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/sep/16/travis-kelce-victim-ponzi-scheme",
-      "source": "The Guardian"
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
     },
     {
       "name": "Mark Carney",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/09/17/world/europe/canada-carney-eu.html",
-      "source": "NY Times"
+      "count": 6,
+      "url": "https://www.theguardian.com/news/video/2026/sep/17/taking-on-trump-canada-and-eu-forge-closer-ties-the-latest",
+      "source": "The Guardian"
     },
     {
-      "name": "Steve Belichick",
+      "name": "Charles Derber",
+      "count": 6,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jon Kyl",
       "count": 5,
+      "url": "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Vlatko Andonovski",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/2026/sep/17/vlatko-andonovski-chicago-stars-kc-current-hire",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Diana",
+      "count": 5,
+      "url": "https://www.theguardian.com/uk-news/2026/sep/17/charles-giddily-elated-dianas-death-earl-spencer-book",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The John F Kennedy Center",
+      "count": 4,
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/kennedy-center-changes-30-day-notice",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Bill Belichick",
+      "count": 4,
       "url": "https://www.theguardian.com/sport/2026/sep/17/bill-belichick-steve-belichick-unc-football-investigation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Charles Responds",
-      "count": 5,
-      "url": "https://www.today.com/video/king-charles-responds-to-claim-in-new-book-by-princess-diana-s-brother-270020678002",
-      "source": "NBC News"
-    },
-    {
-      "name": "Siddharth Jawahar",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/sep/16/travis-kelce-victim-ponzi-scheme",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Luis Galeano",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/2026/sep/16/nicaraguan-journalist-luis-galeano-detained-ice",
       "source": "The Guardian"
     }
   ],
@@ -194,39 +132,39 @@
       "source": "The Guardian"
     },
     {
+      "name": "World Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/football/2026/sep/17/mauricio-pochettino-calls-the-kids",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.cbsnews.com/news/gas-prices-diesel-rising-overseas-wars/",
+      "source": "CBS News"
+    },
+    {
       "name": "Openai Discloses Six New Incidents Of ‘Concerning' A.I. Behavior",
       "count": 1,
       "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
       "source": "NY Times"
     },
     {
-      "name": "World Cup",
+      "name": "Yemen War Intensifies As Houthi Militia Advances",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/sep/17/usmnt-roster-squad-analysis-cavan-sullivan-christian-pulisic",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
+      "source": "NY Times"
     },
     {
-      "name": "The September/October",
+      "name": "The 2030",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/sep/17/usmnt-roster-squad-analysis-cavan-sullivan-christian-pulisic",
+      "url": "https://www.theguardian.com/football/2026/sep/17/mauricio-pochettino-calls-the-kids",
       "source": "The Guardian"
     },
     {
       "name": "Us Olympic",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/sep/17/connor-hellebuyck-winnipeg-jets-suspended-training-camp-trade-request",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Brisbane 2032 Olympic",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/sep/17/fitzroy-rockhampton-australia-crocodile-inhabited-river-approved-to-host-rowing-brisbane-2032-olympics",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Brisbane Games",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/sep/17/fitzroy-rockhampton-australia-crocodile-inhabited-river-approved-to-host-rowing-brisbane-2032-olympics",
       "source": "The Guardian"
     },
     {
@@ -248,5 +186,67 @@
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-09-17T17:33:18Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 52,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/17/trump-fossil-fuels-industry",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/09/17/us/politics/el-sayed-piker-terrorism-comments.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Canada",
+      "count": 20,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Texas",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/17/donald-trump-democrats-republicans-russia-sanctions-us-politics-latest-news",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 15,
+      "url": "https://www.theguardian.com/environment/2026/sep/17/longer-mosquito-season-california",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City",
+      "count": 11,
+      "url": "https://thehill.com/policy/international/6096801-us-allows-iranian-un-delegation/",
+      "source": "The Hill"
+    },
+    {
+      "name": "China",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Los Angeles",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/nation/2026/09/16/3-dead-after-nbc-news-helicopter-crashes-near-los-angeles-bus-accident/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Israel",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    }
+  ],
+  "updated": "2026-09-17T22:00:26Z"
 };
