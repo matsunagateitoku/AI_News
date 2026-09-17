@@ -2,93 +2,98 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    74,
-    "https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html"
-  ],
-  [
-    "family",
-    29,
-    "https://www.washingtonpost.com/nation/2026/09/16/charlie-kirks-family-alleges-security-failures-contributed-his-death/"
-  ],
-  [
-    "rates",
-    26,
-    "https://www.nytimes.com/2026/09/16/business/economy/fed-interest-rates-borrowing-costs.html"
-  ],
-  [
-    "administration",
-    24,
-    "https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html"
+    93,
+    "https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html"
   ],
   [
     "president",
-    24,
-    "https://www.washingtonpost.com/obituaries/2026/09/16/sunny-obamas-second-dog-dies-13/"
+    36,
+    "https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html"
   ],
   [
-    "interest",
+    "family",
+    33,
+    "https://www.nytimes.com/2026/09/16/opinion/dumbphone-smartphone-friendship.html"
+  ],
+  [
+    "bill",
+    30,
+    "https://www.nytimes.com/2026/09/16/us/politics/house-bill-data-center-ai-energy.html"
+  ],
+  [
+    "tour",
+    25,
+    "https://www.nytimes.com/2026/09/15/arts/music/ed-sheeran-tour-macklemore-palestine-gaza-finneas.html"
+  ],
+  [
+    "sheeran",
     23,
-    "https://www.nytimes.com/2026/09/16/business/economy/fed-interest-rates-borrowing-costs.html"
+    "https://www.nytimes.com/2026/09/15/arts/music/ed-sheeran-tour-macklemore-palestine-gaza-finneas.html"
+  ],
+  [
+    "macklemore",
+    23,
+    "https://www.nytimes.com/2026/09/15/arts/music/ed-sheeran-tour-macklemore-palestine-gaza-finneas.html"
+  ],
+  [
+    "democrats",
+    23,
+    "https://www.nytimes.com/2026/09/16/us/elections/democrats-put-aside-rifts-with-el-sayed-uniting-to-win-in-michigan.html"
   ],
   [
     "country",
-    22,
+    23,
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "because",
-    21,
+    23,
     "https://www.theguardian.com/us-news/2026/sep/16/donald-trump-jr-wedding-russian-oligarch"
   ],
   [
-    "night",
-    21,
-    "https://www.theguardian.com/thefilter-us/2026/sep/16/weighted-blanket-sleep-benefits"
+    "administration",
+    22,
+    "https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html"
+  ],
+  [
+    "government",
+    22,
+    "https://www.theguardian.com/world/2026/sep/17/tom-phillips-nz-inquiry-who-why-how-fugitive-father-kids-new-zealand-police"
+  ],
+  [
+    "died",
+    20,
+    "https://www.nytimes.com/2026/09/16/us/family-of-woman-who-died-while-pregnant-sues-texas-over-abortion-ban.html"
+  ],
+  [
+    "campaign",
+    20,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "oil",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/sep/16/the-guardian-view-on-the-houthi-advance-in-yemen-another-vital-middle-east-artery-becomes-a-battlefield"
+  ],
+  [
+    "interest",
+    19,
+    "https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html"
   ],
   [
     "senate",
-    20,
-    "https://www.nytimes.com/2026/09/16/us/elections/democrats-put-aside-rifts-with-el-sayed-uniting-to-win-in-michigan.html"
-  ],
-  [
-    "death",
-    20,
-    "https://www.washingtonpost.com/nation/2026/09/16/charlie-kirks-family-alleges-security-failures-contributed-his-death/"
-  ],
-  [
-    "democrats",
     19,
     "https://www.nytimes.com/2026/09/16/us/elections/democrats-put-aside-rifts-with-el-sayed-uniting-to-win-in-michigan.html"
   ],
   [
-    "tour",
-    19,
-    "https://www.theguardian.com/music/commentisfree/2026/sep/16/ed-sheeran-macklemore-loop-tour-support-acts-quit-robert-kraft"
-  ],
-  [
-    "game",
-    19,
-    "https://www.theguardian.com/film/2026/sep/16/resident-evil-reboot-movie-review"
-  ],
-  [
-    "helicopter",
+    "republican",
     18,
-    "https://www.nytimes.com/2026/09/16/us/los-angeles-news-chopper-crash.html"
+    "https://www.theguardian.com/us-news/2026/sep/16/mike-johnson-cancels-house-vote-hegseth"
   ],
   [
-    "congress",
+    "russia",
     18,
-    "https://www.washingtonpost.com/business/2026/09/15/senate-fails-advance-crypto-bill-dooming-effort-this-congress/"
-  ],
-  [
-    "don",
-    18,
-    "https://www.theguardian.com/us-news/2026/sep/16/donald-trump-jr-wedding-russian-oligarch"
-  ],
-  [
-    "review",
-    18,
-    "https://www.theguardian.com/us-news/2026/sep/16/republican-senator-bill-cassidy-blames-trump-administration-measles-deaths-pennsylvania"
+    "https://www.theguardian.com/us-news/2026/sep/16/us-lawmakers-pass-bill-giving-trump-more-power-to-sanction-russia-and-its-enablers"
   ],
   [
     "food",
@@ -96,54 +101,54 @@
     "https://www.theguardian.com/us-news/2026/sep/16/california-gun-violence-prevention-ice-raids"
   ],
   [
-    "los",
-    17,
-    "https://www.nytimes.com/2026/09/16/us/los-angeles-news-chopper-crash.html"
+    "game",
+    18,
+    "https://www.theguardian.com/football/2026/sep/16/tuchel-stands-england-semi-final-subs-wrong-timing-argentina-world-cup-2026"
   ],
   [
-    "republican",
+    "rates",
     17,
-    "https://www.nytimes.com/2026/09/16/opinion/republican-party-alt-right-neo-nazis.html"
+    "https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html"
   ],
   [
-    "early",
+    "costs",
     17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/09/16/us/politics/house-bill-data-center-ai-energy.html"
   ],
   [
-    "change",
+    "energy",
     17,
-    "https://www.theguardian.com/music/commentisfree/2026/sep/16/ed-sheeran-macklemore-loop-tour-support-acts-quit-robert-kraft"
+    "https://www.nytimes.com/2026/09/16/us/politics/house-bill-data-center-ai-energy.html"
   ],
   [
-    "late",
+    "power",
     17,
-    "https://www.theguardian.com/music/2026/sep/16/orville-peck-interview-new-album-mule"
+    "https://www.nytimes.com/2026/09/17/world/asia/the-hidden-human-cost-of-kim-jong-uns-newfound-power.html"
   ],
   [
-    "iran",
+    "ice",
     17,
-    "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders"
+    "https://www.washingtonpost.com/nation/2026/09/16/ice-likely-violated-first-amendment-by-issuing-warning-critic-judge-rules/"
   ],
   [
-    "texas",
+    "video",
     17,
-    "https://www.theguardian.com/us-news/2026/sep/16/pregnant-woman-denied-abortion-ken-paxton-lawsuit"
+    "https://www.theguardian.com/film/2026/sep/17/nicolas-winding-refn-cheating-death-new-sci-fi-horror-her-private-hell"
   ],
   [
-    "guide",
+    "review",
     17,
-    "https://www.theguardian.com/us-news/2026/sep/16/georgia-senator-jon-ossoff-image"
+    "https://www.theguardian.com/music/2026/sep/16/charli-xcx-music-fashion-film-tour-review"
   ],
   [
-    "far",
+    "gop",
     17,
-    "https://www.theguardian.com/us-news/2026/sep/16/georgia-senator-jon-ossoff-image"
+    "https://www.latimes.com/world-nation/story/2026-09-10/trump-midterms-5000-pledge"
   ],
   [
-    "reserve",
+    "data",
     16,
-    "https://www.nytimes.com/2026/09/16/business/fed-interest-rates-dot-plot.html"
+    "https://www.nytimes.com/2026/09/16/us/politics/house-bill-data-center-ai-energy.html"
   ],
   [
     "court",
@@ -151,34 +156,14 @@
     "https://www.nytimes.com/2026/09/16/arts/music/kennedy-center-closed-safety.html"
   ],
   [
-    "angeles",
+    "texas",
     16,
-    "https://www.nytimes.com/2026/09/16/us/los-angeles-news-chopper-crash.html"
+    "https://www.nytimes.com/2026/09/16/us/family-of-woman-who-died-while-pregnant-sues-texas-over-abortion-ban.html"
   ],
   [
-    "black",
+    "death",
     16,
-    "https://www.nytimes.com/2026/09/16/us/politics/leon-black-contempt-congress.html"
-  ],
-  [
-    "experts",
-    16,
-    "https://www.washingtonpost.com/business/2026/09/15/us-poverty-rate-drops-slightly-experts-fear-worse-ahead/"
-  ],
-  [
-    "gop",
-    16,
-    "https://www.washingtonpost.com/nation/2026/09/14/florida-candidate-marshall-rawson-marched-alongside-neo-nazis-charlottesville/"
-  ],
-  [
-    "macklemore",
-    16,
-    "https://www.theguardian.com/music/commentisfree/2026/sep/16/ed-sheeran-macklemore-loop-tour-support-acts-quit-robert-kraft"
-  ],
-  [
-    "staff",
-    16,
-    "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt"
+    "https://www.nytimes.com/2026/09/16/us/family-of-woman-who-died-while-pregnant-sues-texas-over-abortion-ban.html"
   ],
   [
     "buying",
@@ -186,69 +171,99 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/16/weighted-blanket-sleep-benefits"
   ],
   [
-    "health",
-    15,
-    "https://www.washingtonpost.com/business/2026/09/15/employers-are-dropping-glp-1-coverage-costly-workplace-perk/"
+    "don",
+    16,
+    "https://www.theguardian.com/us-news/2026/sep/16/donald-trump-jr-wedding-russian-oligarch"
   ],
   [
-    "something",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/sep/16/trumps-5000-pledge-to-voters-is-a-shameless-bribe"
+    "election",
+    16,
+    "https://www.theguardian.com/us-news/2026/sep/16/mike-johnson-cancels-house-vote-hegseth"
   ],
   [
-    "space",
-    15,
-    "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt"
+    "iran",
+    16,
+    "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders"
   ],
   [
     "summer",
-    15,
+    16,
     "https://www.theguardian.com/music/2026/sep/16/charli-xcx-music-fashion-film-tour-review"
   ],
   [
-    "chief",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/15/fast-furious-and-potentially-fatal-why-are-supercars-suddenly-so-popular"
-  ],
-  [
     "fed",
-    14,
-    "https://www.nytimes.com/2026/09/16/business/fed-interest-rates-dot-plot.html"
-  ],
-  [
-    "american",
-    14,
-    "https://www.nytimes.com/2026/09/16/arts/design/trump-signs-smithsonian-history-museum.html"
-  ],
-  [
-    "died",
-    14,
-    "https://www.nytimes.com/2026/09/16/us/los-angeles-news-chopper-crash.html"
-  ],
-  [
-    "nbc",
-    14,
-    "https://www.nytimes.com/2026/09/16/us/la-helicopter-crash-victims-eliana-moreno-george-marciniw.html"
-  ],
-  [
-    "latest",
-    14,
-    "https://www.washingtonpost.com/religion/2026/09/16/us-catholic-bishops-meet-with-ai-firms-about-catastrophic-risk/"
-  ],
-  [
-    "questions",
-    14,
-    "https://www.washingtonpost.com/religion/2026/09/16/us-catholic-bishops-meet-with-ai-firms-about-catastrophic-risk/"
+    15,
+    "https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html"
   ],
   [
     "enough",
-    14,
+    15,
     "https://www.washingtonpost.com/business/2026/09/15/senate-fails-advance-crypto-bill-dooming-effort-this-congress/"
   ],
   [
     "million",
-    14,
+    15,
     "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "night",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/sep/16/weighted-blanket-sleep-benefits"
+  ],
+  [
+    "body",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/sep/16/weighted-blanket-sleep-benefits"
+  ],
+  [
+    "music",
+    15,
+    "https://www.theguardian.com/music/2026/sep/16/orville-peck-interview-new-album-mule"
+  ],
+  [
+    "water",
+    15,
+    "https://www.theguardian.com/environment/2026/sep/17/2025-driest-years-worlds-rivers-study-finds"
+  ],
+  [
+    "far",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/sep/16/the-guardian-view-on-the-houthi-advance-in-yemen-another-vital-middle-east-artery-becomes-a-battlefield"
+  ],
+  [
+    "latest",
+    14,
+    "https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html"
+  ],
+  [
+    "democratic",
+    14,
+    "https://www.nytimes.com/2026/09/16/arts/music/kennedy-center-closed-safety.html"
+  ],
+  [
+    "judge",
+    14,
+    "https://www.nytimes.com/2026/09/16/arts/music/kennedy-center-closed-safety.html"
+  ],
+  [
+    "full",
+    14,
+    "https://www.nytimes.com/2026/09/16/us/helicopter-crash-safety-faa.html"
+  ],
+  [
+    "director",
+    14,
+    "https://www.washingtonpost.com/nation/2026/09/16/ice-likely-violated-first-amendment-by-issuing-warning-critic-judge-rules/"
+  ],
+  [
+    "health",
+    14,
+    "https://www.washingtonpost.com/business/2026/09/15/employers-are-dropping-glp-1-coverage-costly-workplace-perk/"
+  ],
+  [
+    "recent",
+    14,
+    "https://www.washingtonpost.com/business/2026/09/15/us-poverty-rate-drops-slightly-experts-fear-worse-ahead/"
   ],
   [
     "war",
@@ -256,59 +271,94 @@
     "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "sheeran",
-    14,
-    "https://www.theguardian.com/music/commentisfree/2026/sep/16/ed-sheeran-macklemore-loop-tour-support-acts-quit-robert-kraft"
-  ],
-  [
-    "americans",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/sep/16/trumps-5000-pledge-to-voters-is-a-shameless-bribe"
-  ],
-  [
-    "music",
-    14,
-    "https://www.theguardian.com/music/2026/sep/16/orville-peck-interview-new-album-mule"
-  ],
-  [
-    "hold",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/16/leon-black-contempt-congress-epstein"
-  ],
-  [
-    "weekly",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/16/georgia-senator-jon-ossoff-image"
-  ],
-  [
     "filter",
     14,
     "https://www.theguardian.com/thefilter-us/2026/sep/16/weighted-blanket-sleep-benefits"
   ],
   [
-    "body",
+    "weekly",
     14,
     "https://www.theguardian.com/thefilter-us/2026/sep/16/weighted-blanket-sleep-benefits"
   ],
   [
-    "raised",
-    13,
-    "https://www.nytimes.com/2026/09/16/business/economy/fed-interest-rates-borrowing-costs.html"
+    "guide",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/sep/16/weighted-blanket-sleep-benefits"
   ],
   [
-    "democratic",
-    13,
-    "https://www.nytimes.com/2026/09/16/arts/music/kennedy-center-closed-safety.html"
+    "record",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/16/donald-trump-jr-wedding-russian-oligarch"
   ],
   [
-    "contempt",
-    13,
-    "https://www.nytimes.com/2026/09/16/us/politics/leon-black-contempt-congress.html"
+    "children",
+    14,
+    "https://www.theguardian.com/world/2026/sep/17/tom-phillips-nz-inquiry-who-why-how-fugitive-father-kids-new-zealand-police"
   ],
   [
-    "dead",
+    "american",
+    14,
+    "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt"
+  ],
+  [
+    "something",
+    14,
+    "https://www.theguardian.com/film/2026/sep/17/nicolas-winding-refn-cheating-death-new-sci-fi-horror-her-private-hell"
+  ],
+  [
+    "company",
     13,
-    "https://www.washingtonpost.com/nation/2026/09/16/3-dead-after-nbc-news-helicopter-crashes-near-los-angeles-bus-accident/"
+    "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html"
+  ],
+  [
+    "released",
+    13,
+    "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html"
+  ],
+  [
+    "center",
+    13,
+    "https://www.nytimes.com/2026/09/16/us/politics/house-bill-data-center-ai-energy.html"
+  ],
+  [
+    "growing",
+    13,
+    "https://www.nytimes.com/2026/09/17/business/king-charles-ai.html"
+  ],
+  [
+    "cost",
+    13,
+    "https://www.nytimes.com/2026/09/17/world/asia/the-hidden-human-cost-of-kim-jong-uns-newfound-power.html"
+  ],
+  [
+    "north",
+    13,
+    "https://www.nytimes.com/2026/09/17/world/asia/the-hidden-human-cost-of-kim-jong-uns-newfound-power.html"
+  ],
+  [
+    "comments",
+    13,
+    "https://www.nytimes.com/2026/09/15/arts/music/ed-sheeran-tour-macklemore-palestine-gaza-finneas.html"
+  ],
+  [
+    "helicopter",
+    13,
+    "https://www.nytimes.com/2026/09/16/us/helicopter-crash-safety-faa.html"
+  ],
+  [
+    "whose",
+    13,
+    "https://www.nytimes.com/2026/09/16/arts/catherine-frazier-dead.html"
+  ],
+  [
+    "questions",
+    13,
+    "https://www.washingtonpost.com/religion/2026/09/16/us-catholic-bishops-meet-with-ai-firms-about-catastrophic-risk/"
+  ],
+  [
+    "book",
+    13,
+    "https://www.washingtonpost.com/obituaries/2026/09/16/annie-dillard-pulitzer-winning-author-pilgrim-tinker-creek-dies-81/"
   ],
   [
     "donald",
@@ -316,63 +366,13 @@
     "https://www.washingtonpost.com/business/2026/09/15/senate-fails-advance-crypto-bill-dooming-effort-this-congress/"
   ],
   [
+    "experts",
+    13,
+    "https://www.washingtonpost.com/business/2026/09/15/us-poverty-rate-drops-slightly-experts-fear-worse-ahead/"
+  ],
+  [
     "fire",
     13,
     "https://www.washingtonpost.com/immigration/2026/09/15/ice-is-quietly-firing-new-hires-one-recruit-it-was-devastating/"
-  ],
-  [
-    "little",
-    13,
-    "https://www.theguardian.com/wellness/2026/sep/16/cat-litter-box-cleaning-tips"
-  ],
-  [
-    "anyone",
-    13,
-    "https://www.theguardian.com/wellness/2026/sep/16/cat-litter-box-cleaning-tips"
-  ],
-  [
-    "committee",
-    13,
-    "https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates"
-  ],
-  [
-    "political",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/16/charlie-kirk-family-utah-officials"
-  ],
-  [
-    "party",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/sep/16/the-guardian-view-on-swedens-election-result-an-opportunity-that-progressive-parties-must-not-squander"
-  ],
-  [
-    "cancer",
-    13,
-    "https://www.foxnews.com/politics/white-house-chief-staff-susie-wiles-announces-she-cancer-free"
-  ],
-  [
-    "car",
-    12,
-    "https://www.nytimes.com/2026/09/16/business/economy/fed-interest-rates-borrowing-costs.html"
-  ],
-  [
-    "israel",
-    12,
-    "https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html"
-  ],
-  [
-    "center",
-    12,
-    "https://www.nytimes.com/2026/09/16/arts/music/kennedy-center-closed-safety.html"
-  ],
-  [
-    "crash",
-    12,
-    "https://www.nytimes.com/2026/09/16/us/los-angeles-news-chopper-crash.html"
-  ],
-  [
-    "author",
-    12,
-    "https://www.nytimes.com/2026/09/16/books/annie-dillard-dead.html"
   ]
 ];
