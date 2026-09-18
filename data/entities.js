@@ -3,83 +3,163 @@
   "PERSON": [
     {
       "name": "Trump Became",
-      "count": 21,
+      "count": 26,
       "url": "https://www.nytimes.com/video/us/politics/100000011154861/trump-ai-technology.html",
       "source": "NY Times"
     },
     {
-      "name": "Warren Buffett",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Duncan Sheik",
-      "count": 14,
+      "count": 13,
       "url": "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html",
       "source": "NY Times"
     },
     {
+      "name": "Warren Buffett",
+      "count": 10,
+      "url": "https://www.washingtonpost.com/business/2026/09/18/warren-buffett-steps-down-chairman-berkshire-hathaway/",
+      "source": "Washington Post"
+    },
+    {
       "name": "Lindsay Clancy Case",
-      "count": 12,
+      "count": 9,
       "url": "https://www.nytimes.com/2026/09/18/us/lindsay-clancy-trial-holdout-juror.html",
       "source": "NY Times"
     },
     {
-      "name": "Princess Diana",
-      "count": 12,
-      "url": "https://www.today.com/video/charles-sounded-giddily-elated-over-diana-s-death-earl-spencer-270098501727",
-      "source": "NBC News"
-    },
-    {
-      "name": "Donald Trump",
+      "name": "Diana",
       "count": 9,
-      "url": "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/",
-      "source": "Washington Post"
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/18/earl-spencer-king-charles-princess-diana-tiktok-instagram",
+      "source": "The Guardian"
     },
     {
-      "name": "Hathaway",
+      "name": "Donald Trump Jr.",
       "count": 8,
-      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-      "source": "NY Times"
+      "url": "https://thehill.com/homenews/administration/6098914-donald-trump-jr-umar-kremlev-wedding-gift-paid-back/",
+      "source": "The Hill"
     },
     {
       "name": "Alexander Ovechkin",
-      "count": 8,
+      "count": 7,
       "url": "https://www.theguardian.com/sport/2026/sep/18/alex-ovechkin-russia-putin-video",
       "source": "The Guardian"
     },
     {
-      "name": "Jd Vance",
-      "count": 7,
-      "url": "https://www.cbsnews.com/video/iowas-gop-senate-candidate-not-attending-vances-midterm-rally/",
-      "source": "CBS News"
+      "name": "Gavin Newsom",
+      "count": 6,
+      "url": "https://www.latimes.com/california/story/2026-09-18/newsom-creates-panel-on-ai-safety-regulation-suggests-possible-kill-switch",
+      "source": "LA Times"
     },
     {
-      "name": "Ilhan Omar",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/sep/17/man-sentenced-ilhan-omar-vinegar-minneapolis",
+      "name": "Vladimir Putin",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/sep/18/alex-ovechkin-russia-putin-video",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Charles Destroys Spencer",
+      "count": 5,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/18/earl-spencer-king-charles-princess-diana-tiktok-instagram",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 30,
+      "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-authoritarian-dissent-appointees",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City",
+      "count": 19,
+      "url": "https://www.theguardian.com/thefilter-us/2026/sep/18/best-peel-and-stick-wallpaper",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 16,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "U.S.",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/09/18/us/politics/russia-election-disinformation-us-intelligence.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-undocumented-children-texas",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 12,
+      "url": "https://www.washingtonpost.com/nation/2026/09/18/fight-intensifies-over-fate-california-homes-falling-into-sea/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "L.A. County",
+      "count": 11,
+      "url": "https://www.latimes.com/california/story/2026-09-18/isaiah-harrison-lynwood-abuse-death-charges",
+      "source": "LA Times"
+    },
+    {
+      "name": "Iran",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 10,
+      "url": "https://www.theguardian.com/uk-news/2026/sep/18/sensitive-uk-police-data-vulnerable-to-compromise-by-us-government-and-foreign-actors",
+      "source": "The Guardian"
+    },
+    {
+      "name": "United Russia",
+      "count": 8,
+      "url": "https://www.theguardian.com/sport/2026/sep/18/alex-ovechkin-russia-putin-video",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 42,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Associated Press Trump",
+      "count": 55,
+      "url": "https://thehill.com/newsletters/business-economy/6098859-gop-senators-defend-federal-reserves-decision/",
+      "source": "The Hill"
     },
     {
       "name": "Ai",
-      "count": 33,
-      "url": "https://www.washingtonpost.com/religion/2026/09/16/us-catholic-bishops-meet-with-ai-firms-about-catastrophic-risk/",
-      "source": "Washington Post"
+      "count": 32,
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
+      "source": "NY Times"
     },
     {
       "name": "Gop",
-      "count": 14,
+      "count": 16,
       "url": "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/",
       "source": "Washington Post"
+    },
+    {
+      "name": "Cnn",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Politico",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
+      "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
@@ -88,71 +168,41 @@
       "source": "The Guardian"
     },
     {
-      "name": "Senate",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/09/18/us/politics/ashley-hinson-trump-iowa-senate-race.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Guardian",
-      "count": 11,
-      "url": "https://www.theguardian.com/wellness/2026/sep/18/us-food-prices-budgets",
+      "count": 12,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/18/israel-election-last-october-palestinians",
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
-      "source": "NY Times"
+      "name": "Ms Now",
+      "count": 12,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-09-18/trump-bans-cnn-msnow-politico-from-white-house",
+      "source": "LA Times"
     },
     {
-      "name": "Fed",
+      "name": "Senate",
       "count": 7,
-      "url": "https://www.washingtonpost.com/business/2026/09/16/trump-says-he-told-fed-chief-do-what-you-want/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Ice",
-      "count": 6,
-      "url": "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Dhs",
-      "count": 6,
-      "url": "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/",
+      "url": "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/",
       "source": "Washington Post"
     }
   ],
   "EVENT": [
     {
       "name": "Watergate",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html",
+      "count": 4,
+      "url": "https://www.theguardian.com/film/2026/sep/17/the-watergate-caper-richard-nixon-and-the-death-of-the-american-dream-review-political-scandal-70s-style",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.nytimes.com/2026/09/18/business/bonds-interest-rates-fed-iran-war.html",
       "source": "NY Times"
     },
     {
-      "name": "The Iran War Will Make Heating Oil More Expensive For Some",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/09/18/business/energy-environment/heating-oil-winter-iran-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Toronto International Film Festival",
-      "count": 2,
-      "url": "https://www.latimes.com/entertainment-arts/movies/story/2025-09-12/best-movies-2025-toronto-international-film-festival-tiff-hedda-hamnet-cover-up",
-      "source": "LA Times"
-    },
-    {
-      "name": "Cold War-Era",
-      "count": 2,
-      "url": "https://www.foxnews.com/politics/powerful-cold-war-era-tool-trump-could-use-ai-emergency-set-expire-december",
-      "source": "Fox News"
-    },
-    {
-      "name": "Post-Watergate",
+      "name": "Iran War Estimated",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html",
+      "url": "https://www.nytimes.com/2026/09/18/us/politics/iran-war-cost-pentagon.html",
       "source": "NY Times"
     },
     {
@@ -162,9 +212,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "The League Cup",
+      "name": "The Dp World Tour’S",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/sep/18/millwall-west-ham-rivalry-championship-game",
+      "url": "https://www.theguardian.com/sport/2026/sep/18/rahm-and-fleetwood-lead-pga-championship-casualties-as-adam-scott-rolls-back-years",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Us Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/sep/18/the-week-around-the-world-in-20-pictures",
       "source": "The Guardian"
     },
     {
@@ -184,69 +240,13 @@
       "count": 1,
       "url": "https://www.theguardian.com/fashion/2026/sep/12/boldness-of-modernism-new-york-fashion-week-goes-highbrow",
       "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 33,
-      "url": "https://www.theguardian.com/wellness/2026/sep/18/us-food-prices-budgets",
-      "source": "The Guardian"
     },
     {
-      "name": "New York City",
-      "count": 17,
-      "url": "https://www.theguardian.com/thefilter-us/2026/sep/18/best-peel-and-stick-wallpaper",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/nation/2026/09/17/how-much-do-you-know-about-constitution-take-our-quiz/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Texas",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-undocumented-children-texas",
-      "source": "The Guardian"
-    },
-    {
-      "name": "United Russia",
-      "count": 12,
-      "url": "https://www.theguardian.com/sport/2026/sep/18/alex-ovechkin-russia-putin-video",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 9,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "L.A. County",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-09-18/isaiah-harrison-lynwood-abuse-death-charges",
+      "name": "The Toronto International Film Festival",
+      "count": 1,
+      "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-09-18/best-movies-toronto-international-film-festival-river-misty-green-debut-spiral-tiff-2026",
       "source": "LA Times"
-    },
-    {
-      "name": "California",
-      "count": 8,
-      "url": "https://www.washingtonpost.com/nation/2026/09/18/fight-intensifies-over-fate-california-homes-falling-into-sea/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "London",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/18/earl-spencer-king-charles-princess-diana-tiktok-instagram",
-      "source": "The Guardian"
     }
   ],
-  "updated": "2026-09-18T16:59:39Z"
+  "updated": "2026-09-18T21:31:57Z"
 };
