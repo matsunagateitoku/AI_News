@@ -2,38 +2,33 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    86,
-    "https://www.nytimes.com/2026/09/17/us/politics/salazar-florida-republican-immigration-trump.html"
+    100,
+    "https://www.nytimes.com/2026/09/17/us/trump-putin-russia-sanctions.html"
   ],
   [
     "president",
-    30,
-    "https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html"
-  ],
-  [
-    "war",
-    28,
-    "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html"
-  ],
-  [
-    "family",
-    28,
-    "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/"
-  ],
-  [
-    "court",
-    28,
-    "https://www.theguardian.com/us-news/2026/sep/17/epstein-lawsuit-child-sexual-abuse-material"
+    48,
+    "https://www.nytimes.com/2026/09/17/us/trump-putin-russia-sanctions.html"
   ],
   [
     "school",
-    26,
-    "https://www.nytimes.com/2026/09/17/world/asia/us-iran-school-strike-report.html"
+    28,
+    "https://www.theguardian.com/world/2026/sep/18/run-get-away-witnesses-recount-israeli-double-tap-strike-that-killed-child-and-medic-in-gaza"
   ],
   [
-    "cat",
+    "family",
+    27,
+    "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/"
+  ],
+  [
+    "war",
     26,
-    "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia"
+    "https://www.nytimes.com/2026/09/17/us/trump-putin-russia-sanctions.html"
+  ],
+  [
+    "court",
+    26,
+    "https://www.nytimes.com/2026/09/17/us/politics/institute-of-peace-trump-name.html"
   ],
   [
     "food",
@@ -41,29 +36,24 @@
     "https://www.theguardian.com/commentisfree/2026/sep/17/trump-fossil-fuels-industry"
   ],
   [
-    "texas",
-    25,
-    "https://www.theguardian.com/us-news/live/2026/sep/17/donald-trump-democrats-republicans-russia-sanctions-us-politics-latest-news"
-  ],
-  [
     "death",
     24,
     "https://www.washingtonpost.com/nation/2026/09/16/charlie-kirks-family-alleges-security-failures-contributed-his-death/"
   ],
   [
-    "american",
+    "season",
     24,
-    "https://www.theguardian.com/sport/2026/sep/17/robert-kraft-macklemore-ed-sheeran-stadium-ban-nfl"
+    "https://www.theguardian.com/environment/2026/sep/17/longer-mosquito-season-california"
   ],
   [
-    "ice",
-    22,
-    "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/"
+    "immigration",
+    23,
+    "https://www.nytimes.com/2026/09/17/us/politics/salazar-florida-republican-immigration-trump.html"
   ],
   [
-    "canada",
-    22,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+    "children",
+    23,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/17/spermageddon-greedy-jobs-and-abject-fear-why-birth-rates-are-plummeting-and-why-it-matters"
   ],
   [
     "because",
@@ -71,74 +61,84 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/17/pillow-for-side-back-sleepers"
   ],
   [
+    "american",
+    21,
+    "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html"
+  ],
+  [
     "don",
-    22,
+    21,
     "https://www.theguardian.com/music/2026/sep/17/beck-reader-interview-devils-haircut-ride-lonesome-music"
   ],
   [
-    "night",
-    21,
-    "https://www.theguardian.com/thefilter-us/2026/sep/17/pillow-for-side-back-sleepers"
+    "political",
+    20,
+    "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html"
   ],
   [
-    "social",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/sep/17/trump-canada-military-minerals"
+    "crash",
+    20,
+    "https://www.nytimes.com/2026/09/17/us/suv-driver-murder-los-angeles-bus-crash.html"
   ],
   [
-    "iran",
+    "ice",
+    20,
+    "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/"
+  ],
+  [
+    "health",
     19,
-    "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html"
+    "https://www.nytimes.com/2026/09/17/health/kennedy-vaccines-childrens-health-defense.html"
   ],
   [
-    "season",
+    "canada",
     19,
-    "https://www.nytimes.com/2026/09/17/arts/music/gustavo-dudamel-new-york-philharmonic.html"
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "politics",
+    "something",
     19,
-    "https://www.theguardian.com/culture/2026/sep/17/jonathan-majors-action-thriller"
+    "https://www.theguardian.com/music/2026/sep/17/beck-reader-interview-devils-haircut-ride-lonesome-music"
   ],
   [
     "game",
     19,
-    "https://www.theguardian.com/sport/2026/sep/17/knicks-76ers-pause-ticket-prices"
+    "https://www.theguardian.com/sport/2026/sep/17/buffalo-bills-detroit-lions-nfl-thursday-night-football"
   ],
   [
-    "something",
+    "kennedy",
     18,
-    "https://www.theguardian.com/music/2026/sep/17/beck-reader-interview-devils-haircut-ride-lonesome-music"
+    "https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html"
   ],
   [
-    "senate",
-    17,
-    "https://www.nytimes.com/2026/09/17/us/politics/el-sayed-piker-terrorism-comments.html"
+    "night",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/sep/17/pillow-for-side-back-sleepers"
   ],
   [
-    "administration",
-    17,
-    "https://www.nytimes.com/2026/09/17/well/rfk-jr-uspstf-panel-health.html"
+    "cat",
+    18,
+    "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia"
   ],
   [
-    "political",
+    "south",
     17,
-    "https://www.nytimes.com/2026/09/17/well/rfk-jr-uspstf-panel-health.html"
+    "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html"
   ],
   [
-    "late",
+    "air",
     17,
-    "https://www.washingtonpost.com/religion/2026/09/17/word-zionism-is-controversial-some-jewish-leaders-want-drop-it/"
+    "https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html"
   ],
   [
-    "recent",
+    "politics",
     17,
-    "https://www.washingtonpost.com/immigration/2026/09/17/hundreds-arrested-indiana-during-recent-five-day-ice-crackdown/"
+    "https://www.nytimes.com/2026/09/17/us/politics/montana-ballot-political-spending-ban.html"
   ],
   [
-    "country",
+    "latest",
     17,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.washingtonpost.com/religion/2026/09/16/us-catholic-bishops-meet-with-ai-firms-about-catastrophic-risk/"
   ],
   [
     "buying",
@@ -146,74 +146,79 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/17/pillow-for-side-back-sleepers"
   ],
   [
-    "body",
+    "child",
     17,
-    "https://www.theguardian.com/music/2026/sep/17/beck-reader-interview-devils-haircut-ride-lonesome-music"
+    "https://www.theguardian.com/world/2026/sep/18/run-get-away-witnesses-recount-israeli-double-tap-strike-that-killed-child-and-medic-in-gaza"
   ],
   [
-    "summer",
+    "texas",
     17,
-    "https://www.theguardian.com/us-news/2026/sep/17/trump-marco-rubio-cuba"
-  ],
-  [
-    "center",
-    16,
-    "https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html"
-  ],
-  [
-    "died",
-    16,
-    "https://www.nytimes.com/2026/09/17/opinion/social-security-disability-insurance-father-suicide.html"
-  ],
-  [
-    "gaza",
-    16,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.theguardian.com/us-news/2026/sep/17/duct-tape-plane-seat-passenger"
   ],
   [
     "little",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/sep/17/pillow-for-side-back-sleepers"
+    "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html"
   ],
   [
-    "bill",
+    "government",
     16,
-    "https://www.theguardian.com/sport/2026/sep/17/bill-belichick-steve-belichick-unc-football-investigation"
+    "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html"
   ],
   [
-    "democratic",
-    15,
-    "https://www.nytimes.com/2026/09/17/us/politics/el-sayed-piker-terrorism-comments.html"
-  ],
-  [
-    "york",
-    15,
-    "https://www.nytimes.com/2026/09/17/nyregion/bruce-blakeman-hochul-republican-governor.html"
-  ],
-  [
-    "health",
-    15,
-    "https://www.nytimes.com/2026/09/17/health/kennedy-vaccines-childrens-health-defense.html"
-  ],
-  [
-    "children",
-    15,
-    "https://www.nytimes.com/2026/09/17/world/asia/us-iran-school-strike-report.html"
+    "experts",
+    16,
+    "https://www.nytimes.com/2026/09/18/climate/nepal-tibet-floods-himalayas-warnings.html"
   ],
   [
     "gop",
-    15,
+    16,
     "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/"
   ],
   [
-    "crash",
-    15,
-    "https://www.washingtonpost.com/nation/2026/09/16/3-dead-after-nbc-news-helicopter-crashes-near-los-angeles-bus-accident/"
+    "country",
+    16,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "least",
+    "guide",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/sep/17/pillow-for-side-back-sleepers"
+  ],
+  [
+    "nfl",
+    16,
+    "https://www.theguardian.com/sport/2026/sep/17/robert-kraft-macklemore-ed-sheeran-stadium-ban-nfl"
+  ],
+  [
+    "friends",
+    16,
+    "https://www.theguardian.com/world/2026/sep/18/run-get-away-witnesses-recount-israeli-double-tap-strike-that-killed-child-and-medic-in-gaza"
+  ],
+  [
+    "iran",
     15,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html"
+  ],
+  [
+    "center",
+    15,
+    "https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html"
+  ],
+  [
+    "murder",
+    15,
+    "https://www.nytimes.com/2026/09/17/us/suv-driver-murder-los-angeles-bus-crash.html"
+  ],
+  [
+    "law",
+    15,
+    "https://www.washingtonpost.com/immigration/2026/09/17/hundreds-arrested-indiana-during-recent-five-day-ice-crackdown/"
+  ],
+  [
+    "gaza",
+    15,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
     "filter",
@@ -222,11 +227,6 @@
   ],
   [
     "weekly",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/sep/17/pillow-for-side-back-sleepers"
-  ],
-  [
-    "guide",
     15,
     "https://www.theguardian.com/thefilter-us/2026/sep/17/pillow-for-side-back-sleepers"
   ],
@@ -241,54 +241,54 @@
     "https://www.theguardian.com/music/2026/sep/17/beck-reader-interview-devils-haircut-ride-lonesome-music"
   ],
   [
-    "species",
+    "body",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/17/endangered-species-trump-officials"
+    "https://www.theguardian.com/music/2026/sep/17/beck-reader-interview-devils-haircut-ride-lonesome-music"
   ],
   [
-    "water",
+    "heat",
     15,
-    "https://www.theguardian.com/environment/2026/sep/17/milk-source-heat-pump-barbers-cheesemakers"
+    "https://www.theguardian.com/environment/2026/sep/18/how-asia-is-preparing-for-supersized-el-nino-global-warming"
   ],
   [
-    "data",
+    "social",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/17/trump-cuts-alzheimers-disease-study"
+    "https://www.theguardian.com/commentisfree/2026/sep/17/trump-canada-military-minerals"
   ],
   [
-    "immigration",
+    "bills",
+    15,
+    "https://www.theguardian.com/sport/2026/sep/17/buffalo-bills-detroit-lions-nfl-thursday-night-football"
+  ],
+  [
+    "bus",
     14,
-    "https://www.nytimes.com/2026/09/17/us/politics/salazar-florida-republican-immigration-trump.html"
+    "https://www.nytimes.com/2026/09/17/us/suv-driver-murder-los-angeles-bus-crash.html"
   ],
   [
-    "won",
+    "helicopter",
     14,
-    "https://www.nytimes.com/2026/09/17/us/politics/salazar-florida-republican-immigration-trump.html"
+    "https://www.nytimes.com/2026/09/17/us/suv-driver-murder-los-angeles-bus-crash.html"
   ],
   [
-    "judge",
-    14,
-    "https://www.nytimes.com/2026/09/17/arts/music/kennedy-center-closure-emergency-hearing.html"
-  ],
-  [
-    "director",
-    14,
-    "https://www.nytimes.com/2026/09/17/arts/music/gustavo-dudamel-new-york-philharmonic.html"
-  ],
-  [
-    "nearly",
-    14,
-    "https://www.nytimes.com/2026/09/17/opinion/social-security-disability-insurance-father-suicide.html"
-  ],
-  [
-    "donald",
+    "enforcement",
     14,
     "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/"
   ],
   [
-    "law",
+    "republican",
     14,
-    "https://www.washingtonpost.com/immigration/2026/09/17/hundreds-arrested-indiana-during-recent-five-day-ice-crackdown/"
+    "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/"
+  ],
+  [
+    "nearly",
+    14,
+    "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/"
+  ],
+  [
+    "late",
+    14,
+    "https://www.washingtonpost.com/religion/2026/09/17/word-zionism-is-controversial-some-jewish-leaders-want-drop-it/"
   ],
   [
     "questions",
@@ -296,69 +296,54 @@
     "https://www.washingtonpost.com/religion/2026/09/16/us-catholic-bishops-meet-with-ai-firms-about-catastrophic-risk/"
   ],
   [
-    "friends",
+    "past",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/16/california-gun-violence-prevention-ice-raids"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "experts",
+    "feel",
     14,
-    "https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list"
+    "https://www.theguardian.com/music/2026/sep/17/beck-reader-interview-devils-haircut-ride-lonesome-music"
   ],
   [
-    "media",
+    "administration",
     14,
-    "https://www.theguardian.com/news/2026/sep/17/faster-louder-brighter-how-the-attention-economy-overwhelmed-childrens-tv"
+    "https://www.theguardian.com/us-news/2026/sep/17/kennedy-center-changes-30-day-notice"
   ],
   [
-    "film",
+    "summer",
     14,
-    "https://www.theguardian.com/world/2026/sep/17/us-sexual-abuse-survivor-priest-death"
+    "https://www.theguardian.com/football/2026/sep/17/mauricio-pochettino-calls-the-kids"
+  ],
+  [
+    "case",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/17/south-park-new-season-29-premiere-watch-intro-song-lyrics-trump"
   ],
   [
     "republicans",
     13,
-    "https://www.nytimes.com/2026/09/17/us/politics/salazar-florida-republican-immigration-trump.html"
+    "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html"
   ],
   [
-    "republican",
+    "red",
     13,
-    "https://www.nytimes.com/2026/09/17/nyregion/bruce-blakeman-hochul-republican-governor.html"
+    "https://www.nytimes.com/2026/09/17/us/suv-driver-murder-los-angeles-bus-crash.html"
   ],
   [
-    "trying",
-    13,
-    "https://www.nytimes.com/2026/09/17/nyregion/bruce-blakeman-hochul-republican-governor.html"
-  ],
-  [
-    "kennedy",
-    13,
-    "https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html"
-  ],
-  [
-    "government",
-    13,
-    "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html"
-  ],
-  [
-    "killed",
-    13,
-    "https://www.nytimes.com/2026/09/17/world/asia/us-iran-school-strike-report.html"
-  ],
-  [
-    "families",
-    13,
-    "https://www.nytimes.com/2026/09/17/us/politics/trump-green-card-benefits-immigrants.html"
-  ],
-  [
-    "local",
+    "director",
     13,
     "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/"
   ],
   [
-    "winning",
+    "donald",
     13,
-    "https://www.washingtonpost.com/obituaries/2026/09/16/annie-dillard-pulitzer-winning-author-pilgrim-tinker-creek-dies-81/"
+    "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/"
+  ],
+  [
+    "york",
+    13,
+    "https://www.washingtonpost.com/nation/2026/09/16/ice-likely-violated-first-amendment-by-issuing-warning-critic-judge-rules/"
   ],
   [
     "author",
@@ -366,13 +351,28 @@
     "https://www.washingtonpost.com/obituaries/2026/09/16/annie-dillard-pulitzer-winning-author-pilgrim-tinker-creek-dies-81/"
   ],
   [
-    "love",
+    "book",
     13,
-    "https://www.theguardian.com/commentisfree/2026/sep/17/trump-fossil-fuels-industry"
+    "https://www.washingtonpost.com/obituaries/2026/09/16/annie-dillard-pulitzer-winning-author-pilgrim-tinker-creek-dies-81/"
   ],
   [
-    "epstein",
+    "loss",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/17/epstein-lawsuit-child-sexual-abuse-material"
+    "https://www.washingtonpost.com/business/2026/09/15/employers-are-dropping-glp-1-coverage-costly-workplace-perk/"
+  ],
+  [
+    "anti",
+    13,
+    "https://www.theguardian.com/world/2026/sep/18/russia-parliament-election-duma-putin"
+  ],
+  [
+    "human",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/17/rfk-jr-measles-anti-vaccine-organization"
+  ],
+  [
+    "film",
+    13,
+    "https://www.theguardian.com/film/2026/sep/18/the-damage-was-much-worse-than-i-had-imagined-the-shocking-inside-story-of-salman-rushdies-survival"
   ]
 ];
