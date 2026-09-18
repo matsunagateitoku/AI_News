@@ -2,118 +2,163 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    82,
-    "https://www.nytimes.com/2026/09/17/us/trump-putin-russia-sanctions.html"
+    74,
+    "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html"
   ],
   [
     "president",
-    41,
-    "https://www.nytimes.com/2026/09/17/us/trump-putin-russia-sanctions.html"
-  ],
-  [
-    "war",
-    28,
-    "https://www.nytimes.com/2026/09/17/us/trump-putin-russia-sanctions.html"
-  ],
-  [
-    "because",
-    25,
-    "https://www.nytimes.com/2026/09/18/business/energy-environment/heating-oil-winter-iran-war.html"
-  ],
-  [
-    "food",
-    25,
-    "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics"
+    49,
+    "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html"
   ],
   [
     "court",
-    23,
-    "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html"
-  ],
-  [
-    "school",
-    23,
-    "https://www.theguardian.com/world/2026/sep/18/run-get-away-witnesses-recount-israeli-double-tap-strike-that-killed-child-and-medic-in-gaza"
+    25,
+    "https://www.theguardian.com/us-news/2026/sep/18/trump-undocumented-children-texas"
   ],
   [
     "family",
-    22,
+    23,
     "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/"
   ],
   [
-    "don",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/sep/18/robert-kraft-macklemore-ed-sheeran-tour"
+    "food",
+    23,
+    "https://www.theguardian.com/wellness/2026/sep/18/us-food-prices-budgets"
   ],
   [
-    "york",
-    20,
-    "https://www.nytimes.com/2026/09/17/nyregion/new-york-newspaper-world-19th-century.html"
+    "war",
+    22,
+    "https://www.nytimes.com/2026/09/17/us/trump-putin-russia-sanctions.html"
   ],
   [
-    "south",
-    19,
-    "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html"
+    "book",
+    22,
+    "https://www.theguardian.com/us-news/2026/sep/18/florida-activists-rightwing-school-boards"
   ],
   [
     "night",
+    21,
+    "https://www.theguardian.com/culture/2026/sep/18/jimmy-kimmel-mitch-mcconnell"
+  ],
+  [
+    "buffett",
+    20,
+    "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html"
+  ],
+  [
+    "music",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/sep/18/robert-kraft-macklemore-ed-sheeran-tour"
+  ],
+  [
+    "because",
     19,
-    "https://www.theguardian.com/film/2026/sep/18/the-damage-was-much-worse-than-i-had-imagined-the-shocking-inside-story-of-salman-rushdies-survival"
+    "https://www.nytimes.com/2025/05/04/business/warren-buffett-career-timeline.html"
   ],
   [
-    "season",
+    "pop",
     19,
-    "https://www.theguardian.com/sport/2026/sep/18/sydney-sweeney-provocation-culture-war-sport-sexy"
+    "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html"
   ],
   [
-    "cat",
+    "died",
     19,
-    "https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline"
-  ],
-  [
-    "film",
-    18,
-    "https://www.nytimes.com/2026/09/17/business/media/elon-musk-documentary-release.html"
-  ],
-  [
-    "gop",
-    18,
     "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/"
   ],
   [
-    "children",
+    "york",
+    19,
+    "https://www.washingtonpost.com/nation/2026/09/16/ice-likely-violated-first-amendment-by-issuing-warning-critic-judge-rules/"
+  ],
+  [
+    "government",
+    18,
+    "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html"
+  ],
+  [
+    "cat",
+    18,
+    "https://www.nytimes.com/2026/09/18/science/tilcayo-new-cat-species-bolivia.html"
+  ],
+  [
+    "fewer",
+    18,
+    "https://www.theguardian.com/wellness/2026/sep/18/us-food-prices-budgets"
+  ],
+  [
+    "prices",
+    18,
+    "https://www.theguardian.com/wellness/2026/sep/18/us-food-prices-budgets"
+  ],
+  [
+    "texas",
     18,
     "https://www.theguardian.com/us-news/2026/sep/18/trump-undocumented-children-texas"
   ],
   [
-    "game",
+    "film",
     18,
-    "https://www.theguardian.com/sport/2026/sep/17/buffalo-bills-detroit-lions-nfl-thursday-night-football"
-  ],
-  [
-    "body",
-    18,
-    "https://www.theguardian.com/sport/2026/sep/18/chess-nigel-short-to-play-at-south-pole-in-event-criticised-over-climate-impact"
-  ],
-  [
-    "government",
-    17,
-    "https://www.nytimes.com/2026/09/18/world/europe/russia-duma-election.html"
+    "https://www.theguardian.com/commentisfree/2026/sep/18/remigration-europe-slovenia-government-immigrants"
   ],
   [
     "country",
     17,
-    "https://www.nytimes.com/2026/09/18/opinion/nyt-175-anniversary-sulzberger.html"
+    "https://www.nytimes.com/2026/09/18/us/politics/fbi-canada-cbc-9-11.html"
   ],
   [
-    "social",
+    "berkshire",
     17,
-    "https://www.nytimes.com/2026/09/18/movies/tech-founder-movies-hollywood.html"
+    "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html"
   ],
   [
-    "gaza",
+    "don",
     17,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.theguardian.com/commentisfree/2026/sep/18/robert-kraft-macklemore-ed-sheeran-tour"
+  ],
+  [
+    "buying",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/sep/18/best-peel-and-stick-wallpaper"
+  ],
+  [
+    "children",
+    17,
+    "https://www.theguardian.com/us-news/2026/sep/18/trump-undocumented-children-texas"
+  ],
+  [
+    "death",
+    17,
+    "https://www.theguardian.com/music/2026/sep/18/duncan-sheik-dies"
+  ],
+  [
+    "season",
+    17,
+    "https://www.theguardian.com/us-news/2026/sep/18/pittsburgh-trump-funding-cuts-nih-alzheimers"
+  ],
+  [
+    "game",
+    17,
+    "https://www.theguardian.com/sport/2026/sep/17/buffalo-bills-detroit-lions-nfl-thursday-night-football"
+  ],
+  [
+    "iran",
+    16,
+    "https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html"
+  ],
+  [
+    "health",
+    16,
+    "https://www.nytimes.com/2026/09/18/us/politics/abortion-rights-activists-idaho-doctors.html"
+  ],
+  [
+    "son",
+    16,
+    "https://www.nytimes.com/2026/09/17/us/gettysburg-samuel-wilkeson-175.html"
+  ],
+  [
+    "hathaway",
+    16,
+    "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html"
   ],
   [
     "chairman",
@@ -121,39 +166,19 @@
     "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html"
   ],
   [
-    "something",
+    "south",
     16,
-    "https://www.nytimes.com/2026/09/17/nyregion/new-york-newspaper-world-19th-century.html"
+    "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html"
   ],
   [
-    "experts",
+    "singer",
     16,
-    "https://www.nytimes.com/2026/09/18/climate/nepal-tibet-floods-himalayas-warnings.html"
+    "https://www.washingtonpost.com/obituaries/2026/09/18/duncan-sheik-singer-songwriter-who-found-success-pop-charts-broadway-dies-56/"
   ],
   [
-    "immigration",
+    "star",
     16,
-    "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/"
-  ],
-  [
-    "book",
-    16,
-    "https://www.washingtonpost.com/obituaries/2026/09/16/annie-dillard-pulitzer-winning-author-pilgrim-tinker-creek-dies-81/"
-  ],
-  [
-    "death",
-    16,
-    "https://www.washingtonpost.com/nation/2026/09/16/charlie-kirks-family-alleges-security-failures-contributed-his-death/"
-  ],
-  [
-    "pop",
-    16,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "texas",
-    16,
-    "https://www.theguardian.com/us-news/2026/sep/18/trump-undocumented-children-texas"
+    "https://www.theguardian.com/commentisfree/2026/sep/18/robert-kraft-macklemore-ed-sheeran-tour"
   ],
   [
     "administration",
@@ -161,54 +186,79 @@
     "https://www.theguardian.com/us-news/2026/sep/18/trump-undocumented-children-texas"
   ],
   [
-    "summer",
+    "school",
     16,
-    "https://www.theguardian.com/world/2026/sep/18/russian-super-app-max-spy-citizens"
+    "https://www.theguardian.com/us-news/2026/sep/18/florida-activists-rightwing-school-boards"
   ],
   [
-    "friends",
+    "video",
     16,
-    "https://www.theguardian.com/world/2026/sep/18/run-get-away-witnesses-recount-israeli-double-tap-strike-that-killed-child-and-medic-in-gaza"
+    "https://www.theguardian.com/sport/2026/sep/18/alex-ovechkin-russia-putin-video"
   ],
   [
-    "feel",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/18/mobland-season-two-review-guy-ritchie-tom-hardy-pierce-brosnan-helen-mirren-paramount-now"
-  ],
-  [
-    "buying",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/sep/16/weighted-blanket-sleep-benefits"
-  ],
-  [
-    "growing",
+    "species",
     15,
-    "https://www.nytimes.com/2026/09/18/movies/tech-founder-movies-hollywood.html"
+    "https://www.nytimes.com/2026/09/18/science/tilcayo-new-cat-species-bolivia.html"
   ],
   [
-    "american",
+    "warren",
     15,
-    "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html"
+    "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html"
   ],
   [
-    "review",
+    "sheik",
     15,
-    "https://www.washingtonpost.com/education/2026/09/18/university-maine-presque-isle/"
+    "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html"
   ],
   [
-    "past",
+    "charles",
     15,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.washingtonpost.com/health/2026/09/18/age-related-eye-disease-that-leads-hallucinations/"
   ],
   [
-    "order",
+    "gop",
     15,
-    "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates"
+    "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/"
   ],
   [
-    "fewer",
+    "leaders",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/18/memphis-national-guard-troops"
+    "https://www.washingtonpost.com/religion/2026/09/17/word-zionism-is-controversial-some-jewish-leaders-want-drop-it/"
+  ],
+  [
+    "air",
+    15,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "filter",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/sep/18/best-peel-and-stick-wallpaper"
+  ],
+  [
+    "record",
+    15,
+    "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics"
+  ],
+  [
+    "democratic",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/sep/18/the-guardian-view-on-nazas-persecuted-directors-journalism-is-not-treason"
+  ],
+  [
+    "body",
+    15,
+    "https://www.theguardian.com/world/2026/sep/18/australian-man-accused-of-murdering-thai-teenager-and-putting-body-in-suitcase-pleads-not-guilty-ntwnfb"
+  ],
+  [
+    "little",
+    14,
+    "https://www.nytimes.com/video/us/politics/100000011154861/trump-ai-technology.html"
+  ],
+  [
+    "questions",
+    14,
+    "https://www.nytimes.com/2026/09/18/science/ai-safety-questions-risk-danger.html"
   ],
   [
     "political",
@@ -216,114 +266,89 @@
     "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html"
   ],
   [
-    "health",
+    "campaign",
     14,
-    "https://www.nytimes.com/2026/09/18/us/politics/abortion-rights-activists-in-idaho-find-their-pitch-bring-back-the-doctors.html"
+    "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html"
   ],
   [
-    "berkshire",
+    "post",
     14,
-    "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html"
+    "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html"
   ],
   [
-    "million",
+    "red",
     14,
-    "https://www.nytimes.com/2026/09/18/opinion/nyt-175-anniversary-sulzberger.html"
+    "https://www.nytimes.com/2026/09/18/us/politics/abortion-rights-activists-idaho-doctors.html"
   ],
   [
-    "cost",
+    "loss",
     14,
-    "https://www.nytimes.com/2026/09/18/business/energy-environment/heating-oil-winter-iran-war.html"
+    "https://www.nytimes.com/2026/09/17/us/gettysburg-samuel-wilkeson-175.html"
+  ],
+  [
+    "duncan",
+    14,
+    "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html"
+  ],
+  [
+    "juror",
+    14,
+    "https://www.nytimes.com/2026/09/18/us/lindsay-clancy-trial-holdout-juror.html"
+  ],
+  [
+    "israel",
+    14,
+    "https://www.nytimes.com/2026/09/18/opinion/israel-naza-movie-documentary.html"
+  ],
+  [
+    "review",
+    14,
+    "https://www.washingtonpost.com/education/2026/09/18/university-maine-presque-isle/"
+  ],
+  [
+    "released",
+    14,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "workers",
     14,
-    "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html"
-  ],
-  [
-    "little",
-    14,
-    "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html"
-  ],
-  [
-    "nearly",
-    14,
-    "https://www.washingtonpost.com/nation/2026/09/18/remains-tennessee-woman-found-nearly-two-years-after-helenes-floods/"
-  ],
-  [
-    "early",
-    14,
-    "https://www.washingtonpost.com/investigations/2026/09/17/former-youth-minister-indicted-sex-abuse-charges-after-fbi-probe/"
-  ],
-  [
-    "author",
-    14,
-    "https://www.washingtonpost.com/obituaries/2026/09/16/annie-dillard-pulitzer-winning-author-pilgrim-tinker-creek-dies-81/"
-  ],
-  [
-    "attack",
-    14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "air",
-    14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "record",
-    14,
-    "https://www.theguardian.com/film/2026/sep/18/the-damage-was-much-worse-than-i-had-imagined-the-shocking-inside-story-of-salman-rushdies-survival"
-  ],
-  [
-    "won",
-    14,
-    "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure"
-  ],
-  [
-    "killed",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/18/memphis-national-guard-troops"
-  ],
-  [
-    "series",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/18/mobland-season-two-review-guy-ritchie-tom-hardy-pierce-brosnan-helen-mirren-paramount-now"
-  ],
-  [
-    "kennedy",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/17/rfk-jr-measles-anti-vaccine-organization"
-  ],
-  [
-    "case",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/17/south-park-new-season-29-premiere-watch-intro-song-lyrics-trump"
-  ],
-  [
-    "filter",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/sep/16/weighted-blanket-sleep-benefits"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
     "guide",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/sep/16/weighted-blanket-sleep-benefits"
+    "https://www.theguardian.com/thefilter-us/2026/sep/18/best-peel-and-stick-wallpaper"
   ],
   [
-    "republicans",
-    13,
-    "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html"
+    "anti",
+    14,
+    "https://www.theguardian.com/world/2026/sep/18/yemen-anti-houthi-forces-inquest-military-collapse"
   ],
   [
-    "buffett",
-    13,
-    "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html"
+    "summer",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/18/pittsburgh-trump-funding-cuts-nih-alzheimers"
   ],
   [
-    "iran",
+    "brother",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/18/trump-authoritarian-dissent-appointees"
+  ],
+  [
+    "something",
+    14,
+    "https://www.theguardian.com/film/2026/sep/18/zack-snyder-batman-movie-the-dark-knight-returns"
+  ],
+  [
+    "nearly",
     13,
-    "https://www.nytimes.com/2026/09/18/business/energy-environment/heating-oil-winter-iran-war.html"
+    "https://www.nytimes.com/2026/09/18/science/ai-safety-questions-risk-danger.html"
+  ],
+  [
+    "clancy",
+    13,
+    "https://www.nytimes.com/2026/09/18/us/lindsay-clancy-trial-holdout-juror.html"
   ],
   [
     "boy",
@@ -331,48 +356,23 @@
     "https://www.nytimes.com/2026/09/18/briefing/portrait-of-a-rich-boy.html"
   ],
   [
-    "director",
+    "american",
     13,
-    "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/"
+    "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html"
   ],
   [
-    "latest",
+    "college",
     13,
-    "https://www.washingtonpost.com/religion/2026/09/16/us-catholic-bishops-meet-with-ai-firms-about-catastrophic-risk/"
+    "https://www.washingtonpost.com/education/2026/09/18/university-maine-presque-isle/"
   ],
   [
-    "security",
+    "recent",
     13,
-    "https://www.washingtonpost.com/nation/2026/09/16/charlie-kirks-family-alleges-security-failures-contributed-his-death/"
+    "https://www.washingtonpost.com/immigration/2026/09/17/hundreds-arrested-indiana-during-recent-five-day-ice-crackdown/"
   ],
   [
-    "crisis",
+    "judge",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "politics",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates"
-  ],
-  [
-    "voters",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates"
-  ],
-  [
-    "species",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/17/endangered-species-trump-officials"
-  ],
-  [
-    "weekly",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/16/weighted-blanket-sleep-benefits"
-  ],
-  [
-    "clancy",
-    13,
-    "https://www.foxnews.com/us/judge-judy-warns-danger-prosecutors-dont-retry-lindsay-clancy-murder-trial-ends-mistrial"
+    "https://www.washingtonpost.com/nation/2026/09/16/ice-likely-violated-first-amendment-by-issuing-warning-critic-judge-rules/"
   ]
 ];
