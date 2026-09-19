@@ -2,58 +2,83 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    100,
+    96,
     "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html"
   ],
   [
     "president",
-    49,
+    50,
     "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html"
   ],
   [
+    "security",
+    31,
+    "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html"
+  ],
+  [
     "food",
-    34,
+    30,
     "https://www.washingtonpost.com/business/2026/09/18/immigrants-food-stamps-medicaid-can-be-denied-green-cards-under-trump-rule/"
   ],
   [
     "family",
-    27,
+    24,
     "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/"
   ],
   [
+    "york",
+    24,
+    "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security"
+  ],
+  [
+    "cnn",
+    21,
+    "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html"
+  ],
+  [
+    "because",
+    21,
+    "https://www.nytimes.com/2026/09/18/opinion/israel-naza-movie-documentary.html"
+  ],
+  [
     "school",
-    22,
+    21,
     "https://www.washingtonpost.com/business/2026/09/18/immigrants-food-stamps-medicaid-can-be-denied-green-cards-under-trump-rule/"
   ],
   [
-    "york",
-    22,
-    "https://www.theguardian.com/thefilter-us/2026/sep/18/best-peel-and-stick-wallpaper"
-  ],
-  [
-    "american",
-    21,
-    "https://www.nytimes.com/2026/09/18/us/politics/russia-election-disinformation-us-intelligence.html"
+    "politico",
+    20,
+    "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html"
   ],
   [
     "book",
-    21,
-    "https://www.theguardian.com/us-news/2026/sep/18/florida-activists-rightwing-school-boards"
+    20,
+    "https://www.nytimes.com/2026/09/18/arts/thomas-jefferson-sally-hemings-smithsonian-hair.html"
   ],
   [
-    "government",
+    "greenland",
     19,
-    "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
+    "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html"
   ],
   [
-    "administration",
+    "israel",
     19,
-    "https://www.theguardian.com/us-news/2026/sep/18/trump-administration-sued-federal-law-enforcement-voting"
+    "https://www.nytimes.com/2026/09/18/opinion/israel-naza-movie-documentary.html"
+  ],
+  [
+    "media",
+    19,
+    "https://www.theguardian.com/us-news/2026/sep/18/trump-bans-cnn-msnow-politico-white-house"
+  ],
+  [
+    "little",
+    18,
+    "https://www.nytimes.com/video/us/politics/100000011154861/trump-ai-technology.html"
   ],
   [
     "court",
     18,
-    "https://www.nytimes.com/2026/09/18/us/politics/trump-compensation-fund-judge-alternate-payments.html"
+    "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html"
   ],
   [
     "pop",
@@ -61,39 +86,19 @@
     "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html"
   ],
   [
-    "israel",
+    "donald",
     18,
-    "https://www.nytimes.com/2026/09/18/opinion/israel-naza-movie-documentary.html"
+    "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/"
+  ],
+  [
+    "released",
+    18,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "fewer",
     18,
-    "https://www.theguardian.com/wellness/2026/sep/18/us-food-prices-budgets"
-  ],
-  [
-    "season",
-    18,
-    "https://www.theguardian.com/us-news/2026/sep/18/pittsburgh-trump-funding-cuts-nih-alzheimers"
-  ],
-  [
-    "night",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/sep/18/remigration-europe-slovenia-government-immigrants"
-  ],
-  [
-    "son",
-    17,
-    "https://www.nytimes.com/2026/09/17/us/gettysburg-samuel-wilkeson-175.html"
-  ],
-  [
-    "because",
-    17,
-    "https://www.nytimes.com/2026/09/18/opinion/israel-naza-movie-documentary.html"
-  ],
-  [
-    "gop",
-    17,
-    "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/"
+    "https://www.theguardian.com/thefilter-us/2026/sep/18/best-peel-and-stick-wallpaper"
   ],
   [
     "buying",
@@ -101,64 +106,74 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/18/best-peel-and-stick-wallpaper"
   ],
   [
-    "film",
+    "night",
     17,
     "https://www.theguardian.com/commentisfree/2026/sep/18/remigration-europe-slovenia-government-immigrants"
   ],
   [
-    "texas",
+    "safety",
+    16,
+    "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html"
+  ],
+  [
+    "american",
+    16,
+    "https://www.nytimes.com/2026/09/18/us/politics/russia-election-disinformation-us-intelligence.html"
+  ],
+  [
+    "political",
     16,
     "https://www.nytimes.com/2026/09/18/us/politics/james-talarico-texas-senate-congressional-black-caucus.html"
   ],
   [
-    "law",
+    "administration",
     16,
-    "https://www.nytimes.com/2026/09/18/us/politics/trump-pac-spending-violation.html"
+    "https://www.nytimes.com/2026/09/18/us/politics/appeals-court-trump-third-country-deportation.html"
+  ],
+  [
+    "review",
+    16,
+    "https://www.washingtonpost.com/education/2026/09/18/university-maine-presque-isle/"
+  ],
+  [
+    "death",
+    16,
+    "https://www.theguardian.com/film/2026/sep/19/ovations-venice-death-threats-israel-extreme-responses-to-naza-documentary"
   ],
   [
     "summer",
     16,
-    "https://www.theguardian.com/us-news/2026/sep/18/pittsburgh-trump-funding-cuts-nih-alzheimers"
+    "https://www.theguardian.com/environment/2026/sep/19/summer-of-truth-will-political-leaders-act-as-climate-chaos-comes-knocking"
   ],
   [
-    "police",
+    "music",
     16,
-    "https://www.theguardian.com/us-news/2026/sep/18/pittsburgh-trump-funding-cuts-nih-alzheimers"
+    "https://www.theguardian.com/news/ng-interactive/2026/sep/19/ed-sheeran-loop-tour-culture-war-israel-palestine"
   ],
   [
-    "video",
+    "love",
     16,
-    "https://www.theguardian.com/sport/2026/sep/18/alex-ovechkin-russia-putin-video"
+    "https://www.theguardian.com/news/ng-interactive/2026/sep/19/ed-sheeran-loop-tour-culture-war-israel-palestine"
   ],
   [
-    "don",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/sep/18/robert-kraft-macklemore-ed-sheeran-tour"
-  ],
-  [
-    "power",
+    "company",
     15,
-    "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
+    "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html"
   ],
   [
-    "country",
+    "center",
     15,
-    "https://www.nytimes.com/2026/09/18/us/politics/fbi-canada-cbc-9-11.html"
+    "https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html"
   ],
   [
-    "sheik",
+    "son",
     15,
-    "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html"
+    "https://www.nytimes.com/2026/09/17/us/gettysburg-samuel-wilkeson-175.html"
   ],
   [
-    "review",
+    "late",
     15,
-    "https://www.washingtonpost.com/education/2026/09/18/university-maine-presque-isle/"
-  ],
-  [
-    "died",
-    15,
-    "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/"
+    "https://www.washingtonpost.com/religion/2026/09/17/word-zionism-is-controversial-some-jewish-leaders-want-drop-it/"
   ],
   [
     "recent",
@@ -166,9 +181,34 @@
     "https://www.washingtonpost.com/immigration/2026/09/17/hundreds-arrested-indiana-during-recent-five-day-ice-crackdown/"
   ],
   [
-    "prices",
+    "law",
     15,
-    "https://www.theguardian.com/wellness/2026/sep/18/us-food-prices-budgets"
+    "https://www.washingtonpost.com/immigration/2026/09/17/hundreds-arrested-indiana-during-recent-five-day-ice-crackdown/"
+  ],
+  [
+    "military",
+    15,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "latest",
+    15,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "film",
+    15,
+    "https://www.theguardian.com/film/2026/sep/19/ovations-venice-death-threats-israel-extreme-responses-to-naza-documentary"
+  ],
+  [
+    "record",
+    15,
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/sep/19/coleen-and-wayne-rooney-interview-marriage-mistakes-the-real-rooneys-tv"
+  ],
+  [
+    "experts",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/18/tips-giving-good-advice"
   ],
   [
     "feel",
@@ -176,74 +216,44 @@
     "https://www.theguardian.com/lifeandstyle/2026/sep/18/tips-giving-good-advice"
   ],
   [
+    "don",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/19/blind-date-dec-david"
+  ],
+  [
     "filter",
     15,
     "https://www.theguardian.com/thefilter-us/2026/sep/18/best-peel-and-stick-wallpaper"
   ],
   [
-    "cnn",
-    15,
-    "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates"
-  ],
-  [
-    "politico",
-    15,
-    "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates"
+    "full",
+    14,
+    "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html"
   ],
   [
     "children",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/18/trump-undocumented-children-texas"
-  ],
-  [
-    "security",
-    15,
-    "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot"
-  ],
-  [
-    "death",
-    15,
-    "https://www.theguardian.com/music/2026/sep/18/duncan-sheik-dies"
-  ],
-  [
-    "game",
-    15,
-    "https://www.theguardian.com/sport/2026/sep/17/buffalo-bills-detroit-lions-nfl-thursday-night-football"
-  ],
-  [
-    "little",
     14,
-    "https://www.nytimes.com/video/us/politics/100000011154861/trump-ai-technology.html"
+    "https://www.nytimes.com/2026/09/18/arts/thomas-jefferson-sally-hemings-smithsonian-hair.html"
   ],
   [
-    "cat",
+    "minutes",
     14,
-    "https://www.nytimes.com/2026/09/18/science/tilcayo-new-cat-species-bolivia.html"
+    "https://www.washingtonpost.com/lifestyle/2026/09/17/just-3-minutes-with-mini-horse-or-donkey-improves-teens-moods-study-says/"
   ],
   [
-    "elections",
+    "europe",
     14,
-    "https://www.nytimes.com/2026/09/18/us/politics/russia-election-disinformation-us-intelligence.html"
+    "https://www.theguardian.com/environment/2026/sep/19/summer-of-truth-will-political-leaders-act-as-climate-chaos-comes-knocking"
   ],
   [
-    "political",
+    "heat",
     14,
-    "https://www.nytimes.com/2026/09/18/us/politics/james-talarico-texas-senate-congressional-black-caucus.html"
+    "https://www.theguardian.com/environment/2026/sep/19/summer-of-truth-will-political-leaders-act-as-climate-chaos-comes-knocking"
   ],
   [
-    "republican",
+    "social",
     14,
-    "https://www.nytimes.com/2026/09/18/us/politics/james-talarico-texas-senate-congressional-black-caucus.html"
-  ],
-  [
-    "immigration",
-    14,
-    "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/"
-  ],
-  [
-    "experts",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/18/tips-giving-good-advice"
+    "https://www.theguardian.com/us-news/2026/sep/18/trump-bans-cnn-msnow-politico-white-house"
   ],
   [
     "weekly",
@@ -256,123 +266,113 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/18/best-peel-and-stick-wallpaper"
   ],
   [
-    "body",
+    "spencer",
     14,
-    "https://www.theguardian.com/world/2026/sep/18/australian-man-accused-of-murdering-thai-teenager-and-putting-body-in-suitcase-pleads-not-guilty-ntwnfb"
+    "https://www.theguardian.com/commentisfree/2026/sep/18/earl-spencer-king-charles-princess-diana-tiktok-instagram"
   ],
   [
-    "safety",
-    13,
-    "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html"
+    "season",
+    14,
+    "https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend"
   ],
   [
-    "loss",
-    13,
-    "https://www.nytimes.com/2026/09/17/us/gettysburg-samuel-wilkeson-175.html"
+    "game",
+    14,
+    "https://www.theguardian.com/sport/2026/sep/17/buffalo-bills-detroit-lions-nfl-thursday-night-football"
   ],
   [
-    "species",
+    "outlets",
     13,
-    "https://www.nytimes.com/2026/09/18/science/tilcayo-new-cat-species-bolivia.html"
+    "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html"
   ],
   [
-    "duncan",
+    "texas",
     13,
-    "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html"
-  ],
-  [
-    "dies",
-    13,
-    "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html"
+    "https://www.nytimes.com/2026/09/18/us/politics/james-talarico-texas-senate-congressional-black-caucus.html"
   ],
   [
     "case",
     13,
-    "https://www.nytimes.com/2026/09/18/us/lindsay-clancy-trial-holdout-juror.html"
+    "https://www.nytimes.com/2026/09/18/us/politics/appeals-court-trump-third-country-deportation.html"
   ],
   [
-    "singer",
+    "country",
     13,
-    "https://www.washingtonpost.com/obituaries/2026/09/18/duncan-sheik-singer-songwriter-who-found-success-pop-charts-broadway-dies-56/"
+    "https://www.washingtonpost.com/immigration/2026/09/18/appeals-court-says-trump-administrations-third-country-deportation-policy-is-unlawful/"
   ],
   [
-    "local",
+    "college",
     13,
-    "https://www.washingtonpost.com/nation/2026/09/18/remains-tennessee-woman-found-nearly-two-years-after-helenes-floods/"
+    "https://www.washingtonpost.com/education/2026/09/18/university-maine-presque-isle/"
   ],
   [
-    "ice",
+    "gop",
     13,
-    "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/"
+    "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/"
   ],
   [
-    "enforcement",
+    "term",
     13,
-    "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/"
+    "https://www.washingtonpost.com/religion/2026/09/17/word-zionism-is-controversial-some-jewish-leaders-want-drop-it/"
   ],
   [
-    "early",
+    "gaza",
     13,
-    "https://www.washingtonpost.com/investigations/2026/09/17/former-youth-minister-indicted-sex-abuse-charges-after-fbi-probe/"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "crisis",
+    "politics",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.theguardian.com/us-news/2026/sep/18/trump-bans-cnn-msnow-politico-white-house"
   ],
   [
-    "growing",
+    "series",
     13,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/world/2026/sep/19/pussy-riot-russian-spies-fsb-activists-rita-flores"
   ],
   [
-    "latest",
+    "driver",
     13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/us-news/2026/sep/18/wyoming-truck-driver-stabbing-attack"
   ],
   [
-    "election",
+    "video",
     13,
-    "https://www.theguardian.com/commentisfree/2026/sep/18/israel-election-last-october-palestinians"
+    "https://www.theguardian.com/sport/2026/sep/18/alex-ovechkin-russia-putin-video"
   ],
   [
-    "order",
+    "clancy",
     13,
-    "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates"
+    "https://www.theguardian.com/us-news/2026/sep/18/holdout-juror-lindsay-clancy-trial-speaks-out"
   ],
   [
-    "record",
-    13,
-    "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics"
+    "despite",
+    12,
+    "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html"
   ],
   [
-    "music",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/sep/18/robert-kraft-macklemore-ed-sheeran-tour"
+    "washington",
+    12,
+    "https://www.nytimes.com/2026/09/18/us/politics/faa-ai-dc-airports.html"
   ],
   [
-    "health",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/sep/18/remigration-europe-slovenia-government-immigrants"
+    "kennedy",
+    12,
+    "https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html"
   ],
   [
-    "something",
-    13,
-    "https://www.theguardian.com/film/2026/sep/18/zack-snyder-batman-movie-the-dark-knight-returns"
+    "denmark",
+    12,
+    "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html"
   ],
   [
-    "dead",
-    13,
-    "https://www.theguardian.com/sport/2026/sep/18/rahm-and-fleetwood-lead-pga-championship-casualties-as-adam-scott-rolls-back-years"
+    "dies",
+    12,
+    "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html"
   ],
   [
-    "young",
-    13,
-    "https://www.theguardian.com/sport/2026/sep/18/college-sports-heatstroke-jordan-mcnair-matthew-mayich"
-  ],
-  [
-    "heat",
-    13,
-    "https://www.theguardian.com/sport/2026/sep/18/college-sports-heatstroke-jordan-mcnair-matthew-mayich"
+    "california",
+    12,
+    "https://www.washingtonpost.com/nation/2026/09/18/fight-intensifies-over-fate-california-homes-falling-into-sea/"
   ]
 ];
