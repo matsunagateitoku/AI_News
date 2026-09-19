@@ -3,9 +3,9 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 36,
-      "url": "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/",
-      "source": "Washington Post"
+      "count": 35,
+      "url": "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa",
+      "source": "The Guardian"
     },
     {
       "name": "Alexander Ovechkin",
@@ -14,9 +14,15 @@
       "source": "The Guardian"
     },
     {
+      "name": "Patrick Clancy",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/sep/19/lindsay-clancy-patrick-clancy-60-minutes",
+      "source": "The Guardian"
+    },
+    {
       "name": "Gavin Newsom",
       "count": 6,
-      "url": "https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html",
+      "url": "https://www.nytimes.com/2026/09/19/us/newsom-california-voting-rules-election.html",
       "source": "NY Times"
     },
     {
@@ -32,96 +38,28 @@
       "source": "Washington Post"
     },
     {
-      "name": "Anthropic",
+      "name": "Joshua Van",
       "count": 5,
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei",
-      "source": "The Guardian"
+      "url": "https://www.foxnews.com/outkick-betting/caesars-sportsbook-promo-code-foxnewsdyw-double-your-winnings-10x-bets-ahead-ufc-331",
+      "source": "Fox News"
     },
     {
-      "name": "Jd Vance",
+      "name": "Alexandre Pantoja",
       "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/19/maga-pro-life-miscarriages-pregnancy-ice-detention",
-      "source": "The Guardian"
+      "url": "https://www.foxnews.com/outkick-betting/caesars-sportsbook-promo-code-foxnewsdyw-double-your-winnings-10x-bets-ahead-ufc-331",
+      "source": "Fox News"
     },
     {
-      "name": "Lindsay Clancy",
+      "name": "Comedian Carrot Top",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/sep/18/holdout-juror-lindsay-clancy-trial-speaks-out",
-      "source": "The Guardian"
+      "url": "https://www.nbcnews.com/pop-culture/celebrity/comedian-carrot-top-hospitalized-recovering-rcna598669",
+      "source": "NBC News"
     },
     {
-      "name": "Patrick Clancy",
-      "count": 5,
-      "url": "https://www.cbsnews.com/video/patrick-clancy-says-he-still-talks-to-his-kids-all-the-time/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Jonathan Franzen",
+      "name": "Macklemore",
       "count": 4,
-      "url": "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/19/ed-sheeran-loop-tour-culture-war-israel-palestine",
       "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Google Of Ai",
-      "count": 50,
-      "url": "https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Trump Administration’S",
-      "count": 36,
-      "url": "https://www.washingtonpost.com/immigration/2026/09/18/appeals-court-says-trump-administrations-third-country-deportation-policy-is-unlawful/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "The White House",
-      "count": 35,
-      "url": "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cnn",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Politico",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/sep/19/stephen-miller-trump-migrant-children",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ms Now",
-      "count": 12,
-      "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
-      "source": "NPR"
-    },
-    {
-      "name": "Gop",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 10,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Senate",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html",
-      "source": "NY Times"
     }
   ],
   "GPE": [
@@ -132,58 +70,58 @@
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 28,
-      "url": "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html",
-      "source": "NY Times"
-    },
-    {
       "name": "California",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html",
+      "count": 30,
+      "url": "https://www.nytimes.com/2026/09/19/us/newsom-california-voting-rules-election.html",
       "source": "NY Times"
     },
     {
-      "name": "Ukraine",
-      "count": 16,
-      "url": "https://www.theguardian.com/commentisfree/ng-interactive/2026/sep/19/ukraine-russia-artist-meditation-peace-between-missiles-dnipro-river",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Greenland",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html",
+      "name": "U.S.",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/nation/2026/09/19/diverse-texas-campus-bonds-anger-after-candidates-racist-post/",
-      "source": "Washington Post"
     },
     {
       "name": "Israel",
-      "count": 13,
+      "count": 16,
       "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
       "source": "Wall St. Journal"
     },
     {
+      "name": "Uk",
+      "count": 14,
+      "url": "https://www.theguardian.com/world/2026/sep/19/caribbean-leaders-uk-slavery-reparations-conference",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Greenland",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html",
+      "source": "NY Times"
+    },
+    {
       "name": "New York City",
       "count": 13,
-      "url": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security",
+      "url": "https://www.theguardian.com/film/2026/sep/19/john-wilson-concrete-documentary-movie",
       "source": "The Guardian"
     },
     {
-      "name": "United Russia",
-      "count": 13,
-      "url": "https://www.theguardian.com/sport/2026/sep/18/alex-ovechkin-russia-putin-video",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Denmark",
+      "name": "Nazi Germany",
       "count": 12,
-      "url": "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/19/germany-afd-banning-defend-democracy",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 11,
+      "url": "https://www.washingtonpost.com/nation/2026/09/19/diverse-texas-campus-bonds-anger-after-candidates-racist-post/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "L.A. Here'S",
+      "count": 10,
+      "url": "https://www.latimes.com/delos/story/2026-09-15/dual-citizenship-how-to-los-angeles-mexican-consulate",
+      "source": "LA Times"
     }
   ],
   "EVENT": [
@@ -194,27 +132,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "Iran Act",
-      "count": 2,
-      "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-signs-russia-sanctions-bill",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The War",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-boom.html",
-      "source": "NY Times"
-    },
-    {
       "name": "The Dp World Tour’S",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/sep/18/rahm-and-fleetwood-lead-pga-championship-casualties-as-adam-scott-rolls-back-years",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/culture/2026/sep/19/tv-this-autumn-hbo-the-war-the-paper",
       "source": "The Guardian"
     },
     {
@@ -230,9 +150,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Toronto International Film Festival",
+      "name": "World Series",
       "count": 1,
-      "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-09-18/best-movies-toronto-international-film-festival-river-misty-green-debut-spiral-tiff-2026",
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-09-19/dodgers-hoping-they-can-trust-tyler-glasnow-in-playoffs",
       "source": "LA Times"
     },
     {
@@ -242,5 +162,67 @@
       "source": "NBC News"
     }
   ],
-  "updated": "2026-09-19T16:19:37Z"
+  "ORG": [
+    {
+      "name": "Ai Targets",
+      "count": 48,
+      "url": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Trump Administration’S",
+      "count": 35,
+      "url": "https://www.washingtonpost.com/immigration/2026/09/18/appeals-court-says-trump-administrations-third-country-deportation-policy-is-unlawful/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "The White House",
+      "count": 29,
+      "url": "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cnn",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Politico",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ms Now",
+      "count": 12,
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
+      "source": "NPR"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/sep/19/stephen-miller-trump-migrant-children",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 9,
+      "url": "https://www.politico.com/news/2026/09/15/bo-french-texas-republicans-xenophobic-worries-01076388",
+      "source": "Politico"
+    },
+    {
+      "name": "Naza",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/18/the-guardian-view-on-nazas-persecuted-directors-journalism-is-not-treason",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-09-19T21:22:01Z"
 };

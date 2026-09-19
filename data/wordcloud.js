@@ -2,93 +2,73 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    79,
+    78,
     "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
   ],
   [
     "president",
-    49,
+    54,
     "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
   ],
   [
     "food",
-    36,
+    32,
     "https://www.washingtonpost.com/nation/2026/09/19/11-days-lost-hiker-shouted-help-then-two-kayakers-appeared/"
   ],
   [
-    "security",
-    27,
-    "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html"
-  ],
-  [
     "california",
-    23,
-    "https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html"
+    25,
+    "https://www.nytimes.com/2026/09/19/us/newsom-california-voting-rules-election.html"
   ],
   [
-    "school",
-    23,
-    "https://www.washingtonpost.com/business/2026/09/18/immigrants-food-stamps-medicaid-can-be-denied-green-cards-under-trump-rule/"
-  ],
-  [
-    "family",
-    23,
-    "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/"
-  ],
-  [
-    "death",
-    20,
-    "https://www.theguardian.com/food/2026/sep/19/writers-on-the-greatest-cake-of-their-life"
+    "security",
+    22,
+    "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-security-deal-what-to-know.html"
   ],
   [
     "york",
-    19,
+    22,
     "https://www.nytimes.com/2026/04/30/special-series/archives-anniversary-newspaper.html"
   ],
   [
-    "politico",
-    19,
-    "https://www.theguardian.com/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban"
-  ],
-  [
-    "donald",
-    18,
-    "https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/"
-  ],
-  [
-    "media",
-    18,
+    "family",
+    20,
     "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long"
-  ],
-  [
-    "cnn",
-    18,
-    "https://www.theguardian.com/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban"
   ],
   [
     "country",
+    19,
+    "https://www.nytimes.com/2026/09/18/opinion/nyt-175-anniversary-sulzberger.html"
+  ],
+  [
+    "feel",
+    18,
+    "https://www.theguardian.com/society/ng-interactive/2026/sep/20/i-feel-like-im-cancelling-out-her-life-the-wrenching-work-of-clearing-out-a-parents-home"
+  ],
+  [
+    "code",
+    18,
+    "https://www.theguardian.com/books/2026/sep/18/author-michel-bussi-code-yesterday-one-woman-wrote-the-beatles-songs"
+  ],
+  [
+    "israel",
     17,
-    "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-boom.html"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "war",
-    16,
-    "https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html"
-  ],
-  [
-    "texas",
-    16,
-    "https://www.washingtonpost.com/nation/2026/09/19/diverse-texas-campus-bonds-anger-after-candidates-racist-post/"
-  ],
-  [
-    "experts",
-    16,
+    "donald",
+    17,
     "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa"
   ],
   [
-    "because",
+    "politico",
+    17,
+    "https://www.theguardian.com/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban"
+  ],
+  [
+    "campaign",
     16,
-    "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long"
+    "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
   ],
   [
     "political",
@@ -96,224 +76,204 @@
     "https://www.theguardian.com/news/ng-interactive/2026/sep/19/ed-sheeran-loop-tour-culture-war-israel-palestine"
   ],
   [
-    "game",
+    "because",
     16,
-    "https://www.theguardian.com/sport/2026/sep/17/buffalo-bills-detroit-lions-nfl-thursday-night-football"
+    "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long"
   ],
   [
-    "power",
-    15,
-    "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
+    "death",
+    16,
+    "https://www.theguardian.com/food/2026/sep/19/writers-on-the-greatest-cake-of-their-life"
   ],
   [
-    "access",
-    15,
-    "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html"
-  ],
-  [
-    "journalists",
-    15,
+    "cnn",
+    16,
     "https://www.theguardian.com/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban"
   ],
   [
-    "feel",
+    "government",
     15,
-    "https://www.theguardian.com/global-development/2026/sep/19/nine-women-in-south-africa-have-been-murdered-since-july-we-are-being-told-to-be-vigilant-but-where-are-the-warnings-to-men"
-  ],
-  [
-    "ukraine",
-    15,
-    "https://www.theguardian.com/commentisfree/ng-interactive/2026/sep/19/ukraine-russia-artist-meditation-peace-between-missiles-dnipro-river"
-  ],
-  [
-    "summer",
-    15,
-    "https://www.theguardian.com/environment/2026/sep/19/summer-of-truth-will-political-leaders-act-as-climate-chaos-comes-knocking"
-  ],
-  [
-    "campaign",
-    14,
     "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
   ],
   [
     "party",
-    14,
+    15,
     "https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html"
   ],
   [
-    "greenland",
-    14,
-    "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html"
+    "intelligence",
+    15,
+    "https://www.nytimes.com/2026/09/19/nyregion/artificial-intelligence-drones-police.html"
   ],
   [
-    "united",
-    14,
-    "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-security-deal-what-to-know.html"
+    "american",
+    15,
+    "https://www.washingtonpost.com/business/2026/09/20/concerts-sports-games-restaurants-its-expensive-go-out-nowadays/"
   ],
   [
-    "politics",
-    14,
-    "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-exxon-mobil.html"
+    "school",
+    15,
+    "https://www.washingtonpost.com/business/2026/09/18/immigrants-food-stamps-medicaid-can-be-denied-green-cards-under-trump-rule/"
   ],
   [
-    "israel",
-    14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "college",
+    15,
+    "https://www.washingtonpost.com/education/2026/09/18/university-maine-presque-isle/"
   ],
   [
     "despite",
-    14,
+    15,
     "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
     "don",
+    15,
+    "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa"
+  ],
+  [
+    "promo",
+    15,
+    "https://www.theguardian.com/film/2026/sep/19/john-wilson-concrete-documentary-movie"
+  ],
+  [
+    "voters",
+    14,
+    "https://www.washingtonpost.com/business/2026/09/19/nations-premier-business-group-is-hitting-road-stamp-out-socialism/"
+  ],
+  [
+    "military",
+    14,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "film",
+    14,
+    "https://www.theguardian.com/music/2026/sep/20/10-chaotic-questions-rock-singer-suzi-quatro-age-76"
+  ],
+  [
+    "force",
     14,
     "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa"
   ],
   [
-    "children",
-    14,
-    "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long"
-  ],
-  [
-    "love",
-    14,
-    "https://www.theguardian.com/society/2026/sep/19/letters-fathers-sons-stephen-graham-netflix-show-adolescence"
-  ],
-  [
-    "heat",
-    14,
-    "https://www.theguardian.com/sport/2026/sep/18/college-sports-heatstroke-jordan-mcnair-matthew-mayich"
-  ],
-  [
-    "department",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/18/texas-flock-camera-permits"
-  ],
-  [
-    "voters",
-    13,
-    "https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html"
-  ],
-  [
-    "company",
-    13,
-    "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html"
-  ],
-  [
-    "denmark",
-    13,
-    "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html"
-  ],
-  [
-    "full",
-    13,
-    "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html"
-  ],
-  [
-    "didn",
-    13,
-    "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html"
-  ],
-  [
-    "released",
-    13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "film",
-    13,
-    "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long"
-  ],
-  [
     "series",
-    13,
+    14,
+    "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long"
+  ],
+  [
+    "media",
+    14,
     "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long"
   ],
   [
     "book",
-    13,
+    14,
     "https://www.theguardian.com/food/2026/sep/19/writers-on-the-greatest-cake-of-their-life"
+  ],
+  [
+    "journalists",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban"
+  ],
+  [
+    "died",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/19/elderly-man-beaten-to-death-virginia-walmart"
+  ],
+  [
+    "wife",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/19/elderly-man-beaten-to-death-virginia-walmart"
+  ],
+  [
+    "game",
+    14,
+    "https://www.theguardian.com/sport/2026/sep/17/buffalo-bills-detroit-lions-nfl-thursday-night-football"
+  ],
+  [
+    "football",
+    14,
+    "https://www.theguardian.com/sport/2026/sep/18/college-sports-heatstroke-jordan-mcnair-matthew-mayich"
+  ],
+  [
+    "fewer",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
+  ],
+  [
+    "greenland",
+    13,
+    "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html"
+  ],
+  [
+    "texas",
+    13,
+    "https://www.washingtonpost.com/nation/2026/09/19/diverse-texas-campus-bonds-anger-after-candidates-racist-post/"
+  ],
+  [
+    "immigration",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "biggest",
     13,
-    "https://www.theguardian.com/food/2026/sep/19/writers-on-the-greatest-cake-of-their-life"
-  ],
-  [
-    "music",
-    13,
     "https://www.theguardian.com/news/ng-interactive/2026/sep/19/ed-sheeran-loop-tour-culture-war-israel-palestine"
   ],
   [
-    "russia",
+    "experts",
     13,
-    "https://www.theguardian.com/world/2026/sep/19/pussy-riot-russian-spies-fsb-activists-rita-flores"
+    "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa"
   ],
   [
-    "video",
+    "bet",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/19/elderly-man-beaten-to-death-virginia-walmart"
+    "https://www.theguardian.com/sport/2026/sep/19/belmont-park-reopening-horse-racing-new-york"
+  ],
+  [
+    "children",
+    13,
+    "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long"
   ],
   [
     "record",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/19/hispanic-voters-support-trump-immigration-economy"
+    "https://www.theguardian.com/football/2026/sep/19/brighton-arsenal-premier-league-match-report"
   ],
   [
-    "american",
+    "minutes",
     13,
-    "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei"
+    "https://www.theguardian.com/us-news/2026/sep/19/lindsay-clancy-patrick-clancy-60-minutes"
   ],
   [
-    "cut",
+    "summer",
     13,
-    "https://www.theguardian.com/global-development/2026/sep/19/brazils-wind-farms-have-been-a-huge-success-so-why-isnt-everybody-reaping-the-benefits"
+    "https://www.theguardian.com/environment/2026/sep/19/summer-of-truth-will-political-leaders-act-as-climate-chaos-comes-knocking"
   ],
   [
-    "fewer",
+    "buying",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/18/best-peel-and-stick-wallpaper"
+    "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
   ],
   [
-    "government",
-    12,
-    "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
+    "filter",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
   ],
   [
-    "control",
+    "company",
     12,
-    "https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html"
+    "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html"
   ],
   [
-    "start",
+    "million",
     12,
-    "https://www.nytimes.com/2026/09/17/t-magazine/holiday-travel-questions.html"
+    "https://www.nytimes.com/2026/09/18/opinion/nyt-175-anniversary-sulzberger.html"
   ],
   [
-    "night",
+    "social",
     12,
-    "https://www.washingtonpost.com/business/2026/09/20/concerts-sports-games-restaurants-its-expensive-go-out-nowadays/"
-  ],
-  [
-    "administration",
-    12,
-    "https://www.washingtonpost.com/immigration/2026/09/18/appeals-court-says-trump-administrations-third-country-deportation-policy-is-unlawful/"
-  ],
-  [
-    "died",
-    12,
-    "https://www.washingtonpost.com/obituaries/2026/09/17/jon-kyl-former-top-republican-senate-dies-84/"
-  ],
-  [
-    "military",
-    12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "air",
-    12,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.nytimes.com/2026/09/19/magazine/aaron-sorkin-interview.html"
   ],
   [
     "growing",
@@ -321,29 +281,54 @@
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "friend",
+    "released",
     12,
-    "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "artist",
+    "music",
     12,
-    "https://www.theguardian.com/world/2026/sep/19/pussy-riot-russian-spies-fsb-activists-rita-flores"
+    "https://www.theguardian.com/news/ng-interactive/2026/sep/19/ed-sheeran-loop-tour-culture-war-israel-palestine"
   ],
   [
-    "recent",
+    "love",
     12,
-    "https://www.theguardian.com/world/2026/sep/19/lawsuit-california-museum-nazi-looted-art"
+    "https://www.theguardian.com/news/ng-interactive/2026/sep/19/ed-sheeran-loop-tour-culture-war-israel-palestine"
+  ],
+  [
+    "star",
+    12,
+    "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa"
+  ],
+  [
+    "video",
+    12,
+    "https://www.theguardian.com/us-news/2026/sep/19/elderly-man-beaten-to-death-virginia-walmart"
   ],
   [
     "health",
     12,
-    "https://www.theguardian.com/global-development/2026/sep/19/brazils-wind-farms-have-been-a-huge-success-so-why-isnt-everybody-reaping-the-benefits"
+    "https://www.theguardian.com/us-news/2026/sep/19/california-officials-measles-infected-bus-and-train-passenger"
   ],
   [
-    "driver",
+    "almost",
     12,
-    "https://www.theguardian.com/global-development/2026/sep/19/brazils-wind-farms-have-been-a-huge-success-so-why-isnt-everybody-reaping-the-benefits"
+    "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force"
+  ],
+  [
+    "kennedy",
+    12,
+    "https://www.theguardian.com/us-news/2026/sep/19/trump-kennedy-center-future"
+  ],
+  [
+    "night",
+    12,
+    "https://www.theguardian.com/us-news/2026/sep/19/trump-kennedy-center-future"
+  ],
+  [
+    "hear",
+    12,
+    "https://www.theguardian.com/technology/2026/sep/20/your-ai-doomsday-questions-answered-could-ai-technology-really-end-humanity"
   ],
   [
     "germany",
@@ -351,28 +336,43 @@
     "https://www.theguardian.com/commentisfree/2026/sep/19/germany-afd-banning-defend-democracy"
   ],
   [
-    "europe",
+    "politics",
     12,
-    "https://www.theguardian.com/commentisfree/2026/sep/19/germany-afd-banning-defend-democracy"
+    "https://www.theguardian.com/commentisfree/2026/sep/19/music-industry-divided-political-apolitical-artists-ed-sheeran-macklemore"
   ],
   [
-    "football",
+    "artist",
+    12,
+    "https://www.theguardian.com/commentisfree/ng-interactive/2026/sep/19/ukraine-russia-artist-meditation-peace-between-missiles-dnipro-river"
+  ],
+  [
+    "cut",
+    12,
+    "https://www.theguardian.com/sport/2026/sep/18/rahm-and-fleetwood-lead-pga-championship-casualties-as-adam-scott-rolls-back-years"
+  ],
+  [
+    "heat",
     12,
     "https://www.theguardian.com/sport/2026/sep/18/college-sports-heatstroke-jordan-mcnair-matthew-mayich"
   ],
   [
-    "fashion",
-    12,
-    "https://www.theguardian.com/fashion/2026/sep/19/council-of-fashion-designers-of-america-ceo-steven-kolb-resigns-after-physically-restraining-animal-rights-activists"
-  ],
-  [
     "guide",
     12,
-    "https://www.theguardian.com/culture/2026/sep/19/tv-this-autumn-hbo-the-war-the-paper"
+    "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
   ],
   [
-    "filter",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/sep/18/best-peel-and-stick-wallpaper"
+    "power",
+    11,
+    "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
+  ],
+  [
+    "artificial",
+    11,
+    "https://www.nytimes.com/2026/09/19/nyregion/artificial-intelligence-drones-police.html"
+  ],
+  [
+    "united",
+    11,
+    "https://www.nytimes.com/2026/09/19/nyregion/artificial-intelligence-drones-police.html"
   ]
 ];
