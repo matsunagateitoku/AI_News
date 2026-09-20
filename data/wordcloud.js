@@ -2,58 +2,58 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    87,
+    102,
     "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
   ],
   [
     "president",
-    47,
+    67,
     "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
   ],
   [
+    "york",
+    30,
+    "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html"
+  ],
+  [
     "food",
-    26,
+    25,
     "https://www.washingtonpost.com/nation/2026/09/19/11-days-lost-hiker-shouted-help-then-two-kayakers-appeared/"
   ],
   [
     "california",
-    26,
+    24,
     "https://www.theguardian.com/us-news/2026/sep/20/los-angeles-bear-coexistence"
   ],
   [
-    "family",
-    26,
-    "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest"
-  ],
-  [
-    "media",
+    "donald",
     24,
-    "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html"
-  ],
-  [
-    "arch",
-    23,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
+    "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar"
   ],
   [
     "political",
-    20,
+    22,
     "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
   ],
   [
     "military",
-    20,
+    22,
     "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
   ],
   [
-    "country",
-    20,
-    "https://www.nytimes.com/2026/09/18/opinion/nyt-175-anniversary-sulzberger.html"
+    "media",
+    22,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/20/anger-midterm-elections"
   ],
   [
-    "social",
-    20,
-    "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest"
+    "arch",
+    21,
+    "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
+  ],
+  [
+    "nation",
+    21,
+    "https://www.washingtonpost.com/business/2026/09/19/nations-premier-business-group-is-hitting-road-stamp-out-socialism/"
   ],
   [
     "film",
@@ -61,79 +61,69 @@
     "https://www.theguardian.com/commentisfree/2026/sep/20/lizzie-borden-myra-hindley-fascinated-female-killers"
   ],
   [
-    "book",
-    20,
-    "https://www.theguardian.com/books/2026/sep/20/i-was-asked-to-write-a-new-miss-marple-so-i-sent-her-to-the-alps"
-  ],
-  [
-    "security",
+    "family",
     19,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
-  ],
-  [
-    "don",
-    19,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/20/john-fetterman-braddock-pennsylvania"
-  ],
-  [
-    "interview",
-    18,
-    "https://www.theguardian.com/uk-news/2026/sep/20/earl-spencer-media-treatment-harry-and-meghan-echoes-diana"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/21/the-kindness-of-strangers-international-flight-passenger-tucked-a-blanket-around-my-son"
   ],
   [
     "game",
     18,
-    "https://www.theguardian.com/media/2026/sep/20/caitlin-moran-social-media-what-to-do-instead"
+    "https://www.nytimes.com/2026/09/20/opinion/green-bay-packers-nfl-owners.html"
   ],
   [
-    "york",
-    17,
-    "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html"
+    "texas",
+    18,
+    "https://www.nytimes.com/2026/09/19/us/john-poindexter-west-texas-shafter.html"
   ],
   [
-    "nation",
-    17,
-    "https://www.washingtonpost.com/business/2026/09/19/nations-premier-business-group-is-hitting-road-stamp-out-socialism/"
+    "summer",
+    18,
+    "https://www.theguardian.com/us-news/2026/sep/20/los-angeles-bear-coexistence"
   ],
   [
-    "gaza",
-    17,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "meet",
+    18,
+    "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar"
   ],
   [
     "feel",
-    17,
+    18,
     "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour"
   ],
   [
-    "diana",
+    "don",
+    18,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/20/john-fetterman-braddock-pennsylvania"
+  ],
+  [
+    "security",
     17,
-    "https://www.theguardian.com/uk-news/2026/sep/20/earl-spencer-media-treatment-harry-and-meghan-echoes-diana"
+    "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
   ],
   [
-    "donald",
+    "margaret",
+    17,
+    "https://www.theguardian.com/fashion/2026/sep/20/christopher-kane-mulberry-make-joint-comeback-london-fashion-week"
+  ],
+  [
+    "war",
     16,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/20/anger-midterm-elections"
+    "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
   ],
   [
-    "charles",
+    "country",
     16,
-    "https://www.theguardian.com/uk-news/2026/sep/20/earl-spencer-media-treatment-harry-and-meghan-echoes-diana"
+    "https://www.washingtonpost.com/immigration/2026/09/18/appeals-court-says-trump-administrations-third-country-deportation-policy-is-unlawful/"
   ],
   [
-    "government",
-    15,
-    "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html"
+    "music",
+    16,
+    "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour"
   ],
   [
-    "talks",
+    "republican",
     15,
-    "https://www.nytimes.com/2026/09/18/arts/music/popcast-interview-audrey-hobert-whos-the-clown.html"
-  ],
-  [
-    "post",
-    15,
-    "https://www.washingtonpost.com/politics/2026/09/20/trump-says-planned-arch-will-be-military-complex-drones-snipers/"
+    "https://www.nytimes.com/2026/09/20/us/politics/troy-jackson-susan-collins-maine-senate.html"
   ],
   [
     "win",
@@ -141,69 +131,99 @@
     "https://www.washingtonpost.com/obituaries/2026/09/20/dc-barber-who-considered-his-job-vacation-other-lives-weve-lost/"
   ],
   [
-    "texas",
+    "gaza",
     15,
-    "https://www.washingtonpost.com/nation/2026/09/19/diverse-texas-campus-bonds-anger-after-candidates-racist-post/"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "summer",
+    "buying",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/20/los-angeles-bear-coexistence"
-  ],
-  [
-    "music",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/20/ms-rachel-the-queen-of-toddler-tv-interview"
+    "https://www.theguardian.com/fashion/2026/sep/20/readers-favourite-secondhand-fashion-oxfam-second-hand-september"
   ],
   [
     "iran",
+    15,
+    "https://www.theguardian.com/world/2026/sep/20/middle-east-braces-for-more-violence-as-iran-claims-us-is-planning-to-renew-bombing-campaign"
+  ],
+  [
+    "social",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/20/trump-triumphal-arch-military-complex"
+  ],
+  [
+    "because",
+    15,
+    "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour"
+  ],
+  [
+    "body",
+    15,
+    "https://www.theguardian.com/sport/2026/sep/20/elviras-fairytale-crumbles-at-the-last-to-hand-spaun-pga-championship-title"
+  ],
+  [
+    "mayor",
+    15,
+    "https://www.theguardian.com/film/2026/sep/19/john-wilson-concrete-documentary-movie"
+  ],
+  [
+    "brennan",
+    15,
+    "https://www.cbsnews.com/video/sen-bill-cassidy-says-having-measles-is-not-a-kind-of-victimless-experience/"
+  ],
+  [
+    "complex",
+    14,
+    "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
+  ],
+  [
+    "government",
     14,
     "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
+  ],
+  [
+    "john",
+    14,
+    "https://www.nytimes.com/2026/09/19/us/john-poindexter-west-texas-shafter.html"
+  ],
+  [
+    "administration",
+    14,
+    "https://www.washingtonpost.com/immigration/2026/09/18/appeals-court-says-trump-administrations-third-country-deportation-policy-is-unlawful/"
   ],
   [
     "history",
     14,
-    "https://www.nytimes.com/2026/09/18/opinion/nyt-175-anniversary-sulzberger.html"
+    "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration"
   ],
   [
-    "series",
+    "full",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest"
+    "https://www.theguardian.com/commentisfree/2026/sep/20/mum-died-decision-belongings-feels-wrong"
   ],
   [
-    "sheeran",
+    "mamdani",
     14,
-    "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour"
+    "https://www.theguardian.com/film/2026/sep/19/john-wilson-concrete-documentary-movie"
   ],
   [
-    "buying",
+    "book",
     14,
-    "https://www.theguardian.com/fashion/2026/sep/20/readers-favourite-secondhand-fashion-oxfam-second-hand-september"
+    "https://www.theguardian.com/books/2026/sep/20/i-was-asked-to-write-a-new-miss-marple-so-i-sent-her-to-the-alps"
   ],
   [
-    "drones",
+    "place",
     13,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
+    "https://www.nytimes.com/2026/09/20/science/nih-omb-grants-bhattacharya-vought.html"
   ],
   [
-    "war",
-    13,
-    "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
-  ],
-  [
-    "united",
+    "china",
     13,
     "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html"
   ],
   [
-    "republicans",
+    "post",
     13,
-    "https://www.nytimes.com/2026/09/20/nyregion/cait-conley-lawler-ny.html"
-  ],
-  [
-    "administration",
-    13,
-    "https://www.nytimes.com/2026/09/20/nyregion/cait-conley-lawler-ny.html"
+    "https://www.washingtonpost.com/politics/2026/09/20/trump-says-planned-arch-will-be-military-complex-drones-snipers/"
   ],
   [
     "israel",
@@ -211,44 +231,49 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
+    "crisis",
+    13,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
     "election",
     13,
-    "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election"
+    "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration"
   ],
   [
-    "john",
+    "clear",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/20/john-fetterman-braddock-pennsylvania"
+    "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration"
   ],
   [
-    "spencer",
+    "storage",
     13,
-    "https://www.theguardian.com/uk-news/2026/sep/20/earl-spencer-media-treatment-harry-and-meghan-echoes-diana"
+    "https://www.theguardian.com/us-news/2026/sep/20/trump-triumphal-arch-military-complex"
   ],
   [
-    "princess",
+    "plus",
     13,
-    "https://www.theguardian.com/uk-news/2026/sep/20/earl-spencer-media-treatment-harry-and-meghan-echoes-diana"
+    "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour"
+  ],
+  [
+    "video",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/20/ms-rachel-the-queen-of-toddler-tv-interview"
+  ],
+  [
+    "having",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/21/the-kindness-of-strangers-international-flight-passenger-tucked-a-blanket-around-my-son"
   ],
   [
     "los",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/20/la-helicopter-news-crash-history"
+    "https://www.theguardian.com/us-news/2026/sep/19/texas-california-surrogate-court"
   ],
   [
     "angeles",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/20/la-helicopter-news-crash-history"
-  ],
-  [
-    "wife",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/18/san-diego-police-investigate-family-found-dead"
-  ],
-  [
-    "promo",
-    13,
-    "https://www.theguardian.com/film/2026/sep/19/john-wilson-concrete-documentary-movie"
+    "https://www.theguardian.com/us-news/2026/sep/19/texas-california-surrogate-court"
   ],
   [
     "filter",
@@ -256,84 +281,74 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
   ],
   [
-    "guide",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
+    "decision",
+    12,
+    "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html"
   ],
   [
-    "complex",
+    "senate",
     12,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
+    "https://www.nytimes.com/2026/09/20/us/politics/troy-jackson-susan-collins-maine-senate.html"
   ],
   [
-    "code",
+    "elections",
     12,
-    "https://www.nytimes.com/2026/09/20/briefing/chatbot-agents-deepmind-anthropic-openai.html"
+    "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html"
+  ],
+  [
+    "party",
+    12,
+    "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html"
   ],
   [
     "american",
     12,
-    "https://www.nytimes.com/2026/09/20/opinion/end-american-exceptionalism.html"
+    "https://www.nytimes.com/2026/09/20/us/yom-kippur-2026-united-states.html"
   ],
   [
-    "attack",
+    "cost",
     12,
-    "https://www.washingtonpost.com/nation/2026/09/19/diverse-texas-campus-bonds-anger-after-candidates-racist-post/"
+    "https://www.washingtonpost.com/business/2026/09/20/concerts-sports-games-restaurants-its-expensive-go-out-nowadays/"
   ],
   [
-    "crisis",
+    "claims",
     12,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar"
   ],
   [
-    "growing",
+    "fashion",
     12,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/fashion/2026/sep/20/readers-favourite-secondhand-fashion-oxfam-second-hand-september"
   ],
   [
-    "latest",
+    "elvira",
     12,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration"
   ],
   [
-    "video",
+    "interview",
     12,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/20/ms-rachel-the-queen-of-toddler-tv-interview"
+    "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration"
   ],
   [
-    "because",
+    "experts",
     12,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/20/ms-rachel-the-queen-of-toddler-tv-interview"
+    "https://www.theguardian.com/us-news/2026/sep/20/rabies-beaver-goat-prevalence-concerns"
   ],
   [
-    "clear",
+    "love",
     12,
-    "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest"
+    "https://www.theguardian.com/media/2026/sep/20/caitlin-moran-social-media-what-to-do-instead"
   ],
   [
-    "storage",
+    "wife",
     12,
-    "https://www.theguardian.com/us-news/2026/sep/20/trump-triumphal-arch-military-complex"
+    "https://www.theguardian.com/world/2026/sep/20/british-man-torn-from-swedish-wife-and-home"
   ],
   [
-    "sister",
+    "guide",
     12,
-    "https://www.theguardian.com/uk-news/2026/sep/20/earl-spencer-media-treatment-harry-and-meghan-echoes-diana"
-  ],
-  [
-    "following",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/sep/20/lizzie-borden-myra-hindley-fascinated-female-killers"
-  ],
-  [
-    "death",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/sep/20/lizzie-borden-myra-hindley-fascinated-female-killers"
-  ],
-  [
-    "college",
-    12,
-    "https://www.theguardian.com/sport/live/2026/sep/20/nfl-week-2-vikings-v-bears-bengals-v-texans-and-more-live"
+    "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
   ],
   [
     "fewer",
@@ -341,38 +356,23 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
   ],
   [
-    "states",
-    11,
-    "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html"
+    "republicans",
+    12,
+    "https://www.latimes.com/politics/story/2026-09-20/california-republicans-walk-tightrope-as-trump-jumps-into-campaigning"
   ],
   [
-    "force",
-    11,
-    "https://www.nytimes.com/2026/09/19/us/politics/trump-ai-force.html"
+    "gop",
+    12,
+    "https://www.cbsnews.com/news/bill-cassidy-trump-vaccines-measles/"
   ],
   [
-    "near",
+    "latest",
     11,
-    "https://www.washingtonpost.com/politics/2026/09/20/trump-says-planned-arch-will-be-military-complex-drones-snipers/"
+    "https://www.nytimes.com/2026/09/20/science/nih-omb-grants-bhattacharya-vought.html"
   ],
   [
-    "cost",
+    "drones",
     11,
-    "https://www.washingtonpost.com/business/2026/09/20/concerts-sports-games-restaurants-its-expensive-go-out-nowadays/"
-  ],
-  [
-    "powerful",
-    11,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "won",
-    11,
-    "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest"
-  ],
-  [
-    "triumphal",
-    11,
-    "https://www.theguardian.com/us-news/2026/sep/20/trump-triumphal-arch-military-complex"
+    "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
   ]
 ];
