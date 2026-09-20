@@ -2,156 +2,141 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    83,
-    "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html"
+    76,
+    "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
   ],
   [
     "president",
-    50,
-    "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html"
-  ],
-  [
-    "food",
-    33,
-    "https://www.washingtonpost.com/nation/2026/09/19/11-days-lost-hiker-shouted-help-then-two-kayakers-appeared/"
-  ],
-  [
-    "california",
-    26,
-    "https://www.nytimes.com/2026/09/19/us/newsom-california-voting-rules-election.html"
-  ],
-  [
-    "sheeran",
-    25,
-    "https://www.nytimes.com/2026/09/19/arts/music/ed-sheeran-macklemore-gaza-tour.html"
+    49,
+    "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
   ],
   [
     "political",
-    23,
-    "https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html"
+    27,
+    "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
   ],
   [
-    "gaza",
-    23,
-    "https://www.nytimes.com/2026/09/19/arts/music/ed-sheeran-macklemore-gaza-tour.html"
+    "food",
+    27,
+    "https://www.washingtonpost.com/nation/2026/09/19/11-days-lost-hiker-shouted-help-then-two-kayakers-appeared/"
   ],
   [
     "texas",
-    22,
+    26,
     "https://www.washingtonpost.com/nation/2026/09/19/diverse-texas-campus-bonds-anger-after-candidates-racist-post/"
   ],
   [
-    "voters",
-    20,
-    "https://www.nytimes.com/2026/09/19/us/politics/news-outlets-react-trump-media-ban.html"
-  ],
-  [
-    "don",
-    20,
-    "https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html"
-  ],
-  [
-    "security",
-    20,
-    "https://www.theguardian.com/world/2026/sep/19/denmark-greenland-us-military-agreement-territorial-sovereignty"
-  ],
-  [
     "media",
-    19,
+    25,
     "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html"
   ],
   [
+    "california",
+    24,
+    "https://www.theguardian.com/us-news/2026/sep/19/gavin-newsom-elections-trump-administration-interference"
+  ],
+  [
     "country",
-    18,
-    "https://www.nytimes.com/2026/09/19/us/politics/assault-weapons-bans-court-cases.html"
+    22,
+    "https://www.nytimes.com/2026/09/20/us/measles-pennsylvania.html"
   ],
   [
-    "politics",
-    18,
-    "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-gaza-catastrophic-and-unjustifiable-first-show-tour-loop-philadelphia-us"
+    "sheeran",
+    22,
+    "https://www.nytimes.com/2026/09/19/arts/music/ed-sheeran-macklemore-gaza-tour.html"
   ],
   [
-    "because",
-    18,
-    "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei"
+    "security",
+    22,
+    "https://www.theguardian.com/world/2026/sep/19/denmark-greenland-us-military-agreement-territorial-sovereignty"
+  ],
+  [
+    "gaza",
+    21,
+    "https://www.nytimes.com/2026/09/19/arts/music/ed-sheeran-macklemore-gaza-tour.html"
+  ],
+  [
+    "family",
+    21,
+    "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest"
+  ],
+  [
+    "feel",
+    20,
+    "https://www.theguardian.com/media/2026/sep/20/caitlin-moran-social-media-what-to-do-instead"
+  ],
+  [
+    "york",
+    19,
+    "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html"
+  ],
+  [
+    "win",
+    19,
+    "https://www.washingtonpost.com/obituaries/2026/09/20/dc-barber-who-considered-his-job-vacation-other-lives-weve-lost/"
+  ],
+  [
+    "voters",
+    19,
+    "https://www.washingtonpost.com/business/2026/09/19/nations-premier-business-group-is-hitting-road-stamp-out-socialism/"
   ],
   [
     "series",
+    19,
+    "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest"
+  ],
+  [
+    "don",
+    19,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/20/children-surprised-wills-inheritance-annalisa-barbieri"
+  ],
+  [
+    "government",
     18,
-    "https://www.theguardian.com/commentisfree/2026/sep/19/school-dinners-campaign-children-government-announcement-food-standards"
+    "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html"
+  ],
+  [
+    "administration",
+    18,
+    "https://www.nytimes.com/2026/09/20/nyregion/cait-conley-lawler-ny.html"
+  ],
+  [
+    "donald",
+    18,
+    "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest"
   ],
   [
     "music",
     17,
-    "https://www.theguardian.com/news/ng-interactive/2026/sep/19/ed-sheeran-loop-tour-culture-war-israel-palestine"
-  ],
-  [
-    "donald",
-    17,
-    "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa"
-  ],
-  [
-    "family",
-    17,
-    "https://www.theguardian.com/education/2026/sep/20/fresher-university-48-life-rules"
-  ],
-  [
-    "feel",
-    17,
-    "https://www.theguardian.com/global-development/2026/sep/19/nine-women-in-south-africa-have-been-murdered-since-july-we-are-being-told-to-be-vigilant-but-where-are-the-warnings-to-men"
-  ],
-  [
-    "election",
-    16,
-    "https://www.nytimes.com/2026/09/19/us/newsom-california-voting-rules-election.html"
-  ],
-  [
-    "party",
-    16,
-    "https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html"
-  ],
-  [
-    "war",
-    16,
-    "https://www.nytimes.com/2026/09/19/arts/music/ed-sheeran-macklemore-gaza-tour.html"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/20/ms-rachel-the-queen-of-toddler-tv-interview"
   ],
   [
     "school",
     16,
-    "https://www.washingtonpost.com/business/2026/09/18/immigrants-food-stamps-medicaid-can-be-denied-green-cards-under-trump-rule/"
+    "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html"
   ],
   [
-    "children",
+    "republicans",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/20/children-surprised-wills-inheritance-annalisa-barbieri"
+    "https://www.nytimes.com/2026/09/20/nyregion/cait-conley-lawler-ny.html"
   ],
   [
-    "video",
+    "election",
     16,
-    "https://www.theguardian.com/us-news/2026/sep/19/elderly-man-beaten-to-death-virginia-walmart"
+    "https://www.theguardian.com/us-news/2026/sep/19/gavin-newsom-elections-trump-administration-interference"
   ],
   [
-    "government",
-    15,
-    "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html"
+    "game",
+    16,
+    "https://www.theguardian.com/media/2026/sep/20/caitlin-moran-social-media-what-to-do-instead"
   ],
   [
-    "control",
-    15,
-    "https://www.nytimes.com/2026/09/19/us/politics/news-outlets-react-trump-media-ban.html"
+    "los",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/sep/20/star-trek-air-force-weapons"
   ],
   [
-    "force",
-    15,
-    "https://www.nytimes.com/2026/09/19/us/politics/trump-ai-force.html"
-  ],
-  [
-    "york",
-    15,
-    "https://www.nytimes.com/2026/04/30/special-series/archives-anniversary-newspaper.html"
-  ],
-  [
-    "macklemore",
+    "war",
     15,
     "https://www.nytimes.com/2026/09/19/arts/music/ed-sheeran-macklemore-gaza-tour.html"
   ],
@@ -161,94 +146,139 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "campaign",
+    "politics",
     15,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/20/ms-rachel-the-queen-of-toddler-tv-interview"
   ],
   [
-    "despite",
-    14,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "because",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/20/ms-rachel-the-queen-of-toddler-tv-interview"
   ],
   [
-    "immigration",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "something",
+    15,
+    "https://www.theguardian.com/world/2026/sep/20/the-rules-have-changed-has-russia-begun-to-order-assassinations-on-us-soil"
   ],
   [
     "summer",
-    14,
+    15,
     "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields"
   ],
   [
-    "politico",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban"
+    "film",
+    15,
+    "https://www.theguardian.com/music/2026/sep/20/10-chaotic-questions-rock-singer-suzi-quatro-age-76"
   ],
   [
-    "journalists",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban"
+    "death",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/19/trump-kennedy-center-future"
   ],
   [
     "book",
-    14,
+    15,
     "https://www.theguardian.com/commentisfree/2026/sep/19/germany-afd-banning-defend-democracy"
   ],
   [
-    "win",
+    "decision",
     14,
-    "https://www.theguardian.com/commentisfree/2026/sep/18/democrats-corruption-authoritarianism"
+    "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html"
   ],
   [
-    "los",
+    "children",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/19/texas-california-surrogate-court"
+    "https://www.nytimes.com/2016/06/12/magazine/choosing-a-school-for-my-daughter-in-a-segregated-city.html"
+  ],
+  [
+    "american",
+    14,
+    "https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html"
+  ],
+  [
+    "control",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest"
+  ],
+  [
+    "party",
+    14,
+    "https://www.theguardian.com/world/2026/sep/20/german-chancellor-friedrich-merz-state-elections-berlin-far-right"
   ],
   [
     "angeles",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/19/texas-california-surrogate-court"
+    "https://www.theguardian.com/commentisfree/2026/sep/20/star-trek-air-force-weapons"
   ],
   [
-    "court",
-    13,
-    "https://www.nytimes.com/2026/09/19/us/politics/assault-weapons-bans-court-cases.html"
+    "buying",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
   ],
   [
     "states",
     13,
-    "https://www.nytimes.com/2026/09/19/us/politics/assault-weapons-bans-court-cases.html"
+    "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html"
   ],
   [
-    "social",
+    "force",
     13,
-    "https://www.nytimes.com/2026/09/19/magazine/aaron-sorkin-interview.html"
+    "https://www.nytimes.com/2026/09/19/us/politics/trump-ai-force.html"
   ],
   [
-    "american",
+    "senate",
     13,
-    "https://www.nytimes.com/2026/09/20/opinion/end-american-exceptionalism.html"
+    "https://www.nytimes.com/2026/09/20/us/politics/troy-jackson-susan-collins-maine-senate.html"
   ],
   [
-    "tour",
+    "race",
+    13,
+    "https://www.nytimes.com/2026/09/20/us/politics/troy-jackson-susan-collins-maine-senate.html"
+  ],
+  [
+    "republican",
+    13,
+    "https://www.nytimes.com/2026/09/20/us/politics/troy-jackson-susan-collins-maine-senate.html"
+  ],
+  [
+    "guide",
+    13,
+    "https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html"
+  ],
+  [
+    "macklemore",
     13,
     "https://www.nytimes.com/2026/09/19/arts/music/ed-sheeran-macklemore-gaza-tour.html"
   ],
   [
-    "administration",
+    "attack",
+    13,
+    "https://www.washingtonpost.com/nation/2026/09/19/diverse-texas-campus-bonds-anger-after-candidates-racist-post/"
+  ],
+  [
+    "court",
     13,
     "https://www.washingtonpost.com/immigration/2026/09/18/appeals-court-says-trump-administrations-third-country-deportation-policy-is-unlawful/"
   ],
   [
-    "start",
+    "video",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/20/ms-rachel-the-queen-of-toddler-tv-interview"
   ],
   [
-    "wife",
+    "newsom",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/20/children-surprised-wills-inheritance-annalisa-barbieri"
+    "https://www.theguardian.com/us-news/2026/sep/19/gavin-newsom-elections-trump-administration-interference"
+  ],
+  [
+    "democratic",
+    13,
+    "https://www.theguardian.com/world/2026/sep/20/german-chancellor-friedrich-merz-state-elections-berlin-far-right"
+  ],
+  [
+    "season",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/20/us-primary-season-takeaways"
   ],
   [
     "experts",
@@ -256,19 +286,9 @@
     "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa"
   ],
   [
-    "cnn",
+    "body",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban"
-  ],
-  [
-    "concert",
-    13,
-    "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-gaza-catastrophic-and-unjustifiable-first-show-tour-loop-philadelphia-us"
-  ],
-  [
-    "death",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/19/elderly-man-beaten-to-death-virginia-walmart"
+    "https://www.theguardian.com/education/2026/sep/20/fresher-university-48-life-rules"
   ],
   [
     "fashion",
@@ -276,69 +296,39 @@
     "https://www.theguardian.com/fashion/2026/sep/19/council-of-fashion-designers-of-america-ceo-steven-kolb-resigns-after-physically-restraining-animal-rights-activists"
   ],
   [
-    "record",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/19/hispanic-voters-support-trump-immigration-economy"
-  ],
-  [
-    "something",
-    13,
-    "https://www.theguardian.com/world/2026/sep/20/the-rules-have-changed-has-russia-begun-to-order-assassinations-on-us-soil"
-  ],
-  [
-    "game",
-    13,
-    "https://www.theguardian.com/sport/2026/sep/19/union-jack-classic-fails-to-spark-on-the-pitch-but-electric-atmosphere-fires-up-wembley"
-  ],
-  [
-    "cut",
-    13,
-    "https://www.theguardian.com/sport/2026/sep/18/rahm-and-fleetwood-lead-pga-championship-casualties-as-adam-scott-rolls-back-years"
-  ],
-  [
-    "buying",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
-  ],
-  [
     "filter",
     13,
     "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
   ],
   [
-    "loss",
+    "pop",
     12,
-    "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html"
+    "https://www.nytimes.com/2026/09/18/arts/music/popcast-interview-audrey-hobert-whos-the-clown.html"
   ],
   [
-    "newsom",
+    "star",
     12,
-    "https://www.nytimes.com/2026/09/19/us/newsom-california-voting-rules-election.html"
+    "https://www.nytimes.com/2026/09/18/arts/music/popcast-interview-audrey-hobert-whos-the-clown.html"
   ],
   [
-    "issues",
-    12,
-    "https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html"
-  ],
-  [
-    "post",
-    12,
-    "https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html"
-  ],
-  [
-    "intelligence",
-    12,
-    "https://www.nytimes.com/2026/09/19/nyregion/artificial-intelligence-drones-police.html"
-  ],
-  [
-    "night",
-    12,
-    "https://www.nytimes.com/2026/09/19/arts/music/ed-sheeran-macklemore-gaza-tour.html"
-  ],
-  [
-    "decision",
+    "thousands",
     12,
     "https://www.washingtonpost.com/immigration/2026/09/18/appeals-court-says-trump-administrations-third-country-deportation-policy-is-unlawful/"
+  ],
+  [
+    "despite",
+    12,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "immigration",
+    12,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "start",
+    12,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "released",
@@ -346,33 +336,43 @@
     "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "film",
+    "least",
     12,
-    "https://www.theguardian.com/music/2026/sep/20/10-chaotic-questions-rock-singer-suzi-quatro-age-76"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "star",
+    "social",
     12,
-    "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa"
+    "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest"
   ],
   [
-    "health",
+    "data",
     12,
-    "https://www.theguardian.com/education/2026/sep/20/fresher-university-48-life-rules"
+    "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest"
   ],
   [
-    "body",
+    "europe",
     12,
-    "https://www.theguardian.com/education/2026/sep/20/fresher-university-48-life-rules"
+    "https://www.theguardian.com/world/2026/sep/20/the-rules-have-changed-has-russia-begun-to-order-assassinations-on-us-soil"
   ],
   [
-    "germany",
+    "iran",
     12,
-    "https://www.theguardian.com/commentisfree/2026/sep/19/germany-afd-banning-defend-democracy"
+    "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields"
   ],
   [
-    "minutes",
+    "wife",
     12,
-    "https://www.theguardian.com/us-news/2026/sep/19/lindsay-clancy-patrick-clancy-60-minutes"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/20/children-surprised-wills-inheritance-annalisa-barbieri"
+  ],
+  [
+    "john",
+    12,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/20/john-fetterman-braddock-pennsylvania"
+  ],
+  [
+    "future",
+    12,
+    "https://www.theguardian.com/world/2026/sep/20/german-chancellor-friedrich-merz-state-elections-berlin-far-right"
   ]
 ];
