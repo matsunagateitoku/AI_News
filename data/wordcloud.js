@@ -2,213 +2,243 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    102,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
+    78,
+    "https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html"
   ],
   [
     "president",
-    67,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
-  ],
-  [
-    "york",
-    30,
-    "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html"
+    52,
+    "https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html"
   ],
   [
     "food",
-    25,
+    32,
     "https://www.washingtonpost.com/nation/2026/09/19/11-days-lost-hiker-shouted-help-then-two-kayakers-appeared/"
   ],
   [
-    "california",
-    24,
-    "https://www.theguardian.com/us-news/2026/sep/20/los-angeles-bear-coexistence"
+    "york",
+    25,
+    "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html"
   ],
   [
-    "donald",
-    24,
-    "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar"
+    "clancy",
+    25,
+    "https://www.nytimes.com/2026/09/20/us/patrick-clancy-60-minutes.html"
+  ],
+  [
+    "game",
+    25,
+    "https://www.theguardian.com/sport/2026/sep/20/a-terrible-terrible-accident-cubs-bregman-undergoing-ct-scans-after-being-hit-in-face-by-foul-ball"
   ],
   [
     "political",
-    22,
+    24,
     "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
   ],
   [
-    "military",
+    "patrick",
+    23,
+    "https://www.nytimes.com/2026/09/20/us/patrick-clancy-60-minutes.html"
+  ],
+  [
+    "minutes",
     22,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
+    "https://www.nytimes.com/2026/09/20/us/patrick-clancy-60-minutes.html"
   ],
   [
-    "media",
-    22,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/20/anger-midterm-elections"
-  ],
-  [
-    "arch",
+    "ice",
     21,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
+    "https://www.nytimes.com/2026/09/20/us/ice-shooting-austin-texas.html"
   ],
   [
-    "nation",
+    "texas",
     21,
-    "https://www.washingtonpost.com/business/2026/09/19/nations-premier-business-group-is-hitting-road-stamp-out-socialism/"
+    "https://www.nytimes.com/2026/09/20/us/ice-shooting-austin-texas.html"
   ],
   [
     "film",
     20,
-    "https://www.theguardian.com/commentisfree/2026/sep/20/lizzie-borden-myra-hindley-fascinated-female-killers"
+    "https://www.theguardian.com/commentisfree/2026/sep/21/music-film-stars-politics-celebrities-activism-ed-sheeran"
   ],
   [
     "family",
     19,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/21/the-kindness-of-strangers-international-flight-passenger-tucked-a-blanket-around-my-son"
+    "https://www.theguardian.com/artanddesign/2026/sep/21/salman-toor-artist-interview-clubbing-queerness-new-york-muslim-moment"
   ],
   [
-    "game",
+    "wife",
     18,
-    "https://www.nytimes.com/2026/09/20/opinion/green-bay-packers-nfl-owners.html"
+    "https://www.nytimes.com/2026/09/20/us/patrick-clancy-60-minutes.html"
   ],
   [
-    "texas",
+    "because",
     18,
-    "https://www.nytimes.com/2026/09/19/us/john-poindexter-west-texas-shafter.html"
+    "https://www.theguardian.com/society/2026/sep/21/agony-of-life-with-chronic-body-odour-tried-every-deodorant"
   ],
   [
-    "summer",
+    "music",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/sep/21/music-film-stars-politics-celebrities-activism-ed-sheeran"
+  ],
+  [
+    "died",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/21/presley-gerber-son-of-cindy-crawford-dead-aged-27"
+  ],
+  [
+    "california",
     18,
     "https://www.theguardian.com/us-news/2026/sep/20/los-angeles-bear-coexistence"
   ],
   [
-    "meet",
-    18,
-    "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar"
-  ],
-  [
-    "feel",
-    18,
-    "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour"
-  ],
-  [
-    "don",
-    18,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/20/john-fetterman-braddock-pennsylvania"
-  ],
-  [
     "security",
     17,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
+    "https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html"
   ],
   [
-    "margaret",
+    "children",
     17,
-    "https://www.theguardian.com/fashion/2026/sep/20/christopher-kane-mulberry-make-joint-comeback-london-fashion-week"
-  ],
-  [
-    "war",
-    16,
-    "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
+    "https://www.nytimes.com/2026/09/20/us/patrick-clancy-60-minutes.html"
   ],
   [
     "country",
-    16,
-    "https://www.washingtonpost.com/immigration/2026/09/18/appeals-court-says-trump-administrations-third-country-deportation-policy-is-unlawful/"
-  ],
-  [
-    "music",
-    16,
-    "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour"
-  ],
-  [
-    "republican",
-    15,
-    "https://www.nytimes.com/2026/09/20/us/politics/troy-jackson-susan-collins-maine-senate.html"
-  ],
-  [
-    "win",
-    15,
-    "https://www.washingtonpost.com/obituaries/2026/09/20/dc-barber-who-considered-his-job-vacation-other-lives-weve-lost/"
-  ],
-  [
-    "gaza",
-    15,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "buying",
-    15,
-    "https://www.theguardian.com/fashion/2026/sep/20/readers-favourite-secondhand-fashion-oxfam-second-hand-september"
-  ],
-  [
-    "iran",
-    15,
-    "https://www.theguardian.com/world/2026/sep/20/middle-east-braces-for-more-violence-as-iran-claims-us-is-planning-to-renew-bombing-campaign"
-  ],
-  [
-    "social",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/20/trump-triumphal-arch-military-complex"
-  ],
-  [
-    "because",
-    15,
-    "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour"
+    17,
+    "https://www.nytimes.com/2026/09/21/world/europe/uk-hospitals-heat-waves-climate.html"
   ],
   [
     "body",
+    17,
+    "https://www.theguardian.com/society/2026/sep/21/agony-of-life-with-chronic-body-odour-tried-every-deodorant"
+  ],
+  [
+    "night",
+    17,
+    "https://www.theguardian.com/sport/2026/sep/20/a-terrible-terrible-accident-cubs-bregman-undergoing-ct-scans-after-being-hit-in-face-by-foul-ball"
+  ],
+  [
+    "summer",
+    17,
+    "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields"
+  ],
+  [
+    "austin",
+    16,
+    "https://www.nytimes.com/2026/09/20/us/ice-shooting-austin-texas.html"
+  ],
+  [
+    "gaza",
+    16,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "record",
+    16,
+    "https://www.theguardian.com/world/2026/sep/21/nz-bird-of-the-year-2026-black-robin-wins-new-zealand"
+  ],
+  [
+    "latest",
     15,
-    "https://www.theguardian.com/sport/2026/sep/20/elviras-fairytale-crumbles-at-the-last-to-hand-spaun-pga-championship-title"
+    "https://www.nytimes.com/2026/09/20/science/nih-omb-grants-bhattacharya-vought.html"
+  ],
+  [
+    "experts",
+    15,
+    "https://www.nytimes.com/2026/09/21/world/europe/uk-hospitals-heat-waves-climate.html"
+  ],
+  [
+    "crisis",
+    15,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "star",
+    15,
+    "https://www.theguardian.com/artanddesign/2026/sep/21/salman-toor-artist-interview-clubbing-queerness-new-york-muslim-moment"
   ],
   [
     "mayor",
     15,
-    "https://www.theguardian.com/film/2026/sep/19/john-wilson-concrete-documentary-movie"
+    "https://www.theguardian.com/artanddesign/2026/sep/21/salman-toor-artist-interview-clubbing-queerness-new-york-muslim-moment"
   ],
   [
-    "brennan",
+    "donald",
     15,
-    "https://www.cbsnews.com/video/sen-bill-cassidy-says-having-measles-is-not-a-kind-of-victimless-experience/"
+    "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board"
   ],
   [
-    "complex",
-    14,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
+    "gerber",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/21/presley-gerber-son-of-cindy-crawford-dead-aged-27"
   ],
   [
-    "government",
-    14,
-    "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
+    "don",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/21/the-kindness-of-strangers-international-flight-passenger-tucked-a-blanket-around-my-son"
   ],
   [
-    "john",
-    14,
-    "https://www.nytimes.com/2026/09/19/us/john-poindexter-west-texas-shafter.html"
+    "dead",
+    15,
+    "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president"
   ],
   [
-    "administration",
+    "military",
     14,
-    "https://www.washingtonpost.com/immigration/2026/09/18/appeals-court-says-trump-administrations-third-country-deportation-policy-is-unlawful/"
+    "https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html"
   ],
   [
-    "history",
+    "war",
     14,
-    "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration"
+    "https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html"
   ],
   [
-    "full",
+    "interview",
     14,
-    "https://www.theguardian.com/commentisfree/2026/sep/20/mum-died-decision-belongings-feels-wrong"
+    "https://www.nytimes.com/2026/09/20/us/patrick-clancy-60-minutes.html"
   ],
   [
-    "mamdani",
+    "republican",
     14,
-    "https://www.theguardian.com/film/2026/sep/19/john-wilson-concrete-documentary-movie"
+    "https://www.nytimes.com/2026/09/20/us/politics/el-sayed-tucker-carlson-rogers-michigan.html"
   ],
   [
-    "book",
+    "ahead",
     14,
-    "https://www.theguardian.com/books/2026/sep/20/i-was-asked-to-write-a-new-miss-marple-so-i-sent-her-to-the-alps"
+    "https://www.nytimes.com/2026/09/20/opinion/grief-mediums-ghosts-contact.html"
+  ],
+  [
+    "win",
+    14,
+    "https://www.washingtonpost.com/obituaries/2026/09/20/dc-barber-who-considered-his-job-vacation-other-lives-weve-lost/"
+  ],
+  [
+    "meet",
+    14,
+    "https://www.theguardian.com/artanddesign/2026/sep/21/salman-toor-artist-interview-clubbing-queerness-new-york-muslim-moment"
+  ],
+  [
+    "guide",
+    14,
+    "https://www.theguardian.com/world/2026/sep/21/indonesia-borneo-sumatra-fires-smoke-toxic-air"
+  ],
+  [
+    "media",
+    14,
+    "https://www.theguardian.com/world/2026/sep/21/how-metoo-movement-changed-in-china-womens-rights-sophia-huang-xueqin"
+  ],
+  [
+    "feel",
+    14,
+    "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour"
+  ],
+  [
+    "buying",
+    14,
+    "https://www.theguardian.com/fashion/2026/sep/20/readers-favourite-secondhand-fashion-oxfam-second-hand-september"
+  ],
+  [
+    "data",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/sep/20/the-guardian-view-on-ai-v-mathematicians-humans-are-still-vital-to-the-field-but-tech-firms-refuse-to-see-that"
   ],
   [
     "place",
@@ -216,64 +246,24 @@
     "https://www.nytimes.com/2026/09/20/science/nih-omb-grants-bhattacharya-vought.html"
   ],
   [
-    "china",
+    "united",
     13,
-    "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html"
+    "https://www.nytimes.com/2026/09/20/opinion/end-american-exceptionalism.html"
   ],
   [
-    "post",
+    "arch",
     13,
     "https://www.washingtonpost.com/politics/2026/09/20/trump-says-planned-arch-will-be-military-complex-drones-snipers/"
   ],
   [
-    "israel",
+    "north",
     13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "crisis",
+    "son",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "election",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration"
-  ],
-  [
-    "clear",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration"
-  ],
-  [
-    "storage",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/20/trump-triumphal-arch-military-complex"
-  ],
-  [
-    "plus",
-    13,
-    "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour"
-  ],
-  [
-    "video",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/20/ms-rachel-the-queen-of-toddler-tv-interview"
-  ],
-  [
-    "having",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/21/the-kindness-of-strangers-international-flight-passenger-tucked-a-blanket-around-my-son"
-  ],
-  [
-    "los",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/19/texas-california-surrogate-court"
-  ],
-  [
-    "angeles",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/19/texas-california-surrogate-court"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/21/presley-gerber-son-of-cindy-crawford-dead-aged-27"
   ],
   [
     "filter",
@@ -281,29 +271,34 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
   ],
   [
-    "decision",
+    "government",
     12,
-    "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html"
+    "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
   ],
   [
-    "senate",
+    "secretary",
     12,
-    "https://www.nytimes.com/2026/09/20/us/politics/troy-jackson-susan-collins-maine-senate.html"
+    "https://www.nytimes.com/2026/09/20/business/us-china-ai-warning-system-national-security.html"
   ],
   [
-    "elections",
+    "intelligence",
     12,
-    "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html"
+    "https://www.nytimes.com/2026/09/20/business/us-china-ai-warning-system-national-security.html"
   ],
   [
-    "party",
+    "heat",
     12,
-    "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html"
+    "https://www.nytimes.com/2026/09/21/world/europe/uk-hospitals-heat-waves-climate.html"
   ],
   [
     "american",
     12,
-    "https://www.nytimes.com/2026/09/20/us/yom-kippur-2026-united-states.html"
+    "https://www.nytimes.com/2026/09/20/opinion/end-american-exceptionalism.html"
+  ],
+  [
+    "shot",
+    12,
+    "https://www.washingtonpost.com/nation/2026/09/20/ice-agent-shoots-wounds-man-austin-city-officials-say/"
   ],
   [
     "cost",
@@ -311,9 +306,34 @@
     "https://www.washingtonpost.com/business/2026/09/20/concerts-sports-games-restaurants-its-expensive-go-out-nowadays/"
   ],
   [
-    "claims",
+    "campaign",
     12,
-    "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "team",
+    12,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "politics",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/21/music-film-stars-politics-celebrities-activism-ed-sheeran"
+  ],
+  [
+    "sheeran",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/21/music-film-stars-politics-celebrities-activism-ed-sheeran"
+  ],
+  [
+    "video",
+    12,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals"
+  ],
+  [
+    "social",
+    12,
+    "https://www.theguardian.com/us-news/2026/sep/21/us-allies-donald-trump-world-un-global-order"
   ],
   [
     "fashion",
@@ -321,34 +341,19 @@
     "https://www.theguardian.com/fashion/2026/sep/20/readers-favourite-secondhand-fashion-oxfam-second-hand-september"
   ],
   [
-    "elvira",
+    "full",
     12,
-    "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration"
+    "https://www.theguardian.com/commentisfree/2026/sep/20/mum-died-decision-belongings-feels-wrong"
   ],
   [
-    "interview",
+    "season",
     12,
-    "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration"
+    "https://www.theguardian.com/football/2026/sep/20/manchester-uniteds-engine-room-runs-out-of-puff-as-fans-begin-to-voice-frustration"
   ],
   [
-    "experts",
+    "prices",
     12,
-    "https://www.theguardian.com/us-news/2026/sep/20/rabies-beaver-goat-prevalence-concerns"
-  ],
-  [
-    "love",
-    12,
-    "https://www.theguardian.com/media/2026/sep/20/caitlin-moran-social-media-what-to-do-instead"
-  ],
-  [
-    "wife",
-    12,
-    "https://www.theguardian.com/world/2026/sep/20/british-man-torn-from-swedish-wife-and-home"
-  ],
-  [
-    "guide",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
+    "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics"
   ],
   [
     "fewer",
@@ -356,23 +361,18 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
   ],
   [
-    "republicans",
+    "sleep",
     12,
-    "https://www.latimes.com/politics/story/2026-09-20/california-republicans-walk-tightrope-as-trump-jumps-into-campaigning"
+    "https://www.theguardian.com/thefilter-us/2026/sep/16/weighted-blanket-sleep-benefits"
   ],
   [
-    "gop",
-    12,
-    "https://www.cbsnews.com/news/bill-cassidy-trump-vaccines-measles/"
-  ],
-  [
-    "latest",
+    "iran",
     11,
-    "https://www.nytimes.com/2026/09/20/science/nih-omb-grants-bhattacharya-vought.html"
+    "https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html"
   ],
   [
-    "drones",
+    "art",
     11,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
+    "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
   ]
 ];
