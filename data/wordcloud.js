@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    100,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html"
+    80,
+    "https://www.nytimes.com/2026/09/21/business/white-house-press-pool-trump.html"
   ],
   [
     "president",
-    53,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html"
-  ],
-  [
-    "texas",
-    28,
-    "https://www.nytimes.com/2026/09/20/us/ice-shooting-austin-texas.html"
+    48,
+    "https://www.washingtonpost.com/business/2026/09/20/chinas-leader-pursues-global-power-many-its-citizens-feel-left-behind/"
   ],
   [
     "war",
-    23,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html"
-  ],
-  [
-    "administration",
-    22,
-    "https://www.nytimes.com/live/2026/09/21/business/trump-white-house-cnn-politico-msnow/trump-white-house-ban-lawsuit-cnn-politico-msnow"
-  ],
-  [
-    "california",
-    22,
-    "https://www.nytimes.com/2026/09/21/us/politics/ro-khanna-is-the-lefts-busiest-midterm-surrogate-can-he-raise-his-own-profile-too.html"
-  ],
-  [
-    "political",
-    21,
-    "https://www.washingtonpost.com/nation/2026/09/20/she-cheered-teen-protest-against-ice-police-charged-her-with-crime/"
-  ],
-  [
-    "politico",
-    20,
-    "https://www.nytimes.com/live/2026/09/21/business/trump-white-house-cnn-politico-msnow/trump-white-house-ban-lawsuit-cnn-politico-msnow"
-  ],
-  [
-    "austin",
-    20,
-    "https://www.nytimes.com/2026/09/20/us/ice-shooting-austin-texas.html"
-  ],
-  [
-    "donald",
-    20,
-    "https://www.theguardian.com/books/2026/sep/21/trump-1980s-book-jonathan-kaufman"
-  ],
-  [
-    "game",
-    20,
-    "https://www.theguardian.com/sport/2026/sep/21/titans-eagles-game-heat-cleats-melt-nfl-temperature"
-  ],
-  [
-    "family",
-    20,
-    "https://www.theguardian.com/us-news/2026/sep/21/families-victims-amazon-air-crash-miami"
-  ],
-  [
-    "cnn",
-    19,
-    "https://www.nytimes.com/live/2026/09/21/business/trump-white-house-cnn-politico-msnow/trump-white-house-ban-lawsuit-cnn-politico-msnow"
+    32,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
     "york",
-    19,
-    "https://www.nytimes.com/2026/09/21/business/media/cnn-trump-press-pool-ban.html"
+    29,
+    "https://www.nytimes.com/2026/09/21/nyregion/lawler-endorsement-golden-democrat.html"
   ],
   [
-    "police",
-    19,
-    "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html"
+    "latest",
+    24,
+    "https://www.nytimes.com/2026/09/21/science/ai-anthropomorphism-consciousness.html"
   ],
   [
-    "music",
+    "california",
+    24,
+    "https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger"
+  ],
+  [
+    "don",
+    23,
+    "https://www.theguardian.com/food/2026/sep/21/gen-z-private-equity-restaurants"
+  ],
+  [
+    "party",
+    22,
+    "https://www.nytimes.com/2026/09/21/us/politics/republicans-midterm-fundraising-maga-inc-trump.html"
+  ],
+  [
+    "court",
+    22,
+    "https://www.theguardian.com/us-news/live/2026/sep/21/donald-trump-arch-media-white-house-press-ban-mamdani-ai-unga-latest-news-updates"
+  ],
+  [
+    "texas",
+    21,
+    "https://www.latimes.com/politics/story/2026-09-20/texas-bo-french-bigotry-greg-abbott-ken-paxton-midterm-election"
+  ],
+  [
+    "political",
+    20,
+    "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html"
+  ],
+  [
+    "ice",
+    20,
+    "https://www.washingtonpost.com/nation/2026/09/20/ice-agent-shoots-wounds-man-austin-city-officials-say/"
+  ],
+  [
+    "fire",
+    20,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "food",
+    20,
+    "https://www.theguardian.com/food/2026/sep/21/gen-z-private-equity-restaurants"
+  ],
+  [
+    "states",
+    19,
+    "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html"
+  ],
+  [
+    "general",
     19,
     "https://www.theguardian.com/culture/2026/sep/21/superfans-driving-concert-industry"
   ],
   [
-    "ice",
+    "health",
+    19,
+    "https://www.theguardian.com/environment/2026/sep/21/planetary-boundaries-breached-scientists-warn-climate-crisis"
+  ],
+  [
+    "paramount",
     18,
-    "https://www.nytimes.com/2026/09/20/us/ice-shooting-austin-texas.html"
+    "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html"
   ],
   [
-    "election",
+    "warner",
+    18,
+    "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html"
+  ],
+  [
+    "police",
+    18,
+    "https://www.washingtonpost.com/nation/2026/09/20/she-cheered-teen-protest-against-ice-police-charged-her-with-crime/"
+  ],
+  [
+    "family",
+    18,
+    "https://www.theguardian.com/us-news/2026/sep/21/ice-hides-detainee-locations"
+  ],
+  [
+    "killed",
     17,
-    "https://www.nytimes.com/2026/09/20/world/europe/germany-afd-elections-berlin-mecklenburg.html"
+    "https://www.theguardian.com/global-development/ng-interactive/2026/sep/21/alaa-gaza-day-in-life-pregnant-woman-alaa"
   ],
   [
-    "latest",
-    17,
-    "https://www.nytimes.com/2026/09/20/us/ice-shooting-austin-texas.html"
-  ],
-  [
-    "gerber",
-    17,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/21/presley-gerber-son-of-cindy-crawford-dead-aged-27"
-  ],
-  [
-    "children",
-    17,
-    "https://www.theguardian.com/us-news/2026/sep/21/maryland-hunter-fatally-shot-woman-mistook-deer"
-  ],
-  [
-    "social",
-    17,
-    "https://www.theguardian.com/us-news/2026/sep/21/converse-ad-apology-racist-imagery"
-  ],
-  [
-    "gop",
-    17,
-    "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026"
-  ],
-  [
-    "iran",
+    "several",
     16,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html"
+    "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html"
+  ],
+  [
+    "ahead",
+    16,
+    "https://www.nytimes.com/2026/09/21/us/politics/united-nations-artificial-intelligence-china-us.html"
+  ],
+  [
+    "cnn",
+    16,
+    "https://www.nytimes.com/2026/09/21/business/media/cnn-cbs-paramount-david-ellison.html"
+  ],
+  [
+    "press",
+    16,
+    "https://www.nytimes.com/2026/09/21/business/white-house-press-pool-trump.html"
+  ],
+  [
+    "near",
+    16,
+    "https://www.washingtonpost.com/politics/2026/09/20/trump-says-planned-arch-will-be-military-complex-drones-snipers/"
+  ],
+  [
+    "global",
+    16,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "country",
+    16,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "united",
     16,
-    "https://www.nytimes.com/2026/09/21/business/media/cnn-trump-press-pool-ban.html"
+    "https://www.theguardian.com/us-news/2026/sep/21/trump-zelenskyy-russia-united-nations"
   ],
   [
-    "china",
-    16,
-    "https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html"
-  ],
-  [
-    "voters",
-    16,
-    "https://www.nytimes.com/2026/09/21/world/europe/germany-afd-far-right.html"
-  ],
-  [
-    "record",
-    16,
-    "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html"
-  ],
-  [
-    "feel",
-    16,
-    "https://www.washingtonpost.com/business/2026/09/20/chinas-leader-pursues-global-power-many-its-citizens-feel-left-behind/"
-  ],
-  [
-    "american",
-    16,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals"
-  ],
-  [
-    "food",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
+    "bros",
+    15,
+    "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html"
   ],
   [
     "media",
     15,
-    "https://www.nytimes.com/2026/09/21/business/media/cnn-trump-press-pool-ban.html"
+    "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html"
   ],
   [
-    "politics",
+    "cbs",
     15,
-    "https://www.nytimes.com/2026/09/21/magazine/talarico-christian-pastors-democrats.html"
-  ],
-  [
-    "government",
-    15,
-    "https://www.nytimes.com/2026/09/21/opinion/bernie-sanders-case-ai-policy.html"
-  ],
-  [
-    "global",
-    15,
-    "https://www.washingtonpost.com/business/2026/09/20/chinas-leader-pursues-global-power-many-its-citizens-feel-left-behind/"
-  ],
-  [
-    "don",
-    15,
-    "https://www.theguardian.com/books/2026/sep/21/trump-1980s-book-jonathan-kaufman"
-  ],
-  [
-    "series",
-    15,
-    "https://www.theguardian.com/sport/2026/sep/21/justin-herbert-chargers-quarterback-nfl"
-  ],
-  [
-    "court",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit"
-  ],
-  [
-    "love",
-    15,
-    "https://www.theguardian.com/us-news/2026/sep/21/epstein-survivors-financial-struggles-legislation"
-  ],
-  [
-    "clear",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/sep/21/wealth-gap-oligarchy-gilded-age"
-  ],
-  [
-    "military",
-    14,
-    "https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html"
-  ],
-  [
-    "security",
-    14,
-    "https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html"
+    "https://www.nytimes.com/2026/09/21/us/politics/jb-pritzker-glp-1-ozempic-2028-presidential-race.html"
   ],
   [
     "shot",
-    14,
+    15,
     "https://www.washingtonpost.com/nation/2026/09/20/ice-agent-shoots-wounds-man-austin-city-officials-say/"
   ],
   [
-    "country",
+    "gaza",
+    15,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "shooting",
+    15,
+    "https://www.theguardian.com/sport/2026/sep/21/10-lessons-jakob-ingebrigtsen-athletics"
+  ],
+  [
+    "candidates",
+    15,
+    "https://www.theguardian.com/world/2026/sep/21/race-next-un-secretary-general-us-china-trade-offs"
+  ],
+  [
+    "voters",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/21/democrats-joe-biden-kamala-harris-book-gaza"
+  ],
+  [
+    "body",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/sep/21/canada-donald-trump-mark-carney-global-eu"
+  ],
+  [
+    "gop",
+    15,
+    "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026"
+  ],
+  [
+    "merger",
     14,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html"
   ],
   [
-    "fire",
+    "buying",
     14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "season",
-    14,
-    "https://www.theguardian.com/sport/2026/sep/21/justin-herbert-chargers-quarterback-nfl"
-  ],
-  [
-    "patrick",
-    14,
-    "https://www.theguardian.com/film/2026/sep/21/dirty-dancing-feelgood-movie"
-  ],
-  [
-    "clancy",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/21/lindsay-clancy-mistrial-husband-patrick-clancy-first-interview-60-minutes-ntwnfb"
-  ],
-  [
-    "general",
-    13,
-    "https://www.nytimes.com/2026/09/21/business/media/cnn-trump-press-pool-ban.html"
-  ],
-  [
-    "party",
-    13,
-    "https://www.nytimes.com/2026/09/21/world/asia/china-generals-expelled-corruption.html"
-  ],
-  [
-    "agent",
-    13,
-    "https://www.nytimes.com/2026/09/20/us/ice-shooting-austin-texas.html"
-  ],
-  [
-    "power",
-    13,
-    "https://www.washingtonpost.com/business/2026/09/20/chinas-leader-pursues-global-power-many-its-citizens-feel-left-behind/"
-  ],
-  [
-    "arch",
-    13,
-    "https://www.washingtonpost.com/politics/2026/09/20/trump-says-planned-arch-will-be-military-complex-drones-snipers/"
-  ],
-  [
-    "post",
-    13,
-    "https://www.washingtonpost.com/politics/2026/09/20/trump-says-planned-arch-will-be-military-complex-drones-snipers/"
-  ],
-  [
-    "night",
-    13,
-    "https://www.theguardian.com/fashion/2026/sep/21/harry-styles-walked-eight-miles-loafers-ruining-feet"
-  ],
-  [
-    "health",
-    13,
-    "https://www.theguardian.com/business/2026/sep/21/starbucks-baristas-health-insurance-surge"
-  ],
-  [
-    "died",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/21/presley-gerber-son-of-cindy-crawford-dead-aged-27"
-  ],
-  [
-    "because",
-    13,
-    "https://www.theguardian.com/sport/2026/sep/21/titans-eagles-game-heat-cleats-melt-nfl-temperature"
+    "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html"
   ],
   [
     "leaders",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/21/us-allies-donald-trump-world-un-global-order"
+    14,
+    "https://www.nytimes.com/2026/09/21/business/economy/trump-xi-china-trade.html"
+  ],
+  [
+    "republicans",
+    14,
+    "https://www.nytimes.com/2026/09/21/us/politics/republicans-midterm-fundraising-maga-inc-trump.html"
+  ],
+  [
+    "final",
+    14,
+    "https://www.nytimes.com/2026/09/21/us/politics/republicans-midterm-fundraising-maga-inc-trump.html"
+  ],
+  [
+    "iran",
+    14,
+    "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html"
+  ],
+  [
+    "early",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "social",
+    14,
+    "https://www.theguardian.com/food/2026/sep/21/gen-z-private-equity-restaurants"
+  ],
+  [
+    "because",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/sep/21/white-house-press-corps-boycott"
+  ],
+  [
+    "music",
+    14,
+    "https://www.theguardian.com/culture/2026/sep/21/superfans-driving-concert-industry"
+  ],
+  [
+    "children",
+    14,
+    "https://www.theguardian.com/global-development/ng-interactive/2026/sep/21/alaa-gaza-day-in-life-pregnant-woman-alaa"
+  ],
+  [
+    "fewer",
+    14,
+    "https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger"
+  ],
+  [
+    "night",
+    14,
+    "https://www.theguardian.com/fashion/2026/sep/21/harry-styles-walked-eight-miles-loafers-ruining-feet"
+  ],
+  [
+    "filter",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/mar/12/best-no-plastic-cutting-boards"
   ],
   [
     "republican",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/21/us-allies-donald-trump-world-un-global-order"
+    "https://www.nytimes.com/2026/09/21/nyregion/lawler-endorsement-golden-democrat.html"
   ],
   [
-    "london",
+    "love",
     13,
-    "https://www.theguardian.com/books/2026/sep/21/the-american-way-of-killing-by-malcolm-gladwell-review-wide-of-the-mark"
+    "https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html"
   ],
   [
-    "body",
+    "israel",
     13,
-    "https://www.theguardian.com/environment/2026/sep/21/saudi-arabia-aramco-oil-scientists-ipcc-climate-reports"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "trump's",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "team",
+    13,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "record",
+    13,
+    "https://www.theguardian.com/food/2026/sep/21/gen-z-private-equity-restaurants"
+  ],
+  [
+    "review",
+    13,
+    "https://www.theguardian.com/film/2026/sep/21/sense-and-sensibility-review-romcom-austen-daisy-edgar-jones"
   ],
   [
     "guide",
     13,
-    "https://www.theguardian.com/world/2026/sep/21/indonesia-borneo-sumatra-fires-smoke-toxic-air"
+    "https://www.theguardian.com/wellness/2026/sep/21/safer-sex-after-age-50"
   ],
   [
-    "buying",
+    "american",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
+    "https://www.theguardian.com/wellness/2026/sep/21/safer-sex-after-age-50"
   ],
   [
-    "filter",
+    "thousands",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
+    "https://www.theguardian.com/culture/2026/sep/21/superfans-driving-concert-industry"
   ],
   [
-    "ban",
+    "feel",
     13,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-09-21/cnn-ms-now-politico-file-court-challenge-to-trumps-press-ban"
+    "https://www.theguardian.com/culture/2026/sep/21/superfans-driving-concert-industry"
   ],
   [
-    "sue",
-    12,
-    "https://www.nytimes.com/live/2026/09/21/business/trump-white-house-cnn-politico-msnow/trump-white-house-ban-lawsuit-cnn-politico-msnow"
+    "ukraine",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/21/trump-zelenskyy-russia-united-nations"
   ],
   [
-    "ahead",
-    12,
-    "https://www.nytimes.com/2026/09/21/business/china-agriculture-trade-soybeans.html"
+    "democratic",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/21/democrats-joe-biden-kamala-harris-book-gaza"
   ],
   [
-    "shooting",
-    12,
-    "https://www.nytimes.com/2026/09/20/us/ice-shooting-austin-texas.html"
+    "game",
+    13,
+    "https://www.theguardian.com/sport/2026/sep/21/titans-eagles-game-heat-cleats-melt-nfl-temperature"
   ],
   [
-    "immigration",
-    12,
-    "https://www.nytimes.com/2026/09/20/us/ice-shooting-austin-texas.html"
+    "died",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/21/chad-gilbert-new-found-glory-dead"
   ],
   [
-    "america",
-    12,
-    "https://www.theguardian.com/books/2026/sep/21/trump-1980s-book-jonathan-kaufman"
-  ],
-  [
-    "nfl",
-    12,
-    "https://www.theguardian.com/sport/2026/sep/21/justin-herbert-chargers-quarterback-nfl"
-  ],
-  [
-    "shoes",
-    12,
-    "https://www.theguardian.com/fashion/2026/sep/21/harry-styles-walked-eight-miles-loafers-ruining-feet"
+    "gerber",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/21/presley-gerber-son-of-cindy-crawford-dead-aged-27"
   ],
   [
     "mayor",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/20/man-shot-ice-agent-austin-texas"
+    13,
+    "https://www.theguardian.com/film/2026/sep/21/legend-of-the-white-dragon-review"
   ],
   [
-    "republicans",
+    "data",
     12,
-    "https://www.theguardian.com/books/2026/sep/21/the-american-way-of-killing-by-malcolm-gladwell-review-wide-of-the-mark"
+    "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html"
+  ],
+  [
+    "coverage",
+    12,
+    "https://www.nytimes.com/2026/09/21/business/white-house-press-pool-trump.html"
+  ],
+  [
+    "administration",
+    12,
+    "https://www.nytimes.com/2026/09/21/us/east-coast-flights-ground-stop-communication-failure.html"
+  ],
+  [
+    "democrats",
+    12,
+    "https://www.nytimes.com/2026/09/21/us/politics/republicans-midterm-fundraising-maga-inc-trump.html"
   ]
 ];
