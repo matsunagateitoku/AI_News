@@ -2,118 +2,93 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    108,
-    "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html"
+    113,
+    "https://www.nytimes.com/2026/09/22/world/americas/unga-trump-allies-latin-america-cartels-terrorist-label.html"
   ],
   [
     "president",
-    54,
-    "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html"
-  ],
-  [
-    "california",
-    36,
-    "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting"
+    53,
+    "https://www.nytimes.com/2026/09/22/business/media/trump-tv-un-speech.html"
   ],
   [
     "war",
-    34,
-    "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html"
+    31,
+    "https://www.nytimes.com/2026/09/22/us/politics/republican-candidates-senate-iran-war.html"
   ],
   [
-    "york",
+    "death",
     29,
-    "https://www.nytimes.com/2026/09/22/us/politics/aoc-2028-presidential-race.html"
+    "https://www.nytimes.com/2026/09/22/arts/television/hayden-panettiere-cause-death-fentanyl-drugs.html"
   ],
   [
     "iran",
-    26,
-    "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates"
+    28,
+    "https://www.nytimes.com/2026/09/22/us/politics/republican-candidates-senate-iran-war.html"
   ],
   [
-    "ice",
-    23,
-    "https://www.nytimes.com/2026/09/22/us/ice-shooting-austin-texas-videos.html"
+    "york",
+    26,
+    "https://www.nytimes.com/2026/09/22/us/politics/aoc-2028-presidential-race.html"
   ],
   [
     "donald",
-    22,
+    26,
     "https://www.nytimes.com/2026/09/22/us/politics/americans-distrust-election.html"
   ],
   [
-    "texas",
-    22,
-    "https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html"
-  ],
-  [
     "food",
-    22,
+    26,
     "https://www.washingtonpost.com/nation/2026/09/22/bear-encounters-are-rising-across-united-states-heres-why/"
   ],
   [
-    "music",
-    22,
-    "https://www.theguardian.com/music/2026/sep/22/the-truth-about-sean-combs-no-is-not-a-stopping-point-for-him"
+    "media",
+    23,
+    "https://www.nytimes.com/2026/09/22/business/trump-natalie-harp-photo-ai.html"
   ],
   [
-    "gaza",
-    21,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "senate",
+    22,
+    "https://www.nytimes.com/2026/09/22/us/politics/republican-candidates-senate-iran-war.html"
   ],
   [
     "general",
     21,
-    "https://www.theguardian.com/world/2026/sep/22/trump-united-nations-address"
+    "https://www.nytimes.com/2026/09/22/world/americas/unga-trump-allies-latin-america-cartels-terrorist-label.html"
+  ],
+  [
+    "rise",
+    20,
+    "https://www.washingtonpost.com/business/2026/09/20/chinas-leader-pursues-global-power-many-its-citizens-feel-left-behind/"
   ],
   [
     "book",
     20,
-    "https://www.nytimes.com/2026/09/22/world/europe/diana-earl-spencer-book.html"
+    "https://www.theguardian.com/wellness/2026/sep/22/lindsay-crouse-quitting-book"
   ],
   [
-    "leaders",
+    "music",
     20,
-    "https://www.nytimes.com/2026/09/22/world/europe/germany-afd-secrets-restriction.html"
+    "https://www.theguardian.com/news/ng-interactive/2026/sep/22/a-tale-of-two-trap-houses-being-cuckooed-ruined-my-friends-life-but-did-it-then-help-save-him"
   ],
   [
-    "death",
-    20,
-    "https://www.theguardian.com/books/2026/sep/22/swan-song-charles-spencer-review-diana-princess-of-wales-brother-earl"
-  ],
-  [
-    "don",
-    20,
-    "https://www.theguardian.com/music/2026/sep/22/steve-reich-turns-90-interview"
-  ],
-  [
-    "control",
+    "ice",
     19,
-    "https://www.nytimes.com/2026/09/21/business/china-rare-earth-summit.html"
+    "https://www.nytimes.com/2026/09/22/us/ice-shooting-austin-texas-videos.html"
   ],
   [
-    "media",
-    19,
-    "https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html"
-  ],
-  [
-    "senate",
+    "died",
     18,
-    "https://www.nytimes.com/2026/09/22/us/politics/kamala-harris-el-sayed-michigan-midterms.html"
+    "https://www.nytimes.com/2026/09/22/arts/television/hayden-panettiere-cause-death-fentanyl-drugs.html"
   ],
   [
-    "states",
+    "final",
     18,
-    "https://www.nytimes.com/2026/09/22/business/dealbook/paramount-warner-deal-settlement.html"
+    "https://www.washingtonpost.com/immigration/2026/09/21/immigrants-with-final-deportation-orders-disappear-ice-detainee-locator/"
   ],
   [
-    "something",
+    "military",
     18,
-    "https://www.theguardian.com/football/2026/sep/22/cristiano-ronaldo-humanity-diogo-jota-chants-neves-saudi-pro-league"
-  ],
-  [
-    "country",
-    17,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.washingtonpost.com/politics/2026/09/20/trump-says-planned-arch-will-be-military-complex-drones-snipers/"
   ],
   [
     "latest",
@@ -121,99 +96,64 @@
     "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "record",
-    17,
-    "https://www.theguardian.com/us-news/2026/sep/21/california-el-nino-storm-state-of-emergency"
-  ],
-  [
-    "london",
-    17,
-    "https://www.theguardian.com/news/ng-interactive/2026/sep/22/a-tale-of-two-trap-houses-being-cuckooed-ruined-my-friends-life-but-did-it-then-help-save-him"
-  ],
-  [
-    "gop",
-    17,
-    "https://www.foxnews.com/politics/trump-warns-hell-last-republican-president-senate-gop-doesnt-make-major-change"
-  ],
-  [
-    "family",
+    "leaders",
     16,
-    "https://www.nytimes.com/2026/09/22/world/europe/diana-earl-spencer-book.html"
+    "https://www.nytimes.com/2026/09/22/business/economy/us-china-ai-competition.html"
   ],
   [
-    "democratic",
+    "social",
     16,
-    "https://www.theguardian.com/us-news/2026/sep/22/michigan-jewish-community-abdul-el-sayed-midterms"
-  ],
-  [
-    "film",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/22/bucks-county-usa-documentary-culture-wars"
-  ],
-  [
-    "americans",
-    15,
-    "https://www.nytimes.com/2026/09/22/us/politics/americans-distrust-election.html"
-  ],
-  [
-    "voters",
-    15,
-    "https://www.nytimes.com/2026/09/22/us/politics/americans-distrust-election.html"
-  ],
-  [
-    "political",
-    15,
-    "https://www.nytimes.com/2026/09/22/opinion/national-book-awards-dei.html"
+    "https://www.nytimes.com/2026/09/22/business/trump-natalie-harp-photo-ai.html"
   ],
   [
     "united",
     15,
-    "https://www.washingtonpost.com/nation/2026/09/22/bear-encounters-are-rising-across-united-states-heres-why/"
+    "https://www.nytimes.com/2026/09/22/business/media/trump-tv-un-speech.html"
   ],
   [
-    "rise",
+    "hayden",
     15,
-    "https://www.washingtonpost.com/business/2026/09/20/chinas-leader-pursues-global-power-many-its-citizens-feel-left-behind/"
+    "https://www.nytimes.com/2026/09/22/arts/television/hayden-panettiere-cause-death-fentanyl-drugs.html"
   ],
   [
-    "children",
+    "texas",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/22/cdc-pennsylvania-measles-death-outbreak"
+    "https://www.washingtonpost.com/immigration/2026/09/22/man-shot-detained-by-ice-is-hospitalized-partial-paralysis-lawyer-says/"
   ],
   [
-    "experts",
+    "country",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/21/california-el-nino-storm-state-of-emergency"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "giants",
+    "gerber",
     15,
-    "https://www.theguardian.com/sport/2026/sep/21/nfl-giants-rams-jaxson-dart-knee-injury-aaron-donald-return"
+    "https://www.theguardian.com/us-news/2026/sep/22/presley-gerber-cause-death-investigated-overdose"
   ],
   [
-    "buying",
+    "art",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
+    "https://www.theguardian.com/artanddesign/2026/sep/22/ce-roser-painter-101-uk-women-in-the-arts-foundation"
   ],
   [
-    "meeting",
-    14,
-    "https://www.nytimes.com/2026/09/21/business/china-rare-earth-summit.html"
-  ],
-  [
-    "election",
+    "americans",
     14,
     "https://www.nytimes.com/2026/09/22/us/politics/americans-distrust-election.html"
   ],
   [
-    "republican",
+    "panettiere",
     14,
-    "https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html"
+    "https://www.nytimes.com/2026/09/22/arts/television/hayden-panettiere-cause-death-fentanyl-drugs.html"
   ],
   [
-    "local",
+    "administration",
     14,
-    "https://www.nytimes.com/2026/09/21/us/ice-shooting-austin-texas.html"
+    "https://www.nytimes.com/2026/09/22/opinion/trump-deportation-third-countries.html"
+  ],
+  [
+    "lives",
+    14,
+    "https://www.washingtonpost.com/nation/2026/09/22/lightning-claims-lives-florida-experts-warn-supercharged-activity/"
   ],
   [
     "crisis",
@@ -221,39 +161,29 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "fire",
-    14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "social",
-    14,
-    "https://www.theguardian.com/technology/ng-interactive/2026/sep/22/animal-language-recordings-ai"
-  ],
-  [
-    "again",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/22/youth-review-sharon-horgan-is-back-and-shes-better-than-ever"
-  ],
-  [
-    "assembly",
-    14,
-    "https://www.theguardian.com/world/2026/sep/22/trump-united-nations-address"
-  ],
-  [
-    "court",
-    14,
-    "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting"
-  ],
-  [
-    "lives",
+    "family",
     14,
     "https://www.theguardian.com/global-development/ng-interactive/2026/sep/22/im-afraid-theyll-bomb-the-cafe-where-i-work-or-bomb-me-a-day-in-the-life-of-a-12-year-old-boy-in-gaza"
   ],
   [
-    "republicans",
+    "again",
     14,
-    "https://www.theguardian.com/books/2026/sep/21/the-american-way-of-killing-by-malcolm-gladwell-review-wide-of-the-mark"
+    "https://www.theguardian.com/us-news/2026/sep/22/protesters-standing-rock-dakota-access-decade"
+  ],
+  [
+    "london",
+    14,
+    "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese"
+  ],
+  [
+    "buying",
+    14,
+    "https://www.theguardian.com/environment/2026/sep/22/high-mileage-used-electric-cars-reliable-petrol-ev-mot"
+  ],
+  [
+    "court",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/21/missouri-congressional-map-trump-appeals-court"
   ],
   [
     "filter",
@@ -261,118 +191,188 @@
     "https://www.theguardian.com/thefilter-us/2026/mar/12/best-no-plastic-cutting-boards"
   ],
   [
-    "living",
+    "american",
     13,
-    "https://www.nytimes.com/2026/09/22/science/cte-diagnosis-brain-injury.html"
+    "https://www.nytimes.com/2026/09/22/world/americas/unga-trump-allies-latin-america-cartels-terrorist-label.html"
   ],
   [
-    "hollywood",
+    "assembly",
     13,
-    "https://www.nytimes.com/2026/09/22/business/media/david-ellison-hollywood-mega-mogul.html"
+    "https://www.nytimes.com/2026/09/22/world/americas/unga-trump-allies-latin-america-cartels-terrorist-label.html"
   ],
   [
-    "spencer",
+    "washington",
     13,
-    "https://www.nytimes.com/2026/09/22/world/europe/diana-earl-spencer-book.html"
+    "https://www.nytimes.com/2026/09/22/world/americas/unga-trump-allies-latin-america-cartels-terrorist-label.html"
   ],
   [
-    "diana",
+    "cost",
     13,
-    "https://www.nytimes.com/2026/09/22/world/europe/diana-earl-spencer-book.html"
+    "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html"
   ],
   [
-    "review",
+    "republicans",
     13,
-    "https://www.nytimes.com/2026/09/22/books/review/charles-spencer-swan-song.html"
-  ],
-  [
-    "shot",
-    13,
-    "https://www.nytimes.com/2026/09/21/us/ice-shooting-austin-texas.html"
-  ],
-  [
-    "late",
-    13,
-    "https://www.nytimes.com/2026/09/22/arts/television/late-night-trump-white-house-press-ban.html"
-  ],
-  [
-    "night",
-    13,
-    "https://www.nytimes.com/2026/09/22/arts/television/late-night-trump-white-house-press-ban.html"
-  ],
-  [
-    "sleep",
-    13,
-    "https://www.washingtonpost.com/immigration/2026/09/21/man-shot-by-ice-says-he-was-put-detention-with-bullet-lodged-near-spine/"
-  ],
-  [
-    "feel",
-    13,
-    "https://www.theguardian.com/technology/ng-interactive/2026/sep/22/animal-language-recordings-ai"
-  ],
-  [
-    "mayor",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/21/trump-and-mamdani-meeting-gracie-mansion"
-  ],
-  [
-    "fewer",
-    13,
-    "https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger"
-  ],
-  [
-    "art",
-    13,
-    "https://www.theguardian.com/travel/2026/sep/22/haute-provence-france-andy-goldsworthy-art-hike-sculpture"
+    "https://www.nytimes.com/2026/09/22/us/politics/republican-candidates-senate-iran-war.html"
   ],
   [
     "party",
-    12,
-    "https://www.nytimes.com/2026/09/22/us/politics/kamala-harris-el-sayed-michigan-midterms.html"
+    13,
+    "https://www.nytimes.com/2026/09/22/us/politics/republican-candidates-senate-iran-war.html"
   ],
   [
-    "charles",
+    "states",
+    13,
+    "https://www.nytimes.com/2026/09/22/business/economy/us-china-ai-competition.html"
+  ],
+  [
+    "backed",
+    13,
+    "https://www.nytimes.com/2026/09/22/world/americas/praxis-uruguay-colonia-tech-utopia.html"
+  ],
+  [
+    "season",
+    13,
+    "https://www.washingtonpost.com/weather/2026/09/21/tropical-storm-fay-tracker-map-projected-storm-path/"
+  ],
+  [
+    "gaza",
+    13,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "control",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/22/cdc-pennsylvania-measles-death-outbreak"
+  ],
+  [
+    "don",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/sep/22/pentagon-unveiled-secret-weapon-idiotic-influencers-jake-logan-paul"
+  ],
+  [
+    "guide",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
+  ],
+  [
+    "voters",
     12,
-    "https://www.nytimes.com/2026/09/22/world/europe/diana-earl-spencer-book.html"
+    "https://www.nytimes.com/2026/09/22/us/politics/americans-distrust-election.html"
+  ],
+  [
+    "fentanyl",
+    12,
+    "https://www.nytimes.com/2026/09/22/arts/television/hayden-panettiere-cause-death-fentanyl-drugs.html"
+  ],
+  [
+    "air",
+    12,
+    "https://www.washingtonpost.com/education/2026/09/21/jobs-that-earn-six-figures-without-going-college-why-they-are-rare/"
+  ],
+  [
+    "sea",
+    12,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "doing",
+    12,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "herself",
+    12,
+    "https://www.theguardian.com/wellness/2026/sep/22/lindsay-crouse-quitting-book"
+  ],
+  [
+    "night",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/22/hyrox-go-hard-or-go-home-attitude-exercise-joanna-wietrzyk"
+  ],
+  [
+    "late",
+    12,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/22/fcc-chair-brendan-carr-midtown-aa-group"
+  ],
+  [
+    "republican",
+    12,
+    "https://www.theguardian.com/us-news/2026/sep/22/republican-senate-investigation-trump-jr-wedding"
   ],
   [
     "love",
     12,
-    "https://www.nytimes.com/2026/09/22/books/review/charles-spencer-swan-song.html"
+    "https://www.theguardian.com/us-news/2026/sep/22/immigrant-serving-journalists-social-media-text-whatsapp"
   ],
   [
-    "administration",
+    "rams",
     12,
-    "https://www.nytimes.com/2026/09/22/opinion/trump-deportation-third-countries.html"
+    "https://www.theguardian.com/sport/2026/sep/21/nfl-giants-rams-jaxson-dart-knee-injury-aaron-donald-return"
   ],
   [
-    "talk",
+    "california",
     12,
-    "https://www.nytimes.com/2026/09/22/briefing/ai-discussions.html"
+    "https://www.theguardian.com/sport/2026/sep/22/jenn-lichter-ultrarunning"
   ],
   [
-    "ban",
+    "killed",
     12,
-    "https://www.nytimes.com/2026/09/22/arts/television/late-night-trump-white-house-press-ban.html"
+    "https://www.theguardian.com/world/2026/sep/22/un-chief-antonio-guterres-final-general-assembly-address"
   ],
   [
-    "politico",
+    "fewer",
     12,
-    "https://www.nytimes.com/2026/09/22/arts/television/late-night-trump-white-house-press-ban.html"
+    "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
   ],
   [
-    "university",
+    "mlb",
     12,
-    "https://www.theguardian.com/technology/ng-interactive/2026/sep/22/animal-language-recordings-ai"
+    "https://www.foxnews.com/outkick-betting/caesars-sportsbook-promo-code-foxnewsdyw-get-10x-100-profit-boosts-mlb-week"
   ],
   [
-    "police",
-    12,
-    "https://www.theguardian.com/music/2026/sep/22/the-truth-about-sean-combs-no-is-not-a-stopping-point-for-him"
+    "nations",
+    11,
+    "https://www.nytimes.com/2026/09/22/business/media/trump-tv-un-speech.html"
   ],
   [
-    "young",
-    12,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/22/fcc-chair-brendan-carr-midtown-aa-group"
+    "political",
+    11,
+    "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html"
+  ],
+  [
+    "online",
+    11,
+    "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html"
+  ],
+  [
+    "government",
+    11,
+    "https://www.nytimes.com/2026/09/22/health/aca-obamacare-vance-fraud.html"
+  ],
+  [
+    "china",
+    11,
+    "https://www.nytimes.com/2026/09/22/business/economy/us-china-ai-competition.html"
+  ],
+  [
+    "intelligence",
+    11,
+    "https://www.nytimes.com/2026/09/22/business/economy/us-china-ai-competition.html"
+  ],
+  [
+    "though",
+    11,
+    "https://www.washingtonpost.com/politics/2026/09/22/pentagon-adds-one-death-tally-troop-fatalities-amid-iran-war/"
+  ],
+  [
+    "case",
+    11,
+    "https://www.washingtonpost.com/nation/2026/09/22/grand-jury-finds-insufficient-evidence-crime-nolan-wellss-death/"
+  ],
+  [
+    "response",
+    11,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ]
 ];
