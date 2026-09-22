@@ -3,49 +3,37 @@
   "ORG": [
     {
       "name": "Trump Media & Technology",
-      "count": 46,
+      "count": 57,
       "url": "https://www.cbsnews.com/news/ex-federal-prosecutors-trump-media-early-access-truth-social-posts/",
       "source": "CBS News"
     },
     {
       "name": "Ai",
-      "count": 26,
+      "count": 27,
       "url": "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields",
       "source": "The Guardian"
     },
     {
-      "name": "Trump&Apos;S White House",
-      "count": 19,
-      "url": "https://www.foxnews.com/politics/white-house-wont-back-down-attorney-predicts-trump-latest-press-tussle-play-court",
-      "source": "Fox News"
-    },
-    {
-      "name": "Cnn",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/09/21/business/media/cnn-cbs-paramount-david-ellison.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Gop House",
-      "count": 15,
+      "count": 20,
       "url": "https://thehill.com/regulation/court-battles/6102804-mo-court-reinstates-gop-house-map/",
       "source": "The Hill"
     },
     {
-      "name": "Warner Bros. Discovery",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Ice",
       "count": 13,
-      "url": "https://www.washingtonpost.com/nation/2026/09/20/she-cheered-teen-protest-against-ice-police-charged-her-with-crime/",
+      "url": "https://www.washingtonpost.com/immigration/2026/09/21/immigrants-with-final-deportation-orders-disappear-ice-detainee-locator/",
       "source": "Washington Post"
     },
     {
-      "name": "Paramount Skydance'S",
+      "name": "White House Correspondents' Association",
       "count": 13,
+      "url": "https://thehill.com/media/6102786-trump-whca-media-ban/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Paramount Skydance'S",
+      "count": 12,
       "url": "https://www.nbcnews.com/now/video/paramount-reaches-deal-with-states-over-110b-warner-bros-merger-270234693636",
       "source": "NBC News"
     },
@@ -56,109 +44,121 @@
       "source": "The Guardian"
     },
     {
-      "name": "Guardian",
+      "name": "The San Francisco Giants",
+      "count": 11,
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-09-20/dodgers-sweep-giants",
+      "source": "LA Times"
+    },
+    {
+      "name": "The White House",
       "count": 10,
-      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/21/alaa-gaza-day-in-life-pregnant-woman-alaa",
+      "url": "https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Cnn",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/21/white-house-press-corps-boycott",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 49,
-      "url": "https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger",
+      "count": 54,
+      "url": "https://www.theguardian.com/us-news/2026/sep/21/trump-tv-networks-white-house-pool-coverage",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 25,
-      "url": "https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger",
+      "count": 31,
+      "url": "https://www.theguardian.com/technology/2026/sep/21/black-employees-accuse-tesla-fostering-discrimination",
       "source": "The Guardian"
     },
     {
-      "name": "New York City",
-      "count": 25,
-      "url": "https://www.theguardian.com/fashion/2026/sep/21/harry-styles-walked-eight-miles-loafers-ruining-feet",
+      "name": "U.S.",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York     Follow",
+      "count": 19,
+      "url": "https://www.theguardian.com/australia-news/2026/sep/21/no-avoiding-the-cost-of-inaction-on-climate-anthony-albanese-says-in-new-york",
       "source": "The Guardian"
     },
     {
       "name": "Texas",
-      "count": 19,
-      "url": "https://www.latimes.com/politics/story/2026-09-20/texas-bo-french-bigotry-greg-abbott-ken-paxton-midterm-election",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/09/21/us/ice-shooting-austin-texas.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/09/21/us/politics/trump-un-speech.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "West Hollywood",
+      "count": 14,
+      "url": "https://www.latimes.com/lifestyle/image/story/2026-04-09/from-fergie-to-michele-lamy-heres-how-guests-showed-up-for-fashion-trust-u-s-awards",
       "source": "LA Times"
     },
     {
       "name": "L.A. County",
-      "count": 14,
+      "count": 13,
       "url": "https://www.latimes.com/california/story/2026-09-20/la-county-inmate-killed-at-pelican-bay-state-prison-officials-say",
       "source": "LA Times"
     },
     {
-      "name": "Ukraine",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/sep/21/trump-zelenskyy-russia-united-nations",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "U.S.",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/09/21/us/politics/united-nations-artificial-intelligence-china-us.html",
-      "source": "NY Times"
-    },
-    {
       "name": "London",
-      "count": 11,
+      "count": 12,
       "url": "https://www.theguardian.com/film/2026/sep/21/sense-and-sensibility-review-romcom-austen-daisy-edgar-jones",
       "source": "The Guardian"
+    },
+    {
+      "name": "Canada",
+      "count": 11,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 34,
+      "count": 39,
       "url": "https://www.theguardian.com/commentisfree/2026/sep/21/white-house-press-corps-boycott",
       "source": "The Guardian"
     },
     {
+      "name": "Zohran Mamdani",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/09/21/nyregion/trump-mamdani-meeting-nyc.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Justin Herbert",
-      "count": 12,
+      "count": 10,
       "url": "https://www.theguardian.com/sport/2026/sep/21/justin-herbert-chargers-quarterback-nfl",
       "source": "The Guardian"
     },
     {
-      "name": "Zohran Mamdani",
-      "count": 9,
-      "url": "https://www.theguardian.com/artanddesign/2026/sep/21/salman-toor-artist-interview-clubbing-queerness-new-york-muslim-moment",
-      "source": "The Guardian"
+      "name": "Rams",
+      "count": 8,
+      "url": "https://www.latimes.com/sports/rams/story/2026-09-21/rams-defeat-giants-aaron-donald-return",
+      "source": "LA Times"
     },
     {
       "name": "Friedrich Merz",
-      "count": 8,
-      "url": "https://www.theguardian.com/news/video/2026/sep/21/rise-of-the-far-right-in-germany-how-worried-should-we-be-the-latest",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/21/the-guardian-view-on-friedrich-merz-germanys-chancellor-must-change-course-to-halt-the-rise-of-the-afd",
       "source": "The Guardian"
     },
     {
       "name": "Caleb Williams",
-      "count": 8,
+      "count": 7,
       "url": "https://www.theguardian.com/sport/2026/sep/21/bears-say-caleb-williams-is-week-to-week-with-hamstring-injury-and-will-miss-some-time",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Presley Gerber",
-      "count": 8,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/21/presley-gerber-son-of-cindy-crawford-dead-aged-27",
       "source": "The Guardian"
     },
     {
@@ -168,22 +168,22 @@
       "source": "The Guardian"
     },
     {
-      "name": "Jb Pritzker",
+      "name": "Xi Jinping",
       "count": 5,
-      "url": "https://www.nytimes.com/2026/09/21/us/politics/jb-pritzker-glp-1-ozempic-2028-presidential-race.html",
-      "source": "NY Times"
+      "url": "https://www.washingtonpost.com/business/2026/09/20/chinas-leader-pursues-global-power-many-its-citizens-feel-left-behind/",
+      "source": "Washington Post"
     },
     {
-      "name": "Cindy Crawford",
+      "name": "Steve Reich",
       "count": 5,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/21/presley-gerber-son-of-cindy-crawford-dead-aged-27",
+      "url": "https://www.theguardian.com/music/2026/sep/22/steve-reich-turns-90-interview",
       "source": "The Guardian"
     },
     {
-      "name": "Houthis",
-      "count": 4,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/21/houthi-iran-war-trump",
-      "source": "The Guardian"
+      "name": "Presley Gerber",
+      "count": 5,
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-09-21/death-of-cindy-crawford-son-presley-gerber-more-details",
+      "source": "LA Times"
     }
   ],
   "EVENT": [
@@ -206,17 +206,17 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Climate Week",
+      "name": "Climate Week",
       "count": 1,
       "url": "https://www.theguardian.com/australia-news/2026/sep/21/no-avoiding-the-cost-of-inaction-on-climate-anthony-albanese-says-in-new-york",
       "source": "The Guardian"
     },
     {
-      "name": "The Rose Bowl",
+      "name": "World Series",
       "count": 1,
-      "url": "https://www.latimes.com/sports/ucla/story/2026-09-13/ucla-isnt-perfect-but-fans-can-trust-bruins-to-fight-for-wins",
-      "source": "LA Times"
+      "url": "https://www.foxnews.com/outkick-sports/trumpeter-dr-jesse-mcguire-belts-national-anthem-instrument-malfunctions-unforgettable-mlb-moment",
+      "source": "Fox News"
     }
   ],
-  "updated": "2026-09-21T22:31:35Z"
+  "updated": "2026-09-22T05:57:40Z"
 };
