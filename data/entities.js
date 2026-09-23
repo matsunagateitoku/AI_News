@@ -3,139 +3,207 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 71,
-      "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-launches-youtube-channel-amid-boycott-by-us-networks",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 27,
-      "url": "https://www.theguardian.com/us-news/2026/sep/22/supreme-court-surrogate-custody-battle",
+      "count": 46,
+      "url": "https://www.theguardian.com/us-news/2026/sep/23/gretchen-carlson-trump-media-ban",
       "source": "The Guardian"
     },
     {
       "name": "New York City",
-      "count": 25,
-      "url": "https://www.theguardian.com/thefilter-us/2026/sep/18/best-peel-and-stick-wallpaper",
+      "count": 23,
+      "url": "https://www.theguardian.com/environment/2026/sep/23/elmo-new-york-climate-week-sesame-street-storm",
       "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Russia",
-      "count": 20,
-      "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/09/22/us/politics/trump-greenland-denmark-agreement.html",
-      "source": "NY Times"
     },
     {
       "name": "Texas",
-      "count": 17,
+      "count": 20,
       "url": "https://www.nytimes.com/2026/09/22/upshot/hispanic-voters-midterm-elections.html",
       "source": "NY Times"
     },
     {
-      "name": "Uk",
-      "count": 16,
-      "url": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
-      "source": "The Guardian"
-    },
-    {
-      "name": "China",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/09/23/opinion/trump-xi-meeting-us-china.html",
+      "name": "U.S.",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/09/22/us/politics/trump-greenland-denmark-agreement.html",
       "source": "NY Times"
     },
     {
-      "name": "Ukraine",
+      "name": "Iran",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 15,
+      "url": "https://www.theguardian.com/artanddesign/2026/sep/23/monica-majoli-countervision-exhibit-california",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 15,
+      "url": "https://www.theguardian.com/world/2026/sep/23/chagos-islands-diego-garcia-streeting-us-support",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
       "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban",
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "China",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/09/23/world/asia/china-ai-economy-xi-jinping.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "London",
+      "count": 11,
+      "url": "https://www.theguardian.com/business/2026/sep/23/qantas-direct-flights-from-sydney-to-new-york",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Cites National Security",
-      "count": 72,
-      "url": "https://www.nytimes.com/2026/09/22/us/politics/trump-arch-national-security.html",
+      "name": "Trump Praises Burnham As ‘Natural Business Person’ After First Meeting",
+      "count": 52,
+      "url": "https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html",
       "source": "NY Times"
     },
     {
-      "name": "Un General Assembly",
-      "count": 23,
-      "url": "https://thehill.com/homenews/6105208-trump-un-speech-iran-venezuela/",
-      "source": "The Hill"
-    },
-    {
       "name": "Ai",
-      "count": 22,
-      "url": "https://www.washingtonpost.com/technology/2026/09/22/trump-says-hes-renaming-ai-super-intelligence/",
+      "count": 32,
+      "url": "https://www.washingtonpost.com/education/2026/09/23/nine-months-200-academic-papers-one-professors-ai-assisted-output/",
       "source": "Washington Post"
-    },
-    {
-      "name": "The White House",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-launches-youtube-channel-amid-boycott-by-us-networks",
-      "source": "The Guardian"
     },
     {
       "name": "Gop",
+      "count": 21,
+      "url": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice",
+      "source": "NPR"
+    },
+    {
+      "name": "White House Responds To Suit Filed",
       "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/sep/22/florida-republican-byron-donalds-donald-trump",
-      "source": "The Guardian"
+      "url": "https://www.today.com/video/white-house-responds-to-suit-filed-by-3-news-outlets-over-ban-270354501675",
+      "source": "NBC News"
     },
     {
-      "name": "Ice",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/immigration/2026/09/22/man-shot-detained-by-ice-is-hospitalized-partial-paralysis-lawyer-says/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Guardian Australia’S Politics",
-      "count": 12,
-      "url": "https://www.theguardian.com/media/2026/sep/22/us-warns-australia-that-imposing-digital-duty-of-care-on-big-tech-would-be-seen-as-censorship",
-      "source": "The Guardian"
+      "name": "Un",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html",
+      "source": "NY Times"
     },
     {
       "name": "Senate Armed Services Committee",
-      "count": 11,
+      "count": 16,
       "url": "https://www.washingtonpost.com/nation/2026/09/22/senate-armed-services-committee-chair-criticizes-trump-xi-meeting/",
       "source": "Washington Post"
     },
     {
-      "name": "Nato",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "source": "Wall St. Journal"
+      "name": "Cnn",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html",
+      "source": "NY Times"
     },
     {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "name": "Cbs News",
+      "count": 9,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-09-22/editorial-board-will-oversee-cnn-cbs-news-what-does-that-mean",
+      "source": "LA Times"
+    },
+    {
+      "name": "Politico In Court Filing",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Guardian",
+      "count": 8,
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/23/this-is-where-i-live-now-the-back-of-a-truck-a-day-in-the-life-of-a-grandmother-in-gaza",
       "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Abandoning Trump",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/09/22/upshot/hispanic-voters-midterm-elections.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump Jr.",
+      "count": 18,
+      "url": "https://www.nbcnews.com/politics/congress/gop-senator-subpoena-donald-trump-jr-hunter-biden-kremlev-wedding-rcna599182",
+      "source": "NBC News"
+    },
+    {
+      "name": "Xi Jinping",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/09/23/world/asia/china-ai-economy-xi-jinping.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Olivia Miles",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/sep/23/lynx-clinch-wnba-no-1-seed-despite-embarrassing-loss-to-fever-and-olivia-miles-injury",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mora",
+      "count": 5,
+      "url": "https://www.theguardian.com/football/2026/sep/23/summer-football-transfer-window-best-value-deals",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kamala Harris",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/sep/22/kamala-harris-abdul-el-sayed-campaign-michigan",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/sep/22/doordash-new-york-settlement",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Steve Reich",
+      "count": 5,
+      "url": "https://www.theguardian.com/music/2026/sep/22/steve-reich-turns-90-interview",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Charles Spencer",
+      "count": 5,
+      "url": "https://www.theguardian.com/books/2026/sep/22/swan-song-charles-spencer-review-diana-princess-of-wales-brother-earl",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Dodgers",
+      "count": 5,
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-09-16/blake-snell-dodgers-reds",
+      "source": "LA Times"
     }
   ],
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-scolds-cnn-anchor-kaitlan-collins-un",
-      "source": "The Guardian"
+      "count": 4,
+      "url": "https://www.nbcnews.com/business/economy/us-economy-iran-war-five-charts-rcna598412",
+      "source": "NBC News"
     },
     {
       "name": "Hurricane Polo",
       "count": 3,
       "url": "https://www.latimes.com/california/story/2026-09-22/hurricane-polo-intensifies-off-mexico-could-mean-continued-beating-for-socal-coast",
       "source": "LA Times"
+    },
+    {
+      "name": "Climate Week",
+      "count": 2,
+      "url": "https://www.theguardian.com/environment/2026/sep/23/elmo-new-york-climate-week-sesame-street-storm",
+      "source": "The Guardian"
     },
     {
       "name": "World Cup",
@@ -150,103 +218,35 @@
       "source": "The Guardian"
     },
     {
-      "name": "Night Live",
+      "name": "Wnba No 1",
       "count": 1,
-      "url": "https://www.theguardian.com/culture/2026/sep/22/nimesh-patel-buy-the-dip-netflix-comedy-special",
+      "url": "https://www.theguardian.com/sport/2026/sep/23/lynx-clinch-wnba-no-1-seed-despite-embarrassing-loss-to-fever-and-olivia-miles-injury",
       "source": "The Guardian"
+    },
+    {
+      "name": "Post-Cold War",
+      "count": 1,
+      "url": "https://www.latimes.com/entertainment-arts/books/story/2026-09-23/katya-suvorova-ungrateful-immigrant-daughter-review-soviet-mail-order-brides",
+      "source": "LA Times"
+    },
+    {
+      "name": "Wwii",
+      "count": 1,
+      "url": "https://www.foxnews.com/travel/mystery-surrounds-german-soldiers-found-mud-covered-wwii-motorcycle-danube",
+      "source": "Fox News"
+    },
+    {
+      "name": "World War Ii",
+      "count": 1,
+      "url": "https://www.foxnews.com/travel/mystery-surrounds-german-soldiers-found-mud-covered-wwii-motorcycle-danube",
+      "source": "Fox News"
     },
     {
       "name": "Super Bowl",
       "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/super-bowl-winning-coach-reveals-cold-war-broncos-sean-payton-alleged-spying-matt-calkins",
+      "url": "https://www.foxnews.com/outkick-sports/cowboys-dak-prescott-giving-jerry-jones-super-bowl-fever-gives-us-best-chance",
       "source": "Fox News"
-    },
-    {
-      "name": "'Cold War'",
-      "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/super-bowl-winning-coach-reveals-cold-war-broncos-sean-payton-alleged-spying-matt-calkins",
-      "source": "Fox News"
-    },
-    {
-      "name": "White South Africans",
-      "count": 1,
-      "url": "https://www.cbsnews.com/news/trump-administration-white-south-africans-refugees-afrikaners/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Hurricane Helene",
-      "count": 1,
-      "url": "https://www.cbsnews.com/news/hurricane-helene-survivors-woman-returns-family-photos/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Hurricane Helene'S",
-      "count": 1,
-      "url": "https://www.cbsnews.com/news/hurricane-helene-survivors-woman-returns-family-photos/",
-      "source": "CBS News"
     }
   ],
-  "PERSON": [
-    {
-      "name": "Donald Trump Jr.",
-      "count": 26,
-      "url": "https://thehill.com/homenews/senate/6105280-hunter-biden-responds-senator-request/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Abandoning Trump",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/09/22/upshot/hispanic-voters-midterm-elections.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Xi Jinping",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/business/2026/09/20/chinas-leader-pursues-global-power-many-its-citizens-feel-left-behind/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Kamala Harris",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/sep/22/kamala-harris-abdul-el-sayed-campaign-michigan",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vladimir Putin",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/2026/sep/23/ukraine-war-briefing-zelenskyy-energy-ceasefire",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Zelenskyy",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/sep/23/ukraine-war-briefing-zelenskyy-energy-ceasefire",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Tom Cruise",
-      "count": 5,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/22/tom-cruise-interview-scientology-hollywood-digger",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Charles Spencer",
-      "count": 5,
-      "url": "https://www.theguardian.com/books/2026/sep/22/swan-song-charles-spencer-review-diana-princess-of-wales-brother-earl",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dodgers",
-      "count": 5,
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-09-16/blake-snell-dodgers-reds",
-      "source": "LA Times"
-    },
-    {
-      "name": "Simone Biles",
-      "count": 5,
-      "url": "https://www.nbcnews.com/video/simone-biles-says-three-masked-men-stole-luxury-car-from-her-chicago-area-home-270326341992",
-      "source": "NBC News"
-    }
-  ],
-  "updated": "2026-09-23T05:42:01Z"
+  "updated": "2026-09-23T12:39:59Z"
 };

@@ -2,193 +2,168 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    133,
+    103,
     "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
   ],
   [
     "president",
-    55,
+    52,
     "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
-  ],
-  [
-    "california",
-    30,
-    "https://www.nytimes.com/2026/09/22/us/olive-ridley-sea-turtle-climate-california.html"
-  ],
-  [
-    "donald",
-    29,
-    "https://www.nytimes.com/2026/09/22/us/politics/curtis-urges-investigation-donald-trump-jr.html"
   ],
   [
     "court",
-    28,
+    35,
     "https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html"
   ],
   [
-    "war",
-    28,
-    "https://www.washingtonpost.com/politics/2026/09/22/pentagon-adds-one-death-tally-troop-fatalities-amid-iran-war/"
-  ],
-  [
     "food",
-    28,
-    "https://www.washingtonpost.com/nation/2026/09/22/bear-encounters-are-rising-across-united-states-heres-why/"
+    27,
+    "https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html"
   ],
   [
     "york",
-    28,
-    "https://www.theguardian.com/wellness/2026/sep/22/lindsay-crouse-quitting-book"
+    26,
+    "https://www.theguardian.com/environment/2026/sep/23/elmo-new-york-climate-week-sesame-street-storm"
   ],
   [
-    "iran",
+    "war",
     25,
-    "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
-  ],
-  [
-    "latest",
-    25,
-    "https://www.nytimes.com/2026/09/22/us/olive-ridley-sea-turtle-climate-california.html"
-  ],
-  [
-    "general",
-    21,
-    "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
-  ],
-  [
-    "administration",
-    21,
-    "https://www.theguardian.com/us-news/2026/sep/22/trump-launches-youtube-channel-amid-boycott-by-us-networks"
+    "https://www.nytimes.com/2026/09/23/climate/the-former-fracking-executive-selling-trumps-energy-dominance-vision.html"
   ],
   [
     "texas",
-    20,
-    "https://www.nytimes.com/2026/09/22/upshot/hispanic-voters-midterm-elections.html"
-  ],
-  [
-    "ice",
-    20,
-    "https://www.washingtonpost.com/immigration/2026/09/22/man-shot-detained-by-ice-is-hospitalized-partial-paralysis-lawyer-says/"
-  ],
-  [
-    "death",
-    20,
-    "https://www.washingtonpost.com/nation/2026/09/22/grand-jury-finds-insufficient-evidence-crime-nolan-wellss-death/"
+    24,
+    "https://www.nytimes.com/2026/09/23/podcasts/the-headlines/trump-greenland-texas-data-centers.html"
   ],
   [
     "media",
-    20,
-    "https://www.theguardian.com/us-news/2026/sep/22/trump-launches-youtube-channel-amid-boycott-by-us-networks"
-  ],
-  [
-    "record",
-    20,
-    "https://www.theguardian.com/us-news/2026/sep/22/yellowstone-trash-record"
-  ],
-  [
-    "russia",
-    20,
-    "https://www.theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban"
-  ],
-  [
-    "rise",
-    18,
-    "https://www.washingtonpost.com/business/2026/09/20/chinas-leader-pursues-global-power-many-its-citizens-feel-left-behind/"
-  ],
-  [
-    "fire",
-    18,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "don",
-    18,
-    "https://www.theguardian.com/us-news/2026/sep/22/trump-scolds-cnn-anchor-kaitlan-collins-un"
-  ],
-  [
-    "campaign",
-    17,
-    "https://www.nytimes.com/2026/09/22/us/politics/fbi-susan-collins-donor.html"
-  ],
-  [
-    "china",
-    17,
-    "https://www.nytimes.com/2026/09/23/opinion/trump-xi-meeting-us-china.html"
-  ],
-  [
-    "case",
-    17,
-    "https://www.washingtonpost.com/nation/2026/09/22/grand-jury-finds-insufficient-evidence-crime-nolan-wellss-death/"
-  ],
-  [
-    "season",
-    17,
-    "https://www.washingtonpost.com/weather/2026/09/21/tropical-storm-fay-tracker-map-projected-storm-path/"
-  ],
-  [
-    "gop",
-    17,
-    "https://www.theguardian.com/us-news/2026/sep/22/florida-republican-byron-donalds-donald-trump"
-  ],
-  [
-    "care",
-    16,
-    "https://www.washingtonpost.com/politics/2026/09/22/justice-kagan-rules-against-surrogate-mother-who-refused-get-abortion/"
+    24,
+    "https://www.theguardian.com/us-news/2026/sep/23/gretchen-carlson-trump-media-ban"
   ],
   [
     "book",
-    16,
-    "https://www.theguardian.com/wellness/2026/sep/22/lindsay-crouse-quitting-book"
+    23,
+    "https://www.theguardian.com/books/live/2026/sep/23/booker-prize-2026-ask-our-books-team-anything-about-this-years-contenders"
   ],
   [
-    "energy",
-    16,
-    "https://www.theguardian.com/us-news/2026/sep/22/trump-calls-on-allies-enforce-complete-economic-isolation-iran-un-speech"
+    "climate",
+    22,
+    "https://www.theguardian.com/environment/2026/sep/23/elmo-new-york-climate-week-sesame-street-storm"
   ],
   [
-    "london",
-    16,
-    "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council"
-  ],
-  [
-    "buying",
-    16,
-    "https://www.theguardian.com/us-news/2026/sep/22/california-new-york-trump-wind-energy"
-  ],
-  [
-    "music",
-    16,
-    "https://www.theguardian.com/music/2026/sep/22/the-truth-about-sean-combs-no-is-not-a-stopping-point-for-him"
-  ],
-  [
-    "united",
-    15,
+    "iran",
+    21,
     "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
   ],
   [
     "ban",
-    15,
+    21,
     "https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html"
   ],
   [
-    "legal",
-    15,
-    "https://www.nytimes.com/2026/09/22/us/politics/trump-arch-national-security.html"
+    "voters",
+    21,
+    "https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html"
+  ],
+  [
+    "country",
+    20,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "gop",
+    20,
+    "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice"
+  ],
+  [
+    "senate",
+    19,
+    "https://www.washingtonpost.com/nation/2026/09/22/senate-armed-services-committee-chair-criticizes-trump-xi-meeting/"
+  ],
+  [
+    "donald",
+    19,
+    "https://www.theguardian.com/us-news/2026/sep/23/gretchen-carlson-trump-media-ban"
+  ],
+  [
+    "novel",
+    19,
+    "https://www.theguardian.com/books/ng-interactive/2026/sep/23/john-green-new-book-fame-interview"
+  ],
+  [
+    "states",
+    18,
+    "https://www.nytimes.com/2026/09/23/world/asia/china-ai-economy-xi-jinping.html"
+  ],
+  [
+    "democrats",
+    18,
+    "https://www.theguardian.com/us-news/2026/sep/23/trump-republicans-midterms"
+  ],
+  [
+    "united",
+    17,
+    "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
+  ],
+  [
+    "don",
+    17,
+    "https://www.nytimes.com/2026/09/23/arts/television/seth-meyers-trump-press-pool.html"
+  ],
+  [
+    "final",
+    17,
+    "https://www.washingtonpost.com/immigration/2026/09/21/immigrants-with-final-deportation-orders-disappear-ice-detainee-locator/"
   ],
   [
     "republicans",
-    15,
-    "https://www.nytimes.com/2026/09/22/us/politics/supreme-court-missouri-congressional-map.html"
+    16,
+    "https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html"
   ],
   [
-    "parents",
-    15,
-    "https://www.nytimes.com/2026/09/22/us/politics/supreme-court-surrogate-abortion-custody.html"
+    "questions",
+    16,
+    "https://www.washingtonpost.com/education/2026/09/23/nine-months-200-academic-papers-one-professors-ai-assisted-output/"
   ],
   [
-    "meeting",
+    "case",
+    16,
+    "https://www.washingtonpost.com/nation/2026/09/22/grand-jury-finds-insufficient-evidence-crime-nolan-wellss-death/"
+  ],
+  [
+    "political",
+    16,
+    "https://www.theguardian.com/environment/2026/sep/23/elmo-new-york-climate-week-sesame-street-storm"
+  ],
+  [
+    "because",
+    16,
+    "https://www.theguardian.com/global-development/ng-interactive/2026/sep/23/this-is-where-i-live-now-the-back-of-a-truck-a-day-in-the-life-of-a-grandmother-in-gaza"
+  ],
+  [
+    "fight",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/sep/23/climate-un-clean-energy-2030"
+  ],
+  [
+    "american",
+    16,
+    "https://www.theguardian.com/sport/2026/sep/23/jack-dempsey-gene-tunney-boxing"
+  ],
+  [
+    "season",
     15,
-    "https://www.washingtonpost.com/nation/2026/09/22/senate-armed-services-committee-chair-criticizes-trump-xi-meeting/"
+    "https://www.nytimes.com/2026/09/23/podcasts/the-headlines/trump-greenland-texas-data-centers.html"
+  ],
+  [
+    "china",
+    15,
+    "https://www.nytimes.com/2026/09/23/world/asia/china-ai-economy-xi-jinping.html"
+  ],
+  [
+    "experts",
+    15,
+    "https://www.washingtonpost.com/nation/2026/09/22/lightning-claims-lives-florida-experts-warn-supercharged-activity/"
   ],
   [
     "crisis",
@@ -196,183 +171,208 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "already",
+    "review",
     15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/23/brothers-review-woody-harrelson-and-matthew-mcconaugheys-super-fun-sitcom-about-the-chance-theyre-related"
   ],
   [
-    "europe",
+    "star",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/23/brothers-review-woody-harrelson-and-matthew-mcconaugheys-super-fun-sitcom-about-the-chance-theyre-related"
   ],
   [
-    "speech",
+    "california",
+    15,
+    "https://www.theguardian.com/artanddesign/2026/sep/23/monica-majoli-countervision-exhibit-california"
+  ],
+  [
+    "general",
     14,
     "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
   ],
   [
-    "nations",
-    14,
-    "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
-  ],
-  [
-    "press",
+    "legal",
     14,
     "https://www.nytimes.com/2026/09/22/us/politics/trump-arch-national-security.html"
   ],
   [
-    "senate",
+    "lives",
     14,
-    "https://www.nytimes.com/2026/09/22/us/politics/curtis-urges-investigation-donald-trump-jr.html"
+    "https://www.washingtonpost.com/nation/2026/09/22/lightning-claims-lives-florida-experts-warn-supercharged-activity/"
   ],
   [
-    "body",
+    "israel",
     14,
-    "https://www.washingtonpost.com/immigration/2026/09/22/man-shot-detained-by-ice-is-hospitalized-partial-paralysis-lawyer-says/"
-  ],
-  [
-    "late",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/22/sealook-netflix-seal-cartoon-pet-dogs-cats-transfixed"
-  ],
-  [
-    "social",
-    14,
-    "https://www.theguardian.com/technology/ng-interactive/2026/sep/22/animal-language-recordings-ai"
-  ],
-  [
-    "bring",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/22/trump-calls-on-allies-enforce-complete-economic-isolation-iran-un-speech"
-  ],
-  [
-    "prices",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/22/trump-calls-on-allies-enforce-complete-economic-isolation-iran-un-speech"
-  ],
-  [
-    "ukraine",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban"
-  ],
-  [
-    "police",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/21/person-pepper-sprayed-phone-use-amc-movie-la"
-  ],
-  [
-    "american",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/sep/22/trump-us-nato-europe-american-people-mark-rutte"
-  ],
-  [
-    "football",
-    14,
-    "https://www.theguardian.com/football/2026/sep/22/gianni-infantino-fifa-president-election-world-cup-sell-off-debacle"
-  ],
-  [
-    "filter",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/mar/12/best-no-plastic-cutting-boards"
-  ],
-  [
-    "guide",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/sep/19/best-beauty-deals"
-  ],
-  [
-    "assembly",
-    13,
-    "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
-  ],
-  [
-    "again",
-    13,
-    "https://www.nytimes.com/2026/09/22/us/politics/supreme-court-missouri-congressional-map.html"
-  ],
-  [
-    "because",
-    13,
-    "https://www.nytimes.com/2026/09/22/us/politics/fbi-susan-collins-donor.html"
-  ],
-  [
-    "fight",
-    13,
-    "https://www.nytimes.com/2026/09/22/us/politics/supreme-court-surrogate-abortion-custody.html"
-  ],
-  [
-    "americans",
-    13,
-    "https://www.nytimes.com/2026/09/22/well/ozempic-glp1-medical-reason.html"
-  ],
-  [
-    "officer",
-    13,
-    "https://www.washingtonpost.com/immigration/2026/09/22/man-shot-detained-by-ice-is-hospitalized-partial-paralysis-lawyer-says/"
-  ],
-  [
-    "attack",
-    13,
-    "https://www.washingtonpost.com/nation/2026/09/22/man-convicted-shooting-palestinian-students-us-after-oct-7-attacks/"
-  ],
-  [
-    "final",
-    13,
-    "https://www.washingtonpost.com/immigration/2026/09/21/immigrants-with-final-deportation-orders-disappear-ice-detainee-locator/"
-  ],
-  [
-    "gaza",
-    13,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "country",
-    13,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "early",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "politics",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/22/trump-calls-on-allies-enforce-complete-economic-isolation-iran-un-speech"
+    "power",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/sep/23/climate-un-clean-energy-2030"
   ],
   [
-    "climate",
+    "record",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/sep/23/climate-un-clean-energy-2030"
+  ],
+  [
+    "london",
+    14,
+    "https://www.theguardian.com/business/2026/sep/23/qantas-direct-flights-from-sydney-to-new-york"
+  ],
+  [
+    "family",
+    14,
+    "https://www.theguardian.com/books/ng-interactive/2026/sep/23/john-green-new-book-fame-interview"
+  ],
+  [
+    "security",
     13,
-    "https://www.theguardian.com/environment/2026/sep/23/el-nino-450000-extra-deaths-six-months"
+    "https://www.nytimes.com/2026/09/22/us/politics/trump-greenland-denmark-agreement.html"
+  ],
+  [
+    "ago",
+    13,
+    "https://www.nytimes.com/2026/09/23/world/asia/china-ai-economy-xi-jinping.html"
+  ],
+  [
+    "fire",
+    13,
+    "https://www.washingtonpost.com/investigations/2026/09/23/i-am-code-trump-clashed-with-ballroom-architect-over-safety-issues/"
   ],
   [
     "night",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/22/60-minutes-patrick-clancy-cbs"
+    "https://www.theguardian.com/global-development/ng-interactive/2026/sep/23/this-is-where-i-live-now-the-back-of-a-truck-a-day-in-the-life-of-a-grandmother-in-gaza"
   ],
   [
-    "little",
+    "late",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-ai-trade-geopolitics"
+    "https://www.theguardian.com/music/2026/sep/23/dolly-parton-estate-in-feud-with-nephew-over-alleged-warfare-threats"
   ],
   [
-    "political",
+    "buying",
     13,
-    "https://www.theguardian.com/commentisfree/2026/sep/23/europe-frets-about-trump-but-soon-he-could-be-the-least-of-our-problems"
+    "https://www.theguardian.com/books/ng-interactive/2026/sep/23/john-green-new-book-fame-interview"
   ],
   [
-    "order",
+    "ahead",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/sep/22/trump-un-speech"
+  ],
+  [
+    "assembly",
     12,
-    "https://www.nytimes.com/2026/09/22/us/politics/supreme-court-surrogate-abortion-custody.html"
+    "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html"
   ],
   [
-    "custody",
+    "already",
     12,
-    "https://www.nytimes.com/2026/09/22/us/politics/supreme-court-surrogate-abortion-custody.html"
+    "https://www.nytimes.com/2026/09/23/weather/pacific-hurricanes-hawaii-polo.html"
   ],
   [
-    "surrogate",
+    "university",
     12,
-    "https://www.nytimes.com/2026/09/22/us/politics/supreme-court-surrogate-abortion-custody.html"
+    "https://www.nytimes.com/2026/09/23/us/billion-dollar-donation-university-oregon-phil-knight.html"
   ],
   [
-    "lives",
+    "ice",
+    12,
+    "https://www.washingtonpost.com/immigration/2026/09/22/man-shot-detained-by-ice-is-hospitalized-partial-paralysis-lawyer-says/"
+  ],
+  [
+    "death",
+    12,
+    "https://www.washingtonpost.com/nation/2026/09/22/grand-jury-finds-insufficient-evidence-crime-nolan-wellss-death/"
+  ],
+  [
+    "deaths",
     12,
     "https://www.washingtonpost.com/nation/2026/09/22/lightning-claims-lives-florida-experts-warn-supercharged-activity/"
+  ],
+  [
+    "gaza",
+    12,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "loss",
+    12,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "campaign",
+    12,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "workers",
+    12,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "latest",
+    12,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "children",
+    12,
+    "https://www.theguardian.com/environment/2026/sep/23/elmo-new-york-climate-week-sesame-street-storm"
+  ],
+  [
+    "leaders",
+    12,
+    "https://www.theguardian.com/environment/2026/sep/23/elmo-new-york-climate-week-sesame-street-storm"
+  ],
+  [
+    "candidates",
+    12,
+    "https://www.theguardian.com/us-news/2026/sep/23/machinists-union-midterms-workers-billionaires"
+  ],
+  [
+    "rise",
+    12,
+    "https://www.theguardian.com/fashion/2026/sep/23/how-kylie-minogue-became-pop-chameleon-gold-hot-pants"
+  ],
+  [
+    "album",
+    12,
+    "https://www.theguardian.com/fashion/2026/sep/23/how-kylie-minogue-became-pop-chameleon-gold-hot-pants"
+  ],
+  [
+    "europe",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/23/solar-power-bernie-sanders-yeb-sano-letter"
+  ],
+  [
+    "deals",
+    12,
+    "https://www.theguardian.com/football/2026/sep/23/summer-football-transfer-window-best-value-deals"
+  ],
+  [
+    "politico",
+    11,
+    "https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html"
+  ],
+  [
+    "care",
+    11,
+    "https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html"
+  ],
+  [
+    "supreme",
+    11,
+    "https://www.nytimes.com/2026/09/22/us/politics/supreme-court-missouri-congressional-map.html"
+  ],
+  [
+    "video",
+    11,
+    "https://www.nytimes.com/2026/09/23/opinion/mrbeast-rajiv-shah-video.html"
   ]
 ];
