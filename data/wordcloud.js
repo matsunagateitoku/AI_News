@@ -2,183 +2,183 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    102,
-    "https://www.nytimes.com/2026/09/23/us/politics/des-moines-register-trump-lawsuit.html"
+    105,
+    "https://www.nytimes.com/2026/09/24/podcasts/the-headlines/trump-ban-press-ai-health-care-costs.html"
   ],
   [
     "president",
-    63,
-    "https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html"
+    64,
+    "https://www.nytimes.com/2026/09/24/world/europe/russia-europe-warning-ukraine-war.html"
   ],
   [
     "judge",
-    34,
-    "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html"
+    26,
+    "https://www.nytimes.com/2026/09/24/podcasts/the-headlines/trump-ban-press-ai-health-care-costs.html"
   ],
   [
     "york",
-    29,
-    "https://www.theguardian.com/us-news/2026/sep/23/al-gore-climate-crisis-an-inconvenient-truth"
-  ],
-  [
-    "iran",
-    26,
-    "https://www.nytimes.com/2026/09/23/us/politics/trump-aides-iran-talks.html"
-  ],
-  [
-    "star",
-    26,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/24/lesley-manville-interview-mum-marble-hall-mysteries-oedipus-liaisons"
+    25,
+    "https://www.nytimes.com/2026/09/24/nyregion/mamdani-netanyahu-un-general-assembly.html"
   ],
   [
     "war",
     25,
-    "https://www.nytimes.com/2026/09/23/us/politics/trump-putin-g20-summit.html"
+    "https://www.nytimes.com/2026/09/24/nyregion/mamdani-netanyahu-un-general-assembly.html"
   ],
   [
-    "ban",
-    23,
-    "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html"
+    "night",
+    25,
+    "https://www.theguardian.com/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race"
   ],
   [
-    "china",
-    23,
-    "https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html"
-  ],
-  [
-    "senate",
-    23,
-    "https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html"
-  ],
-  [
-    "climate",
-    23,
-    "https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html"
-  ],
-  [
-    "california",
-    23,
-    "https://www.washingtonpost.com/nation/2026/09/23/sea-turtle-nests-historic-first-southern-california-coast/"
+    "iran",
+    24,
+    "https://www.washingtonpost.com/politics/2026/09/22/pentagon-adds-one-death-tally-troop-fatalities-amid-iran-war/"
   ],
   [
     "food",
     23,
-    "https://www.washingtonpost.com/nation/2026/09/22/bear-encounters-are-rising-across-united-states-heres-why/"
+    "https://www.washingtonpost.com/health/2026/09/24/one-blood-test-could-screen-you-50-cancers-heres-why-its-controversial/"
+  ],
+  [
+    "california",
+    22,
+    "https://www.washingtonpost.com/business/2026/09/24/chart-that-inspired-californias-billionaire-tax-campaign/"
+  ],
+  [
+    "prime",
+    20,
+    "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
+  ],
+  [
+    "general",
+    20,
+    "https://www.nytimes.com/2026/09/24/briefing/united-nations-general-assembly.html"
+  ],
+  [
+    "china",
+    20,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "crisis",
-    22,
-    "https://www.nytimes.com/2026/09/23/us/politics/trump-aides-iran-talks.html"
+    20,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "media",
-    22,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/24/the-real-rooneys-review-wayne-and-coleen-reality-show"
+    "star",
+    20,
+    "https://www.theguardian.com/stage/2026/sep/24/stranger-things-gaten-matarazzo-rent-tom-stoppard-theatre"
   ],
   [
     "book",
-    22,
-    "https://www.theguardian.com/us-news/2026/sep/23/rfk-jr-maha-book-advances"
-  ],
-  [
-    "secretary",
-    21,
-    "https://www.nytimes.com/2026/09/23/us/politics/china-trade-truce-tariffs.html"
-  ],
-  [
-    "texas",
-    20,
-    "https://www.washingtonpost.com/immigration/2026/09/22/man-shot-detained-by-ice-is-hospitalized-partial-paralysis-lawyer-says/"
-  ],
-  [
-    "likely",
-    20,
-    "https://www.theguardian.com/us-news/2026/sep/24/judge-orders-trump-restore-white-house-access-cnn-ms-now-politico-media-ban"
-  ],
-  [
-    "united",
     19,
-    "https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html"
+    "https://www.theguardian.com/commentisfree/2026/sep/24/women-conservatives-male-domination"
   ],
   [
-    "states",
+    "media",
+    19,
+    "https://www.theguardian.com/stage/2026/sep/24/stranger-things-gaten-matarazzo-rent-tom-stoppard-theatre"
+  ],
+  [
+    "game",
+    19,
+    "https://www.theguardian.com/games/2026/sep/24/meet-the-real-life-pokemon-professors-the-unsung-heroes-of-competitive-monster-battling"
+  ],
+  [
+    "minister",
     18,
-    "https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html"
-  ],
-  [
-    "death",
-    18,
-    "https://www.nytimes.com/2026/09/23/arts/television/hayden-panettiere-death-cause-fentanyl-overdose.html"
-  ],
-  [
-    "politico",
-    17,
-    "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html"
-  ],
-  [
-    "experts",
-    17,
-    "https://www.nytimes.com/2026/09/23/us/politics/polls-us-china-trump-xi.html"
-  ],
-  [
-    "country",
-    17,
-    "https://www.nytimes.com/2026/09/23/us/politics/trump-putin-g20-summit.html"
-  ],
-  [
-    "suicide",
-    17,
-    "https://www.nytimes.com/2026/09/23/us/politics/uss-lincoln-attempted-suicides.html"
-  ],
-  [
-    "night",
-    17,
-    "https://www.theguardian.com/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race"
-  ],
-  [
-    "don",
-    17,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/24/lesley-manville-interview-mum-marble-hall-mysteries-oedipus-liaisons"
+    "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
   ],
   [
     "sea",
-    16,
+    18,
     "https://www.nytimes.com/2026/09/23/us/politics/uss-lincoln-attempted-suicides.html"
+  ],
+  [
+    "season",
+    18,
+    "https://www.washingtonpost.com/weather/2026/09/23/tropical-storm-nolo-tracker-map-projected-storm-path/"
+  ],
+  [
+    "chinese",
+    18,
+    "https://www.washingtonpost.com/nation/2026/09/22/senate-armed-services-committee-chair-criticizes-trump-xi-meeting/"
+  ],
+  [
+    "senate",
+    17,
+    "https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html"
+  ],
+  [
+    "film",
+    17,
+    "https://www.theguardian.com/film/2026/sep/24/oscar-movie-contenders-predictions"
+  ],
+  [
+    "something",
+    17,
+    "https://www.theguardian.com/film/2026/sep/24/oscar-movie-contenders-predictions"
+  ],
+  [
+    "donald",
+    17,
+    "https://www.theguardian.com/us-news/2026/sep/24/democrats-doj-gautam-adani"
+  ],
+  [
+    "review",
+    17,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/24/the-real-rooneys-review-wayne-and-coleen-reality-show"
+  ],
+  [
+    "ban",
+    16,
+    "https://www.nytimes.com/2026/09/24/podcasts/the-headlines/trump-ban-press-ai-health-care-costs.html"
   ],
   [
     "health",
     16,
-    "https://www.nytimes.com/2026/09/23/world/asia/australia-investigates-openai-hack-on-public-health-care-site.html"
+    "https://www.nytimes.com/2026/09/24/podcasts/the-headlines/trump-ban-press-ai-health-care-costs.html"
   ],
   [
-    "died",
+    "politico",
     16,
-    "https://www.nytimes.com/2026/09/23/arts/television/hayden-panettiere-death-cause-fentanyl-overdose.html"
-  ],
-  [
-    "american",
-    16,
-    "https://www.washingtonpost.com/education/2026/09/24/good-schools-fuel-american-dream-both-are-out-reach-poll-shows/"
-  ],
-  [
-    "season",
-    16,
-    "https://www.washingtonpost.com/weather/2026/09/23/tropical-storm-nolo-tracker-map-projected-storm-path/"
-  ],
-  [
-    "game",
-    16,
-    "https://www.theguardian.com/football/2026/sep/23/harry-kane-england-world-cup-argentina-nations-league-spain"
-  ],
-  [
-    "cnn",
-    15,
     "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html"
   ],
   [
-    "young",
+    "republicans",
+    16,
+    "https://www.nytimes.com/2026/09/24/us/politics/trump-republicans-midterms-break.html"
+  ],
+  [
+    "united",
+    16,
+    "https://www.nytimes.com/2026/09/24/briefing/united-nations-general-assembly.html"
+  ],
+  [
+    "children",
+    16,
+    "https://www.washingtonpost.com/health/2026/09/23/states-can-soon-order-covid-vaccines-low-income-children-after-delay/"
+  ],
+  [
+    "trump's",
+    16,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "likely",
+    16,
+    "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates"
+  ],
+  [
+    "jinping",
+    16,
+    "https://www.theguardian.com/world/2026/sep/23/trump-xi-summit-us-china-ai-trade-taiwan-climate"
+  ],
+  [
+    "political",
     15,
-    "https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html"
+    "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
   ],
   [
     "attempted",
@@ -186,39 +186,114 @@
     "https://www.nytimes.com/2026/09/23/us/politics/uss-lincoln-attempted-suicides.html"
   ],
   [
-    "university",
+    "suicide",
     15,
-    "https://www.washingtonpost.com/education/2026/09/23/nine-months-200-academic-papers-one-professors-ai-assisted-output/"
+    "https://www.nytimes.com/2026/09/23/us/politics/uss-lincoln-attempted-suicides.html"
+  ],
+  [
+    "america",
+    15,
+    "https://www.nytimes.com/2026/09/24/world/americas/brazil-supreme-court-justice-moraes-vorcaro-trump.html"
+  ],
+  [
+    "assembly",
+    15,
+    "https://www.nytimes.com/2026/09/24/briefing/united-nations-general-assembly.html"
+  ],
+  [
+    "texas",
+    15,
+    "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html"
+  ],
+  [
+    "early",
+    15,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "family",
+    15,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/24/7-eleven-circle-k-convenience-stores-overcharge"
+  ],
+  [
+    "climate",
+    15,
+    "https://www.theguardian.com/world/2026/sep/23/trump-xi-summit-us-china-ai-trade-taiwan-climate"
   ],
   [
     "global",
-    15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "general",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/sep/23/trump-un-speech-delusional-dangerous"
-  ],
-  [
-    "jinping",
     14,
-    "https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html"
+    "https://www.nytimes.com/2026/09/24/business/russia-sanctions-evasion-a7.html"
   ],
   [
-    "leader",
+    "series",
     14,
-    "https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html"
+    "https://www.nytimes.com/2026/09/24/world/europe/russia-europe-warning-ukraine-war.html"
   ],
   [
-    "political",
+    "cnn",
     14,
-    "https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html"
+    "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html"
   ],
   [
-    "strike",
+    "israel",
     14,
-    "https://www.nytimes.com/2026/09/23/us/politics/uss-lincoln-attempted-suicides.html"
+    "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
+  ],
+  [
+    "prices",
+    14,
+    "https://www.nytimes.com/2026/09/24/business/oil-bonds-stocks-prices.html"
+  ],
+  [
+    "again",
+    14,
+    "https://www.nytimes.com/2026/09/24/opinion/interesting-times-sarah-isgur-rick-pildes.html"
+  ],
+  [
+    "start",
+    14,
+    "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html"
+  ],
+  [
+    "administration",
+    14,
+    "https://www.washingtonpost.com/health/2026/09/24/one-blood-test-could-screen-you-50-cancers-heres-why-its-controversial/"
+  ],
+  [
+    "american",
+    14,
+    "https://www.washingtonpost.com/education/2026/09/24/good-schools-fuel-american-dream-both-are-out-reach-poll-shows/"
+  ],
+  [
+    "poll",
+    14,
+    "https://www.washingtonpost.com/education/2026/09/24/good-schools-fuel-american-dream-both-are-out-reach-poll-shows/"
+  ],
+  [
+    "west",
+    14,
+    "https://www.washingtonpost.com/nation/2026/09/23/sea-turtle-nests-historic-first-southern-california-coast/"
+  ],
+  [
+    "university",
+    14,
+    "https://www.washingtonpost.com/education/2026/09/23/nine-months-200-academic-papers-one-professors-ai-assisted-output/"
+  ],
+  [
+    "questions",
+    14,
+    "https://www.washingtonpost.com/education/2026/09/23/nine-months-200-academic-papers-one-professors-ai-assisted-output/"
+  ],
+  [
+    "black",
+    14,
+    "https://www.washingtonpost.com/nation/2026/09/22/grand-jury-finds-insufficient-evidence-crime-nolan-wellss-death/"
+  ],
+  [
+    "summer",
+    14,
+    "https://www.washingtonpost.com/nation/2026/09/22/lightning-claims-lives-florida-experts-warn-supercharged-activity/"
   ],
   [
     "gaza",
@@ -226,153 +301,78 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "million",
-    14,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
     "red",
     14,
     "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "review",
+    "country",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/24/the-real-rooneys-review-wayne-and-coleen-reality-show"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "republicans",
-    13,
-    "https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html"
+    "sex",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/sep/24/women-conservatives-male-domination"
   ],
   [
-    "summit",
-    13,
-    "https://www.nytimes.com/2026/09/23/us/politics/trump-putin-g20-summit.html"
+    "green",
+    14,
+    "https://www.theguardian.com/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race"
   ],
   [
-    "leaders",
-    13,
-    "https://www.nytimes.com/2026/09/23/us/politics/trump-putin-g20-summit.html"
+    "expected",
+    14,
+    "https://www.theguardian.com/world/live/2026/sep/24/netanyahu-mamdani-abbas-trump-unga-un-general-assembly-speech-new-york-israel-palestine-latest-updates"
   ],
   [
-    "navy",
-    13,
-    "https://www.nytimes.com/2026/09/23/us/politics/uss-lincoln-attempted-suicides.html"
-  ],
-  [
-    "chinese",
-    13,
-    "https://www.washingtonpost.com/nation/2026/09/22/senate-armed-services-committee-chair-criticizes-trump-xi-meeting/"
-  ],
-  [
-    "trump's",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "london",
-    13,
+    "don",
+    14,
     "https://www.theguardian.com/tv-and-radio/2026/sep/24/lesley-manville-interview-mum-marble-hall-mysteries-oedipus-liaisons"
   ],
   [
-    "donald",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/sep/23/trump-un-speech-delusional-dangerous"
+    "packers",
+    14,
+    "https://www.foxnews.com/outkick-betting/caesars-sportsbook-promo-code-foxnewsdyw-double-your-winnings-when-you-bet-1-packers-falcons"
   ],
   [
-    "park",
-    13,
-    "https://www.theguardian.com/music/2026/sep/23/justin-bieber-macarthur-park-los-angeles"
-  ],
-  [
-    "full",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/sep/23/the-guardian-view-on-the-future-of-the-un-more-embattled-but-more-necessary-than-ever"
-  ],
-  [
-    "family",
-    13,
-    "https://www.theguardian.com/environment/2026/sep/23/bats-originated-in-europe-disease-study-reveals-aoe"
+    "falcons",
+    14,
+    "https://www.foxnews.com/outkick-betting/caesars-sportsbook-promo-code-foxnewsdyw-double-your-winnings-when-you-bet-1-packers-falcons"
   ],
   [
     "order",
-    12,
+    13,
     "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html"
   ],
   [
-    "washington",
-    12,
-    "https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html"
+    "netanyahu",
+    13,
+    "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
+  ],
+  [
+    "election",
+    13,
+    "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
   ],
   [
     "democrats",
-    12,
+    13,
     "https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html"
-  ],
-  [
-    "republican",
-    12,
-    "https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html"
-  ],
-  [
-    "money",
-    12,
-    "https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html"
   ],
   [
     "because",
-    12,
+    13,
     "https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html"
   ],
   [
-    "start",
-    12,
-    "https://www.nytimes.com/2026/09/23/us/politics/trump-aides-iran-talks.html"
+    "living",
+    13,
+    "https://www.nytimes.com/2026/09/24/arts/television/desi-lydic-doesnt-think-we-need-any-more-melania.html"
   ],
   [
-    "lincoln",
-    12,
-    "https://www.nytimes.com/2026/09/23/us/politics/uss-lincoln-attempted-suicides.html"
-  ],
-  [
-    "action",
-    12,
-    "https://www.nytimes.com/2026/09/23/world/asia/australia-investigates-openai-hack-on-public-health-care-site.html"
-  ],
-  [
-    "children",
-    12,
+    "access",
+    13,
     "https://www.washingtonpost.com/health/2026/09/23/states-can-soon-order-covid-vaccines-low-income-children-after-delay/"
-  ],
-  [
-    "record",
-    12,
-    "https://www.washingtonpost.com/nation/2026/09/23/sea-turtle-nests-historic-first-southern-california-coast/"
-  ],
-  [
-    "deaths",
-    12,
-    "https://www.washingtonpost.com/nation/2026/09/23/camp-mystic-owners-face-homicide-investigation-over-flooding-deaths/"
-  ],
-  [
-    "lives",
-    12,
-    "https://www.washingtonpost.com/nation/2026/09/22/lightning-claims-lives-florida-experts-warn-supercharged-activity/"
-  ],
-  [
-    "rising",
-    12,
-    "https://www.washingtonpost.com/nation/2026/09/22/bear-encounters-are-rising-across-united-states-heres-why/"
-  ],
-  [
-    "latest",
-    12,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "something",
-    12,
-    "https://www.theguardian.com/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race"
   ]
 ];
