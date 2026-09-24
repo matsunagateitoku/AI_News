@@ -2,158 +2,193 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    105,
-    "https://www.nytimes.com/2026/09/24/podcasts/the-headlines/trump-ban-press-ai-health-care-costs.html"
+    87,
+    "https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html"
   ],
   [
     "president",
-    64,
+    39,
     "https://www.nytimes.com/2026/09/24/world/europe/russia-europe-warning-ukraine-war.html"
   ],
   [
-    "judge",
-    26,
-    "https://www.nytimes.com/2026/09/24/podcasts/the-headlines/trump-ban-press-ai-health-care-costs.html"
-  ],
-  [
     "york",
-    25,
+    26,
     "https://www.nytimes.com/2026/09/24/nyregion/mamdani-netanyahu-un-general-assembly.html"
   ],
   [
     "war",
-    25,
-    "https://www.nytimes.com/2026/09/24/nyregion/mamdani-netanyahu-un-general-assembly.html"
-  ],
-  [
-    "night",
-    25,
-    "https://www.theguardian.com/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race"
-  ],
-  [
-    "iran",
     24,
-    "https://www.washingtonpost.com/politics/2026/09/22/pentagon-adds-one-death-tally-troop-fatalities-amid-iran-war/"
+    "https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html"
   ],
   [
-    "food",
-    23,
-    "https://www.washingtonpost.com/health/2026/09/24/one-blood-test-could-screen-you-50-cancers-heres-why-its-controversial/"
+    "ban",
+    21,
+    "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates"
+  ],
+  [
+    "texas",
+    20,
+    "https://www.nytimes.com/2026/09/24/us/politics/south-asian-indian-american-racism.html"
   ],
   [
     "california",
-    22,
+    20,
     "https://www.washingtonpost.com/business/2026/09/24/chart-that-inspired-californias-billionaire-tax-campaign/"
   ],
   [
-    "prime",
+    "don",
     20,
+    "https://www.theguardian.com/thefilter-us/2026/sep/24/best-earplugs-reusable-disposable-concerts-sleep"
+  ],
+  [
+    "administration",
+    19,
+    "https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html"
+  ],
+  [
+    "political",
+    19,
     "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
   ],
   [
-    "general",
-    20,
-    "https://www.nytimes.com/2026/09/24/briefing/united-nations-general-assembly.html"
+    "series",
+    19,
+    "https://www.nytimes.com/2026/09/24/world/europe/russia-europe-warning-ukraine-war.html"
   ],
   [
-    "china",
-    20,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "american",
+    19,
+    "https://www.washingtonpost.com/education/2026/09/24/good-schools-fuel-american-dream-both-are-out-reach-poll-shows/"
   ],
   [
-    "crisis",
-    20,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "access",
+    19,
+    "https://www.washingtonpost.com/health/2026/09/23/states-can-soon-order-covid-vaccines-low-income-children-after-delay/"
   ],
   [
-    "star",
-    20,
-    "https://www.theguardian.com/stage/2026/sep/24/stranger-things-gaten-matarazzo-rent-tom-stoppard-theatre"
+    "season",
+    19,
+    "https://www.washingtonpost.com/weather/2026/09/23/tropical-storm-nolo-tracker-map-projected-storm-path/"
   ],
   [
-    "book",
+    "country",
+    19,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "something",
+    19,
+    "https://www.theguardian.com/sport/2026/sep/24/team-moms-baseball-kim-kardashian-paramount-youth-sports"
+  ],
+  [
+    "family",
+    19,
+    "https://www.theguardian.com/sport/2026/sep/24/team-moms-baseball-kim-kardashian-paramount-youth-sports"
+  ],
+  [
+    "young",
     19,
     "https://www.theguardian.com/commentisfree/2026/sep/24/women-conservatives-male-domination"
   ],
   [
-    "media",
-    19,
-    "https://www.theguardian.com/stage/2026/sep/24/stranger-things-gaten-matarazzo-rent-tom-stoppard-theatre"
-  ],
-  [
-    "game",
-    19,
-    "https://www.theguardian.com/games/2026/sep/24/meet-the-real-life-pokemon-professors-the-unsung-heroes-of-competitive-monster-battling"
-  ],
-  [
-    "minister",
-    18,
-    "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
-  ],
-  [
-    "sea",
-    18,
-    "https://www.nytimes.com/2026/09/23/us/politics/uss-lincoln-attempted-suicides.html"
-  ],
-  [
-    "season",
-    18,
-    "https://www.washingtonpost.com/weather/2026/09/23/tropical-storm-nolo-tracker-map-projected-storm-path/"
-  ],
-  [
     "chinese",
+    18,
+    "https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html"
+  ],
+  [
+    "prices",
+    18,
+    "https://www.nytimes.com/2026/09/24/business/oil-bonds-stocks-prices.html"
+  ],
+  [
+    "food",
+    18,
+    "https://www.washingtonpost.com/health/2026/09/24/one-blood-test-could-screen-you-50-cancers-heres-why-its-controversial/"
+  ],
+  [
+    "senate",
     18,
     "https://www.washingtonpost.com/nation/2026/09/22/senate-armed-services-committee-chair-criticizes-trump-xi-meeting/"
   ],
   [
-    "senate",
+    "night",
+    18,
+    "https://www.theguardian.com/world/2026/sep/24/greenland-trump-us-security-agreement-relief"
+  ],
+  [
+    "rates",
     17,
-    "https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html"
+    "https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html"
   ],
   [
-    "film",
+    "iran",
     17,
-    "https://www.theguardian.com/film/2026/sep/24/oscar-movie-contenders-predictions"
+    "https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html"
   ],
   [
-    "something",
+    "latest",
     17,
-    "https://www.theguardian.com/film/2026/sep/24/oscar-movie-contenders-predictions"
+    "https://www.nytimes.com/2026/09/24/us/politics/nevada-voters-homeland-security-trump.html"
   ],
   [
-    "donald",
+    "media",
     17,
-    "https://www.theguardian.com/us-news/2026/sep/24/democrats-doj-gautam-adani"
+    "https://www.nytimes.com/2026/09/24/us/politics/south-asian-indian-american-racism.html"
   ],
   [
-    "review",
+    "little",
     17,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/24/the-real-rooneys-review-wayne-and-coleen-reality-show"
+    "https://www.nytimes.com/2026/09/24/us/san-francisco-ai-satire-artificial-intelligence.html"
   ],
   [
-    "ban",
-    16,
-    "https://www.nytimes.com/2026/09/24/podcasts/the-headlines/trump-ban-press-ai-health-care-costs.html"
+    "record",
+    17,
+    "https://www.washingtonpost.com/nation/2026/09/23/sea-turtle-nests-historic-first-southern-california-coast/"
   ],
   [
-    "health",
-    16,
-    "https://www.nytimes.com/2026/09/24/podcasts/the-headlines/trump-ban-press-ai-health-care-costs.html"
+    "judge",
+    17,
+    "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates"
   ],
   [
-    "politico",
-    16,
-    "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html"
+    "likely",
+    17,
+    "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates"
   ],
   [
-    "republicans",
-    16,
-    "https://www.nytimes.com/2026/09/24/us/politics/trump-republicans-midterms-break.html"
+    "friends",
+    17,
+    "https://www.theguardian.com/music/2026/sep/24/macklemore-free-palestine-tour-ed-sheeran"
   ],
   [
-    "united",
+    "prime",
     16,
-    "https://www.nytimes.com/2026/09/24/briefing/united-nations-general-assembly.html"
+    "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
+  ],
+  [
+    "minister",
+    16,
+    "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
+  ],
+  [
+    "election",
+    16,
+    "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
+  ],
+  [
+    "questions",
+    16,
+    "https://www.nytimes.com/2026/09/24/style/ex-tradwife-influencer-bernadine-bluntly.html"
+  ],
+  [
+    "living",
+    16,
+    "https://www.nytimes.com/2026/09/24/style/ex-tradwife-influencer-bernadine-bluntly.html"
+  ],
+  [
+    "america",
+    16,
+    "https://www.nytimes.com/2026/09/24/opinion/trump-xi-washington-summit.html"
   ],
   [
     "children",
@@ -161,109 +196,124 @@
     "https://www.washingtonpost.com/health/2026/09/23/states-can-soon-order-covid-vaccines-low-income-children-after-delay/"
   ],
   [
-    "trump's",
+    "album",
     16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/culture/2026/sep/24/the-chicks-20-greatest-songs-ranked"
   ],
   [
-    "likely",
+    "donald",
     16,
-    "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates"
+    "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap"
   ],
   [
-    "jinping",
+    "voters",
     16,
-    "https://www.theguardian.com/world/2026/sep/23/trump-xi-summit-us-china-ai-trade-taiwan-climate"
+    "https://www.theguardian.com/us-news/2026/sep/24/gavin-newsom-interview-trump-aoc"
   ],
   [
-    "political",
-    15,
-    "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
+    "review",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/24/a-different-world-review"
   ],
   [
-    "attempted",
-    15,
-    "https://www.nytimes.com/2026/09/23/us/politics/uss-lincoln-attempted-suicides.html"
+    "game",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/23/brothers-review-woody-harrelson-and-matthew-mcconaugheys-super-fun-sitcom-about-the-chance-theyre-related"
   ],
   [
-    "suicide",
-    15,
-    "https://www.nytimes.com/2026/09/23/us/politics/uss-lincoln-attempted-suicides.html"
+    "cbs",
+    16,
+    "https://www.latimes.com/entertainment-arts/business/story/2026-09-22/editorial-board-will-oversee-cnn-cbs-news-what-does-that-mean"
   ],
   [
-    "america",
+    "states",
     15,
-    "https://www.nytimes.com/2026/09/24/world/americas/brazil-supreme-court-justice-moraes-vorcaro-trump.html"
+    "https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html"
   ],
   [
-    "assembly",
+    "israeli",
     15,
-    "https://www.nytimes.com/2026/09/24/briefing/united-nations-general-assembly.html"
+    "https://www.nytimes.com/2026/09/24/nyregion/mamdani-netanyahu-un-general-assembly.html"
   ],
   [
-    "texas",
+    "despite",
     15,
-    "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html"
+    "https://www.nytimes.com/2026/09/24/us/politics/nevada-voters-homeland-security-trump.html"
   ],
   [
-    "early",
+    "feel",
     15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/09/24/world/canada/carney-economy-trade-war.html"
   ],
   [
-    "family",
+    "announced",
     15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/24/7-eleven-circle-k-convenience-stores-overcharge"
-  ],
-  [
-    "climate",
-    15,
-    "https://www.theguardian.com/world/2026/sep/23/trump-xi-summit-us-china-ai-trade-taiwan-climate"
+    "https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html"
   ],
   [
     "global",
+    15,
+    "https://www.nytimes.com/2026/09/24/business/russia-sanctions-evasion-a7.html"
+  ],
+  [
+    "west",
+    15,
+    "https://www.nytimes.com/2026/09/24/world/middleeast/israel-ambassador-leiter-son-west-bank-attack.html"
+  ],
+  [
+    "sea",
+    15,
+    "https://www.washingtonpost.com/nation/2026/09/23/sea-turtle-nests-historic-first-southern-california-coast/"
+  ],
+  [
+    "parents",
+    15,
+    "https://www.washingtonpost.com/politics/2026/09/22/justice-kagan-rules-against-surrogate-mother-who-refused-get-abortion/"
+  ],
+  [
+    "crisis",
+    15,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "fall",
+    15,
+    "https://www.theguardian.com/film/2026/sep/24/oscar-movie-contenders-predictions"
+  ],
+  [
+    "star",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/24/lesley-manville-interview-mum-marble-hall-mysteries-oedipus-liaisons"
+  ],
+  [
+    "music",
+    15,
+    "https://www.theguardian.com/music/2026/sep/22/steve-reich-turns-90-interview"
+  ],
+  [
+    "united",
+    14,
+    "https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html"
+  ],
+  [
+    "enough",
+    14,
+    "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html"
+  ],
+  [
+    "russia",
     14,
     "https://www.nytimes.com/2026/09/24/business/russia-sanctions-evasion-a7.html"
   ],
   [
-    "series",
+    "general",
     14,
-    "https://www.nytimes.com/2026/09/24/world/europe/russia-europe-warning-ukraine-war.html"
+    "https://www.nytimes.com/2026/09/24/briefing/united-nations-general-assembly.html"
   ],
   [
-    "cnn",
+    "case",
     14,
-    "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html"
-  ],
-  [
-    "israel",
-    14,
-    "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
-  ],
-  [
-    "prices",
-    14,
-    "https://www.nytimes.com/2026/09/24/business/oil-bonds-stocks-prices.html"
-  ],
-  [
-    "again",
-    14,
-    "https://www.nytimes.com/2026/09/24/opinion/interesting-times-sarah-isgur-rick-pildes.html"
-  ],
-  [
-    "start",
-    14,
-    "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html"
-  ],
-  [
-    "administration",
-    14,
-    "https://www.washingtonpost.com/health/2026/09/24/one-blood-test-could-screen-you-50-cancers-heres-why-its-controversial/"
-  ],
-  [
-    "american",
-    14,
-    "https://www.washingtonpost.com/education/2026/09/24/good-schools-fuel-american-dream-both-are-out-reach-poll-shows/"
+    "https://www.washingtonpost.com/investigations/2026/09/24/former-virginia-youth-minister-jeff-taylor-pleads-not-guilty-sex-abuse-case/"
   ],
   [
     "poll",
@@ -271,108 +321,58 @@
     "https://www.washingtonpost.com/education/2026/09/24/good-schools-fuel-american-dream-both-are-out-reach-poll-shows/"
   ],
   [
-    "west",
-    14,
-    "https://www.washingtonpost.com/nation/2026/09/23/sea-turtle-nests-historic-first-southern-california-coast/"
-  ],
-  [
-    "university",
-    14,
-    "https://www.washingtonpost.com/education/2026/09/23/nine-months-200-academic-papers-one-professors-ai-assisted-output/"
-  ],
-  [
-    "questions",
-    14,
-    "https://www.washingtonpost.com/education/2026/09/23/nine-months-200-academic-papers-one-professors-ai-assisted-output/"
-  ],
-  [
-    "black",
-    14,
-    "https://www.washingtonpost.com/nation/2026/09/22/grand-jury-finds-insufficient-evidence-crime-nolan-wellss-death/"
-  ],
-  [
-    "summer",
-    14,
-    "https://www.washingtonpost.com/nation/2026/09/22/lightning-claims-lives-florida-experts-warn-supercharged-activity/"
-  ],
-  [
     "gaza",
     14,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "red",
+    "team",
     14,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "country",
+    "hard",
     14,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/sport/2026/sep/24/team-moms-baseball-kim-kardashian-paramount-youth-sports"
   ],
   [
-    "sex",
+    "guide",
     14,
-    "https://www.theguardian.com/commentisfree/2026/sep/24/women-conservatives-male-domination"
+    "https://www.theguardian.com/thefilter-us/2026/sep/24/best-earplugs-reusable-disposable-concerts-sleep"
   ],
   [
-    "green",
+    "again",
     14,
-    "https://www.theguardian.com/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race"
-  ],
-  [
-    "expected",
-    14,
-    "https://www.theguardian.com/world/live/2026/sep/24/netanyahu-mamdani-abbas-trump-unga-un-general-assembly-speech-new-york-israel-palestine-latest-updates"
-  ],
-  [
-    "don",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/24/lesley-manville-interview-mum-marble-hall-mysteries-oedipus-liaisons"
-  ],
-  [
-    "packers",
-    14,
-    "https://www.foxnews.com/outkick-betting/caesars-sportsbook-promo-code-foxnewsdyw-double-your-winnings-when-you-bet-1-packers-falcons"
-  ],
-  [
-    "falcons",
-    14,
-    "https://www.foxnews.com/outkick-betting/caesars-sportsbook-promo-code-foxnewsdyw-double-your-winnings-when-you-bet-1-packers-falcons"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/24/streaming-services-inflation-ads"
   ],
   [
     "order",
-    13,
-    "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html"
+    14,
+    "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates"
   ],
   [
-    "netanyahu",
-    13,
-    "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
+    "health",
+    14,
+    "https://www.theguardian.com/us-news/2026/sep/24/fda-heidi-overton-measles-mmr-vaccine"
   ],
   [
-    "election",
+    "sex",
     13,
-    "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html"
+    "https://www.washingtonpost.com/investigations/2026/09/24/former-virginia-youth-minister-jeff-taylor-pleads-not-guilty-sex-abuse-case/"
   ],
   [
-    "democrats",
+    "coast",
     13,
-    "https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html"
+    "https://www.washingtonpost.com/nation/2026/09/23/sea-turtle-nests-historic-first-southern-california-coast/"
   ],
   [
-    "because",
+    "start",
     13,
-    "https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "living",
+    "full",
     13,
-    "https://www.nytimes.com/2026/09/24/arts/television/desi-lydic-doesnt-think-we-need-any-more-melania.html"
-  ],
-  [
-    "access",
-    13,
-    "https://www.washingtonpost.com/health/2026/09/23/states-can-soon-order-covid-vaccines-low-income-children-after-delay/"
+    "https://www.theguardian.com/sport/2026/sep/24/team-moms-baseball-kim-kardashian-paramount-youth-sports"
   ]
 ];

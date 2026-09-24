@@ -3,206 +3,156 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 51,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/24/women-conservatives-male-domination",
+      "count": 60,
+      "url": "https://www.theguardian.com/sport/2026/sep/24/team-moms-baseball-kim-kardashian-paramount-youth-sports",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 24,
+      "count": 19,
       "url": "https://www.washingtonpost.com/business/2026/09/24/chart-that-inspired-californias-billionaire-tax-campaign/",
       "source": "Washington Post"
     },
     {
       "name": "China",
-      "count": 23,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "U.S.",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/09/24/podcasts/the-headlines/trump-ban-press-ai-health-care-costs.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City",
-      "count": 21,
-      "url": "https://www.theguardian.com/environment/2026/sep/23/elmo-new-york-climate-week-sesame-street-storm",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 20,
-      "url": "https://www.theguardian.com/world/live/2026/sep/24/netanyahu-mamdani-abbas-trump-unga-un-general-assembly-speech-new-york-israel-palestine-latest-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html",
       "source": "NY Times"
     },
     {
       "name": "Texas",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/09/24/us/politics/south-asian-indian-american-racism.html",
       "source": "NY Times"
     },
     {
-      "name": "L.A. County",
+      "name": "New York City",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/sep/24/netanyahu-un-protests",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/09/24/world/middleeast/israel-ambassador-leiter-son-west-bank-attack.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Russia",
       "count": 13,
+      "url": "https://www.nytimes.com/2026/09/24/business/russia-sanctions-evasion-a7.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/24/west-freefall-warned-wealth-power",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County",
+      "count": 12,
       "url": "https://www.latimes.com/science/story/2026-02-24/officers-are-learning-to-respond-better-to-autistic-people-in-need",
       "source": "LA Times"
     },
     {
-      "name": "Russia",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/09/24/business/russia-sanctions-evasion-a7.html",
-      "source": "NY Times"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Target For Trump",
-      "count": 64,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "White House Ban",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ai",
-      "count": 15,
-      "url": "https://www.washingtonpost.com/education/2026/09/23/nine-months-200-academic-papers-one-professors-ai-assisted-output/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Un",
-      "count": 15,
-      "url": "https://www.theguardian.com/world/live/2026/sep/24/netanyahu-mamdani-abbas-trump-unga-un-general-assembly-speech-new-york-israel-palestine-latest-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cnn",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Senate Armed Services Committee",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/nation/2026/09/22/senate-armed-services-committee-chair-criticizes-trump-xi-meeting/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Guardian",
-      "count": 14,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/24/women-conservatives-male-domination",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Politico",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ms Now",
+      "name": "The United States",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html",
+      "url": "https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Gop",
-      "count": 10,
-      "url": "https://www.foxnews.com/politics/trump-xi-summit-could-hold-key-lower-gas-prices-gop-chairman-says",
-      "source": "Fox News"
     }
   ],
   "EVENT": [
     {
-      "name": "Iran War ‘",
-      "count": 4,
-      "url": "https://www.politico.com/news/2026/09/22/jon-husted-iran-war-quick-end-trump-01088614",
-      "source": "Politico"
+      "name": "Iran War Fallout Crushes",
+      "count": 3,
+      "url": "https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Asian Games",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/sep/24/shin-ohashi-japan-covid-fever-swimming-breaststroke-world-record-asian-games",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Decision Day",
+      "count": 2,
+      "url": "https://www.nbcnews.com/meet-the-press/video/-fed-up-with-a-war-they-didn-t-want-midwestern-voters-air-frustrations-impacting-the-midterms-268551237711",
+      "source": "NBC News"
+    },
+    {
+      "name": "Tariff War With Canada",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/09/24/business/canada-goose-tariffs-trade-war.html",
+      "source": "NY Times"
     },
     {
       "name": "World Cup",
-      "count": 3,
+      "count": 1,
       "url": "https://www.theguardian.com/football/2026/sep/24/the-system-not-tuchel-led-to-world-cup-failure-but-euro-2028-offers-new-hope",
       "source": "The Guardian"
     },
     {
-      "name": "Climate Week",
-      "count": 2,
-      "url": "https://www.theguardian.com/environment/2026/sep/23/elmo-new-york-climate-week-sesame-street-storm",
+      "name": "4Ad/Remote Control Records",
+      "count": 1,
+      "url": "https://www.theguardian.com/music/2026/sep/25/australian-musician-julia-jacklin-fourth-album-the-gem-review",
       "source": "The Guardian"
     },
     {
-      "name": "The Presidents Cup",
-      "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/team-usa-golfers-welcome-trumps-expected-presidents-cup-visit-share-pride-representing-america",
+      "name": "Game 1",
+      "count": 1,
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-09-24/dodgers-varsity-postseason",
+      "source": "LA Times"
+    },
+    {
+      "name": "Nfl Week 3",
+      "count": 1,
+      "url": "https://www.foxnews.com/outkick-betting/falcons-packers-searching-answers-thursday-night-football-nfl-week-3",
       "source": "Fox News"
     },
     {
-      "name": "Hurricane Polo",
+      "name": "Rare September Nor’Easter",
       "count": 1,
-      "url": "https://www.cbsnews.com/news/hurricane-polo-category-5-mexico-life-threatening-flooding/",
-      "source": "CBS News"
+      "url": "https://www.nbcnews.com/weather/storms/rare-september-noreaster-set-to-slam-east-coast-rcna599592",
+      "source": "NBC News"
     },
     {
-      "name": "Congressional Women’S Softball Game",
+      "name": "Iran War ‘",
       "count": 1,
-      "url": "https://thehill.com/blogs/in-the-know/6107929-press-corps-wins-congressional-softball-game/",
-      "source": "The Hill"
+      "url": "https://www.politico.com/news/2026/09/22/jon-husted-iran-war-quick-end-trump-01088614",
+      "source": "Politico"
     }
   ],
   "PERSON": [
     {
-      "name": "Blocks Trump",
-      "count": 27,
-      "url": "https://www.nytimes.com/2026/09/24/podcasts/the-headlines/trump-ban-press-ai-health-care-costs.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Xi Jinping At Joint Base Andrews",
-      "count": 25,
-      "url": "https://www.cbsnews.com/video/examining-china-iran-relations-amid-trump-xi-summit/",
-      "source": "CBS News"
-    },
-    {
       "name": "Donald Trump",
+      "count": 17,
+      "url": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump Jr",
       "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/sep/24/democrats-doj-gautam-adani",
+      "url": "https://www.theguardian.com/world/2026/sep/24/greenland-trump-us-security-agreement-relief",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Xi Jinping",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
       "source": "The Guardian"
     },
     {
       "name": "Benjamin Netanyahu",
-      "count": 12,
+      "count": 10,
       "url": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html",
       "source": "NY Times"
     },
     {
-      "name": "Zohran Mamdani",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/09/24/nyregion/mamdani-netanyahu-un-general-assembly.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Mark Carney Interview",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/09/23/world/canada/mark-carney-canada-us-trump-tariffs.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Marco Cruz",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/24/7-eleven-circle-k-convenience-stores-overcharge",
+      "name": "Xi Jinping: ‘Not",
+      "count": 8,
+      "url": "https://www.theguardian.com/culture/2026/sep/24/seth-meyers-trump-praise-xi-jinping",
       "source": "The Guardian"
     },
     {
@@ -212,17 +162,91 @@
       "source": "The Guardian"
     },
     {
+      "name": "Marco Cruz",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/24/7-eleven-circle-k-convenience-stores-overcharge",
+      "source": "The Guardian"
+    },
+    {
       "name": "Coleen Rooney",
       "count": 5,
       "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/the-real-rooneys-review-wayne-and-coleen-reality-show",
       "source": "The Guardian"
     },
     {
-      "name": "Antonio Brown",
+      "name": "Steve Reich",
       "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/sep/23/former-nfl-star-antonio-brown-to-avoid-possibility-of-30-years-in-prison-with-plea-deal",
+      "url": "https://www.theguardian.com/music/2026/sep/22/steve-reich-turns-90-interview",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Xan Meo",
+      "count": 5,
+      "url": "https://www.theguardian.com/books/2026/sep/24/yellow-dog-by-martin-amis-review-bill-nighy-has-a-ball",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-09-24T12:38:18Z"
+  "ORG": [
+    {
+      "name": "Target For Trump",
+      "count": 56,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Ai",
+      "count": 28,
+      "url": "https://www.washingtonpost.com/education/2026/09/24/stanford-removes-ai-altered-photo-that-replaced-hispanic-student-with-black-woman/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "The White House",
+      "count": 24,
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Senate Armed Services Committee",
+      "count": 15,
+      "url": "https://www.washingtonpost.com/nation/2026/09/22/senate-armed-services-committee-chair-criticizes-trump-xi-meeting/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Guardian",
+      "count": 12,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/24/women-conservatives-male-domination",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cnn",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Un",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/sep/24/netanyahu-un-protests",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 9,
+      "url": "https://www.cbsnews.com/news/angie-nixon-dsa-florida-democratic-senate-nominee/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Team Congress",
+      "count": 9,
+      "url": "https://thehill.com/newsletters/1230-report/6109273-donald-trump-cnn-msnow-politico-media-ban-xi-jinping-gop-dems-polls/",
+      "source": "The Hill"
+    }
+  ],
+  "updated": "2026-09-24T17:48:11Z"
 };
