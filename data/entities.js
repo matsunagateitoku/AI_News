@@ -3,38 +3,32 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 35,
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/key-takeaways-trump-xi-summit-whitehouse-china-ai-trade",
+      "count": 22,
+      "url": "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Donald Trump ’S",
+      "count": 16,
+      "url": "https://www.theguardian.com/culture/2026/sep/25/jimmy-kimmel-recap-trump-white-house-media-ban",
       "source": "The Guardian"
+    },
+    {
+      "name": "Xi Jinping&Apos;S",
+      "count": 13,
+      "url": "https://www.foxnews.com/politics/xi-100k-invitation-young-americans-sets-off-alarm-bells-critics-warn-what-could-follow-them-home",
+      "source": "Fox News"
     },
     {
       "name": "Xi Jinping",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-press-pool-boycott-media.html",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/09/25/science/china-ai-distillation-copying.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Xi Jinping’S",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/key-takeaways-trump-xi-summit-whitehouse-china-ai-trade",
-      "source": "The Guardian"
     },
     {
       "name": "Benjamin Netanyahu",
       "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/24/protester-netanyahu-gaza-new-york-arrested",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Elon Musk",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Bill Gates",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
+      "url": "https://www.theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections",
       "source": "The Guardian"
     },
     {
@@ -44,9 +38,21 @@
       "source": "The Guardian"
     },
     {
-      "name": "Adolf Hitler",
+      "name": "Jay Jacobs",
+      "count": 6,
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/16/jay-jacobs-gets-his-first-ever-challenger-for-state-dem-chair-01080908",
+      "source": "Politico"
+    },
+    {
+      "name": "Bill Gates",
       "count": 5,
-      "url": "https://www.theguardian.com/sport/2026/sep/24/us-jockey-club-orders-racehorse-austrian-painter-to-be-renamed-due-to-hitler-reference",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Oscar",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/video/2026/sep/25/naza-official-trailer",
       "source": "The Guardian"
     },
     {
@@ -54,155 +60,167 @@
       "count": 5,
       "url": "https://www.theguardian.com/us-news/2026/sep/25/susan-sarandon-hannah-einbinder-arrested-anti-netanyahu-protest-new-york",
       "source": "The Guardian"
-    },
-    {
-      "name": "Coleen Rooney",
-      "count": 5,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/the-real-rooneys-review-wayne-and-coleen-reality-show",
-      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Hosts State Dinner",
-      "count": 63,
-      "url": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html",
+      "name": "Trump Accused China Of Election Meddling",
+      "count": 66,
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/trump-china-election-meddling.html",
       "source": "NY Times"
     },
     {
-      "name": "Ai Weiwei’S",
-      "count": 45,
-      "url": "https://www.theguardian.com/artanddesign/2026/sep/25/ai-weiwei-unveils-mushrooms-new-public-artwork-tallawoladah-lawn-sydney-mca",
-      "source": "The Guardian"
+      "name": "Ai",
+      "count": 39,
+      "url": "https://www.washingtonpost.com/education/2026/09/24/stanford-removes-ai-altered-photo-that-replaced-hispanic-student-with-black-woman/",
+      "source": "Washington Post"
     },
     {
-      "name": "Senate Memorandum",
-      "count": 22,
-      "url": "https://www.politico.com/f/?id=000001a0-cf7a-d2df-a1f4-ffffb2910000",
-      "source": "Politico"
-    },
-    {
-      "name": "Gop",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/sep/24/senate-war-powers-vote-fail",
-      "source": "The Guardian"
-    },
-    {
-      "name": "White House State Dinner",
-      "count": 12,
-      "url": "https://www.today.com/video/trump-hosts-china-s-xi-jinping-at-white-house-state-dinner-270516293579",
-      "source": "NBC News"
-    },
-    {
-      "name": "Nato",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "source": "Wall St. Journal"
+      "name": "The White House",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/09/24/us/politics/state-dinner-scene.html",
+      "source": "NY Times"
     },
     {
       "name": "Guardian Europe",
-      "count": 9,
+      "count": 15,
       "url": "https://www.theguardian.com/commentisfree/2026/sep/25/berlin-political-star-europe-hope-housing-germany",
       "source": "The Guardian"
     },
     {
+      "name": "Senate Memorandum",
+      "count": 14,
+      "url": "https://www.politico.com/f/?id=000001a0-cf7a-d2df-a1f4-ffffb2910000",
+      "source": "Politico"
+    },
+    {
+      "name": "Supreme Court Allows Expansive Federal Database",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-citizenship-voter-lists.html",
+      "source": "NY Times"
+    },
+    {
       "name": "The Filter Us",
-      "count": 9,
+      "count": 10,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "The California Supreme Court",
-      "count": 8,
-      "url": "https://www.cbsnews.com/news/california-supreme-court-riverside-county-chad-bianco-ballot-seizure-case/",
-      "source": "CBS News"
+      "name": "The Supreme Court",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/what-to-know-citizenship-database.html",
+      "source": "NY Times"
     },
     {
-      "name": "Pentagon",
-      "count": 7,
-      "url": "https://www.washingtonpost.com/politics/2026/09/22/pentagon-adds-one-death-tally-troop-fatalities-amid-iran-war/",
-      "source": "Washington Post"
+      "name": "Cnn",
+      "count": 8,
+      "url": "https://www.theguardian.com/media/2026/sep/25/trump-media-ban-white-house-pool",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gillette Stadium",
+      "count": 8,
+      "url": "https://www.latimes.com/entertainment-arts/music/story/2026-09-25/ed-sheeran-gillette-stadium-concerts-canceled",
+      "source": "LA Times"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 57,
+      "count": 56,
       "url": "https://www.nytimes.com/2026/09/25/magazine/why-we-cant-stop-predicting-the-apocalypse.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 29,
+      "count": 22,
       "url": "https://www.washingtonpost.com/nation/2026/09/25/small-california-town-is-sale-475-million/",
       "source": "Washington Post"
     },
     {
-      "name": "U.S.",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/09/24/us/trump-midterm-election-ad-government-funding.html",
+      "name": "Israel",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/09/25/world/middleeast/netanyahu-warning-oct-7-uae.html",
       "source": "NY Times"
     },
     {
-      "name": "The People&Apos;S Republic Of China",
-      "count": 22,
-      "url": "https://www.foxnews.com/opinion/china-taking-fight-stars-america-must-reclaim-space-supremacy",
-      "source": "Fox News"
+      "name": "China",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/trump-china-election-meddling.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 17,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
     },
     {
       "name": "New York City",
-      "count": 20,
+      "count": 14,
       "url": "https://www.theguardian.com/environment/2026/sep/25/extreme-heat-regulations-trump",
       "source": "The Guardian"
     },
     {
-      "name": "Iran",
-      "count": 19,
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/key-takeaways-trump-xi-summit-whitehouse-china-ai-trade",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ukraine",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/09/25/world/europe/ukraine-russia-economy.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County",
-      "count": 13,
-      "url": "https://www.latimes.com/science/story/2026-02-24/officers-are-learning-to-respond-better-to-autistic-people-in-need",
+      "name": "L.A. Here'S",
+      "count": 14,
+      "url": "https://www.latimes.com/delos/story/2026-09-15/dual-citizenship-how-to-los-angeles-mexican-consulate",
       "source": "LA Times"
     },
     {
-      "name": "Russia",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/09/25/world/europe/ukraine-russia-economy.html",
-      "source": "NY Times"
+      "name": "Iran",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
+      "source": "The Guardian"
     },
     {
       "name": "Texas",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/09/25/us/to-catch-a-predator-sting-texas-primetime-movie.html",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/sep/24/trump-midterms-tv-media-ban-economy",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Washington",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/09/25/science/china-ai-distillation-copying.html",
       "source": "NY Times"
     }
   ],
   "EVENT": [
     {
-      "name": "Hurricane Polo Barrels",
+      "name": "Hurricane Nolo",
       "count": 4,
-      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
+      "source": "NPR"
+    },
+    {
+      "name": "The Vietnam War",
+      "count": 3,
+      "url": "https://www.washingtonpost.com/obituaries/2026/09/25/charles-trueheart-post-reporter-author-who-could-do-it-all-dies-75/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "’S World Cup",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/2026/sep/25/pochettino-balogun-comments",
       "source": "The Guardian"
     },
     {
       "name": "The Iran War",
-      "count": 4,
-      "url": "https://www.nbcnews.com/business/economy/us-economy-iran-war-five-charts-rcna598412",
+      "count": 2,
+      "url": "https://www.cbsnews.com/video/us-is-ready-to-help-cuba-state-department-spokesperson-says-amid-internal-army-memo/",
+      "source": "CBS News"
+    },
+    {
+      "name": "September Nor’Easter",
+      "count": 2,
+      "url": "https://www.nbcnews.com/now/video/flood-alerts-double-for-33-million-as-rare-september-nor-easter-nears-270540869777",
       "source": "NBC News"
     },
     {
-      "name": "’S World Cup",
-      "count": 3,
-      "url": "https://www.theguardian.com/football/2026/sep/25/pochettino-balogun-comments",
+      "name": "Series",
+      "count": 1,
+      "url": "https://www.theguardian.com/science/2026/sep/25/nasa-telescope-rescue-mission-fails",
       "source": "The Guardian"
     },
     {
@@ -212,16 +230,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Us War",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/sep/24/senate-war-powers-vote-fail",
-      "source": "The Guardian"
-    },
-    {
       "name": "Vitamix 5200",
       "count": 1,
       "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
       "source": "The Guardian"
+    },
+    {
+      "name": "Hurricane Polo",
+      "count": 1,
+      "url": "https://www.cbsnews.com/news/hurricane-polo-category-5-mexico-life-threatening-flooding/",
+      "source": "CBS News"
     },
     {
       "name": "Iran War ‘",
@@ -230,5 +248,5 @@
       "source": "Politico"
     }
   ],
-  "updated": "2026-09-25T12:39:57Z"
+  "updated": "2026-09-25T17:51:23Z"
 };
