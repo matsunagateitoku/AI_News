@@ -8,28 +8,40 @@
       "source": "Washington Post"
     },
     {
+      "name": "Laver Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/sport/2026/sep/25/carlos-alcaraz-continues-comeback-as-europe-take-charge-of-laver-cup",
+      "source": "The Guardian"
+    },
+    {
       "name": "Hurricane Nolo",
       "count": 3,
       "url": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
       "source": "NPR"
     },
     {
-      "name": "Fat Bear Week 2026",
+      "name": "Holocaust",
       "count": 2,
-      "url": "https://www.cbsnews.com/video/voting-now-open-for-round-two-of-fat-bear-week-as-turnout-crashes-portal/",
-      "source": "CBS News"
+      "url": "https://www.theguardian.com/stage/2026/sep/25/slam-frank-musical-off-broadway",
+      "source": "The Guardian"
     },
     {
-      "name": "September Nor’Easter",
+      "name": "Hurricane Polo",
       "count": 2,
-      "url": "https://www.nbcnews.com/now/video/flood-alerts-double-for-33-million-as-rare-september-nor-easter-nears-270540869777",
-      "source": "NBC News"
+      "url": "https://www.latimes.com/california/story/2026-09-25/hurricane-polo-will-long-beach-peninsula-flood-again",
+      "source": "LA Times"
     },
     {
       "name": "Iran War ‘",
       "count": 2,
       "url": "https://www.politico.com/news/2026/09/22/jon-husted-iran-war-quick-end-trump-01088614",
       "source": "Politico"
+    },
+    {
+      "name": "Hurricane: What’S The Difference",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/09/25/weather/noreaster-hurricane-definition.html",
+      "source": "NY Times"
     },
     {
       "name": "Game 7",
@@ -48,26 +60,138 @@
       "count": 1,
       "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
       "source": "The Guardian"
-    },
+    }
+  ],
+  "GPE": [
     {
-      "name": "The Asian Games",
-      "count": 1,
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/sep/25/the-week-around-the-world-in-20-pictures",
+      "name": "Us",
+      "count": 48,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
       "source": "The Guardian"
     },
     {
-      "name": "The Toronto International Film Festival",
-      "count": 1,
-      "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-09-18/best-movies-toronto-international-film-festival-river-misty-green-debut-spiral-tiff-2026",
+      "name": "New York City",
+      "count": 18,
+      "url": "https://www.washingtonpost.com/nation/2026/09/25/strong-noreaster-cancels-events-massachusetts-maryland/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Missouri",
+      "count": 17,
+      "url": "https://www.washingtonpost.com/politics/2026/09/25/supreme-court-blocks-missouri-congressional-map-favoring-gop-third-time/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Iran",
+      "count": 17,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/09/25/world/middleeast/netanyahu-warning-oct-7-uae.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/saudi-arabia-nuclear-weapons.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "China",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/trump-xi-state-visit.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 14,
+      "url": "https://www.washingtonpost.com/nation/2026/09/25/small-california-town-is-sale-475-million/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Ukraine",
+      "count": 14,
+      "url": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. Here'S",
+      "count": 12,
+      "url": "https://www.latimes.com/delos/story/2026-09-15/dual-citizenship-how-to-los-angeles-mexican-consulate",
       "source": "LA Times"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 17,
+      "url": "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Donald Trump ’S",
+      "count": 13,
+      "url": "https://www.theguardian.com/culture/2026/sep/25/jimmy-kimmel-recap-trump-white-house-media-ban",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Xi Jinping",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/trump-xi-state-visit.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Xi Jinping’S",
+      "count": 9,
+      "url": "https://www.theguardian.com/culture/2026/sep/25/jimmy-kimmel-recap-trump-white-house-media-ban",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Masoud Pezeshkian",
+      "count": 6,
+      "url": "https://www.cbsnews.com/news/transcript-iranian-president-masoud-pezeshkian-face-the-nation-transcript-09-27-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Jay Jacobs",
+      "count": 6,
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/16/jay-jacobs-gets-his-first-ever-challenger-for-state-dem-chair-01080908",
+      "source": "Politico"
+    },
+    {
+      "name": "Charlie Kirk",
+      "count": 5,
+      "url": "https://www.washingtonpost.com/nation/2026/09/25/utah-university-releases-independent-review-charlie-kirk-shooting/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Charles Spencer",
+      "count": 5,
+      "url": "https://www.theguardian.com/books/2026/sep/22/swan-song-charles-spencer-review-diana-princess-of-wales-brother-earl",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Margaret Brennan",
+      "count": 5,
+      "url": "https://www.cbsnews.com/news/transcript-iranian-president-masoud-pezeshkian-face-the-nation-transcript-09-27-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Oscar",
+      "count": 4,
+      "url": "https://www.theguardian.com/film/video/2026/sep/25/naza-official-trailer",
+      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Administration’S",
-      "count": 60,
-      "url": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-citizenship-voter-lists.html",
-      "source": "NY Times"
+      "name": "Target For Trump",
+      "count": 50,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     },
     {
       "name": "Ai",
@@ -76,14 +200,26 @@
       "source": "Washington Post"
     },
     {
-      "name": "The White House",
+      "name": "The Supreme Court",
+      "count": 28,
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/supreme-court-missouri-maps-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cnn",
       "count": 14,
-      "url": "https://www.nytimes.com/2026/09/24/us/politics/state-dinner-scene.html",
+      "url": "https://www.nytimes.com/2026/09/25/business/media/white-house-cnn-air-force-one-ban.html",
       "source": "NY Times"
     },
     {
+      "name": "Gop",
+      "count": 14,
+      "url": "https://www.washingtonpost.com/politics/2026/09/25/supreme-court-blocks-missouri-congressional-map-favoring-gop-third-time/",
+      "source": "Washington Post"
+    },
+    {
       "name": "Guardian Europe",
-      "count": 13,
+      "count": 12,
       "url": "https://www.theguardian.com/commentisfree/2026/sep/25/berlin-political-star-europe-hope-housing-germany",
       "source": "The Guardian"
     },
@@ -94,159 +230,23 @@
       "source": "Politico"
     },
     {
-      "name": "The Missouri Supreme Court",
+      "name": "The White House",
       "count": 11,
-      "url": "https://www.nbcnews.com/politics/supreme-court/rejects-missouri-republicans-request-use-new-congressional-map-midterm-rcna596454",
-      "source": "NBC News"
+      "url": "https://www.nytimes.com/2026/09/24/us/politics/state-dinner-scene.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Cbs News",
+      "count": 11,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-09-22/editorial-board-will-oversee-cnn-cbs-news-what-does-that-mean",
+      "source": "LA Times"
     },
     {
       "name": "The Filter Us",
       "count": 10,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 10,
-      "url": "https://www.foxnews.com/politics/florida-gop-nominee-blasts-20-year-dem-incumbent-socialist-rubber-stamp-precious-little-show",
-      "source": "Fox News"
-    },
-    {
-      "name": "Un",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/2026/sep/25/trump-israel-icc-threats",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/09/25/us/politics/what-to-know-citizenship-database.html",
-      "source": "NY Times"
     }
   ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 57,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 28,
-      "url": "https://www.nytimes.com/2026/09/25/world/middleeast/netanyahu-warning-oct-7-uae.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 19,
-      "url": "https://www.washingtonpost.com/nation/2026/09/25/small-california-town-is-sale-475-million/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "U.S.",
-      "count": 17,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "China",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/09/25/us/politics/trump-china-united-nations.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New Jersey Lt",
-      "count": 15,
-      "url": "https://www.foxnews.com/politics/new-jersey-lt-gov-dale-caldwell-resigns-sexual-harassment-investigation",
-      "source": "Fox News"
-    },
-    {
-      "name": "Iran",
-      "count": 12,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Northern Gaza",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "New York City'S",
-      "count": 11,
-      "url": "https://www.cbsnews.com/news/2026-new-york-film-festival-preview/",
-      "source": "CBS News"
-    },
-    {
-      "name": "L.A. Here'S",
-      "count": 10,
-      "url": "https://www.latimes.com/delos/story/2026-09-15/dual-citizenship-how-to-los-angeles-mexican-consulate",
-      "source": "LA Times"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 21,
-      "url": "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Donald Trump ’S",
-      "count": 15,
-      "url": "https://www.theguardian.com/culture/2026/sep/25/jimmy-kimmel-recap-trump-white-house-media-ban",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Benjamin Netanyahu",
-      "count": 14,
-      "url": "https://www.theguardian.com/news/video/2026/sep/25/protests-erupt-as-netanyahu-gives-inflammatory-un-speech-the-latest",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Xi Jinping’S",
-      "count": 9,
-      "url": "https://www.theguardian.com/culture/2026/sep/25/jimmy-kimmel-recap-trump-white-house-media-ban",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Xi Jinping",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/09/24/us/politics/state-dinner-scene.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Charlie Kirk",
-      "count": 7,
-      "url": "https://www.washingtonpost.com/nation/2026/09/25/utah-university-releases-independent-review-charlie-kirk-shooting/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Gov Dale Caldwell",
-      "count": 7,
-      "url": "https://www.foxnews.com/politics/new-jersey-lt-gov-dale-caldwell-resigns-sexual-harassment-investigation",
-      "source": "Fox News"
-    },
-    {
-      "name": "Oscar",
-      "count": 6,
-      "url": "https://www.theguardian.com/film/video/2026/sep/25/naza-official-trailer",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Susan Sarandon",
-      "count": 6,
-      "url": "https://www.theguardian.com/news/video/2026/sep/25/protests-erupt-as-netanyahu-gives-inflammatory-un-speech-the-latest",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jay Jacobs",
-      "count": 6,
-      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/16/jay-jacobs-gets-his-first-ever-challenger-for-state-dem-chair-01080908",
-      "source": "Politico"
-    }
-  ],
-  "updated": "2026-09-25T22:07:15Z"
+  "updated": "2026-09-26T05:59:00Z"
 };
