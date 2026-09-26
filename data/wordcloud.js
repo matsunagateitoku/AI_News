@@ -2,178 +2,168 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    77,
-    "https://www.nytimes.com/2026/09/25/us/politics/trump-xi-state-visit.html"
+    82,
+    "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html"
   ],
   [
     "court",
-    58,
+    48,
     "https://www.nytimes.com/2026/09/25/business/media/white-house-cnn-air-force-one-ban.html"
   ],
   [
     "president",
-    36,
-    "https://www.nytimes.com/2026/09/25/us/politics/trump-xi-state-visit.html"
-  ],
-  [
-    "supreme",
-    29,
-    "https://www.washingtonpost.com/politics/2026/09/25/supreme-court-blocks-missouri-congressional-map-favoring-gop-third-time/"
-  ],
-  [
-    "media",
-    25,
-    "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one"
-  ],
-  [
-    "game",
-    23,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/25/can-dating-coach-help-you-win-at-love"
-  ],
-  [
-    "love",
-    23,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/25/can-dating-coach-help-you-win-at-love"
-  ],
-  [
-    "york",
-    22,
-    "https://www.nytimes.com/2026/09/25/us/politics/trump-china-united-nations.html"
-  ],
-  [
-    "latest",
-    21,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "visit",
-    20,
-    "https://www.nytimes.com/2026/09/25/us/politics/trump-xi-state-visit.html"
-  ],
-  [
-    "map",
-    20,
-    "https://www.washingtonpost.com/politics/2026/09/25/supreme-court-blocks-missouri-congressional-map-favoring-gop-third-time/"
-  ],
-  [
-    "war",
-    19,
-    "https://www.washingtonpost.com/obituaries/2026/09/25/charles-trueheart-post-reporter-author-who-could-do-it-all-dies-75/"
-  ],
-  [
-    "food",
-    19,
-    "https://www.washingtonpost.com/health/2026/09/24/one-blood-test-could-screen-you-50-cancers-heres-why-its-controversial/"
-  ],
-  [
-    "far",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/sep/26/europe-election-trends-far-right-success-defeatist-narratives-germany"
-  ],
-  [
-    "china",
-    18,
-    "https://www.nytimes.com/2026/09/25/us/politics/trump-xi-state-visit.html"
-  ],
-  [
-    "country",
-    18,
-    "https://www.nytimes.com/2026/09/25/us/politics/ice-raids-kansas-texas-oklahoma-beef-prices.html"
-  ],
-  [
-    "social",
-    18,
-    "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/"
-  ],
-  [
-    "health",
-    18,
-    "https://www.theguardian.com/environment/ng-interactive/2026/sep/25/syngenta-paraquat-parkinsons-lawsuits-epa"
-  ],
-  [
-    "republicans",
-    18,
-    "https://www.theguardian.com/environment/2026/sep/25/extreme-heat-regulations-trump"
-  ],
-  [
-    "administration",
-    17,
-    "https://www.nytimes.com/2026/09/25/us/politics/ice-raids-kansas-texas-oklahoma-beef-prices.html"
-  ],
-  [
-    "states",
-    17,
-    "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/"
-  ],
-  [
-    "record",
-    17,
-    "https://www.washingtonpost.com/transportation/2026/09/25/surprise-winners-record-high-diesel-prices/"
+    47,
+    "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html"
   ],
   [
     "iran",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance"
+    29,
+    "https://www.nytimes.com/2026/09/26/business/trump-economy-midterm-elections.html"
   ],
   [
-    "film",
-    17,
-    "https://www.theguardian.com/film/video/2026/sep/25/naza-official-trailer"
+    "love",
+    29,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/26/blind-date-miklos-minnie"
   ],
   [
-    "season",
-    16,
-    "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html"
+    "war",
+    28,
+    "https://www.nytimes.com/2026/09/26/business/trump-economy-midterm-elections.html"
   ],
   [
-    "israel",
-    16,
-    "https://www.nytimes.com/2026/09/25/world/middleeast/netanyahu-warning-oct-7-uae.html"
+    "supreme",
+    28,
+    "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-voter-fraud-midterms-impact.html"
   ],
   [
-    "fans",
-    16,
-    "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review"
+    "york",
+    24,
+    "https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston"
   ],
   [
-    "democrats",
-    16,
-    "https://www.theguardian.com/us-news/2026/sep/25/ice-legislation-dick-durbin-alex-padilla"
+    "game",
+    24,
+    "https://www.theguardian.com/world/ng-interactive/2026/sep/26/colin-kaepernick-interview-nfl-taking-the-knee"
   ],
   [
-    "cnn",
-    15,
-    "https://www.nytimes.com/2026/09/25/business/media/white-house-cnn-air-force-one-ban.html"
+    "media",
+    22,
+    "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html"
   ],
   [
-    "hurricane",
-    15,
-    "https://www.nytimes.com/2026/09/25/weather/noreaster-hurricane-definition.html"
+    "republicans",
+    21,
+    "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-missouri-congressional-map.html"
   ],
   [
-    "party",
-    15,
-    "https://www.nytimes.com/2026/09/25/opinion/ezra-klein-podcast-abdul-el-sayed.html"
+    "states",
+    21,
+    "https://www.washingtonpost.com/business/2026/09/26/record-high-diesel-prices-have-states-weighing-gas-tax-holidays-before-midterms/"
   ],
   [
-    "missouri",
-    15,
-    "https://www.washingtonpost.com/politics/2026/09/25/supreme-court-blocks-missouri-congressional-map-favoring-gop-third-time/"
+    "food",
+    21,
+    "https://www.theguardian.com/food/2026/sep/26/how-athens-discovered-a-new-confident-greek-cuisine"
   ],
   [
-    "review",
-    15,
-    "https://www.washingtonpost.com/nation/2026/09/25/utah-university-releases-independent-review-charlie-kirk-shooting/"
+    "american",
+    20,
+    "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html"
   ],
   [
-    "data",
-    15,
+    "donald",
+    19,
     "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/"
   ],
   [
-    "chinese",
+    "map",
+    18,
+    "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-missouri-congressional-map.html"
+  ],
+  [
+    "social",
+    17,
+    "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/"
+  ],
+  [
+    "latest",
+    17,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "money",
+    17,
+    "https://www.theguardian.com/food/2026/sep/26/cooking-with-tom-kerridge-the-michelin-meatfluencer-venison-chilli-recipe"
+  ],
+  [
+    "cnn",
+    16,
+    "https://www.nytimes.com/2026/09/25/business/media/white-house-cnn-air-force-one-ban.html"
+  ],
+  [
+    "again",
+    16,
+    "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-missouri-congressional-map.html"
+  ],
+  [
+    "gop",
+    16,
+    "https://www.washingtonpost.com/politics/2026/09/25/supreme-court-blocks-missouri-congressional-map-favoring-gop-third-time/"
+  ],
+  [
+    "guide",
+    16,
+    "https://www.theguardian.com/games/2026/sep/24/meet-the-real-life-pokemon-professors-the-unsung-heroes-of-competitive-monster-battling"
+  ],
+  [
+    "control",
+    15,
+    "https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html"
+  ],
+  [
+    "government",
+    15,
+    "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html"
+  ],
+  [
+    "israel",
+    15,
+    "https://www.nytimes.com/2026/09/26/world/middleeast/israel-netanyahu-gali-baharav-miara-attorney-general.html"
+  ],
+  [
+    "china",
     15,
     "https://www.washingtonpost.com/business/2026/09/25/how-china-is-conquering-high-tech-markets-once-controlled-by-west/"
+  ],
+  [
+    "gaza",
+    15,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "campaign",
+    15,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "final",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/sep/26/un-speech-macron-parting-gift-stand-up-to-trump"
+  ],
+  [
+    "because",
+    15,
+    "https://www.theguardian.com/food/2026/sep/26/cooking-with-tom-kerridge-the-michelin-meatfluencer-venison-chilli-recipe"
+  ],
+  [
+    "little",
+    15,
+    "https://www.theguardian.com/culture/2026/sep/26/raye-i-know-youre-hurting-helped-me-confront-depression"
+  ],
+  [
+    "far",
+    15,
+    "https://www.theguardian.com/books/2026/sep/26/we-left-ireland-because-there-wasnt-work-and-we-wanted-to-get-the-hell-away-trespasses-author-louise-kennedy"
   ],
   [
     "filter",
@@ -181,49 +171,14 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/25/anyday-square-glass-dish-containers"
   ],
   [
-    "don",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/sep/25/anyday-square-glass-dish-containers"
-  ],
-  [
-    "music",
-    15,
-    "https://www.theguardian.com/music/2026/sep/25/dolly-parton-day-declared"
-  ],
-  [
-    "cbs",
-    15,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-09-22/editorial-board-will-oversee-cnn-cbs-news-what-does-that-mean"
-  ],
-  [
-    "government",
+    "elections",
     14,
-    "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html"
+    "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-voter-fraud-midterms-impact.html"
   ],
   [
-    "little",
+    "missouri",
     14,
-    "https://www.nytimes.com/2026/09/25/us/politics/trump-xi-state-visit.html"
-  ],
-  [
-    "congressional",
-    14,
-    "https://www.washingtonpost.com/politics/2026/09/25/supreme-court-blocks-missouri-congressional-map-favoring-gop-third-time/"
-  ],
-  [
-    "gop",
-    14,
-    "https://www.washingtonpost.com/politics/2026/09/25/supreme-court-blocks-missouri-congressional-map-favoring-gop-third-time/"
-  ],
-  [
-    "jersey",
-    14,
-    "https://www.washingtonpost.com/nation/2026/09/25/strong-noreaster-cancels-events-massachusetts-maryland/"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/"
+    "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-missouri-congressional-map.html"
   ],
   [
     "million",
@@ -231,44 +186,39 @@
     "https://www.washingtonpost.com/nation/2026/09/25/small-california-town-is-sale-475-million/"
   ],
   [
-    "campaign",
+    "record",
     14,
-    "https://www.washingtonpost.com/business/2026/09/24/chart-that-inspired-californias-billionaire-tax-campaign/"
+    "https://www.washingtonpost.com/transportation/2026/09/25/surprise-winners-record-high-diesel-prices/"
   ],
   [
-    "gaza",
+    "ago",
     14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.washingtonpost.com/investigations/2026/09/24/former-virginia-youth-minister-jeff-taylor-pleads-not-guilty-sex-abuse-case/"
   ],
   [
-    "early",
+    "trump's",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "money",
+    "star",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/25/can-dating-coach-help-you-win-at-love"
+    "https://www.theguardian.com/food/2026/sep/26/cooking-with-tom-kerridge-the-michelin-meatfluencer-venison-chilli-recipe"
   ],
   [
-    "guide",
+    "family",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/sep/25/anyday-square-glass-dish-containers"
+    "https://www.theguardian.com/football/2026/sep/26/lamine-yamal-football-special-spark-spain-world-cup-barcelona"
   ],
   [
-    "ukraine",
+    "democrats",
     14,
-    "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race"
+    "https://www.theguardian.com/us-news/2026/sep/25/ice-legislation-dick-durbin-alex-padilla"
   ],
   [
-    "again",
+    "cbs",
     14,
-    "https://www.theguardian.com/commentisfree/2026/sep/26/europe-election-trends-far-right-success-defeatist-narratives-germany"
-  ],
-  [
-    "book",
-    13,
-    "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html"
+    "https://www.latimes.com/entertainment-arts/business/story/2026-09-22/editorial-board-will-oversee-cnn-cbs-news-what-does-that-mean"
   ],
   [
     "air",
@@ -276,103 +226,153 @@
     "https://www.nytimes.com/2026/09/25/business/media/white-house-cnn-air-force-one-ban.html"
   ],
   [
-    "california",
+    "voter",
     13,
-    "https://www.nytimes.com/2026/09/25/us/el-nino-california-beach-erosion.html"
+    "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-voter-fraud-midterms-impact.html"
   ],
   [
-    "elections",
+    "congressional",
     13,
-    "https://www.washingtonpost.com/politics/2026/09/25/supreme-court-blocks-missouri-congressional-map-favoring-gop-third-time/"
+    "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-missouri-congressional-map.html"
   ],
   [
-    "voters",
+    "power",
     13,
-    "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/"
+    "https://www.nytimes.com/2026/09/26/world/middleeast/israel-netanyahu-gali-baharav-miara-attorney-general.html"
   ],
   [
-    "despite",
+    "security",
     13,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.washingtonpost.com/investigations/2026/09/26/government-is-enlisting-ai-help-decide-what-public-records-you-get-see/"
   ],
   [
-    "win",
+    "university",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/25/can-dating-coach-help-you-win-at-love"
+    "https://www.washingtonpost.com/nation/2026/09/25/utah-university-releases-independent-review-charlie-kirk-shooting/"
+  ],
+  [
+    "review",
+    13,
+    "https://www.washingtonpost.com/nation/2026/09/25/utah-university-releases-independent-review-charlie-kirk-shooting/"
+  ],
+  [
+    "growing",
+    13,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "political",
     13,
-    "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance"
+    "https://www.theguardian.com/world/ng-interactive/2026/sep/26/colin-kaepernick-interview-nfl-taking-the-knee"
   ],
   [
-    "late",
+    "film",
     13,
-    "https://www.theguardian.com/film/video/2026/sep/25/naza-official-trailer"
-  ],
-  [
-    "something",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/25/anyday-square-glass-dish-containers"
-  ],
-  [
-    "album",
-    13,
-    "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review"
-  ],
-  [
-    "family",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo"
-  ],
-  [
-    "senate",
-    12,
-    "https://www.nytimes.com/2026/09/25/opinion/ezra-klein-podcast-abdul-el-sayed.html"
-  ],
-  [
-    "personal",
-    12,
-    "https://www.nytimes.com/2026/09/25/us/south-carolinians-do-you-have-a-short-term-high-interest-personal-loan-share-your-bills.html"
-  ],
-  [
-    "school",
-    12,
-    "https://www.washingtonpost.com/nation/2026/09/25/utah-university-releases-independent-review-charlie-kirk-shooting/"
-  ],
-  [
-    "police",
-    12,
-    "https://www.washingtonpost.com/lifestyle/2026/09/24/runaway-goat-damaged-cars-fled-police-now-hes-found-his-herd/"
-  ],
-  [
-    "trump's",
-    12,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "containers",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/sep/25/anyday-square-glass-dish-containers"
-  ],
-  [
-    "fewer",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/sep/25/anyday-square-glass-dish-containers"
-  ],
-  [
-    "announced",
-    12,
-    "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review"
-  ],
-  [
-    "control",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/25/supreme-court-missouri-maps-trump"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/26/blind-date-miklos-minnie"
   ],
   [
     "children",
-    12,
+    13,
     "https://www.theguardian.com/technology/2026/sep/26/tiktok-alabama-pay-100m-teenage-limits-restrictions"
+  ],
+  [
+    "music",
+    13,
+    "https://www.theguardian.com/culture/2026/sep/26/raye-i-know-youre-hurting-helped-me-confront-depression"
+  ],
+  [
+    "fewer",
+    13,
+    "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests"
+  ],
+  [
+    "lawmakers",
+    13,
+    "https://www.cbsnews.com/news/trump-cancels-billion-spending-pocket-rescission/"
+  ],
+  [
+    "nearly",
+    12,
+    "https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html"
+  ],
+  [
+    "health",
+    12,
+    "https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html"
+  ],
+  [
+    "countries",
+    12,
+    "https://www.nytimes.com/2026/09/25/us/politics/us-rejects-un-declaration-on-preparing-for-pandemics.html"
+  ],
+  [
+    "jersey",
+    12,
+    "https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston"
+  ],
+  [
+    "chinese",
+    12,
+    "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html"
+  ],
+  [
+    "midterms",
+    12,
+    "https://www.nytimes.com/2026/09/26/business/trump-economy-midterm-elections.html"
+  ],
+  [
+    "americans",
+    12,
+    "https://www.nytimes.com/2026/09/26/business/trump-economy-midterm-elections.html"
+  ],
+  [
+    "prices",
+    12,
+    "https://www.nytimes.com/2026/09/26/business/trump-economy-midterm-elections.html"
+  ],
+  [
+    "administration",
+    12,
+    "https://www.washingtonpost.com/business/2026/09/25/ranchers-accuse-trump-administration-disrupting-beef-supply-prices-rise/"
+  ],
+  [
+    "hurricane",
+    12,
+    "https://www.washingtonpost.com/weather/2026/09/25/hurricane-polo-tracker-map-projected-storm-path/"
+  ],
+  [
+    "voters",
+    12,
+    "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/"
+  ],
+  [
+    "west",
+    12,
+    "https://www.washingtonpost.com/business/2026/09/25/how-china-is-conquering-high-tech-markets-once-controlled-by-west/"
+  ],
+  [
+    "country",
+    12,
+    "https://www.washingtonpost.com/politics/2026/09/24/trump-administration-asks-supreme-court-allow-third-country-deportations-now/"
+  ],
+  [
+    "past",
+    12,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "late",
+    12,
+    "https://www.theguardian.com/world/ng-interactive/2026/sep/26/colin-kaepernick-interview-nfl-taking-the-knee"
+  ],
+  [
+    "united",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/26/un-speech-macron-parting-gift-stand-up-to-trump"
+  ],
+  [
+    "international",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/26/un-speech-macron-parting-gift-stand-up-to-trump"
   ]
 ];
