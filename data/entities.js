@@ -14,15 +14,15 @@
       "source": "LA Times"
     },
     {
-      "name": "World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/sep/27/usa-peru-soccer-justin-ellis-cavan-sullivan-julian-hall",
-      "source": "The Guardian"
-    },
-    {
       "name": "Fa Cup",
       "count": 2,
       "url": "https://www.theguardian.com/football/2026/sep/27/tony-pulis-says-he-and-stoke-were-cheated-in-2011-fa-cup-final-after-manchester-city-verdict",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Holocaust",
+      "count": 2,
+      "url": "https://www.theguardian.com/world/2026/sep/27/britain-knew-about-holocaust-as-it-happened-exhibition",
       "source": "The Guardian"
     },
     {
@@ -34,69 +34,143 @@
     {
       "name": "The Presidents Cup",
       "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/golf-star-tom-kim-presidents-cup-asian-games-seeking-exemption-military-service",
-      "source": "Fox News"
+      "url": "https://thehill.com/homenews/administration/6113491-live-updates-trump-presidents-cup-chicago-iran/",
+      "source": "The Hill"
     },
     {
-      "name": "Cold War-Era",
-      "count": 2,
-      "url": "https://www.nbcnews.com/news/us-news/bill-gates-global-artificial-intelligence-regulations-nuclear-rcna599646",
-      "source": "NBC News"
-    },
-    {
-      "name": "Laver Cup",
+      "name": "7-Eleven",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/sep/27/tennis-laver-cup-2026-team-europe-alexander-zverev-andre-agassi-tennis",
+      "url": "https://www.theguardian.com/thefilter-us/2026/sep/27/fibermaxxing-coke-plus",
       "source": "The Guardian"
     },
     {
-      "name": "Olympics",
+      "name": "Super Bowl",
       "count": 1,
-      "url": "https://www.theguardian.com/stage/2026/sep/27/stage-designer-es-devlin-design-museum-london-lehman-trilogy",
+      "url": "https://www.theguardian.com/sport/2026/sep/27/nfl-roundup-sunday-football-scores",
       "source": "The Guardian"
     },
     {
-      "name": "Vitamix 5200",
+      "name": "Game 1",
       "count": 1,
-      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
+      "url": "https://www.theguardian.com/sport/2026/sep/27/liberty-lync-wnba-playoffs-breanna-stewart-game-1",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Game 2",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/sep/27/liberty-lync-wnba-playoffs-breanna-stewart-game-1",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 39,
+      "url": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 28,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Iran",
+      "count": 26,
+      "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-ad-government-campaign.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 20,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Uk",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 13,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson",
+      "source": "The Guardian"
+    },
+    {
+      "name": "West Hollywood",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Oregon",
+      "count": 11,
+      "url": "https://www.theguardian.com/sport/2026/sep/27/dante-moore-late-hit-hospital-oregon-usc-college-football",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Northern Ireland",
+      "count": 11,
+      "url": "https://www.theguardian.com/uk-news/2026/sep/27/drumcree-standoff-shows-northern-irelands-troubled-past-still-threatens-its-peace",
+      "source": "The Guardian"
+    },
+    {
+      "name": "London",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/2026/sep/27/britain-knew-about-holocaust-as-it-happened-exhibition",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 42,
+      "count": 53,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
       "name": "Ai",
-      "count": 23,
+      "count": 24,
       "url": "https://www.washingtonpost.com/investigations/2026/09/26/government-is-enlisting-ai-help-decide-what-public-records-you-get-see/",
       "source": "Washington Post"
     },
     {
       "name": "Guardian",
-      "count": 15,
+      "count": 14,
       "url": "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey",
       "source": "The Guardian"
     },
     {
+      "name": "The White House",
+      "count": 14,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson",
+      "source": "The Guardian"
+    },
+    {
       "name": "Senate Memorandum",
-      "count": 15,
+      "count": 13,
       "url": "https://www.politico.com/f/?id=000001a0-cf7a-d2df-a1f4-ffffb2910000",
       "source": "Politico"
     },
     {
       "name": "The Filter Us",
-      "count": 10,
+      "count": 11,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Un",
+      "name": "Usc",
+      "count": 10,
+      "url": "https://www.theguardian.com/sport/2026/sep/27/dante-moore-late-hit-hospital-oregon-usc-college-football",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cnn",
       "count": 9,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/todd-blanche-trump-white-house-media",
       "source": "The Guardian"
     },
     {
@@ -106,110 +180,48 @@
       "source": "Washington Post"
     },
     {
-      "name": "Cnn",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
+      "name": "Us Congress",
       "count": 7,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nfl",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/live/2026/sep/27/nfl-week-three-chiefs-dolphins-chargers-bills-patriots-jaguars-live",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 38,
-      "url": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 28,
-      "url": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 27,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Russia",
-      "count": 24,
-      "url": "https://www.theguardian.com/world/2026/sep/27/swiss-vote-reject-stricter-neutrality-rules-nato",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ukraine",
-      "count": 17,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/28/kindness-of-strangers-helicopter-pilots-waved-to-my-son",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City",
-      "count": 15,
-      "url": "https://www.washingtonpost.com/nation/2026/09/25/strong-noreaster-cancels-events-massachusetts-maryland/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Israel",
-      "count": 14,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "West Hollywood",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. Here'S",
-      "count": 12,
-      "url": "https://www.latimes.com/delos/story/2026-09-15/dual-citizenship-how-to-los-angeles-mexican-consulate",
-      "source": "LA Times"
-    },
-    {
-      "name": "London",
-      "count": 11,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/27/eve-looks-back-interview-musician-actor-rapper",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-midterms-counting-window",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
+      "name": "Donald Trump",
+      "count": 29,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson",
+      "source": "The Guardian"
+    },
+    {
       "name": "Margaret Brennan",
-      "count": 14,
-      "url": "https://www.cbsnews.com/video/sen-kennedy-urges-trump-to-focus-on-affordability-address-nation-on-iran-ahead-of-midterms/",
+      "count": 16,
+      "url": "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/",
       "source": "CBS News"
     },
     {
-      "name": "Donald Trump Jr.",
-      "count": 14,
-      "url": "https://thehill.com/homenews/senate/6113733-tillis-criticizes-trump-jr-gift/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 13,
-      "url": "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/",
-      "source": "Washington Post"
+      "name": "Bill Gates",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+      "source": "The Guardian"
     },
     {
       "name": "Masoud Pezeshkian",
       "count": 9,
-      "url": "https://www.cbsnews.com/video/iranian-president-masoud-pezeshkian-on-releasing-americans-determined-to-be-wrongfully-detained/",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-27-2026/",
       "source": "CBS News"
+    },
+    {
+      "name": "John F Kennedy",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Dante Moore",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/sep/27/dante-moore-late-hit-hospital-oregon-usc-college-football",
+      "source": "The Guardian"
     },
     {
       "name": "Mum",
@@ -218,35 +230,23 @@
       "source": "The Guardian"
     },
     {
-      "name": "Bill Gates",
+      "name": "Xi Jinping",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
       "source": "The Guardian"
     },
     {
-      "name": "John Kennedy",
+      "name": "Alexander Yui",
       "count": 6,
-      "url": "https://www.cbsnews.com/video/sen-kennedy-urges-trump-to-focus-on-affordability-address-nation-on-iran-ahead-of-midterms/",
+      "url": "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/",
       "source": "CBS News"
     },
     {
-      "name": "Jalen Brunson",
-      "count": 5,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson",
-      "source": "The Guardian"
-    },
-    {
-      "name": "John F Kennedy",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Xi Jinping",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
-      "source": "The Guardian"
+      "name": "Jim Himes",
+      "count": 6,
+      "url": "https://www.cbsnews.com/news/jim-himes-connecticut-democrat-face-the-nation-transcript-09-27-2026/",
+      "source": "CBS News"
     }
   ],
-  "updated": "2026-09-27T17:37:05Z"
+  "updated": "2026-09-27T21:56:46Z"
 };

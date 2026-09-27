@@ -2,88 +2,88 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    73,
-    "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
-  ],
-  [
-    "war",
-    48,
+    84,
     "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
   ],
   [
     "president",
-    44,
-    "https://www.nytimes.com/2026/09/27/us/politics/white-house-fraud-task-force.html"
+    51,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "iran",
+    "war",
     35,
     "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
   ],
   [
-    "police",
-    26,
-    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
-  ],
-  [
-    "food",
-    25,
-    "https://www.theguardian.com/world/2026/sep/27/hell-on-earth-last-residents-eat-weeds-to-survive-in-russian-occupied-oleshky"
+    "iran",
+    33,
+    "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
   ],
   [
     "game",
-    24,
+    31,
     "https://www.theguardian.com/us-news/2026/sep/27/bear-human-encounters"
   ],
   [
-    "russia",
-    24,
-    "https://www.theguardian.com/world/2026/sep/27/swiss-vote-reject-stricter-neutrality-rules-nato"
-  ],
-  [
-    "near",
-    23,
-    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
-  ],
-  [
-    "love",
-    23,
-    "https://www.theguardian.com/books/2026/sep/27/does-avoiding-misery-make-you-happy"
-  ],
-  [
-    "feel",
-    22,
-    "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html"
-  ],
-  [
-    "york",
-    22,
-    "https://www.nytimes.com/2026/09/27/briefing/after-the-drug-laws.html"
-  ],
-  [
-    "season",
-    22,
-    "https://www.washingtonpost.com/weather/2026/09/25/hurricane-polo-tracker-map-projected-storm-path/"
+    "night",
+    26,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson"
   ],
   [
     "nation",
-    21,
+    22,
     "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power"
   ],
   [
     "arrested",
-    20,
+    21,
     "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
   ],
   [
-    "democrats",
+    "police",
+    21,
+    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
+  ],
+  [
+    "israel",
+    21,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "york",
+    21,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson"
+  ],
+  [
+    "country",
     20,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "food",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/sep/27/my-holiday-was-full-of-tantrums-and-hangry-meltdowns-and-it-wasnt-the-kids-who-were-to-blame"
+  ],
+  [
+    "love",
+    20,
+    "https://www.theguardian.com/music/2026/sep/27/kimberly-wyatt-pussycat-dolls-honest-playlist-whitney-houston-eminem"
+  ],
+  [
+    "democrats",
+    19,
     "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections"
   ],
   [
     "interview",
-    20,
+    19,
     "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections"
+  ],
+  [
+    "feel",
+    19,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey"
   ],
   [
     "john",
@@ -91,24 +91,54 @@
     "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language"
   ],
   [
-    "voters",
+    "late",
+    19,
+    "https://www.theguardian.com/sport/2026/sep/27/dante-moore-late-hit-hospital-oregon-usc-college-football"
+  ],
+  [
+    "latest",
     18,
-    "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "senate",
-    17,
-    "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html"
+    "win",
+    18,
+    "https://www.theguardian.com/sport/2026/sep/27/dante-moore-late-hit-hospital-oregon-usc-college-football"
   ],
   [
-    "country",
+    "near",
     17,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
   ],
   [
-    "family",
+    "least",
     17,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey"
+    "https://www.washingtonpost.com/nation/2026/09/26/police-search-house-filled-with-porn-clues-about-missing-women/"
+  ],
+  [
+    "death",
+    17,
+    "https://www.washingtonpost.com/obituaries/2026/09/26/breaking-into-boys-club-talk-radio-she-became-beloved-chicago-broadcaster/"
+  ],
+  [
+    "past",
+    17,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "california",
+    17,
+    "https://www.theguardian.com/film/2026/sep/25/chris-hansen-paedophile-show-robert-pattinson"
+  ],
+  [
+    "margaret",
+    17,
+    "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/"
+  ],
+  [
+    "brennan",
+    17,
+    "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/"
   ],
   [
     "republicans",
@@ -116,34 +146,29 @@
     "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
   ],
   [
-    "death",
+    "gaza",
     16,
-    "https://www.washingtonpost.com/obituaries/2026/09/26/breaking-into-boys-club-talk-radio-she-became-beloved-chicago-broadcaster/"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "donald",
+    "media",
     16,
-    "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections"
   ],
   [
-    "latest",
+    "family",
     16,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey"
   ],
   [
-    "night",
+    "season",
     16,
     "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson"
   ],
   [
-    "ukraine",
+    "filter",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/28/kindness-of-strangers-helicopter-pilots-waved-to-my-son"
-  ],
-  [
-    "final",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/sep/26/un-speech-macron-parting-gift-stand-up-to-trump"
+    "https://www.theguardian.com/thefilter-us/2026/sep/27/fibermaxxing-coke-plus"
   ],
   [
     "money",
@@ -151,24 +176,14 @@
     "https://www.theguardian.com/tv-and-radio/2026/sep/25/sienna-miller-and-dominic-west-interview-war"
   ],
   [
-    "least",
+    "democratic",
     15,
-    "https://www.washingtonpost.com/nation/2026/09/26/police-search-house-filled-with-porn-clues-about-missing-women/"
-  ],
-  [
-    "social",
-    15,
-    "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/"
-  ],
-  [
-    "gaza",
-    15,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html"
   ],
   [
     "don",
     15,
-    "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections"
   ],
   [
     "kennedy",
@@ -176,44 +191,19 @@
     "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language"
   ],
   [
+    "american",
+    15,
+    "https://www.theguardian.com/education/2026/sep/27/st-andrews-university-class-divide-american-students"
+  ],
+  [
+    "party",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/sep/27/instagram-reels-conversation-short-form-video-social-media"
+  ],
+  [
     "film",
     15,
     "https://www.theguardian.com/film/2026/sep/27/naza-film-new-york-city-premiere"
-  ],
-  [
-    "california",
-    15,
-    "https://www.theguardian.com/film/2026/sep/25/chris-hansen-paedophile-show-robert-pattinson"
-  ],
-  [
-    "filter",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/sep/26/xpedition2-ebike-review-best-electric-bicycle-tested"
-  ],
-  [
-    "sen",
-    15,
-    "https://www.cbsnews.com/video/sen-kennedy-urges-trump-to-focus-on-affordability-address-nation-on-iran-ahead-of-midterms/"
-  ],
-  [
-    "margaret",
-    15,
-    "https://www.cbsnews.com/video/sen-kennedy-urges-trump-to-focus-on-affordability-address-nation-on-iran-ahead-of-midterms/"
-  ],
-  [
-    "brennan",
-    15,
-    "https://www.cbsnews.com/video/sen-kennedy-urges-trump-to-focus-on-affordability-address-nation-on-iran-ahead-of-midterms/"
-  ],
-  [
-    "political",
-    14,
-    "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html"
-  ],
-  [
-    "midterm",
-    14,
-    "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
   ],
   [
     "air",
@@ -221,89 +211,114 @@
     "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
   ],
   [
+    "base",
+    14,
+    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
+  ],
+  [
+    "loss",
+    14,
+    "https://www.nytimes.com/2026/09/27/movies/kyle-maclachlan-memoir-david-lynch-twin-peaks-sex-and-the-city.html"
+  ],
+  [
     "election",
     14,
     "https://www.washingtonpost.com/business/2026/09/26/record-high-diesel-prices-have-states-weighing-gas-tax-holidays-before-midterms/"
   ],
   [
-    "killed",
+    "red",
     14,
-    "https://www.washingtonpost.com/nation/2026/09/25/florida-counties-declare-emergency-over-wildly-unusual-dengue-outbreak/"
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "israel",
+    "social",
     14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections"
   ],
   [
-    "past",
+    "donald",
     14,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson"
   ],
   [
-    "team",
+    "meet",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker"
   ],
   [
-    "foreign",
+    "hard",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/28/kindness-of-strangers-helicopter-pilots-waved-to-my-son"
+  ],
+  [
+    "guide",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/sep/27/fibermaxxing-coke-plus"
   ],
   [
     "morning",
     14,
-    "https://www.theguardian.com/uk-news/live/2026/sep/27/northern-ireland-orange-order-portadown-drumcree-latest-news-updates"
+    "https://www.theguardian.com/commentisfree/2026/sep/27/my-holiday-was-full-of-tantrums-and-hangry-meltdowns-and-it-wasnt-the-kids-who-were-to-blame"
   ],
   [
-    "late",
+    "tested",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/27/my-husband-never-stops-working-but-he-wont-discuss-it-should-i-leave-him"
+    "https://www.theguardian.com/thefilter-us/2026/sep/26/xpedition2-ebike-review-best-electric-bicycle-tested"
   ],
   [
-    "american",
-    14,
-    "https://www.theguardian.com/education/2026/sep/27/st-andrews-university-class-divide-american-students"
+    "midterm",
+    13,
+    "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
   ],
   [
-    "lead",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/sep/28/celebrity-deaths-parasocial-relationships-grief"
+    "senate",
+    13,
+    "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html"
   ],
   [
-    "little",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/sep/26/kamala-harris-progressives-arab-americans"
+    "voters",
+    13,
+    "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html"
   ],
   [
-    "base",
+    "early",
     13,
     "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
   ],
   [
-    "loss",
-    13,
-    "https://www.nytimes.com/2026/09/27/movies/kyle-maclachlan-memoir-david-lynch-twin-peaks-sex-and-the-city.html"
-  ],
-  [
     "states",
     13,
-    "https://www.washingtonpost.com/business/2026/09/26/record-high-diesel-prices-have-states-weighing-gas-tax-holidays-before-midterms/"
+    "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html"
   ],
   [
-    "party",
+    "hospital",
     13,
-    "https://www.theguardian.com/uk-news/live/2026/sep/27/northern-ireland-orange-order-portadown-drumcree-latest-news-updates"
+    "https://www.washingtonpost.com/obituaries/2026/09/27/nurse-who-chided-reagan-hospital-other-lives-weve-lost/"
   ],
   [
-    "hard",
+    "recent",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/28/kindness-of-strangers-helicopter-pilots-waved-to-my-son"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey"
   ],
   [
-    "possible",
+    "press",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/28/kindness-of-strangers-helicopter-pilots-waved-to-my-son"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson"
+  ],
+  [
+    "experience",
+    13,
+    "https://www.theguardian.com/news/ng-interactive/2026/sep/27/i-turbocharged-my-career-then-pressed-eject-why-couples-are-getting-divorced-later"
+  ],
+  [
+    "because",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/27/todd-blanche-trump-white-house-media"
+  ],
+  [
+    "fewer",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/sep/27/fibermaxxing-coke-plus"
   ],
   [
     "ago",
@@ -316,63 +331,48 @@
     "https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour"
   ],
   [
-    "win",
-    13,
+    "political",
+    12,
+    "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html"
+  ],
+  [
+    "china",
+    12,
+    "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html"
+  ],
+  [
+    "released",
+    12,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "having",
+    12,
+    "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey"
+  ],
+  [
+    "control",
+    12,
+    "https://www.theguardian.com/us-news/2026/sep/27/trump-midterms-counting-window"
+  ],
+  [
+    "usc",
+    12,
     "https://www.theguardian.com/sport/2026/sep/27/dante-moore-late-hit-hospital-oregon-usc-college-football"
   ],
   [
-    "novel",
-    13,
-    "https://www.theguardian.com/books/2026/sep/27/tomi-adeyemi-on-the-film-of-her-hit-novel-children-of-blood-and-bone-i-dont-plan-to-watch-it"
-  ],
-  [
-    "tested",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/26/xpedition2-ebike-review-best-electric-bicycle-tested"
-  ],
-  [
-    "power",
+    "final",
     12,
-    "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html"
+    "https://www.theguardian.com/commentisfree/2026/sep/26/un-speech-macron-parting-gift-stand-up-to-trump"
   ],
   [
-    "democratic",
+    "league",
     12,
-    "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html"
+    "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory"
   ],
   [
-    "early",
+    "race",
     12,
-    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
-  ],
-  [
-    "powerful",
-    12,
-    "https://www.nytimes.com/2026/09/26/nyregion/shipwreck-nantucket-noreaster.html"
-  ],
-  [
-    "changed",
-    12,
-    "https://www.nytimes.com/2026/09/27/briefing/after-the-drug-laws.html"
-  ],
-  [
-    "lost",
-    12,
-    "https://www.washingtonpost.com/nation/2026/09/27/after-wildfires-devastated-spokane-high-school-became-an-oasis-normalcy/"
-  ],
-  [
-    "sept",
-    12,
-    "https://www.washingtonpost.com/nation/2026/09/25/utah-university-releases-independent-review-charlie-kirk-shooting/"
-  ],
-  [
-    "israeli",
-    12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "red",
-    12,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.theguardian.com/sport/2026/sep/27/brandon-mcnulty-uci-world-championship-road-race-2026-lance-armstrong-cycling"
   ]
 ];
