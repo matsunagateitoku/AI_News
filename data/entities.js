@@ -2,231 +2,163 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 53,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Trump White House",
+      "count": 68,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/28/high-t-testosterone-hegseth-trump",
+      "source": "The Guardian"
     },
     {
       "name": "Ai",
-      "count": 21,
-      "url": "https://www.washingtonpost.com/investigations/2026/09/26/government-is-enlisting-ai-help-decide-what-public-records-you-get-see/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "The White House",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
-      "source": "NY Times"
+      "count": 28,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/28/ai-extinction-threats",
+      "source": "The Guardian"
     },
     {
       "name": "Senate Memorandum",
-      "count": 13,
+      "count": 18,
       "url": "https://www.politico.com/f/?id=000001a0-cf7a-d2df-a1f4-ffffb2910000",
       "source": "Politico"
     },
     {
-      "name": "Mtv Video Music Awards",
-      "count": 12,
-      "url": "https://www.cbsnews.com/video/2026-mtv-vmas-red-carpet-looks/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Guardian Europe",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/28/switzerlands-love-of-referendums-helps-us-keep-the-far-right-at-bay",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Filter Us",
-      "count": 11,
+      "count": 12,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Cnn",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/todd-blanche-trump-white-house-media",
+      "name": "Guardian Europe",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/28/switzerlands-love-of-referendums-helps-us-keep-the-far-right-at-bay",
       "source": "The Guardian"
     },
     {
-      "name": "Usc",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/sep/27/dante-moore-late-hit-hospital-oregon-usc-college-football",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Mtv Video Music Awards",
-      "count": 6,
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/mtv-vmas-2026-highlights-dolly-parton-tribute-taylor-swift-new-music-rcna599886",
-      "source": "NBC News"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 36,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Taylor Swift",
-      "count": 16,
-      "url": "https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Queen Of Pop Madonna",
-      "count": 13,
-      "url": "https://www.nbcnews.com/video/watch-highlights-from-the-2026-mtv-video-music-awards-270634053639",
-      "source": "NBC News"
-    },
-    {
-      "name": "Margaret Brennan",
-      "count": 12,
-      "url": "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/",
+      "name": "Mtv Video Music Awards",
+      "count": 10,
+      "url": "https://www.cbsnews.com/video/vma-audience-explodes-for-madonnas-opener-dolly-parton-tributes-and-taylor-swift/",
       "source": "CBS News"
     },
     {
-      "name": "Xi Jinping",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Mum",
-      "count": 7,
-      "url": "https://www.theguardian.com/food/2026/sep/27/best-thing-i-ever-ate-boeuf-a-la-mode-jeremy-lee",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Benjamin Satterley",
+      "name": "Hamas",
       "count": 6,
-      "url": "https://www.foxnews.com/outkick-sports/benjamin-satterley-pro-wrestling-star-known-pac-dead-40",
-      "source": "Fox News"
+      "url": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "John F Kennedy",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language",
+      "name": "El Niño",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/sep/28/california-kelvin-wave",
       "source": "The Guardian"
     },
     {
-      "name": "Bill Gates",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+      "name": "The Supreme Court",
+      "count": 6,
+      "url": "https://www.theguardian.com/australia-news/2026/sep/28/kylie-ellina-truswell-mobbs-murder-charge-dismissed-mnd-ntwnfb",
       "source": "The Guardian"
     },
     {
-      "name": "Kristen Welker",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
-      "source": "The Guardian"
+      "name": "Cbs News'",
+      "count": 6,
+      "url": "https://www.cbsnews.com/video/trump-says-terror-plot-suspects-were-looking-do-big-damage-to-royal-air-force-fairford/",
+      "source": "CBS News"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 41,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections",
+      "count": 49,
+      "url": "https://www.theguardian.com/us-news/2026/sep/28/corporate-profiteering-americans-economy",
       "source": "The Guardian"
     },
     {
       "name": "Iran",
-      "count": 25,
-      "url": "https://www.nytimes.com/2026/09/28/nyregion/tom-kean-jr-rebecca-bennett-debate-trump.html",
+      "count": 27,
+      "url": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/northern-california-bear-attack",
+      "count": 21,
+      "url": "https://www.theguardian.com/us-news/2026/sep/28/california-kelvin-wave",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 15,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "New York City’S",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/sep/28/rye-bread-viral-new-york-city",
       "source": "The Guardian"
     },
     {
       "name": "China",
       "count": 13,
-      "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
+      "url": "https://www.nytimes.com/2026/09/28/business/china-us-summit-tariffs.html",
       "source": "NY Times"
     },
     {
-      "name": "West Hollywood",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City",
-      "count": 12,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
+      "name": "U.K.",
       "count": 11,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Uk",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
+      "url": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html",
       "source": "NY Times"
     },
     {
-      "name": "France",
+      "name": "Texas",
       "count": 10,
-      "url": "https://www.theguardian.com/global-development/2026/sep/28/i-sleep-with-all-my-clothes-on-to-protect-my-privacy-a-glimpse-into-life-inside-a-child-prison-in-france",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/09/28/us/black-voters-talarico-texas-turnout.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. Here'S",
+      "count": 10,
+      "url": "https://www.latimes.com/delos/story/2026-09-15/dual-citizenship-how-to-los-angeles-mexican-consulate",
+      "source": "LA Times"
     }
   ],
   "EVENT": [
     {
-      "name": "The Presidents Cup",
-      "count": 6,
-      "url": "https://www.foxnews.com/outkick-sports/team-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit",
-      "source": "Fox News"
+      "name": "Hurricane Nolo",
+      "count": 3,
+      "url": "https://www.theguardian.com/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone",
+      "source": "The Guardian"
     },
     {
       "name": "The Iran War",
-      "count": 5,
-      "url": "https://www.washingtonpost.com/business/2026/09/26/record-high-diesel-prices-have-states-weighing-gas-tax-holidays-before-midterms/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Post-Cold War",
       "count": 3,
-      "url": "https://www.latimes.com/entertainment-arts/books/story/2026-09-23/katya-suvorova-ungrateful-immigrant-daughter-review-soviet-mail-order-brides",
+      "url": "https://www.latimes.com/world-nation/story/2026-09-27/new-flash-point-in-iran-war-narrow-strait-called-gate-of-tears",
       "source": "LA Times"
     },
     {
-      "name": "Game 1",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/sep/27/liberty-lync-wnba-playoffs-breanna-stewart-game-1",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Holocaust",
-      "count": 2,
-      "url": "https://www.theguardian.com/world/2026/sep/27/britain-knew-about-holocaust-as-it-happened-exhibition",
-      "source": "The Guardian"
-    },
-    {
-      "name": "7-Eleven",
-      "count": 1,
-      "url": "https://www.theguardian.com/thefilter-us/2026/sep/27/fibermaxxing-coke-plus",
-      "source": "The Guardian"
+      "name": "Hurricane Polo",
+      "count": 3,
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5983317/hurricane-polo-hurricane-nolo",
+      "source": "NPR"
     },
     {
       "name": "Game 7",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/sep/27/phillies-scrape-into-mlb-playoffs-after-week-of-living-hell-in-slow-motion",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Presidents Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/sep/27/snedeker-says-trump-gets-all-the-credit-after-us-complete-huge-presidents-cup-comeback",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Game 1",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/sep/27/liberty-lync-wnba-playoffs-breanna-stewart-game-1",
       "source": "The Guardian"
     },
     {
@@ -236,17 +168,85 @@
       "source": "The Guardian"
     },
     {
-      "name": "World Cup",
+      "name": "The World Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/sep/27/usa-peru-soccer-justin-ellis-cavan-sullivan-julian-hall",
+      "url": "https://www.theguardian.com/books/2026/sep/28/deep-into-the-sixties-britain-1965-66-by-david-kynaston-review-beatles-bigots-and-streets-in-the-sky",
       "source": "The Guardian"
     },
     {
-      "name": "Olympics",
+      "name": "7-Eleven",
       "count": 1,
-      "url": "https://www.theguardian.com/stage/2026/sep/27/stage-designer-es-devlin-design-museum-london-lehman-trilogy",
+      "url": "https://www.theguardian.com/thefilter-us/2026/sep/27/fibermaxxing-coke-plus",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Vitamix 5200",
+      "count": 1,
+      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-09-28T06:31:29Z"
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 26,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/28/high-t-testosterone-hegseth-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Taylor Swift",
+      "count": 12,
+      "url": "https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Queen Of Pop Madonna",
+      "count": 9,
+      "url": "https://www.nbcnews.com/video/watch-highlights-from-the-2026-mtv-video-music-awards-270634053639",
+      "source": "NBC News"
+    },
+    {
+      "name": "Gunn Imagines",
+      "count": 8,
+      "url": "https://www.theguardian.com/books/2026/sep/28/range-by-dorthe-nors-review-an-astrophysicist-at-odds-with-reality",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/09/28/nyregion/mamdanis-shadow-looms-over-hochuls-bid-for-re-election.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "John Fetterman",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/sep/28/john-fetterman-gaffe-republican",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Starship",
+      "count": 7,
+      "url": "https://www.theguardian.com/science/2026/sep/28/spacex-starship-rocket-orbits-earth-texas",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/28/netanyahu-re-election-mamdani",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mum",
+      "count": 7,
+      "url": "https://www.theguardian.com/food/2026/sep/27/best-thing-i-ever-ate-boeuf-a-la-mode-jeremy-lee",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Benjamin Satterley",
+      "count": 7,
+      "url": "https://www.latimes.com/sports/story/2026-09-27/pro-wrestler-pac-adrian-neville-dies",
+      "source": "LA Times"
+    }
+  ],
+  "updated": "2026-09-28T15:10:14Z"
 };
