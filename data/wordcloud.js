@@ -2,83 +2,58 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    84,
+    93,
     "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
   ],
   [
     "president",
     51,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/09/28/nyregion/tom-kean-jr-rebecca-bennett-debate-trump.html"
   ],
   [
     "war",
-    35,
-    "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
-  ],
-  [
-    "iran",
     33,
     "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
   ],
   [
     "game",
+    32,
+    "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory"
+  ],
+  [
+    "iran",
     31,
-    "https://www.theguardian.com/us-news/2026/sep/27/bear-human-encounters"
+    "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
   ],
   [
     "night",
-    26,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson"
+    27,
+    "https://www.nytimes.com/2026/09/27/us/last-ditch-lesbian-bar-covid-masks-massachusetts.html"
   ],
   [
-    "nation",
-    22,
-    "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power"
-  ],
-  [
-    "arrested",
-    21,
-    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
-  ],
-  [
-    "police",
-    21,
-    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
-  ],
-  [
-    "israel",
-    21,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "york",
-    21,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson"
+    "win",
+    23,
+    "https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa"
   ],
   [
     "country",
-    20,
+    22,
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "food",
-    20,
-    "https://www.theguardian.com/commentisfree/2026/sep/27/my-holiday-was-full-of-tantrums-and-hangry-meltdowns-and-it-wasnt-the-kids-who-were-to-blame"
+    "past",
+    21,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
     "love",
+    21,
+    "https://www.theguardian.com/commentisfree/2026/sep/28/switzerlands-love-of-referendums-helps-us-keep-the-far-right-at-bay"
+  ],
+  [
+    "police",
     20,
-    "https://www.theguardian.com/music/2026/sep/27/kimberly-wyatt-pussycat-dolls-honest-playlist-whitney-houston-eminem"
-  ],
-  [
-    "democrats",
-    19,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections"
-  ],
-  [
-    "interview",
-    19,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections"
+    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
   ],
   [
     "feel",
@@ -86,59 +61,74 @@
     "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey"
   ],
   [
-    "john",
+    "music",
     19,
+    "https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa"
+  ],
+  [
+    "death",
+    18,
+    "https://www.washingtonpost.com/obituaries/2026/09/26/breaking-into-boys-club-talk-radio-she-became-beloved-chicago-broadcaster/"
+  ],
+  [
+    "john",
+    18,
     "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language"
   ],
   [
-    "late",
-    19,
-    "https://www.theguardian.com/sport/2026/sep/27/dante-moore-late-hit-hospital-oregon-usc-college-football"
-  ],
-  [
-    "latest",
+    "because",
     18,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/us-news/2026/sep/27/todd-blanche-trump-white-house-media"
   ],
   [
-    "win",
+    "california",
     18,
-    "https://www.theguardian.com/sport/2026/sep/27/dante-moore-late-hit-hospital-oregon-usc-college-football"
+    "https://www.theguardian.com/us-news/2026/sep/27/northern-california-bear-attack"
   ],
   [
-    "near",
+    "swift",
+    18,
+    "https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa"
+  ],
+  [
+    "far",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/sep/28/blue-lights-sian-brooke-peelers-sherlock-house-of-the-dragon"
+  ],
+  [
+    "food",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/sep/27/my-holiday-was-full-of-tantrums-and-hangry-meltdowns-and-it-wasnt-the-kids-who-were-to-blame"
+  ],
+  [
+    "arrested",
     17,
     "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
   ],
   [
-    "least",
+    "interview",
     17,
-    "https://www.washingtonpost.com/nation/2026/09/26/police-search-house-filled-with-porn-clues-about-missing-women/"
+    "https://www.nytimes.com/2026/09/23/world/canada/mark-carney-canada-us-trump-tariffs.html"
   ],
   [
-    "death",
+    "york",
     17,
-    "https://www.washingtonpost.com/obituaries/2026/09/26/breaking-into-boys-club-talk-radio-she-became-beloved-chicago-broadcaster/"
+    "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html"
   ],
   [
-    "past",
+    "nation",
     17,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power"
   ],
   [
-    "california",
+    "taylor",
     17,
-    "https://www.theguardian.com/film/2026/sep/25/chris-hansen-paedophile-show-robert-pattinson"
+    "https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa"
   ],
   [
-    "margaret",
+    "late",
     17,
-    "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/"
-  ],
-  [
-    "brennan",
-    17,
-    "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/"
+    "https://www.theguardian.com/commentisfree/2026/sep/26/kamala-harris-progressives-arab-americans"
   ],
   [
     "republicans",
@@ -146,14 +136,14 @@
     "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
   ],
   [
-    "gaza",
+    "loss",
     16,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/09/27/movies/kyle-maclachlan-memoir-david-lynch-twin-peaks-sex-and-the-city.html"
   ],
   [
-    "media",
+    "least",
     16,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections"
+    "https://www.washingtonpost.com/nation/2026/09/26/police-search-house-filled-with-porn-clues-about-missing-women/"
   ],
   [
     "family",
@@ -161,9 +151,9 @@
     "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey"
   ],
   [
-    "season",
+    "hard",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/28/blue-lights-sian-brooke-peelers-sherlock-house-of-the-dragon"
   ],
   [
     "filter",
@@ -171,14 +161,29 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/27/fibermaxxing-coke-plus"
   ],
   [
+    "final",
+    16,
+    "https://www.theguardian.com/sport/2026/sep/27/phillies-scrape-into-mlb-playoffs-after-week-of-living-hell-in-slow-motion"
+  ],
+  [
     "money",
     16,
     "https://www.theguardian.com/tv-and-radio/2026/sep/25/sienna-miller-and-dominic-west-interview-war"
   ],
   [
-    "democratic",
+    "near",
     15,
-    "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html"
+    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
+  ],
+  [
+    "base",
+    15,
+    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
+  ],
+  [
+    "latest",
+    15,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
     "don",
@@ -186,14 +191,29 @@
     "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections"
   ],
   [
-    "kennedy",
+    "media",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections"
   ],
   [
-    "american",
+    "point",
     15,
-    "https://www.theguardian.com/education/2026/sep/27/st-andrews-university-class-divide-american-students"
+    "https://www.theguardian.com/news/ng-interactive/2026/sep/27/i-turbocharged-my-career-then-pressed-eject-why-couples-are-getting-divorced-later"
+  ],
+  [
+    "mtv",
+    15,
+    "https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa"
+  ],
+  [
+    "vmas",
+    15,
+    "https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa"
+  ],
+  [
+    "ago",
+    15,
+    "https://www.theguardian.com/world/2026/sep/28/same-struggles-exhibition-highlights-lives-sami-people-sweden"
   ],
   [
     "party",
@@ -201,54 +221,29 @@
     "https://www.theguardian.com/commentisfree/2026/sep/27/instagram-reels-conversation-short-form-video-social-media"
   ],
   [
-    "film",
+    "poll",
     15,
-    "https://www.theguardian.com/film/2026/sep/27/naza-film-new-york-city-premiere"
+    "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections"
   ],
   [
-    "air",
+    "china",
     14,
-    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
+    "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html"
   ],
   [
-    "base",
+    "recent",
     14,
-    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey"
   ],
   [
-    "loss",
+    "having",
     14,
-    "https://www.nytimes.com/2026/09/27/movies/kyle-maclachlan-memoir-david-lynch-twin-peaks-sex-and-the-city.html"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey"
   ],
   [
-    "election",
+    "video",
     14,
-    "https://www.washingtonpost.com/business/2026/09/26/record-high-diesel-prices-have-states-weighing-gas-tax-holidays-before-midterms/"
-  ],
-  [
-    "red",
-    14,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "social",
-    14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson"
-  ],
-  [
-    "meet",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker"
-  ],
-  [
-    "hard",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/28/kindness-of-strangers-helicopter-pilots-waved-to-my-son"
+    "https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa"
   ],
   [
     "guide",
@@ -256,9 +251,14 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/27/fibermaxxing-coke-plus"
   ],
   [
-    "morning",
+    "league",
     14,
-    "https://www.theguardian.com/commentisfree/2026/sep/27/my-holiday-was-full-of-tantrums-and-hangry-meltdowns-and-it-wasnt-the-kids-who-were-to-blame"
+    "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory"
+  ],
+  [
+    "senate",
+    14,
+    "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections"
   ],
   [
     "tested",
@@ -266,54 +266,64 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/26/xpedition2-ebike-review-best-electric-bicycle-tested"
   ],
   [
-    "midterm",
-    13,
-    "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
-  ],
-  [
-    "senate",
-    13,
-    "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html"
-  ],
-  [
     "voters",
     13,
     "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html"
   ],
   [
-    "early",
-    13,
-    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
-  ],
-  [
-    "states",
-    13,
-    "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html"
-  ],
-  [
-    "hospital",
+    "lives",
     13,
     "https://www.washingtonpost.com/obituaries/2026/09/27/nurse-who-chided-reagan-hospital-other-lives-weve-lost/"
   ],
   [
-    "recent",
+    "artist",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey"
+    "https://www.washingtonpost.com/obituaries/2026/09/27/nurse-who-chided-reagan-hospital-other-lives-weve-lost/"
   ],
   [
-    "press",
+    "election",
+    13,
+    "https://www.washingtonpost.com/business/2026/09/26/record-high-diesel-prices-have-states-weighing-gas-tax-holidays-before-midterms/"
+  ],
+  [
+    "red",
+    13,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "democrats",
+    13,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections"
+  ],
+  [
+    "west",
+    13,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections"
+  ],
+  [
+    "political",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language"
+  ],
+  [
+    "season",
     13,
     "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson"
   ],
   [
-    "experience",
+    "donald",
     13,
-    "https://www.theguardian.com/news/ng-interactive/2026/sep/27/i-turbocharged-my-career-then-pressed-eject-why-couples-are-getting-divorced-later"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson"
   ],
   [
-    "because",
+    "control",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/27/todd-blanche-trump-white-house-media"
+    "https://www.theguardian.com/us-news/2026/sep/27/trump-midterms-counting-window"
+  ],
+  [
+    "star",
+    13,
+    "https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa"
   ],
   [
     "fewer",
@@ -321,58 +331,48 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/27/fibermaxxing-coke-plus"
   ],
   [
-    "ago",
+    "lead",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/27/my-husband-never-stops-working-but-he-wont-discuss-it-should-i-leave-him"
+    "https://www.theguardian.com/commentisfree/2026/sep/28/celebrity-deaths-parasocial-relationships-grief"
   ],
   [
-    "author",
+    "little",
     13,
-    "https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour"
-  ],
-  [
-    "political",
-    12,
-    "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html"
-  ],
-  [
-    "china",
-    12,
-    "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html"
-  ],
-  [
-    "released",
-    12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "having",
-    12,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey"
-  ],
-  [
-    "control",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/27/trump-midterms-counting-window"
-  ],
-  [
-    "usc",
-    12,
-    "https://www.theguardian.com/sport/2026/sep/27/dante-moore-late-hit-hospital-oregon-usc-college-football"
-  ],
-  [
-    "final",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/sep/26/un-speech-macron-parting-gift-stand-up-to-trump"
-  ],
-  [
-    "league",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory"
+    "https://www.theguardian.com/commentisfree/2026/sep/26/kamala-harris-progressives-arab-americans"
   ],
   [
     "race",
-    12,
+    13,
     "https://www.theguardian.com/sport/2026/sep/27/brandon-mcnulty-uci-world-championship-road-race-2026-lance-armstrong-cycling"
+  ],
+  [
+    "air",
+    12,
+    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
+  ],
+  [
+    "early",
+    12,
+    "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
+  ],
+  [
+    "minister",
+    12,
+    "https://www.nytimes.com/2026/09/23/world/canada/mark-carney-canada-us-trump-tariffs.html"
+  ],
+  [
+    "gaza",
+    12,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "attack",
+    12,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "social",
+    12,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections"
   ]
 ];
