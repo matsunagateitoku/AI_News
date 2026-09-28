@@ -2,83 +2,98 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    92,
-    "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html"
-  ],
-  [
-    "president",
-    32,
-    "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html"
-  ],
-  [
-    "iran",
-    29,
-    "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html"
-  ],
-  [
-    "california",
-    25,
-    "https://www.theguardian.com/us-news/2026/sep/28/california-kelvin-wave"
-  ],
-  [
-    "game",
-    23,
-    "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory"
-  ],
-  [
-    "base",
-    22,
-    "https://www.nytimes.com/2026/09/28/podcasts/the-headlines/terror-plot-base-amazon-drones-texas.html"
-  ],
-  [
-    "york",
-    22,
-    "https://www.nytimes.com/2026/09/27/nyregion/nyc-line-dancing.html"
-  ],
-  [
-    "air",
-    21,
-    "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html"
-  ],
-  [
-    "senate",
-    20,
-    "https://www.nytimes.com/2026/09/28/us/black-voters-talarico-texas-turnout.html"
-  ],
-  [
-    "food",
-    20,
-    "https://www.nytimes.com/2026/09/28/briefing/protein-in-every-food.html"
-  ],
-  [
-    "latest",
-    20,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    87,
+    "https://www.nytimes.com/2026/09/28/briefing/trump-sharply-scales-back-fuel-economy-rules.html"
   ],
   [
     "war",
-    19,
+    29,
+    "https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html"
+  ],
+  [
+    "president",
+    29,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "york",
+    26,
+    "https://www.nytimes.com/2026/09/28/us/jonathan-mckinsey-new-york-times-shooting-california.html"
+  ],
+  [
+    "game",
+    24,
+    "https://www.theguardian.com/sport/2026/sep/27/dante-moore-late-hit-hospital-oregon-usc-college-football"
+  ],
+  [
+    "latest",
+    23,
+    "https://www.nytimes.com/2026/09/28/briefing/trump-sharply-scales-back-fuel-economy-rules.html"
+  ],
+  [
+    "iran",
+    23,
     "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html"
   ],
   [
-    "win",
-    19,
-    "https://www.nytimes.com/2026/09/28/opinion/affordability-democrats-midterms.html"
+    "case",
+    23,
+    "https://www.nytimes.com/2026/09/28/us/politics/alito-suncor-supreme-court-recuse.html"
   ],
   [
-    "love",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/sep/28/gen-z-age-gap-relationships"
+    "death",
+    23,
+    "https://www.washingtonpost.com/investigations/2026/09/28/judge-rules-favor-wone-estate-case-related-dupont-circle-killing/"
   ],
   [
-    "far",
-    18,
-    "https://www.nytimes.com/2026/09/28/world/americas/what-we-saw-in-one-venezuelan-gold-town.html"
+    "senate",
+    22,
+    "https://www.theguardian.com/us-news/2026/sep/28/trump-steel-plant-iowa"
+  ],
+  [
+    "social",
+    21,
+    "https://www.nytimes.com/2026/09/28/magazine/min-jin-lee-american-hagwon.html"
+  ],
+  [
+    "film",
+    20,
+    "https://www.nytimes.com/2026/09/28/opinion/naza-film-gaza-israel.html"
+  ],
+  [
+    "california",
+    20,
+    "https://www.theguardian.com/us-news/2026/sep/28/california-kelvin-wave"
   ],
   [
     "guide",
-    18,
+    19,
     "https://www.washingtonpost.com/education/2026/09/28/want-advice-financing-college-sign-up-paying-college-101-newsletter/"
+  ],
+  [
+    "israel",
+    19,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "media",
+    19,
+    "https://www.theguardian.com/us-news/2026/sep/28/texas-republican-controversial-social-media-posts"
+  ],
+  [
+    "food",
+    19,
+    "https://www.theguardian.com/thefilter-us/2026/sep/25/anyday-square-glass-dish-containers"
+  ],
+  [
+    "released",
+    18,
+    "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html"
+  ],
+  [
+    "administration",
+    18,
+    "https://www.nytimes.com/2026/09/28/climate/trump-gas-cars-mileage-standards.html"
   ],
   [
     "filter",
@@ -86,84 +101,114 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/24/best-pillow-sleep-mask-dog-training-ice-cream-maker-weighted-blanket"
   ],
   [
-    "music",
+    "don",
     18,
-    "https://www.theguardian.com/commentisfree/2026/sep/28/hill-i-will-die-on-pubs-music-quiz-nights"
+    "https://www.theguardian.com/football/2026/sep/28/israel-captain-manor-solomon-feud-republic-ireland-gaza-nations-league"
   ],
   [
-    "family",
+    "republicans",
     17,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/28/how-couples-can-divide-household-chores-mental-load"
+    "https://www.nytimes.com/2026/09/28/briefing/trump-sharply-scales-back-fuel-economy-rules.html"
   ],
   [
-    "death",
+    "base",
     17,
-    "https://www.theguardian.com/us-news/2026/sep/26/california-man-charged-killing-ex-wife-jill-maiorca"
+    "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html"
   ],
   [
-    "administration",
-    16,
-    "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html"
+    "police",
+    17,
+    "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html"
   ],
   [
-    "texas",
-    16,
-    "https://www.nytimes.com/2026/09/28/podcasts/the-headlines/terror-plot-base-amazon-drones-texas.html"
+    "election",
+    17,
+    "https://www.nytimes.com/2026/09/28/climate/fema-grants-election-changes-ruling.html"
   ],
   [
-    "arrested",
+    "investigation",
     16,
+    "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html"
+  ],
+  [
+    "democratic",
+    16,
+    "https://www.nytimes.com/2026/09/28/us/politics/john-husted-ohio-president-trump-midterms.html"
+  ],
+  [
+    "campaign",
+    16,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "video",
+    16,
+    "https://www.theguardian.com/sport/2026/sep/28/nfl-immigration-video-brian-dawkins-dhs"
+  ],
+  [
+    "rules",
+    15,
+    "https://www.nytimes.com/2026/09/28/briefing/trump-sharply-scales-back-fuel-economy-rules.html"
+  ],
+  [
+    "american",
+    15,
     "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html"
   ],
   [
-    "israel",
-    16,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "league",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory"
-  ],
-  [
-    "democrats",
+    "court",
     15,
-    "https://www.nytimes.com/2026/09/28/opinion/affordability-democrats-midterms.html"
+    "https://www.nytimes.com/2026/09/28/us/politics/trump-administration-revises-sex-discrimination-rules.html"
   ],
   [
-    "near",
+    "cornell",
     15,
-    "https://www.theguardian.com/uk-news/2026/sep/28/men-arrested-raf-fairford-counter-terrorism-police"
+    "https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html"
   ],
   [
-    "media",
+    "university",
     15,
-    "https://www.theguardian.com/us-news/2026/sep/28/john-fetterman-gaffe-republican"
+    "https://www.washingtonpost.com/education/2026/09/28/cornell-rape-allegations-prompt-prosecutor-reopen-criminal-investigation/"
   ],
   [
-    "terror",
-    14,
-    "https://www.nytimes.com/2026/09/28/podcasts/the-headlines/terror-plot-base-amazon-drones-texas.html"
+    "texas",
+    15,
+    "https://www.theguardian.com/us-news/2026/sep/28/texas-republican-controversial-social-media-posts"
   ],
   [
-    "buying",
-    14,
-    "https://www.nytimes.com/2026/09/26/business/ball-screws-military-production.html"
+    "political",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/sep/28/netanyahu-re-election-mamdani"
   ],
   [
-    "black",
-    14,
-    "https://www.nytimes.com/2026/09/28/us/black-voters-talarico-texas-turnout.html"
+    "love",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/sep/28/gen-z-age-gap-relationships"
   ],
   [
-    "china",
-    14,
-    "https://www.nytimes.com/2026/09/28/business/china-us-summit-tariffs.html"
+    "review",
+    15,
+    "https://www.theguardian.com/film/2026/sep/28/crushed-review-child-kidnap-thriller-steve-oram"
   ],
   [
-    "attack",
+    "economy",
     14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/09/28/briefing/trump-sharply-scales-back-fuel-economy-rules.html"
+  ],
+  [
+    "arrested",
+    14,
+    "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html"
+  ],
+  [
+    "because",
+    14,
+    "https://www.nytimes.com/2026/09/28/us/politics/alito-suncor-supreme-court-recuse.html"
+  ],
+  [
+    "college",
+    14,
+    "https://www.washingtonpost.com/education/2026/09/28/want-advice-financing-college-sign-up-paying-college-101-newsletter/"
   ],
   [
     "early",
@@ -171,69 +216,44 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "announced",
-    14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/28/high-t-testosterone-hegseth-trump"
+    "near",
+    13,
+    "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html"
   ],
   [
-    "social",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/28/one-change-that-worked-anxiety-two-magic-questions"
+    "air",
+    13,
+    "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html"
   ],
   [
-    "political",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/28/john-fetterman-gaffe-republican"
-  ],
-  [
-    "department",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/28/boston-sues-trump-administration"
-  ],
-  [
-    "money",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/28/boston-sues-trump-administration"
-  ],
-  [
-    "fewer",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/26/san-francisco-bay-area-public-transportation-bart"
-  ],
-  [
-    "ago",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/28/a-different-world-netflix-reboot"
-  ],
-  [
-    "feel",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/sep/28/netanyahu-re-election-mamdani"
-  ],
-  [
-    "swift",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/sep/28/abortion-bans-republicans"
-  ],
-  [
-    "don",
-    14,
-    "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power"
+    "final",
+    13,
+    "https://www.nytimes.com/2026/09/28/climate/trump-gas-cars-mileage-standards.html"
   ],
   [
     "states",
     13,
-    "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html"
+    "https://www.nytimes.com/2026/09/28/climate/fema-grants-election-changes-ruling.html"
   ],
   [
-    "plot",
+    "members",
     13,
-    "https://www.nytimes.com/2026/09/28/podcasts/the-headlines/terror-plot-base-amazon-drones-texas.html"
+    "https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html"
   ],
   [
-    "starship",
+    "department",
     13,
-    "https://www.nytimes.com/2026/09/28/science/space/spacex-starship-first-orbital-flight.html"
+    "https://www.nytimes.com/2026/09/28/us/jonathan-mckinsey-new-york-times-shooting-california.html"
+  ],
+  [
+    "post",
+    13,
+    "https://www.washingtonpost.com/obituaries/2026/09/28/jodie-allen-washington-post-editor-who-made-arcane-accessible-dies-88/"
+  ],
+  [
+    "rape",
+    13,
+    "https://www.washingtonpost.com/education/2026/09/28/cornell-rape-allegations-prompt-prosecutor-reopen-criminal-investigation/"
   ],
   [
     "loss",
@@ -241,129 +261,94 @@
     "https://www.washingtonpost.com/nation/2026/09/27/after-wildfires-devastated-spokane-high-school-became-an-oasis-normalcy/"
   ],
   [
-    "powerful",
+    "china",
     13,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "country",
+    "past",
     13,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "cbs",
+    "buying",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/28/john-fetterman-gaffe-republican"
+    "https://www.theguardian.com/thefilter-us/2026/sep/24/best-pillow-sleep-mask-dog-training-ice-cream-maker-weighted-blanket"
   ],
   [
-    "decades",
+    "fewer",
     13,
-    "https://www.theguardian.com/us-news/2026/sep/26/california-man-charged-killing-ex-wife-jill-maiorca"
+    "https://www.theguardian.com/thefilter-us/2026/sep/24/best-pillow-sleep-mask-dog-training-ice-cream-maker-weighted-blanket"
   ],
   [
-    "because",
-    13,
-    "https://www.theguardian.com/culture/2026/sep/28/how-republica-made-90s-anthem-ready-to-go-saff"
-  ],
-  [
-    "republicans",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/sep/28/abortion-bans-republicans"
-  ],
-  [
-    "review",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/sep/28/switzerlands-love-of-referendums-helps-us-keep-the-far-right-at-bay"
-  ],
-  [
-    "east",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/28/noreaster-storm-floods-coastal-areas-new-jersey"
-  ],
-  [
-    "tested",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/26/xpedition2-ebike-review-best-electric-bicycle-tested"
-  ],
-  [
-    "hard",
+    "fraternity",
     12,
-    "https://www.nytimes.com/2026/09/26/business/ball-screws-military-production.html"
+    "https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html"
   ],
   [
-    "voters",
+    "family",
     12,
-    "https://www.nytimes.com/2026/09/28/us/black-voters-talarico-texas-turnout.html"
+    "https://www.nytimes.com/2026/09/28/us/christa-pike-tennessee-execution.html"
   ],
   [
-    "recent",
+    "attack",
     12,
-    "https://www.nytimes.com/2026/09/28/us/black-voters-talarico-texas-turnout.html"
-  ],
-  [
-    "plans",
-    12,
-    "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html"
-  ],
-  [
-    "investigation",
-    12,
-    "https://www.washingtonpost.com/education/2026/09/28/cornell-rape-allegations-prompt-prosecutor-reopen-criminal-investigation/"
-  ],
-  [
-    "university",
-    12,
-    "https://www.washingtonpost.com/education/2026/09/28/cornell-rape-allegations-prompt-prosecutor-reopen-criminal-investigation/"
+    "https://www.nytimes.com/2026/09/28/us/politics/proud-boys-documenatry-premiere-jan-6.html"
   ],
   [
     "spent",
     12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.washingtonpost.com/obituaries/2026/09/28/jodie-allen-washington-post-editor-who-made-arcane-accessible-dies-88/"
   ],
   [
-    "global",
+    "peace",
     12,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
   ],
   [
-    "red",
+    "though",
     12,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   ],
   [
-    "despite",
+    "worth",
     12,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.theguardian.com/tv-and-radio/2026/sep/28/a-different-world-netflix-reboot"
   ],
   [
-    "having",
+    "alleged",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/28/how-couples-can-divide-household-chores-mental-load"
-  ],
-  [
-    "today",
-    12,
-    "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates"
-  ],
-  [
-    "weekly",
-    12,
-    "https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections"
-  ],
-  [
-    "film",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/sep/28/gen-z-age-gap-relationships"
-  ],
-  [
-    "child",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/sep/28/hill-i-will-die-on-pubs-music-quiz-nights"
+    "https://www.theguardian.com/us-news/2026/sep/28/cornell-fraternity-investigation-alleged-gang-rape"
   ],
   [
     "lead",
     12,
-    "https://www.theguardian.com/sport/2026/sep/27/phillies-scrape-into-mlb-playoffs-after-week-of-living-hell-in-slow-motion"
+    "https://www.theguardian.com/us-news/2026/sep/28/texas-republican-controversial-social-media-posts"
+  ],
+  [
+    "john",
+    12,
+    "https://www.theguardian.com/us-news/2026/sep/28/texas-republican-controversial-social-media-posts"
+  ],
+  [
+    "win",
+    12,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/28/high-t-testosterone-hegseth-trump"
+  ],
+  [
+    "little",
+    12,
+    "https://www.theguardian.com/culture/2026/sep/28/how-republica-made-90s-anthem-ready-to-go-saff"
+  ],
+  [
+    "having",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/sep/28/gen-z-age-gap-relationships"
+  ],
+  [
+    "tested",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/sep/26/xpedition2-ebike-review-best-electric-bicycle-tested"
   ],
   [
     "containers",
@@ -371,8 +356,23 @@
     "https://www.theguardian.com/thefilter-us/2026/sep/25/anyday-square-glass-dish-containers"
   ],
   [
-    "united",
+    "country",
     11,
-    "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html"
+    "https://www.nytimes.com/2026/09/28/world/europe/urkaine-drone-attack-kyiv-academy-sciences.html"
+  ],
+  [
+    "north",
+    11,
+    "https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html"
+  ],
+  [
+    "plot",
+    11,
+    "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html"
+  ],
+  [
+    "climate",
+    11,
+    "https://www.nytimes.com/2026/09/28/us/politics/alito-suncor-supreme-court-recuse.html"
   ]
 ];
