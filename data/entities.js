@@ -3,33 +3,15 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 53,
-      "url": "https://www.theguardian.com/stage/2026/sep/29/sarah-jones-america-who-hurt-you-interview-eric-ting",
+      "count": 49,
+      "url": "https://www.theguardian.com/sport/2026/sep/29/nhl-canada-us-moves-connor-hellebuyck-tkachuk-larkin-hughes",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 16,
-      "url": "https://www.theguardian.com/us-news/2026/sep/28/california-kelvin-wave",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "London County Hall",
-      "count": 12,
-      "url": "https://www.theguardian.com/world/2026/sep/29/jaw-dropping-play-based-on-pelicot-trial-comes-to-london-for-one-night",
-      "source": "The Guardian"
+      "count": 17,
+      "url": "https://www.washingtonpost.com/nation/2026/09/29/homelessness-stubbornly-persists-even-us-cities-spend-more-end-it/",
+      "source": "Washington Post"
     },
     {
       "name": "New York City’S",
@@ -38,128 +20,128 @@
       "source": "The Guardian"
     },
     {
-      "name": "China",
+      "name": "California",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/09/29/arts/television/late-night-xi-jinping-white-house-visit.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Manchester City",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/29/manchester-city-global-mega-rich-impunity",
+      "url": "https://www.theguardian.com/us-news/2026/sep/29/six-flags-permanently-shuts-down-x2-rollercoaster",
       "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 9,
+      "url": "https://www.theguardian.com/music/2026/sep/29/luckenbach-the-texas-town-a-byword-for-outlaw-country-music",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. Here'S",
+      "count": 9,
+      "url": "https://www.latimes.com/delos/story/2026-09-15/dual-citizenship-how-to-los-angeles-mexican-consulate",
+      "source": "LA Times"
     },
     {
       "name": "Openai",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "America",
+      "count": 8,
+      "url": "https://www.theguardian.com/stage/2026/sep/29/sarah-jones-america-who-hurt-you-interview-eric-ting",
+      "source": "The Guardian"
+    },
+    {
+      "name": "China",
+      "count": 7,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Ukraine",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
       "source": "NY Times"
     }
   ],
-  "EVENT": [
+  "ORG": [
     {
-      "name": "Decision Day",
-      "count": 2,
-      "url": "https://www.nbcnews.com/meet-the-press/video/-fed-up-with-a-war-they-didn-t-want-midwestern-voters-air-frustrations-impacting-the-midterms-268551237711",
+      "name": "Trump Administration",
+      "count": 63,
+      "url": "https://www.nytimes.com/2026/09/29/business/irs-tax-returns-citizenship.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ai",
+      "count": 37,
+      "url": "https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Senate Judiciary Committee",
+      "count": 22,
+      "url": "https://www.nbcnews.com/video/republican-senator-mistakenly-accuses-jack-smith-of-perjury-over-nba-game-270730309638",
       "source": "NBC News"
     },
     {
-      "name": "Iran War ‘",
-      "count": 2,
-      "url": "https://www.politico.com/news/2026/09/22/jon-husted-iran-war-quick-end-trump-01088614",
-      "source": "Politico"
+      "name": "Supreme Court Allows Trump Administration’S",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html",
+      "source": "NY Times"
     },
     {
-      "name": "A Read Palestine Week",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/sep/29/library-palestine-event-lawsuit",
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "World Series",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/sep/29/mlb-playoff-predictions-dodgers-brewers-rays-wildcard",
+      "name": "Bbc Broadcasting House",
+      "count": 11,
+      "url": "https://www.theguardian.com/books/2026/sep/29/cherise-saywell-wins-bbc-short-story-award-ditto",
       "source": "The Guardian"
     },
     {
-      "name": "World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/sep/29/fifa-accuses-uefa-misinformation-campaign-gianni-infantino-influence-election",
+      "name": "Cbs News",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/sep/29/cornell-texts-rape-investigation",
       "source": "The Guardian"
     },
     {
-      "name": "Super Bowl",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/sep/28/telemundo-reporter-death-sentences",
+      "name": "Gop",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/sep/29/jack-smith-senate-hearing",
       "source": "The Guardian"
     },
     {
-      "name": "Strange Days",
-      "count": 1,
-      "url": "https://www.theguardian.com/film/2026/sep/29/april-x-review-connor-storrie-lilly-krug",
+      "name": "Trump White House",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/28/high-t-testosterone-hegseth-trump",
       "source": "The Guardian"
     },
     {
-      "name": "Night Flowers",
-      "count": 1,
-      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/29/damien-frost-drag-queen-portraits-photography",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New Annual",
-      "count": 1,
-      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/29/damien-frost-drag-queen-portraits-photography",
-      "source": "The Guardian"
-    },
-    {
-      "name": "7-Eleven",
-      "count": 1,
-      "url": "https://www.theguardian.com/thefilter-us/2026/sep/27/fibermaxxing-coke-plus",
+      "name": "Congress",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/29/senate-democrats-trump-midterms",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 18,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/29/senate-democrats-trump-midterms",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dennis Haskins",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/09/29/arts/television/dennis-haskins-dead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Lindsay Clancy",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/nation/2026/09/29/lindsay-clancy-is-back-court-tuesday-after-her-case-ended-mistrial/",
+      "count": 29,
+      "url": "https://www.washingtonpost.com/politics/2026/09/29/jack-smith-clashes-with-gop-senators-over-trump-investigations/",
       "source": "Washington Post"
     },
     {
       "name": "Jack Smith",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
-      "source": "The Guardian"
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
+      "source": "NY Times"
     },
     {
-      "name": "Donald Trump     Sign",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
+      "name": "Donald Trump ’S",
+      "count": 13,
+      "url": "https://www.theguardian.com/culture/2026/sep/29/jon-stewart-trump-xi-jinping-visit",
       "source": "The Guardian"
-    },
-    {
-      "name": "Principal Richard Belding",
-      "count": 9,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-09-28/dennis-haskins-dead-actor-known-for-saved-by-bell-was-75",
-      "source": "LA Times"
     },
     {
       "name": "Sarah Jones",
@@ -174,79 +156,97 @@
       "source": "The Guardian"
     },
     {
-      "name": "Marco Rubio",
+      "name": "Zohran Mamdani",
       "count": 7,
-      "url": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html",
+      "url": "https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html",
       "source": "NY Times"
     },
     {
-      "name": "Jonathan Mckinsey",
+      "name": "Lindsay Clancy",
+      "count": 6,
+      "url": "https://www.washingtonpost.com/nation/2026/09/29/lindsay-clancy-is-back-court-tuesday-after-her-case-ended-mistrial/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Caleb Flynn",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/sep/29/american-idol-ohio-pastor-guilty-wife-murder",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Taylor Swift",
+      "count": 6,
+      "url": "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tom Cruise",
       "count": 5,
-      "url": "https://www.nytimes.com/2026/09/28/us/jonathan-mckinsey-new-york-times-shooting-california.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/film/2026/sep/29/digger-review-tom-cruise-satire-alejandro-gonzalez-inarritu",
+      "source": "The Guardian"
     }
   ],
-  "ORG": [
+  "EVENT": [
     {
-      "name": "Trump White House",
-      "count": 84,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/28/high-t-testosterone-hegseth-trump",
+      "name": "World Cup",
+      "count": 3,
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/29/the-guardian-view-on-moroccos-election-hosting-a-world-cup-will-not-placate-a-disillusioned-generation",
       "source": "The Guardian"
     },
     {
-      "name": "Ai",
-      "count": 39,
-      "url": "https://www.theguardian.com/us-news/video/2026/sep/29/naza-israel-film-stateside-kai-and-carter",
+      "name": "The Iran War",
+      "count": 3,
+      "url": "https://www.latimes.com/world-nation/story/2026-09-27/new-flash-point-in-iran-war-narrow-strait-called-gate-of-tears",
+      "source": "LA Times"
+    },
+    {
+      "name": "Hurricane Polo",
+      "count": 2,
+      "url": "https://www.latimes.com/california/story/2026-09-28/hurricane-polo-tropical-storm-odalys-send-dangerous-surf-to-southern-california-coast",
+      "source": "LA Times"
+    },
+    {
+      "name": "World Series",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/sep/29/mlb-playoff-predictions-dodgers-brewers-rays-wildcard",
       "source": "The Guardian"
     },
     {
-      "name": "Senate Judiciary Committee",
-      "count": 24,
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
+      "name": "The European Championship",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/sep/29/czechia-england-nations-league-match-report",
       "source": "The Guardian"
     },
     {
-      "name": "Guardian",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/video/2026/sep/29/naza-israel-film-stateside-kai-and-carter",
+      "name": "7-Eleven",
+      "count": 1,
+      "url": "https://www.theguardian.com/thefilter-us/2026/sep/27/fibermaxxing-coke-plus",
       "source": "The Guardian"
     },
     {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "name": "Vitamix 5200",
+      "count": 1,
+      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
       "source": "The Guardian"
     },
     {
-      "name": "Nbc News Senior National Politics",
-      "count": 11,
-      "url": "https://www.nbcnews.com/meet-the-press/video/trump-doesn-t-have-a-plan-on-iran-voters-in-key-pennsylvania-district-upset-with-handling-of-war-268422725765",
-      "source": "NBC News"
+      "name": "Olympic",
+      "count": 1,
+      "url": "https://www.latimes.com/sports/olympics/story/2026-09-29/atlanta-start-los-angeles-2028-olympic-torch-relay",
+      "source": "LA Times"
     },
     {
-      "name": "Bell",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/09/29/arts/television/dennis-haskins-dead.html",
-      "source": "NY Times"
+      "name": "World Championship",
+      "count": 1,
+      "url": "https://www.foxnews.com/outkick-sports/wow-champion-santana-garrett-talks-choosing-pro-wrestling-over-teaching-jeanie-buss-ring",
+      "source": "Fox News"
     },
     {
-      "name": "Cornell University",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/education/2026/09/28/cornell-rape-allegations-prompt-prosecutor-reopen-criminal-investigation/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Congress",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/29/senate-democrats-trump-midterms",
-      "source": "The Guardian"
-    },
-    {
-      "name": "El Niño",
-      "count": 7,
-      "url": "https://www.washingtonpost.com/nation/interactive/2026/09/29/see-how-record-el-nio-has-transformed-hawaiis-hurricane-season/",
-      "source": "Washington Post"
+      "name": "White South Africans",
+      "count": 1,
+      "url": "https://www.cbsnews.com/news/trump-administration-white-south-africans-refugees-afrikaners/",
+      "source": "CBS News"
     }
   ],
-  "updated": "2026-09-29T13:53:39Z"
+  "updated": "2026-09-29T22:53:15Z"
 };

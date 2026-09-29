@@ -2,148 +2,128 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    98,
-    "https://www.nytimes.com/2026/09/28/us/politics/trump-steel-plant-iowa-midterms.html"
-  ],
-  [
-    "senate",
-    34,
-    "https://www.nytimes.com/2026/09/29/us/politics/ad-watch-nebraska-senate-race.html"
-  ],
-  [
-    "president",
-    33,
-    "https://www.nytimes.com/2026/09/28/us/politics/trump-steel-plant-iowa-midterms.html"
-  ],
-  [
-    "case",
-    32,
-    "https://www.washingtonpost.com/nation/2026/09/29/lindsay-clancy-is-back-court-tuesday-after-her-case-ended-mistrial/"
+    113,
+    "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html"
   ],
   [
     "court",
-    27,
-    "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html"
+    39,
+    "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html"
   ],
   [
-    "york",
-    27,
-    "https://www.nytimes.com/2026/09/28/us/jonathan-mckinsey-new-york-times-shooting-california.html"
+    "president",
+    37,
+    "https://www.nytimes.com/2026/09/29/us/politics/republicans-senate-midterms-trump-campaign.html"
   ],
   [
-    "death",
-    25,
-    "https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html"
-  ],
-  [
-    "night",
-    24,
-    "https://www.nytimes.com/2026/09/29/arts/television/late-night-xi-jinping-white-house-visit.html"
-  ],
-  [
-    "food",
-    20,
-    "https://www.theguardian.com/environment/2026/sep/29/un-warns-of-narrowing-window-to-restore-worlds-forests"
-  ],
-  [
-    "country",
-    19,
-    "https://www.nytimes.com/2026/09/28/us/politics/trump-steel-plant-iowa-midterms.html"
-  ],
-  [
-    "college",
-    19,
-    "https://www.nytimes.com/2026/09/29/us/college-professors-administrators-ai-dartmouth.html"
-  ],
-  [
-    "cornell",
-    19,
-    "https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html"
-  ],
-  [
-    "police",
-    19,
-    "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html"
-  ],
-  [
-    "voters",
-    18,
-    "https://www.nytimes.com/2026/09/29/us/politics/ad-watch-nebraska-senate-race.html"
+    "senate",
+    30,
+    "https://www.nytimes.com/2026/09/29/us/politics/republicans-senate-midterms-trump-campaign.html"
   ],
   [
     "latest",
-    18,
-    "https://www.nytimes.com/2026/09/29/us/college-professors-administrators-ai-dartmouth.html"
+    28,
+    "https://www.nytimes.com/2026/09/29/us/politics/shinyhunters-fbi-hacking-cybercriminal-group.html"
   ],
   [
-    "rape",
-    18,
-    "https://www.washingtonpost.com/education/2026/09/28/cornell-rape-allegations-prompt-prosecutor-reopen-criminal-investigation/"
+    "administration",
+    25,
+    "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html"
   ],
   [
-    "university",
-    18,
-    "https://www.washingtonpost.com/education/2026/09/28/cornell-rape-allegations-prompt-prosecutor-reopen-criminal-investigation/"
+    "country",
+    25,
+    "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html"
+  ],
+  [
+    "smith",
+    24,
+    "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html"
+  ],
+  [
+    "case",
+    24,
+    "https://www.nytimes.com/2026/09/29/nyregion/cornell-university-rape-investigation-chi-phi-fraternity.html"
   ],
   [
     "american",
-    18,
-    "https://www.theguardian.com/us-news/video/2026/sep/29/naza-israel-film-stateside-kai-and-carter"
-  ],
-  [
-    "california",
-    18,
-    "https://www.theguardian.com/us-news/2026/sep/28/california-kelvin-wave"
-  ],
-  [
-    "war",
-    17,
-    "https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html"
-  ],
-  [
-    "lindsay",
-    17,
-    "https://www.washingtonpost.com/nation/2026/09/29/lindsay-clancy-is-back-court-tuesday-after-her-case-ended-mistrial/"
-  ],
-  [
-    "don",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/sep/29/ai-models-security-risk-agents-openai-independent-security"
-  ],
-  [
-    "filter",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/sep/27/fibermaxxing-coke-plus"
+    24,
+    "https://www.theguardian.com/sport/2026/sep/29/nhl-canada-us-moves-connor-hellebuyck-tkachuk-larkin-hughes"
   ],
   [
     "data",
-    16,
-    "https://www.nytimes.com/2026/09/29/podcasts/the-headlines/huge-data-breach-leaves-fbi-scrambling-and-russian-attacks-destroy-millions-of-books.html"
+    23,
+    "https://www.nytimes.com/2026/09/29/us/politics/shinyhunters-fbi-hacking-cybercriminal-group.html"
   ],
   [
-    "investigation",
-    16,
-    "https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html"
+    "york",
+    22,
+    "https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html"
   ],
   [
-    "dennis",
-    16,
-    "https://www.nytimes.com/2026/09/29/arts/television/dennis-haskins-dead.html"
+    "republicans",
+    20,
+    "https://www.nytimes.com/2026/09/29/us/politics/republicans-senate-midterms-trump-campaign.html"
   ],
   [
-    "saved",
-    16,
-    "https://www.nytimes.com/2026/09/29/arts/television/dennis-haskins-dead.html"
+    "supreme",
+    19,
+    "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html"
   ],
   [
     "review",
-    16,
+    19,
     "https://www.washingtonpost.com/nation/2026/09/29/homelessness-stubbornly-persists-even-us-cities-spend-more-end-it/"
+  ],
+  [
+    "political",
+    19,
+    "https://www.theguardian.com/technology/2026/sep/29/political-campaigns-ai-tools-spending"
+  ],
+  [
+    "death",
+    18,
+    "https://www.washingtonpost.com/investigations/2026/09/28/judge-rules-favor-wone-estate-case-related-dupont-circle-killing/"
+  ],
+  [
+    "states",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/sep/29/senate-democrats-trump-midterms"
+  ],
+  [
+    "filter",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/sep/29/olive-young-k-beauty"
+  ],
+  [
+    "food",
+    18,
+    "https://www.theguardian.com/environment/2026/sep/29/un-warns-of-narrowing-window-to-restore-worlds-forests"
+  ],
+  [
+    "team",
+    17,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "democrats",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/sep/29/senate-democrats-trump-midterms"
+  ],
+  [
+    "game",
+    17,
+    "https://www.theguardian.com/games/2026/sep/25/ace-combat-8-wings-of-theve-review"
   ],
   [
     "judge",
     16,
-    "https://www.washingtonpost.com/nation/2026/09/29/lindsay-clancy-is-back-court-tuesday-after-her-case-ended-mistrial/"
+    "https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html"
+  ],
+  [
+    "control",
+    16,
+    "https://www.washingtonpost.com/education/2026/09/29/hegseth-bars-military-academies-hiring-civilians-tenured-professors/"
   ],
   [
     "guide",
@@ -151,139 +131,134 @@
     "https://www.washingtonpost.com/education/2026/09/28/want-advice-financing-college-sign-up-paying-college-101-newsletter/"
   ],
   [
-    "smith",
+    "war",
     16,
-    "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates"
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "sports",
+    "california",
     16,
+    "https://www.theguardian.com/us-news/2026/sep/29/six-flags-permanently-shuts-down-x2-rollercoaster"
+  ],
+  [
+    "glp",
+    16,
+    "https://www.theguardian.com/science/2026/sep/29/retatrutide-godzilla-of-weight-loss-drugs-other-health-benefits"
+  ],
+  [
+    "ice",
+    15,
+    "https://www.nytimes.com/2026/09/29/us/ice-hiring-immigration-enforcement-vetting.html"
+  ],
+  [
+    "night",
+    15,
     "https://www.theguardian.com/sport/2026/sep/29/nhl-canada-us-moves-connor-hellebuyck-tkachuk-larkin-hughes"
   ],
   [
-    "republicans",
+    "children",
     15,
-    "https://www.nytimes.com/2026/09/29/us/politics/democrats-voter-turnout.html"
+    "https://www.theguardian.com/us-news/2026/sep/29/child-labor-law-date-gaps-report"
   ],
   [
-    "iran",
+    "health",
     15,
-    "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html"
+    "https://www.theguardian.com/us-news/2026/sep/29/rfk-jr-collect-health-data"
   ],
   [
-    "haskins",
+    "young",
     15,
-    "https://www.nytimes.com/2026/09/29/arts/television/dennis-haskins-dead.html"
+    "https://www.theguardian.com/thefilter-us/2026/sep/29/olive-young-k-beauty"
   ],
   [
-    "bell",
+    "poll",
     15,
-    "https://www.nytimes.com/2026/09/29/arts/television/dennis-haskins-dead.html"
+    "https://www.theguardian.com/commentisfree/2026/sep/29/the-guardian-view-on-moroccos-election-hosting-a-world-cup-will-not-placate-a-disillusioned-generation"
   ],
   [
-    "rules",
-    15,
-    "https://www.washingtonpost.com/transportation/2026/09/28/trump-says-new-fuel-economy-rules-will-cut-car-prices-analysts-are-doubtful/"
-  ],
-  [
-    "tech",
-    15,
-    "https://www.theguardian.com/global/2026/sep/28/ai-agents-spiral"
-  ],
-  [
-    "criminal",
+    "announced",
     14,
-    "https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html"
+    "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html"
   ],
   [
-    "clancy",
+    "released",
+    14,
+    "https://www.nytimes.com/2026/09/29/us/ice-shooting-driver-austin-charges-body-camera.html"
+  ],
+  [
+    "jack",
+    14,
+    "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html"
+  ],
+  [
+    "cornell",
+    14,
+    "https://www.nytimes.com/2026/09/29/nyregion/cornell-university-rape-investigation-chi-phi-fraternity.html"
+  ],
+  [
+    "series",
+    14,
+    "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
+  ],
+  [
+    "event",
+    14,
+    "https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html"
+  ],
+  [
+    "donald",
+    14,
+    "https://www.washingtonpost.com/politics/2026/09/29/jack-smith-clashes-with-gop-senators-over-trump-investigations/"
+  ],
+  [
+    "lindsay",
     14,
     "https://www.washingtonpost.com/nation/2026/09/29/lindsay-clancy-is-back-court-tuesday-after-her-case-ended-mistrial/"
   ],
   [
-    "today",
+    "buying",
     14,
-    "https://www.theguardian.com/news/2026/sep/29/why-am-i-obsessed-with-chinas-ancient-golden-age-i-took-my-daughter-on-a-trip-to-find-out"
+    "https://www.theguardian.com/sport/2026/sep/29/nhl-canada-us-moves-connor-hellebuyck-tkachuk-larkin-hughes"
   ],
   [
-    "alleged",
+    "don",
     14,
-    "https://www.theguardian.com/commentisfree/2026/sep/29/leftwing-victory-berlin-freedom-liberals-die-linke-far-right"
+    "https://www.theguardian.com/commentisfree/2026/sep/29/ai-replace-humans"
   ],
   [
-    "tested",
-    14,
-    "https://www.theguardian.com/world/2026/sep/29/children-fiji-hiv-emergency-testing-drug-raid"
-  ],
-  [
-    "openai",
+    "party",
     13,
-    "https://www.nytimes.com/2026/09/29/world/asia/openai-australia-government-hack-apology.html"
+    "https://www.nytimes.com/2026/09/29/nyregion/cornell-daily-sun-newspaper-rape.html"
   ],
   [
-    "model",
+    "decision",
     13,
-    "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html"
+    "https://www.washingtonpost.com/nation/2026/09/29/lindsay-clancy-is-back-court-tuesday-after-her-case-ended-mistrial/"
   ],
   [
-    "safety",
+    "little",
     13,
-    "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html"
+    "https://www.washingtonpost.com/nation/2026/09/29/homelessness-stubbornly-persists-even-us-cities-spend-more-end-it/"
   ],
   [
-    "concerns",
-    13,
-    "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html"
-  ],
-  [
-    "fraternity",
-    13,
-    "https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html"
-  ],
-  [
-    "air",
-    13,
-    "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html"
-  ],
-  [
-    "belding",
-    13,
-    "https://www.nytimes.com/2026/09/29/arts/television/dennis-haskins-dead.html"
-  ],
-  [
-    "school",
-    13,
-    "https://www.nytimes.com/2026/09/29/arts/television/dennis-haskins-dead.html"
-  ],
-  [
-    "administration",
+    "rules",
     13,
     "https://www.washingtonpost.com/transportation/2026/09/28/trump-says-new-fuel-economy-rules-will-cut-car-prices-analysts-are-doubtful/"
   ],
   [
-    "loss",
+    "book",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/29/patricia-nilsson-exposing-worlds-biggest-porn-bosses"
   ],
   [
-    "red",
+    "guilty",
     13,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.theguardian.com/lifeandstyle/2026/sep/29/patricia-nilsson-exposing-worlds-biggest-porn-bosses"
   ],
   [
-    "team",
+    "politics",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "play",
-    13,
-    "https://www.theguardian.com/stage/2026/sep/29/sarah-jones-america-who-hurt-you-interview-eric-ting"
-  ],
-  [
-    "london",
-    13,
-    "https://www.theguardian.com/uk-news/2026/sep/29/raf-fairford-uk-bomb-plot-marco-rubio-claims-foreign-actor"
+    "https://www.theguardian.com/culture/2026/sep/29/bill-trump-demolish-kennedy-center"
   ],
   [
     "love",
@@ -291,88 +266,113 @@
     "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review"
   ],
   [
-    "political",
+    "defense",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/sep/28/a-great-book-with-barack-obama-tom-hanks-interview-best-podcasts-of-the-week"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/28/high-t-testosterone-hegseth-trump"
   ],
   [
-    "democrats",
+    "consumer",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/28/corporate-profiteering-americans-economy"
+  ],
+  [
+    "tax",
     12,
-    "https://www.nytimes.com/2026/09/29/us/politics/democrats-voter-turnout.html"
+    "https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html"
   ],
   [
-    "base",
+    "policy",
     12,
-    "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html"
+    "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html"
   ],
   [
-    "actor",
+    "countries",
     12,
-    "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html"
+    "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html"
   ],
   [
-    "secretary",
+    "won",
     12,
-    "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html"
+    "https://www.nytimes.com/2026/09/29/us/politics/republicans-senate-midterms-trump-campaign.html"
   ],
   [
-    "possible",
-    12,
-    "https://www.nytimes.com/2026/09/28/world/europe/uk-fairford-base-terrorist-plot.html"
-  ],
-  [
-    "released",
-    12,
-    "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html"
-  ],
-  [
-    "campaign",
-    12,
-    "https://www.nytimes.com/2026/09/29/opinion/adam-hamilton-kansas-senate.html"
-  ],
-  [
-    "children",
+    "murder",
     12,
     "https://www.washingtonpost.com/nation/2026/09/29/lindsay-clancy-is-back-court-tuesday-after-her-case-ended-mistrial/"
   ],
   [
-    "crisis",
+    "questions",
     12,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.washingtonpost.com/business/2026/09/28/questions-answer-you-consider-midlife-sabbatical/"
   ],
   [
-    "immigration",
+    "late",
     12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.washingtonpost.com/business/2026/09/28/questions-answer-you-consider-midlife-sabbatical/"
   ],
   [
-    "ice",
+    "campaign",
     12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "industry",
+    "combat",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/29/patricia-nilsson-exposing-worlds-biggest-porn-bosses"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "book",
+    "money",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/29/patricia-nilsson-exposing-worlds-biggest-porn-bosses"
+    "https://www.theguardian.com/sport/2026/sep/29/nhl-canada-us-moves-connor-hellebuyck-tkachuk-larkin-hughes"
   ],
   [
-    "south",
+    "child",
     12,
-    "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation"
+    "https://www.theguardian.com/news/2026/sep/29/why-am-i-obsessed-with-chinas-ancient-golden-age-i-took-my-daughter-on-a-trip-to-find-out"
   ],
   [
-    "jones",
+    "cbs",
     12,
-    "https://www.theguardian.com/stage/2026/sep/29/sarah-jones-america-who-hurt-you-interview-eric-ting"
+    "https://www.theguardian.com/us-news/2026/sep/29/cornell-texts-rape-investigation"
   ],
   [
-    "america",
+    "self",
     12,
-    "https://www.theguardian.com/stage/2026/sep/29/sarah-jones-america-who-hurt-you-interview-eric-ting"
+    "https://www.theguardian.com/film/2026/sep/29/digger-review-tom-cruise-satire-alejandro-gonzalez-inarritu"
+  ],
+  [
+    "containers",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/sep/25/anyday-square-glass-dish-containers"
+  ],
+  [
+    "body",
+    11,
+    "https://www.nytimes.com/2026/09/29/us/ice-shooting-driver-austin-charges-body-camera.html"
+  ],
+  [
+    "university",
+    11,
+    "https://www.nytimes.com/2026/09/29/nyregion/cornell-university-rape-investigation-chi-phi-fraternity.html"
+  ],
+  [
+    "led",
+    11,
+    "https://www.nytimes.com/2026/09/29/nyregion/cornell-daily-sun-newspaper-rape.html"
+  ],
+  [
+    "election",
+    11,
+    "https://www.nytimes.com/2026/09/29/business/media/black-voters-disinformation-midterm-elections.html"
+  ],
+  [
+    "inside",
+    11,
+    "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
+  ],
+  [
+    "company",
+    11,
+    "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
   ]
 ];
