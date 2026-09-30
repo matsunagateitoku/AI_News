@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    70,
-    "https://www.nytimes.com/2026/09/30/podcasts/the-headlines/us-iraq-trump-ai.html"
-  ],
-  [
-    "court",
-    33,
-    "https://www.nytimes.com/2026/09/30/business/trump-tariffs-court-challenge.html"
-  ],
-  [
-    "country",
-    27,
-    "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html"
+    79,
+    "https://www.nytimes.com/2026/09/30/us/politics/trump-biden-ai.html"
   ],
   [
     "president",
-    26,
-    "https://www.nytimes.com/2026/09/30/arts/trump-demolish-kennedy-center.html"
+    34,
+    "https://www.nytimes.com/2026/09/30/us/politics/trump-biden-ai.html"
   ],
   [
-    "york",
-    26,
-    "https://www.nytimes.com/2026/09/30/nyregion/e-bike-scooter-deaths-safety.html"
+    "court",
+    30,
+    "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html"
   ],
   [
-    "case",
+    "country",
     25,
-    "https://www.nytimes.com/2026/09/30/us/politics/los-angeles-mayor-bass-raman.html"
-  ],
-  [
-    "game",
-    25,
-    "https://www.theguardian.com/football/2026/sep/29/usmnt-chile-match-report"
-  ],
-  [
-    "police",
-    24,
-    "https://www.nytimes.com/2026/09/30/podcasts/the-headlines/us-iraq-trump-ai.html"
+    "https://www.nytimes.com/2026/09/30/arts/music/bruno-kramm-dead.html"
   ],
   [
     "series",
-    24,
-    "https://www.nytimes.com/2026/09/30/nyregion/city-council-ebikes-hearing.html"
-  ],
-  [
-    "american",
-    23,
-    "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html"
+    25,
+    "https://www.theguardian.com/film/2026/sep/30/the-swan-behind-the-mirror-hulu"
   ],
   [
     "food",
-    23,
+    24,
     "https://www.theguardian.com/business/2026/sep/30/us-food-industry-maga-social-media-influencers"
   ],
   [
     "california",
-    22,
-    "https://www.theguardian.com/us-news/2026/sep/30/california-kelvin-wave-sea-level-rise"
+    23,
+    "https://www.nytimes.com/2026/09/30/briefing/plane-stabbing-israel-jd-vance-texas.html"
   ],
   [
-    "cornell",
-    20,
-    "https://www.nytimes.com/2026/09/29/nyregion/van-houten-cornell-district-attorney.html"
+    "flight",
+    23,
+    "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-israel-dubai-flight-pilots-attack.html"
   ],
   [
-    "health",
-    20,
-    "https://www.washingtonpost.com/education/2026/09/30/fearing-ai-workers-go-back-school-seeking-jobs-that-still-need-human-touch/"
+    "case",
+    23,
+    "https://www.nytimes.com/2026/09/30/us/salah-sarsour-deportation-wisconsin.html"
   ],
   [
     "latest",
-    19,
+    22,
+    "https://www.nytimes.com/2026/09/30/briefing/plane-stabbing-israel-jd-vance-texas.html"
+  ],
+  [
+    "university",
+    22,
+    "https://www.nytimes.com/2026/09/30/nyregion/cornell-university-students-jane-doe-case.html"
+  ],
+  [
+    "game",
+    22,
+    "https://www.theguardian.com/sport/2026/sep/30/houston-astros-fans-empty-seats-boos-white-sox-mlb-playoffs"
+  ],
+  [
+    "bill",
+    21,
+    "https://www.nytimes.com/2026/09/30/us/politics/democrats-block-stock-trading-bill.html"
+  ],
+  [
+    "senate",
+    20,
+    "https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html"
+  ],
+  [
+    "democrats",
+    20,
+    "https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html"
+  ],
+  [
+    "israel",
+    20,
+    "https://www.nytimes.com/2026/09/30/briefing/plane-stabbing-israel-jd-vance-texas.html"
+  ],
+  [
+    "military",
+    20,
     "https://www.washingtonpost.com/education/2026/09/29/hegseth-bars-military-academies-hiring-civilians-tenured-professors/"
   ],
   [
     "voters",
-    18,
-    "https://www.nytimes.com/2026/09/30/us/politics/texas-border-trump-voters.html"
+    19,
+    "https://www.nytimes.com/2026/09/30/us/politics/democrats-block-stock-trading-bill.html"
   ],
   [
-    "filter",
+    "york",
+    19,
+    "https://www.nytimes.com/2026/09/30/nyregion/anti-israel-protest-ice-detention.html"
+  ],
+  [
+    "police",
     18,
-    "https://www.theguardian.com/thefilter-us/2026/sep/29/olive-young-k-beauty"
+    "https://www.nytimes.com/2026/09/30/us/politics/trump-biden-ai.html"
+  ],
+  [
+    "don",
+    18,
+    "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html"
+  ],
+  [
+    "administration",
+    18,
+    "https://www.nytimes.com/2026/09/30/us/california-governor-race-debate-becerra-hilton.html"
+  ],
+  [
+    "investigation",
+    18,
+    "https://www.washingtonpost.com/business/2026/09/30/watchdog-finds-fed-mishandled-renovations-that-trump-tried-oust-powell-over/"
   ],
   [
     "review",
-    17,
+    18,
     "https://www.washingtonpost.com/nation/2026/09/29/homelessness-stubbornly-persists-even-us-cities-spend-more-end-it/"
   ],
   [
-    "term",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "cbs",
+    18,
+    "https://www.theguardian.com/us-news/2026/sep/30/new-orleans-judge-criminal-case-cbs-affiliate"
   ],
   [
-    "nbc",
+    "data",
+    17,
+    "https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html"
+  ],
+  [
+    "general",
+    17,
+    "https://www.nytimes.com/2026/09/30/business/fed-renovations-trump-powell-report.html"
+  ],
+  [
+    "decision",
+    17,
+    "https://www.nytimes.com/2026/09/30/us/salah-sarsour-deportation-wisconsin.html"
+  ],
+  [
+    "pilot",
+    17,
+    "https://www.washingtonpost.com/education/2026/09/30/university-michigan-pauses-plan-stop-issuing-grades/"
+  ],
+  [
+    "filter",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/sep/30/apple-replace-pumpkin-spice-fall-flavor"
+  ],
+  [
+    "love",
     17,
     "https://www.theguardian.com/commentisfree/2026/sep/30/bill-gates-thinks-ai-could-kill-people-can-we-trust-judgment-after-epstein"
   ],
   [
-    "control",
+    "hegseth",
     16,
-    "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flight-israel-plane-passenger.html"
+    "https://www.nytimes.com/2026/09/30/us/hegseth-troops-address.html"
+  ],
+  [
+    "watchdog",
+    16,
+    "https://www.nytimes.com/2026/09/30/business/fed-renovations-trump-powell-report.html"
   ],
   [
     "record",
     16,
-    "https://www.nytimes.com/2026/09/30/business/situational-awareness-stock-market-leverage.html"
-  ],
-  [
-    "senate",
-    16,
-    "https://www.nytimes.com/2026/09/30/us/politics/ken-paxton-trump-midterm-convention.html"
-  ],
-  [
-    "war",
-    16,
-    "https://www.nytimes.com/2026/09/30/business/trump-tariffs-court-challenge.html"
-  ],
-  [
-    "university",
-    16,
-    "https://www.nytimes.com/2026/09/30/us/3-billion-donation-carnegie-mellon-largest-university-gift.html"
-  ],
-  [
-    "team",
-    16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "love",
-    16,
-    "https://www.theguardian.com/books/2026/sep/30/secret-lives-of-men-who-read-romance-books"
-  ],
-  [
-    "beauty",
-    16,
-    "https://www.theguardian.com/film/2026/sep/30/the-swan-behind-the-mirror-hulu"
+    "https://www.washingtonpost.com/nation/interactive/2026/09/29/see-how-record-el-nio-has-transformed-hawaiis-hurricane-season/"
   ],
   [
     "children",
     16,
-    "https://www.theguardian.com/world/video/2026/sep/30/robbed-of-a-childhood-how-one-girl-in-gaza-found-freedom-in-swimming-video"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/native-american-lenape-art-exhibit"
   ],
   [
-    "guide",
+    "security",
     16,
-    "https://www.theguardian.com/books/2026/sep/30/on-the-equality-of-all-things-by-carlo-rovelli-review-a-physicists-guide-to-life-the-universe-and-everything"
+    "https://www.theguardian.com/us-news/2026/sep/30/trump-voter-fraud-charges-minnesota"
   ],
   [
-    "jones",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/sep/30/andy-burnham-landmark-speech-left-won-arguments"
-  ],
-  [
-    "military",
+    "iran",
     15,
-    "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html"
+    "https://www.nytimes.com/2026/09/30/us/hegseth-troops-address.html"
   ],
   [
-    "data",
+    "war",
     15,
-    "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html"
+    "https://www.nytimes.com/2026/09/30/us/hegseth-troops-address.html"
   ],
   [
-    "young",
+    "health",
     15,
-    "https://www.theguardian.com/commentisfree/2026/sep/29/the-guardian-view-on-moroccos-election-hosting-a-world-cup-will-not-placate-a-disillusioned-generation"
-  ],
-  [
-    "buying",
-    15,
-    "https://www.theguardian.com/sport/2026/sep/29/nhl-canada-us-moves-connor-hellebuyck-tkachuk-larkin-hughes"
-  ],
-  [
-    "iraq",
-    14,
-    "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html"
-  ],
-  [
-    "rape",
-    14,
-    "https://www.nytimes.com/2026/09/29/nyregion/cornell-daily-sun-newspaper-rape.html"
-  ],
-  [
-    "don",
-    14,
-    "https://www.nytimes.com/2026/09/30/science/new-cancer-drugs-are-revolutionary-why-dont-more-patients-get-them.html"
-  ],
-  [
-    "won",
-    14,
-    "https://www.nytimes.com/2026/09/30/opinion/supreme-court-john-roberts-religion.html"
-  ],
-  [
-    "israel",
-    14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "almost",
-    14,
-    "https://www.theguardian.com/world/video/2026/sep/30/robbed-of-a-childhood-how-one-girl-in-gaza-found-freedom-in-swimming-video"
+    "https://www.nytimes.com/2026/09/30/us/politics/immigrants-medicaid-trump-bill.html"
   ],
   [
     "politics",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund"
+    15,
+    "https://www.nytimes.com/2026/09/30/arts/music/bruno-kramm-dead.html"
   ],
   [
-    "family",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/sep/30/a-moment-that-changed-me-mother-fell-off-mountain-my-life-began-again"
+    "political",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/sep/30/ken-paxton-christian-scandal"
   ],
   [
-    "players",
-    14,
-    "https://www.theguardian.com/football/2026/sep/30/throw-your-medals-in-the-bin-roy-keane-tells-manchester-city-players"
+    "guide",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/sep/30/apple-replace-pumpkin-spice-fall-flavor"
   ],
   [
-    "research",
+    "night",
+    15,
+    "https://www.theguardian.com/artanddesign/2026/sep/30/bronx-street-gang-new-york-jean-pierre-laffont-best-photograph"
+  ],
+  [
+    "film",
+    15,
+    "https://www.theguardian.com/film/2026/sep/30/the-swan-behind-the-mirror-hulu"
+  ],
+  [
+    "blood",
+    15,
+    "https://www.theguardian.com/games/2026/sep/25/ace-combat-8-wings-of-theve-review"
+  ],
+  [
+    "million",
+    14,
+    "https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html"
+  ],
+  [
+    "passengers",
+    14,
+    "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-israel-dubai-flight-pilots-attack.html"
+  ],
+  [
+    "fed",
+    14,
+    "https://www.nytimes.com/2026/09/30/business/fed-renovations-trump-powell-report.html"
+  ],
+  [
+    "billion",
+    14,
+    "https://www.nytimes.com/2026/09/30/business/fed-renovations-trump-powell-report.html"
+  ],
+  [
+    "project",
+    14,
+    "https://www.nytimes.com/2026/09/30/business/fed-renovations-trump-powell-report.html"
+  ],
+  [
+    "judge",
+    14,
+    "https://www.nytimes.com/2026/09/30/us/politics/justice-department-complaint-judges-schiltz.html"
+  ],
+  [
+    "death",
+    14,
+    "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html"
+  ],
+  [
+    "donald",
+    14,
+    "https://www.washingtonpost.com/politics/2026/09/29/jack-smith-clashes-with-gop-senators-over-trump-investigations/"
+  ],
+  [
+    "midterms",
     13,
-    "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html"
+    "https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html"
   ],
   [
-    "self",
+    "power",
     13,
-    "https://www.nytimes.com/2026/09/30/business/china-ai-deepseek-huawei.html"
+    "https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html"
   ],
   [
-    "school",
+    "republican",
+    13,
+    "https://www.nytimes.com/2026/09/30/us/politics/democrats-block-stock-trading-bill.html"
+  ],
+  [
+    "members",
+    13,
+    "https://www.nytimes.com/2026/09/30/us/cornell-university-7-chi-phi.html"
+  ],
+  [
+    "young",
+    13,
+    "https://www.nytimes.com/2026/09/30/well/andrea-shaw-twins-suffocation-vaccines.html"
+  ],
+  [
+    "media",
+    13,
+    "https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html"
+  ],
+  [
+    "america",
+    13,
+    "https://www.nytimes.com/2026/09/30/opinion/america-cool-culture-soft-power.html"
+  ],
+  [
+    "department",
+    13,
+    "https://www.washingtonpost.com/business/2026/09/30/watchdog-finds-fed-mishandled-renovations-that-trump-tried-oust-powell-over/"
+  ],
+  [
+    "office",
     13,
     "https://www.washingtonpost.com/education/2026/09/30/fearing-ai-workers-go-back-school-seeking-jobs-that-still-need-human-touch/"
   ],
   [
-    "decision",
-    13,
-    "https://www.washingtonpost.com/nation/2026/09/29/lindsay-clancy-is-back-court-tuesday-after-her-case-ended-mistrial/"
-  ],
-  [
-    "combat",
-    13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "film",
-    13,
-    "https://www.theguardian.com/film/2026/sep/30/the-swan-behind-the-mirror-hulu"
-  ],
-  [
-    "cbs",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/30/new-orleans-judge-criminal-case-cbs-affiliate"
-  ],
-  [
-    "book",
-    13,
-    "https://www.theguardian.com/books/2026/sep/30/on-the-equality-of-all-things-by-carlo-rovelli-review-a-physicists-guide-to-life-the-universe-and-everything"
-  ],
-  [
-    "felt",
-    12,
-    "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flight-israel-plane-passenger.html"
-  ],
-  [
-    "israeli",
-    12,
-    "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flight-israel-plane-passenger.html"
-  ],
-  [
-    "questions",
-    12,
-    "https://www.nytimes.com/2026/09/30/business/situational-awareness-stock-market-leverage.html"
-  ],
-  [
-    "administration",
-    12,
-    "https://www.nytimes.com/2026/09/30/business/trump-tariffs-court-challenge.html"
-  ],
-  [
-    "experts",
-    12,
-    "https://www.nytimes.com/2026/09/30/arts/trump-demolish-kennedy-center.html"
-  ],
-  [
-    "change",
-    12,
-    "https://www.nytimes.com/2026/09/30/science/new-cancer-drugs-are-revolutionary-why-dont-more-patients-get-them.html"
-  ],
-  [
-    "biggest",
-    12,
-    "https://www.nytimes.com/2026/09/30/us/3-billion-donation-carnegie-mellon-largest-university-gift.html"
-  ],
-  [
-    "history",
-    12,
-    "https://www.nytimes.com/2026/09/30/us/3-billion-donation-carnegie-mellon-largest-university-gift.html"
-  ],
-  [
-    "john",
-    12,
-    "https://www.nytimes.com/2026/09/30/opinion/john-maynard-keynes-ai-economist.html"
-  ],
-  [
-    "america",
-    12,
-    "https://www.nytimes.com/2026/09/30/arts/television/jimmy-fallon-trump-america-ai-chatbot.html"
-  ],
-  [
-    "gaza",
-    12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "early",
-    12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "recent",
-    12,
-    "https://www.theguardian.com/stage/2026/sep/30/wicked-stars-favourite-songs-idina-menzel-stephen-schwartz-broadway"
-  ],
-  [
-    "details",
-    12,
-    "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration"
-  ],
-  [
-    "star",
-    12,
-    "https://www.theguardian.com/world/2026/sep/30/in-search-of-samba-the-fearless-fugitive-capybara"
-  ],
-  [
-    "night",
-    12,
-    "https://www.theguardian.com/football/2026/sep/29/usmnt-chile-match-report"
-  ],
-  [
-    "security",
-    12,
-    "https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities"
-  ],
-  [
-    "fewer",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/sep/29/olive-young-k-beauty"
-  ],
-  [
-    "containers",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/sep/25/anyday-square-glass-dish-containers"
-  ],
-  [
-    "plus",
-    11,
-    "https://www.nytimes.com/2026/09/30/podcasts/the-headlines/us-iraq-trump-ai.html"
-  ],
-  [
-    "flight",
-    11,
-    "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flight-israel-plane-passenger.html"
-  ],
-  [
     "support",
-    11,
-    "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html"
+    13,
+    "https://www.washingtonpost.com/education/2026/09/30/carnegie-mellon-nets-3-billion-gift-most-ever-given-university/"
   ],
   [
-    "republicans",
-    11,
-    "https://www.nytimes.com/2026/09/30/us/politics/crime-midterm-elections-north-carolina.html"
+    "attack",
+    13,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "red",
+    13,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "everything",
+    13,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "american",
+    13,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/native-american-lenape-art-exhibit"
+  ],
+  [
+    "south",
+    13,
+    "https://www.theguardian.com/us-news/2026/sep/30/kristi-noem-divorce"
+  ],
+  [
+    "pressure",
+    13,
+    "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation"
+  ],
+  [
+    "companies",
+    12,
+    "https://www.nytimes.com/2026/09/30/us/politics/trump-biden-ai.html"
+  ],
+  [
+    "plane",
+    12,
+    "https://www.nytimes.com/2026/09/30/briefing/plane-stabbing-israel-jd-vance-texas.html"
+  ],
+  [
+    "prime",
+    12,
+    "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html"
+  ],
+  [
+    "election",
+    12,
+    "https://www.nytimes.com/2026/09/30/us/california-governor-race-debate-becerra-hilton.html"
+  ],
+  [
+    "secretary",
+    12,
+    "https://www.nytimes.com/2026/09/30/us/hegseth-troops-address.html"
+  ],
+  [
+    "cornell",
+    12,
+    "https://www.nytimes.com/2026/09/30/nyregion/cornell-university-students-jane-doe-case.html"
   ]
 ];

@@ -3,45 +3,33 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 13,
+      "count": 14,
       "url": "https://www.washingtonpost.com/politics/2026/09/29/jack-smith-clashes-with-gop-senators-over-trump-investigations/",
       "source": "Washington Post"
     },
     {
-      "name": "Eric Schmitt",
-      "count": 9,
-      "url": "https://thehill.com/homenews/house/6119619-jamie-raskin-eric-schmitt-basketball-mix-up-jack-smith-hearing-criticism/",
-      "source": "The Hill"
-    },
-    {
       "name": "Donald Trump ’S",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-voter-fraud-charges-minnesota",
       "source": "The Guardian"
     },
     {
-      "name": "Jack Smith",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
+      "name": "Pete Hegseth",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/09/30/us/hegseth-troops-address.html",
       "source": "NY Times"
     },
     {
-      "name": "Jonquel Jones",
+      "name": "Jerome Powell",
+      "count": 8,
+      "url": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Biden Afghan",
       "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/sep/29/wnba-playoffs-no-8-liberty-spring-historic-upset-to-take-down-no-1-seed-lynx",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Zohran Mamdani",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/30/it-shouldnt-take-the-eviction-of-an-87-year-old-to-get-spains-housing-crisis-fixed",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Sylvester Stallone",
-      "count": 6,
-      "url": "https://www.latimes.com/entertainment-arts/books/story/2026-09-29/steps-memoir-review-sly-stallone-rocky",
-      "source": "LA Times"
+      "url": "https://www.foxnews.com/politics/biden-afghan-migrant-program-hit-vetting-failure-rate-alarming",
+      "source": "Fox News"
     },
     {
       "name": "Jon Allen",
@@ -50,42 +38,66 @@
       "source": "NBC News"
     },
     {
-      "name": "Ken Paxton",
+      "name": "Christa Pike",
       "count": 5,
-      "url": "https://www.nytimes.com/2026/09/30/us/politics/ken-paxton-trump-midterm-convention.html",
+      "url": "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html",
       "source": "NY Times"
     },
     {
-      "name": "Lindsay Clancy",
+      "name": "Ken Paxton",
       "count": 5,
-      "url": "https://www.washingtonpost.com/nation/2026/09/29/lindsay-clancy-is-back-court-tuesday-after-her-case-ended-mistrial/",
-      "source": "Washington Post"
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/30/ken-paxton-christian-scandal",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Todd Blanche",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-voter-fraud-charges-minnesota",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Flávio Bolsonaro",
+      "count": 5,
+      "url": "https://www.theguardian.com/world/video/2026/sep/30/how-trump-is-meddling-in-brazils-upcoming-election-explainer",
+      "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "The Texas Border Have Soured On Trump",
-      "count": 46,
-      "url": "https://www.nytimes.com/2026/09/30/us/politics/texas-border-trump-voters.html",
+      "name": "Trump Administration’S",
+      "count": 51,
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/immigration-tactics-detention-approach",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai Luncheon",
+      "count": 31,
+      "url": "https://www.nytimes.com/2026/09/29/us/politics/trump-ai-luncheon-guests-ceos.html",
       "source": "NY Times"
     },
     {
-      "name": "Ai  Poor Greta Garbo",
-      "count": 23,
-      "url": "https://www.theguardian.com/film/2026/sep/30/skf-advert-review-lets-hope-this-dull-ai-greta-garbo-is-not-the-future",
+      "name": "The Us Senate",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/us-senate-stock-trades-bill",
       "source": "The Guardian"
     },
     {
-      "name": "Nbc News Senior National Politics",
+      "name": "The White House",
       "count": 17,
-      "url": "https://www.nbcnews.com/meet-the-press/video/trump-doesn-t-have-a-plan-on-iran-voters-in-key-pennsylvania-district-upset-with-handling-of-war-268422725765",
-      "source": "NBC News"
+      "url": "https://www.nytimes.com/2026/09/29/us/politics/trump-ai-luncheon-guests-ceos.html",
+      "source": "NY Times"
     },
     {
-      "name": "Guardian",
+      "name": "Fed",
       "count": 13,
-      "url": "https://www.theguardian.com/world/video/2026/sep/30/robbed-of-a-childhood-how-one-girl-in-gaza-found-freedom-in-swimming-video",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/09/30/business/fed-renovations-trump-powell-report.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Cbs News",
+      "count": 13,
+      "url": "https://www.cbsnews.com/news/flydubai-flight-israel-passengers-recount-alleged-terror-attack-hijack/",
+      "source": "CBS News"
     },
     {
       "name": "The Filter Us",
@@ -94,96 +106,22 @@
       "source": "The Guardian"
     },
     {
-      "name": "Nebraska Senate",
+      "name": "Pentagon",
       "count": 11,
-      "url": "https://www.foxnews.com/politics/senate-hopefuls-treading-water-narrative-crumbles-500k-payouts-family",
-      "source": "Fox News"
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/hegseth-military-personnel-cuts",
+      "source": "The Guardian"
     },
     {
-      "name": "Congress",
+      "name": "Guardian",
       "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+      "url": "https://www.theguardian.com/world/video/2026/sep/30/how-trump-is-meddling-in-brazils-upcoming-election-explainer",
       "source": "The Guardian"
     },
     {
-      "name": "Bbc Broadcasting House",
-      "count": 8,
-      "url": "https://www.theguardian.com/books/2026/sep/29/cherise-saywell-wins-bbc-short-story-award-ditto",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The New York Times",
-      "count": 8,
-      "url": "https://www.theguardian.com/wellness/2026/sep/22/lindsay-crouse-quitting-book",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Amazon     Continue",
-      "count": 7,
-      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 59,
-      "url": "https://www.nytimes.com/2026/09/30/opinion/john-maynard-keynes-ai-economist.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/09/30/us/3-billion-donation-carnegie-mellon-largest-university-gift.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 18,
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/california-kelvin-wave-sea-level-rise",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iraq",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York Streets",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/09/30/nyregion/e-bike-scooter-deaths-safety.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "America",
-      "count": 11,
-      "url": "https://www.theguardian.com/film/2026/sep/30/the-swan-behind-the-mirror-hulu",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. Here'S",
+      "name": "Nbc News Senior National Politics",
       "count": 10,
-      "url": "https://www.latimes.com/delos/story/2026-09-15/dual-citizenship-how-to-los-angeles-mexican-consulate",
-      "source": "LA Times"
-    },
-    {
-      "name": "Saudi Arabia Joining Fighter-Jet Program",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Hollywood",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
-      "source": "Wall St. Journal"
+      "url": "https://www.nbcnews.com/meet-the-press/video/trump-doesn-t-have-a-plan-on-iran-voters-in-key-pennsylvania-district-upset-with-handling-of-war-268422725765",
+      "source": "NBC News"
     }
   ],
   "EVENT": [
@@ -194,22 +132,28 @@
       "source": "NBC News"
     },
     {
-      "name": "Operation Inherent Resolve",
-      "count": 4,
-      "url": "https://www.foxnews.com/world/us-ends-operation-inherent-resolve-mission-iraq-final-forces-leave-erbil",
-      "source": "Fox News"
-    },
-    {
-      "name": "World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/29/the-guardian-view-on-moroccos-election-hosting-a-world-cup-will-not-placate-a-disillusioned-generation",
+      "name": "The Iran War",
+      "count": 3,
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/hegseth-military-personnel-cuts",
       "source": "The Guardian"
     },
     {
-      "name": "’S Fat Bear Week",
+      "name": "Fat Bear Week",
       "count": 2,
-      "url": "https://www.today.com/video/backpack-wins-fat-bear-week-the-cute-story-behind-his-name-270776901795",
-      "source": "NBC News"
+      "url": "https://www.cbsnews.com/video/backpack-crowned-winner-2026-fat-bear-week/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The Super Bowl",
+      "count": 1,
+      "url": "https://www.theguardian.com/thefilter-us/2026/sep/30/early-october-amazon-big-deals-prime-day",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/sep/29/usmnt-chile-match-report",
+      "source": "The Guardian"
     },
     {
       "name": "New York Liberty",
@@ -224,21 +168,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "Next Generation",
+      "name": "Winter Sea",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/sep/30/next-generation-2021-why-slow-and-steady-sometimes-wins-the-race",
-      "source": "The Guardian"
-    },
-    {
-      "name": "World Series",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/sep/29/mlb-playoff-predictions-dodgers-brewers-rays-wildcard",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Ukraine War",
-      "count": 1,
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/sep/30/best-of-photoworks-festival-2026-in-pictures",
+      "url": "https://www.theguardian.com/world/2026/sep/30/antarctic-winter-sea-ice-falls-to-third-lowest-level-on-record-as-scientists-warn-of-now-problem",
       "source": "The Guardian"
     },
     {
@@ -246,7 +178,75 @@
       "count": 1,
       "url": "https://www.theguardian.com/thefilter-us/2026/sep/27/fibermaxxing-coke-plus",
       "source": "The Guardian"
+    },
+    {
+      "name": "Vitamix 5200",
+      "count": 1,
+      "url": "https://www.theguardian.com/food/2025/aug/07/best-blenders-us",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-09-30T13:29:06Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 56,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/native-american-lenape-art-exhibit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/09/30/briefing/plane-stabbing-israel-jd-vance-texas.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/09/30/briefing/plane-stabbing-israel-jd-vance-texas.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/09/30/business/fed-renovations-trump-powell-report.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/09/30/us/hegseth-troops-address.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Alaska",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/california-kelvin-wave-sea-level-rise",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pennsylvania",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/pennsylvania-reports-fifth-measles-related-death",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uk",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/catholic-clergy-massachusetts-sexual-abuse-report",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/09/30/nyregion/anti-israel-protest-ice-detention.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "America",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/09/30/opinion/america-cool-culture-soft-power.html",
+      "source": "NY Times"
+    }
+  ],
+  "updated": "2026-09-30T22:53:06Z"
 };
