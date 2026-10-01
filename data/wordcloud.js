@@ -2,123 +2,168 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    74,
-    "https://www.nytimes.com/2026/09/30/us/politics/trump-biden-ai.html"
+    101,
+    "https://www.nytimes.com/2026/10/01/business/diesel-prices-us-exports.html"
+  ],
+  [
+    "guide",
+    73,
+    "https://www.theguardian.com/thefilter-us/2026/oct/01/best-whimsy-products"
   ],
   [
     "california",
-    39,
-    "https://www.nytimes.com/2026/10/01/us/politics/california-governor-debate-takeaways.html"
+    50,
+    "https://www.theguardian.com/us-news/2026/oct/01/house-democrats-letter-trump-ads"
+  ],
+  [
+    "race",
+    43,
+    "https://www.nytimes.com/2026/10/01/us/politics/gina-hinojosa-andy-beshear-democratic-governors-association.html"
   ],
   [
     "president",
     34,
-    "https://www.nytimes.com/2026/09/30/us/politics/trump-biden-ai.html"
+    "https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html"
   ],
   [
-    "senate",
-    28,
-    "https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html"
-  ],
-  [
-    "pilot",
-    26,
-    "https://www.nytimes.com/2026/10/01/world/asia/israel-flight-flydubai-pilot-captain-smit-machchhar.html"
-  ],
-  [
-    "attack",
-    25,
-    "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html"
-  ],
-  [
-    "series",
-    25,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/01/south-park-has-ai-datacentres-sentient-penises-and-a-billionaire-problem-in-more-ways-than-one"
-  ],
-  [
-    "game",
-    25,
-    "https://www.theguardian.com/sport/2026/sep/30/atlanta-dream-washington-mystics-wnba-playoffs"
-  ],
-  [
-    "food",
-    25,
-    "https://www.theguardian.com/business/2026/sep/30/us-food-industry-maga-social-media-influencers"
-  ],
-  [
-    "york",
-    24,
-    "https://www.nytimes.com/2026/10/01/nyregion/cornell-jane-doe-rape-investigation-documents.html"
-  ],
-  [
-    "voters",
-    24,
-    "https://www.nytimes.com/2026/09/30/us/politics/democrats-block-stock-trading-bill.html"
-  ],
-  [
-    "police",
-    23,
-    "https://www.nytimes.com/2026/09/30/us/politics/trump-biden-ai.html"
-  ],
-  [
-    "bill",
-    22,
-    "https://www.nytimes.com/2026/09/30/us/politics/democrats-block-stock-trading-bill.html"
-  ],
-  [
-    "republican",
-    20,
-    "https://www.nytimes.com/2026/09/30/us/politics/hegseth-leadership-republican-doubts.html"
-  ],
-  [
-    "night",
-    20,
-    "https://www.nytimes.com/2026/10/01/arts/television/late-night-trump-ai-leaders-regulation.html"
-  ],
-  [
-    "country",
-    20,
-    "https://www.washingtonpost.com/politics/2026/09/29/supreme-court-allows-trump-administration-now-resume-third-country-deportations/"
-  ],
-  [
-    "pike",
-    19,
-    "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html"
-  ],
-  [
-    "war",
-    19,
-    "https://www.nytimes.com/2026/09/30/us/hegseth-troops-address.html"
-  ],
-  [
-    "democrats",
-    19,
-    "https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html"
-  ],
-  [
-    "case",
-    19,
-    "https://www.washingtonpost.com/nation/2026/09/29/lindsay-clancy-is-back-court-tuesday-after-her-case-ended-mistrial/"
-  ],
-  [
-    "death",
-    18,
-    "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html"
-  ],
-  [
-    "administration",
-    18,
-    "https://www.nytimes.com/2026/09/30/us/politics/justice-department-complaint-judges-schiltz.html"
-  ],
-  [
-    "record",
-    18,
-    "https://www.washingtonpost.com/nation/interactive/2026/09/29/see-how-record-el-nio-has-transformed-hawaiis-hurricane-season/"
+    "family",
+    33,
+    "https://www.washingtonpost.com/immigration/2026/10/01/rene-goods-family-sues-trump-officials-saying-death-was-not-an-accident/"
   ],
   [
     "israel",
-    17,
+    25,
     "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html"
+  ],
+  [
+    "voters",
+    25,
+    "https://www.theguardian.com/commentisfree/2026/oct/01/taxpayer-funded-pro-trump-ads"
+  ],
+  [
+    "court",
+    24,
+    "https://www.nytimes.com/2026/10/01/us/politics/supreme-court-trump-migrant-detention.html"
+  ],
+  [
+    "campaign",
+    24,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "war",
+    24,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "los",
+    23,
+    "https://www.theguardian.com/us-news/2026/oct/01/california-medical-helicopter-crash-catalina-island-la"
+  ],
+  [
+    "death",
+    22,
+    "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html"
+  ],
+  [
+    "immigration",
+    21,
+    "https://www.nytimes.com/2026/10/01/us/politics/supreme-court-trump-migrant-detention.html"
+  ],
+  [
+    "administration",
+    21,
+    "https://www.nytimes.com/2026/10/01/us/politics/supreme-court-trump-migrant-detention.html"
+  ],
+  [
+    "ice",
+    21,
+    "https://www.washingtonpost.com/politics/2026/10/01/supreme-court-agrees-review-ice-mandatory-detention-policy-immigrants/"
+  ],
+  [
+    "food",
+    21,
+    "https://www.theguardian.com/thefilter-us/2026/sep/25/anyday-square-glass-dish-containers"
+  ],
+  [
+    "poll",
+    20,
+    "https://www.washingtonpost.com/education/2026/10/01/belief-that-college-is-very-important-hits-new-low-poll-finds/"
+  ],
+  [
+    "filter",
+    20,
+    "https://www.theguardian.com/thefilter-us/2026/oct/01/best-whimsy-products"
+  ],
+  [
+    "angeles",
+    20,
+    "https://www.theguardian.com/us-news/2026/oct/01/california-medical-helicopter-crash-catalina-island-la"
+  ],
+  [
+    "night",
+    19,
+    "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-fraternity-chi-phi-men.html"
+  ],
+  [
+    "donald",
+    19,
+    "https://www.washingtonpost.com/politics/2026/09/29/jack-smith-clashes-with-gop-senators-over-trump-investigations/"
+  ],
+  [
+    "republican",
+    19,
+    "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-tennessee-governor-executions-year-pause"
+  ],
+  [
+    "police",
+    18,
+    "https://www.nytimes.com/2026/10/01/nyregion/url-cornell-university-jane-doe-rape-case-statement.html"
+  ],
+  [
+    "governor",
+    18,
+    "https://www.nytimes.com/2026/10/01/us/politics/gina-hinojosa-andy-beshear-democratic-governors-association.html"
+  ],
+  [
+    "democratic",
+    18,
+    "https://www.nytimes.com/2026/10/01/us/politics/gina-hinojosa-andy-beshear-democratic-governors-association.html"
+  ],
+  [
+    "social",
+    18,
+    "https://www.washingtonpost.com/health/2026/10/01/is-it-your-personality-or-psychological-disorder-tiktok-has-answers/"
+  ],
+  [
+    "media",
+    18,
+    "https://www.washingtonpost.com/health/2026/10/01/is-it-your-personality-or-psychological-disorder-tiktok-has-answers/"
+  ],
+  [
+    "office",
+    18,
+    "https://www.washingtonpost.com/education/2026/09/30/fearing-ai-workers-go-back-school-seeking-jobs-that-still-need-human-touch/"
+  ],
+  [
+    "questions",
+    18,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "election",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/01/trump-us-election-threats"
+  ],
+  [
+    "judge",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/01/judge-dismisses-dc-reflecting-pool-damage-case"
+  ],
+  [
+    "candidates",
+    18,
+    "https://www.theguardian.com/us-news/2026/sep/30/send-us-your-questions-us-iran-war-midterms"
   ],
   [
     "don",
@@ -126,84 +171,74 @@
     "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html"
   ],
   [
-    "flight",
+    "recent",
     17,
-    "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html"
+    "https://www.theguardian.com/us-news/2026/oct/01/trump-us-election-threats"
   ],
   [
-    "children",
+    "series",
     17,
-    "https://www.washingtonpost.com/nation/2026/09/30/why-lindsay-clancys-lawyer-is-disputing-whether-she-killed-her-children/"
+    "https://www.theguardian.com/film/2026/oct/01/you-can-see-everything-movie-review"
   ],
   [
-    "latest",
+    "proposition",
     17,
-    "https://www.washingtonpost.com/education/2026/09/29/hegseth-bars-military-academies-hiring-civilians-tenured-professors/"
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "court",
+    "district",
     17,
-    "https://www.washingtonpost.com/politics/2026/09/29/supreme-court-allows-trump-administration-now-resume-third-country-deportations/"
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide"
   ],
   [
-    "cornell",
+    "steelers",
+    17,
+    "https://www.latimes.com/sports/story/2026-10-01/steelers-coach-mike-tomlin-minecraft-obsession"
+  ],
+  [
+    "pike",
     16,
-    "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html"
+    "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html"
   ],
   [
-    "tennessee",
+    "iran",
     16,
-    "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html"
+    "https://www.nytimes.com/2026/10/01/world/europe/uk-iran-terrorism-raf-fairford.html"
   ],
   [
-    "christa",
+    "buying",
     16,
-    "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html"
+    "https://www.theguardian.com/thefilter-us/2026/oct/01/best-whimsy-products"
   ],
   [
-    "governor",
+    "republicans",
     16,
-    "https://www.nytimes.com/2026/10/01/us/politics/california-governor-debate-takeaways.html"
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-state-superintendent-public-instruction-shaw-barrera-voter-guide"
   ],
   [
-    "military",
-    16,
-    "https://www.washingtonpost.com/education/2026/09/29/hegseth-bars-military-academies-hiring-civilians-tenured-professors/"
-  ],
-  [
-    "cbs",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/01/south-park-has-ai-datacentres-sentient-penises-and-a-billionaire-problem-in-more-ways-than-one"
-  ],
-  [
-    "texas",
-    16,
-    "https://www.theguardian.com/us-news/2026/sep/30/texas-state-capitol-austin-attack-plot"
-  ],
-  [
-    "guide",
-    16,
-    "https://www.theguardian.com/music/2026/oct/01/oasis-legal-action-sale-of-unheard-recordings"
-  ],
-  [
-    "filter",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/sep/30/early-october-amazon-big-deals-prime-day"
-  ],
-  [
-    "plane",
+    "case",
     15,
-    "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html"
+    "https://www.nytimes.com/2026/10/01/nyregion/url-cornell-university-jane-doe-rape-case-statement.html"
   ],
   [
-    "secretary",
+    "supreme",
     15,
-    "https://www.nytimes.com/2026/09/30/us/hegseth-troops-address.html"
+    "https://www.nytimes.com/2026/10/01/us/politics/supreme-court-trump-migrant-detention.html"
   ],
   [
-    "ice",
+    "school",
     15,
-    "https://www.nytimes.com/2026/09/30/us/politics/trump-hispanic-heritage-month.html"
+    "https://www.washingtonpost.com/education/2026/10/01/treasury-introduces-rules-nations-first-federal-school-voucher-program/"
+  ],
+  [
+    "money",
+    15,
+    "https://www.washingtonpost.com/education/2026/10/01/bipartisan-bill-seeks-ban-cellphones-schools-nationwide/"
+  ],
+  [
+    "democrats",
+    15,
+    "https://www.washingtonpost.com/business/2026/09/30/trump-will-be-allowed-do-an-810-million-pocket-recission/"
   ],
   [
     "health",
@@ -211,168 +246,133 @@
     "https://www.washingtonpost.com/education/2026/09/30/university-michigan-pauses-plan-stop-issuing-grades/"
   ],
   [
-    "donald",
+    "country",
     15,
-    "https://www.washingtonpost.com/politics/2026/09/29/jack-smith-clashes-with-gop-senators-over-trump-investigations/"
+    "https://www.washingtonpost.com/politics/2026/09/29/supreme-court-allows-trump-administration-now-resume-third-country-deportations/"
+  ],
+  [
+    "everything",
+    15,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "government",
+    15,
+    "https://www.theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting"
+  ],
+  [
+    "hair",
+    15,
+    "https://www.theguardian.com/society/2026/oct/01/20-fascinating-facts-about-hair-why-baldness-is-super-masculine-and-a-pubic-bush-could-be-a-cheating-detector"
+  ],
+  [
+    "space",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/01/spacex-nasa-watkins-launch"
+  ],
+  [
+    "tax",
+    15,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
+  ],
+  [
+    "charter",
+    15,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
+  ],
+  [
+    "plane",
+    14,
+    "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html"
   ],
   [
     "review",
-    15,
-    "https://www.washingtonpost.com/nation/2026/09/29/homelessness-stubbornly-persists-even-us-cities-spend-more-end-it/"
-  ],
-  [
-    "political",
-    15,
-    "https://www.theguardian.com/world/2026/oct/01/kyiv-independent-editor-olga-rudenko-readers-want-russia-suffer-cant-be-propagandists"
-  ],
-  [
-    "media",
-    15,
-    "https://www.theguardian.com/film/2026/oct/01/knife-the-attempted-of-salman-rushdie-review-terrifying-and-inspiring-story-of-survival"
-  ],
-  [
-    "university",
     14,
-    "https://www.nytimes.com/2026/10/01/nyregion/cornell-jane-doe-rape-investigation-documents.html"
+    "https://www.nytimes.com/2026/10/01/us/politics/supreme-court-trump-migrant-detention.html"
   ],
   [
-    "flydubai",
+    "crash",
     14,
-    "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html"
+    "https://www.nytimes.com/2026/10/01/opinion/gas-prices-oil-crash.html"
   ],
   [
-    "hegseth",
+    "arrested",
     14,
-    "https://www.nytimes.com/2026/09/30/us/hegseth-troops-address.html"
+    "https://www.nytimes.com/2026/10/01/world/europe/uk-iran-terrorism-raf-fairford.html"
   ],
   [
-    "iran",
+    "term",
     14,
-    "https://www.nytimes.com/2026/09/30/us/hegseth-troops-address.html"
+    "https://www.washingtonpost.com/politics/2026/10/01/supreme-court-agrees-review-ice-mandatory-detention-policy-immigrants/"
   ],
   [
-    "general",
+    "really",
     14,
-    "https://www.nytimes.com/2026/09/30/business/fed-renovations-trump-powell-report.html"
+    "https://www.washingtonpost.com/lifestyle/2026/10/01/these-skydivers-parachuted-3000-feet-help-people-plane-crash/"
   ],
   [
-    "department",
+    "pilot",
     14,
-    "https://www.washingtonpost.com/business/2026/09/30/watchdog-finds-fed-mishandled-renovations-that-trump-tried-oust-powell-over/"
+    "https://www.washingtonpost.com/education/2026/09/30/university-michigan-pauses-plan-stop-issuing-grades/"
   ],
   [
-    "gaza",
+    "water",
     14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "star",
-    14,
-    "https://www.theguardian.com/culture/2026/oct/01/half-asleep-chris-burton-youtube-cats-lego-bella"
-  ],
-  [
-    "alleged",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/30/texas-state-capitol-austin-attack-plot"
-  ],
-  [
-    "energy",
-    14,
-    "https://www.theguardian.com/us-news/2026/sep/30/senate-datacenter-energy-bill"
-  ],
-  [
-    "film",
-    14,
-    "https://www.theguardian.com/film/2026/oct/01/knife-the-attempted-of-salman-rushdie-review-terrifying-and-inspiring-story-of-survival"
-  ],
-  [
-    "student",
-    13,
-    "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html"
-  ],
-  [
-    "power",
-    13,
-    "https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html"
+    "https://www.theguardian.com/us-news/2026/oct/01/colorado-river-nevada-shrinking"
   ],
   [
     "something",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/01/colorado-river-nevada-shrinking"
+  ],
+  [
+    "fewer",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/oct/01/best-whimsy-products"
+  ],
+  [
+    "seat",
+    14,
+    "https://www.theguardian.com/sport/2026/oct/01/bodhana-sivanandan-11-youngest-ever-female-chess-grandmaster"
+  ],
+  [
+    "amendment",
+    14,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
+  ],
+  [
+    "browns",
+    14,
+    "https://www.foxnews.com/outkick-betting/fanduel-sportsbook-promo-code-250-bonus-bets-available-steelers-vs-browns"
+  ],
+  [
+    "york",
     13,
-    "https://www.nytimes.com/2026/10/01/opinion/mexico-ai-trump.html"
+    "https://www.nytimes.com/2026/10/01/nyregion/url-cornell-university-jane-doe-rape-case-statement.html"
   ],
   [
-    "school",
+    "charges",
     13,
-    "https://www.washingtonpost.com/education/2026/09/30/fearing-ai-workers-go-back-school-seeking-jobs-that-still-need-human-touch/"
+    "https://www.nytimes.com/2026/10/01/nyregion/url-cornell-university-jane-doe-rape-case-statement.html"
   ],
   [
-    "support",
+    "christa",
     13,
-    "https://www.washingtonpost.com/education/2026/09/30/carnegie-mellon-nets-3-billion-gift-most-ever-given-university/"
+    "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html"
   ],
   [
-    "little",
+    "tennessee",
     13,
-    "https://www.washingtonpost.com/nation/2026/09/29/homelessness-stubbornly-persists-even-us-cities-spend-more-end-it/"
+    "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html"
   ],
   [
-    "early",
+    "experts",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/10/01/science/pike-execution-pentobarbital.html"
   ],
   [
-    "young",
+    "global",
     13,
-    "https://www.theguardian.com/news/ng-interactive/2026/oct/01/fixer-financier-spymaster-how-the-uaes-sheikh-tahnoon-is-setting-his-sights-on-ai-dominance"
-  ],
-  [
-    "love",
-    13,
-    "https://www.theguardian.com/uk-news/2026/oct/01/crowborough-divided-immigration-asylum-seekers"
-  ],
-  [
-    "prime",
-    13,
-    "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel"
-  ],
-  [
-    "hospital",
-    13,
-    "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike"
-  ],
-  [
-    "social",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/oct/01/jean-luc-melenchon-young-french-voters-russia-foreign-policy"
-  ],
-  [
-    "politics",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/sep/30/ken-paxton-christian-scandal"
-  ],
-  [
-    "buying",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/sep/30/early-october-amazon-big-deals-prime-day"
-  ],
-  [
-    "cockpit",
-    12,
-    "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html"
-  ],
-  [
-    "midterms",
-    12,
-    "https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html"
-  ],
-  [
-    "states",
-    12,
-    "https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html"
-  ],
-  [
-    "decision",
-    12,
-    "https://www.washingtonpost.com/nation/2026/09/29/lindsay-clancy-is-back-court-tuesday-after-her-case-ended-mistrial/"
+    "https://www.nytimes.com/2026/10/01/business/diesel-prices-us-exports.html"
   ]
 ];
