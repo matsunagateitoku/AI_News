@@ -2,123 +2,138 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    102,
-    "https://www.nytimes.com/2026/10/01/briefing/tennessee-botched-execution-cornell-documents.html"
+    84,
+    "https://www.nytimes.com/2026/10/01/us/politics/trump-puts-on-a-midterms-show-for-an-audience-thats-already-sold.html"
   ],
   [
     "guide",
-    71,
-    "https://www.theguardian.com/thefilter-us/2026/oct/01/best-whimsy-products"
+    69,
+    "https://www.theguardian.com/games/2026/sep/24/meet-the-real-life-pokemon-professors-the-unsung-heroes-of-competitive-monster-battling"
   ],
   [
     "california",
-    54,
-    "https://www.theguardian.com/us-news/2026/oct/01/house-democrats-letter-trump-ads"
+    63,
+    "https://www.theguardian.com/us-news/2026/oct/01/california-outlaws-child-marriage"
   ],
   [
     "race",
     41,
-    "https://www.theguardian.com/film/2026/oct/01/the-last-first-winter-k2-review-race-up-second-highest-mountain-reveals-fatal-cost-of-regrettable-traits"
+    "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row"
   ],
   [
-    "president",
-    34,
-    "https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html"
+    "cornell",
+    35,
+    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
   ],
   [
-    "voters",
+    "game",
     33,
-    "https://www.nytimes.com/2026/10/01/us/politics/abdul-el-sayed-michigan-senate.html"
+    "https://www.theguardian.com/us-news/2026/oct/01/mlb-game-grand-teton-national-park"
+  ],
+  [
+    "rape",
+    28,
+    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
   ],
   [
     "campaign",
-    31,
+    28,
     "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "family",
-    29,
-    "https://www.washingtonpost.com/immigration/2026/10/01/rene-goods-family-sues-trump-officials-saying-death-was-not-an-accident/"
-  ],
-  [
-    "war",
-    28,
-    "https://www.nytimes.com/2026/10/01/us/politics/mcgurk-biden-netanyahu-gaza.html"
-  ],
-  [
     "death",
+    27,
+    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
+  ],
+  [
+    "voters",
+    26,
+    "https://www.nytimes.com/2026/10/01/us/politics/trump-puts-on-a-midterms-show-for-an-audience-thats-already-sold.html"
+  ],
+  [
+    "university",
     25,
-    "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html"
+    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
   ],
   [
     "los",
     25,
-    "https://www.theguardian.com/us-news/2026/oct/01/california-medical-helicopter-crash-catalina-island-la"
-  ],
-  [
-    "iran",
-    24,
-    "https://www.theguardian.com/us-news/2026/oct/01/hegseth-musk-warfare-taskforce"
-  ],
-  [
-    "game",
-    23,
-    "https://www.theguardian.com/us-news/2026/oct/01/mlb-game-grand-teton-national-park"
+    "https://www.theguardian.com/sport/2026/oct/01/braves-phillies-nl-wild-card-game-3-mlb-playoffs"
   ],
   [
     "angeles",
-    23,
-    "https://www.theguardian.com/us-news/2026/oct/01/california-medical-helicopter-crash-catalina-island-la"
+    25,
+    "https://www.theguardian.com/sport/2026/oct/01/braves-phillies-nl-wild-card-game-3-mlb-playoffs"
   ],
   [
-    "police",
-    22,
-    "https://www.nytimes.com/2026/10/01/nyregion/url-cornell-university-jane-doe-rape-case-statement.html"
-  ],
-  [
-    "judge",
-    22,
-    "https://www.nytimes.com/2026/10/01/climate/david-hearn-reflecting-pool-charges-dropped.html"
-  ],
-  [
-    "media",
-    22,
-    "https://www.washingtonpost.com/health/2026/10/01/is-it-your-personality-or-psychological-disorder-tiktok-has-answers/"
-  ],
-  [
-    "republicans",
-    22,
-    "https://www.theguardian.com/culture/2026/oct/01/jimmy-kimmel-trump-ai"
-  ],
-  [
-    "food",
-    22,
-    "https://www.theguardian.com/thefilter-us/2026/sep/25/anyday-square-glass-dish-containers"
+    "attorney",
+    24,
+    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
   ],
   [
     "pike",
-    21,
-    "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html"
+    24,
+    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
   ],
   [
-    "case",
-    21,
-    "https://www.nytimes.com/2026/10/01/nyregion/url-cornell-university-jane-doe-rape-case-statement.html"
+    "night",
+    23,
+    "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-fraternity-chi-phi-men.html"
   ],
   [
-    "questions",
-    21,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "president",
+    23,
+    "https://www.nytimes.com/2026/10/01/us/politics/trump-puts-on-a-midterms-show-for-an-audience-thats-already-sold.html"
   ],
   [
-    "israel",
-    20,
-    "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-attack-invesigation.html"
+    "christa",
+    23,
+    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
+  ],
+  [
+    "war",
+    23,
+    "https://www.nytimes.com/2026/10/01/us/politics/mcgurk-biden-netanyahu-gaza.html"
   ],
   [
     "administration",
-    20,
+    23,
     "https://www.washingtonpost.com/business/2026/09/30/trump-will-be-allowed-do-an-810-million-pocket-recission/"
+  ],
+  [
+    "case",
+    22,
+    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
+  ],
+  [
+    "republicans",
+    21,
+    "https://www.nytimes.com/2026/10/01/us/politics/republicans-congress-midterm-elections-trump-affordability.html"
+  ],
+  [
+    "tennessee",
+    21,
+    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
+  ],
+  [
+    "district",
+    21,
+    "https://www.washingtonpost.com/education/2026/10/01/unsealed-documents-detail-cornell-investigation-into-alleged-rape-fraternity-house/"
+  ],
+  [
+    "food",
+    21,
+    "https://www.theguardian.com/lifeandstyle/2026/oct/02/experience-allergic-to-the-cold"
+  ],
+  [
+    "york",
+    20,
+    "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-fraternity-chi-phi-men.html"
+  ],
+  [
+    "governor",
+    20,
+    "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-tennessee-governor-executions-year-pause"
   ],
   [
     "republican",
@@ -126,34 +141,44 @@
     "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-tennessee-governor-executions-year-pause"
   ],
   [
-    "attorney",
-    20,
-    "https://www.theguardian.com/world/2026/oct/01/brazil-attorney-general-election-meddling-trump-funding-plans"
-  ],
-  [
     "filter",
     20,
     "https://www.theguardian.com/thefilter-us/2026/oct/01/best-whimsy-products"
   ],
   [
-    "social",
+    "recent",
     19,
-    "https://www.washingtonpost.com/health/2026/10/01/is-it-your-personality-or-psychological-disorder-tiktok-has-answers/"
+    "https://www.nytimes.com/2026/10/02/world/europe/latvia-immigration-russia.html"
   ],
   [
-    "court",
-    18,
-    "https://www.nytimes.com/2026/10/01/briefing/tennessee-botched-execution-cornell-documents.html"
+    "questions",
+    19,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "york",
-    18,
-    "https://www.nytimes.com/2026/10/01/nyregion/url-cornell-university-jane-doe-rape-case-statement.html"
+    "law",
+    19,
+    "https://www.theguardian.com/us-news/2026/oct/01/california-outlaws-child-marriage"
   ],
   [
-    "night",
+    "james",
     18,
-    "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-fraternity-chi-phi-men.html"
+    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
+  ],
+  [
+    "series",
+    18,
+    "https://www.nytimes.com/2026/10/01/us/politics/republicans-congress-midterm-elections-trump-affordability.html"
+  ],
+  [
+    "bill",
+    18,
+    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
+  ],
+  [
+    "execution",
+    18,
+    "https://www.nytimes.com/2026/10/01/us/colleen-slemmer.html"
   ],
   [
     "country",
@@ -161,44 +186,34 @@
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "midterms",
-    18,
-    "https://www.theguardian.com/us-news/2026/oct/01/hegseth-musk-warfare-taskforce"
-  ],
-  [
-    "district",
-    18,
-    "https://www.theguardian.com/media/2026/oct/01/nn-white-house-second-removal-media-ban"
-  ],
-  [
-    "christa",
+    "botched",
     17,
-    "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html"
+    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
   ],
   [
-    "senate",
+    "family",
     17,
-    "https://www.nytimes.com/2026/10/01/us/politics/abdul-el-sayed-michigan-senate.html"
+    "https://www.nytimes.com/2026/10/01/us/colleen-slemmer.html"
   ],
   [
-    "buying",
+    "israel",
     17,
-    "https://www.theguardian.com/thefilter-us/2026/oct/01/best-whimsy-products"
+    "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-attack-invesigation.html"
   ],
   [
-    "rape",
+    "county",
     17,
-    "https://www.theguardian.com/commentisfree/2026/oct/01/cornell-rape-case"
+    "https://www.washingtonpost.com/education/2026/10/01/unsealed-documents-detail-cornell-investigation-into-alleged-rape-fraternity-house/"
   ],
   [
-    "season",
+    "democratic",
     17,
-    "https://www.theguardian.com/sport/2026/oct/01/pleasant-surprises-of-the-nfl-season-so-far-brock-purdy-for-mvp-and-actual-raiders-competence"
+    "https://www.washingtonpost.com/education/2026/10/01/treasury-introduces-rules-nations-first-federal-school-voucher-program/"
   ],
   [
-    "candidates",
+    "department",
     17,
-    "https://www.theguardian.com/us-news/2026/sep/30/send-us-your-questions-us-iran-war-midterms"
+    "https://www.washingtonpost.com/business/2026/09/30/watchdog-finds-fed-mishandled-renovations-that-trump-tried-oust-powell-over/"
   ],
   [
     "proposition",
@@ -206,64 +221,39 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "tennessee",
+    "general",
     16,
-    "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html"
+    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
   ],
   [
-    "recent",
+    "student",
     16,
-    "https://www.washingtonpost.com/nation/2026/10/01/rapper-rick-ross-arrested-miami-beach-domestic-violence-charges/"
+    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
   ],
   [
-    "college",
+    "really",
     16,
-    "https://www.washingtonpost.com/education/2026/10/01/belief-that-college-is-very-important-hits-new-low-poll-finds/"
+    "https://www.washingtonpost.com/lifestyle/2026/10/01/these-skydivers-parachuted-3000-feet-help-people-plane-crash/"
   ],
   [
-    "poll",
+    "buying",
     16,
-    "https://www.washingtonpost.com/education/2026/10/01/belief-that-college-is-very-important-hits-new-low-poll-finds/"
+    "https://www.theguardian.com/thefilter-us/2026/oct/01/best-whimsy-products"
   ],
   [
-    "county",
-    16,
-    "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/"
-  ],
-  [
-    "don",
-    16,
-    "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/"
-  ],
-  [
-    "money",
-    16,
-    "https://www.washingtonpost.com/education/2026/10/01/bipartisan-bill-seeks-ban-cellphones-schools-nationwide/"
-  ],
-  [
-    "department",
-    16,
-    "https://www.washingtonpost.com/business/2026/09/30/watchdog-finds-fed-mishandled-renovations-that-trump-tried-oust-powell-over/"
-  ],
-  [
-    "everything",
-    16,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "several",
-    16,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "hair",
-    16,
-    "https://www.theguardian.com/society/2026/oct/01/20-fascinating-facts-about-hair-why-baldness-is-super-masculine-and-a-pubic-bush-could-be-a-cheating-detector"
-  ],
-  [
-    "latest",
+    "special",
     15,
-    "https://www.nytimes.com/2026/10/01/briefing/tennessee-botched-execution-cornell-documents.html"
+    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
+  ],
+  [
+    "democrats",
+    15,
+    "https://www.nytimes.com/2026/10/01/us/politics/republicans-congress-midterm-elections-trump-affordability.html"
+  ],
+  [
+    "review",
+    15,
+    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
   ],
   [
     "prime",
@@ -271,9 +261,14 @@
     "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-attack-invesigation.html"
   ],
   [
-    "because",
+    "pilot",
     15,
-    "https://www.nytimes.com/2026/10/01/climate/david-hearn-reflecting-pool-charges-dropped.html"
+    "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-attack-invesigation.html"
+  ],
+  [
+    "investigation",
+    15,
+    "https://www.washingtonpost.com/education/2026/10/01/unsealed-documents-detail-cornell-investigation-into-alleged-rape-fraternity-house/"
   ],
   [
     "ice",
@@ -281,29 +276,44 @@
     "https://www.washingtonpost.com/politics/2026/10/01/supreme-court-agrees-review-ice-mandatory-detention-policy-immigrants/"
   ],
   [
-    "plane",
+    "don",
     15,
-    "https://www.washingtonpost.com/lifestyle/2026/10/01/these-skydivers-parachuted-3000-feet-help-people-plane-crash/"
+    "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/"
   ],
   [
-    "really",
+    "crisis",
     15,
-    "https://www.washingtonpost.com/lifestyle/2026/10/01/these-skydivers-parachuted-3000-feet-help-people-plane-crash/"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "democrats",
+    "air",
     15,
-    "https://www.washingtonpost.com/business/2026/09/30/trump-will-be-allowed-do-an-810-million-pocket-recission/"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "early",
+    "immigration",
     15,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "governor",
+    "community",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-tennessee-governor-executions-year-pause"
+    "https://www.theguardian.com/us-news/2026/oct/01/mlb-game-grand-teton-national-park"
+  ],
+  [
+    "texas",
+    15,
+    "https://www.theguardian.com/politics/audio/2026/oct/02/can-the-democrats-take-texas-podcast"
+  ],
+  [
+    "fewer",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/01/childcare-crisis-trump-administration"
+  ],
+  [
+    "something",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/01/colorado-river-nevada-shrinking"
   ],
   [
     "charter",
@@ -311,44 +321,44 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "execution",
+    "accused",
     14,
-    "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html"
+    "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-fraternity-chi-phi-men.html"
+  ],
+  [
+    "midterms",
+    14,
+    "https://www.nytimes.com/2026/10/01/us/politics/trump-puts-on-a-midterms-show-for-an-audience-thats-already-sold.html"
+  ],
+  [
+    "states",
+    14,
+    "https://www.nytimes.com/2026/10/01/us/politics/trump-puts-on-a-midterms-show-for-an-audience-thats-already-sold.html"
   ],
   [
     "lethal",
     14,
-    "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html"
+    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
   ],
   [
-    "review",
+    "mother",
     14,
-    "https://www.nytimes.com/2026/10/01/briefing/tennessee-botched-execution-cornell-documents.html"
+    "https://www.nytimes.com/2026/10/01/us/colleen-slemmer.html"
   ],
   [
-    "cornell",
+    "water",
     14,
-    "https://www.nytimes.com/2026/10/01/nyregion/url-cornell-university-jane-doe-rape-case-statement.html"
+    "https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html"
   ],
   [
-    "global",
+    "iran",
     14,
-    "https://www.nytimes.com/2026/10/01/business/diesel-prices-us-exports.html"
+    "https://www.nytimes.com/2026/10/02/world/middleeast/iran-strait-hormuz-attacks-oil.html"
   ],
   [
-    "democratic",
+    "poll",
     14,
-    "https://www.nytimes.com/2026/10/01/us/politics/abdul-el-sayed-michigan-senate.html"
-  ],
-  [
-    "nearly",
-    14,
-    "https://www.nytimes.com/2026/10/01/us/politics/mcgurk-biden-netanyahu-gaza.html"
-  ],
-  [
-    "investigation",
-    14,
-    "https://www.washingtonpost.com/business/2026/09/30/watchdog-finds-fed-mishandled-renovations-that-trump-tried-oust-powell-over/"
+    "https://www.washingtonpost.com/education/2026/10/01/belief-that-college-is-very-important-hits-new-low-poll-finds/"
   ],
   [
     "health",
@@ -356,23 +366,13 @@
     "https://www.washingtonpost.com/education/2026/09/30/university-michigan-pauses-plan-stop-issuing-grades/"
   ],
   [
-    "immigration",
+    "led",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "team",
+    "weekly",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "something",
-    14,
-    "https://www.theguardian.com/us-news/2026/oct/01/colorado-river-nevada-shrinking"
-  ],
-  [
-    "pay",
-    14,
-    "https://www.theguardian.com/us-news/2026/oct/01/house-democrats-letter-trump-ads"
+    "https://www.theguardian.com/politics/audio/2026/oct/02/can-the-democrats-take-texas-podcast"
   ]
 ];
