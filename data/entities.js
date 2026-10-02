@@ -3,15 +3,33 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 14,
-      "url": "https://www.theguardian.com/sport/2026/oct/02/clay-travis-sport-and-state",
+      "count": 26,
+      "url": "https://www.theguardian.com/culture/2026/oct/02/seth-meyers-trump-taxpayer-funded-ads",
       "source": "The Guardian"
     },
     {
-      "name": "Christa Pike",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/10/02/us/tennessee-failed-executions-history.html",
+      "name": "Christa Pike Unconscious",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/10/02/us/christa-pike-unconscious-what-next.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Kathy Hochul",
+      "count": 11,
+      "url": "https://www.washingtonpost.com/education/2026/10/02/what-know-about-cornell-university-rape-allegations/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Tony Romo",
+      "count": 8,
+      "url": "https://www.theguardian.com/sport/2026/oct/02/tony-romo-will-not-return-cbs-arrest",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Letitia James",
+      "count": 7,
+      "url": "https://www.washingtonpost.com/education/2026/10/02/what-know-about-cornell-university-rape-allegations/",
+      "source": "Washington Post"
     },
     {
       "name": "Clay Travis",
@@ -20,121 +38,41 @@
       "source": "The Guardian"
     },
     {
-      "name": "Letitia James",
-      "count": 6,
-      "url": "https://www.washingtonpost.com/education/2026/10/01/unsealed-documents-detail-cornell-investigation-into-alleged-rape-fraternity-house/",
-      "source": "Washington Post"
+      "name": "Jed York",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/oct/02/jed-york-49ers-nfl-suspension-arrest",
+      "source": "The Guardian"
     },
     {
-      "name": "Jane Doe'S",
+      "name": "James Baldwin’S",
       "count": 6,
-      "url": "https://www.cbsnews.com/news/jane-doe-cornell-university-rape-allegations-text-messages-transcripts/",
-      "source": "CBS News"
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/02/the-guardian-view-on-barack-obamas-new-podcast-all-the-presidents-books",
+      "source": "The Guardian"
     },
     {
-      "name": "Adam Hamilton",
+      "name": "Elsa Schiaparelli",
       "count": 6,
-      "url": "https://www.politico.com/video/2026/10/01/adam-hamilton-on-faith-trump-and-the-fight-for-kansas-2188689",
-      "source": "Politico"
-    },
-    {
-      "name": "Kathy Hochul",
-      "count": 5,
-      "url": "https://www.washingtonpost.com/education/2026/10/01/unsealed-documents-detail-cornell-investigation-into-alleged-rape-fraternity-house/",
-      "source": "Washington Post"
+      "url": "https://www.theguardian.com/fashion/2026/oct/02/schiaparelli-daniel-roseberry-aerodynamic-surrealist-glamour-paris-show-fashion",
+      "source": "The Guardian"
     },
     {
       "name": "Mahershala Ali",
       "count": 5,
       "url": "https://www.theguardian.com/film/2026/oct/02/bassam-tariq-your-mother-your-mother-your-mother-interview-mahershala-ali-marvel-blade",
       "source": "The Guardian"
-    },
-    {
-      "name": "Grouper’S Liz Harris",
-      "count": 5,
-      "url": "https://www.theguardian.com/music/2026/oct/02/grouper-liz-harris-tour-helen-band-lindas-head-interview",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Greg Freeman",
-      "count": 5,
-      "url": "https://www.theguardian.com/music/2026/oct/02/greg-freeman-all-set-the-bone-review-ambitious-alt-country-double-album-spreads-its-talents-a-touch-thin",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Republicans",
-      "count": 56,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-state-superintendent-public-instruction-shaw-barrera-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Ai",
-      "count": 19,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/02/ai-weapons-systems-algorithms-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 14,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Senate Memorandum",
-      "count": 14,
-      "url": "https://www.politico.com/f/?id=000001a0-cf7a-d2df-a1f4-ffffb2910000",
-      "source": "Politico"
-    },
-    {
-      "name": "Gop",
-      "count": 11,
-      "url": "https://www.foxnews.com/politics/inside-house-gops-4-week-battle-plan-save-its-majority",
-      "source": "Fox News"
-    },
-    {
-      "name": "Immigration And Customs Enforcement ( Ice",
-      "count": 9,
-      "url": "https://www.theguardian.com/culture/2026/oct/02/laura-poitras-rachel-lauren-mueller-theyre-here-interview-ice-documentary-short",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/oct/01/mlb-game-grand-teton-national-park",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nbc News",
-      "count": 9,
-      "url": "https://www.nbcnews.com/nightly-news/video/text-messages-shed-light-on-jane-doe-s-alleged-sexual-assault-270880325687",
-      "source": "NBC News"
-    },
-    {
-      "name": "Flydubai",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-dubai-uae-flights.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Congress",
-      "count": 8,
-      "url": "https://www.washingtonpost.com/business/2026/09/30/trump-will-be-allowed-do-an-810-million-pocket-recission/",
-      "source": "Washington Post"
     }
   ],
   "EVENT": [
     {
-      "name": "Game 3    Aces",
+      "name": "The Iran War",
       "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/oct/02/aja-wilson-caitlin-clark-aces-fever-wnba-playoffs-game-3",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
+      "name": "Game 3    Aces",
       "count": 3,
-      "url": "https://www.theguardian.com/us-news/2026/oct/01/hegseth-musk-warfare-taskforce",
+      "url": "https://www.theguardian.com/sport/2026/oct/02/aja-wilson-caitlin-clark-aces-fever-wnba-playoffs-game-3",
       "source": "The Guardian"
     },
     {
@@ -148,6 +86,12 @@
       "count": 2,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-pl-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "New York Film Festival",
+      "count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/02/cameron-winter-carnegie-hall-review-paul-thomas-anderson",
+      "source": "The Guardian"
     },
     {
       "name": "Game 3    Kerr",
@@ -178,56 +122,56 @@
       "count": 1,
       "url": "https://www.theguardian.com/global-development/2026/oct/01/water-yes-mining-no-the-87-year-old-farmer-who-became-a-nature-hero-in-colombia",
       "source": "The Guardian"
-    },
-    {
-      "name": "L.A. City Charter Amendment La",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide",
-      "source": "LA Times"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 44,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals",
+      "count": 58,
+      "url": "https://www.theguardian.com/thefilter-us/best-blenders",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 43,
-      "url": "https://www.theguardian.com/us-news/2026/oct/01/california-outlaws-child-marriage",
+      "count": 39,
+      "url": "https://www.theguardian.com/us-news/2026/oct/02/arrest-smuggled-computer-servers-china",
       "source": "The Guardian"
     },
     {
-      "name": "New York City",
-      "count": 20,
-      "url": "https://www.foxnews.com/entertainment/sylvester-stallone-showered-clothes-survive-before-rocky-fame",
-      "source": "Fox News"
-    },
-    {
-      "name": "U.S.",
-      "count": 18,
-      "url": "https://www.washingtonpost.com/business/2026/10/02/us-economy-added-29000-jobs-september-missing-estimates/",
-      "source": "Washington Post"
-    },
-    {
       "name": "L.A. County",
-      "count": 14,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
+      "count": 21,
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-10-02/chad-lowe-daughter-fiona-cause-of-death-confirmed-coroner",
       "source": "LA Times"
     },
     {
-      "name": "Tennessee",
+      "name": "New York City",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/10/01/realestate/tell-us-your-tales-of-trick-or-treating-in-new-york-city.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
       "count": 12,
-      "url": "https://www.nytimes.com/2026/10/02/us/tennessee-failed-executions-history.html",
+      "url": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html",
       "source": "NY Times"
     },
     {
       "name": "Texas",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/oct/02/man-shot-ice-texas-surgery",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/10/02/us/border-wall-big-bend-texas.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 10,
+      "url": "https://www.theguardian.com/thefilter-us/best-blenders",
       "source": "The Guardian"
+    },
+    {
+      "name": "Los Angeles County",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-sheriff-race-luna-villanueva-voter-guide",
+      "source": "LA Times"
     },
     {
       "name": "Iran",
@@ -236,17 +180,73 @@
       "source": "NY Times"
     },
     {
-      "name": "Minneapolis",
+      "name": "Tennessee",
       "count": 8,
-      "url": "https://www.washingtonpost.com/nation/2026/10/02/churchs-answer-loneliness-epidemic-turning-chapel-into-taphouse/",
+      "url": "https://www.nytimes.com/2026/10/02/us/christa-pike-unconscious-what-next.html",
+      "source": "NY Times"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Republicans",
+      "count": 58,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-state-superintendent-public-instruction-shaw-barrera-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Senate Leadership Fund",
+      "count": 22,
+      "url": "https://www.theguardian.com/us-news/2026/oct/02/republican-pac-funding-north-carolina-senate-michael-whatley",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 18,
+      "url": "https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 16,
+      "url": "https://www.washingtonpost.com/business/2026/10/02/us-economy-added-29000-jobs-september-missing-estimates/",
       "source": "Washington Post"
     },
     {
-      "name": "Northern Gaza",
+      "name": "Nfl",
+      "count": 15,
+      "url": "https://www.theguardian.com/sport/2026/oct/02/clay-travis-sport-and-state",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 14,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cbs Sports",
+      "count": 10,
+      "url": "https://www.theguardian.com/sport/2026/oct/02/tony-romo-will-not-return-cbs-arrest",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Amazon",
+      "count": 10,
+      "url": "https://www.theguardian.com/books/2026/sep/30/dey-by-edwidge-danticat-review-motherhood-and-trauma-in-miami",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cornell University",
       "count": 8,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
+      "url": "https://www.washingtonpost.com/education/2026/10/02/what-know-about-cornell-university-rape-allegations/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Cnn",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/oct/02/republican-pac-funding-north-carolina-senate-michael-whatley",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-10-02T13:42:19Z"
+  "updated": "2026-10-02T22:51:58Z"
 };
