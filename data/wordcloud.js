@@ -2,143 +2,103 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    84,
-    "https://www.nytimes.com/2026/10/01/us/politics/trump-puts-on-a-midterms-show-for-an-audience-thats-already-sold.html"
+    72,
+    "https://www.nytimes.com/2026/10/02/podcasts/voters-abandoning-trump-new-cancer-treatments.html"
   ],
   [
     "guide",
     69,
-    "https://www.theguardian.com/games/2026/sep/24/meet-the-real-life-pokemon-professors-the-unsung-heroes-of-competitive-monster-battling"
+    "https://www.theguardian.com/environment/2026/oct/02/northern-bald-ibis-human-led-migration-spain-austria-mirco-aircraft"
   ],
   [
     "california",
-    63,
+    47,
     "https://www.theguardian.com/us-news/2026/oct/01/california-outlaws-child-marriage"
   ],
   [
     "race",
-    41,
-    "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row"
+    39,
+    "https://www.theguardian.com/film/2026/oct/01/the-last-first-winter-k2-review-race-up-second-highest-mountain-reveals-fatal-cost-of-regrettable-traits"
   ],
   [
     "cornell",
-    35,
-    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
+    28,
+    "https://www.nytimes.com/2026/10/02/nyregion/cornell-investigation-prosecution-challenges.html"
   ],
   [
     "game",
-    33,
-    "https://www.theguardian.com/us-news/2026/oct/01/mlb-game-grand-teton-national-park"
-  ],
-  [
-    "rape",
     28,
-    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
-  ],
-  [
-    "campaign",
-    28,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.theguardian.com/football/2026/oct/02/manchester-city-fa-guilty-verdict-premier-league-appeal"
   ],
   [
     "death",
     27,
-    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
+    "https://www.washingtonpost.com/nation/2026/10/02/what-know-about-christa-pike-her-botched-execution-what-happens-next/"
   ],
   [
     "voters",
     26,
-    "https://www.nytimes.com/2026/10/01/us/politics/trump-puts-on-a-midterms-show-for-an-audience-thats-already-sold.html"
+    "https://www.nytimes.com/2026/10/02/podcasts/voters-abandoning-trump-new-cancer-treatments.html"
   ],
   [
-    "university",
-    25,
-    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
-  ],
-  [
-    "los",
-    25,
-    "https://www.theguardian.com/sport/2026/oct/01/braves-phillies-nl-wild-card-game-3-mlb-playoffs"
-  ],
-  [
-    "angeles",
-    25,
-    "https://www.theguardian.com/sport/2026/oct/01/braves-phillies-nl-wild-card-game-3-mlb-playoffs"
-  ],
-  [
-    "attorney",
+    "family",
     24,
-    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
-  ],
-  [
-    "pike",
-    24,
-    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
-  ],
-  [
-    "night",
-    23,
-    "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-fraternity-chi-phi-men.html"
-  ],
-  [
-    "president",
-    23,
-    "https://www.nytimes.com/2026/10/01/us/politics/trump-puts-on-a-midterms-show-for-an-audience-thats-already-sold.html"
-  ],
-  [
-    "christa",
-    23,
-    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
-  ],
-  [
-    "war",
-    23,
-    "https://www.nytimes.com/2026/10/01/us/politics/mcgurk-biden-netanyahu-gaza.html"
-  ],
-  [
-    "administration",
-    23,
-    "https://www.washingtonpost.com/business/2026/09/30/trump-will-be-allowed-do-an-810-million-pocket-recission/"
+    "https://www.nytimes.com/2026/10/01/us/colleen-slemmer.html"
   ],
   [
     "case",
+    23,
+    "https://www.washingtonpost.com/education/2026/10/01/unsealed-documents-detail-cornell-investigation-into-alleged-rape-fraternity-house/"
+  ],
+  [
+    "film",
+    23,
+    "https://www.theguardian.com/culture/2026/oct/02/laura-poitras-rachel-lauren-mueller-theyre-here-interview-ice-documentary-short"
+  ],
+  [
+    "york",
     22,
-    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
+    "https://www.nytimes.com/2026/10/01/insider/cornell-rape-investigation-news-reporting.html"
   ],
   [
     "republicans",
+    22,
+    "https://www.nytimes.com/2026/10/01/us/politics/republicans-congress-midterm-elections-trump-affordability.html"
+  ],
+  [
+    "president",
+    22,
+    "https://www.nytimes.com/2026/10/02/arts/television/late-night-trump-hispanic-stereotype.html"
+  ],
+  [
+    "campaign",
+    21,
+    "https://www.nytimes.com/2026/10/02/us/politics/aipac-midterm-elections-spending-israel.html"
+  ],
+  [
+    "democrats",
     21,
     "https://www.nytimes.com/2026/10/01/us/politics/republicans-congress-midterm-elections-trump-affordability.html"
   ],
   [
-    "tennessee",
+    "political",
     21,
-    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
+    "https://www.nytimes.com/2026/10/02/business/democrats-wealthy-taxes.html"
   ],
   [
-    "district",
+    "los",
     21,
-    "https://www.washingtonpost.com/education/2026/10/01/unsealed-documents-detail-cornell-investigation-into-alleged-rape-fraternity-house/"
-  ],
-  [
-    "food",
-    21,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/02/experience-allergic-to-the-cold"
-  ],
-  [
-    "york",
-    20,
-    "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-fraternity-chi-phi-men.html"
-  ],
-  [
-    "governor",
-    20,
-    "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-tennessee-governor-executions-year-pause"
+    "https://www.theguardian.com/us-news/2026/oct/02/police-divers-medical-helicopter-crash-los-angeles"
   ],
   [
     "republican",
     20,
-    "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-tennessee-governor-executions-year-pause"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals"
+  ],
+  [
+    "art",
+    20,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/02/kill-jackie-review-catherine-zeta-jones-assassin-thriller-prime-video"
   ],
   [
     "filter",
@@ -146,134 +106,149 @@
     "https://www.theguardian.com/thefilter-us/2026/oct/01/best-whimsy-products"
   ],
   [
-    "recent",
+    "pike",
     19,
-    "https://www.nytimes.com/2026/10/02/world/europe/latvia-immigration-russia.html"
+    "https://www.nytimes.com/2026/10/02/us/tennessee-failed-executions-history.html"
   ],
   [
-    "questions",
+    "angeles",
     19,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.theguardian.com/us-news/2026/oct/02/police-divers-medical-helicopter-crash-los-angeles"
   ],
   [
-    "law",
-    19,
-    "https://www.theguardian.com/us-news/2026/oct/01/california-outlaws-child-marriage"
-  ],
-  [
-    "james",
+    "investigation",
     18,
-    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
-  ],
-  [
-    "series",
-    18,
-    "https://www.nytimes.com/2026/10/01/us/politics/republicans-congress-midterm-elections-trump-affordability.html"
-  ],
-  [
-    "bill",
-    18,
-    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
-  ],
-  [
-    "execution",
-    18,
-    "https://www.nytimes.com/2026/10/01/us/colleen-slemmer.html"
+    "https://www.nytimes.com/2026/10/02/nyregion/cornell-investigation-prosecution-challenges.html"
   ],
   [
     "country",
     18,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/10/01/insider/cornell-rape-investigation-news-reporting.html"
   ],
   [
-    "botched",
-    17,
-    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
-  ],
-  [
-    "family",
-    17,
-    "https://www.nytimes.com/2026/10/01/us/colleen-slemmer.html"
-  ],
-  [
-    "israel",
-    17,
-    "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-attack-invesigation.html"
-  ],
-  [
-    "county",
-    17,
-    "https://www.washingtonpost.com/education/2026/10/01/unsealed-documents-detail-cornell-investigation-into-alleged-rape-fraternity-house/"
-  ],
-  [
-    "democratic",
-    17,
-    "https://www.washingtonpost.com/education/2026/10/01/treasury-introduces-rules-nations-first-federal-school-voucher-program/"
-  ],
-  [
-    "department",
-    17,
-    "https://www.washingtonpost.com/business/2026/09/30/watchdog-finds-fed-mishandled-renovations-that-trump-tried-oust-powell-over/"
-  ],
-  [
-    "proposition",
-    17,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
-  ],
-  [
-    "general",
-    16,
-    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
-  ],
-  [
-    "student",
-    16,
-    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
-  ],
-  [
-    "really",
-    16,
-    "https://www.washingtonpost.com/lifestyle/2026/10/01/these-skydivers-parachuted-3000-feet-help-people-plane-crash/"
-  ],
-  [
-    "buying",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/oct/01/best-whimsy-products"
-  ],
-  [
-    "special",
-    15,
-    "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html"
-  ],
-  [
-    "democrats",
-    15,
-    "https://www.nytimes.com/2026/10/01/us/politics/republicans-congress-midterm-elections-trump-affordability.html"
-  ],
-  [
-    "review",
-    15,
-    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
-  ],
-  [
-    "prime",
-    15,
-    "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-attack-invesigation.html"
-  ],
-  [
-    "pilot",
-    15,
-    "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-attack-invesigation.html"
-  ],
-  [
-    "investigation",
-    15,
+    "district",
+    18,
     "https://www.washingtonpost.com/education/2026/10/01/unsealed-documents-detail-cornell-investigation-into-alleged-rape-fraternity-house/"
   ],
   [
     "ice",
-    15,
+    18,
     "https://www.washingtonpost.com/politics/2026/10/01/supreme-court-agrees-review-ice-mandatory-detention-policy-immigrants/"
+  ],
+  [
+    "questions",
+    18,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "record",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/oct/02/christa-pike-tennessee-execution-attempt"
+  ],
+  [
+    "review",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/02/kill-jackie-review-catherine-zeta-jones-assassin-thriller-prime-video"
+  ],
+  [
+    "proposition",
+    18,
+    "https://www.latimes.com/california/story/2026-10-02/ucla-law-school-doj-race-admissions-finding"
+  ],
+  [
+    "rape",
+    17,
+    "https://www.nytimes.com/2026/10/02/nyregion/cornell-investigation-prosecution-challenges.html"
+  ],
+  [
+    "pilot",
+    17,
+    "https://www.nytimes.com/2026/10/02/world/asia/flydubai-attack-pilot-israel-india-smit-machchhar.html"
+  ],
+  [
+    "war",
+    17,
+    "https://www.nytimes.com/2026/10/02/world/middleeast/israel-dubai-uae-flights.html"
+  ],
+  [
+    "food",
+    17,
+    "https://www.theguardian.com/lifeandstyle/2026/oct/02/experience-allergic-to-the-cold"
+  ],
+  [
+    "buying",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/oct/01/best-whimsy-products"
+  ],
+  [
+    "candidates",
+    16,
+    "https://www.nytimes.com/2026/10/02/us/politics/aipac-midterm-elections-spending-israel.html"
+  ],
+  [
+    "recent",
+    16,
+    "https://www.nytimes.com/2026/10/02/world/europe/latvia-immigration-russia.html"
+  ],
+  [
+    "christa",
+    16,
+    "https://www.nytimes.com/2026/10/02/us/tennessee-failed-executions-history.html"
+  ],
+  [
+    "execution",
+    16,
+    "https://www.nytimes.com/2026/10/01/us/colleen-slemmer.html"
+  ],
+  [
+    "book",
+    16,
+    "https://www.nytimes.com/2026/10/02/business/democrats-wealthy-taxes.html"
+  ],
+  [
+    "night",
+    16,
+    "https://www.nytimes.com/2026/10/02/arts/television/late-night-trump-hispanic-stereotype.html"
+  ],
+  [
+    "jobs",
+    16,
+    "https://www.washingtonpost.com/business/2026/10/02/us-economy-added-29000-jobs-september-missing-estimates/"
+  ],
+  [
+    "county",
+    16,
+    "https://www.washingtonpost.com/education/2026/10/01/unsealed-documents-detail-cornell-investigation-into-alleged-rape-fraternity-house/"
+  ],
+  [
+    "states",
+    16,
+    "https://www.washingtonpost.com/education/2026/10/01/bipartisan-bill-seeks-ban-cellphones-schools-nationwide/"
+  ],
+  [
+    "department",
+    16,
+    "https://www.washingtonpost.com/business/2026/09/30/watchdog-finds-fed-mishandled-renovations-that-trump-tried-oust-powell-over/"
+  ],
+  [
+    "attack",
+    15,
+    "https://www.nytimes.com/2026/10/02/world/asia/flydubai-attack-pilot-israel-india-smit-machchhar.html"
+  ],
+  [
+    "botched",
+    15,
+    "https://www.nytimes.com/2026/10/02/us/tennessee-failed-executions-history.html"
+  ],
+  [
+    "series",
+    15,
+    "https://www.nytimes.com/2026/10/01/us/politics/republicans-congress-midterm-elections-trump-affordability.html"
+  ],
+  [
+    "court",
+    15,
+    "https://www.washingtonpost.com/politics/2026/10/01/larry-nassar-among-thousands-sex-offenders-removed-michigan-registry/"
   ],
   [
     "don",
@@ -281,39 +256,29 @@
     "https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/"
   ],
   [
-    "crisis",
+    "really",
     15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.washingtonpost.com/lifestyle/2026/10/01/these-skydivers-parachuted-3000-feet-help-people-plane-crash/"
   ],
   [
-    "air",
+    "senate",
     15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals"
   ],
   [
-    "immigration",
+    "midterms",
     15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/us-news/2026/oct/01/hegseth-musk-warfare-taskforce"
   ],
   [
-    "community",
+    "prime",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/01/mlb-game-grand-teton-national-park"
-  ],
-  [
-    "texas",
-    15,
-    "https://www.theguardian.com/politics/audio/2026/oct/02/can-the-democrats-take-texas-podcast"
-  ],
-  [
-    "fewer",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/01/childcare-crisis-trump-administration"
+    "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack"
   ],
   [
     "something",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/01/colorado-river-nevada-shrinking"
+    "https://www.theguardian.com/commentisfree/2026/oct/02/rumours-demise-exaggerated-haters-bang-on-marina-hyde-final-column"
   ],
   [
     "charter",
@@ -321,58 +286,93 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "accused",
+    "media",
     14,
-    "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-fraternity-chi-phi-men.html"
+    "https://www.washingtonpost.com/health/2026/10/01/is-it-your-personality-or-psychological-disorder-tiktok-has-answers/"
   ],
   [
-    "midterms",
+    "latest",
     14,
-    "https://www.nytimes.com/2026/10/01/us/politics/trump-puts-on-a-midterms-show-for-an-audience-thats-already-sold.html"
+    "https://www.washingtonpost.com/education/2026/09/29/hegseth-bars-military-academies-hiring-civilians-tenured-professors/"
   ],
   [
-    "states",
+    "immigration",
     14,
-    "https://www.nytimes.com/2026/10/01/us/politics/trump-puts-on-a-midterms-show-for-an-audience-thats-already-sold.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "lethal",
+    "governor",
     14,
-    "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html"
+    "https://www.theguardian.com/us-news/2026/oct/02/us-death-penalty-christa-pike-tennessee"
   ],
   [
-    "mother",
+    "tax",
     14,
-    "https://www.nytimes.com/2026/10/01/us/colleen-slemmer.html"
+    "https://www.theguardian.com/tv-and-radio/2026/oct/02/kill-jackie-review-catherine-zeta-jones-assassin-thriller-prime-video"
   ],
   [
-    "water",
+    "fewer",
     14,
-    "https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html"
+    "https://www.theguardian.com/music/2026/oct/02/greg-freeman-all-set-the-bone-review-ambitious-alt-country-double-album-spreads-its-talents-a-touch-thin"
   ],
   [
-    "iran",
+    "amendment",
     14,
-    "https://www.nytimes.com/2026/10/02/world/middleeast/iran-strait-hormuz-attacks-oil.html"
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "poll",
-    14,
-    "https://www.washingtonpost.com/education/2026/10/01/belief-that-college-is-very-important-hits-new-low-poll-finds/"
+    "flydubai",
+    13,
+    "https://www.nytimes.com/2026/10/02/world/asia/flydubai-attack-pilot-israel-india-smit-machchhar.html"
   ],
   [
-    "health",
-    14,
+    "air",
+    13,
+    "https://www.nytimes.com/2026/10/02/world/middleeast/israel-dubai-uae-flights.html"
+  ],
+  [
+    "attorney",
+    13,
+    "https://www.washingtonpost.com/education/2026/10/01/unsealed-documents-detail-cornell-investigation-into-alleged-rape-fraternity-house/"
+  ],
+  [
+    "special",
+    13,
+    "https://www.washingtonpost.com/education/2026/10/01/unsealed-documents-detail-cornell-investigation-into-alleged-rape-fraternity-house/"
+  ],
+  [
+    "money",
+    13,
+    "https://www.washingtonpost.com/education/2026/10/01/bipartisan-bill-seeks-ban-cellphones-schools-nationwide/"
+  ],
+  [
+    "children",
+    13,
+    "https://www.washingtonpost.com/nation/2026/09/30/why-lindsay-clancys-lawyer-is-disputing-whether-she-killed-her-children/"
+  ],
+  [
+    "university",
+    13,
     "https://www.washingtonpost.com/education/2026/09/30/university-michigan-pauses-plan-stop-issuing-grades/"
   ],
   [
-    "led",
-    14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "gaza",
+    13,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "weekly",
-    14,
-    "https://www.theguardian.com/politics/audio/2026/oct/02/can-the-democrats-take-texas-podcast"
+    "million",
+    13,
+    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
+  ],
+  [
+    "voter",
+    13,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals"
+  ],
+  [
+    "body",
+    13,
+    "https://www.theguardian.com/us-news/2026/oct/02/police-divers-medical-helicopter-crash-los-angeles"
   ]
 ];
