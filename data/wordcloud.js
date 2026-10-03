@@ -2,8 +2,8 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    79,
-    "https://www.nytimes.com/2026/10/02/us/politics/trump-ads.html"
+    75,
+    "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html"
   ],
   [
     "guide",
@@ -12,18 +12,18 @@
   ],
   [
     "race",
-    48,
-    "https://www.theguardian.com/us-news/2026/oct/02/alaska-governor-candidate-jonathan-kreiss-tomkins"
+    47,
+    "https://www.theguardian.com/us-news/2026/oct/02/republican-pac-funding-north-carolina-senate-michael-whatley"
   ],
   [
     "california",
-    42,
-    "https://www.nytimes.com/2026/10/02/weather/extreme-heat-wave-california.html"
+    44,
+    "https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck"
   ],
   [
-    "film",
+    "voters",
     34,
-    "https://www.theguardian.com/fashion/2026/oct/02/celebrities-grey-hair-olivia-colman-lisa-bonet-women-ageism-workplace-dye"
+    "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds"
   ],
   [
     "cornell",
@@ -31,79 +31,74 @@
     "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html"
   ],
   [
-    "york",
-    33,
-    "https://www.washingtonpost.com/education/2026/10/02/new-york-governor-slams-district-attorney-over-handling-cornell-rape-allegations/"
-  ],
-  [
-    "game",
+    "senate",
     29,
-    "https://www.theguardian.com/sport/2026/oct/02/jed-york-49ers-nfl-suspension-arrest"
+    "https://www.nytimes.com/2026/10/03/us/senate-polls-texas-kansas-ohio-alaska-iowa.html"
   ],
   [
     "rape",
-    27,
+    29,
     "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html"
   ],
   [
     "president",
-    26,
-    "https://www.nytimes.com/2026/10/02/us/politics/trump-ads.html"
+    28,
+    "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html"
   ],
   [
-    "campaign",
-    25,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "political",
-    25,
-    "https://www.theguardian.com/us-news/2026/oct/02/republican-pac-funding-north-carolina-senate-michael-whatley"
+    "york",
+    28,
+    "https://www.nytimes.com/2026/10/03/us/senate-polls-texas-kansas-ohio-alaska-iowa.html"
   ],
   [
     "war",
-    24,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    28,
+    "https://www.nytimes.com/2026/10/03/opinion/trump-empowers-iranian-extremists.html"
   ],
   [
-    "voters",
-    24,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals"
+    "food",
+    27,
+    "https://www.washingtonpost.com/nation/2026/10/02/14-bears-captured-killed-montana-home-amid-rise-human-bear-encounters/"
   ],
   [
-    "police",
+    "political",
+    26,
+    "https://www.theguardian.com/commentisfree/2026/oct/03/cornell-rape-case-male-supremacy"
+  ],
+  [
+    "republican",
+    24,
+    "https://www.nytimes.com/2026/10/03/us/senate-polls-texas-kansas-ohio-alaska-iowa.html"
+  ],
+  [
+    "death",
+    24,
+    "https://www.nytimes.com/2026/10/03/us/christa-pike-tennessee-execution.html"
+  ],
+  [
+    "campaign",
     23,
-    "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html"
+    "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html"
+  ],
+  [
+    "democrats",
+    23,
+    "https://www.nytimes.com/2026/10/03/us/senate-polls-texas-kansas-ohio-alaska-iowa.html"
+  ],
+  [
+    "game",
+    23,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/03/friday-night-lights-us-sports-drama-20-years"
+  ],
+  [
+    "film",
+    23,
+    "https://www.theguardian.com/world/2026/oct/03/french-film-notre-salut-vichy-regime"
   ],
   [
     "case",
-    23,
-    "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-jane-doe-hochul.html"
-  ],
-  [
-    "senate",
-    23,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals"
-  ],
-  [
-    "los",
     22,
-    "https://www.nytimes.com/2026/10/02/weather/extreme-heat-wave-california.html"
-  ],
-  [
-    "review",
-    21,
-    "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html"
-  ],
-  [
-    "angeles",
-    21,
-    "https://www.nytimes.com/2026/10/02/weather/extreme-heat-wave-california.html"
-  ],
-  [
-    "sea",
-    21,
-    "https://www.nytimes.com/2026/10/02/us/holei-sea-arch-hawaii-collapse.html"
+    "https://www.nytimes.com/2026/10/03/us/cornell-rape-campus-sexual-assault.html"
   ],
   [
     "district",
@@ -116,89 +111,94 @@
     "https://www.washingtonpost.com/immigration/2026/10/01/rene-goods-family-sues-trump-officials-saying-death-was-not-an-accident/"
   ],
   [
-    "filter",
+    "alleged",
     21,
-    "https://www.theguardian.com/thefilter-us/best-blenders"
+    "https://www.theguardian.com/commentisfree/2026/oct/03/cornell-rape-case-male-supremacy"
   ],
   [
-    "food",
+    "filter",
+    21,
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/best-beauty-advent-calendars"
+  ],
+  [
+    "police",
     20,
-    "https://www.washingtonpost.com/nation/2026/10/02/14-bears-captured-killed-montana-home-amid-rise-human-bear-encounters/"
+    "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html"
+  ],
+  [
+    "county",
+    20,
+    "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html"
+  ],
+  [
+    "questions",
+    19,
+    "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html"
+  ],
+  [
+    "states",
+    19,
+    "https://www.nytimes.com/2026/10/03/us/senate-polls-texas-kansas-ohio-alaska-iowa.html"
   ],
   [
     "pilot",
     19,
-    "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html"
+    "https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html"
   ],
   [
-    "beauty",
+    "democratic",
     19,
-    "https://www.nytimes.com/2026/10/02/opinion/ezra-klein-podcast-debbie-millman.html"
+    "https://www.washingtonpost.com/education/2026/10/01/treasury-introduces-rules-nations-first-federal-school-voucher-program/"
   ],
   [
-    "republican",
+    "republicans",
     19,
-    "https://www.theguardian.com/us-news/2026/oct/02/alaska-governor-candidate-jonathan-kreiss-tomkins"
+    "https://www.theguardian.com/us-news/2026/oct/02/republican-pac-funding-north-carolina-senate-michael-whatley"
   ],
   [
-    "series",
-    19,
-    "https://www.theguardian.com/us-news/2026/oct/02/hawaii-holei-sea-arch-collapses"
-  ],
-  [
-    "son",
-    19,
-    "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine"
-  ],
-  [
-    "james",
+    "sea",
     18,
-    "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-jane-doe-hochul.html"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "university",
+    "far",
     18,
-    "https://www.washingtonpost.com/education/2026/10/02/what-know-about-cornell-university-rape-allegations/"
+    "https://www.theguardian.com/media/2026/oct/03/russell-t-davies-interview-doctor-who-fierce-fandom-love-grief"
   ],
   [
-    "jobs",
+    "candidates",
     18,
-    "https://www.washingtonpost.com/business/2026/10/02/us-economy-added-29000-jobs-september-missing-estimates/"
+    "https://www.theguardian.com/us-news/2026/oct/02/republican-pac-funding-north-carolina-senate-michael-whatley"
   ],
   [
-    "air",
-    18,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "administration",
+    17,
+    "https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html"
   ],
   [
-    "alleged",
-    18,
-    "https://www.theguardian.com/us-news/2026/oct/02/new-york-cornell-alleged-gang-rape-kathy-hochul"
+    "red",
+    17,
+    "https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html"
   ],
   [
-    "county",
+    "review",
     17,
     "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html"
   ],
   [
-    "attorney",
+    "execution",
     17,
-    "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-jane-doe-hochul.html"
-  ],
-  [
-    "attack",
-    17,
-    "https://www.nytimes.com/2026/10/02/world/asia/flydubai-attack-pilot-israel-india-smit-machchhar.html"
+    "https://www.nytimes.com/2026/10/03/us/christa-pike-tennessee-execution.html"
   ],
   [
     "pike",
     17,
-    "https://www.nytimes.com/2026/10/02/us/frank-strada-tennessee-executions-arizona-christa-pike.html"
+    "https://www.nytimes.com/2026/10/03/us/christa-pike-tennessee-execution.html"
   ],
   [
-    "recent",
+    "governor",
     17,
-    "https://www.washingtonpost.com/nation/2026/10/01/rapper-rick-ross-arrested-miami-beach-domestic-violence-charges/"
+    "https://www.washingtonpost.com/education/2026/10/02/new-york-governor-slams-district-attorney-over-handling-cornell-rape-allegations/"
   ],
   [
     "fewer",
@@ -206,19 +206,19 @@
     "https://www.theguardian.com/us-news/2026/oct/02/alaska-governor-candidate-jonathan-kreiss-tomkins"
   ],
   [
-    "tested",
+    "los",
     17,
-    "https://www.theguardian.com/thefilter-us/best-blenders"
+    "https://www.theguardian.com/tv-and-radio/2026/oct/03/get-jiro-anthony-bourdains-ultraviolent-sushi-chef-makes-for-wild-pulpy-television"
   ],
   [
-    "republicans",
+    "angeles",
     17,
-    "https://www.theguardian.com/us-news/2026/oct/02/republican-pac-funding-north-carolina-senate-michael-whatley"
+    "https://www.theguardian.com/tv-and-radio/2026/oct/03/get-jiro-anthony-bourdains-ultraviolent-sushi-chef-makes-for-wild-pulpy-television"
   ],
   [
-    "cbs",
+    "beauty",
     17,
-    "https://www.theguardian.com/sport/2026/oct/02/tony-romo-will-not-return-cbs-arrest"
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/best-beauty-advent-calendars"
   ],
   [
     "proposition",
@@ -226,59 +226,64 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "execution",
+    "college",
     16,
-    "https://www.nytimes.com/2026/10/02/us/frank-strada-tennessee-executions-arizona-christa-pike.html"
-  ],
-  [
-    "south",
-    16,
-    "https://www.nytimes.com/2026/10/02/us/politics/alabama-trump-rally-glory-days.html"
-  ],
-  [
-    "governor",
-    16,
-    "https://www.washingtonpost.com/education/2026/10/02/new-york-governor-slams-district-attorney-over-handling-cornell-rape-allegations/"
-  ],
-  [
-    "million",
-    16,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "democrats",
-    16,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals"
+    "https://www.nytimes.com/2026/10/03/us/cornell-rape-campus-sexual-assault.html"
   ],
   [
     "buying",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/oct/02/best-beauty-advent-calendars"
+    "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html"
+  ],
+  [
+    "son",
+    16,
+    "https://www.washingtonpost.com/obituaries/2026/10/03/harriet-hancock-mother-scs-gay-rights-movement-dies-89/"
+  ],
+  [
+    "attorney",
+    16,
+    "https://www.washingtonpost.com/education/2026/10/02/what-know-about-cornell-university-rape-allegations/"
+  ],
+  [
+    "james",
+    16,
+    "https://www.washingtonpost.com/education/2026/10/02/what-know-about-cornell-university-rape-allegations/"
+  ],
+  [
+    "series",
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/02/hawaii-holei-sea-arch-collapses"
+  ],
+  [
+    "girl",
+    16,
+    "https://www.theguardian.com/culture/2026/oct/03/i-craved-a-mean-girls-approval-until-my-little-pony-broke-the-spell"
+  ],
+  [
+    "party",
+    15,
+    "https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html"
+  ],
+  [
+    "american",
+    15,
+    "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html"
   ],
   [
     "money",
     15,
-    "https://www.nytimes.com/2026/10/02/us/politics/trump-ads.html"
+    "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html"
   ],
   [
-    "administration",
+    "night",
     15,
-    "https://www.nytimes.com/2026/10/02/us/border-wall-big-bend-texas.html"
+    "https://www.nytimes.com/2026/10/03/magazine/chris-rock-interview.html"
   ],
   [
-    "hochul",
+    "university",
     15,
-    "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-jane-doe-hochul.html"
-  ],
-  [
-    "questions",
-    15,
-    "https://www.nytimes.com/2026/10/02/world/middleeast/israel-plane-flydubai-pilot-background-check.html"
-  ],
-  [
-    "health",
-    15,
-    "https://www.nytimes.com/2026/10/02/world/middleeast/israel-plane-flydubai-pilot-background-check.html"
+    "https://www.washingtonpost.com/education/2026/10/02/what-know-about-cornell-university-rape-allegations/"
   ],
   [
     "election",
@@ -286,19 +291,39 @@
     "https://www.washingtonpost.com/business/2026/10/02/us-economy-added-29000-jobs-september-missing-estimates/"
   ],
   [
-    "college",
+    "recent",
     15,
-    "https://www.washingtonpost.com/education/2026/10/01/belief-that-college-is-very-important-hits-new-low-poll-finds/"
+    "https://www.washingtonpost.com/nation/2026/10/01/rapper-rick-ross-arrested-miami-beach-domestic-violence-charges/"
   ],
   [
-    "candidates",
+    "term",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/02/republican-pac-funding-north-carolina-senate-michael-whatley"
+    "https://www.washingtonpost.com/politics/2026/10/01/supreme-court-agrees-review-ice-mandatory-detention-policy-immigrants/"
   ],
   [
-    "star",
+    "really",
     15,
-    "https://www.theguardian.com/film/2026/oct/02/behemoth-pedro-pascal-movie-review"
+    "https://www.theguardian.com/politics/video/2026/oct/03/theres-no-such-thing-as-democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty"
+  ],
+  [
+    "sports",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/03/friday-night-lights-us-sports-drama-20-years"
+  ],
+  [
+    "book",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/oct/02/the-guardian-view-on-barack-obamas-new-podcast-all-the-presidents-books"
+  ],
+  [
+    "cbs",
+    15,
+    "https://www.theguardian.com/sport/2026/oct/02/tony-romo-will-not-return-cbs-arrest"
+  ],
+  [
+    "tested",
+    15,
+    "https://www.theguardian.com/games/2026/sep/30/gears-of-war-e-day-review-xbox-pc"
   ],
   [
     "charter",
@@ -306,44 +331,29 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "government",
+    "love",
     14,
-    "https://www.nytimes.com/2026/10/02/us/politics/trump-ads.html"
+    "https://www.nytimes.com/2026/10/01/style/modern-love-we-want-your-best-breakup-lines.html"
   ],
   [
-    "israeli",
+    "everything",
     14,
-    "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html"
+    "https://www.washingtonpost.com/nation/2026/10/04/he-lost-everything-then-he-found-riches-dumpster/"
   ],
   [
-    "far",
+    "south",
     14,
-    "https://www.nytimes.com/2026/10/02/world/middleeast/israel-plane-flydubai-pilot-background-check.html"
+    "https://www.washingtonpost.com/obituaries/2026/10/03/harriet-hancock-mother-scs-gay-rights-movement-dies-89/"
   ],
   [
-    "christa",
+    "general",
     14,
-    "https://www.nytimes.com/2026/10/02/us/frank-strada-tennessee-executions-arizona-christa-pike.html"
+    "https://www.washingtonpost.com/education/2026/10/02/what-know-about-cornell-university-rape-allegations/"
   ],
   [
-    "death",
+    "investigation",
     14,
-    "https://www.washingtonpost.com/nation/2026/10/02/what-know-about-christa-pike-her-botched-execution-what-happens-next/"
-  ],
-  [
-    "court",
-    14,
-    "https://www.washingtonpost.com/politics/2026/10/01/larry-nassar-among-thousands-sex-offenders-removed-michigan-registry/"
-  ],
-  [
-    "ice",
-    14,
-    "https://www.washingtonpost.com/politics/2026/10/01/supreme-court-agrees-review-ice-mandatory-detention-policy-immigrants/"
-  ],
-  [
-    "school",
-    14,
-    "https://www.washingtonpost.com/education/2026/10/01/treasury-introduces-rules-nations-first-federal-school-voucher-program/"
+    "https://www.washingtonpost.com/education/2026/10/01/unsealed-documents-detail-cornell-investigation-into-alleged-rape-fraternity-house/"
   ],
   [
     "country",
@@ -351,28 +361,18 @@
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "prime",
+    "don",
     14,
-    "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds"
+    "https://www.theguardian.com/commentisfree/2026/oct/03/cornell-rape-case-male-supremacy"
   ],
   [
-    "father",
+    "football",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/02/gypsy-rose-blanchard-ken-urker-dead"
+    "https://www.theguardian.com/news/ng-interactive/2026/oct/03/manchester-city-guilty-verdict-football"
   ],
   [
-    "tax",
+    "politics",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/02/kill-jackie-review-catherine-zeta-jones-assassin-thriller-prime-video"
-  ],
-  [
-    "amendment",
-    14,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
-  ],
-  [
-    "latest",
-    13,
-    "https://www.nytimes.com/2026/10/02/us/politics/national-science-foundation-research-funds.html"
+    "https://www.theguardian.com/politics/video/2026/oct/03/theres-no-such-thing-as-democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty"
   ]
 ];
