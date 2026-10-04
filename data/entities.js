@@ -2,22 +2,22 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Republicans",
-      "count": 42,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-state-superintendent-public-instruction-shaw-barrera-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Ai Company’S",
-      "count": 19,
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "source": "The Guardian"
+      "name": "Trump Moved Ethical Lines",
+      "count": 49,
+      "url": "https://www.nytimes.com/2026/10/04/us/politics/trump-moving-ethical-lines.html",
+      "source": "NY Times"
     },
     {
       "name": "Senate Memorandum",
-      "count": 18,
+      "count": 17,
       "url": "https://www.politico.com/f/?id=000001a0-cf7a-d2df-a1f4-ffffb2910000",
       "source": "Politico"
+    },
+    {
+      "name": "Gop",
+      "count": 16,
+      "url": "https://www.washingtonpost.com/business/2026/10/02/us-economy-added-29000-jobs-september-missing-estimates/",
+      "source": "Washington Post"
     },
     {
       "name": "The Filter Us",
@@ -26,60 +26,190 @@
       "source": "The Guardian"
     },
     {
-      "name": "Gop",
-      "count": 11,
-      "url": "https://www.washingtonpost.com/business/2026/10/02/us-economy-added-29000-jobs-september-missing-estimates/",
-      "source": "Washington Post"
+      "name": "The White House",
+      "count": 15,
+      "url": "https://www.nbcnews.com/politics/2026-election/poll-latino-voters-swing-away-trump-republicans-midterm-shift-rcna599894",
+      "source": "NBC News"
     },
     {
       "name": "Cornell University",
-      "count": 10,
+      "count": 11,
       "url": "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html",
       "source": "NY Times"
     },
     {
-      "name": "Amazon",
-      "count": 10,
-      "url": "https://www.theguardian.com/thefilter-us/2026/sep/30/early-october-amazon-big-deals-prime-day",
+      "name": "Congress",
+      "count": 11,
+      "url": "https://www.theguardian.com/film/2026/oct/03/a-statement-film-review",
       "source": "The Guardian"
     },
     {
       "name": "Guardian",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/oct/03/convenience-store-overcharges-us-congress",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/04/hegseth-testosterone-replacement-therapy",
       "source": "The Guardian"
     },
     {
-      "name": "Congress",
+      "name": "Nfl",
+      "count": 10,
+      "url": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-bet-10-get-150-nfl-sunday-select-states",
+      "source": "Fox News"
+    },
+    {
+      "name": "Ai Company’S",
       "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/oct/03/convenience-store-overcharges-us-congress",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "source": "The Guardian"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "The Iran War",
+      "count": 3,
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/send-us-your-questions-us-iran-war-midterms",
       "source": "The Guardian"
     },
     {
-      "name": "The California Congressional District",
-      "count": 7,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
+      "name": "L.A. City Charter Amendment Pl: Streamlining Planning Department",
+      "count": 2,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-pl-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "The War And Treaty",
+      "count": 2,
+      "url": "https://www.cbsnews.com/video/saturday-sessions-the-war-and-treaty-performs-itll-hurt-me-more-than-itll-hurt-you/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The Wind Cries",
+      "count": 1,
+      "url": "https://www.theguardian.com/music/2026/oct/04/elvis-costello-honest-playlist-sinatra-clash-kelis-pink-floyd-bob-dylan",
+      "source": "The Guardian"
+    },
+    {
+      "name": "League Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/oct/03/blank-instead-manchester-city-name-trophies-premier-league",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The China Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/oct/04/aryna-sabalenka-out-of-china-open-straight-sets-tennis-defeat-nikola-bartunkova",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/oct/03/lamine-yamal-stars-again-as-spain-see-off-czechia-and-maintain-perfect-start",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The ‘Jerico 11",
+      "count": 1,
+      "url": "https://www.theguardian.com/global-development/2026/oct/01/water-yes-mining-no-the-87-year-old-farmer-who-became-a-nature-hero-in-colombia",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Friday Night Lights",
+      "count": 1,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/03/friday-night-lights-us-sports-drama-20-years",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Get Out",
+      "count": 1,
+      "url": "https://www.theguardian.com/culture/2026/oct/02/laura-poitras-rachel-lauren-mueller-theyre-here-interview-ice-documentary-short",
+      "source": "The Guardian"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 52,
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/pennsylvania-health-officials-measles-outbreak",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 37,
+      "url": "https://www.latimes.com/california/story/2026-10-03/steve-hilton-latino-outreach-king-taco",
+      "source": "LA Times"
+    },
+    {
+      "name": "Texas",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ohio",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 15,
+      "url": "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County",
+      "count": 13,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 12,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Spain",
+      "count": 11,
+      "url": "https://www.theguardian.com/travel/2026/oct/04/empty-spain-extremadura-castile-and-leon-wildlife-holiday",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 10,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Russia",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
+      "source": "NY Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 29,
-      "url": "https://www.theguardian.com/us-news/2026/oct/03/mariann-budde-episcopal-bishop-trump",
+      "count": 32,
+      "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
       "source": "The Guardian"
     },
     {
-      "name": "Christa Pike",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/10/03/us/tennessee-prison-commissioner-resigns-christa-pike.html",
+      "name": "Tom Cotton",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/10/03/us/trump-tom-cotton-cellphone-number.html",
       "source": "NY Times"
     },
     {
-      "name": "Tom Cotton",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/10/03/us/trump-tom-cotton-cellphone-number.html",
+      "name": "Christa Pike Has",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/10/04/opinion/christa-pike-botched-execution.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Ken Paxton",
+      "count": 7,
+      "url": "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas",
+      "source": "The Guardian"
     },
     {
       "name": "Chris Cornell",
@@ -88,21 +218,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "Ken Paxton",
-      "count": 7,
-      "url": "https://www.nbcnews.com/politics/2026-election/ken-paxtons-estranged-wife-urges-voters-back-new-ad-rcna601345",
-      "source": "NBC News"
+      "name": "Min Jin Lee",
+      "count": 6,
+      "url": "https://www.theguardian.com/books/2026/oct/03/i-thought-if-im-going-to-die-im-going-to-write-a-book-first-pachinko-author-min-jin-lee",
+      "source": "The Guardian"
     },
     {
       "name": "Larry Kramer",
       "count": 6,
       "url": "https://www.theguardian.com/stage/2026/oct/03/kramer-fauci-aids-play-brookyn-new-york",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pete Hegseth",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/03/pete-hegseth-office-of-religious-affairs",
       "source": "The Guardian"
     },
     {
@@ -124,129 +248,5 @@
       "source": "LA Times"
     }
   ],
-  "EVENT": [
-    {
-      "name": "The Iran War",
-      "count": 4,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/03/jb-pritzker-profile-democrats-2028",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The War And Treaty",
-      "count": 3,
-      "url": "https://www.cbsnews.com/video/saturday-sessions-the-war-and-treaty-performs-itll-hurt-me-more-than-itll-hurt-you/",
-      "source": "CBS News"
-    },
-    {
-      "name": "L.A. City Charter Amendment Pl: Streamlining Planning Department",
-      "count": 2,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-pl-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "World War Ii",
-      "count": 2,
-      "url": "https://thehill.com/homenews/senate/6127608-ted-cruz-criticizes-tucker-carlson-wwii/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Friday Night Lights",
-      "count": 1,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/03/friday-night-lights-us-sports-drama-20-years",
-      "source": "The Guardian"
-    },
-    {
-      "name": "League Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/oct/03/blank-instead-manchester-city-name-trophies-premier-league",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Game 3",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/03/golden-state-valkyries-dallas-wings-wnba-playoffs-game-3",
-      "source": "The Guardian"
-    },
-    {
-      "name": "World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/oct/03/lamine-yamal-stars-again-as-spain-see-off-czechia-and-maintain-perfect-start",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The ‘Jerico 11",
-      "count": 1,
-      "url": "https://www.theguardian.com/global-development/2026/oct/01/water-yes-mining-no-the-87-year-old-farmer-who-became-a-nature-hero-in-colombia",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Get Out",
-      "count": 1,
-      "url": "https://www.theguardian.com/culture/2026/oct/02/laura-poitras-rachel-lauren-mueller-theyre-here-interview-ice-documentary-short",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 58,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/03/friday-night-lights-us-sports-drama-20-years",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 45,
-      "url": "https://www.theguardian.com/us-news/2026/oct/01/trump-women-vote",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/10/03/us/politics/times-siena-poll-takeaways.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County",
-      "count": 16,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Ohio",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/10/03/us/politics/times-siena-poll-takeaways.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City",
-      "count": 12,
-      "url": "https://www.cbsnews.com/video/how-a-community-cleanup-project-is-helping-adults-make-new-friends/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Florida",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/oct/03/florida-ex-sheriff-deputy-not-guilty-shooting-death-black-air-force-airman",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Tennessee",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/10/03/us/tennessee-prison-commissioner-resigns-christa-pike.html",
-      "source": "NY Times"
-    }
-  ],
-  "updated": "2026-10-04T06:41:38Z"
+  "updated": "2026-10-04T13:06:07Z"
 };
