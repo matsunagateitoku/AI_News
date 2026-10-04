@@ -2,283 +2,258 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    87,
-    "https://www.nytimes.com/2026/10/04/us/politics/trump-moving-ethical-lines.html"
+    88,
+    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
   ],
   [
     "guide",
     74,
-    "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them"
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
   ],
   [
     "president",
-    46,
-    "https://www.nytimes.com/2026/10/03/nyregion/cornell-president-calls-rape-inquiry-defining-moment-for-campus.html"
+    49,
+    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
   ],
   [
     "race",
-    43,
+    45,
     "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
   ],
   [
     "california",
-    42,
-    "https://www.theguardian.com/us-news/2026/oct/03/southern-california-late-season-heatwave"
-  ],
-  [
-    "voters",
-    36,
-    "https://www.nytimes.com/2026/10/03/world/canada/quebec-election-independence-parti-quebecois-separatism.html"
-  ],
-  [
-    "war",
-    33,
-    "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html"
-  ],
-  [
-    "game",
-    30,
-    "https://www.theguardian.com/football/2026/oct/03/lamine-yamal-stars-again-as-spain-see-off-czechia-and-maintain-perfect-start"
-  ],
-  [
-    "code",
-    28,
-    "https://www.theguardian.com/world/2026/oct/04/polish-activists-launch-abortion-pill-locker-to-bypass-near-total-ban"
-  ],
-  [
-    "republican",
-    27,
-    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
-  ],
-  [
-    "texas",
-    27,
-    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
-  ],
-  [
-    "food",
-    26,
-    "https://www.washingtonpost.com/nation/2026/10/02/14-bears-captured-killed-montana-home-amid-rise-human-bear-encounters/"
-  ],
-  [
-    "republicans",
-    26,
-    "https://www.theguardian.com/us-news/2026/oct/04/trump-midterm-rallies-campaign-republicans"
-  ],
-  [
-    "cornell",
-    25,
-    "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html"
-  ],
-  [
-    "climate",
-    24,
-    "https://www.washingtonpost.com/politics/2026/10/04/showdown-over-big-oil-climate-change-hits-supreme-court/"
-  ],
-  [
-    "district",
-    24,
-    "https://www.washingtonpost.com/education/2026/10/02/what-know-about-cornell-university-rape-allegations/"
-  ],
-  [
-    "filter",
-    24,
-    "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them"
-  ],
-  [
-    "political",
-    23,
-    "https://www.nytimes.com/2026/10/04/us/politics/kristi-noem-planes-donor.html"
+    45,
+    "https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck"
   ],
   [
     "democrats",
-    23,
+    35,
     "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
   ],
   [
-    "country",
-    23,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "war",
+    30,
+    "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html"
   ],
   [
-    "promo",
-    23,
-    "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-unlocks-bet-20-get-350-promo-braves-vs-dodgers"
+    "republicans",
+    30,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo"
   ],
   [
-    "york",
-    22,
+    "republican",
+    29,
+    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
+  ],
+  [
+    "voters",
+    29,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo"
+  ],
+  [
+    "cornell",
+    27,
     "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html"
   ],
   [
+    "filter",
+    26,
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
+  ],
+  [
     "court",
-    22,
-    "https://www.washingtonpost.com/politics/2026/10/04/showdown-over-big-oil-climate-change-hits-supreme-court/"
+    25,
+    "https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html"
   ],
   [
-    "don",
-    22,
-    "https://www.theguardian.com/film/2026/oct/04/john-cena-interview-matchbox-movie-wwe-peacemaker"
+    "nation",
+    25,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo"
   ],
   [
-    "foxnews",
-    22,
-    "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-unlocks-bet-20-get-350-promo-braves-vs-dodgers"
-  ],
-  [
-    "election",
-    21,
-    "https://www.nytimes.com/2026/10/03/world/canada/quebec-election-independence-parti-quebecois-separatism.html"
-  ],
-  [
-    "campaign",
-    21,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "film",
-    21,
-    "https://www.theguardian.com/film/2026/oct/04/john-cena-interview-matchbox-movie-wwe-peacemaker"
-  ],
-  [
-    "senate",
-    21,
-    "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas"
+    "food",
+    25,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/03/get-jiro-anthony-bourdains-ultraviolent-sushi-chef-makes-for-wild-pulpy-television"
   ],
   [
     "democratic",
-    20,
+    24,
     "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
   ],
   [
-    "book",
+    "campaign",
+    23,
+    "https://www.washingtonpost.com/immigration/2026/10/04/trump-rallies-his-base-ohio-haitian-migrant-is-laid-rest-nearby/"
+  ],
+  [
+    "texas",
+    22,
+    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
+  ],
+  [
+    "election",
+    22,
+    "https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html"
+  ],
+  [
+    "district",
+    22,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats"
+  ],
+  [
+    "party",
+    22,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats"
+  ],
+  [
+    "political",
+    21,
+    "https://www.nytimes.com/2026/10/04/world/europe/biljana-plavsic-dead.html"
+  ],
+  [
+    "country",
+    21,
+    "https://www.nytimes.com/2026/10/04/us/amish-vaccines-measles.html"
+  ],
+  [
+    "beauty",
+    21,
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
+  ],
+  [
+    "game",
+    21,
+    "https://www.theguardian.com/sport/2026/oct/04/nfl-roundup-football-sunday-scores"
+  ],
+  [
+    "iran",
     20,
-    "https://www.theguardian.com/film/2026/oct/04/john-cena-interview-matchbox-movie-wwe-peacemaker"
+    "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html"
+  ],
+  [
+    "senate",
+    20,
+    "https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html"
+  ],
+  [
+    "don",
+    20,
+    "https://www.theguardian.com/us-news/2026/oct/04/pennsylvania-health-officials-measles-outbreak"
   ],
   [
     "angeles",
     20,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/03/get-jiro-anthony-bourdains-ultraviolent-sushi-chef-makes-for-wild-pulpy-television"
+    "https://www.theguardian.com/sport/2026/oct/04/nfl-roundup-football-sunday-scores"
   ],
   [
-    "change",
-    19,
-    "https://www.nytimes.com/2026/10/04/opinion/talarico-paxton-texas-senate-evangelicals.html"
+    "poll",
+    20,
+    "https://www.foxnews.com/outkick-sports/week-5-ap-top-25-poll-hodgepodge-sec-big-ten-teams-moving-every-which-direction"
   ],
   [
-    "girl",
+    "governor",
     19,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats"
+    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
   ],
   [
-    "los",
+    "york",
     19,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/03/get-jiro-anthony-bourdains-ultraviolent-sushi-chef-makes-for-wild-pulpy-television"
+    "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html"
   ],
   [
     "win",
-    18,
-    "https://www.nytimes.com/2026/10/04/opinion/talarico-paxton-texas-senate-evangelicals.html"
+    19,
+    "https://www.nytimes.com/2026/10/03/us/politics/justice-alito-retirement-supreme-court.html"
   ],
   [
-    "special",
-    18,
-    "https://www.washingtonpost.com/nation/2026/10/03/cornell-president-vows-review-handling-2024-rape-allegations/"
-  ],
-  [
-    "death",
-    18,
-    "https://www.washingtonpost.com/nation/2026/10/02/what-know-about-christa-pike-her-botched-execution-what-happens-next/"
-  ],
-  [
-    "police",
-    18,
-    "https://www.washingtonpost.com/education/2026/10/02/new-york-governor-slams-district-attorney-over-handling-cornell-rape-allegations/"
+    "early",
+    19,
+    "https://www.washingtonpost.com/health/2026/10/04/why-you-should-think-about-getting-your-flu-shot-now/"
   ],
   [
     "buying",
-    18,
-    "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them"
+    19,
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
   ],
   [
-    "donald",
+    "air",
     18,
-    "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro"
+    "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html"
   ],
   [
-    "candidates",
+    "climate",
     18,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/florida-20th-congressional-district-black-vote"
+    "https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html"
+  ],
+  [
+    "fewer",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
+  ],
+  [
+    "book",
+    18,
+    "https://www.theguardian.com/film/2026/oct/04/john-cena-interview-matchbox-movie-wwe-peacemaker"
+  ],
+  [
+    "los",
+    18,
+    "https://www.theguardian.com/sport/2026/oct/04/nfl-roundup-football-sunday-scores"
+  ],
+  [
+    "proposition",
+    18,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
+  ],
+  [
+    "intelligence",
+    17,
+    "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html"
+  ],
+  [
+    "because",
+    17,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo"
   ],
   [
     "health",
     17,
-    "https://www.washingtonpost.com/nation/2026/10/02/body-cam-footage-shows-moment-luigi-mangione-was-arrested-mcdonalds/"
+    "https://www.theguardian.com/us-news/2026/oct/04/pennsylvania-health-officials-measles-outbreak"
   ],
   [
-    "county",
-    17,
-    "https://www.washingtonpost.com/education/2026/10/02/what-know-about-cornell-university-rape-allegations/"
+    "following",
+    16,
+    "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html"
   ],
   [
-    "midterm",
-    17,
-    "https://www.washingtonpost.com/business/2026/10/02/us-economy-added-29000-jobs-september-missing-estimates/"
+    "far",
+    16,
+    "https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html"
   ],
   [
-    "fewer",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them"
+    "everything",
+    16,
+    "https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html"
+  ],
+  [
+    "family",
+    16,
+    "https://www.washingtonpost.com/nation/2026/10/04/before-in-laws-arrest-slaying-engineer-park-years-domestic-strife/"
   ],
   [
     "congressional",
-    17,
-    "https://www.theguardian.com/us-news/2026/oct/04/trump-midterm-rallies-campaign-republicans"
-  ],
-  [
-    "american",
-    17,
-    "https://www.theguardian.com/artanddesign/gallery/2026/oct/04/native-american-indigenous-poster-art-show-new-york"
-  ],
-  [
-    "beauty",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/oct/02/best-beauty-advent-calendars"
-  ],
-  [
-    "proposition",
-    17,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
-  ],
-  [
-    "amendment",
-    17,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
-  ],
-  [
-    "states",
     16,
-    "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats"
   ],
   [
-    "young",
+    "tested",
     16,
-    "https://www.washingtonpost.com/nation/2026/10/04/he-lost-everything-then-he-found-riches-dumpster/"
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
   ],
   [
-    "gop",
+    "shooting",
     16,
-    "https://www.washingtonpost.com/business/2026/10/02/us-economy-added-29000-jobs-september-missing-estimates/"
-  ],
-  [
-    "school",
-    16,
-    "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books"
-  ],
-  [
-    "black",
-    16,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/florida-20th-congressional-district-black-vote"
+    "https://www.theguardian.com/us-news/2026/oct/04/mass-shootings-georgia-baltimore"
   ],
   [
     "charter",
@@ -286,93 +261,118 @@
     "https://www.theguardian.com/us-news/2026/oct/04/colorado-climate-high-school-students"
   ],
   [
-    "offer",
-    15,
-    "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html"
+    "gop",
+    16,
+    "https://www.latimes.com/california/story/2026-10-03/provocative-sexually-suggestive-ad-by-hilton-campaign-condemned-by-political-allies-on-right"
   ],
   [
-    "university",
+    "south",
     15,
-    "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html"
+    "https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html"
   ],
   [
-    "ohio",
+    "questions",
     15,
-    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
+    "https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html"
   ],
   [
-    "family",
+    "change",
     15,
-    "https://www.nytimes.com/2026/10/04/briefing/how-to-die.html"
+    "https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html"
   ],
   [
-    "students",
+    "near",
     15,
-    "https://www.washingtonpost.com/obituaries/2026/10/04/pastry-chef-who-motorcycled-nude-across-canada-other-lives-weve-lost/"
+    "https://www.nytimes.com/2026/10/03/us/politics/justice-alito-retirement-supreme-court.html"
   ],
   [
-    "everything",
+    "star",
     15,
-    "https://www.washingtonpost.com/nation/2026/10/04/he-lost-everything-then-he-found-riches-dumpster/"
-  ],
-  [
-    "night",
-    15,
-    "https://www.theguardian.com/uk-news/2026/oct/04/john-boyega-interview-damilola-taylor-documentary"
-  ],
-  [
-    "tested",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats"
   ],
   [
     "weekly",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them"
-  ],
-  [
-    "far",
-    15,
-    "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro"
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
   ],
   [
     "community",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/03/mariann-budde-episcopal-bishop-trump"
+    "https://www.theguardian.com/us-news/2026/oct/04/washington-state-marie-gluesenkamp-perez-democrat-congress"
   ],
   [
-    "party",
+    "candidates",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/04/trump-midterm-rallies-campaign-republicans"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/florida-20th-congressional-district-black-vote"
   ],
   [
-    "users",
+    "elections",
     15,
-    "https://www.theguardian.com/technology/2026/sep/24/parents-children-ai-social-media"
+    "https://www.theguardian.com/business/2026/oct/04/trump-communism-republicans"
   ],
   [
-    "rape",
-    14,
-    "https://www.nytimes.com/2026/10/03/nyregion/cornell-president-calls-rape-inquiry-defining-moment-for-campus.html"
+    "john",
+    15,
+    "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas"
   ],
   [
-    "governor",
-    14,
-    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
+    "margaret",
+    15,
+    "https://www.cbsnews.com/news/face-the-nation-full-transcript-10-04-2026/"
   ],
   [
-    "case",
-    14,
-    "https://www.washingtonpost.com/politics/2026/10/04/showdown-over-big-oil-climate-change-hits-supreme-court/"
-  ],
-  [
-    "questions",
-    14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "brennan",
+    15,
+    "https://www.cbsnews.com/news/face-the-nation-full-transcript-10-04-2026/"
   ],
   [
     "attack",
     14,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html"
+  ],
+  [
+    "attorney",
+    14,
+    "https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html"
+  ],
+  [
+    "supreme",
+    14,
+    "https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html"
+  ],
+  [
+    "faces",
+    14,
+    "https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html"
+  ],
+  [
+    "term",
+    14,
+    "https://www.nytimes.com/2026/10/03/us/politics/justice-alito-retirement-supreme-court.html"
+  ],
+  [
+    "medical",
+    14,
+    "https://www.nytimes.com/2026/10/04/us/missing-medical-plane-nantucket-what-to-know.html"
+  ],
+  [
+    "secretary",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "administration",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/oct/04/donald-trump-western-hemisphere-brazil-elections-lula-bolsonaro"
+  ],
+  [
+    "seat",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/04/washington-state-marie-gluesenkamp-perez-democrat-congress"
+  ],
+  [
+    "county",
+    14,
+    "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas"
   ]
 ];

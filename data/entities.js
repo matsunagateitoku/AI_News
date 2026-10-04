@@ -2,219 +2,113 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Moved Ethical Lines",
-      "count": 49,
-      "url": "https://www.nytimes.com/2026/10/04/us/politics/trump-moving-ethical-lines.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Senate Memorandum",
-      "count": 17,
-      "url": "https://www.politico.com/f/?id=000001a0-cf7a-d2df-a1f4-ffffb2910000",
+      "name": "Trump Draws Low Marks",
+      "count": 57,
+      "url": "https://www.politico.com/news/2026/10/04/trump-latino-voters-slip-midterms-01106273",
       "source": "Politico"
     },
     {
-      "name": "Gop",
-      "count": 16,
-      "url": "https://www.washingtonpost.com/business/2026/10/02/us-economy-added-29000-jobs-september-missing-estimates/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 16,
-      "url": "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 15,
-      "url": "https://www.nbcnews.com/politics/2026-election/poll-latino-voters-swing-away-trump-republicans-midterm-shift-rcna599894",
-      "source": "NBC News"
-    },
-    {
-      "name": "Cornell University",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Congress",
-      "count": 11,
-      "url": "https://www.theguardian.com/film/2026/oct/03/a-statement-film-review",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/04/hegseth-testosterone-replacement-therapy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nfl",
-      "count": 10,
-      "url": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-bet-10-get-150-nfl-sunday-select-states",
-      "source": "Fox News"
-    },
-    {
-      "name": "Ai Company’S",
-      "count": 9,
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "source": "The Guardian"
-    }
-  ],
-  "EVENT": [
-    {
-      "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/send-us-your-questions-us-iran-war-midterms",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A. City Charter Amendment Pl: Streamlining Planning Department",
-      "count": 2,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-pl-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "The War And Treaty",
-      "count": 2,
-      "url": "https://www.cbsnews.com/video/saturday-sessions-the-war-and-treaty-performs-itll-hurt-me-more-than-itll-hurt-you/",
+      "name": "Ai \"Super Intelligence Force",
+      "count": 24,
+      "url": "https://www.cbsnews.com/news/ai-super-intelligence-force-trump-jay-clayton/",
       "source": "CBS News"
     },
     {
-      "name": "The Wind Cries",
-      "count": 1,
-      "url": "https://www.theguardian.com/music/2026/oct/04/elvis-costello-honest-playlist-sinatra-clash-kelis-pink-floyd-bob-dylan",
-      "source": "The Guardian"
-    },
-    {
-      "name": "League Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/oct/03/blank-instead-manchester-city-name-trophies-premier-league",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The China Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/04/aryna-sabalenka-out-of-china-open-straight-sets-tennis-defeat-nikola-bartunkova",
-      "source": "The Guardian"
-    },
-    {
-      "name": "World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/oct/03/lamine-yamal-stars-again-as-spain-see-off-czechia-and-maintain-perfect-start",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The ‘Jerico 11",
-      "count": 1,
-      "url": "https://www.theguardian.com/global-development/2026/oct/01/water-yes-mining-no-the-87-year-old-farmer-who-became-a-nature-hero-in-colombia",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Friday Night Lights",
-      "count": 1,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/03/friday-night-lights-us-sports-drama-20-years",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Get Out",
-      "count": 1,
-      "url": "https://www.theguardian.com/culture/2026/oct/02/laura-poitras-rachel-lauren-mueller-theyre-here-interview-ice-documentary-short",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 52,
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/pennsylvania-health-officials-measles-outbreak",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 37,
-      "url": "https://www.latimes.com/california/story/2026-10-03/steve-hilton-latino-outreach-king-taco",
-      "source": "LA Times"
-    },
-    {
-      "name": "Texas",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ohio",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "New York City",
-      "count": 15,
+      "name": "The Us Senate",
+      "count": 17,
       "url": "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas",
       "source": "The Guardian"
     },
     {
-      "name": "L.A. County",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Spain",
-      "count": 11,
-      "url": "https://www.theguardian.com/travel/2026/oct/04/empty-spain-extremadura-castile-and-leon-wildlife-holiday",
+      "name": "The Filter Us",
+      "count": 17,
+      "url": "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them",
       "source": "The Guardian"
     },
     {
-      "name": "Israel",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
+      "name": "Gop",
+      "count": 16,
+      "url": "https://www.latimes.com/california/story/2026-10-03/provocative-sexually-suggestive-ad-by-hilton-campaign-condemned-by-political-allies-on-right",
+      "source": "LA Times"
     },
     {
-      "name": "Russia",
+      "name": "Cbs News Battleground Tracker",
+      "count": 12,
+      "url": "https://www.cbsnews.com/video/cbs-news-battleground-tracker-poll-finds-democrats-maintain-house-advantage/",
+      "source": "CBS News"
+    },
+    {
+      "name": "The Supreme Court",
+      "count": 11,
+      "url": "https://www.cbsnews.com/video/samuel-alito-says-that-political-attacks-aimed-at-supreme-court-can-be-quite-damaging/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Congress",
+      "count": 10,
+      "url": "https://www.theguardian.com/film/2026/oct/03/a-statement-film-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "House Of Representatives",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cornell University",
       "count": 9,
-      "url": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
+      "url": "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html",
       "source": "NY Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 32,
-      "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
+      "count": 31,
+      "url": "https://www.washingtonpost.com/immigration/2026/10/04/trump-rallies-his-base-ohio-haitian-migrant-is-laid-rest-nearby/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Margaret Brennan",
+      "count": 15,
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-10-04-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Samuel Alito",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/samuel-alito-supreme-court-interview",
       "source": "The Guardian"
     },
     {
-      "name": "Tom Cotton",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/10/03/us/trump-tom-cotton-cellphone-number.html",
-      "source": "NY Times"
+      "name": "Jay Clayton",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+      "source": "The Guardian"
     },
     {
-      "name": "Christa Pike Has",
+      "name": "Jd Vance",
       "count": 7,
-      "url": "https://www.nytimes.com/2026/10/04/opinion/christa-pike-botched-execution.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ken Paxton",
-      "count": 7,
-      "url": "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo",
       "source": "The Guardian"
     },
     {
       "name": "Chris Cornell",
       "count": 7,
       "url": "https://www.theguardian.com/music/2026/oct/01/meshell-ndegeocello-synonym-review-vivid-all-star-reinventions-of-everyone-from-bob-dylan-to-j-lo",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Zach Lahn",
+      "count": 7,
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-10-04-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Rams",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/oct/04/nfl-roundup-football-sunday-scores",
       "source": "The Guardian"
     },
     {
@@ -228,25 +122,131 @@
       "count": 6,
       "url": "https://www.theguardian.com/stage/2026/oct/03/kramer-fauci-aids-play-brookyn-new-york",
       "source": "The Guardian"
-    },
+    }
+  ],
+  "GPE": [
     {
-      "name": "Elsa Schiaparelli",
-      "count": 6,
-      "url": "https://www.theguardian.com/fashion/2026/oct/02/schiaparelli-daniel-roseberry-aerodynamic-surrealist-glamour-paris-show-fashion",
+      "name": "Us",
+      "count": 60,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats",
       "source": "The Guardian"
     },
     {
-      "name": "Steve Hilton",
-      "count": 6,
-      "url": "https://www.latimes.com/california/story/2026-10-03/provocative-sexually-suggestive-ad-by-hilton-campaign-condemned-by-political-allies-on-right",
+      "name": "California",
+      "count": 41,
+      "url": "https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County",
+      "count": 16,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Zach Bryan",
-      "count": 6,
-      "url": "https://www.latimes.com/entertainment-arts/music/story/2026-10-03/zach-bryan-free-palestine-robert-kraft-gillette-stadium",
-      "source": "LA Times"
+      "name": "U.S.",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 13,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "New York City",
+      "count": 13,
+      "url": "https://www.theguardian.com/business/2026/oct/04/trump-communism-republicans",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iowa",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Japan",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+      "source": "Wall St. Journal"
     }
   ],
-  "updated": "2026-10-04T13:06:07Z"
+  "EVENT": [
+    {
+      "name": "The Iran War",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/send-us-your-questions-us-iran-war-midterms",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Super Bowl",
+      "count": 2,
+      "url": "https://www.theguardian.com/thefilter-us/2026/sep/30/early-october-amazon-big-deals-prime-day",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. City Charter Amendment Pl: Streamlining Planning Department",
+      "count": 2,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-pl-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Helluva Ride",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/10/03/books/review/michael-douglas-memoir-one-helluva-ride-interview.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Night Live",
+      "count": 1,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mikey Day",
+      "count": 1,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Wind Cries",
+      "count": 1,
+      "url": "https://www.theguardian.com/music/2026/oct/04/elvis-costello-honest-playlist-sinatra-clash-kelis-pink-floyd-bob-dylan",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/oct/04/thomas-tuchel-england-croatia-nations-league-euro-2028",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The ‘Jerico 11",
+      "count": 1,
+      "url": "https://www.theguardian.com/global-development/2026/oct/01/water-yes-mining-no-the-87-year-old-farmer-who-became-a-nature-hero-in-colombia",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Friday Night Lights",
+      "count": 1,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/03/friday-night-lights-us-sports-drama-20-years",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-10-04T22:15:51Z"
 };
