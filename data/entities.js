@@ -3,32 +3,26 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 55,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats",
+      "count": 43,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/05/trump-us-economy-comments",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 44,
-      "url": "https://www.theguardian.com/world/2026/oct/05/california-woman-arrested-and-accused-of-spying-on-taiwan-presidents-son-for-china",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Russia",
-      "count": 23,
-      "url": "https://www.theguardian.com/world/2026/oct/04/bosnian-serb-nationalist-dodik-declares-party-victory-in-bosnia-election",
+      "count": 43,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/05/denise-brown-sister-nicole-brown-simpson-murder-oj-simpson",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html",
-      "source": "NY Times"
+      "count": 18,
+      "url": "https://www.washingtonpost.com/nation/2026/10/04/us-military-removes-bombers-uk-base-targeted-suspected-terror-plot/",
+      "source": "Washington Post"
     },
     {
-      "name": "Texas",
+      "name": "Iran",
       "count": 16,
-      "url": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
+      "url": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
       "source": "NY Times"
     },
     {
@@ -38,110 +32,140 @@
       "source": "LA Times"
     },
     {
-      "name": "New York City",
-      "count": 15,
-      "url": "https://www.theguardian.com/business/2026/oct/04/trump-communism-republicans",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ukraine",
+      "name": "Texas",
       "count": 13,
-      "url": "https://www.theguardian.com/world/2026/oct/05/ukraine-war-briefing-germanys-merz-pledges-1bn-in-military-aid-to-kyiv-as-russia-ramps-up-attacks",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html",
+      "url": "https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html",
       "source": "NY Times"
     },
     {
-      "name": "South Georgia",
-      "count": 12,
-      "url": "https://www.foxnews.com/us/mass-shooting-georgia-block-party-leaves-2-dead-35-injured",
-      "source": "Fox News"
+      "name": "Israel",
+      "count": 11,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Los Angeles County",
+      "count": 11,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-sheriff-race-luna-villanueva-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "China",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Russia",
+      "count": 8,
+      "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
+      "source": "The Guardian"
     }
   ],
-  "PERSON": [
+  "ORG": [
     {
-      "name": "Donald Trump",
-      "count": 30,
-      "url": "https://www.washingtonpost.com/immigration/2026/10/04/trump-rallies-his-base-ohio-haitian-migrant-is-laid-rest-nearby/",
-      "source": "Washington Post"
+      "name": "Trump Draws Low Marks",
+      "count": 29,
+      "url": "https://www.politico.com/news/2026/10/04/trump-latino-voters-slip-midterms-01106273",
+      "source": "Politico"
     },
     {
-      "name": "Flávio Bolsonaro",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html",
+      "name": "Ai",
+      "count": 21,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/05/trump-us-economy-comments",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Alabama Supreme Court",
+      "count": 17,
+      "url": "https://thehill.com/regulation/court-battles/6129259-scotus-denies-roy-moore-appeal/",
+      "source": "The Hill"
+    },
+    {
+      "name": "House After Midterm Elections",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/10/05/us/politics/democrats-congress-women-house.html",
       "source": "NY Times"
     },
     {
-      "name": "Jay Clayton",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+      "name": "The White House",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/white-house-press-aide-beni-rae-harmony",
       "source": "The Guardian"
     },
     {
-      "name": "Jd Vance",
-      "count": 7,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo",
+      "name": "The Supreme Court",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/10/05/magazine/supreme-court-congress.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them",
       "source": "The Guardian"
     },
     {
-      "name": "Luiz Inácio Lula Da Silva",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro",
+      "name": "Nfl Players Association",
+      "count": 11,
+      "url": "https://www.theguardian.com/sport/2026/oct/04/trey-mcbride-nfl-official-swearing-video",
       "source": "The Guardian"
     },
     {
-      "name": "Thom Tillis",
-      "count": 7,
-      "url": "https://www.cbsnews.com/news/thom-tillis-60-minutes-transcript/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Rams",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/oct/04/nfl-roundup-football-sunday-scores",
+      "name": "The Us Senate",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/oct/05/us-senate-pilots-air-traffic-controllers-mental-health",
       "source": "The Guardian"
     },
     {
-      "name": "Chris Cornell",
-      "count": 6,
-      "url": "https://www.theguardian.com/music/2026/oct/01/meshell-ndegeocello-synonym-review-vivid-all-star-reinventions-of-everyone-from-bob-dylan-to-j-lo",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Larry Kramer",
-      "count": 6,
-      "url": "https://www.theguardian.com/stage/2026/oct/03/kramer-fauci-aids-play-brookyn-new-york",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Elsa Schiaparelli",
-      "count": 6,
-      "url": "https://www.theguardian.com/fashion/2026/oct/02/schiaparelli-daniel-roseberry-aerodynamic-surrealist-glamour-paris-show-fashion",
-      "source": "The Guardian"
+      "name": "Cornell University",
+      "count": 10,
+      "url": "https://www.washingtonpost.com/style/2026/10/05/cornell-university-protests-escalate-with-spray-paint-broken-glass/",
+      "source": "Washington Post"
     }
   ],
   "EVENT": [
     {
-      "name": "The Iran War",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/send-us-your-questions-us-iran-war-midterms",
+      "name": "The Super Bowl",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/oct/05/kansas-city-chiefs-las-vegas-raiders-nfl-football",
       "source": "The Guardian"
     },
     {
-      "name": "Game 2",
+      "name": "The Iran War",
       "count": 2,
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-04/dodgers-braves-nlds-game-2-series-tied-mlb-postseason",
-      "source": "LA Times"
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/send-us-your-questions-us-iran-war-midterms",
+      "source": "The Guardian"
     },
     {
       "name": "L.A. City Charter Amendment Pl: Streamlining Planning Department",
       "count": 2,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-pl-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "The Iranian Revolution",
+      "count": 1,
+      "url": "https://www.theguardian.com/world/2026/oct/05/iran-oil-minister-resigns-economic-crisis",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/oct/05/cristiano-ronaldo-portugal-rift",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Post-World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/oct/05/usmnt-new-generation-cavan-sullivan-julian-hall-diego-kochen",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Operation Dawn",
+      "count": 1,
+      "url": "https://www.theguardian.com/world/2026/oct/05/yemen-air-campaign-houthis-saudi-led-coalition",
+      "source": "The Guardian"
     },
     {
       "name": "Night Live",
@@ -156,97 +180,73 @@
       "source": "The Guardian"
     },
     {
-      "name": "The World Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/oct/04/thomas-tuchel-england-croatia-nations-league-euro-2028",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The ‘Jerico 11",
-      "count": 1,
-      "url": "https://www.theguardian.com/global-development/2026/oct/01/water-yes-mining-no-the-87-year-old-farmer-who-became-a-nature-hero-in-colombia",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Friday Night Lights",
-      "count": 1,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/03/friday-night-lights-us-sports-drama-20-years",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York Film Festival",
-      "count": 1,
-      "url": "https://www.theguardian.com/film/2026/oct/02/cameron-winter-carnegie-hall-review-paul-thomas-anderson",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Wind Cries",
       "count": 1,
       "url": "https://www.theguardian.com/music/2026/oct/04/elvis-costello-honest-playlist-sinatra-clash-kelis-pink-floyd-bob-dylan",
       "source": "The Guardian"
     }
   ],
-  "ORG": [
+  "PERSON": [
     {
-      "name": "Trump Draws Low Marks",
-      "count": 48,
-      "url": "https://www.politico.com/news/2026/10/04/trump-latino-voters-slip-midterms-01106273",
-      "source": "Politico"
-    },
-    {
-      "name": "Ai \"Super Intelligence Force",
-      "count": 22,
-      "url": "https://www.cbsnews.com/news/ai-super-intelligence-force-trump-jay-clayton/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 17,
-      "url": "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Us Senate",
+      "name": "Dennis Hastert",
       "count": 16,
-      "url": "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Congress",
-      "count": 11,
-      "url": "https://www.theguardian.com/film/2026/oct/03/a-statement-film-review",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 10,
-      "url": "https://www.latimes.com/california/story/2026-10-03/provocative-sexually-suggestive-ad-by-hilton-campaign-condemned-by-political-allies-on-right",
-      "source": "LA Times"
-    },
-    {
-      "name": "The White House",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/white-house-press-aide-beni-rae-harmony",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/10/03/us/politics/justice-alito-retirement-supreme-court.html",
+      "url": "https://www.nytimes.com/2026/10/05/obituaries/dennis-hastert-dead.html",
       "source": "NY Times"
     },
     {
-      "name": "Fbi",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/oct/05/california-woman-arrested-and-accused-of-spying-on-taiwan-presidents-son-for-china",
+      "name": "Donald Trump",
+      "count": 16,
+      "url": "https://www.washingtonpost.com/immigration/2026/10/04/trump-rallies-his-base-ohio-haitian-migrant-is-laid-rest-nearby/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Karoline Leavitt",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/10/05/business/media/fox-news-karoline-leavitt.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Chris Cornell",
+      "count": 6,
+      "url": "https://www.theguardian.com/music/2026/oct/01/meshell-ndegeocello-synonym-review-vivid-all-star-reinventions-of-everyone-from-bob-dylan-to-j-lo",
       "source": "The Guardian"
     },
     {
-      "name": "Pentagon",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot",
+      "name": "Elsa Schiaparelli",
+      "count": 6,
+      "url": "https://www.theguardian.com/fashion/2026/oct/02/schiaparelli-daniel-roseberry-aerodynamic-surrealist-glamour-paris-show-fashion",
       "source": "The Guardian"
+    },
+    {
+      "name": "Marco Rubio",
+      "count": 5,
+      "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Denise Brown",
+      "count": 5,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/05/denise-brown-sister-nicole-brown-simpson-murder-oj-simpson",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Karen Bass",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/the-surprising-cut-throat-race-for-los-angeles-mayor",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ken Paxton",
+      "count": 4,
+      "url": "https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Mark Thompson",
+      "count": 4,
+      "url": "https://www.nytimes.com/2026/10/05/business/cnn-mark-thompson-ellison-paramount-skydance.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-10-05T06:42:24Z"
+  "updated": "2026-10-05T15:44:13Z"
 };
