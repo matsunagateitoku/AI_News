@@ -2,43 +2,28 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    88,
-    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
+    82,
+    "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html"
   ],
   [
     "guide",
-    74,
+    75,
     "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
   ],
   [
     "president",
-    49,
+    57,
     "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
   ],
   [
     "race",
-    45,
-    "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html"
+    46,
+    "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro"
   ],
   [
     "california",
-    45,
-    "https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck"
-  ],
-  [
-    "democrats",
-    35,
-    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
-  ],
-  [
-    "war",
-    30,
-    "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html"
-  ],
-  [
-    "republicans",
-    30,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo"
+    46,
+    "https://www.theguardian.com/world/2026/oct/05/california-woman-arrested-and-accused-of-spying-on-taiwan-presidents-son-for-china"
   ],
   [
     "republican",
@@ -46,14 +31,29 @@
     "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
   ],
   [
-    "voters",
-    29,
+    "republicans",
+    28,
     "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo"
   ],
   [
+    "voters",
+    28,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo"
+  ],
+  [
+    "game",
+    28,
+    "https://www.theguardian.com/sport/2026/oct/04/nfl-roundup-football-sunday-scores"
+  ],
+  [
     "cornell",
-    27,
+    26,
     "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html"
+  ],
+  [
+    "war",
+    26,
+    "https://www.washingtonpost.com/nation/2026/10/04/us-military-removes-bombers-uk-base-targeted-suspected-terror-plot/"
   ],
   [
     "filter",
@@ -61,59 +61,59 @@
     "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
   ],
   [
-    "court",
+    "democrats",
     25,
-    "https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html"
+    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
   ],
   [
-    "nation",
-    25,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo"
+    "york",
+    24,
+    "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html"
   ],
   [
     "food",
-    25,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/03/get-jiro-anthony-bourdains-ultraviolent-sushi-chef-makes-for-wild-pulpy-television"
+    24,
+    "https://www.theguardian.com/environment/2026/oct/05/methane-mega-leaks-from-un-climate-summit-host-turkey"
   ],
   [
-    "democratic",
-    24,
-    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
+    "intelligence",
+    23,
+    "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality"
+  ],
+  [
+    "russia",
+    23,
+    "https://www.theguardian.com/world/2026/oct/04/bosnian-serb-nationalist-dodik-declares-party-victory-in-bosnia-election"
   ],
   [
     "campaign",
-    23,
+    22,
     "https://www.washingtonpost.com/immigration/2026/10/04/trump-rallies-his-base-ohio-haitian-migrant-is-laid-rest-nearby/"
   ],
   [
-    "texas",
+    "early",
     22,
-    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
+    "https://www.washingtonpost.com/health/2026/10/04/why-you-should-think-about-getting-your-flu-shot-now/"
   ],
   [
-    "election",
+    "don",
     22,
-    "https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html"
+    "https://www.theguardian.com/environment/2026/oct/05/methane-mega-leaks-from-un-climate-summit-host-turkey"
+  ],
+  [
+    "air",
+    21,
+    "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html"
   ],
   [
     "district",
-    22,
+    21,
     "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats"
   ],
   [
     "party",
-    22,
+    21,
     "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats"
-  ],
-  [
-    "political",
-    21,
-    "https://www.nytimes.com/2026/10/04/world/europe/biljana-plavsic-dead.html"
-  ],
-  [
-    "country",
-    21,
-    "https://www.nytimes.com/2026/10/04/us/amish-vaccines-measles.html"
   ],
   [
     "beauty",
@@ -121,54 +121,24 @@
     "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
   ],
   [
-    "game",
-    21,
-    "https://www.theguardian.com/sport/2026/oct/04/nfl-roundup-football-sunday-scores"
-  ],
-  [
-    "iran",
-    20,
-    "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html"
-  ],
-  [
-    "senate",
-    20,
-    "https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html"
-  ],
-  [
-    "don",
-    20,
-    "https://www.theguardian.com/us-news/2026/oct/04/pennsylvania-health-officials-measles-outbreak"
-  ],
-  [
     "angeles",
-    20,
-    "https://www.theguardian.com/sport/2026/oct/04/nfl-roundup-football-sunday-scores"
-  ],
-  [
-    "poll",
-    20,
-    "https://www.foxnews.com/outkick-sports/week-5-ap-top-25-poll-hodgepodge-sec-big-ten-teams-moving-every-which-direction"
-  ],
-  [
-    "governor",
-    19,
-    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
-  ],
-  [
-    "york",
-    19,
-    "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html"
+    21,
+    "https://www.theguardian.com/world/2026/oct/05/california-woman-arrested-and-accused-of-spying-on-taiwan-presidents-son-for-china"
   ],
   [
     "win",
-    19,
+    20,
     "https://www.nytimes.com/2026/10/03/us/politics/justice-alito-retirement-supreme-court.html"
   ],
   [
-    "early",
+    "police",
+    20,
+    "https://www.theguardian.com/us-news/2026/oct/04/marine-arrested-japan-suspicion-murder"
+  ],
+  [
+    "political",
     19,
-    "https://www.washingtonpost.com/health/2026/10/04/why-you-should-think-about-getting-your-flu-shot-now/"
+    "https://www.theguardian.com/commentisfree/2026/oct/04/donald-trump-western-hemisphere-brazil-elections-lula-bolsonaro"
   ],
   [
     "buying",
@@ -176,9 +146,19 @@
     "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
   ],
   [
-    "air",
+    "los",
+    19,
+    "https://www.theguardian.com/world/2026/oct/05/california-woman-arrested-and-accused-of-spying-on-taiwan-presidents-son-for-china"
+  ],
+  [
+    "iran",
     18,
     "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html"
+  ],
+  [
+    "democratic",
+    18,
+    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
   ],
   [
     "climate",
@@ -186,19 +166,19 @@
     "https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html"
   ],
   [
-    "fewer",
+    "senate",
     18,
-    "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
+    "https://www.nytimes.com/2026/10/03/us/politics/justice-alito-retirement-supreme-court.html"
   ],
   [
-    "book",
+    "election",
     18,
-    "https://www.theguardian.com/film/2026/oct/04/john-cena-interview-matchbox-movie-wwe-peacemaker"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/florida-20th-congressional-district-black-vote"
   ],
   [
-    "los",
+    "county",
     18,
-    "https://www.theguardian.com/sport/2026/oct/04/nfl-roundup-football-sunday-scores"
+    "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas"
   ],
   [
     "proposition",
@@ -206,9 +186,24 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "intelligence",
+    "bombers",
     17,
-    "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html"
+    "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html"
+  ],
+  [
+    "military",
+    17,
+    "https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html"
+  ],
+  [
+    "texas",
+    17,
+    "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
+  ],
+  [
+    "candidates",
+    17,
+    "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html"
   ],
   [
     "because",
@@ -216,9 +211,14 @@
     "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo"
   ],
   [
-    "health",
+    "alleged",
     17,
-    "https://www.theguardian.com/us-news/2026/oct/04/pennsylvania-health-officials-measles-outbreak"
+    "https://www.theguardian.com/us-news/2026/oct/04/cornell-jane-doe-rape-allegations"
+  ],
+  [
+    "base",
+    16,
+    "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html"
   ],
   [
     "following",
@@ -226,19 +226,14 @@
     "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html"
   ],
   [
-    "far",
+    "force",
     16,
-    "https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html"
+    "https://www.washingtonpost.com/nation/2026/10/04/us-military-removes-bombers-uk-base-targeted-suspected-terror-plot/"
   ],
   [
-    "everything",
+    "minutes",
     16,
-    "https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html"
-  ],
-  [
-    "family",
-    16,
-    "https://www.washingtonpost.com/nation/2026/10/04/before-in-laws-arrest-slaying-engineer-park-years-domestic-strife/"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats"
   ],
   [
     "congressional",
@@ -251,9 +246,24 @@
     "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
   ],
   [
-    "shooting",
+    "film",
     16,
-    "https://www.theguardian.com/us-news/2026/oct/04/mass-shootings-georgia-baltimore"
+    "https://www.theguardian.com/film/2026/oct/05/digger-may-lose-150m-after-tom-cruise-film-bombs-at-the-box-office"
+  ],
+  [
+    "seat",
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/04/washington-state-marie-gluesenkamp-perez-democrat-congress"
+  ],
+  [
+    "book",
+    16,
+    "https://www.theguardian.com/film/2026/oct/04/john-cena-interview-matchbox-movie-wwe-peacemaker"
+  ],
+  [
+    "health",
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/04/pennsylvania-health-officials-measles-outbreak"
   ],
   [
     "charter",
@@ -261,84 +271,29 @@
     "https://www.theguardian.com/us-news/2026/oct/04/colorado-climate-high-school-students"
   ],
   [
-    "gop",
-    16,
-    "https://www.latimes.com/california/story/2026-10-03/provocative-sexually-suggestive-ad-by-hilton-campaign-condemned-by-political-allies-on-right"
-  ],
-  [
-    "south",
+    "bolsonaro",
     15,
-    "https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html"
+    "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html"
   ],
   [
-    "questions",
+    "donald",
     15,
-    "https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html"
+    "https://www.washingtonpost.com/immigration/2026/10/04/trump-rallies-his-base-ohio-haitian-migrant-is-laid-rest-nearby/"
   ],
   [
-    "change",
+    "family",
     15,
-    "https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html"
+    "https://www.washingtonpost.com/nation/2026/10/04/before-in-laws-arrest-slaying-engineer-park-years-domestic-strife/"
   ],
   [
-    "near",
-    15,
-    "https://www.nytimes.com/2026/10/03/us/politics/justice-alito-retirement-supreme-court.html"
-  ],
-  [
-    "star",
-    15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats"
-  ],
-  [
-    "weekly",
+    "fewer",
     15,
     "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
   ],
   [
-    "community",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/04/washington-state-marie-gluesenkamp-perez-democrat-congress"
-  ],
-  [
-    "candidates",
-    15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/florida-20th-congressional-district-black-vote"
-  ],
-  [
-    "elections",
-    15,
-    "https://www.theguardian.com/business/2026/oct/04/trump-communism-republicans"
-  ],
-  [
-    "john",
-    15,
-    "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas"
-  ],
-  [
-    "margaret",
-    15,
-    "https://www.cbsnews.com/news/face-the-nation-full-transcript-10-04-2026/"
-  ],
-  [
-    "brennan",
-    15,
-    "https://www.cbsnews.com/news/face-the-nation-full-transcript-10-04-2026/"
-  ],
-  [
-    "attack",
+    "everything",
     14,
-    "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html"
-  ],
-  [
-    "attorney",
-    14,
-    "https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html"
-  ],
-  [
-    "supreme",
-    14,
-    "https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html"
+    "https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html"
   ],
   [
     "faces",
@@ -346,33 +301,78 @@
     "https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html"
   ],
   [
-    "term",
+    "country",
     14,
-    "https://www.nytimes.com/2026/10/03/us/politics/justice-alito-retirement-supreme-court.html"
+    "https://www.nytimes.com/2026/10/04/us/amish-vaccines-measles.html"
   ],
   [
-    "medical",
+    "death",
     14,
-    "https://www.nytimes.com/2026/10/04/us/missing-medical-plane-nantucket-what-to-know.html"
+    "https://www.nytimes.com/2026/10/04/opinion/christa-pike-botched-execution.html"
   ],
   [
-    "secretary",
+    "attack",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "administration",
+    "star",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats"
+  ],
+  [
+    "night",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo"
+  ],
+  [
+    "far",
     14,
     "https://www.theguardian.com/commentisfree/2026/oct/04/donald-trump-western-hemisphere-brazil-elections-lula-bolsonaro"
   ],
   [
-    "seat",
+    "office",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/oct/04/donald-trump-western-hemisphere-brazil-elections-lula-bolsonaro"
+  ],
+  [
+    "human",
+    14,
+    "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality"
+  ],
+  [
+    "weekly",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
+  ],
+  [
+    "london",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot"
+  ],
+  [
+    "community",
     14,
     "https://www.theguardian.com/us-news/2026/oct/04/washington-state-marie-gluesenkamp-perez-democrat-congress"
   ],
   [
-    "county",
+    "black",
     14,
-    "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/florida-20th-congressional-district-black-vote"
+  ],
+  [
+    "money",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/florida-20th-congressional-district-black-vote"
+  ],
+  [
+    "review",
+    14,
+    "https://www.theguardian.com/technology/2026/oct/05/apple-iphone-18-pro-review-battery-life-screen-siri-camera-variable-aperture-ios-27"
+  ],
+  [
+    "shooting",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/04/mass-shootings-georgia-baltimore"
   ]
 ];
