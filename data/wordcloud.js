@@ -2,226 +2,191 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    105,
-    "https://www.nytimes.com/2026/10/06/business/economy/us-trade-deficit.html"
+    91,
+    "https://www.nytimes.com/2026/10/06/us/politics/trump-iran-take-out-los-angeles.html"
   ],
   [
     "guide",
     68,
-    "https://www.theguardian.com/thefilter-us/2026/oct/06/best-october-amazon-big-deals-prime-day"
+    "https://www.nytimes.com/2026/10/06/opinion/ai-propaganda-information-spy.html"
   ],
   [
     "california",
-    57,
+    59,
     "https://www.washingtonpost.com/nation/2026/10/06/what-know-about-el-nios-impacts-california-this-fall-winter/"
   ],
   [
     "race",
-    43,
-    "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html"
+    44,
+    "https://www.theguardian.com/commentisfree/2026/oct/06/ai-sam-altman-billionaire-risks-openai"
   ],
   [
     "president",
-    39,
-    "https://www.washingtonpost.com/obituaries/2026/10/05/dennis-hastert-ex-house-speaker-whose-sex-abuse-admission-upended-legacy-dies-84/"
-  ],
-  [
-    "war",
-    37,
-    "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html"
-  ],
-  [
-    "iran",
-    29,
-    "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html"
-  ],
-  [
-    "republican",
-    29,
-    "https://www.washingtonpost.com/obituaries/2026/10/05/dennis-hastert-ex-house-speaker-whose-sex-abuse-admission-upended-legacy-dies-84/"
-  ],
-  [
-    "los",
-    28,
-    "https://www.theguardian.com/us-news/2026/oct/06/republican-trump-iran-los-angeles-san-diego"
-  ],
-  [
-    "angeles",
-    28,
-    "https://www.theguardian.com/us-news/2026/oct/06/republican-trump-iran-los-angeles-san-diego"
-  ],
-  [
-    "voters",
-    28,
-    "https://www.theguardian.com/us-news/2026/oct/05/donald-trump-approval-ratings"
-  ],
-  [
-    "political",
-    27,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/the-surprising-cut-throat-race-for-los-angeles-mayor"
-  ],
-  [
-    "campaign",
-    26,
-    "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html"
-  ],
-  [
-    "police",
-    26,
-    "https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html"
-  ],
-  [
-    "country",
-    25,
-    "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html"
-  ],
-  [
-    "prime",
-    25,
-    "https://www.theguardian.com/thefilter-us/2026/oct/06/best-october-amazon-big-deals-prime-day"
-  ],
-  [
-    "republicans",
-    25,
-    "https://www.theguardian.com/us-news/2026/oct/06/republican-trump-iran-los-angeles-san-diego"
-  ],
-  [
-    "music",
-    25,
-    "https://www.theguardian.com/film/2026/oct/06/vhsmixtape-review-murderous-puppets-pull-the-strings-in-mixed-bag-of-gory-music-themed-mini-movies"
-  ],
-  [
-    "government",
-    23,
-    "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html"
-  ],
-  [
-    "food",
-    23,
-    "https://www.nytimes.com/2026/10/06/briefing/pet-food.html"
-  ],
-  [
-    "death",
-    23,
-    "https://www.theguardian.com/wellness/ng-interactive/2026/oct/06/how-to-get-comfortable-with-death"
+    38,
+    "https://www.nytimes.com/2026/10/06/us/politics/trump-iran-take-out-los-angeles.html"
   ],
   [
     "review",
-    23,
-    "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review"
+    30,
+    "https://www.washingtonpost.com/education/2026/10/06/obama-era-doj-official-lead-review-cornell-response-rape-allegations/"
   ],
   [
-    "arrested",
-    22,
-    "https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html"
+    "los",
+    29,
+    "https://www.nytimes.com/2026/10/06/us/politics/trump-iran-take-out-los-angeles.html"
   ],
   [
-    "court",
-    22,
-    "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html"
+    "angeles",
+    29,
+    "https://www.nytimes.com/2026/10/06/us/politics/trump-iran-take-out-los-angeles.html"
   ],
   [
     "university",
-    22,
-    "https://www.nytimes.com/2026/10/06/nyregion/sally-yates-trump-attorney-general-cornell-case.html"
-  ],
-  [
-    "elections",
-    22,
-    "https://www.washingtonpost.com/politics/2026/10/05/what-watch-supreme-courts-new-term/"
-  ],
-  [
-    "don",
-    22,
-    "https://www.washingtonpost.com/politics/2026/10/05/what-watch-supreme-courts-new-term/"
-  ],
-  [
-    "midterm",
-    22,
-    "https://www.theguardian.com/us-news/2026/oct/06/trump-corruption-backlash"
-  ],
-  [
-    "party",
-    21,
-    "https://www.theguardian.com/us-news/2026/oct/05/donald-trump-approval-ratings"
-  ],
-  [
-    "water",
-    20,
-    "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb"
-  ],
-  [
-    "midterms",
-    19,
-    "https://www.nytimes.com/2026/10/06/us/politics/alaska-fish-midterms.html"
+    29,
+    "https://www.washingtonpost.com/education/2026/10/06/obama-era-doj-official-lead-review-cornell-response-rape-allegations/"
   ],
   [
     "school",
-    19,
-    "https://www.washingtonpost.com/style/2026/10/05/cornell-university-protests-escalate-with-spray-paint-broken-glass/"
+    28,
+    "https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html"
+  ],
+  [
+    "music",
+    26,
+    "https://www.theguardian.com/music/2026/oct/06/african-music-afrobeats-tyla"
+  ],
+  [
+    "political",
+    25,
+    "https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html"
+  ],
+  [
+    "voters",
+    25,
+    "https://www.theguardian.com/commentisfree/2026/oct/06/jd-vance-ted-cruz-fighting-control-gop-trump-midterms"
+  ],
+  [
+    "government",
+    24,
+    "https://www.nytimes.com/2026/10/06/us/politics/trump-advisers-republika-srpska.html"
+  ],
+  [
+    "country",
+    24,
+    "https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html"
+  ],
+  [
+    "death",
+    22,
+    "https://www.nytimes.com/2026/10/06/us/christa-pike-condition.html"
+  ],
+  [
+    "republican",
+    22,
+    "https://www.washingtonpost.com/obituaries/2026/10/05/dennis-hastert-ex-house-speaker-whose-sex-abuse-admission-upended-legacy-dies-84/"
   ],
   [
     "district",
-    19,
+    22,
     "https://www.theguardian.com/commentisfree/2026/oct/06/trump-cornell-misogyny-sexism"
   ],
   [
-    "far",
-    19,
-    "https://www.theguardian.com/us-news/2026/oct/06/us-israel-far-right-conference"
+    "food",
+    22,
+    "https://www.theguardian.com/thefilter-us/2026/oct/06/best-everyday-essentials-amazon-prime-day-deals"
   ],
   [
-    "senate",
-    18,
-    "https://www.nytimes.com/2026/10/06/us/politics/alaska-fish-midterms.html"
+    "midterm",
+    21,
+    "https://www.nytimes.com/2026/10/06/us/politics/trump-advisers-republika-srpska.html"
   ],
   [
-    "states",
-    18,
-    "https://www.nytimes.com/2026/10/05/business/energy-environment/tandem-solar-panels-us-china.html"
+    "campaign",
+    21,
+    "https://www.nytimes.com/2026/10/06/us/politics/trump-advisers-republika-srpska.html"
   ],
   [
-    "released",
-    18,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "don",
+    21,
+    "https://www.washingtonpost.com/politics/2026/10/05/what-watch-supreme-courts-new-term/"
   ],
   [
-    "democrats",
-    18,
-    "https://www.theguardian.com/us-news/2026/oct/06/us-midterms-trump-republicans-democrats"
+    "department",
+    21,
+    "https://www.theguardian.com/us-news/2026/oct/06/trump-justice-department-denaturalize-citizens-crimes"
+  ],
+  [
+    "court",
+    20,
+    "https://www.washingtonpost.com/politics/2026/10/05/supreme-court-grapples-with-case-holding-big-oil-liable-climate-change/"
+  ],
+  [
+    "star",
+    20,
+    "https://www.theguardian.com/music/2026/oct/06/dolly-parton-nephew-bryan-seaver-lawsuit"
   ],
   [
     "game",
-    18,
+    20,
     "https://www.theguardian.com/us-news/2026/oct/06/trump-protesters-antifa-defendants-union"
   ],
   [
+    "latest",
+    19,
+    "https://www.nytimes.com/2026/10/06/briefing/discontent-grips-france.html"
+  ],
+  [
     "film",
-    17,
+    19,
     "https://www.nytimes.com/2026/10/06/magazine/microdramas-tv-shows-hollywood-entertainment.html"
   ],
   [
-    "book",
-    17,
-    "https://www.washingtonpost.com/education/interactive/2026/10/05/banned-book-or-not-can-you-guess-plot/"
+    "elections",
+    19,
+    "https://www.washingtonpost.com/politics/2026/10/05/what-watch-supreme-courts-new-term/"
   ],
   [
-    "donald",
-    17,
-    "https://www.theguardian.com/us-news/2026/oct/06/trump-corruption-backlash"
+    "war",
+    19,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "media",
-    17,
-    "https://www.theguardian.com/film/2026/oct/06/your-attention-please-documentary"
+    "democrats",
+    19,
+    "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates"
   ],
   [
-    "filter",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/oct/06/best-october-amazon-big-deals-prime-day"
+    "cornell",
+    18,
+    "https://www.washingtonpost.com/education/2026/10/06/obama-era-doj-official-lead-review-cornell-response-rape-allegations/"
   ],
   [
-    "democratic",
+    "republicans",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/06/republican-trump-iran-los-angeles-san-diego"
+  ],
+  [
+    "water",
+    18,
+    "https://www.theguardian.com/music/2026/oct/06/african-music-afrobeats-tyla"
+  ],
+  [
+    "senate",
+    17,
+    "https://www.washingtonpost.com/education/2026/10/06/obama-era-doj-official-lead-review-cornell-response-rape-allegations/"
+  ],
+  [
+    "states",
+    17,
+    "https://www.washingtonpost.com/nation/2026/10/06/kratom-an-opioid-like-drug-linked-deaths-remains-legal-most-states/"
+  ],
+  [
+    "prime",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/oct/06/best-everyday-essentials-amazon-prime-day-deals"
+  ],
+  [
+    "night",
     17,
     "https://www.theguardian.com/us-news/2026/oct/06/republican-trump-iran-los-angeles-san-diego"
   ],
@@ -236,9 +201,9 @@
     "https://www.nytimes.com/2026/10/06/us/politics/reflecting-pool-vandalism-case.html"
   ],
   [
-    "climate",
+    "far",
     16,
-    "https://www.nytimes.com/2026/10/06/us/politics/alaska-fish-midterms.html"
+    "https://www.nytimes.com/2026/10/06/us/politics/cia-officer-gold-bars-guilty-plea.html"
   ],
   [
     "health",
@@ -246,37 +211,42 @@
     "https://www.washingtonpost.com/nation/2026/10/06/medicare-for-all-support-is-rising-kff-poll-finds/"
   ],
   [
-    "office",
+    "released",
     16,
-    "https://www.washingtonpost.com/style/2026/10/05/cornell-university-protests-escalate-with-spray-paint-broken-glass/"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "questions",
+    "media",
     16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates"
   ],
   [
-    "team",
+    "general",
     16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates"
   ],
   [
-    "san",
+    "family",
     16,
-    "https://www.theguardian.com/us-news/2026/oct/06/republican-trump-iran-los-angeles-san-diego"
+    "https://www.theguardian.com/world/2026/oct/06/trauma-of-7-october-israel-survivors-three-years-hamas-after-attacks"
   ],
   [
-    "plague",
+    "super",
     16,
-    "https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who"
+    "https://www.theguardian.com/us-news/2026/oct/06/us-midterms-trump-republicans-democrats"
   ],
   [
-    "series",
+    "police",
     16,
-    "https://www.theguardian.com/us-news/2026/oct/06/norway-princess-martha-louise-husband-durek-verrett-lawsuit-defamation-los-angeles"
+    "https://www.theguardian.com/us-news/2026/oct/06/trump-protesters-antifa-defendants-union"
   ],
   [
-    "money",
+    "social",
+    16,
+    "https://www.theguardian.com/film/2026/oct/06/your-attention-please-documentary"
+  ],
+  [
+    "midterms",
     16,
     "https://www.theguardian.com/commentisfree/2026/oct/06/jd-vance-ted-cruz-fighting-control-gop-trump-midterms"
   ],
@@ -286,93 +256,123 @@
     "https://www.theguardian.com/us-news/2026/oct/04/colorado-climate-high-school-students"
   ],
   [
-    "social",
-    15,
-    "https://www.nytimes.com/2026/10/06/world/europe/france-protests-social-welfare-election.html"
+    "director",
+    16,
+    "https://www.theguardian.com/world/2026/oct/06/former-un-food-agency-official-fao-benjamin-davis-hunger-gaza"
   ],
   [
-    "air",
-    15,
-    "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-us-uk-base-fairford.html"
+    "filter",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
   ],
   [
-    "cornell",
-    15,
-    "https://www.nytimes.com/2026/10/06/nyregion/sally-yates-trump-attorney-general-cornell-case.html"
+    "amendment",
+    16,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "buying",
+    "million",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/oct/06/best-october-amazon-big-deals-prime-day"
+    "https://www.nytimes.com/2026/10/06/briefing/discontent-grips-france.html"
   ],
   [
-    "candidates",
+    "iran",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/06/us-midterms-trump-republicans-democrats"
+    "https://www.nytimes.com/2026/10/06/us/politics/trump-iran-take-out-los-angeles.html"
+  ],
+  [
+    "election",
+    15,
+    "https://www.nytimes.com/2026/10/06/us/politics/trump-advisers-republika-srpska.html"
   ],
   [
     "beauty",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/05/secret-animal-world-beneath-hollywood-sign"
+    "https://www.nytimes.com/2026/10/06/movies/eva-marie-saint-dead.html"
   ],
   [
-    "tax",
+    "speaking",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/05/trump-super-pac-ads"
+    "https://www.washingtonpost.com/nation/2026/10/06/christa-pike-is-conscious-speaking-after-failed-execution-attorneys-say/"
   ],
   [
-    "election",
+    "book",
+    15,
+    "https://www.washingtonpost.com/education/interactive/2026/10/05/banned-book-or-not-can-you-guess-plot/"
+  ],
+  [
+    "term",
+    15,
+    "https://www.washingtonpost.com/politics/2026/10/05/what-watch-supreme-courts-new-term/"
+  ],
+  [
+    "questions",
+    15,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "american",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/06/republican-trump-iran-los-angeles-san-diego"
+  ],
+  [
+    "democratic",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/06/republican-trump-iran-los-angeles-san-diego"
+  ],
+  [
+    "money",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/oct/06/jd-vance-ted-cruz-fighting-control-gop-trump-midterms"
+  ],
+  [
+    "series",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/06/norway-princess-martha-louise-husband-durek-verrett-lawsuit-defamation-los-angeles"
+  ],
+  [
+    "failed",
     14,
-    "https://www.nytimes.com/2026/10/06/world/europe/france-protests-social-welfare-election.html"
+    "https://www.nytimes.com/2026/10/06/us/christa-pike-condition.html"
   ],
   [
-    "change",
+    "france",
     14,
-    "https://www.nytimes.com/2026/10/06/us/politics/alaska-fish-midterms.html"
+    "https://www.nytimes.com/2026/10/06/briefing/discontent-grips-france.html"
   ],
   [
-    "gaza",
+    "congressional",
     14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/10/06/us/politics/trump-advisers-republika-srpska.html"
   ],
   [
-    "cbs",
+    "protests",
     14,
-    "https://www.theguardian.com/business/2026/oct/06/paramount-warner-bros-skydance-merger"
+    "https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html"
   ],
   [
-    "york",
+    "north",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/06/new-york-med-spa-botulism-botox"
+    "https://www.nytimes.com/2026/10/06/movies/eva-marie-saint-dead.html"
   ],
   [
-    "general",
+    "dies",
     14,
-    "https://www.theguardian.com/commentisfree/2026/oct/06/pedro-sanchez-snap-election-spain-economy-green-transition-progressives"
+    "https://www.washingtonpost.com/obituaries/2026/10/06/jim-bakker-disgraced-televangelist-dies-xx/"
   ],
   [
-    "ads",
+    "fall",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/05/trump-super-pac-ads"
+    "https://www.washingtonpost.com/obituaries/2026/10/06/jim-bakker-disgraced-televangelist-dies-xx/"
   ],
   [
-    "fashion",
+    "south",
     14,
-    "https://www.theguardian.com/film/2026/oct/05/karl-review-straightforward-tribute-tells-inside-story-of-fashion-worlds-great-eccentric-karl-lagerfeld"
+    "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video"
   ],
   [
-    "amendment",
+    "party",
     14,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
-  ],
-  [
-    "seat",
-    13,
-    "https://www.nytimes.com/2026/10/06/us/politics/alaska-fish-midterms.html"
-  ],
-  [
-    "future",
-    13,
-    "https://www.nytimes.com/2026/10/06/magazine/microdramas-tv-shows-hollywood-entertainment.html"
+    "https://www.theguardian.com/commentisfree/2026/oct/06/jd-vance-ted-cruz-fighting-control-gop-trump-midterms"
   ]
 ];
