@@ -2,148 +2,133 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    82,
+    90,
     "https://www.nytimes.com/2026/10/05/us/politics/trump-taxpayer-funded-ads-pac.html"
   ],
   [
     "guide",
-    69,
-    "https://www.theguardian.com/thefilter-us/2026/oct/05/backcountry-semi-annual-sale-outdoor-gear"
-  ],
-  [
-    "president",
-    49,
-    "https://www.nytimes.com/2026/10/05/us/politics/trump-taxpayer-funded-ads-pac.html"
+    68,
+    "https://www.theguardian.com/environment/2026/oct/02/northern-bald-ibis-human-led-migration-spain-austria-mirco-aircraft"
   ],
   [
     "california",
-    45,
+    46,
     "https://www.theguardian.com/lifeandstyle/2026/oct/05/denise-brown-sister-nicole-brown-simpson-murder-oj-simpson"
   ],
   [
+    "president",
+    45,
+    "https://www.nytimes.com/2026/10/05/us/politics/trump-taxpayer-funded-ads-pac.html"
+  ],
+  [
     "race",
-    42,
+    43,
     "https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/the-surprising-cut-throat-race-for-los-angeles-mayor"
-  ],
-  [
-    "republican",
-    36,
-    "https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html"
-  ],
-  [
-    "climate",
-    33,
-    "https://www.nytimes.com/2026/10/05/briefing/supreme-court-climate-middle-east-oil.html"
   ],
   [
     "court",
     32,
-    "https://www.nytimes.com/2026/10/05/briefing/supreme-court-climate-middle-east-oil.html"
+    "https://www.washingtonpost.com/politics/2026/10/05/supreme-court-grapples-with-case-holding-big-oil-liable-climate-change/"
   ],
   [
     "campaign",
-    29,
+    30,
     "https://www.nytimes.com/2026/10/05/us/elections/ohio-governor-election.html"
   ],
   [
-    "voters",
-    28,
-    "https://www.theguardian.com/commentisfree/2026/oct/05/jd-vance-trump-midterms"
+    "republican",
+    29,
+    "https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html"
   ],
   [
-    "don",
-    27,
-    "https://www.washingtonpost.com/politics/2026/10/05/what-watch-supreme-courts-new-term/"
-  ],
-  [
-    "case",
-    24,
-    "https://www.nytimes.com/2026/10/05/briefing/supreme-court-climate-middle-east-oil.html"
-  ],
-  [
-    "family",
-    24,
-    "https://www.washingtonpost.com/nation/2026/10/04/before-in-laws-arrest-slaying-engineer-park-years-domestic-strife/"
+    "climate",
+    29,
+    "https://www.washingtonpost.com/politics/2026/10/05/supreme-court-grapples-with-case-holding-big-oil-liable-climate-change/"
   ],
   [
     "war",
-    23,
-    "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html"
+    27,
+    "https://www.washingtonpost.com/nation/2026/10/04/us-military-removes-bombers-uk-base-targeted-suspected-terror-plot/"
   ],
   [
-    "death",
-    23,
-    "https://www.washingtonpost.com/immigration/2026/10/04/trump-rallies-his-base-ohio-haitian-migrant-is-laid-rest-nearby/"
-  ],
-  [
-    "political",
-    23,
+    "voters",
+    26,
     "https://www.theguardian.com/commentisfree/2026/oct/05/jd-vance-trump-midterms"
   ],
   [
     "los",
-    23,
+    26,
     "https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/the-surprising-cut-throat-race-for-los-angeles-mayor"
   ],
   [
     "angeles",
-    23,
+    26,
     "https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/the-surprising-cut-throat-race-for-los-angeles-mayor"
+  ],
+  [
+    "political",
+    24,
+    "https://www.theguardian.com/commentisfree/2026/oct/05/jd-vance-trump-midterms"
+  ],
+  [
+    "don",
+    23,
+    "https://www.washingtonpost.com/politics/2026/10/05/what-watch-supreme-courts-new-term/"
+  ],
+  [
+    "game",
+    23,
+    "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory"
   ],
   [
     "died",
     23,
-    "https://www.theguardian.com/us-news/2026/oct/05/pennsylvania-measles-outbreak-hospitalizations-deaths"
+    "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk"
   ],
   [
-    "american",
+    "family",
     22,
-    "https://www.nytimes.com/2026/10/05/opinion/aipac-israel-lobby-netanyahu-gaza.html"
-  ],
-  [
-    "school",
-    22,
-    "https://www.washingtonpost.com/style/2026/10/05/cornell-university-protests-escalate-with-spray-paint-broken-glass/"
-  ],
-  [
-    "change",
-    21,
-    "https://www.nytimes.com/2026/10/05/movies/alejandro-g-inarritu-digger-movie.html"
-  ],
-  [
-    "game",
-    21,
-    "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory"
-  ],
-  [
-    "russia",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/oct/05/putin-escalating-bombing-campaign-ukrainian-resolve-russia-invasion"
+    "https://www.washingtonpost.com/nation/2026/10/04/before-in-laws-arrest-slaying-engineer-park-years-domestic-strife/"
   ],
   [
     "democrats",
+    22,
+    "https://www.theguardian.com/us-news/2026/oct/05/trump-super-pac-ads"
+  ],
+  [
+    "death",
     21,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals"
+    "https://www.nytimes.com/2026/10/05/opinion/medical-assistance-in-dying-counseling.html"
   ],
   [
-    "supreme",
+    "senate",
     20,
-    "https://www.nytimes.com/2026/10/05/briefing/supreme-court-climate-middle-east-oil.html"
+    "https://www.nytimes.com/2026/10/06/nyregion/cornell-faculty-no-confidence.html"
   ],
   [
-    "texas",
+    "case",
     20,
-    "https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html"
+    "https://www.nytimes.com/2026/10/05/nyregion/cornell-rape-case-protests-vandalism.html"
   ],
   [
-    "food",
+    "york",
     20,
-    "https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html"
+    "https://www.nytimes.com/2026/09/29/nyregion/cornell-university-rape-investigation-chi-phi-fraternity.html"
   ],
   [
-    "politics",
+    "tax",
     20,
-    "https://www.nytimes.com/2026/10/05/opinion/aipac-israel-lobby-netanyahu-gaza.html"
+    "https://www.nytimes.com/2026/10/05/business/trump-dyed-diesel-fuel-executive-order.html"
+  ],
+  [
+    "win",
+    20,
+    "https://www.nytimes.com/2026/10/05/world/americas/brazil-election-bolsonaro-trump.html"
+  ],
+  [
+    "change",
+    20,
+    "https://www.washingtonpost.com/politics/2026/10/05/supreme-court-grapples-with-case-holding-big-oil-liable-climate-change/"
   ],
   [
     "book",
@@ -151,39 +136,49 @@
     "https://www.washingtonpost.com/education/interactive/2026/10/05/banned-book-or-not-can-you-guess-plot/"
   ],
   [
-    "university",
-    19,
-    "https://www.nytimes.com/2026/10/05/nyregion/cornell-university-jane-doe-ketamine.html"
-  ],
-  [
-    "students",
-    19,
-    "https://www.nytimes.com/2026/10/05/nyregion/cornell-rape-case-protests-vandalism.html"
-  ],
-  [
-    "york",
-    18,
-    "https://www.nytimes.com/2026/09/29/nyregion/cornell-university-rape-investigation-chi-phi-fraternity.html"
-  ],
-  [
-    "oil",
-    18,
-    "https://www.nytimes.com/2026/10/01/movies/digger-review-tom-cruise-alejandro-inarritu.html"
+    "food",
+    20,
+    "https://www.theguardian.com/environment/2026/oct/05/methane-mega-leaks-from-un-climate-summit-host-turkey"
   ],
   [
     "air",
-    18,
-    "https://www.washingtonpost.com/nation/2026/10/04/us-military-removes-bombers-uk-base-targeted-suspected-terror-plot/"
+    19,
+    "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html"
   ],
   [
-    "team",
-    18,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "ads",
+    19,
+    "https://www.nytimes.com/2026/10/05/us/elections/ohio-governor-election.html"
   ],
   [
-    "filter",
+    "supreme",
+    19,
+    "https://www.washingtonpost.com/politics/2026/10/05/supreme-court-grapples-with-case-holding-big-oil-liable-climate-change/"
+  ],
+  [
+    "american",
+    19,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/the-surprising-cut-throat-race-for-los-angeles-mayor"
+  ],
+  [
+    "republicans",
+    19,
+    "https://www.theguardian.com/us-news/2026/oct/05/trump-super-pac-ads"
+  ],
+  [
+    "iran",
     18,
-    "https://www.theguardian.com/thefilter-us/2026/oct/05/backcountry-semi-annual-sale-outdoor-gear"
+    "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html"
+  ],
+  [
+    "fashion",
+    18,
+    "https://www.theguardian.com/artanddesign/2026/oct/06/fashion-photographer-tim-walker-tapestry-queer-british-life"
+  ],
+  [
+    "film",
+    18,
+    "https://www.theguardian.com/film/2026/oct/05/club-kid-review-jordan-firstmans-movie-review"
   ],
   [
     "proposition",
@@ -191,9 +186,24 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "cornell",
+    "election",
     17,
-    "https://www.nytimes.com/2026/10/05/nyregion/cornell-university-jane-doe-ketamine.html"
+    "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html"
+  ],
+  [
+    "school",
+    17,
+    "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html"
+  ],
+  [
+    "dies",
+    17,
+    "https://www.nytimes.com/2026/10/05/us/jim-bakker-dead.html"
+  ],
+  [
+    "money",
+    17,
+    "https://www.nytimes.com/2026/10/05/us/politics/trump-taxpayer-funded-ads-pac.html"
   ],
   [
     "party",
@@ -201,49 +211,49 @@
     "https://www.nytimes.com/2026/10/05/nyregion/cornell-university-jane-doe-ketamine.html"
   ],
   [
-    "senate",
+    "university",
     17,
-    "https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html"
+    "https://www.nytimes.com/2026/10/05/nyregion/cornell-university-jane-doe-ketamine.html"
   ],
   [
-    "states",
+    "democratic",
     17,
-    "https://www.nytimes.com/2026/10/05/climate/climate-lawsuits-courts-boulder-oil.html"
+    "https://www.nytimes.com/2026/10/06/world/europe/fifa-infantino-congo-nigeria-eligibility.html"
+  ],
+  [
+    "politics",
+    17,
+    "https://www.nytimes.com/2026/10/05/opinion/brazil-elections-bolsonaro-lula.html"
+  ],
+  [
+    "team",
+    17,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "russia",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/oct/05/putin-escalating-bombing-campaign-ukrainian-resolve-russia-invasion"
+  ],
+  [
+    "filter",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/makeup-cosmetic-storage"
+  ],
+  [
+    "wife",
+    16,
+    "https://www.nytimes.com/2026/10/05/us/jim-bakker-dead.html"
+  ],
+  [
+    "red",
+    16,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
     "county",
-    17,
+    16,
     "https://www.theguardian.com/lifeandstyle/2026/oct/05/denise-brown-sister-nicole-brown-simpson-murder-oj-simpson"
-  ],
-  [
-    "film",
-    17,
-    "https://www.theguardian.com/film/2026/oct/05/club-kid-review-jordan-firstmans-movie-review"
-  ],
-  [
-    "fashion",
-    17,
-    "https://www.theguardian.com/film/2026/oct/05/karl-review-straightforward-tribute-tells-inside-story-of-fashion-worlds-great-eccentric-karl-lagerfeld"
-  ],
-  [
-    "republicans",
-    17,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-state-superintendent-public-instruction-shaw-barrera-voter-guide"
-  ],
-  [
-    "money",
-    16,
-    "https://www.nytimes.com/2026/10/05/us/politics/trump-taxpayer-funded-ads-pac.html"
-  ],
-  [
-    "review",
-    16,
-    "https://www.nytimes.com/2026/10/01/movies/digger-review-tom-cruise-alejandro-inarritu.html"
-  ],
-  [
-    "early",
-    16,
-    "https://www.washingtonpost.com/health/2026/10/04/why-you-should-think-about-getting-your-flu-shot-now/"
   ],
   [
     "killed",
@@ -256,9 +266,9 @@
     "https://www.theguardian.com/us-news/2026/oct/05/secret-animal-world-beneath-hollywood-sign"
   ],
   [
-    "plague",
+    "review",
     16,
-    "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk"
+    "https://www.theguardian.com/film/2026/oct/05/club-kid-review-jordan-firstmans-movie-review"
   ],
   [
     "charter",
@@ -271,59 +281,79 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide"
   ],
   [
-    "candidates",
+    "country",
     15,
     "https://www.nytimes.com/2026/10/05/us/elections/ohio-governor-election.html"
   ],
   [
-    "tax",
+    "cornell",
     15,
-    "https://www.nytimes.com/2026/10/05/business/trump-dyed-diesel-fuel-executive-order.html"
+    "https://www.nytimes.com/2026/10/05/nyregion/cornell-university-jane-doe-ketamine.html"
   ],
   [
-    "running",
+    "texas",
     15,
-    "https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html"
+    "https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html"
   ],
   [
-    "elections",
+    "cases",
+    15,
+    "https://www.nytimes.com/2026/10/05/nyregion/measles-emergency-new-york-state-hochul.html"
+  ],
+  [
+    "oil",
+    15,
+    "https://www.washingtonpost.com/politics/2026/10/05/supreme-court-grapples-with-case-holding-big-oil-liable-climate-change/"
+  ],
+  [
+    "term",
     15,
     "https://www.washingtonpost.com/politics/2026/10/05/what-watch-supreme-courts-new-term/"
   ],
   [
-    "secretary",
+    "series",
     15,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/global-development/2026/oct/06/fashion-art-photography-history-african-women-mababu-slavery-pamela-tulizo-dr-congo"
   ],
   [
-    "wife",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/05/ohio-pastor-caleb-flynn-sentenced-wife-murder"
-  ],
-  [
-    "buying",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/oct/05/backcountry-semi-annual-sale-outdoor-gear"
-  ],
-  [
-    "iran",
+    "social",
     14,
-    "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html"
+    "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html"
   ],
   [
-    "democratic",
+    "candidates",
     14,
-    "https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html"
+    "https://www.nytimes.com/2026/10/05/us/elections/ohio-governor-election.html"
   ],
   [
-    "growing",
+    "office",
     14,
-    "https://www.washingtonpost.com/health/2026/10/05/what-science-memory-tells-us-about-sexual-assault-cases/"
+    "https://www.washingtonpost.com/style/2026/10/05/cornell-university-protests-escalate-with-spray-paint-broken-glass/"
   ],
   [
-    "prime",
+    "early",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/oct/05/backcountry-semi-annual-sale-outdoor-gear"
+    "https://www.washingtonpost.com/health/2026/10/04/why-you-should-think-about-getting-your-flu-shot-now/"
+  ],
+  [
+    "international",
+    14,
+    "https://www.theguardian.com/society/2026/oct/06/cancer-rates-rising-more-quickly-among-younger-people-international-study-finds"
+  ],
+  [
+    "running",
+    14,
+    "https://www.theguardian.com/film/2026/oct/05/club-kid-review-jordan-firstmans-movie-review"
+  ],
+  [
+    "cbs",
+    14,
+    "https://www.theguardian.com/sport/2026/oct/05/kansas-city-chiefs-las-vegas-raiders-nfl-football"
+  ],
+  [
+    "companies",
+    14,
+    "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks"
   ],
   [
     "seat",
@@ -336,43 +366,13 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "country",
+    "led",
     13,
-    "https://www.nytimes.com/2026/10/05/us/elections/ohio-governor-election.html"
+    "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html"
   ],
   [
-    "rape",
+    "because",
     13,
-    "https://www.nytimes.com/2026/09/29/nyregion/cornell-university-rape-investigation-chi-phi-fraternity.html"
-  ],
-  [
-    "election",
-    13,
-    "https://www.nytimes.com/2026/10/05/world/americas/brazil-election-bolsonaro-trump.html"
-  ],
-  [
-    "office",
-    13,
-    "https://www.washingtonpost.com/style/2026/10/05/cornell-university-protests-escalate-with-spray-paint-broken-glass/"
-  ],
-  [
-    "ice",
-    13,
-    "https://www.washingtonpost.com/immigration/2026/10/04/trump-rallies-his-base-ohio-haitian-migrant-is-laid-rest-nearby/"
-  ],
-  [
-    "control",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/oct/05/trump-us-economy-comments"
-  ],
-  [
-    "idol",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/05/ohio-pastor-caleb-flynn-sentenced-wife-murder"
-  ],
-  [
-    "really",
-    13,
-    "https://www.theguardian.com/film/2026/oct/05/digger-tom-cruise-movie-box-office-critics-reviews-misunderstood-masterpiece"
+    "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html"
   ]
 ];
