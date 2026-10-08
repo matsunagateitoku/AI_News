@@ -2,143 +2,158 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    109,
-    "https://www.nytimes.com/2026/10/07/us/politics/trump-iran-retreat.html"
+    95,
+    "https://www.nytimes.com/2026/10/08/world/europe/trump-russia-oil-deal-lukoil-middle-east-investors.html"
   ],
   [
     "guide",
-    67,
-    "https://www.theguardian.com/thefilter-us/2026/oct/07/prettygarden-cardigan-amazon-prime-day-sale"
+    69,
+    "https://www.theguardian.com/us-news/2026/oct/08/missouri-voters-confusion-trump-backed-maps-midterms"
   ],
   [
     "california",
-    57,
-    "https://www.nytimes.com/2026/10/07/us/newsom-death-row-prisoners-california.html"
+    54,
+    "https://www.washingtonpost.com/nation/2026/10/06/parents-21-children-charged-with-abuse-house-horrors-surrogacy-scheme/"
   ],
   [
     "president",
-    45,
-    "https://www.nytimes.com/2026/10/07/us/elections/in-texas-trump-and-paxton-make-for-an-awkward-pair.html"
+    49,
+    "https://www.nytimes.com/2026/10/08/us/maine-senate-collins-jackson-oil.html"
   ],
   [
     "race",
-    39,
-    "https://www.theguardian.com/commentisfree/2026/oct/07/the-guardian-view-on-the-us-midterms-the-cost-of-living-is-on-the-ballot-but-this-is-about-democracy-too"
+    40,
+    "https://www.nytimes.com/2026/10/08/us/maine-senate-collins-jackson-oil.html"
   ],
   [
-    "senate",
-    30,
-    "https://www.nytimes.com/2026/10/07/us/politics/patty-murray-public-health.html"
-  ],
-  [
-    "san",
-    30,
-    "https://www.theguardian.com/us-news/2026/oct/07/california-el-nino-preparedness"
-  ],
-  [
-    "los",
-    30,
-    "https://www.theguardian.com/us-news/2026/oct/07/patricia-krenwinkel-manson-follower-parole"
-  ],
-  [
-    "angeles",
-    30,
-    "https://www.theguardian.com/us-news/2026/oct/07/patricia-krenwinkel-manson-follower-parole"
+    "voters",
+    32,
+    "https://www.nytimes.com/2026/10/08/us/elections/trump-voter-enthusiasm-midterms.html"
   ],
   [
     "don",
-    30,
-    "https://www.theguardian.com/environment/2026/oct/07/nature-library-colorado-us-wilderness-stargazing-camping-outdoors-aoe"
-  ],
-  [
-    "campaign",
-    29,
-    "https://www.nytimes.com/2026/10/07/us/bernadetta-green-placentia-campaign-sign-rape.html"
-  ],
-  [
-    "death",
-    28,
-    "https://www.nytimes.com/2026/10/07/us/politics/execution-fort-hood-shooting.html"
-  ],
-  [
-    "texas",
-    27,
-    "https://www.nytimes.com/2026/10/07/us/texas-execution-lethal-injection.html"
-  ],
-  [
-    "attack",
-    27,
-    "https://www.nytimes.com/2026/10/07/us/bernadetta-green-placentia-campaign-sign-rape.html"
-  ],
-  [
-    "health",
-    26,
-    "https://www.nytimes.com/2026/10/07/us/politics/kennedy-vaccine-injuries.html"
-  ],
-  [
-    "prime",
-    25,
-    "https://www.theguardian.com/thefilter-us/2026/oct/07/prettygarden-cardigan-amazon-prime-day-sale"
-  ],
-  [
-    "iran",
-    24,
-    "https://www.nytimes.com/2026/10/07/us/politics/trump-iran-retreat.html"
-  ],
-  [
-    "tax",
-    24,
-    "https://www.theguardian.com/us-news/2026/oct/07/washington-state-millionaire-tax"
+    32,
+    "https://www.washingtonpost.com/religion/2026/10/08/anti-sharia-law-bills-punditry-are-spiking-us-post-analysis-found/"
   ],
   [
     "film",
-    24,
-    "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison"
+    29,
+    "https://www.theguardian.com/film/2026/oct/08/sofia-coppola-director-lost-in-translation-interview"
   ],
   [
-    "republican",
-    23,
-    "https://www.nytimes.com/2026/10/07/us/elections/in-texas-trump-and-paxton-make-for-an-awkward-pair.html"
+    "prime",
+    27,
+    "https://www.theguardian.com/world/2026/oct/08/pedro-sanchez-spanish-voters-housing-crisis-analysis"
   ],
   [
-    "war",
-    22,
-    "https://www.nytimes.com/2026/10/07/us/politics/trump-iran-retreat.html"
+    "los",
+    26,
+    "https://www.theguardian.com/science/2026/oct/08/astronauts-return-iss-nasa-spacex"
   ],
   [
     "food",
+    26,
+    "https://www.theguardian.com/commentisfree/2026/oct/08/the-guardian-view-on-cancers-in-under-50s-the-risks-of-obesity-must-be-confronted"
+  ],
+  [
+    "republican",
+    25,
+    "https://www.nytimes.com/2026/10/08/us/elections/trump-voter-enthusiasm-midterms.html"
+  ],
+  [
+    "campaign",
+    25,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "war",
+    24,
+    "https://www.nytimes.com/2026/10/08/us/maine-senate-collins-jackson-oil.html"
+  ],
+  [
+    "family",
+    24,
+    "https://www.washingtonpost.com/immigration/2026/10/08/lawsuit-accuses-ice-executing-immigrant-silverio-villegas-gonzalez-near-chicago/"
+  ],
+  [
+    "senate",
+    23,
+    "https://www.nytimes.com/2026/10/08/us/maine-senate-collins-jackson-oil.html"
+  ],
+  [
+    "social",
+    23,
+    "https://www.washingtonpost.com/nation/2026/10/08/lawyers-accused-man-cornell-case-want-letitia-james-removed-prosecutor/"
+  ],
+  [
+    "angeles",
+    23,
+    "https://www.theguardian.com/science/2026/oct/08/astronauts-return-iss-nasa-spacex"
+  ],
+  [
+    "iran",
     22,
-    "https://www.theguardian.com/environment/2026/oct/08/world-must-change-food-avoid-biodiversity-collapse-wwf"
+    "https://www.nytimes.com/2026/10/08/us/maine-senate-collins-jackson-oil.html"
+  ],
+  [
+    "accused",
+    22,
+    "https://www.nytimes.com/2026/10/08/us/politics/microsoft-visas-green-cards.html"
+  ],
+  [
+    "political",
+    22,
+    "https://www.nytimes.com/2026/10/08/us/politics/supreme-court-trump-ad-rates.html"
+  ],
+  [
+    "health",
+    22,
+    "https://www.nytimes.com/2026/10/08/science/truage-biological-age-test-genetics-sisters.html"
+  ],
+  [
+    "deals",
+    22,
+    "https://www.theguardian.com/thefilter-us/2026/oct/07/prettygarden-cardigan-amazon-prime-day-sale"
   ],
   [
     "democratic",
-    21,
-    "https://www.nytimes.com/2026/10/07/us/politics/iowa-senate-debate-ashley-hinson-josh-turek.html"
-  ],
-  [
-    "pike",
     20,
-    "https://www.nytimes.com/2026/10/07/us/christa-pike-tennessee-legal.html"
+    "https://www.nytimes.com/2026/10/08/us/elections/trump-voter-enthusiasm-midterms.html"
   ],
   [
-    "execution",
+    "judge",
     20,
-    "https://www.nytimes.com/2026/10/07/us/christa-pike-tennessee-legal.html"
+    "https://www.nytimes.com/2026/10/08/business/media/cnn-msnow-politico-media-ban-trump.html"
   ],
   [
-    "russia",
+    "court",
     20,
-    "https://www.nytimes.com/2026/10/07/science/plague-russia-biosafety.html"
+    "https://www.nytimes.com/2026/10/08/us/politics/supreme-court-trump-ad-rates.html"
   ],
   [
-    "democrats",
+    "elections",
     20,
-    "https://www.theguardian.com/commentisfree/2026/oct/07/the-guardian-view-on-the-us-midterms-the-cost-of-living-is-on-the-ballot-but-this-is-about-democracy-too"
+    "https://www.theguardian.com/us-news/2026/oct/08/sherrod-brown-ohio-senate"
   ],
   [
-    "america",
+    "republicans",
+    20,
+    "https://www.theguardian.com/us-news/2026/oct/08/california-prop-39-voter-id-law-billionaires"
+  ],
+  [
+    "attack",
     19,
-    "https://www.nytimes.com/2026/10/08/opinion/surveillance-autocrats-uganda.html"
+    "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html"
+  ],
+  [
+    "death",
+    19,
+    "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html"
+  ],
+  [
+    "past",
+    19,
+    "https://www.washingtonpost.com/religion/2026/10/08/anti-sharia-law-bills-punditry-are-spiking-us-post-analysis-found/"
   ],
   [
     "review",
@@ -146,159 +161,129 @@
     "https://www.washingtonpost.com/education/2026/10/06/obama-era-doj-official-lead-review-cornell-response-rape-allegations/"
   ],
   [
-    "family",
-    19,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/08/dreadful-decline-hosting-home-shame-friendship"
-  ],
-  [
-    "voters",
-    19,
-    "https://www.theguardian.com/us-news/2026/oct/08/donald-trumps-texas-rally-rocked-by-repeated-protests"
-  ],
-  [
-    "republicans",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/oct/07/the-guardian-view-on-the-us-midterms-the-cost-of-living-is-on-the-ballot-but-this-is-about-democracy-too"
-  ],
-  [
-    "rally",
-    18,
-    "https://www.nytimes.com/2026/10/08/world/europe/france-protests-unrest-students.html"
-  ],
-  [
-    "everything",
-    17,
-    "https://www.washingtonpost.com/politics/2026/10/07/judge-orders-tennessee-preserve-evidence-failed-execution-christa-pike/"
-  ],
-  [
-    "board",
-    17,
-    "https://www.theguardian.com/us-news/2026/oct/07/patricia-krenwinkel-manson-follower-parole"
-  ],
-  [
-    "deals",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/oct/07/prettygarden-cardigan-amazon-prime-day-sale"
-  ],
-  [
     "proposition",
-    17,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
-  ],
-  [
-    "oct",
-    16,
-    "https://www.nytimes.com/2026/10/08/nyregion/mamdani-oct-7-anniversary-nyc-israel.html"
-  ],
-  [
-    "political",
-    16,
-    "https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html"
-  ],
-  [
-    "military",
-    16,
-    "https://www.nytimes.com/2026/10/07/us/politics/execution-fort-hood-shooting.html"
-  ],
-  [
-    "congressional",
-    16,
-    "https://www.nytimes.com/2026/10/07/us/bernadetta-green-placentia-campaign-sign-rape.html"
-  ],
-  [
-    "whose",
-    16,
-    "https://www.nytimes.com/2026/10/07/obituaries/margaret-hamilton-dead.html"
-  ],
-  [
-    "died",
-    16,
-    "https://www.nytimes.com/2026/10/07/obituaries/margaret-hamilton-dead.html"
-  ],
-  [
-    "coast",
-    16,
-    "https://www.washingtonpost.com/nation/2026/10/06/what-know-about-el-nios-impacts-california-this-fall-winter/"
-  ],
-  [
-    "team",
-    16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "donald",
-    16,
-    "https://www.theguardian.com/us-news/2026/oct/08/donald-trumps-texas-rally-rocked-by-repeated-protests"
-  ],
-  [
-    "filter",
-    16,
-    "https://www.theguardian.com/thefilter-us/2026/oct/07/prettygarden-cardigan-amazon-prime-day-sale"
+    19,
+    "https://www.theguardian.com/us-news/2026/oct/08/california-prop-39-voter-id-law-billionaires"
   ],
   [
     "district",
-    16,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide"
+    19,
+    "https://www.theguardian.com/us-news/2026/oct/08/missouri-voters-confusion-trump-backed-maps-midterms"
+  ],
+  [
+    "music",
+    19,
+    "https://www.theguardian.com/culture/ng-interactive/2026/oct/08/black-banjo-players-americana"
   ],
   [
     "government",
-    15,
-    "https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html"
-  ],
-  [
-    "christa",
-    15,
-    "https://www.nytimes.com/2026/10/07/us/christa-pike-tennessee-legal.html"
-  ],
-  [
-    "tennessee",
-    15,
-    "https://www.nytimes.com/2026/10/07/us/christa-pike-tennessee-legal.html"
-  ],
-  [
-    "debate",
-    15,
-    "https://www.nytimes.com/2026/10/07/us/politics/iowa-senate-debate-ashley-hinson-josh-turek.html"
+    18,
+    "https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html"
   ],
   [
     "hurricane",
-    15,
+    18,
     "https://www.washingtonpost.com/weather/2026/10/07/tropical-storm-isaias-tracker-map-projected-storm-path/"
   ],
   [
-    "season",
-    15,
-    "https://www.washingtonpost.com/weather/2026/10/07/tropical-storm-isaias-tracker-map-projected-storm-path/"
+    "ice",
+    18,
+    "https://www.washingtonpost.com/immigration/2026/10/08/lawsuit-accuses-ice-executing-immigrant-silverio-villegas-gonzalez-near-chicago/"
   ],
   [
-    "because",
-    15,
-    "https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z"
+    "everything",
+    18,
+    "https://www.washingtonpost.com/politics/2026/10/07/judge-orders-tennessee-preserve-evidence-failed-execution-christa-pike/"
   ],
   [
-    "night",
-    15,
-    "https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z"
-  ],
-  [
-    "diego",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/06/trump-iran-threat-san-diego-los-angeles-reaction"
-  ],
-  [
-    "amendment",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/06/trump-fbi-ice-la-protesters"
+    "fashion",
+    18,
+    "https://www.theguardian.com/fashion/2026/oct/08/underwire-bra-fashion"
   ],
   [
     "black",
-    15,
-    "https://www.theguardian.com/education/2026/oct/07/black-parents-school-dilemma"
+    18,
+    "https://www.theguardian.com/fashion/2026/oct/08/underwire-bra-fashion"
   ],
   [
-    "series",
+    "filter",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/oct/08/im-a-personal-trainer-this-compact-dumbbell-set-is-the-best-addition-to-my-home-gym"
+  ],
+  [
+    "democrats",
+    18,
+    "https://www.theguardian.com/us-news/video/2026/oct/08/georgia-midterm-elections-democrats-stateside-podcast"
+  ],
+  [
+    "night",
+    17,
+    "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html"
+  ],
+  [
+    "midterms",
+    17,
+    "https://www.nytimes.com/2026/10/08/us/elections/trump-voter-enthusiasm-midterms.html"
+  ],
+  [
+    "questions",
+    17,
+    "https://www.washingtonpost.com/nation/interactive/2026/10/08/hispanic-heritage-month-quiz-test-your-knowledge-hispanic-latino-culture/"
+  ],
+  [
+    "team",
+    17,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "san",
+    17,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/08/san-francisco-housing-ai-boom"
+  ],
+  [
+    "media",
+    16,
+    "https://www.washingtonpost.com/nation/2026/10/08/lawyers-accused-man-cornell-case-want-letitia-james-removed-prosecutor/"
+  ],
+  [
+    "police",
+    16,
+    "https://www.washingtonpost.com/immigration/2026/10/06/emails-show-how-ice-trimmed-training-deputized-officers/"
+  ],
+  [
+    "midterm",
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/08/sherrod-brown-ohio-senate"
+  ],
+  [
+    "tax",
+    16,
+    "https://www.theguardian.com/film/2026/oct/07/the-uprising-review-paul-greengrass-andrew-garfield-peasants-revolt"
+  ],
+  [
+    "russian",
     15,
-    "https://www.theguardian.com/sport/2026/oct/07/mlb-playoffs-2026-division-series-results-scores-highlights"
+    "https://www.nytimes.com/2026/10/08/world/europe/trump-russia-oil-deal-lukoil-middle-east-investors.html"
+  ],
+  [
+    "early",
+    15,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "released",
+    15,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "office",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/08/sherrod-brown-ohio-senate"
+  ],
+  [
+    "york",
+    15,
+    "https://www.theguardian.com/artanddesign/2026/oct/08/anti-rape-art-history-cornell-mattress-performance"
   ],
   [
     "charter",
@@ -306,73 +291,88 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "american",
+    "least",
     14,
-    "https://www.nytimes.com/2026/10/07/us/politics/trump-iran-retreat.html"
+    "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html"
   ],
   [
-    "paxton",
+    "administration",
     14,
-    "https://www.nytimes.com/2026/10/07/us/elections/in-texas-trump-and-paxton-make-for-an-awkward-pair.html"
+    "https://www.nytimes.com/2026/10/08/us/politics/microsoft-visas-green-cards.html"
   ],
   [
-    "college",
+    "again",
     14,
-    "https://www.nytimes.com/2026/10/07/us/leon-botstein-bard-college-resign-epstein.html"
+    "https://www.nytimes.com/2026/10/08/us/politics/supreme-court-trump-ad-rates.html"
   ],
   [
-    "early",
+    "isaias",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.washingtonpost.com/weather/2026/10/07/tropical-storm-isaias-tracker-map-projected-storm-path/"
   ],
   [
-    "county",
+    "whose",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/07/california-el-nino-preparedness"
+    "https://www.washingtonpost.com/immigration/2026/10/08/lawsuit-accuses-ice-executing-immigrant-silverio-villegas-gonzalez-near-chicago/"
   ],
   [
-    "nearly",
+    "children",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/07/patricia-krenwinkel-manson-follower-parole"
+    "https://www.washingtonpost.com/immigration/2026/10/08/lawsuit-accuses-ice-executing-immigrant-silverio-villegas-gonzalez-near-chicago/"
   ],
   [
-    "fashion",
+    "cornell",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/oct/07/prettygarden-cardigan-amazon-prime-day-sale"
+    "https://www.washingtonpost.com/nation/2026/10/08/lawyers-accused-man-cornell-case-want-letitia-james-removed-prosecutor/"
   ],
   [
-    "buying",
+    "university",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/oct/07/prettygarden-cardigan-amazon-prime-day-sale"
+    "https://www.washingtonpost.com/education/2026/10/08/cold-dorms-lost-millions-hbcu-alumni-sue-missouri-over-funding-inequities/"
   ],
   [
-    "amazon",
+    "led",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/oct/07/prettygarden-cardigan-amazon-prime-day-sale"
+    "https://www.washingtonpost.com/education/2026/10/08/cold-dorms-lost-millions-hbcu-alumni-sue-missouri-over-funding-inequities/"
   ],
   [
-    "york",
+    "allegations",
     14,
-    "https://www.theguardian.com/sport/2026/oct/07/mlb-playoffs-2026-division-series-results-scores-highlights"
+    "https://www.washingtonpost.com/education/2026/10/06/obama-era-doj-official-lead-review-cornell-response-rape-allegations/"
   ],
   [
-    "game",
+    "already",
     14,
-    "https://www.theguardian.com/sport/2026/oct/07/mlb-playoffs-2026-division-series-results-scores-highlights"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "music",
+    "young",
     14,
-    "https://www.theguardian.com/artanddesign/2026/oct/07/whippersnappers-children-photographers-annebella-pollen-snap-happy-exhibition-photgraphers-gallery"
+    "https://www.theguardian.com/film/2026/oct/08/sofia-coppola-director-lost-in-translation-interview"
   ],
   [
-    "failed",
-    13,
-    "https://www.nytimes.com/2026/10/07/us/christa-pike-tennessee-legal.html"
+    "beauty",
+    14,
+    "https://www.theguardian.com/film/2026/oct/08/sofia-coppola-director-lost-in-translation-interview"
   ],
   [
-    "storm",
-    13,
-    "https://www.nytimes.com/2026/10/07/us/christa-pike-tennessee-legal.html"
+    "election",
+    14,
+    "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news"
+  ],
+  [
+    "space",
+    14,
+    "https://www.theguardian.com/science/2026/oct/08/astronauts-return-iss-nasa-spacex"
+  ],
+  [
+    "congressional",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/08/missouri-voters-confusion-trump-backed-maps-midterms"
+  ],
+  [
+    "movie",
+    14,
+    "https://www.theguardian.com/media/2026/oct/08/arturo-bejar-interview-whistleblower-facebook-meta-mark-zuckerberg"
   ]
 ];
