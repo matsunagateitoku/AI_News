@@ -2,7 +2,7 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    84,
+    93,
     "https://www.nytimes.com/2026/10/09/us/politics/trump-firing-squad-spectacle.html"
   ],
   [
@@ -12,28 +12,58 @@
   ],
   [
     "california",
-    53,
+    51,
     "https://www.theguardian.com/commentisfree/2026/oct/09/jewish-vote-israel"
   ],
   [
     "race",
-    44,
-    "https://www.nytimes.com/2026/10/09/us/politics/kansas-senate-race-adam-hamilton-roger-marshall.html"
+    42,
+    "https://www.theguardian.com/us-news/2026/oct/09/democratic-senate-candidate-reponse-anti-trans-attacks"
   ],
   [
     "execution",
     41,
-    "https://www.nytimes.com/2026/10/09/us/politics/democrats-republicans-hegseth-execution.html"
+    "https://www.nytimes.com/2026/10/09/us/politics/fort-hood-execution-legal-challenges.html"
   ],
   [
     "president",
-    38,
+    39,
     "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html"
   ],
   [
+    "hurricane",
+    36,
+    "https://www.washingtonpost.com/weather/2026/10/07/tropical-storm-isaias-tracker-map-projected-storm-path/"
+  ],
+  [
     "york",
-    31,
+    35,
     "https://www.nytimes.com/2026/10/09/nyregion/nyu-professor-dsa-inheritance.html"
+  ],
+  [
+    "isaias",
+    31,
+    "https://www.washingtonpost.com/weather/2026/10/07/tropical-storm-isaias-tracker-map-projected-storm-path/"
+  ],
+  [
+    "death",
+    30,
+    "https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html"
+  ],
+  [
+    "food",
+    29,
+    "https://www.theguardian.com/thefilter-us/best-smokeless-fire-pits"
+  ],
+  [
+    "republican",
+    29,
+    "https://www.theguardian.com/us-news/2026/oct/09/trump-nobel-peace-prize"
+  ],
+  [
+    "campaign",
+    28,
+    "https://www.nytimes.com/2026/10/09/us/james-talarico-absence-texas-senate.html"
   ],
   [
     "don",
@@ -41,149 +71,129 @@
     "https://www.washingtonpost.com/religion/2026/10/08/anti-sharia-law-bills-punditry-are-spiking-us-post-analysis-found/"
   ],
   [
-    "democrats",
-    27,
-    "https://www.nytimes.com/2026/10/09/us/politics/kansas-senate-race-adam-hamilton-roger-marshall.html"
-  ],
-  [
-    "death",
-    27,
-    "https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html"
-  ],
-  [
-    "hurricane",
-    26,
-    "https://www.washingtonpost.com/weather/2026/10/07/tropical-storm-isaias-tracker-map-projected-storm-path/"
-  ],
-  [
-    "food",
-    26,
-    "https://www.theguardian.com/thefilter-us/best-smokeless-fire-pits"
-  ],
-  [
-    "los",
-    26,
-    "https://www.theguardian.com/sport/2026/oct/08/lebron-james-philadelphia-76ers-debut-brooklyn-nets-preseason"
-  ],
-  [
-    "senate",
-    25,
-    "https://www.nytimes.com/2026/10/09/us/politics/kansas-senate-race-adam-hamilton-roger-marshall.html"
-  ],
-  [
-    "campaign",
-    25,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
     "film",
-    25,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/09/ive-hit-my-midlife-sexpot-era-romola-garai-on-marital-misery-cheating-and-sex-scenes-in-cars"
+    26,
+    "https://www.theguardian.com/global/commentisfree/2026/oct/09/naza-mass-killing-gaza-israel"
   ],
   [
-    "secretary",
-    24,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "republican",
-    23,
-    "https://www.theguardian.com/us-news/2026/oct/09/democratic-senate-candidate-reponse-anti-trans-attacks"
-  ],
-  [
-    "angeles",
-    23,
-    "https://www.theguardian.com/sport/2026/oct/08/lebron-james-philadelphia-76ers-debut-brooklyn-nets-preseason"
-  ],
-  [
-    "ice",
-    22,
-    "https://www.washingtonpost.com/immigration/2026/10/09/mullin-says-ice-didnt-know-5-year-old-boy-was-car-when-officer-fired/"
-  ],
-  [
-    "isaias",
-    22,
-    "https://www.washingtonpost.com/weather/2026/10/07/tropical-storm-isaias-tracker-map-projected-storm-path/"
-  ],
-  [
-    "democratic",
-    22,
-    "https://www.theguardian.com/us-news/2026/oct/09/democratic-senate-candidate-reponse-anti-trans-attacks"
+    "florida",
+    26,
+    "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall"
   ],
   [
     "political",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/oct/09/jewish-vote-israel"
+    25,
+    "https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades"
+  ],
+  [
+    "ice",
+    24,
+    "https://www.nytimes.com/2026/10/09/nyregion/oscar-belgal-ice-shooting-nyc.html"
+  ],
+  [
+    "los",
+    23,
+    "https://www.theguardian.com/sport/2026/oct/08/lebron-james-philadelphia-76ers-debut-brooklyn-nets-preseason"
   ],
   [
     "family",
-    21,
+    22,
     "https://www.nytimes.com/2026/10/09/nyregion/nyu-professor-dsa-inheritance.html"
   ],
   [
-    "voters",
-    20,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-secretary-of-state-weber-wagner-voter-guide"
+    "angeles",
+    22,
+    "https://www.theguardian.com/sport/2026/oct/08/lebron-james-philadelphia-76ers-debut-brooklyn-nets-preseason"
   ],
   [
     "republicans",
-    19,
-    "https://www.nytimes.com/2026/10/09/us/politics/kansas-senate-race-adam-hamilton-roger-marshall.html"
+    21,
+    "https://www.nytimes.com/2026/10/09/opinion/midterms-wisconsin-georgia-arizona.html"
   ],
   [
-    "russia",
+    "democrats",
+    21,
+    "https://www.washingtonpost.com/nation/2026/10/08/outcry-over-mamdanis-oct-7-actions-show-landmines-left/"
+  ],
+  [
+    "senate",
+    20,
+    "https://www.nytimes.com/2026/10/09/us/james-talarico-absence-texas-senate.html"
+  ],
+  [
+    "democratic",
+    20,
+    "https://www.nytimes.com/2026/10/09/us/james-talarico-absence-texas-senate.html"
+  ],
+  [
+    "district",
+    20,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/09/ive-hit-my-midlife-sexpot-era-romola-garai-on-marital-misery-cheating-and-sex-scenes-in-cars"
+  ],
+  [
+    "director",
+    20,
+    "https://www.theguardian.com/film/2026/oct/09/ava-duvernay-14th-review"
+  ],
+  [
+    "livestream",
     19,
-    "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html"
+    "https://www.nytimes.com/2026/10/09/us/politics/trump-firing-squad-spectacle.html"
   ],
   [
     "department",
     19,
-    "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr"
-  ],
-  [
-    "diesel",
-    18,
-    "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html"
-  ],
-  [
-    "car",
-    18,
-    "https://www.washingtonpost.com/immigration/2026/10/09/mullin-says-ice-didnt-know-5-year-old-boy-was-car-when-officer-fired/"
-  ],
-  [
-    "district",
-    18,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/09/ive-hit-my-midlife-sexpot-era-romola-garai-on-marital-misery-cheating-and-sex-scenes-in-cars"
-  ],
-  [
-    "coast",
-    18,
-    "https://www.theguardian.com/world/live/2026/oct/09/hurricane-isaias-path-landfall-florida-category-3-storm-latest-updates"
-  ],
-  [
-    "livestream",
-    17,
-    "https://www.nytimes.com/2026/10/09/us/politics/trump-firing-squad-spectacle.html"
+    "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html"
   ],
   [
     "country",
-    17,
-    "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html"
+    19,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "storm",
-    17,
-    "https://www.washingtonpost.com/weather/2026/10/07/tropical-storm-isaias-tracker-map-projected-storm-path/"
+    "war",
+    19,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "mike",
+    19,
+    "https://www.theguardian.com/sport/gallery/2026/oct/09/mike-ditka-a-life-in-pictures"
   ],
   [
     "past",
-    17,
+    18,
     "https://www.washingtonpost.com/religion/2026/10/08/anti-sharia-law-bills-punditry-are-spiking-us-post-analysis-found/"
   ],
   [
     "black",
+    18,
+    "https://www.theguardian.com/politics/2026/oct/10/lessons-from-people-who-fought-the-far-right-in-the-70s-80s-and-beyond"
+  ],
+  [
+    "crisis",
     17,
-    "https://www.theguardian.com/us-news/2026/oct/09/hbcu-black-students-nolan-wells"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "fashion",
+    17,
+    "https://www.theguardian.com/fashion/2026/oct/09/nepo-babies-fashion-month-paris-celebrity"
+  ],
+  [
+    "landfall",
+    17,
+    "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall"
+  ],
+  [
+    "climate",
+    17,
+    "https://www.theguardian.com/environment/2026/oct/10/climate-crisis-putting-world-best-surf-breaks-at-risk"
+  ],
+  [
+    "candidates",
+    17,
+    "https://www.theguardian.com/us-news/2026/oct/09/trump-nobel-peace-prize"
   ],
   [
     "county",
@@ -196,24 +206,34 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
+    "tax",
+    17,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
+  ],
+  [
+    "because",
+    16,
+    "https://www.nytimes.com/2026/10/09/business/medicare-private-health-care-costs.html"
+  ],
+  [
     "fort",
     16,
-    "https://www.nytimes.com/2026/10/09/us/politics/democrats-republicans-hegseth-execution.html"
+    "https://www.nytimes.com/2026/10/09/us/politics/fort-hood-execution-legal-challenges.html"
   ],
   [
-    "war",
+    "russia",
     16,
-    "https://www.nytimes.com/2026/10/09/arts/mystic-conn-unmarked-grave-mystery.html"
+    "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html"
   ],
   [
-    "fashion",
+    "judge",
     16,
-    "https://www.theguardian.com/fashion/2026/oct/09/nepo-babies-fashion-month-paris-celebrity"
+    "https://www.washingtonpost.com/education/2026/10/09/judge-seals-documents-cornell-rape-case-citing-doxing-unrelated-people/"
   ],
   [
-    "love",
+    "night",
     16,
-    "https://www.theguardian.com/books/2026/oct/09/sometimes-she-publishes-notes-shes-scribbled-on-her-hand-edouard-louis-on-10-reasons-to-love-anne-carson"
+    "https://www.washingtonpost.com/health/2026/10/08/surprising-new-idea-that-is-reshaping-how-we-think-about-adhd/"
   ],
   [
     "health",
@@ -221,69 +241,59 @@
     "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr"
   ],
   [
-    "win",
+    "voters",
+    16,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-secretary-of-state-weber-wagner-voter-guide"
+  ],
+  [
+    "texas",
     15,
-    "https://www.nytimes.com/2026/10/09/us/politics/kansas-senate-race-adam-hamilton-roger-marshall.html"
+    "https://www.nytimes.com/2026/10/09/us/james-talarico-absence-texas-senate.html"
   ],
   [
     "hood",
     15,
-    "https://www.nytimes.com/2026/10/09/us/politics/democrats-republicans-hegseth-execution.html"
+    "https://www.nytimes.com/2026/10/09/us/politics/fort-hood-execution-legal-challenges.html"
   ],
   [
-    "global",
+    "voter",
     15,
-    "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html"
+    "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html"
   ],
   [
-    "cook",
+    "storm",
     15,
-    "https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html"
+    "https://www.washingtonpost.com/weather/2026/10/07/tropical-storm-isaias-tracker-map-projected-storm-path/"
   ],
   [
-    "court",
+    "secretary",
     15,
-    "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "judge",
+    "industry",
     15,
-    "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html"
+    "https://www.theguardian.com/tv-and-radio/2026/oct/09/ive-hit-my-midlife-sexpot-era-romola-garai-on-marital-misery-cheating-and-sex-scenes-in-cars"
   ],
   [
-    "shot",
+    "ahead",
     15,
-    "https://www.washingtonpost.com/immigration/2026/10/08/ice-officer-shoots-wounds-man-new-york-city/"
+    "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr"
   ],
   [
-    "social",
+    "win",
     15,
-    "https://www.washingtonpost.com/nation/2026/10/08/outcry-over-mamdanis-oct-7-actions-show-landmines-left/"
+    "https://www.theguardian.com/us-news/2026/oct/09/democrats-control-house-senate-priorities"
   ],
   [
-    "early",
+    "amendment",
     15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.theguardian.com/film/2026/oct/09/ava-duvernay-14th-review"
   ],
   [
-    "game",
+    "love",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/09/fort-hood-public-execution-us-iran"
-  ],
-  [
-    "office",
-    15,
-    "https://www.theguardian.com/film/2026/oct/09/stark-warning-does-new-footage-in-avengers-endgame-reveal-the-truth-about-doctor-doom"
-  ],
-  [
-    "climate",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/oct/09/ai-climate-change-liability-lawsuits"
-  ],
-  [
-    "san",
-    15,
-    "https://www.theguardian.com/environment/2026/oct/08/how-california-is-bracing-for-a-winter-of-floods-fires-and-extreme-storms-all-at-once"
+    "https://www.theguardian.com/music/2026/oct/09/jess-williamson-a-mile-south-of-heaven-review"
   ],
   [
     "charter",
@@ -291,88 +301,78 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "latest",
+    "squad",
     14,
     "https://www.nytimes.com/2026/10/09/us/politics/trump-firing-squad-spectacle.html"
   ],
   [
-    "announced",
+    "shooting",
     14,
-    "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html"
+    "https://www.nytimes.com/2026/10/09/us/politics/fort-hood-execution-legal-challenges.html"
   ],
   [
-    "recent",
+    "diesel",
     14,
-    "https://www.nytimes.com/2026/10/09/us/politics/senate-migrants-detention-guantanamo.html"
+    "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html"
   ],
   [
-    "government",
+    "car",
     14,
-    "https://www.nytimes.com/2026/10/09/us/politics/senate-migrants-detention-guantanamo.html"
+    "https://www.washingtonpost.com/immigration/2026/10/08/ice-officer-shoots-wounds-man-new-york-city/"
   ],
   [
-    "leading",
-    14,
-    "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html"
-  ],
-  [
-    "post",
+    "social",
     14,
     "https://www.washingtonpost.com/nation/2026/10/08/outcry-over-mamdanis-oct-7-actions-show-landmines-left/"
   ],
   [
-    "james",
+    "donald",
     14,
-    "https://www.washingtonpost.com/nation/2026/10/08/lawyers-accused-man-cornell-case-want-letitia-james-removed-prosecutor/"
+    "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine"
   ],
   [
-    "night",
+    "review",
     14,
-    "https://www.washingtonpost.com/health/2026/10/08/surprising-new-idea-that-is-reshaping-how-we-think-about-adhd/"
+    "https://www.theguardian.com/film/2026/oct/09/other-mommy-movie-review"
   ],
   [
-    "already",
+    "star",
     14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/film/2026/oct/09/other-mommy-movie-review"
   ],
   [
-    "team",
+    "coach",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/sport/gallery/2026/oct/09/mike-ditka-a-life-in-pictures"
   ],
   [
-    "industry",
+    "security",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/09/ive-hit-my-midlife-sexpot-era-romola-garai-on-marital-misery-cheating-and-sex-scenes-in-cars"
-  ],
-  [
-    "director",
-    14,
-    "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates"
-  ],
-  [
-    "candidates",
-    14,
-    "https://www.theguardian.com/us-news/2026/oct/08/midterms-democrats-republican-strongholds"
-  ],
-  [
-    "amendment",
-    14,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
+    "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato"
   ],
   [
     "seat",
-    13,
-    "https://www.nytimes.com/2026/10/09/us/politics/kansas-senate-race-adam-hamilton-roger-marshall.html"
+    14,
+    "https://www.theguardian.com/wellness/ng-interactive/2026/oct/06/how-to-get-comfortable-with-death"
   ],
   [
-    "squad",
+    "firing",
     13,
     "https://www.nytimes.com/2026/10/09/us/politics/trump-firing-squad-spectacle.html"
   ],
   [
-    "university",
+    "police",
     13,
-    "https://www.nytimes.com/2026/10/09/nyregion/nyu-professor-dsa-inheritance.html"
+    "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html"
+  ],
+  [
+    "announced",
+    13,
+    "https://www.washingtonpost.com/immigration/2026/10/08/trump-officials-block-microsofts-access-program-employee-green-cards/"
+  ],
+  [
+    "iran",
+    13,
+    "https://www.theguardian.com/us-news/2026/oct/09/fort-hood-public-execution-us-iran"
   ]
 ];
