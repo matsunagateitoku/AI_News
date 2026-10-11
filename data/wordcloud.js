@@ -2,13 +2,8 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    102,
-    "https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html"
-  ],
-  [
-    "president",
-    66,
-    "https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html"
+    94,
+    "https://www.nytimes.com/2026/10/11/us/politics/white-house-manufactured-narrative-solomon.html"
   ],
   [
     "guide",
@@ -16,174 +11,149 @@
     "https://www.theguardian.com/thefilter-us/2026/oct/10/venta-humidifier-review"
   ],
   [
+    "president",
+    53,
+    "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html"
+  ],
+  [
     "california",
-    46,
-    "https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty"
+    42,
+    "https://www.theguardian.com/environment/2026/oct/11/chimp-civil-war-john-mitani-chimps-uganda-aoe"
   ],
   [
     "race",
-    43,
-    "https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html"
-  ],
-  [
-    "family",
-    32,
-    "https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths"
-  ],
-  [
-    "don",
-    31,
-    "https://www.theguardian.com/media/2026/oct/10/nara-aziza-smith-influencer-model-actor-mother-four-not-tradwife"
+    41,
+    "https://www.washingtonpost.com/business/2026/10/11/race-ai-dominance-us-relies-surprising-ally-china/"
   ],
   [
     "war",
+    28,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "family",
     27,
-    "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html"
+    "https://www.nytimes.com/2026/10/11/us/arizona-alma-hernandez-threats-violence.html"
   ],
   [
     "republicans",
-    26,
-    "https://www.nytimes.com/2026/10/10/us/politics/republicans-midterms-trump-diesel-russia.html"
-  ],
-  [
-    "campaign",
-    26,
-    "https://www.nytimes.com/2026/10/10/us/politics/fact-check-senate-ads-iowa-new-hampshire-north-carolina.html"
-  ],
-  [
-    "york",
-    26,
-    "https://www.washingtonpost.com/immigration/2026/10/09/mullin-says-ice-didnt-know-5-year-old-boy-was-car-when-officer-fired/"
-  ],
-  [
-    "department",
-    25,
-    "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html"
+    27,
+    "https://www.theguardian.com/us-news/2026/oct/11/rev-dr-frederick-douglass-haynes-iii-texas-house"
   ],
   [
     "republican",
-    24,
-    "https://www.nytimes.com/2026/10/10/us/politics/trump-inflation-midterms-republicans.html"
+    27,
+    "https://www.theguardian.com/us-news/2026/oct/11/trump-john-fetterman"
   ],
   [
-    "donald",
-    23,
-    "https://www.theguardian.com/us-news/2026/oct/10/cottonwood-tree-toppling-trump-mexico-border-wall-arizona"
+    "don",
+    27,
+    "https://www.theguardian.com/commentisfree/2026/oct/11/amazon-about-you-page"
   ],
   [
-    "execution",
-    22,
-    "https://www.nytimes.com/2026/10/10/us/politics/trump-rally-tennessee-public-execution.html"
-  ],
-  [
-    "killed",
-    22,
-    "https://www.nytimes.com/2026/10/10/us/hurricane-isaias-florida-damage-four-killed.html"
-  ],
-  [
-    "food",
-    22,
-    "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis"
-  ],
-  [
-    "ice",
-    21,
-    "https://www.washingtonpost.com/immigration/2026/10/09/mullin-says-ice-didnt-know-5-year-old-boy-was-car-when-officer-fired/"
-  ],
-  [
-    "death",
-    21,
-    "https://www.theguardian.com/us-news/2026/oct/10/ems-workers-nyc-low-pay"
+    "book",
+    25,
+    "https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons"
   ],
   [
     "political",
-    21,
-    "https://www.theguardian.com/film/2026/oct/10/free-leonard-peltier-netflix-documentary"
+    24,
+    "https://www.nytimes.com/2026/10/11/us/politics/elections-political-violence-harassment.html"
   ],
   [
-    "country",
-    20,
-    "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html"
+    "campaign",
+    24,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "least",
-    20,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "win",
-    20,
-    "https://www.theguardian.com/us-news/2026/oct/09/democrats-control-house-senate-priorities"
-  ],
-  [
-    "district",
-    20,
-    "https://www.theguardian.com/us-news/2026/oct/09/federal-judge-rules-against-trump-push-state-voter-rolls"
-  ],
-  [
-    "justice",
-    19,
-    "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html"
-  ],
-  [
-    "police",
-    18,
-    "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html"
-  ],
-  [
-    "international",
-    18,
-    "https://www.nytimes.com/2026/10/10/magazine/mirjana-spoljaric-interview.html"
-  ],
-  [
-    "film",
-    18,
-    "https://www.theguardian.com/film/2026/oct/10/free-leonard-peltier-netflix-documentary"
-  ],
-  [
-    "los",
-    18,
-    "https://www.theguardian.com/music/2026/oct/09/jess-williamson-a-mile-south-of-heaven-review"
-  ],
-  [
-    "voters",
-    18,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-secretary-of-state-weber-wagner-voter-guide"
-  ],
-  [
-    "airport",
-    17,
-    "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html"
-  ],
-  [
-    "democrats",
-    17,
-    "https://www.theguardian.com/us-news/2026/oct/10/marcy-kaptur-ohio-trans-ad"
-  ],
-  [
-    "school",
-    17,
-    "https://www.theguardian.com/world/2026/oct/11/france-violent-attacks-trashings-schools-teenagers"
+    "food",
+    24,
+    "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis"
   ],
   [
     "love",
-    17,
-    "https://www.theguardian.com/world/2026/oct/11/france-violent-attacks-trashings-schools-teenagers"
+    23,
+    "https://www.theguardian.com/commentisfree/2026/oct/11/smart-glasses-content-creation"
   ],
   [
-    "game",
-    17,
-    "https://www.theguardian.com/sport/2026/oct/10/cleveland-guardians-chicago-white-sox-alds-game-five-gavin-williams"
+    "voters",
+    22,
+    "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-michigan-senate-race-black-voters"
+  ],
+  [
+    "department",
+    21,
+    "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html"
+  ],
+  [
+    "donald",
+    20,
+    "https://www.theguardian.com/us-news/2026/oct/10/cottonwood-tree-toppling-trump-mexico-border-wall-arizona"
+  ],
+  [
+    "congressional",
+    20,
+    "https://www.theguardian.com/us-news/2026/oct/11/darializa-avila-chevalier-nypd-ice-protests-shooting"
+  ],
+  [
+    "york",
+    19,
+    "https://www.washingtonpost.com/immigration/2026/10/09/mullin-says-ice-didnt-know-5-year-old-boy-was-car-when-officer-fired/"
+  ],
+  [
+    "los",
+    19,
+    "https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino"
   ],
   [
     "angeles",
-    17,
-    "https://www.theguardian.com/music/2026/oct/09/jess-williamson-a-mile-south-of-heaven-review"
+    19,
+    "https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino"
   ],
   [
-    "county",
+    "saudi",
+    18,
+    "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html"
+  ],
+  [
+    "airport",
+    18,
+    "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html"
+  ],
+  [
+    "justice",
+    18,
+    "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html"
+  ],
+  [
+    "attack",
+    18,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "district",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/11/darializa-avila-chevalier-nypd-ice-protests-shooting"
+  ],
+  [
+    "democratic",
     17,
-    "https://www.latimes.com/california/story/2026-10-10/tropical-storm-rachel-long-beach-evacuation-newport-beach-closures"
+    "https://www.theguardian.com/us-news/2026/oct/11/darializa-avila-chevalier-nypd-ice-protests-shooting"
+  ],
+  [
+    "senate",
+    17,
+    "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-michigan-senate-race-black-voters"
+  ],
+  [
+    "american",
+    17,
+    "https://www.theguardian.com/artanddesign/2026/oct/11/roy-lichtenstein-exhibition-whitney-museum"
+  ],
+  [
+    "gop",
+    17,
+    "https://www.latimes.com/politics/story/2026-10-11/how-gop-weaponized-trans-issues-left-democrats-searching-for-strategy"
   ],
   [
     "proposition",
@@ -191,94 +161,84 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "decision",
+    "police",
     16,
-    "https://www.nytimes.com/2026/10/10/us/politics/republicans-midterms-trump-diesel-russia.html"
+    "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html"
+  ],
+  [
+    "united",
+    16,
+    "https://www.nytimes.com/2026/10/11/opinion/hungary-sanyi-rooster-bekescsaba-mayor.html"
+  ],
+  [
+    "film",
+    16,
+    "https://www.theguardian.com/music/2026/oct/11/duran-duran-interview-pop-music-halloween-free-to-love"
+  ],
+  [
+    "win",
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/11/rev-dr-frederick-douglass-haynes-iii-texas-house"
+  ],
+  [
+    "seat",
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/11/rev-dr-frederick-douglass-haynes-iii-texas-house"
+  ],
+  [
+    "health",
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-michigan-senate-race-black-voters"
+  ],
+  [
+    "money",
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-michigan-senate-race-black-voters"
+  ],
+  [
+    "game",
+    16,
+    "https://www.theguardian.com/culture/2026/oct/11/rachael-stirling-on-eating-her-mother-diana-riggs-ashes"
   ],
   [
     "election",
     16,
-    "https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html"
+    "https://www.theguardian.com/world/2026/oct/11/did-trump-get-one-thing-right-about-greenland"
   ],
   [
-    "hundreds",
+    "tax",
     16,
-    "https://www.nytimes.com/2026/10/10/us/hurricane-isaias-florida-damage-four-killed.html"
-  ],
-  [
-    "children",
-    16,
-    "https://www.washingtonpost.com/nation/2026/10/10/8-dead-mass-shooting-erie-pennsylvania-authorities-say/"
-  ],
-  [
-    "congressional",
-    16,
-    "https://www.theguardian.com/us-news/2026/oct/10/marcy-kaptur-ohio-trans-ad"
-  ],
-  [
-    "diesel",
-    15,
-    "https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html"
-  ],
-  [
-    "gaza",
-    15,
-    "https://www.nytimes.com/2026/10/10/magazine/mirjana-spoljaric-interview.html"
-  ],
-  [
-    "red",
-    15,
-    "https://www.nytimes.com/2026/10/10/magazine/mirjana-spoljaric-interview.html"
-  ],
-  [
-    "power",
-    15,
-    "https://www.nytimes.com/2026/10/10/us/hurricane-isaias-florida-damage-four-killed.html"
-  ],
-  [
-    "shot",
-    15,
-    "https://www.washingtonpost.com/immigration/2026/10/08/ice-officer-shoots-wounds-man-new-york-city/"
-  ],
-  [
-    "everything",
-    15,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "past",
-    15,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.theguardian.com/commentisfree/2026/oct/11/amazon-about-you-page"
   ],
   [
     "review",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/oct/10/venta-humidifier-review"
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis"
   ],
   [
-    "storm",
+    "networks",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/oct/10/venta-humidifier-review"
+    "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html"
   ],
   [
-    "night",
+    "released",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/11/the-moment-i-knew-he-wore-a-tutu-to-make-my-siblings-laugh"
+    "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html"
   ],
   [
-    "black",
+    "international",
     15,
-    "https://www.theguardian.com/politics/2026/oct/10/lessons-from-people-who-fought-the-far-right-in-the-70s-80s-and-beyond"
+    "https://www.washingtonpost.com/investigations/interactive/2026/10/11/how-ukraine-uses-precision-drone-strikes-hobble-russian-oil-refineries/"
   ],
   [
-    "court",
+    "least",
     15,
-    "https://www.theguardian.com/world/2026/oct/11/cockroach-party-leader-released-delhi-protests-second-day"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "beach",
+    "death",
     15,
-    "https://www.theguardian.com/australia-news/2026/oct/11/out-of-the-rubble-and-on-to-the-beach-gazas-junior-surf-lifesavers-return-to-the-waves-after-three-years-of-war"
+    "https://www.theguardian.com/world/2026/oct/11/volunteers-protecting-kyiv-new-jet-powered-drones"
   ],
   [
     "amendment",
@@ -286,9 +246,9 @@
     "https://www.theguardian.com/film/2026/oct/09/ava-duvernay-14th-review"
   ],
   [
-    "fashion",
+    "county",
     15,
-    "https://www.theguardian.com/thefilter-us/2026/oct/07/prettygarden-cardigan-amazon-prime-day-sale"
+    "https://www.latimes.com/california/story/2026-10-10/twin-towers-jail-deaths-daniel-magana-family-claim"
   ],
   [
     "charter",
@@ -296,39 +256,24 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "saudi",
+    "office",
     14,
-    "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html"
+    "https://www.nytimes.com/2026/10/11/us/politics/elections-political-violence-harassment.html"
   ],
   [
-    "iran",
+    "really",
     14,
-    "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html"
+    "https://www.nytimes.com/2026/10/11/us/arizona-alma-hernandez-threats-violence.html"
   ],
   [
-    "ukraine",
+    "young",
     14,
-    "https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html"
+    "https://www.nytimes.com/2026/10/11/opinion/cornell-jane-doe-vietnam-my-lai.html"
   ],
   [
-    "candidates",
+    "children",
     14,
-    "https://www.nytimes.com/2026/10/10/us/politics/republicans-midterms-trump-diesel-russia.html"
-  ],
-  [
-    "senate",
-    14,
-    "https://www.nytimes.com/2026/10/10/us/politics/republicans-midterms-trump-diesel-russia.html"
-  ],
-  [
-    "isaias",
-    14,
-    "https://www.nytimes.com/2026/10/10/us/hurricane-isaias-florida-damage-four-killed.html"
-  ],
-  [
-    "thousands",
-    14,
-    "https://www.nytimes.com/2026/10/10/us/hurricane-isaias-florida-damage-four-killed.html"
+    "https://www.washingtonpost.com/nation/2026/10/10/8-dead-mass-shooting-erie-pennsylvania-authorities-say/"
   ],
   [
     "questions",
@@ -336,43 +281,98 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "team",
+    "crisis",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "pennsylvania",
+    "past",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "american",
+    "latest",
     14,
-    "https://www.theguardian.com/film/2026/oct/10/free-leonard-peltier-netflix-documentary"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "book",
+    "john",
     14,
-    "https://www.theguardian.com/commentisfree/2026/oct/10/vladimir-putin-shadow-war-europe-ukraine-russia"
+    "https://www.theguardian.com/environment/2026/oct/11/chimp-civil-war-john-mitani-chimps-uganda-aoe"
   ],
   [
-    "chicago",
+    "community",
     14,
-    "https://www.theguardian.com/sport/2026/oct/10/cleveland-guardians-chicago-white-sox-alds-game-five-gavin-williams"
+    "https://www.theguardian.com/environment/2026/oct/11/chimp-civil-war-john-mitani-chimps-uganda-aoe"
   ],
   [
-    "money",
+    "states",
     14,
-    "https://www.theguardian.com/thefilter-us/2025/oct/01/best-best-bath-towels-us"
+    "https://www.theguardian.com/us-news/2026/oct/11/medicaid-cuts-maternity-wards"
   ],
   [
-    "again",
+    "leo",
+    14,
+    "https://www.theguardian.com/world/2026/oct/11/pope-leo-surgery-remove-nodule-lung"
+  ],
+  [
+    "elections",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/11/trump-john-fetterman"
+  ],
+  [
+    "beach",
+    14,
+    "https://www.theguardian.com/global-development/2026/oct/10/tourism-expansion-v-turtle-nests-the-dispute-dividing-communities-in-one-tobago-resort"
+  ],
+  [
+    "fashion",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/oct/07/prettygarden-cardigan-amazon-prime-day-sale"
+  ],
+  [
+    "america",
     13,
-    "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html"
+    "https://www.nytimes.com/2026/10/11/us/politics/elections-political-violence-harassment.html"
   ],
   [
-    "attack",
+    "lives",
     13,
-    "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html"
+    "https://www.nytimes.com/2026/10/11/us/politics/elections-political-violence-harassment.html"
+  ],
+  [
+    "iran",
+    13,
+    "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html"
+  ],
+  [
+    "investigating",
+    13,
+    "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html"
+  ],
+  [
+    "town",
+    13,
+    "https://www.nytimes.com/2026/10/11/opinion/hungary-sanyi-rooster-bekescsaba-mayor.html"
+  ],
+  [
+    "early",
+    13,
+    "https://www.washingtonpost.com/health/2026/10/12/women-once-cleared-by-genetic-tests-cancer-risks-now-consider-retesting/"
+  ],
+  [
+    "star",
+    13,
+    "https://www.washingtonpost.com/obituaries/2026/10/10/he-called-himself-most-violent-drunk-baseball-then-he-found-redemption/"
+  ],
+  [
+    "gaza",
+    13,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "everything",
+    13,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ]
 ];
