@@ -2,27 +2,15 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "The Super Bowl",
-      "count": 4,
-      "url": "https://www.theguardian.com/music/2026/oct/12/jay-z-in-8-hbo-documentary-series",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Game 2",
-      "count": 3,
-      "url": "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores",
-      "source": "The Guardian"
-    },
-    {
       "name": "First World Series",
       "count": 2,
       "url": "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores",
       "source": "The Guardian"
     },
     {
-      "name": "Game 6",
+      "name": "Game 2",
       "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/oct/11/atlanta-dream-wnba-finals-venue-state-farm-arena-golden-state-valkyries",
+      "url": "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores",
       "source": "The Guardian"
     },
     {
@@ -32,128 +20,72 @@
       "source": "LA Times"
     },
     {
-      "name": "Economic War With Ukraine",
+      "name": "The Iran War",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html",
+      "url": "https://www.nytimes.com/2026/10/12/business/economy/bananas-iran-war.html",
       "source": "NY Times"
     },
     {
-      "name": "A Civil War",
+      "name": "The “Pharma Bro” –",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/10/13/world/asia/bougainville-island-panguna-mine-pollution-reopening.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "World War Ii",
-      "count": 1,
-      "url": "https://www.washingtonpost.com/lifestyle/2026/10/12/her-brother-died-during-world-war-ii-now-104-she-finally-has-his-dog-tag/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Chinese Ai",
-      "count": 1,
-      "url": "https://www.washingtonpost.com/business/2026/10/11/race-ai-dominance-us-relies-surprising-ally-china/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Black Swan",
-      "count": 1,
-      "url": "https://www.theguardian.com/film/2026/oct/12/black-swan-feelgood-movie",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Faces New Crisis",
-      "count": 50,
-      "url": "https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ai",
-      "count": 23,
-      "url": "https://www.washingtonpost.com/business/2026/10/11/race-ai-dominance-us-relies-surprising-ally-china/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Montana Independent Senate",
-      "count": 14,
-      "url": "https://thehill.com/homenews/campaign/6144107-montana-democrats-chair-resigns/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Gop",
-      "count": 12,
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5996646/political-strategist-on-how-trumps-personal-grievances-could-affect-the-gop",
-      "source": "NPR"
-    },
-    {
-      "name": "Guardian Europe",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/europes-big-election-season-is-about-to-kick-off-it-could-change-everything",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/martin-shkreli-ftc-ruling-pharma-ban",
       "source": "The Guardian"
     },
     {
-      "name": "Nfl",
-      "count": 11,
-      "url": "https://www.theguardian.com/sport/2026/oct/13/rams-bills-monday-night-football-nfl",
+      "name": "The New Year",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/medicaid-healthcare-reform-law-requirements-1-january",
       "source": "The Guardian"
     },
     {
-      "name": "The Filter Us",
-      "count": 10,
-      "url": "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them",
+      "name": "Game 3",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/oct/13/wnba-finals-atlanta-dream-golden-state-valkyries-state-farm-arena-schedule",
       "source": "The Guardian"
     },
     {
-      "name": "New White House",
-      "count": 9,
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
-      "source": "NPR"
+      "name": "Game 4",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/oct/13/wnba-finals-atlanta-dream-golden-state-valkyries-state-farm-arena-schedule",
+      "source": "The Guardian"
     },
     {
-      "name": "Cbs News",
-      "count": 8,
-      "url": "https://www.cbsnews.com/news/james-talarico-texas-senate-campaign-trail-security-camera-photos/",
-      "source": "CBS News"
+      "name": "Independence Day",
+      "count": 1,
+      "url": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
+      "source": "The Guardian"
     },
     {
-      "name": "State Farm Arena",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/oct/11/atlanta-dream-wnba-finals-venue-state-farm-arena-golden-state-valkyries",
+      "name": "Breaking Bad",
+      "count": 1,
+      "url": "https://www.theguardian.com/tv-and-radio/gallery/2026/oct/13/rj-mitte-death-breaking-bad-gallery-life-in-pictures",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
-      "name": "California",
-      "count": 39,
-      "url": "https://www.washingtonpost.com/nation/2026/10/12/california-beaches-homes-slammed-by-waves-tropical-storm-rachel/",
-      "source": "Washington Post"
+      "name": "Baja California",
+      "count": 40,
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+      "source": "The Guardian"
     },
     {
       "name": "Us",
-      "count": 38,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/europes-big-election-season-is-about-to-kick-off-it-could-change-everything",
+      "count": 39,
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/midterm-elections-kansas-minnesota-florida-congressional-district",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
       "count": 24,
-      "url": "https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html",
+      "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
       "source": "NY Times"
     },
     {
       "name": "Russia",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
       "source": "NY Times"
-    },
-    {
-      "name": "New York City",
-      "count": 16,
-      "url": "https://thehill.com/homenews/house/6144397-mamdani-slams-omar-home-raid/",
-      "source": "The Hill"
     },
     {
       "name": "L.A. County",
@@ -162,59 +94,53 @@
       "source": "LA Times"
     },
     {
-      "name": "Georgia",
+      "name": "Iran",
       "count": 14,
-      "url": "https://www.washingtonpost.com/nation/2026/10/12/sea-turtle-nests-broke-record-this-year-why-thats-good-thing/",
-      "source": "Washington Post"
+      "url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/martin-shkreli-ftc-ruling-pharma-ban",
+      "source": "The Guardian"
     },
     {
       "name": "Ukraine",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Greece",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
       "source": "NY Times"
     },
     {
       "name": "Saudi Arabia Joining Fighter-Jet Program",
-      "count": 9,
+      "count": 10,
       "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
       "source": "Wall St. Journal"
-    },
-    {
-      "name": "Los Angeles County",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-sheriff-race-luna-villanueva-voter-guide",
-      "source": "LA Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 30,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/europes-big-election-season-is-about-to-kick-off-it-could-change-everything",
+      "count": 28,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/trump-lies-conspiracies-katie-zacharia-press-secretary",
       "source": "The Guardian"
     },
     {
-      "name": "Mitte",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/10/12/arts/television/rj-mitte-dead.html",
+      "name": "Kimberly Guilfoyle Resigns",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
       "source": "NY Times"
     },
     {
-      "name": "Actress Selma Blair",
-      "count": 13,
-      "url": "https://www.cbsnews.com/video/selma-blair-allegedly-hit-1-flight-attendant-bit-another-on-flight-before-arrest/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Ilhan Omar",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/federal-agents-ilhan-omar-home-raid",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ilhan Omar ’S",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/federal-agents-ilhan-omar-home-raid",
+      "name": "Katie Zacharia",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/trump-lies-conspiracies-katie-zacharia-press-secretary",
       "source": "The Guardian"
     },
     {
@@ -224,29 +150,103 @@
       "source": "The Guardian"
     },
     {
-      "name": "Houthis",
-      "count": 7,
-      "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kimberly Guilfoyle",
-      "count": 7,
-      "url": "https://www.nbcnews.com/politics/trump-administration/trump-says-looking-at-firing-kimberly-guilfoyle-us-ambassador-greece-rcna603090",
-      "source": "NBC News"
-    },
-    {
       "name": "Rams",
-      "count": 6,
+      "count": 7,
       "url": "https://www.theguardian.com/sport/2026/oct/13/rams-bills-monday-night-football-nfl",
       "source": "The Guardian"
     },
     {
-      "name": "Zohran Mamdani",
+      "name": "Vladimir Putin",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/mamdani-ice-new-york-shooting",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/brexit-vladimir-putin-russia-referendum-result-eu",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mitte",
+      "count": 6,
+      "url": "https://www.theguardian.com/tv-and-radio/gallery/2026/oct/13/rj-mitte-death-breaking-bad-gallery-life-in-pictures",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Elon Musk",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ilhan Omar",
+      "count": 5,
+      "url": "https://www.theguardian.com/news/video/2026/oct/13/i-will-not-be-silenced-trump-critic-ilhan-omar-defiant-after-home-raided-the-latest",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Susan Brison",
+      "count": 5,
+      "url": "https://www.theguardian.com/society/2026/oct/12/couple-devastating-attack-sexual-assault-rape",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-10-13T07:32:27Z"
+  "ORG": [
+    {
+      "name": "Trump On Protect College Sports",
+      "count": 52,
+      "url": "https://www.foxnews.com/outkick-sports/dan-le-batard-thinks-patrick-mahomes-athletes-obligated-oppose-trump-protect-college-sports",
+      "source": "Fox News"
+    },
+    {
+      "name": "Ai",
+      "count": 33,
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Cornell University",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/cornell-suspends-university-parties",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Us Senate",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them",
+      "source": "The Guardian"
+    },
+    {
+      "name": "State Farm Arena    Potential Game",
+      "count": 10,
+      "url": "https://www.theguardian.com/sport/2026/oct/13/wnba-finals-atlanta-dream-golden-state-valkyries-state-farm-arena-schedule",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Atlanta Dream",
+      "count": 8,
+      "url": "https://www.latimes.com/sports/story/2026-10-13/atlanta-dream-wnba-finals-state-farm-arena-golden-state-valkryies",
+      "source": "LA Times"
+    },
+    {
+      "name": "Gop",
+      "count": 8,
+      "url": "https://www.politico.com/news/2026/10/09/poll-trump-voters-candidate-breaks-battlegrounds-01112449",
+      "source": "Politico"
+    },
+    {
+      "name": "Wpc Energy Congress",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/10/13/business/saudi-arabia-houthi-oil.html",
+      "source": "NY Times"
+    }
+  ],
+  "updated": "2026-10-13T19:47:49Z"
 };
