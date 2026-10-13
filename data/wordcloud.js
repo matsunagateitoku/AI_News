@@ -2,73 +2,53 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    72,
+    96,
     "https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html"
   ],
   [
     "guide",
-    65,
+    63,
     "https://www.theguardian.com/thefilter-us/2026/oct/12/protein-powder-faq-dietitians"
   ],
   [
     "california",
-    43,
+    45,
     "https://www.washingtonpost.com/nation/2026/10/12/california-beaches-homes-slammed-by-waves-tropical-storm-rachel/"
   ],
   [
-    "race",
-    41,
-    "https://www.nytimes.com/2026/10/12/us/politics/whos-winning-the-race-for-congress.html"
-  ],
-  [
     "president",
-    36,
+    44,
     "https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html"
   ],
   [
-    "don",
-    28,
-    "https://www.theguardian.com/sport/2026/oct/12/christian-horner-red-bull-formula-one"
+    "race",
+    40,
+    "https://www.washingtonpost.com/business/2026/10/11/race-ai-dominance-us-relies-surprising-ally-china/"
   ],
   [
-    "film",
-    27,
-    "https://www.theguardian.com/sport/2026/oct/12/deshaun-watson-browns-jets-nfl-week-five-column"
-  ],
-  [
-    "food",
-    25,
-    "https://www.theguardian.com/commentisfree/2026/oct/12/super-el-nino-farms-prepare"
-  ],
-  [
-    "los",
-    24,
-    "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident"
+    "game",
+    34,
+    "https://www.theguardian.com/sport/2026/oct/13/rams-bills-monday-night-football-nfl"
   ],
   [
     "republican",
-    24,
-    "https://www.theguardian.com/us-news/2026/oct/12/regina-romero-arizona-democrats-house-midterms"
+    27,
+    "https://www.nytimes.com/2026/10/12/us/politics/maine-troy-jackson-ad-portland-oregon.html"
   ],
   [
-    "york",
-    23,
-    "https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html"
+    "los",
+    27,
+    "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident"
+  ],
+  [
+    "angeles",
+    27,
+    "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident"
   ],
   [
     "campaign",
     23,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "game",
-    23,
-    "https://www.theguardian.com/sport/2026/oct/12/deshaun-watson-browns-jets-nfl-week-five-column"
-  ],
-  [
-    "angeles",
-    23,
-    "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident"
+    "https://www.nytimes.com/2026/10/12/us/politics/james-talarico-ohio-texas-senate-race.html"
   ],
   [
     "war",
@@ -76,14 +56,9 @@
     "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html"
   ],
   [
-    "death",
+    "omar",
     22,
-    "https://www.nytimes.com/2026/10/12/us/grieving-mother-seattle-mariners-tickets.html"
-  ],
-  [
-    "saudi",
-    22,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.washingtonpost.com/nation/2026/10/12/federal-agents-search-rep-ilhan-omars-dc-home/"
   ],
   [
     "voters",
@@ -91,74 +66,114 @@
     "https://www.theguardian.com/us-news/2026/oct/12/regina-romero-arizona-democrats-house-midterms"
   ],
   [
-    "district",
+    "democratic",
     21,
-    "https://www.latimes.com/entertainment-arts/story/2026-10-12/hammer-museum-director-zoe-ryan-has-bold-ideas-for-next-chapter"
+    "https://www.nytimes.com/2026/10/12/us/politics/james-talarico-ohio-texas-senate-race.html"
   ],
   [
-    "again",
+    "senate",
+    21,
+    "https://www.nytimes.com/2026/10/12/us/politics/james-talarico-ohio-texas-senate-race.html"
+  ],
+  [
+    "flight",
+    21,
+    "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident"
+  ],
+  [
+    "food",
+    21,
+    "https://www.theguardian.com/stage/2026/oct/13/keira-knightley-luke-thompson-hacking-stasi-spy-play-the-lives-of-others"
+  ],
+  [
+    "police",
     20,
-    "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport"
-  ],
-  [
-    "department",
-    19,
-    "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html"
-  ],
-  [
-    "airport",
-    19,
-    "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport"
-  ],
-  [
-    "republicans",
-    18,
-    "https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html"
+    "https://www.washingtonpost.com/nation/2026/10/12/mamdani-orders-review-new-york-police-use-of-force-policies/"
   ],
   [
     "political",
-    18,
-    "https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html"
+    20,
+    "https://www.theguardian.com/commentisfree/2026/oct/13/europes-big-election-season-is-about-to-kick-off-it-could-change-everything"
   ],
   [
-    "social",
-    18,
+    "york",
+    20,
+    "https://www.theguardian.com/books/2026/oct/13/peck-peck-by-bonnie-garmus-review-the-zany-follow-up-to-lessons-in-chemistry"
+  ],
+  [
+    "actor",
+    20,
+    "https://www.theguardian.com/culture/2026/oct/12/rj-mitte-breaking-bad-actor-death"
+  ],
+  [
+    "russia",
+    19,
+    "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html"
+  ],
+  [
+    "republicans",
+    19,
+    "https://www.nytimes.com/2026/10/12/us/politics/james-talarico-ohio-texas-senate-race.html"
+  ],
+  [
+    "security",
+    19,
     "https://www.nytimes.com/2026/10/12/business/social-security-income-retirement-benefits.html"
   ],
   [
     "review",
-    18,
+    19,
     "https://www.washingtonpost.com/nation/2026/10/12/mamdani-orders-review-new-york-police-use-of-force-policies/"
   ],
   [
-    "police",
+    "saudi",
+    19,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "don",
+    19,
+    "https://www.theguardian.com/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull"
+  ],
+  [
+    "district",
+    19,
+    "https://www.theguardian.com/us-news/2026/oct/12/judge-orders-halt-taxpayer-funded-pro-trump-ads"
+  ],
+  [
+    "proposition",
+    19,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
+  ],
+  [
+    "election",
     18,
-    "https://www.washingtonpost.com/nation/2026/10/12/mamdani-orders-review-new-york-police-use-of-force-policies/"
+    "https://www.theguardian.com/commentisfree/2026/oct/13/europes-big-election-season-is-about-to-kick-off-it-could-change-everything"
   ],
   [
-    "flight",
+    "ahead",
     18,
-    "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident"
+    "https://www.theguardian.com/commentisfree/2026/oct/13/europes-big-election-season-is-about-to-kick-off-it-could-change-everything"
   ],
   [
-    "security",
-    17,
-    "https://www.nytimes.com/2026/10/12/business/social-security-income-retirement-benefits.html"
+    "death",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/oct/12/scientist-russia-plague-victim-lab-worker-pandemic"
   ],
   [
-    "family",
-    17,
-    "https://www.washingtonpost.com/lifestyle/2026/10/12/her-brother-died-during-world-war-ii-now-104-she-finally-has-his-dog-tag/"
+    "amendment",
+    18,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "actor",
+    "energy",
     17,
-    "https://www.theguardian.com/music/2026/oct/12/jay-z-in-8-hbo-documentary-series"
+    "https://www.nytimes.com/2026/10/12/business/economy/imf-global-economic-outlook.html"
   ],
   [
-    "money",
+    "series",
     17,
-    "https://www.theguardian.com/music/2026/oct/12/jay-z-in-8-hbo-documentary-series"
+    "https://www.theguardian.com/books/2026/oct/13/peck-peck-by-bonnie-garmus-review-the-zany-follow-up-to-lessons-in-chemistry"
   ],
   [
     "protein",
@@ -166,9 +181,9 @@
     "https://www.theguardian.com/thefilter-us/2026/oct/12/protein-powder-faq-dietitians"
   ],
   [
-    "proposition",
+    "tax",
     17,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
+    "https://www.theguardian.com/world/2026/oct/12/roman-abramovich-aides-paperwork-tax-records-suggest"
   ],
   [
     "attacks",
@@ -176,59 +191,84 @@
     "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html"
   ],
   [
+    "prices",
+    16,
+    "https://www.nytimes.com/2026/10/12/business/economy/imf-global-economic-outlook.html"
+  ],
+  [
+    "loss",
+    16,
+    "https://www.nytimes.com/2026/10/12/opinion/alzheimers-elderly-parent.html"
+  ],
+  [
+    "far",
+    16,
+    "https://www.washingtonpost.com/politics/2026/10/11/how-supreme-court-is-reshaping-limits-religious-rights-america/"
+  ],
+  [
+    "least",
+    16,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "park",
+    16,
+    "https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels"
+  ],
+  [
+    "seat",
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/12/regina-romero-arizona-democrats-house-midterms"
+  ],
+  [
+    "weekend",
+    16,
+    "https://www.theguardian.com/world/2026/oct/12/this-is-india-electoral-revision-protests"
+  ],
+  [
+    "film",
+    16,
+    "https://www.theguardian.com/stage/2026/oct/13/keira-knightley-luke-thompson-hacking-stasi-spy-play-the-lives-of-others"
+  ],
+  [
+    "super",
+    15,
+    "https://www.nytimes.com/2026/10/12/us/politics/maine-troy-jackson-ad-portland-oregon.html"
+  ],
+  [
+    "global",
+    15,
+    "https://www.nytimes.com/2026/10/13/world/europe/fifa-trump-tower-infantino.html"
+  ],
+  [
+    "mitte",
+    15,
+    "https://www.nytimes.com/2026/10/12/arts/television/rj-mitte-dead.html"
+  ],
+  [
+    "died",
+    15,
+    "https://www.nytimes.com/2026/10/09/business/media/wayne-lawson-dead.html"
+  ],
+  [
     "agents",
-    16,
-    "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html"
-  ],
-  [
-    "elections",
-    16,
-    "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html"
-  ],
-  [
-    "judge",
-    16,
-    "https://www.nytimes.com/2026/10/12/us/politics/judge-trees-golf-trump.html"
-  ],
-  [
-    "latest",
-    16,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "county",
-    16,
-    "https://www.theguardian.com/us-news/2026/oct/12/georgia-gwinnett-county-midterm-elections"
-  ],
-  [
-    "russian",
     15,
-    "https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html"
+    "https://www.washingtonpost.com/nation/2026/10/12/federal-agents-search-rep-ilhan-omars-dc-home/"
   ],
   [
-    "ukraine",
+    "rep",
     15,
-    "https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html"
+    "https://www.washingtonpost.com/nation/2026/10/12/federal-agents-search-rep-ilhan-omars-dc-home/"
   ],
   [
-    "administration",
+    "ilhan",
     15,
-    "https://www.nytimes.com/2026/10/12/us/politics/judge-trees-golf-trump.html"
+    "https://www.washingtonpost.com/nation/2026/10/12/federal-agents-search-rep-ilhan-omars-dc-home/"
   ],
   [
-    "recent",
+    "because",
     15,
-    "https://www.washingtonpost.com/lifestyle/2026/10/11/he-was-frail-shelter-pup-now-he-works-search-and-rescue-disaster-zones/"
-  ],
-  [
-    "young",
-    15,
-    "https://www.washingtonpost.com/nation/2026/10/10/8-dead-mass-shooting-erie-pennsylvania-authorities-say/"
-  ],
-  [
-    "questions",
-    15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.washingtonpost.com/education/2026/10/12/defendants-lawyer-cornell-case-asks-judge-put-limits-public-statements/"
   ],
   [
     "attack",
@@ -236,9 +276,39 @@
     "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "red",
+    "investigation",
     15,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
+  ],
+  [
+    "country",
+    15,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "europe",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull"
+  ],
+  [
+    "power",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/oct/13/europes-big-election-season-is-about-to-kick-off-it-could-change-everything"
+  ],
+  [
+    "pro",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/oct/13/europes-big-election-season-is-about-to-kick-off-it-could-change-everything"
+  ],
+  [
+    "county",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/12/georgia-gwinnett-county-midterm-elections"
+  ],
+  [
+    "elections",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/12/georgia-gwinnett-county-midterm-elections"
   ],
   [
     "charter",
@@ -246,133 +316,63 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "gop",
-    15,
-    "https://www.cbsnews.com/news/mike-johnson-republican-leader-midterms-2026/"
+    "spent",
+    14,
+    "https://www.nytimes.com/2026/10/12/us/politics/james-talarico-ohio-texas-senate-race.html"
   ],
   [
-    "midterm",
+    "social",
     14,
-    "https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html"
-  ],
-  [
-    "far",
-    14,
-    "https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html"
-  ],
-  [
-    "loss",
-    14,
-    "https://www.nytimes.com/2026/10/12/opinion/alzheimers-elderly-parent.html"
-  ],
-  [
-    "children",
-    14,
-    "https://www.washingtonpost.com/nation/2026/10/10/8-dead-mass-shooting-erie-pennsylvania-authorities-say/"
-  ],
-  [
-    "country",
-    14,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "black",
-    14,
-    "https://www.theguardian.com/music/2026/oct/12/jay-z-in-8-hbo-documentary-series"
+    "https://www.nytimes.com/2026/10/12/business/social-security-income-retirement-benefits.html"
   ],
   [
     "breaking",
     14,
-    "https://www.theguardian.com/culture/2026/oct/12/rj-mitte-breaking-bad-actor-death"
+    "https://www.nytimes.com/2026/10/12/arts/television/rj-mitte-dead.html"
   ],
   [
-    "seat",
+    "georgia",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/12/regina-romero-arizona-democrats-house-midterms"
+    "https://www.washingtonpost.com/nation/2026/10/12/sea-turtle-nests-broke-record-this-year-why-thats-good-thing/"
   ],
   [
-    "democratic",
+    "family",
     14,
-    "https://www.theguardian.com/commentisfree/2026/oct/12/the-guardian-view-on-narendra-modis-gen-z-crackdown-he-cannot-arrest-his-way-out-of-a-democratic-crisis"
+    "https://www.washingtonpost.com/lifestyle/2026/10/12/her-brother-died-during-world-war-ii-now-104-she-finally-has-his-dog-tag/"
   ],
   [
-    "tax",
+    "questions",
     14,
-    "https://www.theguardian.com/world/2026/oct/12/roman-abramovich-aides-paperwork-tax-records-suggest"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "congressional",
+    "ice",
     14,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "amendment",
+    "media",
     14,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
+    "https://www.theguardian.com/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull"
   ],
   [
-    "russia",
-    13,
-    "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html"
+    "party",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/oct/13/europes-big-election-season-is-about-to-kick-off-it-could-change-everything"
   ],
   [
-    "senate",
-    13,
-    "https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html"
+    "price",
+    14,
+    "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
   ],
   [
-    "history",
-    13,
-    "https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html"
+    "airport",
+    14,
+    "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident"
   ],
   [
-    "place",
-    13,
-    "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html"
-  ],
-  [
-    "justice",
-    13,
-    "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html"
-  ],
-  [
-    "candidates",
-    13,
-    "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html"
-  ],
-  [
-    "mother",
-    13,
-    "https://www.nytimes.com/2026/10/12/us/grieving-mother-seattle-mariners-tickets.html"
-  ],
-  [
-    "games",
-    13,
-    "https://www.nytimes.com/2026/10/12/us/grieving-mother-seattle-mariners-tickets.html"
-  ],
-  [
-    "answer",
-    13,
-    "https://www.nytimes.com/2026/10/12/us/politics/judge-trees-golf-trump.html"
-  ],
-  [
-    "hundreds",
-    13,
-    "https://www.nytimes.com/2026/10/12/us/politics/judge-trees-golf-trump.html"
-  ],
-  [
-    "series",
-    13,
-    "https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html"
-  ],
-  [
-    "measles",
-    13,
-    "https://www.washingtonpost.com/health/2026/10/12/sixth-person-who-had-measles-died-pennsylvania-local-coroner-says/"
-  ],
-  [
-    "died",
-    13,
-    "https://www.washingtonpost.com/health/2026/10/12/sixth-person-who-had-measles-died-pennsylvania-local-coroner-says/"
+    "money",
+    14,
+    "https://www.theguardian.com/music/2026/oct/12/jay-z-in-8-hbo-documentary-series"
   ]
 ];
