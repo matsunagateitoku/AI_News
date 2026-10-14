@@ -2,153 +2,173 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    91,
-    "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html"
+    101,
+    "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html"
   ],
   [
     "guide",
-    63,
+    64,
     "https://www.theguardian.com/thefilter-us/2026/oct/13/best-mattress-topper"
   ],
   [
-    "california",
-    48,
-    "https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder"
+    "president",
+    52,
+    "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html"
   ],
   [
-    "president",
-    37,
-    "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html"
+    "california",
+    49,
+    "https://www.washingtonpost.com/nation/2026/10/12/california-beaches-homes-slammed-by-waves-tropical-storm-rachel/"
   ],
   [
     "race",
-    37,
-    "https://www.theguardian.com/sport/2026/oct/13/f1-returns-to-africa-for-first-time-since-1993-with-10-year-rwanda-deal-from-early-2030s"
+    44,
+    "https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html"
   ],
   [
-    "game",
-    34,
-    "https://www.theguardian.com/sport/2026/oct/13/wnba-finals-atlanta-dream-golden-state-valkyries-state-farm-arena-schedule"
-  ],
-  [
-    "political",
-    26,
-    "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html"
-  ],
-  [
-    "don",
-    26,
-    "https://www.nytimes.com/2026/10/13/opinion/homelessness-unhoused-denver-shelters.html"
-  ],
-  [
-    "campaign",
-    26,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "senate",
+    30,
+    "https://www.nytimes.com/2026/10/13/us/politics/georgia-senate-debate-ossoff-collins.html"
   ],
   [
     "death",
-    24,
-    "https://www.theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans"
+    29,
+    "https://www.theguardian.com/music/2026/oct/14/beatles-brian-epstein-gary-kemp-spandau-ballet"
+  ],
+  [
+    "game",
+    28,
+    "https://www.theguardian.com/sport/2026/oct/13/rays-guardians-alcs-game-two-freddy-peralta-jose-ramirez"
   ],
   [
     "republican",
-    22,
+    26,
     "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html"
   ],
   [
     "district",
-    22,
-    "https://www.theguardian.com/us-news/2026/oct/13/martin-shkreli-ftc-ruling-pharma-ban"
+    26,
+    "https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico"
   ],
   [
-    "secretary",
-    20,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "lung",
+    25,
+    "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html"
   ],
   [
-    "social",
-    20,
-    "https://www.theguardian.com/business/ng-interactive/2026/oct/13/influencers-passive-income-side-hustles"
+    "debate",
+    25,
+    "https://www.nytimes.com/2026/10/13/us/politics/georgia-senate-debate-ossoff-collins.html"
   ],
   [
-    "russia",
-    19,
+    "don",
+    25,
+    "https://www.theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans"
+  ],
+  [
+    "judge",
+    24,
+    "https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html"
+  ],
+  [
+    "campaign",
+    24,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "cancer",
+    23,
+    "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html"
+  ],
+  [
+    "political",
+    23,
     "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html"
   ],
   [
-    "republicans",
-    19,
-    "https://www.theguardian.com/us-news/2026/oct/13/midterm-elections-kansas-minnesota-florida-congressional-district"
+    "alaska",
+    22,
+    "https://www.nytimes.com/2026/10/13/us/elections/trump-pardons-midterms-payments.html"
+  ],
+  [
+    "pope",
+    21,
+    "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html"
+  ],
+  [
+    "series",
+    21,
+    "https://www.washingtonpost.com/nation/2026/10/13/rj-mitte/"
   ],
   [
     "los",
-    19,
+    21,
     "https://www.theguardian.com/sport/2026/oct/13/rams-bills-monday-night-football-nfl"
   ],
   [
     "angeles",
-    19,
+    21,
     "https://www.theguardian.com/sport/2026/oct/13/rams-bills-monday-night-football-nfl"
   ],
   [
-    "food",
-    19,
-    "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them"
+    "democratic",
+    20,
+    "https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html"
   ],
   [
-    "voters",
+    "leo",
     19,
-    "https://www.theguardian.com/business/2026/oct/08/economy-midterm-elections-tell-us"
+    "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html"
   ],
   [
-    "war",
-    18,
-    "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html"
+    "rally",
+    19,
+    "https://www.nytimes.com/2026/10/13/us/elections/trump-pardons-midterms-payments.html"
   ],
   [
     "police",
     18,
-    "https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html"
+    "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html"
   ],
   [
-    "loss",
+    "social",
     18,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/10/13/arts/music/joni-mitchell-us-citizenship.html"
   ],
   [
-    "democrats",
+    "local",
     18,
-    "https://www.theguardian.com/us-news/2026/oct/13/midterm-elections-kansas-minnesota-florida-congressional-district"
+    "https://www.washingtonpost.com/health/2026/10/12/sixth-person-who-had-measles-died-pennsylvania-local-coroner-says/"
   ],
   [
-    "case",
-    18,
-    "https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder"
+    "early",
+    17,
+    "https://www.nytimes.com/2026/10/13/well/pope-leo-lung-cancer-adenocarcinoma.html"
   ],
   [
-    "series",
-    18,
-    "https://www.theguardian.com/us-news/2026/oct/13/florida-prision-execution-james-robertson"
+    "war",
+    17,
+    "https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html"
   ],
   [
-    "candidates",
-    18,
-    "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections"
+    "voters",
+    17,
+    "https://www.nytimes.com/2026/10/13/us/elections/trump-pardons-midterms-payments.html"
+  ],
+  [
+    "midterms",
+    17,
+    "https://www.nytimes.com/2026/10/13/us/elections/trump-pardons-midterms-payments.html"
   ],
   [
     "review",
     17,
-    "https://www.nytimes.com/2026/10/13/us/politics/supreme-court-doge-musk-public-records.html"
+    "https://www.washingtonpost.com/nation/2026/10/12/mamdani-orders-review-new-york-police-use-of-force-policies/"
   ],
   [
-    "saudi",
+    "election",
     17,
-    "https://www.nytimes.com/2026/10/13/business/saudi-arabia-houthi-oil.html"
-  ],
-  [
-    "star",
-    17,
-    "https://www.theguardian.com/environment/2026/oct/13/sunflower-sea-star-california-kelp-forests"
+    "https://www.theguardian.com/society/2026/oct/14/brandon-guffey-gavin-killed-himelf-online-scam-sextortionist"
   ],
   [
     "protein",
@@ -161,94 +181,74 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "midterm",
+    "department",
     16,
-    "https://www.nytimes.com/2026/10/13/us/politics/top-gop-groups-pull-support-from-first-house-incumbents.html"
+    "https://www.washingtonpost.com/politics/2026/10/13/rep-omar-investigation-focuses-birthdate-citizenship-papers-people-familiar-say/"
   ],
   [
-    "cornell",
+    "republicans",
     16,
-    "https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html"
+    "https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms"
   ],
   [
-    "released",
+    "seat",
     16,
-    "https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html"
+    "https://www.theguardian.com/sport/2026/oct/13/wnba-finals-atlanta-dream-golden-state-valkyries-state-farm-arena-schedule"
   ],
   [
-    "donald",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/oct/13/trump-lies-conspiracies-katie-zacharia-press-secretary"
-  ],
-  [
-    "senate",
-    16,
-    "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections"
-  ],
-  [
-    "power",
-    16,
-    "https://www.theguardian.com/news/video/2026/oct/13/i-will-not-be-silenced-trump-critic-ilhan-omar-defiant-after-home-raided-the-latest"
-  ],
-  [
-    "races",
+    "questions",
     15,
-    "https://www.nytimes.com/2026/10/13/us/politics/top-gop-groups-pull-support-from-first-house-incumbents.html"
-  ],
-  [
-    "iran",
-    15,
-    "https://www.nytimes.com/2026/10/12/business/economy/bananas-iran-war.html"
-  ],
-  [
-    "court",
-    15,
-    "https://www.nytimes.com/2026/10/13/us/politics/supreme-court-doge-musk-public-records.html"
-  ],
-  [
-    "attacks",
-    15,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "ice",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "money",
-    15,
-    "https://www.theguardian.com/business/ng-interactive/2026/oct/13/influencers-passive-income-side-hustles"
-  ],
-  [
-    "elections",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/13/midterm-elections-kansas-minnesota-florida-congressional-district"
-  ],
-  [
-    "something",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull"
+    "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html"
   ],
   [
     "york",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/13/cornell-suspends-university-parties"
+    "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-missteps.html"
   ],
   [
-    "prices",
+    "final",
+    15,
+    "https://www.nytimes.com/2026/10/13/us/politics/georgia-senate-debate-ossoff-collins.html"
+  ],
+  [
+    "announced",
+    15,
+    "https://www.nytimes.com/2026/10/13/us/elections/trump-pardons-midterms-payments.html"
+  ],
+  [
+    "family",
+    15,
+    "https://www.nytimes.com/2026/10/13/magazine/sterlin-harjo-lowdown-reservation-dogs-oklahoma.html"
+  ],
+  [
+    "secretary",
+    15,
+    "https://www.nytimes.com/2026/10/13/us/politics/katie-zacharia-white-house-first-briefing.html"
+  ],
+  [
+    "term",
+    15,
+    "https://www.washingtonpost.com/education/2026/10/13/school-prayer-trans-athletes-other-education-issues-are-midterm-ballots/"
+  ],
+  [
+    "court",
+    15,
+    "https://www.washingtonpost.com/politics/2026/10/11/how-supreme-court-is-reshaping-limits-religious-rights-america/"
+  ],
+  [
+    "fire",
+    15,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "night",
+    15,
+    "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy"
+  ],
+  [
+    "play",
     15,
     "https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms"
-  ],
-  [
-    "games",
-    15,
-    "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology"
-  ],
-  [
-    "seat",
-    15,
-    "https://www.theguardian.com/sport/2026/oct/13/wnba-finals-atlanta-dream-golden-state-valkyries-state-farm-arena-schedule"
   ],
   [
     "charter",
@@ -256,123 +256,123 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "early",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "amendment",
+    15,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "having",
+    "cornell",
     14,
-    "https://www.theguardian.com/business/ng-interactive/2026/oct/13/influencers-passive-income-side-hustles"
+    "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-missteps.html"
   ],
   [
     "university",
     14,
-    "https://www.theguardian.com/science/video/2026/oct/13/the-surprising-psychology-of-morbid-curiosity-video"
+    "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-takeaways.html"
   ],
   [
-    "play",
+    "died",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms"
+    "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html"
   ],
   [
-    "democratic",
+    "case",
     14,
-    "https://www.theguardian.com/news/video/2026/oct/13/i-will-not-be-silenced-trump-critic-ilhan-omar-defiant-after-home-raided-the-latest"
+    "https://www.washingtonpost.com/nation/2026/10/13/florida-executes-inmate-with-same-method-tennessee-used-botched-pike-case/"
   ],
   [
-    "congressional",
+    "loss",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "amendment",
+    "love",
     14,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
+    "https://www.theguardian.com/society/2026/oct/14/brandon-guffey-gavin-killed-himelf-online-scam-sextortionist"
+  ],
+  [
+    "power",
+    14,
+    "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy"
+  ],
+  [
+    "star",
+    14,
+    "https://www.theguardian.com/environment/2026/oct/13/sunflower-sea-star-california-kelp-forests"
+  ],
+  [
+    "act",
+    14,
+    "https://www.theguardian.com/sport/2026/oct/13/athletics-scrub-womens-marathon-world-record-ruth-chepngetich"
+  ],
+  [
+    "county",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/13/pennsylvania-measles-sixth-death"
+  ],
+  [
+    "food",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them"
   ],
   [
     "guilfoyle",
     13,
-    "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html"
+    "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html"
   ],
   [
-    "ambassador",
+    "administration",
     13,
-    "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html"
+    "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-missteps.html"
   ],
   [
-    "assault",
+    "georgia",
     13,
-    "https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html"
+    "https://www.nytimes.com/2026/10/13/us/politics/georgia-senate-debate-ossoff-collins.html"
+  ],
+  [
+    "ossoff",
+    13,
+    "https://www.nytimes.com/2026/10/13/us/politics/georgia-senate-debate-ossoff-collins.html"
+  ],
+  [
+    "again",
+    13,
+    "https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html"
+  ],
+  [
+    "won",
+    13,
+    "https://www.nytimes.com/2026/10/14/opinion/netanyahu-eisenkot-israel-election.html"
+  ],
+  [
+    "rep",
+    13,
+    "https://www.washingtonpost.com/politics/2026/10/13/rep-omar-investigation-focuses-birthdate-citizenship-papers-people-familiar-say/"
   ],
   [
     "murder",
     13,
-    "https://www.nytimes.com/2026/10/13/arts/music/tupac-shakur-murder-duane-keith-davis-sentenced.html"
+    "https://www.washingtonpost.com/nation/2026/10/13/duane-keffe-d-davis-sentenced-tupac-shakur-murder-trial/"
   ],
   [
-    "held",
+    "worst",
     13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.washingtonpost.com/health/2026/10/12/sixth-person-who-had-measles-died-pennsylvania-local-coroner-says/"
   ],
   [
-    "team",
+    "saudi",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "love",
+    "ice",
     13,
-    "https://www.theguardian.com/commentisfree/2026/oct/13/trump-lies-conspiracies-katie-zacharia-press-secretary"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "midterms",
+    "something",
     13,
-    "https://www.theguardian.com/us-news/2026/oct/13/midterm-elections-kansas-minnesota-florida-congressional-district"
-  ],
-  [
-    "nearly",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull"
-  ],
-  [
-    "judge",
-    13,
-    "https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder"
-  ],
-  [
-    "spending",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections"
-  ],
-  [
-    "night",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/13/medicaid-healthcare-reform-law-requirements-1-january"
-  ],
-  [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/oct/13/best-mattress-topper"
-  ],
-  [
-    "local",
-    13,
-    "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital"
-  ],
-  [
-    "course",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/13/judge-orders-halt-dc-golf-course"
-  ],
-  [
-    "hundreds",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/13/ohio-ice-deportation-flights"
-  ],
-  [
-    "county",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/13/pennsylvania-measles-sixth-death"
+    "https://www.theguardian.com/music/2026/oct/14/beatles-brian-epstein-gary-kemp-spandau-ballet"
   ]
 ];

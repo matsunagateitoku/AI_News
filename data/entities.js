@@ -2,15 +2,21 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "First World Series",
+      "name": "Nlcs Game 3",
+      "count": 3,
+      "url": "https://www.foxnews.com/outkick-sports/dave-roberts-keeps-shohei-ohtani-dodgers-nlcs-game-3-lineup-despite-postseason-struggles",
+      "source": "Fox News"
+    },
+    {
+      "name": "World Cup",
       "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores",
+      "url": "https://www.theguardian.com/football/2026/oct/13/uswnt-spain-friendly-ashley-sanchez-mallory-swanson",
       "source": "The Guardian"
     },
     {
-      "name": "Game 2",
+      "name": "Hurricane Isaias",
       "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/hurricane-isaias-death-toll-florida",
       "source": "The Guardian"
     },
     {
@@ -20,15 +26,15 @@
       "source": "LA Times"
     },
     {
-      "name": "The Iran War",
+      "name": "World War Ii",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/10/12/business/economy/bananas-iran-war.html",
-      "source": "NY Times"
+      "url": "https://www.washingtonpost.com/lifestyle/2026/10/12/her-brother-died-during-world-war-ii-now-104-she-finally-has-his-dog-tag/",
+      "source": "Washington Post"
     },
     {
-      "name": "The “Pharma Bro” –",
+      "name": "Game 4",
       "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/martin-shkreli-ftc-ruling-pharma-ban",
+      "url": "https://www.theguardian.com/sport/2026/oct/13/wnba-finals-atlanta-dream-golden-state-valkyries-state-farm-arena-schedule",
       "source": "The Guardian"
     },
     {
@@ -38,15 +44,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "Game 3",
+      "name": "The “Pharma Bro” –",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/13/wnba-finals-atlanta-dream-golden-state-valkyries-state-farm-arena-schedule",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Game 4",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/13/wnba-finals-atlanta-dream-golden-state-valkyries-state-farm-arena-schedule",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/martin-shkreli-ftc-ruling-pharma-ban",
       "source": "The Guardian"
     },
     {
@@ -65,157 +65,89 @@
   "GPE": [
     {
       "name": "Baja California",
-      "count": 40,
+      "count": 42,
       "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
       "source": "The Guardian"
     },
     {
       "name": "Us",
-      "count": 39,
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/midterm-elections-kansas-minnesota-florida-congressional-district",
+      "count": 35,
+      "url": "https://www.theguardian.com/science/video/2026/oct/13/the-surprising-psychology-of-morbid-curiosity-video",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 24,
+      "count": 23,
       "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
       "source": "NY Times"
     },
     {
-      "name": "Russia",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
+      "name": "Alaska",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/10/13/us/elections/trump-pardons-midterms-payments.html",
       "source": "NY Times"
     },
     {
       "name": "L.A. County",
-      "count": 15,
+      "count": 13,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Iran",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
-      "source": "NY Times"
+      "name": "Florida",
+      "count": 11,
+      "url": "https://www.washingtonpost.com/nation/2026/10/13/florida-executes-inmate-with-same-method-tennessee-used-botched-pike-case/",
+      "source": "Washington Post"
     },
     {
       "name": "New York City",
-      "count": 12,
+      "count": 11,
       "url": "https://www.theguardian.com/us-news/2026/oct/13/martin-shkreli-ftc-ruling-pharma-ban",
       "source": "The Guardian"
     },
     {
-      "name": "Ukraine",
+      "name": "Georgia",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
+      "url": "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html",
       "source": "NY Times"
     },
     {
       "name": "Greece",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Saudi Arabia Joining Fighter-Jet Program",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
-      "source": "Wall St. Journal"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 28,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/trump-lies-conspiracies-katie-zacharia-press-secretary",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kimberly Guilfoyle Resigns",
       "count": 9,
-      "url": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
+      "url": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html",
       "source": "NY Times"
     },
     {
-      "name": "Katie Zacharia",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/trump-lies-conspiracies-katie-zacharia-press-secretary",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Josh Allen",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/oct/13/rams-bills-monday-night-football-nfl",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Rams",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/oct/13/rams-bills-monday-night-football-nfl",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vladimir Putin",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/brexit-vladimir-putin-russia-referendum-result-eu",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mitte",
-      "count": 6,
-      "url": "https://www.theguardian.com/tv-and-radio/gallery/2026/oct/13/rj-mitte-death-breaking-bad-gallery-life-in-pictures",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Elon Musk",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ilhan Omar",
-      "count": 5,
-      "url": "https://www.theguardian.com/news/video/2026/oct/13/i-will-not-be-silenced-trump-critic-ilhan-omar-defiant-after-home-raided-the-latest",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Susan Brison",
-      "count": 5,
-      "url": "https://www.theguardian.com/society/2026/oct/12/couple-devastating-attack-sexual-assault-rape",
+      "name": "Uk",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/palantir-british-state-controversial-us-company-tom-watson",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump On Protect College Sports",
-      "count": 52,
-      "url": "https://www.foxnews.com/outkick-sports/dan-le-batard-thinks-patrick-mahomes-athletes-obligated-oppose-trump-protect-college-sports",
+      "name": "Trump Energy Department",
+      "count": 58,
+      "url": "https://www.foxnews.com/us/trump-energy-department-issues-emergency-order-prevent-blackouts-13-states-unusual-october-heat",
       "source": "Fox News"
     },
     {
-      "name": "Ai",
-      "count": 33,
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans",
+      "name": "Ai  Crouched",
+      "count": 24,
+      "url": "https://www.theguardian.com/world/2026/oct/14/landmines-ukraine-demining-drones-ai",
       "source": "The Guardian"
     },
     {
       "name": "The White House",
-      "count": 16,
+      "count": 22,
       "url": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
       "source": "NY Times"
     },
     {
-      "name": "Cornell University",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/cornell-suspends-university-parties",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Us Senate",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections",
-      "source": "The Guardian"
+      "name": "Georgia Senate",
+      "count": 19,
+      "url": "https://www.nbcnews.com/politics/2026-election/heated-georgia-senate-debate-jon-ossoff-says-wont-run-president-2028-rcna603300",
+      "source": "NBC News"
     },
     {
       "name": "The Filter Us",
@@ -224,29 +156,97 @@
       "source": "The Guardian"
     },
     {
-      "name": "State Farm Arena    Potential Game",
+      "name": "Vatican",
       "count": 10,
-      "url": "https://www.theguardian.com/sport/2026/oct/13/wnba-finals-atlanta-dream-golden-state-valkyries-state-farm-arena-schedule",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Atlanta Dream",
-      "count": 8,
-      "url": "https://www.latimes.com/sports/story/2026-10-13/atlanta-dream-wnba-finals-state-farm-arena-golden-state-valkryies",
-      "source": "LA Times"
+      "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
+      "source": "NY Times"
     },
     {
       "name": "Gop",
-      "count": 8,
+      "count": 9,
       "url": "https://www.politico.com/news/2026/10/09/poll-trump-voters-candidate-breaks-battlegrounds-01112449",
       "source": "Politico"
     },
     {
-      "name": "Wpc Energy Congress",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/10/13/business/saudi-arabia-houthi-oil.html",
+      "name": "Cnn",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Cornell University",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/cornell-suspends-university-parties",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Apple Airpods 5",
+      "count": 7,
+      "url": "https://www.theguardian.com/technology/2026/oct/13/apple-airpods-5-review-the-best-open-fit-earbuds-yet",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-10-13T19:47:49Z"
+  "PERSON": [
+    {
+      "name": "Dan J Sullivan  Donald Trump",
+      "count": 31,
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/trump-urges-alaska-vote-republican-dan-sullivan-midterms-battle",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kimberly Guilfoyle Resigns",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Leo Xiv’S",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jon Ossoff",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/10/13/us/politics/georgia-senate-debate-ossoff-collins.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Shohei Ohtani",
+      "count": 7,
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-13/dave-roberts-shohei-ohtani-dodgers",
+      "source": "LA Times"
+    },
+    {
+      "name": "Pope Leo",
+      "count": 6,
+      "url": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Timothy Kelly",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Josh Allen",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/oct/13/rams-bills-monday-night-football-nfl",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Tupac Shakur",
+      "count": 6,
+      "url": "https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Rams Ol",
+      "count": 6,
+      "url": "https://www.foxnews.com/outkick-sports/rams-ol-alaric-jackson-expecting-two-game-suspension-punching-bills-defender-bradley-chubb",
+      "source": "Fox News"
+    }
+  ],
+  "updated": "2026-10-14T05:57:03Z"
 };
