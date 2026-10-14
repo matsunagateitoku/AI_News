@@ -2,7 +2,7 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    70,
+    74,
     "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html"
   ],
   [
@@ -12,128 +12,98 @@
   ],
   [
     "california",
-    56,
-    "https://www.nytimes.com/2026/10/14/us/xavier-becerra-latino-california-governor.html"
-  ],
-  [
-    "race",
-    42,
-    "https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html"
+    60,
+    "https://www.theguardian.com/us-news/2026/oct/14/great-white-shark-huntington-beach"
   ],
   [
     "president",
-    35,
+    40,
     "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html"
   ],
   [
-    "social",
-    30,
-    "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html"
-  ],
-  [
-    "game",
-    30,
-    "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores"
-  ],
-  [
-    "voters",
-    24,
-    "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion"
-  ],
-  [
-    "don",
-    24,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/14/georgia-midterms-election-official-politics"
-  ],
-  [
-    "political",
-    23,
-    "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html"
-  ],
-  [
-    "senate",
-    22,
+    "race",
+    40,
     "https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html"
   ],
   [
-    "security",
-    21,
-    "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html"
+    "social",
+    33,
+    "https://www.theguardian.com/wellness/2026/oct/14/christopher-gardner-food-sense-interview"
   ],
   [
-    "lung",
-    21,
-    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
-  ],
-  [
-    "cancer",
-    21,
-    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
+    "don",
+    27,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/14/georgia-midterms-election-official-politics"
   ],
   [
     "death",
-    21,
+    25,
     "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
   ],
   [
+    "ukraine",
+    24,
+    "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html"
+  ],
+  [
     "review",
-    21,
-    "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates"
+    23,
+    "https://www.theguardian.com/football/2026/oct/14/gianni-infantino-fifa-council-meeting-opponents-world-cup-balogun-peace-prize"
+  ],
+  [
+    "voters",
+    22,
+    "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion"
   ],
   [
     "republican",
-    21,
-    "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines"
+    22,
+    "https://www.theguardian.com/us-news/2026/oct/14/ex-fiance-nancy-mace-sex-crimes-speech"
   ],
   [
-    "dodgers",
+    "war",
     21,
-    "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores"
+    "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html"
   ],
   [
-    "los",
+    "media",
     21,
-    "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores"
+    "https://www.theguardian.com/wellness/2026/oct/14/christopher-gardner-food-sense-interview"
   ],
   [
-    "angeles",
-    21,
-    "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores"
+    "senate",
+    20,
+    "https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html"
+  ],
+  [
+    "lung",
+    20,
+    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
+  ],
+  [
+    "campaign",
+    20,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "police",
+    20,
+    "https://www.theguardian.com/us-news/2026/oct/14/great-wolf-lodge-woman-allegedly-kills-husband-son"
   ],
   [
     "district",
     20,
-    "https://www.theguardian.com/us-news/2026/oct/14/judge-trump-icc-sanctions-gaza-war-crimes"
+    "https://www.theguardian.com/us-news/2026/oct/14/texas-ice-agent-assault-charge"
   ],
   [
-    "cost",
+    "food",
     19,
-    "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html"
+    "https://www.theguardian.com/wellness/2026/oct/14/christopher-gardner-food-sense-interview"
   ],
   [
-    "ukraine",
+    "political",
     19,
-    "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html"
-  ],
-  [
-    "war",
-    19,
-    "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html"
-  ],
-  [
-    "pope",
-    19,
-    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
-  ],
-  [
-    "leo",
-    19,
-    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
-  ],
-  [
-    "latest",
-    19,
-    "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html"
+    "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion"
   ],
   [
     "republicans",
@@ -141,14 +111,44 @@
     "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing"
   ],
   [
-    "series",
-    19,
-    "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores"
+    "attacks",
+    18,
+    "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html"
   ],
   [
-    "money",
+    "cancer",
     18,
-    "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html"
+    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
+  ],
+  [
+    "security",
+    18,
+    "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html"
+  ],
+  [
+    "questions",
+    18,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "air",
+    18,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "department",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion"
+  ],
+  [
+    "tested",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/14/trump-supreme-court-explainer"
+  ],
+  [
+    "court",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/14/trump-supreme-court-explainer"
   ],
   [
     "protein",
@@ -156,39 +156,19 @@
     "https://www.theguardian.com/thefilter-us/2026/oct/14/tinned-fish-taste-test"
   ],
   [
-    "attacks",
-    17,
-    "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html"
-  ],
-  [
-    "feel",
-    17,
-    "https://www.nytimes.com/2026/10/14/magazine/california-billionaires-tax.html"
-  ],
-  [
-    "fire",
-    17,
-    "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html"
-  ],
-  [
-    "police",
-    17,
-    "https://www.nytimes.com/2026/10/14/us/lansing-michigan-serial-killer.html"
-  ],
-  [
-    "elections",
+    "again",
     17,
     "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing"
   ],
   [
-    "department",
+    "change",
     17,
-    "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion"
+    "https://www.theguardian.com/world/2026/oct/14/conor-mcgregor-nikita-hand-civil-rape-case"
   ],
   [
-    "brewers",
+    "election",
     17,
-    "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/14/georgia-midterms-election-official-politics"
   ],
   [
     "proposition",
@@ -196,59 +176,89 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "family",
+    "inflation",
     16,
-    "https://www.nytimes.com/2026/10/14/well/family/coming-out-midlife.html"
+    "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html"
   ],
   [
-    "assault",
+    "loss",
     16,
-    "https://www.nytimes.com/2026/10/14/us/university-chicago-fraternity-sexual-assault.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "campaign",
+    "ice",
     16,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "midterm",
+    "fire",
     16,
-    "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing"
-  ],
-  [
-    "administration",
-    16,
-    "https://www.theguardian.com/us-news/video/2026/oct/14/what-will-drive-american-voters-to-the-polls-in-the-midterm-elections-video-explainer"
-  ],
-  [
-    "court",
-    16,
-    "https://www.theguardian.com/us-news/2026/oct/14/judge-trump-icc-sanctions-gaza-war-crimes"
-  ],
-  [
-    "food",
-    16,
-    "https://www.theguardian.com/wellness/2026/oct/14/christopher-gardner-food-sense-interview"
-  ],
-  [
-    "iran",
-    15,
-    "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "donald",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing"
+    16,
+    "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion"
   ],
   [
-    "media",
-    15,
-    "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates"
+    "faces",
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/14/trump-press-secretary-lawyer-zacharia"
   ],
   [
-    "human",
+    "game",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/oct/14/golf-trying-quit"
+  ],
+  [
+    "amendment",
+    16,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
+  ],
+  [
+    "midterm",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/14/judge-trump-icc-sanctions-gaza-war-crimes"
+    "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html"
+  ],
+  [
+    "elections",
+    15,
+    "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html"
+  ],
+  [
+    "wife",
+    15,
+    "https://www.nytimes.com/2026/10/14/well/family/coming-out-midlife.html"
+  ],
+  [
+    "family",
+    15,
+    "https://www.nytimes.com/2026/10/14/well/family/coming-out-midlife.html"
+  ],
+  [
+    "agents",
+    15,
+    "https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html"
+  ],
+  [
+    "latest",
+    15,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "candidates",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion"
+  ],
+  [
+    "cost",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress"
+  ],
+  [
+    "products",
+    15,
+    "https://www.theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit"
   ],
   [
     "county",
@@ -256,24 +266,24 @@
     "https://www.theguardian.com/us-news/ng-interactive/2026/oct/14/georgia-midterms-election-official-politics"
   ],
   [
-    "change",
+    "love",
     15,
-    "https://www.theguardian.com/world/2026/oct/14/conor-mcgregor-nikita-hand-civil-rape-case"
+    "https://www.theguardian.com/film/2026/oct/14/how-we-lost-our-appetite-for-eat-the-rich-satire"
   ],
   [
-    "book",
-    15,
-    "https://www.theguardian.com/world/2026/oct/14/conor-mcgregor-nikita-hand-civil-rape-case"
-  ],
-  [
-    "full",
-    15,
-    "https://www.theguardian.com/food/2026/oct/14/mark-zuckerberg-guinness"
-  ],
-  [
-    "play",
+    "feel",
     15,
     "https://www.theguardian.com/commentisfree/2026/oct/14/golf-trying-quit"
+  ],
+  [
+    "los",
+    15,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-measure-fd-sales-tax-hike-fire-department-voter-guide"
+  ],
+  [
+    "angeles",
+    15,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-measure-fd-sales-tax-hike-fire-department-voter-guide"
   ],
   [
     "charter",
@@ -281,49 +291,49 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "amendment",
-    15,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
-  ],
-  [
-    "living",
+    "support",
     14,
-    "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html"
+    "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html"
   ],
   [
-    "sexual",
+    "price",
+    14,
+    "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html"
+  ],
+  [
+    "pope",
+    14,
+    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
+  ],
+  [
+    "assault",
     14,
     "https://www.nytimes.com/2026/10/14/us/university-chicago-fraternity-sexual-assault.html"
   ],
   [
-    "loss",
+    "immigration",
     14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "tested",
+    "really",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/oct/14/tinned-fish-taste-test"
+    "https://www.theguardian.com/wellness/2026/oct/14/christopher-gardner-food-sense-interview"
   ],
   [
-    "filter",
+    "health",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/oct/14/tinned-fish-taste-test"
+    "https://www.theguardian.com/wellness/2026/oct/14/christopher-gardner-food-sense-interview"
   ],
   [
-    "government",
+    "democratic",
     14,
-    "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september"
+    "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion"
   ],
   [
-    "election",
+    "money",
     14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/14/georgia-midterms-election-official-politics"
-  ],
-  [
-    "paxton",
-    14,
-    "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines"
+    "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress"
   ],
   [
     "case",
@@ -331,48 +341,38 @@
     "https://www.theguardian.com/world/2026/oct/14/conor-mcgregor-nikita-hand-civil-rape-case"
   ],
   [
-    "love",
+    "press",
     14,
-    "https://www.theguardian.com/society/2026/oct/14/brandon-guffey-gavin-killed-himelf-online-scam-sextortionist"
+    "https://www.theguardian.com/us-news/2026/oct/14/trump-press-secretary-lawyer-zacharia"
   ],
   [
-    "nfl",
+    "local",
     14,
-    "https://www.theguardian.com/sport/2026/oct/14/nfl-star-tyreek-hills-estranged-wife-awarded-500000-damages-in-battery-trial"
+    "https://www.theguardian.com/us-news/2026/oct/14/great-wolf-lodge-woman-allegedly-kills-husband-son"
   ],
   [
-    "something",
+    "filter",
     14,
-    "https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago"
+    "https://www.theguardian.com/thefilter-us/2026/oct/14/tinned-fish-taste-test"
   ],
   [
-    "recent",
-    13,
-    "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html"
+    "paxton",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines"
   ],
   [
-    "support",
-    13,
-    "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html"
-  ],
-  [
-    "because",
-    13,
-    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
-  ],
-  [
-    "wife",
-    13,
-    "https://www.nytimes.com/2026/10/14/well/family/coming-out-midlife.html"
+    "prop",
+    14,
+    "https://www.latimes.com/environment/story/2026-10-14/californias-prop-45-aims-to-speed-construction-projects-opponents-say-data-centers-will-benefit"
   ],
   [
     "tax",
-    13,
-    "https://www.nytimes.com/2026/10/14/magazine/california-billionaires-tax.html"
+    14,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "country",
+    "military",
     13,
-    "https://www.nytimes.com/2026/10/14/science/electromagnetic-pulse-nuke-trump-officials.html"
+    "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html"
   ]
 ];
