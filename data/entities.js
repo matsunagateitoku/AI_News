@@ -2,196 +2,140 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Draws Low Marks",
-      "count": 61,
-      "url": "https://www.politico.com/news/2026/10/04/trump-latino-voters-slip-midterms-01106273",
-      "source": "Politico"
+      "name": "Trump Derangement Syndrome",
+      "count": 40,
+      "url": "https://www.foxnews.com/entertainment/white-house-slams-chicks-natalie-maines-peanut-sized-brain-insult-singer-takes-aim-trump",
+      "source": "Fox News"
     },
     {
-      "name": "Ai Security Institute",
-      "count": 41,
-      "url": "https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 20,
-      "url": "https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
+      "name": "Ai",
+      "count": 32,
+      "url": "https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons",
       "source": "The Guardian"
     },
     {
       "name": "The Us Senate",
-      "count": 20,
+      "count": 17,
       "url": "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vatican",
-      "count": 13,
-      "url": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 12,
-      "url": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
-      "source": "NPR"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 11,
-      "url": "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them",
       "source": "The Guardian"
     },
     {
       "name": "Nfl",
-      "count": 10,
+      "count": 14,
       "url": "https://www.theguardian.com/sport/2026/oct/14/nfl-star-tyreek-hills-estranged-wife-awarded-500000-damages-in-battery-trial",
       "source": "The Guardian"
     },
     {
+      "name": "The Filter Us",
+      "count": 12,
+      "url": "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
       "name": "Guardian",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/video/2026/oct/14/what-will-drive-american-voters-to-the-polls-in-the-midterm-elections-video-explainer",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion",
       "source": "The Guardian"
     },
     {
-      "name": "House Of Representatives",
-      "count": 9,
-      "url": "https://www.theguardian.com/society/2026/oct/14/brandon-guffey-gavin-killed-himelf-online-scam-sextortionist",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Dan J Sullivan  Donald Trump",
-      "count": 40,
-      "url": "https://www.theguardian.com/us-news/2026/oct/14/trump-urges-alaska-vote-republican-dan-sullivan-midterms-battle",
-      "source": "The Guardian"
+      "name": "Gop",
+      "count": 10,
+      "url": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
+      "source": "NPR"
     },
     {
-      "name": "Leo Xiv",
-      "count": 9,
+      "name": "Vatican",
+      "count": 8,
       "url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html",
       "source": "NY Times"
     },
     {
-      "name": "Ilhan Omar",
+      "name": "Cornell University",
       "count": 8,
-      "url": "https://www.washingtonpost.com/politics/2026/10/13/rep-omar-investigation-focuses-birthdate-citizenship-papers-people-familiar-say/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Pope Leo",
-      "count": 8,
-      "url": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ken Paxton",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kimberly Guilfoyle",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html",
+      "url": "https://www.nytimes.com/2026/10/14/us/university-chicago-fraternity-sexual-assault.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Timothy Kelly",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Duane “Keffe D” Davis",
-      "count": 5,
-      "url": "https://www.washingtonpost.com/nation/2026/10/13/duane-keffe-d-davis-sentenced-tupac-shakur-murder-trial/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Mike Tyson",
-      "count": 5,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/14/mike-tyson-docuseries-netflix",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mary Peltola",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/oct/14/trump-urges-alaska-vote-republican-dan-sullivan-midterms-battle",
-      "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 48,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion",
+      "count": 54,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 25,
-      "url": "https://www.nytimes.com/2026/10/13/arts/music/joni-mitchell-us-citizenship.html",
-      "source": "NY Times"
+      "name": "Baja California",
+      "count": 48,
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+      "source": "The Guardian"
     },
     {
-      "name": "L.A. County",
-      "count": 14,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Russia",
-      "count": 13,
+      "name": "Ukraine",
+      "count": 16,
       "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
       "source": "NY Times"
     },
     {
-      "name": "California",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/10/14/us/xavier-becerra-latino-california-governor.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Iran",
-      "count": 10,
+      "count": 16,
       "url": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
       "source": "NY Times"
     },
     {
+      "name": "U.S.",
+      "count": 15,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
       "name": "Uk",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/cornell-president-fraternity-sexual-assault-interview",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County",
+      "count": 15,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "New York City",
       "count": 10,
-      "url": "https://www.theguardian.com/uk-news/2026/oct/14/william-chapman-family-tiger-attack-online-content-trump-reposts-video",
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/new-york-city-horse-drawn-carriages-ban",
       "source": "The Guardian"
     },
     {
-      "name": "London",
-      "count": 9,
-      "url": "https://www.theguardian.com/music/2026/oct/14/beatles-brian-epstein-gary-kemp-spandau-ballet",
-      "source": "The Guardian"
+      "name": "Russia",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
+      "source": "NY Times"
     },
     {
-      "name": "New York",
-      "count": 9,
-      "url": "https://www.theguardian.com/sport/2026/oct/13/mark-sanchez-indianapolis-civil-case-stabbing",
+      "name": "Washington Dc",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion",
       "source": "The Guardian"
-    },
-    {
-      "name": "Alaska",
-      "count": 9,
-      "url": "https://www.foxnews.com/politics/trump-says-we-are-looking-into-other-dan-sullivan-alaska-ballot-warns-about-governors-race",
-      "source": "Fox News"
     }
   ],
   "EVENT": [
     {
-      "name": "The World Cup",
-      "count": 5,
-      "url": "https://www.latimes.com/business/story/2026-10-13/world-cup-was-bad-for-some-businesses-in-los-angeles",
-      "source": "LA Times"
+      "name": "World Cup",
+      "count": 4,
+      "url": "https://www.theguardian.com/football/2026/oct/13/uswnt-spain-friendly-ashley-sanchez-mallory-swanson",
+      "source": "The Guardian"
+    },
+    {
+      "name": "First World Series",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores",
+      "source": "The Guardian"
     },
     {
       "name": "The Us Open",
@@ -200,53 +144,109 @@
       "source": "The Guardian"
     },
     {
-      "name": "Hurricane Isaias",
+      "name": "L.A. City Charter Amendment Pl: Streamlining Planning Department",
       "count": 2,
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/hurricane-isaias-death-toll-florida",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Game 3",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/13/rays-guardians-alcs-game-two-freddy-peralta-jose-ramirez",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Breaking Bad",
-      "count": 1,
-      "url": "https://www.theguardian.com/tv-and-radio/gallery/2026/oct/13/rj-mitte-death-breaking-bad-gallery-life-in-pictures",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Cma Awards",
-      "count": 1,
-      "url": "https://www.latimes.com/entertainment-arts/music/story/2026-10-14/carter-faith-cherry-valley-interview",
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-pl-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "The Iran War'S",
-      "count": 1,
-      "url": "https://www.foxnews.com/politics/iran-wars-unexpected-impact-us-defenses-against-china-threat-downplayed-top-army-leader",
+      "name": "Nlcs Game 3",
+      "count": 2,
+      "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-5-get-100-dodgers-brewers-game-3",
       "source": "Fox News"
     },
     {
-      "name": "The National Day",
+      "name": "The Arab World Now",
       "count": 1,
-      "url": "https://www.foxnews.com/opinion/socialism-looks-appealing-when-schools-refuse-teach-horrific-real-world-cost",
-      "source": "Fox News"
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/judge-trump-icc-sanctions-gaza-war-crimes",
+      "source": "The Guardian"
     },
     {
-      "name": "World War Ii",
+      "name": "Game 2",
       "count": 1,
-      "url": "https://www.cbsnews.com/news/world-war-ii-grenades-found-texas-estate-sale/",
+      "url": "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. City Charter Amendment La",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "L.A. City Charter Amendment Prk",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-election-los-angeles-city-charter-amendment-prk-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "L.A. City Charter Amendment Prt",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-los-angeles-city-election-charter-amendment-prt-voter-guide",
+      "source": "LA Times"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump",
+      "count": 24,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pope Leo Xiv",
+      "count": 11,
+      "url": "https://www.cbsnews.com/news/pope-leo-lung-cancer-prognosis-doctors/",
       "source": "CBS News"
     },
     {
-      "name": "The 1988 Video Privacy Protection Act",
-      "count": 1,
-      "url": "https://thehill.com/regulation/court-battles/6146833-supreme-court-video-privacy-paramount-digital-tracking/",
-      "source": "The Hill"
+      "name": "Ken Paxton",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Joni Mitchell",
+      "count": 7,
+      "url": "https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kimberly Guilfoyle",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kelly Clarkson",
+      "count": 6,
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-10-12/kelly-clarksons-art-of-play-feud-explained",
+      "source": "LA Times"
+    },
+    {
+      "name": "Dodgers 2-0",
+      "count": 6,
+      "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-brewers-dodgers-game-3",
+      "source": "Fox News"
+    },
+    {
+      "name": "Leo Xiv’S",
+      "count": 6,
+      "url": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-cancer-surgery-hospital-diagnosis-treatment-rcna603413",
+      "source": "NBC News"
+    },
+    {
+      "name": "Norma",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/2026/oct/14/mistura-review-peruvian-drama-barbara-mori",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Karen Bass",
+      "count": 5,
+      "url": "https://www.latimes.com/california/story/2026-10-14/karen-bass-los-angeles-political-establishment",
+      "source": "LA Times"
     }
   ],
-  "updated": "2026-10-14T12:45:50Z"
+  "updated": "2026-10-14T17:53:41Z"
 };

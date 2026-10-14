@@ -2,208 +2,298 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    108,
-    "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html"
+    70,
+    "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html"
   ],
   [
-    "president",
-    51,
-    "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html"
+    "guide",
+    65,
+    "https://www.theguardian.com/thefilter-us/2026/oct/14/tinned-fish-taste-test"
   ],
   [
-    "cancer",
-    34,
-    "https://www.nytimes.com/2026/10/14/podcasts/the-headlines/kimberly-guilfoyle-pope-cancer.html"
+    "california",
+    56,
+    "https://www.nytimes.com/2026/10/14/us/xavier-becerra-latino-california-governor.html"
   ],
   [
-    "senate",
-    28,
+    "race",
+    42,
     "https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html"
   ],
   [
-    "lung",
-    26,
-    "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html"
-  ],
-  [
-    "don",
-    25,
-    "https://www.nytimes.com/2026/10/13/well/longevity-experts-advice.html"
-  ],
-  [
-    "death",
-    25,
-    "https://www.theguardian.com/music/2026/oct/14/beatles-brian-epstein-gary-kemp-spandau-ballet"
-  ],
-  [
-    "political",
-    24,
-    "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html"
-  ],
-  [
-    "pope",
-    24,
-    "https://www.nytimes.com/2026/10/14/podcasts/the-headlines/kimberly-guilfoyle-pope-cancer.html"
-  ],
-  [
-    "leo",
-    24,
-    "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html"
-  ],
-  [
-    "court",
-    22,
-    "https://www.washingtonpost.com/politics/2026/10/14/does-video-store-privacy-law-apply-online-supreme-court-will-decide/"
-  ],
-  [
-    "judge",
-    22,
-    "https://www.washingtonpost.com/education/2026/10/12/defendants-lawyer-cornell-case-asks-judge-put-limits-public-statements/"
-  ],
-  [
-    "midterm",
-    21,
-    "https://www.washingtonpost.com/nation/2026/10/14/rising-costs-are-forcing-retired-teacher-scale-back-her-daily-life/"
-  ],
-  [
-    "latest",
-    20,
-    "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html"
+    "president",
+    35,
+    "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html"
   ],
   [
     "social",
-    20,
-    "https://www.nytimes.com/2026/10/13/arts/music/joni-mitchell-us-citizenship.html"
+    30,
+    "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html"
   ],
   [
-    "republicans",
-    20,
-    "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september"
+    "game",
+    30,
+    "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores"
   ],
   [
-    "election",
-    19,
-    "https://www.washingtonpost.com/politics/2026/10/14/how-pre-election-search-rep-ilhan-omars-home-breaks-justice-dept-norms/"
+    "voters",
+    24,
+    "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion"
   ],
   [
-    "case",
-    19,
-    "https://www.washingtonpost.com/nation/2026/10/13/florida-executes-inmate-with-same-method-tennessee-used-botched-pike-case/"
+    "don",
+    24,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/14/georgia-midterms-election-official-politics"
+  ],
+  [
+    "political",
+    23,
+    "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html"
+  ],
+  [
+    "senate",
+    22,
+    "https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html"
+  ],
+  [
+    "security",
+    21,
+    "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html"
+  ],
+  [
+    "lung",
+    21,
+    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
+  ],
+  [
+    "cancer",
+    21,
+    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
+  ],
+  [
+    "death",
+    21,
+    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
   ],
   [
     "review",
+    21,
+    "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates"
+  ],
+  [
+    "republican",
+    21,
+    "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines"
+  ],
+  [
+    "dodgers",
+    21,
+    "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores"
+  ],
+  [
+    "los",
+    21,
+    "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores"
+  ],
+  [
+    "angeles",
+    21,
+    "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores"
+  ],
+  [
+    "district",
+    20,
+    "https://www.theguardian.com/us-news/2026/oct/14/judge-trump-icc-sanctions-gaza-war-crimes"
+  ],
+  [
+    "cost",
     19,
-    "https://www.washingtonpost.com/nation/2026/10/12/mamdani-orders-review-new-york-police-use-of-force-policies/"
+    "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html"
   ],
   [
-    "police",
-    18,
-    "https://www.washingtonpost.com/nation/2026/10/12/mamdani-orders-review-new-york-police-use-of-force-policies/"
-  ],
-  [
-    "debate",
-    18,
-    "https://www.washingtonpost.com/nation/2026/10/12/mamdani-orders-review-new-york-police-use-of-force-policies/"
-  ],
-  [
-    "final",
-    18,
-    "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september"
+    "ukraine",
+    19,
+    "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html"
   ],
   [
     "war",
-    17,
-    "https://www.nytimes.com/2026/10/14/science/electromagnetic-pulse-nuke-trump-officials.html"
+    19,
+    "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html"
   ],
   [
-    "donald",
+    "pope",
+    19,
+    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
+  ],
+  [
+    "leo",
+    19,
+    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
+  ],
+  [
+    "latest",
+    19,
+    "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html"
+  ],
+  [
+    "republicans",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing"
+  ],
+  [
+    "series",
+    19,
+    "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores"
+  ],
+  [
+    "money",
+    18,
+    "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html"
+  ],
+  [
+    "protein",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/oct/14/tinned-fish-taste-test"
+  ],
+  [
+    "attacks",
+    17,
+    "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html"
+  ],
+  [
+    "feel",
+    17,
+    "https://www.nytimes.com/2026/10/14/magazine/california-billionaires-tax.html"
+  ],
+  [
+    "fire",
+    17,
+    "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html"
+  ],
+  [
+    "police",
+    17,
+    "https://www.nytimes.com/2026/10/14/us/lansing-michigan-serial-killer.html"
+  ],
+  [
+    "elections",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing"
+  ],
+  [
+    "department",
     17,
     "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion"
   ],
   [
-    "protein",
+    "brewers",
     17,
-    "https://www.theguardian.com/thefilter-us/2026/oct/12/protein-powder-faq-dietitians"
+    "https://www.theguardian.com/sport/2026/oct/12/mlb-playoffs-scores"
   ],
   [
-    "race",
+    "proposition",
+    17,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
+  ],
+  [
+    "family",
     16,
-    "https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html"
+    "https://www.nytimes.com/2026/10/14/well/family/coming-out-midlife.html"
+  ],
+  [
+    "assault",
+    16,
+    "https://www.nytimes.com/2026/10/14/us/university-chicago-fraternity-sexual-assault.html"
+  ],
+  [
+    "campaign",
+    16,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "midterm",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing"
+  ],
+  [
+    "administration",
+    16,
+    "https://www.theguardian.com/us-news/video/2026/oct/14/what-will-drive-american-voters-to-the-polls-in-the-midterm-elections-video-explainer"
+  ],
+  [
+    "court",
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/14/judge-trump-icc-sanctions-gaza-war-crimes"
   ],
   [
     "food",
     16,
-    "https://www.washingtonpost.com/nation/2026/10/14/rising-costs-are-forcing-retired-teacher-scale-back-her-daily-life/"
+    "https://www.theguardian.com/wellness/2026/oct/14/christopher-gardner-food-sense-interview"
   ],
   [
-    "security",
-    16,
-    "https://www.washingtonpost.com/politics/2026/10/13/rep-omar-investigation-focuses-birthdate-citizenship-papers-people-familiar-say/"
-  ],
-  [
-    "term",
-    16,
-    "https://www.washingtonpost.com/education/2026/10/13/school-prayer-trans-athletes-other-education-issues-are-midterm-ballots/"
-  ],
-  [
-    "series",
-    16,
-    "https://www.washingtonpost.com/nation/2026/10/13/rj-mitte/"
-  ],
-  [
-    "something",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/14/mike-tyson-docuseries-netflix"
-  ],
-  [
-    "midterms",
-    16,
-    "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september"
-  ],
-  [
-    "country",
+    "iran",
     15,
-    "https://www.nytimes.com/2026/10/14/science/electromagnetic-pulse-nuke-trump-officials.html"
+    "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html"
   ],
   [
-    "announced",
+    "donald",
     15,
-    "https://www.nytimes.com/2026/10/13/arts/music/joni-mitchell-us-citizenship.html"
-  ],
-  [
-    "tested",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/14/trump-supreme-court-explainer"
-  ],
-  [
-    "attacks",
-    14,
-    "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html"
-  ],
-  [
-    "love",
-    14,
-    "https://www.nytimes.com/2026/10/14/opinion/ezra-klein-podcast-sherry-turkle.html"
+    "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing"
   ],
   [
     "media",
-    14,
-    "https://www.nytimes.com/2026/10/13/arts/music/joni-mitchell-us-citizenship.html"
+    15,
+    "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates"
   ],
   [
-    "elections",
-    14,
-    "https://www.washingtonpost.com/business/2026/10/14/prices-increased-september-last-inflation-report-ahead-elections/"
+    "human",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/14/judge-trump-icc-sanctions-gaza-war-crimes"
   ],
   [
-    "department",
-    14,
-    "https://www.washingtonpost.com/politics/2026/10/13/rep-omar-investigation-focuses-birthdate-citizenship-papers-people-familiar-say/"
+    "county",
+    15,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/14/georgia-midterms-election-official-politics"
   ],
   [
-    "voters",
+    "change",
+    15,
+    "https://www.theguardian.com/world/2026/oct/14/conor-mcgregor-nikita-hand-civil-rape-case"
+  ],
+  [
+    "book",
+    15,
+    "https://www.theguardian.com/world/2026/oct/14/conor-mcgregor-nikita-hand-civil-rape-case"
+  ],
+  [
+    "full",
+    15,
+    "https://www.theguardian.com/food/2026/oct/14/mark-zuckerberg-guinness"
+  ],
+  [
+    "play",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/oct/14/golf-trying-quit"
+  ],
+  [
+    "charter",
+    15,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
+  ],
+  [
+    "amendment",
+    15,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
+  ],
+  [
+    "living",
     14,
-    "https://www.washingtonpost.com/education/2026/10/13/school-prayer-trans-athletes-other-education-issues-are-midterm-ballots/"
+    "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html"
+  ],
+  [
+    "sexual",
+    14,
+    "https://www.nytimes.com/2026/10/14/us/university-chicago-fraternity-sexual-assault.html"
   ],
   [
     "loss",
@@ -211,168 +301,78 @@
     "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "team",
+    "tested",
     14,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/thefilter-us/2026/oct/14/tinned-fish-taste-test"
   ],
   [
-    "republican",
+    "filter",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/oct/14/tinned-fish-taste-test"
+  ],
+  [
+    "government",
+    14,
+    "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september"
+  ],
+  [
+    "election",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/14/georgia-midterms-election-official-politics"
+  ],
+  [
+    "paxton",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines"
+  ],
+  [
+    "case",
+    14,
+    "https://www.theguardian.com/world/2026/oct/14/conor-mcgregor-nikita-hand-civil-rape-case"
+  ],
+  [
+    "love",
     14,
     "https://www.theguardian.com/society/2026/oct/14/brandon-guffey-gavin-killed-himelf-online-scam-sextortionist"
   ],
   [
-    "night",
+    "nfl",
     14,
-    "https://www.theguardian.com/sport/2026/oct/13/rays-guardians-alcs-game-two-freddy-peralta-jose-ramirez"
+    "https://www.theguardian.com/sport/2026/oct/14/nfl-star-tyreek-hills-estranged-wife-awarded-500000-damages-in-battery-trial"
   ],
   [
-    "products",
+    "something",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/14/visionquest-review-marvel-paul-bettany-wandavision-disney"
+    "https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago"
   ],
   [
-    "full",
-    14,
-    "https://www.theguardian.com/music/2026/oct/14/stevie-wonder-review-songs-in-the-key-of-life-50th-anniversary-live-utilita-arena-birmingham-uk-tour"
-  ],
-  [
-    "administration",
+    "recent",
     13,
-    "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-missteps.html"
+    "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html"
   ],
   [
-    "ahead",
+    "support",
     13,
-    "https://www.washingtonpost.com/business/2026/10/14/prices-increased-september-last-inflation-report-ahead-elections/"
-  ],
-  [
-    "democratic",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion"
-  ],
-  [
-    "book",
-    13,
-    "https://www.theguardian.com/music/2026/oct/14/beatles-brian-epstein-gary-kemp-spandau-ballet"
-  ],
-  [
-    "vatican",
-    13,
-    "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung"
-  ],
-  [
-    "human",
-    13,
-    "https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet"
-  ],
-  [
-    "family",
-    13,
-    "https://www.theguardian.com/uk-news/2026/oct/14/william-chapman-family-tiger-attack-online-content-trump-reposts-video"
-  ],
-  [
-    "again",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines"
-  ],
-  [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/oct/13/best-mattress-topper"
-  ],
-  [
-    "guide",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/oct/13/best-mattress-topper"
-  ],
-  [
-    "russia",
-    12,
-    "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html"
-  ],
-  [
-    "power",
-    12,
-    "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html"
-  ],
-  [
-    "early",
-    12,
     "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html"
   ],
   [
-    "california",
-    12,
-    "https://www.nytimes.com/2026/10/14/us/xavier-becerra-latino-california-governor.html"
-  ],
-  [
-    "questions",
-    12,
-    "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html"
-  ],
-  [
-    "cornell",
-    12,
-    "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-missteps.html"
-  ],
-  [
-    "rape",
-    12,
-    "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-missteps.html"
-  ],
-  [
-    "york",
-    12,
-    "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-missteps.html"
-  ],
-  [
-    "far",
-    12,
-    "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html"
-  ],
-  [
-    "prices",
-    12,
-    "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html"
-  ],
-  [
-    "inflation",
-    12,
-    "https://www.washingtonpost.com/business/2026/10/14/prices-increased-september-last-inflation-report-ahead-elections/"
-  ],
-  [
-    "research",
-    12,
-    "https://www.washingtonpost.com/health/2026/10/14/long-after-menopause-ovary-is-still-work/"
-  ],
-  [
-    "law",
-    12,
-    "https://www.washingtonpost.com/politics/2026/10/14/does-video-store-privacy-law-apply-online-supreme-court-will-decide/"
-  ],
-  [
-    "least",
-    12,
-    "https://www.washingtonpost.com/nation/2026/10/13/confusion-delayed-aid-christa-pike-after-botched-execution-911-calls-show/"
-  ],
-  [
     "because",
-    12,
-    "https://www.washingtonpost.com/education/2026/10/12/defendants-lawyer-cornell-case-asks-judge-put-limits-public-statements/"
+    13,
+    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
   ],
   [
-    "campaign",
-    12,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "wife",
+    13,
+    "https://www.nytimes.com/2026/10/14/well/family/coming-out-midlife.html"
   ],
   [
-    "ice",
-    12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "tax",
+    13,
+    "https://www.nytimes.com/2026/10/14/magazine/california-billionaires-tax.html"
   ],
   [
-    "feel",
-    12,
-    "https://www.theguardian.com/us-news/video/2026/oct/14/what-will-drive-american-voters-to-the-polls-in-the-midterm-elections-video-explainer"
+    "country",
+    13,
+    "https://www.nytimes.com/2026/10/14/science/electromagnetic-pulse-nuke-trump-officials.html"
   ]
 ];
