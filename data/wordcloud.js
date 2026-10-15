@@ -7,183 +7,218 @@
   ],
   [
     "guide",
-    65,
+    64,
     "https://www.theguardian.com/thefilter-us/2026/oct/14/tinned-fish-taste-test"
   ],
   [
-    "race",
-    45,
-    "https://www.theguardian.com/us-news/2026/oct/15/texas-democrat-james-talarico-televised-town-hall-us-politics"
+    "california",
+    44,
+    "https://www.latimes.com/california/story/2026-10-15/ev-owners-beware-el-nino-flooding-brings-risk-of-battery-fires"
   ],
   [
     "president",
-    43,
+    42,
     "https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html"
   ],
   [
-    "california",
-    42,
-    "https://www.latimes.com/california/story/2026-10-14/westside-particularly-vulnerable-as-powerful-santa-ana-winds-bring-fire-danger-experts-say"
-  ],
-  [
-    "voters",
-    30,
-    "https://www.nytimes.com/2026/10/15/opinion/israel-elections-ultra-orthodox-jewish.html"
-  ],
-  [
-    "don",
-    28,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/14/georgia-midterms-election-official-politics"
+    "race",
+    40,
+    "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html"
   ],
   [
     "republican",
-    25,
-    "https://www.nytimes.com/2026/10/14/us/politics/democratic-donor-senate-red-state-ads.html"
+    29,
+    "https://www.nytimes.com/2026/10/15/us/adam-hamilton-religious-democrats-candidates.html"
   ],
   [
-    "ice",
-    25,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "voters",
+    29,
+    "https://www.nytimes.com/2026/10/14/us/politics/trump-midterms-voters-grocery-prices.html"
+  ],
+  [
+    "election",
+    28,
+    "https://www.nytimes.com/2026/10/15/us/politics/texas-voter-registration-lawsuit.html"
+  ],
+  [
+    "don",
+    27,
+    "https://www.nytimes.com/2026/10/14/well/pope-lung-cancer-screening.html"
+  ],
+  [
+    "food",
+    26,
+    "https://www.theguardian.com/food/2026/oct/15/food-delivery-apps-cost-economy"
   ],
   [
     "republicans",
     25,
-    "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing"
-  ],
-  [
-    "senate",
-    24,
-    "https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html"
-  ],
-  [
-    "los",
-    24,
-    "https://www.theguardian.com/sport/2026/oct/14/brewers-dodgers-nlcs-game-3-bauers-mitchell-home-runs"
-  ],
-  [
-    "questions",
-    22,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "review",
-    22,
-    "https://www.theguardian.com/music/2026/oct/14/stevie-wonder-review-songs-in-the-key-of-life-50th-anniversary-live-utilita-arena-birmingham-uk-tour"
-  ],
-  [
-    "war",
-    21,
-    "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html"
-  ],
-  [
-    "campaign",
-    21,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "election",
-    21,
-    "https://www.theguardian.com/us-news/2026/oct/14/ilhan-omar-phone-seized-relatives-subpoenaed"
-  ],
-  [
-    "game",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/oct/14/golf-trying-quit"
-  ],
-  [
-    "feel",
-    20,
-    "https://www.theguardian.com/global-development/2026/oct/15/afghanistan-drought-hunger-displaced-families-girls-child-marriage-poverty"
-  ],
-  [
-    "angeles",
-    20,
-    "https://www.theguardian.com/sport/2026/oct/14/brewers-dodgers-nlcs-game-3-bauers-mitchell-home-runs"
+    "https://www.nytimes.com/2026/10/15/us/politics/elon-musk-timothy-mellon-house-republicans.html"
   ],
   [
     "police",
-    20,
-    "https://www.theguardian.com/football/2026/oct/14/austin-fc-ice-banner-mls-political-speech-policy"
+    24,
+    "https://www.nytimes.com/2026/10/15/us/texas-students-bad-behavior-criminal-charges.html"
   ],
   [
-    "government",
-    19,
-    "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html"
+    "campaign",
+    24,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "loss",
-    19,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "ukraine",
+    23,
+    "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html"
   ],
   [
-    "midterms",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing"
+    "feel",
+    23,
+    "https://www.nytimes.com/2026/10/14/us/politics/trump-midterms-voters-grocery-prices.html"
   ],
   [
-    "fire",
-    18,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "death",
+    23,
+    "https://www.theguardian.com/commentisfree/2026/oct/14/the-guardian-view-on-spains-snap-election-high-stakes-for-europe-as-pedro-sanchez-gambles-again"
   ],
   [
-    "food",
-    18,
-    "https://www.theguardian.com/wellness/2026/oct/14/christopher-gardner-food-sense-interview"
+    "south",
+    22,
+    "https://www.theguardian.com/us-news/2026/oct/15/us-officials-ad-campaign-south-africa-afrikaners-refugees"
+  ],
+  [
+    "art",
+    22,
+    "https://www.theguardian.com/artanddesign/2026/oct/15/popel-review-y-fronts-crawl-new-york-modern-art-london"
+  ],
+  [
+    "senate",
+    21,
+    "https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html"
   ],
   [
     "university",
-    18,
-    "https://www.theguardian.com/wellness/2026/oct/14/christopher-gardner-food-sense-interview"
-  ],
-  [
-    "midterm",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing"
-  ],
-  [
-    "protein",
-    18,
-    "https://www.theguardian.com/thefilter-us/2026/oct/14/tinned-fish-taste-test"
-  ],
-  [
-    "series",
-    18,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/14/girls-reboot-hbo"
-  ],
-  [
-    "states",
-    17,
-    "https://www.nytimes.com/2026/10/14/us/politics/democratic-donor-senate-red-state-ads.html"
-  ],
-  [
-    "really",
-    17,
-    "https://www.theguardian.com/wellness/2026/oct/14/christopher-gardner-food-sense-interview"
+    21,
+    "https://www.theguardian.com/us-news/2026/oct/14/sexual-assault-report-uchicago"
   ],
   [
     "change",
+    20,
+    "https://www.nytimes.com/2026/10/14/well/pope-lung-cancer-screening.html"
+  ],
+  [
+    "midterms",
+    20,
+    "https://www.nytimes.com/2026/10/14/us/politics/trump-midterms-voters-grocery-prices.html"
+  ],
+  [
+    "midterm",
+    20,
+    "https://www.theguardian.com/us-news/video/2026/oct/15/why-one-of-the-uss-reddest-counties-is-losing-faith-in-trump-video"
+  ],
+  [
+    "economy",
+    20,
+    "https://www.theguardian.com/food/2026/oct/15/food-delivery-apps-cost-economy"
+  ],
+  [
+    "review",
+    20,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/15/the-diplomat-review-nothing-else-on-tv-is-as-entertaining-as-this-exquisitely-stressful-show"
+  ],
+  [
+    "los",
+    20,
+    "https://www.theguardian.com/sport/2026/oct/14/brewers-dodgers-nlcs-game-3-bauers-mitchell-home-runs"
+  ],
+  [
+    "states",
+    19,
+    "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html"
+  ],
+  [
+    "candidates",
+    19,
+    "https://www.nytimes.com/2026/10/15/us/politics/elon-musk-timothy-mellon-house-republicans.html"
+  ],
+  [
+    "film",
+    19,
+    "https://www.theguardian.com/film/2026/oct/15/jesse-eisenberg-10-best-film-performances-ranked"
+  ],
+  [
+    "really",
+    19,
+    "https://www.theguardian.com/football/2026/oct/14/austin-fc-ice-banner-mls-political-speech-policy"
+  ],
+  [
+    "money",
+    19,
+    "https://www.theguardian.com/books/2026/oct/15/the-floating-world-by-ben-eastham-review-a-compelling-debut-of-arts-relation-to-money-and-power"
+  ],
+  [
+    "protein",
+    19,
+    "https://www.theguardian.com/thefilter-us/2026/oct/14/tinned-fish-taste-test"
+  ],
+  [
+    "democratic",
+    18,
+    "https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html"
+  ],
+  [
+    "questions",
+    18,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "ice",
+    18,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "war",
+    18,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "elections",
+    18,
+    "https://www.theguardian.com/us-news/video/2026/oct/15/why-one-of-the-uss-reddest-counties-is-losing-faith-in-trump-video"
+  ],
+  [
+    "again",
+    18,
+    "https://www.theguardian.com/artanddesign/2026/oct/15/popel-review-y-fronts-crawl-new-york-modern-art-london"
+  ],
+  [
+    "angeles",
+    18,
+    "https://www.theguardian.com/sport/2026/oct/14/brewers-dodgers-nlcs-game-3-bauers-mitchell-home-runs"
+  ],
+  [
+    "district",
+    18,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide"
+  ],
+  [
+    "russian",
     17,
-    "https://www.theguardian.com/world/2026/oct/14/conor-mcgregor-nikita-hand-civil-rape-case"
+    "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html"
+  ],
+  [
+    "donald",
+    17,
+    "https://www.theguardian.com/us-news/video/2026/oct/15/why-one-of-the-uss-reddest-counties-is-losing-faith-in-trump-video"
+  ],
+  [
+    "series",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/oct/15/lena-dunham-girls-back-show-back"
   ],
   [
     "political",
     17,
-    "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion"
-  ],
-  [
-    "candidates",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion"
-  ],
-  [
-    "cost",
-    17,
-    "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress"
-  ],
-  [
-    "love",
-    17,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/15/the-year-i-turned-18-it-was-1990-and-the-news-was-full-of-riots-but-i-was-dreaming-of-love-and-the-life-to-come"
+    "https://www.theguardian.com/us-news/2026/oct/15/trump-ambassadors-controversies-guilfoyle-kushner"
   ],
   [
     "amendment",
@@ -196,79 +231,69 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "district",
-    17,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide"
-  ],
-  [
-    "democratic",
-    16,
-    "https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html"
-  ],
-  [
-    "social",
-    16,
-    "https://www.nytimes.com/2026/10/14/nyregion/kelly-clarkson-art-of-play-feud.html"
-  ],
-  [
     "latest",
     16,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html"
   ],
   [
-    "elections",
+    "ahead",
     16,
-    "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing"
-  ],
-  [
-    "again",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing"
+    "https://www.nytimes.com/2026/10/14/us/politics/trump-midterms-voters-grocery-prices.html"
   ],
   [
     "having",
     16,
-    "https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads"
+    "https://www.theguardian.com/commentisfree/2026/oct/15/lena-dunham-girls-back-show-back"
   ],
   [
     "sex",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/14/girls-reboot-hbo"
+    "https://www.theguardian.com/environment/2026/oct/15/conservation-aquariums-endangered-sharks-protected-waters-delaware-bay-us-sand-tiger-sharks"
   ],
   [
-    "lung",
+    "early",
     15,
-    "https://www.nytimes.com/2026/10/15/world/europe/while-leo-recovers-from-lung-surgery-the-church-runs-on-autopilot.html"
+    "https://www.nytimes.com/2026/10/15/us/politics/texas-voter-registration-lawsuit.html"
   ],
   [
-    "death",
+    "local",
     15,
-    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
+    "https://www.nytimes.com/2026/10/15/us/politics/texas-voter-registration-lawsuit.html"
   ],
   [
-    "ukraine",
+    "israel",
     15,
-    "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html"
+    "https://www.nytimes.com/2026/10/15/nyregion/mamdani-dsa-protest-israel.html"
   ],
   [
-    "donald",
+    "researchers",
     15,
-    "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion"
+    "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say"
+  ],
+  [
+    "health",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/15/james-talarico-maga-disinformation"
+  ],
+  [
+    "music",
+    15,
+    "https://www.theguardian.com/us-news/video/2026/oct/15/robert-reich-answers-economy-questions"
   ],
   [
     "london",
     15,
-    "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access"
+    "https://www.theguardian.com/film/2026/oct/15/jesse-eisenberg-10-best-film-performances-ranked"
   ],
   [
-    "film",
+    "far",
     15,
-    "https://www.theguardian.com/film/2026/oct/15/i-see-buildings-fall-like-lightning-clio-barnard-keiran-goddard-birmingham"
+    "https://www.theguardian.com/music/2026/oct/15/angele-instinct-review-rca"
   ],
   [
-    "full",
+    "company",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/15/the-year-i-turned-18-it-was-1990-and-the-news-was-full-of-riots-but-i-was-dreaming-of-love-and-the-life-to-come"
+    "https://www.theguardian.com/commentisfree/2026/oct/15/how-gaza-changed-europe-exposing-cracks-that-grow-bigger-by-the-week"
   ],
   [
     "tested",
@@ -276,44 +301,24 @@
     "https://www.theguardian.com/thefilter-us/2026/oct/14/tinned-fish-taste-test"
   ],
   [
-    "products",
-    15,
-    "https://www.theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit"
-  ],
-  [
     "charter",
     15,
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "administration",
+    "school",
     14,
-    "https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html"
+    "https://www.nytimes.com/2026/10/15/us/texas-students-bad-behavior-criminal-charges.html"
   ],
   [
-    "leo",
+    "faces",
     14,
-    "https://www.nytimes.com/2026/10/15/world/europe/while-leo-recovers-from-lung-surgery-the-church-runs-on-autopilot.html"
+    "https://www.nytimes.com/2026/10/15/nyregion/mamdani-dsa-protest-israel.html"
   ],
   [
-    "cancer",
+    "prices",
     14,
-    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
-  ],
-  [
-    "because",
-    14,
-    "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html"
-  ],
-  [
-    "ahead",
-    14,
-    "https://www.nytimes.com/2026/10/14/nyregion/cornell-president-faculty-senate-lawsuit-response.html"
-  ],
-  [
-    "support",
-    14,
-    "https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html"
+    "https://www.nytimes.com/2026/10/14/us/politics/trump-midterms-voters-grocery-prices.html"
   ],
   [
     "gaza",
@@ -321,58 +326,53 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "immigration",
+    "loss",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "democrat",
+    "fire",
     14,
-    "https://www.theguardian.com/commentisfree/2026/oct/14/ilhan-omar-raid-dangerous-opinion"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "money",
+    "democrats",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress"
+    "https://www.theguardian.com/us-news/video/2026/oct/15/why-one-of-the-uss-reddest-counties-is-losing-faith-in-trump-video"
   ],
   [
-    "filter",
+    "social",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/oct/14/tinned-fish-taste-test"
+    "https://www.theguardian.com/us-news/2026/oct/15/james-talarico-maga-disinformation"
   ],
   [
-    "seat",
+    "cost",
     14,
-    "https://www.theguardian.com/football/2026/oct/14/manchester-city-psg-champions-league-league-stage-match-report"
+    "https://www.theguardian.com/us-news/video/2026/oct/15/robert-reich-answers-economy-questions"
   ],
   [
-    "inflation",
+    "something",
     14,
-    "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september"
+    "https://www.theguardian.com/tv-and-radio/2026/oct/15/south-park-takes-on-looksmaxxing-aura-farming-and-influencer-nonsense-episode-3"
   ],
   [
-    "congressional",
-    14,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide"
-  ],
-  [
-    "york",
+    "oil",
     13,
-    "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html"
+    "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html"
   ],
   [
-    "openai",
+    "texas",
     13,
-    "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html"
+    "https://www.nytimes.com/2026/10/15/us/texas-students-bad-behavior-criminal-charges.html"
   ],
   [
-    "prices",
+    "voter",
     13,
-    "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html"
+    "https://www.nytimes.com/2026/10/15/us/politics/texas-voter-registration-lawsuit.html"
   ],
   [
-    "iran",
+    "department",
     13,
-    "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html"
+    "https://www.nytimes.com/2026/10/15/us/politics/texas-voter-registration-lawsuit.html"
   ]
 ];
