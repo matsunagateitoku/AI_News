@@ -8,27 +8,27 @@
       "source": "NY Times"
     },
     {
+      "name": "Cornell University Faculty Senate",
+      "count": 18,
+      "url": "https://www.cbsnews.com/news/cornell-university-faculty-senate-meeting-video/",
+      "source": "CBS News"
+    },
+    {
       "name": "Ai",
-      "count": 20,
-      "url": "https://www.theguardian.com/music/2026/oct/12/fontaines-dc-dopamine-chamber-album-review-xl-grian-chatten",
+      "count": 16,
+      "url": "https://www.theguardian.com/film/2026/oct/15/klara-and-the-sun-review-taika-waititi-kazuo-ishiguro",
       "source": "The Guardian"
     },
     {
-      "name": "Senate Democratic Conference",
-      "count": 18,
-      "url": "https://thehill.com/policy/healthcare/6151217-senate-democrats-demand-epa-mifepristone/",
+      "name": "Gop Senate",
+      "count": 13,
+      "url": "https://thehill.com/homenews/campaign/6152457-trump-attacks-cornyn-paxton-elections/",
       "source": "The Hill"
     },
     {
-      "name": "Gop",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian",
+      "name": "Fbi",
       "count": 12,
-      "url": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
       "source": "The Guardian"
     },
     {
@@ -38,37 +38,31 @@
       "source": "The Guardian"
     },
     {
-      "name": "Penguin Random House",
+      "name": "The White House",
+      "count": 12,
+      "url": "https://www.cbsnews.com/video/vance-says-selling-access-to-white-house-is-disgusting-and-despicable/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Guardian",
       "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/15/donald-trump-bbc-lawsuit-public-broadcaster-truth-power-noels-house-party",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Penguin Random House",
+      "count": 9,
       "url": "https://www.theguardian.com/books/2026/oct/15/alana-hadid-book-palestine-penguin-cancelled",
       "source": "The Guardian"
     },
     {
-      "name": "Congress",
+      "name": "Espn",
       "count": 7,
-      "url": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The California Congressional District",
-      "count": 7,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Fbi",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
+      "url": "https://www.theguardian.com/sport/2026/oct/15/troy-aikman-addresses-reported-rift-with-joe-buck-and-says-he-is-leaving-espn",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
-    {
-      "name": "World Series",
-      "count": 3,
-      "url": "https://www.theguardian.com/sport/2026/oct/14/brewers-dodgers-nlcs-game-3-bauers-mitchell-home-runs",
-      "source": "The Guardian"
-    },
     {
       "name": "World Cup",
       "count": 2,
@@ -82,10 +76,16 @@
       "source": "LA Times"
     },
     {
-      "name": "Nlcs Game 3",
-      "count": 2,
-      "url": "https://www.foxnews.com/outkick-betting/gavin-williams-strikeout-prop-tyler-glasnow-outs-pick-alcs-nlcs-game-3-4",
-      "source": "Fox News"
+      "name": "Game 4",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/oct/15/guardians-rays-alcs-game-3-petey-halpin-home-run",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Super Bowl",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/oct/15/troy-aikman-addresses-reported-rift-with-joe-buck-and-says-he-is-leaving-espn",
+      "source": "The Guardian"
     },
     {
       "name": "Big War",
@@ -106,12 +106,6 @@
       "source": "The Guardian"
     },
     {
-      "name": "Ralphs",
-      "count": 1,
-      "url": "https://www.latimes.com/business/story/2026-10-15/ai-robots-are-roaming-la-grocery-store-aisles-shoppers-workers-are-worried",
-      "source": "LA Times"
-    },
-    {
       "name": "L.A. City Charter Amendment La",
       "count": 1,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide",
@@ -122,25 +116,67 @@
       "count": 1,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-election-los-angeles-city-charter-amendment-prk-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "L.A. City Charter Amendment Prt",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-los-angeles-city-election-charter-amendment-prt-voter-guide",
+      "source": "LA Times"
     }
   ],
   "PERSON": [
     {
-      "name": "Donald Trump",
-      "count": 13,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/15/donald-trump-bbc-lawsuit-public-broadcaster-truth-power-noels-house-party",
-      "source": "The Guardian"
+      "name": "Greg Nash Trump",
+      "count": 23,
+      "url": "https://thehill.com/newsletters/energy-environment/6152484-what-does-trumps-russia-deal-actually-mean/",
+      "source": "The Hill"
     },
     {
       "name": "Donald Trump ’S",
-      "count": 11,
+      "count": 12,
       "url": "https://www.theguardian.com/culture/2026/oct/15/jimmy-kimmel-trump-ai-recap",
       "source": "The Guardian"
     },
     {
-      "name": "Lindsay Clancy",
+      "name": "Katie Zacharia",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/trump-press-secretary-lawyer-zacharia",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Elon Musk",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/texas-paxton-talarico-senate-race-midterms-money",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ken Paxton",
+      "count": 8,
+      "url": "https://www.politico.com/news/2026/10/06/ken-paxton-secret-weapon-ted-cruz-01107868",
+      "source": "Politico"
+    },
+    {
+      "name": "Nidal Malik Hasan",
       "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/lindsay-clancy-trial-juror-interview",
+      "url": "https://www.nytimes.com/2026/10/15/us/trump-hasan-fort-hood-execution-livestream.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Matt Gaetz",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/matt-gaetz-florida-sex-traffing-lawsuit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Troy Aikman",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/oct/15/troy-aikman-addresses-reported-rift-with-joe-buck-and-says-he-is-leaving-espn",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Joe Buck",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/oct/15/troy-aikman-addresses-reported-rift-with-joe-buck-and-says-he-is-leaving-espn",
       "source": "The Guardian"
     },
     {
@@ -148,105 +184,69 @@
       "count": 6,
       "url": "https://www.theguardian.com/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics",
       "source": "The Guardian"
-    },
-    {
-      "name": "Ken Paxton",
-      "count": 6,
-      "url": "https://www.politico.com/news/2026/10/06/ken-paxton-secret-weapon-ted-cruz-01107868",
-      "source": "Politico"
-    },
-    {
-      "name": "Nidal Hasan",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/10/15/us/trump-hasan-fort-hood-execution-livestream.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Sally Rooney",
-      "count": 5,
-      "url": "https://www.theguardian.com/books/2026/oct/15/sally-rooneys-stand-on-palestine-is-brave-and-humane",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nicolás Maduro",
-      "count": 5,
-      "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hilary Swank",
-      "count": 5,
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-10-15/hilary-swank-pregnant-third-baby-philip-schneider",
-      "source": "LA Times"
-    },
-    {
-      "name": "Jd Vance",
-      "count": 5,
-      "url": "https://www.cbsnews.com/video/aoc-campaigning-fellow-progressive-el-sayed-at-event-in-red-upper-michigan/",
-      "source": "CBS News"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 68,
+      "count": 56,
       "url": "https://www.nytimes.com/2026/10/15/opinion/trump-russia-oil-putin.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 41,
-      "url": "https://www.nytimes.com/2026/10/15/business/economy/californias-housing-proposition-45.html",
+      "count": 51,
+      "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-administration-california-voter-rolls.html",
       "source": "NY Times"
     },
     {
+      "name": "Texas",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/10/15/us/texas-students-bad-behavior-criminal-charges.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Uk",
+      "count": 12,
+      "url": "https://www.theguardian.com/world/2026/oct/15/eritrea-repressive-secretive-uk-asylum-returns",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Russia",
+      "count": 11,
+      "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County",
+      "count": 11,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
+      "source": "LA Times"
+    },
+    {
       "name": "Ukraine",
-      "count": 16,
+      "count": 10,
       "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 15,
+      "count": 10,
       "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
       "source": "Wall St. Journal"
     },
     {
-      "name": "L.A. County",
-      "count": 15,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Uk",
-      "count": 13,
-      "url": "https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michigan State",
-      "count": 13,
-      "url": "https://www.foxnews.com/outkick-sports/john-calipari-jokes-crack-putting-together-arkansas-wildly-difficult-schedule",
-      "source": "Fox News"
-    },
-    {
       "name": "London",
-      "count": 11,
+      "count": 10,
       "url": "https://www.theguardian.com/film/2026/oct/15/stranger-than-stranger-than-fiction-how-lance-oppenheim-made-the-years-two-buzziest-films",
       "source": "The Guardian"
     },
     {
-      "name": "Texas",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/10/15/us/texas-students-bad-behavior-criminal-charges.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Florida",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/matt-gaetz-florida-sex-traffing-lawsuit",
-      "source": "The Guardian"
+      "name": "Israel",
+      "count": 8,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
     }
   ],
-  "updated": "2026-10-15T17:41:05Z"
+  "updated": "2026-10-15T22:01:25Z"
 };
