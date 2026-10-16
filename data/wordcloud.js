@@ -2,138 +2,123 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    85,
+    80,
     "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
   ],
   [
     "guide",
-    66,
+    67,
     "https://www.nytimes.com/2026/10/16/movies/nathan-fielder-tv-shows-elizabeth-holmes.html"
   ],
   [
     "president",
-    55,
-    "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
-  ],
-  [
-    "senate",
-    52,
+    49,
     "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
   ],
   [
     "california",
-    48,
-    "https://www.theguardian.com/us-news/2026/oct/15/wildfire-california-high-temperatures-strong-winds"
-  ],
-  [
-    "school",
-    47,
-    "https://www.nytimes.com/2026/10/16/podcasts/the-headlines/ai-ads-midterms-oregon-elementary-school-shooting.html"
+    45,
+    "https://www.theguardian.com/us-news/2026/oct/16/southern-california-brush-fires-force-evacuations"
   ],
   [
     "race",
-    45,
+    43,
     "https://www.theguardian.com/us-news/2026/oct/15/texas-paxton-talarico-senate-race-midterms-money"
   ],
   [
-    "oregon",
-    28,
-    "https://www.nytimes.com/2026/10/16/podcasts/the-headlines/ai-ads-midterms-oregon-elementary-school-shooting.html"
+    "school",
+    34,
+    "https://www.nytimes.com/2026/10/15/us/oregon-gun-control-laws.html"
   ],
   [
-    "shooting",
-    27,
-    "https://www.nytimes.com/2026/10/16/us/bend-oregon-shooting-victims-suspect.html"
-  ],
-  [
-    "republican",
-    26,
+    "senate",
+    30,
     "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
   ],
   [
-    "elementary",
-    26,
-    "https://www.nytimes.com/2026/10/16/podcasts/the-headlines/ai-ads-midterms-oregon-elementary-school-shooting.html"
-  ],
-  [
-    "film",
-    26,
-    "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html"
+    "campaign",
+    30,
+    "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-srpska-elections-wiles.html"
   ],
   [
     "voters",
-    25,
+    26,
     "https://www.nytimes.com/2026/10/16/opinion/texas-border-voters-midterms-trump.html"
   ],
   [
-    "death",
-    25,
-    "https://www.theguardian.com/sport/2026/oct/16/southern-nazarene-university-tyler-ulrich-death-college-football"
-  ],
-  [
-    "food",
-    25,
-    "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm"
-  ],
-  [
-    "texas",
-    24,
-    "https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html"
-  ],
-  [
-    "killed",
-    24,
-    "https://www.nytimes.com/2026/10/16/us/bend-oregon-shooting-victims-suspect.html"
-  ],
-  [
-    "war",
-    24,
-    "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html"
-  ],
-  [
     "series",
-    24,
+    26,
     "https://www.theguardian.com/books/2026/oct/16/john-green-i-devoured-the-sweet-valley-high-books-in-the-1980s"
   ],
   [
-    "campaign",
+    "war",
+    25,
+    "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html"
+  ],
+  [
+    "film",
+    25,
+    "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film"
+  ],
+  [
+    "republican",
+    24,
+    "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
+  ],
+  [
+    "food",
+    24,
+    "https://www.theguardian.com/books/2026/oct/16/make-me-well-by-xand-van-tulleken-an-eye-opening-takedown-of-wellness-myths"
+  ],
+  [
+    "oregon",
     23,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/10/15/us/oregon-gun-control-laws.html"
   ],
   [
-    "fire",
-    21,
-    "https://www.nytimes.com/2026/10/16/us/bend-oregon-shooting-victims-suspect.html"
+    "death",
+    23,
+    "https://www.theguardian.com/us-news/2026/oct/16/texas-ice-facility-immigrants-risks-lawsuit"
   ],
   [
-    "early",
+    "tax",
+    22,
+    "https://www.nytimes.com/2026/10/16/business/china-ev-thailand-cars.html"
+  ],
+  [
+    "questions",
     21,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "los",
     21,
-    "https://www.theguardian.com/sport/2026/oct/15/milwaukee-brewers-los-angeles-dodgers-mlb-playoffs-nlcs"
+    "https://www.theguardian.com/us-news/2026/oct/16/southern-california-brush-fires-force-evacuations"
   ],
   [
     "angeles",
     21,
-    "https://www.theguardian.com/sport/2026/oct/15/milwaukee-brewers-los-angeles-dodgers-mlb-playoffs-nlcs"
+    "https://www.theguardian.com/us-news/2026/oct/16/southern-california-brush-fires-force-evacuations"
   ],
   [
-    "bend",
+    "candidates",
     20,
-    "https://www.nytimes.com/2026/10/16/us/bend-oregon-shooting-victims-suspect.html"
+    "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
   ],
   [
-    "children",
+    "police",
     20,
-    "https://www.nytimes.com/2026/10/16/us/bend-oregon-shooting-victims-suspect.html"
+    "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html"
   ],
   [
-    "republicans",
+    "latest",
     20,
-    "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "district",
+    20,
+    "https://www.theguardian.com/us-news/2026/oct/15/matt-gaetz-florida-sex-traffing-lawsuit"
   ],
   [
     "democratic",
@@ -141,84 +126,104 @@
     "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
   ],
   [
-    "latest",
+    "republicans",
     19,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html"
+  ],
+  [
+    "texas",
+    19,
+    "https://www.nytimes.com/2026/10/16/opinion/texas-border-voters-midterms-trump.html"
+  ],
+  [
+    "early",
+    19,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "don",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film"
+  ],
+  [
+    "money",
+    19,
+    "https://www.theguardian.com/thefilter-us/2026/oct/16/best-carry-on-luggage"
   ],
   [
     "feel",
     19,
-    "https://www.theguardian.com/commentisfree/2026/oct/15/lena-dunham-girls-back-show-back"
-  ],
-  [
-    "district",
-    19,
-    "https://www.theguardian.com/us-news/2026/oct/15/matt-gaetz-florida-sex-traffing-lawsuit"
-  ],
-  [
-    "candidates",
-    18,
-    "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
-  ],
-  [
-    "midterm",
-    18,
-    "https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html"
-  ],
-  [
-    "police",
-    18,
-    "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html"
-  ],
-  [
-    "debate",
-    18,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms"
+    "https://www.theguardian.com/us-news/2026/oct/16/midterms-voters-climate-crisis-candidates"
   ],
   [
     "elections",
     18,
-    "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates"
+    "https://www.nytimes.com/2026/10/16/magazine/democratic-party-midterms.html"
   ],
   [
-    "democrats",
+    "everything",
     18,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals"
+    "https://www.nytimes.com/2026/10/16/movies/nathan-fielder-tv-shows-elizabeth-holmes.html"
   ],
   [
-    "voter",
+    "children",
     18,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals"
+    "https://www.nytimes.com/2026/10/16/briefing/handcuffs-in-schools.html"
   ],
   [
-    "game",
+    "college",
     18,
-    "https://www.theguardian.com/film/2026/oct/16/disciple-wu-tang-fable-netflix-documentary-review"
+    "https://www.theguardian.com/sport/2026/oct/16/southern-nazarene-university-tyler-ulrich-death-college-football"
   ],
   [
-    "court",
-    18,
-    "https://www.theguardian.com/sport/2026/oct/15/wnba-greastest-trash-talkers"
-  ],
-  [
-    "donald",
+    "midterm",
     17,
-    "https://www.theguardian.com/us-news/2026/oct/16/trump-refugee-restrictions-south-africa"
+    "https://www.nytimes.com/2026/10/16/magazine/democratic-party-midterms.html"
   ],
   [
-    "dodgers",
+    "elementary",
     17,
-    "https://www.theguardian.com/sport/2026/oct/15/milwaukee-brewers-los-angeles-dodgers-mlb-playoffs-nlcs"
+    "https://www.nytimes.com/2026/10/15/us/oregon-gun-control-laws.html"
   ],
   [
-    "season",
+    "ukraine",
     17,
-    "https://www.theguardian.com/sport/2026/oct/15/milwaukee-brewers-los-angeles-dodgers-mlb-playoffs-nlcs"
+    "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html"
+  ],
+  [
+    "interest",
+    17,
+    "https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans"
   ],
   [
     "university",
     17,
-    "https://www.theguardian.com/sport/2026/oct/16/southern-nazarene-university-tyler-ulrich-death-college-football"
+    "https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans"
+  ],
+  [
+    "donald",
+    17,
+    "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory"
+  ],
+  [
+    "media",
+    17,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms"
+  ],
+  [
+    "court",
+    17,
+    "https://www.theguardian.com/us-news/2026/oct/16/texas-ice-facility-immigrants-risks-lawsuit"
+  ],
+  [
+    "game",
+    17,
+    "https://www.theguardian.com/fashion/2026/oct/16/game-set-tache-carlos-alcarez-growing-trend-stylish-top-lip"
+  ],
+  [
+    "season",
+    17,
+    "https://www.theguardian.com/sport/2026/oct/16/wnba-finals-2026-predictions-atlanta-dream-golden-state-valkyries"
   ],
   [
     "proposition",
@@ -226,34 +231,19 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "paxton",
+    "shooting",
     16,
-    "https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html"
+    "https://www.nytimes.com/2026/10/15/us/oregon-gun-control-laws.html"
   ],
   [
-    "far",
+    "election",
     16,
-    "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html"
+    "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-srpska-elections-wiles.html"
   ],
   [
-    "political",
+    "support",
     16,
-    "https://www.nytimes.com/2026/10/16/opinion/ilhan-omar-deportation-trump.html"
-  ],
-  [
-    "social",
-    16,
-    "https://www.theguardian.com/football/2026/oct/16/gianni-infantino-fifa-peace-prize-scrap-politicians-donald-trump"
-  ],
-  [
-    "department",
-    16,
-    "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department"
-  ],
-  [
-    "silver",
-    15,
-    "https://www.nytimes.com/2026/10/16/us/bend-oregon-shooting-victims-suspect.html"
+    "https://www.theguardian.com/music/2026/oct/16/add-to-playlist-the-buzzy-bildungsromans-of-boy-wonder-superfan-and-the-weeks-best-new-tracks"
   ],
   [
     "review",
@@ -261,29 +251,29 @@
     "https://www.nytimes.com/2026/10/15/movies/you-can-see-everything-review-elizabeth-holmes.html"
   ],
   [
-    "tax",
+    "debate",
     15,
-    "https://www.nytimes.com/2026/10/16/business/china-ev-thailand-cars.html"
+    "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html"
   ],
   [
-    "questions",
+    "fire",
     15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "night",
+    "released",
     15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "county",
+    "social",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/15/edward-lelburian-jackson-barrel-lake-mead"
+    "https://www.theguardian.com/fashion/2026/oct/16/social-reckoning-zuckerberg-fashion-costume-design"
   ],
   [
-    "seat",
+    "dodgers",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/15/texas-paxton-talarico-senate-race-midterms-money"
+    "https://www.theguardian.com/sport/2026/oct/16/los-angeles-dodgers-milwaukee-brewers-nlcs-payroll-world-series"
   ],
   [
     "charter",
@@ -291,14 +281,14 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "maine",
-    15,
-    "https://www.foxnews.com/politics/personal-jabs-billionaire-donors-party-loyalty-fuel-heated-maine-senate-debate"
+    "musk",
+    14,
+    "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
   ],
   [
-    "teacher",
+    "far",
     14,
-    "https://www.nytimes.com/2026/10/16/us/bend-oregon-shooting-victims-suspect.html"
+    "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html"
   ],
   [
     "again",
@@ -306,34 +296,49 @@
     "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html"
   ],
   [
+    "political",
+    14,
+    "https://www.nytimes.com/2026/10/16/opinion/ilhan-omar-deportation-trump.html"
+  ],
+  [
+    "air",
+    14,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "west",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/16/southern-california-brush-fires-force-evacuations"
+  ],
+  [
     "health",
     14,
-    "https://www.theguardian.com/world/2026/oct/16/pope-leo-lung-cancer-surgery-lobectomy"
+    "https://www.theguardian.com/us-news/2026/oct/16/texas-ice-facility-immigrants-risks-lawsuit"
   ],
   [
-    "oil",
+    "prop",
     14,
-    "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace"
+    "https://www.theguardian.com/news/ng-interactive/2026/oct/16/billionaires-fight-california-prop-40"
   ],
   [
-    "administration",
+    "iran",
     14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals"
+    "https://www.theguardian.com/us-news/2026/oct/16/midterms-voters-climate-crisis-candidates"
   ],
   [
-    "don",
+    "book",
     14,
-    "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film"
+    "https://www.theguardian.com/books/2026/oct/16/john-green-i-devoured-the-sweet-valley-high-books-in-the-1980s"
   ],
   [
-    "ahead",
+    "voter",
     14,
-    "https://www.theguardian.com/sport/2026/oct/15/milwaukee-brewers-los-angeles-dodgers-mlb-playoffs-nlcs"
+    "https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations"
   ],
   [
-    "money",
+    "bass",
     14,
-    "https://www.theguardian.com/books/2026/oct/15/the-floating-world-by-ben-eastham-review-a-compelling-debut-of-arts-relation-to-money-and-power"
+    "https://www.theguardian.com/music/2026/oct/16/weird-baile-collected-rips-2004-2024-review-a-hallucinatory-trip-to-baile-funks-outer-limits"
   ],
   [
     "amendment",
@@ -341,38 +346,33 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "musk",
+    "elon",
     13,
     "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
   ],
   [
-    "rail",
+    "democrats",
     13,
-    "https://www.nytimes.com/2026/10/16/us/bend-oregon-shooting-victims-suspect.html"
+    "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html"
   ],
   [
-    "election",
+    "israeli",
     13,
-    "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "control",
+    "team",
     13,
-    "https://www.nytimes.com/2026/10/16/opinion/texas-border-voters-midterms-trump.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "media",
+    "secretary",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "running",
+    "night",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms"
-  ],
-  [
-    "south",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/16/trump-refugee-restrictions-south-africa"
+    "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film"
   ]
 ];
