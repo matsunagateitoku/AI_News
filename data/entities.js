@@ -2,71 +2,77 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Cancels Planned Execution Livestream",
-      "count": 48,
-      "url": "https://www.nytimes.com/2026/10/15/us/trump-hasan-fort-hood-execution-livestream.html",
-      "source": "NY Times"
+      "name": "Trump Draws Low Marks",
+      "count": 43,
+      "url": "https://www.politico.com/news/2026/10/04/trump-latino-voters-slip-midterms-01106273",
+      "source": "Politico"
     },
     {
-      "name": "Cornell University Faculty Senate",
-      "count": 18,
-      "url": "https://www.cbsnews.com/news/cornell-university-faculty-senate-meeting-video/",
+      "name": "The Michigan Senate",
+      "count": 24,
+      "url": "https://www.cbsnews.com/video/michigan-senate-contest-outsized-attention-trump/",
       "source": "CBS News"
     },
     {
-      "name": "Ai",
-      "count": 16,
-      "url": "https://www.theguardian.com/film/2026/oct/15/klara-and-the-sun-review-taika-waititi-kazuo-ishiguro",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop Senate",
-      "count": 13,
-      "url": "https://thehill.com/homenews/campaign/6152457-trump-attacks-cornyn-paxton-elections/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Fbi",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 12,
-      "url": "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them",
+      "name": "Ai Alexandr Wang",
+      "count": 20,
+      "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
       "source": "The Guardian"
     },
     {
       "name": "The White House",
+      "count": 19,
+      "url": "https://www.theguardian.com/world/2026/oct/16/ukraine-war-briefing-starlink-access-restored-says-uks-streeting-as-zelenskyy-rallies-support-in-brussels",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
       "count": 12,
-      "url": "https://www.cbsnews.com/video/vance-says-selling-access-to-white-house-is-disgusting-and-despicable/",
-      "source": "CBS News"
+      "url": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
+      "source": "NPR"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 11,
+      "url": "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them",
+      "source": "The Guardian"
     },
     {
       "name": "Guardian",
       "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/15/donald-trump-bbc-lawsuit-public-broadcaster-truth-power-noels-house-party",
+      "url": "https://www.theguardian.com/politics/audio/2026/oct/16/jd-vance-campaign-midterms-or-2028-podcast",
       "source": "The Guardian"
     },
     {
-      "name": "Penguin Random House",
+      "name": "Cbs News",
+      "count": 10,
+      "url": "https://www.foxnews.com/media/cbs-news-faces-20m-defamation-lawsuit-misidentifying-maryland-teenager-reflecting-pool-report",
+      "source": "Fox News"
+    },
+    {
+      "name": "Fbi",
       "count": 9,
-      "url": "https://www.theguardian.com/books/2026/oct/15/alana-hadid-book-palestine-penguin-cancelled",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
       "source": "The Guardian"
     },
     {
-      "name": "Espn",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/oct/15/troy-aikman-addresses-reported-rift-with-joe-buck-and-says-he-is-leaving-espn",
-      "source": "The Guardian"
+      "name": "Pentagon",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-satellite-intelligence-investigation-senate.html",
+      "source": "NY Times"
     }
   ],
   "EVENT": [
     {
-      "name": "World Cup",
+      "name": "World Series    Jake Bauers",
+      "count": 5,
+      "url": "https://www.theguardian.com/sport/2026/oct/15/milwaukee-brewers-los-angeles-dodgers-mlb-playoffs-nlcs",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Super Bowl",
       "count": 2,
-      "url": "https://www.theguardian.com/football/2026/oct/15/fifa-gianni-infantino-council",
+      "url": "https://www.theguardian.com/sport/2026/oct/16/seahawks-broncos-nfl-thursday-night-football",
       "source": "The Guardian"
     },
     {
@@ -77,15 +83,15 @@
     },
     {
       "name": "Game 4",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/15/guardians-rays-alcs-game-3-petey-halpin-home-run",
-      "source": "The Guardian"
+      "count": 2,
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-15/dodgers-three-peat-dream-dies-with-game-4-nlcs-loss-to-brewers",
+      "source": "LA Times"
     },
     {
-      "name": "Super Bowl",
+      "name": "New Year’S Eve",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/15/troy-aikman-addresses-reported-rift-with-joe-buck-and-says-he-is-leaving-espn",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/10/15/us/paxton-dubai-fugitive-fraud-allegations-texas.html",
+      "source": "NY Times"
     },
     {
       "name": "Big War",
@@ -116,67 +122,55 @@
       "count": 1,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-election-los-angeles-city-charter-amendment-prk-voter-guide",
       "source": "LA Times"
-    },
-    {
-      "name": "L.A. City Charter Amendment Prt",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-los-angeles-city-election-charter-amendment-prt-voter-guide",
-      "source": "LA Times"
     }
   ],
   "PERSON": [
     {
-      "name": "Greg Nash Trump",
-      "count": 23,
-      "url": "https://thehill.com/newsletters/energy-environment/6152484-what-does-trumps-russia-deal-actually-mean/",
-      "source": "The Hill"
+      "name": "Donald Trump",
+      "count": 21,
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/pete-hegseth-crec-church-execution-livestream",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 11,
+      "url": "https://www.theguardian.com/politics/audio/2026/oct/16/jd-vance-campaign-midterms-or-2028-podcast",
+      "source": "The Guardian"
     },
     {
       "name": "Donald Trump ’S",
-      "count": 12,
+      "count": 11,
       "url": "https://www.theguardian.com/culture/2026/oct/15/jimmy-kimmel-trump-ai-recap",
       "source": "The Guardian"
     },
     {
       "name": "Katie Zacharia",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/oct/14/trump-press-secretary-lawyer-zacharia",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Elon Musk",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/texas-paxton-talarico-senate-race-midterms-money",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ken Paxton",
-      "count": 8,
-      "url": "https://www.politico.com/news/2026/10/06/ken-paxton-secret-weapon-ted-cruz-01107868",
-      "source": "Politico"
-    },
-    {
-      "name": "Nidal Malik Hasan",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/10/15/us/trump-hasan-fort-hood-execution-livestream.html",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/10/15/us/katie-zacharia-lawyer-attorney-bar.html",
       "source": "NY Times"
     },
     {
-      "name": "Matt Gaetz",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/matt-gaetz-florida-sex-traffing-lawsuit",
-      "source": "The Guardian"
+      "name": "Ken Paxton",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html",
+      "source": "NY Times"
     },
     {
-      "name": "Troy Aikman",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/oct/15/troy-aikman-addresses-reported-rift-with-joe-buck-and-says-he-is-leaving-espn",
-      "source": "The Guardian"
+      "name": "Billionaire Elon Musk",
+      "count": 8,
+      "url": "https://www.cbsnews.com/news/elon-musk-midterm-donations-texas-ken-paxton/",
+      "source": "CBS News"
     },
     {
-      "name": "Joe Buck",
+      "name": "Paxton Partied",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/10/15/us/paxton-dubai-fugitive-fraud-allegations-texas.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Pete Hegseth",
       "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/oct/15/troy-aikman-addresses-reported-rift-with-joe-buck-and-says-he-is-leaving-espn",
+      "url": "https://www.theguardian.com/world/2026/oct/16/ukraine-war-briefing-starlink-access-restored-says-uks-streeting-as-zelenskyy-rallies-support-in-brussels",
       "source": "The Guardian"
     },
     {
@@ -184,69 +178,75 @@
       "count": 6,
       "url": "https://www.theguardian.com/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics",
       "source": "The Guardian"
+    },
+    {
+      "name": "James Talarico",
+      "count": 6,
+      "url": "https://www.cbsnews.com/video/is-texas-senate-race-perfect-storm-democrats/",
+      "source": "CBS News"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 56,
+      "count": 68,
       "url": "https://www.nytimes.com/2026/10/15/opinion/trump-russia-oil-putin.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 51,
-      "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-administration-california-voter-rolls.html",
-      "source": "NY Times"
+      "count": 47,
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/california-central-valley-race",
+      "source": "The Guardian"
     },
     {
-      "name": "Texas",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/10/15/us/texas-students-bad-behavior-criminal-charges.html",
+      "name": "Oregon",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/10/15/us/school-shootings-usa-oregon-silver-rail.html",
       "source": "NY Times"
     },
     {
       "name": "Uk",
-      "count": 12,
-      "url": "https://www.theguardian.com/world/2026/oct/15/eritrea-repressive-secretive-uk-asylum-returns",
+      "count": 22,
+      "url": "https://www.theguardian.com/books/2026/oct/15/sally-rooneys-stand-on-palestine-is-brave-and-humane",
       "source": "The Guardian"
     },
     {
-      "name": "Russia",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+      "name": "Ukraine",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-us-aid-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "London",
+      "count": 12,
+      "url": "https://www.theguardian.com/music/2026/oct/16/how-pop-auteur-shygirl-slogged-her-way-to-top",
       "source": "The Guardian"
     },
     {
       "name": "L.A. County",
-      "count": 11,
+      "count": 12,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Ukraine",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "London",
-      "count": 10,
-      "url": "https://www.theguardian.com/film/2026/oct/15/stranger-than-stranger-than-fiction-how-lance-oppenheim-made-the-years-two-buzziest-films",
+      "name": "Bend",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
       "source": "The Guardian"
     },
     {
-      "name": "Israel",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
+      "name": "Russia",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-10-15T22:01:25Z"
+  "updated": "2026-10-16T05:38:50Z"
 };
