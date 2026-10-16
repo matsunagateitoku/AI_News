@@ -2,58 +2,63 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    80,
-    "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
+    72,
+    "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html"
   ],
   [
     "guide",
-    67,
-    "https://www.nytimes.com/2026/10/16/movies/nathan-fielder-tv-shows-elizabeth-holmes.html"
-  ],
-  [
-    "president",
-    49,
-    "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
+    66,
+    "https://www.theguardian.com/thefilter-us/best-carry-on-luggage"
   ],
   [
     "california",
-    45,
-    "https://www.theguardian.com/us-news/2026/oct/16/southern-california-brush-fires-force-evacuations"
+    47,
+    "https://www.nytimes.com/2026/10/16/weather/malibu-wildfire-wind-california.html"
+  ],
+  [
+    "president",
+    46,
+    "https://www.nytimes.com/2026/10/16/us/politics/appeals-court-trump-presidential-records.html"
   ],
   [
     "race",
-    43,
-    "https://www.theguardian.com/us-news/2026/oct/15/texas-paxton-talarico-senate-race-midterms-money"
+    44,
+    "https://www.nytimes.com/2026/10/16/weather/malibu-wildfire-wind-california.html"
   ],
   [
     "school",
-    34,
-    "https://www.nytimes.com/2026/10/15/us/oregon-gun-control-laws.html"
-  ],
-  [
-    "senate",
-    30,
-    "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
+    36,
+    "https://www.nytimes.com/2026/10/16/us/bend-oregon-school-shooting-safety-measures-prevention-defenses.html"
   ],
   [
     "campaign",
+    33,
+    "https://www.nytimes.com/2026/10/16/us/politics/russian-influence-campaigns-midterms.html"
+  ],
+  [
+    "senate",
+    31,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms"
+  ],
+  [
+    "press",
     30,
-    "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-srpska-elections-wiles.html"
+    "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html"
   ],
   [
     "voters",
-    26,
-    "https://www.nytimes.com/2026/10/16/opinion/texas-border-voters-midterms-trump.html"
+    30,
+    "https://www.nytimes.com/2026/10/16/us/politics/russian-influence-campaigns-midterms.html"
   ],
   [
-    "series",
-    26,
-    "https://www.theguardian.com/books/2026/oct/16/john-green-i-devoured-the-sweet-valley-high-books-in-the-1980s"
+    "secretary",
+    28,
+    "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html"
   ],
   [
-    "war",
-    25,
-    "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html"
+    "oregon",
+    26,
+    "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest"
   ],
   [
     "film",
@@ -61,9 +66,9 @@
     "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film"
   ],
   [
-    "republican",
+    "death",
     24,
-    "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
+    "https://www.nytimes.com/2026/10/16/us/six-flags-roller-coaster-death.html"
   ],
   [
     "food",
@@ -71,104 +76,119 @@
     "https://www.theguardian.com/books/2026/oct/16/make-me-well-by-xand-van-tulleken-an-eye-opening-takedown-of-wellness-myths"
   ],
   [
-    "oregon",
+    "zacharia",
     23,
-    "https://www.nytimes.com/2026/10/15/us/oregon-gun-control-laws.html"
+    "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html"
   ],
   [
-    "death",
+    "republican",
     23,
-    "https://www.theguardian.com/us-news/2026/oct/16/texas-ice-facility-immigrants-risks-lawsuit"
-  ],
-  [
-    "tax",
-    22,
-    "https://www.nytimes.com/2026/10/16/business/china-ev-thailand-cars.html"
-  ],
-  [
-    "questions",
-    21,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "los",
-    21,
-    "https://www.theguardian.com/us-news/2026/oct/16/southern-california-brush-fires-force-evacuations"
-  ],
-  [
-    "angeles",
-    21,
-    "https://www.theguardian.com/us-news/2026/oct/16/southern-california-brush-fires-force-evacuations"
-  ],
-  [
-    "candidates",
-    20,
-    "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
-  ],
-  [
-    "police",
-    20,
-    "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html"
-  ],
-  [
-    "latest",
-    20,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "district",
-    20,
-    "https://www.theguardian.com/us-news/2026/oct/15/matt-gaetz-florida-sex-traffing-lawsuit"
-  ],
-  [
-    "democratic",
-    19,
-    "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
+    "https://www.theguardian.com/us-news/2026/oct/15/texas-paxton-talarico-senate-race-midterms-money"
   ],
   [
     "republicans",
-    19,
+    22,
     "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html"
   ],
   [
+    "democratic",
+    22,
+    "https://www.nytimes.com/2026/10/16/magazine/democratic-party-midterms.html"
+  ],
+  [
+    "game",
+    22,
+    "https://www.theguardian.com/film/2026/oct/16/masterplan-stanley-tucci-movie-review"
+  ],
+  [
     "texas",
-    19,
-    "https://www.nytimes.com/2026/10/16/opinion/texas-border-voters-midterms-trump.html"
+    21,
+    "https://www.theguardian.com/us-news/2026/oct/16/amber-guyger-released"
   ],
   [
-    "early",
-    19,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "katie",
+    20,
+    "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html"
   ],
   [
-    "don",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film"
+    "elementary",
+    20,
+    "https://www.nytimes.com/2026/10/16/us/bend-oregon-school-shooting-safety-measures-prevention-defenses.html"
   ],
   [
-    "money",
-    19,
-    "https://www.theguardian.com/thefilter-us/2026/oct/16/best-carry-on-luggage"
+    "shooting",
+    20,
+    "https://www.nytimes.com/2026/10/16/us/bend-oregon-school-shooting-safety-measures-prevention-defenses.html"
   ],
   [
-    "feel",
+    "los",
+    20,
+    "https://www.theguardian.com/sport/2026/oct/16/los-angeles-dodgers-milwaukee-brewers-nlcs-payroll-world-series"
+  ],
+  [
+    "angeles",
+    20,
+    "https://www.theguardian.com/sport/2026/oct/16/los-angeles-dodgers-milwaukee-brewers-nlcs-payroll-world-series"
+  ],
+  [
+    "media",
+    19,
+    "https://www.nytimes.com/2026/10/16/us/politics/russian-influence-campaigns-midterms.html"
+  ],
+  [
+    "tax",
+    19,
+    "https://www.theguardian.com/news/ng-interactive/2026/oct/16/billionaires-fight-california-prop-40"
+  ],
+  [
+    "candidates",
     19,
     "https://www.theguardian.com/us-news/2026/oct/16/midterms-voters-climate-crisis-candidates"
   ],
   [
-    "elections",
-    18,
-    "https://www.nytimes.com/2026/10/16/magazine/democratic-party-midterms.html"
+    "musk",
+    19,
+    "https://www.theguardian.com/us-news/2026/oct/15/texas-paxton-talarico-senate-race-midterms-money"
   ],
   [
-    "everything",
-    18,
-    "https://www.nytimes.com/2026/10/16/movies/nathan-fielder-tv-shows-elizabeth-holmes.html"
+    "district",
+    19,
+    "https://www.theguardian.com/us-news/2026/oct/15/matt-gaetz-florida-sex-traffing-lawsuit"
   ],
   [
-    "children",
+    "social",
     18,
-    "https://www.nytimes.com/2026/10/16/briefing/handcuffs-in-schools.html"
+    "https://www.nytimes.com/2026/10/16/us/politics/russian-influence-campaigns-midterms.html"
+  ],
+  [
+    "midterm",
+    18,
+    "https://www.nytimes.com/2026/10/16/us/politics/russian-influence-campaigns-midterms.html"
+  ],
+  [
+    "democrats",
+    18,
+    "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html"
+  ],
+  [
+    "fire",
+    18,
+    "https://www.nytimes.com/2026/10/16/weather/malibu-wildfire-wind-california.html"
+  ],
+  [
+    "teacher",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest"
+  ],
+  [
+    "feel",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/16/midterms-voters-climate-crisis-candidates"
+  ],
+  [
+    "series",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/oct/15/lena-dunham-girls-back-show-back"
   ],
   [
     "college",
@@ -176,54 +196,24 @@
     "https://www.theguardian.com/sport/2026/oct/16/southern-nazarene-university-tyler-ulrich-death-college-football"
   ],
   [
-    "midterm",
+    "questions",
     17,
-    "https://www.nytimes.com/2026/10/16/magazine/democratic-party-midterms.html"
+    "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html"
   ],
   [
-    "elementary",
+    "elections",
     17,
-    "https://www.nytimes.com/2026/10/15/us/oregon-gun-control-laws.html"
+    "https://www.nytimes.com/2026/10/16/us/politics/russian-influence-campaigns-midterms.html"
   ],
   [
-    "ukraine",
+    "early",
     17,
-    "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "interest",
+    "family",
     17,
-    "https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans"
-  ],
-  [
-    "university",
-    17,
-    "https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans"
-  ],
-  [
-    "donald",
-    17,
-    "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory"
-  ],
-  [
-    "media",
-    17,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms"
-  ],
-  [
-    "court",
-    17,
-    "https://www.theguardian.com/us-news/2026/oct/16/texas-ice-facility-immigrants-risks-lawsuit"
-  ],
-  [
-    "game",
-    17,
-    "https://www.theguardian.com/fashion/2026/oct/16/game-set-tache-carlos-alcarez-growing-trend-stylish-top-lip"
-  ],
-  [
-    "season",
-    17,
-    "https://www.theguardian.com/sport/2026/oct/16/wnba-finals-2026-predictions-atlanta-dream-golden-state-valkyries"
+    "https://www.theguardian.com/us-news/2026/oct/16/family-six-flags-georgia-rollercoaster-death"
   ],
   [
     "proposition",
@@ -231,49 +221,74 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "shooting",
+    "county",
     16,
-    "https://www.nytimes.com/2026/10/15/us/oregon-gun-control-laws.html"
+    "https://www.nytimes.com/2026/10/16/weather/malibu-wildfire-wind-california.html"
+  ],
+  [
+    "latest",
+    16,
+    "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html"
+  ],
+  [
+    "donald",
+    16,
+    "https://www.nytimes.com/2026/10/16/us/politics/young-voters-fleeing-republicans.html"
+  ],
+  [
+    "court",
+    16,
+    "https://www.nytimes.com/2026/10/16/us/politics/appeals-court-trump-presidential-records.html"
+  ],
+  [
+    "don",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film"
+  ],
+  [
+    "money",
+    16,
+    "https://www.theguardian.com/thefilter-us/best-carry-on-luggage"
   ],
   [
     "election",
     16,
-    "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-srpska-elections-wiles.html"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms"
   ],
   [
-    "support",
-    16,
-    "https://www.theguardian.com/music/2026/oct/16/add-to-playlist-the-buzzy-bildungsromans-of-boy-wonder-superfan-and-the-weeks-best-new-tracks"
-  ],
-  [
-    "review",
+    "war",
     15,
-    "https://www.nytimes.com/2026/10/15/movies/you-can-see-everything-review-elizabeth-holmes.html"
+    "https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html"
   ],
   [
-    "debate",
+    "killed",
     15,
-    "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html"
+    "https://www.nytimes.com/2026/10/16/us/bend-oregon-school-shooting-safety-measures-prevention-defenses.html"
   ],
   [
-    "fire",
+    "political",
     15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/10/16/opinion/ilhan-omar-deportation-trump.html"
   ],
   [
-    "released",
+    "broken",
     15,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "social",
+    "air",
     15,
-    "https://www.theguardian.com/fashion/2026/oct/16/social-reckoning-zuckerberg-fashion-costume-design"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "dodgers",
+    "police",
     15,
-    "https://www.theguardian.com/sport/2026/oct/16/los-angeles-dodgers-milwaukee-brewers-nlcs-payroll-world-series"
+    "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest"
+  ],
+  [
+    "elon",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/15/texas-paxton-talarico-senate-race-midterms-money"
   ],
   [
     "charter",
@@ -281,39 +296,64 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "musk",
+    "interest",
     14,
-    "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
+    "https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html"
   ],
   [
-    "far",
+    "support",
     14,
-    "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html"
+    "https://www.nytimes.com/2026/10/16/us/politics/russian-influence-campaigns-midterms.html"
+  ],
+  [
+    "ukraine",
+    14,
+    "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html"
+  ],
+  [
+    "everything",
+    14,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "released",
+    14,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  ],
+  [
+    "past",
+    14,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "team",
+    14,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "didn",
+    14,
+    "https://www.theguardian.com/thefilter-us/best-carry-on-luggage"
+  ],
+  [
+    "running",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms"
   ],
   [
     "again",
     14,
-    "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms"
   ],
   [
-    "political",
+    "died",
     14,
-    "https://www.nytimes.com/2026/10/16/opinion/ilhan-omar-deportation-trump.html"
+    "https://www.theguardian.com/us-news/2026/oct/16/family-six-flags-georgia-rollercoaster-death"
   ],
   [
-    "air",
+    "tech",
     14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "west",
-    14,
-    "https://www.theguardian.com/us-news/2026/oct/16/southern-california-brush-fires-force-evacuations"
-  ],
-  [
-    "health",
-    14,
-    "https://www.theguardian.com/us-news/2026/oct/16/texas-ice-facility-immigrants-risks-lawsuit"
+    "https://www.theguardian.com/news/ng-interactive/2026/oct/16/billionaires-fight-california-prop-40"
   ],
   [
     "prop",
@@ -321,58 +361,18 @@
     "https://www.theguardian.com/news/ng-interactive/2026/oct/16/billionaires-fight-california-prop-40"
   ],
   [
-    "iran",
+    "price",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/16/midterms-voters-climate-crisis-candidates"
+    "https://www.theguardian.com/film/video/2026/oct/16/naza-the-film-israel-does-not-want-you-to-see-video"
   ],
   [
-    "book",
+    "review",
     14,
-    "https://www.theguardian.com/books/2026/oct/16/john-green-i-devoured-the-sweet-valley-high-books-in-the-1980s"
+    "https://www.theguardian.com/film/2026/oct/16/masterplan-stanley-tucci-movie-review"
   ],
   [
-    "voter",
+    "director",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations"
-  ],
-  [
-    "bass",
-    14,
-    "https://www.theguardian.com/music/2026/oct/16/weird-baile-collected-rips-2004-2024-review-a-hallucinatory-trip-to-baile-funks-outer-limits"
-  ],
-  [
-    "amendment",
-    14,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
-  ],
-  [
-    "elon",
-    13,
-    "https://www.nytimes.com/2026/10/16/us/avalanche-of-gop-cash-keeps-the-party-competitive-despite-its-problems.html"
-  ],
-  [
-    "democrats",
-    13,
-    "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html"
-  ],
-  [
-    "israeli",
-    13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "team",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "secretary",
-    13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "night",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film"
+    "https://www.theguardian.com/commentisfree/2026/oct/16/ai-existential-threat-real-journalism-democracy-resistance"
   ]
 ];
