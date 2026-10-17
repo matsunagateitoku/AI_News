@@ -2,8 +2,8 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    78,
-    "https://www.nytimes.com/2026/10/17/us/politics/election-fraud-conspiracies-trump.html"
+    79,
+    "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html"
   ],
   [
     "guide",
@@ -13,82 +13,117 @@
   [
     "california",
     63,
-    "https://www.nytimes.com/2026/10/16/weather/malibu-wildfire-wind-california.html"
+    "https://www.theguardian.com/us-news/2026/oct/17/southern-california-wildfires"
   ],
   [
     "president",
-    51,
-    "https://www.nytimes.com/2026/10/16/us/what-we-know-no-kings-vote-early.html"
+    45,
+    "https://www.nytimes.com/2026/10/17/us/politics/graham-trump-russia-sanctions-law.html"
   ],
   [
     "race",
-    39,
-    "https://www.nytimes.com/2026/10/16/weather/malibu-wildfire-wind-california.html"
+    41,
+    "https://www.nytimes.com/2026/10/17/us/politics/susan-collins-troy-jackson-shut-up-debate.html"
   ],
   [
     "school",
-    35,
-    "https://www.nytimes.com/2026/10/16/us/bend-shooting-hero-teacher-dad.html"
+    33,
+    "https://www.nytimes.com/2026/10/17/us/school-shooting-bend-oregon-identity.html"
   ],
   [
-    "election",
+    "police",
+    25,
+    "https://www.nytimes.com/2026/10/17/nyregion/subway-shooting-man-dead-nyc.html"
+  ],
+  [
+    "republicans",
     24,
-    "https://www.nytimes.com/2026/10/17/us/politics/election-fraud-conspiracies-trump.html"
+    "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html"
   ],
   [
     "campaign",
-    23,
-    "https://www.nytimes.com/2026/10/17/us/elections/hegseth-singled-out-in-democrats-campaign-attacks-for-war-and-high-prices.html"
+    24,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "family",
+    "election",
     23,
-    "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza"
+    "https://www.theguardian.com/us-news/2026/oct/17/trump-rally-performance-overview"
+  ],
+  [
+    "republican",
+    22,
+    "https://www.nytimes.com/2026/10/17/us/politics/susan-collins-troy-jackson-shut-up-debate.html"
+  ],
+  [
+    "tax",
+    22,
+    "https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html"
   ],
   [
     "social",
     22,
-    "https://www.nytimes.com/2026/10/16/nyregion/cornell-jane-doe-internet-doxing.html"
-  ],
-  [
-    "police",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/oct/17/french-schoolchildren-treated-like-violent-criminals-shameful-conditions-schools"
+    "https://www.theguardian.com/us-news/2026/oct/17/talarico-mental-health-facility-rumor-ryan-amacher"
   ],
   [
     "food",
     22,
-    "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges"
+    "https://www.theguardian.com/environment/2026/oct/17/how-puffin-symbol-climate-crisis-hope"
+  ],
+  [
+    "family",
+    21,
+    "https://www.theguardian.com/us-news/2026/oct/17/ice-crash-houston"
   ],
   [
     "voters",
     21,
-    "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit"
+    "https://www.theguardian.com/us-news/2026/oct/16/no-kings-early-voting-midterm-elections"
   ],
   [
-    "republican",
-    21,
-    "https://www.theguardian.com/us-news/2026/oct/17/trump-rally-performance-overview"
-  ],
-  [
-    "tax",
+    "senate",
     20,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial"
+    "https://www.nytimes.com/2026/10/17/us/politics/graham-trump-russia-sanctions-law.html"
+  ],
+  [
+    "fire",
+    20,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "los",
-    19,
+    20,
     "https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care"
   ],
   [
     "college",
+    20,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/18/australian-actor-charlie-vickers-10-chaotic-questions"
+  ],
+  [
+    "russia",
     19,
-    "https://www.theguardian.com/education/2026/oct/15/us-college-students-campus-culture"
+    "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html"
   ],
   [
     "angeles",
-    18,
+    19,
     "https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care"
+  ],
+  [
+    "west",
+    19,
+    "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank"
+  ],
+  [
+    "candidates",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/17/trump-rally-performance-overview"
+  ],
+  [
+    "south",
+    18,
+    "https://www.theguardian.com/culture/ng-interactive/2026/oct/17/charles-burnett-film-my-brothers-wedding"
   ],
   [
     "don",
@@ -96,114 +131,54 @@
     "https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline"
   ],
   [
-    "britain",
-    18,
-    "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai"
-  ],
-  [
     "proposition",
     18,
     "https://www.theguardian.com/global-development/2026/oct/17/king-charles-caribbean-winston-churchill-empire-britain-wealth"
   ],
   [
-    "republicans",
+    "district",
     18,
-    "https://www.theguardian.com/us-news/2026/oct/16/midterms-voters-climate-crisis-candidates"
-  ],
-  [
-    "secretary",
-    17,
-    "https://www.nytimes.com/2026/10/17/us/elections/hegseth-singled-out-in-democrats-campaign-attacks-for-war-and-high-prices.html"
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide"
   ],
   [
     "shooting",
     17,
-    "https://www.nytimes.com/2026/10/16/us/bend-shooting-hero-teacher-dad.html"
+    "https://www.nytimes.com/2026/10/17/us/school-shooting-bend-oregon-identity.html"
   ],
   [
-    "media",
+    "game",
     17,
-    "https://www.nytimes.com/2026/10/16/nyregion/cornell-jane-doe-internet-doxing.html"
+    "https://www.theguardian.com/sport/live/2026/oct/17/atlanta-dream-v-golden-state-valkyries-wnba-finals-2026-game-1-live-buildup"
   ],
   [
-    "russia",
-    17,
-    "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine"
-  ],
-  [
-    "candidates",
-    17,
-    "https://www.theguardian.com/us-news/2026/oct/17/trump-rally-performance-overview"
-  ],
-  [
-    "senate",
-    17,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms"
-  ],
-  [
-    "democratic",
-    17,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms"
-  ],
-  [
-    "district",
-    17,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide"
-  ],
-  [
-    "war",
+    "team",
     16,
-    "https://www.nytimes.com/2026/10/17/us/elections/hegseth-singled-out-in-democrats-campaign-attacks-for-war-and-high-prices.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "everything",
-    16,
-    "https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html"
-  ],
-  [
-    "county",
-    16,
-    "https://www.nytimes.com/2026/10/16/weather/malibu-wildfire-wind-california.html"
-  ],
-  [
-    "late",
+    "film",
     16,
     "https://www.theguardian.com/news/ng-interactive/2026/oct/17/the-digger-disaster-what-an-epic-movie-flop-means-for-tom-cruise-and-hollywood"
   ],
   [
-    "press",
+    "democratic",
     16,
-    "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms"
   ],
   [
-    "political",
+    "county",
     16,
-    "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit"
-  ],
-  [
-    "west",
-    16,
-    "https://www.theguardian.com/us-news/2026/oct/17/philadelphia-vacant-lots-green-spaces"
-  ],
-  [
-    "students",
-    15,
-    "https://www.nytimes.com/2026/10/16/nyregion/cornell-trustees-board.html"
-  ],
-  [
-    "russian",
-    15,
-    "https://www.nytimes.com/2026/10/17/opinion/ukraine-russian-culture.html"
-  ],
-  [
-    "fire",
-    15,
-    "https://www.nytimes.com/2026/10/16/weather/malibu-wildfire-wind-california.html"
+    "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective"
   ],
   [
     "questions",
     15,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html"
+  ],
+  [
+    "least",
+    15,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
     "past",
@@ -211,24 +186,19 @@
     "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "film",
+    "local",
     15,
-    "https://www.theguardian.com/news/ng-interactive/2026/oct/17/the-digger-disaster-what-an-epic-movie-flop-means-for-tom-cruise-and-hollywood"
+    "https://www.theguardian.com/us-news/2026/oct/17/alligator-attack-florida-fisher-killed"
   ],
   [
-    "oregon",
+    "pope",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/17/talarico-mental-health-facility-rumor-ryan-amacher"
+    "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation"
   ],
   [
-    "judge",
+    "lung",
     15,
-    "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit"
-  ],
-  [
-    "south",
-    15,
-    "https://www.theguardian.com/culture/ng-interactive/2026/oct/17/charles-burnett-film-my-brothers-wedding"
+    "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation"
   ],
   [
     "charter",
@@ -238,42 +208,87 @@
   [
     "elections",
     14,
-    "https://www.nytimes.com/2026/10/16/us/what-we-know-no-kings-vote-early.html"
+    "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html"
   ],
   [
-    "pope",
+    "late",
     14,
-    "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html"
+    "https://www.nytimes.com/2026/10/17/us/politics/graham-trump-russia-sanctions-law.html"
   ],
   [
-    "hospital",
+    "congressional",
     14,
-    "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html"
+    "https://www.nytimes.com/2026/10/17/us/politics/pennsylvania-midterm-elections-house-races.html"
   ],
   [
-    "lung",
+    "midterm",
     14,
-    "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html"
+    "https://www.nytimes.com/2026/10/17/us/no-kings-early-voting-midterms.html"
+  ],
+  [
+    "early",
+    14,
+    "https://www.nytimes.com/2026/10/17/us/no-kings-early-voting-midterms.html"
+  ],
+  [
+    "attack",
+    14,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "everything",
+    14,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "country",
+    14,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "latest",
+    14,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "again",
+    14,
+    "https://www.theguardian.com/sport/live/2026/oct/17/atlanta-dream-v-golden-state-valkyries-wnba-finals-2026-game-1-live-buildup"
   ],
   [
     "online",
     14,
-    "https://www.nytimes.com/2026/10/16/nyregion/cornell-jane-doe-internet-doxing.html"
+    "https://www.theguardian.com/us-news/2026/oct/17/talarico-mental-health-facility-rumor-ryan-amacher"
   ],
   [
-    "sanctions",
+    "media",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine"
+    "https://www.theguardian.com/us-news/2026/oct/17/talarico-mental-health-facility-rumor-ryan-amacher"
   ],
   [
-    "court",
+    "students",
     14,
     "https://www.theguardian.com/us-news/2026/oct/17/cornell-student-response-rape-allegations"
   ],
   [
-    "killed",
+    "university",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/17/alligator-attack-florida-fisher-killed"
+    "https://www.theguardian.com/us-news/2026/oct/17/cornell-student-response-rape-allegations"
+  ],
+  [
+    "homes",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/17/southern-california-wildfires"
+  ],
+  [
+    "hospital",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/17/southern-california-wildfires"
+  ],
+  [
+    "special",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/17/philadelphia-vacant-lots-green-spaces"
   ],
   [
     "record",
@@ -284,6 +299,11 @@
     "money",
     14,
     "https://www.theguardian.com/commentisfree/2026/oct/16/the-guardian-view-on-the-banks-too-big-to-fail-cannot-mean-too-big-to-tax"
+  ],
+  [
+    "political",
+    14,
+    "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit"
   ],
   [
     "filter",
@@ -301,34 +321,19 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "congressional",
+    "sanctions",
     13,
-    "https://www.nytimes.com/2026/10/17/us/politics/pennsylvania-midterm-elections-house-races.html"
+    "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html"
   ],
   [
-    "weekend",
+    "elementary",
     13,
-    "https://www.nytimes.com/2026/10/16/us/what-we-know-no-kings-vote-early.html"
+    "https://www.nytimes.com/2026/10/17/us/school-shooting-bend-oregon-identity.html"
   ],
   [
-    "midterm",
+    "department",
     13,
-    "https://www.nytimes.com/2026/10/16/us/what-we-know-no-kings-vote-early.html"
-  ],
-  [
-    "latest",
-    13,
-    "https://www.nytimes.com/2026/10/16/us/what-we-know-no-kings-vote-early.html"
-  ],
-  [
-    "leo",
-    13,
-    "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html"
-  ],
-  [
-    "cancer",
-    13,
-    "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html"
+    "https://www.nytimes.com/2026/10/17/nyregion/subway-shooting-man-dead-nyc.html"
   ],
   [
     "gaza",
@@ -336,43 +341,38 @@
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
+    "war",
+    13,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "ahead",
+    13,
+    "https://www.theguardian.com/sport/live/2026/oct/17/atlanta-dream-v-golden-state-valkyries-wnba-finals-2026-game-1-live-buildup"
+  ],
+  [
     "children",
     13,
     "https://www.theguardian.com/commentisfree/2026/oct/17/french-schoolchildren-treated-like-violent-criminals-shameful-conditions-schools"
   ],
   [
-    "department",
+    "oregon",
     13,
-    "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items"
+    "https://www.theguardian.com/us-news/2026/oct/17/talarico-mental-health-facility-rumor-ryan-amacher"
   ],
   [
-    "states",
+    "donald",
     13,
-    "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit"
+    "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine"
   ],
   [
-    "again",
+    "court",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms"
+    "https://www.theguardian.com/us-news/2026/oct/17/cornell-student-response-rape-allegations"
   ],
   [
-    "mark",
+    "san",
     13,
-    "https://www.theguardian.com/commentisfree/2026/oct/17/smartglasses-robogroping-toxic-trends"
-  ],
-  [
-    "feel",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/oct/17/smartglasses-robogroping-toxic-trends"
-  ],
-  [
-    "buying",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/oct/17/ankle-weights-workout-fitness"
-  ],
-  [
-    "tested",
-    13,
-    "https://www.theguardian.com/thefilter-us/best-carry-on-luggage"
+    "https://www.theguardian.com/us-news/2026/oct/17/southern-california-wildfires"
   ]
 ];

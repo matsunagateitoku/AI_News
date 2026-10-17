@@ -3,32 +3,26 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 28,
+      "count": 25,
       "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
       "source": "The Guardian"
     },
     {
-      "name": "Jd Vance",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/16/donald-trump-russia-ukraine-protect-world",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Katie Zacharia",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/katie-zacharia-fired-press-secretary",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Elizabeth Holmes Movie",
+      "name": "Pope Leo",
       "count": 7,
-      "url": "https://www.nytimes.com/2026/10/16/movies/nathan-fielder-elizabeth-holmes-billy-evans.html",
+      "url": "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation",
+      "source": "The Guardian"
+    },
+    {
+      "name": "James Talarico",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/10/17/us/paxton-bus-tour-texas-republicans.html",
       "source": "NY Times"
     },
     {
-      "name": "Elon Musk",
-      "count": 7,
-      "url": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
+      "name": "Elizabeth Holmes",
+      "count": 6,
+      "url": "https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care",
       "source": "The Guardian"
     },
     {
@@ -38,59 +32,65 @@
       "source": "The Guardian"
     },
     {
+      "name": "Jd Vance",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/16/donald-trump-russia-ukraine-protect-world",
+      "source": "The Guardian"
+    },
+    {
       "name": "Mario + Rabbids:",
       "count": 6,
       "url": "https://www.theguardian.com/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics",
       "source": "The Guardian"
     },
     {
-      "name": "James Talarico",
+      "name": "Elon Musk",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/talarico-mental-health-facility-rumor-ryan-amacher",
+      "url": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
       "source": "The Guardian"
     },
     {
-      "name": "Pope Leo",
-      "count": 5,
-      "url": "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation",
-      "source": "The Guardian"
+      "name": "Ken Paxton",
+      "count": 4,
+      "url": "https://www.nytimes.com/2026/10/17/us/paxton-bus-tour-texas-republicans.html",
+      "source": "NY Times"
     },
     {
-      "name": "Selma Blair ‘",
-      "count": 5,
-      "url": "https://www.theguardian.com/film/2026/oct/17/selma-blair-airplane-incident",
+      "name": "Mark Zuckerberg",
+      "count": 4,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/17/smartglasses-robogroping-toxic-trends",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Revives 2020 Election Conspiracy Theories As Midterms Loom",
+      "name": "Trump Offers Putin Economic Relief",
       "count": 49,
-      "url": "https://www.nytimes.com/2026/10/17/us/politics/election-fraud-conspiracies-trump.html",
+      "url": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
       "source": "NY Times"
     },
     {
       "name": "Ai",
-      "count": 17,
+      "count": 16,
       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
       "source": "The Guardian"
     },
     {
-      "name": "Texas Senate",
-      "count": 15,
-      "url": "https://www.politico.com/news/2026/10/07/gop-paxton-money-texas-senate-01109800",
-      "source": "Politico"
-    },
-    {
-      "name": "Guardian Europe",
-      "count": 13,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/17/french-schoolchildren-treated-like-violent-criminals-shameful-conditions-schools",
-      "source": "The Guardian"
+      "name": "Michigan Senate",
+      "count": 16,
+      "url": "https://www.cbsnews.com/news/jd-vance-el-sayed-mike-rogers-weasel-michigan-senate/",
+      "source": "CBS News"
     },
     {
       "name": "The White House",
-      "count": 13,
+      "count": 15,
       "url": "https://www.theguardian.com/commentisfree/2026/oct/16/donald-trump-russia-ukraine-protect-world",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian Europe",
+      "count": 14,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/17/french-schoolchildren-treated-like-violent-criminals-shameful-conditions-schools",
       "source": "The Guardian"
     },
     {
@@ -101,27 +101,27 @@
     },
     {
       "name": "Congress",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
-      "source": "The Guardian"
-    },
-    {
-      "name": "&Quot;Little House",
-      "count": 8,
-      "url": "https://www.foxnews.com/entertainment/little-house-prairie-star-says-brutal-filming-conditions-left-cast-members-unconscious",
-      "source": "Fox News"
-    },
-    {
-      "name": "Gop",
-      "count": 8,
-      "url": "https://www.politico.com/news/2026/10/17/trump-candidates-ads-midterms-01124957",
-      "source": "Politico"
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
+      "source": "NY Times"
     },
     {
       "name": "The California Congressional District",
       "count": 7,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "Gop",
+      "count": 7,
+      "url": "https://www.politico.com/news/2026/10/17/trump-candidates-ads-midterms-01124957",
+      "source": "Politico"
+    },
+    {
+      "name": "Naza",
+      "count": 6,
+      "url": "https://www.theguardian.com/film/2026/oct/16/tough-to-watch-impossible-to-ignore-what-the-reviewers-say-about-naza-documentary",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
@@ -130,6 +130,12 @@
       "count": 2,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-pl-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "New Round Of ‘No Kings’ Rallies Focuses On Getting Out The Vote",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/10/17/us/no-kings-early-voting-midterms.html",
+      "source": "NY Times"
     },
     {
       "name": "The Gaza War",
@@ -141,12 +147,6 @@
       "name": "Werwulf",
       "count": 1,
       "url": "https://www.theguardian.com/commentisfree/2026/oct/17/the-hill-i-will-die-on-cinemas-have-been-getting-away-with-lies-films-should-begin-on-time",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Super Bowl",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/16/seahawks-broncos-nfl-thursday-night-football",
       "source": "The Guardian"
     },
     {
@@ -168,12 +168,6 @@
       "source": "The Guardian"
     },
     {
-      "name": "Olympics",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-10-16/city-controller-subpoenas-financial-records-from-28-olympic-organizers",
-      "source": "LA Times"
-    },
-    {
       "name": "L.A. City Charter Amendment La",
       "count": 1,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide",
@@ -184,69 +178,75 @@
       "count": 1,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-election-los-angeles-city-charter-amendment-prk-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "L.A. City Charter Amendment Prt",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-los-angeles-city-election-charter-amendment-prt-voter-guide",
+      "source": "LA Times"
     }
   ],
   "GPE": [
     {
-      "name": "California",
-      "count": 54,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
-      "source": "The Guardian"
+      "name": "Baja California",
+      "count": 57,
+      "url": "https://www.foxnews.com/world/three-men-158-years-murdering-american-australian-surfers-dumping-bodies-mexican-well",
+      "source": "Fox News"
     },
     {
       "name": "Us",
-      "count": 47,
+      "count": 48,
       "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Britain",
-      "count": 18,
-      "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
       "source": "The Guardian"
     },
     {
       "name": "Russia",
       "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
+      "url": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Britain",
+      "count": 13,
+      "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
       "source": "The Guardian"
     },
     {
       "name": "Oregon",
-      "count": 14,
+      "count": 12,
       "url": "https://www.theguardian.com/us-news/2026/oct/17/talarico-mental-health-facility-rumor-ryan-amacher",
       "source": "The Guardian"
     },
     {
       "name": "France",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/17/french-schoolchildren-treated-like-violent-criminals-shameful-conditions-schools",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "London",
+      "count": 11,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/17/the-digger-disaster-what-an-epic-movie-flop-means-for-tom-cruise-and-hollywood",
       "source": "The Guardian"
     },
     {
       "name": "Canada",
-      "count": 9,
+      "count": 10,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Uk",
+      "name": "U.S.",
       "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/talarico-mental-health-facility-rumor-ryan-amacher",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
+      "source": "NY Times"
     },
     {
       "name": "Ukraine",
       "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 8,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
+      "url": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-10-17T16:14:01Z"
+  "updated": "2026-10-17T21:20:44Z"
 };
