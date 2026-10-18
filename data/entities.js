@@ -2,9 +2,9 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "Super Bowl Mvp",
+      "name": "Olympics",
       "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/oct/17/jalen-hurts-eagles-injured-reserve-blood-clot-calf",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/18/this-is-horrifying-this-is-madness-the-row-over-competitive-yoga",
       "source": "The Guardian"
     },
     {
@@ -14,15 +14,27 @@
       "source": "LA Times"
     },
     {
-      "name": "Hurricane Isaias",
+      "name": "Olympic",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/10/16/us/immigration-ice-agents-hurricane-repairs.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/18/this-is-horrifying-this-is-madness-the-row-over-competitive-yoga",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Yogasana Championship",
+      "count": 1,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/18/this-is-horrifying-this-is-madness-the-row-over-competitive-yoga",
+      "source": "The Guardian"
     },
     {
       "name": "Game 5",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/oct/17/rays-guardians-alcs-game-four-yandy-diaz-world-series",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Super Bowl Mvp",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/oct/17/jalen-hurts-eagles-injured-reserve-blood-clot-calf",
       "source": "The Guardian"
     },
     {
@@ -48,32 +60,82 @@
       "count": 1,
       "url": "https://www.theguardian.com/fashion/2026/oct/16/game-set-tache-carlos-alcarez-growing-trend-stylish-top-lip",
       "source": "The Guardian"
-    },
+    }
+  ],
+  "ORG": [
     {
-      "name": "L.A. City Charter Amendment La",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide",
+      "name": "Trump Republicans",
+      "count": 42,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-state-superintendent-public-instruction-shaw-barrera-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "L.A. City Charter Amendment Prk",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-election-los-angeles-city-charter-amendment-prk-voter-guide",
+      "name": "Ai",
+      "count": 24,
+      "url": "https://www.theguardian.com/environment/2026/oct/18/the-problem-with-telling-people-the-world-is-ending",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Democratic Maine Senate",
+      "count": 21,
+      "url": "https://thehill.com/homenews/campaign/6156449-maine-senate-jackson-campaigns/",
+      "source": "The Hill"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 13,
+      "url": "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nfl",
+      "count": 9,
+      "url": "https://www.theguardian.com/sport/live/2026/oct/18/texans-v-jaguars-nfl-week-six-live",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Congress",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian",
+      "count": 8,
+      "url": "https://www.theguardian.com/culture/2026/oct/18/scholars-conclude-beyond-doubt-that-shakespeare-was-main-author-of-edward-iii",
+      "source": "The Guardian"
+    },
+    {
+      "name": "White House",
+      "count": 8,
+      "url": "https://www.latimes.com/politics/story/2026-10-16/trumps-team-is-in-chaos-as-midterms-enter-final-stretch",
+      "source": "LA Times"
+    },
+    {
+      "name": "Gop",
+      "count": 8,
+      "url": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
+      "source": "NPR"
+    },
+    {
+      "name": "The California Congressional District",
+      "count": 7,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
       "source": "LA Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 27,
+      "count": 21,
       "url": "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms",
       "source": "The Guardian"
     },
     {
-      "name": "Pope Leo",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/oct/18/pope-leo-resume-activities-removal-lung-cancer-tumour",
-      "source": "The Guardian"
+      "name": "Vladimir Putin",
+      "count": 12,
+      "url": "https://www.foxnews.com/politics/trump-tries-different-approach-russia-bring-americans-relief-amid-ongoing-war-ukraine",
+      "source": "Fox News"
     },
     {
       "name": "Ken Paxton",
@@ -82,10 +144,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "Jd Vance",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/16/donald-trump-russia-ukraine-protect-world",
-      "source": "The Guardian"
+      "name": "Margaret Brennan",
+      "count": 7,
+      "url": "https://www.cbsnews.com/news/angie-nixon-florida-democratic-senate-candiate-face-the-nation-transcript-10-18-2026/",
+      "source": "CBS News"
+    },
+    {
+      "name": "John Turturro",
+      "count": 7,
+      "url": "https://www.cbsnews.com/news/natural-born-actor-john-turturro/",
+      "source": "CBS News"
     },
     {
       "name": "James Talarico",
@@ -100,153 +168,85 @@
       "source": "The Guardian"
     },
     {
+      "name": "William Shakespeare",
+      "count": 6,
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/18/black-women-shakespeare-exhibit-washington-dc",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Volodymyr Zelenskyy",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
+      "source": "The Guardian"
+    },
+    {
       "name": "Elizabeth Holmes",
       "count": 5,
       "url": "https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Leo Xiv",
-      "count": 5,
-      "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
-      "source": "NPR"
-    },
-    {
-      "name": "Mark Zuckerberg",
-      "count": 4,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/17/smartglasses-robogroping-toxic-trends",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Wnba",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/oct/17/gabby-williams-golden-state-valkyries-atlanta-dream-wnba-finals-game-one",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "California",
-      "count": 52,
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/arizona-nevada-water-rights-colorado-river",
+      "count": 51,
+      "url": "https://www.theguardian.com/us-news/2026/oct/18/california-beach-erosion-san-clemente",
       "source": "The Guardian"
     },
     {
       "name": "Us",
-      "count": 39,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms",
+      "count": 46,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/18/trump-golf-course-washington-dc",
       "source": "The Guardian"
     },
     {
       "name": "Russia",
-      "count": 20,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/16/donald-trump-russia-ukraine-protect-world",
-      "source": "The Guardian"
-    },
-    {
-      "name": "France",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Oregon",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/talarico-mental-health-facility-rumor-ryan-amacher",
+      "count": 19,
+      "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
       "source": "The Guardian"
     },
     {
       "name": "Israel",
-      "count": 11,
+      "count": 16,
       "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Florida",
-      "count": 11,
-      "url": "https://www.theguardian.com/sport/2026/oct/17/rays-guardians-alcs-game-four-yandy-diaz-world-series",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kansas",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Wichita",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Republicans",
-      "count": 52,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-state-superintendent-public-instruction-shaw-barrera-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Ai",
-      "count": 19,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas Senate",
+      "name": "U.S.",
       "count": 14,
-      "url": "https://www.latimes.com/politics/story/2026-10-18/trumps-immigration-crackdown-tests-republicans-hold-on-texas-voters",
-      "source": "LA Times"
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "The Filter Us",
+      "name": "Ukraine",
+      "count": 14,
+      "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County",
       "count": 13,
-      "url": "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian Europe",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/17/french-schoolchildren-treated-like-violent-criminals-shameful-conditions-schools",
-      "source": "The Guardian"
-    },
-    {
-      "name": "House Appropriations Committee",
-      "count": 11,
-      "url": "https://thehill.com/homenews/house/6154578-appropriations-committee-oversight-strategy/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Congress",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 9,
-      "url": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
-      "source": "NPR"
-    },
-    {
-      "name": "The California Congressional District",
-      "count": 7,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Nfl",
-      "count": 7,
-      "url": "https://www.foxnews.com/outkick-betting/best-sportsbook-promos-nfl-week-6-get-2000-nfl-sunday-betmgm-fanduel-fanatics-more",
+      "name": "Texas",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Stade De France",
+      "count": 12,
+      "url": "https://www.foxnews.com/outkick-sports/nfl-monitors-france-street-violence-saints-steelers-game-paris-major-decision-looming",
       "source": "Fox News"
+    },
+    {
+      "name": "New York City",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-10-18T11:59:32Z"
+  "updated": "2026-10-18T16:24:56Z"
 };
