@@ -2,293 +2,268 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    70,
-    "https://www.nytimes.com/2026/10/18/us/politics/trump-russia-sanctions-hostage-negotiations.html"
+    85,
+    "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html"
   ],
   [
     "guide",
-    68,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/19/the-pet-ill-never-forget-orlando-was-paralysed-and-almost-died-then-became-the-perfect-guide-dog"
+    65,
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
   ],
   [
     "california",
-    62,
+    63,
     "https://www.nytimes.com/2026/10/19/us/california-climate-change-warning.html"
   ],
   [
-    "race",
-    41,
-    "https://www.nytimes.com/2026/10/19/us/politics/republicans-ohio-turnout-election.html"
+    "president",
+    45,
+    "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html"
   ],
   [
-    "president",
-    37,
-    "https://www.nytimes.com/2026/10/18/us/politics/trump-russia-sanctions-hostage-negotiations.html"
+    "race",
+    43,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-mayor-karen-bass-nithya-raman-voter-guide"
   ],
   [
     "court",
-    33,
-    "https://www.nytimes.com/2026/10/18/us/oj-simpson-case-takeaways.html"
-  ],
-  [
-    "protests",
-    28,
-    "https://www.nytimes.com/article/france-student-protests-why.html"
-  ],
-  [
-    "war",
-    28,
-    "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html"
-  ],
-  [
-    "country",
-    26,
-    "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html"
-  ],
-  [
-    "republican",
-    26,
-    "https://www.nytimes.com/2026/10/19/us/politics/midterms-republican-spending-edge.html"
+    31,
+    "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-mahmoud-khalil-deportation.html"
   ],
   [
     "senate",
-    26,
-    "https://www.nytimes.com/2026/10/19/us/politics/midterms-republican-spending-edge.html"
-  ],
-  [
-    "food",
-    26,
-    "https://www.theguardian.com/business/2026/oct/19/hellofresh-abuse-lawsuit"
-  ],
-  [
-    "voters",
-    26,
-    "https://www.theguardian.com/us-news/2026/oct/19/abortion-rights-idaho-ballot"
-  ],
-  [
-    "police",
-    25,
-    "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html"
+    27,
+    "https://www.theguardian.com/us-news/2026/oct/19/abdul-el-sayed-heckler-tommy"
   ],
   [
     "social",
-    25,
+    26,
     "https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots"
   ],
   [
-    "los",
+    "republican",
     25,
-    "https://www.theguardian.com/us-news/2026/oct/19/us-disaster-survivor-payouts-fema"
+    "https://www.nytimes.com/2026/10/19/opinion/republican-party-trump-future.html"
   ],
   [
-    "angeles",
+    "voters",
     25,
-    "https://www.theguardian.com/us-news/2026/oct/19/us-disaster-survivor-payouts-fema"
-  ],
-  [
-    "game",
-    24,
-    "https://www.theguardian.com/us-news/2026/oct/19/airman-died-rappelling-accident-texas-football-game"
-  ],
-  [
-    "republicans",
-    22,
-    "https://www.nytimes.com/2026/10/19/us/politics/republicans-ohio-turnout-election.html"
+    "https://www.theguardian.com/us-news/2026/oct/19/abortion-rights-idaho-ballot"
   ],
   [
     "democratic",
-    22,
+    25,
     "https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california"
   ],
   [
-    "party",
-    21,
-    "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html"
+    "france",
+    24,
+    "https://www.nytimes.com/2026/10/19/briefing/france-imposes-curfews.html"
   ],
   [
-    "russia",
-    21,
-    "https://www.nytimes.com/2026/10/18/us/politics/trump-russia-sanctions-hostage-negotiations.html"
+    "republicans",
+    23,
+    "https://www.nytimes.com/video/us/100000011219687/trump-campaigns-for-republicans-as-turmoil-mounts-in-washington.html"
   ],
   [
-    "ukraine",
-    21,
-    "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html"
+    "country",
+    23,
+    "https://www.nytimes.com/video/us/100000011219687/trump-campaigns-for-republicans-as-turmoil-mounts-in-washington.html"
+  ],
+  [
+    "democrats",
+    23,
+    "https://www.theguardian.com/us-news/2026/oct/19/california-illegal-voting-charges-doj"
+  ],
+  [
+    "police",
+    22,
+    "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html"
+  ],
+  [
+    "food",
+    22,
+    "https://www.theguardian.com/thefilter-us/2026/oct/19/anyday-anydeli-container-sale"
   ],
   [
     "district",
+    22,
+    "https://www.theguardian.com/us-news/2026/oct/19/republican-anthony-constantino-new-york-house-midterms"
+  ],
+  [
+    "protests",
     21,
-    "https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california"
+    "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html"
+  ],
+  [
+    "weekend",
+    21,
+    "https://www.nytimes.com/article/france-student-protests-why.html"
+  ],
+  [
+    "elections",
+    21,
+    "https://www.theguardian.com/us-news/2026/oct/19/california-illegal-voting-charges-doj"
+  ],
+  [
+    "los",
+    21,
+    "https://www.theguardian.com/sport/2026/oct/19/los-angeles-rams-superteam-struggles-nfl-football"
+  ],
+  [
+    "angeles",
+    21,
+    "https://www.theguardian.com/sport/2026/oct/19/los-angeles-rams-superteam-struggles-nfl-football"
+  ],
+  [
+    "war",
+    20,
+    "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html"
+  ],
+  [
+    "review",
+    20,
+    "https://www.theguardian.com/thefilter-us/2026/oct/19/anyday-anydeli-container-sale"
+  ],
+  [
+    "killed",
+    20,
+    "https://www.theguardian.com/us-news/2026/oct/19/oregon-school-shooter"
   ],
   [
     "proposition",
     20,
-    "https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california"
-  ],
-  [
-    "texas",
-    20,
-    "https://www.theguardian.com/us-news/2026/oct/19/airman-died-rappelling-accident-texas-football-game"
-  ],
-  [
-    "democrats",
-    19,
-    "https://www.nytimes.com/2026/10/19/us/politics/midterms-republican-spending-edge.html"
-  ],
-  [
-    "university",
-    19,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/19/is-it-true-that-you-need-to-take-10000-steps-a-day-to-be-healthy"
-  ],
-  [
-    "san",
-    19,
-    "https://www.theguardian.com/us-news/2026/oct/19/airman-died-rappelling-accident-texas-football-game"
-  ],
-  [
-    "latest",
-    18,
-    "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html"
-  ],
-  [
-    "died",
-    18,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/19/the-pet-ill-never-forget-orlando-was-paralysed-and-almost-died-then-became-the-perfect-guide-dog"
-  ],
-  [
-    "post",
-    18,
-    "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates"
-  ],
-  [
-    "supreme",
-    18,
-    "https://www.theguardian.com/music/2026/oct/16/the-mainstream-has-come-to-them-how-did-fontaines-dc-go-from-dublin-dive-bars-to-headlining-stadiums"
-  ],
-  [
-    "france",
-    17,
-    "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html"
-  ],
-  [
-    "campaign",
-    17,
-    "https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html"
-  ],
-  [
-    "community",
-    17,
-    "https://www.nytimes.com/2026/10/19/us/idaho-health-clinic-medicaid.html"
-  ],
-  [
-    "because",
-    17,
-    "https://www.theguardian.com/books/2026/oct/19/emperor-of-nothing-blake-j-harris-review-larry-david-biography"
-  ],
-  [
-    "season",
-    17,
-    "https://www.theguardian.com/books/2026/oct/19/emperor-of-nothing-blake-j-harris-review-larry-david-biography"
-  ],
-  [
-    "based",
-    17,
-    "https://www.theguardian.com/us-news/2026/oct/19/republican-anthony-constantino-new-york-house-midterms"
-  ],
-  [
-    "containers",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/oct/19/anyday-anydeli-container-sale"
-  ],
-  [
-    "minister",
-    16,
-    "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html"
-  ],
-  [
-    "elections",
-    16,
-    "https://www.nytimes.com/2026/10/19/us/politics/midterms-elections-senate-house-congress.html"
-  ],
-  [
-    "violent",
-    16,
-    "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html"
-  ],
-  [
-    "health",
-    16,
-    "https://www.nytimes.com/2026/10/19/us/idaho-health-clinic-medicaid.html"
-  ],
-  [
-    "department",
-    16,
-    "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths"
-  ],
-  [
-    "election",
-    15,
-    "https://www.nytimes.com/2026/10/19/podcasts/the-headlines/israel-elections-gold-global-market.html"
-  ],
-  [
-    "government",
-    15,
-    "https://www.nytimes.com/2026/10/14/business/medicare-advantage-plan-finder.html"
-  ],
-  [
-    "air",
-    15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "research",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/19/is-it-true-that-you-need-to-take-10000-steps-a-day-to-be-healthy"
-  ],
-  [
-    "paris",
-    15,
-    "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister"
-  ],
-  [
-    "love",
-    15,
-    "https://www.theguardian.com/music/2026/oct/19/ed-sanders-interview-the-fugs-film-counterculture"
-  ],
-  [
-    "series",
-    15,
-    "https://www.theguardian.com/film/2026/oct/19/galaxy-quest-feelgood-movie"
-  ],
-  [
-    "death",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/oct/18/the-guardian-view-on-plague-in-russia-what-is-most-worrying-is-the-lack-of-information"
-  ],
-  [
-    "shot",
-    15,
-    "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-omar-berrada-leeds-premier-league"
-  ],
-  [
-    "voter",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests"
+    "https://www.theguardian.com/us-news/2026/oct/19/abortion-rights-idaho-ballot"
   ],
   [
     "political",
-    15,
-    "https://www.theguardian.com/world/2026/oct/19/britain-geopolitical-crises-rejoin-eu-thinktank"
+    19,
+    "https://www.nytimes.com/video/us/100000011219687/trump-campaigns-for-republicans-as-turmoil-mounts-in-washington.html"
   ],
   [
-    "money",
-    15,
-    "https://www.theguardian.com/games/2026/oct/14/ready-player-one-why-the-games-arcade-is-having-a-rebirth"
+    "game",
+    19,
+    "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success"
   ],
   [
-    "candidates",
+    "election",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-frances-protests-a-polarised-country-is-in-a-perilous-political-moment"
+  ],
+  [
+    "midterms",
+    18,
+    "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html"
+  ],
+  [
+    "county",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/19/black-bear-california-library"
+  ],
+  [
+    "ahead",
+    17,
+    "https://www.nytimes.com/video/us/100000011219687/trump-campaigns-for-republicans-as-turmoil-mounts-in-washington.html"
+  ],
+  [
+    "american",
+    17,
+    "https://www.nytimes.com/2026/10/19/briefing/france-imposes-curfews.html"
+  ],
+  [
+    "government",
+    17,
+    "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html"
+  ],
+  [
+    "team",
+    17,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "director",
+    17,
+    "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success"
+  ],
+  [
+    "department",
+    17,
+    "https://www.theguardian.com/us-news/2026/oct/19/california-illegal-voting-charges-doj"
+  ],
+  [
+    "latest",
+    16,
+    "https://www.nytimes.com/2026/10/19/briefing/france-imposes-curfews.html"
+  ],
+  [
+    "school",
+    16,
+    "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html"
+  ],
+  [
+    "because",
+    16,
+    "https://www.nytimes.com/2026/10/19/climate/tree-pandemics-northeast-forests.html"
+  ],
+  [
+    "attacks",
+    16,
+    "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html"
+  ],
+  [
+    "campaign",
+    16,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "film",
+    16,
+    "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success"
+  ],
+  [
+    "love",
+    16,
+    "https://www.theguardian.com/music/2026/oct/19/ed-sanders-interview-the-fugs-film-counterculture"
+  ],
+  [
+    "ukraine",
+    16,
+    "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates"
+  ],
+  [
+    "season",
+    16,
+    "https://www.theguardian.com/sport/2026/oct/19/los-angeles-rams-superteam-struggles-nfl-football"
+  ],
+  [
+    "ago",
     15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms"
+    "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html"
+  ],
+  [
+    "texas",
+    15,
+    "https://www.nytimes.com/2026/10/19/us/ice-death-laredo-texas-medicine.html"
+  ],
+  [
+    "saudi",
+    15,
+    "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html"
+  ],
+  [
+    "attack",
+    15,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "don",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/oct/19/anyday-anydeli-container-sale"
+  ],
+  [
+    "single",
+    15,
+    "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie"
   ],
   [
     "charter",
@@ -296,24 +271,19 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "far",
+    "red",
     14,
-    "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html"
+    "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html"
   ],
   [
-    "seat",
+    "family",
     14,
-    "https://www.nytimes.com/2026/10/19/us/politics/republicans-ohio-turnout-election.html"
+    "https://www.nytimes.com/2026/10/19/us/ice-hospitalization-us-citizen.html"
   ],
   [
-    "prime",
+    "died",
     14,
-    "https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html"
-  ],
-  [
-    "york",
-    14,
-    "https://www.nytimes.com/2026/10/19/nyregion/in-its-forever-war-on-rats-new-york-enlists-a-killing-machine.html"
+    "https://www.nytimes.com/2026/10/19/us/ice-death-laredo-texas-medicine.html"
   ],
   [
     "everything",
@@ -321,58 +291,88 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
+    "containers",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/oct/19/anyday-anydeli-container-sale"
+  ],
+  [
+    "post",
+    14,
+    "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates"
+  ],
+  [
     "tax",
     14,
     "https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california"
   ],
   [
-    "congressional",
+    "america",
     14,
     "https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california"
-  ],
-  [
-    "star",
-    14,
-    "https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots"
-  ],
-  [
-    "review",
-    14,
-    "https://www.theguardian.com/books/2026/oct/19/emperor-of-nothing-blake-j-harris-review-larry-david-biography"
-  ],
-  [
-    "don",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/19/the-pet-ill-never-forget-orlando-was-paralysed-and-almost-died-then-became-the-perfect-guide-dog"
-  ],
-  [
-    "record",
-    14,
-    "https://www.theguardian.com/us-news/2026/oct/19/republican-anthony-constantino-new-york-house-midterms"
-  ],
-  [
-    "gop",
-    14,
-    "https://www.theguardian.com/us-news/2026/oct/19/republican-anthony-constantino-new-york-house-midterms"
-  ],
-  [
-    "local",
-    14,
-    "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister"
-  ],
-  [
-    "today",
-    14,
-    "https://www.theguardian.com/us-news/2026/oct/19/abortion-rights-idaho-ballot"
-  ],
-  [
-    "super",
-    14,
-    "https://www.theguardian.com/sport/2026/oct/19/los-angeles-rams-superteam-struggles-nfl-football"
   ],
   [
     "amendment",
     14,
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
+  ],
+  [
+    "musk",
+    14,
+    "https://www.latimes.com/business/story/2026-10-17/elon-musk-just-showed-off-flying-car-heres-what-to-know-about-tesla-roadster"
+  ],
+  [
+    "judge",
+    13,
+    "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html"
+  ],
+  [
+    "supreme",
+    13,
+    "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-mahmoud-khalil-deportation.html"
+  ],
+  [
+    "party",
+    13,
+    "https://www.nytimes.com/2026/10/19/opinion/republican-party-trump-future.html"
+  ],
+  [
+    "here's",
+    13,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "history",
+    13,
+    "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success"
+  ],
+  [
+    "question",
+    13,
+    "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success"
+  ],
+  [
+    "far",
+    13,
+    "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success"
+  ],
+  [
+    "close",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship"
+  ],
+  [
+    "york",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship"
+  ],
+  [
+    "book",
+    13,
+    "https://www.theguardian.com/music/2026/oct/19/ed-sanders-interview-the-fugs-film-counterculture"
+  ],
+  [
+    "office",
+    13,
+    "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates"
   ]
 ];

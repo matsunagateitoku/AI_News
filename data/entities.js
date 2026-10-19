@@ -2,45 +2,51 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Defends Plans",
-      "count": 46,
-      "url": "https://www.nytimes.com/2026/10/18/us/politics/trump-russia-sanctions-hostage-negotiations.html",
-      "source": "NY Times"
+      "name": "Trump Republicans",
+      "count": 44,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-state-superintendent-public-instruction-shaw-barrera-voter-guide",
+      "source": "LA Times"
     },
     {
-      "name": "Senate Armed Services Committee",
-      "count": 21,
-      "url": "https://thehill.com/homenews/senate/6157442-wicker-urges-donald-trump-zelensky-deal/",
-      "source": "The Hill"
-    },
-    {
-      "name": "The Supreme Court",
-      "count": 17,
-      "url": "https://www.cbsnews.com/news/supreme-court-khalid-sheikh-mohammed-911-appeal/",
+      "name": "Texas Senate",
+      "count": 25,
+      "url": "https://www.cbsnews.com/video/breaking-down-new-poll-tight-senate-race-texas/",
       "source": "CBS News"
     },
     {
+      "name": "Ai",
+      "count": 18,
+      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "source": "The Guardian"
+    },
+    {
       "name": "Gop",
-      "count": 14,
+      "count": 12,
       "url": "https://www.theguardian.com/us-news/2026/oct/19/republican-anthony-constantino-new-york-house-midterms",
       "source": "The Guardian"
     },
     {
-      "name": "Congress",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/10/19/us/politics/midterms-elections-senate-house-congress.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Guardian",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump",
+      "name": "The White House",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship",
       "source": "The Guardian"
     },
     {
-      "name": "Nfl",
+      "name": "The Supreme Court",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/khalid-sheikh-mohammed-september-11-plea-deal",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cnn",
       "count": 9,
-      "url": "https://www.theguardian.com/sport/2026/oct/19/los-angeles-rams-superteam-struggles-nfl-football",
+      "url": "https://www.theguardian.com/media/2026/oct/19/christiane-amanpour-leaving-cnn",
       "source": "The Guardian"
     },
     {
@@ -50,85 +56,47 @@
       "source": "The Guardian"
     },
     {
-      "name": "Cbs News'",
-      "count": 9,
-      "url": "https://www.cbsnews.com/video/how-adults-tried-to-prevent-the-deadly-shooting-at-silver-rail-elementary-school/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Ai",
-      "count": 7,
-      "url": "https://www.theguardian.com/technology/2026/oct/19/us-teens-nudify-apps-apple-google-parental-controls",
+      "name": "Cbs News",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
       "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "California",
-      "count": 55,
-      "url": "https://www.nytimes.com/2026/10/19/us/california-climate-change-warning.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Us",
-      "count": 52,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Russia",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/10/18/us/politics/trump-russia-sanctions-hostage-negotiations.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "France",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ukraine",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 14,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Texas",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/airman-died-rappelling-accident-texas-football-game",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ubisoft Paris",
-      "count": 13,
-      "url": "https://www.theguardian.com/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Canada",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "L.A. County",
-      "count": 11,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
-      "source": "LA Times"
     }
   ],
   "PERSON": [
     {
+      "name": "Melania Trump",
+      "count": 27,
+      "url": "https://thehill.com/newsletters/healthcare/6159244-trump-establishes-new-womens-health-divisions/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Elon Musk",
+      "count": 11,
+      "url": "https://www.latimes.com/business/story/2026-10-17/elon-musk-just-showed-off-flying-car-heres-what-to-know-about-tesla-roadster",
+      "source": "LA Times"
+    },
+    {
+      "name": "Elizabeth Holmes",
+      "count": 8,
+      "url": "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Khalid Sheikh Mohammed",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/khalid-sheikh-mohammed-september-11-plea-deal",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nathan Fielder",
+      "count": 6,
+      "url": "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success",
+      "source": "The Guardian"
+    },
+    {
       "name": "Donald Trump",
-      "count": 20,
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/republican-anthony-constantino-new-york-house-midterms",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship",
       "source": "The Guardian"
     },
     {
@@ -144,55 +112,19 @@
       "source": "The Guardian"
     },
     {
-      "name": "Abdul El-Sayed",
-      "count": 6,
-      "url": "https://www.theguardian.com/media/2026/oct/18/cbs-reporter-apologizes-abdul-el-sayed-post",
-      "source": "The Guardian"
-    },
-    {
       "name": "Mario + Rabbids:",
       "count": 6,
       "url": "https://www.theguardian.com/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics",
       "source": "The Guardian"
     },
     {
-      "name": "Elon Musk",
+      "name": "Kingfish",
       "count": 6,
-      "url": "https://www.latimes.com/business/story/2026-10-17/elon-musk-just-showed-off-flying-car-heres-what-to-know-about-tesla-roadster",
-      "source": "LA Times"
-    },
-    {
-      "name": "James Talarico",
-      "count": 6,
-      "url": "https://www.cbsnews.com/video/new-poll-shows-talarico-paxton-essentially-tied-in-texas-as-democrats-republicans-weigh-midterms/",
+      "url": "https://www.cbsnews.com/video/saturday-sessions-christone-kingfish-ingram-performs-voodoo-charm/",
       "source": "CBS News"
-    },
-    {
-      "name": "Vladimir Putin",
-      "count": 6,
-      "url": "https://www.cbsnews.com/video/trumps-feud-with-zelenskyy-worsens-after-us-moves-to-help-putin/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Volodymyr Zelenskyy",
-      "count": 5,
-      "url": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ian Patterson",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/airman-died-rappelling-accident-texas-football-game",
-      "source": "The Guardian"
     }
   ],
   "EVENT": [
-    {
-      "name": "What Super Bowl",
-      "count": 6,
-      "url": "https://www.latimes.com/sports/rams/story/2026-10-18/what-super-bowl-rams-look-like-lifeless-during-loss-to-cardinals",
-      "source": "LA Times"
-    },
     {
       "name": "L.A. City Charter Amendment Pl: Streamlining Planning Department",
       "count": 2,
@@ -200,15 +132,21 @@
       "source": "LA Times"
     },
     {
-      "name": "Hurricane Milton",
+      "name": "The Super Bowl Mvp",
+      "count": 2,
+      "url": "https://www.nbcnews.com/sports/nfl/eagles-quarterback-jalen-hurts-likely-season-blood-clots-found-lungs-l-rcna604355",
+      "source": "NBC News"
+    },
+    {
+      "name": "Super Bowl",
       "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-disaster-survivor-payouts-fema",
+      "url": "https://www.theguardian.com/sport/2026/oct/19/los-angeles-rams-superteam-struggles-nfl-football",
       "source": "The Guardian"
     },
     {
-      "name": "The American Revolution’S Continental Congress",
+      "name": "Revolution",
       "count": 1,
-      "url": "https://www.theguardian.com/film/2026/oct/19/harlem-renaissance-documentary-once-upon-a-time",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-frances-protests-a-polarised-country-is-in-a-perilous-political-moment",
       "source": "The Guardian"
     },
     {
@@ -218,21 +156,21 @@
       "source": "The Guardian"
     },
     {
-      "name": "World Series",
+      "name": "Hurricane Milton",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/18/rays-on-verge-of-world-series-return-after-rasmussen-dazzles-in-win-over-guardians",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-disaster-survivor-payouts-fema",
       "source": "The Guardian"
     },
     {
-      "name": "Game 5",
+      "name": "Wwii",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/18/rays-on-verge-of-world-series-return-after-rasmussen-dazzles-in-win-over-guardians",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/19/us-wwii-ship-richard-montgomery-thames-bombs-prevent-explosion",
       "source": "The Guardian"
     },
     {
-      "name": "Hurricane Trudy",
+      "name": "The American Revolution’S Continental Congress",
       "count": 1,
-      "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+      "url": "https://www.theguardian.com/film/2026/oct/19/harlem-renaissance-documentary-once-upon-a-time",
       "source": "The Guardian"
     },
     {
@@ -248,5 +186,67 @@
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-10-19T14:28:45Z"
+  "GPE": [
+    {
+      "name": "California",
+      "count": 56,
+      "url": "https://www.nytimes.com/2026/10/19/us/california-climate-change-warning.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Us",
+      "count": 41,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship",
+      "source": "The Guardian"
+    },
+    {
+      "name": "France",
+      "count": 23,
+      "url": "https://www.nytimes.com/article/france-student-protests-why.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ukraine",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "U.S.",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/10/19/us/ice-hospitalization-us-citizen.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Russia",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/10/19/us/ice-death-laredo-texas-medicine.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County",
+      "count": 12,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Kansas",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ubisoft Paris",
+      "count": 9,
+      "url": "https://www.theguardian.com/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics",
+      "source": "The Guardian"
+    }
+  ],
+  "updated": "2026-10-19T22:50:31Z"
 };
