@@ -2,7 +2,7 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    81,
+    73,
     "https://www.nytimes.com/2026/10/18/us/trump-midterm-elections-republicans-approval-ratings.html"
   ],
   [
@@ -12,163 +12,158 @@
   ],
   [
     "california",
-    60,
-    "https://www.theguardian.com/us-news/2026/oct/18/california-beach-erosion-san-clemente"
-  ],
-  [
-    "president",
-    49,
-    "https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html"
+    56,
+    "https://www.nytimes.com/2026/10/17/us/10-gallon-gas-station.html"
   ],
   [
     "race",
-    39,
+    41,
     "https://www.nytimes.com/2026/10/18/us/politics/midterms-2028-presidential-race-democrats-republicans.html"
   ],
   [
+    "president",
+    39,
+    "https://www.nytimes.com/2026/10/18/us/politics/trump-russia-sanctions-hostage-negotiations.html"
+  ],
+  [
     "republican",
-    33,
-    "https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html"
+    32,
+    "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms"
   ],
   [
     "game",
-    31,
-    "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths"
+    28,
+    "https://www.theguardian.com/stage/2026/oct/19/trumps-press-officer-almeida-triumph-caryl-churchill-emperor"
+  ],
+  [
+    "campaign",
+    27,
+    "https://www.nytimes.com/2026/10/18/us/trump-midterm-elections-republicans-approval-ratings.html"
   ],
   [
     "senate",
-    30,
+    27,
     "https://www.nytimes.com/2026/10/18/us/politics/midterms-2028-presidential-race-democrats-republicans.html"
   ],
   [
     "democratic",
-    27,
-    "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms"
+    26,
+    "https://www.nytimes.com/2026/10/18/us/politics/larry-david-dsa-satire.html"
   ],
   [
-    "political",
+    "food",
     24,
-    "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html"
-  ],
-  [
-    "fire",
-    23,
-    "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html"
-  ],
-  [
-    "military",
-    23,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "election",
-    23,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms"
-  ],
-  [
-    "course",
-    22,
-    "https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html"
-  ],
-  [
-    "voters",
-    22,
-    "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html"
-  ],
-  [
-    "social",
-    22,
-    "https://www.theguardian.com/technology/2026/oct/18/wikipedia-human-history-ai-future-under-threat"
-  ],
-  [
-    "campaign",
-    21,
-    "https://www.nytimes.com/2026/10/18/us/trump-midterm-elections-republicans-approval-ratings.html"
-  ],
-  [
-    "country",
-    21,
-    "https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html"
+    "https://www.nytimes.com/2026/10/18/us/inflation-snap-benefit-cuts-families-food-pantry.html"
   ],
   [
     "los",
-    21,
+    24,
     "https://www.theguardian.com/commentisfree/2026/oct/18/trump-golf-course-washington-dc"
   ],
   [
     "angeles",
-    21,
+    24,
     "https://www.theguardian.com/commentisfree/2026/oct/18/trump-golf-course-washington-dc"
   ],
   [
-    "food",
-    21,
-    "https://www.theguardian.com/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system"
-  ],
-  [
-    "republicans",
-    21,
-    "https://www.theguardian.com/us-news/2026/oct/16/midterms-voters-climate-crisis-candidates"
-  ],
-  [
-    "nation",
-    20,
-    "https://www.nytimes.com/2026/10/18/us/trump-midterm-elections-republicans-approval-ratings.html"
-  ],
-  [
-    "killed",
-    20,
-    "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths"
-  ],
-  [
-    "police",
-    20,
-    "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths"
+    "voters",
+    23,
+    "https://www.nytimes.com/2026/10/18/us/maha-voters-republican-split.html"
   ],
   [
     "candidate",
-    19,
-    "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms"
+    23,
+    "https://www.nytimes.com/2026/10/18/us/talarico-senate-campaign-tour-texas.html"
   ],
   [
-    "don",
-    19,
-    "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms"
+    "killed",
+    22,
+    "https://www.nytimes.com/2026/10/18/us/oj-simpson-white-bronco-police-chase.html"
   ],
   [
-    "party",
-    18,
-    "https://www.nytimes.com/2026/10/18/us/trump-midterm-elections-republicans-approval-ratings.html"
+    "military",
+    22,
+    "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html"
   ],
   [
-    "school",
-    18,
-    "https://www.nytimes.com/article/france-student-protests-why.html"
+    "fire",
+    22,
+    "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html"
   ],
   [
-    "elections",
-    18,
-    "https://www.nytimes.com/2026/10/18/us/politics/midterms-2028-presidential-race-democrats-republicans.html"
-  ],
-  [
-    "administration",
-    18,
-    "https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html"
+    "social",
+    22,
+    "https://www.theguardian.com/us-news/2026/oct/18/trump-dc-golf-course-renovation"
   ],
   [
     "san",
-    18,
+    21,
     "https://www.theguardian.com/us-news/2026/oct/18/california-beach-erosion-san-clemente"
+  ],
+  [
+    "election",
+    20,
+    "https://www.nytimes.com/2026/10/18/us/talarico-senate-campaign-tour-texas.html"
+  ],
+  [
+    "political",
+    20,
+    "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html"
+  ],
+  [
+    "documentary",
+    20,
+    "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html"
+  ],
+  [
+    "course",
+    19,
+    "https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html"
+  ],
+  [
+    "russia",
+    19,
+    "https://www.nytimes.com/2026/10/18/us/politics/trump-russia-sanctions-hostage-negotiations.html"
+  ],
+  [
+    "texas",
+    18,
+    "https://www.nytimes.com/2026/10/18/us/talarico-senate-campaign-tour-texas.html"
+  ],
+  [
+    "everything",
+    18,
+    "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html"
+  ],
+  [
+    "least",
+    18,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "post",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/oct/18/this-is-horrifying-this-is-madness-the-row-over-competitive-yoga"
+  ],
+  [
+    "don",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms"
+  ],
+  [
+    "district",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/18/trump-dc-golf-course-renovation"
   ],
   [
     "department",
     18,
-    "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms"
   ],
   [
-    "candidates",
+    "republicans",
     18,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms"
+    "https://www.latimes.com/california/story/2026-10-18/hes-everywhere-carl-demaios-push-to-make-gop-relevant-again"
   ],
   [
     "proposition",
@@ -176,14 +171,34 @@
     "https://www.latimes.com/california/story/2026-10-18/hes-everywhere-carl-demaios-push-to-make-gop-relevant-again"
   ],
   [
-    "died",
+    "israel",
     17,
-    "https://www.theguardian.com/sport/2026/oct/18/air-force-officer-killed-in-rappelling-accident-before-utsas-game-against-navy"
+    "https://www.nytimes.com/2026/10/18/us/politics/larry-david-dsa-satire.html"
   ],
   [
-    "district",
+    "elections",
     17,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide"
+    "https://www.nytimes.com/2026/10/18/us/politics/midterms-2028-presidential-race-democrats-republicans.html"
+  ],
+  [
+    "weekend",
+    17,
+    "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html"
+  ],
+  [
+    "country",
+    17,
+    "https://www.nytimes.com/2026/10/17/headway/jamaica-us-deportees-resettlement-furi.html"
+  ],
+  [
+    "university",
+    17,
+    "https://www.nytimes.com/2026/10/18/nyregion/cornell-university-fraternity-party-ban.html"
+  ],
+  [
+    "candidates",
+    17,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms"
   ],
   [
     "early",
@@ -191,29 +206,9 @@
     "https://www.nytimes.com/2026/10/18/us/politics/midterms-2028-presidential-race-democrats-republicans.html"
   ],
   [
-    "democrats",
+    "film",
     16,
-    "https://www.nytimes.com/2026/10/18/us/politics/midterms-2028-presidential-race-democrats-republicans.html"
-  ],
-  [
-    "israel",
-    16,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "secretary",
-    16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "feel",
-    16,
-    "https://www.theguardian.com/environment/2026/oct/18/the-problem-with-telling-people-the-world-is-ending"
-  ],
-  [
-    "university",
-    16,
-    "https://www.theguardian.com/sport/2026/oct/18/air-force-officer-killed-in-rappelling-accident-before-utsas-game-against-navy"
+    "https://www.theguardian.com/film/2026/oct/19/elizabeth-holmes-documentary-debuts-with-huge-opening-weekend"
   ],
   [
     "filter",
@@ -226,9 +221,19 @@
     "https://www.theguardian.com/lifeandstyle/2026/oct/15/the-filter-shopping-dilemas"
   ],
   [
-    "congressional",
+    "died",
     16,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide"
+    "https://www.theguardian.com/lifeandstyle/2026/oct/19/we-are-beyond-heartbroken-cindy-crawford-rande-and-kaia-gerber-share-tributes-to-presley"
+  ],
+  [
+    "series",
+    16,
+    "https://www.theguardian.com/sport/2026/oct/18/rays-on-verge-of-world-series-return-after-rasmussen-dazzles-in-win-over-guardians"
+  ],
+  [
+    "worst",
+    16,
+    "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
   ],
   [
     "midterms",
@@ -236,34 +241,34 @@
     "https://www.nytimes.com/2026/10/18/us/trump-midterm-elections-republicans-approval-ratings.html"
   ],
   [
+    "police",
+    15,
+    "https://www.nytimes.com/2026/10/18/us/oj-simpson-white-bronco-police-chase.html"
+  ],
+  [
+    "americans",
+    15,
+    "https://www.nytimes.com/2026/10/18/us/inflation-snap-benefit-cuts-families-food-pantry.html"
+  ],
+  [
+    "crisis",
+    15,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
     "war",
     15,
-    "https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html"
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "ukraine",
+    "based",
     15,
-    "https://www.nytimes.com/2026/10/18/us/politics/ukraine-sudan-tps-trump.html"
+    "https://www.theguardian.com/commentisfree/2026/oct/19/housing-crisis-global-democracy-nations-financial-sector"
   ],
   [
-    "least",
+    "football",
     15,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "texas",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms"
-  ],
-  [
-    "donald",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms"
-  ],
-  [
-    "series",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/17/trump-rally-performance-overview"
+    "https://www.theguardian.com/us-news/2026/oct/18/oj-simpson-case-times-report"
   ],
   [
     "tax",
@@ -271,14 +276,14 @@
     "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial"
   ],
   [
-    "college",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/18/australian-actor-charlie-vickers-10-chaotic-questions"
-  ],
-  [
     "charter",
     15,
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
+  ],
+  [
+    "party",
+    14,
+    "https://www.nytimes.com/2026/10/18/us/trump-midterm-elections-republicans-approval-ratings.html"
   ],
   [
     "golf",
@@ -286,24 +291,54 @@
     "https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html"
   ],
   [
-    "france",
+    "government",
     14,
     "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html"
   ],
   [
+    "holmes",
+    14,
+    "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html"
+  ],
+  [
+    "money",
+    14,
+    "https://www.nytimes.com/2026/10/18/us/inflation-snap-benefit-cuts-families-food-pantry.html"
+  ],
+  [
+    "community",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/oct/19/housing-crisis-global-democracy-nations-financial-sector"
+  ],
+  [
+    "paxton",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms"
+  ],
+  [
+    "sayed",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms"
+  ],
+  [
     "running",
     14,
-    "https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html"
+    "https://www.theguardian.com/stage/2026/oct/19/trumps-press-officer-almeida-triumph-caryl-churchill-emperor"
   ],
   [
-    "health",
+    "water",
     14,
-    "https://www.theguardian.com/environment/2026/oct/18/workers-heat-protections"
+    "https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnsns"
   ],
   [
-    "again",
+    "love",
     14,
-    "https://www.theguardian.com/world/2026/oct/18/theres-a-lot-of-racism-a-lot-of-hatred-far-right-gains-predicted-as-israel-heads-to-the-polls"
+    "https://www.theguardian.com/environment/2026/oct/17/how-puffin-symbol-climate-crisis-hope"
+  ],
+  [
+    "college",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/18/australian-actor-charlie-vickers-10-chaotic-questions"
   ],
   [
     "amendment",
@@ -311,68 +346,33 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "margaret",
-    14,
-    "https://www.cbsnews.com/news/kevin-cramer-north-dakota-republican-face-the-nation-transcript-10-18-2026/"
-  ],
-  [
-    "brennan",
-    14,
-    "https://www.cbsnews.com/news/kevin-cramer-north-dakota-republican-face-the-nation-transcript-10-18-2026/"
-  ],
-  [
-    "protests",
+    "gop",
     13,
-    "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html"
+    "https://www.nytimes.com/2026/10/18/us/trump-midterm-elections-republicans-approval-ratings.html"
   ],
   [
-    "everything",
+    "democrats",
     13,
-    "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html"
+    "https://www.nytimes.com/2026/10/18/us/politics/midterms-2028-presidential-race-democrats-republicans.html"
   ],
   [
-    "support",
+    "attack",
     13,
-    "https://www.nytimes.com/2026/10/18/us/maha-voters-republican-split.html"
+    "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html"
   ],
   [
-    "team",
+    "housing",
     13,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.nytimes.com/2026/10/18/business/china-economy-gdp.html"
   ],
   [
-    "post",
+    "place",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/18/this-is-horrifying-this-is-madness-the-row-over-competitive-yoga"
+    "https://www.nytimes.com/2026/10/18/nyregion/cornell-university-fraternity-party-ban.html"
   ],
   [
-    "ahead",
+    "office",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/18/this-is-horrifying-this-is-madness-the-row-over-competitive-yoga"
-  ],
-  [
-    "late",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/18/california-beach-erosion-san-clemente"
-  ],
-  [
-    "voter",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests"
-  ],
-  [
-    "little",
-    13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms"
-  ],
-  [
-    "russia",
-    13,
-    "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure"
-  ],
-  [
-    "local",
-    13,
-    "https://www.theguardian.com/sport/2026/oct/18/air-force-officer-killed-in-rappelling-accident-before-utsas-game-against-navy"
+    "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html"
   ]
 ];
