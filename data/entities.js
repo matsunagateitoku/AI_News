@@ -2,95 +2,151 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Republicans",
-      "count": 46,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-state-superintendent-public-instruction-shaw-barrera-voter-guide",
-      "source": "LA Times"
+      "name": "Trump Administration",
+      "count": 38,
+      "url": "https://www.cbsnews.com/video/trump-administration-health-leaders-break-down-new-womens-health-initiative/",
+      "source": "CBS News"
     },
     {
-      "name": "Minnesota Senate",
+      "name": "Mississippi Senate",
+      "count": 29,
+      "url": "https://www.nbcnews.com/politics/2026-election/democrats-jump-mississippi-sente-race-rcna604614",
+      "source": "NBC News"
+    },
+    {
+      "name": "Concentric Ai",
       "count": 22,
-      "url": "https://www.foxnews.com/opinion/morning-glory-minnesotas-massive-fraud-scandal-deliver-stunning-senate-upset",
+      "url": "https://www.theguardian.com/technology/2026/oct/20/ai-human-judgment",
+      "source": "The Guardian"
+    },
+    {
+      "name": "House Judiciary Committee",
+      "count": 13,
+      "url": "https://www.foxnews.com/politics/virginia-sanctuary-county-ignores-1670-detainer-requests-2-years-house-judiciary-committee-finds",
       "source": "Fox News"
     },
     {
-      "name": "Ai",
-      "count": 16,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/ai-supposed-to-save-time-opposite-government-uk",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/kansas-senate-race-democrat-adam-hamilton",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop Senate",
+      "name": "Guardian",
       "count": 11,
-      "url": "https://www.foxnews.com/us/gop-senate-hopeful-opening-key-dem-voter-battleground-race-more-top-headlines",
-      "source": "Fox News"
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-peace-courts-evictions-fees",
+      "source": "The Guardian"
     },
     {
-      "name": "Nba",
+      "name": "Congress",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/trumps-obsession-with-ilhan-omar-has-reached-a-dangerous-new-level",
+      "source": "The Guardian"
+    },
+    {
+      "name": "El-Sayed     Man",
       "count": 10,
-      "url": "https://www.theguardian.com/sport/2026/oct/20/nba-2026-27-season-predictions-a-knicks-repeat-and-lebrons-villain-arc",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/abdul-el-sayed-heckler",
       "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
-      "count": 9,
+      "count": 10,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Guardian",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/ai-supposed-to-save-time-opposite-government-uk",
+      "name": "Christina Applegate",
+      "count": 10,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/20/christina-applegate-ms-misdiagnosed",
       "source": "The Guardian"
     },
     {
-      "name": "The Tampa Bay Rays",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/oct/19/rays-guardians-mlb-playoffs-world-series-alcs",
+      "name": "The Celtics-Pistons Nba",
+      "count": 9,
+      "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-nba-season-opener-celtics-pistons",
+      "source": "Fox News"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 44,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/trumps-obsession-with-ilhan-omar-has-reached-a-dangerous-new-level",
       "source": "The Guardian"
     },
     {
-      "name": "The California Congressional District",
-      "count": 7,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
+      "name": "California",
+      "count": 44,
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/great-white-shark-photobomb-california",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Russia",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ukraine",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/10/20/briefing/ukraine-kill-zone.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County",
+      "count": 16,
+      "url": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
       "source": "LA Times"
+    },
+    {
+      "name": "Ubisoft Paris",
+      "count": 14,
+      "url": "https://www.theguardian.com/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics",
+      "source": "The Guardian"
+    },
+    {
+      "name": "France",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 13,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "London City",
+      "count": 13,
+      "url": "https://www.theguardian.com/music/2026/oct/19/mahler-second-symphony-resurrection-recommended-recording-rattle-brso",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Israel",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/10/20/us/israel-election-netanyahu-voters.html",
+      "source": "NY Times"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 25,
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/trump-kansas-rally-us-midterm-election-possibility-state-democratic-win",
+      "count": 27,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/trumps-obsession-with-ilhan-omar-has-reached-a-dangerous-new-level",
       "source": "The Guardian"
     },
     {
-      "name": "Elizabeth Holmes",
+      "name": "Jd Vance",
       "count": 8,
-      "url": "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success",
+      "url": "https://www.politico.com/news/2026/10/15/mitch-daniels-jd-vance-free-market-01120839",
+      "source": "Politico"
+    },
+    {
+      "name": "Ilhan Omar",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/trumps-obsession-with-ilhan-omar-has-reached-a-dangerous-new-level",
       "source": "The Guardian"
     },
     {
-      "name": "Jalen Hurts",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/oct/19/eagles-qb-jalen-hurts-to-miss-rest-of-season-after-blood-clots-travel-to-his-lungs",
-      "source": "The Guardian"
-    },
-    {
-      "name": "James Talarico",
+      "name": "Steven Spielberg",
       "count": 6,
-      "url": "https://www.nytimes.com/2026/10/20/podcasts/the-daily/james-talarico-interview-texas-midterms.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Roger Marshall",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/trump-kansas-rally-us-midterm-election-possibility-state-democratic-win",
+      "url": "https://www.theguardian.com/culture/2026/oct/21/spielberg-tom-cruise-war-of-the-worlds-film-review",
       "source": "The Guardian"
     },
     {
@@ -100,36 +156,48 @@
       "source": "The Guardian"
     },
     {
-      "name": "Vladimir Putin",
+      "name": "James Talarico",
       "count": 5,
-      "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
+      "url": "https://www.nytimes.com/2026/10/20/podcasts/the-daily/james-talarico-interview-texas-midterms.html",
       "source": "NY Times"
     },
     {
-      "name": "Benjamin Netanyahu",
+      "name": "Mark Carney",
       "count": 5,
+      "url": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Volodymyr Zelenskyy",
+      "count": 5,
+      "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "count": 4,
       "url": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
       "source": "NY Times"
     },
     {
-      "name": "Nathan Fielder",
-      "count": 5,
-      "url": "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success",
+      "name": "Abdul El-Sayed",
+      "count": 4,
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/abdul-el-sayed-heckler",
       "source": "The Guardian"
-    },
-    {
-      "name": "Jason Gibbs",
-      "count": 5,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-whitesides-gibbs-voter-guide",
-      "source": "LA Times"
     }
   ],
   "EVENT": [
     {
-      "name": "The 2026 World Series",
-      "count": 8,
-      "url": "https://www.nbcnews.com/sports/mlb/tampa-bay-rays-world-series-milwaukee-brewers-result-guardians-rcna604268",
-      "source": "NBC News"
+      "name": "World Cup",
+      "count": 6,
+      "url": "https://www.theguardian.com/football/2026/oct/20/uswnt-u-17-samoa-world-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Series",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/oct/19/rays-guardians-mlb-playoffs-world-series-alcs",
+      "source": "The Guardian"
     },
     {
       "name": "L.A. City Charter Amendment Pl: Streamlining Planning Department",
@@ -138,33 +206,9 @@
       "source": "LA Times"
     },
     {
-      "name": "The Iran War",
-      "count": 2,
-      "url": "https://www.cbsnews.com/news/hegseth-visits-israel-elections-iran-war-netanyahu/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The Us War",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The World Series",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/19/rays-guardians-mlb-playoffs-world-series-alcs",
-      "source": "The Guardian"
-    },
-    {
       "name": "Hurricane Milton",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/oct/19/rays-guardians-mlb-playoffs-world-series-alcs",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The American Revolution’S Continental Congress",
-      "count": 1,
-      "url": "https://www.theguardian.com/film/2026/oct/19/harlem-renaissance-documentary-once-upon-a-time",
       "source": "The Guardian"
     },
     {
@@ -180,73 +224,29 @@
       "source": "The Guardian"
     },
     {
-      "name": "World Cup",
+      "name": "L.A. City Charter Amendment La",
       "count": 1,
-      "url": "https://www.latimes.com/sports/soccer/story/2026-10-20/emma-hayes-says-us-women-soccer-chasing-rest-of-world",
-      "source": "LA Times"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "California",
-      "count": 50,
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/catherine-breed-ultra-endurance-swim-california-coast",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Us",
-      "count": 33,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/20/the-last-bastion-is-gone-the-us-right-idolised-orbans-hungary-can-they-recover-now-he-has-fallen",
-      "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/10/20/travel/jfk-airport-drill-plane-crash.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Kansas",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/trump-kansas-rally-us-midterm-election-possibility-state-democratic-win",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Texas",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/10/20/podcasts/the-daily/james-talarico-interview-texas-midterms.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Ukraine",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
-      "source": "NY Times"
+      "name": "L.A. City Charter Amendment Prk",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-election-los-angeles-city-charter-amendment-prk-voter-guide",
+      "source": "LA Times"
     },
     {
-      "name": "Israel",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/10/20/us/israel-election-netanyahu-voters.html",
-      "source": "NY Times"
+      "name": "L.A. City Charter Amendment Prt",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-los-angeles-city-election-charter-amendment-prt-voter-guide",
+      "source": "LA Times"
     },
     {
-      "name": "Russia",
-      "count": 10,
-      "url": "https://www.theguardian.com/environment/2026/oct/20/countries-pushing-vital-global-climate-report-delayed",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ubisoft Paris",
-      "count": 10,
-      "url": "https://www.theguardian.com/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics",
-      "source": "The Guardian"
+      "name": "L.A. City Charter Amendment Sc",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-sc-voter-guide",
+      "source": "LA Times"
     }
   ],
-  "updated": "2026-10-20T12:37:09Z"
+  "updated": "2026-10-20T17:51:00Z"
 };
