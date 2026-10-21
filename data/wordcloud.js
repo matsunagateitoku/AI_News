@@ -2,33 +2,38 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    75,
-    "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
+    76,
+    "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html"
   ],
   [
     "guide",
-    61,
-    "https://www.theguardian.com/thefilter-us/2026/oct/17/ankle-weights-workout-fitness"
-  ],
-  [
-    "race",
-    48,
-    "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html"
-  ],
-  [
-    "california",
-    48,
-    "https://www.theguardian.com/us-news/2026/oct/20/doj-non-citizens-la"
+    62,
+    "https://www.theguardian.com/thefilter-us/best-slip-on-shoes"
   ],
   [
     "president",
     44,
-    "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
+    "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html"
   ],
   [
-    "american",
-    29,
-    "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
+    "california",
+    43,
+    "https://www.theguardian.com/us-news/2026/oct/21/california-nurses-teachers-strike"
+  ],
+  [
+    "race",
+    43,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-mayor-karen-bass-nithya-raman-voter-guide"
+  ],
+  [
+    "food",
+    30,
+    "https://www.nytimes.com/2026/10/21/magazine/dark-nutrition-raw-meat-diet.html"
+  ],
+  [
+    "court",
+    27,
+    "https://www.theguardian.com/us-news/2026/oct/21/supreme-court-trump-gender-affirming-care-trans-prisoners"
   ],
   [
     "senate",
@@ -36,67 +41,37 @@
     "https://www.nytimes.com/2026/10/21/upshot/times-siena-poll-trump-midterms.html"
   ],
   [
-    "food",
-    26,
-    "https://www.nytimes.com/2026/10/21/magazine/dark-nutrition-raw-meat-diet.html"
-  ],
-  [
-    "republican",
+    "american",
     25,
-    "https://www.theguardian.com/us-news/2026/oct/20/florida-execution-18th"
-  ],
-  [
-    "russia",
-    22,
-    "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
-  ],
-  [
-    "stephen",
-    21,
     "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
   ],
   [
     "democratic",
-    21,
+    25,
     "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html"
-  ],
-  [
-    "election",
-    21,
-    "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html"
-  ],
-  [
-    "hubbard",
-    20,
-    "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
-  ],
-  [
-    "war",
-    20,
-    "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
   ],
   [
     "republicans",
-    20,
+    23,
     "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html"
   ],
   [
-    "los",
+    "republican",
+    21,
+    "https://www.theguardian.com/us-news/2026/oct/21/neil-bush-votes-james-talarico"
+  ],
+  [
+    "film",
     20,
-    "https://www.theguardian.com/us-news/2026/oct/19/us-disaster-survivor-payouts-fema"
+    "https://www.theguardian.com/film/2026/oct/21/elizabeth-holmes-you-can-see-everything-disgrace-documentary"
   ],
   [
-    "angeles",
+    "candidate",
     20,
-    "https://www.theguardian.com/us-news/2026/oct/19/us-disaster-survivor-payouts-fema"
+    "https://www.theguardian.com/us-news/2026/oct/21/neil-bush-votes-james-talarico"
   ],
   [
-    "putin",
-    19,
-    "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
-  ],
-  [
-    "voters",
+    "congressional",
     19,
     "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html"
   ],
@@ -106,19 +81,19 @@
     "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html"
   ],
   [
-    "political",
+    "york",
+    19,
+    "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html"
+  ],
+  [
+    "election",
+    19,
+    "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html"
+  ],
+  [
+    "love",
     19,
     "https://www.theguardian.com/commentisfree/2026/oct/21/usha-vance-closed-book-goodreads-account-surprisingly-revealing"
-  ],
-  [
-    "democrats",
-    18,
-    "https://www.nytimes.com/2026/10/21/upshot/times-siena-poll-trump-midterms.html"
-  ],
-  [
-    "death",
-    18,
-    "https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html"
   ],
   [
     "everything",
@@ -126,39 +101,59 @@
     "https://www.nytimes.com/2026/10/21/magazine/dark-nutrition-raw-meat-diet.html"
   ],
   [
-    "social",
+    "los",
     18,
-    "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-measure-fd-sales-tax-hike-fire-department-voter-guide"
   ],
   [
-    "elections",
-    18,
-    "https://www.theguardian.com/us-news/2026/oct/21/midterms-attorney-general-trump-election-interference"
-  ],
-  [
-    "university",
-    18,
-    "https://www.theguardian.com/us-news/2026/oct/20/university-of-arizona-sexual-assault-fraternity"
-  ],
-  [
-    "tax",
-    18,
-    "https://www.theguardian.com/business/2026/oct/20/scott-kirby-united-wealth-tax-backlash"
-  ],
-  [
-    "ukraine",
+    "war",
     17,
-    "https://www.nytimes.com/2025/02/09/world/europe/american-teacher-ukraine-russia-prison.html"
+    "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
   ],
   [
-    "candidates",
+    "voters",
     17,
     "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html"
   ],
   [
-    "money",
+    "social",
     17,
-    "https://www.theguardian.com/games/2026/oct/14/ready-player-one-why-the-games-arcade-is-having-a-rebirth"
+    "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html"
+  ],
+  [
+    "political",
+    17,
+    "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-doesnt-like-france.html"
+  ],
+  [
+    "death",
+    17,
+    "https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html"
+  ],
+  [
+    "texas",
+    17,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/trump-ice-construction-worker-deportation"
+  ],
+  [
+    "party",
+    17,
+    "https://www.theguardian.com/us-news/2026/oct/21/neil-bush-votes-james-talarico"
+  ],
+  [
+    "james",
+    17,
+    "https://www.theguardian.com/us-news/2026/oct/21/neil-bush-votes-james-talarico"
+  ],
+  [
+    "elections",
+    17,
+    "https://www.theguardian.com/us-news/2026/oct/21/midterms-attorney-general-trump-election-interference"
+  ],
+  [
+    "nba",
+    17,
+    "https://www.theguardian.com/sport/2026/oct/20/nba-opening-night-2026-results-pistons-celtics-sixers-knicks-spurs-thunder"
   ],
   [
     "proposition",
@@ -166,29 +161,34 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "york",
-    16,
-    "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html"
-  ],
-  [
-    "far",
-    16,
-    "https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html"
+    "angeles",
+    17,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-measure-fd-sales-tax-hike-fire-department-voter-guide"
   ],
   [
     "company",
     16,
-    "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html"
+    "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html"
   ],
   [
-    "love",
+    "mother",
     16,
-    "https://www.theguardian.com/commentisfree/2026/oct/21/usha-vance-closed-book-goodreads-account-surprisingly-revealing"
+    "https://www.nytimes.com/2026/10/21/opinion/graffiti-mother-son-relationship-sweden.html"
   ],
   [
-    "department",
+    "campaign",
     16,
-    "https://www.theguardian.com/us-news/2026/oct/20/university-of-arizona-sexual-assault-fraternity"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "ice",
+    16,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "little",
+    15,
+    "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
   ],
   [
     "family",
@@ -196,24 +196,64 @@
     "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html"
   ],
   [
-    "congressional",
+    "poll",
     15,
     "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html"
   ],
   [
+    "france",
+    15,
+    "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html"
+  ],
+  [
+    "released",
+    15,
+    "https://www.nytimes.com/2026/10/21/nyregion/brad-lander-west-bank-idf-detained.html"
+  ],
+  [
+    "holmes",
+    15,
+    "https://www.theguardian.com/film/2026/oct/21/elizabeth-holmes-you-can-see-everything-disgrace-documentary"
+  ],
+  [
+    "release",
+    15,
+    "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
+  ],
+  [
+    "washington",
+    15,
+    "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
+  ],
+  [
     "county",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/21/florida-gambling-director-jailed-addiction"
+    "https://www.theguardian.com/us-news/2026/oct/21/alyssa-wilson-shooting-st-louis-charges"
   ],
   [
-    "review",
+    "climate",
     15,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/21/the-new-stanford-prison-experiment-review-netflix"
+    "https://www.theguardian.com/us-news/2026/oct/21/extreme-weather-survivors-climate-crisis"
   ],
   [
-    "film",
+    "night",
     15,
-    "https://www.theguardian.com/film/2026/oct/21/making-marie-antoinette-review-sofia-eleanor-coppola-documentary"
+    "https://www.theguardian.com/music/2026/oct/21/opera-at-the-cinema-tv-screenings-raymond-gubbay"
+  ],
+  [
+    "university",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/20/university-of-arizona-sexual-assault-fraternity"
+  ],
+  [
+    "voter",
+    15,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/voter-issues-midterms-elections"
+  ],
+  [
+    "tax",
+    15,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
     "charter",
@@ -221,19 +261,29 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
+    "russia",
+    14,
+    "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
+  ],
+  [
+    "putin",
+    14,
+    "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
+  ],
+  [
+    "candidates",
+    14,
+    "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html"
+  ],
+  [
+    "democrats",
+    14,
+    "https://www.nytimes.com/2026/10/21/upshot/times-siena-poll-trump-midterms.html"
+  ],
+  [
     "israel",
     14,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "country",
-    14,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "released",
-    14,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "team",
@@ -241,39 +291,19 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "recent",
+    "vance",
     14,
-    "https://www.theguardian.com/music/2026/oct/21/cyndi-lauper-auction-fashion"
+    "https://www.theguardian.com/commentisfree/2026/oct/21/usha-vance-closed-book-goodreads-account-surprisingly-revealing"
   ],
   [
-    "season",
+    "donald",
     14,
-    "https://www.theguardian.com/sport/2026/oct/21/troy-aikman-joe-buck-nfl-espn"
+    "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest"
   ],
   [
-    "midterm",
+    "supreme",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/21/midterms-attorney-general-trump-election-interference"
-  ],
-  [
-    "climate",
-    14,
-    "https://www.theguardian.com/environment/2026/oct/21/world-cut-emissions-un-climate-crisis"
-  ],
-  [
-    "gop",
-    14,
-    "https://www.theguardian.com/global/2026/oct/19/midterm-elections-tech-broligarchs"
-  ],
-  [
-    "court",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/oct/20/trump-icc-sanctions-opinion"
-  ],
-  [
-    "voter",
-    14,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/voter-issues-midterms-elections"
+    "https://www.theguardian.com/us-news/2026/oct/21/supreme-court-trump-gender-affirming-care-trans-prisoners"
   ],
   [
     "amendment",
@@ -286,93 +316,63 @@
     "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
   ],
   [
-    "mother",
+    "cut",
     13,
-    "https://www.nytimes.com/2026/10/21/opinion/graffiti-mother-son-relationship-sweden.html"
+    "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html"
   ],
   [
-    "questions",
+    "paris",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html"
   ],
   [
-    "book",
+    "israeli",
     13,
-    "https://www.theguardian.com/commentisfree/2026/oct/21/usha-vance-closed-book-goodreads-account-surprisingly-revealing"
+    "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html"
   ],
   [
-    "list",
+    "government",
     13,
-    "https://www.theguardian.com/commentisfree/2026/oct/21/usha-vance-closed-book-goodreads-account-surprisingly-revealing"
+    "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html"
   ],
   [
-    "young",
+    "country",
     13,
-    "https://www.theguardian.com/commentisfree/2026/oct/21/usha-vance-closed-book-goodreads-account-surprisingly-revealing"
-  ],
-  [
-    "candidate",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/21/abdul-el-sayed-michigan-senate-democrats"
-  ],
-  [
-    "texas",
-    13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/trump-ice-construction-worker-deportation"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
     "really",
     13,
-    "https://www.theguardian.com/music/2026/oct/21/wonderhaul-has-liam-gallagher-really-got-into-metal-detecting"
+    "https://www.theguardian.com/music/2026/oct/21/jason-molina-documentary"
   ],
   [
-    "win",
+    "money",
     13,
-    "https://www.theguardian.com/commentisfree/2026/oct/21/france-uk-rightwing-populists-marine-le-pen-donald-trump"
+    "https://www.theguardian.com/music/2026/oct/21/jason-molina-documentary"
   ],
   [
-    "game",
+    "trying",
     13,
-    "https://www.theguardian.com/sport/2026/oct/20/nba-opening-night-2026-results-pistons-celtics-sixers-knicks-spurs-thunder"
+    "https://www.theguardian.com/commentisfree/2026/oct/21/usha-vance-closed-book-goodreads-account-surprisingly-revealing"
+  ],
+  [
+    "because",
+    13,
+    "https://www.theguardian.com/us-news/2026/oct/21/neil-bush-votes-james-talarico"
+  ],
+  [
+    "department",
+    13,
+    "https://www.theguardian.com/us-news/2026/oct/21/park-police-surveillance-cameras-washington-dc"
+  ],
+  [
+    "code",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
   ],
   [
     "prop",
     13,
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
-  ],
-  [
-    "little",
-    12,
-    "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
-  ],
-  [
-    "tech",
-    12,
-    "https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html"
-  ],
-  [
-    "government",
-    12,
-    "https://www.nytimes.com/2026/10/21/business/tata-india-boardroom-fight.html"
-  ],
-  [
-    "attacks",
-    12,
-    "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da"
-  ],
-  [
-    "line",
-    12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "term",
-    12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "latest",
-    12,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ]
 ];
