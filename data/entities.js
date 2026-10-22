@@ -2,64 +2,126 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Republicans",
-      "count": 49,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-state-superintendent-public-instruction-shaw-barrera-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Michigan Senate",
-      "count": 36,
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/abdul-el-sayed-michigan-senate-democrats",
+      "name": "Trump  Historical",
+      "count": 51,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/donald-trump-ukraine-betrayal-putin-nato",
       "source": "The Guardian"
     },
     {
-      "name": "Gop",
-      "count": 14,
-      "url": "https://www.foxnews.com/politics/trump-dominates-el-sayeds-attacks-against-rogers-gop-rival-offers-unexpected-policy-split",
+      "name": "Michigan Senate",
+      "count": 28,
+      "url": "https://www.foxnews.com/politics/el-sayed-rogers-clash-over-muslim-brotherhood-trump-guns-5-fiery-debate-moments",
       "source": "Fox News"
     },
     {
       "name": "Ai",
-      "count": 13,
+      "count": 21,
       "url": "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky",
       "source": "The Guardian"
     },
     {
-      "name": "Our White House",
-      "count": 10,
-      "url": "https://www.nytimes.com/video/us/100000011223251/what-putin-gains-from-releasing-an-american-prisoner.html",
+      "name": "Gop",
+      "count": 16,
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
+      "source": "NPR"
+    },
+    {
+      "name": "The White House",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/10/22/opinion/interesting-times-tyler-cowen-michael-kratsios.html",
       "source": "NY Times"
     },
     {
-      "name": "Congress",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump",
+      "name": "Guardian Europe",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/europe-youth-uprising-enemies-protesters",
       "source": "The Guardian"
     },
     {
       "name": "The Filter Us",
-      "count": 9,
+      "count": 8,
       "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     },
     {
-      "name": "Guardian",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/21/the-guardian-view-on-the-republicans-midterms-struggle-trump-has-circuses-but-voters-also-want-bread",
+      "name": "Congress",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump",
       "source": "The Guardian"
-    },
-    {
-      "name": "Cbs News",
-      "count": 8,
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
-      "source": "CBS News"
     },
     {
       "name": "The California Congressional District",
       "count": 7,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "Amazon",
+      "count": 6,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/strongmen-donald-trump-destroy-planet-brazil-flavio-bolsonaro",
+      "source": "The Guardian"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Donald Trump ’S",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Abdul El-Sayed",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Vladimir Putin",
+      "count": 10,
+      "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/video/2026/oct/22/how-alabamas-republicans-are-disenfranchising-black-voters-video",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mike Rogers",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "John Anderson",
+      "count": 7,
+      "url": "https://www.theguardian.com/music/2026/oct/22/john-anderson-five-time-us-country-chart-topper-dies-aged-71",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Elon Musk",
+      "count": 6,
+      "url": "https://www.theguardian.com/culture/2026/oct/21/seth-meyers-recap-elon-musk-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mario + Rabbids:",
+      "count": 6,
+      "url": "https://www.theguardian.com/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Amy Acton",
+      "count": 6,
+      "url": "https://www.cbsnews.com/video/attack-ad-ohio-governors-race-sparks-debate-how-low/",
+      "source": "CBS News"
     }
   ],
   "EVENT": [
@@ -76,21 +138,15 @@
       "source": "LA Times"
     },
     {
-      "name": "Big Winter Coat",
+      "name": "Game 3",
       "count": 1,
-      "url": "https://www.theguardian.com/fashion/2026/oct/21/jess-cartner-morley-fashion-onion-dressing",
+      "url": "https://www.theguardian.com/sport/2026/oct/22/atlanta-dream-golden-state-valkyries-wnba-finals-game-three-home-court-advantage",
       "source": "The Guardian"
     },
     {
-      "name": "Game 3    Dream",
+      "name": "Super Bowl",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/21/angel-reese-atlanta-dream-golden-state-valkyries-wnba-finals",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Game 4",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/21/angel-reese-atlanta-dream-golden-state-valkyries-wnba-finals",
+      "url": "https://www.theguardian.com/sport/2026/oct/22/nfl-unbeaten-teams-49ers-chiefs-vikings-bills",
       "source": "The Guardian"
     },
     {
@@ -106,9 +162,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "The 1789 Revolution",
+      "name": "Wii Sports",
       "count": 1,
-      "url": "https://www.theguardian.com/film/2026/oct/21/making-marie-antoinette-review-sofia-eleanor-coppola-documentary",
+      "url": "https://www.theguardian.com/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iranian Revolution",
+      "count": 1,
+      "url": "https://www.theguardian.com/books/2026/oct/22/female-life-on-planet-earth-by-laleh-khadivi-review-a-mothers-secret-past-in-the-iranian-revolution",
       "source": "The Guardian"
     },
     {
@@ -126,127 +188,65 @@
   ],
   "GPE": [
     {
-      "name": "Us Park",
-      "count": 58,
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/park-police-surveillance-cameras-washington-dc",
+      "name": "Us",
+      "count": 54,
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/korean-american-adoptees",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 35,
+      "count": 43,
       "url": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html",
       "source": "NY Times"
     },
     {
-      "name": "Ukraine",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html",
-      "source": "NY Times"
-    },
-    {
       "name": "U.S.",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
       "source": "NY Times"
     },
     {
-      "name": "Texas",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/10/21/us/politics/trump-supreme-court-border-wall.html",
+      "name": "France",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ukraine",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
       "source": "NY Times"
     },
     {
       "name": "Ohio",
-      "count": 14,
-      "url": "https://www.theguardian.com/music/2026/oct/21/jason-molina-documentary",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
       "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County",
+      "count": 12,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
+      "source": "LA Times"
     },
     {
       "name": "Iran",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Washington Dc",
-      "count": 12,
-      "url": "https://www.theguardian.com/law/2026/oct/21/kagan-supreme-court-conservatives-politics-nightmare",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
       "count": 11,
       "url": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
       "source": "NY Times"
     },
     {
-      "name": "London City",
-      "count": 11,
-      "url": "https://www.theguardian.com/music/2026/oct/19/mahler-second-symphony-resurrection-recommended-recording-rattle-brso",
-      "source": "The Guardian"
+      "name": "Russia",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/10/22/us/james-talarico-texas-republicans-legislative-record.html",
+      "source": "NY Times"
     }
   ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/10/21/us/politics/title-ix-trump-administration-cornell.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Vladimir V. Putin",
-      "count": 16,
-      "url": "https://www.nytimes.com/video/us/100000011223251/what-putin-gains-from-releasing-an-american-prisoner.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Abdul El-Sayed",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Donald Trump ’S",
-      "count": 13,
-      "url": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Roger Marshall",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/10/21/us/kansas-senate-debate-marshall-hamilton-takeaways.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Adam Hamilton",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/10/21/us/kansas-senate-debate-marshall-hamilton-takeaways.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ilhan Omar",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Stephen Hubbard",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mike Rogers",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Mario + Rabbids:",
-      "count": 6,
-      "url": "https://www.theguardian.com/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-10-22T05:52:59Z"
+  "updated": "2026-10-22T12:51:44Z"
 };
