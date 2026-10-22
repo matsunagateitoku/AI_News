@@ -2,68 +2,58 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    84,
+    100,
     "https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html"
   ],
   [
     "guide",
-    64,
+    63,
     "https://www.theguardian.com/thefilter-us/2026/oct/22/revolve-beauty-advent-calendar"
   ],
   [
-    "california",
-    50,
-    "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates"
-  ],
-  [
     "race",
-    46,
+    55,
     "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html"
   ],
   [
+    "california",
+    53,
+    "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-test-denied"
+  ],
+  [
     "president",
-    32,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "food",
-    28,
-    "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html"
-  ],
-  [
-    "film",
-    28,
-    "https://www.nytimes.com/2026/10/22/insider/elizabeth-holmes-backstory.html"
-  ],
-  [
-    "voters",
-    27,
-    "https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html"
+    34,
+    "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html"
   ],
   [
     "republican",
-    26,
-    "https://www.theguardian.com/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spectacular-bad-taste"
+    34,
+    "https://www.theguardian.com/us-news/video/2026/oct/22/how-alabamas-republicans-are-disenfranchising-black-voters-video"
   ],
   [
-    "judge",
-    25,
-    "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery"
+    "senate",
+    32,
+    "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html"
   ],
   [
-    "country",
-    24,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "social",
-    23,
-    "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html"
+    "food",
+    30,
+    "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html"
   ],
   [
     "district",
-    23,
+    24,
     "https://www.theguardian.com/us-news/video/2026/oct/22/how-alabamas-republicans-are-disenfranchising-black-voters-video"
+  ],
+  [
+    "tax",
+    24,
+    "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
+  ],
+  [
+    "film",
+    23,
+    "https://www.theguardian.com/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spectacular-bad-taste"
   ],
   [
     "republicans",
@@ -71,109 +61,119 @@
     "https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html"
   ],
   [
-    "senate",
+    "voters",
     22,
-    "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html"
+    "https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html"
   ],
   [
-    "love",
+    "family",
     22,
     "https://www.nytimes.com/2026/10/22/nyregion/niagara-new-york-radioactive-waste.html"
   ],
   [
     "war",
+    22,
+    "https://www.nytimes.com/2026/10/22/opinion/trump-ukraine-russia-war-yalta.html"
+  ],
+  [
+    "died",
+    22,
+    "https://www.theguardian.com/us-news/2026/oct/22/new-york-city-horse-drawn-carriages-ban"
+  ],
+  [
+    "night",
     21,
-    "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html"
-  ],
-  [
-    "family",
-    20,
-    "https://www.nytimes.com/2026/10/22/nyregion/niagara-new-york-radioactive-waste.html"
-  ],
-  [
-    "tax",
-    20,
-    "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
-  ],
-  [
-    "prices",
-    18,
-    "https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html"
-  ],
-  [
-    "elections",
-    18,
-    "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html"
-  ],
-  [
-    "democrat",
-    18,
-    "https://www.theguardian.com/us-news/2026/oct/22/alaska-mary-peltola-senate-midterms"
-  ],
-  [
-    "france",
-    18,
-    "https://www.theguardian.com/us-news/2026/oct/22/trump-maga-media-europe-protests"
+    "https://www.nytimes.com/2026/10/22/insider/oj-simpson-accomplice-1994-murder.html"
   ],
   [
     "don",
-    18,
+    21,
     "https://www.theguardian.com/film/2026/oct/22/zach-braff-reader-interview"
   ],
   [
     "los",
-    18,
-    "https://www.theguardian.com/sport/2026/oct/22/rookie-lendeborg-jaws-at-weak-ass-doncic-and-admits-he-didnt-watch-much-nba"
+    21,
+    "https://www.theguardian.com/music/2026/oct/22/chappell-roan-super-graphic-spectacular-review"
   ],
   [
     "angeles",
-    18,
-    "https://www.theguardian.com/sport/2026/oct/22/rookie-lendeborg-jaws-at-weak-ass-doncic-and-admits-he-didnt-watch-much-nba"
+    21,
+    "https://www.theguardian.com/music/2026/oct/22/chappell-roan-super-graphic-spectacular-review"
   ],
   [
-    "tech",
-    17,
-    "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html"
-  ],
-  [
-    "global",
-    17,
-    "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html"
-  ],
-  [
-    "questions",
-    17,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "seat",
-    17,
-    "https://www.theguardian.com/us-news/2026/oct/22/alaska-mary-peltola-senate-midterms"
+    "mother",
+    21,
+    "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine"
   ],
   [
     "review",
-    17,
-    "https://www.theguardian.com/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spectacular-bad-taste"
+    20,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-review-hbo-max-jonathan-glatzer"
   ],
   [
-    "really",
-    17,
-    "https://www.theguardian.com/music/2026/oct/22/leonard-cohen-best-songs-ranked"
+    "star",
+    20,
+    "https://www.theguardian.com/film/2026/oct/22/zach-braff-reader-interview"
   ],
   [
-    "lawsuit",
-    17,
-    "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery"
+    "love",
+    19,
+    "https://www.nytimes.com/2026/10/22/nyregion/niagara-new-york-radioactive-waste.html"
   ],
   [
-    "died",
-    17,
-    "https://www.theguardian.com/sport/2026/oct/22/atlanta-dream-golden-state-valkyries-wnba-finals-game-three-home-court-advantage"
+    "country",
+    19,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "court",
+    "actor",
+    19,
+    "https://www.theguardian.com/film/2026/oct/22/zach-braff-reader-interview"
+  ],
+  [
+    "county",
+    19,
+    "https://www.theguardian.com/film/2026/oct/22/republican-leader-embarrassed-by-ali-g-film-says-he-plans-to-sue-sacha-baron-cohen-a-liar-and-a-pervert"
+  ],
+  [
+    "democratic",
+    18,
+    "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html"
+  ],
+  [
+    "attack",
+    18,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "media",
+    18,
+    "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment"
+  ],
+  [
+    "seat",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/22/alaska-mary-peltola-senate-midterms"
+  ],
+  [
+    "election",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/22/minnesota-senate-race-peggy-flanagan-michele-tafoya"
+  ],
+  [
+    "campaign",
     17,
-    "https://www.theguardian.com/uk-news/2026/oct/22/russell-brand-raped-woman-even-though-she-screamed-in-pain-court-hears"
+    "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html"
+  ],
+  [
+    "elections",
+    17,
+    "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html"
+  ],
+  [
+    "democrat",
+    17,
+    "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine"
   ],
   [
     "proposition",
@@ -181,44 +181,94 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "media",
+    "administration",
     16,
-    "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html"
+    "https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html"
   ],
   [
-    "living",
+    "york",
     16,
-    "https://www.theguardian.com/us-news/2026/oct/22/alaska-mary-peltola-senate-midterms"
+    "https://www.nytimes.com/2026/10/22/nyregion/nyc-horse-carriage-ban-workers-jobs.html"
   ],
   [
-    "iran",
+    "tom",
     16,
-    "https://www.theguardian.com/us-news/2026/oct/22/alaska-mary-peltola-senate-midterms"
+    "https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html"
   ],
   [
-    "body",
+    "ukraine",
     16,
-    "https://www.theguardian.com/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spectacular-bad-taste"
+    "https://www.nytimes.com/2026/10/22/opinion/trump-ukraine-russia-war-yalta.html"
+  ],
+  [
+    "team",
+    16,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "company",
     16,
-    "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre"
+    "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-review-hbo-max-jonathan-glatzer"
   ],
   [
-    "companies",
+    "ohio",
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine"
+  ],
+  [
+    "school",
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/22/teacher-wounded-oregon-school-shooting-played-dead"
+  ],
+  [
+    "candidates",
+    16,
+    "https://www.latimes.com/california/story/2026-10-22/george-gascon-los-angeles-2026-election"
+  ],
+  [
+    "court",
+    15,
+    "https://www.nytimes.com/2026/10/22/nyregion/nyc-horse-carriage-ban-workers-jobs.html"
+  ],
+  [
+    "series",
     15,
     "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html"
   ],
   [
-    "php",
+    "skerritt",
     15,
-    "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html"
+    "https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html"
   ],
   [
-    "attack",
+    "led",
     15,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html"
+  ],
+  [
+    "questions",
+    15,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "everything",
+    15,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "black",
+    15,
+    "https://www.theguardian.com/us-news/video/2026/oct/22/how-alabamas-republicans-are-disenfranchising-black-voters-video"
+  ],
+  [
+    "really",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-review-hbo-max-jonathan-glatzer"
+  ],
+  [
+    "cohen",
+    15,
+    "https://www.theguardian.com/music/2026/oct/22/leonard-cohen-best-songs-ranked"
   ],
   [
     "democrats",
@@ -226,19 +276,14 @@
     "https://www.theguardian.com/us-news/2026/oct/22/alaska-mary-peltola-senate-midterms"
   ],
   [
-    "cohen",
+    "party",
     15,
-    "https://www.theguardian.com/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spectacular-bad-taste"
+    "https://www.theguardian.com/film/2026/oct/22/republican-leader-embarrassed-by-ali-g-film-says-he-plans-to-sue-sacha-baron-cohen-a-liar-and-a-pervert"
   ],
   [
-    "donald",
+    "social",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery"
-  ],
-  [
-    "election",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle"
+    "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
   ],
   [
     "charter",
@@ -246,49 +291,54 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "democratic",
+    "amendment",
+    15,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
+  ],
+  [
+    "won",
     14,
     "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html"
   ],
   [
-    "russia",
+    "health",
     14,
-    "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html"
+    "https://www.nytimes.com/2026/10/22/briefing/trump-iowa-roller-coaster-safety.html"
   ],
   [
-    "money",
+    "global",
     14,
-    "https://www.nytimes.com/2026/10/22/style/paolo-zampolli-trump-friend-brief-political-career.html"
+    "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html"
   ],
   [
-    "county",
+    "gun",
     14,
-    "https://www.theguardian.com/film/2026/oct/22/republican-leader-embarrassed-by-ali-g-film-says-he-plans-to-sue-sacha-baron-cohen-a-liar-and-a-pervert"
+    "https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html"
   ],
   [
-    "department",
+    "iran",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/22/heat-ray-mexico-border-dhs"
+    "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html"
   ],
   [
-    "black",
+    "donald",
     14,
     "https://www.theguardian.com/us-news/video/2026/oct/22/how-alabamas-republicans-are-disenfranchising-black-voters-video"
   ],
   [
-    "little",
+    "ramaswamy",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle"
+    "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine"
   ],
   [
-    "american",
+    "oil",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/22/minnesota-senate-race-peggy-flanagan-michele-tafoya"
+    "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil"
   ],
   [
-    "mother",
+    "game",
     14,
-    "https://www.theguardian.com/uk-news/2026/oct/22/russell-brand-raped-woman-even-though-she-screamed-in-pain-court-hears"
+    "https://www.theguardian.com/sport/2026/oct/22/rookie-lendeborg-jaws-at-weak-ass-doncic-and-admits-he-didnt-watch-much-nba"
   ],
   [
     "prop",
@@ -296,83 +346,33 @@
     "https://www.theguardian.com/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games"
   ],
   [
-    "amendment",
-    14,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
+    "play",
+    13,
+    "https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html"
   ],
   [
-    "websites",
+    "cost",
     13,
-    "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html"
+    "https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html"
   ],
   [
-    "full",
+    "council",
     13,
-    "https://www.nytimes.com/2026/10/22/nyregion/niagara-new-york-radioactive-waste.html"
+    "https://www.nytimes.com/2026/10/22/nyregion/nyc-horse-carriage-ban-workers-jobs.html"
   ],
   [
-    "fire",
+    "park",
     13,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/07/17/nyregion/is-new-yorks-love-hate-relationship-with-horse-carriages-over-at-last.html"
   ],
   [
-    "because",
+    "tech",
     13,
-    "https://www.theguardian.com/us-news/2026/oct/22/alaska-mary-peltola-senate-midterms"
+    "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html"
   ],
   [
-    "tested",
+    "office",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/oct/22/revolve-beauty-advent-calendar"
-  ],
-  [
-    "death",
-    13,
-    "https://www.theguardian.com/music/2026/oct/22/leonard-cohen-best-songs-ranked"
-  ],
-  [
-    "bbc",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery"
-  ],
-  [
-    "voter",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates"
-  ],
-  [
-    "late",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle"
-  ],
-  [
-    "ahead",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/22/trump-maga-media-europe-protests"
-  ],
-  [
-    "actor",
-    13,
-    "https://www.theguardian.com/film/2026/oct/22/zach-braff-reader-interview"
-  ],
-  [
-    "london",
-    13,
-    "https://www.theguardian.com/fashion/2026/oct/22/i-wanted-to-create-the-female-version-of-a-mans-suit-how-roland-mourets-galaxy-dress-took-over-the-world"
-  ],
-  [
-    "school",
-    13,
-    "https://www.theguardian.com/fashion/2026/oct/22/i-wanted-to-create-the-female-version-of-a-mans-suit-how-roland-mourets-galaxy-dress-took-over-the-world"
-  ],
-  [
-    "night",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/oct/22/europe-youth-uprising-enemies-protesters"
-  ],
-  [
-    "game",
-    13,
-    "https://www.theguardian.com/sport/2026/oct/22/rookie-lendeborg-jaws-at-weak-ass-doncic-and-admits-he-didnt-watch-much-nba"
+    "https://www.nytimes.com/2026/10/22/opinion/trump-ukraine-russia-war-yalta.html"
   ]
 ];
