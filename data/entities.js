@@ -2,27 +2,27 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Donald Trump",
-      "count": 30,
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-midterm-rallies-male-bodies",
+      "name": "Dan Sullivan  Donald Trump",
+      "count": 40,
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-doj-lawsuit-alaska-senate-dan-sullivan",
       "source": "The Guardian"
     },
     {
-      "name": "Dan Sullivan",
-      "count": 10,
-      "url": "https://www.nbcnews.com/politics/2026-election/trump-justice-department-lawsuit-alaska-senate-rcna605229",
-      "source": "NBC News"
-    },
-    {
-      "name": "Benjamin Netanyahu",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+      "name": "Susan Collins",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
       "source": "NY Times"
     },
     {
-      "name": "Kohen Wiley",
+      "name": "Mark Zuckerberg",
       "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns",
+      "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Emmanuel Macron",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/oct/23/aaron-rodgers-nfl-paris-game-protests-steelers-saints",
       "source": "The Guardian"
     },
     {
@@ -32,9 +32,15 @@
       "source": "LA Times"
     },
     {
-      "name": "Elizabeth Holmes",
+      "name": "Kohen Wiley",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/video/2026/oct/23/elizabeth-holmes-stateside-kai-and-carter",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hunter Biden ’S",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/ex-fbi-officials-charged-hunter-biden-laptop",
       "source": "The Guardian"
     },
     {
@@ -44,54 +50,48 @@
       "source": "The Guardian"
     },
     {
-      "name": "Debbie Shields",
-      "count": 6,
-      "url": "https://www.cbsnews.com/video/subway-takes-star-debbie-shields-never-thought-about-comedy-before-improv-riff-with-conan/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Meghan Markle ‘",
-      "count": 6,
-      "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181",
-      "source": "NBC News"
-    },
-    {
-      "name": "Hunter Biden ’S",
+      "name": "Anthropic",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/ex-fbi-officials-charged-hunter-biden-laptop",
+      "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Adam Brody",
+      "count": 5,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/nobody-wants-this-season-three-review-netflix",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 48,
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
+      "count": 53,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/trump-moral-squalor",
       "source": "The Guardian"
     },
     {
       "name": "California",
-      "count": 44,
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/california-voter-fraud-arrest",
+      "count": 42,
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/flu-cases-west-coast-cdc",
       "source": "The Guardian"
     },
     {
-      "name": "Israel",
-      "count": 18,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
+      "name": "Ukraine",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/10/23/us/politics/senators-trump-nominees-ukraine-starlink.html",
+      "source": "NY Times"
     },
     {
       "name": "L.A. County",
-      "count": 14,
+      "count": 15,
       "url": "https://www.latimes.com/california/story/2026-10-23/john-mckinney-los-angeles-city-attorney-candidate",
       "source": "LA Times"
     },
     {
-      "name": "The West Bank",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-      "source": "NY Times"
+      "name": "Israel",
+      "count": 13,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
     },
     {
       "name": "Ohio",
@@ -100,27 +100,89 @@
       "source": "NY Times"
     },
     {
-      "name": "Ukraine",
+      "name": "Paris",
       "count": 11,
-      "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+      "url": "https://www.theguardian.com/sport/2026/oct/23/aaron-rodgers-nfl-paris-game-protests-steelers-saints",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
+      "name": "Russia",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
+      "url": "https://www.nytimes.com/2026/10/23/us/politics/ceasefire-ukraine-melania-trump.html",
       "source": "NY Times"
     },
     {
-      "name": "Mississippi",
+      "name": "Los Angeles County",
       "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-sheriff-race-luna-villanueva-voter-guide",
+      "source": "LA Times"
     },
     {
       "name": "Iran",
       "count": 9,
       "url": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+      "source": "NY Times"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Justice Department",
+      "count": 56,
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-doj-lawsuit-alaska-senate-dan-sullivan",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 22,
+      "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The U.S. Senate",
+      "count": 22,
+      "url": "https://www.latimes.com/politics/story/2026-10-23/muslims-americanness-abdul-el-sayed",
+      "source": "LA Times"
+    },
+    {
+      "name": "Gop",
+      "count": 17,
+      "url": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
+      "source": "LA Times"
+    },
+    {
+      "name": "Congress",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-doj-lawsuit-alaska-senate-dan-sullivan",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nfl",
+      "count": 10,
+      "url": "https://www.theguardian.com/sport/2026/oct/23/aaron-rodgers-nfl-paris-game-protests-steelers-saints",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/trump-moral-squalor",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House Farm",
+      "count": 7,
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/23/the-white-house-farm-massacre-exclusive-new-forensic-evidence-suggests-sheila-caffell-killed-herself-is-jeremy-bamber-innocent",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The California Congressional District",
+      "count": 7,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "The White House",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/10/23/us/politics/senators-trump-nominees-ukraine-starlink.html",
       "source": "NY Times"
     }
   ],
@@ -133,8 +195,20 @@
     },
     {
       "name": "The World Series",
-      "count": 2,
+      "count": 4,
       "url": "https://www.theguardian.com/sport/2026/oct/23/world-series-2026-predictions-will-the-rays-or-brewers-claim-their-first-title",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympics",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/oct/23/skye-blakely-caps-remarkable-injury-comeback-with-world-gymnastics-all-around-title",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Black October",
+      "count": 2,
+      "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
       "source": "The Guardian"
     },
     {
@@ -144,22 +218,16 @@
       "source": "The Guardian"
     },
     {
-      "name": "This World Series",
-      "count": 2,
-      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-23/dodgers-fans-cheering-for-brewers-world-series",
-      "source": "LA Times"
-    },
-    {
       "name": "L.A. City Charter Amendment Pl: Streamlining Planning Department",
       "count": 2,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-pl-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "The Winnipeg Jets",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/23/connor-hellebuyck-new-jersey-devils-winnipeg-jets-trade-nhl",
-      "source": "The Guardian"
+      "name": "This World Series",
+      "count": 2,
+      "url": "https://www.latimes.com/sports/dodgers/story/2026-10-23/dodgers-fans-cheering-for-brewers-world-series",
+      "source": "LA Times"
     },
     {
       "name": "A World Series",
@@ -168,85 +236,17 @@
       "source": "The Guardian"
     },
     {
+      "name": "The Winnipeg Jets",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/oct/23/connor-hellebuyck-new-jersey-devils-winnipeg-jets-trade-nhl",
+      "source": "The Guardian"
+    },
+    {
       "name": "Olympic",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/oct/23/world-olympic-marathon-champion-peres-jepchirchir-suspended-positive-doping-test-athletics",
       "source": "The Guardian"
-    },
-    {
-      "name": "Tokyo Games",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/23/world-olympic-marathon-champion-peres-jepchirchir-suspended-positive-doping-test-athletics",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Philadelphia 76Ers",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/23/lebron-james-donald-trump-national-anthem-76ers",
-      "source": "The Guardian"
     }
   ],
-  "ORG": [
-    {
-      "name": "Trump Republicans",
-      "count": 55,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-state-superintendent-public-instruction-shaw-barrera-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "The U.S. Senate",
-      "count": 22,
-      "url": "https://www.latimes.com/politics/story/2026-10-23/muslims-americanness-abdul-el-sayed",
-      "source": "LA Times"
-    },
-    {
-      "name": "Ai",
-      "count": 17,
-      "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 14,
-      "url": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
-      "source": "LA Times"
-    },
-    {
-      "name": "Congress",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Fbi",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/ex-fbi-officials-charged-hunter-biden-laptop",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian Us",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 7,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The California Congressional District",
-      "count": 7,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "The White House Farm",
-      "count": 6,
-      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/23/the-white-house-farm-massacre-exclusive-new-forensic-evidence-suggests-sheila-caffell-killed-herself-is-jeremy-bamber-innocent",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-10-23T17:47:55Z"
+  "updated": "2026-10-23T21:56:32Z"
 };
