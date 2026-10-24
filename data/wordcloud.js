@@ -2,8 +2,8 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    99,
-    "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html"
+    90,
+    "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html"
   ],
   [
     "guide",
@@ -11,152 +11,132 @@
     "https://www.theguardian.com/thefilter-us/2026/oct/22/revolve-beauty-advent-calendar"
   ],
   [
-    "california",
-    49,
-    "https://www.theguardian.com/commentisfree/2026/oct/23/trump-moral-squalor"
-  ],
-  [
     "race",
-    44,
-    "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html"
+    49,
+    "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html"
   ],
   [
-    "president",
-    34,
-    "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html"
-  ],
-  [
-    "series",
-    33,
-    "https://www.theguardian.com/sport/2026/oct/23/world-series-2026-predictions-will-the-rays-or-brewers-claim-their-first-title"
+    "california",
+    47,
+    "https://www.nytimes.com/2026/10/23/us/justice-dept-california-noncitizen-voters.html"
   ],
   [
     "republican",
-    32,
-    "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html"
-  ],
-  [
-    "police",
-    32,
-    "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns"
+    37,
+    "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html"
   ],
   [
     "senate",
-    31,
-    "https://www.theguardian.com/us-news/2026/oct/23/trump-doj-lawsuit-alaska-senate-dan-sullivan"
+    36,
+    "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html"
   ],
   [
     "election",
-    29,
-    "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html"
+    36,
+    "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html"
   ],
   [
-    "food",
-    29,
-    "https://www.theguardian.com/thefilter-us/2026/oct/23/new-york-fall-fashion-style"
+    "president",
+    31,
+    "https://www.nytimes.com/2026/10/23/us/politics/corey-lewandowski-trump.html"
+  ],
+  [
+    "department",
+    30,
+    "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html"
   ],
   [
     "game",
-    25,
-    "https://www.theguardian.com/sport/2026/oct/22/rookie-lendeborg-jaws-at-weak-ass-doncic-and-admits-he-didnt-watch-much-nba"
+    29,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/23/the-narco-hack-review-hbo-max-crime-documentary"
   ],
   [
-    "los",
-    24,
-    "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z"
-  ],
-  [
-    "angeles",
-    24,
-    "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z"
+    "food",
+    28,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/24/siobhan-mcsweeney-actor-presenter-derry-girls-new-host-guardian-comfort-eating-podcast"
   ],
   [
     "voters",
-    23,
-    "https://www.nytimes.com/2026/10/23/opinion/ezra-klein-podcast-sarah-longwell.html"
-  ],
-  [
-    "court",
-    23,
-    "https://www.theguardian.com/us-news/2026/oct/23/ex-fbi-officials-charged-hunter-biden-laptop"
+    27,
+    "https://www.nytimes.com/2026/10/23/us/justice-dept-california-noncitizen-voters.html"
   ],
   [
     "school",
-    22,
-    "https://www.theguardian.com/us-news/2026/oct/22/teacher-wounded-oregon-school-shooting-played-dead"
+    27,
+    "https://www.nytimes.com/2026/10/23/us/oregon-shooting-gunman-kaylub-giamanco.html"
   ],
   [
-    "democrats",
-    21,
-    "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html"
+    "series",
+    27,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/24/siobhan-mcsweeney-actor-presenter-derry-girls-new-host-guardian-comfort-eating-podcast"
+  ],
+  [
+    "police",
+    24,
+    "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns"
+  ],
+  [
+    "candidates",
+    23,
+    "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html"
+  ],
+  [
+    "los",
+    23,
+    "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z"
+  ],
+  [
+    "campaign",
+    22,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "angeles",
+    22,
+    "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z"
   ],
   [
     "administration",
     21,
-    "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html"
+    "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html"
   ],
   [
-    "department",
+    "democrats",
+    21,
+    "https://www.theguardian.com/commentisfree/2026/oct/23/trump-moral-squalor"
+  ],
+  [
+    "republicans",
     21,
     "https://www.theguardian.com/us-news/2026/oct/23/trump-doj-lawsuit-alaska-senate-dan-sullivan"
   ],
   [
-    "district",
-    20,
-    "https://www.theguardian.com/thefilter-us/2026/oct/23/new-york-fall-fashion-style"
-  ],
-  [
-    "star",
-    20,
-    "https://www.theguardian.com/sport/2026/oct/22/rookie-lendeborg-jaws-at-weak-ass-doncic-and-admits-he-didnt-watch-much-nba"
-  ],
-  [
-    "tax",
-    20,
-    "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
-  ],
-  [
-    "ukraine",
-    19,
-    "https://www.nytimes.com/2026/10/23/us/politics/senators-trump-nominees-ukraine-starlink.html"
-  ],
-  [
     "review",
-    19,
+    20,
     "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html"
   ],
   [
     "elections",
-    19,
-    "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html"
+    20,
+    "https://www.theguardian.com/us-news/2026/oct/22/midterm-elections-trump-changes-subject"
   ],
   [
     "killed",
-    19,
+    20,
     "https://www.theguardian.com/film/2026/oct/23/i-expect-you-to-cry-what-the-james-bond-actors-may-face-at-the-final-audition"
   ],
   [
-    "party",
-    19,
-    "https://www.theguardian.com/commentisfree/2026/oct/23/trump-moral-squalor"
+    "star",
+    20,
+    "https://www.theguardian.com/sport/2026/oct/24/sexual-assault-scandal-rocked-gymnastics-larry-nassar-sport-change-slow"
   ],
   [
-    "mother",
+    "district",
     19,
-    "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z"
-  ],
-  [
-    "republicans",
-    19,
-    "https://www.theguardian.com/us-news/2026/oct/23/trump-doj-lawsuit-alaska-senate-dan-sullivan"
+    "https://www.theguardian.com/thefilter-us/2026/oct/23/new-york-fall-fashion-style"
   ],
   [
     "black",
-    19,
-    "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns"
-  ],
-  [
-    "board",
     19,
     "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns"
   ],
@@ -166,19 +146,19 @@
     "https://www.theguardian.com/film/2026/oct/23/lee-chang-dong-possible-love-director-interview"
   ],
   [
-    "west",
-    18,
-    "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html"
+    "cancer",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research"
   ],
   [
-    "family",
+    "alaska",
     18,
-    "https://www.nytimes.com/2026/10/23/nyregion/kathy-hochul-western-new-york-upbringing-governor.html"
+    "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html"
   ],
   [
-    "attack",
+    "questions",
     18,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
     "latest",
@@ -186,29 +166,54 @@
     "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "don",
+    "board",
     18,
-    "https://www.theguardian.com/sport/2026/oct/22/rookie-lendeborg-jaws-at-weak-ass-doncic-and-admits-he-didnt-watch-much-nba"
+    "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns"
   ],
   [
-    "campaign",
-    17,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "mother",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns"
   ],
   [
-    "team",
-    17,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "county",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/23/laura-owens-sentenced-fake-pregnancy-clayton-echard"
   ],
   [
-    "recent",
+    "block",
     17,
-    "https://www.theguardian.com/film/2026/oct/23/taika-waititi-star-wars-lucasfilm"
+    "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html"
   ],
   [
-    "gop",
+    "justice",
     17,
-    "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas"
+    "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html"
+  ],
+  [
+    "midterm",
+    17,
+    "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html"
+  ],
+  [
+    "million",
+    17,
+    "https://www.nytimes.com/2026/10/24/us/archdiocese-new-york-sexual-abuse-settlement.html"
+  ],
+  [
+    "political",
+    17,
+    "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu"
+  ],
+  [
+    "party",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/oct/23/trump-moral-squalor"
+  ],
+  [
+    "university",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/oct/23/trump-moral-squalor"
   ],
   [
     "proposition",
@@ -216,49 +221,79 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "questions",
-    16,
-    "https://www.nytimes.com/2026/10/23/science/lgbt-teens-identification.html"
+    "gop",
+    17,
+    "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas"
   ],
   [
-    "candidates",
+    "court",
     16,
-    "https://www.theguardian.com/film/2026/oct/23/i-expect-you-to-cry-what-the-james-bond-actors-may-face-at-the-final-audition"
+    "https://www.nytimes.com/2026/10/23/us/politics/appeals-court-trump-constitution-detention.html"
   ],
   [
-    "shot",
+    "don",
     16,
-    "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns"
-  ],
-  [
-    "democratic",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/oct/23/texas-senate-ken-paxton-weakness"
-  ],
-  [
-    "sen",
-    16,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-insurance-commissioner-allen-kim-voter-guide"
+    "https://www.theguardian.com/tv-and-radio/2026/oct/24/siobhan-mcsweeney-actor-presenter-derry-girls-new-host-guardian-comfort-eating-podcast"
   ],
   [
     "war",
     15,
-    "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html"
+    "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html"
   ],
   [
-    "really",
+    "least",
     15,
-    "https://www.nytimes.com/2026/10/23/science/lgbt-teens-identification.html"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "earlier",
+    "general",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns"
+    "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu"
   ],
   [
-    "code",
+    "power",
     15,
-    "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts"
+    "https://www.theguardian.com/tv-and-radio/2026/oct/24/siobhan-mcsweeney-actor-presenter-derry-girls-new-host-guardian-comfort-eating-podcast"
+  ],
+  [
+    "final",
+    15,
+    "https://www.theguardian.com/film/2026/oct/23/i-expect-you-to-cry-what-the-james-bond-actors-may-face-at-the-final-audition"
+  ],
+  [
+    "office",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/oct/23/new-york-fall-fashion-style"
+  ],
+  [
+    "texas",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/23/democrat-james-talarico-targets-elon-musk-at-rally-texas-is-not-for-sale"
+  ],
+  [
+    "late",
+    15,
+    "https://www.theguardian.com/culture/2026/oct/23/seth-meyers-trump-fixation-mens-bodies"
+  ],
+  [
+    "family",
+    15,
+    "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/23/the-white-house-farm-massacre-exclusive-new-forensic-evidence-suggests-sheila-caffell-killed-herself-is-jeremy-bamber-innocent"
+  ],
+  [
+    "video",
+    15,
+    "https://www.theguardian.com/football/2026/oct/23/chaotic-football-brazil-politics-election-flavio-bolsonaro-lula"
+  ],
+  [
+    "prop",
+    15,
+    "https://www.theguardian.com/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games"
+  ],
+  [
+    "tax",
+    15,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
     "charter",
@@ -271,108 +306,73 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "crisis",
-    14,
-    "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html"
-  ],
-  [
     "israel",
     14,
     "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "least",
+    "country",
     14,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "office",
+    "book",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/oct/23/new-york-fall-fashion-style"
+    "https://www.theguardian.com/commentisfree/2026/oct/23/trump-moral-squalor"
   ],
   [
-    "case",
+    "donald",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/23/indiana-police-arrest-flock-wife"
+    "https://www.theguardian.com/us-news/2026/oct/23/trump-doj-lawsuit-alaska-senate-dan-sullivan"
   ],
   [
-    "company",
+    "earlier",
     14,
-    "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts"
+    "https://www.theguardian.com/us-news/2026/oct/23/severe-flooding-west-triggers-rescues-evacuations"
   ],
   [
-    "film",
+    "really",
     14,
-    "https://www.theguardian.com/film/2026/oct/23/lee-chang-dong-possible-love-director-interview"
+    "https://www.theguardian.com/lifeandstyle/2026/oct/24/blind-date-pardis-alexandrea"
   ],
   [
-    "tested",
+    "night",
     14,
-    "https://www.theguardian.com/sport/2026/oct/23/world-olympic-marathon-champion-peres-jepchirchir-suspended-positive-doping-test-athletics"
+    "https://www.theguardian.com/culture/2026/oct/23/seth-meyers-trump-fixation-mens-bodies"
   ],
   [
-    "county",
+    "seat",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/23/laura-owens-sentenced-fake-pregnancy-clayton-echard"
+    "https://www.theguardian.com/commentisfree/2026/oct/23/texas-senate-ken-paxton-weakness"
   ],
   [
-    "prop",
+    "recent",
     14,
-    "https://www.theguardian.com/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games"
+    "https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research"
   ],
   [
-    "midterm",
+    "iran",
     13,
-    "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html"
+    "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html"
   ],
   [
-    "ahead",
+    "ukraine",
     13,
-    "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html"
+    "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html"
   ],
   [
-    "price",
+    "james",
     13,
-    "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html"
+    "https://www.nytimes.com/2026/10/23/us/politics/trump-srpska-donations-library.html"
   ],
   [
-    "block",
-    13,
-    "https://www.nytimes.com/2026/10/23/us/politics/senators-trump-nominees-ukraine-starlink.html"
-  ],
-  [
-    "despite",
+    "red",
     13,
     "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "alaska",
+    "team",
     13,
-    "https://www.theguardian.com/us-news/2026/oct/23/trump-doj-lawsuit-alaska-senate-dan-sullivan"
-  ],
-  [
-    "donald",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/23/trump-doj-lawsuit-alaska-senate-dan-sullivan"
-  ],
-  [
-    "officer",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns"
-  ],
-  [
-    "shooting",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns"
-  ],
-  [
-    "support",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/23/trump-midterm-rallies-male-bodies"
-  ],
-  [
-    "health",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/22/flu-cases-west-coast-cdc"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ]
 ];
