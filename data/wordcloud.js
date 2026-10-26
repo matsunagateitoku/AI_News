@@ -2,173 +2,283 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    74,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    103,
+    "https://www.nytimes.com/video/us/politics/100000011231247/how-scuffles-at-trump-rallies-echo-his-past-events.html"
   ],
   [
     "guide",
-    60,
-    "https://www.theguardian.com/thefilter-us/2026/oct/24/tinned-fish-what-to-know"
-  ],
-  [
-    "race",
-    52,
-    "https://www.nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html"
+    62,
+    "https://www.theguardian.com/thefilter-us/2026/oct/26/coop-original-adjustable-pillow-sale"
   ],
   [
     "president",
-    48,
-    "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html"
-  ],
-  [
-    "california",
-    43,
-    "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites"
+    56,
+    "https://www.nytimes.com/video/us/politics/100000011231247/how-scuffles-at-trump-rallies-echo-his-past-events.html"
   ],
   [
     "election",
-    36,
-    "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html"
+    48,
+    "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html"
   ],
   [
-    "senate",
-    28,
-    "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all"
+    "race",
+    47,
+    "https://www.theguardian.com/commentisfree/2026/oct/26/the-guardian-view-on-lulas-comeback-a-victory-for-brazil-and-the-world-as-well-as-a-trump-rebuff"
   ],
   [
-    "democrats",
-    27,
-    "https://www.theguardian.com/commentisfree/2026/oct/26/democrats-win-victory-lessons"
+    "california",
+    46,
+    "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides"
   ],
   [
-    "war",
-    26,
-    "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html"
-  ],
-  [
-    "elections",
-    26,
-    "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
-  ],
-  [
-    "los",
-    24,
-    "https://www.theguardian.com/commentisfree/2026/oct/25/influencers-los-angeles"
-  ],
-  [
-    "angeles",
-    24,
-    "https://www.theguardian.com/commentisfree/2026/oct/25/influencers-los-angeles"
+    "lula",
+    37,
+    "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html"
   ],
   [
     "voters",
-    22,
-    "https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts"
+    37,
+    "https://www.theguardian.com/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election"
   ],
   [
-    "campaign",
-    20,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "elections",
+    32,
+    "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election"
   ],
   [
-    "republicans",
-    20,
-    "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all"
+    "star",
+    29,
+    "https://www.nytimes.com/2026/10/26/arts/television/walter-koenig-chekov-star-trek-dead.html"
   ],
   [
-    "district",
-    20,
-    "https://www.theguardian.com/thefilter-us/2026/oct/23/new-york-fall-fashion-style"
-  ],
-  [
-    "questions",
-    19,
-    "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html"
-  ],
-  [
-    "israeli",
-    19,
-    "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html"
-  ],
-  [
-    "states",
-    19,
-    "https://www.theguardian.com/us-news/2026/oct/26/what-are-midterm-elections"
-  ],
-  [
-    "police",
-    19,
-    "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway"
-  ],
-  [
-    "country",
-    18,
-    "https://www.nytimes.com/2026/10/26/opinion/india-modi-students-protests.html"
-  ],
-  [
-    "republican",
-    18,
-    "https://www.theguardian.com/us-news/2026/oct/26/what-are-midterm-elections"
-  ],
-  [
-    "proposition",
-    18,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
-  ],
-  [
-    "anthropic",
-    17,
-    "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html"
-  ],
-  [
-    "term",
-    17,
-    "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html"
-  ],
-  [
-    "midterm",
-    17,
-    "https://www.nytimes.com/2026/10/26/us/politics/the-11-midterm-races-that-could-shape-the-progressive-movements-future.html"
-  ],
-  [
-    "latest",
-    17,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "history",
-    17,
-    "https://www.theguardian.com/world/2026/oct/26/we-built-this-land-descendants-of-enslaved-people-are-reclaiming-their-history-across-south-africas-vineyards"
+    "comey",
+    27,
+    "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html"
   ],
   [
     "game",
-    17,
-    "https://www.theguardian.com/sport/2026/oct/26/aaron-rodgers-pittsburgh-steelers-nfl"
+    27,
+    "https://www.theguardian.com/science/2026/oct/26/maxxing-word-of-the-year-dictionary"
   ],
   [
-    "series",
-    16,
-    "https://www.nytimes.com/2026/10/26/us/politics/the-11-midterm-races-that-could-shape-the-progressive-movements-future.html"
+    "midterm",
+    26,
+    "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates"
   ],
   [
-    "past",
-    16,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "democrats",
+    26,
+    "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all"
   ],
   [
-    "sports",
-    16,
-    "https://www.theguardian.com/sport/2026/oct/25/the-wnba-finals-are-a-basketball-wonderland-unless-youre-part-of-the-maga-machine"
+    "republicans",
+    26,
+    "https://www.theguardian.com/us-news/2026/oct/26/what-are-midterm-elections"
   ],
   [
-    "tax",
-    16,
-    "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates"
+    "republican",
+    23,
+    "https://www.nytimes.com/2026/10/26/us/politics/ken-paxton-texas-trips.html"
+  ],
+  [
+    "actor",
+    23,
+    "https://www.theguardian.com/stage/2026/oct/26/michael-gambon-pranks-revealed-biography"
   ],
   [
     "food",
+    23,
+    "https://www.theguardian.com/thefilter-us/2026/oct/26/coop-original-adjustable-pillow-sale"
+  ],
+  [
+    "series",
+    22,
+    "https://www.nytimes.com/2026/10/26/arts/television/walter-koenig-chekov-star-trek-dead.html"
+  ],
+  [
+    "country",
+    22,
+    "https://www.nytimes.com/2026/10/26/opinion/india-modi-students-protests.html"
+  ],
+  [
+    "department",
+    22,
+    "https://www.theguardian.com/us-news/2026/oct/26/james-comey-charged-doj"
+  ],
+  [
+    "los",
+    22,
+    "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides"
+  ],
+  [
+    "angeles",
+    22,
+    "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides"
+  ],
+  [
+    "district",
+    22,
+    "https://www.theguardian.com/thefilter-us/2026/oct/23/new-york-fall-fashion-style"
+  ],
+  [
+    "campaign",
+    21,
+    "https://www.nytimes.com/2026/10/26/us/politics/ken-paxton-texas-trips.html"
+  ],
+  [
+    "latest",
+    20,
+    "https://www.nytimes.com/2026/10/26/briefing/anthropic-ipo-trump-mississippi-campaigning.html"
+  ],
+  [
+    "died",
+    20,
+    "https://www.nytimes.com/2026/10/26/arts/television/walter-koenig-chekov-star-trek-dead.html"
+  ],
+  [
+    "charges",
+    19,
+    "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html"
+  ],
+  [
+    "james",
+    19,
+    "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html"
+  ],
+  [
+    "donald",
+    19,
+    "https://www.theguardian.com/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election"
+  ],
+  [
+    "night",
+    19,
+    "https://www.theguardian.com/film/2026/oct/26/you-can-see-everything-cultural-moment"
+  ],
+  [
+    "midterms",
+    19,
+    "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all"
+  ],
+  [
+    "win",
+    18,
+    "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html"
+  ],
+  [
+    "war",
+    18,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "far",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election"
+  ],
+  [
+    "because",
+    18,
+    "https://www.theguardian.com/global/ng-interactive/2026/oct/26/turn-envy-into-motivation"
+  ],
+  [
+    "director",
+    18,
+    "https://www.theguardian.com/film/2026/oct/26/you-can-see-everything-cultural-moment"
+  ],
+  [
+    "tax",
+    18,
+    "https://www.theguardian.com/football/2026/oct/26/the-horse-that-brought-down-manchester-united"
+  ],
+  [
+    "senate",
+    17,
+    "https://www.nytimes.com/2026/10/26/briefing/anthropic-ipo-trump-mississippi-campaigning.html"
+  ],
+  [
+    "company",
+    17,
+    "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html"
+  ],
+  [
+    "price",
+    17,
+    "https://www.nytimes.com/2026/10/26/business/friendship-apps.html"
+  ],
+  [
+    "don",
+    17,
+    "https://www.theguardian.com/global/ng-interactive/2026/oct/26/turn-envy-into-motivation"
+  ],
+  [
+    "money",
+    17,
+    "https://www.theguardian.com/film/2026/oct/26/you-can-see-everything-cultural-moment"
+  ],
+  [
+    "court",
+    17,
+    "https://www.theguardian.com/us-news/2026/oct/26/james-comey-charged-doj"
+  ],
+  [
+    "cbs",
+    17,
+    "https://www.theguardian.com/culture/2026/oct/26/how-the-zombies-made-time-of-the-season"
+  ],
+  [
+    "love",
+    17,
+    "https://www.theguardian.com/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statement"
+  ],
+  [
+    "proposition",
+    17,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
+  ],
+  [
+    "justice",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/oct/24/tinned-fish-what-to-know"
+    "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html"
+  ],
+  [
+    "social",
+    16,
+    "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html"
+  ],
+  [
+    "brazil",
+    16,
+    "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html"
+  ],
+  [
+    "term",
+    16,
+    "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html"
+  ],
+  [
+    "red",
+    16,
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  ],
+  [
+    "bolsonaro",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election"
+  ],
+  [
+    "county",
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides"
+  ],
+  [
+    "board",
+    16,
+    "https://www.theguardian.com/sport/2026/oct/26/doubles-players-sign-open-letter-pleading-with-tennis-chiefs-to-protect-format"
+  ],
+  [
+    "voter",
+    16,
+    "https://www.latimes.com/politics/story/2026-10-26/ahead-of-midterms-trump-offers-1-million-reward-to-voter-fraud-tipsters"
   ],
   [
     "charter",
@@ -176,67 +286,82 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "lula",
+    "israel",
     15,
-    "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html"
+    "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html"
   ],
   [
-    "power",
+    "candidate",
     15,
-    "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html"
+    "https://www.nytimes.com/2026/10/26/us/politics/ken-paxton-texas-trips.html"
   ],
   [
-    "young",
+    "victory",
     15,
-    "https://www.nytimes.com/2026/10/26/opinion/india-modi-students-protests.html"
+    "https://www.nytimes.com/2026/10/26/climate/brazil-lula-bolsonaro-amazon.html"
   ],
   [
-    "don",
+    "candidates",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts"
+    "https://www.theguardian.com/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election"
   ],
   [
-    "star",
+    "party",
     15,
-    "https://www.theguardian.com/stage/2026/oct/26/michael-gambon-pranks-revealed-biography"
+    "https://www.theguardian.com/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election"
   ],
   [
-    "money",
+    "democratic",
     15,
-    "https://www.theguardian.com/football/2026/oct/26/premier-league-10-talking-points-from-the-weekends-action"
+    "https://www.theguardian.com/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election"
   ],
   [
-    "family",
+    "again",
     15,
-    "https://www.theguardian.com/culture/2026/oct/26/eric-bauza-award-winning-looney-tunes-voice-actor-dies-aged-46"
+    "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates"
   ],
   [
-    "board",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/mar/12/best-no-plastic-cutting-boards"
-  ],
-  [
-    "far",
+    "ahead",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts"
+    "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html"
   ],
   [
-    "didn",
+    "security",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/26/the-one-change-that-worked-i-told-the-men-in-my-life-i-loved-them-and-my-world-opened-up"
+    "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html"
   ],
   [
-    "department",
+    "information",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/26/vaccines-rfk-jr"
+    "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html"
   ],
   [
-    "children",
+    "media",
     14,
-    "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino"
+    "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html"
   ],
   [
-    "county",
+    "won",
+    14,
+    "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html"
+  ],
+  [
+    "early",
+    14,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "having",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election"
+  ],
+  [
+    "defense",
+    14,
+    "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates"
+  ],
+  [
+    "support",
     14,
     "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all"
   ],
@@ -246,133 +371,8 @@
     "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all"
   ],
   [
-    "died",
+    "children",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/26/the-pet-ill-never-forget-clement-was-hit-by-a-car-and-left-to-die-in-a-ditch-then-found-his-beautiful-purpose"
-  ],
-  [
-    "price",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/oct/26/donald-trump-policy-disaster-rural-america"
-  ],
-  [
-    "united",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/oct/26/uae-sudan-lana-nusseibeh-un-secretary-general"
-  ],
-  [
-    "prop",
-    14,
-    "https://www.theguardian.com/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games"
-  ],
-  [
-    "amendment",
-    14,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
-  ],
-  [
-    "nearly",
-    13,
-    "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html"
-  ],
-  [
-    "won",
-    13,
-    "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html"
-  ],
-  [
-    "israel",
-    13,
-    "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html"
-  ],
-  [
-    "races",
-    13,
-    "https://www.nytimes.com/2026/10/26/us/politics/the-11-midterm-races-that-could-shape-the-progressive-movements-future.html"
-  ],
-  [
-    "red",
-    13,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "win",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/oct/26/democrats-win-victory-lessons"
-  ],
-  [
-    "love",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/26/the-one-change-that-worked-i-told-the-men-in-my-life-i-loved-them-and-my-world-opened-up"
-  ],
-  [
-    "voter",
-    13,
-    "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us"
-  ],
-  [
-    "little",
-    13,
-    "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes"
-  ],
-  [
-    "university",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/26/peta-monkey-experiment-video"
-  ],
-  [
-    "sayed",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all"
-  ],
-  [
-    "candidate",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all"
-  ],
-  [
-    "because",
-    13,
-    "https://www.theguardian.com/music/2026/oct/26/jimmy-webb-wichita-lineman-macarthur-park-galveston-dolly"
-  ],
-  [
-    "actor",
-    13,
-    "https://www.theguardian.com/stage/2026/oct/26/michael-gambon-pranks-revealed-biography"
-  ],
-  [
-    "having",
-    13,
     "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults"
-  ],
-  [
-    "ahead",
-    12,
-    "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html"
-  ],
-  [
-    "fourth",
-    12,
-    "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html"
-  ],
-  [
-    "expected",
-    12,
-    "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html"
-  ],
-  [
-    "midterms",
-    12,
-    "https://www.nytimes.com/2026/10/26/us/politics/whos-winning-the-race-for-congress.html"
-  ],
-  [
-    "start",
-    12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "near",
-    12,
-    "https://www.theguardian.com/sport/2026/oct/26/aaron-rodgers-pittsburgh-steelers-nfl"
   ]
 ];
