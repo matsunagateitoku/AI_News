@@ -2,158 +2,143 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    74,
-    "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html"
+    84,
+    "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html"
   ],
   [
     "guide",
-    62,
-    "https://www.theguardian.com/culture/2026/oct/23/the-knives-are-out-at-netflix-maybe-now-it-will-make-something-worth-watching"
-  ],
-  [
-    "california",
-    53,
-    "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html"
+    63,
+    "https://www.theguardian.com/thefilter-us/2026/oct/25/horror-novelists-halloween-recommendations"
   ],
   [
     "president",
-    48,
-    "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html"
+    55,
+    "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html"
+  ],
+  [
+    "california",
+    55,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump"
   ],
   [
     "race",
-    41,
-    "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html"
-  ],
-  [
-    "game",
-    31,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/24/a-course-called-ireland-bill-murray-clearly-hated-making-his-new-golfing-show-but-its-extremely-fun-to-binge"
+    46,
+    "https://www.nytimes.com/2026/10/25/us/elections/trump-michigan-el-sayed-rogers.html"
   ],
   [
     "election",
+    31,
+    "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html"
+  ],
+  [
+    "senate",
     29,
-    "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html"
+    "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html"
+  ],
+  [
+    "game",
+    29,
+    "https://www.theguardian.com/sport/2026/oct/25/the-wnba-finals-are-a-basketball-wonderland-unless-youre-part-of-the-maga-machine"
   ],
   [
     "republican",
     28,
-    "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html"
-  ],
-  [
-    "series",
-    25,
-    "https://www.theguardian.com/sport/2026/oct/24/brewers-rays-world-series-game-one-baseball-payroll-salary-cap"
-  ],
-  [
-    "democratic",
-    23,
-    "https://www.nytimes.com/2026/10/24/us/democrats-republicans-presidential-primary-poll.html"
-  ],
-  [
-    "police",
-    23,
-    "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing"
-  ],
-  [
-    "senate",
-    22,
-    "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html"
-  ],
-  [
-    "campaign",
-    22,
-    "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html"
-  ],
-  [
-    "school",
-    22,
-    "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing"
+    "https://www.nytimes.com/2026/10/25/us/elections/trump-michigan-el-sayed-rogers.html"
   ],
   [
     "food",
-    22,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/24/siobhan-mcsweeney-actor-presenter-derry-girls-new-host-guardian-comfort-eating-podcast"
+    27,
+    "https://www.theguardian.com/us-news/2026/oct/24/georgia-ice-man-dies"
   ],
   [
-    "democrats",
-    21,
-    "https://www.nytimes.com/2026/10/24/us/democrats-republicans-presidential-primary-poll.html"
-  ],
-  [
-    "voters",
-    21,
-    "https://www.nytimes.com/2026/10/24/us/democrats-republicans-presidential-primary-poll.html"
-  ],
-  [
-    "district",
-    21,
-    "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
+    "campaign",
+    26,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
     "los",
-    21,
-    "https://www.theguardian.com/us-news/2026/oct/23/nick-reiner-hearing-trust-fund"
+    26,
+    "https://www.theguardian.com/us-news/2026/oct/25/manzanar-japanese-incarceration-baseball"
   ],
   [
     "angeles",
-    21,
-    "https://www.theguardian.com/us-news/2026/oct/23/nick-reiner-hearing-trust-fund"
+    26,
+    "https://www.theguardian.com/us-news/2026/oct/25/manzanar-japanese-incarceration-baseball"
+  ],
+  [
+    "voters",
+    23,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump"
   ],
   [
     "love",
+    23,
+    "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally"
+  ],
+  [
+    "country",
     21,
-    "https://www.theguardian.com/commentisfree/2026/oct/23/trump-putin-ukraine"
+    "https://www.nytimes.com/2026/10/26/opinion/india-modi-students-protests.html"
   ],
   [
-    "midterm",
-    20,
-    "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html"
+    "questions",
+    21,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "board",
-    20,
-    "https://www.theguardian.com/us-news/2026/oct/23/billionaire-glenn-dubin-mount-sinai-board-epstein-links"
-  ],
-  [
-    "tax",
-    19,
-    "https://www.latimes.com/california/story/2026-10-24/more-than-351-million-spent-on-wealth-tax-on-november-ballot"
+    "win",
+    21,
+    "https://www.theguardian.com/sport/2026/oct/25/the-wnba-finals-are-a-basketball-wonderland-unless-youre-part-of-the-maga-machine"
   ],
   [
     "elections",
-    18,
-    "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html"
+    20,
+    "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
   ],
   [
-    "republicans",
-    18,
-    "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html"
+    "police",
+    20,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/trump-bukele-el-salvador-police-state"
+  ],
+  [
+    "support",
+    19,
+    "https://www.nytimes.com/2026/10/26/opinion/israel-elections-netanyahu.html"
+  ],
+  [
+    "democrats",
+    19,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump"
+  ],
+  [
+    "candidates",
+    19,
+    "https://www.theguardian.com/us-news/2026/oct/25/prairie-populists-midwest-prairie-states-midterm-elections"
+  ],
+  [
+    "district",
+    19,
+    "https://www.theguardian.com/thefilter-us/2026/oct/23/new-york-fall-fashion-style"
   ],
   [
     "department",
-    17,
-    "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html"
+    18,
+    "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html"
   ],
   [
-    "seat",
+    "candidate",
     17,
-    "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html"
+    "https://www.nytimes.com/2026/10/25/us/elections/trump-michigan-el-sayed-rogers.html"
   ],
   [
-    "protests",
+    "gaza",
     17,
-    "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "paris",
+    "series",
     17,
-    "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing"
-  ],
-  [
-    "black",
-    17,
-    "https://www.theguardian.com/books/2026/oct/24/our-third-date-was-at-buckingham-palace-marlon-james-and-nicholas-boggs-on-life-as-a-literary-power-couple"
+    "https://www.theguardian.com/sport/2026/oct/25/the-wnba-finals-are-a-basketball-wonderland-unless-youre-part-of-the-maga-machine"
   ],
   [
     "proposition",
@@ -161,24 +146,49 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "attack",
+    "michigan",
     16,
-    "https://www.nytimes.com/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html"
+    "https://www.nytimes.com/2026/10/25/us/elections/trump-michigan-el-sayed-rogers.html"
   ],
   [
-    "fire",
+    "office",
     16,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/10/25/business/media/elizabeth-holmes-clayface-box-office.html"
   ],
   [
-    "team",
+    "death",
     16,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+    "https://www.theguardian.com/sport/2026/oct/25/the-wnba-finals-are-a-basketball-wonderland-unless-youre-part-of-the-maga-machine"
   ],
   [
-    "mother",
+    "social",
     16,
-    "https://www.theguardian.com/wellness/ng-interactive/2026/oct/24/body-donation-science"
+    "https://www.theguardian.com/sport/2026/oct/25/the-wnba-finals-are-a-basketball-wonderland-unless-youre-part-of-the-maga-machine"
+  ],
+  [
+    "because",
+    16,
+    "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
+  ],
+  [
+    "party",
+    16,
+    "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum"
+  ],
+  [
+    "james",
+    16,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/james-blair-trump-strategist-midterms-republicans"
+  ],
+  [
+    "board",
+    16,
+    "https://www.theguardian.com/football/2026/oct/25/manchester-united-board-crisis-talks-michael-carrick-eddie-howe-bournemouth-premier-league"
+  ],
+  [
+    "ahead",
+    16,
+    "https://www.theguardian.com/sport/2026/oct/25/milwaukee-brewers-tampa-bay-rays-world-series-game-two-comeback"
   ],
   [
     "prop",
@@ -186,84 +196,19 @@
     "https://www.theguardian.com/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games"
   ],
   [
-    "amendment",
+    "tax",
     16,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "political",
+    "least",
     15,
-    "https://www.nytimes.com/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html"
-  ],
-  [
-    "military",
-    15,
-    "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html"
-  ],
-  [
-    "candidates",
-    15,
-    "https://www.nytimes.com/2026/10/24/opinion/midterm-elections-republicans.html"
-  ],
-  [
-    "million",
-    15,
-    "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8"
-  ],
-  [
-    "latest",
-    15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "season",
-    15,
-    "https://www.theguardian.com/sport/2026/oct/24/paula-moltzan-first-world-cup-win-solden-giant-slalom"
-  ],
-  [
-    "star",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/24/a-course-called-ireland-bill-murray-clearly-hated-making-his-new-golfing-show-but-its-extremely-fun-to-binge"
-  ],
-  [
-    "candidate",
-    15,
-    "https://www.theguardian.com/us-news/live/2026/oct/24/obama-abdul-el-sayed-midterms-rally-michigan-live-updates"
-  ],
-  [
-    "earlier",
-    15,
-    "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
-  ],
-  [
-    "court",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/24/cornell-jane-doe"
-  ],
-  [
-    "south",
-    15,
-    "https://www.theguardian.com/artanddesign/2026/oct/24/rm-bts-sfmoma-exhibition"
-  ],
-  [
-    "price",
-    15,
-    "https://www.theguardian.com/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles"
-  ],
-  [
-    "administration",
-    15,
-    "https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
     "book",
     15,
-    "https://www.theguardian.com/books/2026/oct/23/lessons-in-chemistry-author-bonnie-garmus-i-wrote-my-first-novel-at-12-it-has-not-yet-found-a-publisher"
-  ],
-  [
-    "code",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
+    "https://www.theguardian.com/tv-and-radio/2026/oct/25/theres-nothing-interesting-about-me-and-no-interest-in-me-how-larry-davids-new-biography-nearly-didnt-happen"
   ],
   [
     "charter",
@@ -271,108 +216,163 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "france",
+    "israel",
     14,
-    "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html"
+    "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html"
   ],
   [
-    "west",
+    "leader",
     14,
-    "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html"
+    "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html"
   ],
   [
-    "father",
+    "team",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/24/six-flags-goliath-rollercoaster-seatbelts"
+    "https://www.nytimes.com/2026/10/26/world/europe/venice-soceer.html"
   ],
   [
-    "james",
+    "war",
     14,
-    "https://www.theguardian.com/books/2026/oct/24/our-third-date-was-at-buckingham-palace-marlon-james-and-nicholas-boggs-on-life-as-a-literary-power-couple"
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "company",
+    "didn",
     14,
-    "https://www.theguardian.com/books/2026/oct/24/our-third-date-was-at-buckingham-palace-marlon-james-and-nicholas-boggs-on-life-as-a-literary-power-couple"
+    "https://www.theguardian.com/film/2026/oct/25/ali-g-who-iz-i-stooge-joshua-loudermilk-sacha-baron-cohen"
   ],
   [
-    "review",
+    "star",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/23/billionaire-glenn-dubin-mount-sinai-board-epstein-links"
+    "https://www.theguardian.com/film/2026/oct/25/ali-g-who-iz-i-stooge-joshua-loudermilk-sacha-baron-cohen"
   ],
   [
-    "county",
+    "point",
     14,
-    "https://www.latimes.com/california/story/2026-10-24/chad-bianco-asks-riverside-county-to-foot-legal-bills-over-seized-ballots"
+    "https://www.theguardian.com/sport/2026/oct/25/the-wnba-finals-are-a-basketball-wonderland-unless-youre-part-of-the-maga-machine"
   ],
   [
-    "alaska",
-    13,
-    "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html"
+    "sports",
+    14,
+    "https://www.theguardian.com/sport/2026/oct/25/the-wnba-finals-are-a-basketball-wonderland-unless-youre-part-of-the-maga-machine"
   ],
   [
-    "power",
-    13,
-    "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html"
+    "media",
+    14,
+    "https://www.theguardian.com/sport/2026/oct/25/the-wnba-finals-are-a-basketball-wonderland-unless-youre-part-of-the-maga-machine"
   ],
   [
-    "obama",
-    13,
-    "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html"
+    "bill",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/25/a-course-called-ireland-review-bill-murray-golf-bbc"
   ],
   [
-    "far",
-    13,
-    "https://www.nytimes.com/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html"
+    "court",
+    14,
+    "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
+  ],
+  [
+    "rally",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally"
+  ],
+  [
+    "college",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally"
+  ],
+  [
+    "seat",
+    14,
+    "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election"
+  ],
+  [
+    "university",
+    14,
+    "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk"
+  ],
+  [
+    "republicans",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/25/prairie-populists-midwest-prairie-states-midterm-elections"
+  ],
+  [
+    "democratic",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/25/prairie-populists-midwest-prairie-states-midterm-elections"
+  ],
+  [
+    "children",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/25/manzanar-japanese-incarceration-baseball"
+  ],
+  [
+    "filter",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/oct/25/horror-novelists-halloween-recommendations"
+  ],
+  [
+    "ukraine",
+    14,
+    "https://www.theguardian.com/world/2026/oct/26/ukraine-war-briefing-trilateral-us-ukraine-russia-talks-restart-november"
+  ],
+  [
+    "price",
+    14,
+    "https://www.theguardian.com/culture/2026/oct/23/the-knives-are-out-at-netflix-maybe-now-it-will-make-something-worth-watching"
+  ],
+  [
+    "amendment",
+    14,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
     "israeli",
     13,
-    "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html"
+    "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html"
   ],
   [
-    "killed",
+    "alaska",
     13,
-    "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html"
+    "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html"
   ],
   [
-    "rally",
+    "weekend",
     13,
-    "https://www.nytimes.com/2026/10/24/us/trump-protester-punched-youngstown-ohio.html"
+    "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html"
   ],
   [
-    "least",
+    "young",
     13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.nytimes.com/2026/10/26/opinion/india-modi-students-protests.html"
   ],
   [
-    "office",
+    "attack",
     13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/24/jd-vance-trump-midterms-white-house"
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "water",
+    "fire",
     13,
-    "https://www.theguardian.com/us-news/2026/oct/23/severe-flooding-west-triggers-rescues-evacuations"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "east",
+    "local",
     13,
-    "https://www.theguardian.com/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/trump-bukele-el-salvador-police-state"
   ],
   [
-    "bag",
+    "review",
     13,
-    "https://www.theguardian.com/books/2026/oct/22/black-bag-by-luke-kennard-audiobook-review-brilliant-booker-shortlisted-campus-comedy"
+    "https://www.theguardian.com/tv-and-radio/2026/oct/25/a-course-called-ireland-review-bill-murray-golf-bbc"
   ],
   [
-    "governor",
-    12,
-    "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html"
+    "car",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/25/a-course-called-ireland-review-bill-murray-golf-bbc"
   ],
   [
-    "ukraine",
-    12,
-    "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html"
+    "little",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/25/a-course-called-ireland-review-bill-murray-golf-bbc"
   ]
 ];
