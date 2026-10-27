@@ -2,57 +2,51 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Melania Trump",
-      "count": 16,
-      "url": "https://www.foxnews.com/world/ceasefire-negotiated-melania-trump-holds-russia-occupied-ukrainian-city",
-      "source": "Fox News"
-    },
-    {
-      "name": "Benjamin Netanyahu",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/video/2026/oct/27/these-four-elections-could-change-the-world-in-10-days-stateside-with-kai-and-carter",
+      "name": "Donald J Trump",
+      "count": 17,
+      "url": "https://www.theguardian.com/music/2026/oct/27/neil-young-lawsuit-trump-rockin-in-the-free-world",
       "source": "The Guardian"
     },
     {
       "name": "Elon Musk",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/defund-elon-musk",
+      "count": 14,
+      "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
       "source": "The Guardian"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "count": 13,
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
+      "source": "NPR"
     },
     {
       "name": "Donald Trump",
-      "count": 8,
-      "url": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/cassidy-hutchinson-doj-indictment-trump",
       "source": "The Guardian"
     },
     {
-      "name": "Kylian Mbappé",
-      "count": 7,
-      "url": "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Lula Da Silva",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
+      "name": "Flávio Bolsonaro",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
       "source": "NY Times"
     },
     {
-      "name": "James Comey",
+      "name": "Ted Bundy",
       "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/james-comey-charged-doj",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder",
       "source": "The Guardian"
     },
     {
-      "name": "Luiz Inácio Lula Da Silva",
+      "name": "Eric Swalwell",
       "count": 6,
-      "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/eric-swalwell-investigation-beverly-hills-mansion-searched",
       "source": "The Guardian"
     },
     {
-      "name": "Mao Zedong",
+      "name": "Elizabeth Holmes",
       "count": 6,
-      "url": "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/27/elizabeth-holmes-documentary-mania-you-can-see-everything-the-dropout",
       "source": "The Guardian"
     },
     {
@@ -60,26 +54,162 @@
       "count": 6,
       "url": "https://www.theguardian.com/music/2026/oct/26/mac-demarco-carnegie-hall-review",
       "source": "The Guardian"
+    },
+    {
+      "name": "Nithya Raman",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/10/27/us/politics/los-angeles-mayor-nithya-raman-democratic-socialist.html",
+      "source": "NY Times"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 60,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/epstein-files-midterms-sledgehammer",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 45,
+      "url": "https://www.nytimes.com/2026/10/27/weather/king-tides-california-la-sf.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County",
+      "count": 19,
+      "url": "https://www.latimes.com/california/story/2026-10-27/measure-could-alter-la-county-labor-talks-theres-little-debate",
+      "source": "LA Times"
+    },
+    {
+      "name": "Israel",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/10/27/arts/television/susan-st-james-dead-kate-and-allie.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Utah",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Texas",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/10/27/us/ken-paxton-divorce-tracy-duhon.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Florida",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/oren-alon-tal-alexander-sentenced-sex-trafficking",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The United States Of America",
+      "count": 10,
+      "url": "https://thehill.com/homenews/6176244-rubio-speaks-trump-texas-rally/",
+      "source": "The Hill"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Explores Lifting Sanctions",
+      "count": 64,
+      "url": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Congress",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/eric-swalwell-investigation-beverly-hills-mansion-searched",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 14,
+      "url": "https://www.nbcnews.com/politics/politics-news/wes-moores-other-2026-battle-politics-desk-rcna606000",
+      "source": "NBC News"
+    },
+    {
+      "name": "The Democratic Us Senate",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/epstein-files-midterms-sledgehammer",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai Odyssey",
+      "count": 11,
+      "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cbs News",
+      "count": 11,
+      "url": "https://www.cbsnews.com/video/fbi-agents-raid-billionaires-mansion-eric-swalwell-investigation/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Fbi",
+      "count": 10,
+      "url": "https://www.latimes.com/california/story/2026-10-27/beverly-hills-mansion-swalwell-raid",
+      "source": "LA Times"
+    },
+    {
+      "name": "Guardian Us",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/epstein-files-midterms-sledgehammer",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Cdc",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/cdc-deputy-director-resigns-jennifer-shuford",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
       "name": "The Super Bowl",
-      "count": 11,
+      "count": 7,
       "url": "https://www.theguardian.com/music/2026/oct/27/jay-z-to-headline-2027-super-bowl-half-time-show",
       "source": "The Guardian"
     },
     {
-      "name": "World Series",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/oct/26/brewers-rays-world-series-game-3-baseball",
+      "name": "World Series Game 4",
+      "count": 7,
+      "url": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-get-350-game-4-world-series-rays-brewers",
+      "source": "Fox News"
+    },
+    {
+      "name": "Pro Bowl",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/oct/27/quenton-nelson-colts-seahawks-trade-nfl",
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
-      "count": 3,
-      "url": "https://www.foxnews.com/politics/trump-supporters-confront-iran-affordability-concerns-message-critics-give-him-time",
-      "source": "Fox News"
+      "name": "Game 3",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/oct/26/brewers-rays-world-series-game-3-baseball",
+      "source": "The Guardian"
     },
     {
       "name": "Black Ops",
@@ -100,153 +230,23 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Civil War",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Game 3",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/oct/26/brewers-rays-world-series-game-3-baseball",
-      "source": "The Guardian"
-    },
-    {
       "name": "Game 5",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/oct/26/wnba-finals-game-5-dream-valkyries-basketball",
       "source": "The Guardian"
     },
     {
-      "name": "The Revolution That Swept Virtual Reality",
+      "name": "The Korean War",
       "count": 1,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/25/theres-nothing-interesting-about-me-and-no-interest-in-me-how-larry-davids-new-biography-nearly-didnt-happen",
+      "url": "https://www.theguardian.com/film/2026/oct/27/tom-skerritt-obituary",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Carabao Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/oct/27/fleetwood-town-arsenal-carabao-cup-fourth-round-match-report",
       "source": "The Guardian"
     }
   ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 53,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/defund-elon-musk",
-      "source": "The Guardian"
-    },
-    {
-      "name": "California",
-      "count": 48,
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-washington-ballots-aside-noncitizen-voters",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/10/27/podcasts/the-headlines/israel-election-anthropic-ipo.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County",
-      "count": 17,
-      "url": "https://www.latimes.com/california/story/2026-10-27/measure-could-alter-la-county-labor-talks-theres-little-debate",
-      "source": "LA Times"
-    },
-    {
-      "name": "New York City",
-      "count": 10,
-      "url": "https://www.nytimes.com/article/where-to-eat-nyc-restaurants.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/10/26/books/review/princes-and-thieves-matthew-cole.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "London",
-      "count": 9,
-      "url": "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Russia",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Los Angeles County",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-sheriff-race-luna-villanueva-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "China",
-      "count": 7,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Administration’S",
-      "count": 50,
-      "url": "https://www.nbcnews.com/politics/trump-administration/judge-extends-block-trump-officials-removing-trees-dc-golf-course-east-rcna605852",
-      "source": "NBC News"
-    },
-    {
-      "name": "The Democratic Us Senate",
-      "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 15,
-      "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop",
-      "count": 14,
-      "url": "https://www.foxnews.com/media/speaker-johnson-predicts-democrats-far-left-shift-juice-enthusiasm-gop-midterms",
-      "source": "Fox News"
-    },
-    {
-      "name": "The White House",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/10/27/arts/television/jimmy-kimmel-trump-obama-roast.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Nato",
-      "count": 7,
-      "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Nfl",
-      "count": 7,
-      "url": "https://www.theguardian.com/music/2026/oct/27/jay-z-to-headline-2027-super-bowl-half-time-show",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The California Congressional District",
-      "count": 7,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
-      "source": "LA Times"
-    },
-    {
-      "name": "Congress",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-washington-ballots-aside-noncitizen-voters",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Cowboys",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/oct/27/cowboys-eagles-dak-prescott-javonte-williams-nfl-monday-night-football",
-      "source": "The Guardian"
-    }
-  ],
-  "updated": "2026-10-27T13:04:19Z"
+  "updated": "2026-10-27T22:53:47Z"
 };
