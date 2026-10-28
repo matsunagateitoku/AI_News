@@ -2,213 +2,263 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    78,
-    "https://www.nytimes.com/2026/10/28/us/politics/trump-us-attorneys-elections-protests-cases.html"
+    76,
+    "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html"
   ],
   [
     "guide",
-    61,
-    "https://www.theguardian.com/thefilter-us/2026/oct/26/coop-original-adjustable-pillow-sale"
-  ],
-  [
-    "california",
-    57,
-    "https://www.nytimes.com/2026/10/27/weather/king-tides-california-la-sf.html"
+    63,
+    "https://www.theguardian.com/thefilter-us/2026/oct/28/cozy-essentials"
   ],
   [
     "race",
-    53,
-    "https://www.nytimes.com/2026/10/28/us/south-carolina-florida-minnesota-poll.html"
+    51,
+    "https://www.nytimes.com/2026/10/28/us/politics/governors-poll-florida-south-carolina-minnesota.html"
   ],
   [
-    "election",
-    47,
-    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html"
+    "california",
+    49,
+    "https://www.theguardian.com/us-news/2026/oct/28/cheesecake-factory-obama-trump"
   ],
   [
     "president",
-    35,
-    "https://www.nytimes.com/2026/10/28/us/politics/trump-us-attorneys-elections-protests-cases.html"
+    34,
+    "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html"
   ],
   [
-    "elections",
+    "election",
     33,
-    "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
+    "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html"
   ],
   [
     "love",
-    32,
-    "https://www.theguardian.com/news/2026/oct/28/gullah-geechee-art-exhibition-cameron-art-museum"
-  ],
-  [
-    "voters",
-    31,
-    "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html"
-  ],
-  [
-    "israel",
-    28,
-    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html"
-  ],
-  [
-    "midterm",
-    27,
-    "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
-  ],
-  [
-    "senate",
-    26,
-    "https://www.nytimes.com/2026/10/28/us/south-carolina-florida-minnesota-poll.html"
-  ],
-  [
-    "republican",
-    26,
-    "https://www.nytimes.com/2026/10/28/us/south-carolina-florida-minnesota-poll.html"
-  ],
-  [
-    "game",
-    24,
-    "https://www.nytimes.com/2026/10/28/us/politics/bo-french-texas-railroad-commission-south-asian.html"
+    33,
+    "https://www.theguardian.com/us-news/2026/oct/27/trump-obama-rally-midterms-analysis"
   ],
   [
     "campaign",
-    24,
-    "https://www.nytimes.com/2026/10/28/us/politics/bo-french-texas-railroad-commission-south-asian.html"
+    32,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "film",
+    "voters",
+    30,
+    "https://www.theguardian.com/us-news/2026/oct/28/arizona-house-midterms-race"
+  ],
+  [
+    "elections",
+    29,
+    "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest"
+  ],
+  [
+    "senate",
+    28,
+    "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+  ],
+  [
+    "republican",
+    27,
+    "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+  ],
+  [
+    "midterm",
+    24,
+    "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+  ],
+  [
+    "died",
+    24,
+    "https://www.theguardian.com/us-news/2026/oct/28/dolores-huerta-tributes"
+  ],
+  [
+    "district",
+    24,
+    "https://www.theguardian.com/us-news/2026/oct/28/arizona-house-midterms-race"
+  ],
+  [
+    "court",
+    24,
+    "https://www.theguardian.com/books/2026/oct/28/we-sold-out-tickets-within-13-minutes-new-novel-from-romantasy-author-sarah-j-maas-sparks-fan-mania"
+  ],
+  [
+    "los",
     23,
     "https://www.theguardian.com/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close"
   ],
   [
-    "los",
-    22,
-    "https://www.theguardian.com/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close"
-  ],
-  [
-    "spain",
-    21,
-    "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html"
-  ],
-  [
-    "angeles",
-    21,
-    "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest"
-  ],
-  [
-    "food",
-    20,
-    "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie"
-  ],
-  [
-    "war",
-    19,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "board",
-    19,
-    "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates"
-  ],
-  [
-    "district",
-    19,
-    "https://www.theguardian.com/thefilter-us/2026/oct/23/new-york-fall-fashion-style"
-  ],
-  [
-    "proposition",
-    19,
-    "https://www.latimes.com/environment/story/2026-10-28/prop-45-would-bar-dozens-of-tribes-from-consulting-on-development-projects"
-  ],
-  [
-    "political",
-    18,
-    "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
-  ],
-  [
-    "candidates",
-    18,
-    "https://www.latimes.com/california/story/2026-10-28/california-governor-candidates-views-on-gas-prices-evs-high-speed-rail"
-  ],
-  [
-    "democrats",
-    17,
-    "https://www.nytimes.com/2026/10/28/us/south-carolina-florida-minnesota-poll.html"
-  ],
-  [
-    "country",
-    17,
-    "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html"
-  ],
-  [
-    "latest",
-    17,
-    "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html"
-  ],
-  [
-    "far",
-    17,
-    "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape"
-  ],
-  [
-    "train",
-    17,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/28/a-moment-that-changed-me-i-was-always-a-pushover-until-i-stood-up-to-some-teenagers"
-  ],
-  [
-    "york",
-    17,
-    "https://www.theguardian.com/sport/no-helmets-required/2026/oct/28/qwantez-stiggers-new-york-jets-nfl-delivery-driver-football"
-  ],
-  [
-    "iran",
-    16,
-    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html"
-  ],
-  [
-    "because",
-    16,
-    "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html"
-  ],
-  [
-    "israeli",
-    16,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "money",
-    16,
-    "https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires"
+    "game",
+    23,
+    "https://www.theguardian.com/sport/2026/oct/28/justin-tucker-harrison-butker-nfl-kicker-chiefs"
   ],
   [
     "series",
+    22,
+    "https://www.theguardian.com/books/2026/oct/28/we-sold-out-tickets-within-13-minutes-new-novel-from-romantasy-author-sarah-j-maas-sparks-fan-mania"
+  ],
+  [
+    "candidates",
+    21,
+    "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html"
+  ],
+  [
+    "social",
+    21,
+    "https://www.theguardian.com/us-news/2026/oct/28/trump-fox-news-truth-social"
+  ],
+  [
+    "huerta",
+    20,
+    "https://www.nytimes.com/2026/10/28/us/dolores-huerta-dead.html"
+  ],
+  [
+    "department",
+    20,
+    "https://www.nytimes.com/2026/10/28/us/politics/linda-mcmahon-education-department-furniture-trump.html"
+  ],
+  [
+    "office",
+    20,
+    "https://www.nytimes.com/2026/10/28/us/politics/linda-mcmahon-education-department-furniture-trump.html"
+  ],
+  [
+    "midterms",
+    20,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/28/california-bill-essayli-us-attorney"
+  ],
+  [
+    "media",
+    20,
+    "https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims"
+  ],
+  [
+    "board",
+    20,
+    "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms"
+  ],
+  [
+    "angeles",
+    20,
+    "https://www.theguardian.com/film/2026/oct/28/peter-medak-veteran-director-of-the-krays-and-the-changeling-dies-aged-88"
+  ],
+  [
+    "police",
+    19,
+    "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html"
+  ],
+  [
+    "israel",
+    19,
+    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html"
+  ],
+  [
+    "food",
+    19,
+    "https://www.theguardian.com/artanddesign/2026/oct/28/bees-holly-lynton-best-photograph-bare-handed-odyssey"
+  ],
+  [
+    "united",
+    18,
+    "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html"
+  ],
+  [
+    "film",
+    18,
+    "https://www.theguardian.com/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close"
+  ],
+  [
+    "don",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/oct/28/cozy-essentials"
+  ],
+  [
+    "nfl",
+    17,
+    "https://www.theguardian.com/sport/2026/oct/28/jay-z-halftime-show-super-bowl"
+  ],
+  [
+    "because",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/oct/29/my-mail-midterms-vote-outside-trumps-america-us-election"
+  ],
+  [
+    "proposition",
+    17,
+    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
+  ],
+  [
+    "peltola",
     16,
-    "https://www.theguardian.com/film/ng-interactive/2026/oct/28/turner-classic-movies-skydance-merger"
+    "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+  ],
+  [
+    "train",
+    16,
+    "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html"
+  ],
+  [
+    "rates",
+    16,
+    "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/warsh-interest-rates-fed"
+  ],
+  [
+    "ahead",
+    16,
+    "https://www.nytimes.com/2026/10/28/nyregion/cornell-faculty-no-confidence-vote.html"
+  ],
+  [
+    "power",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/oct/28/ai-climate-crisis-humanity"
+  ],
+  [
+    "games",
+    16,
+    "https://www.theguardian.com/sport/2026/oct/28/atlanta-dream-wnba-finals-start-time-game-6"
+  ],
+  [
+    "states",
+    15,
+    "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html"
+  ],
+  [
+    "democrats",
+    15,
+    "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+  ],
+  [
+    "democratic",
+    15,
+    "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+  ],
+  [
+    "dolores",
+    15,
+    "https://www.nytimes.com/2026/10/28/us/dolores-huerta-dead.html"
   ],
   [
     "vote",
     15,
-    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html"
+    "https://www.nytimes.com/2026/10/28/nyregion/cornell-faculty-no-confidence-vote.html"
   ],
   [
-    "court",
+    "administration",
     15,
-    "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
+    "https://www.nytimes.com/2026/10/28/nyregion/cornell-faculty-no-confidence-vote.html"
   ],
   [
-    "tax",
+    "young",
     15,
-    "https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html"
+    "https://www.theguardian.com/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close"
   ],
   [
-    "rally",
+    "book",
     15,
-    "https://www.theguardian.com/us-news/2026/oct/28/rfk-jr-michigan-arabs-comment"
+    "https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims"
   ],
   [
-    "office",
+    "political",
     15,
-    "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest"
+    "https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims"
   ],
   [
     "charter",
@@ -216,64 +266,64 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "department",
+    "country",
     14,
-    "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
+    "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html"
   ],
   [
-    "poll",
+    "despite",
     14,
-    "https://www.nytimes.com/2026/10/28/us/south-carolina-florida-minnesota-poll.html"
+    "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/warsh-interest-rates-fed"
   ],
   [
-    "late",
+    "labor",
     14,
-    "https://www.nytimes.com/2026/10/28/us/south-carolina-florida-minnesota-poll.html"
+    "https://www.nytimes.com/2026/10/28/opinion/ai-job-replacement-unions-san-francisco.html"
   ],
   [
-    "republicans",
+    "released",
     14,
-    "https://www.nytimes.com/2026/10/28/us/south-carolina-florida-minnesota-poll.html"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "police",
+    "rights",
     14,
-    "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/28/california-bill-essayli-us-attorney"
   ],
   [
-    "began",
+    "season",
     14,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "https://www.theguardian.com/sport/2026/oct/28/jay-z-halftime-show-super-bowl"
   ],
   [
-    "price",
+    "final",
     14,
-    "https://www.theguardian.com/commentisfree/2026/oct/28/donald-trump-iran-midterms-politics-diplomacy"
+    "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest"
   ],
   [
-    "democratic",
+    "parties",
     14,
-    "https://www.theguardian.com/commentisfree/2026/oct/28/donald-trump-iran-midterms-politics-diplomacy"
+    "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest"
   ],
   [
-    "worth",
+    "seat",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/28/a-moment-that-changed-me-i-was-always-a-pushover-until-i-stood-up-to-some-teenagers"
+    "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest"
   ],
   [
-    "power",
+    "county",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi"
+    "https://www.theguardian.com/us-news/2026/oct/28/california-extreme-weather-high-tides"
   ],
   [
-    "speed",
+    "congressional",
     14,
-    "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates"
+    "https://www.theguardian.com/us-news/2026/oct/28/arizona-house-midterms-race"
   ],
   [
-    "dream",
+    "research",
     14,
-    "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity"
+    "https://www.theguardian.com/commentisfree/2026/oct/28/mark-carney-trump-davos"
   ],
   [
     "amendment",
@@ -281,98 +331,48 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "polls",
+    "ballot",
     13,
-    "https://www.nytimes.com/2026/10/28/upshot/polls-south-carolina-minnesota-florida.html"
+    "https://www.nytimes.com/2026/10/28/briefing/alaska-ballot-stacking-horror-bookshops.html"
   ],
   [
-    "texas",
+    "alaska",
     13,
-    "https://www.nytimes.com/2026/10/28/us/politics/bo-french-texas-railroad-commission-south-asian.html"
+    "https://www.nytimes.com/2026/10/28/briefing/alaska-ballot-stacking-horror-bookshops.html"
   ],
   [
-    "death",
+    "farm",
     13,
-    "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html"
+    "https://www.nytimes.com/2026/10/28/us/dolores-huerta-dead.html"
   ],
   [
-    "horror",
+    "workers",
     13,
-    "https://www.nytimes.com/2026/10/28/books/review/horror-bookstores-growth.html"
+    "https://www.nytimes.com/2026/10/28/us/dolores-huerta-dead.html"
   ],
   [
-    "least",
+    "early",
     13,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.nytimes.com/2026/10/28/us/dolores-huerta-dead.html"
   ],
   [
-    "donald",
+    "republicans",
     13,
-    "https://www.theguardian.com/commentisfree/2026/oct/28/donald-trump-iran-midterms-politics-diplomacy"
-  ],
-  [
-    "night",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/28/a-moment-that-changed-me-i-was-always-a-pushover-until-i-stood-up-to-some-teenagers"
-  ],
-  [
-    "school",
-    13,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/28/a-moment-that-changed-me-i-was-always-a-pushover-until-i-stood-up-to-some-teenagers"
-  ],
-  [
-    "living",
-    13,
-    "https://www.theguardian.com/sport/no-helmets-required/2026/oct/28/qwantez-stiggers-new-york-jets-nfl-delivery-driver-football"
-  ],
-  [
-    "university",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/oct/28/mark-carney-trump-davos"
-  ],
-  [
-    "research",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/oct/28/mark-carney-trump-davos"
-  ],
-  [
-    "video",
-    13,
-    "https://www.theguardian.com/football/2026/oct/28/kylian-mbappe-china-crisis-shows-how-sensitive-maos-legacy-remains"
-  ],
-  [
-    "review",
-    13,
-    "https://www.theguardian.com/film/2026/oct/28/everest-other-side-documentary-movie-review-jim-morrison-hilaree-nelson"
-  ],
-  [
-    "prop",
-    13,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
-  ],
-  [
-    "expected",
-    12,
-    "https://www.nytimes.com/2026/10/25/world/middleeast/israel-election-guide-netanyahu-eisenkot.html"
-  ],
-  [
-    "parties",
-    12,
-    "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html"
-  ],
-  [
-    "netanyahu",
-    12,
-    "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html"
-  ],
-  [
-    "again",
-    12,
-    "https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html"
+    "https://www.nytimes.com/2026/10/28/us/politics/governors-poll-florida-south-carolina-minnesota.html"
   ],
   [
     "health",
-    12,
-    "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html"
+    13,
+    "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html"
+  ],
+  [
+    "israeli",
+    13,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "voter",
+    13,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/28/california-bill-essayli-us-attorney"
   ]
 ];
