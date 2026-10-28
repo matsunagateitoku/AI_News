@@ -2,214 +2,84 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Questions Trump",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/10/27/us/politics/california-ballots-noncitizens.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Benjamin Netanyahu",
-      "count": 14,
+      "count": 13,
       "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
       "source": "The Guardian"
     },
     {
-      "name": "Flávio Bolsonaro",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Donald Trump",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Elon Musk",
-      "count": 10,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/elon-musk-cyber-psychosis-ai-tech",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Hunter Biden",
-      "count": 8,
-      "url": "https://www.cbsnews.com/news/hunter-biden-investigation-more-charges-filed-against-ex-fbi-officials/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Bill Essayli",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/bill-essayli-disqualified-overstay-role",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Elizabeth Holmes",
-      "count": 6,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/27/elizabeth-holmes-documentary-mania-you-can-see-everything-the-dropout",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vladimir Putin",
-      "count": 6,
+      "count": 11,
       "url": "https://www.theguardian.com/commentisfree/2026/oct/28/donald-trump-iran-midterms-politics-diplomacy",
       "source": "The Guardian"
     },
     {
-      "name": "Eric Swalwell",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/eric-swalwell-investigation-beverly-hills-mansion-searched",
-      "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Explores Lifting Sanctions",
-      "count": 63,
-      "url": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Gop",
-      "count": 13,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/epstein-files-midterms-sledgehammer",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Democratic Us Senate",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 13,
-      "url": "https://www.nbcnews.com/politics/politics-news/wes-moores-other-2026-battle-politics-desk-rcna606000",
-      "source": "NBC News"
-    },
-    {
-      "name": "Congress",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/eric-swalwell-investigation-beverly-hills-mansion-searched",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai Odyssey",
-      "count": 10,
-      "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Fbi",
+      "name": "Trump Heckler",
       "count": 9,
-      "url": "https://www.nytimes.com/2026/10/27/us/politics/fbi-trump-patel-witt-testimony.html",
+      "url": "https://www.nytimes.com/2026/10/28/arts/television/jimmy-kimmel-trump-heckler.html",
       "source": "NY Times"
     },
     {
-      "name": "Guardian Us",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/epstein-files-midterms-sledgehammer",
+      "name": "Flávio Bolsonaro Flees",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/10/28/podcasts/the-headlines/bolsonaro-brazil-chatgpt-medical-plan.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Mac Demarco",
+      "count": 6,
+      "url": "https://www.theguardian.com/music/2026/oct/26/mac-demarco-carnegie-hall-review",
       "source": "The Guardian"
     },
     {
-      "name": "Cbs News",
-      "count": 8,
-      "url": "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Bioware",
-      "count": 7,
-      "url": "https://www.theguardian.com/games/2026/oct/23/bioware-rpg-games-ea-closure-mass-effect",
-      "source": "The Guardian"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 61,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/epstein-files-midterms-sledgehammer",
+      "name": "Biden",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
       "source": "The Guardian"
     },
     {
-      "name": "California",
-      "count": 44,
-      "url": "https://www.nytimes.com/2026/10/27/us/politics/california-ballots-noncitizens.html",
-      "source": "NY Times"
+      "name": "Gustave Flaubert",
+      "count": 5,
+      "url": "https://www.theguardian.com/books/2026/oct/28/in-one-brief-moment-all-eternity-by-elif-shafak-review-what-madame-bovary-thought-of-flaubert",
+      "source": "The Guardian"
     },
     {
-      "name": "Texas",
-      "count": 28,
-      "url": "https://www.nytimes.com/2026/10/27/us/ken-paxton-divorce-tracy-duhon.html",
-      "source": "NY Times"
+      "name": "Dr Stacy Kim",
+      "count": 5,
+      "url": "https://www.theguardian.com/global/ng-interactive/2026/oct/26/turn-envy-into-motivation",
+      "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County",
-      "count": 17,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
+      "name": "Nithya Raman",
+      "count": 5,
+      "url": "https://www.latimes.com/california/story/2026-10-28/nithya-raman-learning-spanish",
       "source": "LA Times"
     },
     {
-      "name": "Florida",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/oren-alon-tal-alexander-sentenced-sex-trafficking",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iran",
-      "count": 12,
-      "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City",
-      "count": 11,
-      "url": "https://www.theguardian.com/film/2026/oct/26/you-can-see-everything-cultural-moment",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Alaska",
-      "count": 10,
-      "url": "https://www.theguardian.com/stage/2026/oct/27/alaska-drag-queen-oh-mary-play",
+      "name": "Gadi Eisenkot",
+      "count": 4,
+      "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "World Series Game 5",
-      "count": 10,
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6020169/rays-brewers-game-5",
-      "source": "NPR"
-    },
-    {
-      "name": "The Super Bowl",
-      "count": 7,
-      "url": "https://www.theguardian.com/music/2026/oct/27/jay-z-to-headline-2027-super-bowl-half-time-show",
-      "source": "The Guardian"
+      "name": "World Series Game 4",
+      "count": 5,
+      "url": "https://www.foxnews.com/outkick-sports/rays-comeback-extra-innings-victory-world-series-game-4-gives-team-kernel-hope-history-shows",
+      "source": "Fox News"
     },
     {
       "name": "Game 6",
-      "count": 4,
-      "url": "https://www.latimes.com/entertainment-arts/music/story/2026-10-27/flavor-flav-wnba-finals-game-6-permission-slip-paid-holiday",
-      "source": "LA Times"
+      "count": 3,
+      "url": "https://www.theguardian.com/sport/2026/oct/28/atlanta-dream-wnba-finals-start-time-game-6",
+      "source": "The Guardian"
     },
     {
-      "name": "Iran War Cost Rises",
-      "count": 3,
-      "url": "https://www.nytimes.com/2026/10/27/us/politics/iran-war-cost-rises.html",
-      "source": "NY Times"
+      "name": "’S Super Bowl",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/oct/28/jay-z-halftime-show-super-bowl",
+      "source": "The Guardian"
     },
     {
       "name": "Black Ops",
@@ -224,21 +94,21 @@
       "source": "LA Times"
     },
     {
-      "name": "Game 4",
-      "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/rays-stay-alive-world-series-walk-off-brewers-thrilling-extra-inning-game-4",
-      "source": "Fox News"
-    },
-    {
-      "name": "The London Marathon",
+      "name": "Game 5",
       "count": 1,
-      "url": "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie",
+      "url": "https://www.theguardian.com/sport/2026/oct/28/rays-brewers-world-series-game-four-12th-inning-rally",
       "source": "The Guardian"
     },
     {
-      "name": "The Korean War",
+      "name": "The Carabao Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/film/2026/oct/27/tom-skerritt-obituary",
+      "url": "https://www.theguardian.com/football/2026/oct/28/max-dowman-fleetwood-red-card-arsenal-mikel-arteta-carabao-cup",
+      "source": "The Guardian"
+    },
+    {
+      "name": "League Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/oct/28/max-dowman-fleetwood-red-card-arsenal-mikel-arteta-carabao-cup",
       "source": "The Guardian"
     },
     {
@@ -246,7 +116,137 @@
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/oct/27/quenton-nelson-colts-seahawks-trade-nfl",
       "source": "The Guardian"
+    },
+    {
+      "name": "The London Marathon",
+      "count": 1,
+      "url": "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-10-28T06:43:57Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 50,
+      "url": "https://www.nytimes.com/2026/10/28/upshot/polls-south-carolina-minnesota-florida.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 48,
+      "url": "https://www.nytimes.com/2026/10/27/weather/king-tides-california-la-sf.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 32,
+      "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Spain",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 15,
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/23/spiking-ambulance-response-times-spur-calls-for-real-time-tracking-01134181",
+      "source": "Politico"
+    },
+    {
+      "name": "U.S.",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/10/28/podcasts/the-headlines/bolsonaro-brazil-chatgpt-medical-plan.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/10/28/us/politics/bo-french-texas-railroad-commission-south-asian.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. County",
+      "count": 13,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "China",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
+      "source": "NY Times"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Administration Backs Down",
+      "count": 52,
+      "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Minnesota Senate",
+      "count": 20,
+      "url": "https://thehill.com/homenews/campaign/6177318-peggy-flanagan-leads-minnesota-senate-poll/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Ai Odyssey",
+      "count": 12,
+      "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian Us",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/video/2026/oct/28/louisiana-eviction-system-stateside-kai-and-carter",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 9,
+      "url": "https://thehill.com/opinion/international/6175287-around-the-world-voters-are-embracing-democracy/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Nfl",
+      "count": 8,
+      "url": "https://www.theguardian.com/sport/no-helmets-required/2026/oct/28/qwantez-stiggers-new-york-jets-nfl-delivery-driver-football",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Gop",
+      "count": 8,
+      "url": "https://www.foxnews.com/media/apple-news-pushed-84-negative-headlines-gop-priorities-ahead-midterms-zero-positive-study-finds",
+      "source": "Fox News"
+    },
+    {
+      "name": "The California Congressional District",
+      "count": 7,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 6,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "El Niño",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/10/27/weather/king-tides-california-la-sf.html",
+      "source": "NY Times"
+    }
+  ],
+  "updated": "2026-10-28T13:54:33Z"
 };
