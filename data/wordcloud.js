@@ -2,8 +2,8 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    95,
-    "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html"
+    101,
+    "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html"
   ],
   [
     "guide",
@@ -12,168 +12,158 @@
   ],
   [
     "california",
-    56,
-    "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html"
-  ],
-  [
-    "election",
-    46,
-    "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html"
+    55,
+    "https://www.nytimes.com/2026/10/27/us/politics/california-ballots-noncitizens.html"
   ],
   [
     "race",
-    40,
-    "https://www.theguardian.com/wellness/2026/oct/27/can-you-run-marathon-glp-1s"
+    47,
+    "https://www.nytimes.com/2026/10/27/us/tennessee-brent-taylor.html"
+  ],
+  [
+    "election",
+    42,
+    "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html"
   ],
   [
     "president",
-    32,
-    "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html"
+    38,
+    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html"
   ],
   [
     "elections",
+    32,
+    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html"
+  ],
+  [
+    "texas",
+    32,
+    "https://www.nytimes.com/2026/10/27/us/ken-paxton-divorce-tracy-duhon.html"
+  ],
+  [
+    "war",
+    32,
+    "https://www.nytimes.com/2026/10/27/us/politics/iran-war-cost-rises.html"
+  ],
+  [
+    "campaign",
     31,
-    "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
+    "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html"
   ],
   [
     "game",
     31,
-    "https://www.theguardian.com/sport/2026/oct/26/wnba-finals-game-5-dream-valkyries-basketball"
+    "https://www.theguardian.com/sport/2026/oct/28/rays-brewers-world-series-game-four-12th-inning-rally"
   ],
   [
-    "latest",
+    "republican",
     28,
-    "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html"
-  ],
-  [
-    "series",
-    26,
-    "https://www.theguardian.com/commentisfree/2026/oct/26/epstein-files-midterms-sledgehammer"
-  ],
-  [
-    "midterm",
-    24,
-    "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
+    "https://www.nytimes.com/2026/10/27/us/tennessee-brent-taylor.html"
   ],
   [
     "voters",
     23,
+    "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html"
+  ],
+  [
+    "police",
+    23,
+    "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html"
+  ],
+  [
+    "midterm",
+    23,
+    "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
+  ],
+  [
+    "star",
+    23,
+    "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie"
+  ],
+  [
+    "judge",
+    22,
+    "https://www.nytimes.com/2026/10/27/us/politics/california-ballots-noncitizens.html"
+  ],
+  [
+    "film",
+    22,
+    "https://www.theguardian.com/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close"
+  ],
+  [
+    "series",
+    22,
     "https://www.theguardian.com/commentisfree/2026/oct/26/epstein-files-midterms-sledgehammer"
   ],
   [
-    "administration",
-    23,
-    "https://www.theguardian.com/us-news/2026/oct/26/trump-washington-ballots-aside-noncitizen-voters"
-  ],
-  [
-    "democrats",
-    23,
-    "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all"
-  ],
-  [
-    "republican",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/oct/27/vivek-ramaswamy-ad-midterms-opinion"
-  ],
-  [
-    "campaign",
+    "political",
     21,
     "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html"
   ],
   [
-    "night",
-    21,
-    "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie"
-  ],
-  [
-    "food",
-    21,
-    "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie"
-  ],
-  [
     "los",
     21,
-    "https://www.theguardian.com/us-news/2026/oct/27/eric-swalwell-investigation-beverly-hills-mansion-searched"
+    "https://www.theguardian.com/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close"
   ],
   [
-    "angeles",
-    21,
-    "https://www.theguardian.com/us-news/2026/oct/27/eric-swalwell-investigation-beverly-hills-mansion-searched"
-  ],
-  [
-    "war",
+    "because",
     20,
-    "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html"
-  ],
-  [
-    "democratic",
-    20,
-    "https://www.nytimes.com/2026/10/27/us/politics/los-angeles-mayor-nithya-raman-democratic-socialist.html"
-  ],
-  [
-    "star",
-    19,
-    "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie"
-  ],
-  [
-    "health",
-    19,
-    "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie"
-  ],
-  [
-    "vote",
-    19,
-    "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates"
-  ],
-  [
-    "police",
-    18,
     "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html"
   ],
   [
+    "angeles",
+    20,
+    "https://www.theguardian.com/us-news/2026/oct/27/eric-swalwell-investigation-beverly-hills-mansion-searched"
+  ],
+  [
     "department",
-    18,
+    19,
     "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
   ],
   [
-    "political",
-    18,
-    "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
+    "district",
+    19,
+    "https://www.theguardian.com/thefilter-us/2026/oct/23/new-york-fall-fashion-style"
   ],
   [
-    "film",
+    "israel",
     18,
-    "https://www.nytimes.com/2026/10/27/movies/event-horizon-good-bad.html"
+    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html"
   ],
   [
-    "win",
+    "food",
     18,
-    "https://www.theguardian.com/commentisfree/2026/oct/26/epstein-files-midterms-sledgehammer"
+    "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie"
+  ],
+  [
+    "money",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires"
+  ],
+  [
+    "board",
+    18,
+    "https://www.theguardian.com/us-news/2026/oct/27/north-carolina-at-hbcu-student-voters"
+  ],
+  [
+    "tour",
+    18,
+    "https://www.theguardian.com/music/2026/oct/27/the-nerves-blondie-hanging-on-the-telephone-hit-free"
+  ],
+  [
+    "vote",
+    17,
+    "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news"
   ],
   [
     "university",
-    18,
+    17,
     "https://www.theguardian.com/us-news/2026/oct/27/north-carolina-at-hbcu-student-voters"
   ],
   [
     "love",
-    18,
+    17,
     "https://www.theguardian.com/tv-and-radio/2026/oct/27/the-one-about-matthew-perry-review-netflix-documentary-friends"
-  ],
-  [
-    "district",
-    18,
-    "https://www.theguardian.com/thefilter-us/2026/oct/23/new-york-fall-fashion-style"
-  ],
-  [
-    "board",
-    17,
-    "https://www.theguardian.com/us-news/2026/oct/27/north-carolina-at-hbcu-student-voters"
-  ],
-  [
-    "cbs",
-    17,
-    "https://www.theguardian.com/culture/2026/oct/26/how-the-zombies-made-time-of-the-season"
   ],
   [
     "proposition",
@@ -181,69 +171,89 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "musk",
+    "latest",
     16,
-    "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan"
+    "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html"
   ],
   [
-    "don",
+    "court",
     16,
-    "https://www.theguardian.com/sport/2026/oct/26/brewers-rays-world-series-game-3-baseball"
+    "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
   ],
   [
-    "york",
-    15,
-    "https://www.nytimes.com/2026/10/27/us/politics/los-angeles-mayor-nithya-raman-democratic-socialist.html"
+    "iran",
+    16,
+    "https://www.nytimes.com/2026/10/27/us/politics/iran-war-cost-rises.html"
   ],
   [
-    "tax",
-    15,
-    "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html"
+    "young",
+    16,
+    "https://www.theguardian.com/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close"
   ],
   [
-    "states",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/oct/26/epstein-files-midterms-sledgehammer"
+    "night",
+    16,
+    "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie"
   ],
   [
-    "money",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires"
+    "health",
+    16,
+    "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie"
   ],
   [
     "donald",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/27/cassidy-hutchinson-doj-indictment-trump"
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas"
   ],
   [
-    "county",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder"
+    "office",
+    16,
+    "https://www.theguardian.com/us-news/2026/oct/27/bill-essayli-disqualified-overstay-role"
   ],
   [
-    "record",
-    15,
+    "price",
+    16,
     "https://www.theguardian.com/us-news/2026/oct/27/san-francisco-real-estate-listing-price-ai"
   ],
   [
-    "congress",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/27/eric-swalwell-investigation-beverly-hills-mansion-searched"
-  ],
-  [
-    "tour",
-    15,
-    "https://www.theguardian.com/music/2026/oct/27/the-nerves-blondie-hanging-on-the-telephone-hit-free"
-  ],
-  [
     "candidates",
-    15,
+    16,
     "https://www.theguardian.com/commentisfree/2026/oct/27/register-vote-midterm-election-day"
   ],
   [
-    "director",
+    "senate",
     15,
-    "https://www.theguardian.com/commentisfree/2026/oct/28/are-seed-oils-unhealthy-scientific-evidence"
+    "https://www.nytimes.com/2026/10/27/us/elections/paxton-talarico-texas-senate-rally-lubbock.html"
+  ],
+  [
+    "amendment",
+    15,
+    "https://www.nytimes.com/video/opinion/100000011237739/political-satire-is-an-american-tradition-deceptive-ai-ads-are-not.html"
+  ],
+  [
+    "early",
+    15,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "far",
+    15,
+    "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape"
+  ],
+  [
+    "florida",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/27/oren-alon-tal-alexander-sentenced-sex-trafficking"
+  ],
+  [
+    "democratic",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/oct/28/donald-trump-iran-midterms-politics-diplomacy"
+  ],
+  [
+    "don",
+    15,
+    "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai"
   ],
   [
     "charter",
@@ -251,84 +261,99 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "polls",
+    "record",
     14,
-    "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html"
-  ],
-  [
-    "israel",
-    14,
-    "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html"
-  ],
-  [
-    "because",
-    14,
-    "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html"
-  ],
-  [
-    "investigation",
-    14,
-    "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html"
-  ],
-  [
-    "horror",
-    14,
-    "https://www.nytimes.com/2026/10/27/movies/event-horizon-good-bad.html"
-  ],
-  [
-    "parents",
-    14,
-    "https://www.nytimes.com/2026/10/27/us/alex-pretti-parents-federal-investigation.html"
-  ],
-  [
-    "little",
-    14,
-    "https://www.nytimes.com/2026/10/27/us/politics/los-angeles-mayor-nithya-raman-democratic-socialist.html"
-  ],
-  [
-    "prop",
-    14,
-    "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html"
-  ],
-  [
-    "senate",
-    14,
-    "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates"
-  ],
-  [
-    "utah",
-    14,
-    "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder"
-  ],
-  [
-    "young",
-    14,
-    "https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection"
-  ],
-  [
-    "code",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/oct/27/elon-musk-cyber-psychosis-ai-tech"
+    "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html"
   ],
   [
     "seat",
     14,
-    "https://www.theguardian.com/football/2026/oct/27/manchester-united-michael-carrick-faded-grandeur"
+    "https://www.nytimes.com/2026/10/27/us/tennessee-brent-taylor.html"
   ],
   [
-    "fbi",
+    "body",
     14,
-    "https://www.latimes.com/california/story/2026-10-27/beverly-hills-mansion-swalwell-raid"
+    "https://www.theguardian.com/lifeandstyle/2026/oct/28/the-shocking-rise-of-rib-remodelling-i-wanted-that-hourglass-shape"
   ],
   [
-    "amendment",
+    "rally",
     14,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
+    "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas"
   ],
   [
-    "israeli",
+    "family",
+    14,
+    "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled"
+  ],
+  [
+    "southern",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/27/bill-essayli-disqualified-overstay-role"
+  ],
+  [
+    "tax",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires"
+  ],
+  [
+    "again",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/oct/28/donald-trump-iran-midterms-politics-diplomacy"
+  ],
+  [
+    "super",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/oct/27/elon-musk-cyber-psychosis-ai-tech"
+  ],
+  [
+    "cbs",
+    14,
+    "https://www.theguardian.com/culture/2026/oct/26/how-the-zombies-made-time-of-the-season"
+  ],
+  [
+    "faces",
     13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html"
+  ],
+  [
+    "netanyahu",
+    13,
+    "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html"
+  ],
+  [
+    "investigation",
+    13,
+    "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html"
+  ],
+  [
+    "justice",
+    13,
+    "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
+  ],
+  [
+    "director",
+    13,
+    "https://www.nytimes.com/2026/10/27/us/politics/fbi-trump-patel-witt-testimony.html"
+  ],
+  [
+    "attorney",
+    13,
+    "https://www.nytimes.com/2026/10/27/us/ken-paxton-divorce-tracy-duhon.html"
+  ],
+  [
+    "administration",
+    13,
+    "https://www.nytimes.com/2026/10/27/us/politics/california-ballots-noncitizens.html"
+  ],
+  [
+    "sex",
+    13,
+    "https://www.nytimes.com/2026/10/27/nyregion/alexander-brothers-sentencing-sex-trafficking.html"
+  ],
+  [
+    "polls",
+    13,
+    "https://www.nytimes.com/2026/10/27/opinion/ezra-klein-podcast-nate-silver.html"
   ],
   [
     "everything",
@@ -336,43 +361,18 @@
     "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "early",
+    "several",
     13,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "gop",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/oct/26/epstein-files-midterms-sledgehammer"
   ],
   [
     "sexual",
     13,
     "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie"
-  ],
-  [
-    "office",
-    13,
-    "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan"
-  ],
-  [
-    "book",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires"
-  ],
-  [
-    "family",
-    13,
-    "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled"
-  ],
-  [
-    "killed",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder"
-  ],
-  [
-    "price",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/27/san-francisco-real-estate-listing-price-ai"
-  ],
-  [
-    "sold",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/27/san-francisco-real-estate-listing-price-ai"
   ]
 ];
