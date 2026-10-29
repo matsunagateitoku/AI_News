@@ -3,27 +3,39 @@
   "GPE": [
     {
       "name": "California",
-      "count": 44,
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/cheesecake-factory-obama-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Us",
-      "count": 40,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/28/california-bill-essayli-us-attorney",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Israel",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html",
+      "count": 54,
+      "url": "https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html",
       "source": "NY Times"
     },
     {
-      "name": "L.A. County",
-      "count": 12,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
-      "source": "LA Times"
+      "name": "Us",
+      "count": 37,
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Canada",
+      "count": 17,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Spain",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 16,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
     },
     {
       "name": "Brazil",
@@ -32,104 +44,30 @@
       "source": "NY Times"
     },
     {
-      "name": "Florida",
+      "name": "L.A. County",
       "count": 11,
-      "url": "https://www.nytimes.com/2026/10/28/us/politics/governors-poll-florida-south-carolina-minnesota.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 11,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Ohio",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
+      "source": "LA Times"
     },
     {
       "name": "Alaska",
       "count": 10,
-      "url": "https://www.nytimes.com/2026/10/28/briefing/alaska-ballot-stacking-horror-bookshops.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Spain",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
-      "source": "NY Times"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Administration’S",
-      "count": 43,
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/peptides-fda-health-human-services-department",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/mary-peltola-dan-sullivan-alaska-senate",
       "source": "The Guardian"
     },
     {
-      "name": "The Texas Senate",
-      "count": 25,
-      "url": "https://www.foxnews.com/politics/dueling-rallies-thrust-deep-red-lone-star-town-center-political-universe",
-      "source": "Fox News"
-    },
-    {
-      "name": "Nfl",
-      "count": 17,
-      "url": "https://www.theguardian.com/sport/2026/oct/28/jay-z-halftime-show-super-bowl",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ai Odyssey",
-      "count": 16,
-      "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Gop",
-      "count": 10,
-      "url": "https://www.cbsnews.com/news/abdul-el-sayed-michigan-senate-race-ted-cruz/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Congress     Sign",
+      "name": "Florida",
       "count": 8,
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The United Farm Workers Of America",
-      "count": 8,
-      "url": "https://www.latimes.com/politics/story/2026-10-28/dolores-huerta-dead",
-      "source": "LA Times"
-    },
-    {
-      "name": "Fed",
-      "count": 7,
-      "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/warsh-interest-rates-fed",
+      "url": "https://www.nytimes.com/2026/10/28/us/florida-mother-las-vegas.html",
       "source": "NY Times"
-    },
-    {
-      "name": "Peltola",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
-      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "World Series Game 5",
-      "count": 8,
-      "url": "https://www.foxnews.com/outkick-sports/yankees-president-randy-levine-confident-mlb-avoid-lockout-despite-cap-fight",
-      "source": "Fox News"
+      "name": "First World Series",
+      "count": 12,
+      "url": "https://www.cbsnews.com/news/world-series-milwaukee-brewers-defeat-tampa-bay-rays/",
+      "source": "CBS News"
     },
     {
       "name": "’S Super Bowl",
@@ -156,6 +94,24 @@
       "source": "Fox News"
     },
     {
+      "name": "Game 5",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/oct/28/milwaukee-brewers-tampa-bay-rays-world-series-game-5-first-title",
+      "source": "The Guardian"
+    },
+    {
+      "name": "World Series Mvp",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/oct/28/milwaukee-brewers-tampa-bay-rays-world-series-game-5-first-title",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Uefa Super Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/oct/28/liverpool-chelsea-carabao-cup-fourth-round-match-report",
+      "source": "The Guardian"
+    },
+    {
       "name": "Game 6",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/oct/28/atlanta-dream-wnba-finals-start-time-game-6",
@@ -166,87 +122,131 @@
       "count": 1,
       "url": "https://www.theguardian.com/football/2026/oct/28/max-dowman-fleetwood-red-card-arsenal-mikel-arteta-carabao-cup",
       "source": "The Guardian"
-    },
-    {
-      "name": "League Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/oct/28/max-dowman-fleetwood-red-card-arsenal-mikel-arteta-carabao-cup",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Madame Bovary",
-      "count": 1,
-      "url": "https://www.theguardian.com/books/2026/oct/28/in-one-brief-moment-all-eternity-by-elif-shafak-review-what-madame-bovary-thought-of-flaubert",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Dga Awards'",
-      "count": 1,
-      "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-10-28/you-can-see-everything-ineligible-for-dga-award-feature-documentary",
-      "source": "LA Times"
     }
   ],
-  "PERSON": [
+  "ORG": [
     {
-      "name": "Dolores Huerta",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/10/28/us/dolores-huerta-dead.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/28/california-bill-essayli-us-attorney",
+      "name": "Trump Administration’S",
+      "count": 48,
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/peptides-fda-health-human-services-department",
       "source": "The Guardian"
     },
     {
-      "name": "Benjamin Netanyahu",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-      "source": "The Guardian"
+      "name": "Michigan Senate",
+      "count": 21,
+      "url": "https://thehill.com/homenews/campaign/6180036-el-sayed-responds-stevens-fiance/",
+      "source": "The Hill"
     },
     {
-      "name": "Donald Trump Jr ’S",
-      "count": 11,
-      "url": "https://www.theguardian.com/culture/2026/oct/28/jimmy-kimmel-trump-midterms",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Another Dan Sullivan",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Flávio Bolsonaro Lands",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Justin Tucker",
-      "count": 8,
+      "name": "Nfl",
+      "count": 20,
       "url": "https://www.theguardian.com/sport/2026/oct/28/justin-tucker-harrison-butker-nfl-kicker-chiefs",
       "source": "The Guardian"
     },
     {
-      "name": "Barack Obama",
+      "name": "Ai Odyssey",
+      "count": 15,
+      "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Milwaukee Brewers",
+      "count": 9,
+      "url": "https://www.foxnews.com/outkick-sports/brewers-win-world-series-first-time-franchise-history-game-5-victory-over-rays",
+      "source": "Fox News"
+    },
+    {
+      "name": "The Big Story  Fed",
+      "count": 8,
+      "url": "https://thehill.com/newsletters/business-economy/6179798-fed-hits-pause-on-interest-rates/",
+      "source": "The Hill"
+    },
+    {
+      "name": "The California Congressional District",
       "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-obama-rally-midterms-analysis",
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Gop",
+      "count": 7,
+      "url": "https://www.politico.com/video/2026/10/27/trump-is-still-the-center-of-the-gop-money-universe-2213216",
+      "source": "Politico"
+    },
+    {
+      "name": "El-Sayed Faces Heat From Former Primary Rival",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/10/28/us/politics/stevens-el-sayed-senate-democrats-michigan.html",
+      "source": "NY Times"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Rejects Trump",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Another Dan Sullivan",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Barack Obama",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/obama-atlanta-democrats-jon-ossoff",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Dolores Huerta",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/dolores-huerta-tributes",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Justin Tucker",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/oct/28/justin-tucker-harrison-butker-nfl-kicker-chiefs",
       "source": "The Guardian"
     },
     {
       "name": "Ernie Johnson",
-      "count": 6,
+      "count": 7,
       "url": "https://www.theguardian.com/sport/2026/oct/28/ernie-johnson-beloved-host-of-inside-the-nba-to-step-away-from-show-at-end-of-season",
       "source": "The Guardian"
     },
     {
-      "name": "Mac Demarco",
-      "count": 6,
-      "url": "https://www.theguardian.com/music/2026/oct/26/mac-demarco-carnegie-hall-review",
+      "name": "Elon Musk",
+      "count": 7,
+      "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
       "source": "The Guardian"
+    },
+    {
+      "name": "Haley Stevens",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/10/28/us/politics/stevens-el-sayed-senate-democrats-michigan.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-10-28T23:01:31Z"
+  "updated": "2026-10-29T06:51:26Z"
 };
