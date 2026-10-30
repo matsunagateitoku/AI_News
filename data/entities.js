@@ -3,88 +3,88 @@
   "GPE": [
     {
       "name": "California",
-      "count": 49,
-      "url": "https://www.nytimes.com/2026/10/29/opinion/california-wealth-tax-billionaires.html",
-      "source": "NY Times"
+      "count": 53,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/30/experience-i-live-in-the-house-from-the-80s-horror-movie-poltergeist",
+      "source": "The Guardian"
     },
     {
       "name": "Us",
-      "count": 49,
+      "count": 51,
       "url": "https://www.theguardian.com/us-news/2026/oct/29/laura-loomer-trump-abdul-el-sayed-muslim-brotherhood",
       "source": "The Guardian"
     },
     {
       "name": "Alaska",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html",
+      "count": 20,
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate",
+      "source": "NPR"
+    },
+    {
+      "name": "Ukraine",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
       "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 16,
+      "count": 14,
       "url": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
       "source": "NY Times"
     },
     {
-      "name": "Spain",
-      "count": 13,
-      "url": "https://www.theguardian.com/news/video/2026/oct/29/shock-and-anger-in-spain-after-deadly-train-crash-the-latest",
-      "source": "The Guardian"
+      "name": "Israel",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+      "source": "NY Times"
     },
     {
-      "name": "L.A. County",
+      "name": "Russia",
       "count": 11,
-      "url": "https://www.latimes.com/politics/story/2026-10-29/california-feds-continue-election-war-after-courts-rebuke-challenge-to-20-000-ballots",
-      "source": "LA Times"
-    },
-    {
-      "name": "Texas",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
+      "source": "NY Times"
     },
     {
       "name": "Iran",
-      "count": 9,
+      "count": 11,
       "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
       "source": "The Guardian"
     },
     {
-      "name": "Hollywood Hills",
-      "count": 9,
-      "url": "https://www.foxnews.com/media/la-residents-near-famous-hollywood-sign-fed-up-over-saturation-tourists-illegal-vendors",
-      "source": "Fox News"
+      "name": "Uk",
+      "count": 11,
+      "url": "https://www.theguardian.com/uk-news/2026/oct/30/climate-academic-andreas-malm-barred-from-entering-uk",
+      "source": "The Guardian"
     },
     {
-      "name": "South Carolina",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
-      "source": "The Guardian"
+      "name": "L.A. County",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
+      "source": "LA Times"
     }
   ],
   "PERSON": [
     {
       "name": "Patrick Stewart Brought",
-      "count": 28,
+      "count": 25,
       "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-captain-picard-star-trek-the-next-generation.html",
       "source": "NY Times"
     },
     {
-      "name": "Orders Trump",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/10/29/us/politics/trump-judge-election-lawsuit.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Donald Trump",
-      "count": 11,
+      "count": 20,
       "url": "https://www.theguardian.com/us-news/2026/oct/29/laura-loomer-trump-abdul-el-sayed-muslim-brotherhood",
       "source": "The Guardian"
     },
     {
       "name": "Dan Sullivan",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html",
+      "count": 10,
+      "url": "https://www.cbsnews.com/news/peltola-she-knew-nothing-dan-sullivan-ballot-controversy-alaska-senate-race/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
       "source": "NY Times"
     },
     {
@@ -100,21 +100,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "Brett Sylvia",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/10/29/us/hegseth-army-general-sylvia-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Abdul El-Sayed",
-      "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/laura-loomer-trump-abdul-el-sayed-muslim-brotherhood",
-      "source": "The Guardian"
-    },
-    {
       "name": "Mary Peltola",
+      "count": 6,
+      "url": "https://www.cbsnews.com/news/peltola-she-knew-nothing-dan-sullivan-ballot-controversy-alaska-senate-race/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Vladimir Putin",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
+      "url": "https://www.theguardian.com/world/2026/oct/30/ukraine-war-briefing-russian-drone-attack-dnipro-rail-platform",
       "source": "The Guardian"
     },
     {
@@ -122,74 +116,18 @@
       "count": 5,
       "url": "https://www.theguardian.com/music/2026/oct/29/the-big-moon-forever-review",
       "source": "The Guardian"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Administration'S",
-      "count": 41,
-      "url": "https://thehill.com/policy/healthcare/6182258-judge-strikes-trump-medicaid-definition/",
-      "source": "The Hill"
     },
     {
-      "name": "Michigan Senate",
-      "count": 27,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/abdul-el-sayed-ai-companies-public-ownership",
+      "name": "Gustave Flaubert",
+      "count": 5,
+      "url": "https://www.theguardian.com/books/2026/oct/28/in-one-brief-moment-all-eternity-by-elif-shafak-review-what-madame-bovary-thought-of-flaubert",
       "source": "The Guardian"
-    },
-    {
-      "name": "Ai",
-      "count": 22,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/abdul-el-sayed-ai-companies-public-ownership",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Acquire Instacart",
-      "count": 13,
-      "url": "https://www.today.com/video/doordash-to-acquire-instacart-for-17-billion-272458309807",
-      "source": "NBC News"
-    },
-    {
-      "name": "Google",
-      "count": 10,
-      "url": "https://www.theguardian.com/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pentagon",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/hegseth-fires-general-leak-inquiry-pentagon",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nfl",
-      "count": 8,
-      "url": "https://www.theguardian.com/film/2026/oct/29/the-mosquito-bowl-netflix-movie-review",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Espn",
-      "count": 7,
-      "url": "https://www.theguardian.com/sport/2026/oct/29/pat-mcafee-college-gameday-espn",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 7,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The California Congressional District",
-      "count": 7,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
-      "source": "LA Times"
     }
   ],
   "EVENT": [
     {
       "name": "The World Series",
-      "count": 6,
+      "count": 10,
       "url": "https://www.theguardian.com/sport/2026/oct/29/milwaukee-brewers-world-series-title-mlb-salary-cap",
       "source": "The Guardian"
     },
@@ -218,9 +156,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Carabao Cup Quarter-Final",
+      "name": "This Russian War",
       "count": 1,
-      "url": "https://www.theguardian.com/football/2026/oct/29/everton-newcastle-carabao-cup-fourth-round-match-report",
+      "url": "https://www.theguardian.com/world/2026/oct/30/ukraine-war-briefing-russian-drone-attack-dnipro-rail-platform",
       "source": "The Guardian"
     },
     {
@@ -248,5 +186,67 @@
       "source": "LA Times"
     }
   ],
-  "updated": "2026-10-29T23:09:49Z"
+  "ORG": [
+    {
+      "name": "Trump Erupted After Learning Of Alina Habba’S",
+      "count": 40,
+      "url": "https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Michigan Senate",
+      "count": 30,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/abdul-el-sayed-ai-companies-public-ownership",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 17,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/abdul-el-sayed-ai-companies-public-ownership",
+      "source": "The Guardian"
+    },
+    {
+      "name": "House Judiciary Committee",
+      "count": 10,
+      "url": "https://www.foxnews.com/us/house-judiciary-report-accuses-nyc-das-downgrading-charges-protect-illegal-immigrants-deportation",
+      "source": "Fox News"
+    },
+    {
+      "name": "The Justice Department",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The Milwaukee Brewers",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/oct/29/milwaukee-brewers-world-series-title-mlb-salary-cap",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Espn",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/oct/29/milwaukee-brewers-world-series-title-mlb-salary-cap",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 7,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The California Congressional District",
+      "count": 7,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Peltola",
+      "count": 7,
+      "url": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
+      "source": "CBS News"
+    }
+  ],
+  "updated": "2026-10-30T06:55:10Z"
 };

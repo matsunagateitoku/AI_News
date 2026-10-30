@@ -2,153 +2,148 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    77,
+    71,
     "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html"
   ],
   [
     "guide",
-    63,
+    64,
     "https://www.theguardian.com/thefilter-us/2026/oct/29/best-water-filter"
   ],
   [
     "california",
-    59,
+    60,
     "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html"
   ],
   [
     "race",
-    51,
-    "https://www.theguardian.com/us-news/2026/oct/29/laura-loomer-trump-abdul-el-sayed-muslim-brotherhood"
-  ],
-  [
-    "star",
-    45,
-    "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html"
+    59,
+    "https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html"
   ],
   [
     "senate",
-    36,
-    "https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html"
+    43,
+    "https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html"
   ],
   [
-    "president",
-    34,
-    "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html"
-  ],
-  [
-    "elections",
-    34,
-    "https://www.nytimes.com/2026/10/29/us/politics/campaign-websites-artificial-intelligence.html"
-  ],
-  [
-    "voters",
-    33,
-    "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html"
-  ],
-  [
-    "stewart",
-    33,
-    "https://www.nytimes.com/2026/10/29/briefing/us-gdp-patrick-stewart.html"
-  ],
-  [
-    "republican",
-    32,
-    "https://www.theguardian.com/us-news/2026/oct/29/laura-loomer-trump-abdul-el-sayed-muslim-brotherhood"
-  ],
-  [
-    "campaign",
-    31,
-    "https://www.nytimes.com/2026/10/29/us/hegseth-army-general-sylvia-trump.html"
-  ],
-  [
-    "patrick",
-    30,
-    "https://www.nytimes.com/2026/10/29/briefing/us-gdp-patrick-stewart.html"
-  ],
-  [
-    "trek",
-    29,
-    "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html"
-  ],
-  [
-    "actor",
-    27,
+    "star",
+    40,
     "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html"
   ],
   [
     "election",
-    26,
+    37,
     "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html"
   ],
   [
+    "president",
+    32,
+    "https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html"
+  ],
+  [
+    "elections",
+    32,
+    "https://www.theguardian.com/commentisfree/2026/oct/30/could-2026-be-the-year-that-democracy-fought-back"
+  ],
+  [
+    "stewart",
+    30,
+    "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html"
+  ],
+  [
+    "voters",
+    29,
+    "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html"
+  ],
+  [
+    "patrick",
+    29,
+    "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html"
+  ],
+  [
+    "republican",
+    29,
+    "https://www.theguardian.com/us-news/2026/oct/29/laura-loomer-trump-abdul-el-sayed-muslim-brotherhood"
+  ],
+  [
     "game",
-    26,
+    29,
     "https://www.theguardian.com/film/2026/oct/29/the-mosquito-bowl-netflix-movie-review"
   ],
   [
     "love",
-    25,
-    "https://www.nytimes.com/2026/10/29/arts/design/taryn-simon-guggenheim-father-country-i-do-love-you.html"
+    27,
+    "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song"
+  ],
+  [
+    "campaign",
+    24,
+    "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html"
+  ],
+  [
+    "food",
+    24,
+    "https://www.theguardian.com/world/2026/oct/30/ukraine-war-briefing-russian-drone-attack-dnipro-rail-platform"
+  ],
+  [
+    "trek",
+    23,
+    "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html"
+  ],
+  [
+    "film",
+    23,
+    "https://www.theguardian.com/lifeandstyle/2026/oct/30/experience-i-live-in-the-house-from-the-80s-horror-movie-poltergeist"
   ],
   [
     "midterm",
     23,
-    "https://www.nytimes.com/2026/10/29/us/politics/campaign-websites-artificial-intelligence.html"
-  ],
-  [
-    "democrats",
-    23,
-    "https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html"
-  ],
-  [
-    "department",
-    22,
-    "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html"
-  ],
-  [
-    "data",
-    21,
-    "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html"
-  ],
-  [
-    "democratic",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/oct/29/trump-ukraine-midterms"
-  ],
-  [
-    "los",
-    21,
-    "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead"
-  ],
-  [
-    "night",
-    21,
-    "https://www.theguardian.com/sport/2026/oct/29/pat-mcafee-college-gameday-espn"
-  ],
-  [
-    "died",
-    20,
-    "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead"
-  ],
-  [
-    "board",
-    20,
-    "https://www.theguardian.com/world/2026/oct/29/trump-norway-shithouse-toilets"
+    "https://www.theguardian.com/us-news/2026/oct/29/trump-administration-california-noncitizen-voting-investigation"
   ],
   [
     "district",
-    20,
+    22,
     "https://www.theguardian.com/thefilter-us/2026/oct/23/new-york-fall-fashion-style"
   ],
   [
-    "investigation",
+    "candidate",
+    21,
+    "https://www.theguardian.com/us-news/2026/oct/29/laura-loomer-trump-abdul-el-sayed-muslim-brotherhood"
+  ],
+  [
+    "board",
+    21,
+    "https://www.theguardian.com/world/2026/oct/29/trump-norway-shithouse-toilets"
+  ],
+  [
+    "democrats",
+    21,
+    "https://www.theguardian.com/us-news/2026/oct/29/deb-haaland-new-mexico-governor-midterm-elections"
+  ],
+  [
+    "los",
+    20,
+    "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead"
+  ],
+  [
+    "proposition",
+    20,
+    "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows"
+  ],
+  [
+    "department",
     19,
     "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html"
   ],
   [
-    "company",
+    "democratic",
     19,
-    "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html"
+    "https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html"
+  ],
+  [
+    "support",
+    19,
+    "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html"
   ],
   [
     "social",
@@ -156,9 +151,14 @@
     "https://www.theguardian.com/us-news/2026/oct/29/deb-haaland-new-mexico-governor-midterm-elections"
   ],
   [
-    "angeles",
+    "office",
     19,
-    "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead"
+    "https://www.theguardian.com/us-news/2026/oct/29/deb-haaland-new-mexico-governor-midterm-elections"
+  ],
+  [
+    "video",
+    19,
+    "https://www.theguardian.com/us-news/video/2026/oct/29/can-democrats-win-against-elon-musks-millions-in-texas-video"
   ],
   [
     "because",
@@ -168,52 +168,57 @@
   [
     "alaska",
     18,
-    "https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html"
+    "https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html"
   ],
   [
-    "candidates",
+    "died",
     18,
-    "https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html"
+    "https://www.theguardian.com/culture/gallery/2026/oct/29/patrick-stewart-a-life-in-pictures"
   ],
   [
-    "candidate",
+    "series",
     18,
-    "https://www.nytimes.com/2026/10/29/us/politics/campaign-websites-artificial-intelligence.html"
+    "https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres"
   ],
   [
-    "case",
-    18,
-    "https://www.nytimes.com/2026/10/29/us/politics/sailor-mental-health-uss-lincoln-navy.html"
-  ],
-  [
-    "body",
+    "angeles",
     18,
     "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead"
   ],
   [
-    "video",
+    "south",
     18,
-    "https://www.theguardian.com/us-news/video/2026/oct/29/can-democrats-win-against-elon-musks-millions-in-texas-video"
-  ],
-  [
-    "county",
-    18,
-    "https://www.theguardian.com/us-news/2026/oct/29/minneapolis-waste-incinerator-emails"
-  ],
-  [
-    "food",
-    18,
-    "https://www.theguardian.com/thefilter-us/2026/oct/26/coop-original-adjustable-pillow-sale"
-  ],
-  [
-    "proposition",
-    18,
-    "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows"
-  ],
-  [
-    "office",
-    17,
     "https://www.theguardian.com/us-news/2026/oct/29/deb-haaland-new-mexico-governor-midterm-elections"
+  ],
+  [
+    "music",
+    18,
+    "https://www.theguardian.com/music/2026/oct/30/skepta-interview-the-fork-and-knife-album"
+  ],
+  [
+    "night",
+    18,
+    "https://www.theguardian.com/film/2026/oct/29/the-mosquito-bowl-netflix-movie-review"
+  ],
+  [
+    "investigation",
+    17,
+    "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html"
+  ],
+  [
+    "actor",
+    17,
+    "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html"
+  ],
+  [
+    "body",
+    17,
+    "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html"
+  ],
+  [
+    "filter",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/oct/29/best-water-filter"
   ],
   [
     "don",
@@ -221,84 +226,84 @@
     "https://www.theguardian.com/tv-and-radio/2026/oct/29/south-park-turns-to-americas-beef-shortage-and-explodes-in-diarrhea"
   ],
   [
-    "dies",
+    "local",
     16,
-    "https://www.nytimes.com/2026/10/29/briefing/us-gdp-patrick-stewart.html"
+    "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html"
   ],
   [
-    "young",
+    "ballot",
     16,
-    "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html"
+    "https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html"
   ],
   [
-    "fire",
+    "candidates",
     16,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.nytimes.com/2026/10/29/us/elections/ballot-stacking-alaska.html"
   ],
   [
-    "film",
+    "company",
     16,
-    "https://www.theguardian.com/film/2026/oct/29/exploding-heads-mutant-aliens-and-bursting-chests-horrors-greatest-special-effects-ranked"
+    "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html"
   ],
   [
-    "filter",
+    "health",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/oct/29/best-water-filter"
-  ],
-  [
-    "governor",
-    16,
-    "https://www.theguardian.com/us-news/2026/oct/29/deb-haaland-new-mexico-governor-midterm-elections"
-  ],
-  [
-    "music",
-    16,
-    "https://www.theguardian.com/film/2026/oct/29/the-mosquito-bowl-netflix-movie-review"
-  ],
-  [
-    "games",
-    16,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/30/how-to-deal-with-board-games-bad-loser-advice"
-  ],
-  [
-    "space",
-    16,
-    "https://www.theguardian.com/news/ng-interactive/2026/oct/29/paid-for-book-clubs-fake-film-deals-emails-explosion-literary-scams-authors"
-  ],
-  [
-    "judge",
-    15,
-    "https://www.nytimes.com/2026/10/29/us/politics/trump-judge-election-lawsuit.html"
-  ],
-  [
-    "party",
-    15,
-    "https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html"
-  ],
-  [
-    "general",
-    15,
-    "https://www.nytimes.com/2026/10/29/us/hegseth-army-general-sylvia-trump.html"
-  ],
-  [
-    "tax",
-    15,
-    "https://www.nytimes.com/2026/10/29/opinion/california-wealth-tax-billionaires.html"
+    "https://www.nytimes.com/2026/10/29/us/politics/sailor-mental-health-uss-lincoln-navy.html"
   ],
   [
     "war",
-    15,
+    16,
     "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
     "horror",
-    15,
-    "https://www.theguardian.com/film/2026/oct/29/exploding-heads-mutant-aliens-and-bursting-chests-horrors-greatest-special-effects-ranked"
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/oct/30/experience-i-live-in-the-house-from-the-80s-horror-movie-poltergeist"
   ],
   [
-    "support",
-    15,
+    "democrat",
+    16,
     "https://www.theguardian.com/us-news/2026/oct/29/laura-loomer-trump-abdul-el-sayed-muslim-brotherhood"
+  ],
+  [
+    "peltola",
+    16,
+    "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/"
+  ],
+  [
+    "voter",
+    15,
+    "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html"
+  ],
+  [
+    "british",
+    15,
+    "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html"
+  ],
+  [
+    "military",
+    15,
+    "https://www.nytimes.com/2026/10/29/us/politics/sailor-mental-health-uss-lincoln-navy.html"
+  ],
+  [
+    "data",
+    15,
+    "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html"
+  ],
+  [
+    "country",
+    15,
+    "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html"
+  ],
+  [
+    "young",
+    15,
+    "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html"
+  ],
+  [
+    "tour",
+    15,
+    "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html"
   ],
   [
     "review",
@@ -306,24 +311,14 @@
     "https://www.theguardian.com/us-news/2026/oct/29/laura-loomer-trump-abdul-el-sayed-muslim-brotherhood"
   ],
   [
-    "series",
+    "community",
     15,
-    "https://www.theguardian.com/film/2026/oct/29/the-mosquito-bowl-netflix-movie-review"
+    "https://www.theguardian.com/us-news/2026/oct/29/deb-haaland-new-mexico-governor-midterm-elections"
   ],
   [
-    "court",
+    "games",
     15,
-    "https://www.theguardian.com/science/video/2026/oct/29/my-hands-are-shaking-what-its-like-to-be-an-expert-witness-video"
-  ],
-  [
-    "charges",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/oct/29/tabloids-thomas-markle-meghan-daily-mail-mail-on-sunday"
-  ],
-  [
-    "tour",
-    15,
-    "https://www.theguardian.com/music/2026/oct/27/the-nerves-blondie-hanging-on-the-telephone-hit-free"
+    "https://www.theguardian.com/lifeandstyle/2026/oct/30/how-to-deal-with-board-games-bad-loser-advice"
   ],
   [
     "charter",
@@ -331,24 +326,34 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
+    "republicans",
+    14,
+    "https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html"
+  ],
+  [
+    "party",
+    14,
+    "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html"
+  ],
+  [
     "generation",
     14,
     "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html"
   ],
   [
-    "midterms",
+    "college",
     14,
-    "https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html"
+    "https://www.theguardian.com/lifeandstyle/2026/oct/30/experience-i-live-in-the-house-from-the-80s-horror-movie-poltergeist"
   ],
   [
-    "criminal",
+    "far",
     14,
-    "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html"
+    "https://www.theguardian.com/lifeandstyle/2026/oct/30/experience-i-live-in-the-house-from-the-80s-horror-movie-poltergeist"
   ],
   [
-    "south",
+    "record",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/29/deb-haaland-new-mexico-governor-midterm-elections"
+    "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum"
   ],
   [
     "win",
@@ -356,23 +361,18 @@
     "https://www.theguardian.com/world/2026/oct/29/trump-norway-shithouse-toilets"
   ],
   [
-    "ahead",
+    "governor",
     14,
-    "https://www.theguardian.com/us-news/2026/oct/29/ralph-nader-midterm-elections"
+    "https://www.theguardian.com/us-news/2026/oct/29/deb-haaland-new-mexico-governor-midterm-elections"
   ],
   [
-    "amendment",
+    "brewers",
     14,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
+    "https://www.theguardian.com/sport/2026/oct/29/milwaukee-brewers-world-series-title-mlb-salary-cap"
   ],
   [
-    "latest",
-    13,
-    "https://www.nytimes.com/2026/10/29/briefing/us-gdp-patrick-stewart.html"
-  ],
-  [
-    "british",
-    13,
-    "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html"
+    "county",
+    14,
+    "https://www.theguardian.com/us-news/2026/oct/29/minneapolis-waste-incinerator-emails"
   ]
 ];
