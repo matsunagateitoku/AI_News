@@ -2,22 +2,40 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Donald Trump",
-      "count": 31,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/nine-voters-us-midterms-extremism-congress-hegseth",
-      "source": "The Guardian"
-    },
-    {
       "name": "Patrick Stewart",
-      "count": 15,
+      "count": 18,
       "url": "https://www.theguardian.com/culture/2026/oct/31/patrick-stewart-star-trek-marina-sirtis-picard-shakespearean",
       "source": "The Guardian"
     },
     {
-      "name": "Abdul El-Sayed",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/10/31/us/haley-stevens-abdul-el-sayed.html",
+      "name": "Donald Trump ’S",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-arch-lawsuits-dc-virginia",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Melania Trump",
+      "count": 10,
+      "url": "https://thehill.com/policy/international/6186192-oleshky-residents-return-ukraine/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Actress Selma Blair",
+      "count": 9,
+      "url": "https://www.cbsnews.com/video/actress-selma-blair-addresses-midair-meltdown/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Binance",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein",
+      "source": "The Guardian"
     },
     {
       "name": "Morphine",
@@ -32,18 +50,6 @@
       "source": "LA Times"
     },
     {
-      "name": "Haley Stevens",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/31/doj-threats-election-workers-trump-tele-rallies",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Haley Stevens Ca",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/10/31/us/haley-stevens-abdul-el-sayed.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Marco Rubio",
       "count": 5,
       "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
@@ -54,73 +60,129 @@
       "count": 5,
       "url": "https://www.theguardian.com/sport/2026/oct/31/larry-johnson-nfl-cte-brain-injuries-kansas-city-chiefs",
       "source": "The Guardian"
+    }
+  ],
+  "ORG": [
+    {
+      "name": "Trump Leaves Oval Office",
+      "count": 50,
+      "url": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
+      "source": "The Guardian"
     },
     {
-      "name": "Dan Sullivan",
+      "name": "Ai",
+      "count": 23,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Michigan Senate",
+      "count": 19,
+      "url": "https://www.latimes.com/opinion/story/2026-10-30/win-or-lose-abdul-el-sayeds-campaign-could-change-everything",
+      "source": "LA Times"
+    },
+    {
+      "name": "Congress",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/alaska-unalaska-fishing-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/31/norway-melania-trump-nobel-peace-prize",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 9,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The California Congressional District",
+      "count": 7,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Gop",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/lance-wallnau-donald-trump-evangelicals",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nfl",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/2026/oct/31/larry-johnson-nfl-cte-brain-injuries-kansas-city-chiefs",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Wall Street Journal",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/31/doj-threats-election-workers-trump-tele-rallies",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
+      "name": "Us",
+      "count": 50,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/alaska-unalaska-fishing-trump",
+      "source": "The Guardian"
+    },
+    {
       "name": "California",
-      "count": 51,
+      "count": 49,
       "url": "https://www.theguardian.com/commentisfree/2026/oct/31/california-billionaire-tax-democrats-voters",
       "source": "The Guardian"
     },
     {
-      "name": "Us",
-      "count": 50,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/nine-voters-us-midterms-extremism-congress-hegseth",
+      "name": "Uk",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/louisiana-wrongful-death-lawsuit-catholic-school",
       "source": "The Guardian"
     },
     {
-      "name": "Alaska",
-      "count": 19,
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/31/doj-threats-election-workers-trump-tele-rallies",
-      "source": "The Guardian"
+      "name": "New York City Marathon",
+      "count": 14,
+      "url": "https://www.cbsnews.com/video/octogenarian-trains-for-first-new-york-city-marathon/",
+      "source": "CBS News"
     },
     {
       "name": "L.A. County",
-      "count": 16,
+      "count": 12,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
       "source": "LA Times"
     },
     {
       "name": "Florida",
-      "count": 15,
-      "url": "https://www.theguardian.com/sport/2026/oct/30/ncaa-basketball-2026-27-season-predictions-march-madness",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/rick-ross-felony-charge-dropped-domestic-violence",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Los Angeles City Council",
+      "count": 11,
+      "url": "https://www.latimes.com/california/story/2026-10-31/two-competitive-la-city-council-seats-are-on-nov-3-ballot",
+      "source": "LA Times"
+    },
+    {
+      "name": "Michigan",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/31/norway-melania-trump-nobel-peace-prize",
       "source": "The Guardian"
     },
     {
       "name": "U.S.",
-      "count": 14,
+      "count": 9,
       "url": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
       "source": "NY Times"
     },
     {
-      "name": "Iran",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/javits-frimpong-fatal-shooting-bronx-new-york",
+      "name": "Alaska",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/alaska-unalaska-fishing-trump",
       "source": "The Guardian"
     }
   ],
@@ -132,15 +194,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "Black Britons",
-      "count": 2,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/31/black-history-month-panel-arlo-parks-eunice-olumide-ade-adepitan-vanley-burke",
-      "source": "The Guardian"
-    },
-    {
       "name": "L.A. City Charter Amendment Pl: Streamlining Planning Department",
       "count": 2,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-pl-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "World War Ii",
+      "count": 2,
+      "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-10-30/mosquito-bowl-review-peter-berg-nicholas-galitzine-bill-skarsgard-tom-francis-ray-nicholson",
       "source": "LA Times"
     },
     {
@@ -156,15 +218,9 @@
       "source": "NY Times"
     },
     {
-      "name": "The Iran War",
+      "name": "Black Britons",
       "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/30/iran-war-energy-crisis-winter",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Carabao Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/oct/30/mikel-arteta-arsenal-inspiration-george-graham-anfield-liverpool",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/31/black-history-month-debate-nativists",
       "source": "The Guardian"
     },
     {
@@ -184,69 +240,13 @@
       "count": 1,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-los-angeles-city-election-charter-amendment-prt-voter-guide",
       "source": "LA Times"
-    }
-  ],
-  "ORG": [
-    {
-      "name": "Trump Administration’S",
-      "count": 44,
-      "url": "https://thehill.com/policy/healthcare/6184086-maternal-health-autism-study/",
-      "source": "The Hill"
     },
     {
-      "name": "Michigan Senate",
-      "count": 31,
-      "url": "https://www.cbsnews.com/news/abdul-el-sayed-haley-stevens-feud-michigan-senate/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Ai",
-      "count": 30,
-      "url": "https://www.theguardian.com/us-news/2026/oct/31/americans-voters-midterm-election-key-issues",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Gop Close Midterms With Ugly Personal Attacks",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/10/31/us/politics/trump-republicans-personal-attacks-midterms.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Guardian",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/31/norway-melania-trump-nobel-peace-prize",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Congress",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/nine-voters-us-midterms-extremism-congress-hegseth",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 8,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The California Congressional District",
-      "count": 7,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
+      "name": "L.A. City Charter Amendment Sc",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-sc-voter-guide",
       "source": "LA Times"
-    },
-    {
-      "name": "House Of Representatives",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/oct/31/americans-voters-midterm-election-key-issues",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nfl",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/oct/31/larry-johnson-nfl-cte-brain-injuries-kansas-city-chiefs",
-      "source": "The Guardian"
     }
   ],
-  "updated": "2026-10-31T13:28:33Z"
+  "updated": "2026-10-31T22:22:09Z"
 };
