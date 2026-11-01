@@ -2,7 +2,7 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    90,
+    93,
     "https://www.nytimes.com/2026/10/31/us/politics/corruption-midterms.html"
   ],
   [
@@ -12,53 +12,58 @@
   ],
   [
     "california",
-    53,
+    50,
     "https://www.theguardian.com/commentisfree/2026/oct/31/california-billionaire-tax-democrats-voters"
   ],
   [
     "race",
-    49,
-    "https://www.theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom"
-  ],
-  [
-    "police",
-    32,
-    "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
-  ],
-  [
-    "voters",
-    29,
-    "https://www.nytimes.com/2026/10/31/us/politics/corruption-midterms.html"
+    50,
+    "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events"
   ],
   [
     "halloween",
-    28,
-    "https://www.nytimes.com/2026/10/25/opinion/this-year-yet-again-im-dressing-as-grapes.html"
+    34,
+    "https://www.nytimes.com/2026/10/31/us/politics/trump-habba-mildon-lawyer.html"
   ],
   [
-    "president",
-    27,
+    "police",
+    34,
+    "https://www.theguardian.com/world/gallery/2026/nov/01/taiwan-pride-parade-2026-in-pictures"
+  ],
+  [
+    "voters",
+    30,
     "https://www.nytimes.com/2026/10/31/us/politics/corruption-midterms.html"
   ],
   [
-    "star",
-    26,
-    "https://www.theguardian.com/culture/2026/oct/31/patrick-stewart-star-trek-marina-sirtis-picard-shakespearean"
-  ],
-  [
     "elections",
-    25,
+    27,
     "https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html"
   ],
   [
-    "court",
+    "president",
+    26,
+    "https://www.nytimes.com/2026/10/31/us/politics/corruption-midterms.html"
+  ],
+  [
+    "campaign",
     25,
+    "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html"
+  ],
+  [
+    "court",
+    24,
     "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/trump-allies-interfere-us-midterm-elections"
   ],
   [
-    "democrats",
+    "republican",
     23,
-    "https://www.theguardian.com/commentisfree/2026/oct/31/california-billionaire-tax-democrats-voters"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/alaska-unalaska-fishing-trump"
+  ],
+  [
+    "midterms",
+    22,
+    "https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html"
   ],
   [
     "los",
@@ -76,44 +81,39 @@
     "https://www.theguardian.com/us-news/2026/oct/31/trump-arch-lawsuits-dc-virginia"
   ],
   [
-    "republican",
-    21,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/alaska-unalaska-fishing-trump"
-  ],
-  [
     "senate",
     21,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/nine-voters-us-midterms-extremism-congress-hegseth"
+    "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html"
   ],
   [
     "don",
     21,
-    "https://www.theguardian.com/us-news/2026/oct/31/ice-detention-texas-stories-art"
+    "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html"
   ],
   [
-    "campaign",
+    "democrats",
     20,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.theguardian.com/commentisfree/2026/oct/31/california-billionaire-tax-democrats-voters"
   ],
   [
-    "election",
+    "donald",
     20,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/trump-allies-interfere-us-midterm-elections"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave"
   ],
   [
-    "case",
+    "game",
     20,
-    "https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein"
+    "https://www.theguardian.com/sport/2026/oct/31/golden-state-valkyries-atlanta-dream-wnba-finals-game-7-gabby-williams"
   ],
   [
-    "midterm",
+    "sayed",
     19,
-    "https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html"
+    "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html"
   ],
   [
-    "york",
+    "star",
     19,
-    "https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html"
+    "https://www.theguardian.com/culture/2026/oct/31/patrick-stewart-star-trek-marina-sirtis-picard-shakespearean"
   ],
   [
     "tax",
@@ -121,14 +121,19 @@
     "https://www.theguardian.com/commentisfree/2026/oct/31/california-billionaire-tax-democrats-voters"
   ],
   [
-    "donald",
-    19,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/trump-allies-interfere-us-midterm-elections"
-  ],
-  [
     "horror",
     19,
     "https://www.theguardian.com/tv-and-radio/2026/oct/31/yaga-folk-horror-hudson-williams-carrie-anne-moss"
+  ],
+  [
+    "video",
+    19,
+    "https://www.theguardian.com/tv-and-radio/2026/oct/31/yaga-folk-horror-hudson-williams-carrie-anne-moss"
+  ],
+  [
+    "political",
+    18,
+    "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
   ],
   [
     "filter",
@@ -136,59 +141,74 @@
     "https://www.theguardian.com/thefilter-us/2026/oct/31/bearaby-lounger-lap-blanket-review"
   ],
   [
-    "candidates",
-    18,
-    "https://www.latimes.com/california/story/2026-08-10/2026-california-election-governor-becerra-hilton-voter-guide"
-  ],
-  [
     "proposition",
     18,
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "nearly",
+    "midterm",
     17,
-    "https://www.nytimes.com/2026/10/25/opinion/this-year-yet-again-im-dressing-as-grapes.html"
+    "https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html"
+  ],
+  [
+    "york",
+    17,
+    "https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html"
+  ],
+  [
+    "event",
+    17,
+    "https://www.nytimes.com/2026/10/31/us/politics/trump-habba-mildon-lawyer.html"
+  ],
+  [
+    "living",
+    17,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave"
+  ],
+  [
+    "democratic",
+    16,
+    "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html"
+  ],
+  [
+    "billion",
+    16,
+    "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html"
   ],
   [
     "stewart",
-    17,
+    16,
     "https://www.theguardian.com/culture/2026/oct/31/patrick-stewart-star-trek-marina-sirtis-picard-shakespearean"
   ],
   [
     "because",
-    17,
+    16,
     "https://www.theguardian.com/culture/2026/oct/31/patrick-stewart-star-trek-marina-sirtis-picard-shakespearean"
   ],
   [
     "judge",
-    17,
+    16,
     "https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein"
   ],
   [
-    "political",
-    17,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/nine-voters-us-midterms-extremism-congress-hegseth"
+    "night",
+    16,
+    "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
   ],
   [
-    "midterms",
+    "ahead",
     16,
+    "https://www.theguardian.com/sport/2026/oct/31/canelo-alvarez-christian-mbilli-wbc-world-title-riyadh-boxing"
+  ],
+  [
+    "candidates",
+    16,
+    "https://www.latimes.com/california/story/2026-08-10/2026-california-election-governor-becerra-hilton-voter-guide"
+  ],
+  [
+    "administration",
+    15,
     "https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html"
-  ],
-  [
-    "family",
-    16,
-    "https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html"
-  ],
-  [
-    "office",
-    16,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/nine-voters-us-midterms-extremism-congress-hegseth"
-  ],
-  [
-    "video",
-    16,
-    "https://www.theguardian.com/sport/live/2026/oct/31/canelo-alvarez-v-christian-mbilli-wbc-super-middleweight-championship-live-buildup"
   ],
   [
     "history",
@@ -196,9 +216,34 @@
     "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html"
   ],
   [
+    "alaska",
+    15,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/alaska-unalaska-fishing-trump"
+  ],
+  [
+    "title",
+    15,
+    "https://www.theguardian.com/society/2026/nov/01/the-term-is-becoming-unrecognisable-have-the-experts-who-believed-in-a-single-autism-spectrum-changed-their-minds"
+  ],
+  [
     "patrick",
     15,
     "https://www.theguardian.com/culture/2026/oct/31/patrick-stewart-star-trek-marina-sirtis-picard-shakespearean"
+  ],
+  [
+    "election",
+    15,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/trump-allies-interfere-us-midterm-elections"
+  ],
+  [
+    "case",
+    15,
+    "https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein"
+  ],
+  [
+    "office",
+    15,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/nine-voters-us-midterms-extremism-congress-hegseth"
   ],
   [
     "something",
@@ -206,19 +251,9 @@
     "https://www.theguardian.com/thefilter-us/2026/oct/31/bearaby-lounger-lap-blanket-review"
   ],
   [
-    "full",
+    "nearly",
     15,
-    "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine"
-  ],
-  [
-    "charges",
-    15,
-    "https://www.theguardian.com/us-news/2026/oct/31/luigi-mangione-new-york-case"
-  ],
-  [
-    "democratic",
-    15,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
+    "https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets"
   ],
   [
     "charter",
@@ -226,24 +261,39 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "billion",
+    "michigan",
     14,
-    "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html"
+    "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html"
   ],
   [
-    "war",
+    "north",
     14,
-    "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html"
+    "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html"
   ],
   [
-    "inside",
+    "country",
     14,
-    "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "living",
+    "experts",
     14,
-    "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
+    "https://www.theguardian.com/society/2026/nov/01/the-term-is-becoming-unrecognisable-have-the-experts-who-believed-in-a-single-autism-spectrum-changed-their-minds"
+  ],
+  [
+    "company",
+    14,
+    "https://www.theguardian.com/culture/2026/oct/31/patrick-stewart-star-trek-marina-sirtis-picard-shakespearean"
+  ],
+  [
+    "candidate",
+    14,
+    "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave"
+  ],
+  [
+    "protests",
+    14,
+    "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
   ],
   [
     "money",
@@ -251,39 +301,14 @@
     "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized"
   ],
   [
-    "department",
-    14,
-    "https://www.theguardian.com/us-news/2026/oct/31/maurene-comey-firing-ruling-legal-implications"
-  ],
-  [
-    "game",
-    14,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/31/uk-complete-worlds-most-complex-board-game-the-campaign-for-north-africa"
-  ],
-  [
-    "event",
-    14,
-    "https://www.theguardian.com/society/2026/nov/01/christina-applegate-ms-multiple-sclerosis-misdiagnosis-women-ntwnfb"
-  ],
-  [
-    "actor",
-    14,
-    "https://www.theguardian.com/society/2026/nov/01/christina-applegate-ms-multiple-sclerosis-misdiagnosis-women-ntwnfb"
-  ],
-  [
     "british",
     14,
     "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show"
   ],
   [
-    "arrested",
+    "food",
     14,
-    "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london"
-  ],
-  [
-    "county",
-    14,
-    "https://www.latimes.com/california/story/2026-10-31/la-county-sheriffs-race-is-grudge-rematch-luna-vs-villanueva"
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
   ],
   [
     "amendment",
@@ -291,19 +316,14 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "administration",
+    "binance",
     13,
-    "https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html"
+    "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html"
   ],
   [
-    "running",
+    "social",
     13,
-    "https://www.nytimes.com/2026/10/31/nyregion/nyc-marathon-price.html"
-  ],
-  [
-    "country",
-    13,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/world/gallery/2026/nov/01/taiwan-pride-parade-2026-in-pictures"
   ],
   [
     "billionaire",
@@ -311,19 +331,29 @@
     "https://www.theguardian.com/commentisfree/2026/oct/31/california-billionaire-tax-democrats-voters"
   ],
   [
-    "win",
+    "republicans",
     13,
-    "https://www.theguardian.com/world/2026/oct/31/brazil-lula-social-media"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave"
   ],
   [
-    "social",
+    "water",
     13,
-    "https://www.theguardian.com/world/2026/oct/31/brazil-lula-social-media"
+    "https://www.theguardian.com/world/2026/nov/01/anger-over-johannesburgs-run-down-infrastructure-elections"
   ],
   [
-    "support",
+    "actor",
     13,
-    "https://www.theguardian.com/us-news/2026/oct/31/trump-coal-plants-taxpayer-dollars"
+    "https://www.theguardian.com/society/2026/nov/01/christina-applegate-ms-multiple-sclerosis-misdiagnosis-women-ntwnfb"
+  ],
+  [
+    "wnba",
+    13,
+    "https://www.theguardian.com/sport/2026/oct/31/golden-state-valkyries-atlanta-dream-wnba-finals-game-7-gabby-williams"
+  ],
+  [
+    "young",
+    13,
+    "https://www.theguardian.com/sport/2026/oct/31/lewis-hamilton-storms-to-first-ferrari-pole-at-f1-mexican-grand-prix-with-antonelli-fifth"
   ],
   [
     "fashion",
@@ -331,48 +361,18 @@
     "https://www.theguardian.com/environment/2026/oct/30/twice-as-many-plants-and-animals-sold-in-wildlife-trade-as-previously-thought-says-report"
   ],
   [
-    "water",
-    13,
-    "https://www.theguardian.com/environment/2026/oct/30/haywards-heath-ardingly-reservoir-water-level-drought-england"
-  ],
-  [
-    "ahead",
-    13,
-    "https://www.theguardian.com/film/2026/oct/30/scariest-non-horror-movies"
-  ],
-  [
-    "food",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
-  ],
-  [
-    "candidate",
-    13,
-    "https://www.theguardian.com/us-news/2026/oct/29/ralph-nader-midterm-elections"
-  ],
-  [
     "prop",
     13,
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "seat",
-    13,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-treasurer-kounalakis-hawks-voter-guide"
+    "stevens",
+    12,
+    "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html"
   ],
   [
-    "legal",
+    "hours",
     12,
-    "https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html"
-  ],
-  [
-    "early",
-    12,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "here's",
-    12,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html"
   ]
 ];
