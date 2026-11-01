@@ -2,16 +2,22 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Administration'S",
-      "count": 53,
-      "url": "https://www.latimes.com/politics/story/2026-10-31/cascade-of-court-rulings-rebuffs-trump-administrations-election-efforts",
+      "name": "Trump Republicans",
+      "count": 46,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-state-superintendent-public-instruction-shaw-barrera-voter-guide",
       "source": "LA Times"
     },
     {
       "name": "Michigan Senate",
-      "count": 26,
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
-      "source": "The Guardian"
+      "count": 33,
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+      "source": "NPR"
+    },
+    {
+      "name": "Gop",
+      "count": 20,
+      "url": "https://www.latimes.com/politics/story/2026-11-01/potential-democratic-wave-looms-over-trump-where-does-maga-go-after-midterms",
+      "source": "LA Times"
     },
     {
       "name": "Ai",
@@ -20,10 +26,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Gop",
-      "count": 14,
-      "url": "https://www.latimes.com/politics/story/2026-11-01/potential-democratic-wave-looms-over-trump-where-does-maga-go-after-midterms",
-      "source": "LA Times"
+      "name": "Congress",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
+      "source": "The Guardian"
     },
     {
       "name": "Guardian",
@@ -38,43 +44,25 @@
       "source": "The Guardian"
     },
     {
-      "name": "Congress Party",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
-      "source": "NY Times"
-    },
-    {
       "name": "The California Congressional District",
       "count": 7,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "The White House",
-      "count": 6,
-      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-10-28/kevin-bleyer-the-daily-show-writer-dies-car-crash",
-      "source": "LA Times"
+      "name": "El-Sayed",
+      "count": 7,
+      "url": "https://www.cbsnews.com/news/haley-stevens-mike-rogers-together-church-abdul-el-sayed-michigan-senate/",
+      "source": "CBS News"
     },
     {
-      "name": "Hamas",
-      "count": 5,
-      "url": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6",
-      "source": "Wall St. Journal"
+      "name": "Cbs News",
+      "count": 7,
+      "url": "https://www.cbsnews.com/video/cbs-news-adds-south-carolina-as-battleground-state-still-leans-republican/",
+      "source": "CBS News"
     }
   ],
   "EVENT": [
-    {
-      "name": "The Super Bowl",
-      "count": 3,
-      "url": "https://www.foxnews.com/outkick-sports/buffalo-bills-defense-horrible-team-cannot-win-super-bowl-terry-bradshaw-fox",
-      "source": "Fox News"
-    },
-    {
-      "name": "Game 7",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/nov/01/natalie-nakase-golden-state-valkyries-wnba-championship-culture",
-      "source": "The Guardian"
-    },
     {
       "name": "L.A. City Charter Amendment Pl: Streamlining Planning Department",
       "count": 2,
@@ -82,15 +70,9 @@
       "source": "LA Times"
     },
     {
-      "name": "Wwii",
-      "count": 2,
-      "url": "https://www.cbsnews.com/news/how-movie-star-james-stewart-became-a-war-hero/",
-      "source": "CBS News"
-    },
-    {
-      "name": "The American Revolution",
+      "name": "New Year’S Eve",
       "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/king-philips-war-anniversary-native-american",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/01/maxxing-life-2027-relax-start-minning",
       "source": "The Guardian"
     },
     {
@@ -100,15 +82,27 @@
       "source": "The Guardian"
     },
     {
-      "name": "New Year’S Eve",
+      "name": "Game 7",
       "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/01/maxxing-life-2027-relax-start-minning",
+      "url": "https://www.theguardian.com/sport/2026/nov/01/natalie-nakase-golden-state-valkyries-wnba-championship-culture",
       "source": "The Guardian"
     },
     {
       "name": "Two Olympic Games",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/nov/01/ciara-mageean-european-1500m-gold-medallist-ireland-dies-age-34",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Six Kings Slam",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/oct/31/canelo-alvarez-christian-mbilli-wbc-world-title-riyadh-boxing",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Super Bowl",
+      "count": 1,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/31/yaga-folk-horror-hudson-williams-carrie-anne-moss",
       "source": "The Guardian"
     },
     {
@@ -122,44 +116,56 @@
       "count": 1,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-election-los-angeles-city-charter-amendment-prk-voter-guide",
       "source": "LA Times"
+    },
+    {
+      "name": "L.A. City Charter Amendment Prt",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-los-angeles-city-election-charter-amendment-prt-voter-guide",
+      "source": "LA Times"
     }
   ],
   "GPE": [
     {
       "name": "California",
-      "count": 49,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/california-billionaire-tax",
-      "source": "The Guardian"
+      "count": 56,
+      "url": "https://www.nytimes.com/2026/11/01/us/on-the-ballot-in-california-the-prospects-for-a-national-wealth-tax.html",
+      "source": "NY Times"
     },
     {
       "name": "Us",
-      "count": 45,
+      "count": 44,
       "url": "https://www.theguardian.com/thefilter-us/2026/oct/02/best-beauty-advent-calendars",
       "source": "The Guardian"
     },
     {
-      "name": "New York City Marathon",
-      "count": 17,
-      "url": "https://www.theguardian.com/sport/2026/nov/01/new-york-city-marathon-andreas-almgren-wins-on-debut-as-sheila-chepkirui-reclaims-crown",
-      "source": "The Guardian"
-    },
-    {
       "name": "L.A. County",
-      "count": 15,
+      "count": 17,
       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
       "source": "LA Times"
     },
     {
-      "name": "Los Angeles County",
-      "count": 11,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-sheriff-race-luna-villanueva-voter-guide",
-      "source": "LA Times"
+      "name": "Alaska",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
+      "source": "The Guardian"
     },
     {
-      "name": "Alaska",
-      "count": 11,
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
-      "source": "NPR"
+      "name": "New York City Marathon",
+      "count": 15,
+      "url": "https://www.theguardian.com/sport/2026/nov/01/new-york-city-marathon-andreas-almgren-wins-on-debut-as-sheila-chepkirui-reclaims-crown",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Florida",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Los Angeles County",
+      "count": 13,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-sheriff-race-luna-villanueva-voter-guide",
+      "source": "LA Times"
     },
     {
       "name": "Uk",
@@ -168,85 +174,79 @@
       "source": "The Guardian"
     },
     {
-      "name": "Israel",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
-      "source": "NY Times"
+      "name": "Pennsylvania",
+      "count": 10,
+      "url": "https://www.cbsnews.com/news/josh-shapiro-pennsylvania-governor-11-01-2026/",
+      "source": "CBS News"
     },
     {
-      "name": "U.S.",
-      "count": 9,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "America",
+      "name": "Michigan",
       "count": 7,
-      "url": "https://www.nytimes.com/2026/11/01/opinion/pizzagate-conspiracy-epstein.html",
-      "source": "NY Times"
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+      "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Haley Stevens",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Patrick Stewart",
-      "count": 14,
-      "url": "https://www.theguardian.com/culture/2026/oct/31/patrick-stewart-star-trek-marina-sirtis-picard-shakespearean",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 14,
-      "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+      "count": 34,
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
       "source": "The Guardian"
     },
     {
       "name": "Margaret Brennan",
-      "count": 13,
-      "url": "https://www.cbsnews.com/video/sen-bernie-sanders-says-gop-rhetoric-about-el-sayed-should-appall-every-decent-american/",
+      "count": 19,
+      "url": "https://www.cbsnews.com/video/cbs-news-adds-south-carolina-as-battleground-state-still-leans-republican/",
       "source": "CBS News"
     },
     {
+      "name": "Donald J. Trump",
+      "count": 17,
+      "url": "https://thehill.com/homenews/administration/6187284-ssa-irs-hatch-act-trump/",
+      "source": "The Hill"
+    },
+    {
       "name": "Chris Murphy",
-      "count": 11,
+      "count": 16,
       "url": "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html",
       "source": "NY Times"
     },
     {
-      "name": "Karen Bass",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
+      "name": "Mike Rogers",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Abdul El-Sayed",
+      "count": 13,
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Patrick Stewart",
+      "count": 11,
+      "url": "https://www.theguardian.com/culture/2026/oct/31/patrick-stewart-star-trek-marina-sirtis-picard-shakespearean",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Michael Mann",
+      "count": 10,
+      "url": "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg",
       "source": "The Guardian"
     },
     {
       "name": "Donald Trump ’S",
-      "count": 9,
+      "count": 10,
       "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-arch-lawsuits-dc-virginia",
       "source": "The Guardian"
     },
     {
-      "name": "Mike Rogers",
-      "count": 9,
-      "url": "https://www.foxnews.com/politics/haley-stevens-appears-alongside-gop-rival-mike-rogers-detroit-church",
-      "source": "Fox News"
-    },
-    {
-      "name": "Mike Lawler",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/mike-lawler-new-york-midterm-elections",
-      "source": "The Guardian"
-    },
-    {
       "name": "Josh Shapiro",
-      "count": 8,
-      "url": "https://www.cbsnews.com/video/open-this-is-face-the-nation-with-margaret-brennan-nov-1-2026/",
+      "count": 10,
+      "url": "https://www.cbsnews.com/news/josh-shapiro-pennsylvania-governor-11-01-2026/",
       "source": "CBS News"
     }
   ],
-  "updated": "2026-11-01T18:19:13Z"
+  "updated": "2026-11-01T22:38:38Z"
 };
