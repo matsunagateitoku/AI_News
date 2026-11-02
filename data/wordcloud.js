@@ -2,68 +2,78 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    78,
-    "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html"
-  ],
-  [
-    "guide",
-    74,
-    "https://www.theguardian.com/thefilter-us/2026/oct/02/best-beauty-advent-calendars"
+    81,
+    "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html"
   ],
   [
     "race",
+    75,
+    "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html"
+  ],
+  [
+    "guide",
     70,
-    "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html"
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/best-beauty-advent-calendars"
   ],
   [
     "california",
-    60,
-    "https://www.nytimes.com/2026/11/01/us/on-the-ballot-in-california-the-prospects-for-a-national-wealth-tax.html"
-  ],
-  [
-    "republican",
-    44,
-    "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
+    59,
+    "https://www.nytimes.com/2026/11/02/us/elections/newsom-harris-becerra-rally.html"
   ],
   [
     "senate",
+    45,
+    "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html"
+  ],
+  [
+    "democrats",
     40,
-    "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html"
+    "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html"
   ],
   [
-    "election",
-    34,
-    "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html"
+    "republican",
+    37,
+    "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
   ],
   [
-    "democratic",
-    34,
-    "https://www.nytimes.com/2026/11/01/us/on-the-ballot-in-california-the-prospects-for-a-national-wealth-tax.html"
+    "president",
+    35,
+    "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html"
   ],
   [
     "stevens",
     33,
-    "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
+    "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html"
   ],
   [
-    "democrats",
-    31,
-    "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html"
+    "michigan",
+    32,
+    "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html"
   ],
   [
-    "president",
+    "rogers",
     30,
-    "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html"
+    "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
   ],
   [
     "game",
     30,
-    "https://www.nytimes.com/2026/11/01/magazine/curtis-malone-basketball.html"
+    "https://www.theguardian.com/film/2026/nov/02/alex-garland-elden-ring-adaptation-amazon-mgm-cailee-spaeny"
   ],
   [
-    "elections",
-    28,
-    "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
+    "democratic",
+    29,
+    "https://www.nytimes.com/2026/11/02/us/elections/newsom-harris-becerra-rally.html"
+  ],
+  [
+    "election",
+    29,
+    "https://www.nytimes.com/2026/10/27/opinion/ezra-klein-podcast-nate-silver.html"
+  ],
+  [
+    "sayed",
+    27,
+    "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html"
   ],
   [
     "mike",
@@ -71,44 +81,14 @@
     "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
   ],
   [
-    "police",
-    27,
-    "https://www.theguardian.com/us-news/2026/nov/01/shootings-halloween-night-dallas-birmingham"
+    "campaign",
+    26,
+    "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html"
   ],
   [
     "halloween",
-    26,
+    25,
     "https://www.nytimes.com/2026/11/01/style/nyc-marathon-fashion-outfits.html"
-  ],
-  [
-    "rogers",
-    26,
-    "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
-  ],
-  [
-    "rep",
-    26,
-    "https://www.latimes.com/politics/story/2026-11-01/midterm-election-trump-voters-arizona-congressional-battleground-tucson-ciscomani-mendoza"
-  ],
-  [
-    "sen",
-    26,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-insurance-commissioner-allen-kim-voter-guide"
-  ],
-  [
-    "sayed",
-    25,
-    "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
-  ],
-  [
-    "los",
-    25,
-    "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg"
-  ],
-  [
-    "angeles",
-    25,
-    "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg"
   ],
   [
     "voters",
@@ -116,84 +96,79 @@
     "https://www.theguardian.com/us-news/2026/nov/01/texas-south-asian-racism"
   ],
   [
-    "nation",
+    "abdul",
     23,
-    "https://www.theguardian.com/us-news/2026/oct/31/trump-coal-plants-taxpayer-dollars"
-  ],
-  [
-    "district",
-    22,
-    "https://www.theguardian.com/us-news/2026/nov/01/mike-lawler-new-york-midterm-elections"
-  ],
-  [
-    "alaska",
-    20,
-    "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html"
-  ],
-  [
-    "york",
-    20,
-    "https://www.nytimes.com/2026/11/01/style/nyc-marathon-fashion-outfits.html"
-  ],
-  [
-    "campaign",
-    20,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "brennan",
-    20,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/wisconsin-city-menomie-meta-datacenter"
-  ],
-  [
-    "haley",
-    20,
-    "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
-  ],
-  [
-    "gop",
-    20,
-    "https://www.latimes.com/politics/story/2026-11-01/potential-democratic-wave-looms-over-trump-where-does-maga-go-after-midterms"
+    "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html"
   ],
   [
     "candidates",
-    19,
-    "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html"
+    22,
+    "https://www.nytimes.com/2026/11/02/us/elections/newsom-harris-becerra-rally.html"
   ],
   [
-    "tax",
-    19,
-    "https://www.nytimes.com/2026/11/01/us/on-the-ballot-in-california-the-prospects-for-a-national-wealth-tax.html"
-  ],
-  [
-    "stroke",
-    19,
-    "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html"
-  ],
-  [
-    "filter",
-    19,
-    "https://www.theguardian.com/thefilter-us/2026/oct/02/best-beauty-advent-calendars"
+    "night",
+    22,
+    "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html"
   ],
   [
     "midterm",
+    22,
+    "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
+  ],
+  [
+    "elections",
+    22,
+    "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
+  ],
+  [
+    "rep",
+    22,
+    "https://www.latimes.com/politics/story/2026-11-01/midterm-election-trump-voters-arizona-congressional-battleground-tucson-ciscomani-mendoza"
+  ],
+  [
+    "haley",
+    21,
+    "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html"
+  ],
+  [
+    "los",
+    21,
+    "https://www.nytimes.com/2026/11/02/us/elections/newsom-harris-becerra-rally.html"
+  ],
+  [
+    "midterms",
+    20,
+    "https://www.theguardian.com/us-news/2026/nov/01/mike-lawler-new-york-midterm-elections"
+  ],
+  [
+    "angeles",
+    19,
+    "https://www.nytimes.com/2026/11/02/us/elections/newsom-harris-becerra-rally.html"
+  ],
+  [
+    "party",
     19,
     "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
   ],
   [
-    "midterms",
+    "won",
     19,
-    "https://www.theguardian.com/us-news/2026/nov/01/mike-lawler-new-york-midterm-elections"
+    "https://www.theguardian.com/sport/2026/nov/01/kimi-antonelli-youngest-f1-champion-mexican-gp"
   ],
   [
-    "margaret",
+    "police",
     19,
-    "https://www.cbsnews.com/video/cbs-news-adds-south-carolina-as-battleground-state-still-leans-republican/"
+    "https://www.theguardian.com/sport/2026/nov/01/one-person-killed-in-shooting-outside-magic-city-classic-football-game-in-alabama"
   ],
   [
-    "administration",
+    "york",
     18,
-    "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html"
+    "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html"
+  ],
+  [
+    "tax",
+    18,
+    "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html"
   ],
   [
     "don",
@@ -201,99 +176,104 @@
     "https://www.theguardian.com/lifeandstyle/2026/nov/01/this-is-how-we-do-it-best-sex-no-penetration"
   ],
   [
+    "stewart",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/nov/02/martha-stewart-apology-homeless-halloween-costume-backlash"
+  ],
+  [
+    "district",
+    18,
+    "https://www.theguardian.com/us-news/2026/nov/01/mike-lawler-new-york-midterm-elections"
+  ],
+  [
     "proposition",
     18,
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide"
   ],
   [
-    "county",
-    17,
-    "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html"
-  ],
-  [
-    "abdul",
+    "democrat",
     17,
     "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
-  ],
-  [
-    "endorsement",
-    17,
-    "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
-  ],
-  [
-    "michael",
-    17,
-    "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg"
-  ],
-  [
-    "won",
-    17,
-    "https://www.theguardian.com/sport/2026/nov/01/nfl-roundup-sunday-football-scores"
-  ],
-  [
-    "horror",
-    17,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/31/yaga-folk-horror-hudson-williams-carrie-anne-moss"
-  ],
-  [
-    "board",
-    17,
-    "https://www.theguardian.com/lifeandstyle/2026/oct/31/uk-complete-worlds-most-complex-board-game-the-campaign-for-north-africa"
-  ],
-  [
-    "chris",
-    16,
-    "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html"
-  ],
-  [
-    "history",
-    16,
-    "https://www.nytimes.com/2026/11/01/opinion/trump-arch-washington-dc.html"
-  ],
-  [
-    "donald",
-    16,
-    "https://www.nytimes.com/2026/11/01/opinion/trump-arch-washington-dc.html"
-  ],
-  [
-    "florida",
-    16,
-    "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html"
-  ],
-  [
-    "party",
-    16,
-    "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
-  ],
-  [
-    "michigan",
-    16,
-    "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
-  ],
-  [
-    "night",
-    16,
-    "https://www.theguardian.com/us-news/2026/nov/01/shootings-halloween-night-dallas-birmingham"
   ],
   [
     "political",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/nov/02/us-midterms-donald-trump-democrats-us-politics"
+  ],
+  [
+    "star",
+    17,
+    "https://www.theguardian.com/sport/2026/nov/01/natalie-nakase-golden-state-valkyries-wnba-championship-culture"
+  ],
+  [
+    "final",
     16,
-    "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
+    "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html"
   ],
   [
-    "judge",
+    "republicans",
+    16,
+    "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html"
+  ],
+  [
+    "candidate",
+    16,
+    "https://www.nytimes.com/2026/11/02/us/elections/newsom-harris-becerra-rally.html"
+  ],
+  [
+    "minutes",
+    16,
+    "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html"
+  ],
+  [
+    "late",
+    16,
+    "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html"
+  ],
+  [
+    "video",
+    16,
+    "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html"
+  ],
+  [
+    "administration",
+    16,
+    "https://www.theguardian.com/us-news/2026/nov/01/barack-obama-midterms-democrats-trump"
+  ],
+  [
+    "win",
+    16,
+    "https://www.theguardian.com/us-news/2026/nov/01/child-deportation-habeas-petitions"
+  ],
+  [
+    "games",
+    16,
+    "https://www.theguardian.com/film/2026/nov/02/alex-garland-elden-ring-adaptation-amazon-mgm-cailee-spaeny"
+  ],
+  [
+    "something",
+    16,
+    "https://www.theguardian.com/film/2026/nov/02/alex-garland-elden-ring-adaptation-amazon-mgm-cailee-spaeny"
+  ],
+  [
+    "board",
+    16,
+    "https://www.theguardian.com/lifeandstyle/2026/oct/31/uk-complete-worlds-most-complex-board-game-the-campaign-for-north-africa"
+  ],
+  [
+    "alaska",
     15,
-    "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html"
+    "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html"
   ],
   [
-    "murphy",
+    "chris",
     15,
     "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html"
   ],
   [
-    "power",
+    "florida",
     15,
-    "https://www.nytimes.com/2026/11/01/magazine/curtis-malone-basketball.html"
+    "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html"
   ],
   [
     "country",
@@ -301,29 +281,44 @@
     "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
+    "filter",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/best-beauty-advent-calendars"
+  ],
+  [
+    "season",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/best-beauty-advent-calendars"
+  ],
+  [
+    "love",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/nov/01/wicker-olivia-colman-alexander-skarsgard-hot-sex-basket-heteropessimism"
+  ],
+  [
+    "judge",
+    15,
+    "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan"
+  ],
+  [
+    "donald",
+    15,
+    "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan"
+  ],
+  [
     "experts",
     15,
     "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan"
   ],
   [
-    "following",
+    "county",
     15,
-    "https://www.theguardian.com/us-news/2026/nov/01/shootings-halloween-night-dallas-birmingham"
+    "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida"
   ],
   [
-    "seat",
+    "power",
     15,
-    "https://www.theguardian.com/us-news/2026/nov/01/mike-lawler-new-york-midterm-elections"
-  ],
-  [
-    "star",
-    15,
-    "https://www.theguardian.com/film/2026/nov/01/baz-luhrmann-romeo-and-juliet-turns-30"
-  ],
-  [
-    "social",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/nov/01/smug-celebrities-podcast-circuit-aaron-sorkin"
+    "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen"
   ],
   [
     "charter",
@@ -331,48 +326,53 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "candidate",
+    "inside",
     14,
-    "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html"
+    "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html"
   ],
   [
-    "video",
+    "because",
     14,
-    "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html"
+    "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html"
+  ],
+  [
+    "million",
+    14,
+    "https://www.nytimes.com/2026/11/01/nyregion/the-new-york-city-marathon-in-photos-and-videos.html"
+  ],
+  [
+    "war",
+    14,
+    "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html"
+  ],
+  [
+    "jet",
+    14,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "everything",
+    14,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "money",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/best-beauty-advent-calendars"
   ],
   [
     "sex",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/nov/01/this-is-how-we-do-it-best-sex-no-penetration"
+    "https://www.theguardian.com/commentisfree/2026/nov/01/wicker-olivia-colman-alexander-skarsgard-hot-sex-basket-heteropessimism"
   ],
   [
-    "democrat",
+    "record",
     14,
-    "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
+    "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen"
   ],
   [
-    "incumbent",
+    "seat",
     14,
-    "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan"
-  ],
-  [
-    "hospitalized",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/01/chris-murphy-stroke-hospitalized"
-  ],
-  [
-    "director",
-    14,
-    "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg"
-  ],
-  [
-    "young",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/01/child-deportation-habeas-petitions"
-  ],
-  [
-    "office",
-    14,
-    "https://www.theguardian.com/us-news/2026/oct/29/california-high-speed-rail-ian-choudri-resigns"
+    "https://www.theguardian.com/us-news/2026/nov/01/mike-lawler-new-york-midterm-elections"
   ]
 ];
