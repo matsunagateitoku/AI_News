@@ -2,103 +2,138 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    94,
+    84,
     "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html"
   ],
   [
     "guide",
-    76,
+    75,
     "https://www.theguardian.com/thefilter-us/2026/oct/02/best-beauty-advent-calendars"
   ],
   [
     "california",
-    64,
+    72,
     "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html"
   ],
   [
     "race",
-    63,
-    "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
-  ],
-  [
-    "election",
-    45,
-    "https://www.nytimes.com/2026/11/02/us/politics/cisa-election-security-midterms.html"
-  ],
-  [
-    "president",
-    41,
-    "https://www.nytimes.com/2026/11/02/us/politics/trump-immigration-crackdown-backlash-republicans.html"
-  ],
-  [
-    "elections",
-    34,
-    "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html"
-  ],
-  [
-    "voters",
-    33,
-    "https://www.nytimes.com/2026/11/02/us/politics/trump-immigration-crackdown-backlash-republicans.html"
+    60,
+    "https://www.theguardian.com/us-news/2026/nov/02/new-hampshire-senate-race"
   ],
   [
     "senate",
-    33,
-    "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
+    43,
+    "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote"
   ],
   [
-    "court",
-    32,
-    "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html"
+    "voters",
+    42,
+    "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote"
   ],
   [
     "midterm",
-    31,
-    "https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charges-midterms.html"
+    41,
+    "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html"
   ],
   [
-    "republican",
-    30,
-    "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers"
+    "election",
+    39,
+    "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html"
+  ],
+  [
+    "elections",
+    38,
+    "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html"
+  ],
+  [
+    "president",
+    31,
+    "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html"
   ],
   [
     "democratic",
-    29,
-    "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
+    31,
+    "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html"
   ],
   [
-    "campaign",
+    "court",
+    30,
+    "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html"
+  ],
+  [
+    "political",
+    28,
+    "https://www.nytimes.com/2026/11/02/insider/midterm-election-reporting-michigan-politics.html"
+  ],
+  [
+    "tax",
     26,
-    "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html"
+    "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html"
   ],
   [
     "democrats",
     26,
-    "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
+    "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote"
   ],
   [
-    "county",
+    "republican",
     26,
-    "https://www.theguardian.com/us-news/2026/nov/02/investigators-florida-plane-crash"
+    "https://www.theguardian.com/us-news/2026/nov/02/new-hampshire-senate-race"
   ],
   [
-    "game",
-    25,
-    "https://www.theguardian.com/culture/2026/nov/02/tomb-raider-creators-lara-croft"
+    "michigan",
+    24,
+    "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html"
   ],
   [
     "midterms",
-    24,
+    22,
     "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html"
   ],
   [
-    "political",
-    21,
-    "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html"
+    "iran",
+    22,
+    "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html"
   ],
   [
-    "tax",
+    "administration",
+    21,
+    "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html"
+  ],
+  [
+    "ice",
+    21,
+    "https://www.nytimes.com/2026/11/02/science/florida-learjet-crash-causes.html"
+  ],
+  [
+    "york",
+    21,
+    "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html"
+  ],
+  [
+    "county",
+    21,
+    "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html"
+  ],
+  [
+    "stevens",
     20,
-    "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html"
+    "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html"
+  ],
+  [
+    "love",
+    20,
+    "https://www.theguardian.com/music/2026/nov/03/bernie-taupin-interview-elton-john-rodeos-rocket-man"
+  ],
+  [
+    "district",
+    20,
+    "https://www.theguardian.com/world/2026/nov/03/tokyo-sex-industry-street-workers-on-rise"
+  ],
+  [
+    "billionaire",
+    20,
+    "https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires"
   ],
   [
     "proposition",
@@ -106,44 +141,39 @@
     "https://www.theguardian.com/commentisfree/2026/nov/02/california-billionaire-tax"
   ],
   [
-    "love",
+    "candidate",
     19,
     "https://www.theguardian.com/tv-and-radio/2026/nov/02/wicker-4dx-olivia-colman-movie"
-  ],
-  [
-    "seat",
-    19,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/02/wicker-4dx-olivia-colman-movie"
-  ],
-  [
-    "sayed",
-    19,
-    "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
-  ],
-  [
-    "night",
-    19,
-    "https://www.theguardian.com/us-news/2026/nov/02/colorado-flash-flooding-arizona-new-mexico"
   ],
   [
     "los",
-    18,
+    19,
     "https://www.theguardian.com/us-news/2026/nov/02/xavier-becerra-california-governor-race"
   ],
   [
     "angeles",
-    18,
+    19,
     "https://www.theguardian.com/us-news/2026/nov/02/xavier-becerra-california-governor-race"
+  ],
+  [
+    "ballot",
+    18,
+    "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html"
+  ],
+  [
+    "final",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/nov/02/the-gilded-age-review-what-did-we-do-to-deserve-such-a-terrible-stinker"
   ],
   [
     "money",
     18,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/nov/02/who-funded-midterms"
+    "https://www.theguardian.com/world/2026/nov/03/tokyo-sex-industry-street-workers-on-rise"
   ],
   [
-    "rogers",
+    "vote",
     18,
-    "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
+    "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/california-billionaire-tax"
   ],
   [
     "candidates",
@@ -151,34 +181,24 @@
     "https://www.theguardian.com/commentisfree/2026/nov/02/trump-peltola-alaska-republicans"
   ],
   [
-    "administration",
+    "campaign",
     17,
-    "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html"
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
   ],
   [
-    "vote",
+    "night",
     17,
-    "https://www.nytimes.com/2026/11/02/us/politics/cisa-election-security-midterms.html"
+    "https://www.theguardian.com/music/2026/nov/03/bernie-taupin-interview-elton-john-rodeos-rocket-man"
   ],
   [
-    "case",
+    "school",
     17,
-    "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html"
+    "https://www.theguardian.com/us-news/2026/nov/02/james-talarico-texas-senate-midterm-elections"
   ],
   [
-    "price",
+    "body",
     17,
-    "https://www.nytimes.com/2026/11/02/arts/television/streaming-tv-era-cost.html"
-  ],
-  [
-    "stevens",
-    17,
-    "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
-  ],
-  [
-    "district",
-    17,
-    "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide"
+    "https://www.theguardian.com/us-news/2026/nov/02/tennessee-shooting-tyrin-johnson-video"
   ],
   [
     "donald",
@@ -186,69 +206,84 @@
     "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html"
   ],
   [
-    "ballot",
+    "sayed",
     16,
-    "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html"
+    "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html"
   ],
   [
-    "country",
+    "haley",
     16,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
-  ],
-  [
-    "candidate",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/02/wicker-4dx-olivia-colman-movie"
-  ],
-  [
-    "michigan",
-    16,
-    "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
+    "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html"
   ],
   [
     "party",
     16,
-    "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
-  ],
-  [
-    "young",
-    16,
-    "https://www.theguardian.com/us-news/2026/nov/02/investigators-florida-plane-crash"
+    "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html"
   ],
   [
     "don",
     16,
-    "https://www.theguardian.com/us-news/2026/nov/02/pennsylvania-measles-outbreak-amish"
+    "https://www.nytimes.com/2026/11/02/insider/midterm-election-reporting-michigan-politics.html"
   ],
   [
-    "video",
+    "young",
     16,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/31/yaga-folk-horror-hudson-williams-carrie-anne-moss"
-  ],
-  [
-    "voter",
-    15,
-    "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html"
-  ],
-  [
-    "florida",
-    15,
     "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html"
   ],
   [
-    "north",
-    15,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "races",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/nov/02/the-gilded-age-review-what-did-we-do-to-deserve-such-a-terrible-stinker"
   ],
   [
-    "abdul",
-    15,
-    "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
+    "seat",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/nov/02/wicker-4dx-olivia-colman-movie"
   ],
   [
-    "mike",
+    "students",
+    16,
+    "https://www.theguardian.com/world/2026/nov/03/our-aim-is-that-children-are-protected-besieged-west-bank-school-fortifies-its-defences-against-settler-violence"
+  ],
+  [
+    "halloween",
+    16,
+    "https://www.theguardian.com/film/2026/nov/02/taika-waititi-lambasts-critics-after-klara-and-the-sun-box-office-disaster"
+  ],
+  [
+    "country",
     15,
-    "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
+    "https://www.nytimes.com/2026/11/02/us/politics/trump-midterms-election-fraud-reward.html"
+  ],
+  [
+    "change",
+    15,
+    "https://www.nytimes.com/2026/11/02/science/florida-learjet-crash-causes.html"
+  ],
+  [
+    "john",
+    15,
+    "https://www.theguardian.com/music/2026/nov/03/bernie-taupin-interview-elton-john-rodeos-rocket-man"
+  ],
+  [
+    "full",
+    15,
+    "https://www.theguardian.com/music/2026/nov/03/bernie-taupin-interview-elton-john-rodeos-rocket-man"
+  ],
+  [
+    "rogers",
+    15,
+    "https://www.theguardian.com/us-news/2026/nov/02/haley-stevens-israel-aipac"
+  ],
+  [
+    "game",
+    15,
+    "https://www.theguardian.com/sport/2026/nov/02/lions-give-positive-update-on-jack-campbell-after-scary-neck-injury-sends-linebacker-to-hospital"
+  ],
+  [
+    "social",
+    15,
+    "https://www.theguardian.com/science/2026/nov/02/tender-bond-male-donkey-bull-baffles-scientists"
   ],
   [
     "filter",
@@ -261,74 +296,29 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "republicans",
+    "abdul",
     14,
-    "https://www.nytimes.com/2026/11/02/us/politics/trump-immigration-crackdown-backlash-republicans.html"
+    "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html"
   ],
   [
-    "health",
+    "strikes",
     14,
-    "https://www.nytimes.com/2026/11/02/well/kratom-wellness-marketing-addiction.html"
+    "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html"
   ],
   [
     "war",
     14,
-    "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html"
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "media",
+    "released",
     14,
-    "https://www.nytimes.com/2026/11/02/nyregion/forager-robin-greenfield.html"
-  ],
-  [
-    "judge",
-    14,
-    "https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charges-midterms.html"
-  ],
-  [
-    "everything",
-    14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "term",
-    14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
     "past",
     14,
     "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "latest",
-    14,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "billionaire",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires"
-  ],
-  [
-    "general",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/02/xavier-becerra-california-governor-race"
-  ],
-  [
-    "final",
-    14,
-    "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
-  ],
-  [
-    "haley",
-    14,
-    "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
-  ],
-  [
-    "fbi",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/02/fbi-douglas-depodesta-trump-lawsuit-doj"
   ],
   [
     "feel",
@@ -341,14 +331,19 @@
     "https://www.theguardian.com/tv-and-radio/2026/nov/02/the-gilded-age-review-what-did-we-do-to-deserve-such-a-terrible-stinker"
   ],
   [
-    "win",
+    "something",
     14,
-    "https://www.theguardian.com/commentisfree/2026/nov/02/how-you-yes-you-can-fight-dark-money-in-elections"
+    "https://www.theguardian.com/news/ng-interactive/2026/nov/03/my-secret-life-as-a-relapsed-alcoholic-addiction-sober"
   ],
   [
     "cat",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/oct/31/yaga-folk-horror-hudson-williams-carrie-anne-moss"
+    "https://www.theguardian.com/lifeandstyle/2026/nov/03/the-pest-i-ll-never-forget-cats-filled-house-with-live-mice"
+  ],
+  [
+    "games",
+    14,
+    "https://www.theguardian.com/sport/2026/nov/02/bears-seahawks-caleb-williams-jeffery-simmons-monday-night-football"
   ],
   [
     "amendment",
@@ -356,23 +351,28 @@
     "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide"
   ],
   [
-    "security",
+    "local",
     13,
-    "https://www.nytimes.com/2026/11/02/us/politics/cisa-election-security-midterms.html"
+    "https://www.nytimes.com/2026/11/02/us/politics/trump-midterms-election-fraud-reward.html"
   ],
   [
-    "plane",
+    "states",
     13,
-    "https://www.nytimes.com/2026/11/01/us/learjet-crash-florida-palm-beach.html"
+    "https://www.nytimes.com/2026/11/02/insider/midterm-election-reporting-michigan-politics.html"
   ],
   [
-    "crash",
+    "job",
     13,
-    "https://www.nytimes.com/2026/11/01/us/learjet-crash-florida-palm-beach.html"
+    "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html"
   ],
   [
-    "killed",
+    "far",
     13,
-    "https://www.nytimes.com/2026/11/01/us/learjet-crash-florida-palm-beach.html"
+    "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html"
+  ],
+  [
+    "everything",
+    13,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ]
 ];
