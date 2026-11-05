@@ -2,363 +2,323 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "democrats",
-    115,
-    "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html"
+    102,
+    "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html"
   ],
   [
     "trump",
-    112,
-    "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html"
+    87,
+    "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html"
   ],
   [
     "midterm",
-    78,
-    "https://www.theguardian.com/us-news/2026/nov/04/us-midterms-is-it-the-end-for-trump"
+    80,
+    "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html"
   ],
   [
     "senate",
-    51,
-    "https://www.theguardian.com/us-news/2026/nov/04/us-midterms-is-it-the-end-for-trump"
-  ],
-  [
-    "republican",
-    48,
-    "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html"
-  ],
-  [
-    "election",
-    45,
-    "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html"
-  ],
-  [
-    "elections",
-    45,
-    "https://www.theguardian.com/us-news/2026/nov/04/us-midterms-is-it-the-end-for-trump"
-  ],
-  [
-    "control",
-    39,
-    "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html"
+    46,
+    "https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html"
   ],
   [
     "president",
-    38,
-    "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html"
+    43,
+    "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html"
+  ],
+  [
+    "elections",
+    42,
+    "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html"
   ],
   [
     "results",
-    38,
-    "https://www.theguardian.com/us-news/2026/nov/04/us-midterms-is-it-the-end-for-trump"
+    42,
+    "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race"
   ],
   [
-    "republicans",
+    "election",
     38,
-    "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates"
+    "https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html"
+  ],
+  [
+    "war",
+    36,
+    "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html"
   ],
   [
     "voters",
     36,
-    "https://www.theguardian.com/us-news/2026/nov/04/us-midterms-is-it-the-end-for-trump"
+    "https://www.theguardian.com/us-news/2026/nov/04/susan-collins-senate-defeat-troy-jackson"
   ],
   [
-    "congress",
+    "republicans",
     34,
-    "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html"
+    "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html"
   ],
   [
     "party",
+    34,
+    "https://www.nytimes.com/2026/11/04/us/trump-midterms-ballroom.html"
+  ],
+  [
+    "republican",
     33,
-    "https://www.theguardian.com/us-news/2026/nov/04/us-midterms-is-it-the-end-for-trump"
-  ],
-  [
-    "democratic",
-    29,
-    "https://www.theguardian.com/us-news/2026/nov/04/democrat-midterm-election-remarks"
-  ],
-  [
-    "won",
-    28,
-    "https://www.theguardian.com/us-news/2026/nov/04/us-midterms-is-it-the-end-for-trump"
+    "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race"
   ],
   [
     "midterms",
+    32,
+    "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html"
+  ],
+  [
+    "iran",
+    28,
+    "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html"
+  ],
+  [
+    "win",
+    28,
+    "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html"
+  ],
+  [
+    "congress",
     26,
-    "https://www.theguardian.com/us-news/2026/nov/04/us-midterms-is-it-the-end-for-trump"
+    "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis"
   ],
   [
-    "power",
-    25,
-    "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html"
-  ],
-  [
-    "war",
-    25,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "insurance",
+    "race",
     24,
-    "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html"
+    "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race"
+  ],
+  [
+    "control",
+    24,
+    "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis"
+  ],
+  [
+    "blue",
+    24,
+    "https://www.theguardian.com/us-news/2026/nov/04/susan-collins-senate-defeat-troy-jackson"
   ],
   [
     "texas",
     23,
-    "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html"
+    "https://www.theguardian.com/commentisfree/2026/nov/04/democrats-elected-us-awakening"
   ],
   [
-    "win",
-    23,
-    "https://www.nytimes.com/2026/11/04/opinion/trump-democrats-midterms.html"
+    "democratic",
+    22,
+    "https://www.nytimes.com/2026/11/04/opinion/ezra-klein-podcast-aaron-retica-midterm-2026.html"
   ],
   [
-    "donald",
-    23,
-    "https://www.theguardian.com/us-news/2026/nov/04/us-midterms-is-it-the-end-for-trump"
+    "food",
+    22,
+    "https://www.theguardian.com/news/ng-interactive/2026/nov/05/lab-grown-meat-save-the-world-food-revolution-climate-crisis-food-system"
   ],
   [
-    "states",
-    23,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-election-results-maps-guide"
+    "power",
+    21,
+    "https://www.nytimes.com/2026/11/04/us/politics/trump-new-role-lame-duck.html"
+  ],
+  [
+    "country",
+    21,
+    "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html"
+  ],
+  [
+    "wins",
+    21,
+    "https://www.theguardian.com/us-news/video/2026/nov/04/democrats-blue-tsunami-us-midterms"
   ],
   [
     "victory",
-    22,
-    "https://www.nytimes.com/2026/11/04/nyregion/pied-a-terre-mamdani-appeal-win-home-tax.html"
-  ],
-  [
-    "blue",
-    22,
-    "https://www.theguardian.com/us-news/2026/nov/04/democrat-midterm-election-remarks"
-  ],
-  [
-    "losses",
-    22,
-    "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates"
-  ],
-  [
-    "gop",
-    22,
-    "https://www.foxnews.com/politics/majority-leader-thune-says-senate-gop-wont-stand-idly-by-democrats-take-control-congress"
-  ],
-  [
-    "california",
-    21,
-    "https://www.theguardian.com/us-news/2026/nov/04/california-22nd-district-house-midterms"
-  ],
-  [
-    "body",
-    21,
-    "https://www.theguardian.com/us-news/2026/nov/04/jon-rosenthal-texas-railroad-commissioner"
-  ],
-  [
-    "democrat",
     20,
-    "https://www.nytimes.com/2026/11/04/us/politics/hakeem-jeffries-what-to-know.html"
+    "https://www.nytimes.com/2026/11/04/us/golden-state-valkyries-san-francisco-parade.html"
   ],
   [
-    "victories",
+    "races",
     20,
-    "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates"
+    "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis"
   ],
   [
-    "political",
+    "states",
     20,
     "https://www.theguardian.com/us-news/2026/nov/04/susan-collins-senate-defeat-troy-jackson"
   ],
   [
-    "night",
+    "body",
     20,
-    "https://www.theguardian.com/us-news/2026/nov/04/reactions-midterm-election-results-democrats"
-  ],
-  [
-    "york",
-    19,
-    "https://www.nytimes.com/2026/11/04/us/politics/hakeem-jeffries-what-to-know.html"
-  ],
-  [
-    "wins",
-    19,
-    "https://www.theguardian.com/us-news/2026/nov/04/california-22nd-district-house-midterms"
-  ],
-  [
-    "full",
-    19,
-    "https://www.theguardian.com/sport/2026/nov/04/jack-campbell-injury-update-nfl"
-  ],
-  [
-    "term",
-    18,
-    "https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html"
-  ],
-  [
-    "movement",
-    18,
-    "https://www.theguardian.com/lifeandstyle/2026/nov/04/why-tradwives-are-fleeing-the-movement-i-cant-undo-my-past-but-i-can-warn-other-women"
-  ],
-  [
-    "iran",
-    18,
-    "https://www.theguardian.com/us-news/2026/nov/04/democrat-midterm-election-remarks"
-  ],
-  [
-    "containers",
-    18,
-    "https://www.theguardian.com/thefilter-us/2026/oct/29/products-you-loved-in-october"
-  ],
-  [
-    "food",
-    17,
-    "https://www.theguardian.com/thefilter-us/2026/oct/29/products-you-loved-in-october"
-  ],
-  [
-    "american",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/nov/03/trump-republicans-democrats-unpopular"
-  ],
-  [
-    "seat",
-    16,
-    "https://www.theguardian.com/us-news/2026/nov/04/democrat-midterm-election-remarks"
+    "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed"
   ],
   [
     "historic",
-    16,
-    "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates"
+    19,
+    "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html"
   ],
   [
-    "love",
-    16,
-    "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates"
+    "american",
+    19,
+    "https://www.nytimes.com/2026/11/04/us/politics/trump-new-role-lame-duck.html"
   ],
   [
-    "district",
-    16,
-    "https://www.theguardian.com/us-news/2026/nov/04/california-22nd-district-house-midterms"
+    "night",
+    19,
+    "https://www.nytimes.com/2026/11/04/nyregion/katie-suarez-stabbing-brooklyn-jogger-nyc.html"
   ],
   [
-    "majority",
-    16,
-    "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud"
+    "containers",
+    19,
+    "https://www.theguardian.com/news/ng-interactive/2026/nov/05/lab-grown-meat-save-the-world-food-revolution-climate-crisis-food-system"
   ],
   [
-    "series",
-    15,
-    "https://www.nytimes.com/2026/11/04/movies/dune-part-three-timothee-chalamet-zendaya-robert-pattinson.html"
+    "vote",
+    19,
+    "https://www.theguardian.com/us-news/2026/nov/05/democrats-trump-foreign-policy-analysis"
   ],
   [
     "questions",
+    18,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "donald",
+    18,
+    "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race"
+  ],
+  [
+    "plastic",
+    17,
+    "https://www.theguardian.com/news/ng-interactive/2026/nov/05/lab-grown-meat-save-the-world-food-revolution-climate-crisis-food-system"
+  ],
+  [
+    "political",
+    17,
+    "https://www.theguardian.com/travel/2026/nov/05/locals-guide-belgrade-best-sights-restaurants-nightlife"
+  ],
+  [
+    "full",
+    17,
+    "https://www.theguardian.com/travel/2026/nov/05/locals-guide-belgrade-best-sights-restaurants-nightlife"
+  ],
+  [
+    "history",
+    17,
+    "https://www.theguardian.com/us-news/2026/nov/04/us-midterms-historic-firsts"
+  ],
+  [
+    "health",
+    17,
+    "https://www.theguardian.com/film/2026/nov/05/being-heumann-review-disability-rights-judy-heumann"
+  ],
+  [
+    "movement",
+    16,
+    "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html"
+  ],
+  [
+    "review",
+    16,
+    "https://www.theguardian.com/books/2026/nov/05/american-hagwon-by-min-jin-lee-review-a-gloriously-immersive-follow-up-to-pachinko"
+  ],
+  [
+    "late",
+    16,
+    "https://www.theguardian.com/books/2026/nov/05/american-hagwon-by-min-jin-lee-review-a-gloriously-immersive-follow-up-to-pachinko"
+  ],
+  [
+    "death",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/nov/05/rory-kinnear-father-roy-death"
+  ],
+  [
+    "gop",
+    16,
+    "https://www.theguardian.com/us-news/video/2026/nov/04/democrats-blue-tsunami-us-midterms"
+  ],
+  [
+    "filter",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/nov/04/ohom-ui-ceramic-self-heating-mug-review"
+  ],
+  [
+    "star",
+    16,
+    "https://www.theguardian.com/sport/2026/nov/04/mark-teixeira-michele-tafoya-midterm-elections"
+  ],
+  [
+    "season",
     15,
-    "https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html"
+    "https://www.nytimes.com/2025/09/14/us/valkyries-wnba-playoffs.html"
+  ],
+  [
+    "california",
+    15,
+    "https://www.theguardian.com/books/2026/nov/05/american-hagwon-by-min-jin-lee-review-a-gloriously-immersive-follow-up-to-pachinko"
+  ],
+  [
+    "game",
+    15,
+    "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race"
   ],
   [
     "wave",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/nov/04/why-tradwives-are-fleeing-the-movement-i-cant-undo-my-past-but-i-can-warn-other-women"
+    "https://www.theguardian.com/us-news/2026/nov/04/susan-collins-senate-defeat-troy-jackson"
   ],
   [
-    "death",
+    "blender",
     15,
-    "https://www.theguardian.com/film/2026/nov/04/is-daniel-craig-the-most-ruthless-killer-in-james-bond-history-his-plan-to-bump-off-judi-denchs-m-says-yes"
+    "https://www.theguardian.com/thefilter-us/best-blenders"
   ],
   [
-    "james",
-    15,
-    "https://www.theguardian.com/film/2026/nov/04/is-daniel-craig-the-most-ruthless-killer-in-james-bond-history-his-plan-to-bump-off-judi-denchs-m-says-yes"
-  ],
-  [
-    "because",
-    15,
-    "https://www.theguardian.com/film/2026/nov/04/is-daniel-craig-the-most-ruthless-killer-in-james-bond-history-his-plan-to-bump-off-judi-denchs-m-says-yes"
-  ],
-  [
-    "races",
-    15,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-election-results-maps-guide"
-  ],
-  [
-    "filter",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/oct/29/products-you-loved-in-october"
-  ],
-  [
-    "leader",
-    15,
-    "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats"
-  ],
-  [
-    "business",
+    "culture",
     14,
-    "https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html"
+    "https://www.theguardian.com/books/2026/nov/05/american-hagwon-by-min-jin-lee-review-a-gloriously-immersive-follow-up-to-pachinko"
   ],
   [
-    "country",
+    "final",
     14,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.theguardian.com/books/2026/nov/05/american-hagwon-by-min-jin-lee-review-a-gloriously-immersive-follow-up-to-pachinko"
   ],
   [
-    "race",
+    "government",
     14,
-    "https://www.theguardian.com/us-news/2026/nov/04/california-22nd-district-house-midterms"
+    "https://www.theguardian.com/world/commentisfree/2026/nov/05/czechia-government-culture-war-maga-europe"
   ],
   [
-    "elected",
+    "won",
     14,
-    "https://www.theguardian.com/us-news/2026/nov/04/jon-rosenthal-texas-railroad-commissioner"
+    "https://www.theguardian.com/travel/2026/nov/05/locals-guide-belgrade-best-sights-restaurants-nightlife"
   ],
   [
-    "something",
+    "support",
     14,
-    "https://www.theguardian.com/commentisfree/2026/nov/04/robot-dogs-ice-dimensional-warhound"
+    "https://www.theguardian.com/us-news/2026/nov/05/trump-endorsed-republicans-lose-midterm-election-races"
   ],
   [
-    "guide",
+    "british",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/nov/03/anyday-anydeli-container-sale"
+    "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed"
   ],
   [
-    "washington",
+    "term",
     13,
-    "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html"
+    "https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html"
   ],
   [
-    "far",
+    "past",
     13,
-    "https://www.nytimes.com/2026/11/03/us/florida-plane-crash-wreckage-recovered.html"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "global",
+    "book",
     13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/books/2026/nov/05/american-hagwon-by-min-jin-lee-review-a-gloriously-immersive-follow-up-to-pachinko"
   ],
   [
-    "latest",
+    "media",
     13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "updates",
-    13,
-    "https://www.theguardian.com/us-news/2026/nov/04/us-midterms-is-it-the-end-for-trump"
-  ],
-  [
-    "late",
-    13,
-    "https://www.theguardian.com/film/2026/nov/04/is-daniel-craig-the-most-ruthless-killer-in-james-bond-history-his-plan-to-bump-off-judi-denchs-m-says-yes"
-  ],
-  [
-    "started",
-    13,
-    "https://www.theguardian.com/artanddesign/2026/nov/04/smoke-bomb-road-cone-losing-mind-delton-barrett-best-photograph"
-  ],
-  [
-    "americans",
-    13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-election-results-maps-guide"
-  ],
-  [
-    "french",
-    13,
-    "https://www.theguardian.com/us-news/2026/nov/04/jon-rosenthal-texas-railroad-commissioner"
+    "https://www.theguardian.com/world/commentisfree/2026/nov/05/czechia-government-culture-war-maga-europe"
   ],
   [
     "storage",
@@ -366,13 +326,53 @@
     "https://www.theguardian.com/thefilter-us/2026/oct/29/products-you-loved-in-october"
   ],
   [
-    "london",
+    "rep",
     13,
-    "https://www.theguardian.com/commentisfree/2026/nov/04/pay-transparency-coworkers-earn-know-open-workers"
+    "https://www.cbsnews.com/video/rep-hillary-scholten-on-el-sayeds-senate-victory/"
   ],
   [
-    "game",
-    13,
-    "https://www.theguardian.com/sport/2026/nov/04/jack-campbell-injury-update-nfl"
+    "series",
+    12,
+    "https://www.nytimes.com/2026/11/04/movies/dune-part-three-timothee-chalamet-zendaya-robert-pattinson.html"
+  ],
+  [
+    "loss",
+    12,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "early",
+    12,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "school",
+    12,
+    "https://www.theguardian.com/books/2026/nov/05/american-hagwon-by-min-jin-lee-review-a-gloriously-immersive-follow-up-to-pachinko"
+  ],
+  [
+    "york",
+    12,
+    "https://www.theguardian.com/books/2026/nov/05/american-hagwon-by-min-jin-lee-review-a-gloriously-immersive-follow-up-to-pachinko"
+  ],
+  [
+    "nearly",
+    12,
+    "https://www.theguardian.com/books/2026/nov/05/american-hagwon-by-min-jin-lee-review-a-gloriously-immersive-follow-up-to-pachinko"
+  ],
+  [
+    "robert",
+    12,
+    "https://www.theguardian.com/world/commentisfree/2026/nov/05/czechia-government-culture-war-maga-europe"
+  ],
+  [
+    "love",
+    12,
+    "https://www.theguardian.com/tv-and-radio/2026/nov/05/rory-kinnear-father-roy-death"
+  ],
+  [
+    "democrat",
+    12,
+    "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race"
   ]
 ];
