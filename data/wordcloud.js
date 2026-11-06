@@ -2,143 +2,213 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    91,
-    "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html"
+    77,
+    "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html"
   ],
   [
     "democrats",
-    63,
-    "https://www.theguardian.com/us-news/2026/nov/05/who-is-nithya-raman-los-angeles-mayor"
+    66,
+    "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html"
   ],
   [
     "president",
-    50,
-    "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html"
-  ],
-  [
-    "war",
     33,
-    "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html"
-  ],
-  [
-    "midterms",
-    33,
-    "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html"
-  ],
-  [
-    "midterm",
-    32,
-    "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html"
-  ],
-  [
-    "republicans",
-    31,
-    "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html"
-  ],
-  [
-    "california",
-    30,
-    "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html"
-  ],
-  [
-    "election",
-    29,
-    "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html"
-  ],
-  [
-    "race",
-    28,
-    "https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html"
-  ],
-  [
-    "senate",
-    27,
-    "https://www.nytimes.com/2026/11/05/us/mississippi-senate-colom-hydesmith-votes.html"
+    "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html"
   ],
   [
     "democratic",
-    24,
-    "https://www.nytimes.com/2026/11/05/us/mississippi-senate-colom-hydesmith-votes.html"
+    32,
+    "https://www.nytimes.com/2026/11/06/us/politics/young-voters-democratic-wave-midterms.html"
   ],
   [
-    "voters",
-    24,
-    "https://www.theguardian.com/us-news/2026/nov/05/us-midterm-election-free-press"
+    "midterm",
+    30,
+    "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html"
   ],
   [
-    "republican",
-    24,
-    "https://www.theguardian.com/us-news/2026/nov/05/republicans-cruz-desantis-vance-midterm-rout"
+    "republicans",
+    29,
+    "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html"
   ],
   [
-    "death",
-    22,
-    "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html"
+    "midterms",
+    29,
+    "https://www.theguardian.com/community/live/2026/nov/05/what-happens-after-the-blue-wave-our-reporters-answer-your-midterm-election-results-questions"
   ],
   [
-    "brand",
-    22,
-    "https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html"
+    "game",
+    29,
+    "https://www.theguardian.com/sport/2026/nov/06/yaxel-lendeborg-golden-state-warriors-nba-rookie-media-training"
   ],
   [
-    "country",
-    22,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "chief",
+    28,
+    "https://www.nytimes.com/video/us/elections/100000011265557/the-voters-who-powered-the-blue-tsunami.html"
   ],
   [
-    "iran",
-    21,
-    "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html"
-  ],
-  [
-    "office",
-    21,
-    "https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html"
-  ],
-  [
-    "donald",
-    21,
-    "https://www.theguardian.com/us-news/2026/nov/05/us-midterm-election-free-press"
+    "staff",
+    28,
+    "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates"
   ],
   [
     "political",
-    21,
-    "https://www.theguardian.com/us-news/2026/nov/05/los-angeles-mayor-nithya-raman-karen-bass"
+    27,
+    "https://www.nytimes.com/video/us/elections/100000011265557/the-voters-who-powered-the-blue-tsunami.html"
   ],
   [
-    "ukraine",
-    20,
-    "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html"
+    "child",
+    27,
+    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
   ],
   [
-    "win",
-    20,
-    "https://www.theguardian.com/us-news/2026/nov/05/who-is-nithya-raman-los-angeles-mayor"
+    "voters",
+    25,
+    "https://www.nytimes.com/2026/11/06/us/politics/young-voters-democratic-wave-midterms.html"
   ],
   [
-    "power",
-    19,
-    "https://www.theguardian.com/us-news/2026/nov/05/us-midterm-election-free-press"
+    "death",
+    25,
+    "https://www.washingtonpost.com/nation/2026/11/06/three-states-indiana-florida-alabama-carried-out-executions-thursday/"
   ],
   [
-    "elections",
-    18,
-    "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html"
+    "senate",
+    24,
+    "https://www.nytimes.com/2026/11/06/us/texas-governor-democrat-gina-hinojosa.html"
+  ],
+  [
+    "election",
+    23,
+    "https://www.washingtonpost.com/business/2026/11/06/asian-european-markets-slide-amid-fears-greater-ai-oversight/"
+  ],
+  [
+    "star",
+    23,
+    "https://www.theguardian.com/film/2026/nov/06/florence-pugh-dune-star-wars"
+  ],
+  [
+    "food",
+    23,
+    "https://www.theguardian.com/environment/2026/nov/06/alaska-juneau-food-access"
+  ],
+  [
+    "texas",
+    22,
+    "https://www.nytimes.com/2026/11/06/us/texas-governor-democrat-gina-hinojosa.html"
+  ],
+  [
+    "florida",
+    22,
+    "https://www.washingtonpost.com/nation/2026/11/06/three-states-indiana-florida-alabama-carried-out-executions-thursday/"
   ],
   [
     "party",
-    18,
-    "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html"
+    22,
+    "https://www.theguardian.com/commentisfree/2026/nov/06/us-midterms-democratic-party-israel-support"
+  ],
+  [
+    "blue",
+    21,
+    "https://www.nytimes.com/video/us/elections/100000011265557/the-voters-who-powered-the-blue-tsunami.html"
+  ],
+  [
+    "won",
+    21,
+    "https://www.nytimes.com/2026/11/06/us/texas-governor-democrat-gina-hinojosa.html"
+  ],
+  [
+    "states",
+    21,
+    "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html"
+  ],
+  [
+    "sexual",
+    21,
+    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
+  ],
+  [
+    "brand",
+    21,
+    "https://www.theguardian.com/culture/2026/nov/06/why-did-russell-brand-convert-to-christianity"
+  ],
+  [
+    "family",
+    20,
+    "https://www.nytimes.com/2026/11/06/us/politics/jay-rockefeller-dead.html"
+  ],
+  [
+    "california",
+    20,
+    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
+  ],
+  [
+    "court",
+    20,
+    "https://www.washingtonpost.com/politics/2026/11/05/gops-losses-will-raise-pressure-conservative-supreme-court-justices-retire/"
+  ],
+  [
+    "south",
+    20,
+    "https://www.washingtonpost.com/nation/2026/11/04/helicopter-crash-bay-near-miami-kills-one-injures-two/"
+  ],
+  [
+    "early",
+    20,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "wiles",
+    20,
+    "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates"
+  ],
+  [
+    "far",
+    19,
+    "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html"
+  ],
+  [
+    "country",
+    19,
+    "https://www.nytimes.com/2026/11/06/opinion/trump-tariffs-economy.html"
+  ],
+  [
+    "father",
+    19,
+    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
+  ],
+  [
+    "stephen",
+    19,
+    "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates"
+  ],
+  [
+    "miller",
+    19,
+    "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates"
   ],
   [
     "night",
-    18,
-    "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html"
+    19,
+    "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"
   ],
   [
-    "climate",
+    "politics",
     18,
-    "https://www.theguardian.com/environment/2026/nov/06/cop31-coal-turkey-fossil-fuel-reliance"
+    "https://www.nytimes.com/2026/11/06/us/politics/young-voters-democratic-wave-midterms.html"
+  ],
+  [
+    "film",
+    18,
+    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
+  ],
+  [
+    "results",
+    18,
+    "https://www.washingtonpost.com/business/2026/11/06/asian-european-markets-slide-amid-fears-greater-ai-oversight/"
+  ],
+  [
+    "susie",
+    18,
+    "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates"
   ],
   [
     "containers",
@@ -146,59 +216,69 @@
     "https://www.theguardian.com/thefilter-us/2026/oct/29/products-you-loved-in-october"
   ],
   [
+    "republican",
+    17,
+    "https://www.nytimes.com/video/us/elections/100000011265557/the-voters-who-powered-the-blue-tsunami.html"
+  ],
+  [
+    "children",
+    17,
+    "https://www.nytimes.com/2026/11/06/us/politics/jay-rockefeller-dead.html"
+  ],
+  [
+    "sayed",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/nov/06/us-midterms-democratic-party-israel-support"
+  ],
+  [
+    "love",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/nov/06/russell-brand-justice-comedy-other-abusers"
+  ],
+  [
+    "cup",
+    17,
+    "https://www.theguardian.com/sport/2026/nov/06/major-league-rugby-could-get-buffalo-team-amid-talks-with-17-other-locations"
+  ],
+  [
+    "elections",
+    16,
+    "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html"
+  ],
+  [
+    "law",
+    16,
+    "https://www.nytimes.com/2026/11/06/arts/design/titanic-artifacts-federal-judge-maritime-law.html"
+  ],
+  [
+    "experts",
+    16,
+    "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html"
+  ],
+  [
+    "win",
+    16,
+    "https://www.washingtonpost.com/nation/2026/11/06/bans-transgender-athletes-girls-sports-pass-colorado-washington-state/"
+  ],
+  [
+    "storage",
+    16,
+    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
+  ],
+  [
+    "social",
+    16,
+    "https://www.washingtonpost.com/education/2026/11/05/some-colleges-reined-frats-after-rapes-experts-urge-bigger-fix/"
+  ],
+  [
     "american",
-    17,
-    "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html"
-  ],
-  [
-    "food",
-    17,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/06/awkwafina-the-unlikely-cook-review"
-  ],
-  [
-    "because",
-    17,
-    "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses"
-  ],
-  [
-    "record",
-    17,
-    "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses"
-  ],
-  [
-    "results",
     16,
-    "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html"
+    "https://www.theguardian.com/commentisfree/2026/nov/06/us-midterms-democratic-party-israel-support"
   ],
   [
-    "hegseth",
+    "season",
     16,
-    "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html"
-  ],
-  [
-    "rights",
-    16,
-    "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html"
-  ],
-  [
-    "russell",
-    16,
-    "https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html"
-  ],
-  [
-    "questions",
-    16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "crisis",
-    16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "school",
-    16,
-    "https://www.theguardian.com/culture/2026/nov/05/the-downfall-of-russell-brand-from-big-brother-and-hollywood-to-convicted-rapist"
+    "https://www.theguardian.com/environment/2026/nov/06/new-mexico-alien-throne-collapse-el-nino-rain"
   ],
   [
     "filter",
@@ -206,34 +286,34 @@
     "https://www.theguardian.com/thefilter-us/2026/nov/05/best-jeans-women-over-40"
   ],
   [
-    "judge",
+    "jobs",
     15,
-    "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html"
+    "https://www.nytimes.com/2026/11/06/us/politics/young-voters-democratic-wave-midterms.html"
   ],
   [
-    "fire",
+    "gop",
     15,
-    "https://www.nytimes.com/2026/11/06/us/lakewood-police-shooting-colorado-bus-dead.html"
+    "https://www.washingtonpost.com/politics/2026/11/05/gops-losses-will-raise-pressure-conservative-supreme-court-justices-retire/"
   ],
   [
-    "feeling",
+    "media",
     15,
-    "https://www.theguardian.com/us-news/2026/nov/05/us-midterm-election-free-press"
+    "https://www.washingtonpost.com/lifestyle/2026/11/05/her-house-was-flooding-teens-came-rescue-paddleboard-kayak/"
   ],
   [
-    "review",
+    "team",
     15,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/06/awkwafina-the-unlikely-cook-review"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "don",
+    "announced",
     15,
-    "https://www.theguardian.com/environment/2026/nov/06/cop31-coal-turkey-fossil-fuel-reliance"
+    "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
   ],
   [
-    "something",
+    "late",
     15,
-    "https://www.theguardian.com/travel/2026/nov/06/readers-travel-tips-best-conservation-tourism-holidays"
+    "https://www.theguardian.com/us-news/2026/nov/06/ohio-democrats-midterms-working-class-labor"
   ],
   [
     "blender",
@@ -241,138 +321,58 @@
     "https://www.theguardian.com/thefilter-us/best-blenders"
   ],
   [
-    "gop",
-    15,
-    "https://www.latimes.com/business/story/2026-11-05/what-democratic-landslide-means-for-gop-booster-elon-musk-his-businesses"
+    "production",
+    14,
+    "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html"
   ],
   [
-    "court",
+    "wave",
     14,
-    "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html"
+    "https://www.washingtonpost.com/nation/2026/11/06/bans-transgender-athletes-girls-sports-pass-colorado-washington-state/"
   ],
   [
-    "administration",
+    "arrested",
     14,
-    "https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html"
+    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
   ],
   [
-    "south",
+    "donald",
     14,
-    "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html"
+    "https://www.washingtonpost.com/politics/2026/11/05/how-democrats-turned-texas-blue/"
   ],
   [
-    "least",
+    "something",
     14,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+    "https://www.washingtonpost.com/business/2026/11/04/stocks-surged-oil-prices-fell-markets-responded-midterm-rout/"
   ],
   [
-    "family",
+    "record",
     14,
-    "https://www.theguardian.com/culture/2026/nov/05/the-downfall-of-russell-brand-from-big-brother-and-hollywood-to-convicted-rapist"
+    "https://www.theguardian.com/us-news/2026/nov/06/latino-voters-midterms-republicans-trump"
   ],
   [
-    "races",
+    "russell",
     14,
-    "https://www.theguardian.com/us-news/2026/nov/05/republicans-cruz-desantis-vance-midterm-rout"
+    "https://www.theguardian.com/culture/2026/nov/06/why-did-russell-brand-convert-to-christianity"
   ],
   [
-    "russia",
+    "fashion",
     14,
-    "https://www.theguardian.com/us-news/2026/nov/05/melania-trump-white-house-visit-ukraine-russia"
-  ],
-  [
-    "sex",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/05/washington-ballot-measure-trans-athlete-ban"
+    "https://www.theguardian.com/fashion/2026/nov/06/prince-pope-autumn-2026-purple-hot-this-season"
   ],
   [
     "book",
     14,
-    "https://www.theguardian.com/books/2026/nov/06/true-north-by-paul-theroux-review-an-americans-view-of-canada"
+    "https://www.theguardian.com/commentisfree/2026/nov/06/i-have-flung-myself-headfirst-into-sarah-j-maass-romantasy-universe-and-i-find-myself-a-changed-woman"
   ],
   [
-    "body",
+    "nba",
     14,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/05/black-doves-review-keira-knightley-ben-whishaw"
+    "https://www.theguardian.com/sport/2026/nov/06/yaxel-lendeborg-golden-state-warriors-nba-rookie-media-training"
   ],
   [
-    "storage",
+    "games",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/oct/29/products-you-loved-in-october"
-  ],
-  [
-    "raman",
-    13,
-    "https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html"
-  ],
-  [
-    "los",
-    13,
-    "https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html"
-  ],
-  [
-    "angeles",
-    13,
-    "https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html"
-  ],
-  [
-    "police",
-    13,
-    "https://www.nytimes.com/2026/11/06/us/lakewood-police-shooting-colorado-bus-dead.html"
-  ],
-  [
-    "already",
-    13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "john",
-    13,
-    "https://www.theguardian.com/music/2026/nov/06/its-a-new-world-its-a-little-fascistic-and-it-needs-a-different-response-u2-on-50-years-together-and-their-undimmed-faith-in-humanity"
-  ],
-  [
-    "game",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/06/awkwafina-the-unlikely-cook-review"
-  ],
-  [
-    "government",
-    13,
-    "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision"
-  ],
-  [
-    "energy",
-    13,
-    "https://www.theguardian.com/environment/2026/nov/06/cop31-coal-turkey-fossil-fuel-reliance"
-  ],
-  [
-    "money",
-    13,
-    "https://www.theguardian.com/global-development/2026/nov/06/india-textile-recycling-industry-workers-factories-accidents-safety-amputations"
-  ],
-  [
-    "sports",
-    13,
-    "https://www.theguardian.com/us-news/2026/nov/05/washington-ballot-measure-trans-athlete-ban"
-  ],
-  [
-    "google",
-    13,
-    "https://www.theguardian.com/technology/2026/nov/05/california-children-social-media-lawsuit-tiktok-google-meta"
-  ],
-  [
-    "social",
-    13,
-    "https://www.theguardian.com/technology/2026/nov/05/california-children-social-media-lawsuit-tiktok-google-meta"
-  ],
-  [
-    "york",
-    13,
-    "https://www.theguardian.com/sport/2026/nov/05/us-midterms-sports-owners-republicans-democrats-gambling-stadiums"
-  ],
-  [
-    "didn",
-    12,
-    "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html"
+    "https://www.theguardian.com/football/live/2026/nov/06/everton-v-coventry-city-premier-league-live-updates"
   ]
 ];
