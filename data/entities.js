@@ -9,205 +9,187 @@
     },
     {
       "name": "The White House",
-      "count": 37,
+      "count": 18,
       "url": "https://www.latimes.com/politics/story/2026-11-06/midterm-results-could-shape-2028-presidential-dialogue",
       "source": "LA Times"
     },
     {
       "name": "Ai",
-      "count": 24,
+      "count": 17,
       "url": "https://www.washingtonpost.com/business/2026/11/06/asian-european-markets-slide-amid-fears-greater-ai-oversight/",
       "source": "Washington Post"
     },
     {
-      "name": "Mississippi Senate",
-      "count": 18,
-      "url": "https://thehill.com/homenews/senate/6205607-hyde-smith-colom-mississippi-senate/",
-      "source": "The Hill"
+      "name": "Michigan Senate",
+      "count": 15,
+      "url": "https://www.politico.com/news/2026/11/01/haley-stevens-endorses-mike-rogers-michigan-senate-01144698",
+      "source": "Politico"
     },
     {
       "name": "Gop",
-      "count": 16,
+      "count": 12,
       "url": "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/",
       "source": "Washington Post"
     },
     {
+      "name": "The Texas House",
+      "count": 10,
+      "url": "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
+    },
+    {
       "name": "Google Search",
-      "count": 11,
+      "count": 9,
       "url": "https://www.theguardian.com/technology/2026/nov/04/google-search-ai-schools",
       "source": "The Guardian"
     },
     {
       "name": "Guardian",
-      "count": 10,
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Filter Us",
-      "count": 9,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Congress",
       "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/surprising-wins-democrats-midterm-elections",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/pete-hegseth-midterms-consequences",
       "source": "The Guardian"
     },
     {
-      "name": "Nbc News",
-      "count": 7,
-      "url": "https://www.nbcnews.com/nightly-news/video/stephen-miller-named-as-new-white-house-chief-of-staff-273042501821",
-      "source": "NBC News"
+      "name": "The Republican Party",
+      "count": 6,
+      "url": "https://www.washingtonpost.com/elections/2026/11/07/floridas-most-venezuelan-city-put-republican-party-notice/",
+      "source": "Washington Post"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 45,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
+      "count": 39,
+      "url": "https://www.theguardian.com/thefilter-us/2026/nov/07/best-plastic-free-ice-cube-trays",
       "source": "The Guardian"
     },
     {
+      "name": "Florida",
+      "count": 18,
+      "url": "https://www.washingtonpost.com/nation/2026/11/07/tearful-father-young-florida-crash-co-pilot-aims-protect-her-legacy/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Israel",
+      "count": 18,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Texas",
+      "count": 15,
+      "url": "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/",
+      "source": "Washington Post"
+    },
+    {
       "name": "California",
-      "count": 28,
+      "count": 13,
       "url": "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/",
       "source": "Washington Post"
     },
     {
       "name": "U.S.",
-      "count": 21,
-      "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Florida",
-      "count": 18,
-      "url": "https://www.washingtonpost.com/nation/2026/11/07/does-floridas-narrow-escape-blue-wave-hold-lessons-republicans/",
+      "count": 11,
+      "url": "https://www.washingtonpost.com/nation/2026/11/07/when-great-grandson-an-enslaved-man-beat-grandson-president/",
       "source": "Washington Post"
-    },
-    {
-      "name": "Texas",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Israel",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Iran",
-      "count": 9,
-      "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
-      "source": "The Guardian"
     },
     {
       "name": "The City Of London",
-      "count": 9,
+      "count": 10,
       "url": "https://www.theguardian.com/books/2026/nov/06/taliban-alexander-the-great-baillie-gifford-edmund-richardson",
       "source": "The Guardian"
     },
     {
-      "name": "Uk",
-      "count": 8,
-      "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
-      "source": "The Guardian"
+      "name": "New York City",
+      "count": 10,
+      "url": "https://www.today.com/video/2026-rockefeller-center-christmas-tree-arrives-in-new-york-city-273069125683",
+      "source": "NBC News"
     },
     {
-      "name": "New York City’S",
-      "count": 8,
-      "url": "https://www.theguardian.com/music/2026/nov/06/macklemore-arenas-free-palestine-tour",
-      "source": "The Guardian"
+      "name": "Los Angeles City",
+      "count": 9,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Hollywood",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/11/07/style/illeana-douglas-the-women-cat-fight.html",
+      "source": "NY Times"
     }
   ],
   "PERSON": [
     {
+      "name": "Melania Trump",
+      "count": 21,
+      "url": "https://www.foxnews.com/politics/melania-trump-secures-7-2m-foster-care-scholarships-lsu-ahead-alabama-showdown",
+      "source": "Fox News"
+    },
+    {
+      "name": "Stephen Miller",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Donald Trump",
-      "count": 35,
+      "count": 10,
       "url": "https://www.washingtonpost.com/business/2026/11/06/industries-that-rely-immigrant-workers-decry-stephen-millers-promotion/",
       "source": "Washington Post"
     },
     {
-      "name": "Stephen Miller",
-      "count": 32,
-      "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Susie Wiles",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Abdul El-Sayed",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/midterms-israel-criticism",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Thomas Markle Sr.",
-      "count": 8,
-      "url": "https://www.foxnews.com/entertainment/meghan-markle-estrangement-father-thomas-markle-royal-wedding-fallout-arrest",
-      "source": "Fox News"
-    },
-    {
-      "name": "Maga",
-      "count": 6,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Novaya Gazeta",
-      "count": 6,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/moscow-novaya-gazeta-journalism-russia-newspaper",
-      "source": "The Guardian"
-    },
-    {
       "name": "Russell Brand",
-      "count": 6,
+      "count": 8,
       "url": "https://www.theguardian.com/commentisfree/2026/nov/06/russell-brand-justice-comedy-other-abusers",
       "source": "The Guardian"
     },
     {
-      "name": "Benjamin Netanyahu",
-      "count": 4,
+      "name": "Dana White",
+      "count": 8,
+      "url": "https://www.foxnews.com/outkick-sports/jackson-thompson-trump-says-offered-ufc-ceo-dana-white-press-secretary-job",
+      "source": "Fox News"
+    },
+    {
+      "name": "Susie Wiles",
+      "count": 7,
+      "url": "https://www.latimes.com/politics/story/2026-11-06/trump-names-stephen-miller-chief-of-staff-replacing-susie-wiles",
+      "source": "LA Times"
+    },
+    {
+      "name": "Gadi Eisenkot",
+      "count": 6,
+      "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Eisenkot Seeks",
+      "count": 6,
       "url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
       "source": "NY Times"
     },
     {
-      "name": "Michelle Yeoh",
-      "count": 4,
-      "url": "https://www.theguardian.com/film/2026/nov/07/michelle-yeoh-interview-blade-runner-2099-everything-everywhere-oscar",
+      "name": "Maga",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/flip-voters-trump-midterms",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The Animated Series",
-      "count": 3,
-      "url": "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Watergate",
-      "count": 2,
-      "url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Some Russian War Gains",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
-      "source": "NY Times"
-    },
-    {
       "name": "The Iran War",
-      "count": 1,
+      "count": 2,
       "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
       "source": "The Guardian"
     },
@@ -224,10 +206,34 @@
       "source": "The Guardian"
     },
     {
-      "name": "Patssi Valdez",
+      "name": "The Animated Series",
       "count": 1,
-      "url": "https://www.latimes.com/delos/story/2026-09-09/getty-museum-photos-every-minute-is-history-five-views-of-los-angeles-george-rodriguez-patssi-valdez-ricardo-valverde",
+      "url": "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympic",
+      "count": 1,
+      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-11-03/the-greatest-review-muhammad-ali-prime-video",
       "source": "LA Times"
+    },
+    {
+      "name": "L.A. City Charter Amendment La",
+      "count": 1,
+      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide",
+      "source": "LA Times"
+    },
+    {
+      "name": "Watergate",
+      "count": 1,
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
+      "source": "NPR"
+    },
+    {
+      "name": "The Holy War",
+      "count": 1,
+      "url": "https://www.foxnews.com/outkick-sports/no-3-utah-remains-undefeated-thrilling-win-no-9-byu-heisman-finalist-devon-dampier-epic-day",
+      "source": "Fox News"
     },
     {
       "name": "Black Friday",
@@ -236,5 +242,5 @@
       "source": "NBC News"
     }
   ],
-  "updated": "2026-11-07T13:50:07Z"
+  "updated": "2026-11-07T22:34:56Z"
 };
