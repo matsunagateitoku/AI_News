@@ -2,28 +2,28 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    101,
+    97,
     "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html"
   ],
   [
     "democrats",
-    54,
-    "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html"
+    58,
+    "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html"
   ],
   [
     "president",
-    51,
+    43,
     "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html"
   ],
   [
-    "democratic",
-    36,
-    "https://www.washingtonpost.com/nation/2026/11/06/texass-new-democratic-governor-hinojosa-vows-undo-policies-she-calls-divisive/"
+    "miller",
+    34,
+    "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html"
   ],
   [
-    "midterm",
-    34,
-    "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html"
+    "staff",
+    33,
+    "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html"
   ],
   [
     "chief",
@@ -31,24 +31,39 @@
     "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html"
   ],
   [
-    "staff",
+    "midterm",
     31,
+    "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html"
+  ],
+  [
+    "democratic",
+    31,
+    "https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html"
+  ],
+  [
+    "republicans",
+    30,
+    "https://www.nytimes.com/2026/11/07/us/turning-point-arizona-midterms.html"
+  ],
+  [
+    "stephen",
+    29,
     "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html"
   ],
   [
     "california",
     29,
-    "https://www.nytimes.com/2026/11/06/us/california-prosecutors-death-penalty.html"
+    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
   ],
   [
-    "political",
+    "voters",
     29,
-    "https://www.theguardian.com/world/2026/nov/07/interview-sonia-gandhi-rajiv-gandhi-assassination-memoir-extract"
+    "https://www.theguardian.com/us-news/2026/nov/07/black-voter-turnout-gerrymandering"
   ],
   [
-    "country",
-    27,
-    "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html"
+    "election",
+    28,
+    "https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html"
   ],
   [
     "senate",
@@ -56,24 +71,9 @@
     "https://www.washingtonpost.com/education/2026/11/06/cornell-faculty-senate-votes-no-confidence-university-leadership/"
   ],
   [
-    "miller",
+    "country",
     26,
-    "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html"
-  ],
-  [
-    "midterms",
-    26,
-    "https://www.nytimes.com/2026/11/06/nyregion/new-york-election-midterms-republicans-blakeman-stefanik.html"
-  ],
-  [
-    "election",
-    26,
-    "https://www.nytimes.com/2026/11/06/nyregion/new-york-election-midterms-republicans-blakeman-stefanik.html"
-  ],
-  [
-    "donald",
-    26,
-    "https://www.nytimes.com/video/opinion/100000011257733/what-to-expect-from-lame-duck-trump.html"
+    "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html"
   ],
   [
     "arrested",
@@ -81,14 +81,24 @@
     "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
   ],
   [
-    "republicans",
-    25,
-    "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html"
+    "midterms",
+    24,
+    "https://www.nytimes.com/2026/11/07/us/turning-point-arizona-midterms.html"
   ],
   [
-    "stephen",
+    "political",
     24,
-    "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html"
+    "https://www.washingtonpost.com/nation/2026/11/07/when-great-grandson-an-enslaved-man-beat-grandson-president/"
+  ],
+  [
+    "party",
+    23,
+    "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html"
+  ],
+  [
+    "blue",
+    23,
+    "https://www.washingtonpost.com/nation/2026/11/07/does-floridas-narrow-escape-blue-wave-hold-lessons-republicans/"
   ],
   [
     "child",
@@ -96,64 +106,34 @@
     "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
   ],
   [
-    "texas",
-    23,
-    "https://www.washingtonpost.com/nation/2026/11/06/texass-new-democratic-governor-hinojosa-vows-undo-policies-she-calls-divisive/"
+    "won",
+    22,
+    "https://www.washingtonpost.com/nation/2026/11/07/her-statue-liberty-tour-was-supposed-be-upbeat-then-she-erupted/"
+  ],
+  [
+    "father",
+    21,
+    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
   ],
   [
     "wiles",
-    22,
+    20,
     "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html"
   ],
   [
-    "politics",
-    21,
-    "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html"
-  ],
-  [
-    "party",
-    21,
-    "https://www.nytimes.com/2026/11/06/us/southern-democrats-georgia-north-carolina.html"
-  ],
-  [
-    "sexual",
-    21,
-    "https://www.nytimes.com/2026/11/06/nyregion/cornell-no-confidence-vote.html"
-  ],
-  [
-    "voters",
-    21,
-    "https://www.nytimes.com/2026/11/06/opinion/jd-vance-midterms.html"
-  ],
-  [
-    "love",
-    21,
-    "https://www.theguardian.com/thefilter-us/2026/nov/06/best-personalized-custom-gift-ideas"
-  ],
-  [
-    "night",
-    21,
-    "https://www.theguardian.com/us-news/2026/nov/06/latino-voters-midterms-republicans-trump"
-  ],
-  [
-    "elections",
+    "war",
     20,
-    "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html"
+    "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html"
   ],
   [
-    "south",
+    "black",
     20,
-    "https://www.nytimes.com/2026/11/06/us/southern-democrats-georgia-north-carolina.html"
+    "https://www.washingtonpost.com/obituaries/2026/11/07/martina-arroyo-was-luminous-star-opera-who-broke-racial-barriers/"
   ],
   [
-    "death",
+    "republican",
     20,
-    "https://www.nytimes.com/2026/11/06/nyregion/nyc-fire-deaths.html"
-  ],
-  [
-    "brand",
-    20,
-    "https://www.nytimes.com/2026/11/06/opinion/jd-vance-midterms.html"
+    "https://www.washingtonpost.com/nation/2026/11/06/texass-new-democratic-governor-hinojosa-vows-undo-policies-she-calls-divisive/"
   ],
   [
     "early",
@@ -161,109 +141,64 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "family",
+    "food",
     20,
-    "https://www.theguardian.com/world/2026/nov/07/interview-sonia-gandhi-rajiv-gandhi-assassination-memoir-extract"
+    "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study"
   ],
   [
-    "susie",
+    "wave",
     19,
     "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html"
   ],
   [
-    "health",
+    "politics",
     19,
-    "https://www.washingtonpost.com/health/2026/11/06/former-white-house-health-aide-accuses-trump-advisers-catering-special-interests/"
+    "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html"
   ],
   [
-    "father",
+    "night",
     19,
-    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
-  ],
-  [
-    "blue",
-    19,
-    "https://www.washingtonpost.com/nation/2026/11/06/bans-transgender-athletes-girls-sports-pass-colorado-washington-state/"
-  ],
-  [
-    "season",
-    18,
-    "https://www.theguardian.com/thefilter-us/2026/nov/06/best-personalized-custom-gift-ideas"
-  ],
-  [
-    "race",
-    18,
-    "https://www.theguardian.com/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers"
-  ],
-  [
-    "star",
-    18,
-    "https://www.theguardian.com/film/2026/nov/06/florence-pugh-dune-star-wars"
-  ],
-  [
-    "food",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/nov/07/freezer-meltdowns-airline-hoaxes-greyzone-aggression-europe"
-  ],
-  [
-    "southern",
-    17,
-    "https://www.nytimes.com/2026/11/06/us/southern-democrats-georgia-north-carolina.html"
-  ],
-  [
-    "tech",
-    17,
-    "https://www.washingtonpost.com/business/2026/11/06/asian-european-markets-slide-amid-fears-greater-ai-oversight/"
-  ],
-  [
-    "film",
-    17,
-    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
+    "https://www.nytimes.com/2026/11/07/opinion/midterms-democrats-won-agenda.html"
   ],
   [
     "florida",
+    19,
+    "https://www.washingtonpost.com/nation/2026/11/07/does-floridas-narrow-escape-blue-wave-hold-lessons-republicans/"
+  ],
+  [
+    "sexual",
+    19,
+    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
+  ],
+  [
+    "love",
+    19,
+    "https://www.theguardian.com/film/2026/nov/07/michelle-yeoh-interview-blade-runner-2099-everything-everywhere-oscar"
+  ],
+  [
+    "power",
+    18,
+    "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html"
+  ],
+  [
+    "susie",
+    18,
+    "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html"
+  ],
+  [
+    "death",
     17,
     "https://www.washingtonpost.com/nation/2026/11/06/three-states-indiana-florida-alabama-carried-out-executions-thursday/"
   ],
   [
-    "won",
+    "sayed",
     17,
-    "https://www.washingtonpost.com/nation/2026/11/05/democrats-wins-some-see-new-era-religious-left/"
-  ],
-  [
-    "far",
-    17,
-    "https://www.theguardian.com/world/2026/nov/07/interview-sonia-gandhi-rajiv-gandhi-assassination-memoir-extract"
-  ],
-  [
-    "children",
-    17,
-    "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested"
-  ],
-  [
-    "american",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/nov/06/us-midterms-democratic-party-israel-support"
+    "https://www.theguardian.com/commentisfree/2026/nov/07/midterms-israel-criticism"
   ],
   [
     "game",
     17,
-    "https://www.theguardian.com/football/2026/nov/06/everton-coventry-premier-league-match-report"
-  ],
-  [
-    "administration",
-    16,
-    "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html"
-  ],
-  [
-    "decision",
-    16,
-    "https://www.washingtonpost.com/education/2026/11/06/low-income-college-students-relied-campus-child-care-then-trump-cut-it/"
-  ],
-  [
-    "republican",
-    16,
-    "https://www.washingtonpost.com/nation/2026/11/06/texass-new-democratic-governor-hinojosa-vows-undo-policies-she-calls-divisive/"
+    "https://www.theguardian.com/tv-and-radio/2026/nov/07/the-good-daughter-rose-byrne-legal-thriller-peacock-sky-atlantic"
   ],
   [
     "decades",
@@ -271,108 +206,173 @@
     "https://www.washingtonpost.com/politics/2026/11/05/how-democrats-turned-texas-blue/"
   ],
   [
-    "power",
-    15,
-    "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html"
+    "far",
+    16,
+    "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu"
   ],
   [
-    "wave",
+    "brand",
+    16,
+    "https://www.theguardian.com/commentisfree/2026/nov/06/russell-brand-justice-comedy-other-abusers"
+  ],
+  [
+    "administration",
     15,
     "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html"
   ],
   [
-    "york",
+    "cat",
     15,
-    "https://www.nytimes.com/2026/11/06/nyregion/new-york-election-midterms-republicans-blakeman-stefanik.html"
+    "https://www.nytimes.com/2026/11/07/style/illeana-douglas-the-women-cat-fight.html"
   ],
   [
-    "questions",
+    "american",
     15,
-    "https://www.nytimes.com/2026/11/06/nyregion/nyc-fire-deaths.html"
+    "https://www.nytimes.com/2026/11/07/opinion/midterms-democrats-won-agenda.html"
   ],
   [
-    "victory",
+    "gop",
     15,
-    "https://www.washingtonpost.com/politics/2026/11/05/how-democrats-turned-texas-blue/"
+    "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/"
   ],
   [
-    "social",
+    "health",
     15,
-    "https://www.washingtonpost.com/education/2026/11/05/some-colleges-reined-frats-after-rapes-experts-urge-bigger-fix/"
+    "https://www.washingtonpost.com/health/2026/11/06/former-white-house-health-aide-accuses-trump-advisers-catering-special-interests/"
   ],
   [
-    "announced",
+    "don",
     15,
-    "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump"
+    "https://www.theguardian.com/film/2026/nov/07/michelle-yeoh-interview-blade-runner-2099-everything-everywhere-oscar"
   ],
   [
-    "blender",
+    "race",
     15,
-    "https://www.theguardian.com/thefilter-us/best-blenders"
+    "https://www.theguardian.com/commentisfree/2026/nov/07/midterms-israel-criticism"
   ],
   [
-    "lead",
+    "season",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/nov/06/best-personalized-custom-gift-ideas"
+  ],
+  [
+    "immigration",
     14,
-    "https://www.nytimes.com/2026/11/06/us/southern-democrats-georgia-north-carolina.html"
+    "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html"
+  ],
+  [
+    "elections",
+    14,
+    "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html"
+  ],
+  [
+    "results",
+    14,
+    "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html"
+  ],
+  [
+    "film",
+    14,
+    "https://www.nytimes.com/2026/11/07/style/illeana-douglas-the-women-cat-fight.html"
+  ],
+  [
+    "texas",
+    14,
+    "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/"
+  ],
+  [
+    "deep",
+    14,
+    "https://www.washingtonpost.com/nation/2026/11/07/does-floridas-narrow-escape-blue-wave-hold-lessons-republicans/"
+  ],
+  [
+    "tech",
+    14,
+    "https://www.washingtonpost.com/business/2026/11/06/asian-european-markets-slide-amid-fears-greater-ai-oversight/"
   ],
   [
     "north",
     14,
-    "https://www.nytimes.com/2026/11/06/us/southern-democrats-georgia-north-carolina.html"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "post",
+    "south",
     14,
-    "https://www.nytimes.com/2026/11/06/nyregion/new-york-election-midterms-republicans-blakeman-stefanik.html"
+    "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere"
   ],
   [
-    "university",
+    "announced",
     14,
-    "https://www.nytimes.com/2026/11/06/nyregion/cornell-no-confidence-vote.html"
+    "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react"
   ],
   [
-    "experts",
+    "family",
     14,
-    "https://www.washingtonpost.com/health/2026/11/05/infant-bleeding-surged-last-year-parents-refuse-vitamin-k-shot-newborns/"
-  ],
-  [
-    "court",
-    14,
-    "https://www.washingtonpost.com/politics/2026/11/05/gops-losses-will-raise-pressure-conservative-supreme-court-justices-retire/"
-  ],
-  [
-    "media",
-    14,
-    "https://www.washingtonpost.com/lifestyle/2026/11/05/her-house-was-flooding-teens-came-rescue-paddleboard-kayak/"
-  ],
-  [
-    "sayed",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/06/abdul-el-sayed-islamophobia-michigan-senate-seat"
-  ],
-  [
-    "near",
-    14,
-    "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested"
-  ],
-  [
-    "school",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/05/washington-ballot-measure-trans-athlete-ban"
-  ],
-  [
-    "sex",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/05/washington-ballot-measure-trans-athlete-ban"
+    "https://www.theguardian.com/tv-and-radio/2026/nov/07/get-huge-looksmaxxing-docuseries"
   ],
   [
     "worth",
     14,
-    "https://www.theguardian.com/film/2026/nov/06/florence-pugh-dune-star-wars"
+    "https://www.theguardian.com/commentisfree/video/2026/nov/07/why-woke-20-is-taking-on-trump-and-establishment-politics-nesrine-malik-radical-thinking"
   ],
   [
-    "cat",
-    14,
-    "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review"
+    "latest",
+    13,
+    "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html"
+  ],
+  [
+    "campaign",
+    13,
+    "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html"
+  ],
+  [
+    "spent",
+    13,
+    "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html"
+  ],
+  [
+    "york",
+    13,
+    "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html"
+  ],
+  [
+    "victory",
+    13,
+    "https://www.nytimes.com/2026/11/07/opinion/midterms-democrats-won-agenda.html"
+  ],
+  [
+    "america",
+    13,
+    "https://www.washingtonpost.com/nation/2026/11/07/her-statue-liberty-tour-was-supposed-be-upbeat-then-she-erupted/"
+  ],
+  [
+    "donald",
+    13,
+    "https://www.washingtonpost.com/business/2026/11/06/industries-that-rely-immigrant-workers-decry-stephen-millers-promotion/"
+  ],
+  [
+    "industry",
+    13,
+    "https://www.washingtonpost.com/business/2026/11/06/investors-dumping-ai-company-stocks-fears-democrats-will-stop-data-centers/"
+  ],
+  [
+    "markle",
+    13,
+    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
+  ],
+  [
+    "states",
+    13,
+    "https://www.washingtonpost.com/nation/2026/11/06/bans-transgender-athletes-girls-sports-pass-colorado-washington-state/"
+  ],
+  [
+    "became",
+    13,
+    "https://www.washingtonpost.com/obituaries/2026/11/06/jay-rockefeller-senate-voice-health-care-security-dies-89/"
+  ],
+  [
+    "ice",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ]
 ];
