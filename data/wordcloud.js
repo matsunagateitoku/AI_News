@@ -2,128 +2,168 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    94,
+    95,
+    "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html"
+  ],
+  [
+    "president",
+    47,
     "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
   ],
   [
     "democrats",
-    49,
-    "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html"
-  ],
-  [
-    "president",
     45,
-    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
+    "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html"
   ],
   [
     "party",
-    30,
-    "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html"
-  ],
-  [
-    "night",
-    29,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico"
-  ],
-  [
-    "election",
-    28,
-    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
-  ],
-  [
-    "texas",
-    27,
-    "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/"
-  ],
-  [
-    "win",
-    25,
-    "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html"
+    32,
+    "https://www.washingtonpost.com/elections/2026/11/07/floridas-most-venezuelan-city-put-republican-party-notice/"
   ],
   [
     "elect",
-    24,
-    "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html"
+    31,
+    "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html"
   ],
   [
-    "democratic",
-    24,
-    "https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html"
-  ],
-  [
-    "secretary",
-    24,
-    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  ],
-  [
-    "midterm",
-    24,
-    "https://www.theguardian.com/commentisfree/2026/nov/08/best-midterm-victory-speeches"
-  ],
-  [
-    "power",
-    23,
+    "night",
+    28,
     "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico"
   ],
   [
     "voters",
-    22,
-    "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html"
+    28,
+    "https://www.theguardian.com/us-news/2026/nov/08/native-american-women-midterm-elections"
   ],
   [
-    "black",
-    21,
-    "https://www.nytimes.com/2026/11/08/us/politics/hakeem-jeffries-house-democrats-speaker.html"
+    "midterm",
+    26,
+    "https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html"
   ],
   [
-    "country",
-    21,
-    "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html"
-  ],
-  [
-    "love",
-    20,
-    "https://www.theguardian.com/us-news/2026/nov/08/jeffrey-epstein-survivors-exhibition"
-  ],
-  [
-    "political",
-    19,
+    "election",
+    26,
     "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
   ],
   [
-    "administration",
-    19,
-    "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html"
+    "secretary",
+    25,
+    "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html"
   ],
   [
-    "republicans",
-    19,
-    "https://www.washingtonpost.com/nation/2026/11/07/does-floridas-narrow-escape-blue-wave-hold-lessons-republicans/"
+    "win",
+    25,
+    "https://www.nytimes.com/2026/11/08/us/james-talarico-christianity-texas.html"
   ],
   [
-    "early",
-    19,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "james",
-    19,
+    "power",
+    25,
     "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico"
   ],
   [
-    "results",
-    18,
-    "https://www.washingtonpost.com/business/2026/11/06/asian-european-markets-slide-amid-fears-greater-ai-oversight/"
+    "texas",
+    24,
+    "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html"
+  ],
+  [
+    "democratic",
+    22,
+    "https://www.washingtonpost.com/elections/2026/11/07/floridas-most-venezuelan-city-put-republican-party-notice/"
   ],
   [
     "rep",
-    18,
-    "https://www.foxnews.com/politics/11th-hour-power-play-targets-incoming-dem-governor-historic-gop-defeat"
+    22,
+    "https://www.cbsnews.com/news/nancy-lacore-south-carolina-democrat-face-the-nation-transcript-11-08-2026/"
   ],
   [
-    "clear",
+    "political",
+    21,
+    "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html"
+  ],
+  [
+    "republicans",
+    21,
+    "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html"
+  ],
+  [
+    "american",
+    21,
+    "https://www.theguardian.com/society/2026/nov/08/ect-electroconvulsive-therapy-how-ted-scheinman-broke-through-depression"
+  ],
+  [
+    "chief",
+    20,
+    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+  ],
+  [
+    "administration",
+    20,
+    "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html"
+  ],
+  [
+    "country",
+    20,
+    "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html"
+  ],
+  [
+    "florida",
+    20,
+    "https://www.washingtonpost.com/transportation/2026/11/05/ss-united-states-be-sunk-become-worlds-largest-artificial-reef/"
+  ],
+  [
+    "results",
+    20,
+    "https://www.washingtonpost.com/business/2026/11/06/asian-european-markets-slide-amid-fears-greater-ai-oversight/"
+  ],
+  [
+    "nation",
+    20,
+    "https://www.cbsnews.com/news/calley-means-white-house-health-and-human-services-rfk-jr/"
+  ],
+  [
+    "nvidia",
+    19,
+    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+  ],
+  [
+    "interview",
+    19,
+    "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html"
+  ],
+  [
+    "means",
+    19,
+    "https://www.washingtonpost.com/health/2026/11/06/former-white-house-health-aide-accuses-trump-advisers-catering-special-interests/"
+  ],
+  [
+    "margaret",
+    19,
+    "https://www.cbsnews.com/news/calley-means-white-house-health-and-human-services-rfk-jr/"
+  ],
+  [
+    "chinese",
+    18,
+    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+  ],
+  [
+    "black",
+    18,
+    "https://www.washingtonpost.com/obituaries/2026/11/07/martina-arroyo-was-luminous-star-opera-who-broke-racial-barriers/"
+  ],
+  [
+    "investigation",
     17,
-    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
+    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+  ],
+  [
+    "congress",
+    17,
+    "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html"
+  ],
+  [
+    "york",
+    17,
+    "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html"
   ],
   [
     "blue",
@@ -131,44 +171,94 @@
     "https://www.washingtonpost.com/obituaries/2026/11/08/listening-madonna-blue-camaro-other-lives-we-lost/"
   ],
   [
-    "elections",
+    "ice",
     17,
-    "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration"
-  ],
-  [
-    "press",
-    17,
-    "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration"
-  ],
-  [
-    "far",
-    16,
-    "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html"
+    "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/"
   ],
   [
     "senate",
-    16,
+    17,
     "https://www.washingtonpost.com/elections/2026/11/07/floridas-most-venezuelan-city-put-republican-party-notice/"
   ],
   [
-    "california",
-    16,
-    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
+    "health",
+    17,
+    "https://www.washingtonpost.com/health/2026/11/06/former-white-house-health-aide-accuses-trump-advisers-catering-special-interests/"
   ],
   [
-    "historic",
+    "miller",
+    17,
+    "https://www.washingtonpost.com/business/2026/11/06/industries-that-rely-immigrant-workers-decry-stephen-millers-promotion/"
+  ],
+  [
+    "healthcare",
+    17,
+    "https://www.theguardian.com/us-news/2026/nov/08/transgender-rights-unraveled"
+  ],
+  [
+    "brennan",
+    17,
+    "https://www.cbsnews.com/news/calley-means-white-house-health-and-human-services-rfk-jr/"
+  ],
+  [
+    "huang",
+    16,
+    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+  ],
+  [
+    "james",
+    16,
+    "https://www.nytimes.com/2026/11/08/us/james-talarico-christianity-texas.html"
+  ],
+  [
+    "politics",
+    16,
+    "https://www.nytimes.com/2026/11/08/us/james-talarico-christianity-texas.html"
+  ],
+  [
+    "clear",
+    16,
+    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
+  ],
+  [
+    "won",
+    16,
+    "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/"
+  ],
+  [
+    "donald",
+    16,
+    "https://www.washingtonpost.com/business/2026/11/06/industries-that-rely-immigrant-workers-decry-stephen-millers-promotion/"
+  ],
+  [
+    "midterms",
     16,
     "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico"
   ],
   [
-    "congress",
+    "elections",
     16,
     "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration"
   ],
   [
-    "food",
+    "love",
     16,
-    "https://www.theguardian.com/thefilter-us/2026/oct/29/products-you-loved-in-october"
+    "https://www.theguardian.com/us-news/2026/nov/08/abdul-el-sayed-michigan-senator-oxford-university-years-phd"
+  ],
+  [
+    "past",
+    15,
+    "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html"
+  ],
+  [
+    "hegseth",
+    15,
+    "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html"
+  ],
+  [
+    "victory",
+    15,
+    "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html"
   ],
   [
     "america",
@@ -176,89 +266,94 @@
     "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
   ],
   [
-    "israel",
+    "ceo",
     15,
-    "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html"
+    "https://www.washingtonpost.com/business/2026/11/08/nvidia-opens-investigation-into-ceo-over-relationship-with-suspected-chinese-spy/"
   ],
   [
-    "star",
+    "republican",
     15,
-    "https://www.washingtonpost.com/obituaries/2026/11/07/martina-arroyo-was-luminous-star-opera-who-broke-racial-barriers/"
+    "https://www.washingtonpost.com/elections/2026/11/07/floridas-most-venezuelan-city-put-republican-party-notice/"
   ],
   [
-    "wave",
+    "gop",
     15,
-    "https://www.washingtonpost.com/nation/2026/11/07/does-floridas-narrow-escape-blue-wave-hold-lessons-republicans/"
+    "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/"
   ],
   [
-    "donald",
+    "early",
     15,
-    "https://www.washingtonpost.com/business/2026/11/06/industries-that-rely-immigrant-workers-decry-stephen-millers-promotion/"
-  ],
-  [
-    "everything",
-    15,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "war",
-    15,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "midterms",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico"
-  ],
-  [
-    "don",
-    15,
-    "https://www.theguardian.com/wellness/2026/nov/08/do-b12-shots-work-energy-deficiency"
-  ],
-  [
-    "late",
-    15,
-    "https://www.theguardian.com/sport/2026/nov/08/notre-dame-miami-college-football-upset-cj-carr-playoff"
-  ],
-  [
-    "americans",
-    14,
-    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
-  ],
-  [
-    "hold",
-    14,
-    "https://www.washingtonpost.com/nation/2026/11/07/does-floridas-narrow-escape-blue-wave-hold-lessons-republicans/"
-  ],
-  [
-    "interview",
-    14,
-    "https://www.washingtonpost.com/health/2026/11/06/former-white-house-health-aide-accuses-trump-advisers-catering-special-interests/"
-  ],
-  [
-    "sexual",
-    14,
-    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
     "latest",
-    14,
+    15,
     "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
     "feel",
-    14,
-    "https://www.theguardian.com/wellness/2026/nov/08/do-b12-shots-work-energy-deficiency"
+    15,
+    "https://www.theguardian.com/us-news/2026/nov/08/transgender-rights-unraveled"
   ],
   [
-    "book",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/08/democratic-party-midterm-election-centrism"
+    "close",
+    15,
+    "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
   ],
   [
-    "family",
+    "game",
+    15,
+    "https://www.theguardian.com/football/2026/nov/08/nwsl-playoffs-roundup-gotham-reign-spirit-thorns"
+  ],
+  [
+    "relationship",
     14,
-    "https://www.theguardian.com/commentisfree/2026/nov/07/moscow-novaya-gazeta-journalism-russia-newspaper"
+    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+  ],
+  [
+    "final",
+    14,
+    "https://www.washingtonpost.com/transportation/2026/11/05/ss-united-states-be-sunk-become-worlds-largest-artificial-reef/"
+  ],
+  [
+    "industry",
+    14,
+    "https://www.washingtonpost.com/business/2026/11/06/investors-dumping-ai-company-stocks-fears-democrats-will-stop-data-centers/"
+  ],
+  [
+    "campaign",
+    14,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "everything",
+    14,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "war",
+    14,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "film",
+    14,
+    "https://www.theguardian.com/film/2026/nov/08/ava-duvernay-interview-trump-documentary-film-14th-amendment"
+  ],
+  [
+    "california",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue"
+  ],
+  [
+    "sayed",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/08/abdul-el-sayed-michigan-senator-oxford-university-years-phd"
+  ],
+  [
+    "season",
+    14,
+    "https://www.theguardian.com/football/2026/nov/08/michael-carrick-denies-risk-manchester-united-sack-aston-villa-premier-league-draw"
   ],
   [
     "cat",
@@ -266,113 +361,18 @@
     "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review"
   ],
   [
-    "south",
+    "food",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
+  ],
+  [
+    "nov",
+    14,
+    "https://www.latimes.com/food/story/2026-11-06/iconic-downtown-diner-original-pantry-reopen-this-november"
+  ],
+  [
+    "jensen",
     13,
-    "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html"
-  ],
-  [
-    "history",
-    13,
-    "https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html"
-  ],
-  [
-    "victory",
-    13,
-    "https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html"
-  ],
-  [
-    "ice",
-    13,
-    "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/"
-  ],
-  [
-    "killed",
-    13,
-    "https://www.washingtonpost.com/nation/2026/11/07/tearful-father-young-florida-crash-co-pilot-aims-protect-her-legacy/"
-  ],
-  [
-    "republican",
-    13,
-    "https://www.washingtonpost.com/elections/2026/11/07/floridas-most-venezuelan-city-put-republican-party-notice/"
-  ],
-  [
-    "cut",
-    13,
-    "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/"
-  ],
-  [
-    "deep",
-    13,
-    "https://www.washingtonpost.com/nation/2026/11/07/does-floridas-narrow-escape-blue-wave-hold-lessons-republicans/"
-  ],
-  [
-    "industry",
-    13,
-    "https://www.washingtonpost.com/business/2026/11/06/investors-dumping-ai-company-stocks-fears-democrats-will-stop-data-centers/"
-  ],
-  [
-    "film",
-    13,
-    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
-  ],
-  [
-    "north",
-    13,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "york",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/nov/08/zohran-mamdani-mustache-facial-hair"
-  ],
-  [
-    "season",
-    13,
-    "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly"
-  ],
-  [
-    "dana",
-    13,
-    "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration"
-  ],
-  [
-    "point",
-    13,
-    "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
-  ],
-  [
-    "art",
-    13,
-    "https://www.theguardian.com/us-news/2026/nov/08/jeffrey-epstein-survivors-exhibition"
-  ],
-  [
-    "politics",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/nov/08/best-midterm-victory-speeches"
-  ],
-  [
-    "body",
-    13,
-    "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis"
-  ],
-  [
-    "fashion",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/07/get-huge-looksmaxxing-docuseries"
-  ],
-  [
-    "chief",
-    12,
-    "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html"
-  ],
-  [
-    "won",
-    12,
-    "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/"
-  ],
-  [
-    "gop",
-    12,
-    "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/"
+    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
   ]
 ];
