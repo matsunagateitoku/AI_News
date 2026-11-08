@@ -3,27 +3,27 @@
   "ORG": [
     {
       "name": "Target For Trump",
-      "count": 63,
+      "count": 59,
       "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
       "source": "Wall St. Journal"
     },
     {
       "name": "The White House",
-      "count": 18,
+      "count": 20,
       "url": "https://www.latimes.com/politics/story/2026-11-06/midterm-results-could-shape-2028-presidential-dialogue",
       "source": "LA Times"
     },
     {
-      "name": "Ai",
-      "count": 17,
-      "url": "https://www.washingtonpost.com/business/2026/11/06/asian-european-markets-slide-amid-fears-greater-ai-oversight/",
-      "source": "Washington Post"
-    },
-    {
       "name": "Michigan Senate",
-      "count": 15,
+      "count": 16,
       "url": "https://www.politico.com/news/2026/11/01/haley-stevens-endorses-mike-rogers-michigan-senate-01144698",
       "source": "Politico"
+    },
+    {
+      "name": "Ai",
+      "count": 15,
+      "url": "https://www.washingtonpost.com/business/2026/11/06/asian-european-markets-slide-amid-fears-greater-ai-oversight/",
+      "source": "Washington Post"
     },
     {
       "name": "Gop",
@@ -51,121 +51,103 @@
     },
     {
       "name": "Guardian",
-      "count": 8,
+      "count": 7,
       "url": "https://www.theguardian.com/commentisfree/2026/nov/07/pete-hegseth-midterms-consequences",
       "source": "The Guardian"
     },
     {
-      "name": "The Republican Party",
+      "name": "Ufc",
       "count": 6,
-      "url": "https://www.washingtonpost.com/elections/2026/11/07/floridas-most-venezuelan-city-put-republican-party-notice/",
-      "source": "Washington Post"
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
+      "source": "The Guardian"
     }
   ],
-  "GPE": [
+  "EVENT": [
     {
-      "name": "Us",
-      "count": 39,
-      "url": "https://www.theguardian.com/thefilter-us/2026/nov/07/best-plastic-free-ice-cube-trays",
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
       "source": "The Guardian"
     },
     {
-      "name": "Florida",
-      "count": 18,
-      "url": "https://www.washingtonpost.com/nation/2026/11/07/tearful-father-young-florida-crash-co-pilot-aims-protect-her-legacy/",
-      "source": "Washington Post"
+      "name": "The Hindu Festival Of Lights",
+      "count": 1,
+      "url": "https://www.nytimes.com/article/diwali-india-festival-lights.html",
+      "source": "NY Times"
     },
     {
-      "name": "Israel",
-      "count": 18,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Texas",
-      "count": 15,
-      "url": "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "California",
-      "count": 13,
-      "url": "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "U.S.",
-      "count": 11,
-      "url": "https://www.washingtonpost.com/nation/2026/11/07/when-great-grandson-an-enslaved-man-beat-grandson-president/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "The City Of London",
-      "count": 10,
-      "url": "https://www.theguardian.com/books/2026/nov/06/taliban-alexander-the-great-baillie-gifford-edmund-richardson",
+      "name": "The Undersea War : The International Battle For Supremacy",
+      "count": 1,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/freezer-meltdowns-airline-hoaxes-greyzone-aggression-europe",
       "source": "The Guardian"
     },
     {
-      "name": "New York City",
-      "count": 10,
-      "url": "https://www.today.com/video/2026-rockefeller-center-christmas-tree-arrives-in-new-york-city-273069125683",
-      "source": "NBC News"
+      "name": "Get Huge",
+      "count": 1,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/07/get-huge-looksmaxxing-docuseries",
+      "source": "The Guardian"
     },
     {
-      "name": "Los Angeles City",
-      "count": 9,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide",
+      "name": "The Animated Series",
+      "count": 1,
+      "url": "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympic",
+      "count": 1,
+      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-11-03/the-greatest-review-muhammad-ali-prime-video",
       "source": "LA Times"
     },
     {
-      "name": "Hollywood",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/11/07/style/illeana-douglas-the-women-cat-fight.html",
-      "source": "NY Times"
+      "name": "Watergate",
+      "count": 1,
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
+      "source": "NPR"
+    },
+    {
+      "name": "Black Friday",
+      "count": 1,
+      "url": "https://www.nbcnews.com/select/shopping/early-black-friday-deals-2026-rcna607963",
+      "source": "NBC News"
     }
   ],
   "PERSON": [
     {
       "name": "Melania Trump",
-      "count": 21,
-      "url": "https://www.foxnews.com/politics/melania-trump-secures-7-2m-foster-care-scholarships-lsu-ahead-alabama-showdown",
-      "source": "Fox News"
+      "count": 24,
+      "url": "https://thehill.com/homenews/administration/6205796-live-melania-trump-football-mar-a-lago/",
+      "source": "The Hill"
     },
     {
       "name": "Stephen Miller",
-      "count": 17,
+      "count": 15,
       "url": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html",
       "source": "NY Times"
     },
     {
-      "name": "Benjamin Netanyahu",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Donald Trump",
-      "count": 10,
+      "count": 12,
       "url": "https://www.washingtonpost.com/business/2026/11/06/industries-that-rely-immigrant-workers-decry-stephen-millers-promotion/",
       "source": "Washington Post"
+    },
+    {
+      "name": "Dana White",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+      "source": "NY Times"
     },
     {
       "name": "Russell Brand",
       "count": 8,
       "url": "https://www.theguardian.com/commentisfree/2026/nov/06/russell-brand-justice-comedy-other-abusers",
       "source": "The Guardian"
-    },
-    {
-      "name": "Dana White",
-      "count": 8,
-      "url": "https://www.foxnews.com/outkick-sports/jackson-thompson-trump-says-offered-ufc-ceo-dana-white-press-secretary-job",
-      "source": "Fox News"
-    },
-    {
-      "name": "Susie Wiles",
-      "count": 7,
-      "url": "https://www.latimes.com/politics/story/2026-11-06/trump-names-stephen-miller-chief-of-staff-replacing-susie-wiles",
-      "source": "LA Times"
     },
     {
       "name": "Gadi Eisenkot",
@@ -184,63 +166,75 @@
       "count": 6,
       "url": "https://www.theguardian.com/us-news/2026/nov/07/flip-voters-trump-midterms",
       "source": "The Guardian"
+    },
+    {
+      "name": "Abdul El-Sayed",
+      "count": 5,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/midterms-israel-criticism",
+      "source": "The Guardian"
     }
   ],
-  "EVENT": [
+  "GPE": [
     {
-      "name": "The Iran War",
-      "count": 2,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
+      "name": "Us",
+      "count": 41,
+      "url": "https://www.theguardian.com/thefilter-us/2026/nov/07/best-plastic-free-ice-cube-trays",
       "source": "The Guardian"
     },
     {
-      "name": "Get Huge",
-      "count": 1,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/07/get-huge-looksmaxxing-docuseries",
-      "source": "The Guardian"
+      "name": "Texas",
+      "count": 23,
+      "url": "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/",
+      "source": "Washington Post"
     },
     {
-      "name": "The Undersea War : The International Battle For Supremacy",
-      "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/freezer-meltdowns-airline-hoaxes-greyzone-aggression-europe",
-      "source": "The Guardian"
+      "name": "Florida",
+      "count": 16,
+      "url": "https://www.washingtonpost.com/nation/2026/11/07/tearful-father-young-florida-crash-co-pilot-aims-protect-her-legacy/",
+      "source": "Washington Post"
     },
     {
-      "name": "The Animated Series",
-      "count": 1,
-      "url": "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review",
-      "source": "The Guardian"
+      "name": "U.S.",
+      "count": 15,
+      "url": "https://www.washingtonpost.com/nation/2026/11/07/when-great-grandson-an-enslaved-man-beat-grandson-president/",
+      "source": "Washington Post"
     },
     {
-      "name": "Olympic",
-      "count": 1,
-      "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-11-03/the-greatest-review-muhammad-ali-prime-video",
+      "name": "Israel",
+      "count": 15,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "California",
+      "count": 14,
+      "url": "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Russia",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/11/08/opinion/novaya-gazeta-russia-putin-newspaper.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "L.A. Here'S",
+      "count": 13,
+      "url": "https://www.latimes.com/delos/story/2026-09-15/dual-citizenship-how-to-los-angeles-mexican-consulate",
       "source": "LA Times"
     },
     {
-      "name": "L.A. City Charter Amendment La",
-      "count": 1,
-      "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-la-voter-guide",
-      "source": "LA Times"
+      "name": "Ukraine",
+      "count": 12,
+      "url": "https://www.theguardian.com/world/2026/nov/08/ukraine-war-briefing-russia-ramping-up-attacks-to-pressure-kyiv-at-trilateral-talks-zelenskyy-says",
+      "source": "The Guardian"
     },
     {
-      "name": "Watergate",
-      "count": 1,
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
-      "source": "NPR"
-    },
-    {
-      "name": "The Holy War",
-      "count": 1,
-      "url": "https://www.foxnews.com/outkick-sports/no-3-utah-remains-undefeated-thrilling-win-no-9-byu-heisman-finalist-devon-dampier-epic-day",
-      "source": "Fox News"
-    },
-    {
-      "name": "Black Friday",
-      "count": 1,
-      "url": "https://www.nbcnews.com/select/shopping/early-black-friday-deals-2026-rcna607963",
-      "source": "NBC News"
+      "name": "Los Angeles",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-11-07T22:34:56Z"
+  "updated": "2026-11-08T07:02:30Z"
 };
