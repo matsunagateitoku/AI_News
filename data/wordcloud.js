@@ -2,218 +2,153 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    90,
-    "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html"
-  ],
-  [
-    "president",
-    57,
-    "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html"
+    94,
+    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
   ],
   [
     "democrats",
+    49,
+    "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html"
+  ],
+  [
+    "president",
     45,
-    "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html"
-  ],
-  [
-    "voters",
-    34,
-    "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html"
-  ],
-  [
-    "democratic",
-    30,
-    "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html"
-  ],
-  [
-    "election",
-    29,
-    "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html"
+    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
   ],
   [
     "party",
+    30,
+    "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html"
+  ],
+  [
+    "night",
     29,
-    "https://www.washingtonpost.com/elections/2026/11/07/floridas-most-venezuelan-city-put-republican-party-notice/"
+    "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico"
+  ],
+  [
+    "election",
+    28,
+    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
   ],
   [
     "texas",
-    26,
+    27,
     "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/"
+  ],
+  [
+    "win",
+    25,
+    "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html"
+  ],
+  [
+    "elect",
+    24,
+    "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html"
+  ],
+  [
+    "democratic",
+    24,
+    "https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html"
+  ],
+  [
+    "secretary",
+    24,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "midterm",
     24,
-    "https://www.nytimes.com/2026/11/08/opinion/midterms-america-government.html"
+    "https://www.theguardian.com/commentisfree/2026/nov/08/best-midterm-victory-speeches"
   ],
   [
-    "senate",
+    "power",
     23,
-    "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html"
+    "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico"
+  ],
+  [
+    "voters",
+    22,
+    "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html"
   ],
   [
     "black",
-    23,
-    "https://www.washingtonpost.com/obituaries/2026/11/07/martina-arroyo-was-luminous-star-opera-who-broke-racial-barriers/"
-  ],
-  [
-    "blue",
-    23,
-    "https://www.washingtonpost.com/nation/2026/11/07/does-floridas-narrow-escape-blue-wave-hold-lessons-republicans/"
-  ],
-  [
-    "early",
     21,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "night",
-    21,
-    "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
-  ],
-  [
-    "republicans",
-    20,
-    "https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html"
-  ],
-  [
-    "war",
-    20,
-    "https://www.nytimes.com/2026/11/07/us/politics/white-working-class-voters-midterms-democrats-trump.html"
-  ],
-  [
-    "florida",
-    20,
-    "https://www.washingtonpost.com/nation/2026/11/07/tearful-father-young-florida-crash-co-pilot-aims-protect-her-legacy/"
-  ],
-  [
-    "wave",
-    20,
-    "https://www.washingtonpost.com/nation/2026/11/07/does-floridas-narrow-escape-blue-wave-hold-lessons-republicans/"
+    "https://www.nytimes.com/2026/11/08/us/politics/hakeem-jeffries-house-democrats-speaker.html"
   ],
   [
     "country",
-    20,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    21,
+    "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html"
   ],
   [
     "love",
     20,
-    "https://www.theguardian.com/film/2026/nov/07/michelle-yeoh-interview-blade-runner-2099-everything-everywhere-oscar"
+    "https://www.theguardian.com/us-news/2026/nov/08/jeffrey-epstein-survivors-exhibition"
   ],
   [
-    "ice",
+    "political",
     19,
-    "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/"
+    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
   ],
   [
-    "held",
+    "administration",
+    19,
+    "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html"
+  ],
+  [
+    "republicans",
     19,
     "https://www.washingtonpost.com/nation/2026/11/07/does-floridas-narrow-escape-blue-wave-hold-lessons-republicans/"
   ],
   [
-    "arrested",
+    "early",
     19,
-    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "power",
+    "james",
     19,
-    "https://www.theguardian.com/us-news/2026/nov/07/flip-voters-trump-midterms"
+    "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico"
   ],
   [
-    "won",
+    "results",
     18,
-    "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/"
+    "https://www.washingtonpost.com/business/2026/11/06/asian-european-markets-slide-amid-fears-greater-ai-oversight/"
   ],
   [
-    "far",
+    "rep",
     18,
-    "https://www.theguardian.com/us-news/2026/nov/07/flip-voters-trump-midterms"
+    "https://www.foxnews.com/politics/11th-hour-power-play-targets-incoming-dem-governor-historic-gop-defeat"
   ],
   [
-    "brand",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/nov/06/russell-brand-justice-comedy-other-abusers"
-  ],
-  [
-    "republican",
+    "clear",
     17,
-    "https://www.nytimes.com/2026/11/07/us/politics/white-working-class-voters-midterms-democrats-trump.html"
+    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
   ],
   [
-    "secretary",
+    "blue",
     17,
-    "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html"
+    "https://www.washingtonpost.com/obituaries/2026/11/08/listening-madonna-blue-camaro-other-lives-we-lost/"
   ],
   [
-    "child",
+    "elections",
     17,
-    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
-  ],
-  [
-    "sexual",
-    17,
-    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
-  ],
-  [
-    "north",
-    17,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "game",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/nov/07/pete-hegseth-midterms-consequences"
-  ],
-  [
-    "win",
-    17,
-    "https://www.theguardian.com/us-news/2026/nov/07/trump-republican-candidates-struggled-midterm-election-results"
-  ],
-  [
-    "season",
-    17,
-    "https://www.theguardian.com/sport/2026/nov/08/notre-dame-miami-college-football-upset-cj-carr-playoff"
+    "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration"
   ],
   [
     "press",
     17,
-    "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary"
+    "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration"
   ],
   [
-    "miller",
+    "far",
     16,
-    "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html"
+    "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html"
   ],
   [
-    "chief",
+    "senate",
     16,
-    "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html"
-  ],
-  [
-    "carolina",
-    16,
-    "https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html"
-  ],
-  [
-    "midterms",
-    16,
-    "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html"
-  ],
-  [
-    "college",
-    16,
-    "https://www.nytimes.com/2026/11/07/us/politics/white-working-class-voters-midterms-democrats-trump.html"
-  ],
-  [
-    "deep",
-    16,
-    "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html"
-  ],
-  [
-    "school",
-    16,
-    "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/"
+    "https://www.washingtonpost.com/elections/2026/11/07/floridas-most-venezuelan-city-put-republican-party-notice/"
   ],
   [
     "california",
@@ -221,59 +156,39 @@
     "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
   ],
   [
-    "family",
+    "historic",
     16,
-    "https://www.theguardian.com/world/2026/nov/08/ukraine-war-briefing-russia-ramping-up-attacks-to-pressure-kyiv-at-trilateral-talks-zelenskyy-says"
+    "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico"
   ],
   [
-    "james",
+    "congress",
     16,
-    "https://www.theguardian.com/sport/2026/nov/08/notre-dame-miami-college-football-upset-cj-carr-playoff"
+    "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration"
   ],
   [
-    "stephen",
-    15,
-    "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html"
+    "food",
+    16,
+    "https://www.theguardian.com/thefilter-us/2026/oct/29/products-you-loved-in-october"
   ],
   [
-    "immigration",
+    "america",
     15,
-    "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html"
+    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
   ],
   [
-    "staff",
+    "israel",
     15,
-    "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html"
+    "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html"
   ],
   [
-    "south",
+    "star",
     15,
-    "https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html"
+    "https://www.washingtonpost.com/obituaries/2026/11/07/martina-arroyo-was-luminous-star-opera-who-broke-racial-barriers/"
   ],
   [
-    "death",
+    "wave",
     15,
-    "https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html"
-  ],
-  [
-    "form",
-    15,
-    "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html"
-  ],
-  [
-    "government",
-    15,
-    "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html"
-  ],
-  [
-    "court",
-    15,
-    "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html"
-  ],
-  [
-    "political",
-    15,
-    "https://www.washingtonpost.com/nation/2026/11/07/when-great-grandson-an-enslaved-man-beat-grandson-president/"
+    "https://www.washingtonpost.com/nation/2026/11/07/does-floridas-narrow-escape-blue-wave-hold-lessons-republicans/"
   ],
   [
     "donald",
@@ -281,98 +196,183 @@
     "https://www.washingtonpost.com/business/2026/11/06/industries-that-rely-immigrant-workers-decry-stephen-millers-promotion/"
   ],
   [
-    "attack",
+    "everything",
     15,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "food",
+    "war",
     15,
-    "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots"
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "role",
+    "midterms",
     15,
-    "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine"
+    "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico"
+  ],
+  [
+    "don",
+    15,
+    "https://www.theguardian.com/wellness/2026/nov/08/do-b12-shots-work-energy-deficiency"
+  ],
+  [
+    "late",
+    15,
+    "https://www.theguardian.com/sport/2026/nov/08/notre-dame-miami-college-football-upset-cj-carr-playoff"
+  ],
+  [
+    "americans",
+    14,
+    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
+  ],
+  [
+    "hold",
+    14,
+    "https://www.washingtonpost.com/nation/2026/11/07/does-floridas-narrow-escape-blue-wave-hold-lessons-republicans/"
+  ],
+  [
+    "interview",
+    14,
+    "https://www.washingtonpost.com/health/2026/11/06/former-white-house-health-aide-accuses-trump-advisers-catering-special-interests/"
+  ],
+  [
+    "sexual",
+    14,
+    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
+  ],
+  [
+    "latest",
+    14,
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  ],
+  [
+    "feel",
+    14,
+    "https://www.theguardian.com/wellness/2026/nov/08/do-b12-shots-work-energy-deficiency"
+  ],
+  [
+    "book",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/08/democratic-party-midterm-election-centrism"
+  ],
+  [
+    "family",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/nov/07/moscow-novaya-gazeta-journalism-russia-newspaper"
   ],
   [
     "cat",
-    15,
+    14,
     "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review"
   ],
   [
-    "killed",
-    14,
-    "https://www.nytimes.com/2026/11/08/opinion/novaya-gazeta-russia-putin-newspaper.html"
-  ],
-  [
-    "race",
-    14,
-    "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html"
-  ],
-  [
-    "cut",
-    14,
-    "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/"
-  ],
-  [
-    "announced",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty"
-  ],
-  [
-    "dana",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary"
-  ],
-  [
-    "fashion",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/07/get-huge-looksmaxxing-docuseries"
-  ],
-  [
-    "team",
+    "south",
     13,
-    "https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html"
+    "https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html"
   ],
   [
-    "eisenkot",
+    "history",
     13,
-    "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html"
+    "https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html"
   ],
   [
-    "hopes",
+    "victory",
     13,
-    "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html"
+    "https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html"
   ],
   [
-    "minister",
-    13,
-    "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html"
-  ],
-  [
-    "clear",
-    13,
-    "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html"
-  ],
-  [
-    "russia",
-    13,
-    "https://www.nytimes.com/2026/11/08/opinion/novaya-gazeta-russia-putin-newspaper.html"
-  ],
-  [
-    "police",
+    "ice",
     13,
     "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/"
   ],
   [
-    "young",
+    "killed",
     13,
     "https://www.washingtonpost.com/nation/2026/11/07/tearful-father-young-florida-crash-co-pilot-aims-protect-her-legacy/"
   ],
   [
-    "red",
+    "republican",
+    13,
+    "https://www.washingtonpost.com/elections/2026/11/07/floridas-most-venezuelan-city-put-republican-party-notice/"
+  ],
+  [
+    "cut",
+    13,
+    "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/"
+  ],
+  [
+    "deep",
     13,
     "https://www.washingtonpost.com/nation/2026/11/07/does-floridas-narrow-escape-blue-wave-hold-lessons-republicans/"
+  ],
+  [
+    "industry",
+    13,
+    "https://www.washingtonpost.com/business/2026/11/06/investors-dumping-ai-company-stocks-fears-democrats-will-stop-data-centers/"
+  ],
+  [
+    "film",
+    13,
+    "https://www.washingtonpost.com/nation/2026/11/06/meghan-markles-estranged-father-arrested-child-porn-charge/"
+  ],
+  [
+    "north",
+    13,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+  ],
+  [
+    "york",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/nov/08/zohran-mamdani-mustache-facial-hair"
+  ],
+  [
+    "season",
+    13,
+    "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly"
+  ],
+  [
+    "dana",
+    13,
+    "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration"
+  ],
+  [
+    "point",
+    13,
+    "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
+  ],
+  [
+    "art",
+    13,
+    "https://www.theguardian.com/us-news/2026/nov/08/jeffrey-epstein-survivors-exhibition"
+  ],
+  [
+    "politics",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/nov/08/best-midterm-victory-speeches"
+  ],
+  [
+    "body",
+    13,
+    "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis"
+  ],
+  [
+    "fashion",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/nov/07/get-huge-looksmaxxing-docuseries"
+  ],
+  [
+    "chief",
+    12,
+    "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html"
+  ],
+  [
+    "won",
+    12,
+    "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/"
+  ],
+  [
+    "gop",
+    12,
+    "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/"
   ]
 ];
