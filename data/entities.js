@@ -3,144 +3,212 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 40,
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/transgender-rights-unraveled",
+      "count": 46,
+      "url": "https://www.theguardian.com/technology/2026/nov/09/who-is-alice-huang-the-woman-linked-to-nvidias-ceo",
       "source": "The Guardian"
     },
     {
       "name": "Texas",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/11/08/us/james-talarico-christianity-texas.html",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
       "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Florida",
-      "count": 18,
-      "url": "https://www.washingtonpost.com/transportation/2026/11/05/ss-united-states-be-sunk-become-worlds-largest-artificial-reef/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Israel",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "New York City Department Of Education",
-      "count": 12,
-      "url": "https://www.cbsnews.com/news/katie-suarez-jogger-fatally-stabbed-in-brooklyn/",
-      "source": "CBS News"
-    },
-    {
-      "name": "California",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue",
-      "source": "The Guardian"
-    },
-    {
-      "name": "L.A.",
-      "count": 11,
-      "url": "https://www.latimes.com/california/story/2026-11-08/inside-nithya-ramans-improbable-campaign-for-la-mayor",
-      "source": "LA Times"
     },
     {
       "name": "Iran",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
+      "count": 17,
+      "url": "https://www.theguardian.com/sport/2026/nov/09/donald-trump-dana-white-ufc-midterms-sports-politics",
       "source": "The Guardian"
     },
     {
-      "name": "North-West London",
-      "count": 8,
-      "url": "https://www.theguardian.com/society/2026/nov/01/the-term-is-becoming-unrecognisable-have-the-experts-who-believed-in-a-single-autism-spectrum-changed-their-minds",
+      "name": "U.S.",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "California",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/citizen-shot-ice-officer-lawsuit-california",
       "source": "The Guardian"
+    },
+    {
+      "name": "The City Of London",
+      "count": 10,
+      "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-booker-prize-end-of-everything",
+      "source": "The Guardian"
+    },
+    {
+      "name": "China",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Turkey",
+      "count": 7,
+      "url": "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31",
+      "source": "The Guardian"
+    },
+    {
+      "name": "France",
+      "count": 7,
+      "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County",
+      "count": 7,
+      "url": "https://www.latimes.com/california/story/2026-11-09/la-me-horvath",
+      "source": "LA Times"
     }
   ],
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 53,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "The White House",
-      "count": 22,
-      "url": "https://thehill.com/homenews/administration/6206974-white-house-deputy-chief-of-staff-departs-stephen-miller/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Congress",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html",
+      "name": "Trump Veers Back",
+      "count": 72,
+      "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
       "source": "NY Times"
     },
     {
       "name": "Ai",
-      "count": 17,
-      "url": "https://www.washingtonpost.com/business/2026/11/06/asian-european-markets-slide-amid-fears-greater-ai-oversight/",
-      "source": "Washington Post"
+      "count": 32,
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+      "source": "The Guardian"
     },
     {
-      "name": "Gop",
-      "count": 16,
-      "url": "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Nvidia Opens Investigation",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+      "name": "A.I. Fueled Nvidia",
+      "count": 30,
+      "url": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
       "source": "NY Times"
     },
     {
+      "name": "Google Search",
+      "count": 16,
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+      "source": "The Guardian"
+    },
+    {
       "name": "The Texas House",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/",
-      "source": "Washington Post"
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/11/09/us/senfronia-thompson-ms-t-texas-house.html",
+      "source": "NY Times"
     },
     {
-      "name": "Calley Means",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/health/2026/11/06/former-white-house-health-aide-accuses-trump-advisers-catering-special-interests/",
-      "source": "Washington Post"
+      "name": "Congress",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/11/09/magazine/congress-trump-oversight-investigations-presidency.html",
+      "source": "NY Times"
     },
     {
-      "name": "The Filter Us",
-      "count": 10,
-      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "name": "Cbs News Poll",
+      "count": 13,
+      "url": "https://www.cbsnews.com/news/biden-pandemic-approval-covid-19-opinion-poll/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Gop",
+      "count": 12,
+      "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+      "source": "NPR"
+    },
+    {
+      "name": "The White House",
+      "count": 11,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings",
       "source": "The Guardian"
     },
     {
       "name": "Michigan Senate",
-      "count": 10,
+      "count": 11,
       "url": "https://www.politico.com/news/2026/11/01/haley-stevens-endorses-mike-rogers-michigan-senate-01144698",
       "source": "Politico"
     }
   ],
-  "EVENT": [
+  "PERSON": [
     {
-      "name": "Warrior Ride",
-      "count": 2,
-      "url": "https://www.foxnews.com/media/george-w-bush-welcomes-27-veterans-ranch-16th-annual-warrior-ride",
-      "source": "Fox News"
+      "name": "Donald Trump",
+      "count": 22,
+      "url": "https://www.washingtonpost.com/nation/2026/11/09/post-midterm-doj-leadership-shake-up-continues/",
+      "source": "Washington Post"
     },
     {
-      "name": "The Us Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/nov/08/carlos-alcaraz-ben-shelton-win-paris-masters-final",
+      "name": "Jensen Huang     Why",
+      "count": 22,
+      "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang",
       "source": "The Guardian"
     },
     {
-      "name": "The Paris Masters",
+      "name": "Melania Trump",
+      "count": 19,
+      "url": "https://www.foxnews.com/media/melania-trump-scholarship-recipient-how-fostering-future-helped-her-reach-lsu-after-life-foster-care",
+      "source": "Fox News"
+    },
+    {
+      "name": "Pete Hegseth",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Others Defend Russell Brand",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/11/09/arts/russell-brand-megyn-kelly-elon-musk.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Thomas Massie Moves",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "M. John Harrison",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/10/13/books/review/m-john-harrison-end-of-everything.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Dana White",
+      "count": 10,
+      "url": "https://www.theguardian.com/sport/2026/nov/09/donald-trump-dana-white-ufc-midterms-sports-politics",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Stephen Miller",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/11/09/opinion/stephen-miller-roy-cohn-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Elon Musk",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/11/09/arts/russell-brand-megyn-kelly-elon-musk.html",
+      "source": "NY Times"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.foxnews.com/politics/rubios-defense-trumps-iran-war-draws-sharp-contrast-vances-midterm-blame",
+      "source": "Fox News"
+    },
+    {
+      "name": "The Cold War",
       "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/nov/08/carlos-alcaraz-ben-shelton-win-paris-masters-final",
+      "url": "https://www.washingtonpost.com/nation/2026/11/09/two-east-german-officials-who-accidentally-brought-down-berlin-wall/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Super Bowl",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/nov/09/joe-burrow-bengals-nfl-mvp-race-frontrunners",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympics",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/nov/09/ramla-ali-mikiah-kreps-controversial-split-decision-world-titles-boxing",
       "source": "The Guardian"
     },
     {
@@ -156,79 +224,23 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Iran War",
+      "name": "Helluva Ride",
       "count": 1,
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
+      "url": "https://www.theguardian.com/books/2026/nov/09/look-at-me-by-dustin-hoffman-review-an-era-defining-actor-says-his-piece",
       "source": "The Guardian"
     },
     {
-      "name": "Black Friday",
+      "name": "Olympic",
       "count": 1,
-      "url": "https://www.nbcnews.com/select/shopping/early-black-friday-deals-2026-rcna607963",
-      "source": "NBC News"
+      "url": "https://www.latimes.com/sports/olympics/story/2026-11-09/olympic-gold-medalist-danny-everett-love-for-cooking",
+      "source": "LA Times"
+    },
+    {
+      "name": "The War Powers Resolution",
+      "count": 1,
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+      "source": "NPR"
     }
   ],
-  "PERSON": [
-    {
-      "name": "Donald Trump",
-      "count": 38,
-      "url": "https://www.washingtonpost.com/business/2026/11/06/industries-that-rely-immigrant-workers-decry-stephen-millers-promotion/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Margaret Brennan",
-      "count": 19,
-      "url": "https://www.cbsnews.com/news/calley-means-white-house-health-and-human-services-rfk-jr/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Pete Hegseth",
-      "count": 14,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jensen Huang",
-      "count": 13,
-      "url": "https://www.washingtonpost.com/business/2026/11/08/nvidia-opens-investigation-into-ceo-over-relationship-with-suspected-chinese-spy/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Nancy Lacore",
-      "count": 11,
-      "url": "https://www.cbsnews.com/news/nancy-lacore-south-carolina-democrat-face-the-nation-transcript-11-08-2026/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Stephen Miller ‘",
-      "count": 11,
-      "url": "https://thehill.com/homenews/house/6206725-stutzman-decries-miller-promotion/",
-      "source": "The Hill"
-    },
-    {
-      "name": "Abdul El-Sayed",
-      "count": 8,
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/abdul-el-sayed-michigan-senator-oxford-university-years-phd",
-      "source": "The Guardian"
-    },
-    {
-      "name": "James Talarico",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/11/08/us/james-talarico-christianity-texas.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Dana White",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Robert F. Kennedy Jr.",
-      "count": 7,
-      "url": "https://www.cbsnews.com/news/calley-means-white-house-health-and-human-services-rfk-jr/",
-      "source": "CBS News"
-    }
-  ],
-  "updated": "2026-11-08T22:42:58Z"
+  "updated": "2026-11-09T22:55:37Z"
 };

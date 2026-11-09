@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    95,
-    "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html"
-  ],
-  [
-    "president",
-    47,
-    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
+    120,
+    "https://www.nytimes.com/video/us/politics/100000011266496/democrats-plan-corruption-investigations-after-election-victory.html"
   ],
   [
     "democrats",
-    45,
-    "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html"
+    50,
+    "https://www.nytimes.com/video/us/politics/100000011266496/democrats-plan-corruption-investigations-after-election-victory.html"
   ],
   [
-    "party",
-    32,
-    "https://www.washingtonpost.com/elections/2026/11/07/floridas-most-venezuelan-city-put-republican-party-notice/"
+    "president",
+    48,
+    "https://www.nytimes.com/video/us/politics/100000011266496/democrats-plan-corruption-investigations-after-election-victory.html"
   ],
   [
-    "elect",
-    31,
-    "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html"
+    "nvidia",
+    40,
+    "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html"
   ],
   [
-    "night",
-    28,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico"
-  ],
-  [
-    "voters",
-    28,
-    "https://www.theguardian.com/us-news/2026/nov/08/native-american-women-midterm-elections"
+    "huang",
+    38,
+    "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html"
   ],
   [
     "midterm",
-    26,
-    "https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html"
+    34,
+    "https://www.nytimes.com/video/us/politics/100000011266496/democrats-plan-corruption-investigations-after-election-victory.html"
   ],
   [
-    "election",
-    26,
-    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
+    "war",
+    28,
+    "https://www.washingtonpost.com/nation/2026/11/09/two-east-german-officials-who-accidentally-brought-down-berlin-wall/"
   ],
   [
-    "secretary",
+    "jensen",
+    27,
+    "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html"
+  ],
+  [
+    "court",
     25,
-    "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html"
-  ],
-  [
-    "win",
-    25,
-    "https://www.nytimes.com/2026/11/08/us/james-talarico-christianity-texas.html"
-  ],
-  [
-    "power",
-    25,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico"
+    "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html"
   ],
   [
     "texas",
+    25,
+    "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html"
+  ],
+  [
+    "early",
+    25,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "john",
     24,
-    "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html"
+    "https://www.nytimes.com/2026/11/09/books/booker-prize-winner-2026-science-fiction.html"
   ],
   [
-    "democratic",
-    22,
-    "https://www.washingtonpost.com/elections/2026/11/07/floridas-most-venezuelan-city-put-republican-party-notice/"
+    "donald",
+    24,
+    "https://www.washingtonpost.com/nation/2026/11/09/post-midterm-doj-leadership-shake-up-continues/"
   ],
   [
-    "rep",
+    "ceo",
+    23,
+    "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html"
+  ],
+  [
+    "game",
+    23,
+    "https://www.theguardian.com/environment/2026/nov/09/family-farming-agritainment"
+  ],
+  [
+    "hegseth",
     22,
-    "https://www.cbsnews.com/news/nancy-lacore-south-carolina-democrat-face-the-nation-transcript-11-08-2026/"
+    "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html"
   ],
   [
     "political",
+    22,
+    "https://www.theguardian.com/commentisfree/2026/nov/08/time-to-fight-back"
+  ],
+  [
+    "climate",
+    22,
+    "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31"
+  ],
+  [
+    "season",
     21,
-    "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html"
+    "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html"
+  ],
+  [
+    "food",
+    21,
+    "https://www.theguardian.com/us-news/2026/nov/09/citizen-shot-ice-officer-lawsuit-california"
   ],
   [
     "republicans",
     21,
-    "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html"
-  ],
-  [
-    "american",
-    21,
-    "https://www.theguardian.com/society/2026/nov/08/ect-electroconvulsive-therapy-how-ted-scheinman-broke-through-depression"
-  ],
-  [
-    "chief",
-    20,
-    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
-  ],
-  [
-    "administration",
-    20,
-    "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html"
-  ],
-  [
-    "country",
-    20,
-    "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html"
-  ],
-  [
-    "florida",
-    20,
-    "https://www.washingtonpost.com/transportation/2026/11/05/ss-united-states-be-sunk-become-worlds-largest-artificial-reef/"
-  ],
-  [
-    "results",
-    20,
-    "https://www.washingtonpost.com/business/2026/11/06/asian-european-markets-slide-amid-fears-greater-ai-oversight/"
-  ],
-  [
-    "nation",
-    20,
-    "https://www.cbsnews.com/news/calley-means-white-house-health-and-human-services-rfk-jr/"
-  ],
-  [
-    "nvidia",
-    19,
-    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
-  ],
-  [
-    "interview",
-    19,
-    "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html"
-  ],
-  [
-    "means",
-    19,
-    "https://www.washingtonpost.com/health/2026/11/06/former-white-house-health-aide-accuses-trump-advisers-catering-special-interests/"
-  ],
-  [
-    "margaret",
-    19,
-    "https://www.cbsnews.com/news/calley-means-white-house-health-and-human-services-rfk-jr/"
+    "https://www.theguardian.com/us-news/2026/nov/09/john-fetterman-pennsylvania-ahmed-moor"
   ],
   [
     "chinese",
-    18,
-    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+    20,
+    "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html"
   ],
   [
-    "black",
-    18,
-    "https://www.washingtonpost.com/obituaries/2026/11/07/martina-arroyo-was-luminous-star-opera-who-broke-racial-barriers/"
+    "brand",
+    20,
+    "https://www.nytimes.com/2026/11/09/arts/russell-brand-prison-sentence-rape.html"
+  ],
+  [
+    "judge",
+    20,
+    "https://www.nytimes.com/2026/11/09/arts/russell-brand-prison-sentence-rape.html"
+  ],
+  [
+    "election",
+    19,
+    "https://www.nytimes.com/video/us/politics/100000011266496/democrats-plan-corruption-investigations-after-election-victory.html"
+  ],
+  [
+    "company",
+    19,
+    "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html"
+  ],
+  [
+    "american",
+    19,
+    "https://www.nytimes.com/2026/11/09/science/american-diabetes-association-turmoil.html"
+  ],
+  [
+    "russell",
+    19,
+    "https://www.nytimes.com/2026/11/09/arts/russell-brand-prison-sentence-rape.html"
+  ],
+  [
+    "night",
+    19,
+    "https://www.theguardian.com/us-news/2026/nov/09/biden-presidency-memoir-promise-me-america-cancer"
   ],
   [
     "investigation",
+    18,
+    "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html"
+  ],
+  [
+    "democratic",
+    18,
+    "https://www.nytimes.com/2026/11/09/us/politics/congress-democratic-long-shots.html"
+  ],
+  [
+    "iran",
+    18,
+    "https://www.theguardian.com/sport/2026/nov/09/donald-trump-dana-white-ufc-midterms-sports-politics"
+  ],
+  [
+    "sexual",
     17,
-    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+    "https://www.nytimes.com/2026/11/09/arts/russell-brand-prison-sentence-rape.html"
   ],
   [
-    "congress",
+    "win",
     17,
-    "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html"
+    "https://www.nytimes.com/2026/11/09/us/politics/congress-democratic-long-shots.html"
   ],
   [
-    "york",
+    "death",
     17,
-    "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html"
+    "https://www.nytimes.com/2026/11/09/us/dengue-united-states-florida-mosquitos.html"
   ],
   [
-    "blue",
+    "latest",
     17,
-    "https://www.washingtonpost.com/obituaries/2026/11/08/listening-madonna-blue-camaro-other-lives-we-lost/"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
-    "ice",
+    "secretary",
     17,
-    "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/"
-  ],
-  [
-    "senate",
-    17,
-    "https://www.washingtonpost.com/elections/2026/11/07/floridas-most-venezuelan-city-put-republican-party-notice/"
-  ],
-  [
-    "health",
-    17,
-    "https://www.washingtonpost.com/health/2026/11/06/former-white-house-health-aide-accuses-trump-advisers-catering-special-interests/"
-  ],
-  [
-    "miller",
-    17,
-    "https://www.washingtonpost.com/business/2026/11/06/industries-that-rely-immigrant-workers-decry-stephen-millers-promotion/"
-  ],
-  [
-    "healthcare",
-    17,
-    "https://www.theguardian.com/us-news/2026/nov/08/transgender-rights-unraveled"
-  ],
-  [
-    "brennan",
-    17,
-    "https://www.cbsnews.com/news/calley-means-white-house-health-and-human-services-rfk-jr/"
-  ],
-  [
-    "huang",
-    16,
-    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
-  ],
-  [
-    "james",
-    16,
-    "https://www.nytimes.com/2026/11/08/us/james-talarico-christianity-texas.html"
-  ],
-  [
-    "politics",
-    16,
-    "https://www.nytimes.com/2026/11/08/us/james-talarico-christianity-texas.html"
-  ],
-  [
-    "clear",
-    16,
-    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
-  ],
-  [
-    "won",
-    16,
-    "https://www.washingtonpost.com/nation/2026/11/07/houston-mayor-says-police-will-no-longer-call-ice-unless-charges-are-jailable/"
-  ],
-  [
-    "donald",
-    16,
-    "https://www.washingtonpost.com/business/2026/11/06/industries-that-rely-immigrant-workers-decry-stephen-millers-promotion/"
-  ],
-  [
-    "midterms",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "elections",
+    17,
+    "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote"
+  ],
+  [
+    "because",
+    17,
+    "https://www.theguardian.com/us-news/2026/nov/09/biden-presidency-memoir-promise-me-america-cancer"
+  ],
+  [
+    "massie",
     16,
-    "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration"
+    "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html"
   ],
   [
-    "love",
+    "senate",
     16,
-    "https://www.theguardian.com/us-news/2026/nov/08/abdul-el-sayed-michigan-senator-oxford-university-years-phd"
+    "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html"
   ],
   [
-    "past",
-    15,
-    "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html"
+    "trial",
+    16,
+    "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html"
   ],
   [
-    "hegseth",
-    15,
-    "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html"
+    "supreme",
+    16,
+    "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html"
   ],
   [
-    "victory",
-    15,
-    "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html"
+    "rape",
+    16,
+    "https://www.nytimes.com/2026/11/09/arts/russell-brand-prison-sentence-rape.html"
   ],
   [
-    "america",
-    15,
-    "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
+    "video",
+    16,
+    "https://www.theguardian.com/us-news/2026/nov/09/ohio-state-sae-fire-suspension"
   ],
   [
-    "ceo",
+    "social",
+    16,
+    "https://www.theguardian.com/us-news/2026/nov/09/ohio-state-sae-fire-suspension"
+  ],
+  [
+    "pete",
     15,
-    "https://www.washingtonpost.com/business/2026/11/08/nvidia-opens-investigation-into-ceo-over-relationship-with-suspected-chinese-spy/"
+    "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html"
   ],
   [
     "republican",
     15,
-    "https://www.washingtonpost.com/elections/2026/11/07/floridas-most-venezuelan-city-put-republican-party-notice/"
+    "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html"
   ],
   [
-    "gop",
+    "family",
     15,
-    "https://www.washingtonpost.com/education/2026/11/07/texas-remade-education-gops-image-hinojosa-plans-undo-it/"
+    "https://www.nytimes.com/video/us/politics/100000011266496/democrats-plan-corruption-investigations-after-election-victory.html"
   ],
   [
-    "early",
+    "congress",
     15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/11/09/magazine/congress-trump-oversight-investigations-presidency.html"
   ],
   [
-    "latest",
+    "became",
     15,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html"
   ],
   [
-    "feel",
+    "chief",
     15,
-    "https://www.theguardian.com/us-news/2026/nov/08/transgender-rights-unraveled"
+    "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html"
   ],
   [
-    "close",
+    "border",
     15,
-    "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+    "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html"
   ],
   [
-    "game",
+    "power",
     15,
-    "https://www.theguardian.com/football/2026/nov/08/nwsl-playoffs-roundup-gotham-reign-spirit-thorns"
-  ],
-  [
-    "relationship",
-    14,
-    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
-  ],
-  [
-    "final",
-    14,
-    "https://www.washingtonpost.com/transportation/2026/11/05/ss-united-states-be-sunk-become-worlds-largest-artificial-reef/"
-  ],
-  [
-    "industry",
-    14,
-    "https://www.washingtonpost.com/business/2026/11/06/investors-dumping-ai-company-stocks-fears-democrats-will-stop-data-centers/"
-  ],
-  [
-    "campaign",
-    14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+    "https://www.nytimes.com/2026/11/09/us/politics/progressive-wins-midterms.html"
   ],
   [
     "everything",
-    14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    15,
+    "https://www.nytimes.com/2026/11/09/books/booker-prize-winner-2026-science-fiction.html"
   ],
   [
-    "war",
-    14,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "fire",
+    15,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "film",
-    14,
-    "https://www.theguardian.com/film/2026/nov/08/ava-duvernay-interview-trump-documentary-film-14th-amendment"
+    "university",
+    15,
+    "https://www.theguardian.com/wellness/2026/nov/09/flu-vaccine-what-to-know"
+  ],
+  [
+    "love",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/nov/09/best-advent-calendars"
   ],
   [
     "california",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue"
+    15,
+    "https://www.theguardian.com/us-news/2026/nov/09/citizen-shot-ice-officer-lawsuit-california"
   ],
   [
-    "sayed",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/08/abdul-el-sayed-michigan-senator-oxford-university-years-phd"
+    "media",
+    15,
+    "https://www.theguardian.com/us-news/2026/nov/09/ohio-state-sae-fire-suspension"
   ],
   [
-    "season",
+    "google",
+    15,
+    "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai"
+  ],
+  [
+    "cbs",
+    15,
+    "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration"
+  ],
+  [
+    "poll",
+    15,
+    "https://www.cbsnews.com/news/coronavirus-pandemic-economy-opinion-poll-02-13-2022/"
+  ],
+  [
+    "vote",
     14,
-    "https://www.theguardian.com/football/2026/nov/08/michael-carrick-denies-risk-manchester-united-sack-aston-villa-premier-league-draw"
+    "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html"
+  ],
+  [
+    "affair",
+    14,
+    "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html"
+  ],
+  [
+    "party",
+    14,
+    "https://www.nytimes.com/2026/11/09/us/politics/progressive-wins-midterms.html"
+  ],
+  [
+    "black",
+    14,
+    "https://www.nytimes.com/2026/11/09/us/senfronia-thompson-ms-t-texas-house.html"
+  ],
+  [
+    "americans",
+    14,
+    "https://www.nytimes.com/2026/11/09/us/dengue-united-states-florida-mosquitos.html"
+  ],
+  [
+    "security",
+    14,
+    "https://www.washingtonpost.com/politics/2026/11/09/supreme-court-allows-major-part-trumps-border-security-project-texas/"
+  ],
+  [
+    "questions",
+    14,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "late",
+    14,
+    "https://www.theguardian.com/wellness/2026/nov/09/flu-vaccine-what-to-know"
+  ],
+  [
+    "impeachment",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie"
+  ],
+  [
+    "search",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai"
+  ],
+  [
+    "cut",
+    14,
+    "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-booker-prize-end-of-everything"
   ],
   [
     "cat",
     14,
     "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review"
-  ],
-  [
-    "food",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/apr/29/anyday-anydeli-container-review"
-  ],
-  [
-    "nov",
-    14,
-    "https://www.latimes.com/food/story/2026-11-06/iconic-downtown-diner-original-pantry-reopen-this-november"
-  ],
-  [
-    "jensen",
-    13,
-    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
   ]
 ];
