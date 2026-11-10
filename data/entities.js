@@ -2,214 +2,226 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Veers Back",
-      "count": 63,
-      "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
-      "source": "NY Times"
+      "name": "The White House",
+      "count": 40,
+      "url": "https://www.theguardian.com/books/2026/nov/10/mark-danner-crossing-the-rubicon",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Target For Trump",
+      "count": 35,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     },
     {
       "name": "Ai",
-      "count": 34,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/09/elon-musk-tech-bros-donald-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nvidia",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The White House",
-      "count": 26,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Michigan Senate",
-      "count": 17,
-      "url": "https://www.politico.com/news/2026/11/01/haley-stevens-endorses-mike-rogers-michigan-senate-01144698",
-      "source": "Politico"
-    },
-    {
-      "name": "Google Search",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+      "count": 21,
+      "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
       "source": "The Guardian"
     },
     {
       "name": "Gop",
-      "count": 14,
-      "url": "https://www.latimes.com/opinion/story/2026-11-04/trumpism-republican-party-after-midterm-elections",
-      "source": "LA Times"
+      "count": 18,
+      "url": "https://www.foxnews.com/politics/jim-jordan-becomes-new-house-gop-leader-after-closed-door-vote-defeating-steve-scalise",
+      "source": "Fox News"
     },
     {
       "name": "Guardian Us",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/video/2026/nov/09/democrats-big-blue-wave-wins-you-may-have-not-heard-about-video",
+      "count": 13,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/10/democrats-congress-elections-billionaires",
       "source": "The Guardian"
     },
     {
       "name": "Congress",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/11/09/magazine/congress-trump-oversight-investigations-presidency.html",
+      "count": 12,
+      "url": "https://www.washingtonpost.com/education/2026/11/09/what-democrats-can-cannot-do-reverse-trumps-education-upheaval/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Nvidia Hires",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html",
       "source": "NY Times"
     },
     {
-      "name": "Defense &#038;National Security Defense &#038;National Security &",
+      "name": "The Us Senate",
       "count": 10,
-      "url": "https://thehill.com/newsletters/defense-national-security/6209567-massie-kicks-hegseth-impeachment/",
-      "source": "The Hill"
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-fcc-nominee-danielle-thumann",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Google Search",
+      "count": 10,
+      "url": "https://www.theguardian.com/technology/2026/nov/04/google-search-ai-schools",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 10,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 44,
-      "url": "https://www.theguardian.com/technology/2026/nov/09/who-is-alice-huang-the-woman-linked-to-nvidias-ceo",
+      "count": 41,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/10/democrats-congress-elections-billionaires",
       "source": "The Guardian"
     },
     {
+      "name": "U.S.",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+      "source": "NY Times"
+    },
+    {
       "name": "California",
-      "count": 22,
-      "url": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
       "source": "NY Times"
     },
     {
       "name": "Iran",
-      "count": 21,
-      "url": "https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push",
-      "source": "The Guardian"
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html",
+      "source": "NY Times"
     },
     {
       "name": "Texas",
-      "count": 19,
+      "count": 14,
       "url": "https://www.washingtonpost.com/politics/2026/11/09/supreme-court-allows-major-part-trumps-border-security-project-texas/",
       "source": "Washington Post"
     },
     {
-      "name": "China",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+      "name": "London",
+      "count": 12,
+      "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Russia",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
       "source": "NY Times"
     },
     {
-      "name": "U.S.",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Washington",
+      "name": "Florida",
       "count": 10,
-      "url": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The City Of London",
-      "count": 9,
-      "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-booker-prize-end-of-everything",
-      "source": "The Guardian"
+      "url": "https://www.washingtonpost.com/nation/2026/11/10/cockpit-voice-recorder-recovered-florida-jet-crash-that-killed-9/",
+      "source": "Washington Post"
     },
     {
       "name": "Israel",
-      "count": 7,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
+      "source": "NY Times"
     },
     {
-      "name": "Uk",
-      "count": 7,
-      "url": "https://www.theguardian.com/news/2026/nov/10/alien-menace-or-victim-of-xenophobia-the-battle-over-britains-parakeets",
+      "name": "Paris",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/10/france-protests-response-islamophobia-far-right-hate-speech",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 39,
+      "count": 25,
       "url": "https://www.washingtonpost.com/nation/2026/11/09/post-midterm-doj-leadership-shake-up-continues/",
       "source": "Washington Post"
     },
     {
+      "name": "Jim Jordan",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Pete Hegseth",
-      "count": 26,
-      "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Jensen Huang     Why",
-      "count": 17,
-      "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Thomas Massie Moves",
-      "count": 12,
-      "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Russell Brand",
-      "count": 12,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/10/russell-brand-jailed-sex-attackers-music-film-tv-theatre-abuse-ciisa",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Dana White",
-      "count": 12,
-      "url": "https://www.theguardian.com/sport/2026/nov/10/how-politics-shapes-sporting-choices-messi-ronaldo-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "M. John Harrison",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/10/13/books/review/m-john-harrison-end-of-everything.html",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html",
       "source": "NY Times"
     },
     {
       "name": "Jensen Huang",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/business/2026/11/08/nvidia-opens-investigation-into-ceo-over-relationship-with-suspected-chinese-spy/",
-      "source": "Washington Post"
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
+      "source": "NY Times"
     },
     {
-      "name": "Ralph Vaughan Williams",
-      "count": 8,
-      "url": "https://www.theguardian.com/books/2026/nov/10/lessons-in-harmony-by-jonathan-coe-review-what-can-music-tell-us-about-national-identity",
+      "name": "Steve Scalise",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/house-republicans-epstein-investigation",
       "source": "The Guardian"
     },
     {
-      "name": "Taylor Swift  Paul Mccartney",
+      "name": "Jordon Hudson",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/live/2026/nov/10/nfl-trade-deadline-2026-live-updates-deals-rumors-news",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Stephen Miller",
       "count": 6,
-      "url": "https://www.theguardian.com/music/2026/nov/09/paul-mccartney-billionaire",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/10/stephen-miller-shadow-president-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Kirk Cousins",
+      "count": 6,
+      "url": "https://www.theguardian.com/sport/live/2026/nov/10/nfl-trade-deadline-2026-live-updates-deals-rumors-news",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ralph Vaughan Williams",
+      "count": 6,
+      "url": "https://www.theguardian.com/books/2026/nov/10/lessons-in-harmony-by-jonathan-coe-review-what-can-music-tell-us-about-national-identity",
       "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "The Super Bowl",
-      "count": 3,
-      "url": "https://www.foxnews.com/outkick-sports/jaguars-all-winning-super-bowl-completing-three-trades-one-day-title-push",
-      "source": "Fox News"
+      "name": "Veterans Day",
+      "count": 2,
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-toe-statue-dc-vietnam-war-draft",
+      "source": "The Guardian"
     },
     {
-      "name": "Billionaire Tax Measure",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran War Unexpectedly",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/11/09/climate/global-emissions-iran-war.html",
-      "source": "NY Times"
+      "name": "Super Bowl",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/nov/09/bills-vikings-monday-night-football",
+      "source": "The Guardian"
     },
     {
       "name": "The Cold War",
       "count": 1,
       "url": "https://www.washingtonpost.com/nation/2026/11/09/two-east-german-officials-who-accidentally-brought-down-berlin-wall/",
       "source": "Washington Post"
+    },
+    {
+      "name": "Groundhog Day",
+      "count": 1,
+      "url": "https://www.theguardian.com/environment/2026/nov/10/cop31-will-involve-lots-of-talking-about-talking-but-there-are-wins-to-be-had",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Australian Open",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/nov/10/hot-mics-andreeva-diva-drama-and-a-stopgap-finale-at-indian-wells-bail-out-the-wta",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai  Anthropic",
+      "count": 1,
+      "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
+      "source": "The Guardian"
     },
     {
       "name": "The Vietnam War",
@@ -224,29 +236,17 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Animated Series",
-      "count": 1,
-      "url": "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review",
-      "source": "The Guardian"
-    },
-    {
       "name": "Helluva Ride",
       "count": 1,
       "url": "https://www.theguardian.com/books/2026/nov/09/look-at-me-by-dustin-hoffman-review-an-era-defining-actor-says-his-piece",
       "source": "The Guardian"
     },
     {
-      "name": "Olympic",
+      "name": "The Iran War",
       "count": 1,
-      "url": "https://www.latimes.com/sports/olympics/story/2026-11-09/olympic-gold-medalist-danny-everett-love-for-cooking",
-      "source": "LA Times"
-    },
-    {
-      "name": "The War Powers Resolution",
-      "count": 1,
-      "url": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
-      "source": "NPR"
+      "url": "https://www.foxnews.com/politics/democrats-rally-behind-gop-lawmaker-hegseth-impeachment-push-signal-more-january",
+      "source": "Fox News"
     }
   ],
-  "updated": "2026-11-10T08:07:27Z"
+  "updated": "2026-11-10T20:20:47Z"
 };
