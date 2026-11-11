@@ -2,143 +2,133 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    63,
+    79,
     "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html"
   ],
   [
     "president",
-    38,
+    41,
     "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html"
   ],
   [
     "democrats",
-    37,
-    "https://www.nytimes.com/2026/11/10/us/ballot-measures-democrats-republicans.html"
-  ],
-  [
-    "republicans",
-    27,
-    "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html"
-  ],
-  [
-    "california",
-    23,
-    "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html"
+    36,
+    "https://www.nytimes.com/2026/11/10/us/politics/trump-midterm-elections-chaos.html"
   ],
   [
     "hegseth",
-    22,
-    "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html"
-  ],
-  [
-    "leader",
-    20,
-    "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html"
-  ],
-  [
-    "jordan",
-    20,
-    "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html"
-  ],
-  [
-    "midterm",
-    20,
-    "https://www.nytimes.com/2026/11/10/us/ballot-measures-democrats-republicans.html"
-  ],
-  [
-    "family",
-    20,
-    "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html"
-  ],
-  [
-    "school",
-    20,
-    "https://www.nytimes.com/2026/11/10/nyregion/bronx-school-hip-hop.html"
-  ],
-  [
-    "police",
-    20,
-    "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire"
-  ],
-  [
-    "gop",
-    20,
-    "https://www.foxnews.com/politics/jim-jordan-becomes-new-house-gop-leader-after-closed-door-vote-defeating-steve-scalise"
-  ],
-  [
-    "democratic",
-    19,
-    "https://www.nytimes.com/2026/11/10/us/ballot-measures-democrats-republicans.html"
-  ],
-  [
-    "war",
-    19,
-    "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html"
+    31,
+    "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html"
   ],
   [
     "investigation",
-    19,
-    "https://www.washingtonpost.com/technology/2026/11/08/read-jensen-huangs-letter-nvidia-about-his-affair-with-suspected-chinese-spy/"
+    28,
+    "https://www.washingtonpost.com/nation/2026/11/10/police-chief-defends-timing-nj-townships-wire-fraud-announcement/"
   ],
   [
-    "sex",
-    19,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/10/david-walliams-accused-preying-on-young-women-for-sex"
+    "family",
+    27,
+    "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html"
   ],
   [
-    "nvidia",
+    "police",
+    27,
+    "https://www.washingtonpost.com/nation/2026/11/10/police-chief-defends-timing-nj-townships-wire-fraud-announcement/"
+  ],
+  [
+    "midterm",
+    24,
+    "https://www.nytimes.com/2026/11/10/opinion/israel-elections-netanyahu-eisenkot-trump.html"
+  ],
+  [
+    "court",
+    24,
+    "https://www.washingtonpost.com/politics/2026/11/10/supreme-court-grapples-with-arguments-sun-valley-orchards-case/"
+  ],
+  [
+    "war",
+    24,
+    "https://www.washingtonpost.com/nation/2026/11/09/two-east-german-officials-who-accidentally-brought-down-berlin-wall/"
+  ],
+  [
+    "republicans",
+    23,
+    "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html"
+  ],
+  [
+    "food",
+    21,
+    "https://www.washingtonpost.com/business/2026/11/10/inflation-pace-slowed-october-prices-remain-high/"
+  ],
+  [
+    "power",
+    19,
+    "https://www.washingtonpost.com/politics/2026/11/10/supreme-court-grapples-with-arguments-sun-valley-orchards-case/"
+  ],
+  [
+    "season",
+    19,
+    "https://www.theguardian.com/environment/2026/nov/10/alaska-skagway-community-cruise-ship-tourism-housing"
+  ],
+  [
+    "chinese",
     18,
     "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html"
   ],
   [
-    "chief",
+    "defense",
     18,
-    "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html"
+    "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html"
   ],
   [
-    "food",
+    "senate",
     18,
-    "https://www.nytimes.com/2026/11/10/magazine/human-grade-dog-food.html"
+    "https://www.nytimes.com/2026/11/10/us/elections/mississippi-ballots-election-laws.html"
   ],
   [
-    "iran",
+    "republican",
     18,
-    "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html"
+    "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html"
+  ],
+  [
+    "california",
+    18,
+    "https://www.nytimes.com/2026/11/10/us/ice-detainees-hidden-location-deportation.html"
+  ],
+  [
+    "donald",
+    18,
+    "https://www.washingtonpost.com/nation/2026/11/09/post-midterm-doj-leadership-shake-up-continues/"
+  ],
+  [
+    "air",
+    17,
+    "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html"
   ],
   [
     "election",
     17,
-    "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html"
+    "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html"
   ],
   [
-    "impeachment",
+    "sexual",
     17,
-    "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html"
+    "https://www.nytimes.com/2026/11/10/nyregion/alina-habba-ethics-new-jersey-trump.html"
   ],
   [
-    "sports",
+    "film",
     17,
-    "https://www.nytimes.com/2026/11/10/arts/design/trump-washington-arch-oval-office.html"
+    "https://www.nytimes.com/2026/11/10/arts/stacy-keach-dead.html"
   ],
   [
-    "judge",
+    "start",
     17,
-    "https://www.nytimes.com/2026/11/10/nyregion/ice-mamdani-migrants-court-ruling.html"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "review",
+    "alleged",
     17,
-    "https://www.washingtonpost.com/immigration/2026/11/10/no-business-having-gun-some-ice-recruits-had-record-red-flags/"
-  ],
-  [
-    "donald",
-    17,
-    "https://www.washingtonpost.com/nation/2026/11/09/post-midterm-doj-leadership-shake-up-continues/"
-  ],
-  [
-    "party",
-    17,
-    "https://www.theguardian.com/commentisfree/2026/nov/10/stephen-miller-shadow-president-trump"
+    "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire"
   ],
   [
     "game",
@@ -146,19 +136,29 @@
     "https://www.theguardian.com/football/2026/nov/10/michael-carrick-firing-managers-premier-league"
   ],
   [
-    "huang",
-    16,
-    "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html"
+    "gop",
+    17,
+    "https://www.foxnews.com/politics/house-gop-leaders-block-massie-hegseth-impeachment-push"
   ],
   [
-    "jim",
-    16,
-    "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html"
+    "rep",
+    17,
+    "https://www.foxnews.com/politics/house-gop-leaders-block-massie-hegseth-impeachment-push"
   ],
   [
-    "company",
+    "impeachment",
     16,
-    "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html"
+    "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html"
+  ],
+  [
+    "pete",
+    16,
+    "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html"
+  ],
+  [
+    "democratic",
+    16,
+    "https://www.nytimes.com/2026/11/10/us/elections/mississippi-ballots-election-laws.html"
   ],
   [
     "ice",
@@ -166,64 +166,119 @@
     "https://www.nytimes.com/2026/11/10/us/ice-detainees-hidden-location-deportation.html"
   ],
   [
-    "court",
+    "north",
     16,
-    "https://www.washingtonpost.com/politics/2026/11/09/supreme-court-allows-major-part-trumps-border-security-project-texas/"
-  ],
-  [
-    "sexual",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/10/david-walliams-accused-preying-on-young-women-for-sex"
-  ],
-  [
-    "video",
-    16,
-    "https://www.theguardian.com/sport/live/2026/nov/10/nfl-trade-deadline-2026-live-updates-deals-rumors-news"
-  ],
-  [
-    "chinese",
-    15,
-    "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html"
-  ],
-  [
-    "close",
-    15,
-    "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html"
-  ],
-  [
-    "republican",
-    15,
-    "https://www.nytimes.com/2026/11/10/us/ballot-measures-democrats-republicans.html"
-  ],
-  [
-    "department",
-    15,
-    "https://www.nytimes.com/2026/11/10/us/politics/democrats-corey-lewandowski-investigations.html"
+    "https://www.nytimes.com/2026/11/10/us/la-car-crash-north-hollywood.html"
   ],
   [
     "early",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    16,
+    "https://www.washingtonpost.com/nation/2026/11/10/police-chief-defends-timing-nj-townships-wire-fraud-announcement/"
   ],
   [
-    "start",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "power",
-    15,
-    "https://www.theguardian.com/lifeandstyle/2026/nov/10/eight-classic-power-poses-and-what-they-really-mean"
-  ],
-  [
-    "authorities",
-    15,
+    "russia",
+    16,
     "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire"
+  ],
+  [
+    "secretary",
+    15,
+    "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html"
+  ],
+  [
+    "party",
+    15,
+    "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html"
+  ],
+  [
+    "though",
+    15,
+    "https://www.nytimes.com/2026/11/10/us/politics/bernie-sanders-chuck-schumer-senate.html"
+  ],
+  [
+    "company",
+    15,
+    "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html"
+  ],
+  [
+    "chief",
+    15,
+    "https://www.washingtonpost.com/nation/2026/11/10/police-chief-defends-timing-nj-townships-wire-fraud-announcement/"
+  ],
+  [
+    "review",
+    15,
+    "https://www.washingtonpost.com/immigration/2026/11/10/no-business-having-gun-some-ice-recruits-had-record-red-flags/"
+  ],
+  [
+    "team",
+    15,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "john",
+    15,
+    "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai"
+  ],
+  [
+    "lawsuit",
+    15,
+    "https://www.theguardian.com/us-news/2026/nov/10/kennedy-family-lawsuit-trump-arch-jfk"
+  ],
+  [
+    "sex",
+    15,
+    "https://www.theguardian.com/tv-and-radio/2026/nov/10/david-walliams-accused-preying-on-young-women-for-sex"
   ],
   [
     "based",
     15,
     "https://www.theguardian.com/us-news/2026/nov/10/measles-outbreak-vaccinations-acip"
+  ],
+  [
+    "battle",
+    15,
+    "https://www.theguardian.com/environment/2026/nov/10/cop31-will-involve-lots-of-talking-about-talking-but-there-are-wins-to-be-had"
+  ],
+  [
+    "win",
+    15,
+    "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-prize-winner-sci-fi-alien-invasion-kent"
+  ],
+  [
+    "florida",
+    14,
+    "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html"
+  ],
+  [
+    "released",
+    14,
+    "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html"
+  ],
+  [
+    "united",
+    14,
+    "https://www.nytimes.com/2026/11/11/climate/trump-cop31-climate-turkey.html"
+  ],
+  [
+    "iran",
+    14,
+    "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html"
+  ],
+  [
+    "near",
+    14,
+    "https://www.nytimes.com/2026/11/10/us/la-car-crash-north-hollywood.html"
+  ],
+  [
+    "hollywood",
+    14,
+    "https://www.nytimes.com/2026/11/10/us/la-car-crash-north-hollywood.html"
+  ],
+  [
+    "thomas",
+    14,
+    "https://www.washingtonpost.com/nation/2026/11/10/meghan-markles-estranged-father-jailed-after-allegedly-removing-ankle-monitor/"
   ],
   [
     "prices",
@@ -236,14 +291,34 @@
     "https://www.washingtonpost.com/politics/2026/11/09/supreme-court-allows-major-part-trumps-border-security-project-texas/"
   ],
   [
-    "justice",
+    "feel",
     14,
-    "https://www.washingtonpost.com/nation/2026/11/09/post-midterm-doj-leadership-shake-up-continues/"
+    "https://www.theguardian.com/lifeandstyle/2026/nov/11/the-thermostat-wars-tearing-couples-apart-its-hard-to-feel-sexy-when-youre-freezing-cold"
   ],
   [
-    "cruise",
+    "something",
     14,
-    "https://www.theguardian.com/environment/2026/nov/10/alaska-skagway-community-cruise-ship-tourism-housing"
+    "https://www.theguardian.com/fashion/2026/nov/11/maybelline-new-tagline-maybe-quote-slogan-new-update"
+  ],
+  [
+    "video",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/10/university-of-mississippi-white-students-monkey-gestures"
+  ],
+  [
+    "enough",
+    14,
+    "https://www.theguardian.com/tv-and-radio/2026/nov/11/the-lord-of-the-rings-the-rings-of-power-season-three-review"
+  ],
+  [
+    "french",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/nov/10/france-protests-response-islamophobia-far-right-hate-speech"
+  ],
+  [
+    "nbc",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/10/haitian-boy-ice-california"
   ],
   [
     "cat",
@@ -251,128 +326,53 @@
     "https://www.theguardian.com/lifeandstyle/2026/nov/10/eight-classic-power-poses-and-what-they-really-mean"
   ],
   [
-    "case",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/10/david-walliams-accused-preying-on-young-women-for-sex"
-  ],
-  [
-    "late",
-    14,
-    "https://www.theguardian.com/culture/2026/nov/10/jon-stewart-trump-60-minutes-interview"
-  ],
-  [
-    "film",
-    14,
-    "https://www.theguardian.com/film/2026/nov/11/japan-takashi-miikes-13-assasins-samurai-remake-review"
-  ],
-  [
-    "relationship",
+    "despite",
     13,
     "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html"
   ],
   [
-    "political",
+    "effort",
     13,
-    "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html"
+    "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html"
   ],
   [
-    "security",
+    "far",
     13,
-    "https://www.nytimes.com/2026/11/10/us/politics/democrats-corey-lewandowski-investigations.html"
+    "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html"
   ],
   [
-    "secretary",
+    "climate",
     13,
-    "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html"
+    "https://www.nytimes.com/2026/11/11/climate/trump-cop31-climate-turkey.html"
   ],
   [
-    "states",
+    "arch",
     13,
-    "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html"
+    "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html"
   ],
   [
-    "again",
+    "others",
     13,
-    "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html"
+    "https://www.nytimes.com/2026/11/10/us/la-car-crash-north-hollywood.html"
   ],
   [
-    "medical",
+    "father",
     13,
-    "https://www.washingtonpost.com/politics/2026/11/09/supreme-court-seems-likely-limit-prisoners-ability-sue-over-claims-poor-medical-care/"
+    "https://www.washingtonpost.com/nation/2026/11/10/meghan-markles-estranged-father-jailed-after-allegedly-removing-ankle-monitor/"
   ],
   [
-    "latest",
+    "child",
     13,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.washingtonpost.com/nation/2026/11/10/meghan-markles-estranged-father-jailed-after-allegedly-removing-ankle-monitor/"
   ],
   [
-    "season",
+    "school",
     13,
-    "https://www.theguardian.com/environment/2026/nov/10/alaska-skagway-community-cruise-ship-tourism-housing"
+    "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai"
   ],
   [
-    "don",
+    "members",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/nov/10/eight-classic-power-poses-and-what-they-really-mean"
-  ],
-  [
-    "working",
-    13,
-    "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire"
-  ],
-  [
-    "young",
-    13,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/10/david-walliams-accused-preying-on-young-women-for-sex"
-  ],
-  [
-    "night",
-    13,
-    "https://www.theguardian.com/culture/2026/nov/10/jon-stewart-trump-60-minutes-interview"
-  ],
-  [
-    "cut",
-    13,
-    "https://www.theguardian.com/games/2026/nov/07/gotta-buy-em-all-how-pokemon-card-collecting-became-race-against-scalpers"
-  ],
-  [
-    "elections",
-    12,
-    "https://www.nytimes.com/2026/11/10/us/ballot-measures-democrats-republicans.html"
-  ],
-  [
-    "pete",
-    12,
-    "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html"
-  ],
-  [
-    "gaza",
-    12,
-    "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html"
-  ],
-  [
-    "least",
-    12,
-    "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html"
-  ],
-  [
-    "congress",
-    12,
-    "https://www.washingtonpost.com/education/2026/11/09/what-democrats-can-cannot-do-reverse-trumps-education-upheaval/"
-  ],
-  [
-    "though",
-    12,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "london",
-    12,
-    "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire"
-  ],
-  [
-    "control",
-    12,
-    "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in"
+    "https://www.theguardian.com/us-news/2026/nov/10/kennedy-family-lawsuit-trump-arch-jfk"
   ]
 ];
