@@ -2,52 +2,22 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "The Fifa World Cup",
-      "count": 3,
-      "url": "https://www.foxnews.com/outkick-sports/team-usa-withdraws-fifa-u-17-world-cup-state-department-travel-warning-middle-east",
-      "source": "Fox News"
-    },
-    {
-      "name": "World War Ii Wreck",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Women’S World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/nov/11/womens-world-cup-top-four-groups",
-      "source": "The Guardian"
-    },
-    {
       "name": "The Iran War",
       "count": 2,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/11/project-2025-federal-data-trump-administration",
+      "url": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda",
       "source": "The Guardian"
     },
     {
-      "name": "A Veterans Day",
+      "name": "Us Veterans Day",
       "count": 2,
-      "url": "https://www.nbcnews.com/politics/trump-administration/hegseth-reprimanded-arlington-cemetery-veterans-tomb-unknown-soldier-rcna608869",
-      "source": "NBC News"
+      "url": "https://www.theguardian.com/culture/2026/nov/12/seth-meyers-trump-midterms-denial-late-night",
+      "source": "The Guardian"
     },
     {
-      "name": "Post-Civil War Reconstruction",
+      "name": "The Great Recession",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The Civil War",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "The U.S.-Israel War",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
-      "source": "NY Times"
+      "url": "https://www.washingtonpost.com/business/2026/11/12/housing-market-worst-slump-since-aftermath-great-recession/",
+      "source": "Washington Post"
     },
     {
       "name": "World War I",
@@ -56,122 +26,208 @@
       "source": "Washington Post"
     },
     {
-      "name": "The Us War",
+      "name": "The 2026 World Cup",
       "count": 1,
-      "url": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
-      "source": "The Guardian"
-    }
-  ],
-  "PERSON": [
-    {
-      "name": "Jensen Huang",
-      "count": 29,
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Scott Colom",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Donald Trump",
-      "count": 15,
-      "url": "https://www.washingtonpost.com/nation/2026/11/11/trump-defends-his-war-policies-speech-arlington-national-cemetery/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Pete Hegseth ’S",
-      "count": 15,
-      "url": "https://www.theguardian.com/culture/2026/nov/11/jimmy-kimmel-pete-hegseth-impeachment-conference",
+      "url": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-replacements-usmnt-manchester-united",
       "source": "The Guardian"
     },
     {
-      "name": "Scott Bessent",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
+      "name": "Super Bowl",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/nov/12/nfl-midseason-awards-josh-allen-jahmyr-gibbs-seahawks-bears",
       "source": "The Guardian"
     },
     {
-      "name": "Cindy Hyde-Smith",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
+      "name": "The World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
       "source": "The Guardian"
     },
     {
-      "name": "Rex Ryan",
-      "count": 6,
-      "url": "https://www.theguardian.com/sport/2026/nov/11/rex-ryan-charged-hit-and-run-pedestrians-nashville",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Toward Hegseth",
-      "count": 5,
-      "url": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-soldier-shout.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Charlotte Kirk",
-      "count": 5,
+      "name": "Black Mountain Poets",
+      "count": 1,
       "url": "https://www.theguardian.com/film/2026/nov/12/charlotte-kirk-on-navigating-hollywood",
       "source": "The Guardian"
     },
     {
-      "name": "John Harrison",
+      "name": "Eurovision Asia 2026",
+      "count": 1,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/meet-three-eurovision-asia-2026-hopefuls",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympics",
+      "count": 1,
+      "url": "https://www.latimes.com/sports/story/2026-11-12/dan-hicks-nbc-broadcaster-husband-hannah-storm-dead-at-64",
+      "source": "LA Times"
+    }
+  ],
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 54,
+      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 19,
+      "url": "https://www.nytimes.com/2026/11/12/magazine/air-travel-safety-faa-aviation.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Florida",
+      "count": 13,
+      "url": "https://www.washingtonpost.com/nation/2026/11/12/former-florida-death-row-inmates-appeal-governor-elect-halt-executions/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Northern Gaza",
+      "count": 12,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Uk",
+      "count": 11,
+      "url": "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ukraine",
+      "count": 11,
+      "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Brooklyn",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Israel",
+      "count": 10,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    }
+  ],
+  "PERSON": [
+    {
+      "name": "Jensen Huang     Jensen Huang",
+      "count": 28,
+      "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 19,
+      "url": "https://www.washingtonpost.com/nation/2026/11/11/trump-defends-his-war-policies-speech-arlington-national-cemetery/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Scott Colom",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Colette Kress",
+      "count": 8,
+      "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Stephen Curry",
+      "count": 8,
+      "url": "https://www.theguardian.com/sport/2026/nov/12/marcus-smart-punch-stephen-curry-injury-rockets-warriors-nba",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pete Hegseth",
+      "count": 6,
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Vladimir Putin",
+      "count": 6,
+      "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Roger Taylor",
+      "count": 6,
+      "url": "https://www.theguardian.com/music/2026/nov/12/duran-duran-drummer-roger-taylor-leaves-band-due-to-tinnitus",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Byron Donalds",
       "count": 5,
-      "url": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-science-fiction",
+      "url": "https://www.washingtonpost.com/nation/2026/11/12/former-florida-death-row-inmates-appeal-governor-elect-halt-executions/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Dickens",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Nvidia",
+      "name": "Trump White House",
+      "count": 41,
+      "url": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nvidia Stock Plunges",
       "count": 27,
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
       "source": "NY Times"
     },
     {
-      "name": "Target For Trump",
-      "count": 21,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Ai",
+      "count": 22,
+      "url": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Congress",
+      "count": 14,
+      "url": "https://www.washingtonpost.com/education/2026/11/12/college-students-with-disabilities-may-soon-face-less-red-tape/",
+      "source": "Washington Post"
     },
     {
       "name": "The Oudemannenhuis (Old Men’S House",
-      "count": 17,
+      "count": 14,
       "url": "https://www.theguardian.com/travel/2026/nov/12/canals-city-break-haarlem-netherlands",
       "source": "The Guardian"
     },
     {
-      "name": "Gop",
-      "count": 16,
-      "url": "https://www.latimes.com/california/story/2026-11-11/california-gop-chair-will-not-seek-reelection-after-election-losses",
-      "source": "LA Times"
-    },
-    {
-      "name": "Ai Advantage",
-      "count": 14,
-      "url": "https://www.cbsnews.com/video/did-jensen-huang-just-destroy-americas-ai-advantage-great-question/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Mississippi Senate",
+      "name": "Guardian Science",
       "count": 13,
-      "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
-      "source": "NPR"
-    },
-    {
-      "name": "Congress",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/nov/11/heating-bill-winter-price-increases",
+      "url": "https://www.theguardian.com/science/video/2026/nov/12/obesity-how-to-stop-millions-being-misdiagnosed-video",
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
-      "count": 11,
-      "url": "https://www.theguardian.com/books/2026/nov/10/mark-danner-crossing-the-rubicon",
-      "source": "The Guardian"
+      "name": "Kansas Senate",
+      "count": 12,
+      "url": "https://thehill.com/homenews/campaign/6190120-cindy-holscher-kansas-governor-race/",
+      "source": "The Hill"
     },
     {
       "name": "Google Search",
@@ -180,73 +236,17 @@
       "source": "The Guardian"
     },
     {
-      "name": "Nbc News",
-      "count": 9,
-      "url": "https://www.nbcnews.com/nightly-news/video/nyt-reports-nvidia-ceo-had-second-extramarital-relationship-273310789756",
-      "source": "NBC News"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 50,
-      "url": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mississippi",
-      "count": 20,
-      "url": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "U.S.",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/nov/11/coyote-los-angeles",
-      "source": "The Guardian"
-    },
-    {
-      "name": "North Hollywood",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/los-angeles-vehicle-crash",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Uk",
-      "count": 13,
-      "url": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/nov/11/bronx-fatal-shooting-teen-boy-arrest",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Florida",
+      "name": "Gop",
       "count": 10,
-      "url": "https://www.washingtonpost.com/transportation/2026/11/11/distress-call-flight-tracker-rush-explain-learjet-crash/",
-      "source": "Washington Post"
+      "url": "https://www.foxnews.com/politics/inside-jim-jordans-effort-usher-new-era-republican-leadership-hes-fighter",
+      "source": "Fox News"
     },
     {
-      "name": "Nashville",
-      "count": 10,
-      "url": "https://www.theguardian.com/sport/2026/nov/11/rex-ryan-charged-hit-and-run-pedestrians-nashville",
+      "name": "The Filter Us",
+      "count": 8,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-11-12T08:03:58Z"
+  "updated": "2026-11-12T20:42:25Z"
 };
