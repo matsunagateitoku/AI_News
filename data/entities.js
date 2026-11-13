@@ -3,26 +3,20 @@
   "EVENT": [
     {
       "name": "The Iran War",
-      "count": 2,
-      "url": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda",
+      "count": 4,
+      "url": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
       "source": "The Guardian"
     },
     {
-      "name": "Us Veterans Day",
+      "name": "Olympics",
       "count": 2,
-      "url": "https://www.theguardian.com/culture/2026/nov/12/seth-meyers-trump-midterms-denial-late-night",
-      "source": "The Guardian"
+      "url": "https://www.latimes.com/business/story/2026-11-12/notorious-graffiti-towers-wiped-clean-in-downtown-los-angeles",
+      "source": "LA Times"
     },
     {
       "name": "The Great Recession",
       "count": 1,
       "url": "https://www.washingtonpost.com/business/2026/11/12/housing-market-worst-slump-since-aftermath-great-recession/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "World War I",
-      "count": 1,
-      "url": "https://www.washingtonpost.com/nation/2026/11/11/flanders-fields-how-patriotic-poem-became-an-anti-war-anthem/",
       "source": "Washington Post"
     },
     {
@@ -38,9 +32,9 @@
       "source": "The Guardian"
     },
     {
-      "name": "The World Cup",
+      "name": "Us Veterans Day",
       "count": 1,
-      "url": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
+      "url": "https://www.theguardian.com/culture/2026/nov/12/seth-meyers-trump-midterms-denial-late-night",
       "source": "The Guardian"
     },
     {
@@ -56,178 +50,116 @@
       "source": "The Guardian"
     },
     {
-      "name": "Olympics",
+      "name": "World War Ii",
       "count": 1,
-      "url": "https://www.latimes.com/sports/story/2026-11-12/dan-hicks-nbc-broadcaster-husband-hannah-storm-dead-at-64",
+      "url": "https://www.latimes.com/science/story/2026-11-11/for-peptide-enthusiasts-new-hhs-policy-means-party-time",
       "source": "LA Times"
-    }
-  ],
-  "GPE": [
-    {
-      "name": "Us",
-      "count": 54,
-      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-      "source": "NY Times"
     },
     {
-      "name": "U.S.",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/11/12/magazine/air-travel-safety-faa-aviation.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Florida",
-      "count": 13,
-      "url": "https://www.washingtonpost.com/nation/2026/11/12/former-florida-death-row-inmates-appeal-governor-elect-halt-executions/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Northern Gaza",
-      "count": 12,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
-    },
-    {
-      "name": "Uk",
-      "count": 11,
-      "url": "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Ukraine",
-      "count": 11,
-      "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Brooklyn",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
+      "name": "Black Friday",
+      "count": 1,
+      "url": "https://www.nbcnews.com/select/shopping/walmart-early-black-friday-deals-2026-rcna609055",
+      "source": "NBC News"
     }
   ],
   "PERSON": [
     {
-      "name": "Jensen Huang     Jensen Huang",
-      "count": 28,
-      "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
-      "source": "The Guardian"
+      "name": "Jensen Huang",
+      "count": 35,
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Challenge Chuck Schumer",
+      "count": 20,
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump Jr.’S",
+      "count": 14,
+      "url": "https://thehill.com/policy/technology/6217564-trump-jr-kalshi-advisory-end/",
+      "source": "The Hill"
     },
     {
       "name": "Donald Trump",
-      "count": 19,
+      "count": 13,
       "url": "https://www.washingtonpost.com/nation/2026/11/11/trump-defends-his-war-policies-speech-arlington-national-cemetery/",
       "source": "Washington Post"
     },
     {
+      "name": "Chris Van Hollen Set",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Scott Colom",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-      "source": "The Guardian"
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
+      "source": "NY Times"
     },
     {
-      "name": "Colette Kress",
+      "name": "Jensen Huang'S",
       "count": 8,
-      "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+      "url": "https://www.latimes.com/business/story/2026-11-12/nvidia-shares-tumble-after-jensen-huang-resigns-as-ceo",
+      "source": "LA Times"
+    },
+    {
+      "name": "Cindy Holscher",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Jd Vance",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
       "source": "The Guardian"
     },
     {
-      "name": "Stephen Curry",
-      "count": 8,
-      "url": "https://www.theguardian.com/sport/2026/nov/12/marcus-smart-punch-stephen-curry-injury-rockets-warriors-nba",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Pete Hegseth",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vladimir Putin",
-      "count": 6,
-      "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Roger Taylor",
-      "count": 6,
-      "url": "https://www.theguardian.com/music/2026/nov/12/duran-duran-drummer-roger-taylor-leaves-band-due-to-tinnitus",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Byron Donalds",
-      "count": 5,
-      "url": "https://www.washingtonpost.com/nation/2026/11/12/former-florida-death-row-inmates-appeal-governor-elect-halt-executions/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Dickens",
-      "count": 5,
-      "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens",
+      "name": "Pete Crow-Armstrong",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/nov/12/pete-crow-armstrong-yordan-alvarez-mlb-mvp-awards",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump White House",
-      "count": 41,
-      "url": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda",
-      "source": "The Guardian"
+      "name": "Nvidia Ai",
+      "count": 48,
+      "url": "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/",
+      "source": "CBS News"
     },
     {
-      "name": "Nvidia Stock Plunges",
-      "count": 27,
-      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
+      "name": "Target For Trump",
+      "count": 36,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Senate",
+      "count": 24,
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
       "source": "NY Times"
     },
     {
-      "name": "Ai",
-      "count": 22,
-      "url": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Congress",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/education/2026/11/12/college-students-with-disabilities-may-soon-face-less-red-tape/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "The Oudemannenhuis (Old Men’S House",
-      "count": 14,
-      "url": "https://www.theguardian.com/travel/2026/nov/12/canals-city-break-haarlem-netherlands",
-      "source": "The Guardian"
-    },
-    {
       "name": "Guardian Science",
-      "count": 13,
+      "count": 14,
       "url": "https://www.theguardian.com/science/video/2026/nov/12/obesity-how-to-stop-millions-being-misdiagnosed-video",
       "source": "The Guardian"
     },
     {
-      "name": "Kansas Senate",
+      "name": "Congress",
       "count": 12,
-      "url": "https://thehill.com/homenews/campaign/6190120-cindy-holscher-kansas-governor-race/",
-      "source": "The Hill"
+      "url": "https://www.washingtonpost.com/education/2026/11/12/college-students-with-disabilities-may-soon-face-less-red-tape/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Microsoft",
+      "count": 10,
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+      "source": "The Guardian"
     },
     {
       "name": "Google Search",
@@ -236,10 +168,16 @@
       "source": "The Guardian"
     },
     {
+      "name": "National League Mvp",
+      "count": 10,
+      "url": "https://www.latimes.com/sports/highschool/story/2026-11-12/pete-crow-armstrongs-journey-from-harvard-westlake-to-nl-mvp",
+      "source": "LA Times"
+    },
+    {
       "name": "Gop",
       "count": 10,
-      "url": "https://www.foxnews.com/politics/inside-jim-jordans-effort-usher-new-era-republican-leadership-hes-fighter",
-      "source": "Fox News"
+      "url": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
+      "source": "NPR"
     },
     {
       "name": "The Filter Us",
@@ -248,5 +186,67 @@
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-11-12T20:42:25Z"
+  "GPE": [
+    {
+      "name": "Us",
+      "count": 44,
+      "url": "https://www.theguardian.com/music/2026/nov/12/joni-mitchell-sang-both-sides-now-over-the-phone-to-me-folk-music-legend-judy-collins-on-her-87-remarkable-years",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/11/12/weather/california-storm-west-coast-rain.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Texas",
+      "count": 16,
+      "url": "https://www.washingtonpost.com/nation/2026/11/11/most-transgender-people-have-no-regrets-years-after-hormone-therapy-study-says/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Brooklyn",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Mississippi",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iran",
+      "count": 14,
+      "url": "https://www.washingtonpost.com/nation/2026/11/11/trump-defends-his-war-policies-speech-arlington-national-cemetery/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Kansas",
+      "count": 12,
+      "url": "https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/11/12/world/americas/mexico-prosecutor-cia-us.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "D.C.",
+      "count": 11,
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
+      "source": "NPR"
+    },
+    {
+      "name": "Nvidia",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+      "source": "NY Times"
+    }
+  ],
+  "updated": "2026-11-13T07:42:15Z"
 };

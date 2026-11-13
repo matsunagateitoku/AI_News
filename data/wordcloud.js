@@ -2,143 +2,228 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    60,
-    "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html"
-  ],
-  [
-    "president",
-    39,
-    "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html"
+    67,
+    "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
   ],
   [
     "nvidia",
-    36,
-    "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html"
+    44,
+    "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html"
   ],
   [
-    "democrats",
-    34,
-    "https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html"
+    "president",
+    42,
+    "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
   ],
   [
     "huang",
-    33,
-    "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html"
+    40,
+    "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
+  ],
+  [
+    "democrats",
+    37,
+    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
   ],
   [
     "jensen",
-    30,
-    "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html"
-  ],
-  [
-    "night",
-    28,
-    "https://www.washingtonpost.com/lifestyle/2026/11/12/drunk-raccoons-boozy-night-has-helped-raise-290k-an-animal-shelter/"
+    35,
+    "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
   ],
   [
     "ceo",
+    33,
+    "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+  ],
+  [
+    "win",
+    28,
+    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+  ],
+  [
+    "senate",
     26,
-    "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html"
+    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
   ],
   [
-    "war",
+    "climate",
     24,
-    "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html"
-  ],
-  [
-    "insurance",
-    23,
-    "https://www.theguardian.com/thefilter-us/2026/nov/11/i-went-without-a-car-for-a-month-how-much-money-did-i-save"
-  ],
-  [
-    "something",
-    22,
-    "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash"
+    "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc"
   ],
   [
     "building",
-    21,
-    "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html"
+    23,
+    "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html"
   ],
   [
-    "data",
+    "van",
+    23,
+    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+  ],
+  [
+    "season",
+    23,
+    "https://www.nytimes.com/2026/11/12/weather/california-storm-west-coast-rain.html"
+  ],
+  [
+    "war",
+    23,
+    "https://www.washingtonpost.com/nation/2026/11/11/trump-defends-his-war-policies-speech-arlington-national-cemetery/"
+  ],
+  [
+    "schumer",
     21,
-    "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html"
+    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+  ],
+  [
+    "leader",
+    21,
+    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+  ],
+  [
+    "black",
+    21,
+    "https://www.nytimes.com/2026/11/12/us/black-turnout-georgia.html"
   ],
   [
     "early",
     21,
-    "https://www.washingtonpost.com/nation/2026/11/11/flanders-fields-how-patriotic-poem-became-an-anti-war-anthem/"
+    "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html"
+  ],
+  [
+    "night",
+    20,
+    "https://www.washingtonpost.com/lifestyle/2026/11/12/drunk-raccoons-boozy-night-has-helped-raise-290k-an-animal-shelter/"
+  ],
+  [
+    "hollen",
+    19,
+    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+  ],
+  [
+    "mississippi",
+    19,
+    "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html"
+  ],
+  [
+    "family",
+    19,
+    "https://www.nytimes.com/2026/11/12/nyregion/stanley-zabar-upper-west-side.html"
+  ],
+  [
+    "death",
+    19,
+    "https://www.washingtonpost.com/nation/2026/11/12/former-florida-death-row-inmates-appeal-governor-elect-halt-executions/"
+  ],
+  [
+    "donald",
+    19,
+    "https://www.washingtonpost.com/nation/2026/11/11/trump-defends-his-war-policies-speech-arlington-national-cemetery/"
+  ],
+  [
+    "something",
+    19,
+    "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash"
+  ],
+  [
+    "race",
+    18,
+    "https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html"
   ],
   [
     "won",
-    20,
-    "https://www.nytimes.com/2026/11/12/opinion/democrats-congress-affordability-reform.html"
-  ],
-  [
-    "midterm",
-    19,
-    "https://www.nytimes.com/2026/11/12/us/politics/poll-error-democrats-midterms.html"
-  ],
-  [
-    "democratic",
-    19,
-    "https://www.nytimes.com/2026/11/12/us/politics/poll-error-democrats-midterms.html"
-  ],
-  [
-    "gaza",
-    19,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "country",
     18,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html"
   ],
   [
-    "air",
-    17,
-    "https://www.nytimes.com/2026/11/12/magazine/air-travel-safety-faa-aviation.html"
-  ],
-  [
-    "climate",
-    17,
-    "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit"
-  ],
-  [
-    "investigation",
-    16,
-    "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html"
-  ],
-  [
-    "iran",
-    16,
-    "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html"
+    "american",
+    18,
+    "https://www.washingtonpost.com/health/2026/11/12/new-prostate-cancer-guidelines-suggest-regular-blood-tests-most-older-men/"
   ],
   [
     "don",
-    16,
-    "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html"
+    18,
+    "https://www.washingtonpost.com/lifestyle/2026/11/12/drunk-raccoons-boozy-night-has-helped-raise-290k-an-animal-shelter/"
   ],
   [
-    "party",
-    16,
-    "https://www.nytimes.com/2026/11/12/us/politics/democrats-majorities-economic-populism.html"
+    "iran",
+    18,
+    "https://www.washingtonpost.com/nation/2026/11/11/trump-defends-his-war-policies-speech-arlington-national-cemetery/"
   ],
   [
-    "dead",
-    16,
-    "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html"
+    "past",
+    18,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "shooting",
-    16,
-    "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html"
+    "democratic",
+    18,
+    "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+  ],
+  [
+    "game",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/nov/13/12-12-12-review-anthony-mackie-jamie-dornan-heist"
   ],
   [
     "sales",
+    17,
+    "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html"
+  ],
+  [
+    "killed",
+    17,
+    "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html"
+  ],
+  [
+    "others",
+    17,
+    "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html"
+  ],
+  [
+    "election",
+    17,
+    "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html"
+  ],
+  [
+    "star",
+    17,
+    "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html"
+  ],
+  [
+    "california",
+    17,
+    "https://www.nytimes.com/2026/11/12/weather/california-storm-west-coast-rain.html"
+  ],
+  [
+    "announced",
+    17,
+    "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader"
+  ],
+  [
+    "york",
+    17,
+    "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc"
+  ],
+  [
+    "brooklyn",
     16,
-    "https://www.washingtonpost.com/business/2026/11/12/housing-market-worst-slump-since-aftermath-great-recession/"
+    "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html"
+  ],
+  [
+    "chuck",
+    16,
+    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+  ],
+  [
+    "republican",
+    16,
+    "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html"
+  ],
+  [
+    "office",
+    16,
+    "https://www.washingtonpost.com/nation/2026/11/12/former-florida-death-row-inmates-appeal-governor-elect-halt-executions/"
   ],
   [
     "red",
@@ -146,179 +231,129 @@
     "https://www.washingtonpost.com/education/2026/11/12/college-students-with-disabilities-may-soon-face-less-red-tape/"
   ],
   [
-    "here's",
+    "texas",
     16,
-    "https://www.washingtonpost.com/health/2026/11/11/what-do-if-you-or-someone-around-you-might-be-having-heart-attack/"
+    "https://www.washingtonpost.com/nation/2026/11/11/most-transgender-people-have-no-regrets-years-after-hormone-therapy-study-says/"
   ],
   [
-    "past",
+    "gaza",
     16,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
   ],
   [
-    "wife",
+    "social",
     16,
-    "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash"
+    "https://www.theguardian.com/film/2026/nov/13/billie-piper-women-industry-elsinore-oscar-buzz"
   ],
   [
-    "announced",
+    "party",
     16,
-    "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda"
+    "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader"
   ],
   [
-    "black",
+    "political",
     16,
-    "https://www.theguardian.com/us-news/2026/nov/12/scott-colom-celebrates-mississippi-senate-win-victory-party-speech"
+    "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award"
   ],
   [
-    "family",
+    "sen",
     16,
-    "https://www.theguardian.com/environment/ng-interactive/2026/nov/12/nepal-tibet-flood-bidur-this-is-climate-breakdown"
-  ],
-  [
-    "football",
-    16,
-    "https://www.theguardian.com/sport/2026/nov/12/dan-hicks-nbcs-voice-of-golf-and-olympic-swimming-dies-at-age-of-64-after-acute-illness"
-  ],
-  [
-    "game",
-    15,
-    "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda"
-  ],
-  [
-    "historic",
-    15,
-    "https://www.theguardian.com/us-news/2026/nov/12/scott-colom-celebrates-mississippi-senate-win-victory-party-speech"
-  ],
-  [
-    "giants",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/nov/12/the-guardian-view-on-venture-capitalism-investor-profits-are-no-industrial-strategy"
-  ],
-  [
-    "nbc",
-    15,
-    "https://www.theguardian.com/sport/2026/nov/12/dan-hicks-nbcs-voice-of-golf-and-olympic-swimming-dies-at-age-of-64-after-acute-illness"
+    "https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/"
   ],
   [
     "least",
-    14,
+    15,
     "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html"
   ],
   [
-    "others",
-    14,
-    "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html"
+    "majority",
+    15,
+    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
   ],
   [
-    "search",
-    14,
-    "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html"
+    "colom",
+    15,
+    "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html"
   ],
   [
-    "win",
-    14,
-    "https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html"
+    "voters",
+    15,
+    "https://www.nytimes.com/2026/11/12/us/black-turnout-georgia.html"
   ],
   [
-    "company",
-    14,
-    "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html"
+    "change",
+    15,
+    "https://www.washingtonpost.com/nation/2026/11/12/san-francisco-approves-first-gay-bathhouse-since-aids-epidemic/"
   ],
   [
-    "power",
-    14,
-    "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html"
+    "countries",
+    15,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "season",
-    14,
-    "https://www.nytimes.com/2026/11/12/technology/artifical-intelligence-fakes-midterm-memes.html"
-  ],
-  [
-    "cancer",
-    14,
-    "https://www.nytimes.com/2026/11/12/well/prostate-cancer-screening-guideline.html"
-  ],
-  [
-    "place",
-    14,
-    "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html"
-  ],
-  [
-    "record",
-    14,
-    "https://www.washingtonpost.com/nation/2026/11/12/former-florida-death-row-inmates-appeal-governor-elect-halt-executions/"
-  ],
-  [
-    "american",
-    14,
-    "https://www.washingtonpost.com/health/2026/11/12/new-prostate-cancer-guidelines-suggest-regular-blood-tests-most-older-men/"
-  ],
-  [
-    "congress",
-    14,
-    "https://www.washingtonpost.com/education/2026/11/12/college-students-with-disabilities-may-soon-face-less-red-tape/"
+    "curry",
+    15,
+    "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash"
   ],
   [
     "video",
-    14,
+    15,
     "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash"
-  ],
-  [
-    "christmas",
-    14,
-    "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash"
-  ],
-  [
-    "because",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia"
-  ],
-  [
-    "senate",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/12/senate-investigation-rfk-jr-measles-samoa"
-  ],
-  [
-    "york",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc"
-  ],
-  [
-    "hard",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/nov/12/best-food-advent-calendars"
-  ],
-  [
-    "again",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/nov/04/ohom-ui-ceramic-self-heating-mug-review"
-  ],
-  [
-    "republicans",
-    14,
-    "https://www.theguardian.com/commentisfree/2026/nov/12/trump-war-republicans-midterms"
-  ],
-  [
-    "code",
-    14,
-    "https://www.theguardian.com/books/2026/nov/12/public-access-afterworld-by-jane-schoenbrun-review-horror-in-the-tv-static"
-  ],
-  [
-    "commanders",
-    14,
-    "https://www.foxnews.com/outkick-betting/best-sportsbook-promos-thursday-night-football-2000-bonuses-available-giants-commanders"
-  ],
-  [
-    "killed",
-    13,
-    "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html"
   ],
   [
     "secretary",
+    14,
+    "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html"
+  ],
+  [
+    "chris",
+    14,
+    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+  ],
+  [
+    "challenge",
+    14,
+    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+  ],
+  [
+    "senator",
+    14,
+    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+  ],
+  [
+    "democrat",
+    14,
+    "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html"
+  ],
+  [
+    "young",
+    14,
+    "https://www.nytimes.com/2026/11/12/us/black-turnout-georgia.html"
+  ],
+  [
+    "suspected",
+    14,
+    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
+  ],
+  [
+    "ahead",
+    14,
+    "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked"
+  ],
+  [
+    "affair",
+    14,
+    "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+  ],
+  [
+    "scott",
     13,
-    "https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html"
+    "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html"
+  ],
+  [
+    "dead",
+    13,
+    "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html"
   ],
   [
     "washington",
@@ -326,53 +361,18 @@
     "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html"
   ],
   [
-    "gym",
+    "congress",
     13,
-    "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html"
+    "https://www.washingtonpost.com/education/2026/11/12/college-students-with-disabilities-may-soon-face-less-red-tape/"
   ],
   [
-    "florida",
+    "chinese",
     13,
-    "https://www.washingtonpost.com/nation/2026/11/12/former-florida-death-row-inmates-appeal-governor-elect-halt-executions/"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "soldier",
+    "air",
     13,
-    "https://www.washingtonpost.com/nation/2026/11/11/flanders-fields-how-patriotic-poem-became-an-anti-war-anthem/"
-  ],
-  [
-    "israeli",
-    13,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  ],
-  [
-    "workers",
-    13,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "film",
-    13,
-    "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked"
-  ],
-  [
-    "curry",
-    13,
-    "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash"
-  ],
-  [
-    "america",
-    13,
-    "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda"
-  ],
-  [
-    "young",
-    13,
-    "https://www.theguardian.com/us-news/ng-interactive/2026/nov/12/maga-dead-manosphere-trump"
-  ],
-  [
-    "colom",
-    13,
-    "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ]
 ];
