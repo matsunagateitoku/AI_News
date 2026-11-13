@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    67,
-    "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
-  ],
-  [
-    "nvidia",
-    44,
-    "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html"
+    61,
+    "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html"
   ],
   [
     "president",
-    42,
-    "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
-  ],
-  [
-    "huang",
-    40,
-    "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
+    35,
+    "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html"
   ],
   [
     "democrats",
-    37,
-    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
-  ],
-  [
-    "jensen",
-    35,
-    "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
-  ],
-  [
-    "ceo",
     33,
-    "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+    "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html"
   ],
   [
-    "win",
-    28,
-    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+    "nvidia",
+    27,
+    "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html"
   ],
   [
-    "senate",
+    "court",
     26,
-    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
-  ],
-  [
-    "climate",
-    24,
-    "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc"
-  ],
-  [
-    "building",
-    23,
-    "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html"
-  ],
-  [
-    "van",
-    23,
-    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+    "https://www.washingtonpost.com/obituaries/2026/11/11/richard-posner-influential-iconoclastic-federal-judge-dies-87/"
   ],
   [
     "season",
+    26,
+    "https://www.theguardian.com/thefilter-us/2026/oct/02/best-beauty-advent-calendars"
+  ],
+  [
+    "country",
     23,
-    "https://www.nytimes.com/2026/11/12/weather/california-storm-west-coast-rain.html"
-  ],
-  [
-    "war",
-    23,
-    "https://www.washingtonpost.com/nation/2026/11/11/trump-defends-his-war-policies-speech-arlington-national-cemetery/"
-  ],
-  [
-    "schumer",
-    21,
-    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
-  ],
-  [
-    "leader",
-    21,
-    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
-  ],
-  [
-    "black",
-    21,
-    "https://www.nytimes.com/2026/11/12/us/black-turnout-georgia.html"
-  ],
-  [
-    "early",
-    21,
-    "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html"
-  ],
-  [
-    "night",
-    20,
-    "https://www.washingtonpost.com/lifestyle/2026/11/12/drunk-raccoons-boozy-night-has-helped-raise-290k-an-animal-shelter/"
-  ],
-  [
-    "hollen",
-    19,
-    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
-  ],
-  [
-    "mississippi",
-    19,
-    "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html"
-  ],
-  [
-    "family",
-    19,
-    "https://www.nytimes.com/2026/11/12/nyregion/stanley-zabar-upper-west-side.html"
-  ],
-  [
-    "death",
-    19,
-    "https://www.washingtonpost.com/nation/2026/11/12/former-florida-death-row-inmates-appeal-governor-elect-halt-executions/"
-  ],
-  [
-    "donald",
-    19,
-    "https://www.washingtonpost.com/nation/2026/11/11/trump-defends-his-war-policies-speech-arlington-national-cemetery/"
-  ],
-  [
-    "something",
-    19,
-    "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash"
-  ],
-  [
-    "race",
-    18,
-    "https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html"
-  ],
-  [
-    "won",
-    18,
-    "https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html"
-  ],
-  [
-    "american",
-    18,
-    "https://www.washingtonpost.com/health/2026/11/12/new-prostate-cancer-guidelines-suggest-regular-blood-tests-most-older-men/"
-  ],
-  [
-    "don",
-    18,
-    "https://www.washingtonpost.com/lifestyle/2026/11/12/drunk-raccoons-boozy-night-has-helped-raise-290k-an-animal-shelter/"
+    "https://www.washingtonpost.com/nation/2026/11/13/story-behind-pick-another-protein-ad-that-helped-scott-colom-win/"
   ],
   [
     "iran",
-    18,
-    "https://www.washingtonpost.com/nation/2026/11/11/trump-defends-his-war-policies-speech-arlington-national-cemetery/"
-  ],
-  [
-    "past",
-    18,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "democratic",
-    18,
-    "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
-  ],
-  [
-    "game",
-    18,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/13/12-12-12-review-anthony-mackie-jamie-dornan-heist"
-  ],
-  [
-    "sales",
-    17,
-    "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html"
-  ],
-  [
-    "killed",
-    17,
-    "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html"
-  ],
-  [
-    "others",
-    17,
-    "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html"
+    21,
+    "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html"
   ],
   [
     "election",
-    17,
-    "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html"
+    21,
+    "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html"
   ],
   [
-    "star",
-    17,
-    "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html"
+    "war",
+    20,
+    "https://www.nytimes.com/2026/11/13/books/review/promise-me-america-joe-biden.html"
+  ],
+  [
+    "democratic",
+    19,
+    "https://www.nytimes.com/2026/11/13/us/politics/jeffries-house-speaker-democrats.html"
+  ],
+  [
+    "night",
+    19,
+    "https://www.washingtonpost.com/lifestyle/2026/11/12/drunk-raccoons-boozy-night-has-helped-raise-290k-an-animal-shelter/"
+  ],
+  [
+    "don",
+    19,
+    "https://www.washingtonpost.com/lifestyle/2026/11/12/drunk-raccoons-boozy-night-has-helped-raise-290k-an-animal-shelter/"
   ],
   [
     "california",
-    17,
-    "https://www.nytimes.com/2026/11/12/weather/california-storm-west-coast-rain.html"
+    19,
+    "https://www.theguardian.com/environment/2026/nov/13/california-gavin-newsom-endorses-fossil-fuel-phaseout"
+  ],
+  [
+    "climate",
+    19,
+    "https://www.theguardian.com/environment/2026/nov/13/california-gavin-newsom-endorses-fossil-fuel-phaseout"
+  ],
+  [
+    "guide",
+    19,
+    "https://www.theguardian.com/thefilter-us/2026/nov/13/holiday-gifts-ideas-people-who-have-everything"
+  ],
+  [
+    "huang",
+    18,
+    "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html"
+  ],
+  [
+    "leader",
+    18,
+    "https://www.nytimes.com/2026/11/13/us/politics/jeffries-house-speaker-democrats.html"
+  ],
+  [
+    "win",
+    18,
+    "https://www.nytimes.com/2026/11/13/opinion/ezra-klein-podcast-hasan-piker.html"
+  ],
+  [
+    "air",
+    18,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
     "announced",
-    17,
-    "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader"
+    18,
+    "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts"
   ],
   [
     "york",
     17,
-    "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc"
+    "https://www.nytimes.com/2026/11/13/nyregion/boss-tweed-new-york-times-nyc-history.html"
   ],
   [
-    "brooklyn",
-    16,
-    "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html"
+    "school",
+    17,
+    "https://www.washingtonpost.com/nation/2026/11/13/officials-repaired-school-after-fatal-shooting-healing-students-will-take-longer/"
   ],
   [
-    "chuck",
-    16,
-    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+    "american",
+    17,
+    "https://www.washingtonpost.com/health/2026/11/12/new-prostate-cancer-guidelines-suggest-regular-blood-tests-most-older-men/"
   ],
   [
-    "republican",
-    16,
-    "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html"
+    "supreme",
+    17,
+    "https://www.washingtonpost.com/obituaries/2026/11/11/richard-posner-influential-iconoclastic-federal-judge-dies-87/"
   ],
   [
-    "office",
-    16,
-    "https://www.washingtonpost.com/nation/2026/11/12/former-florida-death-row-inmates-appeal-governor-elect-halt-executions/"
+    "university",
+    17,
+    "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts"
   ],
   [
-    "red",
-    16,
-    "https://www.washingtonpost.com/education/2026/11/12/college-students-with-disabilities-may-soon-face-less-red-tape/"
+    "food",
+    17,
+    "https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay"
   ],
   [
-    "texas",
+    "ceo",
     16,
-    "https://www.washingtonpost.com/nation/2026/11/11/most-transgender-people-have-no-regrets-years-after-hormone-therapy-study-says/"
-  ],
-  [
-    "gaza",
-    16,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "social",
-    16,
-    "https://www.theguardian.com/film/2026/nov/13/billie-piper-women-industry-elsinore-oscar-buzz"
-  ],
-  [
-    "party",
-    16,
-    "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader"
+    "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html"
   ],
   [
     "political",
     16,
-    "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award"
+    "https://www.washingtonpost.com/nation/2026/11/13/story-behind-pick-another-protein-ad-that-helped-scott-colom-win/"
   ],
   [
-    "sen",
+    "south",
     16,
-    "https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/"
+    "https://www.washingtonpost.com/nation/2026/11/13/officials-repaired-school-after-fatal-shooting-healing-students-will-take-longer/"
   ],
   [
-    "least",
-    15,
-    "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html"
+    "washington",
+    16,
+    "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession"
   ],
   [
-    "majority",
+    "jensen",
     15,
-    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+    "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html"
   ],
   [
-    "colom",
+    "game",
     15,
-    "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html"
+    "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html"
   ],
   [
-    "voters",
+    "party",
     15,
-    "https://www.nytimes.com/2026/11/12/us/black-turnout-georgia.html"
+    "https://www.nytimes.com/2026/11/12/us/scott-vermont-ayotte-nh-governor-republican.html"
   ],
   [
-    "change",
+    "donald",
     15,
-    "https://www.washingtonpost.com/nation/2026/11/12/san-francisco-approves-first-gay-bathhouse-since-aids-epidemic/"
+    "https://www.theguardian.com/commentisfree/2026/nov/13/democrats-weaknesses-2028"
   ],
   [
-    "countries",
-    15,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "china",
+    14,
+    "https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia.html"
   ],
   [
-    "curry",
-    15,
-    "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash"
-  ],
-  [
-    "video",
-    15,
-    "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash"
+    "won",
+    14,
+    "https://www.washingtonpost.com/nation/2026/11/13/woman-who-crashed-into-soccer-field-killing-2-wont-face-charges/"
   ],
   [
     "secretary",
     14,
-    "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html"
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "chris",
+    "senate",
     14,
-    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+    "https://www.theguardian.com/us-news/2026/nov/13/mississippians-scott-colom-election"
   ],
   [
-    "challenge",
+    "holiday",
     14,
-    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+    "https://www.theguardian.com/thefilter-us/2026/nov/13/holiday-gifts-ideas-people-who-have-everything"
   ],
   [
-    "senator",
+    "family",
     14,
-    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+    "https://www.theguardian.com/commentisfree/2026/nov/13/men-dirty-secrets-law-abuse-david-walliams"
   ],
   [
-    "democrat",
+    "star",
     14,
-    "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html"
+    "https://www.theguardian.com/sport/2026/nov/12/pete-crow-armstrong-yordan-alvarez-mlb-mvp-awards"
+  ],
+  [
+    "van",
+    14,
+    "https://www.latimes.com/california/story/2026-11-12/slain-surf-legends-girlfriend-arrested-in-his-murder"
+  ],
+  [
+    "gaza",
+    13,
+    "https://www.nytimes.com/2026/11/13/books/review/promise-me-america-joe-biden.html"
+  ],
+  [
+    "blue",
+    13,
+    "https://www.nytimes.com/2026/11/12/us/scott-vermont-ayotte-nh-governor-republican.html"
+  ],
+  [
+    "building",
+    13,
+    "https://www.washingtonpost.com/nation/2026/11/12/brooklyn-building-collapse-kills-two-injures-17-new-york-city-officials-say/"
+  ],
+  [
+    "black",
+    13,
+    "https://www.theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia"
   ],
   [
     "young",
-    14,
-    "https://www.nytimes.com/2026/11/12/us/black-turnout-georgia.html"
-  ],
-  [
-    "suspected",
-    14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "ahead",
-    14,
-    "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked"
-  ],
-  [
-    "affair",
-    14,
-    "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
-  ],
-  [
-    "scott",
     13,
-    "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html"
+    "https://www.theguardian.com/lifeandstyle/2026/nov/13/experience-disembowelled-hippo-honeymoon"
   ],
   [
-    "dead",
+    "love",
     13,
-    "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html"
+    "https://www.theguardian.com/lifeandstyle/2026/nov/13/experience-disembowelled-hippo-honeymoon"
   ],
   [
-    "washington",
+    "local",
     13,
-    "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html"
+    "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
   ],
   [
-    "congress",
+    "asylum",
     13,
-    "https://www.washingtonpost.com/education/2026/11/12/college-students-with-disabilities-may-soon-face-less-red-tape/"
+    "https://www.theguardian.com/us-news/2026/nov/13/supreme-court-us-mexico-border-asylum"
   ],
   [
-    "chinese",
+    "filter",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.theguardian.com/thefilter-us/2026/nov/13/holiday-gifts-ideas-people-who-have-everything"
   ],
   [
-    "air",
+    "advent",
     13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.theguardian.com/thefilter-us/2026/nov/13/best-chocolate-advent-calendars"
+  ],
+  [
+    "case",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-press-freedom-authoritarians-target-journalism-because-it-matters"
+  ],
+  [
+    "late",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-m-john-harrisons-booker-win-a-new-frontier-for-science-fiction"
+  ],
+  [
+    "toaster",
+    13,
+    "https://www.theguardian.com/thefilter-us/best-toaster-ovens"
+  ],
+  [
+    "sen",
+    13,
+    "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid"
+  ],
+  [
+    "race",
+    12,
+    "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html"
+  ],
+  [
+    "republican",
+    12,
+    "https://www.nytimes.com/2026/11/12/us/scott-vermont-ayotte-nh-governor-republican.html"
+  ],
+  [
+    "students",
+    12,
+    "https://www.washingtonpost.com/nation/2026/11/13/officials-repaired-school-after-fatal-shooting-healing-students-will-take-longer/"
+  ],
+  [
+    "least",
+    12,
+    "https://www.washingtonpost.com/nation/2026/11/12/brooklyn-building-collapse-kills-two-injures-17-new-york-city-officials-say/"
+  ],
+  [
+    "early",
+    12,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "past",
+    12,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "point",
+    12,
+    "https://www.theguardian.com/wellness/ng-interactive/2026/nov/13/pap-smear-pain-medical-students"
+  ],
+  [
+    "midterms",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/nov/13/democrats-weaknesses-2028"
+  ],
+  [
+    "majority",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/nov/13/democrats-weaknesses-2028"
+  ],
+  [
+    "voters",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/nov/13/democrats-weaknesses-2028"
+  ],
+  [
+    "science",
+    12,
+    "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts"
+  ],
+  [
+    "video",
+    12,
+    "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments"
+  ],
+  [
+    "cop",
+    12,
+    "https://www.theguardian.com/environment/2026/nov/13/california-gavin-newsom-endorses-fossil-fuel-phaseout"
+  ],
+  [
+    "pete",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/nov/13/democrats-hegseth-impeachment"
+  ],
+  [
+    "prize",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-m-john-harrisons-booker-win-a-new-frontier-for-science-fiction"
+  ],
+  [
+    "oven",
+    12,
+    "https://www.theguardian.com/thefilter-us/best-toaster-ovens"
+  ],
+  [
+    "hollen",
+    12,
+    "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid"
+  ],
+  [
+    "chief",
+    11,
+    "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html"
   ]
 ];
