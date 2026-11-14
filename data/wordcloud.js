@@ -2,143 +2,123 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "stop",
-    56,
-    "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
+    54,
+    "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html"
   ],
   [
     "ground",
-    53,
-    "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
+    52,
+    "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html"
   ],
   [
     "trump",
-    53,
-    "https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html"
-  ],
-  [
-    "democrats",
-    32,
+    50,
     "https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html"
-  ],
-  [
-    "air",
-    29,
-    "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
   ],
   [
     "president",
-    27,
-    "https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html"
-  ],
-  [
-    "york",
-    27,
-    "https://www.theguardian.com/us-news/2026/nov/14/new-york-city-ebike-battery-fires-deaths"
-  ],
-  [
-    "faa",
-    25,
-    "https://www.washingtonpost.com/transportation/2026/11/14/ground-stop-aftermath-sees-thousands-flights-canceled-delayed-saturday/"
-  ],
-  [
-    "college",
-    24,
-    "https://www.theguardian.com/sport/2026/nov/14/faa-ground-stop-nba-nhl-college-football-travel-disruption"
-  ],
-  [
-    "nationwide",
-    23,
-    "https://www.washingtonpost.com/transportation/2026/11/14/ground-stop-aftermath-sees-thousands-flights-canceled-delayed-saturday/"
-  ],
-  [
-    "party",
-    23,
-    "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins"
-  ],
-  [
-    "flights",
-    22,
-    "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html"
-  ],
-  [
-    "game",
-    22,
-    "https://www.theguardian.com/sport/2026/nov/14/faa-ground-stop-nba-nhl-college-football-travel-disruption"
-  ],
-  [
-    "country",
-    21,
-    "https://www.washingtonpost.com/nation/2026/11/13/story-behind-pick-another-protein-ad-that-helped-scott-colom-win/"
-  ],
-  [
-    "football",
-    21,
-    "https://www.theguardian.com/sport/2026/nov/14/faa-ground-stop-nba-nhl-college-football-travel-disruption"
-  ],
-  [
-    "court",
-    20,
-    "https://www.washingtonpost.com/politics/2026/11/13/supreme-court-review-trump-policy-blocking-asylum-seekers-border/"
-  ],
-  [
-    "administration",
-    19,
-    "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
-  ],
-  [
-    "democrat",
-    19,
+    29,
     "https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html"
   ],
   [
-    "university",
-    19,
-    "https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html"
+    "democrats",
+    28,
+    "https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html"
   ],
   [
     "school",
-    19,
+    27,
     "https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html"
   ],
   [
-    "war",
-    19,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  ],
-  [
-    "secretary",
-    17,
+    "faa",
+    27,
     "https://www.washingtonpost.com/transportation/2026/11/14/ground-stop-aftermath-sees-thousands-flights-canceled-delayed-saturday/"
   ],
   [
-    "travel",
+    "york",
+    26,
+    "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-immigrants.html"
+  ],
+  [
+    "air",
+    25,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "party",
+    24,
+    "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins"
+  ],
+  [
+    "democratic",
+    23,
+    "https://www.washingtonpost.com/politics/2026/11/14/chris-van-hollen-revs-up-his-public-campaign-replace-chuck-schumer/"
+  ],
+  [
+    "country",
+    22,
+    "https://www.nytimes.com/2026/11/09/opinion/democrats-midterms-populism.html"
+  ],
+  [
+    "court",
+    21,
+    "https://www.washingtonpost.com/politics/2026/11/13/supreme-court-review-trump-policy-blocking-asylum-seekers-border/"
+  ],
+  [
+    "nationwide",
+    20,
+    "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html"
+  ],
+  [
+    "war",
+    20,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "flights",
+    19,
+    "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html"
+  ],
+  [
+    "don",
+    19,
+    "https://www.washingtonpost.com/nation/2026/11/14/ground-stop-cancels-flights-nationwide-what-rights-do-fliers-have/"
+  ],
+  [
+    "democrat",
+    18,
+    "https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html"
+  ],
+  [
+    "midterm",
     17,
-    "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/"
+    "https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html"
+  ],
+  [
+    "university",
+    17,
+    "https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html"
   ],
   [
     "won",
     17,
-    "https://www.washingtonpost.com/nation/2026/11/13/woman-who-crashed-into-soccer-field-killing-2-wont-face-charges/"
+    "https://www.nytimes.com/2026/11/09/opinion/democrats-midterms-populism.html"
   ],
   [
-    "hours",
+    "administration",
     16,
-    "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html"
+    "https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html"
   ],
   [
-    "texas",
+    "secretary",
     16,
-    "https://www.washingtonpost.com/nation/2026/11/14/texass-democratic-gov-elect-vows-trade-gop-culture-wars-moderation/"
+    "https://www.washingtonpost.com/transportation/2026/11/14/ground-stop-aftermath-sees-thousands-flights-canceled-delayed-saturday/"
   ],
   [
-    "democratic",
+    "travel",
     16,
-    "https://www.washingtonpost.com/nation/2026/11/14/texass-democratic-gov-elect-vows-trade-gop-culture-wars-moderation/"
-  ],
-  [
-    "win",
-    16,
-    "https://www.washingtonpost.com/nation/2026/11/13/story-behind-pick-another-protein-ad-that-helped-scott-colom-win/"
+    "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/"
   ],
   [
     "advent",
@@ -146,34 +126,19 @@
     "https://www.theguardian.com/thefilter-us/2026/nov/13/best-chocolate-advent-calendars"
   ],
   [
+    "nvidia",
+    15,
+    "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
+  ],
+  [
+    "point",
+    15,
+    "https://www.nytimes.com/2026/11/09/opinion/democrats-midterms-populism.html"
+  ],
+  [
     "california",
-    16,
-    "https://www.latimes.com/california/story/2026-11-14/powerful-california-democrats-in-new-congress-focused-on-trump"
-  ],
-  [
-    "huang",
     15,
-    "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html"
-  ],
-  [
-    "midterm",
-    15,
-    "https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html"
-  ],
-  [
-    "don",
-    15,
-    "https://www.washingtonpost.com/nation/2026/11/14/ground-stop-cancels-flights-nationwide-what-rights-do-fliers-have/"
-  ],
-  [
-    "thousands",
-    15,
-    "https://www.washingtonpost.com/transportation/2026/11/14/ground-stop-aftermath-sees-thousands-flights-canceled-delayed-saturday/"
-  ],
-  [
-    "code",
-    15,
-    "https://www.washingtonpost.com/nation/2026/11/13/weeks-brooklyn-residents-felt-shaking-then-came-deadly-collapse/"
+    "https://www.washingtonpost.com/nation/2026/11/14/surfers-wax-up-coastal-cities-brace-giant-waves-hit-california/"
   ],
   [
     "political",
@@ -181,29 +146,54 @@
     "https://www.washingtonpost.com/nation/2026/11/13/story-behind-pick-another-protein-ad-that-helped-scott-colom-win/"
   ],
   [
+    "brand",
+    15,
+    "https://www.theguardian.com/news/2026/nov/14/2000s-pop-culture-women-david-walliams-russell-brand"
+  ],
+  [
     "guide",
     15,
     "https://www.theguardian.com/thefilter-us/2026/nov/13/best-chocolate-advent-calendars"
   ],
   [
-    "jensen",
-    14,
-    "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html"
+    "john",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-m-john-harrisons-booker-win-a-new-frontier-for-science-fiction"
   ],
   [
-    "canceled",
-    14,
-    "https://www.washingtonpost.com/nation/2026/11/14/ground-stop-cancels-flights-nationwide-what-rights-do-fliers-have/"
+    "science",
+    15,
+    "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-m-john-harrisons-booker-win-a-new-frontier-for-science-fiction"
   ],
   [
-    "media",
-    14,
-    "https://www.washingtonpost.com/nation/2026/11/14/she-was-14-addicted-instagram-could-she-handle-month-without-it/"
+    "college",
+    15,
+    "https://www.theguardian.com/sport/2026/nov/14/faa-ground-stop-nba-nhl-college-football-travel-disruption"
   ],
   [
-    "gaza",
+    "election",
     14,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+    "https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html"
+  ],
+  [
+    "tech",
+    14,
+    "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html"
+  ],
+  [
+    "chris",
+    14,
+    "https://www.washingtonpost.com/politics/2026/11/14/chris-van-hollen-revs-up-his-public-campaign-replace-chuck-schumer/"
+  ],
+  [
+    "health",
+    14,
+    "https://www.washingtonpost.com/health/2026/11/13/us-loses-measles-elimination-status-erasing-landmark-achievement/"
+  ],
+  [
+    "win",
+    14,
+    "https://www.washingtonpost.com/nation/2026/11/13/story-behind-pick-another-protein-ad-that-helped-scott-colom-win/"
   ],
   [
     "early",
@@ -211,64 +201,79 @@
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "beauty",
+    "holiday",
     14,
-    "https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings"
-  ],
-  [
-    "family",
-    14,
-    "https://www.theguardian.com/world/ng-interactive/2026/nov/14/arizona-abortion-laws-religion-doctor"
-  ],
-  [
-    "georgia",
-    14,
-    "https://www.foxnews.com/outkick-betting/college-football-betting-promos-2000-up-grabs-stacked-cfb-schedule-including-georgia-missouri"
-  ],
-  [
-    "missouri",
-    14,
-    "https://www.foxnews.com/outkick-betting/college-football-betting-promos-2000-up-grabs-stacked-cfb-schedule-including-georgia-missouri"
-  ],
-  [
-    "control",
-    13,
-    "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
-  ],
-  [
-    "nvidia",
-    13,
-    "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html"
+    "https://www.theguardian.com/thefilter-us/2026/nov/14/best-holiday-gifts-ideas-guide"
   ],
   [
     "alaska",
-    13,
-    "https://www.nytimes.com/2026/11/14/us/alaska-senate-race-ranked-choice-tabulation.html"
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins"
   ],
   [
-    "governor",
-    13,
-    "https://www.washingtonpost.com/nation/2026/11/12/former-florida-death-row-inmates-appeal-governor-elect-halt-executions/"
+    "announced",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/14/ecuadorian-fishermen-lawsuit-trump-boat-strike"
   ],
   [
-    "black",
-    13,
-    "https://www.theguardian.com/world/ng-interactive/2026/nov/14/arizona-abortion-laws-religion-doctor"
+    "young",
+    14,
+    "https://www.theguardian.com/environment/2026/nov/13/cop31-antonio-guterres-united-nations-climate-action"
+  ],
+  [
+    "beauty",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/nov/13/best-chocolate-advent-calendars"
   ],
   [
     "season",
-    13,
+    14,
     "https://www.theguardian.com/thefilter-us/2026/oct/02/best-beauty-advent-calendars"
   ],
   [
-    "chris",
-    13,
-    "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader"
+    "race",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/13/trump-maga-lauren-boebert-colorado"
   ],
   [
-    "science",
+    "hours",
     13,
-    "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-m-john-harrisons-booker-win-a-new-frontier-for-science-fiction"
+    "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html"
+  ],
+  [
+    "media",
+    13,
+    "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html"
+  ],
+  [
+    "thousands",
+    13,
+    "https://www.washingtonpost.com/transportation/2026/11/14/ground-stop-aftermath-sees-thousands-flights-canceled-delayed-saturday/"
+  ],
+  [
+    "tanker",
+    13,
+    "https://www.washingtonpost.com/nation/2026/11/13/tanker-collides-with-cruise-ship-new-orleans-sending-passengers-into-river/"
+  ],
+  [
+    "mississippi",
+    13,
+    "https://www.washingtonpost.com/nation/2026/11/13/story-behind-pick-another-protein-ad-that-helped-scott-colom-win/"
+  ],
+  [
+    "really",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/nov/14/best-holiday-gifts-ideas-guide"
+  ],
+  [
+    "family",
+    13,
+    "https://www.theguardian.com/us-news/2026/nov/14/kansas-ice-meatpacking-raids-trump-midterms"
+  ],
+  [
+    "american",
+    13,
+    "https://www.theguardian.com/us-news/2026/nov/14/kansas-ice-meatpacking-raids-trump-midterms"
   ],
   [
     "toaster",
@@ -276,24 +281,19 @@
     "https://www.theguardian.com/thefilter-us/best-toaster-ovens"
   ],
   [
-    "bet",
-    13,
-    "https://www.foxnews.com/outkick-betting/ufc-334-odds-betting-promos-how-bet-hokit-vs-gane-any-other-fight-claim-2000-bonuses"
+    "west",
+    12,
+    "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html"
   ],
   [
-    "race",
+    "lost",
     12,
-    "https://www.nytimes.com/2026/11/14/us/alaska-senate-race-ranked-choice-tabulation.html"
+    "https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html"
   ],
   [
-    "future",
+    "company",
     12,
-    "https://www.nytimes.com/2026/11/14/opinion/huang-trump-lutnick-bessent.html"
-  ],
-  [
-    "building",
-    12,
-    "https://www.washingtonpost.com/nation/2026/11/14/bomb-found-illinois-ethanol-plant-thousands-evacuated-fbi-investigates/"
+    "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
   ],
   [
     "morning",
@@ -301,29 +301,29 @@
     "https://www.washingtonpost.com/nation/2026/11/15/sean-duffys-news-briefing-ground-stop-disrupted-by-tech-difficulties/"
   ],
   [
+    "measles",
+    12,
+    "https://www.washingtonpost.com/health/2026/11/14/doctors-are-learning-fly-measles-surge-presents-rare-cases/"
+  ],
+  [
+    "river",
+    12,
+    "https://www.washingtonpost.com/nation/2026/11/13/tanker-collides-with-cruise-ship-new-orleans-sending-passengers-into-river/"
+  ],
+  [
     "latest",
     12,
     "https://www.washingtonpost.com/nation/2026/11/13/former-death-row-inmate-richard-glossip-pleads-guilty-lesser-charge/"
   ],
   [
-    "point",
+    "children",
     12,
-    "https://www.washingtonpost.com/nation/2026/11/13/former-death-row-inmate-richard-glossip-pleads-guilty-lesser-charge/"
+    "https://www.washingtonpost.com/nation/2026/11/13/officials-repaired-school-after-fatal-shooting-healing-students-will-take-longer/"
   ],
   [
-    "holiday",
+    "past",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/nov/14/best-holiday-gifts-ideas-guide"
-  ],
-  [
-    "experts",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/nov/14/best-holiday-gifts-ideas-guide"
-  ],
-  [
-    "really",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/nov/14/best-holiday-gifts-ideas-guide"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
     "became",
@@ -331,14 +331,19 @@
     "https://www.theguardian.com/music/2026/nov/15/james-blunt-10-chaotic-questions-interview"
   ],
   [
-    "food",
+    "black",
     12,
-    "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit"
+    "https://www.theguardian.com/world/ng-interactive/2026/nov/14/arizona-abortion-laws-religion-doctor"
   ],
   [
     "calendars",
     12,
     "https://www.theguardian.com/thefilter-us/2026/nov/13/best-chocolate-advent-calendars"
+  ],
+  [
+    "senate",
+    12,
+    "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader"
   ],
   [
     "late",
@@ -351,28 +356,23 @@
     "https://www.theguardian.com/thefilter-us/best-toaster-ovens"
   ],
   [
-    "foxnews",
-    12,
-    "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-cfb-bet-up-1500-georgia-vs-missouri-texas-lsu"
+    "jensen",
+    11,
+    "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
   ],
   [
-    "system",
+    "huang",
     11,
-    "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html"
+    "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
   ],
   [
-    "several",
+    "social",
     11,
-    "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
+    "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html"
   ],
   [
-    "tech",
+    "felt",
     11,
-    "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html"
-  ],
-  [
-    "election",
-    11,
-    "https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html"
+    "https://www.nytimes.com/2026/11/14/nyregion/flatbush-building-collapse-neighbors.html"
   ]
 ];
