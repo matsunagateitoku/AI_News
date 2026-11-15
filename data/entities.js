@@ -3,20 +3,38 @@
   "PERSON": [
     {
       "name": "Donald Trump",
-      "count": 10,
+      "count": 19,
       "url": "https://www.washingtonpost.com/nation/2026/11/14/texass-democratic-gov-elect-vows-trade-gop-culture-wars-moderation/",
       "source": "Washington Post"
     },
     {
       "name": "Jensen Huang Carried",
-      "count": 9,
+      "count": 12,
       "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
       "source": "NY Times"
     },
     {
       "name": "Donald Trump ’S",
-      "count": 9,
+      "count": 8,
       "url": "https://www.theguardian.com/culture/2026/nov/13/late-night-roundup-kimmel-meyers-trump-huang-hegseth",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Mary Peltola",
+      "count": 8,
+      "url": "https://www.nbcnews.com/politics/2026-election/democrat-mary-peltola-likely-win-alaska-senate-race-rcna608673",
+      "source": "NBC News"
+    },
+    {
+      "name": "Chuck Schumer",
+      "count": 6,
+      "url": "https://www.washingtonpost.com/politics/2026/11/14/chris-van-hollen-revs-up-his-public-campaign-replace-chuck-schumer/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Starship",
+      "count": 6,
+      "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
       "source": "The Guardian"
     },
     {
@@ -26,33 +44,15 @@
       "source": "The Guardian"
     },
     {
-      "name": "John Harrison",
-      "count": 6,
-      "url": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-science-fiction",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Elon Musk",
-      "count": 6,
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/cybertruck-maga-hat-on-wheels-end",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Chris Pierce",
-      "count": 6,
-      "url": "https://www.cbsnews.com/video/saturday-sessions-chris-pierce-performs-it-aint-ever-wrong-to-be-free/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Sean Duffy",
+      "name": "Chris Van Hollen",
       "count": 5,
-      "url": "https://www.washingtonpost.com/nation/2026/11/15/sean-duffys-news-briefing-ground-stop-disrupted-by-tech-difficulties/",
+      "url": "https://www.washingtonpost.com/politics/2026/11/14/chris-van-hollen-revs-up-his-public-campaign-replace-chuck-schumer/",
       "source": "Washington Post"
     },
     {
-      "name": "Jonathan Kreiss-Tomkins",
+      "name": "Russell Brand",
       "count": 5,
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+      "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
       "source": "The Guardian"
     },
     {
@@ -62,75 +62,69 @@
       "source": "The Guardian"
     }
   ],
-  "ORG": [
+  "GPE": [
     {
-      "name": "Trump Administration",
-      "count": 28,
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/ecuadorian-fishermen-lawsuit-trump-boat-strike",
+      "name": "Us",
+      "count": 45,
+      "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
       "source": "The Guardian"
     },
     {
-      "name": "Faa",
-      "count": 27,
-      "url": "https://www.washingtonpost.com/transportation/2026/11/14/ground-stop-aftermath-sees-thousands-flights-canceled-delayed-saturday/",
+      "name": "U.S.",
+      "count": 20,
+      "url": "https://www.washingtonpost.com/health/2026/11/13/us-loses-measles-elimination-status-erasing-landmark-achievement/",
       "source": "Washington Post"
     },
     {
-      "name": "Ai",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/business/2026/11/13/more-top-fed-officials-say-ai-is-fueling-inflation-kevin-warsh-is-an-outlier/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Senate",
-      "count": 12,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Guardian Science",
-      "count": 12,
-      "url": "https://www.theguardian.com/science/video/2026/nov/12/obesity-how-to-stop-millions-being-misdiagnosed-video",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The White House",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/14/trump-lame-duck-presidency-outcome",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nfl",
-      "count": 10,
-      "url": "https://www.theguardian.com/sport/2026/nov/13/nfl-quarterbacks-are-under-more-pressure-than-ever-from-rushers-why",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Google Search",
-      "count": 10,
-      "url": "https://www.theguardian.com/technology/2026/nov/04/google-search-ai-schools",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nvidia",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+      "name": "California",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html",
       "source": "NY Times"
     },
     {
-      "name": "Gop",
+      "name": "Alaska",
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Washington",
+      "count": 14,
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Georgia",
       "count": 9,
-      "url": "https://www.washingtonpost.com/nation/2026/11/14/white-evangelicals-voted-less-less-gop-new-analysis-says/",
+      "url": "https://www.theguardian.com/football/2026/nov/14/usmnt-haiti-pulisic-pochettino-nations-league-quarter-final",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New Orleans",
+      "count": 8,
+      "url": "https://www.washingtonpost.com/nation/2026/11/13/tanker-collides-with-cruise-ship-new-orleans-sending-passengers-into-river/",
       "source": "Washington Post"
+    },
+    {
+      "name": "Israel",
+      "count": 8,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Uk",
+      "count": 8,
+      "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York State",
+      "count": 8,
+      "url": "https://www.nbcnews.com/weather/storms/weekend-storm-bring-seasons-first-widespread-freeze-millions-us-rcna609181",
+      "source": "NBC News"
     }
   ],
   "EVENT": [
-    {
-      "name": "World Cup",
-      "count": 2,
-      "url": "https://www.theguardian.com/football/2026/nov/14/mauricio-pochettino-usmnt-legacy-belief",
-      "source": "The Guardian"
-    },
     {
       "name": "The Vietnam War",
       "count": 2,
@@ -142,12 +136,6 @@
       "count": 2,
       "url": "https://www.latimes.com/business/story/2026-11-12/notorious-graffiti-towers-wiped-clean-in-downtown-los-angeles",
       "source": "LA Times"
-    },
-    {
-      "name": "The Iran War",
-      "count": 2,
-      "url": "https://www.foxnews.com/politics/justice-alito-warns-america-preserve-3-core-principles-regardless-countrys-atmosphere",
-      "source": "Fox News"
     },
     {
       "name": "The Vietnam War’S",
@@ -162,73 +150,73 @@
       "source": "The Guardian"
     },
     {
-      "name": "Olympic",
+      "name": "The Iran War",
       "count": 1,
-      "url": "https://www.latimes.com/sports/olympics/story/2026-11-09/olympic-gold-medalist-danny-everett-love-for-cooking",
-      "source": "LA Times"
+      "url": "https://www.politico.com/video/2026/11/13/mark-kelly-on-trump-the-iran-war-and-his-2028-decision-2229213",
+      "source": "Politico"
     }
   ],
-  "GPE": [
+  "ORG": [
     {
-      "name": "Us",
-      "count": 46,
-      "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+      "name": "Trump Administration",
+      "count": 34,
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/ecuadorian-fishermen-lawsuit-trump-boat-strike",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 21,
-      "url": "https://www.washingtonpost.com/health/2026/11/13/us-loses-measles-elimination-status-erasing-landmark-achievement/",
+      "name": "Faa",
+      "count": 22,
+      "url": "https://www.washingtonpost.com/transportation/2026/11/14/faa-was-warned-years-about-repair-risks-leading-nationwide-ground-stop/",
       "source": "Washington Post"
     },
     {
-      "name": "California",
+      "name": "Ai",
       "count": 14,
-      "url": "https://www.washingtonpost.com/nation/2026/11/14/surfers-wax-up-coastal-cities-brace-giant-waves-hit-california/",
+      "url": "https://www.washingtonpost.com/business/2026/11/13/more-top-fed-officials-say-ai-is-fueling-inflation-kevin-warsh-is-an-outlier/",
       "source": "Washington Post"
     },
     {
-      "name": "Alaska",
+      "name": "Senate",
       "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
       "source": "The Guardian"
-    },
-    {
-      "name": "New York City'S",
-      "count": 13,
-      "url": "https://www.cbsnews.com/video/lady-gagas-family-restaurant-joanne-trattoria-celebrates-singers-on-the-rise/",
-      "source": "CBS News"
-    },
-    {
-      "name": "New Orleans",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/nation/2026/11/13/tanker-collides-with-cruise-ship-new-orleans-sending-passengers-into-river/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "New York City",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/new-york-city-ebike-battery-fires-deaths",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Washington",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-press-freedom-authoritarians-target-journalism-because-it-matters",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Brooklyn",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/11/14/nyregion/flatbush-building-collapse-neighbors.html",
-      "source": "NY Times"
     },
     {
       "name": "Nvidia",
-      "count": 7,
+      "count": 12,
       "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
       "source": "NY Times"
+    },
+    {
+      "name": "Guardian Science",
+      "count": 12,
+      "url": "https://www.theguardian.com/science/video/2026/nov/12/obesity-how-to-stop-millions-being-misdiagnosed-video",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nfl",
+      "count": 11,
+      "url": "https://www.theguardian.com/sport/2026/nov/14/nfl-referee-two-games-faa-ground-stop-sports-travel-disruption",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 9,
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/14/trump-lame-duck-presidency-outcome",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Google Search",
+      "count": 9,
+      "url": "https://www.theguardian.com/technology/2026/nov/04/google-search-ai-schools",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Filter Us",
+      "count": 9,
+      "url": "https://www.theguardian.com/global/2025/sep/09/sign-up-to-the-filter-us-our-newsletter-guide-to-buying-fewer-better-products",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-11-14T22:54:21Z"
+  "updated": "2026-11-15T07:41:07Z"
 };
