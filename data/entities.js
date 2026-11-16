@@ -2,245 +2,251 @@
 (window.newsData=window.newsData||{}).entities={
   "PERSON": [
     {
-      "name": "Donald Trump",
-      "count": 25,
-      "url": "https://www.washingtonpost.com/nation/2026/11/14/texass-democratic-gov-elect-vows-trade-gop-culture-wars-moderation/",
-      "source": "Washington Post"
-    },
-    {
       "name": "Jensen Huang",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-jensen-huang-nvidia.html",
       "source": "NY Times"
     },
     {
-      "name": "John Malkovich",
-      "count": 10,
-      "url": "https://www.cbsnews.com/news/john-malkovich-60-minutes-transcript/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Sean Duffy",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/transportation/2026/11/15/sean-duffy-blames-congress-prior-administrations-ground-stop-chaos/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Scott Colom",
-      "count": 9,
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
+      "name": "New James Bond",
+      "count": 22,
+      "url": "https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson",
       "source": "The Guardian"
     },
     {
-      "name": "Jensen Huang’S",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+      "name": "Donald Trump",
+      "count": 20,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/16/donald-trump-benjamin-netanyahu-power-israel-pm",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Robert Pattinson Named",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
       "source": "NY Times"
     },
     {
-      "name": "Chris Van Hollen",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+      "name": "Lindsay Clancy",
+      "count": 11,
+      "url": "https://www.washingtonpost.com/nation/2026/11/16/new-trial-is-set-lindsay-clancy-murder-case-over-deaths-her-3-children/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Robert Pattinson",
+      "count": 7,
+      "url": "https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html",
       "source": "NY Times"
     },
     {
       "name": "Chuck Schumer",
-      "count": 7,
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+      "count": 6,
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
+      "source": "NPR"
+    },
+    {
+      "name": "Robert Pattinson’S",
+      "count": 5,
+      "url": "https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html",
       "source": "NY Times"
     },
     {
-      "name": "Billy Evans",
-      "count": 7,
-      "url": "https://www.latimes.com/california/story/2026-11-15/billy-evans-of-you-can-see-everything-addresses-amanda-seyfried-beef-in-cbs-interview",
-      "source": "LA Times"
-    },
-    {
-      "name": "Elizabeth Holmes",
-      "count": 7,
-      "url": "https://www.latimes.com/california/story/2026-11-15/billy-evans-of-you-can-see-everything-addresses-amanda-seyfried-beef-in-cbs-interview",
-      "source": "LA Times"
-    }
-  ],
-  "EVENT": [
-    {
-      "name": "The Vietnam War",
-      "count": 2,
-      "url": "https://www.theguardian.com/film/2026/nov/14/soul-patrol-documentary-black-soldiers-vietnam",
+      "name": "Xi Jinping",
+      "count": 5,
+      "url": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
       "source": "The Guardian"
     },
     {
-      "name": "British Cohort Study",
-      "count": 1,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/15/gen-x-is-in-worse-health-than-boomers-and-i-have-a-few-theories-as-to-why",
+      "name": "Elizabeth Warren",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/doj-elizabeth-warren-trump-investigation-records",
       "source": "The Guardian"
-    },
-    {
-      "name": "Challenge Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/nov/15/kansas-city-current-gotham-fc-nwsl-semi-final-haley-hopkins",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Somali Brief",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/somali-american-uber-driver-attack-minnesota",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Vietnam War’S",
-      "count": 1,
-      "url": "https://www.theguardian.com/film/2026/nov/14/soul-patrol-documentary-black-soldiers-vietnam",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Olympics",
-      "count": 1,
-      "url": "https://www.latimes.com/sports/story/2026-11-12/dan-hicks-nbc-broadcaster-husband-hannah-storm-dead-at-64",
-      "source": "LA Times"
-    },
-    {
-      "name": "Operation Leyenda",
-      "count": 1,
-      "url": "https://www.foxnews.com/world/mexicos-cartel-godfather-convicted-american-dea-agents-murder-dies-age-80",
-      "source": "Fox News"
-    },
-    {
-      "name": "Sunday Service",
-      "count": 1,
-      "url": "https://www.foxnews.com/entertainment/russell-brands-wife-opens-up-after-comedians-rape-conviction-shares-message-from-imprisoned-husband",
-      "source": "Fox News"
-    },
-    {
-      "name": "The Iran War",
-      "count": 1,
-      "url": "https://www.politico.com/video/2026/11/13/mark-kelly-on-trump-the-iran-war-and-his-2028-decision-2229213",
-      "source": "Politico"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Administration",
+      "name": "Trump Administration Moves",
       "count": 33,
-      "url": "https://www.nbcnews.com/meet-the-press/video/mike-pence-says-trump-administration-has-an-air-of-corruption-273549893931",
-      "source": "NBC News"
+      "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
+      "source": "NY Times"
     },
     {
-      "name": "Ai",
+      "name": "Ai Federal Reserve Chair",
+      "count": 27,
+      "url": "https://thehill.com/newsletters/business-economy/6223688-warsh-says-ai-could-disappoint/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Nvidia",
       "count": 18,
-      "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
-      "source": "The Guardian"
+      "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-jensen-huang-nvidia.html",
+      "source": "NY Times"
     },
     {
       "name": "Faa",
-      "count": 16,
+      "count": 15,
       "url": "https://www.washingtonpost.com/transportation/2026/11/14/faa-was-warned-years-about-repair-risks-leading-nationwide-ground-stop/",
       "source": "Washington Post"
     },
     {
-      "name": "The White House",
-      "count": 15,
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/arizona-republicans-maga-trump-wipeout",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nvidia Fallout Looms",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Gop",
-      "count": 11,
-      "url": "https://www.washingtonpost.com/nation/2026/11/14/white-evangelicals-voted-less-less-gop-new-analysis-says/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "The Us Senate",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Congress",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/11/16/opinion/china-us-trump-asia-military.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Guardian Science",
-      "count": 10,
+      "count": 13,
       "url": "https://www.theguardian.com/science/video/2026/nov/12/obesity-how-to-stop-millions-being-misdiagnosed-video",
       "source": "The Guardian"
     },
     {
-      "name": "Un",
-      "count": 9,
-      "url": "https://www.theguardian.com/environment/2026/nov/16/barbados-pm-urges-global-citizens-to-demand-methane-cuts-at-cop31-summit",
+      "name": "The Us Senate",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/al-gore-baaja-cop-31-climate",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Amazon Mgm Studios",
+      "count": 12,
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-11-16/new-james-bond-robert-pattinson",
+      "source": "LA Times"
+    },
+    {
+      "name": "Cop31 Un",
+      "count": 11,
+      "url": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Nfl Network",
+      "count": 10,
+      "url": "https://www.theguardian.com/sport/2026/nov/16/lions-hutchinson-reportedly-out-for-season-with-knee-injury-sustained-celebrating-sack",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The White House",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/arizona-republicans-maga-trump-wipeout",
+      "source": "The Guardian"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "Black Friday Early Access",
+      "count": 4,
+      "url": "https://www.nbcnews.com/select/shopping/the-north-face-early-access-black-friday-sale-of-the-week-2026-rcna609652",
+      "source": "NBC News"
+    },
+    {
+      "name": "The Great Recession",
+      "count": 2,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/16/democratic-party-critical-crossroad",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympic",
+      "count": 2,
+      "url": "https://www.theguardian.com/sport/2026/nov/16/usa-canada-womens-ice-hockey-world-championship-final",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Pro Bowl De",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/nov/16/lions-hutchinson-reportedly-out-for-season-with-knee-injury-sustained-celebrating-sack",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Pro Bowl",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/nov/16/lions-hutchinson-reportedly-out-for-season-with-knee-injury-sustained-celebrating-sack",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The European Championship And World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/nov/16/luis-de-la-fuente-spain-england-nations-league",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/nov/16/luis-de-la-fuente-spain-england-nations-league",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The 2030 World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/global/2026/nov/16/mauricio-pochettino-usmnt-replacement-coach",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Gold Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/global/2026/nov/16/mauricio-pochettino-usmnt-replacement-coach",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 38,
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/oakland-mayor-bribery-scandal-recycling",
+      "count": 36,
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
       "source": "The Guardian"
-    },
-    {
-      "name": "U.S.",
-      "count": 29,
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
-      "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 20,
-      "url": "https://www.washingtonpost.com/nation/2026/11/14/surfers-wax-up-coastal-cities-brace-giant-waves-hit-california/",
+      "count": 29,
+      "url": "https://www.washingtonpost.com/nation/2026/11/16/what-christa-pike-emptying-californias-death-row-could-mean-us/",
       "source": "Washington Post"
     },
     {
-      "name": "Iran",
-      "count": 15,
-      "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
-      "source": "The Guardian"
+      "name": "U.S.",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
+      "source": "NY Times"
     },
     {
-      "name": "Texas",
-      "count": 12,
-      "url": "https://www.washingtonpost.com/nation/2026/11/14/texass-democratic-gov-elect-vows-trade-gop-culture-wars-moderation/",
-      "source": "Washington Post"
+      "name": "Israel",
+      "count": 10,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "Washington",
-      "count": 11,
-      "url": "https://www.theguardian.com/sport/2026/nov/15/kayla-harrison-ufc-womens-mma-dana-white-trump",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mississippi",
-      "count": 11,
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/audio-new-orleans-mississippi-river-cruise-tanker-crash",
+      "name": "Openai",
+      "count": 10,
+      "url": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
       "source": "The Guardian"
     },
     {
       "name": "China",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
       "source": "NY Times"
     },
     {
-      "name": "Turkey",
+      "name": "Denmark",
       "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-cop31-the-green-transition-must-not-be-derailed",
+      "url": "https://www.theguardian.com/sport/2026/nov/16/usa-canada-womens-ice-hockey-world-championship-final",
       "source": "The Guardian"
     },
     {
-      "name": "New York City’S",
-      "count": 9,
-      "url": "https://www.theguardian.com/football/2026/nov/15/kansas-city-current-gotham-fc-nwsl-semi-final-haley-hopkins",
+      "name": "Northern Gaza",
+      "count": 8,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Texas",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/doj-elizabeth-warren-trump-investigation-records",
       "source": "The Guardian"
+    },
+    {
+      "name": "Hollywood",
+      "count": 7,
+      "url": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
+      "source": "Wall St. Journal"
     }
   ],
-  "updated": "2026-11-16T07:46:36Z"
+  "updated": "2026-11-16T22:47:38Z"
 };
