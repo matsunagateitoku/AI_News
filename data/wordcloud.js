@@ -2,263 +2,273 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    54,
-    "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html"
+    72,
+    "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html"
+  ],
+  [
+    "president",
+    44,
+    "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html"
   ],
   [
     "bond",
-    31,
+    35,
     "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html"
   ],
   [
     "pattinson",
-    30,
-    "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html"
-  ],
-  [
-    "california",
-    29,
-    "https://www.washingtonpost.com/nation/2026/11/16/what-christa-pike-emptying-californias-death-row-could-mean-us/"
-  ],
-  [
-    "president",
-    28,
-    "https://www.nytimes.com/2026/11/16/us/politics/trump-jensen-huang-nvidia.html"
-  ],
-  [
-    "ground",
-    27,
-    "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
-  ],
-  [
-    "stop",
-    27,
-    "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
-  ],
-  [
-    "huang",
-    26,
-    "https://www.nytimes.com/2026/11/16/us/politics/trump-jensen-huang-nvidia.html"
-  ],
-  [
-    "democrats",
-    25,
-    "https://www.nytimes.com/2026/11/16/upshot/progressives-moderates-democrats-elections.html"
-  ],
-  [
-    "james",
-    23,
+    31,
     "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html"
   ],
   [
     "united",
-    22,
+    30,
+    "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
+  ],
+  [
+    "california",
+    30,
+    "https://www.washingtonpost.com/nation/2026/11/16/what-christa-pike-emptying-californias-death-row-could-mean-us/"
+  ],
+  [
+    "stop",
+    29,
+    "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
+  ],
+  [
+    "democrats",
+    29,
+    "https://www.nytimes.com/2026/11/16/upshot/progressives-moderates-democrats-elections.html"
+  ],
+  [
+    "james",
+    28,
+    "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html"
+  ],
+  [
+    "ground",
+    26,
+    "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
+  ],
+  [
+    "air",
+    25,
     "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
   ],
   [
     "robert",
-    22,
+    24,
     "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html"
-  ],
-  [
-    "early",
-    21,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "party",
-    21,
-    "https://www.theguardian.com/commentisfree/2026/nov/16/democratic-party-critical-crossroad"
-  ],
-  [
-    "nationwide",
-    20,
-    "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
-  ],
-  [
-    "nvidia",
-    20,
-    "https://www.nytimes.com/2026/11/16/us/politics/trump-jensen-huang-nvidia.html"
-  ],
-  [
-    "power",
-    20,
-    "https://www.nytimes.com/article/jeffrey-epstein-sex-abuse-times-investigations.html"
-  ],
-  [
-    "jensen",
-    19,
-    "https://www.nytimes.com/2026/11/16/us/politics/trump-jensen-huang-nvidia.html"
-  ],
-  [
-    "system",
-    18,
-    "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
-  ],
-  [
-    "film",
-    18,
-    "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html"
-  ],
-  [
-    "tech",
-    18,
-    "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html"
-  ],
-  [
-    "brand",
-    18,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/16/russell-brand-open-secret-review-a-real-tribute-to-the-journalists-and-victims-who-brought-him-to-justice"
-  ],
-  [
-    "outage",
-    16,
-    "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
   ],
   [
     "american",
-    16,
-    "https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu"
+    24,
+    "https://www.washingtonpost.com/nation/2026/11/16/national-service-promoted-bipartisan-solution-young-job-seekers-worries/"
+  ],
+  [
+    "system",
+    21,
+    "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
   ],
   [
     "game",
-    16,
+    21,
     "https://www.washingtonpost.com/nation/2026/11/15/game-wardens-once-crossed-property-lines-legal-movement-is-stopping-them/"
   ],
   [
-    "announced",
-    16,
-    "https://www.theguardian.com/film/2026/nov/16/robert-pattinson-choice-bond"
+    "war",
+    21,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
   ],
   [
-    "climate",
-    16,
-    "https://www.theguardian.com/environment/2026/nov/16/cape-cod-invasive-manila-clams"
+    "senate",
+    21,
+    "https://www.theguardian.com/us-news/2026/nov/16/al-gore-baaja-cop-31-climate"
   ],
   [
-    "season",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/16/john-oliver-alligator-alcatraz"
+    "party",
+    20,
+    "https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html"
   ],
   [
-    "ceo",
-    16,
-    "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare"
+    "film",
+    19,
+    "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html"
   ],
   [
-    "air",
-    15,
-    "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
-  ],
-  [
-    "democratic",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/nov/16/democratic-party-critical-crossroad"
-  ],
-  [
-    "win",
-    15,
-    "https://www.theguardian.com/commentisfree/2026/nov/16/democrats-infighting"
-  ],
-  [
-    "widespread",
-    14,
-    "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
-  ],
-  [
-    "actor",
-    14,
-    "https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html"
-  ],
-  [
-    "love",
-    14,
-    "https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu"
-  ],
-  [
-    "york",
-    14,
-    "https://www.nytimes.com/2026/11/16/us/politics/trump-linkedin-data-nyt-sources.html"
-  ],
-  [
-    "company",
-    14,
-    "https://www.washingtonpost.com/nation/2026/11/16/chase-bank-reports-technical-issue-affecting-users/"
-  ],
-  [
-    "faa",
-    14,
-    "https://www.washingtonpost.com/transportation/2026/11/14/faa-was-warned-years-about-repair-risks-leading-nationwide-ground-stop/"
-  ],
-  [
-    "review",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/16/cornell-review-greek-life-sexual-assault-case"
-  ],
-  [
-    "don",
-    14,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/16/john-oliver-alligator-alcatraz"
-  ],
-  [
-    "flights",
-    13,
+    "airlines",
+    19,
     "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
   ],
   [
     "administration",
-    13,
-    "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html"
+    18,
+    "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html"
   ],
   [
-    "children",
-    13,
-    "https://www.nytimes.com/2026/11/15/well/brain-cancer-children-dipg.html"
+    "win",
+    18,
+    "https://www.theguardian.com/commentisfree/2026/nov/16/democrats-infighting"
   ],
   [
-    "school",
-    13,
-    "https://www.washingtonpost.com/investigations/2026/11/16/student-accepted-va-law-school-after-sex-assault-finding-is-no-longer-enrolled/"
+    "outage",
+    17,
+    "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
   ],
   [
-    "young",
-    13,
-    "https://www.washingtonpost.com/nation/2026/11/16/national-service-promoted-bipartisan-solution-young-job-seekers-worries/"
+    "tech",
+    17,
+    "https://www.washingtonpost.com/transportation/2026/11/16/united-airlines-hit-by-tech-issues-days-after-nationwide-ground-stop/"
   ],
   [
-    "clancy",
-    13,
-    "https://www.washingtonpost.com/nation/2026/11/16/new-trial-is-set-lindsay-clancy-murder-case-over-deaths-her-3-children/"
+    "country",
+    17,
+    "https://www.washingtonpost.com/nation/2026/11/16/still-too-young-buy-beer-these-teens-are-winning-elected-office/"
   ],
   [
-    "states",
-    13,
-    "https://www.washingtonpost.com/education/2026/11/16/private-school-vouchers-risk-some-states-democrats-gain-control/"
+    "announced",
+    17,
+    "https://www.theguardian.com/film/2026/nov/17/robert-pattinson-is-james-bond-so-what-happens-next"
+  ],
+  [
+    "season",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/nov/15/best-tea-coffee-advent-calendars"
+  ],
+  [
+    "nationwide",
+    16,
+    "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
   ],
   [
     "led",
-    13,
+    16,
     "https://www.washingtonpost.com/transportation/2026/11/16/us-flights-gradually-return-normal-after-days-disruption/"
   ],
   [
-    "gaza",
-    13,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
     "attack",
-    13,
+    16,
     "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   ],
   [
-    "winter",
-    13,
-    "https://www.theguardian.com/news/video/2026/nov/16/let-the-aid-in-deadly-winter-approaches-in-gaza-the-latest"
+    "early",
+    16,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "feel",
+    "nvidia",
+    15,
+    "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html"
+  ],
+  [
+    "secretary",
+    15,
+    "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html"
+  ],
+  [
+    "flights",
+    15,
+    "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
+  ],
+  [
+    "power",
+    15,
+    "https://www.nytimes.com/article/jeffrey-epstein-sex-abuse-times-investigations.html"
+  ],
+  [
+    "night",
+    15,
+    "https://www.nytimes.com/2026/11/17/arts/television/late-night-faa-ground-stop.html"
+  ],
+  [
+    "flight",
+    15,
+    "https://www.washingtonpost.com/transportation/2026/11/16/us-flights-gradually-return-normal-after-days-disruption/"
+  ],
+  [
+    "office",
+    15,
+    "https://www.washingtonpost.com/nation/2026/11/16/still-too-young-buy-beer-these-teens-are-winning-elected-office/"
+  ],
+  [
+    "iran",
+    15,
+    "https://www.theguardian.com/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news"
+  ],
+  [
+    "climate",
+    15,
+    "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days"
+  ],
+  [
+    "faa",
+    15,
+    "https://www.latimes.com/entertainment-arts/music/story/2026-11-16/inside-viral-vans-warped-tour-southwest-flight-that-took-off-just-before-faas-grounding"
+  ],
+  [
+    "china",
+    14,
+    "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html"
+  ],
+  [
+    "young",
+    14,
+    "https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html"
+  ],
+  [
+    "london",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/nov/17/root-to-tip-revolution-a-to-z-eat-plants-full-flavour-fibre-savings"
+  ],
+  [
+    "amazon",
+    14,
+    "https://www.theguardian.com/film/2026/nov/17/robert-pattinson-is-james-bond-so-what-happens-next"
+  ],
+  [
+    "don",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/nov/16/democrats-infighting"
+  ],
+  [
+    "democratic",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/nov/16/democratic-party-critical-crossroad"
+  ],
+  [
+    "actor",
     13,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/16/russell-brand-open-secret-review-a-real-tribute-to-the-journalists-and-victims-who-brought-him-to-justice"
+    "https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html"
+  ],
+  [
+    "change",
+    13,
+    "https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html"
+  ],
+  [
+    "court",
+    13,
+    "https://www.nytimes.com/2026/11/16/us/politics/supreme-court-alito.html"
+  ],
+  [
+    "political",
+    13,
+    "https://www.washingtonpost.com/nation/2026/11/16/still-too-young-buy-beer-these-teens-are-winning-elected-office/"
+  ],
+  [
+    "york",
+    13,
+    "https://www.theguardian.com/artanddesign/2026/nov/17/edward-hopper-sexual-problems-melancholy-wife-lighthouses"
+  ],
+  [
+    "full",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/nov/17/root-to-tip-revolution-a-to-z-eat-plants-full-flavour-fibre-savings"
+  ],
+  [
+    "review",
+    13,
+    "https://www.theguardian.com/world/2026/nov/16/is-is-india-travel-boom-travel-and-leisure-women"
   ],
   [
     "really",
@@ -266,9 +276,14 @@
     "https://www.theguardian.com/thefilter-us/2026/nov/15/best-tea-coffee-advent-calendars"
   ],
   [
-    "black",
+    "brand",
     13,
-    "https://www.theguardian.com/commentisfree/2026/nov/16/democrats-infighting"
+    "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station"
+  ],
+  [
+    "race",
+    13,
+    "https://www.theguardian.com/music/2026/nov/16/grammy-nominations-2027-female-artists"
   ],
   [
     "toaster",
@@ -276,14 +291,9 @@
     "https://www.theguardian.com/thefilter-us/best-toaster-ovens"
   ],
   [
-    "chase",
+    "global",
     12,
-    "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html"
-  ],
-  [
-    "bank",
-    12,
-    "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html"
+    "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html"
   ],
   [
     "gift",
@@ -291,29 +301,14 @@
     "https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html"
   ],
   [
-    "research",
+    "states",
     12,
-    "https://www.nytimes.com/2026/11/15/well/brain-cancer-children-dipg.html"
+    "https://www.washingtonpost.com/education/2026/11/16/private-school-vouchers-risk-some-states-democrats-gain-control/"
   ],
   [
-    "response",
+    "duffy",
     12,
-    "https://www.washingtonpost.com/nation/2026/11/16/mamdani-disbands-nypd-unit-criticized-aggressive-tactics-protests/"
-  ],
-  [
-    "return",
-    12,
-    "https://www.washingtonpost.com/nation/2026/11/16/teenager-reunited-with-missing-cat-after-brooklyn-building-collapse/"
-  ],
-  [
-    "airlines",
-    12,
-    "https://www.washingtonpost.com/transportation/2026/11/16/us-flights-gradually-return-normal-after-days-disruption/"
-  ],
-  [
-    "america",
-    12,
-    "https://www.washingtonpost.com/nation/2026/11/16/what-christa-pike-emptying-californias-death-row-could-mean-us/"
+    "https://www.washingtonpost.com/transportation/2026/11/15/sean-duffy-blames-congress-prior-administrations-ground-stop-chaos/"
   ],
   [
     "police",
@@ -321,29 +316,24 @@
     "https://www.washingtonpost.com/nation/2026/11/15/game-wardens-once-crossed-property-lines-legal-movement-is-stopping-them/"
   ],
   [
-    "coach",
+    "food",
     12,
-    "https://www.washingtonpost.com/obituaries/2026/11/15/mentor-said-pain-never-goes-away-it-can-fuel-powerful-journalism/"
+    "https://www.theguardian.com/lifeandstyle/2026/nov/17/root-to-tip-revolution-a-to-z-eat-plants-full-flavour-fibre-savings"
   ],
   [
-    "war",
+    "donald",
     12,
-    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+    "https://www.theguardian.com/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news"
   ],
   [
-    "latest",
+    "died",
     12,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+    "https://www.theguardian.com/us-news/2026/nov/16/cause-of-death-gypsy-rose-blanchard-partner"
   ],
   [
-    "full",
+    "video",
     12,
-    "https://www.theguardian.com/film/2026/nov/16/emma-fogarty-colin-farrell-marathons-friendship-the-slightest-touch"
-  ],
-  [
-    "senate",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/nov/16/democratic-party-critical-crossroad"
+    "https://www.theguardian.com/lifeandstyle/2026/nov/17/the-pest-ill-never-forget-bedbugs-bit-me-worried-jake-gyllenhaal"
   ],
   [
     "coffee",
@@ -351,14 +341,29 @@
     "https://www.theguardian.com/thefilter-us/2026/nov/15/best-tea-coffee-advent-calendars"
   ],
   [
-    "guide",
+    "lead",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/nov/15/best-tea-coffee-advent-calendars"
+    "https://www.theguardian.com/commentisfree/2026/nov/17/automated-warfare-here-governments-restrain-ai-militaries-treaty"
   ],
   [
-    "book",
+    "feel",
     12,
-    "https://www.theguardian.com/commentisfree/2026/nov/16/hero-villain-or-victim-why-are-refugees-so-rarely-seen-now-as-fully-human"
+    "https://www.theguardian.com/sport/2026/nov/16/brock-purdy-san-francisco-49ers-nfl"
+  ],
+  [
+    "nominations",
+    12,
+    "https://www.theguardian.com/music/2026/nov/16/grammy-nominations-2027-female-artists"
+  ],
+  [
+    "felt",
+    12,
+    "https://www.theguardian.com/tv-and-radio/2026/nov/16/russell-brand-open-secret-review-a-real-tribute-to-the-journalists-and-victims-who-brought-him-to-justice"
+  ],
+  [
+    "health",
+    12,
+    "https://www.theguardian.com/thefilter-us/2026/nov/10/protein-essentials"
   ],
   [
     "oven",
@@ -366,13 +371,8 @@
     "https://www.theguardian.com/thefilter-us/best-toaster-ovens"
   ],
   [
-    "china",
+    "washington",
     11,
-    "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html"
-  ],
-  [
-    "data",
-    11,
-    "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html"
+    "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html"
   ]
 ];
