@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    87,
-    "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html"
-  ],
-  [
-    "senate",
-    34,
-    "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html"
+    85,
+    "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html"
   ],
   [
     "president",
-    32,
-    "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html"
-  ],
-  [
-    "stop",
-    30,
-    "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html"
-  ],
-  [
-    "american",
-    28,
-    "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html"
-  ],
-  [
-    "film",
-    28,
-    "https://www.theguardian.com/culture/2026/nov/18/charlotte-gainsbourg-aesthetics-family-high-i-felt-ugly-extremism-abortion-jane-birkin"
+    43,
+    "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html"
   ],
   [
     "democrats",
-    26,
-    "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html"
+    40,
+    "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html"
   ],
   [
     "game",
+    38,
+    "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html"
+  ],
+  [
+    "grand",
+    34,
+    "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar"
+  ],
+  [
+    "theft",
+    34,
+    "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar"
+  ],
+  [
+    "auto",
+    34,
+    "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar"
+  ],
+  [
+    "china",
+    28,
+    "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-putin-summit-yalta.html"
+  ],
+  [
+    "putin",
     26,
-    "https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html"
+    "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-putin-summit-yalta.html"
   ],
   [
-    "nvidia",
-    26,
-    "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html"
-  ],
-  [
-    "ground",
+    "jeffries",
     25,
-    "https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html"
+    "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html"
   ],
   [
-    "climate",
+    "senate",
     25,
-    "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates"
+    "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html"
   ],
   [
-    "peltola",
+    "early",
+    25,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "democratic",
+    24,
+    "https://www.washingtonpost.com/business/2026/11/18/sen-bernie-sanders-unveils-his-wish-list-democrats-congress/"
+  ],
+  [
+    "meeting",
     22,
-    "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html"
+    "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html"
   ],
   [
-    "country",
-    22,
-    "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html"
-  ],
-  [
-    "alaska",
+    "black",
     21,
-    "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html"
-  ],
-  [
-    "outages",
-    21,
-    "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html"
-  ],
-  [
-    "huang",
-    21,
-    "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html"
-  ],
-  [
-    "tech",
-    21,
-    "https://www.nytimes.com/2026/11/18/arts/television/late-night-michael-kosta-trump-technology.html"
+    "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html"
   ],
   [
     "health",
     20,
-    "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html"
+    "https://www.nytimes.com/2026/11/18/well/rfk-jr-uspstf-health-care.html"
   ],
   [
-    "war",
+    "country",
     20,
-    "https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "political",
-    20,
-    "https://www.washingtonpost.com/nation/2026/11/16/still-too-young-buy-beer-these-teens-are-winning-elected-office/"
-  ],
-  [
-    "recent",
-    19,
-    "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html"
-  ],
-  [
-    "air",
-    19,
-    "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html"
-  ],
-  [
-    "administration",
-    19,
-    "https://www.nytimes.com/2026/11/18/us/trump-administration-presses-ahead-in-legal-battle-over-us-attorneys.html"
-  ],
-  [
-    "heidi",
+    "speaker",
     18,
-    "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html"
+    "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html"
   ],
   [
-    "america",
+    "won",
     18,
-    "https://www.washingtonpost.com/business/2026/11/17/gm-stock-switch-reveals-latest-strategy-get-thee-into-an-index/"
+    "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-putin-summit-yalta.html"
+  ],
+  [
+    "team",
+    18,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
     "family",
     18,
-    "https://www.theguardian.com/culture/2026/nov/18/charlotte-gainsbourg-aesthetics-family-high-i-felt-ugly-extremism-abortion-jane-birkin"
+    "https://www.theguardian.com/us-news/2026/nov/18/robert-garcia-trump-records-investigations"
   ],
   [
-    "mary",
-    17,
-    "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html"
+    "holiday",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/nov/18/best-holiday-gifts-ideas-for-hosts"
   ],
   [
-    "secretary",
-    17,
-    "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html"
+    "season",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/nov/18/best-holiday-gifts-ideas-for-hosts"
   ],
   [
-    "overton",
+    "war",
     17,
-    "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html"
+    "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html"
   ],
   [
-    "jensen",
+    "administration",
     17,
-    "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html"
+    "https://www.nytimes.com/2026/11/18/well/rfk-jr-uspstf-health-care.html"
   ],
   [
-    "early",
+    "air",
     17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/11/18/us/sean-duffy-ground-stop-faa-trump.html"
+  ],
+  [
+    "love",
+    17,
+    "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html"
+  ],
+  [
+    "ice",
+    17,
+    "https://www.washingtonpost.com/immigration/2026/11/17/they-had-green-cards-years-then-they-were-detained-by-ice/"
+  ],
+  [
+    "don",
+    17,
+    "https://www.theguardian.com/wellness/2026/nov/18/adam-grant-platonic-bonds-relationships"
+  ],
+  [
+    "students",
+    16,
+    "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html"
+  ],
+  [
+    "hakeem",
+    16,
+    "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html"
   ],
   [
     "democrat",
     16,
-    "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html"
+    "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html"
   ],
   [
-    "democratic",
+    "donald",
     16,
-    "https://www.nytimes.com/2026/11/17/us/elections/recounts-house-races-north-carolina-minnesota.html"
+    "https://www.washingtonpost.com/nation/2026/11/18/asif-merchant-sentenced-27-years-over-plot-kill-us-leaders/"
   ],
   [
-    "nomination",
-    16,
-    "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html"
-  ],
-  [
-    "death",
-    16,
-    "https://www.washingtonpost.com/health/2026/11/17/leukemia-vaccine-passes-key-trial-adding-breakthrough-year-cancer-drugs/"
-  ],
-  [
-    "million",
-    16,
-    "https://www.washingtonpost.com/nation/2026/11/17/aaa-forecasts-slight-drop-thanksgiving-travelers/"
-  ],
-  [
-    "system",
-    16,
-    "https://www.washingtonpost.com/nation/2026/11/17/fema-test-its-emergency-alert-system-tuesday/"
-  ],
-  [
-    "military",
-    16,
-    "https://www.washingtonpost.com/national-security/2026/11/17/after-2-years-military-prison-mother-is-acquitted-babys-death/"
-  ],
-  [
-    "global",
-    16,
-    "https://www.washingtonpost.com/health/2026/11/17/first-pill-slow-alzheimers-could-come-an-unexpected-place/"
-  ],
-  [
-    "ice",
-    16,
-    "https://www.washingtonpost.com/immigration/2026/11/17/they-had-green-cards-years-then-they-were-detained-by-ice/"
-  ],
-  [
-    "past",
-    16,
-    "https://www.washingtonpost.com/immigration/2026/11/17/they-had-green-cards-years-then-they-were-detained-by-ice/"
-  ],
-  [
-    "san",
-    16,
-    "https://www.washingtonpost.com/lifestyle/2026/11/17/62-snakes-were-just-released-into-wild-this-is-good-news-we-promise/"
-  ],
-  [
-    "issues",
+    "tech",
     16,
     "https://www.washingtonpost.com/transportation/2026/11/16/united-airlines-hit-by-tech-issues-days-after-nationwide-ground-stop/"
   ],
   [
-    "star",
+    "crisis",
     16,
-    "https://www.theguardian.com/film/2026/nov/18/first-truly-weird-bond-13-things-robert-pattinson-from-heavy-saliva-to-dead-clowns"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "food",
+    "california",
     16,
-    "https://www.theguardian.com/world/2026/nov/18/potato-war-japan-76-year-ban-american-imported-potatoes"
+    "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding"
   ],
   [
-    "amazon",
+    "political",
     16,
-    "https://www.theguardian.com/film/2026/nov/17/james-bond-robert-pattinson-jeff-bezos-pick"
+    "https://www.theguardian.com/us-news/2026/nov/18/florida-muslim-cair-civil-rights"
   ],
   [
-    "tour",
-    15,
-    "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html"
-  ],
-  [
-    "iran",
-    15,
-    "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html"
-  ],
-  [
-    "though",
-    15,
-    "https://www.nytimes.com/2026/11/17/books/national-book-award-nonfiction-elgendy-eligibility.html"
-  ],
-  [
-    "season",
-    15,
-    "https://www.nytimes.com/2026/11/17/weather/california-storms-sf-waves.html"
+    "climate",
+    16,
+    "https://www.theguardian.com/environment/2026/nov/18/world-held-hostage-by-oil-mafia-says-panama-minister-at-cop-31"
   ],
   [
     "history",
     15,
-    "https://www.washingtonpost.com/nation/2026/11/16/colonial-williamsburg-unveils-600-million-upgrade-foundations-100th-birthday/"
-  ],
-  [
-    "gaza",
-    15,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "despite",
-    15,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  ],
-  [
-    "night",
-    15,
-    "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis"
-  ],
-  [
-    "ceo",
-    15,
-    "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+    "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html"
   ],
   [
     "york",
     15,
-    "https://www.theguardian.com/us-news/2026/nov/17/markwayne-mullin-private-jet-football"
+    "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html"
+  ],
+  [
+    "leaders",
+    15,
+    "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-putin-summit-yalta.html"
+  ],
+  [
+    "nvidia",
+    15,
+    "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-shenzhen-spy-scandal.html"
+  ],
+  [
+    "ground",
+    15,
+    "https://www.nytimes.com/2026/11/18/us/sean-duffy-ground-stop-faa-trump.html"
+  ],
+  [
+    "stop",
+    15,
+    "https://www.nytimes.com/2026/11/18/us/sean-duffy-ground-stop-faa-trump.html"
+  ],
+  [
+    "united",
+    15,
+    "https://www.washingtonpost.com/transportation/2026/11/16/united-airlines-hit-by-tech-issues-days-after-nationwide-ground-stop/"
+  ],
+  [
+    "gift",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/nov/18/best-holiday-gifts-ideas-for-hosts"
+  ],
+  [
+    "court",
+    14,
+    "https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html"
   ],
   [
     "review",
-    15,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/17/the-last-spy-review-a-riveting-tale-of-cia-meddling-espionage-gossip-and-blue-nun-wine"
-  ],
-  [
-    "office",
     14,
-    "https://www.nytimes.com/2026/11/17/obituaries/kevin-bleyer-dead.html"
+    "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html"
   ],
   [
-    "california",
+    "despite",
     14,
-    "https://www.nytimes.com/2026/11/17/weather/california-storms-sf-waves.html"
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "faa",
-    14,
-    "https://www.washingtonpost.com/transportation/2026/11/17/faa-oversaw-signed-off-repair-work-before-nationwide-ground-stop/"
-  ],
-  [
-    "crisis",
-    14,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "win",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis"
-  ],
-  [
-    "something",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/nov/17/parachute-bath-towel-sale-black-friday-2026"
-  ],
-  [
-    "don",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/nov/17/parachute-bath-towel-sale-black-friday-2026"
-  ],
-  [
-    "republican",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race"
-  ],
-  [
-    "documentary",
+    "film",
     14,
     "https://www.theguardian.com/world/2026/nov/18/wednesday-briefing-how-naza-shook-israel-and-sparked-a-debate-the-country-had-ignored"
   ],
   [
-    "little",
+    "committee",
     14,
-    "https://www.theguardian.com/thefilter-us/2026/nov/14/best-holiday-gifts-ideas-guide"
+    "https://www.theguardian.com/us-news/2026/nov/18/robert-garcia-trump-records-investigations"
   ],
   [
-    "nbc",
+    "games",
     14,
-    "https://www.latimes.com/entertainment-arts/business/story/2026-11-17/how-nbc-turned-news-into-hit-shows-100-anniversary"
+    "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release"
   ],
   [
-    "party",
-    13,
-    "https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html"
+    "republican",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/18/pete-hegseth-iran-war-pentagon"
   ],
   [
-    "government",
-    13,
-    "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html"
+    "university",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/18/florida-muslim-cair-civil-rights"
   ],
   [
-    "united",
-    13,
-    "https://www.nytimes.com/2026/11/17/books/national-book-award-nonfiction-elgendy-eligibility.html"
+    "american",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/18/florida-muslim-cair-civil-rights"
   ],
   [
-    "donald",
-    13,
-    "https://www.nytimes.com/2026/11/17/obituaries/kevin-bleyer-dead.html"
+    "security",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/18/ukrainian-refugee-stabbing-lawsuit"
   ],
   [
-    "money",
+    "control",
     13,
-    "https://www.washingtonpost.com/transportation/2026/11/17/duffy-wants-50-billion-avert-another-ground-stop-experts-say-money-isnt-issue/"
+    "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html"
   ],
   [
-    "related",
+    "summit",
     13,
-    "https://www.washingtonpost.com/transportation/2026/11/16/united-airlines-hit-by-tech-issues-days-after-nationwide-ground-stop/"
+    "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html"
   ],
   [
-    "black",
+    "data",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/nov/17/parachute-bath-towel-sale-black-friday-2026"
+    "https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html"
+  ],
+  [
+    "series",
+    13,
+    "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html"
+  ],
+  [
+    "change",
+    13,
+    "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html"
+  ],
+  [
+    "america",
+    13,
+    "https://www.washingtonpost.com/religion/2026/11/18/muslims-outnumber-christians-worlds-largest-religion-by-2035-study-finds/"
+  ],
+  [
+    "system",
+    13,
+    "https://www.washingtonpost.com/nation/2026/11/17/fema-test-its-emergency-alert-system-tuesday/"
+  ],
+  [
+    "past",
+    13,
+    "https://www.washingtonpost.com/immigration/2026/11/17/they-had-green-cards-years-then-they-were-detained-by-ice/"
+  ],
+  [
+    "gta",
+    13,
+    "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar"
+  ],
+  [
+    "play",
+    13,
+    "https://www.theguardian.com/film/2026/nov/18/readers-casting-robert-pattinson-bond-007"
+  ],
+  [
+    "lawsuit",
+    13,
+    "https://www.theguardian.com/us-news/2026/nov/18/brooklyn-building-collapse-lawsuit"
+  ],
+  [
+    "recent",
+    13,
+    "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release"
+  ],
+  [
+    "outages",
+    13,
+    "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure"
+  ],
+  [
+    "student",
+    13,
+    "https://www.theguardian.com/us-news/2026/nov/18/florida-muslim-cair-civil-rights"
+  ],
+  [
+    "russian",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/nov/18/putin-trump-xi-vision-global-power-europe"
+  ],
+  [
+    "ahead",
+    13,
+    "https://www.theguardian.com/sport/2026/nov/18/ten-is-the-minimum-14-year-old-surfing-champion-leihani-zoric-aims-for-record-world-title-haul"
+  ],
+  [
+    "toaster",
+    13,
+    "https://www.theguardian.com/thefilter-us/best-toaster-ovens"
+  ],
+  [
+    "rep",
+    13,
+    "https://www.latimes.com/politics/story/2026-11-13/eric-jones-ousts-longtime-northern-california-rep-mike-thompson"
+  ],
+  [
+    "night",
+    12,
+    "https://www.nytimes.com/2026/11/18/upshot/sister-snl-elder-care.html"
   ]
 ];

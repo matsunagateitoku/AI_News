@@ -3,186 +3,186 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 57,
-      "url": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
+      "count": 47,
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/mapquest-google-apple-navigation-app-flock",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 29,
-      "url": "https://www.nytimes.com/2026/11/18/us/trump-administration-presses-ahead-in-legal-battle-over-us-attorneys.html",
+      "name": "China",
+      "count": 28,
+      "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-putin-summit-yalta.html",
       "source": "NY Times"
     },
     {
-      "name": "Alaska",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
+      "name": "U.S.",
+      "count": 22,
+      "url": "https://www.nytimes.com/2026/11/18/upshot/sister-snl-elder-care.html",
       "source": "NY Times"
     },
     {
       "name": "California",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/11/17/weather/california-storms-sf-waves.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "L.A. County",
-      "count": 13,
-      "url": "https://www.latimes.com/california/story/2026-11-17/franklin-high-student-altercation-fatal-fall-medical-examiner-report-lausd",
-      "source": "LA Times"
+      "count": 15,
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
+      "source": "The Guardian"
     },
     {
       "name": "Russia",
       "count": 12,
-      "url": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "China",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "America",
-      "count": 11,
-      "url": "https://www.washingtonpost.com/business/2026/11/17/gm-stock-switch-reveals-latest-strategy-get-thee-into-an-index/",
-      "source": "Washington Post"
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/18/jensen-huang-leather-jacket-tech-titan-share-collapse",
+      "source": "The Guardian"
     },
     {
       "name": "Israel",
       "count": 11,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
+      "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Washington Dc",
+      "count": 11,
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/california-republicans-us-house",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Alaska",
+      "count": 10,
+      "url": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "New York City",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/lebron-james-bron-betting-app-lawsuit",
+      "source": "The Guardian"
+    },
+    {
+      "name": "America",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/religion/2026/11/18/muslims-outnumber-christians-worlds-largest-religion-by-2035-study-finds/",
+      "source": "Washington Post"
     }
   ],
   "PERSON": [
     {
-      "name": "Gen Randy George  Donald Trump",
-      "count": 25,
-      "url": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Mary Peltola Wins",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Heidi Overton",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/nov/17/white-house-withdraws-heidi-overton-fda",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Marco Rubio",
-      "count": 11,
-      "url": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
-      "source": "NY Times"
-    },
-    {
       "name": "Xi Jinping",
-      "count": 11,
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-shenzhen-spy-scandal.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 18,
+      "url": "https://www.washingtonpost.com/nation/2026/11/18/asif-merchant-sentenced-27-years-over-plot-kill-us-leaders/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Putin One-On-One",
+      "count": 15,
+      "url": "https://thehill.com/homenews/administration/6228595-trump-putin-meeting-china/",
+      "source": "The Hill"
+    },
+    {
+      "name": "Donald Trump Jr.",
+      "count": 12,
+      "url": "https://www.npr.org/2026/11/18/g-s1-154147/robert-garcia-house-democrats-investigations-trump-administration",
       "source": "NPR"
     },
     {
       "name": "Jensen Huang",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-shenzhen-spy-scandal.html",
       "source": "NY Times"
     },
     {
-      "name": "Putin     Shenzhen",
+      "name": "Vladimir Putin",
       "count": 9,
-      "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+      "url": "https://www.theguardian.com/world/2026/nov/18/xi-jinping--protectionism-donald-trump-apec-summit-putin",
       "source": "The Guardian"
     },
     {
-      "name": "Post-Jensen Huang",
-      "count": 9,
-      "url": "https://www.nbcnews.com/business/corporations/nvidia-post-jensen-huang-kress-earnings-rcna609782",
-      "source": "NBC News"
-    },
-    {
-      "name": "Dan S. Sullivan",
+      "name": "Mary Peltola",
       "count": 7,
-      "url": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
+      "url": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html",
       "source": "NY Times"
     },
     {
       "name": "Robert Pattinson",
       "count": 7,
-      "url": "https://www.theguardian.com/film/2026/nov/18/first-truly-weird-bond-13-things-robert-pattinson-from-heavy-saliva-to-dead-clowns",
+      "url": "https://www.theguardian.com/film/2026/nov/18/readers-casting-robert-pattinson-bond-007",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Jorge Linares",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/nov/17/jorge-linares-boxing-champion-ice-detention-texas",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/18/hakeem-jeffries-house-speaker-progressives",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Administration Presses Ahead",
-      "count": 53,
-      "url": "https://www.nytimes.com/2026/11/18/us/trump-administration-presses-ahead-in-legal-battle-over-us-attorneys.html",
-      "source": "NY Times"
+      "name": "Target For Trump",
+      "count": 44,
+      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+      "source": "Wall St. Journal"
     },
     {
-      "name": "Senate Intelligence Committee",
-      "count": 26,
-      "url": "https://thehill.com/homenews/senate/6226826-mark-warner-ai-cybersecurity-system-outages/",
-      "source": "The Hill"
+      "name": "House Homeland Security Committee",
+      "count": 31,
+      "url": "https://www.cbsnews.com/video/full-speech-markwayne-mullin-delivers-opening-remarks-at-house-hearing-on-worldwide-threats/",
+      "source": "CBS News"
     },
     {
-      "name": "The White House",
+      "name": "The U.S. Senate",
       "count": 22,
-      "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nvidia",
-      "count": 21,
-      "url": "https://www.washingtonpost.com/business/2026/11/16/trumps-stake-nvidia-grew-much-62-million-before-scandal-broke-out/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Amazon Mgm Studios",
-      "count": 16,
-      "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-17/jeff-bezos-heavily-involved-in-casting-robert-pattinson-as-james-bond",
+      "url": "https://www.latimes.com/entertainment-arts/music/story/2026-11-17/bruce-springsteen-fan-club-shut-down-after-abdul-el-sayed-endorsement",
       "source": "LA Times"
     },
     {
-      "name": "White House Withdraws Nomination Of Heidi Overton",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Faa",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/transportation/2026/11/17/faa-oversaw-signed-off-repair-work-before-nationwide-ground-stop/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Ai",
-      "count": 14,
-      "url": "https://www.theguardian.com/environment/2026/nov/17/down-to-earth-democrat-delegates-us-politics-cop31",
-      "source": "The Guardian"
-    },
-    {
       "name": "Guardian Science",
-      "count": 14,
+      "count": 16,
       "url": "https://www.theguardian.com/science/video/2026/nov/12/obesity-how-to-stop-millions-being-misdiagnosed-video",
       "source": "The Guardian"
     },
     {
-      "name": "Fda",
-      "count": 12,
-      "url": "https://www.theguardian.com/us-news/2026/nov/17/white-house-withdraws-heidi-overton-fda",
+      "name": "The White House",
+      "count": 14,
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+      "source": "NPR"
+    },
+    {
+      "name": "Nvidia",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-shenzhen-spy-scandal.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ai For The Atlantic",
+      "count": 11,
+      "url": "https://www.today.com/video/is-the-recent-spate-of-tech-outages-a-warning-sign-273718341533",
+      "source": "NBC News"
+    },
+    {
+      "name": "Grand Theft Auto Vi  •  Crime",
+      "count": 10,
+      "url": "https://www.theguardian.com/games/2026/nov/16/auto-tunes-music-grand-theft-auto-conquered-zeitgeist-gta",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Congress",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/business/2026/11/18/sen-bernie-sanders-unveils-his-wish-list-democrats-congress/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/18/hakeem-jeffries-house-speaker-progressives",
       "source": "The Guardian"
     }
   ],
@@ -194,45 +194,21 @@
       "source": "The Guardian"
     },
     {
-      "name": "World Cup Quarter",
-      "count": 3,
-      "url": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes",
+      "name": "The 2030 World Cup",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
       "source": "The Guardian"
     },
     {
-      "name": "The Dp World Tour",
-      "count": 2,
-      "url": "https://www.theguardian.com/sport/2026/nov/17/bryson-dechambeau-joins-dp-world-tour-2027-season-liv-golf",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Olympics",
-      "count": 2,
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-11-17/nbc-100-years-sports-history",
-      "source": "LA Times"
+      "name": "Iran War Critique",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html",
+      "source": "NY Times"
     },
     {
       "name": "Olympic",
       "count": 1,
       "url": "https://www.theguardian.com/sport/2026/nov/18/child-doping-cheating-global-epidemic-abuse-exploitation",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Open",
-      "count": 1,
-      "url": "https://www.theguardian.com/sport/2026/nov/17/tiger-woods-return-hero-world-challenge-golf",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The 1986",
-      "count": 1,
-      "url": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes",
-      "source": "The Guardian"
-    },
-    {
-      "name": "European Cup",
-      "count": 1,
-      "url": "https://www.theguardian.com/film/2026/nov/17/heysel-85-review-rage-filled-denunciation-of-the-incompetence-that-fuelled-a-football-disaster",
       "source": "The Guardian"
     },
     {
@@ -246,7 +222,25 @@
       "count": 1,
       "url": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
       "source": "The Guardian"
+    },
+    {
+      "name": "World War I.",
+      "count": 1,
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
+      "source": "NPR"
+    },
+    {
+      "name": "The Iran War",
+      "count": 1,
+      "url": "https://www.politico.com/video/2026/11/13/mark-kelly-on-trump-the-iran-war-and-his-2028-decision-2229213",
+      "source": "Politico"
+    },
+    {
+      "name": "Camp David Accords",
+      "count": 1,
+      "url": "https://thehill.com/homenews/house/6228424-watch-live-mike-johnson-anwar-sadat-congressional-gold-medal/",
+      "source": "The Hill"
     }
   ],
-  "updated": "2026-11-18T08:20:26Z"
+  "updated": "2026-11-18T21:13:24Z"
 };
