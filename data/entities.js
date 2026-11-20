@@ -2,16 +2,10 @@
 (window.newsData=window.newsData||{}).entities={
   "EVENT": [
     {
-      "name": "The Iran War",
-      "count": 6,
-      "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Black Friday 2026",
+      "name": "Black Friday",
       "count": 3,
-      "url": "https://www.nbcnews.com/select/shopping/amazon-black-friday-2026-deals-rcna610222",
-      "source": "NBC News"
+      "url": "https://www.theguardian.com/thefilter-us/2026/nov/17/parachute-bath-towel-sale-black-friday-2026",
+      "source": "The Guardian"
     },
     {
       "name": "World Toilet Day",
@@ -20,10 +14,16 @@
       "source": "NPR"
     },
     {
-      "name": "Los Angeles Olympics",
+      "name": "First Super Bowl",
       "count": 2,
-      "url": "https://www.foxnews.com/outkick-sports/lapd-chief-policing-2028-los-angeles-olympics-could-cost-4b-far-exceeding-current-funding",
-      "source": "Fox News"
+      "url": "https://www.nbcnews.com/sports/nfl/troy-aikman-joe-buck-super-bowl-espn-feud-comments-nfl-rcna610242",
+      "source": "NBC News"
+    },
+    {
+      "name": "Independence Day",
+      "count": 1,
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/religious-messages-agriculture-secretary-unconstitutional",
+      "source": "The Guardian"
     },
     {
       "name": "The Winter Olympics",
@@ -44,139 +44,133 @@
       "source": "NPR"
     },
     {
+      "name": "Thanksgiving Day Parade",
+      "count": 1,
+      "url": "https://www.foxnews.com/politics/exclusive-retired-police-sergeant-issues-warning-over-mamdanis-nypd-shake-up-ahead-thanksgiving-parade",
+      "source": "Fox News"
+    },
+    {
+      "name": "Iraq War",
+      "count": 1,
+      "url": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/",
+      "source": "CBS News"
+    },
+    {
       "name": "World Marathon Majors",
       "count": 1,
       "url": "https://www.cbsnews.com/news/deirdre-keane-world-marathon-majors-pregnant/",
       "source": "CBS News"
-    },
-    {
-      "name": "First Super Bowl",
-      "count": 1,
-      "url": "https://www.nbcnews.com/sports/nfl/troy-aikman-joe-buck-super-bowl-espn-feud-comments-nfl-rcna610242",
-      "source": "NBC News"
-    },
-    {
-      "name": "Hurricane Helene",
-      "count": 1,
-      "url": "https://www.politico.com/news/2026/11/19/josh-stein-north-carolina-data-centers-01176128",
-      "source": "Politico"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 46,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/19/measles-robert-f-kennedy-jr-impeach",
+      "count": 51,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/20/experience-discovered-dad-killer-on-the-run-turned-him-in",
       "source": "The Guardian"
     },
     {
-      "name": "China",
-      "count": 24,
-      "url": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
+      "name": "California",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/11/19/weather/california-rain-sf-la.html",
       "source": "NY Times"
     },
     {
-      "name": "U.S.",
+      "name": "Florida",
       "count": 17,
-      "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Israel",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Myanmar",
-      "count": 15,
-      "url": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iran",
-      "count": 14,
-      "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-israel-iran-war.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Russia",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
+      "url": "https://www.nytimes.com/2026/11/19/weather/florida-floods-rain-closures-evacuations.html",
       "source": "NY Times"
     },
     {
       "name": "Texas",
-      "count": 11,
+      "count": 16,
       "url": "https://www.theguardian.com/us-news/2026/nov/19/judge-t-elliot-gaiser-nomination-fight",
       "source": "The Guardian"
     },
     {
-      "name": "Northern Gaza",
-      "count": 10,
-      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "Wall St. Journal"
+      "name": "U.S.",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+      "source": "NY Times"
     },
     {
-      "name": "Florida",
+      "name": "L.A. County",
+      "count": 12,
+      "url": "https://www.latimes.com/california/story/2026-11-18/la-county-child-protective-services-worker-charged-with-molesting-children-he-met-on-job",
+      "source": "LA Times"
+    },
+    {
+      "name": "China",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iowa",
       "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-lawsuit-new-york-times",
+      "url": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Alaska",
+      "count": 10,
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate",
       "source": "The Guardian"
+    },
+    {
+      "name": "America",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/business/2026/11/19/nvidia-scandal-drives-push-tougher-export-control-enforcement/",
+      "source": "Washington Post"
     }
   ],
   "ORG": [
     {
-      "name": "Target For Trump",
-      "count": 55,
-      "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
-      "source": "Wall St. Journal"
+      "name": "Trump Administration",
+      "count": 60,
+      "url": "https://www.nbcnews.com/nightly-news/video/national-cyber-director-to-leave-trump-administration-273861701758",
+      "source": "NBC News"
     },
     {
       "name": "The U.S. Senate",
-      "count": 31,
+      "count": 32,
       "url": "https://www.latimes.com/entertainment-arts/music/story/2026-11-17/bruce-springsteen-fan-club-shut-down-after-abdul-el-sayed-endorsement",
       "source": "LA Times"
     },
     {
       "name": "Ai",
-      "count": 26,
+      "count": 23,
       "url": "https://www.washingtonpost.com/business/2026/11/18/fed-officials-worry-an-ai-bust-could-shake-financial-system/",
       "source": "Washington Post"
     },
     {
-      "name": "Myanmar Committed Genocide Against The Rohingya",
-      "count": 15,
-      "url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
-      "source": "NY Times"
+      "name": "The White House",
+      "count": 19,
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
+      "source": "The Guardian"
     },
     {
-      "name": "Nfl",
-      "count": 15,
-      "url": "https://www.theguardian.com/sport/2026/nov/19/tom-brady-fox-broadcasts-nfl-booth",
+      "name": "Un",
+      "count": 11,
+      "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
       "source": "The Guardian"
     },
     {
       "name": "Penguin Random House",
-      "count": 15,
+      "count": 11,
       "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-lawsuit-new-york-times",
       "source": "The Guardian"
     },
     {
-      "name": "Ipo",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Grand Theft Auto Vi",
+      "name": "Nfl",
       "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/19/the-guardian-view-on-grand-theft-auto-vi-a-game-that-makes-players-think-twice",
+      "url": "https://www.theguardian.com/sport/2026/nov/19/tom-brady-fox-broadcasts-nfl-booth",
       "source": "The Guardian"
     },
     {
-      "name": "Amazon Web Services",
-      "count": 11,
-      "url": "https://www.theguardian.com/global-development/2026/nov/19/labor-unions-amazon-contracts-open-letter",
+      "name": "Grand Theft Auto Vi",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/19/the-guardian-view-on-grand-theft-auto-vi-a-game-that-makes-players-think-twice",
       "source": "The Guardian"
     },
     {
@@ -184,69 +178,75 @@
       "count": 9,
       "url": "https://www.washingtonpost.com/business/2026/11/19/republicans-break-with-trump-his-request-party-line-pentagon-funding-bill/",
       "source": "Washington Post"
+    },
+    {
+      "name": "Ipo",
+      "count": 9,
+      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+      "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
-      "name": "Vladimir Putin",
-      "count": 25,
-      "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Xi Jinping",
-      "count": 20,
-      "url": "https://www.theguardian.com/news/video/2026/nov/19/troublesome-trio-trump-xi-and-putin-hold-historic-meeting-the-latest",
-      "source": "The Guardian"
-    },
-    {
       "name": "Donald Trump",
-      "count": 17,
+      "count": 21,
       "url": "https://www.washingtonpost.com/nation/2026/11/18/asif-merchant-sentenced-27-years-over-plot-kill-us-leaders/",
       "source": "Washington Post"
     },
     {
-      "name": "Anthropic",
-      "count": 10,
-      "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
+      "name": "Vladimir V. Putin",
+      "count": 15,
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
       "source": "NY Times"
     },
     {
-      "name": "Anthony Boyle",
-      "count": 10,
-      "url": "https://www.theguardian.com/film/2026/nov/19/anthony-boyle-actor-interview-see-buildings-fall-like-lightning-altruists",
+      "name": "Xi Jinping",
+      "count": 15,
+      "url": "https://www.theguardian.com/culture/2026/nov/19/jimmy-kimmel-trump-xi-putin-summit-late-night",
       "source": "The Guardian"
     },
     {
+      "name": "Anthropic Debuts",
+      "count": 13,
+      "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
+      "source": "NY Times"
+    },
+    {
       "name": "Donald Trump ’S",
-      "count": 7,
+      "count": 11,
       "url": "https://www.theguardian.com/us-news/2026/nov/19/judge-t-elliot-gaiser-nomination-fight",
       "source": "The Guardian"
     },
     {
-      "name": "Lucia",
-      "count": 7,
-      "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-parents-please-dont-buy-gta-6-vi-for-your-child",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Elon Musk",
-      "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
-      "source": "The Guardian"
-    },
-    {
       "name": "Fiona",
-      "count": 6,
-      "url": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Anthony Boyle",
+      "count": 9,
+      "url": "https://www.theguardian.com/film/2026/nov/19/anthony-boyle-actor-interview-see-buildings-fall-like-lightning-altruists",
       "source": "The Guardian"
     },
     {
-      "name": "Enda Walsh",
-      "count": 6,
-      "url": "https://www.theguardian.com/film/2026/nov/19/anthony-boyle-actor-interview-see-buildings-fall-like-lightning-altruists",
+      "name": "Dan Sullivan",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/11/19/us/politics/justice-department-gives-up-on-alaska-senate-lawsuit.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Mary Peltola",
+      "count": 7,
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Vladimir Putin",
+      "count": 7,
+      "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-11-19T21:15:20Z"
+  "updated": "2026-11-20T08:14:13Z"
 };
