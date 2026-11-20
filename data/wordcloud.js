@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    94,
-    "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html"
+    93,
+    "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html"
   ],
   [
     "president",
-    41,
-    "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html"
-  ],
-  [
-    "game",
-    40,
-    "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters"
-  ],
-  [
-    "senate",
-    39,
-    "https://www.nytimes.com/2026/11/19/us/politics/justice-department-gives-up-on-alaska-senate-lawsuit.html"
-  ],
-  [
-    "grand",
-    29,
-    "https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html"
-  ],
-  [
-    "theft",
-    29,
-    "https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html"
-  ],
-  [
-    "auto",
-    28,
-    "https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html"
-  ],
-  [
-    "court",
-    27,
-    "https://www.nytimes.com/2026/11/20/opinion/genocide-gambia-rwanda-rohingya-israel.html"
-  ],
-  [
-    "race",
-    27,
-    "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate"
-  ],
-  [
-    "anthropic",
-    25,
-    "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html"
-  ],
-  [
-    "administration",
-    25,
-    "https://www.nytimes.com/2026/11/19/us/politics/justice-department-gives-up-on-alaska-senate-lawsuit.html"
-  ],
-  [
-    "putin",
-    24,
-    "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html"
+    53,
+    "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html"
   ],
   [
     "democrats",
-    24,
-    "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html"
-  ],
-  [
-    "summit",
-    23,
-    "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html"
+    32,
+    "https://www.nytimes.com/2026/11/20/us/elections/democrats-attorney-general.html"
   ],
   [
     "california",
-    23,
-    "https://www.nytimes.com/2026/11/19/weather/california-rain-sf-la.html"
+    31,
+    "https://www.theguardian.com/artanddesign/gallery/2026/nov/20/richard-avedon-hollywood-photographs"
   ],
   [
-    "bill",
-    21,
-    "https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html"
-  ],
-  [
-    "night",
-    21,
-    "https://www.theguardian.com/us-news/2026/nov/19/el-nino-flooding-native-communities"
-  ],
-  [
-    "company",
-    20,
-    "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html"
-  ],
-  [
-    "florida",
-    20,
-    "https://www.nytimes.com/2026/11/19/weather/florida-floods-rain-closures-evacuations.html"
-  ],
-  [
-    "democrat",
-    20,
-    "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate"
-  ],
-  [
-    "tech",
-    19,
-    "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html"
-  ],
-  [
-    "director",
-    19,
-    "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted"
-  ],
-  [
-    "global",
-    18,
-    "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html"
-  ],
-  [
-    "american",
-    18,
-    "https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html"
-  ],
-  [
-    "close",
-    18,
-    "https://www.washingtonpost.com/nation/2026/11/19/unlocked-cells-family-dinners-once-violent-prison-is-trying-something-new/"
-  ],
-  [
-    "holiday",
-    18,
-    "https://www.theguardian.com/thefilter-us/2026/nov/19/small-business-holiday-gift-ideas"
-  ],
-  [
-    "really",
-    18,
-    "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants"
-  ],
-  [
-    "season",
-    18,
-    "https://www.theguardian.com/thefilter-us/2026/nov/18/best-holiday-gifts-ideas-for-hosts"
-  ],
-  [
-    "climate",
-    18,
-    "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates"
-  ],
-  [
-    "texas",
-    17,
-    "https://www.nytimes.com/2026/11/19/us/texas-culture-identity.html"
-  ],
-  [
-    "justice",
-    17,
-    "https://www.nytimes.com/2026/11/19/us/politics/justice-department-gives-up-on-alaska-senate-lawsuit.html"
-  ],
-  [
-    "party",
-    17,
-    "https://www.washingtonpost.com/nation/2026/11/19/cyberattack-may-have-exposed-chase-bank-mastercard-customer-data/"
-  ],
-  [
-    "won",
-    17,
-    "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate"
-  ],
-  [
-    "judge",
-    17,
-    "https://www.theguardian.com/us-news/2026/nov/19/religious-messages-agriculture-secretary-unconstitutional"
-  ],
-  [
-    "video",
-    17,
-    "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants"
+    "game",
+    29,
+    "https://www.theguardian.com/games/2026/nov/20/grand-theft-auto-vi-players-review"
   ],
   [
     "don",
+    23,
+    "https://cooking.nytimes.com/article/thanksgiving-main-dish-not-turkey"
+  ],
+  [
+    "york",
+    23,
+    "https://www.washingtonpost.com/dc-md-va/2026/11/20/stefanik-familys-dc-home-sells-mystery-buyer-900k-over-list-price/"
+  ],
+  [
+    "gift",
+    23,
+    "https://www.theguardian.com/thefilter-us/2026/nov/20/holiday-gift-ideas-10"
+  ],
+  [
+    "based",
+    21,
+    "https://www.nytimes.com/2026/11/20/science/quantum-computer-neutral-atoms.html"
+  ],
+  [
+    "holiday",
+    21,
+    "https://www.theguardian.com/thefilter-us/2026/nov/20/holiday-gift-ideas-10"
+  ],
+  [
+    "putin",
+    20,
+    "https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit"
+  ],
+  [
+    "court",
+    19,
+    "https://www.nytimes.com/2026/11/20/style/carre-otis-gerald-marie-lawsuit-sexual-abuse.html"
+  ],
+  [
+    "theft",
+    19,
+    "https://www.theguardian.com/games/2026/nov/20/grand-theft-auto-vi-players-review"
+  ],
+  [
+    "attack",
+    18,
+    "https://www.washingtonpost.com/nation/2026/11/19/cyberattack-may-have-exposed-chase-bank-mastercard-customer-data/"
+  ],
+  [
+    "senate",
+    18,
+    "https://www.washingtonpost.com/business/2026/11/19/republicans-break-with-trump-his-request-party-line-pentagon-funding-bill/"
+  ],
+  [
+    "film",
+    18,
+    "https://www.theguardian.com/tv-and-radio/2026/nov/20/melania-review-tv-documentary-prime"
+  ],
+  [
+    "auto",
+    18,
+    "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman"
+  ],
+  [
+    "playing",
+    18,
+    "https://www.theguardian.com/football/2026/nov/20/fresh-injury-blow-for-arsenal-as-zohran-mamdani-is-sidelined-with-achilles-tear"
+  ],
+  [
+    "grand",
+    18,
+    "https://www.theguardian.com/games/2026/nov/20/grand-theft-auto-vi-players-review"
+  ],
+  [
+    "war",
     17,
-    "https://www.theguardian.com/thefilter-us/2026/nov/18/best-holiday-gifts-ideas-for-hosts"
+    "https://www.washingtonpost.com/world/2026/11/20/when-nazis-were-held-responsible-war-crimes/"
   ],
   [
-    "republican",
-    16,
-    "https://www.nytimes.com/2026/11/19/us/texas-culture-identity.html"
+    "death",
+    17,
+    "https://www.washingtonpost.com/nation/2026/11/19/unlocked-cells-family-dinners-once-violent-prison-is-trying-something-new/"
   ],
   [
-    "market",
-    16,
-    "https://www.washingtonpost.com/business/2026/11/19/nvidia-scandal-drives-push-tougher-export-control-enforcement/"
+    "really",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy"
   ],
   [
-    "prison",
+    "food",
+    17,
+    "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding"
+  ],
+  [
+    "energy",
+    17,
+    "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill"
+  ],
+  [
+    "lead",
     16,
-    "https://www.washingtonpost.com/nation/2026/11/19/most-people-who-go-jail-or-prison-were-victims-violence-first-study-finds/"
+    "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html"
   ],
   [
     "family",
     16,
-    "https://www.washingtonpost.com/nation/2026/11/19/unlocked-cells-family-dinners-once-violent-prison-is-trying-something-new/"
+    "https://www.washingtonpost.com/nation/2026/11/20/florida-authorities-investigate-killing-family-heard-911-call/"
   ],
   [
-    "something",
+    "mamdani",
     16,
-    "https://www.washingtonpost.com/nation/2026/11/19/unlocked-cells-family-dinners-once-violent-prison-is-trying-something-new/"
+    "https://www.washingtonpost.com/nation/2026/11/20/mamdani-proposes-five-year-extension-shutter-notorious-rikers-island-prison/"
   ],
   [
-    "majority",
+    "fiona",
     16,
-    "https://www.washingtonpost.com/business/2026/11/19/republicans-break-with-trump-his-request-party-line-pentagon-funding-bill/"
+    "https://www.washingtonpost.com/nation/2026/11/19/cincinnati-zoos-beloved-hippo-fiona-dead-9-years-old/"
   ],
   [
-    "review",
+    "night",
     16,
-    "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt"
+    "https://www.theguardian.com/commentisfree/2026/nov/20/democrats-blue-collar-populists"
   ],
   [
-    "lead",
+    "iran",
+    16,
+    "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates"
+  ],
+  [
+    "record",
+    16,
+    "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+  ],
+  [
+    "summit",
+    16,
+    "https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit"
+  ],
+  [
+    "close",
     15,
-    "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html"
+    "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html"
   ],
   [
-    "star",
+    "china",
     15,
-    "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html"
+    "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html"
+  ],
+  [
+    "power",
+    15,
+    "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html"
+  ],
+  [
+    "texas",
+    15,
+    "https://cooking.nytimes.com/article/thanksgiving-sheet-pan-recipes-friendsgiving"
+  ],
+  [
+    "global",
+    15,
+    "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html"
   ],
   [
     "south",
     15,
-    "https://www.nytimes.com/2026/11/19/weather/california-rain-sf-la.html"
+    "https://www.washingtonpost.com/business/2026/11/19/republicans-break-with-trump-his-request-party-line-pentagon-funding-bill/"
   ],
   [
-    "died",
+    "workers",
     15,
-    "https://www.nytimes.com/2026/11/19/movies/tinto-brass-dead.html"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ],
   [
-    "team",
-    15,
-    "https://www.washingtonpost.com/obituaries/2026/11/18/mike-wise-prize-winning-sports-columnist-post-dies-62/"
-  ],
-  [
-    "black",
-    15,
-    "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt"
-  ],
-  [
-    "cyber",
-    15,
-    "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted"
-  ],
-  [
-    "election",
+    "thanksgiving",
     14,
-    "https://www.nytimes.com/2026/11/19/us/politics/justice-department-gives-up-on-alaska-senate-lawsuit.html"
+    "https://cooking.nytimes.com/article/thanksgiving-main-dish-not-turkey"
   ],
   [
-    "country",
+    "republican",
     14,
-    "https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html"
+    "https://www.nytimes.com/2026/11/20/us/elections/democrats-attorney-general.html"
   ],
   [
-    "army",
+    "united",
     14,
-    "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html"
+    "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html"
   ],
   [
-    "child",
+    "florida",
     14,
-    "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html"
+    "https://www.nytimes.com/2026/11/20/weather/tropical-storm-kyle-florida-rain-thanksgiving.html"
   ],
   [
-    "historic",
+    "book",
     14,
-    "https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-natasha-sarin.html"
+    "https://www.washingtonpost.com/obituaries/2026/11/20/jonathan-yardley-pulitzer-winning-book-critic-post-dies-87/"
   ],
   [
-    "america",
+    "mayor",
     14,
-    "https://www.washingtonpost.com/business/2026/11/19/nvidia-scandal-drives-push-tougher-export-control-enforcement/"
+    "https://www.washingtonpost.com/nation/2026/11/20/mamdani-proposes-five-year-extension-shutter-notorious-rikers-island-prison/"
   ],
   [
-    "security",
+    "released",
     14,
-    "https://www.washingtonpost.com/business/2026/11/19/nvidia-scandal-drives-push-tougher-export-control-enforcement/"
+    "https://www.washingtonpost.com/nation/2026/11/20/bigfoot-believers-get-boost-an-unlikely-ally-us-forest-service/"
   ],
   [
-    "death",
+    "party",
     14,
-    "https://www.washingtonpost.com/nation/2026/11/19/unlocked-cells-family-dinners-once-violent-prison-is-trying-something-new/"
-  ],
-  [
-    "donald",
-    14,
-    "https://www.washingtonpost.com/nation/2026/11/18/asif-merchant-sentenced-27-years-over-plot-kill-us-leaders/"
-  ],
-  [
-    "university",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website"
-  ],
-  [
-    "friend",
-    13,
-    "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html"
-  ],
-  [
-    "win",
-    13,
-    "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html"
-  ],
-  [
-    "outages",
-    13,
-    "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html"
-  ],
-  [
-    "industry",
-    13,
-    "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html"
-  ],
-  [
-    "department",
-    13,
-    "https://www.nytimes.com/2026/11/19/us/politics/justice-department-gives-up-on-alaska-senate-lawsuit.html"
-  ],
-  [
-    "alaska",
-    13,
-    "https://www.nytimes.com/2026/11/19/us/politics/justice-department-gives-up-on-alaska-senate-lawsuit.html"
-  ],
-  [
-    "democratic",
-    13,
-    "https://www.nytimes.com/2026/11/19/us/politics/alex-soros-jen-omalley-dillon-2028-democratic-presidential-race.html"
-  ],
-  [
-    "case",
-    13,
-    "https://www.washingtonpost.com/nation/2026/11/19/court-hear-appeal-that-could-lead-dismissal-lindsay-clancy-case/"
-  ],
-  [
-    "attack",
-    13,
     "https://www.washingtonpost.com/nation/2026/11/19/cyberattack-may-have-exposed-chase-bank-mastercard-customer-data/"
   ],
   [
-    "early",
+    "gaza",
+    14,
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "press",
+    14,
+    "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates"
+  ],
+  [
+    "friend",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit"
+  ],
+  [
+    "american",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed"
+  ],
+  [
+    "guide",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/nov/20/holiday-gift-ideas-10"
+  ],
+  [
+    "love",
+    14,
+    "https://www.theguardian.com/film/2026/nov/20/james-bond-movie-007s-death-in-no-time-to-die-robert-pattinson"
+  ],
+  [
+    "season",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/nov/18/best-holiday-gifts-ideas-for-hosts"
+  ],
+  [
+    "anthropic",
+    13,
+    "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html"
+  ],
+  [
+    "founder",
+    13,
+    "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html"
+  ],
+  [
+    "support",
+    13,
+    "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html"
+  ],
+  [
+    "issues",
+    13,
+    "https://www.nytimes.com/2026/11/20/us/elections/democrats-attorney-general.html"
+  ],
+  [
+    "spent",
+    13,
+    "https://www.nytimes.com/2026/11/20/style/carre-otis-gerald-marie-lawsuit-sexual-abuse.html"
+  ],
+  [
+    "died",
+    13,
+    "https://www.nytimes.com/2026/11/20/books/jonathan-yardley-dead.html"
+  ],
+  [
+    "data",
+    13,
+    "https://www.nytimes.com/2026/11/20/science/quantum-contextuality.html"
+  ],
+  [
+    "already",
+    13,
+    "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html"
+  ],
+  [
+    "zohran",
+    13,
+    "https://www.washingtonpost.com/nation/2026/11/20/mamdani-proposes-five-year-extension-shutter-notorious-rikers-island-prison/"
+  ],
+  [
+    "something",
+    13,
+    "https://www.washingtonpost.com/nation/2026/11/19/unlocked-cells-family-dinners-once-violent-prison-is-trying-something-new/"
+  ],
+  [
+    "team",
+    13,
+    "https://www.washingtonpost.com/obituaries/2026/11/18/mike-wise-prize-winning-sports-columnist-post-dies-62/"
+  ],
+  [
+    "start",
     13,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "playing",
+    "country",
     13,
-    "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants"
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
   ],
   [
-    "sen",
+    "least",
     13,
-    "https://www.nbcnews.com/politics/2026-election/doj-seeks-dismissal-lawsuit-alaska-senate-dan-sullivan-mary-peltola-rcna610343"
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
-    "worth",
-    12,
-    "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html"
+    "review",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/nov/20/melania-review-tv-documentary-prime"
   ],
   [
-    "change",
-    12,
-    "https://www.washingtonpost.com/nation/2026/11/19/new-proposed-change-snap-threatens-free-school-meals-17-million-children/"
+    "americans",
+    13,
+    "https://www.theguardian.com/wellness/2026/nov/20/how-healthy-are-mushrooms"
   ],
   [
-    "health",
-    12,
-    "https://www.washingtonpost.com/nation/2026/11/19/most-people-who-go-jail-or-prison-were-victims-violence-first-study-finds/"
+    "young",
+    13,
+    "https://www.theguardian.com/artanddesign/gallery/2026/nov/20/richard-avedon-hollywood-photographs"
+  ],
+  [
+    "little",
+    13,
+    "https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit"
+  ],
+  [
+    "tested",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/nov/20/holiday-gift-ideas-10"
+  ],
+  [
+    "late",
+    13,
+    "https://www.theguardian.com/culture/2026/nov/20/seth-meyers-elon-musk-maga-trump"
+  ],
+  [
+    "coach",
+    13,
+    "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league"
   ]
 ];
