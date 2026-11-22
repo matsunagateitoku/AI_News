@@ -2,48 +2,58 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    66,
-    "https://www.nytimes.com/2026/11/21/upshot/trump-transit-grants.html"
-  ],
-  [
-    "game",
-    35,
-    "https://www.theguardian.com/commentisfree/2026/nov/21/gta-6-flu-vice-city-gamers-sick-day"
-  ],
-  [
-    "american",
-    31,
-    "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack"
+    70,
+    "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html"
   ],
   [
     "president",
-    24,
-    "https://www.washingtonpost.com/politics/2026/11/21/was-trumps-news-conference-with-vance-rubio-an-audition-2028/"
+    34,
+    "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html"
+  ],
+  [
+    "california",
+    31,
+    "https://www.washingtonpost.com/the-seven/2026/11/21/jonathan-rinderknecht-convicted-starting-palisades-wildfire-los-angeles/"
+  ],
+  [
+    "game",
+    29,
+    "https://www.theguardian.com/commentisfree/2026/nov/21/gta-6-flu-vice-city-gamers-sick-day"
   ],
   [
     "texas",
-    24,
+    25,
     "https://www.washingtonpost.com/business/2026/11/21/pandemic-era-law-passed-unconstitutionally-because-proxy-voting-appeals-court-rules/"
   ],
   [
-    "thanksgiving",
+    "american",
     23,
-    "https://www.theguardian.com/thefilter-us/2026/nov/21/best-early-black-friday-cyber-monday-deals"
+    "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple"
   ],
   [
     "film",
-    22,
+    23,
     "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal"
   ],
   [
-    "death",
-    21,
-    "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles"
+    "thanksgiving",
+    22,
+    "https://www.theguardian.com/thefilter-us/2026/nov/21/best-early-black-friday-cyber-monday-deals"
   ],
   [
-    "food",
+    "democrats",
+    22,
+    "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms"
+  ],
+  [
+    "grand",
+    22,
+    "https://www.theguardian.com/sport/2026/nov/22/max-verstappen-touches-perfection-in-dramatic-las-vegas-grand-prix-win"
+  ],
+  [
+    "don",
     21,
-    "https://www.theguardian.com/thefilter-us/2026/nov/21/thanksgiving-turkey-guide"
+    "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving"
   ],
   [
     "night",
@@ -51,159 +61,179 @@
     "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving"
   ],
   [
-    "don",
-    20,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving"
+    "theft",
+    19,
+    "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists"
+  ],
+  [
+    "democratic",
+    18,
+    "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html"
+  ],
+  [
+    "death",
+    18,
+    "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html"
+  ],
+  [
+    "ice",
+    18,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "food",
+    18,
+    "https://www.theguardian.com/thefilter-us/2026/nov/21/thanksgiving-turkey-guide"
+  ],
+  [
+    "love",
+    17,
+    "https://www.theguardian.com/lifeandstyle/2026/nov/22/husband-bad-breath-wont-see-dentist"
+  ],
+  [
+    "win",
+    17,
+    "https://www.theguardian.com/football/2026/nov/21/nwsl-championship-washington-spirit-kansas-city-current"
+  ],
+  [
+    "guide",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/nov/21/reader-favorite-holiday-gifts"
+  ],
+  [
+    "auto",
+    17,
+    "https://www.theguardian.com/commentisfree/2026/nov/21/gta-6-flu-vice-city-gamers-sick-day"
   ],
   [
     "york",
-    19,
+    16,
     "https://www.washingtonpost.com/dc-md-va/2026/11/20/stefanik-familys-dc-home-sells-mystery-buyer-900k-over-list-price/"
   ],
   [
     "based",
-    18,
+    16,
     "https://www.washingtonpost.com/nation/2026/11/20/mamdani-proposes-five-year-extension-shutter-notorious-rikers-island-prison/"
   ],
   [
+    "attack",
+    16,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
     "holiday",
-    18,
+    16,
     "https://www.theguardian.com/thefilter-us/2026/nov/21/reader-favorite-holiday-gifts"
   ],
   [
-    "grand",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/nov/21/gta-6-flu-vice-city-gamers-sick-day"
-  ],
-  [
-    "family",
-    17,
-    "https://www.washingtonpost.com/obituaries/2026/11/21/fixture-behind-plate-two-teams-part-baseballs-first-family/"
-  ],
-  [
-    "book",
-    17,
-    "https://www.washingtonpost.com/obituaries/2026/11/20/jonathan-yardley-pulitzer-winning-book-critic-post-dies-87/"
-  ],
-  [
-    "democrats",
-    16,
-    "https://www.nytimes.com/2026/11/21/opinion/trump-xi-putin-summit-china-ai-democrats.html"
-  ],
-  [
-    "theft",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/nov/21/gta-6-flu-vice-city-gamers-sick-day"
-  ],
-  [
-    "auto",
-    16,
-    "https://www.theguardian.com/commentisfree/2026/nov/21/gta-6-flu-vice-city-gamers-sick-day"
-  ],
-  [
-    "bill",
+    "early",
     15,
     "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"
-  ],
-  [
-    "fire",
-    15,
-    "https://www.washingtonpost.com/the-seven/2026/11/21/jonathan-rinderknecht-convicted-starting-palisades-wildfire-los-angeles/"
-  ],
-  [
-    "guide",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/nov/21/reader-favorite-holiday-gifts"
-  ],
-  [
-    "tech",
-    14,
-    "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"
-  ],
-  [
-    "health",
-    14,
-    "https://www.nytimes.com/2026/11/20/well/rfk-jr-uspstf-panel-meeting.html"
-  ],
-  [
-    "los",
-    14,
-    "https://www.washingtonpost.com/the-seven/2026/11/21/jonathan-rinderknecht-convicted-starting-palisades-wildfire-los-angeles/"
-  ],
-  [
-    "congress",
-    14,
-    "https://www.washingtonpost.com/business/2026/11/21/pandemic-era-law-passed-unconstitutionally-because-proxy-voting-appeals-court-rules/"
-  ],
-  [
-    "already",
-    14,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "black",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/nov/21/best-early-black-friday-cyber-monday-deals"
-  ],
-  [
-    "love",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/nov/21/best-early-black-friday-cyber-monday-deals"
-  ],
-  [
-    "final",
-    14,
-    "https://www.theguardian.com/football/2026/nov/20/washington-spirit-provide-hope-and-joy-in-a-city-that-badly-needs-it"
-  ],
-  [
-    "crime",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack"
-  ],
-  [
-    "doing",
-    13,
-    "https://www.nytimes.com/2026/11/21/theater/joe-keery-other-desert-cities-broadway.html"
   ],
   [
     "republican",
-    13,
+    15,
     "https://www.washingtonpost.com/politics/2026/11/21/was-trumps-news-conference-with-vance-rubio-an-audition-2028/"
   ],
   [
-    "california",
-    13,
-    "https://www.washingtonpost.com/the-seven/2026/11/21/jonathan-rinderknecht-convicted-starting-palisades-wildfire-los-angeles/"
+    "family",
+    15,
+    "https://www.washingtonpost.com/obituaries/2026/11/21/fixture-behind-plate-two-teams-part-baseballs-first-family/"
   ],
   [
-    "angeles",
-    13,
+    "child",
+    15,
+    "https://www.washingtonpost.com/nation/2026/11/20/florida-authorities-investigate-killing-family-heard-911-call/"
+  ],
+  [
+    "war",
+    15,
+    "https://www.washingtonpost.com/world/2026/11/20/when-nazis-were-held-responsible-war-crimes/"
+  ],
+  [
+    "black",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/nov/21/best-early-black-friday-cyber-monday-deals"
+  ],
+  [
+    "fire",
+    14,
     "https://www.washingtonpost.com/the-seven/2026/11/21/jonathan-rinderknecht-convicted-starting-palisades-wildfire-los-angeles/"
   ],
   [
     "governor",
-    13,
+    14,
     "https://www.washingtonpost.com/politics/2026/11/20/texas-governor-elect-trump-agree-work-together-border-security/"
   ],
   [
-    "america",
-    13,
-    "https://www.washingtonpost.com/business/2026/11/19/nvidia-scandal-drives-push-tougher-export-control-enforcement/"
+    "father",
+    14,
+    "https://www.washingtonpost.com/nation/2026/11/20/florida-authorities-investigate-killing-family-heard-911-call/"
+  ],
+  [
+    "late",
+    14,
+    "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions"
   ],
   [
     "china",
     13,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html"
   ],
   [
-    "spirit",
+    "minister",
     13,
-    "https://www.theguardian.com/football/2026/nov/20/washington-spirit-provide-hope-and-joy-in-a-city-that-badly-needs-it"
+    "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html"
   ],
   [
-    "cancer",
+    "los",
     13,
-    "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal"
+    "https://www.washingtonpost.com/the-seven/2026/11/21/jonathan-rinderknecht-convicted-starting-palisades-wildfire-los-angeles/"
+  ],
+  [
+    "killed",
+    13,
+    "https://www.washingtonpost.com/nation/2026/11/20/florida-authorities-investigate-killing-family-heard-911-call/"
+  ],
+  [
+    "book",
+    13,
+    "https://www.washingtonpost.com/obituaries/2026/11/20/jonathan-yardley-pulitzer-winning-book-critic-post-dies-87/"
+  ],
+  [
+    "released",
+    13,
+    "https://www.washingtonpost.com/nation/2026/11/20/bigfoot-believers-get-boost-an-unlikely-ally-us-forest-service/"
+  ],
+  [
+    "already",
+    13,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "immigration",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "least",
+    13,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  ],
+  [
+    "gop",
+    13,
+    "https://www.theguardian.com/us-news/2026/nov/21/new-jersey-two-women-indicted"
+  ],
+  [
+    "company",
+    13,
+    "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+  ],
+  [
+    "america",
+    13,
+    "https://www.theguardian.com/film/2026/nov/21/primetime-preachers-documentary-televangelism"
   ],
   [
     "gift",
@@ -211,64 +241,59 @@
     "https://www.theguardian.com/lifeandstyle/2026/nov/22/the-moment-i-knew-she-flew-me-to-the-scene-of-my-favourite-romantic-movie"
   ],
   [
-    "reader",
+    "arrested",
     13,
-    "https://www.theguardian.com/thefilter-us/2026/nov/21/reader-favorite-holiday-gifts"
+    "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges"
   ],
   [
-    "gta",
+    "south",
     13,
-    "https://www.theguardian.com/commentisfree/2026/nov/21/gta-6-flu-vice-city-gamers-sick-day"
+    "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
   ],
   [
-    "costs",
-    13,
-    "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed"
-  ],
-  [
-    "winter",
-    13,
-    "https://www.theguardian.com/music/2026/nov/20/the-weeks-best-new-tracks-and-the-act-you-need-to-know-threshold"
-  ],
-  [
-    "democratic",
+    "leader",
     12,
-    "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html"
+    "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html"
   ],
   [
-    "father",
+    "bill",
     12,
-    "https://www.washingtonpost.com/nation/2026/11/20/florida-authorities-investigate-killing-family-heard-911-call/"
+    "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"
   ],
   [
-    "released",
+    "everything",
     12,
-    "https://www.washingtonpost.com/nation/2026/11/20/bigfoot-believers-get-boost-an-unlikely-ally-us-forest-service/"
-  ],
-  [
-    "attack",
-    12,
-    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+    "https://www.nytimes.com/2026/11/20/arts/music/popcast-interview-jennifer-lopez.html"
   ],
   [
     "hard",
     12,
-    "https://www.theguardian.com/thefilter-us/2026/nov/21/best-early-black-friday-cyber-monday-deals"
+    "https://www.nytimes.com/2026/11/20/arts/music/popcast-interview-jennifer-lopez.html"
   ],
   [
-    "fbi",
+    "angeles",
     12,
-    "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack"
+    "https://www.washingtonpost.com/the-seven/2026/11/21/jonathan-rinderknecht-convicted-starting-palisades-wildfire-los-angeles/"
   ],
   [
-    "company",
+    "washington",
     12,
-    "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+    "https://www.washingtonpost.com/obituaries/2026/11/20/jonathan-yardley-pulitzer-winning-book-critic-post-dies-87/"
   ],
   [
-    "young",
+    "florida",
     12,
-    "https://www.theguardian.com/lifeandstyle/2026/nov/22/the-moment-i-knew-she-flew-me-to-the-scene-of-my-favourite-romantic-movie"
+    "https://www.theguardian.com/us-news/2026/nov/21/democrats-florida-midterm-election-loss"
+  ],
+  [
+    "crime",
+    12,
+    "https://www.theguardian.com/film/2026/nov/21/primetime-preachers-documentary-televangelism"
+  ],
+  [
+    "something",
+    12,
+    "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex"
   ],
   [
     "release",
@@ -276,54 +301,69 @@
     "https://www.theguardian.com/commentisfree/2026/nov/21/gta-6-flu-vice-city-gamers-sick-day"
   ],
   [
-    "win",
+    "close",
     12,
-    "https://www.theguardian.com/commentisfree/2026/nov/20/democrats-blue-collar-populists"
+    "https://www.theguardian.com/football/2026/nov/21/newcastle-arsenal-premier-league-match-report"
   ],
   [
-    "mynd",
+    "senate",
     12,
-    "https://www.cbsnews.com/video/saturday-sessions-mynd-reader-plays-still-uncertain/"
+    "https://www.theguardian.com/us-news/2026/nov/21/trump-republican-endorsements-midterms"
   ],
   [
-    "early",
+    "fbi",
+    12,
+    "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack"
+  ],
+  [
+    "costs",
+    12,
+    "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed"
+  ],
+  [
+    "winter",
+    12,
+    "https://www.theguardian.com/music/2026/nov/20/the-weeks-best-new-tracks-and-the-act-you-need-to-know-threshold"
+  ],
+  [
+    "country",
+    11,
+    "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html"
+  ],
+  [
+    "isidro",
+    11,
+    "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html"
+  ],
+  [
+    "tech",
     11,
     "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"
   ],
   [
-    "intelligence",
+    "latest",
     11,
-    "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html"
+    "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html"
   ],
   [
-    "place",
+    "prime",
     11,
-    "https://www.nytimes.com/2026/11/21/theater/joe-keery-other-desert-cities-broadway.html"
+    "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html"
   ],
   [
-    "child",
+    "health",
     11,
-    "https://www.washingtonpost.com/nation/2026/11/20/florida-authorities-investigate-killing-family-heard-911-call/"
+    "https://www.washingtonpost.com/health/2026/11/20/federal-health-panel-reshaped-by-rfk-jr-faces-political-interference-concerns/"
   ],
   [
-    "county",
+    "red",
     11,
-    "https://www.washingtonpost.com/nation/2026/11/20/florida-authorities-investigate-killing-family-heard-911-call/"
+    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
   ],
   [
-    "point",
+    "tested",
     11,
-    "https://www.washingtonpost.com/business/2026/11/19/nvidia-scandal-drives-push-tougher-export-control-enforcement/"
-  ],
-  [
-    "everything",
-    11,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "hollywood",
-    11,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.theguardian.com/thefilter-us/2026/nov/21/best-early-black-friday-cyber-monday-deals"
   ],
   [
     "filter",
@@ -331,48 +371,8 @@
     "https://www.theguardian.com/thefilter-us/2026/nov/21/best-early-black-friday-cyber-monday-deals"
   ],
   [
-    "human",
+    "party",
     11,
-    "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions"
-  ],
-  [
-    "late",
-    11,
-    "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions"
-  ],
-  [
-    "turkey",
-    11,
-    "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels"
-  ],
-  [
-    "gop",
-    11,
-    "https://www.theguardian.com/us-news/2026/nov/21/trump-republican-endorsements-midterms"
-  ],
-  [
-    "football",
-    11,
-    "https://www.theguardian.com/commentisfree/2026/nov/21/gta-6-flu-vice-city-gamers-sick-day"
-  ],
-  [
-    "star",
-    11,
-    "https://www.theguardian.com/sport/2026/nov/21/james-harden-51-points-kobe-bryant-cavaliers-pacers-nba"
-  ],
-  [
-    "south",
-    11,
-    "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat"
-  ],
-  [
-    "college",
-    11,
-    "https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case"
-  ],
-  [
-    "something",
-    11,
-    "https://www.theguardian.com/environment/2026/nov/21/alaska-bering-sea-heatwave-snow-tanner-hybrid-crabs-fishing-quotas"
+    "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms"
   ]
 ];
