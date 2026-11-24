@@ -2,321 +2,346 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    64,
-    "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html"
+    87,
+    "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html"
+  ],
+  [
+    "nvidia",
+    52,
+    "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html"
+  ],
+  [
+    "huang",
+    52,
+    "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html"
   ],
   [
     "president",
-    34,
-    "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html"
+    52,
+    "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html"
   ],
   [
-    "democrats",
-    32,
-    "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html"
+    "jensen",
+    44,
+    "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html"
   ],
   [
-    "thanksgiving",
-    27,
-    "https://cooking.nytimes.com/article/easy-thanksgiving-recipes-no-oven-space"
+    "court",
+    44,
+    "https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html"
   ],
   [
     "california",
-    27,
-    "https://www.washingtonpost.com/the-seven/2026/11/21/jonathan-rinderknecht-convicted-starting-palisades-wildfire-los-angeles/"
+    32,
+    "https://www.nytimes.com/2026/11/23/weather/california-king-tides-storm.html"
   ],
   [
-    "american",
-    23,
-    "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html"
+    "ceo",
+    29,
+    "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html"
   ],
   [
-    "love",
-    23,
-    "https://www.theguardian.com/music/2026/nov/23/donny-osmond-interview-fame-failure-michael-jackson-friendship"
-  ],
-  [
-    "game",
-    22,
-    "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming"
-  ],
-  [
-    "ice",
-    20,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "holiday",
-    20,
-    "https://www.theguardian.com/thefilter-us/2026/nov/22/best-gift-ideas-50"
-  ],
-  [
-    "early",
-    19,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "season",
-    19,
-    "https://www.theguardian.com/thefilter-us/2026/nov/21/reader-favorite-holiday-gifts"
-  ],
-  [
-    "grand",
-    18,
-    "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming"
+    "iowa",
+    29,
+    "https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html"
   ],
   [
     "black",
-    17,
-    "https://www.washingtonpost.com/nation/2026/11/22/when-captain-kirk-lieutenant-uhura-kissed-people-were-pretty-okay-with-it/"
+    29,
+    "https://www.washingtonpost.com/nation/2026/11/23/black-adults-southerners-more-likely-struggle-afford-food-study-says/"
   ],
   [
-    "climate",
-    17,
-    "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+    "thanksgiving",
+    28,
+    "https://www.washingtonpost.com/nation/2026/11/23/thanksgiving-turkeys-arrive-willard-hotel-ahead-white-house-pardon/"
+  ],
+  [
+    "game",
+    28,
+    "https://www.theguardian.com/thefilter-us/best-food-storage-containers"
+  ],
+  [
+    "board",
+    27,
+    "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/23/nvidia-board-jensen-huang-return"
   ],
   [
     "food",
-    17,
-    "https://www.theguardian.com/us-news/2026/nov/22/memphis-tn-ice-detained"
+    26,
+    "https://www.washingtonpost.com/nation/2026/11/23/black-adults-southerners-more-likely-struggle-afford-food-study-says/"
   ],
   [
-    "win",
-    17,
-    "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool"
+    "army",
+    26,
+    "https://www.washingtonpost.com/nation/2026/11/22/us-army-tells-court-it-will-go-ahead-with-detonation-iowa-by-tuesday/"
   ],
   [
-    "sen",
-    17,
-    "https://www.foxnews.com/media/mark-ruffalo-doubles-down-call-oust-schumer-over-entrenched-religious-beliefs-loyalties"
+    "sexual",
+    24,
+    "https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html"
   ],
   [
-    "sayed",
-    16,
-    "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html"
+    "step",
+    23,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "experts",
-    16,
-    "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html"
+    "climate",
+    23,
+    "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced"
   ],
   [
-    "air",
-    16,
-    "https://cooking.nytimes.com/article/easy-thanksgiving-recipes-no-oven-space"
+    "country",
+    22,
+    "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html"
   ],
   [
-    "democratic",
-    16,
+    "appeals",
+    21,
+    "https://www.theguardian.com/us-news/2026/nov/23/legal-path-erase-donald-trump-hush-money-conviction"
+  ],
+  [
+    "lead",
+    20,
+    "https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html"
+  ],
+  [
+    "early",
+    20,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "gomez",
+    19,
+    "https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html"
+  ],
+  [
+    "democrats",
+    19,
+    "https://www.washingtonpost.com/business/2026/11/23/senate-gop-leaders-signal-openness-cutting-off-iran-war-funding/"
+  ],
+  [
+    "love",
+    19,
+    "https://www.theguardian.com/thefilter-us/best-food-storage-containers"
+  ],
+  [
+    "video",
+    18,
     "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport"
   ],
   [
-    "night",
+    "company",
+    17,
+    "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/23/nvidia-board-jensen-huang-return"
+  ],
+  [
+    "cop",
+    17,
+    "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced"
+  ],
+  [
+    "deals",
+    17,
+    "https://www.theguardian.com/thefilter-us/2026/nov/23/black-friday-deals-plastic-free"
+  ],
+  [
+    "administration",
     16,
-    "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+    "https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html"
   ],
   [
-    "nfl",
+    "government",
     16,
-    "https://www.theguardian.com/sport/2026/nov/22/nfl-roundup-sunday-football-scores"
+    "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html"
   ],
   [
-    "party",
-    15,
-    "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html"
+    "united",
+    16,
+    "https://www.nytimes.com/2026/11/23/health/measles-adults-vaccine-boosters.html"
   ],
   [
-    "elect",
-    15,
-    "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html"
+    "already",
+    16,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
   ],
   [
-    "americans",
-    15,
-    "https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html"
+    "everything",
+    16,
+    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
   ],
   [
-    "death",
-    15,
-    "https://www.nytimes.com/2026/11/23/opinion/defund-iran-war-democrats.html"
+    "turkey",
+    16,
+    "https://www.theguardian.com/thefilter-us/best-food-storage-containers"
   ],
   [
-    "film",
+    "governor",
+    16,
+    "https://www.theguardian.com/us-news/2026/nov/23/sheriff-chad-bianco-security-spending-california-governor-candidate"
+  ],
+  [
+    "security",
     15,
-    "https://www.theguardian.com/film/2026/nov/23/chilling-new-films-casting-nazi-collaborators-new-light-resistance-moral-dilemna"
+    "https://www.nytimes.com/2026/11/23/opinion/jensen-huang-trump-reinstated.html"
+  ],
+  [
+    "return",
+    15,
+    "https://www.washingtonpost.com/business/2026/11/23/hes-so-back-silicon-valley-celebrates-jensen-huangs-return/"
   ],
   [
     "york",
     15,
-    "https://www.theguardian.com/sport/2026/nov/22/tarik-skubal-new-york-mets-reported-deal-contract"
+    "https://www.theguardian.com/us-news/2026/nov/23/legal-path-erase-donald-trump-hush-money-conviction"
   ],
   [
-    "prison",
+    "dinner",
     15,
-    "https://www.theguardian.com/news/2026/nov/22/russell-brand-wife-laura-gallacher-youtube-video"
+    "https://www.theguardian.com/us-news/2026/nov/23/sheriff-chad-bianco-security-spending-california-governor-candidate"
   ],
   [
-    "record",
+    "democratic",
+    15,
+    "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport"
+  ],
+  [
+    "don",
+    15,
+    "https://www.theguardian.com/film/2026/nov/23/focker-in-law-review-triangle-of-sadness-as-ariana-grande-joins-stiller-and-de-niro-in-the-circle-of-trust"
+  ],
+  [
+    "gift",
+    15,
+    "https://www.theguardian.com/thefilter-us/2026/nov/06/best-personalized-custom-gift-ideas"
+  ],
+  [
+    "texas",
+    15,
+    "https://www.theguardian.com/us-news/2026/nov/23/social-media-us-politics-midterms"
+  ],
+  [
+    "experts",
     14,
-    "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html"
+    "https://www.nytimes.com/2026/11/23/health/measles-adults-vaccine-boosters.html"
   ],
   [
-    "largest",
+    "again",
     14,
-    "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html"
-  ],
-  [
-    "health",
-    14,
-    "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html"
-  ],
-  [
-    "attacks",
-    14,
-    "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html"
-  ],
-  [
-    "died",
-    14,
-    "https://www.nytimes.com/2026/11/22/us/donald-hooton-sr-dead.html"
-  ],
-  [
-    "congress",
-    14,
-    "https://www.nytimes.com/2026/11/22/us/donald-hooton-sr-dead.html"
-  ],
-  [
-    "army",
-    14,
-    "https://www.washingtonpost.com/nation/2026/11/22/us-army-tells-court-it-will-go-ahead-with-detonation-iowa-by-tuesday/"
-  ],
-  [
-    "bill",
-    14,
-    "https://www.washingtonpost.com/the-seven/2026/11/21/jonathan-rinderknecht-convicted-starting-palisades-wildfire-los-angeles/"
-  ],
-  [
-    "sea",
-    14,
-    "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba"
-  ],
-  [
-    "sleep",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat"
-  ],
-  [
-    "majority",
-    13,
-    "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html"
-  ],
-  [
-    "decades",
-    13,
-    "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html"
-  ],
-  [
-    "democrat",
-    13,
-    "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html"
-  ],
-  [
-    "abdul",
-    13,
-    "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html"
-  ],
-  [
-    "attack",
-    13,
-    "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html"
-  ],
-  [
-    "iran",
-    13,
-    "https://www.nytimes.com/2026/11/23/opinion/defund-iran-war-democrats.html"
-  ],
-  [
-    "despite",
-    13,
-    "https://www.washingtonpost.com/nation/2026/11/22/us-army-tells-court-it-will-go-ahead-with-detonation-iowa-by-tuesday/"
+    "https://www.nytimes.com/2026/11/23/us/san-francisco-flooding-water-sewer-rain.html"
   ],
   [
     "global",
-    13,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    14,
+    "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html"
   ],
   [
-    "star",
-    13,
-    "https://www.theguardian.com/music/2026/nov/23/donny-osmond-interview-fame-failure-michael-jackson-friendship"
+    "detonation",
+    14,
+    "https://www.washingtonpost.com/nation/2026/11/22/us-army-tells-court-it-will-go-ahead-with-detonation-iowa-by-tuesday/"
   ],
   [
-    "talks",
-    13,
-    "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+    "night",
+    14,
+    "https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts"
   ],
   [
-    "fossil",
-    13,
-    "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+    "money",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/23/legal-path-erase-donald-trump-hush-money-conviction"
   ],
   [
-    "video",
+    "guide",
+    14,
+    "https://www.theguardian.com/thefilter-us/2026/nov/23/black-friday-deals-plastic-free"
+  ],
+  [
+    "grand",
+    14,
+    "https://www.theguardian.com/sport/2026/nov/23/game-over-how-playing-grand-theft-auto-vi-is-affecting-elite-athletes-performances"
+  ],
+  [
+    "decision",
+    13,
+    "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html"
+  ],
+  [
+    "rep",
+    13,
+    "https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html"
+  ],
+  [
+    "jimmy",
+    13,
+    "https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html"
+  ],
+  [
+    "donald",
+    13,
+    "https://www.nytimes.com/2026/11/23/opinion/jensen-huang-trump-reinstated.html"
+  ],
+  [
+    "ice",
+    13,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "filter",
+    13,
+    "https://www.theguardian.com/thefilter-us/best-food-storage-containers"
+  ],
+  [
+    "worth",
+    13,
+    "https://www.theguardian.com/thefilter-us/best-food-storage-containers"
+  ],
+  [
+    "action",
+    13,
+    "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced"
+  ],
+  [
+    "american",
     13,
     "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport"
   ],
   [
+    "holiday",
+    13,
+    "https://www.theguardian.com/us-news/2026/nov/23/cranberry-growing-climate-crisis"
+  ],
+  [
     "theft",
     13,
-    "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists"
+    "https://www.theguardian.com/commentisfree/2026/nov/23/jilly-cooper-plagiarism-allegations-rivals"
   ],
   [
-    "senate",
+    "forward",
     13,
-    "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed"
+    "https://www.theguardian.com/football/2026/nov/23/gianni-infantino-world-cup-sell-off-plan-96-years-documents-payouts"
   ],
   [
-    "don",
+    "death",
     13,
-    "https://www.theguardian.com/environment/2026/nov/21/alaska-bering-sea-heatwave-snow-tanner-hybrid-crabs-fishing-quotas"
+    "https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles"
   ],
   [
-    "china",
+    "gov",
+    13,
+    "https://www.latimes.com/world-nation/story/2026-11-23/trump-will-address-justice-department-transformed-by-his-pursuit-of-political-adversaries"
+  ],
+  [
+    "market",
     12,
-    "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html"
+    "https://www.nytimes.com/2026/11/23/opinion/jensen-huang-trump-reinstated.html"
   ],
   [
-    "care",
+    "others",
     12,
-    "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html"
+    "https://www.washingtonpost.com/business/2026/11/23/hes-so-back-silicon-valley-celebrates-jensen-huangs-return/"
   ],
   [
-    "republican",
-    12,
-    "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html"
-  ],
-  [
-    "virginia",
-    12,
-    "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html"
-  ],
-  [
-    "war",
-    12,
-    "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html"
-  ],
-  [
-    "little",
-    12,
-    "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html"
-  ],
-  [
-    "government",
-    12,
-    "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html"
-  ],
-  [
-    "least",
+    "won",
     12,
     "https://www.washingtonpost.com/nation/2026/11/22/why-jackie-kennedy-wore-gore-spattered-suit-all-day-why-we-wont-see-it-again/"
   ],
@@ -326,53 +351,28 @@
     "https://www.washingtonpost.com/obituaries/2026/11/22/he-wrote-personal-notes-hundreds-christmas-cards-every-year/"
   ],
   [
-    "already",
+    "china",
     12,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "red",
+    "case",
     12,
-    "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+    "https://www.theguardian.com/us-news/2026/nov/23/legal-path-erase-donald-trump-hush-money-conviction"
   ],
   [
-    "hollywood",
+    "film",
     12,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
+    "https://www.theguardian.com/us-news/2026/nov/23/legal-path-erase-donald-trump-hush-money-conviction"
   ],
   [
-    "past",
+    "lost",
     12,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct"
   ],
   [
-    "jackson",
+    "social",
     12,
-    "https://www.theguardian.com/music/2026/nov/23/donny-osmond-interview-fame-failure-michael-jackson-friendship"
-  ],
-  [
-    "young",
-    12,
-    "https://www.theguardian.com/music/2026/nov/23/donny-osmond-interview-fame-failure-michael-jackson-friendship"
-  ],
-  [
-    "always",
-    12,
-    "https://www.theguardian.com/commentisfree/2026/nov/23/nasa-astronauts-moon-science-crew-member-women"
-  ],
-  [
-    "dinner",
-    12,
-    "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin"
-  ],
-  [
-    "russian",
-    12,
-    "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
-  ],
-  [
-    "worth",
-    12,
-    "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists"
+    "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport"
   ]
 ];
