@@ -2,211 +2,186 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    72,
-    "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html"
-  ],
-  [
-    "nvidia",
-    63,
-    "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
+    60,
+    "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html"
   ],
   [
     "huang",
-    59,
+    50,
+    "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
+  ],
+  [
+    "nvidia",
+    50,
     "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
   ],
   [
     "thanksgiving",
-    50,
+    45,
     "https://www.washingtonpost.com/weather/2026/11/24/what-you-need-know-about-how-weather-will-affect-holiday-travel/"
   ],
   [
     "jensen",
-    45,
+    39,
     "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
   ],
   [
     "president",
-    40,
-    "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html"
-  ],
-  [
-    "black",
-    39,
-    "https://www.washingtonpost.com/business/2026/11/24/how-retailers-make-black-friday-sale-look-better-than-it-is/"
+    34,
+    "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html"
   ],
   [
     "game",
-    37,
-    "https://www.theguardian.com/us-news/2026/nov/24/georgia-tech-football-couple-arguing-espn"
+    33,
+    "https://www.theguardian.com/sport/2026/nov/25/steelers-bench-aaron-rodgers-mason-rudolph-broncos-nfl"
   ],
   [
-    "ceo",
-    30,
-    "https://www.washingtonpost.com/business/2026/11/23/markets-soar-huang-returns-nvidia-ceo/"
-  ],
-  [
-    "company",
-    23,
-    "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
-  ],
-  [
-    "return",
-    23,
-    "https://www.washingtonpost.com/business/2026/11/23/hes-so-back-silicon-valley-celebrates-jensen-huangs-return/"
-  ],
-  [
-    "democrats",
-    22,
-    "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html"
-  ],
-  [
-    "york",
-    22,
-    "https://www.nytimes.com/2026/11/24/nyregion/graffiti-sane-nyc-david-smith-art.html"
-  ],
-  [
-    "country",
-    22,
-    "https://www.washingtonpost.com/immigration/2026/11/24/kilmar-abrego-garcia/"
-  ],
-  [
-    "deals",
-    20,
+    "black",
+    29,
     "https://www.washingtonpost.com/business/2026/11/24/how-retailers-make-black-friday-sale-look-better-than-it-is/"
   ],
   [
-    "chinese",
-    20,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+    "ceo",
+    25,
+    "https://www.washingtonpost.com/business/2026/11/23/markets-soar-huang-returns-nvidia-ceo/"
   ],
   [
-    "tech",
-    19,
+    "court",
+    22,
+    "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us"
+  ],
+  [
+    "army",
+    21,
+    "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html"
+  ],
+  [
+    "china",
+    21,
+    "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html"
+  ],
+  [
+    "democrats",
+    21,
     "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html"
   ],
   [
     "food",
-    19,
+    21,
     "https://www.washingtonpost.com/nation/2026/11/23/black-adults-southerners-more-likely-struggle-afford-food-study-says/"
   ],
   [
-    "early",
-    19,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "american",
-    19,
-    "https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe"
-  ],
-  [
-    "democratic",
-    18,
-    "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress"
-  ],
-  [
-    "holiday",
-    18,
-    "https://www.theguardian.com/us-news/2026/nov/24/thanksgiving-travel-storms-weather"
-  ],
-  [
-    "majority",
-    17,
-    "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html"
-  ],
-  [
-    "donald",
-    17,
-    "https://www.washingtonpost.com/nation/2026/11/23/thanksgiving-turkeys-arrive-willard-hotel-ahead-white-house-pardon/"
-  ],
-  [
-    "past",
-    17,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
-  ],
-  [
-    "court",
-    17,
-    "https://www.theguardian.com/us-news/2026/nov/24/social-media-not-liable-2022-buffalo-mass-shooting"
-  ],
-  [
-    "texas",
-    17,
-    "https://www.theguardian.com/music/2026/nov/22/sharleen-spiteri-texas-honest-playlist-acdc-elvis-costello"
-  ],
-  [
-    "chief",
-    16,
-    "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html"
-  ],
-  [
     "lead",
-    16,
+    20,
     "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html"
   ],
   [
-    "already",
-    16,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
-  ],
-  [
-    "reinstatement",
-    16,
-    "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress"
-  ],
-  [
-    "london",
-    16,
-    "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report"
-  ],
-  [
-    "china",
-    15,
-    "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html"
-  ],
-  [
-    "iowa",
-    15,
-    "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html"
+    "company",
+    19,
+    "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
   ],
   [
     "review",
-    15,
+    19,
     "https://www.nytimes.com/2026/11/23/books/review/notable-books.html"
   ],
   [
+    "country",
+    19,
+    "https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html"
+  ],
+  [
+    "return",
+    19,
+    "https://www.washingtonpost.com/business/2026/11/23/hes-so-back-silicon-valley-celebrates-jensen-huangs-return/"
+  ],
+  [
+    "iowa",
+    18,
+    "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html"
+  ],
+  [
     "california",
-    15,
+    18,
     "https://www.washingtonpost.com/weather/2026/11/24/california-storm-is-brewing-why-main-danger-is-coasts/"
   ],
   [
-    "ice",
-    15,
+    "coast",
+    18,
+    "https://www.washingtonpost.com/nation/2026/11/23/california-braces-king-tides-big-waves-that-could-batter-coast/"
+  ],
+  [
+    "early",
+    17,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "guide",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/nov/24/best-black-friday-winter-gear"
-  ],
-  [
-    "alleged",
-    15,
-    "https://www.theguardian.com/news/video/2026/nov/24/trump-makes-millions-after-pushing-nvidia-to-reinstate-huang-the-latest"
-  ],
-  [
-    "worth",
-    15,
-    "https://www.theguardian.com/thefilter-us/2026/nov/21/best-early-black-friday-cyber-monday-deals"
-  ],
-  [
-    "games",
-    15,
+    "london",
+    17,
     "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report"
   ],
   [
-    "ahead",
+    "york",
+    16,
+    "https://www.nytimes.com/2026/11/23/books/review/notable-books.html"
+  ],
+  [
+    "past",
+    16,
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+  ],
+  [
+    "something",
+    16,
+    "https://www.theguardian.com/tv-and-radio/2026/nov/25/rory-culkin-interview-anxiety-fatherhood-famous-brothers"
+  ],
+  [
+    "police",
+    16,
+    "https://www.theguardian.com/us-news/video/2026/nov/25/moment-dog-and-owner-get-swept-up-by-king-tide-on-oregon-beach-video"
+  ],
+  [
+    "grand",
+    15,
+    "https://www.washingtonpost.com/nation/2026/11/24/grand-canyon-national-park-superintendent-who-faced-scrutiny-over-fire-will-retire/"
+  ],
+  [
+    "already",
+    15,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "texas",
+    15,
+    "https://www.theguardian.com/lifeandstyle/2026/nov/25/a-moment-that-changed-me-running-out-of-time-grandma-got-a-tattoo"
+  ],
+  [
+    "majority",
+    14,
+    "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html"
+  ],
+  [
+    "abrego",
+    14,
+    "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html"
+  ],
+  [
+    "kilmar",
+    14,
+    "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html"
+  ],
+  [
+    "spain",
+    14,
+    "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html"
+  ],
+  [
+    "night",
+    14,
+    "https://www.nytimes.com/2026/11/25/arts/television/late-night-rips-into-trump-for-honoring-rudy-giuliani.html"
+  ],
+  [
+    "tides",
     14,
     "https://www.washingtonpost.com/weather/2026/11/24/california-storm-is-brewing-why-main-danger-is-coasts/"
   ],
@@ -216,64 +191,144 @@
     "https://www.washingtonpost.com/religion/2026/11/24/sikh-langar-ritual-expands-thanksgiving-concept-hospitality/"
   ],
   [
-    "number",
+    "family",
     14,
-    "https://www.washingtonpost.com/nation/2026/11/23/number-homeless-students-hit-historic-high-federal-data-show/"
+    "https://www.washingtonpost.com/religion/2026/11/24/sikh-langar-ritual-expands-thanksgiving-concept-hospitality/"
   ],
   [
-    "board",
+    "ice",
     14,
-    "https://www.theguardian.com/news/video/2026/nov/24/trump-makes-millions-after-pushing-nvidia-to-reinstate-huang-the-latest"
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "something",
+    "plane",
     14,
-    "https://www.theguardian.com/film/2026/nov/24/hexed-movie-review-disney"
+    "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup"
   ],
   [
-    "war",
-    13,
-    "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html"
+    "stop",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/nov/25/sustainable-fishing-conservation-charities-ecosystems-health"
   ],
   [
-    "senate",
-    13,
-    "https://www.nytimes.com/2026/11/24/upshot/midterm-elections-upsets-predictions.html"
+    "music",
+    14,
+    "https://www.theguardian.com/music/2026/nov/25/working-with-kanye-west-talk-about-intractable-egos-caroline-shaw-the-pulitzer-winning-composer-everyone-wants-to-work-with"
   ],
   [
-    "became",
-    13,
-    "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html"
+    "far",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash"
   ],
   [
-    "turkey",
-    13,
-    "https://www.theguardian.com/food/2026/nov/24/chicago-sun-wah-bbq-thanksgiving"
+    "decades",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee"
   ],
   [
-    "police",
-    13,
-    "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data"
+    "social",
+    14,
+    "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation"
   ],
   [
-    "amazon",
-    13,
+    "american",
+    14,
+    "https://www.theguardian.com/lifeandstyle/2026/nov/25/a-moment-that-changed-me-running-out-of-time-grandma-got-a-tattoo"
+  ],
+  [
+    "alleged",
+    14,
     "https://www.theguardian.com/commentisfree/2026/nov/24/photos-melania-looking-like-a-waxwork-will-the-trumps-ever-run-out-of-money-making-ideas"
   ],
   [
-    "stock",
-    12,
-    "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html"
+    "games",
+    14,
+    "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report"
   ],
   [
-    "army",
-    12,
-    "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html"
+    "history",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/24/democrats-senate-juliana-stratton"
+  ],
+  [
+    "residents",
+    13,
+    "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html"
   ],
   [
     "race",
-    12,
+    13,
     "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html"
+  ],
+  [
+    "term",
+    13,
+    "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html"
+  ],
+  [
+    "garcia",
+    13,
+    "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html"
+  ],
+  [
+    "administration",
+    13,
+    "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html"
+  ],
+  [
+    "judge",
+    13,
+    "https://www.nytimes.com/2026/11/24/us/politics/house-lawyer-ilhan-omar-search.html"
+  ],
+  [
+    "board",
+    13,
+    "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html"
+  ],
+  [
+    "late",
+    13,
+    "https://www.nytimes.com/2026/11/25/arts/television/late-night-rips-into-trump-for-honoring-rudy-giuliani.html"
+  ],
+  [
+    "several",
+    13,
+    "https://www.washingtonpost.com/immigration/2026/11/24/kilmar-abrego-garcia/"
+  ],
+  [
+    "place",
+    13,
+    "https://www.washingtonpost.com/religion/2026/11/24/sikh-langar-ritual-expands-thanksgiving-concept-hospitality/"
+  ],
+  [
+    "deals",
+    13,
+    "https://www.washingtonpost.com/business/2026/11/24/how-retailers-make-black-friday-sale-look-better-than-it-is/"
+  ],
+  [
+    "execution",
+    13,
+    "https://www.theguardian.com/global-development/ng-interactive/2026/nov/25/ghost-strikes-the-rise-of-drone-superpowers-fuelling-remote-killing-of-thousands-of-civilians-with-impunity"
+  ],
+  [
+    "guide",
+    13,
+    "https://www.theguardian.com/commentisfree/2026/nov/25/sustainable-fishing-conservation-charities-ecosystems-health"
+  ],
+  [
+    "democratic",
+    13,
+    "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress"
+  ],
+  [
+    "holiday",
+    13,
+    "https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation"
+  ],
+  [
+    "security",
+    12,
+    "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html"
   ],
   [
     "biggest",
@@ -281,14 +336,14 @@
     "https://www.nytimes.com/2026/11/24/upshot/midterm-elections-upsets-predictions.html"
   ],
   [
-    "book",
+    "leader",
     12,
-    "https://www.nytimes.com/2026/11/23/books/review/notable-books.html"
+    "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html"
   ],
   [
-    "presidential",
+    "death",
     12,
-    "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html"
+    "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html"
   ],
   [
     "museum",
@@ -296,83 +351,28 @@
     "https://www.nytimes.com/2026/11/24/arts/design/thelma-golden-steps-down-studio-museum-harlem.html"
   ],
   [
-    "published",
+    "travel",
     12,
-    "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html"
+    "https://www.washingtonpost.com/weather/2026/11/24/what-you-need-know-about-how-weather-will-affect-holiday-travel/"
   ],
   [
-    "decades",
+    "ahead",
     12,
-    "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html"
+    "https://www.washingtonpost.com/weather/2026/11/24/california-storm-is-brewing-why-main-danger-is-coasts/"
   ],
   [
-    "leader",
+    "donald",
     12,
-    "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html"
+    "https://www.washingtonpost.com/nation/2026/11/23/thanksgiving-turkeys-arrive-willard-hotel-ahead-white-house-pardon/"
   ],
   [
-    "freedom",
+    "united",
     12,
-    "https://www.nytimes.com/2026/11/24/us/politics/trump-rudy-giuliani-presidential-medal-of-freedom.html"
+    "https://www.theguardian.com/global-development/ng-interactive/2026/nov/25/ghost-strikes-the-rise-of-drone-superpowers-fuelling-remote-killing-of-thousands-of-civilians-with-impunity"
   ],
   [
-    "health",
+    "turkey",
     12,
-    "https://www.washingtonpost.com/immigration/2026/11/24/300000-legal-immigrants-told-theyre-losing-medicare-coverage/"
-  ],
-  [
-    "family",
-    12,
-    "https://www.washingtonpost.com/religion/2026/11/24/sikh-langar-ritual-expands-thanksgiving-concept-hospitality/"
-  ],
-  [
-    "market",
-    12,
-    "https://www.washingtonpost.com/business/2026/11/23/markets-soar-huang-returns-nvidia-ceo/"
-  ],
-  [
-    "iran",
-    12,
-    "https://www.washingtonpost.com/business/2026/11/23/senate-gop-leaders-signal-openness-cutting-off-iran-war-funding/"
-  ],
-  [
-    "winter",
-    12,
-    "https://www.washingtonpost.com/nation/2026/11/23/california-braces-king-tides-big-waves-that-could-batter-coast/"
-  ],
-  [
-    "israel",
-    12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "released",
-    12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  ],
-  [
-    "case",
-    12,
-    "https://www.theguardian.com/technology/2026/nov/24/huawei-china-convicted-deceiving-banks-stealing-us-trade-secrets"
-  ],
-  [
-    "release",
-    12,
-    "https://www.theguardian.com/film/2026/nov/24/hexed-movie-review-disney"
-  ],
-  [
-    "history",
-    12,
-    "https://www.theguardian.com/us-news/2026/nov/24/democrats-senate-juliana-stratton"
-  ],
-  [
-    "grand",
-    12,
-    "https://www.theguardian.com/games/2026/nov/24/man-theft-auto-why-did-so-few-women-review-gta-vi-the-biggest-video-game-of-the-decade"
-  ],
-  [
-    "companies",
-    11,
-    "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html"
+    "https://www.theguardian.com/global-development/ng-interactive/2026/nov/25/ghost-strikes-the-rise-of-drone-superpowers-fuelling-remote-killing-of-thousands-of-civilians-with-impunity"
   ]
 ];
