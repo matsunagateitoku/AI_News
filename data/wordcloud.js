@@ -2,143 +2,223 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "trump",
-    60,
-    "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html"
-  ],
-  [
-    "huang",
-    50,
-    "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
-  ],
-  [
-    "nvidia",
-    50,
-    "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
+    65,
+    "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html"
   ],
   [
     "thanksgiving",
-    45,
-    "https://www.washingtonpost.com/weather/2026/11/24/what-you-need-know-about-how-weather-will-affect-holiday-travel/"
-  ],
-  [
-    "jensen",
-    39,
-    "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
-  ],
-  [
-    "president",
-    34,
-    "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html"
-  ],
-  [
-    "game",
-    33,
-    "https://www.theguardian.com/sport/2026/nov/25/steelers-bench-aaron-rodgers-mason-rudolph-broncos-nfl"
+    53,
+    "https://www.nytimes.com/2026/11/25/weather/thanksgiving-weather-storm-rain-flooding.html"
   ],
   [
     "black",
-    29,
+    36,
     "https://www.washingtonpost.com/business/2026/11/24/how-retailers-make-black-friday-sale-look-better-than-it-is/"
   ],
   [
-    "ceo",
-    25,
-    "https://www.washingtonpost.com/business/2026/11/23/markets-soar-huang-returns-nvidia-ceo/"
-  ],
-  [
-    "court",
-    22,
-    "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us"
-  ],
-  [
-    "army",
-    21,
-    "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html"
-  ],
-  [
-    "china",
-    21,
-    "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html"
-  ],
-  [
-    "democrats",
-    21,
-    "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html"
-  ],
-  [
-    "food",
-    21,
-    "https://www.washingtonpost.com/nation/2026/11/23/black-adults-southerners-more-likely-struggle-afford-food-study-says/"
-  ],
-  [
-    "lead",
-    20,
-    "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html"
-  ],
-  [
-    "company",
-    19,
-    "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
-  ],
-  [
-    "review",
-    19,
-    "https://www.nytimes.com/2026/11/23/books/review/notable-books.html"
-  ],
-  [
-    "country",
-    19,
-    "https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html"
-  ],
-  [
-    "return",
-    19,
-    "https://www.washingtonpost.com/business/2026/11/23/hes-so-back-silicon-valley-celebrates-jensen-huangs-return/"
+    "game",
+    35,
+    "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy"
   ],
   [
     "iowa",
-    18,
-    "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html"
+    34,
+    "https://www.nytimes.com/2026/11/25/us/iowa-army-ammunition-blast.html"
   ],
   [
-    "california",
-    18,
-    "https://www.washingtonpost.com/weather/2026/11/24/california-storm-is-brewing-why-main-danger-is-coasts/"
+    "lead",
+    31,
+    "https://www.nytimes.com/2026/11/25/us/iowa-detonation-lead-what-next.html"
   ],
   [
-    "coast",
-    18,
-    "https://www.washingtonpost.com/nation/2026/11/23/california-braces-king-tides-big-waves-that-could-batter-coast/"
-  ],
-  [
-    "early",
-    17,
+    "president",
+    30,
     "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
   ],
   [
-    "london",
-    17,
-    "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report"
+    "rodgers",
+    30,
+    "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy"
+  ],
+  [
+    "army",
+    27,
+    "https://www.nytimes.com/2026/11/25/us/iowa-army-ammunition-blast.html"
+  ],
+  [
+    "data",
+    25,
+    "https://www.washingtonpost.com/climate-environment/2026/11/25/iowa-town-awaits-us-armys-planned-detonation-lead-azide-stockpile/"
+  ],
+  [
+    "democrats",
+    24,
+    "https://www.nytimes.com/2026/11/25/business/corporate-america-democrats.html"
+  ],
+  [
+    "steelers",
+    24,
+    "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy"
+  ],
+  [
+    "family",
+    23,
+    "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html"
+  ],
+  [
+    "american",
+    23,
+    "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html"
+  ],
+  [
+    "children",
+    23,
+    "https://www.washingtonpost.com/nation/2026/11/25/six-killed-plane-crash-off-mississippi-coast-near-horn-island/"
+  ],
+  [
+    "aaron",
+    22,
+    "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy"
+  ],
+  [
+    "coast",
+    21,
+    "https://www.nytimes.com/2026/11/25/weather/thanksgiving-weather-storm-rain-flooding.html"
+  ],
+  [
+    "administration",
+    21,
+    "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html"
+  ],
+  [
+    "nvidia",
+    21,
+    "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html"
+  ],
+  [
+    "because",
+    21,
+    "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html"
+  ],
+  [
+    "court",
+    20,
+    "https://www.nytimes.com/2026/11/25/us/politics/why-arent-the-midterms-over-in-louisiana-ask-the-supreme-court.html"
+  ],
+  [
+    "war",
+    20,
+    "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  ],
+  [
+    "parade",
+    19,
+    "https://www.washingtonpost.com/nation/2026/11/25/macys-thanksgiving-day-parade-postponed-by-storm-rescheduled-saturday/"
+  ],
+  [
+    "deals",
+    19,
+    "https://www.washingtonpost.com/business/2026/11/24/how-retailers-make-black-friday-sale-look-better-than-it-is/"
+  ],
+  [
+    "early",
+    19,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "team",
+    19,
+    "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  ],
+  [
+    "huang",
+    19,
+    "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia"
+  ],
+  [
+    "love",
+    19,
+    "https://www.theguardian.com/thefilter-us/2026/nov/25/toad-co-clothing-review"
   ],
   [
     "york",
-    16,
-    "https://www.nytimes.com/2026/11/23/books/review/notable-books.html"
+    18,
+    "https://www.nytimes.com/2026/11/25/opinion/nyc-jeffries-schumer-mamdani-aoc-trump.html"
   ],
   [
-    "past",
-    16,
-    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
+    "food",
+    18,
+    "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s"
   ],
   [
-    "something",
-    16,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/25/rory-culkin-interview-anxiety-fatherhood-famous-brothers"
+    "texas",
+    17,
+    "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html"
   ],
   [
-    "police",
+    "holiday",
+    17,
+    "https://www.nytimes.com/2026/11/25/insider/thanksgiving-dinner-politics-conversation.html"
+  ],
+  [
+    "review",
+    17,
+    "https://www.washingtonpost.com/nation/2026/11/25/fort-hood-shooter-nidal-malik-hasan-asks-court-stay-execution/"
+  ],
+  [
+    "health",
+    17,
+    "https://www.washingtonpost.com/immigration/2026/11/24/300000-legal-immigrants-told-theyre-losing-medicare-coverage/"
+  ],
+  [
+    "mccarthy",
+    17,
+    "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy"
+  ],
+  [
+    "americans",
     16,
-    "https://www.theguardian.com/us-news/video/2026/nov/25/moment-dog-and-owner-get-swept-up-by-king-tide-on-oregon-beach-video"
+    "https://www.nytimes.com/2026/11/25/us/economic-growth-recession-pessimism.html"
+  ],
+  [
+    "judge",
+    16,
+    "https://www.nytimes.com/2026/11/25/nyregion/mamdani-rent-freeze-legal-challenge-apartments.html"
+  ],
+  [
+    "california",
+    16,
+    "https://www.nytimes.com/2026/11/25/weather/california-king-tides-sf-la.html"
+  ],
+  [
+    "killed",
+    16,
+    "https://www.washingtonpost.com/nation/2026/11/25/fort-hood-shooter-nidal-malik-hasan-asks-court-stay-execution/"
+  ],
+  [
+    "south",
+    16,
+    "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides"
+  ],
+  [
+    "father",
+    16,
+    "https://www.theguardian.com/film/2026/nov/25/josephine-movie-true-story"
+  ],
+  [
+    "democratic",
+    15,
+    "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html"
+  ],
+  [
+    "country",
+    15,
+    "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html"
+  ],
+  [
+    "season",
+    15,
+    "https://www.washingtonpost.com/lifestyle/2026/11/25/thanksgiving-travel-is-trauma-season-wildlife-these-2-owls-got-lucky/"
   ],
   [
     "grand",
@@ -146,233 +226,153 @@
     "https://www.washingtonpost.com/nation/2026/11/24/grand-canyon-national-park-superintendent-who-faced-scrutiny-over-fire-will-retire/"
   ],
   [
-    "already",
+    "detonation",
     15,
-    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+    "https://www.washingtonpost.com/nation/2026/11/24/5-ways-minimize-health-risks-armys-iowa-lead-detonation/"
   ],
   [
-    "texas",
+    "coach",
     15,
-    "https://www.theguardian.com/lifeandstyle/2026/nov/25/a-moment-that-changed-me-running-out-of-time-grandma-got-a-tattoo"
+    "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy"
   ],
   [
-    "majority",
-    14,
-    "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html"
+    "due",
+    15,
+    "https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather"
   ],
   [
-    "abrego",
-    14,
-    "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html"
+    "jensen",
+    15,
+    "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia"
   ],
   [
-    "kilmar",
+    "again",
     14,
-    "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html"
-  ],
-  [
-    "spain",
-    14,
-    "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html"
-  ],
-  [
-    "night",
-    14,
-    "https://www.nytimes.com/2026/11/25/arts/television/late-night-rips-into-trump-for-honoring-rudy-giuliani.html"
-  ],
-  [
-    "tides",
-    14,
-    "https://www.washingtonpost.com/weather/2026/11/24/california-storm-is-brewing-why-main-danger-is-coasts/"
-  ],
-  [
-    "don",
-    14,
-    "https://www.washingtonpost.com/religion/2026/11/24/sikh-langar-ritual-expands-thanksgiving-concept-hospitality/"
-  ],
-  [
-    "family",
-    14,
-    "https://www.washingtonpost.com/religion/2026/11/24/sikh-langar-ritual-expands-thanksgiving-concept-hospitality/"
+    "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html"
   ],
   [
     "ice",
     14,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+    "https://www.nytimes.com/2026/11/25/us/ice-arrest-boston-lottery-winner.html"
   ],
   [
-    "plane",
+    "million",
     14,
-    "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup"
+    "https://www.nytimes.com/2026/11/25/us/ice-arrest-boston-lottery-winner.html"
   ],
   [
-    "stop",
+    "immigration",
     14,
-    "https://www.theguardian.com/commentisfree/2026/nov/25/sustainable-fishing-conservation-charities-ecosystems-health"
+    "https://www.nytimes.com/2026/11/25/us/ice-arrest-boston-lottery-winner.html"
   ],
   [
-    "music",
+    "case",
     14,
-    "https://www.theguardian.com/music/2026/nov/25/working-with-kanye-west-talk-about-intractable-egos-caroline-shaw-the-pulitzer-winning-composer-everyone-wants-to-work-with"
+    "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html"
   ],
   [
-    "far",
+    "dinner",
     14,
-    "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash"
+    "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html"
   ],
   [
-    "decades",
+    "won",
     14,
-    "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee"
+    "https://www.theguardian.com/commentisfree/2026/nov/25/vanity-fair-takedown-taylor-swift-expose-hot-air"
   ],
   [
-    "social",
+    "mike",
     14,
-    "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation"
+    "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy"
   ],
   [
-    "american",
+    "theft",
     14,
-    "https://www.theguardian.com/lifeandstyle/2026/nov/25/a-moment-that-changed-me-running-out-of-time-grandma-got-a-tattoo"
+    "https://www.theguardian.com/music/2026/nov/25/grand-theft-auto-vi-the-album-review"
   ],
   [
-    "alleged",
+    "auto",
     14,
-    "https://www.theguardian.com/commentisfree/2026/nov/24/photos-melania-looking-like-a-waxwork-will-the-trumps-ever-run-out-of-money-making-ideas"
+    "https://www.theguardian.com/music/2026/nov/25/grand-theft-auto-vi-the-album-review"
   ],
   [
-    "games",
+    "governor",
     14,
-    "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report"
+    "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys"
   ],
   [
-    "history",
+    "ukraine",
     14,
-    "https://www.theguardian.com/us-news/2026/nov/24/democrats-senate-juliana-stratton"
+    "https://www.theguardian.com/books/2026/nov/24/from-sovereigns-to-servants-by-alexandra-prokopenko-review-putin-and-his-yes-men"
   ],
   [
-    "residents",
+    "china",
     13,
-    "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html"
+    "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html"
   ],
   [
-    "race",
+    "turkey",
     13,
-    "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html"
+    "https://cooking.nytimes.com/article/easy-thanksgiving-recipes"
   ],
   [
-    "term",
+    "members",
     13,
-    "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html"
+    "https://www.nytimes.com/2026/11/25/opinion/politics-family-midterms-voting-holidays.html"
   ],
   [
-    "garcia",
+    "abrego",
     13,
-    "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html"
+    "https://www.washingtonpost.com/immigration/2026/11/25/kilmar-abrego-garcia-leaves-us-spain-ending-20-month-deportation-fight/"
   ],
   [
-    "administration",
+    "spain",
     13,
-    "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html"
+    "https://www.washingtonpost.com/immigration/2026/11/25/kilmar-abrego-garcia-leaves-us-spain-ending-20-month-deportation-fight/"
   ],
   [
-    "judge",
+    "weather",
     13,
-    "https://www.nytimes.com/2026/11/24/us/politics/house-lawyer-ilhan-omar-search.html"
+    "https://www.washingtonpost.com/weather/2026/11/24/what-you-need-know-about-how-weather-will-affect-holiday-travel/"
   ],
   [
-    "board",
+    "questions",
     13,
-    "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html"
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
   ],
   [
-    "late",
+    "investigation",
     13,
-    "https://www.nytimes.com/2026/11/25/arts/television/late-night-rips-into-trump-for-honoring-rudy-giuliani.html"
+    "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff"
   ],
   [
-    "several",
+    "little",
     13,
-    "https://www.washingtonpost.com/immigration/2026/11/24/kilmar-abrego-garcia/"
-  ],
-  [
-    "place",
-    13,
-    "https://www.washingtonpost.com/religion/2026/11/24/sikh-langar-ritual-expands-thanksgiving-concept-hospitality/"
-  ],
-  [
-    "deals",
-    13,
-    "https://www.washingtonpost.com/business/2026/11/24/how-retailers-make-black-friday-sale-look-better-than-it-is/"
-  ],
-  [
-    "execution",
-    13,
-    "https://www.theguardian.com/global-development/ng-interactive/2026/nov/25/ghost-strikes-the-rise-of-drone-superpowers-fuelling-remote-killing-of-thousands-of-civilians-with-impunity"
+    "https://www.theguardian.com/lifeandstyle/2026/nov/25/ina-garten-chunky-cranberry-conserve-recipe"
   ],
   [
     "guide",
     13,
-    "https://www.theguardian.com/commentisfree/2026/nov/25/sustainable-fishing-conservation-charities-ecosystems-health"
+    "https://www.theguardian.com/thefilter-us/2026/nov/25/black-friday-non-toxic-cookware-pans-deals"
   ],
   [
-    "democratic",
+    "duran",
     13,
-    "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress"
+    "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead"
   ],
   [
-    "holiday",
+    "died",
     13,
-    "https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation"
+    "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead"
   ],
   [
-    "security",
-    12,
-    "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html"
+    "always",
+    13,
+    "https://www.theguardian.com/tv-and-radio/2026/nov/25/blade-runner-2099-review-tv-version-terrifying-visual-beauty"
   ],
   [
-    "biggest",
-    12,
-    "https://www.nytimes.com/2026/11/24/upshot/midterm-elections-upsets-predictions.html"
-  ],
-  [
-    "leader",
-    12,
-    "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html"
-  ],
-  [
-    "death",
-    12,
-    "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html"
-  ],
-  [
-    "museum",
-    12,
-    "https://www.nytimes.com/2026/11/24/arts/design/thelma-golden-steps-down-studio-museum-harlem.html"
-  ],
-  [
-    "travel",
-    12,
-    "https://www.washingtonpost.com/weather/2026/11/24/what-you-need-know-about-how-weather-will-affect-holiday-travel/"
-  ],
-  [
-    "ahead",
-    12,
-    "https://www.washingtonpost.com/weather/2026/11/24/california-storm-is-brewing-why-main-danger-is-coasts/"
-  ],
-  [
-    "donald",
-    12,
-    "https://www.washingtonpost.com/nation/2026/11/23/thanksgiving-turkeys-arrive-willard-hotel-ahead-white-house-pardon/"
-  ],
-  [
-    "united",
-    12,
-    "https://www.theguardian.com/global-development/ng-interactive/2026/nov/25/ghost-strikes-the-rise-of-drone-superpowers-fuelling-remote-killing-of-thousands-of-civilians-with-impunity"
-  ],
-  [
-    "turkey",
-    12,
-    "https://www.theguardian.com/global-development/ng-interactive/2026/nov/25/ghost-strikes-the-rise-of-drone-superpowers-fuelling-remote-killing-of-thousands-of-civilians-with-impunity"
+    "prices",
+    13,
+    "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation"
   ]
 ];
