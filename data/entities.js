@@ -3,138 +3,138 @@
   "GPE": [
     {
       "name": "Us",
-      "count": 54,
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iowa",
-      "count": 29,
-      "url": "https://www.washingtonpost.com/climate-environment/2026/11/25/iowa-town-awaits-us-armys-planned-detonation-lead-azide-stockpile/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "U.S.",
-      "count": 23,
-      "url": "https://www.nytimes.com/2026/11/25/us/economic-growth-recession-pessimism.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Texas",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "California",
-      "count": 16,
-      "url": "https://www.nytimes.com/2026/11/25/weather/california-king-tides-sf-la.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "China",
-      "count": 13,
-      "url": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Spain",
-      "count": 13,
-      "url": "https://www.washingtonpost.com/immigration/2026/11/25/kilmar-abrego-garcia-leaves-us-spain-ending-20-month-deportation-fight/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Ukraine",
-      "count": 13,
-      "url": "https://www.theguardian.com/books/2026/nov/24/from-sovereigns-to-servants-by-alexandra-prokopenko-review-putin-and-his-yes-men",
+      "count": 48,
+      "url": "https://www.theguardian.com/environment/2026/nov/25/turkey-salmonella-butterball",
       "source": "The Guardian"
     },
     {
       "name": "Duran",
-      "count": 12,
-      "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
-      "source": "The Guardian"
+      "count": 29,
+      "url": "https://www.washingtonpost.com/entertainment/music/2026/11/25/andy-taylor-versatile-guitarist-duran-duran-dies-65/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "California",
+      "count": 23,
+      "url": "https://www.nytimes.com/2026/11/25/weather/california-king-tides-sf-la.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iowa",
+      "count": 22,
+      "url": "https://www.washingtonpost.com/nation/2026/11/25/how-army-detonated-explosives-iowa-potential-plume/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Texas",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "U.S.",
+      "count": 16,
+      "url": "https://www.washingtonpost.com/immigration/2026/11/24/kilmar-abrego-garcia/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "China",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/11/26/arts/television/late-night-meyers-huang-therapy-fallon.html",
+      "source": "NY Times"
     },
     {
       "name": "New York City’S",
-      "count": 11,
+      "count": 13,
       "url": "https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Northern Gaza",
+      "count": 9,
+      "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Uk",
+      "count": 9,
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/26/ron-athey-extreme-performance-artist-scrotum-stapler",
       "source": "The Guardian"
     }
   ],
   "ORG": [
     {
-      "name": "Trump Administration Unveils New Tariffs For",
-      "count": 44,
-      "url": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
+      "name": "Trump Administration’S",
+      "count": 38,
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/2030-census-changes",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Fcc",
+      "count": 23,
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Macy",
+      "count": 21,
+      "url": "https://www.nytimes.com/2026/11/25/nyregion/thanksgiving-parade-new-york-postponed.html",
       "source": "NY Times"
     },
     {
-      "name": "Ai",
+      "name": "Abc",
       "count": 21,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/25/blade-runner-2099-review-tv-version-terrifying-visual-beauty",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ai",
+      "count": 20,
+      "url": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
       "source": "The Guardian"
     },
     {
       "name": "The U.S. Army",
-      "count": 21,
+      "count": 20,
       "url": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/",
       "source": "CBS News"
     },
     {
-      "name": "Macy",
-      "count": 18,
-      "url": "https://www.washingtonpost.com/nation/2026/11/25/macys-thanksgiving-day-parade-postponed-by-storm-rescheduled-saturday/",
-      "source": "Washington Post"
+      "name": "Guardian",
+      "count": 15,
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/26/ron-athey-extreme-performance-artist-scrotum-stapler",
+      "source": "The Guardian"
     },
     {
       "name": "Nvidia",
-      "count": 15,
+      "count": 14,
       "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
       "source": "The Guardian"
     },
     {
-      "name": "The White House",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/immigration/2026/11/25/homeland-security-secretary-faces-criticism-over-tech-breakdowns-immigration/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Guardian",
-      "count": 14,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/25/ina-garten-chunky-cranberry-conserve-recipe",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nfl",
-      "count": 12,
-      "url": "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy",
-      "source": "The Guardian"
-    },
-    {
       "name": "Gop",
-      "count": 10,
+      "count": 9,
       "url": "https://www.politico.com/news/2026/11/21/republican-chairs-know-stuck-with-trump-2028-01179393",
       "source": "Politico"
     },
     {
-      "name": "Congress",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
-      "source": "NY Times"
+      "name": "Nfl",
+      "count": 8,
+      "url": "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy",
+      "source": "The Guardian"
     }
   ],
   "EVENT": [
     {
-      "name": "Black Friday",
-      "count": 19,
-      "url": "https://www.washingtonpost.com/business/2026/11/24/how-retailers-make-black-friday-sale-look-better-than-it-is/",
-      "source": "Washington Post"
+      "name": "Thanksgiving Day Parade",
+      "count": 18,
+      "url": "https://www.nytimes.com/2026/11/25/nyregion/thanksgiving-parade-new-york-postponed.html",
+      "source": "NY Times"
     },
     {
-      "name": "Thanksgiving Day Parade",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/nation/2026/11/25/macys-thanksgiving-day-parade-postponed-by-storm-rescheduled-saturday/",
+      "name": "Black Friday",
+      "count": 16,
+      "url": "https://www.washingtonpost.com/business/2026/11/24/how-retailers-make-black-friday-sale-look-better-than-it-is/",
       "source": "Washington Post"
     },
     {
@@ -144,15 +144,27 @@
       "source": "The Guardian"
     },
     {
-      "name": "Recession",
+      "name": "The Thanksgiving Parade",
       "count": 1,
-      "url": "https://www.nytimes.com/2026/11/25/us/economic-growth-recession-pessimism.html",
+      "url": "https://www.nytimes.com/2026/11/25/nyregion/thanksgiving-parade-new-york-postponed.html",
       "source": "NY Times"
     },
     {
-      "name": "Olympic",
+      "name": "The Swinging Sixties",
       "count": 1,
-      "url": "https://www.theguardian.com/film/2026/nov/25/josephine-movie-true-story",
+      "url": "https://www.nytimes.com/2026/11/25/style/veruschka-dead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Noisy Day",
+      "count": 1,
+      "url": "https://www.theguardian.com/music/2026/nov/26/birkenhead-day-of-the-dead-peoples-pyramid-klf",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Love Iranian-American Style",
+      "count": 1,
+      "url": "https://www.theguardian.com/film/2026/nov/26/an-eye-for-an-eye-tanaz-eshaghian",
       "source": "The Guardian"
     },
     {
@@ -168,66 +180,60 @@
       "source": "The Guardian"
     },
     {
-      "name": "The Essence Festival Of Culture",
+      "name": "Olympic",
       "count": 1,
-      "url": "https://www.latimes.com/entertainment-arts/music/story/2026-11-25/essence-festival-culture-leaving-new-orleans",
-      "source": "LA Times"
-    },
-    {
-      "name": "Hurricane Helene",
-      "count": 1,
-      "url": "https://www.politico.com/news/2026/11/19/josh-stein-north-carolina-data-centers-01176128",
-      "source": "Politico"
+      "url": "https://www.theguardian.com/film/2026/nov/25/josephine-movie-true-story",
+      "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Aaron Rodgers",
-      "count": 27,
+      "count": 26,
       "url": "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy",
       "source": "The Guardian"
     },
     {
-      "name": "Donald Trump",
+      "name": "Melania Trump",
       "count": 17,
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
       "source": "The Guardian"
     },
     {
-      "name": "Mike Mccarthy",
+      "name": "Andy Taylor",
       "count": 16,
+      "url": "https://www.nytimes.com/2026/11/25/arts/music/andy-taylor-duran-duran-dead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Mike Mccarthy",
+      "count": 15,
       "url": "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy",
       "source": "The Guardian"
     },
     {
       "name": "Jensen Huang",
-      "count": 16,
+      "count": 9,
       "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
       "source": "The Guardian"
     },
     {
-      "name": "Steelers",
-      "count": 13,
-      "url": "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jd Vance",
-      "count": 10,
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Vladimir Putin",
+      "name": "Jason Allen",
       "count": 9,
-      "url": "https://www.theguardian.com/books/2026/nov/24/from-sovereigns-to-servants-by-alexandra-prokopenko-review-putin-and-his-yes-men",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Kilmar Abrego Garcia",
-      "count": 9,
-      "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/",
+      "url": "https://www.cbsnews.com/video/thanksgiving-meal-costs-rise-food-donation-lines-get-longer/",
       "source": "CBS News"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 8,
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Brad Pitt",
+      "count": 7,
+      "url": "https://www.theguardian.com/film/2026/nov/25/brad-pitt-angelina-jolie-settle-french-winery-lawsuit",
+      "source": "The Guardian"
     },
     {
       "name": "Caroline Shaw",
@@ -236,11 +242,11 @@
       "source": "The Guardian"
     },
     {
-      "name": "Andy Taylor",
-      "count": 6,
-      "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
+      "name": "Vladimir Putin",
+      "count": 7,
+      "url": "https://www.theguardian.com/books/2026/nov/24/from-sovereigns-to-servants-by-alexandra-prokopenko-review-putin-and-his-yes-men",
       "source": "The Guardian"
     }
   ],
-  "updated": "2026-11-25T22:15:23Z"
+  "updated": "2026-11-26T09:17:07Z"
 };
