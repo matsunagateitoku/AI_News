@@ -2,145 +2,151 @@
 (window.newsData=window.newsData||{}).entities={
   "ORG": [
     {
-      "name": "Trump Administration’S Cuts",
-      "count": 38,
-      "url": "https://www.nytimes.com/2026/11/26/us/politics/snap-food-stamps-school-meals.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Macy",
-      "count": 18,
-      "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Ai",
-      "count": 14,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
+      "name": "Trump Administration’S",
+      "count": 35,
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/2030-census-changes",
       "source": "The Guardian"
     },
     {
-      "name": "Fcc",
-      "count": 14,
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Abc",
-      "count": 13,
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nvidia",
-      "count": 10,
-      "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The U.S. Senate",
-      "count": 10,
-      "url": "https://www.latimes.com/entertainment-arts/music/story/2026-11-17/bruce-springsteen-fan-club-shut-down-after-abdul-el-sayed-endorsement",
+      "name": "Google Ai",
+      "count": 28,
+      "url": "https://www.latimes.com/california/story/2026-11-27/lausd-blocks-google-ai-search",
       "source": "LA Times"
     },
     {
-      "name": "Penguin Random House",
+      "name": "Macy",
+      "count": 17,
+      "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Nba Cup Finale",
+      "count": 12,
+      "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-bonuses-4x-free-picks-tonights-nba-cup-finale",
+      "source": "Fox News"
+    },
+    {
+      "name": "Senate",
+      "count": 11,
+      "url": "https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "The White House",
       "count": 8,
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/25/ina-garten-chunky-cranberry-conserve-recipe",
+      "url": "https://www.washingtonpost.com/nation/2026/11/26/asked-about-iran-contra-reagan-joked-about-pardoning-turkey-tradition-followed/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Nvidia",
+      "count": 8,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/27/donald-trump-destroying-us-law-tech-titans-jensen-huang-nvidia",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Amazon",
+      "count": 7,
+      "url": "https://www.theguardian.com/global/2026/nov/27/amazon-sale-deals-deceive-customers-black-friday-cyber-monday",
       "source": "The Guardian"
     },
     {
       "name": "Gop",
-      "count": 8,
+      "count": 7,
       "url": "https://www.politico.com/news/2026/11/21/republican-chairs-know-stuck-with-trump-2028-01179393",
       "source": "Politico"
     },
     {
-      "name": "Guardian",
-      "count": 7,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/26/pro-choice-abortion-statistics-natsal-survey-deprivation-sexual-attitudes-energy-bills-reproductive-choice",
+      "name": "Netflix",
+      "count": 6,
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/27/tighten-your-corsets-pass-the-smelling-salts-its-the-greatest-period-dramas-ever-made",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Melania Trump",
-      "count": 19,
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
+      "count": 10,
+      "url": "https://www.washingtonpost.com/business/2026/11/27/trump-administration-has-escalated-denials-einstein-visa/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Jensen Huang",
+      "count": 9,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/27/donald-trump-destroying-us-law-tech-titans-jensen-huang-nvidia",
       "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump Jr.",
+      "count": 8,
+      "url": "https://www.foxnews.com/media/donald-trump-jr-criticizes-netflix-over-racy-hunting-wives-thanksgiving-post",
+      "source": "Fox News"
     },
     {
       "name": "Vladimir Putin",
-      "count": 11,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/26/the-guardian-view-on-russias-war-dead-the-toll-wont-stop-putin-resolve-in-backing-ukraine-remains-essential",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Andy Taylor",
-      "count": 10,
-      "url": "https://www.washingtonpost.com/entertainment/music/2026/11/25/andy-taylor-versatile-guitarist-duran-duran-dies-65/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Mike Mccarthy",
-      "count": 10,
-      "url": "https://www.theguardian.com/sport/2026/nov/26/steelers-owner-gives-backing-to-mike-mccarthy-in-row-with-aaron-rodgers",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Strobe Talbott",
-      "count": 8,
-      "url": "https://www.washingtonpost.com/obituaries/2026/11/26/strobe-talbott-who-helped-shape-clinton-era-foreign-policy-dies-80/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Aaron Rodgers",
-      "count": 8,
-      "url": "https://www.theguardian.com/sport/2026/nov/26/steelers-owner-gives-backing-to-mike-mccarthy-in-row-with-aaron-rodgers",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Jason Allen",
-      "count": 8,
-      "url": "https://www.cbsnews.com/video/how-to-protect-packages-porch-pirates/",
-      "source": "CBS News"
-    },
-    {
-      "name": "Donald Trump",
       "count": 7,
-      "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Volodymyr Zelenskyy",
-      "count": 6,
       "url": "https://www.theguardian.com/world/2026/nov/27/ukraine-war-briefing-kyiv-launched-more-long-range-strikes-in-2026-than-rest-of-war-combined-data-shows",
       "source": "The Guardian"
     },
     {
-      "name": "Lucia",
+      "name": "Bill Clinton",
       "count": 6,
-      "url": "https://www.theguardian.com/games/2026/nov/25/the-secret-to-grand-theft-auto-vi-routine-rockstar-games",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/biden-promise-me-america-memoir-sales-fall-short",
       "source": "The Guardian"
+    },
+    {
+      "name": "Deb Fischer",
+      "count": 6,
+      "url": "https://www.cbsnews.com/news/sen-deb-fischer-husband-bruce-suicide/",
+      "source": "CBS News"
+    },
+    {
+      "name": "Maddie Ziegler",
+      "count": 5,
+      "url": "https://www.theguardian.com/film/2026/nov/27/netflix-christmas-holiday-movies",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Elizabeth Jenkins",
+      "count": 5,
+      "url": "https://www.theguardian.com/books/2026/nov/26/honey-by-elizabeth-jenkins-review-a-rediscovered-60s-classic-of-sex-money-and-power",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Ro Khanna",
+      "count": 5,
+      "url": "https://www.politico.com/news/2026/11/26/cenk-uygur-goes-all-in-on-ro-khanna-for-2028-01184321",
+      "source": "Politico"
+    },
+    {
+      "name": "Will Jd Vance",
+      "count": 4,
+      "url": "https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html",
+      "source": "NY Times"
     }
   ],
   "EVENT": [
     {
-      "name": "Black Friday Smartwatch",
-      "count": 39,
-      "url": "https://www.nbcnews.com/select/shopping/black-friday-smartwatch-deals-2026-rcna611461",
-      "source": "NBC News"
-    },
-    {
-      "name": "The Thanksgiving Day Parade",
-      "count": 14,
-      "url": "https://www.cbsnews.com/video/texas-town-helps-high-school-marching-band-stay-postponed-thanksgiving-day-parade/",
+      "name": "Black Friday For Day 3",
+      "count": 53,
+      "url": "https://www.cbsnews.com/video/cbs-mornings-deals-112726-2/",
       "source": "CBS News"
     },
     {
-      "name": "World Cup",
-      "count": 4,
-      "url": "https://www.theguardian.com/sport/2026/nov/26/campbell-wright-becomes-first-american-to-win-world-cup-biathlon-event",
+      "name": "Thanksgiving Day Parade",
+      "count": 16,
+      "url": "https://www.washingtonpost.com/nation/2026/11/25/macys-thanksgiving-day-parade-postponed-by-storm-rescheduled-saturday/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Post-Thanksgiving",
+      "count": 2,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/27/black-friday-in-real-life",
+      "source": "The Guardian"
+    },
+    {
+      "name": "The Iran War",
+      "count": 2,
+      "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
       "source": "The Guardian"
     },
     {
@@ -150,16 +156,10 @@
       "source": "The Guardian"
     },
     {
-      "name": "Wwii",
+      "name": "Nba Cup Action",
       "count": 2,
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
-      "source": "NPR"
-    },
-    {
-      "name": "World War Ii",
-      "count": 2,
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
-      "source": "NPR"
+      "url": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-bet-5-four-days-get-200-bonus-bets-starting-friday-night-nba-cup",
+      "source": "Fox News"
     },
     {
       "name": "Black Friday 2026",
@@ -168,9 +168,9 @@
       "source": "NBC News"
     },
     {
-      "name": "Thanksgiving Day Parade",
-      "count": 2,
-      "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html",
+      "name": "Black Friday Deals",
+      "count": 1,
+      "url": "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html",
       "source": "NY Times"
     },
     {
@@ -180,73 +180,73 @@
       "source": "Washington Post"
     },
     {
-      "name": "Satan",
+      "name": "This Black Friday",
       "count": 1,
-      "url": "https://www.theguardian.com/music/2026/nov/27/we-had-a-drug-dealer-called-satan-on-our-tour-bus-britpop-stars-echobelly-on-debauchery-being-pals-with-oasis-and-their-spiritual-return",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
       "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 48,
-      "url": "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather",
+      "count": 49,
+      "url": "https://www.theguardian.com/thefilter-us/2026/nov/27/black-friday-deals-best-holiday-gifts",
       "source": "The Guardian"
-    },
-    {
-      "name": "Duran",
-      "count": 20,
-      "url": "https://www.washingtonpost.com/entertainment/music/2026/11/25/andy-taylor-versatile-guitarist-duran-duran-dies-65/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Ukraine",
-      "count": 20,
-      "url": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Iowa",
-      "count": 19,
-      "url": "https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html",
-      "source": "NY Times"
     },
     {
       "name": "U.S.",
-      "count": 19,
-      "url": "https://www.washingtonpost.com/immigration/2026/11/24/kilmar-abrego-garcia/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Russia",
       "count": 17,
-      "url": "https://www.washingtonpost.com/obituaries/2026/11/26/strobe-talbott-who-helped-shape-clinton-era-foreign-policy-dies-80/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "California",
-      "count": 16,
-      "url": "https://www.washingtonpost.com/nation/2026/11/25/thomas-markle-indicted-charges-possessing-child-sex-abuse-material/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "New York City",
-      "count": 14,
-      "url": "https://www.washingtonpost.com/nation/2026/11/26/powerful-thanksgiving-storm-threatens-east-coast-with-floods-damaging-winds/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "China",
-      "count": 12,
       "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
       "source": "Wall St. Journal"
     },
     {
-      "name": "Texas",
+      "name": "Russia",
+      "count": 14,
+      "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Ukraine",
+      "count": 14,
+      "url": "https://www.theguardian.com/world/2026/nov/27/mass-casualty-event-europe-possible-russian-sabotage-says-thinktank",
+      "source": "The Guardian"
+    },
+    {
+      "name": "L.A. County'S",
       "count": 11,
-      "url": "https://www.washingtonpost.com/education/2026/11/25/lesson-islam-texas-classroom-sparks-outcry-after-blue-wave/",
+      "url": "https://www.latimes.com/business/story/2026-11-25/how-one-developer-plans-to-build-big-data-center-in-la-county-where-nimbys-wont-notice",
+      "source": "LA Times"
+    },
+    {
+      "name": "The United States Of America",
+      "count": 11,
+      "url": "https://thehill.com/homenews/campaign/6245451-cenk-uygur-ro-khanna-2028-election/",
+      "source": "The Hill"
+    },
+    {
+      "name": "California",
+      "count": 10,
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/27/the-week-around-the-world-in-20-pictures",
+      "source": "The Guardian"
+    },
+    {
+      "name": "New York City’S",
+      "count": 9,
+      "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Iowa",
+      "count": 9,
+      "url": "https://www.washingtonpost.com/nation/2026/11/25/how-army-detonated-explosives-iowa-potential-plume/",
       "source": "Washington Post"
+    },
+    {
+      "name": "Canada",
+      "count": 8,
+      "url": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+      "source": "NY Times"
     }
   ],
-  "updated": "2026-11-27T09:31:45Z"
+  "updated": "2026-11-27T21:51:34Z"
 };
